@@ -432,7 +432,7 @@
 <!ENTITY markAsJunkCmd.label "ჯართად">
 <!ENTITY markAsJunkCmd.accesskey "ჯ">
 <!ENTITY markAsJunkCmd.key "j">
-<!ENTITY markAsNotJunkCmd.label "ჯართად აღნიშვნის მოხსნა">
+<!ENTITY markAsNotJunkCmd.label "გამოსადეგად">
 <!ENTITY markAsNotJunkCmd.accesskey "ღ">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "ჯართის ამოცნობის ჩართვა">
@@ -599,7 +599,7 @@
 <!ENTITY printButton.tooltip "წერილის დაბეჭდვა">
 <!ENTITY stopButton.tooltip "მიმდინარე გაგზავნის შეჩერება">
 <!ENTITY junkButton.tooltip "შერჩეული წერილების ჯართად მონიშვნა">
-<!ENTITY notJunkButton.tooltip "შერჩეული წერილების არაჯართად მონიშვნა">
+<!ENTITY notJunkButton.tooltip "შერჩეული წერილების გამოსადეგად ჩათვლა">
 <!ENTITY addressBookButton.tooltip "Go to the address book">
 <!ENTITY chatButton.tooltip "სასაუბრო დაფის ჩვენება">
 <!ENTITY tagButton.tooltip "წერილების დაჭდევება">

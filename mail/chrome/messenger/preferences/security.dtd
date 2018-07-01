@@ -3,10 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemJunk.label          "ჯართი">
-<!ENTITY itemPhishing.label      "ელფოსტთ შემოჭრები">
+<!ENTITY itemPhishing.label      "თაღლითური ელფოსტები">
 <!ENTITY itemPasswords.label     "პაროლები">
 <!ENTITY itemAntiVirus.label     "ანტივირუსი">
-<!ENTITY itemCookies.label       "საიტის შიგთავსი">
 
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "მიუთითეთ ჯართის პარამეტრები. ჯართის ანგარიშზე დამოკიდებული პარამეტრების მითითება შესაძლებელია ანგარიშის პარამეტრების სექციაში.">
@@ -27,7 +26,7 @@
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName;-ს შეუძლია გააანალიზოს საეჭვო გზავნილები გარკვეული ტექნოლოგიების გამოყენებით.">
-<!ENTITY enablePhishingDetector1.label    "შეტყობინება საეჭვო ელფოსტით შემოჭრის მცდელობის გზავნილის შემთხვევაში">
+<!ENTITY enablePhishingDetector1.label    "გაფრთხილება, თაღლითობაში შემჩნეული ელფოსტიდან მიღებული წერილის გახსნისას">
 <!ENTITY enablePhishingDetector1.accesskey  "T">
 <!ENTITY useDownloadedList.label "საეჭვო გზავნილების ჩამოტვირთული სიის გამოყენება">
 <!ENTITY useDownloadedList.accesskey "U">
@@ -46,21 +45,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName;-ს შეუძლია გააიოლოს ანტივირუსის მუშაობა შემოსულ წერილებში ვირუსების აღმოსაჩენად მათ ლოკალურად შენახვამდე.">
 <!ENTITY antiVirus.label      "ანტივირუსის პროგრამისთვის ცალკეული გზავნილების კარანტინის ნებართვა">
 <!ENTITY antiVirus.accesskey  "A">
-
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "&brandShortName; პროგრამა საშუალებას გაძლევთ რომელი ბლოგებიდან, სიახლეთა არხებიდან და სხვა საიტებიდანაა ნებადართული ნაჭდევების მიღება.">
-<!ENTITY acceptCookies.label            "ნაჭდევების მიღება საიტებიდან">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "შენარჩუნება:">
-<!ENTITY keepUntil.accesskey            "K">
-<!ENTITY expire.label                   "ვადის გასვლამდე">
-<!ENTITY close.label                    "I close &brandShortName;">
-<!ENTITY askEachTime.label              "დამეკითხე ყოველთვის">
-<!ENTITY cookieExceptions.label         "გამონაკლისები…">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "ნაჭდევების ჩვენება…">
-<!ENTITY showCookies.accesskey          "S">
-
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "ვებსაიტებისთვის თვალთვალის მოხსნის მოთხოვნა">
-<!ENTITY doNotTrack.accesskey           "d">
