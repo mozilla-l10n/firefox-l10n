@@ -17,16 +17,12 @@
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "სიახლეები">
 <!ENTITY whatsNewCmd.accesskey "W">
-<!ENTITY openHelp.label "დახმარების შინაარსი">
+<!ENTITY openHelp.label "დამხმარე მასალები">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; დახმარება">
 <!ENTITY openHelpMac2.label "&brandFullName; დახმარება">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
-
-<!ENTITY aboutMenuCmd.label "&brandShortName; პროგრამის შესახებ">
-<!ENTITY aboutMenuCmd.accesskey "ბ">
 
 <!ENTITY aboutMenuCmd2.label "&brandFullName; პროგრამის შესახებ">
 <!ENTITY aboutMenuCmd2.accesskey "ბ">
