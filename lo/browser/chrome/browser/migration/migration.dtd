@@ -44,4 +44,7 @@
 <!ENTITY selectProfile.title            "ເລືອກໂປຣໄຟລ໌">
 <!ENTITY selectProfile.label            "ໂປຣໄຟລ໌ດັ່ງຕໍ່ໄປນີ້ພ້ອມທີ່ຈະນຳເຂົ້າ:">
 
+<!ENTITY done.title                     "ການນຳເຂົ້າສຳເລັດສົມບູນ">
+<!ENTITY done.label                     "ນຳເຂົ້າລາຍການດັ່ງຕໍ່ໄປນີ້ສຳເລັດແລ້ວ:">
 
+<!ENTITY closeSourceBrowser.label       "ກະລຸນາກວດໃຫ້ແນ່ໃຈວ່າບຣາວເຊີທີ່ເລືອກປິດຢູ່ກ່ອນທີ່ຈະສືບຕໍ່.">
