@@ -58,6 +58,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.label              "Déplacer vers une nouvelle fenêtre">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  reopenInContainer.label            "Ouvrir à nouveau dans un onglet contextuel">
+<!ENTITY  reopenInContainer.accesskey        "O">
 <!ENTITY  bookmarkAllTabs.label              "Marquer tous les onglets…">
 <!ENTITY  bookmarkAllTabs.accesskey          "u">
 <!ENTITY  undoCloseTab.label                 "Annuler la fermeture de l’onglet">
@@ -308,6 +309,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Nouvel onglet contextuel">
 <!ENTITY newUserContext.accesskey         "c">
+<!ENTITY manageUserContext.label          "Gérer les contextes">
+<!ENTITY manageUserContext.accesskey      "o">
 <!ENTITY newNavigatorCmd.label        "Nouvelle fenêtre">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "u">
@@ -938,12 +941,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Désactiver pour ce site">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "Désactiver pour cette session">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Activer pour ce site">
+<!ENTITY trackingProtection.block4.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Actualiser la page">
+<!ENTITY trackingProtection.reload2.accesskey "c">
 
 <!ENTITY pluginNotification.showAll.label "Tout afficher">
 <!ENTITY pluginNotification.showAll.accesskey "T">
