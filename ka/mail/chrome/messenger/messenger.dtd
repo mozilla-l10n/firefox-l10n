@@ -109,8 +109,8 @@
 <!ENTITY selectMenu.accesskey "შ">
 <!ENTITY all.label "ყველა">
 <!ENTITY all.accesskey "ვ">
-<!ENTITY selectThreadCmd.label "საქაღალდე">
-<!ENTITY selectThreadCmd.accesskey "T">
+<!ENTITY selectThreadCmd.label "საუბარი">
+<!ENTITY selectThreadCmd.accesskey "უ">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "ვარსკვლავიანი გამოხმაურებები">
 <!ENTITY selectFlaggedCmd.accesskey "ვ">
@@ -752,15 +752,15 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "ახალი შეტყობინება ნიმუშიდან">
 <!ENTITY contextOpenNewWindow.label "წერილის ახალ ფანჯარაში გახსნა">
-<!ENTITY contextOpenNewWindow.accesskey "W">
+<!ENTITY contextOpenNewWindow.accesskey "ფ">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "წერილის ახალ დაფაზე გახსნა">
-<!ENTITY contextOpenNewTab.accesskey "T">
+<!ENTITY contextOpenNewTab.accesskey "ხ">
 <!ENTITY contextOpenConversation.label "წერილის გახსნა განსახილველად">
-<!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextOpenConversation.accesskey "ვ">
 <!ENTITY contextOpenContainingFolder.label "შეტყობინების გახსნა შემცველ საქაღალდეში">
 <!ENTITY contextOpenContainingFolder.accesskey "ც">
 <!ENTITY contextEditMsgAsNew.label "ჩასწორება ახალი შეტყობინების სახით">
@@ -769,32 +769,32 @@
 <!ENTITY contextEditTemplate.label "ნიმუშის ჩასწორება">
 <!ENTITY contextEditTemplate.accesskey "ნ">
 <!ENTITY contextArchive.label "არქივი">
-<!ENTITY contextArchive.accesskey "h">
+<!ENTITY contextArchive.accesskey "ქ">
 <!ENTITY contextReplySender.label "პასუხი მხოლოდ გამომგზავნს">
-<!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup2.label "ჯგუფის ადევნება">
-<!ENTITY contextReplyNewsgroup2.accesskey "u">
+<!ENTITY contextReplySender.accesskey "მ">
+<!ENTITY contextReplyNewsgroup2.label "ჯგუფზე თვალის მიდევნება">
+<!ENTITY contextReplyNewsgroup2.accesskey "თ">
 <!ENTITY contextReplyAll.label "პასუხი ყველას">
-<!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextReplyAll.accesskey "ყ">
 <!ENTITY contextReplyList.label "პასუხი ჯგუფს">
-<!ENTITY contextReplyList.accesskey "L">
+<!ENTITY contextReplyList.accesskey "ს">
 <!ENTITY contextForward.label "გადაგზავნა">
-<!ENTITY contextForward.accesskey "F">
+<!ENTITY contextForward.accesskey "დ">
 <!ENTITY contextForwardAsMenu.label "გადაგზავნა როგორც">
-<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsMenu.accesskey "ზ">
 <!ENTITY contextForwardAsInline.label "შიდა ტექსტი">
-<!ENTITY contextForwardAsInline.accesskey "I">
+<!ENTITY contextForwardAsInline.accesskey "ი">
 <!ENTITY contextForwardAsAttachmentItem.label "დანართი">
-<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "დ">
 <!ENTITY contextMultiForwardAsAttachment.label "გადაგზავნა დანართების სახით">
-<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "ზ">
 <!ENTITY contextMoveMsgMenu.label "გადატანა">
-<!ENTITY contextMoveMsgMenu.accesskey "M">
+<!ENTITY contextMoveMsgMenu.accesskey "ტ">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "ბოლო">
-<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "ბ">
 <!ENTITY contextCopyMsgMenu.label "კოპირება">
-<!ENTITY contextCopyMsgMenu.accesskey "C">
-<!ENTITY contextKillThreadMenu.label "საქაღალდის გამოტოვება">
+<!ENTITY contextCopyMsgMenu.accesskey "კ">
+<!ENTITY contextKillThreadMenu.label "საუბრის უგულებელყოფა">
 <!ENTITY contextKillSubthreadMenu.accesskey "ი">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "ქვესაქაღალდის გამოტოვება">
