@@ -2,20 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pref.navigator.title      "ნავიგატორი">
+<!ENTITY pref.navigator.title           "ბრაუზერი">
 
 <!ENTITY navRadio.label                 "ჩვენება">
 <!ENTITY navRadio.accesskey             "n">
-<!ENTITY  navStartPageMenu.label    "ნავიგატორის სეანსის დაწყება">
-<!ENTITY  newWinPageMenu.label      "ახალ სარკმელში">
-<!ENTITY  newTabPageMenu.label      "ახალ დაფაზე">
+<!ENTITY navStartPageMenu.label         "ნავიგატორის სეანსის დაწყება">
+<!ENTITY newWinPageMenu.label           "ახალ სარკმელში">
+<!ENTITY newTabPageMenu.label           "ახალ დაფაზე">
 
-<!ENTITY  blankPageRadio.label      "სუფთა გვერდით">
-<!ENTITY  blankPageRadio.accesskey  "B">
-<!ENTITY  homePageRadio.label       "თავფურცლით">
-<!ENTITY  homePageRadio.accesskey   "m">
-<!ENTITY  lastPageRadio.label       "წინა სეანსის ბოლო გვერდით">
-<!ENTITY  lastPageRadio.accesskey   "L">
+<!ENTITY blankPageRadio.label           "სუფთა გვერდით">
+<!ENTITY blankPageRadio.accesskey       "B">
+<!ENTITY homePageRadio.label            "თავფურცლით">
+<!ENTITY homePageRadio.accesskey        "m">
+<!ENTITY lastPageRadio.label            "წინა სეანსის ბოლო გვერდით">
+<!ENTITY lastPageRadio.accesskey        "L">
 <!ENTITY restoreSessionRadio.label      "წინა სეანსის აღდგენა">
 <!ENTITY restoreSessionRadio.accesskey  "P">
 
@@ -31,15 +31,15 @@
 <!ENTITY restoreDeferred.label          "დაფების აღდგენა მხოლოდ მოთხოვნისას">
 <!ENTITY restoreDeferred.accesskey      "O">
 
-<!ENTITY  homePageIntro.label       "ტავფურცლის ღილაკზე დაჭერა ამ გვერდზე ან გვერდთა ჯგუფზე გადაგიყვანთ:">
-<!ENTITY  useCurrent.label          "გამოიყენე მიმდინარე გვერდი">
-<!ENTITY  useCurrent.accesskey      "U">
-<!ENTITY  useCurrentGroup.label     "გამოიყენე მიმდინარე ჯგუფი">
-<!ENTITY  useCurrentGroup.accesskey "G">
-<!ENTITY  browseFile.label          "ფაილის არჩევა…">
-<!ENTITY  browseFile.accesskey      "C">
-<!ENTITY  useDefault.label          "საწყისის აღდგენა">
-<!ENTITY  useDefault.accesskey      "R">
+<!ENTITY homePageIntro.label            "ტავფურცლის ღილაკზე დაჭერა ამ გვერდზე ან გვერდთა ჯგუფზე გადაგიყვანთ:">
+<!ENTITY useCurrent.label               "გამოიყენე მიმდინარე გვერდი">
+<!ENTITY useCurrent.accesskey           "U">
+<!ENTITY useCurrentGroup.label          "გამოიყენე მიმდინარე ჯგუფი">
+<!ENTITY useCurrentGroup.accesskey      "G">
+<!ENTITY browseFile.label               "ფაილის არჩევა…">
+<!ENTITY browseFile.accesskey           "C">
+<!ENTITY useDefault.label               "საწყისის აღდგენა">
+<!ENTITY useDefault.accesskey           "R">
 
 <!ENTITY defaultBrowserGroup.label      "ნაგულისხმები ბრაუზერი">
 <!ENTITY defaultBrowserButton.label     "ნაგულისხმები ბრაუზერის მითითება">

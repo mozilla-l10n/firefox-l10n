@@ -19,9 +19,9 @@
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
 <!ENTITY newPageFromDraftCmd.label "გვერდის ესკიზი">
 <!ENTITY newPageFromDraftCmd.accesskey "ე">
-<!ENTITY newNavigatorCmd.label "ბრაუზერის სარკმელი">
+<!ENTITY newNavigatorCmd.label "ბრაუზერის ფანჯარა">
 <!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "B">
+<!ENTITY newNavigatorCmd.accesskey "ბ">
 <!ENTITY newPrivateWindowCmd.label "პირადი სარკმელი">
 <!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "W">

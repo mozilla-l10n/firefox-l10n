@@ -4,17 +4,17 @@
 
 <!ENTITY pref.keyNav.title "კლავიატურის გამოყენება">
 <!ENTITY tabNavigationBehavior.label "ტაბულაციის (Tab) ღილაკის გამოყენება">
-<!ENTITY tabNavigationLinks.label "ბმები">
-<!ENTITY tabNavigationLinks.accesskey "L">
+<!ENTITY tabNavigationLinks.label "ბმულები">
+<!ENTITY tabNavigationLinks.accesskey "ბ">
 <!ENTITY tabNavigationForms.label "ღილაკები, გადამრთველები, ინდიკატორები და შერჩევის ნუსხები">
-<!ENTITY tabNavigationForms.accesskey "B">
-<!ENTITY tabNavigationTextboxes.label "შენიშვნა: ტექსტურ ველები და გადახვევადი რეგიონები ყოველთვის მისაწვდომია დაფების რიგით.">
+<!ENTITY tabNavigationForms.accesskey "ღ">
+<!ENTITY tabNavigationTextboxes.label "შენიშვნა: ტექსტური ველები და გადასაადგილებელი არეები ყოველთვის ხელიმისაწვდომია Tab ღილაკით.">
 <!ENTITY tabNavigationDesc.label "თუ დაჭერილია Tab ან Shift+Tab, გადასვლა აქ:">
-<!ENTITY accessibilityBrowseWithCaret.label "აქტიური კურსორის რეჟიმი">
-<!ENTITY browseWithCaretDesc.label "აქტიური კურსორის რეჟიმში გვერდებზე გადაადგილებასა და ტექსტის შერჩევას კურსორის კლავიშებით შეძლებთ.">
-<!ENTITY browseWithCaretUse.label "აქტიური კურსორის რეჟიმის გამოყენება">
-<!ENTITY browseWithCaretUse.accesskey "U">
+<!ENTITY accessibilityBrowseWithCaret.label "მოქმედი მაჩვენებლით გადაადგილება">
+<!ENTITY browseWithCaretDesc.label "მოქმედი მაჩვენებლის რეჟიმი საშუალებას მოგცემთ გვერდებზე გადაადგილებასა და ტექსტის მონიშვნას, მაჩვენებლის ღილაკების მეშვეობით.">
+<!ENTITY browseWithCaretUse.label "მაჩვენებლით გადაადგილება">
+<!ENTITY browseWithCaretUse.accesskey "გ">
 <!ENTITY browseWithCaretShortCut.label "F7 კლავიშის გამოყენება აქტიური კურსორის რეჟიმის გადასართავად">
 <!ENTITY browseWithCaretShortCut.accesskey "F">
-<!ENTITY browseWithCaretWarn.label "გაფრთხილება აქტიური კურსორის რეჟიმის ჩართვამდე">
-<!ENTITY browseWithCaretWarn.accesskey "W">
+<!ENTITY browseWithCaretWarn.label "გაფრთხილება მოქმედი მაჩვენებლის რეჟიმის ჩართვამდე">
+<!ENTITY browseWithCaretWarn.accesskey "ფ">
