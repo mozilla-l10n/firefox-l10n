@@ -4,13 +4,13 @@
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "დიზაინერი"> 
+<!ENTITY editorWindow.titlemodifier "დიზაინერი">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
-<!ENTITY compositionToolbar.tooltip "რედაქტორის პულტი">
+<!ENTITY compositionToolbar.tooltip "წერილის შესადგენი ხელსაწყოთა ზოლი">
 <!ENTITY previewToolbarCmd.label "ნუსხა">
 <!ENTITY previewToolbarCmd.tooltip "ამ გვერდის ჩატვირთვა ბრაუზერში">
 
@@ -23,11 +23,11 @@
 <!ENTITY sendPageCmd.accesskey "d">
 
 <!-- View menu items -->
-<!ENTITY compositionToolbarCmd.label "დიზაინის პულტი">
+<!ENTITY compositionToolbarCmd.label "წერილის შესადგენი ხელსაწყოთა ზოლი">
 <!ENTITY compositionToolbarCmd.accesskey "C">
-<!ENTITY formattingToolbarCmd.label "ფორმატირების პულტი">
+<!ENTITY formattingToolbarCmd.label "გაფორმების ხელსაწყოთა ზოლი">
 <!ENTITY formattingToolbarCmd.accesskey "F">
-<!ENTITY editmodeToolbarCmd.label "რედაქტირების რეჟიმის პულტი">
+<!ENTITY editmodeToolbarCmd.label "ჩასწორების ხელსაწყოთა ზოლი">
 <!ENTITY editmodeToolbarCmd.accesskey "E">
 
 <!-- Format menu items -->

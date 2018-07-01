@@ -284,7 +284,7 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "მენიუს პანელი">
-<!ENTITY formatToolbar.tooltip "დაფორმატების პულტი">
+<!ENTITY formatToolbar.tooltip "გაფორმების ხელსაწყოთა ზოლი">
 <!ENTITY cutToolbarCmd.tooltip "ამოჭრა">
 <!ENTITY copyToolbarCmd.tooltip "ასლი">
 <!ENTITY pasteToolbarCmd.tooltip "გასმა">

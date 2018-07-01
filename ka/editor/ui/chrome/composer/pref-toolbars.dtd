@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.toolbars.title    "პულტები">
+<!ENTITY pref.toolbars.title    "ხელსაწყოთა ზოლები">
 
-<!ENTITY composition.caption    "ამ ღილაკების ჩვენება რედაქტირების პულტზე:">
+<!ENTITY composition.caption    "ამ ღილაკების ჩვენება, წერილის შესადგენი ხელსაწყოების ზოლზე:">
 
 <!ENTITY new.label              "ახალი">
 <!ENTITY open.label             "გახსნა">
@@ -22,7 +22,7 @@
 <!ENTITY link.label             "ბმა">
 <!ENTITY anchor.label           "ღუზა">
 
-<!ENTITY formatting.caption     "ამ ღილაკების ჩვენება ფორმატირების პულტზე:">
+<!ENTITY formatting.caption     "ამ ღილაკების ჩვენება გაფორმების ხელსაწყოთა ზოლზე:">
 
 <!ENTITY smaller.label          "შემცირება">
 <!ENTITY larger.label           "გაზრდა">

@@ -11,7 +11,7 @@
 <!ENTITY disableAddons.label              "ყველა მოდულის ამორთვა">
 <!ENTITY disableAddons.accesskey          "D">
 
-<!ENTITY resetToolbars.label              "პულტებისა და მართვის ელემენტების ამორთვა">
+<!ENTITY resetToolbars.label              "ხელსაწყოთა ზოლებისა და სამართავების ჩამოყრა">
 <!ENTITY resetToolbars.accesskey          "R">
 
 <!ENTITY changeAndRestartButton.label     "ცვლილებების შენახვა და ხელახლა გახსნა">

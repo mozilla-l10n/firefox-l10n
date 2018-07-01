@@ -136,7 +136,7 @@
 <!-- View Menu -->
 <!ENTITY menubarCmd.label "მენიუს პანელი">
 <!ENTITY menubarCmd.accesskey "მ">
-<!ENTITY showMessengerToolbarCmd.label "ფოსტის პულტი">
+<!ENTITY showMessengerToolbarCmd.label "წერილების სამართავი">
 <!ENTITY showMessengerToolbarCmd.accesskey "ო">
 <!ENTITY customizeToolbar.label "მორგება…">
 <!ENTITY customizeToolbar.accesskey "გ">
@@ -630,7 +630,7 @@
 <!ENTITY appmenuNewMsgCmd.label "ახალი წერილი">
 <!ENTITY appmenuNewContactCmd.label "კონტაქტი წიგნაკიდან…">
 <!ENTITY appmenuEditMenu.label "ჩასწორება">
-<!ENTITY appmenuToolbarLayout.label "ხელსაწყოთა ზოლი…">
+<!ENTITY appmenuToolbarLayout.label "ხელსაწყოთა ზოლის განლაგება…">
 <!ENTITY appmenuSelectThread.label "საუბრის შერჩევა">
 <!ENTITY appmenuSelectFlagged.label "ვარსკვლავიანი წერილის შერჩევა">
 
