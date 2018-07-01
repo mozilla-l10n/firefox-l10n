@@ -482,11 +482,11 @@ sync-engine-addons =
 sync-engine-prefs =
     .label =
         { PLATFORM() ->
-            [windows] Piléhan
-           *[other] Preferensi
+            [windows] Peuniléh
+           *[other] Atô
         }
-    .tooltiptext = Awam, privasi, dan peuatô keuamanan nyangka meu ubah
-    .accesskey = P
+    .tooltiptext = Atô Umom, Jaga Rasia, ngön Keuamanan nyang neugantoe
+    .accesskey = A
 sync-device-name-header = Nan Peukakah
 sync-device-name-change =
     .label = Gantoe Nan Peukakah...
