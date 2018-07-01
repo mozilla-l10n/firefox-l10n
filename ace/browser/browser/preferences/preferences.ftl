@@ -518,14 +518,33 @@ forms-exceptions =
 forms-saved-logins =
     .label = Info Tamong Teukeubah...
     .accesskey = I
+forms-master-pw-use =
+    .label = Ngui lageuem rahsia utama
+    .accesskey = N
+forms-master-pw-change =
+    .label = Gantoe Lageuem Rahsia Utama
+    .accesskey = G
 
 ## Privacy Section - History
 
 history-header = Riwayat
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } akan
+    .accesskey = a
 history-remember-option-all =
     .label = Peuingat jeujak
 history-remember-option-never =
     .label = Peuingat bek tuwe jeujak
+history-remember-option-custom =
+    .label = Ngui atô kusuih keu riwayat
 history-clear-on-close-settings =
     .label = Peuatoe...
     .accesskey = t
