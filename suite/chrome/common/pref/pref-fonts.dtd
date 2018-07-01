@@ -16,10 +16,10 @@
 <!ENTITY  proportional.label                      "პროპორციული:">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "კონტრასტული:">
-<!ENTITY  serif.accesskey                         "s">
-<!ENTITY  sans-serif.label                        "თანაბარხააზიანი:">
-<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  serif.label                             "ნაჭდევებიანი:">
+<!ENTITY  serif.accesskey                         "ნ">
+<!ENTITY  sans-serif.label                        "უნაჭდევო:">
+<!ENTITY  sans-serif.accesskey                    "უ">
 <!ENTITY  monospace.label                         "მონოსიგანის:">
 <!ENTITY  monospace.accesskey                     "m">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
@@ -66,8 +66,8 @@
 <!ENTITY minSize.none                             "არა">
 
 <!-- default font type -->
-<!ENTITY  useDefaultFontSerif.label               "კონტრასტული">
-<!ENTITY  useDefaultFontSansSerif.label           "ერთგვაროვანი">
+<!ENTITY  useDefaultFontSerif.label               "ნაჭდევებიანი">
+<!ENTITY  useDefaultFontSansSerif.label           "უნაჭდევო">
 
 <!ENTITY  useDocumentFonts.label                  "დოკუმენტებში ახალი შრიფტების ნებართვა">
 <!ENTITY  useDocumentFonts.accesskey              "o">
