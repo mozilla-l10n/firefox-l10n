@@ -20,7 +20,7 @@
 <!ENTITY editPageCmd.accesskey "E">
 <!ENTITY editPageCmd.commandkey "e">
 
-<!ENTITY navbarCmd.label "ნავიგაციის პულტი">
+<!ENTITY navbarCmd.label "გადასაადგილებელი ხელსაწყოთა ზოლი">
 <!ENTITY navbarCmd.accesskey "N">
 <!ENTITY bookmarksToolbarCmd.label     "სანიშნების ხელსაწყოთა ზოლი">
 <!ENTITY bookmarksToolbarCmd.accesskey "m">
@@ -36,7 +36,7 @@
 
 <!ENTITY menuBar.tooltip                  "მენიუს პანელი">
 <!ENTITY bookmarksToolbar.tooltip         "სანიშნების ხელსაწყოთა ზოლი">
-<!ENTITY navigationToolbar.tooltip        "ნავიგაციის პულტი">
+<!ENTITY navigationToolbar.tooltip        "გადასაადგილებელი ხელსაწყოთა ზოლი">
 
 <!ENTITY editBookmark.done.label "მზადაა">
 <!ENTITY editBookmark.cancel.label "გაუქმება">

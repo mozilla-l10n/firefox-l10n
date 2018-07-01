@@ -4,7 +4,7 @@
 
 <!-- extracted from tasksOverlay.xul -->
 <!ENTITY navigatorCmd.label "ბრაუზერი">
-<!ENTITY navigatorCmd.accesskey "B">
+<!ENTITY navigatorCmd.accesskey "ბ">
 <!ENTITY navigatorCmd.commandkey "1">
 
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
@@ -16,7 +16,7 @@
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey2 "j">
 
-<!ENTITY taskNavigator.tooltip "ნავიგატორი">
+<!ENTITY taskNavigator.tooltip "ბრაუზერი">
 <!ENTITY taskComposer.tooltip "რედაქტორი">
 
 <!ENTITY webDevelopment.label "ვებ პროგრამირება">
