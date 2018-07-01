@@ -329,7 +329,7 @@
 <!ENTITY killSubthreadMenu.label "საუბრის განშტოების უგულებელყოფა">
 <!ENTITY killSubthreadMenu.accesskey "შ">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "საქაღალდის თვალმიდევნება">
+<!ENTITY watchThreadMenu.label "საუბრისთვის თვალის მიდევნება">
 <!ENTITY watchThreadMenu.accesskey "W">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "შენახვის ადგილი">

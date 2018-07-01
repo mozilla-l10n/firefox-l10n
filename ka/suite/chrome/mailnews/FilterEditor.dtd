@@ -52,7 +52,7 @@
 <!ENTITY fetchFromPOP.label "მიღება POP სერვერიდან">
 <!ENTITY ignoreThread.label "საქაღალდის იგნორირება">
 <!ENTITY ignoreSubthread.label "საუბრის განშტოების უგულებელყოფა">
-<!ENTITY watchThread.label "საქაღალდის თვალმიდევნება">
+<!ENTITY watchThread.label "საუბრისთვის თვალის მიდევნება">
 <!ENTITY stopExecution.label "ფილტრის გამოყენების შეწყვეტა">
 
 <!ENTITY addAction.tooltip "ახალი ქმედების დამატება">
