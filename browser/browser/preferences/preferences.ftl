@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } wonaa wanngoraade maa woowaande
 set-as-my-default-browser =
     .label = Waɗ ɗum Woowaande…
     .accesskey = W
-startup-page = So { -brand-short-name } hurmii
-    .accesskey = o
-startup-user-homepage =
-    .label = Hollu hello maa jaɓɓorgo
-startup-blank-page =
-    .label = Hollu hello meho
-startup-prev-session =
-    .label = Hollit kenorɗe maa ɗee e tabbe cakkitiiɗe
 startup-restore-previous-session =
     .label = Artir rogere ɓennunde ndee
     .accesskey = s
 disable-extension =
     .label = Daaƴ Jokkel
-home-page-header = Hello jaɓɓorgo
 tabs-group-header = Tabbe
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yaaɓat hakkunde tabbe e gorol kuutoragol ɓennungol
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Ɓeydu humpito
 update-application-title = Kesɗitine { -brand-short-name }:
 update-application-description = Hesɗitin { -brand-short-name } ngam jaawgol golle dowrowol, jamɗugol e kisal.
-update-application-info = Yamre { $version } <a>Hol ko hesɗi</a>
 update-application-version = Yamre { $version } <a data-l10n-name="learn-more">Hol ko hesɗi</a>
 update-history =
     .label = Hollu Daartol Kesɗitine
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Kaaɗtudi silsil loowdi
     .accesskey = K
 performance-limit-content-process-enabled-desc = Silsilaaji loowdi ɓeydaaɗi ina mbaawi ɓeydude kattanɗe golle so tabbe keewɗe ina kuutoree, kono ina kuutoroo teskorde ɓurnde heewde.
-performance-limit-content-process-disabled-desc = Baylugol keeweendi silsilaaji loowdi aaɓnodtoo tan ko e keewal silsilaaji { -brand-short-name }. <a>Humpito hol no hoolkisortee keewal silsilaaji koko hurminaa</a>
 performance-limit-content-process-blocked-desc = Baylugol keeweendi silsilaaji loowdi aaɓnodtoo tan ko e keewal silsilaaji { -brand-short-name }. <a data-l10n-name="learn-more">Humpito hol no hoolkisortee keewal silsilaaji koko hurminaa</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Huutoro Maantorol…
     .accesskey = M
-restore-default =
-    .label = Artir e Goowaaɗo
-    .accesskey = A
 
 ## Search Section
 
@@ -579,15 +557,18 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Siiftor peeragol am tee aawto aslol
     .accesskey = t
+history-remember-browser-option =
+    .label = Siiftor aslol banngogol kam e gaawtogol
+    .accesskey = b
 history-remember-search-option =
     .label = Tesko aslol njiylawu e porme
-    .accesskey = e
+    .accesskey = f
 history-clear-on-close-option =
     .label = Mumtu aslol so { -brand-short-name } uddaama
-    .accesskey = o
+    .accesskey = r
 history-clear-on-close-settings =
     .label = Teelte…
-    .accesskey = e
+    .accesskey = t
 history-clear-button =
     .label = Momtu Aslol…
     .accesskey = s
