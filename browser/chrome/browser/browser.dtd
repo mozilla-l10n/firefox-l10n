@@ -434,7 +434,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ξεκαρφίτσωμα από το αναδυόμενο μενού">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "Ξ">
 <!ENTITY customizeMenu.removeFromToolbar.label "Αφαίρεση από τη γραμμή εργαλείων">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "Α">
 <!ENTITY customizeMenu.removeFromMenu.label "Αφαίρεση από το μενού">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "Ρ">
 <!ENTITY customizeMenu.addMoreItems.label "Προσθήκη περισσότερων αντικειμένων…">
@@ -706,7 +706,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomToggleCmd.label        "Ζουμ μόνο στο κείμενο">
 <!ENTITY fullZoomToggleCmd.accesskey    "κ">
 <!ENTITY fullZoom.label                 "Ζουμ">
-<!ENTITY fullZoom.accesskey             "γ">
+<!ENTITY fullZoom.accesskey             "Ζ">
 
 <!ENTITY sidebarCloseButton.tooltip     "Κλείσιμο πλευρικής στήλης">
 <!ENTITY sidebarMenuClose.label         "Κλείσιμο πλευρικής γραμμής">
@@ -859,7 +859,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Σύνδεση στο &syncBrand.shortName.label;…">
-<!ENTITY syncSignIn.accesskey         "Υ">
+<!ENTITY syncSignIn.accesskey         "ν">
 <!ENTITY syncSyncNowItem.label        "Συγχρονισμός τώρα">
 <!ENTITY syncSyncNowItem.accesskey    "Σ">
 <!ENTITY syncReAuthItem.label         "Επανασύνδεση στο &syncBrand.shortName.label;…">
