@@ -16,5 +16,5 @@
 <!ENTITY browseWithCaretUse.accesskey "გ">
 <!ENTITY browseWithCaretShortCut.label "F7 კლავიშის გამოყენება აქტიური კურსორის რეჟიმის გადასართავად">
 <!ENTITY browseWithCaretShortCut.accesskey "F">
-<!ENTITY browseWithCaretWarn.label "გაფრთხილება მოქმედი მაჩვენებლის რეჟიმის ჩართვამდე">
+<!ENTITY browseWithCaretWarn.label "გაფრთხილება მაჩვენებლით გადაადგილების ჩართვამდე">
 <!ENTITY browseWithCaretWarn.accesskey "ფ">
