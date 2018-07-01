@@ -4,5 +4,6 @@
 
 <!ENTITY restartRequired.title "ต้องเริ่มการทำงานใหม่">
 
+<!ENTITY restartRequired.header "ขออภัย เราจำเป็นต้องทำสิ่งเล็ก ๆ อีกเพียงหนึ่งอย่างเพื่อดำเนินการต่อ">
 
 <!ENTITY restartButton.label "เริ่มการทำงาน &brandShortName; ใหม่">
