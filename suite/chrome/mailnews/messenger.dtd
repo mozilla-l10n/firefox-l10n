@@ -474,64 +474,64 @@
 <!ENTITY contextForward.label "გადაგზავნა">
 <!ENTITY contextForward.accesskey "გ">
 <!ENTITY contextForwardAsAttachment.label "გადაგზავნა დანართის სახით">
-<!ENTITY contextForwardAsAttachment.accesskey "o">
+<!ENTITY contextForwardAsAttachment.accesskey "დ">
 <!ENTITY contextArchive.label "არქივი">
-<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextArchive.accesskey "ა">
 <!ENTITY contextMoveMsgMenu.label "გადატანა">
-<!ENTITY contextMoveMsgMenu.accesskey "M">
+<!ENTITY contextMoveMsgMenu.accesskey "გ">
 <!ENTITY contextCopyMsgMenu.label "კოპირება">
-<!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextCopyMsgMenu.accesskey "კ">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "უახლესი">
-<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "ლ">
 <!ENTITY contextSaveAs.label "შენახვა როგორც…">
-<!ENTITY contextSaveAs.accesskey "S">
+<!ENTITY contextSaveAs.accesskey "რ">
 <!ENTITY contextPrint.label "ბეჭდვა…">
-<!ENTITY contextPrint.accesskey "P">
-<!ENTITY contextPrintPreview.label "ბეჭდვის ესკიზი">
-<!ENTITY contextPrintPreview.accesskey "v">
+<!ENTITY contextPrint.accesskey "ბ">
+<!ENTITY contextPrintPreview.label "შეთვალიერება ამობეჭდვამდე">
+<!ENTITY contextPrintPreview.accesskey "შ">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "წერილების მიღება ანგარიშისთვის">
-<!ENTITY folderContextGetMessages.accesskey "G">
-<!ENTITY folderContextOpenNewWindow.label "ახალ წერილის სარკმელში გახსნა">
-<!ENTITY folderContextOpenNewWindow.accesskey "W">
+<!ENTITY folderContextGetMessages.accesskey "მ">
+<!ENTITY folderContextOpenNewWindow.label "გახსნა ახალ ფანჯარაში">
+<!ENTITY folderContextOpenNewWindow.accesskey "ფ">
 <!ENTITY folderContextOpenNewTab.label "გახსნა ახალ დაფაზე">
-<!ENTITY folderContextOpenNewTab.accesskey "T">
+<!ENTITY folderContextOpenNewTab.accesskey "ა">
 <!ENTITY folderContextRename.label "გადარქმევა">
-<!ENTITY folderContextRename.accesskey "R">
+<!ENTITY folderContextRename.accesskey "გ">
 <!ENTITY folderContextRemove.label "წაშლა">
-<!ENTITY folderContextRemove.accesskey "D">
+<!ENTITY folderContextRemove.accesskey "წ">
 <!ENTITY folderContextCompact.label "ამ საქაღალდის შეკუმშვა">
-<!ENTITY folderContextCompact.accesskey "F">
+<!ENTITY folderContextCompact.accesskey "კ">
 <!ENTITY folderContextEmptyTrash.label "ურნის გასუფთავება">
-<!ENTITY folderContextEmptyTrash.accesskey "y">
+<!ENTITY folderContextEmptyTrash.accesskey "უ">
 <!ENTITY folderContextEmptyJunk.label "ჯართის გადაყრა">
-<!ENTITY folderContextEmptyJunk.accesskey "J">
+<!ENTITY folderContextEmptyJunk.accesskey "ჯ">
 <!ENTITY folderContextSendUnsentMessages.label "გასაგზავნი წერილების გაგზავნა">
-<!ENTITY folderContextSendUnsentMessages.accesskey "d">
+<!ENTITY folderContextSendUnsentMessages.accesskey "ს">
 <!ENTITY folderContextUnsubscribe.label "გამოწერის გაუქმება">
-<!ENTITY folderContextUnsubscribe.accesskey "U">
+<!ENTITY folderContextUnsubscribe.accesskey "უ">
 <!ENTITY folderContextMarkNewsgroupRead.label "ჯგუფის მონიშვნა წაკითხულად">
-<!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
-<!ENTITY folderContextMarkMailFolderRead.label "დასტის მონიშვნა წაკითხულად">
-<!ENTITY folderContextMarkMailFolderRead.accesskey "k">
-<!ENTITY folderContextNew.label "ახალი ქვედასტა…">
-<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "მ">
+<!ENTITY folderContextMarkMailFolderRead.label "საქაღალდის მონიშვნა წაკითხულად">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "წ">
+<!ENTITY folderContextNew.label "ახალი ქვესაქაღალდე…">
+<!ENTITY folderContextNew.accesskey "ქ">
 <!ENTITY folderContextSubscribe.label "გამოწერა…">
-<!ENTITY folderContextSubscribe.accesskey "b">
+<!ENTITY folderContextSubscribe.accesskey "მ">
 <!ENTITY folderContextSearchMessages.label "წერილების ძიება…">
-<!ENTITY folderContextSearchMessages.accesskey "S">
+<!ENTITY folderContextSearchMessages.accesskey "ძ">
 <!ENTITY folderContextProperties.label "პარამეტრები…">
-<!ENTITY folderContextProperties.accesskey "P">
+<!ENTITY folderContextProperties.accesskey "პ">
 <!ENTITY folderContextSettings.label "პარამეტრები…">
-<!ENTITY folderContextSettings.accesskey "e">
+<!ENTITY folderContextSettings.accesskey "რ">
 
 <!-- focusSearchInput.key also used by addressbook -->
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY advancedButton.label "დეტალურად…">
-<!ENTITY advancedButton.accesskey "A">
+<!ENTITY advancedButton.label "დამატებით…">
+<!ENTITY advancedButton.accesskey "დ">
 <!ENTITY searchButton.label "ძიება წერილებში…">
-<!ENTITY searchButton.accesskey "S">
+<!ENTITY searchButton.accesskey "ძ">
 
 <!ENTITY all.label "ყველა">
-<!ENTITY all.accesskey "A">
+<!ENTITY all.accesskey "ყ">
