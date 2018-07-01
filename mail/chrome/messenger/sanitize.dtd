@@ -26,7 +26,7 @@ that require it.  -->
 
 <!ENTITY itemHistory.label                 "მონახულებული გვერდების ისტორია">
 <!ENTITY itemHistory.accesskey             "მ">
-<!ENTITY itemCookies.label                 "ნაჭდევები">
+<!ENTITY itemCookies.label                 "ფუნთუშები">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "ბუფერი">
 <!ENTITY itemCache.accesskey               "A">

@@ -13,15 +13,15 @@
 <!ENTITY maximumConnectionsNumber.label "სერვერთან კავშირების მაქსიმალური რაოდენობა ბუფერირებისთვის">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-<!ENTITY namespaceDesc.label "ეს პარამეტრები მიუთითებენ თქვენი IMAP სერვერის სახელთა არეებს">
+<!ENTITY namespaceDesc.label "ეს პარამეტრები მიუთითებს თქვენი IMAP სერვერის სახელთა არეებს">
 <!ENTITY personalNamespace.label "სახელთა პირადი არე:">
-<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY personalNamespace.accesskey "პ">
 <!ENTITY publicNamespace.label "საზოგადო (ზიარი):">
-<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY publicNamespace.accesskey "ზ">
 <!ENTITY otherUsersNamespace.label "სხვა მომხმარებლების:">
-<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY otherUsersNamespace.accesskey "ხ">
 <!ENTITY overrideNamespaces.label "სერვერისთვის ამ სახელთა არეების გადაფარვის ნების დართვა">
-<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY overrideNamespaces.accesskey "ნ">
 <!ENTITY pop3DeferringDesc.label "ანგარიშის სერვერიდან წერილების ჩამოტვირთვისას, მოცემული საქაღალდის გამოყენება მათ შესანახად:">
 <!ENTITY accountInbox.label "ანგარიშის საფოსტო ყუთი">
 <!ENTITY accountInbox.accesskey "ს">
