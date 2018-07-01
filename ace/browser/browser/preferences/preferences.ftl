@@ -499,6 +499,8 @@ sync-device-name-save =
     .accesskey = K
 sync-mobilepromo-single = Seumöng peukakah laen
 sync-mobilepromo-multi = Atô peukakah
+sync-tos-link = Term nibak peuhirö
+sync-fxa-privacy-notice = Bri thëe privasi
 
 ## Privacy Section
 
