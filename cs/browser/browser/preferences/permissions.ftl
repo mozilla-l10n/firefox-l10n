@@ -45,8 +45,8 @@ permissions-capabilities-prompt =
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = Neplatné jméno serveru
-permissions-invalid-uri-label = Vložte prosím platné jméno serveru
+permissions-invalid-uri-title = Neplatný název serveru
+permissions-invalid-uri-label = Vložte prosím platný název serveru
 
 ## Exceptions - Tracking Protection
 

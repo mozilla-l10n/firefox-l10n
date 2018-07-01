@@ -9,7 +9,7 @@
 
 <!ENTITY  noupdates.label           "Doposud nebyly nainstalovány žádné aktualizace.">
 
-<!ENTITY  name.header               "Jméno aktualizace">
+<!ENTITY  name.header               "Název aktualizace">
 <!ENTITY  date.header               "Datum instalace">
 <!ENTITY  type.header               "Typ">
 <!ENTITY  state.header              "Stav">
