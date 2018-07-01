@@ -228,12 +228,12 @@
 <!ENTITY reloadCmd.label "განახლება">
 <!ENTITY reloadCmd.accesskey "გ">
 <!ENTITY stopCmd.label "შეჩერება">
-<!ENTITY stopCmd.accesskey "S">
+<!ENTITY stopCmd.accesskey "შ">
 <!ENTITY pageSourceCmd.label "წერილის პირველწყარო">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "პ">
 <!ENTITY pageSourceCmd.key "u">
 
-<!ENTITY findCmd.label "ძებნა ამ წერილში…">
+<!ENTITY findCmd.label "პოვნა ამ წერილში…">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the Lightning quick filter bar. -->
@@ -242,46 +242,46 @@
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "გადასვლა">
-<!ENTITY goMenu.accesskey "G">
+<!ENTITY goMenu.accesskey "გ">
 <!ENTITY nextMenu.label "შემდეგი">
-<!ENTITY nextMenu.accesskey "N">
+<!ENTITY nextMenu.accesskey "შ">
 <!ENTITY nextMsgCmd.label "წერილი">
-<!ENTITY nextMsgCmd.accesskey "M">
+<!ENTITY nextMsgCmd.accesskey "წ">
 <!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "წასაკითხი წერილი">
-<!ENTITY nextUnreadMsgCmd.accesskey "U">
+<!ENTITY nextUnreadMsgCmd.accesskey "ს">
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextFlaggedMsgCmd.label "ალმიანი წერილი">
-<!ENTITY nextFlaggedMsgCmd.accesskey "F">
-<!ENTITY nextUnreadThread.label "წასკითხი საქაღალდე">
-<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextFlaggedMsgCmd.accesskey "ა">
+<!ENTITY nextUnreadThread.label "წასაკითხი საუბარი">
+<!ENTITY nextUnreadThread.accesskey "უ">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "წინა">
-<!ENTITY prevMenu.accesskey "P">
+<!ENTITY prevMenu.accesskey "წ">
 <!ENTITY prevMsgCmd.label "წერილი">
-<!ENTITY prevMsgCmd.accesskey "M">
+<!ENTITY prevMsgCmd.accesskey "რ">
 <!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "წასაკითხი წერილი">
-<!ENTITY prevUnreadMsgCmd.accesskey "U">
+<!ENTITY prevUnreadMsgCmd.accesskey "ს">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goBackCmd.label "უკან">
-<!ENTITY goBackCmd.accesskey "B">
+<!ENTITY goBackCmd.accesskey "უ">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.label "წინ">
-<!ENTITY goForwardCmd.accesskey "F">
+<!ENTITY goForwardCmd.accesskey "წ">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "ალმიანი წერილი">
-<!ENTITY prevFlaggedMsgCmd.accesskey "F">
+<!ENTITY prevFlaggedMsgCmd.accesskey "ა">
 <!ENTITY startPageCmd.label "ფოსტის საწყისი გვერდი">
 <!ENTITY startPageCmd.accesskey "S">
 
 <!-- Message Menu -->
 <!ENTITY msgMenu.label "წერილი">
-<!ENTITY msgMenu.accesskey "M">
+<!ENTITY msgMenu.accesskey "წ">
 <!ENTITY newMsgCmd.label "ახალი წერილი">
-<!ENTITY newMsgCmd.accesskey "N">
+<!ENTITY newMsgCmd.accesskey "ა">
 <!ENTITY newNewMsgCmd.label "წერილი">
-<!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY newNewMsgCmd.accesskey "წ">
 <!ENTITY replyMsgCmd.label "პასუხი">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key	"r">
