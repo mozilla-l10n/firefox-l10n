@@ -4,8 +4,11 @@
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "ຄັງ">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
 <!ENTITY organize.label        "ຈັດລະບຽບ">
 <!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "ຈັດລະບຽບບຸກມາກຂອງທ່ານ">
 
 <!ENTITY file.close.label               "ປິດ">
 <!ENTITY file.close.accesskey           "C">
@@ -60,8 +63,6 @@
 
 <!ENTITY cmd.reloadLivebookmark.label      "ໂຫລດບຸກມາກສົດໃຫມ່">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
 
 <!ENTITY col.name.label          "ຊື່">
 <!ENTITY col.tags.label          "ແທັກ">
