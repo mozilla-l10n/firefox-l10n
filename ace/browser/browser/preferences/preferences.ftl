@@ -519,11 +519,11 @@ forms-saved-logins =
     .label = Info Tamong Teukeubah...
     .accesskey = I
 forms-master-pw-use =
-    .label = Ngui lageuem rahsia utama
-    .accesskey = N
+    .label = Ngui lageuëm rayeuk
+    .accesskey = U
 forms-master-pw-change =
-    .label = Gantoe Lageuem Rahsia Utama
-    .accesskey = G
+    .label = Tuka lageuëm rayeuk
+    .accesskey = M
 
 ## Privacy Section - History
 
@@ -544,8 +544,11 @@ history-remember-option-all =
 history-remember-option-never =
     .label = Peuingat bek tuwe jeujak
 history-remember-option-custom =
-    .label = Ngui atô kusuih keu riwayat
+    .label = Ngui aturan khusus keu daya jeujak
 history-remember-description = { -brand-short-name } tingat pue nyang droen browsing, download, formulir dan riwayat seutöt
+history-private-browsing-permanent =
+    .label = Sabe pake jeujak droe
+    .accesskey = p
 history-clear-on-close-settings =
     .label = Peuatoe...
     .accesskey = t
