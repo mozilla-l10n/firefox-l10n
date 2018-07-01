@@ -508,6 +508,7 @@ privacy-header = Privasi Browser
 
 ## Privacy Section - Forms
 
+forms-header = Formulir & Lageuem Rahsia
 
 ## Privacy Section - History
 
