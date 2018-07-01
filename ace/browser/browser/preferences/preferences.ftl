@@ -545,6 +545,7 @@ history-remember-option-never =
     .label = Peuingat bek tuwe jeujak
 history-remember-option-custom =
     .label = Ngui atô kusuih keu riwayat
+history-remember-description = { -brand-short-name } tingat pue nyang droen browsing, download, formulir dan riwayat seutöt
 history-clear-on-close-settings =
     .label = Peuatoe...
     .accesskey = t
