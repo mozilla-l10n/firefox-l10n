@@ -424,8 +424,8 @@
 
 <!-- Tooltips -->
 <!ENTITY menuBar.tooltip "მენიუს პანელი">
-<!ENTITY mailToolbar.tooltip "წერილების პულტი">
-<!ENTITY searchToolbar.tooltip "მისამართის პულტი">
+<!ENTITY mailToolbar.tooltip "წერილების სამართავი">
+<!ENTITY searchToolbar.tooltip "საძიებო ველი">
 <!ENTITY advancedButton.tooltip "წერილების დეტალური ძიება">
 <!ENTITY getMsgButton.tooltip "ახალი წერილების მიღება">
 <!ENTITY newMsgButton.tooltip "ახალი წერილის შექმნა">

@@ -6,7 +6,7 @@
 #define bookmarks_title სანიშნები
 #define bookmarks_heading სანიშნები
 
-#define personal_toolbarfolder პირადი პულტის დასტა
+#define personal_toolbarfolder პირადი სამართავი ზოლების საქაღალდე
 
 #define seamonkey_and_mozilla SeaMonkey და Mozilla
 

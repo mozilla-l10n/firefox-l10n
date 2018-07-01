@@ -11,7 +11,7 @@
 <!ENTITY disableAddons.label          "ყველა მოდულის ამორთვა">
 <!ENTITY disableAddons.accesskey      "D">
 
-<!ENTITY resetToolbars.label          "პულტებისა და სარკმელთა ზომების აღდგენა">
+<!ENTITY resetToolbars.label          "ხელსაწყოთა ზოლებისა და ფანჯრის ზომების აღდგენა">
 <!ENTITY resetToolbars.accesskey      "R">
 
 <!ENTITY deleteBookmarks.label        "ყველა სანიშნის წაშლა გარდა მარქაფებისა">

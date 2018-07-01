@@ -49,9 +49,9 @@
 <!ENTITY accountManagerCmd.accesskey "m">
 
 <!-- View menu items -->
-<!ENTITY showComposeToolbarCmd.label "ფოსტის პულტი">
+<!ENTITY showComposeToolbarCmd.label "ფოსტის ხელსაწყოთა ზოლი">
 <!ENTITY showComposeToolbarCmd.accesskey "o">
-<!ENTITY showFormatToolbarCmd.label "ფორმატის პულტი">
+<!ENTITY showFormatToolbarCmd.label "გაფორმების ხელსაწყოთა ზოლი">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
 
 <!-- Format menu items -->
@@ -113,7 +113,7 @@
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "მისამართების პანელი">
-<!ENTITY formatToolbar.tooltip "დაფორმატების პულტი">
+<!ENTITY formatToolbar.tooltip "გაფორმების ხელსაწყოთა ზოლი">
 <!ENTITY sendButton.tooltip "ამ წერილის გაგზავნა ახლავე"> 
 <!ENTITY sendlaterButton.tooltip "ამ წერილის გაგზავნა მოგვიანებით"> 
 <!ENTITY addressButton.tooltip "მიმღების შერჩევა წიგნაკიდან"> 
