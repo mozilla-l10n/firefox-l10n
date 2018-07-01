@@ -935,7 +935,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; yufa-d iferdisen i izemren ad sfuɣlen tunigin-inek.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; yufa-d iferdisen i izemren ad sfuɣlen tunigin-ik. Tekkseḍ ammesten.">
 <!ENTITY trackingProtection.notDetected5 "Ulac iferdisen iṭafaṛen i ittwafen ɣef usebter-a.">
+<!ENTITY trackingProtection.notDetectedException "Ulac ineḍfaren ittwafen deg usebter-agi. Tsenseḍ ammesten i usmel-a.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Treremdeḍ ammesten n usfuɣel. Ales tulya n usebter akken ad tsewaḥleḍ akk ineḍfaren.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
