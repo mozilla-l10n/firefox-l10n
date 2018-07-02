@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Nov tab da container">
 <!ENTITY newUserContext.accesskey         "C">
+<!ENTITY manageUserContext.label          "Administrar ils containers">
+<!ENTITY manageUserContext.accesskey      "A">
 <!ENTITY newNavigatorCmd.label        "Nova fanestra">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -929,13 +931,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "A">
 
 <!ENTITY trackingProtection.tooltip "Avrir las preferenzas da la protecziun cunter il fastizar">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blochescha parts da questa pagina che ta pudessan fastizar durant che ti navigheschas.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; ha chattà elements che ta pon eventualmain fastizar durant navigar.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; ha chattà elements che fastizeschan eventualmain tia navigaziun. Ti has deactivà la protecziun per questa pagina.">
+<!ENTITY trackingProtection.notDetected5 "Chattà nagins elements che fastizeschan sin questa pagina.">
+<!ENTITY trackingProtection.notDetectedException "Chattà nagins elements che fastizeschan sin questa pagina. Ti has deactivà la protecziun per questa pagina.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Ti has activà la protecziun encunter fastizaders. Rechargia questa pagina per bloccar tut ils fastizaders.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Deactivar per questa website">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Deactivar per questa sesida">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Activar per questa website">
+<!ENTITY trackingProtection.block4.accesskey "A">
+<!ENTITY trackingProtection.reload2.label "Rechargiar la pagina">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Mussar tuts">
 <!ENTITY pluginNotification.showAll.accesskey "S">
