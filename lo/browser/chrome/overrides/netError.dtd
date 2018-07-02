@@ -5,20 +5,38 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY loadError.label "ມີບັນຫາໃນການໂຫລດຫນ້າເວັບ">
+<!ENTITY retry.label "ລອງໃຫມ່ອີກຄັ້ງ">
+<!ENTITY returnToPreviousPage.label "ກັບຄືນ">
+<!ENTITY advanced.label "ຂັ້ນສູງ">
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.title "ບໍ່ສາມາດເຊື່ອມຕໍ່">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
+<!ENTITY deniedPortAccess.title "ທີ່ຢູ່ນີ້ໄດ້ຖືກຈໍາກັດ">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.pageTitle "ບໍ່ພົບເຊີບເວີ">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "ອືມ. ພວກເຮົາມີບັນຫາໃນການຄົ້ນຫາເວັບໄຊທ໌ນັ້ນ.">
 
+<!ENTITY fileNotFound.title "ບໍ່ພົບໄຟລ໌">
+<!ENTITY fileNotFound.longDesc "
+<ul>
+  <li>ກວດເບິງຊື່ໄຟລ໌ສຳລັບຕົວພີມໃຫຍ່ ຫລື ການພີມຜິດອື່ນໆ.</li>
+  <li>ກວດເບິງວ່າໄຟລ໌ໄດ້ຖືກຍ້າຍ, ປ່ຽນຊື່ ຫລື ລຶບຖີ້ມ.</li>
+</ul>">
 
+<!ENTITY fileAccessDenied.title "ການເຂົ້າເຖິງໄຟລ໌ໄດ້ຖືກປະຕິເສດ">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>ມັນອາດຈະຖືກລຶບອອກໄປແລ້ວ, ຍ້າຍໄປໄວ້ຢູ່ບ່ອນອື່ນແລ້ວ ຫລື ທ່ານອາດບໍ່ມີສິດເຂົ້າເຖິງຟາຍຂໍ້ມູນນີ້.</li> </ul>">
 
+<!ENTITY generic.title "ອຸ່ຍ.">
 
 
 
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
@@ -58,4 +76,5 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
 
