@@ -4,7 +4,7 @@
 
 <!ENTITY     tab.cookiesonsystem.label      "Kuki Disimpan">
 <!ENTITY     tab.bannedservers.label        "Laman web Kuki">
-<!ENTITY     div.bannedservers.label        "Uruskan laman web yang boleh dan tidak boleh menyimpan cookie dalam komputer anda.">
+<!ENTITY     div.bannedservers.label        "Uruskan laman web yang boleh dan tidak boleh menyimpan kuki dalam komputer anda.">
 <!ENTITY     div.cookiesonsystem.label      "Papar dan buang kuki yang disimpan dalam komputer anda.">
 <!ENTITY     treehead.cookiename.label      "Nama Kuki">
 <!ENTITY     treehead.cookiedomain.label    "Laman web">
