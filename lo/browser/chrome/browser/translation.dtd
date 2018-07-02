@@ -17,6 +17,7 @@
 <!ENTITY translation.translate.button           "ແປ">
 <!ENTITY translation.notNow.button              "ບໍ່ແມ່ນຕອນນີ້">
 
+<!ENTITY translation.translatingContent.label   "ກຳລັງແປເນື້ອຫາຂອງຫນ້າ…">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
@@ -37,6 +38,8 @@
 <!ENTITY translation.translatedTo.label         "ເປັນ">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "ສະແດງຕົ້ນສະບັບ">
+<!ENTITY translation.showTranslation.button     "ສະແດງການແປ">
 
 <!ENTITY translation.errorTranslating.label     "ມີຂໍ້ຜິດພາດໃນການແປຫນ້ານີ້.">
 <!ENTITY translation.tryAgain.button            "ລອງໃຫມ່ອີກຄັ້ງ">

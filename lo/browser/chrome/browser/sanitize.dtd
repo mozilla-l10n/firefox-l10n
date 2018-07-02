@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY sanitizePrefs2.title          "ການຕັ້ງຄ່າການລ້າງປະຫວັດການໃຊ້ງານ">
 <!-- LOCALIZATION NOTE (sanitizePrefs2.modal.width): width of the Clear History on Shutdown dialog.
      Should be large enough to contain the item* strings on a single line.
      The column width should be set at half of the dialog width. -->
@@ -12,10 +13,15 @@
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
 <!ENTITY sanitizeDialog2.width         "34em">
 
+<!ENTITY clearDataSettings3.label     "ເມື່ອຂ້ອຍອອກຈາກ &brandShortName;, ມັນຄວນຈະລ້າງຂໍ້ມູນເຫລົ່ານີ້ອອກໂດຍອັດຕະໂນມັດ">
+
+<!ENTITY clearDataSettings4.label     "ເມື່ອຂ້ອຍປິດ &brandShortName;, ມັນຄວນຈະລ້າງຂໍ້ມູນເຫລົ່ານີ້ອອກໂດຍອັດຕະໂນມັດ">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
+<!ENTITY clearTimeDuration.label          "ຊ່ວງເວລາທີ່ຈະລ້າງຂໍ້ມູນ:">
+<!ENTITY clearTimeDuration.accesskey      "T">
 <!ENTITY clearTimeDuration.lastHour       "ຊົ່ວໂມງທີ່ຜ່ານມາ">
 <!ENTITY clearTimeDuration.last2Hours     "ສອງຊົ່ວໂມງທີ່ຜ່ານມາ">
 <!ENTITY clearTimeDuration.last4Hours     "ສີ່ຊົ່ວໂມງທີ່ຜ່ານມາ">
@@ -52,3 +58,4 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
+<!ENTITY sanitizeEverythingUndoWarning     "ການກະທຳນີ້ບໍ່ສາມາດຍົກເລີກໄດ້.">
