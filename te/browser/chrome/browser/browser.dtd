@@ -305,6 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "కొత్త కంటైనర్ ట్యాబు">
 <!ENTITY newUserContext.accesskey         "C">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "కొత్త విండో">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -921,6 +922,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingProtection.tooltip "ట్రాకింగ్ సంరక్షణ అభిరుచులు తెరువు">
+<!ENTITY trackingProtection.notDetected5 "ఈ పేజీలో ట్రాకింగ్ మూలకాలేమీ కనబడలేదు.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
