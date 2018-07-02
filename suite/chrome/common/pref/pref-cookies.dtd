@@ -17,7 +17,7 @@
 <!ENTITY acc3rdPartyVisited.label       "Izinkan kuki pihak ketiga daripada laman web yang pernah dilawati sahaja">
 <!ENTITY acc3rdPartyVisited.accesskey   "g">
 
-<!ENTITY accAllCookies.label            "Izin kan semua kuki">
+<!ENTITY accAllCookies.label            "Izinkan semua kuki">
 <!ENTITY accAllCookies.accesskey        "i">
 
 <!ENTITY cookieRetentionPolicy.label    "Polisi Pengekalan Kuki">
