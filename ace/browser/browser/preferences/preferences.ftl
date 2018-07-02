@@ -546,15 +546,32 @@ history-remember-option-never =
 history-remember-option-custom =
     .label = Ngui aturan khusus keu daya jeujak
 history-remember-description = { -brand-short-name } tingat pue nyang droen browsing, download, formulir dan riwayat seutöt
+history-dontremember-description = { -brand-short-name }  jingui peuatô nyang saban lagée browsing privat, dan han jiingat dumpue riwayat watée neu browse bak web
 history-private-browsing-permanent =
     .label = Sabe sabe  ngui mode browsing privat
     .accesskey = p
+history-remember-option =
+    .label = Beutingat riwayat browsing ngön download lôn
+    .accesskey = B
+history-remember-browser-option =
+    .label = Beutingat riwayat browsing ngön download
+    .accesskey = B
+history-remember-search-option =
+    .label = Beutingat riwayat seutöt dan form
+    .accesskey = B
+history-clear-on-close-option =
+    .label = Peugléh riwayat watée { -brand-short-name } meutôp
+    .accesskey = P
 history-clear-on-close-settings =
-    .label = Peuatoe...
+    .label = Peuatô...
     .accesskey = t
+history-clear-button =
+    .label = Peugléh Riwayat
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookis ngön  Data Situs
 sitedata-learn-more = Meurunoë lom
 sitedata-accept-third-party-always-option =
     .label = Sabé
