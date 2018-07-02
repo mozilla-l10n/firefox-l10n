@@ -96,7 +96,6 @@
 <!ENTITY IRC.label                      "IRC nadimak:">
 
 <!ENTITY Photo.tab                      "Fotografija">
-<!ENTITY PhotoDesc.label                "Izaberite jedno od sljedećih:">
 <!ENTITY GenericPhoto.label             "Standardna slika">
 <!ENTITY DefaultPhoto.label             "Zadano">
 <!ENTITY PhotoFile.label                "Na ovom računaru">
