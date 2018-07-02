@@ -16,6 +16,11 @@
 serviceworker-list-header = Service workers
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Désinscrire
+# Text for the debug link displayed for an already started Service Worker. Clicking on the
+# link opens a new devtools toolbox for this service worker. The title attribute is only
+# displayed when the link is disabled.
+serviceworker-worker-debug = Déboguer
+    .title = Seuls les service workers en cours d’exécution peuvent être débogués
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Démarrer
@@ -35,6 +40,12 @@ serviceworker-worker-status-stopped = Arrêté
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = Inscription en cours
+# Text displayed when no service workers are visible for the current page. Clicking on the
+# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro = Vous devez inscrire un service worker afin de pouvoir l’inspecter ici. <a>En savoir plus</a>
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+serviceworker-empty-suggestions = Si la page actuelle devrait contenir un service worker, voici ce que vous pouvez essayer
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Rechercher les erreurs dans la console. <a>Ouvrir la console</a>
