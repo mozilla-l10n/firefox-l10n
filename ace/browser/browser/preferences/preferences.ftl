@@ -572,6 +572,7 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookis ngön  Data Situs
+sitedata-total-size-calculating = Bileueng data situs nngön rayëk cache
 sitedata-learn-more = Meurunoë lom
 sitedata-accept-third-party-always-option =
     .label = Sabé
