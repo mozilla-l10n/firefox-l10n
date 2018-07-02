@@ -9,7 +9,7 @@ sync-disconnect-heading = Adakah anda turut mahu membuang data pelayaran dalam k
 sync-disconnect-remove-sync-caption = Buang Data { -sync-brand-name }
 sync-disconnect-remove-sync-data = Tandabuku, sejarah, kata laluan dsb
 sync-disconnect-remove-other-caption = Buang Data Peribadi Lain
-sync-disconnect-remove-other-data = Kuki, cache, data laman web luar talian, dsb
+sync-disconnect-remove-other-data = Kuki, cache, data laman web luar talian, dsb.
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Memutuskan…
 sync-disconnect-cancel =
