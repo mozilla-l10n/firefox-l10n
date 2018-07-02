@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "A">
 <!ENTITY newUserContext.label             "Nueva pestaña contenedora">
 <!ENTITY newUserContext.accesskey         "C">
+<!ENTITY manageUserContext.label          "Gestionar contenedores">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Nueva ventana">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -929,7 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingProtection.tooltip "Abrir preferencias de protección de seguimiento">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; está bloqueando partes de esta página que pueden seguir tu navegación.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; ha detectado elementos que pueden rastrear tu navegación.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; ha detectado elementos que pueden rastrear tu navegación. Has desactivado la protección.">
+<!ENTITY trackingProtection.notDetected5 "No se detectaron elementos de seguimiento en esta página.">
+<!ENTITY trackingProtection.notDetectedException "No se detectaron elementos de seguimiento en esta página. Has desactivado la protección para este sitio.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Has activado la protección de seguimiento. Recarga esta página para bloquear todos los rastreadores.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
