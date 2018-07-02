@@ -36,11 +36,10 @@
 <!ENTITY pkcs12.setpassword.label2 "ధృవీకరణపత్రం బ్యాక్అప్ సంకేతపదం(మరలా):">
 <!ENTITY pkcs12.setpassword.reminder "ముఖ్యమైనది: మీరు మీ ధృవీకరణపత్రం బ్యాక్అప్ సంకేతపదాన్ని మరిచిపోయినట్లైతే, మీరు ఈ బ్యాక్అప్‌ను తర్వాత తిరిగిపొందలేరు. దయచేసి దీనిని భద్రమైన స్థానమునందు వుంచుకోండి.">
 
-<!ENTITY chooseToken.title  "టోకెన్ డైలాగ్‌ను ప్రవేశపెట్టండి">
+<!ENTITY chooseToken.title  "టోకెన్ డైలాగ్‌ను ఎంచుకోండి">
 <!ENTITY chooseToken.message1 "దయచేసి టోకెన్‌ను ఎన్నుకోండి.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
-<!ENTITY createCertInfo.title "ఒక ప్రవేట్ కీ ను సంభవింపచేయుట">
 <!ENTITY createCertInfo.msg1 "కీ సంభవం జరుగుతోంది... ఇది కొన్ని నిమషముల సమయం తీసుకుంటుంది....">
 <!ENTITY createCertInfo.msg2 "దయచేసి వేచివుండండి...">
 
