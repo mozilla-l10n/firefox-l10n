@@ -968,7 +968,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "కొనసాగితే జరిగేవి:">
 <!ENTITY panicButton.view.deleteCookies           "ఇటీవలి <html:strong>కుకీలు</html:strong> తొలగించు">
-<!ENTITY panicButton.view.deleteHistory           "ఇటీవలి <html:strong>చరిత్ర</html:strong> తొలగించు">
+<!ENTITY panicButton.view.deleteHistory           "ఇటీవలి <html:strong>చరిత్ర</html:strong>ను తొలగించు">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "అన్ని <html:strong>ట్యాబులనూ</html:strong> <html:strong>విండోలనూ</html:strong> మూసివేయి">
 <!ENTITY panicButton.view.openNewWindow           "కొత్త ఖాళీ విండోను తెరువు">
 
