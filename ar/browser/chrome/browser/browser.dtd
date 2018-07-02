@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "د">
 <!ENTITY  closeTab.label                     "أغلِق اللسان">
 <!ENTITY  closeTab.accesskey                 "غ">
-
 <!ENTITY  hiddenTabs.label                   "الألسنة المخفية">
 
 <!ENTITY  listAllTabs.label      "اسرد كل الألسنة">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "افتح لوحة الرسائل">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "افتح لوحة طلب المكان">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "افتح لوحة التشغيل التلقائي">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "افتح لوحة رسائل تنصيب الإضافات">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "أدِر تصاريح استخراج ألواح الرسم">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "افتح لوحة رسائل مساحة التخزين دون اتصال">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "غيّر ما إذا ما كنت تسمح باستلام تنبيهات من الموقع">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "حفظ البيانات في مساحة تخزين دائمة">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "يخضع المتصفح للتحكم عن بعد">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "افتح لوحة استيثاق الوِب">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "أدر مشاركة كمرتك و ميكروفونك مع هذا الموقع">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "لقد حجبت التنبيهات عن هذا الموقع.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "لقد حجبت الحفظ الدائم للبيانات عن هذا الموقع.">
 <!ENTITY urlbar.popupBlocked.tooltip             "لقد حجبت المنبثقات من هذا الموقع.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "لقد حجبت تشغيل الوسائط المحتوية على صوت تلقائيا في هذا الموقع.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "لقد منعت استخراج بيانات رقعة الرسم في هذا الموقع.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "لقد حجبت هذا الموقع من استخدام ملحقة أدوبي فلاش.">
 <!ENTITY urlbar.midiBlocked.tooltip              "لقد حجبنا عن هذا الموقع الوصول إلى MIDI.">
@@ -310,6 +310,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "م">
 <!ENTITY newUserContext.label             "لسان حاوٍ جديد">
 <!ENTITY newUserContext.accesskey         "ح">
+<!ENTITY manageUserContext.label          "أدِر الحاويات">
 <!ENTITY newNavigatorCmd.label        "نافذة جديدة">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ج">
@@ -412,8 +413,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "أضف لقائمة الزيادة">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "ض">
 <!ENTITY customizeMenu.moveToToolbar.label "انقل إلى شريط الأدوات">
@@ -425,6 +425,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "انقل إلى القائمة">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ن">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "ثبّت في قائمة الزيادة">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "ث">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "أزل التثبيت من قائمة الزيادة">
@@ -807,6 +810,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "لم تمنح هذا الموقع أي صلاحيات خاصة.">
 <!ENTITY identity.permissionsReloadHint "قد تحتاج إعادة تحميل الصفحة لتطبيق التغييرات.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "افتح تفضيلات التصاريح">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ألسنة المتصفح">
@@ -905,8 +910,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "الصوت في هذا اللسان سيُشارك.">
 <!ENTITY getUserMedia.allWindowsShared.message "ستُشارك كل النوافذ الظاهرة على شاشتك.">
 
+<!ENTITY trackingProtection.on "الحماية من التعقّب: مفعّلة">
+<!ENTITY trackingProtection.off "الحماية من التعقّب: معطّلة">
 <!ENTITY trackingProtection.title "الحماية من التعقّب">
-<!ENTITY trackingProtection.tooltip "افتح تفضيلات الحماية من التعقّب">
 <!ENTITY trackingProtection.detectedBlocked3 "يحجب &brandShortName; أجزاءً من الصفحة ربما تتعقب تصفّحك.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "في هذا الموقع عناصر قد تتعقّب تصفّحك. لقد عطّلتَ الحماية.">
 <!ENTITY trackingProtection.notDetected3 "لم تُكتشف أيّة عناصر تعقّب في هذه الصفحة.">
@@ -922,6 +928,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "ق">
 <!ENTITY trackingProtection.block2.label "فعّل الحماية">
 <!ENTITY trackingProtection.block2.accesskey "ف">
+
+<!ENTITY trackingProtection.tooltip "افتح تفضيلات الحماية من التعقّب">
+<!ENTITY trackingProtection.detectedBlocked4 "يحجب &brandShortName; أجزاءً من هذه الصفحة ربما تتعقب تصفّحك.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "اكتشف &brandShortName; عناصر قد تتعقّب التصفّح.">
+<!ENTITY trackingProtection.detectedException "اكتشف &brandShortName; عناصر قد تتعقّب تصفّحك. لقد عطّلتَ الحماية لهذا الموقع.">
+<!ENTITY trackingProtection.notDetected5 "لم تُكتشف أيّة عناصر تعقّب في هذه الصفحة.">
+<!ENTITY trackingProtection.notDetectedException "لم تُكتشف أيّة عناصر تعقّب في هذه الصفحة. لقد عطّلتَ الحماية لهذا الموقع.">
+
+<!ENTITY trackingProtection.reloadRequired2 "لقد فعّلت الحماية ضد التعقّب. أعِد تحميل هذه الصفحة لحجب كل المتعقّبات.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "عطِّله لهذا الموقع">
+<!ENTITY trackingProtection.unblock3.accesskey "ط">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "عطِّله لهذه الجلسة">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "ط">
+<!ENTITY trackingProtection.block4.label "فعِّله لهذا الموقع">
+<!ENTITY trackingProtection.block4.accesskey "ف">
+<!ENTITY trackingProtection.reload2.label "أعِد تحميل الصفحة">
+<!ENTITY trackingProtection.reload2.accesskey "ع">
 
 <!ENTITY pluginNotification.showAll.label "أظهر الكل">
 <!ENTITY pluginNotification.showAll.accesskey "ظ">
