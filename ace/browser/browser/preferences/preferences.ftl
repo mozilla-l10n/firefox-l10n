@@ -284,7 +284,7 @@ performance-allow-hw-accel =
     .accesskey = N
 performance-limit-content-process-option = Bataih prosès kontèn
     .accesskey = B
-performance-limit-content-process-enabled-desc = Proses asoe tambahan jeut meutamah gêt performa watéi meungui lë tab, tapih meungui memori syit lom
+performance-limit-content-process-enabled-desc = Prosès teunamah kontèn leubèh jröh keu performen watèë tangui lé tab, meutapi lheuëhnyan leubèh lé teungui mèmori. 
 performance-limit-content-process-blocked-desc = Modifikasi leumboi dari proses asoe jih han keumah ta peulaku kecuali ngën multiproses { -brand-short-name }. <a data-l10n-name="learn-more"> i meurunoe kiban caea ta cek meunyô multiproses na udép
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
