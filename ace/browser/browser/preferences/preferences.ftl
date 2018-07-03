@@ -77,7 +77,7 @@ restart-later = Peuhah Keulayi Euntreuk
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = Sabôh èkstènsi, <img data-l10n-name="icon"/>, meujaga hômpèg (ônkeuë) keudroëneuh.
+extension-controlled-homepage-override = Sabôh èkstènsi, <img data-l10n-name="icon"/>, meujaga keudroëneuh hômpèg (ônkeuë).
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Sabôh èkstènsi, <img data-l10n-name="icon"/>, meujaga keudroëneuh ôn Tab Barô.
@@ -86,13 +86,13 @@ extension-controlled-new-tab-url = Sabôh èkstènsi, <img data-l10n-name="icon"
 extension-controlled-default-search = Sabôh èkstènsi, <img data-l10n-name="icon"/>, kalheuëh meuatô keuroëneuh meusén seumeutot (search engine) nyang default.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Sabôh ekstensi, <img data-l10n-name="icon"/>, peureulé Tab Kontener
+extension-controlled-privacy-containers = Sabôh èkstènsi, <img data-l10n-name="icon"/>, peureulèë Tab Kontèner.
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Sabôh ekstensi, <img data-l10n-name="icon"/>, jipeuatô proteksi tracking
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = Sabôh ekstensi, <img data-l10n-name="icon"/>, jipeuatô kiban cara { -brand-short-name } meutaloe ngën internet
+extension-controlled-proxy-config = Sabôh èkstènsi, <img data-l10n-name="icon"/>, meuatô pakiban cara { -brand-short-name } meuhubông keu inteunèt.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
