@@ -77,10 +77,10 @@ restart-later = Peuhah Keulayi Euntreuk
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = Sabôh ekstensi, <img data-l10n-name="icon"/>, jiatô laman keu droen (Home Page)
+extension-controlled-homepage-override = Sabôh èkstènsi, <img data-l10n-name="icon"/>, meujaga hômpèg (ônkeuë) keudroëneuh.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = Sabôh ekstensi, <img data-l10n-name="icon"/>, jiatô laman Tab Barô droen
+extension-controlled-new-tab-url = Sabôh èkstènsi, <img data-l10n-name="icon"/>, meujaga keudroëneuh ôn Tab Barô.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Sabôh ekstensi, <img data-l10n-name="icon"/>, kalheuh ji set meusén seumeutët (search engine) droen nyang default
