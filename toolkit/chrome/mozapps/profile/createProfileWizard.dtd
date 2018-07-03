@@ -19,7 +19,7 @@
 <!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "మీ వాడుకరి అమరికలు, అభిరుచులు, ఇతర వాడుకరి-సంబంధిత డేటా ఇందులో నిల్వ ఉంటుంది:">
 <!ENTITY profileDefaultName             "అప్రమేయ వాడుకరి">
-<!ENTITY button.choosefolder.label      "సంచయంను ఎంచుకొనుము...">
+<!ENTITY button.choosefolder.label      "సంచయాన్ని ఎంచుకోండి…">
 <!ENTITY button.choosefolder.accesskey  "C">
-<!ENTITY button.usedefault.label        "అప్రమేయ సంచయంను ఉపయోగించు">
+<!ENTITY button.usedefault.label        "అప్రమేయ సంచయాన్ని వాడు">
 <!ENTITY button.usedefault.accesskey    "U">

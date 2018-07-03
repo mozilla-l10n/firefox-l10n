@@ -10,8 +10,8 @@
 #define bookmarks_title ఇష్టాంశాలు
 #define bookmarks_heading ఇష్టాంశాలు
 
-#define bookmarks_toolbarfolder ఇష్టాంశముల సాధనాలపట్టీ సంచయం
-#define bookmarks_toolbarfolder_description ఇష్టాంశముల సాధనపట్టీ నందు వాటిని చూడుటకు ఇష్టాంశములను ఈ సంచయముకు జతచేయి
+#define bookmarks_toolbarfolder ఇష్టాంశాల పనిముట్లపట్టీ సంచయం
+#define bookmarks_toolbarfolder_description ఇష్టాంశాల పనిముట్లపట్టీలో చూడాలనుకునే ఇష్టాంశాలను ఈ సంచయంలో చేర్చండి
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
@@ -59,7 +59,7 @@
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
-#define crashes మీ అన్నీ క్రాషులు
+#define crashes మీ క్రాషులన్నీ
 
 # LOCALIZATION NOTE (irc):
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
