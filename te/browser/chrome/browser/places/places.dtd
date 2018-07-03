@@ -74,7 +74,7 @@
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 <!ENTITY col.name.label          "పేరు">
-<!ENTITY col.tags.label          "టాగ్స్ ‌">
+<!ENTITY col.tags.label          "ట్యాగులు">
 <!ENTITY col.url.label           "స్థానము">
 <!ENTITY col.mostrecentvisit.label "ఇటీవల దర్శించిన">
 <!ENTITY col.visitcount.label    "చూపుల సంఖ్య">

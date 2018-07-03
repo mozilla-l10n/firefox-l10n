@@ -36,12 +36,12 @@
 
 <!ENTITY importSource.title             "డాటాను మరియు అమరికలను దిగుమతిచేయి">
 <!ENTITY importItems.title              "దిగుమతి కావడానికి అంశములు">
-<!ENTITY importItems.label              "ఏ అంశములు దిగుమతి కావాలో ఎంచుకొనుము:">
+<!ENTITY importItems.label              "ఏయే అంశాలు దిగుమతి కావాలో ఎంచుకోండి:">
 
 <!ENTITY migrating.title                "దిగుమతవుతున్నది...">
 <!ENTITY migrating.label                "ఈ క్రింది అంశములు ప్రస్తుతం దిగుమతవుతున్నవి...">
 
-<!ENTITY selectProfile.title            "ప్రొఫైల్ ఎంచుకొనుము">
+<!ENTITY selectProfile.title            "ప్రొఫైలు ఎంచుకోండి">
 <!ENTITY selectProfile.label            "ఈ క్రింది ప్రొఫైల్సు దిగుమతికి అందుబాటులో వున్నాయి నుండి:">
 
 <!ENTITY done.title                     "పూర్తిగా దిగుమతిచేయి">
