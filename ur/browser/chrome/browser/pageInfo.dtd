@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "فیڈ">
 <!ENTITY  feedTab.accesskey     "ف">
-<!ENTITY  feedSubscribe         "رکن بنیں">
-<!ENTITY  feedSubscribe.accesskey "ر">
 
 <!ENTITY  permTab               "اجازتیں">
 <!ENTITY  permTab.accesskey     "ا">
-<!ENTITY  permUseDefault        "طے شدہ استعمال کریں">
-<!ENTITY  permAskAlways         "ہمیشہ پوچھیں">
-<!ENTITY  permAllow             "اجازت دیں">
-<!ENTITY  permAllowSession      "سیشن کے لیے اجازت دیں">
-<!ENTITY  permHide              "چھپائیں">
-<!ENTITY  permBlock             "بلاک کریں">
 <!ENTITY  permissionsFor        "اجازتیں بر:">
-<!ENTITY  permPlugins           "پلگ ان متحرک کریں">
 
 <!ENTITY  securityTab           "سلامتی">
 <!ENTITY  securityTab.accesskey "س">
@@ -75,9 +66,8 @@
 
 <!ENTITY  securityView.privacy.header                   "نجی نوعیت &amp; سابقات">
 <!ENTITY  securityView.privacy.history                  "میں نے آج سے پہلے یہ ویب سائٹ دیکھی ہے؟">
-<!ENTITY  securityView.privacy.cookies                  "کیا یہ ویب سائٹ میرے کمپیوٹر پر معلومات (کوکیاں) سٹور کر رہی ہے؟">
-<!ENTITY  securityView.privacy.viewCookies              "کوکیاں نظارہ کریں">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "ن">
+<!ENTITY  securityView.privacy.clearSiteData            "کوکیاں اور سائٹ کے کواِئف صاف کریں">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "کیا میں نے اس ویب سائٹ کے لیے کوئی پاس ورڈ محفوظ کیے ہیں؟">
 <!ENTITY  securityView.privacy.viewPasswords            "محفوظ شدہ پاس ورڈ نظارہ کریں">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "ن">

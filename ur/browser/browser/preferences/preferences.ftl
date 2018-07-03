@@ -16,14 +16,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -39,6 +31,9 @@ search-input-box =
 pane-general-title = عمومی
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = ابتدائی صفحہ
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = تلاش کریں
 category-search =
     .tooltiptext = { pane-search-title }
@@ -64,6 +59,17 @@ should-restart-ok = { -brand-short-name } کو ابھی دوباره شروع ک
 cancel-no-restart-button = منسوخ کریں
 restart-later = بعد میں دوباره شروع کریں
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = تلاش کے نتائج
@@ -84,15 +90,8 @@ is-not-default = { -brand-short-name } اس وقت آپ کا طےشدہ  برا�
 set-as-my-default-browser =
     .label = طے شدہ بنائیں…
     .accesskey = D
-startup-user-homepage =
-    .label = اپنا ہوم صفحہ دکھائیں
-startup-blank-page =
-    .label = خالی صفحہ دکھائیں
-startup-prev-session =
-    .label = اپنا دریچہ اور آخری وقت کے ٹیب دکھائیں
 disable-extension =
     .label = توسیعات نا اہل بنائیں
-home-page-header = ابتدائی صفحہ
 tabs-group-header = ٹیبس
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ٹہبس کے زرِیعے دورہ حالیہ اسرتعمال شدپ ترغیب میں
@@ -198,7 +197,6 @@ applications-action-column =
     .accesskey = ع
 play-drm-content-learn-more = مزید سیکھیں
 update-application-title = { -brand-short-name } تازہ کاریاں:
-update-application-info = ورژن{ $version } <a>نیا کیا ہے</a>
 update-application-version = ورژن{ $version } <a data-l10n-name="learn-more">نیا کیا ہے</a>
 update-application-manual =
     .label = کبھی بھی تازہ کاری کی پڑتال نہیں کریں
@@ -244,9 +242,22 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = نئے دریچے اور ٹیبس
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = نئے ٹیبس
+home-restore-defaults =
+    .label = طےشدہ بحال کریں
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox کا ابتائی صفحہ
+home-mode-choice-blank =
+    .label = خالی صفحہ
+home-homepage-custom-url =
+    .placeholder = ایک URL چسپاں کریں...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -261,9 +272,6 @@ use-current-pages =
 choose-bookmark =
     .label = نشانی استعمال کریں…
     .accesskey = ن
-restore-default =
-    .label = طے شدہ بحال کریں
-    .accesskey = ب
 
 ## Search Section
 
@@ -334,6 +342,9 @@ sync-manage-account = اکاؤنٹ کا بندوبست کریں
     .accesskey = o
 sync-signedin-unverified = { $email } توثیق شدہ نہیں ہے۔
 sync-signedin-login-failure = پھر جڑنے کے لیے سائن ان کریں { $email }
+sync-remove-account =
+    .label = اکائونٹ ہٹائیں
+    .accesskey = R
 sync-sign-in =
     .label = سائن ان کریں
     .accesskey = g
@@ -344,6 +355,18 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = سابقات
     .accesskey = س
+sync-engine-tabs =
+    .label = ٹیبس کھولیں
+    .tooltiptext = تمام ہمہ وقت ساز آلات میں  کیا کھلا ہے اس کی فہرست
+    .accesskey = t
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] اختیارات
+           *[other] ترجیحات
+        }
+    .tooltiptext = عمومی، رازداری اور سلامتی سیٹنگیں جو آپ نے تبدیل کی
+    .accesskey = s
 sync-device-name-header = آلہ کا نام
 sync-device-name-change =
     .label = آلہ کا نام تبدیل کریں…
@@ -365,6 +388,7 @@ privacy-header = براؤزر رازداری
 
 ## Privacy Section - Forms
 
+forms-header = فارم اور پاس ورڈ
 forms-exceptions =
     .label = استثنیات…
     .accesskey = ا
@@ -403,6 +427,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = سیٹنگیں…
     .accesskey = س
+history-clear-button =
+    .label = سابقات صاف کریں
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
@@ -425,6 +452,8 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
+addressbar-header = پتہ کی بار
+addressbar-suggest = ہتہ کی بار استعمال کرتے وقت، تجویز دیں
 addressbar-locbar-history-option =
     .label = براؤزنگ سابقات
     .accesskey = H
@@ -509,6 +538,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = تصدیق نامے
+certs-personal-label = جب پیش کار آپ کے ذاتی تصدیق نامہ کی درخواست کرے
 certs-select-auto-option =
     .label = خودبخود ایک منتخب کریں
     .accesskey = S
@@ -518,3 +548,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = سوال OCSP ریسپانڈر سرور کی موجودہ سرٹیفکیٹ کی تصدیق کرتی ہے
     .accesskey = س
+certs-view =
+    .label = تصدیق نامہ دیکھیں
+    .accesskey = C
+certs-devices =
+    .label = سلامتی آلات
+    .accesskey = D
