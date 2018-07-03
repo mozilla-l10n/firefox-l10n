@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "مكتب">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -73,9 +73,6 @@
 <!ENTITY cmd.reloadLivebookmark.label      "لاویو ن;ان زَد كریو دوبارئ لوڈ">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
-<!ENTITY cmd.moveBookmarks.label                  "پكنٲویو...">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "ناو">
 <!ENTITY col.tags.label          "ٹیگس">
 <!ENTITY col.url.label           "جاے">
@@ -85,6 +82,8 @@
 <!ENTITY col.dateadded.label     "رلٲومُت">
 <!ENTITY col.lastmodified.label  "ٲخری تبدیل كرموْت">
 
+<!ENTITY historySearch.placeholder  "تٲریخ ژھٲنڈيو">
+<!ENTITY bookmarksSearch.placeholder  "نشان زَد ژھٲنڈيو">
 
 <!ENTITY cmd.find.key  "F">
 
