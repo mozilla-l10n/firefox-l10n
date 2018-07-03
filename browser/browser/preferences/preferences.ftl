@@ -40,6 +40,17 @@ should-restart-title = ចាប់ផ្ដើម { -brand-short-name } ឡើ�
 should-restart-ok = ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ​ឥឡូវ​នេះ
 restart-later = ចាប់ផ្ដើម​ឡើងវិញ​នៅ​ពេលក្រោយ
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = លទ្ធផល​ស្វែងរក
@@ -65,15 +76,6 @@ always-check-default =
     .accesskey = y
 is-default = { -brand-short-name } បច្ចុប្បន្ន​ជា​កម្មវិធី​រុករក​លំនាំដើម​របស់​អ្នក
 is-not-default = { -brand-short-name } វា​មិន​មែន​ជា​កម្មវិធី​រុករក​លំនាំដើម​របស់​អ្នក
-startup-page = នៅពេល { -brand-short-name } ចាប់ផ្ដើម
-    .accesskey = s
-startup-user-homepage =
-    .label = បង្ហាញ​ទំព័រ​ដើម​របស់​អ្នក
-startup-blank-page =
-    .label = បង្ហាញ​ទំព័រ​ទទេ
-startup-prev-session =
-    .label = បង្ហាញ​បង្អួច និង​ផ្ទាំង​របស់​ខ្ញុំ​កាល​ពី​មុន
-home-page-header = ទំព័រ​ដើម
 tabs-group-header = ផ្ទាំង
 ctrl-tab-recently-used-order =
     .label = ប៊ូតុង​ Ctrl+Tab មាន​មុខងារ​ចូល​មើល​ផ្ទាំង​ដែល​បើក​ថ្មីៗ​ម្ដង​មួយ​ៗ
@@ -170,7 +172,6 @@ applications-action-column =
     .accesskey = ព
 play-drm-content-learn-more = ស្វែងយល់​​បន្ថែម
 update-application-title = បច្ចុប្បន្នភាព { -brand-short-name }
-update-application-info = កំណែ { $version } <a>អ្វី​ដែល​ថ្មី</a>
 update-application-version = កំណែ { $version } <a data-l10n-name="learn-more">អ្វី​ដែល​ថ្មី</a>
 update-history =
     .label = បង្ហាញ​ប្រវត្តិ​បច្ចុប្បន្នភាព...
@@ -203,7 +204,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = ដែនកំណត់​ដំណើរការ​មាតិកា
     .accesskey = L
 performance-limit-content-process-enabled-desc = ដំណើរការ​មាតិកា​បន្ថែម​អាច​ធ្វើឲ្យ​ដំណើរការ​ប្រសើរ​ឡើង​នៅពេល​ប្រើ​ផ្ទាំង​ច្រើន ប៉ុន្តែ​វា​នឹង​ប្រើ​អង្គ​ចងចាំ​ច្រើន​ដែរ។
-performance-limit-content-process-disabled-desc = ការ​កែប្រែ​ចំនួន​ដំណើរការ​មាតិកា គឺ​អាច​ធ្វើ​ទៅ​បានតែ​ជាមួយ { -brand-short-name } ពហុ​ដំណើរការ​ប៉ុណ្ណោះ។ <a>ស្វែងយល់​ពី​របៀប​ពិនិត្យមើល ប្រសិនបើ​បាន​បើក​ពហុ​ដំណើរការ</a>
 performance-limit-content-process-blocked-desc = ការ​កែប្រែ​ចំនួន​ដំណើរការ​មាតិកា គឺ​អាច​ធ្វើ​ទៅ​បានតែ​ជាមួយ { -brand-short-name } ពហុ​ដំណើរការ​ប៉ុណ្ណោះ។ <a data-l10n-name="learn-more">ស្វែងយល់​ពី​របៀប​ពិនិត្យមើល ប្រសិនបើ​បាន​បើក​ពហុ​ដំណើរការ</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -254,12 +254,10 @@ use-current-pages =
 choose-bookmark =
     .label = ប្រើ​ចំណាំ…
     .accesskey = ច
-restore-default =
-    .label = ស្ដារ​ទៅ​លំនាំ​ដើម
-    .accesskey = ស
 
 ## Search Section
 
+search-bar-header = របារស្វែងរក
 search-engine-default-header = ម៉ាស៊ីន​ស្វែងរក​លំនាំដើម
 search-suggestions-option =
     .label = បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក
@@ -400,6 +398,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = កំពុង​កំណត់…
     .accesskey = ង
+history-clear-button =
+    .label = សម្អាតប្រវត្តិ...
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
@@ -410,12 +411,19 @@ sitedata-accept-third-party-visited-option =
     .label = ពី​អ្វី​ដែល​ទស្សនា
 sitedata-accept-third-party-never-option =
     .label = កុំ
+sitedata-clear =
+    .label = សម្អាតទិន្នន័យ...
+    .accesskey = l
+sitedata-settings =
+    .label = គ្រប់គ្រងទិន្នន័យ...
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = ករណី​លើកលែង…
     .accesskey = រ
 
 ## Privacy Section - Address Bar
 
+addressbar-header = របារអាសយដ្ឋាន
 addressbar-locbar-bookmarks-option =
     .label = ចំណាំ
     .accesskey = k

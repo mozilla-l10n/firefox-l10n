@@ -22,8 +22,17 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = ឈ្មោះ
+    .accesskey = N
+    .style = { -containers-labels-style }
 containers-name-text =
     .placeholder = បញ្ចូល​ឈ្មោះ​ប្រអប់
+containers-icon-label = រូបតំណាង
+    .accesskey = I
+    .style = { -containers-labels-style }
+containers-color-label = ពណ៌
+    .accesskey = o
+    .style = { -containers-labels-style }
 containers-button-done =
     .label = ធ្វើ​រួច
     .accesskey = D
