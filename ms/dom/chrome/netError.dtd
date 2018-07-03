@@ -86,7 +86,7 @@
 <!ENTITY corruptedContentErrorv2.title "Ralat Kandungan Rosak">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Halaman yang anda cuba lihat tidak dapat dipaparkan kerana ada ralat dalam transmisi data.</p><ul><li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li></ul>">
 
-<!ENTITY remoteXUL.title "Capaian jauh XUL">
+<!ENTITY remoteXUL.title "XUL jauh">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Sambungan internet anda tidak selamat">
