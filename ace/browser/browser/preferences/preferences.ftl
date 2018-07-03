@@ -277,13 +277,13 @@ performance-title = Performen
 performance-use-recommended-settings-checkbox =
     .label = Neungui peuatô kineurja nyang rekomèndid
     .accesskey = N
-performance-use-recommended-settings-desc = Peuatô nyoe meukeumat bak hadwer komputer droen ngen operating sistem ban mandum
+performance-use-recommended-settings-desc = Peuatô disinoë geupeuseusuwai keu hadwèr deungon sistèm opeurasi komputer droëneuh.
 performance-settings-learn-more = Meurunoë lom
 performance-allow-hw-accel =
-    .label = Ngui peubagah  hadwer meunyô na
+    .label = Neugui peubagah hadwèr akseulèrasi, meunyena
     .accesskey = N
-performance-limit-content-process-option = Ceue proses asoe jih
-    .accesskey = C
+performance-limit-content-process-option = Bataih prosès kontèn
+    .accesskey = B
 performance-limit-content-process-enabled-desc = Proses asoe tambahan jeut meutamah gêt performa watéi meungui lë tab, tapih meungui memori syit lom
 performance-limit-content-process-blocked-desc = Modifikasi leumboi dari proses asoe jih han keumah ta peulaku kecuali ngën multiproses { -brand-short-name }. <a data-l10n-name="learn-more"> i meurunoe kiban caea ta cek meunyô multiproses na udép
 # Variables:
