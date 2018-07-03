@@ -573,6 +573,10 @@ history-clear-button =
 
 sitedata-header = Cookis ngön  Data Situs
 sitedata-total-size-calculating = Bileueng data situs nngön rayëk cache
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Cache, data situs ngon cookies nyang neukeubah jinoe jingui  { $value } { $unit } ruweueng keubah
 sitedata-learn-more = Meurunoë lom
 sitedata-accept-third-party-always-option =
     .label = Sabé
