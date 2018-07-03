@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Отваряне на панел със съобщението">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Отваряне на панел със заявката за местоположение">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Отваряне на панел за автоматично възпроизвеждане">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Отваряне на панел със съобщението за инсталиране на добавка">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Управление на правата извличане на изображения чрез canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Отваряне на панел със съобщението за работа без мрежа">
@@ -912,7 +913,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Защита от проследяване: изключена">
 <!ENTITY trackingProtection.off "Защита от проследяване: изключена">
 <!ENTITY trackingProtection.title "Защита от проследяване">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокира части от страницата, които биха могли да проследяват вашето браузване.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; изключва елементи от страницата, които е възможно да следят поведението ви онлайн.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Този сайт включва елементи, които биха могли да проследяват вашето браузване. Защитата от проследяване е изключена.">
 <!ENTITY trackingProtection.notDetected3 "На страницата не са открити проследяващи елементи.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
@@ -929,6 +930,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "В">
 
 <!ENTITY trackingProtection.tooltip "Отваряне на настройките за защита от проследяване">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; изключва елементи от страницата, които е възможно да следят поведението ви онлайн.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; открива елементи, които е възможно да следят поведението ви онлайн.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; открива елементи, които е възможно да следят поведението ви онлайн. Защитата е изключена на тази страница.">
 <!ENTITY trackingProtection.notDetected5 "На страницата не са открити проследяващи елементи.">
 <!ENTITY trackingProtection.notDetectedException "На страницата не са открити проследяващи елементи. Защитата е изключена на тази страница.">
 
