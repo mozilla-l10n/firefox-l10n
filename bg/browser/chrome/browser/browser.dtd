@@ -242,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Забранили сте на страницата да ви изпраща известия.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Забранили сте на страницата достъп до хранилището за постоянни данни.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Забранили сте на страницата да отваря изскачащи прозорци.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Забранили сте автоматичното възпроизвеждане на медия на страницата.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Забранили сте достъпа до данните от canvas на тази страница.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Използването на приставката Adobe Flash е забранено за този сайт.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Забранили сте на страницата достъп до MIDI.">
@@ -987,7 +988,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Затворени всички <html:strong>раздели</html:strong> и <html:strong>прозорци</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Отворен нов празен прозорец">
 
-<!ENTITY panicButton.view.undoWarning             "Това действие е необратимо.">
+<!ENTITY panicButton.view.undoWarning             "Действието е необратимо.">
 <!ENTITY panicButton.view.forgetButton            "Забравяне!">
 
 <!ENTITY panicButton.thankyou.msg1                "Скорошната ви история е изчистена.">
