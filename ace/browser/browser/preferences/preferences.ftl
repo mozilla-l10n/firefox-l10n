@@ -249,18 +249,18 @@ play-drm-content =
     .accesskey = P
 play-drm-content-learn-more = Meurunoë lom
 update-application-title = { -brand-short-name } Apdét
-update-application-description = Peubiyeue { -brand-short-name } updét sabé keu jrôh performen, stabiliti, dan sekuriti.
-update-application-version = Versi{ $version }<a data-l10n-name="learn-more"> Ata barô</a>
+update-application-description = Peubiyeuë { -brand-short-name } Apdét peujrôh performen, seutabilitaih, ngon seukuriti.
+update-application-version = Vèrsi { $version } <a data-l10n-name="learn-more"> Peuë nyang barô</a>
 update-history =
-    .label = Kalën Riwayat Peuseubarô
-    .accesskey = K
+    .label = Peuleumah Riwayat Seubarô...
+    .accesskey = S
 update-application-allow-description = Peuidin { -brand-short-name } keu
 update-application-auto =
-    .label = Otomatis pasang peuseubarô (leubéh jrôh)
-    .accesskey = t
+    .label = Otomatis pasang seubarô (recomèndid)
+    .accesskey = O
 update-application-check-choose =
-    .label = Neu cék pue nyang barô tapih neupasang keudroe ri nyang galak
-    .accesskey = e
+    .label = Neucék untôk seubarô, tapih meubi droëneuh neupiléh untôk neupasang keudroë
+    .accesskey = N
 update-application-manual =
     .label = Bék sagai neu cék ata barô (hana jrôh)
     .accesskey = B
