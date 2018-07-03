@@ -65,7 +65,7 @@ permissions-exceptions-cookie-desc = Droëneuh jeuët neupeuteuntèë situihwèb
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = Situihwèb Jipeuidin - Pop-up
+    .title = Peuidin Situihwèb - Pop-up
     .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Droëneuh jeuët neupeuteuntèë töh situihwèb nyang jipeuidin keu peuhah tingkap pop-up. Tuléh beubeutôi alamat situihwèb nyang keuneuk neupeuidin, lheuëhnyan klik Peuidin.
 
@@ -81,19 +81,19 @@ permissions-exceptions-saved-logins-desc = Tamèng log lam situihwèb dimiyub ny
 permissions-exceptions-addons-window =
     .title = Peuidin Situihwèb - Pasang Add-on
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = Droen jeut neu pasoe web tëh nyang meupeuidin pasang add-on. Thép àlamat nyang beutoi nibak situs nyang neu keuneuk peuidin lheuh nyan klik peuidin ( Allow)
+permissions-exceptions-addons-desc = Droëneuh jeuët neupeuteuntèë toh situihwèb nyang meupeuidin keu pasang add-on. Tuléh beubeutôi alamat situih nyang neukeuneuk peuidin öh lheuëhnyan klik Peuidin (Allow).
 
 ## Exceptions - Autoplay Media
 
 permissions-exceptions-autoplay-media-window =
-    .title = Peuidin lama web - ijak keudroe (Autoplay)
+    .title = Peuidin Situihwèb - Puta Otomatis (Autoplay)
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Droen jeut neu atô laman web tëh nyang meupeuidin otomatis udép keudroe elemen media. Thép àlamat nyang beutoi nibak situs nyang neukeuneuk peudin dan lheuh nyan klik peuidin (Allow)
+permissions-exceptions-autoplay-media-desc = Droëneuh jeuët neupeuteuntèë toh situihwèb nyang meupeuidin udép otomatis keu èlèmèn mèdia. Tuléh beubeutôi alamat situih nyang neukeuneuk peuidin öh lheuëhnyan klik Peuidin (Allow).
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
-    .title = Peuatô - Lake idin notifikasi
+    .title = Peuatô - Peuidin Notifikasi
     .style = { permissions-window.style }
 permissions-site-notification-desc = Laman web dimiyub nyoe ka ilakéi kirém notifikasi keu droen. Droen jeut neuatô lakan web tëh nyang meupeuidin kirém notofikasi keudroen. Droen jeut syit neu tham soe na lakéi lôm peuidin notifikasi.
 permissions-site-notification-disable-label =
