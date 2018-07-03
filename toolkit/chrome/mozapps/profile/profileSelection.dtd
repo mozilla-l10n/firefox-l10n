@@ -20,11 +20,11 @@
 <!ENTITY            renameButton.accesskey "d">
 <!ENTITY            deleteButton.label     "Profili sil…">
 <!ENTITY            deleteButton.accesskey "s">
-<!-- manager entities -->
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; nizamlarınız, seçimləriniz və istifadəçi profilinizdəki digər elementlərlə bağlı məlumatları yadda saxlayır.">
 
-<!ENTITY            offlineState.label    "Offlin rejimə keç">
+<!ENTITY            offlineState.label    "Oflayn işlə">
 <!ENTITY            offlineState.accesskey "e">
 
 <!ENTITY            useSelected.label       "Seçilmiş hesabı başlanğıcda soruşmadan istifadə et">

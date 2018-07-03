@@ -935,14 +935,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; səyahətinizi izləyəbiləcək elementlər tapdı.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; səyahətinizi izləyəbiləcək elementlər tapdı. Bu sayt üçün qorumanı söndürmüsünüz.">
 <!ENTITY trackingProtection.notDetected5 "Bu səhifədə heç bir izlənmə elementi tapılmadı.">
+<!ENTITY trackingProtection.notDetectedException "Bu səhifədə heç bir izlənmə elementi tapılmadı. Bu sayt üçün qorunmanı söndürmüsünüz.">
 
+<!ENTITY trackingProtection.reloadRequired2 "İzlənmə Qorumasını aktivləşdirdiz. Bütün izləyiciləri əngəlləmək üçün səhifəni yeniləyin.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Bu sayt üçün söndür">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Bu sessiya üçün söndür">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Bu sayt üçün aktivləşdir">
+<!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.reload2.label "Səhifəni Yenilə">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Hamısını Göstər">
 <!ENTITY pluginNotification.showAll.accesskey "H">
