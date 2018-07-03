@@ -186,7 +186,7 @@ functionality specific to thunderbird. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY remoteXUL.title "Capaian jauh XUL">
+<!ENTITY remoteXUL.title "XUL jauh">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Sambungan internet anda tidak selamat">
