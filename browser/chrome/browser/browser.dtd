@@ -410,8 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Добавяне към допълнителното меню">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "д">
 <!ENTITY customizeMenu.moveToToolbar.label "Преместване в лента с инструменти">
@@ -423,6 +422,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Преместване в меню">
 <!ENTITY customizeMenu.moveToPanel.accesskey "м">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Преместване в допълнителното меню">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "д">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Премахване от допълнителното меню">
@@ -907,12 +909,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Защита от проследяване: изключена">
 <!ENTITY trackingProtection.off "Защита от проследяване: изключена">
 <!ENTITY trackingProtection.title "Защита от проследяване">
-<!ENTITY trackingProtection.tooltip "Отваряне на настройките за защита от проследяване">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокира части от страницата, които биха могли да проследяват вашето браузване.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Този сайт включва елементи, които биха могли да проследяват вашето браузване. Защитата от проследяване е изключена.">
 <!ENTITY trackingProtection.notDetected3 "На страницата не са открити проследяващи елементи.">
-<!ENTITY trackingProtection.detectedNotBlocked4 "На страницата са открити проследяващи елементи.">
-<!ENTITY trackingProtection.notDetected4 "На страницата не са открити проследяващи елементи.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -926,7 +925,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Включване на защита">
 <!ENTITY trackingProtection.block2.accesskey "В">
 
-<!ENTITY trackingProtection.reload.label "Презареждане на страницата">
+<!ENTITY trackingProtection.tooltip "Отваряне на настройките за защита от проследяване">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.reload2.label "Презареждане на страницата">
+<!ENTITY trackingProtection.reload2.accesskey "п">
 
 <!ENTITY pluginNotification.showAll.label "Показване на всичко">
 <!ENTITY pluginNotification.showAll.accesskey "П">
