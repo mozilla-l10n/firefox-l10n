@@ -256,26 +256,26 @@ update-history =
     .accesskey = S
 update-application-allow-description = Peuidin { -brand-short-name } keu
 update-application-auto =
-    .label = Otomatis pasang seubarô (recomèndid)
+    .label = Otomatis pasang seubarô (rekomèndid)
     .accesskey = O
 update-application-check-choose =
     .label = Neucék untôk seubarô, tapih meubi droëneuh neupiléh untôk neupasang keudroë
     .accesskey = N
 update-application-manual =
-    .label = Bèk neucèk untôk sebarô (hana recomèndid)
+    .label = Bèk neucèk untôk sebarô (hana rekomèndid)
     .accesskey = B
 update-application-use-service =
     .label = Ngui servis i liköt keu pasang ata barô
     .accesskey = N
 update-enable-search-update =
-    .label = Otomatis peuseubarô meusén seumeutët
+    .label = Otomatis peuseubarô meusén seumeutot
     .accesskey = O
 
 ## General Section - Performance
 
 performance-title = Performen
 performance-use-recommended-settings-checkbox =
-    .label = Ngui peuatô performan nyang jrôh
+    .label = Neungui peuatô kineurja nyang rekomèndid
     .accesskey = N
 performance-use-recommended-settings-desc = Peuatô nyoe meukeumat bak hadwer komputer droen ngen operating sistem ban mandum
 performance-settings-learn-more = Meurunoë lom
