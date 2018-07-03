@@ -3,19 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 languages-window =
-    .title = Bahsa
-    .style = width: 30em
+    .title = Basa
+    .style = luwah: 30em
 languages-close-key =
     .key = w
 languages-description = ôn web sigë gë jijôk meu padub bôh bahsa. Neupiléh bahsa nyang deuh bak ôn nyoe, lagé teuatô nibak preferen
 languages-customize-spoof-english =
     .label = Meulakée versi bahsa inggreh nibak laman web mangat meutamah gêt privasi
 languages-customize-moveup =
-    .label = Gèsèë u Ateuëh
-    .accesskey = A
+    .label = Peu-ék
+    .accesskey = P
 languages-customize-movedown =
-    .label = Gèsèë u Yub
-    .accesskey = Y
+    .label = Peutrôn
+    .accesskey = P
 languages-customize-remove =
     .label = Sampôh
     .accesskey = S

@@ -18,7 +18,7 @@ fonts-langgroup-armenian =
 fonts-langgroup-bengali =
     .label = Banggali
 fonts-langgroup-simpl-chinese =
-    .label = Ceuna Jiseuderhana
+    .label = Ceuna Diseuderhana
 fonts-langgroup-trad-chinese-hk =
     .label = Ceuna Tradisiyonal (Hong Kong)
 fonts-langgroup-trad-chinese =
@@ -138,7 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Viètnam
 fonts-languages-fallback-name-other =
     .label = Laén (rôh syit Western European)
-fonts-very-large-warning-title = Ukôran tulésan teuubeuët leupah raya
+fonts-very-large-warning-title = Ukôran tulésan rayeuk abéh ubeut
 fonts-very-large-warning-message = Droëneuh ka neupiléh ukôran tulésan teuubeuët, tapi ukôran nyan leupah raya (leubèh nibak 24 piksel). Nyoë jeuët jipeususah atawa pih han mungkén keu ngui miëng konfigurasi peunténg lagèë nyoë.
 fonts-very-large-warning-accept = Hana peuë, keubah neuubah lôn
 # Variables:
