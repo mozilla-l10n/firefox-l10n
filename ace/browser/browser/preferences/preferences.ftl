@@ -231,10 +231,10 @@ download-choose-folder =
            *[other] M
         }
 download-always-ask-where =
-    .label = Sabé tanyöng pat keubah beureukaih
-    .accesskey = B
+    .label = Sabé tanyöng dipat droëneuh neukeubah beureukaih
+    .accesskey = S
 applications-header = Aplikasi
-applications-description = Neupiléh kiban { -brand-short-name } i peuberéh file nyang ka neu donlod dari web atawa aplikasi nyang neu ngui wate browsing
+applications-description = Neupiléh pakiban { -brand-short-name } peubèrèh beureukaih nyang kadroëneuh donlod dari wèb atawa aplikasi nyang neungui watèë brôsing.
 applications-filter =
     .placeholder = Mita jeunèh beureukaih atawa aplikasi
 applications-type-column =
@@ -243,9 +243,9 @@ applications-type-column =
 applications-action-column =
     .label = Aksi
     .accesskey = A
-drm-content-header = Asoe DRM (Digital Right Management)
+drm-content-header = Asoë Kontèn DRM (Digital Right Management)
 play-drm-content =
-    .label = Peu udép asoe DRM-controlled
+    .label = Peumaèn kontèn nyang meukontrol-DRM
     .accesskey = P
 play-drm-content-learn-more = Meurunoë lom
 update-application-title = { -brand-short-name } Apdét
