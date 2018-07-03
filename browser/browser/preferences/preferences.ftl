@@ -17,6 +17,7 @@ pref-page =
 pane-general-title = ទូទៅ
 category-general =
     .tooltiptext = { pane-general-title }
+pane-search-title = ស្វែងរក
 category-search =
     .tooltiptext = { pane-search-title }
 pane-privacy-title = ឯកជន​ភាព & សុវត្ថិភាព
@@ -38,6 +39,7 @@ feature-enable-requires-restart = ត្រូវតែ​ចាប់ផ្ដ�
 feature-disable-requires-restart = ត្រូវតែ​ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ​ដើម្បី​បិទ​លក្ខណៈ​នេះ ។
 should-restart-title = ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ
 should-restart-ok = ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ​ឥឡូវ​នេះ
+cancel-no-restart-button = បោះបង់
 restart-later = ចាប់ផ្ដើម​ឡើងវិញ​នៅ​ពេលក្រោយ
 
 ## Extension Control Notifications
