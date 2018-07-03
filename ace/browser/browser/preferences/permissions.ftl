@@ -95,9 +95,9 @@ permissions-exceptions-autoplay-media-desc = Droëneuh jeuët neupeuteuntèë to
 permissions-site-notification-window =
     .title = Peuatô - Peuidin Notifikasi
     .style = { permissions-window.style }
-permissions-site-notification-desc = Laman web dimiyub nyoe ka ilakéi kirém notifikasi keu droen. Droen jeut neuatô lakan web tëh nyang meupeuidin kirém notofikasi keudroen. Droen jeut syit neu tham soe na lakéi lôm peuidin notifikasi.
+permissions-site-notification-desc = Situihwèb dimiyub nyoë keuneuk lakèë kirém notifikasi keudroëneuh. Droëneuh jeuët neupeuteuntèë toh situihwèb nyang neupeuidin meukirém notifikasi keudroëneuh. Droëneuh jeuët neutham nyang barô meulakèë nyan keu peuidin notifikasi.
 permissions-site-notification-disable-label =
-    .label = Tham soe nyang lakéi keulai keu peuidin notifikasi
+    .label = Tham nyang meulakèë barô untôk peuidin notifikasi
 permissions-site-notification-disable-desc = Nyoe keu peutheun laman web laen nyang hana rôh lam list diateuh nibak ilakéi idin kirem notifikasi. Tham notifikasi jeut meukureueng fitur ladôm laman web.
 
 ## Site Permissions - Location
