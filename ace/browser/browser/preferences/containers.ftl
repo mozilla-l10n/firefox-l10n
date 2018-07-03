@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new =
-    .title = Tamah kontener barô
-    .style = width: 45em
+    .title = Tamah Kontèner Barô
+    .style = luwah: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
-    .title = { $name } Peuatô kontener
-    .style = with: 45em
+    .title = { $name } Prèfèrènsi Kontèner
+    .style = luwah: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -21,12 +21,12 @@ containers-window-close =
 # Using this term and referencing it in the `.style` attribute
 # of the three messages ensures that all three labels
 # will be aligned correctly.
--containers-labels-style = min-width: 4rem
+-containers-labels-style = min-luwah: 4rem
 containers-name-label = Nan
     .accesskey = N
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = Peutamong nan kontainer
+    .placeholder = Peutamong nan kontèner
 containers-icon-label = Ikon
     .accesskey = I
     .style = { -containers-labels-style }
@@ -34,10 +34,10 @@ containers-color-label = Wareuna
     .accesskey = W
     .style = { -containers-labels-style }
 containers-button-done =
-    .label = Ka Lheuëh
+    .label = Seuleusoë
     .accesskey = K
 containers-color-blue =
-    .label = Birô
+    .label = Beulawu
 containers-color-turquoise =
     .label = Ijô Laôt
 containers-color-green =
@@ -51,9 +51,9 @@ containers-color-red =
 containers-color-pink =
     .label = Mirah Jambèë
 containers-color-purple =
-    .label = Ungu
+    .label = Gadông
 containers-icon-fingerprint =
-    .label = Cap jaroe
+    .label = Cap jaroë
 containers-icon-briefcase =
     .label = Beureukah
 # String represents a money sign but currently uses a dollar sign
