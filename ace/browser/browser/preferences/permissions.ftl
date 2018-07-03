@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 permissions-window =
-    .title = Keucuali
-    .style = with: 45em
+    .title = Keucuwali
+    .style = luwah: 45em
 permissions-close-key =
     .key = w
-permissions-address = Alamat situs wèb
+permissions-address = Alamat situihwèb
     .accesskey = l
 permissions-block =
-    .label = Theun
+    .label = Tham
     .accesskey = T
 permissions-session =
     .label = Peuidin keu sesi
@@ -19,14 +19,14 @@ permissions-allow =
     .label = Peuidin
     .accesskey = P
 permissions-site-name =
-    .label = Situs Wèb
+    .label = Situihwèb
 permissions-status =
-    .label = Statuis
+    .label = Statuih
 permissions-remove =
-    .label = Sampôh Situs Wèb
+    .label = Sampôh Situihwèb
     .accesskey = S
 permissions-remove-all =
-    .label = Sampôh Bandum Situs Wèb
+    .label = Sampôh Ban Mandum Situihwèb
     .accesskey = a
 permissions-button-cancel =
     .label = Bateuë
