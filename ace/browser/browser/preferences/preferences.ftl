@@ -83,7 +83,7 @@ extension-controlled-homepage-override = Sabôh èkstènsi, <img data-l10n-name=
 extension-controlled-new-tab-url = Sabôh èkstènsi, <img data-l10n-name="icon"/>, meujaga keudroëneuh ôn Tab Barô.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
-extension-controlled-default-search = Sabôh ekstensi, <img data-l10n-name="icon"/>, kalheuh ji set meusén seumeutët (search engine) droen nyang default
+extension-controlled-default-search = Sabôh èkstènsi, <img data-l10n-name="icon"/>, kalheuëh meuatô keuroëneuh meusén seumeutot (search engine) nyang default.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Sabôh ekstensi, <img data-l10n-name="icon"/>, peureulé Tab Kontener
