@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } अभी आपका तयशुदा
 set-as-my-default-browser =
     .label = तयशुदा बनाएँ…
     .accesskey = D
-startup-page = जब { -brand-short-name } आरंभ होता है: 
-    .accesskey = आ
-startup-user-homepage =
-    .label = आपका होम पेज दिखाएँ
-startup-blank-page =
-    .label = खाली पृष्ठ दिखाएँ
-startup-prev-session =
-    .label = पिछले समय से आपके विंडोज़ और टैब्स दिखाएँ
 startup-restore-previous-session =
     .label = पिछला सत्र पुनर्बहाल करें
     .accesskey = s
 disable-extension =
     .label = एक्सटेंशन अक्षम करें
-home-page-header = मुख पृष्ठ
 tabs-group-header = टैब
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab टैब्स के द्वारा हाल ही में उपयोग किये गये अनुक्रम में घूमता है 
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = अधिक जानें
 update-application-title = { -brand-short-name } अद्यतन
 update-application-description = सर्वोत्तम प्रदर्शन, स्थिरता और सुरक्षा के लिए { -brand-short-name } को नवीनतम रखें.
-update-application-info = संस्करण { $version } <a>क्या नया है?</a>
 update-application-version = संस्करण { $version } <a data-l10n-name="learn-more">नया क्या है</a>
 update-history =
     .label = अद्यतन इतिहास दिखाएँ…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = सामग्री प्रक्रिया सीमा
     .accesskey = l
 performance-limit-content-process-enabled-desc = एकाधिक टैब का उपयोग करते समय अतिरिक्त सामग्री प्रक्रियाओं में सुधार हो सक हैं, लेकिन इससे अधिक मेमोरी का उपयोग होगा.
-performance-limit-content-process-disabled-desc = कंटेंट प्रक्रियाओं की संख्या केवल मल्टीप्रासेस { -brand-short-name } के साथ बदली जा सकती है. <a>जाँचना सीखें कि क्या मल्टीप्रासेस सक्रिय है</a>
 performance-limit-content-process-blocked-desc = सामग्री प्रक्रियाओं की संख्या को संशोधित करना केवल multiprocess { -brand-short-name } के साथ ही संभव है. <a data-l10n-name="learn-more"> जानें कि कैसे जांच करें यदि multiprocess सक्षम है </a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = पुस्तचिह्न का उपयोग करें…
     .accesskey = B
-restore-default =
-    .label = डिफ़ॉल्ट पुनर्स्थापित करें
-    .accesskey = R
 
 ## Search Section
 
@@ -641,7 +619,7 @@ addressbar-locbar-bookmarks-option =
     .label = पुस्तचिह्न
     .accesskey = k
 addressbar-locbar-openpage-option =
-    .label = Open टैब
+    .label = टैब खोलें
     .accesskey = O
 addressbar-suggestions-settings = खोज इंजिन सुझाव के लिए प्राथमिकताएँ बदलें
 
