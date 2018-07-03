@@ -308,6 +308,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newUserContext.label             "Нов изолиран раздел">
 <!ENTITY newUserContext.accesskey         "и">
+<!ENTITY manageUserContext.label          "Управление на изолатори">
+<!ENTITY manageUserContext.accesskey      "з">
 <!ENTITY newNavigatorCmd.label        "Нов прозорец">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "п">
@@ -807,6 +809,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Не сте дали специфични права на този сайт.">
 <!ENTITY identity.permissionsReloadHint "За да бъдат приложени промените може да се наложи да презаредите страницата.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Отваряне настройките на права">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -926,13 +929,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "В">
 
 <!ENTITY trackingProtection.tooltip "Отваряне на настройките за защита от проследяване">
+<!ENTITY trackingProtection.notDetected5 "На страницата не са открити проследяващи елементи.">
+<!ENTITY trackingProtection.notDetectedException "На страницата не са открити проследяващи елементи. Защитата е изключена на тази страница.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Включихте защитата от проследяване. Презаредете страницата, за да бъдат спрени проследяващите елементи.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Изключване за страницата">
+<!ENTITY trackingProtection.unblock3.accesskey "и">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Изключване за сесията">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "и">
+<!ENTITY trackingProtection.block4.label "Включване за страницата">
+<!ENTITY trackingProtection.block4.accesskey "в">
 <!ENTITY trackingProtection.reload2.label "Презареждане на страницата">
 <!ENTITY trackingProtection.reload2.accesskey "п">
 
