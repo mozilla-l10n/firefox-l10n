@@ -60,26 +60,26 @@ permissions-exceptions-tracking-protection-desc = Droëneuh ka neupeulén Peulin
 permissions-exceptions-cookie-window =
     .title = Keucuwali - Kukis ngön Data Situih
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Droëneuh jeuët neupasoë situihwèb nyang toh sabé meupeuidin atawa hantom meupeuidin keu meungui kukis ngon data situih. Neuthép alamat nyang beutôi nibak situih nyang keumeuk atô lheuëhnyan neuklik bak Tham (block), Peuidin keu Sèsi (Allow for session) atawa Peudin.
+permissions-exceptions-cookie-desc = Droëneuh jeuët neupeuteuntèë situihwèb nyang toh sabé meupeuidin atawa hantom meupeuidin keu meungui kukis ngon data situih. Tuléh beubeutôi alamat situih nyang keuneuk atô lheuëhnyan neuklik bak Tham (Block), Peuidin keu Sési (Allow for Session) atawa Peudin.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
     .title = Situihwèb Jipeuidin - Pop-up
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = Droëneuh jeuët neupeuteuntèë töh situs wèb nyang jipeuidin keu peuhah tingkap pop-up. Tuléh beubeutôi alamat situs wèb nyang keuneuk neupeuidin, lheuëh nyan klik Peuidin.
+permissions-exceptions-popup-desc = Droëneuh jeuët neupeuteuntèë töh situihwèb nyang jipeuidin keu peuhah tingkap pop-up. Tuléh beubeutôi alamat situihwèb nyang keuneuk neupeuidin, lheuëhnyan klik Peuidin.
 
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window =
-    .title = Peungecuali - keubah tamëng log
+    .title = Keucuwali - Keubah Tamèng Log
     .style = { permissions-window.style }
-permissions-exceptions-saved-logins-desc = Tamëng log lam web dimiyub nyoe hana teukeubah
+permissions-exceptions-saved-logins-desc = Tamèng log lam situihwèb dimiyub nyoë hana teukeubah
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window =
-    .title = Peuidin web - pasang add-on
+    .title = Peuidin Situihwèb - Pasang Add-on
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Droen jeut neu pasoe web tëh nyang meupeuidin pasang add-on. Thép àlamat nyang beutoi nibak situs nyang neu keuneuk peuidin lheuh nyan klik peuidin ( Allow)
 
