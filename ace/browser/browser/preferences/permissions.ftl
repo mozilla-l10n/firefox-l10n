@@ -35,7 +35,7 @@ permissions-button-ok =
     .label = Keubah Neuubah
     .accesskey = K
 permissions-searchbox =
-    .placeholder = Mita Situs Wèb
+    .placeholder = Mita Situihwèb
 permissions-capabilities-allow =
     .label = Peuidin
 permissions-capabilities-block =
@@ -45,27 +45,27 @@ permissions-capabilities-prompt =
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = Salah meupasoe nan host (hostname)
-permissions-invalid-uri-label = Neutulông pasoe nan host (hostname) nyang beutoi
+permissions-invalid-uri-title = Salah Meupasoë Nanhost (Hostname)
+permissions-invalid-uri-label = Neutulông pasoë nanhost (hostname) nyang beutôi
 
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-tracking-protection-window =
-    .title = Keucuali - peulindông tracking
+    .title = Keucuwali - Peulindông Tracking
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Drôen ka neu peu lën peulindông tracking bak web nyôe
+permissions-exceptions-tracking-protection-desc = Droëneuh ka neupeulén Peulindông Tracking nibak situihwèb nyoë.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = Keucuali - kukis ngön data situs
+    .title = Keucuwali - Kukis ngön Data Situih
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Drôen jeut neu pasoe web tëh nyang sabé meupeuidin atawa han tôm meupeuidin keu meungui kukis ngën data situs. Neu thép àlamat nyang beutoi nibak situ nyang neu keuneuk atô lheuh nyan neu klik bak tham (block), peuidin keu sesi (Allow for session) atawa peudin ju.
+permissions-exceptions-cookie-desc = Droëneuh jeuët neupasoë situihwèb nyang toh sabé meupeuidin atawa hantom meupeuidin keu meungui kukis ngon data situih. Neuthép alamat nyang beutôi nibak situih nyang keumeuk atô lheuëhnyan neuklik bak Tham (block), Peuidin keu Sèsi (Allow for session) atawa Peudin.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = Situs Wèb nyang Jipeuidin - Pop-up
+    .title = Situihwèb Jipeuidin - Pop-up
     .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Droëneuh jeuët neupeuteuntèë töh situs wèb nyang jipeuidin keu peuhah tingkap pop-up. Tuléh beubeutôi alamat situs wèb nyang keuneuk neupeuidin, lheuëh nyan klik Peuidin.
 
