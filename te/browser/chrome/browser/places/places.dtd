@@ -73,14 +73,11 @@
 <!ENTITY cmd.reloadLivebookmark.label      "లైవ్ ఇష్టాంశమును తిరిగిలోడ్‌చేయి">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
-<!ENTITY cmd.moveBookmarks.label                  "కదుపు…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "పేరు">
 <!ENTITY col.tags.label          "టాగ్స్ ‌">
 <!ENTITY col.url.label           "స్థానము">
 <!ENTITY col.mostrecentvisit.label "ఇటీవల దర్శించిన">
-<!ENTITY col.visitcount.label    "కౌంట్ దర్శించు">
+<!ENTITY col.visitcount.label    "చూపుల సంఖ్య">
 <!ENTITY col.description.label   "వివరణ">
 <!ENTITY col.dateadded.label     "జతచేయబడింది">
 <!ENTITY col.lastmodified.label  "చివరిగా సవరించిన">
@@ -104,7 +101,7 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "ఒక అంశము యొక్క లక్షణములను చూసుటకు మరియు సరిచేయుటకు ఎంపికచేయి">
 
-<!ENTITY view.label               "వీక్షించు">
+<!ENTITY view.label               "చూడండి">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "తేదీని అనుసరించి">
 <!ENTITY byDate.accesskey         "D">
