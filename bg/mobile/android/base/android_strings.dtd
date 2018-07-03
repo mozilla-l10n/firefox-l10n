@@ -589,7 +589,7 @@
 <!ENTITY button_clear "Изчистване">
 <!ENTITY button_copy "Копиране">
 
-<!ENTITY home_top_sites_title "Популярни">
+<!ENTITY home_top_sites_title "Често посещавани">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Добавяне на сайт">
@@ -850,7 +850,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Отметнете статии в прегледа за четене, за да ги имате извън мрежа.">
 <!ENTITY helper_triple_readerview_open_button "Добавяне към отметките">
 
-<!ENTITY activity_stream_topsites "Популярни">
+<!ENTITY activity_stream_topsites "Често посещавани">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Препоръчани от &brandPocket;">
 <!ENTITY activity_stream_highlights "Акценти">
