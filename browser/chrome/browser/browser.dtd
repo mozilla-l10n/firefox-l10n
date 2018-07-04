@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "D">
 <!ENTITY  closeTab.label                     "Itxi fitxa">
 <!ENTITY  closeTab.accesskey                 "I">
-
 <!ENTITY  hiddenTabs.label                   "Ezkutatutako fitxak">
 
 <!ENTITY  listAllTabs.label      "Zerrendatu fitxa guztiak">
@@ -223,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Aldatu gunetik jakinarazpenik jaso dezakezun ala ez">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gorde datuak biltegiratze iraunkorrean">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Nabigatzailea urruneko agintepean dago">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Ireki web autentifikazioaren panela">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Kudeatu zure kamera eta/edo mikrofonoa gunearekin partekatzea">
@@ -412,8 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Gehitu gainezkatzearen menuan">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Eraman tresna-barrara">
@@ -425,6 +422,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Eraman menura">
 <!ENTITY customizeMenu.moveToPanel.accesskey "r">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Ainguratu gainezkatzearen menuan">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "A">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Desainguratu gainezkatzearen menutik">
@@ -807,6 +807,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Ez diozu gune honi baimen berezirik eman.">
 <!ENTITY identity.permissionsReloadHint "Agian orria berritu beharko duzu aldaketek eragina izan dezaten.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Ireki baimenen hobespenak">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Nabigatzailearen fitxak">
@@ -905,8 +907,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Fitxatik datorren audioa partekatu egingo da.">
 <!ENTITY getUserMedia.allWindowsShared.message "Zure pantailan ikusgai dauden leiho guztiak partekatuko dira.">
 
+<!ENTITY trackingProtection.on "Jarraipenaren babesa: piztuta">
+<!ENTITY trackingProtection.off "Jarraipenaren babesa: itzalita">
 <!ENTITY trackingProtection.title "Jarraipenaren babesa">
-<!ENTITY trackingProtection.tooltip "Ireki jarraipenaren babesaren hobespenak">
 <!ENTITY trackingProtection.detectedBlocked3 "Zure nabigazioaren jarraipena egin lezaketen orriaren zatiak blokeatzen ari da &brandShortName;.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Gune honek zure nabigazioaren jarraipena egin lezaketen zatiak ditu. Babesa desgaituta daukazu.">
 <!ENTITY trackingProtection.notDetected3 "Ez da jarraipeneko elementurik atzeman orri honetan.">
@@ -922,6 +925,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Gaitu babesa">
 <!ENTITY trackingProtection.block2.accesskey "G">
+
+<!ENTITY trackingProtection.tooltip "Ireki jarraipenaren babesaren hobespenak">
+<!ENTITY trackingProtection.detectedBlocked4 "Zure nabigazioaren jarraipena egin lezaketen orri honen zatiak blokeatzen ari da &brandShortName;.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "Zure nabigazioaren jarraipena egin lezaketen elementuak atzeman ditu &brandShortName;(e)k.">
+<!ENTITY trackingProtection.detectedException "Zure nabigazioaren jarraipena egin lezaketen zatiak atzeman ditu &brandShortName;(e)k. Babesa desgaituta daukazu orri honetarako.">
+<!ENTITY trackingProtection.notDetected5 "Ez da jarraipeneko elementurik atzeman orri honetan.">
+<!ENTITY trackingProtection.notDetectedException "Ez da jarraipeneko elementurik atzeman orri honetan. Babesa desgaituta daukazu orri honetarako.">
+
+<!ENTITY trackingProtection.reloadRequired2 "Jarraipenaren babesa gaituta daukazu. Berritu orria elementu guztiak blokeatzeko.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Desgaitu gune honetarako">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Desgaitu saio honetarako">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Gaitu gune honetarako">
+<!ENTITY trackingProtection.block4.accesskey "G">
+<!ENTITY trackingProtection.reload2.label "Berritu orria">
+<!ENTITY trackingProtection.reload2.accesskey "B">
 
 <!ENTITY pluginNotification.showAll.label "Erakutsi denak">
 <!ENTITY pluginNotification.showAll.accesskey "E">
