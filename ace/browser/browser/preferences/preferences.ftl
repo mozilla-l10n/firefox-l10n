@@ -578,6 +578,14 @@ sitedata-total-size-calculating = Bileueng data situs nngön rayëk cache
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cache, data situs ngon cookies nyang neukeubah jinoe jingui  { $value } { $unit } ruweueng keubah
 sitedata-learn-more = Meurunoë lom
+sitedata-accept-cookies-option =
+    .label = Teurimong kuki ngön data situs nibak situs wèb (geusaran)
+    .accesskey = T
+sitedata-block-cookies-option =
+    .label = Blokir cookies ngön data situs (jeuet meuakébat situs wèb meutheun)
+    .accesskey = B
+sitedata-keep-until = Keumiet 'an
+    .accesskey = K
 sitedata-accept-third-party-always-option =
     .label = Sabé
 sitedata-accept-third-party-never-option =
