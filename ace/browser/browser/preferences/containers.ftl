@@ -55,7 +55,7 @@ containers-color-purple =
 containers-icon-fingerprint =
     .label = Cap jaroë
 containers-icon-briefcase =
-    .label = Beureukah
+    .label = Tah Beureukaih
 # String represents a money sign but currently uses a dollar sign
 # so don't change to local currency. See Bug 1291672.
 containers-icon-dollar =
