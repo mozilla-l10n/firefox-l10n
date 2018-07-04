@@ -57,6 +57,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "క్యూడ్ (ఆఫ్‌లైన్)">
 <!ENTITY  moveToNewWindow.label              "కొత్త విండోకి తరలించు">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.label            "కంటెయినర్లో తెరువు">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "ట్యాబులన్నింటినీ ఇష్టాంశాలుగా చేయి…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
@@ -305,6 +306,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "కొత్త కంటైనర్ ట్యాబు">
 <!ENTITY newUserContext.accesskey         "C">
+<!ENTITY manageUserContext.label          "కంటెయినర్లను నిర్వహించండి">
 <!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "కొత్త విండో">
 <!ENTITY newNavigatorCmd.key        "N">
