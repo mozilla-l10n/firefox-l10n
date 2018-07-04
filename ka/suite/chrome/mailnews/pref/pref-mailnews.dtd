@@ -6,8 +6,8 @@
 <!ENTITY generalSettings.caption          "ძირითადი პარამეტრები">
 <!ENTITY confirmMove.label                "თანხმობის მოთხოვნა დასტის ურნაში გადატანისას">
 <!ENTITY confirmMove.accesskey            "C">
-<!ENTITY preserveThreading.label          "საქაღალდეების შენარჩუნება წერილების დახარისხებისას">
-<!ENTITY preserveThreading.accesskey      "v">
+<!ENTITY preserveThreading.label          "მიმოწერის შენარჩუნება წერილების დახარისხებისას">
+<!ENTITY preserveThreading.accesskey      "ნ">
 <!ENTITY mailBiffOnNewWindow.label        "ახალი ფოსტის შემოწმება მხოლოდ ფოსტისა და სიახლეთა ჯგუფების გახსნის შემდეგ">
 <!ENTITY mailBiffOnNewWindow.accesskey    "O">
 
