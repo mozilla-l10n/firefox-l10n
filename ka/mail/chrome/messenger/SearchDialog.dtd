@@ -19,7 +19,7 @@
 <!ENTITY results.label               "შედეგები">
 <!ENTITY moveButton.label            "ფაილი">
 <!ENTITY moveButton.accesskey        "T">
-<!ENTITY closeCmd.key                "W"> 
+<!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "გახსნა დასტაში">
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "ძიების შედეგების დასტად შენახვა">
@@ -37,7 +37,7 @@
 <!ENTITY abSearchDialogTitle.label   "დეტალური ძიება წიგნაკში">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "საქაღალდე">
+<!ENTITY threadColumn.label "მიმოწერა">
 <!ENTITY fromColumn.label "გამგზავნი">
 <!ENTITY recipientColumn.label "მიმღები">
 <!ENTITY correspondentColumn.label "მომწოდებლები">
@@ -59,7 +59,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "სვეტების შერჩევა საჩვენებლად">
-<!ENTITY threadColumn2.tooltip "წერილების მწკრივის ჩვენება">
+<!ENTITY threadColumn2.tooltip "მიმოწერის ჩვენება">
 <!ENTITY fromColumn2.tooltip "გამომგზავნის მიხედვით">
 <!ENTITY recipientColumn2.tooltip "მიმღების მიხედვით">
 <!ENTITY correspondentColumn2.tooltip "მომწოდებლის მიხედვით">
@@ -71,8 +71,8 @@
 <!ENTITY statusColumn2.tooltip "მდგომარეობის მიხედვით">
 <!ENTITY sizeColumn2.tooltip "ზომის მიხედვით">
 <!ENTITY junkStatusColumn2.tooltip "ჯართად მიჩნეულის მიხედვით">
-<!ENTITY unreadColumn2.tooltip "წასაკითხი წერილების რაოდენობა მწკრივში">
-<!ENTITY totalColumn2.tooltip "წერილების საერთო რაოდენობა მწკრივში">
+<!ENTITY unreadColumn2.tooltip "წასაკითხი წერილების რაოდენობა მიმოწერაში">
+<!ENTITY totalColumn2.tooltip "წერილების საერთო რაოდენობა მიმოწერაში">
 <!ENTITY readColumn2.tooltip "წაკითხულის მიხედვით">
 <!ENTITY receivedColumn2.tooltip "მიღების თარიღის მიხედვით">
 <!ENTITY starredColumn2.tooltip "ვარსკვლავის მიხედვით">
