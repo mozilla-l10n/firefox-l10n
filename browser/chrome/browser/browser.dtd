@@ -57,7 +57,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Mis en attente (hors connexion)">
 <!ENTITY  moveToNewWindow.label              "Déplacer vers une nouvelle fenêtre">
 <!ENTITY  moveToNewWindow.accesskey          "n">
-<!ENTITY  reopenInContainer.label            "Ouvrir à nouveau dans un onglet contextuel">
+<!ENTITY  reopenInContainer.label            "Rouvrir dans un onglet contextuel">
 <!ENTITY  reopenInContainer.accesskey        "O">
 <!ENTITY  bookmarkAllTabs.label              "Marquer tous les onglets…">
 <!ENTITY  bookmarkAllTabs.accesskey          "u">
