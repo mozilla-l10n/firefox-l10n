@@ -12,6 +12,11 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Header for the list of Service Workers displayed in the application panel for the current page.
+serviceworker-list-header = عمّال الخدمة
+# Text displayed next to the list of Service Workers to encourage users to check out
+# about:debugging to see all registered Service Workers.
+serviceworker-list-aboutdebugging = افتح <a>about:debugging</a> لتجد عمّال الخدمة من النطاقات الأخرى
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
@@ -25,3 +30,6 @@ serviceworker-empty-suggestions = إن كان ولا بد أن الصفحة ال
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = طالع الأخطاء في المِعراض. <a>افتح المِعراض</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = افحص عمّال الخدمة من النطاقات الأخرى. <a>افتح about:debugging</a>
