@@ -65,7 +65,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "A">
 <!ENTITY  closeTab.label                     "Lukk fane">
 <!ENTITY  closeTab.accesskey                 "k">
-
 <!ENTITY  hiddenTabs.label                   "Skjulte faner">
 
 <!ENTITY  listAllTabs.label      "Vis liste over alle faner">
@@ -215,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Åpne meldingspanel">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Åpne panel for stedsforespørsel">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Åpne automatisk avspilling-panelet">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Åpne meldingspanel for utvidelsesinstallasjon">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Håndter rettigheter for uttrekking av canvas-data">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Åpne meldingspanel for frakoblet data">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Velg om du kan motta varsler fra nettstedet">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lagre data i vedvarende lagring">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Nettleseren er under fjernstyring">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Åpne webautentiseringspanelet">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Behandle deling av kamera og/eller mikrofon på dette nettstedet">
@@ -243,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blokkert varsler for dette nettstedet.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blokkert vedvarende lagring for denne nettsiden.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blokkert sprettoppvinduer for dette nettstedet.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Du har blokkert automatisk avspilling av media med lyd på dette nettstedet.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Du har blokkert uttrekking av canvas-data for dette nettstedet.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Du har blokkert dette nettstedet fra å bruke Adobe Flash-programtillegget.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Du har blokkert MIDI-tilgang for dette nettstedet.">
@@ -310,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Ny innholdsfane">
 <!ENTITY newUserContext.accesskey         "i">
+<!ENTITY manageUserContext.label          "Håndter beholdere">
+<!ENTITY manageUserContext.accesskey      "o">
 <!ENTITY newNavigatorCmd.label        "Nytt vindu">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -412,8 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Legg til i overflytsmenyen">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Flytt til verktøylinje">
@@ -425,6 +426,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Flytt til meny">
 <!ENTITY customizeMenu.moveToPanel.accesskey "t">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Fest til overflytsmenyen">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "F">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Fjern fra overflytsmenyen">
@@ -807,6 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Du har ikke gitt dette nettstedet noen spesialtillatelser.">
 <!ENTITY identity.permissionsReloadHint "Du må kanskje laste siden på nytt for at endringene skal gjelde.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Nettleserfaner">
@@ -906,7 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Alle synlige vinduer på skjermen vil deles.">
 
 <!ENTITY trackingProtection.title "Sporingsbeskyttelse">
-<!ENTITY trackingProtection.tooltip "Åpne innstillinger for sporingsbeskyttelse">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkerer deler av siden som kan spore nettlesingen din.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Denne siden inneholder elementer som kan spore nettlesingen din. Du har skrudd av beskyttelse.">
 <!ENTITY trackingProtection.notDetected3 "Ingen sporingselementer oppdaget på denne siden.">
@@ -922,6 +926,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "b">
 <!ENTITY trackingProtection.block2.label "Slå på beskyttelse">
 <!ENTITY trackingProtection.block2.accesskey "å">
+
+<!ENTITY trackingProtection.tooltip "Åpne innstillinger for sporingsbeskyttelse">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 <!ENTITY pluginNotification.showAll.label "Vis alle">
 <!ENTITY pluginNotification.showAll.accesskey "V">
