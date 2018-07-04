@@ -89,8 +89,8 @@
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "უ">
 <!ENTITY selectMenu.label "შერჩევა">
 <!ENTITY selectMenu.accesskey "რ">
-<!ENTITY selectThreadCmd.label "საუბარი">
-<!ENTITY selectThreadCmd.accesskey "ბ">
+<!ENTITY selectThreadCmd.label "მიმოწერა">
+<!ENTITY selectThreadCmd.accesskey "მ">
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "მონიშნული წერილები">
 <!ENTITY selectFlaggedCmd.accesskey "მ">
@@ -129,7 +129,7 @@
 <!ENTITY messagePaneVertical.accesskey "შ">
 <!ENTITY showMessagePaneCmd.label "წერილის არე">
 <!ENTITY showMessagePaneCmd.accesskey "ა">
-<!ENTITY showThreadPaneCmd.label "საუბრის არე">
+<!ENTITY showThreadPaneCmd.label "მიმოწერის არე">
 <!ENTITY showThreadPaneCmd.accesskey "ს">
 <!ENTITY showFolderPaneCmd.label "საქაღალდის არე">
 <!ENTITY showFolderPaneCmd.accesskey "ქ">
@@ -170,31 +170,31 @@
 <!ENTITY sortAscending.accesskey "ა">
 <!ENTITY sortDescending.label "დაღმავალი">
 <!ENTITY sortDescending.accesskey "დ">
-<!ENTITY sortThreaded.label "საუბრის მიხედვით">
-<!ENTITY sortThreaded.accesskey "უ">
-<!ENTITY sortUnthreaded.label "საუბრის მიუხედავად">
-<!ENTITY sortUnthreaded.accesskey "ხ">
+<!ENTITY sortThreaded.label "მიმოწერით">
+<!ENTITY sortThreaded.accesskey "ო">
+<!ENTITY sortUnthreaded.label "მიმოწერის გარეთ">
+<!ENTITY sortUnthreaded.accesskey "გ">
 <!ENTITY groupBySort.label "დალაგებულების დაჯგუფება">
 <!ENTITY groupBySort.accesskey "ჯ">
 <!ENTITY msgsMenu.label "წერილები">
 <!ENTITY msgsMenu.accesskey "წ">
-<!ENTITY threads.label "საუბრები">
+<!ENTITY threads.label "მიმოწერები">
 <!ENTITY threads.accesskey "ბ">
 <!ENTITY allMsgsCmd.label "ყველა">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandAllThreadsCmd.label "ყველა საუბრის ჩამოშლა">
+<!ENTITY expandAllThreadsCmd.label "ყველა მიმოწერის ჩამოშლა">
 <!ENTITY expandAllThreadsCmd.accesskey "ჩ">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "ყველა საუბრის აკეცვა">
+<!ENTITY collapseAllThreadsCmd.label "ყველა მიმოწერის აკეცვა">
 <!ENTITY collapseAllThreadsCmd.accesskey "ც">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "წასაკითხი">
 <!ENTITY unreadMsgsCmd.accesskey "წ">
-<!ENTITY threadsWithUnreadCmd.label "საუბრები წასაკითხებით">
+<!ENTITY threadsWithUnreadCmd.label "მიმოწერები წასაკითხებით">
 <!ENTITY threadsWithUnreadCmd.accesskey "ს">
-<!ENTITY watchedThreadsWithUnreadCmd.label "წასაკითხი საუბრებისთვის თვალის მიდევნება">
+<!ENTITY watchedThreadsWithUnreadCmd.label "წასაკითხი მიმოწერებისთვის თვალის მიდევნება">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "ვ">
-<!ENTITY ignoredThreadsCmd.label "უგულებელყოფილი საუბრები">
+<!ENTITY ignoredThreadsCmd.label "უგულებელყოფილი მიმოწერები">
 <!ENTITY ignoredThreadsCmd.accesskey "უ">
 
 <!ENTITY headersMenu.label "თავსართები">
@@ -253,8 +253,8 @@
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextFlaggedMsgCmd.label "ალმიანი წერილი">
 <!ENTITY nextFlaggedMsgCmd.accesskey "ა">
-<!ENTITY nextUnreadThread.label "წასაკითხი საუბარი">
-<!ENTITY nextUnreadThread.accesskey "უ">
+<!ENTITY nextUnreadThread.label "წასაკითხი მიმოწერა">
+<!ENTITY nextUnreadThread.accesskey "ო">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "წინა">
 <!ENTITY prevMenu.accesskey "წ">
@@ -323,13 +323,13 @@
 <!ENTITY copyMsgToMenu.accesskey "კ">
 <!ENTITY moveCopyMsgRecentMenu.label "ბოლო">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "ბ">
-<!ENTITY killThreadMenu.label "საუბრის უგულებელყოფა">
+<!ENTITY killThreadMenu.label "მიმოწერის უგულებელყოფა">
 <!ENTITY killThreadMenu.accesskey "უ">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "საუბრის განშტოების უგულებელყოფა">
+<!ENTITY killSubthreadMenu.label "მიმოწერის განშტოების უგულებელყოფა">
 <!ENTITY killSubthreadMenu.accesskey "შ">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "საუბრისთვის თვალის მიდევნება">
+<!ENTITY watchThreadMenu.label "მიმოწერისთვის თვალის მიდევნება">
 <!ENTITY watchThreadMenu.accesskey "თ">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "განთავსების ადგილი">
