@@ -415,7 +415,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
-<!ENTITY customizeMenu.addToOverflowMenu.label "新增到套件選單">
+<!ENTITY customizeMenu.addToOverflowMenu.label "新增到收藏選單">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "移動至工具列">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
@@ -429,9 +429,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "釘選到套件選單">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "釘選到收藏選單">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "從套件選單取消釘選">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "從收藏選單取消釘選">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "自工具列移除">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
@@ -866,7 +866,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "同步">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "將您最愛的項目拖曳到工具列，或蓋過選單。">
+<!ENTITY customizeMode.menuAndToolbars.header3 "將您最愛的項目拖曳到工具列或收藏選單。">
 <!ENTITY customizeMode.restoreDefaults "回復為預設值">
 <!ENTITY customizeMode.done "完成">
 <!ENTITY customizeMode.titlebar "標題列">
