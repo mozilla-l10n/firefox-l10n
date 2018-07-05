@@ -77,9 +77,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY backCmd.accesskey "z">
 <!ENTITY forwardCmd.label "Naprej">
 <!ENTITY forwardCmd.accesskey "p">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 
 <!ENTITY copyLinkCmd.label "Kopiraj mesto povezave">
 <!ENTITY copyLinkCmd.accesskey "s">
 <!ENTITY copyEmailCmd.label "Kopiraj e-poštni naslov">
 <!ENTITY copyEmailCmd.accesskey "e">
-
