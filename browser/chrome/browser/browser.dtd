@@ -932,13 +932,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.tooltip "İzlenme Koruması tercihlerini aç">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; bu sayfanın sizi izleme ihtimali olan kısımlarını engelliyor.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; gezintinizi izleyebilecek öğeler tespit etti.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; gezintinizi izleyebilecek öğeler tespit etti. Bu sitede korumayı devre dışı bıraktınız.">
+<!ENTITY trackingProtection.notDetected5 "Bu sayfada sizi izleyen herhangi bir öğe bulunmadı.">
+<!ENTITY trackingProtection.notDetectedException "Bu sayfada sizi izleyen herhangi bir öğe bulunmadı. Bu sitede korumayı devre dışı bıraktınız.">
 
+<!ENTITY trackingProtection.reloadRequired2 "İzlenme Koruması’nı açtınız. Tüm takipçileri engellemek için bu sayfayı tazeleyin.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Bu sitede devre dışı bırak">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Bu oturumda devre dışı bırak">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "o">
+<!ENTITY trackingProtection.block4.label "Bu sitede etkinleştir">
+<!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "Sayfayı tazele">
 <!ENTITY trackingProtection.reload2.accesskey "t">
 
@@ -962,10 +973,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Unut…">
-<!ENTITY panicButton.view.5min                    "Son beş dakikayı">
-<!ENTITY panicButton.view.2hr                     "Son iki saati">
-<!ENTITY panicButton.view.day                     "Son 24 saati">
+<!ENTITY panicButton.view.mainTimeframeDesc       "Yaptıklarımı unut:">
+<!ENTITY panicButton.view.5min                    "Son 5 dakika">
+<!ENTITY panicButton.view.2hr                     "Son 2 saat">
+<!ENTITY panicButton.view.day                     "Son 24 saat">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
