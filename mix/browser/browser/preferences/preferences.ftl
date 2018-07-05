@@ -232,9 +232,11 @@ permissions-block-popups-exceptions =
 permissions-addon-exceptions =
     .label = Excepciones…
     .accesskey = e
+permissions-a11y-privacy-link = Kavi
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Kavi
 collection-browser-errors-link = Kavi
 collection-backlogged-crash-reports-link = Kavi
 
