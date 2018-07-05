@@ -637,6 +637,10 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Han tom
     .accesskey = H
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Ngui Lindông Seumeutöt lam Pumeuhah Wèb Rahsia keu blokir peulacak nyang jituri
+    .accesskey = N
 
 ## Privacy Section - Permissions
 
