@@ -641,6 +641,9 @@ tracking-mode-never =
 # This currently happens on the release and beta channel.
 tracking-pbm-label = Ngui Lindông Seumeutöt lam Pumeuhah Wèb Rahsia keu blokir peulacak nyang jituri
     .accesskey = N
+tracking-exceptions =
+    .label = Keucuwali...
+    .accesskey = K
 
 ## Privacy Section - Permissions
 
