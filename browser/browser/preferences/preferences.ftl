@@ -630,6 +630,7 @@ addressbar-suggestions-settings = Waylu cuɓe wonande cakkitte yiylorde
 ## Privacy Section - Tracking
 
 tracking-header = Huutoro Ndeenka Dewindol
+tracking-desc = Ndeenka Dewindol ina haɗa rewindotooɓe ceŋol maa ƴettude keɓe banngogol maa e nder lowe keewɗe, <a data-l10n-name="learn-more">Ɓeydu humpito baɗte Ndeenka Dewindol kam e suturo maa </a>
 tracking-mode-label = Huutoro ndeenka dewindagol ngam faddaade ñukkintooɓe anndaaɓe
 tracking-mode-always =
     .label = Sahaa kala
