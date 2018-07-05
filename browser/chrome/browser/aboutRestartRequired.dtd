@@ -4,6 +4,7 @@
 
 <!ENTITY restartRequired.title "Zahtevan je ponoven zagon">
 
+<!ENTITY restartRequired.header "Oprostite. Za nadaljevanje moramo nekaj malega postoriti.">
 <!ENTITY restartRequired.description "
 <p>Pravkar smo v ozadju namestili posodobitev. Za dokončanje namestitve kliknite Ponovno zaženi &brandShortName;.</p>
 <p>Vse vaše strani, okna in zavihke bomo obnovili, tako da boste lahko hitro nadaljevali z delom.</p>

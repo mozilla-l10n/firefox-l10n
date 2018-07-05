@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sync-disconnect-remove-sync-caption = Odstrani podatke { -sync-brand-name }a
+sync-disconnect-remove-sync-data = Zaznamki, zgodovina, gesla, itd.
 sync-disconnect-remove-other-caption = Odstrani druge zasebne podatke
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Prekinjanje ...
@@ -15,3 +16,9 @@ sync-disconnect-cancel =
 ## The 2 labels which may be shown on the single "Disconnect" button, depending
 ## on the state of the checkboxes.
 
+sync-disconnect-confirm-disconnect-delete =
+    .label = Prekini povezavo & izbriši
+    .accesskey = z
+sync-disconnect-confirm-disconnect =
+    .label = Samo prekini povezavo
+    .accesskey = p
