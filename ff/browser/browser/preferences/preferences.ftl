@@ -674,9 +674,15 @@ permissions-notification-link = Ɓeydu humpito
 permissions-notification-pause =
     .label = Dartin tintine haa { -brand-short-name } hurmitii
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = Haɗ lowe tarde mejaa baɗɗo daande ɗoon e ɗoon
+    .accesskey = B
+permissions-block-autoplay-media-exceptions =
+    .label = Paltooje...
+    .accesskey = E
 permissions-block-popups =
     .label = Falo kenorɗe cuppitte
-    .accesskey = o
+    .accesskey = B
 permissions-block-popups-exceptions =
     .label = Paltooje…
     .accesskey = P
@@ -700,6 +706,9 @@ collection-health-report =
     .label = Yamir { -brand-short-name } yo neldu keɓe karallaagal e gollondiral to Moɗilla
     .accesskey = r
 collection-health-report-link = Jokku Taro
+collection-studies =
+    .label = Yamir { -brand-short-name } aafgol kam e ɗowgol jaŋdeeji 
+collection-studies-link = Yiy jaŋdeeji { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ciimti keɓe ko daaƴaaɗi wonande kaa ngonka mahngo
