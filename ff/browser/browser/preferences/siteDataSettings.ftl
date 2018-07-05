@@ -7,9 +7,10 @@
 
 site-data-settings-window =
     .title = Yiil Kuukiije kam e Keɓe Lowre
+site-data-settings-description = Ɗee ɗoo lowe ina moofta kuukiije kam e keɓe lowre e ordinateer maa. { -brand-short-name } ina moofta keɓe lowe e ndesgu duumiingu haa nde mumtuɗaa ɗum fof, kadi  ɗum momta keɓe lowre e ndesgu ngu duumaaki so boowal ina soklaa.
 site-data-search-textbox =
     .placeholder = Yiylo lowe
-    .accesskey = D
+    .accesskey = Y
 site-data-column-host =
     .label = Lowre
 site-data-column-cookies =
