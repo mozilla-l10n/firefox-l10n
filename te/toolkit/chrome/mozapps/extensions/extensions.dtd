@@ -126,7 +126,7 @@
 <!ENTITY detail.version.label                 "వెర్షను">
 <!ENTITY detail.lastupdated.label             "చివరిగా నవీకరించింది">
 <!ENTITY detail.creator.label                 "అభివృద్దికారి">
-<!ENTITY detail.homepage.label                "హోం పేజీ">
+<!ENTITY detail.homepage.label                "ముంగిలిపేజీ">
 
 <!ENTITY detail.contributions.description     "ఈ పొడిగింతను అభివృద్దికారి దాని తదుపరి అభివృద్ది కొనసాగింపు కొరకు మీ నుండి కొద్ది మొత్తంలో సహాయంను కోరుచున్నారు.">
 
@@ -137,7 +137,7 @@
 <!ENTITY detail.updateAutomatic.tooltip       "తాజాకరణలను స్వయంచాలకంగా స్థాపించు">
 <!ENTITY detail.updateManual.label            "ఆఫ్ చేయి">
 <!ENTITY detail.updateManual.tooltip          "తాజాకరణలను స్వయంచాలకంగా స్థాపించవద్దు">
-<!ENTITY detail.home                          "హోం పేజీ">
+<!ENTITY detail.home                          "ముంగిలిపేజీ">
 <!ENTITY detail.repository                    "పొడిగింత పరిచయపత్రం">
 <!ENTITY detail.size                          "పరిమాణము">
 
@@ -159,7 +159,7 @@
 <!ENTITY progress.pause.tooltip               "నిలుపు">
 <!ENTITY progress.cancel.tooltip              "రద్దుచేయి">
 
-<!ENTITY addon.homepage                       "హోం పేజీ">
+<!ENTITY addon.homepage                       "ముంగిలిపేజీ">
 <!ENTITY addon.details.label                  "ఇంకా">
 <!ENTITY addon.details.tooltip                "ఈ పొడిగింత గురించి మరిన్ని వివరములను చూపు">
 <!ENTITY addon.unknownDate                    "తెలియని">
@@ -222,6 +222,6 @@
 <!ENTITY pluginDeprecation.learnMore "ఇంకా తెలుసుకోండి.">
 
 <!ENTITY legacyWarning.showLegacy "లెగసీ పొడగింతలను చూపించు">
-<!ENTITY legacyExtensions.title "లెగసీ పొడిగింతలు">
+<!ENTITY legacyExtensions.title "పాత పొడగింతలు">
 <!ENTITY legacyExtensions.description "ఈ పొడిగింతలు ప్రస్తుత &brandShortName; ప్రమాణాలను చేరుకోవు కాబట్టి అవి క్రియారహితం చేయబడ్డాయి.">
 <!ENTITY legacyExtensions.learnMore "పొడిగింతల మార్పుల గురించి తెలుసుకోండి">
