@@ -562,8 +562,12 @@
 
 <!ENTITY spellAddDictionaries.label "Dodaj słowniki…">
 <!ENTITY spellAddDictionaries.accesskey "o">
+
 <!ENTITY editBookmark.done.label                     "Gotowe">
+<!ENTITY editBookmark.showForNewBookmarks.label "Wyświetlanie tego okna podczas dodawania">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey "W">
 <!ENTITY editBookmark.removeBookmark.accessKey       "U">
+
 <!ENTITY identity.securityView.label "Bezpieczeństwo">
 <!ENTITY identity.connectionSecure "Zabezpieczone połączenie">
 <!ENTITY identity.connectionNotSecure "Połączenie nie jest bezpieczne">
