@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ireki mezuen panela">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ireki helbide-eskaeren panela">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Ireki erreprodukzio automatikoaren panela">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ireki gehigarrien instalazio-mezuen panela">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Kudeatu canvas-etik erauzteko baimenak">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ireki lineaz kanpoko biltegiratzearen mezuen panela">
@@ -241,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Jakinarazpenak blokeatuta dauzkazu webgune honetarako.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Datuen biltegiratze iraunkorra blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Popup leihoak blokeatuta dauzkazu webgune honetarako.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Soinudun multimedia automatikoki erreproduzitzea blokeatuta daukazu gune honetarako.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Canvas-eko datuen erauzketa blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Adobe Flash plugina erabiltzea blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.midiBlocked.tooltip              "MIDI sarbidea blokeatuta daukazu webgune honetarako.">
@@ -308,6 +310,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Edukiontzi-fitxa berria">
 <!ENTITY newUserContext.accesskey         "E">
+<!ENTITY manageUserContext.label          "Kudeatu edukiontziak">
+<!ENTITY manageUserContext.accesskey      "o">
 <!ENTITY newNavigatorCmd.label        "Leiho berria">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "L">
