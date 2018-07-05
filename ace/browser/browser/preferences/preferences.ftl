@@ -98,7 +98,7 @@ extension-controlled-proxy-config = Sabôh èkstènsi, <img data-l10n-name="icon
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = Keu peu udép ekstensi neu peuhah add-on <img data-l10n-name="addons-icon"/>  i dalam menu <img data-l10n-name="menu-icon"/>
+extension-controlled-enable = Untôk peu-udép èktènsi, neucok  <img data-l10n-name="addons-icon"/> Add-on bak <img data-l10n-name="menu-icon"/> menu.
 
 ## Preferences UI Search Results
 
@@ -117,7 +117,7 @@ startup-header = Peuphôn
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
-    .label = Peu-idin { -brand-short-name } ngön Firefox teuhah beusigö
+    .label = Peu-idin { -brand-short-name } teuhah Firefox deungon watèë nyang meusigo
 use-firefox-sync = Tip: Nyoe meungui profil keudroe droe. Neungui { -sync-brand-short-name }  keu share data lam kawan nyan
 get-started-not-logged-in = Tamöng u { -sync-brand-short-name }...
 get-started-configured = Peuhah piléhan { -sync-brand-short-name }
@@ -576,7 +576,7 @@ sitedata-total-size-calculating = Bileueng data situs nngön rayëk cache
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Cache, data situs ngon cookies nyang neukeubah jinoe jingui  { $value } { $unit } ruweueng keubah
+sitedata-total-size = Cache, data situs ngon cookies nyang neukeubah jinoe jingui  { $value } { $unit } ruweueng keubah disk
 sitedata-learn-more = Meurunoë lom
 sitedata-accept-cookies-option =
     .label = Teurimong kuki ngön data situs nibak situs wèb (geusaran)
@@ -586,8 +586,16 @@ sitedata-block-cookies-option =
     .accesskey = B
 sitedata-keep-until = Keumiet 'an
     .accesskey = K
+sitedata-keep-until-expire =
+    .label = Kabeh masa nyan
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } ka jitôp
+sitedata-accept-third-party-desc = Teurimöng third-party cookies dan data situs
+    .accesskey = T
 sitedata-accept-third-party-always-option =
-    .label = Sabé
+    .label = Sabé sabé
+sitedata-accept-third-party-visited-option =
+    .label = Nibak soe keumunjông
 sitedata-accept-third-party-never-option =
     .label = H`an Tom
 sitedata-clear =
@@ -596,18 +604,36 @@ sitedata-clear =
 sitedata-settings =
     .label = Uroh Data...
     .accesskey = U
+sitedata-cookies-exceptions =
+    .label = Keucuali
+    .accesskey = e
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Kutak Alamat
+addressbar-suggest = 'Oh watèe ngui kutak alamat, bri saran
+addressbar-locbar-history-option =
+    .label = Riwayat peuhah wèb
+    .accesskey = R
+addressbar-locbar-bookmarks-option =
+    .label = Tanda buku
+    .accesskey = T
 addressbar-locbar-openpage-option =
     .label = Peuhah tab
     .accesskey = P
+addressbar-suggestions-settings = Gantoe geunalak keu saran meusén mita
 
 ## Privacy Section - Tracking
 
+tracking-header = Lindông Seumeutöt
+tracking-desc = Lind6ong Seumeutöt jitheun seumeutöt online nyang jipeusaho data pumeuhah wèb droeneuh lam macam-macam situs wèb. <a data-l10n-name="learn-more">Neumeurunoe lom bhaih Lindông Seumeutöt ngön privasi Droeneuh</a>
+tracking-mode-label = Ngui Lindông Seumeutöt keu blokir peulacak nyang geutupeue
 tracking-mode-always =
     .label = Sabé
     .accesskey = S
+tracking-mode-private =
+    .label = Bak tingkap pribadi mantöng
+    .accesskey = B
 tracking-mode-never =
     .label = Han tom
     .accesskey = H

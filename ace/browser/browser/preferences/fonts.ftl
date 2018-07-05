@@ -139,8 +139,8 @@ fonts-languages-fallback-name-vietnamese =
 fonts-languages-fallback-name-other =
     .label = Laén (rôh syit Western European)
 fonts-very-large-warning-title = Ukôran tulésan rayeuk abéh ubeut
-fonts-very-large-warning-message = Droëneuh ka neupiléh ukôran tulésan teuubeuët, tapi ukôran nyan leupah raya (leubèh nibak 24 piksel). Nyoë jeuët jipeususah atawa pih han mungkén keu ngui miëng konfigurasi peunténg lagèë nyoë.
-fonts-very-large-warning-accept = Hana peuë, keubah neuubah lôn
+fonts-very-large-warning-message = Droëneuh ka neupiléh nyang paléng rayeuk keu ukôran haraih paléng ubeut (leubèh nibak 24 piksel). Nyoë teurasa puëh atawa han mungkén untôk tangui keupadup-padup ôn-miëng konfigurasi peunténg lagèë nyoë.
+fonts-very-large-warning-accept = Teutap peutheun nyang lôn ubah
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
