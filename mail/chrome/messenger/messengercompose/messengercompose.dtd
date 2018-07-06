@@ -98,7 +98,7 @@
      hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
      toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
      for the bucket view state machinery to work. -->
-<!ENTITY toggleAttachmentPaneCmd.key "п">
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Избиране на всичко">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "И">
