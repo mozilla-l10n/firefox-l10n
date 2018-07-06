@@ -78,21 +78,21 @@
 <!ENTITY pasteCmd.accesskey "ს">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY editRewrapCmd.accesskey "ფ">
 <!ENTITY deleteCmd.label "წაშლა">
-<!ENTITY deleteCmd.accesskey "d">
+<!ENTITY deleteCmd.accesskey "წ">
 <!ENTITY editRewrapCmd.label "გადაფორმატება">
-<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.key "გ">
 <!ENTITY renameAttachmentCmd.label "დანართის გადარქმევა…">
-<!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY renameAttachmentCmd.accesskey "ქ">
 <!ENTITY reorderAttachmentsCmd.label "დანართების გადალაგება…">
-<!ENTITY reorderAttachmentsCmd.accesskey "დ">
+<!ENTITY reorderAttachmentsCmd.accesskey "ლ">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "დანართის არე">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
-<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
+<!ENTITY toggleAttachmentPaneCmd.accesskey "დ">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
      With OS-specific access modifier, this defines the shortcut key for showing/
      hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
@@ -101,15 +101,15 @@
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "სრული მონიშვნა">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.accesskey "შ">
 <!ENTITY findBarCmd.label "პოვნა…">
 <!ENTITY findBarCmd.accesskey "ო">
-<!ENTITY findBarCmd.key "F">
+<!ENTITY findBarCmd.key "პ">
 <!ENTITY findReplaceCmd.label "პოვნა და ჩანაცვლება…">
 <!ENTITY findReplaceCmd.accesskey "ც">
 <!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "კვლავძიება">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "კ">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "წინას პოვნა">
