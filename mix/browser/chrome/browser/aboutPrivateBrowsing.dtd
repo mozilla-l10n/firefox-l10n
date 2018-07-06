@@ -8,6 +8,7 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " meu:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "snuù">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "marcadores">
 <!ENTITY aboutPrivateBrowsing.note.before                "Nduku seé ">
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Nduku seé">
