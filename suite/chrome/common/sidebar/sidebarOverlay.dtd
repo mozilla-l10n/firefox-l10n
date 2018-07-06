@@ -20,7 +20,7 @@
 <!ENTITY sidebar.loading.stop.accesskey "S">
 
 <!ENTITY sidebar.no-panels.state     "სტენდი ამჟამად ცარიელია.">
-<!ENTITY sidebar.no-panels.add       'დაფების დამატება შეგიძლიათ ღილაკზე "დაფები" დაწკაპვით.'>
+<!ENTITY sidebar.no-panels.add       'დაფების დამატება შეგიძლიათ „დაფების“ ღილაკზე დაწკაპებით.'>
 <!ENTITY sidebar.no-panels.hide      'თუ სტენდის სრულად დამალვა გსურთ, დაწკაპეთ "ჩვენება" მთავარ მენიუში და შეარჩიეთ "სტენდი" ქვემენიუდან "ჩვენება/დამალვა".'>
 <!ENTITY sidebar.sbDirectory.label   "სტენდის დასტა…">
 

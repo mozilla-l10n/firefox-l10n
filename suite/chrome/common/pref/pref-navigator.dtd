@@ -31,7 +31,7 @@
 <!ENTITY restoreDeferred.label          "დაფების აღდგენა მხოლოდ მოთხოვნისას">
 <!ENTITY restoreDeferred.accesskey      "O">
 
-<!ENTITY homePageIntro.label            "ტავფურცლის ღილაკზე დაჭერა ამ გვერდზე ან გვერდთა ჯგუფზე გადაგიყვანთ:">
+<!ENTITY homePageIntro.label            "თავფურცლის ღილაკზე დაჭერა ამ გვერდზე ან გვერდთა ჯგუფზე გადაგიყვანთ:">
 <!ENTITY useCurrent.label               "გამოიყენე მიმდინარე გვერდი">
 <!ENTITY useCurrent.accesskey           "U">
 <!ENTITY useCurrentGroup.label          "გამოიყენე მიმდინარე ჯგუფი">
