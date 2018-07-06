@@ -5,7 +5,7 @@
 do-not-track-description = Neukirém keu situs web saboh tanda "Bèk Seutöt". Neubri tanda nyang droëneuh hana meuheut keu jiseutot.
 do-not-track-learn-more = Meurunoë lom
 do-not-track-option-default =
-    .label = Watèe ngui Peulindông Seutöt mantöng
+    .label = 'Oh watèe ngui Peulindông Seutöt mantöng
 do-not-track-option-always =
     .label = Sabé
 pref-page =
