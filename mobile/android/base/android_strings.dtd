@@ -472,7 +472,7 @@
 <!ENTITY print "Skriv ut">
 <!ENTITY view_page_source "Vis kjeldekode">
 <!ENTITY find_in_page "Søk på sida">
-<!ENTITY desktop_mode "Hent sida som desktop">
+<!ENTITY desktop_mode "Vis skrivebordsversjon">
 <!ENTITY page "Side">
 <!ENTITY tools "Verktøy">
 <!ENTITY new_tab "Ny fane">
