@@ -946,7 +946,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Slå av for denne økta">
+<!ENTITY trackingProtection.unblockPrivate3.label "Slå av i denne økta">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "ø">
 <!ENTITY trackingProtection.block4.label "Slå på, på denne sida">
 <!ENTITY trackingProtection.block4.accesskey "S">
