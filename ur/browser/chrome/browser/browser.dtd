@@ -35,6 +35,7 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "دیگر ٹیب بند کر دیں">
 <!ENTITY  closeOtherTabs.accesskey           "د">
 
+<!ENTITY  closeSelectedTabs.accesskey        "S">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -54,6 +55,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceFeedback.label         "بھیجا گیا!">
 <!ENTITY  moveToNewWindow.label              "نئے دریچے میں بڑھائیں">
 <!ENTITY  moveToNewWindow.accesskey          "د">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "تمام ٹیب بک مارک کریں…">
 <!ENTITY  bookmarkAllTabs.accesskey          "ٹ">
 <!ENTITY  undoCloseTab.label                 "ٹیب بند کو کالعدم کریں">
@@ -294,6 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "م">
 <!ENTITY newUserContext.label             "نیا حامل ٹیب">
 <!ENTITY newUserContext.accesskey         "ٹ">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "نیا دریچہ">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ن">
@@ -420,6 +423,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "مزید اشیا ڈالیں…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "ڈ">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "توسیع بندرست کریں">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -781,6 +787,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "مزید معلومات">
 
+<!ENTITY identity.clearSiteData "کوکیاں اور سائٹ کے کواِئف… صاف کریں">
 
 <!ENTITY identity.permissions "اجازتیں">
 <!ENTITY identity.permissionsEmpty "آپ نے اس سائٹ کو کوئی خاص اجازتیں نہیں دیں ہے۔">
@@ -903,9 +910,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "اس سائٹ کے لیئے اہل بنائیں">
+<!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.reload2.label "صفحہ پھر لوڈ کریں">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "تمام دکھائیں">
 <!ENTITY pluginNotification.showAll.accesskey "ت">
@@ -987,6 +1000,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "توسیعات نا اہل بنائیں">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "صفحہ اعمال">
 <!ENTITY pageAction.addToUrlbar.label "ایڈریس بار میں شامل کرے">
