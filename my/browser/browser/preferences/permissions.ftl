@@ -57,6 +57,9 @@ permissions-exceptions-tracking-protection-desc = သင်သည် ဒီဆ�
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = ခြွင်းချက်များ - ကွတ်ကီးများနှင့် ဆိုက်အချက်အလက်
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
@@ -79,26 +82,40 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = သင်သည်မည်သည့်၀တ်ဆိုက်အားအတ်အွန်များသွင်းခွင့်ပေးမည်ကို ခန့်ခွဲနိုင်သည်။သင်ခွင့်ပြုလိုသော၀တ်ဆိုက်အားတိကျစွာရိုက်ကာ ခွင့်ပြုမည်ကိုနှိပ်ပါ။
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = ခွင့်ပြုထားသော ဝဘ်ဆိုက်များ - အလိုအလျောက်ဖွင့်
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
     .title = အပြင်အဆင်များ - အသိပေးချက်များဆိုင်ရာ ခွင့်ပြုချက်များ
     .style = { permissions-window.style }
+permissions-site-notification-disable-label =
+    .label = အသိပေးချက်များပြရန် တောင်းဆိုမှုအသစ်များကို တားဆီးပါ
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
     .title = အပြင်အဆင်များ - တည်နေရာဆိုင်ရာ ခွင့်ပြုချက်များ
     .style = { permissions-window.style }
+permissions-site-location-disable-label =
+    .label = တည်နေရာကို အသုံးပြုရန် တောင်းဆိုမှုအသစ်များကို တားဆီးပါ
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = အပြင်အဆင်များ - ကင်မရာဆိုင်ရာ ခွင့်ပြုချက်များ
     .style = { permissions-window.style }
+permissions-site-camera-disable-label =
+    .label = ကင်မရာအသုံးပြုရန် တောင်းဆိုမှုအသစ်များကို တားဆီးပါ
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = အပြင်အဆင်များ - မိုက်ကရိုဖုန်းဆိုင်ရာ ခွင့်ပြုချက်များ
     .style = { permissions-window.style }
+permissions-site-microphone-disable-label =
+    .label = မိုက္ကရိုဖုန်းအသုံးပြုရန် တောင်းဆိုမှုအသစ်များကို တားဆီးပါ

@@ -109,6 +109,7 @@ search-results-empty-message =
         [windows] ဝမ်းနည်းပါတယ်။ အပြင်အဆင်များထဲတွင် “<span data-l10n-name="query"></span>” အတွက် ရလဒ်များ မရှိပါ။
        *[other] ဝမ်းနည်းပါတယ်။ နှစ်သက်ရာအပြင်အဆင်များထဲတွင် “<span data-l10n-name="query"></span>” အတွက် ရလဒ်များ မရှိပါ။
     }
+search-results-help-link = အကူအညီ လိုပါသလား။ <a data-l10n-name="url">{ -brand-short-name } အထောက်အပံ့</a> တွင် ကြည့်ရှုပါ
 
 ## General Section
 
@@ -128,6 +129,9 @@ is-not-default = { -brand-short-name } သည် ပုံသေဘရောက�
 set-as-my-default-browser =
     .label = စံသတ်မှတ်...
     .accesskey = D
+startup-restore-previous-session =
+    .label = ယခင်အသုံးပြုခဲ့သည်များကို ပြန်ဖွင့်ပါ
+    .accesskey = s
 disable-extension =
     .label = တိုးချဲ့မှု အားပိတ်ထားပါ
 tabs-group-header = တပ်ဗ်များ
@@ -237,6 +241,7 @@ play-drm-content =
 play-drm-content-learn-more = ပိုမိုလေ့လာရန်
 update-application-title = { -brand-short-name } မွမ်းမံမှုများ
 update-application-description = အကောင်းဆုံးစွမ်းရည်၊ တည်ငြိမ်မှုနှင့် လုံခြုံရေး ရရှိစေရန် { -brand-short-name } ကို နောက်ဆုံးပေါ် ဖြစ်စေပါ။
+update-application-version = ဗားရှင်း { $version } <a data-l10n-name="learn-more">ဘာအသစ်တွေပါသလဲ</a>
 update-history =
     .label = မြှင့်တင်မှုမှတ်တမ်းကို ပြပါ…
     .accesskey = p
@@ -537,6 +542,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = ကြည့်ရှုမှတ်တမ်းနှင့် ဆွဲချချက်မှတ်တမ်းကို မှတ်ထားပါ
     .accesskey = b
+history-remember-browser-option =
+    .label = ကြည့်ရှုနှင့် ဆွဲယူမှုမှတ်တမ်းကို မှတ်ထားပါ
+    .accesskey = b
 history-remember-search-option =
     .label = ရှာဖွေမှတ်တမ်းနှင့် ဖောင်ဖြည့်မှတ်တမ်းကို မှတ်ထားပါ
     .accesskey = f
@@ -553,7 +561,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = ကွတ်ကီးနှင့် ဆိုက်အချက်အလက်များ
+sitedata-total-size-calculating = ဆိုက်အချက်အလက်နှင့် ယာယီအချက်အလက် cache သုံးစွဲမှုပမာဏကို တွက်ချက်နေသည်...
 sitedata-learn-more = ပိုမိုလေ့လာရန်
+sitedata-accept-cookies-option =
+    .label = ကွတ်ကီးများနှင့် ဝဘ်ဆိုက်များ၏ ဆိုက်အချက်အလက်ကို သိမ်းရန် လက်ခံပါ (အကြံပြုထားသည်)
+    .accesskey = A
 sitedata-block-cookies-option =
     .label = ကွတ်ကီးနှင့်ဆိုက်ဒေတာများကိုတားဆီးမည် (ဝဘ်ဆိုက်များ ကောင်းစွာ ဆောင်ရွက်နိုင်မည်မဟုတ်)
     .accesskey = B
@@ -643,6 +655,9 @@ permissions-notification-link = ပိုမိုလေ့လာရန်
 permissions-notification-pause =
     .label = အသိပေးချက်ကို { -brand-short-name } ပြန်လည်စတင်မှု မတိုင်ခင်ထိ ရပ်တန့်ထားပါ
     .accesskey = n
+permissions-block-autoplay-media-exceptions =
+    .label = ခြွင်းချက်များ
+    .accesskey = E
 permissions-block-popups =
     .label = ပေါ့အပ်ဝင်းဒိုးများကို မဖွင့်ပါနှင့်
     .accesskey = B
