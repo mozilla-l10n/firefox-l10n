@@ -610,7 +610,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Address Bar
 
-addressbar-header = Kutak Alamat
+addressbar-header = Bar Alamat
 addressbar-suggest = 'Oh watèe ngui kutak alamat, bri saran
 addressbar-locbar-history-option =
     .label = Riwayat peuhah wèb
