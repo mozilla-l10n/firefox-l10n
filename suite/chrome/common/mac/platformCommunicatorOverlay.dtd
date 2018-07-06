@@ -13,14 +13,14 @@
 <!ENTITY preferencesCmd.key             ",">
 <!ENTITY preferencesCmd.modifiers       "accel">
 <!ENTITY servicesMenu.label             "მომსახურება">
-<!ENTITY hideThisAppCmd.label           "დამალვა - &brandShortName;">
+<!ENTITY hideThisAppCmd.label           "დამალვა – &brandShortName;">
 <!ENTITY hideThisAppCmd.key             "H">
 <!ENTITY hideThisAppCmd.modifiers       "accel">
 <!ENTITY hideOtherAppsCmd.label         "სხვების დამალვა">
 <!ENTITY hideOtherAppsCmd.key           "H">
 <!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
 <!ENTITY showAllAppsCmd.label           "ყველას ჩვენება">
-<!ENTITY quitApplicationCmd.label       "დასრულება - &brandShortName;"> 
+<!ENTITY quitApplicationCmd.label       "&brandShortName;-დან გამოსვლა"> 
 <!ENTITY quitApplicationCmd.key         "Q">
 <!ENTITY quitApplicationCmd.modifiers   "accel">
 <!-- End of Application menu -->
