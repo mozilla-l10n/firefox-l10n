@@ -778,6 +778,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY editBookmark.showForNewBookmarks.label       "保存时显示编辑器">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
