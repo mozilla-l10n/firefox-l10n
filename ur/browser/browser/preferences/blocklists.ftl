@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me اساسی حفاظت (تجویز کردہ)۔
 blocklist-item-moz-std-desc = سراغ راہ کو اجازت دیں تاکہ ویب سائٹ صحیع طرح سے فعل کریں۔
 blocklist-item-moz-full-name = Disconnect.me سخت حفاظت۔
+blocklist-item-moz-full-desc = سراغ راہ کو بلاک کرنے سے چند  ویب سائٹ صحیع طرح سے فعل نہیں کریں گی۔

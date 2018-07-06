@@ -73,6 +73,7 @@ restart-later = بعد میں دوباره شروع کریں
 ## Preferences UI Search Results
 
 search-results-header = تلاش کے نتائج
+search-results-help-link = مدد کی ضرورت ہے؟ <a data-l10n-name="url">{ -brand-short-name } معاونت</a>
 
 ## General Section
 
@@ -302,6 +303,7 @@ search-keyword-warning-bookmark = آپ نے ایسا کلیدی لفظ منتخ�
 
 ## Containers Section
 
+containers-back-link = «  واہس جائیں
 containers-header = حامل ٹیبز
 containers-add-button =
     .label = نئے حامل کا اضافہ کریں
@@ -411,6 +413,7 @@ history-remember-option-never =
     .label = کبھی سابقات نہ یاد رکھے
 history-remember-option-custom =
     .label = سابقات کے لیے مخصوص ترتیب استعمال کریں
+history-remember-description = { -brand-short-name } آپکی برائوزنگ ڈائونلوڈ اور تلاش سابقات یاد رکھے گا۔
 history-dontremember-description = { -brand-short-name } نجی براؤزنگ کی سیٹگنگیں استعمال کرے گا، اور آپ کے براوز کرتے وقت کوئی سابقات نہیں یاد رکھے گا۔
 history-private-browsing-permanent =
     .label = ہمیشہ نجی براوزنگ موڈ استعمال کریں
@@ -446,6 +449,9 @@ sitedata-accept-third-party-never-option =
 sitedata-clear =
     .label = کوائف… خالی کریں
     .accesskey = l
+sitedata-settings =
+    .label = کوائف… بندرست کریں
+    .accesskey = م
 sitedata-cookies-exceptions =
     .label = استثنیات…
     .accesskey = ا
