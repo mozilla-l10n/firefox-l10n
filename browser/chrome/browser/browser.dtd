@@ -220,6 +220,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip       "Åbn panelet for beskeder">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip   "Åbn panelet for positions-forespørgsler">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip      "Åbn panelet for automatisk afspilning">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip        "Åbn panelet for beskeder om installering af tilføjelser">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip        "Håndter tilladelser for canvas-ekstraktion">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip     "Åbn panelet for beskeder om app-offline-lager">
@@ -251,6 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blokeret vedvarende lager for dette websted.">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blokeret pop op-vinduer for dette websted.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Du har blokeret automatisk afspilning af media-filer med lyd for dette websted.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Du har blokeret kanvas-ekstraktion for dette websted.">
 
@@ -320,6 +322,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Nyt kontekst-faneblad">
 <!ENTITY newUserContext.accesskey         "k">
+<!ENTITY manageUserContext.label          "Håndter kontekster">
+<!ENTITY manageUserContext.accesskey      "o">
 <!ENTITY newNavigatorCmd.label        "Nyt vindue">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "v">
@@ -838,6 +842,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Du har ikke tildelt dette websted nogen særlige tilladelser.">
 <!ENTITY identity.permissionsReloadHint "Du skal muligvis genindlæse siden, før at ændringerne slår igennem.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Åbn indstillinger for tilladelser">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Faneblade">
@@ -941,8 +947,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Lyd fra fanebladet vil blive delt.">
 <!ENTITY getUserMedia.allWindowsShared.message "Alle synlige vinduer på din skærm vil blive delt.">
 
+<!ENTITY trackingProtection.on "Beskyttelse mod sporing: TIL">
+<!ENTITY trackingProtection.off "Beskyttelse mod sporing: FRA">
 <!ENTITY trackingProtection.title "Beskyttelse mod sporing">
 <!ENTITY trackingProtection.tooltip "Åbn indstillinger for beskyttelse mod sporing">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokerer de dele af siden, der kan spore dig på nettet.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; har fundet elementer, der kan spore dig.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; har fundet elementer, der kan spore dig. Du har deaktiveret beskyttelse for dette websted.">
+<!ENTITY trackingProtection.notDetected5 "Ingen sporings-elementer fundet på denne side.">
+<!ENTITY trackingProtection.notDetectedException "Ingen sporings-elementer fundet på denne side. Du har deaktiveret beskyttelse for dette websted.">
+
+<!ENTITY trackingProtection.reloadRequired2 "Du har aktiveret beskyttelse mod sporing. Genindlæs siden for at blokerede sporings-elementer.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Deaktiver for dette websted">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Deaktiver for denne session">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Aktivér for dette websted">
+<!ENTITY trackingProtection.block4.accesskey "A">
+<!ENTITY trackingProtection.reload2.label "Genindlæs siden">
+<!ENTITY trackingProtection.reload2.accesskey "G">
+
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokerer de dele af siden, der kan spore dig på nettet.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Dette websted indeholder elementer, der kan spore dig på nettet. Du har slået beskyttelse fra.">
 <!ENTITY trackingProtection.notDetected3 "Ingen sporings-elementer fundet på denne side">
