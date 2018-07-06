@@ -472,7 +472,7 @@
 <!ENTITY print "Imprimir">
 <!ENTITY view_page_source "Ver código fonte da página">
 <!ENTITY find_in_page "Localizar na página">
-<!ENTITY desktop_mode "Pedir site de computador">
+<!ENTITY desktop_mode "Solicitar site de computador">
 <!ENTITY page "Página">
 <!ENTITY tools "Ferramentas">
 <!ENTITY new_tab "Novo separador">
