@@ -38,6 +38,17 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Tutup Tab Yang Dipilih">
 <!ENTITY  closeSelectedTabs.accesskey        "D">
 
+<!ENTITY  pinSelectedTabs.label              "Pin Tab">
+<!-- Pin Tab and Pin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  pinSelectedTabs.accesskey          "P">
+<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Reload Tab and Reload Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadSelectedTabs.label           "Muat semula Tab Dipilih">
+<!ENTITY  reloadSelectedTabs.accesskey       "M">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -763,6 +774,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Siap">
 <!ENTITY editBookmark.removeBookmark.accessKey       "B">
+
+<!ENTITY editBookmark.showForNewBookmarks.label       "Papar editor apabila menyimpan">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "P">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
