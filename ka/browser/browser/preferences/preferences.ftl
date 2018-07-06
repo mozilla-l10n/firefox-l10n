@@ -419,7 +419,7 @@ containers-remove-button =
 
 sync-signedout-caption = წაიყოლეთ თქვენი მონაცემები თან
 sync-signedout-description = დაასინქრონეთ თქვენი სანიშნები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.
-sync-signedout-account-title = { -fxaccount-brand-name } - დაკავშირება
+sync-signedout-account-title = { -fxaccount-brand-name } – დაკავშირება
 sync-signedout-account-create = არ გაქვთ ანგარიში? შექმენით
     .accesskey = ქ
 sync-signedout-account-signin =

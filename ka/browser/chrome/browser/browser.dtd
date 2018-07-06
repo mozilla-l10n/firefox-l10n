@@ -148,9 +148,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "R">
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; - შესვლა">
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; – შესვლა">
 <!ENTITY fxaSignedIn.tooltip "სინქრონიზაციის პარამეტრების გახსნა">
-<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; - ხელახლა დაკავშირება">
+<!ENTITY fxaSignInError.label "&syncBrand.shortName.label; – ხელახლა დაკავშირება">
 <!ENTITY fxaUnverified.label "თქვენი ანგარიშის დადასტურება">
 
 
@@ -874,11 +874,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "სინქრონიზაცია">
 
-<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; - შესვლა…">
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; – შესვლა…">
 <!ENTITY syncSignIn.accesskey         "შ">
 <!ENTITY syncSyncNowItem.label        "დასინქრონება ახლავე">
 <!ENTITY syncSyncNowItem.accesskey    "ს">
-<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; - ხელახლა დაკავშირება…">
+<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; – ხელახლა დაკავშირება…">
 <!ENTITY syncReAuthItem.accesskey     "ხ">
 <!ENTITY syncToolbarButton.label      "სინქრონიზაცია">
 

@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 translation-window =
-    .title = თარგმნა - გამონაკლისები
+    .title = თარგმნა – გამონაკლისები
     .style = width: 36em
 translation-close-key =
     .key = w
