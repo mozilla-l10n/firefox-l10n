@@ -644,9 +644,14 @@ tracking-pbm-label = Ngui Lindông Seumeutöt lam Pumeuhah Wèb Rahsia keu bloki
 tracking-exceptions =
     .label = Keucuwali...
     .accesskey = K
+tracking-change-block-list =
+    .label = Gantoe Seunarai Tham
+    .accesskey = G
 
 ## Privacy Section - Permissions
 
+permissions-header = Laké Idin
+permissions-location = Neuduek
 permissions-location-settings =
     .label = Peuatoe...
     .accesskey = t
