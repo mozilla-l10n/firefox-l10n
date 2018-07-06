@@ -23,7 +23,7 @@
 <!ENTITY printSetupCmd.accesskey "U">
 
 <!-- Edit Menu -->
-<!ENTITY findOnCmd.label "Finn på denne sida…">
+<!ENTITY findOnCmd.label "Søk på denne sida…">
 
 <!-- View Menu -->
 <!ENTITY toolbarsCmd.label "Vis/Gøym">
