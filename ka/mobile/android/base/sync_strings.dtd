@@ -8,7 +8,7 @@
 <!ENTITY syncBrand.shortName.label "სინქრონიზაცია">
 
 <!-- Main titles. -->
-<!ENTITY sync.title.connect.label 'დაკავშირება - &syncBrand.shortName.label;'>
+<!ENTITY sync.title.connect.label 'დაკავშირება – &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'თქვენი ახალი მოწყობილობის გასააქტივებლად, მოწყობილობაზე შეარჩიეთ «&syncBrand.shortName.label;-ის გამართვა».'>
