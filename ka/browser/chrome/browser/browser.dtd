@@ -778,6 +778,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey       "ს">
 
 <!ENTITY editBookmark.showForNewBookmarks.label       "ჩასწორების შესაძლებლობა შენახვისას">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "ჩ">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
