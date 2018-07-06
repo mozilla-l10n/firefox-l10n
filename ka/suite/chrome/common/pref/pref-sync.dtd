@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "გამართვა - &syncBrand.fullName.label;">
+<!ENTITY setupButton.label          "გამართეთ &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; თქვენი ისტორიის, სანიშნების, პაროლების და გახსნილი დაფების ყველა მოწყობილობიდან წვდომის საშუალებას გაძლევთ.">
 
