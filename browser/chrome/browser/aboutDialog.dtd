@@ -33,7 +33,7 @@
 <!ENTITY community.start2           "&brandShortName;-ის შემქმნელია ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          " — ">
+<!ENTITY community.middle2          " – ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "საერთაშორისო ერთობა">
 <!ENTITY community.end3             ", რომელიც მუშაობს იმისთვის, რომ ინტერნეტი დარჩეს გახსნილი, საჯარო და საყოველთაოდ ხელმისაწვდომი.">
