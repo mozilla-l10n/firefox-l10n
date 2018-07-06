@@ -26,7 +26,7 @@ was trying to connect. -->
 Strict Transport Security (HSTS) შეერთებას, რომ &brandShortName; მხოლოდ დაცულად
 დაუკავშირდეს. ამის გამო, შეუძლებელია მოცემული სერტიფიკატისთვის გამონაკლისის 
 დაშვება.">
-<!ENTITY certerror.getMeOutOfHere.label "რაღაც არ მომწონს - დამაბრუნეთ თავფურცელზე">
+<!ENTITY certerror.getMeOutOfHere.label "რაღაც არ მომწონს – დამაბრუნეთ თავფურცელზე">
 
 <!ENTITY certerror.expert.heading "მე ვაცნობიერებ რისკებს">
 <!ENTITY certerror.expert.content "თუ იცით რა ხდება, შეგიძლიათ მიმართოთ
