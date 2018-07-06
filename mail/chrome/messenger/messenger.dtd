@@ -370,8 +370,8 @@
 <!ENTITY editAsNewMsgCmd.label "ჩასწორება ახალი შეტყობინების სახით">
 <!ENTITY editAsNewMsgCmd.accesskey "ჩ">
 <!ENTITY editAsNewMsgCmd.key "e">
-<!ENTITY editDraftMsgCmd.label "შეტყობინების ესკიზის ჩასწორება">
-<!ENTITY editDraftMsgCmd.accesskey "კ">
+<!ENTITY editDraftMsgCmd.label "შეტყობინების წინასწარი ვერსიის ჩასწორება">
+<!ENTITY editDraftMsgCmd.accesskey "ვ">
 <!ENTITY editTemplateMsgCmd.label "ნიმუშის ჩასწორება">
 <!ENTITY editTemplateMsgCmd.accesskey "ნ">
 <!ENTITY newMsgFromTemplateCmd.label "ახალი შეტყობინება ნიმუშიდან">
@@ -765,7 +765,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "ც">
 <!ENTITY contextEditMsgAsNew.label "ჩასწორება ახალი შეტყობინების სახით">
 <!ENTITY contextEditMsgAsNew.accesskey "ჩ">
-<!ENTITY contextEditDraftMsg.label "შეტყობინების ესკიზის ჩასწორება">
+<!ENTITY contextEditDraftMsg.label "შეტყობინების წინასწარი ვერსიის ჩასწორება">
 <!ENTITY contextEditTemplate.label "ნიმუშის ჩასწორება">
 <!ENTITY contextEditTemplate.accesskey "ნ">
 <!ENTITY contextArchive.label "არქივი">

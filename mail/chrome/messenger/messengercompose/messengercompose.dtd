@@ -7,75 +7,75 @@
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "ფაილი">
-<!ENTITY fileMenu.accesskey "f">
+<!ENTITY fileMenu.accesskey "ფ">
 <!ENTITY newMenu.label "ახალი">
-<!ENTITY newMenu.accesskey "N">
+<!ENTITY newMenu.accesskey "ა">
 <!ENTITY newMessage.label "წერილი">
-<!ENTITY newMessage.key "M">
+<!ENTITY newMessage.key "წ">
 <!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessage.accesskey "M">
+<!ENTITY newMessage.accesskey "წ">
 <!ENTITY newContact.label "წიგნაკის კონტაქტი…">
 <!ENTITY newContact.accesskey "კ">
 <!ENTITY attachMenu.label "მიმაგრება">
-<!ENTITY attachMenu.accesskey "t">
+<!ENTITY attachMenu.accesskey "მ">
 <!ENTITY attachFileCmd.label "ფაილ(ებ)ი…">
-<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.accesskey "ფ">
 <!ENTITY attachFileCmd.key "A">
-<!ENTITY attachCloudCmd.label "ფაილის ბმა">
-<!ENTITY attachCloudCmd.accesskey "i">
-<!ENTITY attachPageCmd.label "ვებ გვერდი…">
-<!ENTITY attachPageCmd.accesskey "W">
+<!ENTITY attachCloudCmd.label "ფაილის ბმული">
+<!ENTITY attachCloudCmd.accesskey "ბ">
+<!ENTITY attachPageCmd.label "ვებგვერდი…">
+<!ENTITY attachPageCmd.accesskey "ვ">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "სავიზიტო ბარათი (vCard)">
-<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY attachVCardCmd.accesskey "ზ">
 <!ENTITY remindLater.label "მოგვიანებით შეხსენება">
 <!ENTITY remindLater.accesskey "გ">
 <!ENTITY closeCmd.label "დახურვა">
 <!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "c">
-<!ENTITY saveCmd.label "ჩაწერა">
+<!ENTITY closeCmd.accesskey "დ">
+<!ENTITY saveCmd.label "შენახვა">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveCmd.accesskey "s">
+<!ENTITY saveCmd.accesskey "შ">
 <!ENTITY saveAsCmd.label "ჩაწერა როგორც">
-<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsCmd.accesskey "რ">
 <!ENTITY saveAsFileCmd.label "ფაილი…">
-<!ENTITY saveAsFileCmd.accesskey "F">
-<!ENTITY saveAsDraftCmd.label "ესკიზი">
-<!ENTITY saveAsDraftCmd.accesskey "D">
-<!ENTITY saveAsTemplateCmd.label "შაბლონი">
-<!ENTITY saveAsTemplateCmd.accesskey "T">
+<!ENTITY saveAsFileCmd.accesskey "ფ">
+<!ENTITY saveAsDraftCmd.label "წინასწარი">
+<!ENTITY saveAsDraftCmd.accesskey "წ">
+<!ENTITY saveAsTemplateCmd.label "ნიმუში">
+<!ENTITY saveAsTemplateCmd.accesskey "ნ">
 <!ENTITY sendNowCmd.label "გაგზავნა ახლავე">
 <!ENTITY sendCmd.keycode "VK_RETURN">
-<!ENTITY sendNowCmd.accesskey "d">
+<!ENTITY sendNowCmd.accesskey "ზ">
 <!ENTITY sendLaterCmd.label "გაგზავნა მოგვიანებით">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
-<!ENTITY sendLaterCmd.accesskey "L">
+<!ENTITY sendLaterCmd.accesskey "მ">
 <!ENTITY printSetupCmd.label "გვერდის პარამეტრები…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.accesskey "პ">
 <!ENTITY printPreviewCmd.label "შეთვალიერება ამობეჭდვამდე">
-<!ENTITY printPreviewCmd.accesskey "ვ">
+<!ENTITY printPreviewCmd.accesskey "შ">
 <!ENTITY printCmd.label "ბეჭდვა…">
 <!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "ბ">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "რედაქტირება">
-<!ENTITY editMenu.accesskey "e">
+<!ENTITY editMenu.label "ჩასწორება">
+<!ENTITY editMenu.accesskey "ჩ">
 <!ENTITY undoCmd.label "დაბრუნება">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "u">
+<!ENTITY undoCmd.accesskey "დ">
 <!ENTITY redoCmd.label "გამეორება">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
+<!ENTITY redoCmd.accesskey "გ">
 <!ENTITY cutCmd.label "ამოჭრა">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
+<!ENTITY cutCmd.accesskey "ჭ">
 <!ENTITY copyCmd.label "კოპირება">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "c">
+<!ENTITY copyCmd.accesskey "კ">
 <!ENTITY pasteCmd.label "ჩასმა">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteCmd.accesskey "ს">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
