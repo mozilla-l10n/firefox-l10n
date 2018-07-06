@@ -54,7 +54,7 @@
 <!ENTITY searchButton.label           "ძიება">
 <!ENTITY searchButton.tooltip         "მიუთითეთ სიტყვა მარცხენა ველში და დაწკაპეთ &quot;ძიება&quot;">
 <!ENTITY goButton.label               "გადასვლა">
-<!ENTITY goButton.tooltip             "მიუთითეთ სიტყვა მარცხენა ველში და დაწკაპეთ &quot;გადასვლა&quot;-ს">
+<!ENTITY goButton.tooltip             "მიუთითეთ სიტყვა მარცხენა ველში და დაწკაპეთ „გადასვლას“">
 <!ENTITY printButton.label            "ბეჭდვა">
 <!ENTITY printButton.tooltip          "გვერდის ბეჭდვა">
 
