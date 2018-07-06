@@ -21,6 +21,10 @@
 <!ENTITY closeOtherTabs.accesskey            "i" >
 <!ENTITY closeSelectedTabs.label "Zamknij zaznaczone karty">
 <!ENTITY closeSelectedTabs.accesskey "Z">
+<!ENTITY pinSelectedTabs.label "Przypnij karty">
+<!ENTITY pinSelectedTabs.accesskey "k">
+<!ENTITY unpinSelectedTabs.label "Odepnij karty">
+<!ENTITY unpinSelectedTabs.accesskey "k">
 <!ENTITY pinTab.label "Przypnij kartę">
 <!ENTITY pinTab.accesskey "n">
 <!ENTITY unpinTab.label "Odepnij kartę">
