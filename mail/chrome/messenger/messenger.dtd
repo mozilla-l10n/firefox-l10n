@@ -465,13 +465,13 @@
 <!ENTITY addressBookCmd.label "Adressebok">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Utvidingar">
+<!ENTITY addons.label "Tillegg">
 <!ENTITY addons.accesskey "U">
-<!ENTITY addonPrefs.label "Innstillingar for utviding">
+<!ENTITY addonPrefs.label "Innstillingar for tillegg">
 <!ENTITY addonPrefs.accesskey "o">
-<!ENTITY addonPrefsUnix.label "Innstillingar for utviding">
+<!ENTITY addonPrefsUnix.label "Innstillingar for tillegg">
 <!ENTITY addonPrefsUnix.accesskey "o">
-<!ENTITY addonNoPrefs.label "Fann ingen innstillingar for utvidinga.">
+<!ENTITY addonNoPrefs.label "Fann ingen innstillingar for tillegget.">
 <!ENTITY activitymanager.label "Aktivitetar">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Nettpratstatus">
@@ -515,7 +515,7 @@
 <!ENTITY devToolboxCmd.label "Verktøykasse for utviklarar">
 <!ENTITY devToolboxCmd.accesskey "V">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY debugAddonsCmd.label "Feilsøk utvidingar">
+<!ENTITY debugAddonsCmd.label "Feilsøk tillegg">
 <!ENTITY debugAddonsCmd.accesskey "F">
 <!ENTITY tabsDebugCmd.label "Feilsøking for innhaldsramme">
 <!ENTITY tabsDebugCmd.accesskey "F">

@@ -6,6 +6,7 @@
 <!ENTITY rights.title            "Om rettane dine">
 <!ENTITY rights.intro-header     "Om rettane dine">
 <!ENTITY rights.intro "&brandFullName; er programvare basert på fri og open kjeldekode, som er bygd av eit fellesskap av tusenvis rundt om i heile verda. Det er nokre ting du bør vita:">
+
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -14,7 +15,6 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-
 <!ENTITY rights.intro-point1a "&brandShortName; er gjort tilgjengeleg for deg under vilkåra i ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Dette tyder at du kan bruka, kopiera og distribuera &brandShortName; til andre. Du kan òg endra kjeldekoden til &brandShortName; som du vil, for å passa til dine behov. Mozilla Public License gjev deg òg rett til å distribuera endra versjonar.">
@@ -22,45 +22,45 @@
 <!ENTITY rights.intro-point2a "Mozilla gjev deg ikkje rett til å bruke Mozilla- eller Thunderbird-varemerka eller logoar. Meir informasjon om varemerke kan du finna ">
 <!ENTITY rights.intro-point2b "her">
 <!ENTITY rights.intro-point2c ".">
-<!-- point 3 text for official branded builds -->
 
+<!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Personvernfråsegn for &vendorShortName; sine produkt kan du finna ">
 <!ENTITY rights.intro-point3b "her">
 <!ENTITY rights.intro-point3c ".">
+
 <!-- point 3 text for unbranded builds -->
-
 <!ENTITY rights.intro-point3-unbranded "Informasjon om personvernerklæring for dette produktet bør vera oppført her.">
-<!-- point 4 text for official branded builds -->
 
-<!ENTITY rights.intro-point4a "&brandShortName; gjev deg òg valfrie nettside-informasjonstenester, som mellom anna SafeBrowsing-tenesta; vi kan likevel ikkje garantera at dei er 100&#037; feilfrie. Meir informasjon, også om korleis tenestene kan slåast av, kan du finna i ">
+<!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "&brandShortName; gjev deg òg valfrie tenester, slik som oppdateringstenesta for tillegg; vi kan likevel ikkje garantera at dei er 100&#037; feilfrie. Meir informasjon, også om korleis tenestene kan slåast av, kan du finna i ">
 <!ENTITY rights.intro-point4b "tenestevilkåra">
 <!ENTITY rights.intro-point4c ".">
-<!-- point 4 text for unbranded builds -->
 
+<!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Dersom dette produktet omfattar informasjonstenester, så bør tenestevilkår for tenestene lenkast opp til ">
 <!ENTITY rights.intro-point4b-unbranded "Informasjonstenester">
 <!ENTITY rights.intro-point4c-unbranded "-seksjonen.">
 
 <!ENTITY rights.webservices-header "&brandFullName; informasjonstenester">
+
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-
-<!ENTITY rights.webservices-a "&brandFullName; brukar informasjonstenester («Tenester»), som mellom anna SafeBrowsing-tenesta, som er tilgjengeleg for deg i den binære versjonen av &brandShortName; som skildra nedanfor. Dersom du ikkje ønskjer å bruka Tenestene, eller om vilkåra nedanfor ikkje er akseptable, kan du slå av SafeBrowsing-tenesta frå program-innstillingane, ved å velja">
+<!ENTITY rights.webservices-a "&brandFullName; brukar informasjonstenester («Tenester»), slik som oppdateringstenesta for tillegg, som er tilgjengeleg for deg i den binære versjonen av &brandShortName; som skildra nedanfor. Dersom du ikkje ønskjer å bruka Tenestene, eller om vilkåra nedanfor ikkje er akseptable, kan du slå av SafeBrowsing-tenesta frå program-innstillingane, ved å velja">
 <!ENTITY rights.webservices-b "Avansert">
 <!ENTITY rights.webservices-c "-seksjonen, og deretter ">
 <!ENTITY rights.webservices-d "Oppdatering">
 <!ENTITY rights.webservices-e "-fana og så fjerna avkryssinga frå innstillingane i «Automatisk sjå etter oppdateringar for».">
+
 <!-- intro paragraph for unbranded builds -->
-
 <!ENTITY rights.webservices-unbranded "Ei oversikt over informasjonstenestene som dette produktet inneheld, samt informasjon om korleis du kan slå dei av, bør inkluderast her.">
+
 <!-- point 1 text for unbranded builds -->
-
 <!ENTITY rights.webservices-term1-unbranded "Andre tenestevilkår for dette produktet bør førast opp her.">
-<!-- points 1-7 text for branded builds -->
 
+<!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; kan avslutta eller endra tenesta etter eige val.">
 <!ENTITY rights.webservices-term2 "Du er velkomen til å bruka desse Tenestene med versjonen av &brandShortName; som følger med, og du har alle rettar for å gjera det. &vendorShortName; og dess lisensgjevarar reserverer alle andre rettar til Tenestene. Desse vilkåra er ikkje meint for å avgrensa rettane som er gjevne under open kjeldekode-lisensane som er knytt til &brandShortName;, og den tilhøyrande kjeldekodeutgåva av &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Tenestene er tilbydde &quot;som-dei-er.&quot; &vendorShortName;, bidragsytarane, lisensgjevarane og distributørane gjev ingen garantiar, verken eksplisitt eller implisitt, inkludert utan avgrensingar, garantiar for at Tenestene skal passa til dine føremål. Du har den fulle og heile risikoen for å velja Tenestene for å oppnå dine føremål, samt for kvaliteten og ytinga til Tenstene. Nokre jurisdiksjonar tillèt ikkje at implisitte garantiar vert ekskluderte, så dettee dementiet gjeld kanskje ikkje deg.">
