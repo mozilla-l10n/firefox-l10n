@@ -696,6 +696,14 @@ permissions-notification-settings =
     .label = Indstillinger…
     .accesskey = I
 permissions-notification-link = Læs mere
+
+permissions-block-autoplay-media =
+    .label = Lad ikke websteder afspille media-filer med lyd automatisk
+    .accesskey = l
+
+permissions-block-autoplay-media-exceptions =
+    .label = Undtagelser…
+    .accesskey = U
 permissions-notification-pause =
     .label = Sæt beskeder på pause, indtil { -brand-short-name } starter igen
     .accesskey = b
