@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Digeriñ penel ar c'hemennadennoù">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Digeriñ penel ar goulenn lec'hiadur">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Digeriñ panell an emlenn">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Digeriñ panell al lenn emgefreek">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Digeriñ penel kemennadenn staliadur an askouezh">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Merañ aotreoù eztennañ ar steuñv">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Digeriñ penel kemennadenn ar c'hadaviñ ezlinenn">
@@ -242,7 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Stanket ho peus ar rebuzadurioù evit al lec'hienn-mañ.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Stanket ho peus ar c'hadaviñ diastal evit al lec'hienn-mañ.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Stanket hoc'h eus an diflugelloù evit al lec'hienn-mañ.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Stanket ho peus an emlenn media gant ar son evit al lec'hienn-mañ.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Stanket ho peus al lenn emgefreek media gant ar son evit al lec'hienn-mañ.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Stanket ho peus eztennadur ar roadennoù ar steuenn.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Difennet ho peus al lec'hienn-mañ da arverañ an enlugellad Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Stanket ho peus an haeziñ MIDI evit al lec'hienn-mañ.">
@@ -311,7 +311,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.label             "Ivinell endalc'her nevez">
 <!ENTITY newUserContext.accesskey         "e">
 <!ENTITY manageUserContext.label          "Merañ an endalc'herioù">
-<!ENTITY manageUserContext.accesskey      "O">
+<!ENTITY manageUserContext.accesskey      "e">
 <!ENTITY newNavigatorCmd.label        "Prenestr nevez">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -811,7 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "N'ho peus roet aotre arbennik ebet d'al lec'hienn-mañ.">
 <!ENTITY identity.permissionsReloadHint "Ret eo deoc'h adkargañ ar bajenn evit arloañ ar c'hemmoù.">
 
-<!ENTITY identity.permissionsPreferences.tooltip "Digeriñ aotreoù gwellvezioù">
+<!ENTITY identity.permissionsPreferences.tooltip "Digeriñ gwellvezioù an aotreoù">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -911,8 +911,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Rannet e vo aodio an ivinell.">
 <!ENTITY getUserMedia.allWindowsShared.message "Rannet e vo an holl brenestroù gwelus war ho skramm.">
 
-<!ENTITY trackingProtection.on "Gwarez heuliañ: ON">
-<!ENTITY trackingProtection.off "Gwarez heuliañ: OFF">
+<!ENTITY trackingProtection.on "Gwarez heuliañ: YA">
+<!ENTITY trackingProtection.off "Gwarez heuliañ: KET">
 <!ENTITY trackingProtection.title "Gwarez heuliañ">
 <!ENTITY trackingProtection.detectedBlocked3 "Stanket eo lodennoù eus ar bajenn a c'hellfe heuliañ ac'hanoc'h gant &brandShortName;.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Endalc'het eo elfennoù a c'hell heuliañ ho merdeiñ el lec'hienn. Diweredekaet ho peus ar gwarez.">
@@ -933,25 +933,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.tooltip "Digeriñ gwellvezioù ar gwarez heuliañ">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; a stank lodennoù ar bajenn-mañ a c'hall heuliañ ho merdeiñ.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; en deus dinoet elfennoù a c'hall heuliañ ho merdeiñ.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; en deus dinoet elfennoù a c'hall heuliañ ho merdeiñ. Lazhet ho peus ar gwarezioù evit al lec'hienn-mañ.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; en deus dinoet elfennoù a c'hall heuliañ ho merdeiñ. Diweredekaet ho peus ar gwarezioù evit al lec'hienn-mañ.">
 <!ENTITY trackingProtection.notDetected5 "N'eus bet dinoet elfenn heuliañ ebet er bajenn.">
-<!ENTITY trackingProtection.notDetectedException "N'eus bet dinoet elfenn heuliañ ebet er bajenn. Lazhet ho peus ar gwarezioù war al lec'hienn-mañ.">
+<!ENTITY trackingProtection.notDetectedException "N'eus bet dinoet elfenn heuliañ ebet er bajenn. Diweredekaet ho peus ar gwarezioù war al lec'hienn-mañ.">
 
-<!ENTITY trackingProtection.reloadRequired2 "Enaouet ho peus Gwarez Enep-Heuliañ. Freskait ar bajenn-mañ evit stankañ an holl heulierioù.">
+<!ENTITY trackingProtection.reloadRequired2 "Gweredekaet ho peus ar gwarez enep-heuliañ. Adkargit ar bajenn-mañ evit stankañ an holl heulierioù.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Lazhañ evit al lec'hienn-mañ">
+<!ENTITY trackingProtection.unblock3.label "Diweredekaat evit al lec'hienn-mañ">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Lazhañ evit an eztez-mañ">
+<!ENTITY trackingProtection.unblockPrivate3.label "Diweredekaat evit an eztez-mañ">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "Enaouiñ evit al lec'hienn-mañ">
-<!ENTITY trackingProtection.block4.accesskey "E">
-<!ENTITY trackingProtection.reload2.label "Freskaat ar bajenn">
-<!ENTITY trackingProtection.reload2.accesskey "R">
+<!ENTITY trackingProtection.block4.label "Gweredekaat evit al lec'hienn-mañ">
+<!ENTITY trackingProtection.block4.accesskey "G">
+<!ENTITY trackingProtection.reload2.label "Adkargañ ar bajenn">
+<!ENTITY trackingProtection.reload2.accesskey "A">
 
 <!ENTITY pluginNotification.showAll.label "Diskouez pep tra">
 <!ENTITY pluginNotification.showAll.accesskey "s">
