@@ -22,7 +22,7 @@
 <!ENTITY            deleteButton.accesskey "д">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; захоўвае звесткі пра вашы налады, перавагі і іншыя адзінкі ў вашым профілі карыстальніка.">
+<!ENTITY            pmDescription.label    "&brandShortName; захоўвае звесткі пра вашы налады, перавагі і іншыя рэчы ў вашым профілі карыстальніка.">
 
 <!ENTITY            offlineState.label    "Працаваць па-за сеткай">
 <!ENTITY            offlineState.accesskey "п">
