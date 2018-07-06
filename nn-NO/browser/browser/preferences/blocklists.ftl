@@ -25,6 +25,6 @@ blocklist-button-ok =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me enkelt vern (Tilrådd).
-blocklist-item-moz-std-desc = Tillèt noko sporing slik at nettstadar fungerer rett.
+blocklist-item-moz-std-desc = Tillèt nokre sporfølgjarar slik at nettsider fungerer rett.
 blocklist-item-moz-full-name = Disconnect.me strengt vern.
 blocklist-item-moz-full-desc = Blokkerer kjende sporfølgjarar. Nokre nettsider vil kanskje ikkje fungere skikkeleg.
