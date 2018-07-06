@@ -368,6 +368,10 @@ sync-engine-logins =
     .label = لاگانز
     .tooltiptext = صارف کا نام اور پاسورڈ حو آپ نے نحفوظ کیئے
     .accesskey = ل
+sync-engine-addons =
+    .label = اظافہ-جات
+    .tooltiptext = توسیعات اور خیالہ برائے Firefox  ڈیسک ٹاپ
+    .accesskey = A
 sync-engine-prefs =
     .label =
         { PLATFORM() ->

@@ -42,3 +42,4 @@ site-data-removing-window =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = ہٹائیں
+site-data-removing-header = کوکیاں اور سائٹ کوائف ہٹا رہے ہیں
