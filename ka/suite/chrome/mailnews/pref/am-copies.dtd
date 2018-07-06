@@ -31,7 +31,7 @@
 <!ENTITY keepArchives.accesskey "K">
 <!ENTITY archiveHierarchyButton.label "არქივის პარამეტრები…">
 <!ENTITY archiveHierarchyButton.accesskey "A">
-<!ENTITY archivesFolderOn.label "დასტაში «არქივი»:">
+<!ENTITY archivesFolderOn.label "საქაღალდეში „არქივი“:">
 <!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "სხვა:">
 <!ENTITY archiveInOtherFolder.accesskey "h">
@@ -44,7 +44,7 @@
 <!ENTITY draftInOtherFolder.accesskey "ხ">
 <!ENTITY keepTemplates.label "წერილთა თარგების შენახვა:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "დასტაში «თარგები»:">
+<!ENTITY templatesFolderOn.label "საქაღალდეში „ნიმუშები“:">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "სხვა:">
 <!ENTITY templateInOtherFolder.accesskey "e">

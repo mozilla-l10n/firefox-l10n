@@ -63,9 +63,9 @@
 <!ENTITY addDevice.title.label              "მოწყობილობის დამატება">
 <!ENTITY addDevice.showMeHow.label          "მაჩვენე როგორ.">
 <!ENTITY addDevice.dontHaveDevice.label     "არ მაქვს თან რაიმე მოწყობილობა">
-<!ENTITY addDevice.setup.description.label  "გასააქტივებლად გადადით სხვა მოწყობილობაზე და &syncBrand.shortName.label; პარამეტრებში მიუთითეთ «მოწყობილობის დაწყვილება».">
+<!ENTITY addDevice.setup.description.label  "ასამოქმედებლად, გადადით სხვა მოწყობილობაზე და &syncBrand.shortName.label; პარამეტრებში მიუთითეთ „მოწყობილობის დაწყვილება“.">
 <!ENTITY addDevice.setup.enterCode.label    "შემდეგ მიუთოთეთ ეს კოდი:">
-<!ENTITY addDevice.dialog.description.label "თქვენი ახალი მოწყობილობის გასააქტივებლად გადადით სხვა მოწყობილობაზე და &syncBrand.shortName.label; პარამეტრებში მიუთითეთ «დაკავშირება».">
+<!ENTITY addDevice.dialog.description.label "თქვენი ახალი მოწყობილობის ასამოქმედებლად გადადით სხვა მოწყობილობაზე და &syncBrand.shortName.label; პარამეტრებში მიუთითეთ „დაკავშირება“">
 <!ENTITY addDevice.dialog.enterCode.label   "შეიტანეთ მოწყობილობის მოწოდებული კოდი:">
 <!ENTITY addDevice.dialog.tryAgain.label    "გთხოვთ სცადოთ ხელახლა.">
 <!ENTITY addDevice.dialog.successful.label  "მოწყობილობა დაემატა. პირველად სინქრონიზაციას რამდენიმე წუთი დასჭირდება და ფონურ რეჟიმში დასრულდება.">
@@ -74,7 +74,7 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "რეგისტრაცია">
-<!ENTITY existingRecoveryKey.description "თქვენი აღდგენის კოდის მიღება შეგიძლიათ თუ &syncBrand.shortName.label; პარამეტრებიდან თქვენს სხვა მოწყობილობებზე  «ანაგრიშის მართვიდან» გახსნით «ჩემი აღდგენის კოდს».">
+<!ENTITY existingRecoveryKey.description "თქვენი აღდგენის კოდის მიღება შეგიძლიათ თუ &syncBrand.shortName.label; პარამეტრებიდან თქვენს სხვა მოწყობილობებზე  „ანაგრიშის მართვიდან“ გახსნით „ჩემი აღდგენის კოდს“.">
 <!ENTITY verifying.label              "შემოწმება…">
 <!ENTITY resetPassword.label          "პაროლის აღდგენა">
 <!ENTITY resetSyncKey.label           "დამეკარგა სხვა მოწყობილობები.">
