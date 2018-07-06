@@ -7,18 +7,18 @@
 <!ENTITY other.languages "Vi viser berre tilbydarane som tilbyr adresser i ditt område. Trykk her for å visa alle tilbydarane.">
 <!ENTITY error.line1 "Vi klarte ikkje å finna føreslåtte e-postadresser.">
 <!ENTITY error.line2 "Du kan søkja etter kallenamn eller andre nykelord for å finna fleire adresser">
+
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
-
 <!ENTITY error.suggest.before "Du kan óg prøva eitt av dei   ">
 <!ENTITY error.suggest.middle "gratis e-postalternativa">
 <!ENTITY error.suggest.after ".">
+
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
-
 <!ENTITY success.title.before "Hei">
 <!ENTITY success.title.after ", følgjande e-postadresser er tilgjengelege for deg:">
 <!ENTITY success.tip "(Du kan óg prøva å søka etter kallenamn eller andre søkjeord for å finna fleire e-postadresser)">
@@ -31,8 +31,8 @@
 <!ENTITY successful.successMessage "Du har no sett opp kontoen.">
 <!ENTITY successful.write "Skriv ein e-post">
 <!ENTITY successful.write.desc "Informer vener og familie om den nye adressa di.<br/> Det var difor du fekk den nye kontoen, eller?">
-<!ENTITY successful.customize "Tilpass &brandShortName; med nokre kule utvidingar">
-<!ENTITY successful.customize.desc "Det finst tusenvis av utvidingar som lèt deg tilpasse &brandShortName; til dine behov.">
+<!ENTITY successful.customize "Tilpass &brandShortName; med nokre kule tillegg">
+<!ENTITY successful.customize.desc "Det finst tusenvis av tillegg som lèt deg tilpasse &brandShortName; til dine behov.">
 <!ENTITY successful.attach "Legg ved ein personleg signatur i e-posten">
 <!ENTITY successful.attach.desc "Du kan automatisk leggja ved eit sitat eller informasjon om deg sjølv på slutten av kvar melding du sender.">
 <!ENTITY successful.close "Lat att dete vindauget.">
