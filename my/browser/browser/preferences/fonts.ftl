@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = ယခုအတွက် ဖောင့်
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = အာရဗီအက္ခရာ
 fonts-langgroup-armenian =
@@ -79,6 +81,12 @@ fonts-default-sans-serif =
     .label = အစွန်းမဲ့ စာလုံး
 fonts-proportional-size = အရွယ်အစား
     .accesskey = z
+fonts-serif = အစွန်းပါ
+    .accesskey = S
+fonts-sans-serif = အစွန်းမဲ့
+    .accesskey = n
+fonts-monospace = အနံတူဖောင့်
+    .accesskey = M
 fonts-monospace-size = အရွယ်အစား
     .accesskey = e
 fonts-minsize = အနည်းဆုံးဖောင့်ဆိုဒ်
@@ -96,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = စနစ်ဟောင်းဖြင့်ဖန်တီထားသည့် အကြောင်းအရာများအတွက် စာသား သိမ်းဆည်းမှုစနစ်
 fonts-languages-fallback-desc = စနစ်ဟောင်းဖြင့် ဖန်တီးထားသည့် အကြောင်းအရာများသည် ၄င်းတို့၏ စာသားသိမ်းဆည်းမှုစနစ်ကို မဖော်ပြနိုင်လျှင် ယခု စာသားသိမ်းဆည်းမှုစနစ်ကို အသုံးပြုမည်။
+fonts-languages-fallback-label = အရန်စာသားသိမ်းဆည်းမှုစနစ်
+    .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = ပုံသေအသုံးပြုသော ဘာသာစကား
 fonts-languages-fallback-name-arabic =
