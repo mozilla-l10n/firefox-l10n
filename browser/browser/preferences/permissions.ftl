@@ -83,6 +83,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = कौन-सी वेबसाइटें सहयुक्तियों का संस्थापन करेंगी यह आपके हाथ में है. जिनको आप यह अनुमति देना चाहते हैं उनका सही वेब पता लिखें और अनुमति दें पर क्लिक करें.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = अनुमत वेबसाइट - स्वत: प्ले
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
