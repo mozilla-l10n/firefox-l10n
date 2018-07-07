@@ -493,11 +493,15 @@ sync-engine-prefs =
            *[other] Předvolby
         }
     .tooltiptext = Nastavení v sekcích Obecné a Soukromí a zabezpečení
-    .accesskey = P
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] P
+        }
 sync-device-name-header = Název zařízení
 sync-device-name-change =
-    .label = Změnit název zařízení…
-    .accesskey = m
+    .label = Přejmenovat toto zařízení…
+    .accesskey = j
 sync-device-name-cancel =
     .label = Zrušit
     .accesskey = u
@@ -628,7 +632,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Otevřené panely
     .accesskey = O
-addressbar-suggestions-settings = Změnit předvolby našeptávání vyhledávače
+addressbar-suggestions-settings = Nastavit našeptávání vyhledávače
 
 ## Privacy Section - Tracking
 
