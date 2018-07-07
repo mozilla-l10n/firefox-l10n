@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -132,25 +124,16 @@ get-started-configured = Otevřít předvolby služby { -sync-brand-short-name }
 always-check-default =
     .label = Kontrolovat, jestli je { -brand-short-name } výchozím webovým prohlížečem
     .accesskey = w
-is-default = { -brand-short-name } je aktuálně výchozím prohlížečem
+is-default = { -brand-short-name } je vaším výchozím prohlížečem
 is-not-default = { -brand-short-name } aktuálně není výchozím prohlížečem
 set-as-my-default-browser =
     .label = Nastavit jako výchozí…
     .accesskey = i
-startup-page = Při startu aplikace { -brand-short-name }
-    .accesskey = s
-startup-user-homepage =
-    .label = Zobrazit vaši domovskou stránku
-startup-blank-page =
-    .label = Zobrazit prázdnou stránku
-startup-prev-session =
-    .label = Zobrazit okna a panely z minula
 startup-restore-previous-session =
     .label = Obnovit předchozí relaci
     .accesskey = O
 disable-extension =
     .label = Zakázat rozšíření
-home-page-header = Domovská stránka
 tabs-group-header = Panely
 ctrl-tab-recently-used-order =
     .label = Přepínat panely pomocí Ctrl+Tab v pořadí podle posledního otevření
@@ -273,7 +256,6 @@ play-drm-content =
 play-drm-content-learn-more = Zjistit více
 update-application-title = Aktualizace aplikace { -brand-short-name }
 update-application-description = Pro nejvyšší rychlost, stabilitu a bezpečnost udržujte aplikaci { -brand-short-name } stále aktuální.
-update-application-info = Verze { $version } <a>Co je nového</a>
 update-application-version = Verze { $version } <a data-l10n-name="learn-more">Co je nového</a>
 update-history =
     .label = Zobrazit historii aktualizací…
@@ -309,7 +291,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Omezit počet procesů pro obsah na
     .accesskey = b
 performance-limit-content-process-enabled-desc = Další procesy pro obsah mohou zlepšit výkon s více otevřenými panely, ale potřebují více paměti.
-performance-limit-content-process-disabled-desc = Počet procesů pro obsah lze upravit pouze při použití multiprocesového režimu aplikace { -brand-short-name }. <a>Podívejte se, jak stav multiprocesového režimu zkontrolovat</a>
 performance-limit-content-process-blocked-desc = Počet procesů pro obsah lze upravit pouze při použití multiprocesového režimu aplikace { -brand-short-name }. <a data-l10n-name="learn-more">Podívejte se, jak stav multiprocesového režimu zkontrolovat</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -380,9 +361,6 @@ use-current-pages =
 choose-bookmark =
     .label = Použít záložku…
     .accesskey = z
-restore-default =
-    .label = Obnovit výchozí
-    .accesskey = b
 
 ## Search Section
 
