@@ -671,6 +671,15 @@ permissions-notification-link = Meurunoë lom
 permissions-notification-pause =
     .label = Bèk bri thèe dilèe trôk 'an { -brand-short-name } jimulai ulang
     .accesskey = B
+permissions-block-autoplay-media =
+    .label = Blokir situs wèb nibak jiputa mèdia nyang na su ngön otomatis
+    .accesskey = B
+permissions-block-autoplay-media-exceptions =
+    .label = Keucuali
+    .accesskey = K
+permissions-block-popups =
+    .label = Blokir tingkap pop-up
+    .accesskey = B
 permissions-a11y-privacy-link = Meurunoë lom
 
 ## Privacy Section - Data Collection
