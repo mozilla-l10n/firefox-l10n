@@ -92,7 +92,7 @@
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
-<!ENTITY toggleAttachmentPaneCmd.accesskey "а">
+<!ENTITY toggleAttachmentPaneCmd.accesskey "ж">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
      With OS-specific access modifier, this defines the shortcut key for showing/
      hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Отправить это сообщение позже">
 <!ENTITY quoteButton.tooltip "Цитировать предыдущее сообщение">
 <!ENTITY addressButton.tooltip "Выбрать адресата из адресной книги">
-<!ENTITY attachButton.tooltip "Вложить файл в это сообщение">
 <!ENTITY attachButton.tooltip2 "Добавить вложение">
 <!ENTITY spellingButton.tooltip "Проверить орфографию выделенного отрывка или всего сообщения">
 <!ENTITY saveButton.tooltip "Сохранить это сообщение">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "ж">
-
 <!ENTITY attachmentBucketHeader.tooltip "Панель вложений">
 <!ENTITY attachmentBucketCloseButton.tooltip "Скрыть панель вложений">
 
