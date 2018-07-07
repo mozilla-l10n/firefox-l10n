@@ -38,6 +38,7 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Pep a bedadenn diforc'h d'ar berzhidi">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Pep a bedadenn a vez kaset d'ar berzhidi gant an dibarzh-mañ. N'eus nemet ar perzhiad kasadour e pep pedadenn evit ma ne vefe ket diskuliet pivelezh ar berzhidi all.">
+<!ENTITY event.attendees.disallowcounter.label       "Dizaotren ar c'honter">
 <!ENTITY event.attendees.disallowcounter.accesskey   "a">
 
 <!-- Keyboard Shortcuts -->
