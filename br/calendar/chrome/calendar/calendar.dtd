@@ -219,6 +219,7 @@
 <!ENTITY calendar.context.progress.accesskey          "A">
 <!ENTITY calendar.context.priority.label              "Tevet">
 <!ENTITY calendar.context.priority.accesskey          "T">
+<!ENTITY calendar.context.postpone.label              "Ampellañ an trevell">
 <!ENTITY calendar.context.postpone.accesskey          "s">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
@@ -324,6 +325,8 @@
 <!ENTITY calendar.alarm.location.label              "Lec'hiadur :" >
 <!ENTITY calendar.alarm.details.label               "Munudoù..." >
 
+<!ENTITY calendar.alarm.snoozefor.label             "Lakaat da ad-seniñ a-benn" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Lakaat da ad-seniñ an holl a-benn" >
 <!ENTITY calendar.alarm.title.label                 "Kounadurioù deiziataer" >
 <!ENTITY calendar.alarm.dismiss.label               "Argas" >
 <!ENTITY calendar.alarm.dismissall.label            "Argas an holl" >
