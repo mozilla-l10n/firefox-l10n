@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "फ़ीड‌">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "सदस्यता लें‌">
-<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "अनुमति‌">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "तयशुदा का प्रयोग‌ करें">
-<!ENTITY  permAskAlways         "हमेशा पूछें‌">
-<!ENTITY  permAllow             "अनुमति‌ दें">
-<!ENTITY  permAllowSession      "सत्र के लिए अनुमति दें">
-<!ENTITY  permHide              "छिपाएँ">
-<!ENTITY  permBlock             "रोकें‌">
 <!ENTITY  permissionsFor        "इसके लिए अनुमति‌:">
-<!ENTITY  permPlugins           "प्लगिन सक्रिय‌ करें">
 
 <!ENTITY  securityTab           "सुरक्षा‌">
 <!ENTITY  securityTab.accesskey "S">
@@ -75,9 +66,7 @@
 
 <!ENTITY  securityView.privacy.header                   "गोपनीयता व इतिहास‌">
 <!ENTITY  securityView.privacy.history                  "क्या मैंने यह वेब साइट आज से पहले देखा‌ है?">
-<!ENTITY  securityView.privacy.cookies                  "क्या यह वेब साइट मेरे कंप्यूटर पर सूचना (कुकी) जमा‌ कर रहा है?">
-<!ENTITY  securityView.privacy.viewCookies              "कुकी देखें‌">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "क्या यह वेब साइट मेरे कंप्यूटर पर सूचना जमा‌ कर रही है?">
 <!ENTITY  securityView.privacy.clearSiteData            "कूकीज़ तथा साइट डेटा हटायें">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "क्या‌ मैंने कोई कूटशब्द इस वेबसाइट के लिए सहेजा है?">
