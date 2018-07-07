@@ -659,13 +659,18 @@ permissions-camera = Kamèra
 permissions-camera-settings =
     .label = Peuatoe...
     .accesskey = t
+permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Peuatoe...
     .accesskey = t
+permissions-notification = Bri thèe
 permissions-notification-settings =
     .label = Peuatoe
     .accesskey = t
 permissions-notification-link = Meurunoë lom
+permissions-notification-pause =
+    .label = Bèk bri thèe dilèe trôk 'an { -brand-short-name } jimulai ulang
+    .accesskey = B
 permissions-a11y-privacy-link = Meurunoë lom
 
 ## Privacy Section - Data Collection
