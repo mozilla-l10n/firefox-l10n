@@ -6,7 +6,7 @@ sync-disconnect-dialog =
     .title = Afbryd forbindelse til { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
 
-sync-disconnect-heading = Vil du også fjerne browser-data fra denne computer? Dine { -sync-brand-name }-data vil forblive på din konto.
+sync-disconnect-heading = Vil du samtidig fjerne browser-data fra denne computer? Dine { -sync-brand-name }-data vil forblive på din konto.
 
 sync-disconnect-remove-sync-caption = Fjern { -sync-brand-name }-data
 

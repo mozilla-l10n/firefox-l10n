@@ -252,7 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blokeret vedvarende lager for dette websted.">
 
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blokeret pop op-vinduer for dette websted.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Du har blokeret automatisk afspilning af media-filer med lyd for dette websted.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Du har blokeret automatisk afspilning af mediefiler med lyd for dette websted.">
 
 <!ENTITY urlbar.canvasBlocked.tooltip            "Du har blokeret kanvas-ekstraktion for dette websted.">
 
@@ -957,7 +957,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetected5 "Ingen sporings-elementer fundet på denne side.">
 <!ENTITY trackingProtection.notDetectedException "Ingen sporings-elementer fundet på denne side. Du har deaktiveret beskyttelse for dette websted.">
 
-<!ENTITY trackingProtection.reloadRequired2 "Du har aktiveret beskyttelse mod sporing. Genindlæs siden for at blokerede sporings-elementer.">
+<!ENTITY trackingProtection.reloadRequired2 "Du har aktiveret beskyttelse mod sporing. Genindlæs siden for at blokere sporings-elementer.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -968,7 +968,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "Deaktiver for denne session">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "Aktivér for dette websted">
+<!ENTITY trackingProtection.block4.label "Aktiver for dette websted">
 <!ENTITY trackingProtection.block4.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Genindlæs siden">
 <!ENTITY trackingProtection.reload2.accesskey "G">
