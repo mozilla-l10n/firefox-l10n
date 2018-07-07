@@ -577,6 +577,10 @@ history-clear-button =
 
 sitedata-header = कुकीज़ और साइट डेटा
 sitedata-total-size-calculating = साइट डेटा और कैश आकार की गणना ...
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = आपकी संग्रहीत कुकीज़, साइट डेटा और कैश वर्तमान में डिस्क स्थान के { $value } { $unit } का उपयोग कर रहे हैं।
 sitedata-learn-more = अधिक जानें
 sitedata-accept-cookies-option =
     .label = वेबसाइट से कूकीज और साइट डाटा स्वीकार करें (अनुशंसित)
@@ -697,6 +701,9 @@ collection-health-report =
     .label = { -brand-short-name } को मोज़िला को तकनीकी और इंटरैक्शन डेटा भेजने की अनुमति दें
     .accesskey = r
 collection-health-report-link = अधिक जानें
+collection-studies =
+    .label = { -brand-short-name } को संस्थापित करने और अध्ययन चलाने की अनुमति दें
+collection-studies-link = { -brand-short-name } अध्ययन देखें
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = इस निर्मित विन्यास के लिए डेटा रिपोर्टिंग को असक्रिय किया हैं
