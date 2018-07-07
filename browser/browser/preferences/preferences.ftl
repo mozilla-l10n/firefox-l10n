@@ -698,7 +698,7 @@ permissions-notification-settings =
 permissions-notification-link = Læs mere
 
 permissions-block-autoplay-media =
-    .label = Lad ikke websteder afspille media-filer med lyd automatisk
+    .label = Lad ikke websteder starte automatisk afspilning af mediefiler med lyd
     .accesskey = l
 
 permissions-block-autoplay-media-exceptions =
