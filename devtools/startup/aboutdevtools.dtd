@@ -25,6 +25,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
+<!ENTITY  aboutDevtools.enable.inspectElementMessage
+          "افحص وحرّر HTML و CSS باستخدام مدّقق أدوات المطوّرين.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
@@ -36,6 +38,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
+<!ENTITY  aboutDevtools.enable.menuMessage2
+          "يمكنك تحسين ميزات HTML، CSS، وJavaScript لموقعك باستخدام أدوات مثل المدقق ومصحح الأخطاء.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
@@ -50,12 +54,14 @@
 
 <!ENTITY  aboutDevtools.welcome.title "مرحبًا في أدوات فَيَرفُكس للمطورين!">
 
+<!ENTITY  aboutDevtools.newsletter.title "نشرة موزيلا البريدية للمطوّرين">
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "استلم أخبار المطورين والخدع والموارد من صندوق بريدك مباشرة.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "البريد الإلكتروني">
 <!ENTITY  aboutDevtools.newsletter.privacy.label "لا أمانع بأن تستخدم موزيلا معلوماتي كما هو موضح في <a class='external' href='https://www.mozilla.org/privacy/'>سياسة الخصوصية</a>.">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "اشترك">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "شكرًا!">
 <!ENTITY  aboutDevtools.newsletter.thanks.message "إن لم يسبق لك تأكيد اشتراكك في إحدى نشرات موزيلا البريدية فقد تحتاج فعل ذلك. رجاءً افحص صندوق الوارد لديك أو مرشّح السخام بحثا عن الرسالة التي أرسلناها.">
 
