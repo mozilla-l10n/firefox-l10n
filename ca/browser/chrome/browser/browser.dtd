@@ -1026,11 +1026,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.label "Mantén els canvis">
 <!ENTITY homepageControlled.keepButton.accesskey "M">
 <!ENTITY homepageControlled.disableButton.label "Inhabilita l'extensió">
+<!ENTITY homepageControlled.disableButton.accesskey "I">
 
 <!ENTITY tabHideControlled.header.message "Accedeix a les pestanyes ocultes">
 <!ENTITY tabHideControlled.keepButton.label "Mantén les pestanyes amagades">
 <!ENTITY tabHideControlled.keepButton.accesskey "M">
 <!ENTITY tabHideControlled.disableButton.label "Inhabilita l'extensió">
+<!ENTITY tabHideControlled.disableButton.accesskey "I">
 
 <!ENTITY pageActionButton.tooltip "Accions de la pàgina">
 <!ENTITY pageAction.addToUrlbar.label "Afegeix a la barra d'adreces">
