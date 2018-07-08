@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Atô Kukis ngon Data Situih
 site-data-search-textbox =
     .placeholder = Mita situihwèb
     .accesskey = M
