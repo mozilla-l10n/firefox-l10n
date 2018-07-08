@@ -5,10 +5,17 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = Mita situihwèb
+    .accesskey = M
 site-data-column-host =
     .label = Situs
 site-data-column-cookies =
     .label = Kukis
+site-data-column-storage =
+    .label = Teumpat Keuneubah
+site-data-column-last-used =
+    .label = Meungui Seuneulheuëh
 site-data-remove-selected =
     .label = Sampoh Teupileh
     .accesskey = u
@@ -36,3 +43,4 @@ site-data-removing-window =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Sampôh
+site-data-removing-header = Sampôh Kukis ngon Data Situih
