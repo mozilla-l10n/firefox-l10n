@@ -951,6 +951,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; сіздің желідегі әрекеттеріңізді бақылай алатын элементтерді анықтады.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; сіздің желідегі әрекеттеріңізді бақылай алатын элементтерді анықтады. Бұл сайт үшін сіз бақылаудан қорғанысты сөндіргенсіз.">
 <!ENTITY trackingProtection.notDetected5 "Бұл парақта бақылайтын элементтер табылмады.">
+<!ENTITY trackingProtection.notDetectedException "Бұл парақта бақылайтын элементтер табылмады. Бұл сайт үшін сіз бақылаудан қорғанысты сөндіргенсіз.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
