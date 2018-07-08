@@ -7,15 +7,10 @@
 
 site-data-settings-window =
     .title = Atô Kukis ngon Data Situih
-site-data-search-textbox =
-    .placeholder = Mita situihwèb
-    .accesskey = M
 site-data-column-host =
     .label = Situs
 site-data-column-cookies =
     .label = Kukis
-site-data-column-storage =
-    .label = Teumpat Keuneubah
 site-data-column-last-used =
     .label = Meungui Seuneulheuëh
 site-data-remove-selected =

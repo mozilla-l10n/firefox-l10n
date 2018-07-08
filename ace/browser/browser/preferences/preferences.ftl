@@ -720,3 +720,6 @@ certs-select-auto-option =
 certs-select-ask-option =
     .label = Tanyöng tiëp watèë
     .accesskey = e
+certs-view =
+    .label = Kalon Seureutipikat...
+    .accesskey = K
