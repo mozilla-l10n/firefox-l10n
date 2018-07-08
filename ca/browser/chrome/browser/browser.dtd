@@ -68,6 +68,8 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "En cua (fora de línia)">
 <!ENTITY  moveToNewWindow.label              "Mou a una finestra nova">
 <!ENTITY  moveToNewWindow.accesskey          "v">
+<!ENTITY  reopenInContainer.label            "Torna a obrir en un contenidor">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Afegeix totes les pestanyes a les adreces d'interès…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Desfés el tancament de la pestanya">
@@ -231,6 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Canvia l'opció de si es poden rebre notificacions d'aquest lloc">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Desa dades en l'emmagatzematge persistent">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "El navegador està sota control remot">
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Obre la subfinestra d'autenticació web">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestiona la compartició de la càmera o del micròfon amb el lloc">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestiona la compartició del micròfon amb el lloc">
@@ -310,6 +313,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspecciona l'element">
 <!ENTITY inspectContextMenu.accesskey "I">
 
+<!ENTITY inspectA11YContextMenu.label     "Inspecciona les propietats d'accessibilitat">
 
 <!ENTITY fileMenu.label         "Fitxer">
 <!ENTITY fileMenu.accesskey       "F">
@@ -443,6 +447,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Afegeix més elements…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Amaga automàticament en la barra d'eines">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Gestiona l'extensió">
 <!ENTITY customizeMenu.manageExtension.accesskey "e">
 
@@ -929,6 +935,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Activa la protecció">
 <!ENTITY trackingProtection.block2.accesskey "v">
 
+<!ENTITY trackingProtection.tooltip "Obre les preferències de la protecció contra el seguiment">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -1014,10 +1021,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Inhabilita l'extensió">
 <!ENTITY newTabControlled.disableButton.accesskey "I">
 
+<!ENTITY homepageControlled.message "Una extensió ha canviat la pàgina que es mostra a l'inici. Si no voleu acceptar aquest canvi, podeu restaurar els vostres paràmetres.">
+<!ENTITY homepageControlled.header.message "La pàgina d'inici ha canviat.">
 <!ENTITY homepageControlled.keepButton.label "Mantén els canvis">
+<!ENTITY homepageControlled.keepButton.accesskey "M">
 <!ENTITY homepageControlled.disableButton.label "Inhabilita l'extensió">
 
 <!ENTITY tabHideControlled.header.message "Accedeix a les pestanyes ocultes">
+<!ENTITY tabHideControlled.keepButton.label "Mantén les pestanyes amagades">
+<!ENTITY tabHideControlled.keepButton.accesskey "M">
 <!ENTITY tabHideControlled.disableButton.label "Inhabilita l'extensió">
 
 <!ENTITY pageActionButton.tooltip "Accions de la pàgina">
