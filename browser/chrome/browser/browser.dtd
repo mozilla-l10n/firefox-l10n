@@ -45,6 +45,7 @@ but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.label            "No fixis les pestanyes">
 <!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  unpinSelectedTabs.accesskey        "f">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 
