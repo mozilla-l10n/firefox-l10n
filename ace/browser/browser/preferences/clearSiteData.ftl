@@ -22,8 +22,8 @@ clear-site-data-cookies-with-data =
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = Cookies ngön Data Situs
-    .accesskey = S
+    .label = Kukis ngon Situih Data
+    .accesskey = K
 clear-site-data-cookies-info = Meunyo neusampôh data situs, Droeneuh jeuet teuteubiet nibak situs wèb
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"

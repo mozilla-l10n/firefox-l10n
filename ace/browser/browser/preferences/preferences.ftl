@@ -703,10 +703,20 @@ collection-backlogged-crash-reports-link = Meurunoë lom
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Keuamanan
+security-enable-safe-browsing =
+    .label = Tham konten nyang meubaya ngon seumunguet
+    .accesskey = T
 security-enable-safe-browsing-link = Meurunoë lom
+security-block-downloads =
+    .label = Tham donlod nyang meubaya
+    .accesskey = T
 
 ## Privacy Section - Certificates
 
+certs-header = Seureutipikat
+certs-select-auto-option =
+    .label = Piléh saboh seucara otomatis
+    .accesskey = P
 certs-select-ask-option =
     .label = Tanyöng tiëp watèë
     .accesskey = e
