@@ -680,6 +680,12 @@ permissions-block-autoplay-media-exceptions =
 permissions-block-popups =
     .label = Blokir tingkap pop-up
     .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Keucuali
+    .accesskey = K
+permissions-addon-install-warning =
+    .label = Peuingat watèe situs wèb keumeung jipasang add-ons
+    .accesskey = P
 permissions-a11y-privacy-link = Meurunoë lom
 
 ## Privacy Section - Data Collection
