@@ -83,6 +83,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Podeu especificar quins llocs web poden instal·lar complements. Escriviu l'adreça exacta del lloc que vulgueu permetre i feu clic a Permet.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Llocs web permesos - Reproducció automàtica
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
