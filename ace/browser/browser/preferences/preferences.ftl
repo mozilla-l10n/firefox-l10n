@@ -686,6 +686,9 @@ permissions-block-popups-exceptions =
 permissions-addon-install-warning =
     .label = Peuingat watèe situs wèb keumeung jipasang add-ons
     .accesskey = P
+permissions-addon-exceptions =
+    .label = Keucuwali...
+    .accesskey = K
 permissions-a11y-privacy-link = Meurunoë lom
 
 ## Privacy Section - Data Collection

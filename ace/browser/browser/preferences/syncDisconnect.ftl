@@ -16,3 +16,6 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Hana meusambông & Sampôh
     .accesskey = H
+sync-disconnect-confirm-disconnect =
+    .label = Peuputôh
+    .accesskey = P
