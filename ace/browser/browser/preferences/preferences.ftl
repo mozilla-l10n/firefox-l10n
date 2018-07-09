@@ -689,10 +689,19 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Keucuwali...
     .accesskey = K
+permissions-a11y-privacy-checkbox =
+    .label = Tham service aksessibilitas nibak ji limeuh browser droen
+    .accesskey = T
 permissions-a11y-privacy-link = Meurunoë lom
 
 ## Privacy Section - Data Collection
 
+collection-header = { -brand-short-name } Cok Data dan Ngui
+collection-description = Kamoe meu useuha meuseudia ngön meubagoe peunileh dan meucok nyang peureulée sagai bah jeut meutamah jrôh { -brand-short-name } dan  meutamah hayeu keu ban mandum. Kamoe sabé - sabé meulake idin seugohlom meucôk informasi personal gata.
+collection-privacy-notice = Bri thëe privasi
+collection-health-report =
+    .label = Peuidin { -brand-short-name } ji kirem data interaksi dan teknis keu awak { -vendor-short-name }
+    .accesskey = P
 collection-health-report-link = Meurunoë lom
 collection-browser-errors-link = Meurunoë lom
 collection-backlogged-crash-reports-link = Meurunoë lom
