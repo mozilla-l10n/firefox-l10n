@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY AdvancedEditButton.label "Ειδική επεξεργασία...">
+<!ENTITY AdvancedEditButton.label "Προηγμένη επεξεργασία…">
 <!ENTITY AdvancedEditButton.accessKey "δ">
 <!ENTITY AdvancedEditButton.tooltip "Προσθήκη ή μετατροπή HTML attributes, style attributes, και JavaScript">
 <!ENTITY chooseFileButton.label "Επιλογή αρχείου...">
@@ -14,7 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip "Αλλαγή μεταξύ σχετικού και απόλυτου URL. Πρέπει να αποθηκεύσετε πρώτα τη σελίδα για να γίνουν οι αλλαγές.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Εισάγετε μια τοποθεσία στον web, ένα τοπικό αρχείο ή επιλέξτε ένα όνομα άγκυρας ή κεφαλίδα από τη αναδυόμενη λίστα.">
-<!ENTITY LinkURLEditField.accessKey "θ">
 <!ENTITY LinkURLEditField2.label "Εισάγετε μια τοποθεσία ιστοσελίδας, ένα τοπικό αρχείο, ή επιλέξτε μια επώνυμη άγκυρα ή επικεφαλίδα από το μενού επιλογών του πεδίου:">
 <!ENTITY LinkURLEditField2.accessKey "ι">

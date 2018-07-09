@@ -7,7 +7,7 @@
 <!ENTITY itemAdvanced.label               "Για προχωρημένους">
 
 <!ENTITY style.label                      "Στυλ:">
-<!ENTITY style.accesskey                  "φ">
+<!ENTITY style.accesskey                  "υ">
 <!ENTITY regularStyle.label               "Κανονικά">
 <!ENTITY bold.label                       "Έντονα">
 <!ENTITY italic.label                     "Πλάγια">
@@ -31,12 +31,12 @@
 <!ENTITY newTagButton.label        "Νέα…">
 <!ENTITY newTagButton.accesskey    "Ν">
 <!ENTITY editTagButton1.label      "Επεξεργασία…">
-<!ENTITY editTagButton1.accesskey  "Τ">
+<!ENTITY editTagButton1.accesskey  "Ε">
 <!ENTITY removeTagButton.label     "Διαγραφή">
 <!ENTITY removeTagButton.accesskey "φ">
 
 <!-- Fonts and Colors -->
-<!ENTITY fontsAndColors1.label   "Γραμματοσειρές &amp; Χρώματα">
+<!ENTITY fontsAndColors1.label   "Γραμματοσειρές &amp; χρώματα">
 <!ENTITY defaultFont.label       "Προεπιλεγμένη γραμματοσειρά:">
 <!ENTITY defaultFont.accesskey   "ρ">
 <!ENTITY defaultSize.label       "Μέγεθος:">
@@ -60,7 +60,7 @@
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label            "Μετά από προβολή για">
-<!ENTITY markAsReadDelay.accesskey        "φ">
+<!ENTITY markAsReadDelay.accesskey        "γ">
 <!ENTITY secondsLabel.label               "δευτερόλεπτα">
 <!ENTITY openMsgIn.label                  "Άνοιγμα μηνυμάτων σε:">
 <!ENTITY openMsgInNewTab.label            "Νέα καρτέλα">
