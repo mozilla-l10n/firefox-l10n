@@ -953,12 +953,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetected5 "Бұл парақта бақылайтын элементтер табылмады.">
 <!ENTITY trackingProtection.notDetectedException "Бұл парақта бақылайтын элементтер табылмады. Бұл сайт үшін сіз бақылаудан қорғанысты сөндіргенсіз.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Сіз бақылаудан қорғанысты іске қосқансыз. Барлық трекерлерді блоктау үшін бұл бетті қайта жүктеңіз.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Бұл сайт үшін сөндіру">
+<!ENTITY trackingProtection.unblock3.accesskey "д">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Бұл сессия үшін сөндіру">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "д">
 <!ENTITY trackingProtection.reload2.label "Бетті қайта жүктеу">
 
 <!ENTITY pluginNotification.showAll.label "Барлығын көрсету">
