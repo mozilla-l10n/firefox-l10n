@@ -12,7 +12,7 @@
 <!ENTITY forwardMsg.accesskey                 "θ">
 <!ENTITY inline.label                         "Εντός μηνύματος">
 <!ENTITY asAttachment.label                   "Ως συνημμένο">
-<!ENTITY addExtension.label                   "προσθήκη επέκτασης στο όνομα αρχείου">
+<!ENTITY addExtension.label                   "Προσθήκη επέκτασης στο όνομα αρχείου">
 <!ENTITY addExtension.accesskey               "χ">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
