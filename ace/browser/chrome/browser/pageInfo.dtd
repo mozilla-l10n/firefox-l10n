@@ -5,9 +5,18 @@
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "550">
 
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Pileh Bandum">
+<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "Umom">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalMetaName       "Nan">
 
+<!ENTITY  mediaTab.accesskey    "M">
 
 
 
