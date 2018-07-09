@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-cmdBackTooltip=Idi nazad jednu stranicu
-cmdForwardTooltip=Idi naprijed jednu stranicu
-
-warnLegacyRestartButton=Restartuj
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Izvorno ({ $name })
+fonts-label-default-unnamed =
+    .label = Izvorno
