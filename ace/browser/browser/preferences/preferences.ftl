@@ -703,6 +703,9 @@ collection-health-report =
     .label = Peuidin { -brand-short-name } ji kirem data interaksi dan teknis keu awak { -vendor-short-name }
     .accesskey = P
 collection-health-report-link = Meurunoë lom
+collection-studies =
+    .label = Peuidin { -brand-short-name } ji pasang dan ji peugöt kajian
+collection-studies-link = Kalön kajian { -brand-short-name }
 collection-browser-errors-link = Meurunoë lom
 collection-backlogged-crash-reports-link = Meurunoë lom
 
