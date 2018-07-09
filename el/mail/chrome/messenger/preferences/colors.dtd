@@ -6,7 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Παράκαμψη των καθορισμένων χρωμάτων του περιεχομένου με τις παραπάνω επιλογές μου:">
+<!ENTITY  overridePageColors.label        "Παράκαμψη των καθορισμένων χρωμάτων περιεχομένου με τα παραπάνω:">
 <!ENTITY  overridePageColors.accesskey    "π">
 
 <!ENTITY  overridePageColors.always.label "Πάντα">

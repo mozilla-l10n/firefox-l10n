@@ -5,7 +5,7 @@
 <!ENTITY identitiesListManageDesc.label "Διαχείριση ταυτοτήτων για αυτό το λογαριασμό. Χρησιμοποιείται η πρώτη ταυτότητα από προεπιλογή.">
 <!ENTITY identitiesListAdd.label  "Προσθήκη…">
 <!ENTITY identitiesListAdd.accesskey  "θ">
-<!ENTITY identitiesListEdit.label "Επεξεργασία...">
+<!ENTITY identitiesListEdit.label "Επεξεργασία…">
 <!ENTITY identitiesListEdit.accesskey "ξ">
 <!ENTITY identitiesListDefault.label "Ορισμός προεπιλογής">
 <!ENTITY identitiesListDefault.accesskey "S">

@@ -12,7 +12,7 @@
 
 <!ENTITY smtpListAdd.label  "Προσθήκη...">
 <!ENTITY smtpListAdd.accesskey  "θ">
-<!ENTITY smtpListEdit.label "Επεξεργασία...">
+<!ENTITY smtpListEdit.label "Επεξεργασία…">
 <!ENTITY smtpListEdit.accesskey "Ε">
 <!ENTITY smtpListDelete.label "Απομάκρυνση">
 <!ENTITY smtpListDelete.accesskey "μ">

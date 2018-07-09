@@ -9,7 +9,7 @@
 <!ENTITY newButton.accesskey "Ν">
 <!ENTITY newButton.popupCopy.label "Αντιγραφή…">
 <!ENTITY newButton.popupCopy.accesskey "Α">
-<!ENTITY editButton.label "Επεξεργασία...">
+<!ENTITY editButton.label "Επεξεργασία…">
 <!ENTITY editButton.accesskey "Ε">
 <!ENTITY deleteButton.label "Διαγραφή">
 <!ENTITY deleteButton.accesskey "Δ">
@@ -36,8 +36,5 @@
 <!ENTITY folderPickerPrefix.accesskey "λ">
 <!ENTITY helpButton.label "Βοήθεια">
 <!ENTITY helpButton.accesskey "Β">
-<!ENTITY closeCmd.key "Κ"> 
+<!ENTITY closeCmd.key "Κ">
 <!ENTITY searchBox.emptyText "Αναζήτηση φίλτρων κατά όνομα…">
-
-
-

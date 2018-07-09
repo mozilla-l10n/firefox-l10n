@@ -26,7 +26,7 @@
 <!ENTITY moreDictionaries.label "Λήψη περισσότερων">
 <!ENTITY addToUserDictionaryButton.label "Προσθήκη λέξης">
 <!ENTITY addToUserDictionaryButton.accessKey "θ">
-<!ENTITY editUserDictionaryButton.label "Επεξεργασία...">
+<!ENTITY editUserDictionaryButton.label "Επεξεργασία…">
 <!ENTITY editUserDictionaryButton.accessKey "ξ">
 <!ENTITY recheckButton2.label "Επανέλεγχος του κειμένου">
 <!ENTITY recheckButton2.accessKey "ε">
