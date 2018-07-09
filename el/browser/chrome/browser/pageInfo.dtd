@@ -45,7 +45,7 @@
 <!ENTITY  mediaPreview          "Προεπισκόπηση πολυμέσων:">
 
 <!ENTITY  feedTab               "Ροές">
-<!ENTITY  feedTab.accesskey     "χ">
+<!ENTITY  feedTab.accesskey     "Ρ">
 
 <!ENTITY  permTab               "Δικαιώματα">
 <!ENTITY  permTab.accesskey     "Δ">
