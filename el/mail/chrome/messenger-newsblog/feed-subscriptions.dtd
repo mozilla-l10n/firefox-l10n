@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label     "Συνδρομές σε ροές ειδήσεων">
+<!ENTITY feedSubscriptions.label     "Συνδρομές σε ροές">
 <!ENTITY learnMore.label             "Μάθετε περισσότερα για τις ροές">
 
 <!ENTITY feedTitle.label             "Τίτλος:">
@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "URL ροής:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Εισάγετε ένα έγκυρο url ροής για προσθήκη">
 <!ENTITY feedLocation2.placeholder   "Εισάγετε ένα έγκυρο URL ροής">
 <!ENTITY locationValidate.label      "Επαλήθευση">
 <!ENTITY validateText.label          "Έλεγχος επαλήθευσης και ανάκτηση έγκυρου url.">

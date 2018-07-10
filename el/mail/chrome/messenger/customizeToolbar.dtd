@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title             "Προσαρμογή Εργαλειοθήκης">
+<!ENTITY dialog.title             "Προσαρμογή γραμμής εργαλείων">
 <!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "Μπορείτε να προσθέσετε ή αφαιρέσετε αντικείμενα σέρνοντάς τα στις και από τις εργαλειοθήκες.">
 <!ENTITY show.label               "Εμφάνιση:">
@@ -12,6 +12,6 @@
 <!ENTITY iconsBesideText.label    "Εικονίδια δίπλα στο Κείμενο">
 <!ENTITY useSmallIcons.label      "Χρήση Μικρών Εικονιδίων">
 <!ENTITY restoreDefaultSet.label  "Επαναφορά Προκαθορισμένου Σετ">
-<!ENTITY addNewToolbar.label      "Προσθήκη Νέας Εργαλειοθήκης">
+<!ENTITY addNewToolbar.label      "Προσθήκη νέας γραμμής εργαλείων">
 <!ENTITY saveChanges.label        "Έτοιμο">
 <!ENTITY undoChanges.label        "Ακύρωση Αλλαγών">
