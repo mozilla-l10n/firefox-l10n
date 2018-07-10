@@ -677,7 +677,7 @@
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "γ">
 <!ENTITY folderContextMarkMailFolderRead.label "Σημείωση φακέλου ως αναγνωσμένου">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "κ">
-<!ENTITY folderContextSubscribe.label "Εγγραφή συνδρομητή...">
+<!ENTITY folderContextSubscribe.label "Συνδρομή…">
 <!ENTITY folderContextSubscribe.accesskey "γ">
 <!ENTITY folderContextSearchForMessages.label "Αναζήτηση μηνυμάτων…">
 <!ENTITY folderContextSearchForMessages.accesskey "ζ">
