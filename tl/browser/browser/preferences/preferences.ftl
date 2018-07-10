@@ -14,10 +14,6 @@ pref-page =
             [windows] Options
            *[other] Mga Preferences
         }
-# This string is currently used only in Firefox 60 and will be removed when not
-# needed for x-channel. See bug 1445686 for details.
-search-input =
-    .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -42,6 +38,8 @@ pane-general-title = Pangkalahatan
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Home
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Maghanap
 category-search =
     .tooltiptext = { pane-search-title }
@@ -109,17 +107,8 @@ is-not-default = Ang { -brand-short-name } ay hindi ang iyong default na browser
 set-as-my-default-browser =
     .label = Gawing Default…
     .accesskey = D
-startup-page = Kapag nagsimula na ang { -brand-short-name }
-    .accesskey = s
-startup-user-homepage =
-    .label = Ipakita ang iyong punong pahina
-startup-blank-page =
-    .label = Magpakita ng blankong pahina
-startup-prev-session =
-    .label = Ipakita ang iyong mga window at tab noong nakaraan
 disable-extension =
     .label = Huwag Paganahin and Extensyon
-home-page-header = Punong pahina
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles sa pamamagitan ng mga tab sa kamakailang ginamit order
@@ -239,7 +228,6 @@ play-drm-content =
 play-drm-content-learn-more = Karagdagang kaalaman
 update-application-title = Mga update ng { -brand-short-name }
 update-application-description = Panatilihin ang { -brand-short-name } na updated para mahusay ang pagtakbo, katatagan, at seguridad.
-update-application-info = Bersyon { $version } <a>Ano ang bago?</a>
 update-application-version = Bersyon { $version } <a data-l10n-name="learn-more">Ano ang bago?</a>
 update-history =
     .label = Ipakita ang kasaysayan nang pag-update…
@@ -275,7 +263,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Nasa limitasyon na ang pag proseso ng content
     .accesskey = L
 performance-limit-content-process-enabled-desc = Ang karagdagang mga proseso ng nilalaman ay maaaring mapabuti ang pagganap kapag gumagamit ng maraming mga tab, ngunit gagamit din ito ng mas maraming memorya.
-performance-limit-content-process-disabled-desc = Ang pagbabago sa bilang ng mga proseso ng nilalaman ay posible lamang sa multiprocess { -brand-short-name }. <a>Alamin kung paano i-check kung ang multiprocess ay pinagana</a>
 performance-limit-content-process-blocked-desc = Ang pagbabago sa bilang ng mga proseso ng nilalaman ay posible lamang sa multiprocess { -brand-short-name }. <a data-l10n-name="learn-more">Alamin kung paano i-check kung ang multiprocess ay pinagana</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -329,9 +316,6 @@ use-current-pages =
 choose-bookmark =
     .label = Gamitan ng Bookmark
     .accesskey = B
-restore-default =
-    .label = Ibalik sa Default
-    .accesskey = I
 
 ## Search Section
 
