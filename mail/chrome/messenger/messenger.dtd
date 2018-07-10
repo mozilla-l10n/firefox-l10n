@@ -170,7 +170,7 @@
 <!ENTITY recentFolders.accesskey "ρ">
 <!ENTITY compactVersion.label "Συμπτυγμένη όψη">
 <!ENTITY compactVersion.accesskey "Σ">
-<!ENTITY folderPaneBar.label "Εργαλειοθήκη Πλαισίου Φακέλων">
+<!ENTITY folderPaneBar.label "Γραμμή εργαλείων πλαισίων φακέλων">
 <!ENTITY folderPaneBar.accesskey "Θ">
 <!ENTITY folderModeSelector.label "Όψεις φακέλων">
 
