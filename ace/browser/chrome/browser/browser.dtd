@@ -391,7 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "Ngieng Gamba">
+<!ENTITY viewImageCmd.label           "Kalon Gamba">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.accesskey   "D">
@@ -452,7 +452,7 @@ fast. -->
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "Peunoh Layeu">
+<!ENTITY videoFullScreen.label       "Peunoh Layeuë">
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
@@ -484,9 +484,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 
-<!ENTITY quitApplicationCmdWin2.label       "Teubiet">
+<!ENTITY quitApplicationCmdWin2.label       "Teubiët">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Teubiet &brandShorterName;">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Teubiët &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Teubiet">
