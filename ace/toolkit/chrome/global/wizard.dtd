@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  button-back-mac.label        "Balék">
-<!ENTITY  button-cancel-mac.label      "Bateue">
+<!ENTITY  button-cancel-mac.label      "Bateuë">
 
-<!ENTITY  button-cancel-unix.label     "Bateue">
+<!ENTITY  button-cancel-unix.label     "Bateuë">
 
-<!ENTITY  button-cancel-win.label      "Bateue">
+<!ENTITY  button-cancel-win.label      "Bateuë">

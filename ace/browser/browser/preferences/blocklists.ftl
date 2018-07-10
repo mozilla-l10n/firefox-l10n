@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 blocklist-window =
-    .title = Dapeuta Blokir
+    .title = Dapeuta Tham
     .style = lèbaa: 55em
 blocklist-desc = Droeneuh jeuet neupiléh dapeuta töh { -brand-short-name } keu neungui keu neutheun bagian Wèb nyang mungkén jiseutöt peue nyang neupubuet bak internet.
 blocklist-close-key =
@@ -11,7 +11,7 @@ blocklist-close-key =
 blocklist-treehead-list =
     .label = Dapeuta
 blocklist-button-cancel =
-    .label = Bateue
+    .label = Bateuë
     .accesskey = B
 blocklist-button-ok =
     .label = Keubah Neuubah

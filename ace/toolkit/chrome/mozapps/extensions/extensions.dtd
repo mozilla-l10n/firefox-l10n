@@ -47,7 +47,7 @@
 <!-- ratings -->
 
 <!-- download/install progress -->
-<!ENTITY progress.cancel.tooltip              "Bateue">
+<!ENTITY progress.cancel.tooltip              "Bateuë">
 
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which

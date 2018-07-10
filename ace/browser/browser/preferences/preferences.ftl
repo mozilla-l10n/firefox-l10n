@@ -62,7 +62,7 @@ feature-enable-requires-restart = { -brand-short-name } suwah peuhah keulayi keu
 feature-disable-requires-restart = { -brand-short-name } suwah peuhah keulayi keu pumaté fitur nyoe.
 should-restart-title = Peuhah Keulayi { -brand-short-name }
 should-restart-ok = Peuhah keulayi { -brand-short-name } jinoe
-cancel-no-restart-button = Bateue
+cancel-no-restart-button = Bateuë
 restart-later = Peuhah Keulayi Euntreuk
 
 ## Extension Control Notifications
@@ -492,7 +492,7 @@ sync-device-name-change =
     .label = Gantoe Nan Peukakah...
     .accesskey = G
 sync-device-name-cancel =
-    .label = Hanasi
+    .label = Bateuë
     .accesskey = B
 sync-device-name-save =
     .label = Keubah

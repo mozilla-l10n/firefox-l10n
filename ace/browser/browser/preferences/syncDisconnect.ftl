@@ -5,7 +5,7 @@
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Peuputôh Seunambông...
 sync-disconnect-cancel =
-    .label = Bateue
+    .label = Bateuë
     .accesskey = B
 
 ## Disconnect confirm Button
