@@ -136,7 +136,7 @@
      are no messages matching the filter.
      -->
 <!ENTITY quickFilterBar.resultsLabel.none
-         "Δεν υπάρχουν αποτελέσματα">
+         "Κανένα αποτέλεσμα">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
      The minimum width, in pixels, of the results label.  Please size this
