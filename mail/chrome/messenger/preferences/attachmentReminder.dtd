@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY attachmentReminderDialog.title   "Λέξεις κλειδιά για την υπενθύμιση συνημμένου">
-<!ENTITY attachKeywordText.label          "Ο &brandShortName; θα σας ειδοποιεί για ξεχασμένα συνημμένα, όταν πρόκειται να στείλετε ένα μήνυμα με τις παρακάτω λέξεις-κλειδιά.">
+<!ENTITY attachKeywordText.label          "Το &brandShortName; θα σάς προειδοποιεί για ξεχασμένα συνημμένα, όταν πρόκειται να αποστείλετε ένα μήνυμα με τις παρακάτω λέξεις-κλειδιά.">
 <!ENTITY newKeywordButton.label           "Νέα…">
 <!ENTITY newKeywordButton.accesskey       "Ν">
 <!ENTITY editKeywordButton1.label         "Επεξεργασία…">
-<!ENTITY editKeywordButton1.accesskey     "Τ">
+<!ENTITY editKeywordButton1.accesskey     "ξ">
 <!ENTITY removeKeywordButton.label        "Διαγραφή">
 <!ENTITY removeKeywordButton.accesskey    "Δ">
