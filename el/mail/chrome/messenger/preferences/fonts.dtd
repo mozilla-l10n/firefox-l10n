@@ -69,12 +69,12 @@
 <!ENTITY  useDocumentFonts.accesskey              "ο">
 
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         "Εξερχόμενη αλληλογραφία:">
+<!ENTITY sendDefaultCharset.label         "Εξερχόμενα:">
 <!ENTITY sendDefaultCharset.accesskey     "ξ">
 <!ENTITY languagesTitle2.label            "Κωδικοποίηση χαρακτήρων">
 <!ENTITY composingDescription2.label      "Ρύθμιση της προεπιλεγμένης κωδικοποίησης χαρακτήρων για την αποστολή και λήψη αλληλογραφίας">
 
-<!ENTITY viewDefaultCharsetList.label     "Εισερχόμενη αλληλογραφία:">
+<!ENTITY viewDefaultCharsetList.label     "Εισερχόμενα:">
 <!ENTITY viewDefaultCharsetList.accesskey  "ι">
 <!ENTITY replyInDefaultCharset3.label     "Όταν είναι δυνατόν, να γίνεται χρήση της προεπιλεγμένης κωδικοποίησης στις απαντήσεις">
 <!ENTITY replyInDefaultCharset3.accesskey "υ">

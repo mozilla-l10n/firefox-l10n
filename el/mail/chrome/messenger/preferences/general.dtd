@@ -21,7 +21,7 @@
 <!ENTITY playSoundMac.accesskey           "δ">
 <!ENTITY showAnimatedAlert.label          "Εμφάνιση ειδοποίησης">
 <!ENTITY showAnimatedAlert.accesskey      "φ">
-<!ENTITY notificationAlertSettings2.label "Οι ειδοποιήσεις και ο προεπιλεγμένος ήχος μπορούν να απενεργοποιηθούν στο παράθυρο Ειδοποιήσεις των Ρυθμίσεων Συστήματος.">
+<!ENTITY notificationAlertSettings2.label "Οι ειδοποιήσεις και ο προεπιλεγμένος ήχος μπορούν να απενεργοποιηθούν στην καρτέλα Ειδοποιήσεις των ρυθμίσεων συστήματος.">
 <!ENTITY customizeMailAlert.label         "Προσαρμογή…">
 <!ENTITY customizeMailAlert.accesskey     "μ">
 
