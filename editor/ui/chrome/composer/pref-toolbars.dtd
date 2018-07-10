@@ -4,7 +4,7 @@
 
 <!ENTITY pref.toolbars.title    "Γραμμές εργαλείων">
 
-<!ENTITY composition.caption    "Εμφάνιση αυτών των κουμπιών στην εργαλειοθήκη σύνταξης:">
+<!ENTITY composition.caption    "Εμφάνιση αυτών των κουμπιών στη γραμμή εργαλείων σύνταξης:">
 
 <!ENTITY new.label              "Νέα">
 <!ENTITY open.label             "Άνοιγμα">
@@ -22,7 +22,7 @@
 <!ENTITY link.label             "Σύνδεσμος">
 <!ENTITY anchor.label           "Άγκυρα">
 
-<!ENTITY formatting.caption     "Εμφάνιση αυτών των κουμπιών στην εργαλειοθήκη μορφοποίησης:">
+<!ENTITY formatting.caption     "Εμφάνιση αυτών των κουμπιών στη γραμμή εργαλείων μορφοποίησης:">
 
 <!ENTITY smaller.label          "Μικρότερα">
 <!ENTITY larger.label           "Μεγαλύτερα">

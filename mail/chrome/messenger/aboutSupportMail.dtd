@@ -4,7 +4,7 @@
 
 <!ENTITY aboutSupport.appBasicsAppBuildID "ID έκδοσης εφαρμογής">
 
-<!ENTITY aboutSupport.accountsTitle "Λογαριασμοί αλληλογραφίας και ειδήσεων">
+<!ENTITY aboutSupport.accountsTitle "Λογαριασμοί email και ειδήσεων">
 <!ENTITY aboutSupport.showPrivateData.mainText "Να συμπεριλαμβάνονται ονόματα λογαριασμών">
 <!ENTITY aboutSupport.showPrivateData.explanationText "(πιθανώς ταυτοποιήσιμες πληροφορίες)">
 <!ENTITY aboutSupport.accountsID "Αναγνωριστικό">

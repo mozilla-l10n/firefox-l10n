@@ -11,7 +11,7 @@
 <!ENTITY text.label               "Κείμενο">
 <!ENTITY iconsBesideText.label    "Εικονίδια δίπλα στο Κείμενο">
 <!ENTITY useSmallIcons.label      "Χρήση Μικρών Εικονιδίων">
-<!ENTITY restoreDefaultSet.label  "Επαναφορά Προκαθορισμένου Σετ">
+<!ENTITY restoreDefaultSet.label  "Επαναφορά προεπιλεγμένου σετ">
 <!ENTITY addNewToolbar.label      "Προσθήκη νέας γραμμής εργαλείων">
 <!ENTITY saveChanges.label        "Έτοιμο">
 <!ENTITY undoChanges.label        "Ακύρωση Αλλαγών">

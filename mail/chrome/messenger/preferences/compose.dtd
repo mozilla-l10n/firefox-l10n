@@ -54,7 +54,7 @@
 <!ENTITY directoriesNone.label                 "Κανένας">
 <!ENTITY editDirectories.label                 "Επεξεργασία καταλόγων…">
 <!ENTITY editDirectories.accesskey             "Ε">
-<!ENTITY showAsDefault.label                   "Προκαθορισμένος κατάλογος εκκίνησης στο παράθυρο του βιβλίου διευθύνσεων:">
+<!ENTITY showAsDefault.label                   "Προεπιλεγμένος κατάλογος εκκίνησης στο παράθυρο του ευρετηρίου διευθύνσεων:">
 <!ENTITY showAsDefault.accesskey               "Ρ">
 <!ENTITY showAsDefaultLast.label               "Τελευταία χρησιμοποιημένος κατάλογος">
 
