@@ -562,7 +562,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Peuhah">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Peuhah bak Tab Baroe">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Peuhah lam Tab Barô">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
@@ -578,7 +578,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.accesskey     "R">
 
-<!ENTITY customizeMode.done "Bereh">
+<!ENTITY customizeMode.done "Seuleusoë">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
@@ -594,8 +594,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Cukeh">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Cukeh">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Cukèh">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Cukèh">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 
 
@@ -624,12 +624,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
-<!ENTITY pluginNotification.showAll.label "Peuleumah Bandum">
+<!ENTITY pluginNotification.showAll.label "Peuleumah Ban Mandum">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Peuijin Jinoe">
-<!ENTITY pluginActivateAlways.label "Peuijin ngen Ingat">
+<!ENTITY pluginActivateNow.label "Peuidin Jinoë">
+<!ENTITY pluginActivateAlways.label "Peuidin ngon Ingat">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -643,14 +643,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.day                     "24 jeum">
+<!ENTITY panicButton.view.day                     "24 jeuëm">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-<!ENTITY panicButton.view.forgetButton            "Tuwoe!">
+<!ENTITY panicButton.view.forgetButton            "Tuwo!">
 
 <!ENTITY panicButton.thankyou.buttonlabel         "Sabah!">
 
