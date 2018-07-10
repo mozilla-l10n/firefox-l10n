@@ -652,17 +652,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY panicButton.view.forgetButton            "Tuwo!">
 
-<!ENTITY panicButton.thankyou.buttonlabel         "Sabah!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Teurimông geunaséh!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Meurunoë lom bhah DRM…">
+<!ENTITY emeLearnMoreContextMenu.label            "Meurunoë leubèh lhôk bhaih DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.whatsnew.label "Kalon peu nyang baroe.">
+<!ENTITY updateAvailable.whatsnew.label "Kalon peuë nyang barô.">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
-<!ENTITY updateAvailable.cancelButton.label "Bek Jinoe">
+<!ENTITY updateAvailable.cancelButton.label "Bèk Jinoë">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 
-<!ENTITY updateManual.whatsnew.label "Kalon peu nyang baroe.">
+<!ENTITY updateManual.whatsnew.label "Kalon peuë nyang barô.">
 <!ENTITY updateManual.header.message "&brandShorterName; han jeut teu seubaroe keu versi paleng baroe.">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "Bek Jinoe">
