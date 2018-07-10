@@ -89,69 +89,69 @@
 <!ENTITY findTypeLinksCmd.accesskey "კ">
 
 <!ENTITY viewMenu.label					"ჩვენება"> 
-<!ENTITY viewMenu.accesskey               "v">
+<!ENTITY viewMenu.accesskey               "ვ">
 <!ENTITY viewToolbarsMenu.label				"ჩვენება/დამალვა"> 
-<!ENTITY viewToolbarsMenu.accesskey			"w"> 
-<!ENTITY showTaskbarCmd.label					"სტატუსის პანელი">  
-<!ENTITY showTaskbarCmd.accesskey				"S"> 
+<!ENTITY viewToolbarsMenu.accesskey			"ე"> 
+<!ENTITY showTaskbarCmd.label					"მდგომარეობის ზოლი">  
+<!ENTITY showTaskbarCmd.accesskey				"მ"> 
 
 <!ENTITY helpMenu.label					"დახმარება"> 
-<!ENTITY helpMenu.accesskey				"h"> 
+<!ENTITY helpMenu.accesskey				"დ"> 
 
-<!ENTITY helpTroubleshootingInfo.label      "თექმომსახურების ინფორმაცია">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
-<!ENTITY releaseCmd.label                   "ვერსიის დოკუმენტაცია">
-<!ENTITY releaseCmd.accesskey               "N">
-<!ENTITY helpSafeMode.label                 "ხელახლა გახსნა ამორთული მოდულებით">
-<!ENTITY helpSafeMode.accesskey             "R">
+<!ENTITY helpTroubleshootingInfo.label      "გაუმართაობის აღმოფხვრა">
+<!ENTITY helpTroubleshootingInfo.accesskey  "ღ">
+<!ENTITY releaseCmd.label                   "გამოშვების მონაცემები">
+<!ENTITY releaseCmd.accesskey               "მ">
+<!ENTITY helpSafeMode.label                 "ხელახლა გახსნა ამორთული დამატებებით">
+<!ENTITY helpSafeMode.accesskey             "ხ">
 <!ENTITY updateCmd.label                    "შემოწმება განახლებებზე…">
-<!ENTITY updateCmd.accesskey                "C">
+<!ENTITY updateCmd.accesskey                "შ">
 <!ENTITY aboutCmd.label					"&brandShortName; პროგრამის შესახებ">
-<!ENTITY aboutCmd.accesskey				"A">
+<!ENTITY aboutCmd.accesskey				"ბ">
 <!ENTITY aboutCommPluginsCmd.label			"მოდულების შესახებ">
-<!ENTITY aboutCommPluginsCmd.accesskey			"p">
+<!ENTITY aboutCommPluginsCmd.accesskey			"ო">
 
 <!ENTITY direct.label                                   "ხაზზე (პროქსი: არა)">
-<!ENTITY direct.accesskey                               "N">
+<!ENTITY direct.accesskey                               "ხ">
 <!ENTITY manual.label                                   "ხაზზე (პროქსი: მითითება)">
-<!ENTITY manual.accesskey                               "M">
+<!ENTITY manual.accesskey                               "მ">
 <!ENTITY pac.label                                      "ხაზზე (პროქსი: ავტო URL)">
-<!ENTITY pac.accesskey                                  "A">
-<!ENTITY wpad.label                                     "ხაზზე (პროქსი: ავტოაღმოჩენა)">
-<!ENTITY wpad.accesskey                                 "D">
+<!ENTITY pac.accesskey                                  "ვ">
+<!ENTITY wpad.label                                     "ხაზზე (პროქსი: თვითდადგენა)">
+<!ENTITY wpad.accesskey                                 "თ">
 <!ENTITY system.label                                   "ხაზზე (პროქსი: სისტემური პროქსი)">
-<!ENTITY system.accesskey                               "S">
+<!ENTITY system.accesskey                               "ტ">
 
 <!ENTITY proxy.label                                    "პროქსის გამართვა…">
-<!ENTITY proxy.accesskey                                "C">
+<!ENTITY proxy.accesskey                                "მ">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "ტექსტის მიმართულების გადართვა">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "მ">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY customizeToolbarContext.label            "მორგება…">
-<!ENTITY customizeToolbarContext.accesskey        "C">
+<!ENTITY customizeToolbarContext.accesskey        "ო">
 
 <!ENTITY customizeToolbar.toolbarmode.label       "ხელსაწყოთა ზოლის პარამეტრები">
-<!ENTITY customizeToolbar.toolbarmode.accesskey   "e">
-<!ENTITY customizeToolbar.iconsAndText.label      "პიქტოგრამები და ტექსტი">
-<!ENTITY customizeToolbar.iconsAndText.accesskey  "a">
-<!ENTITY customizeToolbar.icons.label             "პიქტოგრამები">
-<!ENTITY customizeToolbar.icons.accesskey         "o">
+<!ENTITY customizeToolbar.toolbarmode.accesskey   "ხ">
+<!ENTITY customizeToolbar.iconsAndText.label      "ხატულები და ტექსტი">
+<!ENTITY customizeToolbar.iconsAndText.accesskey  "უ">
+<!ENTITY customizeToolbar.icons.label             "ხატულები">
+<!ENTITY customizeToolbar.icons.accesskey         "ლ">
 <!ENTITY customizeToolbar.text.label              "ტექსტი">
-<!ENTITY customizeToolbar.text.accesskey          "T">
-<!ENTITY customizeToolbar.useSmallIcons.label     "პატარა პიქტოგრამები">
-<!ENTITY customizeToolbar.useSmallIcons.accesskey "s">
-<!ENTITY customizeToolbar.labelAlignEnd.label     "ტესტის ჩვენება პიქტოგრამებთან ერთად">
-<!ENTITY customizeToolbar.labelAlignEnd.accesskey "b">
-<!ENTITY customizeToolbar.useDefault.label        "ნაგულისხმები პარამეტრები">
-<!ENTITY customizeToolbar.useDefault.accesskey    "U">
+<!ENTITY customizeToolbar.text.accesskey          "ტ">
+<!ENTITY customizeToolbar.useSmallIcons.label     "პატარა ხატულები">
+<!ENTITY customizeToolbar.useSmallIcons.accesskey "პ">
+<!ENTITY customizeToolbar.labelAlignEnd.label     "ტესტის ჩვენება ხატულების გვერდით">
+<!ENTITY customizeToolbar.labelAlignEnd.accesskey "ვ">
+<!ENTITY customizeToolbar.useDefault.label        "ნაგულისხმევი პარამეტრები">
+<!ENTITY customizeToolbar.useDefault.accesskey    "ნ">
 
 <!-- Popup Blocked notification menu -->
 <!ENTITY allowPopups.accesskey        "p">
 <!ENTITY showPopupManager.label       "ფირნიშების მართვა">
-<!ENTITY showPopupManager.accesskey   "M">
+<!ENTITY showPopupManager.accesskey   "მ">
 <!ENTITY dontShowMessage.label        "ამ შეტყობინების დამალვა თუ ფირნიშები დაბლოკილია">
-<!ENTITY dontShowMessage.accesskey    "D">
+<!ENTITY dontShowMessage.accesskey    "დ">
 
 <!ENTITY syncToolbarButton.label "სინქრონიზაცია">
