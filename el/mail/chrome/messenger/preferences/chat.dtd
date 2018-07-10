@@ -35,7 +35,7 @@ sentence. -->
 <!ENTITY  getAttention.accesskey              "Φ">
 <!ENTITY  getAttentionMac.label               "Κίνηση του εικονιδίου στην μπάρα">
 <!ENTITY  getAttentionMac.accesskey           "κ">
-<!ENTITY  chatSound.accesskey                 "δ">
+<!ENTITY  chatSound.accesskey                 "χ">
 <!ENTITY  chatSound.label                     "Αναπαραγωγή ήχου">
 <!ENTITY  play.label                          "Αναπαραγωγή">
 <!ENTITY  play.accesskey                      "Α">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemJunk.label          "Ανεπιθύμητα">
-<!ENTITY itemPhishing.label      "Απάτες email">
+<!ENTITY itemPhishing.label      "Απάτες μέσω email">
 <!ENTITY itemPasswords.label     "Κωδικοί πρόσβασης">
 <!ENTITY itemAntiVirus.label     "Antivirus">
 
@@ -22,7 +22,7 @@
 <!ENTITY openJunkLog.label "Εμφάνιση αρχείου καταγραφής">
 <!ENTITY openJunkLog.accesskey "φ">
 <!ENTITY resetTrainingData.label "Επαναφορά δεδομένων εκμάθησης">
-<!ENTITY resetTrainingData.accesskey "χ">
+<!ENTITY resetTrainingData.accesskey "θ">
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "Το &brandShortName; μπορεί να αναλύει τα μηνύματα για πιθανές απάτες email, αναζητώντας κοινές πρακτικές που χρησιμοποιούνται για παραπλάνηση.">
@@ -37,7 +37,7 @@
 <!ENTITY useMasterPassword.accesskey    "ρ">
 <!ENTITY masterPassword.intro           "Ο κύριος κωδικός πρόσβασης προστατεύει όλους τους κωδικούς πρόσβασής σας, αλλά θα πρέπει να τον εισαγάγετε σε κάθε συνεδρία.">
 <!ENTITY changeMasterPassword.label     "Αλλαγή κύριου κωδικού πρόσβασης…">
-<!ENTITY changeMasterPassword.accesskey "γ">
+<!ENTITY changeMasterPassword.accesskey "β">
 <!ENTITY savedPasswords.label           "Αποθηκευμένοι κωδικοί πρόσβασης…">
 <!ENTITY savedPasswords.accesskey       "θ">
 
@@ -45,4 +45,3 @@
 <!ENTITY antiVirus.intro      "Το &brandShortName; μπορεί να διευκολύνει το λογισμικό προστασίας από ιούς στην ανάλυση των εισερχομένων σας για ιούς πριν την τοπική αποθήκευση.">
 <!ENTITY antiVirus.label      "Να επιτρέπεται στο λογισμικό προστασίας από ιούς η απομόνωση ξεχωριστών εισερχόμενων μηνυμάτων">
 <!ENTITY antiVirus.accesskey  "ρ">
-

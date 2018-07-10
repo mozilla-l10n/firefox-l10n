@@ -17,7 +17,7 @@
 <!ENTITY keepHistory.label "Απομνημόνευση ιστοσελίδων και συνδέσμων που έχω επισκεφθεί">
 <!ENTITY keepHistory.accesskey "ι">
 <!ENTITY acceptCookies.label "Αποδοχή cookies από ιστοσελίδες">
-<!ENTITY acceptCookies.accesskey "γ">
+<!ENTITY acceptCookies.accesskey "δ">
 <!ENTITY acceptThirdParty.pre.label "Αποδοχή cookies τρίτων:">
 <!ENTITY acceptThirdParty.pre.accesskey "τ">
 <!ENTITY acceptThirdParty.always.label "Πάντα">
