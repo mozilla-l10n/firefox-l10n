@@ -161,7 +161,7 @@
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Διεύθυνση">
 <!ENTITY paragraphAddressCmd.accesskey "θ">
-<!ENTITY paragraphPreformatCmd.label "Προμορφοποίηση">
+<!ENTITY paragraphPreformatCmd.label "Προ-μορφοποίηση">
 <!ENTITY paragraphPreformatCmd.accesskey "ρ">
 
 <!-- List menu items -->
