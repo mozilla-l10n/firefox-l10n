@@ -489,7 +489,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Teubiët &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Teubiet">
+<!ENTITY quitApplicationCmd.label       "Teubiët">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmd.key         "Q">
 
@@ -524,14 +524,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "Bereh">
+<!ENTITY editBookmark.done.label                     "Seuleusoë">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
 
-<!ENTITY identity.connectionFile "Miëng nyoë na bak komputer droëneuh.">
+<!ENTITY identity.connectionFile "Ônmiëng nyoë teukeubah lam komputer droëneuh.">
 
 <!-- Strings for connection state warnings. -->
 
