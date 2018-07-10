@@ -6,8 +6,8 @@
 
 <!ENTITY  startupAction.label         "&brandShortName; პროგრამის გახსნისას:">
 <!ENTITY  startupAction.accesskey     "s">
-<!ENTITY  startupOffline.label        "ჩათის ანგარიშის ამორთვა">
-<!ENTITY  startupConnectAuto.label    "ჩათის ანგარიშთან ავტომატური დაკავშირება">
+<!ENTITY  startupOffline.label        "სასაუბროს ანგარიშის ამორთვა">
+<!ENTITY  startupConnectAuto.label    "სასაუბროს ანგარიშთან ავტომატური დაკავშირება">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
