@@ -51,9 +51,9 @@
 <!ENTITY siteUrl.label                "Τοποθεσία δημοσίευσης (π.χ.: 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.accesskey            "δ">
 <!ENTITY siteUrl.tooltip              "Η διεύθυνση  FTP:// ή  HTTP:// που παρέχεται από τον ISP σας ή την υπηρεσία φιλοξενίας σελίδων.">
-<!ENTITY browseUrl.label              "Διεύθυνση HTTP της αρχικής σας σελίδας:(π.χ.: 'http://www.ricudis.com/myusername'):">
+<!ENTITY browseUrl.label              "Διεύθυνση HTTP της αρχικής σας σελίδας (π.χ.: 'http://www.myisp.com/myusername'):">
 <!ENTITY browseUrl.accesskey          "χ">
-<!ENTITY browseUrl.tooltip            "Η διεύθυνση  HTTP://  του αρχικού καταλόγου (δεν συμπεριλαμβάνετε το όνομα αρχείου)">
+<!ENTITY browseUrl.tooltip            "Η διεύθυνση HTTP:// του αρχικού καταλόγου (μην συμπεριλάβετε το όνομα αρχείου)">
 <!ENTITY username.label               "Όνομα χρήστη:">
 <!ENTITY username.accesskey           "μ">
 <!ENTITY username.tooltip             "Το όνομα χρήστη με το οποίο συνδέεστε με τον ISP σας ή την υπηρεσία φιλοξενίας ιστοσελίδων">

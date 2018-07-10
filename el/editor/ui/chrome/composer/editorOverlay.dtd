@@ -306,7 +306,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Εισαγωγή νέας άγκυρας ή επεξεργασία ιδιοτήτων επιλεγμένης άγκυρας">
 <!ENTITY TextColorButton.tooltip "Επιλογή χρώματος κειμένου">
 <!ENTITY BackgroundColorButton.tooltip "Επιλογή χρώματος παρασκηνίου">
-<!ENTITY throbber.tooltip "Μετάβαση στην αρχική σελίδα του &vendorShortName;">
+<!ENTITY throbber.tooltip "Μετάβαση στην αρχική σελίδα της &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Επιλογή χρώματος επισήμανσης κειμένου">
 
 <!-- Editor toolbar -->

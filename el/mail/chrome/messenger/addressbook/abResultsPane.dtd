@@ -26,8 +26,8 @@
 <!ENTITY PagerNumber.accesskey                 "P">
 <!ENTITY FaxNumber.label                       "Φαξ">
 <!ENTITY FaxNumber.accesskey                   "F">
-<!ENTITY HomePhone.label                       "Τηλέφωνο Οικίας">
-<!ENTITY HomePhone.accesskey                   "H">
+<!ENTITY HomePhone.label                       "Τηλέφωνο οικίας">
+<!ENTITY HomePhone.accesskey                   "Τ">
 <!ENTITY WorkPhone.label                       "Τηλέφωνο Εργασίας">
 <!ENTITY WorkPhone.accesskey                   "W">
 <!ENTITY ChatName.label                        "Όνομα συνομιλίας">

@@ -50,7 +50,7 @@
 <!ENTITY WorkPhone.label                "Εργασία:">
 <!ENTITY WorkPhone.accesskey            "k">
 <!ENTITY HomePhone.label                "Οικία:">
-<!ENTITY HomePhone.accesskey            "m">
+<!ENTITY HomePhone.accesskey            "κ">
 <!ENTITY FaxNumber.label                "Φαξ:">
 <!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Βομβητής:">
@@ -59,21 +59,21 @@
 <!ENTITY CellularNumber.accesskey       "b">
 
 <!ENTITY Home.tab                       "Ιδιωτικό">
-<!ENTITY Home.accesskey                 "P">
+<!ENTITY Home.accesskey                 "Ι">
 <!ENTITY HomeAddress.label              "Διεύθυνση:">
-<!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress.accesskey          "θ">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Πόλη:">
-<!ENTITY HomeCity.accesskey             "y">
-<!ENTITY HomeState.label                "Επαρχία/Διαμέρισμα:">
-<!ENTITY HomeState.accesskey            "S">
-<!ENTITY HomeZipCode.label              "Ταχυδρομικός Κωδικός:">
-<!ENTITY HomeZipCode.accesskey          "Z">
+<!ENTITY HomeCity.accesskey             "η">
+<!ENTITY HomeState.label                "Πολιτεία/Επαρχία:">
+<!ENTITY HomeState.accesskey            "Π">
+<!ENTITY HomeZipCode.label              "Ταχυδρομικός κώδικας:">
+<!ENTITY HomeZipCode.accesskey          "Τ">
 <!ENTITY HomeCountry.label              "Χώρα:">
-<!ENTITY HomeCountry.accesskey          "u">
+<!ENTITY HomeCountry.accesskey          "ρ">
 <!ENTITY HomeWebPage.label              "Ιστοσελίδα:">
-<!ENTITY HomeWebPage.accesskey          "e">
+<!ENTITY HomeWebPage.accesskey          "σ">
 <!ENTITY Birthday.label                 "Γενέθλια:">
 <!ENTITY Birthday.accesskey             "B">
 <!ENTITY In.label                       "">
@@ -141,7 +141,6 @@
 
 <!ENTITY Photo.tab                      "Φωτογραφία">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Επιλέξτε ένα από τα παρακάτω:">
 <!ENTITY GenericPhoto.label             "Γενική φωτογραφία">
 <!ENTITY GenericPhoto.accesskey         "G">
 <!ENTITY DefaultPhoto.label             "Προεπιλογή">
