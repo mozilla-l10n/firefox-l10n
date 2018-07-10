@@ -21,7 +21,7 @@
 <!ENTITY certmgr.periodofvalidity.label       "చెల్లుబాటు కాలం" >
 <!ENTITY certmgr.fingerprints.label           "వేలిముద్రలు">
 <!ENTITY certmgr.certdetail.title             "ధృవీకరణపత్రం వివరాలు">
-<!ENTITY certmgr.certdetail.cn                "సామూహికమైన నామము (CN)">
+<!ENTITY certmgr.certdetail.cn                "సాధారణ పేరు (CN)">
 <!ENTITY certmgr.certdetail.o                 "వ్యవస్థ">
 <!ENTITY certmgr.certdetail.ou                "వ్యవస్థ యూనిట్ (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "వరుస సంఖ్య">
@@ -35,7 +35,7 @@
 
 <!ENTITY certmgr.deletecert.title             "ధృవీకరణపత్రంను తొలగించు">
 
-<!ENTITY certmgr.certname                     "ధృవీకరణపత్రం నామము">
+<!ENTITY certmgr.certname                     "ధృవీకరణపత్రపు పేరు">
 <!ENTITY certmgr.certserver                   "సేవిక">
 <!ENTITY certmgr.override_lifetime            "జీవిత కాలం">
 <!ENTITY certmgr.tokenname                    "రక్షణ సాధనం">

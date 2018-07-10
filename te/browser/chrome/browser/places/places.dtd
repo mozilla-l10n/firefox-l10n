@@ -38,7 +38,7 @@
 <!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             "పునరుద్ధరించు">
 <!ENTITY cmd.restore2.accesskey         "R">
-<!ENTITY cmd.restoreFromFile.label      "ఫైల్ ఎంచుకోండి…">
+<!ENTITY cmd.restoreFromFile.label      "ఫైలును ఎంచుకోండి…">
 <!ENTITY cmd.restoreFromFile.accesskey  "C">
 
 <!ENTITY cmd.deleteDomainData.label     "ఈ సైటుని మర్చిపో">
@@ -99,6 +99,7 @@
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "తక్కువ">
 <!ENTITY detailsPane.less.accesskey "e">
+
 <!ENTITY detailsPane.selectAnItemText.description "ఒక అంశము యొక్క లక్షణములను చూసుటకు మరియు సరిచేయుటకు ఎంపికచేయి">
 
 <!ENTITY view.label               "చూడండి">
