@@ -17,7 +17,7 @@
 <!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
-<!ENTITY prefColumn.label "అభీష్టం నామము">
+<!ENTITY prefColumn.label "అభిరుచి పేరు">
 <!ENTITY lockColumn.label "స్థితి">
 <!ENTITY typeColumn.label "రకం">
 <!ENTITY valueColumn.label "విలువ">
