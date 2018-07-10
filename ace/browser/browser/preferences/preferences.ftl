@@ -707,6 +707,9 @@ collection-studies =
     .label = Peuidin { -brand-short-name } ji pasang dan ji peugöt kajian
 collection-studies-link = Kalön kajian { -brand-short-name }
 collection-browser-errors-link = Meurunoë lom
+collection-backlogged-crash-reports =
+    .label = Peuidin { -brand-short-name } i kirém lapuran crash backlogged meunyô neu
+    .accesskey = P
 collection-backlogged-crash-reports-link = Meurunoë lom
 
 ## Privacy Section - Security
@@ -715,6 +718,7 @@ collection-backlogged-crash-reports-link = Meurunoë lom
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Keuamanan
+security-browsing-protection = Peulindông Peukateun Leumiek nyang Meubahya dan Content Deceptive
 security-enable-safe-browsing =
     .label = Tham konten nyang meubaya ngon seumunguet
     .accesskey = T
@@ -722,6 +726,9 @@ security-enable-safe-browsing-link = Meurunoë lom
 security-block-downloads =
     .label = Tham donlod nyang meubaya
     .accesskey = T
+security-block-uncommon-software =
+    .label = Peuingat gata nibak peukakah leumiek nyang hana beasa dana hana tagalak
+    .accesskey = P
 
 ## Privacy Section - Certificates
 
