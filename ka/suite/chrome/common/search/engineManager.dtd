@@ -10,20 +10,20 @@
 <!ENTITY  columnLabel.keyword       "საკვანძო სიტყვა">
 
 <!-- Buttons -->
-<!ENTITY  up.label                  "ატანა">
-<!ENTITY  up.accesskey              "U">
-<!ENTITY  dn.label                  "ჩამოტანა">
-<!ENTITY  dn.accesskey              "D">
+<!ENTITY  up.label                  "აწევა">
+<!ENTITY  up.accesskey              "ა">
+<!ENTITY  dn.label                  "ჩამოწევა">
+<!ENTITY  dn.accesskey              "ჩ">
 <!ENTITY  remove.label              "მოცილება">
-<!ENTITY  remove.accesskey          "R">
-<!ENTITY  edit.label                "საკვანძო სიტყვის რედაქცია…">
-<!ENTITY  edit.accesskey            "t">
+<!ENTITY  remove.accesskey          "ც">
+<!ENTITY  edit.label                "საკვანძო სიტყვის ჩასწორება…">
+<!ENTITY  edit.accesskey            "ჩ">
 
 <!ENTITY  addEngine.label           "სხვა საძიებო სისტემები…">
-<!ENTITY  addEngine.accesskey       "A">
+<!ENTITY  addEngine.accesskey       "ს">
 
 <!ENTITY  enableSuggest.label       "შემოთავაზებათა ჩვენება">
-<!ENTITY  enableSuggest.accesskey   "S">
+<!ENTITY  enableSuggest.accesskey   "შ">
 
 <!ENTITY  restoreDefaults.label     "ნაგულისხმების აღდგენა">
-<!ENTITY  restoreDefaults.accesskey "e">
+<!ENTITY  restoreDefaults.accesskey "ნ">

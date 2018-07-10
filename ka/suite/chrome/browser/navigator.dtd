@@ -16,25 +16,25 @@
 
 <!ENTITY mainWindow.titleprivate "პირადი სეანსი">
 
-<!ENTITY editPageCmd.label "გვერდის რედაქცია">
-<!ENTITY editPageCmd.accesskey "E">
+<!ENTITY editPageCmd.label "გვერდის ჩასწორება">
+<!ENTITY editPageCmd.accesskey "ჩ">
 <!ENTITY editPageCmd.commandkey "e">
 
 <!ENTITY navbarCmd.label "გადასაადგილებელი ხელსაწყოთა ზოლი">
-<!ENTITY navbarCmd.accesskey "N">
+<!ENTITY navbarCmd.accesskey "გ">
 <!ENTITY bookmarksToolbarCmd.label     "სანიშნების ხელსაწყოთა ზოლი">
-<!ENTITY bookmarksToolbarCmd.accesskey "m">
+<!ENTITY bookmarksToolbarCmd.accesskey "ს">
 
 <!ENTITY closeWindow.label "სარკმლის დახურვა">
-<!ENTITY closeWindow.accesskey "W">
+<!ENTITY closeWindow.accesskey "ა">
 
-<!ENTITY minimizeButton.tooltip       "მინიმიზება">
+<!ENTITY minimizeButton.tooltip       "ჩაკეცვა">
 <!ENTITY restoreButton.tooltip        "აღდგენა">
 
 <!ENTITY feedsMenu.label "გამოწერა ამ გვერდზე">
-<!ENTITY feedsMenu.accesskey "S">
+<!ENTITY feedsMenu.accesskey "გ">
 
-<!ENTITY menuBar.tooltip                  "მენიუს პანელი">
+<!ENTITY menuBar.tooltip                  "მენიუს ზოლი">
 <!ENTITY bookmarksToolbar.tooltip         "სანიშნების ხელსაწყოთა ზოლი">
 <!ENTITY navigationToolbar.tooltip        "გადასაადგილებელი ხელსაწყოთა ზოლი">
 
