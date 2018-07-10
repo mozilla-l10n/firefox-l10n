@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -128,7 +120,7 @@ separate-profile-mode =
     .label = Permitir que o { -brand-short-name } e o Firefox sejam utilizados em simultâneo
 use-firefox-sync = Dica: Isto utiliza perfis separados. Utilize o { -sync-brand-short-name } para partilhar dados entre eles.
 get-started-not-logged-in = Iniciar sessão no { -sync-brand-short-name }…
-get-started-configured = Abrir as preferências do { -sync-brand-short-name }
+get-started-configured = Abrir preferências do { -sync-brand-short-name }
 always-check-default =
     .label = Verificar sempre se o { -brand-short-name } é o seu navegador predefinido
     .accesskey = V
@@ -137,20 +129,11 @@ is-not-default = O { -brand-short-name } não é o seu navegador predefinido
 set-as-my-default-browser =
     .label = Tornar predefinido…
     .accesskey = d
-startup-page = Quando o { -brand-short-name } iniciar
-    .accesskey = i
-startup-user-homepage =
-    .label = Mostrar a sua página inicial
-startup-blank-page =
-    .label = Mostrar uma página em branco
-startup-prev-session =
-    .label = Mostrar as suas janelas e separadores abertos da última vez
 startup-restore-previous-session =
     .label = Restaurar sessão anterior
     .accesskey = s
 disable-extension =
     .label = Desativar extensão
-home-page-header = Página inicial
 tabs-group-header = Separadores
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab permuta em ciclo os separadores pela ordem dos mais recentemente utilizados
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Saber mais
 update-application-title = Atualizações do { -brand-short-name }
 update-application-description = Mantenha o { -brand-short-name } atualizado para o melhor desempenho, estabilidade, e segurança.
-update-application-info = Versão { $version } <a>Novidades</a>
 update-application-version = Versão { $version } <a data-l10n-name="learn-more">Novidades</a>
 update-history =
     .label = Mostrar histórico de atualizações…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limite de processos de conteúdo
     .accesskey = L
 performance-limit-content-process-enabled-desc = Processos de conteúdo adicionais podem melhorar o desempenho ao utilizar múltiplos separadores, mas também irá consumir mais memória.
-performance-limit-content-process-disabled-desc = Modificar o número de processos de conteúdo é apenas possível com o multi-processo do { -brand-short-name }. <a>Saber como verificar se o multi-processo está ativado</a>
 performance-limit-content-process-blocked-desc = Modificar o número de processos de conteúdo é apenas possível com o multi-processo do { -brand-short-name }. <a data-l10n-name="learn-more">Saber como verificar se o multi-processo está ativado</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
-restore-default =
-    .label = Restaurar predefinição
-    .accesskey = R
 
 ## Search Section
 

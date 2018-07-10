@@ -149,7 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Iniciar sessão no &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Abrir as preferências do &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Abrir preferências do &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Religar ao &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verificar a sua conta">
 
@@ -842,7 +842,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Inicie sessão para ver uma lista de separadores dos seus outros dispositivos.">
 <!ENTITY syncedTabs.sidebar.unverified.label   "A sua conta necessita de ser verificada.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Sem separadores abertos">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Abrir as preferências do &syncBrand.shortName.label;">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Abrir preferências do &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ative a sincronização de separadores para ver uma lista de separadores dos seus outros dispositivos.">
@@ -946,7 +946,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Ativar proteção">
 <!ENTITY trackingProtection.block2.accesskey "e">
 
-<!ENTITY trackingProtection.tooltip "Abrir preferências de proteção contra monitorização">
+<!ENTITY trackingProtection.tooltip "Abrir preferências da proteção contra monitorização">
 <!ENTITY trackingProtection.detectedBlocked4 "O &brandShortName; está a bloquear partes desta página que podem monitorizar a sua navegação.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "O &brandShortName; detetou elementos que podem monitorizar a sua navegação.">
 <!ENTITY trackingProtection.detectedException "O &brandShortName; detetou elementos que podem monitorizar a sua navegação. Tem a proteção desativada para este site.">
