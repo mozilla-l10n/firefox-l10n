@@ -284,22 +284,22 @@
 <!ENTITY smiley3Cmd.label "Κλείσιμο ματιού">
 <!ENTITY smiley4Cmd.label "Γλώσσα έξω">
 <!ENTITY smiley5Cmd.label "Γέλιο">
-<!ENTITY smiley6Cmd.label "Ντροπιασμένος">
-<!ENTITY smiley7Cmd.label "Αναποφάσιστος">
+<!ENTITY smiley6Cmd.label "Ντροπή">
+<!ENTITY smiley7Cmd.label "Αναποφασιστηκότητα">
 <!ENTITY smiley8Cmd.label "Έκπληξη">
 <!ENTITY smiley9Cmd.label "Φιλί">
 <!ENTITY smiley10Cmd.label "Κραυγή">
 <!ENTITY smiley11Cmd.label "Κουλ">
-<!ENTITY smiley12Cmd.label "Λεφτά-στόμα">
-<!ENTITY smiley13Cmd.label "Πόδι-στο-στόμα">
-<!ENTITY smiley14Cmd.label "Αθώος">
+<!ENTITY smiley12Cmd.label "Λεφτά στο στόμα">
+<!ENTITY smiley13Cmd.label "Πόδι στο στόμα">
+<!ENTITY smiley14Cmd.label "Αθωότητα">
 <!ENTITY smiley15Cmd.label "Κλάμα">
-<!ENTITY smiley16Cmd.label "Σφραγισμένα-χείλη">
+<!ENTITY smiley16Cmd.label "Σφραγισμένα χείλη">
 
 <!-- Message Pane Context Menu -->
-<!ENTITY spellCheckNoSuggestions.label "Δεν υπάρχουν προτάσεις">
-<!ENTITY spellCheckIgnoreWord.label "Αγνόηση λέξης">
-<!ENTITY spellCheckIgnoreWord.accesskey "γ">
+<!ENTITY spellCheckNoSuggestions.label "Δεν βρέθηκαν προτάσεις">
+<!ENTITY spellCheckIgnoreWord.label "Παράβλεψη λέξης">
+<!ENTITY spellCheckIgnoreWord.accesskey "ψ">
 <!ENTITY spellCheckAddToDictionary.label "Προσθήκη στο λεξικό">
 <!ENTITY spellCheckAddToDictionary.accesskey "ξ">
 <!ENTITY undo.label "Αναίρεση">
