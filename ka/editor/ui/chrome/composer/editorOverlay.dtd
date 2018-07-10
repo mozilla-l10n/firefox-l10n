@@ -337,10 +337,10 @@
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "ჩასმა">
-<!ENTITY insertTOC.accesskey      "i">
+<!ENTITY insertTOC.accesskey      "ჩ">
 <!ENTITY updateTOC.label          "განახლება">
-<!ENTITY updateTOC.accesskey      "u">
+<!ENTITY updateTOC.accesskey      "გ">
 <!ENTITY removeTOC.label          "მოცილება">
-<!ENTITY removeTOC.accesskey      "r">
+<!ENTITY removeTOC.accesskey      "ც">
 <!ENTITY tocMenu.label            "სარჩევი…">
-<!ENTITY tocMenu.accesskey        "b">
+<!ENTITY tocMenu.accesskey        "ს">
