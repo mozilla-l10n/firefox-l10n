@@ -235,7 +235,7 @@
 <!ENTITY threadsWithUnreadCmd.accesskey "χ">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Επιλεγμένες αλληλουχίες με μη αναγνωσμένα">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "π">
-<!ENTITY ignoredThreadsCmd.label "Να αγνοούνται οι αλληλουχίες">
+<!ENTITY ignoredThreadsCmd.label "Νήματα που παραβλέπονται">
 <!ENTITY ignoredThreadsCmd.accesskey "γ">
 
 <!ENTITY headersMenu.label "Κεφαλίδες">
@@ -372,7 +372,7 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Επεξεργασία πρόχειρου μηνύματος">
 <!ENTITY editDraftMsgCmd.accesskey "χ">
-<!ENTITY editTemplateMsgCmd.label "Επεξεργασία Προτύπου">
+<!ENTITY editTemplateMsgCmd.label "Επεξεργασία πρότυπου">
 <!ENTITY editTemplateMsgCmd.accesskey "Π">
 <!ENTITY newMsgFromTemplateCmd.label "Νέο μήνυμα βάσει προτύπου">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
@@ -613,17 +613,17 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Εμφάνιση απομακρυσμένου περιεχομένου στο μήνυμα">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "Μ">
-<!ENTITY editRemoteContentSettings.label "Επεξεργασία ρυθμίσεων για το απομακρυσμένο περιεχόμενο…">
-<!ENTITY editRemoteContentSettings.accesskey "O">
-<!ENTITY editRemoteContentSettingsUnix.label "Επεξεργασία ρυθμίσεων για το απομακρυσμένο περιεχόμενο…">
+<!ENTITY editRemoteContentSettings.label "Επεξεργασία επιλογών απομακρυσμένου περιεχομένου…">
+<!ENTITY editRemoteContentSettings.accesskey "Ε">
+<!ENTITY editRemoteContentSettingsUnix.label "Επεξεργασία προτιμήσεων απομακρυσμένου περιεχομένου…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "Ο">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Αγνόηση προειδοποίησης για το μήνυμα">
 <!ENTITY phishingOptionIgnore.accesskey "ν">
-<!ENTITY phishingOptionSettings.label "Επεξεργασία ρυθμίσεων για τον εντοπισμό απάτης…">
+<!ENTITY phishingOptionSettings.label "Επεξεργασία επιλογών ανίχνευσης απάτης…">
 <!ENTITY phishingOptionSettings.accesskey "π">
-<!ENTITY phishingOptionSettingsUnix.label "Επεξεργασία ρυθμίσεων για τον εντοπισμό απάτης…">
+<!ENTITY phishingOptionSettingsUnix.label "Επεξεργασία προτιμήσεων ανίχνευσης απάτης…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "π">
 
 <!-- AppMenu Popup -->
@@ -766,7 +766,7 @@
 <!ENTITY contextEditMsgAsNew.label "Τροποποίηση ως νέου">
 <!ENTITY contextEditMsgAsNew.accesskey "ω">
 <!ENTITY contextEditDraftMsg.label "Τροποποίηση πρόχειρου μηνύματος">
-<!ENTITY contextEditTemplate.label "Επεξεργασία Προτύπου">
+<!ENTITY contextEditTemplate.label "Επεξεργασία πρότυπου">
 <!ENTITY contextEditTemplate.accesskey "Π">
 <!ENTITY contextArchive.label "Αρχειοθέτηση">
 <!ENTITY contextArchive.accesskey "χ">
@@ -804,9 +804,9 @@
      Watch Thread. Localizers can pick a suitable key
   -->
 <!ENTITY contextWatchThreadMenu.accesskey "">
-<!ENTITY contextSaveAs.label "Αποθήκευση ως...">
+<!ENTITY contextSaveAs.label "Αποθήκευση ως…">
 <!ENTITY contextSaveAs.accesskey "σ">
-<!ENTITY contextPrint.label "Εκτύπωση...">
+<!ENTITY contextPrint.label "Εκτύπωση…">
 <!ENTITY contextPrint.accesskey "π">
 <!ENTITY contextPrintPreview.label "Προεπισκόπηση εκτύπωσης">
 <!ENTITY contextPrintPreview.accesskey "ε">
@@ -873,7 +873,7 @@
      This is actually the key used for the global message search box; we have
      not changed
   -->
-<!ENTITY quickSearchCmd.key "κ">
+<!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
      This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
@@ -898,7 +898,7 @@
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Προσθήκη στο ευρετήριο ...">
+<!ENTITY AddToAddressBook.label "Προσθήκη στο ευρετήριο διευθύνσεων…">
 <!ENTITY AddToAddressBook.accesskey "σ">
 <!ENTITY AddDirectlyToAddressBook.label "Προσθήκη στο ευρετήριο">
 <!ENTITY AddDirectlyToAddressBook.accesskey "υ">
@@ -918,19 +918,19 @@
 <!ENTITY CopyNewsgroupName.accesskey "γ">
 <!ENTITY CopyNewsgroupURL.label "Αντιγραφή URL ομάδας συζητήσεων">
 <!ENTITY CopyNewsgroupURL.accesskey "Τ">
-<!ENTITY CreateFilterFrom.label "Δημιουργία φίλτρου από">
+<!ENTITY CreateFilterFrom.label "Δημιουργία φίλτρου από…">
 <!ENTITY CreateFilterFrom.accesskey "φ">
 <!ENTITY reportPhishingURL.label "Αναφορά email απάτης">
 <!ENTITY reportPhishingURL.accesskey "φ">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Προσθήκη λεξικών...">
+<!ENTITY spellAddDictionaries.label "Προσθήκη λεξικών…">
 <!ENTITY spellAddDictionaries.accesskey "θ">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Αποθήκευση δεσμού ως...">
+<!ENTITY saveLinkAsCmd.label "Αποθήκευση συνδέσμου ως…">
 <!ENTITY saveLinkAsCmd.accesskey "δ">
-<!ENTITY saveImageAsCmd.label "Αποθήκευση εικόνας ως">
+<!ENTITY saveImageAsCmd.label "Αποθήκευση εικόνας ως…">
 <!ENTITY saveImageAsCmd.accesskey "ω">
 <!ENTITY copyLinkCmd.label "Αντιγραφή τοποθεσίας συνδέσμου">
 <!ENTITY copyLinkCmd.accesskey "δ">
