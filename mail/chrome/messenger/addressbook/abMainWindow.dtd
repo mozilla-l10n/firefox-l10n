@@ -243,4 +243,4 @@ because displayed names don't have the comma in between. -->
 <!ENTITY minimizeWindow.label                           "Ελαχιστοποίηση">
 <!ENTITY minimizeWindow.key                             "m">
 <!ENTITY bringAllToFront.label                          "Μεταφορά όλων μπροστά">
-<!ENTITY zoomWindow.label                               "Μεγέθυνση">
+<!ENTITY zoomWindow.label                               "Ζουμ">

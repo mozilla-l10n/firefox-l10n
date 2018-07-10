@@ -26,5 +26,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Μεγέθυνση μόνο του κειμένου">
 <!ENTITY fullZoomToggleCmd.accesskey    "ο">
-<!ENTITY fullZoom.label                 "Μεγέθυνση">
-<!ENTITY fullZoom.accesskey             "θ">
+<!ENTITY fullZoom.label                 "Ζουμ">
+<!ENTITY fullZoom.accesskey             "Ζ">
