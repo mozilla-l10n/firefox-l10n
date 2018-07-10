@@ -675,7 +675,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Peu-udép keulayi untôk seubarô  &brandShorterName;">
 
-<!ENTITY newTabControlled.header.message "Tab Baroe Droe kameu ubah.">
+<!ENTITY newTabControlled.header.message "Tab Barô Droëneuh ka meu-ubah.">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.disableButton.label "Pumaté Èkstènsi">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
