@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
@@ -27,10 +27,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.width            "48em">
 <!ENTITY  window.macWidth         "50em">
 
-<!ENTITY importTitle.label        "Οδηγός Εισαγωγής Αλληλογραφίας του &brandShortName; ">
+<!ENTITY importTitle.label        "Οδηγός εισαγωγής του &brandShortName;">
 <!ENTITY importShortDesc.label    "Εισαγωγή αλληλογραφίας, ευρετήριου διευθύνσεων και φίλτρων από άλλα προγράμματα">
 
-<!ENTITY importDescription1.label "Αυτός ο οδηγός θα εισάγει μηνύματα. εγγραφές ευρετηρίων, προτιμήσεις και φίλτρα από άλλα προγράμματα αλληλογραφίας και τυποποιημένες μορφές ευρετηρίων διευθύνσεων στον  &brandShortName;. ">
+<!ENTITY importDescription1.label "Αυτός ο οδηγός θα εισαγάγει μηνύματα email, καταχωρήσεις ευρετηρίων διευθύνσεων, εγγραφές ροών, προτιμήσεις και/ή φίλτρα από άλλα προγράμματα email και κοινές μορφές ευρετηρίων διευθύνσεων στο &brandShortName;.">
 <!ENTITY importDescription2.label "Όταν γίνει η εισαγωγή θα είναι δυνατή η πρόσβαση σε αυτά μέσα από την Αλληλογραφία ή και το Ευρετήριο Διευθύνσεων του &brandShortName; ">
 
 <!ENTITY selectDescription.label  "Επιλέξτε το πρόγραμμα από το οποίο επιθυμείτε να γίνει η εισαγωγή:">
