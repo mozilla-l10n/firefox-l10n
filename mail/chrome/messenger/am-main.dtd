@@ -4,7 +4,7 @@
 
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "Οδηγός λογαριασμού">
+<!ENTITY accountTitle.label "Ρυθμίσεις λογαριασμού">
 <!ENTITY accountName.label "Όνομα λογαριασμού:">
 <!ENTITY accountName.accesskey "ν">
 <!ENTITY identityTitle.label "Ταυτότητα">
