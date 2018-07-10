@@ -35,6 +35,18 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Isara ang Ibang Tabs">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+<!ENTITY  closeSelectedTabs.accesskey        "S">
+
+<!-- Pin Tab and Pin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  pinSelectedTabs.accesskey          "P">
+<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  unpinSelectedTabs.accesskey        "b">
+<!-- Reload Tab and Reload Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadSelectedTabs.accesskey       "R">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -54,6 +66,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Queued (offline)">
 <!ENTITY  moveToNewWindow.label              "Pumunta sa Bagong Window">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "I-Bookmark ang Lahat ng mga Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Buksang Muli ang Isinarang Tab">
@@ -127,7 +140,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Ipakita ang Lahat ng Mga Tab">
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Mag Sign in sa &syncBrand.shortName.label;">
@@ -187,10 +199,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Iba pang Bookmarks">
 <!ENTITY mobileBookmarksCmd.label "Mga Mobile bookmark ">
 <!ENTITY bookmarksToolbarChevron.tooltip "Magpakita ng karagdagang mga bookmark">
-<!ENTITY showRecentlyBookmarked.label     "Ipakita ang mga Nakaraang Bookmarked ">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "I-hide ang mga Nakaraang Bookmarked ">
-<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "Bumalik">
 <!ENTITY backCmd.accesskey            "B">
@@ -230,7 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Isalin ang pahina na ito">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Pangasiwaan ang pahinang pagsasalin">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Pamahalaan ang paggamit ng DRM software">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Buksan ang MIDI panel">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Hinarangan mo ang iyong camera para sa website na ito.">
@@ -241,7 +248,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Na-block mo ang paulit-ulit na imbakan para sa website na ito.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Hinarangan mo ang mga pop-up sa website na ito.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Na-block mo ang data extraction ng canvas para sa website na ito.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Na-block mo ang website na ito mula sa paggamit ng Adobe Flash plugin.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Na-block mo ang access sa MIDI para sa website na ito.">
 
@@ -251,6 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Home">
+
 
 <!ENTITY bookmarksButton.label          "Mga bookmark">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -268,7 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Magdagdag ng Mga Bookmark sa Menu sa Toolbar">
 <!ENTITY removeBookmarksMenu.label          "Alisin ang Bookmarks Menu mula sa Toolbar">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -300,10 +307,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspect Element">
 <!ENTITY inspectContextMenu.accesskey "I">
 
+
 <!ENTITY fileMenu.label         "File">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Bagong Lalagyanan ng Tab">
 <!ENTITY newUserContext.accesskey         "B">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Bagong Window">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -385,11 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "I-on ang pag-sync ng tab upang tingnan ang isang listahan ng mga tab mula sa iyong iba pang mga device.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "I-sync ang Preferences">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Buksan ang Mga Kagustuhan sa Pag-sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Mag-sign in upang tingnan ang isang listahan ng mga tab mula sa iyong iba pang mga device.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ang iyong account ay kailangang ma-verify.">
@@ -407,8 +415,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "I-dagdag sa Overflow Menu">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Ilipat sa Toolbar">
@@ -420,6 +427,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Ilipat sa Menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "I-pin sa Overflow Menu">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "I-unpin mula sa Overflow Menu">
@@ -430,6 +440,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Magdagdag ng Higit pang Mga Item...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
+
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -750,6 +763,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Tapos na">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
+
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Seguridad ng Site">
@@ -791,9 +806,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Karagdagang Impormasyon">
 
+
 <!ENTITY identity.permissions "Pahintulot">
 <!ENTITY identity.permissionsEmpty "Hindi mo ipinagkaloob ang site na ito anumang espesyal na pahintulot.">
 <!ENTITY identity.permissionsReloadHint "Maaaring kailangan mong i-reload ang pahina para mag-aplay ang mga pagbabago.">
+
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -910,6 +927,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Paganahin ang protection">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.accesskey "D">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+
 <!ENTITY pluginNotification.showAll.label "Ipakita ang lahat ">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
@@ -981,12 +1008,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Mag-restart para ma-update &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Pinalitan ng isang extension ang pahinang iyong nakikita tuwing nagbubukas ng Bagong Tab. Maaari mong ibalik ang iyong settings kung hindi mo nais ang pagbabagong ito.">
 <!ENTITY newTabControlled.header.message "Ang iyong Bagong Tab ay nagbago.">
 <!ENTITY newTabControlled.keepButton.label "Panatilihin ang Mga Pagbabago">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.restoreButton.label "Ibalik ang Mga Setting">
-<!ENTITY newTabControlled.restoreButton.accesskey "R">
+
+
 
 <!ENTITY pageActionButton.tooltip "Page actions">
 <!ENTITY pageAction.addToUrlbar.label "Idagdag sa Address Bar">
@@ -997,6 +1023,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Ipadala ang Tab sa Device">
 <!ENTITY sendToDevice.syncNotReady.label "Nag-sysync ng Devices…">
+
 
 <!ENTITY libraryButton.tooltip "Tingnan ang kasaysayan, naka-save na mga bookmark, at higit pa">
 
