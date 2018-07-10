@@ -4,7 +4,7 @@
 
 <!ENTITY emailSectionHdr.label        "E-mail">
 <!ENTITY readMsgsLink.label           "Ανάγνωση μηνυμάτων">
-<!ENTITY composeMsgLink.label         "Σύνταξη ενός νέου μηνύματος">
+<!ENTITY composeMsgLink.label         "Σύνταξη νέου μηνύματος">
 
 <!ENTITY newsSectionHdr.label         "Ομάδες συζητήσεων">
 <!ENTITY subscribeNewsLink.label      "Διαχείριση ομάδων συζήτησης">
@@ -20,7 +20,7 @@
 <!ENTITY settingsLink.label           "Προβολή ρυθμίσεων λογαριασμού">
 <!ENTITY setupNewAcct.label           "Ρύθμιση λογαριασμού:">
 
-<!ENTITY advFeaturesSectionHdr.label  "Ειδικές λειτουργίες">
+<!ENTITY advFeaturesSectionHdr.label  "Προηγμένες λειτουργίες">
 <!ENTITY searchMsgsLink.label         "Αναζήτηση μηνυμάτων">
 <!ENTITY filtersLink.label            "Διαχείριση φίλτρων μηνυμάτων">
 <!ENTITY junkSettings.label           "Ρυθμίσεις ανεπιθύμητης αλληλογραφίας">

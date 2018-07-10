@@ -185,8 +185,8 @@
 <!ENTITY bodyTextCmd.label "Κύριος μέρος κειμένου">
 <!ENTITY bodyTextCmd.accesskey "μ">
 <!-- isn't used in menu now, but may be added in future -->
-<!ENTITY advancedPropertiesCmd.label "Προχωρημένες ιδιότητες">
-<!ENTITY advancedPropertiesCmd.accesskey "χ">
+<!ENTITY advancedPropertiesCmd.label "Προηγμένες ιδιότητες">
+<!ENTITY advancedPropertiesCmd.accesskey "γ">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Στοίχιση">
