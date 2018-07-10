@@ -11,6 +11,8 @@
 
 <!ENTITY reloadTab.label                     "Odśwież kartę" >
 <!ENTITY reloadTab.accesskey                 "d" >
+<!ENTITY reloadSelectedTabs.label "Odśwież zaznaczone karty">
+<!ENTITY reloadSelectedTabs.accesskey "d">
 <!ENTITY reloadAllTabs.label                 "Odśwież wszystkie karty" >
 <!ENTITY reloadAllTabs.accesskey             "w" >
 <!ENTITY duplicateTab.label "Duplikuj kartę">
