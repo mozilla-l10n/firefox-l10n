@@ -185,8 +185,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "თქვენს მიმთითებელს აკონტროლებს. კონტროლის დასაბრუნებლად დააჭირეთ Esc ღილაკს.">
-<!ENTITY pointerlockWarning.generic.label "ეს დოკუმენტი მიმთითებლს აკონტროლებს. კონტროლის დასაბრუნებლად დააჭირეთ Esc ღილაკს.">
+<!ENTITY pointerlockWarning.afterDomain.label "მართავს თქვენს მაჩვენებელს. მართვის დასაბრუნებლად დააჭირეთ Esc ღილაკს.">
+<!ENTITY pointerlockWarning.generic.label "ეს დოკუმენტი მართავს თქვენს მაჩვენებელს. მართვის დასაბრუნებლად დააჭირეთ Esc ღილაკს.">
 
 <!ENTITY closeWindow.label "ფანჯრის დახურვა">
 <!ENTITY closeWindow.accesskey "ხ">
