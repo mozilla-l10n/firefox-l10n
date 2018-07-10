@@ -663,17 +663,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 
 <!ENTITY updateManual.whatsnew.label "Kalon peuë nyang barô.">
-<!ENTITY updateManual.header.message "&brandShorterName; han jeut teu seubaroe keu versi paleng baroe.">
+<!ENTITY updateManual.header.message "&brandShorterName; hanjeuët seubarô keu vèrsi paléng barô.">
 <!ENTITY updateManual.acceptButton.accesskey "D">
-<!ENTITY updateManual.cancelButton.label "Bek Jinoe">
+<!ENTITY updateManual.cancelButton.label "Bèk Jinoë">
 <!ENTITY updateManual.cancelButton.accesskey "N">
 
-<!ENTITY updateRestart.header.message2 "Peu udep klayi keu teu seubaroe &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "Peu udep klayi ngen Peubalek">
+<!ENTITY updateRestart.header.message2 "Peu-udép keulayi untôk seubarô &brandShorterName;.">
+<!ENTITY updateRestart.acceptButton.label "Peu-udép keulayi deungon Peugisa">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "Bek Jinoe">
+<!ENTITY updateRestart.cancelButton.label "Bèk Jinoë">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label2 "Peu udep klayi keu teu seubaroe &brandShorterName;">
+<!ENTITY updateRestart.panelUI.label2 "Peu-udép keulayi untôk seubarô  &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Tab Baroe Droe kameu ubah.">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
