@@ -601,12 +601,12 @@
 <!ENTITY identity.enableMixedContentBlocking.accesskey "W">
 <!ENTITY identity.disableMixedContentBlocking.label "Tymczasowo wyłącz ochronę">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "T">
-<!ENTITY identity.learnMore "Więcej informacji">
+<!ENTITY identity.learnMore "Więcej informacji">
 
 <!ENTITY identity.removeCertException.label "Usuń wyjątek">
 <!ENTITY identity.removeCertException.accesskey "U">
 
-<!ENTITY identity.moreInfoLinkText2 "Więcej informacji…">
+<!ENTITY identity.moreInfoLinkText2 "Więcej informacji…">
 <!ENTITY identity.clearSiteData "Wyczyść ciasteczka i dane stron…">
 <!ENTITY identity.permissions "Uprawnienia">
 <!ENTITY identity.permissionsEmpty "Strona korzysta z domyślnych uprawnień.">
@@ -752,7 +752,7 @@
 <!ENTITY panicButton.thankyou.msg2 "Bezpiecznego przeglądania!">
 <!ENTITY panicButton.thankyou.buttonlabel "Dzięki!">
 
-<!ENTITY emeLearnMoreContextMenu.label "Więcej informacji o DRM…">
+<!ENTITY emeLearnMoreContextMenu.label "Więcej informacji o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
 
 <!ENTITY updateAvailable.message "Uaktualnij program &brandShorterName; dla szybkości i bezpieczeństwa.">
