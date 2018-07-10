@@ -71,11 +71,11 @@
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Επιλογή μεγέθους γραμματοσειράς">
-<!ENTITY decreaseFontSize.label "Μικρότερη">
+<!ENTITY decreaseFontSize.label "Μικρότερα">
 <!ENTITY decreaseFontSize.accesskey "ρ">
 <!ENTITY decrementFontSize.key "-">
 <!ENTITY decrementFontSize.key2 "_"> <!-- < is above this key on many keyboards -->
-<!ENTITY increaseFontSize.label "Μεγαλύτερη">
+<!ENTITY increaseFontSize.label "Μεγαλύτερα">
 <!ENTITY increaseFontSize.accesskey "γ">
 <!ENTITY incrementFontSize.key "+">
 <!ENTITY incrementFontSize.key2 "=."> <!-- > is above this key on many keyboards -->
@@ -84,11 +84,11 @@
 <!ENTITY fontSizeMenu.accesskey "θ">
 <!ENTITY size-tinyCmd.label "Μικροσκοπικά">
 <!ENTITY size-tinyCmd.accesskey "ι">
-<!ENTITY size-smallCmd.label "μικρά">
+<!ENTITY size-smallCmd.label "Μικρά">
 <!ENTITY size-smallCmd.accesskey "μ">
-<!ENTITY size-mediumCmd.label "μεσαίο">
+<!ENTITY size-mediumCmd.label "Μεσαία">
 <!ENTITY size-mediumCmd.accesskey "σ">
-<!ENTITY size-largeCmd.label "μεγάλο">
+<!ENTITY size-largeCmd.label "Μεγάλα">
 <!ENTITY size-largeCmd.accesskey "λ">
 <!ENTITY size-extraLargeCmd.label "Πολύ μεγάλα">
 <!ENTITY size-extraLargeCmd.accesskey "π">

@@ -55,44 +55,44 @@
 <!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
 <!ENTITY printPreviewCmd.accesskey "ρ">
 <!ENTITY printCmd.label "Εκτύπωση...">
-<!ENTITY printCmd.key "Κ">
-<!ENTITY printCmd.accesskey "π">
+<!ENTITY printCmd.key "κ">
+<!ENTITY printCmd.accesskey "P">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Επεξεργασία">
 <!ENTITY editMenu.accesskey "ξ">
 <!ENTITY undoCmd.label "Αναίρεση">
-<!ENTITY undoCmd.key "Α">
+<!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "ν">
 <!ENTITY redoCmd.label "Επανάληψη">
-<!ENTITY redoCmd.key "Ε">
+<!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "ρ">
 <!ENTITY cutCmd.label "Αποκοπή">
-<!ENTITY cutCmd.key "Χ">
+<!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "π">
 <!ENTITY copyCmd.label "Αντιγραφή">
-<!ENTITY copyCmd.key "Ψ">
+<!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "γ">
 <!ENTITY pasteCmd.label "Επικόλληση">
-<!ENTITY pasteCmd.key "Ω">
+<!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "π">
-<!ENTITY pasteNoFormattingCmd.key "Ω">
-<!ENTITY pasteAsQuotationCmd.key "ο">
+<!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "δ">
 <!ENTITY deleteCmd.label "Διαγραφή">
 <!ENTITY deleteCmd.accesskey "Δ">
 <!ENTITY editRewrapCmd.label "Aναδίπλωση">
-<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.key "Α">
 <!ENTITY renameAttachmentCmd.label "Μετονομασία συνημμένου…">
 <!ENTITY renameAttachmentCmd.accesskey "τ">
 <!ENTITY reorderAttachmentsCmd.label "Επανακατάταξη Συνημμένων…">
 <!ENTITY reorderAttachmentsCmd.accesskey "π">
 <!ENTITY reorderAttachmentsCmd.key "χ">
-<!ENTITY toggleAttachmentPaneCmd.label "Πίνακας Συνημμένων">
+<!ENTITY toggleAttachmentPaneCmd.label "Πίνακας συνημμένων">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
-<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
+<!ENTITY toggleAttachmentPaneCmd.accesskey "μ">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
      With OS-specific access modifier, this defines the shortcut key for showing/
      hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
@@ -181,7 +181,7 @@
 <!ENTITY dsnMenu.label "Ειδοποίηση παράδοσης">
 <!ENTITY dsnMenu.accesskey "δ">
 <!ENTITY deliveryFormatMenu.label "Μορφή παράδοσης">
-<!ENTITY deliveryFormatMenu.accesskey "F">
+<!ENTITY deliveryFormatMenu.accesskey "Μ">
 <!ENTITY autoFormatCmd.label "Αυτόματος εντοπισμός">
 <!ENTITY autoFormatCmd.accesskey "τ">
 <!ENTITY plainTextFormatCmd.label "Μόνο απλό κείμενο">
@@ -274,7 +274,7 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "ν">
-<!ENTITY attachmentBucketHeader.tooltip "Πίνακας Συνημμένων">
+<!ENTITY attachmentBucketHeader.tooltip "Πίνακας συνημμένων">
 <!ENTITY attachmentBucketCloseButton.tooltip "Απόκρυψη του πίνακα συνημμένων">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -320,25 +320,25 @@
 <!ENTITY delete.accesskey "Δ">
 <!ENTITY removeAttachment.label "Απομάκρυνση συνημμένου">
 <!ENTITY removeAttachment.accesskey "ρ">
-<!ENTITY renameAttachment.label "Μετονομασία...">
+<!ENTITY renameAttachment.label "Μετονομασία…">
 <!ENTITY renameAttachment.accesskey "τ">
-<!ENTITY reorderAttachments.label "Επανακατάταξη συνημμένων…">
-<!ENTITY reorderAttachments.accesskey "π">
+<!ENTITY reorderAttachments.label "Ανακατάταξη συνημμένων…">
+<!ENTITY reorderAttachments.accesskey "ν">
 <!ENTITY removeAllAttachments.label "Αφαίρεση όλων των συνημμένων">
 <!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Επιλογή όλων">
 <!ENTITY selectAll.accesskey "λ">
-<!ENTITY attachFile.label "Επισύναψη αρχείου...">
+<!ENTITY attachFile.label "Επισύναψη αρχείων…">
 <!ENTITY attachFile.accesskey "σ">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Μετατροπή σε…">
-<!ENTITY convertCloud.accesskey "C">
+<!ENTITY convertCloud.accesskey "Μ">
 <!ENTITY cancelUpload.label "Ακύρωση αποστολής">
-<!ENTITY cancelUpload.accesskey "n">
-<!ENTITY convertRegularAttachment.label "Κανονικό συνημμένο αρχείο">
-<!ENTITY convertRegularAttachment.accesskey "A">
-<!ENTITY attachPage.label "Επισύναψη ιστοσελίδας...">
+<!ENTITY cancelUpload.accesskey "ρ">
+<!ENTITY convertRegularAttachment.label "Κανονικό συνημμένο">
+<!ENTITY convertRegularAttachment.accesskey "Κ">
+<!ENTITY attachPage.label "Επισύναψη ιστοσελίδας…">
 <!ENTITY attachPage.accesskey "ι">
 
 <!-- Attachment Pane Header Bar Context Menu -->
@@ -349,7 +349,7 @@
 <!ENTITY initiallyShowAttachmentPane.accesskey "Ε">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Προσθήκη λεξικών">
+<!ENTITY spellAddDictionaries.label "Προσθήκη λεξικών…">
 <!ENTITY spellAddDictionaries.accesskey "θ">
 
 <!-- Title for the address picker panel -->
@@ -357,7 +357,7 @@
 
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Προσαρμογή από διεύθυνση…">
-<!ENTITY customizeFromAddress.accesskey "A">
+<!ENTITY customizeFromAddress.accesskey "δ">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Γλώσσα ορθογραφικού ελέγχου">
