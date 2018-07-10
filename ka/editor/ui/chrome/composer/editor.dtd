@@ -4,7 +4,7 @@
 
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "დიზაინერი">
+<!ENTITY editorWindow.titlemodifier "შემდგენი">
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
@@ -15,41 +15,41 @@
 <!ENTITY previewToolbarCmd.tooltip "ამ გვერდის ჩატვირთვა ბრაუზერში">
 
 <!-- File menu items -->
-<!ENTITY exportToTextCmd.label "ექსპორტი ტექსტად…">
-<!ENTITY exportToTextCmd.accesskey "x">
+<!ENTITY exportToTextCmd.label "გატანა ტექსტად…">
+<!ENTITY exportToTextCmd.accesskey "გ">
 <!ENTITY previewCmd.label "გვერდის გადახედვა">
-<!ENTITY previewCmd.accesskey "w">
+<!ENTITY previewCmd.accesskey "ე">
 <!ENTITY sendPageCmd.label "გვერდის გაგზავნა…">
-<!ENTITY sendPageCmd.accesskey "d">
+<!ENTITY sendPageCmd.accesskey "ზ">
 
 <!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "წერილის შესადგენი ხელსაწყოთა ზოლი">
-<!ENTITY compositionToolbarCmd.accesskey "C">
+<!ENTITY compositionToolbarCmd.accesskey "შ">
 <!ENTITY formattingToolbarCmd.label "გაფორმების ხელსაწყოთა ზოლი">
-<!ENTITY formattingToolbarCmd.accesskey "F">
+<!ENTITY formattingToolbarCmd.accesskey "ფ">
 <!ENTITY editmodeToolbarCmd.label "ჩასწორების ხელსაწყოთა ზოლი">
-<!ENTITY editmodeToolbarCmd.accesskey "E">
+<!ENTITY editmodeToolbarCmd.accesskey "ზ">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "ფორმატი">
-<!ENTITY formatMenu.accesskey "o">
+<!ENTITY formatMenu.accesskey "ო">
 <!ENTITY grid.label "განთავსების ბადე">
-<!ENTITY grid.accesskey "t">
+<!ENTITY grid.accesskey "ბ">
 <!ENTITY pageProperties.label "გვერდის სათაური და პარამეტრები…">
-<!ENTITY pageProperties.accesskey "g">
+<!ENTITY pageProperties.accesskey "თ">
 
 <!-- Tools menu items -->
 <!ENTITY validateCmd.label "HTML კოდის შემოწმება">
-<!ENTITY validateCmd.accesskey "V">
+<!ENTITY validateCmd.accesskey "კ">
 
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "ჩვეულებრივი">
-<!ENTITY NormalMode.label "რედაქციის ჩვეულებრივი რეჟიმი">
-<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.label "ჩასწორების ჩვეულებრივი რეჟიმი">
+<!ENTITY NormalMode.accesskey "ჩ">
 <!ENTITY NormalMode.tooltip "ცხრილის ჩარჩოსა და სახელობითი ღუზების ჩვენება">
 <!ENTITY AllTagsModeTab.label "HTML ჭდეები">
 <!ENTITY AllTagsMode.label "HTML ჭდეები">
-<!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.accesskey "ე">
 <!ENTITY AllTagsMode.tooltip "ხატულების ჩვენება ყველა HTML ჭდისთვის">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
@@ -60,8 +60,8 @@
 <!ENTITY HTMLSourceModeTab.label "წყარო">
 <!ENTITY HTMLSourceMode.label "HTML კოდი">
 <!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "HTML კოდის რედაქცია">
-<!ENTITY PreviewModeTab.label "ესკიზი">
-<!ENTITY PreviewMode.label "ესკიზი">
-<!ENTITY PreviewMode.accesskey "P">
-<!ENTITY PreviewMode.tooltip "ვიზუალური ხედი (როგორც ბრაუზერში)">
+<!ENTITY HTMLSourceMode.tooltip "HTML კოდის ჩასწორება">
+<!ENTITY PreviewModeTab.label "შეთვალიერება">
+<!ENTITY PreviewMode.label "შეთვალიერება">
+<!ENTITY PreviewMode.accesskey "შ">
+<!ENTITY PreviewMode.tooltip "WYSIWYG სახით ჩვენება (როგორც ბრაუზერში)">
