@@ -733,6 +733,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Seureutipikat
+certs-personal-label = Watée awak hirö jilakée seurtifikat personal
 certs-select-auto-option =
     .label = Piléh saboh seucara otomatis
     .accesskey = P
