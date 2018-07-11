@@ -32,7 +32,7 @@
 <!ENTITY searchIntegration.accesskey   "s">
 <!ENTITY checkDefaultsNow.label        "Ellenőrzés most…">
 <!ENTITY checkDefaultsNow.accesskey    "E">
-<!ENTITY configEditDesc.label          "Haladó beállítások">
+<!ENTITY configEditDesc.label          "Speciális beállítások">
 <!ENTITY configEdit.label              "Konfigurációszerkesztő…">
 <!ENTITY configEdit.accesskey          "K">
 <!ENTITY returnReceiptsInfo.label      "A &brandShortName; tértivevény-kezelésének beállítása">
