@@ -777,6 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Selesai">
 <!ENTITY editBookmark.removeBookmark.accessKey       "H">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "Tampilkan editor saat menyimpan">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "e">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
