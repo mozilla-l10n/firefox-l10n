@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } bukan peramban baku Anda
 set-as-my-default-browser =
     .label = Jadikan Baku…
     .accesskey = U
-startup-page = Ketika { -brand-short-name } mulai
-    .accesskey = m
-startup-user-homepage =
-    .label = Tampilkan beranda Anda
-startup-blank-page =
-    .label = Tampilkan laman kosong
-startup-prev-session =
-    .label = Tampilkan jendela dan tab dari sesi terakhir Anda
 startup-restore-previous-session =
     .label = Pulihkan sesi sebelumnya
     .accesskey = P
 disable-extension =
     .label = Nonaktifkan Ekstensi
-home-page-header = Beranda
 tabs-group-header = Tab
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab berputar melalui tab dalam urutan yang baru saja digunakan
@@ -258,7 +241,6 @@ play-drm-content =
 play-drm-content-learn-more = Pelajari lebih lanjut
 update-application-title = Pemutakhiran { -brand-short-name }
 update-application-description = Pastikan { -brand-short-name } selalu mutakhir demi kinerja, stabilitas, dan keamanan terbaik.
-update-application-info = Versi { $version } <a>Yang baru</a>
 update-application-version = Versi { $version } <a data-l10n-name="learn-more">Yang baru</a>
 update-history =
     .label = Tampilkan Riwayat Pemutakhiran…
@@ -269,7 +251,7 @@ update-application-auto =
     .accesskey = S
 update-application-check-choose =
     .label = Periksa pemutakhiran, biarkan saya memilih memasangnya atau tidak
-    .accesskey = C
+    .accesskey = P
 update-application-manual =
     .label = Jangan pernah memeriksa pemutakhiran (tidak disarankan)
     .accesskey = J
@@ -294,7 +276,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Batas proses konten
     .accesskey = P
 performance-limit-content-process-enabled-desc = Proses konten tambahan dapat meningkatkan performa ketika menggunakan multipel tab, tetapi juga akan menggunakan lebih banyak memori.
-performance-limit-content-process-disabled-desc = Memodifikasi jumlah proses konten hanya bisa dengan multiproses { -brand-short-name }. <a>Pelajari cara mengecek jika multiproses diaktifkan</a>
 performance-limit-content-process-blocked-desc = Memodifikasi jumlah proses konten hanya bisa dengan multiproses { -brand-short-name }. <a data-l10n-name="learn-more">Pelajari cara mengecek jika multiproses diaktifkan</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -340,7 +321,7 @@ home-homepage-mode-label = Laman beranda dan jendela baru
 home-newtabs-mode-label = Tab baru
 home-restore-defaults =
     .label = Pulihkan Bawaan
-    .accesskey = R
+    .accesskey = B
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
@@ -365,9 +346,6 @@ use-current-pages =
 choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
-restore-default =
-    .label = Kembalikan ke Bawaan
-    .accesskey = w
 
 ## Search Section
 
