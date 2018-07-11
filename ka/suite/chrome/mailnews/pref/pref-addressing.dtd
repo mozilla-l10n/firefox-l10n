@@ -11,7 +11,7 @@
 <!-- Autocompletion -->
 <!ENTITY addressingTitle.label                 "მისამართების ავტოშევსება">
 <!ENTITY highlightNonMatches.label             "არათვითშევსებადი მისამართების მინიშნება">
-<!ENTITY highlightNonMatches.accesskey         "a">
+<!ENTITY highlightNonMatches.accesskey         "ა">
 <!ENTITY addressingEnable.label                "ადგილობრივი წიგნაკები">
 <!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY autocompleteText.label                "წერილების დამისამართებისას მსგავსის მოძებნა:">
