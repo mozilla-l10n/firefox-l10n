@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Atô Kukis ngon Data Situih
+site-data-settings-description = Situs web nyang di miyub nyoe ji keubah cookies dan data situs lam komputer droen. { -brand-short-name } ji keubah sabe sabe data nibak situs web nyang nantiasa lam storage sampoe neu sampôh jih, dan miseu hana let lé akan jisampôh.
 site-data-search-textbox =
     .placeholder = Mita situihwèb
     .accesskey = M
