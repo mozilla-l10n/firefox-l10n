@@ -964,7 +964,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "Бұл сессия үшін сөндіру">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "д">
+<!ENTITY trackingProtection.block4.label "Бұл сайт үшін іске қосу">
+<!ENTITY trackingProtection.block4.accesskey "е">
 <!ENTITY trackingProtection.reload2.label "Бетті қайта жүктеу">
+<!ENTITY trackingProtection.reload2.accesskey "й">
 
 <!ENTITY pluginNotification.showAll.label "Барлығын көрсету">
 <!ENTITY pluginNotification.showAll.accesskey "с">
