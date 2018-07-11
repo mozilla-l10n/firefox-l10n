@@ -82,13 +82,13 @@
 <!ENTITY unknownProtocolFound.title "Alamat tidak dipahami">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Anda mungkin perlu untuk menginstal perangkat lunak lain untuk membuka alamat ini.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Server proxy menolak sambungan">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Periksa pengaturan proxy, pastikan sudah benar.</li> <li>Hubungi administrator jaringan Anda untuk memastikan server proxy sudah berjalan.</li> </ul>">
+<!ENTITY proxyConnectFailure.title "Server proksi menolak sambungan">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Periksa pengaturan proksi, pastikan sudah benar.</li> <li>Hubungi administrator jaringan Anda untuk memastikan server proksi sudah berjalan.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Tidak dapat menemukan server proxy">
+<!ENTITY proxyResolveFailure.title "Tidak dapat menemukan server proksi">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Periksa pengaturan proxy, pastikan sudah benar.</li> <li>Pastikan sambungan data atau Wi-Fi perangkat Anda berjalan dengan baik. <button id='wifi'>Aktifkan Wi-Fi</button> </li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Periksa pengaturan proksi, pastikan sudah benar.</li> <li>Pastikan sambungan data atau Wi-Fi perangkat Anda berjalan dengan baik. <button id='wifi'>Aktifkan Wi-Fi</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Laman tidak teralihkan dengan benar">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Masalah ini kadangkala disebabkan karena mematikan fungsi atau menolak menerima kuki.</li> </ul>">
