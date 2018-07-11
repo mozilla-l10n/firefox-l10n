@@ -706,6 +706,12 @@ collection-health-report-link = Meurunoë lom
 collection-studies =
     .label = Peuidin { -brand-short-name } ji pasang dan ji peugöt kajian
 collection-studies-link = Kalön kajian { -brand-short-name }
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Lapuran data meupeulèn keu build konfigurasi nyoe
+collection-browser-errors =
+    .label = Peuidin { -brand-short-name } ji kirém lapuran error browser ( rôh syit peusan error ) keu { -vendor-short-name }
+    .accesskey = P
 collection-browser-errors-link = Meurunoë lom
 collection-backlogged-crash-reports =
     .label = Peuidin { -brand-short-name } i kirém lapuran crash backlogged meunyô neu
@@ -743,3 +749,6 @@ certs-select-ask-option =
 certs-view =
     .label = Kalon Seureutipikat...
     .accesskey = K
+certs-devices =
+    .label = Peukakah Peuji'oh Mara Bahya
+    .accesskey = P

@@ -20,8 +20,9 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Mudah that bak neuatô Firefox kiban nyang neuh`eut. <a>Neupiléh meuribèe add-ons nyang na</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; na keuh pré dan peukakah leumiek nyang teuhah kode asai jih daripada Mozilla Foundation nyang hana laba sapue. <a>Beuneuteupue Hak Droen…</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "Tandakitab">
+<!ENTITY abouthome.bookmarksButton.label "Tanda kitab">
 <!ENTITY abouthome.historyButton.label   "Riwayat">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
