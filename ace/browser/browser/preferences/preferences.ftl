@@ -248,7 +248,7 @@ play-drm-content =
     .label = Peumaèn kontèn nyang meukontrol-DRM
     .accesskey = P
 play-drm-content-learn-more = Meurunoë lom
-update-application-title = { -brand-short-name } Apdét
+update-application-title = Seuneubarô { -brand-short-name }
 update-application-description = Peubiyeuë { -brand-short-name } Apdét peujrôh performen, seutabilitaih, ngon seukuriti.
 update-application-version = Vèrsi { $version } <a data-l10n-name="learn-more"> Peuë nyang barô</a>
 update-history =
