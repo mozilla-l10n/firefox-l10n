@@ -27,7 +27,7 @@ search-input-box =
     .placeholder =
         { PLATFORM() ->
             [windows] Mita bak Piléhan
-           *[other] Mita bak Piléhan
+           *[other] Mita bak Preferen
         }
 policies-notice =
     { PLATFORM() ->
