@@ -571,7 +571,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookis ngön  Data Situs
+sitedata-header = Cookies ngön  Data Situs
 sitedata-total-size-calculating = Bileueng data situs nngön rayëk cache
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
