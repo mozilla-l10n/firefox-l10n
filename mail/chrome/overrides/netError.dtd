@@ -32,7 +32,7 @@
 <!ENTITY fileNotFound.title "Soubor nenalezen">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Zkontrolujte, zda je jméno souboru napsáno správně, a to včetně velikosti písmen.</li>
+  <li>Zkontrolujte, zda je název souboru napsán správně, a to včetně velikosti písmen.</li>
   <li>Zkontrolujte, zda soubor nebyl přesunut, přejmenován nebo smazán.</li>
 </ul>
 ">
