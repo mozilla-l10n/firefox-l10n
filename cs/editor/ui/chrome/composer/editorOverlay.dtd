@@ -137,7 +137,7 @@
 <!ENTITY tableOrCellColor.label "Barva tabulky a pozadí buněk…">
 <!ENTITY tableOrCellColor.accesskey "r">
 
-<!ENTITY formatRemoveStyles.key "t">
+<!ENTITY formatRemoveStyles.key "y">
 <!ENTITY formatRemoveLinks.key "k">
 <!ENTITY formatRemoveNamedAnchors.label "Odstranit cílové kotvy">
 <!ENTITY formatRemoveNamedAnchors.accesskey "c">

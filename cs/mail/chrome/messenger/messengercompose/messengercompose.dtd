@@ -98,7 +98,7 @@
      hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
      toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
      for the bucket view state machinery to work. -->
-<!ENTITY toggleAttachmentPaneCmd.key "P">
+<!ENTITY toggleAttachmentPaneCmd.key "M">
 <!ENTITY selectAllCmd.label "Vybrat vše">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Odešle tuto zprávu později">
 <!ENTITY quoteButton.tooltip "Ocituje předchozí zprávu">
 <!ENTITY addressButton.tooltip "Vybere příjemce z kontaktů">
-<!ENTITY attachButton.tooltip "Připojí k této zprávě přílohu">
 <!ENTITY attachButton.tooltip2 "Přidat přílohu">
 <!ENTITY spellingButton.tooltip "Zkontroluje pravopis vybrané části nebo celé zprávy">
 <!ENTITY saveButton.tooltip "Uloží tuto zprávu">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "P">
-
 <!ENTITY attachmentBucketHeader.tooltip "Lišta příloh">
 <!ENTITY attachmentBucketCloseButton.tooltip "Skryje lištu příloh">
 

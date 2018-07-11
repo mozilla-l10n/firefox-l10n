@@ -12,7 +12,7 @@
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Adresa obrázku:">
 <!ENTITY locationEditField.accessKey "d">
-<!ENTITY locationEditField.tooltip "Vyberte adresu a jméno obrázku">
+<!ENTITY locationEditField.tooltip "Vyberte adresu a název obrázku">
 <!ENTITY locationEditField.shortenedDataURI "Zkrácená URI (zkopírování vloží celou URI do schránky)">
 <!ENTITY title.label "Vysvětlivka:">
 <!ENTITY title.accessKey "P">
