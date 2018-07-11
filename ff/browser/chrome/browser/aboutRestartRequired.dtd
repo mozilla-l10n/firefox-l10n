@@ -5,5 +5,7 @@
 <!ENTITY restartRequired.title "Hurmitinde ina Naamnaa">
 
 <!ENTITY restartRequired.header "Accu hakke. Ha min cokli waɗ-de geɗel gootel tan ngam jokkude.">
+<!ENTITY restartRequired.description "<p>Jooni Jooni min ngaafri kesɗitinal les. Dobo ngam fokkitde &brandShortName; ngam timminde ɗum.</p>
+<p>Maa min gartir kelle ɗee fof, kenorɗe ɗee e cegenon koncaggal ɗuum, mbele oɗon mbaawa fokkitde ko yaaccii.</p>">
 
 <!ENTITY restartButton.label "Hurmitin &brandShortName;">

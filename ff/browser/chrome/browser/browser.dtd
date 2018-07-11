@@ -35,6 +35,16 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Uddu Tabbe Goɗɗe">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+<!ENTITY  closeSelectedTabs.label            "Uddu cegene cuɓaaɗe ɗee">
+<!ENTITY  closeSelectedTabs.accesskey        "S">
+
+<!-- Pin Tab and Pin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Reload Tab and Reload Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -127,7 +137,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Hollu Tabbe Fof">
 <!ENTITY showAllTabsCmd.accesskey "F">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Teelto &syncBrand.shortName.label;">
@@ -187,10 +196,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Firlit Maantore">
 <!ENTITY mobileBookmarksCmd.label "Maantore Cinndel">
 <!ENTITY bookmarksToolbarChevron.tooltip "Hollu maantore goɗɗe">
-<!ENTITY showRecentlyBookmarked.label     "Hollu Maantoraaɗe ko Ɓooyaani">
-<!ENTITY showRecentlyBookmarked.accesskey "o">
-<!ENTITY hideRecentlyBookmarked.label     "Suuɗ Maantoraaɗe ko Ɓooyaani">
-<!ENTITY hideRecentlyBookmarked.accesskey "S">
 
 <!ENTITY backCmd.label                "Rutto">
 <!ENTITY backCmd.accesskey            "B">
@@ -230,7 +235,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Fir ngoo hello">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Toppito pirgol hello">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Toppito kuutoragol topirde DRM">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Uddit alluwal MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "A daaƴii kameraa maa e ndee lowre.">
@@ -241,7 +245,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "A daaƴii ndesgu duumiingu e ndee lowre.">
 <!ENTITY urlbar.popupBlocked.tooltip             "A faddiima kenorɗe pop-up nder ndee lowre.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "A daaƴii aaftogol keɓe keertol wonande ndee lowre geese.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "A haɗii ndee lowre geese huutoraade jokkel Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "A daaƴii keɓgol MIDI wonande ndee lowre geese.">
 
@@ -251,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Jaɓɓorgo">
+
 
 <!ENTITY bookmarksButton.label          "Maantore">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -268,7 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Ɓeydu Dosol Maantore to Palal Kuutorɗe">
 <!ENTITY removeBookmarksMenu.label          "Ittu Dosol Maantore e Palal Kuutorɗe">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -299,6 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "Ƴeewto Geɗel">
 <!ENTITY inspectContextMenu.accesskey "Q">
+
 
 <!ENTITY fileMenu.label         "Fiilde">
 <!ENTITY fileMenu.accesskey       "F">
@@ -385,11 +390,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Hurmin cynkugol tabbe ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Aɗa yiyde tabbe maa iwɗe e kaɓirɗi goɗɗi?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Cuɓoraaɗe Sync">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Uddit Cuɓoraaɗe Jahdingol">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Seŋo ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Konte maa ina cokli ƴeewteede.">
@@ -407,8 +411,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Ɓeydu e Overflow Cuɓirgol">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "C">
 <!ENTITY customizeMenu.moveToToolbar.label "Dirtin to palal kuutorɗe">
@@ -420,6 +423,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Dirtin to cuɓirgol">
 <!ENTITY customizeMenu.moveToPanel.accesskey "D">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Pin to Overflow Cuɓirgol">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Pintu ummoraade Overflow Cuɓirgol">
@@ -430,6 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "I">
 <!ENTITY customizeMenu.addMoreItems.label "Ɓeeydu ngeɗon ngoɗkon…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Ɓ">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -750,6 +757,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Gasii">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Kisal Lowre">
@@ -791,9 +799,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Ɓeydu Humpito">
 
+
 <!ENTITY identity.permissions "Jamirooje">
 <!ENTITY identity.permissionsEmpty "A hokkaani ndee lowre hay yamiroore heeriinde.">
 <!ENTITY identity.permissionsReloadHint "Ena waawi coaklaa loowtude hello ngoo ngam bayle ɗee njaaɓa.">
+
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -910,6 +920,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Hurmin kisnugol">
 <!ENTITY trackingProtection.block2.accesskey "H">
 
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
 <!ENTITY pluginNotification.showAll.label "Hollu Fof">
 <!ENTITY pluginNotification.showAll.accesskey "H">
 
@@ -981,16 +999,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "W">
 <!ENTITY updateRestart.panelUI.label2 "Huɓɓit ngam hesɗitinde &brandShorterName;.">
 
-<!ENTITY newTabControlled.message "Timmitere waylii hello njiyataa ngoo saanga nde uddit-ɗaa Tabbere Hesere. Aɗa waawi artirde teelte maa so tawii a yiɗii ngoo waylo.">
-
 <!ENTITY newTabControlled.header.message "Tabbere maa Hesere wayliima.">
 <!ENTITY newTabControlled.keepButton.label "Mooftu Bayle">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.restoreButton.label "Artir Teelte">
-<!ENTITY newTabControlled.restoreButton.accesskey "R">
-
 <!ENTITY newTabControlled.disableButton.label "Daaƴ Timmitol">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
+
+
 
 <!ENTITY pageActionButton.tooltip "Baɗe hello">
 <!ENTITY pageAction.addToUrlbar.label "Ɓeydu to Palal Ñiiɓirɗe">
@@ -1001,6 +1016,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Neldu Tabbere to Kaɓirgol">
 <!ENTITY sendToDevice.syncNotReady.label "Jahdingol masiŋon...">
+
 
 <!ENTITY libraryButton.tooltip "Yiy aslol, maantore danndaaɗe, e goɗɗe">
 
