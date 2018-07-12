@@ -14,10 +14,12 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "Nyan. Tab gata ka-reuloh.">
 <!ENTITY tabCrashed.offerHelp2 "Kamoe jeut meubantu!">
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Piléh &tabCrashed.restoreTab; keu-peuhah keulayi laman.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Piléh &tabCrashed.restoreTab; atawa &tabCrashed.restoreAll; keu-peuhah keulayi laman.">
 <!ENTITY tabCrashed.requestHelp "Peu jeut neubantu kamoe?">
 <!ENTITY tabCrashed.requestReport "Lapor tab nyoe">
 <!ENTITY tabCrashed.commentPlaceholder2 "Komentar Peuniléh (komentar deuh geukalön nibak mandum ureung)">
+<!ENTITY tabCrashed.emailPlaceholder "Neupasoe email droen disinoe">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Lapor tab layeue likôt">
