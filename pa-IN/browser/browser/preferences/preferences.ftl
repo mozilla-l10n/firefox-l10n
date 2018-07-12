@@ -306,7 +306,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
-home-new-windows-tabs-header = ਨਵੀਆਂ ਵਿੰਡੋਆਂ ਅਤੇ ਟੈਬਾਂ
+home-new-windows-tabs-header = ਨਵੀਆਂ ਖਿੜਕੀਆਂ ਅਤੇ ਪੱਲ੍ਹੇ
 home-new-windows-tabs-description2 = ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਕੀ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੇ ਮੁੱਖ ਸਫ਼ੇ, ਨਵੀਆਂ ਵਿੰਡੋਆਂ ਅਤੇ ਨਵੀਆਂ ਟੈਬਾਂ ਖੋਲ੍ਹਦੇ ਹੋ।
 
 ## Home Section - Home Page Customization
@@ -319,11 +319,11 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = ਫਾਇਰਫਾਕਸ ਘਰ (ਮੂਲ)
+    .label = ਫਾਇਰਫੌਕਸ ਘਰ (ਮੂਲ)
 home-mode-choice-custom =
-    .label = …ਪਸੰਦੀਦਾ URL
+    .label = …ਚੁਣਿੰਦਾ URL
 home-mode-choice-blank =
-    .label = ਖ਼ਾਲੀ ਸਫ਼ਾ
+    .label = ਖ਼ਾਲੀ ਵਰਕਾ
 home-homepage-custom-url =
     .placeholder = …URL ਨੂੰ ਚੇਪੋ
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -333,12 +333,12 @@ home-homepage-custom-url =
 use-current-pages =
     .label =
         { $tabCount ->
-            [1] ਮੇਰੇ ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਵਰਤੋਂ
-           *[other] ਮੌਜੂਦਾ ਸਫ਼ੇ ਨੂੰ ਵਰਤੋਂ
+            [1] ਮੌਜੂਦਾ ਵਰਕੇ ਨੂੰ ਵਰਤੋ
+           *[other] ਮੌਜੂਦਾ ਵਰਕਿਆਂ ਨੂੰ ਵਰਤੋ
         }
     .accesskey = C
 choose-bookmark =
-    .label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਵਰਤੋਂ
+    .label = …ਵਰਕਾ-ਨਿਸ਼ਾਨੀ ਵਰਤੋ
     .accesskey = B
 
 ## Search Section
@@ -347,7 +347,7 @@ search-bar-header = ਖੋਜ ਪੱਟੀ
 search-bar-hidden =
     .label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਨੂੰ ਖੋਜ ਅਤੇ ਨੇਵੀਗੇਸ਼ਨ ਲਈ ਵਰਤੋਂ
 search-bar-shown =
-    .label = ਟੂਲਬਾਰ 'ਚ ਖੋਜ ਪੱਟੀ ਜੋੜੋ
+    .label = ਸੰਦ-ਪੱਟੀ 'ਚ ਖੋਜ ਪੱਟੀ ਜੋੜੋ
 search-engine-default-header = ਮੂਲ ਖੋਜ ਇੰਜਣ
 search-engine-default-desc = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਅਤੇ ਖੋਜ ਪੱਟੀ 'ਚ ਵਰਤਣ ਲਈ ਡਿਫਾਲਟ ਖੋਜ ਇੰਜਣ ਨੂੰ ਚੁਣੋ।
 search-suggestions-option =
@@ -374,7 +374,7 @@ search-restore-default =
     .label = ਮੂਲ ਖੋਜ ਇੰਜਣ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ
     .accesskey = d
 search-remove-engine =
-    .label = ਹਟਾਓ
+    .label = ਹਟਾਉ
     .accesskey = r
 search-find-more-link = ਹੋਰ ਖੋਜ ਇੰਜਣ ਲੱਭੋ
 # This warning is displayed when the chosen keyword is already in use
@@ -388,14 +388,14 @@ search-keyword-warning-bookmark = ਤੁਸੀਂ ਸ਼ਬਦ ਨੂੰ ਚੁ�
 ## Containers Section
 
 containers-back-link = « ਵਾਪਸ ਜਾਓ
-containers-header = ਕਨਟੇਨਰ ਟੈਬਾਂ
+containers-header = ਗਿਲਾਫ ਪੱਲ੍ਹੇ
 containers-add-button =
-    .label = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
+    .label = ਨਵਾਂ ਗਿਲਾਫ ਜੋੜੋ
     .accesskey = A
 containers-preferences-button =
-    .label = ਮੇਰੀ ਪਸੰਦ
+    .label = ਤਰਜੀਹਾਂ
 containers-remove-button =
-    .label = ਹਟਾਓ
+    .label = ਹਟਾਉ
 
 ## Sync Section - Signed out
 
@@ -420,7 +420,7 @@ sync-mobile-promo = ਫਾਇਰਫਾਕਸ ਇਸ ਲਈ ਡਾਊਨੋਡ �
 ## Sync Section - Signed in
 
 sync-profile-picture =
-    .tooltiptext = ਪਰੋਫਾਈਲ ਤਸਵੀਰ ਨੂੰ ਬਦਲੋ
+    .tooltiptext = ਬਿਉਰਾ ਤਸਵੀਰ ਨੂੰ ਬਦਲੋ
 sync-disconnect =
     .label = …ਡਿਸਕਨੈਕਟ ਕਰੋ
     .accesskey = D
@@ -440,14 +440,14 @@ sync-sign-in =
 sync-signedin-settings-header = ਸਿੰਕ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
 sync-signedin-settings-desc = ਚੁਣੋ ਕਿ { -brand-short-name } ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਤੁਹਾਡੇ ਡਿਵਾਈਸਾਂ 'ਤੇ ਕੀ ਸਿੰਕ ਕੀਤਾ ਜਾਵੇ।
 sync-engine-bookmarks =
-    .label = ਬੁੱਕਮਾਰਕ
+    .label = ਵਰਕਾ-ਿਨਸ਼ਾਨੀ
     .accesskey = m
 sync-engine-history =
     .label = ਅਤੀਤ
     .accesskey = r
 sync-engine-tabs =
-    .label = ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
-    .tooltiptext = ਸਾਰੇ ਸਿੰਕ ਕੀਤੇ ਡਿਵਾਈਸ ਉੱਤੇ ਖੁੱਲ੍ਹਿਆਂ ਦੀ ਸੂਚੀ
+    .label = ਪੱਲ੍ਹੇ ਖੋਲ੍ਹੋ
+    .tooltiptext = ਸਾਰੇ ਸਿੰਕ ਕੀਤੇ ਡਿਵਾਈਸਾਂ ਉੱਪਰ ਕੀ ਕੀ ਖੁੱਲ੍ਹਿਆ ਹੈ, ਉਸਦੀ ਸੂਚੀ
     .accesskey = T
 sync-engine-logins =
     .label = ਲਾਗਇਨ
@@ -494,9 +494,9 @@ privacy-header = ਬਰਾਊਜ਼ਰ ਪਰਦੇਦਾਰੀ
 
 ## Privacy Section - Forms
 
-forms-header = ਫਾਰਮ ਤੇ ਪਾਸਵਰਡ
+forms-header = ਫਾਰਮ ਤੇ ਪਛਾਣ-ਸ਼ਬਦ
 forms-ask-to-save-logins =
-    .label = ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਲਈ ਪੁੱਛੋ
+    .label = ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਛਾਣ-ਸ਼ਬਦ ਸੰਭਾਲਣ ਲਈ ਪੁੱਛੋ
     .accesskey = r
 forms-exceptions =
     .label = …ਛੋਟਾਂ
@@ -505,10 +505,10 @@ forms-saved-logins =
     .label = …ਸੰਭਾਲੇ ਹੋਏ ਲਾਗਇਨ
     .accesskey = L
 forms-master-pw-use =
-    .label = ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ
+    .label = ਮਾਸਟਰ ਪਛਾਣ-ਸ਼ਬਦ ਵਰਤੋ
     .accesskey = U
 forms-master-pw-change =
-    .label = …ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ
+    .label = ਮਾਸਟਰ ਪਛਾਣ-ਸ਼ਬਦ ਬਦਲੋ
     .accesskey = M
 
 ## Privacy Section - History
@@ -526,11 +526,11 @@ history-header = ਅਤੀਤ
 history-remember-label = { -brand-short-name } ਕਰੇਗਾ
     .accesskey = w
 history-remember-option-all =
-    .label = ਅਤੀਤ
+    .label = ਅਤੀਤ ਯਾਦ ਰੱਖੋ
 history-remember-option-never =
-    .label = ਕਦੇ ਵੀ ਅਤੀਤ ਯਾਦ ਨਾ ਰੱਖੋ
+    .label = ਅਤੀਤ ਕਦੇ ਵੀ ਯਾਦ ਨਾ ਰੱਖੋ
 history-remember-option-custom =
-    .label = ਅਤੀਤ ਲਈ ਕਸਟਮ ਸੈਟਿੰਗ ਵਰਤੋਂ
+    .label = ਅਤੀਤ ਲਈ ਚੁਣਿੰਦਾ ਸੈਟਿੰਗ ਵਰਤੋਂ
 history-remember-description = { -brand-short-name } ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ, ਡਾਊਨਲੋਡ, ਫਾਰਮਾਂ ਅਤੇ ਖੋਜ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੇਗਾ।
 history-dontremember-description = { -brand-short-name } ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਾਲੀਆਂ ਸੈਟਿੰਗਾਂ ਵਰਤੇਗਾ ਅਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਵੈੱਬ ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਕੋਈ ਵੀ ਅਤੀਤ ਯਾਦ ਨਹੀਂ ਰੱਖੇਗਾ।
 history-private-browsing-permanent =
@@ -599,12 +599,12 @@ addressbar-locbar-history-option =
     .label = ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ
     .accesskey = H
 addressbar-locbar-bookmarks-option =
-    .label = ਬੁੱਕਮਾਰਕ
+    .label = ਵਰਕਾ-ਨਿਸ਼ਾਨੀਆਂ
     .accesskey = k
 addressbar-locbar-openpage-option =
-    .label = ਟੈਬਾਂ ਖੋਲ੍ਹੋ
+    .label = ਪੱਲ੍ਹੇ ਖੋਲ੍ਹੋ
     .accesskey = O
-addressbar-suggestions-settings = ਖੋਜ ਇੰਜਣ ਸੁਝਆਵਾਂ ਲਈ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ
+addressbar-suggestions-settings = ਖੋਜ ਇੰਜਣ ਸੁਝਾਵਾਂ ਲਈ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ
 
 ## Privacy Section - Tracking
 
@@ -615,7 +615,7 @@ tracking-mode-always =
     .label = ਹਮੇਸ਼ਾ
     .accesskey = y
 tracking-mode-private =
-    .label = ਸਿਰਫ਼ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ
+    .label = ਸਿਰਫ਼ ਨਿੱਜੀ ਬਾਰੀਆਂ ਵਿੱਚ
     .accesskey = l
 tracking-mode-never =
     .label = ਕਦੇ ਨਹੀਂ
