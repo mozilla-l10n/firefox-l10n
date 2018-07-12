@@ -194,7 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Отметки">
 <!ENTITY bookmarksMenu.accesskey "О">
 <!ENTITY bookmarkThisPageCmd.label "Отмятане на страницата">
-<!ENTITY editThisBookmarkCmd.label "Редактиране на отметката">
+<!ENTITY editThisBookmarkCmd.label "Промяна на отметка">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "Абониране за страницата">
