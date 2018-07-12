@@ -5,7 +5,7 @@
 -sync-brand-short-name = ਸਿੰਕ
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--sync-brand-name = ਫਾਇਰਫਾਕਸ ਸਿੰਕ
+-sync-brand-name = ਫਾਇਰਫੌਕਸ ਸਿੰਕ
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name = ਫਾਇਰਫਾਕਸ ਖਾਤਾ
+-fxaccount-brand-name = ਫਾਇਰਫੌਕਸ ਖਾਤਾ
