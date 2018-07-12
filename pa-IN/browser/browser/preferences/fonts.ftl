@@ -75,6 +75,10 @@ fonts-langgroup-other =
 
 fonts-proportional-header = ਅਨੁਪਾਤੀ
     .accesskey = P
+fonts-default-serif =
+    .label = ਸੈਰਿਫ
+fonts-default-sans-serif =
+    .label = ਬਿਨਾਂ ਸੈਰਿਫ
 fonts-proportional-size = ਕੱਦ
     .accesskey = z
 fonts-serif = ਸੈਰਿਫ਼
@@ -135,7 +139,8 @@ fonts-languages-fallback-name-vietnamese =
 fonts-languages-fallback-name-other =
     .label = ਹੋਰ (ਪੱਛਮੀ ਯੂਰਪੀ ਸਮੇਤ)
 fonts-very-large-warning-title = ਵੱਡਾ ਘੱਟੋ-ਘੱਟ ਅੱਖਰ ਆਕਾਰ
-fonts-very-large-warning-accept = ਕਿਵੇਂ ਵੀ ਮੇਰੀਆਂ ਤਬਦੀਲੀਆਂ ਰੱਖੋ
+fonts-very-large-warning-message = ਤੁਸੀਂ ਘੱਟੋ-ਘੱਟ ਅੱਖਰ ਕੱਦ (੨੪ ਪਿਕਸਲਾਂ ਤੋਂ ਵੱਧ) ਦਾ ਬਹੁਤ ਵੱਡਾ ਕੱਦ ਚੁਣਿਆ ਹੈ। ਇਹ ਇਸ ਤਰ੍ਹਾਂ ਦੇ ਕੁੱਝ ਜਰੂਰੀ ਬਣਤਰ ਵਰਕਿਆਂ ਨੂੰ ਵਰਤਣਾ ਮੁਸ਼ਕਲ ਜਾਂ ਨਾਮੁਮਕਿਨ ਬਣਾ ਸਕਦਾ ਹੈ।
+fonts-very-large-warning-accept = ਕਿਸੇ ਵੀ ਤਰੀਕੇ ਮੇਰੇ ਬਦਲਾਅ ਰੱਖ ਲਿਉ
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
