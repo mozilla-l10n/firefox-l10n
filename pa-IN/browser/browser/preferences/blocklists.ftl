@@ -25,6 +25,6 @@ blocklist-button-ok =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me ਮੂਲ ਸੁਰੱਖਿਆ (ਸਿਫਾਰਸ਼ੀ)।
-blocklist-item-moz-std-desc = ਕੁਝ ਟਰੈਕਰਾਂ ਨੂੰ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ ਤਾਂ ਕਿ ਵੈੱਬਸਾਈਟਾਂ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰ ਸਕਣ।
+blocklist-item-moz-std-desc = ਕੁੱਝ ਪੈੜ੍ਹ ਦੱਬਣ ਵਾਲਿਆਂ ਨੂੰ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ ਤਾਂ ਕਿ ਵੈੱਬਸਾਈਟਾਂ ਠੀਕ ਤਰ੍ਹਾਂ ਚੱਲ ਸਕਣ।
 blocklist-item-moz-full-name = Disconnect.me ਸਖ਼ਤ ਸੁਰੱਖਿਆ।
-blocklist-item-moz-full-desc = ਜਾਣ-ਪਛਾਣੇ ਟਰੈਕਰਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦੀ ਹੈ। ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦੀਆਂ ਹਨ।
+blocklist-item-moz-full-desc = ਜਾਣ-ਪਛਾਣੇ ਪੈੜ੍ਹ ਦੱਬਣ ਵਾਲਿਆਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦੀ ਹੈ। ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਠੀਕ ਤਰ੍ਹਾਂ ਚੱਲ ਨਹੀਂ ਸਕਣਗੀਆਂ।
