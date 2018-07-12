@@ -167,7 +167,7 @@
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
 <!ENTITY checkSpellingCmd2.accesskey "П">
-<!ENTITY enableInlineSpellChecker.label "Проверка на правописа при писане">
+<!ENTITY enableInlineSpellChecker.label "Проверка на правописа при въвеждане">
 <!ENTITY enableInlineSpellChecker.accesskey "р">
 <!ENTITY quoteCmd.label "Цитиране на писмо">
 <!ENTITY quoteCmd.accesskey "Ц">
@@ -248,7 +248,7 @@
 <!ENTITY quoteButton.tooltip "Цитиране на предното писмо">
 <!ENTITY addressButton.tooltip "Изберете получател от адресника">
 <!ENTITY attachButton.tooltip2 "Добавяне на прикачен файл">
-<!ENTITY spellingButton.tooltip "Правописна проверка на маркировката или цялото писмо">
+<!ENTITY spellingButton.tooltip "Правописна проверка на избраното или цялото писмо">
 <!ENTITY saveButton.tooltip "Запазване на писмото">
 <!ENTITY cutButton.tooltip              "Изрязване">
 <!ENTITY copyButton.tooltip             "Копиране">
