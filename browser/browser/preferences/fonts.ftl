@@ -59,7 +59,7 @@ fonts-langgroup-odia =
 fonts-langgroup-sinhala =
     .label = ਸਿੰਹਾਲਾ
 fonts-langgroup-tamil =
-    .label = ਤਾਮਿਲ
+    .label = ਤਮਿਲ
 fonts-langgroup-telugu =
     .label = ਤੇਲਗੂ
 fonts-langgroup-thai =
@@ -69,28 +69,28 @@ fonts-langgroup-tibetan =
 fonts-langgroup-canadian =
     .label = ਕੈਨੇਡੀਅਨ
 fonts-langgroup-other =
-    .label = ਹੋਰ ਲਿਖਣ ਸਿਸਟਮ
+    .label = ਹੋਰ ਲਿਖਣ ਪ੍ਰਣਾਲੀਆਂ
 
 ## Default fonts and their sizes
 
 fonts-proportional-header = ਅਨੁਪਾਤੀ
     .accesskey = P
-fonts-proportional-size = ਆਕਾਰ
+fonts-proportional-size = ਕੱਦ
     .accesskey = z
-fonts-serif = ਸੈਰੀਫ਼
+fonts-serif = ਸੈਰਿਫ਼
     .accesskey = S
-fonts-sans-serif = ਸਨਜ਼-ਸੈਰੀਫ਼
+fonts-sans-serif = ਬਿਨਾਂ-ਸੈਰਿਫ
     .accesskey = n
 fonts-monospace = ਮੋਨੋਸਪੇਸ
     .accesskey = M
-fonts-monospace-size = ਆਕਾਰ
+fonts-monospace-size = ਕੱਦ
     .accesskey = e
-fonts-minsize = ਘੱਟੋ-ਘੱਟ ਫ਼ੋਂਟ ਆਕਾਰ
+fonts-minsize = ਘੱਟੋ ਘੱਟ ਅੱਖਰ ਕੱਦ
     .accesskey = o
 fonts-minsize-none =
     .label = ਕੋਈ ਨਹੀਂ
 fonts-allow-own =
-    .label = ਸਫ਼ਿਆਂ ਨੂੰ ਉੱਤੇ ਦਿੱਤੀ ਮੇਰੀ ਚੋਣ ਦੀ ਬਜਾਏ ਆਪਣੇ ਖੁਦ ਦੇ ਫ਼ੋਂਟ ਚੁਣਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
+    .label = ਸਫ਼ਿਆਂ ਨੂੰ, ਉੱਪਰ ਕੀਤੀ ਤੁਹਾਡੀ ਚੋਣ ਦੀ ਬਜਾਏ ਆਪਣੇ ਖੁਦ ਦੇ ਅੱਖਰ ਚੁਣਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਉ
     .accesskey = A
 
 ## Text Encodings
@@ -113,15 +113,17 @@ fonts-languages-fallback-name-ceiso =
 fonts-languages-fallback-name-cewindows =
     .label = ਕੇਂਦਰੀ ਯੂਰਪ, Microsoft
 fonts-languages-fallback-name-simplified =
-    .label = ਚੀਨੀ, ਸਧਾਰਨ
+    .label = ਚੀਨੀ, ਸਰਲ
 fonts-languages-fallback-name-traditional =
-    .label = ਚੀਨੀ, ਪੁਰਾਤਨ
+    .label = ਚੀਨੀ, ਰਵਾਇਤੀ
+fonts-languages-fallback-name-cyrillic =
+    .label = ਸਿਰਲਿਕ
 fonts-languages-fallback-name-greek =
     .label = ਗਰੀਕ
 fonts-languages-fallback-name-hebrew =
-    .label = ਹੈਬਰਿਊ
+    .label = ਹੀਬਰੂ
 fonts-languages-fallback-name-japanese =
-    .label = ਜਾਪਾਨੀ
+    .label = ਜਪਾਨੀ
 fonts-languages-fallback-name-korean =
     .label = ਕੋਰੀਆਈ
 fonts-languages-fallback-name-thai =
@@ -131,8 +133,8 @@ fonts-languages-fallback-name-turkish =
 fonts-languages-fallback-name-vietnamese =
     .label = ਵੀਅਤਨਾਮੀ
 fonts-languages-fallback-name-other =
-    .label = ਹੋਰ (ਪੱਛਮੀ ਯੂਰਪੀਅਨ ਨੂੰ ਛੱਡ ਕੇ)
-fonts-very-large-warning-title = ਵੱਡਾ ਘੱਟੋ-ਘੱਟ ਫ਼ੋਂਟ ਆਕਾਰ
+    .label = ਹੋਰ (ਪੱਛਮੀ ਯੂਰਪੀ ਸਮੇਤ)
+fonts-very-large-warning-title = ਵੱਡਾ ਘੱਟੋ-ਘੱਟ ਅੱਖਰ ਆਕਾਰ
 fonts-very-large-warning-accept = ਕਿਵੇਂ ਵੀ ਮੇਰੀਆਂ ਤਬਦੀਲੀਆਂ ਰੱਖੋ
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
