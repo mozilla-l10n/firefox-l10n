@@ -20,6 +20,7 @@
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Piléh &tabCrashed.restoreTab; atawa &tabCrashed.restoreAll; keu-peuhah keulayi laman.">
 <!ENTITY tabCrashed.requestHelp "Peu jeut neubantu kamoe?">
 <!ENTITY tabCrashed.requestReport "Lapor tab nyoe">
+<!ENTITY tabCrashed.sendReport3 "Kirem lapuran otomatis sibagoe nyoe mangat kamoe peu-beutôi.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Komentar Peuniléh (komentar deuh geukalön nibak mandum ureung)">
 <!ENTITY tabCrashed.emailPlaceholder "Neupasoe email droen disinoe">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Lapor tab layeue likôt">

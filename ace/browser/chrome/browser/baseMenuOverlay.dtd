@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY minimizeWindow.key       "m">
+<!ENTITY zoomWindow.label         "Peutoe">
+<!ENTITY windowMenu.label         "Tingkap">
 
 <!ENTITY helpMenu.label           "Beunantu"> 
 <!ENTITY helpMenu.accesskey       "H"> 
@@ -10,6 +12,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Beunantu"> 
 <!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct2.label      "Bhaih &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "Beunantu &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "H">
