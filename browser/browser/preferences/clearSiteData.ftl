@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 clear-site-data-window =
-    .title = ਡਾਟਾ ਸਾਫ਼ ਕਰੋ
+    .title = ਡੇਟਾ ਸਾਫ਼ ਕਰੋ
     .style = width: 35em
-clear-site-data-description = { -brand-short-name } ਵਲੋਂ ਸੰਭਾਲੇ ਗਏ ਸਾਰੇ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਏ ਨੂੰ ਸਾਫ਼ ਕੀਤਾ ਜਾਵੇਗਾ, ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਸਾਈਨ ਆਉਟ ਹੋ ਜਾਉਂਗੇ ਅਤੇ ਆਫ਼ਲਾਈਨ ਵੈੱਬ ਸਮੱਗਰੀ ਹਟਾਈ ਜਾਵੇਗੀ। ਕੈਸ਼ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਨਾਲ ਤਹਾਡੇ ਲਾਗਇਨ ਉੱਤੇ ਕੋਈ ਫ਼ਰਕ ਨਹੀਂ ਪਵੇਗਾ।
+clear-site-data-description = { -brand-short-name } ਵਲੋਂ ਸੰਭਾਲੇ ਗਏ ਸਾਰੇ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕੀਤਾ ਜਾਵੇਗਾ, ਜਿਸ ਨਾਲ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਸਾਈਨ ਆਉਟ ਹੋ ਜਾਉਂਗੇ ਅਤੇ ਆਫ਼ਲਾਈਨ ਵੈੱਬ ਸਮੱਗਰੀ ਹਟਾਈ ਜਾਵੇਗੀ। ਕੈਸ਼ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਨਾਲ ਤੁਹਾਡੇ ਲਾਗਇਨ ਉੱਤੇ ਕੋਈ ਫ਼ਰਕ ਨਹੀਂ ਪਵੇਗਾ।
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -14,7 +14,7 @@ clear-site-data-close-key =
 #   $amount (Number) - Amount of site data currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cookies-with-data =
-    .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ({ $amount } { $unit })
+    .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡੇਟਾ ({ $amount } { $unit })
     .accesskey = S
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
@@ -22,7 +22,7 @@ clear-site-data-cookies-with-data =
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
+    .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡੇਟਾ
     .accesskey = S
 clear-site-data-cookies-info = ਜੇ ਸਾਫ਼ ਕੀਤਾ ਤਾਂ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਸਾਈਨ ਆਉਟ ਹੋ ਸਕਦੇ ਹੋ
 # The parameters in parentheses in this string describe disk usage
