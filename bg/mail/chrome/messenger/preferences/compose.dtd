@@ -31,7 +31,7 @@
 
 <!ENTITY spellCheck.label                     "Проверка на правописа преди изпращане">
 <!ENTITY spellCheck.accesskey                 "П">
-<!ENTITY spellCheckInline.label               "Проверка на правописа със самото писане">
+<!ENTITY spellCheckInline.label               "Проверка на правописа при въвеждане">
 <!ENTITY spellCheckInline1.accesskey          "в">
 <!ENTITY languagePopup.label                  "Език:">
 <!ENTITY languagePopup.accessKey              "Е">
