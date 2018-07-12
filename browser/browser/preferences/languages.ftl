@@ -3,24 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 languages-window =
-    .title = ਭਾਸ਼ਾ
+    .title = ਬੋਲੀਆਂ
     .style = width: 30em
 languages-close-key =
     .key = w
-languages-description = ਵੈੱਬ ਸਫ਼ੇ ਕਈ ਵਾਰ ਇੱਕ ਤੋਂ ਵੱਧ ਭਾਸ਼ਾ ਪੇਸ਼ ਕਰਦੇ ਹਨ। ਇਹ ਵੈੱਬ ਸਫ਼ੇ ਦਿਖਾਉਣ ਲਈ ਭਾਸ਼ਾ ਨੂੰ ਪਸੰਦ ਦੀ ਲੜੀ ਮੁਤਾਬਕ ਰੱਖੋ
+languages-description = ਵੈੱਬ ਵਰਕੇ ਕਈ ਵਾਰ ਇੱਕ ਤੋਂ ਵੱਧ ਬੋਲੀਆਂ ਵਿੱਚ ਪੇਸ਼ ਕੀਤੇ ਜਾਂਦੇ ਹਨ। ਇਹ ਵੈੱਬ ਵਰਕੇ ਦਿਖਾਉਣ ਲਈ ਤਰਜੀਹੀ ਕ੍ਰਮ ਮੁਤਾਬਕ ਬੋਲੀਆਂ ਚੁਣੋ।
 languages-customize-spoof-english =
-    .label = ਸੁਧਰੀ ਪਰਦੇਦਾਰੀ ਲਈ ਵੈੱਬ ਸਫ਼ਿਆਂ ਦੇ ਅੰਗਰੇਜ਼ੀ ਵਰਜ਼ਨ ਦੀ ਬੇਨਤੀ ਕਰੋ
+    .label = ਸੁਧਰੀ ਪਰਦੇਦਾਰੀ ਲਈ ਵੈੱਬ ਵਰਕਿਆਂ ਦੀ ਅੰਗਰੇਜ਼ੀ ਵੰਨਗੀ ਦੀ ਬੇਨਤੀ ਕਰੋ
 languages-customize-moveup =
-    .label = ਉੱਤੇ
+    .label = ਉੱਤੇ ਸਰਕਾਉ
     .accesskey = U
 languages-customize-movedown =
-    .label = ਹੇਠਾਂ
+    .label = ਹੇਠਾਂ ਸਰਕਾਉ
     .accesskey = D
 languages-customize-remove =
-    .label = ਹਟਾਓ
+    .label = ਹਟਾਉ
     .accesskey = R
 languages-customize-select-language =
-    .placeholder = ਜੋੜਨ ਲਈ ਭਾਸ਼ਾ
+    .placeholder = ਜੋੜਨ ਲਈ ਬੋਲੀ ਚੁਣੋ...
 languages-customize-add =
     .label = ਜੋੜੋ
     .accesskey = A
