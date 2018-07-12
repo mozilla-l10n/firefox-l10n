@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new =
-    .title = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
+    .title = ਨਵਾਂ ਗਲਾਫ ਜੋੜੋ
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
-    .title = { $name } ਕਨਟੇਨਰ ਪਸੰਦਾਂ
+    .title = { $name } ਗਲਾਫ ਤਰਜੀਹਾਂ
     .style = width: 45em
 containers-window-close =
     .key = w
@@ -26,7 +26,7 @@ containers-name-label = ਨਾਂ
     .accesskey = N
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
+    .placeholder = ਇੱਕ ਗਲਾਫ ਨਾਂ ਭਰੋ
 containers-icon-label = ਆਈਕਾਨ
     .accesskey = I
     .style = { -containers-labels-style }
@@ -34,7 +34,7 @@ containers-color-label = ਰੰਗ
     .accesskey = o
     .style = { -containers-labels-style }
 containers-button-done =
-    .label = ਮੁਕੰਮਲ
+    .label = ਹੋ ਗਿਆ
     .accesskey = D
 containers-color-blue =
     .label = ਨੀਲਾ
@@ -49,30 +49,30 @@ containers-color-red =
 containers-color-pink =
     .label = ਗੁਲਾਬੀ
 containers-color-purple =
-    .label = ਵੈਂਗਣੀ
+    .label = ਬੈਂਗਣੀ
 containers-icon-fingerprint =
-    .label = ਫਿੰਗਰਪਰਿੰਟ
+    .label = ਉਂਗਲ-ਛਾਪ
 containers-icon-briefcase =
-    .label = ਅਟੈਚੀ
+    .label = ਸੰਦੂਕੜੀ
 # String represents a money sign but currently uses a dollar sign
 # so don't change to local currency. See Bug 1291672.
 containers-icon-dollar =
     .label = ਡਾਲਰ ਸਾਈਨ
 containers-icon-cart =
-    .label = ਖਰੀਦਦਾਰੀ ਗੱਡਾ
+    .label = ਖਰੀਦਦਾਰੀ ਰੇੜ੍ਹੀ
 containers-icon-circle =
     .label = ਬਿੰਦੀ
 containers-icon-vacation =
     .label = ਛੁੱਟੀਆਂ
 containers-icon-gift =
-    .label = ਤੋਹਫ਼ਾ
+    .label = ਸੁਗਾਤ
 containers-icon-food =
-    .label = ਭੋਜਨ
+    .label = ਖਾਣ-ਪੀਣ
 containers-icon-fruit =
     .label = ਫ਼ਲ
 containers-icon-pet =
     .label = ਪਾਲਤੂ
 containers-icon-tree =
-    .label = ਰੁੱਖ
+    .label = ਦਰੱਖਤ
 containers-icon-chill =
-    .label = ਠੰਡ
+    .label = ਠੰਢ
