@@ -513,7 +513,7 @@
 <!ENTITY contextmenu_site_settings "Редактиране настройките на сайт">
 <!ENTITY contextmenu_top_sites_edit "Редактиране">
 <!ENTITY contextmenu_top_sites_pin "Закачане">
-<!ENTITY contextmenu_top_sites_unpin "Премахване от леснодостъпните сайтове">
+<!ENTITY contextmenu_top_sites_unpin "Премахване от леснодостъпните">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
@@ -639,8 +639,8 @@
 
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
-<!ENTITY home_pinned_site "Закачане на сайта">
-<!ENTITY home_unpinned_site "Премахване от леснодостъпните">
+<!ENTITY home_pinned_site "Страницата е закачена">
+<!ENTITY home_unpinned_site "Премахната от леснодостъпните">
 
 <!ENTITY remote_tabs_panel_moved_title "Къде изчезнаха моите раздели?">
 <!ENTITY remote_tabs_panel_moved_desc "Преместихме разделите ви от другите устройства в отделна секция на началната страница, така че да ги имате всеки път, когато отваряте нов раздел.">
