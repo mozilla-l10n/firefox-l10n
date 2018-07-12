@@ -46,6 +46,9 @@ serviceworker-worker-status-stopped = Durduruldu
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = Kaydediliyor
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+serviceworker-empty-suggestions = Geçerli sayfada bir service worker olması gerekiyorsa aşağıdakileri deneyebilirsiniz
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Konsoldaki hatalara bakın. <a>Konsolu aç</a>

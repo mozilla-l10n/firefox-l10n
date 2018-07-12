@@ -21,7 +21,7 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "Temizlenecek zaman aralığı: ">
-<!ENTITY clearTimeDuration.accesskey      "T">
+<!ENTITY clearTimeDuration.accesskey      "m">
 <!ENTITY clearTimeDuration.lastHour       "Son bir saat">
 <!ENTITY clearTimeDuration.last2Hours     "Son iki saat">
 <!ENTITY clearTimeDuration.last4Hours     "Son dört saat">
