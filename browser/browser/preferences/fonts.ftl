@@ -3,26 +3,26 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fonts-window =
-    .title = ਫੋਂਟ
+    .title = ਫੌਂਟ
 fonts-window-close =
     .key = w
 
 ## Font groups by language
 
-fonts-langgroup-header = ਇਸ ਲਈ ਫ਼ੋਂਟ
+fonts-langgroup-header = ਇਸ ਲਈ ਫੌਂਟ
     .accesskey = F
 fonts-langgroup-arabic =
     .label = ਅਰਬੀ
 fonts-langgroup-armenian =
-    .label = ਅਰਮਨੀਅਨ
+    .label = ਅਰਮੀਨੀਅਨ
 fonts-langgroup-bengali =
     .label = ਬੰਗਾਲੀ
 fonts-langgroup-simpl-chinese =
-    .label = ਸਧਾਰਨ ਚੀਨੀ
+    .label = ਚੀਨੀ (ਸਰਲ)
 fonts-langgroup-trad-chinese-hk =
-    .label = ਮੂਲ ਚੀਨੀ (ਹਾਂਗਕਾਂਗ)
+    .label = ਚੀਨੀ (ਰਵਾਇਤੀ, ਹਾਂਗਕਾਂਗ)
 fonts-langgroup-trad-chinese =
-    .label = ਮੂਲ ਚੀਨੀ (ਤਾਈਵਾਨ)
+    .label = ਚੀਨੀ (ਰਵਾਇਤੀ, ਤਾਇਵਾਨ)
 fonts-langgroup-cyrillic =
     .label = ਸੀਰਿਲਿਕ
 fonts-langgroup-devanagari =
@@ -40,11 +40,11 @@ fonts-langgroup-gurmukhi =
 fonts-langgroup-japanese =
     .label = ਜਾਪਾਨੀ
 fonts-langgroup-hebrew =
-    .label = ਹੈਬਰਿਊ
+    .label = ਹੀਬਰੂ
 fonts-langgroup-kannada =
     .label = ਕੰਨੜ
 fonts-langgroup-khmer =
-    .label = ਖਮੀਰ
+    .label = ਖਮੇਰ
 fonts-langgroup-korean =
     .label = ਕੋਰੀਆਈ
 # Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
@@ -55,7 +55,7 @@ fonts-langgroup-malayalam =
 fonts-langgroup-math =
     .label = ਗਣਿਤ
 fonts-langgroup-odia =
-    .label = ਓੜੀਆ
+    .label = ਉੜੀਆ
 fonts-langgroup-sinhala =
     .label = ਸਿੰਹਾਲਾ
 fonts-langgroup-tamil =
