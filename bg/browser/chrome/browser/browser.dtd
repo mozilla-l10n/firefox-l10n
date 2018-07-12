@@ -233,7 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Отваряне на панел със съобщението за работа без мрежа">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Отваряне на панел със съобщението за запазване на парола">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управление на използването на приставки">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Промяна на правото да получавате известия от уеб страницата">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Промяна на правата за получаване на известия от страницата">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Използване на хранилището за постоянни данни">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Четецът е под дистанционно управление">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Отваря панела за удостоверяване през Мрежата">
