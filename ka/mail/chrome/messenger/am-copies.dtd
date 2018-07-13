@@ -35,8 +35,8 @@
 <!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "სხვა:">
 <!ENTITY archiveInOtherFolder.accesskey "h">
-<!ENTITY specialFolders.label "წინასწარი ვერსიები, არქივები და ნიმუშები">
-<!ENTITY keepDrafts2.label "წინასწარი ვერსიების შენახვა:">
+<!ENTITY specialFolders.label "წინასწარი ნამუშევრები და ნიმუშები">
+<!ENTITY keepDrafts2.label "წინასწარი ნამუშევრის დატოვება:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;წინასწარი ნამუშევრები&quot; საქაღლდეში:">
 <!ENTITY draftsFolderOn.accesskey "წ">
