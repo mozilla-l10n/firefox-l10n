@@ -6,7 +6,7 @@
 <!ENTITY sendMail.title               "Metin Biçimi">
 <!ENTITY autoDowngrade.label          "İletileri mümkünse düz metin olarak gönder">
 <!ENTITY autoDowngrade.accesskey      "t">
-<!ENTITY sendMaildesc.label           "İletiyi HTML biçiminde gönderirken ve alıcılardan biri veya daha fazlası HTML ileti alamıyorken:">
+<!ENTITY sendMaildesc.label           "İletiyi HTML biçiminde gönderirken alıcılardan biri veya daha fazlası HTML ileti alamadığını bildirmişse:">
 <!ENTITY askMe.label                  "Ne yapılacağını bana sor">
 <!ENTITY askMe.accesskey              "N">
 <!ENTITY convertPlain.label           "İletiyi düz metne çevir">
