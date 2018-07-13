@@ -12,6 +12,7 @@
 
 <!-- LOCALIZATION NOTE (articleNotFound.desc): A longer description for the news
      error page. -->
+<!ENTITY articleNotFound.desc "Danevelliñ a ra n'hall ket kavout ar pennad ar strolladoù-nevez servijerioù.">
 
 <!-- LOCALIZATION NOTE (serverResponded.title): A string preceding the text
      response from the newsgroup server describing the error. -->
