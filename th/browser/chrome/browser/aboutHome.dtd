@@ -20,7 +20,7 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "มันเป็นเรื่องง่ายที่จะปรับแต่ง Firefox ของคุณให้เป็นแบบที่คุณต้องการ <a>เลือกจากส่วนเสริมนับพัน</a>">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; เป็นซอฟต์แวร์ฟรีและเปิดต้นฉบับจากมูลนิธิไม่แสวงผลกำไร Mozilla <a>รู้ถึงสิทธิของคุณ…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; เป็นซอฟต์แวร์เสรีและเปิดต้นฉบับจากมูลนิธิไม่แสวงผลกำไร Mozilla <a>รู้ถึงสิทธิของคุณ…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "ที่คั่นหน้า">
 <!ENTITY abouthome.historyButton.label   "ประวัติ">
