@@ -359,6 +359,9 @@
 <!ENTITY customizeFromAddress.label "Van-adres aanpassen…">
 <!ENTITY customizeFromAddress.accesskey "V">
 
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Berichttekst">
+
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Taal van spellingcontrole">
 <!ENTITY encodingStatusPanel.tooltip "Tekstcodering">
