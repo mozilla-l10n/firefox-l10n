@@ -31,9 +31,17 @@ a tab (i.e. it is a verb, not adjective). -->
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "വലത്തേക്കു് റ്റാബുകള്‍ അടയ്ക്കുക">
-<!ENTITY  closeTabsToTheEnd.accesskey        "വ">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "മറ്റ് ടാബുകള്‍ അടയ്ക്കുക">
-<!ENTITY  closeOtherTabs.accesskey           "അ">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+
+
+<!-- Pin Tab and Pin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Reload Tab and Reload Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -41,9 +49,9 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "റ്റാബ് പിന്‍ ചെയ്യുക">
-<!ENTITY  pinTab.accesskey                   "പ">
+<!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "റ്റാബ് അണ്‍പിന്‍ ചെയ്യുക">
-<!ENTITY  unpinTab.accesskey                 "അ">
+<!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "ഡിവൈസിലേക്ക് ടാബ് അയയ്ക്കുക">
 <!ENTITY  sendTabToDevice.accesskey          "എൻ">
 <!ENTITY  sendPageToDevice.label             "ഡിവൈസിലേക്ക് താൾ അയയ്ക്കുക">
@@ -51,14 +59,15 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "ഡിവൈസിലേക്ക് കണ്ണി അയയ്ക്കുക">
 <!ENTITY  sendLinkToDevice.accesskey         "എൻ">
 <!ENTITY  sendToDeviceFeedback.label         "അയച്ചു!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "ക്യു ചെയ്തു(ഓഫ്‍ലൈന്‍)">
 <!ENTITY  moveToNewWindow.label              "പുതിയ ജാലകത്തിലേക്ക് നീക്കുക">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "എല്ലാ ടാബുകളും അടയാളപ്പെടുത്തുക…">
-<!ENTITY  bookmarkAllTabs.accesskey          "ക">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "റ്റാബ് അടയ്ക്കുന്നതു് വേണ്ടെന്നു് വയ്ക്കുക">
-<!ENTITY  undoCloseTab.accesskey             "വ">
+<!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "റ്റാബ് അടയ്ക്കുക">
-<!ENTITY  closeTab.accesskey                 "C">
+<!ENTITY  closeTab.accesskey                 "c">
 
 <!ENTITY  listAllTabs.label      "എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക">
 
@@ -95,7 +104,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "എല്ലാ ടാബുകളും അടാളപ്പെടുത്തുക…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "എ">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "റ്റാബ് അടയ്ക്കുന്നതു് വേണ്ടെന്നു് വയ്ക്കുക">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "വ">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "താളിന്റെ സ്രോതസ്സ്‌">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -124,7 +133,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "എല്ലാ റ്റാബുകളും കാണിക്കുക">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
-
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label;-ലേക്ക് പ്രവേശിയ്ക്കുക">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; മുന്‍ഗണനകള്‍ തുറക്കുക">
@@ -169,7 +177,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "ജാലകം അടയ്ക്കുക">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "അടയാളങ്ങള്‍">
+<!ENTITY bookmarksMenu.label "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "ഈ താള്‍ അടയാളപ്പെടുത്തുക">
 <!ENTITY editThisBookmarkCmd.label "ഈ അടയാളക്കുറിപ്പു് ചിട്ടപ്പെടുത്തുക">
@@ -183,19 +191,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "മറ്റു് അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY mobileBookmarksCmd.label "മൊബൈൽ ബുക്ക്മാർക്ക്">
 <!ENTITY bookmarksToolbarChevron.tooltip "കൂടുതല്‍ അടയാളക്കുറിപ്പുകള്‍ കാണിക്കുക">
-<!ENTITY showRecentlyBookmarked.label     "അടുത്തിടെ അടയാളപ്പെടുത്തിയതു് കാണുക">
-<!ENTITY showRecentlyBookmarked.accesskey "ട">
-<!ENTITY hideRecentlyBookmarked.label     "അടുത്തിടെ അടയാളപ്പെടുത്തിയതു് കാണാതാക്കുക">
-<!ENTITY hideRecentlyBookmarked.accesskey "ക">
 
 <!ENTITY backCmd.label                "പുറകോട്ട്‌">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "ഒരു താള്‍ പുറകോട്ട്‌ പോകുക">
 <!ENTITY forwardCmd.label             "മുമ്പോട്ട്">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "ഒരു താള്‍ മുന്നോട്ട്‌ പോകുക">
 <!ENTITY backForwardButtonMenu.tooltip "നാള്‍വഴിയ്ക്കായി റൈറ്റ് ക്ലിക്ക് ചെയ്യുക അല്ലെങ്കില്‍ താഴേയ്ക്കു് വലിയ്ക്കുക">
 <!ENTITY backForwardButtonMenuMac.tooltip "നാള്‍വഴിയ്ക്കായി താഴേയ്ക്കു് വലിയ്ക്കുക">
 <!ENTITY reloadCmd.label              "വീണ്ടും ലഭ്യമാക്കുക">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "നിര്‍ത്തുക">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "അഡ്രസ്സ് ബാറിലുള്ള വിലാസത്തിലേക്കു പോകുക">
 <!ENTITY printButton.label            "പ്രിന്റ് ചെയ്യുക">
@@ -223,7 +231,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "താള്‍ തര്‍ജ്ജമ ചെയ്യുന്നത് ക്രമീകരിക്കുക">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "ഡിആര്‍എം സോഫ്റ്റ്‌വെയറിന്റെ ഉപയോഗം ക്രമീകരിക്കുക">
 
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "ഈ വെബ് സൈറ്റിന് നിങ്ങളുടെ ക്യാമറ ഉപയോഗിയ്ക്കുവാൻ സാധ്യമല്ല.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "ഈ വെബ് സൈറ്റിന് നിങ്ങളുടെ മൈക്രോഫോൺ ഉപയോഗിയ്ക്കുവാൻ സാധ്യമല്ല.">
 <!ENTITY urlbar.screenBlocked.tooltip            "ഈ വെബ് സൈറ്റിന് നിങ്ങളുടെ സ്ക്രീൻ പങ്കിടുവാൻ സാധ്യമല്ല.">
@@ -232,7 +239,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "നിങ്ങൾ ഈ വെബ് സൈറ്റ്ലെ സ്ഥിര ഡാറ്റ സൂക്ഷിപ്പ്  തടഞ്ഞിരിക്കുകയാണ്">
 <!ENTITY urlbar.popupBlocked.tooltip             "നിങ്ങള്‍ ഈ വെബ്സൈറ്റിന്റെ പോപ്പ് അപ്പുകള്‍ നിരോധിച്ചിരിക്കുന്നു.">
 
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "നാള്‍വഴി കാണിക്കുക">
 
 <!ENTITY searchItem.title             "തെരയുക">
@@ -240,7 +246,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "പൂമുഖം">
 
-<!ENTITY bookmarksButton.label          "അടയാളങ്ങള്‍">
+
+<!ENTITY bookmarksButton.label          "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "അടയാളക്കുറിപ്പുകൾ">
@@ -256,7 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "ബൂക്കമാർക്ക് മെനു ടൂൾ ബാർലേക്ക് ചേർക്കുക">
 <!ENTITY removeBookmarksMenu.label          "ടൂൾബാറിൽ നിന്ന് ബൂക്കമാർക്ക് മെനു നീക്കം ചെയ്യുക">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -287,6 +294,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectContextMenu.label     "എലമെന്റ് പരിശോധിയ്ക്കുക">
 <!ENTITY inspectContextMenu.accesskey "Q">
+
 
 <!ENTITY fileMenu.label         "ഫയല്‍">
 <!ENTITY fileMenu.accesskey       "F">
@@ -373,11 +381,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "മറ്റുള്ള ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണുവാന്‍ ടാബ് സിന്‍ക് ഓണാക്കൂ">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഇവിടെ കാണിക്കണോ?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "സിന്‍ക് മുന്‍ഗണനകള്‍">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണാന്‍ സൈന്‍ ഇന്‍ ചെയ്യുക.">
 <!ENTITY appMenuRemoteTabs.unverified.label "നിങ്ങളുടെ അക്കൌണ്ട് സ്ഥിരീകരിക്കേണ്ടതുണ്ട്.">
 <!ENTITY appMenuRemoteTabs.signin.label "സിങ്കിലേയ്ക്ക് പ്രവേശിക്കുക">
@@ -394,8 +401,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "ഓവർഫ്ലോ മെനുലേക്ക് ആഡ് ചെയ്യുക">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "ടൂള്‍ബാറിലേക്ക് നീക്കുക">
@@ -407,6 +413,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "മെനുവിലേക്ക് നീക്കുക">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ക">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "ഓവർഫ്ലോ മെനുവിൽ പിൻ ചെയ്യുക">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "ഓവർഫ്ലോ മെനുവിൽ നിന്നും അൺപിൻ ചെയ്യുക">
@@ -417,6 +426,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "ക">
 <!ENTITY customizeMenu.addMoreItems.label "കൂടുതല്‍ വസ്തുക്കള്‍ ചേര്‍ക്കുക...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "ക">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -736,6 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "ചെയ്തു">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ഈ">
 
+
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "സൈറ്റ് സുരക്ഷ">
@@ -777,9 +788,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "കൂടുതല്‍ വിവരങ്ങള്‍">
 
+
 <!ENTITY identity.permissions "ആനുകൂല്യങ്ങള്‍">
 <!ENTITY identity.permissionsEmpty "താങ്കള്‍ ഈ വെബ്‌ സൈറ്റിന് പ്രത്യേക അനുമതികള്‍ ഒന്നും നല്‍കിയിട്ടില്ല.">
 <!ENTITY identity.permissionsReloadHint "മാറ്റങ്ങൾ പ്രയോഗത്തിൽ വരുവാൻ പേജ് വീണ്ടും ലോഡുചെയ്യേണ്ടി വന്നേക്കാം.">
+
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -894,6 +907,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "സുരക്ഷ സജ്ജികരിക്കുക">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
 <!ENTITY pluginNotification.showAll.label "എല്ലാം കാണിയ്ക്കുക">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
@@ -967,6 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabControlled.keepButton.label "മാറ്റങ്ങള്‍ സൂക്ഷിക്കുക">
 
+
+
 <!ENTITY pageActionButton.tooltip "പേജ് പ്രവർത്തനങ്ങൾ">
 <!ENTITY pageAction.addToUrlbar.label "അഡ്രസ് ബാറിലേക്ക് ചേർക്കുക">
 <!ENTITY pageAction.removeFromUrlbar.label "അഡ്രസ് ബാറിൽ നിന്ന് നീക്കം ചെയ്യുക">
@@ -975,6 +998,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "ടാബ് മറ്റൊരുപകരണത്തിലേക്കയക്കുക">
 <!ENTITY sendToDevice.syncNotReady.label "ഉപകരണങ്ങള്‍ സിങ്ക് ചെയ്യുന്നു…">
+
 
 <!ENTITY libraryButton.tooltip "ഹിസ്റ്ററിയും സേവുചെയ്ത ബുക്‍മാര്‍ക്കുളും മറ്റും കാണിക്കുക">
 

@@ -24,7 +24,7 @@ their language. -->
 <!ENTITY searchreset.link.pageInfo2       "ഈ സജ്ജീകരണങ്ങൾക്ക് മാറ്റം വരുത്താം">
 
 <!ENTITY searchreset.noChangeButton        "മാറ്റേണ്ടതില്ല">
-<!ENTITY searchreset.noChangeButton.access "ഡ">
+<!ENTITY searchreset.noChangeButton.access "D">
 
 <!ENTITY searchreset.changeEngineButton        "തെരയല്‍ യന്ത്രം മാറ്റൂ">
-<!ENTITY searchreset.changeEngineButton.access "സ">
+<!ENTITY searchreset.changeEngineButton.access "C">
