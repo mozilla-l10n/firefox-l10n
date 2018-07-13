@@ -135,6 +135,7 @@
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Seçimi sırala: A - Z">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Seçimi sırala: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Görünüm">
@@ -246,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Bu iletiyi daha sonra gönder">
 <!ENTITY quoteButton.tooltip "Önceki iletiden alıntı yap">
 <!ENTITY addressButton.tooltip "Adres Defteri'nden alıcı seç">
-<!ENTITY attachButton.tooltip "Bir dosya ekle">
 <!ENTITY attachButton.tooltip2 "Dosya ekle">
 <!ENTITY spellingButton.tooltip "Seçimin veya tüm iletinin yazımını denetle">
 <!ENTITY saveButton.tooltip "Bu iletiyi kaydet">
@@ -274,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "e">
-
 <!ENTITY attachmentBucketHeader.tooltip "Ek bölmesi">
 <!ENTITY attachmentBucketCloseButton.tooltip "Ek bölmesini gizle">
 

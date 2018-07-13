@@ -25,11 +25,9 @@
 <!ENTITY useHtml.accesskey                    "H">
 <!ENTITY autoQuote.label                      "Yanıt yazarken özgün metni otomatik olarak alıntıla">
 <!ENTITY autoQuote.accesskey                  "a">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Sonra">
-<!ENTITY then.accesskey                       "S">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Alıntı yaparken">
+<!ENTITY quoting.accesskey                    "t">
 <!ENTITY aboveQuote.label                     "yanıtıma alıntının üstünden başla">
 <!ENTITY belowQuote.label                     "yanıtıma alıntının altından başla">
 <!ENTITY selectAndQuote.label                 "alıntıyı seç">
