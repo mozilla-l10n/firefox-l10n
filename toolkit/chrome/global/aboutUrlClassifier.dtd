@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.providerTitle               "ผู้ให้บริการ">
+<!ENTITY aboutUrlClassifier.provider                    "ผู้ให้บริการ">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "เวลาที่อัปเดตล่าสุด">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "เวลาที่อัปเดตถัดไป">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "สถานะการอัปเดตล่าสุด">
