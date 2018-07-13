@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = පසුහැඹීම අනවශ්‍ය වෙබ් අඩවි සඳහා “පසුහැඹීම එපා“ සංඥාව යවන්න
 do-not-track-learn-more = තවත් දැනගන්න
 do-not-track-option-default =
     .label = හඹායෑම් ආරක්ෂාව භාවිත කරන විට පමණක්
@@ -38,10 +39,23 @@ feature-enable-requires-restart = මෙම විශේෂාංගය සක�
 feature-disable-requires-restart = මෙම විශේෂාංගය අක්‍රිය කිරීමට { -brand-short-name } යළි ඇරඹිය යුතුයි.
 should-restart-title = { -brand-short-name } යළි අරඹන්න
 should-restart-ok = { -brand-short-name } දැන් ප්‍රතිපණගන්වන්න
+cancel-no-restart-button = අවලංගු කරන්න
 restart-later = පසුව යළි අරඹන්න
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
 
 ## Preferences UI Search Results
 
+search-results-header = සෙවුම් ප්‍රථිපල
 
 ## General Section
 
@@ -61,17 +75,8 @@ is-not-default = { -brand-short-name } දැනට ඔබේ පෙරනිම
 set-as-my-default-browser =
     .label = පෙරනිමිය ලෙස සකසන්න…
     .accesskey = D
-startup-page = { -brand-short-name } ආරම්භ වන විට
-    .accesskey = s
-startup-user-homepage =
-    .label = ඔබගේ නිවාස පිටුව පෙන්වන්න
-startup-blank-page =
-    .label = හිස් පිටුවක් පෙන්වන්න
-startup-prev-session =
-    .label = අවසන් වරට තිබූ ඔබගේ කවුළු සහ ටැබ් පෙන්වන්න
 disable-extension =
     .label = දිගු ක්‍රියා විරහිත කරන්න
-home-page-header = මුල්පිටුව
 tabs-group-header = ටැබ්
 ctrl-tab-recently-used-order =
     .label = මෑතදී භාවිත පෙළගැස්මට ටැබ අතර මාරුවීම සඳහා Ctrl+Tab භාවිත කරන්න
@@ -97,12 +102,17 @@ containers-disable-alert-cancel-button = සක්‍රියව තබන්�
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = අක්‍ෂර සහ වර්ණ
+default-font = පෙරනිමි ෆොන්ටය
+    .accesskey = D
+default-font-size = විශාලත්වය
+    .accesskey = S
 advanced-fonts =
     .label = වැඩිමනත්...
     .accesskey = A
 colors-settings =
     .label = වර්‍ණ...
     .accesskey = C
+language-header = භාෂාව
 choose-language-description = පිටු දර්ශනය සඳහා ඔබට උචිත භාෂාව තෝරන්න
 choose-button =
     .label = තෝරන්න…
@@ -122,6 +132,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = ගොනු හා යෙදවුම්
 download-header = බාගැනිම්
 download-save-to =
     .label = ගොනු සුරකින්නේ
@@ -182,6 +193,12 @@ performance-settings-learn-more = තවත් දැනගන්න
 performance-allow-hw-accel =
     .label = ඇත්නම් දෘඩාංග වේග-උපාංග (acceleration) භාවිතා කරන්න
     .accesskey = r
+performance-limit-content-process-option = අන්තර්ගත සැකසුම් සීමාව
+    .accesskey = I
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num }(පෙරනිමි)
 
 ## General Section - Browsing
 
@@ -204,15 +221,28 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-connection-learn-more = තවත් දැනගන්න
 network-proxy-connection-settings =
     .label = සැකසුම්...
     .accesskey = e
 
 ## Home Section
 
+home-new-windows-tabs-header = නව කවුළු සහ ටැබ්
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = මුල් පිටුව හා නව කවුළු
+home-newtabs-mode-label = නව ටැබ්
+home-restore-defaults =
+    .label = පෙරනිමි නැවත පිහිටුවන්න
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox මුල් පිටුව (පෙරනිමි)
+home-mode-choice-blank =
+    .label = හිස් පිටුව
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -227,12 +257,12 @@ use-current-pages =
 choose-bookmark =
     .label = පිටු සලකුණු භාවිතා කරන්න…
     .accesskey = B
-restore-default =
-    .label = පෙරනිමිය
-    .accesskey = R
 
 ## Search Section
 
+search-bar-header = සෙවුම් තීරය
+search-bar-shown =
+    .label = සෙවුම් තීරය මෙවලම් තීරයට එක් කරන්න
 search-engine-default-header = පෙරනිමි සෙවුම් එළවුම
 search-suggestions-option =
     .label = සෙවුම් යෝජනා ලබාදෙන්න
@@ -248,6 +278,7 @@ search-restore-default =
 search-remove-engine =
     .label = ඉවත් කරන්න
     .accesskey = R
+search-find-more-link = තවත් සෙවුම් යන්ත්‍ර සොයන්න
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = මූල පදය කිහිපවරක් භවිතකර ඇත
@@ -259,6 +290,7 @@ search-keyword-warning-bookmark = ඔබ විසින් තෝරාගත�
 ## Containers Section
 
 containers-back-link = « ආපසු යන්න
+containers-header = බහාලුම් ටැබ
 containers-add-button =
     .label = නව බහාලුමක් එක් කරන්න
     .accesskey = A
@@ -270,6 +302,12 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = ඔබේ ජාලය ඔබ සමඟ ගෙනයන්න
+sync-signedout-account-title = { -fxaccount-brand-name } සමඟ සම්බන්ද වන්න
+sync-signedout-account-create = ගිණුමක් නැද්ද? අාරම්භ කරන්න
+    .accesskey = C
+sync-signedout-account-signin =
+    .label = ඇතුළු වන්න...
+    .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -282,10 +320,16 @@ sync-mobile-promo = මෙය සඳහා Firefox බාගත කරන්න 
 
 ## Sync Section - Signed in
 
+sync-disconnect =
+    .label = විසන්ධි කරන්න...
+    .accesskey = D
 sync-manage-account = ගිණුම කළමනාකරණය කරන්න
     .accesskey = o
 sync-signedin-unverified = { $email } තහවුරු කර නොමැත
 sync-signedin-login-failure = කරුණාකර නැවත සබඳවීමට පිවිසෙන්න { $email }
+sync-remove-account =
+    .label = ගිණුම ඉවත් කරන්න
+    .accesskey = R
 sync-sign-in =
     .label = පිවිසෙන්න
     .accesskey = g
@@ -295,13 +339,26 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = පෙරදෑ
     .accesskey = r
+sync-engine-logins =
+    .label = පිවිසුම්
+    .tooltiptext = ඔබ සුරක්ෂිත කර අැති පරිශීලක නාම හා මුරපද
+    .accesskey = L
+sync-engine-addresses =
+    .label = ලිපින
+    .tooltiptext = ඔබ සුරක්ෂිත කර අැති ලිපින (මේස පරිඝනකයේ පමණි)
+    .accesskey = e
 sync-device-name-header = උපාංග නාමය
+sync-device-name-change =
+    .label = මෙවලම් නාමය වෙනස් කරන්න...
+    .accesskey = h
 sync-device-name-cancel =
     .label = එපා
     .accesskey = n
 sync-device-name-save =
     .label = සුරකින්න
     .accesskey = v
+sync-mobilepromo-single = තවත් මෙවලමක් සම්බන්ධ කරන්න
+sync-mobilepromo-multi = මෙවලම් පාලනය කරන්න
 sync-tos-link = සේවා කොන්දේසි
 sync-fxa-privacy-notice = පෞද්ගලිකත්ව දැන්වීම
 
@@ -348,22 +405,38 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = සැකසුම්…
     .accesskey = t
+history-clear-button =
+    .label = අතීතය හිස් කරන්න...
+    .accesskey = S
 
 ## Privacy Section - Site Data
 
 sitedata-learn-more = තවත් දැනගන්න
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } වසා අැත
 sitedata-accept-third-party-always-option =
     .label = සැමවිටම
 sitedata-accept-third-party-visited-option =
     .label = පිවිසි වෙතින්
 sitedata-accept-third-party-never-option =
     .label = Never
+sitedata-clear =
+    .label = දත්ත මකන්න...
+    .accesskey = l
+sitedata-settings =
+    .label = දත්ත කළමනාකරණය කරන්න...
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = හැරදැමීම්...
     .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = ලිපින තීරය
+addressbar-suggest = ලිපින තීරුව භාවිත කරන විට, යෝජනා කරන්න
+addressbar-locbar-history-option =
+    .label = සැරිසර අතීතය
+    .accesskey = h
 addressbar-locbar-bookmarks-option =
     .label = පිටු සලකුණු
     .accesskey = k
@@ -385,6 +458,24 @@ tracking-mode-never =
 
 ## Privacy Section - Permissions
 
+permissions-header = අවසරයන්
+permissions-location = ස්ථානය
+permissions-location-settings =
+    .label = සිටුවම්...
+    .accesskey = t
+permissions-camera = කැමරාව
+permissions-camera-settings =
+    .label = සිටුවම්...
+    .accesskey = t
+permissions-microphone = මයික්‍රොෆෝනය
+permissions-microphone-settings =
+    .label = සිටුවම්...
+    .accesskey = t
+permissions-notification = දැනුම්දීම්
+permissions-notification-settings =
+    .label = සිටුවම්...
+    .accesskey = t
+permissions-notification-link = තවත් දැනගන්න
 permissions-block-popups =
     .label = පොප්-අප් කවුළු වලකන්න
     .accesskey = B
@@ -394,10 +485,13 @@ permissions-block-popups-exceptions =
 permissions-addon-exceptions =
     .label = හැරදැමීම්...
     .accesskey = E
+permissions-a11y-privacy-link = තවත් දැනගන්න
 
 ## Privacy Section - Data Collection
 
+collection-privacy-notice = පෞද්ගලිකත්ව දැනුම්දීම
 collection-health-report-link = තවත් දැනගන්න
+collection-browser-errors-link = තවත් දැනගන්න
 collection-backlogged-crash-reports-link = තවත් දැනගන්න
 
 ## Privacy Section - Security
@@ -405,6 +499,11 @@ collection-backlogged-crash-reports-link = තවත් දැනගන්න
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = ආරක්ෂාව
+security-enable-safe-browsing-link = තවත් දැනගන්න
+security-block-downloads =
+    .label = භයානක බාගත කිරීම් අවහිර කරන්න
+    .accesskey = d
 
 ## Privacy Section - Certificates
 
