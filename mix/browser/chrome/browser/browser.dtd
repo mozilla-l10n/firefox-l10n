@@ -389,7 +389,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pageAction.copyLink.label    "Ndatava Enlace">
 <!ENTITY copyURLFeedback.label        "¡Va’a ndataviña!">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.commandkey       "s">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
