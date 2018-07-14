@@ -6,6 +6,8 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.errorTitle2    "Kamoe lakee meu'ah, kamoe h'an meuhasé meupeuhah mieng droeneuh">
+<!ENTITY restorepage.problemDesc2   "Kamoe h'an meuhasé peuriwang sesi keuneulhueh droeneuh, neuci piléh Peuriwang Sesi">
 <!ENTITY restorepage.tryThis2       "Mantöng hanjeut neupeuriwang sesi? Mungkén wab jih bak tab. Kalön tab seugolomjih, lhi tanda bak tab nyang hana peureulèe, leuhnyan neupeuriwang.">
 
 <!ENTITY restorepage.hideTabs       "Peusom Tab Seugolomjih">
