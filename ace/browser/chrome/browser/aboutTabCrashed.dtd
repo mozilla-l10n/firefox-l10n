@@ -20,6 +20,7 @@
 <!ENTITY tabCrashed.single.offerHelpMessage2 "Piléh &tabCrashed.restoreTab; keu-peuhah keulayi laman.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "Piléh &tabCrashed.restoreTab; atawa &tabCrashed.restoreAll; keu-peuhah keulayi laman.">
 <!ENTITY tabCrashed.requestHelp "Peu jeut neubantu kamoe?">
+<!ENTITY tabCrashed.requestHelpMessage "Laporan peu-peu nyang reuleh that meubantu  jeut kamoe paréksa peu na masalah, ngon mangat kamoe peugèt &brandShortName; keu leubèh get lom.">
 <!ENTITY tabCrashed.requestReport "Lapor tab nyoe">
 <!ENTITY tabCrashed.sendReport3 "Kirem lapuran otomatis sibagoe nyoe mangat kamoe peu-beutôi.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Komentar Peuniléh (komentar deuh geukalön nibak mandum ureung)">

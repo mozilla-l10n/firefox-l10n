@@ -45,6 +45,7 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Pengaya ngon kustomisasi droeneuh ka meusampôh,jinoe atôran browser Droeneuh ka meuriwang lagè awai phôn. Meunye nyoe h'an jeuet keu peuseuleusoe masalah droeneuh,">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "meureunoe lom bhah peu nyang jeut neupeulaku.">
