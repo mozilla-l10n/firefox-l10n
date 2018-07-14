@@ -247,7 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Olet estänyt ilmoitukset tältä sivustolta.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Olet estänyt pysyvän tallennustilan käytön tältä sivustolta.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Olet estänyt ponnahdusikkunat tältä sivustolta.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Olet estänyt äänellä varustetun median automaattisen toistamisen tällä sivustolla.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Olet estänyt äänellisen median automaattisen toistamisen tältä sivustolta.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Olet estänyt kanvaksen sisällön lukemisen tältä sivustolta.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Olet estänyt Adobe Flash -liitännäisen käytön tältä sivustolta.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Olet estänyt MIDI-käytön tältä sivustolta.">
