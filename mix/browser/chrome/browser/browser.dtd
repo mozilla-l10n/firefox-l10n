@@ -393,14 +393,38 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY printFrameCmd.accesskey      "P">
+<!ENTITY saveLinkCmd.accesskey        "k">
+<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.accesskey  "y">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
