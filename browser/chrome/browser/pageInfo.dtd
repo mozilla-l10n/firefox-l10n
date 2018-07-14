@@ -46,22 +46,10 @@
 
 <!ENTITY  feedTab               "ಫೀಡ್‌ಗಳು">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "ಚಂದಾದಾರನಾಗು">
-<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "ಅನುಮತಿಗಳು">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "ಡೀಫಾಲ್ಟ್‍ ಆದುದನ್ನು ಬಳಸು">
-<!ENTITY  permAskAlways         "ಯಾವಾಗಲೂ ಕೇಳು">
-<!ENTITY  permAllow             "ಅನುಮತಿಸು">
-<!ENTITY  permAllowSession      "ಅಧಿವೇಶನಕ್ಕೆ ಅನುಮತಿಸು">
-<!ENTITY  permHide              "ಅಡಗಿಸು">
-<!ENTITY  permBlock             "ನಿರ್ಬಂಧಿಸು">
 <!ENTITY  permissionsFor        "ಇದಕ್ಕಾಗಿನ ಅನುಮತಿಗಳು:">
-<!ENTITY  permPlugins           "ಪ್ಲಗ್‌ಇನ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
-
-<!ENTITY  permClearStorage           "ಶೇಖರಣೆಯನ್ನು ಅಳಿಸು">
-<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "ಸುರಕ್ಷತೆ">
 <!ENTITY  securityTab.accesskey "S">
@@ -78,9 +66,7 @@
 
 <!ENTITY  securityView.privacy.header                   "ಗೌಪ್ಯತೆ ಹಾಗು ಇತಿಹಾಸ">
 <!ENTITY  securityView.privacy.history                  "ನಾನು ಈ ತಾಣಕ್ಕೆ  ಈ ದಿನ ಇದಕ್ಕೂ ಮೊದಲು ಭೇಟಿ ನೀಡಿದ್ದೆನೆಯೆ?">
-<!ENTITY  securityView.privacy.cookies                  "ನನ್ನ ಗಣಕದಲ್ಲಿ ಮಾಹಿತಿಯನ್ನು (ಕುಕಿಗಳು) ಶೇಖರಿಸಿಡುವ ಜಾಲತಾಣವು ಇದೇನಾ?">
-<!ENTITY  securityView.privacy.viewCookies              "ಕುಕಿಗಳನ್ನು ತೋರಿಸು">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "ನಾನು ಈ ತಾಣಕ್ಕಾಗಿ ಯಾವುದಾದರೂ ಗುಪ್ತಪದವನ್ನು ಶೇಖರಿಸಿಟ್ಟಿದ್ದೇನೆಯೆ?">
 <!ENTITY  securityView.privacy.viewPasswords            "ಶೇಖರಿಸಲಾದ ಗುಪ್ತಪದವನ್ನು ತೋರಿಸು">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
