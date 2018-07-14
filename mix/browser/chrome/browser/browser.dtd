@@ -374,6 +374,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY viewImageCmd.label           "Kunchee ña ndatavana">
+<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageInfoCmd.label       "Kunchee tu'un tsa tutu ndatavana">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageDescCmd.accesskey   "D">
+<!ENTITY viewVideoCmd.label           "Kunchee video">
+<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY pageAction.copyLink.label    "Ndatava Enlace">
+<!ENTITY copyURLFeedback.label        "¡Va’a ndataviña!">
 <!-- alternate for content area context menu -->
 
 <!-- Media (video/audio) controls -->
