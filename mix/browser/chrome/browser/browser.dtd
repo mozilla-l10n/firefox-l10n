@@ -388,6 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Ndatava Enlace">
 <!ENTITY copyURLFeedback.label        "¡Va’a ndataviña!">
+<!ENTITY emailPageCmd.accesskey       "E">
 <!-- alternate for content area context menu -->
 
 <!-- Media (video/audio) controls -->
