@@ -49,7 +49,7 @@
 
 <!ENTITY generic.title "Ώπα.">
 <!ENTITY generic.longDesc "
-<p>Ο &brandShortName; δεν μπορεί να φορτώσει τη σελίδα για κάποιο λόγο.</p>
+<p>Το &brandShortName; δεν μπορεί να φορτώσει τη σελίδα για κάποιο λόγο.</p>
 ">
 
 <!ENTITY malformedURI.title "Η διεύθυνση δεν είναι έγκυρη">
@@ -72,15 +72,15 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Το έγγραφο έληξε">
-<!ENTITY notCached.longDesc "<p>Το έγγραφο που ζητήσατε δεν βρίσκεται στην προσωρινή μνήμη του &brandShortName;.</p><ul><li>Για λόγους ασφαλείας, ο &brandShortName; δεν επαναφορτώνει αυτόματα τα ευαίσθητα έγγραφα.</li><li>Πατήστε στο «Προσπαθήστε ξανά» για να επαναφορτώσετε το έγγραφο από την ιστοσελίδα.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Το έγγραφο που ζητήσατε δεν βρίσκεται στην προσωρινή μνήμη του &brandShortName;.</p><ul><li>Για λόγους ασφαλείας, το &brandShortName; δεν επαναφορτώνει αυτόματα τα ευαίσθητα έγγραφα.</li><li>Πατήστε το 'Δοκιμή ξανά' για να φορτώσετε εκ νέου το έγγραφο από την ιστοσελίδα.</li></ul>">
 
 <!ENTITY netOffline.title "Λειτουργία εργασίας χωρίς σύνδεση">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
 <ul>
-  <li>Προσπαθήστε ξανά. Ο &brandShortName; θα επιχειρήσει να συνδεθεί και να επαναφορτώσει τη σελίδα.
-    <button id='wifi'>Ενεργοποίηση του Wi-Fi</button>
+  <li>Προσπαθήστε ξανά. Το &brandShortName; θα επιχειρήσει να συνδεθεί και να φορτώσει εκ νέου τη σελίδα.
+    <button id='wifi'>Ενεργοποίηση Wi-Fi</button>
   </li>
 </ul>
 ">
@@ -177,7 +177,7 @@
 ">
 
 <!ENTITY cspBlocked.title "Έχει αποκλειστεί από την πολιτική προστασίας περιεχομένου">
-<!ENTITY cspBlocked.longDesc "<p>Ο &brandShortName; εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν το επιτρέπει.</p>">
+<!ENTITY cspBlocked.longDesc "<p>Το &brandShortName; εμπόδισε τη φόρτωση της σελίδας με αυτό τον τρόπο, επειδή η σελίδα έχει μια πολιτική προστασίας περιεχομένου που δεν το επιτρέπει.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Σφάλμα κατεστραμμένου περιεχομένου">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Η σελίδα την οποία προσπαθείτε να δείτε δεν μπορεί να εμφανιστεί διότι ανιχνεύθηκε ένα σφάλμα μετάδοσης δεδομένων.</p><ul><li>Παρακαλώ επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε για αυτό το πρόβλημα.</li></ul>">

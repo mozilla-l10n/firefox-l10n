@@ -16,7 +16,7 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "Έχετε ζητήσει από τον &brandShortName; μια ασφαλή σύνδεση
+<!ENTITY certerror.introPara1 "Έχετε ζητήσει από το &brandShortName; μια ασφαλή σύνδεση
 στο <b>#1</b>, αλλά δεν είναι δυνατή η πιστοποίηση της ασφάλειας της σύνδεσης.">
 
 <!ENTITY certerror.whatShouldIDo.heading "Τι θέλετε να γίνει;">
@@ -27,7 +27,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expert.heading "Καταλαβαίνω τους κινδύνους">
 <!ENTITY certerror.expert.content "Αν καταλαβαίνετε τι συμβαίνει, μπορείτε να
-πείτε στον &brandShortName; να εμπιστεύεται από εδώ και πέρα την ταυτότητα της σελίδας.
+πείτε στο &brandShortName; να εμπιστεύεται από εδώ και πέρα την ταυτότητα της σελίδας.
 <b>Ακόμα και αν εμπιστεύεστε αυτή την σελίδα, αυτό το σφάλμα μπορεί αν σημαίνει ότι κάποιος 
 μπορεί να υποκλέπτει στοιχεία από την σύνδεση σας.</b>">
 <!ENTITY certerror.expert.contentPara2 "Μην προσθέτετε εξαιρέσεις εκτός και αν γνωρίζετε πολύ καλά 

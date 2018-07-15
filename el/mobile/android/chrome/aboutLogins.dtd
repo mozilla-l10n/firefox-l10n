@@ -7,4 +7,4 @@
 <!ENTITY aboutLogins.title                       "Στοιχεία σύνδεσης">
 <!ENTITY aboutLogins.update                      "Ενημέρωση">
 <!ENTITY aboutLogins.emptyLoginText              "Διαφυλάξτε τα στοιχεία σύνδεσης σας">
-<!ENTITY aboutLogins.emptyLoginHint              "Τα στοιχεία σύνδεσης που αποθηκεύετε με τον &brandShortName; θα εμφανίζονται εδώ.">
+<!ENTITY aboutLogins.emptyLoginHint              "Τα στοιχεία σύνδεσης που αποθηκεύετε με το &brandShortName; θα εμφανίζονται εδώ.">

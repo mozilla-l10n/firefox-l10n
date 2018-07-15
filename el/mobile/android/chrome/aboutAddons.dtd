@@ -11,5 +11,5 @@
 <!ENTITY addonAction.undo                       "Αναίρεση">
 <!ENTITY addonAction.update                     "Ενημέρωση">
 
-<!ENTITY addonUnsigned.message                  "Το πρόσθετο δεν μπορεί να επαληθευτεί από τον &brandShortName;.">
+<!ENTITY addonUnsigned.message                  "Αυτό το πρόσθετο δεν μπορεί να επαληθευτεί από το &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Μάθετε περισσότερα">

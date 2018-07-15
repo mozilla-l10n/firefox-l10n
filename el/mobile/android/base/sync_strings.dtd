@@ -34,7 +34,7 @@
 <!ENTITY bookmarks.folder.tags.label 'Ετικέτες'>
 <!ENTITY bookmarks.folder.toolbar.label 'Γραμμή εργαλείων σελιδοδεικτών'>
 <!ENTITY bookmarks.folder.other.label 'Άλλοι σελιδοδείκτες'>
-<!ENTITY bookmarks.folder.desktop.label 'Σελιδοδείκτες Desktop'>
+<!ENTITY bookmarks.folder.desktop.label 'Σελιδοδείκτες υπολογιστή'>
 <!ENTITY bookmarks.folder.mobile.label 'Σελιδοδείκτες κινητού'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Καρφιτσωμένο'>
@@ -58,7 +58,7 @@
 <!ENTITY fxaccount_status_sync_server 'Διακομιστής Sync'>
 <!ENTITY fxaccount_status_needs_verification2 'Ο λογαριασμός σας πρέπει να επαληθευτεί. Πατήστε για να αποσταλεί ξανά το email επαλήθευσης.'>
 <!ENTITY fxaccount_status_needs_credentials 'Αδύνατη η σύνδεση. Πατήστε για να συνδεθείτε.'>
-<!ENTITY fxaccount_status_needs_upgrade 'Πρέπει να αναβαθμίσετε τον &brandShortName; για να συνδεθείτε.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Πρέπει να αναβαθμίσετε το &brandShortName; για να συνδεθείτε.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'Το &syncBrand.shortName.label; είναι ρυθμισμένο, αλλά δεν συγχρονίζεται αυτόματα. Ενεργοποιήστε τον «Αυτόματο συγχρονισμό δεδομένων» στις Ρυθμίσεις του Android &gt; Χρήση δεδομένων.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 'Το &syncBrand.shortName.label; είναι ρυθμισμένο, αλλά δεν συγχρονίζεται αυτόματα. Ενεργοποιήστε τον «Αυτόματο συγχρονισμό δεδομένων» στις Ρυθμίσεις του Android &gt; Λογαριασμοί.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Πατήστε για να συνδεθείτε στον νέο σας λογαριασμό Firefox.'>
