@@ -4,30 +4,30 @@
 
 <!-- File menu items -->
 <!ENTITY openFileCmd.label "ფაილის გახსნა…">
-<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.accesskey "გ">
 <!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "ვებმისამართის გახსნა…">
 <!ENTITY openRemoteCmd.accesskey "მ">
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "ბოლო გვერდები">
-<!ENTITY fileRecentMenu.accesskey "R">
+<!ENTITY fileRecentMenu.accesskey "ბ">
 <!ENTITY saveCmd.label "შენახვა">
-<!ENTITY saveCmd.accesskey "S">
+<!ENTITY saveCmd.accesskey "შ">
 <!ENTITY saveAsCmd.label "შენახვა როგორც…">
-<!ENTITY saveAsCmd.accesskey "A">
+<!ENTITY saveAsCmd.accesskey "რ">
 <!ENTITY saveAsChangeEncodingCmd2.label "შენახვა და ტექსტის კოდირების შეცვლა">
 <!ENTITY saveAsChangeEncodingCmd2.accesskey "ც">
 <!ENTITY publishCmd.label "გამოქვეყნება">
-<!ENTITY publishCmd.accesskey "b">
+<!ENTITY publishCmd.accesskey "ქ">
 <!ENTITY publishCmd.key "S">
 <!ENTITY publishAsCmd.label "გამოქვეყნება როგორც…">
-<!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY fileRevert.label "აღდგენა">
-<!ENTITY fileRevert.accesskey "t">
+<!ENTITY publishAsCmd.accesskey "ვ">
+<!ENTITY fileRevert.label "დაბრუნება">
+<!ENTITY fileRevert.accesskey "უ">
 
 <!-- Edit menu items -->
-<!ENTITY publishSettings.label "გამოქვეყნების საიტის პარამეტრები…">
-<!ENTITY publishSettings.accesskey "b">
+<!ENTITY publishSettings.label "გამოსაქვეყნებელი საიტის პარამეტრები…">
+<!ENTITY publishSettings.accesskey "ყ">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "ახალი">

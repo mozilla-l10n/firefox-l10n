@@ -11,13 +11,13 @@
 <!ENTITY smtpDescription.label "თქვენი ანგარიშების მართვისას შეგიძლიათ ისარგებლოთ სერვერით ამ სიიდან და მიუთითოთ იგი. როგორც გასული ფოსტის (SMTP) სერვერი ან შეარჩიოთ სიიდან ნაგულისხმები სერვერი დაჭერით ღილაკზე &quot;ნაგულისხმები სერვერი&quot;.">
 
 <!ENTITY smtpListAdd.label  "დამატება…">
-<!ENTITY smtpListAdd.accesskey  "d">
-<!ENTITY smtpListEdit.label "რედაქტირება…">
-<!ENTITY smtpListEdit.accesskey "E">
+<!ENTITY smtpListAdd.accesskey  "დ">
+<!ENTITY smtpListEdit.label "ჩასწორება…">
+<!ENTITY smtpListEdit.accesskey "ჩ">
 <!ENTITY smtpListDelete.label "ამოშლა">
-<!ENTITY smtpListDelete.accesskey "m">
-<!ENTITY smtpListSetDefault.label "ნაგულისხმები">
-<!ENTITY smtpListSetDefault.accesskey "t">
+<!ENTITY smtpListDelete.accesskey "ა">
+<!ENTITY smtpListSetDefault.label "ნაგულისხმევი">
+<!ENTITY smtpListSetDefault.accesskey "ნ">
 
 <!ENTITY serverDetails.label "მითითებული სერვერის მონაცემები:">
 <!ENTITY serverDescription.label "აღწერილობა: ">
