@@ -8,10 +8,10 @@
 <!ENTITY directories.label         "LDAP დასტის სერვერი:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "LDAP დასტის სერვერის არჩევა:">
-<!ENTITY directoriesText.accesskey "S">
+<!ENTITY directoriesText.accesskey "ჩ">
 <!ENTITY addDirectory.label        "დამატება">
-<!ENTITY addDirectory.accesskey    "a">
-<!ENTITY editDirectory.label       "რედაქტირება">
-<!ENTITY editDirectory.accesskey   "e">
+<!ENTITY addDirectory.accesskey    "დ">
+<!ENTITY editDirectory.label       "ჩასწორება">
+<!ENTITY editDirectory.accesskey   "ს">
 <!ENTITY deleteDirectory.label     "წაშლა">
-<!ENTITY deleteDirectory.accesskey "d">
+<!ENTITY deleteDirectory.accesskey "წ">

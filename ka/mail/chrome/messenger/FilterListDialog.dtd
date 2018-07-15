@@ -6,38 +6,35 @@
 <!ENTITY nameColumn.label "ფილტრის სახელი">
 <!ENTITY activeColumn.label "ჩართვა">
 <!ENTITY newButton.label "ახალი…">
-<!ENTITY newButton.accesskey "N">
+<!ENTITY newButton.accesskey "ა">
 <!ENTITY newButton.popupCopy.label "დაკოპირება…">
 <!ENTITY newButton.popupCopy.accesskey "კ">
-<!ENTITY editButton.label "რედაქტირება…">
-<!ENTITY editButton.accesskey "E">
+<!ENTITY editButton.label "ჩასწორება…">
+<!ENTITY editButton.accesskey "ჩ">
 <!ENTITY deleteButton.label "წაშლა">
-<!ENTITY deleteButton.accesskey "t">
-<!ENTITY reorderTopButton "თავში">
-<!ENTITY reorderTopButton.accessKey "o">
-<!ENTITY reorderTopButton.toolTip "ფილტრის გადატანა, რათა იგი ყველა სხვაზე ადრე შესრულდეს">
+<!ENTITY deleteButton.accesskey "წ">
+<!ENTITY reorderTopButton "დასაწყისში">
+<!ENTITY reorderTopButton.accessKey "ა">
+<!ENTITY reorderTopButton.toolTip "ფილტრის გადაადგილება, რომ იგი ყველა სხვა დანარჩენზე ადრე შესრულდეს">
 <!ENTITY reorderUpButton.label "აწევა">
-<!ENTITY reorderUpButton.accesskey "U">
+<!ENTITY reorderUpButton.accesskey "ე">
 <!ENTITY reorderDownButton.label "ჩამოწევა">
-<!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY reorderDownButton.accesskey "ო">
 <!ENTITY reorderBottomButton "ბოლოში">
-<!ENTITY reorderBottomButton.accessKey "B">
-<!ENTITY reorderBottomButton.toolTip "ფილტრის გადატანა, რათა იგი ყველა სხვაზე გვიან შესრულდეს">
-<!ENTITY filterHeader.label "ჩართული ფილტრები ავტომატურად იმოქმედებენ შემდეგი რიგით.">
+<!ENTITY reorderBottomButton.accessKey "ბ">
+<!ENTITY reorderBottomButton.toolTip "ფილტრის გადაადგილება, რომ იგი ყველა სხვა დანარჩენზე გვიან შესრულდეს">
+<!ENTITY filterHeader.label "ჩართული ფილტრები გაეშვება შემდეგი თანმიმდევრობით.">
 <!ENTITY filtersForPrefix.label "ფილტრები:">
-<!ENTITY filtersForPrefix.accesskey "F">
-<!ENTITY viewLogButton.label "ჟურნალი">
-<!ENTITY viewLogButton.accesskey "L">
-<!ENTITY runFilters.label "ამუშავება">
-<!ENTITY runFilters.accesskey "R">
+<!ENTITY filtersForPrefix.accesskey "ფ">
+<!ENTITY viewLogButton.label "ფილტრის ჩანაწერები">
+<!ENTITY viewLogButton.accesskey "ჩ">
+<!ENTITY runFilters.label "გაშვება ახლავე">
+<!ENTITY runFilters.accesskey "გ">
 <!ENTITY stopFilters.label "შეჩერება">
-<!ENTITY stopFilters.accesskey "S">
-<!ENTITY folderPickerPrefix.label "არჩეული ფილტრ(ებ)ის გამოყენება:">
-<!ENTITY folderPickerPrefix.accesskey "c">
+<!ENTITY stopFilters.accesskey "შ">
+<!ENTITY folderPickerPrefix.label "არჩეული ფილტრ(ებ)ის გაშვება:">
+<!ENTITY folderPickerPrefix.accesskey "რ">
 <!ENTITY helpButton.label "დახმარება">
-<!ENTITY helpButton.accesskey "H">
-<!ENTITY closeCmd.key "W"> 
+<!ENTITY helpButton.accesskey "დ">
+<!ENTITY closeCmd.key "W">
 <!ENTITY searchBox.emptyText "ფილტრის მოძიება სახელით…">
-
-
-

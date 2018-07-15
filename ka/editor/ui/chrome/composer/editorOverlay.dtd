@@ -147,17 +147,17 @@
 <!ENTITY paragraphMenu.accesskey "პ">
 <!ENTITY paragraphParagraphCmd.label "პარაგრაფი">
 <!ENTITY paragraphParagraphCmd.accesskey "პ">
-<!ENTITY heading1Cmd.label "სასათაურო 1">
+<!ENTITY heading1Cmd.label "სათაური 1">
 <!ENTITY heading1Cmd.accesskey "1">
-<!ENTITY heading2Cmd.label "სასათაურო 2">
+<!ENTITY heading2Cmd.label "სათაური 2">
 <!ENTITY heading2Cmd.accesskey "2">
-<!ENTITY heading3Cmd.label "სასათაურო 3">
+<!ENTITY heading3Cmd.label "სათაური 3">
 <!ENTITY heading3Cmd.accesskey "3">
-<!ENTITY heading4Cmd.label "სასათაურო 4">
+<!ENTITY heading4Cmd.label "სათაური 4">
 <!ENTITY heading4Cmd.accesskey "4">
-<!ENTITY heading5Cmd.label "სასათაურო 5">
+<!ENTITY heading5Cmd.label "სათაური 5">
 <!ENTITY heading5Cmd.accesskey "5">
-<!ENTITY heading6Cmd.label "სასათაურო 6">
+<!ENTITY heading6Cmd.label "სათაური 6">
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "მისამართი">
 <!ENTITY paragraphAddressCmd.accesskey "A">
