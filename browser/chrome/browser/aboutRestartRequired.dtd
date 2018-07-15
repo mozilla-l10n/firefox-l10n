@@ -5,5 +5,7 @@
 <!ENTITY restartRequired.title "Reaviada necessària">
 
 <!ENTITY restartRequired.header "O planhèm, manca pas gaire per poder contunhar.">
+<!ENTITY restartRequired.description "<p>Venèm d’installar una mesa a jorn en rèire-plan. Clicatz Reaviar &brandShortName; per dire d’acabar son aplicacion.</p>
+<p>Restablirem vòstras paginas, fenèstras e onglets, perque poscatz contunhar tan lèu que possible.</p>">
 
 <!ENTITY restartButton.label "Reaviar &brandShortName;">
