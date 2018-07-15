@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } не является вашим брау
 set-as-my-default-browser =
     .label = Установить по умолчанию…
     .accesskey = н
-startup-page = При запуске { -brand-short-name }
-    .accesskey = и
-startup-user-homepage =
-    .label = Показать домашнюю страницу
-startup-blank-page =
-    .label = Показать пустую страницу
-startup-prev-session =
-    .label = Показать окна и вкладки, открытые в прошлый раз
 startup-restore-previous-session =
     .label = Восстановить предыдущую сессию
     .accesskey = о
 disable-extension =
     .label = Отключить расширение
-home-page-header = Домашняя страница
 tabs-group-header = Вкладки
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab переключает между вкладками в порядке недавнего использования
@@ -273,7 +256,6 @@ play-drm-content =
 play-drm-content-learn-more = Подробнее
 update-application-title = Обновления { -brand-short-name }
 update-application-description = Используйте последнюю версию { -brand-short-name } для наилучшей производительности, стабильности и безопасности.
-update-application-info = Версия { $version } <a>Что нового</a>
 update-application-version = Версия { $version } <a data-l10n-name="learn-more">Что нового</a>
 update-history =
     .label = Показать журнал обновлений…
@@ -309,7 +291,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Максимальное число процессов контента
     .accesskey = в
 performance-limit-content-process-enabled-desc = Дополнительные процессы контента могут улучшить производительность при работе со множеством вкладок, но также повысят потребление памяти.
-performance-limit-content-process-disabled-desc = Изменение числа процессов контента возможно только в мультипроцессном { -brand-short-name }. <a>Узнайте, как проверить, включена ли мультипроцессность</a>
 performance-limit-content-process-blocked-desc = Изменение числа процессов контента возможно только в мультипроцессном { -brand-short-name }. <a data-l10n-name="learn-more">Узнайте, как проверить, включена ли мультипроцессность</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -380,9 +361,6 @@ use-current-pages =
 choose-bookmark =
     .label = Использовать закладку…
     .accesskey = в
-restore-default =
-    .label = Восстановить по умолчанию
-    .accesskey = о
 
 ## Search Section
 
@@ -762,7 +740,7 @@ security-block-downloads =
     .label = Блокировать опасные загрузки
     .accesskey = к
 security-block-uncommon-software =
-    .label = Предупреждать о нежелательных и нетипичных программах
+    .label = Предупреждать о нежелательных и редко загружаемых программах
     .accesskey = ж
 
 ## Privacy Section - Certificates
