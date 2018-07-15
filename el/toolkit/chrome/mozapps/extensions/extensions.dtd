@@ -199,7 +199,7 @@
 <!ENTITY eula.title                           "Συμφωνία άδειας χρήσης">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Αποδοχή και Εγκατάσταση…">
+<!ENTITY eula.accept                          "Αποδοχή και εγκατάσταση…">
 
 <!ENTITY settings.path.button.label           "Περιήγηση…">
 
