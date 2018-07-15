@@ -5,6 +5,7 @@
 <!-- LOCALIZATION NOTE : This file contains the Storage Inspector strings. -->
 
 <!-- LOCALIZATION NOTE : Placeholder for the searchbox that allows you to filter the table items. -->
+<!ENTITY searchBox.placeholder         "Saréng barang">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
 <!ENTITY storage.popupMenu.deleteAllLabel "Sampôh Ban Mandum">
