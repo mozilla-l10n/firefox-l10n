@@ -67,6 +67,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "ส่งลิงก์ไปยังอุปกรณ์">
 <!ENTITY  sendLinkToDevice.accesskey         "ส">
 <!ENTITY  sendToDeviceFeedback.label         "ส่งแล้ว!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "อยู่ในคิว (ออฟไลน์)">
 <!ENTITY  moveToNewWindow.label              "ย้ายไปยังหน้าต่างใหม่">
 <!ENTITY  moveToNewWindow.accesskey          "ม">
 <!ENTITY  reopenInContainer.label            "เปิดใหม่ในการแยกข้อมูล">
