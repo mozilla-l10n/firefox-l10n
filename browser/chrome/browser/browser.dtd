@@ -38,13 +38,18 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Stäng valda flikar">
 <!ENTITY  closeSelectedTabs.accesskey        "v">
 
+<!ENTITY  pinSelectedTabs.label              "Fäst flikar">
 <!-- Pin Tab and Pin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  pinSelectedTabs.accesskey          "f">
+<!ENTITY  unpinSelectedTabs.label            "Gör om till vanliga flikar">
 <!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  unpinSelectedTabs.accesskey        "f">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Ladda om valda flikar">
+<!ENTITY  reloadSelectedTabs.accesskey       "o">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -319,6 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.label             "Ny innehållsflik">
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY manageUserContext.label          "Hantera behållare">
+<!ENTITY manageUserContext.accesskey      "b">
 <!ENTITY newNavigatorCmd.label        "Nytt fönster">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -771,6 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Klar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "Öppna redigerare vid spara">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "p">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -939,6 +947,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "A">
 
 <!ENTITY trackingProtection.tooltip "Öppna spårningsskydds inställningar">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blockerar delar av denna sida som kan spåra din surfning.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
