@@ -95,7 +95,7 @@
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Град:">
-<!ENTITY WorkCity.accesskey             "гг">
+<!ENTITY WorkCity.accesskey             "г">
 <!ENTITY WorkState.label                "Област/община:">
 <!ENTITY WorkState.accesskey            "о">
 <!ENTITY WorkZipCode.label              "Пощенски код:">
