@@ -4,7 +4,7 @@
 
 blocklist-window =
     .title = ਪਾਬੰਦੀਸ਼ੁਦਾ ਸੂਚੀ
-    .style = ਚੌੜਾਈ: 50em
+    .style = width: 50em
 blocklist-desc = ਤੁਸੀਂ ਚੁਣ ਸਕਦੇ ਹੋ ਕਿ, ਜਿਹੜੇ ਤੱਤ ਤੁਹਾਡੀ ਵੈੱਬ ਤੇ ਨਜ਼ਰਸਾਨੀ ਦੀ ਸਰਗਰਮੀ ਦੀ ਪੈੜ੍ਹ ਦੱਬ ਸਕਦੇ ਹਨ, ਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਲਈ { -brand-short-name } ਕਿਹੜੀ ਸੂਚੀ ਨੂੰ ਵਰਤੇਗੀ।
 blocklist-close-key =
     .key = w
