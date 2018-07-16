@@ -21,3 +21,9 @@ sync-disconnect-cancel =
 ## The 2 labels which may be shown on the single "Disconnect" button, depending
 ## on the state of the checkboxes.
 
+sync-disconnect-confirm-disconnect-delete =
+    .label = डिस्कनेक्ट करें और मिटायें
+    .accesskey = D
+sync-disconnect-confirm-disconnect =
+    .label = बस डिस्कनेक्ट करें
+    .accesskey = D
