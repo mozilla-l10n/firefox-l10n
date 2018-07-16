@@ -29,7 +29,7 @@
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 వేలిముద్ర">
 
 <!ENTITY certmgr.editcacert.title             "CA ధృవీకరణపత్రం నమ్మిక అమరికలను సరిచేయి">
-<!ENTITY certmgr.editcert.edittrust           "నమ్మిక అమరికలను సరిచేయి:">
+<!ENTITY certmgr.editcert.edittrust           "విశ్సనీయత అమరికలను మార్చు:">
 <!ENTITY certmgr.editcert.trustssl            "ఈ ధృవీకరణపత్రం వెబ్ సైటులను గుర్తించగలదు.">
 <!ENTITY certmgr.editcert.trustemail          "ఈ ధృవీకరణపత్రం మెయిల్ వాడుకరులను గుర్తించగలదు.">
 

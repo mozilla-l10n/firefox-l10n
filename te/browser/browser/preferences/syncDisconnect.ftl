@@ -6,6 +6,8 @@ sync-disconnect-remove-sync-caption = { -sync-brand-name } డేటాను �
 sync-disconnect-remove-sync-data = ఇష్టాంశాలు, చరిత్ర, సంకేతపదాలు, మొదలైనవి.
 sync-disconnect-remove-other-caption = ఇతర అంతరంగిక డేటాను తొలగించు
 sync-disconnect-remove-other-data = కుకీలు, కాషే, ఆఫ్‌లైన్ వెబ్‌సైటు డేటా, మొదలైనవి.
+# Shown while the disconnect is in progress
+sync-disconnect-disconnecting = అననుసంధానిస్తోంది…
 sync-disconnect-cancel =
     .label = రద్దుచేయి
     .accesskey = C
