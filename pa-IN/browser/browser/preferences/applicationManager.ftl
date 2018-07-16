@@ -4,7 +4,7 @@
 
 app-manager-window =
     .title = ਐਪਲੀਕੇਸ਼ਨ ਵੇਰਵੇ
-    .style = ਚੌੜਾਈ: 30em; ਘੱਟੋ-ਘੱਟ ਉਚਾਈ: 20em;
+    .style = width: 30em; min-height: 20em;
 app-manager-remove =
     .label = ਹਟਾਉ
     .accesskey = ਹ
