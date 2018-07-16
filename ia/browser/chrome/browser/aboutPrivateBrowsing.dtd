@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Navigation private">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Aperir un fenestra private?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Tu non es actualmente in un fenestra private.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Aperir un fenestra private">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
@@ -14,7 +9,7 @@
 <!ENTITY privateBrowsing.title                           "Navigation private">
 <!ENTITY privateBrowsing.title.tracking                  "Navigation private con protection contra le traciamento">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Quando tu naviga in un fenestra private, Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "non salva le">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "non salvar lo">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "paginas visitate">
 <!ENTITY aboutPrivateBrowsing.info.searches              "recercas">

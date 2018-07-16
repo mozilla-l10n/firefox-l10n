@@ -22,11 +22,11 @@
 <!ENTITY tabCrashed.requestHelp "Vole tu adjutar nos?">
 <!ENTITY tabCrashed.requestHelpMessage "Le reportos de collapso pote adjutar nos a diagnosticar problemas e a meliorar &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Reportar iste scheda">
-<!ENTITY tabCrashed.sendReport3 "Invia un reporto de collapso automatic a fin que nos pote corriger problemas simile a isto.">
+<!ENTITY tabCrashed.sendReport3 "Invia un reporto de crash automatic a fin que nos pote corriger problemas simile a isto.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Commentos optional (le commentos es publicamente visibile)">
 <!ENTITY tabCrashed.includeURL3 "Include le URLs del sitos que tu visitava quando &brandShortName; collabeva.">
 <!ENTITY tabCrashed.emailPlaceholder "Insere hic tu adresse email">
 <!ENTITY tabCrashed.emailMe "Inviar me un email quando plus de informationes es disponibile">
-<!ENTITY tabCrashed.reportSent "Reporto de collapso ja submittite; gratias pro adjutar a meliorar &brandShortName;!">
+<!ENTITY tabCrashed.reportSent "Reporto de crash ja submittite; gratias pro adjutar a meliorar &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Reportar le schedas de secunde plano">
 <!ENTITY tabCrashed.autoSubmit3 "Actualisa le preferentias pro submitter automaticamente le reportos quando &brandShortName; collabe.">
