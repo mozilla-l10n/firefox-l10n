@@ -924,6 +924,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "टैब से ऑडियो साझा किया जायेगा.">
 <!ENTITY getUserMedia.allWindowsShared.message "आपके स्क्रीन पर सभी दृश्य विंडो साझा किए जाएँगे.">
 
+<!ENTITY trackingProtection.on "ट्रैकिंग सुरक्षा: सक्षम">
+<!ENTITY trackingProtection.off "ट्रैकिंग सुरक्षा: अक्षम">
 <!ENTITY trackingProtection.title "ट्रैकिंग सुरक्षा">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; पृष्ठ के उन हिस्सों को बाधित कर रहा है जो आपके ऑनलाइन गतिविधियों को ट्रैक कर सकते हैं.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "यह साइट उस तत्वो को शामिल करता है जो आपके ब्राउज़िंग पर नजर रख सकता हैं. आप सुरक्षा निष्क्रिय कर दिये हैं.">
@@ -941,6 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "सुरक्षा सक्रिय करें">
 <!ENTITY trackingProtection.block2.accesskey "स">
 
+<!ENTITY trackingProtection.tooltip "ट्रैकिंग सुरक्षा प्राथमिकताएं खोलें">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
