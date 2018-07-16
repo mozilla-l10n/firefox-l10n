@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 16.5em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } ne estas via ĉefa retumilo
 set-as-my-default-browser =
     .label = Elekti kiel norman…
     .accesskey = E
-startup-page = Kiam { -brand-short-name } startas
-    .accesskey = s
-startup-user-homepage =
-    .label = Montri vian ekan paĝon
-startup-blank-page =
-    .label = Montri malplenan paĝon
-startup-prev-session =
-    .label = Montri viajn lastajn fenestrojn kaj langetojn
 startup-restore-previous-session =
     .label = Restarigi antaŭan seancon
     .accesskey = R
 disable-extension =
     .label = Malaktivigi etendaĵon
-home-page-header = Eka paĝo
 tabs-group-header = Langetoj
 ctrl-tab-recently-used-order =
     .label = Stir+Tabo rondiras inter langetoj ordigitaj laŭ ĵuseco
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Pli da informo
 update-application-title = Ĝisdatigoj de { -brand-short-name }
 update-application-description = Tenu { -brand-short-name } ĝisdatigita por havi la plej bonan efikecon, stabilecon kaj sekurecon.
-update-application-info = Versio { $version } <a>Kio estas nova</a>
 update-application-version = Versio { $version } <a data-l10n-name="learn-more">Kio estas nova</a>
 update-history =
     .label = Montri historion de ĝisdatigoj…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Maksimuma nombro de enhavaj taskoj
     .accesskey = M
 performance-limit-content-process-enabled-desc = Pli da enhavaj taskoj povas plibonigi efikecon dum uzo de pluraj langetoj, sed ili ankaŭ uzos pli da memoro.
-performance-limit-content-process-disabled-desc = Nur eblas modifi la nombron de enhavaj taskoj en plurproceza { -brand-short-name }. <a>Pli da informo, pri kiel eltrovi ĉu plurprocezo estas aktiva</a>
 performance-limit-content-process-blocked-desc = Nur eblas modifi la nombron de enhavaj taskoj en plurproceza { -brand-short-name }. <a data-l10n-name="learn-more">Pli da informo, pri kiel eltrovi ĉu plurprocezo estas aktiva</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Uzi legosignon…
     .accesskey = s
-restore-default =
-    .label = Norma paĝo
-    .accesskey = N
 
 ## Search Section
 
@@ -697,6 +675,12 @@ permissions-notification-link = Pli da informo
 permissions-notification-pause =
     .label = Paŭzigi sciigojn ĝis kiam { -brand-short-name } restartos
     .accesskey = P
+permissions-block-autoplay-media =
+    .label = Malpermesi al retejoj aŭtomate ludi aŭdvidaĵojn kun sono
+    .accesskey = s
+permissions-block-autoplay-media-exceptions =
+    .label = Esceptoj
+    .accesskey = E
 permissions-block-popups =
     .label = Bloki ŝprucfenestrojn
     .accesskey = B
