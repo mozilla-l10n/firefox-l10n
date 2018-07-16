@@ -31,7 +31,7 @@
 <!ENTITY importBookmarksFromHTML.accesskey "ι">
 <!ENTITY exportBookmarksToHTML.label       "Εξαγωγή σελιδοδεικτών σε HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "ξ">
-<!ENTITY importOtherBrowser.label          "Εισαγωγή δεδομένων από άλλο περιηγητή…">
+<!ENTITY importOtherBrowser.label          "Εισαγωγή δεδομένων από άλλο πρόγρ. περιήγησης…">
 <!ENTITY importOtherBrowser.accesskey      "λ">
 
 <!ENTITY cmd.backup.label               "Αντίγραφο ασφαλείας...">
@@ -73,9 +73,6 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Ανανέωση δυναμικού σελιδοδείκτη">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "ν">
 
-<!ENTITY cmd.moveBookmarks.label                  "Μετακίνηση...">
-<!ENTITY cmd.moveBookmarks.accesskey              "Μ">
-
 <!ENTITY col.name.label          "Όνομα">
 <!ENTITY col.tags.label          "Ετικέτες">
 <!ENTITY col.url.label           "Τοποθεσία">
@@ -102,6 +99,7 @@
 <!ENTITY detailsPane.more.accesskey "τ">
 <!ENTITY detailsPane.less.label "Λιγότερα">
 <!ENTITY detailsPane.less.accesskey "γ">
+
 <!ENTITY detailsPane.selectAnItemText.description "Επιλέξτε ένα αντικείμενο για προβολή ή επεξεργασία των ιδιοτήτων του">
 
 <!ENTITY view.label               "Προβολή">
