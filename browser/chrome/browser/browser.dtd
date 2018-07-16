@@ -777,6 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Preta">
 <!ENTITY editBookmark.removeBookmark.accessKey       "F">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "Montri redaktilon dum konservo">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "M">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -825,6 +827,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Vi ne donis iun ajn specialan permeson al tiu ĉi retejo.">
 <!ENTITY identity.permissionsReloadHint "Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Malfermi preferojn de permesoj">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -924,6 +927,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "La sono el tiu ĉi langeto estos dividita.">
 <!ENTITY getUserMedia.allWindowsShared.message "Ĉiuj videblaj fenestroj en via ekrano estos dividitaj.">
 
+<!ENTITY trackingProtection.on "Kontraŭspura protekto: ŜALTITA">
+<!ENTITY trackingProtection.off "Kontraŭspura protekto: MALŜALTITA">
 <!ENTITY trackingProtection.title "Protekto kontraŭ spurado">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokas partojn de la paĝo kiuj povus spuri vian retumon.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tiu ĉi retejo enhavas elementojn kiuj povus spuri vian retumon. Vi malaktivigis la protekton.">
@@ -941,6 +946,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Aktivigi protekton">
 <!ENTITY trackingProtection.block2.accesskey "A">
 
+<!ENTITY trackingProtection.tooltip "Malfermi preferojn de kontraŭspura protekto">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokas partojn de tiu ĉi paĝo, kiuj povus spuri vian retumon.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; eltrovis elementojn, kiuj povas spuri vian retumon.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; eltrovis elementojn, kiuj povas spuri vian retumadon. Vi malaktivigis protekton por tiu ĉi retejo.">
+<!ENTITY trackingProtection.notDetected5 "Neniu spura elemento en tiu ĉi paĝo.">
+<!ENTITY trackingProtection.notDetectedException "Neniu spura elemento eltrovita en tiu ĉi paĝo. Vi malaktivigis protekton por tiu ĉi retejo.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
