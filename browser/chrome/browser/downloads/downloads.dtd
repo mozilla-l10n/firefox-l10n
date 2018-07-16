@@ -63,7 +63,7 @@
 <!ENTITY cmd.copyDownloadLink.label       "Αντιγραφή συνδέσμου λήψης">
 <!ENTITY cmd.copyDownloadLink.accesskey   "δ">
 <!ENTITY cmd.removeFromHistory.label      "Αφαίρεση από το ιστορικό">
-<!ENTITY cmd.removeFromHistory.accesskey  "υ">
+<!ENTITY cmd.removeFromHistory.accesskey  "ι">
 <!ENTITY cmd.clearList2.label             "Απαλοιφή πλαισίου προεπισκόπησης">
 <!ENTITY cmd.clearList2.accesskey         "κ">
 <!ENTITY cmd.clearDownloads.label         "Εκκαθάριση λήψεων">
