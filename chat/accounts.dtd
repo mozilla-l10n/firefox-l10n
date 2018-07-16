@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Account manager window for Instantbird -->
 
+<!-- Account manager window for Instantbird -->
 <!ENTITY accounts.title                      "Kontoer - &brandShortName;">
 <!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
@@ -30,7 +30,7 @@
 <!ENTITY account.edit.accesskey       "E">
 <!ENTITY account.moveup.label         "Flytt opp">
 <!ENTITY account.movedown.label       "Flytt ned">
-<!ENTITY account.cancelReconnection.label         "Avbryt ny tilkopling">
+<!ENTITY account.cancelReconnection.label         "Avbryt ny forbindelse">
 <!ENTITY account.cancelReconnection.accesskey     "v">
 <!ENTITY account.copyDebugLog.label     "Kopier feilsøkingslogg">
 <!ENTITY account.copyDebugLog.accesskey "K">
