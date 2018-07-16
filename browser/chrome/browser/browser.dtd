@@ -70,6 +70,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "पंक्तिबद्ध (ऑफ़लाइन)">
 <!ENTITY  moveToNewWindow.label              "नए विंडो में खिसकाएँ">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.label            "कंटेनर में दुबारा से खोलें">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "सभी टैब पुस्तचिह्नित करें…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
@@ -226,6 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "संदेश पटल खोलें">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "स्थान अनुरोध पटल खोलें">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "ऑटोप्ले पैनल खोलें">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "सहयुक्ति संस्थापन संदेश पटल खोलें">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "कैनवास निष्कर्षण अनुमति का प्रबंधन करें">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ऑफलाइन संग्रह संदेश पटल खोलें">
@@ -253,6 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "आपने इस वेबसाइट के लिए अधिसूचना अवरुद्ध किये है.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "आपने इस वेबसाइट के लिए सतत संग्रहण को अवरुद्ध किया है.">
 <!ENTITY urlbar.popupBlocked.tooltip             "आपने इस वेबसाइट पर पॉप-अप अवरुद्ध किए हैं.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "आपने इस वेबसाइट के लिए धवनी के साथ ऑटोप्ले मीडिया को अवरुद्ध कर दिया है.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "आपने इस वेबसाइट के लिए कैनवास डेटा निष्कर्षण को अवरोधित किया है.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "आपने Adobe Flash plugin का प्रयोग कर इस वेबसाइट को अवरुद्ध कर दिया है.">
 <!ENTITY urlbar.midiBlocked.tooltip              "आपने इस वेबसाइट के लिए MIDI उपयोग अवरुद्ध कर दिया है.">
@@ -264,6 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "घर">
 
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; होम पेज">
 
 <!ENTITY bookmarksButton.label          "पुस्तचिह्न">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -313,11 +317,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "इंस्पेक्ट एलिमेंट">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY inspectA11YContextMenu.label     "अभिगम्यता गुणों का निरीक्षण करें">
 
 <!ENTITY fileMenu.label         "फ़ाइल">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "नया पात्र टैब">
 <!ENTITY newUserContext.accesskey         "b">
+<!ENTITY manageUserContext.label          "कंटेनर को प्रबंधित करें">
 <!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "नया विंडो">
 <!ENTITY newNavigatorCmd.key        "N">
