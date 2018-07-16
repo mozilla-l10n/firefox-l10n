@@ -948,16 +948,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.tooltip "Öppna spårningsskydds inställningar">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blockerar delar av denna sida som kan spåra din surfning.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; har upptäckt komponenter som vill spåra din surfning.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; har upptäckt komponenter som vill spåra din surfning. Du har inaktiverat skyddet på denna webbplats.">
+<!ENTITY trackingProtection.notDetected5 "Inga spårningskomponenter upptäckta på den här sidan.">
+<!ENTITY trackingProtection.notDetectedException "Inga spårningskomponenter upptäckta på den här sidan. Du har inaktiverat skyddet för denna webbplats.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Du har aktiverat Spårningsskydd. Ladda om sidan för att blockera all spårning.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Inaktivera för den här sidan">
+<!ENTITY trackingProtection.unblock3.accesskey "I">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Inaktivera för den här sessionen">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "I">
 <!ENTITY trackingProtection.block4.label "Aktivera för den här sidan">
+<!ENTITY trackingProtection.block4.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Ladda om sida">
+<!ENTITY trackingProtection.reload2.accesskey "L">
 
 <!ENTITY pluginNotification.showAll.label "Visa alla">
 <!ENTITY pluginNotification.showAll.accesskey "V">
