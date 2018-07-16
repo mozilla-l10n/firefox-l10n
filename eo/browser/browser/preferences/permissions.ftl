@@ -83,6 +83,13 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Vi povas difini, kiuj retejoj havos la permeson instali aldonaĵojn. Tajpu la ekzaktan adreson de la retejo al kiu vi volas doni tiun rajton kaj poste alklaku sur Permesi.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Permesitaj retejoj - aŭtomata ludado
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Vi povas difini kiujn retejojn rajtas aŭtomate ludi aŭdvidaĵojn. Entajpu la ekzaktan adreson de retejo, kiun vi volas rajtigi kaj sekve alklaku “permesi”.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
