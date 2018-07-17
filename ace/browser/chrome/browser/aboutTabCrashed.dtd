@@ -24,6 +24,9 @@
 <!ENTITY tabCrashed.requestReport "Lapor tab nyoe">
 <!ENTITY tabCrashed.sendReport3 "Kirem lapuran otomatis sibagoe nyoe mangat kamoe peu-beutôi.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Komentar Peuniléh (komentar deuh geukalön nibak mandum ureung)">
+<!ENTITY tabCrashed.includeURL3 "Neupasoe URL situs nyang bunoe neupeuhah watée &brandShortName; jimeuruwé.">
 <!ENTITY tabCrashed.emailPlaceholder "Neupasoe email droen disinoe">
 <!ENTITY tabCrashed.emailMe "Neu kirém Email keu ulôn pajan mantong na haba">
-<!ENTITY tabCrashed.requestAutoSubmit2 "Lapor tab layeue likôt">
+<!ENTITY tabCrashed.reportSent "Lapuran reulöh ka jikirem; Alhamdulillah ka neu bantu kamoe bah jeut &brandShortName; leubèh jrôh lom!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Lapur tab-tab layeue liköt">
+<!ENTITY tabCrashed.autoSubmit3 "Seubarô peuatô bah jeut jikirém keudroe lapuran nyan watée &brandShortName; jiruwé ruwé lom.">
