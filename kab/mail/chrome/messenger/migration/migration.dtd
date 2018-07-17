@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Alarag n ukter">
+<!ENTITY migrationWizard.title          "Amarag n ukter">
 
 <!ENTITY importFromWin.label            "Kter isefran, iɣewwaṛen n umiḍan, imedlis n tensa, imzizdigen akked isefka nniḍen si:">
 <!ENTITY importFromNonWin.label         "Kter ismenyifen, iɣewwaṛen n umiḍan, imedlis n tensa, imzizdigen akked isefka nniḍen si:">
@@ -13,8 +13,6 @@
 <!ENTITY importFromNothing.accesskey    "U">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 neq ugar">
 <!ENTITY importFromSeamonkey3.accesskey "S">
-<!ENTITY importFromOExpress.label       "Outlook Express">
-<!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
 
