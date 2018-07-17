@@ -800,7 +800,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Връзката ви със сайта не е поверителна. Изпращаната информация, като например пароли, съобщения, банкови карти и др., може да бъде видяна от други.">
-<!ENTITY identity.description.insecureLoginForms "Информацията за регистриране, която въведохте в тази страница, не е защитена и може да е компрометирана.">
+<!ENTITY identity.description.insecureLoginForms "Данните за регистрацията, които въвеждате в страницата, не са защитени и може да бъдат компрометирани.">
 <!ENTITY identity.description.weakCipher "Връзката с тази страница използва слабо шифроване и не е поверителна.">
 <!ENTITY identity.description.weakCipher2 "Други хора могат да виждат ваша информация и да променят поведението на уебсайта.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; блокира части от страницата, които не са шифрирани.">

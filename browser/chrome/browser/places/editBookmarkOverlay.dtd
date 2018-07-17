@@ -15,7 +15,7 @@
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Скриване">
 <!ENTITY editBookmarkOverlay.tags.label                      "Етикети:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "Е">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Разделете етикетите със запетаи">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Етикети, разделени със запетая">
 <!ENTITY editBookmarkOverlay.description.label               "Описание:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "О">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Ключова дума:">
