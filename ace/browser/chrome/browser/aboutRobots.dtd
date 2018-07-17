@@ -14,6 +14,7 @@
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
 <!ENTITY robots.errorShortDescText "Kamoe teuka meukunjong droeneuh lam damee ngon meukeusud nyang jroh!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
+<!ENTITY robots.errorLongDesc1 "Robot han jeut ji peukaru geutanyoe manusia atawa jipeuceulaka geutanyoe.">
 <!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..." -->
 <!ENTITY robots.errorLongDesc2 "Robot le that ka jikalön hai-hai nyang han neupateh.">
 <!-- Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->

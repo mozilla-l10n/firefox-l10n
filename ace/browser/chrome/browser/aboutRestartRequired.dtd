@@ -5,5 +5,7 @@
 <!ENTITY restartRequired.title "Peureulèë Puphôn Ulang">
 
 <!ENTITY restartRequired.header "Meu'aih. Kamoe peureulèe peu-teupat saboh hal ubit untuk tetap meulanjut.">
+<!ENTITY restartRequired.description "<p>Nyoe ban lheuh jipasang seubarô di likot layeue. Klek peuphon keulai &brandShortName; nyan bah jeut ta ngui.</p>
+<p>Mandum ôn nyang neupeuhah meupeuhau keulayi, window ngen tab pih meunan syit, bah jeut beu bagah lage nyang ka teuhah.</p>">
 
 <!ENTITY restartButton.label "Peu Udep Klayi &brandShortName;">
