@@ -308,7 +308,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Tillegg">
-<!ENTITY addons.accesskey             "U">
+<!ENTITY addons.accesskey             "T">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Nettsideutvikling">
