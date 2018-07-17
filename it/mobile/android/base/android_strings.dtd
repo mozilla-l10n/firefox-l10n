@@ -276,6 +276,7 @@
 <!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
 <!ENTITY datareporting_wifi_title2 "Georilevazione di &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Aiuta &vendorShortName; a creare una mappa del mondo. Condividi la posizione approssimativa del tuo dispositivo all’interno delle reti Wi-Fi e cellulare per migliorare i nostri servizi di georilevazione.">
+<!ENTITY datareporting_stumbler_notification_title "Georilevazione di &vendorShortName; in esecuzione">
 <!ENTITY pref_update_autodownload3 "Aggiornamenti automatici">
 <!ENTITY pref_update_autodownload_wifi "Solo con Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Mai">
