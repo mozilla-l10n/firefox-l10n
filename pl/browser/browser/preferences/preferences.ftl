@@ -165,9 +165,11 @@ translate-attribution = Tłumaczeń dostarcza <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Wyjątki…
     .accesskey = i
-check-user-spelling =
-    .label = Sprawdzaj pisownię podczas wprowadzania tekstu
-    .accesskey = i
+
+check-user-spelling=
+  .label=Sprawdzanie pisowni podczas wprowadzania tekstu
+  .accesskey=S
+
 files-and-applications-title = Pliki i aplikacje
 download-header = Pobieranie
 download-save-to =
