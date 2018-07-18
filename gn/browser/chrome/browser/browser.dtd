@@ -48,6 +48,7 @@ but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadSelectedTabs.label           "Tendayke poravopyre myanyhẽjey">
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -322,6 +323,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Tendayke pyahu rerekoha">
 <!ENTITY newUserContext.accesskey         "b">
+<!ENTITY manageUserContext.label          "Jeguerekoha ñangarekohára">
 <!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Ovetã pyahu">
 <!ENTITY newNavigatorCmd.key        "N">
