@@ -762,7 +762,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "κ">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Εύρεση σε αυτή τη σελίδα…">
+<!ENTITY findOnCmd.label     "Εύρεση στη σελίδα…">
 <!ENTITY findOnCmd.accesskey "ρ">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Εύρεση ξανά">
