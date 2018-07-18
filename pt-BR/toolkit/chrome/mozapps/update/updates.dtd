@@ -25,7 +25,7 @@ não tem espaço disponível para a instalar.">
 <!ENTITY  unsupported.label               "O &brandShortName; está desatualizado, mas a última versão não é
                                            suportada no seu sistema. Atualize o seu sistema e tente novamente.
                                            Você não verá este aviso novamente, mas pode">
-<!ENTITY  unsupportedLink.label           "saber mais.">
+<!ENTITY  unsupportedLink.label           "saiba mais.">
 
 <!ENTITY  clickHere.label                 "Mais informações sobre esta atualização">
 
