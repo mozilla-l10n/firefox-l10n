@@ -4,9 +4,9 @@
 
 <!-- extracted from content/viewSource.xul -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
@@ -51,9 +51,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "განახლება">
 <!ENTITY reloadCmd.accesskey "ხ">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "გრძელი სტრიქონების გადატანა"> 
+<!ENTITY menu_wrapLongLines.title "გრძელი სტრიქონების გადატანა">
 <!ENTITY menu_wrapLongLines.accesskey "ძ">
-<!ENTITY menu_highlightSyntax.label "სინტაქსის შემოწმება">
+<!ENTITY menu_highlightSyntax.label "სინტაქსის გამოყოფა">
 <!ENTITY menu_highlightSyntax.accesskey "ტ">
 <!ENTITY menu_textSize.label "ტექსტის ზომა">
 <!ENTITY menu_textSize.accesskey "ზ">
@@ -84,8 +84,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "ლ">
 <!ENTITY copyEmailCmd.label "ელფოსტის მისამართის დაკოპირება">
 <!ENTITY copyEmailCmd.accesskey "ე">
-
-<!-- Copied from charsetMenu.dtd -->
-<!ENTITY charsetMenu2.label            "ტექსტის კოდირება">
-<!ENTITY charsetMenu2.accesskey        "კ">
-
