@@ -414,7 +414,7 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = Cok Web Droen Sajan Droen
-sync-signedout-description = Sinkron bookmark droen, history, tab, lageuem rahsia, add-on, dan preferensi antara mandum peukakah droen.
+sync-signedout-description = Peuakô bookmark droen, history, tab, lageuem rahsia, add-on, dan preferensi antara mandum peukakah droen.
 sync-signedout-account-title = Meuhubông ngön saboh { -fxaccount-brand-name }
 sync-signedout-account-create = Hana akun lom? Jak ta peuphôn
     .accesskey = J
@@ -451,7 +451,7 @@ sync-remove-account =
 sync-sign-in =
     .label = Tamong
     .accesskey = g
-sync-signedin-settings-header = Peuatô sinkron
+sync-signedin-settings-header = Peuakô neuatô
 sync-signedin-settings-desc = Pileh pue ta sinkron lam peukakah droen nyang ngui { -brand-short-name }
 sync-engine-bookmarks =
     .label = Bôh tanda
