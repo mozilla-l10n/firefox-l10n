@@ -263,7 +263,7 @@
 
 <!ENTITY pref_cookies_menu "ფუნთუშები">
 <!ENTITY pref_cookies_accept_all "ჩართულია">
-<!ENTITY pref_cookies_not_accept_foreign "ჩართულია, გარდა  მე-3 მხარისა">
+<!ENTITY pref_cookies_not_accept_foreign "ჩართულია, გარდა მე-3 მხარისა">
 <!ENTITY pref_cookies_disabled "ამორთულია">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
