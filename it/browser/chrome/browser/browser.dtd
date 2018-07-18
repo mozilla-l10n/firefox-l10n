@@ -26,6 +26,8 @@
 <!ENTITY unpinSelectedTabs.accesskey "h">
 <!ENTITY reloadSelectedTabs.label "Ricarica schede selezionate">
 <!ENTITY reloadSelectedTabs.accesskey "R">
+<!ENTITY bookmarkSelectedTabs.label "Aggiungi schede ai segnalibri…">
+<!ENTITY bookmarkSelectedTabs.accesskey "b">
 <!ENTITY pinTab.label "Appunta scheda">
 <!ENTITY pinTab.accesskey "h">
 <!ENTITY unpinTab.label "Rilascia scheda">
