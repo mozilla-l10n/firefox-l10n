@@ -17,6 +17,8 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "అయ్యో. మీ ట్యాబు ఇప్పుడే కూలబడింది.">
 <!ENTITY tabCrashed.offerHelp2 "మేము సహాయం చెయ్యగలం!">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "పేజీని రీలోడ్ చేయడానికి &tabCrashed.restoreTab; ఎంచుకోండి.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "పేజీ/పేజీలను రీలోడ్ చేయడానికి &tabCrashed.restoreTab; లేదా &tabCrashed.restoreAll; ను ఎంచుకోండి.">
 <!ENTITY tabCrashed.requestHelp "మీరు మాకు సహాయపడుతారా?">
 <!ENTITY tabCrashed.requestHelpMessage "క్రాష్ నివేదికలు మాకు సమస్యలను నిర్ధారించడానికి మరియు &brandShortName; ని మంచిగా చేయడానికి సహాయపడుతాయి.">
 <!ENTITY tabCrashed.requestReport "ఈ ట్యాబుని నివేదించు">
