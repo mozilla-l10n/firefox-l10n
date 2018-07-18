@@ -45,6 +45,8 @@
 <!ENTITY reopenInContainer.accesskey "k">
 <!ENTITY bookmarkAllTabs.label               "Dodaj zakładki do wszystkich kart…">
 <!ENTITY bookmarkAllTabs.accesskey           "k">
+<!ENTITY bookmarkSelectedTabs.label "Dodaj zakładki do zaznaczonych kart…">
+<!ENTITY bookmarkSelectedTabs.accesskey "D">
 <!ENTITY undoCloseTab.label                  "Przywróć zamkniętą kartę">
 <!ENTITY undoCloseTab.accesskey              "P">
 <!ENTITY closeTab.label                      "Zamknij kartę" >
