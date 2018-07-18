@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sync-disconnect-dialog =
+    .title = { -sync-brand-short-name }‌ అనుసంధానం తెంచాలా?
+    .style = width: 38em; min-height: 35em;
 sync-disconnect-remove-sync-caption = { -sync-brand-name } డేటాను తొలగించు
 sync-disconnect-remove-sync-data = ఇష్టాంశాలు, చరిత్ర, సంకేతపదాలు, మొదలైనవి.
 sync-disconnect-remove-other-caption = ఇతర అంతరంగిక డేటాను తొలగించు
