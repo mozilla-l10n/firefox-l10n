@@ -750,6 +750,7 @@
 <!ENTITY pageAction.sendTabToDevice.label "Invia scheda a dispositivo">
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizzazione dispositivi…">
 <!ENTITY pageAction.shareUrl.label "Condividi">
+<!ENTITY pageAction.shareMore.label "Altro…">
 <!ENTITY libraryButton.tooltip "Visualizza cronologia, password salvate e altro ancora">
 <!ENTITY accessibilityIndicator.tooltip "Caratteristiche per l’accessibilità attive">
 <!ENTITY addonPostInstallMessage.label "Gestisci i componenti aggiuntivi facendo clic su <image class='addon-addon-icon'/> nel menu <image class='addon-toolbar-icon'/>.">
