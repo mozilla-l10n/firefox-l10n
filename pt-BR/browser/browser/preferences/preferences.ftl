@@ -256,7 +256,7 @@ update-application-description = Mantenha o { -brand-short-name } atualizado par
 update-application-version = Versão { $version } <a data-l10n-name="learn-more">Novidades</a>
 update-history =
     .label = Mostrar histórico de atualizações…
-    .accesskey = p
+    .accesskey = h
 update-application-allow-description = Permitir que o { -brand-short-name }
 update-application-auto =
     .label = Instale atualizações automaticamente (recomendado)
@@ -380,7 +380,7 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Mostrar sugestões de pesquisa antes do histórico de navegação nos resultados da barra de endereço
+    .label = Mostrar sugestões de pesquisa antes do histórico de navegação nos resultados da barra de endereços
 search-suggestions-cant-show = As sugestões de pesquisa não serão mostradas nos resultados da barra de endereço, porque você configurou o { -brand-short-name } para nunca lembrar o histórico.
 search-one-click-header = Mecanismos de pesquisa em um clique
 search-one-click-desc = Escolha os mecanismos de pesquisa alternativos que aparecem abaixo da barra de endereços e da barra de pesquisa quando você começa a inserir uma palavra-chave.
@@ -542,7 +542,7 @@ history-header = Histórico
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = O { -brand-short-name } irá
-    .accesskey = w
+    .accesskey = i
 history-remember-option-all =
     .label = Memorizar tudo
 history-remember-option-never =
