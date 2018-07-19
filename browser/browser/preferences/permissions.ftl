@@ -95,8 +95,10 @@ permissions-exceptions-autoplay-media-desc = Hansı saytların avtomatik media o
 permissions-site-notification-window =
     .title = Tənzimləmələr - Bildiriş İcazələri
     .style = { permissions-window.style }
+permissions-site-notification-desc = Aşağıdakı saytlar sizə bildiriş göndərmək üçün icazə istəyiblər. Hansı saytların sizə bildiriş göndərə biləcəyini dəqiqləşdirə bilərsiz. Həmçinin yeni bildiriş icazəsi istəklərini əngəlləyə bilərsiz.
 permissions-site-notification-disable-label =
     .label = Bildirişlər üçün icazə istəyən yeni istəkləri əngəllə
+permissions-site-notification-disable-desc = Bu yuxarıda olmayan bütün saytların sizdən bildiriş göndərmə icazəsi istəmələrini əngəlləyəcək. Bildirişləri əngəlləmə bəzi sayt özəlliklərini poza bilər.
 
 ## Site Permissions - Location
 
