@@ -424,7 +424,7 @@ sync-signedout-account-create = Não tem uma conta? Inscreva-se agora
     .accesskey = C
 sync-signedout-account-signin =
     .label = Entrar…
-    .accesskey = I
+    .accesskey = E
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -634,7 +634,7 @@ tracking-desc = A proteção contra rastreamento bloqueia rastreadores on-line q
 tracking-mode-label = Use a proteção contra rastreamento para bloquear rastreadores conhecidos
 tracking-mode-always =
     .label = Sempre
-    .accesskey = y
+    .accesskey = m
 tracking-mode-private =
     .label = Só em janelas privativas
     .accesskey = l
