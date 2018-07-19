@@ -60,6 +60,7 @@ permissions-exceptions-tracking-protection-desc = Bu saytlarda İzlənmə Qoruma
 permissions-exceptions-cookie-window =
     .title = İstisnalar: Çərəzlər və Sayt Məlumatları
     .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Hansı saytların çərəz və sayt məlumatlarını işlədib-işlətməyəcəyini dəqiqləşdirə bilərsiz. İdarə etmək istədiyiniz saytın ünvanını yazaraq Əngəllə, Sessiya üçün icazə ver və ya İcazə ver-ə klikləyə bilərsiz.
 
 ## Exceptions - Pop-ups
 
@@ -87,6 +88,7 @@ permissions-exceptions-addons-desc = Hansı saytların əlavə yükləyə biləc
 permissions-exceptions-autoplay-media-window =
     .title = İcazə verilən saytlar - Avto Oxutma
     .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Hansı saytların avtomatik media oxuda biləcəyini dəqiqləşdirə bilərsiz. İcazə vermək istədiyiniz saytın ünvanını yaxın və İcazə Ver-ə klikləyin.
 
 ## Site Permissions - Notifications
 
