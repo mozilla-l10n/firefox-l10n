@@ -41,6 +41,7 @@ clear-site-data-cache-with-data =
 clear-site-data-cache-empty =
     .label = క్యాషేలో జాల విషయం
     .accesskey = W
+clear-site-data-cache-info = జాలగూళ్ళు చిత్రాలను, దత్తాంశాన్ని తిరిగి తెచ్చుకోవాల్సిఉంటుంది
 clear-site-data-cancel =
     .label = రద్దుచేయి
     .accesskey = C
