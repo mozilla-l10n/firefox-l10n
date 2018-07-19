@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
 <!ENTITY  aboutDevtools.enable.keyShortcutMessage
-          "Jo hawwe in snelkeppeling fan it ûntwikkelersark aktivearre. As dat net de bedoeling wie, kinne jo dit ljepblêd slute.">
+          "Jo hawwe in fluchkeppeling fan it ûntwikkelersark aktivearre. As dat net de bedoeling wie, kinne jo dit ljepblêd slute.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
