@@ -105,9 +105,10 @@ permissions-site-notification-disable-desc = Bu yuxarıda olmayan bütün saytla
 permissions-site-location-window =
     .title = Tənzimləmələr - Mövqe İcazələri
     .style = { permissions-window.style }
-permissions-site-location-desc = Aşağıdakı saytlar mövqenizi almaq üçün icazə istəyiblər. Hansılarının mövqenizi ala biləcəklərini dəqiqləşdirə bilərsiz. Həmçinin yeni mövqenizi öyrənmə istəklərini əngəlləyə bilərsiz. 
+permissions-site-location-desc = Aşağıdakı saytlar mövqeyinizi almaq üçün icazə istəyiblər. Hansılarının mövqeyinizi ala biləcəklərini dəqiqləşdirə bilərsiniz. Həmçinin yeni mövqeyinizi öyrənmə istəklərini əngəlləyə bilərsiniz. 
 permissions-site-location-disable-label =
     .label = Məkanınız üçün icazə istəyən yeni istəkləri əngəllə
+permissions-site-location-disable-desc = Bu yuxarıda olmayan bütün saytların mövqeyinizi istəməyə imkan verməyəcək. Mövqeyinizi almağı əngəlləmə bəzi sayt özəlliklərini poza bilər.
 
 ## Site Permissions - Camera
 
