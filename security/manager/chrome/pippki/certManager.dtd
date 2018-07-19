@@ -68,10 +68,10 @@
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "సర్టిఫికెట్ అధికార క్రమం">
 <!ENTITY certmgr.hierarchy.accesskey2         "H">
-<!ENTITY certmgr.addException.label           "ఆక్షేపణను జతచేయుము…">
+<!ENTITY certmgr.addException.label           "మినహాయింపును చేర్చు…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
-<!ENTITY exceptionMgr.title                   "రక్షణ ఆక్షేపణను జతచేయుము">
+<!ENTITY exceptionMgr.title                   "భద్రతా మినహాయింపు చేర్పు">
 <!ENTITY exceptionMgr.exceptionButton.label   "రక్షణ ఆక్షేపణను ఖాయపరచు">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "చట్టబద్దమైన బ్యాంకులు, దుకాణాలు, మరియు ఇతర పబ్లిక్ సైటులు ఇదిచేయమని మిమ్ములను అడగవు.">
