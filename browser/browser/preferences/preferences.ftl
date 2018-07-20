@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } مرورگر پیش‌فرض شما نی�
 set-as-my-default-browser =
     .label = تنظیم به عنوان پیش‌فرض…
     .accesskey = پ
-startup-page = هنگام شروع { -brand-short-name }
-    .accesskey = s
-startup-user-homepage =
-    .label = نمایش صفحه آغازه
-startup-blank-page =
-    .label = نمایش یک صفحه خالی
-startup-prev-session =
-    .label = نمایش صفحات و زبانه‌های از آخرین دفعه
 startup-restore-previous-session =
     .label = بازنشانی نشست قبلی
     .accesskey = s
 disable-extension =
     .label = غیرفعال سازی افزونه
-home-page-header = صفحه خانگی
 tabs-group-header = زبانه‌ها
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab به ترتیب زبانه‌های اخیرا استفاده شده بین آنها حرکت می‌کند
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = بیشتر بدانید
 update-application-title = بروزرسانی‌های { -brand-short-name }:
 update-application-description = برای تجربهٔ بهترین کارایی، پایداری و امنیت { -brand-short-name } را به روز نگاه دارید.
-update-application-info = نسخه{ $version } <a>امکانات جدید</a>
 update-application-version = نسخه{ $version } <a data-l10n-name="learn-more">امکانات جدید</a>
 update-history =
     .label = نمایش تاریخچهٔ بروزرسانی…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = محدودیت پروسهٔ محتوا
     .accesskey = م
 performance-limit-content-process-enabled-desc = پروسه‌هایِ محتوایِ بیشتر می‌تواند کارایی را هنگام استفاده از چندین زبانه افزایش دهد، اما حافظه بیشتری هم مصرف خواهد کرد.
-performance-limit-content-process-disabled-desc = تغییر دادن تعداد پردازدش‌های محتوا تنها با چند‌پردازشی { -brand-short-name } امکان پذیر است. <a>بدانید چگونه بررسی کنید چندپرادزشی فعال است</a>
 performance-limit-content-process-blocked-desc = تغییر دادن تعداد پردازدش‌های محتوا تنها با چند‌پردازشی { -brand-short-name } امکان پذیر است. <a data-l10n-name="learn-more">بدانید چگونه بررسی کنید چندپرادزشی فعال است</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = استفاده از نشانک…
     .accesskey = ن
-restore-default =
-    .label = بازگرداندن به پیش‌فرض‌
-    .accesskey = ب
 
 ## Search Section
 
@@ -700,9 +678,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = مسدود کردن پایگاه‌ها برای پخش خودکار رسانه و صوت
     .accesskey = B
+permissions-block-autoplay-media-menu = برای سایت‌هایی که بطور خودکار صدا پخش می‌کنند
 permissions-block-autoplay-media-exceptions =
     .label = استثاناها…
     .accesskey = E
+autoplay-option-ask =
+    .label = همیشه بپرس
+autoplay-option-allow =
+    .label = اجازه پخش خودکار بده
+autoplay-option-block =
+    .label = مسدود کردن پخش خودکار
 permissions-block-popups =
     .label = مسدود کردن پنجره‌های بازشو
     .accesskey = م
