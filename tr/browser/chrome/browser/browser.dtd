@@ -50,6 +50,8 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Seçili sekmeleri tazele">
 <!ENTITY  reloadSelectedTabs.accesskey       "t">
+<!ENTITY  bookmarkSelectedTabs.label         "Sekmeleri yer imlerine ekle…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -774,6 +776,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Sözlük ekle…">
 <!ENTITY spellAddDictionaries.accesskey "S">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Tamam">
 <!ENTITY editBookmark.removeBookmark.accessKey       "s">
 
@@ -1070,6 +1076,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar eşitleniyor…">
 
 <!ENTITY pageAction.shareUrl.label "Paylaş">
+
 
 <!ENTITY libraryButton.tooltip "Geçmişinize, kayıtlı yer imlerinize ve daha fazlasına bakın">
 
