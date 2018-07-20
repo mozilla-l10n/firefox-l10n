@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } non es tu navigator predefinite
 set-as-my-default-browser =
     .label = Predefinir…
     .accesskey = D
-startup-page = Quando { -brand-short-name } es initiate
-    .accesskey = i
-startup-user-homepage =
-    .label = Monstra tu pagina initial
-startup-blank-page =
-    .label = Monstra un pagina vacue
-startup-prev-session =
-    .label = Monstra le fenestras e schedas de tu ultime vice
 startup-restore-previous-session =
     .label = Restaurar previe session
     .accesskey = p
 disable-extension =
     .label = Inactivar le extension
-home-page-header = Pagina initial
 tabs-group-header = Schedas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab percurre le schedas in le ordine usate recentemente
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Saper plus
 update-application-title = Actualisationes de { -brand-short-name }
 update-application-description = Mantene { -brand-short-name } actualisate pro le melior rendimento, stabilitate e securitate.
-update-application-info = Version { $version } <a>Novas</a>
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Novas</a>
 update-history =
     .label = Monstrar le chronologia de actualisationes…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limite de processos de contento
     .accesskey = L
 performance-limit-content-process-enabled-desc = Plus processos de contento pote meliorar le rendimento quando on usa plure schedas. ma tamben illos usa plus memoria.
-performance-limit-content-process-disabled-desc = Modificar le numero de processos de contento es solmente possibile con { -brand-short-name } in multiprocesso. <a>Apprender a verificar si le multiprocesso es active</a>
 performance-limit-content-process-blocked-desc = Modificar le numero de processos de contento es solmente possibile con { -brand-short-name } in multiprocesso. <a data-l10n-name="learn-more">Apprender a verificar si le multiprocesso es active</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Usar un marcapaginas…
     .accesskey = m
-restore-default =
-    .label = Restaurar le predefinition
-    .accesskey = R
 
 ## Search Section
 
@@ -703,6 +681,12 @@ permissions-block-autoplay-media =
 permissions-block-autoplay-media-exceptions =
     .label = Exceptiones…
     .accesskey = E
+autoplay-option-ask =
+    .label = Demandar sempre
+autoplay-option-allow =
+    .label = Consentir de auto-reproducer
+autoplay-option-block =
+    .label = Blocar auto-reproduction
 permissions-block-popups =
     .label = Blocar le fenestras emergente
     .accesskey = B
