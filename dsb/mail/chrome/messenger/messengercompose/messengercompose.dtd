@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Toś tu powěsć pózdźej wótpósłaś">
 <!ENTITY quoteButton.tooltip "Pśedchadnu powěsć citěrowaś">
 <!ENTITY addressButton.tooltip "Dostawarja z adresnika wubraś">
-<!ENTITY attachButton.tooltip "Pśiłožk zapśimjeś">
 <!ENTITY attachButton.tooltip2 "Pśidank pśidaś">
 <!ENTITY spellingButton.tooltip "Pšawopis wubranego teksta abo cełeje powěsći kontrolěrowaś">
 <!ENTITY saveButton.tooltip "Toś tu powěsć składowaś">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "w">
-
 <!ENTITY attachmentBucketHeader.tooltip "Pśidankowe wokno">
 <!ENTITY attachmentBucketCloseButton.tooltip "Pśidankowe wokno schowaś">
 
@@ -360,6 +358,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Z adrese pśiměriś…">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Wopśimjeśe powěsći">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Pšawopisna rěc">
