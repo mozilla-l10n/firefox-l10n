@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } bukan pelayar piawai anda
 set-as-my-default-browser =
     .label = Jadikan Piawai…
     .accesskey = P
-startup-page = Apabila { -brand-short-name } mula
-    .accesskey = m
-startup-user-homepage =
-    .label = Papar laman anda
-startup-blank-page =
-    .label = Papar halaman kosong
-startup-prev-session =
-    .label = Papar tetingkap dan tab anda yang terdahulu
 startup-restore-previous-session =
     .label = Pulih sesi dahulu
     .accesskey = s
 disable-extension =
     .label = Nyahdayakan Ekstensi
-home-page-header = Laman
 tabs-group-header = Tab
 ctrl-tab-recently-used-order =
     .label = Pusingan Ctrl+Tab mengikut tertib tab yang baru digunakan
@@ -258,7 +241,6 @@ play-drm-content =
 play-drm-content-learn-more = Ketahui selanjutnya
 update-application-title = Kemaskini { -brand-short-name }
 update-application-description = Pastikan { -brand-short-name } sentiasa dikemaskini untuk mendapatkan prestasi, kestabilan dan keselamatan yang terbaik.
-update-application-info = Versi { $version } <a>Perkembangan terbaru</a>
 update-application-version = Versi { $version } <a data-l10n-name="learn-more">Perkembangan terbaru</a>
 update-history =
     .label = Papar Sejarah Kemaskini…
@@ -294,7 +276,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Had proses kandungan
     .accesskey = H
 performance-limit-content-process-enabled-desc = Proses kandungan tambahan boleh memperbaiki prestasi apabila menggunakan berbilang tab, tetapi juga akan menggunakan lebih banyak memori.
-performance-limit-content-process-disabled-desc = Mengubah bilangan proses kandungan hanya boleh dilakukan dengan multi proses { -brand-short-name }. <a>Ketahui cara untuk menyemak samada multi proses didayakan</a>
 performance-limit-content-process-blocked-desc = Mengubah bilangan proses kandungan hanya boleh dilakukan dengan multi proses { -brand-short-name }. <a data-l10n-name="learn-more">Ketahui cara untuk menyemak samada multi proses didayakan</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -365,9 +346,6 @@ use-current-pages =
 choose-bookmark =
     .label = Guna Tandabuku…
     .accesskey = B
-restore-default =
-    .label = Pulih Piawai
-    .accesskey = P
 
 ## Search Section
 
@@ -688,9 +666,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Sekat laman web daripada secara automatik memainkan media beserta muzik
     .accesskey = S
+permissions-block-autoplay-media-menu = Untuk laman web yang automain suara
 permissions-block-autoplay-media-exceptions =
     .label = Pengecualian…
     .accesskey = P
+autoplay-option-ask =
+    .label = Sentiasa Tanya
+autoplay-option-allow =
+    .label = Izinkan Automain
+autoplay-option-block =
+    .label = Sekat Automain
 permissions-block-popups =
     .label = Sekat tetingkap popup
     .accesskey = S
