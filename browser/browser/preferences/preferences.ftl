@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } is net jo standertbrowser
 set-as-my-default-browser =
     .label = Standert meitsje…
     .accesskey = S
-startup-page = As { -brand-short-name } start
-    .accesskey = s
-startup-user-homepage =
-    .label = Jo startside toane
-startup-blank-page =
-    .label = In lege side toane
-startup-prev-session =
-    .label = Myn finsters en ljepblêden fan de foarige kear toane
 startup-restore-previous-session =
     .label = Foargeande sesje werom bringe
     .accesskey = F
 disable-extension =
     .label = Utwreiding útskeakelje
-home-page-header = Begjinside
 tabs-group-header = Ljepblêden
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab rint troch ljepblêden yn koartlyn brûkte folchoarder
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Mear ynfo
 update-application-title = { -brand-short-name }-fernijingen
 update-application-description = Hâld { -brand-short-name } by de tiid foar de bêste prestaasjes, stabiliteit en feilichheid.
-update-application-info = Ferzje { $version } <a>Wat is der nij</a>
 update-application-version = Ferzje { $version } <a data-l10n-name="learn-more">Wat is der nij</a>
 update-history =
     .label = Fernijingsskiednis toane…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limyt fan ynhâldsprosessen
     .accesskey = L
 performance-limit-content-process-enabled-desc = Ekstra ynhâldsprosessen kinne de prestaasjes by it gebrûk fan mear ljepblêden ferbetterje, mar sille ek mear ûnthâld brûke.
-performance-limit-content-process-disabled-desc = Oanpassen fan it oantal ynhâldsprosessen is allinnich mooglik mei multiproses-{ -brand-short-name }. <a>Ynformaasje oer it kontrolearjen of multiproses ynskeakele is</a>
 performance-limit-content-process-blocked-desc = Oanpassen fan it oantal ynhâldsprosessen is allinnich mooglik mei multiproses-{ -brand-short-name }. <a data-l10n-name="learn-more">Ynformaasje oer it kontrolearjen of multiproses ynskeakele is</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Blêdwizer brûke…
     .accesskey = B
-restore-default =
-    .label = Standert werom bringe
-    .accesskey = w
 
 ## Search Section
 
@@ -700,9 +678,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Automatysk ôfspyljen fan media mei lûd troch websites blokkearje
     .accesskey = s
+permissions-block-autoplay-media-menu = Foar websites dy’t automatysk lûd ôfspylje
 permissions-block-autoplay-media-exceptions =
     .label = Utsûnderingen…
     .accesskey = U
+autoplay-option-ask =
+    .label = Altyd freegje
+autoplay-option-allow =
+    .label = Automatysk ôfspylje tastean
+autoplay-option-block =
+    .label = Automatysk ôfspylje blokkearje
 permissions-block-popups =
     .label = Pop-upfinsters blokkearje
     .accesskey = P
