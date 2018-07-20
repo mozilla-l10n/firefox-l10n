@@ -50,6 +50,8 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "重新載入選擇的分頁">
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
+<!ENTITY  bookmarkSelectedTabs.label         "將分頁加入書籤…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -774,6 +776,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "新增字典…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "完成">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
@@ -1070,6 +1076,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "正在同步裝置…">
 
 <!ENTITY pageAction.shareUrl.label "分享">
+
+<!ENTITY pageAction.shareMore.label "更多…">
 
 <!ENTITY libraryButton.tooltip "檢視瀏覽紀錄、已存書籤等資料">
 
