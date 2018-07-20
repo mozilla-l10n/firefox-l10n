@@ -819,6 +819,7 @@
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizowanie urządzeń…">
 
 <!ENTITY pageAction.shareUrl.label "Udostępnij">
+<!ENTITY pageAction.shareMore.label "Więcej…">
 
 <!ENTITY libraryButton.tooltip "Wyświetl historię, zapisane zakładki i jeszcze więcej">
 
