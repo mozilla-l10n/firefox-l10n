@@ -50,6 +50,8 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "ఎంచుకున్న ట్యాబులను తిరిగి లోడుచెయ్యి">
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
+<!ENTITY  bookmarkSelectedTabs.label         "ట్యాబులను ఇష్టాంశాలు చేయి…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -769,6 +771,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "నిఘంటువులను చేర్చు…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
 <!ENTITY editBookmark.done.label                     "పూర్తయింది">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
@@ -1054,6 +1059,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "పరికరాలను సమకాలీకరిస్తోంది…">
 
 <!ENTITY pageAction.shareUrl.label "పంచుకో">
+
+<!ENTITY pageAction.shareMore.label "మరిన్ని…">
 
 <!ENTITY libraryButton.tooltip "చరిత్ర, భద్రపరచిన ఇష్టాంశాలు, ఇంకా మరెన్నో చూడండి">
 
