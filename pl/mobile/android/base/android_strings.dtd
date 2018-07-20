@@ -327,6 +327,7 @@
 <!ENTITY datareporting_crashreporter_title_short "Awarie">
 <!ENTITY datareporting_wifi_title2 "Usługi lokalizacji organizacji &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Pomóż organizacji &vendorShortName; mapować świat! Udostępniaj przybliżone informacje o lokalizacji urządzenia poprzez Wi-Fi i dane sieci komórkowej, aby pomóc ulepszać usługi geolokalizacyjne.">
+<!ENTITY datareporting_stumbler_notification_title "Usługi lokalizacji organizacji &vendorShortName; są uruchomione">
 
 <!ENTITY pref_update_autodownload3 "Automatyczne aktualizacje">
 <!ENTITY pref_update_autodownload_wifi "Tylko przez Wi-Fi">
