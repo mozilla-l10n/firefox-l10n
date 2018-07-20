@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Відіслати цей лист пізніше">
 <!ENTITY quoteButton.tooltip "Цитувати попереднй лист">
 <!ENTITY addressButton.tooltip "Вибрати адресата з адресної книги">
-<!ENTITY attachButton.tooltip "Вкласти файл в цей лист">
 <!ENTITY attachButton.tooltip2 "Додати вкладення">
 <!ENTITY spellingButton.tooltip "Перевірити правопис вибірки чи всього листа">
 <!ENTITY saveButton.tooltip "Зберегти цей лист">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "В">
-
 <!ENTITY attachmentBucketHeader.tooltip "Панель вкладень">
 <!ENTITY attachmentBucketCloseButton.tooltip "Сховати панель вкладень">
 
@@ -360,6 +358,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Налаштувати з адреси…">
 <!ENTITY customizeFromAddress.accesskey "а">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Вміст повідомлення">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Мова перевірки правопису">
