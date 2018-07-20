@@ -678,6 +678,7 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Blokker nettsider frå automatisk å spele media med lyd
     .accesskey = B
+permissions-block-autoplay-media-menu = For nettsider som autospelar lyd
 permissions-block-autoplay-media-exceptions =
     .label = Unntak…
     .accesskey = U
