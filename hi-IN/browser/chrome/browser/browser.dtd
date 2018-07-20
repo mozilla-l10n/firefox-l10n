@@ -420,7 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.sidebar.label "संकलित टैब्स बाज़ू पट्टी पर देखें">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "अन्य उपकरण जोड़ें">
 
-<!ENTITY appMenuRecentHighlights.label "हाल की झलकियाँ">
+<!ENTITY appMenuRecentHighlights.label "हाल की प्रमुख चीजें">
 
 <!ENTITY customizeMenu.addToToolbar.label "औज़ार पट्टी में जोड़ें">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
