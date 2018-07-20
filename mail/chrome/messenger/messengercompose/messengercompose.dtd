@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Dit berjocht letter ferstjoere">
 <!ENTITY quoteButton.tooltip "It foarige berjocht sitearje">
 <!ENTITY addressButton.tooltip "Immen út in adresboek selektearje">
-<!ENTITY attachButton.tooltip "In bylage keppelje">
 <!ENTITY attachButton.tooltip2 "Bylage tafoegje">
 <!ENTITY spellingButton.tooltip "Kontrolearje stavering fan seleksje of folsleine berjocht">
 <!ENTITY saveButton.tooltip "Dit berjocht bewarje">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "a">
-
 <!ENTITY attachmentBucketHeader.tooltip "Bylagefinster">
 <!ENTITY attachmentBucketCloseButton.tooltip "It bylagefinster ferstopje">
 
@@ -360,6 +358,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Fan-adres oanpasse…">
 <!ENTITY customizeFromAddress.accesskey "F">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Berjochtkearn">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Taal staveringshifker">
