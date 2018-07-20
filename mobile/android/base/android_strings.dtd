@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "క్రాష్ రిపోర్టర్">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; స్థాన సేవ">
 <!ENTITY datareporting_wifi_geolocation_summary4 "ప్రపంచాన్ని మ్యాప్ చేయుటకు &vendorShortName; కి సహాయం చేయండి! మా భూస్థాన సేవను మెరుగుపరిచేందుకు మీ పరికరపు ఉజ్జాయింపు వైఫై మరియు సెల్యులార్ స్థానాన్ని పంచుకోండి.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; స్థాన సేవ నడుస్తోంది">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -891,3 +896,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "ముంగిలి తెరకు చేర్చు">
 <!ENTITY pwa_continue_to_website "వెబ్సైట్కి కొనసాగించండి">
 <!ENTITY pwa_onboarding_sumo "ఆప్ వలె తక్షణమే తెరవడానికి, వేగంగా విహరించడానికి వీలుగా ఈ వెబ్‌సైటుని తేలిగ్గా మీ ముంగిలి తెరకు చేర్చుకోవచ్చు.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "ఆడించు">
+<!ENTITY pip_play_button_description "ఆడిండం కొనసాగించు">
+<!ENTITY pip_pause_button_title "నిలుపు">
+<!ENTITY pip_pause_button_description "ఆడించడం నిలుపు">
