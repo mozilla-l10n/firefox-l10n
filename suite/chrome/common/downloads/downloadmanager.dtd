@@ -88,3 +88,9 @@
 <!ENTITY cmd.copyDownloadLink.accesskey  "T">
 <!ENTITY cmd.properties.label            "Sifat…">
 <!ENTITY cmd.properties.accesskey        "f">
+<!-- LOCALIZATION NOTE (cmd.unblock2.label):
+     This command is shown in the context menu when downloads are blocked.
+     -->
+<!ENTITY cmd.unblock2.label               "Izinkan Muat turun">
+<!ENTITY cmd.unblock2.accesskey           "i">
+
