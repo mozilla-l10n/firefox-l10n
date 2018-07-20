@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Hantar mesej ini kemudian">
 <!ENTITY quoteButton.tooltip "Petik mesej terdahulu">
 <!ENTITY addressButton.tooltip "Pilih penerima dalam Buku Alamat">
-<!ENTITY attachButton.tooltip "Sertakan lampiran">
 <!ENTITY attachButton.tooltip2 "Tambah lampiran">
 <!ENTITY spellingButton.tooltip "Semak ejaan pilihan atau seluruh mesej">
 <!ENTITY saveButton.tooltip "Simpan mesej ini">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "m">
-
 <!ENTITY attachmentBucketHeader.tooltip "Anak Tetingkap Lampiran">
 <!ENTITY attachmentBucketCloseButton.tooltip "Sorok anak tetingkap lampiran">
 
@@ -360,6 +358,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Sesuaikan Daripada Alamat…">
 <!ENTITY customizeFromAddress.accesskey "A">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Kandungan mesej">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Bahasa semakan ejaan">
