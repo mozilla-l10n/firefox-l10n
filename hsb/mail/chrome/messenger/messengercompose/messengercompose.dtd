@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Tutu powěsć pozdźišo pósłać">
 <!ENTITY quoteButton.tooltip "Předchadnu powěsć citować">
 <!ENTITY addressButton.tooltip "Přijimarja z adresnika wubrać">
-<!ENTITY attachButton.tooltip "Přiwěšk zapřijeć">
 <!ENTITY attachButton.tooltip2 "Přiwěšk přidać">
 <!ENTITY spellingButton.tooltip "Prawopis wubraneho teksta abo cyłeje powěsće kontrolować">
 <!ENTITY saveButton.tooltip "Tutu powěsć składować">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "w">
-
 <!ENTITY attachmentBucketHeader.tooltip "Wobłuk přiwěškow">
 <!ENTITY attachmentBucketCloseButton.tooltip "Wobłuk přiwěškow schować">
 
@@ -360,6 +358,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Z adresy přiměrić…">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Wobsah powěsće">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Prawopisna rěč">
