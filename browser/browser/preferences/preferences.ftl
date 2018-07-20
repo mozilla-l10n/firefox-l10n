@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } 不是您的預設瀏覽器
 set-as-my-default-browser =
     .label = 設為預設瀏覽器…
     .accesskey = D
-startup-page = 當 { -brand-short-name } 啟動時
-    .accesskey = s
-startup-user-homepage =
-    .label = 顯示您的首頁
-startup-blank-page =
-    .label = 顯示空白頁
-startup-prev-session =
-    .label = 顯示您上次瀏覽的視窗與分頁
 startup-restore-previous-session =
     .label = 回復先前的瀏覽狀態
     .accesskey = s
 disable-extension =
     .label = 停用擴充套件
-home-page-header = 首頁
 tabs-group-header = 分頁
 ctrl-tab-recently-used-order =
     .label = 按下 Ctrl+Tab 時，依照最近使用分頁的順序切換分頁標籤
@@ -258,7 +241,6 @@ play-drm-content =
 play-drm-content-learn-more = 詳細資訊
 update-application-title = { -brand-short-name } 更新
 update-application-description = 保持更新 { -brand-short-name }，獲得最佳效能、穩定度以及安全性。
-update-application-info = { $version }版 <a>有什麼新鮮事</a>
 update-application-version = { $version }版 <a data-l10n-name="learn-more">有什麼新鮮事</a>
 update-history =
     .label = 顯示更新紀錄…
@@ -294,7 +276,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = 內容處理程序數量限制
     .accesskey = L
 performance-limit-content-process-enabled-desc = 調高內容處理程序的數量，可改善開啟多個分頁時的效能，但也會使用更多記憶體。
-performance-limit-content-process-disabled-desc = 僅能在多程序的 { -brand-short-name } 當中修改內容處理程序數量。 <a>了解如何確認多程序模式是否已開啟</a>
 performance-limit-content-process-blocked-desc = 僅能在多程序的 { -brand-short-name } 當中修改內容處理程序數量。 <a data-l10n-name="learn-more">了解如何確認多程序模式是否已開啟</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -365,9 +346,6 @@ use-current-pages =
 choose-bookmark =
     .label = 使用書籤…
     .accesskey = B
-restore-default =
-    .label = 回復為預設值
-    .accesskey = R
 
 ## Search Section
 
@@ -688,9 +666,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = 防止網站自動播放有聲音的媒體內容
     .accesskey = B
+permissions-block-autoplay-media-menu = 針對會自動播放音效的網站
 permissions-block-autoplay-media-exceptions =
     .label = 例外網站…
     .accesskey = E
+autoplay-option-ask =
+    .label = 總是詢問是否要自動播放
+autoplay-option-allow =
+    .label = 允許自動播放
+autoplay-option-block =
+    .label = 封鎖自動播放
 permissions-block-popups =
     .label = 封鎖彈出型視窗
     .accesskey = B
