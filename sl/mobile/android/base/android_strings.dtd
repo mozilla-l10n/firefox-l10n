@@ -447,6 +447,10 @@
 <!ENTITY datareporting_crashreporter_title_short "Poročevalec o sesutju">
 <!ENTITY datareporting_wifi_title2 "Lokacijske storitve &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Pomagajte organizaciji &vendorShortName; narisati zemljevid sveta! Objavljajte približne podatke o mobilnih in brezžičnih lokacijah vaše naprave za izboljšanje naše geolokacijske storitve.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -891,3 +895,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Dodaj na domač zaslon">
 <!ENTITY pwa_continue_to_website "Nadaljuj na spletno stran">
 <!ENTITY pwa_onboarding_sumo "To stran lahko preprosto dodate na svoj domači zaslon za lažji dostop in hitrejše brskanje v načinu, podobnem aplikaciji.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Predvajaj">
+<!ENTITY pip_play_button_description "Nadaljuj predvajanje">
+<!ENTITY pip_pause_button_title "Ustavi">
+<!ENTITY pip_pause_button_description "Ustavi predvajanje">
