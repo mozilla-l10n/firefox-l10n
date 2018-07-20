@@ -77,11 +77,11 @@
 # LOCALIZATION NOTE (seamonkey_l10n):
 # insert full bookmark line for localized SeaMonkey page (personal toolbar)
 # e.g. #define seamonkey_l10n <DT><A HREF="http://www.seamonkey.tlh/">SeaMonkey tlhIngan</a>
-#define seamonkey_l10n Mozilla Taiwan Comminity (MozTW)
+#define seamonkey_l10n <DT><A HREF="https://moztw.org/">Mozilla Taiwan Community (MozTW)</a>
 
 # LOCALIZATION NOTE (seamonkey_l10n_long):
 # insert full bookmark line for localized SeaMonkey page (normal bookmark)
 # e.g. #define seamonkey_l10n_long <DT><A HREF="http://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
-#define seamonkey_l10n_long <DT><A HREF="http://moztw.org">Mozilla Taiwan Comminity (MozTW)</a> 
+#define seamonkey_l10n_long <DT><A HREF="https://moztw.org/">Mozilla Taiwan Community (MozTW)</a>
 
 #unfilter emptyLines
