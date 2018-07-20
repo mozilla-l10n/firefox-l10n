@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Звіти про збої">
 <!ENTITY datareporting_wifi_title2 "Послуга розташування &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Допоможіть &vendorShortName; створити карту світу! Поділіться приблизним розташуванням Wi-Fi та мобільної мережі вашого пристрою, щоб покращити нашу службу визначення місцезнаходження">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "Служба розташування &vendorShortName; виконується">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -891,3 +896,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Додати на головний екран">
 <!ENTITY pwa_continue_to_website "Продовжити на веб-сайті">
 <!ENTITY pwa_onboarding_sumo "Ви можете легко додати цей веб-сайт на головний екран, щоб мати миттєвий доступ до нього і працювати швидше.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Відтворити">
+<!ENTITY pip_play_button_description "Продовжити відтворення">
+<!ENTITY pip_pause_button_title "Пауза">
+<!ENTITY pip_pause_button_description "Призупинити відтворення">
