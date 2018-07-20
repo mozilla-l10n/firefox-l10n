@@ -952,7 +952,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "स">
 
 <!ENTITY trackingProtection.tooltip "ट्रैकिंग सुरक्षा प्राथमिकताएं खोलें">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; इस पृष्ठ के कुछ भाग को अवरुद्ध कर रहा है जो कि आपके ब्राउज़िंग को ट्रैक कर सकते हैं.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; ऐसे तत्वों का पता लगाया है जो कि आपके ब्राउज़िंग को ट्रैक कर सकते हैं.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; ऐसे तत्वों का पता लगाया है जो कि आपके ब्राउज़िंग को ट्रैक कर सकते हैं. आपने इस साइट के लिए सुरक्षा अक्षम किया हुआ है.">
+<!ENTITY trackingProtection.notDetected5 "कोई भी ट्रैक करने वाले तत्वों को इस पृष्ठ पर पाया नहीं गया.">
+<!ENTITY trackingProtection.notDetectedException "कोई भी ट्रैक करने वाले तत्वों को इस पृष्ठ पर पाया नहीं गया. आपने इस साइट के लिए सुरक्षा अक्षम कर रखा है.">
 
+<!ENTITY trackingProtection.reloadRequired2 "आपने ट्रैकिंग सुरक्षा सक्षम किया है. सभी ट्रैकरों को अवरुद्ध करने हेतु पृष्ठ को पुनः लोड करें.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -1070,6 +1076,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.shareUrl.label "साझा करें">
 
+<!ENTITY pageAction.shareMore.label "अधिक…">
 
 <!ENTITY libraryButton.tooltip "इतिहास, सहेजे गए बुकमार्क, और अधिक देखें">
 
