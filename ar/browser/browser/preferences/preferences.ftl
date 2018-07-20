@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = ‏{ -brand-short-name } ليس المتصفح المبدئي �
 set-as-my-default-browser =
     .label = اجعله المبدئي…
     .accesskey = م
-startup-page = عند بدء { -brand-short-name }
-    .accesskey = ع
-startup-user-homepage =
-    .label = اعرض صفحتي الرئيسية
-startup-blank-page =
-    .label = اعرض صفحة فارغة
-startup-prev-session =
-    .label = اعرض نوافذي و ألسنتي من المرّة السابقة
 startup-restore-previous-session =
     .label = استعد الجلسة السابقة
     .accesskey = س
 disable-extension =
     .label = عطّل الامتداد
-home-page-header = صفحة البداية
 tabs-group-header = الألسنة
 ctrl-tab-recently-used-order =
     .label = ‏Ctrl+Tab يتنقّل عبر الألسنة حسب ترتيب آخر استخدام
@@ -279,7 +262,6 @@ play-drm-content =
 play-drm-content-learn-more = اطّلع على المزيد
 update-application-title = تحديثات { -brand-short-name }
 update-application-description = أبقِ { -brand-short-name } للحصول على أحسن أداء و ثبات و أمان.
-update-application-info = الإصدارة { $version } <a>ما الجديد</a>
 update-application-version = الإصدارة { $version } <a data-l10n-name="learn-more">ما الجديد</a>
 update-history =
     .label = أظهر تأريخ التحديث…
@@ -315,7 +297,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = حد سيرورة المحتوى
     .accesskey = ح
 performance-limit-content-process-enabled-desc = يمكن أن تساهم زيادة سيرورات المحتوى في تحسين الأداء عند استعمال عدة ألسنة، و لكن ذلك يستهلك ذاكرة أكثر.
-performance-limit-content-process-disabled-desc = لا يمكن تعديل عدد سيرورات المحتوى إلا في { -brand-short-name } متعدد السيرورات. <a>اطلع على كيفية التحقق من تفعيل تعدد السيرورات</a>
 performance-limit-content-process-blocked-desc = لا يمكن تعديل عدد سيرورات المحتوى إلا في { -brand-short-name } متعدد السيرورات. <a data-l10n-name="learn-more">اطلع على كيفية التحقق من تفعيل تعدد السيرورات</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -386,9 +367,6 @@ use-current-pages =
 choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
-restore-default =
-    .label = استعد المبدئي
-    .accesskey = س
 
 ## Search Section
 
@@ -709,9 +687,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = امنع المواقع من تشغيل الوسائط المحتوية على صوت تلقائيا
     .accesskey = م
+permissions-block-autoplay-media-menu = عند فتحي مواقع تُشغّل الصوت تلقائيا
 permissions-block-autoplay-media-exceptions =
     .label = الاستثناءات…
     .accesskey = س
+autoplay-option-ask =
+    .label = اسألني دائما
+autoplay-option-allow =
+    .label = اسمح بالتشغيل التلقائي
+autoplay-option-block =
+    .label = امنع التشغيل التلقائي
 permissions-block-popups =
     .label = احجب النوافذ المنبثقة
     .accesskey = ذ

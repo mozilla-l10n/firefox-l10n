@@ -50,6 +50,8 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "أعِد تحميل الألسنة المحددة">
 <!ENTITY  reloadSelectedTabs.accesskey       "د">
+<!ENTITY  bookmarkSelectedTabs.label         "علّم الألسنة…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "ن">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -774,6 +776,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "أضِف قواميس…">
 <!ENTITY spellAddDictionaries.accesskey "ض">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "تمّ">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ع">
 
@@ -1070,6 +1076,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "يُزامن الأجهزة…">
 
 <!ENTITY pageAction.shareUrl.label "شارِك">
+
+<!ENTITY pageAction.shareMore.label "أكثر…">
 
 <!ENTITY libraryButton.tooltip "اعرض التأريخ، والعلامات المحفوظة وغيرها">
 
