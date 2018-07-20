@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " एक है ">
-<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!-- LOCALIZATION NOTE (community.exp.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "वैश्विक समुदाय">
 <!ENTITY community.exp.end          " जो वेब को खुला, सार्वजनिक और सभी की पहुँच के लिए बने रहने देने के लिए काम करते हैं.">
 
@@ -58,7 +58,7 @@
 <!ENTITY bottomLinks.privacy        "गोपनीयता नीति">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "अद्यतन के लिए जाँच रहा है…">
+<!ENTITY update.checkingForUpdates  "अपडेट के लिए जाँचा जा रहा है…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; अद्यतन है">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
