@@ -359,6 +359,9 @@
 <!ENTITY customizeFromAddress.label "Προσαρμογή από διεύθυνση…">
 <!ENTITY customizeFromAddress.accesskey "δ">
 
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Κύριο μέρος μηνύματος">
+
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Γλώσσα ορθογραφικού ελέγχου">
 <!ENTITY encodingStatusPanel.tooltip "Κωδικοποίηση κειμένου">
