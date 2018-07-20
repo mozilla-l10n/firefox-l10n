@@ -313,5 +313,7 @@
 <!ENTITY customizeFromAddress.label "Dostosuj adres nadawcy…">
 <!ENTITY customizeFromAddress.accesskey "D">
 
+<!ENTITY aria.message.bodyName "Treść wiadomości">
+
 <!ENTITY languageStatusButton.tooltip "Język sprawdzania pisowni">
 <!ENTITY encodingStatusPanel.tooltip "Kodowanie tekstu">
