@@ -678,6 +678,7 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Blocar del reproduction automatic de medios sonor le sitos web 
     .accesskey = B
+permissions-block-autoplay-media-menu = Pro sitos web que auto-reproduce sonos
 permissions-block-autoplay-media-exceptions =
     .label = Exceptiones…
     .accesskey = E
