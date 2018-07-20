@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Om skiifromte te besparjen, net downloade:">
 <!ENTITY doNotDownloadNntp.label "Om skiifromte te besparjen, net downloade foar offline gebrûk:">
 <!ENTITY doNotDownloadImap.label "Om skiifromte te besparjen, berjochten downloade fan de server en lokale kopyen bewarje foar offline gebrûk kin beheint wurde troch leeftiid of grutte.">
-<!ENTITY allFoldersOffline.label "Berjochten foar dizze account op dizze kompjûter bewarje">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "Berjochten yn alle mappen foar dizze account op dizze kompjûter bewarje.">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Let op: dizze wiziging hat effekt op alle mappen yn dizze account. Brûk de knop Avansearre… om yndividuele mappen yn te stellen.">
@@ -32,7 +30,7 @@
 <!ENTITY retentionKeepRecent.accesskey "a">
 <!ENTITY retentionApplyToFlagged.label "Berjochten mei stjerke altyd bewarje">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
-<!ENTITY nntpRemoveMsgBody.label "Berjochtkernen fuortsmite âlder as">
+<!ENTITY nntpRemoveMsgBody.label "Berjochtkearnen fuortsmite âlder as">
 <!ENTITY nntpRemoveMsgBody.accesskey "k">
 <!ENTITY offlineSelectNntp.label "Nijsgroepen foar offline-gebrûk selektearje…">
 <!ENTITY offlineSelectNntp.accesskey "s">
