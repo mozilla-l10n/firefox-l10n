@@ -292,5 +292,6 @@
 <!ENTITY addressesSidebarTitle.label "Contactos">
 <!ENTITY customizeFromAddress.label "Personalizar dirección De…">
 <!ENTITY customizeFromAddress.accesskey "D">
+<!ENTITY aria.message.bodyName "Cuerpo del mensaje">
 <!ENTITY languageStatusButton.tooltip "Idioma de revisión ortográfica">
 <!ENTITY encodingStatusPanel.tooltip "Codificación de texto">
