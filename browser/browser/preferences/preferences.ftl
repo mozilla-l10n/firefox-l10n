@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } njejo waš standardny wobglědowak
 set-as-my-default-browser =
     .label = K standardoju cyniś…
     .accesskey = s
-startup-page = Gaž { -brand-short-name } se startujo
-    .accesskey = G
-startup-user-homepage =
-    .label = Waš startowy bok pokazaś
-startup-blank-page =
-    .label = Prozny bok pokazaś
-startup-prev-session =
-    .label = Waše wokna a rejtarki wót slědnego raza pokazaś
 startup-restore-previous-session =
     .label = Pjerwjejšne pósejźenje wótnowiś
     .accesskey = t
 disable-extension =
     .label = Rozšyrjenje znjemóžniś
-home-page-header = Startowy bok
 tabs-group-header = Rejtarki
 ctrl-tab-recently-used-order =
     .label = Strg+Tab pśejźo rejtarki pó tuchylu póstajonem pórěźe
@@ -276,7 +259,6 @@ play-drm-content =
 play-drm-content-learn-more = Dalšne informacije
 update-application-title = Aktualizacije { -brand-short-name }
 update-application-description = Źaržćo { -brand-short-name } aktualny, za nejlěpše wugbaśe, stabilnosć a wěstotu.
-update-application-info = Wersija { $version } <a>Nowe funkcije a změny</a>
 update-application-version = Wersija { $version } <a data-l10n-name="learn-more">Nowe funkcije a změny</a>
 update-history =
     .label = Aktualizacisku historiju pokazaś…
@@ -312,7 +294,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limit wopśimjeśowego procesa
     .accesskey = L
 performance-limit-content-process-enabled-desc = Wěcej wopśimjeśowych procesow móžo wugbaśe pólěpšowaś, gaž se někotare rejtarki wužywaju, buźo pak teke wěcej składa pśetrjebowaś.
-performance-limit-content-process-disabled-desc = Licba wopśimjeśowych procesow dajo se jano z wěcejprocesowym { -brand-short-name } změniś. <a>Zgóńśo, kak móžośo kontrolěrowaś, lěc wěcejprocesowa funkcija jo zmóžnjona</a>
 performance-limit-content-process-blocked-desc = Licba wopśimjeśowych procesow dajo se jano z wěcejprocesowym { -brand-short-name } změniś. <a data-l10n-name="learn-more">Zgóńśo, kak móžośo kontrolěrowaś, lěc wěcejprocesowa funkcija jo zmóžnjona</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -383,9 +364,6 @@ use-current-pages =
 choose-bookmark =
     .label = Cytańske znamje wužywaś…
     .accesskey = C
-restore-default =
-    .label = Standard wótnowiś
-    .accesskey = t
 
 ## Search Section
 
@@ -706,9 +684,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Websedłam zakazaś, medije ze zukom wótgraś
     .accesskey = z
+permissions-block-autoplay-media-menu = Za websedła, kótarež zuk awtomatiski wótgrawaju
 permissions-block-autoplay-media-exceptions =
     .label = Wuwześa…
     .accesskey = u
+autoplay-option-ask =
+    .label = Pśecej se pšašaś
+autoplay-option-allow =
+    .label = Awtomatiske wótgrawanje dowóliś
+autoplay-option-block =
+    .label = Awtomatiske wótgrawanje blokěrowaś
 permissions-block-popups =
     .label = Wuskokujuce wokno blokěrowaś
     .accesskey = k
