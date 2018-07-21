@@ -359,6 +359,9 @@
 <!ENTITY customizeFromAddress.label "Sugen tansa n umazan…">
 <!ENTITY customizeFromAddress.accesskey "g">
 
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Tafekka n yizen">
+
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Tutlayt n useɣti n teɣdira">
 <!ENTITY encodingStatusPanel.tooltip "Asettengel n uḍris">
