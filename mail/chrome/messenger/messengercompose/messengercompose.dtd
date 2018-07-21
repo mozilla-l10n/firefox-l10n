@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Odoslať túto správu neskôr">
 <!ENTITY quoteButton.tooltip "Citovať predchádzajúcu správu">
 <!ENTITY addressButton.tooltip "Vybrať adresáta z Adresára">
-<!ENTITY attachButton.tooltip "Priložiť súbor">
 <!ENTITY attachButton.tooltip2 "Pripojiť prílohu">
 <!ENTITY spellingButton.tooltip "Skontrolovať pravopis označeného textu alebo celej stránky">
 <!ENTITY saveButton.tooltip "Uložiť túto správu">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "h">
-
 <!ENTITY attachmentBucketHeader.tooltip "Panel príloh">
 <!ENTITY attachmentBucketCloseButton.tooltip "Skryť panel príloh">
 
@@ -360,6 +358,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Nastavenie adresy odosielateľa…">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Telo správy">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Jazyk pre kontrolu pravopisu">
