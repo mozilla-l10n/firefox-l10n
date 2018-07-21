@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } əsas səyyahınız deyil
 set-as-my-default-browser =
     .label = Əsas səyyahım et…
     .accesskey = D
-startup-page = { -brand-short-name } başladığında
-    .accesskey = s
-startup-user-homepage =
-    .label = Ana səhifəni göstər
-startup-blank-page =
-    .label = Boş səhifəni göstər
-startup-prev-session =
-    .label = Son seansdan olan pəncərə və vərəqləri göstər
 startup-restore-previous-session =
     .label = Əvvəlki sessiyanı bərpa et
     .accesskey = s
 disable-extension =
     .label = Uzantını söndür
-home-page-header = Ana Səhifə
 tabs-group-header = Vərəqlər
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab son istifadə etmə sırasına görə vərəqlər arasında dönsün
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Ətraflı öyrən
 update-application-title = { -brand-short-name } yeniləmələri
 update-application-description = Yaxşı məhsuldarlıq, sabitlik və təhlükəsizlik üçün { -brand-short-name } səyyahını daima yeni tutun.
-update-application-info = Buraxılış { $version } <a>Yeniliklər</a>
 update-application-version = Buraxılış { $version } <a data-l10n-name="learn-more">Yeniliklər</a>
 update-history =
     .label = Yeniləmə tarixçəsini göstər…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Məzmun proses limiti
     .accesskey = L
 performance-limit-content-process-enabled-desc = Əlavə məzmun prosesləri çox vərəq işlətdikdə məhsuldarlığı artıra bilərlər, amma daha çox yaddaş işlədəcəklər.
-performance-limit-content-process-disabled-desc = Məzmun proseslərinin sayısının dəyişdirilməsi ancaq çox-prosesli { -brand-short-name } ilə mümkündür. <a>Çox-prosesliliyin aktiv olmasını necə yoxlayacağınızı görün</a>
 performance-limit-content-process-blocked-desc = Məzmun proseslərinin sayısının dəyişdirilməsi ancaq çox-prosesli { -brand-short-name } ilə mümkündür. <a data-l10n-name="learn-more">Çox-prosesliliyin aktiv olmasını necə yoxlayacağınızı görün</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Əlfəcin istifadə et…
     .accesskey = Ə
-restore-default =
-    .label = İlkin vəziyyətə qaytar
-    .accesskey = S
 
 ## Search Section
 
@@ -700,9 +678,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Saytların səsli medianı avtomatik oxutmalarını əngəllə
     .accesskey = B
+permissions-block-autoplay-media-menu = Səsi avtomatik oxudan saytlar üçün
 permissions-block-autoplay-media-exceptions =
     .label = İstisnalar…
     .accesskey = E
+autoplay-option-ask =
+    .label = Həmişə soruş
+autoplay-option-allow =
+    .label = Avto oxutmaya icazə ver
+autoplay-option-block =
+    .label = Avto oxutmanı əngəllə
 permissions-block-popups =
     .label = Peyda olan pəncərələri blokla
     .accesskey = b
