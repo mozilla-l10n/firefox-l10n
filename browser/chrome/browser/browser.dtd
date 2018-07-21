@@ -50,6 +50,7 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Muat Ulang Tab yang Dipilih">
 <!ENTITY  reloadSelectedTabs.accesskey       "U">
+<!ENTITY  bookmarkSelectedTabs.label         "Markahi Tab…">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -774,6 +775,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Tambah Kamus…">
 <!ENTITY spellAddDictionaries.accesskey "T">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Selesai">
 <!ENTITY editBookmark.removeBookmark.accessKey       "H">
 
@@ -1070,6 +1075,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Menyinkronkan Peranti…">
 
 <!ENTITY pageAction.shareUrl.label "Bagikan">
+
+<!ENTITY pageAction.shareMore.label "Lainnya…">
 
 <!ENTITY libraryButton.tooltip "Lihat riwayat, markah tersimpan, dan lainnya">
 
