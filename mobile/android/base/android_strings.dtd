@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "崩溃报告器">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; 位置服务">
 <!ENTITY datareporting_wifi_geolocation_summary4 "帮助 &vendorShortName; 绘制世界地图！分享附近的 Wi-Fi 和您的设备的地理位置以帮助改善我们的地理定位服务。">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; 位置服务运行中">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +893,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "添加到主屏幕">
 <!ENTITY pwa_continue_to_website "继续前往网站">
 <!ENTITY pwa_onboarding_sumo "您可以将此网站添加到主屏幕，像用普通应用般快捷打开浏览。">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "播放">
+<!ENTITY pip_play_button_description "继续播放">
+<!ENTITY pip_pause_button_title "暂停">
+<!ENTITY pip_pause_button_description "暂停播放">
