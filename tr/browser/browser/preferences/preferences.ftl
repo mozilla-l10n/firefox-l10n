@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } varsayılan tarayıcınız değil
 set-as-my-default-browser =
     .label = Varsayılan yap…
     .accesskey = a
-startup-page = { -brand-short-name } açıldığında
-    .accesskey = a
-startup-user-homepage =
-    .label = Giriş sayfamı göster
-startup-blank-page =
-    .label = Boş bir sayfa göster
-startup-prev-session =
-    .label = Son oturumdaki pencereleri ve sekmeleri göster
 startup-restore-previous-session =
     .label = Önceki oturumu geri yükle
     .accesskey = o
 disable-extension =
     .label = Eklentiyi etkisizleştir
-home-page-header = Giriş sayfası
 tabs-group-header = Sekmeler
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab, sekmeler arasında son kullanıldıkları sırayla atlasın
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Daha fazla bilgi al
 update-application-title = { -brand-short-name } güncellemeleri
 update-application-description = En yüksek performans, güvenilirlik ve güvenlik için { -brand-short-name } tarayıcınızı güncel tutmalısınız.
-update-application-info = Sürüm { $version } <a>Yeni neler var?</a>
 update-application-version = Sürüm { $version } <a data-l10n-name="learn-more">Yeni neler var?</a>
 update-history =
     .label = Güncelleme geçmişini göster…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = İçerik işlemi sınırı
     .accesskey = L
 performance-limit-content-process-enabled-desc = Daha fazla içerik işlemine izin verdiğinizde, çok sayıda sekme açıkken performans artar ama daha fazla bellek kullanılır.
-performance-limit-content-process-disabled-desc = İçerik işlemi sayısını değiştirmek yalnızca çok işlemli { -brand-short-name } ile mümkündür. <a>Çok işlemin etkin olmadığını kontrol etmeyi öğrenin</a>
 performance-limit-content-process-blocked-desc = İçerik işlemi sayısını değiştirmek yalnızca çok işlemli { -brand-short-name } ile mümkündür. <a data-l10n-name="learn-more">Çok işlemin etkin olmadığını kontrol etmeyi öğrenin</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Yer imi kullan…
     .accesskey = m
-restore-default =
-    .label = Varsayılanı geri getir
-    .accesskey = r
 
 ## Search Section
 
@@ -700,9 +678,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Web sitelerinin sesli içerikleri otomatik olarak oynatmasını engelle
     .accesskey = o
+permissions-block-autoplay-media-menu = Siteler otomatik olarak ses çalmak istediğinde
 permissions-block-autoplay-media-exceptions =
     .label = İstisnalar…
     .accesskey = s
+autoplay-option-ask =
+    .label = Her zaman sor
+autoplay-option-allow =
+    .label = Otomatik oynatmaya izin ver
+autoplay-option-block =
+    .label = Otomatik oynatmayı engelle
 permissions-block-popups =
     .label = Açılır pencereleri engelle
     .accesskey = n

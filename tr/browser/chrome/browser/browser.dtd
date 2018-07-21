@@ -1077,6 +1077,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.shareUrl.label "Paylaş">
 
+<!ENTITY pageAction.shareMore.label "Daha fazla…">
 
 <!ENTITY libraryButton.tooltip "Geçmişinize, kayıtlı yer imlerinize ve daha fazlasına bakın">
 
