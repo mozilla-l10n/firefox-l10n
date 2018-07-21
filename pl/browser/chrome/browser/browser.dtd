@@ -571,7 +571,8 @@
 <!ENTITY spellAddDictionaries.label "Dodaj słowniki…">
 <!ENTITY spellAddDictionaries.accesskey "o">
 
-<!ENTITY editBookmark.done.label                     "Gotowe">
+<!ENTITY editBookmark.panel.width "25em">
+<!ENTITY editBookmark.done.label "Gotowe">
 <!ENTITY editBookmark.showForNewBookmarks.label "Wyświetlanie tego okna podczas dodawania">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey "W">
 <!ENTITY editBookmark.removeBookmark.accessKey       "U">
