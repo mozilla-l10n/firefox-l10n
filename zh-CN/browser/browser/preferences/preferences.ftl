@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } 目前不是您的默认浏览器
 set-as-my-default-browser =
     .label = 设为默认…
     .accesskey = D
-startup-page = 在 { -brand-short-name } 启动时
-    .accesskey = s
-startup-user-homepage =
-    .label = 显示您的主页
-startup-blank-page =
-    .label = 显示空白页
-startup-prev-session =
-    .label = 显示您上次的窗口和标签页
 startup-restore-previous-session =
     .label = 恢复先前的浏览状态
     .accesskey = s
 disable-extension =
     .label = 禁用扩展
-home-page-header = 主页
 tabs-group-header = 标签页
 ctrl-tab-recently-used-order =
     .label = 按下 Ctrl+Tab 时，依照最近使用顺序循环切换标签页
@@ -266,7 +249,6 @@ play-drm-content =
 play-drm-content-learn-more = 详细了解
 update-application-title = { -brand-short-name } 更新
 update-application-description = 让 { -brand-short-name } 保持最新，持续拥有最强的性能、稳定性和安全性。
-update-application-info = 版本: { $version } <a>新版变化</a>
 update-application-version = 版本: { $version } <a data-l10n-name="learn-more">新版变化</a>
 update-history =
     .label = 显示更新历史…
@@ -302,7 +284,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = 内容进程限制
     .accesskey = L
 performance-limit-content-process-enabled-desc = 更多内容进程可以改善使用多个标签页时的性能，但也将消耗更多内存。
-performance-limit-content-process-disabled-desc = 仅在多进程 { -brand-short-name } 时可修改进程数量。 <a>了解如何检查多进程的启用状况</a>
 performance-limit-content-process-blocked-desc = 仅在多进程 { -brand-short-name } 时可修改进程数量。 <a data-l10n-name="learn-more">了解如何检查多进程的启用状况</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -373,9 +354,6 @@ use-current-pages =
 choose-bookmark =
     .label = 使用书签…
     .accesskey = B
-restore-default =
-    .label = 恢复默认设置
-    .accesskey = R
 
 ## Search Section
 
@@ -696,9 +674,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = 阻止网站自动播放有声媒体内容
     .accesskey = B
+permissions-block-autoplay-media-menu = 自动播放声音的网站
 permissions-block-autoplay-media-exceptions =
     .label = 例外…
     .accesskey = E
+autoplay-option-ask =
+    .label = 始终询问
+autoplay-option-allow =
+    .label = 允许自动播放
+autoplay-option-block =
+    .label = 阻止自动播放
 permissions-block-popups =
     .label = 拦截弹出式窗口
     .accesskey = B
