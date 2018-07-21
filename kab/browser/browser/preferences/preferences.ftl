@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } mačči d iminig-inek amezwer
 set-as-my-default-browser =
     .label = Sbadut d amezwar…
     .accesskey = G
-startup-page = Deg tnekra n { -brand-short-name }
-    .accesskey = m
-startup-user-homepage =
-    .label = Sken asebter-iw agejdan 
-startup-blank-page =
-    .label = Sken asebter ilem
-startup-prev-session =
-    .label = Sken iccaren ineggura akked isfuyla yettusqedcen 
 startup-restore-previous-session =
     .label = Err-d tiɣimit izrin
     .accesskey = s
 disable-extension =
     .label = Sens aseɣzif
-home-page-header = Asebter agejdan
 tabs-group-header = Iccaren
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yessezray-d iccaren n umizzwer yettwasqedcen melmi kan
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Issin ugar
 update-application-title = Ileqman n { -brand-short-name }
 update-application-description = Ḥrez { -brand-short-name } yettwalqem i tmellit ifazen, arkad, akked tɣellist.
-update-application-info = Lqem { $version } <a>D acu i d amaynut</a>
 update-application-version = Lqem { $version } <a data-l10n-name="learn-more">D acu i d amaynut</a>
 update-history =
     .label = Sken-d amazray n ulqqem…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Azal afellay n ukala n ugbur
     .accesskey = Y
 performance-limit-content-process-enabled-desc = Ikalan n ugbur-nniḍen zemren ad qaεḍen ugar tamellit di lawan n useqdec n waṭas acaren, maca akka ad iseqdec aṭas n tkatut.
-performance-limit-content-process-disabled-desc = Tzemreḍ kan ad tesnifleḍ amḍan n ugbur n ukala akked ugetakala { -brand-short-name }. <a>Issin amek ad tsneqdeḍ ma yella agetakala yermed</a>
 performance-limit-content-process-blocked-desc = Tzemreḍ kan ad tesnifleḍ amḍan n ugbur n ukala akked ugetakala { -brand-short-name }. <a data-l10n-name="learn-more">Issin amek ad tsneqdeḍ ma yella agetakala yermed</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
-restore-default =
-    .label = Err-d tawila n tazwara
-    .accesskey = E
 
 ## Search Section
 
@@ -700,9 +678,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Sewḥel ismal web si tɣuri tawurmant n yiferdisen imeslawen
     .accesskey = S
+permissions-block-autoplay-media-menu = I yismal yetturaren imesliyen s wudem awurman
 permissions-block-autoplay-media-exceptions =
     .label = Tisuraf…
     .accesskey = r
+autoplay-option-ask =
+    .label = Seqsay yal tikelt
+autoplay-option-allow =
+    .label = Sreg taɣuri tawurmant
+autoplay-option-block =
+    .label = Sewḥel taɣuri tawurmant
 permissions-block-popups =
     .label = Sewḥel isfuyla udhimen
     .accesskey = S
