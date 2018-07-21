@@ -20,7 +20,7 @@
 <!ENTITY referencesField4.label "დამოწმებები ">
 <!ENTITY messageIdField4.label "გზავნილის კოდი ">
 <!ENTITY inReplyToField4.label "პასუხად ">
-<!ENTITY originalWebsite4.label "ვებსაიტი ">
+<!ENTITY originalWebsite4.label "ვებსაიტი">
 
 <!ENTITY hdrArchiveButton1.label "არქივი">
 <!ENTITY hdrArchiveButton1.tooltip "ამ წერილის დაარქივება">
