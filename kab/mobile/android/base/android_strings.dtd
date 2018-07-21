@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Amazan n ineqqisen n uɣelluy">
 <!ENTITY datareporting_wifi_title2 "Ameẓlu n tansa n &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "All &vendorShortName; deg usuneɣ n tkarḍa n umaḍal! Bḍu tansa n Wi-Fi akked tiliɣri n ufus n yibenk-inek akken ad yennerni umeẓlu n usideg arakal.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Ameẓlu n tansa iteddu">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +893,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Rnu ɣer ugilal agejdan">
 <!ENTITY pwa_continue_to_website "Kemmel γer usmel web">
 <!ENTITY pwa_onboarding_sumo "Tzemreḍ ad ternuḍ asmel-a web γer ugilal inek agejdan akken ad tizmireḍ ad tinigeḍ γer-s s wudem arurad am akken telliḍ deg usnas.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Urar">
+<!ENTITY pip_play_button_description "Kemmel urar">
+<!ENTITY pip_pause_button_title "Asteɛfu">
+<!ENTITY pip_pause_button_description "Serǧu urar">
