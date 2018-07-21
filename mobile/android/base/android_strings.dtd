@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Správy o zlyhaní">
 <!ENTITY datareporting_wifi_title2 "Služba zisťovania polohy &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Pomôžte spoločnosti &vendorShortName; mapovať svet. Zdieľajte približnú polohu vášho zariadenia na základe údajov zo siete operátora a Wi-Fi s cieľom vylepšiť presnosť služby zisťovania polohy.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "Služba zisťovania polohy &vendorShortName; Location Service je spustená">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +893,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Pridať na úvodnú obrazovku">
 <!ENTITY pwa_continue_to_website "Pokračovať na webovú stránku">
 <!ENTITY pwa_onboarding_sumo "Túto webovú stránku si môžete jednoducho pridať na svoju úvodnú obrazovku a mať tak okamžitý prístup k prehliadaniu.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Prehrať">
+<!ENTITY pip_play_button_description "Pokračovať v prehrávaní">
+<!ENTITY pip_pause_button_title "Pozastaviť">
+<!ENTITY pip_pause_button_description "Pozastaviť prehrávanie">
