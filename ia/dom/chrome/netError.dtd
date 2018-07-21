@@ -90,8 +90,8 @@
 <p>Si tu desira ancora adder un exception pro iste sito, tu pote facer lo in tu parametros avantiate de cryptographia.</p>
 ">
 
-<!ENTITY cspBlocked.title "Blocate per le regulas de securitate del contento">
-<!ENTITY cspBlocked.longDesc "<p>Le navigator impedi de cargar iste pagina in iste maniera perque le pagina ha regulas de securitate del contento que non lo permitte.</p>">
+<!ENTITY cspBlocked.title "Blocate per le politica de securitate del contento">
+<!ENTITY cspBlocked.longDesc "<p>Le navigator impedi de cargar iste pagina in iste maniera perque le pagina ha politica de securitate del contento que non lo permitte.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque un error in le transmission de datos esseva detectate.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">

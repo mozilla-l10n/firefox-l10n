@@ -153,7 +153,7 @@ was trying to connect. -->
 </ul>
 ">
 
-<!ENTITY cspBlocked.title "Blocate per le regulas de securitate del contento">
+<!ENTITY cspBlocked.title "Blocate per le politica de securitate del contento">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediva a iste pagina de cargar in iste maniera proque le pagina ha un regula de securitate de contento que non lo permitte.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
