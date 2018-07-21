@@ -71,19 +71,19 @@
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
-<!ENTITY cmd.unblock2.label               "Povoliť preberanie">
+<!ENTITY cmd.unblock2.label               "Povoliť prevzatie">
 <!ENTITY cmd.unblock2.accesskey           "o">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
 <!ENTITY cmd.removeFile.label             "Odstrániť súbor">
-<!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
+<!-- LOCALIZATION NOTE (cmd.chooseUnblock.label):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
-<!ENTITY cmd.chooseUnblock.label          "Odstrániť súbor, alebo povoliť prevzatie">
-<!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
+<!ENTITY cmd.chooseUnblock.label          "Odstráňte súbor alebo povoľte prevzatie">
+<!-- LOCALIZATION NOTE (cmd.chooseOpen.label):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
