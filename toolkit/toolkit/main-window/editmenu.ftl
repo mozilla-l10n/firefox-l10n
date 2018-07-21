@@ -19,3 +19,6 @@ editmenu-paste =
 editmenu-delete =
     .label = Өшіру
     .accesskey = ш
+editmenu-select-all =
+    .label = Барлығын таңдау
+    .accesskey = а
