@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Pelapor Kerusakan">
 <!ENTITY datareporting_wifi_title2 "Layanan Lokasi &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Bantu &vendorShortName; memetakan dunia! Bagikan perkiraan lokasi Wi-Fi dan seluler perangkat Anda untuk menyempurnakan layanan geolokasi kami.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Layanan Lokasi berjalan">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +893,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Tambahkan ke Layar Beranda">
 <!ENTITY pwa_continue_to_website "Lanjutkan ke Situs Web">
 <!ENTITY pwa_onboarding_sumo "Anda dapat dengan mudah menambahkan situs web ini ke layar Beranda Anda untuk mendapatkan akses instan dan penjelajahan lebih cepat seperti menggunakan aplikasi.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Putar">
+<!ENTITY pip_play_button_description "Lanjutkan memutar">
+<!ENTITY pip_pause_button_title "Jeda">
+<!ENTITY pip_pause_button_description "Jeda memutar">
