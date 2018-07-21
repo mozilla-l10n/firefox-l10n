@@ -27,7 +27,7 @@
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Como nos usa tu information personal e feedback submittite a &vendorShortName; per &brandShortName; es describite in le ">
-<!ENTITY rights2.intro-point3b "&brandShortName; Regulas de confidentialitate">
+<!ENTITY rights2.intro-point3b "&brandShortName; Politica de confidentialitate">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
