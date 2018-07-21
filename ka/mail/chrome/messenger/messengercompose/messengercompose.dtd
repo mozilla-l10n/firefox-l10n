@@ -359,6 +359,9 @@
 <!ENTITY customizeFromAddress.label "გამგზავნის მისამართის პარამეტრები…">
 <!ENTITY customizeFromAddress.accesskey "რ">
 
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "წერილის შიგთავსი">
+
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "მართლწერის შემმოწმებლის ენა">
 <!ENTITY encodingStatusPanel.tooltip "ტექსტის კოდირება">
