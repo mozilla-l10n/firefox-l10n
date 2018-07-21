@@ -581,7 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameInfoCmd.accesskey   "V">
 <!ENTITY reloadImageCmd.label         "Oppdater bilde">
 <!ENTITY reloadImageCmd.accesskey     "l">
-<!ENTITY viewImageCmd.label           "Vis bilde">
+<!ENTITY viewImageCmd.label           "Vis bildet">
 <!ENTITY viewImageCmd.accesskey       "V">
 <!ENTITY viewImageInfoCmd.label       "Vis bildeinfo">
 <!ENTITY viewImageInfoCmd.accesskey   "b">
@@ -589,7 +589,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.accesskey   "k">
 <!ENTITY viewVideoCmd.label           "Vis video">
 <!ENTITY viewVideoCmd.accesskey       "s">
-<!ENTITY viewBGImageCmd.label         "Vis bakgrunnsbilde">
+<!ENTITY viewBGImageCmd.label         "Vis bakgrunnsbildet">
 <!ENTITY viewBGImageCmd.accesskey     "b">
 <!ENTITY setDesktopBackgroundCmd.label      "Bruk som skrivebordbakgrunn…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "m">
