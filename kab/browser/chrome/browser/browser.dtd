@@ -774,6 +774,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Rnu isegzawalen ...">
 <!ENTITY spellAddDictionaries.accesskey "n">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
 <!ENTITY editBookmark.done.label                     "Immed">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
@@ -1070,6 +1073,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Amtawi n yibenkan…">
 
 <!ENTITY pageAction.shareUrl.label "Bḍu">
+
+<!ENTITY pageAction.shareMore.label "Ugar…">
 
 <!ENTITY libraryButton.tooltip "Sken amazray, ticraḍ yettwakelsen, d wayen-nniḍen">
 
