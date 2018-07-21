@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Lähetä tämä viesti myöhemmin">
 <!ENTITY quoteButton.tooltip "Lainaa edellistä viestiä">
 <!ENTITY addressButton.tooltip "Valitse vastaanottaja osoitekirjasta">
-<!ENTITY attachButton.tooltip "Lisää liitetiedosto tähän viestiin">
 <!ENTITY attachButton.tooltip2 "Lisää liite">
 <!ENTITY spellingButton.tooltip "Oikolue valinta tai koko viesti">
 <!ENTITY saveButton.tooltip "Tallenna tämä viesti">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "e">
-
 <!ENTITY attachmentBucketHeader.tooltip "Liite-paneeli">
 <!ENTITY attachmentBucketCloseButton.tooltip "Piilota Liite-paneeli">
 
@@ -360,6 +358,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Muokkaa lähettäjän osoitetta…">
 <!ENTITY customizeFromAddress.accesskey "u">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Viestin runko">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Oikoluvun kieli">
