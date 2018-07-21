@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "ตัวรายงานข้อขัดข้อง">
 <!ENTITY datareporting_wifi_title2 "บริการตำแหน่งที่ตั้ง &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "ช่วย &vendorShortName; สร้างแผนที่โลก! แบ่งปันตำแหน่งที่ตั้ง Wi-Fi และเครือข่ายเคลื่อนที่ของอุปกรณ์ของคุณโดยประมาณเพื่อปรับปรุงบริการตำแหน่งที่ตั้งทางภูมิศาสตร์ของเรา">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "บริการตำแหน่งที่ตั้ง &vendorShortName; กำลังทำงาน">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +893,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "เพิ่มไปยังหน้าจอหลัก">
 <!ENTITY pwa_continue_to_website "ดำเนินการต่อไปยังเว็บไซต์">
 <!ENTITY pwa_onboarding_sumo "คุณสามารถเพิ่มเว็บไซต์นี้ไปยังหน้าจอหลักของคุณได้อย่างง่ายดายเพื่อให้เข้าถึงได้ทันทีและท่องเว็บได้เร็วขึ้นด้วยประสบการณ์ที่เหมือนแอป">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "เล่น">
+<!ENTITY pip_play_button_description "เล่นต่อ">
+<!ENTITY pip_pause_button_title "หยุดชั่วคราว">
+<!ENTITY pip_pause_button_description "หยุดเล่นชั่วคราว">
