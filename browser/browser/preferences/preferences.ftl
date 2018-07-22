@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } no es su navegador predeterminado
 set-as-my-default-browser =
     .label = Hacer predeterminado…
     .accesskey = D
-startup-page = Cuando { -brand-short-name } se inicie
-    .accesskey = s
-startup-user-homepage =
-    .label = Mostrar página de inicio
-startup-blank-page =
-    .label = Mostrar una página en blanco
-startup-prev-session =
-    .label = Mostrar las ventanas y pestañas de la última vez
 startup-restore-previous-session =
     .label = Restaurar sesión previa
     .accesskey = s
 disable-extension =
     .label = Deshabilitar extensión
-home-page-header = Página de inicio
 tabs-group-header = Pestañas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab rota las pestañas según su uso reciente
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Conocer más
 update-application-title = Actualizaciones de { -brand-short-name }
 update-application-description = Hay que mantener a { -brand-short-name } actualizado para un mejor rendimiento, estabilidad y seguridad.
-update-application-info = Versión { $version } <a>Que hay de nuevo</a>
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Que hay de nuevo</a>
 update-history =
     .label = Mostrar historial de actualizaciones…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Límite del proceso de contenido
     .accesskey = L
 performance-limit-content-process-enabled-desc = Los procesos de contenido adicionales pueden mejorar el rendimiento cuando se usan múltiples pestañas pero también consumirán más memoria.
-performance-limit-content-process-disabled-desc = Modificar el número de procesos contenidos sólo es posible con multiproceso { -brand-short-name }. <a>Aprender a comprobar si multiproceso está habilitado</a>
 performance-limit-content-process-blocked-desc = Modificar el número de procesos contenidos sólo es posible con multiproceso { -brand-short-name }. <a data-l10n-name="learn-more">Aprender a comprobar si multiproceso está habilitado</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Usar un marcador…
     .accesskey = m
-restore-default =
-    .label = Restaurar predeterminadas
-    .accesskey = R
 
 ## Search Section
 
@@ -700,9 +678,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Bloquear sitios web para que no reproduzcan automáticamente medios con sonido
     .accesskey = B
+permissions-block-autoplay-media-menu = Para sitios que reproducen sonido automáticamente
 permissions-block-autoplay-media-exceptions =
     .label = Excepciones
     .accesskey = E
+autoplay-option-ask =
+    .label = Preguntar siempre
+autoplay-option-allow =
+    .label = Permitir reproducción automática
+autoplay-option-block =
+    .label = Bloquear reproducción utomática
 permissions-block-popups =
     .label = Bloquear ventanas emergentes
     .accesskey = B
