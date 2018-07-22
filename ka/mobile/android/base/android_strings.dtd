@@ -450,6 +450,7 @@
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; მდებარეობის მომსახურება გაშვებულია">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -898,3 +899,7 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 
 <!-- Used by accessibility services to identify the play/pause buttons shown in the
 Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "გაშვება">
+<!ENTITY pip_play_button_description "გაშვების გაგრძელება">
+<!ENTITY pip_pause_button_title "შეჩერება">
+<!ENTITY pip_pause_button_description "გაშვების შეჩერება">
