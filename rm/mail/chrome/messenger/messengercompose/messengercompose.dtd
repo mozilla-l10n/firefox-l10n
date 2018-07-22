@@ -359,6 +359,9 @@
 <!ENTITY customizeFromAddress.label "Midar l'adressa da speditur…">
 <!ENTITY customizeFromAddress.accesskey "a">
 
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Text dal messadi">
+
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Lingua per la controlla ortografica">
 <!ENTITY encodingStatusPanel.tooltip "Codaziun dal text">
