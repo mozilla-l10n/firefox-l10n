@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Rapportader da collaps">
 <!ENTITY datareporting_wifi_title2 "Servetsch da posiziun da &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Gida a &vendorShortName; da cartografar il mund! Cundivida la posiziun da WLAN e da cellas da telefonia mobila da tes apparat per meglierar il servetsch da posiziun.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "Servetsch da posiziun da &vendorShortName; è activ">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -891,3 +896,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Agiuntar al visur da partenza">
 <!ENTITY pwa_continue_to_website "Cuntinuar vers la website">
 <!ENTITY pwa_onboarding_sumo "Ti pos agiuntar a moda simpla questa website al visur da partenza per avair access direct e navigar pli svelt, sco sch\&apos;i fiss ina app.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Far ir">
+<!ENTITY pip_play_button_description "Cuntinuar la reproducziun">
+<!ENTITY pip_pause_button_title "Pausa">
+<!ENTITY pip_pause_button_description "Metter en pausa la reproducziun">
