@@ -6,7 +6,7 @@ editmenu-undo =
     .accesskey = F
 
 editmenu-redo =
-    .label = Gentag
+    .label = Gendan
     .accesskey = G
 
 editmenu-cut =
@@ -26,5 +26,5 @@ editmenu-delete =
     .accesskey = S
 
 editmenu-select-all =
-    .label = Vælg alle
-    .accesskey = V
+    .label = Marker alt
+    .accesskey = M
