@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Relator de travamentos">
 <!ENTITY datareporting_wifi_title2 "Serviço de localização da &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Ajuda a &vendorShortName; a mapear o mundo! Compartilha a localização aproximada da rede sem fios e móvel do seu dispositivo para melhorar o nosso serviço de geolocalização.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "Serviço de localização do &vendorShortName; em execução">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -891,3 +896,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Adicionar à tela inicial">
 <!ENTITY pwa_continue_to_website "Continuar no site">
 <!ENTITY pwa_onboarding_sumo "Você pode facilmente adicionar este site à sua tela inicial para ter acesso instantâneo e navegar mais rápido com uma experiência semelhante a um aplicativo.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Reproduzir">
+<!ENTITY pip_play_button_description "Continuar reprodução">
+<!ENTITY pip_pause_button_title "Pausa">
+<!ENTITY pip_pause_button_description "Pausar a reprodução">
