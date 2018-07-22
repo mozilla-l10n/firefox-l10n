@@ -50,6 +50,8 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Obnovit vybrané panely">
 <!ENTITY  reloadSelectedTabs.accesskey       "O">
+<!ENTITY  bookmarkSelectedTabs.label         "Přidat panely do záložek…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "P">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -774,6 +776,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Přidat slovník…">
 <!ENTITY spellAddDictionaries.accesskey "P">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Hotovo">
 <!ENTITY editBookmark.removeBookmark.accessKey       "S">
 
@@ -1070,6 +1076,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizace zařízení…">
 
 <!ENTITY pageAction.shareUrl.label "Sdílet">
+
+<!ENTITY pageAction.shareMore.label "Více…">
 
 <!ENTITY libraryButton.tooltip "Zobrazí historii, uložené záložky, a mnoho dalšího">
 
