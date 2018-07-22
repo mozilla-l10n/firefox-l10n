@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 16.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } n'è betg il navigatur da standard
 set-as-my-default-browser =
     .label = Definir sco standard…
     .accesskey = s
-startup-page = Cura che { -brand-short-name } vegn avià
-    .accesskey = a
-startup-user-homepage =
-    .label = Mussar la pagina da partenza
-startup-blank-page =
-    .label = Mussar ina pagina vida
-startup-prev-session =
-    .label = Mussar las fanestras ed ils tabs da l'ultima sesida
 startup-restore-previous-session =
     .label = Restaurar l'ultima sesida
     .accesskey = s
 disable-extension =
     .label = Deactivar l'extensiun
-home-page-header = Pagina da partenza
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab siglia dad in tab a l'auter en la successiun da l'ultima utilisaziun
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Ulteriuras infurmaziuns
 update-application-title = Actualisaziuns da { -brand-short-name }
 update-application-description = Actualisescha { -brand-short-name } per prestaziun, stabilitad e segirezza maximala.
-update-application-info = Versiun { $version } <a>Novaziuns</a>
 update-application-version = Versiun { $version } <a data-l10n-name="learn-more">Novaziuns</a>
 update-history =
     .label = Mussar la cronologia da las actualisaziuns…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limita da process da cuntegn
     .accesskey = p
 performance-limit-content-process-enabled-desc = Process da cuntegn supplementars pon augmentar la prestaziun sche ti utiliseschas plirs tabs, ma els dovran era dapli memoria.
-performance-limit-content-process-disabled-desc = Igl è mo pussaivel da midar il dumber da process da cuntegn cun versiuns da { -brand-short-name } che sustegnan plirs process. <a>Ve a savair co che ti pos controllar sche la funcziun da plirs process è activada</a>
 performance-limit-content-process-blocked-desc = Igl è mo pussaivel da midar il dumber da process da cuntegn cun versiuns da { -brand-short-name } che sustegnan plirs process. <a data-l10n-name="learn-more">Ve a savair co che ti pos controllar sche la funcziun da plirs process è activada</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
-restore-default =
-    .label = Restaurar il standard
-    .accesskey = R
 
 ## Search Section
 
@@ -700,9 +678,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Impedir che websites reproduceschian automaticamain medias cun tun 
     .accesskey = I
+permissions-block-autoplay-media-menu = Per websites che reproduceschan automaticamain tun
 permissions-block-autoplay-media-exceptions =
     .label = Excepziuns…
     .accesskey = E
+autoplay-option-ask =
+    .label = Adina dumandar
+autoplay-option-allow =
+    .label = Lubir da reproducir
+autoplay-option-block =
+    .label = Bloccar la reproducziun
 permissions-block-popups =
     .label = Bloccar fanestras pop-up
     .accesskey = p
