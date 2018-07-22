@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } не прадвызначаны браў�
 set-as-my-default-browser =
     .label = Зрабіць прадвызначаным…
     .accesskey = З
-startup-page = Пасля запуску { -brand-short-name }
-    .accesskey = а
-startup-user-homepage =
-    .label = паказваць вашу хатнюю старонку
-startup-blank-page =
-    .label = паказваць пустую старонку
-startup-prev-session =
-    .label = паказваць апошнія вокны і карткі
 startup-restore-previous-session =
     .label = Узнаўляць папярэдні сеанс
     .accesskey = с
 disable-extension =
     .label = Адключыць пашырэнне
-home-page-header = Хатняя старонка
 tabs-group-header = Карткі
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab пераключае паміж карткамі ў парадку апошняга выкарыстання
@@ -273,7 +256,6 @@ play-drm-content =
 play-drm-content-learn-more = Даведацца больш
 update-application-title = Абнаўленні { -brand-short-name }
 update-application-description = Трымайце { -brand-short-name } абноўленым для лепшай прадукцыйнасці, стабільнасці і бяспекі.
-update-application-info = Версія { $version } <a>Што новага</a>
 update-application-version = Версія { $version } <a data-l10n-name="learn-more">Што новага</a>
 update-history =
     .label = Паказаць гісторыю абнаўленняў...
@@ -309,7 +291,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Абмежаванне колькасці працэсаў
     .accesskey = а
 performance-limit-content-process-enabled-desc = Дадатковая колькасць працэсаў можа павялічыць прадукцыйнасць пры адкрыцці некалькіх картак, але браўзер будзе спажываць больш памяці.
-performance-limit-content-process-disabled-desc = Змена колькасці працэсаў магчымая толькі ў шматпрацэснай версіі { -brand-short-name }. <a>Даведайцеся, як праверыць, ці ўключана шматпрацэснасць</a>
 performance-limit-content-process-blocked-desc = Змена колькасці працэсаў магчымая толькі ў шматпрацэснай версіі { -brand-short-name }. <a data-l10n-name="learn-more">Даведайцеся, як праверыць, ці ўключана шматпрацэснасць</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -380,9 +361,6 @@ use-current-pages =
 choose-bookmark =
     .label = Ужыць закладку…
     .accesskey = з
-restore-default =
-    .label = Аднавіць прадвызначаную
-    .accesskey = А
 
 ## Search Section
 
@@ -703,9 +681,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Забараніць вэб-сайтам аўтаматычна прайграваць медыя з гукам
     .accesskey = З
+permissions-block-autoplay-media-menu = Для вэб-сайтаў, што аўтаматычна прайграюць гук
 permissions-block-autoplay-media-exceptions =
     .label = Выключэнні…
     .accesskey = к
+autoplay-option-ask =
+    .label = Заўсёды пытаць
+autoplay-option-allow =
+    .label = Дазволіць аўтапрайграванне
+autoplay-option-block =
+    .label = Блакаваць аўтапрайграванне
 permissions-block-popups =
     .label = Блакаваць выплыўныя вокны
     .accesskey = Б
