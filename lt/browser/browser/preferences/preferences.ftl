@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = „{ -brand-short-name }“ šiuo metu nėra numatytoji naršyk
 set-as-my-default-browser =
     .label = Paskirti numatytąja…
     .accesskey = n
-startup-page = Paleidžiant „{ -brand-short-name }“:
-    .accesskey = l
-startup-user-homepage =
-    .label = rodyti pradžios tinklalapį
-startup-blank-page =
-    .label = rodyti tuščią puslapį
-startup-prev-session =
-    .label = atverti paskiausio seanso langus ir korteles
 startup-restore-previous-session =
     .label = Atkurti paskiausiąjį seansą
     .accesskey = r
 disable-extension =
     .label = Išjungti priedą
-home-page-header = Pradžios tinklalapis
 tabs-group-header = Kortelės
 ctrl-tab-recently-used-order =
     .label = Vald+Tab perjungia korteles paskiausiai naudotų eiliškumu
@@ -273,7 +256,6 @@ play-drm-content =
 play-drm-content-learn-more = Sužinoti daugiau
 update-application-title = „{ -brand-short-name }“ naujinimai
 update-application-description = Laiku atnaujinkite „{ -brand-short-name }“ didesniam našumui, stabilumui bei saugumui užtikrinti.
-update-application-info = Laida { $version } <a>Kas naujo</a>
 update-application-version = Laida { $version } <a data-l10n-name="learn-more">Kas naujo</a>
 update-history =
     .label = Rodyti naujinimų žurnalą…
@@ -309,7 +291,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Turinio procesų riba
     .accesskey = r
 performance-limit-content-process-enabled-desc = Papildomi turinio procesai gali paspartinti veikimą kai naudojama daugiau kortelių, tačiau taip pat naudos daugiau atminties.
-performance-limit-content-process-disabled-desc = Turinio procesų skaičiaus keitimas galimas tik daugiaprocesėje „{ -brand-short-name }“. <a>Sužinokite kaip patikrinti, ar daugiaprocesė veiksena įjungta</a>
 performance-limit-content-process-blocked-desc = Turinio procesų skaičiaus keitimas galimas tik daugiaprocesėje „{ -brand-short-name }“. <a data-l10n-name="learn-more">Sužinokite kaip patikrinti, ar daugiaprocesė veiksena įjungta</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -380,9 +361,6 @@ use-current-pages =
 choose-bookmark =
     .label = Tinklalapis iš adresyno…
     .accesskey = T
-restore-default =
-    .label = Atstatyti numatytąjį
-    .accesskey = A
 
 ## Search Section
 
@@ -703,9 +681,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Drausti svetainėms automatiškai groti medijas su garsu
     .accesskey = D
+permissions-block-autoplay-media-menu = Svetainėms, kurios automatiškai groja garsą
 permissions-block-autoplay-media-exceptions =
     .label = Išimtys…
     .accesskey = I
+autoplay-option-ask =
+    .label = Visada klausti
+autoplay-option-allow =
+    .label = Leisti automatinį grojimą
+autoplay-option-block =
+    .label = Blokuoti automatinį grojimą
 permissions-block-popups =
     .label = Neleisti iškylančiųjų langų
     .accesskey = N
