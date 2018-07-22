@@ -50,6 +50,8 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Абнавіць выбраныя карткі">
 <!ENTITY  reloadSelectedTabs.accesskey       "к">
+<!ENTITY  bookmarkSelectedTabs.label         "Закладкі на карткі…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "л">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -774,6 +776,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Дадаць слоўнікі…">
 <!ENTITY spellAddDictionaries.accesskey "с">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "25em">
 <!ENTITY editBookmark.done.label                     "Гатова">
 <!ENTITY editBookmark.removeBookmark.accessKey       "д">
 
@@ -1070,6 +1076,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Сінхранізацыя прылад…">
 
 <!ENTITY pageAction.shareUrl.label "Падзяліцца">
+
+<!ENTITY pageAction.shareMore.label "Больш…">
 
 <!ENTITY libraryButton.tooltip "Паказаць гісторыю, захаваныя закладкі і іншае">
 
