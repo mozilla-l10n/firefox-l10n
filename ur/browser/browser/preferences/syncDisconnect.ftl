@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sync-disconnect-dialog =
+    .title = { -sync-brand-short-name } منقطع کریں
+    .style = width: 36em; min-height: 35em;
+sync-disconnect-remove-other-caption = دیگر بجی کوائف ہٹائیں
+sync-disconnect-remove-other-data = کوکیاں کیسہ آفلائن ویبساَۃٹ کوائف وغیرہ
+# Shown while the disconnect is in progress
+sync-disconnect-disconnecting = منقطع کر رہا ہے۔۔۔
 sync-disconnect-cancel =
     .label = منسوخ کریں
     .accesskey = چ
@@ -14,3 +21,6 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = منقطع اور حزف کریں
     .accesskey = د
+sync-disconnect-confirm-disconnect =
+    .label = بس منقطع کریں
+    .accesskey = D

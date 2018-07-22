@@ -199,6 +199,7 @@ applications-type-column =
 applications-action-column =
     .label = عمل
     .accesskey = ع
+drm-content-header = عددی حقوق بندرستگی(DRM)  مواد 
 play-drm-content-learn-more = مزید سیکھیں
 update-application-title = { -brand-short-name } تازہ کاریاں:
 update-application-version = ورژن{ $version } <a data-l10n-name="learn-more">نیا کیا ہے</a>
@@ -216,6 +217,10 @@ performance-settings-learn-more = مزید سیکھیں
 performance-allow-hw-accel =
     .label = جب دستیاب ہو تو ہارڈ ویئر سرعت کاری استعمال کریں
     .accesskey = ہ
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (default)
 
 ## General Section - Browsing
 
@@ -285,6 +290,7 @@ search-suggestions-option =
     .label = تلاش تجاویز مہیا کریں
     .accesskey = ت
 search-suggestions-cant-show = تلاش کردہ تجاویز محل وقوع کے بار کے نتائج میں دکھاءی نھیں جائنگے کیونکہ { -brand-short-name } تاریخ کبھی یاد نہیں رکھنے پر تشکیل کردہ ہے۔
+search-one-click-header = ایک کلک تلاش انجن
 search-choose-engine-column =
     .label = تلاش انجن
 search-choose-keyword-column =
@@ -451,6 +457,8 @@ sitedata-header = کوکیاں اور سائٹ کے کواِئف
 sitedata-learn-more = مزید سیکھیں
 sitedata-keep-until = رکھیں جب تک
     .accesskey = u
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } بند ہے
 sitedata-accept-third-party-always-option =
     .label = ہمیشہ
 sitedata-accept-third-party-visited-option =
@@ -520,6 +528,8 @@ permissions-notification-link = مزید سیکھیں
 permissions-block-autoplay-media-exceptions =
     .label = استثنیات…
     .accesskey = ع
+autoplay-option-ask =
+    .label = ہمیشہ پوچھیں
 permissions-block-popups =
     .label = پوپ اپ دریچے بلاک کیجیے
     .accesskey = ب

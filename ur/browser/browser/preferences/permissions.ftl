@@ -71,11 +71,17 @@ permissions-exceptions-saved-logins-window =
 
 permissions-exceptions-addons-desc = آپ اختصاص کر سکتے ہیں کہ کونسی سائٹیں وابستہ دریچے کھولنے کےلیے اجازت دادہ ہیں۔ جس سائٹ کو اجازت دینا چاہتے ہیں اس کا ٹھیک ٹھیک پتہ ٹائپ کریں اور پھر 'ہونے دیں' پر کلک کریں۔
 
+## Exceptions - Autoplay Media
+
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = سیٹنگیں- محل وقوع اجازت
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 

@@ -46,7 +46,9 @@
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "ای میل">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "رکن بنیں">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "شکریہ!">
+<!ENTITY  aboutDevtools.newsletter.thanks.message "اگر آپ نے پہلے Mozilla-related نیوز لیٹر کی رکنیت کی تصدیق نھیں کی تو ھو سکتا ھے اپکو کرنی پڑے۔ براہ مہربانی اپنے آمد خانہ کی پڑتال کریں یا ھماری طرف سے ایک ای میل کو اپنے سپیم فلٹر میں۔">
 
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
