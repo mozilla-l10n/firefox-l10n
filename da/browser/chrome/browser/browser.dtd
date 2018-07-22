@@ -38,6 +38,21 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Luk valgte faneblade">
 <!ENTITY  closeSelectedTabs.accesskey        "v">
 
+<!ENTITY  pinSelectedTabs.label              "Fastgør faneblade">
+<!-- Pin Tab and Pin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  pinSelectedTabs.accesskey          "F">
+<!ENTITY  unpinSelectedTabs.label            "Frigør faneblade">
+<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  unpinSelectedTabs.accesskey        "F">
+<!-- Reload Tab and Reload Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadSelectedTabs.label           "Genindlæs valgte faneblade">
+<!ENTITY  reloadSelectedTabs.accesskey       "G">
+<!ENTITY  bookmarkSelectedTabs.label         "Bogmærk faneblade…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "B">
+
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -792,8 +807,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Tilføj ordbøger…">
 <!ENTITY spellAddDictionaries.accesskey "o">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Færdig">
 <!ENTITY editBookmark.removeBookmark.accessKey       "F">
+
+<!ENTITY editBookmark.showForNewBookmarks.label       "Vis editor, når der gemmes">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "V">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -1096,6 +1118,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer enheder…">
 
 <!ENTITY pageAction.shareUrl.label "Del">
+
+<!ENTITY pageAction.shareMore.label "Mere…">
 
 <!ENTITY libraryButton.tooltip "Se historik, gemte bogmærker og andet">
 

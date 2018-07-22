@@ -701,9 +701,19 @@ permissions-block-autoplay-media =
     .label = Lad ikke websteder starte automatisk afspilning af mediefiler med lyd
     .accesskey = l
 
+permissions-block-autoplay-media-menu = For websteder, der automatisk afspiller lyd
+
 permissions-block-autoplay-media-exceptions =
     .label = Undtagelser…
     .accesskey = U
+
+autoplay-option-ask =
+    .label = Spørg altid
+autoplay-option-allow =
+    .label = Tillad automatisk afspilning
+autoplay-option-block =
+    .label = Bloker automatisk afspilning
+
 permissions-notification-pause =
     .label = Sæt beskeder på pause, indtil { -brand-short-name } starter igen
     .accesskey = b
