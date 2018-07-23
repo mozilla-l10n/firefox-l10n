@@ -707,7 +707,7 @@ permissions-addon-exceptions =
     .label = Wuwześa…
     .accesskey = W
 permissions-a11y-privacy-checkbox =
-    .label = Słužbam pśistupnosći pśistup na waš wobglědowak zawoboraś
+    .label = Słužbam pśistupnosći pśistup k wašomu wobglědowakoju zawoboraś
     .accesskey = t
 permissions-a11y-privacy-link = Dalšne informacije
 
