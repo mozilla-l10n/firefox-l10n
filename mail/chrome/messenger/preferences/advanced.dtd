@@ -20,10 +20,10 @@
 <!ENTITY maildirStore.label            "თითოეული წერილი ფაილში (maildir)">
 
 <!ENTITY scrolling.label               "გადახვევა">
-<!ENTITY useAutoScroll.label           "თვითგადახვევა">
-<!ENTITY useAutoScroll.accesskey       "U">
-<!ENTITY useSmoothScrolling.label      "მდორე გადახვევა">
-<!ENTITY useSmoothScrolling.accesskey  "m">
+<!ENTITY useAutoScroll.label           "თვითგადაადგილების გამოყენება">
+<!ENTITY useAutoScroll.accesskey       "თ">
+<!ENTITY useSmoothScrolling.label      "გლუვი გადაადგილების გამოყენება">
+<!ENTITY useSmoothScrolling.accesskey  "გ">
 
 <!ENTITY systemIntegration.label       "სისტემური ინტეგრაცია">
 <!ENTITY alwaysCheckDefault.label      "გახსნისას &brandShortName; პროგრამის ყოველთვის შემოწმება ნაგულისხმებ საფოსტო პროგრამად">
