@@ -10,7 +10,7 @@
 <!ENTITY initialpage.computer.label  "Na mójom licadle">
 <!ENTITY initialpage.network.label  "W seśi">
 
-<!ENTITY locationpage.description         "Stajśo informacije wó tom k dispoziciji, což jo trěbne, aby pśistup na waš daloki kalender měło" >
+<!ENTITY locationpage.description         "Stajśo informacije wó tom k dispoziciji, což jo trěbne, aby pśistup k wašomu dalokemu kalendroju měło" >
 <!ENTITY locationpage.login.description   "Na žycenje: zapódajśo wužywarske mě a gronidło" >
 <!ENTITY locationpage.username.label      "Wužywarske mě:" >
 <!ENTITY locationpage.password.label      "Gronidło:" >
