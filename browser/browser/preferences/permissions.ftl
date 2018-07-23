@@ -105,10 +105,10 @@ permissions-site-notification-disable-desc = To buźo websedłam, kótarež gór
 permissions-site-location-window =
     .title = Nastajenja - pšawa městna
     .style = { permissions-window.style }
-permissions-site-location-desc = Slědujuce websedła su pominali pśistup na wašo stojnišćo. Móžośo pódaś, kótare websedła maju pśistup na wašo stojnišćo. Móžośo teke nowe pominanja za pśistupom na wašo stojnišćo blokěrowaś.
+permissions-site-location-desc = Slědujuce websedła su pominali pśistup na wašo městno. Móžośo pódaś, kótare websedła maju pśistup na wašo městno. Móžośo teke nowe pominanja za pśistupom na wašo městno blokěrowaś.
 permissions-site-location-disable-label =
-    .label = Nowe pominanja za pśistupom na wašo stojnišćo blokěrowaś
-permissions-site-location-disable-desc = To buźo websedłam, kótarež górjejce w lisćinje pódane njejsu, pominanje za pśistupom na wašo stojnišćo zajźowaś. Gaž pśistup na wašo stojnišćo blokěrujośo, móžo se staś, až někotare funkcije websedła njefunkcioněruju.
+    .label = Nowe pominanja za pśistupom na wašo městno blokěrowaś
+permissions-site-location-disable-desc = To buźo websedłam, kótarež górjejce w lisćinje pódane njejsu, pominanje za pśistupom na wašo městno zajźowaś. Gaž pśistup na wašo městno blokěrujośo, móžo se staś, až někotare funkcije websedła njefunkcioněruju.
 
 ## Site Permissions - Camera
 
