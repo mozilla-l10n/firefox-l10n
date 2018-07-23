@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Pošlji to sporočilo kasneje">
 <!ENTITY quoteButton.tooltip "Navedi prejšnje sporočilo">
 <!ENTITY addressButton.tooltip "Izberite prejemnika iz imenika">
-<!ENTITY attachButton.tooltip "Vključi priponko">
 <!ENTITY attachButton.tooltip2 "Dodaj prilogo">
 <!ENTITY spellingButton.tooltip "Preveri črkovanje izbire ali celotnega sporočila">
 <!ENTITY saveButton.tooltip "Shrani to sporočilo">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "n">
-
 <!ENTITY attachmentBucketHeader.tooltip "Podokno za priponke">
 <!ENTITY attachmentBucketCloseButton.tooltip "Skrij podokno za priponke">
 
@@ -360,6 +358,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Prilagodi naslov pošiljatelja …">
 <!ENTITY customizeFromAddress.accesskey "P">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Telo sporočila">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Jezik za preverjanje črkovanja">
