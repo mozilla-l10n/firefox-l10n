@@ -783,6 +783,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Terminer">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "Afficher l’éditeur lors de l’enregistrement">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "A">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
