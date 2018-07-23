@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "ਕਰੈਸ਼ ਰਿਪੋਰਟਰ">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; ਟਿਕਾਣਾ ਸੇਵਾ">
 <!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; ਨੂੰ ਸੰਸਾਰ ਦੇ ਨਕਸ਼ੇ ਲਈ ਮਦਦ ਦਿਓ! ਆਪਣੇ ਡਿਵਾਈਸ ਦੇ ਲਗਭਗ Wi-Fi ਅਤੇ ਸੈਲੂਲਰ ਟਿਕਾਣੇ ਨੂੰ ਸਾਂਝਾ ਕਰੋ ਤਾਂ ਕਿ ਸਾਡੀ ਭੂਗੋਲਿਕ ਟਿਕਾਣੇ ਨੂੰ ਸੁਧਾਰਿਆ ਜਾ ਸਕੇ।">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; ਟਿਕਾਣਾ ਸੇਵਾ ਚਾਲੂ ਹੈ">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -891,3 +896,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "ਮੁੱਖ ਸਕਰੀਨ \&apos;ਤੇ ਜੋੜੋ">
 <!ENTITY pwa_continue_to_website "ਵੈੱਬਸਾਈਟ ਨਾਲ ਜਾਰੀ ਰੱਖੋ">
 <!ENTITY pwa_onboarding_sumo "ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਨੂੰ ਸੌਖੀ ਤਰ੍ਹਾਂ ਆਪਣੀ ਮੁੱਖ ਸਕਰੀਨ \&apos;ਤੇ ਜੋੜ ਸਕਦੇ ਹੋ ਤਾਂ ਕਿ ਐਪ ਵਰਗੇ ਤਜਰਬੇ ਵਾਸਤੇ ਤੁਰੰਤ ਪਹੁੰਚ ਅਤੇ ਤੇਜ਼ੀ ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕੇ।">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "ਚਲਾਉ">
+<!ENTITY pip_play_button_description "ਚਲਾਉਣਾ ਜਾਰੀ ਰੱਖੋ">
+<!ENTITY pip_pause_button_title "ਥੰਮ ਦਿਉ">
+<!ENTITY pip_pause_button_description "ਚਲਾਉਣਾ ਥੰਮ ਦਿਉ">
