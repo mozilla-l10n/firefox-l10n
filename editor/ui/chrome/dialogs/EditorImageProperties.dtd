@@ -39,7 +39,7 @@
 <!ENTITY widthEditField.label "სიგანე:">
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY constrainCheckbox.label "პროპორცია">
-<!ENTITY constrainCheckbox.accessKey "C">
+<!ENTITY constrainCheckbox.accessKey "ო">
 <!ENTITY constrainCheckbox.tooltip "ნახატის პროპორციის შენარჩუნება">
 
 <!-- These controls are in the Image Map box of the expanded area -->
