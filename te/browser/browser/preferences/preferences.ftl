@@ -665,12 +665,21 @@ permissions-a11y-privacy-link = ఇంకా తెలుసుకోండి
 
 collection-header = { -brand-short-name } డేటా సేకరణ మరియు ఉపయోగం
 collection-privacy-notice = గోప్యతా విధానం
+collection-health-report =
+    .label = సాంకేతిక, ఇంటరాక్షన్ డేటాను { -vendor-short-name }‌కి పంపించుటకు { -brand-short-name }‌ని అనుమతించు
+    .accesskey = r
 collection-health-report-link = ఇంకా తెలుసుకోండి
 collection-studies-link = { -brand-short-name } అథ్యయనాలను చూడండి
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది
+collection-browser-errors =
+    .label = విహారిణి లోప నివేదికలను (లోపాల సందేశాలతో సహా) { -vendor-short-name }‌కి పంపించుటకు { -brand-short-name }‌ని అనుమతించు
+    .accesskey = b
 collection-browser-errors-link = ఇంకా తెలుసుకోండి
+collection-backlogged-crash-reports =
+    .label = మిగిలిపోయిన క్రాష్ నివేదికలకు నా తరపున పంపించడానికి { -brand-short-name }‌ని అనుమతించు
+    .accesskey = c
 collection-backlogged-crash-reports-link = ఇంకా తెలుసుకోండి
 
 ## Privacy Section - Security
