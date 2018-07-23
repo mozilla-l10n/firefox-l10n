@@ -7,18 +7,18 @@
 <!ENTITY other.languages "Pokazujomy jano póbitowarje, kótarež póbituju adrese we wašych śtronach. Klikniśo how, aby wšykne póbitowarje pokazał.">
 <!ENTITY error.line1 "Bóžko njejsmy mógli naraźone e-mailowe adrese namakaś.">
 <!ENTITY error.line2 "Móžośo teke za pśimjenjami abo hynakšim wurazom pytaś, aby dalšne e-mailowe adrese namakał.">
+
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
-
 <!ENTITY error.suggest.before "Móžośo teke jadnu z ">
 <!ENTITY error.suggest.middle "dermotnych alternatiwow e-mailowych kontow wužywaś">
 <!ENTITY error.suggest.after ".">
+
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
-
 <!ENTITY success.title.before "Witajśo ">
 <!ENTITY success.title.after ", slědujuce e-mailowe adrese stoje wam k dispoziciji:">
 <!ENTITY success.tip "(Móžośo teke za pśimjenjami abo hynakšim wurazom pytaś, aby dalšne e-mailowe adrese namakał)">
@@ -31,7 +31,7 @@
 <!ENTITY successful.successMessage "Sćo swójo konto wuspešnje konfigurěrował.">
 <!ENTITY successful.write "E-mailku pisaś">
 <!ENTITY successful.write.desc "Dajśo swój pśijaśele a swóju familiju swóju nowu adresu k wěsći.<br/> Togodla sćo toś to nowe konto załožył, nic ga?">
-<!ENTITY successful.customize "Pśiměrśo &brandShortName; z někotarymi wjelicnymi dodankami">
+<!ENTITY successful.customize "Pśiměŕśo &brandShortName; z někotarymi wjelicnymi dodankami">
 <!ENTITY successful.customize.desc "Su tysace dodankow, kótarež wam zmóžnjaju, &brandShortName; pśiměriś, aby wašym wósobinskim žycenjam wótpowědował.">
 <!ENTITY successful.attach "Wósobinsku signaturu k e-mailoju pśipowjesyś">
 <!ENTITY successful.attach.desc "Móžośo citat abo hynakše informacije wó sebi ke kóńcoju kuždeje powěsći, kótaruž sćelośo, pśipowjesyś.">
