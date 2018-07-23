@@ -447,6 +447,10 @@
 <!ENTITY datareporting_crashreporter_title_short "Kraschrapportör">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;s platstjänster">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Hjälp &vendorShortName; att kartlägga världen! Dela den ungefärliga Wi-Fi och datatrafikplatsen för din enhet, och hjälp oss att förbättra våra platstjänster.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +892,8 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Lägg till på startsidan">
 <!ENTITY pwa_continue_to_website "Fortsätt till webbsidan">
 <!ENTITY pwa_onboarding_sumo "Du kan enkelt lägga till den här webbplatsen på din startsida för att få snabb åtkomst och surfa snabbare med en appliknande upplevelse.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Spela upp">
+<!ENTITY pip_pause_button_title "Paus">
