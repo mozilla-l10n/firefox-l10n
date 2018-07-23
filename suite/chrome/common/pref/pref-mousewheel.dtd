@@ -18,8 +18,8 @@
 <!ENTITY doNothing.accesskey             "D">
 <!ENTITY doNothingHoriz.accesskey        "n">
 <!ENTITY scrollDocument.label            "დოკუმენტის გადაფურცვლა">
-<!ENTITY scrollDocument.accesskey        "S">
-<!ENTITY scrollDocumentHoriz.accesskey   "c">
+<!ENTITY scrollDocument.accesskey        "გ">
+<!ENTITY scrollDocumentHoriz.accesskey   "კ">
 <!ENTITY history.label                   "ისტორიის ნუსხის წინ და უკან გადახვევა">
 <!ENTITY history.accesskey               "M">
 <!ENTITY historyHoriz.accesskey          "b">
@@ -27,8 +27,8 @@
 <!ENTITY zoom.accesskey                  "Z">
 <!ENTITY zoomHoriz.accesskey             "o">
 <!ENTITY wheelSpeed.label                "თაგუნას ბორბლის სიჩქარე:">
-<!ENTITY wheelSpeed.accesskey            "w">
-<!ENTITY wheelSpeedHoriz.accesskey       "u">
+<!ENTITY wheelSpeed.accesskey            "ო">
+<!ENTITY wheelSpeedHoriz.accesskey       "ს">
 <!ENTITY reverseDirection.label          "უკუმიმართულებით">
 <!ENTITY reverseDirection.accesskey      "R">
 <!ENTITY reverseDirectionHoriz.accesskey "e">
