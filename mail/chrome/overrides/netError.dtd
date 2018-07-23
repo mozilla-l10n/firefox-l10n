@@ -17,12 +17,12 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serwer njejo se namakał">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Pśeglědajśo adresu za pisańskimi zmólkami kaž <strong>ww</strong>.example.com město <strong>www</strong>.example.com.</li> <li>Jolic njamóžośo někotare boki cytaś, pśekontrolujśo seśowy zwisk swójogo licadła.</li> <li>Jolic wašo licadło abo seś šćita se z wognjoweju murju abo proksy, zawěsććo, až &brandShortName; smějo pśistup na Web měś.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Pśeglědajśo adresu za pisańskimi zmólkami kaž <strong>ww</strong>.example.com město <strong>www</strong>.example.com.</li> <li>Jolic njamóžośo někotare boki cytaś, pśekontrolujśo seśowy zwisk swójogo licadła.</li> <li>Jolic wašo licadło abo seś šćita se z wognjoweju murju abo proksy, zawěsććo, až &brandShortName; smějo pśistup k weboju měś.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Dataja njejo se namakała">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Pśeglědajśo datajowe mě za wjelikopisańskimi abo hynakšymi pisańskimi zmólkami.</li> <li>Pśeglědjśo, lěc dataja jo se pśesunuła, pśemjeniła abo wulašowała.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Pśistup na dataju jo se wótpokazał">
+<!ENTITY fileAccessDenied.title "Pśistup k dataji jo se wótpokazał">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Snaź jo se wótpórała, pśesunuła, abo datajowe pšawa zajźuju pśistupoju.</li> </ul>">
 
 <!ENTITY generic.title "Hopla.">
@@ -59,7 +59,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Pśekontrolěrujśo proksy-nastajenja, aby zawěsćił, až wóne su korektne.</li> <li>Stajśo ze swójm seśowym administratorom do zwiska, aby zawěsćił, až proksy-serwer źěła.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Njejo móžno, proksy-serwer namakaś">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Pśeglědajśo proksy-nastajenja, aby zawěsćił, až su korektne.</li> <li>Pśekontrolěrujśo, lěc wašo licadło ma funkcioněrujucy seśowy zwisk.</li> <li>Jolic wašo licadło abo seś šćita se z wognjoweju murju abo proksy, zawěsććo, až &brandShortName; smějo pśistup na web měś.</li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Pśeglědajśo proksy-nastajenja, aby zawěsćił, až su korektne.</li> <li>Pśekontrolěrujśo, lěc wašo licadło ma funkcioněrujucy seśowy zwisk.</li> <li>Jolic wašo licadło abo seś šćita se z wognjoweju murju abo proksy, zawěsććo, až &brandShortName; smějo pśistup k weboju měś.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Bok njepósrědnja pórědnje">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Toś ten problem zawinujo se wótergi pśez zmóžnjanje abo znjemóžnjanje cookiejow.</li> </ul>">
@@ -73,7 +73,7 @@
 <!ENTITY nssBadCert.title "Wěsty zwisk njemóžno">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>To by mógło problem z konfiguraciju serwera byś, abo by mógło byś, až něchten wopytujo serwer imitěrowaś.</li> <li>Jolic sćo ze serwerom w zachadnosći wuspěšnje zwězany był, by mógła zmólka snaź nachylna byś a móžośo pózdźej hyšći raz wopytaś.</li> </ul>">
 
-<!ENTITY sharedLongDesc "<ul> <li>Sedło njeby mógło nachylnje k dispoziciji staś abo pśeśěžone byś. Wopytajśo za mało wokognuśow hyšći raz.</li> <li>Jolic njamóžośo někotare boki cytaś, pśekontrolěrujśo zwisk wašeje licadłoweje seśe.</li> <li>Jolic wašo licadło abo seś šćita se z wognjoweju murju abo proksy, zawěsććo, až &brandShortName; smějo pśistup na Web měś.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Sedło njeby mógło nachylnje k dispoziciji staś abo pśeśěžone byś. Wopytajśo za mało wokognuśow hyšći raz.</li> <li>Jolic njamóžośo někotare boki cytaś, pśekontrolěrujśo zwisk wašeje licadłoweje seśe.</li> <li>Jolic wašo licadło abo seś šćita se z wognjoweju murju abo proksy, zawěsććo, až &brandShortName; smějo pśistup k weboju měś.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Pśez wěstotne pšawidła za wopśimjeśe zablokěrowany">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; jo zacytowanjeju toś togo boka na toś ten nałog zajźował, dokulaž bok ma wěstotne pšawidła za wopśimjeśe, kótarež to njedowóluju.</p>">
