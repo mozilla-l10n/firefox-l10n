@@ -14,6 +14,9 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = Service workers
+# Text displayed next to the list of Service Workers to encourage users to check out
+# about:debugging to see all registered Service Workers.
+serviceworker-list-aboutdebugging = Ouvrez <a>about:debugging</a> pour afficher les service workers des autres domaines
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Désinscrire
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
@@ -49,3 +52,9 @@ serviceworker-empty-suggestions = Si la page actuelle devrait contenir un servic
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Rechercher les erreurs dans la console. <a>Ouvrir la console</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Parcourir le registre des inscriptions de service workers à la recherche d’exceptions. <a>Ouvrir le débogueur</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = Inspecter les service workers des autres domaines. <a>Ouvrir about:debugging</a>

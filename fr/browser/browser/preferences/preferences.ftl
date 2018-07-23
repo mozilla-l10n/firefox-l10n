@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 19em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } n’est pas votre navigateur par défaut
 set-as-my-default-browser =
     .label = Définir par défaut…
     .accesskey = D
-startup-page = Au démarrage de { -brand-short-name }
-    .accesskey = d
-startup-user-homepage =
-    .label = Afficher votre page d’accueil
-startup-blank-page =
-    .label = Afficher une page vide
-startup-prev-session =
-    .label = Afficher les derniers onglets et fenêtres utilisés
 startup-restore-previous-session =
     .label = Restaurer la session précédente
     .accesskey = e
 disable-extension =
     .label = Désactiver l’extension
-home-page-header = Page d’accueil
 tabs-group-header = Onglets
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab fait défiler vos onglets en les classant selon leur dernière utilisation
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = En savoir plus
 update-application-title = Mises à jour de { -brand-short-name }
 update-application-description = Conservez { -brand-short-name } à jour pour bénéficier des dernières avancées en matière de performances, de stabilité et de sécurité.
-update-application-info = Version { $version } <a>Notes de version</a>
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Notes de version</a>
 update-history =
     .label = Afficher l’historique des mises à jour…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Nombre maximum de processus de contenu
     .accesskey = N
 performance-limit-content-process-enabled-desc = Davantage de processus de contenu peut améliorer les performances lors de l’utilisation de plusieurs onglets, cependant la consommation de mémoire sera plus importante.
-performance-limit-content-process-disabled-desc = Modifier le nombre de processus de contenu est possible uniquement avec la version multiprocessus de { -brand-short-name }. <a>Apprendre à vérifier si le mode multiprocessus est activé</a>
 performance-limit-content-process-blocked-desc = Modifier le nombre de processus de contenu est possible uniquement avec la version multiprocessus de { -brand-short-name }. <a data-l10n-name="learn-more">Apprendre à vérifier si le mode multiprocessus est activé</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Marque-page…
     .accesskey = m
-restore-default =
-    .label = Restaurer la configuration par défaut
-    .accesskey = R
 
 ## Search Section
 
@@ -703,6 +681,12 @@ permissions-block-autoplay-media =
 permissions-block-autoplay-media-exceptions =
     .label = Exceptions…
     .accesskey = x
+autoplay-option-ask =
+    .label = Toujours demander
+autoplay-option-allow =
+    .label = Autoriser la lecture automatique
+autoplay-option-block =
+    .label = Bloquer la lecture automatique
 permissions-block-popups =
     .label = Bloquer les fenêtres popup
     .accesskey = B
