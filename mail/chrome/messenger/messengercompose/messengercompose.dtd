@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Bidali mezua geroago">
 <!ENTITY quoteButton.tooltip "Aipatu aurreko mezua">
 <!ENTITY addressButton.tooltip "Hautatu hartzaile bat helbide-liburuan">
-<!ENTITY attachButton.tooltip "Erantsi fitxategia">
 <!ENTITY attachButton.tooltip2 "Gehitu eranskina">
 <!ENTITY spellingButton.tooltip "Egiaztatu hautapenaren edo orri osoaren ortografia">
 <!ENTITY saveButton.tooltip "Gorde mezu hau">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "n">
-
 <!ENTITY attachmentBucketHeader.tooltip "Eranskinen panela">
 <!ENTITY attachmentBucketCloseButton.tooltip "Ezkutatu eranskinen panela">
 
@@ -360,6 +358,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Helbidetik pertsonalizatu…">
 <!ENTITY customizeFromAddress.accesskey "H">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Mezuaren gorputza">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Ortografia egiaztatzeko hizkuntza">
