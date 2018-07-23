@@ -33,15 +33,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureVersion "Wersija">
 <!ENTITY aboutSupport.featureId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "Eksperimentelne funkcije">
-<!ENTITY aboutSupport.experimentName "Mě">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Wopisanje">
-<!ENTITY aboutSupport.experimentActive "Aktiwny">
-<!ENTITY aboutSupport.experimentEndDate "Kóńcny datum">
-<!ENTITY aboutSupport.experimentHomepage "Startowy bok">
-<!ENTITY aboutSupport.experimentBranch "Wótnožka">
-
 <!ENTITY aboutSupport.appBasicsTitle "Zakłady nałoženja">
 <!ENTITY aboutSupport.appBasicsName "Mě">
 <!ENTITY aboutSupport.appBasicsVersion "Wersija">
@@ -78,7 +69,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.enterprisePolicies "Pśedewześowe pšawidła">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Kluc Google">
-<!ENTITY aboutSupport.appBasicsKeyMozilla "Kluc słužby póstajenja stojnišća Mozilla">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Kluc słužby póstajenja městna Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Wěsty modus">
 

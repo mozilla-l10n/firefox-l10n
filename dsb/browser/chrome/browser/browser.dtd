@@ -228,7 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Sedłowe informacije se woglědaś">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Wobcerk powěsćow wócyniś">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Wobcerk stojnišćowego napšašowanja wócyniś">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Wobcerk městnowego napšašowanja wócyniś">
 <!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Wobcerk za awtomatiske wótgraśe wócyniś">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Wobcerk powěźeńki dodankoweje instalacije wócyniś">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Pšawo za ekstrahěrowanje canvas zastojaś">
@@ -253,7 +253,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.cameraBlocked.tooltip            "Sćo swóju kameru za toś to websedło zablokěrował.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Sćo swój mikrofon za toś to websedło zablokěrował.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Sćo toś tomu websedłoju źělenje swójeje wobrazowki zakazał.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Sćo toś tomu websedłoju informacijie wó stojnišću zawoborał.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Sćo toś tomu websedłoju informacijie wó městnje zawoborał.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Sćo powěźeńki za toś to websedło zablokěrował.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Sćo trajny składowak za toś to websedło blokěrował.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Sćo wuskokujuce wokna za toś to websedło blokěrował.">
