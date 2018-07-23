@@ -6,7 +6,7 @@
 <!ENTITY  window.width                  "49em">
 <!ENTITY  window.macWidth               "44em">
 
-<!ENTITY  proxyTitle.label              "Proksy za pśistup na internet konfigěrurowaś">
+<!ENTITY  proxyTitle.label              "Proksy za pśistup k internetoju konfigěrurowaś">
 <!ENTITY  noProxyTypeRadio.label        "Žeden proksy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Systemowe nastajenja proksy wužywaś">
