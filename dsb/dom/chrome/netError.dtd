@@ -19,7 +19,7 @@
 <!ENTITY fileNotFound.title "Dataja njejo se namakała">
 <!ENTITY fileNotFound.longDesc "<ul><li>Jo móžno, až objekt jo se pśemjenił, wótpórał abo pśesunuł?</li><li>Jo zmólka pšawopisa, wjelikopisanja, abo hynakša typografiska zmólka w adresy?</li><li>Maśo dosěgajuce pśistupne pšawa za pominany objekt?</li></ul>">
 
-<!ENTITY fileAccessDenied.title "Pśistup na dataju jo se wótpokazał">
+<!ENTITY fileAccessDenied.title "Pśistup k dataji jo se wótpokazał">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Snaź jo se wótpórała, pśesunuła, abo datajowe pšawa zajźuju pśistupoju.</li></ul>">
 
 <!ENTITY generic.title "Napšašowanje njedajo se dokóńcyś">

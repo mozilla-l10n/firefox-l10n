@@ -24,19 +24,19 @@
 <!ENTITY dnsNotFound.longDesc1 "<strong>Jolic ta adresa jo korektna, móžośo:</strong><ul>
   <li>Pózdźej hyšći raz wopytaś.</li>
   <li>Seśowy zwisk pśeglědowaś.</li>
-  <li>Jolic sćo zwězany, sćo pak za wognjoweju murju, pśeglědajśo, lěc &brandShortName; ma pšawo na pśistup na web.</li></ul>">
+  <li>Jolic sćo zwězany, sćo pak za wognjoweju murju, pśeglědajśo, lěc &brandShortName; ma pšawo na pśistup k weboju.</li></ul>">
 
 <!ENTITY fileNotFound.title "Dataja njejo se namakała">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Pśeglědajśo datajowe mě za wjelikopisańskimi abo hynakšymi pisańskimi zmólkami.</li> <li>Pśespytajśo, lěć dataja jo se pśesunuła, pśemjeniła abo wótpórała.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Pśistup na dataju jo se wótpokazał">
+<!ENTITY fileAccessDenied.title "Pśistup k dataji jo se wótpokazał">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Snaź jo se wótpórała, pśesunuła, abo datajowe pšawa zajźuju pśistupoju.</li> </ul>">
 
 <!ENTITY generic.title "Hopla.">
 <!ENTITY generic.longDesc "<p>&brandShortName; njamóžo toś ten bok někakeje pśicyny dla cytaś.</p>">
 
 <!ENTITY captivePortal.title "Se pla seśi pśizjawiś">
-<!ENTITY captivePortal.longDesc2 "<p>Musyśo se pla toś teje seśi pśizjawiś, nježli až móžośo pśistup na internet měś.</p>">
+<!ENTITY captivePortal.longDesc2 "<p>Musyśo se pla toś teje seśi pśizjawiś, nježli až móžośo pśistup k internetoju měś.</p>">
 
 <!ENTITY openPortalLoginPage.label2 "Pśizjawjeński bok seśi wócyniś">
 

@@ -260,7 +260,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Sćo zablokěrował awtomatiske wótgraśe medijow ze zukom za toś to websedło.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Sćo blokěrował pśistup ku canvasowym datam za toś to websedło.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Sćo toś tomu websedłoju wužywanje tykaca Adobe Flash zawoborał.">
-<!ENTITY urlbar.midiBlocked.tooltip              "Sćo blokěrował pśistup na MIDI za toś to websedło.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Sćo blokěrował pśistup k MIDI za toś to websedło.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Historiju pokazaś">
 
@@ -1059,7 +1059,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Rozšyrjenje znjemóžniś">
 <!ENTITY homepageControlled.disableButton.accesskey "R">
 
-<!ENTITY tabHideControlled.header.message "Pśistup na waše schowane rejtarki">
+<!ENTITY tabHideControlled.header.message "Pśistup k wašym schowanym rejtarkam">
 <!ENTITY tabHideControlled.keepButton.label "Rejtarki schowane wobchowaś">
 <!ENTITY tabHideControlled.keepButton.accesskey "R">
 <!ENTITY tabHideControlled.disableButton.label "Rozšyrjenje znjemóžniś">
