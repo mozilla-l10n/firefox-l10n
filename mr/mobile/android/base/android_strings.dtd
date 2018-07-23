@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "क्रॅश रिपोर्टर">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; स्थान सेवा">
 <!ENTITY datareporting_wifi_geolocation_summary4 "जगाचा नकाशा करण्यात &vendorShortName; ला मदत करा! आमची जिओलोकेशन सेवा सुधारण्यासाठी आपल्या वाय-फाय आणि सेल्युलरची अंदाजे ठिकाण शेअर करा.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; स्थान सेवा चालू आहे">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +893,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "मुख्य पृष्ठाला जोडा">
 <!ENTITY pwa_continue_to_website "संकेतस्थळावर चला">
 <!ENTITY pwa_onboarding_sumo "त्वरित पाहण्यासाठी आपल्या मुख्य पृष्ठावर हे संकेतस्थळ सहजरित्या जोडू शकता व जलद ब्राउझ करून अॅप सारखा अनुभव मिळवू शकता.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "चालवा">
+<!ENTITY pip_play_button_description "परत चालवा">
+<!ENTITY pip_pause_button_title "थांबवा">
+<!ENTITY pip_pause_button_description "चालवणे थांबवा">
