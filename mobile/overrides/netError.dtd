@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Zmólka pśi cytanju boka">
 <!ENTITY retry.label "Hyšći raz wopytaś">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Zwisk njejo móžny">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -24,7 +24,7 @@
 <!ENTITY fileNotFound.title "Dataja njejo se namakała">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Pśeglědajśo datajowe mě za wjelikopisańskimi abo hynakšymi pisańskimi zmólkami.</li> <li>Pśeglědajśo, lěc dataja jo se pśesunuła, pśemjeniła abo wótpórała.</li> </ul>">
 
-<!ENTITY fileAccessDenied.title "Pśistup na dataju jo se wótpokazał">
+<!ENTITY fileAccessDenied.title "Pśistup k dataji jo se wótpokazał">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Snaź jo se wótpórała, pśesunuła, abo datajowe pšawa zajźuju pśistupoju.</li> </ul>">
 
 <!ENTITY generic.title "Hopla.">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "Wěsty zwisk njejo móžny">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>To by mógło problem z konfiguraciju serwera byś, abo by mógło byś, až něchten wopytujo serwer imitěrowaś.</li> <li>Jolic sćo ze serwerom w zachadnosći wuspěšnje zwězany był, by mógła zmólka snaź nachylna byś a móžośo pózdźej hyšći raz wopytaś.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Sedło njestoj snaź nachylu k dispoziciji abo jo pśeśězone. Wopytajśo za mało wokognuśow hyšći raz.</li> <li>Jolic njamóžośo boki zacytaś, pśeglědajśo datowy abo WLAN-zwisk wašogo mobilnego rěda. <button id='wifi'>WLAN zmóžniś</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Pśez wěstotne pšawidła za wopśimjeśe blokěrowany">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Abo móžośo wuwześe pśidaś…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Cu how wen!">
 <!ENTITY securityOverride.exceptionButtonLabel "Wuwześe pśidaś…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Wy njeby měł wuwześe pśidaś, jolic wužywaśo internetny zwisk, kótaremuž cele njedowěriśo abo jolic njewiźiśo warnowanje za toś ten serwer.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
