@@ -359,6 +359,9 @@
 <!ENTITY customizeFromAddress.label "Anpassa från adress…">
 <!ENTITY customizeFromAddress.accesskey "A">
 
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Meddelandetext">
+
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Stavningsspråk">
 <!ENTITY encodingStatusPanel.tooltip "Textkodning">
