@@ -10,7 +10,7 @@
 <!ENTITY firstrun_privacy_subtext "Priwatny modus ze slědowańskim šćitom blokěrujo pśeslědowaki, mjaztym až pśeglědujośo a njespomnjejo se wašu historiju, gaž wěcej njepśeglědujośo.">
 <!ENTITY firstrun_panel_title_customize "Pśiměriś">
 <!ENTITY firstrun_customize_message "Cyńśo &brandShortName; k swójomu.">
-<!ENTITY firstrun_customize_subtext "Pśiměrśo &brandShortName; z dodankami. Blokěrujśo wabjenje, pśidajśo funkcije abo wubjeŕśo nowu drastwu, aby swóju wósobinu wótbłyšćował.">
+<!ENTITY firstrun_customize_subtext "Pśiměŕśo &brandShortName; z dodankami. Blokěrujśo wabjenje, pśidajśo funkcije abo wubjeŕśo nowu drastwu, aby swóju wósobinu wótbłyšćował.">
 <!ENTITY firstrun_bookmarks_title "Historija">
 <!ENTITY firstrun_bookmarks_message "Waše fawority, na prědnjejšom fronśe">
 <!ENTITY firstrun_bookmarks_subtext "Wobstarajśe se wuslědki z wašych cytańskich znamjenjow a historije, gaž pytaśo.">
@@ -224,7 +224,7 @@
 <!ENTITY pref_manage_logins "Pśizjawjenja zastojaś">
 
 <!ENTITY pref_category_home "Startowy bok">
-<!ENTITY pref_category_home_summary "Pśiměrśo swój startowy bok">
+<!ENTITY pref_category_home_summary "Pśiměŕśo swój startowy bok">
 <!ENTITY pref_category_home_panels "Póla">
 <!ENTITY pref_category_home_add_ons "Dodanki">
 <!ENTITY pref_home_updates2 "Aktualizacije wopśimjeśa">
