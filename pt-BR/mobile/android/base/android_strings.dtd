@@ -262,9 +262,9 @@
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Habilitado">
-<!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluindo os de terceiros">
-<!ENTITY pref_cookies_disabled "Desabilitado">
+<!ENTITY pref_cookies_accept_all "Ativados">
+<!ENTITY pref_cookies_not_accept_foreign "Ativados, exceto de terceiros">
+<!ENTITY pref_cookies_disabled "Desativados">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -285,9 +285,9 @@
 <!ENTITY pref_donottrack_title "Não rastrear">
 <!ENTITY pref_donottrack_summary "O &brandShortName; dirá aos sites que não quer ser rastreado">
 
-<!ENTITY pref_tracking_protection_enabled "Habilitado">
-<!ENTITY pref_tracking_protection_enabled_pb "Habilitado na navegação privativa">
-<!ENTITY pref_tracking_protection_disabled "Desabilitado">
+<!ENTITY pref_tracking_protection_enabled "Ativada">
+<!ENTITY pref_tracking_protection_enabled_pb "Ativada na navegação privativa">
+<!ENTITY pref_tracking_protection_disabled "Desativada">
 
 <!ENTITY pref_whats_new_notification "O que há de novo no &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Saber mais sobre as novas funcionalidades depois de uma atualização">
@@ -332,7 +332,7 @@
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "Ative \&quot;Sobrepor outros apps\&quot;">
-<!ENTITY tab_queue_prompt_positive_action_button "Habilitar">
+<!ENTITY tab_queue_prompt_positive_action_button "Ativar">
 <!ENTITY tab_queue_prompt_negative_action_button "Agora não">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
@@ -372,7 +372,7 @@
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Controlar a reprodução de vídeos e outras mídias automaticamente">
-<!ENTITY pref_zoom_force_enabled "Sempre habilitar o zoom">
+<!ENTITY pref_zoom_force_enabled "Sempre ativar o zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forçar a ativação do zoom em qualquer página">
 <!ENTITY pref_voice_input "Comandos de voz">
 <!ENTITY pref_voice_input_summary2 "Permitir ditado de voz na barra de endereços">
@@ -446,7 +446,7 @@
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Relator de travamentos">
 <!ENTITY datareporting_wifi_title2 "Serviço de localização da &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Ajuda a &vendorShortName; a mapear o mundo! Compartilha a localização aproximada da rede sem fios e móvel do seu dispositivo para melhorar o nosso serviço de geolocalização.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Ajude a &vendorShortName; a mapear o mundo! Compartilhe o local aproximado da rede sem fios e móvel do seu dispositivo para melhorar nosso serviço de geolocalização.">
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
@@ -683,7 +683,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Proteção contra rastreamento">
-<!ENTITY doorhanger_tracking_state_enabled "Habilitado">
+<!ENTITY doorhanger_tracking_state_enabled "Ativado">
 <!ENTITY doorhanger_tracking_state_disabled "Desabilitado">
 <!ENTITY doorhanger_tracking_message_enabled1 "As tentativas de rastrear o seu comportamento on-line foram bloqueadas.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Esta página contem elementos que podem rastrear sua navegação.">
