@@ -31,28 +31,35 @@
 <!ENTITY safeb.blocked.malwarePage.learnMore "Virus və ziyanverici proqramlar kimi zərərli web məzmunlar və kompüterinizi necə qoruyacağınız haqqında <a id='learn_more_link'>StopBadware.org</a> ünvanında öyrənin. &brandShortName; səyyahının Ovlama və Zərərli Proqramlardan Qoruması haqqında <a id='firefox_support'>support.mozilla.org</a> saytında ətraflı öyrənin.">
 
 
-<!ENTITY safeb.blocked.unwantedPage.title2 "Bu saytda ziyanlı proqramlar ola bilər">
+<!ENTITY safeb.blocked.unwantedPage.title2 "Bu saytda zərərli proqramlar ola bilər">
 <!ENTITY safeb.blocked.unwantedPage.shortDesc2 "Bu səhifə sizi səyahətinizə mane ola biləcək (məsələn, ana səhifənizi dəyişəcək və ya saytlarda sizə əlavə proqramlar göstərəcək) proqramları qurmaq üçün aldada bilər deyə &brandShortName; səhifəni blokladı.">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.override "<span id='unwanted_sitename'/> saytında <a id='error_desc_link'>zərərli proqram olması xəbər edilib</a>. <a id='ignore_warning_link'>Təhlükəni görməməzdən gəl</a>ə və sayta daxil ola bilərsiz.">
 
+<!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> saytında <a id='error_desc_link'>zərərli proqram olması xəbər edilib</a>.">
 
 <!ENTITY safeb.blocked.unwantedPage.learnMore "Zərərli və istənməyən proqramlar haqqında <a id='learn_more_link'>İstənməyən Proqramlar Siyasəti</a>ndə öyrənə bilərsiz. &brandShortName; səyyahının Ovlama və Zərərli Proqramlardan Qoruması haqqında <a id='firefox_support'>support.mozilla.org</a> saytında ətraflı öyrənin.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Aldadıcı sayt">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "&brandShortName; bu səhifəni əngəllədi çünki, bu sizi proqram qurma və ya parol və kredit kartı kimi şəxsi məlumatları paylaşmaq kimi təhlükəli şeylər etməyə aldada bilər.">
 
 <!-- Localization note (safeb.blocked.phishingPage.errorDesc.override, safeb.blocked.phishingPage.errorDesc.noOverride, safeb.blocked.phishingPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.phishingPage.errorDesc.override "<span id='phishing_sitename'/> <a id='error_desc_link'>aldadıcı sayt olaraq xəbər edilib</a>. <a id='report_detection'>Aşkarlama xətası bildir</a>ə və ya <a id='ignore_warning_link'>təhlükəni görməməzdən gəl</a>ib sayta daxil ola bilərsiz.">
 
+<!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> <a id='error_desc_link'>aldadıcı sayt olaraq xəbər edilib</a>. <a id='report_detection'>Aşkarlama xətası bildir</a>ə bilərsiz.">
 
 <!ENTITY safeb.blocked.phishingPage.learnMore "Aldadıcı saytlar və ovlama haqqında <a id='learn_more_link'>www.antiphishing.org</a> ünvanında öyrənə bilərsiz. &brandShortName; səyyahının Ovlama və Zərərli Proqramlardan Qoruması haqqında <a id='firefox_support'>support.mozilla.org</a> saytında ətraflı öyrənin.">
 
 
-<!ENTITY safeb.blocked.harmfulPage.title "Bu saytda təhlükəli proqramlar ola bilər">
+<!ENTITY safeb.blocked.harmfulPage.title "Bu saytda zərərverici proqramlar ola bilər">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc2 "Bu səhifə məlumatlarınızı (məsələn: şəkillər, parollar, mesajlar və kredit kartları) oğurlayacaq və ya siləcək təhlükəli tətbiqlər quraşdıra bilər deyə &brandShortName; səhifəni blokladı.">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> saytında <a id='error_desc_link'>potensial zərər verici tətbiqlər olduğu xəbər verilib</a>. <a id='ignore_warning_link'>Təhlükəni görməməzdən gəl</a>ə və sayta daxil ola bilərsiz.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> saytında <a id='error_desc_link'>potensial zərər verici tətbiqlər olduğu xəbər verilib</a>.">
 
 <!ENTITY safeb.blocked.harmfulPage.learnMore "&brandShortName; səyyahının Ovlama və Zərərli Proqramlardan Qoruması haqqında <a id='firefox_support'>support.mozilla.org</a> saytında ətraflı öyrənin.">
