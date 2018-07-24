@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Send meldingen senere">
 <!ENTITY quoteButton.tooltip "Siter forrige melding">
 <!ENTITY addressButton.tooltip "Velg mottaker fra en adressebok">
-<!ENTITY attachButton.tooltip "Ta med vedlegg">
 <!ENTITY attachButton.tooltip2 "Legg til et vedlegg">
 <!ENTITY spellingButton.tooltip "Kontroller staving av merket tekst eller hele meldingen">
 <!ENTITY saveButton.tooltip "Lagre meldingen">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "d">
-
 <!ENTITY attachmentBucketHeader.tooltip "Vedleggspanel">
 <!ENTITY attachmentBucketCloseButton.tooltip "Skjul vedleggspanelet">
 
@@ -360,6 +358,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Tilpass fra-adressen …">
 <!ENTITY customizeFromAddress.accesskey "T">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Meldingstekst">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Stavekontrollspråk">
