@@ -951,16 +951,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingProtection.tooltip "ખોલો ટ્રેકિંગ પ્રોટેક્શન પસંદગીઓ">
+<!ENTITY trackingProtection.notDetected5 "આ પૃષ્ઠ પર કોઈ ટ્રેકિંગ તત્વો મળ્યાં નથી.">
+<!ENTITY trackingProtection.notDetectedException "આ પૃષ્ઠ પર કોઈ ટ્રેકિંગ તત્વો મળ્યાં નથી. તમે આ સાઇટ માટે રક્ષણ અક્ષમ કર્યું છે.">
 
+<!ENTITY trackingProtection.reloadRequired2 "તમે ટ્રેકિંગ પ્રોટેક્શનને સક્ષમ કર્યું છે. તમામ ટ્રેકર્સને અવરોધિત કરવા માટે આ પૃષ્ઠ ફરીથી લોડ કરો.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "આ સાઇટ માટે અક્ષમ કરો">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "આ સત્ર માટે અક્ષમ કરો">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "આ સાઇટ માટે સક્ષમ">
 <!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.reload2.label "પૃષ્ઠ ફરીથી લોડ કરો">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "બધુ બતાવો">
@@ -1047,6 +1054,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "એક્સ્ટેંશન અક્ષમ કરો">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "તમારી હિડન ટૅબ્સ ઍક્સેસ કરો">
+<!ENTITY tabHideControlled.keepButton.label "ટેબ્સને છુપાવો રાખો">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
 <!ENTITY tabHideControlled.disableButton.label "એક્સ્ટેંશન અક્ષમ કરો">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
