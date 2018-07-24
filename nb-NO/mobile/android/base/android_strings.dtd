@@ -278,7 +278,7 @@
 <!ENTITY pref_tap_to_load_images_data "Bare med Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Blokkert">
 
-<!ENTITY pref_show_web_fonts "Vis web-fonter">
+<!ENTITY pref_show_web_fonts "Vis skrifttyper fra nettet">
 <!ENTITY pref_show_web_fonts_summary2 "Last ned eksterne skrifter når en side blir lastet inn">
 
 <!ENTITY pref_tracking_protection_title2 "Sporingsbeskyttelse">
@@ -372,12 +372,12 @@
 
 <!ENTITY pref_media_autoplay_enabled "Tillat autoavspilling">
 <!ENTITY pref_media_autoplay_enabled_summary "Velg om nettsider kan automatisk spille av videoer og annet medieinnhold">
-<!ENTITY pref_zoom_force_enabled "Alltid slå på zoom">
-<!ENTITY pref_zoom_force_enabled_summary "Tving overstyring slik at du kan zoome på alle sider">
-<!ENTITY pref_voice_input "Stemmeinput">
+<!ENTITY pref_zoom_force_enabled "Alltid slå på forstørring">
+<!ENTITY pref_zoom_force_enabled_summary "Tving overstyring, så du kan forstørre enhver side">
+<!ENTITY pref_voice_input "Stemmeinndata">
 <!ENTITY pref_voice_input_summary2 "Tillat talediktering i URL-linjen">
 <!ENTITY pref_qrcode_enabled "QR-kodeleser">
-<!ENTITY pref_qrcode_enabled_summary2 "Tillat QR-scanner i URL-linjen">
+<!ENTITY pref_qrcode_enabled_summary2 "Tillat QR-skanneren i URL-linjen">
 
 <!ENTITY pref_use_master_password "Bruk et hovedpassord">
 <!ENTITY pref_sync_default_title "Firefox-konto">
@@ -437,7 +437,7 @@
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "&brandShortName; Helserapport">
+<!ENTITY datareporting_fhr_title "&brandShortName;-helserapport">
 <!ENTITY datareporting_fhr_summary2 "Deler info med &vendorShortName; om nettleserens helse, og hjelper deg å forstå ytelsen til nettleseren">
 <!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "Sender info om ytelse, bruksmønster, maskinvare og tilpasninger i nettleseren til &vendorShortName;, for å hjelpe oss gjøre &brandShortName; bedre">
@@ -445,8 +445,13 @@
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Krasjrapportering">
-<!ENTITY datareporting_wifi_title2 "&vendorShortName; stedstjeneste">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName;-stedstjeneste">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Hjelp &vendorShortName; med å kartlegge verden! Del den omtrentlige Wi-Fi- og mobilnettposisjon til enheten din for å forbedre vår geolokasjonstjeneste.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; stedstjeneste kjører">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -791,7 +796,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-<!ENTITY devtools_auth_scan_header "Scanner etter QR-koden som vises på den andre enheten">
+<!ENTITY devtools_auth_scan_header "Skanner etter QR-koden som vises på den andre enheten">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
@@ -888,3 +893,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Legg til på startskjermen">
 <!ENTITY pwa_continue_to_website "Fortsett til nettstedet">
 <!ENTITY pwa_onboarding_sumo "Du kan enkelt legge til dette nettstedet på startskjermen for å få øyeblikkelig tilgang og surfe raskere med en app-lignende opplevelse.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Spill av">
+<!ENTITY pip_play_button_description "Fortsett avspilling">
+<!ENTITY pip_pause_button_title "Pause">
+<!ENTITY pip_pause_button_description "Pause avspilling">
