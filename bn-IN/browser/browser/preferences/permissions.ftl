@@ -79,6 +79,9 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = কোন ওয়েব-সাইটগুলিকে সফ্টওয়্যার ইনস্টল করার অনুমতি প্রদান করা হবে আপনি তা উল্লেখ করতে পারেন। সাইটের সঠিক ঠিকানা লিখে অনুমতি প্রদান করুন ক্লিক করুন।
 
+## Exceptions - Autoplay Media
+
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -90,6 +93,7 @@ permissions-site-notification-window =
 permissions-site-location-window =
     .title = সেটিংস - অবস্থান অনুমতি
     .style = { permissions-window.style }
+permissions-site-location-disable-desc = এটি আপনার অবস্থান অ্যাক্সেস করার জন্য অনুমতি অনুরোধ থেকে উপরে তালিকাভুক্ত নয়  যেকোন ওয়েবসাইটকে প্রতিরোধ করবে। আপনার অবস্থান অ্যাক্সেস ব্লক কিছু ওয়েবসাইট বৈশিষ্ট্য বিরত হতে পারে।
 
 ## Site Permissions - Camera
 
