@@ -5,13 +5,19 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = कुकीज आणि साईट माहिती व्यवस्थापित करा 
 site-data-search-textbox =
     .placeholder = वेबसाईट शोधा
     .accesskey = S
 site-data-column-host =
     .label = साइट
+site-data-column-cookies =
+    .label = कुकीज
 site-data-column-storage =
     .label = स्टोरेज
+site-data-column-last-used =
+    .label = शेवटचे वापरलेले
 site-data-remove-selected =
     .label = निवडलेले काढून टाका
     .accesskey = R
@@ -39,3 +45,6 @@ site-data-removing-window =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = काढून टाका
+site-data-removing-header = कुकीज आणि साईट माहिती काढून टाकत आहे 
+site-data-removing-desc = कुकीज आणि साईट माहिती काढून टाकल्याने आपण संकेतस्थळावरून लॉग आऊट होऊ शकता. आपणास खात्रीने बदल करायचे आहेत?
+site-data-removing-table = खालील संकेतस्थळावरून कुकीज आणि साईट माहिती काढण्यात येईल
