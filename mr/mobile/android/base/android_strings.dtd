@@ -102,7 +102,7 @@
 <!ENTITY bookmark_folder_items "&formatD; घटक">
 <!ENTITY bookmark_folder_one_item "1 घटक">
 <!ENTITY bookmark_folder_updated "फोल्डर अद्ययावत झाले आहे">
-<!ENTITY bookmark_parent_folder "पॅरेंट फोल्डर">
+<!ENTITY bookmark_parent_folder "मुळ संचयिका">
 <!ENTITY bookmark_add_folder "नवीन फोल्डर जोडा">
 
 <!ENTITY reader_saved_offline "ऑफलाईन साठविलेले">
