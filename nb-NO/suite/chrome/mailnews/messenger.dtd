@@ -248,7 +248,7 @@
 <!ENTITY nextMsgCmd.label "Melding">
 <!ENTITY nextMsgCmd.accesskey "M">
 <!ENTITY nextMsgCmd.key "f">
-<!ENTITY nextUnreadMsgCmd.label "Uleste melding">
+<!ENTITY nextUnreadMsgCmd.label "Ulest melding">
 <!ENTITY nextUnreadMsgCmd.accesskey "U">
 <!ENTITY nextUnreadMsgCmd.key "n">
 <!ENTITY nextFlaggedMsgCmd.label "Flagget melding">
@@ -261,7 +261,7 @@
 <!ENTITY prevMsgCmd.label "Melding">
 <!ENTITY prevMsgCmd.accesskey "M">
 <!ENTITY prevMsgCmd.key "b">
-<!ENTITY prevUnreadMsgCmd.label "Uleste melding">
+<!ENTITY prevUnreadMsgCmd.label "Ulest melding">
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goBackCmd.label "Tilbake">
