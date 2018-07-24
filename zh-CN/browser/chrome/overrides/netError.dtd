@@ -135,7 +135,7 @@ was trying to connect. -->
 <!ENTITY remoteXUL.title "远程 XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>建议向此网站的管理员反馈这个问题。</li></ul></p>">
 
-<!ENTITY sslv3Used.title "无法安全地进行连接">
+<!ENTITY sslv3Used.title "无法安全地连接">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "高级信息: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -147,7 +147,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>您的系统时间似乎不正确，因此 &brandShortName; 无法与 <span id='wrongSystemTimeWithoutReference_URL'/> 建立安全连接。</p> <p>您的计算机时间目前被设置为 <span id='wrongSystemTimeWithoutReference_systemDate'/>。请更正您的日期和时间设置来修复此问题。</p>">
 
 <!ENTITY certerror.pagetitle1  "不安全的连接">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此网站采用了 HTTP 严格传输安全（HSTS）机制，要求 &brandShortName; 只能与其建立安全连接。正因如此，您也不能将此证书加入例外列表。">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此网站采用了 HTTP 严格传输安全（HSTS）机制，要求 &brandShortName; 只能与其建立安全连接，也因此不能将此证书加入例外列表。">
 <!ENTITY certerror.copyToClipboard.label "复制文本到剪贴板">
 
 <!ENTITY inadequateSecurityError.title "您的连接不安全">
