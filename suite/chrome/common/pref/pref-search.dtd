@@ -8,7 +8,7 @@
 
 <!ENTITY pref.search.title                "Internett-søk">
 <!ENTITY legendHeader                     "Standard søkemotor">
-<!ENTITY defaultSearchEngine.label        "Søk med">
+<!ENTITY defaultSearchEngine.label        "Søk med:">
 <!ENTITY defaultSearchEngine.accesskey    "S">
 
 <!ENTITY engineManager.label              "Behandle søkemotorer …">
