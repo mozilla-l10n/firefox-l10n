@@ -19,11 +19,9 @@
 <!-- reload app -->
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
 <!-- zoom -->
 
 <!ENTITY projectPanel_tabs "Vərəqlər">
-<!ENTITY runtimePanel_installsimulator "Simulyator Quraşdır">
 
 <!-- Lense -->
 <!ENTITY details_warning_header "xəbərdarlıqlar">
@@ -41,7 +39,6 @@
 
 <!-- Prefs -->
 <!ENTITY prefs_general_title "Ümumi">
-<!ENTITY prefs_options_keybindings_default "Standart">
 
 <!-- Runtime Details -->
 
@@ -53,13 +50,11 @@
 
 <!-- Device Settings -->
 
-<!-- Monitor -->
-<!ENTITY monitor_help "Kömək">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+<!ENTITY wifi_auth_header "Müştəri identifikasiyası">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
@@ -70,7 +65,3 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
-
-<!-- Simulator Options -->
-<!ENTITY simulator_version "Buraxılış">
-<!ENTITY simulator_hardware "Avadanlıq">
