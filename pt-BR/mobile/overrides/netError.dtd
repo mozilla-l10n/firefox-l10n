@@ -20,15 +20,15 @@
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "<ul> 
-<li>Verificar se o endereço tem erros de digitação, como 
-<strong>ww</strong>.example.com em vez de 
-<strong>www</strong>.example.com</li> 
+<li>Verifique se o endereço tem erros de digitação, como 
+<strong>ww</strong>.examplo.com em vez de 
+<strong>www</strong>.examplo.com</li> 
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
-<button id='searchbutton'>Pesquisa</button> 
+<button id='searchbutton'>Pesquisar</button> 
 </div> 
-<li>Se não for possível carregar nenhuma página, verifique a conexão Wi-Fi. 
-<button id='wifi'>Habilitar Wi-Fi</button> 
+<li>Se não for possível carregar nenhuma página, verifique a conexão Wi-Fi ou de dados. 
+<button id='wifi'>Ativar Wi-Fi</button> 
 </li> 
 </ul>">
 
