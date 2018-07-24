@@ -21,19 +21,17 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "आवृत्ती">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "सुरक्षा सॉफ्टवेअर">
+<!ENTITY aboutSupport.securitySoftwareType "प्रकार">
+<!ENTITY aboutSupport.securitySoftwareName "नाव">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "विषाणूरोधक">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "हेरगिरीविरोधक">
+<!ENTITY aboutSupport.securitySoftwareFirewall "फायरवॉल">
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; गुणविशेष">
 <!ENTITY aboutSupport.featureName "नाव">
 <!ENTITY aboutSupport.featureVersion "आवृत्ती">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "प्रयोगिक गुणविशेष">
-<!ENTITY aboutSupport.experimentName "नाव">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "वर्णन">
-<!ENTITY aboutSupport.experimentActive "सक्रिय">
-<!ENTITY aboutSupport.experimentEndDate "समाप्ति दिनांक">
-<!ENTITY aboutSupport.experimentHomepage "मुख्यपृष्ठ">
-<!ENTITY aboutSupport.experimentBranch "शाखा">
 
 <!ENTITY aboutSupport.appBasicsTitle "ॲप्लिकेशनचे मुळ">
 <!ENTITY aboutSupport.appBasicsName "नाव">
@@ -67,6 +65,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "मल्टिप्रोसेस पटल">
 
 <!ENTITY aboutSupport.appBasicsProcessCount "वेब मजकूर प्रक्रिया">
+
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google की">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla स्थान सेवा की">
@@ -151,3 +150,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "माध्यम">
 <!ENTITY aboutSupport.mediaDeviceRate "दर">
 <!ENTITY aboutSupport.mediaDeviceLatency "विलंब">
+
+<!ENTITY aboutSupport.intlTitle "आंतरराष्ट्रीयकरण &amp; स्थानिकीकरण">
+<!ENTITY aboutSupport.intlAppTitle "अनुप्रयोग सेटिंग्ज">
+<!ENTITY aboutSupport.intlLocalesRequested "विनंती केलेले लोकेल">
+<!ENTITY aboutSupport.intlLocalesAvailable "उपलब्ध लोकेल">
+<!ENTITY aboutSupport.intlLocalesSupported "अँप लोकेल">
+<!ENTITY aboutSupport.intlLocalesDefault "पूर्वनिर्धारित लोकॅल">
+<!ENTITY aboutSupport.intlOSTitle "ऑपरेटिंग प्रणाली">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "सिस्टम लोकॅल">
+<!ENTITY aboutSupport.intlRegionalPrefs "प्रादेशिक प्राधान्यता">
