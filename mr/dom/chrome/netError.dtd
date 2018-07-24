@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "पृष्ठ दाखल करतेवेळी त्रूटी">
 <!ENTITY retry.label "पुन्ही प्रयत्न करा">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "संपर्क साधण्यास असमर्थता">
 <!ENTITY connectionFailure.longDesc "<p>जरी स्थळ वैध असले, तरी ब्राउजर जोडणी यशस्वीरित्या करू शकला नाही.</p><ul><li>स्थळ तातपुरते अनुपलब्ध असू शकते का? पुन्हा प्रयत्न करा.</li><li>आपल्याला इतर स्थळ ब्राउज करतेवेळी अडथळा येतो का?  संगणकाची नेटवर्क जोडणी तपासा.</li><li>आपले संगणक किंवा नेटवर्क फायरवॉल किंवा प्रॉक्सी संरक्षित आहे का? चूकीच्या सेटींग्स वेब ब्राउझींगमध्ये व्यत्यय आणू शकतात.</li></ul>">
@@ -86,3 +86,5 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरत आहे. आक्रमणकर्ता सहजपणे आपण सुरक्षित समजत असलेली माहिती मिळवू शकतो. वेबसाइट प्रशासकाने सर्व्हर निर्दोष केल्यावरच आपण साइटला भेट देऊ शकता. </p><p>त्रुटी कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "अवरोधित पृष्ठ">

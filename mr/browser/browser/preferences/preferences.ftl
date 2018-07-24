@@ -693,6 +693,9 @@ collection-browser-errors =
     .label = { -brand-short-name } ला { -vendor-short-name } यास ब्राऊजरच्या चुकांचा अहवाल(चुकीचे संदेश धरून) पाठवण्यास परवानगी द्या
     .accesskey = b
 collection-browser-errors-link = आणखी जाणा
+collection-backlogged-crash-reports =
+    .label = आपल्यावतीने { -brand-short-name } ला बॅकलॉग क्रॅश अहवाल पाठवण्याची परवानगी दया 
+    .accesskey = c
 collection-backlogged-crash-reports-link = आणखी जाणा
 
 ## Privacy Section - Security
