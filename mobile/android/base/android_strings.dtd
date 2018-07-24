@@ -349,7 +349,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Para \&quot;Abrir vários links\&quot;, favor habilitar a permissão \&quot;Sobrepor outros apps\&quot; para o &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Para \&quot;Abrir vários links\&quot;, ative a permissão \&apos;Sobrepor outros apps\&apos; para o &brandShortName;">
 
 <!ENTITY pref_char_encoding "Codificação">
 <!ENTITY pref_char_encoding_on "Mostrar menu">
@@ -414,7 +414,7 @@
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Favoritos recentes">
 <!ENTITY pref_dialog_activitystream_visited "Visitados">
 
-<!ENTITY pref_search_last_toast "Não é possível remover ou desabilitar o único mecanismo de pesquisa que restou.">
+<!ENTITY pref_search_last_toast "Não é possível remover ou desativar o único mecanismo de pesquisa que restou.">
 
 <!ENTITY pref_panels_show "Mostrar">
 <!ENTITY pref_panels_hide "Ocultar">
@@ -684,14 +684,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Proteção contra rastreamento">
 <!ENTITY doorhanger_tracking_state_enabled "Ativado">
-<!ENTITY doorhanger_tracking_state_disabled "Desabilitado">
+<!ENTITY doorhanger_tracking_state_disabled "Desativado">
 <!ENTITY doorhanger_tracking_message_enabled1 "As tentativas de rastrear o seu comportamento on-line foram bloqueadas.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Esta página contem elementos que podem rastrear sua navegação.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Saiba mais">
-<!ENTITY enable_protection "Habilitar proteção">
-<!ENTITY disable_protection "Desabilitar proteção">
+<!ENTITY enable_protection "Ativar proteção">
+<!ENTITY disable_protection "Desativar proteção">
 
 <!ENTITY private_data_success "Dados privativos limpos">
 <!ENTITY private_data_fail "Alguns dados privativos não puderam ser limpos">
@@ -703,7 +703,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                            do Android">
 <!ENTITY bookmarkhistory_import_history "Importando histórico
                                          do Android">
-<!ENTITY bookmarkhistory_import_wait "Por favor, aguarde...">
+<!ENTITY bookmarkhistory_import_wait "Aguarde...">
 
 <!ENTITY suggestions_prompt3 "Deseja ativar as sugestões de pesquisa?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -805,7 +805,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Extensões">
-<!ENTITY restrictable_feature_addons_installation_description "Adiciona recursos ou funcionalidades ao Firefox. Nota: Extensões podem desabilitar certas restrições.">
+<!ENTITY restrictable_feature_addons_installation_description "Adiciona recursos ou funcionalidades ao Firefox. Nota: Extensões podem desativar certas restrições.">
 <!ENTITY restrictable_feature_private_browsing "Navegação privativa">
 <!ENTITY restrictable_feature_private_browsing_description "Permitir que os membros da família naveguem sem salvar informações sobre os sites e páginas visitados.">
 <!ENTITY restrictable_feature_clear_history "Limpar histórico">
