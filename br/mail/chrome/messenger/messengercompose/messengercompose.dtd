@@ -359,6 +359,9 @@
 <!ENTITY customizeFromAddress.label "Personelaat ar chomlec'h 'A-berzh'...">
 <!ENTITY customizeFromAddress.accesskey "P">
 
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Korf ar gemennadenn">
+
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Yezh an difazier">
 <!ENTITY encodingStatusPanel.tooltip "Bonegadur an arouezioù">
