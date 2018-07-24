@@ -88,7 +88,7 @@ permissions-exceptions-addons-desc = Vous pouvez indiquer les sites web autoris�
 permissions-exceptions-autoplay-media-window =
     .title = Sites autorisés - Lecture automatique
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Il vous est possible de préciser quels sites web vous autorisez à lire automatiquement les éléments multimédia. Saisissez l’adresse exacte du site que vous souhaitez autoriser puis cliquez sur Autoriser.
+permissions-exceptions-autoplay-media-desc = Il vous est possible de préciser quels sites web vous autorisez à lire automatiquement du contenu multimédia. Saisissez l’adresse exacte du site que vous souhaitez autoriser puis cliquez sur Autoriser.
 
 ## Site Permissions - Notifications
 
