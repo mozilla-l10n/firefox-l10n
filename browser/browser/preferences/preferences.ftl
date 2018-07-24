@@ -678,6 +678,7 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Blòcca in aotomatico i sciti che fan sunâ in aotomatico i media.
     .accesskey = B
+permissions-block-autoplay-media-menu = Pe i scite che fan a riproduçion aotomatica di soin
 permissions-block-autoplay-media-exceptions =
     .label = Eceçioin…
     .accesskey = E
