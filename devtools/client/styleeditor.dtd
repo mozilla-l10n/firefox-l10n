@@ -11,10 +11,14 @@
      on web development on the web. -->
 
 <!ENTITY newButton.label            "Yeni">
+<!ENTITY newButton.tooltip          "Sənədə yeni stil örtüyü yarat və birləşdir">
+<!ENTITY newButton.accesskey        "N">
 
 <!ENTITY importButton.label         "İdxal et…">
+<!ENTITY importButton.tooltip       "Sənədə mövcud stil örtüyünü idxal et və birləşdir">
 <!ENTITY importButton.accesskey     "a">
 
+<!ENTITY visibilityToggle.tooltip   "Stil örtüyü görünməsini çevir">
 
 <!ENTITY saveButton.label           "Saxla">
 <!ENTITY saveButton.tooltip         "Bu stil səhifəsini bir fayla saxla">
@@ -24,9 +28,11 @@
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
+<!ENTITY showOriginalSources.label     "Orijinal mənbələri göstər">
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
      the menu item to toggle showing original sources in the editor. -->
+<!ENTITY showOriginalSources.accesskey  "o">
 
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->

@@ -6,7 +6,7 @@
 
 <!ENTITY errFile.label   "Qaynaq fayl:">
 <!ENTITY errLine.label   "Satır:">
-<!ENTITY errColumn.label "Sutun:">
+<!ENTITY errColumn.label "Sütun:">
 
 <!ENTITY all.label          "Hepsi">
 <!ENTITY all.accesskey      "H">
