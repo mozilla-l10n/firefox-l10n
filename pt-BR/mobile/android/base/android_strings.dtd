@@ -624,7 +624,7 @@
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-<!ENTITY home_default_empty "Não foi possível encontrar conteúdo para este painel.">
+<!ENTITY home_default_empty "Nenhum conteúdo foi encontrado para este painel.">
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
@@ -648,7 +648,7 @@
 <!ENTITY home_unpinned_site "Site desafixado">
 
 <!ENTITY remote_tabs_panel_moved_title "Onde estão as minhas abas?">
-<!ENTITY remote_tabs_panel_moved_desc "Movemos as suas abas de outros dispositivos para um painel na sua página inicial que pode ser facilmente acessado ​​toda vez que abrir uma nova aba.">
+<!ENTITY remote_tabs_panel_moved_desc "Movemos suas abas de outros dispositivos para um painel na sua página inicial, que pode ser facilmente acessada ​​toda vez que abrir uma nova aba.">
 <!ENTITY remote_tabs_panel_moved_link "Leve-me para o meu novo painel.">
 
 <!ENTITY pin_site_dialog_hint "Digitar uma palavra-chave de pesquisa">
