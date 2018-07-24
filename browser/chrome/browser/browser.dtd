@@ -257,7 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Vous avez empêché ce site d’envoyer des notifications.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Vous avez empêché ce site d’utiliser le stockage persistant.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Vous avez bloqué des popups pour ce site web.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Vous avez empêché ce site de lire automatiquement des éléments multimédia avec du son.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Vous avez empêché ce site de lire automatiquement du contenu multimédia comportant du son.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Vous avez empêché ce site d’extraire des informations de canvas.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Vous avez empêché ce site d’utiliser le plugin Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Vous avez bloqué l’accès MIDI pour ce site web.">
