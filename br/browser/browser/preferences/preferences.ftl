@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = N'eo ket { -brand-short-name } ho merdeer dre ziouer
 set-as-my-default-browser =
     .label = Lakaat dre ziouer…
     .accesskey = L
-startup-page = Pa loc'h { -brand-short-name }
-    .accesskey = P
-startup-user-homepage =
-    .label = Diskouez ma fennbajennad
-startup-blank-page =
-    .label = Diskouez ur bajenn wenn
-startup-prev-session =
-    .label = Diskouez ma frenestroù hag ivinelloù evel ar wech diwezhañ
 startup-restore-previous-session =
     .label = Assav an estez kent
     .accesskey = A
 disable-extension =
     .label = Diweredekaat an askouezh
-home-page-header = Pennbajenn
 tabs-group-header = Ivinelloù
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab evit mont d'an ivinell implijet da ziwezhañ
@@ -279,7 +262,6 @@ play-drm-content =
 play-drm-content-learn-more = Gouzout hiroc'h
 update-application-title = Hizivadurioù evit { -brand-short-name } :
 update-application-description = Derc'hel { -brand-short-name } hizivaet evit an digonusted, stabilded ha diogelroez gwellañ.
-update-application-info = Handelv { $version } <a>Petra nevez</a>
 update-application-version = Handelv { $version } <a data-l10n-name="learn-more">Petra nevez</a>
 update-history =
     .label = Diskouez roll istor an hizivadurioù…
@@ -315,7 +297,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Bevenn endalc'had an araezad
     .accesskey = A
 performance-limit-content-process-enabled-desc = Endalc'had araezad ouzhpenn a c'hall gwellaat an digonusted gent meur a ivinell, met arverañ a raio muioc'h a vemor.
-performance-limit-content-process-disabled-desc = Evit kemmañ an niver a araezad endalc'had eo ret ober gant { -brand-short-name }. <a>Deskit penaos gwiriekaat statud al lies araezad</a>
 performance-limit-content-process-blocked-desc = Evit kemmañ an niver a araezad endalc'had eo ret ober gant { -brand-short-name }. <a data-l10n-name="learn-more">Deskit penaos gwiriekaat statud al lies araezad</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -386,9 +367,6 @@ use-current-pages =
 choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
-restore-default =
-    .label = Assav an arventennoù dre ziouer
-    .accesskey = z
 
 ## Search Section
 
@@ -709,9 +687,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Difenn al lec'hiennoù da lenn ar media gant son ent emgefreek
     .accesskey = D
+permissions-block-autoplay-media-menu = Evit al lec'hiennoù a lenn ar son ent emgefreek
 permissions-block-autoplay-media-exceptions =
     .label = Nemedennoù...
     .accesskey = N
+autoplay-option-ask =
+    .label = Goulenn bewech
+autoplay-option-allow =
+    .label = Aotren al lenn emgefreek
+autoplay-option-block =
+    .label = Stankañ al lenn emgefreek
 permissions-block-popups =
     .label = Herzel an diflugelloù
     .accesskey = H
