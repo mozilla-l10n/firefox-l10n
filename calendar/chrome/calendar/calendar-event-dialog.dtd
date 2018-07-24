@@ -417,6 +417,8 @@
 <!ENTITY summary.dialog.saveclose.label         "Kaydet ve kapat">
 <!ENTITY summary.dialog.accept.label            "Kabul et">
 <!ENTITY summary.dialog.accept.tooltiptext      "Daveti kabul et">
+<!ENTITY summary.dialog.tentative.label         "Kesin değil">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Daveti kesin olmadan kabul et">
 <!ENTITY summary.dialog.decline.label           "Reddet">
 <!ENTITY summary.dialog.decline.tooltiptext     "Daveti reddet">
 <!ENTITY summary.dialog.dontsend.label          "Yanıt gönderme">
