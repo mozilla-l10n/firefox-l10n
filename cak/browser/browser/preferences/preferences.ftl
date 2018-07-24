@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } man ja ta ri awokik'amaya'l kan k'o wi
 set-as-my-default-browser =
     .label = Tib'an chi K'o wi…
     .accesskey = K
-startup-page = Toq { -brand-short-name } tatikirisaj
-    .accesskey = t
-startup-user-homepage =
-    .label = Tik'ut pe ri tikirib'äl ruxaq ruk'amaya'l
-startup-blank-page =
-    .label = Tik'ut pe jun kowöl ruxaq
-startup-prev-session =
-    .label = Kek'ut ri taq rutzuwäch chuqa' taq ruwi' ruk'isib'äl rumolojri'ïl
 startup-restore-previous-session =
     .label = Titzolin pa ri molojri'ïl xik'o
     .accesskey = m
 disable-extension =
     .label = Tichup ri K'amal
-home-page-header = Tikirib'äl ruxaq
 tabs-group-header = Taq ruwi'
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab mejaj pa taq ruwi' pa k'ak'a' kokisaxik kicholajem
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Tetamäx ch'aqa' chik
 update-application-title = { -brand-short-name } Taq k'exoj ruwäch
 update-application-description = Junelïk tik'ex ri { -brand-short-name } richin ütz nisamäj, jikïl, chuqa' jikon.
-update-application-info = Ruwäch { $version } <a>Achike natzijoj</a>
 update-application-version = Ruwäch { $version } <a data-l10n-name="learn-more">Achike natzijoj</a>
 update-history =
     .label = Tik'ut pe ri runatab'al K'exoj ruwäch…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = ruchi' rutajinik rupam
     .accesskey = r
 performance-limit-content-process-enabled-desc = Ri taq ruxenab'al rutz'aqat rupam yetikïr nikutzilaj rub'eyal nisamäj toq nrokisaj k'ïy taq ruwi', xa chuqa' xtrokisaj k'ïy rutzatzq'ob'al.
-performance-limit-content-process-disabled-desc = Ri rujalwachinik rajilab'al rutajinik rupam xa okel rik'in ri k'ïy tajinïk { -brand-short-name }. <a>Tawetamaj nanik'oj we tzijïl ri k'ïy tajinïk</a>
 performance-limit-content-process-blocked-desc = Ri rujalwachinik rajilab'al rutajinik rupam xa okel rik'in ri k'ïy tajinïk { -brand-short-name }. <a data-l10n-name="learn-more">Tawetamaj nanik'oj we tzijïl ri k'ïy tajinïk</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Tokisäx yaketal…
     .accesskey = y
-restore-default =
-    .label = Titzolïx ruwäch ri rajil achi'el ruk'amon pe
-    .accesskey = T
 
 ## Search Section
 
@@ -700,9 +678,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Keq'at ajk'amaya'l taq ruxaq richin man kerutzïj ruyonil taq tob'äl k'o kik'oxom
     .accesskey = q
+permissions-block-autoplay-media-menu = Kichin taq ajk'amaya'l ruxaq pa kiyonil nikitzïj taq k'oxom
 permissions-block-autoplay-media-exceptions =
     .label = Taq man relik ta…
     .accesskey = E
+autoplay-option-ask =
+    .label = Jutaqil Tik'utüx
+autoplay-option-allow =
+    .label = Tiya' q'ij Ri Ruyon Nitzij
+autoplay-option-block =
+    .label = Tiq'at Ri Ruyon Nitzij
 permissions-block-popups =
     .label = Keq'at elenel taq tzuwäch
     .accesskey = K
