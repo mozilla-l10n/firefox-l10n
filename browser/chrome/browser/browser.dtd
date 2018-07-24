@@ -257,6 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "તમે આ વેબસાઇટ માટે સૂચનાઓ અવરોધિત કર્યા છે.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "તમે આ વેબસાઇટ માટે સતત સંગ્રહ અવરોધિત કર્યા છે.">
 <!ENTITY urlbar.popupBlocked.tooltip             "તમે આ વેબસાઇટ માટે પોપ-અપ્સને અવરોધિત કર્યા છે.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "તમે આ વેબસાઇટ માટે અવાજ સાથે ઑટોપ્લે મીડિયા અવરોધિત કર્યા છે.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "તમે આ વેબસાઇટ માટે કેનવાસ ડેટા નિષ્કર્ષણને અવરોધિત કર્યો છે.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "તમે Adobe Flash પ્લગઇનનો ઉપયોગ કરવાથી આ વેબસાઇટને અવરોધિત કરી છે.">
 <!ENTITY urlbar.midiBlocked.tooltip              "તમે આ વેબસાઇટ માટે MIDI ઍક્સેસને અવરોધિત કરી છે.">
@@ -454,6 +455,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "વધારે વસ્તુઓને ઉમેરો…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "ટૂલબાર સ્વતઃ-છુપાવો">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "એક્સ્ટેંશનનો વહીવટ કરો">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
@@ -951,6 +953,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingProtection.tooltip "ખોલો ટ્રેકિંગ પ્રોટેક્શન પસંદગીઓ">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; આ પૃષ્ઠનાં ભાગોને અવરોધિત કરી રહ્યું છે જે તમારી બ્રાઉઝિંગને ટ્રૅક કરી શકે છે.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; તમારા બ્રાઉઝિંગને ટ્રૅક કરી શકે તેવા ઘટકો શોધ્યા છે.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; શોધાયેલ તત્વો તમારા બ્રાઉઝિંગ ટ્રેક કરી શકો છો કે છે. તમે આ સાઇટ માટે અક્ષમ રક્ષણ છે.">
 <!ENTITY trackingProtection.notDetected5 "આ પૃષ્ઠ પર કોઈ ટ્રેકિંગ તત્વો મળ્યાં નથી.">
 <!ENTITY trackingProtection.notDetectedException "આ પૃષ્ઠ પર કોઈ ટ્રેકિંગ તત્વો મળ્યાં નથી. તમે આ સાઇટ માટે રક્ષણ અક્ષમ કર્યું છે.">
 
@@ -1055,7 +1060,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
 <!ENTITY tabHideControlled.header.message "તમારી હિડન ટૅબ્સ ઍક્સેસ કરો">
-<!ENTITY tabHideControlled.keepButton.label "ટેબ્સને છુપાવો રાખો">
+<!ENTITY tabHideControlled.keepButton.label "ટેબ્સને છુપાવીને રાખો">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
 <!ENTITY tabHideControlled.disableButton.label "એક્સ્ટેંશન અક્ષમ કરો">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
@@ -1072,6 +1077,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.shareUrl.label "વહેંચો">
 
+<!ENTITY pageAction.shareMore.label "વધુ…">
 
 <!ENTITY libraryButton.tooltip "ઇતિહાસ, સાચવેલા બુકમાર્ક્સ, અને વધુ જુઓ">
 
