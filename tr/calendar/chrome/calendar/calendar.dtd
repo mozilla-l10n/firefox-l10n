@@ -197,6 +197,7 @@
 
 <!ENTITY calendar.context.attendance.all.accepted.label         "Kabul edildi">
 <!ENTITY calendar.context.attendance.all.declined.label         "Reddedildi">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Devam ediyor">
 <!ENTITY calendar.context.attendance.all.completed.label        "Tamamlandı">
 
 <!-- Task Context Menu -->
