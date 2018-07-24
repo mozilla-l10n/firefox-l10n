@@ -160,7 +160,7 @@
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "Predefinição do sistema">
+<!ENTITY locale_system_default "Padrão do sistema">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
@@ -188,9 +188,9 @@
 <!ENTITY overlay_no_synced_devices "Nenhum dispositivo conectado à Conta Firefox">
 
 <!ENTITY pref_category_search3 "Pesquisa">
-<!ENTITY pref_category_search_summary2 "Adicionar, definir predefinição, mostrar sugestões">
+<!ENTITY pref_category_search_summary2 "Adicionar, definir padrão, mostrar sugestões">
 <!ENTITY pref_category_accessibility "Acessibilidade">
-<!ENTITY pref_category_accessibility_summary2 "Tamanho do texto, zoom, entrada de voz">
+<!ENTITY pref_category_accessibility_summary2 "Tamanho do texto, zoom, comandos de voz">
 <!ENTITY pref_category_privacy_short "Privacidade">
 <!ENTITY pref_category_privacy_summary4 "Rastreamento, contas de acesso, dados compartilhados">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -201,8 +201,8 @@
 <!ENTITY pref_category_installed_search_engines "Mecanismos de pesquisa instalados">
 <!ENTITY pref_category_add_search_providers "Adicionar mais mecanismos de pesquisa">
 <!ENTITY pref_category_search_restore_defaults "Restaurar mecanismos de pesquisa">
-<!ENTITY pref_search_restore_defaults "Restaurar predefinições">
-<!ENTITY pref_search_restore_defaults_summary "Restaurar predefinições">
+<!ENTITY pref_search_restore_defaults "Restaurar padrão">
+<!ENTITY pref_search_restore_defaults_summary "Restaurar padrão">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -368,14 +368,14 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "Usar o tamanho da fonte do sistema">
-<!ENTITY pref_use_system_font_size_summary "Escala conteúdo web de acordo com o tamanho da fonte do sistema">
+<!ENTITY pref_use_system_font_size_summary "Redimensionar o conteúdo de acordo com o tamanho da fonte do sistema">
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Controlar a reprodução de vídeos e outras mídias automaticamente">
 <!ENTITY pref_zoom_force_enabled "Sempre habilitar o zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forçar a ativação do zoom em qualquer página">
-<!ENTITY pref_voice_input "Entrada de voz">
-<!ENTITY pref_voice_input_summary2 "Permitir ditado de voz na barra de endereço">
+<!ENTITY pref_voice_input "Comandos de voz">
+<!ENTITY pref_voice_input_summary2 "Permitir ditado de voz na barra de endereços">
 <!ENTITY pref_qrcode_enabled "Leitor de código QR">
 <!ENTITY pref_qrcode_enabled_summary2 "Permitir scanner de códigos QR na barra de endereço">
 
@@ -407,7 +407,7 @@
 <!ENTITY pref_vendor_faqs "Perguntas frequentes">
 <!ENTITY pref_vendor_feedback "Enviar opinião">
 
-<!ENTITY pref_dialog_set_default "Definir como predefinição">
+<!ENTITY pref_dialog_set_default "Definir como padrão">
 <!ENTITY pref_dialog_default "Padrão">
 <!ENTITY pref_dialog_remove "Remover">
 <!ENTITY pref_dialog_activitystream_header_content "Conteúdo adicional">
@@ -476,8 +476,8 @@
 <!ENTITY save_as_pdf "Salvar como PDF">
 <!ENTITY print "Imprimir">
 <!ENTITY view_page_source "Ver código-fonte da página">
-<!ENTITY find_in_page "Localizar na página">
-<!ENTITY desktop_mode "Requisitar site para desktop">
+<!ENTITY find_in_page "Procurar na página">
+<!ENTITY desktop_mode "Versão do site para desktop">
 <!ENTITY page "Página">
 <!ENTITY tools "Ferramentas">
 <!ENTITY new_tab "Nova aba">
@@ -492,7 +492,7 @@
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY find_text "Localizar na página">
+<!ENTITY find_text "Procurar na página">
 <!ENTITY find_prev "Anterior">
 <!ENTITY find_next "Próximo">
 <!ENTITY find_close "Fechar">
