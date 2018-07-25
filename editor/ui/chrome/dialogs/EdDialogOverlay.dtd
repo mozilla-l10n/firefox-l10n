@@ -14,5 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip "გადასვლა ფარდობით და აბსოლუტურ მისამართს შორის. ამისათვის ჯერ გვერდი უნდა დაიმახსოვროთ.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField2.label "მიუთითეთ ვებგვერდის მისამართი, ლოკალური ფაილი, ან აირჩიეთ სახელობითი ღუზა ან თავსართი კონტექსტური მენიუდან:">
+<!ENTITY LinkURLEditField2.label "მიუთითეთ ვებგვერდის მისამართი, ლოკალური ფაილი ან აირჩიეთ სახელობითი ღუზა ან თავსართი კონტექსტური მენიუდან:">
 <!ENTITY LinkURLEditField2.accessKey "ვ">
