@@ -35,7 +35,14 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
+<!ENTITY performanceUI.table.totalDuration            "Ümumi Vaxt">
+<!ENTITY performanceUI.table.totalDuration.tooltip    "Bu funksiya üçün və bunun çağırdığı digər funksiyalara sərf edilmiş vaxt.">
+<!ENTITY performanceUI.table.selfDuration             "Öz Vaxtı">
+<!ENTITY performanceUI.table.selfDuration.tooltip     "Ancaq bu funksiya içində sərf edilmiş vaxt.">
+<!ENTITY performanceUI.table.totalPercentage          "Ümumi Maliyyət">
+<!ENTITY performanceUI.table.selfPercentage           "Öz Maliyyəti">
 <!ENTITY performanceUI.table.samples                  "Nümunələr">
+<!ENTITY performanceUI.table.function                 "Funksiya">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
@@ -54,10 +61,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+<!ENTITY performanceUI.showPlatformData             "Gecko Platforma Məlumatlarını göstər">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
+<!ENTITY performanceUI.showJITOptimizations             "JIT optimallaşdırmaları göstər">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Hər bir JavaScript çərçivəsində ölçülən JIT optimallaşdırma məlumatlarını göstər.">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
@@ -66,6 +76,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableMemory             "Yaddaşı qeyd et">
+<!ENTITY performanceUI.enableMemory.tooltiptext "Profillərkən yaddaş istifadəsini qeydə al.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
@@ -84,3 +96,5 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
+<!ENTITY performanceUI.console.stopCommandStart "Konsola">
+<!ENTITY performanceUI.console.stopCommandEnd   "yazaraq qeydi dayandıra bilərsiz.">
