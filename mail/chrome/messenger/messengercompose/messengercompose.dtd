@@ -359,6 +359,9 @@
 <!ENTITY customizeFromAddress.label "Cyfaddasu Cyfeiriad Oddi Wrth…">
 <!ENTITY customizeFromAddress.accesskey "O">
 
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Corff neges">
+
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Iaith gwirio sillafu">
 <!ENTITY encodingStatusPanel.tooltip "Amgodiad testun">
