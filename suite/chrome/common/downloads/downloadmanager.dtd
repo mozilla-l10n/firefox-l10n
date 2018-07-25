@@ -80,7 +80,7 @@
 <!ENTITY cmd.remove.accesskey            "e">
 <!ENTITY cmd.open.label                  "გახსნა">
 <!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.show.label                  "ფაილის დასტის გახსნა">
+<!ENTITY cmd.show.label                  "შემცველი საქაღალდის გახსნა">
 <!ENTITY cmd.show.accesskey              "F">
 <!ENTITY cmd.goToDownloadPage.label      "გადასვლა ჩამოტვირთვის გვერდზე">
 <!ENTITY cmd.goToDownloadPage.accesskey  "G">
