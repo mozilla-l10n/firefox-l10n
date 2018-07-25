@@ -21,13 +21,13 @@
 <!ENTITY chat.ongoingConversation      "მიმდინარე საუბარი">
 
 <!ENTITY openConversationCmd.label     "საუბრის დაწყება">
-<!ENTITY openConversationCmd.accesskey "c">
+<!ENTITY openConversationCmd.accesskey "დ">
 <!ENTITY closeConversationCmd.label    "საუბრის შეწყვეტა">
-<!ENTITY closeConversationCmd.accesskey "C">
+<!ENTITY closeConversationCmd.accesskey "შ">
 <!ENTITY aliasCmd.label                "გადარქმევა">
-<!ENTITY aliasCmd.accesskey            "R">
+<!ENTITY aliasCmd.accesskey            "ქ">
 <!ENTITY deleteCmd.label               "კონტაქტის მოცილება">
-<!ENTITY deleteCmd.accesskey           "v">
+<!ENTITY deleteCmd.accesskey           "ც">
 
 <!ENTITY openConversationButton.tooltip  "საუბრის დაწყება">
 <!ENTITY closeConversationButton.tooltip "საუბრის შეწყვეტა">
@@ -40,5 +40,5 @@
 <!ENTITY status.unavailable        "მიუწვდომელია">
 <!ENTITY status.offline            "არაა ხაზზე">
 
-<!ENTITY openLinkCmd.label            "ბმის გახსნა…">
-<!ENTITY openLinkCmd.accesskey        "O">
+<!ENTITY openLinkCmd.label            "ბმულის გახსნა…">
+<!ENTITY openLinkCmd.accesskey        "გ">

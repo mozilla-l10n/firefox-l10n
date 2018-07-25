@@ -243,4 +243,4 @@ because displayed names don't have the comma in between. -->
 <!ENTITY minimizeWindow.label                           "მინიმიზება">
 <!ENTITY minimizeWindow.key                             "m">
 <!ENTITY bringAllToFront.label                          "წინა პლანზე გადმოტანა">
-<!ENTITY zoomWindow.label                               "მასშტაბი">
+<!ENTITY zoomWindow.label                               "ზომის ცვლილება">
