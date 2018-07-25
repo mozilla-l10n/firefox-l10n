@@ -10,45 +10,45 @@
 <!ENTITY pixelsPopup.value "პიქსელი">
 
 <!-- These are in the Location tab panel -->
-<!ENTITY locationEditField.label "ნახატის მისამართი:">
-<!ENTITY locationEditField.accessKey "L">
-<!ENTITY locationEditField.tooltip "მიუთითეთ ნახატის ფაილი ან მისამართი">
+<!ENTITY locationEditField.label "სურათის მისამართი:">
+<!ENTITY locationEditField.accessKey "მ">
+<!ENTITY locationEditField.tooltip "მიუთითეთ სურათის სახელი ან მისამართი">
 <!ENTITY locationEditField.shortenedDataURI "შემოკლებული URI მონაცემები (დაკოპირების შედეგად სრული URI ბუფერში)">
-<!ENTITY title.label "მინიშნბა:">
-<!ENTITY title.accessKey "T">
+<!ENTITY title.label "მინიშნება:">
+<!ENTITY title.accessKey "ნ">
 <!ENTITY title.tooltip "html 'title' ატრიბუტი, რომელიც მინიშნებას უჩვენებს">
-<!ENTITY altText.label "ალტერნატული ტექსტი:">
-<!ENTITY altText.accessKey "A">
+<!ENTITY altText.label "დართული ტექსტი:">
+<!ENTITY altText.accessKey "დ">
 <!ENTITY altTextEditField.tooltip "ნახატის ნაცვლად გამოსაჩენი ტექსტი">
-<!ENTITY noAltText.label "ალტერნატული ტექსტის გარეშე">
-<!ENTITY noAltText.accessKey "D">
+<!ENTITY noAltText.label "ტექსტის დართვის გარეშე">
+<!ENTITY noAltText.accessKey "გ">
 
-<!ENTITY previewBox.label "ნახატის ესკიზი">
+<!ENTITY previewBox.label "სურათის შეთვალიერება">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "საწყისი ზომა:">
 <!ENTITY actualSizeRadio.label "საწყისი ზომა">
-<!ENTITY actualSizeRadio.accessKey "A">
-<!ENTITY actualSizeRadio.tooltip "ნახატის საწყისი ზომის აღდგენა">
-<!ENTITY customSizeRadio.label "თქვენი ზომა">
-<!ENTITY customSizeRadio.accessKey "S">
-<!ENTITY customSizeRadio.tooltip "გვედზე ასახვისას ნახატის ზომის შეცვლა">
+<!ENTITY actualSizeRadio.accessKey "ს">
+<!ENTITY actualSizeRadio.tooltip "სურათის საწყისი ზომის აღდგენა">
+<!ENTITY customSizeRadio.label "მითითებული ზომა">
+<!ENTITY customSizeRadio.accessKey "თ">
+<!ENTITY customSizeRadio.tooltip "გვედზე ჩვენებისას სურათის ზომის შეცვლა">
 <!ENTITY heightEditField.label "სიმაღლე:">
-<!ENTITY heightEditField.accessKey "G">
+<!ENTITY heightEditField.accessKey "ღ">
 <!ENTITY widthEditField.label "სიგანე:">
-<!ENTITY widthEditField.accessKey "W">
-<!ENTITY constrainCheckbox.label "პროპორცია">
+<!ENTITY widthEditField.accessKey "გ">
+<!ENTITY constrainCheckbox.label "ფარდობა">
 <!ENTITY constrainCheckbox.accessKey "ო">
-<!ENTITY constrainCheckbox.tooltip "ნახატის პროპორციის შენარჩუნება">
+<!ENTITY constrainCheckbox.tooltip "სურათის გვერდების ფარდობის შენარჩუნება">
 
 <!-- These controls are in the Image Map box of the expanded area -->
-<!ENTITY imagemapBox.label "ნახატის მართვა">
+<!ENTITY imagemapBox.label "სურათის რუკა">
 <!ENTITY removeImageMapButton.label "მოცილება">
-<!ENTITY removeImageMapButton.accessKey "R">
+<!ENTITY removeImageMapButton.accessKey "ც">
 
 <!-- These are the options for image alignment -->
-<!ENTITY alignment.label "ტექსტის მიბმა ნახატზე">
+<!ENTITY alignment.label "ტექსტის გასწორება სურათის მიმართ">
 <!ENTITY bottomPopup.value "ქვემოდან">
 <!ENTITY topPopup.value "ზემოდან">
 <!ENTITY centerPopup.value "ცენტრში">
@@ -58,17 +58,17 @@
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "დაცილება">
 <!ENTITY leftRightEditField.label "მარცხნივ და მარჯვნივ :">
-<!ENTITY leftRightEditField.accessKey "L">
+<!ENTITY leftRightEditField.accessKey "ხ">
 <!ENTITY topBottomEditField.label "ზევით და ქვევით:">
-<!ENTITY topBottomEditField.accessKey "T">
+<!ENTITY topBottomEditField.accessKey "ზ">
 <!ENTITY borderEditField.label "სავსე ჩარჩო:">
-<!ENTITY borderEditField.accessKey "B">
+<!ENTITY borderEditField.accessKey "ჩ">
 
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label "ჩარჩოს ჩვენება ბმის ნახატისათვის">
-<!ENTITY showImageLinkBorder.accessKey "B">
-<!ENTITY LinkAdvancedEditButton.label "ბმის პარამეტრების რედაქცია…">
-<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY showImageLinkBorder.label "ჩარჩოს ჩვენება მიბმული სურათის გარშემო">
+<!ENTITY showImageLinkBorder.accessKey "ჩ">
+<!ENTITY LinkAdvancedEditButton.label "ბმულის ჩასწორება ვრცლად…">
+<!ENTITY LinkAdvancedEditButton.accessKey "ვ">
 <!ENTITY LinkAdvancedEditButton.tooltip "HTML ან სტილის ატრიბუტებისა და JavaScript-ის დამატება ან შეცვლა">
 
 <!-- These tabs are currently used in the image input dialog -->

@@ -7,9 +7,9 @@
 <!ENTITY windowTitle.label "სიმბოლოს ჩამატება">
 <!ENTITY category.label "კატეგორია">
 <!ENTITY letter.label "ასო-ნიშანი">
-<!ENTITY letter.accessKey "L">
+<!ENTITY letter.accessKey "ს">
 <!ENTITY character.label "სიმბოლო:">
-<!ENTITY character.accessKey "C">
+<!ENTITY character.accessKey "ბ">
 <!ENTITY accentUpper.label "მთავრული დიაკრიტიკით">
 <!ENTITY accentLower.label "მხედრული დიაკრიტიკით">
 <!ENTITY otherUpper.label "სხვა მთავრული">

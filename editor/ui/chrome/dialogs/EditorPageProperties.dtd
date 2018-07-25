@@ -5,13 +5,13 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "გვერდის პარამეტრები">
 <!ENTITY location.label "მისამართი:">
-<!ENTITY lastModified.label "ბოლო რედაქცია:">
+<!ENTITY lastModified.label "ბოლოს შესწორებული:">
 <!ENTITY titleInput.label "სათაური:">
-<!ENTITY titleInput.accessKey "T">
+<!ENTITY titleInput.accessKey "თ">
 <!ENTITY authorInput.label "ავტორი:">
-<!ENTITY authorInput.accessKey "A">
+<!ENTITY authorInput.accessKey "ა">
 <!ENTITY descriptionInput.label "აღწერილობა:">
-<!ENTITY descriptionInput.accessKey "D">
+<!ENTITY descriptionInput.accessKey "ღ">
 <!ENTITY locationNewPage.label "[ახალი გვერდი, ჯერ არ შენხულა]">
 <!ENTITY EditHEADSource1.label "გაფართოებული პარამეტრები:">
 <!ENTITY EditHEADSource2.label "&lt;თავსართის&gt; სხვა ნაწილების ჩასასწორებლად, გამოიყენეთ &quot;HTML პირველწყარო&quot; ხედის მენიუდან ან ჩასწორების ხელსაწყოთა ზოლი.">
