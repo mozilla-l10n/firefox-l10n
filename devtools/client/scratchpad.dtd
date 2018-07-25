@@ -27,9 +27,11 @@
 
 <!ENTITY newWindowCmd.label           "Yeni Pəncərə">
 <!ENTITY newWindowCmd.accesskey       "Y">
+<!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "Fayl Aç…">
 <!ENTITY openFileCmd.accesskey        "A">
+<!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.accesskey     "R">
 
@@ -37,11 +39,13 @@
 
 <!ENTITY saveFileCmd.label            "Dəyişiklikləri saxla">
 <!ENTITY saveFileCmd.accesskey        "D">
+<!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "Fərqli Saxla…">
 <!ENTITY saveFileAsCmd.accesskey      "a">
 
 <!ENTITY closeCmd.label               "Qapat">
+<!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "t">
 
 <!ENTITY viewMenu.label               "Görünüş">
@@ -54,24 +58,31 @@
 <!ENTITY highlightTrailingSpace.accesskey "H">
 
 <!ENTITY largerFont.accesskey         "a">
- <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey        "+">
+<!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
+<!ENTITY smallerFont.label            "Şrifti kiçilt">
 <!ENTITY smallerFont.accesskey        "M">
 <!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "Normal ölçü">
 <!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "Düzəlt">
 <!ENTITY editMenu.accesskey           "D">
 
 <!ENTITY run.accesskey                "R">
+<!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "Təftiş">
 <!ENTITY inspect.accesskey            "T">
+<!ENTITY inspect.key                  "i">
 
 <!ENTITY display.accesskey            "D">
+<!ENTITY display.key                  "l">
 
+<!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "P">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -110,9 +121,11 @@
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
+<!ENTITY resetContext2.label          "Dəyişkənləri sıfırla">
 <!ENTITY resetContext2.accesskey      "T">
 
 <!ENTITY reloadAndRun.accesskey       "E">
+<!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.accesskey        "X">
 
@@ -126,3 +139,4 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 <!ENTITY evalFunction.accesskey "v">
+<!ENTITY evalFunction.key "e">
