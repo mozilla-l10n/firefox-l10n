@@ -3,14 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
 
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Bağlantını kəs">
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_takeScreenshot_label "Ekran görüntüsü">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Cihaz Nizamlamaları">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "Görünüş">
+<!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_zoomin_label "Yaxınlaş">
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Uzaqlaş">
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -36,6 +57,7 @@
 <!ENTITY deck_close "Qapat">
 
 <!-- Addons -->
+<!ENTITY addons_aboutaddons "Əlavə İdarəçisini Aç">
 
 <!-- Prefs -->
 <!ENTITY prefs_general_title "Ümumi">
@@ -47,8 +69,10 @@
 <!ENTITY device_typeobject "Nesne">
 
 <!-- Device Preferences -->
+<!ENTITY devicepreference_addnew "Yeni nizamlama əlavə et">
 
 <!-- Device Settings -->
+<!ENTITY devicesetting_addnew "Yeni tənzimləmə əlavə et">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
