@@ -29,9 +29,9 @@
 <!ENTITY p150.label           "150&#037;">
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
-<!ENTITY Custom.label         "Şəxsiləşdir:">
+<!ENTITY Custom.label         "Fərdi…">
 <!ENTITY ShrinkToFit.label    "Səhifəyə görə nizamla">
-<!ENTITY customPrompt.title   "Böyüt / Kiçilt…">
+<!ENTITY customPrompt.title   "Fərdi Ölçü…">
 <!ENTITY simplifyPage.label   "Səhifəni Sadələşdir">
 <!ENTITY simplifyPage.accesskey "i">
 <!ENTITY simplifyPage.enabled.tooltip  "Rahar oxumaq üçün səhifə görünüşünü dəyişdirin">

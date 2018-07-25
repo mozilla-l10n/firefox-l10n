@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printSetup.title    "Səhifə nizamı">
 
@@ -60,7 +60,7 @@
 <!ENTITY hfPage              "#. səhifə">
 <!ENTITY hfPageAndTotal      "#/#. səhifə">
 <!ENTITY hfBlank             "--boş--">
-<!ENTITY hfCustom            "Şəxsiləşdir:">
+<!ENTITY hfCustom            "Fərdi…">
 
-<!ENTITY customPrompt.title  "Şəxsiləşdir:">
-<!ENTITY customPrompt.prompt "Şəxsi başlıq/haşiyə mətnini daxil edin">
+<!ENTITY customPrompt.title  "Fərdi…">
+<!ENTITY customPrompt.prompt "Fərdi başlıq/haşiyə mətnini daxil edin">

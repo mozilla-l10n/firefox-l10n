@@ -22,7 +22,7 @@
 <!ENTITY fileAccessDenied.title "Faylın işlədilməsinə icazə verilmədi">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Fayl silinmiş, yeri dəyişdirilmiş və ya icazə yetərsizliyi ola bilər.</li></ul>">
 
-<!ENTITY generic.title "İstək yerinə yetirilə bilmir">
+<!ENTITY generic.title "Sorğu Tamamlana Bilmir">
 <!ENTITY generic.longDesc "<p>Bu xəta və problem haqqında ətraflı məlumat mövcud deyil</p>">
 
 <!ENTITY malformedURI.title "Etibarsız ünvan">
