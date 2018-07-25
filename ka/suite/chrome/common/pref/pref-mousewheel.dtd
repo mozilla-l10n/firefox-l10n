@@ -23,7 +23,7 @@
 <!ENTITY history.label                   "ისტორიის ნუსხის წინ და უკან გადახვევა">
 <!ENTITY history.accesskey               "M">
 <!ENTITY historyHoriz.accesskey          "b">
-<!ENTITY zoom.label                      "გვერდის გაზრდა ან შემცირება">
+<!ENTITY zoom.label                      "გვერდის ზომის გაზრდა ან შემცირება">
 <!ENTITY zoom.accesskey                  "Z">
 <!ENTITY zoomHoriz.accesskey             "o">
 <!ENTITY wheelSpeed.label                "თაგუნას ბორბლის სიჩქარე:">
