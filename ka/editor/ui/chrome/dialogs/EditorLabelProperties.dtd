@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "იარლიყის პარამეტრები">
+<!ENTITY windowTitle.label "დადებული ნიშნის პარამეტრები">
 
 <!ENTITY Settings.label "პარამეტრები">
-<!ENTITY Settings.accesskey "S">
+<!ENTITY Settings.accesskey "პ">
 
-<!ENTITY EditLabelText.label "ტექსტის რედაქცია:">
-<!ENTITY EditLabelText.accesskey "T">
-<!ENTITY LabelFor.label "კონტროლი:">
-<!ENTITY LabelFor.accesskey "F">
-<!ENTITY AccessKey.label "კლავიში:">
-<!ENTITY AccessKey.accesskey "K">
+<!ENTITY EditLabelText.label "ტექსტის ჩასწორება:">
+<!ENTITY EditLabelText.accesskey "ტ">
+<!ENTITY LabelFor.label "შესამოწმებლად:">
+<!ENTITY LabelFor.accesskey "შ">
+<!ENTITY AccessKey.label "წვდომის ღილაკი:">
+<!ENTITY AccessKey.accesskey "კ">
 
-<!ENTITY RemoveLabel.label "იარლიყის მოცილება">
-<!ENTITY RemoveLabel.accesskey "R">
+<!ENTITY RemoveLabel.label "დადებული ნიშნის მოცილება">
+<!ENTITY RemoveLabel.accesskey "ც">

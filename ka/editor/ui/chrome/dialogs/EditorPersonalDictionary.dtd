@@ -6,15 +6,15 @@
 <!ENTITY windowTitle.label "პირადი ლექსიკონი">
 
 <!ENTITY wordEditField.label "ახალი სიტყვა:">
-<!ENTITY wordEditField.accessKey "N">
+<!ENTITY wordEditField.accessKey "ხ">
 <!ENTITY AddButton.label "დამატება">
-<!ENTITY AddButton.accessKey "A">
+<!ENTITY AddButton.accessKey "დ">
 <!ENTITY DictionaryList.label "სიტყვები ლექსიკონში:">
-<!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "შეცვლა">
-<!ENTITY ReplaceButton.accessKey "R">
+<!ENTITY DictionaryList.accessKey "ს">
+<!ENTITY ReplaceButton.label "ჩანაცვლება">
+<!ENTITY ReplaceButton.accessKey "ჩ">
 <!ENTITY RemoveButton.label "მოცილება">
-<!ENTITY RemoveButton.accessKey "e">
+<!ENTITY RemoveButton.accessKey "ც">
 
 <!ENTITY CloseButton.label "დახურვა">
-<!ENTITY CloseButton.accessKey "C">
+<!ENTITY CloseButton.accessKey "უ">

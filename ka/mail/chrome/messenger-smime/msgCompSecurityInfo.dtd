@@ -9,10 +9,10 @@
 <!ENTITY status.heading "თქვენი წერილის შინაარსი გადაიგზავნება შემდეგი სახით:">
 <!ENTITY status.signed "ციფრული ხელმოწერით:">
 <!ENTITY status.encrypted "დაშიფრული:">
-<!ENTITY status.certificates "სერთიფიკატები:">
+<!ENTITY status.certificates "სერტიფიკატები:">
 <!ENTITY view.label "ჩვენება">
-<!ENTITY view.accesskey "V">
+<!ENTITY view.accesskey "ვ">
 <!ENTITY tree.recipient "მიმღები">
-<!ENTITY tree.status "სტატუსი:">
+<!ENTITY tree.status "მდგომარეობა:">
 <!ENTITY tree.issuedDate "გამოცემული:">
 <!ENTITY tree.expiresDate "ვადა:">
