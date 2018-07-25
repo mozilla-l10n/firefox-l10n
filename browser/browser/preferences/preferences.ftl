@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } yw eich porwr rhagosodedig cyfredol
 set-as-my-default-browser =
     .label = Gwneud yn Ragosodedig…
     .accesskey = R
-startup-page = Pan fydd { -brand-short-name } yn cychwyn:
-    .accesskey = c
-startup-user-homepage =
-    .label = Dangos fy nhudalen cartref
-startup-blank-page =
-    .label = Dangos tudalen wag
-startup-prev-session =
-    .label = Dangos fy ffenestri a'm tabiau o'r tro diwethaf
 startup-restore-previous-session =
     .label = Adfer sesiwn flaenorol
     .accesskey = A
 disable-extension =
     .label = Analluogi Estyniad
-home-page-header = Tudalen cartref
 tabs-group-header = Tabiau
 ctrl-tab-recently-used-order =
     .label = Mae Ctrl+Tab yn cylchdroi drwy dabiau yn y drefn y'u defnyddiwyd yn ddiweddar
@@ -282,7 +265,6 @@ play-drm-content =
 play-drm-content-learn-more = Dysgu rhagor
 update-application-title = Diweddariadau { -brand-short-name }
 update-application-description = Cadw { -brand-short-name } yn gyfredol ar gyfer y perfformiad, sefydlogrwydd a diogelwch gorau.
-update-application-info = Fersiwn { $version } <a>Beth sy'n newydd</a>
 update-application-version = Fersiwn { $version } <a data-l10n-name="learn-more">Beth sy'n newydd</a>
 update-history =
     .label = Dangos Hanes Diweddaru…
@@ -318,7 +300,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Terfyn proses cynnwys
     .accesskey = T
 performance-limit-content-process-enabled-desc = Mae rhagor o brosesau cynnwys yn gallu gwella perfformiad pan yn defnyddio tabiau lluosog, ond fydd hefyd yn defnyddio mwy o gof.
-performance-limit-content-process-disabled-desc = Dim ond yn y fersiwn amlbroses o { -brand-short-name } y mae newid y nifer o brosesau cynnwys yn bosib. <a>Dysgwch sut i weld os yw aml-brosesu wedi ei alluogi</a>
 performance-limit-content-process-blocked-desc = Dim ond yn y fersiwn amlbroses o { -brand-short-name } y mae newid y nifer o brosesau cynnwys yn bosib. <a data-l10n-name="learn-more">Dysgwch sut i weld os yw aml-brosesu wedi ei alluogi</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -389,9 +370,6 @@ use-current-pages =
 choose-bookmark =
     .label = Defnyddio Nod Tudalen…
     .accesskey = N
-restore-default =
-    .label = Adfer i'r Rhagosodedig
-    .accesskey = R
 
 ## Search Section
 
@@ -712,9 +690,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Rhwystro gwefannau rhag chwarae cyfrwng gyda sain yn awtomatig 
     .accesskey = R
+permissions-block-autoplay-media-menu = Ar gyfer gwefannau sy'n chwarae sain yn awtomatig
 permissions-block-autoplay-media-exceptions =
     .label = Eithriadau...
     .accesskey = E
+autoplay-option-ask =
+    .label = Gofyn bob Tro
+autoplay-option-allow =
+    .label = Caniatáu Awto Chwarae
+autoplay-option-block =
+    .label = Rhwystro Awto Chwarae
 permissions-block-popups =
     .label = Rhwystro ffenestri llamlen
     .accesskey = R
