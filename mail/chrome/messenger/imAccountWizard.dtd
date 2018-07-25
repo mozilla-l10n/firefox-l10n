@@ -17,7 +17,7 @@
 <!ENTITY accountPasswordField.label   "პაროლი:">
 <!ENTITY accountPasswordManager.label "თქვენს მითითებულ პაროლს პაროლიების მმართველი შეინახავს. დატოვეთ ცარიელი, თუ გსურთ პაროლი ყოველ ჯერზე შეიტანოთ ამ ანგარიშით შესვლისას.">
 
-<!ENTITY accountAdvancedTitle.label   "დეტალური პარამეტრები">
+<!ENTITY accountAdvancedTitle.label   "გაფართოებული პარამეტრები">
 <!ENTITY accountAdvancedInfo.label    "სურვილისამებრ, შეგიძლიათ ამ ნაბიჯის გამოტოვება.">
 <!ENTITY accountAdvanced.newMailNotification.label   "შეტყობინება ელფოსტით">
 <!ENTITY accountAliasGroupbox.caption "ლოკალური ფსევდონიმი">
@@ -25,7 +25,7 @@
 <!ENTITY accountAliasInfo.label       "იგი მხოლოდ თქვენთვის აისახება, გარე კონტაქტები მას ვერ დაინახავენ.">
 <!ENTITY accountProxySettings.caption "პროქსის პარამეტრები">
 <!ENTITY accountProxySettings.change.label     "შეცვლა…">
-<!ENTITY accountProxySettings.change.accessKey "C">
+<!ENTITY accountProxySettings.change.accessKey "ც">
 
 <!ENTITY accountSummaryTitle.label   "შეჯამება">
 <!ENTITY accountSummaryInfo.label    "თქვენი მითითებული მონაცემების შეჯამება. გთხოვთ ყურადღებით გადახედოთ ანგარიშის შექმნამდე.">

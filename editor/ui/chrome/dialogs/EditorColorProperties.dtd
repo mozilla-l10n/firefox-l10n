@@ -13,17 +13,17 @@
 <!ENTITY customColorsRadio.tooltip "ფერების ეს პალიტრა ბროუზერის პალიტრას ჩაანაცვლებს">
 
 <!ENTITY normalText.label "ძირითადი ტექსტი">
-<!ENTITY normalText.accessKey "N">
-<!ENTITY linkText.label "ბმის ტექსტი">
-<!ENTITY linkText.accessKey "L">
-<!ENTITY activeLinkText.label "აქტიური ბმის ტექსტი">
-<!ENTITY activeLinkText.accessKey "A">
-<!ENTITY visitedLinkText.label "გამოყენებული ბმის ტექსტ">
-<!ENTITY visitedLinkText.accessKey "V">
+<!ENTITY normalText.accessKey "ძ">
+<!ENTITY linkText.label "ბმულის ტექსტი">
+<!ENTITY linkText.accessKey "ბ">
+<!ENTITY activeLinkText.label "მოქმედი ბმულის ტექსტი">
+<!ENTITY activeLinkText.accessKey "მ">
+<!ENTITY visitedLinkText.label "მონახულებული ბმულის ტექსტი">
+<!ENTITY visitedLinkText.accessKey "ო">
 <!ENTITY background.label "ფონი:">
-<!ENTITY background.accessKey "B">
+<!ENTITY background.accessKey "ფ">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "ფონის ნახატი:">
-<!ENTITY backgroundImage.accessKey "m">
-<!ENTITY backgroundImage.tooltip "ნახატის ფაილის თქვენი გვერდის ფონად გამოყენება">
+<!ENTITY backgroundImage.label "ფონის სურათი:">
+<!ENTITY backgroundImage.accessKey "უ">
+<!ENTITY backgroundImage.tooltip "სურათის ფაილის თქვენი გვერდის ფონად გამოყენება">
 <!ENTITY backgroundImage.shortenedDataURI "შემოკლებული URI მონაცემები (დაკოპირების შედეგად სრული URI ბუფერში)">
