@@ -863,8 +863,8 @@ autoplay-option-ask =
     .label = Altijd vragen
 autoplay-option-allow =
     .label = Automatisch afspelen toestaan
-autoplay-option-block =
-    .label = Automatisch afspelen blokkeren
+autoplay-option-dont =
+    .label = Niet automatisch afspelen
 
 permissions-block-popups =
     .label = Pop-upvensters blokkeren
