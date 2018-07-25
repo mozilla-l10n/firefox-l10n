@@ -11,6 +11,7 @@
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "Proyekti Sil">
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
@@ -48,6 +49,7 @@
 <!ENTITY details_warning_header "xəbərdarlıqlar">
 <!ENTITY details_description "Açıqlama">
 <!ENTITY details_location "Ünvan">
+<!ENTITY details_removeProject_button "Proyekti Sil">
 
 <!-- New App -->
 
