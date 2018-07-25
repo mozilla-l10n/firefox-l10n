@@ -222,6 +222,9 @@
 <!ENTITY addons.commandkey "A">
 <!ENTITY webDeveloperMenu.label "Sviluppo web">
 <!ENTITY webDeveloperMenu.accesskey "v">
+<!ENTITY devtoolsRecordExecution.label "Registra esecuzione">
+<!ENTITY devtoolsSaveRecording.label "Salva registrazione">
+<!ENTITY devtoolsReplayExecution.label "Riproduci esecuzione">
 <!ENTITY inspectContextMenu.label "Analizza elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
 <!ENTITY inspectA11YContextMenu.label "Analizza proprietà accessibilità">
