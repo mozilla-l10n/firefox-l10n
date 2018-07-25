@@ -93,6 +93,8 @@ permissions-exceptions-autoplay-media-window =
 permissions-site-notification-window =
     .title = అమరికలు - గమనింపుల అనుమతులు
     .style = { permissions-window.style }
+permissions-site-notification-disable-label =
+    .label = గమనింపులను అనుమతించమని అడిగే అభ్యర్థనలను నిరోధించు
 
 ## Site Permissions - Location
 

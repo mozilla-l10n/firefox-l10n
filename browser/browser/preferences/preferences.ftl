@@ -233,6 +233,10 @@ applications-type-column =
 applications-action-column =
     .label = చర్య
     .accesskey = A
+drm-content-header = డిజిటల్ హక్కుల నిర్వహణ (DRM) విషయం
+play-drm-content =
+    .label = DRM-నియంత్రిత విషయాన్ని ఆడించు
+    .accesskey = P
 play-drm-content-learn-more = ఇంకా తెలుసుకోండి
 update-application-title = { -brand-short-name } తాజాకరణలు
 update-application-version = సంచిక { $version } <a data-l10n-name="learn-more">కొత్తవి ఏమిటి</a>
