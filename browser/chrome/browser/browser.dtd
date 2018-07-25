@@ -356,7 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Hamısını Seç">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "H">
-<!ENTITY preferencesCmd2.label       "Seçənəklər">
+<!ENTITY preferencesCmd2.label       "Seçimlər">
 <!ENTITY preferencesCmd2.accesskey     "S">
 <!ENTITY preferencesCmdUnix.label       "Seçimlər">
 <!ENTITY preferencesCmdUnix.accesskey     "i">
