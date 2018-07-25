@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE: do not use digits "0"-"9" as accesskeys -->
-<!ENTITY zoomEnlargeCmd.label       "გაზრდა">
-<!ENTITY zoomEnlargeCmd.accesskey   "L">
+<!ENTITY zoomEnlargeCmd.label       "გადიდება">
+<!ENTITY zoomEnlargeCmd.accesskey   "დ">
 <!ENTITY zoomEnlargeCmd.commandkey  "+">
 <!ENTITY zoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY zoomReduceCmd.label        "შემცირება">
-<!ENTITY zoomReduceCmd.accesskey    "S">
+<!ENTITY zoomReduceCmd.label        "დაპატარავება">
+<!ENTITY zoomReduceCmd.accesskey    "პ">
 <!ENTITY zoomReduceCmd.commandkey   "-">
 
 <!ENTITY zoomResetCmd.commandkey    "0">
