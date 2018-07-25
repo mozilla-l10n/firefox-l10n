@@ -9,6 +9,8 @@
 <!ENTITY retry.label "Spróbuj ponownie">
 <!ENTITY returnToPreviousPage.label "Wróć do poprzedniej strony">
 <!ENTITY advanced.label "Zaawansowane">
+<!ENTITY continue.label "Kontynuuj">
+
 <!ENTITY connectionFailure.title "Nie udało się nawiązać połączenia">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 <!ENTITY deniedPortAccess.title "Zastrzeżony adres">
