@@ -631,6 +631,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Deze plug-in verbergen">
 <!ENTITY hidePluginCmd.accesskey      "v">
 <!ENTITY copyLinkCmd.label            "Koppelingslocatie kopiëren">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "p">
 <!ENTITY copyImageCmd.label           "Afbeeldingslocatie kopiëren">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -641,6 +644,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Audiolocatie kopiëren">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "E-mailadres kopiëren">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "m">
 <!ENTITY thisFrameMenu.label              "Dit deelvenster">
 <!ENTITY thisFrameMenu.accesskey          "D">
