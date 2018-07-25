@@ -78,7 +78,7 @@
 <!ENTITY serverDefaultCharset2.label "ტექსტის ნაგულისხმევი კოდირება:">
 <!ENTITY advancedButton.accesskey "კ">
 <!ENTITY localPath.label "ადგილობრივი საქაღლდე:">
-<!ENTITY localFolderPicker.label "ადგილობრივი დასტის არჩევა">
+<!ENTITY localFolderPicker.label "ადგილობრივი საქაღალდის არჩევა">
 <!ENTITY browseFolder.label "ამორჩევა…">
 <!ENTITY browseFolder.accesskey "ო">
 <!ENTITY browseNewsrc.label "ამორჩევა…">
