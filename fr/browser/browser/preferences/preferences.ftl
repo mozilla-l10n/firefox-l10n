@@ -678,6 +678,7 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Empêcher les sites web de lancer automatiquement la lecture de contenu multimédia comportant du son
     .accesskey = E
+permissions-block-autoplay-media-menu = Lorsqu’un site web tente de lire automatiquement du son
 permissions-block-autoplay-media-exceptions =
     .label = Exceptions…
     .accesskey = x
