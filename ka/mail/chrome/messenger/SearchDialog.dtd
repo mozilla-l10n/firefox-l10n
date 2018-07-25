@@ -4,34 +4,34 @@
 
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "წერილების ძიების არე:">
-<!ENTITY searchHeading.accesskey     "h">
-<!ENTITY searchSubfolders.label      "ძიება ქვედასტებში">
-<!ENTITY searchSubfolders.accesskey  "e">
+<!ENTITY searchHeading.accesskey     "ძ">
+<!ENTITY searchSubfolders.label      "ძიება ქვესაქაღალდეებში">
+<!ENTITY searchSubfolders.accesskey  "ქ">
 <!ENTITY searchOnServer.label        "ძიების შესრულება სერვერზე">
-<!ENTITY searchOnServer.accesskey    "u">
+<!ENTITY searchOnServer.accesskey    "ე">
 <!ENTITY resetButton.label           "გასუფთავება">
-<!ENTITY resetButton.accesskey       "C">
+<!ENTITY resetButton.accesskey       "ფ">
 <!ENTITY openButton.label            "გახსნა">
-<!ENTITY openButton.accesskey        "n">
+<!ENTITY openButton.accesskey        "ხ">
 <!ENTITY deleteButton.label          "წაშლა">
-<!ENTITY deleteButton.accesskey      "D">
+<!ENTITY deleteButton.accesskey      "წ">
 <!ENTITY searchDialogTitle.label     "წერილების ძიება">
 <!ENTITY results.label               "შედეგები">
-<!ENTITY moveButton.label            "ფაილი">
-<!ENTITY moveButton.accesskey        "T">
+<!ENTITY moveButton.label            "გადატანა">
+<!ENTITY moveButton.accesskey        "ტ">
 <!ENTITY closeCmd.key                "W">
-<!ENTITY openInFolder.label          "გახსნა დასტაში">
-<!ENTITY openInFolder.accesskey      "r">
-<!ENTITY saveAsVFButton.label        "ძიების შედეგების დასტად შენახვა">
-<!ENTITY saveAsVFButton.accesskey    "v">
+<!ENTITY openInFolder.label          "გახსნა საქაღალდეში">
+<!ENTITY openInFolder.accesskey      "ქ">
+<!ENTITY saveAsVFButton.label        "საქაღლდის სახით შენახვა">
+<!ENTITY saveAsVFButton.accesskey    "ხ">
 
 <!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "ძიების არე:">
-<!ENTITY abSearchHeading.accesskey   "h">
+<!ENTITY abSearchHeading.accesskey   "რ">
 <!ENTITY propertiesButton.label      "პარამეტრები">
-<!ENTITY propertiesButton.accesskey  "P">
-<!ENTITY composeButton.label         "შექმნა">
-<!ENTITY composeButton.accesskey     "W">
+<!ENTITY propertiesButton.accesskey  "პ">
+<!ENTITY composeButton.label         "შედგენა">
+<!ENTITY composeButton.accesskey     "დ">
 <!ENTITY deleteCardButton.label      "წაშლა">
 <!ENTITY deleteCardButton.accesskey  "წ">
 <!ENTITY abSearchDialogTitle.label   "დეტალური ძიება წიგნაკში">
@@ -46,9 +46,9 @@
 <!ENTITY priorityColumn.label "პრიორიტეტი">
 <!ENTITY tagsColumn.label "ჭდე">
 <!ENTITY accountColumn.label "ანგარიში">
-<!ENTITY statusColumn.label "სტატუსი">
+<!ENTITY statusColumn.label "მდგომარეობა">
 <!ENTITY sizeColumn.label "ზომა">
-<!ENTITY junkStatusColumn.label "ჯართის სტატუსი">
+<!ENTITY junkStatusColumn.label "ჯართად მიჩნეული">
 <!ENTITY unreadColumn.label "წასაკითხი">
 <!ENTITY totalColumn.label "სულ">
 <!ENTITY readColumn.label "წაკითხული">

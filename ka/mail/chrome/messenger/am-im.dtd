@@ -5,12 +5,12 @@
 <!ENTITY accountWindow.title           "ანგარიშის პარამეტრები">
 <!ENTITY accountWindow.width           "320">
 <!ENTITY account.general               "ძირითადი">
-<!ENTITY account.advanced              "დეტალური პარამეტრები">
+<!ENTITY account.advanced              "გაფართოებული პარამეტრები">
 <!ENTITY account.name                  "სახელი:">
 <!ENTITY account.password              "პაროლი:">
 <!ENTITY account.alias                 "ფსევდონიმი:">
 <!ENTITY account.newMailNotification   "ახალი ფოსტის შეტყობინება">
-<!ENTITY account.autojoin              "ავტოშესვლა არხებზე:">
+<!ENTITY account.autojoin              "თვითმიერთება არხებზე:">
 <!ENTITY account.proxySettings.caption "პროქსის პარამეტრები:">
 <!ENTITY account.proxySettings.change.label     "შეცვლა…">
-<!ENTITY account.proxySettings.change.accessKey "C">
+<!ENTITY account.proxySettings.change.accessKey "ც">
