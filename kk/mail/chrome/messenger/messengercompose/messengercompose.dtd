@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Бұл хабарламаны кейін жіберу">
 <!ENTITY quoteButton.tooltip "Алдыңғы хабарламаны дәйексөз ретінде алу">
 <!ENTITY addressButton.tooltip "Адрестік кітапшадан алушыны таңдау">
-<!ENTITY attachButton.tooltip "Салынымды қосу">
 <!ENTITY attachButton.tooltip2 "Салынымды қосу">
 <!ENTITY spellingButton.tooltip "Таңдалғанның немесе толық хабарламаның емлесін тексеру">
 <!ENTITY saveButton.tooltip "Бұл хабарламаны сақтау">
@@ -275,7 +274,6 @@
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
 <!ENTITY attachments.accesskey "м">
-
 <!ENTITY attachmentBucketHeader.tooltip "Салынымдар панелі">
 <!ENTITY attachmentBucketCloseButton.tooltip "Салыным панелін жасыру">
 
@@ -360,6 +358,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Жіберуші адресін баптау…">
 <!ENTITY customizeFromAddress.accesskey "а">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Хабарлама денесі">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Емлені тексеру тілі">
