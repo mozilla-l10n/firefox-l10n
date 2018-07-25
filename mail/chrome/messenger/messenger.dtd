@@ -954,7 +954,7 @@
 <!ENTITY minimizeWindow.label "ჩაკეცვა">
 <!ENTITY minimizeWindow.key "ჩ">
 <!ENTITY bringAllToFront.label "ყველას წინ გადატანა">
-<!ENTITY zoomWindow.label "მასშტაბი">
+<!ENTITY zoomWindow.label "ზომის ცვლილება">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "პარამეტრები">
