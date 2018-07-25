@@ -79,6 +79,9 @@
 # e.g. #define seamonkey_l10n <DT><A HREF="https://www.seamonkey.tlh/">SeaMonkey tlhIngan</a>
 #define seamonkey_l10n
 
- <DT><A HREF="https://www.mozilla.cz/stahnout/seamonkey/">Stáhnout SeaMonkey</a># LOCALIZATION NOTE (seamonkey_l10n_long):
+ <DT><A HREF="https://www.mozilla.cz/stahnout/seamonkey/">Stáhnout SeaMonkey</a># LOCALIZATION NOTE (seamonkey_l10n_long):# LOCALIZATION NOTE (seamonkey_l10n_long):
 # insert full bookmark line for localized SeaMonkey page (normal bookmark)
 # e.g. #define seamonkey_l10n_long <DT><A HREF="https://www.seamonkey.tld/">tlhIngan Hol SeaMonkey</a>
+#define seamonkey_l10n_long
+
+#unfilter <DT><A HREF="https://www.mozilla.cz/stahnout/seamonkey/">Stáhnout SeaMonkey</a>
