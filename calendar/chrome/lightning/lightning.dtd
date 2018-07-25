@@ -75,7 +75,7 @@
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Aildrefnu'r digwyddiad">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Cadw copi">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Cadw copi o'r digwyddiad i'r calendr yn annibynnol o ateb i'r trefnydd. Bydd y rhestr o fynychwyr yn cael ei glirio.">
-<!ENTITY lightning.imipbar.btnTentative.label                               "Ansicr">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Amodol">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Derbyn gwahoddiad i ddigwyddiad yn amodol">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Amodol i'r cyfan">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Derbyn gwahoddiad i ddigwyddiad yn amodol ar gyfer pob achlysur o'r digwyddiad">
