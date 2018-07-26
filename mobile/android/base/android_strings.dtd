@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "நொறுக்கு அறிக்கையாளர்">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;வின் இடமறியும் சேவை">
 <!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; என்பதற்கு உதவுவதன் மூலம் உலக வரைபடத்தை வரையலாம்! எங்களின் புவியிடம் வழங்கும் சேவை செம்மைப்படுத்த உங்கள் கருவியின் தோராயமான இடத்தை அருகலை மற்றும் செல்லுலார் மூலம் பகிரவும்.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; இருப்பிட சேவை இயக்கத்தில்">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +893,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "முகப்பு திரையில் சேர்">
 <!ENTITY pwa_continue_to_website "தளத்திற்குத் தொடர்">
 <!ENTITY pwa_onboarding_sumo "விரைவான அணுகல் மற்றும் செயலி போன்ற அனுபவத்துடன் விரைவாக உலாவ நீங்கள் இந்த வலைப்பக்கத்தை உங்கள் முகப்பு திரையில் எளிதில் சேர்க்கலாம்.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "இயக்கு">
+<!ENTITY pip_play_button_description "மீண்டும் இயக்கத்திற்கு செல்">
+<!ENTITY pip_pause_button_title "நிறுத்து">
+<!ENTITY pip_pause_button_description "இயக்கத்தை நிறுத்து">
