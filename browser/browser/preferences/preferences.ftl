@@ -57,7 +57,7 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = Приожението { -brand-short-name } трябва да бъде рестартирано, за да бъде включена тази възможност.
+feature-enable-requires-restart = Приложението { -brand-short-name } трябва да бъде рестартирано, за да бъде включена тази възможност.
 feature-disable-requires-restart = Приложението { -brand-short-name } трябва да бъде рестартирано, за да бъде изключена тази възможност.
 should-restart-title = Рестартиране на { -brand-short-name }
 should-restart-ok = Рестартиране на { -brand-short-name }
