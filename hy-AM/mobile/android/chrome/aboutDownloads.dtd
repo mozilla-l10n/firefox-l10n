@@ -4,7 +4,7 @@
 
 <!ENTITY aboutDownloads.title                      "Ներբեռնումներ">
 <!ENTITY aboutDownloads.header                     "Ձեր ներբեռնումները">
-<!ENTITY aboutDownloads.empty                      "Չկան նեևբեռնումներ">
+<!ENTITY aboutDownloads.empty                      "Չկան ներբեռնումներ">
 
 <!ENTITY aboutDownloads.open                       "Բացել">
 <!ENTITY aboutDownloads.remove                     "Ջնջել">
