@@ -33,7 +33,7 @@
 <!ENTITY generic.title "Олеле.">
 <!ENTITY generic.longDesc "<p>По някаква причина &brandShortName; не може да зареди тази страница.</p>">
 
-<!ENTITY malformedURI.title "Този адрес не е верен">
+<!ENTITY malformedURI.title "Невалиден адрес">
 <!ENTITY malformedURI.longDesc "<ul><li>Адресите обикновено изглеждат така <strong>http://www.example.com/</strong></li><li>Уверете се, че използвате наклонени черти(т.е. <strong>/</strong>).</li></ul>">
 
 <!ENTITY netInterrupt.title "Връзката беше прекъсната">
