@@ -73,9 +73,11 @@
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Օգտագործեք ձեր QR ընթերցիչը՝ որոնելու կամ հասցեն մուտքագրելու համար">
 <!-- Localization note (url_bar_mic_text2) : This text will be
      heard by non-visual users when the focus is on the Microphone
      icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Օգտագործեք ձեր խոսափողը՝ որոնելու կամ հասցեն մուտքագրելու համար">
 
 <!ENTITY bookmark "Էջանիշ">
 <!ENTITY bookmark_remove "Հեռացնել էջանիշը">
