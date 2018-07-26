@@ -517,7 +517,7 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Debugar ils supplements">
 <!ENTITY debugAddonsCmd.accesskey "a">
-<!ENTITY tabsDebugCmd.label "Debugader per il rom da cuntegn">
+<!ENTITY tabsDebugCmd.label "Debugadi per il rom da cuntegn">
 <!ENTITY tabsDebugCmd.accesskey "c">
 <!ENTITY errorConsoleCmd.label "Consola d'errurs">
 <!ENTITY errorConsoleCmd.accesskey "E">
