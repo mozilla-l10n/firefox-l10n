@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } er ikke valgt som standard nettleser
 set-as-my-default-browser =
     .label = Bruk som standard…
     .accesskey = s
-startup-page = Når { -brand-short-name } starter
-    .accesskey = s
-startup-user-homepage =
-    .label = Vis startside
-startup-blank-page =
-    .label = Vis tom side
-startup-prev-session =
-    .label = Vis vinduer og faner som ble brukt sist
 startup-restore-previous-session =
     .label = Gjenopprett forrige programøkt
     .accesskey = r
 disable-extension =
     .label = Slå av utvidelse
-home-page-header = Startside
 tabs-group-header = Faner
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab veksler mellom faner i nylig brukt-rekkefølge
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Les mer
 update-application-title = { -brand-short-name }-oppdateringer
 update-application-description = Hold { -brand-short-name } oppdatert for beste ytelse, stabilitet og sikkerhet.
-update-application-info = Versjon { $version } <a>Hva er nytt</a>
 update-application-version = Versjon { $version } <a data-l10n-name="learn-more">Hva er nytt</a>
 update-history =
     .label = Vis oppdateringshistorikk…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Grense for innholdsprosesser
     .accesskey = G
 performance-limit-content-process-enabled-desc = Ytterligere innholdsprosesser kan forbedre ytelsen når du bruker flere faner, men vil også bruke mer minne.
-performance-limit-content-process-disabled-desc = Endring av antall innholdsprosesser kan bare gjøres med multiprosess { -brand-short-name }. <a>Lær hvordan du kontrollerer om multiprosess er slått på</a>
 performance-limit-content-process-blocked-desc = Endring av antall innholdsprosesser kan bare gjøres med multiprosess { -brand-short-name }. <a data-l10n-name="learn-more">Lær hvordan du kontrollerer om multiprosess er slått på</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Bruk bokmerke …
     .accesskey = u
-restore-default =
-    .label = Bruk standard
-    .accesskey = s
 
 ## Search Section
 
@@ -700,9 +678,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Blokker nettsteder fra automatisk å spille av media med lyd
     .accesskey = B
+permissions-block-autoplay-media-menu = For nettsider som autospiller av lyd
 permissions-block-autoplay-media-exceptions =
     .label = Unntak…
     .accesskey = U
+autoplay-option-ask =
+    .label = Spør alltid
+autoplay-option-allow =
+    .label = Tillat autoavspilling
+autoplay-option-block =
+    .label = Blokker autoavspilling
 permissions-block-popups =
     .label = Blokker sprettoppvinduer
     .accesskey = B
