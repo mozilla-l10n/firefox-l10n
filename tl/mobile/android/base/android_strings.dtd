@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Location Service">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Tulong &vendorShortName; mapa sa mundo! Ibahagi ang humigit-kumulang na Wi-Fi at cellular na lokasyon ng iyong device upang mapabuti ang aming serbisyong geolocation.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; tumatakbo ang Location Service">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -891,3 +896,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Idagdag sa Home Screen">
 <!ENTITY pwa_continue_to_website "Magpatuloy sa Website">
 <!ENTITY pwa_onboarding_sumo "Madali mong maidagdag ang website na ito sa iyong Home screen upang magkaroon ng agarang pag-access at mas mabilis na mag-browse gamit ang isang karanasan na tulad ng app.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "i-Play">
+<!ENTITY pip_play_button_description "Ipagpatuloy">
+<!ENTITY pip_pause_button_title "i-Pause">
+<!ENTITY pip_pause_button_description "i-Pause">
