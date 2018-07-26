@@ -70,6 +70,13 @@
 
 <!ENTITY url_bar_default_text2 "Մուտքագրեք կայքի հասցե կամ որոնում">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+
 <!ENTITY bookmark "Էջանիշ">
 <!ENTITY bookmark_remove "Հեռացնել էջանիշը">
 <!ENTITY bookmark_added "Էջանիշը ավելացվեց">
@@ -438,6 +445,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Վթարի Զեկույց">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;-ի տեղադրության ծառայությունը">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Օգնեք &vendorShortName;-ին աշխարհի քարտեզը գծելու գործում: Տարածեք ձեր սարքի Wi-Fi և բջջային տեղադրությունը՝ լավարկելու համար տեղորոշման ծառայությունը:">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName;-ի տեղադրության ծառայությունը աշխատեցված է">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -879,3 +891,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Հավելել Տնային էկրանին">
 <!ENTITY pwa_continue_to_website "Շարունակել կայքում">
 <!ENTITY pwa_onboarding_sumo "Կարող եք հեշտությամբ հավելել այս կայքը ձեր Տնայինէկրանին՝ անմիջական մատչում ունենալու և արագորեն դիտարկելու համար հավելվածները:">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Նվագարկել">
+<!ENTITY pip_play_button_description "Վերսկսել նվագարկումը">
+<!ENTITY pip_pause_button_title "Դադարեցնել">
+<!ENTITY pip_pause_button_description "Դադարեցնել նվագարկումը">
