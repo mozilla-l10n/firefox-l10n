@@ -38,12 +38,20 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Uddu cegene cuɓaaɗe ɗee">
 <!ENTITY  closeSelectedTabs.accesskey        "S">
 
+<!ENTITY  pinSelectedTabs.label              "Cegenon">
 <!-- Pin Tab and Pin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  pinSelectedTabs.accesskey          "P">
+<!ENTITY  unpinSelectedTabs.label            "Mumtu cegenon">
 <!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  unpinSelectedTabs.accesskey        "b">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadSelectedTabs.label           "Loowtu cegenon cuɓakon kon">
+<!ENTITY  reloadSelectedTabs.accesskey       "R">
+<!ENTITY  bookmarkSelectedTabs.label         "Maanto cegenon…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -64,12 +72,15 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Reggondirii (ceŋtol)">
 <!ENTITY  moveToNewWindow.label              "Dirtin to Henorde Hesere">
 <!ENTITY  moveToNewWindow.accesskey          "H">
+<!ENTITY  reopenInContainer.label            "Udditgol goɗngol nder mbootu">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Maantoto Tabbe Kala…">
 <!ENTITY  bookmarkAllTabs.accesskey          "K">
 <!ENTITY  undoCloseTab.label                 "Firtu Uddol Tabbere">
 <!ENTITY  undoCloseTab.accesskey             "F">
 <!ENTITY  closeTab.label                     "Uddu Tabbere">
 <!ENTITY  closeTab.accesskey                 "U">
+<!ENTITY  hiddenTabs.label                   "Cegenon cuuɗikon">
 
 <!ENTITY  listAllTabs.label      "Waɗ doggol tabbe kala">
 
@@ -218,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Uddit alluwal ɓatakuuje">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Uddit alluwal ɗaɓɓitanɗe nokkuuje">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Uddit tammborde janngol ɗoon e ɗoon">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Uddit alluwal vatakuure aafirgal ɓeyditte">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Toppito jamirooje jaltingol canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Uddit alluwal ɓatakuuje ndesgu ceŋtol">
@@ -226,6 +238,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Waylu mbele aɗa waawi heɓde tintine iwɗe e ndee lowre">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Mooftu keɓe e Ndesgu Duumiingu">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Feerorde wonnde yuurnito woɗɗungo">
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Uddit tammborde heɓtinirde geese">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Toppito lollingol kameraa e/walla mikkoroo maa e ndee lowre">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Toppito lollingol mikkoroo maa e ndee lowre">
@@ -244,6 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "A daaƴii tintine e ndee lowre.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "A daaƴii ndesgu duumiingu e ndee lowre.">
 <!ENTITY urlbar.popupBlocked.tooltip             "A faddiima kenorɗe pop-up nder ndee lowre.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "A faddiima mejaa janngol ɗoon e ɗoon hito wonande ndee lowre.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "A daaƴii aaftogol keɓe keertol wonande ndee lowre geese.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "A haɗii ndee lowre geese huutoraade jokkel Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "A daaƴii keɓgol MIDI wonande ndee lowre geese.">
@@ -255,6 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Jaɓɓorgo">
 
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Jaɓɓorgo">
 
 <!ENTITY bookmarksButton.label          "Maantore">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -304,11 +319,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Ƴeewto Geɗel">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY inspectA11YContextMenu.label     "Yuurnito sifaaji keɓagol">
 
 <!ENTITY fileMenu.label         "Fiilde">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Tabbere Mooftirɗe Hesere">
 <!ENTITY newUserContext.accesskey         "b">
+<!ENTITY manageUserContext.label          "Toppito baɗirɗe">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Henorde Hesere">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "H">
@@ -437,6 +455,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Ɓeeydu ngeɗon ngoɗkon…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Ɓ">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Suuɗ hoore mum e palal kuutorɗe">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "Toppito Jokkel">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -754,6 +776,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Ɓeydu Caggitorɗe…">
 <!ENTITY spellAddDictionaries.accesskey "Ɓ">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Gasii">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
@@ -1016,6 +1042,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Neldu Tabbere to Kaɓirgol">
 <!ENTITY sendToDevice.syncNotReady.label "Jahdingol masiŋon...">
+
 
 
 <!ENTITY libraryButton.tooltip "Yiy aslol, maantore danndaaɗe, e goɗɗe">
