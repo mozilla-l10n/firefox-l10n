@@ -82,6 +82,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = எந்த இணையதளங்கள் கூடுதல் இணைப்புகளை நிறுவ அனுமதிக்கும் என்பதைக் குறிப்பிடலாம். மேலாண்மை செய்ய வேண்டிய இணைய தளத்தின் சரியான முகவரியை தட்டச்சு செய்து பின் அனுமதி என்பதை சொடுக்கவும்.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = தானியக்கம் - அனுமதியுள்ள தளங்கள்
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
