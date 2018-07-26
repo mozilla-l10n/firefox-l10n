@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } није подразумевани пр�
 set-as-my-default-browser =
     .label = Учини подразумеваним…
     .accesskey = д
-startup-page = Када се { -brand-short-name } покрене
-    .accesskey = п
-startup-user-homepage =
-    .label = Прикажи почетну страницу
-startup-blank-page =
-    .label = Прикажи празну страницу
-startup-prev-session =
-    .label = Прикажи прозоре и језичке од прошлог пута
 startup-restore-previous-session =
     .label = Обнови претходну сесију
     .accesskey = с
 disable-extension =
     .label = Онемогући екстензију
-home-page-header = Почетна страница
 tabs-group-header = Језичци
 ctrl-tab-recently-used-order =
     .label = Кретање кроз недавно коришћене језичке уз Ctrl+Tab
@@ -273,7 +256,6 @@ play-drm-content =
 play-drm-content-learn-more = Сазнајте више
 update-application-title = { -brand-short-name } ажурирања
 update-application-description = Учините { -brand-short-name } ажурним за боље перформансе, стабилност и безбедност.
-update-application-info = Верзија { $version } <a>Шта је ново</a>
 update-application-version = Верзија { $version } <a data-l10n-name="learn-more">Шта је ново</a>
 update-history =
     .label = Прикажи историјат ажурирања…
@@ -309,7 +291,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Лимит процеса садржаја
     .accesskey = Л
 performance-limit-content-process-enabled-desc = Додатни процеси садржаја могу побољшати перформансе док користите више језичака, али ће такође користити више меморије.
-performance-limit-content-process-disabled-desc = Уређивање броја процеса садржаја је могуће само када је омогућен вишепроцесни { -brand-short-name }. <a>Сазнајте како да проверите да ли су мултипроцеси омогућени</a>
 performance-limit-content-process-blocked-desc = Уређивање броја процеса садржаја је могуће само када је омогућен вишепроцесни { -brand-short-name }. <a data-l10n-name="learn-more">Сазнајте како да проверите да ли су мултипроцеси омогућени</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -380,9 +361,6 @@ use-current-pages =
 choose-bookmark =
     .label = Користи забелешку…
     .accesskey = з
-restore-default =
-    .label = Врати на подразумевану
-    .accesskey = В
 
 ## Search Section
 
@@ -703,9 +681,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Блокирај аутоматско пуштање медија са звуком
     .accesskey = Б
+permissions-block-autoplay-media-menu = За веб сајтове који аутоматски пуштају звук
 permissions-block-autoplay-media-exceptions =
     .label = Изузеци...
     .accesskey = И
+autoplay-option-ask =
+    .label = Увек питај
+autoplay-option-allow =
+    .label = Дозволи аутоматско пуштање
+autoplay-option-block =
+    .label = Блокирај аутоматско пуштање
 permissions-block-popups =
     .label = Блокирај искачуће прозоре
     .accesskey = ч
