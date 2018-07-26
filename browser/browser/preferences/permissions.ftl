@@ -105,10 +105,10 @@ permissions-site-notification-disable-desc = Tímto zakážete všem serverům, 
 permissions-site-location-window =
     .title = Oprávnění zjišťovat polohu
     .style = { permissions-window.style }
-permissions-site-location-desc = Následující servery požádaly o přístup k vaší poloze. Zde můžete určit, které servery mají nebo nemají povoleno vaši polohu zjistit. Můžete zde také zablokovat nové žádosti o přístup.
+permissions-site-location-desc = Následující servery požádaly o přístup k informacím o vaší poloze. Zde můžete určit, které servery mají nebo nemají povoleno vaši polohu zjistit. Můžete zde také zablokovat nové žádosti o přístup.
 permissions-site-location-disable-label =
-    .label = Blokovat nové žádosti o přístup k vaší poloze
-permissions-site-location-disable-desc = Tímto zakážete všem serverům, které nejsou v seznamu výše, požádat o přístup k vaší poloze. Při blokování žádostí nemusí některé funkce webových stránek správně fungovat.
+    .label = Blokovat nové žádosti o přístup k informacím o vaší poloze
+permissions-site-location-disable-desc = Tímto zakážete všem serverům, které nejsou v seznamu výše, požádat o přístup k informacím o vaší poloze. Při blokování žádostí nemusí některé funkce webových stránek správně fungovat.
 
 ## Site Permissions - Camera
 
