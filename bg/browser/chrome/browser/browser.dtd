@@ -150,7 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Вписване в &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Настройки на &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Свързване наново със &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Повторно свързване със &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Проверка на сметка">
 
 
@@ -774,6 +774,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Добавяне на речници…">
 <!ENTITY spellAddDictionaries.accesskey "р">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
 <!ENTITY editBookmark.done.label                     "Готово">
 <!ENTITY editBookmark.removeBookmark.accessKey       "П">
 
@@ -878,7 +881,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.accesskey         "В">
 <!ENTITY syncSyncNowItem.label        "Синхронизиране">
 <!ENTITY syncSyncNowItem.accesskey    "С">
-<!ENTITY syncReAuthItem.label         "Свързване наново със &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.label         "Повторно свързване със &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "С">
 <!ENTITY syncToolbarButton.label      "Sync">
 
@@ -1070,6 +1073,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизиране на устройства…">
 
 <!ENTITY pageAction.shareUrl.label "Споделяне">
+
 
 <!ENTITY libraryButton.tooltip "Преглед на история, запазени отметки и други">
 
