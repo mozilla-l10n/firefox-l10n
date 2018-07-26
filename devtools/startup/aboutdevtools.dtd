@@ -38,15 +38,10 @@
 <!ENTITY  aboutDevtools.enable.keyShortcutMessage
           "Ti has activà ina scursanida da tasta dals utensils per sviluppaders. Sche quai è capità per sbagl, pos ti serrar quest tab.">
 
-<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
-  -  clicked on a "Enable Developer Tools" menu item. -->
-<!ENTITY  aboutDevtools.enable.menuMessage
-          "Examinar, modifitgar e debugar HTML, CSS e JavaScript cun utensils sco l'inspectur u il debugader.">
-
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
 <!ENTITY  aboutDevtools.enable.menuMessage2
-          "Perfecziunescha HTML, CSS e JavaScript da tia website cun utensils sco l'inspectur u il debugader.">
+          "Perfecziunescha HTML, CSS e JavaScript da tia website cun utensils sco l'inspectur u il debugadi.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
@@ -59,8 +54,6 @@
 <!ENTITY  aboutDevtools.enable.learnMoreLink "Vegnir a savair dapli davart ils utensils per sviluppaders">
 
 <!ENTITY  aboutDevtools.enable.enableButton "Activar ils utensils per sviluppaders">
-<!ENTITY  aboutDevtools.enable.closeButton "Serrar questa pagina">
-
 <!ENTITY  aboutDevtools.enable.closeButton2 "Serrar quest tab">
 
 <!ENTITY  aboutDevtools.welcome.title "Bainvegni tar ils utensils per sviluppaders da Firefox!">

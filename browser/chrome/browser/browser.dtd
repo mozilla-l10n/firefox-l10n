@@ -132,7 +132,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Infurmaziuns davart la pagina">
 <!ENTITY pageInfoCmd.accesskey "s">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "Debugader da layout">
+<!ENTITY ldbCmd.label "Debugadi da layout">
 <!ENTITY ldbCmd.accesskey "l">
 <!ENTITY mirrorTabCmd.label "Duplitgar il tab">
 <!ENTITY mirrorTabCmd.accesskey "p">
