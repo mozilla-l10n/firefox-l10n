@@ -70,6 +70,13 @@
 
 <!ENTITY url_bar_default_text2 "Yeny onyo ket kanonge">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+
 <!ENTITY bookmark "Alamabuk">
 <!ENTITY bookmark_remove "Kwany alamabuk woko">
 <!ENTITY bookmark_added "Kimedo alamabuk">
@@ -438,6 +445,10 @@
 <!ENTITY datareporting_crashreporter_title_short "Lami ripot me poto">
 <!ENTITY datareporting_wifi_title2 "Tic me kabedo pa &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Kony &vendorShortName; me goyo map me wilobo! Nywak byek me kabedo me Wi-Fi ki cim pa nyonyo mamegi me yilo rwom pa tic me kabedo mamegwa.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -879,3 +890,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Med i Kio me Acakki">
 <!ENTITY pwa_continue_to_website "Mede i Kakube">
 <!ENTITY pwa_onboarding_sumo "Itwero medo mayot kakube man i Kio me acakki mamegi me nongo cutcut ki yenyo oyot calo itye katic ki purugram.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Tuki">
+<!ENTITY pip_play_button_description "Mede ki tuko">
+<!ENTITY pip_pause_button_title "Juki">
+<!ENTITY pip_pause_button_description "Juk tuko">
