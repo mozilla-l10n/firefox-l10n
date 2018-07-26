@@ -783,6 +783,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Gasii">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "Hollu taƴtorde kisnugol">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "5">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -825,11 +827,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Ɓeydu Humpito">
 
+<!ENTITY identity.clearSiteData "Mumtu kuukiije e keɓe lowre ndee…">
 
 <!ENTITY identity.permissions "Jamirooje">
 <!ENTITY identity.permissionsEmpty "A hokkaani ndee lowre hay yamiroore heeriinde.">
 <!ENTITY identity.permissionsReloadHint "Ena waawi coaklaa loowtude hello ngoo ngam bayle ɗee njaaɓa.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Uddit jamirooje ɓurɗine">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -929,6 +933,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Ojoo e ndee tabbere maa lolline.">
 <!ENTITY getUserMedia.allWindowsShared.message "Kala henorde yiyotonde e yaynirde maaɗa maa lolline.">
 
+<!ENTITY trackingProtection.on "Ndeenka rewindo: ON">
+<!ENTITY trackingProtection.off "Ndeenka rewindo: OFF">
 <!ENTITY trackingProtection.title "Ndeenka dewindol">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; daaƴii geɗe e ngoo hello baawɗe rewindaade peeragol maa.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Ndee lowre ena loowi geɗe baawɗe rewindaade peeragol maa. Ko a daaƴɗo ndeenka.">
@@ -946,6 +952,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Hurmin kisnugol">
 <!ENTITY trackingProtection.block2.accesskey "H">
 
+<!ENTITY trackingProtection.tooltip "Uddit ɓurɗine ndeenka rewindo">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
