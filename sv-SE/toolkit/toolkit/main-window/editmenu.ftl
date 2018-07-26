@@ -16,3 +16,6 @@ editmenu-paste =
 editmenu-delete =
     .label = Ta Bort
     .accesskey = D
+editmenu-select-all =
+    .label = Markera allt
+    .accesskey = A
