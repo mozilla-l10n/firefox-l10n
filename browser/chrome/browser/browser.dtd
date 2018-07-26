@@ -50,6 +50,8 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Oppdater valgte faner">
 <!ENTITY  reloadSelectedTabs.accesskey       "O">
+<!ENTITY  bookmarkSelectedTabs.label         "Bokmerk faner…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -774,6 +776,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Legg til ordbøker …">
 <!ENTITY spellAddDictionaries.accesskey "L">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Ferdig">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
@@ -947,13 +953,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "å">
 
 <!ENTITY trackingProtection.tooltip "Åpne innstillinger for sporingsbeskyttelse">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokkerer deler av denne siden som kan spore nettlesingen din.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&amp;brandShortName; har oppdaget element som kan spore nettlesingen din.">
+<!ENTITY trackingProtection.detectedException "&amp;brandShortName; har oppdaget element som kan spore nettlesingen din. Du har skrudd av beskyttelse på denne nettsiden.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Slå av på dette nettstedet">
+<!ENTITY trackingProtection.unblock3.accesskey "d">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Slå av for denne økten">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "d">
+<!ENTITY trackingProtection.block4.label "Slå på for dette nettstedet">
+<!ENTITY trackingProtection.block4.accesskey "e">
+<!ENTITY trackingProtection.reload2.label "Oppdater siden">
+<!ENTITY trackingProtection.reload2.accesskey "r">
 
 <!ENTITY pluginNotification.showAll.label "Vis alle">
 <!ENTITY pluginNotification.showAll.accesskey "V">
@@ -1056,6 +1073,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer enheter…">
 
 <!ENTITY pageAction.shareUrl.label "Del">
+
+<!ENTITY pageAction.shareMore.label "Mer…">
 
 <!ENTITY libraryButton.tooltip "Se historikk, lagrede bokmerker og mer">
 
