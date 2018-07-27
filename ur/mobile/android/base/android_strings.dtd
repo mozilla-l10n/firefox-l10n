@@ -446,6 +446,7 @@
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; محل وقوع خدمات چل رہی ہے">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -827,6 +828,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY unsupported_sdk_version "معذرت! یہ &brandShortName; اس آلہ پر کام نہیں کریگا (&formatS1;, &formatS2;)۔ براہ مہربانی صحیح ورزن ڈاونلوڈ لرے۔">
 
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "&brandShortName; کھولنے میں ناکام رہا۔ براہ مہربانی دوبارہ تنصینب کریں اور پھر کوشش کریں۔">
 
 <!ENTITY eol_notification_title2 "&brandShortName; اب تازہ کاری نہیں کرے گا">
 <!ENTITY eol_notification_summary "مزید سیکھنے کے لیے یہاں کلک کریں">
