@@ -15,7 +15,7 @@
 
 <!ENTITY clearDataSettings3.label     "Όταν κλείνω το &brandShortName;, να γίνεται αυτόματη εκκαθάριση όλων">
 
-<!ENTITY clearDataSettings4.label     "Όταν κλείνει, το &brandShortName; να κάνει αυτόματη εκκαθάριση όλων">
+<!ENTITY clearDataSettings4.label     "Όταν κλείνει, το &brandShortName; να κάνει αυτόματη εκκαθάριση των παρακάτω">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
