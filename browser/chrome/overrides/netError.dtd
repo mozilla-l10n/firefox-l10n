@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "เกิดปัญหาในการโหลดหน้า">
 <!ENTITY retry.label "ลองอีกครั้ง">
 <!ENTITY returnToPreviousPage.label "ย้อนกลับ">
+<!ENTITY returnToPreviousPage1.label "ย้อนกลับ (แนะนำ)">
 <!ENTITY advanced.label "ขั้นสูง">
+
+<!ENTITY continue.label "ดำเนินการต่อ">
 
 <!-- Specific error messages -->
 
@@ -82,10 +85,16 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากไม่สามารถยืนยันความถูกต้องของข้อมูลที่ได้รับ</li> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "การเชื่อมต่อของคุณไม่ปลอดภัย">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "เจ้าของ <span class='hostname'/> ได้กำหนดค่าเว็บไซต์ของพวกเขาไม่เหมาะสม  เพื่อปกป้องข้อมูลของคุณจากการถูกขโมย &brandShortName; จึงไม่ได้เชื่อมต่อไปยังเว็บไซต์นี้">
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>ไซต์อาจไม่พร้อมใช้งานชั่วคราวหรือกำลังทำงานหนักเกินไป ลองอีกครั้งในอีกสักครู่</li> <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อเครือข่ายของคอมพิวเตอร์ของคุณ</li> <li>หากคอมพิวเตอร์หรือเครือข่ายของคุณถูกปกป้องด้วยไฟร์วอลล์หรือพร็อกซี ตรวจสอบให้แน่ใจว่า &brandShortName; ได้รับอนุญาตให้เข้าถึงเว็บ</li> </ul>">
 
