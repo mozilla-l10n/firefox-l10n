@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "Kanály">
 <!ENTITY  feedTab.accesskey     "K">
-<!ENTITY  feedSubscribe         "Odoberať">
-<!ENTITY  feedSubscribe.accesskey "O">
 
 <!ENTITY  permTab               "Povolenia">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Použiť predvolené">
-<!ENTITY  permAskAlways         "Vždy sa opýtať">
-<!ENTITY  permAllow             "Povoliť">
-<!ENTITY  permAllowSession      "Povoliť pre reláciu">
-<!ENTITY  permHide              "Skryť">
-<!ENTITY  permBlock             "Blokovať">
 <!ENTITY  permissionsFor        "Povolenia pre:">
-<!ENTITY  permPlugins           "Aktivácia zásuvných modulov">
 
 <!ENTITY  securityTab           "Zabezpečenie">
 <!ENTITY  securityTab.accesskey "Z">
@@ -75,10 +66,7 @@
 
 <!ENTITY  securityView.privacy.header                   "Súkromie a história">
 <!ENTITY  securityView.privacy.history                  "Navštívil som túto stránku v minulosti?">
-<!ENTITY  securityView.privacy.cookies                  "Ukladá táto stránka informácie (cookies) na mojom počítači?">
-<!ENTITY  securityView.privacy.viewCookies              "Zobraziť súbory cookies">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "s">
-<!ENTITY  securityView.privacy.siteData                 "Ukladá táto stránka informácie (cookies) na mojom počítači?">
+<!ENTITY  securityView.privacy.siteData                 "Ukladá táto stránka informácie na mojom počítači?">
 <!ENTITY  securityView.privacy.clearSiteData            "Vymazať cookies a údaje stránok">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "c">
 <!ENTITY  securityView.privacy.passwords                "Uložil som pre túto stránku nejaké heslá?">
