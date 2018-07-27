@@ -50,6 +50,8 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Презареждане на избраните раздели">
 <!ENTITY  reloadSelectedTabs.accesskey       "п">
+<!ENTITY  bookmarkSelectedTabs.label         "Отмятане на разделите…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "о">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -283,7 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchBookmarks.label              "Търсене в отметките">
 <!ENTITY bookmarkingTools.label             "Инструменти за отметки">
 <!ENTITY addBookmarksMenu.label             "Добавяне на менюто за отметки към лентата с инструменти">
-<!ENTITY removeBookmarksMenu.label          "Премахване на менюто за отметки от лентата с инструменти">
+<!ENTITY removeBookmarksMenu.label          "Премахване на меню Oтметки от лентата с инструменти">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -777,6 +779,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "25em">
 <!ENTITY editBookmark.done.label                     "Готово">
 <!ENTITY editBookmark.removeBookmark.accessKey       "П">
 
@@ -1074,6 +1077,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.shareUrl.label "Споделяне">
 
+<!ENTITY pageAction.shareMore.label "Други…">
 
 <!ENTITY libraryButton.tooltip "Преглед на история, запазени отметки и други">
 
