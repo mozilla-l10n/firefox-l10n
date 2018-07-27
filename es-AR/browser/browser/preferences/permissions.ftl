@@ -89,6 +89,7 @@ permissions-exceptions-autoplay-media-window =
     .title = Sitios permitidos - Autoplay
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Se pueden especificar los sitios que tienen permitida la reproducción automática de elementos de medios. Se debe ingresar la dirección exacta del sitio que se desea permitir y luego presionar Permitir.
+permissions-exceptions-autoplay-media-desc2 = Puede especificar qué sitios tienen permitido o no usar cookies. Ingrese la dirección exacta del sitio que quiera administrar y después haga clic en Bloquear o Permitir.
 
 ## Site Permissions - Notifications
 
