@@ -86,7 +86,7 @@
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Lista załączników">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "a">
-<!ENTITY toggleAttachmentPaneCmd.key "a">
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Zaznacz wszystko">
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY selectAllCmd.key "A">
