@@ -159,8 +159,19 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "რისი გაკეთება შეგიძლიათ?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>ხარვეზი, უმეტესად დაკავშირებულია თავად ვებსაიტთან და თქვენ ვერ მოახერხებთ მის გამოსწორებას.</p>
+<p>თუ იყენებთ ორგანიზაციის ქსელს ან ანტივირუსულ პროგრამას, დასახმარებლად შეგიძლიათ მიმართოთ იქვე არსებულ მხარდაჭერის ჯგუფს. ასევე, შეგიძლიათ შეატყობინოთ ვებსაიტის მფლობელებს, ამ ხარვეზის შესახებ.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
+<p>თქვენი კომპიუტერის დროა <span id='wrongSystemTime_systemDate'/>. გადაამოწმეთ, რომ თქვენი კომპიუტერი სწორ დროსა და თარიღს აჩვენებს, ამასთან დროის სარტყელიც სწორადაა მითითებული, შემდეგ კი ხელახლა ჩატვირთეთ <span class='hostname'/>.</p>
+<p>თუ საათი სწორადაა დაყენებული, სავარაუდოდ თავად ვებსაიტია გაუმართავი და თქვენ ვერ მოახერხებთ ამის მოგვარებას. ერთადერთი, შეგიძლიათ შეატყობინოთ საიტის მფლობელებს ამ ხარვეზის შესახებ.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>ეს ხარვეზი უმეტესად დაკავშირებულია თავად ვებსაიტთან და თქვენ ვერ მოახერხებთ მის გამოსწორებას. ერთადერთი, ვებსაიტის მფლობელებს შეგიძლიათ შეატყობინოთ არსებული ხარვეზის შესახებ.</p>
+">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -200,10 +211,12 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ვერ უკავშირდება <span id='wrongSystemTimeWithoutReference_URL'/> -ს, რადგან როგორც ჩანს, თქვენი კომპიუტერის საათი არასწორ დროს აჩვენებს, რაც ხელს უშლის უსაფრთხოდ დაკავშირებას.</p> <p>თქვენს კომპიუტერზე არის <span id='wrongSystemTimeWithoutReference_systemDate'/>. ხარვეზის აღმოსაფხვრელად, გაასწორეთ სისტემის დრო და თარიღი.</p>">
 
 <!ENTITY certerror.pagetitle1  "დაუცველი კავშირი">
+<!ENTITY certerror.pagetitle2  "გაფრთხილება: სახიფათოა უსაფრთხოების მხრივ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ეს საიტი იყენებს HTTP
 Strict Transport Security (HSTS) შეერთებას, რომ &brandShortName; მხოლოდ დაცულად
 დაუკავშირდეს. ამის გამო, შეუძლებელია მოცემული სერტიფიკატისთვის გამონაკლისის 
 დაშვება.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> საიტს გააჩნია უსაფრთხოების დებულება სახელად HTTP Strict Transport Security (HSTS), რაც ნიშნავს, რომ &brandShortName; მას მხოლოდ უსაფრთხო შეერთებით შეიძლება დაუკავშირდეს. თქვენ ვერ შეძლებთ გამონაკლისის დაშვებას ამ საიტის მოსანახულებლად.">
 <!ENTITY certerror.copyToClipboard.label "ტექსტის ბუფერში დაკოპირება">
 
 <!ENTITY inadequateSecurityError.title "კავშირი დაუცველია">
