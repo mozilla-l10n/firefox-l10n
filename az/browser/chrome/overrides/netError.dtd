@@ -10,6 +10,8 @@
 <!ENTITY returnToPreviousPage.label "Geri Get">
 <!ENTITY advanced.label "Təkmilləşmiş">
 
+<!ENTITY continue.label "Davam et">
+
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Əlaqə cəhdi uğursuz oldu">
@@ -90,10 +92,16 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Açmaq istədiyiniz səhifə göstərilə bilmir, çünki alınan məlumatların doğruluğu təsdiqlənəmədi.</li> <li>Zəhmət olmasa sayt sahibləri ilə əlaqə saxlayın və bu xətadan xəbərdar edin.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Bağlantınız qorumalı deyil">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> sahibi web saytı düzgün quraşdırmayıb. Məlumatlarınızın oğurlanmasının qarşısın almaq üçün &brandShortName; bu web sayta qoşulmadı.">
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>Sayt müvəqqəti olaraq qapalı ya da çox məşğul ola bilər. Bir az gözləyib təzədən yoxlayın.</li> <li>Heç bir səhifə açılmırsa, kompüterinizin internet bağlantısını yoxlayın.</li> <li>Əgər kompüteriniz ya da şəbəkəniz Firewall və ya proxy ilə qorunursa, &brandShortName; proqramının internetə bağlanma icazəsinin olduğuna əmin olun.</li> </ul>">
 
