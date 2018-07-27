@@ -515,3 +515,5 @@
 <!ENTITY pip_play_button_description "Riprendi riproduzione">
 <!ENTITY pip_pause_button_title "Pausa">
 <!ENTITY pip_pause_button_description "Metti in pausa riproduzione">
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Georilevazione di &vendorShortName;">
