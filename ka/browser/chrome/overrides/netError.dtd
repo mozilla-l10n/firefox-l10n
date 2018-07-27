@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "გვერდის ჩატვირთვის შეცდომა">
 <!ENTITY retry.label "სცადეთ ხელახლა">
 <!ENTITY returnToPreviousPage.label "უკან დაბრუნება">
+<!ENTITY returnToPreviousPage1.label "უკან დაბრუნება (სასურველია)">
 <!ENTITY advanced.label "ვრცლად">
+
+<!ENTITY continue.label "გაგრძელება">
 
 <!-- Specific error messages -->
 
@@ -144,10 +147,17 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "კავშირი დაუცველია">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "გაფრთხილება: სახიფათოა უსაფრთხოების მხრივ">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/>-ის მფლობელს ვებსაიტი არასწორად აქვს გამართული.  თქვენი ინფორმაციის მოპარვისგან დაცვის მიზნით, &brandShortName; ამ საიტს არ დაუკავშირდება.">
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "
 <ul>
