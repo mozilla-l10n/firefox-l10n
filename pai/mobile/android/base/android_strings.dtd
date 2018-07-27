@@ -10,6 +10,7 @@
 <!ENTITY firstrun_privacy_subtext "Sal amchu kos sal jabchu tpaay kŕbo chapayt kjkechyiib kyoha paytum ŕ´am may salm´am ñum amum ñyak ñmwirum ñukwewuliiy nmaktem.">
 <!ENTITY firstrun_panel_title_customize "Wii jaan">
 <!ENTITY firstrun_customize_message "&brandShortName; ha mwiiy majanu.">
+<!ENTITY firstrun_customize_subtext "Chwiham mtyeeb mwiiy majanu. Chapyt kjabha tket, chapyt t´t orrum chwichyiib sal ukjaab o chapyt jkaay myok maa chmwiwu chuwuha ŕpoobhikyawa.">
 <!ENTITY firstrun_bookmarks_title "Chkjkech">
 <!ENTITY firstrun_bookmarks_message "Chapayt janmirabhay, jibok yok ñwak tuubkajanuhak yoyik">
 <!ENTITY firstrun_bookmarks_subtext "Chapayt ñmŕmeek ch\&apos; chkwawuhak ee chkjkeech yakuhak yoom myok.">
@@ -68,6 +69,13 @@
 <!ENTITY  crash_restart_label "&brandShortName;namaan">
 
 <!ENTITY url_bar_default_text2 "ŕmee tñur paa eemch solch">
+
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
 
 <!ENTITY bookmark "ŕkirchu">
 <!ENTITY bookmark_remove "ŕkirchu ŕmarch">
@@ -183,6 +191,7 @@
 <!ENTITY pref_category_accessibility_summary2 "Tñurch b\&apos; obu, paa kwaawu jabu">
 <!ENTITY pref_category_privacy_short "Jabchu tpaay">
 <!ENTITY pref_category_privacy_summary4 "Chŕmeechu, trchech namanch, chapayt yoch">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Chapayt chkwiibch, &brandShortName; ham nyaam, tkweek chknawch">
 <!ENTITY pref_category_datareporting "Chaoayt yooch">
 <!ENTITY pref_category_logins "Chnamanchu">
@@ -437,6 +446,10 @@ chab mtñur">
 <!ENTITY datareporting_crashreporter_title_short "Ñ\&apos; wuoarum k\&apos; uch">
 <!ENTITY datareporting_wifi_title2 "Trchech chu &vendorShortName; chŕmeechu">
 <!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; mubtaar mat mŕmee! Ñmyon Wi-Fi mkwim dispositiiv mwihaya.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -877,3 +890,6 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Jabchu namaan ch hal mchmi">
 <!ENTITY pwa_continue_to_website "Web amchu hal am nkyucha">
 <!ENTITY pwa_onboarding_sumo "Amchu yak yoya sal mchmii kyaw yuk jabchuhal, wamyiib mjab hikyawa jabchu jan muliyuka.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
