@@ -284,7 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Скриване на страничната лента с отметки">
 <!ENTITY searchBookmarks.label              "Търсене в отметките">
 <!ENTITY bookmarkingTools.label             "Инструменти за отметки">
-<!ENTITY addBookmarksMenu.label             "Добавяне на менюто за отметки към лентата с инструменти">
+<!ENTITY addBookmarksMenu.label             "Добавяне на меню Отметки към лентата с инструменти">
 <!ENTITY removeBookmarksMenu.label          "Премахване на меню Oтметки от лентата с инструменти">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
