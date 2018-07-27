@@ -18,11 +18,15 @@
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
+<!ENTITY helpKeyboardShortcuts.label     "Shortcut papeun thép">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
+<!ENTITY helpSafeMode.label       "Peu udép keulayi ngön beu lön add-on…">
 <!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Peu udép keulayi ngön beu udép add-on">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
+<!ENTITY helpTroubleshootingInfo.label      "Informasi Peubereh Masalah">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY helpFeedbackPage.accesskey  "S">
