@@ -745,8 +745,8 @@ collection-health-report =
 collection-health-report-link = Læs mere
 
 collection-studies =
-    .label = Tillad at { -brand-short-name } installerer og afvikler studier
-collection-studies-link = Vis { -brand-short-name }-studier
+    .label = Tillad at { -brand-short-name } installerer og afvikler undersøgelser
+collection-studies-link = Vis { -brand-short-name }-undersøgelser
 
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
