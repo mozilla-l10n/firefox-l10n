@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "页面载入出错">
 <!ENTITY retry.label "重试">
 <!ENTITY returnToPreviousPage.label "后退">
+<!ENTITY returnToPreviousPage1.label "返回上一页（推荐）">
 <!ENTITY advanced.label "高级">
+
+<!ENTITY continue.label "继续">
 
 <!-- Specific error messages -->
 
@@ -109,10 +112,30 @@
 </ul>">
 
 <!ENTITY certerror.longpagetitle1 "您的连接并不安全">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "警告：面临潜在的安全风险">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> 的管理员没有正确配置好此网站。为避免您的信息失窃，&brandShortName; 并未与此网站建立连接。">
+
+<!ENTITY certerror.introPara1 "&brandShortName; 检测到潜在的安全威胁并没有继续访问 <span class='hostname'/> 。若您访问此网站，攻击者可能会尝试窃取您的密码，电子邮件或信用卡等信息。">
+
+<!ENTITY certerror.expiredCert.secondPara "这个问题很可能是因为您的计算机时钟被设置为错误的时间，这会阻碍＆brandShortName; 的安全连接。">
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "您可以做什么？">
+
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>这个问题很可能与网站有关，您无法解决。</p>
+<p>如果您使用的是公司网络或在使用防病毒软件，则可以联系技术支持寻求帮助。您也可以通知网站管理员该问题。</p>
+">
+
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
+<p>您的计算机时钟设置为 <span id='wrongSystemTime_systemDate'/>。请确保您的计算机在系统设置中已设置为正确的日期，时间和时区，然后刷新 <span class='hostname'/>。</p>
+<p>如果您的时钟已设置为正确的时间，则可能是网站配置错误，您无法解决此问题。您可以通知网站管理员该问题。</p>">
+
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>这个问题很可能与网站有关，您无法解决。您可以通知网站管理员该问题。</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>此站点暂时无法使用或者太过忙碌。请过几分钟后再试。</li> 
@@ -147,7 +170,9 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>您的系统时间似乎不正确，因此 &brandShortName; 无法与 <span id='wrongSystemTimeWithoutReference_URL'/> 建立安全连接。</p> <p>您的计算机时间目前被设置为 <span id='wrongSystemTimeWithoutReference_systemDate'/>。请更正您的日期和时间设置来修复此问题。</p>">
 
 <!ENTITY certerror.pagetitle1  "不安全的连接">
+<!ENTITY certerror.pagetitle2  "警告：面临潜在的安全风险">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此网站采用了 HTTP 严格传输安全（HSTS）机制，要求 &brandShortName; 只能与其建立安全连接，也因此不能将此证书加入例外列表。">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> 启用了被称为 HTTP 严格传输安全（HSTS）的安全策略，这意味着 &brandShortName; 只能安全地与其连接。您无法添加例外以访问此站点。">
 <!ENTITY certerror.copyToClipboard.label "复制文本到剪贴板">
 
 <!ENTITY inadequateSecurityError.title "您的连接不安全">
