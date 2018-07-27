@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "Problem med lasting av sida">
 <!ENTITY retry.label "Prøv på nytt">
 <!ENTITY returnToPreviousPage.label "Gå tilbake">
+<!ENTITY returnToPreviousPage1.label "Gå tilbake (Tilrådd)">
 <!ENTITY advanced.label "Avansert">
+
+<!ENTITY continue.label "Fortset">
 
 <!-- Specific error messages -->
 
@@ -90,10 +93,17 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Sida du prøver å opne kan ikkje visast fordi det ikkje kan stadfestast at overførte data er autentiske.</li> <li>Kontakt nettstadeigarane og informer om problemet.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Tilkoplinga di er ikkje trygg">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Eigaren av <span class='hostname'/> har konfigurert nettstaden sin feil.  For å verne informasjonen din frå å bli stolen, har &brandShortName; ikkje kopla seg til denne nettstaden.">
+
+
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Kva kan du gjere med det?">
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>Nettstaden kan vere mellombels utilgjengeleg eller oppteken. Prøv på nytt om ei lita stund.</li> <li>Dersom ingen sider vert lasta, kontroller at nettverkstilkoplinga til datamaskina er i orden.</li> <li>Dersom datamaskina er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruke nettet.</li> </ul>">
 
