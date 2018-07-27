@@ -107,11 +107,22 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "O &brandShortName; detetou uma potencial ameaça de segurança e não continuou para <span class='hostname'/>. Se visitar este site, atacantes podem tentar furtar informação como as suas palavras-passe, emails, ou cartões de crédito.">
 
+<!ENTITY certerror.expiredCert.secondPara "Este problema é mais provável porque o seu relógio do computador está definido para a hora errada, o que podem impedir o &brandShortName; de se ligar em segurança.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "O que pode fazer quanto a isto?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>O problema é mais provável ser com o website, e não há nada que possa fazer para o resolver.</p>
+<p>Se está numa rede empresarial ou a utilizar software de anti-vírus, pode entrar em contacto com as equipas de apoio para assistência. Pode também notificar o administrador do website acerca do problema.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
+<p>O seu relógio do computador está definido para <span id='wrongSystemTime_systemDate'/>. Tenha a certeza que o seu computador está definido para a data, hora, e fuso horário corretos nas definições do sistema, e depois atualize <span class='hostname'/>.</p>
+<p>Se o seu relógio já está definido para a hora correta, o website provavelmente está mal configurado, e não há nada que possa fazer para resolver o problema. Pode notificar o administrador do website acerca do problema.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>O problema é mais provável ser com o website, e não há nada que possa fazer para o resolver. Pode notificar o administrador do website acerca do problema.</p>">
 
 <!ENTITY sharedLongDesc "<ul> <li>O site pode estar temporariamente indisponível ou demasiado ocupado. Tente novamente dentro de alguns momentos.</li> <li>Se não conseguir carregar quaisquer páginas, verifique a ligação do seu computador à rede.</li> <li>Se o seu computador ou rede estiverem protegidos por uma firewall ou proxy, certifique-se de que o &brandShortName; tem permissão para aceder à Web.</li> </ul>">
 
