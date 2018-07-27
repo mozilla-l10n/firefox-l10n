@@ -1047,7 +1047,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "重新啟動以更新 &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "您的「新分頁」已經變更。">
-<!ENTITY newTabControlled.keepButton.label "保留不變">
+<!ENTITY newTabControlled.keepButton.label "保留變更">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.disableButton.label "停用擴充套件">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
