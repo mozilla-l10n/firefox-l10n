@@ -87,6 +87,7 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Strona, kotruž chceće sej wobhladać, njeda so pokazać, dokelž awtentiskosć přijatych datow njeda so přepruwować.</li> <li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Waš zwisk wěsty njeje">
+<!ENTITY certerror.longpagetitle2 "Warnowanje: Potencielne wěstotne riziko prědku">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -94,9 +95,11 @@ was trying to connect. -->
 
 
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Što móžeće přećiwo tomu činić?">
 
 
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Najskerje websydło problem zawinuje, a njeje ničo, štož móžeće činić, zo byšće jón rozrisał. Móžeće administratora websydła wo problemje informować.</p>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Sydło móhło nachwilu k dispoziciji njestać abo přećežene być. Spytajcé za mało wokomikow hišće raz.</li> <li>Jeli njemóžeće někotre strony začitać, přepruwujće zwisk wašeje ličakoweje syće.</li> <li>Jeli waš ličak abo syć so z wohnjowej murju abo proksy škita, zawěsćće, zo &brandShortName; smě na Web přistup měć.</li> </ul>">
 
@@ -127,6 +130,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; njeje z <span id='wrongSystemTimeWithoutReference_URL'/> zwjazał, dokelž zda so, zo časnik wašeho ličaka wopačny čas pokazuje a to zadźěwa wěstemu zwiskej.</p> <p>Waš ličak je so na <span id='wrongSystemTimeWithoutReference_systemDate'/> stajił. Zo byšće tutón problem rozrisał, změńće swoje datumowe a časowe nastajenja, zo byšće korektny čas nastajił.</p>">
 
 <!ENTITY certerror.pagetitle1  "Njewěsty zwisk">
+<!ENTITY certerror.pagetitle2  "Warnowanje: Potencielne wěstotne riziko prědku">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tute sydło wužiwa HTTP Strict Transport Security (HSTS), zo by podało, zo &brandShortName; ma jenož wěsće z nim zwjazać. Potajkim njeje móžno, wuwzaće za tutón certifikat přidać.">
 <!ENTITY certerror.copyToClipboard.label "Tekst do mjezyskłada kopěrować">
 
