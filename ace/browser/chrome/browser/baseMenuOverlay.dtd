@@ -29,15 +29,21 @@
 <!ENTITY helpTroubleshootingInfo.label      "Informasi Peubereh Masalah">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
+<!ENTITY helpFeedbackPage.label      "Kirém Feedback…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
+<!ENTITY helpShowTour2.label            "Jak wét wét &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "o">
 
+<!ENTITY preferencesCmdMac.label        "Peuatô…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
+<!ENTITY servicesMenuMac.label          "Peuhirö">
 
+<!ENTITY hideThisAppCmdMac2.label       "Sôm &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
+<!ENTITY hideOtherAppsCmdMac.label      "Sôm nyang laén">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Peuleumah Bandum">
