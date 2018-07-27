@@ -316,6 +316,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ვებშემმუშავება">
 <!ENTITY webDeveloperMenu.accesskey   "ვ">
 
+<!ENTITY devtoolsRecordExecution.label "მოქმედების ჩაწერა">
+<!ENTITY devtoolsSaveRecording.label "ჩანაწერის შენახვა">
+<!ENTITY devtoolsReplayExecution.label "მოქმედების გამეორება">
+
 <!ENTITY inspectContextMenu.label     "ელემენტზე დაკვირვება">
 <!ENTITY inspectContextMenu.accesskey "ტ">
 
@@ -631,6 +635,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "ამ მოდულის დამალვა">
 <!ENTITY hidePluginCmd.accesskey      "დ">
 <!ENTITY copyLinkCmd.label            "ბმულის დაკოპირება">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "უ">
 <!ENTITY copyImageCmd.label           "სურათის მისამართის დაკოპირება">
 <!ENTITY copyImageCmd.accesskey       "კ">
@@ -641,6 +648,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "ხმოვანი ფაილის მისამართის დაკოპირება">
 <!ENTITY copyAudioURLCmd.accesskey    "კ">
 <!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის დაკოპირება">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "ე">
 <!ENTITY thisFrameMenu.label              "ჩარჩო">
 <!ENTITY thisFrameMenu.accesskey          "ჩ">

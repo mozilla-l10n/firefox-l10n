@@ -89,6 +89,7 @@ permissions-exceptions-autoplay-media-window =
     .title = ნებადართული საიტები – თვითგაშვება
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = შეგიძლიათ მიუთითოთ საიტები, რომლებზე არსებული ხმოვანი ან ვიდეოფაილების თვითგაშვება ნებადართული იქნება. აკრიფეთ საიტის ზუსტი მისამართი და დააწკაპეთ დაშვებას.
+permissions-exceptions-autoplay-media-desc2 = შეგიძლიათ მიუთითოთ საიტები, რომლებზეც ყოველთის ან არასდროს იქნება ნებადართული ხმოვანი ფაილების თვითგაშვება. აკრიფეთ საიტის ზუსტი მისამართი და დააწკაპეთ აკრძალვას ან დაშვებას.
 
 ## Site Permissions - Notifications
 
