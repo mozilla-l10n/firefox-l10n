@@ -953,13 +953,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "H">
 
 <!ENTITY trackingProtection.tooltip "Uddit ɓurɗine ndeenka rewindo">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; ina faddii huunde e banngeeji ngoo hello baawɗi rewindaade banngagol maa.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; yiytii geɗe baawɗe rewindaade banngagol maa.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; yiytii geɗe baawɗe rewindaade banngagol maa. Ko a ñifɗo ndeenka ndee lowre.">
+<!ENTITY trackingProtection.notDetected5 "Alaa geɗel rewindo yiytaa e ngoo hello.">
+<!ENTITY trackingProtection.notDetectedException "Alaa geɗel rewindo yiytaa e ngoo hello. Ko a ñifɗo ndeenka ndee lowre.">
 
+<!ENTITY trackingProtection.reloadRequired2 "A softinii ndeenka rewindo. Loowto hello ngoo hello ngam faddaade dewindiiɗe ɗee kala.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Ñif wonande ndee lowre">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Ñif wonande ndee rogere">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Softin wonande ndee lowre">
+<!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.reload2.label "Loowto hello">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Hollu Fof">
 <!ENTITY pluginNotification.showAll.accesskey "H">
@@ -1038,6 +1052,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Daaƴ Timmitol">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.header.message "Jaɓɓorgo maa wayliima.">
+<!ENTITY homepageControlled.keepButton.label "Jaɓ bayle">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "Ñif jokkel">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
 
 <!ENTITY pageActionButton.tooltip "Baɗe hello">
