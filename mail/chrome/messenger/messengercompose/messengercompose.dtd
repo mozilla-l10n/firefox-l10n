@@ -359,6 +359,9 @@
 <!ENTITY customizeFromAddress.label "Изпращане от друго име…">
 <!ENTITY customizeFromAddress.accesskey "а">
 
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Текс на писмото">
+
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Език за проверка на правописа">
 <!ENTITY encodingStatusPanel.tooltip "Кодиране на текста">
