@@ -514,7 +514,7 @@ forms-master-pw-use =
     .label = 使用主控密碼
     .accesskey = U
 forms-master-pw-change =
-    .label = 變更主控密碼…
+    .label = 變更主控密碼
     .accesskey = M
 
 ## Privacy Section - History
