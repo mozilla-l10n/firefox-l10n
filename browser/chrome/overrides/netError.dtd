@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "Zmylk při čitanju strony">
 <!ENTITY retry.label "Hišće raz spytać">
 <!ENTITY returnToPreviousPage.label "Wróćo hić">
+<!ENTITY returnToPreviousPage1.label "Wróćo (doporučeny)">
 <!ENTITY advanced.label "Rozšěrjene">
+
+<!ENTITY continue.label "Dale">
 
 <!-- Specific error messages -->
 
@@ -84,10 +87,16 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Strona, kotruž chceće sej wobhladać, njeda so pokazać, dokelž awtentiskosć přijatych datow njeda so přepruwować.</li> <li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Waš zwisk wěsty njeje">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Mějićel <span class='hostname'/> je swoje websydło wopak konfigurował. Zo byšće swoje informacije přećiwo tomu škitał, zo so kradnu, njeje &brandShortName; z tutym websydłom zwjazał.">
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>Sydło móhło nachwilu k dispoziciji njestać abo přećežene być. Spytajcé za mało wokomikow hišće raz.</li> <li>Jeli njemóžeće někotre strony začitać, přepruwujće zwisk wašeje ličakoweje syće.</li> <li>Jeli waš ličak abo syć so z wohnjowej murju abo proksy škita, zawěsćće, zo &brandShortName; smě na Web přistup měć.</li> </ul>">
 
