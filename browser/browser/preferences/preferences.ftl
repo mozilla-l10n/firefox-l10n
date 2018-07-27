@@ -328,7 +328,7 @@ home-new-windows-tabs-description2 = Изберете какво да вижда
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = Началната страница и нови прозорци
+home-homepage-mode-label = Начална страница и нови прозорци
 home-newtabs-mode-label = Нов раздел
 home-restore-defaults =
     .label = Стандартни настройки
