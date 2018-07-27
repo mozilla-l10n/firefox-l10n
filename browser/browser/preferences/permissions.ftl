@@ -89,6 +89,7 @@ permissions-exceptions-autoplay-media-window =
     .title = Dowolene sydła - awtomatiske wothraće
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Móžeće podać, kotre websydła smědźa medijowe elementy awtomatisce wothrać. Zapodajće eksaktnu adresu sydła, kotremuž chceće to dowolić a klikńće potom na Dowolić.
+permissions-exceptions-autoplay-media-desc2 = Móžeće podać, kotre websydła přeco smědźa abo ženje njesmědźa medije awtomatisce ze zynkom wothrać. Zapodajće adresu sydła, kotrež chceće rjadować a klikńće potom na Blokować abo Dowolić.
 
 ## Site Permissions - Notifications
 
