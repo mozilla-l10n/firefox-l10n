@@ -89,6 +89,7 @@ permissions-exceptions-autoplay-media-window =
     .title = Websites autorisadas - Reproducziun automatica
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Ti pos definir per mintga website schebain ella dastga far ir automaticamain elements da multimedia. Tippa l'adressa exacta da la website e clicca lura sin «Permetter».
+permissions-exceptions-autoplay-media-desc2 = Ti pos definir a tge websites che ti permettas adina u mai da reproducir automaticamain multimedia cun tun. Inditgescha l'adressa exacta da la website che ti vuls administrar e clicca lura sin «Bloccar» u «Permetter».
 
 ## Site Permissions - Notifications
 
