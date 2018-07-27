@@ -153,8 +153,11 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/>-ის მფლობელს ვებსაიტი არასწორად აქვს გამართული.  თქვენი ინფორმაციის მოპარვისგან დაცვის მიზნით, &brandShortName; ამ საიტს არ დაუკავშირდება.">
 
+<!ENTITY certerror.introPara1 "&brandShortName;-მა აღმოაჩინა მოსალოდნელი საფრთხე და შეწყვიტა <span class='hostname'/> საიტის ჩატვირთვა. თუ ამ საიტს ეწვეოდით, შემტევებს შეეძლებოდათ თქვენი პირადი მონაცემების ხელყოფა, მათ შორის პაროლების, ელფოსტის მისამართების ან საკრედიტო ბარათების.">
 
+<!ENTITY certerror.expiredCert.secondPara "ამ ხარვეზს უმეტესად იწვევს კომპიუტერის საათის არევა, რომელიც ხელს უშლის &brandShortName;-ს დაუკავშირდეს საიტებს უსაფრთხოდ.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "რისი გაკეთება შეგიძლიათ?">
 
 
 
