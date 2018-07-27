@@ -18,6 +18,10 @@
 <!ENTITY accountTypeNews.label "Дискусионна група">
 <!ENTITY accountTypeNews.accesskey "Д">
 
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.label "Местна поща Unix (Movemail)">
+<!ENTITY accountTypeMovemail.accesskey "с">
+
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Идентичност">
