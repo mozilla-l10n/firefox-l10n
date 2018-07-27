@@ -15,9 +15,9 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-<!ENTITY NameField1.id                  "FirstName">
+<!ENTITY NameField1.id                  "LastName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
-<!ENTITY NameField2.id                  "LastName">
+<!ENTITY NameField2.id                  "FirstName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
@@ -134,4 +134,3 @@
 <!ENTITY PhotoURL.placeholder           "貼上或輸入相片的網址">
 <!ENTITY UpdatePhoto.label              "更新">
 <!ENTITY UpdatePhoto.accesskey          "U">
-
