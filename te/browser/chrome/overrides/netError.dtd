@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "పేజీని లోడుచేయడంలో సమస్య">
 <!ENTITY retry.label "మళ్ళీ ప్రయత్నించు">
 <!ENTITY returnToPreviousPage.label "వెనక్కి వెళ్ళు">
+<!ENTITY returnToPreviousPage1.label "వెనక్కి వెళ్ళు (సిఫారసుచేయబడింది)">
 <!ENTITY advanced.label "ఉన్నతం">
+
+<!ENTITY continue.label "కొనసాగించు">
 
 <!-- Specific error messages -->
 
@@ -124,10 +127,16 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "మీ అనుసంధానం సురక్షితమైనది కాదు">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> యజమాని వారి వెబ్‌సైటును సరిగా స్వరూపించలేదు.  మీ సమాచారం దొంగిలించబడకుండా రక్షించడానికి, &brandShortName; ఈ వెబ్‌సైటుకి అనుసంధానించలేదు.">
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "
 <ul>
