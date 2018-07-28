@@ -118,7 +118,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> 的管理员没有正确配置好此网站。为避免您的信息失窃，&brandShortName; 并未与此网站建立连接。">
 
-<!ENTITY certerror.introPara1 "&brandShortName; 检测到潜在的安全威胁并没有继续访问 <span class='hostname'/> 。若您访问此网站，攻击者可能会尝试窃取您的密码，电子邮件或信用卡等信息。">
+<!ENTITY certerror.introPara1 "&brandShortName; 检测到潜在的安全威胁并没有继续访问 <span class='hostname'/>。若您访问此网站，攻击者可能会尝试窃取您的密码，电子邮件或信用卡等信息。">
 
 <!ENTITY certerror.expiredCert.secondPara "这个问题很可能是因为您的计算机时钟被设置为错误的时间，这会阻碍 &brandShortName; 的安全连接。">
 
