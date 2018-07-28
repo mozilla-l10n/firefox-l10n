@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "Problemas al cargar la página">
 <!ENTITY retry.label "Volver a intentarlo">
 <!ENTITY returnToPreviousPage.label "Retroceder">
+<!ENTITY returnToPreviousPage1.label "Retroceder (recomendado)">
 <!ENTITY advanced.label "Avanzado">
+
+<!ENTITY continue.label "Continuar">
 
 <!-- Specific error messages -->
 
@@ -116,10 +119,17 @@
 </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Tu conexión no es segura">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Advertencia: Riesgo potencial de seguridad a continuación">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "El dueño de <span class='hostname'/> ha configurado su sitio web de forma incorrecta. Para proteger tu información de ser robada, &brandShortName; no se ha conectado a este sitio.">
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul>
   <li>El sitio está temporalmente no disponible o muy ocupado. Vuelve a intentarlo en un rato.</li>
@@ -154,6 +164,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; no se conectó a <span id='wrongSystemTimeWithoutReference_URL'/> porque al parecer el reloj de tu computador no muestra la hora correcta y esto no permite una conexión segura.</p> <p>Tu computador está ajustado a las <span id='wrongSystemTimeWithoutReference_systemDate'/>. Para arreglar este problema, cambia tus ajustes de fecha y hora para que reflejen la realidad.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conexión insegura">
+<!ENTITY certerror.pagetitle2  "Advertencia: Riesgo potencial de seguridad a continuación">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa HTTP Strict Transport Security (HSTS) para especificar que &brandShortName; solo se conecte a él de forma segura. Como resultado, no es posible añadir una excepción para este certificado.">
 <!ENTITY certerror.copyToClipboard.label "Copiar texto al portapapeles">
 
