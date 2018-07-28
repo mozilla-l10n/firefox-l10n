@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "K'o k'ayewal toq nitikirisäx ri ruxaq k'amaya'l">
 <!ENTITY retry.label "Titojtob'ëx chik">
 <!ENTITY returnToPreviousPage.label "Titzolin">
+<!ENTITY returnToPreviousPage1.label "Titzolïx (Chilab'en)">
 <!ENTITY advanced.label "Q'axinäq">
+
+<!ENTITY continue.label "Titikïr chik el">
 
 <!-- Specific error messages -->
 
@@ -88,10 +91,18 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Man tikirel ta nik'ut pe ri ruxaq tajin natojtob'ej najäq ruma man tikirel ta nijikib'äx nitz'et chi e qitzij ri taq tzij.</li> <li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Itzel ri awokem">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Rutzijol K'ayewal: Nimaläj Ruk'ayewal Jikomal Petenäq">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Ri rajaw re <span class='hostname'/> man ütz ta xunuk'ub'ej ri ruxaq k'amaya'l.  Richin natob'ej ri awetamab'al richin man teleq'äx, &brandShortName; man xatrokisaj ta pa re ruxaq k'amaya'l re'.">
+
+<!ENTITY certerror.introPara1 "&brandShortName; xriïl jun nimaläj ruk'ayewal jikomal ruma ri' xchame' <span class='hostname'/>. We natz'ët re ruxaq re', rik'in jub'a' ri ojqanela' nikeleq'aj awetamab'al achi'el ri ewan taq atzij, taq ataqoya'l o ri ch'utit'im apwaq .">
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -131,6 +142,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; man xok ta pa <span id='wrongSystemTimeWithoutReference_URL'/> man tikirel ta ruma chi ri ch'utiq'ijub'äl nuk'üt pe jun sachoj ramaj, ri nub'än chi man ütz ta ri okem.</p> <p>Ri akematz'ib' nujikib'a' <span id='wrongSystemTimeWithoutReference_systemDate'/>. Richin nisol re k'ayewal re', tajala' ri runuk'ulem q'ijul chuqa' ri ramaj richin nuk'äm ri' rik'in ri ütz ramaj.</p>">
 
 <!ENTITY certerror.pagetitle1  "Man ütz ta chi okem">
+<!ENTITY certerror.pagetitle2  "Rutzijol K'ayewal: Nimaläj Ruk'ayewal Jikomal Petenäq">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Re ruxaq k'amaya'l re' kan nrokisaj Nïm Ruchajinïk Ruk'wayöl HTTP (HSTS) richin nuya' retal chi &brandShortName; xa xe tokrik'in rija' pa ütz rub'anikil. Rin nib'e'el chi man nitikïr ta nutz'aqtisaj jun man relik ta chi re reruwujil b'i'aj re'.">
 <!ENTITY certerror.copyToClipboard.label "Tiwachib'ëx ri rucholajem tzij pa molwuj">
 
