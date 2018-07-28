@@ -89,6 +89,7 @@ permissions-exceptions-autoplay-media-window =
     .title = مواقع الوِب المسموح لها - التشغيل التلقائي
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = يمكنك تحديد المواقع المسموح لها تشغيل عناصر الوسائط تلقائيا. اكتب عنوان الموقع الذي تريد السماح له ثم انقر ”اسمح“.
+permissions-exceptions-autoplay-media-desc2 = يمكنك تحديد أي مواقع يسمح لها دائمًا أو لا يسمح أبدًا بتشغيل تشغيل الوسائط المحتوية على صوت تلقائيا.  اكتب عنوان الموقع الذي تريد إدارته وانقر احجب، أو اسمح.
 
 ## Site Permissions - Notifications
 

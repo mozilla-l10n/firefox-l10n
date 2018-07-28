@@ -10,6 +10,8 @@
 <!ENTITY returnToPreviousPage.label "عُد للخلف">
 <!ENTITY advanced.label "متقدم">
 
+<!ENTITY continue.label "تابِع">
+
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "تعذر الاتصال">
@@ -86,10 +88,19 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>لا يمكن عرض الصفحة التي تحاول زيارتها لعدم إمكانية الاستيثاق من البيانات المستقبلة.</li> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "اتّصالك غير آمن">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "تحذير: أمامك خطر أمني محتمل">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "لم يضبط مالك <span class='hostname'/> موقعه عل نحو سليم.  لحماية معلوماتك من السرقة، لم يتصل &brandShortName; بهذا الموقع.">
+
+<!ENTITY certerror.introPara1 "اكتشف &brandShortName; خطرًا أمنيًا محتملًا ولم يواصل نحو <span class='hostname'/>. يستطيع المهاجمون محاولة سرقة معلوماتك مثل كلمات السر وعناوين البريد وبطاقات الائتمان إن دخلت الموقع.">
+
+<!ENTITY certerror.expiredCert.secondPara "أغلب الظن أن سبب هذه المشكلة هو أن ساعة الحاسوب ليست صحيحة، ما يمنع &brandShortName; من الاتصال كما ينبغي.">
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>قد يكون الموقع متوقفًا مؤقتًا أو مشغولا جدًا. حاول ثانية بعد عدّة دقائق.</li> <li>إذا كنت غير قادر على تحميل أي صفحة، افحص اتصال الحاسوب بالشبكة.</li> <li>إذا كان حاسوبك محميًا بجدار ناري أو وسيط، تأكد من السماح ل‍&brandShortName; بالنفاذ إلى الوِب.</li> </ul>">
 
@@ -120,6 +131,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>تعذّر على &brandShortName; الاتصال مع <span id='wrongSystemTimeWithoutReference_URL'/> لأن ساعة حاسوبك تعطي وقتًا غير صحيح و هذا يمنع الاتصال الآمن.</p><p>حاسوبك مضبوط على <span id='wrongSystemTimeWithoutReference_systemDate'/>. لإصلاح هذه المشكلة سيكون عليك تغيير إعدادات الوقت و التاريخ لتطابق الوقت الحالي.</p>">
 
 <!ENTITY certerror.pagetitle1  "اتصال غير آمن">
+<!ENTITY certerror.pagetitle2  "تحذير: أمامك خطر أمني محتمل">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "يستخدم هذا الموقع سياسة النقل الصارمة (HSTS) تفرض على &brandShortName; ألا يتصل به إلا بأمان. بناء على هذا فقد تعذّر إضافة استثناء لهذه الشهادة.">
 <!ENTITY certerror.copyToClipboard.label "انسخ النص إلى الحافظة">
 
