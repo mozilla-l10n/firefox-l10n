@@ -106,7 +106,9 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
 <p>Rik'in jub'a' ja ri ajk'amaya'l ruxaq k'o ruk'ayewal, ruma ri' majun yatikïr nab'än.</p><p>We at k'o pa jun to'öy runimamoloj k'amab'ey, o nawokisaj jun rukema' chapöy chikopil, yatikïr yatzijon kik'in ri to'onel kimoloj richin yatkito'. Chuqa' yatikïr naya' rutzijol chi re ri ajrunuk'samajel ajk'amaya'l ruxaq chi rij ri k'ayewal.</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>Ri ruch'utiq'ijub'al akematz'ib' b'anon runuk'ulem richin <span id='wrongSystemTime_systemDate'/>. Tanik'oj chi ri akematz'ib' b'anon runuk'ulem rik'in ri ütz q'ijul, ramaj chuqa' ruk'ojlib'al ramajil k'o pa runuk'ulem aq'inoj, k'a ri' tak'exa'<span class='hostname'/>.</p><p>We ütz chik runuk'ulem ri ach'utiq'ijub'al rik'in jub'a' ja ri ajk'amaya'l ruxaq man ütz ta runuk'ulem b'anon, ruma ri' majun yatikïr nab'än rik'in ri k'ayewal. yatikïr naya' rutzijol chi rij ri k'ayewal chi re ri runuk'samajel ajk'amaya'l ruxaq.</p>">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Rik'in jub'a' ja ri ajk'amaya'l ruxaq k'o ruk'ayewal, ruma ri' majun yatikïr nab'än. Yatikïr naya' rutzijol chi re ri ajrunuk'samajel ajk'amaya'l ruxaq chi rij ri k'ayewal.</p>">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -148,6 +150,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle1  "Man ütz ta chi okem">
 <!ENTITY certerror.pagetitle2  "Rutzijol K'ayewal: Nimaläj Ruk'ayewal Jikomal Petenäq">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Re ruxaq k'amaya'l re' kan nrokisaj Nïm Ruchajinïk Ruk'wayöl HTTP (HSTS) richin nuya' retal chi &brandShortName; xa xe tokrik'in rija' pa ütz rub'anikil. Rin nib'e'el chi man nitikïr ta nutz'aqtisaj jun man relik ta chi re reruwujil b'i'aj re'.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span>k'o jun runa'ojil jikomal b'ina'am HTTP Jikïl Ruk'waxik Jikomal (HSTS), ri nuq'ajuj chi ri &brandShortName; xa xe nitikïr nok pa ütz jikomal. Man yatikïr ta natz'aqatisaj jun man relik ta richin natz'ët re ruxaq re'.">
 <!ENTITY certerror.copyToClipboard.label "Tiwachib'ëx ri rucholajem tzij pa molwuj">
 
 <!ENTITY inadequateSecurityError.title "Itzel ri awokem">
