@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "مُبلّغ الانهيار">
 <!ENTITY datareporting_wifi_title2 "خدمات التموضع من &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "ساعد &vendorShortName; في رسم خريطة العالم! شارك بيانات التموضع من واي-فاي والاتصال الهاتفي لتحسين خدماتنا للتموضع الجغرافي.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "خدمات التموضع من &vendorShortName; تعمل">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +893,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "أضِف إلى شاشة البداية">
 <!ENTITY pwa_continue_to_website "تابِع نحو الموقع">
 <!ENTITY pwa_onboarding_sumo "يمكنك إضافة هذا الموقع إلى شاشة البداية لتصل إليه بسرعة وتتصفّحه كأي تطبيق آخر.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "شغّل">
+<!ENTITY pip_play_button_description "استأنف التشغيل">
+<!ENTITY pip_pause_button_title "ألبِث">
+<!ENTITY pip_pause_button_description "ألبِث التشغيل">
