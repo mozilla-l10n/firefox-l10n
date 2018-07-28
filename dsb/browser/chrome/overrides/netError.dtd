@@ -99,8 +99,13 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Co móžośo pśeśiwo tomu cyniś?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Nejskerjej websedło problem zawinujo, a njedajo nic, což móžośo cyniś, aby jen rozwězał.</p>
+<p>Jolic słušaśo k pśedewześowej seśi abo antiwirusowu softwaru wužywaśo, móžośo teamy pomocy wó pódpěru pšosyś. Móžośo teke administratora websedła wó problemje informěrowaś.</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>Zeger wašogo licadła jo na <span id='wrongSystemTime_systemDate'/> stajony. Pśeznańśo se, až su w systemowych nastajenjach wašoho licadła korektny datum, cas a korektnu casowu conu nastajone, a aktualizěrujśo pótom <span class='hostname'/>.</p>
+<p>Je-li waš časniik na korektny čas nastajeny, je najskerje websydło wopak konfigurowane, a njemóžeće ničo činć, zo byšće problem rozrisał. Móžeće administratora websydła wo problemje informować.</p>">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Nejskerjej websedło problem zawinujo, a njedajo nic, což móžośo cyniś, aby jen rozwězał. Móžośo administratora websedła wó problemje informěrowaś.</p>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Sedło njeby mógło nachylu k dispoziciji staś abo by mógło pśeśěžone byś. Wopytajśo za mało wokognuśow hyšći raz.</li> <li>Jolic njamóžośo někotare boki cytaś, pśespytajśo zwisk wašeje licadłoweje seśi.</li> <li>Jolic wašo licadło abo waša seś šćita se z wognjoweju murju abo proksy, zawěsććo, až &brandShortName; ma pšawo na web pśistup měś.</li> </ul>">
 
@@ -131,7 +136,9 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; njejo z <span id='wrongSystemTimeWithoutReference_URL'/> zwězał, dokulaž zda se, až zeger wašogo licadła pokazujo wopacny cas a to zajźujo wěstemu zwiskoju.</p> <p>Wašo licadło jo se na <span id='wrongSystemTimeWithoutReference_systemDate'/> stajił. Aby toś ten problem rozwězał, změńśo swóje datumowe a casowe nastajenja, aby korektny cas nastajił.</p>">
 
 <!ENTITY certerror.pagetitle1  "Njewěsty zwisk">
+<!ENTITY certerror.pagetitle2  "Warnowanje: Potencielne wěstotne riziko prědku">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Toś to sedło wužywa HTTP Strict Transport Security (HSTS), aby pódało, až &brandShortName; ma jano wěsćej z nim zwězaś. Pótakem njejo móžno, wuwześe za toś ten certifikat pśidaś.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ma wěstotne pšawidło z mjenim HTTP Strict Transport Security (HSTS), kótarež wóznamjenijo, až &brandShortName; móžo se jano wěsće zwězaś. Njamóžośo wuwześe pśidaś, aby se toś tomu sydłoju woglědał.">
 <!ENTITY certerror.copyToClipboard.label "Tekst do mjazywótkłada kopěrowaś">
 
 <!ENTITY inadequateSecurityError.title "Waš zwisk njejo wěsty">
