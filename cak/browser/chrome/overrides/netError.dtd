@@ -101,7 +101,10 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "K'o re k'ayewal re' ruma b'anon runuk'ulem ach'utiq'ijul pa jun sachoj ramaj, ri man nuya' ta q'ij chi re ri &brandShortName; ütz nok.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "¿Achike yatikïr nab'än chi rij?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Rik'in jub'a' ja ri ajk'amaya'l ruxaq k'o ruk'ayewal, ruma ri' majun yatikïr nab'än.</p><p>We at k'o pa jun to'öy runimamoloj k'amab'ey, o nawokisaj jun rukema' chapöy chikopil, yatikïr yatzijon kik'in ri to'onel kimoloj richin yatkito'. Chuqa' yatikïr naya' rutzijol chi re ri ajrunuk'samajel ajk'amaya'l ruxaq chi rij ri k'ayewal.</p>">
 
 
 
