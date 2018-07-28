@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "Fel vid sidhämtning">
 <!ENTITY retry.label "Försök igen">
 <!ENTITY returnToPreviousPage.label "Gå bakåt">
+<!ENTITY returnToPreviousPage1.label "Gå tillbaka (rekommenderas)">
 <!ENTITY advanced.label "Avancerat">
+
+<!ENTITY continue.label "Fortsätt">
 
 <!-- Specific error messages -->
 
@@ -90,10 +93,16 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Sidan du försöker se kan inte visas eftersom autenticiteten för mottagen data inte kan verifieras.</li> <li>Kontakta webbplatsens ägare och informera dem om detta problem.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Din anslutning är inte säker">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Ägaren av <span class='hostname'/> har konfigurerat sin webbplats felaktigt.  För att skydda din information från att bli stulen, har &brandShortName; inte anslutit till denna webbplats.">
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>Webbplatsen kan tillfälligt vara nere eller upptagen. Försök igen om en stund.</li> <li>Om du inte kan öppna sidor, kontrollera datorns nätverksanslutning.</li> <li>Om datorn eller nätverket skyddas av en brandvägg eller proxy, kontrollera att &brandShortName; har tillstånd att ansluta till webben.</li> </ul>">
 
