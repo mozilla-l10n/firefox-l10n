@@ -315,6 +315,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Webbutvecklare">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsSaveRecording.label "Spara inspelning">
+
 <!ENTITY inspectContextMenu.label     "Inspektera element">
 <!ENTITY inspectContextMenu.accesskey "e">
 
@@ -630,6 +632,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Dölj insticksmodulen">
 <!ENTITY hidePluginCmd.accesskey      "ö">
 <!ENTITY copyLinkCmd.label            "Kopiera länkadress">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopiera bildadress">
 <!ENTITY copyImageCmd.accesskey       "r">
@@ -640,6 +645,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Kopiera ljudadress">
 <!ENTITY copyAudioURLCmd.accesskey    "r">
 <!ENTITY copyEmailCmd.label           "Kopiera e-postadress">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Denna ram">
 <!ENTITY thisFrameMenu.accesskey          "r">
