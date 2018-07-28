@@ -944,6 +944,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Visi uz ekrāna redzamie logi tiks koplietoti.">
 
 <!ENTITY trackingProtection.on "Izsekošanas aizsardzība: Ieslēgta">
+<!ENTITY trackingProtection.off "Izsekošanas aizsardzība: Izslēgta">
 <!ENTITY trackingProtection.title "Izsekošanas aizsardzība">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; bloķē tās lapas daļas, kas var izsekot jūsu pārlūkošanas aktivitātēm.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Šajā lapā ir elementi, kas var izsekot jūsu aktivitātēm internetā. Jūs esat deaktivējis aizsardzību.">
@@ -961,6 +962,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Aktivēt aizsardzību">
 <!ENTITY trackingProtection.block2.accesskey "b">
 
+<!ENTITY trackingProtection.tooltip "Atvērt izsekošanas aizsardzības iestatījumus">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; bloķē tās lapas daļas, kas var izsekot jūsu pārlūkošanas aktivitātēm.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; atklāja, ka šajā lapā ir elementi, kas var izsekot jūsu aktivitātēm internetā.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; atklāja, ka šajā lapā ir elementi, kas var izsekot jūsu aktivitātēm internetā. Jūs esat deaktivējis aizsardzību šai lapai.">
+<!ENTITY trackingProtection.notDetected5 "Šajā lapā nav izsekojošu elementu.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
