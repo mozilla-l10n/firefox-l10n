@@ -967,13 +967,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; atklāja, ka šajā lapā ir elementi, kas var izsekot jūsu aktivitātēm internetā.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; atklāja, ka šajā lapā ir elementi, kas var izsekot jūsu aktivitātēm internetā. Jūs esat deaktivējis aizsardzību šai lapai.">
 <!ENTITY trackingProtection.notDetected5 "Šajā lapā nav izsekojošu elementu.">
+<!ENTITY trackingProtection.notDetectedException "Šajā lapā nav izsekošanas elementu. Šai lapai ir deaktivēta izsekošanas aizsardzība.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Izsekošanas aizsardzība ir aktivēta. Pārlādējiet lapu, lai bloķētu visus izsekotājus.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Deaktivēt šai lapai">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Deaktivēt šai sesijai">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Aktivēt šai lapai">
+<!ENTITY trackingProtection.block4.accesskey "A">
+<!ENTITY trackingProtection.reload2.label "Pārlādēt lapu">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Rādīt visus">
 <!ENTITY pluginNotification.showAll.accesskey "s">
@@ -1077,6 +1087,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.shareUrl.label "Dalīties">
 
+<!ENTITY pageAction.shareMore.label "Vairāk…">
 
 <!ENTITY libraryButton.tooltip "Skatīt vēsturi, saglabātās grāmatzīmes un daudz ko citu">
 
