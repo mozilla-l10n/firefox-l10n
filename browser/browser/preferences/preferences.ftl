@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } šobrīd nav jūsu noklusētais pārlūks
 set-as-my-default-browser =
     .label = Padarīt par noklusēto…
     .accesskey = D
-startup-page = Kad { -brand-short-name } palaižas
-    .accesskey = p
-startup-user-homepage =
-    .label = Rādīt mājas lapu
-startup-blank-page =
-    .label = Parādīt tukšu lapu
-startup-prev-session =
-    .label = Parādīt manus logus un cilnes no iepriekšējās reizes
 startup-restore-previous-session =
     .label = Atjaunot iepriekšējo sesiju
     .accesskey = s
 disable-extension =
     .label = Deaktivēt paplašinājumu
-home-page-header = Mājas lapa
 tabs-group-header = Cilnes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab slēdzas starp cilnēm to izmantošanas secībā
@@ -273,7 +256,6 @@ play-drm-content =
 play-drm-content-learn-more = Uzzināt vairāk
 update-application-title = { -brand-short-name } atjauninājumi
 update-application-description = Vienmēr atjauniniet { -brand-short-name }, lai iegūtu labāko drošību, stabilitāti un ātrdarbību.
-update-application-info = Versija { $version } <a>Kas jauns</a>
 update-application-version = Versija { $version } <a data-l10n-name="learn-more">Kas jauns</a>
 update-history =
     .label = Parādīt atjauninājumu vēsturi…
@@ -309,7 +291,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Satura procesu limits
     .accesskey = L
 performance-limit-content-process-enabled-desc = Papildu satura procesi var palielināt veiktspēju izmantojot vairākas cilnes, bet prasīs arī papildu atmiņu.
-performance-limit-content-process-disabled-desc = Modificēt satura procesu skaitu ir iespējama tikai ar vairāku procesu { -brand-short-name }. <a>Kā pārbaudīt, vai pieejams vairāku procesu režīms</a>
 performance-limit-content-process-blocked-desc = Modificēt satura procesu skaitu ir iespējama tikai ar vairāku procesu { -brand-short-name }. <a data-l10n-name="learn-more">Kā pārbaudīt, vai pieejams vairāku procesu režīms</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -380,9 +361,6 @@ use-current-pages =
 choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
-restore-default =
-    .label = Atjaunot uz noklusēto
-    .accesskey = A
 
 ## Search Section
 
@@ -700,6 +678,19 @@ permissions-notification-link = Uzzināt vairāk
 permissions-notification-pause =
     .label = Nerādīt paziņojumus līdz { -brand-short-name } pārstartēšanai
     .accesskey = a
+permissions-block-autoplay-media =
+    .label = Neļaut lapām atskaņot multimēdijas ar skaņu
+    .accesskey = N
+permissions-block-autoplay-media-menu = Lapām, kas automātiski atskaņo skaņu
+permissions-block-autoplay-media-exceptions =
+    .label = Izņēmumi...
+    .accesskey = i
+autoplay-option-ask =
+    .label = Vienmēr jautāt
+autoplay-option-allow =
+    .label = Atļaut automātisku atskaņošanu
+autoplay-option-dont =
+    .label = Neatļaut automātisku atskaņošanu
 permissions-block-popups =
     .label = Bloķēt jaunos logus
     .accesskey = B
