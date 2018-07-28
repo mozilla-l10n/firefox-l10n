@@ -132,17 +132,25 @@
 </ul>">
 
 <!ENTITY certerror.longpagetitle1 "您的連線並不安全">
+<!ENTITY certerror.longpagetitle2 "警告: 本網站可能有安全性風險">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> 的網站管理員未正確設定好網站。為了確保您的資訊不會被盜走，&brandShortName; 並未連線至該網站。">
 
+<!ENTITY certerror.introPara1 "&brandShortName; 偵測到潛在的安全性風險，沒有繼續開啟 <span class='hostname'/>。若您開啟此網站，攻擊者可能會嘗試偷走您的密碼、郵件、信用卡號等資訊。">
 
+<!ENTITY certerror.expiredCert.secondPara "這個問題最有可能是因為您的系統時間不準，造成 &brandShortName; 無法安全地連線到該網站。">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "您可以做什麼？">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>這個問題最有可能是網站端的設定不正確，您無法調整設定解決。</p>
+<p>若您目前連線到的是企業內部網路，或有使用防毒軟體，請洽詢技術支援團隊。您也可以通知網站管理員處理這個問題。</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>您的電腦時間為 <span id='wrongSystemTime_systemDate'/>。請到系統設定中確認這個日期、時間、時區是否正確，並重新整理 <span class='hostname'/> 頁面。</p>
+<p>若您的時間已經是正確的，則可能是網站端的設定不正確，您無法調整設定解決這個問題，請通知網站管理員處理。</p>">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>這個問題最有可能是網站端的設定不正確，您無法調整設定解決。請通知網站管理員處理。</p>">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -180,7 +188,9 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>您的系統時間不正確，&brandShortName; 無法與<span id='wrongSystemTimeWithoutReference_URL'/>建立安全連線。</p> <p>您的系統時間目前為<span id='wrongSystemTimeWithoutReference_systemDate'/>，請設定為正確的日期與時間來修正此問題。</p>">
 
 <!ENTITY certerror.pagetitle1  "不安全的連線">
+<!ENTITY certerror.pagetitle2  "警告: 本網站可能有安全性風險">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此網站透過 HTTP Strict Transport Security (HSTS) 要求 &brandShortName; 僅能透過安全連線連結到該網站，所以無法將此憑證加入例外清單。">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> 有一條稱為 HTTP Strict Transport Security (HSTS) 的安全性政策，讓 &brandShortName; 僅能與其進行安全連線。您無法加入例外，手動排除此政策。">
 <!ENTITY certerror.copyToClipboard.label "將文字複製到剪貼簿">
 
 <!ENTITY inadequateSecurityError.title "您的連線並不安全">
