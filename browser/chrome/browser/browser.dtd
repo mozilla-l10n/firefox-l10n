@@ -50,6 +50,8 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Обновить выделенные вкладки">
 <!ENTITY  reloadSelectedTabs.accesskey       "и">
+<!ENTITY  bookmarkSelectedTabs.label         "Добавить вкладки в закладки…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "а">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -313,6 +315,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Веб-разработка">
 <!ENTITY webDeveloperMenu.accesskey   "б">
+
+<!ENTITY devtoolsSaveRecording.label "Сохранить запись">
 
 <!ENTITY inspectContextMenu.label     "Исследовать элемент">
 <!ENTITY inspectContextMenu.accesskey "л">
@@ -629,6 +633,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Скрыть этот плагин">
 <!ENTITY hidePluginCmd.accesskey      "к">
 <!ENTITY copyLinkCmd.label            "Копировать ссылку">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "ы">
 <!ENTITY copyImageCmd.label           "Копировать ссылку на изображение">
 <!ENTITY copyImageCmd.accesskey       "п">
@@ -639,6 +646,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Копировать ссылку на аудио">
 <!ENTITY copyAudioURLCmd.accesskey    "п">
 <!ENTITY copyEmailCmd.label           "Копировать адрес электронной почты">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "э">
 <!ENTITY thisFrameMenu.label              "В этом фрейме">
 <!ENTITY thisFrameMenu.accesskey          "ф">
@@ -774,6 +784,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Добавить словари…">
 <!ENTITY spellAddDictionaries.accesskey "Д">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Готово">
 <!ENTITY editBookmark.removeBookmark.accessKey       "д">
 
@@ -1070,6 +1084,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизация устройств…">
 
 <!ENTITY pageAction.shareUrl.label "Поделиться">
+
+<!ENTITY pageAction.shareMore.label "Ещё…">
 
 <!ENTITY libraryButton.tooltip "Просмотр истории, сохранённых закладок и многого другого">
 
