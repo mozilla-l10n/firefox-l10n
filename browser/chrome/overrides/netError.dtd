@@ -138,6 +138,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle1  "Njewěsty zwisk">
 <!ENTITY certerror.pagetitle2  "Warnowanje: Potencielne wěstotne riziko prědku">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tute sydło wužiwa HTTP Strict Transport Security (HSTS), zo by podało, zo &brandShortName; ma jenož wěsće z nim zwjazać. Potajkim njeje móžno, wuwzaće za tutón certifikat přidać.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ma wěstotne prawidło z mjenom HTTP Strict Transport Security (HSTS), kotrež woznamjenja, zo &brandShortName; móže so jenož wěsće zwjazać. Njemóžeće wuwzaće přidać, zo byšće tute sydło wopytał.">
 <!ENTITY certerror.copyToClipboard.label "Tekst do mjezyskłada kopěrować">
 
 <!ENTITY inadequateSecurityError.title "Waš zwisk wěsty njeje">
