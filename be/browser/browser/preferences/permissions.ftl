@@ -89,6 +89,7 @@ permissions-exceptions-autoplay-media-window =
     .title = Дазволеныя вэб-сайты - Аўтапрайграванне
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Вы можаце пазначыць, якім вэб-сайтам дазволена прайграваць медыя-элементы аўтаматычна. Упішыце дакладны адрас сайта, якому вы дазваляеце, і націсніце Дазволіць.
+permissions-exceptions-autoplay-media-desc2 = Вы можаце вызначыць, якім вэб-сайтам заўсёды дазволена або ніколі не дазволена аўтаматычна прайграваць гук. Набярыце адрас сайта, якім хочаце кіраваць, і пстрыкніце Блакаваць або Дазволіць.
 
 ## Site Permissions - Notifications
 
