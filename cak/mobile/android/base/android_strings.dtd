@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Tzijonel taq sachoj">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; to\&apos;ïk richin tzalq\&apos;omanri\&apos;ïl">
 <!ENTITY datareporting_wifi_geolocation_summary4 "¡Tato\&apos; ri &vendorShortName; richin tuwachib\&apos;ej ri ruwachulew! Takomonij ri ak\&apos;ojlem rik\&apos;in Wi-Fi chuqa\&apos; chupam ri awokisaxel richin niqab\&apos;än rutzil ri qasamaj chi rij ruwachuk\&apos;ojlem.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Nitikïr ri Rusamaj K\&apos;ojlib\&apos;äl">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +893,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Titz\&apos;aqatisäx apo pa ruwäch tikirib\&apos;äl">
 <!ENTITY pwa_continue_to_website "Tik\&apos;oje\&apos; na chi ri Ajk\&apos;amaya\&apos;l Ruxaq">
 <!ENTITY pwa_onboarding_sumo "Yatikïr natz\&apos;aqatisaj re ajk\&apos;amaya\&apos;l ruxaq re\&apos; pa ri ruwäch Tikirib\&apos;äl richin nik\&apos;oje\&apos; aninäq awokem chuqa\&apos; aninäq yatok pa k\&apos;amaya\&apos;l, achi\&apos;el ta jun chokoy.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Titzij">
+<!ENTITY pip_play_button_description "Tutzaqa\&apos; chi re ri tzijoj">
+<!ENTITY pip_pause_button_title "Tuxlan">
+<!ENTITY pip_pause_button_description "Tuxlan tzijoj">
