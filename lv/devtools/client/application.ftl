@@ -55,3 +55,9 @@ serviceworker-empty-suggestions = Ja pašreizējā lapa ir jābūt pakalpojuma d
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Meklējiett kļūdas konsolē. <a>Atvērt konsoli</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Izpildiet pakalpojuma darbinieku reģistrēšanas kodu soli pa solim un meklējiet kļūdas <a>Atvērt atkļūdotāju</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = Aplūkojiet pakalpojumu darbiniekus no citiem domēniem. <a>Atvērt about:debugging</a>
