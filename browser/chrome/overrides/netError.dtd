@@ -102,6 +102,8 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Najskerje websydło problem zawinuje, a njeje ničo, štož móžeće činić, zo byšće jón rozrisał.</p>
 <p>Jeli słušeće k předewzaćowej syći abo antiwirusowu softwaru wužiwaće, móžeće teamy pomocy wo podpěru prosyć. Móžeće tež administratora websydła wo problemje informować.</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>Časnik wašeho ličaka je na <span id='wrongSystemTime_systemDate'/> stajeny. Přeswědče so, zo su w systemowych nastajenjach wašeho ličaka korektny datum, čas a korektne časowe pasmo nastajene, a aktualizujće potom <span class='hostname'/>.</p>
+<p>Je-li waš časniik na korektny čas nastajeny, je najskerje websydło wopak konfigurowane, a njemóžeće ničo činć, zo byšće problem rozrisał. Móžeće administratora websydła wo problemje informować.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Najskerje websydło problem zawinuje, a njeje ničo, štož móžeće činić, zo byšće jón rozrisał. Móžeće administratora websydła wo problemje informować.</p>">
 
