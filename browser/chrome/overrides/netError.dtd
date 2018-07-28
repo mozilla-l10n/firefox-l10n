@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "Πρόβλημα φόρτωσης σελίδας">
 <!ENTITY retry.label "Δοκιμή ξανά">
 <!ENTITY returnToPreviousPage.label "Επιστροφή">
+<!ENTITY returnToPreviousPage1.label "Επιστροφή (Προτείνεται)">
 <!ENTITY advanced.label "Για προχωρημένους">
+
+<!ENTITY continue.label "Συνέχεια">
 
 <!-- Specific error messages -->
 
@@ -146,10 +149,17 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Η σύνδεσή σας δεν είναι ασφαλής">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Ο ιδιοκτήτης του <span class='hostname'/> δεν έχει ρυθμίσει την ιστοσελίδα του σωστά. Για την προστασία των πληροφοριών σας από κλοπή, το &brandShortName; δεν έχει συνδεθεί με αυτή την ιστοσελίδα.">
+
+
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Τι μπορείτε να κάνετε γι' αυτό;">
+
+
+
 
 <!ENTITY sharedLongDesc "
 <ul>
