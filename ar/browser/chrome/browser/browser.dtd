@@ -316,6 +316,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "مطوّري الوب">
 <!ENTITY webDeveloperMenu.accesskey   "و">
 
+<!ENTITY devtoolsSaveRecording.label "احفظ التسجيل">
+
 <!ENTITY inspectContextMenu.label     "افحص العنصر">
 <!ENTITY inspectContextMenu.accesskey "ح">
 
@@ -631,6 +633,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "أخفِ هذه المُلحقة">
 <!ENTITY hidePluginCmd.accesskey      "خ">
 <!ENTITY copyLinkCmd.label            "انسخ مكان الرابط">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "م">
 <!ENTITY copyImageCmd.label           "انسخ مكان الصورة">
 <!ENTITY copyImageCmd.accesskey       "س">
@@ -641,6 +646,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "انسخ مكان الصوت">
 <!ENTITY copyAudioURLCmd.accesskey    "و">
 <!ENTITY copyEmailCmd.label           "انسخ عنوان البريد الإلكتروني">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "خ">
 <!ENTITY thisFrameMenu.label              "هذا الإطار">
 <!ENTITY thisFrameMenu.accesskey          "ه">
