@@ -89,6 +89,7 @@ permissions-exceptions-autoplay-media-window =
     .title = İcazə verilən saytlar - Avto Oxutma
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Hansı saytların avtomatik media oxuda biləcəyini dəqiqləşdirə bilərsiz. İcazə vermək istədiyiniz saytın ünvanını yaxın və İcazə Ver-ə klikləyin.
+permissions-exceptions-autoplay-media-desc2 = Hansı saytların həmişə və ya heç vaxt media məzmunlarını avtomatik səsli oxuda biləcəklərini seçə bilərsiz. İdarə etmək istədiyiniz saytın ünvanını daxil edin, Əngəllə və ya İcazə ver seçin.
 
 ## Site Permissions - Notifications
 
