@@ -159,7 +159,13 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Apa yang anda boleh lakukan tentangnya?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Isu ini mungkin berkaitan laman web dan tiada apa yang boleh anda lakukan untuk menyelesaikannya.</p>
+<p>Jika anda berada dalam rangkaian korporat atau menggunakan perisian antivirus, anda boleh minta bantuan pasukan sokongan. Anda juga boleh maklumkan masalah ini kepada pentadbir laman web.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
+<p>Jam komputer anda ditetapkan ke <span id='wrongSystemTime_systemDate'/>. Pastikan sistem komputer ditetapkan ke tarikh, masa dan zon masa yang betul dan kemudian muat semula <span class='hostname'/>.</p> <p>Jika jam sudah ditetapkan ke masa yang betul, mungkin laman web ini tersilap konfigurasi dan tiada apa yang anda boleh lakukan untuk menyelesaikannya. Anda boleh maklumkan masalah ini kepada pentadbir laman web.</p>">
 
 
 <!ENTITY sharedLongDesc "
