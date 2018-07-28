@@ -120,7 +120,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "&brandShortName; 检测到潜在的安全威胁并没有继续访问 <span class='hostname'/> 。若您访问此网站，攻击者可能会尝试窃取您的密码，电子邮件或信用卡等信息。">
 
-<!ENTITY certerror.expiredCert.secondPara "这个问题很可能是因为您的计算机时钟被设置为错误的时间，这会阻碍＆brandShortName; 的安全连接。">
+<!ENTITY certerror.expiredCert.secondPara "这个问题很可能是因为您的计算机时钟被设置为错误的时间，这会阻碍 &brandShortName; 的安全连接。">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "您可以做什么？">
 
