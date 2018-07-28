@@ -99,6 +99,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "&brandShortName; xriïl jun nimaläj ruk'ayewal jikomal ruma ri' xchame' <span class='hostname'/>. We natz'ët re ruxaq re', rik'in jub'a' ri ojqanela' nikeleq'aj awetamab'al achi'el ri ewan taq atzij, taq ataqoya'l o ri ch'utit'im apwaq .">
 
+<!ENTITY certerror.expiredCert.secondPara "K'o re k'ayewal re' ruma b'anon runuk'ulem ach'utiq'ijul pa jun sachoj ramaj, ri man nuya' ta q'ij chi re ri &brandShortName; ütz nok.">
 
 
 
