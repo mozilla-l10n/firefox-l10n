@@ -149,6 +149,7 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Η σύνδεσή σας δεν είναι ασφαλής">
+<!ENTITY certerror.longpagetitle2 "Προειδοποίηση: Πιθανός κίνδυνος ασφαλείας">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -199,6 +200,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>Το &brandShortName; δεν συνδέθηκε στο <span id='wrongSystemTimeWithoutReference_URL'/>, επειδή το ρολόι του υπολογιστή σας φαίνεται να εμφανίζει εσφαλμένη ώρα και αυτό εμποδίζει την ασφαλή σύνδεση.</p> <p>Ο υπολογιστής σας έχει ρυθμιστεί στην ημερομηνία <span id='wrongSystemTimeWithoutReference_systemDate'/>. Για να επιδιορθώσετε αυτό το πρόβλημα, αλλάξτε τις ρυθμίσεις ημερομηνίας και ώρας ώστε να αντιστοιχούν στις σωστές.</p>">
 
 <!ENTITY certerror.pagetitle1  "Μη ασφαλής σύνδεση">
+<!ENTITY certerror.pagetitle2  "Προειδοποίηση: Πιθανός κίνδυνος ασφαλείας">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Αυτός ο ιστότοπος χρησιμοποιεί ασφάλεια
 HTTP Strict Transport Security (HSTS) που καθορίζει ότι το &brandShortName; μπορεί να συνδεθεί
 μόνο με ασφαλή τρόπο σε αυτόν. Ως εκ τούτου, είναι αδύνατον να προσθέσετε εξαίρεση
