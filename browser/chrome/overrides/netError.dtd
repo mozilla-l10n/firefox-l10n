@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "Zmólka pśi cytanju boka">
 <!ENTITY retry.label "Hyšći raz wopytaś">
 <!ENTITY returnToPreviousPage.label "Slědk hyś">
+<!ENTITY returnToPreviousPage1.label "Slědk (dopórucony)">
 <!ENTITY advanced.label "Rozšyrjone">
+
+<!ENTITY continue.label "Dalej">
 
 <!-- Specific error messages -->
 
@@ -84,10 +87,20 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž awtentiskosć dostanych datow njedajo se pśeglědaś.</li> <li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Waš zwisk njejo wěsty">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Warnowanje: Potencielne wěstotne riziko prědku">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Mějaŕ <span class='hostname'/> jo swójo websedło wopak konfigurěrował. Aby swóje informacije pśeśiwo tomu šćitał, až se kšadnu, njejo &brandShortName; z toś tym websedłom zwězało.">
+
+<!ENTITY certerror.introPara1 "&brandShortName; jo namakał potencielne wobgrozenje wěstoty a njejo šeł až do <span class='hostname'/> dalej. Jolic se k toś tomu sedłoju woglědujośo, mógli napadowarje wopytaś, daty ako waše gronidła, e-mailowe adrese abo kreditowe kórty kšadnuś.">
+
+<!ENTITY certerror.expiredCert.secondPara "Toś ten problem se nejskerjej zawinujo, dokulaž zeger wašogo licadła wopacny cas wužywa, což &brandShortName; pśi wěstem zwězowanju zajźujo.">
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Co móžośo pśeśiwo tomu cyniś?">
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>Sedło njeby mógło nachylu k dispoziciji staś abo by mógło pśeśěžone byś. Wopytajśo za mało wokognuśow hyšći raz.</li> <li>Jolic njamóžośo někotare boki cytaś, pśespytajśo zwisk wašeje licadłoweje seśi.</li> <li>Jolic wašo licadło abo waša seś šćita se z wognjoweju murju abo proksy, zawěsććo, až &brandShortName; ma pšawo na web pśistup měś.</li> </ul>">
 
