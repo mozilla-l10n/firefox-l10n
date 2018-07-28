@@ -202,6 +202,11 @@ choose-language-description = Scelta della lingua in cui verranno visualizzate l
 choose-button =
     .label = Scegli…
     .accesskey = g
+
+choose-browser-language-description = Scelta della lingua in cui verranno visualizzati menu, messaggi e notifiche di { -brand-short-name }.
+confirm-browser-language-change-description = Riavviare { -brand-short-name } per applicare queste modifiche
+confirm-browser-language-change-button = Applica e riavvia
+
 translate-web-pages =
     .label = Traduci contenuti web
     .accesskey = T
