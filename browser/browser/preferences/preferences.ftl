@@ -678,6 +678,7 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Estä sivustot toistamasta äänellistä mediaa automaattisesti
     .accesskey = E
+permissions-block-autoplay-media-menu = Sivustot jotka toistavat automaattisesti ääntä
 permissions-block-autoplay-media-exceptions =
     .label = Poikkeukset…
     .accesskey = P
