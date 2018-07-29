@@ -9,12 +9,12 @@
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; lagrar informasjon om innstillingane og vala dine i den personlege profilen din.">
 <!ENTITY profileCreationExplanation_2.text  "Dersom du deler dette eksemplaret av &brandShortName; med andre brukarar kan du bruke profilane for å halde informasjonen til kvar brukar for seg sjølv. For å gjere dette må kvar brukar lage sin eigen profil.">
 <!ENTITY profileCreationExplanation_3.text  "Dersom du er den einaste personen som brukar dette eksemplaret av &brandShortName; må du ha minst ein profil. Dersom du vil kan du lage fleire profilar for deg sjølv for å skilja mellom ulike sett av innstillingar og val. Du kan til dømes ha separate profilar for arbeid og personleg bruk.">
-<!ENTITY profileCreationExplanation_4.text  "Trykk «Neste» for å laga ein ny profil.">
-<!ENTITY profileCreationExplanation_4Mac.text  "Trykk «Hald fram» for å byrja oå laga profilen din.">
-<!ENTITY profileCreationExplanation_4Gnome.text  "Trykk «Neste» for å byrja å laga profilen din.">
+<!ENTITY profileCreationExplanation_4.text  "Trykk «Neste» for å lage ein ny profil.">
+<!ENTITY profileCreationExplanation_4Mac.text  "Trykk «Fortset» for å byrje å lage profilen din.">
+<!ENTITY profileCreationExplanation_4Gnome.text  "Trykk «Neste» for å byrje å lage profilen din.">
 
 <!-- Second wizard page -->
-<!ENTITY profileCreationIntro.text      "Dersom du lagar fleire profilar kan du skilja dei frå kvarandre med profilnamn. Du kan bruka namnet spesifisert her, eller du kan bruka eit anna.">
+<!ENTITY profileCreationIntro.text      "Dersom du lagar fleire profilar kan du skilje dei frå kvarandre med profilnamn. Du kan bruke namnet spesifisert her, eller du kan bruke eit anna.">
 <!ENTITY profilePrompt.label            "Skriv inn nytt profilnamn:">
 <!ENTITY profilePrompt.accesskey        "S">
 <!ENTITY profileDirectoryExplanation.text   "Innstillingane dine og andre brukardata vart lagra i:">
