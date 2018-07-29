@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "Nepavyko įkelti tinklalapio">
 <!ENTITY retry.label "Bandyti dar kartą">
 <!ENTITY returnToPreviousPage.label "Eiti atgal">
+<!ENTITY returnToPreviousPage1.label "Grįžti (rekomenduojama)">
 <!ENTITY advanced.label "Išsamiau">
+
+<!ENTITY continue.label "Tęsti">
 
 <!-- Specific error messages -->
 
@@ -88,10 +91,20 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Tinklalapis, kurį bandote atverti, negali būti parodytas, nes nepavyko patikrinti gautų duomenų autentiškumo.</li> <li>Prašom pranešti apie šią problemą svetainės savininkams.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Jūsų ryšys nėra saugus">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Dėmesio: galima saugumo rizika">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> savininkas netinkamai sukonfigūravo savo svetainę.  Kad apsaugotų jūsų duomenis, „&brandShortName;“ prie šios svetainės nesijungė.">
+
+<!ENTITY certerror.introPara1 "„&brandShortName;“ aptiko galimą grėsmę saugumui ir neįkėlė <span class='hostname'/>. Aplankius šią svetainę, piktavaliai gali bandyti pavogti jūsų informaciją, pvz., slaptažodžius, el. pašto adresus, banko korteles.">
+
+<!ENTITY certerror.expiredCert.secondPara "Ši problema greičiausiai kilo dėl to, kad jūsų kompiuterio laikrodis yra netinkamai nustatytas, o tai neleidžia „&brandShortName;“ užmegzti saugaus ryšio.">
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Ką dėl to galima padaryti?">
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>Ši svetainė laikinai nepasiekiama arba yra per daug apkrauta. Šiek tiek palaukite ir bandykite prisijungti iš naujo.</li> <li>Jei nepavyksta įkelti ir kitų tinklalapių, patikrinkite kompiuterio ryšį su tinklu.</li> <li>Jei jūsų kompiuteris ar tinklas apsaugotas užkarda arba jungiasi per įgaliotąjį serverį, tai įsitikinkite, kad „&brandShortName;“ leidžiama pasiekti saityną.</li> </ul>">
 
