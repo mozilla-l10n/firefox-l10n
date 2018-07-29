@@ -475,7 +475,7 @@
 <!ENTITY share_image_failed "Impossible de partager cette image">
 <!ENTITY save_as_pdf "Enregistrer en PDF">
 <!ENTITY print "Imprimer">
-<!ENTITY view_page_source "Afficher le code source de la page">
+<!ENTITY view_page_source "Afficher le code source">
 <!ENTITY find_in_page "Rechercher dans la page">
 <!ENTITY desktop_mode "Voir version ordinateur">
 <!ENTITY page "Page">
