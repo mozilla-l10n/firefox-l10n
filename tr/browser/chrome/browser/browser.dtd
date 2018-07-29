@@ -316,6 +316,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Web geliştirici">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "Çalıştırmayı kaydet">
+<!ENTITY devtoolsSaveRecording.label "Kaydı kaydet">
+<!ENTITY devtoolsReplayExecution.label "Çalıştırmayı yeniden oynat">
+
 <!ENTITY inspectContextMenu.label     "Öğeyi incele">
 <!ENTITY inspectContextMenu.accesskey "c">
 
@@ -631,6 +635,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Bu yan uygulamayı gizle">
 <!ENTITY hidePluginCmd.accesskey      "u">
 <!ENTITY copyLinkCmd.label            "Bağlantı konumunu kopyala">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "B">
 <!ENTITY copyImageCmd.label           "Resim konumunu kopyala">
 <!ENTITY copyImageCmd.accesskey       "k">
@@ -641,6 +648,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Ses konumunu kopyala">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "E-posta adresini kopyala">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Bu çerçeve">
 <!ENTITY thisFrameMenu.accesskey          "B">
