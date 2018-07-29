@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } ei ole järjestelmän oletusselain
 set-as-my-default-browser =
     .label = Aseta oletukseksi…
     .accesskey = e
-startup-page = Kun { -brand-short-name } käynnistetään
-    .accesskey = F
-startup-user-homepage =
-    .label = Avaa aloitussivu
-startup-blank-page =
-    .label = Avaa tyhjä sivu
-startup-prev-session =
-    .label = Avaa viime istunnon ikkunat ja välilehdet
 startup-restore-previous-session =
     .label = Palauta edellinen istunto
     .accesskey = P
 disable-extension =
     .label = Poista laajennus käytöstä
-home-page-header = Aloitussivu
 tabs-group-header = Välilehdet
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab selaa välilehtiä käyttöjärjestyksessä alkaen viimeisimmästä
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Lue lisää
 update-application-title = { -brand-short-name }in päivitykset
 update-application-description = Pidä { -brand-short-name } ajan tasalla parhaan suorituskyvyn, vakauden ja turvallisuuden vuoksi.
-update-application-info = Versio { $version } <a>Mitä uutta</a>
 update-application-version = Versio { $version } <a data-l10n-name="learn-more">Mitä uutta</a>
 update-history =
     .label = Näytä päivityshistoria…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Sisältöprosessien yläraja
     .accesskey = i
 performance-limit-content-process-enabled-desc = Useammat sisältöprosessit parantavat suorituskykyä käytettäessä useita välilehtiä, mutta kuluttavat myös enemmän muistia.
-performance-limit-content-process-disabled-desc = Sisältöprosessien määrän muokkaaminen on mahdollista vain useaa prosessia hyödyntävällä { -brand-short-name }illa. <a>Lue, miten usean prosessin hyödyntämisen tilanteen voi tarkistaa</a>
 performance-limit-content-process-blocked-desc = Sisältöprosessien määrän muokkaaminen on mahdollista vain useaa prosessia hyödyntävällä { -brand-short-name }illa. <a data-l10n-name="learn-more">Lue, miten usean prosessin hyödyntämisen tilanteen voi tarkistaa</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Käytä kirjanmerkkiä…
     .accesskey = m
-restore-default =
-    .label = Palauta oletusasetus
-    .accesskey = P
 
 ## Search Section
 
@@ -703,6 +681,8 @@ permissions-block-autoplay-media =
 permissions-block-autoplay-media-exceptions =
     .label = Poikkeukset…
     .accesskey = P
+autoplay-option-allow =
+    .label = Salli automaattinen toisto
 permissions-block-popups =
     .label = Estä ponnahdusikkunat
     .accesskey = E
