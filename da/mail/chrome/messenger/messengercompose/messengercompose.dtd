@@ -94,14 +94,13 @@
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "æ">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
-<!ENTITY toggleAttachmentPaneCmd.key "æ">
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Marker alt">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Søg…">
 <!ENTITY findBarCmd.accesskey "ø">
 <!ENTITY findBarCmd.key "F">
@@ -247,7 +246,6 @@
 <!ENTITY sendlaterButton.tooltip "Send denne meddelelse senere">
 <!ENTITY quoteButton.tooltip "Citer den foregående meddelelse">
 <!ENTITY addressButton.tooltip "Vælg en modtager fra en adressebog">
-<!ENTITY attachButton.tooltip "Vedhæft en fil">
 <!ENTITY attachButton.tooltip2 "Vedhæft en fil">
 <!ENTITY spellingButton.tooltip "Brug stavekontrol i det markerede eller i hele meddelelsen">
 <!ENTITY saveButton.tooltip "Gem denne meddelelse">
@@ -271,11 +269,12 @@
 <!ENTITY subject.label "Emne:">
 <!ENTITY subject.accesskey "E">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "æ">
-
 <!ENTITY attachmentBucketHeader.tooltip "Ruden Vedhæftede filer">
 <!ENTITY attachmentBucketCloseButton.tooltip "Skjul ruden Vedhæftede filer">
 
@@ -360,6 +359,8 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Tilpas afsenderadresse…">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Accessibility name for the document -->
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Sprog i stavekontrollen">
