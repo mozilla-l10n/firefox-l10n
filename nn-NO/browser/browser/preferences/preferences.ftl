@@ -234,7 +234,7 @@ download-choose-folder =
            *[other] o
         }
 download-always-ask-where =
-    .label = Spør alltid kvar eg vil lagre filer
+    .label = Spør alltid om kvar eg vil lagre filer
     .accesskey = a
 applications-header = Program
 applications-description = Vel korleis { -brand-short-name } handterer filer du hentar frå nettet eller programma du brukar når du surfar.
