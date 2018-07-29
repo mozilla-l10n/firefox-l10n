@@ -507,7 +507,7 @@
 <!ENTITY contextmenu_open_new_tab "Ouvrir dans un nouvel onglet">
 <!ENTITY contextmenu_open_private_tab "Ouvrir en navigation privée">
 <!ENTITY contextmenu_remove "Supprimer">
-<!ENTITY contextmenu_add_page_shortcut "Ajouter un raccourci vers la page">
+<!ENTITY contextmenu_add_page_shortcut "Ajouter en raccourci">
 <!ENTITY contextmenu_set_as_homepage "Définir comme page d’accueil">
 <!ENTITY contextmenu_share "Partager">
 <!ENTITY contextmenu_pasteandgo "Coller et ouvrir">
