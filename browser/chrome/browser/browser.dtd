@@ -312,6 +312,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Web-työkalut (englanninkielisiä)">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+
 <!ENTITY inspectContextMenu.label     "Inspect Element">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
@@ -627,6 +628,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Piilota liitännäinen">
 <!ENTITY hidePluginCmd.accesskey      "o">
 <!ENTITY copyLinkCmd.label            "Kopioi linkin osoite">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopioi kuvan osoite">
 <!ENTITY copyImageCmd.accesskey       "p">
@@ -637,6 +641,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Kopioi äänitteen sijainti">
 <!ENTITY copyAudioURLCmd.accesskey    "p">
 <!ENTITY copyEmailCmd.label           "Kopioi sähköpostiosoite">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "s">
 <!ENTITY thisFrameMenu.label              "Tämä kehys">
 <!ENTITY thisFrameMenu.accesskey          "ä">
@@ -772,6 +779,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Hae sanastoja…">
 <!ENTITY spellAddDictionaries.accesskey "H">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
 <!ENTITY editBookmark.done.label                     "Valmis">
 <!ENTITY editBookmark.removeBookmark.accessKey       "P">
 
@@ -1066,6 +1076,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Synkronoidaan laitteita…">
 
 <!ENTITY pageAction.shareUrl.label "Jaa">
+
+<!ENTITY pageAction.shareMore.label "Lisää…">
 
 <!ENTITY libraryButton.tooltip "Katsele historiaa, tallennettuja kirjanmerkkejä ynnä muuta">
 
