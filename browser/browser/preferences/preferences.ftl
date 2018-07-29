@@ -693,8 +693,6 @@ autoplay-option-ask =
     .label = se zeptat
 autoplay-option-allow =
     .label = ho povolit
-autoplay-option-block =
-    .label = ho zablokovat
 permissions-block-popups =
     .label = Blokovat vyskakovací okna
     .accesskey = B
@@ -715,7 +713,7 @@ permissions-a11y-privacy-link = Zjistit více
 ## Privacy Section - Data Collection
 
 collection-header = Sběr a používání dat o aplikaci { -brand-short-name }
-collection-description = Co se týče dat, dáváme vám vždy na výběr. Také sbíráme jen ta data, která nám pomohou aplikaci { -brand-short-name } dále zlepšovat. Před odesíláním osobních dat vždy žádáme o váš souhlas.
+collection-description = Co se týče dat, dáváme vám vždy na výběr. Také sbíráme jen data potřebná pro vylepšování aplikace { -brand-short-name }. Před odesíláním osobních dat vždy žádáme o váš souhlas.
 collection-privacy-notice = Zásady ochrany osobních údajů
 collection-health-report =
     .label = Povolit aplikaci { -brand-short-name } odesílat Mozille technická data a data o interakcích
