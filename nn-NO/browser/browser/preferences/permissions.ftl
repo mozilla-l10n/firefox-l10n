@@ -89,6 +89,7 @@ permissions-exceptions-autoplay-media-window =
     .title = Tillatne nettsider - automatisk avspeling
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Du kan spesifisere kva for nettsider som automatisk har lov til å spele mediaelement. Skriv inn eksakt adresse for nettsida du vil tillate og trykk så Tillat.
+permissions-exceptions-autoplay-media-desc2 = Du kan spesifisere kva for nettsider som alltid eller aldri kan autospele media med lyd. Skriv inn nettsideadressa og trykk Blokker eller Tillat.
 
 ## Site Permissions - Notifications
 
