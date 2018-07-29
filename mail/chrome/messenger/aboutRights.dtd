@@ -24,7 +24,7 @@
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Politikker vedrørende privatlivssikring i &vendorShortName;'s produkter kan findes ">
+<!ENTITY rights.intro-point3a "Politikker vedrørende privatlivssikring i &vendorShortName;s produkter kan findes ">
 <!ENTITY rights.intro-point3b "her">
 <!ENTITY rights.intro-point3c ".">
 
@@ -63,7 +63,7 @@
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; kan stoppe eller ændre disse tjenester efter eget valg.">
 <!ENTITY rights.webservices-term2 "Du er frit stillet til at bruge tjenesten med den forhåndenværende version af &brandShortName;, og du har alle rettigheder til dette. &vendorShortName; og dets licensholdere forbeholder sig alle andre rettigheder vedrørende disse tjenester. Disse vilkår er ikke ment til at begrænse rettigheder som er tildelt under åben kildekode-licenser vedrørende &brandShortName; og de tilhørende kildekode-versioner af &brandShortName;.">
-<!ENTITY rights.webservices-term3 "Tjensten leveres &quot;som den fremstår.&quot; &vendorShortName;, dets bidragydere, licensholdere og distributører fraskriver sig alle garantier, udtrykt eller indforstået, inklusive garantier om hvorvidt tjenesten er handelsgyldig eller passer til dit formål. Du bærer den fulde risiko ved at bruge tjenesten til dine formål samt kvaliteten og ydelsen, som tjenesten leverer. Nogle retskredse tillader ikke eksklusion eller begrænsning af indforståede garantier, så denne fraskrivelse af garanti kan i visse tilfælde ikke berøre dig.">
+<!ENTITY rights.webservices-term3 "Tjenesten leveres &quot;som den fremstår.&quot; &vendorShortName;, dets bidragydere, licensholdere og distributører fraskriver sig alle garantier, udtrykt eller indforstået, inklusive garantier om hvorvidt tjenesten er handelsgyldig eller passer til dit formål. Du bærer den fulde risiko ved at bruge tjenesten til dine formål samt kvaliteten og ydelsen, som tjenesten leverer. Nogle retskredse tillader ikke eksklusion eller begrænsning af indforståede garantier, så denne fraskrivelse af garanti kan i visse tilfælde ikke berøre dig.">
 <!ENTITY rights.webservices-term4 "Undtaget som lovpåkrævet vil &vendorShortName;, dets bidragydere, licensholdere og distributører ikke hæfte for nogen indirekte, specielle, incidentale, afledte, strafmæssige eller statutmæssige krav som opstår af, eller på nogen måde er relateret til brugen af &brandShortName; og dets tjenester. Den samlede hæfte under disse vilkår kan ikke overstige $500 (Femhundrede dollars USD). Nogle retskredse tillader ikke eksklusion eller begrænsning af hæfte/krav, så denne fraskrivelse af hæfte kan i visse tilfælde ikke berøre dig.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; må fra tid til anden opdatere disse vilkår efter behov. Disse vilkår må ikke ændres eller annulleres uden skriftlig aftale med &vendorShortName;.">
 <!ENTITY rights.webservices-term6 "Disse vilkår styres af loven i Californien, U.S.A., dets conflict of law provisioner. Hvis dele af disse vilkår ikke har gyldighed eller kan opretholdes vil den resterende del stadig være fuld ud gyldig og vedstående. I tilfælde af tvist mellem en oversat version af disse vilkår og den engelske version skal den engelske version være den gældende.">
