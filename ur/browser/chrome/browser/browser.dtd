@@ -41,8 +41,10 @@ left instead of right. -->
 <!-- Pin Tab and Pin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "P">
+<!ENTITY  unpinSelectedTabs.label            "ٹیب انپن کریں">
 <!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  unpinSelectedTabs.accesskey        "b">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "منتخب کردہ ٹیب دوبارہ لوڈ کریں">
@@ -301,6 +303,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "ویب تکمیل کار">
 <!ENTITY webDeveloperMenu.accesskey   "و">
+
+<!ENTITY devtoolsSaveRecording.label "ریکارڈنگ محفوظ کریں">
 
 <!ENTITY inspectContextMenu.label     "عناصر چیک کریں">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -612,6 +616,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "اس پلگ ان کو چھپائیں">
 <!ENTITY hidePluginCmd.accesskey      "چ">
 <!ENTITY copyLinkCmd.label            "ربط محل وقوع نقل کریں">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "ق">
 <!ENTITY copyImageCmd.label           "نقش محل وقوع نقل کریں">
 <!ENTITY copyImageCmd.accesskey       "ق">
@@ -622,6 +629,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "سمعی محل وقوع نقل کریں">
 <!ENTITY copyAudioURLCmd.accesskey    "ن">
 <!ENTITY copyEmailCmd.label           "ای میل پتہ نقل کریں">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "ا">
 <!ENTITY thisFrameMenu.label              "یہ فریم">
 <!ENTITY thisFrameMenu.accesskey          "ی">
@@ -932,10 +942,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "اس سائٹ کے لیئے نااہل بنائیں">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "اس سیشن کے لیئے نااہل بنائیں">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "اس سائٹ کے لیئے اہل بنائیں">
 <!ENTITY trackingProtection.block4.accesskey "E">
