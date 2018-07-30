@@ -31,7 +31,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
-<!ENTITY debuggerUI.optsButton.tooltip  "Elektebloj de sencimigilo">
+<!ENTITY debuggerUI.optsButton.tooltip  "Elektebloj de erarserĉilo">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
@@ -126,7 +126,7 @@
 <!ENTITY debuggerUI.searchToken.key       "F">
 <!ENTITY debuggerUI.searchToken.accesskey "S">
 
-<!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
+<!-- LOCALIZATION NOTE (debuggerUI.searchGoToLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 <!ENTITY debuggerUI.searchGoToLine           "Iri al linio…">
 <!ENTITY debuggerUI.searchGoToLine.key       "l">
@@ -159,7 +159,7 @@
 <!ENTITY debuggerUI.seMenuCondBreak     "Aldoni kondiĉan haltopunkton">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
-<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+<!-- LOCALIZATION NOTE (debuggerUI.seEditMenuCondBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak     "Redakti kondiĉan haltopunkton">
 <!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
@@ -183,7 +183,7 @@
 <!ENTITY debuggerUI.addWatch            "Aldoni observan esprimon">
 <!ENTITY debuggerUI.addWatch.accesskey  "e">
 
-<!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
+<!-- LOCALIZATION NOTE (debuggerUI.removeAllWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 <!ENTITY debuggerUI.removeAllWatch           "Forigi ĉiujn observajn esprimojn">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
