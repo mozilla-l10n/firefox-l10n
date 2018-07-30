@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new =
-    .title = Lisää uusi luokitus
+    .title = Lisää uusi eristystila
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
-    .title = { $name }-luokituksen asetukset
+    .title = { $name }-eristystilan asetukset
     .style = width: 45em
 containers-window-close =
     .key = w
@@ -26,7 +26,7 @@ containers-name-label = Nimi
     .accesskey = N
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = Kirjoita luokituksen nimi
+    .placeholder = Kirjoita eristystilan nimi
 containers-icon-label = Kuvake
     .accesskey = K
     .style = { -containers-labels-style }
