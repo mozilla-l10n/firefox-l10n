@@ -316,6 +316,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "વેબ ડેવલપર">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "રેકોર્ડ એક્ઝેક્યુશન">
+<!ENTITY devtoolsSaveRecording.label "રેકોર્ડિંગ સાચવો">
+<!ENTITY devtoolsReplayExecution.label "એક્ઝેક્યુશન રીપ્લે">
+
 <!ENTITY inspectContextMenu.label     "ઘટકની તપાસ કરો">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
@@ -631,6 +635,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "આ પ્લગઇન છુપાવો">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "કડી સ્થાનની નકલ કરો">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "ચિત્ર સ્થાનની નકલ કરો">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -641,6 +648,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "ઓડિયો સ્થાનની નકલ કરો">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "ઈમેલ સરનામાની નકલ કરો">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "આ ચોકઠું">
 <!ENTITY thisFrameMenu.accesskey          "h">
