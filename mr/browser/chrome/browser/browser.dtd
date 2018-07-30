@@ -1053,6 +1053,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "विस्तारण बंद करा">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "पृष्ठाच्या कृती">
 <!ENTITY pageAction.addToUrlbar.label "पत्ता पट्टी मध्ये जोडा">
@@ -1064,7 +1066,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "टॅब उपकरणाला पाठवा">
 <!ENTITY sendToDevice.syncNotReady.label "उपकरणे सिंक करत आहे…">
 
+<!ENTITY pageAction.shareUrl.label "शेअर करा">
 
+<!ENTITY pageAction.shareMore.label "अधिक…">
 
 <!ENTITY libraryButton.tooltip "इतिहास दाखवा, जतन केलेल्या वाचनखुणा, आणि अधिक">
 

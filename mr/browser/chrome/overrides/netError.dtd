@@ -10,6 +10,8 @@
 <!ENTITY returnToPreviousPage.label "मागे जा">
 <!ENTITY advanced.label "प्रगत">
 
+<!ENTITY continue.label "पुढे चला">
+
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "जोडणी होऊ शकत नाही">
@@ -86,10 +88,16 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>प्राप्त माहितीची अधिप्रमाणता तपासता न आल्यामुळे आपणास इच्छिक पृष्ठ पाहता येणार नाही.</li> <li>कृपया संकेतस्थळाच्या मालकाला या अडचणी विषयी अवगत करा.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "आपली जोडणी सुरक्षीत नाही">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> च्या मालकाने त्यांची वेबसाइट अयोग्य प्रकारे कॉन्फिगर केली आहे. आपली माहिती चोरीला जाऊ नये यासाठी, &brandShortName; ने या संकेतस्थळाशी जोडणी केली नाही.">
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>स्थळ तात्पुरते उपलब्ध नसावे किंवा फारच व्यस्थ असावे. काही वेळानंतर पुन्हा प्रयत्न करून पहा.</li> <li>कुठलेही पृष्ठ दाखल होत नसल्यास, संगणकाची नेटवर्क जोडणी तपासून पहा.</li> <li>फायरवॉल किंवा प्रॉक्सी द्वारे आपले संगणक संरक्षित असल्यास, &brandShortName; ला वेब प्रवेश मिळेल याची खात्री करा.</li> </ul>">
 
