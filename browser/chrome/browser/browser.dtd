@@ -316,6 +316,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Datblygwr Gwe">
 <!ENTITY webDeveloperMenu.accesskey   "D">
 
+<!ENTITY devtoolsRecordExecution.label "Cofnodi Gweithred">
+<!ENTITY devtoolsSaveRecording.label "Cadw Recordiad">
+
 <!ENTITY inspectContextMenu.label     "Archwilio Elfen">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
@@ -631,6 +634,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Cuddio'r ategyn">
 <!ENTITY hidePluginCmd.accesskey      "C">
 <!ENTITY copyLinkCmd.label            "Copïo Lleoliad Dolen">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copïo Lleoliad Delwedd">
 <!ENTITY copyImageCmd.accesskey       "L">
@@ -641,6 +647,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Copïo Lleoliad Delwedd">
 <!ENTITY copyAudioURLCmd.accesskey    "a">
 <!ENTITY copyEmailCmd.label           "Copïo Cyfeiriad E-bost">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Y Ffrâm">
 <!ENTITY thisFrameMenu.accesskey          "F">
