@@ -132,6 +132,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "O &brandShortName; detectou uma potencial ameaça de segurança e não continuou para <span class='hostname'/>. Se você visitar este site, invasores podem tentar roubar informações como suas senhas, e-mails ou cartões de crédito.">
 
+<!ENTITY certerror.expiredCert.secondPara "É mais provável que este problema seja devido ao relógio do seu computador estar com a hora errada, o que pode impedir que o &brandShortName; se conecte com segurança.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "O que você pode fazer a respeito?">
 
