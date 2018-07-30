@@ -316,6 +316,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Webûntwikkeler">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "Utfiering opnimme">
+<!ENTITY devtoolsSaveRecording.label "Opname bewarje">
+<!ENTITY devtoolsReplayExecution.label "Utfiering opnij ôfspylje">
+
 <!ENTITY inspectContextMenu.label     "Elemint ynspektearje">
 <!ENTITY inspectContextMenu.accesskey "E">
 
@@ -631,6 +635,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Dizze ynstekker ferstoppe">
 <!ENTITY hidePluginCmd.accesskey      "f">
 <!ENTITY copyLinkCmd.label            "Keppelingslokaasje kopiearje">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "p">
 <!ENTITY copyImageCmd.label           "Ofbyldingslokaasje kopiearje">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -641,6 +648,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Audiolokaasje kopiearje">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "E-mailadres kopiearje">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "m">
 <!ENTITY thisFrameMenu.label              "Dit dielfinster">
 <!ENTITY thisFrameMenu.accesskey          "D">
