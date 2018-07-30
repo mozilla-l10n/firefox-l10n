@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "Парақты жүктегенде қате кетті">
 <!ENTITY retry.label "Қайтадан көру">
 <!ENTITY returnToPreviousPage.label "Артқа">
+<!ENTITY returnToPreviousPage1.label "Артқа оралу (ұсынылады)">
 <!ENTITY advanced.label "Кеңейтілген">
+
+<!ENTITY continue.label "Жалғастыру">
 
 <!-- Specific error messages -->
 
@@ -88,10 +91,17 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Сіз сұраған парақ көрсетілмейді, өйткені алынған мәліметтерді тексеру мүмкін емес.</li> <li>Сайттың иесімен осы мәселе жөнінде хабарласыңыз.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Сіздің байланысыңыз қауіпсіз емес">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Назарыңызға: алдыңызда тәуекел бар сияқты">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> иесі өз сайтын дұрыс емес баптаған. Ақпаратыңызды ұрланудан қорғау үшін, &brandShortName; бұл веб сайтпен байланыспады.">
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>Сайт уақытша қолжетерсіз, немесе сұранымдарға толы шығар. Кейінірек қайталап көріңіз.</li> <li>Басқа да сайттарды аша алмасаңыз, компьютеріңіздің желіге байланысу баптауларын тексеріңіз.</li> <li>Компьютер немесе желі желіаралық экранмен немесе прокси-сервермен қорғалған болса – &brandShortName; үшін Интернетке шығуға рұқсат бар екеніне көз жеткізіңіз.</li> </ul>">
 
