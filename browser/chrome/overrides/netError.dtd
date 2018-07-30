@@ -136,7 +136,15 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "O que você pode fazer a respeito?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>É mais provável que o problema seja no site, não há nada que você possa fazer para resolver.</p>
+<p>Se estiver em uma rede corporativa ou usando um antivírus, você pode pedir ajuda às equipes de suporte. Também pode notificar o administrador do site.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
+<p>O relógio do seu computador está configurado com <span id='wrongSystemTime_systemDate'/>. Garanta que seu computador esteja com a data, hora e fuso horário corretos nas configurações do seu sistema, depois recarregue <span class='hostname'/>.</p>
+<p>Se seu relógio já está com a hora certa, o site está provavelmente mal configurado, não há nada que você possa fazer para resolver o problema. Você pode notificar o administrador do site.</p>
+">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>É mais provável que o problema seja no site, não há nada que você possa fazer para resolver. Você pode notificar o administrador do site.</p>
