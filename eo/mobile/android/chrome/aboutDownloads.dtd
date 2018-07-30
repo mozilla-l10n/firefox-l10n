@@ -6,7 +6,7 @@
 <!ENTITY aboutDownloads.header                     "Viaj elŝutoj">
 <!ENTITY aboutDownloads.empty                      "Neniu elŝuto">
 
-<!ENTITY aboutDownloads.open                       "malfermita">
+<!ENTITY aboutDownloads.open                       "Malfermi">
 <!ENTITY aboutDownloads.remove                     "Forigi">
 <!ENTITY aboutDownloads.removeAll                  "Forigi ĉiujn">
 <!ENTITY aboutDownloads.pause                      "Paŭzigi">
