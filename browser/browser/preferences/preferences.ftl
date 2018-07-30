@@ -86,7 +86,7 @@ extension-controlled-new-tab-url = Laajennus, <img data-l10n-name="icon"/> { $na
 extension-controlled-default-search = Laajennus, <img data-l10n-name="icon"/> { $name }, on asettanut oletushakukoneen.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Laajennus, <img data-l10n-name="icon"/> { $name }, vaatii luokitellut välilehdet.
+extension-controlled-privacy-containers = Laajennus, <img data-l10n-name="icon"/> { $name }, vaatii eristetyt välilehdet.
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Laajennus, <img data-l10n-name="icon"/> { $name }, hallitsee seurannan suojausta.
@@ -154,34 +154,34 @@ show-tabs-in-taskbar =
     .label = Näytä esikatselut välilehdistä Windowsin tehtäväpalkissa
     .accesskey = y
 browser-containers-enabled =
-    .label = Käytä luokiteltuja välilehtiä
+    .label = Käytä eristettyjä välilehtiä
     .accesskey = v
 browser-containers-learn-more = Lue lisää
 browser-containers-settings =
     .label = Asetukset…
     .accesskey = e
-containers-disable-alert-title = Suljetaanko kaikki luokitellut välilehdet?
+containers-disable-alert-title = Suljetaanko kaikki eristetyt välilehdet?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Jos poistat luokitellut välilehdet käytöstä nyt, { $tabCount } luokiteltu välilehti suljetaan. Haluatko varmasti poistaa luokitellut välilehdet käytöstä?
-       *[other] Jos poistat luokitellut välilehdet käytöstä nyt, { $tabCount } luokiteltua välilehteä suljetaan. Haluatko varmasti poistaa luokitellut välilehdet käytöstä?
+        [one] Jos poistat eristetyt välilehdet käytöstä nyt, { $tabCount } eristetty välilehti suljetaan. Haluatko varmasti poistaa eristetyt välilehdet käytöstä?
+       *[other] Jos poistat eristetyt välilehdet käytöstä nyt, { $tabCount } eristettyä välilehteä suljetaan. Haluatko varmasti poistaa eristetyt välilehdet käytöstä?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] Sulje { $tabCount } luokiteltu välilehti
-       *[other] Sulje { $tabCount } luokiteltua välilehteä
+        [one] Sulje { $tabCount } eristetty välilehti
+       *[other] Sulje { $tabCount } eristettyä välilehteä
     }
 containers-disable-alert-cancel-button = Pidä käytössä
-containers-remove-alert-title = Poistetaanko tämä luokitus?
+containers-remove-alert-title = Poistetaanko tämä eristystila?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Jos poistat tämän luokituksen nyt, { $count } luokiteltu välilehti suljetaan. Haluatko varmasti poistaa luokituksen?
-       *[other] Jos poistat tämän luokituksen nyt, { $count } luokiteltua välilehteä suljetaan. Haluatko varmasti poistaa luokituksen?
+        [one] Jos poistat tämän eristystilan nyt, { $count } eristetty välilehti suljetaan. Haluatko varmasti poistaa eristystilan?
+       *[other] Jos poistat tämän eristystilan nyt, { $count } eristettyä välilehteä suljetaan. Haluatko varmasti poistaa eristystilan?
     }
-containers-remove-ok-button = Poista luokitus
-containers-remove-cancel-button = Älä poista luokitusta
+containers-remove-ok-button = Poista eristystila
+containers-remove-cancel-button = Älä poista eristystilaa
 
 ## General Section - Language & Appearance
 
@@ -406,9 +406,9 @@ search-keyword-warning-bookmark = Annettu pikakomento on jo toisella kirjanmerki
 ## Containers Section
 
 containers-back-link = « Siirry takaisin
-containers-header = Luokitellut välilehdet
+containers-header = Eristetyt välilehdet
 containers-add-button =
-    .label = Lisää uusi luokitus
+    .label = Lisää uusi eristystila
     .accesskey = L
 containers-preferences-button =
     .label = Asetukset

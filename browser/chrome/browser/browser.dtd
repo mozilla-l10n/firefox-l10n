@@ -70,6 +70,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Jonossa (ei verkkoyhteyttä)">
 <!ENTITY  moveToNewWindow.label              "Siirrä uuteen ikkunaan">
 <!ENTITY  moveToNewWindow.accesskey          "S">
+<!ENTITY  reopenInContainer.label            "Avaa uudelleen eristystilassa">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Lisää välilehdet kirjanmerkkeihin…">
 <!ENTITY  bookmarkAllTabs.accesskey          "i">
@@ -321,9 +322,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Tiedosto">
 <!ENTITY fileMenu.accesskey       "T">
-<!ENTITY newUserContext.label             "Uusi luokiteltu välilehti">
+<!ENTITY newUserContext.label             "Uusi eristetty välilehti">
 <!ENTITY newUserContext.accesskey         "l">
-<!ENTITY manageUserContext.label          "Muokkaa luokituksia">
+<!ENTITY manageUserContext.label          "Muokkaa eristystiloja">
 <!ENTITY manageUserContext.accesskey      "M">
 <!ENTITY newNavigatorCmd.label        "Uusi ikkuna">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -557,7 +558,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "v">
 <!ENTITY openFrameCmd.label           "Avaa kehys uuteen ikkunaan">
 <!ENTITY openFrameCmd.accesskey       "A">
-<!ENTITY openLinkCmdInContainerTab.label "Avaa uuteen luokiteltuun välilehteen">
+<!ENTITY openLinkCmdInContainerTab.label "Avaa uuteen eristettyyn välilehteen">
 <!ENTITY openLinkCmdInContainerTab.accesskey "u">
 <!ENTITY showOnlyThisFrameCmd.label     "Näytä vain tämä kehys">
 <!ENTITY showOnlyThisFrameCmd.accesskey "N">
