@@ -316,6 +316,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Svilupatô Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "Ezegoçion da registraçion">
+<!ENTITY devtoolsSaveRecording.label "Sarva registraçion">
+<!ENTITY devtoolsReplayExecution.label "Ripròduxi torna ezegoçion">
+
 <!ENTITY inspectContextMenu.label     "Ispeçionn-a elemento">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
@@ -631,6 +635,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Ascondi sto plugin">
 <!ENTITY hidePluginCmd.accesskey      "n">
 <!ENTITY copyLinkCmd.label            "Còpia indirisso">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Còpia indirisso inmagine">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -641,6 +648,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Còpia indirisso do son">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Còpia indirisso de pòsta">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Sto riquaddro">
 <!ENTITY thisFrameMenu.accesskey          "S">
