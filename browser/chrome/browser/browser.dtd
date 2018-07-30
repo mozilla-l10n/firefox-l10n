@@ -316,6 +316,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Веб-розробка">
 <!ENTITY webDeveloperMenu.accesskey   "В">
 
+<!ENTITY devtoolsRecordExecution.label "Виконання запису">
+<!ENTITY devtoolsSaveRecording.label "Зберегти запис">
+<!ENTITY devtoolsReplayExecution.label "Виконання повторного відтворення">
+
 <!ENTITY inspectContextMenu.label     "Дослідити елемент">
 <!ENTITY inspectContextMenu.accesskey "Д">
 
@@ -631,6 +635,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Приховати цей плагін">
 <!ENTITY hidePluginCmd.accesskey      "П">
 <!ENTITY copyLinkCmd.label            "Копіювати адресу посилання">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "п">
 <!ENTITY copyImageCmd.label           "Копіювати адресу зображення">
 <!ENTITY copyImageCmd.accesskey       "р">
@@ -641,6 +648,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Копіювати адресу аудіо">
 <!ENTITY copyAudioURLCmd.accesskey    "у">
 <!ENTITY copyEmailCmd.label           "Копіювати адресу е-пошти">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "п">
 <!ENTITY thisFrameMenu.label              "У цьому фреймі">
 <!ENTITY thisFrameMenu.accesskey          "ь">
