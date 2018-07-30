@@ -221,6 +221,8 @@
 <!ENTITY pref_use_system_font_size_summary "Ridimensiona i contenuti web in base alle dimensioni dei caratteri di sistema">
 <!ENTITY pref_media_autoplay_enabled "Consenti riproduz. automatica">
 <!ENTITY pref_media_autoplay_enabled_summary "Determina se i siti web possono riprodurre automaticamente video e altri contenuti multimediali">
+<!ENTITY pref_media_autoplay_allow "Consenti riproduz. automatica">
+<!ENTITY pref_media_autoplay_block "Blocca riproduz. automatica">
 <!ENTITY pref_zoom_force_enabled "Consenti sempre zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Ignora le impostazioni della pagina e consenti sempre lo zoom">
 <!ENTITY pref_voice_input "Input vocale">
