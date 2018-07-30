@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "Probleem by it laden fan de side">
 <!ENTITY retry.label "Probearje it opnij">
 <!ENTITY returnToPreviousPage.label "Tebek">
+<!ENTITY returnToPreviousPage1.label "Gean werom (oanrekommandearre)">
 <!ENTITY advanced.label "Avansearre">
+
+<!ENTITY continue.label "Trochgean">
 
 <!-- Specific error messages -->
 
@@ -146,10 +149,19 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Jo ferbining is net befeilige">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Warskôging: mooglik befeiligingsrisiko">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "De eigener fan <span class='hostname'/> hat syn of har website net krekt konfigurearre. Om jo gegevens tsjin stellerij te beskermjen, hat &brandShortName; gjin ferbining mei dizze website makke.">
+
+<!ENTITY certerror.introPara1 "&brandShortName; hat in mooglik befeiligingsrisiko detektearre en is net trochgien nei <span class='hostname'/>. As jo dizze website besykje, soenen hackers gegevens probearje kinne te stellen, lykas jo wachtwurden, e-mailadressen of creditcardgegevens.">
+
+<!ENTITY certerror.expiredCert.secondPara "Dit probleem komt hiel wierskynlik trochdat jo kompjûterklok op de ferkearde tiid ynsteld is, wêrtroch &brandShortName; gjin befeilige ferbining meitsje kin.">
+
+
+
+
 
 <!ENTITY sharedLongDesc "
 <ul>
