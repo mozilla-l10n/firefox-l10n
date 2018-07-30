@@ -159,9 +159,21 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "Dit probleem komt hiel wierskynlik trochdat jo kompjûterklok op de ferkearde tiid ynsteld is, wêrtroch &brandShortName; gjin befeilige ferbining meitsje kin.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Wat kinne jo hjir oan dwaan?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>It probleem leit hiel wierskynlik by de website, en jo kinne neat dwaan om dit te ferhelpen.</p>
+<p>As jo op in saaklik netwurk binne of antifirussoftware brûke, kinne jo kontakt opnimme mei de stipeôfdielingen foar assistinsje. Jo kinne ek de behearder fan de website oer it probleem ynformearje.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
+<p>Jo kompjûterklok is ynsteld op <span id='wrongSystemTime_systemDate'/>. Soargje derfoar dat jo kompjûter op de krekte datum, tiid en tiidsône ynsteld is yn jo systeemynstellingen, en fernij dêrnei <span class='hostname'/>.</p>
+<p>As jo klok al op de krekte tiid ynsteld is, is de website wierskynlik net krekt konfigurearre, en kinne jo neat dwaan om it probleem te ferhelpen. Jo kinne wol de behearder fan de website oer it probleem ynformearje.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>It probleem leit hiel wierskynlik by de website, en jo kinne neat dwaan om dit te ferhelpen. Jo kinne de behearder fan de website oer it probleem ynformearje.</p>
+">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -201,10 +213,12 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; hat gjin ferbining mei <span id='wrongSystemTimeWithoutReference_URL'/> makke, omdat de klok fan jo kompjûter de ferkearde tiid liket oan te jaan, en dit komt in befeilige ferbining tefoar.</p> <p>Jo kompjûter is ynsteld op <span id='wrongSystemTimeWithoutReference_systemDate'/>. Wizigje jo datum- en tiidsynstellingen nei de krekte tiid om dit probleem te ferhelpen.</p>">
 
 <!ENTITY certerror.pagetitle1  "Net-befeilige ferbining">
+<!ENTITY certerror.pagetitle2  "Warskôging: mooglik befeiligingsrisiko">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dizze website makket gebrûk
 fan HTTP Strict Transport Security (HSTS) om oan te jaan dat &brandShortName;
 allinnich in befeilige ferbining meitsje mei. Hjirtroch is it net mooglik om in
 útsûndering foar dit sertifikaat ta te foegjen.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> hat in befeiligingsbelied mei de namme HTTP Strict Transport Security (HSTS), wat betsjut dat &brandShortName; allinnich in befeilige ferbining dêrmei meitsje kin. Jo kinne gjin útsûndering tafoegje om dizze website te besykjen.">
 <!ENTITY certerror.copyToClipboard.label "Tekst nei klamboerd kopiearje">
 
 <!ENTITY inadequateSecurityError.title "Jo ferbining is net befeilige">
