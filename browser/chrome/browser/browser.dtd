@@ -318,6 +318,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devtoolsRecordExecution.label "Cofnodi Gweithred">
 <!ENTITY devtoolsSaveRecording.label "Cadw Recordiad">
+<!ENTITY devtoolsReplayExecution.label "Ail Chwarae'r Gweithredu">
 
 <!ENTITY inspectContextMenu.label     "Archwilio Elfen">
 <!ENTITY inspectContextMenu.accesskey "Q">
