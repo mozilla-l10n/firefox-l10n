@@ -47,7 +47,9 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.
   -  The newsletter is only available in english at the moment.
   -  See Bug 1415273 for support of additional languages.-->
+<!ENTITY  aboutDevtools.newsletter.message "डेवलपर्स बातम्या, युक्ति व संसाधने मिळवा थेट आपल्या इनबॉक्समध्ये.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "ईमेल">
+<!ENTITY  aboutDevtools.newsletter.subscribeButton "सभासद व्हा">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "धन्यवाद!">
 
 <!ENTITY  aboutDevtools.footer.title "Firefox डेव्हलपर आवृत्ती">
