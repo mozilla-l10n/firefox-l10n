@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "खोजू अथवा पता दर्ज करू">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "खोज अथवा पता दर्ज करए कलेल अपन QR रीडर क इस्तेमाल करू">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "खोज या पता दर्ज करए कलेल अपन माइक्रोफोन क इस्तेमाल करू">
+
 <!ENTITY bookmark "पुस्तकचिह्न">
 <!ENTITY bookmark_remove "पुस्तकचिह्न हटाउ">
 <!ENTITY bookmark_added "पुस्तकचिह्न जोड़ल गेल">
@@ -438,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "क्रैश रिपोटर">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; अवस्थिति सेवा">
 <!ENTITY datareporting_wifi_geolocation_summary4 "मदति &vendorShortName; दुनिया केँ आपस मे जोड़ैत अछि ! हमर जियोलोकेशन सेवा मे सुधार करबाक लेल अनुमानित वाई-फाई आओर अपन डिवाइस केर सेलुलर स्थान साझा करू।">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; लोकेशन सेवा चालू अछि">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -879,3 +893,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "होम स्क्रीन मे जोड़ू">
 <!ENTITY pwa_continue_to_website "वेबसाइट लेल जारी राखू">
 <!ENTITY pwa_onboarding_sumo "अहाँ आसानी सँ ई वेबसाइट केँ अपन मुख्य स्क्रीन पर तुरंत पहुँच लेल जोड़ि सकैत छी आओर एप्प जेहन अनुभव सँग तेजी सँ ब्राउज़ कए सकैत छी.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "शुरू करू">
+<!ENTITY pip_play_button_description "चलएनाय पुनः शुरू करू">
+<!ENTITY pip_pause_button_title "रोकू">
+<!ENTITY pip_pause_button_description "चलएनाय रोकू">
