@@ -361,6 +361,7 @@
 <!ENTITY customizeFromAddress.accesskey "a">
 
 <!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Meddelelsestekst">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Sprog i stavekontrollen">
