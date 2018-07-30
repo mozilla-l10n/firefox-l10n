@@ -7,8 +7,11 @@
 
 <!ENTITY loadError.label "Chyba při načítání stránky">
 <!ENTITY retry.label "Zkusit znovu">
-<!ENTITY returnToPreviousPage.label "Přejít zpět">
+<!ENTITY returnToPreviousPage.label "Zpátky">
+<!ENTITY returnToPreviousPage1.label "Zpátky (doporučeno)">
 <!ENTITY advanced.label "Rozšířené">
+
+<!ENTITY continue.label "Pokračovat">
 
 <!-- Specific error messages -->
 
@@ -141,10 +144,17 @@ Personal Security Manager.</li>
 ">
 
 <!ENTITY certerror.longpagetitle1 "Vaše připojení není zabezpečené">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Varování: možné riziko nebezpečí">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Majitel serveru <span class='hostname'/> nakonfiguroval své webové stránky nesprávně. Abychom chránili vaše informace před odcizením, &brandShortName; se k této webové stránce nepřipojil.">
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "
 <ul>

@@ -89,6 +89,7 @@ permissions-exceptions-autoplay-media-window =
     .title = Servery, které mohou automaticky přehrávat média
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Zde můžete určit, které servery mohou automaticky spouštět přehrávání mediálních prvků. Zadejte přesnou adresu stránky, které chcete přehrávání povolit, a klepněte na tlačítko Povolit.
+permissions-exceptions-autoplay-media-desc2 = Zde můžete určit, které servery mohou automaticky spouštět přehrávání médií se zvukem. Zadejte adresu stránky a klepněte na tlačítko Blokovat nebo Povolit.
 
 ## Site Permissions - Notifications
 

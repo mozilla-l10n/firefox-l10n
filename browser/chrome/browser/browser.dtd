@@ -316,6 +316,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Vývoj webu">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
+<!ENTITY devtoolsRecordExecution.label "Záznam provádění">
+<!ENTITY devtoolsSaveRecording.label "Uložit záznam">
+<!ENTITY devtoolsReplayExecution.label "Přehrát záznam provádění">
+
 <!ENTITY inspectContextMenu.label     "Prozkoumat prvek">
 <!ENTITY inspectContextMenu.accesskey "P">
 
@@ -631,6 +635,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Skrýt zásuvný modul">
 <!ENTITY hidePluginCmd.accesskey      "S">
 <!ENTITY copyLinkCmd.label            "Kopírovat adresu odkazu">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "s">
 <!ENTITY copyImageCmd.label           "Kopírovat adresu obrázku">
 <!ENTITY copyImageCmd.accesskey       "a">
@@ -641,6 +648,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Kopírovat adresu audia">
 <!ENTITY copyAudioURLCmd.accesskey    "a">
 <!ENTITY copyEmailCmd.label           "Kopírovat e-mailovou adresu">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "a">
 <!ENTITY thisFrameMenu.label              "Tento rám">
 <!ENTITY thisFrameMenu.accesskey          "T">
