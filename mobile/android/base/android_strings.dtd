@@ -447,6 +447,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Raportado de paneoj">
 <!ENTITY datareporting_wifi_title2 "Pozicia servo de &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Helpu &vendorShortName; mapi la mondon! Dividu la proksimuman pozicion de via aparato, rilate al sendrataj kaj poŝtelefonaj retoj, por plibonigi nian pozician servon.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "La pozicia servo de &vendorShortName; estas aktiva">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +893,10 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Aldoni al hejmekrano">
 <!ENTITY pwa_continue_to_website "Daŭrigi al la retejo">
 <!ENTITY pwa_onboarding_sumo "Vi povas facile aldoni tiun ĉi retejon al via hejmekrano por havi tujan aliron kaj retumi pli rapide, kvazaŭ en programo.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Ludi">
+<!ENTITY pip_play_button_description "Daŭrigi ludadon">
+<!ENTITY pip_pause_button_title "Paŭzigi">
+<!ENTITY pip_pause_button_description "Paŭzigi ludadon">
