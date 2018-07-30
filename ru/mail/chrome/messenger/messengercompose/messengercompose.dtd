@@ -134,7 +134,7 @@
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Порядок сортировки: А - Я">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Порядок сортировки: Я - А">
-<!ENTITY sortAttachmentsPanelBtn.key "в">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Вид">
