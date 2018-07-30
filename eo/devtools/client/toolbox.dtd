@@ -10,10 +10,6 @@
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
-<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
-  -  shown next to error details when the Browser Toolbox is unable to open. -->
-<!ENTITY browserToolboxErrorMessage          "Eraro dum malfermo de la ilujo de retumilo:">
-
 <!-- LOCALIZATION NOTE (browserToolboxStatusMessage): This is the label
   -  shown next to status details when the Browser Toolbox fails to connect or
   -  appears to be taking a while to do so. -->
@@ -78,14 +74,14 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableChrome.label5    "Aktivigi la sencimigan ilujon por la retumila chrome kaj por la aldonaĵoj">
-<!ENTITY options.enableChrome.tooltip3  "Ŝalto de tiu ĉi elekteblo permesos al vi uzi plurajn ilojn por programistoj en la kunteksto de la retumilo (Iloj > Teksaĵa programistoj > Retumila ilujo) kaj uzi sencimigajn aldonaĵojn el la administro de aldonaĵoj">
+<!ENTITY options.enableChrome.label5    "Aktivigi la senerarigan ilujon por la retumila chrome kaj por la aldonaĵoj">
+<!ENTITY options.enableChrome.tooltip3  "Ŝalto de tiu ĉi elekteblo permesos al vi uzi plurajn ilojn por programistoj en la kunteksto de la retumilo (Iloj > Teksaĵa programistoj > Retumila ilujo) kaj uzi senerarigajn aldonaĵojn el la administro de aldonaĵoj">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableRemote.label3    "Ebligi foran sencimigon">
-<!ENTITY options.enableRemote.tooltip2  "Ŝalto de tiu ĉi elekteblo permesos al la programistaj iloj sencimigon de foraj instancoj, kiel tiuj de Firefox OS">
+<!ENTITY options.enableRemote.label3    "Ebligi foran senerarigon">
+<!ENTITY options.enableRemote.tooltip2  "Ŝalto de tiu ĉi elekteblo permesos al la programistaj iloj la senerarigon de foraj programoj, kiel tiuj de Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -147,7 +143,7 @@
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
-<!ENTITY options.debugger.label            "Sencimigilo">
+<!ENTITY options.debugger.label            "Erarserĉilo">
 
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
