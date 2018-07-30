@@ -463,7 +463,7 @@
 <!ENTITY hidePluginCmd.label          "Ukryj tę wtyczkę">
 <!ENTITY hidePluginCmd.accesskey      "U">
 <!ENTITY copyLinkCmd.label "Kopiuj adres odnośnika" >
-<!ENTITY copyLinkCmd.accesskey "K" >
+<!ENTITY copyLinkCmd.accesskey "a" >
 <!ENTITY copyImageCmd.label "Kopiuj adres obrazu">
 <!ENTITY copyImageCmd.accesskey "b" >
 <!ENTITY copyImageContentsCmd.label "Kopiuj obraz">
@@ -473,7 +473,7 @@
 <!ENTITY copyAudioURLCmd.label        "Kopiuj adres dźwięku">
 <!ENTITY copyAudioURLCmd.accesskey    "u">
 <!ENTITY copyEmailCmd.label "Kopiuj adres e-mail" >
-<!ENTITY copyEmailCmd.accesskey "e" >
+<!ENTITY copyEmailCmd.accesskey "a" >
 <!ENTITY thisFrameMenu.label "Ramka" >
 <!ENTITY thisFrameMenu.accesskey "r" >
 <!ENTITY mediaPlay.label             "Odtwórz">
