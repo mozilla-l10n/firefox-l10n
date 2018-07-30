@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Automatisch afspelen toestaan">
 <!ENTITY pref_media_autoplay_enabled_summary "Automatisch afspelen van video’s en andere media-inhoud door websites beheren">
+<!ENTITY pref_media_autoplay_allow "Automatisch afspelen toestaan">
+<!ENTITY pref_media_autoplay_block "Automatisch afspelen blokkeren">
 <!ENTITY pref_zoom_force_enabled "Zoom altijd inschakelen">
 <!ENTITY pref_zoom_force_enabled_summary "Overschrijven forceren, zodat u elke pagina kunt zoomen">
 <!ENTITY pref_voice_input "Spraakinvoer">
@@ -903,3 +905,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Afspelen hervatten">
 <!ENTITY pip_pause_button_title "Pauzeren">
 <!ENTITY pip_pause_button_description "Afspelen pauzeren">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName;-locatieservice">
