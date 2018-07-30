@@ -12,9 +12,25 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Text displayed next to the list of Service Workers to encourage users to check out
+# about:debugging to see all registered Service Workers.
+serviceworker-list-aboutdebugging = Malfermu <a>about:debugging</a> por vidi «Service Workers» de aliaj nomregnoj
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Malregistri
+# Text for the debug link displayed for an already started Service Worker. Clicking on the
+# link opens a new devtools toolbox for this service worker. The title attribute is only
+# displayed when the link is disabled.
+serviceworker-worker-debug = Senerarigi
+    .title = Oni nur povas senerarigi funkciantajn «Service Workers»
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
+# Service Worker status. A running service worker is registered, currently executed, can
+# be debugged and stopped.
+serviceworker-worker-status-running = Funkcianta
+# Service Worker status. A stopped service worker is registered but not currently active.
+serviceworker-worker-status-stopped = Haltigita
+# Service Worker status. A registering service worker is not yet registered and cannot be
+# started or debugged.
+serviceworker-worker-status-registering = Registrata
