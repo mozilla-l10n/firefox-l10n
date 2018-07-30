@@ -80,8 +80,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "ต">
 <!ENTITY cmd.preferencesUnix.label            "ค่ากำหนด">
 <!ENTITY cmd.preferencesUnix.accesskey        "ค">
-<!ENTITY cmd.about.label                      "เกี่ยวกับ">
-<!ENTITY cmd.about.accesskey                  "ก">
 
 <!ENTITY cmd.enableAddon.label                "เปิดใช้งาน">
 <!ENTITY cmd.enableAddon.accesskey            "ป">
@@ -128,7 +126,6 @@
 <!ENTITY detail.lastupdated.label             "อัปเดตล่าสุด">
 <!ENTITY detail.creator.label                 "นักพัฒนา">
 <!ENTITY detail.homepage.label                "หน้าแรก">
-<!ENTITY detail.numberOfDownloads.label       "ดาวน์โหลด">
 
 <!ENTITY detail.contributions.description     "นักพัฒนาส่วนเสริมนี้ใคร่ขอให้คุณช่วยสนับสนุนการพัฒนาอย่างต่อเนื่องโดยการสมทบทุนสักเล็กน้อย">
 
@@ -160,13 +157,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "หยุดชั่วคราว">
 <!ENTITY progress.cancel.tooltip              "ยกเลิก">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "ชื่อ">
-<!ENTITY sort.name.tooltip                    "เรียงตามชื่อ">
-<!ENTITY sort.dateUpdated.label               "อัปเดตล่าสุด">
-<!ENTITY sort.dateUpdated.tooltip             "เรียงตามวันที่อัปเดต">
 
 <!ENTITY addon.homepage                       "หน้าแรก">
 <!ENTITY addon.details.label                  "เพิ่มเติม">
@@ -210,17 +200,6 @@
 
 <!ENTITY settings.path.button.label           "เรียกดู…">
 
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "สิ่งนี้คืออะไร? การวัดและส่งข้อมูลทางไกลอาจติดตั้งและเรียกใช้การทดลองเป็นครั้งคราว">
-<!ENTITY experiment.info.learnmore "เรียนรู้เพิ่มเติม">
-<!ENTITY experiment.info.learnmore.accesskey "ร">
-<!ENTITY experiment.info.changetelemetry "การตั้งค่าการวัดและส่งข้อมูลทางไกล">
-<!ENTITY experiment.info.changetelemetry.accesskey "ว">
-
 <!ENTITY setting.learnmore "เรียนรู้เพิ่มเติม…">
 
 <!ENTITY disabledUnsigned.heading "ส่วนเสริมบางตัวถูกปิดใช้งาน">
@@ -243,3 +222,4 @@
 
 <!ENTITY legacyWarning.showLegacy "แสดงส่วนขยายแบบเก่า">
 <!ENTITY legacyExtensions.title "ส่วนขยายแบบเก่า">
+<!ENTITY legacyExtensions.learnMore "เรียนรู้เกี่ยวกับการเปลี่ยนแปลงของส่วนเสริม">
