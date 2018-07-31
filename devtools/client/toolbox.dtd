@@ -138,7 +138,7 @@
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "టైమ్‌స్టాంప్స్ చేతనంచేయి">
-<!ENTITY options.timestampMessages.tooltip    "వెబ్ కన్సోల్ నందు మీరు ఆదేశాలు మరియు అవుట్పుట్ ఎంపిక చేతనం చేస్తే టైమ్‌స్టాంప్ ప్రదర్శించబడును">
+<!ENTITY options.timestampMessages.tooltip    "ఈ ఆదేశాలను చేతనం చేస్తే వెబ్ కన్సోలు ఔట్‌పుట్‌లో టైమ్‌స్టాంపు కనిపిస్తుంది">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
@@ -188,7 +188,7 @@
 <!ENTITY options.sourceeditor.detectindentation.tooltip "సోర్స్ కాంటెంట్‌పై ఆధారపడి ఇండెంటేషన్ అంచనావేయి">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "బ్రాకెట్లు స్వయంచాలకంగామూయి">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "మూసివేత బ్రాకెట్లు స్వయంచాలకంగా చొప్పించును">
-<!ENTITY options.sourceeditor.expandtab.label           "ఖాళీలు ఉపయోగిస్తూ ఇండెంట్">
+<!ENTITY options.sourceeditor.expandtab.label           "ఇండెంటు కోసం ఖాళీలు వాడు">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "ట్యాబ్ కారెక్టర్ బదులు ఖాళీలు ఉపయోగించు">
 <!ENTITY options.sourceeditor.tabsize.label             "ట్యాబు పరిమాణం">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
