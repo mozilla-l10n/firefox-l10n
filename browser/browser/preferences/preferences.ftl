@@ -251,6 +251,10 @@ choose-button =
     .label = Kiezen…
     .accesskey = z
 
+choose-browser-language-description = Kies de talen die worden gebruikt voor het weergeven van menu’s, berichten en notificaties van { -brand-short-name }.
+confirm-browser-language-change-description = Herstart { -brand-short-name } om deze wijzigingen toe te passen.
+confirm-browser-language-change-button = Toepassen en herstarten
+
 translate-web-pages =
     .label = Webinhoud vertalen
     .accesskey = W
