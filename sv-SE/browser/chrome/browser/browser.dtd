@@ -51,6 +51,7 @@ but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Ladda om valda flikar">
 <!ENTITY  reloadSelectedTabs.accesskey       "o">
 <!ENTITY  bookmarkSelectedTabs.label         "Bokmärk flikar…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
