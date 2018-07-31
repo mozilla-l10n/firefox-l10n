@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
-<!ENTITY aboutUrlClassifier.pageTitle                   "Informo pri «url-classifier»">
 <!ENTITY aboutUrlClassifier.title                       "Informo pri la klasifikilo de retadresoj">
 <!ENTITY aboutUrlClassifier.providerTitle               "Provizanto">
 <!ENTITY aboutUrlClassifier.provider                    "Provizanto">
@@ -24,7 +23,7 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Senvalidiĝo de negativa staplo">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Tuta hakvaloro">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Senvalidiĝo de pozitiva staplo">
-<!ENTITY aboutUrlClassifier.debugTitle                  "Sencimigo">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Senerarigo">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Elekti registrajn modulojn">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Elekti registran dosieron">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Elekti registron de JS">

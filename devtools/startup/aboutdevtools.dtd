@@ -31,22 +31,17 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
 <!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
-          "Programi kaj sencimigi WebExtensions, web workers, service workers kaj pli, per la iloj por programistoj de Firefox.">
+          "Programi kaj senerarigi WebExtensions, web workers, service workers kaj pli, per la iloj por programistoj de Firefox.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
 <!ENTITY  aboutDevtools.enable.keyShortcutMessage
           "Vi aktivigis ŝparvojon de la iloj por programistoj. Se tio estis eraro, vi povas fermi tiun ĉi langeton.">
 
-<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
-  -  clicked on a "Enable Developer Tools" menu item. -->
-<!ENTITY  aboutDevtools.enable.menuMessage
-          "Esplori, redakti kaj sencimigi HTML, CSS kaj JavaScript per iloj kiel Inspektilo kaj Sencimigilo.">
-
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
 <!ENTITY  aboutDevtools.enable.menuMessage2
-          "Perfektigi la HTML, CSS kaj JavaScript de via retejo per iloj kiel Inspektilo kaj Sencimigilo.">
+          "Perfektigi la HTML, CSS kaj JavaScript de via retejo per iloj kiel Inspektilo kaj Erarserĉilo.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
@@ -59,8 +54,6 @@
 <!ENTITY  aboutDevtools.enable.learnMoreLink "Pli da informo pri la iloj por programistoj">
 
 <!ENTITY  aboutDevtools.enable.enableButton "Aktivigi la ilojn por programistoj">
-<!ENTITY  aboutDevtools.enable.closeButton "Fermi tiun ĉi paĝon">
-
 <!ENTITY  aboutDevtools.enable.closeButton2 "Fermi tiun ĉi langeton">
 
 <!ENTITY  aboutDevtools.welcome.title "Bonvenon al la iloj de Firefox por programistoj!">
