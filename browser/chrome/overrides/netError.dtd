@@ -93,11 +93,13 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Sidan du försöker se kan inte visas eftersom autenticiteten för mottagen data inte kan verifieras.</li> <li>Kontakta webbplatsens ägare och informera dem om detta problem.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Din anslutning är inte säker">
+<!ENTITY certerror.longpagetitle2 "Varning: Möjlig säkerhetsrisk framöver">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Ägaren av <span class='hostname'/> har konfigurerat sin webbplats felaktigt.  För att skydda din information från att bli stulen, har &brandShortName; inte anslutit till denna webbplats.">
 
+<!ENTITY certerror.introPara1 "&brandShortName; upptäckte ett möjligt säkerhetshot och fortsatte inte till <span class='hostname'/>. Om du besöker den platsen, kan angripare försöka stjäla information som dina lösenord, e-post eller kreditkort.">
 
 
 
