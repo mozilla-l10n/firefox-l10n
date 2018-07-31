@@ -60,7 +60,7 @@
 <!ENTITY  crash_send_report_message3 "Dweud wrth &vendorShortName; am y chwalfa fel bod modd ei drwsio">
 <!ENTITY  crash_include_url2 "Cynnwys cyfeiriad y dudalen roeddwn arni">
 <!ENTITY  crash_sorry "Ymddiheuriadau">
-<!ENTITY  crash_comment "Ychwanegu sylw (sylwadau yn weladwy)">
+<!ENTITY  crash_comment "Ychwanegu sylw (sylwadau yn weladwy\&apos;n gyhoeddus)">
 <!ENTITY  crash_allow_contact2 "Caniatáu i &vendorShortName; gysylltu â mi am yr adroddiad hwn">
 <!ENTITY  crash_email "Eich e-bost">
 <!ENTITY  crash_closing_alert "Gadael heb adael adroddiad chwalu?">
