@@ -316,6 +316,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Webfejlesztő">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsSaveRecording.label "Felvétel mentése">
+
 <!ENTITY inspectContextMenu.label     "Elem vizsgálata">
 <!ENTITY inspectContextMenu.accesskey "z">
 
@@ -631,6 +633,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Bővítmény elrejtése">
 <!ENTITY hidePluginCmd.accesskey      "r">
 <!ENTITY copyLinkCmd.label            "Hivatkozás címének másolása">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "v">
 <!ENTITY copyImageCmd.label           "Kép címének másolása">
 <!ENTITY copyImageCmd.accesskey       "c">
@@ -641,6 +646,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Hang címének másolása">
 <!ENTITY copyAudioURLCmd.accesskey    "s">
 <!ENTITY copyEmailCmd.label           "E-mail cím másolása">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "m">
 <!ENTITY thisFrameMenu.label              "Ez a keret">
 <!ENTITY thisFrameMenu.accesskey          "z">
