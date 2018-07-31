@@ -147,7 +147,7 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Sambungan internet anda tidak selamat">
-<!ENTITY certerror.longpagetitle2 "Amaran: Kemungkinan Ada Risiko Keselamatan">
+<!ENTITY certerror.longpagetitle2 "Amaran: Mungkin Ada Risiko Keselamatan">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
