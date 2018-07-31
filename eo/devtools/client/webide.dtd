@@ -18,7 +18,7 @@
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Haltigi programon">
 <!ENTITY projectMenu_stop_accesskey "H">
-<!ENTITY projectMenu_debug_label "Sencimigi programon">
+<!ENTITY projectMenu_debug_label "Senerarigi programon">
 <!ENTITY projectMenu_debug_accesskey "S">
 <!ENTITY projectMenu_remove_label "Forigi projekton">
 <!ENTITY projectMenu_remove_accesskey "F">
@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "E">
 <!ENTITY runtimeMenu_showDetails_label "Rulĉirkaŭaĵa informo">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Kontrolilo">
-<!ENTITY runtimeMenu_showMonitor_accesskey "K">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferoj de aparato">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 <!ENTITY runtimeMenu_showSettings_label "Agordoj de aparato">
@@ -146,10 +144,6 @@
 <!ENTITY devicesetting_newname "Nova nomo de agordo">
 <!ENTITY devicesetting_newtext "Valoro de agordo">
 <!ENTITY devicesetting_addnew "Aldoni novan agordon">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "Kontrolilo">
-<!ENTITY monitor_help "Helpo">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
