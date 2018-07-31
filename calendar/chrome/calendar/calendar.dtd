@@ -178,8 +178,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Presenoldeb">
 <!ENTITY calendar.context.attendance.menu.accesskey             "r">
 <!ENTITY calendar.context.attendance.occurrence.label           "Achlysur">
-<!ENTITY calendar.context.attendance.all.label        "Pob Achlysur" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Cyfres Gyfan">
 <!ENTITY calendar.context.attendance.send.label                 "Anfon hysbysiad nawr">
 <!ENTITY calendar.context.attendance.send.accesskey             "A">
@@ -391,7 +389,7 @@
 <!ENTITY calendar.print.tasks.label "Tasgau">
 <!ENTITY calendar.print.events.label "Digwyddiadau">
 <!ENTITY calendar.print.custom.label "Ystod dyddiadau cyfaddas:">
-<!ENTITY calendar.print.from.label "O:">
+<!ENTITY calendar.print.from.label "Oddi wrth:">
 <!ENTITY calendar.print.to.label "Hyd:">
 <!ENTITY calendar.print.settingsGroup.label "Gosodiadau Argraffu">
 <!ENTITY calendar.print.optionsGroup.label "Dewisiadau">
