@@ -155,6 +155,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Ο ιδιοκτήτης του <span class='hostname'/> δεν έχει ρυθμίσει την ιστοσελίδα του σωστά. Για την προστασία των πληροφοριών σας από κλοπή, το &brandShortName; δεν έχει συνδεθεί με αυτή την ιστοσελίδα.">
 
+<!ENTITY certerror.introPara1 "το &brandShortName; ανίχνευσε πιθανό κίνδυνο ασφάλειας και δε συνέχισε στο <span class='hostname'/>. Εάν επισκεφθείτε αυτή την ιστοσελίδα, οι επιτιθέμενοι θα μπορούσαν να προσπαθήσουν να κλέψουν πληροφορίες όπως τους κωδικούς πρόσβασης, τα μηνύματα ηλεκτρονικού ταχυδρομείου, ή τις πιστωτικές κάρτες σας.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Τι μπορείτε να κάνετε γι' αυτό;">
