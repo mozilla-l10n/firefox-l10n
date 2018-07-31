@@ -501,7 +501,7 @@
 <!ENTITY importCmd.accesskey "M">
 <!ENTITY clearRecentHistory.label "Clirio Hanes Diweddar…">
 <!ENTITY clearRecentHistory.accesskey "H">
-<!ENTITY accountManagerCmd2.label "Gosodiadau Cyfrifon">
+<!ENTITY accountManagerCmd2.label "Gosodiadau'r Cyfrif">
 <!ENTITY accountManagerCmd2.accesskey "G">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
@@ -875,7 +875,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
