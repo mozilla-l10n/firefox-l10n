@@ -139,7 +139,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "పరిష్కారాలను">
 
 <!ENTITY aboutSupport.mediaTitle "మాధ్యమం">
-<!ENTITY aboutSupport.mediaOutputDevicesTitle "అవుట్పుట్ పరికరములు">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "ఔట్‌పుట్ పరికరాలు">
 <!ENTITY aboutSupport.mediaInputDevicesTitle "ఇన్‌పుట్ పరికరాలు">
 <!ENTITY aboutSupport.mediaDeviceName "పేరు">
 <!ENTITY aboutSupport.mediaDeviceGroup "సమూహం">
