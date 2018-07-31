@@ -77,7 +77,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Mae'r porwr wedi atal y dudalen rhag cael ei llwytho yn y ffordd yma gan fod gan y dudalen bolisi diogelwch cynnwys sy'n atal hynny.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Gwall Cynnwys Llygredig">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Nid oes modd dangos y dudalen rycydch yn ceisio ei darllen gan fod gwall wedi ei ganfod yn y trosglwyddiad data.</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu am yr anhawster.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Nid oes modd dangos y dudalen rydych yn ceisio ei gweld yn sgil canfod gwall trosglwyddo data.</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL pell">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu am y broblem..</li></ul></p>">
