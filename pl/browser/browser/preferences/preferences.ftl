@@ -566,6 +566,7 @@ permissions-notification-link=Więcej informacji
 permissions-notification-pause =
     .label = Wstrzymaj powiadomienia do czasu ponownego uruchomienia Firefoksa
     .accesskey = W
+
 permissions-block-autoplay-media=
   .label=Blokowanie automatycznego odtwarzania treści z dźwiękiem przez strony
   .accesskey=B
@@ -573,12 +574,15 @@ permissions-block-autoplay-media-menu=Gdy witryny próbują automatycznie odtwar
 autoplay-option-ask=
   .label=pytaj
 autoplay-option-allow=
-  .label=zezwalaj odtwarzać
+  .label=odtwarzaj
 autoplay-option-block=
   .label=blokuj odtwarzanie
+autoplay-option-dont=
+  .label=nie odtwarzaj
 permissions-block-autoplay-media-exceptions=
   .label=Wyjątki…
   .accesskey=W
+
 permissions-block-popups =
     .label = Blokowanie wyskakujących okien
     .accesskey = B

@@ -75,6 +75,7 @@ permissions-exceptions-autoplay-media-window=
   .title=Uprawnione witryny – Automatyczne odtwarzanie
   .style={ permissions-window.style }
 permissions-exceptions-autoplay-media-desc=Określ, które witryny mogą automatycznie odtwarzać elementy multimedialne. Podaj dokładny adres witryny, której chcesz na to zezwolić, i naciśnij Zezwalaj.
+permissions-exceptions-autoplay-media-desc2=Określ, które witryny będą mogły zawsze (lub nigdy) automatycznie odtwarzać treści z dźwiękiem. Wprowadź adres witryny, której uprawnienia chcesz określić, i wybierz Zezwalaj lub Blokuj.
 
 permissions-site-notification-window =
     .title = Ustawienia – Powiadomienia
