@@ -77,8 +77,8 @@
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Tallenna kalenteriin kopio tapahtumasta ilman, että järjestäjä saa tietää. Osallistujaluettelo tyhjennetään.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Alustava">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Hyväksy tapahtumakutsu alustavasti">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Alustava kaikki">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Hyväksy tapahtumakutsu alustavasti koskien kaikkia tapahtuman tapauksia">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Alustavasti kaikki">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Hyväksy kaikki tapahtuman esiintymät alustavasti">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Päivitä">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Päivitä tapahtumaa kalenterissa">
 <!ENTITY lightning.imipbar.description                                      "Tässä viestissä on kutsu tapahtumaan.">
