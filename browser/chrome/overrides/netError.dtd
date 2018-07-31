@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "Problemas al cargar la página">
 <!ENTITY retry.label "Intentar de nuevo">
 <!ENTITY returnToPreviousPage.label "Regresar">
+<!ENTITY returnToPreviousPage1.label "Volver (recomendado)">
 <!ENTITY advanced.label "Avanzado">
+
+<!ENTITY continue.label "Continuar">
 
 <!-- Specific error messages -->
 
@@ -93,10 +96,28 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>La página que estás tratando de ver no se puede mostrar porque la autenticidad de los datos recibidos no pueden ser verificados.</li> <li>Por favor contacta a los propietarios del sitio web para informarles de este problema.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Tu conexión no es segura">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Advertencia: Riesgo potencial de seguridad a continuación">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "El dueño de <span class='hostname'/> configuró incorrectamente su sitio Web.  Para evitar que tu información sea robada, &brandShortName; no estableció la conexión con el sitio.">
+
+<!ENTITY certerror.introPara1 "&brandShortName; detectó una amenaza de seguridad potencial y no continuó <span class='hostname'/>. Si visita este sitio, es posible que atacantes traten de robar información como sus contraseñas, correos electrónicos o tarjetas de crédito.">
+
+<!ENTITY certerror.expiredCert.secondPara "Este problema seguramente se deba a que el reloj de tu computadora está configurado con una hora incorrecta, lo que prevendría a &brandShortName; conectarse de forma segura.">
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "¿Qué puedes hacer al respecto?">
+
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Es probable que haya un problema con el sitio web y no hay nada que puedas hacer al respecto.</p>
+<p>Si estás usando una red corporativa o un software antivirus, puedes contactarte con el equipo de asistencia técnica. También puedes notificarle al administrador del sitio sobre el problema.</p>">
+
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>El reloj de tu computadora está configurado en <span id='wrongSystemTime_systemDate'/>. Asegúrate de que tu computadora muestre la fecha, hora y huso horario correctos en tu configuración del sistema y luego actualiza <span class='hostname'/>.</p>
+<p>Si tu reloj ya tiene la configuración correcta, puede que la página web esté configurada incorrectamente y no hay nada que puedas hacer para resolver este problema; podrías notificar al administrador de la página web.</p>">
+
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Es probable que haya un problema con el sitio web, y no hay nada que puedas hacer para resolverlo. Puedes notificar al administrador del sitio web sobre el problema.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>El sitio podría estar temporalmente fuera de servicio o muy ocupado. Intenta nuevamente en un momento.</li> <li>Si no puedes cargar ninguna página, verifica la conexión de red de tu computadora.</li> <li>Si la red o tu computadora están protegidas por un firewall o proxy, asegúrate que &brandShortName; pueda acceder a internet.</li> </ul>">
 
@@ -127,10 +148,12 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; no se ha podido conectar a <span id='wrongSystemTimeWithoutReference_URL'/> porque el reloj de tu equipo muestra la hora equivocada que impide una conexión segura.</p> <p>Tu equipo muestra <span id='wrongSystemTimeWithoutReference_systemDate'/>. Para solucionar este problema, cambia la fecha y la hora para que se muestren correctamente.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conexión insegura">
+<!ENTITY certerror.pagetitle2  "Advertencia: Riesgo potencial de seguridad a continuación">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa HTTP
 Strict Transport Security (HSTS) para especificar que &brandShortName; solamente se conecte
 de forma segura. Como resultado, no es posible agregar una excepción para este
 certificado.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> tiene una política de seguridad llamada HTTP Strict transporte Security (HSTS), que significa que &brandShortName; solo puede conectarse a él con seguridad. No puedes agregar una excepción para visitar este sitio.">
 <!ENTITY certerror.copyToClipboard.label "Copiar texto al portapapeles">
 
 <!ENTITY inadequateSecurityError.title "Tu conexión no es segura">
