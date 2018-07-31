@@ -307,7 +307,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs2 "Pestañas personalizadas">
-<!ENTITY pref_custom_tabs_summary4 "Permitir a las aplicaciones abrir contenido web en una pestaña personalizada de carga rápida.">
+<!ENTITY pref_custom_tabs_summary4 "Permite a las aplicaciones abrir contenido web en una pestaña personalizada de carga rápida.">
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
@@ -555,7 +555,7 @@
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "Achicar pestañas">
-<!ENTITY pref_compact_tabs_summary2 "Ordenar pestañas en dos columnas en modo retrato">
+<!ENTITY pref_compact_tabs_summary2 "Ordena las pestañas en dos columnas en modo retrato">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed from about:home. This includes pages that are in history,
