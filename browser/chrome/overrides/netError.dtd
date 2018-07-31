@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "Праблема загрузкі старонкі">
 <!ENTITY retry.label "Паспрабуйце зноў">
 <!ENTITY returnToPreviousPage.label "Вярнуцца">
+<!ENTITY returnToPreviousPage1.label "Вярнуцца (рэкамендуецца)">
 <!ENTITY advanced.label "Дадаткова">
+
+<!ENTITY continue.label "Працягнуць">
 
 <!-- Specific error messages -->
 
@@ -125,10 +128,17 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Вашае злучэнне не бяспечнае">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Папярэджанне: наперадзе патэнцыяльная пагроза бяспекі">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Уладальнік <span class='hostname'/> наладзіў свой вэб-сайт няправільна.  Каб абараніць вашы звесткі ад крадзяжу, &brandShortName; не злучаўся з сайтам.">
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "
 <ul>
