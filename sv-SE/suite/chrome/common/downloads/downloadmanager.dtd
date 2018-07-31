@@ -28,9 +28,9 @@
 <!ENTITY col.actionStop.label            "Avbryt/Ta bort">
 <!ENTITY col.actionStop.accesskey        "A">
 <!ENTITY col.actionStop.tooltip          "Avbryt/Ta bort">
-<!ENTITY col.progress.label              "Färdigt">
+<!ENTITY col.progress.label              "Förlopp">
 <!ENTITY col.progress.accesskey          "F">
-<!ENTITY col.progress.tooltip            "Färdigt">
+<!ENTITY col.progress.tooltip            "Förlopp">
 <!ENTITY col.timeremaining.label         "Tid kvar">
 <!ENTITY col.timeremaining.accesskey     "k">
 <!ENTITY col.timeremaining.tooltip       "Tid kvar">
@@ -88,3 +88,9 @@
 <!ENTITY cmd.copyDownloadLink.accesskey  "l">
 <!ENTITY cmd.properties.label            "Egenskaper…">
 <!ENTITY cmd.properties.accesskey        "e">
+<!-- LOCALIZATION NOTE (cmd.unblock2.label):
+     This command is shown in the context menu when downloads are blocked.
+     -->
+<!ENTITY cmd.unblock2.label               "Tillåt nedladdning">
+<!ENTITY cmd.unblock2.accesskey           "T">
+
