@@ -4,9 +4,6 @@
 editmenu-undo =
     .label = Ångra
     .accesskey = U
-editmenu-cut =
-    .label = Klipp UT
-    .accesskey = t
 editmenu-copy =
     .label = Kopiera
     .accesskey = C
