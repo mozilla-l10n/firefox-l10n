@@ -157,6 +157,8 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Le problema occurre probabilemente in le sito web, e il ha nulle que tu pote facer pro resolver lo</p>
 <p>Si tu es in un rete corporative o usa un software anti-virus, tu pote demandar lor assistentia technic. Tu pote tamben notificar le administrator del sito super le problema.</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>Le horologio de tu computator es adjustate a <span id='wrongSystemTime_systemDate'/>. Assecura te que tu computator es adjustate al die, hora, e zona horari correcte in le definitiones de tu systema, e tunc recarga <span class='hostname'/>.</p>
+<p>Si tu horologio es ja adjustate al hora correcte, le sito web es probabilemente mal configurate, e il ha nulle cosa que tu pote facer pro resolver le problema. Tu pote notificar le administrator del sito web super le problema.</p>">
 
 
 <!ENTITY sharedLongDesc "
@@ -195,10 +197,12 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; non se ha connectite a <span id='wrongSystemTimeWithoutReference_URL'/> perque le horologio de tu computator sembla monstrar un hora erronee e isto impedi un connexion secur.</p><p>Tu computator pensa que il es <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pro corriger iste problema, cambia tu parametros de data e hora a fin que illos corresponde al hora correcte.</p>">
 
 <!ENTITY certerror.pagetitle1  "Connexion non secur">
+<!ENTITY certerror.pagetitle2  "Advertentia: Potential risco de securitate avante">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Iste sito usa HTTP
 Strict Transport Security (HSTS) pro specificar ille &brandShortName; pote connecter se solo
 a illo in modo secur. Assi, adder un exception pro iste
 certificato non es possibile.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ha un politica de securitate appellate HTTP Strict Transport Security (HSTS), le qual vole dicer que &brandShortName; solmente pote connecter se a illo de maniera secur. Tu pote adder un exception pro visitar iste sito.">
 <!ENTITY certerror.copyToClipboard.label "Copiar le texto in le planchetta">
 
 <!ENTITY inadequateSecurityError.title "Tu connexion non es secur">
