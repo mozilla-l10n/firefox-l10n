@@ -131,7 +131,7 @@
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext2.label          "చరరాశులను తిరిగివుంచు">
+<!ENTITY resetContext2.label          "చరరాశులను పునరుద్ధరించు">
 <!ENTITY resetContext2.accesskey      "t">
 
 <!ENTITY reloadAndRun.label           "తిరిగి లోడుచేసి నడుపు">
