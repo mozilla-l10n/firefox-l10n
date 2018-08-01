@@ -95,6 +95,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> jára ombohekóma iñanduti kuatiarogue ndoikoiete hag̃uáicha. Anive hag̃ua nemarandu oñemonda, &brandShortName; ndaikatúi oike ko ñanduti rendápe.">
 
+<!ENTITY certerror.introPara1 "&brandShortName; ojuhu tekorosã ombyaikuaáva ha upévare opytáma <span class='hostname'/>. Eikéramo ko tendápe, ikatu umi mba’evai omondase ndehegui marandu ha’éva ñe’ẽñemi, ñanduti veve térã kuatia'atã ñemurãva.">
 
 <!ENTITY certerror.expiredCert.secondPara "Ko apañuãi ikatuhína pe aravo oĩvai rupi ne mohendahápe, oñatõiva &brandShortName;-pe oikekatu hag̃ua.">
 
@@ -102,6 +103,9 @@ was trying to connect. -->
 
 
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Ikatu hína iñapañuãi ko ñanduti renda, ha ndaikatúi ejapo mba’eve emoĩporã hag̃ua. Ikatu emomarandu ñanduti renda ñangarekohárape pe apañuãi rehegua.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>Pe tenda ikatu hína ndojepurukuaái sapy'aitemi térã ojepuruetereihína. Eha'ãjey ag̃amieve.</li> <li>Ndaikatúiramo emyanyhẽ mba'eveichagua kuatiarogue, ehechajey ijeikekatu nemohendaha ñanduti peguápe.</li> <li>Nemohendaha térã ñanduti omo'ã chupe tatakytĩha térã proxy, ehecháke &brandShortName; oguerekópa moneĩ oike hag̃ua ñandutípe.</li> </ul>">
 
