@@ -102,8 +102,24 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-label = Nagi'iaj chre' nuguan' rugujñu'nunj
+    .accesskey = T
+fonts-languages-fallback-name-auto =
+    .label = Ga'ue nahui' nanj garasun'
 fonts-languages-fallback-name-arabic =
     .label = Arâbiko
+fonts-languages-fallback-name-baltic =
+    .label = Bâltiko
+fonts-languages-fallback-name-ceiso =
+    .label = Ruku Nee, (ISO)
+fonts-languages-fallback-name-cewindows =
+    .label = Ruku Nee, Microsoft
+fonts-languages-fallback-name-simplified =
+    .label = Chîno, Sa nitaj si chì'
+fonts-languages-fallback-name-traditional =
+    .label = Chîno, sa yitïnj niñaa
+fonts-languages-fallback-name-cyrillic =
+    .label = Siriliko
 fonts-languages-fallback-name-greek =
     .label = Griêgoj o
 fonts-languages-fallback-name-hebrew =
@@ -118,3 +134,14 @@ fonts-languages-fallback-name-turkish =
     .label = Tûrko
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnamîta
+fonts-languages-fallback-name-other =
+    .label = A'ngoj (daj ru' ruku nee)
+fonts-very-large-warning-title = Daj ga letra
+fonts-very-large-warning-message = Ganahuit ;ngo letra yachij ta'u (yachij ma doj riña 24 píxeles). Si ga'ue gi'iaj sun hu'e è nej pagina ruhuat na'ni't.
+fonts-very-large-warning-accept = Daj nanj huin nī na'ninj so' sa naduno'
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Sa gà' 'na niñaan ({ $name })
+fonts-label-default-unnamed =
+    .label = Sa gà' 'na' niñaan

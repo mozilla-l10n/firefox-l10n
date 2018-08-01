@@ -7,6 +7,9 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = Hua daj nī nej pajina web na ni ga'ue nachrun' ga'ì nânj a'mi'. Ganahui ahuin si ni'ñanjt.
+languages-customize-spoof-english =
+    .label = Nachrun' nânj ra'ña'anj riña pajina na, da' ga'ue gache nū hui'
 languages-customize-moveup =
     .label = Dusiki' gan'an ne' yatá'a
     .accesskey = U
@@ -16,6 +19,22 @@ languages-customize-movedown =
 languages-customize-remove =
     .label = Guxūn
     .accesskey = G
+languages-customize-select-language =
+    .placeholder = Ganahui a'ngo nânj garasut...
 languages-customize-add =
     .label = Nutà'
     .accesskey = N
+# The pattern used to generate strings presented to the user in the
+# locale selection list.
+#
+# Example:
+#   Icelandic [is]
+#   Spanish (Chile) [es-CL]
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+#   $code (String) - Locale code of the locale (for example: "is", "es-CL")
+languages-code-format =
+    .label = { $locale } [{ $code }]
+languages-active-code-format =
+    .value = { languages-code-format.label }

@@ -7,6 +7,14 @@ permissions-window =
     .style = width: 45em
 permissions-close-key =
     .key = w
+permissions-address = Si direksion sitio na
+    .accesskey = d
+permissions-block =
+    .label = Si ga'ni'
+    .accesskey = S
+permissions-session =
+    .label = Ga'ni' gi'iaj sun sesion
+    .accesskey = S
 permissions-allow =
     .label = Ga'nin'
     .accesskey = A
@@ -23,5 +31,45 @@ permissions-remove-all =
 permissions-button-cancel =
     .label = Duyichin'
     .accesskey = D
+permissions-button-ok =
+    .label = Na’nïnj sà’ sa nadunat
+    .accesskey = s
 permissions-searchbox =
     .placeholder = Nana'ui' sitio web
+permissions-capabilities-allow =
+    .label = Ga'nïn'
+permissions-capabilities-block =
+    .label = Si ga'nïn'
+
+## Invalid Hostname Dialog
+
+
+## Exceptions - Tracking Protection
+
+
+## Exceptions - Cookies
+
+
+## Exceptions - Pop-ups
+
+
+## Exceptions - Saved Logins
+
+
+## Exceptions - Add-ons
+
+
+## Exceptions - Autoplay Media
+
+
+## Site Permissions - Notifications
+
+
+## Site Permissions - Location
+
+
+## Site Permissions - Camera
+
+
+## Site Permissions - Microphone
+
