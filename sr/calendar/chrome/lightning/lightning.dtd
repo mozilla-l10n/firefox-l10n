@@ -75,9 +75,9 @@
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Поново закажи догађај">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Сачувај примерак">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Чува примерак догађаја у календар, одвојено од одговарања организатору. Списак полазника ће бити испражњен.">
-<!ENTITY lightning.imipbar.btnTentative.label                               "Привремено">
+<!ENTITY lightning.imipbar.btnTentative.label                               "Условно">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Прихвати условно позивницу на догађај">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Све привремено">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Све условно">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Прихвати условно позивницу за све ове догађаје">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Ажурирај">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Ажурирај догађај у календару">
