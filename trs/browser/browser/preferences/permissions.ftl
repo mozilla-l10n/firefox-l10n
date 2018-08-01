@@ -40,15 +40,26 @@ permissions-capabilities-allow =
     .label = Ga'nïn'
 permissions-capabilities-block =
     .label = Si ga'nïn'
+permissions-capabilities-prompt =
+    .label = Gachinj na'anj yitïnj
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = Nitaj si ha hue'è si direksion servidor
+permissions-invalid-uri-label = Gi'iaj 'ngo sunnuj u ni, gachrun hue'e si dirección ra
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-tracking-protection-window =
+    .title = Se sa yakaj guendo' - Sa arán rastreo
+    .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = Nu nachrut sa arán da' si nari' nej dugui' so' riña sitio web na.
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Së sa yakaj guano' - Cookies ni nej sa 'na' 'nga sitio
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
