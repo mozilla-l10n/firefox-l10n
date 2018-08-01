@@ -97,9 +97,22 @@ browser-containers-settings =
     .label = Nagi'iô'...
     .accesskey = N
 containers-remove-alert-title = Guxunt markador na anj?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Si sa' naduret markador na ni ganarrân daran' markador hua ni'ninj { $count }. Gani yitinj ruhuat si duret markador na anj?.
+       *[other] Si sa' naduret markador na ni ganarrân daran' markador hua ni'ninj { $count }. Gani yitinj ruhuat si duret markador na anj?.
+    }
+containers-remove-ok-button = Dure' markador na
+containers-remove-cancel-button = Si dure' markador na
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Nânj a'mi' ni daj ga ma
+fonts-and-colors-header = Daj ga ma ni kolô
+default-font = Letra 'nga hua nia
+    .accesskey = L
 default-font-size = Dàj yachìj man
     .accesskey = D
 advanced-fonts =
@@ -109,13 +122,41 @@ colors-settings =
     .label = Kolô
     .accesskey = K
 language-header = Nanj a'min'
+choose-language-description = Ganahui' nânj ruhuat gahui riña pagina web
 choose-button =
     .label = Naguī.
+    .accesskey = N
+translate-web-pages =
+    .label = Nachru' a'ngo nânj gahui riña web
+    .accesskey = N
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Nachrun' a'ngo nânj a'min' 'nga <img data-l10n-name="logo"/>
+translate-exceptions =
+    .label = Excepsiones…
+    .accesskey = x
+check-user-spelling =
+    .label = Natsij si achrùn hue'et
     .accesskey = N
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Archivo ni aplikasion
 download-header = Nadunínj
+download-save-to =
+    .label = Na'ninj so' archivo riña
+    .accesskey = a
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Natsij ni'iajt…
+           *[other] Natsij ni'iajt…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] t
+           *[other] i
+        }
 
 ## General Section - Performance
 
