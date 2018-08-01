@@ -437,8 +437,8 @@
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "Reporto de sanitate de &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Comparti datos con &vendorShortName; super tu sanitate de navigator e adjuta te comprehender le performance del navigator tue">
+<!ENTITY datareporting_fhr_title "Reporto de salubritate de &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "Comparti datos con &vendorShortName; super le salubritate de tu navigator e te adjuta a comprehender le rendimento de tu navigator">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Comparti datos de uso, hardware, e personalisationes re tu navigator con &vendorShortName; pro nos adjutar a render &brandShortName; melior">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; submitte le reportos de collapso pro adjutar &vendorShortName; a facer tu navigator plus stabile e secur">
