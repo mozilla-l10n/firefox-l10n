@@ -98,7 +98,7 @@
 <!ENTITY showTaskbarCmd.label                           "სტატუსის პანელი">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "მორგება…">
-<!ENTITY customizeToolbar.accesskey                     "C">
+<!ENTITY customizeToolbar.accesskey                     "რ">
 <!ENTITY layoutMenu.label                               "თარგი">
 <!ENTITY layoutMenu.accesskey                           "L">
 <!ENTITY showDirectoryPane.label                        "დასტის პანელი">

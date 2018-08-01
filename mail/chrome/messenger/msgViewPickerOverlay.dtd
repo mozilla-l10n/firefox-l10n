@@ -15,8 +15,8 @@
 <!ENTITY viewTags.label "ჭდეები">
 <!ENTITY viewTags.accesskey "T">
 <!ENTITY viewCustomViews.label "საკუთარი ხედი">
-<!ENTITY viewCustomViews.accesskey "V">
+<!ENTITY viewCustomViews.accesskey "კ">
 <!ENTITY viewVirtualFolder.label "ხედის დასტად შენახვა…">
 <!ENTITY viewVirtualFolder.accesskey "S">
 <!ENTITY viewCustomizeView.label "მორგება…">
-<!ENTITY viewCustomizeView.accesskey "C">
+<!ENTITY viewCustomizeView.accesskey "გ">

@@ -23,7 +23,7 @@
 <!ENTITY showAnimatedAlert.accesskey      "S">
 <!ENTITY notificationAlertSettings2.label "შეგიძლიათ გამორთოთ ნაგულისხმევი ხმოვანი სიგნალი და სხვა ნიშნები შეტყობინებების არეში, სისტემის პარამეტრებიდან.">
 <!ENTITY customizeMailAlert.label         "მორგება…">
-<!ENTITY customizeMailAlert.accesskey     "C">
+<!ENTITY customizeMailAlert.accesskey     "გ">
 
 <!ENTITY showTrayIcon.label               "ხატულას ჩვენება სიტემურ ქვედა ზოლზე">
 <!ENTITY showTrayIcon.accesskey           "t">
@@ -33,7 +33,7 @@
 <!ENTITY systemsound.label                "ახალი წერილის ნაგულისხმები სისტემური გახმოვანება">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "შემდეგი ხმოვანი ფაილის გამოყენება">
-<!ENTITY customsound.accesskey            "U">
+<!ENTITY customsound.accesskey            "ყ">
 <!ENTITY browse.label                     "ნუსხა…">
 <!ENTITY browse.accesskey                 "B">
 
