@@ -69,6 +69,12 @@ restart-later = بعد میں دوباره شروع کریں
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = ایک توسیع، <img data-l10n-name="icon"/>{ $name }، آپ کا ابتدائی صفحہ کنٹرول کر رہیہے۔
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = ایک توسیع، <img data-l10n-name="icon"/>{ $name }، آپ کے نئے ٹیب کا صفحہ کنٹرول کر رہی ہیں۔
 
 ## Preferences UI Search Results
 
@@ -83,6 +89,7 @@ startup-header = سٹارٹ اپ
 separate-profile-mode =
     .label = { -brand-short-name } اور Firefox کو ہم وقت چلنے کی اجازت دے
 use-firefox-sync = ٹوٹکا: یہ علیحدہ پروفائلز استعمال کرتا ہے. ان کے درمیان ڈیٹا کا اشتراک کرنے کی مطابقت پذیری کا استعمال کریں.
+get-started-not-logged-in = { -sync-brand-short-name } میں سائن ان کریں
 always-check-default =
     .label = ہمیشہ جانچ پڑتال کریں کہ { -brand-short-name } آپ کا پہلے سے طے شدہ براؤزر ہے
     .accesskey = ی
@@ -353,6 +360,9 @@ sync-manage-account = اکاؤنٹ کا بندوبست کریں
     .accesskey = o
 sync-signedin-unverified = { $email } توثیق شدہ نہیں ہے۔
 sync-signedin-login-failure = پھر جڑنے کے لیے سائن ان کریں { $email }
+sync-resend-verification =
+    .label = توژیق کاری دوبارہ ارسال کریں
+    .accesskey = d
 sync-remove-account =
     .label = اکائونٹ ہٹائیں
     .accesskey = R
