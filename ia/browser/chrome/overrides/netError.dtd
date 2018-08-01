@@ -8,6 +8,7 @@
 <!ENTITY loadError.label "Problema cargante le pagina">
 <!ENTITY retry.label "Retentar">
 <!ENTITY returnToPreviousPage.label "Retornar">
+<!ENTITY returnToPreviousPage1.label "Retroceder (Recommendate)">
 <!ENTITY advanced.label "Avantiate">
 
 <!ENTITY continue.label "Continuar">
@@ -141,14 +142,20 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Tu connexion non es secur">
+<!ENTITY certerror.longpagetitle2 "Advertentia: Potential risco de securitate avante">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Le proprietarios de <span class='hostname'/> ha configurate lor sito web incorrectemente. Pro proteger tu informationes de esser robate,  &brandShortName; non se ha connectite a iste sito web.">
 
+<!ENTITY certerror.introPara1 "&brandShortName; ha detectate un potential menacia al securitate e non ha potite continuar a <span class='hostname'/>. Si tu visita iste sito, le attaccantes potera tentar robar informationes como tu contrasignos, emails, o cartas de credito.">
 
+<!ENTITY certerror.expiredCert.secondPara "Iste problema occurre probabilemente perque le horologio de tu computator es adjustate con le hora incorrecte, le qual impedi &brandShortName; de connecter se securmente.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Que pote tu facer concernente a isto?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Le problema occurre probabilemente in le sito web, e il ha nulle que tu pote facer pro resolver lo</p>
+<p>Si tu es in un rete corporative o usa un software anti-virus, tu pote demandar lor assistentia technic. Tu pote tamben notificar le administrator del sito super le problema.</p>">
 
 
 
