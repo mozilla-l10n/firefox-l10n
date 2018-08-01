@@ -9,7 +9,7 @@
 <!ENTITY defaultColorsRadio.accessKey "D">
 <!ENTITY defaultColorsRadio.tooltip "მხოლოდ ბროუზერის სტანდარტული პალიტრის გამოყენება">
 <!ENTITY customColorsRadio.label "თქვენი ფერების გამოყენება:">
-<!ENTITY customColorsRadio.accessKey "C">
+<!ENTITY customColorsRadio.accessKey "ქ">
 <!ENTITY customColorsRadio.tooltip "ფერების ეს პალიტრა ბროუზერის პალიტრას ჩაანაცვლებს">
 
 <!ENTITY normalText.label "ძირითადი ტექსტი">
