@@ -60,7 +60,7 @@
 <!ENTITY hfPage              "გვერდი #">
 <!ENTITY hfPageAndTotal      "გვერდი # სულ #">
 <!ENTITY hfBlank             "-ცარიელი-">
-<!ENTITY hfCustom            "საკუთარი…">
+<!ENTITY hfCustom            "მითითებული…">
 
-<!ENTITY customPrompt.title  "საკუთარი…">
+<!ENTITY customPrompt.title  "მითითებული…">
 <!ENTITY customPrompt.prompt "თავსართის/ქვესართის მითითება">
