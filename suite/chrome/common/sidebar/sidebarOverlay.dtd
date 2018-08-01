@@ -6,8 +6,8 @@
 <!ENTITY sidebar.reload.label           "განახლება">
 <!ENTITY sidebar.reload.accesskey       "R">
 <!ENTITY sidebar.picker.label           "დაფები">
-<!ENTITY sidebar.customize.label        "სტენდის მორგება…">
-<!ENTITY sidebar.customize.accesskey    "u">
+<!ENTITY sidebar.customize.label        "გვერდითი ზოლის მორგება…">
+<!ENTITY sidebar.customize.accesskey    "გ">
 <!ENTITY sidebar.hide.label             "დაფის დამალვა">
 <!ENTITY sidebar.hide.accesskey         "H">
 <!ENTITY sidebar.switch.label           "დაფაზე გადართვა">
