@@ -86,9 +86,9 @@ permissions-exceptions-addons-desc = Tu pote specificar que sitos web es permitt
 ## Exceptions - Autoplay Media
 
 permissions-exceptions-autoplay-media-window =
-    .title = Sitos web permittite - Reproduction automatic
+    .title = Sitos web permittite - Presentation automatic
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Tu pote specificar qual sitos web potera reproducer automaticamente elementos. Insere le adresse exacte que tu vole autorisar e clicca Permitter.
+permissions-exceptions-autoplay-media-desc = Tu pote specificar qual sitos web potera presentar automaticamente elementos de media. Insere le adresse exacte que tu vole autorisar e clicca Permitter.
 permissions-exceptions-autoplay-media-desc2 = Tu pote specificar le sitos web que es sempre permittite e illos que non es jammais permittite a presentar automatiamente le media con son.  Scribe le adresse del sito e tunc clicca sur Blocar o Permitter.
 
 ## Site Permissions - Notifications
