@@ -157,6 +157,10 @@ download-choose-folder =
             [macos] t
            *[other] i
         }
+download-always-ask-where =
+    .label = Yitinj chre ni' nachri' na'anj ma dane' na'ninj sa'aj archivo
+    .accesskey = o
+applications-header = Aplikasiôn
 
 ## General Section - Performance
 
