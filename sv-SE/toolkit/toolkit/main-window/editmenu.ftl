@@ -4,6 +4,12 @@
 editmenu-undo =
     .label = Ångra
     .accesskey = U
+editmenu-redo =
+    .label = Gör om
+    .accesskey = G
+editmenu-cut =
+    .label = Klipp ut
+    .accesskey = t
 editmenu-copy =
     .label = Kopiera
     .accesskey = C
