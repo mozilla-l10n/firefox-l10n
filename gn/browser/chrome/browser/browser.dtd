@@ -963,6 +963,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingProtection.tooltip "Embojuruja jeguerohoryvéva tapykuere mo'ãhápe">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; ojokohína ko kuatiarogue vore ikatúva ohapykueho ñekundaha rapykuere.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; ojuhu mba’epuru ikatúva ohapykueho ñekundaha rapykuere.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; ojuhu mba’epuru ikatúva ohapykueho ñekundaha rapykuere. Pe ñemo’ãha ojepe’a.">
+<!ENTITY trackingProtection.notDetected5 "Ndojejuhúi mba’epuru jehekaha ko kuatiaroguépe.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
