@@ -4,9 +4,9 @@
 
 <!ENTITY startpage.title "Välkommen till &brandShortName; E-post &amp; Grupper">
 <!--# LOCALIZATION NOTE (headline.label): the URL for <a id="vendorURL"> is fetched from brand.properties -->
-<!ENTITY headline.label 
+<!ENTITY headline.label
 'Välkommen till <a id="vendorURL" href="">&brandShortName;</a> E-post &amp; Grupper!'>
-<!ENTITY description.label 
+<!ENTITY description.label
 "&brandShortName; E-post &amp; Grupper är ett kraftfullt e-post- och diskussionsgruppsprogram 
 byggt på öppen källkod, och som stöder avancerad igenkänning av skräppost och andra praktiska funktioner.">
 <!ENTITY features.title "Funktioner">
@@ -26,6 +26,8 @@ byggt på öppen källkod, och som stöder avancerad igenkänning av skräppost 
 'För många olika språk finns det  
 <a id="dictURL" href="">ordlistor</a>  
 att hämta på <a href="http://addons.mozilla.org/">Mozilla Add-ons</a>.'>
+<!ENTITY dict_info.label2
+'Många olika språk kan installeras från sektionen <a id="dictURL" href="">Ordlistor</a> på <a href="https://addons.thunderbird.net/seamonkey/"> SeaMonkey och Thunderbird-tillägg</a>.'>
 <!ENTITY info.title "Mer information">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label
