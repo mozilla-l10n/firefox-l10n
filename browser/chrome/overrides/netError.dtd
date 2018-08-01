@@ -118,15 +118,15 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> 的管理员没有正确配置好此网站。为避免您的信息失窃，&brandShortName; 并未与此网站建立连接。">
 
-<!ENTITY certerror.introPara1 "&brandShortName; 检测到潜在的安全威胁并没有继续访问 <span class='hostname'/>。若您访问此网站，攻击者可能会尝试窃取您的密码，电子邮件或信用卡等信息。">
+<!ENTITY certerror.introPara1 "&brandShortName; 检测到潜在的安全威胁，因此没有继续访问 <span class='hostname'/>。若您访问此网站，攻击者可能会尝试窃取您的密码、电子邮件、信用卡等信息。">
 
 <!ENTITY certerror.expiredCert.secondPara "这个问题很可能是因为您的计算机时钟被设置为错误的时间，这会阻碍 &brandShortName; 的安全连接。">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "您可以做什么？">
 
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
-<p>这个问题很可能与网站有关，您无法解决。</p>
-<p>如果您使用的是公司网络或在使用防病毒软件，则可以联系技术支持寻求帮助。您也可以通知网站管理员该问题。</p>
+<p>这个问题大多与网站有关，您无法解决。</p>
+<p>如果您是在使用公司网络或某些防病毒软件时遇到此问题，可考虑联系客服（技术支持）以寻求帮助。您也可以向网站管理员告知此问题。</p>
 ">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
@@ -134,7 +134,7 @@ was trying to connect. -->
 <p>如果您的时钟已设置为正确的时间，则可能是网站配置错误，您无法解决此问题。您可以通知网站管理员该问题。</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
-<p>这个问题很可能与网站有关，您无法解决。您可以通知网站管理员该问题。</p>
+<p>这个问题大多与网站有关，您无法解决。您可以向网站管理员告知此问题。</p>
 ">
 
 <!ENTITY sharedLongDesc "<ul> 
