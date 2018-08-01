@@ -967,7 +967,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; ojuhu mba’epuru ikatúva ohapykueho ñekundaha rapykuere.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; ojuhu mba’epuru ikatúva ohapykueho ñekundaha rapykuere. Pe ñemo’ãha ojepe’a.">
 <!ENTITY trackingProtection.notDetected5 "Ndojejuhúi mba’epuru jehekaha ko kuatiaroguépe.">
+<!ENTITY trackingProtection.notDetectedException "Ndojejuhúi mba’epuru jehekaha ko kuatiaroguépe. Ojepe’áma ko tendápe g̃uarã ñemo’ã.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Ijurujáma jehekaha ñemo’ã. Emyenehẽjey ko kuatiarogue ejoko hag̃ua opaite ojehekaha.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
