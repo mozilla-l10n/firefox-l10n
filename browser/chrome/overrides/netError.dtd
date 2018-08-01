@@ -128,7 +128,7 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Вашае злучэнне не бяспечнае">
-<!ENTITY certerror.longpagetitle2 "Папярэджанне: наперадзе патэнцыяльная пагроза бяспекі">
+<!ENTITY certerror.longpagetitle2 "Папярэджанне: наперадзе патэнцыяльная пагроза бяспецы">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
