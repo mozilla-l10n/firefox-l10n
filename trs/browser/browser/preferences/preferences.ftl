@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -97,22 +89,14 @@ is-not-default = { -brand-short-name } sè sa rajsùn yitin' da' gaché nu' huin
 set-as-my-default-browser =
     .label = Nagi'iaj yitïn' ma...
     .accesskey = D
-startup-page = 'Ngà gayi'ì { -brand-short-name }
-    .accesskey = s
-startup-user-homepage =
-    .label = Digan riña ayi'ì si paginat
-startup-blank-page =
-    .label = Digan 'ngo pagina gatsìi
-startup-prev-session =
-    .label = Digan riña na'ninjt ne' rukù ni'inj
 disable-extension =
     .label = Duyichîn' extension
-home-page-header = Ñanj ayi'ì'
 tabs-group-header = Rakïj ñaj
 browser-containers-learn-more = Gahuin chrun doj
 browser-containers-settings =
     .label = Nagi'iô'...
     .accesskey = N
+containers-remove-alert-title = Guxunt markador na anj?
 
 ## General Section - Language & Appearance
 
@@ -180,9 +164,6 @@ use-current-pages =
 choose-bookmark =
     .label = garasun' markadır...
     .accesskey = B
-restore-default =
-    .label = Nagi'iaj nakà run' Hua nihian ma
-    .accesskey = R
 
 ## Search Section
 
