@@ -154,12 +154,19 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Que pote tu facer concernente a isto?">
 
-<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Le problema occurre probabilemente in le sito web, e il ha nulle que tu pote facer pro resolver lo</p>
-<p>Si tu es in un rete corporative o usa un software anti-virus, tu pote demandar lor assistentia technic. Tu pote tamben notificar le administrator del sito super le problema.</p>">
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Le problema es probabilemente in le sito web, e il ha nulle cosa que tu pote facer pro resolver lo</p>
+<p>Si tu es in un rete corporative o usa un software anti-virus, tu pote demandar lor assistentia technic. Tu pote tamben notificar le administrator del sito super le problema.</p>
+">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>Le horologio de tu computator es adjustate a <span id='wrongSystemTime_systemDate'/>. Assecura te que tu computator es adjustate al die, hora, e zona horari correcte in le definitiones de tu systema, e tunc recarga <span class='hostname'/>.</p>
-<p>Si tu horologio es ja adjustate al hora correcte, le sito web es probabilemente mal configurate, e il ha nulle cosa que tu pote facer pro resolver le problema. Tu pote notificar le administrator del sito web super le problema.</p>">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
+<p>Le horologio de tu computator es adjustate a <span id='wrongSystemTime_systemDate'/>. Assecura te que tu computator es adjustate al die, hora, e zona horari correcte in le definitiones de tu systema, e tunc recarga <span class='hostname'/>.</p>
+<p>Si tu horologio es ja adjustate al hora correcte, le sito web es probabilemente mal configurate, e il ha nulle cosa que tu pote facer pro resolver le problema. Tu pote notificar le administrator del sito web super le problema.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Le problema es probabilemente in le sito web, e il ha nulle cosa que tu pote facer pro resolver lo. Tu pote notificar le administrator del sito web super le problema.</p>
+">
 
 <!ENTITY sharedLongDesc "
 <ul>
