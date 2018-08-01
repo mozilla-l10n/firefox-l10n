@@ -85,6 +85,9 @@ permissions-site-location-window =
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = سیٹنگیں- کیمرہ اجازتیں
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 

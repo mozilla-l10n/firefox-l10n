@@ -258,6 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "گھر">
 
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; ابتدائی صفحہ">
 
 <!ENTITY bookmarksButton.label          "نشانیاں">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -1030,6 +1031,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "توسیعات نا اہل بنائیں">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.keepButton.label "تبدیلیاں برقرار رکھیں">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "توسیعات نا اہل بنائیں">
 <!ENTITY homepageControlled.disableButton.accesskey "D">

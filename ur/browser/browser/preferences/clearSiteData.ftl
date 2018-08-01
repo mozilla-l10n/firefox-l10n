@@ -15,6 +15,7 @@ clear-site-data-close-key =
 clear-site-data-cookies-empty =
     .label = کوکیاں اور سائٹ کوائف
     .accesskey = S
+clear-site-data-cookies-info = اگر صاف کیا تو شاید آپ ویبسائٹسٹ سے سائن آئوٹ کر دیائے حائیں
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
