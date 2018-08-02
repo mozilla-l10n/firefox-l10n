@@ -447,12 +447,12 @@
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ตัวรายงานข้อขัดข้อง">
-<!ENTITY datareporting_wifi_title2 "บริการตำแหน่งที่ตั้ง &vendorShortName;">
+<!ENTITY datareporting_wifi_title2 "บริการตำแหน่งที่ตั้งของ &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "ช่วย &vendorShortName; สร้างแผนที่โลก! แบ่งปันตำแหน่งที่ตั้ง Wi-Fi และเครือข่ายเคลื่อนที่ของอุปกรณ์ของคุณโดยประมาณเพื่อปรับปรุงบริการตำแหน่งที่ตั้งทางภูมิศาสตร์ของเรา">
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
-<!ENTITY datareporting_stumbler_notification_title "บริการตำแหน่งที่ตั้ง &vendorShortName; กำลังทำงาน">
+<!ENTITY datareporting_stumbler_notification_title "บริการตำแหน่งที่ตั้งของ &vendorShortName; กำลังทำงาน">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -726,7 +726,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_downloading_title2 "กำลังดาวน์โหลด &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "การดาวน์โหลดล้มเหลว">
-<!ENTITY updater_downloading_select2 "สัมผัสเพื่อเรียกใช้การอัปเดตเมื่อดาวน์โหลดเสร็จ">
+<!ENTITY updater_downloading_select2 "สัมผัสเพื่อใช้การอัปเดตเมื่อดาวน์โหลดเสร็จ">
 <!ENTITY updater_downloading_retry2 "สัมผัสเพื่อลองใหม่">
 
 <!ENTITY updater_apply_title3 "ดาวน์โหลดการอัปเดตสำหรับ &brandShortName; แล้ว">
@@ -905,4 +905,4 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
-<!ENTITY mls_notification_channel "บริการตำแหน่งที่ตั้ง &vendorShortName;">
+<!ENTITY mls_notification_channel "บริการตำแหน่งที่ตั้งของ &vendorShortName;">
