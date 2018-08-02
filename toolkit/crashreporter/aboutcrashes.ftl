@@ -2,6 +2,7 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+clear-all-reports-label = Hemû Raporkirinan Jê Bibe
 delete-confirm-title = Ji dil dixwazî?
 delete-confirm-description = Bi vê kiryarê dê hemû raporkirinên bên jêbirin û dê şûndeanîna wan nebe
 id-heading = ID'a Raporkirinê
