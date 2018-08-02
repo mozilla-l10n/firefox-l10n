@@ -99,6 +99,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "أغلب الظن أن سبب هذه المشكلة هو أن ساعة الحاسوب ليست صحيحة، ما يمنع &brandShortName; من الاتصال كما ينبغي.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "إليك ما تستطيع فعله حيال هذا">
 
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
 <p>أغلب الظن بأن المشكلة هي بالموقع نفسه، وليس هنالك ما يمكنك فعله لحلها.</p>
@@ -145,6 +146,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle1  "اتصال غير آمن">
 <!ENTITY certerror.pagetitle2  "تحذير: أمامك خطر أمني محتمل">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "يستخدم هذا الموقع سياسة النقل الصارمة (HSTS) تفرض على &brandShortName; ألا يتصل به إلا بأمان. بناء على هذا فقد تعذّر إضافة استثناء لهذه الشهادة.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "يستخدم الموقع <span class='hostname'></span> سياسة النقل الصارمة (HSTS)، ما يعني بأن &brandShortName; لا يستطيع الاتصال به إلا بأمان. لا يمكنك إضافة استثناء لزيارة هذا الموقع.">
 <!ENTITY certerror.copyToClipboard.label "انسخ النص إلى الحافظة">
 
 <!ENTITY inadequateSecurityError.title "اتّصالك غير آمن">
