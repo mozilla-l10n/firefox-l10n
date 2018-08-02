@@ -370,8 +370,10 @@
 <!ENTITY pref_use_system_font_size "Bruk skriftstorleiken til systemet">
 <!ENTITY pref_use_system_font_size_summary "Skaler nettinnhald i forhold til skriftstorleiken i systemet">
 
-<!ENTITY pref_media_autoplay_enabled "Tillat autoavspeling">
+<!ENTITY pref_media_autoplay_enabled "Tillat automatisk avspeling">
 <!ENTITY pref_media_autoplay_enabled_summary "Vel om nettsider automatisk kan spela av videoar og anna medieinnhald">
+<!ENTITY pref_media_autoplay_allow "Tillat automatisk avspeling">
+<!ENTITY pref_media_autoplay_block "Blokker automatisk avspeling">
 <!ENTITY pref_zoom_force_enabled "alltid slå på zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Tving overstyring slik at du kan zoome på alle sider">
 <!ENTITY pref_voice_input "Stemmeinngang">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Fortset avspeling">
 <!ENTITY pip_pause_button_title "Pause">
 <!ENTITY pip_pause_button_description "Avspeling I pause">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; stadteneste">
