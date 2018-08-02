@@ -5,6 +5,7 @@
 crash-reports-title = Relatórios de falha
 clear-all-reports-label = Remover todos os relatórios
 delete-confirm-title = Tem a certeza?
+delete-confirm-description = Isto irá apagar todos os relatórios e não poderá ser desfeito.
 crashes-unsubmitted-label = Relatórios de falha não submetidos
 id-heading = ID do relatório
 date-crashed-heading = Data da falha
