@@ -44,6 +44,7 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
 <!ENTITY aboutNetworking.rcwn                  "RCWN గణాంకాలు">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN స్థితి">
+<!ENTITY aboutNetworking.totalNetworkRequests  "మొత్తం నెట్‌వర్క్ అభ్యర్థనల లెక్క">
 <!ENTITY aboutNetworking.rcwnOperation         "క్యాషేఆపరేషన్">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "తెరువు">
 <!ENTITY aboutNetworking.rcwnPerfRead          "చదువు">
