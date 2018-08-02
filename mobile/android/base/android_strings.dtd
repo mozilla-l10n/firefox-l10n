@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "ఆటో ప్లే అనుమతించండి">
 <!ENTITY pref_media_autoplay_enabled_summary "వెబ్‌సైట్లు వీడియోలనూ ఇతర మీడియానూ ఆటోమెటిగ్గా ఆడించవచ్చా వద్దో నియంత్రించండి">
+<!ENTITY pref_media_autoplay_allow "ఆటోప్లే అనుమతించు">
+<!ENTITY pref_media_autoplay_block "ఆటోప్లేను నిరోధించు">
 <!ENTITY pref_zoom_force_enabled "ఎల్లప్పుడూ జూమ్ చేతనించు">
 <!ENTITY pref_zoom_force_enabled_summary "ఏ పేజీనైనా జూమ్ చెయ్యగలిగేలా చేయండి">
 <!ENTITY pref_voice_input "వాయిస్ ఇన్పుట్">
@@ -903,3 +905,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "ఆడిండం కొనసాగించు">
 <!ENTITY pip_pause_button_title "నిలుపు">
 <!ENTITY pip_pause_button_description "ఆడించడం నిలుపు">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; స్థాన సేవ">
