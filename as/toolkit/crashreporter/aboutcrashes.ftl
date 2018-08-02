@@ -6,5 +6,7 @@ clear-all-reports-label = সকলো সংবাদ আঁতৰাওক
 delete-confirm-title = আপুনি নিশ্চিত নে ?
 delete-confirm-description = ই সকলো সংবাদ মচি পেলাব আৰু এই কাৰ্য্যৰ প্ৰভাৱ পিছত নোহোৱা কৰিব নোৱাৰি।
 id-heading = সংবাদ ID
+crashes-submitted-label = জমা দিয়া ক্ৰেশ্ব সংবাদসমূহ
+date-submitted-heading = জমা দিয়াৰ তাৰিখ
 no-reports-label = কোনো ক্ৰেশ্ব সংবাদ জমা দিয়া হোৱা নাই।
 no-config-label = ক্ৰেশ্ব সংবাদ দেখুৱাবলৈ এই এপ্লিকেচনক সংৰূপণ কৰা হোৱা নাই। পছন্দ <code>breakpad.reportURL</code> নিৰ্ধাৰণ কৰিব লাগিব।
