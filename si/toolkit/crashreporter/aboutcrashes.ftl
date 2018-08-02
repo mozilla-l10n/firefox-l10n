@@ -6,5 +6,6 @@ clear-all-reports-label = සියළු වාර්තා ඉවත් කර
 delete-confirm-title = ඔබට විශ්වාස ද?
 delete-confirm-description = මෙය ඔබගේ සියලු වාර්තා මකාදමන අතර යළි සැකසිය නොහැක.
 id-heading = වාර්තා අංකය
+date-submitted-heading = යොමුකල දිනය
 no-reports-label = බිඳවැටීම් වාර්තා කිසිවක් ඉදිරිපත් කර නැත.
 no-config-label = මේ යෙදුම බිඳවැටීම් වාර්තා පෙන්නුම් කළ හැකි පරිදි සකසා නැත. <code>breakpad.reportURL</code> යන අභිප්‍රේතය යෙදිය යුතු ය.
