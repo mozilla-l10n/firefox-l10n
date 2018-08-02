@@ -8,6 +8,7 @@ delete-confirm-title = Да ли сте сигурни?
 delete-confirm-description = Ово ће уклонити све извештаје и не може се опозвати.
 crashes-unsubmitted-label = Извештаји о рушењу који нису послати
 id-heading = ID извештаја
+date-crashed-heading = Датум рушења
 crashes-submitted-label = Послати извештаји о рушењу
 date-submitted-heading = Датум послат
 no-reports-label = Ниједан извештај о рушењу није поднесен.
