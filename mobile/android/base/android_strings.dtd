@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "อนุญาตการเล่นอัตโนมัติ">
 <!ENTITY pref_media_autoplay_enabled_summary "ควบคุมการเล่นวิดีโอและเนื้อหาสื่ออื่นของเว็บไซต์โดยอัตโนมัติ">
+<!ENTITY pref_media_autoplay_allow "อนุญาตการเล่นอัตโนมัติ">
+<!ENTITY pref_media_autoplay_block "ปิดกั้นการเล่นอัตโนมัติ">
 <!ENTITY pref_zoom_force_enabled "เปิดใช้งานการซูมเสมอ">
 <!ENTITY pref_zoom_force_enabled_summary "บังคับใช้ค่าเพื่อให้คุณสามารถซูมได้ทุกหน้า">
 <!ENTITY pref_voice_input "การรับค่าด้วยเสียง">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "เล่นต่อ">
 <!ENTITY pip_pause_button_title "หยุดชั่วคราว">
 <!ENTITY pip_pause_button_description "หยุดเล่นชั่วคราว">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "บริการตำแหน่งที่ตั้ง &vendorShortName;">
