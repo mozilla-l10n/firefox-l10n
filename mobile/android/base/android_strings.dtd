@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "ಆಟೋ ಪ್ಲೇ ಅನುಮತಿಸು">
 <!ENTITY pref_media_autoplay_enabled_summary "ಜಾಲತಾಣಗಳು ಸ್ವಯಂ ವೀಡಿಯೊ ಮತ್ತು ಇತರೆ ಮೀಡಿಯಾ ವಿಷಯಗಳನ್ನು ಪ್ಲೇ ಮಾಡುತ್ತಿದ್ದಲ್ಲಿ ನಿಯಂತ್ರಿಸಿ">
+<!ENTITY pref_media_autoplay_allow "ಆಟೋ ಪ್ಲೇ ಅನುಮತಿಸು">
+<!ENTITY pref_media_autoplay_block "ಆಟೋ ಪ್ಲೇ ನಿರ್ಬಂಧಿಸು">
 <!ENTITY pref_zoom_force_enabled "ಜೂಮ್‌ ಅನ್ನು ಯಾವಾಗಲೂ ಸಕ್ರಿಯವಾಗಿರಿಸು">
 <!ENTITY pref_zoom_force_enabled_summary "ಯಾವುದೇ ಪುಟವನ್ನು ಜೂಮ್ ಮಾಡುವಂತಾಗಲು ಆದೇಶವನ್ನು ದಾಟಿ">
 <!ENTITY pref_voice_input "‍‍ಧ್ವನಿಯ ಇನ್‌ಪುಟ್">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "ಪ್ಲೇ ಮುಂದುವರೆಸು">
 <!ENTITY pip_pause_button_title "ವಿರಾಮ">
 <!ENTITY pip_pause_button_description "ಪ್ಲೇ ವಿರಮಿಸು">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; ಸ್ಥಳಾಧಾರಿತ ಸೇವೆಗಳು">
