@@ -86,7 +86,7 @@
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Tsa inkai nu markador">
-<!ENTITY bookmark_removed "Tsa ndo marka">
+<!ENTITY bookmark_removed "Stoo marka">
 <!ENTITY bookmark_updated "Inkàa va´a marcador ">
 <!ENTITY bookmark_options "Nduku">
 <!ENTITY bookmark_save "Chika vaà">
@@ -122,7 +122,7 @@
 <!ENTITY menu "N\&apos;da tuku">
 <!ENTITY back "Satàa">
 <!ENTITY stop "Tsikui\&apos;n">
-<!ENTITY site_security "Seguro ña sitio yoo">
+<!ENTITY site_security "Kuu kivu sitio yoo">
 <!ENTITY edit_mode_cancel "Kunchatu">
 
 <!ENTITY close_tab "Ndakasi pestaña">
@@ -170,8 +170,8 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "Marca">
-<!ENTITY overlay_share_bookmark_btn_label_already "Tsa in\&apos;kai nu marca">
+<!ENTITY overlay_share_bookmark_btn_label "Marka">
+<!ENTITY overlay_share_bookmark_btn_label_already "Tsa inkai nu markador">
 <!ENTITY overlay_share_send_other "Nda chu\&apos;in inka nuu">
 
 <!ENTITY overlay_share_open_browser_btn_label "kivi &brandShortName;">
@@ -447,6 +447,10 @@
 <!ENTITY datareporting_crashreporter_title_short "Katu\&apos;in ña makuu">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Ña nta ntuku">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Chinchee-yu &vendorShortName; ndadunku iin ñuu nu ña yivi! katu\&apos;un nchii inkau Wi-Fi tsi kaa ndusu tava na vaa na koo ña ndadunku tsio inkau.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +892,6 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Chika nu pantalla xina">
 <!ENTITY pwa_continue_to_website "Ku\&apos;un iu inka pagína">
 <!ENTITY pwa_onboarding_sumo "Ku chikau sitio web yo nu página xina tava ku kuncheuña cha ndukuku ña kunu tsaka.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->

@@ -5,6 +5,6 @@
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 <!ENTITY aboutLogins.title                       "kivii">
-<!ENTITY aboutLogins.update                      "Ntu tza a">
+<!ENTITY aboutLogins.update                      "Ntu tsaá">
 <!ENTITY aboutLogins.emptyLoginText              "Chikaa vaá nixi kitsau">
 <!ENTITY aboutLogins.emptyLoginHint              "Ta kitsau tsi siviu &brandShortName; ku ntui yo'o.">
