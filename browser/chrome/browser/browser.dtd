@@ -315,6 +315,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Pengembang Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsSaveRecording.label "Simpan Rekaman">
+
 <!ENTITY inspectContextMenu.label     "Inspeksi Elemen">
 <!ENTITY inspectContextMenu.accesskey "n">
 
@@ -630,6 +632,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Sembunyikan plugin ini">
 <!ENTITY hidePluginCmd.accesskey      "y">
 <!ENTITY copyLinkCmd.label            "Salin Lokasi Tautan">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "S">
 <!ENTITY copyImageCmd.label           "Salin Lokasi Gambar">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -640,6 +645,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Salin Lokasi Audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Salin Alamat Surel">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Bingkai Ini">
 <!ENTITY thisFrameMenu.accesskey          "B">
