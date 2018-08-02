@@ -4,3 +4,4 @@
 
 id-heading = ID do relatório
 no-reports-label = Nenhum relatório de travamento foi enviado.
+no-config-label = Este aplicativo não foi configurado para exibir relatórios de travamento. A preferência <code>breakpad.reportURL</code> deve ser definida.
