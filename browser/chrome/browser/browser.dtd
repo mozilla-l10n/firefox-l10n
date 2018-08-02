@@ -82,7 +82,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.accesskey                 "s">
 <!ENTITY  hiddenTabs.label                   "Verborgen tabbladen">
 
-<!ENTITY listAllTabs.label       "Alle tabbladtitels weergeven">
+<!ENTITY  listAllTabs.label      "Alle tabbladtitels tonen">
 
 <!ENTITY tabCmd.label "&#xad;Nieuw tabblad">
 <!ENTITY tabCmd.accesskey "t">
