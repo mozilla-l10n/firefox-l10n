@@ -102,6 +102,8 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Nagi'iaj chre' da'nga'a ma riña sa narikij gà' nà
+fonts-languages-fallback-desc = Sa nagi'iaj chre' nej nuguan' na ni rajsun' ma guenda nej sa gà' na doj.
 fonts-languages-fallback-label = Nagi'iaj chre' nuguan' rugujñu'nunj
     .accesskey = T
 fonts-languages-fallback-name-auto =
