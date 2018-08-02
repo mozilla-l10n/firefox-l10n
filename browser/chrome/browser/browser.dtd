@@ -328,6 +328,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Webudvikler">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "Optag udførelse">
+<!ENTITY devtoolsSaveRecording.label   "Gem optagelse">
+<!ENTITY devtoolsReplayExecution.label "Afspil udførelse">
+
 <!ENTITY inspectContextMenu.label     "Inspicer element">
 <!ENTITY inspectContextMenu.accesskey "n">
 
