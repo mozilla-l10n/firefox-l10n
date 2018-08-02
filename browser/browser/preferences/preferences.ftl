@@ -632,6 +632,37 @@ addressbar-locbar-openpage-option =
     .accesskey = d
 addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerimenti dei motori di ricerca
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Blocco contenuti
+
+content-blocking-desc = Blocca contenuti di terze parti, come pubblicità o codice, in grado di rallentare la navigazione e tracciare i tuoi spostamenti sul Web. Personalizza le impostazioni per ottenere il perfetto equilibrio tra protezione e velocità.
+
+content-blocking-learn-more = Ulteriori informazioni
+
+content-blocking-toggle-on =
+  .tooltiptext = Disattiva il blocco contenuti
+content-blocking-toggle-off =
+  .tooltiptext = Attiva il blocco contenuti
+
+content-blocking-toggle-label-on = ATTIVO
+  .accesskey = A
+content-blocking-toggle-label-off = DISATTIVATO
+  .accesskey = D
+
+content-blocking-category-label = Scegli che cosa bloccare
+
+content-blocking-tracking-protection-label = Elementi traccianti
+  .accesskey = E
+content-blocking-tracking-protection-description = Blocca tutti gli elementi traccianti conosciuti (nota: alcune pagine web potrebbero non caricarsi correttamente).
+content-blocking-tracking-protection-option-enabled =
+  .label = Blocca sempre
+content-blocking-tracking-protection-option-pbm =
+  .label = Blocca solo in navigazione anonima
+content-blocking-tracking-protection-option-disabled =
+  .label = Non bloccare
+content-blocking-tracking-protection-change-blocklist = Cambia elenco per blocco contenuti…
+
 ## Privacy Section - Tracking
 
 tracking-header = Protezione antitracciamento
