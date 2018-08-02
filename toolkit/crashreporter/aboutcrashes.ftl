@@ -11,4 +11,5 @@ id-heading = Rapport-ID
 date-crashed-heading = Nedbrudsdato
 crashes-submitted-label = Sendte fejlrapporter
 date-submitted-heading = Indsendelsesdato
+no-reports-label = Du har ikke indsendt nogen fejlrapporter.
 no-config-label = Dette program er ikke konfigureret til at vise fejlrapporter. Indstillingen <code>breakpad.reportURL</code> skal være sat.
