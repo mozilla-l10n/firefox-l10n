@@ -88,12 +88,24 @@ permissions-exceptions-addons-desc = Ga'ue gatajt ahuin sitio web dugutuj comple
 permissions-exceptions-autoplay-media-window =
     .title = Sitio hua ni'ninj - Nanū ma'ān ma
     .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Ga'ue gatajt ahuin sitio web ga'ue nanū ma'ān nej sa gīni'io' . Gachrun direksion sitio ruhuat ga'nïnt ni ga'uit klik riña taj ga'nïn'
+permissions-exceptions-autoplay-media-desc2 = Ga'ue gatajt ahuin sitio ga'ue nī sa si ga'ue nachrun ma'ān sa gini'io' 'ngà sa guni'. Gachrun si direksion sitio dan nī ne' rukù ga'ui't riña taj si ga'nïn' nej si riña taj ga'nïn'.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Sa nagi'io' - Ga'ni' nej notifikasion
+    .style = { permissions-window.style }
+permissions-site-notification-desc = Nej sitio na achín ni'iaj si ga'ninj ma notification rinant. Ga'uè gatajt ahuin sitio ga'ue ga'ninj notifikasion riña raj. Ga'uè garânt riña nej sa achín ni'iaj nej notifikasion.
+permissions-site-notification-disable-label =
+    .label = Si ganin' a'ngo solisitut guenda nej notifikasion
+permissions-site-notification-disable-desc = Na si ga'ninj da' ni nej sitio web nitaj si taj riña lista gachinj ni'iaj da' ga'ninj ma notifikasion. 'Ngà narán nej notifikasion nī gahuin ni si gi'iaj sun hue'è da'aj sitio web.
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Sa nagi'io' - ga'ni' dane' huin
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
