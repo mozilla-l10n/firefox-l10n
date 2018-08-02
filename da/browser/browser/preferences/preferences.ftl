@@ -713,6 +713,8 @@ autoplay-option-allow =
     .label = Tillad automatisk afspilning
 autoplay-option-block =
     .label = Bloker automatisk afspilning
+autoplay-option-dont =
+    .label = Afspil ikke automatisk
 
 permissions-notification-pause =
     .label = Sæt beskeder på pause, indtil { -brand-short-name } starter igen
