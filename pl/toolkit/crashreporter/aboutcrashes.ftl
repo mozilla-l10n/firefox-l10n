@@ -2,6 +2,7 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+clear-all-reports-label = Usuń wszystkie zgłoszenia
 delete-confirm-title = Czy na pewno?
 delete-confirm-description = Wszystkie zgłoszenia zostaną usunięte. Operacji tej nie można cofnąć.
 id-heading = ID zgłoszenia
