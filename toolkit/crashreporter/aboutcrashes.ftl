@@ -4,6 +4,7 @@
 
 crash-reports-title = క్రాష్ నివేదికలు
 clear-all-reports-label = నివేదికలను తొలగించండి
+delete-confirm-title = మీరు నిశ్చితమేనా?
 delete-confirm-description = ఇది అన్ని నివేదికలను తొలగిస్తుంది మరియు మరలా తిరిగివుంచలేము.
 crashes-unsubmitted-label = సమర్పించని క్రాష్ నివేదికలు
 id-heading = నివేదిక ID
