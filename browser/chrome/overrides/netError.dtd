@@ -119,16 +119,31 @@
 </ul>">
 
 <!ENTITY certerror.longpagetitle1 "A teu conescion a no l'é segua">
+<!ENTITY certerror.longpagetitle2 "Atençion: gh'é 'n reizego de seguessa potensiâ">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "O propietaio de <span class='hostname'/> o l'à configurou o seu scito mâ.  Pe protezze e teu informaçioin da l'ese aröbæ, &brandShortName; o no s'é conesso a sto scito.">
 
+<!ENTITY certerror.introPara1 "&brandShortName; o l'à atrovou 'na minaccia potensiâ e no aniâ in <span class='hostname'/>. Se ti veu vedde sto scito, quelli che atacan porieivan provâ a aröbate de informaçioin comme a paròlla segreta, email ò carte a poffo.">
 
+<!ENTITY certerror.expiredCert.secondPara "Sto problema o capita de spesso perché o releuio do computer o l'é sbaliou, e questo no fâ colegâ &brandShortName; in mòddo seguo.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "E aloa cöse ti peu fâ?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>O problema o l'é corpa do scito e no ti ghe peu fâ ninte.</p>
+<p>Se t'ê inte na ræ aziendale ò ti deuvi 'n software anti-viros, ti peu vedde se l'ascistensa peu agiutate. Ti peu anche informâ i aministratoî do scito che gh'é sto problema chi.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
+<p>O releuio do computer o l'é inpostou a <span id='wrongSystemTime_systemDate'/>. Amia ben che o computer o l'agge a data, oa e fuzo oraio giusto, e pöia agiorna <span class='hostname'/>.</p>
+<p>Se o teu releuio o l'à za oa giusta, porieiva ese che o scito o no l'é configurou ben, e no ti ghe peu fâ ninte. Magara diggou 'n pö a l'aminstratô do scito che gh'à sto problema.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Me sa che sto problema o l'é do scito e ti no ti ghe peu fâninte. Diggou a l'aministratô do scito che ti gh'æ sto problema.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul>
   <li>O scito o porieiva ese tenporaneamente inacesibile ò tròppo traficou. Preuva torna tra quarche momento.</li>
@@ -164,6 +179,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; o no se conette a <span id='wrongSystemTimeWithoutReference_URL'/> perché o releuio do computer o l'à l'oa sbaliâ e questo o l'inpedisce 'na conescion segua.</p> <p>O teu computer o segna e <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pe risolve sto problema, cangia l'oa e a dæta in mòddo che segian giuste.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conescion no segua">
+<!ENTITY certerror.pagetitle2  "Atençion: gh'é 'n reizego de seguessa potensiâ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Sto scito o deuvia HTTP Strict Transport Security (HSTS) pe specificâ che &brandShortName; o peu conetise solo in mòddo seguo. Coscì no se peu azonze na eceçion pe sto certificato.">
 <!ENTITY certerror.copyToClipboard.label "Còpia testo inti aponti">
 
