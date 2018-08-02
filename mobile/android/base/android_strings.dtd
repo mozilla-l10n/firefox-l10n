@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Automatikus lejátszás">
 <!ENTITY pref_media_autoplay_enabled_summary "A webhelyek automatikusan lejátszhatnak-e videókat és más médiatartalmakat">
+<!ENTITY pref_media_autoplay_allow "Automatikus lejátszás engedélyezése">
+<!ENTITY pref_media_autoplay_block "Automatikus lejátszás blokkolása">
 <!ENTITY pref_zoom_force_enabled "Nagyítás engedélyezése mindig">
 <!ENTITY pref_zoom_force_enabled_summary "Felülbírálás kényszerítése, hogy bármely oldalt nagyíthasson">
 <!ENTITY pref_voice_input "Hangalapú bevitel">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Lejátszás folytatása">
 <!ENTITY pip_pause_button_title "Szünet">
 <!ENTITY pip_pause_button_description "Lejátszás szüneteltetése">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; földrajzihely-szolgáltatás">
