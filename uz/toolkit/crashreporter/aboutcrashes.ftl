@@ -6,5 +6,7 @@ clear-all-reports-label = Hamma hisobotlarni oʻchirish
 delete-confirm-title = Ishonchingiz komilmi?
 delete-confirm-description = Bu barcha hisobot  ma’lumotlarini o‘chiradi va ularni tiklab bo‘lmaydi.
 id-heading = Hisobot ID raqami
+crashes-submitted-label = Yuborilgan nosozlik ma’lumotlari
+date-submitted-heading = Yuborilgan sana
 no-reports-label = Nosozlik ma’lumotlari yuborilmagan.
 no-config-label = Ushbu dastur nosozlik ma’lumotlarini ko‘rsatish uchun moslanmagan.  <code>breakpad.reportURL</code> parametri o‘rnatilishi kerak.
