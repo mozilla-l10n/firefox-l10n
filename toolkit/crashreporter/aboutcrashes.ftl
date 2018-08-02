@@ -2,6 +2,7 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+clear-all-reports-label = 移除全部报告
 delete-confirm-title = 您确定吗？
 id-heading = 报告 ID
 no-reports-label = 没有提交过崩溃报告。
