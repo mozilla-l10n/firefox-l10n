@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "ਆਪਣੇ-ਆਪ ਚੱਲਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 <!ENTITY pref_media_autoplay_enabled_summary "ਕੰਟਰੋਲ ਕਰੋ ਕਿ ਕੀ ਵੈੱਬਸਾਈਟਾਂ ਆਪਣੇ-ਆਪ ਵੀਡੀਓ ਅਤੇ ਹੋਰ ਮੀਡੀਆ ਸਮੱਗਰੀ ਨੂੰ ਚਲਾ ਸਕਦੀਆਂ ਹਨ">
+<!ENTITY pref_media_autoplay_allow "ਆਪਣੇ-ਆਪ ਚਲਾਓਣ ਦੀ ਇਜਾਜ਼ਤ">
+<!ENTITY pref_media_autoplay_block "ਆਪਣੇ-ਆਪ ਚਲਾਓਣ \&apos;ਤੇ ਪਾਬੰਦੀ">
 <!ENTITY pref_zoom_force_enabled "ਜ਼ੂਮ ਨੂੰ ਹਮੇਸ਼ਾ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY pref_zoom_force_enabled_summary "ਧੱਕੇ ਨਾਲ ਅਣਡਿੱਠਾ ਕਰੋ ਤਾਂ ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਸਫ਼ੇ ਨੂੰ ਜ਼ੂਮ ਕਰ ਸਕੋ">
 <!ENTITY pref_voice_input "ਆਵਾਜ਼ ਰਾਹੀਂ ਇਨਪੁਟ">
@@ -899,7 +901,11 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 
 <!-- Used by accessibility services to identify the play/pause buttons shown in the
 Picture-in-picture mini window -->
-<!ENTITY pip_play_button_title "ਚਲਾਉ">
+<!ENTITY pip_play_button_title "ਚਲਾਓ">
 <!ENTITY pip_play_button_description "ਚਲਾਉਣਾ ਜਾਰੀ ਰੱਖੋ">
 <!ENTITY pip_pause_button_title "ਥੰਮ ਦਿਉ">
 <!ENTITY pip_pause_button_description "ਚਲਾਉਣਾ ਥੰਮ ਦਿਉ">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; ਟਿਕਾਣਾ ਸੇਵਾ">
