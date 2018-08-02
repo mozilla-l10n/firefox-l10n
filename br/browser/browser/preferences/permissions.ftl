@@ -89,6 +89,7 @@ permissions-exceptions-autoplay-media-window =
     .title = Lec'hiennoù internet aotreet - Lenn emgefreek
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Gellout a rit despizañ peseurt lec'hiennoù a zo aotreet evit lenn elfennoù media ent emgefreek. Biziatait chomlec'h rik al lec'hienn ho peus c'hoant da aotren ha klikit war Aotren.
+permissions-exceptions-autoplay-media-desc2 = Gallout a rit despizañ pe lec'hiennoù a zo bepred aotreet da lenn mediaoù ent emgefreek gant ar son, hag ar re n'int morse aotreet. Biziatait chomlec'h al lec'hienn a fell deoc'h merañ ha klikit war Stankañ pe Aotren.
 
 ## Site Permissions - Notifications
 
