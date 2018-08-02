@@ -198,12 +198,12 @@ colors-settings =
     .label = Colori…
     .accesskey = r
 language-header = Lingua
-choose-language-description = Scelta della lingua in cui verranno visualizzate le pagine web
+choose-language-description = Scegli la lingua in cui visualizzare le pagine web
 choose-button =
     .label = Scegli…
     .accesskey = g
 
-choose-browser-language-description = Scelta della lingua in cui verranno visualizzati menu, messaggi e notifiche di { -brand-short-name }.
+choose-browser-language-description = Scegli la lingua in cui visualizzare menu, messaggi e notifiche di { -brand-short-name }.
 confirm-browser-language-change-description = Riavviare { -brand-short-name } per applicare queste modifiche
 confirm-browser-language-change-button = Applica e riavvia
 
