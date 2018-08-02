@@ -4,3 +4,5 @@
 
 delete-confirm-title = Sind Sie sicher?
 id-heading = Meldungs-ID
+no-reports-label = Es wurden noch keine Absturzberichte versendet.
+no-config-label = Diese Anwendung wurde nicht für die Anzeige von Absturzberichten konfiguriert. Die Einstellung <code>breakpad.reportURL</code> muss gesetzt werden.
