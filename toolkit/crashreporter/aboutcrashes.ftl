@@ -2,6 +2,7 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+clear-all-reports-label = Remove All Reports
 delete-confirm-title = Are you sure?
 delete-confirm-description = This will delete all reports and cannot be undone.
 id-heading = Report ID
