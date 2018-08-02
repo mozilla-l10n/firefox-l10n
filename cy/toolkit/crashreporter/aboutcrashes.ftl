@@ -5,3 +5,5 @@
 clear-all-reports-label = Tynnu pob Adroddiad
 delete-confirm-title = Ydych chi'n siŵr?
 delete-confirm-description = Bydd hyn yn dileu pob adroddiad ac nid oes modd ei ddadwneud.
+id-heading = Enw'r Adroddiad
+no-config-label = Mae'r rhaglen wedi ei ffurfweddu i ddangos adroddiadau chwalu. Rhaid gosod y <code>breakpad.reportURL</code>.
