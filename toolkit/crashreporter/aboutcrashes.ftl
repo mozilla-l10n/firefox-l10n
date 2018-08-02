@@ -6,5 +6,7 @@ clear-all-reports-label = Hemû Raporkirinan Jê Bibe
 delete-confirm-title = Ji dil dixwazî?
 delete-confirm-description = Bi vê kiryarê dê hemû raporkirinên bên jêbirin û dê şûndeanîna wan nebe
 id-heading = ID'a Raporkirinê
+crashes-submitted-label = Raporkirinên Têkçûnê ên Tomarbûyî
+date-submitted-heading = Daneyên Tomarbûyî
 no-reports-label = Tu raporkirineke têkçûnê nehat tomarkirin.
 no-config-label = Ev sepan ji bo ku têkçûnan rapor bike nehatiye mîhenkirin. Divê vebijêrka <code>breakpad.reportURL</code> bê mîhenkirin.
