@@ -2,6 +2,7 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+clear-all-reports-label = Pašalinti visus pranešimus
 delete-confirm-title = Ar tikrai to norite?
 delete-confirm-description = Visi pranešimai bus negrįžtamai pašalinti.
 id-heading = Pranešimo ID
