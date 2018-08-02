@@ -6,5 +6,7 @@ clear-all-reports-label = બધા અહેવાલોને દૂર કર
 delete-confirm-title = શું તમે ચોક્કસ છો?
 delete-confirm-description = આ બધા અહેવાલો કાઢી નાંખશે અને રદ કરી શકાશે નહિં
 id-heading = અહેવાલ ID
+crashes-submitted-label = ભંગાણ અહેવાલો જમા કર્યા
+date-submitted-heading = જમા થયેલ તારીખ
 no-reports-label = કોઈ ભંગાણ અહેવાલો જમા થયેલ નથી.
 no-config-label = આ કાર્યક્રમ ભંગાણ અહેવાલો દર્શાવવા માટે રૂપરેખાંકિત થયેલ નથી. પસંદગી <code>breakpad.reportURL</code> સુયોજીત થયેલ હોવી જ જોઈએ.
