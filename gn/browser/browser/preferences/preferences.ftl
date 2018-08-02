@@ -204,6 +204,7 @@ choose-button =
     .accesskey = o
 choose-browser-language-description = Eiporavo ñe’ẽ ojepurúva ehechauka hag̃ua poravorã, ñe’ẽmondo ha momarandu { -brand-short-name } rehegua.
 confirm-browser-language-change-description = Emoñepyrũjey { -brand-short-name } oñemboheko hag̃ua ko’ã moambuepyre
+confirm-browser-language-change-button = Mohembiapo ha ñepyrũjey
 translate-web-pages =
     .label = Ñanduti retepy ñe'ẽasa
     .accesskey = T
