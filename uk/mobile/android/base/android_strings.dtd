@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Автоматичне відтворення">
 <!ENTITY pref_media_autoplay_enabled_summary "Контроль автоматичного відтворення відео та іншого медіа-вмісту веб-сайтами">
+<!ENTITY pref_media_autoplay_allow "Дозволити автовідтворення">
+<!ENTITY pref_media_autoplay_block "Блокувати автовідтворення">
 <!ENTITY pref_zoom_force_enabled "Зміна масштабу">
 <!ENTITY pref_zoom_force_enabled_summary "Ігнорувати налаштування сайтів, щоб ви могли змінювати масштаб будь-якої сторінки">
 <!ENTITY pref_voice_input "Голосове введення">
@@ -903,3 +905,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Продовжити відтворення">
 <!ENTITY pip_pause_button_title "Пауза">
 <!ENTITY pip_pause_button_description "Призупинити відтворення">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Послуга розташування &vendorShortName;">
