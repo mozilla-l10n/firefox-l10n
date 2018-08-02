@@ -2,6 +2,7 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+clear-all-reports-label = ಎಲ್ಲಾ ವರದಿಗಳನ್ನು ತೆಗೆದು ಹಾಕು
 delete-confirm-title = ನೀವು ಖಚಿತವೆ?
 delete-confirm-description = ಇದು ಎಲ್ಲಾ ವರದಿಗಳನ್ನು ಅಳಿಸಿ ಹಾಕುತ್ತದೆ ಹಾಗು ಅವನ್ನು ಮರಳಿ ಪಡೆಯಲಾಗುವುದಿಲ್ಲ.
 no-reports-label = ಯಾವುದೆ ಕುಸಿತ ವರದಿಗಳನ್ನು ಸಲ್ಲಿಸಲಾಗಿಲ್ಲ.
