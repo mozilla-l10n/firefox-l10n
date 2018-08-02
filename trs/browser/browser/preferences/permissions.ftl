@@ -106,6 +106,9 @@ permissions-site-notification-disable-desc = Na si ga'ninj da' ni nej sitio web 
 permissions-site-location-window =
     .title = Sa nagi'io' - ga'ni' dane' huin
     .style = { permissions-window.style }
+permissions-site-location-desc = Nej sitio web na achín ni'iaj gatu riña aché nut. Ga'uè nahuit ahuin sitio ga'uè gatu riña aché nut. Ga'uè garânt riña nej solisitû achín ni'iaj gatu riña aché nut.
+permissions-site-location-disable-label =
+    .label = Garun' riña nej solisitû achín ni'iaj gatu riña aché nut
 
 ## Site Permissions - Camera
 
