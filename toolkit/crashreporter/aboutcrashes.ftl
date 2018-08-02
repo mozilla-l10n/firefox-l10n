@@ -4,4 +4,5 @@
 
 delete-confirm-title = Сигурни ли сте?
 delete-confirm-description = Така ще изтриете всички доклади, а това е необратимо.
+no-reports-label = Няма изпратени доклади за срив.
 no-config-label = Приложението не е настроено да показва доклади за сривове. За това настройката <code>breakpad.reportURL</code> трябва да бъде зададена.
