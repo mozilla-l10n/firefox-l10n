@@ -21,7 +21,7 @@
 
 <!ENTITY  clickHere.label                 "ดูข้อมูลเพิ่มเติมเกี่ยวกับการอัปเดตนี้">
 
-<!ENTITY  evangelism.desc                 "แนะนำเป็นอย่างยิ่งให้คุณเรียกใช้การอัปเดต &brandShortName; นี้โดยเร็วที่สุดเท่าที่เป็นไปได้">
+<!ENTITY  evangelism.desc                 "แนะนำเป็นอย่างยิ่งให้คุณใช้การอัปเดต &brandShortName; นี้โดยเร็วที่สุดเท่าที่เป็นไปได้">
 
 <!ENTITY  downloadPage.title              "กำลังดาวน์โหลด &brandShortName;">
 <!ENTITY  downloading.intro               "กำลังดาวน์โหลดการอัปเดต…">

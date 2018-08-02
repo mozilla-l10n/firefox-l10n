@@ -60,7 +60,7 @@ permissions-exceptions-tracking-protection-desc = คุณได้ปิดใ
 permissions-exceptions-cookie-window =
     .title = ข้อยกเว้น - คุกกี้และข้อมูลไซต์
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = คุณสามารถระบุเว็บไซต์ที่อนุญาตหรือไม่อนุญาตให้ใช้คุกกี้และข้อมูลไซต์เสมอ  พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก ปิดกั้น, อนุญาตในวาระ หรืออนุญาต
+permissions-exceptions-cookie-desc = คุณสามารถระบุเว็บไซต์ที่อนุญาตหรือไม่อนุญาตให้ใช้คุกกี้และข้อมูลไซต์เสมอ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก ปิดกั้น, อนุญาตในวาระ หรืออนุญาต
 
 ## Exceptions - Pop-ups
 
@@ -89,6 +89,7 @@ permissions-exceptions-autoplay-media-window =
     .title = เว็บไซต์ที่อนุญาต - การเล่นอัตโนมัติ
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = คุณสามารถระบุเว็บไซต์ที่อนุญาตให้เล่นองค์ประกอบสื่อโดยอัตโนมัติ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการอนุญาตแล้วคลิก อนุญาต
+permissions-exceptions-autoplay-media-desc2 = คุณสามารถระบุเว็บไซต์ที่อนุญาตหรือไม่อนุญาตให้เล่นสื่อพร้อมเสียงโดยอัตโนมัติเสมอ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก ปิดกั้น หรือ อนุญาต
 
 ## Site Permissions - Notifications
 
