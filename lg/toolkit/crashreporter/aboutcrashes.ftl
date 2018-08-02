@@ -6,5 +6,7 @@ clear-all-reports-label = Gyawo Alipoota Zonna
 delete-confirm-title = Okakasa?
 delete-confirm-description = Kino kigya kusangula alipoota zonna ate tekizzibwa mabega.
 id-heading = Alipoota ya ID
+crashes-submitted-label = Alipoota Ezikonagana Eziwereddwayo
+date-submitted-heading = Ennaku z'omwezi eziweereddwayo
 no-reports-label = Tewali alipoota zikonagana ziwereddwayo.
 no-config-label = Enkola eno teteekeddwateekeddwa kulaga alipoota zikoanagana. Ky'oyagala <code>breakpad.reportURL</code> eteekwa kutegekebwa.
