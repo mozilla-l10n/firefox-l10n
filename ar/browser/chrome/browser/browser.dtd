@@ -316,7 +316,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "مطوّري الوب">
 <!ENTITY webDeveloperMenu.accesskey   "و">
 
+<!ENTITY devtoolsRecordExecution.label "شغّل التنفيذ">
 <!ENTITY devtoolsSaveRecording.label "احفظ التسجيل">
+<!ENTITY devtoolsReplayExecution.label "أعِد تشغيل التنفيذ">
 
 <!ENTITY inspectContextMenu.label     "افحص العنصر">
 <!ENTITY inspectContextMenu.accesskey "ح">
