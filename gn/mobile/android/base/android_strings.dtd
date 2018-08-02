@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Emoneĩ ñemboheta ijeheguíva">
 <!ENTITY pref_media_autoplay_enabled_summary "Ñanduti renda ñangarekoha ikatu omboheta ijehegui ta\&apos;ãngamýi ha ambue mba\&apos;ekuaarã ñandutiguáva">
+<!ENTITY pref_media_autoplay_allow "Emoneĩ ñemboheta ijeheguíva">
+<!ENTITY pref_media_autoplay_block "Ejoko ñemboheta ijeheguíva">
 <!ENTITY pref_zoom_force_enabled "Emyendy tapiaite zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Eipe\&apos;a imbaretéva kuatiarogue ombotuichakuaáva">
 <!ENTITY pref_voice_input "Ñe\&apos;ẽpu oikeha">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Embohetave ehóvo">
 <!ENTITY pip_pause_button_title "Mombyta">
 <!ENTITY pip_pause_button_description "Emombyta ñemboheta">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; Ñe\&apos;ẽasa japoha">
