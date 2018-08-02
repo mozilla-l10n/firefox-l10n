@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Povoliť automatické prehrávanie">
 <!ENTITY pref_media_autoplay_enabled_summary "Určuje, či webové stránky môžu automaticky prehrávať videá a iné médiá">
+<!ENTITY pref_media_autoplay_allow "Povoliť automatické prehrávanie">
+<!ENTITY pref_media_autoplay_block "Zablokovať automatické prehrávanie">
 <!ENTITY pref_zoom_force_enabled "Vždy povoliť lupu">
 <!ENTITY pref_zoom_force_enabled_summary "Lupu bude možné používať pre akúkoľvek stránku">
 <!ENTITY pref_voice_input "Hlasový vstup">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Pokračovať v prehrávaní">
 <!ENTITY pip_pause_button_title "Pozastaviť">
 <!ENTITY pip_pause_button_description "Pozastaviť prehrávanie">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; Location Service">
