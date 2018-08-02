@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Awtomatiske wothraće dowolić">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrolować, hač websydła móža wideja a druhi medijowy wobsah automatisce wothrać">
+<!ENTITY pref_media_autoplay_allow "Awtomatiske wothraće dowolić">
+<!ENTITY pref_media_autoplay_block "Awtomatiske wothraće blokować">
 <!ENTITY pref_zoom_force_enabled "Skalowanje přeco zmóžnić">
 <!ENTITY pref_zoom_force_enabled_summary "Wunuzujće přepisanje, zo byšće móhł kóždu stronu skalować">
 <!ENTITY pref_voice_input "Rěčne zapodaće">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Z wothrawanjom pokročować">
 <!ENTITY pip_pause_button_title "Zastajić">
 <!ENTITY pip_pause_button_description "Wothraće zastajić">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Stejnišćowa słužba &vendorShortName;">
