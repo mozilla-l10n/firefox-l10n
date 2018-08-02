@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Izinkan automain">
 <!ENTITY pref_media_autoplay_enabled_summary "Kawal jika laman web boleh automain video dan kandungan media lain">
+<!ENTITY pref_media_autoplay_allow "Izinkan automain">
+<!ENTITY pref_media_autoplay_block "Sekat automain">
 <!ENTITY pref_zoom_force_enabled "Sentiasa dayakan zum">
 <!ENTITY pref_zoom_force_enabled_summary "Paksa langkauan supaya anda boleh zum mana-mana halaman">
 <!ENTITY pref_voice_input "Input suara">
@@ -903,3 +905,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Sambung main">
 <!ENTITY pip_pause_button_title "Jeda">
 <!ENTITY pip_pause_button_description "Jeda main">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Perkhidmatan Lokasi &vendorShortName;">
