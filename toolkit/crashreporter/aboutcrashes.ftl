@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
 delete-confirm-title = האם אתה בטוח?
+delete-confirm-description = פעולה זו תמחק את כל הדיווחים ולא ניתנת לביטול.
 id-heading = קוד דיווח
 no-reports-label = לא נשלחו דיווחי קריסה.
 no-config-label = ישום זה לא מוגדר להציג דיווחי קריסות. המאפיין <code>breakpad.reportURL</code> חייב להיות מוגדר.
