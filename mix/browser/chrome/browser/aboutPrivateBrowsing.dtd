@@ -4,6 +4,7 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
+<!ENTITY privateBrowsing.title                           "Nduku seé">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
