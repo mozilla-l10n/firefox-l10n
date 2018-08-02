@@ -793,6 +793,51 @@ addressbar-locbar-openpage-option =
 
 addressbar-suggestions-settings = Voorkeuren voor zoekmachinesuggesties wijzigen
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Inhoudsblokkering
+
+content-blocking-desc = Blokkeer inhoud van derden, zoals advertenties of code, die het surfen kan vertragen en u op het web kan volgen. Pas uw instellingen aan voor het optimale evenwicht tussen bescherming en prestaties.
+
+content-blocking-learn-more = Meer info
+content-blocking-restore-defaults =
+  .label = Standaardwaarden herstellen
+  .accesskey = S
+
+content-blocking-toggle-on =
+  .tooltiptext = Inhoudsblokkering uitschakelen
+content-blocking-toggle-off =
+  .tooltiptext = Inhoudsblokkering inschakelen
+
+content-blocking-toggle-label-on = AAN
+  .accesskey = A
+content-blocking-toggle-label-off = UIT
+  .accesskey = U
+
+content-blocking-category-label = Kiezen wat er wordt geblokkkeerd
+
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Trage tracking-elementen
+  .accesskey = T
+content-blocking-fastblock-description = Blokkeert inhoud van derden die langer dan 5 seconden doet over het laden.
+content-blocking-fastblock-option-enabled =
+  .label = Altijd blokkeren
+content-blocking-fastblock-option-disabled =
+  .label = Nooit blokkeren
+
+content-blocking-tracking-protection-label = Trackers
+  .accesskey = T
+content-blocking-tracking-protection-description = Blokkeert alle bekende trackers (Let op: kan ook het laden van bepaalde pagina’s tegengaan).
+content-blocking-tracking-protection-option-enabled =
+  .label = Altijd blokkeren
+content-blocking-tracking-protection-option-pbm =
+  .label = Alleen blokkeren in privévensters
+content-blocking-tracking-protection-option-disabled =
+  .label = Nooit blokkeren
+content-blocking-tracking-protection-change-blocklist = Blokkeerlijst wijzigen…
+
 ## Privacy Section - Tracking
 
 tracking-header = Bescherming tegen volgen
