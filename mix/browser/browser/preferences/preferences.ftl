@@ -72,9 +72,12 @@ search-results-header = Nduku resultados
 
 startup-header = Xina
 get-started-configured = Kuna preferencias ña { -sync-brand-short-name }
+tabs-group-header = Xikua
+browser-containers-learn-more = Skua'a kuakaa
 browser-containers-settings =
     .label = Nda sama...
     .accesskey = n
+containers-disable-alert-title = ¿A kunu kasu ntii xikua?
 
 ## General Section - Language & Appearance
 
@@ -130,6 +133,8 @@ choose-bookmark =
 ## Search Section
 
 search-bar-header = Barra de búsqueda
+search-choose-keyword-column =
+    .label = Tu'un xina
 search-remove-engine =
     .label = Xitaá
     .accesskey = x
@@ -147,6 +152,12 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-disconnect =
+    .label = Keè
+    .accesskey = K
+sync-remove-account =
+    .label = Stoó Kuenta
+    .accesskey = S
 sync-sign-in =
     .label = Kitsaa
     .accesskey = K
@@ -201,6 +212,10 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-accept-third-party-always-option =
+    .label = Ntikiì
+sitedata-accept-third-party-visited-option =
+    .label = Ña ntsinu
 sitedata-accept-third-party-never-option =
     .label = Miki
 sitedata-clear =
@@ -212,13 +227,28 @@ sitedata-settings =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-openpage-option =
+    .label = Kuna xikua
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
+tracking-mode-always =
+    .label = Ntikiì
+    .accesskey = N
+tracking-mode-never =
+    .label = Mikíi
+    .accesskey = M
 
 ## Privacy Section - Permissions
 
+permissions-location-settings =
+    .label = Sama...
+    .accesskey = S
 permissions-camera = Kamara
+permissions-camera-settings =
+    .label = Sama...
+    .accesskey = S
 permissions-microphone = Micrófono
 permissions-microphone-settings =
     .label = Ndasama...
@@ -226,6 +256,7 @@ permissions-microphone-settings =
 permissions-notification-settings =
     .label = Ndasama...
     .accesskey = d
+permissions-notification-link = Skua'a kuakaa
 permissions-block-popups-exceptions =
     .label = Excepciones…
     .accesskey = E
@@ -245,6 +276,7 @@ collection-backlogged-crash-reports-link = Kavi
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing-link = Skua'a kuakaa
 
 ## Privacy Section - Certificates
 
