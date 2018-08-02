@@ -134,8 +134,11 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Уладальнік <span class='hostname'/> наладзіў свой вэб-сайт няправільна.  Каб абараніць вашы звесткі ад крадзяжу, &brandShortName; не злучаўся з сайтам.">
 
+<!ENTITY certerror.introPara1 "&brandShortName; выявіў патэнцыяльную пагрозу бяспецы і не працягнуў пераход на <span class='hostname'/>. Калі вы наведаеце гэты сайт, нападнікі могуць паспрабаваць скрасці вашу інфармацыю, такую як паролі, адрасы электроннай пошты ці дадзеныя крэдытных картак.">
 
+<!ENTITY certerror.expiredCert.secondPara "Гэтая праблема хутчэй за ўсё звязана з няправільна настаўленым часам на вашым камп'ютары, што можа перашкаджаць &brandShortName; злучыцца бяспечна.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Як вы можаце гэта паправіць?">
 
 
 
@@ -178,6 +181,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; не злучыўся з <span id='wrongSystemTimeWithoutReference_URL'/>, бо гадзіннік вашага камп'ютара паказвае няправільны час, і гэта прадухіляе бяспечныя злучэнні.</p> <p>Ваш камп'ютар настаўлены на <span id='wrongSystemTimeWithoutReference_systemDate'/>. Каб выправіць гэту праблему, змяніце свае налады даты і часу, каб адпавядаць карэктнаму часу.</p>">
 
 <!ENTITY certerror.pagetitle1  "Небяспечнае злучэнне">
+<!ENTITY certerror.pagetitle2  "Папярэджанне: наперадзе патэнцыяльная пагроза бяспецы">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Гэты сайт выкарыстоўвае HTTP
 Строгая бяспека транспарту (HSTS) прадугледжвае, што &brandShortName; можа злучацца з ім толькі бяспечна. Як следства, немагчыма дадаць выключэнне для гэтага сертыфіката.">
 <!ENTITY certerror.copyToClipboard.label "Капіяваць тэкст у буфер абмену">
