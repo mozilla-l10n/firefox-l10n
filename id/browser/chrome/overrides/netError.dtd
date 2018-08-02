@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "Memuat laman bermasalah">
 <!ENTITY retry.label "Coba Lagi">
 <!ENTITY returnToPreviousPage.label "Mundur">
+<!ENTITY returnToPreviousPage1.label "Kembali (Disarankan)">
 <!ENTITY advanced.label "Lebih lanjut">
+
+<!ENTITY continue.label "Lanjutkan">
 
 <!-- Specific error messages -->
 
@@ -91,10 +94,18 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Laman yang ingin dibuka tidak dapat ditampilkan karena keaslian data yang diterima tidak bisa diverifikasi.</li> <li>Mohon hubungi pemilik situs web mengenai masalah ini.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Sambungan Anda tidak aman">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Pemilik <span class='hostname'/> telah mengonfigurasikan situs web secara tidak benar. Untuk melindungi informasi Anda dari pencurian, &brandShortName; tidak menyambungkan Anda ke situs ini.">
+
+
+<!ENTITY certerror.expiredCert.secondPara "Masalah ini mungkin disebabkan karena jam komputer Anda diatur ke waktu yang salah, yang dapat mencegah &brandShortName; untuk tersambung secara aman.">
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Apa yang bisa Anda lakukan mengenai masalah ini?">
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>Sementara ini mungkin situs terlalu sibuk atau tidak menyala. Cobalah beberapa saat lagi.</li> <li>Apabila Anda tidak dapat memuat laman apa pun, periksa sambungan jaringan komputer Anda.</li> <li>Apabila komputer atau jaringan Anda dilindungi firewall atau proksi, pastikan bahwa &brandShortName; diizinkan mengakses Web.</li> </ul>">
 
