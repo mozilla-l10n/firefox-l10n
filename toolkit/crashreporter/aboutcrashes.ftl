@@ -4,4 +4,6 @@
 
 clear-all-reports-label = Уклони све извештаје
 delete-confirm-title = Да ли сте сигурни?
+id-heading = ID извештаја
 no-reports-label = Ниједан извештај о рушењу није поднесен.
+no-config-label = Овај програм није подешен да приказује извештаје о рушењу. Поставка <code>breakpad.reportURL</code> мора да буде постављена.
