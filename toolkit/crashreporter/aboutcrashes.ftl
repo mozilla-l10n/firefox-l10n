@@ -2,9 +2,14 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+crash-reports-title = Kaatumisilmoitukset
 clear-all-reports-label = Poista ilmoitukset
 delete-confirm-title = Poistetaanko kaikki ilmoitukset?
 delete-confirm-description = Tämä poistaa kaikki ilmoitukset, eikä toimintoa voi peruuttaa.
+crashes-unsubmitted-label = Lähettämättömät kaatumisilmoitukset
 id-heading = Kaatumistunnus
+date-crashed-heading = Kaatumisaika
+crashes-submitted-label = Lähetetyt kaatumisilmoitukset
+date-submitted-heading = Lähettämisaika
 no-reports-label = Kaatumisilmoituksia ei ole lähetetty.
 no-config-label = Tätä ohjelmaa ei ole asetettu näyttämään kaatumisilmoituksia. Asetuksen <code>breakpad.reportURL</code> arvon täytyy olla tosi.
