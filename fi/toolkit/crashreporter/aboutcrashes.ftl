@@ -2,6 +2,7 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+clear-all-reports-label = Poista ilmoitukset
 delete-confirm-title = Poistetaanko kaikki ilmoitukset?
 delete-confirm-description = Tämä poistaa kaikki ilmoitukset, eikä toimintoa voi peruuttaa.
 id-heading = Kaatumistunnus
