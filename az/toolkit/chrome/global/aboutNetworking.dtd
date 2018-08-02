@@ -43,7 +43,7 @@
 <!ENTITY aboutNetworking.dnsDomain             "Domen">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-lər">
 <!ENTITY aboutNetworking.rcwn                  "RCWN Statistikaları">
-<!ENTITY aboutNetworking.rcwnStatus            "RCWN Statusu">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN Durumu">
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Keşin qazanma sayısı">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Şəbəkənin qazanma sayısı">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Toplam şəbəkə istək sayısı">
