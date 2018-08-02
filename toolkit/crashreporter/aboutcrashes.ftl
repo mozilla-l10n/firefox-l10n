@@ -2,6 +2,7 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+clear-all-reports-label = 移除所有報表
 delete-confirm-title = 您確定嗎？
 delete-confirm-description = 這會刪除所有報表且無法復原。
 id-heading = 報表編號
