@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY crashReports.title         "Доклади за сривове">
-<!ENTITY crashesUnsubmitted.label   "Неизпратени доклади за сривове">
-<!ENTITY crashesSubmitted.label     "Изпратени доклади за сривове">
+<!ENTITY crashesUnsubmitted.label   "Неизпратени доклади за срив">
+<!ENTITY crashesSubmitted.label     "Изпратени доклади за срив">
 <!ENTITY id.heading                 "Идентификатор на доклад">
 <!ENTITY dateCrashed.heading        "Дата на срива">
 <!ENTITY dateSubmitted.heading      "Дата на изпращане">
