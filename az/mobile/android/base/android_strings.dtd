@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Avtomatik oxutmağa icazə ver">
 <!ENTITY pref_media_autoplay_enabled_summary "Səhifələrin video və digər media məzmunlarını avtomatik oxudub oxutmayacaqlarını idarə et">
+<!ENTITY pref_media_autoplay_allow "Avtomatik oxutmağa icazə ver">
+<!ENTITY pref_media_autoplay_block "Avtomatik oxutmanı əngəllə">
 <!ENTITY pref_zoom_force_enabled "Yaxınlaşdırmanı həmişə aktiv saxla">
 <!ENTITY pref_zoom_force_enabled_summary "Zorla üzərinə yaz ki, hər səhifəni yaxınlaşdırmaq mümkün olsun">
 <!ENTITY pref_voice_input "Səs girişi">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Oynatmağa qayıt">
 <!ENTITY pip_pause_button_title "Fasilə">
 <!ENTITY pip_pause_button_description "Oynatmaya fasilə ver">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; Mövqe Xidməti">
