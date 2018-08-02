@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
 crash-reports-title = Αναφορές κατάρρευσης
+clear-all-reports-label = Αφαίρεση όλων των αναφορών
 delete-confirm-description = Αυτή η ενέργεια θα διαγράψει όλες τις αναφορές και δεν είναι αναστρέψιμη
 crashes-unsubmitted-label = Μη υποβληθείσες αναφορές κατάρρευσης
 id-heading = ID Αναφοράς
