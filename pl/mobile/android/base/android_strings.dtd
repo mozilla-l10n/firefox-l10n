@@ -637,3 +637,6 @@
 <!ENTITY pip_play_button_description "Wznów odtwarzanie">
 <!ENTITY pip_pause_button_title "Wstrzymaj">
 <!ENTITY pip_pause_button_description "Wstrzymaj odtwarzanie">
+
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Usługi lokalizacji organizacji &vendorShortName;">
