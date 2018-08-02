@@ -8,6 +8,7 @@
 <!ENTITY loadError.label "مشكلة في تحميل الصفحة">
 <!ENTITY retry.label "حاول مجددًا">
 <!ENTITY returnToPreviousPage.label "عُد للخلف">
+<!ENTITY returnToPreviousPage1.label "عُد للخلف (يُنصح به)">
 <!ENTITY advanced.label "متقدم">
 
 <!ENTITY continue.label "تابِع">
@@ -99,8 +100,19 @@ was trying to connect. -->
 <!ENTITY certerror.expiredCert.secondPara "أغلب الظن أن سبب هذه المشكلة هو أن ساعة الحاسوب ليست صحيحة، ما يمنع &brandShortName; من الاتصال كما ينبغي.">
 
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>أغلب الظن بأن المشكلة هي بالموقع نفسه، وليس هنالك ما يمكنك فعله لحلها.</p>
+<p>إن كنت متصلا عبر شبكة للشركات أو كنت تستخدم برمجية مضادة للفيروسات، فيمكنك إيصال الأمر إلى فرق الدعم لمساعدتك. يمكنك أيضا إعلام مدير الموقع عن هذه المشكلة.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
+<p>ضُبطت ساعة الحاسوب على <span id='wrongSystemTime_systemDate'/>. تحقق من أن ضبط الحاسوب على التاريخ والوقت والمنطقة الزمنية الصحيحة من إعدادات النظام، وبعدها أنعِش <span class='hostname'/>.</p>
+<p>إن كانت الساعة مضبوطة على الوقت الصحيح، فأغلب الظن أن موقع الوِب ليس مضبوطا كما ينبغي، وليس هنالك ما يمكنك فعله لحل المشكلة. يمكنك إعلام مدير الموقع عن هذه المشكلة.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>أغلب الظن بأن المشكلة هي بالموقع نفسه، وليس هنالك ما يمكنك فعله لحلها. يمكنك إعلام مدير الموقع عن هذه المشكلة.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>قد يكون الموقع متوقفًا مؤقتًا أو مشغولا جدًا. حاول ثانية بعد عدّة دقائق.</li> <li>إذا كنت غير قادر على تحميل أي صفحة، افحص اتصال الحاسوب بالشبكة.</li> <li>إذا كان حاسوبك محميًا بجدار ناري أو وسيط، تأكد من السماح ل‍&brandShortName; بالنفاذ إلى الوِب.</li> </ul>">
 
