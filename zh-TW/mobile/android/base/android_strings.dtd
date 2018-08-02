@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "允許自動播放">
 <!ENTITY pref_media_autoplay_enabled_summary "控制網站是否能夠自動播放影片或其他媒體內容">
+<!ENTITY pref_media_autoplay_allow "允許自動播放">
+<!ENTITY pref_media_autoplay_block "封鎖自動播放">
 <!ENTITY pref_zoom_force_enabled "隨時啟用縮放">
 <!ENTITY pref_zoom_force_enabled_summary "強制讓所有網頁都能縮放大小">
 <!ENTITY pref_voice_input "語音輸入">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "繼續播放">
 <!ENTITY pip_pause_button_title "暫停">
 <!ENTITY pip_pause_button_description "暫停播放">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; Location Service">
