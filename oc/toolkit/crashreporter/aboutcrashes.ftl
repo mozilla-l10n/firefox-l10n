@@ -4,6 +4,7 @@
 
 crash-reports-title = Rapòrts de plantatge
 clear-all-reports-label = Suprimir totes los rapòrts
+delete-confirm-title = Sètz segur ?
 delete-confirm-description = Aquò suprimirà totes los rapòrts e serà impossible de l'annular.
 crashes-unsubmitted-label = Rapòrts de plantatge en espèra de mandadís
 id-heading = Identificant del rapòrt
