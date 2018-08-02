@@ -639,6 +639,9 @@ content-blocking-header = Blocco contenuti
 content-blocking-desc = Blocca contenuti di terze parti, come pubblicità o codice, in grado di rallentare la navigazione e tracciare i tuoi spostamenti sul Web. Personalizza le impostazioni per ottenere il perfetto equilibrio tra protezione e velocità.
 
 content-blocking-learn-more = Ulteriori informazioni
+content-blocking-restore-defaults =
+  .label = Ripristina predefiniti
+  .accesskey = R
 
 content-blocking-toggle-on =
   .tooltiptext = Disattiva il blocco contenuti
