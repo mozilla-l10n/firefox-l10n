@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
 clear-all-reports-label = Remove All Reports
+delete-confirm-title = की अहाँ निश्चित छी?
 delete-confirm-description = This will delete all reports and cannot be undone.
 id-heading = Report ID
 no-reports-label = No crash reports have been submitted.
