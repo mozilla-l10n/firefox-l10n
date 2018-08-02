@@ -265,6 +265,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Automatyczne odtwarzanie">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontroluje, czy strony mogą automatycznie odtwarzać filmy i inne treści">
+<!ENTITY pref_media_autoplay_allow "Włączone">
+<!ENTITY pref_media_autoplay_block "Blokowanie">
 <!ENTITY pref_zoom_force_enabled "Można powiększać każdą stronę">
 <!ENTITY pref_zoom_force_enabled_summary "Umożliwia powiększanie dowolnej strony">
 <!ENTITY pref_voice_input "Sterowanie głosowe">
