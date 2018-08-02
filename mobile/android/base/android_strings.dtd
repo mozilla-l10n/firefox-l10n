@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reproducción automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web puede reproducir videos automáticamente u otro contenido multimedia.">
+<!ENTITY pref_media_autoplay_allow "Permitir reproducción automática">
+<!ENTITY pref_media_autoplay_block "Bloquear reproducción automática">
 <!ENTITY pref_zoom_force_enabled "Siempre habilitar enfoque">
 <!ENTITY pref_zoom_force_enabled_summary "Forzar sobrescritura para que pueda variar el tamaño de cualquier página">
 <!ENTITY pref_voice_input "Entrada de voz">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Reanudar la reproducción">
 <!ENTITY pip_pause_button_title "Pausa">
 <!ENTITY pip_pause_button_description "Pausar la reproducción">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Servicio de localización de &vendorShortName;">
