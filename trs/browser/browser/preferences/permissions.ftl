@@ -60,18 +60,34 @@ permissions-exceptions-tracking-protection-desc = Nu nachrut sa arán da' si nar
 permissions-exceptions-cookie-window =
     .title = Së sa yakaj guano' - Cookies ni nej sa 'na' 'nga sitio
     .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Ga'ue gatajt ahuin sitio web ga'ue garasun yitïnj kookies ni si dato sitio na. Gachun si direksion sitio ruhuat gini'iaj ni ga'uit 'ngo klik riñ taj garun'. Ga'nïn riña sesión na àsi ma ga'nïn.
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Nej sitio ga'ue garasunt - Ventana ra'ñanj an
+    .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Ga'uè gatajt ahuin sitio web nanïn nej ventana ra'ñanj doj. Gachrūn direksion ni ga'uit klik riña taj ga'nïn.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Exsepsion - Nej sesión na'nîn so'
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Nej sesión gayi'i ñuna nī nitaj si nu sa'aj guenda a'ngò nej sitio web
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Sitios web ga'ue - Dugutu' komplementos
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Ga'ue gatajt ahuin sitio web dugutuj complemento. Gachrūn direksion ni ga'ui't klik riña taj ga'nïn.
 
 ## Exceptions - Autoplay Media
 
+permissions-exceptions-autoplay-media-window =
+    .title = Sitio hua ni'ninj - Nanū ma'ān ma
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
