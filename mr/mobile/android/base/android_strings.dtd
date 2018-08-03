@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "अाॅटोप्ले स्वीकारा">
 <!ENTITY pref_media_autoplay_enabled_summary "वेबसाइट्स स्वत:हून व्हिडिओ आणि इतर मीडीया सामग्री चालवू शकतात का हे नियंत्रित करा">
+<!ENTITY pref_media_autoplay_allow "ऑटोप्ले ला परवानगी द्या">
+<!ENTITY pref_media_autoplay_block "ऑटोप्ले आडवा">
 <!ENTITY pref_zoom_force_enabled "झूम कायम सक्रीय">
 <!ENTITY pref_zoom_force_enabled_summary "फोर्स ओव्हरराइड मुळे आपण कुठल्यापण पानावर झूम करु शकता">
 <!ENTITY pref_voice_input "आवाज इनपुट">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "परत चालवा">
 <!ENTITY pip_pause_button_title "थांबवा">
 <!ENTITY pip_pause_button_description "चालवणे थांबवा">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; स्थान सेवा">
