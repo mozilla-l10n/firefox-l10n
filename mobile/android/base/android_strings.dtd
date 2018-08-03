@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "ऑटोप्ले की अनुमति दें">
 <!ENTITY pref_media_autoplay_enabled_summary "अगर वेबसाइट स्वत: वीडियो और दूसरी मीडिया सामग्री चलाता है तो यह उसे नियंत्रित करता है">
+<!ENTITY pref_media_autoplay_allow "ऑटोप्ले की अनुमति दें">
+<!ENTITY pref_media_autoplay_block "ऑटोप्ले ब्लॉक करें">
 <!ENTITY pref_zoom_force_enabled "हमेशा जूम सक्षम करें">
 <!ENTITY pref_zoom_force_enabled_summary "बल ओवरराइड हैं, ताकि आप किसी भी पृष्ठ ज़ूम कर सकते हैं">
 <!ENTITY pref_voice_input "ध्वनि का इनपुट">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "चलाना पुनः शुरू करें">
 <!ENTITY pip_pause_button_title "रोकें">
 <!ENTITY pip_pause_button_description "चलना रोकें">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; लोकेशन सेवा">
