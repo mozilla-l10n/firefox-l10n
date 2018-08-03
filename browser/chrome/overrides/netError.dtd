@@ -150,26 +150,26 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Din forbindelse er ikke sikker">
-<!ENTITY certerror.longpagetitle2 "Advarsel: Mulig sikkerhedsrisiko forude">
+<!ENTITY certerror.longpagetitle2 "Advarsel: Mulig sikkerhedsrisiko">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Ejeren af <span class='hostname'/> har ikke konfigureret sit websted korrekt. For at undgå at dine informationer bliver stjålet, har &brandShortName; ikke oprettet forbindelse til webstedet.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; har opdaget en mulig sikkerhedstrussel og fortsatte ikke til <span class='hostname'/>. Hvis du besøger webstedet kan angribere forsøge at stjæle informationer som fx dine adgangskoder, mails eller oplysninger om dine betalingskort.">
+<!ENTITY certerror.introPara1 "&brandShortName; har opdaget en mulig sikkerhedstrussel og fortsatte ikke til <span class='hostname'/>. Hvis du besøger webstedet, kan angribere forsøge at stjæle informationer, som fx dine adgangskoder, mails eller oplysninger om dine betalingskort.">
 
 <!ENTITY certerror.expiredCert.secondPara "Problemet skyldes sandsynligvis, at uret i din computer er forkert indstillet. Dette kan forhindre &brandShortName; i at oprette en sikker forbindelse.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Hvad kan du gøre?">
 
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
-<p>Problemet skyldes højst sandsynligt webstedet, og du kan ikke gøre noget for at løse det.</p>
-<p>Hvis du befinder dig på et virksomhedsnetværk eller anvender anti-virus kan du kontakte supporten for at få hjælp. Du kan også prøve at give besked til webstedet ejer om problemet.</p>
+<p>Problemet skyldes sandsynligvis en opsætning på webstedet, og du kan i så fald ikke selv gøre noget for at løse det.</p>
+<p>Hvis du befinder dig på et virksomhedsnetværk eller anvender antivirus, kan du kontakte supporten for at få hjælp. Du kan også prøve at give besked til webstedets ejer om problemet.</p>
 ">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>Uret i din computer er indstillet til <span id='wrongSystemTime_systemDate'/>. Undersøg om din computer er indstillet til den rigtige dato, det rigtige klokkeslæt og den rette tidszone og genindlæs så <span class='hostname'/>.</p>
-<p>Hvis din computer allerede er indstillet til det korrekte tidspunkt er webstedet sandsynligvis opsat forkert, og det kan du ikke selv gøre noget ved. Du kan prøve at kontakte webstedets administrator for at gøre opmærksom på problemet.</p>
+<p>Uret i din computer er indstillet til <span id='wrongSystemTime_systemDate'/>. Undersøg om din computer er indstillet til den rigtige dato, det rigtige klokkeslæt og den rette tidszone, og genindlæs så <span class='hostname'/>.</p>
+<p>Hvis din computer allerede er indstillet til det korrekte tidspunkt, er webstedet sandsynligvis opsat forkert, og det kan du ikke selv gøre noget ved. Du kan prøve at kontakte webstedets administrator for at gøre opmærksom på problemet.</p>
 ">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
@@ -214,7 +214,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; oprettede ikke forbindelse til <span id='wrongSystemTimeWithoutReference_URL'/> fordi din computers ur lader til at være forkert indstillet</p> <p>Din computer er indstillet til <span id='wrongSystemTimeWithoutReference_systemDate'/>. Indstil dato og klokkeslæt korrekt for at løse dette problem.</p>">
 
 <!ENTITY certerror.pagetitle1  "Usikker forbindelse">
-<!ENTITY certerror.pagetitle2  "Advarsel: Mulig sikkerhedsrisiko forude">
+<!ENTITY certerror.pagetitle2  "Advarsel: Mulig sikkerhedsrisiko">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Webstedet bruger HTTP
 Strict Transport Security (HSTS) til at angive at &brandShortName; kun
 kan oprette en sikker forbindelse til det. Derfor er det ikke muligt at
