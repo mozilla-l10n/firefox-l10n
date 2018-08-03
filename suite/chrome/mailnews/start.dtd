@@ -25,6 +25,8 @@
 'Muchos idiomas adicionales pueden instalarse de la sección 
 <a id="dictURL" href="">diccionarios</a> en
 <a href="https://addons.mozilla.org/seamonkey/">Complementos de Mozilla</a>.'>
+<!ENTITY dict_info.label2
+'Se pueden instalar muchos idiomas adicionales desde la sección<a id="dictURL" href="">de diccionarios</a> en<a href="https://addons.thunderbird.net/seamonkey/"> y complementos de  Thunderbird</a>.'>
 <!ENTITY info.title "Más información">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
 <!ENTITY info_bugs.label
