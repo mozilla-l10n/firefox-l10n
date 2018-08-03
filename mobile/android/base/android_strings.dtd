@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Разрешить автозапуск">
 <!ENTITY pref_media_autoplay_enabled_summary "Контролирует, могут ли веб-сайты автоматически запускать видео и другой медиаконтент">
+<!ENTITY pref_media_autoplay_allow "Разрешить автозапуск">
+<!ENTITY pref_media_autoplay_block "Блокировать автозапуск">
 <!ENTITY pref_zoom_force_enabled "Всегда разрешать менять масштаб">
 <!ENTITY pref_zoom_force_enabled_summary "Игнорировать настройки сайтов, чтобы вы могли менять масштаб любой страницы">
 <!ENTITY pref_voice_input "Голосовой ввод">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Продолжить воспроизведение">
 <!ENTITY pip_pause_button_title "Приостановить">
 <!ENTITY pip_pause_button_description "Приостановить воспроизведение">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Служба местоположения &vendorShortName;">
