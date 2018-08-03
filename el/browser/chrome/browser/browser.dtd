@@ -316,6 +316,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Εργαλεία προγραμματιστή">
 <!ENTITY webDeveloperMenu.accesskey   "Π">
 
+<!ENTITY devtoolsRecordExecution.label "Ηχογράφηση εκτέλεσης">
+<!ENTITY devtoolsSaveRecording.label "Αποθήκευση ηχογράφησης">
+<!ENTITY devtoolsReplayExecution.label "Επανάληψη εκτέλεσης">
+
 <!ENTITY inspectContextMenu.label     "Έλεγχος αντικειμένου">
 <!ENTITY inspectContextMenu.accesskey "υ">
 
@@ -631,6 +635,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Απόκρυψη αρθρώματος">
 <!ENTITY hidePluginCmd.accesskey      "π">
 <!ENTITY copyLinkCmd.label            "Αντιγραφή τοποθεσίας συνδέσμου">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "γ">
 <!ENTITY copyImageCmd.label           "Αντιγραφή τοποθεσίας εικόνας">
 <!ENTITY copyImageCmd.accesskey       "ν">
@@ -641,6 +648,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Αντιγραφή τοποθεσίας ήχου">
 <!ENTITY copyAudioURLCmd.accesskey    "γ">
 <!ENTITY copyEmailCmd.label           "Αντιγραφή διεύθυνσης email">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "Ε">
 <!ENTITY thisFrameMenu.label              "Αυτό το πλαίσιο">
 <!ENTITY thisFrameMenu.accesskey          "λ">
