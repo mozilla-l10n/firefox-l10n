@@ -154,10 +154,20 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "&brandShortName; detectó una amenaza de seguridad potencial y no continuó <span class='hostname'/>. Si visita este sitio, es posible que atacantes traten de robar información como sus contraseñas, correos electrónicos o tarjetas de crédito.">
 
+<!ENTITY certerror.expiredCert.secondPara "Este problema seguramente se debe a que la hora del el reloj de su computadora es incorrecta, lo que impediría que &brandShortName; se conecte de forma segura.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "¿Qué puede hacer al respecto?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Es probable que haya un problema con el sitio web y no hay nada que pueda hacer al respecto.</p>
+<p>Si está usando una red corporativa o un software antivirus, puede contactarse con el equipo de asistencia técnica. También puede notificarle al administrador del sitio sobre el problema.</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>El reloj de su computadora está configurado en <span id='wrongSystemTime_systemDate'/>. Asegúrese de que su computadora muestre la fecha, hora y huso horario correctos en la configuración del sistema y luego actualice <span class='hostname'/>.</p>
+<p>Si su reloj ya tiene la configuración correcta, puede ser que la página web esté mal configurada y no hay nada que pueda hacer para resolver este problema. Puede notificar al administrador de la página web acerca del mismo.</p>">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Es probable que haya un problema con el sitio web, y no hay nada que pueda hacer para resolverlo. Puede notificar al administrador del sitio web sobre el problema.</p>
+">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -197,10 +207,12 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; no se conectó a <span id='wrongSystemTimeWithoutReference_URL'/> porque el reloj de la computadora parece tener la hora incorrecta y esto está evitando una conexión segura.</p> <p>La computadora tiene <span id='wrongSystemTimeWithoutReference_systemDate'/>. Para arreglar este problema, cambie la fecha y hora para que coincidan con la correcta.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conexión insegura">
+<!ENTITY certerror.pagetitle2  "Advertencia: Riesgo potencial de seguridad a continuación">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa HTTP
 Strict Transport Security (HSTS) para especificar que &brandShortName; solamente se conecte
 de forma segura. Como resultado, no es posible agregar una excepción para este
 certificado.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> tiene una política de seguridad llamada HTTP Strict Transport Security (HSTS), lo que significa que &brandShortName; solo puede conectarse de forma segura. No puede añadir una excepción para visitar este sitio.">
 <!ENTITY certerror.copyToClipboard.label "Copiar texto al portapapeles">
 
 <!ENTITY inadequateSecurityError.title "La conexión no es segura">
