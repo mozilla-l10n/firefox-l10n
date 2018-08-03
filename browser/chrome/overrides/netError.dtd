@@ -108,8 +108,8 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>A webhely ideiglenesen nem érhető el vagy túlterhelt. Próbálja újra pár perc múlva.</li> <li>Ha semmilyen oldalt nem tud letölteni, ellenőrizze a számítógépe hálózati kapcsolatát.</li> <li>Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a &brandShortName; számára engedélyezett-e a webhozzáférés.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Blokkolva a tartalombiztonsági irányelv szerint">
-<!ENTITY cspBlocked.longDesc "<p>A &brandShortName; nem engedte meg, hogy az oldalt ezen a módon betöltse, mert az oldal tartalombiztonsági irányelve ezt tiltja.</p>">
+<!ENTITY cspBlocked.title "Blokkolva a tartalombiztonsági házirend szerint">
+<!ENTITY cspBlocked.longDesc "<p>A &brandShortName; nem engedte meg, hogy az oldalt ezen a módon betöltse, mert az oldal tartalombiztonsági házirendje ezt tiltja.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Sérült tartalom hiba">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>A megtekinteni kívánt oldal nem jeleníthető meg, mert az adatátvitel közben hiba történt.</p><ul><li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.</li></ul>">
