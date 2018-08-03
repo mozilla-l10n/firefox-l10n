@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
 crash-reports-title = Fejlrapporter
-clear-all-reports-label = Fjern alle fejlrapporter
+clear-all-reports-label = Slet alle fejlrapporter
 delete-confirm-title = Er du sikker?
 delete-confirm-description = Dette vil slette alle fejlrapporter og kan ikke fortrydes.
 crashes-unsubmitted-label = Ikke-sendte fejlrapporter
