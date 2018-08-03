@@ -187,7 +187,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ne s’est pas connecté à <span id='wrongSystemTimeWithoutReference_URL'/> car l’horloge semble indiquer la mauvaise heure et cela empêche d’établir une connexion sécurisée.</p> <p>Votre ordinateur pense qu’il est <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pour corriger ce problème, modifiez vos paramètres de date et heure afin qu’ils correspondent à l’heure exacte.</p>">
 
 <!ENTITY certerror.pagetitle1  "Connexion non sécurisée">
-<!ENTITY certerror.pagetitle2  "Attention : risque probable de sécurité">
+<!ENTITY certerror.pagetitle2  "Attention : risque probable de sécurité">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ce site a recours à HTTP Strict Transport Security (HSTS) pour indiquer à &brandShortName; de n’établir qu’une connexion sécurisée. Ainsi il n’est pas possible d’ajouter d’exception pour ce certificat.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> a recours à une stratégie de sécurité HTTP Strict Transport Security (HSTS), une connexion sécurisée est obligatoire pour y accéder. Vous ne pouvez pas ajouter d’exception pour visiter ce site.">
 <!ENTITY certerror.copyToClipboard.label "Copier le texte dans le presse-papiers">
