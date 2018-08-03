@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Permitir autorreproducción">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web pueden autorreproducir vídeos y otro contenido de medios">
+<!ENTITY pref_media_autoplay_allow "Permitir la reproducción automática">
+<!ENTITY pref_media_autoplay_block "Bloquear la reproducción automática">
 <!ENTITY pref_zoom_force_enabled "Activar siempre tamaño personalizado">
 <!ENTITY pref_zoom_force_enabled_summary "Forzar sobrescritura para que pueda variar el tamaño de cualquier página">
 <!ENTITY pref_voice_input "Entrada por voz">
@@ -450,6 +452,7 @@
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Servicio de localización corriendo">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -902,3 +905,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Renaudar reproducción">
 <!ENTITY pip_pause_button_title "Pausar">
 <!ENTITY pip_pause_button_description "Pausar reproducción">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; Servicio de localización">
