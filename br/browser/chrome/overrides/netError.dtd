@@ -106,7 +106,15 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Petra a c'hallit ober?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Liammet eo ar gudenn ouzh al lec'hienn sur-mat, ha n'eus netra e c'hallfec'h ober evit dont a-benn anezhi.</p>
+<p>Ma 'z oc'h war ur genrouedad kenlabourus pe e rit gant ur meziant enepvirus, gellout a rit mont e darempred gant ar skipailhoù skoazell evit kaout sikour. Gellout a rit reiñ da anavezout ar gudenn d'ar merour ivez.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
+<p>Horolaj hoc'h urzhiataer a zo termenet da <span id='wrongSystemTime_systemDate'/>. Bezit asur ez eo termenet mat deiziad, eurvezh, ha zonenn eurvezh hoc'h urzhiater en hoc'h arventennoù reizhiad, ha freskait da c'houde <span class='hostname'/>.</p>
+<p>If your clock is already set to the right time, the website is likely misconfigured, and there is nothing you can do to resolve the issue. You can notify the website’s administrator about the problem.</p>
+">
 
 
 <!ENTITY sharedLongDesc "<ul> <li>Marteze n'eo ket hegerz al lec'hienn evit un nebeud amzer. Klaskit en-dro diwezhatoc'h.</li> <li>Ma n'oc'h ket gouest da verdeiñ war lec'hiennoù all, gwiriit kennaskañ hoc'h urzhiataer ouzh ar rouedad.</li> <li>Ma'z eo gwaredet hoc'h urzhiataer pe ho rouedad gant un tanvoger pe ur proksi, gwiriit ez eo aotreet &brandShortName; da gennaskañ ouzh ar rouedad</li> </ul>">
