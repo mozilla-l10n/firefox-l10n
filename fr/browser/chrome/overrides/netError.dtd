@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "Erreur de chargement de la page">
 <!ENTITY retry.label "Réessayer">
 <!ENTITY returnToPreviousPage.label "Retour">
+<!ENTITY returnToPreviousPage1.label "Retour (recommandé)">
 <!ENTITY advanced.label "Avancé">
+
+<!ENTITY continue.label "Continuer">
 
 <!-- Specific error messages -->
 
@@ -131,10 +134,20 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "La connexion n’est pas sécurisée">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Attention : risque probable de sécurité">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Les propriétaires de <span class='hostname'/> ont mal configuré leur site web. Pour éviter que vos données ne soient dérobées, &brandShortName; ne s’est pas connecté à ce site web.">
+
+<!ENTITY certerror.introPara1 "&brandShortName; a détecté une menace relative à la sécurité et n’a pas accédé à <span class='hostname'/>. Si vous visitez ce site, des attaquants pourraient intercepter vos informations telles que vos mots de passe, courriels ou vos cartes bancaires.">
+
+<!ENTITY certerror.expiredCert.secondPara "Ce problème est probablement dû au fait que l’horloge de votre ordinateur est déréglée ce qui empêche &brandShortName; de se connecter de façon sécurisée.">
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Que pouvez-vous faire ?">
+
+
+
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -174,7 +187,9 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ne s’est pas connecté à <span id='wrongSystemTimeWithoutReference_URL'/> car l’horloge semble indiquer la mauvaise heure et cela empêche d’établir une connexion sécurisée.</p> <p>Votre ordinateur pense qu’il est <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pour corriger ce problème, modifiez vos paramètres de date et heure afin qu’ils correspondent à l’heure exacte.</p>">
 
 <!ENTITY certerror.pagetitle1  "Connexion non sécurisée">
+<!ENTITY certerror.pagetitle2  "Attention : risque probable de sécurité">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ce site a recours à HTTP Strict Transport Security (HSTS) pour indiquer à &brandShortName; de n’établir qu’une connexion sécurisée. Ainsi il n’est pas possible d’ajouter d’exception pour ce certificat.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> a recours à une stratégie de sécurité HTTP Strict Transport Security (HSTS), une connexion sécurisée est obligatoire pour y accéder. Vous ne pouvez pas ajouter d’exception pour visiter ce site.">
 <!ENTITY certerror.copyToClipboard.label "Copier le texte dans le presse-papiers">
 
 <!ENTITY inadequateSecurityError.title "La connexion n’est pas sécurisée">
