@@ -202,6 +202,7 @@ choose-language-description = Επιλέξτε την προτιμώμενη γ�
 choose-button =
     .label = Επιλογή...
     .accesskey = λ
+choose-browser-language-description = Επιλέξτε τις γλώσσες εμφάνισης μενού, μηνυμάτων και ειδοποιήσεων από το { -brand-short-name }.
 confirm-browser-language-change-description = Επανεκκίνηση του { -brand-short-name } για εφαρμογή αλλαγών
 confirm-browser-language-change-button = Εφαρμογή και επανεκκίνηση
 translate-web-pages =
