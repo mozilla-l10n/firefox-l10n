@@ -785,6 +785,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "పూర్తయింది">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "భద్రపరుస్తున్నప్పుడు ఎడిటర్‌ను చూపించు">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
@@ -889,6 +890,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "సింక్">
 
+<!ENTITY customizeMode.menuAndToolbars.header3 "మీ అభిమాన అంశాలను పనిముట్లపట్టీకి లేదా ఓవర్‌ఫ్లో మెనూ లోకి లాగండి.">
 <!ENTITY customizeMode.restoreDefaults "అప్రమేయాలను పునరుద్ధరించు">
 <!ENTITY customizeMode.done "పూర్తయింది">
 <!ENTITY customizeMode.titlebar "శీర్షిక పట్టీ">
@@ -902,6 +904,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "మరిన్ని అలంకారాలను పొందండి">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.overflowList.title2 "ఓవర్‌ఫ్లో మెనూ">
+<!ENTITY customizeMode.overflowList.description "మీకు చేరువగా ఉండటానికి, కానీ పనిముట్లపట్టీలో లేకుండా, అంశాలను ఇక్కడకు లాగి వదలండి…">
 <!ENTITY customizeMode.uidensity "సాంద్రత">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -952,6 +955,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingProtection.tooltip "ట్రాకింగ్ సంరక్షణ అభిరుచులు తెరువు">
+<!ENTITY trackingProtection.detectedBlocked4 "మీ విహారణ జాడ తెలుసుకోవాలనుకునే ఈ పేజీ లోని భాగాలను &brandShortName; నిరోధిస్తున్నది.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "మీ విహరణ జాడ తెలుసుకోవాలనే మూలకాలను &brandShortName; కనుగొంది.">
 <!ENTITY trackingProtection.notDetected5 "ఈ పేజీలో ట్రాకింగ్ మూలకాలేమీ కనబడలేదు.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
