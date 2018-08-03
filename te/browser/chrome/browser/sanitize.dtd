@@ -15,6 +15,7 @@
 
 <!ENTITY clearDataSettings3.label     "నేను &brandShortName; నుండి నిష్క్రమించినప్పుడు, అది స్వయంచాలకంగా వీటన్నింటినీ తుడిచివేయాలి">
 
+<!ENTITY clearDataSettings4.label     "మూసివేసినప్పుడు, &brandShortName; ఆటోమెటిగ్గా వీటిని చెరిపివేస్తుంది">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
