@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Aotre al lenn emgefreek">
 <!ENTITY pref_media_autoplay_enabled_summary "Mestroniañ lenn emgefreek ar videoioù ha ar mediaoù all gant al lec\&apos;hiennoù ">
+<!ENTITY pref_media_autoplay_allow "Aotren an emlenn">
+<!ENTITY pref_media_autoplay_block "Paouez an emlenn">
 <!ENTITY pref_zoom_force_enabled "Gweredekaat ar zoum bepred">
 <!ENTITY pref_zoom_force_enabled_summary "Bountañ dre zorn a-benn ma vo zoumet war an holl bajennoù ">
 <!ENTITY pref_voice_input "Enankad mouezh">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Kenderc\&apos;hel gant al lenn">
 <!ENTITY pip_pause_button_title "Ehan">
 <!ENTITY pip_pause_button_description "Ehaniñ al lenn">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; Servij lec\&apos;heladur">
