@@ -29,10 +29,10 @@ permissions-remove-all =
     .label = ಎಲ್ಲಾ ಜಾಲತಾಣಗಳನ್ನು ತೆಗೆದು ಹಾಕು
     .accesskey = e
 permissions-button-cancel =
-    .label = Cancel
+    .label = ರದ್ದುಮಾಡು
     .accesskey = C
 permissions-button-ok =
-    .label = Save ಬದಲಾವಣೆಗಳು
+    .label = ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸು
     .accesskey = S
 permissions-searchbox =
     .placeholder = ಜಾಲತಾಣವನ್ನು ಹುಡುಕು
@@ -71,6 +71,9 @@ permissions-exceptions-saved-logins-window =
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಆಡ್-ಆನ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಅನುಮತಿ ಇದೆ ಎಂದು ನೀವು ಸೂಚಿಸಬಹುದು. ನೀವು ಅನುಮತಿಸಲು ಬಯಸುವ ತಾಣದ ನಿಖರವಾದ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ ನಂತರ ಅನುಮತಿಸು ಅನ್ನು ಕ್ಲಿಕ್ಕಿಸಿ.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
