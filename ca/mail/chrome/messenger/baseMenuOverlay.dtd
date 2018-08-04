@@ -20,12 +20,9 @@
 <!ENTITY openHelp.label "Continguts de l'ajuda">
 <!ENTITY openHelp.accesskey "C">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "Ajuda del &brandShortName;">
+<!ENTITY openHelpMac2.label "Ajuda del &brandFullName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
-
-<!ENTITY aboutMenuCmd.label "Quant al &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "Q">
 
 <!ENTITY aboutMenuCmd2.label "Quant al &brandFullName;">
 <!ENTITY aboutMenuCmd2.accesskey "Q">

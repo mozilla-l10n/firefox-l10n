@@ -5,9 +5,9 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Per estalviar espai, no baixis:">
 <!ENTITY doNotDownloadNntp.label "Per estalviar espai, no baixis per treballar-hi fora de línia:">
 <!ENTITY doNotDownloadImap.label "Per estalviar espai, es poden restringir els missatges que es baixen com a còpia local per treballar-hi fora de línia segons la seva antiguitat o la seva mida.">
-<!ENTITY allFoldersOffline.label "Conserva els missatges d'aquest compte a l'ordinador">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "Conserva els missatges de totes les carpetes d'aquest compte a l'ordinador">
+<!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY allFoldersOfflineNote.label "Nota: Si canvieu aquesta opció, afectarà totes les carpetes d'aquest compte. Per definir carpetes individuals, utilitzeu el botó «Avançat…».">
 <!ENTITY offlineNotDownload.label "Missatges més grans de">
 <!ENTITY offlineNotDownload.accesskey "d">
 <!ENTITY autosyncNotDownload.label "No baixis missatges si són més grans de">
