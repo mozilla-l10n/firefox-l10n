@@ -67,6 +67,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klikit evit kaout muioc'h a zibarzhioù">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Adkadarnaat">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Kas un adkadarnadur d'an aozer">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Adaozañ">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Adaozañ an darvoud">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Enrollañ un eilad">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Enrollañ un eilad eus an darvoud war an deiziataer, distag eus ur respont d'an aozer. Roll ar berzhidi a vo goullonderet.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Argeziad">
