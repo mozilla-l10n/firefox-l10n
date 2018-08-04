@@ -631,10 +631,6 @@ addressbar-suggestions-settings = Ändra inställningar för förslag från sök
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Läs mer
-content-blocking-toggle-label-on = PÅ
-    .accesskey = O
-content-blocking-toggle-label-off = AV
-    .accesskey = O
 content-blocking-category-label = Välj vad som ska blockeras
 content-blocking-fastblock-option-enabled =
     .label = Blockera alltid
