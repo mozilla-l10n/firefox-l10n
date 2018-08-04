@@ -76,6 +76,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = I twero cimo kakube mene ma kiye me keto med-ikome. Co kanonge kikome me kakube ma imito ye kadong i dii Ye.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Kakube ma ki yee - Tuko pire kene
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =

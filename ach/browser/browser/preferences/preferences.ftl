@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } pe tye layeny mamegi makwongo
 set-as-my-default-browser =
     .label = Mi obed makwongo…
     .accesskey = m
-startup-page = Ka { -brand-short-name } ocake
-    .accesskey = o
-startup-user-homepage =
-    .label = Nyut pot buk mamegi me gang
-startup-blank-page =
-    .label = Nyut pot buk ma tye nono
-startup-prev-session =
-    .label = Nyut dirica ki dirca matino mamegi ma ceng ca
 startup-restore-previous-session =
     .label = Dwok kare ma okato ni
     .accesskey = o
 disable-extension =
     .label = Juk lamed
-home-page-header = Potbuk me acakki
 tabs-group-header = Dirica matino
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab wire ikin dirica matino i kit ma ki tiyo kwedgi cokki
@@ -219,6 +202,8 @@ choose-language-description = Yer leb ma imito pi yaro pot buk
 choose-button =
     .label = Yer…
     .accesskey = e
+confirm-browser-language-change-description = Nwo cako { -brand-short-name } me keto alokaloka magi
+confirm-browser-language-change-button = Keti ka i Nwo cako
 translate-web-pages =
     .label = Kob gin manonge iye kakube
     .accesskey = K
@@ -362,9 +347,6 @@ use-current-pages =
 choose-bookmark =
     .label = Tii ki Alama buk…
     .accesskey = A
-restore-default =
-    .label = Dwok i makwongo
-    .accesskey = D
 
 ## Search Section
 
@@ -624,6 +606,27 @@ addressbar-locbar-openpage-option =
     .accesskey = Y
 addressbar-suggestions-settings = Lok ter pi tam ma kimiyo me injin yeny
 
+## Privacy Section - Content Blocking
+
+content-blocking-learn-more = Nong ngec mapol
+content-blocking-restore-defaults =
+    .label = Dwok makwongo
+    .accesskey = D
+content-blocking-category-label = Yer ngo me agenga
+content-blocking-fastblock-option-enabled =
+    .label = Geng jwijwi
+content-blocking-fastblock-option-disabled =
+    .label = Matwal pe i geng
+content-blocking-tracking-protection-label = Lulub kor
+    .accesskey = B
+content-blocking-tracking-protection-description = Geng lulub kor weng ma ngene (Ngec: twero bene gengo cano potbuk mukene.
+content-blocking-tracking-protection-option-enabled =
+    .label = Jwijwi geng
+content-blocking-tracking-protection-option-pbm =
+    .label = Geng i dirica me mung keken
+content-blocking-tracking-protection-option-disabled =
+    .label = Matwal pe i geng
+
 ## Privacy Section - Tracking
 
 tracking-header = Gwokke ikom lubo kor
@@ -672,6 +675,12 @@ permissions-notification-link = Nong ngec mapol
 permissions-notification-pause =
     .label = Juk jami angeya wang ma { -brand-short-name } onwoyo cake
     .accesskey = n
+autoplay-option-ask =
+    .label = Peny jwijwi
+autoplay-option-allow =
+    .label = Yee tuko pire kene
+autoplay-option-dont =
+    .label = Pe i yee tuko pire kene
 permissions-block-popups =
     .label = Geng dirica ma pye-malo
     .accesskey = G
