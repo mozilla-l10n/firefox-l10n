@@ -5,8 +5,8 @@
 <!ENTITY addressbookWindow.title                        "Llibreta d'adreces">
 <!ENTITY blankResultsPaneMessage.label                  "Aquesta llibreta d'adreces no mostra cap contacte fins que no feu una cerca">
 <!ENTITY localResultsOnlyMessage.label                  "Els contactes de les llibretes d'adreces remotes no mostren fins que no feu una cerca">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fitxer">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Nou">
@@ -40,8 +40,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Imprimeix la llibreta d'adreces…">
 <!ENTITY printAddressBook.accesskey                     "a">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Edita">
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY undoCmd.label                                  "Desfés">
@@ -85,8 +85,8 @@
 <!ENTITY contactPropertiesMenu.accesskey                "i">
 <!ENTITY mailingListPropertiesMenu.label                "Propietats de la llista de correu">
 <!ENTITY mailingListPropertiesMenu.accesskey            "i">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Visualitza">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Barres d'eines">
@@ -117,13 +117,16 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey                       "m">
 <!ENTITY sortMenu.label                                 "Ordena">
 <!ENTITY sortMenu.accesskey                             "d">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Eines">
 <!ENTITY tasksMenu.accesskey                            "n">
 <!ENTITY messengerCmd.label                             "Missatgeria">
 <!ENTITY messengerCmd.accesskey                         "M">
 <!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY addressBookCmd.label                           "Llibreta d'adreces">
+<!ENTITY addressBookCmd.accesskey                       "a">
+<!ENTITY addressBookCmd.key                             "B">
 <!ENTITY searchAddressesCmd.label                       "Cerca les adreces…">
 <!ENTITY searchAddressesCmd.accesskey                   "e">
 <!ENTITY importCmd.label                                "Importa…">
@@ -134,8 +137,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferències">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
-<!-- Address Book Toolbar and Context Menus -->
 
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Crea un contacte">
 <!ENTITY newContactButton.accesskey                     "n">
 <!ENTITY newlistButton.label                            "Crea una llista">
@@ -159,8 +162,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "r">
 <!ENTITY deleteButton2.label                            "Suprimeix">
 <!ENTITY deleteButton2.accesskey                        "u">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Crea un contacte nou a la llibreta d'adreces">
 <!ENTITY newlistButton.tooltip                          "Crea una llista nova">
 <!ENTITY editPropertiesButton.tooltip                   "Edita l'element seleccionat">
@@ -170,18 +173,18 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Envia un missatge de correu">
 <!ENTITY newIM.tooltip                                  "Envieu un missatge instantani o feu un xat">
 <!ENTITY deleteButton2.tooltip                          "Suprimeix l'element seleccionat">
+
 <!-- Dir Tree header -->
-
 <!ENTITY dirTreeHeader.label                            "Llibretes d'adreces">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "El nom o l'adreça electrònica">
 <!ENTITY SearchNameOrEmail.accesskey                    "n">
 <!ENTITY advancedButton.tooltip                         "Cerca d'adreces avançada">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Cerca ràpida">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Llibreta d'adreces">
 <!ENTITY Addrbook.accesskey                             "a">
 <!ENTITY GeneratedName.label                            "Nom">
@@ -194,7 +197,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Sobrenom">
 <!ENTITY NickName.accesskey                             "S">
-<!ENTITY SecondEmail.label                              "Adreça electrònica alternativa">
+<!ENTITY SecondEmail.label                              "Adreça electrònica addicional">
 <!ENTITY SecondEmail.accesskey                          "l">
 <!ENTITY Department.label                               "Departament">
 <!ENTITY Department.accesskey                           "r">
@@ -216,9 +219,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "D">
 <!ENTITY _PhoneticName.label                            "Nom fonètic">
 <!ENTITY _PhoneticName.accesskey                        "o">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading                                "Contacte">
 <!ENTITY home.heading                                   "Particular">
 <!ENTITY other.heading                                  "Altres">
@@ -231,11 +234,11 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Mostra el mapa">
 <!ENTITY mapIt.tooltip                                  "Mostra un mapa d'aquesta adreça del Web">
+
 <!-- Status Bar -->
-
 <!ENTITY statusText.label                               "">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Finestra">
 <!ENTITY minimizeWindow.label                           "Minimitza la finestra">
 <!ENTITY minimizeWindow.key                             "m">
