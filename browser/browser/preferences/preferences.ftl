@@ -650,9 +650,9 @@ content-blocking-fastblock-label = 减慢加载的跟踪元素
     .accesskey = S
 content-blocking-fastblock-description = 拦截加载时间超过 5 秒的第三方内容。
 content-blocking-fastblock-option-enabled =
-    .label = 总是拦截
+    .label = 始终拦截
 content-blocking-fastblock-option-disabled =
-    .label = 不拦截
+    .label = 永不拦截
 content-blocking-tracking-protection-label = 跟踪器
     .accesskey = T
 content-blocking-tracking-protection-description = 拦截已知的所有跟踪器（注意：可能影响某些页面的加载）。
@@ -661,7 +661,7 @@ content-blocking-tracking-protection-option-enabled =
 content-blocking-tracking-protection-option-pbm =
     .label = 仅在隐私窗口拦截
 content-blocking-tracking-protection-option-disabled =
-    .label = 不拦截
+    .label = 永不拦截
 content-blocking-tracking-protection-change-blocklist = 更换拦截列表…
 
 ## Privacy Section - Tracking
