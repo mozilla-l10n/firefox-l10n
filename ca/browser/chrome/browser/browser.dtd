@@ -206,10 +206,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY backCmd.label                "Enrere">
 <!ENTITY backCmd.accesskey            "r">
-<!ENTITY backButton.tooltip           "Vés una pàgina enrere">
+<!ENTITY backButton.tooltip           "Pàgina anterior">
 <!ENTITY forwardCmd.label             "Endavant">
 <!ENTITY forwardCmd.accesskey         "d">
-<!ENTITY forwardButton.tooltip        "Vés una pàgina endavant">
+<!ENTITY forwardButton.tooltip        "Pàgina següent">
 <!ENTITY backForwardButtonMenu.tooltip "Premeu amb el botó dret o arrossegueu cap avall per veure l'historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrossegueu cap avall per veure l'historial">
 <!ENTITY reloadCmd.label              "Actualitza">
@@ -309,6 +309,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Desenvolupador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
+
 
 <!ENTITY inspectContextMenu.label     "Inspecciona l'element">
 <!ENTITY inspectContextMenu.accesskey "I">
@@ -623,6 +624,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Amaga aquest connector">
 <!ENTITY hidePluginCmd.accesskey      "m">
 <!ENTITY copyLinkCmd.label            "Copia l'enllaç">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copia la ubicació de la imatge">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -633,6 +637,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Copia la ubicació de l'àudio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Copia l'adreça electrònica">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Aquest marc">
 <!ENTITY thisFrameMenu.accesskey          "t">
@@ -768,6 +775,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Afegeix diccionaris…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
 <!ENTITY editBookmark.done.label                     "Fet">
 <!ENTITY editBookmark.removeBookmark.accessKey       "r">
 
@@ -1045,6 +1055,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "S'estan sincronitzant els dispositius…">
 
 <!ENTITY pageAction.shareUrl.label "Comparteix">
+
 
 <!ENTITY libraryButton.tooltip "Mostra l'historial, les adreces d'interès desades i més">
 
