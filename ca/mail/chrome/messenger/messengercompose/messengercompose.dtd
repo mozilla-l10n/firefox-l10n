@@ -91,14 +91,13 @@
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "a">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Selecciona-ho tot">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Cerca…">
 <!ENTITY findBarCmd.accesskey "C">
 <!ENTITY findBarCmd.key "F">
@@ -233,7 +232,6 @@
 <!ENTITY sendlaterButton.tooltip "Envia aquest missatge més tard">
 <!ENTITY quoteButton.tooltip "Cita el missatge anterior">
 <!ENTITY addressButton.tooltip "Seleccioneu un destinatari d'una Llibreta d'adreces">
-<!ENTITY attachButton.tooltip "Adjunta un fitxer a aquest missatge">
 <!ENTITY spellingButton.tooltip "Comprova l'ortografia de la selecció o del missatge sencer">
 <!ENTITY saveButton.tooltip "Desa aquest missatge">
 <!ENTITY cutButton.tooltip              "Retalla">
@@ -256,11 +254,12 @@
 <!ENTITY subject.label "Assumpte:">
 <!ENTITY subject.accesskey "s">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "j">
-
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Insereix una cara somrient">
@@ -295,7 +294,7 @@
 <!ENTITY copy.accesskey "C">
 <!ENTITY paste.label "Enganxa">
 <!ENTITY paste.accesskey "x">
-<!ENTITY pasteQuote.label "Enganxa com a cita">
+<!ENTITY pasteQuote.label "Enganxa com a citació">
 <!ENTITY pasteQuote.accesskey "i">
 
 <!-- Attachment Item and List Context Menus -->
@@ -339,6 +338,8 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Personalitza l'adreça «De»…">
 <!ENTITY customizeFromAddress.accesskey "P">
+
+<!-- Accessibility name for the document -->
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Llengua de la verificació ortogràfica">
