@@ -35,6 +35,14 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Lor dirica matino mukene">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+
+<!-- Pin Tab and Pin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Reload Tab and Reload Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -59,7 +67,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "G">
 <!ENTITY  closeTab.label                     "Lor dirica matidi">
 <!ENTITY  closeTab.accesskey                 "L">
-
 <!ENTITY  hiddenTabs.label                   "Dirica matino ma okane">
 
 <!ENTITY  listAllTabs.label      "Rwe dirica matino weng">
@@ -215,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Lok kono nyo itwero nongo jami angeya ki i kakube ne">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Ki tye ka loono layeny ki kama bor">
 
-
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Lo nywako lamak cal ki/onyo mikropon mamegi ki kakube">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Lo nywako mikropon mamegi ki kakube">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Lo nywako dirica onyo kio mamegi ki kakube">
@@ -240,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Gang">
+
 
 <!ENTITY bookmarksButton.label          "Alama buk">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -285,6 +292,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Layub Kakube">
 <!ENTITY webDeveloperMenu.accesskey   "L">
+
 
 <!ENTITY inspectContextMenu.label     "Ngiyo gin ma i but">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -395,8 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Medi i Jami ayera ma okane">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Kob bot gintic">
@@ -408,6 +415,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Kob bot nying gin ayera">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Mwon ii Jami ayera ma okane">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "War ki ii Jami ayera ma okane">
@@ -591,6 +601,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Kan larwak man">
 <!ENTITY hidePluginCmd.accesskey      "K">
 <!ENTITY copyLinkCmd.label            "Lok kabedo me kakube">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "e">
 <!ENTITY copyImageCmd.label           "Lok kabedo me cal">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -601,6 +614,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Lok kabedo me dwon">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Lok kanonge me email">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "k">
 <!ENTITY thisFrameMenu.label              "Pem man">
 <!ENTITY thisFrameMenu.accesskey          "a">
@@ -625,6 +641,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate050x2.label "Mot (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "M">
 <!ENTITY mediaPlaybackRate100x2.label "">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Oyot (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "O">
 <!ENTITY mediaPlaybackRate150x2.label "Oyot adada (1.5×)">
@@ -735,8 +752,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Med buk me gonyo lok…">
 <!ENTITY spellAddDictionaries.accesskey "M">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
 <!ENTITY editBookmark.done.label                     "Otum">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -779,9 +800,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Ngec mapol">
 
+
 <!ENTITY identity.permissions "Rukuca">
 <!ENTITY identity.permissionsEmpty "Pe imiyo ki kakube man kit twer madito mo keken.">
 <!ENTITY identity.permissionsReloadHint "Twero mite ni myero i nwo cano potbuk wek alokaloka otime.">
+
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -856,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
@@ -886,6 +910,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "J">
 <!ENTITY trackingProtection.block2.label "Cak gwokke">
 <!ENTITY trackingProtection.block2.accesskey "C">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 <!ENTITY pluginNotification.showAll.label "Nyut weng">
 <!ENTITY pluginNotification.showAll.accesskey "N">
@@ -987,6 +1019,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Ribo nyonyo…">
 
 <!ENTITY pageAction.shareUrl.label "Nywaki">
+
 
 <!ENTITY libraryButton.tooltip "Nen mukato, alamabuk ma kigwoko, ki mapol">
 
