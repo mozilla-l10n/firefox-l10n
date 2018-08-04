@@ -308,7 +308,7 @@
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Selecciona-ho tot">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Adjunta un fitxer…">
+<!ENTITY attachFile.label "Adjunta fitxers…">
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
