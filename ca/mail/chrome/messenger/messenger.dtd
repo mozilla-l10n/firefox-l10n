@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "i">
 <!ENTITY newIMContactCmd.label "Contacte del xat...">
 <!ENTITY newIMContactCmd.accesskey "a">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Missatge">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Contacte de la llibreta d'adreces…">
+<!ENTITY  newContactCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Obre un missatge desat…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Anomena i desa">
@@ -317,7 +323,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Xat">
 <!ENTITY goChatCmd.accesskey "X">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Missatge destacat">
 <!ENTITY prevStarredMsgCmd.accesskey "s">
@@ -367,8 +372,11 @@
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Edita l'esborrany">
 <!ENTITY editDraftMsgCmd.accesskey "b">
-<!-- do not change "VK_RETURN" -->
-<!ENTITY createFilter.label "Crea un filtre…">
+<!ENTITY editTemplateMsgCmd.label "Edita la plantilla">
+<!ENTITY editTemplateMsgCmd.accesskey "t">
+<!ENTITY newMsgFromTemplateCmd.label "Missatge nou a partir de la plantilla">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
+<!ENTITY createFilter.label "Crea un filtre a partir del missatge…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Mou">
 <!ENTITY moveMsgToMenu.accesskey "u">
@@ -459,6 +467,11 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Complements">
 <!ENTITY addons.accesskey "m">
+<!ENTITY addonPrefs.label "Opcions del complement">
+<!ENTITY addonPrefs.accesskey "O">
+<!ENTITY addonPrefsUnix.label "Preferències del complement">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "No s'ha trobat cap paràmetre per al complement. ">
 <!ENTITY activitymanager.label "Gestor d'activitat">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY imAccountsStatus.label "Estat del xat">
@@ -502,8 +515,7 @@
 <!ENTITY devToolboxCmd.label "Caixa d'eines per a desenvolupadors">
 <!ENTITY devToolboxCmd.accesskey "x">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Depurador de complements">
-<!ENTITY addonDebugCmd.accesskey "D">
+<!ENTITY debugAddonsCmd.label "Depura els complements">
 <!ENTITY tabsDebugCmd.label "Depurador de marc de contingut">
 <!ENTITY tabsDebugCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Consola d'errors">
@@ -858,7 +870,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
