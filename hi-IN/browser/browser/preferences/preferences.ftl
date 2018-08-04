@@ -649,6 +649,13 @@ content-blocking-toggle-label-on = चालू
 content-blocking-toggle-label-off = बंद
     .accesskey = O
 content-blocking-category-label = चुनें कि क्या ब्लॉक करना है
+content-blocking-fastblock-description = लोड होने में 5 सेकंड से अधिक समय लेने वाले तृतीय-पार्टी सामग्री को ब्लॉक करता है.
+content-blocking-fastblock-option-enabled =
+    .label = हमेशा ब्लॉक करें
+content-blocking-fastblock-option-disabled =
+    .label = कभी ब्लॉक ना करें
+content-blocking-tracking-protection-label = ट्रैकर
+    .accesskey = T
 
 ## Privacy Section - Tracking
 
