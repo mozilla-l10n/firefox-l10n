@@ -618,6 +618,44 @@ addressbar-locbar-openpage-option =
     .accesskey = O
 addressbar-suggestions-settings = 修改搜尋建議偏好設定
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = 內容封鎖
+content-blocking-desc = 封鎖會拖慢您上網速度並追蹤您的廣告或程式碼等第三方網頁內容。可調整相關設定以在保護與效能間取得最佳平衡。
+content-blocking-learn-more = 了解更多
+content-blocking-restore-defaults =
+    .label = 回復為預設值
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = 關閉內容封鎖
+content-blocking-toggle-off =
+    .tooltiptext = 開啟內容封鎖
+content-blocking-toggle-label-on = 開啟
+    .accesskey = O
+content-blocking-toggle-label-off = 關閉
+    .accesskey = O
+content-blocking-category-label = 選擇要封鎖的內容
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = 很慢才載入的追蹤元素
+    .accesskey = S
+content-blocking-fastblock-description = 封鎖超過 5 秒尚未載入完成的第三方內容。
+content-blocking-fastblock-option-enabled =
+    .label = 總是封鎖
+content-blocking-fastblock-option-disabled =
+    .label = 永不封鎖
+content-blocking-tracking-protection-label = 追蹤器
+    .accesskey = T
+content-blocking-tracking-protection-description = 封鎖所有已知的追蹤器（可能也會無法載入某些頁面）。
+content-blocking-tracking-protection-option-enabled =
+    .label = 總是封鎖
+content-blocking-tracking-protection-option-pbm =
+    .label = 僅在隱私瀏覽視窗封鎖
+content-blocking-tracking-protection-option-disabled =
+    .label = 永不封鎖
+content-blocking-tracking-protection-change-blocklist = 變更封鎖清單…
+
 ## Privacy Section - Tracking
 
 tracking-header = 追蹤保護
