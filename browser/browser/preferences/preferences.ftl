@@ -202,6 +202,7 @@ choose-language-description = Choix de la langue préférée pour l’affichage 
 choose-button =
     .label = Choisir…
     .accesskey = o
+choose-browser-language-description = Choisissez en quelle langue doivent s'afficher les menus, messages et notifications de { -brand-short-name }.
 confirm-browser-language-change-description = Redémarrer { -brand-short-name } pour appliquer ces changements
 confirm-browser-language-change-button = Appliquer et redémarrer
 translate-web-pages =
@@ -628,6 +629,9 @@ addressbar-locbar-openpage-option =
     .label = Les onglets ouverts
     .accesskey = O
 addressbar-suggestions-settings = Modifier les préférences pour les suggestions de recherche
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
