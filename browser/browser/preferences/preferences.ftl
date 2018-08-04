@@ -656,6 +656,13 @@ content-blocking-fastblock-option-disabled =
     .label = कभी ब्लॉक ना करें
 content-blocking-tracking-protection-label = ट्रैकर
     .accesskey = T
+content-blocking-tracking-protection-option-enabled =
+    .label = हमेशा ब्लॉक करें
+content-blocking-tracking-protection-option-pbm =
+    .label = केवल निजी विंडो में ब्लॉक करें
+content-blocking-tracking-protection-option-disabled =
+    .label = कभी ब्लॉक ना करें
+content-blocking-tracking-protection-change-blocklist = ब्लॉक सूची बदलें
 
 ## Privacy Section - Tracking
 
@@ -716,6 +723,8 @@ autoplay-option-ask =
     .label = हमेशा पूछें
 autoplay-option-allow =
     .label = ऑटो प्ले को अनुमति दें
+autoplay-option-dont =
+    .label = ऑटोप्ले रोकें
 permissions-block-popups =
     .label = पॉपअप विंडो को अवरोधित करें
     .accesskey = B
