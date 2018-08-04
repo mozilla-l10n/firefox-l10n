@@ -85,6 +85,9 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Canvia el nom del fitxer adjunt...">
 <!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY reorderAttachmentsCmd.label "Reordena les adjuncions…">
+<!ENTITY reorderAttachmentsCmd.accesskey "s">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Subfinestra d'adjuncions">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
@@ -114,13 +117,24 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Reordena les adjuncions">
+<!ENTITY moveAttachmentTopPanelBtn.label "Mou al capdamunt">
+<!ENTITY moveAttachmentUpPanelBtn.label "Puja">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Mou conjuntament">
+<!ENTITY moveAttachmentDownPanelBtn.label "Baixa">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Mou al capdavall">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Ordena: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Ordena: Z - A">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Ordena la selecció: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Ordena la selecció: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Visualitza">
@@ -232,6 +246,7 @@
 <!ENTITY sendlaterButton.tooltip "Envia aquest missatge més tard">
 <!ENTITY quoteButton.tooltip "Cita el missatge anterior">
 <!ENTITY addressButton.tooltip "Seleccioneu un destinatari d'una Llibreta d'adreces">
+<!ENTITY attachButton.tooltip2 "Afegeix una adjunció">
 <!ENTITY spellingButton.tooltip "Comprova l'ortografia de la selecció o del missatge sencer">
 <!ENTITY saveButton.tooltip "Desa aquest missatge">
 <!ENTITY cutButton.tooltip              "Retalla">
@@ -260,6 +275,8 @@
      buttons, or labels (message headers, contacts side bar, attachment reminder
      bar). -->
 <!ENTITY attachments.accesskey "j">
+<!ENTITY attachmentBucketHeader.tooltip "Subfinestra d'adjuncions">
+<!ENTITY attachmentBucketCloseButton.tooltip "Amaga la finestra d'adjuncions">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Insereix una cara somrient">
@@ -302,10 +319,13 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Suprimeix">
 <!ENTITY delete.accesskey "S">
-<!ENTITY removeAttachment.label "Suprimeix l'adjunció">
+<!ENTITY removeAttachment.label "Elimina l'adjunció">
 <!ENTITY removeAttachment.accesskey "m">
 <!ENTITY renameAttachment.label "Reanomena…">
 <!ENTITY renameAttachment.accesskey "R">
+<!ENTITY reorderAttachments.label "Reordena les adjuncions…">
+<!ENTITY reorderAttachments.accesskey "s">
+<!ENTITY removeAllAttachments.label "Elimina totes les adjuncions">
 <!ENTITY selectAll.label "Selecciona-ho tot">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Adjunta fitxers…">
