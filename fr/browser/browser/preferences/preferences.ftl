@@ -649,6 +649,11 @@ content-blocking-fastblock-option-disabled =
     .label = Ne jamais bloquer
 content-blocking-tracking-protection-label = Traqueurs
     .accesskey = T
+content-blocking-tracking-protection-option-enabled =
+    .label = Toujours bloquer
+content-blocking-tracking-protection-option-disabled =
+    .label = Ne jamais bloquer
+content-blocking-tracking-protection-change-blocklist = Modifier la liste de blocage…
 
 ## Privacy Section - Tracking
 
