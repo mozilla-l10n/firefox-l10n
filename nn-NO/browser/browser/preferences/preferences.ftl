@@ -629,6 +629,7 @@ addressbar-suggestions-settings = Endre innstillingar for søkeforslag
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = Les meir
 content-blocking-toggle-label-on = PÅ
     .accesskey = P
 content-blocking-toggle-label-off = AV
