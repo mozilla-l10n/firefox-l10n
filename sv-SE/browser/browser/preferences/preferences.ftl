@@ -202,6 +202,7 @@ choose-language-description = Välj språk som webbsidor ska visas i
 choose-button =
     .label = Välj…
     .accesskey = V
+confirm-browser-language-change-button = Tillämpa och starta om
 translate-web-pages =
     .label = Översätt webbinnehåll
     .accesskey = Ö
@@ -626,6 +627,19 @@ addressbar-locbar-openpage-option =
     .label = Öppna flikar
     .accesskey = Ö
 addressbar-suggestions-settings = Ändra inställningar för förslag från sökmotorn
+
+## Privacy Section - Content Blocking
+
+content-blocking-learn-more = Läs mer
+content-blocking-toggle-label-on = PÅ
+    .accesskey = O
+content-blocking-toggle-label-off = AV
+    .accesskey = O
+content-blocking-category-label = Välj vad som ska blockeras
+content-blocking-fastblock-option-enabled =
+    .label = Blockera alltid
+content-blocking-fastblock-option-disabled =
+    .label = Blockera aldrig
 
 ## Privacy Section - Tracking
 
