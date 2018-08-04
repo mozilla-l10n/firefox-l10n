@@ -639,6 +639,11 @@ addressbar-locbar-openpage-option =
     .accesskey = D
 addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù luskerioù enklask
 
+## Privacy Section - Content Blocking
+
+content-blocking-toggle-label-on = ON
+    .accesskey = O
+
 ## Privacy Section - Tracking
 
 tracking-header = Gwarez heuliañ
