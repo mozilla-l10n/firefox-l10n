@@ -208,6 +208,9 @@ choose-language-description = Wubjeŕśo swóju preferěrowanu rěc za zwobraznj
 choose-button =
     .label = Wubraś…
     .accesskey = u
+choose-browser-language-description = Wubjeŕśo rěcy, kótarež se wužywaju, aby menije, powěsći a powěźeńki z { -brand-short-name } pokazali.
+confirm-browser-language-change-description = Startujśo { -brand-short-name } znowego, aby toś te změny nałožył
+confirm-browser-language-change-button = Nałožyś a znowego startowaś
 translate-web-pages =
     .label = Webwopśimjeśe pśełožowaś
     .accesskey = W
@@ -632,6 +635,44 @@ addressbar-locbar-openpage-option =
     .label = Wócynjone rejtarki
     .accesskey = r
 addressbar-suggestions-settings = Nastajenja za naraźenja pytnice změniś
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = Blokěrowanje wopśimjeśa
+content-blocking-desc = Blokěrujśo wopśimjeśe tśeśich póbitowarjow ako wabjenje abo kod, kótarež móžo wašo pśeglědowanje spómałšyś a was pśez web pśeslědowaś. Pśiměŕśo swóje nastajenja za nejlěpšu balansu mjazy šćitom a wugbaśim.
+content-blocking-learn-more = Dalšne informacije
+content-blocking-restore-defaults =
+    .label = Standard wótnowiś
+    .accesskey = S
+content-blocking-toggle-on =
+    .tooltiptext = Blokěrowanje wopśimjeśa wušaltowaś
+content-blocking-toggle-off =
+    .tooltiptext = Blokěrowanje wopśimjeśa zašaltowaś
+content-blocking-toggle-label-on = ZAŠALTOWANE
+    .accesskey = Z
+content-blocking-toggle-label-off = WUŠALTOWANE
+    .accesskey = U
+content-blocking-category-label = Wubjeŕśo, což ma se blokěrowaś
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Pómałe slědujuce elementy
+    .accesskey = P
+content-blocking-fastblock-description = Blokěrujo wopśimjeśe tśeśich póbitowarjow, kótaryž trjeba wěcej ako 5 sekundow, aby se zacytał.
+content-blocking-fastblock-option-enabled =
+    .label = Pśecej blokěrowaś
+content-blocking-fastblock-option-disabled =
+    .label = NIgda njeblokěrowaś
+content-blocking-tracking-protection-label = Pśeslědowaki
+    .accesskey = P
+content-blocking-tracking-protection-description = Blokěrujo wšykne znate pśeslědowaki (Glědajśo: móžo teke zacyitanjeju někotarych bokow zajźowaś)
+content-blocking-tracking-protection-option-enabled =
+    .label = Pśecej blokěrowaś
+content-blocking-tracking-protection-option-pbm =
+    .label = Jano w priwatnych woknach blokěrowaś
+content-blocking-tracking-protection-option-disabled =
+    .label = Nigda njeblokěrowaś
+content-blocking-tracking-protection-change-blocklist = Lisćinu blokěrowanjow změniś…
 
 ## Privacy Section - Tracking
 
