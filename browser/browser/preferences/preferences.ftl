@@ -202,6 +202,9 @@ choose-language-description = בחירת השפה המועדפת עליך להצ
 choose-button =
     .label = בחירה…
     .accesskey = ב
+choose-browser-language-description = נא לבחור את השפות בהן יעשה שימוש להציג תפריטים, הודעות והתרעות מ־{ -brand-short-name }
+confirm-browser-language-change-description = הפעלת { -brand-short-name } מחדש כדי להחיל את השינויים האלה
+confirm-browser-language-change-button = החלה והפעלה מחדש
 translate-web-pages =
     .label = תרגום תוכן רשת
     .accesskey = ת
@@ -627,6 +630,9 @@ addressbar-locbar-openpage-option =
     .accesskey = ל
 addressbar-suggestions-settings = שינוי העדפות של הצעות מנועי חיפוש
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 tracking-header = הגנת מעקב
@@ -678,9 +684,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = חסימת אתרים מניגון מדיה עם קול באופן אוטומטי
     .accesskey = מ
+permissions-block-autoplay-media-menu = עבור אתרים שמנגנים קול באופן אוטומטי
 permissions-block-autoplay-media-exceptions =
     .label = חריגות…
     .accesskey = ח
+autoplay-option-ask =
+    .label = לשאול תמיד
+autoplay-option-allow =
+    .label = לאפשר ניגון אוטומטי
+autoplay-option-dont =
+    .label = לא לנגן אוטומטית
 permissions-block-popups =
     .label = חסימת חלונות קופצים
     .accesskey = ח
