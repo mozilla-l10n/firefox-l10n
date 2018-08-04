@@ -630,6 +630,21 @@ addressbar-locbar-openpage-option =
     .accesskey = S
 addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones del motor de recerca
 
+## Privacy Section - Content Blocking
+
+content-blocking-learn-more = Saper plus
+content-blocking-restore-defaults =
+    .label = Restaurar predefinitiones
+    .accesskey = R
+content-blocking-fastblock-option-enabled =
+    .label = Blocar sempre
+content-blocking-fastblock-option-disabled =
+    .label = Nunquam blocar
+content-blocking-tracking-protection-option-enabled =
+    .label = Blocar sempre
+content-blocking-tracking-protection-option-disabled =
+    .label = Nunquam blocar
+
 ## Privacy Section - Tracking
 
 tracking-header = Protection contra le traciamento
