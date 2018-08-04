@@ -8,7 +8,9 @@
 <!ENTITY loadError.label "בעיה בטעינת דף">
 <!ENTITY retry.label "נסה שוב">
 <!ENTITY returnToPreviousPage.label "חזרה">
+<!ENTITY returnToPreviousPage1.label "חזרה (מומלץ)">
 <!ENTITY advanced.label "מתקדם">
+
 
 <!-- Specific error messages -->
 
@@ -126,10 +128,18 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "החיבור שלך אינו מאובטח">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "אזהרה: סכנת אבטחה אפשרית לפניך">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "הבעלים של <span class='hostname'/> הגדירו את האתר שלהם בצורה לקויה.  על מנת להגן על המידע שלך מפני גניבה, &brandShortName; לא התחבר לאתר זה.">
+
+
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "מה ניתן לעשות בנדון?">
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>האתר איננו זמין כרגע או שהוא עמוס מדי. נא לנסות שוב בעוד מספר רגעים.</li> 
@@ -164,6 +174,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; לא התחבר אל <span id='wrongSystemTimeWithoutReference_URL'/> מכיוון שנראה ששעון המחשב שלך לא מכוון כראוי, מה שמונע חיבור מאובטח.</p> <p>שעון המחשב שלך מכוון ל־<span id='wrongSystemTimeWithoutReference_systemDate'/>. לתיקון הבעיה, יש לשנות את הגדרות התאריך והשעה כך שיהיו תואמים לזמן הנוכחי.</p>">
 
 <!ENTITY certerror.pagetitle1  "חיבור בלתי מאובטח">
+<!ENTITY certerror.pagetitle2  "אזהרה: סכנת אבטחה אפשרית לפניך">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "אתר זה משתמש ב־HTTP
 Strict Transport Security (HSTS) כדי לציין ש־&brandShortName; יוכל
 להתחבר אליו
