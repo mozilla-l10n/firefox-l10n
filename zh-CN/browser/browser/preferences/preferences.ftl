@@ -626,6 +626,44 @@ addressbar-locbar-openpage-option =
     .accesskey = O
 addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = 内容拦截
+content-blocking-desc = 拦截可能减慢您浏览速度且在网络上跟踪您的广告、代码等第三方内容。您可自行设置以在保护与性能之间达到最佳平衡。
+content-blocking-learn-more = 详细了解
+content-blocking-restore-defaults =
+    .label = 恢复默认设置
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = 关闭内容拦截
+content-blocking-toggle-off =
+    .tooltiptext = 开启内容拦截
+content-blocking-toggle-label-on = 开
+    .accesskey = O
+content-blocking-toggle-label-off = 关
+    .accesskey = O
+content-blocking-category-label = 选择要拦截的内容
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = 减慢加载的跟踪元素
+    .accesskey = S
+content-blocking-fastblock-description = 拦截加载时间超过 5 秒的第三方内容。
+content-blocking-fastblock-option-enabled =
+    .label = 总是拦截
+content-blocking-fastblock-option-disabled =
+    .label = 不拦截
+content-blocking-tracking-protection-label = 跟踪器
+    .accesskey = T
+content-blocking-tracking-protection-description = 拦截已知的所有跟踪器（注意：可能影响某些页面的加载）。
+content-blocking-tracking-protection-option-enabled =
+    .label = 始终拦截
+content-blocking-tracking-protection-option-pbm =
+    .label = 仅在隐私窗口拦截
+content-blocking-tracking-protection-option-disabled =
+    .label = 不拦截
+content-blocking-tracking-protection-change-blocklist = 更换拦截列表…
+
 ## Privacy Section - Tracking
 
 tracking-header = 跟踪保护
