@@ -38,10 +38,10 @@
 <!ENTITY includeSigOnReply.label              "Inclou la signatura en les respostes">
 <!ENTITY includeSigOnReply.accesskey          "r">
 <!ENTITY includeSigOnForward.label            "Inclou la signatura en els reenviaments">
-<!ENTITY includeSigOnForward.accesskey        "r">
+<!ENTITY includeSigOnForward.accesskey        "v">
 
 <!ENTITY globalComposingPrefs.label           "Preferències globals de redacció...">
 <!ENTITY globalComposingPrefs.accesskey       "g">
 
 <!ENTITY globalAddressingPrefs.label          "Preferències globals d'adreçament...">
-<!ENTITY globalAddressingPrefs.accesskey      "P">
+<!ENTITY globalAddressingPrefs.accesskey      "b">
