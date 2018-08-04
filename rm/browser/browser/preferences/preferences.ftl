@@ -202,6 +202,7 @@ choose-language-description = Tscherna tia lingua preferida per la visualisaziun
 choose-button =
     .label = Tscherner…
     .accesskey = T
+choose-browser-language-description = Tscherna la lingua da menus, messadis ed avis da { -brand-short-name }.
 confirm-browser-language-change-description = Reaviar { -brand-short-name } per applitgar questas midadas
 confirm-browser-language-change-button = Applitgar e reaviar
 translate-web-pages =
@@ -631,6 +632,41 @@ addressbar-suggestions-settings = Midar las preferenzas per propostas da maschin
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Bloccada da cuntegn
+content-blocking-desc = Blochescha cuntegn da terzas partidas sco reclamas u code che po ralentar la navigaziun e ta fastizar en il web. Adattescha las preferenzas per chattar l'equiliber ideal tranter protecziun e performanza.
+content-blocking-learn-more = Ulteriuras infurmaziuns
+content-blocking-restore-defaults =
+    .label = Restaurar il standard
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Deactivar la bloccada da cuntegn
+content-blocking-toggle-off =
+    .tooltiptext = Activar la bloccada da cuntegn
+content-blocking-toggle-label-on = ACTIVÀ
+    .accesskey = A
+content-blocking-toggle-label-off = DEACTIVÀ
+    .accesskey = D
+content-blocking-category-label = Tscherna tge bloccar
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Elements plauns che fastizeschan
+    .accesskey = s
+content-blocking-fastblock-description = Blochescha cuntegn da terzas partidas che dovra dapli che 5 secundas per chargiar.
+content-blocking-fastblock-option-enabled =
+    .label = Adina bloccar
+content-blocking-fastblock-option-disabled =
+    .label = Mai bloccar
+content-blocking-tracking-protection-label = Fastizaders
+    .accesskey = t
+content-blocking-tracking-protection-description = Blochescha tut ils fastizaders enconuschents (Remartga: impedescha eventualmain che tschertas paginas chargian)
+content-blocking-tracking-protection-option-enabled =
+    .label = Adina bloccar
+content-blocking-tracking-protection-option-pbm =
+    .label = Mo bloccar en fanestras privatas
+content-blocking-tracking-protection-option-disabled =
+    .label = Mai bloccar
+content-blocking-tracking-protection-change-blocklist = Modifitgar la glista da bloccada…
 
 ## Privacy Section - Tracking
 
