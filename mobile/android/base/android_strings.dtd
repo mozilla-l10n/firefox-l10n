@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Awtomatiske wógraśe dowóliś">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrolěrowaś, lěc websedła mógu wideo a drugi medijowe wopśimjeśe automatiski wótgras">
+<!ENTITY pref_media_autoplay_allow "Awtomatiske wógraśe dowóliś">
+<!ENTITY pref_media_autoplay_block "Awtomatiske wógraśe blokěrowaś">
 <!ENTITY pref_zoom_force_enabled "Skalěrowanje pśecej zmóžniś">
 <!ENTITY pref_zoom_force_enabled_summary "Wunuźćo pśepisanje, aby mógał kuždy bok skalěrowaś">
 <!ENTITY pref_voice_input "Rěcne zapódaśe">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Z wótgrawanim pókšacowaś">
 <!ENTITY pip_pause_button_title "Zastajiś">
 <!ENTITY pip_pause_button_description "Wótgrawanje zastajiś">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Stojnišćowa słužba &vendorShortName;">
