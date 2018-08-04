@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = El { -brand-short-name } no és el navegador per defecte
 set-as-my-default-browser =
     .label = Fes que sigui el navegador per defecte…
     .accesskey = d
-startup-page = En iniciar el { -brand-short-name }
-    .accesskey = i
-startup-user-homepage =
-    .label = Mostra la pàgina d'inici
-startup-blank-page =
-    .label = Mostra una pàgina en blanc
-startup-prev-session =
-    .label = Mostra les finestres i pestanyes de la darrera vegada
 startup-restore-previous-session =
     .label = Restaura la sessió anterior
     .accesskey = s
 disable-extension =
     .label = Inhabilita l'extensió
-home-page-header = Pàgina d'inici
 tabs-group-header = Pestanyes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab canvia de pestanya en ordre d'ús recent
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Més informació
 update-application-title = Actualitzacions del { -brand-short-name }
 update-application-description = Manteniu el { -brand-short-name } actualitzat per obtenir el millor rendiment, estabilitat i seguretat.
-update-application-info = Versió { $version } <a>Novetats</a>
 update-application-version = Versió { $version } <a data-l10n-name="learn-more">Novetats</a>
 update-history =
     .label = Mostra l'historial d'actualitzacions…
@@ -306,7 +288,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Límit de processos de contingut
     .accesskey = L
 performance-limit-content-process-enabled-desc = Més processos de contingut poden millorar el rendiment quan utilitzeu diverses pestanyes, però també utilitzaran més memòria.
-performance-limit-content-process-disabled-desc = El nombre de processos de contingut només es pot modificar amb el { -brand-short-name } multiprocés. <a>Més informació sobre com comprovar si el multiprocés està activat.</a>
 performance-limit-content-process-blocked-desc = El nombre de processos de contingut només es pot modificar amb el { -brand-short-name } multiprocés. <a data-l10n-name="learn-more">Més informació sobre com comprovar si el multiprocés està activat.</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +358,6 @@ use-current-pages =
 choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
-restore-default =
-    .label = Restaura les pàgines per defecte
-    .accesskey = R
 
 ## Search Section
 
@@ -649,6 +627,9 @@ addressbar-locbar-openpage-option =
     .accesskey = P
 addressbar-suggestions-settings = Canvia les preferències dels suggeriments de motors de cerca
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 tracking-header = Protecció contra el seguiment
@@ -697,6 +678,8 @@ permissions-notification-link = Més informació
 permissions-notification-pause =
     .label = Posa en pausa les notificacions fins que es reiniciï el { -brand-short-name }
     .accesskey = n
+autoplay-option-allow =
+    .label = Permet la reproducció automàtica
 permissions-block-popups =
     .label = Bloca les finestres emergents
     .accesskey = B
