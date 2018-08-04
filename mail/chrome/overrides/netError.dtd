@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "S'ha produït un problema en carregar la pàgina">
 <!ENTITY retry.label "Proveu-ho de nou">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "No s'ha pogut connectar">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -84,11 +84,11 @@
 <!ENTITY securityOverride.linkText "O bé, podeu afegir una excepció…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Treu-me d'aquí!">
 <!ENTITY securityOverride.exceptionButtonLabel "Afegeix una excepció…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>No hauríeu d'afegir una excepció si esteu utilitzant una connexió d'Internet de la qual no en confieu completament, o si no esteu acostumat a veure un avís d'aquest servidor.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -99,3 +99,5 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utilitza una tecnologia de seguretat obsoleta i vulnerable a atacs. Un atacant podria veure fàcilment la informació que altrament pensaríeu que és segura. Per tal que pugueu visitar el lloc, abans l'administrador del lloc web haurà d'arreglar el servidor.</p><p>Codi d'error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY blockedByPolicy.title "Pàgina blocada">
