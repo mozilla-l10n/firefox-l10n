@@ -630,6 +630,43 @@ addressbar-locbar-openpage-option =
     .accesskey = Ο
 addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τις προτάσεις μηχανών αναζήτησης
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Φραγή περιεχομένου
+content-blocking-learn-more = Μάθετε περισσότερα
+content-blocking-restore-defaults =
+    .label = Επαναφορά προεπιλογών
+    .accesskey = Ε
+content-blocking-toggle-on =
+    .tooltiptext = Απενεργοποίηση φραγής περιεχομένου
+content-blocking-toggle-off =
+    .tooltiptext = Ενεργοποίηση φραγής περιεχομένου
+content-blocking-toggle-label-on = ΕΝΕΡΓΗ
+    .accesskey = Ε
+content-blocking-toggle-label-off = ΑΝΕΝΕΡΓΗ
+    .accesskey = Α
+content-blocking-category-label = Επιλέξτε τι θα αποκλείεται
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Αργά στοιχεία καταγραφής
+    .accesskey = Α
+content-blocking-fastblock-description = Αποκλείει περιεχόμενο τρίτων που χρειάζεται πάνω από 5 δευτερόλεπτα για φόρτωση.
+content-blocking-fastblock-option-enabled =
+    .label = Πάντα φραγή
+content-blocking-fastblock-option-disabled =
+    .label = Ποτέ φραγή
+content-blocking-tracking-protection-label = Ιχνηλάτες
+    .accesskey = Ι
+content-blocking-tracking-protection-description = Αποκλείει όλους τους γνωστούς ιχνηλάτες (Σημείωση: ενδέχεται να εμποδιστεί η φόρτωση ορισμένων σελίδων).
+content-blocking-tracking-protection-option-enabled =
+    .label = Πάντα φραγή
+content-blocking-tracking-protection-option-pbm =
+    .label = Φραγή μόνο σε ιδιωτικά παράθυρα
+content-blocking-tracking-protection-option-disabled =
+    .label = Ποτέ φραγή
+content-blocking-tracking-protection-change-blocklist = Αλλαγή λίστας αποκλεισμού…
+
 ## Privacy Section - Tracking
 
 tracking-header = Προστασία από καταγραφή
