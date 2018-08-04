@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } nie je váš predvolený prehliadač
 set-as-my-default-browser =
     .label = Nastaviť ako predvolený…
     .accesskey = d
-startup-page = Po spustení prehliadača { -brand-short-name } zobraziť:
-    .accesskey = s
-startup-user-homepage =
-    .label = domovskú stránku
-startup-blank-page =
-    .label = prázdnu stránku
-startup-prev-session =
-    .label = naposledy otvorené okná a karty
 startup-restore-previous-session =
     .label = Obnoviť predchádzajúcu reláciu
     .accesskey = o
 disable-extension =
     .label = Zakázať rozšírenie
-home-page-header = Domovská stránka
 tabs-group-header = Karty
 ctrl-tab-recently-used-order =
     .label = Prepínať karty pomocou Ctrl+Tab v poradí podľa posledného otvorenia
@@ -273,7 +256,6 @@ play-drm-content =
 play-drm-content-learn-more = Ďalšie informácie
 update-application-title = Aktualizácie prehliadača { -brand-short-name }
 update-application-description = Najvyšší výkon, stabilitu a bezpečnosť dosiahnete tak, že budete udržovať aplikáciu { -brand-short-name } neustále aktuálnu.
-update-application-info = Verzia { $version } <a>Čo je nové</a>
 update-application-version = Verzia { $version } <a data-l10n-name="learn-more">Čo je nové</a>
 update-history =
     .label = Zobraziť históriu aktualizácii…
@@ -309,7 +291,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limit procesov obsahu
     .accesskey = L
 performance-limit-content-process-enabled-desc = Viac procesov môže zlepšiť výkon pri otvorení viacerých kariet. Spotrebujú však viac pamäte.
-performance-limit-content-process-disabled-desc = Zmena počtu procesov obsahu je možná len pri použití multiprocesového režimu aplikácie { -brand-short-name }. <a>Pozrite sa, ako môžete skontrolovať stav multiprocesového režimu</a>
 performance-limit-content-process-blocked-desc = Zmena počtu procesov obsahu je možná len pri použití multiprocesového režimu aplikácie { -brand-short-name }. <a data-l10n-name="learn-more">Pozrite sa, ako môžete skontrolovať stav multiprocesového režimu</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -380,9 +361,6 @@ use-current-pages =
 choose-bookmark =
     .label = Použiť záložku…
     .accesskey = z
-restore-default =
-    .label = Obnoviť predvolené
-    .accesskey = O
 
 ## Search Section
 
@@ -651,6 +629,22 @@ addressbar-locbar-openpage-option =
     .label = otvorené karty
     .accesskey = e
 addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = Blokovanie obsahu a ochrana pred sledovaním
+content-blocking-learn-more = Ďalšie informácie
+content-blocking-restore-defaults =
+    .label = Obnoviť predvolené nastavenia
+    .accesskey = r
+content-blocking-toggle-label-on = ZAPNUTÉ
+    .accesskey = Z
+content-blocking-toggle-label-off = VYPNUTÉ
+    .accesskey = V
+content-blocking-category-label = Vyberte si, čo chcete blokovať
+content-blocking-tracking-protection-label = Sledovacie prvky
+    .accesskey = S
+content-blocking-tracking-protection-change-blocklist = Zmeniť zoznam blokovania…
 
 ## Privacy Section - Tracking
 

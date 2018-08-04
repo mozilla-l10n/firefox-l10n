@@ -48,6 +48,10 @@ but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "r">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadSelectedTabs.label           "Obnoviť vybrané karty">
+<!ENTITY  reloadSelectedTabs.accesskey       "r">
+<!ENTITY  bookmarkSelectedTabs.label         "Pridať karty medzi záložky…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -252,7 +256,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Tejto stránke ste zakázali zisťovať vašu polohu.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tejto stránke ste zakázali zobrazovať upozornenia.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Tejto stránke ste zakázali ukladanie údajov do trvalého úložiska.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Pre túto stránku ste zablokovali vyskakovacie okná.">
+<!ENTITY urlbar.popupBlocked.tooltip             "Tejto stránke ste zablokovali zobrazovanie vyskakovacích okien.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Tejto stránke ste zablokovali automatické prehrávania médií so zvukom.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tejto stránke ste zakázali prístup k údajom canvasu.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tejto stránke ste zablokovali možnosť používať zásuvný modul Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tejto stránke ste zakázali prístup k MIDI.">
@@ -310,6 +315,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Webový vývojár">
 <!ENTITY webDeveloperMenu.accesskey   "W">
+
 
 <!ENTITY inspectContextMenu.label     "Preskúmať prvok">
 <!ENTITY inspectContextMenu.accesskey "m">
@@ -626,6 +632,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Skryť tento zásuvný modul">
 <!ENTITY hidePluginCmd.accesskey      "m">
 <!ENTITY copyLinkCmd.label            "Kopírovať adresu odkazu">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Kopírovať adresu obrázka">
 <!ENTITY copyImageCmd.accesskey       "e">
@@ -636,6 +645,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Kopírovať adresu zvuku">
 <!ENTITY copyAudioURLCmd.accesskey    "e">
 <!ENTITY copyEmailCmd.label           "Kopírovať e-mailovú adresu">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Tento rámec">
 <!ENTITY thisFrameMenu.accesskey          "T">
@@ -771,6 +783,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Pridať slovníky…">
 <!ENTITY spellAddDictionaries.accesskey "P">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Hotovo">
 <!ENTITY editBookmark.removeBookmark.accessKey       "O">
 
@@ -822,6 +838,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Tejto stránke ste neurčili žiadne špeciálne povolenia.">
 <!ENTITY identity.permissionsReloadHint "Pre vykonanie zmien budete možno musieť stránku obnoviť.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Otvoriť nastavenia povolení">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -944,6 +961,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokuje časti stránky, ktoré môžu sledovať vaše prehliadanie.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; objavil prvky, ktoré môžu sledovať vaše prehliadanie.">
 <!ENTITY trackingProtection.notDetected5 "Na tejto stránke neboli zistené žiadne sledovacie prvky.">
+<!ENTITY trackingProtection.notDetectedException "Na tejto stránke neboli zistené žiadne sledovacie prvky. Ochranu pred sledovaním ste na tejto stránke vypli.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -1055,6 +1073,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizovanie zariadení…">
 
 <!ENTITY pageAction.shareUrl.label "Zdieľať">
+
+<!ENTITY pageAction.shareMore.label "Viac…">
 
 <!ENTITY libraryButton.tooltip "Zobrazí históriu, uložené záložky a ďalšie">
 
