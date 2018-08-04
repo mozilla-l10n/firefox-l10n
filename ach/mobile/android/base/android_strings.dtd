@@ -370,6 +370,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Ye tuko pire kene">
 <!ENTITY pref_media_autoplay_enabled_summary "Lo kacce kakube tuko video pi gi kengi ki jami mukene me poko ngec">
+<!ENTITY pref_media_autoplay_allow "Yee tuko pire kene">
+<!ENTITY pref_media_autoplay_block "Geng tuko pire kene">
 <!ENTITY pref_zoom_force_enabled "Pol kare cak kwoto">
 <!ENTITY pref_zoom_force_enabled_summary "Dii tic pire kene wek i kwot potbuk mo keken">
 <!ENTITY pref_voice_input "Keto dwon">
@@ -448,6 +450,7 @@
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "Tic me kabedo pa &vendorShortName; ocake">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -897,3 +900,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Mede ki tuko">
 <!ENTITY pip_pause_button_title "Juki">
 <!ENTITY pip_pause_button_description "Juk tuko">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Tic me Kabedo pa &vendorShortName;">
