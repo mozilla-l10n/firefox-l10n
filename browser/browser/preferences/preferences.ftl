@@ -636,6 +636,44 @@ addressbar-locbar-openpage-option =
     .accesskey = o
 addressbar-suggestions-settings = Nastajenja za namjety pytawy změnić
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Blokowanje wobsaha
+content-blocking-desc = Blokujće wobsah třećich poskićowarjow kaž wabjenje abo kod, kotryž móže waše přehladowanje spomalić a was přez web přesćěhować. Přiměrće swoje nastajenja za najlěpšu balansu mjez škitom a wukonom.
+content-blocking-learn-more = Dalše informacije
+content-blocking-restore-defaults =
+    .label = Standard wobnowić
+    .accesskey = S
+content-blocking-toggle-on =
+    .tooltiptext = Blokowanje wobsaha wupinać
+content-blocking-toggle-off =
+    .tooltiptext = Blokowanje wobsaha zapinać
+content-blocking-toggle-label-on = ZAPINJENE
+    .accesskey = Z
+content-blocking-toggle-label-off = WUPINJENE
+    .accesskey = U
+content-blocking-category-label = Wubjerće, štož ma so blokować
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Pomałe slědowace elementy
+    .accesskey = P
+content-blocking-fastblock-description = Blokuje wobsah třećich poskićowarjow, kotryž trjeba wjace hač 5 sekundow, zo by so začitał.
+content-blocking-fastblock-option-enabled =
+    .label = Přeco blokować
+content-blocking-fastblock-option-disabled =
+    .label = Ženje njeblokować
+content-blocking-tracking-protection-label = Přesćěhowaki
+    .accesskey = P
+content-blocking-tracking-protection-description = Blokuje wšě znate přesćěhowaki (Kedźbu: móže tež začitanju někotrych stronow zadźěwać)
+content-blocking-tracking-protection-option-enabled =
+    .label = Přeco blokować
+content-blocking-tracking-protection-option-pbm =
+    .label = Jenož w priwatnych woknach blokować
+content-blocking-tracking-protection-option-disabled =
+    .label = Ženje njeblokować
+content-blocking-tracking-protection-change-blocklist = Lisćinu blokowanjow změnić…
+
 ## Privacy Section - Tracking
 
 tracking-header = Slědowanski škit
