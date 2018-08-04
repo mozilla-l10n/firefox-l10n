@@ -516,6 +516,7 @@
 <!ENTITY devToolboxCmd.accesskey "x">
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Depura els complements">
+<!ENTITY debugAddonsCmd.accesskey "a">
 <!ENTITY tabsDebugCmd.label "Depurador de marc de contingut">
 <!ENTITY tabsDebugCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Consola d'errors">
@@ -648,6 +649,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Recupera els missatges">
 <!ENTITY folderContextGetMessages.accesskey "g">
+<!ENTITY folderContextMarkAllFoldersRead.label "Marca totes les carpetes com a llegides">
 <!ENTITY folderContextPauseAllUpdates.label "Posa en pausa totes les actualitzacions">
 <!ENTITY folderContextPauseUpdates.label "Posa en pausa les actualitzacions">
 <!ENTITY folderContextPauseUpdates.accesskey "u">
@@ -748,6 +750,7 @@
 <!ENTITY attachmentColumn2.tooltip "Ordena per adjuncions">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Missatge nou a partir de la plantilla">
 <!ENTITY contextOpenNewWindow.label "Obre el missatge en una finestra nova">
 <!ENTITY contextOpenNewWindow.accesskey "f">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
@@ -763,6 +766,8 @@
 <!ENTITY contextEditMsgAsNew.label "Edita com un missatge nou">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextEditDraftMsg.label "Edita l'esborrany">
+<!ENTITY contextEditTemplate.label "Edita la plantilla">
+<!ENTITY contextEditTemplate.accesskey "t">
 <!ENTITY contextArchive.label "Arxiva">
 <!ENTITY contextArchive.accesskey "x">
 <!ENTITY contextReplySender.label "Respon només al remitent">
