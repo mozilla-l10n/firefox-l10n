@@ -632,6 +632,23 @@ addressbar-suggestions-settings = Modifier les préférences pour les suggestion
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Blocage de contenu
+content-blocking-learn-more = En savoir plus
+content-blocking-restore-defaults =
+    .label = Restaurer les valeurs par défaut
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Désactiver le blocage du contenu
+content-blocking-toggle-off =
+    .tooltiptext = Activer le blocage de contenu
+content-blocking-category-label = Choisir quoi bloquer
+content-blocking-fastblock-description = Bloquer les contenus tiers mettant plus de 5 secondes à charger.
+content-blocking-fastblock-option-enabled =
+    .label = Toujours bloquer
+content-blocking-fastblock-option-disabled =
+    .label = Ne jamais bloquer
+content-blocking-tracking-protection-label = Traqueurs
+    .accesskey = T
 
 ## Privacy Section - Tracking
 
