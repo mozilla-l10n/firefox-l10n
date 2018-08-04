@@ -618,6 +618,44 @@ addressbar-locbar-openpage-option =
     .accesskey = b
 addressbar-suggestions-settings = Tukar keutamaan bagi cadangan enjin carian
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Sekatan Kandungan
+content-blocking-desc = Sekat kandungan pihak ketiga seperti iklan atau kod yang boleh melambatkan pelayaran dan menjejaki anda di seluruh web. Sesuaikan tetapan untuk mendapatkan imbangan perlindungan dan prestasi yang terbaik. 
+content-blocking-learn-more = Ketahui Selanjutnya
+content-blocking-restore-defaults =
+    .label = Pulih Piawai
+    .accesskey = P
+content-blocking-toggle-on =
+    .tooltiptext = Nyahaktifkan Sekatan Kandungan
+content-blocking-toggle-off =
+    .tooltiptext = Aktifkan Sekatan Kandungan
+content-blocking-toggle-label-on = AKTIF
+    .accesskey = A
+content-blocking-toggle-label-off = NYAHAKTIF
+    .accesskey = N
+content-blocking-category-label = Pilih apa yang disekat
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Memperlahankan Elemen Penjejak
+    .accesskey = M
+content-blocking-fastblock-description = Sekat kandungan pihak ketiga yang lebih daripada 5 saat untuk dimuatkan.
+content-blocking-fastblock-option-enabled =
+    .label = Sentiasa sekat
+content-blocking-fastblock-option-disabled =
+    .label = Jangan sekat
+content-blocking-tracking-protection-label = Penjejak
+    .accesskey = P
+content-blocking-tracking-protection-description = Sekat semua penjejak yang diketahui (Nota: mungkin menghalang sesetengah halaman daripada dimuatkan).
+content-blocking-tracking-protection-option-enabled =
+    .label = Sentiasa sekat
+content-blocking-tracking-protection-option-pbm =
+    .label = Sekat hanya dalam tertingkap peribadi
+content-blocking-tracking-protection-option-disabled =
+    .label = Jangan sekat
+content-blocking-tracking-protection-change-blocklist = Tukar Senarai Sekatan…
+
 ## Privacy Section - Tracking
 
 tracking-header = Perlindungan Penjejakan
