@@ -627,6 +627,27 @@ addressbar-locbar-openpage-option =
     .accesskey = O
 addressbar-suggestions-settings = Endre innstillingar for søkeforslag
 
+## Privacy Section - Content Blocking
+
+content-blocking-toggle-label-on = PÅ
+    .accesskey = P
+content-blocking-toggle-label-off = AV
+    .accesskey = A
+content-blocking-category-label = Vel kva som skal blokkerast
+content-blocking-fastblock-option-enabled =
+    .label = Blokker alltid
+content-blocking-fastblock-option-disabled =
+    .label = Blokker aldri
+content-blocking-tracking-protection-label = Sporfølgjarar
+    .accesskey = S
+content-blocking-tracking-protection-option-enabled =
+    .label = Alltid blokker
+content-blocking-tracking-protection-option-pbm =
+    .label = Blokker berre i private vindauge
+content-blocking-tracking-protection-option-disabled =
+    .label = Blokker aldri
+content-blocking-tracking-protection-change-blocklist = Endre blokkeringsliste…
+
 ## Privacy Section - Tracking
 
 tracking-header = Sporingsvern
