@@ -202,6 +202,8 @@ choose-language-description = Tscherna tia lingua preferida per la visualisaziun
 choose-button =
     .label = Tscherner…
     .accesskey = T
+confirm-browser-language-change-description = Reaviar { -brand-short-name } per applitgar questas midadas
+confirm-browser-language-change-button = Applitgar e reaviar
 translate-web-pages =
     .label = Translatar cuntegn da web
     .accesskey = T
@@ -626,6 +628,9 @@ addressbar-locbar-openpage-option =
     .label = Tabs averts
     .accesskey = b
 addressbar-suggestions-settings = Midar las preferenzas per propostas da maschinas da tschertgar
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
