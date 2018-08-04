@@ -637,6 +637,44 @@ addressbar-locbar-openpage-option =
     .accesskey = O
 addressbar-suggestions-settings = Nastavit našeptávání vyhledávače
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Blokování obsahu a ochrana proti sledování
+content-blocking-desc = Zablokujte obsah třetích stran, jako jsou reklamy nebo kód, který zpomaluje načítání stránek nebo sleduje vaše aktivity na internetu. Úroveň blokování můžete přizpůsobit podle vlastních nároků na rychlost načítání i ochranu svého soukromí.
+content-blocking-learn-more = Zjistit více
+content-blocking-restore-defaults =
+    .label = Obnovit výchozí nastavení
+    .accesskey = O
+content-blocking-toggle-on =
+    .tooltiptext = Vypnout blokování obsahu
+content-blocking-toggle-off =
+    .tooltiptext = Zapnout blokování obsahu
+content-blocking-toggle-label-on = ZAPNUTO
+    .accesskey = Z
+content-blocking-toggle-label-off = VYPNUTO
+    .accesskey = V
+content-blocking-category-label = Vyberte, co chcete blokovat
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Pomalé prvky třetích stran
+    .accesskey = t
+content-blocking-fastblock-description = Obsah třetích stran, který se načítá déle než 5 vteřin
+content-blocking-fastblock-option-enabled =
+    .label = Zablokovat
+content-blocking-fastblock-option-disabled =
+    .label = Neblokovat
+content-blocking-tracking-protection-label = Sledující prvky
+    .accesskey = S
+content-blocking-tracking-protection-description = Známé sledovací prvky (pozn.: blokování může způsobit nefunkčnost některých stránek)
+content-blocking-tracking-protection-option-enabled =
+    .label = Blokovat
+content-blocking-tracking-protection-option-pbm =
+    .label = Blokovat v režimu anonymního prohlížení
+content-blocking-tracking-protection-option-disabled =
+    .label = Neblokovat
+content-blocking-tracking-protection-change-blocklist = Změnit seznam blokací…
+
 ## Privacy Section - Tracking
 
 tracking-header = Ochrana proti sledování
