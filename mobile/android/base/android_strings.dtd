@@ -370,8 +370,10 @@
 <!ENTITY pref_use_system_font_size "Utilitza la mida de lletra del sistema">
 <!ENTITY pref_use_system_font_size_summary "Ajusta la mida del contingut web a la mida de la lletra del sistema">
 
-<!ENTITY pref_media_autoplay_enabled "Permet reproduir automàticament">
+<!ENTITY pref_media_autoplay_enabled "Permet la reproducció automàtica">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si els llocs web poden reproduir automàticament vídeos i altres continguts multimèdia">
+<!ENTITY pref_media_autoplay_allow "Permet la reproducció automàtica">
+<!ENTITY pref_media_autoplay_block "Bloca la reproducció automàtica">
 <!ENTITY pref_zoom_force_enabled "Habilita sempre el zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Fes que es pugui aplicar el zoom en qualsevol pàgina">
 <!ENTITY pref_voice_input "Entrada de veu">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Reprèn la reproducció">
 <!ENTITY pip_pause_button_title "Pausa">
 <!ENTITY pip_pause_button_description "Posa en pausa la reproducció">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Servei d\&apos;ubicació de &vendorShortName;">
