@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Seznamy blokování
     .style = width: 50em
-blocklist-desc = Můžete si vybrat, který seznam bude { -brand-short-name } používat k blokování webových prvků, které mohou sledovat vaše chování při prohlížení.
+blocklist-desc = Můžete si vybrat, který seznam { -brand-short-name } použije k blokování prvků, které vás mohou sledovat při prohlížení.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -27,4 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Základní ochrana s Disconnect.me (doporučeno).
 blocklist-item-moz-std-desc = Povoluje některé sledovací prvky pro správné fungování stránek.
 blocklist-item-moz-full-name = Přísná ochrana s Disconnect.me.
-blocklist-item-moz-full-desc = Blokuje známé sledovací prvky. Některé stránky nemusí správně fungovat.
+blocklist-item-moz-full-desc = Blokuje všechny známé sledovací prvky. Některé stránky nemusí fungovat správně.
