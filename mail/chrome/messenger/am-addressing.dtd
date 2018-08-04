@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Redacció i adreçament">
 <!ENTITY addressingGroupTitle.label "Adreçament">
@@ -16,8 +16,8 @@
 <!ENTITY directories.label         "Utilitza un altre servidor LDAP:">
 <!ENTITY directories.accesskey     "d">
 <!ENTITY directoriesNone.label     "Cap">
-<!-- am-addressing.xul -->
 
+<!-- am-addressing.xul -->
 
 <!ENTITY compositionGroupTitle.label          "Redacció">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -25,9 +25,9 @@
 <!ENTITY useHtml.accesskey                    "H">
 <!ENTITY autoQuote.label                      "Cita automàticament el missatge original en respondre">
 <!ENTITY autoQuote.accesskey                  "a">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Llavors,">
-<!ENTITY then.accesskey                       "L">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "En les citacions,">
+<!ENTITY quoting.accesskey                    "c">
 <!ENTITY aboveQuote.label                     "inicia la resposta abans del text citat">
 <!ENTITY belowQuote.label                     "inicia la resposta després del text citat">
 <!ENTITY selectAndQuote.label                 "selecciona el text citat">
@@ -35,9 +35,9 @@
 <!ENTITY place.accesskey                      "p">
 <!ENTITY belowText.label                      "sota el text citat (recomanat)">
 <!ENTITY aboveText.label                      "sota la resposta (abans del text citat)">
-<!ENTITY includeSigOnReply.label              "Inclou la signatura a les respostes">
+<!ENTITY includeSigOnReply.label              "Inclou la signatura en les respostes">
 <!ENTITY includeSigOnReply.accesskey          "r">
-<!ENTITY includeSigOnForward.label            "Inclou la signatura als reenviaments">
+<!ENTITY includeSigOnForward.label            "Inclou la signatura en els reenviaments">
 <!ENTITY includeSigOnForward.accesskey        "r">
 
 <!ENTITY globalComposingPrefs.label           "Preferències globals de redacció...">
