@@ -903,3 +903,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Cuntinuar la reproducziun">
 <!ENTITY pip_pause_button_title "Pausa">
 <!ENTITY pip_pause_button_description "Metter en pausa la reproducziun">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Servetsch da posiziun da &vendorShortName;">
