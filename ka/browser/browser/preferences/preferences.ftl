@@ -633,6 +633,40 @@ addressbar-suggestions-settings = საძიებო სისტემის
 ## Privacy Section - Content Blocking
 
 content-blocking-header = შიგთავსის შეზღუდვა
+content-blocking-desc = შეზღუდეთ არასასურველი შიგთავსი, მათ შორის რეკლამები და პროგრამული კოდი, რომელიც ანელებს გვერდების გახსნას და თვალს გადევნებთ ინტერნეტში გადაადგილებისას. მოირგეთ პარამეტრები სასურველი წონასწორობის მისაღწევად უსაფრთხოებასა და წარმადობას შორის.
+content-blocking-learn-more = იხილეთ ვრცლად
+content-blocking-restore-defaults =
+    .label = ნაგულისხმევის აღდგენა
+    .accesskey = ღ
+content-blocking-toggle-on =
+    .tooltiptext = შიგთავსის შეზღუდვის მოხსნა
+content-blocking-toggle-off =
+    .tooltiptext = შიგთავსის შეზღუდვის ამოქმედება
+content-blocking-toggle-label-on = ჩართული
+    .accesskey = ჩ
+content-blocking-toggle-label-off = გამორთული
+    .accesskey = გ
+content-blocking-category-label = მიუთითეთ, რა შეიზღუდოს
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = ნელი თვალყურისმდევნელი ელემენტები
+    .accesskey = ნ
+content-blocking-fastblock-description = შეზღუდავს არასასურველ შიგთავსს, რომლის ჩატვირთვაც 5 წამზე დიდხანს გასტანს.
+content-blocking-fastblock-option-enabled =
+    .label = ყოველთვის შეიზღუდოს
+content-blocking-fastblock-option-disabled =
+    .label = არასდროს შეიზღუდოს
+content-blocking-tracking-protection-label = მეთვალყურეები
+    .accesskey = მ
+content-blocking-tracking-protection-description = შეზღუდავს ყველა ცნობილ მეთვალყურეს (შენიშვნა: შესაძლოა ზოგიერთი გვერდი ვერ ჩაიტვირთოს).
+content-blocking-tracking-protection-option-enabled =
+    .label = ყოველთვის შეიზღუდოს
+content-blocking-tracking-protection-option-pbm =
+    .label = შეიზღუდოს მხოლოდ პირად ფანჯრებში
+content-blocking-tracking-protection-option-disabled =
+    .label = არასდროს შეიზღუდოს
+content-blocking-tracking-protection-change-blocklist = შეზღუდულთა სიის შეცვლა…
 
 ## Privacy Section - Tracking
 

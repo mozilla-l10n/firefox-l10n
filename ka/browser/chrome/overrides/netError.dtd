@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "უკან დაბრუნება (სასურველია)">
 <!ENTITY advanced.label "ვრცლად">
 
-<!ENTITY continue.label "გაგრძელება">
+<!ENTITY continue1.label "გაგრძელება…">
 
 <!-- Specific error messages -->
 
