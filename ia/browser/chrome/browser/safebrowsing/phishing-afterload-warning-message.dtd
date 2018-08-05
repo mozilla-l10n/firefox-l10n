@@ -40,7 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> ha essite <a id='error_desc_link'>reportate como continente software nocive</a>.">
 
-<!ENTITY safeb.blocked.unwantedPage.learnMore "Apprende altero re le software malefic e indesiderate a <a id='learn_more_link'>Regulas del software indesiderate</a>. Apprende altero re &brandShortName;’s protection de phishing e malware a <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Apprende plus super le software malefic e indesiderate a <a id='learn_more_link'>Regulas del software indesiderate</a>. Apprende altero re &brandShortName;’s protection de phishing e malware a <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Sito sequente fraudulente">

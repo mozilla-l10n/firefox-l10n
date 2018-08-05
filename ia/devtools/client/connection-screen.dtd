@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "Le instrumentos de developpamento pote depurar apparatos remote (Firefox pro Android e Firefox OS, pro exemplo). Assecura te de activar le option 'Depuration remote' in le apparato remote. Pro plus informationes, vide le ">
+<!ENTITY remoteHelp "Le instrumentos de developpator pote depurar apparatos remote (Firefox pro Android e Firefox OS, pro exemplo). Assecura te de activar le option 'Depuration remote' in le apparato remote. Pro plus informationes, vide le ">
 <!ENTITY remoteDocumentation "documentation">
 <!ENTITY remoteHelpSuffix ".">
 

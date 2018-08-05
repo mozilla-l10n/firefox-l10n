@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
 <!ENTITY  aboutDevtools.enable.keyShortcutMessage
-          "Tu ha activate un accesso directe al instrumentos de developpamento. Si isto esseva un error, tu pote clauder iste scheda.">
+          "Tu ha activate un accesso directe al instrumentos de developpator. Si isto esseva un error, tu pote clauder iste scheda.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->

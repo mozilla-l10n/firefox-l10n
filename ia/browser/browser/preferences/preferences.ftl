@@ -748,7 +748,7 @@ permissions-a11y-privacy-link = Saper plus
 
 ## Privacy Section - Data Collection
 
-collection-header = Collecta de datos e utilisation de { -brand-short-name }
+collection-header = Colligimento de datos e utilisation de { -brand-short-name }
 collection-description = Nos nos effortia pro lassar te in le commando e colliger solmente lo que nos ha necessitate pro provider e meliorar { -brand-short-name } a totes. Nos sempre demanda permission ante reciper informationes personal.
 collection-privacy-notice = Notification de confidentialitate
 collection-health-report =
