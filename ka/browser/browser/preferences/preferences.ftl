@@ -202,7 +202,7 @@ choose-language-description = მიუთითეთ სასურველ�
 choose-button =
     .label = არჩევა…
     .accesskey = ა
-choose-browser-language-description = მიუთითეთ ენა, რომელზეც იხილავთ მენიუს, შეტყობინებებსა და ცნობებს { -brand-short-name }-ისგან.
+choose-browser-language-description = მიუთითეთ ენა, რომლითაც იხილავთ მენიუს, შეტყობინებებსა და ცნობებს { -brand-short-name }-ისგან.
 confirm-browser-language-change-description = გაუშვით { -brand-short-name } ხელახლა, ცვლილებების ასახვისთვის
 confirm-browser-language-change-button = მიღება და ხელახლა გაშვება
 translate-web-pages =
@@ -629,6 +629,10 @@ addressbar-locbar-openpage-option =
     .label = გახსნილი ჩანართები
     .accesskey = გ
 addressbar-suggestions-settings = საძიებო სისტემის შემოთავაზებების პარამეტრები
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = შიგთავსის შეზღუდვა
 
 ## Privacy Section - Tracking
 
