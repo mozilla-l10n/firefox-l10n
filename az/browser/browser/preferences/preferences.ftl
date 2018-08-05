@@ -630,6 +630,29 @@ addressbar-locbar-openpage-option =
     .accesskey = A
 addressbar-suggestions-settings = Axtarış mühərriyi təklifləri üçün nizamlamaları dəyiş
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Məzmun Əngəlləmə
+content-blocking-desc = Səyahətinizi yavaşladacaq və sizi internetdə izləyəcək reklam və kod kimi üçüncü tərəf məzmunları əngəllə. Tənzimləmələrinizi qoruma və məhsuldarlıq arasında ehtiyyacınıza görə tarazlaşdırın.
+content-blocking-learn-more = Ətraflı Öyrən
+content-blocking-restore-defaults =
+    .label = İlkin Seçənəkləri bərpa et
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Məzmun Əngəlləməni söndür
+content-blocking-toggle-off =
+    .tooltiptext = Məzmun Əngəlləməni aktivləşdir
+content-blocking-toggle-label-on = AÇIQ
+    .accesskey = O
+content-blocking-toggle-label-off = QAPALI
+    .accesskey = O
+content-blocking-category-label = Nələrin əngəllənəcəyini seçin
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = İzləmə elementlərini göstər
+    .accesskey = S
+
 ## Privacy Section - Tracking
 
 tracking-header = İzlənmə Qoruması
