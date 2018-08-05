@@ -633,6 +633,44 @@ addressbar-locbar-openpage-option =
     .accesskey = в
 addressbar-suggestions-settings = Змінити налаштування пропозицій засобів пошуку
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Блокування вмісту
+content-blocking-desc = Блокувати сторонній вміст, наприклад, рекламу чи код, що може сповільнювати роботу браузера і стежити за вами в інтернеті. Змінюйте налаштування для найкращого балансу захисту й швидкодії.
+content-blocking-learn-more = Докладніше
+content-blocking-restore-defaults =
+    .label = Відновити типові
+    .accesskey = т
+content-blocking-toggle-on =
+    .tooltiptext = Вимкнути блокування вмісту
+content-blocking-toggle-off =
+    .tooltiptext = Увімкнути блокування вмісту
+content-blocking-toggle-label-on = УВІМК
+    .accesskey = В
+content-blocking-toggle-label-off = ВИМК
+    .accesskey = И
+content-blocking-category-label = Оберіть елементи для блокування
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Повільні елементи стеження
+    .accesskey = П
+content-blocking-fastblock-description = Блокувати сторонній вміст, завантаження якого триває понад 5 секунд.
+content-blocking-fastblock-option-enabled =
+    .label = Завжди блокувати
+content-blocking-fastblock-option-disabled =
+    .label = Ніколи не блокувати
+content-blocking-tracking-protection-label = Стеження
+    .accesskey = С
+content-blocking-tracking-protection-description = Блокувати всі відомі елементи стеження (Примітка: може порушити завантаження деяких сторінок).
+content-blocking-tracking-protection-option-enabled =
+    .label = Завжди блокувати
+content-blocking-tracking-protection-option-pbm =
+    .label = Блокувати лише у приватних вікнах
+content-blocking-tracking-protection-option-disabled =
+    .label = Ніколи не блокувати
+content-blocking-tracking-protection-change-blocklist = Змінити список блокування…
+
 ## Privacy Section - Tracking
 
 tracking-header = Захист від стеження
