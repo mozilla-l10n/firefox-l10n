@@ -630,6 +630,36 @@ addressbar-locbar-openpage-option =
     .accesskey = o
 addressbar-suggestions-settings = Alterar preferências para as sugestões dos motores de pesquisa
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Bloqueio de conteúdo
+content-blocking-desc = Bloqueie conteúdo de terceiros, tais como anúncios ou código, que tornam o seu navegador mais lento e o monitorizam na web. Personalize as suas definições para equilibrar proteção e desempenho.
+content-blocking-learn-more = Saber mais
+content-blocking-restore-defaults =
+    .label = Repor predefinições
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Desativar o bloqueio de conteúdo
+content-blocking-toggle-off =
+    .tooltiptext = Ativar o bloqueio de conteúdo
+content-blocking-toggle-label-on = LIGADO
+    .accesskey = L
+content-blocking-toggle-label-off = DESLIGADO
+    .accesskey = D
+content-blocking-category-label = Escolha o que bloquear
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Mostrar elementos de monitorização
+    .accesskey = M
+content-blocking-fastblock-description = Bloqueia conteúdos de terceiros  que demoram mais do que 5 segundos a carregar,
+content-blocking-fastblock-option-enabled =
+    .label = Bloquear sempre
+content-blocking-fastblock-option-disabled =
+    .label = Nunca bloquear
+content-blocking-tracking-protection-label = Ferramentas de monitorização
+    .accesskey = m
+
 ## Privacy Section - Tracking
 
 tracking-header = Proteção contra monitorização
