@@ -37,7 +37,7 @@
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
   -  AudioNode inspector view empty message. -->
-<!ENTITY webAudioEditorUI.inspectorEmpty  "Nie je zvolený žiadny AudioNode.">
+<!ENTITY webAudioEditorUI.inspectorEmpty  "Nie je vybraný žiadny AudioNode.">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
   -  AudioNode inspector view properties tab empty message. -->
