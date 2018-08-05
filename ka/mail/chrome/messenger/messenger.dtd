@@ -433,7 +433,7 @@
 <!ENTITY markAsJunkCmd.accesskey "ჯ">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "გამოსადეგად">
-<!ENTITY markAsNotJunkCmd.accesskey "ღ">
+<!ENTITY markAsNotJunkCmd.accesskey "გ">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "ჯართის ამოცნობის ჩართვა">
 <!ENTITY recalculateJunkScoreCmd.accesskey "ც">
