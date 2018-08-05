@@ -101,10 +101,23 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "&brandShortName; upptäckte ett möjligt säkerhetshot och fortsatte inte till <span class='hostname'/>. Om du besöker den platsen, kan angripare försöka stjäla information som dina lösenord, e-post eller kreditkort.">
 
+<!ENTITY certerror.expiredCert.secondPara "Problemet beror sannolikt på att datorns klocka är inställd på fel tid, vilket hindrar &brandShortName; från att ansluta säkert.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Vad kan du göra åt det?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Problemet beror sannolikt på webbplatsen och det finns inget du kan göra för att lösa det.</p>
+<p>Om du är på ett företagsnätverk eller använder antivirusprogram kan du fråga supporten efter hjälp. Du kan också meddela webbplatsens administratör om problemet.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
+<p>Datorklockan är inställd på <span id='wrongSystemTime_systemDate'/>. Kontrollera att datorn är inställd på rätt datum, tid och tidszon i systeminställningarna och uppdatera sedan <span class='hostname'/>.</p>
+<p>Om klockan redan är inställd på rätt tid, är webbplatsen sannolikt felkonfigurerad, och det finns inget du kan göra för att lösa problemet. Du kan meddela webbplatsens administratör om problemet.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Problemet beror sannolikt på webbplatsen och det finns inget du kan göra för att lösa det. Du kan meddela webbplatsens administratör om problemet.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>Webbplatsen kan tillfälligt vara nere eller upptagen. Försök igen om en stund.</li> <li>Om du inte kan öppna sidor, kontrollera datorns nätverksanslutning.</li> <li>Om datorn eller nätverket skyddas av en brandvägg eller proxy, kontrollera att &brandShortName; har tillstånd att ansluta till webben.</li> </ul>">
 
@@ -135,7 +148,9 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; har inte anslutit till <span id='wrongSystemTimeWithoutReference_URL'/> eftersom datorn klocka verkar visa fel tid och detta hindrar en säker anslutning.</p> <p>Din dator är inställd på <span id='wrongSystemTimeWithoutReference_systemDate'/>. För att åtgärda detta problem, ändra datum- och tidsinställningar för att visa rätt tid.</p>">
 
 <!ENTITY certerror.pagetitle1  "Osäker anslutning">
+<!ENTITY certerror.pagetitle2  "Varning: Möjlig säkerhetsrisk framöver">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Denna webbplats använder HTTP Strict Transport Security (HSTS) för att ange att &brandShortName; endast kan ansluta dit säkert. Därför är det inte möjligt att lägga till ett undantag för detta certifikat.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> har en säkerhetspolicy som heter HTTP Strict Transport Security (HSTS), vilket innebär att &brandShortName; kan endast anslutas säkert till den. Du kan inte lägga till ett undantag för att besöka denna webbplats.">
 <!ENTITY certerror.copyToClipboard.label "Kopiera text till urklipp">
 
 <!ENTITY inadequateSecurityError.title "Din anslutning är inte säker">
