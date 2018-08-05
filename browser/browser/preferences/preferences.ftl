@@ -652,7 +652,7 @@ content-blocking-category-label = Escolha o que bloquear
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Mostrar elementos de monitorização
     .accesskey = M
-content-blocking-fastblock-description = Bloqueia conteúdo de terceiros que demora mais do que 5 segundos a carregar,
+content-blocking-fastblock-description = Bloqueia conteúdo de terceiros que demora mais do que 5 segundos a carregar.
 content-blocking-fastblock-option-enabled =
     .label = Bloquear sempre
 content-blocking-fastblock-option-disabled =
