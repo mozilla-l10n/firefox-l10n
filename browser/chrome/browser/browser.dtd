@@ -316,6 +316,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Nettsideutvikling">
 <!ENTITY webDeveloperMenu.accesskey   "t">
 
+
 <!ENTITY inspectContextMenu.label     "Inspiser element">
 <!ENTITY inspectContextMenu.accesskey "I">
 
@@ -631,6 +632,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Skjul dette programtillegget">
 <!ENTITY hidePluginCmd.accesskey      "S">
 <!ENTITY copyLinkCmd.label            "Kopier lenkeadresse">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kopier bildeadresse">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -641,6 +645,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Kopier e-postadresse">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "o">
 <!ENTITY thisFrameMenu.label              "Denne rammen">
 <!ENTITY thisFrameMenu.accesskey          "D">
@@ -954,8 +961,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.tooltip "Åpne innstillinger for sporingsbeskyttelse">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokkerer deler av denne siden som kan spore nettlesingen din.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&amp;brandShortName; har oppdaget element som kan spore nettlesingen din.">
-<!ENTITY trackingProtection.detectedException "&amp;brandShortName; har oppdaget element som kan spore nettlesingen din. Du har skrudd av beskyttelse på denne nettsiden.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; har oppdaget element som kan spore nettlesingen din.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; har oppdaget element som kan spore nettlesingen din. Du har skrudd av beskyttelse på denne nettsiden.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control

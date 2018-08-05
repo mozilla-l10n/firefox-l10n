@@ -644,6 +644,7 @@ content-blocking-toggle-label-on = PÅ
     .accesskey = P
 content-blocking-toggle-label-off = AV
     .accesskey = A
+content-blocking-category-label = Velg hva som skal blokkeres
 
 ## Privacy Section - Tracking
 
