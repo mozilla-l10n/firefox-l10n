@@ -213,7 +213,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Restaurar schedas, magazinos de datos, instrumentos de disveloppator">
+<!ENTITY pref_category_advanced_summary3 "Restaurar schedas, magazinos de datos, instrumentos de developpator">
 <!ENTITY pref_category_notifications "Notificationes">
 <!ENTITY pref_category_notifications_summary "Nove functionalitates, actualisationes de sitos del web">
 <!ENTITY pref_category_notifications_summary2 "Nove functionalitates, consilios de producto">
@@ -271,7 +271,7 @@
      “storing data”. -->
 <!ENTITY pref_category_data_saver "Repositorio de datos">
 <!ENTITY pref_category_media "Medios">
-<!ENTITY pref_category_developer_tools "Instrumentos de disveloppator">
+<!ENTITY pref_category_developer_tools "Instrumentos de developpator">
 
 <!ENTITY pref_tap_to_load_images_title2 "Monstrar imagines">
 <!ENTITY pref_tap_to_load_images_enabled "Sempre">
