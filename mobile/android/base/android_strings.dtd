@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Leisti automatinį grojimą">
 <!ENTITY pref_media_autoplay_enabled_summary "Nustatykite, ar svetainės gali automatiškai paleisti vaizdo įrašus bei kitą medijos turinį">
+<!ENTITY pref_media_autoplay_allow "Leisti automatinį grojimą">
+<!ENTITY pref_media_autoplay_block "Neleisti automatinio grojimo">
 <!ENTITY pref_zoom_force_enabled "Visada įgalinti artinimą">
 <!ENTITY pref_zoom_force_enabled_summary "Priverstinai įgalinti artinimą visuose tinklalapiuose">
 <!ENTITY pref_voice_input "Balsinė įvestis">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Tęsti grojimą">
 <!ENTITY pip_pause_button_title "Pristabdyti">
 <!ENTITY pip_pause_button_description "Pristabdyti grojimą">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "„&vendorShortName;“ vietos nustatymo paslauga">
