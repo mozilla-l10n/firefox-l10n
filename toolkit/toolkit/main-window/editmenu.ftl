@@ -3,7 +3,7 @@
 
 editmenu-undo =
     .label = Ångra
-    .accesskey = U
+    .accesskey = n
 editmenu-redo =
     .label = Gör om
     .accesskey = G
@@ -12,13 +12,13 @@ editmenu-cut =
     .accesskey = t
 editmenu-copy =
     .label = Kopiera
-    .accesskey = C
+    .accesskey = K
 editmenu-paste =
     .label = Klistra in
-    .accesskey = V
+    .accesskey = K
 editmenu-delete =
     .label = Ta Bort
-    .accesskey = D
+    .accesskey = T
 editmenu-select-all =
     .label = Markera allt
     .accesskey = A
