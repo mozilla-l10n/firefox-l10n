@@ -641,8 +641,41 @@ addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù lu
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Stankañ endalc'hadoù
+content-blocking-desc = Stankit endalc'hadoù estren (evel bruderezhioù pe vonegoù) a c'hall gorrekaat ho merdeiñ hag heuliañ ac'hanoc'h war ar web. Personelait hoc'h arventennoù evit kaout ur c'hempouez etre gwarez ha digonusted.
+content-blocking-learn-more = Gouzout hiroc'h
+content-blocking-restore-defaults =
+    .label = Assav dre ziouer
+    .accesskey = A
+content-blocking-toggle-on =
+    .tooltiptext = Diweredekaat stankañ an endalc'hadoù
+content-blocking-toggle-off =
+    .tooltiptext = Gweredekaat stankañ an endalc'hadoù
 content-blocking-toggle-label-on = ON
     .accesskey = O
+content-blocking-toggle-label-off = DIWEREDEKAET
+    .accesskey = D
+content-blocking-category-label = Dibabit petra stankañ
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Gorrekaat an elfennoù heuliañ
+    .accesskey = G
+content-blocking-fastblock-description = Stankañ endalc'hadoù estren a gemer hiroc'h eget 5 eilenn da gargañ.
+content-blocking-fastblock-option-enabled =
+    .label = Stankañ bepred
+content-blocking-fastblock-option-disabled =
+    .label = Na stankañ biken
+content-blocking-tracking-protection-label = Heulierien
+    .accesskey = H
+content-blocking-tracking-protection-description = Stankañ an holl heulierien (Evezhiadenn: gallout a ra mirout pajennoù 'zo da gargañ).
+content-blocking-tracking-protection-option-enabled =
+    .label = Stankañ bepred
+content-blocking-tracking-protection-option-pbm =
+    .label = Stankañ er prenestroù prevez hepken
+content-blocking-tracking-protection-option-disabled =
+    .label = Na stankañ biken
+content-blocking-tracking-protection-change-blocklist = Kemmañ ar roll stankañ...
 
 ## Privacy Section - Tracking
 
