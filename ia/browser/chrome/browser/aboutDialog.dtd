@@ -43,7 +43,7 @@
 <!ENTITY helpus.donateLink          "Face un donation">
 <!ENTITY helpus.middle              " o ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "participa!">
+<!ENTITY helpus.getInvolvedLink     "collabora!">
 <!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Novas">
