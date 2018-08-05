@@ -6,7 +6,7 @@
 <!ENTITY aboutAddons.header2                    "Tu additivos">
 
 <!ENTITY addonAction.enable                     "Habilitar">
-<!ENTITY addonAction.disable                    "Disactivar">
+<!ENTITY addonAction.disable                    "Inactivar">
 <!ENTITY addonAction.uninstall                  "Disinstallar">
 <!ENTITY addonAction.undo                       "Disfacer">
 <!ENTITY addonAction.update                     "Actualisar">

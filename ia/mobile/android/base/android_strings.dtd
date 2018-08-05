@@ -32,7 +32,7 @@
 <!ENTITY firstrun_tabqueue_subtext_off "Salva ligamines pro depois in &brandShortName; quando los tocca in altere applicationes.">
 
 <!ENTITY firstrun_tabqueue_message_on "Successo!">
-<!ENTITY firstrun_tabqueue_subtext_on "Semper tu pote disactivar isto in &settings; sub &pref_category_general;.">
+<!ENTITY firstrun_tabqueue_subtext_on "Sempre tu pote inactivar isto in &settings; sub &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Articulos">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -693,7 +693,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Apprender plus">
 <!ENTITY enable_protection "Activar le protection">
-<!ENTITY disable_protection "Disactivar le protection">
+<!ENTITY disable_protection "Inactivar le protection">
 
 <!ENTITY private_data_success "Datos private vacuate">
 <!ENTITY private_data_fail "Alicun datos private non pote ser vacuate">
