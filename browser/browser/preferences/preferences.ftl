@@ -641,7 +641,11 @@ content-blocking-toggle-on =
     .tooltiptext = Désactiver le blocage du contenu
 content-blocking-toggle-off =
     .tooltiptext = Activer le blocage de contenu
-content-blocking-category-label = Choisir quoi bloquer
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Traqueurs qui ralentissent
+    .accesskey = T
 content-blocking-fastblock-description = Bloquer les contenus tiers mettant plus de 5 secondes à charger.
 content-blocking-fastblock-option-enabled =
     .label = Toujours bloquer
@@ -649,8 +653,11 @@ content-blocking-fastblock-option-disabled =
     .label = Ne jamais bloquer
 content-blocking-tracking-protection-label = Traqueurs
     .accesskey = T
+content-blocking-tracking-protection-description = Bloque tous les traqueurs connus (remarque : cela peut empêcher le chargement de certaines pages).
 content-blocking-tracking-protection-option-enabled =
     .label = Toujours bloquer
+content-blocking-tracking-protection-option-pbm =
+    .label = Bloquer uniquement dans les fenêtres de navigation privée
 content-blocking-tracking-protection-option-disabled =
     .label = Ne jamais bloquer
 content-blocking-tracking-protection-change-blocklist = Modifier la liste de blocage…
