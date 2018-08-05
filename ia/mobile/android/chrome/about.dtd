@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "A proposito de &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; es experimental e pote esser instabile.">
-<!ENTITY aboutPage.telemetryStart               "Il automaticamente invia informationes super performance, quincalia, usage e personalizada a ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " pro adjutar meliorar &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Recercar actualisationes »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Recercante actualisationes…">
 <!ENTITY aboutPage.checkForUpdates.none         "Il non ha actualisationes">
@@ -13,7 +10,7 @@
 <!ENTITY aboutPage.checkForUpdates.downloading  "Discargante actualisation…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Installar actualisation">
 <!ENTITY aboutPage.faq.label                    "Questiones">
-<!ENTITY aboutPage.support.label                "Supporto">
+<!ENTITY aboutPage.support.label                "Assistentia">
 <!ENTITY aboutPage.privacyPolicy.label          "Politica de confidentialitate">
 <!ENTITY aboutPage.rights.label                 "Cognoscer Vostre Derectos">
 <!ENTITY aboutPage.relNotes.label               "Notas pro iste revision">
