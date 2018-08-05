@@ -646,7 +646,7 @@ content-blocking-toggle-off =
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Traqueurs qui ralentissent
     .accesskey = T
-content-blocking-fastblock-description = Bloquer les contenus tiers mettant plus de 5 secondes à charger.
+content-blocking-fastblock-description = Bloquer les contenus tiers mettant plus de 5 secondes à charger.
 content-blocking-fastblock-option-enabled =
     .label = Toujours bloquer
 content-blocking-fastblock-option-disabled =
