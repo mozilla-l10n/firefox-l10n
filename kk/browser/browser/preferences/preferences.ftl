@@ -202,6 +202,7 @@ choose-language-description = Интернет-беттерді көрсету �
 choose-button =
     .label = Таңдау…
     .accesskey = у
+confirm-browser-language-change-button = Іске асыру және қайта қосу
 translate-web-pages =
     .label = Веб құрамасын аудару
     .accesskey = а
@@ -626,6 +627,28 @@ addressbar-locbar-openpage-option =
     .label = Ашық беттер
     .accesskey = А
 addressbar-suggestions-settings = Іздеу жүйесінің ұсыныстары үшін қалауларды өзгерту
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = Құраманы бұғаттау
+content-blocking-learn-more = Көбірек білу
+content-blocking-restore-defaults =
+    .label = Бастапқы мәндерін қайтару
+    .accesskey = р
+content-blocking-fastblock-option-enabled =
+    .label = Әрқашан бұғаттау
+content-blocking-fastblock-option-disabled =
+    .label = Ешқашан бұғаттамау
+content-blocking-tracking-protection-label = Трекерлер
+    .accesskey = Т
+content-blocking-tracking-protection-description = Барлық белгілі трекерлерді бұғаттайды (Ескерту: кейбір беттердің жүктелуіне жол бермейді).
+content-blocking-tracking-protection-option-enabled =
+    .label = Әрқашан бұғаттау
+content-blocking-tracking-protection-option-pbm =
+    .label = Тек жекелік терезелерінде бұғаттау
+content-blocking-tracking-protection-option-disabled =
+    .label = Ешқашан бұғаттамау
+content-blocking-tracking-protection-change-blocklist = Блоктізімді өзгерту…
 
 ## Privacy Section - Tracking
 
