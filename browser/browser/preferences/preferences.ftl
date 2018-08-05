@@ -403,7 +403,7 @@ search-find-more-link = Find more search engines
 search-keyword-warning-title = Duplicate Keyword
 # Variables:
 #   $name (String) - Name of a search engine.
-search-keyword-warning-engine = You have chosen a keyword that is currently in use by "{ $name }". Please select another.
+search-keyword-warning-engine = You have chosen a keyword that is currently in use by “{ $name }”. Please select another.
 search-keyword-warning-bookmark = You have chosen a keyword that is currently in use by a bookmark. Please select another.
 
 ## Containers Section
