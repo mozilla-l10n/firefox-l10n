@@ -64,9 +64,9 @@ can reach it easily. -->
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "टैब को उपकरण में भेजें">
 <!ENTITY  sendTabToDevice.accesskey          "D">
-<!ENTITY  sendPageToDevice.label             "Device में पृष्ठ भेजें">
+<!ENTITY  sendPageToDevice.label             "पृष्ठ को उपकरण में भेजें">
 <!ENTITY  sendPageToDevice.accesskey         "D">
-<!ENTITY  sendLinkToDevice.label             "Device में कड़ी भेजें">
+<!ENTITY  sendLinkToDevice.label             "लिंक को उपकरण में भेजें">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  sendToDeviceFeedback.label         "भेज दिया!">
 <!ENTITY  sendToDeviceOfflineFeedback.label  "पंक्तिबद्ध (ऑफ़लाइन)">
@@ -134,7 +134,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "लेआउट डीबगर">
 <!ENTITY ldbCmd.accesskey "L">
-<!ENTITY mirrorTabCmd.label "परछाई टैब">
+<!ENTITY mirrorTabCmd.label "मिरर टैब">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
