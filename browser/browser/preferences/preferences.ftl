@@ -630,6 +630,44 @@ addressbar-locbar-openpage-option =
     .accesskey = A
 addressbar-suggestions-settings = Alterar preferências das sugestões do mecanismo de pesquisa
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Bloqueio de conteúdo
+content-blocking-desc = Bloqueie conteúdo de terceiros, como propaganda ou código que podem tornar sua navegação mais lenta e rastreá-lo através da Web. Personalize suas configurações para uma proteção e desempenho balanceados.
+content-blocking-learn-more = Saiba mais
+content-blocking-restore-defaults =
+    .label = Restaurar padrões
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Desativar bloqueio de conteúdo
+content-blocking-toggle-off =
+    .tooltiptext = Ativar bloqueio de conteúdo
+content-blocking-toggle-label-on = ATIVAR
+    .accesskey = A
+content-blocking-toggle-label-off = DESATIVAR
+    .accesskey = D
+content-blocking-category-label = Escolher o que bloquear
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Elementos lentos de rastreio
+    .accesskey = s
+content-blocking-fastblock-description = Bloquear conteúdo de terceiros que levam mais de 5 segundos para carregar.
+content-blocking-fastblock-option-enabled =
+    .label = Sempre bloquear
+content-blocking-fastblock-option-disabled =
+    .label = Nunca bloquear
+content-blocking-tracking-protection-label = Rastreadores
+    .accesskey = t
+content-blocking-tracking-protection-description = Bloquear todos os rastreadores conhecidos (Obs.: também pode impedir o carregamento de algumas páginas).
+content-blocking-tracking-protection-option-enabled =
+    .label = Sempre bloquear
+content-blocking-tracking-protection-option-pbm =
+    .label = Bloquear somente em janelas privativas
+content-blocking-tracking-protection-option-disabled =
+    .label = Nunca bloquear
+content-blocking-tracking-protection-change-blocklist = Mudar lista de bloqueio...
+
 ## Privacy Section - Tracking
 
 tracking-header = Proteção contra rastreamento
