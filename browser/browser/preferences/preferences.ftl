@@ -202,6 +202,8 @@ choose-language-description = Velg foretrukket språk på nettsider
 choose-button =
     .label = Velg …
     .accesskey = V
+confirm-browser-language-change-description = Start om { -brand-short-name } for å bruke disse endringene
+confirm-browser-language-change-button = Bruk og start om
 translate-web-pages =
     .label = Oversett webinnhold
     .accesskey = O
@@ -627,6 +629,22 @@ addressbar-locbar-openpage-option =
     .accesskey = f
 addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Innholdsblokkering
+content-blocking-learn-more = Les mer
+content-blocking-restore-defaults =
+    .label = Gjenopprett standard
+    .accesskey = r
+content-blocking-toggle-on =
+    .tooltiptext = Slå på innholdsblokkering
+content-blocking-toggle-off =
+    .tooltiptext = Slå av innholdsblokkering
+content-blocking-toggle-label-on = PÅ
+    .accesskey = P
+content-blocking-toggle-label-off = AV
+    .accesskey = A
+
 ## Privacy Section - Tracking
 
 tracking-header = Sporingsbeskyttelse
@@ -686,8 +704,6 @@ autoplay-option-ask =
     .label = Spør alltid
 autoplay-option-allow =
     .label = Tillat autoavspilling
-autoplay-option-block =
-    .label = Blokker autoavspilling
 permissions-block-popups =
     .label = Blokker sprettoppvinduer
     .accesskey = B
