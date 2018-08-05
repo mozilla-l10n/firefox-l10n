@@ -641,6 +641,7 @@ content-blocking-toggle-on =
     .tooltiptext = Désactiver le blocage du contenu
 content-blocking-toggle-off =
     .tooltiptext = Activer le blocage de contenu
+content-blocking-category-label = Sélectionnez le contenu à bloquer
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
