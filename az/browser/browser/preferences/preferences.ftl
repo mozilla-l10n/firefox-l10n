@@ -652,6 +652,21 @@ content-blocking-category-label = Nələrin əngəllənəcəyini seçin
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = İzləmə elementlərini göstər
     .accesskey = S
+content-blocking-fastblock-description = Yüklənməyi 5 saniyədən çox çəkən üçüncü tərəf məzmunlarını əngəllə.
+content-blocking-fastblock-option-enabled =
+    .label = Həmişə əngəllə
+content-blocking-fastblock-option-disabled =
+    .label = Heç vaxt əngəlləmə
+content-blocking-tracking-protection-label = İzləyicilər
+    .accesskey = T
+content-blocking-tracking-protection-description = Bilinən bütün izləyiciləri əngəllə (Qeyd: bəzi səhifələrin yüklənməsinə mane ola bilər).
+content-blocking-tracking-protection-option-enabled =
+    .label = Həmişə əngəllə
+content-blocking-tracking-protection-option-pbm =
+    .label = Ancaq Məxfi Pəncərələrdə əngəllə
+content-blocking-tracking-protection-option-disabled =
+    .label = Heç vaxt əngəlləmə
+content-blocking-tracking-protection-change-blocklist = Qara Siyahını Dəyiş…
 
 ## Privacy Section - Tracking
 
