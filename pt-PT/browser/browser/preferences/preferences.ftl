@@ -633,7 +633,7 @@ addressbar-suggestions-settings = Alterar preferências para as sugestões dos m
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueio de conteúdo
-content-blocking-desc = Bloqueie conteúdo de terceiros, tais como anúncios ou código, que tornam o seu navegador mais lento e o monitorizam na web. Personalize as suas definições para equilibrar proteção e desempenho.
+content-blocking-desc = Bloqueie conteúdo de terceiros, tais como anúncios ou código, que podem tornar o seu navegador mais lento e lhe monitorizam ao longo da web. Personalize as suas definições o melhor equilíbrio de proteção e desempenho.
 content-blocking-learn-more = Saber mais
 content-blocking-restore-defaults =
     .label = Repor predefinições
@@ -652,14 +652,14 @@ content-blocking-category-label = Escolha o que bloquear
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Mostrar elementos de monitorização
     .accesskey = M
-content-blocking-fastblock-description = Bloqueia conteúdos de terceiros  que demoram mais do que 5 segundos a carregar,
+content-blocking-fastblock-description = Bloqueia conteúdo de terceiros que demoram mais do que 5 segundos a carregar,
 content-blocking-fastblock-option-enabled =
     .label = Bloquear sempre
 content-blocking-fastblock-option-disabled =
     .label = Nunca bloquear
-content-blocking-tracking-protection-label = Ferramentas de monitorização
-    .accesskey = m
-content-blocking-tracking-protection-description = Bloqueia todas as ferramentas de monitorização conhecidas (Nota: também impede algumas páginas de serem carregadas).
+content-blocking-tracking-protection-label = Trackers
+    .accesskey = T
+content-blocking-tracking-protection-description = Bloqueia todos os trackers conhecidos (Nota: também pode impedir algumas páginas de serem carregadas).
 content-blocking-tracking-protection-option-enabled =
     .label = Bloquear sempre
 content-blocking-tracking-protection-option-pbm =
