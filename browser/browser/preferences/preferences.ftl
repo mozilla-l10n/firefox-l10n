@@ -256,7 +256,7 @@ play-drm-content =
 play-drm-content-learn-more = Learn more
 update-application-title = { -brand-short-name } Updates
 update-application-description = Keep { -brand-short-name } up to date for the best performance, stability, and security.
-update-application-version = Version { $version } <a data-l10n-name="learn-more">What's new</a>
+update-application-version = Version { $version } <a data-l10n-name="learn-more">What’s new</a>
 update-history =
     .label = Show Update History…
     .accesskey = p
@@ -728,7 +728,7 @@ autoplay-option-ask =
 autoplay-option-allow =
     .label = Allow Autoplay
 autoplay-option-dont =
-    .label = Don't Autoplay
+    .label = Don’t Autoplay
 permissions-block-popups =
     .label = Block pop-up windows
     .accesskey = B
