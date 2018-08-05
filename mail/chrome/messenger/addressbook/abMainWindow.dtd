@@ -155,13 +155,13 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editMailingListContext.label                   "სიის ჩასწორება">
 <!ENTITY editMailingListContext.accesskey               "ს">
 <!ENTITY newmsgButton.label                             "შედგენა">
-<!ENTITY newmsgButton.accesskey                         "W">
-<!ENTITY newIM.label                                    "მყისი შეტყობინება">
-<!ENTITY newIM.accesskey                                "I">
+<!ENTITY newmsgButton.accesskey                         "შ">
+<!ENTITY newIM.label                                    "სწრაფი შეტყობინება">
+<!ENTITY newIM.accesskey                                "წ">
 <!ENTITY printButton.label                              "ამობეჭდვა…">
 <!ENTITY printButton.accesskey                          "ჭ">
 <!ENTITY deleteButton2.label                            "წაშლა">
-<!ENTITY deleteButton2.accesskey                        "D">
+<!ENTITY deleteButton2.accesskey                        "შ">
 
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "წიგნაკის ახალი კონტაქტის შექმნა">
@@ -171,7 +171,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editContactPropertiesButton.tooltip            "შერჩეული კონტაქტის ჩასწორება">
 <!ENTITY editMailingListPropertiesButton.tooltip        "შერჩეული საფოსტო სიის ჩასწორება">
 <!ENTITY newmsgButton.tooltip                           "წერილის გაგზავნა">
-<!ENTITY newIM.tooltip                                  "მყისი შეტყობინების გაგზავნა ან საუბარი">
+<!ENTITY newIM.tooltip                                  "სწრაფი შეტყობინების გაგზავნა ან საუბარი">
 <!ENTITY deleteButton2.tooltip                          "მონიშნული ელემენტის წაშლა">
 
 <!-- Dir Tree header -->
@@ -179,46 +179,46 @@ because displayed names don't have the comma in between. -->
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "სახელი ან ელფოსტა">
-<!ENTITY SearchNameOrEmail.accesskey                    "N">
-<!ENTITY advancedButton.tooltip                         "მისამართის დეტალური ძიება">
-<!ENTITY quickSearchCmd.key                             "k">
+<!ENTITY SearchNameOrEmail.accesskey                    "ს">
+<!ENTITY advancedButton.tooltip                         "მისამართის გაფართოებული ძიება">
+<!ENTITY quickSearchCmd.key                             "ფ">
 <!ENTITY searchItem.title "სწრაფი ძიება">
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "მისამართების წიგნაკი">
 <!ENTITY Addrbook.accesskey                             "წ">
 <!ENTITY GeneratedName.label                            "სახელი">
-<!ENTITY GeneratedName.accesskey                        "N">
+<!ENTITY GeneratedName.accesskey                        "ხ">
 <!ENTITY PrimaryEmail.label                             "ელფოსტა">
-<!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ChatName.label                                 "ეკრანული სახელი">
-<!ENTITY ChatName.accesskey                             "C">
+<!ENTITY PrimaryEmail.accesskey                         "ე">
+<!ENTITY ChatName.label                                 "გამოსაჩენი სახელი">
+<!ENTITY ChatName.accesskey                             "ჩ">
 <!ENTITY Company.label                                  "ორგანიზაცია">
-<!ENTITY Company.accesskey                              "z">
-<!ENTITY NickName.label                                 "მეტსახელია">
-<!ENTITY NickName.accesskey                             "i">
+<!ENTITY Company.accesskey                              "ზ">
+<!ENTITY NickName.label                                 "მეტსახელი">
+<!ENTITY NickName.accesskey                             "ტ">
 <!ENTITY SecondEmail.label                              "დამატებითი ელფოსტა">
-<!ENTITY SecondEmail.accesskey                          "l">
+<!ENTITY SecondEmail.accesskey                          "ი">
 <!ENTITY Department.label                               "განყოფილება">
-<!ENTITY Department.accesskey                           "r">
+<!ENTITY Department.accesskey                           "ყ">
 <!ENTITY JobTitle.label                                 "თანამდებობა">
-<!ENTITY JobTitle.accesskey                             "T">
+<!ENTITY JobTitle.accesskey                             "თ">
 <!ENTITY CellularNumber.label                           "მობილური">
-<!ENTITY CellularNumber.accesskey                       "M">
+<!ENTITY CellularNumber.accesskey                       "მ">
 <!ENTITY PagerNumber.label                              "პეიჯერი">
-<!ENTITY PagerNumber.accesskey                          "P">
+<!ENTITY PagerNumber.accesskey                          "პ">
 <!ENTITY FaxNumber.label                                "ფაქსი">
-<!ENTITY FaxNumber.accesskey                            "F">
+<!ENTITY FaxNumber.accesskey                            "ფ">
 <!ENTITY HomePhone.label                                "ბინის ტელეფონი">
-<!ENTITY HomePhone.accesskey                            "H">
+<!ENTITY HomePhone.accesskey                            "ბ">
 <!ENTITY WorkPhone.label                                "სამსახურის ტელეფონი">
-<!ENTITY WorkPhone.accesskey                            "W">
+<!ENTITY WorkPhone.accesskey                            "ს">
 <!ENTITY sortAscending.label                            "აღმავალი">
-<!ENTITY sortAscending.accesskey                        "A">
+<!ENTITY sortAscending.accesskey                        "ა">
 <!ENTITY sortDescending.label                           "დაღმავალი">
-<!ENTITY sortDescending.accesskey                       "D">
-<!ENTITY _PhoneticName.label                            "სახელის წარმოთქმა">
-<!ENTITY _PhoneticName.accesskey                        "o">
+<!ENTITY sortDescending.accesskey                       "დ">
+<!ENTITY _PhoneticName.label                            "წარმოითქმება">
+<!ENTITY _PhoneticName.accesskey                        "ო">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
@@ -240,7 +240,7 @@ because displayed names don't have the comma in between. -->
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "ფანჯარა">
-<!ENTITY minimizeWindow.label                           "მინიმიზება">
-<!ENTITY minimizeWindow.key                             "m">
+<!ENTITY minimizeWindow.label                           "ჩაკეცვა">
+<!ENTITY minimizeWindow.key                             "ც">
 <!ENTITY bringAllToFront.label                          "წინა პლანზე გადმოტანა">
 <!ENTITY zoomWindow.label                               "ზომის ცვლილება">
