@@ -24,7 +24,7 @@
 <!ENTITY viewQuota.accesskey          "b">
 <!ENTITY changePassword.label         "Zmeniť heslo">
 <!ENTITY changePassword.accesskey     "s">
-<!ENTITY myRecoveryKey.label          "Môj Obnovovací kľúč">
+<!ENTITY myRecoveryKey.label          "Kľúč na obnovenie">
 <!ENTITY myRecoveryKey.accesskey      "M">
 <!ENTITY resetSync.label              "Nová synchronizácia">
 <!ENTITY resetSync.accesskey          "c">
