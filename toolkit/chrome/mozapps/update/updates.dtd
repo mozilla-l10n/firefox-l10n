@@ -10,7 +10,7 @@
 <!ENTITY  noupdatesautoenabled.intro      "There are no updates available. &brandShortName; will check 
                                            periodically for updates.">
 <!ENTITY  noupdatesautodisabled.intro     "There are no updates available. Please check again later or enable 
-                                           &brandShortName;'s automatic update checking.">
+                                           &brandShortName;’s automatic update checking.">
 
 <!ENTITY  manualUpdate.title              "Unable to Update">
 <!ENTITY  manualUpdate.desc               "A recommended security and stability update is available, but you do 
