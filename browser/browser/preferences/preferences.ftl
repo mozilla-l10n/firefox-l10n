@@ -205,6 +205,9 @@ choose-language-description = Pasirinkite kalbą, kuria pageidaujate matyti tink
 choose-button =
     .label = Pasirinkti…
     .accesskey = P
+choose-browser-language-description = Pasirinkite kalbas, kurios bus naudojamos atvaizduojant meniu, žinutes, pranešimus iš „{ -brand-short-name }“.
+confirm-browser-language-change-description = Norėdami pritaikyti pakeitimus, paleiskite „{ -brand-short-name }“ iš naujo
+confirm-browser-language-change-button = Pritaikyti ir perleisti
 translate-web-pages =
     .label = Versti tinklalapių turinį
     .accesskey = V
@@ -629,6 +632,44 @@ addressbar-locbar-openpage-option =
     .label = atvertų kortelių
     .accesskey = v
 addressbar-suggestions-settings = Keisti ieškyklių siūlymų nuostatas
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = Turinio blokavimas
+content-blocking-desc = Blokuokite trečiųjų šalių turinį, pvz., reklamas ir kodą, galintį sulėtinti jūsų naršymą ir stebėti jūsų naršymo įpročius. Pritaikykite nuostatas sau, kad pasiektumėte geriausią saugumo ir našumo balansą.
+content-blocking-learn-more = Sužinoti daugiau
+content-blocking-restore-defaults =
+    .label = Atstatyti numatytąsias
+    .accesskey = A
+content-blocking-toggle-on =
+    .tooltiptext = Išjungti turinio blokavimą
+content-blocking-toggle-off =
+    .tooltiptext = Įjungti turinio blokavimą
+content-blocking-toggle-label-on = ĮJUNGTA
+    .accesskey = J
+content-blocking-toggle-label-off = IŠJUNGTA
+    .accesskey = I
+content-blocking-category-label = Pasirinkite, ką blokuoti
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Lėti stebėjimo elementai
+    .accesskey = L
+content-blocking-fastblock-description = Blokuoja trečiųjų šalių turinį, kurio įkėlimas trunka ilgiau nei 5 sekundes.
+content-blocking-fastblock-option-enabled =
+    .label = Visada blokuoti
+content-blocking-fastblock-option-disabled =
+    .label = Niekada neblokuoti
+content-blocking-tracking-protection-label = Stebėjimo elementai
+    .accesskey = S
+content-blocking-tracking-protection-description = Blokuoja visus žinomus stebėjimo elementus (gali sutrikti kai kurių tinklalapių įkėlimas).
+content-blocking-tracking-protection-option-enabled =
+    .label = Visada blokuoti
+content-blocking-tracking-protection-option-pbm =
+    .label = Blokuoti tik privačiojo naršymo languose
+content-blocking-tracking-protection-option-disabled =
+    .label = Niekada neblokuoti
+content-blocking-tracking-protection-change-blocklist = Keisti blokavimo sąrašą…
 
 ## Privacy Section - Tracking
 
