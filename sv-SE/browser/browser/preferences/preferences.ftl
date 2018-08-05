@@ -202,6 +202,8 @@ choose-language-description = Välj språk som webbsidor ska visas i
 choose-button =
     .label = Välj…
     .accesskey = V
+choose-browser-language-description = Välj språk som används för att visa menyer, meddelanden och avisering från { -brand-short-name }.
+confirm-browser-language-change-description = Starta om { -brand-short-name } för att tillämpa ändringarna
 confirm-browser-language-change-button = Tillämpa och starta om
 translate-web-pages =
     .label = Översätt webbinnehåll
@@ -630,12 +632,41 @@ addressbar-suggestions-settings = Ändra inställningar för förslag från sök
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Innehållsblockering
+content-blocking-desc = Blockera innehåll från tredje part, som annonser eller kod, som kan slöa ner din webbläsning och spåra dig på webben. Anpassa dina inställningar för bästa balans mellan skydd och prestanda.
 content-blocking-learn-more = Läs mer
+content-blocking-restore-defaults =
+    .label = Återställ standard
+    .accesskey = r
+content-blocking-toggle-on =
+    .tooltiptext = Stäng av innehållsblockering
+content-blocking-toggle-off =
+    .tooltiptext = Slå på innehållsblockning
+content-blocking-toggle-label-on = PÅ
+    .accesskey = P
+content-blocking-toggle-label-off = AV
+    .accesskey = A
 content-blocking-category-label = Välj vad som ska blockeras
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Långsamma spårningselement
+    .accesskey = L
+content-blocking-fastblock-description = Blockerar innehåll från tredje part som tar längre tid än 5 sekunder att ladda.
 content-blocking-fastblock-option-enabled =
     .label = Blockera alltid
 content-blocking-fastblock-option-disabled =
     .label = Blockera aldrig
+content-blocking-tracking-protection-label = Trackers
+    .accesskey = T
+content-blocking-tracking-protection-description = Blockerar alla kända trackers (Obs: kan också hindra att vissa sidor laddas).
+content-blocking-tracking-protection-option-enabled =
+    .label = Blockera alltid
+content-blocking-tracking-protection-option-pbm =
+    .label = Blockera endast i privata fönster
+content-blocking-tracking-protection-option-disabled =
+    .label = Blockera aldrig
+content-blocking-tracking-protection-change-blocklist = Ändra blockeringslista…
 
 ## Privacy Section - Tracking
 
