@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "Nástroj profilovania ukladá vzorky v cirkulárnom bufferi. Ak sa buffer naplní, najnovšie vzorky prepisujú najstaršie záznamy.">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Záznam údajov v reálnom čase je v multiprocesovom Firefoxe vypnutý.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
@@ -29,7 +24,7 @@
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!ENTITY performanceUI.bufferStatusFull "Buffer je plný. Dochádza k prepisovaniu starých vzoriek.">
 
-<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 <!ENTITY performanceUI.unavailableNoticePB "Záznam profilu momentálne nie je dostupný. Zatvorte všetky okná v režime Súkromné prehliadanie a skúste to znova.">
@@ -91,7 +86,7 @@
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 <!ENTITY performanceUI.showPlatformData             "Zobraziť údaje platformy Gecko">
-<!ENTITY performanceUI.showPlatformData.tooltiptext "Zobrazovanie údajov platformy umožňuje v správach Nástroja na profilovanie JavaScriptu zahrnúť aj symboly platformy Gecko">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Zobrazovanie údajov platformy umožňuje v správach Nástroja na profilovanie JavaScriptu zahrnúť aj symboly platformy Gecko.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
