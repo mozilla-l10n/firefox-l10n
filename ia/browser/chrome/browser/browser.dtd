@@ -973,12 +973,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Disactivar pro iste sito">
+<!ENTITY trackingProtection.unblock3.label "Inactivar pro iste sito">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Disactivar pro iste session">
+<!ENTITY trackingProtection.unblockPrivate3.label "Inactivar pro iste session">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Activar pro iste sito">
 <!ENTITY trackingProtection.block4.accesskey "A">
@@ -1059,20 +1059,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "Tu nove scheda cambiava.">
 <!ENTITY newTabControlled.keepButton.label "Mantener le cambios">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
-<!ENTITY newTabControlled.disableButton.label "Disactivar le extension">
+<!ENTITY newTabControlled.disableButton.label "Inactivar le extension">
 <!ENTITY newTabControlled.disableButton.accesskey "">
 
 <!ENTITY homepageControlled.message "Un extension cambiava lo que tu vide quando tu aperi tu pagina casa. Tu pote restaurar tu parametros si tu non vole iste modification.">
 <!ENTITY homepageControlled.header.message "Tu pagina principal cambiava.">
 <!ENTITY homepageControlled.keepButton.label "Mantener le cambios">
 <!ENTITY homepageControlled.keepButton.accesskey "M">
-<!ENTITY homepageControlled.disableButton.label "Disactivar le extension">
+<!ENTITY homepageControlled.disableButton.label "Inactivar le extension">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
 <!ENTITY tabHideControlled.header.message "Accede a tu schedas celate">
 <!ENTITY tabHideControlled.keepButton.label "Mantener celate le schedas">
 <!ENTITY tabHideControlled.keepButton.accesskey "M">
-<!ENTITY tabHideControlled.disableButton.label "Disactivar le extension">
+<!ENTITY tabHideControlled.disableButton.label "Inactivar le extension">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Actiones del pagina">

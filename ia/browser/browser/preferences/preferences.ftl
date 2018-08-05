@@ -632,18 +632,41 @@ addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones de
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Blocage de contento
+content-blocking-desc = Blocar contento de terties, como annuncios o codice, que pote lentar tu navigation e traciar tu activitate per le web. Personalisa tu parametros pro le melior equilibrio de protection e rendimento.
 content-blocking-learn-more = Saper plus
 content-blocking-restore-defaults =
     .label = Restaurar predefinitiones
     .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Inactivar le blocage de contento
+content-blocking-toggle-off =
+    .tooltiptext = Activar le blocage de contento
+content-blocking-toggle-label-on = ACTIVE
+    .accesskey = A
+content-blocking-toggle-label-off = INACTIVE
+    .accesskey = I
+content-blocking-category-label = Elige que blocar
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Elementos de traciamento lente
+    .accesskey = l
+content-blocking-fastblock-description = Bloca contentos de terties que demora plus que 5 secundas pro cargar.
 content-blocking-fastblock-option-enabled =
     .label = Blocar sempre
 content-blocking-fastblock-option-disabled =
     .label = Nunquam blocar
+content-blocking-tracking-protection-label = Traciatores
+    .accesskey = T
+content-blocking-tracking-protection-description = Bloca tote le traciatores cognite (Nota: pote tamben impedir alcun paginas de cargar).
 content-blocking-tracking-protection-option-enabled =
     .label = Blocar sempre
+content-blocking-tracking-protection-option-pbm =
+    .label = Blocar solmente in fenestras private
 content-blocking-tracking-protection-option-disabled =
     .label = Nunquam blocar
+content-blocking-tracking-protection-change-blocklist = Cambiar le lista de blocage...
 
 ## Privacy Section - Tracking
 
