@@ -659,6 +659,14 @@ content-blocking-fastblock-option-disabled =
     .label = Nunca bloquear
 content-blocking-tracking-protection-label = Ferramentas de monitorização
     .accesskey = m
+content-blocking-tracking-protection-description = Bloqueia todas as ferramentas de monitorização conhecidas (Nota: também impede algumas páginas de serem carregadas).
+content-blocking-tracking-protection-option-enabled =
+    .label = Bloquear sempre
+content-blocking-tracking-protection-option-pbm =
+    .label = Bloquear apenas em janelas privadas
+content-blocking-tracking-protection-option-disabled =
+    .label = Nunca bloquear
+content-blocking-tracking-protection-change-blocklist = Alterar lista de bloqueio…
 
 ## Privacy Section - Tracking
 
