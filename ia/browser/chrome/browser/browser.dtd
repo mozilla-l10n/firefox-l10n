@@ -132,7 +132,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Informationes del pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "Depurator de mappa">
+<!ENTITY ldbCmd.label "Depurator de disposition">
 <!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "Duplicar le scheda">
 <!ENTITY mirrorTabCmd.accesskey "D">

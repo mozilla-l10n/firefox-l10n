@@ -11,7 +11,7 @@
 <!ENTITY castingButton.castingLabel "Transmitter per le schermo">
 <!ENTITY closedCaption.off "Inactive">
 
-<!ENTITY stats.media "Medios">
+<!ENTITY stats.media "Media">
 <!ENTITY stats.size "Dimension">
 <!ENTITY stats.activity "Activitate">
 <!ENTITY stats.activityPaused "Pausate">
