@@ -50,7 +50,7 @@
 
 <!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; can't load this page for some reason.</p>
+<p>&brandShortName; can’t load this page for some reason.</p>
 ">
 
 <!ENTITY captivePortal.title "Login to network">
@@ -97,7 +97,7 @@
 <!ENTITY netTimeout.title "The connection has timed out">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "The address wasn't understood">
+<!ENTITY unknownProtocolFound.title "The address wasn’t understood">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul> 
   <li>You might need to install other software to open this address.</li> 
@@ -123,7 +123,7 @@ working.</li>
 </ul>
 ">
 
-<!ENTITY redirectLoop.title "The page isn't redirecting properly">
+<!ENTITY redirectLoop.title "The page isn’t redirecting properly">
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>This problem can sometimes be caused by disabling or refusing to accept 
@@ -179,7 +179,7 @@ was trying to connect. -->
 <ul>
   <li>The site could be temporarily unavailable or too busy. Try again in a few 
     moments.</li> 
-  <li>If you are unable to load any pages, check your computer's network 
+  <li>If you are unable to load any pages, check your computer’s network 
     connection.</li> 
   <li>If your computer or network is protected by a firewall or proxy, make sure
     that &brandShortName; is permitted to access the Web.</li> 
