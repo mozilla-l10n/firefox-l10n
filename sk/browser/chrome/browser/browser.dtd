@@ -138,9 +138,9 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY mirrorTabCmd.accesskey "k">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Prejsť do režimu Na celú obrazovku">
+<!ENTITY enterFullScreenCmd.label "Prejsť do režimu celej obrazovky">
 <!ENTITY enterFullScreenCmd.accesskey "c">
-<!ENTITY exitFullScreenCmd.label "Ukončiť režim Na celú obrazovku">
+<!ENTITY exitFullScreenCmd.label "Ukončiť režim celej obrazovky">
 <!ENTITY exitFullScreenCmd.accesskey "c">
 <!ENTITY fullScreenCmd.label "Na celú obrazovku">
 <!ENTITY fullScreenCmd.accesskey "c">
@@ -161,7 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Zavrieť">
 <!ENTITY fullScreenAutohide.label "Skryť panely s nástrojmi">
 <!ENTITY fullScreenAutohide.accesskey "k">
-<!ENTITY fullScreenExit.label "Ukončiť režim Na celú obrazovku">
+<!ENTITY fullScreenExit.label "Ukončiť režim celej obrazovky">
 <!ENTITY fullScreenExit.accesskey "U">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -170,15 +170,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "je teraz v režime Na celú obrazovku">
-<!ENTITY fullscreenWarning.generic.label "Tento dokument je teraz v režime Na celú obrazovku">
+<!ENTITY fullscreenWarning.afterDomain.label "je teraz v režime celej obrazovky">
+<!ENTITY fullscreenWarning.generic.label "Tento dokument je teraz v režime celej obrazovky">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Ukončiť režim Na celú obrazovku (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Ukončiť režim Na celú obrazovku (esc)">
-<!ENTITY leaveDOMFullScreen.label "Ukončiť režim Na celú obrazovku">
+<!ENTITY exitDOMFullscreen.button "Ukončiť režim celej obrazovky (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Ukončiť režim celej obrazovky (esc)">
+<!ENTITY leaveDOMFullScreen.label "Ukončiť režim celej obrazovky">
 <!ENTITY leaveDOMFullScreen.accesskey "U">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
