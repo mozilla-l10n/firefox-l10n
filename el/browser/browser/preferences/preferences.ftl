@@ -633,6 +633,7 @@ addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τ�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Φραγή περιεχομένου
+content-blocking-desc = Αποκλείστε περιεχόμενο από τρίτους, όπως διαφημίσεις ή κώδικα, που μπορεί να επιβραδύνει την περιήγησή σας και να καταγράψει τη δραστηριότητα σας στο διαδίκτυο. Προσαρμόστε τις ρυθμίσεις σας για την καλύτερη ισορροπία προστασίας και απόδοσης.
 content-blocking-learn-more = Μάθετε περισσότερα
 content-blocking-restore-defaults =
     .label = Επαναφορά προεπιλογών
