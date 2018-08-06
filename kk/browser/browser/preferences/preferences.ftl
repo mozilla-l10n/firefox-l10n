@@ -635,6 +635,20 @@ content-blocking-learn-more = Көбірек білу
 content-blocking-restore-defaults =
     .label = Бастапқы мәндерін қайтару
     .accesskey = р
+content-blocking-toggle-on =
+    .tooltiptext = Құраманы бұғаттауды сөндіру
+content-blocking-toggle-off =
+    .tooltiptext = Құраманы бұғаттауды іске қосу
+content-blocking-toggle-label-on = ІСКЕ ҚОС.
+    .accesskey = С
+content-blocking-toggle-label-off = СӨНД.
+    .accesskey = С
+content-blocking-category-label = Нені бұғаттауды таңдаңыз
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Бақылайтын элементтерді көрсету
+    .accesskey = с
 content-blocking-fastblock-option-enabled =
     .label = Әрқашан бұғаттау
 content-blocking-fastblock-option-disabled =
