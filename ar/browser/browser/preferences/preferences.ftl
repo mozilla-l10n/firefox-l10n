@@ -211,6 +211,9 @@ choose-language-description = اختر لغتك المفضلة لعرض الصف
 choose-button =
     .label = اختر…
     .accesskey = خ
+choose-browser-language-description = اختر اللغات التي ستُستخدم لعرض القوائم والرسائل والتنبيهات من { -brand-short-name }.
+confirm-browser-language-change-description = أعِد تشغيل { -brand-short-name } لتطبيق التغييرات
+confirm-browser-language-change-button = طبِّق وأعِد التشغيل
 translate-web-pages =
     .label = ترجم محتوى الوب
     .accesskey = ت
@@ -635,6 +638,43 @@ addressbar-locbar-openpage-option =
     .label = الألسنة المفتوحة
     .accesskey = ف
 addressbar-suggestions-settings = غيّر تفضيلات اقتراحات محرّك البحث
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = حجب المحتوى
+content-blocking-learn-more = اطّلع على المزيد
+content-blocking-restore-defaults =
+    .label = استعد المبدئيات
+    .accesskey = س
+content-blocking-toggle-on =
+    .tooltiptext = عطِّل حجب المحتوى
+content-blocking-toggle-off =
+    .tooltiptext = فعِّل حجب المحتوى
+content-blocking-toggle-label-on = مفعّل
+    .accesskey = ف
+content-blocking-toggle-label-off = معطّل
+    .accesskey = ع
+content-blocking-category-label = اختر ما الذي تريد حجبه
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = عناصر التعقّب البطيئة
+    .accesskey = ن
+content-blocking-fastblock-description = لحجب المحتوى من الأطراف الثالثة والذي يأخذ أكثر من ٥ ثواني تحميل.
+content-blocking-fastblock-option-enabled =
+    .label = احجب دائمًا
+content-blocking-fastblock-option-disabled =
+    .label = لا تحجب أبدًا
+content-blocking-tracking-protection-label = المتعقّبات
+    .accesskey = ق
+content-blocking-tracking-protection-description = لحجب كل المتعقّبات المعروفة (لاحظ أن هذا قد يمنع تحميل بعض الصفحات).
+content-blocking-tracking-protection-option-enabled =
+    .label = احجب دائمًا
+content-blocking-tracking-protection-option-pbm =
+    .label = احجب في النوافذ الخاصة فقط
+content-blocking-tracking-protection-option-disabled =
+    .label = لا تحجب أبدًا
+content-blocking-tracking-protection-change-blocklist = غيّر قائمة الحجب…
 
 ## Privacy Section - Tracking
 
