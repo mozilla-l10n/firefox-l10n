@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Автоматично изпълняване">
 <!ENTITY pref_media_autoplay_enabled_summary "Определя дали сайтовете да изпълняват автоматично видео и друга медия">
+<!ENTITY pref_media_autoplay_allow "Разрешаване на автоматично изпълняване">
+<!ENTITY pref_media_autoplay_block "Забраняване на автоматично изпълняване">
 <!ENTITY pref_zoom_force_enabled "Мащабирането да е винаги включено">
 <!ENTITY pref_zoom_force_enabled_summary "Позволява мащабиране на всяка страница">
 <!ENTITY pref_voice_input "Въвеждане чрез глас">
@@ -903,3 +905,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Продължаване на изпълнението">
 <!ENTITY pip_pause_button_title "Пауза">
 <!ENTITY pip_pause_button_description "Слагане на изпълнението на пауза">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Услуга за местоположение от &vendorShortName;">
