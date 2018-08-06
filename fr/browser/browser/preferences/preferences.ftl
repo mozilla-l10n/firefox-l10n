@@ -633,6 +633,7 @@ addressbar-suggestions-settings = Modifier les préférences pour les suggestion
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocage de contenu
+content-blocking-desc = Bloquez des contenus tiers, tels que du code ou de la publicité, qui peuvent ralentir votre navigation et vous pister sur le Web. Réglez les paramètres à votre gré pour obtenir un équilibre entre protection et performance.
 content-blocking-learn-more = En savoir plus
 content-blocking-restore-defaults =
     .label = Restaurer les valeurs par défaut
@@ -647,7 +648,7 @@ content-blocking-category-label = Sélectionnez le contenu à bloquer
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Traqueurs qui ralentissent
     .accesskey = T
-content-blocking-fastblock-description = Bloquer les contenus tiers mettant plus de 5 secondes à charger.
+content-blocking-fastblock-description = Bloque les contenus tiers mettant plus de 5 secondes à charger.
 content-blocking-fastblock-option-enabled =
     .label = Toujours bloquer
 content-blocking-fastblock-option-disabled =
@@ -658,7 +659,7 @@ content-blocking-tracking-protection-description = Bloque tous les traqueurs con
 content-blocking-tracking-protection-option-enabled =
     .label = Toujours bloquer
 content-blocking-tracking-protection-option-pbm =
-    .label = Bloquer uniquement dans les fenêtres de navigation privée
+    .label = Bloquer uniquement dans les fenêtres privées
 content-blocking-tracking-protection-option-disabled =
     .label = Ne jamais bloquer
 content-blocking-tracking-protection-change-blocklist = Modifier la liste de blocage…
