@@ -4,7 +4,7 @@
 
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 <!ENTITY printWindow.title "Tlačí sa"> 
-<!ENTITY title    "Titulok:"> 
+<!ENTITY title    "Názov:"> 
 <!ENTITY progress "Priebeh:">
 <!ENTITY preparing "Pripravuje sa…">
 <!ENTITY printComplete "Tlač je dokončená.">
