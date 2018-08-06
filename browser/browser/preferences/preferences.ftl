@@ -633,7 +633,7 @@ addressbar-suggestions-settings = Alterar preferências para as sugestões dos m
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueio de conteúdo
-content-blocking-desc = Bloqueie conteúdo de terceiros, tal como anúncios ou código, que podem tornar o seu navegador mais lento e lhe monitorizam ao longo da web. Personalize as suas definições o melhor equilíbrio de proteção e desempenho.
+content-blocking-desc = Bloqueie conteúdo de terceiros, tal como anúncios ou código, que podem tornar o seu navegador mais lento e lhe monitorizam ao longo da web. Personalize as suas definições para o melhor equilíbrio de proteção e desempenho.
 content-blocking-learn-more = Saber mais
 content-blocking-restore-defaults =
     .label = Repor predefinições
