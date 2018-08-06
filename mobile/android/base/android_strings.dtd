@@ -208,14 +208,14 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "TIP: Add any web site to your list of search providers by long-pressing on its search field and then touching the &formatI; icon.">
+<!ENTITY pref_search_hint2 "TIP: Add any website to your list of search providers by long-pressing on its search field and then touching the &formatI; icon.">
 <!ENTITY pref_category_advanced "Advanced">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Restore tabs, data saver, developer tools">
 <!ENTITY pref_category_notifications "Notifications">
-<!ENTITY pref_category_notifications_summary "New features, web site updates">
+<!ENTITY pref_category_notifications_summary "New features, website updates">
 <!ENTITY pref_category_notifications_summary2 "New features, product tips">
 <!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via Wi-Fi">
@@ -371,7 +371,7 @@
 <!ENTITY pref_use_system_font_size_summary "Scale web content according to the system font size">
 
 <!ENTITY pref_media_autoplay_enabled "Allow autoplay">
-<!ENTITY pref_media_autoplay_enabled_summary "Control if web sites can autoplay videos and other media content">
+<!ENTITY pref_media_autoplay_enabled_summary "Control if websites can autoplay videos and other media content">
 <!ENTITY pref_media_autoplay_allow "Allow autoplay">
 <!ENTITY pref_media_autoplay_block "Block autoplay">
 <!ENTITY pref_zoom_force_enabled "Always enable zoom">
@@ -398,7 +398,7 @@
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; active logins">
 <!ENTITY pref_private_data_passwords2 "Saved logins">
 <!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Offline web site data">
+<!ENTITY pref_private_data_offlineApps "Offline website data">
 <!ENTITY pref_private_data_siteSettings2 "Site settings">
 <!ENTITY pref_private_data_downloadFiles2 "Downloads">
 <!ENTITY pref_private_data_syncedTabs "Synced tabs">
@@ -619,7 +619,7 @@
 <!ENTITY home_closed_tabs_number "&formatD; tabs">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 tab">
-<!ENTITY home_most_recent_empty "Web sites you visited most recently show up here.">
+<!ENTITY home_most_recent_empty "Websites you visited most recently show up here.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: using a &formatS1;New Private Tab&formatS2; won’t save your history.">
@@ -815,9 +815,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings "Advanced Settings">
 <!ENTITY restrictable_feature_advanced_settings_description "This includes importing bookmarks, restoring tabs and automated updates. Turn off for simplified settings suitable for any family member.">
 <!ENTITY restrictable_feature_camera_microphone "Camera &amp; Microphone">
-<!ENTITY restrictable_feature_camera_microphone_description "Allows family members to engage in real time communication on web sites.">
+<!ENTITY restrictable_feature_camera_microphone_description "Allows family members to engage in real time communication on websites.">
 <!ENTITY restrictable_feature_block_list "Block List">
-<!ENTITY restrictable_feature_block_list_description "Block web sites that include sensitive content.">
+<!ENTITY restrictable_feature_block_list_description "Block websites that include sensitive content.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -896,8 +896,8 @@ is simply hidden from the Activity Stream panel. -->
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Add to Home Screen">
-<!ENTITY pwa_continue_to_website "Continue to Web Site">
-<!ENTITY pwa_onboarding_sumo "You can easily add this web site to your Home screen to have instant access and browse faster with an app-like experience.">
+<!ENTITY pwa_continue_to_website "Continue to Website">
+<!ENTITY pwa_onboarding_sumo "You can easily add this website to your Home screen to have instant access and browse faster with an app-like experience.">
 
 <!-- Used by accessibility services to identify the play/pause buttons shown in the
 Picture-in-picture mini window -->
