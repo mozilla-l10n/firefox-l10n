@@ -14,6 +14,11 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = సర్వీస్ వర్కర్లు
+# Text for the debug link displayed for an already started Service Worker. Clicking on the
+# link opens a new devtools toolbox for this service worker. The title attribute is only
+# displayed when the link is disabled.
+serviceworker-worker-debug = డీబగ్
+    .title = నడుస్తూన్న సర్వీస్ వర్కర్లను మాత్రమే డిబగ్ చేయగలరు
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = మెదలుపెట్టు

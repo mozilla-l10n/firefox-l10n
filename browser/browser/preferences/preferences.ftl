@@ -311,6 +311,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = కొత్త కిటికీలు, ట్యాబులు
+home-new-windows-tabs-description2 = మీ ముంగిలి పేజీని, కొత్త కిటికీలను, కొత్త ట్యాబులను తెరచినప్పుడు ఏం కనబడాలో ఎంచుకోండి.
 
 ## Home Section - Home Page Customization
 
@@ -603,6 +604,37 @@ addressbar-locbar-openpage-option =
     .label = తెరిచిన ట్యాబులు
     .accesskey = O
 addressbar-suggestions-settings = శోధన యత్ర సూచనల అభిరుచులను మార్చండి
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = విషయ నిరోధం
+content-blocking-learn-more = ఇంకా తెలుసుకోండి
+content-blocking-restore-defaults =
+    .label = అప్రమేయాలను పునరుద్ధరించు
+    .accesskey = R
+content-blocking-toggle-label-on = ఆన్
+    .accesskey = O
+content-blocking-toggle-label-off = ఆఫ్
+    .accesskey = O
+content-blocking-category-label = వేటిని నిరోధించాలో ఎంచుకోండి
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = ట్రాకింగ్ మూలకాలను చూపించు
+    .accesskey = S
+content-blocking-fastblock-description = లోడవడానికి 5 క్షణాల కంటే ఎక్కువ తీసుకునే మూడవ-పక్ష విషయాలను నిరోధిస్తుంది.
+content-blocking-fastblock-option-enabled =
+    .label = ఎల్లప్పుడూ నిరోధించు
+content-blocking-fastblock-option-disabled =
+    .label = ఎప్పుడూ నిరోధించవద్దు
+content-blocking-tracking-protection-label = ట్రాకర్లు
+    .accesskey = T
+content-blocking-tracking-protection-option-enabled =
+    .label = ఎల్లప్పుడూ నిరోధించు
+content-blocking-tracking-protection-option-pbm =
+    .label = అంతరంగిక కిటికీల్లో మాత్రమే నిరోధించు
+content-blocking-tracking-protection-option-disabled =
+    .label = ఎప్పుడూ నిరోధించవద్దు
 
 ## Privacy Section - Tracking
 
