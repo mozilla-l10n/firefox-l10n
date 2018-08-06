@@ -12,7 +12,7 @@
 <!ENTITY devmgr.details.title                   "Details">
 <!ENTITY devmgr.details.title2                  "Value">
 
-<!ENTITY devmgr.button.login.label              "Log In">
+<!ENTITY devmgr.button.login.label              "Sign In">
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "Log Out">
 <!ENTITY devmgr.button.logout.accesskey         "O">
