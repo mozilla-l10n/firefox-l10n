@@ -23,7 +23,7 @@
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Some features in &brandShortName;, such as the Crash Reporter, give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; permission to use the feedback to improve its products, to publish the feedback on its web sites, and to distribute the feedback.">
+<!ENTITY rights.intro-point2.5 "Some features in &brandShortName;, such as the Crash Reporter, give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; permission to use the feedback to improve its products, to publish the feedback on its websites, and to distribute the feedback.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "How we use your personal information and feedback submitted to &vendorShortName; through &brandShortName; is described in the ">
@@ -40,7 +40,7 @@
 
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "If this product incorporates web services, any applicable service terms for the service(s) should be linked to the ">
-<!ENTITY rights.intro-point4b-unbranded "Web Site Services">
+<!ENTITY rights.intro-point4b-unbranded "Website Services">
 <!ENTITY rights.intro-point4c-unbranded " section.">
 
 <!ENTITY rights2.webservices-header "&brandFullName; Web-Based Information Services">
@@ -75,7 +75,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing is now disabled">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
+<!ENTITY rights.webservices-unbranded "An overview of the website services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Any applicable service terms for this product should be listed here.">

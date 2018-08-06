@@ -7,9 +7,9 @@
 
 site-data-settings-window =
     .title = Manage Cookies and Site Data
-site-data-settings-description = The following web sites store cookies and site data on your computer. { -brand-short-name } keeps data from web sites with persistent storage until you delete it, and deletes data from web sites with non-persistent storage as space is needed.
+site-data-settings-description = The following websites store cookies and site data on your computer. { -brand-short-name } keeps data from websites with persistent storage until you delete it, and deletes data from websites with non-persistent storage as space is needed.
 site-data-search-textbox =
-    .placeholder = Search web sites
+    .placeholder = Search websites
     .accesskey = S
 site-data-column-host =
     .label = Site
@@ -48,5 +48,5 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Remove
 site-data-removing-header = Removing Cookies and Site Data
-site-data-removing-desc = Removing cookies and site data may log you out of web sites. Are you sure you want to make the changes?
-site-data-removing-table = Cookies and site data for the following web sites will be removed
+site-data-removing-desc = Removing cookies and site data may log you out of websites. Are you sure you want to make the changes?
+site-data-removing-table = Cookies and site data for the following websites will be removed

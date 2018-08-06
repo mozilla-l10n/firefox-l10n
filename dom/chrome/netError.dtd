@@ -38,12 +38,12 @@
 <!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Content Encoding Error">
-<!ENTITY contentEncodingError.longDesc "<p>The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.</p><ul><li>Please contact the web site owners to inform them of this problem.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Unsafe File Type">
 <!ENTITY unsafeContentType.longDesc "
-<ul> 
-  <li>Please contact the web site owners to inform them of this problem.</li> 
+<ul>
+  <li>Please contact the website owners to inform them of this problem.</li>
 </ul>
 ">
 
@@ -69,7 +69,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>The site responded to the network request in an unexpected way and the browser cannot continue.</p>">
 
 <!ENTITY nssFailure2.title "Secure Connection Failed">
-<!ENTITY nssFailure2.longDesc2 "<p>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the web site owners to inform them of this problem.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY nssBadCert.title "Secure Connection Failed">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -87,14 +87,14 @@
 <!ENTITY cspBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Corrupted Content Error">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the web site owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
 
 <!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the web site owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Your connection is not secure">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The web site administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uses security technology that is outdated and vulnerable to attack. An attacker could easily reveal information which you thought to be safe. The website administrator will need to fix the server first before you can visit the site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blocked Page">

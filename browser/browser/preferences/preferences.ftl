@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Send web sites a “Do Not Track” signal that you don’t want to be tracked
+do-not-track-description = Send websites a “Do Not Track” signal that you don’t want to be tracked
 do-not-track-learn-more = Learn more
 do-not-track-option-default =
     .label = Only when using Tracking Protection
@@ -583,13 +583,13 @@ sitedata-total-size-calculating = Calculating site data and cache size…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Your stored cookies, site data and cache are currently using { $value } { $unit } of disc space.
+sitedata-total-size = Your stored cookies, site data and cache are currently using { $value } { $unit } of disk space.
 sitedata-learn-more = Learn more
 sitedata-accept-cookies-option =
-    .label = Accept cookies and site data from web sites (recommended)
+    .label = Accept cookies and site data from websites (recommended)
     .accesskey = A
 sitedata-block-cookies-option =
-    .label = Block cookies and site data (may cause web sites to break)
+    .label = Block cookies and site data (may cause websites to break)
     .accesskey = B
 sitedata-keep-until = Keep until
     .accesskey = u
@@ -671,7 +671,7 @@ content-blocking-tracking-protection-change-blocklist = Change Block List…
 ## Privacy Section - Tracking
 
 tracking-header = Tracking Protection
-tracking-desc = Tracking Protection blocks online trackers that collect your browsing data across multiple web sites. <a data-l10n-name="learn-more">Learn more about Tracking Protection and your privacy</a>
+tracking-desc = Tracking Protection blocks online trackers that collect your browsing data across multiple websites. <a data-l10n-name="learn-more">Learn more about Tracking Protection and your privacy</a>
 tracking-mode-label = Use Tracking Protection to block known trackers
 tracking-mode-always =
     .label = Always
@@ -736,7 +736,7 @@ permissions-block-popups-exceptions =
     .label = Exceptions…
     .accesskey = E
 permissions-addon-install-warning =
-    .label = Warn you when web sites try to install add-ons
+    .label = Warn you when websites try to install add-ons
     .accesskey = W
 permissions-addon-exceptions =
     .label = Exceptions…

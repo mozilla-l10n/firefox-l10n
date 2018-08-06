@@ -25,6 +25,6 @@ blocklist-button-ok =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me basic protection (Recommended).
-blocklist-item-moz-std-desc = Allows some trackers so web sites function properly.
+blocklist-item-moz-std-desc = Allows some trackers so websites function properly.
 blocklist-item-moz-full-name = Disconnect.me strict protection.
-blocklist-item-moz-full-desc = Blocks known trackers. Some web sites may not function properly.
+blocklist-item-moz-full-desc = Blocks known trackers. Some websites may not function properly.
