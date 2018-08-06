@@ -202,6 +202,7 @@ choose-language-description = Vel føretrekt språk på nettsider
 choose-button =
     .label = Vel…
     .accesskey = V
+confirm-browser-language-change-button = Bruk og start på nytt
 translate-web-pages =
     .label = Omset webinnhald
     .accesskey = O
@@ -629,6 +630,7 @@ addressbar-suggestions-settings = Endre innstillingar for søkeforslag
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Innholdsblokkering
 content-blocking-learn-more = Les meir
 content-blocking-toggle-label-on = PÅ
     .accesskey = P
