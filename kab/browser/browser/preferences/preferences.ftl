@@ -627,6 +627,11 @@ addressbar-locbar-openpage-option =
     .accesskey = I
 addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 
+## Privacy Section - Content Blocking
+
+content-blocking-learn-more = Issin ugar
+content-blocking-category-label = Fren ayen ad tesweḥleḍ
+
 ## Privacy Section - Tracking
 
 tracking-header = Ammesten mgal asfuɣel
@@ -686,8 +691,6 @@ autoplay-option-ask =
     .label = Seqsay yal tikelt
 autoplay-option-allow =
     .label = Sreg taɣuri tawurmant
-autoplay-option-block =
-    .label = Sewḥel taɣuri tawurmant
 permissions-block-popups =
     .label = Sewḥel isfuyla udhimen
     .accesskey = S
