@@ -650,8 +650,8 @@ content-blocking-category-label = Escolha o que bloquear
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Mostrar elementos de monitorização
-    .accesskey = M
+content-blocking-fastblock-label = Elementos de monitorização lentos
+    .accesskey = s
 content-blocking-fastblock-description = Bloqueia conteúdo de terceiros que demora mais do que 5 segundos a carregar.
 content-blocking-fastblock-option-enabled =
     .label = Bloquear sempre
