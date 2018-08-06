@@ -202,6 +202,9 @@ choose-language-description = Sayfaları hangi dilde görmeyi tercih ettiğinizi
 choose-button =
     .label = Seç…
     .accesskey = S
+choose-browser-language-description = { -brand-short-name } menülerini, iletilerini ve bildirimlerini gösterirken kullanılacak dilleri seçin.
+confirm-browser-language-change-description = Bu değişiklikleri uygulamak için { -brand-short-name } tarayıcısını yeniden başlatın
+confirm-browser-language-change-button = Uygula ve yeniden başlat
 translate-web-pages =
     .label = Web içeriğini çevir
     .accesskey = W
@@ -627,6 +630,34 @@ addressbar-locbar-openpage-option =
     .accesskey = s
 addressbar-suggestions-settings = Arama motoru önerileri için tercihleri değiştir
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = İçerik engelleme
+content-blocking-learn-more = Daha fazla bilgi al
+content-blocking-restore-defaults =
+    .label = Varsayılanları geri yükle
+    .accesskey = r
+content-blocking-toggle-on =
+    .tooltiptext = İçerik engellemeyi kapat
+content-blocking-toggle-off =
+    .tooltiptext = İçerik engellemeyi aç
+content-blocking-toggle-label-on = AÇIK
+    .accesskey = A
+content-blocking-toggle-label-off = KAPALI
+    .accesskey = K
+content-blocking-category-label = Nelerin engelleneceğini seçin
+content-blocking-fastblock-option-enabled =
+    .label = Her zaman engelle
+content-blocking-fastblock-option-disabled =
+    .label = Asla engelleme
+content-blocking-tracking-protection-option-enabled =
+    .label = Her zaman engelle
+content-blocking-tracking-protection-option-pbm =
+    .label = Yalnızca gizli pencerelerde engelle
+content-blocking-tracking-protection-option-disabled =
+    .label = Asla engelleme
+content-blocking-tracking-protection-change-blocklist = Engelleme listesini değiştir…
+
 ## Privacy Section - Tracking
 
 tracking-header = İzlenme Koruması
@@ -671,7 +702,7 @@ permissions-notification = Bildirimler
 permissions-notification-settings =
     .label = Ayarlar…
     .accesskey = r
-permissions-notification-link = Daha fazlası
+permissions-notification-link = Daha fazla bilgi al
 permissions-notification-pause =
     .label = { -brand-short-name } yeniden başlatılana dek bildirimleri duraklat
     .accesskey = b
