@@ -316,6 +316,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Webový vývojár">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "Zaznamenať vykonanie">
+<!ENTITY devtoolsSaveRecording.label "Uložiť záznam">
+<!ENTITY devtoolsReplayExecution.label "Prehrať záznam">
 
 <!ENTITY inspectContextMenu.label     "Preskúmať prvok">
 <!ENTITY inspectContextMenu.accesskey "m">
