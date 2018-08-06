@@ -250,17 +250,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Manage use of DRM software">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Open MIDI panel">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "You have blocked your camera for this web site.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "You have blocked your microphone for this web site.">
-<!ENTITY urlbar.screenBlocked.tooltip            "You have blocked this web site from sharing your screen.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "You have blocked location information for this web site.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "You have blocked notifications for this web site.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "You have blocked persistent storage for this web site.">
-<!ENTITY urlbar.popupBlocked.tooltip             "You have blocked pop-ups for this web site.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "You have blocked your camera for this website.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "You have blocked your microphone for this website.">
+<!ENTITY urlbar.screenBlocked.tooltip            "You have blocked this website from sharing your screen.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "You have blocked location information for this website.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "You have blocked notifications for this website.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "You have blocked persistent storage for this website.">
+<!ENTITY urlbar.popupBlocked.tooltip             "You have blocked pop-ups for this website.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "You have blocked autoplay media with sound for this website.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "You have blocked canvas data extraction for this web site.">
-<!ENTITY urlbar.flashPluginBlocked.tooltip       "You have blocked this web site from using the Adobe Flash plugin.">
-<!ENTITY urlbar.midiBlocked.tooltip              "You have blocked MIDI access for this web site.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "You have blocked canvas data extraction for this website.">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "You have blocked this website from using the Adobe Flash plugin.">
+<!ENTITY urlbar.midiBlocked.tooltip              "You have blocked MIDI access for this website.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Show history">
 
@@ -817,13 +817,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Your connection to this site is not private. Information you submit could be viewed by others (like passwords, messages, credit cards, etc.).">
 <!ENTITY identity.description.insecureLoginForms "The login information you enter on this page is not secure and could be compromised.">
-<!ENTITY identity.description.weakCipher "Your connection to this web site uses weak encryption and is not private.">
-<!ENTITY identity.description.weakCipher2 "Other people can view your information or modify the web site’s behaviour.">
+<!ENTITY identity.description.weakCipher "Your connection to this website uses weak encryption and is not private.">
+<!ENTITY identity.description.weakCipher2 "Other people can view your information or modify the website’s behaviour.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; has blocked parts of this page that are not secure.">
 <!ENTITY identity.description.passiveLoaded "Your connection is not private and information you share with the site could be viewed by others.">
-<!ENTITY identity.description.passiveLoaded2 "This web site contains content that is not secure (such as images).">
+<!ENTITY identity.description.passiveLoaded2 "This website contains content that is not secure (such as images).">
 <!ENTITY identity.description.passiveLoaded3 "Although &brandShortName; has blocked some content, there is still content on the page that is not secure (such as images).">
-<!ENTITY identity.description.activeLoaded "This web site contains content that is not secure (such as scripts) and your connection to it is not private.">
+<!ENTITY identity.description.activeLoaded "This website contains content that is not secure (such as scripts) and your connection to it is not private.">
 <!ENTITY identity.description.activeLoaded2 "Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Enable protection">
