@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Geri dön (Önerilir)">
 <!ENTITY advanced.label "Gelişmiş">
 
-<!ENTITY continue.label "Devam et">
+<!ENTITY continue1.label "Devam et…">
 
 <!-- Specific error messages -->
 
@@ -106,13 +106,13 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Görüntülemeye çalıştığınız sayfa, alınan verilerin yetkinliği doğrulanamadığı için gösterilemiyor.</li> <li>Lütfen site yöneticisi ile irtibata geçip durumu bildirin.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Bağlantınız güvenli değil">
-<!ENTITY certerror.longpagetitle2 "Uyarı: Güvenlik riskiyle karşılaşayabilirsiniz">
+<!ENTITY certerror.longpagetitle2 "Uyarı: Güvenlik riskiyle karşılaşabilirsiniz">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> web sitesinin sahibi siteyi hatalı yapılandırmış.  Bilgilerinizin çalınmasını önlemek için &brandShortName; bu web sitesine bağlanmadı.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; olası bir güvenlik tehditi saptadığı için <span class='hostname'/> sitesine girmedi. Bu siteyi ziyaret ederseniz saldırganlar parola, e-posta ve kredi kartı gibi bilgilerinizi çalmaya çalışabilir.">
+<!ENTITY certerror.introPara1 "&brandShortName; olası bir güvenlik tehdidi saptadığı için <span class='hostname'/> sitesine girmedi. Bu siteyi ziyaret ederseniz saldırganlar parola, e-posta ve kredi kartı gibi bilgilerinizi çalmaya çalışabilir.">
 
 <!ENTITY certerror.expiredCert.secondPara "Bu sorun büyük olasılıkla bilgisayarınızın saatinin yanlış ayarlanmasından kaynaklanır. Saat veya tarih yanlışsa &brandShortName; güvenli bağlantı kuramayabilir.">
 
@@ -164,7 +164,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; <span id='wrongSystemTimeWithoutReference_URL'/> konumuna bağlanamadı çünkü bilgisayarınızın saati yanlış saati gösteriyor ve bu da güvenli bağlantı kurulmasını önlüyor.</p> <p>Bilgisayarınızın saati <span id='wrongSystemTimeWithoutReference_systemDate'/> olarak ayarlanmış. Bu sorunu gidermek için tarih ve saat ayarlarınızı değiştirerek doğru zamanın gösterilmesini sağlayın.</p>">
 
 <!ENTITY certerror.pagetitle1  "Güvensiz Bağlantı">
-<!ENTITY certerror.pagetitle2  "Uyarı: Güvenlik riskiyle karşılaşayabilirsiniz">
+<!ENTITY certerror.pagetitle2  "Uyarı: Güvenlik riskiyle karşılaşabilirsiniz">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Bu site, &brandShortName; tarayıcısının kendisine yalnızca güvenli olarak bağlanabileceğini belirtmek için HTTP Sıkı Aktarım Güvenliği (HSTS) kullanmaktadır. Sonuç olarak bu sertifika için ayrıcalık tanınamaz.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span>, HTTP Sıkı Aktarım Güvenliği (HSTS) denilen bir güvenlik ilkesi uyguluyor. Bu nedenle &brandShortName; bu siteye yalnızca güvenli bir şekilde bağlanabilir. Bu site için istisna ekleyemezsiniz.">
 <!ENTITY certerror.copyToClipboard.label "Metni panoya kopyala">
