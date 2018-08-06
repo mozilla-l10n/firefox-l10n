@@ -631,6 +631,7 @@ addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 
 content-blocking-learn-more = Issin ugar
 content-blocking-category-label = Fren ayen ad tesweḥleḍ
+content-blocking-tracking-protection-change-blocklist = Snifel tabdart n usewḥel…
 
 ## Privacy Section - Tracking
 

@@ -316,6 +316,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Aneflay web">
 <!ENTITY webDeveloperMenu.accesskey   "A">
 
+<!ENTITY devtoolsSaveRecording.label "Sekles ikalasen">
+
 <!ENTITY inspectContextMenu.label     "Sweḍ aferdis">
 <!ENTITY inspectContextMenu.accesskey "S">
 
@@ -631,6 +633,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Ffer Azegrir-a">
 <!ENTITY hidePluginCmd.accesskey      "F">
 <!ENTITY copyLinkCmd.label            "Nɣel tansa n useɣwen">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "N">
 <!ENTITY copyImageCmd.label           "Nɣel tansa n tugna">
 <!ENTITY copyImageCmd.accesskey       "N">
@@ -641,6 +646,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Nɣel tansa n umeslaw">
 <!ENTITY copyAudioURLCmd.accesskey    "N">
 <!ENTITY copyEmailCmd.label           "Nɣel tansa imayl">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "t">
 <!ENTITY thisFrameMenu.label              "Akatar-a">
 <!ENTITY thisFrameMenu.accesskey          "k">

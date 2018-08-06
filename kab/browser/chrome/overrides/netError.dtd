@@ -8,7 +8,10 @@
 <!ENTITY loadError.label "Ugur deg usali n usebter">
 <!ENTITY retry.label "Ɛreḍ i tikelt-nniḍen">
 <!ENTITY returnToPreviousPage.label "Uɣal ɣeṛ deffir">
+<!ENTITY returnToPreviousPage1.label "Uɣal ɣer deffir (Yelha)">
 <!ENTITY advanced.label "Iɣewwaṛen leqqayen ">
+
+<!ENTITY continue1.label "Kemmel…">
 
 <!-- Specific error messages -->
 
@@ -92,10 +95,16 @@
 </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Tuqqna-inek d taraɣelsant">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Imawlan n <span class='hostname'/> ur sewlen ara akken iwata asmel-nsen.  Iwakken ad tettummesten telɣut-inek seg takwerḍa, &brandShortName; ur yeqqin ara ɣeṛ usmel-a web.">
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul><li>Asmel-a ulac-it akka tura neɣ ahat ur d-yelhi ara. Ɛreḍ akka kra n wakud  ticki.</li> <li>Ma yella ur tezmiṛeḍ ara ad d-tessaliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim-inek.</li><li>Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes neɣ apṛuksi, wali ma yella &brandShortName; yezmer ad yekcem ɣer Web.</li></ul>">
 
