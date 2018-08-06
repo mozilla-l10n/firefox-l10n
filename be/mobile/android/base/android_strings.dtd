@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Дазволіць аўтазапуск">
 <!ENTITY pref_media_autoplay_enabled_summary "Кантралюе, ці могуць вэб-сайты аўтаматычна запускаць відэа і іншы медыякантэнт">
+<!ENTITY pref_media_autoplay_allow "Дазволіць аўтазапуск">
+<!ENTITY pref_media_autoplay_block "Забараніць аўтазапуск">
 <!ENTITY pref_zoom_force_enabled "Заўсёды дазваляць змяняць маштаб">
 <!ENTITY pref_zoom_force_enabled_summary "Ігнараваць налады сайтаў, каб вы маглі мяняць маштаб любой старонкі">
 <!ENTITY pref_voice_input "Галасавы ўвод">
@@ -903,3 +905,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Узнавіць ігранне">
 <!ENTITY pip_pause_button_title "Прыпыніць">
 <!ENTITY pip_pause_button_description "Прыпыніць ігранне">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Служба месцазнаходжання &vendorShortName;">
