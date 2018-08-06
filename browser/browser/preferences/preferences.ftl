@@ -202,6 +202,9 @@ choose-language-description = Az oldalak megjelenítésére előnyben részesít
 choose-button =
     .label = Tallózás…
     .accesskey = T
+choose-browser-language-description = Válassza ki a { -brand-short-name }ban megjelenített menük, üzenetek és értesítések nyelvét.
+confirm-browser-language-change-description = A { -brand-short-name } újraindítása a változtatások alkalmazásához
+confirm-browser-language-change-button = Alkalmaz és újraindítás
 translate-web-pages =
     .label = Webtartalom fordítása
     .accesskey = f
@@ -627,6 +630,44 @@ addressbar-locbar-openpage-option =
     .accesskey = N
 addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállításainak módosítása
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Tartalomblokkolás
+content-blocking-desc = Az olyan harmadik féltől származó tartalom blokkolása, mint a hirdetések vagy kódok, melyek lelassíthatják a böngészését, és követketik a weben. Szabja testre a beállításait a védelem és a teljesítmény közti legjobb egyensúly érdekében.
+content-blocking-learn-more = További tudnivalók
+content-blocking-restore-defaults =
+    .label = Alapértelmezések visszaállítása
+    .accesskey = v
+content-blocking-toggle-on =
+    .tooltiptext = Tartalomblokkolás kikapcsolása
+content-blocking-toggle-off =
+    .tooltiptext = Tartalomblokkolás bekapcsolása
+content-blocking-toggle-label-on = BE
+    .accesskey = B
+content-blocking-toggle-label-off = KI
+    .accesskey = K
+content-blocking-category-label = Válassza ki, mit szeretne blokkolni
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Lassú követőelemek
+    .accesskey = L
+content-blocking-fastblock-description = Blokkolja azon harmadik féltől származó tartalmakat, melyeket 5 másodpercnél több idő betölteni.
+content-blocking-fastblock-option-enabled =
+    .label = Mindig blokkolja
+content-blocking-fastblock-option-disabled =
+    .label = Sosem blokkolja
+content-blocking-tracking-protection-label = Követők
+    .accesskey = K
+content-blocking-tracking-protection-description = Az ismert követők blokkolása (Megjegyzés: megakadályozhatja néhány oldal betöltését).
+content-blocking-tracking-protection-option-enabled =
+    .label = Mindig blokkolja
+content-blocking-tracking-protection-option-pbm =
+    .label = Csak privát ablakokban blokkolja
+content-blocking-tracking-protection-option-disabled =
+    .label = Sosem blokkolja
+content-blocking-tracking-protection-change-blocklist = Blokkolási lista módosítása…
+
 ## Privacy Section - Tracking
 
 tracking-header = Követés elleni védelem
@@ -686,8 +727,8 @@ autoplay-option-ask =
     .label = Rákérdezés mindig
 autoplay-option-allow =
     .label = Automatikus lejátszás engedélyezése
-autoplay-option-block =
-    .label = Automatikus lejátszás blokkolása
+autoplay-option-dont =
+    .label = Automatikus lejátszás letiltása
 permissions-block-popups =
     .label = Felugró ablakok tiltása
     .accesskey = F
