@@ -2,11 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fonts-window =
+    .title = Font
 fonts-window-close =
     .key = w
 
 ## Font groups by language
 
+fonts-langgroup-header = Font ti
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Arabo
 fonts-langgroup-armenian =
@@ -89,12 +93,19 @@ fonts-minsize = Kabassitan a sukat ti font
     .accesskey = f
 fonts-minsize-none =
     .label = Awan
+fonts-allow-own =
+    .label = Palubosan dagiti panid nga pumili ti bukod a fontda, iti saad dagiti piniliyo idiay rabaw
+    .accesskey = P
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Panagkodigo ti Text para Tawid a Laon
+fonts-languages-fallback-desc = Daytoy a panagkodigo ket aramaten para tawid a laon a dina ipakaammo ti panagkodigona.
+fonts-languages-fallback-label = Pangsabalian a Panagkodigo ti Text
+    .accesskey = x
 fonts-languages-fallback-name-auto =
     .label = Sigud ti Agdama a Lokalidad
 fonts-languages-fallback-name-arabic =
@@ -127,6 +138,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Bietnames
 fonts-languages-fallback-name-other =
     .label = Sabali (mairaman ti Akinlaud nga Ewropa)
+fonts-very-large-warning-accept = Idulin dagiti balbaliwan latta
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
