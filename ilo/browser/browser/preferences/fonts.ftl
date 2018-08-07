@@ -48,6 +48,8 @@ fonts-langgroup-latin =
     .label = Latin
 fonts-langgroup-malayalam =
     .label = Malayalam
+fonts-langgroup-math =
+    .label = Matematika
 fonts-langgroup-odia =
     .label = Odia
 fonts-langgroup-sinhala =
@@ -67,8 +69,20 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = Nakaitutop
+    .accesskey = N
+fonts-default-serif =
+    .label = Serifa
+fonts-default-sans-serif =
+    .label = Awan-Serifa
 fonts-proportional-size = Kadakkel
     .accesskey = d
+fonts-serif = Serifa
+    .accesskey = S
+fonts-sans-serif = Awan-Serifa
+    .accesskey = A
+fonts-monospace = Agkakalawa
+    .accesskey = A
 fonts-monospace-size = Kadakkel
     .accesskey = K
 fonts-minsize = Kabassitan a sukat ti font
@@ -81,6 +95,8 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-auto =
+    .label = Sigud ti Agdama a Lokalidad
 fonts-languages-fallback-name-arabic =
     .label = Arabiko
 fonts-languages-fallback-name-baltic =
@@ -90,9 +106,9 @@ fonts-languages-fallback-name-ceiso =
 fonts-languages-fallback-name-cewindows =
     .label = Akintengnga nga Ewropa, Microsoft
 fonts-languages-fallback-name-simplified =
-    .label = Insik, Pinaababa
+    .label = Insik, Pinaababaan
 fonts-languages-fallback-name-traditional =
-    .label = Insik, Awid
+    .label = Insik, Nakaisigudan
 fonts-languages-fallback-name-cyrillic =
     .label = Siriliko
 fonts-languages-fallback-name-greek =
@@ -111,3 +127,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Bietnames
 fonts-languages-fallback-name-other =
     .label = Sabali (mairaman ti Akinlaud nga Ewropa)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Sigud ({ $name })
+fonts-label-default-unnamed =
+    .label = Sigud
