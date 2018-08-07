@@ -1031,12 +1031,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "توسیعات نا اہل بنائیں">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.header.message "آپکا ابتدائی صفحہ تبدیل کردیا گیا ہے۔">
 <!ENTITY homepageControlled.keepButton.label "تبدیلیاں برقرار رکھیں">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "توسیعات نا اہل بنائیں">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.keepButton.label "ٹیبس کو مخفی رکھیں">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "توسیعات نا اہل بنائیں">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "صفحہ اعمال">

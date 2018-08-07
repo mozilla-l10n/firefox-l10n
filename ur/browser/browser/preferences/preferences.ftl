@@ -503,6 +503,19 @@ addressbar-locbar-openpage-option =
     .label = ٹیب کھولیے
     .accesskey = ک
 
+## Privacy Section - Content Blocking
+
+content-blocking-learn-more = مزید سیکھیں
+content-blocking-restore-defaults =
+    .label = طےشدہ بحال کریں
+    .accesskey = R
+content-blocking-toggle-label-on = چالو
+    .accesskey = O
+content-blocking-toggle-label-off = بند
+    .accesskey = O
+content-blocking-fastblock-option-enabled =
+    .label = ہمیشہ بلاک کریں
+
 ## Privacy Section - Tracking
 
 tracking-header = سراغ کاری حفاظت
