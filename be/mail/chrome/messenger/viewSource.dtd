@@ -1,0 +1,50 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from content/viewSource.xul -->
+
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+
+<!ENTITY savePageCmd.label "Захаваць старонку як…">
+<!ENTITY savePageCmd.accesskey "я">
+<!ENTITY savePageCmd.commandkey "S">
+<!ENTITY pageSetupCmd.label "Наладзіць старонку…">
+<!ENTITY pageSetupCmd.accesskey "а">
+<!ENTITY printPreviewCmd.label "Перадпрагляд друку">
+<!ENTITY printPreviewCmd.accesskey "е">
+<!ENTITY printCmd.label "Друкаваць…">
+<!ENTITY printCmd.accesskey "Д">
+<!ENTITY printCmd.commandkey "P">
+<!ENTITY closeCmd.label "Закрыць">
+<!ENTITY closeCmd.accesskey "З">
+<!ENTITY closeCmd.commandkey "W">
+
+<!-- LOCALIZATION NOTE :
+textEnlarge.commandkey3, textReduce.commandkey2 and
+textReset.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
+<!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
+
+<!ENTITY goToLineCmd.label "Перайсці да радка…">
+<!ENTITY goToLineCmd.accesskey "П">
+<!ENTITY goToLineCmd.commandkey "l">
+
+<!ENTITY viewMenu.label           "Прагляд">
+<!ENTITY viewMenu.accesskey       "П">
+<!ENTITY reloadCmd.label "Перазагрузіць">
+<!ENTITY reloadCmd.accesskey "П">
+<!ENTITY reloadCmd.commandkey "r">
+
+
+
