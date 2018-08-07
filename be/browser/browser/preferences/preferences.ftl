@@ -635,15 +635,27 @@ addressbar-suggestions-settings = Змяніць налады для падка�
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Блакаванне змесціва
+content-blocking-desc = Блакаваць пабочнае змесціва, напрыклад, рэкламу або код, які можа запавольваць працу браўзера і сачыць за вамі ў інтэрнэце. Мяняйце налады для лепшага балансу абароны і прадукцыйнасці.
 content-blocking-learn-more = Падрабязней
 content-blocking-restore-defaults =
     .label = Аднавіць прадвызначаныя
     .accesskey = А
+content-blocking-toggle-on =
+    .tooltiptext = Выключыць блакаванне змесціва
+content-blocking-toggle-off =
+    .tooltiptext = Уключыць блакаванне змесціва
 content-blocking-toggle-label-on = Укл.
     .accesskey = У
 content-blocking-toggle-label-off = Выкл.
     .accesskey = В
 content-blocking-category-label = Выбраць, што блакаваць
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Павольныя элементы сачэння
+    .accesskey = П
+content-blocking-fastblock-description = Блакаваць пабочнае змесціва, загрузкі якога працягваецца больш за 5 секунд.
 content-blocking-fastblock-option-enabled =
     .label = Заўсёды блакаваць
 content-blocking-fastblock-option-disabled =
