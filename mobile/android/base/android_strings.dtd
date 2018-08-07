@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Tillat autoavspilling">
 <!ENTITY pref_media_autoplay_enabled_summary "Velg om nettsider kan automatisk spille av videoer og annet medieinnhold">
+<!ENTITY pref_media_autoplay_allow "Tillat autoavspilling">
+<!ENTITY pref_media_autoplay_block "Blokkere autoavspilling">
 <!ENTITY pref_zoom_force_enabled "Alltid slå på forstørring">
 <!ENTITY pref_zoom_force_enabled_summary "Tving overstyring, så du kan forstørre enhver side">
 <!ENTITY pref_voice_input "Stemmeinndata">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Fortsett avspilling">
 <!ENTITY pip_pause_button_title "Pause">
 <!ENTITY pip_pause_button_description "Pause avspilling">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName;-stedstjeneste">
