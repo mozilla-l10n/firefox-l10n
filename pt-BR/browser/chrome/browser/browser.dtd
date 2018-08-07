@@ -102,7 +102,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Trabalhar off-line">
+<!ENTITY goOfflineCmd.label "Trabalhar desconectado">
 <!ENTITY goOfflineCmd.accesskey "o">
 
 <!ENTITY menubarCmd.label "Barra de menu">
