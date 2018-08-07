@@ -34,8 +34,8 @@
 <!ENTITY notCached.title "Documento fora de validade">
 <!ENTITY notCached.longDesc "<p>O documento solicitado não está mais no cache de navegação.</p><ul><li>Como precaução de segurança, documentos contendo informações confidenciais não são solicitados automaticamente.</li><li>Clique em “Tentar de novo” para solicitar mais uma vez o documento do site.</li></ul>">
 
-<!ENTITY netOffline.title "Modo offline">
-<!ENTITY netOffline.longDesc2 "<p>O navegador está no modo offline e não pode conectar-se ao item solicitado.</p><ul><li>O computador está conectado a uma rede ativa?</li><li>Pressione “Tentar de novo” para sair do modo offline e recarregar a página.</li></ul>">
+<!ENTITY netOffline.title "Modo desconectado">
+<!ENTITY netOffline.longDesc2 "<p>O navegador está no modo desconectado e não pode conectar-se ao item solicitado.</p><ul><li>O computador está conectado a uma rede ativa?</li><li>Pressione &quot;Tentar novamente&quot; para mudar para modo conectado e recarregar a página.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Erro na codificação do conteúdo">
 <!ENTITY contentEncodingError.longDesc "<p>A página que você está tentando ver não pode ser exibida porque usa uma forma de compactação não suportada ou inválida.</p><ul><li>Entre em contato com os responsáveis pelo site para informar o problema.</li></ul>">
