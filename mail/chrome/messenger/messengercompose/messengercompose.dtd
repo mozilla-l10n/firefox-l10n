@@ -88,9 +88,19 @@
 <!ENTITY reorderAttachmentsCmd.label "Presloži privitke…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Okno privitka">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "o">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Označi sve">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Traži…">
 <!ENTITY findBarCmd.accesskey "T">
 <!ENTITY findBarCmd.key "T">
@@ -109,26 +119,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Presloži privitke">
 <!ENTITY moveAttachmentTopPanelBtn.label "Pomakni na vrh">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "v">
 <!ENTITY moveAttachmentUpPanelBtn.label "Pomakni gore">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "g">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Pomakni zajedno">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "z">
 <!ENTITY moveAttachmentDownPanelBtn.label "Pomakni dolje">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "d">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Pomakni na dno">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "n">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Poredaj odabir: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "o">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Poredaj odabir: Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "o">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -252,7 +246,7 @@
 <!ENTITY sendlaterButton.tooltip "Pošalji poruku kasnije">
 <!ENTITY quoteButton.tooltip "Citiraj prethodnu poruku">
 <!ENTITY addressButton.tooltip "Odaberi primatelja iz adresara">
-<!ENTITY attachButton.tooltip "Uključi privitak">
+<!ENTITY attachButton.tooltip2 "Dodaj privitak">
 <!ENTITY spellingButton.tooltip "Provjeri pravopis odabranog teksta ili cijele poruke">
 <!ENTITY saveButton.tooltip "Spremi ovu poruku">
 <!ENTITY cutButton.tooltip              "Izreži">
@@ -274,9 +268,15 @@
 <!ENTITY followupAddr.label "Nastavak - za:">
 <!ENTITY subject.label "Naslov:">
 <!ENTITY subject.accesskey "s">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "t">
+<!ENTITY attachmentBucketHeader.tooltip "Okno privitka">
+<!ENTITY attachmentBucketCloseButton.tooltip "Sakrij okno privitka">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Umetni smješka">
@@ -314,6 +314,7 @@
 <!ENTITY pasteQuote.label "Zalijepi kao citat">
 <!ENTITY pasteQuote.accesskey "c">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Otvori">
 <!ENTITY openAttachment.accesskey "t">
 <!ENTITY delete.label "Obriši">
@@ -324,6 +325,8 @@
 <!ENTITY renameAttachment.accesskey "r">
 <!ENTITY reorderAttachments.label "Presloži privitke…">
 <!ENTITY reorderAttachments.accesskey "s">
+<!ENTITY removeAllAttachments.label "Ukloni sve privitke">
+<!ENTITY removeAllAttachments.accesskey "l">
 <!ENTITY selectAll.label "Odaberi sve">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Priloži datoteke…">
@@ -339,6 +342,13 @@
 <!ENTITY attachPage.label "Priloži web stranicu…">
 <!ENTITY attachPage.accesskey "w">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Prikaži okno privitka odmah">
+<!ENTITY initiallyShowAttachmentPane.accesskey "k">
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Dodaj rječnike…">
 <!ENTITY spellAddDictionaries.accesskey "D">
@@ -349,6 +359,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Prilagođena adresa pošiljatelja…">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Tijelo poruke">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Jezik za provjeru pravopisa">
