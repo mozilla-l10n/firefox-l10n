@@ -36,6 +36,8 @@
 <!ENTITY newFeedAccountCmd.accesskey "ж">
 <!ENTITY newIMContactCmd.label "Гутарковая сувязь…">
 <!ENTITY newIMContactCmd.accesskey "г">
+<!ENTITY  newMessageCmd.label "Паведамленне">
+<!ENTITY  newMessageCmd.accesskey "П">
 <!ENTITY openMessageFileCmd.label "Адкрыць захаваны ліст…">
 <!ENTITY openMessageFileCmd.accesskey "А">
 <!ENTITY saveAsMenu.label "Захаваць як">
@@ -507,8 +509,6 @@
 <!ENTITY devToolboxCmd.label "Панэль распрацоўшчыка">
 <!ENTITY devToolboxCmd.accesskey "П">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Адладчык дадаткаў">
-<!ENTITY addonDebugCmd.accesskey "А">
 <!ENTITY debugAddonsCmd.label "Адладка дадаткаў">
 <!ENTITY debugAddonsCmd.accesskey "А">
 <!ENTITY tabsDebugCmd.label "Адладчык фрэйма змесціва">
@@ -866,7 +866,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
