@@ -71,6 +71,8 @@ fonts-proportional-size = Kadakkel
     .accesskey = d
 fonts-monospace-size = Kadakkel
     .accesskey = K
+fonts-minsize = Kabassitan a sukat ti font
+    .accesskey = f
 fonts-minsize-none =
     .label = Awan
 
@@ -79,12 +81,18 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-name-arabic =
+    .label = Arabiko
 fonts-languages-fallback-name-baltic =
     .label = Baltiko
 fonts-languages-fallback-name-ceiso =
     .label = Akintengnga nga Ewropa, ISO
 fonts-languages-fallback-name-cewindows =
     .label = Akintengnga nga Ewropa, Microsoft
+fonts-languages-fallback-name-simplified =
+    .label = Insik, Pinaababa
+fonts-languages-fallback-name-traditional =
+    .label = Insik, Awid
 fonts-languages-fallback-name-cyrillic =
     .label = Siriliko
 fonts-languages-fallback-name-greek =
