@@ -647,7 +647,7 @@ context menu items are mutually exclusive. -->
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copiar endereço do áudio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Copiar e-mail">
+<!ENTITY copyEmailCmd.label           "Copiar endereço do e-mail">
 <!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
@@ -1048,7 +1048,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Baixar uma nova cópia do &brandShorterName;">
 
-<!ENTITY updateRestart.message2 "Após um reinício rápido, &brandShorterName; irá restaurar todas as suas abas abertas e janelas que não sejam de Navegação Privativa.">
+<!ENTITY updateRestart.message2 "Após um reinício rápido, o &brandShorterName; irá restaurar todas as suas abas e janelas abertas que não sejam de Navegação Privativa.">
 <!ENTITY updateRestart.header.message2 "Reinicie para atualizar o &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reiniciar e restaurar">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
