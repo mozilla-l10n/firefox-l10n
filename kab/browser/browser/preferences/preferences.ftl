@@ -202,6 +202,8 @@ choose-language-description = Fren tutlayt tebɣiḍ i uskan n isebtar
 choose-button =
     .label = Fren…
     .accesskey = F
+choose-browser-language-description = Fren tutlayin i uskan n wumuɣen, iznan, akk d ilɣa seg { -brand-short-name }.
+confirm-browser-language-change-description = Ales asenker i tikelt nniḍen { -brand-short-name } i isnifal-agi
 translate-web-pages =
     .label = Suqel agbur web
     .accesskey = S
@@ -629,8 +631,21 @@ addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Asewḥel n ugbur
 content-blocking-learn-more = Issin ugar
+content-blocking-toggle-on =
+    .tooltiptext = Kkes asewḥel n ugbur
+content-blocking-toggle-off =
+    .tooltiptext = Rmed asewḥel n ugbur
 content-blocking-category-label = Fren ayen ad tesweḥleḍ
+content-blocking-fastblock-option-enabled =
+    .label = Sewḥel yal tikelt
+content-blocking-fastblock-option-disabled =
+    .label = Ur sewḥal ara
+content-blocking-tracking-protection-option-enabled =
+    .label = Sewḥal yal tikelt
+content-blocking-tracking-protection-option-pbm =
+    .label = Sewḥel deg usfaylu uslig kan
 content-blocking-tracking-protection-change-blocklist = Snifel tabdart n usewḥel…
 
 ## Privacy Section - Tracking
