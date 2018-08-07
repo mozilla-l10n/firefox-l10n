@@ -206,10 +206,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY backCmd.label                "Enrere">
 <!ENTITY backCmd.accesskey            "r">
-<!ENTITY backButton.tooltip           "Pàgina anterior">
+<!ENTITY backButton.tooltip           "Vés una pàgina enrere">
 <!ENTITY forwardCmd.label             "Endavant">
 <!ENTITY forwardCmd.accesskey         "d">
-<!ENTITY forwardButton.tooltip        "Pàgina següent">
+<!ENTITY forwardButton.tooltip        "Vés una pàgina endavant">
 <!ENTITY backForwardButtonMenu.tooltip "Premeu amb el botó dret o arrossegueu cap avall per veure l'historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrossegueu cap avall per veure l'historial">
 <!ENTITY reloadCmd.label              "Actualitza">
