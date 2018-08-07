@@ -57,6 +57,9 @@ permissions-exceptions-tracking-protection-desc = आपण ह्या पृ�
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = अपवाद - कुकीज व साईट माहिती
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
