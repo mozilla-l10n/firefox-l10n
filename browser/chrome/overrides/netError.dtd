@@ -199,7 +199,7 @@ certificado.">
 <!ENTITY inadequateSecurityError.title "Sua conexão não é segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa uma tecnologia de segurança que está ultrapassada e vulnerável a ataques. Um cracker poderia facilmente coletar informações enquanto você acreditava estar seguro. O administrador do website precisa consertar essa brecha no servidor antes de você poder visitar esse site.</p><p>Código de Erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa uma tecnologia de segurança que está ultrapassada e vulnerável a ataques. Um invasor poderia facilmente coletar informações que você acreditava estar seguras. O administrador do site precisa consertar o servidor antes de você poder visitar o site.</p><p>Código de erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Página bloqueada">
 
