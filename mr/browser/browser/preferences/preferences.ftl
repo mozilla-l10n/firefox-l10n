@@ -78,6 +78,9 @@ restart-later = नंतर पुनःसुरु करा
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
 extension-controlled-homepage-override = एक विस्तार, <img data-l10n-name="icon"/> { $name }, आपले मुख्य पृष्ठ नियंत्रित करत आहे.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = एक विस्तारण, <img data-l10n-name="icon"/> { $name }, आपले नवीन टॅब पृष्ठ संचालित करत आहे.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = एक एक्स्टेंशन, <img data-l10n-name="icon"/> { $name }, ने आपले शोध इंजिन सेट केले आहे.
@@ -87,6 +90,9 @@ extension-controlled-privacy-containers = एक विस्तार, <img dat
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = एक एक्स्टेंशन, <img data-l10n-name="icon"/> { $name }, ट्रॅकिंग संरक्षण नियंत्रित करत आहे.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = एक विस्तारण, <img data-l10n-name="icon"/> { $name }, { -brand-short-name } इंटरनेट ला जोडणी कसे करते ते संचालित करत आहे.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -123,6 +129,9 @@ is-not-default = { -brand-short-name } सध्या आपले पूर्
 set-as-my-default-browser =
     .label = पूर्वनिर्धारित बनवा…
     .accesskey = D
+startup-restore-previous-session =
+    .label = मागील सत्र पूर्वस्थितीत आणा
+    .accesskey = s
 disable-extension =
     .label = वाढीव कार्यक्रम निष्क्रिय करा
 tabs-group-header = टॅब्ज
@@ -193,6 +202,9 @@ choose-language-description = पृष्ठ दाखवण्याकरि�
 choose-button =
     .label = निवडा…
     .accesskey = o
+choose-browser-language-description = { -brand-short-name } चा मेनू, संदेश, आणि सुचना दर्शवणारी भाषा ठरवा.
+confirm-browser-language-change-description = हे बदल लागू करण्यासाठी { -brand-short-name } पुन्हा सुरु करा
+confirm-browser-language-change-button = लागू करून पुन्हा सुरु करा
 translate-web-pages =
     .label = वेब अंतर्भुत माहिती भाषांतरीत करा
     .accesskey = T
@@ -307,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = नेटवर्क प्रॉक्सी
+network-proxy-connection-description = { -brand-short-name } इंटरनेटशी जोडणी कशी करतो ते संरचीत करा.
 network-proxy-connection-learn-more = आणखी जाणा
 network-proxy-connection-settings =
     .label = सेटिंग्ज…
@@ -547,6 +560,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = माझी ब्राऊजिंग व डाऊनलोड इतिहास लक्षात ठेवा
     .accesskey = b
+history-remember-browser-option =
+    .label = ब्राऊजिंग व डाऊनलोड इतिहास लक्षात ठेवा
+    .accesskey = b
 history-remember-search-option =
     .label = शोध व फॉर्म इतिहास लक्षात ठेवा
     .accesskey = f
@@ -563,6 +579,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = कुकीज आणि साईट डेटा
+sitedata-total-size-calculating = कॅश आणि साईट माहितीच्या आकाराची गणना करत आहे...
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = आपण साठवलेल्या कुकीज, साईट माहिती आणि कॅश सध्या { $value } { $unit } इतकी जागा डिस्कवर व्याप्त करत आहेत
 sitedata-learn-more = आणखी जाणा
 sitedata-accept-cookies-option =
     .label = संकेतस्थळावरून कुकीज आणि साईट डेटा स्वीकारा (शिफारस).
@@ -608,6 +629,10 @@ addressbar-locbar-openpage-option =
     .label = टॅब्स उघडा
     .accesskey = O
 addressbar-suggestions-settings = शोध इंजिनसाठी सूचना प्राधान्यता बदला
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = मजकूर अडवणी
 
 ## Privacy Section - Tracking
 
