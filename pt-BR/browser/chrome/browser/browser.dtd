@@ -1076,8 +1076,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Ações da página">
-<!ENTITY pageAction.addToUrlbar.label "Adicionar na barra de endereço">
-<!ENTITY pageAction.removeFromUrlbar.label "Remover da barra de endereço">
+<!ENTITY pageAction.addToUrlbar.label "Adicionar à barra de endereços">
+<!ENTITY pageAction.removeFromUrlbar.label "Remover da barra de endereços">
 <!ENTITY pageAction.allowInUrlbar.label "Mostrar na barra de endereço">
 <!ENTITY pageAction.disallowInUrlbar.label "Não mostrar na barra de endereço">
 <!ENTITY pageAction.manageExtension.label "Gerenciar extensão…">
