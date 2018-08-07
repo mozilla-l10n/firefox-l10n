@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "தானியக்கத்தை அனுமதி">
 <!ENTITY pref_media_autoplay_enabled_summary "வலைத்தளங்கள் தானாக காணொளிகளையும் பிற ஊடங்களையும் இயக்கினால் கட்டுப்படுத்தவும்">
+<!ENTITY pref_media_autoplay_allow "தானியக்கத்தை அனுமதி">
+<!ENTITY pref_media_autoplay_block "தானியக்கத்தை தடு">
 <!ENTITY pref_zoom_force_enabled "அளவுமாற்றதை எப்பொழுதும் செயல்படுத்து">
 <!ENTITY pref_zoom_force_enabled_summary "கட்டாய புறக்கணித்தல் மூலம் எந்தப் பக்கத்தையும் பெரிதாக்க முடியும்">
 <!ENTITY pref_voice_input "குரல் உள்ளீடு">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "மீண்டும் இயக்கத்திற்கு செல்">
 <!ENTITY pip_pause_button_title "நிறுத்து">
 <!ENTITY pip_pause_button_description "இயக்கத்தை நிறுத்து">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; இடமறியும் சேவை">
