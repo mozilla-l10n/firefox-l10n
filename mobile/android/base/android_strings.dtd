@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Leyfa sjálfvirka afspilun">
 <!ENTITY pref_media_autoplay_enabled_summary "Stjórna hvort vefsvæði geta sjálfvirkt spilað myndbönd og aðra miðla">
+<!ENTITY pref_media_autoplay_allow "Leyfa sjálfspilun">
+<!ENTITY pref_media_autoplay_block "Banna sjálfspilun">
 <!ENTITY pref_zoom_force_enabled "Alltaf virkja stækkun">
 <!ENTITY pref_zoom_force_enabled_summary "Neyða yfirtöku svo þú getir stækkað allar síður">
 <!ENTITY pref_voice_input "Innlestur með rödd">
@@ -447,6 +449,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Hrunaskýrsla">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Staðsetningar þjónusta">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Hjálpa &vendorShortName; teikna heiminn! Deildu grófri WiFi og GSM staðsetningu þinni til að bæta staðsetningarþjónustu okkar.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; staðsetningarþjónusta í gangi">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +895,14 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Bæta við á ræsisíðu">
 <!ENTITY pwa_continue_to_website "Halda áfram á vefsvæði">
 <!ENTITY pwa_onboarding_sumo "Þú getur á auðveldan hátt bætt þessu vefsvæði á ræsiskjáinn þinn, á sama hátt og smáforrit eru þar, fyrir auðveldari aðgengi og hraðari vöfrun.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Spila">
+<!ENTITY pip_play_button_description "Halda áfram að spila">
+<!ENTITY pip_pause_button_title "Stöðva">
+<!ENTITY pip_pause_button_description "Stöðva spilun">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; staðsetningarþjónusta">
