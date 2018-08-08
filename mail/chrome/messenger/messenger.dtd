@@ -203,8 +203,8 @@
 <!ENTITY sortByRecipientCmd.accesskey "i">
 <!ENTITY sortByCorrespondentCmd.label "Interlocutors">
 <!ENTITY sortByCorrespondentCmd.accesskey "n">
-<!ENTITY sortByUnreadCmd.label "Pendent de llegir">
-<!ENTITY sortByUnreadCmd.accesskey "l">
+<!ENTITY sortByUnreadCmd.label "Llegit">
+<!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Ordre de recepció">
 <!ENTITY sortByOrderReceivedCmd.accesskey "r">
 <!ENTITY sortAscending.label "Ascendent">
@@ -954,7 +954,7 @@
 <!ENTITY minimizeWindow.label "Minimitza la finestra">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Porta-ho tot al davant">
-<!ENTITY zoomWindow.label "Finestra del zoom">
+<!ENTITY zoomWindow.label "Zoom">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "Preferències">
