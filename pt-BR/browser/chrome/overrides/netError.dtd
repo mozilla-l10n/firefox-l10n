@@ -21,7 +21,7 @@
 <!ENTITY deniedPortAccess.title "Endereço restrito">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.pageTitle "Servidor Não Encontrado">
+<!ENTITY dnsNotFound.pageTitle "Servidor não encontrado">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Estamos tendo problemas para encontrar este site.">
 <!ENTITY dnsNotFound.longDesc1 "<strong>Se este endereço estiver correto, aqui estão outras coisas que você pode tentar:</strong>
