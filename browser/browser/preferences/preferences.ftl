@@ -275,7 +275,7 @@ performance-allow-hw-accel =
     .accesskey = a
 performance-limit-content-process-option = Batas proses konten
     .accesskey = P
-performance-limit-content-process-enabled-desc = Proses konten tambahan dapat meningkatkan performa ketika menggunakan multipel tab, tetapi juga akan menggunakan lebih banyak memori.
+performance-limit-content-process-enabled-desc = Proses konten tambahan dapat meningkatkan performa ketika menggunakan banyak tab, tetapi juga akan menggunakan lebih banyak memori.
 performance-limit-content-process-blocked-desc = Memodifikasi jumlah proses konten hanya bisa dengan multiproses { -brand-short-name }. <a data-l10n-name="learn-more">Pelajari cara mengecek jika multiproses diaktifkan</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -614,6 +614,9 @@ addressbar-locbar-openpage-option =
     .label = Tab terbuka
     .accesskey = T
 addressbar-suggestions-settings = Ubah preferensi untuk saran mesin pencari
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
