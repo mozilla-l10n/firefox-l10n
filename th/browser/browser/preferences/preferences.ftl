@@ -618,6 +618,36 @@ addressbar-locbar-openpage-option =
     .accesskey = บ
 addressbar-suggestions-settings = เปลี่ยนค่ากำหนดข้อเสนอแนะจากเครื่องมือค้นหา
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = การปิดกั้นเนื้อหา
+content-blocking-learn-more = เรียนรู้เพิ่มเติม
+content-blocking-restore-defaults =
+    .label = เรียกคืนค่าเริ่มต้น
+    .accesskey = ร
+content-blocking-toggle-on =
+    .tooltiptext = ปิดการปิดกั้นเนื้อหา
+content-blocking-toggle-off =
+    .tooltiptext = เปิดการปิดกั้นเนื้อหา
+content-blocking-toggle-label-on = เปิด
+    .accesskey = ป
+content-blocking-toggle-label-off = ปิด
+    .accesskey = ป
+content-blocking-category-label = เลือกสิ่งที่จะปิดกั้น
+content-blocking-fastblock-option-enabled =
+    .label = ปิดกั้นเสมอ
+content-blocking-fastblock-option-disabled =
+    .label = ไม่ปิดกั้นเสมอ
+content-blocking-tracking-protection-label = ตัวติดตาม
+    .accesskey = ต
+content-blocking-tracking-protection-option-enabled =
+    .label = ปิดกั้นเสมอ
+content-blocking-tracking-protection-option-pbm =
+    .label = ปิดกั้นเฉพาะในหน้าต่างส่วนตัว
+content-blocking-tracking-protection-option-disabled =
+    .label = ไม่ปิดกั้นเสมอ
+content-blocking-tracking-protection-change-blocklist = เปลี่ยนรายการปิดกั้น…
+
 ## Privacy Section - Tracking
 
 tracking-header = การป้องกันการติดตาม
