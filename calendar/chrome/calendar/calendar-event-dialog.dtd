@@ -27,7 +27,7 @@
 <!ENTITY newevent.status.completed.label          "Acabada el dia" >
 
 <!-- The following entity is for New Task dialog only -->
-<!ENTITY newtodo.percentcomplete.label      "&#037; acabada">
+<!ENTITY newtodo.percentcomplete.label      "&#37; acabada">
 
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
@@ -215,7 +215,7 @@
 <!ENTITY task.from.accesskey                              "I">
 <!ENTITY event.to.label                                   "Fi:" >
 <!ENTITY event.to.accesskey                               "F">
-<!ENTITY task.to.label                                    "Venciment:" >
+<!ENTITY task.to.label                                    "Data de venciment:" >
 <!ENTITY task.to.accesskey                                "V">
 <!ENTITY task.status.label                                "Estat:" >
 <!ENTITY task.status.accesskey                            "E">
@@ -407,7 +407,7 @@
 <!ENTITY read.only.location.label        "Ubicació:">
 <!ENTITY read.only.category.label        "Categoria:">
 <!ENTITY read.only.organizer.label       "Organitzador:">
-<!ENTITY read.only.reminder.label        "Recorda-m'ho:">
+<!ENTITY read.only.reminder.label        "Recordatori:">
 <!ENTITY read.only.attachments.label     "Adjuncions:">
 <!ENTITY read.only.attendees.label       "Assistents">
 <!ENTITY read.only.description.label     "Descripció">

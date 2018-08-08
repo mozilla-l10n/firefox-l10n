@@ -35,7 +35,7 @@
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Ordena per prioritat">
 <!ENTITY calendar.unifinder.tree.title.label               "Títol">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "Ordena per títol">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; acabada">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; acabada">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ordena per &#37; acabada">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Inici">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Ordena per data d'inici">
@@ -78,12 +78,12 @@
 <!ENTITY calendar.nextmonth.accesskey           "s" >
 <!ENTITY calendar.prevmonth.accesskey           "a" >
 
-<!ENTITY calendar.navigation.nextday.tooltip    "Un dia després" >
-<!ENTITY calendar.navigation.prevday.tooltip    "Un dia abans" >
-<!ENTITY calendar.navigation.nextweek.tooltip   "Una setmana després" >
-<!ENTITY calendar.navigation.prevweek.tooltip   "Una setmana abans" >
-<!ENTITY calendar.navigation.nextmonth.tooltip  "Un mes després" >
-<!ENTITY calendar.navigation.prevmonth.tooltip  "Un mes abans" >
+<!ENTITY calendar.navigation.nextday.tooltip    "Dia següent" >
+<!ENTITY calendar.navigation.prevday.tooltip    "Dia anterior" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "Setmana següent" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "Setmana anterior" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "Mes següent" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "Mes anterior" >
 
 <!ENTITY calendar.newevent.button.label         "Cita nova" >
 <!ENTITY calendar.newtask.button.label          "Tasca nova" >
