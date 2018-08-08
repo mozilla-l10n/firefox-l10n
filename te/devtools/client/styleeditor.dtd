@@ -58,7 +58,7 @@
 <!ENTITY noStyleSheet-tip-start.label  "బహశా మీరు కొత్త శైలిషీట్‌ను ">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-action.label): This is text for the
      link that triggers creation of a new stylesheet. -->
-<!ENTITY noStyleSheet-tip-action.label "జేర్చుటకు యిష్టపడవచ్చు">
+<!ENTITY noStyleSheet-tip-action.label "ఒక కొత్త శైలి షీటును జోడించు">
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
 
