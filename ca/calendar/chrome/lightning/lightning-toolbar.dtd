@@ -17,28 +17,28 @@
 <!ENTITY lightning.toolbar.gototoday.tooltip "Vés a avui">
 <!ENTITY lightning.toolbar.print.label "Imprimeix">
 <!ENTITY lightning.toolbar.print.tooltip "Imprimeix cites o tasques">
-<!-- Mode Toolbar -->
 
+<!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Calendari">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Mostra la pestanya del calendari">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label         "Tasques">
 <!ENTITY lightning.toolbar.task.tooltip       "Mostra la pestanya de les tasques">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
-<!-- Toolbar write button -->
 
+<!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Cita">
 <!ENTITY lightning.toolbar.newevent.tooltip   "Crea una cita nova">
 <!ENTITY lightning.toolbar.newtask.label      "Tasca">
 <!ENTITY lightning.toolbar.newtask.tooltip    "Crea una tasca nova">
-<!-- Calendar and Task Mode Toolbar -->
 
+<!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dia">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
 <!ENTITY lightning.toolbar.week.label                "Setmana">
 <!ENTITY lightning.toolbar.week.accesskey            "S">
-<!ENTITY lightning.toolbar.multiweek.label           "Diverses setmanes">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "v">
+<!ENTITY lightning.toolbar.multiweek.label           "Multisetmana">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
 <!ENTITY lightning.toolbar.month.label               "Mes">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
