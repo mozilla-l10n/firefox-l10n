@@ -7,8 +7,8 @@
 <!ENTITY gdata.privacy.default.label "Per defecte de Google">
 <!ENTITY gdata.privacy.default.accesskey "d">
 
-<!ENTITY gdata.migration.title "Migració de calendaris de només lectura">
-<!ENTITY gdata.migration.description "El proveïdor del Google Calendar ha detectat que teniu calendaris que només poden accedir al Google Calendar en mode de només lectura. Si voleu actualitzar cap d'aquests calendaris, seleccioneu-los més avall">
+<!ENTITY gdata.migration.title "Migració de calendaris només de lectura">
+<!ENTITY gdata.migration.description "El proveïdor del Google Calendar ha detectat que teniu calendaris que només poden accedir al Google Calendar en mode només de lectura. Si voleu actualitzar cap d'aquests calendaris, seleccioneu-los a continuació">
 <!ENTITY gdata.migration.upgrade.label "Actualitza">
 <!ENTITY gdata.migration.upgrade.accesskey "A">
 <!ENTITY gdata.migration.showagain.label "Comprova-ho sempre ">
