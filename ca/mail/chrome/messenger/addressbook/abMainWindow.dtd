@@ -243,4 +243,4 @@ because displayed names don't have the comma in between. -->
 <!ENTITY minimizeWindow.label                           "Minimitza la finestra">
 <!ENTITY minimizeWindow.key                             "m">
 <!ENTITY bringAllToFront.label                          "Porta-ho tot al davant">
-<!ENTITY zoomWindow.label                               "Finestra del zoom">
+<!ENTITY zoomWindow.label                               "Zoom">
