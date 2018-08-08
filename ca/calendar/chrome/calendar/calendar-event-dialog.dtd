@@ -407,11 +407,6 @@
 <!ENTITY read.only.location.label        "Ubicació:">
 <!ENTITY read.only.category.label        "Categoria:">
 <!ENTITY read.only.organizer.label       "Organitzador:">
-<!ENTITY read.only.reply.label           "Respon:">
-<!ENTITY read.only.accept.label          "Hi assistiré">
-<!ENTITY read.only.decline.label         "No hi assistiré">
-<!ENTITY read.only.tentative.label       "Potser hi assistiré">
-<!ENTITY read.only.needs.action.label    "Ho confirmaré més tard">
 <!ENTITY read.only.reminder.label        "Recorda-m'ho:">
 <!ENTITY read.only.attachments.label     "Adjuncions:">
 <!ENTITY read.only.attendees.label       "Assistents">
@@ -420,6 +415,7 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Desa i tanca">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Desa els canvis i tanca la finestra sense canviar el vostre estat de participació ni enviar cap resposta">
 <!ENTITY summary.dialog.accept.label            "Accepta">
 <!ENTITY summary.dialog.accept.tooltiptext      "Accepta la invitació">
 <!ENTITY summary.dialog.tentative.label         "Provisional">
@@ -427,4 +423,6 @@
 <!ENTITY summary.dialog.decline.label           "Declina">
 <!ENTITY summary.dialog.decline.tooltiptext     "Declina la invitació">
 <!ENTITY summary.dialog.dontsend.label          "No enviïs cap resposta">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Canvia el vostre estat de participació sense enviar cap resposta a l'organitzador i tanca la finestra">
 <!ENTITY summary.dialog.send.label              "Envia una resposta ara">
+<!ENTITY summary.dialog.send.tooltiptext        "Envia una resposta a l'organitzador i tanca la finestra">

@@ -87,6 +87,8 @@
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Envia una resposta a l'organitzador">
 <!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Envia una resposta a l'organitzador per a tota la sèrie">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "No enviïs cap resposta">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Canvia el vostre estat de participació sense enviar cap resposta a l'organitzador">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Canvia el vostre estat de participació de tota la sèrie sense enviar cap resposta a l'organitzador">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
