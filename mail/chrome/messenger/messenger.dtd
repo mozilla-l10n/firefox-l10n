@@ -191,7 +191,7 @@
 <!ENTITY sortBySizeCmd.accesskey "M">
 <!ENTITY sortByStatusCmd.label "Estat">
 <!ENTITY sortByStatusCmd.accesskey "E">
-<!ENTITY sortByTagsCmd.label "Etiqueta">
+<!ENTITY sortByTagsCmd.label "Etiquetes">
 <!ENTITY sortByTagsCmd.accesskey "q">
 <!ENTITY sortByJunkStatusCmd.label "Estat del correu brossa">
 <!ENTITY sortByJunkStatusCmd.accesskey "b">

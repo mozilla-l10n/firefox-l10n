@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- for SearchDialog.xul -->
 
+<!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Cerca missatges a:">
 <!ENTITY searchHeading.accesskey     "m">
 <!ENTITY searchSubfolders.label      "Cerca en subcarpetes">
@@ -19,24 +19,24 @@
 <!ENTITY results.label               "Resultats">
 <!ENTITY moveButton.label            "Mou a">
 <!ENTITY moveButton.accesskey        "u">
-<!ENTITY closeCmd.key                "W"> 
+<!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Obre a la carpeta">
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Desa com una carpeta de cerca">
 <!ENTITY saveAsVFButton.accesskey    "D">
-<!-- for ABSearchDialog.xul -->
 
+<!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Cerca a:">
 <!ENTITY abSearchHeading.accesskey   "e">
-<!ENTITY propertiesButton.label      "Propietats…">
+<!ENTITY propertiesButton.label      "Propietats">
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Redacta">
 <!ENTITY composeButton.accesskey     "d">
 <!ENTITY deleteCardButton.label      "Suprimeix">
 <!ENTITY deleteCardButton.accesskey  "u">
 <!ENTITY abSearchDialogTitle.label   "Cerca avançada de la llibreta d'adreces">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Conversa">
 <!ENTITY fromColumn.label "Remitent">
 <!ENTITY recipientColumn.label "Destinatari">
@@ -56,8 +56,8 @@
 <!ENTITY starredColumn.label "Destacat">
 <!ENTITY locationColumn.label "Ubicació">
 <!ENTITY idColumn.label "Ordre de recepció">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Tria les columnes que es mostraran">
 <!ENTITY threadColumn2.tooltip "Mostra les converses de missatges">
 <!ENTITY fromColumn2.tooltip "Ordena per remitent">

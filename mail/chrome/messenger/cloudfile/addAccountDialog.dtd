@@ -10,4 +10,4 @@
 <!ENTITY addAccountDialog.authorizing "S'està comprovant l'autorització…">
 <!ENTITY addAccountDialog.error "S'ha produït un error mentre es configurava el compte!">
 <!ENTITY addAccountDialog.acceptButton.label "Configura un compte">
-<!ENTITY addAccountDialog.learnMore "Més informació...">
+<!ENTITY addAccountDialog.learnMore "Més informació…">
