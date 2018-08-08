@@ -178,6 +178,7 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Assistència">
 <!ENTITY calendar.context.attendance.menu.accesskey             "A">
 <!ENTITY calendar.context.attendance.occurrence.label           "Aquesta ocurrència">
+<!ENTITY calendar.context.attendance.all2.label                 "Sèrie completa">
 <!ENTITY calendar.context.attendance.send.label                 "Envia una notificació ara">
 <!ENTITY calendar.context.attendance.dontsend.label             "No enviïs cap notificació">
 
