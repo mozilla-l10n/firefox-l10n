@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
      there are no results that match the search query. -->
-<!ENTITY glodaFacetView.empty.label "No s'han trobat missatges">
+<!ENTITY glodaFacetView.empty.label "No hi ha cap missatge que coincideixi amb la cerca">
 
 <!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
      of the results list to show more hits. -->
