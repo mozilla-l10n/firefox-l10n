@@ -633,6 +633,39 @@ addressbar-suggestions-settings = शोध इंजिनसाठी सू�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = मजकूर अडवणी
+content-blocking-learn-more = अधिक जाणून घ्या
+content-blocking-restore-defaults =
+    .label = पूर्वनिर्धारित स्थितीत आणा
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = मजकूर अवरोध बंद करा
+content-blocking-toggle-off =
+    .tooltiptext = मजकूर अवरोध सुरु करा
+content-blocking-toggle-label-on = सुरु
+    .accesskey = O
+content-blocking-toggle-label-off = बंद
+    .accesskey = O
+content-blocking-category-label = काय अडवायचे ते निवडा
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = मागोवा घटक मंद करा
+    .accesskey = S
+content-blocking-fastblock-description = लोड होण्यास 5 सेकंदाहून अधिक वेळ घेणारा त्रयस्थ मजकूर अवरोधित करा.
+content-blocking-fastblock-option-enabled =
+    .label = नेहमी आडवा
+content-blocking-fastblock-option-disabled =
+    .label = कधीच अडवू नका
+content-blocking-tracking-protection-label = मागोवा घेणारे
+    .accesskey = T
+content-blocking-tracking-protection-description = सर्व ज्ञात मागोवा घेणारे घटक अडवते(टीप: काही पृष्ठ लोड होणार नाहीत).
+content-blocking-tracking-protection-option-enabled =
+    .label = नेहमी आडवा
+content-blocking-tracking-protection-option-pbm =
+    .label = फक्त खाजगी पटलामध्ये आडवा
+content-blocking-tracking-protection-option-disabled =
+    .label = कधीच अडवू नका
+content-blocking-tracking-protection-change-blocklist = अवरोधित सूची बदला…
 
 ## Privacy Section - Tracking
 
@@ -687,6 +720,10 @@ permissions-block-autoplay-media-exceptions =
     .accesskey = E
 autoplay-option-ask =
     .label = नेहमी विचारा
+autoplay-option-allow =
+    .label = ऑटोप्ले ला परवानगी द्या
+autoplay-option-dont =
+    .label = ऑटोप्ले करू नका
 permissions-block-popups =
     .label = पॉपअप पटल अडवा
     .accesskey = B
