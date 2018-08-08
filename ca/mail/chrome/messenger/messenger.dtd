@@ -701,7 +701,7 @@
 <!ENTITY searchSubjectOrFromMenu.label "Assumpte o remitent">
 <!ENTITY searchRecipient.label "A o Cc">
 <!ENTITY searchSubjectOrRecipientMenu.label "Assumpte, A o Cc">
-<!ENTITY searchMessageBody.label "Cos del missatge">
+<!ENTITY searchMessageBody.label "Tot el missatge">
 <!ENTITY saveAsVirtualFolderMenu.label "Desa la cerca com una carpeta…">
 
 <!-- Thread Pane -->
