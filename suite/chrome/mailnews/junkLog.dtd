@@ -4,7 +4,7 @@
 
 <!ENTITY adaptiveJunkLog.title "ჯართის მოქნილი დავთარი">
 <!ENTITY adaptiveJunkLogInfo.label "ჯართის კონტროლის მოქნილი დავთრის წარმოება.">
-<!ENTITY clearLog.label "დავთრის გასუფთავება">
+<!ENTITY clearLog.label "ჩანაწერის გასუფთავება">
 <!ENTITY clearLog.accesskey "C">
 <!ENTITY closeLog.label "დახურვა">
 <!ENTITY closeLog.accesskey "o">
