@@ -635,6 +635,26 @@ content-blocking-toggle-label-on = 켬
 content-blocking-toggle-label-off = 끔
     .accesskey = O
 content-blocking-category-label = 차단할 대상 선택
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = 느린 추적 요소
+    .accesskey = S
+content-blocking-fastblock-description = 읽는데 5초이상 걸리는 제3자 콘텐츠를 차단합니다.
+content-blocking-fastblock-option-enabled =
+    .label = 항상 차단
+content-blocking-fastblock-option-disabled =
+    .label = 차단하지 않음
+content-blocking-tracking-protection-label = 추적자
+    .accesskey = T
+content-blocking-tracking-protection-description = 알려진 모든 추적자를 차단합니다(참고: 일부 페이지가 로드되지 않을 수 있습니다).
+content-blocking-tracking-protection-option-enabled =
+    .label = 항상 차단
+content-blocking-tracking-protection-option-pbm =
+    .label = 사생활 보호 창에서만 차단
+content-blocking-tracking-protection-option-disabled =
+    .label = 차단하지 않음
+content-blocking-tracking-protection-change-blocklist = 차단 목록 변경…
 
 ## Privacy Section - Tracking
 
