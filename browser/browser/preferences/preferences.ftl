@@ -219,6 +219,9 @@ choose-language-description = Vælg dit fortrukne sprog at få vist sider i
 choose-button =
     .label = Vælg…
     .accesskey = æ
+
+choose-browser-language-description = Vælg det sprog, der skal bruges i brugerfladen i { -brand-short-name }
+
 translate-web-pages =
     .label = Oversæt webindhold
     .accesskey = O
