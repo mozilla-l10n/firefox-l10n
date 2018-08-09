@@ -10,6 +10,8 @@ sync-disconnect-remove-sync-caption = { -sync-brand-name } ची माहि�
 sync-disconnect-remove-sync-data = वाचनखुणा, इतिहास, पासवर्डस इ.
 sync-disconnect-remove-other-caption = इतर खाजगी माहिती काढून टाका
 sync-disconnect-remove-other-data = कुकीज, कॅश, ऑफलाईन साईट माहिती इत्यादी.
+# Shown while the disconnect is in progress
+sync-disconnect-disconnecting = जोडणी तोडत आहे...
 sync-disconnect-cancel =
     .label = रद्द करा
     .accesskey = c
@@ -19,3 +21,9 @@ sync-disconnect-cancel =
 ## The 2 labels which may be shown on the single "Disconnect" button, depending
 ## on the state of the checkboxes.
 
+sync-disconnect-confirm-disconnect-delete =
+    .label = जोडणी तोडा व नष्ट करा
+    .accesskey = D
+sync-disconnect-confirm-disconnect =
+    .label = फक्त जोडणी तोडा
+    .accesskey = J
