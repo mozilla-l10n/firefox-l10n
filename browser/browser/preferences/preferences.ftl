@@ -190,6 +190,9 @@ choose-language-description = 웹 페이지를 표시할 선호 언어 선택
 choose-button =
     .label = 선택…
     .accesskey = o
+choose-browser-language-description = { -brand-short-name }가 메뉴나 메시지, 알림을 표시하는데 사용할 언어를 선택해 주세요.
+confirm-browser-language-change-description = 변경사항 적용을 위해 { -brand-short-name } 재시작
+confirm-browser-language-change-button = 적용하고 재시작
 translate-web-pages =
     .label = 웹 콘텐츠 번역하기
     .accesskey = T
@@ -614,6 +617,24 @@ addressbar-locbar-openpage-option =
     .label = 탭 열기
     .accesskey = O
 addressbar-suggestions-settings = 검색 엔진 추천 설정 변경
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = 콘텐츠 차단
+content-blocking-desc = 브라우징을 느리게 하거나 웹에서 사용자를 추적할 수 있는 광고나 코드와 같은 제3자 콘텐츠를 차단합니다. 보호와 성능 사이에서 최적의 균형을 위해 설정을 개인화 하세요.
+content-blocking-learn-more = 자세히 보기
+content-blocking-restore-defaults =
+    .label = 기본값으로
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = 콘텐츠 차단 해제
+content-blocking-toggle-off =
+    .tooltiptext = 콘텐츠 차단 설정
+content-blocking-toggle-label-on = 켬
+    .accesskey = O
+content-blocking-toggle-label-off = 끔
+    .accesskey = O
+content-blocking-category-label = 차단할 대상 선택
 
 ## Privacy Section - Tracking
 
