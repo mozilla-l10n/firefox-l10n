@@ -132,6 +132,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; <span id='wrongSystemTimeWithoutReference_URL'/> сайтына байланыспады, өйткені сіздің компьютеріңіздің сағаты қате уақытты көрсетіп тұрған сияқты, оның нәтижесінде қауіпсіз байланысты орнату мүмкін емес.</p> <p>Компьютеріңіздің уақыты <span id='wrongSystemTimeWithoutReference_systemDate'/>. Бұл мәселені шешу үшін, нақты уақытқа сай келетін компьютеріңізде күн және уақытты орнатыңыз.</p>">
 
 <!ENTITY certerror.pagetitle1  "Қауіпсіз емес байланыс">
+<!ENTITY certerror.pagetitle2  "Назарыңызға: алдыңызда қауіпсіздік тәуекелі бар сияқты">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Бұл сайт &brandShortName; оған тек қауіпсіз түрде қосылу алатынын көрсету үшін HTTP Strict Transport Security (HSTS) қолданады. Нәтижесінде, бұл сертификатты ережеден тыс қосу мүмкін емес.">
 <!ENTITY certerror.copyToClipboard.label "Мәтінді алмасу буферіне көшіру">
 
