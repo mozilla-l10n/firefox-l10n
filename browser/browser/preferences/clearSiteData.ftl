@@ -5,3 +5,12 @@
 clear-site-data-window =
     .title = Избриши податоци
     .style = width: 35em
+clear-site-data-description = Бришењето на сите колачиња и податоци зачувани од { -brand-short-name } може да ве одјави од мрежни места и да отстрани содржини за пристап без Интернет. Бришењето на кешот нема да влијае на вашите најави.
+# The parameters in parentheses in this string describe disk usage
+# in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+clear-site-data-cookies-with-data =
+    .label = Колачиња и податоци ({ $amount } { $unit })
+    .accesskey = К
