@@ -556,38 +556,68 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Kunàa nu inka nu sachuun tsàa">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Kunàa see inka nu sachuun tsàa">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
+<!ENTITY syncedTabs.context.copy.label                       "Ndatava">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
+
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Kuna ntia nu inka xikua">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
+<!ENTITY syncBrand.shortName.label    "Sync">
 
-
+<!ENTITY syncSignIn.label             "Kitsa tsi &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Y">
+<!ENTITY syncSyncNowItem.label        "Chita'an vichi">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncReAuthItem.label         "Ntachita'an tsi &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "R">
+<!ENTITY syncToolbarButton.label      "Sync">
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Katsi">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Katsi">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 
 
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
+<!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
@@ -596,11 +626,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
 
+<!ENTITY uiTour.infoPanel.close "Kasi">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.day                     "24 hora">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
@@ -612,9 +645,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
 
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 
 
