@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "Ikone i tekst">
 <!ENTITY icons.label              "Ikone">
 <!ENTITY text.label               "Tekst">
+<!ENTITY iconsBesideText.label    "Ikone uz tekst">
 <!ENTITY useSmallIcons.label      "Koristi male ikone">
 <!ENTITY restoreDefaultSet.label  "Vrati zadani set">
 <!ENTITY addNewToolbar.label      "Dodaj novu alatnu traku">
