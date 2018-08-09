@@ -190,6 +190,9 @@ choose-language-description = Pilih bahasa yang disukai untuk menampilkan laman
 choose-button =
     .label = Pilih…
     .accesskey = P
+choose-browser-language-description = Pilih bahasa yang digunakan untuk menampilkan menu, pesan, dan notifikasi dari { -brand-short-name }.
+confirm-browser-language-change-description = Mulai ulang { -brand-short-name } untuk menerapkan perubahan
+confirm-browser-language-change-button = Terapkan dan Mulai Ulang
 translate-web-pages =
     .label = Penerjemahan isi web
     .accesskey = n
@@ -617,6 +620,41 @@ addressbar-suggestions-settings = Ubah preferensi untuk saran mesin pencari
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Pemblokiran Konten
+content-blocking-desc = Blokir konten pihak ketiga, seperti iklan atau kode, yang memperlambat penjelajahan Anda dan melacak Anda di web. Ubahsuai setelan Anda untuk perlindungan dan kinerja terbaik.
+content-blocking-learn-more = Pelajari Lebih Lanjut
+content-blocking-restore-defaults =
+    .label = Pulihkan Bawaan
+    .accesskey = P
+content-blocking-toggle-on =
+    .tooltiptext = Nonaktifkan Pemblokiran Konten
+content-blocking-toggle-off =
+    .tooltiptext = Aktifkan Pemblokiran Konten
+content-blocking-toggle-label-on = AKTIF
+    .accesskey = A
+content-blocking-toggle-label-off = NONAKTIF
+    .accesskey = N
+content-blocking-category-label = Pilih yang ingin diblokir
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Elemen Pelacakan yang Lambat
+    .accesskey = e
+content-blocking-fastblock-description = Blokir konten pihak ketiga yang membutuhkan waktu lebih dari 5 detik untuk dimuat.
+content-blocking-fastblock-option-enabled =
+    .label = Selalu blokir
+content-blocking-fastblock-option-disabled =
+    .label = Jangan pernah blokir
+content-blocking-tracking-protection-label = Pelacak
+    .accesskey = P
+content-blocking-tracking-protection-description = Blokir semua pelacak dikenal (Catatan: juga dapat mencegah beberapa laman untuk dimuat).
+content-blocking-tracking-protection-option-enabled =
+    .label = Selalu blokir
+content-blocking-tracking-protection-option-pbm =
+    .label = Hanya blokir di jendela pribadi
+content-blocking-tracking-protection-option-disabled =
+    .label = Jangan pernah blokir
+content-blocking-tracking-protection-change-blocklist = Ubah Daftar Blokir…
 
 ## Privacy Section - Tracking
 

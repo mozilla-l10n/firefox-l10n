@@ -89,6 +89,7 @@ permissions-exceptions-autoplay-media-window =
     .title = Situs yang Diizinkan - Putar Otomatis
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Anda dapat menentukan situs web mana saja yang diizinkan untuk memainkan elemen media secara otomatis. Ketik alamat situs secara persis yang akan diizinkan, lalu klik Izinkan.
+permissions-exceptions-autoplay-media-desc2 = Anda dapat menentukan situs web mana saja yang selalu atau tidak diizinkan memutar otomatis media dengan suara. Ketik alamat situs yang akan diatur, lalu klik Blokir atau Izinkan.
 
 ## Site Permissions - Notifications
 

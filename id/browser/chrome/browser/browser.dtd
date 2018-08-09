@@ -51,6 +51,7 @@ but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Muat Ulang Tab yang Dipilih">
 <!ENTITY  reloadSelectedTabs.accesskey       "U">
 <!ENTITY  bookmarkSelectedTabs.label         "Markahi Tab…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "M">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -315,7 +316,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Pengembang Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "Rekam Eksekusi">
 <!ENTITY devtoolsSaveRecording.label "Simpan Rekaman">
+<!ENTITY devtoolsReplayExecution.label "Putar Ulang Eksekusi">
 
 <!ENTITY inspectContextMenu.label     "Inspeksi Elemen">
 <!ENTITY inspectContextMenu.accesskey "n">
