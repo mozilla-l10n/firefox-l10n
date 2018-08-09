@@ -202,6 +202,7 @@ choose-language-description = Интернет-беттерді көрсету �
 choose-button =
     .label = Таңдау…
     .accesskey = у
+confirm-browser-language-change-description = Бұл өзгерістерді іске асыру үшін { -brand-short-name } қайта іске қосыңыз
 confirm-browser-language-change-button = Іске асыру және қайта қосу
 translate-web-pages =
     .label = Веб құрамасын аудару
