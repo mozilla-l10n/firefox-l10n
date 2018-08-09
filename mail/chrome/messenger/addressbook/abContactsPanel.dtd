@@ -31,9 +31,9 @@
 <!ENTITY propertiesContext.accesskey        "ι">
 <!ENTITY abPropertiesContext.label          "Ιδιότητες">
 <!ENTITY abPropertiesContext.accesskey      "ι">
-<!ENTITY editContactContext.label           "Τροποποίηση Επαφής">
+<!ENTITY editContactContext.label           "Επεξεργασία επαφής">
 <!ENTITY editContactContext.accesskey       "Ε">
-<!ENTITY editMailingListContext.label       "Τροποποίηση Λίστας">
+<!ENTITY editMailingListContext.label       "Επεξεργασία λίστας">
 <!ENTITY editMailingListContext.accesskey   "Ε">
 
 <!ENTITY newContactAbContext.label          "Νέα επαφή">
