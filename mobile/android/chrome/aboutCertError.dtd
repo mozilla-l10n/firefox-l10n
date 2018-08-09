@@ -11,7 +11,7 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "Connexion pas segura">
-<!ENTITY certerror.longpagetitle "Nos fisam pas qu'aquesta connexion">
+<!ENTITY certerror.longpagetitle "Aquesta connexion es pas certificada">
 
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
