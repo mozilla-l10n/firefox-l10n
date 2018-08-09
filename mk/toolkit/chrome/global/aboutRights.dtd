@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.title "За вашите права">
 <!ENTITY rights.intro "&brandFullName; е слободен софтвер, направен од заедница од илјадници луѓе од целиот свет. Има неколку работи што треба да ги знаете:">
 
 <!-- Note on pointa / pointb / pointc form:
