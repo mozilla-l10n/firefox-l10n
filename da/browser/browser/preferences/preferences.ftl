@@ -106,7 +106,7 @@ extension-controlled-proxy-config = Udvidelsen <img data-l10n-name="icon"/> { $n
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = Gå til tilføjelsen <img data-l10n-name="addons-icon"/> i <img data-l10n-name="menu-icon"/>-menuen for at aktivere udvidelsen.
+extension-controlled-enable = Klik på Tilføjelser <img data-l10n-name="addons-icon"/> i menuen <img data-l10n-name="menu-icon"/> for at aktivere udvidelsen.
 
 ## Preferences UI Search Results
 
