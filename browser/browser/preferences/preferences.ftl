@@ -342,11 +342,11 @@ home-restore-defaults =
 home-mode-choice-default =
     .label = Firefox मुखपृष्ठ (पूर्वनिर्धारित)
 home-mode-choice-custom =
-    .label = सानुकूलीत URLs... 
+    .label = सानुकूलीत URLs...
 home-mode-choice-blank =
     .label = रिक्त पृष्ठ
 home-homepage-custom-url =
-    .placeholder = URL चिटकवा 
+    .placeholder = URL चिटकवा
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -589,14 +589,14 @@ sitedata-accept-cookies-option =
     .label = संकेतस्थळावरून कुकीज आणि साईट डेटा स्वीकारा (शिफारस).
     .accesskey = A
 sitedata-block-cookies-option =
-    .label = कुकीज आणि साईट माहिती अवरोधित करा(संकेतस्थळ खंडित होऊ शकते) 
+    .label = कुकीज आणि साईट माहिती अवरोधित करा(संकेतस्थळ खंडित होऊ शकते)
     .accesskey = B
 sitedata-keep-until = पर्यंत ठेवा
     .accesskey = u
 sitedata-keep-until-expire =
     .label = ते कालबाह्य होतात
 sitedata-keep-until-closed =
-    .label = { -brand-short-name } बंद आहे 
+    .label = { -brand-short-name } बंद आहे
 sitedata-accept-third-party-desc = तृतीय-पक्ष कुकीज आणि साईट माहिती स्वीकारा.
     .accesskey = y
 sitedata-accept-third-party-always-option =
@@ -606,7 +606,7 @@ sitedata-accept-third-party-visited-option =
 sitedata-accept-third-party-never-option =
     .label = कधीच नाही
 sitedata-clear =
-    .label = माहिती पुसा... 
+    .label = माहिती पुसा...
     .accesskey = l
 sitedata-settings =
     .label = डेटा व्यवस्थापित करा...
@@ -633,6 +633,7 @@ addressbar-suggestions-settings = शोध इंजिनसाठी सू�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = मजकूर अडवणी
+content-blocking-desc = आपले ब्राऊझिंग संथ करणारा व वेब भर आपला मागोवा घेणारा जाहिरात किंवा कोड सारखा त्रयस्थ मजकूर अडवा. आपले सेटिंग अनुकूल करून सुरक्षा आणि कार्यक्षमता यांचा सर्वोत्तम समतोल साधा.
 content-blocking-learn-more = अधिक जाणून घ्या
 content-blocking-restore-defaults =
     .label = पूर्वनिर्धारित स्थितीत आणा
@@ -715,6 +716,10 @@ permissions-notification-link = आणखी जाणा
 permissions-notification-pause =
     .label = सूचना { -brand-short-name } पुन्हा सुरु होईपर्यंत स्थगित करा
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = संकेतस्थळांना स्वायत्ततेने ध्वनीसह मीडिया चालवण्यापासून रोखा
+    .accesskey = B
+permissions-block-autoplay-media-menu = स्वायत्ततेने ध्वनी चालवणाऱ्या संकेतस्थळांसाठी
 permissions-block-autoplay-media-exceptions =
     .label = अपवाद…
     .accesskey = E
@@ -750,6 +755,9 @@ collection-health-report =
     .label = { -vendor-short-name } ला तांत्रिक व परस्परसंवाद माहिती पाठविण्यासाठी { -brand-short-name } ला परवानगी द्या
     .accesskey = r
 collection-health-report-link = आणखी जाणा
+collection-studies =
+    .label = { -brand-short-name } ला studies प्रस्थापित करून चालवण्याची परवानगी द्या
+collection-studies-link = { -brand-short-name } studies पहा
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे
@@ -758,7 +766,7 @@ collection-browser-errors =
     .accesskey = b
 collection-browser-errors-link = आणखी जाणा
 collection-backlogged-crash-reports =
-    .label = आपल्यावतीने { -brand-short-name } ला बॅकलॉग क्रॅश अहवाल पाठवण्याची परवानगी दया 
+    .label = आपल्यावतीने { -brand-short-name } ला बॅकलॉग क्रॅश अहवाल पाठवण्याची परवानगी दया
     .accesskey = c
 collection-backlogged-crash-reports-link = आणखी जाणा
 
