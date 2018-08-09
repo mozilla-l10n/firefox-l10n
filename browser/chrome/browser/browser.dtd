@@ -555,7 +555,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "b">
 <!ENTITY openLinkCmd.label            "Abrir link em uma nova janela">
 <!ENTITY openLinkCmd.accesskey        "A">
-<!ENTITY openLinkInPrivateWindowCmd.label "Abrir link em uma nova janela privativa">
+<!ENTITY openLinkInPrivateWindowCmd.label "Abrir link em nova janela privativa">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "r">
 <!ENTITY openLinkCmdInCurrent.label     "Abrir link">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
