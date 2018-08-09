@@ -6,7 +6,7 @@
 ## Settings
 
 site-data-settings-window =
-    .title = कुकीज आणि साईट माहिती व्यवस्थापित करा 
+    .title = कुकीज आणि साईट माहिती व्यवस्थापित करा
 site-data-search-textbox =
     .placeholder = वेबसाईट शोधा
     .accesskey = S
@@ -31,6 +31,7 @@ site-data-button-save =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern } (स्थिर)
 site-data-remove-all =
     .label = सर्व काढून टाका
     .accesskey = e
@@ -45,6 +46,6 @@ site-data-removing-window =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = काढून टाका
-site-data-removing-header = कुकीज आणि साईट माहिती काढून टाकत आहे 
+site-data-removing-header = कुकीज आणि साईट माहिती काढून टाकत आहे
 site-data-removing-desc = कुकीज आणि साईट माहिती काढून टाकल्याने आपण संकेतस्थळावरून लॉग आऊट होऊ शकता. आपणास खात्रीने बदल करायचे आहेत?
 site-data-removing-table = खालील संकेतस्थळावरून कुकीज आणि साईट माहिती काढण्यात येईल
