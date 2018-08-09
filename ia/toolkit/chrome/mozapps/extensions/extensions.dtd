@@ -3,11 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Gestor de additivos">
 
-<!ENTITY search.placeholder                   "Cercar in tote le additivos">
-
 <!ENTITY search.placeholder2                  "Cercar sur addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Cercar">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Nulle actualisationes trovate">
 <!ENTITY listEmpty.recentUpdates.label        "Tu non ha actualisate ulle additivo recentemente">
 <!ENTITY listEmpty.findUpdates.label          "Cercar actualisationes">
-<!ENTITY listEmpty.search.label               "Nulle additivo correspondente ha essite trovate">
 <!ENTITY listEmpty.button.label               "Saper plus super additivos">
 <!ENTITY installAddonFromFile.label           "Installar additivo ab un file…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -41,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activar le verification de securitate pro le actualisation del additivos">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Cercar">
 <!ENTITY view.discover.label                  "Obtener additivos">
 <!ENTITY view.recentUpdates.label             "Actualisationes recente">
 <!ENTITY view.availableUpdates.label          "Actualisationes disponibile">
@@ -84,8 +80,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferentias">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "A proposito de">
-<!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "Activar">
 <!ENTITY cmd.enableAddon.accesskey            "A">
@@ -135,7 +129,6 @@
 <!ENTITY detail.lastupdated.label             "Ultime actualisation">
 <!ENTITY detail.creator.label                 "Developpator">
 <!ENTITY detail.homepage.label                "Pagina initial">
-<!ENTITY detail.numberOfDownloads.label       "Discargamentos">
 
 <!ENTITY detail.contributions.description     "Le developpator de iste additivo demanda que tu le adjuta assecurar su developpamento continue faciente un parve contribution.">
 
@@ -162,28 +155,11 @@
 
 
 <!-- ratings -->
-<!ENTITY rating2.label                        "Evalutation">
+<!ENTITY rating2.label                        "Valutation">
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausar">
 <!ENTITY progress.cancel.tooltip              "Cancellar">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Nomine">
-<!ENTITY sort.name.tooltip                    "Ordinar per nomine">
-<!ENTITY sort.dateUpdated.label               "Ultime actualisation">
-<!ENTITY sort.dateUpdated.tooltip             "Ordinar per data de actualisation">
-<!ENTITY sort.relevance.label                 "Melior correspondentia">
-<!ENTITY sort.relevance.tooltip               "Ordinar per relevantia">
-<!ENTITY sort.price.label                     "Precio">
-<!ENTITY sort.price.tooltip                   "Ordinar per precio">
-
-<!ENTITY search.filter2.label                 "Cercar:">
-<!ENTITY search.filter2.installed.label       "Mi additivos">
-<!ENTITY search.filter2.installed.tooltip     "Monstrar additivos installate">
-<!ENTITY search.filter2.available.label       "Additivos disponibile">
-<!ENTITY search.filter2.available.tooltip     "Monstrar additivos disponibile pro installar">
 
 <!ENTITY addon.homepage                       "Pagina initial">
 <!ENTITY addon.details.label                  "Plus">
@@ -226,17 +202,6 @@
 <!ENTITY eula.accept                          "Acceptar e Installar…">
 
 <!ENTITY settings.path.button.label           "Perquirer…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Que es isto? Le telemetria pote installar e facer experimentos de tempore in tempore.">
-<!ENTITY experiment.info.learnmore "Saper plus">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Parametros del telemetria">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Saper plus…">
 
