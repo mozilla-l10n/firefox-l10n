@@ -221,6 +221,8 @@ choose-button =
     .accesskey = æ
 
 choose-browser-language-description = Vælg det sprog, der skal bruges i brugerfladen i { -brand-short-name }
+confirm-browser-language-change-description = Genstart { -brand-short-name } for at anvende ændringerne
+confirm-browser-language-change-button = Anvend og genstart
 
 translate-web-pages =
     .label = Oversæt webindhold
@@ -653,6 +655,51 @@ addressbar-locbar-openpage-option =
     .label = Åbne faneblade
     .accesskey = f
 addressbar-suggestions-settings = Skift indstillinger for søgeforslag
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = Blokering af indhold
+
+content-blocking-desc = Bloker indhold fra tredjepart, som fx reklamer eller kode, der kan gøre din browsing langsommere og spore dig rundt på nettet. Tilpas dine indstillinger for at få den bedste balance mellem beskyttelse og ydelse.
+
+content-blocking-learn-more = Læs mere
+content-blocking-restore-defaults =
+  .label = Gendan standard
+  .accesskey = G
+
+content-blocking-toggle-on =
+  .tooltiptext = Slå blokering af indhold fra
+content-blocking-toggle-off =
+  .tooltiptext = Slå blokering af indhold til
+
+content-blocking-toggle-label-on = TIL
+  .accesskey = T
+content-blocking-toggle-label-off = FRA
+  .accesskey = F
+
+content-blocking-category-label = Vælg hvad der skal blokeres
+
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Langsomme sporings-elementer
+  .accesskey = L
+content-blocking-fastblock-description = Bloker indhold fra tredjepart, hvis det tager længere end fem sekunder at indlæse
+content-blocking-fastblock-option-enabled =
+  .label = Bloker altid
+content-blocking-fastblock-option-disabled =
+  .label = Bloker aldrig
+
+content-blocking-tracking-protection-label = Sporings-tjenester
+  .accesskey = p
+content-blocking-tracking-protection-description = Bloker alle kendte sporings-tjenester (NB: Kan forhindre nogle sider i at blive indlæst).
+content-blocking-tracking-protection-option-enabled =
+  .label = Bloker altid
+content-blocking-tracking-protection-option-pbm =
+  .label = Bloker kun i private vinduer
+content-blocking-tracking-protection-option-disabled =
+  .label = Bloker aldrig
+content-blocking-tracking-protection-change-blocklist = Bloker blokerings-liste…
 
 ## Privacy Section - Tracking
 
