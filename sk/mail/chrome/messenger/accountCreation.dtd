@@ -5,7 +5,7 @@
 <!ENTITY autoconfigWizard2.title         "Nastavenie existujúceho e-mailového účtu">
 <!ENTITY name.label                      "Vaše meno:">
 <!ENTITY name.accesskey                  "V">
-<!ENTITY name.placeholder                "Meno priezvisko">
+<!ENTITY name.placeholder                "Meno Priezvisko">
 <!ENTITY name.text                       "Vaše meno tak ako bude zobrazené ostatným">
 <!ENTITY email.label                     "E-mailová adresa:">
 <!ENTITY email.accesskey                 "E">
