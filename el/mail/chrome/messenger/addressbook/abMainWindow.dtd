@@ -49,7 +49,7 @@
 <!ENTITY undoCmd.accesskey                              "ν">
 <!ENTITY redoCmd.label                                  "Επανάληψη">
 <!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "κ">
+<!ENTITY redoCmd.accesskey                              "ψ">
 <!ENTITY cutCmd.label                                   "Αποκοπή">
 <!ENTITY cutCmd.key                                     "X">
 <!ENTITY cutCmd.accesskey                               "κ">
@@ -145,14 +145,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.accesskey                        "λ">
 <!ENTITY showAsDefault.label                            "Προεπιλεγμένος κατάλογος εκκίνησης">
 <!ENTITY showAsDefault.accesskey                        "Ρ">
-<!ENTITY editPropertiesButton.label                     "Τροποποίηση">
+<!ENTITY editPropertiesButton.label                     "Επεξεργασία">
 <!ENTITY propertiesContext.label                        "Ιδιότητες">
 <!ENTITY propertiesContext.accesskey                    "ι">
 <!ENTITY abPropertiesContext.label                      "Ιδιότητες">
 <!ENTITY abPropertiesContext.accesskey                  "ι">
-<!ENTITY editContactContext.label                       "Τροποποίηση Επαφής">
+<!ENTITY editContactContext.label                       "Επεξεργασία επαφής">
 <!ENTITY editContactContext.accesskey                   "Ε">
-<!ENTITY editMailingListContext.label                   "Τροποποίηση Λίστας">
+<!ENTITY editMailingListContext.label                   "Επεξεργασία λίστας">
 <!ENTITY editMailingListContext.accesskey               "Ε">
 <!ENTITY newmsgButton.label                             "Σύνταξη">
 <!ENTITY newmsgButton.accesskey                         "Σ">
@@ -166,10 +166,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Δημιουργία νέας επαφής στο ευρετήριο">
 <!ENTITY newlistButton.tooltip                          "Δημιουργία νέας λίστας">
-<!ENTITY editPropertiesButton.tooltip                   "Τροποποίηση του επιλεγμένου αντικειμένου">
-<!ENTITY editAbPropertiesButton.tooltip                 "Τροποποίηση των ιδιοτήτων του επιλεγμένου βιβλίου διευθύνσεων">
-<!ENTITY editContactPropertiesButton.tooltip            "Τροποποίηση των ιδιοτήτων της επιλεγμένης επαφής">
-<!ENTITY editMailingListPropertiesButton.tooltip        "Τροποποίηση των ιδιοτήτων της επιλεγμένης λίστας ταχυδρομείου">
+<!ENTITY editPropertiesButton.tooltip                   "Επεξεργασία επιλεγμένου στοιχείου">
+<!ENTITY editAbPropertiesButton.tooltip                 "Επεξεργασία ιδιοτήτων επιλεγμένου ευρετηρίου διευθύνσεων">
+<!ENTITY editContactPropertiesButton.tooltip            "Επεξεργασία επιλεγμένης επαφής">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Επεξεργασία επιλεγμένης λίστας αλληλογραφίας">
 <!ENTITY newmsgButton.tooltip                           "Αποστολή ενός μηνύματος αλληλογραφίας">
 <!ENTITY newIM.tooltip                                  "Αποστολή ενός άμεσου μηνύματος ή chat">
 <!ENTITY deleteButton2.tooltip                          "Διαγραφή επιλεγμένου αντικειμένου">

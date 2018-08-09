@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Contact.tab                     "Επαφή">
-<!ENTITY Contact.accesskey               "C">
+<!ENTITY Contact.accesskey               "Ε">
 <!ENTITY Name.box                        "Όνομα">
 
 <!-- LOCALIZATION NOTE:
@@ -24,48 +24,48 @@
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
 <!ENTITY NameField1.label               "Όνομα:">
-<!ENTITY NameField1.accesskey           "F">
-<!ENTITY NameField2.label               "Επίθετο:">
-<!ENTITY NameField2.accesskey           "L">
+<!ENTITY NameField1.accesskey           "Ό">
+<!ENTITY NameField2.label               "Επώνυμο:">
+<!ENTITY NameField2.accesskey           "ν">
 <!ENTITY PhoneticField1.label           "Φωνητικό:">
 <!ENTITY PhoneticField2.label           "Φωνητικό:">
 <!ENTITY DisplayName.label              "Εμφάνιση:">
-<!ENTITY DisplayName.accesskey          "D">
-<!ENTITY preferDisplayName.label        "Να προτιμάται πάντα το όνομα εμφάνισης σε σχέση με την κεφαλίδα μηνύματος">
-<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY DisplayName.accesskey          "φ">
+<!ENTITY preferDisplayName.label        "Να προτιμάται πάντα το όνομα εμφάνισης αντί της επικεφαλίδας μηνύματος">
+<!ENTITY preferDisplayName.accesskey    "π">
 <!ENTITY NickName.label                 "Ψευδώνυμο:">
-<!ENTITY NickName.accesskey             "N">
+<!ENTITY NickName.accesskey             "Ψ">
 
 <!ENTITY PrimaryEmail.label             "Email:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Επιπρόσθετο Email:">
+<!ENTITY SecondEmail.label              "Επιπρόσθετο email:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Προτιμάει να δέχεται τα μηνύματα μορφοποιημένα ως:">
-<!ENTITY PreferMailFormat.accesskey     "v">
-<!ENTITY PlainText.label                "Απλό Κείμενο">
+<!ENTITY PreferMailFormat.label         "Προτιμάει να λαμβάνει μηνύματα σε μορφή:">
+<!ENTITY PreferMailFormat.accesskey     "μ">
+<!ENTITY PlainText.label                "Απλό κείμενο">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Άγνωστο">
-<!ENTITY chatName.label                 "Όνομα Συνομιλίας:">
+<!ENTITY chatName.label                 "Όνομα συνομιλίας:">
 
 <!ENTITY WorkPhone.label                "Εργασία:">
-<!ENTITY WorkPhone.accesskey            "k">
+<!ENTITY WorkPhone.accesskey            "γ">
 <!ENTITY HomePhone.label                "Οικία:">
 <!ENTITY HomePhone.accesskey            "κ">
 <!ENTITY FaxNumber.label                "Φαξ:">
-<!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY FaxNumber.accesskey            "ξ">
 <!ENTITY PagerNumber.label              "Βομβητής:">
-<!ENTITY PagerNumber.accesskey          "g">
+<!ENTITY PagerNumber.accesskey          "β">
 <!ENTITY CellularNumber.label           "Κινητό:">
-<!ENTITY CellularNumber.accesskey       "b">
+<!ENTITY CellularNumber.accesskey       "η">
 
-<!ENTITY Home.tab                       "Ιδιωτικό">
-<!ENTITY Home.accesskey                 "Ι">
+<!ENTITY Home.tab                       "Προσωπικά">
+<!ENTITY Home.accesskey                 "Π">
 <!ENTITY HomeAddress.label              "Διεύθυνση:">
 <!ENTITY HomeAddress.accesskey          "θ">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Πόλη:">
-<!ENTITY HomeCity.accesskey             "η">
+<!ENTITY HomeCity.accesskey             "λ">
 <!ENTITY HomeState.label                "Πολιτεία/Επαρχία:">
 <!ENTITY HomeState.accesskey            "Π">
 <!ENTITY HomeZipCode.label              "Ταχυδρομικός κώδικας:">
@@ -75,7 +75,7 @@
 <!ENTITY HomeWebPage.label              "Ιστοσελίδα:">
 <!ENTITY HomeWebPage.accesskey          "σ">
 <!ENTITY Birthday.label                 "Γενέθλια:">
-<!ENTITY Birthday.accesskey             "B">
+<!ENTITY Birthday.accesskey             "Γ">
 <!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Έτος">
 <!ENTITY Or.value                       "ή">
@@ -83,30 +83,30 @@
 <!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Εργασία">
-<!ENTITY Work.accesskey                 "W">
+<!ENTITY Work.accesskey                 "Ε">
 <!ENTITY JobTitle.label                 "Τίτλος:">
-<!ENTITY JobTitle.accesskey             "i">
+<!ENTITY JobTitle.accesskey             "τ">
 <!ENTITY Department.label               "Τμήμα:">
-<!ENTITY Department.accesskey           "m">
+<!ENTITY Department.accesskey           "μ">
 <!ENTITY Company.label                  "Οργανισμός:">
-<!ENTITY Company.accesskey              "n">
+<!ENTITY Company.accesskey              "ν">
 <!ENTITY WorkAddress.label              "Διεύθυνση:">
-<!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress.accesskey          "θ">
 <!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Πόλη:">
-<!ENTITY WorkCity.accesskey             "y">
-<!ENTITY WorkState.label                "Επαρχία/Διαμέρισμα:">
-<!ENTITY WorkState.accesskey            "S">
-<!ENTITY WorkZipCode.label              "Ταχυδρομικός Κωδικός:">
-<!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY WorkCity.accesskey             "λ">
+<!ENTITY WorkState.label                "Πολιτεία/Επαρχία:">
+<!ENTITY WorkState.accesskey            "Π">
+<!ENTITY WorkZipCode.label              "Ταχυδρομικός κώδικας:">
+<!ENTITY WorkZipCode.accesskey          "Τ">
 <!ENTITY WorkCountry.label              "Χώρα:">
-<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkCountry.accesskey          "ρ">
 <!ENTITY WorkWebPage.label              "Ιστοσελίδα:">
-<!ENTITY WorkWebPage.accesskey          "e">
+<!ENTITY WorkWebPage.accesskey          "σ">
 
-<!ENTITY Other.tab                      "Άλλο">
-<!ENTITY Other.accesskey                "h">
+<!ENTITY Other.tab                      "Άλλα">
+<!ENTITY Other.accesskey                "λ">
 <!ENTITY Custom1.label                  "Προσαρμοσμένο 1:">
 <!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "Προσαρμοσμένο 2:">
@@ -116,10 +116,10 @@
 <!ENTITY Custom4.label                  "Προσαρμοσμένο 4:">
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Σημειώσεις:">
-<!ENTITY Notes.accesskey                "N">
+<!ENTITY Notes.accesskey                "Σ">
 
 <!ENTITY Chat.tab                       "Συνομιλία">
-<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Chat.accesskey                 "α">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
@@ -134,23 +134,23 @@
 <!ENTITY MSN2.accesskey                 "N">
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
-<!ENTITY XMPP.label                     "Αναγνωριστικό Jabber:">
+<!ENTITY XMPP.label                     "Jabber ID:">
 <!ENTITY XMPP.accesskey                 "J">
 <!ENTITY IRC.label                      "Ψευδώνυμο IRC:">
 <!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Φωτογραφία">
-<!ENTITY Photo.accesskey                "o">
+<!ENTITY Photo.accesskey                "ω">
 <!ENTITY GenericPhoto.label             "Γενική φωτογραφία">
-<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY GenericPhoto.accesskey         "Γ">
 <!ENTITY DefaultPhoto.label             "Προεπιλογή">
-<!ENTITY PhotoFile.label                "Σε αυτόν τον υπολογιστή">
-<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY PhotoFile.label                "Από αυτό τον υπολογιστή">
+<!ENTITY PhotoFile.accesskey            "υ">
 <!ENTITY BrowsePhoto.label              "Αναζήτηση">
-<!ENTITY BrowsePhoto.accesskey          "r">
-<!ENTITY PhotoURL.label                 "Στο διαδίκτυο">
-<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY BrowsePhoto.accesskey          "ζ">
+<!ENTITY PhotoURL.label                 "Από το διαδίκτυο">
+<!ENTITY PhotoURL.accesskey             "κ">
 <!ENTITY PhotoURL.placeholder           "Επικολλήστε ή εισάγετε τη διαδικτυακή διεύθυνση μιας φωτογραφίας">
 <!ENTITY UpdatePhoto.label              "Ενημέρωση">
-<!ENTITY UpdatePhoto.accesskey          "u">
+<!ENTITY UpdatePhoto.accesskey          "μ">
 <!ENTITY PhotoDropTarget.label          "Σύρετε μια νέα φωτογραφία εδώ">

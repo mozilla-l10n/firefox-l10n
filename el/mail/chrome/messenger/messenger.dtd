@@ -367,7 +367,7 @@
 <!ENTITY forwardAsInline.accesskey "τ">
 <!ENTITY forwardAsAttachmentCmd.label "Συνημμένο">
 <!ENTITY forwardAsAttachmentCmd.accesskey "μ">
-<!ENTITY editAsNewMsgCmd.label "Τροποποίηση μηνύματος ως νέου">
+<!ENTITY editAsNewMsgCmd.label "Επεξεργασία ως νέο μήνυμα">
 <!ENTITY editAsNewMsgCmd.accesskey "ν">
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Επεξεργασία πρόχειρου μηνύματος">
@@ -763,9 +763,9 @@
 <!ENTITY contextOpenConversation.accesskey "ν">
 <!ENTITY contextOpenContainingFolder.label "Άνοιγμα μηνύματος στον περιεχόμενο φάκελο">
 <!ENTITY contextOpenContainingFolder.accesskey "φ">
-<!ENTITY contextEditMsgAsNew.label "Τροποποίηση ως νέου">
+<!ENTITY contextEditMsgAsNew.label "Επεξεργασία ως νέο μήνυμα">
 <!ENTITY contextEditMsgAsNew.accesskey "ω">
-<!ENTITY contextEditDraftMsg.label "Τροποποίηση πρόχειρου μηνύματος">
+<!ENTITY contextEditDraftMsg.label "Επεξεργασία πρόχειρου μηνύματος">
 <!ENTITY contextEditTemplate.label "Επεξεργασία πρότυπου">
 <!ENTITY contextEditTemplate.accesskey "Π">
 <!ENTITY contextArchive.label "Αρχειοθέτηση">
