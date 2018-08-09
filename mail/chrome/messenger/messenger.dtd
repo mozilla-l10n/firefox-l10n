@@ -137,7 +137,7 @@
 <!ENTITY menubarCmd.label "მენიუს პანელი">
 <!ENTITY menubarCmd.accesskey "მ">
 <!ENTITY showMessengerToolbarCmd.label "წერილების სამართავი">
-<!ENTITY showMessengerToolbarCmd.accesskey "ო">
+<!ENTITY showMessengerToolbarCmd.accesskey "რ">
 <!ENTITY customizeToolbar.label "მორგება…">
 <!ENTITY customizeToolbar.accesskey "გ">
 
@@ -159,7 +159,7 @@
 <!ENTITY folderView.label "საქაღალდეები">
 <!ENTITY folderView.accesskey "ქ">
 <!ENTITY unifiedFolders.label "სხარტი">
-<!ENTITY unifiedFolders.accesskey "n">
+<!ENTITY unifiedFolders.accesskey "ხ">
 <!ENTITY allFolders.label "ყველა">
 <!ENTITY allFolders.accesskey "ყ">
 <!ENTITY unreadFolders.label "წასაკითხი">

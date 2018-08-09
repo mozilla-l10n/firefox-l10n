@@ -10,38 +10,38 @@
 <!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "მიუთითეთ ჯართის პარამეტრები. ჯართის ანგარიშზე დამოკიდებული პარამეტრების მითითება შესაძლებელია ანგარიშის პარამეტრების სექციაში.">
 <!ENTITY manualMark.label "გზავნილების ჯართად მონიშვნისას:">
-<!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "მათი გადატანა ანგარიშის დასტაში &quot;ჯართი&quot;">
-<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMark.accesskey "ჯ">
+<!ENTITY manualMarkModeMove.label "მათი გადატანა ანგარიშის &quot;ჯართის&quot; საქაღალდეში">
+<!ENTITY manualMarkModeMove.accesskey "გ">
 <!ENTITY manualMarkModeDelete.label "მათი წაშლა">
-<!ENTITY manualMarkModeDelete.accesskey "D">
+<!ENTITY manualMarkModeDelete.accesskey "წ">
 <!ENTITY markAsReadOnSpam.label "მათი მონიშვნა წაკითხულად">
-<!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableAdaptiveJunkLogging.label "ჯართის მოქნილი გაფილტვრის დავთრის ჩართვა">
-<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
-<!ENTITY openJunkLog.label "დავთრის ჩვენება">
-<!ENTITY openJunkLog.accesskey "S">
+<!ENTITY markAsReadOnSpam.accesskey "კ">
+<!ENTITY enableAdaptiveJunkLogging.label "ჯართის მოქნილი ფილტრის აღრიცხვის ჩართვა">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "ღ">
+<!ENTITY openJunkLog.label "აღრიცხული ჩანაწერების ჩვენება">
+<!ENTITY openJunkLog.accesskey "ჩ">
 <!ENTITY resetTrainingData.label "სწავლების მონაცემთა განულება">
-<!ENTITY resetTrainingData.accesskey "R">
+<!ENTITY resetTrainingData.accesskey "გ">
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName;-ს შეუძლია გააანალიზოს საეჭვო გზავნილები გარკვეული ტექნოლოგიების გამოყენებით.">
 <!ENTITY enablePhishingDetector1.label    "გაფრთხილება, თაღლითობაში შემჩნეული ელფოსტიდან მიღებული წერილის გახსნისას">
-<!ENTITY enablePhishingDetector1.accesskey  "T">
+<!ENTITY enablePhishingDetector1.accesskey  "თ">
 <!ENTITY useDownloadedList.label "საეჭვო გზავნილების ჩამოტვირთული სიის გამოყენება">
-<!ENTITY useDownloadedList.accesskey "U">
+<!ENTITY useDownloadedList.accesskey "ჭ">
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro           "&brandShortName;-ს შეუძლია ყველა თქვენი ანგარიშის პაროლების დამახსოვრება.">
 <!ENTITY useMasterPassword.label        "მთავარი პაროლის გამოყენება">
-<!ENTITY useMasterPassword.accesskey    "U">
+<!ENTITY useMasterPassword.accesskey    "მ">
 <!ENTITY masterPassword.intro           "მთავარი პაროლი იცავს ყველა თქვენს პაროლს და მისი მითითება სეანსზე ერთხელ მოგიწევთ.">
 <!ENTITY changeMasterPassword.label     "მთავარი პაროლის შეცვლა…">
-<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY changeMasterPassword.accesskey "ც">
 <!ENTITY savedPasswords.label           "შენახული პაროლები…">
-<!ENTITY savedPasswords.accesskey       "S">
+<!ENTITY savedPasswords.accesskey       "შ">
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName;-ს შეუძლია გააიოლოს ანტივირუსის მუშაობა შემოსულ წერილებში ვირუსების აღმოსაჩენად მათ ლოკალურად შენახვამდე.">
 <!ENTITY antiVirus.label      "ანტივირუსის პროგრამისთვის ცალკეული გზავნილების კარანტინის ნებართვა">
-<!ENTITY antiVirus.accesskey  "A">
+<!ENTITY antiVirus.accesskey  "ა">
