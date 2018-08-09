@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-learn-more = Skua'a kuakaa
 do-not-track-option-always =
     .label = Ntikiì
 pref-page =
@@ -115,6 +116,7 @@ browsing-title = Sucha
 
 ## General Section - Proxy
 
+network-proxy-connection-learn-more = Skua'a kuakaa
 
 ## Home Section
 
@@ -230,6 +232,9 @@ sitedata-settings =
 addressbar-locbar-openpage-option =
     .label = Kuna xikua
     .accesskey = K
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
