@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Фонтови за
+    .accesskey = Ф
 fonts-langgroup-arabic =
     .label = Арапска азбука
 fonts-langgroup-armenian =
@@ -45,8 +47,15 @@ fonts-langgroup-khmer =
     .label = Кмер азбука
 fonts-langgroup-korean =
     .label = Корејска азбука
+# Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language.
+fonts-langgroup-latin =
+    .label = Латински
 fonts-langgroup-malayalam =
     .label = Малајаламска азбука
+fonts-langgroup-math =
+    .label = Математика
+fonts-langgroup-odia =
+    .label = Орија
 fonts-langgroup-sinhala =
     .label = Синхала
 fonts-langgroup-tamil =
@@ -66,6 +75,12 @@ fonts-default-serif =
     .label = Сериф
 fonts-default-sans-serif =
     .label = Санс сериф
+fonts-proportional-size = Големина
+    .accesskey = Г
+fonts-monospace-size = Големина
+    .accesskey = л
+fonts-minsize = Минимална големина на фонт
+    .accesskey = ј
 fonts-minsize-none =
     .label = Нема
 
