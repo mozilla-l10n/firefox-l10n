@@ -372,6 +372,7 @@
 
 <!ENTITY pref_media_autoplay_enabled "A kunu kitsai mitu\&apos;in">
 <!ENTITY pref_media_autoplay_enabled_summary "Kuachu\&apos;un sitio web kuu ku\&apos;ncheu ña ndatavana tsi inka kue\&apos;ñaa medios de comunicación">
+<!ENTITY pref_media_autoplay_block "Kasi ña kitsa mituin">
 <!ENTITY pref_zoom_force_enabled "Ki\&apos;tsa tsi ñanda saa kanu">
 <!ENTITY pref_zoom_force_enabled_summary "ndasama nishi chau tava na ku kuncheu nti\&apos;i página">
 <!ENTITY pref_voice_input "nu kivii ntusu">
@@ -450,6 +451,7 @@
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Sachu\&apos;un ña nduku nchi inkau">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -895,5 +897,11 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 
 <!-- Used by accessibility services to identify the play/pause buttons shown in the
 Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Kitsa\&apos;a">
+<!ENTITY pip_play_button_description "Kitsa kucheu">
+<!ENTITY pip_pause_button_title "Kunchatu">
+<!ENTITY pip_pause_button_description "Kunchatu ña kucheu">
 
 <!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; Nduku nchi inkau">
