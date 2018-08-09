@@ -41,7 +41,7 @@ permissions-capabilities-allow =
 permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
-    .label = Demandar totjorn
+    .label = Totjorn demandar
 
 ## Invalid Hostname Dialog
 
@@ -89,6 +89,7 @@ permissions-exceptions-autoplay-media-window =
     .title = Sites autorizats - Auto lectura
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Podètz especificar quines sites pòdon legir autocament los mèdias son. Picatz l’adreça exacta del site que volètz autorizar puèi clicatz Autorizar.
+permissions-exceptions-autoplay-media-desc2 = Podètz indicar quines sites web an totjorn o jamai l’autorizacion de lançar un mèdia amb son. Picatz las adreças dels sites que volètz gerir e causissètz Blocar o Autorizar.
 
 ## Site Permissions - Notifications
 

@@ -202,6 +202,8 @@ choose-language-description = Causissètz vòstra lenga preferida per l'afichatg
 choose-button =
     .label = Causir…
     .accesskey = a
+choose-browser-language-description = Causissètz la lenga utilizada per mostrar los menús, messatges e las notificacions de { -brand-short-name }.
+confirm-browser-language-change-description = Reaviar { -brand-short-name } per aplicar los cambiaments
 confirm-browser-language-change-button = Aplicar e reaviar
 translate-web-pages =
     .label = Traduire lo contengut web
@@ -631,6 +633,7 @@ addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocatge de contengut
+content-blocking-desc = Blocatz de contengut tèrces, tal coma de còdis o de reclamas, que pòdon alentir vòstre navegacion e vos pistar sul Web. Configuratz los paramètres segon vòstra volontat entre proteccion e performancia.
 content-blocking-learn-more = Ne saber mai
 content-blocking-restore-defaults =
     .label = Restablir las valors per defaut
@@ -649,12 +652,21 @@ content-blocking-category-label = Seleccionar lo contengut de blocar
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Traçadors pesucs
     .accesskey = T
+content-blocking-fastblock-description = Bloca los contenguts tèrces que prenon mai de 5 segondas a cargar.
 content-blocking-fastblock-option-enabled =
     .label = Totjorn blocar
 content-blocking-fastblock-option-disabled =
     .label = Jamai blocar
 content-blocking-tracking-protection-label = Traçadors
     .accesskey = T
+content-blocking-tracking-protection-description = Bloca totes los traçadors coneguts (remarca : auqò pòt empachar lo cargaments de certanas paginas).
+content-blocking-tracking-protection-option-enabled =
+    .label = Totjorn blocar
+content-blocking-tracking-protection-option-pbm =
+    .label = Blocar sonque en navegacion privada
+content-blocking-tracking-protection-option-disabled =
+    .label = Jamai blocar
+content-blocking-tracking-protection-change-blocklist = Cambiar la lista de blocatge…
 
 ## Privacy Section - Tracking
 
@@ -707,9 +719,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Empachar los sites de lançar de mèdias amb lo son
     .accesskey = E
+permissions-block-autoplay-media-menu = Pels sites que lançan automaticament de son
 permissions-block-autoplay-media-exceptions =
     .label = Excepcions…
     .accesskey = E
+autoplay-option-ask =
+    .label = Totjorn demandar
+autoplay-option-allow =
+    .label = Autorizar la lectura automatica
+autoplay-option-dont =
+    .label = Defendre la lectura automatica
 permissions-block-popups =
     .label = Blocar las fenèstras sorgissentas
     .accesskey = B
