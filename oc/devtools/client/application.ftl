@@ -19,6 +19,11 @@ serviceworker-list-header = Service Workers
 serviceworker-list-aboutdebugging = Dobrir <a>about:debugging</a>  pels Service Workers d’autres domenis
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Levar
+# Text for the debug link displayed for an already started Service Worker. Clicking on the
+# link opens a new devtools toolbox for this service worker. The title attribute is only
+# displayed when the link is disabled.
+serviceworker-worker-debug = Desbugatge
+    .title = Solament los servicis lançats pòt passar al debugatge
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Lançar

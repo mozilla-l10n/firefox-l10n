@@ -202,6 +202,7 @@ choose-language-description = Causissètz vòstra lenga preferida per l'afichatg
 choose-button =
     .label = Causir…
     .accesskey = a
+confirm-browser-language-change-button = Aplicar e reaviar
 translate-web-pages =
     .label = Traduire lo contengut web
     .accesskey = T
@@ -626,6 +627,34 @@ addressbar-locbar-openpage-option =
     .label = Onglets dobèrts
     .accesskey = D
 addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions del motor de recèrca
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = Blocatge de contengut
+content-blocking-learn-more = Ne saber mai
+content-blocking-restore-defaults =
+    .label = Restablir las valors per defaut
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Desactivar lo blocatge de contengut
+content-blocking-toggle-off =
+    .tooltiptext = Activar lo blocatge de contengut
+content-blocking-toggle-label-on = ACTIU
+    .accesskey = A
+content-blocking-toggle-label-off = INACTIU
+    .accesskey = I
+content-blocking-category-label = Seleccionar lo contengut de blocar
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Traçadors pesucs
+    .accesskey = T
+content-blocking-fastblock-option-enabled =
+    .label = Totjorn blocar
+content-blocking-fastblock-option-disabled =
+    .label = Jamai blocar
+content-blocking-tracking-protection-label = Traçadors
+    .accesskey = T
 
 ## Privacy Section - Tracking
 

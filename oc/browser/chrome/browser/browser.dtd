@@ -314,6 +314,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Desvolopaire web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
+
 <!ENTITY inspectContextMenu.label     "Examinar l'element">
 <!ENTITY inspectContextMenu.accesskey "x">
 
@@ -629,6 +630,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Amagar aqueste plugin">
 <!ENTITY hidePluginCmd.accesskey      "g">
 <!ENTITY copyLinkCmd.label            "Copiar l'adreça del ligam">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "C">
 <!ENTITY copyImageCmd.label           "Copiar l'adreça de l'imatge">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -639,6 +643,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Copiar l'URL del fichièr àudio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Copiar l'adreça electronica">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Aqueste quadre">
 <!ENTITY thisFrameMenu.accesskey          "d">
@@ -774,6 +781,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Apondre de diccionaris…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "26em">
 <!ENTITY editBookmark.done.label                     "Acabar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
@@ -1070,6 +1081,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisacion dels periferics…">
 
 <!ENTITY pageAction.shareUrl.label "Partejar">
+
+<!ENTITY pageAction.shareMore.label "Mai…">
 
 <!ENTITY libraryButton.tooltip "Veire l'istoric, salvar los marcapaginas, e mai">
 
