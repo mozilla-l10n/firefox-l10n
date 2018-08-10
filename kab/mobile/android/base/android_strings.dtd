@@ -373,6 +373,7 @@
 <!ENTITY pref_media_autoplay_enabled "Sireg urar awurman">
 <!ENTITY pref_media_autoplay_enabled_summary "Senqed ma yella ismal web zemren ad uraren tividyutin d ugbur-nniḍen s wudem awurman">
 <!ENTITY pref_media_autoplay_allow "Sireg urar awurman">
+<!ENTITY pref_media_autoplay_block "Sewḥel urar awurman">
 <!ENTITY pref_zoom_force_enabled "Remmed yal tikelt asemɣer/asemẓi">
 <!ENTITY pref_zoom_force_enabled_summary "Ḥettem iɣewwaṛen akken ad tizmireḍ ad tesmeɣreḍ neɣ ad tessemẓiḍ isebtar">
 <!ENTITY pref_voice_input "Asekcem n taɣect">
@@ -903,3 +904,5 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Serǧu urar">
 
 <!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Ameẓlu n tansa n &vendorShortName;">
