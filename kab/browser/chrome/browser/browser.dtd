@@ -316,6 +316,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Aneflay web">
 <!ENTITY webDeveloperMenu.accesskey   "A">
 
+<!ENTITY devtoolsRecordExecution.label "Sekles Aselkem">
 <!ENTITY devtoolsSaveRecording.label "Sekles ikalasen">
 
 <!ENTITY inspectContextMenu.label     "Sweḍ aferdis">
