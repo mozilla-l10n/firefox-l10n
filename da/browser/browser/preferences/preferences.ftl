@@ -699,7 +699,7 @@ content-blocking-tracking-protection-option-pbm =
   .label = Bloker kun i private vinduer
 content-blocking-tracking-protection-option-disabled =
   .label = Bloker aldrig
-content-blocking-tracking-protection-change-blocklist = Skift blokeringsliste
+content-blocking-tracking-protection-change-blocklist = Skift blokeringsliste…
 
 ## Privacy Section - Tracking
 
@@ -719,8 +719,7 @@ tracking-mode-never =
 # This currently happens on the release and beta channel.
 tracking-pbm-label = Brug beskyttelse mod sporing i privat browsing for at blokere kendte sporings-tjenester
     .accesskey = p
-tracking-exceptions =
-    .label = Undtagelser…
+
     .accesskey = u
 tracking-change-block-list =
     .label = Skift blokeringsliste
