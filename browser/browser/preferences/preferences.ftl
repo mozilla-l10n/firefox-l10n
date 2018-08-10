@@ -633,6 +633,7 @@ addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Innholdsblokkering
+content-blocking-desc = Blokker tredjepartsinnhold, som annonser eller kode, som kan gjøre surfingen tregere og som kan spore deg rundt på nettet. Tilpass innstillingene for best mulig balanse mellom beskyttelse og ytelse.
 content-blocking-learn-more = Les mer
 content-blocking-restore-defaults =
     .label = Gjenopprett standard
@@ -646,6 +647,11 @@ content-blocking-toggle-label-on = PÅ
 content-blocking-toggle-label-off = AV
     .accesskey = A
 content-blocking-category-label = Velg hva som skal blokkeres
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Trege sporingselement
+    .accesskey = s
 
 ## Privacy Section - Tracking
 
