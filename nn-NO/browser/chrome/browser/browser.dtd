@@ -316,7 +316,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Nettsideutvikling">
 <!ENTITY webDeveloperMenu.accesskey   "N">
 
+<!ENTITY devtoolsRecordExecution.label "Spel inn utføring">
 <!ENTITY devtoolsSaveRecording.label "Lagre innspelinga">
+<!ENTITY devtoolsReplayExecution.label "Spel av utføring">
 
 <!ENTITY inspectContextMenu.label     "Inspiser element">
 <!ENTITY inspectContextMenu.accesskey "I">
