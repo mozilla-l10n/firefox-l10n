@@ -316,7 +316,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Webfejlesztő">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "Futtatás rögzítése">
 <!ENTITY devtoolsSaveRecording.label "Felvétel mentése">
+<!ENTITY devtoolsReplayExecution.label "Futtatás újrajátszása">
 
 <!ENTITY inspectContextMenu.label     "Elem vizsgálata">
 <!ENTITY inspectContextMenu.accesskey "z">
