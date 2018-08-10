@@ -116,9 +116,17 @@ permissions-site-location-disable-desc = Na gi'iaj da' nī daran' sitio nitaj si
 permissions-site-camera-window =
     .title = Nagi'io' - Daj garasun' kamara
     .style = { permissions-window.style }
-permissions-site-camera-desc = Nej sitio na ahí ni;iaj da' gatu ma riña si kamarat. So hui sa gataj gahuin sitio gi'iaj sun 'ngà si kamarat. Ga'ue garánt riña nej sitio na'uej ruhuat gi'iaj sun 'ngà si kamarat.
+permissions-site-camera-desc = Nej sitio na achín ni'iaj da' gatu ma riña si kamarat. So hui sa gataj gahuin sitio gi'iaj sun 'ngà si kamarat. Ga'ue garánt riña nej sitio na'uej ruhuat gi'iaj sun 'ngà si kamarat.
 permissions-site-camera-disable-label =
     .label = Garun' riña nej sa achín ni'iaj gatu riña si kamarat
+permissions-site-camera-disable-desc = Na gi'iaj da' nī daran' sitio nitaj si taj si yugui nī da'ui gachinj ni'ià da' gatu riña si kamarat. 'Ngà garánt riña si kamarat ni hua da'aj sitio nī si gi'iaj sun hue'ej.
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Nagi'io' - Daj garasun' mikrofonu
+    .style = { permissions-window.style }
+permissions-site-microphone-desc = Nej sitio na achín ni'iaj da' gatu ma riña si mikrofonot. So hui sa gataj gahuin sitio gi'iaj sun 'ngà si mikrofonot. Ga'ue garánt riña nej sitio na'uej ruhuat gi'iaj sun 'ngà si mikrofonot.
+permissions-site-microphone-disable-label =
+    .label = Garun' riña nej sa achín ni'iaj gatu riña si microfonot
+permissions-site-microphone-disable-desc = Na gi'iaj da' nī daran' sitio nitaj si tāj si yugui nī da'ui gachinj ni'ià da' gatu riña si mikrofonot. 'Ngà garánt riña si mikrofonot nī hua da'aj sitio nī si gi'iaj sun hue'ej.

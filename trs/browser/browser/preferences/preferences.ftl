@@ -29,9 +29,17 @@ search-input-box =
             [windows] Find in Options
            *[other] Find in Preferences
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Si yi'ni't nī guxun man da'aj sa hui ruhuat.
+       *[other] Si yi'ni't nī guxun man da'aj sa hui ruhuat.
+    }
 pane-general-title = Da'ua nguéj
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Riñan gayi'ij
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Nana’ui
 category-search =
     .tooltiptext = { pane-search-title }
@@ -67,9 +75,34 @@ restart-later = Nayi'i ñun' ne' rukú doj
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = 'Ngo extensión, <img data-l10n-name="icon"/> { $name }, dugumi riña ayi'ì si pajinat.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = 'Ngo extension, <img data-l10n-name="icon"/> { $name }, dugumi guenda girit a'ngò rakïj ñanj.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = 'Ngo extensión, <img data-l10n-name="icon"/> { $name }, huin sa nana'ui' sa huin ruhuat.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = 'Ngo extensión, <img data-l10n-name="icon"/> { $name }, nachin' riña ma rakïj ñanj.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = 'Ngo extensión, <img data-l10n-name="icon"/> { $name }, gatuj ma'an 'jaj sa gu'naj rastreo.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = 'Ngo extensión, <img data-l10n-name="icon"/> { $name }, dugumin { -brand-short-name } se daj gatut riña internet.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Da' garasut extension nī <img data-l10n-name="addons-icon"/> huij riña menú <img data-l10n-name="menu-icon"/>.
 
 ## Preferences UI Search Results
 
+search-results-header = Nana'ui'
 
 ## General Section
 
@@ -299,6 +332,9 @@ sitedata-clear =
 addressbar-locbar-openpage-option =
     .label = Na'nin rakïj ñanj
     .accesskey = N
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
