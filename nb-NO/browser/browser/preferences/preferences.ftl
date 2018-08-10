@@ -202,6 +202,7 @@ choose-language-description = Velg foretrukket språk på nettsider
 choose-button =
     .label = Velg …
     .accesskey = V
+choose-browser-language-description = Velg språkene som brukes til å vise menyer, meldinger og varsler fra { -brand-short-name }.
 confirm-browser-language-change-description = Start om { -brand-short-name } for å bruke disse endringene
 confirm-browser-language-change-button = Bruk og start om
 translate-web-pages =
