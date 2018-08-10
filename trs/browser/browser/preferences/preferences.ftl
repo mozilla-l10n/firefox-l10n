@@ -103,6 +103,13 @@ extension-controlled-enable = Da' garasut extension nī <img data-l10n-name="add
 ## Preferences UI Search Results
 
 search-results-header = Nana'ui'
+# `<span data-l10n-name="query"></span>` will be replaced by the search term.
+search-results-empty-message =
+    { PLATFORM() ->
+        [windows] ¡Si ga'man ruhuat! Nitaj sa nana'ui't <span data-l10n-name="query"> <span data-l10n-name="query">
+       *[other] ¡Si ga'man ruhuat! Nitaj sa nana'ui't <span data-l10n-name="query"> l10n-name="query"></span>”.
+    }
+search-results-help-link = Ni'ñanj sa rugujñu'unj so' aj? huij ñuna <a data-l10n-name="url">{ -brand-short-name } Support</a>
 
 ## General Section
 
@@ -122,9 +129,27 @@ is-not-default = { -brand-short-name } sè sa rajsùn yitin' da' gaché nu' huin
 set-as-my-default-browser =
     .label = Nagi'iaj yitïn' ma...
     .accesskey = D
+startup-restore-previous-session =
+    .label = Nanikaj ñun' riña sesión 'ngà gachin
+    .accesskey = s
 disable-extension =
     .label = Duyichîn' extension
 tabs-group-header = Rakïj ñaj
+ctrl-tab-recently-used-order =
+    .label = Ctrl + Tab duguchin ma riña nej rakïj ñanj hìaj garasun'
+    .accesskey = T
+open-new-link-as-tabs =
+    .label = Na'ni' rakïj ñanj luga na'ni' ventana
+    .accesskey = w
+warn-on-close-multiple-tabs =
+    .label = Gataj ma guní 'ngà narán ga'ì rakïj ñanj
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Gataj guní 'ngà nayi'nin ga'ì rakïj ñanj{ -brand-short-name } { -brand-short-name } dadin' ga'ue gi'iaj sun nananj ma
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = 'Ngà na'nint a'ngo rakïj ñanj, nī nadunat ma arrī chre
+    .accesskey = h
 browser-containers-learn-more = Gahuin chrun doj
 browser-containers-settings =
     .label = Nagi'iô'...
