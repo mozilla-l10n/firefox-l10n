@@ -316,6 +316,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Nettsideutvikling">
 <!ENTITY webDeveloperMenu.accesskey   "t">
 
+<!ENTITY devtoolsRecordExecution.label "Spill inn utføring">
+<!ENTITY devtoolsSaveRecording.label "Lagre innspillingen">
+<!ENTITY devtoolsReplayExecution.label "Spill av utføring">
 
 <!ENTITY inspectContextMenu.label     "Inspiser element">
 <!ENTITY inspectContextMenu.accesskey "I">
@@ -963,6 +966,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokkerer deler av denne siden som kan spore nettlesingen din.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; har oppdaget element som kan spore nettlesingen din.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; har oppdaget element som kan spore nettlesingen din. Du har skrudd av beskyttelse på denne nettsiden.">
+<!ENTITY trackingProtection.notDetected5 "Ingen sporingselement oppdaget på denne siden.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control

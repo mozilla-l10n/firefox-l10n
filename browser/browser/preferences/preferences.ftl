@@ -650,8 +650,23 @@ content-blocking-category-label = Velg hva som skal blokkeres
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Trege sporingselement
+content-blocking-fastblock-label = Trege sporingselementer
     .accesskey = s
+content-blocking-fastblock-description = Blokkerer tredjepartsinnhold som tar lengre tid enn 5 sekunder å laste inn.
+content-blocking-fastblock-option-enabled =
+    .label = Blokker alltid
+content-blocking-fastblock-option-disabled =
+    .label = Blokker aldri
+content-blocking-tracking-protection-label = Sporere
+    .accesskey = S
+content-blocking-tracking-protection-description = Blokkerer alle kjente sporere (Merk: kan også forhindre at noen sider laster inn).
+content-blocking-tracking-protection-option-enabled =
+    .label = Blokker alltid
+content-blocking-tracking-protection-option-pbm =
+    .label = Blokker kun i private vindu
+content-blocking-tracking-protection-option-disabled =
+    .label = Blokker aldri
+content-blocking-tracking-protection-change-blocklist = Endre blokkeringsliste…
 
 ## Privacy Section - Tracking
 
@@ -712,6 +727,8 @@ autoplay-option-ask =
     .label = Spør alltid
 autoplay-option-allow =
     .label = Tillat autoavspilling
+autoplay-option-dont =
+    .label = Ingen autoavspilling
 permissions-block-popups =
     .label = Blokker sprettoppvinduer
     .accesskey = B
