@@ -109,9 +109,16 @@ permissions-site-location-window =
 permissions-site-location-desc = Nej sitio web na achín ni'iaj gatu riña aché nut. Ga'uè nahuit ahuin sitio ga'uè gatu riña aché nut. Ga'uè garânt riña nej solisitû achín ni'iaj gatu riña aché nut.
 permissions-site-location-disable-label =
     .label = Garun' riña nej solisitû achín ni'iaj gatu riña aché nut
+permissions-site-location-disable-desc = Na gi'iaj da' nī daran' sitio nitaj si taj si yugui nī da'ui gachinj ni'ià da' gatu riña achré nunt. Nga rajsunt na nī ga'ue si hua 'ngo sa si ga'ue gi'iaj sun hue'é riña sitio na.
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Nagi'io' - Daj garasun' kamara
+    .style = { permissions-window.style }
+permissions-site-camera-desc = Nej sitio na ahí ni;iaj da' gatu ma riña si kamarat. So hui sa gataj gahuin sitio gi'iaj sun 'ngà si kamarat. Ga'ue garánt riña nej sitio na'uej ruhuat gi'iaj sun 'ngà si kamarat.
+permissions-site-camera-disable-label =
+    .label = Garun' riña nej sa achín ni'iaj gatu riña si kamarat
 
 ## Site Permissions - Microphone
 
