@@ -719,7 +719,8 @@ tracking-mode-never =
 # This currently happens on the release and beta channel.
 tracking-pbm-label = Brug beskyttelse mod sporing i privat browsing for at blokere kendte sporings-tjenester
     .accesskey = p
-
+tracking-exceptions =
+    .label = Undtagelser…
     .accesskey = u
 tracking-change-block-list =
     .label = Skift blokeringsliste
