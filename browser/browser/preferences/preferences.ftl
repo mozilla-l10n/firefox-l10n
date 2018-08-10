@@ -222,7 +222,7 @@ choose-button =
 
 choose-browser-language-description = Vælg det sprog, der skal bruges i brugerfladen i { -brand-short-name }
 confirm-browser-language-change-description = Genstart { -brand-short-name } for at anvende ændringerne
-confirm-browser-language-change-button = Anvend og genstart
+confirm-browser-language-change-button = Genstart
 
 translate-web-pages =
     .label = Oversæt webindhold
@@ -660,7 +660,7 @@ addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 
 content-blocking-header = Blokering af indhold
 
-content-blocking-desc = Bloker indhold fra tredjepart, som fx reklamer eller kode, der kan gøre din browsing langsommere og spore dig rundt på nettet. Tilpas dine indstillinger for at få den bedste balance mellem beskyttelse og ydelse.
+content-blocking-desc = Bloker indhold fra tredjepart, fx reklamer eller kode, der kan gøre din browsing langsommere og som kan spore dig rundt på nettet. Tilpas dine indstillinger for at få den bedste balance mellem beskyttelse og ydelse.
 
 content-blocking-learn-more = Læs mere
 content-blocking-restore-defaults =
