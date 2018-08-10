@@ -723,7 +723,7 @@ tracking-exceptions =
     .label = Undtagelser…
     .accesskey = u
 tracking-change-block-list =
-    .label = Skift blokerings-liste
+    .label = Skift blokeringsliste
     .accesskey = S
 
 ## Privacy Section - Permissions
