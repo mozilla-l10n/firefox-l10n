@@ -103,6 +103,10 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Mit tehet?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>A probléma valószínűleg a weboldallal van, és semmit sem tehet a megoldása érdekében.</p>
+<p>Ha vállalati hálózaton van, vagy antivírus szoftvert használ, akkor segítségért felkeresheti a terméktámogatási csoportot. A weboldal rendszergazdáját is értesítheti a problémáról.</p>
+">
 
 
 
