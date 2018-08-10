@@ -699,7 +699,7 @@ content-blocking-tracking-protection-option-pbm =
   .label = Bloker kun i private vinduer
 content-blocking-tracking-protection-option-disabled =
   .label = Bloker aldrig
-content-blocking-tracking-protection-change-blocklist = Bloker blokerings-liste…
+content-blocking-tracking-protection-change-blocklist = Skift blokeringsliste
 
 ## Privacy Section - Tracking
 
