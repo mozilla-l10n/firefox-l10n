@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 blocklist-window =
-    .title = Blokerings-lister
+    .title = Blokeringslister
     .style = width: 55em
 blocklist-desc = Du kan vælge hvilken liste { -brand-short-name } skal bruge til at blokere net-elementer, der kan spore din browsing-aktivitet.
 blocklist-close-key =
