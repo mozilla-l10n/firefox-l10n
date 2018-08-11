@@ -46,21 +46,10 @@
 
 <!ENTITY  feedTab               "Канали">
 <!ENTITY  feedTab.accesskey     "К">
-<!ENTITY  feedSubscribe         "Претплати се">
-<!ENTITY  feedSubscribe.accesskey "р">
 
 <!ENTITY  permTab               "Дозволи">
 <!ENTITY  permTab.accesskey     "Д">
-<!ENTITY  permUseDefault        "Основни поставки">
-<!ENTITY  permAskAlways         "Прашувај секогаш">
-<!ENTITY  permAllow             "Дозволи">
-<!ENTITY  permAllowSession      "Дозволи само сега">
-<!ENTITY  permBlock             "Блокирај">
 <!ENTITY  permissionsFor        "Дозволи за:">
-<!ENTITY  permPlugins           "Активирај приклучоци">
-
-<!ENTITY  permClearStorage           "Исчисти го складот">
-<!ENTITY  permClearStorage.accesskey "с">
 
 <!ENTITY  securityTab           "Безбедност">
 <!ENTITY  securityTab.accesskey "с">
@@ -77,9 +66,8 @@
 
 <!ENTITY  securityView.privacy.header                   "Приватност и историја">
 <!ENTITY  securityView.privacy.history                  "Сум го посетил ли ова мрежно место пред денес?">
-<!ENTITY  securityView.privacy.cookies                  "Дали оваа страница складира информации (колачиња) на мојот компјутер?">
-<!ENTITY  securityView.privacy.viewCookies              "Прикажи колачиња">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "к">
+<!ENTITY  securityView.privacy.clearSiteData            "Исчисти колачиња и податоци за мрежно место">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "И">
 <!ENTITY  securityView.privacy.passwords                "Дали снимив некои лозинки за оваа страница?">
 <!ENTITY  securityView.privacy.viewPasswords            "Прикажи снимени лозинки">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "р">

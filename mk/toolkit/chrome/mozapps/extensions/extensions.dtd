@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Менаџер за додатоци">
 
-<!ENTITY search.placeholder                   "Пребарај ги сите додатоци">
+<!ENTITY search.placeholder2                  "Барајте на addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Пребарување">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -14,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Не се пронајдени надградби">
 <!ENTITY listEmpty.recentUpdates.label        "Немате неодамнешно ажурирање на додатоците ">
 <!ENTITY listEmpty.findUpdates.label          "Провери за надградби">
-<!ENTITY listEmpty.search.label               "Не се пронајдени соодветни додатоци">
 <!ENTITY listEmpty.button.label               "Научи повеќе за додатоците">
 <!ENTITY installAddonFromFile.label           "Инсталирај додаток од датотека…">
 <!ENTITY installAddonFromFile.accesskey       "И">
@@ -22,9 +21,6 @@
 
 <!ENTITY getThemes.description                "Барате начин да го персонализирате вашиот прелистувач?">
 <!ENTITY getThemes.learnMore                  "Изберете од илјадници теми.">
-
-<!ENTITY cmd.back.tooltip                     "Оди една страница назад">
-<!ENTITY cmd.forward.tooltip                  "Оди една страница напред">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Некои додатоци не може да се верификуваат">
@@ -42,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Овозможи проверување на безбедноста при надградба на додаток">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Барај…">
 <!ENTITY view.discover.label                  "Земи додатоци">
 <!ENTITY view.recentUpdates.label             "Скорешни надградби">
 <!ENTITY view.availableUpdates.label          "Достапни надградби">
@@ -85,8 +80,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "О">
 <!ENTITY cmd.preferencesUnix.label            "Поставки">
 <!ENTITY cmd.preferencesUnix.accesskey        "р">
-<!ENTITY cmd.about.label                      "За">
-<!ENTITY cmd.about.accesskey                  "а">
 
 <!ENTITY cmd.enableAddon.label                "Овозможи">
 <!ENTITY cmd.enableAddon.accesskey            "О">
@@ -135,7 +128,6 @@
 <!ENTITY detail.lastupdated.label             "Последно ажурирање">
 <!ENTITY detail.creator.label                 "Развивач">
 <!ENTITY detail.homepage.label                "Домашна страница">
-<!ENTITY detail.numberOfDownloads.label       "Преземања">
 
 <!ENTITY detail.contributions.description     "Развивачот на овој додаток Ве моли да го поддржите неговиот постојан развој со мала донација.">
 
@@ -167,23 +159,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Паузирај">
 <!ENTITY progress.cancel.tooltip              "Откажи">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Име">
-<!ENTITY sort.name.tooltip                    "Подреди по име">
-<!ENTITY sort.dateUpdated.label               "Последно ажурирање">
-<!ENTITY sort.dateUpdated.tooltip             "Подреди по дата на надградба">
-<!ENTITY sort.relevance.label                 "Најдобро совпаѓање">
-<!ENTITY sort.relevance.tooltip               "Подреди по важност">
-<!ENTITY sort.price.label                     "Цена">
-<!ENTITY sort.price.tooltip                   "Подреди по цена">
-
-<!ENTITY search.filter2.label                 "Барај:">
-<!ENTITY search.filter2.installed.label       "Моите додатоци">
-<!ENTITY search.filter2.installed.tooltip     "Прикажи ги инсталираните додатоци">
-<!ENTITY search.filter2.available.label       "Достапни додатоци">
-<!ENTITY search.filter2.available.tooltip     "Прикажи додатоци достапни за инсталација">
 
 <!ENTITY addon.homepage                       "Домашна страница">
 <!ENTITY addon.details.label                  "Повеќе">
@@ -226,17 +201,6 @@
 <!ENTITY eula.accept                          "Прифати и инсталирај…">
 
 <!ENTITY settings.path.button.label           "Разгледај…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Што е ова? Telemetry може да инсталира и извршува експерименти од време на време.">
-<!ENTITY experiment.info.learnmore "Дознајте повеќе">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Поставки на Telemetry">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Дознајте повеќе …">
 
