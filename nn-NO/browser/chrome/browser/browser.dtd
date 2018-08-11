@@ -548,7 +548,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "Søk i ny fane">
 <!ENTITY searchInNewTab.accesskey     "ø">
-<!ENTITY searchSetAsDefault.label     "Bruk som standard søkemotor">
+<!ENTITY searchSetAsDefault.label     "Bruk som standard søkjemotor">
 <!ENTITY searchSetAsDefault.accesskey "B">
 
 <!ENTITY openLinkCmdInTab.label       "Opne lenke i ny fane">
