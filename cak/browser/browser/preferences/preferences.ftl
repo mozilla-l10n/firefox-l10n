@@ -202,6 +202,9 @@ choose-language-description = Ticha' ri ch'ab'äl nawajo' richin yek'ut pe ri ta
 choose-button =
     .label = Ticha'…
     .accesskey = c
+choose-browser-language-description = Kecha' ri taq ch'ab'äl e'okisan richin yek'ut taq molsamajib'äl, taq rutzijol taqoj, taq rutzijol { -brand-short-name }.
+confirm-browser-language-change-description = Titikirisäx chik { -brand-short-name } richin ye'okisäx ri taq k'exoj
+confirm-browser-language-change-button = Tisamajïx chuqa' Titikirisäx chik
 translate-web-pages =
     .label = Titzalq'omïx rupam ajk'amaya'l
     .accesskey = T
@@ -626,6 +629,10 @@ addressbar-locbar-openpage-option =
     .label = Kejaq taq ruwi'
     .accesskey = K
 addressbar-suggestions-settings = Kek'ex ri taq kajowab'al ri taq kichilab'enik kisamajinel taq kanob'äl
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = Ruq'atik Rupam
 
 ## Privacy Section - Tracking
 
