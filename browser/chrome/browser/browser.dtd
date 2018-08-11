@@ -661,6 +661,9 @@
 <!ENTITY contentBlocking.title "Blocco contenuti">
 <!ENTITY contentBlocking.detected "Rilevati contenuti bloccabili in questo sito.">
 <!ENTITY contentBlocking.notDetected "Nessun contenuto bloccabile in questo sito.">
+<!ENTITY contentBlocking.disabled.label "Disattivato">
+<!ENTITY contentBlocking.disabled.tooltip "Il blocco dei contenuti è stato disattivato.">
+<!ENTITY contentBlocking.exception.tooltip "Il blocco dei contenuti è stato disattivato per questo sito.">
 <!ENTITY contentBlocking.fastBlock.label "Elementi traccianti lenti">
 <!ENTITY contentBlocking.fastBlock.blocked.label "Bloccati">
 <!ENTITY contentBlocking.fastBlock.add.label "Attiva blocco…">
