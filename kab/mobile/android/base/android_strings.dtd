@@ -24,7 +24,7 @@
 <!ENTITY firstrun_signin_button "Qqen ɣer Sync">
 <!ENTITY  onboard_start_button_browser "Bdu tunigin">
 <!ENTITY firstrun_button_notnow "Mačči tura">
-<!ENTITY firstrun_button_next "Γer zdat">
+<!ENTITY firstrun_button_next "Ɣer zdat">
 
 <!ENTITY firstrun_tabqueue_title "Iseγwan">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
@@ -41,7 +41,7 @@
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Kečč">
-<!ENTITY firstrun_account_message "Γur-k &brandShortName; deg yibenk nniḍen?">
+<!ENTITY firstrun_account_message "Ɣur-k &brandShortName; deg yibenk nniḍen?">
 
 <!ENTITY  onboard_start_restricted1 "Qqim d aɣelsan udiɣ mahel s useqdec n lqem-agi aḥerfi n &brandShortName;.">
 
@@ -62,7 +62,7 @@
 <!ENTITY  crash_sorry "Sureft-aɣ">
 <!ENTITY  crash_comment "Rnu awennit (Iwenniten ad ten-walin akk yemdanen)">
 <!ENTITY  crash_allow_contact2 "Sireg &vendorShortName; akken ad yi-d-inermes ɣef uneqqis-agi">
-<!ENTITY  crash_email "Imayl inek">
+<!ENTITY  crash_email "Imayl-inek">
 <!ENTITY  crash_closing_alert "Ffeɣ s war ma tuzneḍ aneqqis n uɣelluy?">
 <!ENTITY  sending_crash_report "Tuzzna n ussaɣ n uɣelluy\u2026">
 <!ENTITY  crash_close_label "Mdel">
@@ -88,7 +88,7 @@
 <!ENTITY bookmark_already_added "Yettwacreḍ yakan">
 <!ENTITY bookmark_removed "Tacreṭ n usebter tettwakkes">
 <!ENTITY bookmark_updated "Tacreṭ n usebter tettwaleqqem">
-<!ENTITY bookmark_options "Iγewwaṛen">
+<!ENTITY bookmark_options "Iɣewwaṛen">
 <!ENTITY bookmark_save "Sekles">
 <!ENTITY screenshot_added_to_bookmarks "Tuṭṭfa n ugdil yettwarna ɣer tecraḍ">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
@@ -119,7 +119,7 @@
 <!ENTITY search "Nadi">
 <!ENTITY reload "Smiren">
 <!ENTITY forward "Asebter d-itteddun">
-<!ENTITY menu "Umuγ">
+<!ENTITY menu "Umuɣ">
 <!ENTITY back "Uɣal ɣer deffir">
 <!ENTITY stop "Rken">
 <!ENTITY site_security "Taɣellist n usmel web">
@@ -145,8 +145,8 @@
      the content description. -->
 <!ENTITY tab_title_prefix_is_playing_audio "Urar n imesli – &formatS;">
 
-<!ENTITY settings "Iγewwaṛen">
-<!ENTITY settings_title "Iγewwaṛen">
+<!ENTITY settings "Iɣewwaṛen">
+<!ENTITY settings_title "Iɣewwaṛen">
 <!ENTITY pref_category_general "Amatu">
 <!ENTITY pref_category_general_summary3 "Agejdan, tutlayt, adras n yiccer">
 
@@ -194,7 +194,7 @@
 <!ENTITY pref_category_privacy_short "Tabaḍnit">
 <!ENTITY pref_category_privacy_summary4 "Asfuɣel, inekcumen,afran n isefka">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Γef &brandShortName;, isteqsiyen yettwassnen FAQs, tiktiwin">
+<!ENTITY pref_category_vendor_summary2 "Ɣef &brandShortName;, isteqsiyen yettwassnen FAQs, tiktiwin">
 <!ENTITY pref_category_datareporting "Afran n isefka">
 <!ENTITY pref_category_logins "Inekcumen">
 <!ENTITY pref_learn_more "Issin ugar">
@@ -322,7 +322,7 @@
 <!ENTITY tracking_protection_prompt_title "Tura s ummesten mgal asfuɣel">
 <!ENTITY tracking_protection_prompt_text "Ad isewḥel iferdisen n usfuɣel akken ur yettili ara wugur yid-k.">
 <!ENTITY tracking_protection_prompt_tip_text "Wali iɣewwaṛen n tbaḍnit akken ad tissineḍ ugar">
-<!ENTITY tracking_protection_prompt_action_button "Gziɣ!">
+<!ENTITY tracking_protection_prompt_action_button "Awi-t!">
 
 <!ENTITY tab_queue_toast_message3 "Iccer yettwasekles deg &brandShortName;">
 <!ENTITY tab_queue_toast_action "Ldi tura">
