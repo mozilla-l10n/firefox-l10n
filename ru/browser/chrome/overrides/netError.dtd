@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Вернуться назад (рекомендуется)">
 <!ENTITY advanced.label "Дополнительно">
 
-<!ENTITY continue.label "Продолжить">
+<!ENTITY continue1.label "Продолжить…">
 
 <!-- Specific error messages -->
 

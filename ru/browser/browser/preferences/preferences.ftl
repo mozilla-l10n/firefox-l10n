@@ -633,6 +633,44 @@ addressbar-locbar-openpage-option =
     .accesskey = к
 addressbar-suggestions-settings = Изменить настройки для предложений поисковых систем
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Блокировка содержимого
+content-blocking-desc = Блокирует стороннее содержимое, такое как реклама или код, которое может замедлить просмотр страниц и отслеживать вас в Интернете. Установите свои настройки, чтобы обеспечить наилучший баланс защиты и производительности.
+content-blocking-learn-more = Подробнее
+content-blocking-restore-defaults =
+    .label = Восстановить по умолчанию
+    .accesskey = и
+content-blocking-toggle-on =
+    .tooltiptext = Отключить блокировку содержимого
+content-blocking-toggle-off =
+    .tooltiptext = Включить блокировку содержимого
+content-blocking-toggle-label-on = ВКЛ
+    .accesskey = к
+content-blocking-toggle-label-off = ОТКЛ
+    .accesskey = Л
+content-blocking-category-label = Выберите, что блокировать
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Медленные элементы слежения
+    .accesskey = л
+content-blocking-fastblock-description = Блокирует стороннее содержимое, загружающееся более 5 секунд.
+content-blocking-fastblock-option-enabled =
+    .label = Всегда блокировать
+content-blocking-fastblock-option-disabled =
+    .label = Никогда не блокировать
+content-blocking-tracking-protection-label = Трекеры
+    .accesskey = е
+content-blocking-tracking-protection-description = Блокирует все известные трекеры (Примечание: может также предотвратить загрузку некоторых страниц).
+content-blocking-tracking-protection-option-enabled =
+    .label = Всегда блокировать
+content-blocking-tracking-protection-option-pbm =
+    .label = Блокировать только в приватных окнах
+content-blocking-tracking-protection-option-disabled =
+    .label = Никогда не блокировать
+content-blocking-tracking-protection-change-blocklist = Сменить список блокировки…
+
 ## Privacy Section - Tracking
 
 tracking-header = Защита от отслеживания
