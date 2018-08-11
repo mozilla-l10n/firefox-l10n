@@ -17,7 +17,7 @@
 <!ENTITY stats.activityPaused "Pause">
 <!ENTITY stats.activityPlaying "Spelar av">
 <!ENTITY stats.activityEnded "Fullført">
-<!ENTITY stats.activitySeeking "(søker)">
+<!ENTITY stats.activitySeeking "(søkjer)">
 <!ENTITY stats.volume "Volum">
 <!ENTITY stats.framesParsed "Bilde innlest">
 <!ENTITY stats.framesDecoded "Bilde dekoda">
