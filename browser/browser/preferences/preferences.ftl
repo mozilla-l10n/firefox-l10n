@@ -5,7 +5,7 @@
 do-not-track-description = 向网站发出“请勿跟踪”信号，示明您不想被跟踪
 do-not-track-learn-more = 详细了解
 do-not-track-option-default =
-    .label = 仅在使用跟踪保护时
+    .label = 仅限使用跟踪保护时
 do-not-track-option-always =
     .label = 始终
 pref-page =
@@ -659,7 +659,7 @@ content-blocking-tracking-protection-description = 拦截已知的所有跟踪�
 content-blocking-tracking-protection-option-enabled =
     .label = 始终拦截
 content-blocking-tracking-protection-option-pbm =
-    .label = 仅在隐私窗口拦截
+    .label = 仅在隐私浏览窗口中拦截
 content-blocking-tracking-protection-option-disabled =
     .label = 永不拦截
 content-blocking-tracking-protection-change-blocklist = 更换拦截列表…
