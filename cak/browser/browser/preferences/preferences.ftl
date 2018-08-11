@@ -633,6 +633,40 @@ addressbar-suggestions-settings = Kek'ex ri taq kajowab'al ri taq kichilab'enik 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Ruq'atik Rupam
+content-blocking-desc = Ke'aq'ata' taq rupam ketamab'al aj rox winäq, achi'el taq rutzijol o b'itz'ib', ri nitikïr nuyokob'a' ri okem pa ka'amaya'l chuqa' yerutzeqelb'ej ri taq ruxaq k'amaya'l ye'atz'ët. Tawichinaj ri anuk'ulem richin choj napäj ri chajinïk chuqa' ri rub'eyal nisamäj.
+content-blocking-learn-more = Tetamäx Ch'aqa' Chik
+content-blocking-restore-defaults =
+    .label = Ketzolij ri taq Wachinel e K'o Wi
+    .accesskey = t
+content-blocking-toggle-on =
+    .tooltiptext = Tichup ri Ruq'atik Rupam
+content-blocking-toggle-off =
+    .tooltiptext = Titzij ri Ruq'atik Rupam
+content-blocking-toggle-label-on = TZIJÏL
+    .accesskey = O
+content-blocking-toggle-label-off = CHUPÜL
+    .accesskey = O
+content-blocking-category-label = Tacha' achike naq'ät
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Taq Ruch'akul Eqal Ojqanem
+    .accesskey = E
+content-blocking-fastblock-description = Taq'ata' ri kipam aj rox winäq, ri niyoke' jotöl chi re ri 5 nich'ramaj richin nusamajib'ej.
+content-blocking-fastblock-option-enabled =
+    .label = Junelïk tiq'at
+content-blocking-fastblock-option-disabled =
+    .label = Majub'ey tiq'at
+content-blocking-tracking-protection-label = Ojqanela'
+    .accesskey = O
+content-blocking-tracking-protection-description = Ke'aq'ata' ronojel ri taq ojqanela' etaman kiwa (Ch'utitzijol: chuqa' yatikïr ye'aq'ät chi kesamajib'ëx ri taq ruxaq).
+content-blocking-tracking-protection-option-enabled =
+    .label = Junelïk tiq'at
+content-blocking-tracking-protection-option-pbm =
+    .label = Tiq'at xa xe pa ichinan taq tzuwäch
+content-blocking-tracking-protection-option-disabled =
+    .label = Majub'ey tiq'at
+content-blocking-tracking-protection-change-blocklist = Tijal Rucholajem Q'atoj…
 
 ## Privacy Section - Tracking
 
