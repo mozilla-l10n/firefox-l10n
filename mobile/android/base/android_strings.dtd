@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Samodejno predvajanje">
 <!ENTITY pref_media_autoplay_enabled_summary "Določite, ali lahko spletne strani samodejno predvajajo videe in druge vsebine">
+<!ENTITY pref_media_autoplay_allow "Dovoli samodejno predvajanje">
+<!ENTITY pref_media_autoplay_block "Zavrni samodejno predvajanje">
 <!ENTITY pref_zoom_force_enabled "Vedno omogoči povečavo">
 <!ENTITY pref_zoom_force_enabled_summary "Vsili povečavo, tako da je mogoča na vsaki strani">
 <!ENTITY pref_voice_input "Glasovni vnos">
