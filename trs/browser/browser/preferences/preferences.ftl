@@ -241,11 +241,56 @@ download-always-ask-where =
     .accesskey = o
 applications-header = Aplikasiôn
 applications-description = Gani ruhua daj { -brand-short-name } nana'uij sa naduninj ma riña Web 'ngà aché nunt.
+applications-filter =
+    .placeholder = Nana'ui' da' yi'ini' aplikasion
+applications-type-column =
+    .label = Da' yi'ni' ma
+    .accesskey = T
+applications-action-column =
+    .label = Sa gi'iát
+    .accesskey = A
+drm-content-header = Sa ma DRM (Digital Rights Management - Sa Dugumin)
+play-drm-content =
+    .label = Nachrun' 'ngà DRM
+    .accesskey = P
+play-drm-content-learn-more = Gahuin chrūn doj
+update-application-title = { -brand-short-name } Nagi'iaj nakà
+update-application-description = Nagi'iaj { -brand-short-name } nakà da' gi'iaj sun hue'é ma.
+update-application-version = Versiun { $version } <a data-l10n-name="learn-more">Sa nia' doj </a>
+update-history =
+    .label = Digun' riña ma sa nagui'iaj nako'
+    .accesskey = p
+update-application-allow-description = Sa huin ruhuaj huin { -brand-short-name }
+update-application-auto =
+    .label = Nagi'iaj nakà ma'ān ma (danj da'ui gàj
+    .accesskey = A
+update-application-check-choose =
+    .label = Nana'ui' sa nakà doj sani ganauit ma àsij gachin dugutuj ma
+    .accesskey = C
+update-application-manual =
+    .label = Si na'na'ui' sa nakà doj (Se sa hue'ê huin)
+    .accesskey = S
+update-application-use-service =
+    .label = Garasun' a'ngo servidor da' dugout' sa nakà doj
+    .accesskey = b
+update-enable-search-update =
+    .label = Nagi'aj nakà ma'ān ma nej sa nana'ui'
+    .accesskey = e
 
 ## General Section - Performance
 
 performance-title = Daj unūkuaj ma
+performance-use-recommended-settings-checkbox =
+    .label = Garasun; sa 'raj sun hue'
+    .accesskey = G
+performance-use-recommended-settings-desc = 'Ngà huaj dananj nī aran' dugui'ij 'ngà si hardware
 performance-settings-learn-more = Gahuin chrun doj
+performance-allow-hw-accel =
+    .label = Garasun' sa dugi'iaj sun hio hardware
+    .accesskey = r
+performance-limit-content-process-option = Si ga'ue giman doj
+    .accesskey = S
+performance-limit-content-process-enabled-desc = Ga'ue gi'iaj sun hue'e ma 'ngà na'nit a'ngo rakïj ñanj, sani raj sun doj rà ma
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
