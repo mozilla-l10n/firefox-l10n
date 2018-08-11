@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchreset.tabtitle       "Bygg oppatt søkeinnstillingane">
+<!ENTITY searchreset.tabtitle       "Bygg oppatt søkjeinnstillingane">
 
-<!ENTITY searchreset.pageTitle      "Vil du byggje oppatt søkeinnstillingane?">
+<!ENTITY searchreset.pageTitle      "Vil du byggje oppatt søkjeinnstillingane?">
 
-<!ENTITY searchreset.pageInfo1      "Søkeinnstillingane dine er kanskje gamle. &brandShortName; kan hjelpe deg med å byggje oppatt søkeinnstillingane.">
+<!ENTITY searchreset.pageInfo1      "Søkjeinnstillingane dine er kanskje gamle. &brandShortName; kan hjelpe deg med å byggje oppatt søkjeinnstillingane.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is

@@ -19,7 +19,7 @@
 <!ENTITY safeb.palm.advisory.desc2 "Rådgjeving levert av <a id='advisory_provider'/>.">
 
 
-<!ENTITY safeb.blocked.malwarePage.title2 "Å besøke denne nettstaden kan skade datamaskina di">
+<!ENTITY safeb.blocked.malwarePage.title2 "Å besøkje denne nettstaden kan skade datamaskina di">
 <!ENTITY safeb.blocked.malwarePage.shortDesc2 "&brandShortName; blokkert denne sida fordi ho kan prøve å installere skadeleg programvare som kan stele eller slette personleg informasjon på datamaskina din.">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
@@ -32,7 +32,7 @@
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Nettstaden framom kan innehalde skadeleg programvare">
-<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; blokkerte denne nettsida fordi ho kan prøve å lure deg til å installere program som skadar nettlesaroppleinga di (til dømes ved å endre startsida di eller ved å vise ekstra annonsar på nettstadar du besøker).">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc2 "&brandShortName; blokkerte denne nettsida fordi ho kan prøve å lure deg til å installere program som skadar nettlesaroppleinga di (til dømes ved å endre startsida di eller ved å vise ekstra annonsar på nettstadar du besøkjer).">
 
 <!-- Localization note (safeb.blocked.unwantedPage.errorDesc.override, safeb.blocked.unwantedPage.errorDesc.noOverride, safeb.blocked.unwantedPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
