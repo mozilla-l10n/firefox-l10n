@@ -96,12 +96,15 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Siden du forsøker åpne kan ikke vises fordi det ikke kunne bekreftes at overført data er autentisk.</li> <li>Kontakt nettstedseieren og informer om problemet.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Tilkoblingen din er ikke sikker">
+<!ENTITY certerror.longpagetitle2 "Advarsel: Potensiell sikkerhetsrisiko forut">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Eieren av <span class='hostname'/> har konfigurert nettstedet sitt feil.  For å beskytte mot at informasjon stjeles, har &brandShortName; ikke koblet til dette nettstedet.">
 
+<!ENTITY certerror.introPara1 "&brandShortName; oppdaget en potensiell sikkerhetstrussel og fortsatte ikke til <span class='hostname'/>. Hvis du besøker dette nettstedet, kan angriperne prøve å stjele informasjon som passord, e-post eller kredittkort.">
 
+<!ENTITY certerror.expiredCert.secondPara "Dette problemet er mest sannsynlig fordi datamaskinens klokke er satt til feil tid, noe som ville forhindre &brandShortName; fra å koble til sikkert.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Hva kan du gjøre med det?">
 
@@ -137,6 +140,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; koblet ikke til <span id='wrongSystemTimeWithoutReference_URL'/> fordi klokken ser ut til å vise feil tid og dette hindrer en sikker tilkobling.</p> <p>Datamaskinens klokke er satt til <span id='wrongSystemTimeWithoutReference_systemDate'/>. For å løse dette problemet, endre dato- og tidsinnstillinger for å få rett tid.</p>">
 
 <!ENTITY certerror.pagetitle1  "Usikker tilkobling">
+<!ENTITY certerror.pagetitle2  "Advarsel: Potensiell sikkerhetsrisiko forut">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dette nettstedet bruker HTTP Strict Transport Security (HSTS) for å spesifisere at &brandShortName; bare kan koble til det sikkert. Derfor kan en ikke legge til et unntak for dette sertifikatet.">
 <!ENTITY certerror.copyToClipboard.label "Kopier tekst til utklippstavlen">
 
