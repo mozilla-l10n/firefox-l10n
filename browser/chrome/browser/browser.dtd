@@ -658,6 +658,15 @@
 <!ENTITY getUserMedia.allWindowsShared.message "Tutte le finestre visibili sullo schermo verranno condivise.">
 <!ENTITY trackingProtection.on "Protezione antitracciamento: ATTIVA">
 <!ENTITY trackingProtection.off "Protezione antitracciamento: DISATTIVATA">
+<!ENTITY contentBlocking.title "Blocco contenuti">
+<!ENTITY contentBlocking.detected "Rilevati contenuti bloccabili in questo sito.">
+<!ENTITY contentBlocking.notDetected "Nessun contenuto bloccabile in questo sito.">
+<!ENTITY contentBlocking.fastBlock.label "Elementi traccianti lenti">
+<!ENTITY contentBlocking.fastBlock.blocked.label "Bloccati">
+<!ENTITY contentBlocking.fastBlock.add.label "Attiva blocco…">
+<!ENTITY contentBlocking.trackingProtection.label "Elementi traccianti">
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Bloccati">
+<!ENTITY contentBlocking.trackingProtection.add.label "Attiva blocco…">
 <!ENTITY trackingProtection.title "Protezione antitracciamento">
 <!ENTITY trackingProtection.tooltip "Apri impostazioni per la protezione antitracciamento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; sta bloccando elementi della pagina in grado di tracciare la navigazione.">
@@ -673,6 +682,8 @@
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!ENTITY trackingProtection.unblock3.label "Disattiva per questo sito">
 <!ENTITY trackingProtection.unblock3.accesskey "s">
+<!ENTITY trackingProtection.unblock4.label "Disattiva blocco per questo sito">
+<!ENTITY trackingProtection.unblock4.accesskey "s">
 <!ENTITY trackingProtection.unblockPrivate.label "Disattiva protezione per questa sessione">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Attiva protezione">
@@ -681,6 +692,10 @@
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Attiva per questo sito">
 <!ENTITY trackingProtection.block4.accesskey "A">
+<!ENTITY trackingProtection.unblockPrivate4.label "Disattiva blocco temporaneamente">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Attiva blocco per questo sito">
+<!ENTITY trackingProtection.block5.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Ricarica la pagina">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 <!ENTITY pluginNotification.showAll.label "Mostra tutti">
