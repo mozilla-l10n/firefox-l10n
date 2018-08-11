@@ -150,10 +150,28 @@ warn-on-open-many-tabs =
 switch-links-to-new-tabs =
     .label = 'Ngà na'nint a'ngo rakïj ñanj, nī nadunat ma arrī chre
     .accesskey = h
+show-tabs-in-taskbar =
+    .label = Ni'io' daj ga rakïj ñanj
+    .accesskey = k
+browser-containers-enabled =
+    .label = Dugi'iaj sun' rakïj ñanj
+    .accesskey = n
 browser-containers-learn-more = Gahuin chrun doj
 browser-containers-settings =
     .label = Nagi'iô'...
     .accesskey = N
+containers-disable-alert-title = Narun' daran' sa hua ni'ninj anj
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Sisa' guxunt rakïj ñanj, { $tabCount } ni ganarán ma'ān a'ngò da'aj rakïj ñanj. Hua nika ruhua raj
+       *[other] Sisa' guxunt rakïj ñanj, { $tabCount } ni ganarán ma'ān a'ngò da'aj rakïj ñanj. Hua nika ruhua raj
+    }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Ganarun' { $tabCount } rakïj ñanj
+       *[other] Ganarun' { $tabCount } rakïj ñanj
+    }
+containers-disable-alert-cancel-button = Ga ra'nga' ma
 containers-remove-alert-title = Guxunt markador na anj?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
@@ -184,6 +202,7 @@ choose-language-description = Ganahui' nânj ruhuat gahui riña pagina web
 choose-button =
     .label = Naguī.
     .accesskey = N
+choose-browser-language-description = Ganahui ahuin nanj garasun't 'ngà { -brand-short-name }
 translate-web-pages =
     .label = Nachru' a'ngo nânj gahui riña web
     .accesskey = N
