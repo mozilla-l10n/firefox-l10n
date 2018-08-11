@@ -83,7 +83,7 @@ extension-controlled-homepage-override = Ei utviding, <img data-l10n-name="icon"
 extension-controlled-new-tab-url = Ei utviding, <img data-l10n-name="icon"/> { $name }, styrer Ny fane-sida di.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
-extension-controlled-default-search = Ei utviding, <img data-l10n-name="icon"/> { $name }, har endra standardsøkemotor.
+extension-controlled-default-search = Ei utviding, <img data-l10n-name="icon"/> { $name }, har endra standardsøkjemotor.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Ei utviding, <img data-l10n-name="icon"/> { $name }, krev innhaldsfaner.
@@ -102,7 +102,7 @@ extension-controlled-enable = For å aktivere utvidinga, gå til <img data-l10n-
 
 ## Preferences UI Search Results
 
-search-results-header = Søkeresultat
+search-results-header = Søkjeresultat
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
@@ -273,7 +273,7 @@ update-application-use-service =
     .label = Bruk ei bakgrunnsteneste for å installere oppdateringar
     .accesskey = B
 update-enable-search-update =
-    .label = Oppdater søkemotorar automatisk
+    .label = Oppdater søkjemotorar automatisk
     .accesskey = e
 
 ## General Section - Performance
@@ -368,13 +368,13 @@ search-bar-hidden =
     .label = Bruk adresselinja for søk og navigering
 search-bar-shown =
     .label = Legg til søkjelinje i verktøylinja
-search-engine-default-header = Standard søkemotor
-search-engine-default-desc = Vel standardsøkemotor som skal brukast i adresselinja og søkelinja.
+search-engine-default-header = Standard søkjemotor
+search-engine-default-desc = Vel standardsøkjemotor som skal brukast i adresselinja og søkelinja.
 search-suggestions-option =
-    .label = Tilby søkeforslag
+    .label = Tilby søkjeforslag
     .accesskey = T
 search-show-suggestions-url-bar-option =
-    .label = Vis søkeforslag i resultata til adresselinja
+    .label = Vis søkjeforslag i resultata til adresselinja
     .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -384,19 +384,19 @@ search-show-suggestions-url-bar-option =
 search-show-suggestions-above-history-option =
     .label = Vis søkeforslag før nettlesarhistorikk i adressefeltresultata
 search-suggestions-cant-show = Søkeforslag vil ikkje visast i adresselinjeresultata fordi du har konfigurert { -brand-short-name } til å aldri hugse historikk.
-search-one-click-header = Eittklikks-søkemotorar
-search-one-click-desc = Vel alternative søkemotorar som vert viste under adresselinja og søkelinja når du byrjar å skrive inn eit søkeord.
+search-one-click-header = Eittklikks-søkjemotorar
+search-one-click-desc = Vel alternative søkjemotorar som vert viste under adresselinja og søkelinja når du byrjar å skrive inn eit søkjeord.
 search-choose-engine-column =
-    .label = Søkemotor
+    .label = Søkjemotor
 search-choose-keyword-column =
     .label = Nykelord
 search-restore-default =
-    .label = Bygg oppatt standard søkemotorar
+    .label = Bygg oppatt standard søkjemotorar
     .accesskey = G
 search-remove-engine =
     .label = Fjern
     .accesskey = F
-search-find-more-link = Finn fleire søkemotorar
+search-find-more-link = Finn fleire søkjemotorar
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Kopiere stikkord
@@ -657,6 +657,7 @@ content-blocking-fastblock-option-disabled =
     .label = Blokker aldri
 content-blocking-tracking-protection-label = Sporfølgjarar
     .accesskey = S
+content-blocking-tracking-protection-description = Blokkerer alle kjende sporfølgjarar (Merk: kan òg hindre at nokre sider vert lasta inn).
 content-blocking-tracking-protection-option-enabled =
     .label = Alltid blokker
 content-blocking-tracking-protection-option-pbm =
