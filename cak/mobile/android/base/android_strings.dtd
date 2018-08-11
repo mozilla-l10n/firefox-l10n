@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Tiya\&apos; q\&apos;ij chi titzijtäj ruyonil">
 <!ENTITY pref_media_autoplay_enabled_summary "Tatz\&apos;eta\&apos; we ri taq ruxaq k\&apos;amaya\&apos;l yetikïr yekitzij taq silowäch pa ruyonil, ke ri\&apos; chuqa\&apos; ch\&apos;aqa\&apos; chik taq k\&apos;ïy k\&apos;oxom">
+<!ENTITY pref_media_autoplay_allow "Tiya\&apos; q\&apos;ij ruyon nitzijtäj">
+<!ENTITY pref_media_autoplay_block "Tiq\&apos;at ruyonil nitzijtäj">
 <!ENTITY pref_zoom_force_enabled "Junelïk titzij ri nimirisanel">
 <!ENTITY pref_zoom_force_enabled_summary "Tib\&apos;an chi re ri pa ruwi\&apos; tz\&apos;ib\&apos;anem, richin yatikïr najalwachij rupalem ruwäch xa b\&apos;a achike\&apos; ruxaq">
 <!ENTITY pref_voice_input "Rokem ch\&apos;ab\&apos;äl">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Tutzaqa\&apos; chi re ri tzijoj">
 <!ENTITY pip_pause_button_title "Tuxlan">
 <!ENTITY pip_pause_button_description "Tuxlan tzijoj">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; Rusamaj K\&apos;ojlemal">
