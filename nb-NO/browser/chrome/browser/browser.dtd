@@ -967,7 +967,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; har oppdaget element som kan spore nettlesingen din.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; har oppdaget element som kan spore nettlesingen din. Du har skrudd av beskyttelse på denne nettsiden.">
 <!ENTITY trackingProtection.notDetected5 "Ingen sporingselement oppdaget på denne siden.">
+<!ENTITY trackingProtection.notDetectedException "Ingen sporingselement er oppdaget på denne siden. Du har slått av beskyttelse på dette nettstedet.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Du har slått på sporingsbeskyttelse. Last om denne siden for å blokkere alle sporere.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
