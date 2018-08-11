@@ -291,6 +291,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Si ga'ue giman doj
     .accesskey = S
 performance-limit-content-process-enabled-desc = Ga'ue gi'iaj sun hue'e ma 'ngà na'nit a'ngo rakïj ñanj, sani raj sun doj rà ma
+performance-limit-content-process-blocked-desc = Ga'ue nagi'iaj nikot 'ngà multiproseso{ -brand-short-name }.<a data-l10n-name="learn-more">Gahuin chrun' garasun' multiproseso</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -305,6 +306,12 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = Garasun' sa unanj nànaj
     .accesskey = a
+browsing-use-onscreen-keyboard =
+    .label = Nagi'iaj rango' teclado riña pantayâ
+    .accesskey = c
+browsing-use-cursor-navigation =
+    .label = Garasun yitinj chre' tekla da' gache nun' riña nej pajina
+    .accesskey = k
 
 ## General Section - Proxy
 
