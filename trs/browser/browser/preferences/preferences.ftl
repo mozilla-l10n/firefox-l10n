@@ -203,6 +203,8 @@ choose-button =
     .label = Naguī.
     .accesskey = N
 choose-browser-language-description = Ganahui ahuin nanj garasun't 'ngà { -brand-short-name }
+confirm-browser-language-change-description = Duno'o' ni nachrun ñun' { -brand-short-name } da' naduna ma
+confirm-browser-language-change-button = Garayinat, ni dunâ'ajt ni nayi'ī ñut
 translate-web-pages =
     .label = Nachru' a'ngo nânj gahui riña web
     .accesskey = N
@@ -238,6 +240,7 @@ download-always-ask-where =
     .label = Yitinj chre ni' nachri' na'anj ma dane' na'ninj sa'aj archivo
     .accesskey = o
 applications-header = Aplikasiôn
+applications-description = Gani ruhua daj { -brand-short-name } nana'uij sa naduninj ma riña Web 'ngà aché nunt.
 
 ## General Section - Performance
 
