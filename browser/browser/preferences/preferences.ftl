@@ -382,8 +382,8 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Vis søkeforslag før nettlesarhistorikk i adressefeltresultata
-search-suggestions-cant-show = Søkeforslag vil ikkje visast i adresselinjeresultata fordi du har konfigurert { -brand-short-name } til å aldri hugse historikk.
+    .label = Vis søkjeforslag før nettlesarhistorikk i adressefeltresultata
+search-suggestions-cant-show = Søkjeforslag vil ikkje visast i adresselinjeresultata fordi du har konfigurert { -brand-short-name } til å aldri hugse historikk.
 search-one-click-header = Eittklikks-søkjemotorar
 search-one-click-desc = Vel alternative søkjemotorar som vert viste under adresselinja og søkelinja når du byrjar å skrive inn eit søkjeord.
 search-choose-engine-column =
@@ -563,7 +563,7 @@ history-remember-browser-option =
     .label = Hugs nettlesing- og nedlastingshistorikk
     .accesskey = H
 history-remember-search-option =
-    .label = Hugse søke- og skjemahistorikk
+    .label = Hugse søkje- og skjemahistorikk
     .accesskey = ø
 history-clear-on-close-option =
     .label = Slette historikk når { -brand-short-name } avsluttar
@@ -627,7 +627,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Opne faner
     .accesskey = O
-addressbar-suggestions-settings = Endre innstillingar for søkeforslag
+addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 
 ## Privacy Section - Content Blocking
 

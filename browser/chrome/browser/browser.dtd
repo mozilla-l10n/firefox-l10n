@@ -512,7 +512,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Søkeførespurnad">
+<!ENTITY contentSearchInput.label     "Søkjeførespurnad">
 <!ENTITY contentSearchSubmit.tooltip  "Send søk">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -543,8 +543,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Endre søkeinnstillingar">
-<!ENTITY changeSearchSettings.tooltip "Endre søkeinnstillingar">
+<!ENTITY changeSearchSettings.button  "Endre søkjeinnstillingar">
+<!ENTITY changeSearchSettings.tooltip "Endre søkjeinnstillingar">
 
 <!ENTITY searchInNewTab.label         "Søk i ny fane">
 <!ENTITY searchInNewTab.accesskey     "ø">
