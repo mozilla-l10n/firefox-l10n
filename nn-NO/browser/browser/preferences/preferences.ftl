@@ -645,6 +645,12 @@ content-blocking-toggle-label-on = PÅ
 content-blocking-toggle-label-off = AV
     .accesskey = A
 content-blocking-category-label = Vel kva som skal blokkerast
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Trege sporingselement
+    .accesskey = s
+content-blocking-fastblock-description = Blokkerer tredjepartsinnhald som tek lenger tid enn 5 sekund å laste inn.
 content-blocking-fastblock-option-enabled =
     .label = Blokker alltid
 content-blocking-fastblock-option-disabled =
