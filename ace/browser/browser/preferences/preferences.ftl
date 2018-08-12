@@ -31,7 +31,7 @@ search-input-box =
         }
 policies-notice =
     { PLATFORM() ->
-        [windows] Preferensi awak droen ka meupeulën ladôm 
+        [windows] Preferensi awak droen ka meupeulën ladôm
        *[other] Piléhan keu atô ata awak droen ka meupeulën ladôm
     }
 pane-general-title = Umom
@@ -199,6 +199,9 @@ choose-language-description = Neupiléh basa nyang droen galak mangat deuh bak �
 choose-button =
     .label = Piléh...
     .accesskey = P
+choose-browser-language-description = Piléh bhasa nyang jingui keu deuh menu, surat, deungön notifikasi nibak { -brand-short-name }.
+confirm-browser-language-change-description = Peuphôn keulayi { -brand-short-name } bah ijak buet nyang ka meugantoe
+confirm-browser-language-change-button = Peujak buet ngön peu udép keulayi
 translate-web-pages =
     .label = Teujemah asoe web
     .accesskey = T
@@ -284,7 +287,7 @@ performance-allow-hw-accel =
     .accesskey = N
 performance-limit-content-process-option = Bataih prosès kontèn
     .accesskey = B
-performance-limit-content-process-enabled-desc = Prosès teunamah kontèn leubèh jröh keu performen watèë tangui lé tab, meutapi lheuëhnyan leubèh lé teungui mèmori. 
+performance-limit-content-process-enabled-desc = Prosès teunamah kontèn leubèh jröh keu performen watèë tangui lé tab, meutapi lheuëhnyan leubèh lé teungui mèmori.
 performance-limit-content-process-blocked-desc = Modifikasi leumboi dari proses asoe jih han keumah ta peulaku kecuali ngën multiproses { -brand-short-name }. <a data-l10n-name="learn-more"> i meurunoe kiban caea ta cek meunyô multiproses na udép
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,7 +380,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Peudeuih saran mita di ateueh riwayat peuhah wèb lam hasé kutak alamat
-search-suggestions-cant-show = Saran mita hana geupeudeuih lam hasé kutak teumpat keureuna droeneuh ka neuatô { -brand-short-name } mangat bèk jiingat riwayat 
+search-suggestions-cant-show = Saran mita hana geupeudeuih lam hasé kutak teumpat keureuna droeneuh ka neuatô { -brand-short-name } mangat bèk jiingat riwayat
 search-one-click-header = Meusén Mita Sigo-Teugön
 search-one-click-desc = Piléh meusén mita geunantoe nyang leumah di yup kutak alamat ngön kutak mita watèe neumulai peutamong narit gunci
 search-choose-engine-column =
@@ -622,6 +625,9 @@ addressbar-locbar-openpage-option =
     .label = Peuhah tab
     .accesskey = P
 addressbar-suggestions-settings = Gantoe geunalak keu saran meusén mita
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
