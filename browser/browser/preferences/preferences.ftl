@@ -633,6 +633,10 @@ addressbar-locbar-openpage-option =
     .accesskey = O
 addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 
+## Privacy Section - Content Blocking
+
+content-blocking-learn-more = Več o tem
+
 ## Privacy Section - Tracking
 
 tracking-header = Zaščita pred sledenjem
