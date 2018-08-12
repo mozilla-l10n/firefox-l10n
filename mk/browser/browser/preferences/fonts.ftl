@@ -77,12 +77,21 @@ fonts-default-sans-serif =
     .label = Санс сериф
 fonts-proportional-size = Големина
     .accesskey = Г
+fonts-serif = Сериф
+    .accesskey = С
+fonts-sans-serif = Санс-сериф
+    .accesskey = н
+fonts-monospace = Моноспејс
+    .accesskey = М
 fonts-monospace-size = Големина
     .accesskey = л
 fonts-minsize = Минимална големина на фонт
     .accesskey = ј
 fonts-minsize-none =
     .label = Нема
+fonts-allow-own =
+    .label = Дозволи страниците да изберат свои фонтови, наместо избраните подолу
+    .accesskey = Д
 
 ## Text Encodings
 ##

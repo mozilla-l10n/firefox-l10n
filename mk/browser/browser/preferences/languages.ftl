@@ -7,6 +7,9 @@ languages-window =
     .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = Мрежните страници понекогаш се понудени на повеќе од еден јазик. Изберете јазици за приказ на овие страници, по желба
+languages-customize-spoof-english =
+    .label = Барај англиски верзии на страниците заради подобрена приватност
 languages-customize-moveup =
     .label = Помести нагоре
     .accesskey = г
@@ -33,3 +36,5 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+languages-active-code-format =
+    .value = { languages-code-format.label }

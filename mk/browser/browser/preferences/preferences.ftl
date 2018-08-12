@@ -31,6 +31,18 @@ close-button =
 feature-enable-requires-restart = { -brand-short-name } мора да се рестартира за да се овозможи оваа особеност.
 feature-disable-requires-restart = { -brand-short-name } мора да се рестартира за да се оневозможи оваа особеност.
 should-restart-title = Рестарирај го { -brand-short-name }
+cancel-no-restart-button = Откажи
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -44,13 +56,6 @@ separate-profile-mode =
     .label = Дозволи { -brand-short-name } и Firefox да работат во исто време
 is-default = { -brand-short-name } е вашиот основен прелистувач
 is-not-default = { -brand-short-name } не е вашиот основен прелистувач
-startup-user-homepage =
-    .label = Прикажи ја мојата почетна страница
-startup-blank-page =
-    .label = Прикажи празна страница
-startup-prev-session =
-    .label = Прикажи ги прозорците и јазичињата од последниот пат
-home-page-header = Почетна страница
 tabs-group-header = Јазичиња
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab преминува низ јазичињата според редоследот по кој биле користени
@@ -65,6 +70,7 @@ containers-disable-alert-ok-button =
         [one] Затвори { $tabCount } контејнерско јазиче
        *[other] Затвори { $tabCount } контејнерски јазичиња
     }
+containers-remove-cancel-button = Не го бриши овој контејнер
 
 ## General Section - Language & Appearance
 
@@ -164,9 +170,6 @@ use-current-pages =
 choose-bookmark =
     .label = Користи обележувач...
     .accesskey = б
-restore-default =
-    .label = Основна страница
-    .accesskey = р
 
 ## Search Section
 
@@ -221,6 +224,9 @@ sync-engine-history =
     .label = Историја
     .accesskey = р
 sync-device-name-header = Име на уред
+sync-device-name-cancel =
+    .label = Откажи
+    .accesskey = к
 sync-tos-link = Услови за употреба
 sync-fxa-privacy-notice = Белешка за приватност
 
@@ -281,6 +287,9 @@ sitedata-cookies-exceptions =
     .accesskey = И
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
