@@ -643,6 +643,25 @@ content-blocking-toggle-label-on = Udép
 content-blocking-toggle-label-off = Lén
     .accesskey = L
 content-blocking-category-label = Piléh nyan neutham
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Peumeulèk elemen peulacak
+    .accesskey = P
+content-blocking-fastblock-description = Tham asoe third-party nyang leubéh treb dari 5 detik teuhah.
+content-blocking-fastblock-option-enabled =
+    .label = Tham sabé sabé
+content-blocking-fastblock-option-disabled =
+    .label = Hantom tham
+content-blocking-tracking-protection-label = Peulacak
+    .accesskey = P
+content-blocking-tracking-protection-description = Tham mandum peulacak nyan ituri (cetet: jeut meutheun ladôm ôn nibak teuhah).
+content-blocking-tracking-protection-option-enabled =
+    .label = Sabe sabe tham
+content-blocking-tracking-protection-option-pbm =
+    .label = Tham watéi lam private windows sagai
+content-blocking-tracking-protection-option-disabled =
+    .label = Hantom tham
 
 ## Privacy Section - Tracking
 
