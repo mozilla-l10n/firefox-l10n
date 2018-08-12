@@ -202,6 +202,7 @@ choose-language-description = Vel føretrekt språk på nettsider
 choose-button =
     .label = Vel…
     .accesskey = V
+choose-browser-language-description = Vel språka som som skal brukast til å vise menyar, meldingar og varsel frå { -brand-short-name }.
 confirm-browser-language-change-description = Start om { -brand-short-name } for å bruke disse endringene
 confirm-browser-language-change-button = Bruk og start på nytt
 translate-web-pages =
@@ -632,6 +633,7 @@ addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Innholdsblokkering
+content-blocking-desc = Blokker tredjepartsinnhald, som annonsar eller kode, som kan gjere surfinga tregare og som kan spore deg rundt på nettet. Tilpass innstillingane for best mogleg balanse mellom vern og yting.
 content-blocking-learn-more = Les meir
 content-blocking-restore-defaults =
     .label = Still tilbake til standard
