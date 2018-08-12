@@ -629,6 +629,20 @@ addressbar-suggestions-settings = Gantoe geunalak keu saran meusén mita
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Tham asoe
+content-blocking-desc = Tham asoe third-party, lagéi ads atawa kode, nyang peumeulék browsing droen dan ji peiku droen nibak web. Atô peuatô droen beu abéh lagak nibak proteksi dan performance
+content-blocking-learn-more = Meurunoe lôm
+content-blocking-restore-defaults =
+    .label = Peupuléh lagéi söt
+    .accesskey = P
+content-blocking-toggle-on =
+    .tooltiptext = Peulén peutham asoe
+content-blocking-toggle-off =
+    .tooltiptext = Peu udép peutham asoe
+content-blocking-toggle-label-on = Udép
+    .accesskey = U
+content-blocking-toggle-label-off = Lén
+    .accesskey = L
+content-blocking-category-label = Piléh nyan neutham
 
 ## Privacy Section - Tracking
 
