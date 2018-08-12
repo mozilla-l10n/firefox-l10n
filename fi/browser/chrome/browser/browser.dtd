@@ -50,6 +50,8 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Päivitä valitut välilehdet">
 <!ENTITY  reloadSelectedTabs.accesskey       "P">
+<!ENTITY  bookmarkSelectedTabs.label         "Lisää välilehdet kirjanmerkkeihin…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "i">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -72,7 +74,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "S">
 <!ENTITY  reopenInContainer.label            "Avaa uudelleen eristystilassa">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "Lisää välilehdet kirjanmerkkeihin…">
+<!ENTITY  bookmarkAllTabs.label              "Lisää kaikki välilehdet kirjanmerkkeihin…">
 <!ENTITY  bookmarkAllTabs.accesskey          "i">
 <!ENTITY  undoCloseTab.label                 "Kumoa välilehden sulkeminen">
 <!ENTITY  undoCloseTab.accesskey             "u">
@@ -112,7 +114,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Päivitä kaikki välilehdet">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ä">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Lisää välilehdet kirjanmerkkeihin…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Lisää kaikki välilehdet kirjanmerkkeihin…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Kumoa välilehden sulkeminen">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "m">
@@ -199,7 +201,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Tilaa sivu">
 <!ENTITY subscribeToPageMenuitem.label "Tilaa sivu…">
-<!ENTITY addCurPagesCmd.label "Lisää välilehdet kirjanmerkkeihin…">
+<!ENTITY addCurPagesCmd.label "Lisää kaikki välilehdet kirjanmerkkeihin…">
 <!ENTITY showAllBookmarks2.label "Näytä kaikki kirjanmerkit">
 <!ENTITY recentBookmarks.label "Viimeksi lisätyt">
 <!ENTITY otherBookmarksCmd.label "Muut kirjanmerkit">
