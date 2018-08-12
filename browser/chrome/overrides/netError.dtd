@@ -99,7 +99,9 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Eigaren av <span class='hostname'/> har konfigurert nettstaden sin feil.  For å verne informasjonen din frå å bli stolen, har &brandShortName; ikkje kopla seg til denne nettstaden.">
 
+<!ENTITY certerror.introPara1 "&brandShortName; oppdaga ein potensiell sikkerheitstrussel, og fortsette ikkje til <span class='hostname'/>. Viss du besøkjer denne nettsida, kan angriparane prøve å stele informasjon som passord, e-post eller kredittkort.">
 
+<!ENTITY certerror.expiredCert.secondPara "Dette problemet får du, mest sannsynleg, fordi klokka på datamaskina di er innstillt på feil tid, noko som ville hindre &brandShortName; frå å kople til trygt.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Kva kan du gjere med det?">
 
