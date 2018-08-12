@@ -633,6 +633,7 @@ addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Sisällön esto
+content-blocking-desc = Voit estää kolmannen osapuolen sisältöä, kuten mainoksia tai koodia, joka hidastaa selaamistasi ja seuraa sinua ympäri verkkoa. Voit säätää asetuksia saavuttaaksesi parhaan suojan ja suorituskyvyn tasapainon.
 content-blocking-learn-more = Lue lisää
 content-blocking-restore-defaults =
     .label = Palauta oletukset
@@ -645,6 +646,13 @@ content-blocking-toggle-label-on = KÄYTÖSSÄ
     .accesskey = K
 content-blocking-toggle-label-off = EI KÄYTÖSSÄ
     .accesskey = K
+content-blocking-category-label = Valitse, mitä estetään
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Hitaat seurantaelementit
+    .accesskey = H
+content-blocking-fastblock-description = Estää kolmannen osapuolen sisällön, jonka latautumisessa kestää pidempään kuin 5 sekuntia.
 content-blocking-fastblock-option-enabled =
     .label = Estä aina
 content-blocking-fastblock-option-disabled =
