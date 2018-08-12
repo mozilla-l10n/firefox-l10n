@@ -27,4 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me perussuojaus (Suositeltu).
 blocklist-item-moz-std-desc = Sallii rajatun seurannan, jotta sivustot voivat toimia asianmukaisesti.
 blocklist-item-moz-full-name = Disconnect.me tiukka suojaus.
-blocklist-item-moz-full-desc = Estää tunnetut seurantamenetelmät. Joidenkin sivustojen toiminta voi häiriintyä.
+blocklist-item-moz-full-desc = Estää tunnetut seuraimet. Joidenkin sivustojen toiminta voi häiriintyä.
