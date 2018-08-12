@@ -646,14 +646,14 @@ content-blocking-category-label = Piléh nyan neutham
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Peumeulèk elemen peulacak
+content-blocking-fastblock-label = Peumeulèk elemen seumeutöt
     .accesskey = P
 content-blocking-fastblock-description = Tham asoe third-party nyang leubéh treb dari 5 detik teuhah.
 content-blocking-fastblock-option-enabled =
     .label = Tham sabé sabé
 content-blocking-fastblock-option-disabled =
     .label = Hantom tham
-content-blocking-tracking-protection-label = Peulacak
+content-blocking-tracking-protection-label = Peuseutöt
     .accesskey = P
 content-blocking-tracking-protection-description = Tham mandum peulacak nyan ituri (cetet: jeut meutheun ladôm ôn nibak teuhah).
 content-blocking-tracking-protection-option-enabled =
@@ -662,11 +662,12 @@ content-blocking-tracking-protection-option-pbm =
     .label = Tham watéi lam private windows sagai
 content-blocking-tracking-protection-option-disabled =
     .label = Hantom tham
+content-blocking-tracking-protection-change-blocklist = Gantoe seunaroe tham
 
 ## Privacy Section - Tracking
 
 tracking-header = Lindông Seumeutöt
-tracking-desc = Lind6ong Seumeutöt jitheun seumeutöt online nyang jipeusaho data pumeuhah wèb droeneuh lam macam-macam situs wèb. <a data-l10n-name="learn-more">Neumeurunoe lom bhaih Lindông Seumeutöt ngön privasi Droeneuh</a>
+tracking-desc = Lindong Seumeutöt jitheun seumeutöt online nyang jipeusaho data pumeuhah wèb droeneuh lam macam-macam situs wèb. <a data-l10n-name="learn-more">Neumeurunoe lom bhaih Lindông Seumeutöt ngön privasi Droeneuh</a>
 tracking-mode-label = Ngui Lindông Seumeutöt keu blokir peulacak nyang geutupeue
 tracking-mode-always =
     .label = Sabé
@@ -685,7 +686,7 @@ tracking-exceptions =
     .label = Keucuwali...
     .accesskey = K
 tracking-change-block-list =
-    .label = Gantoe Seunarai Tham
+    .label = Gantoe Seunaroe Tham
     .accesskey = G
 
 ## Privacy Section - Permissions
