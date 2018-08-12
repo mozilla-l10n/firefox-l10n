@@ -16,8 +16,22 @@ permissions-session =
 permissions-allow =
     .label = Дозволи
     .accesskey = о
+permissions-site-name =
+    .label = Мрежно место
 permissions-status =
     .label = Статус
+permissions-remove =
+    .label = Отстрани мрежно место
+    .accesskey = О
+permissions-remove-all =
+    .label = Отстрани ги сите мрежни места
+    .accesskey = с
+permissions-button-cancel =
+    .label = Откажи
+    .accesskey = О
+permissions-button-ok =
+    .label = Зачувај промени
+    .accesskey = З
 permissions-capabilities-allow =
     .label = Дозволи
 permissions-capabilities-block =
@@ -44,6 +58,9 @@ permissions-exceptions-popup-desc = Можете да одредите кои м
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Можете да одредите од кои мрежни места смее да се инсталираат додатоци. Внесете ја точната адреса за коja сакате да дозволите и кликнете на „Дозволи“.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
