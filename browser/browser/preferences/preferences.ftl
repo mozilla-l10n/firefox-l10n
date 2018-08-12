@@ -629,9 +629,28 @@ addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = Lue lisää
+content-blocking-restore-defaults =
+    .label = Palauta oletukset
+    .accesskey = P
+content-blocking-toggle-label-on = KÄYTÖSSÄ
+    .accesskey = K
+content-blocking-toggle-label-off = EI KÄYTÖSSÄ
+    .accesskey = K
+content-blocking-fastblock-option-enabled =
+    .label = Estä aina
+content-blocking-fastblock-option-disabled =
+    .label = Älä estä koskaan
 content-blocking-tracking-protection-label = Seuraimet
     .accesskey = S
 content-blocking-tracking-protection-description = Estää tunnetut seuraimet (huomaa: voi estää joitain sivuja latautumasta).
+content-blocking-tracking-protection-option-enabled =
+    .label = Estä aina
+content-blocking-tracking-protection-option-pbm =
+    .label = Estä vain yksityisen selaamisen ikkunoissa
+content-blocking-tracking-protection-option-disabled =
+    .label = Älä estä koskaan
+content-blocking-tracking-protection-change-blocklist = Muuta estolistaa…
 
 ## Privacy Section - Tracking
 
