@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Tillad automatisk afspilning">
 <!ENTITY pref_media_autoplay_enabled_summary "Bestemmer om websteder kan starte afspilning af video og andet medieindhold automatisk">
+<!ENTITY pref_media_autoplay_allow "Tillad automatisk afspilning">
+<!ENTITY pref_media_autoplay_block "Afspil ikke automatisk">
 <!ENTITY pref_zoom_force_enabled "Aktiver altid zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Gennemtving zoom, så du kan zoome på alle websider">
 <!ENTITY pref_voice_input "Stemme-input">
@@ -447,6 +449,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Fejlrapportering">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Positionstjeneste">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Hjælp &vendorShortName; med at kortlægge hele verden! Del din enheds tilnærmelsesvise position ud fra wi-fi og mobilmaster, så vi kan forbedre vores positionstjeneste.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName;s positionstjeneste kører">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -891,3 +898,13 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Føj til startskærm">
 <!ENTITY pwa_continue_to_website "Fortsæt til websted">
 <!ENTITY pwa_onboarding_sumo "Du kan nemt føje dette websted til din startskærm for at have hurtig adgang til det og browse hurtigere med en app-lignende oplevelse.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Afspil">
+<!ENTITY pip_play_button_description "Fortsæt afspilning">
+<!ENTITY pip_pause_button_title "Pause">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName;s positionstjeneste">
