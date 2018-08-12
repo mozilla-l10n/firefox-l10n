@@ -28,7 +28,7 @@
 <!ENTITY newOtherAccountsCmd.accesskey "r">
 <!ENTITY newCreateEmailAccountCmd.label "Odpri nov poštni račun …">
 <!ENTITY newCreateEmailAccountCmd.accesskey "n">
-<!ENTITY newExistingEmailAccountCmd.label "Obstoječi poštni račun …">
+<!ENTITY newExistingEmailAccountCmd.label "Poveži obstoječ poštni račun …">
 <!ENTITY newExistingEmailAccountCmd.accesskey "b">
 <!ENTITY newIMAccountCmd.label "Račun za klepet …">
 <!ENTITY newIMAccountCmd.accesskey "e">
