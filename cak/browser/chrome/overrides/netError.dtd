@@ -23,13 +23,13 @@
 
 <!ENTITY dnsNotFound.pageTitle "Man Xilitäj ta ri Ruk'u'x Samaj">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. Tajin nik'oje' k'ayewal richin niqïl ri ruxaq k'amaya'l ri'.">
+<!ENTITY dnsNotFound.title1 "Hmm. K'o qak'ayewal richin niqïl ri ruxaq k'amaya'l.">
 <!ENTITY dnsNotFound.longDesc1 "
-<strong>We ütz ri ochochib'äl ri', wawe' k'o oxi' chik rub'eyal yatikïr nib'an:</strong>
+<strong>We ütz ri ochochib'äl, yatikïr nawojqaj re oxi' rub'eyal re':</strong>
 <ul>
-  <li>Tatojtob'ej pa jumej chik na.</li>
-  <li>Tanik'oj awokem pa k'amab'ey.</li>
-  <li>We okinäq po k'o jun firewall chi rij, tanik'oj chi ri &brandShortName; ya'on q'ij chi re richin nok pan Ajk'amaya'l.</li>
+  <li>Tatojtob'ej pa jumej chik.</li>
+  <li>Tanik'oj rokem ak'amab'ey.</li>
+  <li>We atokinäq po k'o jun firewall chi rij, tanik'oj chi ri &brandShortName; ya'on q'ij chi re richin nok pan Ajk'amaya'l.</li>
 </ul>
 ">
 
