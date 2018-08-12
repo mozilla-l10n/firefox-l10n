@@ -7,7 +7,7 @@
 <!ENTITY undoCmd.label             "Titzolïx">
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "T">
-<!ENTITY redoCmd.label             "Rukamuluxik">
+<!ENTITY redoCmd.label             "Tikamulüx">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "m">
 <!ENTITY cutCmd.label              "Tiqupïx">

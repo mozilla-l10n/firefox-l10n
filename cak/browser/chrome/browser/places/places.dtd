@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "molwachinäq">
+<!ENTITY places.library.title  "Wujb'äl">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Ticholajïx">
@@ -73,9 +73,6 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Kesamajib'ëx silonel taq yaketal">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "K">
 
-<!ENTITY cmd.moveBookmarks.label                  "Tijech'ëx…">
-<!ENTITY cmd.moveBookmarks.accesskey              "T">
-
 <!ENTITY col.name.label          "B'i'aj">
 <!ENTITY col.tags.label          "Taq etal">
 <!ENTITY col.url.label           "Rochochib'al">
@@ -102,6 +99,7 @@
 <!ENTITY detailsPane.more.accesskey "q">
 <!ENTITY detailsPane.less.label "Jub'a'">
 <!ENTITY detailsPane.less.accesskey "b">
+
 <!ENTITY detailsPane.selectAnItemText.description "Tacha' jun ch'akulal richin natz'ët chuqa' nanük' ri taq ruch'akulal">
 
 <!ENTITY view.label               "Titz'et">

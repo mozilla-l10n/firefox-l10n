@@ -342,7 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.label            "Titzolïx">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "t">
-<!ENTITY redoCmd.label            "Rukamuluxik">
+<!ENTITY redoCmd.label            "Tikamulüx">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "m">
 <!ENTITY cutCmd.label           "Tiqupïx">
@@ -892,7 +892,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Titikirisäx molojri'ïl pa &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "I">
-<!ENTITY syncSyncNowItem.label        "Rutunik wakami">
+<!ENTITY syncSyncNowItem.label        "Tixim Wakami">
 <!ENTITY syncSyncNowItem.accesskey    "R">
 <!ENTITY syncReAuthItem.label         "Tawokisaj chik pa &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "T">
