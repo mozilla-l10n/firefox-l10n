@@ -627,11 +627,17 @@ addressbar-locbar-openpage-option =
     .accesskey = a
 addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 
+## Privacy Section - Content Blocking
+
+content-blocking-tracking-protection-label = Seuraimet
+    .accesskey = S
+content-blocking-tracking-protection-description = Estää tunnetut seuraimet (huomaa: voi estää joitain sivuja latautumasta).
+
 ## Privacy Section - Tracking
 
 tracking-header = Seurannan suojaus
-tracking-desc = Seurannan suojaus estää verkossa toimivia seurantamenetelmiä, jotka keräävät tietoja selaamisestasi yli sivustorajojen. <a data-l10n-name="learn-more">Lue lisää seurannan suojauksesta ja tietosuojastasi</a>
-tracking-mode-label = Käytä seurannan suojausta estämään tunnettuja seurantamenetelmiä
+tracking-desc = Seurannan suojaus estää verkossa toimivia seuraimia, jotka keräävät tietoja selaamisestasi yli sivustorajojen. <a data-l10n-name="learn-more">Lue lisää seurannan suojauksesta ja tietosuojastasi</a>
+tracking-mode-label = Käytä seurannan suojausta estämään tunnettuja seuraimia
 tracking-mode-always =
     .label = Aina
     .accesskey = n
@@ -643,7 +649,7 @@ tracking-mode-never =
     .accesskey = E
 # This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
 # This currently happens on the release and beta channel.
-tracking-pbm-label = Käytä seurannan suojausta yksityisessä selauksessa estämään tunnettuja seurantamenetelmiä
+tracking-pbm-label = Käytä seurannan suojausta yksityisessä selauksessa estämään tunnettuja seuraimia
     .accesskey = m
 tracking-exceptions =
     .label = Poikkeukset…
