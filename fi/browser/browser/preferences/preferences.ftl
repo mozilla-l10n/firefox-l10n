@@ -202,6 +202,9 @@ choose-language-description = Valitse kielet, joilla sivut näytetään
 choose-button =
     .label = Valitse…
     .accesskey = V
+choose-browser-language-description = Valitse kielet, joilla { -brand-short-name }in valikot, viestit ja ilmoitukset näytetään.
+confirm-browser-language-change-description = Käytä näitä muutoksia käynnistämällä { -brand-short-name } uudestaan
+confirm-browser-language-change-button = Käytä ja käynnistä uudestaan
 translate-web-pages =
     .label = Käännä sivustojen sisältö
     .accesskey = n
@@ -629,10 +632,15 @@ addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Sisällön esto
 content-blocking-learn-more = Lue lisää
 content-blocking-restore-defaults =
     .label = Palauta oletukset
     .accesskey = P
+content-blocking-toggle-on =
+    .tooltiptext = Poista sisällön esto käytöstä
+content-blocking-toggle-off =
+    .tooltiptext = Ota sisällön esto käyttöön
 content-blocking-toggle-label-on = KÄYTÖSSÄ
     .accesskey = K
 content-blocking-toggle-label-off = EI KÄYTÖSSÄ
