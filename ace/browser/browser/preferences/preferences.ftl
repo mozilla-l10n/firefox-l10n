@@ -628,6 +628,7 @@ addressbar-suggestions-settings = Gantoe geunalak keu saran meusén mita
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Tham asoe
 
 ## Privacy Section - Tracking
 
