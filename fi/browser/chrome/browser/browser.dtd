@@ -957,9 +957,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.tooltip "Avaa seurannan suojauksen asetukset">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; estää tästä sivusta osia, jotka voivat seurata selaamistasi.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; on löytänyt elementtejä, jotka saattavat seurata selailuasi.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; on löytänyt elementtejä, jotka saattavat seurata selailuasi. Olet poistanut seurannan suojauksen käytöstä tällä sivustolla.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; on löytänyt elementtejä, jotka saattavat seurata selailuasi. Olet poistanut seurannan suojauksen käytöstä tältä sivustolta.">
 <!ENTITY trackingProtection.notDetected5 "Tällä sivulla ei havaittu seurantaelementtejä.">
-<!ENTITY trackingProtection.notDetectedException "Tällä sivulla ei havaittu seurantaelementtejä. Olet poistanut seurannan suojauksen käytöstä tällä sivustolla.">
+<!ENTITY trackingProtection.notDetectedException "Tällä sivulla ei havaittu seurantaelementtejä. Olet poistanut seurannan suojauksen käytöstä tältä sivustolta.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Olet ottanut seurannan suojauksen käyttöön. Estä kaikki selauksen seuraajat lataamalla tämä sivu uudelleen.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
