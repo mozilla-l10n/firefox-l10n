@@ -49,7 +49,7 @@
 <!ENTITY recoveryKeyEntry.label        "Gjenopprettingsnøkkel">
 <!ENTITY recoveryKeyEntry.accesskey    "n">
 <!ENTITY recoveryGenerateNewKey.label  "Generer en ny nøkkel">
-<!ENTITY recoveryKeyBackup.description "Gjenopprettingsnøkkelen din er påkrevd for å få tilgang til &syncBrand.fullName.label; på flere maskiner. Lag en sikkerhetskopi. Vi kan ikke hjelpe deg å finne tilbake tilbake en glemt gjenopprettingsnøkkelen.">
+<!ENTITY recoveryKeyBackup.description "Gjenopprettingsnøkkelen din er påkrevd for å få tilgang til &syncBrand.fullName.label; på flere maskiner. Lag en sikkerhetskopi. Vi kan ikke hjelpe deg å finne tilbake en glemt gjenopprettingsnøkkel.">
 
 <!ENTITY button.syncKeyBackup.print.label     "Skriv ut …">
 <!ENTITY button.syncKeyBackup.print.accesskey "S">
