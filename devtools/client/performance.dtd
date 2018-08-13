@@ -36,6 +36,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
+<!ENTITY performanceUI.table.totalDuration            "เวลารวม">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "ร้อยละของเวลาที่ใช้กับฟังก์ชันนี้">
 <!ENTITY performanceUI.table.samples                  "ตัวอย่าง">
 <!ENTITY performanceUI.table.function                 "ฟังก์ชัน">
