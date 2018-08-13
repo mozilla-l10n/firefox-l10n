@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Baimendu auto-erreprodukzioa">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrolatu webguneek bideoak eta bestelako multimedia-edukiak automatikoki erreproduzi ditzaketen ala ez">
+<!ENTITY pref_media_autoplay_allow "Baimendu auto-erreprodukzioa">
+<!ENTITY pref_media_autoplay_block "Blokeatu auto-erreprodukzioa">
 <!ENTITY pref_zoom_force_enabled "Gaitu beti zooma">
 <!ENTITY pref_zoom_force_enabled_summary "Behartu gainidazketa edozein orritan zooma erabili ahal izateko">
 <!ENTITY pref_voice_input "Ahots bidezko sarrera">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Berrekin erreprodukzioa">
 <!ENTITY pip_pause_button_title "Pausatu">
 <!ENTITY pip_pause_button_description "Pausatu erreprodukzioa">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; kokapen-zerbitzuak">
