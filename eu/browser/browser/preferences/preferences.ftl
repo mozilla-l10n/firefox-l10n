@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } ez da zure nabigatzaile lehenetsia
 set-as-my-default-browser =
     .label = Lehenetsi…
     .accesskey = L
-startup-page = { -brand-short-name } abiatzean
-    .accesskey = z
-startup-user-homepage =
-    .label = Erakutsi hasiera-orria
-startup-blank-page =
-    .label = Erakutsi orri hutsa
-startup-prev-session =
-    .label = Berreskuratu azken saioko fitxak eta leihoak
 startup-restore-previous-session =
     .label = Berreskuratu aurreko saioa
     .accesskey = B
 disable-extension =
     .label = Desgaitu hedapena
-home-page-header = Hasiera-orria
 tabs-group-header = Fitxak
 ctrl-tab-recently-used-order =
     .label = Ktrl+Tab konbinazioak fitxaz aldatzen du azkenekoz erabilitako ordenan
@@ -219,6 +202,7 @@ choose-language-description = Aukeratu orriak bistaratzeko hizkuntza hobetsia
 choose-button =
     .label = Aukeratu…
     .accesskey = A
+confirm-browser-language-change-button = Aplikatu eta berrabiarazi
 translate-web-pages =
     .label = Itzuli webeko edukia
     .accesskey = I
@@ -237,7 +221,7 @@ check-user-spelling =
 files-and-applications-title = Fitxategiak eta aplikazioak
 download-header = Deskargak
 download-save-to =
-    .label = Gorde fitxategiak hemen: 
+    .label = Gorde fitxategiak hemen:
     .accesskey = G
 download-choose-folder =
     .label =
@@ -270,7 +254,6 @@ play-drm-content =
 play-drm-content-learn-more = Argibide gehiago
 update-application-title = { -brand-short-name } eguneraketak
 update-application-description = Mantendu { -brand-short-name } eguneratuta errendimendu, egonkortasun eta segurtasun onena bermatzeko.
-update-application-info = ​{ $version }bertsioa <a>Nobedadeak</a>
 update-application-version = { $version }bertsioa <a data-l10n-name="learn-more">Nobedadeak</a>
 update-history =
     .label = Erakutsi eguneraketen historia…
@@ -306,7 +289,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Eduki-prozesuen muga
     .accesskey = m
 performance-limit-content-process-enabled-desc = Eduki-prozesu gehigarriek errendimendua hobe dezakete hainbat fitxa erabiltzean baina memoria gehiago ere erabiliko du.
-performance-limit-content-process-disabled-desc = Edukien prozesu kopurua multiprozesu moduko { -brand-short-name }(r)ekin alda daiteke soilik. <a>Argibide gehiago multiprozesu modua gaituta dagoen egiaztatzeko</a>
 performance-limit-content-process-blocked-desc = Edukien prozesu kopurua multiprozesu moduko { -brand-short-name }(r)ekin alda daiteke soilik. <a data-l10n-name="learn-more">Argibide gehiago multiprozesu modua gaituta dagoen egiaztatzeko</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +359,6 @@ use-current-pages =
 choose-bookmark =
     .label = Erabili laster-marka…
     .accesskey = b
-restore-default =
-    .label = Berrezarri lehenetsiak
-    .accesskey = r
 
 ## Search Section
 
@@ -648,6 +627,32 @@ addressbar-locbar-openpage-option =
     .label = Irekitako fitxak
     .accesskey = I
 addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hobespenak
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = Edukia blokeatzea
+content-blocking-learn-more = Argibide gehiago
+content-blocking-restore-defaults =
+    .label = Berrezarri lehenetsiak
+    .accesskey = B
+content-blocking-category-label = Aukeratu zer blokeatu
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Jarraipena egiten duten elementu motelak
+    .accesskey = m
+content-blocking-fastblock-description = Kargatzeko 5 segundo edo gehiago behar duen hirugarrenen edukia blokeatzen du.
+content-blocking-fastblock-option-enabled =
+    .label = Blokeatu beti
+content-blocking-fastblock-option-disabled =
+    .label = Inoiz ez blokeatu
+content-blocking-tracking-protection-option-enabled =
+    .label = Blokeatu beti
+content-blocking-tracking-protection-option-pbm =
+    .label = Blokeatu soilik leiho pribatuetan
+content-blocking-tracking-protection-option-disabled =
+    .label = Inoiz ez blokeatu
+content-blocking-tracking-protection-change-blocklist = Aldatu blokeo-zerrenda…
 
 ## Privacy Section - Tracking
 
