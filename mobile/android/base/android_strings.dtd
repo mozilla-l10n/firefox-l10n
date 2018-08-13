@@ -372,6 +372,7 @@
 
 <!ENTITY pref_media_autoplay_enabled "নিজে থেকে চালু হওয়ার অনুমতি দিন">
 <!ENTITY pref_media_autoplay_enabled_summary "ওয়েবসাইট ভিডিও এবং অন্যান্য মিডিয়া স্বয়ংক্রিয়ভাবে চালাবে কিনা তা নিয়ন্ত্রণ করুন">
+<!ENTITY pref_media_autoplay_allow "নিজে থেকে চালু হওয়ার অনুমতি দিন">
 <!ENTITY pref_zoom_force_enabled "সর্বদা জুম সক্রিয় রাখুন">
 <!ENTITY pref_zoom_force_enabled_summary "জোর করে ওভাররাইড করুন যাতে আপনি সমস্ত পাতা জুম করতে পারেন">
 <!ENTITY pref_voice_input "ভয়েস ইনপুট">
@@ -447,6 +448,10 @@
 <!ENTITY datareporting_crashreporter_title_short "ক্র্যাশ রিপোর্টার">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; লোকেশন সার্ভিস">
 <!ENTITY datareporting_wifi_geolocation_summary4 "পৃথিবীকে ম্যাপ করতে &vendorShortName; কে সাহায্য করুন! আপনার ডিভাইসের Wi-Fi এবং সেলুলার অবস্থান শেয়ার করে আমাদের জিওলোকেশন সার্ভিসকে উন্নত করতে সাহায্য করুন।">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +893,8 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "নীড় স্ক্রিনে যোগ করুন">
 <!ENTITY pwa_continue_to_website "ওয়েবসাইট অব্যাহত রাখুন">
 <!ENTITY pwa_onboarding_sumo "তাৎক্ষিণক ব্যবহার ও অ্যাপের মত দ্রুত ব্রাউজিং অভিজ্ঞতা নিতে আপনি সহজেই এই ওয়েবসাইট আপনার নীড় স্ক্রিনে যোগ করতে পারেন।">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+
+<!-- Notification channels names -->
