@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "ย้อนกลับ (แนะนำ)">
 <!ENTITY advanced.label "ขั้นสูง">
 
-<!ENTITY continue.label "ดำเนินการต่อ">
+<!ENTITY continue1.label "ดำเนินการต่อ…">
 
 <!-- Specific error messages -->
 
