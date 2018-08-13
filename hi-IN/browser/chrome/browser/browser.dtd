@@ -316,6 +316,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "वेब डेवलेपर">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "रिकॉर्ड निष्पादन">
 <!ENTITY devtoolsSaveRecording.label "रिकॉर्डिंग सहेजें">
 
 <!ENTITY inspectContextMenu.label     "इंस्पेक्ट एलिमेंट">
