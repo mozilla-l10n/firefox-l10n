@@ -786,6 +786,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "24em">
 <!ENTITY editBookmark.done.label                     "Preta">
 <!ENTITY editBookmark.removeBookmark.accessKey       "F">
 
@@ -1083,6 +1084,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.shareUrl.label "Dividi">
 
+<!ENTITY pageAction.shareMore.label "Pli…">
 
 <!ENTITY libraryButton.tooltip "Vidi historion, konservitajn legosignojn kaj pli">
 
