@@ -10,6 +10,7 @@
 <!ENTITY returnToPreviousPage1.label "Torna indietro (consigliato)">
 <!ENTITY advanced.label "Avanzate">
 <!ENTITY continue1.label "Continua…">
+<!ENTITY moreInformation.label "Ulteriori informazioni">
 <!ENTITY connectionFailure.title "Connessione non riuscita">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 <!ENTITY deniedPortAccess.title "Questo indirizzo è bloccato">
@@ -118,6 +119,8 @@
 <p>Se si stanno utilizzando una rete aziendale o un software antivirus, contattare i team di supporto per ottenere assistenza. È inoltre possibile segnalare il problema al gestore del sito web.</p>">
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>L’ora riportata dall’orologio del computer è <span id='wrongSystemTime_systemDate'/>. Assicurarsi che data, ora e fuso orario siano impostati correttamente nelle impostazioni di sistema, poi riprovare a caricare <span class='hostname'/>.</p>
 <p>Se l’orologio del computer è già impostato correttamente, si tratta probabilmente di un’errata configurazione del sito web e il problema non può essere risolto. È possibile segnalare il problema al gestore del sito web.</p>">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>L’ora riportata dall’orologio del computer è <span id='wrongSystemTime_systemDate2'/>. Assicurarsi che data, ora e fuso orario siano impostati correttamente nelle impostazioni di sistema, poi riprovare a caricare <span class='hostname'/>.</p>
+<p>Se l’orologio del computer è già impostato correttamente, si tratta probabilmente di un’errata configurazione del sito web e il problema non può essere risolto. È possibile segnalare il problema al gestore del sito web.</p>">
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>L’errore è probabilmente causato dal sito web e non può essere risolto. È possibile segnalare il problema al gestore del sito web.</p>">
 <!ENTITY sharedLongDesc "
 <ul>
@@ -147,5 +150,7 @@
 <!ENTITY inadequateSecurityError.title "Connessione non sicura">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utilizza una tecnologia di sicurezza obsoleta e vulnerabile. Un tentativo di attacco potrebbe facilmente compromettere informazioni considerate sicure. L’amministratore del sito web deve aggiornare la configurazione del server prima di poterlo visitare.</p><p>Codice di errore: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 <!ENTITY blockedByPolicy.title "Pagina bloccata">
+<!ENTITY clockSkewError.title "L’orologio del computer è errato">
+<!ENTITY clockSkewError.longDesc "L’ora riportata dall’orologio del computer è <span id='wrongSystemTime_systemDate1'/>, questo impedisce a &brandShortName; di connettersi in modo sicuro. Per visitare <span class='hostname'></span> aggiornare l’orologio del computer nelle impostazioni del sistema, impostando data, ora e fuso orario correnti, poi riprovare a caricare <span class='hostname'></span>.">
 <!ENTITY prefReset.longDesc "Sembra che il problema sia causato dalle impostazioni di sicurezza della rete. Ripristinare le impostazioni predefinite?">
 <!ENTITY prefReset.label "Ripristina impostazioni predefinite">
