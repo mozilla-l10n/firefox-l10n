@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Permitir autoreproducción">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si las páginas pueden autoreproducir los videos u otro contenido multimedia">
+<!ENTITY pref_media_autoplay_allow "Permitir autoreproducción">
+<!ENTITY pref_media_autoplay_block "Bloquear autoreproducción">
 <!ENTITY pref_zoom_force_enabled "Siempre activar el aumento">
 <!ENTITY pref_zoom_force_enabled_summary "Fuerza el ajuste para que puedas hacer aumento en cualquier página">
 <!ENTITY pref_voice_input "Entrada de voz">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Continuar reproducción">
 <!ENTITY pip_pause_button_title "Pausar">
 <!ENTITY pip_pause_button_description "Pausar reproducción">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Servicio de Localización de &vendorShortName;">
