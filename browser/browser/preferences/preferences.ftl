@@ -214,6 +214,9 @@ choose-language-description = Dewis eich iaith ar gyfer dangos tudalennau
 choose-button =
     .label = Dewis…
     .accesskey = D
+choose-browser-language-description = Dewiswch yr iaith i ddangos dewislenni, negeseuon a hysbysiadau gan { -brand-short-name }
+confirm-browser-language-change-description = Ailgychwyn { -brand-short-name } i osod y newidiadau hyn
+confirm-browser-language-change-button = Gosod ac Ailgychwyn
 translate-web-pages =
     .label = Cyfieithu cynnwys gwe
     .accesskey = C
@@ -639,6 +642,44 @@ addressbar-locbar-openpage-option =
     .accesskey = T
 addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chwilio
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Rhwystro Cynnwys
+content-blocking-desc = Rhwystrwch gynnwys trydydd parti, fel hysbysebion a chod, sy'n gallu arafu eich pori neu eich tracio o amgylch y we. Cyfaddaswch eich gosodiadau am y dewis gorau o ddiogelwch a perfformiad.
+content-blocking-learn-more = Dysgu Rhagor
+content-blocking-restore-defaults =
+    .label = Adfer y Rhagosodiadau
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Diffodd Rhwystro Cynnwys
+content-blocking-toggle-off =
+    .tooltiptext = Cychwyn Rhwystro Cynnwys
+content-blocking-toggle-label-on = YMLAEN
+    .accesskey = Y
+content-blocking-toggle-label-off = DIFFODD
+    .accesskey = D
+content-blocking-category-label = Dewis beth i'w rwystro
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Elfennau Tracio Araf
+    .accesskey = E
+content-blocking-fastblock-description = Yn rhwystro cynnwys trydydd parti sy'n cymryd mwy na 5 eiliad i lwytho.
+content-blocking-fastblock-option-enabled =
+    .label = Rhwystro bob tro
+content-blocking-fastblock-option-disabled =
+    .label = Byth rhwystro
+content-blocking-tracking-protection-label = Tracwyr
+    .accesskey = T
+content-blocking-tracking-protection-description = Rhwystro pob traciwr hysbys (Sylw: gall rwystro rhai tudalennau rhag llwytho).
+content-blocking-tracking-protection-option-enabled =
+    .label = Rhwystro bob tro
+content-blocking-tracking-protection-option-pbm =
+    .label = Rhwystro mewn ffenestri preifat yn unig
+content-blocking-tracking-protection-option-disabled =
+    .label = Byth rhwystro
+content-blocking-tracking-protection-change-blocklist = Newid y Rhestr Rhwystro...
+
 ## Privacy Section - Tracking
 
 tracking-header = Diogelu Rhag Tracio
@@ -688,7 +729,7 @@ permissions-notification-pause =
     .label = Oedi fy hysbysiadau tan { -brand-short-name } ailgychwyn
     .accesskey = O
 permissions-block-autoplay-media =
-    .label = Rhwystro gwefannau rhag chwarae cyfrwng gyda sain yn awtomatig 
+    .label = Rhwystro gwefannau rhag chwarae cyfrwng gyda sain yn awtomatig
     .accesskey = R
 permissions-block-autoplay-media-menu = Ar gyfer gwefannau sy'n chwarae sain yn awtomatig
 permissions-block-autoplay-media-exceptions =
