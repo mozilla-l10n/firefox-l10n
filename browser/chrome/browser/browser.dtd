@@ -369,7 +369,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "పక్క పట్టీ">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "అనుకూలీకరణ...">
+<!ENTITY viewCustomizeToolbar.label       "అభిమతీకరించు…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "పనిముట్లపట్టీని మలుచుకోండి…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
@@ -420,9 +420,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuRecentHighlights.label "ఇటీవలి ముఖ్యాంశాలు">
 
-<!ENTITY customizeMenu.addToToolbar.label "పనిముట్ల పట్టీకి జతచేయి">
+<!ENTITY customizeMenu.addToToolbar.label "పనిముట్ల పట్టీకి చేర్చు">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "మెనూకు జతచేయి">
+<!ENTITY customizeMenu.addToPanel.label "మెనూకు చేర్చు">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
@@ -895,7 +895,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.done "పూర్తయింది">
 <!ENTITY customizeMode.titlebar "శీర్షిక పట్టీ">
 <!ENTITY customizeMode.extraDragSpace "స్థలాన్ని లాగండి">
-<!ENTITY customizeMode.toolbars2 "సాధనముల పట్టీలు">
+<!ENTITY customizeMode.toolbars2 "పనిముట్ల పట్టీలు">
 <!ENTITY customizeMode.lwthemes "అలంకారాలు">
 <!ENTITY customizeMode.lwthemes.myThemes "నా అలంకారాలు">
 <!ENTITY customizeMode.lwthemes.recommended "సిఫార్సు చేయబడినవి">

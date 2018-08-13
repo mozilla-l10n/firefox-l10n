@@ -180,7 +180,7 @@
 <!ENTITY addon.undoAction.tooltip             "ఈ చర్యను చేయవద్దు">
 <!ENTITY addon.undoRemove.label               "చర్యరద్దు">
 <!ENTITY addon.undoRemove.tooltip             "ఈ పొడిగింతను స్థాపించబడి ఉండనివ్వు">
-<!ENTITY addon.restartNow.label               "ఇప్పుడు పునఃప్రారంభించు">
+<!ENTITY addon.restartNow.label               "ఇప్పుడే పునఃప్రారంభించు">
 <!ENTITY addon.install.label                  "స్థాపించు">
 <!ENTITY addon.install.tooltip                "ఈ పొడిగింతను స్థాపించు">
 <!ENTITY addon.updateNow.label                "ఇప్పుడు నవీకరించు">
