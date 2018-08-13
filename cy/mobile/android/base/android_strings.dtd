@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Caniatáu awtochwarae">
 <!ENTITY pref_media_autoplay_enabled_summary "Rheoli os yw gwefannau yn awtochwarae fideos neu gynnwys cyfrwng arall">
+<!ENTITY pref_media_autoplay_allow "Caniatáu awtochwarae">
+<!ENTITY pref_media_autoplay_block "Rhwystro awtochwarae">
 <!ENTITY pref_zoom_force_enabled "Galluogi chwyddo bob tro">
 <!ENTITY pref_zoom_force_enabled_summary "Gorfodi gwrthwneud er mwyn gallu chwyddo unrhyw dudalen">
 <!ENTITY pref_voice_input "Mewnbwn llais">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Ail gychwyn chwarae">
 <!ENTITY pip_pause_button_title "Oedi">
 <!ENTITY pip_pause_button_description "Oedi chwarae">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Gwasanaeth Lleoli &vendorShortName;">
