@@ -832,7 +832,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "d">
 <!ENTITY identity.learnMore "Daha fazla bilgi al">
 
-<!ENTITY identity.removeCertException.label "İstisnayı kaldır">
+<!ENTITY identity.removeCertException.label "Ayrıcalığı kaldır">
 <!ENTITY identity.removeCertException.accesskey "k">
 
 <!ENTITY identity.moreInfoLinkText2 "Daha fazla bilgi">
@@ -945,6 +945,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "İzlenme Koruması: AÇIK">
 <!ENTITY trackingProtection.off "İzlenme Koruması: KAPALI">
+
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!ENTITY trackingProtection.title "İzlenme Koruması">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; bu sayfanın sizi izleme ihtimali olan kısımlarını engelliyor.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Bu site, gezintinizi izleme ihtimali olan öğeler içeriyor. Korumayı devre dışı bıraktınız.">
@@ -970,6 +992,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Bu sayfada sizi izleyen herhangi bir öğe bulunmadı. Bu sitede korumayı devre dışı bıraktınız.">
 
 <!ENTITY trackingProtection.reloadRequired2 "İzlenme Koruması’nı açtınız. Tüm takipçileri engellemek için bu sayfayı tazeleyin.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
