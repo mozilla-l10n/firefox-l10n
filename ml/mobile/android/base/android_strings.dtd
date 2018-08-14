@@ -216,7 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "ടാബുകൾ പുനഃസ്ഥാപിക്കല്‍, ഡാറ്റാ സേവർ, ഡവലപ്പർ ഉപകരണങ്ങൾ">
 <!ENTITY pref_category_notifications "അറിയിപ്പുകള്‍">
 <!ENTITY pref_category_notifications_summary "പുതിയ സവിശേഷതകള്‍, വെബ്സൈറ്റ്പുതുക്കലുകള്‍">
-<!ENTITY pref_category_notifications_summary2 "പുതിയ സവിശേഷതകൾ, എളുപ്പ വഴികൾ">
+<!ENTITY pref_category_notifications_summary2 "പുതിയ സവിശേഷതകൾ, കുറുക്കുവഴികൾ">
 <!ENTITY pref_developer_remotedebugging_usb "യു എസ് ബി വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
 <!ENTITY pref_developer_remotedebugging_wifi "വൈ-ഫൈ വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "വൈ-ഫൈ വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗിനു താങ്കളുടെ ഡിവൈസില്‍ ക്യുആര്‍ കോഡ് റീഡര്‍ ആപ്പ് ഇന്‍സ്റ്റോള്‍ ചെയ്യേണ്ടതുണ്ട്.">
@@ -294,8 +294,10 @@
 
 <!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "ഉല്പന്നത്തിന്റേയും സവിശേഷതകളുടേയും കുറുക്കുവഴികൾ">
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; ഉപയോഗിക്കുന്നതിനെ പറ്റിയും &vendorShortName; ഉൽപ്പനങ്ങളെ പറ്റിയും കൂടുതൽ അറിയുക">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
