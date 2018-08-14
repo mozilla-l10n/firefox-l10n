@@ -79,6 +79,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = ഏതൊക്കെ വെബ്‌ സൈറ്റുകള്‍ ആഡ്‌-ഓണുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യണം എന്ന് താങ്കള്‍ക്ക്‌ നിഷ്കര്‍ഷിക്കാം. അനുവദിക്കെണ്ട സൈറ്റിന്റെ ശരിയായ വിലാസം ടൈപ്പ്‌ ചെയ്‌ത ശേഷം, അനുവദിക്കുക ബട്ടണ്‍ ക്ലിക്ക്‌ ചെയ്യുക
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = അനുവദിച്ച വെബ്സൈറ്റുകൾ - ഓട്ടോപ്ലെ
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
