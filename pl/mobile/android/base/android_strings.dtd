@@ -642,3 +642,4 @@
 
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "Usługi lokalizacji organizacji &vendorShortName;">
+<!ENTITY download_notification_channel "Pobrane pliki">
