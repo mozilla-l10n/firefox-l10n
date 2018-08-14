@@ -107,7 +107,8 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
 <p>Rik'in jub'a' ja ri ajk'amaya'l ruxaq k'o ruk'ayewal, ruma ri' majun yatikïr nab'än.</p><p>We at k'o pa jun to'öy runimamoloj k'amab'ey, o nawokisaj jun rukema' chapöy chikopil, yatikïr yatzijon kik'in ri to'onel kimoloj richin yatkito'. Chuqa' yatikïr naya' rutzijol chi re ri ajrunuk'samajel ajk'amaya'l ruxaq chi rij ri k'ayewal.</p>">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Ri ruch'utiq'ijub'al akematz'ib' b'anon runuk'ulem richin <span id='wrongSystemTime_systemDate2'/>. Tajikib'a' chi ri akematz'ib' b'anon ütz runuk'ulem ri ruq'ijul, ruramaj chuqa' rub'anikil ruq'ijul aq'inoj, k'a ri' tak'exa' <span class='hostname'/>.</p>">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Ri ruch'utiq'ijub'al akematz'ib' b'anon runuk'ulem richin <span id='wrongSystemTime_systemDate2'/>. Tajikib'a' chi ri akematz'ib' b'anon ütz runuk'ulem ri ruq'ijul, ruramaj chuqa' rub'anikil ruq'ijul aq'inoj, k'a ri' tak'exa' <span class='hostname'/>.</p>
+<p>We ütz chik runuk'ulem ri ach'utiq'ijub'al, rik'in jub'a' man ütz rub'anon runuk'ulem ri ajk'amaya'l ruxaq, majun yatikïr nab'än richin nab'än rutzil. Yatikïr naya' rutzijol chi re ri runuk'samajel ajk'amaya'l ruxaq chi rij ri k'ayewal.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Rik'in jub'a' ja ri ajk'amaya'l ruxaq k'o ruk'ayewal, ruma ri' majun yatikïr nab'än. Yatikïr naya' rutzijol chi re ri ajrunuk'samajel ajk'amaya'l ruxaq chi rij ri k'ayewal.</p>">
 
@@ -161,6 +162,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Q'aton Ruxaq">
 
+<!ENTITY clockSkewError.title "Sachinäq ri ruch'utiq'ijub'al akematz'ib'">
 
 <!ENTITY prefReset.longDesc "Achi'el ta chi ja ri runuk'ulem rujikomal k'amab'ey, ri nib'ano re re'. ¿La nawajo' chi nitzolïx ri runuk'ulem kan k'o wi?">
 <!ENTITY prefReset.label "Titzolïx ri runuk'ulem kan k'o wi">
