@@ -1,11 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY aboutPage.title                        "tsaa ña &brandShortName;">
+<!ENTITY aboutPage.title                        "Tsa’á &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ña prueba kui cha ku sa ntasia.">
-<!ENTITY aboutPage.telemetryStart               "Chi'chuìn tu'un tsaá rendimiento, hardware, nishi chachuuña tsi ña ndasamu.">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "tava chinchee sau &brandShortName; vaá.">
 <!ENTITY aboutPage.checkForUpdates.link         "Nda nduku ña tsaá">
 <!ENTITY aboutPage.checkForUpdates.checking     "Nda nduki ña tsaá">
 <!ENTITY aboutPage.checkForUpdates.none         "Koò ña ntu tsaá">
@@ -19,6 +16,6 @@
 <!ENTITY aboutPage.relNotes.label               "Tu'un ña nchaa'na">
 <!ENTITY aboutPage.credits.label                "Créditos">
 <!ENTITY aboutPage.license.label                "Tu'un licencia">
-<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 <!ENTITY aboutPage.logoTrademark                "Firefox tsi logotipo ña Firefox kui marca registrada ña Fundación Mozilla.">

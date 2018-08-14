@@ -59,13 +59,13 @@
 <!ENTITY  crash_message2 "&brandShortName; Ntsio ña vaa cha ntasia . pestaña ku  tsini ñuu ku \&apos;n kai nu Página niki tsau  &brandShortName; ta sa reiniciar ku">
 <!ENTITY  crash_send_report_message3 "kavii &vendorShortName;  tsaa sa\&apos;n tava na ntu vai\&apos;i">
 <!ENTITY  crash_include_url2 "a kunu nda\&apos;chiku paguina nu n\&apos;tsikau">
-<!ENTITY  crash_sorry "kunchatu">
+<!ENTITY  crash_sorry "Kunchatu">
 <!ENTITY  crash_comment "chika\&apos;a in comenterio (ña cu ncutu kui)">
 <!ENTITY  crash_allow_contact2 "a kunu&vendorShortName;  ku kau´n tsi tsa ña ni kuu">
 <!ENTITY  crash_email "Korreo ku">
 <!ENTITY  crash_closing_alert "Keta ma chichu\&apos;un tutu ña va\&apos;a">
 <!ENTITY  sending_crash_report "Chachu\&apos;un tutu ña va\&apos;a\u2026">
-<!ENTITY  crash_close_label "Ndakasi">
+<!ENTITY  crash_close_label "Kasi">
 <!ENTITY  crash_restart_label "Ndu tsaa &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Nda tuku a chika direccion">
