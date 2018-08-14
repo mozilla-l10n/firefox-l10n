@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "跟踪保护：开">
 <!ENTITY trackingProtection.off "跟踪保护：关">
+
+<!ENTITY contentBlocking.title "内容拦截">
+<!ENTITY contentBlocking.detected "此网站上检测到可拦截内容。">
+<!ENTITY contentBlocking.notDetected "此页面上未检测到可拦截内容。">
+<!ENTITY contentBlocking.disabled.label "已禁用">
+<!ENTITY contentBlocking.disabled.tooltip "您已禁用内容拦截。">
+<!ENTITY contentBlocking.exception.tooltip "您已对此网站禁用内容拦截。">
+
+<!ENTITY contentBlocking.fastBlock.label "减慢加载的跟踪器">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "已拦截">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "添加拦截…">
+
+<!ENTITY contentBlocking.trackingProtection.label "跟踪器">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "已拦截">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "添加拦截…">
+
 <!ENTITY trackingProtection.title "跟踪保护">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; 已拦截该页面可能跟踪您的浏览行为的内容。">
 <!ENTITY trackingProtection.detectedNotBlocked3 "此网站包含的某些元素可能跟踪您的浏览行为，但您已经禁用保护。">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "未检测到此页面含有跟踪元素。您已对此网站禁用保护。">
 
 <!ENTITY trackingProtection.reloadRequired2 "您已启用跟踪保护。重新载入此页面以拦截所有跟踪器。">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "在此网站上禁用">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "对此网站禁用拦截">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "在本次会话中启用">
 <!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.label "暂时禁用拦截">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "启用对此网站的拦截">
+<!ENTITY trackingProtection.block5.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "重新载入页面">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
