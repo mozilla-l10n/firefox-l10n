@@ -148,5 +148,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Blokkert side">
 
+<!ENTITY clockSkewError.title "Klokka på datamaskina di er feil">
+
 <!ENTITY prefReset.longDesc "Det ser ut til at sikkerheitsinnstillingane i nettverket kan vere årsak til dette. Vil du stille tilbake til standard innstillingar?">
 <!ENTITY prefReset.label "Still tilbake til standard innstillingar">
