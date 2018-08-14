@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -54,7 +46,7 @@ help-button-label = { -brand-short-name } പിന്തുണ
 focus-search =
     .key = f
 close-button =
-    .aria-label = അടയ്ക്കുക 
+    .aria-label = അടയ്ക്കുക
 
 ## Browser Restart Dialog
 
@@ -106,17 +98,8 @@ is-not-default = { -brand-short-name } അല്ല ഇപ്പോള്‍ സ
 set-as-my-default-browser =
     .label = ഡിഫള്‍ട്ടാക്കുക…
     .accesskey = D
-startup-page = { -brand-short-name } തുടങ്ങുമ്പോള്‍
-    .accesskey = s
-startup-user-homepage =
-    .label = നിങ്ങളുടെ ഹോം പേജ് കാണിക്കുക
-startup-blank-page =
-    .label = ഒരു ശൂന്യമായ താള്‍ കാണിക്കുക 
-startup-prev-session =
-    .label = കഴിഞ്ഞ തവണത്തെ നിങ്ങളുടെ വിന്‍ഡോസും ടാബുകളും പ്രദർശിപ്പിക്കുക
 disable-extension =
     .label = എക്സ്റ്റന്‍ഷന്‍ ഡിസേബിള്‍ ചെയ്യുക
-home-page-header = ഹോം പേജ്
 tabs-group-header = റ്റാബുകള്‍
 ctrl-tab-recently-used-order =
     .label = അടുത്തിടെ ഉപയോഗിച്ച ഓർഡറില്‍ ടാബുകളിലൂടെ പോവാന്‍ Ctrl + Tab ഉപയോഗിക്കുക
@@ -205,7 +188,7 @@ download-save-to =
 download-choose-folder =
     .label =
         { PLATFORM() ->
-            [macos] തിരഞ്ഞെടുക്കുക 
+            [macos] തിരഞ്ഞെടുക്കുക
            *[other] തിരയുക
         }
     .accesskey =
@@ -233,10 +216,9 @@ play-drm-content =
 play-drm-content-learn-more = കൂടുതല്‍ മനസിലാക്കൂ
 update-application-title = { -brand-short-name } അപേഡേറ്റുകള്‍
 update-application-description = മികച്ച പ്രകടനത്തിനും സ്ഥിരതയ്ക്കും സുരക്ഷയ്ക്കും വേണ്ടി { -brand-short-name } അപഡേറ്റഡായി സൂക്ഷിക്കുക.
-update-application-info = പതിപ്പ് { $version } <a>പുതിയതെന്തെല്ലാം</a>
 update-application-version = പതിപ്പ് { $version } <a data-l10n-name="learn-more">പുതിയതെന്തെല്ലാം</a>
 update-history =
-    .label = പുതുക്കിയ ഹിസ്റ്ററി കാണിക്കുക…
+    .label = പുതുക്കിയ നാള്‍വഴി കാണിക്കുക…
     .accesskey = p
 update-application-allow-description = { -brand-short-name } നെ അനുവധിക്കുക
 update-application-auto =
@@ -269,7 +251,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = ഉള്ളടക്ക പ്രക്രിയയുടെ പരിധി
     .accesskey = L
 performance-limit-content-process-enabled-desc = അഡ്ഡീഷണല്‍ കണ്ടന്റ് പ്രോസ്സസുകള്‍ക്ക് ഒന്നിലധികം ടാബുകൾ ഉപയോഗിക്കുമ്പോൾ പ്രകടനം മെച്ചപ്പെടുത്താനാകും, പക്ഷേ കൂടുതൽ മെമ്മറി ഉപയോഗിക്കും.
-performance-limit-content-process-disabled-desc = കണ്ടന്റ് പ്രോസസ്സുകളുടെ എണ്ണം പരിഷ്ക്കരിക്കല്‍ മൾട്ടിപ്രോസസ്സ് { -brand-short-name } ല്‍ മാത്രമേ സാധ്യമാകൂ. <a>മള്‍ടിപ്രോസസുകള്‍ സജ്ജമാക്കിയിട്ടുണ്ടോ എന്ന് പരിശോധിക്കാന്‍ പഠിക്കുക</a>
 performance-limit-content-process-blocked-desc = കണ്ടന്റ് പ്രോസസ്സുകളുടെ എണ്ണം പരിഷ്ക്കരിക്കല്‍ മൾട്ടിപ്രോസസ്സ് { -brand-short-name } ല്‍ മാത്രമേ സാധ്യമാകൂ. <a data-l10n-name="learn-more">മള്‍ടിപ്രോസസുകള്‍ സജ്ജമാക്കിയിട്ടുണ്ടോ എന്ന് പരിശോധിക്കാന്‍ പഠിക്കുക</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -278,12 +259,12 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
-browsing-title = തെരഞ്ഞുകൊണ്ടിരിക്കുന്നു 
+browsing-title = തെരഞ്ഞുകൊണ്ടിരിക്കുന്നു
 browsing-use-autoscroll =
-    .label = ഓട്ടോ സ്ക്രോളിംങ് ഉപയോഗിക്കുക 
+    .label = ഓട്ടോ സ്ക്രോളിംങ് ഉപയോഗിക്കുക
     .accesskey = a
 browsing-use-smooth-scrolling =
-    .label = സുഖമമായ സ്ക്രോളിംങ് ഉപയോഗിക്കുക 
+    .label = സുഖമമായ സ്ക്രോളിംങ് ഉപയോഗിക്കുക
     .accesskey = m
 browsing-use-onscreen-keyboard =
     .label = ആവശ്യമാണെങ്കില്‍ ടച്ച് കീബോര്‍ഡ് കാണിക്കുക
@@ -298,15 +279,20 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = നെറ്റ്വർക്ക് പ്രോക്സി
+network-proxy-connection-learn-more = കൂടുതലറിയുക
 network-proxy-connection-settings =
-    .label = ക്രമീകരണങ്ങള്‍ 
+    .label = ക്രമീകരണങ്ങള്‍
     .accesskey = e
 
 ## Home Section
 
+home-new-windows-tabs-header = പുതിയ ടാബുകളും ജാലകങ്ങളും
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = പുതിയ ടാബുകൾ
+home-mode-choice-blank =
+    .label = ശൂന്യമായ താൾ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -314,16 +300,13 @@ network-proxy-connection-settings =
 use-current-pages =
     .label =
         { $tabCount ->
-            [1] നിലവിലുളള താള്‍ ഉപയോഗിക്കുക 
+            [1] നിലവിലുളള താള്‍ ഉപയോഗിക്കുക
            *[other] ഇപ്പോഴത്തെ താളുകള്‍ ഉപയോഗിക്കുക
         }
     .accesskey = ല
 choose-bookmark =
     .label = അടയാളക്കുറിപ്പു് ഉപയോഗിയ്ക്കുക…
     .accesskey = B
-restore-default =
-    .label = സ്വതവേയുള്ളതു് വീണ്ടെടുക്കുക 
-    .accesskey = ത
 
 ## Search Section
 
@@ -377,7 +360,7 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = നിങ്ങളുടെ വെബിനെ നിങ്ങളുടെ കൂടെ കൊണ്ട് പോവുക
-sync-signedout-description = നിങ്ങളുടെ അടയാളക്കുറിപ്പുകള്‍, നാള്‍വഴി, ടാബുകള്‍, രഹസ്യവാക്കുകള്‍, ആഡോണുകള്‍, ക്രമീകരണങ്ങള്‍ നിങ്ങളുടെ എല്ലാ ഡിവൈസുകളിലേക്കും പൊരുത്തപ്പെടുത്തുക.
+sync-signedout-description = നിങ്ങളുടെ അടയാളക്കുറിപ്പുകള്‍, നാള്‍വഴികൾ, ടാബുകള്‍, രഹസ്യവാക്കുകള്‍, ആഡോണുകള്‍, ക്രമീകരണങ്ങള്‍ നിങ്ങളുടെ എല്ലാ ഡിവൈസുകളിലേക്കും പൊരുത്തപ്പെടുത്തുക.
 sync-signedout-account-title = { -fxaccount-brand-name } -ന്‍റെ ഒപ്പം കണക്റ്റ് ചെയ്യുക
 sync-signedout-account-create = അക്കൗണ്ട് ഇല്ല? പുതിയത് തുടങ്ങുക
     .accesskey = C
@@ -464,12 +447,12 @@ history-header = നാള്‍വഴി
 history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
-    .label = ഹിസ്റ്ററി ഓര്‍ക്കുക
+    .label = നാള്‍വഴി ഓര്‍ക്കുക
 history-remember-option-never =
-    .label = ഹിസ്റ്ററി ഇനിയും മുതല്‍ ഓര്‍ക്കരുത്
+    .label = നാള്‍വഴികൾ ഇനിയും മുതല്‍ ഓര്‍ക്കരുത്
 history-remember-option-custom =
-    .label = ഹിസ്റ്ററിക്കായ് ഇച്ഛാനുസൃതം  സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കുക
-history-dontremember-description = { -brand-short-name } സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ ഹിസ്റ്ററി ഓര്‍ക്കുകയില്ല.
+    .label = നാള്‍വഴിക്കു വേണ്ടി ഇച്ഛാനുസൃതം സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കുക
+history-dontremember-description = { -brand-short-name } സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ നാള്‍വഴികൾ ഓര്‍ക്കുകയില്ല.
 history-private-browsing-permanent =
     .label = എപ്പോഴും സ്വകാര്യ ബ്രൌസിങ് മോഡ് ഉപയോഗിയ്ക്കുക
     .accesskey = p
@@ -480,7 +463,7 @@ history-remember-search-option =
     .label = തിരയലുകളുടേയും (സര്‍ച്ചുകളുടെ) ഫോര്‍മുകളുടെയും ഹിസ്റ്ററി ഓര്‍ക്കുക
     .accesskey = f
 history-clear-on-close-option =
-    .label = { -brand-short-name } നിര്‍ത്തുംബോള്‍ ഹിസ്റ്ററി മായ്ക്കുക
+    .label = { -brand-short-name } നിര്‍ത്തുംബോള്‍ നാള്‍വഴികൾ മായ്ക്കുക
     .accesskey = r
 history-clear-on-close-settings =
     .label = സജ്ജീകരണങ്ങള്‍ …
@@ -506,7 +489,7 @@ sitedata-cookies-exceptions =
 addressbar-header = അഡ്രസ്സ് ബാര്‍
 addressbar-suggest = അഡ്രസ്സ് ബാര്‍ ഉപയോഗിക്കുമ്പോള്‍ സജ്ജസ്റ്റ് ചെയ്യുക
 addressbar-locbar-history-option =
-    .label = ബ്രൌസിങ്ങ് ഹിസ്റ്ററി
+    .label = ബ്രൌസിങ്ങിന്റെ നാള്‍വഴി
     .accesskey = H
 addressbar-locbar-bookmarks-option =
     .label = അടയാളക്കുറിപ്പുകള്‍
@@ -515,6 +498,9 @@ addressbar-locbar-openpage-option =
     .label = തുറന്ന ടാബുകള്‍
     .accesskey = O
 addressbar-suggestions-settings = സെര്‍ച്ച് എഞ്ചിൻ നിർദ്ദേശങ്ങളുടെ പ്രഫറന്‍സ് മാറ്റുക
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
@@ -591,6 +577,7 @@ collection-health-report-link = കൂടുതല്‍ അറിയുക
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ഈ ബിൽഡ് കോൺഫിഗറേഷനായി ഡാറ്റ റിപ്പോർട്ടുചെയ്യൽ പ്രവർത്തനരഹിതമാക്കി
+collection-browser-errors-link = കൂടുതല്‍ അറിയുക
 collection-backlogged-crash-reports-link = കൂടുതല്‍ അറിയുക
 
 ## Privacy Section - Security
