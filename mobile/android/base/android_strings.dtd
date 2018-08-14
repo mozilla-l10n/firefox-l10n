@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "اسمح بالتشغيل التلقائي">
 <!ENTITY pref_media_autoplay_enabled_summary "تحكم في السماح للمواقع بتشغيل الڤديو و غيره من الوسائط تلقائيا">
+<!ENTITY pref_media_autoplay_allow "اسمح بالتشغيل التلقائي">
+<!ENTITY pref_media_autoplay_block "امنع التشغيل التلقائي">
 <!ENTITY pref_zoom_force_enabled "فعّل التقريب دائمًا">
 <!ENTITY pref_zoom_force_enabled_summary "تخطى الإعدادات لتتمكن من تقريب أي صفحة">
 <!ENTITY pref_voice_input "إدخال الصوت">
@@ -900,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "استأنف التشغيل">
 <!ENTITY pip_pause_button_title "ألبِث">
 <!ENTITY pip_pause_button_description "ألبِث التشغيل">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "خدمات التموضع من &vendorShortName;">
