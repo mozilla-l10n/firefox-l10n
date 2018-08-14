@@ -163,6 +163,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Q'aton Ruxaq">
 
 <!ENTITY clockSkewError.title "Sachinäq ri ruch'utiq'ijub'al akematz'ib'">
+<!ENTITY clockSkewError.longDesc "Ri akematz'ib' nuna'ojij chi jun <span id='wrongSystemTime_systemDate1'/>, ri nuq'ät &brandShortName; richin ütz nok. Titz'et <span class='hostname'></span>, Tak'exa' ri ruch'utiq'ijub'al akematz'ib' pa runuk'ulem ruq'inoj q'ijul, ramaj chuqa' rub'anikil q'ijul k'o wakami, k'a ri' tak'exa' <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Achi'el ta chi ja ri runuk'ulem rujikomal k'amab'ey, ri nib'ano re re'. ¿La nawajo' chi nitzolïx ri runuk'ulem kan k'o wi?">
 <!ENTITY prefReset.label "Titzolïx ri runuk'ulem kan k'o wi">
