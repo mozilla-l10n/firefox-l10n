@@ -131,8 +131,19 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "¿Qué puedes hacer al respecto?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>El problema probablemente es con el sitio, y no hay nada que puedas hacer para resolverlo.</p>
+<p>Si estás en una red corporativa o usando un programa antivirus, puedes tratar de contactar a los equipos de soporte. Podrías también intentar notificar al administrador del sitio sobre el problema.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
+<p>El reloj de tu computador está ajustado a las <span id='wrongSystemTime_systemDate'/>. Asegúrate de que tu computador tiene la fecha, hora y zona horaria correctas en los ajustes del sistema, y luego recarga <span class='hostname'/>.</p>
+<p>Si tu reloj ya está ajustado a la hora adecuada, el sitio web probablemente está mal configurado, y no hay nada que puedas hacer para resolverlo. Podrías intentar notificar al administrador del sitio sobre el problema.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>El problema probablemente es con el sitio, y no hay nada que puedas hacer para resolverlo. Podrías intentar notificar al administrador del sitio sobre el problema.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul>
   <li>El sitio está temporalmente no disponible o muy ocupado. Vuelve a intentarlo en un rato.</li>
