@@ -945,6 +945,34 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Perlindungan Penjejakan: AKTIF">
 <!ENTITY trackingProtection.off "Perlindungan Penjejakan: NYAHAKTIF">
+
+<!ENTITY contentBlocking.title "Sekatan Kandungan">
+<!ENTITY contentBlocking.detected "Ada kandungan yang boleh disekat dalam laman ini.">
+<!ENTITY contentBlocking.notDetected "Tiada kandungan yang boleh disekat dalam laman ini.">
+<!ENTITY contentBlocking.disabled.label "Dinyahdayakan">
+<!ENTITY contentBlocking.disabled.tooltip "Anda telah menyahdayakan Sekatan Kandungan.">
+<!ENTITY contentBlocking.exception.tooltip "Anda telah menyahdayakan Sekatan Kandungan untuk laman ini.">
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!ENTITY trackingProtection.title "Perlindungan Penjejakan">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; sedang menyekat sebahagian halaman yang mungkin menjejaki pelayaran anda.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Laman ini mengandungi elemen yang boleh menjejaki pelayaran anda. Anda telah melumpuhkan perlindungan.">
@@ -970,6 +998,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Tiada unsur penjejakan yang dikesan dalam halaman ini. Anda telah menyahdayakan perlindungan untuk laman ini.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Anda telah dayakan Perlindungan Penjejakan. Muat semula halaman ini untuk menyekat semua penjejak.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
