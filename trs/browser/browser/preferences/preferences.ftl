@@ -385,6 +385,10 @@ search-show-suggestions-url-bar-option =
 search-show-suggestions-above-history-option =
     .label = Nadigan asinij sa nana'ui' 'ngà da' sa 'ngà gini'io' riña dukuán direksion
 search-suggestions-cant-show = Nej sa nana'uit nī se si nadiganj riña dukuán direksion dàdin' dàdanj nagi'iât { -brand-short-name } da' si nachra sa'aj.
+search-one-click-header = Nana'ui' 'ngà gurin klik
+search-one-click-desc = Ganahui' ahuin 'nga si ruhuo' nana'ui', 'ngà gayi'ìt gachrunt nī nachi nità ma daki dukuán direksion.
+search-choose-engine-column =
+    .label = Nuta' sa nana'ui'i
 search-choose-keyword-column =
     .label = Nuguan huii
 search-restore-default =
@@ -394,9 +398,21 @@ search-remove-engine =
     .label = Guxūn
     .accesskey = G
 search-find-more-link = Nadure' sa nana'ui'
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Dà hua' nanikaj ma
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Ganahuit 'ngo nuguan' 'ngà rajsun “{ $name }”. Gi'iaj suntuj u nī gànahuit a'ngoj.
+search-keyword-warning-bookmark = Nuguan' na nī 'ngà rajsun 'ngo markador. Ganahui a'ngoj.
 
 ## Containers Section
 
+containers-back-link = « Nanikàj rukù
+containers-header = Rakïj ñanj mā ma
+containers-add-button =
+    .label = Nuto' sa nakàa
+    .accesskey = A
 containers-preferences-button =
     .label = Sa arajsun' doj
 containers-remove-button =
@@ -404,6 +420,7 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-caption = Ganikaj web ga'ant
 
 ## Sync Section - Signed in
 
