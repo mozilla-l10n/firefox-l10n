@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Speciális">
 
 <!ENTITY continue1.label "Folytatás…">
+<!ENTITY moreInformation.label "További tudnivalók">
 
 <!-- Specific error messages -->
 
@@ -108,10 +109,6 @@ was trying to connect. -->
 <p>Ha vállalati hálózaton van, vagy antivírus szoftvert használ, akkor segítségért felkeresheti a terméktámogatási csoportot. A weboldal rendszergazdáját is értesítheti a problémáról.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>A számítógépe órája erre az időpontra van állítva: <span id='wrongSystemTime_systemDate'/>. Győződjön meg róla a rendszerbeállításokban, hogy ez a helyes dátum, idő és időzóna beállítás, aztán frissítse az <span class='hostname'/> oldalt.</p>
-<p>Ha az óra már a helyes időpontra van állítva, akkor valószínűleg az oldal van hibásan beállítva, és nem tud mit tenni a probléma megoldása érdekében. Értesítheti a weboldal rendszergazdáját a problémáról.</p>
-">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>A probléma valószínűleg a weboldallal van, és semmit sem tehet a megoldása érdekében. Értesítheti a weboldal rendszergazdáját a problémáról.</p>">
@@ -156,6 +153,8 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> olyan biztonsági technológiát használ, amely elavult, és sérülékeny a támadásokkal szemben. Egy támadó könnyen felfedhet olyan információkat, amelyeket biztonságosnak gondol. A weboldal rendszergazdájának ki kell javítania a kiszolgálót, mielőtt meglátogathatja az oldalt.</p><p>Hibakód: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokkolt oldal">
+
+<!ENTITY clockSkewError.title "A számítógépe órája hibás">
 
 <!ENTITY prefReset.longDesc "Úgy tűnik, ezt a hálózat biztonsági beállításai okozhatják. Szeretné helyreállítani az alapbeállításokat?">
 <!ENTITY prefReset.label "Alap beállítások visszaállítása">

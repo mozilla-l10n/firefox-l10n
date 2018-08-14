@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Követés elleni védelem: BE">
 <!ENTITY trackingProtection.off "Követés elleni védelem: KI">
+
+<!ENTITY contentBlocking.title "Tartalomblokkolás">
+<!ENTITY contentBlocking.detected "Blokkolható tartalom észlelve ezen az oldalon.">
+<!ENTITY contentBlocking.notDetected "Nincs blokkolható tartalom észlelve ezen az oldalon.">
+<!ENTITY contentBlocking.disabled.label "Tiltva">
+<!ENTITY contentBlocking.disabled.tooltip "Letiltotta a tartalomblokkolást.">
+<!ENTITY contentBlocking.exception.tooltip "Letiltotta a tartalomblokkolást ezen az oldalon.">
+
+<!ENTITY contentBlocking.fastBlock.label "Lassan betöltő követők">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Blokkolva">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Blokkolás hozzáadása…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Követők">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Blokkolva">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Blokkolás hozzáadása…">
+
 <!ENTITY trackingProtection.title "Védelem követés ellen">
 <!ENTITY trackingProtection.detectedBlocked3 "A &brandShortName; az oldal olyan részeit blokkolja, amelyek követhetik a böngészését.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Ez az oldal olyan elemeket tartalmaz, amelyek követhetik az Ön böngészését. A védelmet kikapcsolta.">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Az oldalon nem találhatók követő elemek. A védelmet kikapcsolta ezen az oldalon.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Engedélyezte a követés elleni védelmet. Töltse újra az oldalt a követők letiltásához.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Letiltás ezen az oldalon">
 <!ENTITY trackingProtection.unblock3.accesskey "L">
+<!ENTITY trackingProtection.unblock4.label "Blokkolás letiltása ezen az oldalon">
+<!ENTITY trackingProtection.unblock4.accesskey "t">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "L">
 <!ENTITY trackingProtection.block4.label "Engedélyezés ezen az oldalon">
 <!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.label "Blokkolás ideiglenes letiltása">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "t">
+<!ENTITY trackingProtection.block5.label "Blokkolás engedélyezése ezen az oldalon">
+<!ENTITY trackingProtection.block5.accesskey "e">
 <!ENTITY trackingProtection.reload2.label "Lap újratöltése">
 <!ENTITY trackingProtection.reload2.accesskey "r">
 
