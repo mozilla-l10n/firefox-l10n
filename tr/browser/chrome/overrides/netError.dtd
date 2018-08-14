@@ -123,10 +123,6 @@ was trying to connect. -->
 <p>Kurumsal bir ağdaysanız veya antivirüs yazılımı kullanıyorsanız destek ekibinizden yardım almayı deneyebilirsiniz. Ayrıca web sitesinin sahibini bu sorun hakkında bilgilendirebilirsiniz.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>Bilgisayarınızın saati şu anda <span id='wrongSystemTime_systemDate'/>. Sistem ayarlarınızdan doğru tarih, saat ve saat dilimini ayarladıktan sonra <span class='hostname'/> sitesini tazeleyin.</p>
-<p>Saatiniz zaten doğruysa büyük olasılıkla web sitesi hatalı yapılandırılmıştır ve bu sorunu siz çözemezsiniz. Sorun hakkında site sahibini bilgilendirmeyi deneyebilirsiniz.</p>
-">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>Sorun büyük olasılıkla web sitesinden kaynaklanıyor, yani sizin yapabileceğiniz bir şey yok. Web sitesinin sahibini bu sorun hakkında bilgilendirebilirsiniz.</p>
@@ -166,7 +162,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle1  "Güvensiz Bağlantı">
 <!ENTITY certerror.pagetitle2  "Uyarı: Güvenlik riskiyle karşılaşabilirsiniz">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Bu site, &brandShortName; tarayıcısının kendisine yalnızca güvenli olarak bağlanabileceğini belirtmek için HTTP Sıkı Aktarım Güvenliği (HSTS) kullanmaktadır. Sonuç olarak bu sertifika için ayrıcalık tanınamaz.">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span>, HTTP Sıkı Aktarım Güvenliği (HSTS) denilen bir güvenlik ilkesi uyguluyor. Bu nedenle &brandShortName; bu siteye yalnızca güvenli bir şekilde bağlanabilir. Bu site için istisna ekleyemezsiniz.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span>, HTTP Sıkı Aktarım Güvenliği (HSTS) denilen bir güvenlik ilkesi uyguluyor. Bu nedenle &brandShortName; bu siteye yalnızca güvenli bir şekilde bağlanabilir. Bu siteye ayrıcalık tanıyarak siteyi ziyaret edemezsiniz.">
 <!ENTITY certerror.copyToClipboard.label "Metni panoya kopyala">
 
 <!ENTITY inadequateSecurityError.title "Bağlantınız güvenli değil">
@@ -175,6 +171,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> eskimiş ve saldırılara açık bir güvenlik teknolojisi kullanıyor. Saldırganlar, güvende olduğunu sandığınız bilgilerinizi kolayca ele geçirebilirler. Bu siteye girebilmeniz için önce site yöneticisinin sunucuyu düzeltmesi gerekir.</p><p>Hata kodu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Engellenmiş sayfa">
+
 
 <!ENTITY prefReset.longDesc "Ağ güvenliği ayarlarınız buna yol açıyor olabilir. Varsayılan ayarları geri yüklemek ister misiniz?">
 <!ENTITY prefReset.label "Varsayılan ayarları geri yükle">
