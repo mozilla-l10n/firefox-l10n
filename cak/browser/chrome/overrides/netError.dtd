@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Q'axinäq">
 
 <!ENTITY continue1.label "Titikïr chik el…">
+<!ENTITY moreInformation.label "Ch'aqa' chik rutzijol">
 
 <!-- Specific error messages -->
 
@@ -106,7 +107,7 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
 <p>Rik'in jub'a' ja ri ajk'amaya'l ruxaq k'o ruk'ayewal, ruma ri' majun yatikïr nab'än.</p><p>We at k'o pa jun to'öy runimamoloj k'amab'ey, o nawokisaj jun rukema' chapöy chikopil, yatikïr yatzijon kik'in ri to'onel kimoloj richin yatkito'. Chuqa' yatikïr naya' rutzijol chi re ri ajrunuk'samajel ajk'amaya'l ruxaq chi rij ri k'ayewal.</p>">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>Ri ruch'utiq'ijub'al akematz'ib' b'anon runuk'ulem richin <span id='wrongSystemTime_systemDate'/>. Tanik'oj chi ri akematz'ib' b'anon runuk'ulem rik'in ri ütz q'ijul, ramaj chuqa' ruk'ojlib'al ramajil k'o pa runuk'ulem aq'inoj, k'a ri' tak'exa'<span class='hostname'/>.</p><p>We ütz chik runuk'ulem ri ach'utiq'ijub'al rik'in jub'a' ja ri ajk'amaya'l ruxaq man ütz ta runuk'ulem b'anon, ruma ri' majun yatikïr nab'än rik'in ri k'ayewal. yatikïr naya' rutzijol chi rij ri k'ayewal chi re ri runuk'samajel ajk'amaya'l ruxaq.</p>">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Ri ruch'utiq'ijub'al akematz'ib' b'anon runuk'ulem richin <span id='wrongSystemTime_systemDate2'/>. Tajikib'a' chi ri akematz'ib' b'anon ütz runuk'ulem ri ruq'ijul, ruramaj chuqa' rub'anikil ruq'ijul aq'inoj, k'a ri' tak'exa' <span class='hostname'/>.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Rik'in jub'a' ja ri ajk'amaya'l ruxaq k'o ruk'ayewal, ruma ri' majun yatikïr nab'än. Yatikïr naya' rutzijol chi re ri ajrunuk'samajel ajk'amaya'l ruxaq chi rij ri k'ayewal.</p>">
 
@@ -159,6 +160,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> nrokisaj k'ak'a' samaj richin jikomal, ri e ojer chuqa' man k'ayew ta yeq'eleb'ëx. Jun q'eleb'enel chanin nuya' rutzijol ri etamab'äl, ri nina'ojïx chi echajin. Ri runuk'samajel ruxaq k'amaya'l k'o chi nutz'ët nab'ey ri ruk'u'x samaj chuwäch nitikïr nutz'ët ri ruxaq k'amaya'l.</p><p>Runimatz'ib' sachoj: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Q'aton Ruxaq">
+
 
 <!ENTITY prefReset.longDesc "Achi'el ta chi ja ri runuk'ulem rujikomal k'amab'ey, ri nib'ano re re'. ¿La nawajo' chi nitzolïx ri runuk'ulem kan k'o wi?">
 <!ENTITY prefReset.label "Titzolïx ri runuk'ulem kan k'o wi">
