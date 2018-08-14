@@ -48,16 +48,16 @@ serviceworker-worker-status-stopped = Detenido
 serviceworker-worker-status-registering = Registrando
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Necesitas registrar un Trabajador de servicio para inspeccionarlo aquí. <a>Aprende más</a>
+serviceworker-empty-intro = Necesitas registrar un Service Worker para inspeccionarlo aquí. <a>Aprende más</a>
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = Si la página actual debería tener un trabajador de servicio, aquí hay algunas cosas que puedes intentar hacer
+serviceworker-empty-suggestions = Si la página actual debería tener un service worker, aquí hay algunas cosas que puedes intentar hacer
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Busca errores en la Consola. <a>Abrir la consola</a>
 # Suggestion to use the debugger to investigate why a service worker is not registered.
 # Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Pasa por el registro de tu Trabajador de servicio y busca excepciones. <a>Abrir el depurador</a>
+serviceworker-empty-suggestions-debugger = Pasa por el registro de tu Service Worker y busca excepciones. <a>Abrir el depurador</a>
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspeccionar los Service Workers de otros dominios. <a>Abrir about:debugging</a>
