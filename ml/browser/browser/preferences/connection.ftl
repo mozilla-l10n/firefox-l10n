@@ -13,6 +13,7 @@ connection-close-key =
     .key = w
 connection-disable-extension =
     .label = എക്സ്റ്റന്‍ഷന്‍ ഡിസേബിള്‍ ചെയ്യുക
+connection-proxy-configure = ഇന്റർനെറ്റ് ഉപയോഗിക്കുന്നതിനായി പ്രോക്സി ക്രമീകരിക്കുക
 connection-proxy-option-no =
     .label = പ്രോക്സി ലഭ്യമല്ല
     .accesskey = y

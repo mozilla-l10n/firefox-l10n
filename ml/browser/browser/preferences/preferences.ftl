@@ -501,6 +501,8 @@ addressbar-suggestions-settings = സെര്‍ച്ച് എഞ്ചിൻ
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = ഉള്ളടക്കങ്ങൾ തടയുക
+content-blocking-learn-more = കൂടുതല്‍ അറിയുക
 
 ## Privacy Section - Tracking
 
@@ -548,6 +550,8 @@ permissions-notification-link = കൂടുതലറിയുക
 permissions-notification-pause =
     .label = { -brand-short-name } റീസ്റ്റാര്‍ട്ട് ചയ്യുന്ന വരെ അറിയിപ്പുകൾ താൽക്കാലികമായി നിർത്തുക
     .accesskey = n
+autoplay-option-ask =
+    .label = എപ്പോഴും ചോദിക്കുക
 permissions-block-popups =
     .label = പോപ്പപ്‌ ജാലകങ്ങള്‍ തടയുക
     .accesskey = B
