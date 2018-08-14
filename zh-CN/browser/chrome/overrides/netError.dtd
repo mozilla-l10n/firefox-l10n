@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "高级">
 
 <!ENTITY continue1.label "继续…">
+<!ENTITY moreInformation.label "更多信息">
 
 <!-- Specific error messages -->
 
@@ -129,8 +130,8 @@ was trying to connect. -->
 <p>如果您是在使用公司网络或某些防病毒软件时遇到此问题，可考虑联系客服（技术支持）以寻求帮助。您也可以向网站管理员告知此问题。</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>您的计算机时钟设置为 <span id='wrongSystemTime_systemDate'/>。请确保您的计算机在系统设置中已设置为正确的日期，时间和时区，然后刷新 <span class='hostname'/>。</p>
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>您的计算机时钟被设置为 <span id='wrongSystemTime_systemDate2'/>。请确保您的计算机在系统设置中已设置为正确的日期、时间、时区，然后刷新 <span class='hostname'/>。</p>
 <p>如果您的时钟已设置为正确的时间，则可能是网站配置错误，您无法解决此问题。您可以通知网站管理员该问题。</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
@@ -181,6 +182,8 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> 使用了过时的安全技术，较容易遭受攻击。攻击者可以轻易窃取您的信息。该网站的管理员修正服务器后您才能访问该网站。</p><p>错误代码：NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "页面已封锁">
+
+<!ENTITY clockSkewError.title "您的计算机时钟有误">
 
 <!ENTITY prefReset.longDesc "看来可能是您的网络安全设置造成了此问题。您想还原到默认设置吗？">
 <!ENTITY prefReset.label "恢复默认设置">
