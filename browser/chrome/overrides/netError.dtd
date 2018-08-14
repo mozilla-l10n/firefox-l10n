@@ -174,6 +174,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; అనేది <span id='wrongSystemTimeWithoutReference_URL'/> కి కనెక్ట్ కాలేదు ఎందుకంటే మీ కంప్యూటర్ యొక్క గడియారం తప్పు సమయాన్ని సూచిస్తున్నది మరియు ఇది ఒక సురక్షిత కనెక్షన్ ను నివారిస్తున్నది.</p> <p>మీ కంప్యూటరు <span id='wrongSystemTimeWithoutReference_systemDate'/> కి అమర్చి ఉన్నది. ఈ సమస్యను పరిష్కరించడానికి, సరైన సమయంతో సరిపోలే విధంగా మీ తేదీ మరియు సమయమును మార్చండి.</p>">
 
 <!ENTITY certerror.pagetitle1  "అరక్షిత అనుసంధానం">
+<!ENTITY certerror.pagetitle2  "హెచ్చరిక: సంభావ్య భద్రతా అపాయం ముందుంది">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "&brandShortName; సురక్షితంగా మాత్రమే అనుసంధానం కావాలని చెప్పడానికి HTTP కఠినమైన రవాణా సెక్యూరిటీ (HSTS)ని ఈ సైటు వాడుతూంది. ఫలితంగా, ఈ సర్టిఫికెటుకి మినహాయింపును చేర్చడం సాధ్యం కాదు.">
 <!ENTITY certerror.copyToClipboard.label "పాఠ్యాన్ని క్లిప్‌బోర్డుకి కాపీచేయి">
 
@@ -183,6 +184,8 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> కాలం చెల్లిన దాడికి దుర్భలంగా ఉన్న భద్రతా సాంకేతికత వాడుతోంది. మీరు భద్రం అనుకున్న సమాచారాన్ని దాడి చేసినవారు సులభంగా బయల్పరచవచ్చు. మీరు సైటును చూడగలిగే ముందు సైటు నిర్వాహకులు సైటు సేవికను బాగుచేయాలి.</p><p>దోష సంకేతం: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "నిరోధించిన పేజీ">
+
+<!ENTITY clockSkewError.title "మీ కంప్యూటర్ గడియారం తప్పు">
 
 <!ENTITY prefReset.longDesc "ఇది మీ నెట్‌వర్కు భద్రతా అమరికల వల్ల అయివుండవచ్చనిపిస్తోంది. అప్రమేత అమరికలను పునరుద్ధరించమంటారా?">
 <!ENTITY prefReset.label "అప్రమేయ అమరికలను పునరుద్ధరించు">
