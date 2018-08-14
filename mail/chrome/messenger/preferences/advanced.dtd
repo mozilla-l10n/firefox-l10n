@@ -7,11 +7,12 @@
 <!ENTITY itemUpdate.label        "Diweddaru">
 <!ENTITY itemNetworking.label    "Rhwydwaith a Lle ar Ddisg">
 <!ENTITY itemCertificates.label  "Tystysgrifau">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Galluogi Chwilio a Mynegeio Eang">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY dateTimeFormatting.label      "Fformatio Dyddiad ac Amser">
+<!ENTITY languageSelector.label        "Iaith">
 <!ENTITY allowHWAccel.label            "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey        "y">
 <!ENTITY storeType.label               "Math o Storio Negeseuon ar gyfer cyfrifon newydd:">
@@ -38,8 +39,8 @@
 <!ENTITY returnReceiptsInfo.label      "Pennu sut mae &brandShortName; yn trin derbynebau">
 <!ENTITY showReturnReceipts.label      "Derbynebau Dychwelyd…">
 <!ENTITY showReturnReceipts.accesskey  "D">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetreg">
 <!ENTITY telemetryDesc.label             "Mae'n rhannu data perfformiad, defnydd, caledwedd a chyfaddasu eich rhaglen e-bost gyda &vendorShortName; er mwyn gwella &brandShortName;">
 <!ENTITY enableTelemetry.label           "Galluogi Telemetreg">
@@ -51,12 +52,12 @@
 <!ENTITY enableCrashReporter.label       "Galluogi Adroddwr Chwalu">
 <!ENTITY enableCrashReporter.accesskey   "A">
 <!ENTITY crashReporterLearnMore.label    "Dysgu Rhagor">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApp2.label                "Diweddariadau &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
@@ -77,8 +78,8 @@
 
 <!ENTITY useService.label                "Defnyddio gwasanaethau cefndirol i osod diweddariadau">
 <!ENTITY useService.accesskey            "e">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Gosodiadau…">
 <!ENTITY showSettings.accesskey        "G">
 <!ENTITY proxiesConfigure.label        "Ffurfweddu sut mae &brandShortName; yn cysylltu â'r Rhyngrwyd">
@@ -92,13 +93,13 @@
 <!ENTITY offlineCompactFolders.label     "Cywasgu pob ffolder pan fydd yn cadw dros gyfanswm o">
 <!ENTITY offlineCompactFolders.accesskey "y">
 <!ENTITY offlineCompactFoldersMB.label   "MB">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Defnyddio hyd at">
 <!ENTITY useCacheBefore.accesskey        "D">
 <!ENTITY useCacheAfter.label             "MB o le disg ar gyfer y storfa">
@@ -106,8 +107,8 @@
 <!ENTITY overrideSmartCacheSize.accesskey "A">
 <!ENTITY clearCacheNow.label             "Clirio Nawr">
 <!ENTITY clearCacheNow.accesskey         "N">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Pan fydd gweinydd yn gofyn am fy nhystysgrif bersonol:">
 <!ENTITY certs.auto                      "Dewis un yn awtomatig">
 <!ENTITY certs.auto.accesskey            "D">
