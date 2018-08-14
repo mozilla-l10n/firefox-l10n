@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Ενεργοποίηση καθολικής αναζήτησης και ευρετηριοποίησης">
 <!ENTITY enableGlodaSearch.accesskey   "γ">
 <!ENTITY dateTimeFormatting.label      "Μορφή ημερομηνίας και ώρας">
+<!ENTITY languageSelector.label        "Γλώσσα">
 <!ENTITY allowHWAccel.label            "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey        "υ">
 <!ENTITY storeType.label               "Τύπος αποθήκευσης μηνυμάτων για νέους λογαριασμούς:">
