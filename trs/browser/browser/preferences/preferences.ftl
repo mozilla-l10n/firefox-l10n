@@ -312,9 +312,14 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Garasun yitinj chre' tekla da' gache nun' riña nej pajina
     .accesskey = k
+browsing-search-on-start-typing =
+    .label = Nana'ui' nugua'an 'ngà gayi'i' gachun'
+    .accesskey = x
 
 ## General Section - Proxy
 
+network-proxy-title = Si proxy red
+network-proxy-connection-description = Nagi'io' { -brand-short-name } gate' riña internet.
 network-proxy-connection-learn-more = Gahuin chrūn doj
 network-proxy-connection-settings =
     .label = Nagi'iô'...
@@ -323,10 +328,25 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Ventâna ni rakïj ñanj
+home-new-windows-tabs-description2 = Ganin ruhua ahuin' si gini'iaj 'ngà gana'nit pajina riña ayi'ij ni rakïj ñanj nakàa.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Pajina ayi'ij nī ventana nakàa
 home-newtabs-mode-label = Rakïj ñanj nakàa
+home-restore-defaults =
+    .label = Nagi'io' ru'ua nìanj
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Riña ayi'i Firefox (ru'uaj 'naj)
+home-mode-choice-custom =
+    .label = Nagi'iaj mu'ù nej URL...
+home-mode-choice-blank =
+    .label = Ñanj gatsìi
+home-homepage-custom-url =
+    .placeholder = Gachrun' URL...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -345,6 +365,26 @@ choose-bookmark =
 ## Search Section
 
 search-bar-header = Riña nana'ui'
+search-bar-hidden =
+    .label = Garasun' dukuán direksion da' nana'i' nī gache nu'
+search-bar-shown =
+    .label = Nuto' dukuán nana'ui' riña dukuán mā sa garasun'
+search-engine-default-header = Sa ruguñu'unj ñù' nana'uì'
+search-engine-default-desc = Ganahui' sa nana'ui' da' garasun' riña dukuán direksion nī riña dukuán 'na sa nana'ui'.
+search-suggestions-option =
+    .label = Gato' ahuin sa ga'ue nàna'ui'
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Nadigan ma nej sa nana'ui' riña dukuán direksion.
+    .accesskey = I
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Nadigan asinij sa nana'ui' 'ngà da' sa 'ngà gini'io' riña dukuán direksion
+search-suggestions-cant-show = Nej sa nana'uit nī se si nadiganj riña dukuán direksion dàdin' dàdanj nagi'iât { -brand-short-name } da' si nachra sa'aj.
 search-choose-keyword-column =
     .label = Nuguan huii
 search-restore-default =
