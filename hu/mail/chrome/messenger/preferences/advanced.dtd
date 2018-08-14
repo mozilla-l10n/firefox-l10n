@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Globális keresés és indexelő engedélyezése">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY dateTimeFormatting.label      "Dátum és idő formázás">
+<!ENTITY languageSelector.label        "Nyelv">
 <!ENTITY allowHWAccel.label            "Hardveres gyorsítás használata, ha elérhető">
 <!ENTITY allowHWAccel.accesskey        "H">
 <!ENTITY storeType.label               "Üzenettároló és típus új fiókokhoz:">
