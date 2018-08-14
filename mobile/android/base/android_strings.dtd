@@ -336,7 +336,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "ഇപ്പോള്‍ വേണ്ട">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "സജ്ജീകരണങ്ങളിലേക്ക്പോവുക">
+<!ENTITY tab_queue_prompt_settings_button "സജ്ജീകരണങ്ങളിലേക്കു പോവുക">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -401,7 +401,7 @@
 <!ENTITY pref_private_data_offlineApps "ഓഫ്‌ലൈന്‍ വെബ്സൈറ്റ് ഡേറ്റ">
 <!ENTITY pref_private_data_siteSettings2 "വെബ്സൈറ്റ് സജ്ജീകരണങ്ങള്‍">
 <!ENTITY pref_private_data_downloadFiles2 "ഡൌണ്‍ലോഡുകള്‍">
-<!ENTITY pref_private_data_syncedTabs "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
+<!ENTITY pref_private_data_syncedTabs "സമന്വയിപ്പിച്ച ടാബുകള്‍">
 
 <!ENTITY pref_default_browser "സ്വതേയുള്ള ബ്രൗസര്‍ ആക്കുക">
 <!ENTITY pref_default_browser_mozilla_support_tablet "മോസില്ല സപ്പോർട്ട് സന്ദർശിക്കുക">
