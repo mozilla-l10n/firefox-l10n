@@ -945,6 +945,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Chajinïk chuwäch Ojqanïk: TZIJÏL">
 <!ENTITY trackingProtection.off "Chajinïk chuwäch Ojqanïk: OFF">
+
+<!ENTITY contentBlocking.title "Ruq'atik Rupam">
+<!ENTITY contentBlocking.detected "Q'atel rupam xilitäj pa re ruxaq k'amaya'l re'.">
+<!ENTITY contentBlocking.notDetected "Man q'atel ta rupam xilitäj pa re ruxaq re'.">
+<!ENTITY contentBlocking.disabled.label "Chupun">
+<!ENTITY contentBlocking.disabled.tooltip "Xachüp ri Ruq'atik Rupam.">
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!ENTITY trackingProtection.title "Chajinïk chuwäch Ojqanïk">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; yeruq'ät jujun taq peraj chi re ri ruxaq, ri nitikïr yatrïl pa okik'amaya'l.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Re ruxaq k'amaya'l re' k'o taq ruch'akulal ri yetikïr nikïl ri awokem pa k'amaya'l. Achupun ri achajinik.">
@@ -970,6 +997,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Majun ojqanel ch'akulal xilitäj pa re ruxaq re'. Xachüp ri chajinïk pa re ruxaq k'amaya'l re'.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Xatzïj ri Ojqanem chuwäch chajinïk. Katok chik chupam ri ruxaq richin ye'aq'ät konojel ri ojqanela'.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
