@@ -945,6 +945,39 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Sporingsvern: PÅ">
 <!ENTITY trackingProtection.off "Sporingsvern: AV">
+
+<!ENTITY contentBlocking.title "Innhaldsblokkering">
+<!ENTITY contentBlocking.detected "Innhald som kan blokkerast oppdaga på denne sida.">
+<!ENTITY contentBlocking.notDetected "Inkje innhald som kan blokkerast funne på denne sida.">
+<!ENTITY contentBlocking.disabled.label "Slått av">
+<!ENTITY contentBlocking.disabled.tooltip "Du har slått av innhaldsblokkering.">
+<!ENTITY contentBlocking.exception.tooltip "Du har slått av innhaldsblokkering på denne sida.">
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Blokkert">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Legg til blokkering…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Sporfølgjarar">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Blokkert">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Legg til blokkering…">
+
 <!ENTITY trackingProtection.title "Sporingsvern">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkerer delar av sida som kan spore nettlesinga di.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Denne sida inneheld element som kan spore nettlesinga di. Du har slått av vern.">
@@ -970,6 +1003,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Ingen sporingselement er oppdaga på denne sida. Du har slått av vern på denne sida.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Du har slått på Sporingsvern. Oppdater denne sida for å blokkere alle sporfølgjarar.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
