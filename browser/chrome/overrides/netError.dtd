@@ -117,8 +117,6 @@
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Che cosa posso fare per risolvere?">
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>L’errore è probabilmente causato dal sito web e non può essere risolto.</p>
 <p>Se si stanno utilizzando una rete aziendale o un software antivirus, contattare i team di supporto per ottenere assistenza. È inoltre possibile segnalare il problema al gestore del sito web.</p>">
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>L’ora riportata dall’orologio del computer è <span id='wrongSystemTime_systemDate'/>. Assicurarsi che data, ora e fuso orario siano impostati correttamente nelle impostazioni di sistema, poi riprovare a caricare <span class='hostname'/>.</p>
-<p>Se l’orologio del computer è già impostato correttamente, si tratta probabilmente di un’errata configurazione del sito web e il problema non può essere risolto. È possibile segnalare il problema al gestore del sito web.</p>">
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>L’ora riportata dall’orologio del computer è <span id='wrongSystemTime_systemDate2'/>. Assicurarsi che data, ora e fuso orario siano impostati correttamente nelle impostazioni di sistema, poi riprovare a caricare <span class='hostname'/>.</p>
 <p>Se l’orologio del computer è già impostato correttamente, si tratta probabilmente di un’errata configurazione del sito web e il problema non può essere risolto. È possibile segnalare il problema al gestore del sito web.</p>">
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>L’errore è probabilmente causato dal sito web e non può essere risolto. È possibile segnalare il problema al gestore del sito web.</p>">
