@@ -12,6 +12,8 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Header for the list of Service Workers displayed in the application panel for the current page.
+serviceworker-list-header = Service Workers
 # Text displayed next to the list of Service Workers to encourage users to check out
 # about:debugging to see all registered Service Workers.
 serviceworker-list-aboutdebugging = Malfermu <a>about:debugging</a> por vidi «Service Workers» de aliaj nomregnoj
@@ -22,6 +24,13 @@ serviceworker-worker-unregister = Malregistri
 # displayed when the link is disabled.
 serviceworker-worker-debug = Senerarigi
     .title = Oni nur povas senerarigi funkciantajn «Service Workers»
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start = Komenci
+# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
+serviceworker-worker-source = Fonto
+# Text displayed next to the current status of the service worker.
+serviceworker-worker-status = Stato
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
