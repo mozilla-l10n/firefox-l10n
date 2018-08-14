@@ -202,6 +202,9 @@ choose-language-description = Elige tu idioma preferido para mostrar páginas We
 choose-button =
     .label = Elegir…
     .accesskey = o
+choose-browser-language-description = Elige los idiomas usados para mostrar menús, mensajes y notificaciones de { -brand-short-name }.
+confirm-browser-language-change-description = Reinicia { -brand-short-name } para aplicar estos cambios
+confirm-browser-language-change-button = Aplicar y reiniciar
 translate-web-pages =
     .label = Traducir contenido web
     .accesskey = T
@@ -626,6 +629,44 @@ addressbar-locbar-openpage-option =
     .label = Pestañas abiertas
     .accesskey = O
 addressbar-suggestions-settings = Cambia las preferencias para las sugerencias de los motores de búsqueda
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = Bloqueo de contenido
+content-blocking-desc = Bloquea contenido de terceros, como publicidad o código, que puede ralentizar tu navegación y seguirte a través de la web. Personaliza tus ajustes para un mejor equilibrio entre protección y rendimiento.
+content-blocking-learn-more = Aprender más
+content-blocking-restore-defaults =
+    .label = Restaurar predeterminados
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Desactivar bloqueo de contenido
+content-blocking-toggle-off =
+    .tooltiptext = Activar bloqueo de contenido
+content-blocking-toggle-label-on = ACTIVADO
+    .accesskey = A
+content-blocking-toggle-label-off = DESACTIVADO
+    .accesskey = D
+content-blocking-category-label = Elige qué bloquear
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Elementos de seguimiento lentos
+    .accesskey = S
+content-blocking-fastblock-description = Bloquea el contenido de terceros que tarda más de 5 segundos en cargarse.
+content-blocking-fastblock-option-enabled =
+    .label = Bloquear siempre
+content-blocking-fastblock-option-disabled =
+    .label = Nunca bloquear
+content-blocking-tracking-protection-label = Rastreadores
+    .accesskey = T
+content-blocking-tracking-protection-description = Bloquea todos los rastreadores conocidos (Nota: también puede impedir que se carguen algunas páginas).
+content-blocking-tracking-protection-option-enabled =
+    .label = Siempre bloquear
+content-blocking-tracking-protection-option-pbm =
+    .label = Bloquear solo en ventanas privadas
+content-blocking-tracking-protection-option-disabled =
+    .label = Nunca bloquear
+content-blocking-tracking-protection-change-blocklist = Cambiar la lista de bloqueo…
 
 ## Privacy Section - Tracking
 
