@@ -372,6 +372,7 @@
 
 <!ENTITY pref_media_autoplay_enabled "स्वचालित हुने अनुमति दिनुहोस्">
 <!ENTITY pref_media_autoplay_enabled_summary "कुनै वेबसाइटले भिडियो अथवा कुनै अरू मिडिया सामग्री स्वतः चलाउन सक्ने नसक्ने नियन्त्रण गर्नुहोस">
+<!ENTITY pref_media_autoplay_allow "स्वचालित हुने अनुमति दिनुहोस्">
 <!ENTITY pref_zoom_force_enabled "आकार परिवर्तन सधै सक्षम पार्नुहोस">
 <!ENTITY pref_zoom_force_enabled_summary "कुनै पनि पेजको आकार परिवर्तन गर्न अधिरोहण गर्नुहोस">
 <!ENTITY pref_voice_input "आवाज आगत">
@@ -447,6 +448,10 @@
 <!ENTITY datareporting_crashreporter_title_short "क्र्यास प्रतिवेदक">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; स्थान सेवा">
 <!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; लाई विश्व नक्साकरण गर्न मद्दत गर्नुहोस्। तपाईँको अनुमानित स्थानका बारेमा हामीलाई जानकारी गराएर हाम्रो भौगोलिक स्थान सेवा सुधार गर्न सहयोग गर्नुहोस्।">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +893,8 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "गृह पर्दामा थप्नुहोस्">
 <!ENTITY pwa_continue_to_website "वेबसाइटमा जारि राख्नुहोस्">
 <!ENTITY pwa_onboarding_sumo "तपाईँ यो वेबसाइटलाई तपाईँको गृह स्क्रिनमा सजिलै थप्न सक्नुहुन्छ सजिलै पहुँच गर्न र अनुप्रयोग जस्तो अनुभव सँग छिटो ब्राउज गर्नको लागि ।">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+
+<!-- Notification channels names -->
