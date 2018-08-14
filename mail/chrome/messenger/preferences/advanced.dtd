@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Aktifkan Carian Global dan Pengindeks">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY dateTimeFormatting.label      "Format Tarikh dan Masa">
+<!ENTITY languageSelector.label        "Bahasa">
 <!ENTITY allowHWAccel.label            "Guna pecutan perkakasan, jika tersedia">
 <!ENTITY allowHWAccel.accesskey        "p">
 <!ENTITY storeType.label               "Jenis Storan Mesej untuk akaun baru:">
