@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Avancerat">
 
 <!ENTITY continue1.label "Fortsätt…">
+<!ENTITY moreInformation.label "Mer information">
 
 <!-- Specific error messages -->
 
@@ -110,8 +111,8 @@ was trying to connect. -->
 <p>Om du är på ett företagsnätverk eller använder antivirusprogram kan du fråga supporten efter hjälp. Du kan också meddela webbplatsens administratör om problemet.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>Datorklockan är inställd på <span id='wrongSystemTime_systemDate'/>. Kontrollera att datorn är inställd på rätt datum, tid och tidszon i systeminställningarna och uppdatera sedan <span class='hostname'/>.</p>
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Datorklockan är inställd på <span id='wrongSystemTime_systemDate2'/>. Kontrollera att datorn är inställd på rätt datum, tid och tidszon i systeminställningarna och uppdatera sedan <span class='hostname'/>.</p>
 <p>Om klockan redan är inställd på rätt tid, är webbplatsen sannolikt felkonfigurerad, och det finns inget du kan göra för att lösa problemet. Du kan meddela webbplatsens administratör om problemet.</p>
 ">
 
@@ -159,6 +160,9 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> använder säkerhetsteknologi som är föråldrad och sårbar för angrepp. En angripare kan lätt avslöja information som du trott ska vara säker. Webbplatsens administratör måste laga servern innan du kan besöka webbplatsen.</p><p>Felkod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blockerad sida">
+
+<!ENTITY clockSkewError.title "Din dators klocka går fel">
+<!ENTITY clockSkewError.longDesc "Din dator tycker att det är <span id='wrongSystemTime_systemDate1'/>, vilket hindrar &brandShortName; från att ansluta säkert. För att besöka <span class='hostname'></span>, uppdatera datorns klocka i dina systeminställningar till aktuellt datum, tid och tidszon och uppdatera sedan <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Det ser ut som nätverkets säkerhetsinställningar kan orsaka detta. Vill du att standardinställningarna ska återställas?">
 <!ENTITY prefReset.label "Återställ standardinställningar">
