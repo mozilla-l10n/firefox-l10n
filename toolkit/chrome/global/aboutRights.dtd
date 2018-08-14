@@ -16,7 +16,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; estas akirebla de vi laŭ la kondiĉoj de la permesilo ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
-<!ENTITY rights.intro-point1c "Tio signifas ke vi povas uzi, kopii kaj distribui &brandShortName; al aliaj homoj. Oni kuraĝigas vin modifi la fontan kodon de &brandShortName; kiel ajn vi volas por akomodi ĝin al viaj bezonoj. La Mozilla Public License ankaŭ rajtigas vin distribui viajn modifitajn versiojn.">
+<!ENTITY rights.intro-point1c ". Tio signifas ke vi povas uzi, kopii kaj distribui &brandShortName; al aliaj homoj. Oni kuraĝigas vin modifi la fontan kodon de &brandShortName; kiel ajn vi volas por akomodi ĝin al viaj bezonoj. La Mozilla Public License ankaŭ rajtigas vin distribui viajn modifitajn versiojn.">
 
 <!ENTITY rights.intro-point2-a "Neniu rajto pri la registrita marko aŭ uzopermesilo por la registritaj markoj de Mozilla Foundation aŭ de iu alia estas ceditaj al vi. Tio inkluzivas, sed ne nur tion, la nomon aŭ emblemon de Firefox.  Pli da informo pri registritaj markoj estas trovebla ">
 <!ENTITY rights.intro-point2-b "ĉi tie">
