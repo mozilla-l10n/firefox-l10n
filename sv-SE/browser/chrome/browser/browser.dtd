@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Spårningsskydd: PÅ">
 <!ENTITY trackingProtection.off "Spårningsskydd: AV">
+
+<!ENTITY contentBlocking.title "Innehållsblockering">
+<!ENTITY contentBlocking.detected "Blockerbart innehåll har upptäckts på den här webbplatsen.">
+<!ENTITY contentBlocking.notDetected "Inget blockerbart innehåll upptäckt på den här sidan.">
+<!ENTITY contentBlocking.disabled.label "Inaktiverad">
+<!ENTITY contentBlocking.disabled.tooltip "Du har inaktiverat innehållsblockering.">
+<!ENTITY contentBlocking.exception.tooltip "Du har inaktiverat innehållsblockering för den här webbplatsen.">
+
+<!ENTITY contentBlocking.fastBlock.label "Långsamma trackers">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Blockerad">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Lägg till blockering…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Trackers">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Blockerad">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Lägg till blockering…">
+
 <!ENTITY trackingProtection.title "Spårningsskydd">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blockerar delar av sidan som kan spåra din surfning.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Den här webbplatsen innehåller element som kan spåra din surfning. Ditt skydd är inaktiverat.">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Inga spårningskomponenter upptäckta på den här sidan. Du har inaktiverat skyddet för denna webbplats.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Du har aktiverat Spårningsskydd. Ladda om sidan för att blockera all spårning.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Inaktivera för den här sidan">
 <!ENTITY trackingProtection.unblock3.accesskey "I">
+<!ENTITY trackingProtection.unblock4.label "Inaktivera blockering för denna webbplats">
+<!ENTITY trackingProtection.unblock4.accesskey "b">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "I">
 <!ENTITY trackingProtection.block4.label "Aktivera för den här sidan">
 <!ENTITY trackingProtection.block4.accesskey "A">
+<!ENTITY trackingProtection.unblockPrivate4.label "Inaktivera blockering tillfälligt">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "t">
+<!ENTITY trackingProtection.block5.label "Aktivera blockering för denna webbplats">
+<!ENTITY trackingProtection.block5.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Ladda om sida">
 <!ENTITY trackingProtection.reload2.accesskey "L">
 
