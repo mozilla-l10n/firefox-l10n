@@ -18,7 +18,7 @@
 <!ENTITY  generalTitle          "Titolo:">
 <!ENTITY  generalURL            "Adreso:">
 <!ENTITY  generalType           "Tipo:">
-<!ENTITY  generalMode           "Reĝimo de elmontrado:">
+<!ENTITY  generalMode           "Reĝimo de videbligo:">
 <!ENTITY  generalSize           "Grando:">
 <!ENTITY  generalReferrer       "Referencanta URL:">
 <!ENTITY  generalSource         "Fonto en staplo:">
@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "Informfontoj">
 <!ENTITY  feedTab.accesskey     "I">
-<!ENTITY  feedSubscribe         "Aboni">
-<!ENTITY  feedSubscribe.accesskey "A">
 
 <!ENTITY  permTab               "Permesoj">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Uzi ĉefan">
-<!ENTITY  permAskAlways         "Ĉiam demandi">
-<!ENTITY  permAllow             "Permesi">
-<!ENTITY  permAllowSession      "Permesi dum la seanco">
-<!ENTITY  permHide              "Kaŝi">
-<!ENTITY  permBlock             "Bloki">
 <!ENTITY  permissionsFor        "Permesoj por:">
-<!ENTITY  permPlugins           "Aktivigi komprogramojn">
 
 <!ENTITY  securityTab           "Sekureco">
 <!ENTITY  securityTab.accesskey "S">
@@ -75,9 +66,6 @@
 
 <!ENTITY  securityView.privacy.header                   "Privateco kaj historio">
 <!ENTITY  securityView.privacy.history                  "Ĉu mi vizitis tiun ĉi retejon antaŭ ol hodiaŭ?">
-<!ENTITY  securityView.privacy.cookies                  "Ĉu tiu ĉi retejo konservas datumon (kuketojn) en mia komputilo?">
-<!ENTITY  securityView.privacy.viewCookies              "Vidi kuketojn">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.siteData                 "Ĉu tiu ĉi retejo konservas informojn en mia komputilo?">
 <!ENTITY  securityView.privacy.clearSiteData            "Viŝi kuketojn kaj retejajn datumojn">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "V">
