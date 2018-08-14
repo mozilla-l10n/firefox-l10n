@@ -59,7 +59,7 @@
 <!ENTITY  crash_message2 "&brandShortName;നു എന്തോ പ്രശ്നം സംഭവിച്ച് തകരാറായിരിക്കുന്നു. നിങ്ങളുടെ ടാബുകള്‍ &brandShortName; എന്നതില്‍ പട്ടികപ്പെടുത്തിയിട്ടുണ്ട്. പുനരാംരംഭിക്കുമ്പോഴുള്ള ആരംഭതാള്‍.">
 <!ENTITY  crash_send_report_message3 "തകരാര്‍ സംബന്ധിച്ചുള്ള കാര്യങ്ങള്‍ &vendorShortName;-നെ അറിയിക്കുക, അവരിത് പരിഹരിക്കും">
 <!ENTITY  crash_include_url2 "സന്ദര്‍ശിച്ചുകൊണ്ടിരുന്ന താളിന്റെ വിലാസം ചേര്‍ക്കുക.">
-<!ENTITY  crash_sorry "ക്ഷമിയ്ക്കുണം">
+<!ENTITY  crash_sorry "ക്ഷമിക്കണം">
 <!ENTITY  crash_comment "ഒരു അഭിപ്രായം ചേര്‍ക്കുക (അഭിപ്രായങ്ങള്‍ എല്ലാവര്‍ക്കും കാണുവാന്‍ സാധിക്കും)">
 <!ENTITY  crash_allow_contact2 "ഈ റിപ്പോര്‍ട്ടിനെ സംബന്ധിച്ച് എന്നെ ബന്ധപ്പെടാന്‍ &vendorShortName;-നെ അനുവദിക്കുക">
 <!ENTITY  crash_email "താങ്കളുടെ ഇമെയില്‍">
@@ -69,6 +69,15 @@
 <!ENTITY  crash_restart_label "&brandShortName; വീണ്ടും ആരംഭിയ്ക്കുക">
 
 <!ENTITY url_bar_default_text2 "തിരയുകയോ വിലാസം നല്‍കുകയോ ചെയ്യൂ">
+
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "തിരയുന്നതിനു വേണ്ടി അല്ലെങ്കിൽ അഡ്രസ് നൽകുന്നതിനു വേണ്ടി ക്യുആർ കോഡ് ഉപയോഗിക്കുക">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "തിരയുന്നതിനു വേണ്ടി അല്ലെങ്കിൽ അഡ്രസ് നൽകുന്നതിനു വേണ്ടി മൈക്ക് ഉപയോഗിക്കുക">
 
 <!ENTITY bookmark "അടയാളം">
 <!ENTITY bookmark_remove "അടയാളം നീക്കൂ">
@@ -207,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "ടാബുകൾ പുനഃസ്ഥാപിക്കല്‍, ഡാറ്റാ സേവർ, ഡവലപ്പർ ഉപകരണങ്ങൾ">
 <!ENTITY pref_category_notifications "അറിയിപ്പുകള്‍">
 <!ENTITY pref_category_notifications_summary "പുതിയ സവിശേഷതകള്‍, വെബ്സൈറ്റ്പുതുക്കലുകള്‍">
+<!ENTITY pref_category_notifications_summary2 "പുതിയ സവിശേഷതകൾ, എളുപ്പ വഴികൾ">
 <!ENTITY pref_developer_remotedebugging_usb "യു എസ് ബി വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
 <!ENTITY pref_developer_remotedebugging_wifi "വൈ-ഫൈ വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "വൈ-ഫൈ വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗിനു താങ്കളുടെ ഡിവൈസില്‍ ക്യുആര്‍ കോഡ് റീഡര്‍ ആപ്പ് ഇന്‍സ്റ്റോള്‍ ചെയ്യേണ്ടതുണ്ട്.">
@@ -282,6 +292,11 @@
 <!ENTITY pref_whats_new_notification "&brandShortName;-ല്‍ പുതിയതെന്തെല്ലാം">
 <!ENTITY pref_whats_new_notification_summary "ഒരു പുതുക്കലിനു ശേഷം പുതിയ സവിശേഷതകളെ കുറിച്ച് മനസ്സിലാക്കൂ">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "പരീക്ഷണാത്മക സവിശേഷതകൾ">
@@ -354,6 +369,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "ഓട്ടോപ്ലേ അനുവദിക്കുക">
 <!ENTITY pref_media_autoplay_enabled_summary "വെബ്സൈറ്റുകള്‍ ചലച്ചിത്രങ്ങളോ മറ്റു മീഡിയാ ഉള്ളടക്കങ്ങളോ തനിയെ പ്രവര്‍ത്തിപ്പിക്കുന്നുണ്ടെങ്കില്‍ നിയന്ത്രിക്കുക">
+<!ENTITY pref_media_autoplay_allow "ഓട്ടോ പ്ലെ അനുവദിക്കുക">
+<!ENTITY pref_media_autoplay_block "ഓട്ടോ പ്ലെ അനുവദിക്കാതിരിക്കുക">
 <!ENTITY pref_zoom_force_enabled "ഇപ്പോഴും സൂം പ്രവര്‍ത്തനസജ്ജമാക്കുക">
 <!ENTITY pref_voice_input "ശബ്ദ ഇന്‍പുട്ട്">
 <!ENTITY pref_voice_input_summary2 "URL ബാറില്‍ കേട്ടെഴുത്ത് അനുവദിക്കുക">
@@ -428,6 +445,11 @@
 <!ENTITY datareporting_crashreporter_title_short "തകരാര്‍ രേഖപ്പെടുത്തുന്ന പ്രയോഗം">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; പ്രദേശ സേവനങ്ങള്‍">
 <!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; എന്നതിനെ ലോകഭൂപടം ചിത്രീകരിക്കാന്‍ സഹായിക്കൂ. നിങ്ങളുടെ ഉപകരണത്തിന്റെ ഏകദേശ വൈഫൈ, സെല്ലുലാര്‍ പ്രദേശ വിവരം പങ്കുവെച്ച് ഞങ്ങളുടെ ഭൂപ്രദേശ സേവനം മെച്ചപ്പെടുത്തൂ.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; പ്രദേശ സേവനം പ്രവര്‍ത്തിക്കുന്നു">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -451,6 +473,7 @@
 <!ENTITY share_image_failed "ഈ ചിത്രം പങ്കുവെക്കാൻ സാധിച്ചില്ല">
 <!ENTITY save_as_pdf "PDF ആയി സൂക്ഷിക്കുക">
 <!ENTITY print "അച്ചടിയ്ക്കുക">
+<!ENTITY view_page_source "താളിന്റെ സോർസ് കാണിക്കുക">
 <!ENTITY find_in_page "താളില്‍ കണ്ടെത്തുക">
 <!ENTITY desktop_mode "ഡെസ്ക്ടോപ്പ് സൈറ്റ്">
 <!ENTITY page "താള്‍">
@@ -533,7 +556,7 @@
 <!ENTITY pref_compact_tabs_summary2 "പോര്‍ട്രേറ്റ് മോഡില്‍ ടാബുകള്‍ രണ്ട് കോളമായി നിരത്തുക">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "താൾ നീക്കം ചെയ്തു">
 <!ENTITY folder_removed "ഫോൾഡർ നീക്കം ചെയ്തു">
@@ -748,7 +771,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "അവസാന സിങ്ക്: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "അവസാനമായി സിന്‍ക് ചെയ്തത്: ഇതുവരെയില്ല">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -866,3 +889,15 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "ഹോം സ്ക്രീനിലേക്ക് ചേർക്കുക">
 <!ENTITY pwa_continue_to_website "വെബ്സൈറ്റിലേക്ക് തുടരുക">
 <!ENTITY pwa_onboarding_sumo "നിങ്ങൾക്ക് തൽക്ഷണ ആക്സസ്സിനായി ഈ വെബ്സൈറ്റ് നിങ്ങളുടെ ഹോം സ്ക്രീനിലേക്ക് എളുപ്പത്തിൽ ചേർക്കാം. കൂടാതെ അപ്ലിക്കേഷൻ-പോലുള്ള അനുഭവത്തിലൂടെ വേഗത്തിൽ ബ്രൗസുചെയ്യുക.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "പ്ലെ ചെയ്യുക">
+<!ENTITY pip_play_button_description "പ്ലേ തുടരുക">
+<!ENTITY pip_pause_button_title "താല്ക്കാലികവിരാമം">
+<!ENTITY pip_pause_button_description "പ്ലെ നിറുത്തുക">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; പ്രദേശ സേവനങ്ങള്‍">
+<!ENTITY download_notification_channel "ഡൌണ്‍ലോഡുകള്‍">
