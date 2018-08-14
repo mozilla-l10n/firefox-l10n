@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Avançado">
 
 <!ENTITY continue1.label "Continuar…">
+<!ENTITY moreInformation.label "Mais informação">
 
 <!-- Specific error messages -->
 
@@ -116,9 +117,9 @@ was trying to connect. -->
 <p>Se está numa rede empresarial ou a utilizar software de anti-vírus, pode entrar em contacto com as equipas de apoio para assistência. Pode também notificar o administrador do website acerca do problema.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>O seu relógio do computador está definido para <span id='wrongSystemTime_systemDate'/>. Tenha a certeza que o seu computador está definido para a data, hora, e fuso horário corretos nas definições do sistema, e depois atualize <span class='hostname'/>.</p>
-<p>Se o seu relógio já está definido para a hora correta, o website provavelmente está mal configurado, e não há nada que possa fazer para resolver o problema. Pode notificar o administrador do website acerca do problema.</p>
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>O relógio do seu computador está definido para <span id='wrongSystemTime_systemDate2'/>. Certifique-se que o seu computador está definido para a data, hora e fuso horário corretos nas suas definições de sistema, e depois atualize <span class='hostname'/>.</p>
+<p>Se o seu relógio já está definido para a hora correta, o website deve estar mal configurado, e não há nada que possa fazer para resolver o problema. Pode notificar o administrador do website acerca do problema.</p>
 ">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
@@ -164,6 +165,9 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utiliza tecnologia de segurança que está desatualizada e vulnerável a ataques. Um atacante pode facilmente revelar informação que pensou estar segura. O administrador do website precisa de corrigir o servidor primeiro antes que possa visitar o site.</p><p>Código de erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Página bloqueada">
+
+<!ENTITY clockSkewError.title "O relógio do seu computador está errado">
+<!ENTITY clockSkewError.longDesc "O seu computador pensa que são <span id='wrongSystemTime_systemDate1'/>, o que impede que o &brandShortName; se ligue corretamente. Para visitar <span class='hostname'></span>, atualize o relógio do seu computador nas suas definições de sistema para a data, hora, e fuso horário corretos, e depois atualize <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Parece que as suas definições de segurança de rede podem estar a causar isto. Pretende que as definições predefinidas sejam restauradas?">
 <!ENTITY prefReset.label "Restaurar definições predefinidas">
