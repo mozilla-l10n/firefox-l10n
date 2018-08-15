@@ -399,6 +399,10 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = നാള്‍വഴി
     .accesskey = r
+sync-engine-creditcards =
+    .label = ക്രഡിറ്റ് കാർഡുകൾ
+    .tooltiptext = പേര്, നമ്പർ, കാലാവധി
+    .accesskey = C
 sync-device-name-header = ഡിവൈസ് പേര്
 sync-device-name-change =
     .label = ഉപകരണത്തിന്റെ പേര് മാറ്റുക…
@@ -481,6 +485,12 @@ sitedata-accept-third-party-visited-option =
     .label = സന്ദര്‍ശനം മുതല്‍
 sitedata-accept-third-party-never-option =
     .label = ഒരിക്കലും ഇല്ല
+sitedata-clear =
+    .label = ഡാറ്റ വെടിപ്പാക്കുക
+    .accesskey = I
+sitedata-settings =
+    .label = ഡാറ്റ ക്രമീകരിക്കുക
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = വിട്ടുവീഴ്ചകള്‍
     .accesskey = E
@@ -504,6 +514,19 @@ addressbar-suggestions-settings = സെര്‍ച്ച് എഞ്ചിൻ
 
 content-blocking-header = ഉള്ളടക്കങ്ങൾ തടയുക
 content-blocking-learn-more = കൂടുതല്‍ അറിയുക
+content-blocking-toggle-label-on = ഓണാക്കുക
+    .accesskey = O
+content-blocking-toggle-label-off = ഓഫാക്കുക
+    .accesskey = O
+content-blocking-category-label = എന്തൊക്കെ തടയണമെന്ന് തിരഞ്ഞെടുക്കുക
+content-blocking-fastblock-option-enabled =
+    .label = എപ്പോഴും തടയുക
+content-blocking-fastblock-option-disabled =
+    .label = ഒരിക്കലും തടയാതിരിക്കുക
+content-blocking-tracking-protection-option-pbm =
+    .label = സ്വകാര്യ ജാലകങ്ങളിൽ മാത്രം തടയുക
+content-blocking-tracking-protection-option-disabled =
+    .label = ഒരിക്കലും തടയാതിരിക്കുക
 
 ## Privacy Section - Tracking
 
