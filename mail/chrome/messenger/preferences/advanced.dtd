@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "გლობალური ძიებისა და გზავნილთა ინდექსაციის ჩართვა">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY dateTimeFormatting.label      "რიცხვისა და დროის გაფორმება">
+<!ENTITY languageSelector.label        "ენა">
 <!ENTITY allowHWAccel.label            "ხელმისაწვდომობის შემთხვევაში აპარატული აჩქარების გამოყენება">
 <!ENTITY allowHWAccel.accesskey        "პ">
 <!ENTITY storeType.label               "შეტყობინების შენახვის სახე ახალი ანაგირშებისთვის:">
