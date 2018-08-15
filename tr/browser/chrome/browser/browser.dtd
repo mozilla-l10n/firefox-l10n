@@ -946,26 +946,38 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "İzlenme Koruması: AÇIK">
 <!ENTITY trackingProtection.off "İzlenme Koruması: KAPALI">
 
+<!ENTITY contentBlocking.title "İçerik engelleme">
+<!ENTITY contentBlocking.detected "Bu sayfada engellenebilir içerikler bulundu.">
+<!ENTITY contentBlocking.notDetected "Bu sayfada engellenebilir içerik bulunamadı.">
+<!ENTITY contentBlocking.disabled.label "Devre dışı">
+<!ENTITY contentBlocking.disabled.tooltip "İçerik engellemeyi kapattınız.">
+<!ENTITY contentBlocking.exception.tooltip "Bu sitede içerik engellemeyi kapattınız.">
 
+<!ENTITY contentBlocking.fastBlock.label "Yavaş yüklenen takipçiler">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Engellendi">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Engellemeye ekle…">
 
+<!ENTITY contentBlocking.trackingProtection.label "Takipçiler">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Engellendi">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Engellemeye ekle…">
 
 <!ENTITY trackingProtection.title "İzlenme Koruması">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; bu sayfanın sizi izleme ihtimali olan kısımlarını engelliyor.">
@@ -998,6 +1010,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Bu sitede devre dışı bırak">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Bu sitede engellemeyi kapat">
+<!ENTITY trackingProtection.unblock4.accesskey "B">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -1005,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "o">
 <!ENTITY trackingProtection.block4.label "Bu sitede etkinleştir">
 <!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.label "Engellemeyi geçici olarak kapat">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "E">
+<!ENTITY trackingProtection.block5.label "Bu sitede engellemeyi etkinleştir">
+<!ENTITY trackingProtection.block5.accesskey "B">
 <!ENTITY trackingProtection.reload2.label "Sayfayı tazele">
 <!ENTITY trackingProtection.reload2.accesskey "t">
 
