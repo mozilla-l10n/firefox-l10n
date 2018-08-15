@@ -640,7 +640,7 @@ content-blocking-category-label = 選擇要封鎖的內容
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = 很慢才載入的追蹤元素
     .accesskey = S
-content-blocking-fastblock-description = 封鎖超過 5 秒尚未載入完成的第三方內容。
+content-blocking-fastblock-description = 封鎖超過 5 秒仍未載入完成的第三方內容。
 content-blocking-fastblock-option-enabled =
     .label = 總是封鎖
 content-blocking-fastblock-option-disabled =
