@@ -1021,6 +1021,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block4.accesskey "У">
 <!ENTITY trackingProtection.unblockPrivate4.label "Тимчасово вимкнути блокування">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "ч">
+<!ENTITY trackingProtection.block5.label "Увімкнути блокування для цього сайту">
+<!ENTITY trackingProtection.block5.accesskey "к">
 <!ENTITY trackingProtection.reload2.label "Перезавантажити сторінку">
 <!ENTITY trackingProtection.reload2.accesskey "з">
 
