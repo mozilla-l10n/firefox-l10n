@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Թույլատրել ինքնանվագարկումը">
 <!ENTITY pref_media_autoplay_enabled_summary "Վերահսկել, եթե կայքերը փորձեն ինքնանվագարկել տեսանյութեր և այլ մեդիա">
+<!ENTITY pref_media_autoplay_allow "Թույլատրել ինքնանվագարկումը">
+<!ENTITY pref_media_autoplay_block "Արգելել ինքնանվագարկումը">
 <!ENTITY pref_zoom_force_enabled "Մշտապես միացնել դիտափոխումը">
 <!ENTITY pref_zoom_force_enabled_summary "Շրջանցել վրագրումը՝ ցանացած էջ դիտափոխելու համար">
 <!ENTITY pref_voice_input "Ձայնային մուտքագրում">
@@ -900,3 +902,8 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Վերսկսել նվագարկումը">
 <!ENTITY pip_pause_button_title "Դադարեցնել">
 <!ENTITY pip_pause_button_description "Դադարեցնել նվագարկումը">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName;-ի տեղադրության ծառայություն">
+<!ENTITY download_notification_channel "Ներբեռնումներ">
