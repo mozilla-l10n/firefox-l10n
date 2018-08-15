@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "თვალთვალი: შეზღუდულია">
 <!ENTITY trackingProtection.off "თვალთვალი: დაშვებულია">
+
+<!ENTITY contentBlocking.title "შიგთავსის შეზღუდვა">
+<!ENTITY contentBlocking.detected "ამ საიტზე აღმოჩენილია შესაზღუდი შიგთავსი.">
+<!ENTITY contentBlocking.notDetected "ამ საიტზე შესაზღუდი შიგთავსი არ აღმოჩენილა.">
+<!ENTITY contentBlocking.disabled.label "გამორთულია">
+<!ENTITY contentBlocking.disabled.tooltip "შიგთავსის შეზღუდვა გამორთული გაქვთ.">
+<!ENTITY contentBlocking.exception.tooltip "ამ გვერდზე შიგთავსის შეზღუდვა გამორთული გაქვთ.">
+
+<!ENTITY contentBlocking.fastBlock.label "ჩატვირთვის შემნელებელი">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "შეიზღუდა">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "შეზღუდვის დამატება…">
+
+<!ENTITY contentBlocking.trackingProtection.label "მეთვალყურეები">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "შეიზღუდა">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "შეზღუდვის დამატება…">
+
 <!ENTITY trackingProtection.title "თვალთვალისგან დაცვა">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ზღუდავს საიტის იმ ნაწილებს, რომლებსაც თქვენს მოქმედებებზე თვალყურის დევნება შეუძლია.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "საიტი შეიცავს ნაწილებს, რომელიც შესაძლოა თქვენს მოქმედებებს აღრიცხავდეს. დაცვა ამჟამად, გამორთული გაქვთ.">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "ამ გვერდზე მეთვალყურე ელემენტები არ აღმოჩენილა. ამ საიტისთვის დაცვა გამორთული გაქვთ.">
 
 <!ENTITY trackingProtection.reloadRequired2 "თქვენ ჩართეთ თვალთვალისგან დაცვა. ხელახლა გახსენით გვერდი მეთვალყურეების შესაზღუდად.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "დაცვის გამორთვა ამ საიტისთვის">
 <!ENTITY trackingProtection.unblock3.accesskey "გ">
+<!ENTITY trackingProtection.unblock4.label "შეზღუდვის გამორთვა ამ საიტისთვის">
+<!ENTITY trackingProtection.unblock4.accesskey "გ">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "გ">
 <!ENTITY trackingProtection.block4.label "დაცვის ჩართვა ამ საიტისთვის">
 <!ENTITY trackingProtection.block4.accesskey "ჩ">
+<!ENTITY trackingProtection.unblockPrivate4.label "შეზღუდვის დროებით გამორთვა">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "გ">
+<!ENTITY trackingProtection.block5.label "შეზღუდვის ჩართვა ამ საიტისთვის">
+<!ENTITY trackingProtection.block5.accesskey "ჩ">
 <!ENTITY trackingProtection.reload2.label "გვერდის ხელახლა გახსნა">
 <!ENTITY trackingProtection.reload2.accesskey "ხ">
 
