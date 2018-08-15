@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Geavanceerd">
 
 <!ENTITY continue1.label "Doorgaan…">
+<!ENTITY moreInformation.label "Meer informatie">
 
 <!-- Specific error messages -->
 
@@ -166,8 +167,8 @@ was trying to connect. -->
 <p>Als u zich op een zakelijk netwerk bevindt of antivirussoftware gebruikt, kunt u contact opnemen met de ondersteuningsafdelingen voor assistentie. U kunt ook de beheerder van de website over het probleem informeren.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>Uw computerklok is ingesteld op <span id='wrongSystemTime_systemDate'/>. Zorg ervoor dat uw computer op de juiste datum, tijd en tijdzone is ingesteld in uw systeeminstellingen, en vernieuw daarna <span class='hostname'/>.</p>
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Uw computerklok is ingesteld op <span id='wrongSystemTime_systemDate2'/>. Zorg ervoor dat uw computer op de juiste datum, tijd en tijdzone is ingesteld in uw systeeminstellingen, en vernieuw daarna <span class='hostname'/>.</p>
 <p>Als uw klok al op de juiste tijd is ingesteld, is de website waarschijnlijk onjuist geconfigureerd, en kunt u niets doen om het probleem te verhelpen. U kunt wel de beheerder van de website over het probleem informeren.</p>
 ">
 
@@ -227,6 +228,9 @@ uitzondering voor dit certificaat toe te voegen.">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> gebruikt verouderde beveiligingstechnologie die kwetsbaar is voor aanvallen. Een aanvaller kan eenvoudig gegevens onthullen waarvan u dacht dat deze veilig waren. De websitebeheerder dient eerst de server in orde te maken voordat u de website kunt bezoeken.</p><p>Foutcode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Geblokkeerde pagina">
+
+<!ENTITY clockSkewError.title "Uw computerklok geeft de verkeerde tijd aan">
+<!ENTITY clockSkewError.longDesc "Uw computer denkt dat het <span id='wrongSystemTime_systemDate1'/> is, waardoor &brandShortName; geen beveiligde verbinding met <span class='hostname'></span> kan maken. Werk uw computerklok bij naar de huidige datum, tijd en tijdzone in uw systeeminstellingen, en vernieuw daarna de pagina om <span class='hostname'></span> te bezoeken.">
 
 <!ENTITY prefReset.longDesc "Het lijkt erop dat dit door uw netwerkbeveiligingsinstellingen wordt veroorzaakt. Wilt u de standaardinstellingen herstellen?">
 <!ENTITY prefReset.label "Standaardinstellingen herstellen">
