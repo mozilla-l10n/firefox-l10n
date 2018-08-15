@@ -6,6 +6,6 @@
 
 <!ENTITY restartRequired.header "Maaf. Kami hanya perlu sedikit perbaikan sebelum melanjutkan.">
 <!ENTITY restartRequired.description "<p>Kami baru saja memasang pembaruan di latar belakang. Klik Mulai Ulang &brandShortName; untuk menyelesaikannya.</p>
-<p>Setelahnya, kami akan memulihkan seluruh laman, jendela, dan tab Anda sehingga Anda dapat kembali melanjutkan dengan segera.</p>">
+<p>Setelah itu kami akan memulihkan seluruh laman, jendela, dan tab agar Anda dapat segera kembali melanjutkan.</p>">
 
 <!ENTITY restartButton.label "Mulai Ulang &brandShortName;">
