@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Protecziun cunter il fastizar: ACTIVADA">
 <!ENTITY trackingProtection.off "Protecziun cunter il fastizar: DEACTIVADA">
+
+<!ENTITY contentBlocking.title "Bloccada da cuntegn">
+<!ENTITY contentBlocking.detected "Chattà cuntegn bloccabel sin questa website.">
+<!ENTITY contentBlocking.notDetected "Betg chattà cuntegn bloccabel sin questa pagina.">
+<!ENTITY contentBlocking.disabled.label "Deactivà">
+<!ENTITY contentBlocking.disabled.tooltip "Ti has deactivà la bloccada da cuntegn.">
+<!ENTITY contentBlocking.exception.tooltip "Ti has deactivà la bloccada da cuntegn per questa website.">
+
+<!ENTITY contentBlocking.fastBlock.label "Fastizaders che chargian plaun">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Bloccà">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Agiuntar a la bloccada…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Fastizaders">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Bloccà">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Agiuntar a la bloccada…">
+
 <!ENTITY trackingProtection.title "Protecziun cunter il fastizar">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blochescha parts da la pagina che ta pudessan fastizar durant che ti navigheschas.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Questa pagina cuntegna elements che ta pon fastizar durant il navigar. Ti has deactivà la protecziun.">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Chattà nagins elements che fastizeschan sin questa pagina. Ti has deactivà la protecziun per questa pagina.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Ti has activà la protecziun encunter fastizaders. Rechargia questa pagina per bloccar tut ils fastizaders.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Deactivar per questa website">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Deactivar la bloccada per questa website">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Activar per questa website">
 <!ENTITY trackingProtection.block4.accesskey "A">
+<!ENTITY trackingProtection.unblockPrivate4.label "Deactivar temporarmain la bloccada">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Activar la bloccada per questa website">
+<!ENTITY trackingProtection.block5.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Rechargiar la pagina">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
