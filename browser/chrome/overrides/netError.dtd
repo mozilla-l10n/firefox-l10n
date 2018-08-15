@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Uwch">
 
 <!ENTITY continue1.label "Parhau…">
+<!ENTITY moreInformation.label "Rhagor o Wybodaeth">
 
 <!-- Specific error messages -->
 
@@ -106,8 +107,8 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Mae hyn yn fater i'r wefan a does dim fedrwch chi wneud am y peth.</p>
 <p>Os ydych chi ar rwydwaith corfforaethol neu yn defnyddio meddalwedd gwrth-firws gallwch ofyn i'r timau cefnogi am gymorth. Gallwch hefyd hysbysu gweinyddwr y wefan am y broblem.</p>">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>Mae cloc eich cyfrifiadur wedi ei osod i <span id='wrongSystemTime_systemDate'/>. Gwnewch yn siwr fod eich cyfrifiadur wedi ei osod i'r dyddiad, amser, cylch amser cywir yn eich gosodiadau system, ac yna adnewyddu <span class='hostname'/>.</p>
-<p>Os yw eich cloc eisoes ar yr amser cywir, y wefan sydd ar fai a does dim fedrwch chi wneud i ddatrys y mater. Gallwch hysbysu gweinyddwr y wefan am y broblem.</p>">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Mae cloc eich cyfrifiadur wedi ei osod i <span id='wrongSystemTime_systemDate2'/>. Gwnewch yn siŵr fod y dyddiad, amser a chylch amser yn gywir yn eich gosodiadau system ac yna adnewyddu <span class='hostname'/>.</p>
+<p>Os yw eich cloc eisoes wedi ei osod i'r amser cywir, mwy na thebyg mae'r wefan wedi ei gam osod a does dim fedrwch chi ei wneud i ddatrys y broblem. Gallwch hysbysu gweinyddwr y wefan am y broblem.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Mae'n fater i'r wefan a does dim fedrwch chi wneud i ddatrys y mater. Gallwch hysbysu gweinyddwr y wefan am y broblem.</p>">
 
@@ -151,6 +152,9 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "Mae <p><span class='hostname'></span> yn defnyddio technoleg diogelwch sy'n hen ac yn agored i ymosodiad. Gall yr ymosodwr weld manylion am hyn roeddech yn meddwl ei fod yn ddiogel. Mae angen i weinyddwr y wefan drwsio'r gweinydd yn gyntaf cyn bod modd i chi ymweld â' r wefan.</p><p>Cod gwall: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Tudalen wedi'i Rhwystro">
+
+<!ENTITY clockSkewError.title "Mae cloc eich cyfrifiadur yn anghywir">
+<!ENTITY clockSkewError.longDesc "Mae eich cyfrifiadur yn meddwl ei bod hi'n <span id='wrongSystemTime_systemDate1'/>, sy'n rhwystro &brandShortName; rhag cysylltu'n ddiogel. I fynd i <span class='hostname'></span>, diweddarwch gloc eich cyfrifiadur yng ngosodiadau eich system i'r dyddiad, amser a chylch amser cyfredol ac yna adnewyddu <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Mae'n edrych fel mai eich gosodiadau diogelwch rhwydwaith sy'n achosi hyn. Hoffech chi adfer y gosodiadau rhagosodedig?">
 <!ENTITY prefReset.label "Adfer y gosodiadau rhagosodedig">

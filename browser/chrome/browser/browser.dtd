@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Diogelu rhag Tracio: YMLAEN">
 <!ENTITY trackingProtection.off "Diogelu rhag Tracio: I FFWRDD">
+
+<!ENTITY contentBlocking.title "Rhwystro Cynnwys">
+<!ENTITY contentBlocking.detected "Mae cynnwys rhwystradwy wedi ei ganfod ar y wefan hon.">
+<!ENTITY contentBlocking.notDetected "Dim cynnwys rhwystradwy wedi eu canfod ar y dudalen hon.">
+<!ENTITY contentBlocking.disabled.label "Analluogwyd">
+<!ENTITY contentBlocking.disabled.tooltip "Rydych chi wedi analluogi Rhwystro Cynnwys.">
+<!ENTITY contentBlocking.exception.tooltip "Rydych chi wedi analluogi Rhwystro Cynnwys ar y wefan hon.">
+
+<!ENTITY contentBlocking.fastBlock.label "Tracwyr Llwytho'n Araf">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Wedi Rhwystro">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Ychwanegu Rhwystro…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Tracwyr">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Wedi Rhwystro">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Ychwanegu Rhwystro…">
+
 <!ENTITY trackingProtection.title "Diogelwch Rhag Tracio">
 <!ENTITY trackingProtection.detectedBlocked3 "Mae &brandShortName; yn rhwystro rhannau o'r dudalen gall fod yn tracio eich pori.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Rydych wedi analluogi diogelwch ar y dudalen hon. Rydych wedi analluogi diogelwch.">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Dim elfennau tracio wedi eu canfod ar y dudalen hon. Rydych wedi analluogi diogelu ar y wefan hon.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Rydych wedi galluogi Diogelu rhag Tracio. Llwythwch y dudalen hon eto i rwystro pob traciwr.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Analluogi ar Gyfer y Wefan Hon">
 <!ENTITY trackingProtection.unblock3.accesskey "A">
+<!ENTITY trackingProtection.unblock4.label "Analluogi Rhwystro ar Gyfer y Wefan Hon">
+<!ENTITY trackingProtection.unblock4.accesskey "A">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "A">
 <!ENTITY trackingProtection.block4.label "Galluogi ar gyfer y Wefan Hon">
 <!ENTITY trackingProtection.block4.accesskey "G">
+<!ENTITY trackingProtection.unblockPrivate4.label "Analluogi Rhwystro Dros Dro">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "A">
+<!ENTITY trackingProtection.block5.label "Galluogi Rhwystro ar Gyfer y Wefan Hon">
+<!ENTITY trackingProtection.block5.accesskey "G">
 <!ENTITY trackingProtection.reload2.label "Ail-lwytho Tudalen">
 <!ENTITY trackingProtection.reload2.accesskey "T">
 
