@@ -471,6 +471,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-header = കുക്കികളും സൈറ്റ് ഡാറ്റയും
 sitedata-learn-more = കൂടുതല്‍ അറിയുക
 sitedata-keep-until = വരെ സൂക്ഷിക്കുക
     .accesskey = u
