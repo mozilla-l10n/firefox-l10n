@@ -633,6 +633,7 @@ addressbar-suggestions-settings = Arama motoru önerileri için tercihleri deği
 ## Privacy Section - Content Blocking
 
 content-blocking-header = İçerik engelleme
+content-blocking-desc = Tarama işlemini yavaşlatabilecek ve web’de sizi izleyebilecek reklamlar, kodlar gibi üçüncü taraf içeriklerini engelleyebilirsiniz. Koruma ve performans dengesini sağlamak için ayarlarınızı özelleştirebilirsiniz.
 content-blocking-learn-more = Daha fazla bilgi al
 content-blocking-restore-defaults =
     .label = Varsayılanları geri yükle
@@ -646,10 +647,19 @@ content-blocking-toggle-label-on = AÇIK
 content-blocking-toggle-label-off = KAPALI
     .accesskey = K
 content-blocking-category-label = Nelerin engelleneceğini seçin
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Yavaş takipçi öğeleri
+    .accesskey = Y
+content-blocking-fastblock-description = Yüklenmesi 5 saniyeden uzun süren üçüncü taraf içeriklerini engeller.
 content-blocking-fastblock-option-enabled =
     .label = Her zaman engelle
 content-blocking-fastblock-option-disabled =
     .label = Asla engelleme
+content-blocking-tracking-protection-label = Takipçiler
+    .accesskey = T
+content-blocking-tracking-protection-description = Bilinen tüm takipçileri engeller (Not: Bazı sayfaların yüklenmesini de engelleyebilir.)
 content-blocking-tracking-protection-option-enabled =
     .label = Her zaman engelle
 content-blocking-tracking-protection-option-pbm =
