@@ -649,20 +649,20 @@ content-blocking-toggle-label-on = Укл.
     .accesskey = У
 content-blocking-toggle-label-off = Выкл.
     .accesskey = В
-content-blocking-category-label = Выбраць, што блакаваць
+content-blocking-category-label = Выберыце, што блакаваць
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Павольныя элементы сачэння
-    .accesskey = П
-content-blocking-fastblock-description = Блакаваць пабочнае змесціва, загрузкі якога працягваецца больш за 5 секунд.
+content-blocking-fastblock-label = Марудныя элементы сачэння
+    .accesskey = ы
+content-blocking-fastblock-description = Блакаваць пабочнае змесціва, загрузка якога цягнецца больш за 5 секунд.
 content-blocking-fastblock-option-enabled =
     .label = Заўсёды блакаваць
 content-blocking-fastblock-option-disabled =
     .label = Ніколі не блакаваць
 content-blocking-tracking-protection-label = Трэкеры
     .accesskey = Т
-content-blocking-tracking-protection-description = Блакуе ўсе вядомыя трэкеры. (Заўвага: можа заблакаваць загрузку некаторых старонак).
+content-blocking-tracking-protection-description = Блакаваць усе вядомыя трэкеры. (Заўвага: можа заблакаваць загрузку некаторых старонак).
 content-blocking-tracking-protection-option-enabled =
     .label = Заўсёды блакаваць
 content-blocking-tracking-protection-option-pbm =
