@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Увімкнути глобальний пошук та індексацію">
 <!ENTITY enableGlodaSearch.accesskey   "і">
 <!ENTITY dateTimeFormatting.label      "Формат дати та часу">
+<!ENTITY languageSelector.label        "Мова">
 <!ENTITY allowHWAccel.label            "Використовувати апаратне прискорення, якщо можливо">
 <!ENTITY allowHWAccel.accesskey        "и">
 <!ENTITY storeType.label               "Тип сховища повідомлень для нових облікових записів:">
