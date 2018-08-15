@@ -26,7 +26,7 @@ search-input-box =
     .style = width: 15.4em
     .placeholder =
         { PLATFORM() ->
-            [windows] Temukan di Pilihan
+            [windows] Temukan di Pengaturan
            *[other] Temukan di Pengaturan
         }
 policies-notice =
@@ -455,7 +455,7 @@ sync-engine-history =
     .label = Riwayat
     .accesskey = w
 sync-engine-tabs =
-    .label = Tab Terbuka
+    .label = Tab terbuka
     .tooltiptext = Daftar tab terbuka di semua peranti yang disinkronkan
     .accesskey = T
 sync-engine-logins =
@@ -575,7 +575,7 @@ sitedata-total-size = Kuki, data situs tersimpan, dan tembolok Anda saat ini men
 sitedata-learn-more = Pelajari lebih lanjut
 sitedata-accept-cookies-option =
     .label = Terima kuki dan data situs dari situs web (disarankan)
-    .accesskey = A
+    .accesskey = a
 sitedata-block-cookies-option =
     .label = Blokir kuki dan data situs (bisa menyebabkan situs web macet)
     .accesskey = B
@@ -595,10 +595,10 @@ sitedata-accept-third-party-never-option =
     .label = Tidak Pernah
 sitedata-clear =
     .label = Hapus Data…
-    .accesskey = l
+    .accesskey = H
 sitedata-settings =
     .label = Kelola Data
-    .accesskey = M
+    .accesskey = K
 sitedata-cookies-exceptions =
     .label = Pengecualian…
     .accesskey = e
