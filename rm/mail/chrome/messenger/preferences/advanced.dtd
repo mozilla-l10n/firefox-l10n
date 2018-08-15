@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Activar la tschertga globala e l'indexaziun da messadis">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY dateTimeFormatting.label      "Format da data ed ura">
+<!ENTITY languageSelector.label        "Lingua">
 <!ENTITY allowHWAccel.label            "Utilisar sche pussaivel l'acceleraziun cun hardware da grafica">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Message Store Type for new accounts:">
