@@ -532,14 +532,14 @@ history-header = Riwayat
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } akan
-    .accesskey = a
+history-remember-label = { -brand-short-name }
+    .accesskey = i
 history-remember-option-all =
     .label = akan mengingat data riwayat
 history-remember-option-never =
     .label = tidak akan mengingat data riwayat
 history-remember-option-custom =
-    .label = menggunakan pengaturan khusus untuk data riwayat
+    .label = akan menggunakan pengaturan khusus untuk data riwayat
 history-remember-description = { -brand-short-name } akan mengingat penjelajahan, unduhan, formulir, dan riwayat pencarian Anda.
 history-dontremember-description = { -brand-short-name } akan menggunakan pengaturan seperti halnya pengaturan mode penjelajahan pribadi dan tidak akan menyimpan riwayat apa pun ketika Anda menjelajah Web.
 history-private-browsing-permanent =
@@ -574,7 +574,7 @@ sitedata-total-size-calculating = Menghitung ukuran data situs dan tembolok…
 sitedata-total-size = Kuki, data situs tersimpan, dan tembolok Anda saat ini menggunakan ruang penyimpanan { $value } { $unit }.
 sitedata-learn-more = Pelajari lebih lanjut
 sitedata-accept-cookies-option =
-    .label = Terima kuki dan situs data dari situs web (direkomendasikan)
+    .label = Terima kuki dan data situs dari situs web (disarankan)
     .accesskey = A
 sitedata-block-cookies-option =
     .label = Blokir kuki dan data situs (bisa menyebabkan situs web macet)
@@ -586,7 +586,7 @@ sitedata-keep-until-expire =
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ditutup
 sitedata-accept-third-party-desc = Terima kuki dan data situs dari pihak ketiga
-    .accesskey = y
+    .accesskey = T
 sitedata-accept-third-party-always-option =
     .label = Selalu
 sitedata-accept-third-party-visited-option =
@@ -736,7 +736,7 @@ permissions-a11y-privacy-link = Pelajari lebih lanjut
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } Pengumpulan dan Penggunaan Data
+collection-header = Pengumpulan dan Penggunaan Data { -brand-short-name }
 collection-description = Kami berusaha memberi Anda pilihan dan mengumpulkan hanya apa yang kami butuhkan untuk menyediakan dan meningkatkan { -brand-short-name } bagi semua orang. Kami selalu meminta izin sebelum menerima informasi pribadi.
 collection-privacy-notice = Pemberitahuan Privasi
 collection-health-report =

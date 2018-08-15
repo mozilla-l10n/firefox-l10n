@@ -8,8 +8,8 @@ sync-disconnect-dialog =
 sync-disconnect-heading = Apakah Anda ingin menghapus data peramban di komputer ini? Data { -sync-brand-name } Anda akan tetap ada di akun Anda, apapun yang terjadi.
 sync-disconnect-remove-sync-caption = Hapus Data { -sync-brand-name }
 sync-disconnect-remove-sync-data = Markah, riwayat, sandi, dll.
-sync-disconnect-remove-other-caption = Hapus Data Pribadi yang Lainnya
-sync-disconnect-remove-other-data = Kuki, tembolok, data situs web luring, dll. 
+sync-disconnect-remove-other-caption = Hapus Data Pribadi Lainnya
+sync-disconnect-remove-other-data = Kuki, tembolok, data situs web luring, dll.
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Memutus sambungan...
 sync-disconnect-cancel =
