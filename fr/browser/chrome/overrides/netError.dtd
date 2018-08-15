@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Avancé">
 
 <!ENTITY continue1.label "Continuer…">
+<!ENTITY moreInformation.label "Plus d’informations">
 
 <!-- Specific error messages -->
 
@@ -142,15 +143,13 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "&brandShortName; a détecté une menace relative à la sécurité et n’a pas accédé à <span class='hostname'/>. Si vous visitez ce site, des attaquants pourraient intercepter vos informations telles que vos mots de passe, courriels ou vos cartes bancaires.">
 
-<!ENTITY certerror.expiredCert.secondPara "Ce problème est probablement dû au fait que l’horloge de votre ordinateur est déréglée ce qui empêche &brandShortName; de se connecter de façon sécurisée.">
+<!ENTITY certerror.expiredCert.secondPara "Ce problème est probablement dû au fait que l’horloge de votre ordinateur est déréglée, ce qui empêche &brandShortName; de se connecter de façon sécurisée.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Que pouvez-vous faire ?">
 
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Le problème vient probablement du site web, donc vous ne pouvez pas y remédier.</p><p>Si vous naviguez sur un réseau d’entreprise ou si vous utilisez un antivirus, vous pouvez contacter les équipes d’assistance pour obtenir de l’aide. Vous pouvez également signaler le problème aux personnes qui administrent le site web.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>L’horloge de votre ordinateur est réglée sur <span id='wrongSystemTime_systemDate'/>. Vérifiez que votre ordinateur est réglé sur la date, l’heure et le fuseau horaire qui conviennent dans les paramètres, puis actualisez <span class='hostname'/>.</p>
-<p>Si votre horloge est déjà correctement réglée, il est probable que le site web est mal configuré, donc vous ne pouvez pas résoudre le problème de votre côté. Vous pouvez cependant signaler le problème aux personnes qui administrent le site.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Le problème vient probablement du site web, vous ne pouvez donc pas y remédier. Vous pouvez le signaler aux personnes qui administrent le site.</p>">
 
@@ -203,6 +202,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> fait appel à des technologies de sécurisation obsolètes et vulnérables aux attaques. Un attaquant pourrait facilement révéler des informations que vous pensiez être sécurisées. L’administrateur du site web devra d’abord corriger le serveur avant que vous puissiez visiter le site.</p><p>Code d’erreur : NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Page bloquée">
+
 
 <!ENTITY prefReset.longDesc "Ce problème semble être provoqué par vos paramètres de sécurité réseau. Voulez-vous restaurer les paramètres par défaut ?">
 <!ENTITY prefReset.label "Restaurer les paramètres par défaut">

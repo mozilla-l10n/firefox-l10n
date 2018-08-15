@@ -945,6 +945,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Protection contre le pistage : ACTIVÉE">
 <!ENTITY trackingProtection.off "Protection contre le pistage : DÉSACTIVÉE">
+
+<!ENTITY contentBlocking.title "Blocage de contenu">
+<!ENTITY contentBlocking.detected "Du contenu pouvant être bloqué a été détecté sur ce site.">
+<!ENTITY contentBlocking.notDetected "Aucun contenu pouvant être bloqué n’a été détecté sur cette page.">
+<!ENTITY contentBlocking.disabled.label "Désactivé">
+
+<!ENTITY contentBlocking.fastBlock.label "Traqueurs qui ralentissent">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Bloqués">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!ENTITY contentBlocking.trackingProtection.label "Traqueurs">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Bloqués">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!ENTITY trackingProtection.title "Protection contre le pistage">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a bloqué des éléments de la page qui peuvent pister votre navigation.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Ce site possède des éléments qui peuvent pister votre navigation. Vous avez désactivé la protection.">
@@ -970,11 +1000,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Aucun traqueur n’a été détecté sur cette page. Vous avez désactivé la protection contre le pistage pour ce site.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Vous avez activé la protection contre le pistage. Actualisez cette page pour bloquer tous les traqueurs.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Désactiver pour ce site">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Désactiver le blocage pour ce site">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1014,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Activer pour ce site">
 <!ENTITY trackingProtection.block4.accesskey "A">
+<!ENTITY trackingProtection.unblockPrivate4.label "Désactiver temporairement le blocage">
+<!ENTITY trackingProtection.block5.label "Activer le blocage pour ce site">
 <!ENTITY trackingProtection.reload2.label "Actualiser la page">
 <!ENTITY trackingProtection.reload2.accesskey "c">
 
