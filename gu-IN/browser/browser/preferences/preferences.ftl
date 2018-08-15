@@ -202,6 +202,9 @@ choose-language-description = પાનાંઓ દર્શાવવા મા
 choose-button =
     .label = પસંદ કરો...
     .accesskey = o
+choose-browser-language-description = { -brand-short-name } માંથી મેનુઓ, સંદેશાઓ અને સૂચનાઓ પ્રદર્શિત કરવા માટે ઉપયોગમાં લેવાતા ભાષાઓને પસંદ કરો.
+confirm-browser-language-change-description = આ ફેરફારોને લાગુ કરવા માટે { -brand-short-name } પુનઃપ્રારંભ કરો
+confirm-browser-language-change-button = લાગુ કરો અને પુનઃપ્રારંભ કરો
 translate-web-pages =
     .label = વેબ સમાવિષ્ટ અનુવાદ કરો
     .accesskey = T
@@ -626,6 +629,18 @@ addressbar-locbar-openpage-option =
     .label = ટૅબ્સ ખોલો
     .accesskey = O
 addressbar-suggestions-settings = શોધ એન્જિન સૂચનો માટે પસંદગીઓ બદલો
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = સામગ્રી અવરોધિત
+content-blocking-learn-more = વધુ શીખો
+content-blocking-restore-defaults =
+    .label = મૂળભૂતને પુન:સંગ્રહો
+    .accesskey = R
+content-blocking-toggle-label-on = ચાલુ
+    .accesskey = O
+content-blocking-toggle-label-off = બંધ
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
