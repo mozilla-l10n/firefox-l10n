@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Захист від стеження: Увімкнено">
 <!ENTITY trackingProtection.off "Захист від стеження: Вимкнено">
+
+<!ENTITY contentBlocking.title "Блокування вмісту">
+<!ENTITY contentBlocking.detected "На цьому сайті виявлено вміст для блокування.">
+<!ENTITY contentBlocking.notDetected "На цій сторінці не виявлено вмісту для блокування.">
+<!ENTITY contentBlocking.disabled.label "Вимкнено">
+<!ENTITY contentBlocking.disabled.tooltip "Ви вимкнули блокування вмісту.">
+<!ENTITY contentBlocking.exception.tooltip "Ви вимкнули блокування вмісту для цього сайту.">
+
+<!ENTITY contentBlocking.fastBlock.label "Елементи стеження, що сповільнюють завантаження">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Заблоковано">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Додати блокування…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Стеження">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Заблоковано">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Додати блокування…">
+
 <!ENTITY trackingProtection.title "Захист від стеження">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокує частини сторінки, які можуть стежити за вашим переглядом.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Цей сайт включає елементи, які можуть стежити за вашим переглядом. Ви вимкнули захист.">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "На цій сторінці не виявлено елементів стеження. Ви вимкнули захист для цього сайту.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Ви увімкнули захист від стеження. Перезавантажте сторінку для активації.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Вимкнути для цього сайту">
 <!ENTITY trackingProtection.unblock3.accesskey "В">
+<!ENTITY trackingProtection.unblock4.label "Вимкнути блокування для цього сайту">
+<!ENTITY trackingProtection.unblock4.accesskey "м">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "с">
 <!ENTITY trackingProtection.block4.label "Увімкнути для цього сайту">
 <!ENTITY trackingProtection.block4.accesskey "У">
+<!ENTITY trackingProtection.unblockPrivate4.label "Тимчасово вимкнути блокування">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "ч">
 <!ENTITY trackingProtection.reload2.label "Перезавантажити сторінку">
 <!ENTITY trackingProtection.reload2.accesskey "з">
 
