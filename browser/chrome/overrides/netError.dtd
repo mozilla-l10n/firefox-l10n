@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Extendì">
 
 <!ENTITY continue1.label "Cuntinuar…">
+<!ENTITY moreInformation.label "Ulteriuras infurmaziuns">
 
 <!-- Specific error messages -->
 
@@ -145,9 +146,9 @@ was trying to connect. -->
 <p>Sche ti ta chattas en ina rait da fatschenta u utiliseschas in program anti-virus pos ti contactar il team da support per dumandar agid. Ti pos era infurmar l'administratur da la website davart il problem.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>L'ura da tes computer mussa las <span id='wrongSystemTime_systemDate'/>. Controllescha che l'ura, la data e la zona d'urari da tes computer sajan definids endretg en ils parameters dal sistem e rechargia lura <span class='hostname'/>.</p>
-<p>Sche l'ura è gia correcta è la website probablamain configurada a moda sbagliada e ti na pos far nagut per schliar il problem. Ti pos infurmar l'administratur dal sistem per al infurmar davart il problem.</p>
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>L'ura da tes computer mussa las <span id='wrongSystemTime_systemDate2'/>. Controllescha che l'ura, la data e la zona d'urari da tes computer saja drizzada endretg en ils parameters dal sistem e rechargia lura <span class='hostname'/>.</p>
+<p>Sche l'ura è gia drizzada endretg è la website probablamain configurada a moda sbagliada e ti na pos betg schliar il problem. Ti pos dentant contactar l'administratur da la website per al infurmar davart il problem.</p>
 ">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
@@ -199,6 +200,9 @@ Strict Transport Security (HSTS) per inditgar che &brandShortName; dastgia mo co
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utilisescha tecnologia da segirezza ch'è obsoleta e qua tras vulnerabla. In attatgader pudess revelar a moda simpla infurmaziuns che ti has considerà sco segiradas. L'administratur da la website vegn a stuair metter en urden ses server avant che ti possias visitar la website.</p><p>Code d'errur: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagina bloccada">
+
+<!ENTITY clockSkewError.title "L'ura da tes computer na constat betg">
+<!ENTITY clockSkewError.longDesc "Tes computer pensa ch'i saja las <span id='wrongSystemTime_systemDate1'/>. Quai impedescha che &brandShortName; possia connectar a moda segira. Per visitar <span class='hostname'></span>, actualisescha l'ura da tes computer en ils parameters dal sistem uschia che las infurmaziuns correspundan a la data ed al temp actual, sco era a la zona d'urari dal lieu e rechargia lura <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "I para ch'ils parameters da segirezza da tia rait chaschunian quest problem. Vuls ti restaurar ils parameters da standard?">
 <!ENTITY prefReset.label "Restaurar il standard">
