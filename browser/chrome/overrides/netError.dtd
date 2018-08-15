@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Lanjutan">
 
 <!ENTITY continue1.label "Teruskan…">
+<!ENTITY moreInformation.label "Maklumat Lanjut">
 
 <!-- Specific error messages -->
 
@@ -164,8 +165,10 @@ was trying to connect. -->
 <p>Jika anda berada dalam rangkaian korporat atau menggunakan perisian antivirus, anda boleh minta bantuan pasukan sokongan. Anda juga boleh maklumkan masalah ini kepada pentadbir laman web.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>Jam komputer anda ditetapkan ke <span id='wrongSystemTime_systemDate'/>. Pastikan sistem komputer ditetapkan ke tarikh, masa dan zon masa yang betul dan kemudian muat semula <span class='hostname'/>.</p> <p>Jika jam sudah ditetapkan ke masa yang betul, mungkin laman web ini tersilap konfigurasi dan tiada apa yang anda boleh lakukan untuk menyelesaikannya. Anda boleh maklumkan masalah ini kepada pentadbir laman web.</p>">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Jam komputer ditetapkan ke <span id='wrongSystemTime_systemDate2'/>. Pastikan komputer ditetapkan ke tarikh, masa dan zon masa yang betul dalam tetapan sistem, dan mulakan semula <span class='hostname'/>.</p>
+<p>Jika jam sudah ditetapkan ke masa yang betul, mungkin laman web tersalah konfigurasi dan anda tidak boleh buat apa-apa untuk menyelesaikan isu ini. Anda boleh maklumkan pentadbir laman web mengenai masalah ini.</p>
+">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Isu ini mungkin berkaitan laman web dan tiada apa yang boleh anda lakukan untuk menyelesaikannya. Anda boleh maklumkan masalah ini kepada pentadbir laman web.</p>
 ">
@@ -222,6 +225,9 @@ sijil ini.">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> menggunakan teknologi keselamatan yang usang dan terdedah kepada serangan. Penyerang dengan mudah boleh mendedahkan maklumat yang anda fikir selamat. Pentadbir laman web perlu membaiki pelayan terlebih dahulu sebelum anda boleh melawat laman ini.</p><p>Kod ralat: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Halaman Disekat">
+
+<!ENTITY clockSkewError.title "Jam komputer anda salah">
+<!ENTITY clockSkewError.longDesc "Komputer anda fikir sekarang ialah <span id='wrongSystemTime_systemDate1'/>, yang menghalang &brandShortName; membuat sambungan dengan selamat. Untuk melawat <span class='hostname'></span>, kemas kini jam komputer dalam tetapan sistem ke tarikh, masa dan zon masa semasa dan mulakan semula <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Tetapan keselamatan rangkaian anda mungkin menyebabkan masalah ini. Adakah anda mahu tetapan piawai anda dipulihkan?">
 <!ENTITY prefReset.label "Pulih tetapan piawai">

@@ -953,6 +953,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.disabled.tooltip "Anda telah menyahdayakan Sekatan Kandungan.">
 <!ENTITY contentBlocking.exception.tooltip "Anda telah menyahdayakan Sekatan Kandungan untuk laman ini.">
 
+<!ENTITY contentBlocking.fastBlock.label "Penjejak Pemuatan-Lambat">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -1018,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "N">
 <!ENTITY trackingProtection.block4.label "Dayakan Untuk Laman Ini">
 <!ENTITY trackingProtection.block4.accesskey "D">
+<!ENTITY trackingProtection.unblockPrivate4.label "Nyahdayakan Sekatan Sementara">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "N">
+<!ENTITY trackingProtection.block5.label "Dayakan Sekatan Untuk Laman Ini">
+<!ENTITY trackingProtection.block5.accesskey "D">
 <!ENTITY trackingProtection.reload2.label "Muat semula Halaman">
 <!ENTITY trackingProtection.reload2.accesskey "M">
 
