@@ -190,7 +190,7 @@ choose-language-description = Pilih bahasa pilihan anda untuk memaparkan halaman
 choose-button =
     .label = Pilih…
     .accesskey = P
-choose-browser-language-description = Pilih bahasa yang digunakan untuk memaparkan menu, mesej dan notifikasi { -brand-short-name }
+choose-browser-language-description = Pilih bahasa yang digunakan untuk memaparkan menu, mesej dan notifikasi { -brand-short-name }.
 confirm-browser-language-change-description = Mula semula { -brand-short-name } untuk melaksanakan perubahan ini
 confirm-browser-language-change-button = Terap dan Mula semula
 translate-web-pages =
@@ -621,7 +621,7 @@ addressbar-suggestions-settings = Tukar keutamaan bagi cadangan enjin carian
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Sekatan Kandungan
-content-blocking-desc = Sekat kandungan pihak ketiga seperti iklan atau kod yang boleh melambatkan pelayaran dan menjejaki anda di seluruh web. Sesuaikan tetapan untuk mendapatkan imbangan perlindungan dan prestasi yang terbaik. 
+content-blocking-desc = Sekat kandungan pihak ketiga seperti iklan atau kod yang boleh melambatkan pelayaran dan menjejaki anda di seluruh web. Sesuaikan tetapan untuk mendapatkan imbangan perlindungan dan prestasi yang terbaik.
 content-blocking-learn-more = Ketahui Selanjutnya
 content-blocking-restore-defaults =
     .label = Pulih Piawai
