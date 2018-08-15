@@ -1020,6 +1020,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block4.label "Бұл сайт үшін іске қосу">
 <!ENTITY trackingProtection.block4.accesskey "е">
 <!ENTITY trackingProtection.unblockPrivate4.label "Бұғаттауды уақытша сөндіру">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "д">
+<!ENTITY trackingProtection.block5.label "Бұл сайт үшін бұғаттауды іске қосу">
+<!ENTITY trackingProtection.block5.accesskey "е">
 <!ENTITY trackingProtection.reload2.label "Бетті қайта жүктеу">
 <!ENTITY trackingProtection.reload2.accesskey "й">
 
