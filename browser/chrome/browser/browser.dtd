@@ -953,6 +953,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.disabled.tooltip "Du har slått av innhaldsblokkering.">
 <!ENTITY contentBlocking.exception.tooltip "Du har slått av innhaldsblokkering på denne sida.">
 
+<!ENTITY contentBlocking.fastBlock.label "Langsame sporfølgjarar">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -1009,6 +1010,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Slå av på denne sida">
 <!ENTITY trackingProtection.unblock3.accesskey "S">
+<!ENTITY trackingProtection.unblock4.label "Slå av blokkering for denne nettsida">
+<!ENTITY trackingProtection.unblock4.accesskey "b">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -1016,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "ø">
 <!ENTITY trackingProtection.block4.label "Slå på, på denne sida">
 <!ENTITY trackingProtection.block4.accesskey "S">
+<!ENTITY trackingProtection.unblockPrivate4.label "Slå av blokkering mellombels">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "m">
+<!ENTITY trackingProtection.block5.label "Slå på blokkering for denne nettsida">
+<!ENTITY trackingProtection.block5.accesskey "a">
 <!ENTITY trackingProtection.reload2.label "Oppdater sida">
 <!ENTITY trackingProtection.reload2.accesskey "O">
 
