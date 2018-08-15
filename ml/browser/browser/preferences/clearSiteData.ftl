@@ -23,6 +23,7 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = കുക്കികളും സൈറ്റ് ഡാറ്റയും
     .accesskey = S
+clear-site-data-cookies-info = വെടിപ്പാക്കുന്ന പക്ഷം നിങ്ങൾ സൈറ്റുകളിൽ നിന്ന് സൈൻ ഔട്ടാവാൻ സാധ്യതയുണ്ട്
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar

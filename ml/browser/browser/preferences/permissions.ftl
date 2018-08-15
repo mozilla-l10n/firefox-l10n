@@ -57,6 +57,9 @@ permissions-exceptions-tracking-protection-desc = നിങ്ങൾ ഈ വെ�
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = വിട്ടുവീഴ്ചകൾ - കുക്കികളും സൈറ്റ് ഡാറ്റയും
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
