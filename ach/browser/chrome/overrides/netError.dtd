@@ -8,7 +8,11 @@
 <!ENTITY loadError.label "Peko i cano pot buk">
 <!ENTITY retry.label "Tem Doki">
 <!ENTITY returnToPreviousPage.label "Dok cen">
+<!ENTITY returnToPreviousPage1.label "Dok cen (Kicwako)">
 <!ENTITY advanced.label "Ma lamal">
+
+<!ENTITY continue1.label "Mede…">
+<!ENTITY moreInformation.label "Ngec mapol">
 
 <!-- Specific error messages -->
 
@@ -88,10 +92,18 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Pot buk ma i tye ka temo neno ne ni pe kitwero nyuto ne pien twero pi tic ma kinongo ni pe ki romo moko.</li> <li>Tim ber i kube ki wegi kakube man pi mini gi ngec me peko man.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Kube ni pe tye ki ber bedo">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Rwed <span class='hostname'/> otero kakube gi marac.  Me gwoko ngec mamegi ki i kwo, &brandShortName; pe okube ki kakube man.">
+
+
+<!ENTITY certerror.expiredCert.secondPara "Peko man tutwale twero bedo pien cawa me kompiuta ni pe kitero kakare, ma twero gengo &brandShortName; me kube ki ber bedo.">
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Ngo ma i twero timo pire?">
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>Kakube romo bedo ni pe nonge pi tutunu onyo tic odiyo. Tem doki inge karemanok.</li> <li>Ka pe iromo cano pot buk mo keken, ngi kakube me komputa mamegi.</li> <li>Ka ce komputa onyo kakube ni kigengo ki lagwok komputa onyo latic pi lawote, nen ni meno &brandShortName; tye ki rukuca me donyo i Kakube.</li> </ul>">
 
@@ -131,6 +143,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> tiyo ki diro me ber bedo ma con ki kiromo mwonyo ne cawa mo keken. Ngat ma omwonyo romo nyuto ngec mamegi ma itamo no ni tye maber iyoo mayot. Laloc me kakube ne myero kong oyub lapok tic ma pud pe ilimo kakube ne.</p><p>Kod me bal: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Potbuk ma kigengo">
+
 
 <!ENTITY prefReset.longDesc "Nen calo ter me ber bedo per netwak mamegi aye tye ka kelo man. Imito ni ki dwok ter makwongo?">
 <!ENTITY prefReset.label "Dwok ter makwongo">
