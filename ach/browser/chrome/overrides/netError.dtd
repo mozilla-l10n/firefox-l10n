@@ -104,6 +104,9 @@ was trying to connect. -->
 
 
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Peko ne tutwale twero bedo ki kakube, ki gin mo pe ma itwero timo yubo ne. Itwero miyo ngec me peko man bot luloc me kakube.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>Kakube romo bedo ni pe nonge pi tutunu onyo tic odiyo. Tem doki inge karemanok.</li> <li>Ka pe iromo cano pot buk mo keken, ngi kakube me komputa mamegi.</li> <li>Ka ce komputa onyo kakube ni kigengo ki lagwok komputa onyo latic pi lawote, nen ni meno &brandShortName; tye ki rukuca me donyo i Kakube.</li> </ul>">
 
@@ -144,6 +147,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Potbuk ma kigengo">
 
+<!ENTITY clockSkewError.title "Cawa me kompiuta ni pe tye kakare">
 
 <!ENTITY prefReset.longDesc "Nen calo ter me ber bedo per netwak mamegi aye tye ka kelo man. Imito ni ki dwok ter makwongo?">
 <!ENTITY prefReset.label "Dwok ter makwongo">

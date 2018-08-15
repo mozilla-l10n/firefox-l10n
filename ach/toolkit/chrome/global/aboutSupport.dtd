@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Ripot me poto">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "Cwal ngec me ID">
 <!ENTITY aboutSupport.crashes.sendDate "Kicwalo">
 <!ENTITY aboutSupport.crashes.allReports "Ripot me poto weng">
@@ -26,15 +26,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featuresTitle "Jami me &brandShortName;">
 <!ENTITY aboutSupport.featureName "Nying">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "Kit me atema">
-<!ENTITY aboutSupport.experimentName "Nying">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Lok ikome">
-<!ENTITY aboutSupport.experimentActive "Tye katic">
-<!ENTITY aboutSupport.experimentEndDate "Nino dwe me giko">
-<!ENTITY aboutSupport.experimentHomepage "Pot buk me acaki">
-<!ENTITY aboutSupport.experimentBranch "Jang">
 
 <!ENTITY aboutSupport.appBasicsTitle "Tic mapire tego">
 <!ENTITY aboutSupport.appBasicsName "Nying">
@@ -66,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "Propwail">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Dirica me tic mapol">
+
 
 
 
@@ -127,3 +119,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.mediaDeviceName "Nying">
 
+<!ENTITY aboutSupport.intlLocalesRequested "Leb ma kipenyo pi gi">
+<!ENTITY aboutSupport.intlLocalesAvailable "Leb matye">
+<!ENTITY aboutSupport.intlLocalesSupported "Leb me purugram">
+<!ENTITY aboutSupport.intlLocalesDefault "Leb makwongo">
