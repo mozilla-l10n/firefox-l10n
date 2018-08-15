@@ -60,7 +60,7 @@ permissions-exceptions-tracking-protection-desc = Anda telah menonaktifkan Perli
 permissions-exceptions-cookie-window =
     .title = Pengecualian - Kuki dan Data Situs
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Anda dapat menentukan situs web mana saja yang boleh atau tidak boleh menggunakan kuki dan data situs. Ketik alamat situs secara persis yang ingin dikelola, kemudian klik Blokir, Izinkan untuk Sesi, atau Izinkan.
+permissions-exceptions-cookie-desc = Anda dapat menentukan situs web mana saja yang diizinkan atau tidak diizinkan untuk menggunakan kuki dan data situs. Ketik alamat situs secara persis yang ingin dikelola, kemudian klik Blokir, Izinkan untuk Sesi, atau Izinkan.
 
 ## Exceptions - Pop-ups
 
