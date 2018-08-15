@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Protección de seguimiento: ACTIVADA">
 <!ENTITY trackingProtection.off "Protección de seguimiento: DESACTIVADA">
+
+<!ENTITY contentBlocking.title "Bloqueo de contenido">
+<!ENTITY contentBlocking.detected "Se ha detectado contenido bloqueable en este sitio.">
+<!ENTITY contentBlocking.notDetected "No se ha detectado contenido bloqueable en este sitio.">
+<!ENTITY contentBlocking.disabled.label "Desactivado">
+<!ENTITY contentBlocking.disabled.tooltip "Has desactivado el bloqueo de contenido.">
+<!ENTITY contentBlocking.exception.tooltip "Has desactivado el bloqueo de contenido para este sitio.">
+
+<!ENTITY contentBlocking.fastBlock.label "Rastreadores de carga lenta">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Bloqueado">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Añadir bloqueo…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Rastreadores">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Bloqueado">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Añadir bloqueo…">
+
 <!ENTITY trackingProtection.title "Protección de seguimiento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; está bloqueando partes de la página que pueden seguir tu navegación.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Este sitio incluye elementos que siguen tu navegación. Has desactivado la protección.">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "No se detectaron elementos de seguimiento en esta página. Has desactivado la protección para este sitio.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Has activado la protección de seguimiento. Recarga esta página para bloquear todos los rastreadores.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Desactivar para este sitio">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Desactivar bloqueo para este sitio">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Activar para este sitio">
 <!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.label "Desactivar bloqueo temporalmente">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Activar bloqueo para este sitio">
+<!ENTITY trackingProtection.block5.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "Recargar la página">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
