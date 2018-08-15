@@ -147,16 +147,27 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Yhteys ei ole suojattu">
+<!ENTITY certerror.longpagetitle2 "Varoitus: mahdollinen tietoturvariski">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Sivuston <span class='hostname'/> omistaja on määrittänyt sivustonsa asetukset väärin. &brandShortName; ei muodostanut yhteyttä sivustoon suojellakseen tietojasi varkaudelta.">
 
+<!ENTITY certerror.introPara1 "&brandShortName; havaitsi mahdollisen tietoturvauhan eikä jatkanut osoitteeseen <span class='hostname'/>. Jos siirryt tälle sivustolle, hyökkääjät voivat yrittää varastaa tietojasi, kuten salasanoja, sähköposteja ja luottokortteja.">
+
+<!ENTITY certerror.expiredCert.secondPara "Ongelman syynä on todennäköisesti se, että tietokoneesi kello on väärässä ajassa, minkä takia &brandShortName; ei voi muodostaa suojattua yhteyttä.">
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Mitä voit tehdä?">
+
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Ongelma johtuu todennäköisesti sivustosta, etkä voi tehdä mitään sen ratkaisemiseksi.</p>
+<p>Jos olet yritysverkossa tai käytät virustorjuntaohjelmaa, voit ottaa yhteyttä tukeen. Voit myös ilmoittaa ongelmasta sivuston ylläpitäjälle.</p>
+">
 
 
-
-
-
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Ongelma johtuu todennäköisesti sivustosta, etkä voi tehdä mitään sen ratkaisemiseksi. Voit ilmoittaa ongelmasta sivuston ylläpitäjälle.</p>
+">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -196,10 +207,12 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ei yhdistänyt osoitteeseen <span id='wrongSystemTimeWithoutReference_URL'/>, koska tietokoneesi kello näyttää olevan väärässä ajassa ja koska tämä estää suojatun yhteyden muodostamisen.</p> <p>Tietokoneesi mukaan kello on <span id='wrongSystemTimeWithoutReference_systemDate'/>. Voit korjata ongelman asettamalla kellon oikeaan aikaan tietokoneen aika-asetuksista.</p>">
 
 <!ENTITY certerror.pagetitle1  "Suojaamaton yhteys">
+<!ENTITY certerror.pagetitle2  "Varoitus: mahdollinen tietoturvariski">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tämä sivusto määrää
 käyttäen HTTP Strict Transport Security (HSTS) -ominaisuutta, että
 &brandShortName; saa muodostaa siihen vain suojatun yhteyden. Tämän takia
 tälle varmenteelle ei voi luoda poikkeusta.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Sivustolla <span class='hostname'></span> on tietoturvakäytäntö nihmeltään HTTP Strict Transport Security (HSTS), joka tarkoittaa, että &brandShortName; voi muodostaa siihen vain suojatun yhteyden. Tälle sivustolle siirtymistä varten ei voi lisätä poikkeusta.">
 <!ENTITY certerror.copyToClipboard.label "Kopioi teksti leikepöydälle">
 
 <!ENTITY inadequateSecurityError.title "Yhteys ei ole suojattu">
