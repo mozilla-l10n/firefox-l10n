@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Bescherming tegen volgen: AAN">
 <!ENTITY trackingProtection.off "Bescherming tegen volgen: UIT">
+
+<!ENTITY contentBlocking.title "Inhoudsblokkering">
+<!ENTITY contentBlocking.detected "Blokkeerbare inhoud op deze website gedetecteerd.">
+<!ENTITY contentBlocking.notDetected "Geen blokkeerbare inhoud op deze pagina gedetecteerd.">
+<!ENTITY contentBlocking.disabled.label "Uitgeschakeld">
+<!ENTITY contentBlocking.disabled.tooltip "U hebt inhoudsblokkering uitgeschakeld.">
+<!ENTITY contentBlocking.exception.tooltip "U hebt inhoudsblokkering voor deze website uitgeschakeld.">
+
+<!ENTITY contentBlocking.fastBlock.label "Traag ladende trackers">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Geblokkeerd">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Blokkering toevoegen…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Trackers">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Geblokkeerd">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Blokkering toevoegen…">
+
 <!ENTITY trackingProtection.title "Bescherming tegen volgen">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkeert onderdelen van de pagina die uw surfgedrag zouden kunnen volgen.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Deze website bevat elementen die uw surfgedrag zouden kunnen volgen. U hebt bescherming uitgeschakeld.">
@@ -962,7 +996,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Bescherming inschakelen">
 <!ENTITY trackingProtection.block2.accesskey "s">
 
-<!ENTITY trackingProtection.tooltip "Voorkeuren van Bescherming tegen volgen openen">
+<!ENTITY trackingProtection.tooltip "Voorkeuren voor Bescherming tegen volgen openen">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokkeert onderdelen van deze pagina die uw surfgedrag zouden kunnen volgen.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; heeft elementen gedetecteerd die uw surfgedrag zouden kunnen volgen.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; heeft elementen gedetecteerd die uw surfgedrag zouden kunnen volgen. U hebt bescherming voor deze website uitgeschakeld.">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Geen volgelementen op deze pagina gedetecteerd. U hebt bescherming voor deze website uitgeschakeld.">
 
 <!ENTITY trackingProtection.reloadRequired2 "U hebt Bescherming tegen volgen ingeschakeld. Laad deze pagina opnieuw om alle trackers te blokkeren.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Uitschakelen voor deze website">
 <!ENTITY trackingProtection.unblock3.accesskey "U">
+<!ENTITY trackingProtection.unblock4.label "Blokkering voor deze website uitschakelen">
+<!ENTITY trackingProtection.unblock4.accesskey "B">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "U">
 <!ENTITY trackingProtection.block4.label "Inschakelen voor deze website">
 <!ENTITY trackingProtection.block4.accesskey "n">
+<!ENTITY trackingProtection.unblockPrivate4.label "Blokkering tijdelijk uitschakelen">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "u">
+<!ENTITY trackingProtection.block5.label "Blokkering voor deze website inschakelen">
+<!ENTITY trackingProtection.block5.accesskey "c">
 <!ENTITY trackingProtection.reload2.label "Pagina vernieuwen">
 <!ENTITY trackingProtection.reload2.accesskey "r">
 
