@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Бақылаудан қорғаныс: Іске қосылған">
 <!ENTITY trackingProtection.off "Бақылаудан қорғаныс: Сөндірілген">
+
+<!ENTITY contentBlocking.title "Құраманы бұғаттау">
+<!ENTITY contentBlocking.detected "Бұл сайттан бұғаттауға келетін құрама анықталды.">
+<!ENTITY contentBlocking.notDetected "Бұл сайттан бұғаттауға келетін құрама анықталмады.">
+<!ENTITY contentBlocking.disabled.label "Сөндірілген">
+<!ENTITY contentBlocking.disabled.tooltip "Құраманы бұғаттауды сөндіргенсіз.">
+<!ENTITY contentBlocking.exception.tooltip "Бұл сайт үшін құраманы бұғаттауды сөндіргенсіз.">
+
+<!ENTITY contentBlocking.fastBlock.label "Баяу жүктелетін трекерлер">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Бұғатталған">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Бұғаттауды қосу…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Трекерлер">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Бұғатталған">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Бұғаттауды қосу…">
+
 <!ENTITY trackingProtection.title "Бақылаудан қорғаныс">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; бұл парақтың сіздің желідегі әрекеттеріңізді бақылай алатын бөліктерін блоктаған.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Бұл сайтта сіздің желідегі әрекеттеріңізді бақылай алатын элементтер бар. Сіз бақылаудан қорғанысты сөндіргенсіз.">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Бұл парақта бақылайтын элементтер табылмады. Бұл сайт үшін сіз бақылаудан қорғанысты сөндіргенсіз.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Сіз бақылаудан қорғанысты іске қосқансыз. Барлық трекерлерді блоктау үшін бұл бетті қайта жүктеңіз.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Бұл сайт үшін сөндіру">
 <!ENTITY trackingProtection.unblock3.accesskey "д">
+<!ENTITY trackingProtection.unblock4.label "Бұл сайт үшін бұғаттауды сөндіру">
+<!ENTITY trackingProtection.unblock4.accesskey "д">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "д">
 <!ENTITY trackingProtection.block4.label "Бұл сайт үшін іске қосу">
 <!ENTITY trackingProtection.block4.accesskey "е">
+<!ENTITY trackingProtection.unblockPrivate4.label "Бұғаттауды уақытша сөндіру">
 <!ENTITY trackingProtection.reload2.label "Бетті қайта жүктеу">
 <!ENTITY trackingProtection.reload2.accesskey "й">
 
