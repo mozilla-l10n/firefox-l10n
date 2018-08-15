@@ -1019,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "А">
 <!ENTITY trackingProtection.block4.label "Уключыць для гэтага сайта">
 <!ENTITY trackingProtection.block4.accesskey "У">
+<!ENTITY trackingProtection.unblockPrivate4.label "Часова адключыць блакаванне">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "а">
+<!ENTITY trackingProtection.block5.label "Уключыць блакаванне для гэтага сайта">
+<!ENTITY trackingProtection.block5.accesskey "У">
 <!ENTITY trackingProtection.reload2.label "Абнавіць старонку">
 <!ENTITY trackingProtection.reload2.accesskey "к">
 

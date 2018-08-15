@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Дадаткова">
 
 <!ENTITY continue1.label "Працягнуць…">
+<!ENTITY moreInformation.label "Больш звестак">
 
 <!-- Specific error messages -->
 
@@ -140,8 +141,19 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Як вы можаце гэта паправіць?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Хутчэй за ўсё, праблема тычыцца вэб-сайта, і вы нічога не можаце зрабіць для яе вырашэння.</p>
+<p>Калі вы карыстаецеся карпаратыўным камп'ютарам, або выкарыстоўваеце антывірус, вы можаце звярнуцца ў службу падтрымкі па дапамогу. Вы таксама можаце паведаміць адміністратару вэб-сайта аб праблеме.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Гадзіннік вашага камп'ютара настаўлены на <span id='wrongSystemTime_systemDate2'/>. Упэўніцеся, што на вашым камп'ютары ў наладках выстаўлены правільная дата, час і часавы пояс, пасля абнавіце <span class='hostname'/>.</p>
+<p>Калі ваш гадзіннік ідзе правільна, імаверна, вэб-сайт сканфігураваны няправільна, і вам не ўдасца гэта паправіць. Вы можаце паведаміць адміністратару сайта аб праблеме.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Хутчэй за ўсё, праблема звязана з вэб-сайтам, і вам не ўдасца гэта паправіць. Вы можаце паведаміць адміністратару сайта аб праблеме..</p>
+">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -184,6 +196,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle2  "Папярэджанне: наперадзе патэнцыяльная пагроза бяспецы">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Гэты сайт выкарыстоўвае HTTP
 Строгая бяспека транспарту (HSTS) прадугледжвае, што &brandShortName; можа злучацца з ім толькі бяспечна. Як следства, немагчыма дадаць выключэнне для гэтага сертыфіката.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> мае палітыку бяспекі, што называецца HTTP Strict Transport Security (HSTS), і гэта азначае, што &brandShortName; можа звязвацца з ім толькі абароненым злучэннем. Вы не можаце дадаць выключэнне для наведвання гэтага сайта.">
 <!ENTITY certerror.copyToClipboard.label "Капіяваць тэкст у буфер абмену">
 
 <!ENTITY inadequateSecurityError.title "Ваша злучэнне не бяспечнае">
@@ -192,6 +205,9 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> выкарыстоўвае тэхналогію бяспекі, якая састарэла і ўразлівая да атак. Зламыснік можа з лёгкасцю выкрыць звесткі, пра якія вы думаеце, што яны ў бяспецы. Адміністратар вэб-сайта мусіць выправіць гэты сервер, перш чым вы зможаце наведаць яго бяспечна.</p><p>Код памылкі: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Заблакаваная старонка">
+
+<!ENTITY clockSkewError.title "Гадзіннік вашага камп'ютара ідзе няправільна">
+<!ENTITY clockSkewError.longDesc "Ваш камп'ютар лічыць, што цяпер <span id='wrongSystemTime_systemDate1'/>, таму &brandShortName; не можа ўстанавіць абароненае злучэнне. Каб наведаць <span class='hostname'></span>, выстаўце правільную дату, час і часавы пояс у наладках камп'ютара, пасля абнавіце <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Выглядае, што выклікаць гэта маглі вашы налады сеткавай бяспекі. Хочаце скінуць налады да прадвызначаных?">
 <!ENTITY prefReset.label "Скінуць да прадвызначаных">
