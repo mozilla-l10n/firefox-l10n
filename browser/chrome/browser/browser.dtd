@@ -945,6 +945,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "ટ્રેકિંગ પ્રોટેક્શન: ચાલુ">
 <!ENTITY trackingProtection.off "ટ્રેકિંગ પ્રોટેક્શન: OFF">
+
+<!ENTITY contentBlocking.disabled.label "નિષ્ક્રિય">
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!ENTITY trackingProtection.title "ટ્રેકિંગ રક્ષણ">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; તે પૃષ્ઠનાં ભાગોને અવરોધિત કરે છે જે તમારી બ્રાઉઝિંગને ટ્રૅક કરી શકે છે.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "આ સાઇટમાં ઘટકો શામેલ છે જે તમારા બ્રાઉઝિંગને ટ્રૅક કરી શકે છે. તમે રક્ષણ અક્ષમ કર્યું છે.">
@@ -970,11 +993,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "આ પૃષ્ઠ પર કોઈ ટ્રેકિંગ તત્વો મળ્યાં નથી. તમે આ સાઇટ માટે રક્ષણ અક્ષમ કર્યું છે.">
 
 <!ENTITY trackingProtection.reloadRequired2 "તમે ટ્રેકિંગ પ્રોટેક્શનને સક્ષમ કર્યું છે. તમામ ટ્રેકર્સને અવરોધિત કરવા માટે આ પૃષ્ઠ ફરીથી લોડ કરો.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "આ સાઇટ માટે અક્ષમ કરો">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1007,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "આ સાઇટ માટે સક્ષમ">
 <!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "પૃષ્ઠ ફરીથી લોડ કરો">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
