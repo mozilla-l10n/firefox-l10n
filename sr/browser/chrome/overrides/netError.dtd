@@ -8,7 +8,11 @@
 <!ENTITY loadError.label "Проблем при учитавању странице">
 <!ENTITY retry.label "Пoкушај поново">
 <!ENTITY returnToPreviousPage.label "Иди назад">
+<!ENTITY returnToPreviousPage1.label "Врати се назад (препоручено)">
 <!ENTITY advanced.label "Напредно">
+
+<!ENTITY continue1.label "Настави…">
+<!ENTITY moreInformation.label "Више информација">
 
 <!-- Specific error messages -->
 
@@ -144,10 +148,24 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Веза није сигурна">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Упозорење: Потенцијални безбедносни ризик">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Власник <span class='hostname'/> је неправилно подесио веб сајт. Да бисмо заштитили ваше информације од крађе, &brandShortName; се није повезао на овај веб сајт.">
+
+<!ENTITY certerror.introPara1 "&brandShortName; је открио потенцијалну безбедносну претњу и није наставио на <span class='hostname'/>. Ако посетите овај сајт, нападачи би могли покушати украсти информације као што су ваше лозинке, адресе или кредитне картице.">
+
+<!ENTITY certerror.expiredCert.secondPara "Проблем је највероватније у томе што ваш сат на рачунару приказује погрешно време, што би спречило &brandShortName; да се повеже безбедно.">
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Шта можете учинити поводом тога?">
+
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Проблем је највероватније са веб сајтом и ништа не можете учинити да га решите.</p>
+<p>Ако сте на пословној мрежи или користите антивирус, можете контактирати тимове за подршку и подражити од њих помоћ. Такође можете и обавестити администратора веб сајта о проблему.</p>
+">
+
+
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -199,6 +217,9 @@ Strict Transport Security (HSTS) да би одредио да се &brandShortN
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> користи технологију за безбедност која је застарела и рањива је на нападе. Нападач лако може да открије информације за које сте мислили да су сигурне. Администратор веб сајта ће морати да поправи сервер пре него што посетите овај сајт.</p><p>Код грешке: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Блокиране странице">
+
+<!ENTITY clockSkewError.title "Време на вашем рачунару је погрешно">
+<!ENTITY clockSkewError.longDesc "Ваш рачунар мисли да је <span id='wrongSystemTime_systemDate1'/>, што спречава &brandShortName; да се повеже безбедно. Да бисте посетили <span class='hostname'></span>, ажурирајте ваш сат на рачунару у вашим системским подешавањима на тренутан датум, време и временску зону и освежите <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Ваше поставке безбедности можда проузрокују овај проблем. Да ли желите да вратите подразумеване поставке?">
 <!ENTITY prefReset.label "Врати подразумеване поставке">

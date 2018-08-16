@@ -205,6 +205,9 @@ choose-language-description = Изаберите омиљени језик за 
 choose-button =
     .label = Избор…
     .accesskey = з
+choose-browser-language-description = Изаберите језике који се користе за приказивање { -brand-short-name } менија, порука и обавештења.
+confirm-browser-language-change-description = Рестарујте { -brand-short-name } да примените ове измене
+confirm-browser-language-change-button = Примени и рестартуј
 translate-web-pages =
     .label = Преведи садржај
     .accesskey = с
@@ -630,6 +633,44 @@ addressbar-locbar-openpage-option =
     .accesskey = ј
 addressbar-suggestions-settings = Измени поставке предлога претраживања
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Блокирање садржаја
+content-blocking-desc = Блокирајте садржај трећих лица као што су рекламе или код, које могу успорити ваш прегледач и могу вас пратити по вебу. Прилагодите подешавања вашим потребама за бољу заштиту и перформансе.
+content-blocking-learn-more = Сазнајте више
+content-blocking-restore-defaults =
+    .label = Врати на подразумевано
+    .accesskey = В
+content-blocking-toggle-on =
+    .tooltiptext = Искључи блокирање садржаја
+content-blocking-toggle-off =
+    .tooltiptext = Укључи блокирање саобраћаја
+content-blocking-toggle-label-on = УКЉУЧЕНО
+    .accesskey = У
+content-blocking-toggle-label-off = ИСКЉУЧЕНО
+    .accesskey = И
+content-blocking-category-label = Изаберите шта да блокирате
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Успоравајуће елементе
+    .accesskey = У
+content-blocking-fastblock-description = Блокирај садржај трећих лица који се учитава дуже од 5 секунди.
+content-blocking-fastblock-option-enabled =
+    .label = Увек блокирај
+content-blocking-fastblock-option-disabled =
+    .label = Немој никад блокирати
+content-blocking-tracking-protection-label = Пратиоци
+    .accesskey = П
+content-blocking-tracking-protection-description = Блокирај све познате пратиоце (Напомена: може спречити неке странице да се учитају).
+content-blocking-tracking-protection-option-enabled =
+    .label = Увек блокирај
+content-blocking-tracking-protection-option-pbm =
+    .label = Блокирај само у приватним прозорима
+content-blocking-tracking-protection-option-disabled =
+    .label = Немој никад блокирати
+content-blocking-tracking-protection-change-blocklist = Измени листу блокирања...
+
 ## Privacy Section - Tracking
 
 tracking-header = Заштита од праћења
@@ -689,8 +730,8 @@ autoplay-option-ask =
     .label = Увек питај
 autoplay-option-allow =
     .label = Дозволи аутоматско пуштање
-autoplay-option-block =
-    .label = Блокирај аутоматско пуштање
+autoplay-option-dont =
+    .label = Немој аутоматски пуштати
 permissions-block-popups =
     .label = Блокирај искачуће прозоре
     .accesskey = ч

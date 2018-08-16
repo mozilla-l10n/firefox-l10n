@@ -316,6 +316,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Програмер">
 <!ENTITY webDeveloperMenu.accesskey   "г">
 
+<!ENTITY devtoolsRecordExecution.label "Извршење снимка">
+<!ENTITY devtoolsSaveRecording.label "Сачувај снимак">
+<!ENTITY devtoolsReplayExecution.label "Понови извршење">
+
 <!ENTITY inspectContextMenu.label     "Испитај елеменат">
 <!ENTITY inspectContextMenu.accesskey "И">
 
@@ -631,6 +635,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Сакриј овај прикључак">
 <!ENTITY hidePluginCmd.accesskey      "ч">
 <!ENTITY copyLinkCmd.label            "Копирај одредиште везе">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "К">
 <!ENTITY copyImageCmd.label           "Копирај одредиште слике">
 <!ENTITY copyImageCmd.accesskey       "т">
@@ -641,6 +648,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Копирај одредиште за аудио">
 <!ENTITY copyAudioURLCmd.accesskey    "К">
 <!ENTITY copyEmailCmd.label           "Копирај е-пошту">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "ш">
 <!ENTITY thisFrameMenu.label              "У овом оквиру">
 <!ENTITY thisFrameMenu.accesskey          "р">
@@ -935,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Заштита од праћења: УКЉУЧЕНА">
 <!ENTITY trackingProtection.off "Заштита од праћења: ИСКЉУЧЕНА">
+
+<!ENTITY contentBlocking.title "Блокирање садржаја">
+<!ENTITY contentBlocking.detected "Садржај за блокирање детектован на овом сајту.">
+<!ENTITY contentBlocking.notDetected "Нема садржаја за блокирање на овој страници.">
+<!ENTITY contentBlocking.disabled.label "Онемогућен">
+<!ENTITY contentBlocking.disabled.tooltip "Онемогућили сте блокирање садржаја.">
+<!ENTITY contentBlocking.exception.tooltip "Онемогућили сте блокирање садржаја за овај сајт.">
+
+<!ENTITY contentBlocking.fastBlock.label "Успоравајући пратиоци">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Блокирани">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Блокирај…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Пратиоци">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Блокирани">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Блокирај…">
+
 <!ENTITY trackingProtection.title "Заштита од праћења">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокира делове странице који можда прате ваше активности.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Овај сајт садржи елементе који прате ваше активности. Ви сте искључили заштиту.">
@@ -960,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "На овој страници нису откривени елементи који вас прате. Онемогућили сте заштиту за овај сајт.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Омогућили сте заштиту од праћења. Обновите страницу да блокирате све пратиоце.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Онемогући за овај сајт">
 <!ENTITY trackingProtection.unblock3.accesskey "О">
+<!ENTITY trackingProtection.unblock4.label "Онемогућите блокирање за овај сајт">
+<!ENTITY trackingProtection.unblock4.accesskey "О">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -972,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "О">
 <!ENTITY trackingProtection.block4.label "Омогући за овај сајт">
 <!ENTITY trackingProtection.block4.accesskey "О">
+<!ENTITY trackingProtection.unblockPrivate4.label "Онемогућите блокирање привремено">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "О">
+<!ENTITY trackingProtection.block5.label "Омогућите блокирање за овај сајт">
+<!ENTITY trackingProtection.block5.accesskey "О">
 <!ENTITY trackingProtection.reload2.label "Обнови страницу">
 <!ENTITY trackingProtection.reload2.accesskey "О">
 
