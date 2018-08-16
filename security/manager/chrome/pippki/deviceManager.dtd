@@ -12,9 +12,9 @@
 <!ENTITY devmgr.details.title                   "వివరాలు">
 <!ENTITY devmgr.details.title2                  "విలువ">
 
-<!ENTITY devmgr.button.login.label              "లాగ్ ఇన్">
+<!ENTITY devmgr.button.login.label              "ప్రవేశించు">
 <!ENTITY devmgr.button.login.accesskey          "n">
-<!ENTITY devmgr.button.logout.label             "లాగ్ అవుట్">
+<!ENTITY devmgr.button.logout.label             "నిష్క్రమించు">
 <!ENTITY devmgr.button.logout.accesskey         "O">
 <!ENTITY devmgr.button.changepw.label           "సంకేతపదాన్ని మార్చు">
 <!ENTITY devmgr.button.changepw.accesskey       "P">
