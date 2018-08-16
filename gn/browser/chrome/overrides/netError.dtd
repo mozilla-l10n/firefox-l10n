@@ -11,7 +11,8 @@
 <!ENTITY returnToPreviousPage1.label "Eguevi (mboajepyre)">
 <!ENTITY advanced.label "Opanungáva">
 
-<!ENTITY continue.label "Ku'ejey">
+<!ENTITY continue1.label "Eku'ejey...">
+<!ENTITY moreInformation.label "Eñemomaranduve">
 
 <!-- Specific error messages -->
 
@@ -147,6 +148,8 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> oipuru tembipuru pyahu rekorosãrã ndoikovéimava ha oimeraẽva ombyaikuaáva. Peteĩ tekoñaña ikatu ohechauka marandu hekorosãha gua'ú. Pe ñanduti renda ñangarekohára omyatãraẽva'erã pe mohendahavusu oike mboyve tendápe.</p><p>Ayvu jejavy: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Kuatiarogue jokopyre">
+
+<!ENTITY clockSkewError.title "Aravopapaha mohendaha rehegua oĩvai">
 
 <!ENTITY prefReset.longDesc "Ne ñemboheko ñanduti rekorosãrã rehegua ikatu hína ojapo kóva. Emoĩporãsépa ñemboheko ijypyguáva rupi?">
 <!ENTITY prefReset.label "Embojevy ñemboheko ijypykuépe">
