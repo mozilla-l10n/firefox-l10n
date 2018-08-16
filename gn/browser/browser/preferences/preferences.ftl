@@ -327,13 +327,13 @@ network-proxy-connection-settings =
 
 ## Home Section
 
-home-new-windows-tabs-header = Ovetã ha tendayke pyahu   
+home-new-windows-tabs-header = Ovetã ha tendayke pyahu
 home-new-windows-tabs-description2 = Eiporavo ehecháva eikévo ne kuatiarogue iporãvévape, ovetã ha tendayke pyahúpe.
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = Togue moñepyrû ha ovetâ pyahu 
-home-newtabs-mode-label = tendayke pyahu 
+home-homepage-mode-label = Togue moñepyrû ha ovetâ pyahu
+home-newtabs-mode-label = tendayke pyahu
 home-restore-defaults =
     .label = mbopyahujey techa mboyvegua
     .accesskey = m
@@ -629,6 +629,36 @@ addressbar-locbar-openpage-option =
     .label = Tendayke ijurujáva
     .accesskey = O
 addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu'eha je'epyre mombue
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = Ejoko tetepy
+content-blocking-learn-more = Eikuaave
+content-blocking-restore-defaults =
+    .label = Embojevyjey ijypykuépe
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Eipe’a tetepy jejoko
+content-blocking-toggle-off =
+    .tooltiptext = Emyandy tetepy jejoko
+content-blocking-toggle-label-on = Myandy
+    .accesskey = O
+content-blocking-toggle-label-off = Pe'a
+    .accesskey = O
+content-blocking-category-label = Eiporavo mba’épa ejokóta
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Mba’epuru jehekaha imbegue
+    .accesskey = S
+content-blocking-fastblock-option-enabled =
+    .label = Ejoko tapiaite
+content-blocking-fastblock-option-disabled =
+    .label = Ani ejoko araka’eve
+content-blocking-tracking-protection-label = Jehekaha
+    .accesskey = T
+content-blocking-tracking-protection-option-enabled =
+    .label = Ejoko tapiaite
 
 ## Privacy Section - Tracking
 
