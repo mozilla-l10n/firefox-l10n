@@ -938,17 +938,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "ట్రాకింగ్ సంరక్షణ: ఆన్">
 <!ENTITY trackingProtection.off "ట్రాకింగ్ సంరక్షణ: ఆఫ్">
 
+<!ENTITY contentBlocking.title "విషయ నిరోధం">
 
+<!ENTITY contentBlocking.fastBlock.label "నెమ్మదిగా-లోడయ్యే ట్రాకర్లు">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "నిరోధించబడ్డాయి">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "నిరోధం చేర్చు…">
 
+<!ENTITY contentBlocking.trackingProtection.label "ట్రాకర్లు">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -958,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "నిరోధం చేర్చు…">
 
 <!ENTITY trackingProtection.title "ట్రాకింగ్ సంరక్షణ">
 <!ENTITY trackingProtection.detectedBlocked3 "ఈ పేజీలో మీ విహరణ జాడ తెలుసుకునే భాగాలను &brandShortName; నిరోధిస్తోంది.">
