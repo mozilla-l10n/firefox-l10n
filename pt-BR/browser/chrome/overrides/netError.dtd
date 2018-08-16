@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Avançado">
 
 <!ENTITY continue1.label "Continuar…">
+<!ENTITY moreInformation.label "Mais informações">
 
 <!-- Specific error messages -->
 
@@ -143,9 +144,9 @@ was trying to connect. -->
 <p>Se estiver em uma rede corporativa ou usando um antivírus, você pode pedir ajuda às equipes de suporte. Também pode notificar o administrador do site.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>O relógio do seu computador está configurado com <span id='wrongSystemTime_systemDate'/>. Garanta que seu computador esteja com a data, hora e fuso horário corretos nas configurações do seu sistema, depois recarregue <span class='hostname'/>.</p>
-<p>Se seu relógio já está com a hora certa, o site está provavelmente mal configurado, não há nada que você possa fazer para resolver o problema. Você pode notificar o administrador do site.</p>
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>O relógio do seu computador está definido para <span id='wrongSystemTime_systemDate2'/>. Certifique-se de que seu computador está definido para a data, hora e fuso horário corretos nas configurações do sistema, e atualize <span class='hostname'/>.</p>
+<p>Se o seu relógio já está definido para a hora correta, o site deve estar configurado incorretamente e não há nada que você possa fazer para resolver o problema. Notifique o problema para o administrador do site.</p>
 ">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
@@ -202,6 +203,9 @@ certificado.">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa uma tecnologia de segurança que está ultrapassada e vulnerável a ataques. Um invasor poderia facilmente coletar informações que você acreditava estar seguras. O administrador do site precisa consertar o servidor antes de você poder visitar o site.</p><p>Código de erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Página bloqueada">
+
+<!ENTITY clockSkewError.title "O relógio do seu computador está errado">
+<!ENTITY clockSkewError.longDesc "A hora exibida pelo seu computador é <span id='wrongSystemTime_systemDate1'/>, o que impede que o &brandShortName; se conecte de maneira segura. Para visitar <span class='hostname'></span>, ajuste o relógio do seu computador nas configurações do sistema para a data, hora e fuso horário atuais, e atualize <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Parece que suas configurações de segurança de rede podem estar causando isso. Você quer restaurar as configurações padrão?">
 <!ENTITY prefReset.label "Restaurar configurações padrão">
