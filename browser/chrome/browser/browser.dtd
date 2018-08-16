@@ -35,6 +35,16 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "অন্যান্য ট্যাব বন্ধ করুন">
 <!ENTITY  closeOtherTabs.accesskey           "O">
 
+<!ENTITY  closeSelectedTabs.label            "নির্বাচিত ট্যাবগুলো বন্ধ করুন">
+<!ENTITY  closeSelectedTabs.accesskey        "S">
+
+<!-- Pin Tab and Pin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Reload Tab and Reload Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -54,13 +64,13 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "অপেক্ষমান (অফলাইন)">
 <!ENTITY  moveToNewWindow.label              "নতুন উইন্ডোতে স্থানান্তর W">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "সকল ট্যাব বুকমার্ক করুন…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "বন্ধ করা ট্যাব পুনরায় খুলুন U">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ট্যাব বন্ধ C">
 <!ENTITY  closeTab.accesskey                 "C">
-
 <!ENTITY  hiddenTabs.label                   "লুকাইত ট্যাব">
 
 <!ENTITY  listAllTabs.label      "সব ট্যাবের তালিকা">
@@ -218,7 +228,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "এই সাইটটি থেকে আপনি নোটিফিকেশন গ্রহণ করতে পারবেন কিনা তা পরিবর্তন করুন">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "পার্সিস্টেন্ট স্টোরেজে ডাটা স্টোর করুন">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ব্রাউজার রিমোর্ট কন্ট্রোলের আওতায়">
-
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Web Authentication প্যানেল খুলুন">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "সাইটটির সাথে আপনার ক্যামেরা এবং/কিংবা মাইক্রোফোন শেয়ার নিয়ন্ত্রণ করুন">
@@ -248,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "নীড়">
+
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; নীড় পাতা">
 
 <!ENTITY bookmarksButton.label          "বুকমার্ক">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -293,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "ওয়েব ডেভেলপার">
 <!ENTITY webDeveloperMenu.accesskey   "W">
+
 
 <!ENTITY inspectContextMenu.label     "উপাদান পর্যবেক্ষণ করুন">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -405,8 +417,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "ওভারফ্লো মেনুতে যোগ করুন">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "টুলবারে স্থানান্তর করুন">
@@ -418,6 +429,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "মেনুতে স্থানান্তর করুন">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "ওভারফ্লো মেনুতে পিন করুন">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "ওভারফ্লো মেনু হতে আনপিন করুন">
@@ -431,6 +445,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "টুলবারে অটো-হাইড করুন">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "এক্সটেনশন ব্যবস্থাপনা">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -603,6 +619,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "প্লাগইনটি আড়াল করুন">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "লিঙ্কের ঠিকানা অনুলিপি">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "ছবির ঠিকানা অনুলিপি">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -613,6 +632,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "অডিওর ঠিকানা অনুলিপি">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "ইমেইল ঠিকানা অনুলিপি">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "এই ফ্রেম">
 <!ENTITY thisFrameMenu.accesskey          "h">
@@ -748,8 +770,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "অভিধান যোগ…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
 <!ENTITY editBookmark.done.label                     "সম্পন্ন">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -792,9 +818,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "আরও তথ্য">
 
+<!ENTITY identity.clearSiteData "কুকি এবং সাইট ডাটা পরিষ্কার করুন…">
+
 <!ENTITY identity.permissions "অনুমোদন">
 <!ENTITY identity.permissionsEmpty "আপনি এই সাইটের জন্য কোনো বিশেষ অনুমতি দেননি।">
 <!ENTITY identity.permissionsReloadHint "পরিবর্তনগুলি প্রয়োগ করার জন্য আপনাকে পাতাটি পুনরায় লোড করার প্রয়োজন হতে পারে।">
+
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -894,6 +923,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "এই ট্যাব এর অডিও শেয়ার করা হবে।">
 <!ENTITY getUserMedia.allWindowsShared.message "আপনার স্ক্রিনের সব দৃশ্যমান উইন্ডো শেয়ার করা হবে।">
 
+
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!ENTITY trackingProtection.title "ট্রাকিং সুরক্ষা">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; পাতাটির এই অংশগুলি প্রতিরোধ করেছে যা আপনার ব্রাউজিং ট্র্যাক করতে পারে।">
 <!ENTITY trackingProtection.detectedNotBlocked3 "এই সাইটে কিছু বস্তু আছে যা আপনার ব্রাউজার ট্রাক করবে। আপনি সুরক্ষা বন্ধ করেছেন।">
@@ -910,6 +961,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "ইমেইলের নিরাপত্তা E">
 <!ENTITY trackingProtection.block2.accesskey "E">
+
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 <!ENTITY pluginNotification.showAll.label "সব প্রদর্শন S">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -988,6 +1048,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "এক্সটেনসন নিষ্ক্রিয় করুন">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "অাপনি আপনার নীড় পাতায় যা দেখেন তা একটি এক্সটেনশন পরিবর্তন করতে পারে। আপনি আপনার সেটিংস পুনঃস্থাপন করতে পারে যদি পাল্টাতে না চান।">
 <!ENTITY homepageControlled.header.message "আপনার নীড় পাতা পরিবর্তিত হয়েছে।">
 <!ENTITY homepageControlled.keepButton.label "পরিবর্তনগুলো রাখো">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
@@ -1011,6 +1072,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "ডিভাইস সিঙ্ক হচ্ছে…">
 
 <!ENTITY pageAction.shareUrl.label "শেয়ার">
+
 
 <!ENTITY libraryButton.tooltip "ইতিহাস, সংরক্ষিত বুকমার্ক এবং আরও অনেক কিছু দেখুন">
 

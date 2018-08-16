@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } আপনার নির্ধারি�
 set-as-my-default-browser =
     .label = ডিফল্ট করুন…
     .accesskey = D
-startup-page = যখন { -brand-short-name } শুরু হবে
-    .accesskey = s
-startup-user-homepage =
-    .label = আপনার নীড়পাতা দেখাবে
-startup-blank-page =
-    .label = ফাঁকা পাতা দেখাও
-startup-prev-session =
-    .label = শেষবারের উইন্ডো ও ট্যাব দেখাবে
 startup-restore-previous-session =
     .label = পূর্ববর্তী সেশন পুনরুদ্ধার
     .accesskey = s
 disable-extension =
     .label = এক্সটেনশনটি নিষ্ক্রিয় করুন
-home-page-header = নীড় পাতা
 tabs-group-header = ট্যাব
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab সাম্প্রতিক ব্যবহৃত ট্যাবগুলোতে ক্রমান্বয়ে ঘুড়বে
@@ -219,6 +202,7 @@ choose-language-description = পাতা প্রদর্শনে পছন
 choose-button =
     .label = নির্বাচন…
     .accesskey = o
+confirm-browser-language-change-button = আবেদন করুন এবং পুনঃশুরু করুন
 translate-web-pages =
     .label = ওয়েব কন্টেন্ট অনুবাদ করুন T
     .accesskey = T
@@ -270,7 +254,6 @@ play-drm-content =
 play-drm-content-learn-more = আরও জানুন
 update-application-title = { -brand-short-name } হালনাগাদ
 update-application-description = সেরা পারফরম্যান্স, স্থায়ীত্ব এবং নিরাপত্তার জন্য { -brand-short-name } হালনাগাদ রাখুন।
-update-application-info = সংস্করণ { $version } <a>নতুন কি আছে</a>
 update-application-version = সংস্করণ { $version } <a data-l10n-name="learn-more">নতুন কি আছে</a>
 update-history =
     .label = হালনাগাদের ইতিহাস দেখাও…
@@ -306,7 +289,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = কন্টেন্ট প্রক্রিয়াকরণ সীমা
     .accesskey = L
 performance-limit-content-process-enabled-desc = একাধিক ট্যাব ব্যবহারের সময় বাড়তি কন্টেন্ট প্রসেস কার্যক্ষমতা বৃদ্ধি করে, কিন্তু এতে বেশি মেমরি ব্যবহৃত হয়।
-performance-limit-content-process-disabled-desc = কন্টেন্ট প্রসেসের সংখ্যা পরিবর্তন শুধুমাত্র মাল্টিপ্রসেস { -brand-short-name } এ সম্ভব। <a>শিখুন, মাল্টিপ্রসেস চালু আছে কিনা কিভাবে পরীক্ষা করতে হয়</a>
 performance-limit-content-process-blocked-desc = কন্টেন্ট প্রসেসের সংখ্যা পরিবর্তন শুধুমাত্র মাল্টিপ্রসেস { -brand-short-name } এ সম্ভব। <a data-l10n-name="learn-more">শিখুন, মাল্টিপ্রসেস চালু আছে কিনা কিভাবে পরীক্ষা করতে হয়</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -377,9 +359,6 @@ use-current-pages =
 choose-bookmark =
     .label = বুকমার্ক ব্যবহার করুন
     .accesskey = B
-restore-default =
-    .label = ডিফল্ট মানে পুনঃস্থাপন করা হবে
-    .accesskey = R
 
 ## Search Section
 
@@ -641,6 +620,18 @@ addressbar-locbar-openpage-option =
     .label = ট্যাব খুলুন O
     .accesskey = O
 addressbar-suggestions-settings = অনুসন্ধান ইঞ্জিন পরামর্শের জন্য পছন্দসমূহ পরিবর্তন করুন
+
+## Privacy Section - Content Blocking
+
+content-blocking-toggle-label-on = চালু করুন
+    .accesskey = O
+content-blocking-toggle-label-off = বন্ধ
+    .accesskey = O
+content-blocking-category-label = কি ব্লক করতে চান বলুন
+content-blocking-fastblock-option-enabled =
+    .label = সর্বদা ব্লক করুন
+content-blocking-fastblock-option-disabled =
+    .label = কখনও ব্লক করবেন  না
 
 ## Privacy Section - Tracking
 
