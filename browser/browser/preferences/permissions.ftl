@@ -58,7 +58,7 @@ permissions-exceptions-tracking-protection-desc = ఈ వెబ్‌సైట�
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = మినహాయింపులు - కుకీలు మరియు సైటు డేటా
+    .title = మినహాయింపులు - కుకీలు, సైటు డేటా
     .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
