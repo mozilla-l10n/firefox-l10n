@@ -148,7 +148,7 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "კავშირი დაუცველია">
-<!ENTITY certerror.longpagetitle2 "გაფრთხილება: სახიფათოა უსაფრთხოების მხრივ">
+<!ENTITY certerror.longpagetitle2 "ფრთხილად: საფრთხის შემცველია">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -171,7 +171,7 @@ was trying to connect. -->
 ">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
-<p>ეს ხარვეზი უმეტესად დაკავშირებულია თავად ვებსაიტთან და თქვენ ვერ მოახერხებთ მის გამოსწორებას. ერთადერთი, ვებსაიტის მფლობელებს შეგიძლიათ შეატყობინოთ არსებული ხარვეზის შესახებ.</p>
+<p>ეს ხარვეზი უმეტესად დაკავშირებულია თავად ვებსაიტთან და თქვენ ვერ მოახერხებთ მის გამოსწორებას. მხოლოდ ის შეგიძლიათ, რომ შეატყობინოთ საიტის მფლობელებს ამ ხარვეზის შესახებ.</p>
 ">
 
 <!ENTITY sharedLongDesc "
@@ -212,7 +212,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ვერ უკავშირდება <span id='wrongSystemTimeWithoutReference_URL'/> -ს, რადგან როგორც ჩანს, თქვენი კომპიუტერის საათი არასწორ დროს აჩვენებს, რაც ხელს უშლის უსაფრთხოდ დაკავშირებას.</p> <p>თქვენს კომპიუტერზე არის <span id='wrongSystemTimeWithoutReference_systemDate'/>. ხარვეზის აღმოსაფხვრელად, გაასწორეთ სისტემის დრო და თარიღი.</p>">
 
 <!ENTITY certerror.pagetitle1  "დაუცველი კავშირი">
-<!ENTITY certerror.pagetitle2  "გაფრთხილება: სახიფათოა უსაფრთხოების მხრივ">
+<!ENTITY certerror.pagetitle2  "ფრთხილად: საფრთხის შემცველია">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ეს საიტი იყენებს HTTP
 Strict Transport Security (HSTS) შეერთებას, რომ &brandShortName; მხოლოდ დაცულად
 დაუკავშირდეს. ამის გამო, შეუძლებელია მოცემული სერტიფიკატისთვის გამონაკლისის 
