@@ -101,7 +101,7 @@ search-results-help-link = సహాయం కావాలా? <a data-l10n-name
 
 ## General Section
 
-startup-header = ప్రారంభ ప్రక్రియ
+startup-header = మొదలవడం
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
@@ -464,7 +464,7 @@ sync-engine-creditcards =
     .accesskey = C
 sync-engine-addons =
     .label = పొడిగింతలు
-    .tooltiptext = Firefox డెస్క్టాప్ కోసం పొడిగింతలు మరియు అలంకారాలు  
+    .tooltiptext = Firefox డెస్క్టాప్ కోసం పొడిగింతలు మరియు అలంకారాలు
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -579,7 +579,7 @@ sitedata-accept-third-party-always-option =
 sitedata-accept-third-party-visited-option =
     .label = సందర్శించిన నాటి నుండి
 sitedata-accept-third-party-never-option =
-    .label = ఎప్పటికీకాదు
+    .label = ఎప్పటికీవద్దు
 sitedata-clear =
     .label = డేటాను తుడిచివేయి…
     .accesskey = l
@@ -620,7 +620,7 @@ content-blocking-category-label = వేటిని నిరోధించా
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = ట్రాకింగ్ మూలకాలను చూపించు
+content-blocking-fastblock-label = నెమ్మదించే ట్రాకింగ్ మూలకాలు
     .accesskey = S
 content-blocking-fastblock-description = లోడవడానికి 5 క్షణాల కంటే ఎక్కువ తీసుకునే మూడవ-పక్ష విషయాలను నిరోధిస్తుంది.
 content-blocking-fastblock-option-enabled =
@@ -692,7 +692,7 @@ permissions-block-popups-exceptions =
     .label = మినహాయింపులు…
     .accesskey = E
 permissions-addon-install-warning =
-    .label = జాలగూడులు పొడిగింతలను స్థాపించుటకు ప్రయత్నించినపుడు నిన్ను హెచ్చరించును 
+    .label = జాలగూడులు పొడిగింతలను స్థాపించుటకు ప్రయత్నించినపుడు నిన్ను హెచ్చరించును
     .accesskey = W
 permissions-addon-exceptions =
     .label = మినహాయింపులు…
@@ -740,7 +740,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = ధృవీకరణ పత్రాలు
-certs-personal-label = సెర్వెర్ మీ వ్యక్తగిత ధృవీకరణపత్రం అభ్యర్ధించినప్పుడు
+certs-personal-label = మీ వ్యక్తిగత ధృవీకరణపత్రాన్ని సర్వర్ అభ్యర్థించినప్పుడు
 certs-select-auto-option =
     .label = స్వయంచాలకంగా ఒక దానిని ఎంపికచేయి
     .accesskey = S
