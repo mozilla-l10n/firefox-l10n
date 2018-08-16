@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Ochrana proti sledování je zapnuta">
 <!ENTITY trackingProtection.off "Ochrana proti sledování je vypnuta">
+
+<!ENTITY contentBlocking.title "Blokování obsahu">
+<!ENTITY contentBlocking.detected "Na stránce byl nalezen obsah k zablokování.">
+<!ENTITY contentBlocking.notDetected "Na této stránce nebyl nalezen žádný obsah k zablokování.">
+<!ENTITY contentBlocking.disabled.label "Vypnuto">
+<!ENTITY contentBlocking.disabled.tooltip "Blokování obsahu je vypnuto.">
+<!ENTITY contentBlocking.exception.tooltip "Na této stránce jste blokování obsahu vypnuli.">
+
+<!ENTITY contentBlocking.fastBlock.label "Zpomalující sledovací prvky">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Zablokováno">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Blokovat…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Sledovací prvky">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Zablokováno">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Blokovat…">
+
 <!ENTITY trackingProtection.title "Ochrana proti sledování">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje části této stránky, které vás mohou při prohlížení sledovat.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tato stránka obsahuje prvky, které mohou sledovat vaše prohlížení. Ochranu jste zakázali.">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Na této stránce nebyly zjištěny žádné sledovací prvky. Ochranu proti sledování jste pro tento server vypnuli.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Ochrana proti sledování byla zapnuta. Pro zablokování všech sledovacích prvků obnovte tuto stránku.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Vypnout pro tento server">
 <!ENTITY trackingProtection.unblock3.accesskey "V">
+<!ENTITY trackingProtection.unblock4.label "Vypnout blokování pro tento server">
+<!ENTITY trackingProtection.unblock4.accesskey "V">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "V">
 <!ENTITY trackingProtection.block4.label "Zapnout pro tento server">
 <!ENTITY trackingProtection.block4.accesskey "Z">
+<!ENTITY trackingProtection.unblockPrivate4.label "Vypnout blokování pro tuto relaci">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "V">
+<!ENTITY trackingProtection.block5.label "Zapnout blokování pro tento server">
+<!ENTITY trackingProtection.block5.accesskey "Z">
 <!ENTITY trackingProtection.reload2.label "Obnovit stránku">
 <!ENTITY trackingProtection.reload2.accesskey "O">
 

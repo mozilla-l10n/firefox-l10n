@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Rozšířené">
 
 <!ENTITY continue1.label "Pokračovat…">
+<!ENTITY moreInformation.label "Více informací">
 
 <!-- Specific error messages -->
 
@@ -161,8 +162,8 @@ was trying to connect. -->
 <p>Pokud jste připojení do firemní sítě nebo používáte antivirový program, kontaktujte podporu vaši firmy, respektive antivirového programu. Můžete také informovat správce webové stránky.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>Čas na vašem počítači je nastaven na <span id='wrongSystemTime_systemDate'/>. Zkontrolujte prosím nastavení data, času a časové zóny v systémovém nastavení vašeho počítače a stránku <span class='hostname'/> obnovte.</p>
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Čas na vašem počítači je nastaven na <span id='wrongSystemTime_systemDate2'/>. Zkontrolujte prosím nastavení data, času a časové zóny v systémovém nastavení vašeho počítače a stránku <span class='hostname'/> obnovte.</p>
 <p>Pokud je čas nastavený správně, je pravděpodobně špatně nastaven server a tento problém bohužel nemůžete vyřešit. V tom případě o tomto problému informujte správce webové stránky.</p>
 ">
 
@@ -221,6 +222,9 @@ pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifiká
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používá technologii která je zastaralá a náchylná k útoku. Útočník může snadno získat informace, které si myslíte, že jsou zabezpečené. Správce serveru musí server opravit předtím, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Zablokovaná stránka">
+
+<!ENTITY clockSkewError.title "Datum a čas ve vašem počítači nejsou správně">
+<!ENTITY clockSkewError.longDesc "Čas ve vašem počítači je nastaven na <span id='wrongSystemTime_systemDate1'/>, což brání aplikaci &brandShortName; v bezpečném spojení. Abyste mohli stránku <span class='hostname'></span> načíst, zkontrolujte nastavení data, času a časové zóny v systémovém nastavení vašeho počítače a stránku <span class='hostname'></span> obnovte.">
 
 <!ENTITY prefReset.longDesc "Zdá se, že příčinou může být vaše nastavení zabezpečení. Chcete obnovit výchozí nastavení?">
 <!ENTITY prefReset.label "Obnovit výchozí nastavení">
