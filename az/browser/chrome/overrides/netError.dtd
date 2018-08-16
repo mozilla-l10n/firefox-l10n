@@ -112,7 +112,7 @@ was trying to connect. -->
 ">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
-<p>Kompüterinizin saatı <span id='wrongSystemTime_systemDate2'/> olaraq qurulub. Sistem tənzimləmələrində kompüterinizin tarixinin, saatının və vaxt zolağının düz qurulduğuna əmin olun, daha sonra <span class='hostname'/> ünvanını yeniləyin.</p>
+<p>Kompüterinizin saatı <span id='wrongSystemTime_systemDate2'/> olaraq qurulub. Sistem tənzimləmələrində kompüterinizin tarixinin, vaxtının və saat zolağının düz qurulduğuna əmin olun, daha sonra <span class='hostname'/> ünvanını yeniləyin.</p>
 <p>Əgər saatınız artıq düzgündürsə, ola bilsin sayt özü səhv quraşdırılıb və problemi həll edə bilməzsiz. Saytın administrasiyasına xəta ilə əlaqədər xəbər verə bilərsiz.</p>
 ">
 
@@ -162,6 +162,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Əngəllənmiş Səhifə">
 
 <!ENTITY clockSkewError.title "Kompüterinizin saatı səhvdir">
+<!ENTITY clockSkewError.longDesc "Kompüteriniz saatı <span id='wrongSystemTime_systemDate1'/> kimi fikirləşir, bu da &brandShortName; səyyahının təhlükəsiz əlaqə qurmağına mane olur. <span class='hostname'></span> saytını ziyarət etmək üçün sistem tənzimləmələrindən kompüterinizin saatını hazırki tarix, vaxt və saat zolağı ilə yeniləyin və <span class='hostname'></span> saytını təzədən yükləməyi yoxlayın.">
 
 <!ENTITY prefReset.longDesc "Şəbəkə təhlükəsizliyi tənzimləmələri buna səbəb ola bilər. Standart tənzimləməri geri yükləmək istəyirsinizmi?">
 <!ENTITY prefReset.label "Ön tənzimləmələri bərpa et">
