@@ -48,7 +48,6 @@ sentence. -->
 
 <!ENTITY messageStyleTab.title             "Štýl správ">
 <!ENTITY messageStylePreview.label         "Ukážka:">
-<!ENTITY messageStyleTheme.label           "Téma vzhľadu:">
 <!ENTITY messageStyleTheme.accesskey       "T">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
 <!ENTITY messageStyleBubblesTheme.label    "Bubliny">
