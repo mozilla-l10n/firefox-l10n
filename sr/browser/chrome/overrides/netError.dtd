@@ -165,7 +165,14 @@ was trying to connect. -->
 <p>Ако сте на пословној мрежи или користите антивирус, можете контактирати тимове за подршку и подражити од њих помоћ. Такође можете и обавестити администратора веб сајта о проблему.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Ваш сат на рачунару је постављен на <span id='wrongSystemTime_systemDate2'/>. Поставите тачан датум, време и временску зону у вашим системским подешавањима, а затим освежите <span class='hostname'/>.</p>
+<p>Ако је ваш сат већ постављен на тачно време, онда је веб сајт највероватније погрешно подешен и не можете ништа урадити поводом тога. Можете једино обавестити администратора веб сајта о проблему.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Проблем је највероватније са веб сајтом и не можете ништа урадити да га решите. Можете једино обавестити администратора веб сајта о проблему.</p>
+">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -205,10 +212,12 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; се није повезао на <span id='wrongSystemTimeWithoutReference_URL'/> јер рачунаров сат показује на погрешно време и спречава безбедно повезивање.</p> <p>Ваш рачунар је подешен на <span id='wrongSystemTimeWithoutReference_systemDate'/>. Да решите овај проблем, промените датум и време да одговарају тачном времену.</p>">
 
 <!ENTITY certerror.pagetitle1  "Несигурна веза">
+<!ENTITY certerror.pagetitle2  "Упозорење: Потенцијални безбедносни ризик">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Овај сајт користи HTTP
 Strict Transport Security (HSTS) да би одредио да се &brandShortName; на њега повезује
 само безбедно. Као резултат тога, није могуће додати изузетак за овај 
 сертификат.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> има безбедносну полису под именом HTTP Strict Transport Security (HSTS), што значи да се &brandShortName; може повезати само безбедно. Можете додати изузетак да посетите овај сајт.">
 <!ENTITY certerror.copyToClipboard.label "Копирај текст у бележницу">
 
 <!ENTITY inadequateSecurityError.title "Веза није сугурна">
