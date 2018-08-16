@@ -1073,7 +1073,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.message "Tak'exa' ri &brandShorterName; richin ri ruk'isib'al anin chuqa' ichinanem.">
 <!ENTITY updateAvailable.whatsnew.label "Titz'et achike ri k'ak'a' k'o.">
-<!ENTITY updateAvailable.header.message "Jun k'ak'a' &brandShorterName; k'esoj k'o wakami.">
+<!ENTITY updateAvailable.header.message "Wakami k'o jun k'ak'a' ruk'exoj &brandShorterName;.">
 <!ENTITY updateAvailable.acceptButton.label "Tiqasäx K'exoj">
 <!ENTITY updateAvailable.acceptButton.accesskey "T">
 <!ENTITY updateAvailable.cancelButton.label "Wakami mani">
