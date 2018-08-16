@@ -13,6 +13,7 @@
 
 <!ENTITY continue.label "Fortsæt">
 <!ENTITY continue1.label "Fortsæt…">
+<!ENTITY moreInformation.label "Mere information">
 
 <!-- Specific error messages -->
 
@@ -173,6 +174,11 @@ was trying to connect. -->
 <p>Hvis din computer allerede er indstillet til det korrekte tidspunkt, er webstedet sandsynligvis opsat forkert, og det kan du ikke selv gøre noget ved. Du kan prøve at kontakte webstedets administrator for at gøre opmærksom på problemet.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Uret i din computer er indstillet til <span id='wrongSystemTime_systemDate2'/>. Åbn din computers systemindstillinger og undersøg, om dato, tidspunkt og tidszone er indstillet rigtigt. Genindlæs derefter <span class='hostname'/>.</p>
+<p>Hvis din computer allerede er indstillet til det korrekte tidspunkt, er webstedet sandsynligvis opsat forkert, og det kan du ikke selv gøre noget ved. Du kan prøve at kontakte webstedets administrator for at gøre opmærksom på problemet.</p>
+">
+
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>Problemet skyldes højst sandsynligt webstedet, og du kan ikke selv løse problemet. Du kan prøve at kontakte webstedets administrator for at gøre opmærksom på problemet.</p>
 ">
@@ -229,6 +235,9 @@ tilføje en undtagelse for dette certifikat.">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> bruger forældet sikkerheds-teknologi, der er sårbar overfor angreb. En angriber kan derfor nemt få adgang til information, som du troede var sikker. Webstedets administrator er nødt til at løse problemerne på serveren, før du kan besøge webstedet.</p><p>Fejlkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokeret side">
+
+<!ENTITY clockSkewError.title "Uret i din computer er indstillet forkert">
+<!ENTITY clockSkewError.longDesc "Din computer tror, at <span id='wrongSystemTime_systemDate1'/> er det korrekte tidspunkt, hvilket forhindrer &brandShortName; i at oprette en sikker forbindelse. For at besøge <span class='hostname'></span> skal du gå til dine systemindstillinger og opdatere din computers ur til den korrekte dato, tidszone og det korrekte tidspunkt. Opdater derefter <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Det ser ud til, at dine indstillinger for netværkssikkerhed forårsager dette. Vil du gendanne til standard-indstillinger?">
 <!ENTITY prefReset.label "Gendan indstillinger til standard">
