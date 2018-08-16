@@ -205,6 +205,9 @@ choose-language-description = Vybrať jazyky pre zobrazovanie webových stránok
 choose-button =
     .label = Vybrať…
     .accesskey = V
+choose-browser-language-description = Vyberte si jazyk, v ktorom sa majú zobrazovať ponuky, správy a oznámenia aplikácie { -brand-short-name }.
+confirm-browser-language-change-description = Ak chcete použiť tieto zmeny, reštartujte { -brand-short-name }
+confirm-browser-language-change-button = Použiť a reštartovať
 translate-web-pages =
     .label = Prekladať webový obsah do iného jazyka
     .accesskey = r
@@ -642,8 +645,23 @@ content-blocking-toggle-label-on = ZAPNUTÉ
 content-blocking-toggle-label-off = VYPNUTÉ
     .accesskey = V
 content-blocking-category-label = Vyberte si, čo chcete blokovať
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Pomalé sledovacie prvky
+    .accesskey = P
+content-blocking-fastblock-description = Blokuje obsah tretích strán, ktorý sa načítava dlhšie než 5 sekúnd.
+content-blocking-fastblock-option-enabled =
+    .label = Vždy blokovať
+content-blocking-fastblock-option-disabled =
+    .label = Nikdy neblokovať
 content-blocking-tracking-protection-label = Sledovacie prvky
     .accesskey = S
+content-blocking-tracking-protection-description = Blokuje všetky známe sledovacie prvky (niektoré stránky sa nemusia načítať).
+content-blocking-tracking-protection-option-enabled =
+    .label = Vždy blokovať
+content-blocking-tracking-protection-option-disabled =
+    .label = Nikdy neblokovať
 content-blocking-tracking-protection-change-blocklist = Zmeniť zoznam blokovania…
 
 ## Privacy Section - Tracking
@@ -697,9 +715,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Zabrániť stránkam automaticky prehrávať médiá so zvukom
     .accesskey = Z
+permissions-block-autoplay-media-menu = Pri pokuse o automatické prehranie médií so zvukom
 permissions-block-autoplay-media-exceptions =
     .label = Výnimky…
     .accesskey = V
+autoplay-option-ask =
+    .label = sa vždy opýtať
+autoplay-option-allow =
+    .label = spustiť prehrávanie
+autoplay-option-dont =
+    .label = nič neprehrávať
 permissions-block-popups =
     .label = Blokovať nevyžiadané vyskakovacie okná
     .accesskey = B
