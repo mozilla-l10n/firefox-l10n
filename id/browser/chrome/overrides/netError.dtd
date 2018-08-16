@@ -112,7 +112,14 @@ was trying to connect. -->
 <p>Jika Anda berada di jaringan kantor atau menggunakan perangkat lunak antivirus, Anda bisa menghubungi tim dukungan untuk mendapatkan bantuan. Anda juga bisa memberi tahu administrator situs web tentang masalahnya.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Jam komputer Anda disetel ke <span id='wrongSystemTime_systemDate2'/>. Pastikan waktu komputer Anda disetel ke tanggal, jam, dan zona waktu yang benar pada pengaturan sistem Anda, lalu segarkan <span class='hostname'/>.</p>
+<p>Jika jam Anda telah disetel ke waktu yang benar, situs web mungkin salah dikonfigurasikan, dan tidak ada yang bisa Anda lakukan untuk mengatasi masalahnya. Anda bisa memberi tahu administrator situs web tentang masalahnya.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Masalahnya sangat mungkin bersumber pada situs web, dan tidak ada yang bisa Anda lakukan untuk mengatasi masalahnya. Anda bisa memberi tahu administrator sistem tentang masalahnya.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>Sementara ini mungkin situs terlalu sibuk atau tidak menyala. Cobalah beberapa saat lagi.</li> <li>Apabila Anda tidak dapat memuat laman apa pun, periksa sambungan jaringan komputer Anda.</li> <li>Apabila komputer atau jaringan Anda dilindungi firewall atau proksi, pastikan bahwa &brandShortName; diizinkan mengakses Web.</li> </ul>">
 
@@ -145,6 +152,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle1  "Sambungan Tidak Aman">
 <!ENTITY certerror.pagetitle2  "Peringatan: Potensi Risiko Keamanan Menghadang">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Situs ini menggunakan HTTP Strict Transport Security atau Keamanan Transportasi Ketat HTTP (HSTS) untuk menyatakan bahwa &brandShortName; hanya bisa tersambung secara aman. Sebagai hasilnya, tidaklah mungkin untuk menambahkan pengecualian bagi sertifikat ini.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> memiliki kebijakan keamanan yang disebut sebagai HTTP Strict Transport Security (HSTS), yang berarti &brandShortName; hanya bisa terhubung dengannya secara aman. Anda tidak bisa menambahkan pengecualian untuk mengunjungi situs.">
 <!ENTITY certerror.copyToClipboard.label "Salin teks ke papan klip">
 
 <!ENTITY inadequateSecurityError.title "Sambungan Anda tidak aman">
@@ -155,6 +163,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Laman Diblokir">
 
 <!ENTITY clockSkewError.title "Jam komputer Anda salah">
+<!ENTITY clockSkewError.longDesc "Menurut komputer Anda waktu sekarang adalah <span id='wrongSystemTime_systemDate1'/>, yang mencegah &brandShortName; terhubung dengan aman. Untuk mengunjungi <span class='hostname'></span>, perbarui jam komputer Anda di pengaturan sistem agar diatur ke tanggal, jam, dan zona waktu yang benar, lalu segarkan <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Tampaknya setelan keamanan jaringan Anda yang mungkin menyebabkan ini. Ingin setelan baku dipulihkan?">
 <!ENTITY prefReset.label "Pulihkan setelan baku">
