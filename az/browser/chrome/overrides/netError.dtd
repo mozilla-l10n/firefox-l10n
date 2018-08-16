@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Təkmilləşmiş">
 
 <!ENTITY continue1.label "Davam et…">
+<!ENTITY moreInformation.label "Daha çox məlumat">
 
 <!-- Specific error messages -->
 
@@ -110,9 +111,9 @@ was trying to connect. -->
 <p>Əgər korporativ şəbəkədəsinizsə və ya antivirus proqramı işlədirsinizsə kömək üçün dəstək komandası ilə əlaqə qura bilərsiz. Həmçinin, problemlə bağlı saytın administratoruna xəbər verə bilərsiz.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>Kompüterinizin saatı <span id='wrongSystemTime_systemDate'/> olaraq qurulub. Kompüterinizin tənzimləmələrində doğru tarix, saat və vaxt zonası seçildiyinə əmin olun, daha sonra <span class='hostname'/> ünvanını yeniləyin.</p>
-<p>Əgər saatınız artıq doğru vaxta qurulubsa, deməli, sayt özü səhv konfiqurasiya edilib və bu xətənı həll etmək üçün heç nə edə bilməzsiniz. Problemlə bağlı saytın administratoruna xəbər verə bilərsiz.</p>
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Kompüterinizin saatı <span id='wrongSystemTime_systemDate2'/> olaraq qurulub. Sistem tənzimləmələrində kompüterinizin tarixinin, saatının və vaxt zolağının düz qurulduğuna əmin olun, daha sonra <span class='hostname'/> ünvanını yeniləyin.</p>
+<p>Əgər saatınız artıq düzgündürsə, ola bilsin sayt özü səhv quraşdırılıb və problemi həll edə bilməzsiz. Saytın administrasiyasına xəta ilə əlaqədər xəbər verə bilərsiz.</p>
 ">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
@@ -159,6 +160,8 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> vaxtı keçmiş və hücumlara açıq bir texnologiyadan istifadə edir. Hücumçular etibarlı olduğunu düşündüyünüz məlumatlarınızı əldə edə bilərlər. Saytın idarəçisi problemi həll etdikdən sonra təkrar daxil ola bilərsiz.</p><p>Xəta kodu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Əngəllənmiş Səhifə">
+
+<!ENTITY clockSkewError.title "Kompüterinizin saatı səhvdir">
 
 <!ENTITY prefReset.longDesc "Şəbəkə təhlükəsizliyi tənzimləmələri buna səbəb ola bilər. Standart tənzimləməri geri yükləmək istəyirsinizmi?">
 <!ENTITY prefReset.label "Ön tənzimləmələri bərpa et">
