@@ -651,12 +651,14 @@ content-blocking-category-label = Eiporavo mba’épa ejokóta
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Mba’epuru jehekaha imbegue
     .accesskey = S
+content-blocking-fastblock-description = Ejoko tetepy mbopyguáva hi’arevéva 5 aravo’ivégui henyhẽ hag̃ua.
 content-blocking-fastblock-option-enabled =
     .label = Ejoko tapiaite
 content-blocking-fastblock-option-disabled =
     .label = Ani ejoko araka’eve
 content-blocking-tracking-protection-label = Jehekaha
     .accesskey = T
+content-blocking-tracking-protection-description = Ejoko opaite jehekaha eikuaáva (Kuaarã: Ikatu avei ojoko kuatiarogue ñemyenyhẽ).
 content-blocking-tracking-protection-option-enabled =
     .label = Ejoko tapiaite
 content-blocking-tracking-protection-option-pbm =
