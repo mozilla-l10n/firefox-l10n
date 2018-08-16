@@ -670,6 +670,16 @@
 <!ENTITY contentBlocking.trackingProtection.label "Elementi traccianti">
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Bloccati">
 <!ENTITY contentBlocking.trackingProtection.add.label "Attiva blocco…">
+<!ENTITY contentBlocking.openBreakageReportView.label "Segnala un problema">
+<!ENTITY contentBlocking.breakageReportView.label "Segnalazione problemi">
+<!ENTITY contentBlocking.breakageReportView.description "Il blocco contenuti può causare problemi in alcuni siti. Segnalando eventuali anomalie contribuisci a migliorare &brandShortName; per tutti gli utenti. Questa operazione invierà un indirizzo (URL) a Mozilla, insieme a informazioni relative alle attuali impostazioni di privacy e blocco contenuti.">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Ulteriori informazioni">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "Indirizzo">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Numero di versione di &brandShortName;">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Che tipo di problema si verifica? (facoltativo)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Invia segnalazione">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Annulla">
+
 <!ENTITY trackingProtection.title "Protezione antitracciamento">
 <!ENTITY trackingProtection.tooltip "Apri impostazioni per la protezione antitracciamento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; sta bloccando elementi della pagina in grado di tracciare la navigazione.">
