@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "ఫీడ్స్ ‌">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "సభ్యత్వం పొందండి">
-<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "అనుమతులు">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "అప్రమేయాన్ని వాడు">
-<!ENTITY  permAskAlways         "ఎల్లప్పుడు అడుగు">
-<!ENTITY  permAllow             "అనుమతించు">
-<!ENTITY  permAllowSession      "ఈ సెషన్‌కు అనుమతించు">
-<!ENTITY  permHide              "దాచు">
-<!ENTITY  permBlock             "నిరోధించు">
 <!ENTITY  permissionsFor        "దీనికొరకు అనుమతులు:">
-<!ENTITY  permPlugins           "ప్లగిన్ లను క్రియాశీలపరచు">
 
 <!ENTITY  securityTab           "రక్షణ">
 <!ENTITY  securityTab.accesskey "S">
@@ -73,11 +64,8 @@
 <!ENTITY  securityView.identity.verifier "దీనిద్వారా నిర్ధారించబడింది:">
 <!ENTITY  securityView.identity.validity "ఇంతలో గడువుతీరును:">
 
-<!ENTITY  securityView.privacy.header                   "గోప్యత మరియు చరిత్ర">
+<!ENTITY  securityView.privacy.header                   "అంతరంగికత &amp; చరిత్ర">
 <!ENTITY  securityView.privacy.history                  "ఈ రోజుకు ముందు నేను ఈ వెబ్ సైటును దర్శించానా?">
-<!ENTITY  securityView.privacy.cookies                  "ఈ వెబ్‌సైటు నా కంప్యూటర్లో సమాచారాన్ని (కుకీలను) నిల్వచేస్తోందా?">
-<!ENTITY  securityView.privacy.viewCookies              "కుకీలను చూడండి">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.siteData                 "ఈ వెబ్‌సైటు సమాచారాన్ని నా కంప్యూటరులో నిల్వవుంచుతోందా?">
 <!ENTITY  securityView.privacy.clearSiteData            "కుకీలను, సైటు దత్తాంశాన్నీ తుడిచివేయి">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">

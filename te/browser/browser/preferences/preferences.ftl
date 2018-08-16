@@ -173,7 +173,7 @@ containers-remove-cancel-button = ఈ కంటెయినరును తొ�
 
 ## General Section - Language & Appearance
 
-language-and-appearance-header = భాష మరియు రూపురేఖలు
+language-and-appearance-header = భాష, రూపురేఖలు
 fonts-and-colors-header = ఫాంట్స్ & రంగులు
 default-font = అప్రమేయ ఫాంటు
     .accesskey = D
@@ -463,8 +463,8 @@ sync-engine-creditcards =
     .tooltiptext = పేర్లూ, నెంబర్లూ, కాల పరిమితి తేదీలు (డెస్క్‌టాపులో మాత్రమే)
     .accesskey = C
 sync-engine-addons =
-    .label = పొడిగింతలు
-    .tooltiptext = Firefox డెస్క్టాప్ కోసం పొడిగింతలు మరియు అలంకారాలు
+    .label = పొడగింతలు
+    .tooltiptext = డెస్కుటాప్ Firefox కోసం పొడగింతలు, అలంకారాలు
     .accesskey = A
 sync-engine-prefs =
     .label =
@@ -557,7 +557,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = కుకీలు మరియు సైటు డేటా
+sitedata-header = కుకీలు, సైటు డేటా
 sitedata-total-size-calculating = సైటు దత్తాంశం, కాషెల పరిమాణాన్ని లెక్కిస్తున్నాం…
 sitedata-learn-more = మరింత తెలుసుకోండి
 sitedata-accept-cookies-option =
@@ -701,7 +701,7 @@ permissions-a11y-privacy-link = ఇంకా తెలుసుకోండి
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } డేటా సేకరణ మరియు ఉపయోగం
+collection-header = { -brand-short-name } డేటా సేకరణ, వాడుక
 collection-privacy-notice = గోప్యతా విధానం
 collection-health-report =
     .label = సాంకేతిక, ఇంటరాక్షన్ డేటాను { -vendor-short-name }‌కి పంపించుటకు { -brand-short-name }‌ని అనుమతించు
@@ -726,6 +726,7 @@ collection-backlogged-crash-reports-link = ఇంకా తెలుసుకో
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = భద్రత
+security-browsing-protection = మోసపూరిత జాల విషయం, ప్రమాదకరమైన సాఫ్ట్‌వేరు నుండి రక్షణ
 security-enable-safe-browsing =
     .label = ప్రమాదకరమైన, మోసపూరిత కంటెంటును నిరోధించు
     .accesskey = B

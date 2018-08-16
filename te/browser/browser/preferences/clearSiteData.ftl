@@ -22,7 +22,7 @@ clear-site-data-cookies-with-data =
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = కుకీలు మరియు సైటు దత్తాంశం
+    .label = కుకీలు, సైటు దత్తాంశం
     .accesskey = S
 clear-site-data-cookies-info = దీన్ని తుడిచివేస్తే వెబ్‌సైట్ల నుండి మీరు సైన్ అయిట్ అవ్వవచ్చు
 # The parameters in parentheses in this string describe disk usage

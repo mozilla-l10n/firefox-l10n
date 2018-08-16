@@ -34,7 +34,7 @@
 
 <!ENTITY noMigrationSources.label       "ఇష్టాంశములు, చరిత్ర లేదా సంకేతపద డాటాను కలిగివున్న ప్రొగ్రాము కనుగొనబడలేదు.">
 
-<!ENTITY importSource.title             "డాటాను మరియు అమరికలను దిగుమతిచేయి">
+<!ENTITY importSource.title             "డేటాను, అమరికలను దిగుమతిచేయి">
 <!ENTITY importItems.title              "దిగుమతి కావడానికి అంశములు">
 <!ENTITY importItems.label              "ఏయే అంశాలు దిగుమతి కావాలో ఎంచుకోండి:">
 
