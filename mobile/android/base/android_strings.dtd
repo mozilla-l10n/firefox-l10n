@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Аутоматска репродукција">
 <!ENTITY pref_media_autoplay_enabled_summary "Контролишите да ли веб сајтови могу да аутоматски репродукују видео или други медијски садржај">
+<!ENTITY pref_media_autoplay_allow "Аутоматска репродукција">
+<!ENTITY pref_media_autoplay_block "Блокирај аутоматску репродукцију">
 <!ENTITY pref_zoom_force_enabled "Увек увеличај">
 <!ENTITY pref_zoom_force_enabled_summary "Форсирај могућност увеличавања било које странице">
 <!ENTITY pref_voice_input "Говорни унос">
@@ -903,3 +905,8 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Наставите пуштање">
 <!ENTITY pip_pause_button_title "Паузирај">
 <!ENTITY pip_pause_button_description "Паузирајте пуштање">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; Сервис за локацију">
+<!ENTITY download_notification_channel "Преузимања">
