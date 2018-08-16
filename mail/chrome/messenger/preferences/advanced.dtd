@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Povoliť globálne vyhľadávanie a indexovanie správ">
 <!ENTITY enableGlodaSearch.accesskey   "o">
 <!ENTITY dateTimeFormatting.label      "Formát dátumu a času">
+<!ENTITY languageSelector.label        "Jazyk">
 <!ENTITY allowHWAccel.label            "Použiť hardvérové urýchľovanie (ak je dostupné)">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Spôsob ukladania správ pre nové účty:">
