@@ -24,6 +24,7 @@
 <!-- Below are new strings for the revised new calendar dialog. The above strings should be
     removed/renamed later on -->
 
+<!ENTITY sourcetabs.other.label  "Lainnya">
 
 <!ENTITY buttons.create.label "Buat Kalender">
 
