@@ -9,7 +9,7 @@
 <!ENTITY previous.tooltip "Find the previous occurrence of the phrase">
 <!ENTITY findCloseButton.tooltip "Close Find bar">
 <!ENTITY highlightAll.label "Highlight All">
-<!ENTITY highlightAll.accesskey "A">
+<!ENTITY highlightAll.accesskey "l">
 <!ENTITY highlightAll.tooltiptext "Highlight all occurrences of the phrase">
 <!ENTITY caseSensitive.label "Match Case">
 <!ENTITY caseSensitive.accesskey "c">
