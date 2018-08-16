@@ -153,11 +153,19 @@ advanced-fonts =
 colors-settings =
     .label = Kolory…
     .accesskey = K
+
 language-header = Język
+choose-browser-language-description=Wybierz język używany do wyświetlania interfejsu użytkownika programu (menu, wiadomości, powiadomienia itp.).
+confirm-browser-language-change-description=Uruchom przeglądarkę ponownie, aby zastosować zmiany.
+confirm-browser-language-change-button=Uruchom ponownie
 choose-language-description = Wybierz preferowany język, w jakim mają być wyświetlane strony
 choose-button =
     .label = Wybierz…
     .accesskey = e
+check-user-spelling=
+  .label=Sprawdzanie pisowni podczas wprowadzania tekstu
+  .accesskey=S
+
 translate-web-pages =
     .label = Tłumaczenie stron WWW
     .accesskey = T
@@ -165,10 +173,6 @@ translate-attribution = Tłumaczeń dostarcza <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Wyjątki…
     .accesskey = i
-
-check-user-spelling=
-  .label=Sprawdzanie pisowni podczas wprowadzania tekstu
-  .accesskey=S
 
 files-and-applications-title = Pliki i aplikacje
 download-header = Pobieranie
