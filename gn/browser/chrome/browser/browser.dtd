@@ -946,8 +946,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Jeheka mo’ãha: MYANDYPYRE">
 <!ENTITY trackingProtection.off "Jeheka mo’ãha: MBOGUEPYRE">
 
+<!ENTITY contentBlocking.title "Tetepy jejoko">
+<!ENTITY contentBlocking.detected "Ojejuhu ko tendápe tetepy ojejokokuaáva.">
+<!ENTITY contentBlocking.notDetected "Ndojejuhúi ko tendápe tetepy ojejokokuaáva.">
 <!ENTITY contentBlocking.disabled.label "Pe'apyre">
+<!ENTITY contentBlocking.disabled.tooltip "Eipe’áma tetepy jejoko">
+<!ENTITY contentBlocking.exception.tooltip "Eipe’áma tetepy jejoko ko tendápe g̃uarã.">
 
+<!ENTITY contentBlocking.fastBlock.label "Jehakaha henyhẽ mbeguéva">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -1004,6 +1010,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Eipe'aite ko tendágui">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Eipe’a jejoko ko tendápe g̃uarã">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -1012,7 +1019,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Embojuruja ko tendápe g̃uarã">
 <!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.label "Eipe’a jejoko sapy’agua">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Emyandy jejoko ko tendápe g̃uarã">
 <!ENTITY trackingProtection.block5.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "Kuatiarogue myenyhẽjey">
 <!ENTITY trackingProtection.reload2.accesskey "R">

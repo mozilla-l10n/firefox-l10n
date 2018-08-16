@@ -659,6 +659,9 @@ content-blocking-tracking-protection-label = Jehekaha
     .accesskey = T
 content-blocking-tracking-protection-option-enabled =
     .label = Ejoko tapiaite
+content-blocking-tracking-protection-option-disabled =
+    .label = Ani ejoko araka’eve
+content-blocking-tracking-protection-change-blocklist = Emoambue jejokoha rysýi...
 
 ## Privacy Section - Tracking
 
