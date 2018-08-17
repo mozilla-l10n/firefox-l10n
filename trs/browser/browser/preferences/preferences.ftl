@@ -421,6 +421,13 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = Ganikaj web ga'ant
+sync-signedout-description = Gi'iaj sun ma 'ngà markador, riña sa gaché nu't, da'ngà huìi riña da'ua si aga't.
+sync-signedout-account-title = Gatu' 'ngà { -fxaccount-brand-name }
+sync-signedout-account-create = Nitaj si taj si yugui ra'. Gayi'ì aj
+    .accesskey = c
+sync-signedout-account-signin =
+    .label = Gayi'i sesión
+    .accesskey = I
 
 ## Sync Section - Signed in
 
