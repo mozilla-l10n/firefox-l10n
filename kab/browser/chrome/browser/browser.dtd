@@ -948,6 +948,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.title "Asewḥel n ugbur">
 <!ENTITY contentBlocking.disabled.label "Arurmid">
+<!ENTITY contentBlocking.disabled.tooltip "Nsens asewḥel n ugbur.">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
