@@ -789,6 +789,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Eginda">
 <!ENTITY editBookmark.removeBookmark.accessKey       "K">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "Erakutsi editorea gordetzean">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "E">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -939,6 +941,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Jarraipenaren babesa: piztuta">
 <!ENTITY trackingProtection.off "Jarraipenaren babesa: itzalita">
+
+<!ENTITY contentBlocking.title "Edukia blokeatzea">
+<!ENTITY contentBlocking.disabled.label "Desgaituta">
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!ENTITY trackingProtection.title "Jarraipenaren babesa">
 <!ENTITY trackingProtection.detectedBlocked3 "Zure nabigazioaren jarraipena egin lezaketen orriaren zatiak blokeatzen ari da &brandShortName;.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Gune honek zure nabigazioaren jarraipena egin lezaketen zatiak ditu. Babesa desgaituta daukazu.">
@@ -964,6 +990,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Ez da jarraipeneko elementurik atzeman orri honetan. Babesa desgaituta daukazu orri honetarako.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Jarraipenaren babesa gaituta daukazu. Berritu orria elementu guztiak blokeatzeko.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
