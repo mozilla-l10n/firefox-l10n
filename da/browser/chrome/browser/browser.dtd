@@ -977,8 +977,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.off "Beskyttelse mod sporing: FRA">
 
 <!ENTITY contentBlocking.title "Blokering af indhold">
-<!ENTITY contentBlocking.detected "Indhold, som kan blokeres, opdaget på siden.">
-<!ENTITY contentBlocking.notDetected "Intet indhold, som kan blokeres, opdaget på siden.">
+<!ENTITY contentBlocking.detected "Siden indeholder sporingselementer, der kan blokeres.">
+<!ENTITY contentBlocking.notDetected "Der blev ikke fundet sporingselementer på siden.">
 <!ENTITY contentBlocking.disabled.label "Deaktiveret">
 <!ENTITY contentBlocking.disabled.tooltip "Du har deaktiveret blokering af indhold.">
 <!ENTITY contentBlocking.exception.tooltip "Du har deaktiveret blokering af indhold for dette websted.">
