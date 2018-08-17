@@ -964,6 +964,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Ajouter un blocage…">
 
 <!ENTITY contentBlocking.trackingProtection.label "Traqueurs">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
@@ -976,6 +977,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Ajouter un blocage…">
 
 <!ENTITY trackingProtection.title "Protection contre le pistage">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a bloqué des éléments de la page qui peuvent pister votre navigation.">
@@ -1018,6 +1020,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block4.accesskey "A">
 <!ENTITY trackingProtection.unblockPrivate4.label "Désactiver temporairement le blocage">
 <!ENTITY trackingProtection.block5.label "Activer le blocage pour ce site">
+<!ENTITY trackingProtection.block5.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Actualiser la page">
 <!ENTITY trackingProtection.reload2.accesskey "c">
 

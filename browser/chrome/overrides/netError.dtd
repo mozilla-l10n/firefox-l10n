@@ -150,6 +150,8 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Le problème vient probablement du site web, donc vous ne pouvez pas y remédier.</p><p>Si vous naviguez sur un réseau d’entreprise ou si vous utilisez un antivirus, vous pouvez contacter les équipes d’assistance pour obtenir de l’aide. Vous pouvez également signaler le problème aux personnes qui administrent le site web.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>L’horloge de votre ordinateur est réglée sur <span id='wrongSystemTime_systemDate2'/>. Assurez-vous que la date, l’heure et le fuseau horaire soient corrects dans les paramètres système de votre ordinateur, puis actualisez <span class='hostname'/>.</p>
+<p>Si votre horloge est déjà bien réglée, le site web est probablement mal configuré et il n'y a rien que vous puissiez faire pour résoudre le problème. Essayez éventuellement de le signaler à l’administrateur du site.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Le problème vient probablement du site web, vous ne pouvez donc pas y remédier. Vous pouvez le signaler aux personnes qui administrent le site.</p>">
 
