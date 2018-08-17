@@ -656,6 +656,8 @@ content-blocking-tracking-protection-option-enabled =
     .label = Sewḥal yal tikelt
 content-blocking-tracking-protection-option-pbm =
     .label = Sewḥel deg usfaylu uslig kan
+content-blocking-tracking-protection-option-disabled =
+    .label = Werǧin ad teswaḥleḍ
 content-blocking-tracking-protection-change-blocklist = Snifel tabdart n usewḥel…
 
 ## Privacy Section - Tracking
@@ -717,6 +719,8 @@ autoplay-option-ask =
     .label = Seqsay yal tikelt
 autoplay-option-allow =
     .label = Sreg taɣuri tawurmant
+autoplay-option-dont =
+    .label = Ur tturar ara s wudem awurman
 permissions-block-popups =
     .label = Sewḥel isfuyla udhimen
     .accesskey = S

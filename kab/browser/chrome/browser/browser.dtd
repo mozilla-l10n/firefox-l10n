@@ -318,6 +318,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devtoolsRecordExecution.label "Sekles Aselkem">
 <!ENTITY devtoolsSaveRecording.label "Sekles ikalasen">
+<!ENTITY devtoolsReplayExecution.label "Ales aselkem">
 
 <!ENTITY inspectContextMenu.label     "Sweḍ aferdis">
 <!ENTITY inspectContextMenu.accesskey "S">
@@ -944,6 +945,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Ammesten mgal asfuɣel: IRMED">
 <!ENTITY trackingProtection.off "Ammesten mgal asfuɣel: OFF">
+
+<!ENTITY contentBlocking.title "Asewḥel n ugbur">
+<!ENTITY contentBlocking.disabled.label "Arurmid">
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Iwḥel">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!ENTITY contentBlocking.trackingProtection.label "Ineḍfaren">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Iwḥel">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!ENTITY trackingProtection.title "Ammesten mgal asfuɣel">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; issewḥel kra n yiḥricen n usebter izemren ad sfuɣlen tunigin-ik.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Asmel-a igber iferdisen i izemren ad sfuɣlen tunigin-ik. Tekkseḍ ammesten.">
@@ -969,11 +997,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Ulac ineḍfaren ittwafen deg usebter-agi. Tsenseḍ ammesten i usmel-a.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Treremdeḍ ammesten n usfuɣel. Ales tulya n usebter akken ad tsewaḥleḍ akk ineḍfaren.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Sens i usmel-agi">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Sens asewḥel i usmel-agi">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -981,6 +1011,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Rmed i usmel-agi">
 <!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.block5.label "Rmed asewḥel i usmel-agi">
 <!ENTITY trackingProtection.reload2.label "Smiren asebter">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
