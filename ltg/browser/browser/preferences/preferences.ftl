@@ -205,6 +205,9 @@ choose-language-description = Izavielit vālamū volūdu, kaidā attāluot lopys
 choose-button =
     .label = Izavieleit...
     .accesskey = v
+choose-browser-language-description = Izavielej volūdu izvielnem, paziņojumim un atgōdynojumim nu { -brand-short-name }.
+confirm-browser-language-change-description = Porstarteit { -brand-short-name }, kab pīlītōt izmaiņas
+confirm-browser-language-change-button = Pīlītōt un porstarteit
 translate-web-pages =
     .label = Tulkōt škārsteikla saturu
     .accesskey = T
@@ -630,6 +633,44 @@ addressbar-locbar-openpage-option =
     .accesskey = t
 addressbar-suggestions-settings = Izmainit mekleituoju īstatiejumus
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Satura bloķiešona
+content-blocking-desc = Bloķej trešū pušu saturu, taidu kai reklamas voi kods, kuri var palānynōt lopu īlōdi un izsekōt tevi internetā. Īstoti sovus īstatiejumus, kab drūšeoba harmonietu ar ōtrdarbeibu.
+content-blocking-learn-more = Vaira
+content-blocking-restore-defaults =
+    .label = Atjaunōt iz nūkluseitū
+    .accesskey = A
+content-blocking-toggle-on =
+    .tooltiptext = Izslēgt satura bloķiešonu
+content-blocking-toggle-off =
+    .tooltiptext = Īslēgt satura bloķiešonu
+content-blocking-toggle-label-on = Īsl.
+    .accesskey = Ī
+content-blocking-toggle-label-off = Izsl.
+    .accesskey = I
+content-blocking-category-label = Izavielej, kū bloķēt
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Lānī izsekōšonys elementi
+    .accesskey = L
+content-blocking-fastblock-description = Bloķej tū trešū pušu saturu, kurais īzalōdej ilgōk kai 5 sek.
+content-blocking-fastblock-option-enabled =
+    .label = Vysod bloķēt
+content-blocking-fastblock-option-disabled =
+    .label = Nikod nabloķēt
+content-blocking-tracking-protection-label = Pāddzini (Trackers)
+    .accesskey = P
+content-blocking-tracking-protection-description = Bloķej vysus zynomūs pāddziņus (Īvāroj: Var byut lopys, kuras var naīzalōdēt)
+content-blocking-tracking-protection-option-enabled =
+    .label = Vysod bloķēt
+content-blocking-tracking-protection-option-pbm =
+    .label = Bloķēt viņ privātujūs lūgūs
+content-blocking-tracking-protection-option-disabled =
+    .label = Nikod nabloķēt
+content-blocking-tracking-protection-change-blocklist = Maineit bbloķiešonys sarokstu
+
 ## Privacy Section - Tracking
 
 tracking-header = Izsekuošonys aizsardzeiba
@@ -678,6 +719,15 @@ permissions-notification-link = Uzzynojit vairuok
 permissions-notification-pause =
     .label = Narōdēt paziņojumus cikam { -brand-short-name } porzastartēs
     .accesskey = p
+permissions-block-autoplay-media =
+    .label = Naļaut lopom automatiski atskaņōt saturu
+    .accesskey = N
+permissions-block-autoplay-media-menu = Lopom, kuras automatiski atskaņoj skaņu
+permissions-block-autoplay-media-exceptions =
+    .label = Izjāmumi...
+    .accesskey = I
+autoplay-option-ask =
+    .label = Vysod prasēt
 permissions-block-popups =
     .label = Blokeit jaunūs lūgus
     .accesskey = B
