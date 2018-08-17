@@ -951,7 +951,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Ulac agbur izemren ad ittusewḥel i ittwafen deg usebter-agi.">
 <!ENTITY contentBlocking.disabled.label "Arurmid">
 <!ENTITY contentBlocking.disabled.tooltip "Nsens asewḥel n ugbur.">
+<!ENTITY contentBlocking.exception.tooltip "Tsenseḍ asewḥel n ugbur i usmel-agi.">
 
+<!ENTITY contentBlocking.fastBlock.label "Ineḍfaren isaẓẓayen asali">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is

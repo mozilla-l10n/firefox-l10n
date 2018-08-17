@@ -633,6 +633,7 @@ addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Asewḥel n ugbur
+content-blocking-desc = Sewḥel Agbur n tɣawsiwin tis kraḍ, am udellel neɣ tangalt, isaẓayen timing-inek, i k-iṭṭafaren deg web. Sagen iɣewwaren-inek i tunigin ifazen deg taɣellist.
 content-blocking-learn-more = Issin ugar
 content-blocking-restore-defaults =
     .label = Err-d imezwar
@@ -651,6 +652,7 @@ content-blocking-category-label = Fren ayen ad tesweḥleḍ
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Sɛeṭṭel iferdisen n uḍfar
     .accesskey = S
+content-blocking-fastblock-description = Sewḥel agbur wis kraḍ ittawin ugar n 5 n tsenatin i tulya.
 content-blocking-fastblock-option-enabled =
     .label = Sewḥel yal tikelt
 content-blocking-fastblock-option-disabled =

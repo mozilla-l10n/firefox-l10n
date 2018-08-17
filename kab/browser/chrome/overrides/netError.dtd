@@ -102,6 +102,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Imawlan n <span class='hostname'/> ur sewlen ara akken iwata asmel-nsen.  Iwakken ad tettummesten telɣut-inek seg takwerḍa, &brandShortName; ur yeqqin ara ɣeṛ usmel-a web.">
 
+<!ENTITY certerror.introPara1 "&brandShortName; yufa-d kra ugur n tɣellist ihi ur ittkemil ara ɣer <span class='hostname'/>. Ma terziḍ ɣer usmel-agi, ineḍfaren zemren ad ɛerḍen ad akren talɣut am wawal-ik uffir, imaylen, neɣ takarḍa-inek n usellek.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "D acu i tzemreḍ ad txedmeḍ i waya?">
@@ -138,6 +139,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ur yeqqin ara ɣer <span id='wrongSystemTimeWithoutReference_URL'/> acku tamrilt n uselkim-inek tesken-d akud arameɣtu u tuqqna-agi d taɣelsant.</p> <p>aselkim-inek ittwasbadu ɣer <span id='wrongSystemTimeWithoutReference_systemDate'/>, akken ad yefru ugur-agi senfel iɣewwaṛen n uzemz d wakud akken ad imṣaḍa d wakud amaɣtu.</p>">
 
 <!ENTITY certerror.pagetitle1  "Tuqqna taraɣelsant">
+<!ENTITY certerror.pagetitle2  "Ɣur-k: izmer ad yili ugur n teɣlist">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Asmel-agi iseqdac HTTP n tɣellist n umesni ufrin (HSTS) iwakken ad yebgen i &brandShortName; akken ad yeqqen kan s tɣeliist. Ihi, d awezɣi timerna n tsureft i uselkin-agi.">
 <!ENTITY certerror.copyToClipboard.label "Nɣel aḍris ɣef affus">
 
