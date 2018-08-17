@@ -223,7 +223,7 @@
 <!ENTITY pref_remember_signons2 "પ્રવેશો યાદ રાખો">
 <!ENTITY pref_manage_logins "લૉગિન સંચાલન કરો">
 
-<!ENTITY pref_category_home "ઘર">
+<!ENTITY pref_category_home "મુખ્ય પાનું">
 <!ENTITY pref_category_home_summary "તમારું ઘરપાનું વૈવિધ્યપૂર્ણ બનાવો">
 <!ENTITY pref_category_home_panels "પેનલો">
 <!ENTITY pref_category_home_add_ons "એડ-ઓન">
@@ -906,3 +906,4 @@ Picture-in-picture mini window -->
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "&vendorShortName; સ્થાન સેવા">
+<!ENTITY download_notification_channel "ડાઉનલોડ">
