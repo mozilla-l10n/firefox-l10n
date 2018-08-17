@@ -532,14 +532,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "Hae palvelusta ">
+<!ENTITY search.label                 "Hae hakukoneella ">
 <!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "Hae palvelusta:">
+<!ENTITY searchWithHeader.label       "Hae hakukoneella:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Seurannan suojaus: PÄÄLLÄ">
 <!ENTITY trackingProtection.off "Seurannan suojaus: POIS PÄÄLTÄ">
+
+<!ENTITY contentBlocking.title "Sisällön esto">
+<!ENTITY contentBlocking.detected "Havaittiin estettävää sisältöä tällä sivustolla.">
+<!ENTITY contentBlocking.notDetected "Ei havaittu estettävää sisältöä tällä sivustolla.">
+<!ENTITY contentBlocking.disabled.label "Ei käytössä">
+<!ENTITY contentBlocking.disabled.tooltip "Olet poistanut sisällön eston käytöstä.">
+<!ENTITY contentBlocking.exception.tooltip "Olet poistanut sisällön estön käytöstä tältä sivustolta.">
+
+<!ENTITY contentBlocking.fastBlock.label "Hitaasti latautuvat seuraimet">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Estetty">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Lisää esto…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Seuraimet">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Estetty">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Lisää esto…">
+
 <!ENTITY trackingProtection.title "Seurannan suojaus">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; estää sivusta osia, jotka saattavat seurata selaamistasi.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Sivusto sisältää osia, jotka saattavat seurata sinua. Seurannan suojaus on pois päältä.">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Tällä sivulla ei havaittu seurantaelementtejä. Olet poistanut seurannan suojauksen käytöstä tältä sivustolta.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Olet ottanut seurannan suojauksen käyttöön. Estä kaikki selauksen seuraimet lataamalla tämä sivu uudelleen.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Poista käytöstä tältä sivustolta">
 <!ENTITY trackingProtection.unblock3.accesskey "P">
+<!ENTITY trackingProtection.unblock4.label "Poista esto käytöstä tältä sivustolta">
+<!ENTITY trackingProtection.unblock4.accesskey "P">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "i">
 <!ENTITY trackingProtection.block4.label "Ota käyttöön tälle sivustolle">
 <!ENTITY trackingProtection.block4.accesskey "O">
+<!ENTITY trackingProtection.unblockPrivate4.label "Poista esto käytöstä väliaikaisesti">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "P">
+<!ENTITY trackingProtection.block5.label "Ota esto käyttöön tälle sivustolle">
+<!ENTITY trackingProtection.block5.accesskey "O">
 <!ENTITY trackingProtection.reload2.label "Lataa sivu uudelleen">
 <!ENTITY trackingProtection.reload2.accesskey "L">
 
