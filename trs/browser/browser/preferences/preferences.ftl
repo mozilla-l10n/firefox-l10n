@@ -428,25 +428,73 @@ sync-signedout-account-create = Nitaj si taj si yugui ra'. Gayi'ì aj
 sync-signedout-account-signin =
     .label = Gayi'i sesión
     .accesskey = I
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Naduni' Firefox guenda <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> guenda <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> da' gi'iaj sun ma 'ngà si agat.
 
 ## Sync Section - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Nadunā ña du'uat
+sync-disconnect =
+    .label = Gahui'...
+    .accesskey = D
 sync-manage-account = Dugumi' Kuenda
     .accesskey = D
+sync-signedin-unverified = { $email } se sa ni'in huin ma.
+sync-signedin-login-failure = Gayi'ī sesión da' gatu ñut { $email }
+sync-resend-verification =
+    .label = Ga'nin' ga'anj ñun ma
+    .accesskey = d
+sync-remove-account =
+    .label = dure' kuenta
+    .accesskey = R
 sync-sign-in =
     .label = Gayi'i sesión
     .accesskey = G
 sync-signedin-settings-header = Nagi'iô' daj huin ruhuô' Sync
+sync-signedin-settings-desc = Ganahui ahuin si gi'iaj sun 'ngà aga' rajsun { -brand-short-name }
 sync-engine-bookmarks =
     .label = Sa raj sun nichrò' doj
     .accesskey = S
 sync-engine-history =
     .label = Sa gini’iājt
     .accesskey = S
+sync-engine-tabs =
+    .label = Na'nïn rakïj ñanj
+    .tooltiptext = Nej na hua ni'nïnj riña si agat
+    .accesskey = t
 sync-engine-logins =
     .label = Nej riña ayi'ì' sesión
     .tooltiptext = Gara sun nej da'nga 'ngà nun sa'
     .accesskey = L
+sync-engine-addresses =
+    .label = Hiuj gun'
+    .tooltiptext = nej sa nū sa' (desktop only)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Tarjeta yikín
+    .tooltiptext = Si yuguit' da'nga' ni dama nahuij ma (ma guenda eskritorio)
+    .accesskey = C
+sync-engine-addons =
+    .label = Sa ga'ue nutò'
+    .tooltiptext = Nej sa nuto' guenda Firefox escritório
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Sa nahui'
+           *[other] Sa arajsunt doj
+        }
+    .tooltiptext = Daj sugumi' nej sa rajsun'
+    .accesskey = s
+sync-device-name-header = Si yugui aga'a
 sync-device-name-save =
     .label = Na'nïnj sà'
     .accesskey = N
