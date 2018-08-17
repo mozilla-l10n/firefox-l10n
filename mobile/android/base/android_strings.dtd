@@ -373,6 +373,7 @@
 <!ENTITY pref_media_autoplay_enabled "নিজে থেকে চালু হওয়ার অনুমতি দিন">
 <!ENTITY pref_media_autoplay_enabled_summary "ওয়েবসাইট ভিডিও এবং অন্যান্য মিডিয়া স্বয়ংক্রিয়ভাবে চালাবে কিনা তা নিয়ন্ত্রণ করুন">
 <!ENTITY pref_media_autoplay_allow "নিজে থেকে চালু হওয়ার অনুমতি দিন">
+<!ENTITY pref_media_autoplay_block "অটোপ্লে ব্লক করুন">
 <!ENTITY pref_zoom_force_enabled "সর্বদা জুম সক্রিয় রাখুন">
 <!ENTITY pref_zoom_force_enabled_summary "জোর করে ওভাররাইড করুন যাতে আপনি সমস্ত পাতা জুম করতে পারেন">
 <!ENTITY pref_voice_input "ভয়েস ইনপুট">
@@ -451,6 +452,7 @@
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; লোকেশন সেবা চলছে">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -896,5 +898,12 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 
 <!-- Used by accessibility services to identify the play/pause buttons shown in the
 Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "প্লে">
+<!ENTITY pip_play_button_description "আবার চালু করুন">
+<!ENTITY pip_pause_button_title "বিরতি">
+<!ENTITY pip_pause_button_description "চালানো বন্ধ কর">
 
 <!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; লোকেশন সার্ভিস">
+<!ENTITY download_notification_channel "ডাউনলোডসমূহ">
