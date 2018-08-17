@@ -150,6 +150,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Kuatiarogue jokopyre">
 
 <!ENTITY clockSkewError.title "Aravopapaha mohendaha rehegua oĩvai">
+<!ENTITY clockSkewError.longDesc "Ne mohendaha oimo’ã ha’eha <span id='wrongSystemTime_systemDate1'/>, oñemotenondéva &brandShortName; rehe eikekatu hag̃ua. Eike hag̃ua <span class='hostname'></span>, embohekopyahu ne mohendaha aravo, arange ha aravo rendaguasu ag̃agua, ha upéi emyenyhẽjey <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Ne ñemboheko ñanduti rekorosãrã rehegua ikatu hína ojapo kóva. Emoĩporãsépa ñemboheko ijypyguáva rupi?">
 <!ENTITY prefReset.label "Embojevy ñemboheko ijypykuépe">
