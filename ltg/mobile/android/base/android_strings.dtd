@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Search or enter address">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Izmontoj QR kodu laseitōji, kab mekleit voi īvadēt adresi">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Izmontoj mikrofonu, kab mekleit voi īvadēt adresi">
+
 <!ENTITY bookmark "Bookmark">
 <!ENTITY bookmark_remove "Remove bookmark">
 <!ENTITY bookmark_added "Bookmark added">
@@ -207,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "Restore tabs, data saver, developer tools">
 <!ENTITY pref_category_notifications "Notifications">
 <!ENTITY pref_category_notifications_summary "New features, website updates">
+<!ENTITY pref_category_notifications_summary2 "Jaunas īspiejas, produkta padūmi">
 <!ENTITY pref_developer_remotedebugging_usb "Remote debugging via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi debugging requires your device to have a QR code reader app installed.">
@@ -282,6 +292,13 @@
 <!ENTITY pref_whats_new_notification "What\&apos;s new in &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Learn about new features after an update">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Produkta un īspieju padūmi">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Uzzynoj vaira par &brandShortName; un &vendorShortName; produktu izmontōšanu">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Experimental features">
@@ -355,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Allow autoplay">
 <!ENTITY pref_media_autoplay_enabled_summary "Control if websites can autoplay videos and other media content">
+<!ENTITY pref_media_autoplay_allow "Atļaut automatisku atskaņōšonu">
+<!ENTITY pref_media_autoplay_block "Aizlīgt automatisku atskaņōšonu">
 <!ENTITY pref_zoom_force_enabled "Always enable zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Force override so you can zoom any page">
 <!ENTITY pref_voice_input "Voice input">
@@ -422,7 +441,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
 <!ENTITY datareporting_fhr_summary2 "Shares data with &vendorShortName; about your browser health and helps you understand your browser performance">
-<!ENTITY datareporting_abouthr_title "View my Health Report">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
@@ -431,6 +449,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Location Service">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Help &vendorShortName; map the world! Share the approximate Wi-Fi and cellular location of your device to improve our geolocation service.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Location service reiks palaists">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -537,7 +560,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Arrange tabs in two columns in portrait mode">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Page removed">
 <!ENTITY folder_removed "Mape ir izdzāsta">
@@ -755,7 +778,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Last synced: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Last synced: never">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -875,3 +898,15 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Pīvīnōt Sātys ekranam">
 <!ENTITY pwa_continue_to_website "Īt uz lopu">
 <!ENTITY pwa_onboarding_sumo "Tu vīgļi vari daspraust itū lopu Sōkuma ekranam, kab byutu ārta pīeja tōs lītōšonai kai tam paradzātā aplikacejā.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Atskaņōt">
+<!ENTITY pip_play_button_description "Atsōkt atskaņōšonu">
+<!ENTITY pip_pause_button_title "Apturēt">
+<!ENTITY pip_pause_button_description "Apturēt atskaņōšonu">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; Location service reiks">
+<!ENTITY download_notification_channel "Lejupīlōdes">
