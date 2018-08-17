@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Avanzadas">
 
 <!ENTITY continue1.label "Continuar…">
+<!ENTITY moreInformation.label "Más información">
 
 <!-- Specific error messages -->
 
@@ -162,8 +163,6 @@ was trying to connect. -->
 <p>Es probable que haya un problema con el sitio web y no hay nada que pueda hacer al respecto.</p>
 <p>Si está usando una red corporativa o un software antivirus, puede contactarse con el equipo de asistencia técnica. También puede notificarle al administrador del sitio sobre el problema.</p>">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>El reloj de su computadora está configurado en <span id='wrongSystemTime_systemDate'/>. Asegúrese de que su computadora muestre la fecha, hora y huso horario correctos en la configuración del sistema y luego actualice <span class='hostname'/>.</p>
-<p>Si su reloj ya tiene la configuración correcta, puede ser que la página web esté mal configurada y no hay nada que pueda hacer para resolver este problema. Puede notificar al administrador de la página web acerca del mismo.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>Es probable que haya un problema con el sitio web, y no hay nada que pueda hacer para resolverlo. Puede notificar al administrador del sitio web sobre el problema.</p>
@@ -221,6 +220,9 @@ certificado.">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnología de seguridad que es obsoleta y vulnerable a los ataques. Un atacante podría fácilmente revelar información que se piensa segura. El administrador del sitio web necesitará corregir el servidor antes de poder visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Página bloqueada">
+
+<!ENTITY clockSkewError.title "El reloj de la computadora está equivocado">
+<!ENTITY clockSkewError.longDesc "Su computadora cree que son las <span id='wrongSystemTime_systemDate1'/>, lo que impide que &brandShortName; se conecte de forma segura. Para visitar <span class='hostname'></span>, actualice la hora de la computadora en los ajustes del sistema a la hora, fecha y zona horaria actuales, y luego recargue <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Parece que la configuración de seguridad de la red puede estar causando esto. ¿Desea que se restaure la configuración predeterminada?">
 <!ENTITY prefReset.label "Restaurar configuración predeterminada">
