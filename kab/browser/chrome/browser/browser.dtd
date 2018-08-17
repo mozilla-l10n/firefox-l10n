@@ -947,6 +947,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.off "Ammesten mgal asfuɣel: OFF">
 
 <!ENTITY contentBlocking.title "Asewḥel n ugbur">
+<!ENTITY contentBlocking.detected "Agbur izemren ad ittusewḥel yettwaf deg usmel-agi.">
+<!ENTITY contentBlocking.notDetected "Ulac agbur izemren ad ittusewḥel i ittwafen deg usebter-agi.">
 <!ENTITY contentBlocking.disabled.label "Arurmid">
 <!ENTITY contentBlocking.disabled.tooltip "Nsens asewḥel n ugbur.">
 
@@ -1015,6 +1017,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Rmed i usmel-agi">
 <!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.label "Sens asewḥel i kra n wakud">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Rmed asewḥel i usmel-agi">
 <!ENTITY trackingProtection.block5.accesskey "E">

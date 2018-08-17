@@ -657,6 +657,7 @@ content-blocking-fastblock-option-disabled =
     .label = Ur sewḥal ara
 content-blocking-tracking-protection-label = Ineḍfaren
     .accesskey = ḍ
+content-blocking-tracking-protection-description = Ad isewḥel akk ineḍfaṛen yettwasnen (Tamawt: Izmer daɣen ad isewḥel asali n kra n isebtar).
 content-blocking-tracking-protection-option-enabled =
     .label = Sewḥal yal tikelt
 content-blocking-tracking-protection-option-pbm =
