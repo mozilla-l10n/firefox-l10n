@@ -952,18 +952,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Cak gwokke">
 <!ENTITY trackingProtection.block2.accesskey "C">
 
+<!ENTITY trackingProtection.tooltip "Yab ter me Gwokke ikom lubo kor">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; tye kagengo but potbuk man ma twero lubo kor yeny mamegi.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; onongo jami ma twero lubo kor yeny mamegi.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; onongo jami ma twero lubo kor yeny mamegi. I juko woko gwokke pi kakube man.">
 <!ENTITY trackingProtection.notDetected5 "Pe kinongo jami ma lubo kor i potbuk man.">
 <!ENTITY trackingProtection.notDetectedException "Pe kinongo jami ma lubo kor i potbuk man. I juko woko gwokke pi kakube man.">
 
+<!ENTITY trackingProtection.reloadRequired2 "I cako Gwokke ikom Lubo kor. Nwo cano potbuk man me gengo lulub kor weng.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Juk Pi Kakube Man">
 <!ENTITY trackingProtection.unblock3.accesskey "U">
+<!ENTITY trackingProtection.unblock4.label "Juk Gengo Pi Kakube Man">
+<!ENTITY trackingProtection.unblock4.accesskey "J">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -971,6 +975,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "U">
 <!ENTITY trackingProtection.block4.label "Yee Pi Kakube Man">
 <!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.label "Juk Gengo pi Tutunu">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "J">
+<!ENTITY trackingProtection.block5.label "Cak Gengo Pi Kakube Man">
+<!ENTITY trackingProtection.block5.accesskey "C">
 <!ENTITY trackingProtection.reload2.label "Nwo cano pot buk">
 <!ENTITY trackingProtection.reload2.accesskey "N">
 
@@ -1047,6 +1055,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabControlled.header.message "Dirica matidi ni manyen olokke.">
 <!ENTITY newTabControlled.keepButton.label "Gwok alokaloka">
+<!ENTITY newTabControlled.keepButton.accesskey "G">
 <!ENTITY newTabControlled.disableButton.label "Juk lamed">
 <!ENTITY newTabControlled.disableButton.accesskey "K">
 
