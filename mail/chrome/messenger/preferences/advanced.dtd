@@ -7,11 +7,12 @@
 <!ENTITY itemUpdate.label        "Жаңартулар">
 <!ENTITY itemNetworking.label    "Желі және дискілік орын">
 <!ENTITY itemCertificates.label  "Сертификаттар">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Глобалды іздеуді және индекстеуді іске қосу">
 <!ENTITY enableGlodaSearch.accesskey   "е">
 <!ENTITY dateTimeFormatting.label      "Күн және уақытты пішімдеу">
+<!ENTITY languageSelector.label        "Тіл">
 <!ENTITY allowHWAccel.label            "Қолжетерлік болса құрылғылық үдетуді қолдану">
 <!ENTITY allowHWAccel.accesskey        "р">
 <!ENTITY storeType.label               "Жаңа тіркелгілер үшін хабарламаларды сақтау түрі:">
@@ -38,8 +39,8 @@
 <!ENTITY returnReceiptsInfo.label      "&brandShortName; алу есептемелерін қалай өңдейтінін таңдаңыз">
 <!ENTITY showReturnReceipts.label      "Алу есептемелері…">
 <!ENTITY showReturnReceipts.accesskey  "р">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Телеметрия">
 <!ENTITY telemetryDesc.label             "Эл. пошта клиентіңіздің өнімділік, қолдану, құрылғылар және баптаулар мәліметін &vendorShortName; үшін жібереді, және бізге &brandShortName; жақсартуға көмектеседі">
 <!ENTITY enableTelemetry.label           "Телеметрияны іске қосу">
@@ -51,12 +52,12 @@
 <!ENTITY enableCrashReporter.label       "Құлаулар хабарлаушысын іске қосу">
 <!ENTITY enableCrashReporter.accesskey   "с">
 <!ENTITY crashReporterLearnMore.label    "Көбірек білу">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApp2.label                "&brandShortName; жаңартулары">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
@@ -77,8 +78,8 @@
 
 <!ENTITY useService.label                "Жаңартуларды орнату үшін фон қызметін қолдану">
 <!ENTITY useService.accesskey            "ф">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Баптаулар…">
 <!ENTITY showSettings.accesskey        "а">
 <!ENTITY proxiesConfigure.label        "&brandShortName; Интернетке байланысу параметрлерін баптау">
@@ -92,13 +93,13 @@
 <!ENTITY offlineCompactFolders.label     "Барлық бумаларды ықшамдау, егер ол сақтаса">
 <!ENTITY offlineCompactFolders.accesskey "ы">
 <!ENTITY offlineCompactFoldersMB.label   "МБ жалпы">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Дейін қолдану">
 <!ENTITY useCacheBefore.accesskey        "о">
 <!ENTITY useCacheAfter.label             "МБ орын кэш үшін">
@@ -106,8 +107,8 @@
 <!ENTITY overrideSmartCacheSize.accesskey "м">
 <!ENTITY clearCacheNow.label             "Қазір өшіру">
 <!ENTITY clearCacheNow.accesskey         "з">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Егерде сервер менің жеке сертификатымды сұраса:">
 <!ENTITY certs.auto                      "Мені сұрамай-ақ жіберу">
 <!ENTITY certs.auto.accesskey            "с">
