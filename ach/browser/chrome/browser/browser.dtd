@@ -899,6 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "G">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Kan pire kene">
 
@@ -908,6 +909,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "Ki binywako dwon ma i dirica matidi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Ki binywako dirica weng ma nen i wang kompiuta ni.">
+
+
+<!ENTITY contentBlocking.disabled.label "Kijuko woko">
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Kigengo woko">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Med Gengo…">
 
 <!ENTITY trackingProtection.title "Gwokke ikom lubo kor">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; tye kagengo but potbuk ma twero lubo kor yeny mamegi.">
@@ -931,6 +957,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedException "&brandShortName; onongo jami ma twero lubo kor yeny mamegi. I juko woko gwokke pi kakube man.">
 <!ENTITY trackingProtection.notDetected5 "Pe kinongo jami ma lubo kor i potbuk man.">
 <!ENTITY trackingProtection.notDetectedException "Pe kinongo jami ma lubo kor i potbuk man. I juko woko gwokke pi kakube man.">
+
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
