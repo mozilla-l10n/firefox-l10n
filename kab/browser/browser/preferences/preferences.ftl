@@ -646,6 +646,11 @@ content-blocking-toggle-label-on = Yermed
 content-blocking-toggle-label-off = Insa
     .accesskey = n
 content-blocking-category-label = Fren ayen ad tesweḥleḍ
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Sɛeṭṭel iferdisen n uḍfar
+    .accesskey = S
 content-blocking-fastblock-option-enabled =
     .label = Sewḥel yal tikelt
 content-blocking-fastblock-option-disabled =
