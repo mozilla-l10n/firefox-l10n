@@ -633,6 +633,7 @@ addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu'eha je'epyre momb
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Ejoko tetepy
+content-blocking-desc = Ejoko mbohapyháva tetepy ñemurãva térã ayvugua ikatúva omombegue ne kundaha ha ojehapykueho ñanduti rupive. Eñemomba’e ñemboheko rehe eguereko hag̃ua ñemo’ã ha tembiapoporã.
 content-blocking-learn-more = Eikuaave
 content-blocking-restore-defaults =
     .label = Embojevyjey ijypykuépe
