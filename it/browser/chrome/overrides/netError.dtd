@@ -113,6 +113,7 @@
 <!ENTITY certerror.longpagetitle2 "Attenzione: potenziale rischio per la sicurezza">
 <!ENTITY certerror.introPara "Il gestore di <span class='hostname'/> ha configurato il sito in modo non corretto. Per evitare potenziali furti di informazioni &brandShortName; ha interrotto la connessione.">
 <!ENTITY certerror.introPara1 "&brandShortName; ha rilevato una potenziale minaccia per la sicurezza e interrotto la connessione con <span class='hostname'/>. Visitando questo sito, malintenzionati potrebbero cercare di rubare informazioni personali come password, email o numeri di carte di credito.">
+<!ENTITY certerror.introPara2 "&brandShortName; ha rilevato una potenziale minaccia per la sicurezza e interrotto la connessione con <span class='hostname'/>. Visitando questo sito, malintenzionati potrebbero cercare di rubare informazioni personali come password, email o dati delle carte di credito.">
 <!ENTITY certerror.expiredCert.secondPara "L’errore è probabilmente causato dall’orologio del computer impostato su un orario scorretto. Questo impedisce a &brandShortName; di connettersi in modo sicuro.">
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Che cosa posso fare per risolvere?">
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>L’errore è probabilmente causato dal sito web e non può essere risolto.</p>
