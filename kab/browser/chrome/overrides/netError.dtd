@@ -158,6 +158,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Asebter iwḥel">
 
 <!ENTITY clockSkewError.title "Asarag n uselkim-inek ur teseḥa ara">
+<!ENTITY clockSkewError.longDesc "Aselkim-inek iɣil d <span id='wrongSystemTime_systemDate1'/>, aya isewḥel tuqqna n &brandShortName; s tɣellist. Akken ad terzuḍ ɣer <span class='hostname'></span>, leqqem asarag n uselkim-inek deg iɣewwaṛen n unagraw ɣer uzemz, akud, akked tamnaḍt takudant iwatan, sakin smiren <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Akken nettwali, d iɣewwaṛen n tɣellist n uzeṭṭa-inek i d-yewwin ugur-a. Tebɣiḍ ad terreḍ iɣewwaṛen imezwar?">
 <!ENTITY prefReset.label "Err-d iɣewwaṛen imezwar">
