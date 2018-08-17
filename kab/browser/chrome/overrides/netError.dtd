@@ -114,6 +114,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Tamrilt n uselkim tettwasbadu ɣer <span id='wrongSystemTime_systemDate2'/>. Senqeḍ d akken aselkim-inek ittwasbadu ɣer uzemz, akud, akked tamnaḍt takudant iwatan deg iɣewwaṛen n unagraw, sakin smiren <span class='hostname'/></p><p> ma yellan tamrilt-inek tettwasbadu yakan ɣer wakud iwatan, izmer ahat asmel web ur ittwasbadu ara, da ulac ayen ara txedmeḍ akken ad ifru wugur-agi</p>">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Ugur iḍurr-d aṭas akked usmel, ulac ayen ara txedmeḍ akken ad ifru. Tzemreḍ ad tnremseḍ anedbal n usmel ɣef ugur-agi.</p>">
 
 <!ENTITY sharedLongDesc "<ul><li>Asmel-a ulac-it akka tura neɣ ahat ur d-yelhi ara. Ɛreḍ akka kra n wakud  ticki.</li> <li>Ma yella ur tezmiṛeḍ ara ad d-tessaliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim-inek.</li><li>Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes neɣ apṛuksi, wali ma yella &brandShortName; yezmer ad yekcem ɣer Web.</li></ul>">
 
@@ -146,6 +147,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle1  "Tuqqna taraɣelsant">
 <!ENTITY certerror.pagetitle2  "Ɣur-k: izmer ad yili ugur n teɣlist">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Asmel-agi iseqdac HTTP n tɣellist n umesni ufrin (HSTS) iwakken ad yebgen i &brandShortName; akken ad yeqqen kan s tɣeliist. Ihi, d awezɣi timerna n tsureft i uselkin-agi.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ɣur-s tasertit n tɣellist HTTP Strict Transport Security (HSTS), ay-agi yemmal-d d akken &brandShortName; izmer kan ad iqqen ɣur-s s tɣellist. Ur tezmireḍ ara ad ternuḍ tasureft akken ad twaliḍ asmel-agi.">
 <!ENTITY certerror.copyToClipboard.label "Nɣel aḍris ɣef affus">
 
 <!ENTITY inadequateSecurityError.title "Tuqqna-inek d taraɣelsant">
