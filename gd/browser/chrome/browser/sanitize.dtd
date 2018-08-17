@@ -52,7 +52,7 @@ that require it.  -->
 <!ENTITY itemOfflineApps.accesskey         "o">
 <!ENTITY itemActiveLogins.label            "Logadh a-steach beò sam bith">
 <!ENTITY itemActiveLogins.accesskey        "L">
-<!ENTITY itemSitePreferences.label         "Roghainnean na làraich">
+<!ENTITY itemSitePreferences.label         "Roghainnean nan làrach">
 <!ENTITY itemSitePreferences.accesskey     "R">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
