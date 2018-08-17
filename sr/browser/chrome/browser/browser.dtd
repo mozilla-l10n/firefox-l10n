@@ -953,7 +953,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.disabled.tooltip "Онемогућили сте блокирање садржаја.">
 <!ENTITY contentBlocking.exception.tooltip "Онемогућили сте блокирање садржаја за овај сајт.">
 
-<!ENTITY contentBlocking.fastBlock.label "Успоравајући пратиоци">
+<!ENTITY contentBlocking.fastBlock.label "Успоравајући елементи">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -1010,7 +1010,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Онемогући за овај сајт">
 <!ENTITY trackingProtection.unblock3.accesskey "О">
-<!ENTITY trackingProtection.unblock4.label "Онемогућите блокирање за овај сајт">
+<!ENTITY trackingProtection.unblock4.label "Онемогући блокирање за овај сајт">
 <!ENTITY trackingProtection.unblock4.accesskey "О">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -1019,7 +1019,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "О">
 <!ENTITY trackingProtection.block4.label "Омогући за овај сајт">
 <!ENTITY trackingProtection.block4.accesskey "О">
-<!ENTITY trackingProtection.unblockPrivate4.label "Онемогућите блокирање привремено">
+<!ENTITY trackingProtection.unblockPrivate4.label "Онемогући блокирање привремено">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "О">
 <!ENTITY trackingProtection.block5.label "Омогућите блокирање за овај сајт">
 <!ENTITY trackingProtection.block5.accesskey "О">
