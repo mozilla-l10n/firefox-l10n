@@ -104,9 +104,13 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "&brandShortName; yufa-d kra ugur n tɣellist ihi ur ittkemil ara ɣer <span class='hostname'/>. Ma terziḍ ɣer usmel-agi, ineḍfaren zemren ad ɛerḍen ad akren talɣut am wawal-ik uffir, imaylen, neɣ takarḍa-inek n usellek.">
 
+<!ENTITY certerror.expiredCert.secondPara "Ugur-agi ad yili iḍra-d imi akud n uselkim-inek mačči d ameɣtu, aya issewḥel tuqna n &brandShortName; s tɣellist.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "D acu i tzemreḍ ad txedmeḍ i waya?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Ugur iḍurr-d aṭas akked usmel, ulac ayen ara txedmeḍ akken ad ifru</p>
+<p>ma telliḍ teqneḍ s uẓeṭṭa n tkebbanit neɣ tseqdaceḍ amgal avirus, Tzemreḍ ad tsutreḍ tallelt sɣur tarbaɛt. Tzemreḍ daɣen ad tnremseḍ anedbal n usmel ɣef ugur-agi</p>
+">
 
 
 
