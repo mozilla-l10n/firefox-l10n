@@ -144,6 +144,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Бұғатталған бет">
 
+<!ENTITY clockSkewError.title "Сіздің компьютеріңіздің сағаты қате">
 
 <!ENTITY prefReset.longDesc "Сіздің желілік қауіпсіздік баптаулар осыны туғызатын сияқты. Бастапқы баптауларды қалпына келтіруді қалайсыз ба?">
 <!ENTITY prefReset.label "Бастапқы баптауларды қалпына келтіру">
