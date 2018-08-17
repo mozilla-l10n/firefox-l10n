@@ -421,7 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.unverified.label "Tilisi tarvitsee vahvistaa.">
 <!ENTITY appMenuRemoteTabs.signin.label "Kirjaudu Sync-palveluun">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Hallitse laitteita…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Synkronoitujen välilehtien sivupaneeli">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Näytä synkronoitujen välilehtien sivupaneeli">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Yhdistä toinen laite">
 
 <!ENTITY appMenuRecentHighlights.label "Viimeaikaiset nostot">
