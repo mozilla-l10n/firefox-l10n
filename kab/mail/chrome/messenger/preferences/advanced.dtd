@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Rmed anadi amatu akked timerna n ukatar">
 <!ENTITY enableGlodaSearch.accesskey   "m">
 <!ENTITY dateTimeFormatting.label      "Amsal n uzemz akked wakud">
+<!ENTITY languageSelector.label        "Tutlayt">
 <!ENTITY allowHWAccel.label            "Seqdec tasɣiwelt n warrum ma tella">
 <!ENTITY allowHWAccel.accesskey        "q">
 <!ENTITY storeType.label               "Tarrayt n usekles n yizen i yimiḍanen imaynuten:">
