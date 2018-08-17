@@ -945,6 +945,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Sporingsbeskyttelse: PÅ">
 <!ENTITY trackingProtection.off "Sporingsbeskyttelse: AV">
+
+<!ENTITY contentBlocking.title "Innholdsblokkering">
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!ENTITY trackingProtection.title "Sporingsbeskyttelse">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkerer deler av siden som kan spore nettlesingen din.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Denne siden inneholder elementer som kan spore nettlesingen din. Du har skrudd av beskyttelse.">
@@ -970,6 +993,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Ingen sporingselement er oppdaget på denne siden. Du har slått av beskyttelse på dette nettstedet.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Du har slått på sporingsbeskyttelse. Last om denne siden for å blokkere alle sporere.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
