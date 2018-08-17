@@ -950,6 +950,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.detected "Du contenu pouvant être bloqué a été détecté sur ce site.">
 <!ENTITY contentBlocking.notDetected "Aucun contenu pouvant être bloqué n’a été détecté sur cette page.">
 <!ENTITY contentBlocking.disabled.label "Désactivé">
+<!ENTITY contentBlocking.disabled.tooltip "Vous avez désactivé le blocage de contenu.">
+<!ENTITY contentBlocking.exception.tooltip "Vous avez désactivé le blocage de contenu pour ce site.">
 
 <!ENTITY contentBlocking.fastBlock.label "Traqueurs qui ralentissent">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
