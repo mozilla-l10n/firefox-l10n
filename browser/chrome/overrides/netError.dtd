@@ -203,6 +203,8 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Page bloquée">
 
+<!ENTITY clockSkewError.title "L’heure de votre ordinateur est incorrecte">
+<!ENTITY clockSkewError.longDesc "Votre ordinateur pense qu’il est <span id='wrongSystemTime_systemDate1'/>, ce qui empêche &brandShortName; de se connecter de façon sécurisée. Pour visiter <span class='hostname'></span>, mettez à jour l’horloge de votre ordinateur dans vos paramètres système afin qu’elle soit réglée sur la date, l’heure et le fuseau horaire qui conviennent, puis actualisez <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Ce problème semble être provoqué par vos paramètres de sécurité réseau. Voulez-vous restaurer les paramètres par défaut ?">
 <!ENTITY prefReset.label "Restaurer les paramètres par défaut">
