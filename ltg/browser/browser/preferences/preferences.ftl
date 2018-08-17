@@ -728,6 +728,10 @@ permissions-block-autoplay-media-exceptions =
     .accesskey = I
 autoplay-option-ask =
     .label = Vysod prasēt
+autoplay-option-allow =
+    .label = Atļaut automatisku atskaņōšonu
+autoplay-option-dont =
+    .label = Aizlīgt automatisku atskaņōšonu
 permissions-block-popups =
     .label = Blokeit jaunūs lūgus
     .accesskey = B
@@ -754,6 +758,9 @@ collection-health-report =
     .label = Allow { -brand-short-name } to send technical and interaction data to { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Uzzynojit vairuok
+collection-studies =
+    .label = Atļaut { -brand-short-name } instalēt un palaist pietejumus
+collection-studies-link = Apsavērt { -brand-short-name } pietejumus
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration

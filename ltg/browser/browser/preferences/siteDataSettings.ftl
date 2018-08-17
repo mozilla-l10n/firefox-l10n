@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Porvaļdēt seikdatnes un lopu datus
+site-data-settings-description = Itōs lopys globoj cookies un kešatmiņi tovā datorā. { -brand-short-name } globoj datus pastōveigā krōtuvē, cikam tu jūs izdzēs, pagaidu kroōtuves dati izadzieš, kod ir vajadzeiga breiva vīta.
 site-data-search-textbox =
     .placeholder = Mekleit lopys
     .accesskey = S
