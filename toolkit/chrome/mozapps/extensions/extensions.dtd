@@ -5,7 +5,7 @@
 
 <!ENTITY search.placeholder2                  "Išči na addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Išči">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -80,8 +80,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "M">
 <!ENTITY cmd.preferencesUnix.label            "Nastavitve">
 <!ENTITY cmd.preferencesUnix.accesskey        "N">
-<!ENTITY cmd.about.label                      "Predstavitev">
-<!ENTITY cmd.about.accesskey                  "r">
 
 <!ENTITY cmd.enableAddon.label                "Omogoči">
 <!ENTITY cmd.enableAddon.accesskey            "O">
@@ -130,7 +128,6 @@
 <!ENTITY detail.lastupdated.label             "Nazadnje posodobljeno">
 <!ENTITY detail.creator.label                 "Razvijalec">
 <!ENTITY detail.homepage.label                "Domača stran">
-<!ENTITY detail.numberOfDownloads.label       "Prenosi">
 
 <!ENTITY detail.contributions.description     "Razvijalec tega dodatka vas vabi, da podprete nadaljnji razvoj s skromnim prispevkom.">
 
@@ -162,13 +159,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Ustavi">
 <!ENTITY progress.cancel.tooltip              "Prekliči">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Ime">
-<!ENTITY sort.name.tooltip                    "Razvrsti po imenu">
-<!ENTITY sort.dateUpdated.label               "Zadnja posodobitev">
-<!ENTITY sort.dateUpdated.tooltip             "Razvrsti po datumu posodobitve">
 
 <!ENTITY addon.homepage                       "Domača stran">
 <!ENTITY addon.details.label                  "Več">
@@ -211,17 +201,6 @@
 <!ENTITY eula.accept                          "Sprejmi in namesti …">
 
 <!ENTITY settings.path.button.label           "Brskaj…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Kaj je to? Telemetrija lahko občasno namešča ali izvaja poskuse.">
-<!ENTITY experiment.info.learnmore "Več o tem">
-<!ENTITY experiment.info.learnmore.accesskey "V">
-<!ENTITY experiment.info.changetelemetry "Nastavitve telemetrije">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Več o tem …">
 
