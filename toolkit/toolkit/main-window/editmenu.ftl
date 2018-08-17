@@ -19,3 +19,6 @@ editmenu-paste =
 editmenu-delete =
     .label = Ezabatu
     .accesskey = E
+editmenu-select-all =
+    .label = Hautatu denak
+    .accesskey = d

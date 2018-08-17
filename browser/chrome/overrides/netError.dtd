@@ -152,5 +152,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Blokeatutako orria">
 
+<!ENTITY clockSkewError.title "Zure ordenagailuaren erlojua gaizki dago">
+
 <!ENTITY prefReset.longDesc "Badirudi zure sareko segurtasun-ezarpenek eragiten dutela hau. Ezarpen lehenetsiak berrezarri nahi dituzu?">
 <!ENTITY prefReset.label "Berrezarri ezarpen lehenetsiak">
