@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Slědowański šćit: Zašaltowany">
 <!ENTITY trackingProtection.off "Slědowański šćit: Wušaltowany">
+
+<!ENTITY contentBlocking.title "Blokěrowanje wopśimjeśa">
+<!ENTITY contentBlocking.detected "Blokěrujobne wopśimjeśe jo se namakało na toś tom sedle.">
+<!ENTITY contentBlocking.notDetected "Žedno blokěrujobne wopśimjeśe jo se namakało na toś tom boku.">
+<!ENTITY contentBlocking.disabled.label "Znjemóžnjony">
+<!ENTITY contentBlocking.disabled.tooltip "Sćo znjemóžnił blokěrowanje wopśimjeśa.">
+<!ENTITY contentBlocking.exception.tooltip "Sćo znjemóžnił blokěrowanje wopśimjeśa za toś to sedło.">
+
+<!ENTITY contentBlocking.fastBlock.label "Pómałem cytajuce pśeslědowaki">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Zablokěrowany">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Blokěrowanje pśidaś…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Pśeslědowaki">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Zablokěrowany">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Blokěrowanje pśidaś…">
+
 <!ENTITY trackingProtection.title "Slědowański šćit">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokěrujo źěle boka, kótarež by mógli wašo pśeglědowanje slědowaś.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Toś to sedło wopśimujo elementy, kótarež by mógli wašo pśeglědowanje slědowaś. Sćo šćit znjemóžnił.">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Žedne slědujuce elementy na toś tom boku namakane. Sćo znjemóžnił šćit za toś to sedło.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Sćo zmóžnił slědowański šćit. Zacytajśo toś ten bok znowego, aby wšykne pśeslědowaki blokěrował.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Za toś to sedło znjemóžniś">
 <!ENTITY trackingProtection.unblock3.accesskey "Z">
+<!ENTITY trackingProtection.unblock4.label "Blokěrowanje za toś to sedło znjemóžniś">
+<!ENTITY trackingProtection.unblock4.accesskey "n">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "Z">
 <!ENTITY trackingProtection.block4.label "Za toś to sedło zmóžniś">
 <!ENTITY trackingProtection.block4.accesskey "m">
+<!ENTITY trackingProtection.unblockPrivate4.label "Blokěrowanje nachylu znjemóžniś">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "c">
+<!ENTITY trackingProtection.block5.label "Blokěrowanje za toś to sedło zmóžniś">
+<!ENTITY trackingProtection.block5.accesskey "z">
 <!ENTITY trackingProtection.reload2.label "Bok znowego zacytaś">
 <!ENTITY trackingProtection.reload2.accesskey "B">
 

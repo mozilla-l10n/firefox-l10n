@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Rozšyrjone">
 
 <!ENTITY continue1.label "Pókšacowaś…">
+<!ENTITY moreInformation.label "Dalšne informacije">
 
 <!-- Specific error messages -->
 
@@ -102,8 +103,6 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Nejskerjej websedło problem zawinujo, a njedajo nic, což móžośo cyniś, aby jen rozwězał.</p>
 <p>Jolic słušaśo k pśedewześowej seśi abo antiwirusowu softwaru wužywaśo, móžośo teamy pomocy wó pódpěru pšosyś. Móžośo teke administratora websedła wó problemje informěrowaś.</p>">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>Zeger wašogo licadła jo na <span id='wrongSystemTime_systemDate'/> stajony. Pśeznańśo se, až su w systemowych nastajenjach wašoho licadła korektny datum, cas a korektnu casowu conu nastajone, a aktualizěrujśo pótom <span class='hostname'/>.</p>
-<p>Je-li waš časniik na korektny čas nastajeny, je najskerje websydło wopak konfigurowane, a njemóžeće ničo činć, zo byšće problem rozrisał. Móžeće administratora websydła wo problemje informować.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Nejskerjej websedło problem zawinujo, a njedajo nic, což móžośo cyniś, aby jen rozwězał. Móžośo administratora websedła wó problemje informěrowaś.</p>">
 
@@ -147,6 +146,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> wužywa wěstotnu technologiju, kótaraž jo zestarjona a sensibelna za napady. Napadowaŕ by mógał informacije lažko namakaś, kótarež maśo za wěste. Websedłowy administrator musy problem na serwerje rozwězaś, nježli až móžośo se k sedłoju woglědaś.</p><p>Zmólkowy kod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Zablokěrowany bok">
+
 
 <!ENTITY prefReset.longDesc "Zda se, až waše nastajenja seśoweje wěstoty by mógli to zawinowaś. Cośo standardne nastajenja wótnowiś?">
 <!ENTITY prefReset.label "Standardne nastajenja wótnowiś">
