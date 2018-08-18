@@ -148,14 +148,22 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Ваше соединение не защищено">
+<!ENTITY certerror.longpagetitle2 "Предупреждение: Вероятная угроза безопасности">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Владелец <span class='hostname'/> неправильно настроил свой веб-сайт. Чтобы защитить вашу информацию от кражи, &brandShortName; не соединился с этим веб-сайтом.">
 
+<!ENTITY certerror.introPara1 "&brandShortName; обнаружил вероятную угрозу безопасности и не стал открывать <span class='hostname'/>. Если вы посетите этот сайт, нападавшие могут попытаться похитить вашу информацию, такую как пароли, адреса электронной почты или данные банковских карт.">
 
+<!ENTITY certerror.expiredCert.secondPara "Эта проблема, скорее всего, связана с неправильной установкой времени вашего компьютера, что может не дать &brandShortName; установить защищённое соединение.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Как вы можете это исправить?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Скорее всего, эта проблема связана с самим веб-сайтом, и вы ничего не сможете с этим сделать.</p>
+<p>Если вы находитесь в корпоративной сети или используете антивирусную программу, вы можете связаться со службой поддержки для получения помощи. Вы также можете сообщить администратору веб-сайта об этой проблеме.</p>
+">
 
 
 
