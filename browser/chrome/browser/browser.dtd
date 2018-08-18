@@ -949,7 +949,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Блокировка содержимого">
 <!ENTITY contentBlocking.detected "На этом сайте обнаружено содержимое для блокировки.">
 <!ENTITY contentBlocking.notDetected "На этой странице не обнаружено содержимого для блокировки.">
-<!ENTITY contentBlocking.disabled.label "Отключено">
+<!ENTITY contentBlocking.disabled.label "Отключена">
 <!ENTITY contentBlocking.disabled.tooltip "Вы отключили блокировку содержимого.">
 <!ENTITY contentBlocking.exception.tooltip "Вы отключили блокировку содержимого для этого сайта.">
 
@@ -964,16 +964,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Добавить блокировку…">
 
+<!ENTITY contentBlocking.trackingProtection.label "Трекеры">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Заблокированы">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Добавить блокировку…">
 
 <!ENTITY trackingProtection.title "Защита от отслеживания">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокирует части страницы, которые могут отслеживать ваше поведение в Интернете.">
@@ -1006,6 +1010,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Отключить для этого сайта">
 <!ENTITY trackingProtection.unblock3.accesskey "ю">
+<!ENTITY trackingProtection.unblock4.label "Отключить блокировку для этого сайта">
+<!ENTITY trackingProtection.unblock4.accesskey "ю">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -1013,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "ю">
 <!ENTITY trackingProtection.block4.label "Включить для этого сайта">
 <!ENTITY trackingProtection.block4.accesskey "л">
+<!ENTITY trackingProtection.unblockPrivate4.label "Временно отключить блокировку">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "ю">
+<!ENTITY trackingProtection.block5.label "Включить блокировку для этого сайта">
+<!ENTITY trackingProtection.block5.accesskey "л">
 <!ENTITY trackingProtection.reload2.label "Перезагрузить страницу">
 <!ENTITY trackingProtection.reload2.accesskey "з">
 
