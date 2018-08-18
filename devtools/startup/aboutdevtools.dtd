@@ -30,6 +30,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.aboutDebuggingMessage): Message displayed
   -  when users come from about:debugging. -->
+<!ENTITY  aboutDevtools.enable.aboutDebuggingMessage
+          "طوّر ونقّح امتدادات الوِب (WebExtensions) وعمّال الوِب وعمّال الخدمات وغيرها مستخدمًا أدوات فَيَرفُكس للمطوّرين.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.keyShortcutMessage): Message displayed when
   -  users pressed a DevTools key shortcut. -->
@@ -43,6 +45,8 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.commonMessage): Generic message displayed for
   -  all possible entry points (keyshortcut, menu item etc…). -->
+<!ENTITY  aboutDevtools.enable.commonMessage
+          "أدوات فَيَرفُكس للمطوّرين معطّلة مبدئيًا ذلك لتتحكّم بمتصفّحك أكثر.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
