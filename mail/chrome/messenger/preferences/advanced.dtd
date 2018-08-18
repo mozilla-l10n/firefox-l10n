@@ -7,11 +7,12 @@
 <!ENTITY itemUpdate.label        "Aktualizacija">
 <!ENTITY itemNetworking.label    "Seś a platowy rum">
 <!ENTITY itemCertificates.label  "Certifikaty">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Globalne pytanje a indicěrowanje zmóžniś">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY dateTimeFormatting.label      "Formatěrowanje datuma a casa">
+<!ENTITY languageSelector.label        "Rěc">
 <!ENTITY allowHWAccel.label            "Hardwarowe póspěšenje wužywaś, jolic jo k dispoziciji">
 <!ENTITY allowHWAccel.accesskey        "H">
 <!ENTITY storeType.label               "Sładowański typ powěsćow za nowe konta:">
@@ -38,8 +39,8 @@
 <!ENTITY returnReceiptsInfo.label      "Póstajiś, kak &brandShortName; ma z wobtwarźenjami dostaśa wobchadaś">
 <!ENTITY showReturnReceipts.label      "Wobtwarźenja dostaśa…">
 <!ENTITY showReturnReceipts.accesskey  "t">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetrija">
 <!ENTITY telemetryDesc.label             "Źěli wugbaśe, wužyśe, hardwaru a pśiměrjeńske daty wó wašom e-mailowym klienśe z &vendorShortName;, aby nam pomagała, &brandShortName; pólěpšyś">
 <!ENTITY enableTelemetry.label           "Telemetriju zmóžniś">
@@ -51,12 +52,12 @@
 <!ENTITY enableCrashReporter.label       "Rozpšawjak wo wowalenjach zmóžniś">
 <!ENTITY enableCrashReporter.accesskey   "R">
 <!ENTITY crashReporterLearnMore.label    "Dalšne informacije">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApp2.label                "Aktualizacije &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
@@ -77,8 +78,8 @@
 
 <!ENTITY useService.label                "Slězynowu słužbu za instalěrowanje aktualizacijow wužywaś">
 <!ENTITY useService.accesskey            "z">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Nastajenja…">
 <!ENTITY showSettings.accesskey        "N">
 <!ENTITY proxiesConfigure.label        "Konfigurěrowaś, kak &brandShortName; zwězujo z Internetom">
@@ -92,13 +93,13 @@
 <!ENTITY offlineCompactFolders.label     "Wšykne zarědniki zgusćiś, gaž wopśimuju">
 <!ENTITY offlineCompactFolders.accesskey "z">
 <!ENTITY offlineCompactFoldersMB.label   "MB dogromady">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Až k">
 <!ENTITY useCacheBefore.accesskey        "A">
 <!ENTITY useCacheAfter.label             "MB platowego ruma za pufrowak wužywaś">
@@ -106,8 +107,8 @@
 <!ENTITY overrideSmartCacheSize.accesskey "m">
 <!ENTITY clearCacheNow.label             "Něnto wuprozniś">
 <!ENTITY clearCacheNow.accesskey         "u">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Gaž serwer pomina se wósobinski certifikat:">
 <!ENTITY certs.auto                      "Někaki awtomatiski wubraś">
 <!ENTITY certs.auto.accesskey            "N">
