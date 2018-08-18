@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "متقدم">
 
 <!ENTITY continue1.label "تابِع…">
+<!ENTITY moreInformation.label "المزيد من المعلومات">
 
 <!-- Specific error messages -->
 
@@ -106,10 +107,6 @@ was trying to connect. -->
 <p>إن كنت متصلا عبر شبكة للشركات أو كنت تستخدم برمجية مضادة للفيروسات، فيمكنك إيصال الأمر إلى فرق الدعم لمساعدتك. يمكنك أيضا إعلام مدير الموقع عن هذه المشكلة.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>ضُبطت ساعة الحاسوب على <span id='wrongSystemTime_systemDate'/>. تحقق من أن ضبط الحاسوب على التاريخ والوقت والمنطقة الزمنية الصحيحة من إعدادات النظام، وبعدها أنعِش <span class='hostname'/>.</p>
-<p>إن كانت الساعة مضبوطة على الوقت الصحيح، فأغلب الظن أن موقع الوِب ليس مضبوطا كما ينبغي، وليس هنالك ما يمكنك فعله لحل المشكلة. يمكنك إعلام مدير الموقع عن هذه المشكلة.</p>
-">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>أغلب الظن بأن المشكلة هي بالموقع نفسه، وليس هنالك ما يمكنك فعله لحلها. يمكنك إعلام مدير الموقع عن هذه المشكلة.</p>
@@ -155,6 +152,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p>يستخدم <span class='hostname'></span> تقنية أمنية عتيقة و عرضة للهجوم. يمكن لمهاجم بسهولة الاطلاع على معلومات تظنها بمأمن. على مدير الموقع إصلاح الخادوم قبل أن يمكنك زيارة الموقع.</p><p>رمز العطل: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "الصفحة محجوبة">
+
 
 <!ENTITY prefReset.longDesc "يبدو أن إعدادات أمان الشبكة قد تكون السبب وراء هذا. أتريد استعادة الإعدادات المبدئية؟">
 <!ENTITY prefReset.label "استرجع الإعدادات الأصلية">
