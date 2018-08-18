@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "الحماية من التعقّب: مفعّلة">
 <!ENTITY trackingProtection.off "الحماية من التعقّب: معطّلة">
+
+<!ENTITY contentBlocking.title "حجب المحتوى">
+<!ENTITY contentBlocking.detected "اكتُشف في هذا الموقع محتوى يمكن حجبه.">
+<!ENTITY contentBlocking.notDetected "لم يكتُشف في هذا الموقع أي محتوى يمكن حجبه.">
+<!ENTITY contentBlocking.disabled.label "معطّل">
+<!ENTITY contentBlocking.disabled.tooltip "عطّلت حجب المحتوى.">
+<!ENTITY contentBlocking.exception.tooltip "عطّلت حجب المحتوى في هذا الموقع.">
+
+<!ENTITY contentBlocking.fastBlock.label "المتعقّبات بطيئة التحميل">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "محجوبة">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "أضِف نوع حجب…">
+
+<!ENTITY contentBlocking.trackingProtection.label "المتعقّبات">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "محجوبة">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "أضِف نوع حجب…">
+
 <!ENTITY trackingProtection.title "الحماية من التعقّب">
 <!ENTITY trackingProtection.detectedBlocked3 "يحجب &brandShortName; أجزاءً من الصفحة ربما تتعقب تصفّحك.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "في هذا الموقع عناصر قد تتعقّب تصفّحك. لقد عطّلتَ الحماية.">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "لم تُكتشف أيّة عناصر تعقّب في هذه الصفحة. لقد عطّلتَ الحماية لهذا الموقع.">
 
 <!ENTITY trackingProtection.reloadRequired2 "لقد فعّلت الحماية ضد التعقّب. أعِد تحميل هذه الصفحة لحجب كل المتعقّبات.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "عطِّله لهذا الموقع">
 <!ENTITY trackingProtection.unblock3.accesskey "ط">
+<!ENTITY trackingProtection.unblock4.label "عطّل الحجب في هذا الموقع">
+<!ENTITY trackingProtection.unblock4.accesskey "ط">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "ط">
 <!ENTITY trackingProtection.block4.label "فعِّله لهذا الموقع">
 <!ENTITY trackingProtection.block4.accesskey "ف">
+<!ENTITY trackingProtection.unblockPrivate4.label "عطّل الحجب مؤقتًا">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "ط">
+<!ENTITY trackingProtection.block5.label "فعّل الحجب في هذا الموقع">
+<!ENTITY trackingProtection.block5.accesskey "ف">
 <!ENTITY trackingProtection.reload2.label "أعِد تحميل الصفحة">
 <!ENTITY trackingProtection.reload2.accesskey "ع">
 
