@@ -10,6 +10,7 @@
 <!ENTITY returnToPreviousPage1.label "Torna indietro (consigliato)">
 <!ENTITY advanced.label "Avanzate">
 <!ENTITY continue1.label "Continua…">
+<!ENTITY continue2.label "Altro…">
 <!ENTITY moreInformation.label "Ulteriori informazioni">
 <!ENTITY connectionFailure.title "Connessione non riuscita">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
