@@ -153,6 +153,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Blokeatutako orria">
 
 <!ENTITY clockSkewError.title "Zure ordenagailuaren erlojua gaizki dago">
+<!ENTITY clockSkewError.longDesc "Zure ordenagailuak uste du <span id='wrongSystemTime_systemDate1'/> dela eta honek &brandShortName;(r)i modu seguruan konektatzea eragozten dio. <span class='hostname'></span> bisitatzeko, jarri egunean zure ordenagailuaren ordularia sistemaren ezarpenetan uneko data, ordua eta ordu-zona kontuan hartuz, eta gero berritu <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Badirudi zure sareko segurtasun-ezarpenek eragiten dutela hau. Ezarpen lehenetsiak berrezarri nahi dituzu?">
 <!ENTITY prefReset.label "Berrezarri ezarpen lehenetsiak">
