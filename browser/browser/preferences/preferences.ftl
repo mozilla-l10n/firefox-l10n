@@ -560,6 +560,9 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = আমার ব্রাউজিং এবং ডাউনলোড ইতিহাস মনে রাখুন b
     .accesskey = b
+history-remember-browser-option =
+    .label = ব্রাউজিং এবং ডাউনলোড ইতিহাস মনে রাখবে
+    .accesskey = b
 history-remember-search-option =
     .label = অনুসন্ধান ও ফরমের ইতিহাস মনে রাখা হবে
     .accesskey = f
@@ -577,6 +580,10 @@ history-clear-button =
 
 sitedata-header = কুকি এবং সাইট ডাটা
 sitedata-total-size-calculating = সাইট ডাটা এবং ক্যাশ সাইজ গণনা করা হচ্ছে…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = আপনার সংরক্ষিত কুকিজ, সাইট ডেটা এবং ক্যাশে বর্তমানে { $value } { $unit } ডিস্ক স্পেস ব্যবহার করছে।
 sitedata-learn-more = আরও জানুন
 sitedata-accept-cookies-option =
     .label = ওয়েবসাইট থেকে কুকি ও সাইট ডাটা গ্রহণ করুন (সুপারিশকৃত)
@@ -625,6 +632,8 @@ addressbar-suggestions-settings = অনুসন্ধান ইঞ্জিন
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = কনটেন্ট ব্লকিং
+content-blocking-desc = বিজ্ঞাপন অথবা কোডের মত তৃতীয় পক্ষের কনটেন্ট ব্লক করুন, যা আপনার ব্রাউজিং ধীরগতি করে দেয় এবং ওয়েবে আপনাকে ট্র্যাক করতে পারে। সুরক্ষা এবং কর্মক্ষমতা সেরা ব্যালেন্সের জন্য আপনার সেটিংস কাস্টমাইজ করুন।
 content-blocking-toggle-label-on = চালু করুন
     .accesskey = O
 content-blocking-toggle-label-off = বন্ধ
