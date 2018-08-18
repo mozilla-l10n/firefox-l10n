@@ -133,6 +133,7 @@
 <!ENTITY corruptedContentErrorv2.title "Errore contenuto danneggiato">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La pagina richiesta non può essere visualizzata a causa di un errore rilevato durante la trasmissione dei dati.</p><ul><li>Contattare il proprietario del sito web e segnalare il problema.</li></ul>">
 <!ENTITY securityOverride.exceptionButtonLabel "Aggiungi eccezione…">
+<!ENTITY securityOverride.exceptionButton1Label "Accetta il rischio e continua">
 <!ENTITY errorReporting.automatic2 "Segnala errori come questo per aiutare Mozilla a identificare e bloccare siti dannosi">
 <!ENTITY errorReporting.learnMore "Ulteriori informazioni…">
 <!ENTITY remoteXUL.title "XUL remoto">
