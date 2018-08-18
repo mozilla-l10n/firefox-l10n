@@ -105,12 +105,21 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> gunearen jabeak webgunea gaizki konfiguratu du. Zure informazioa lapurtzea saihesteko, &brandShortName; ez da webgune honetara konektatu.">
 
+<!ENTITY certerror.introPara1 "&brandShortName;(e)k balizko segurtasun-mehatxu bat antzeman du eta ez du jarraitu <span class='hostname'/> gunera. Gune hau bisitatzen baduzu, erasotzaileek zure informazioa lapur lezakete, adibidez pasahitzak, mezu elektronikoak edo kreditu-txartelak.">
 
+<!ENTITY certerror.expiredCert.secondPara "Litekeena da zure ordenagailuko erlojuak ordua gaizki izatea eta honek &brandShortName;(r)i modu seguruan konektatzea eragozten dio.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Zer egin dezakezu?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Litekeena da arazoa webguneak izatea eta ezin duzu ezer egin hau konpontzeko.</p>
+<p>Enpresako sare batean bazaude edo antibirus softwarea badarabilzu, laguntza-zerbitzuengana jo dezakezu sostengu eske. Webgunearen kudeatzaileari arazoaren berri ere eman diezaiokezu.</p>
+">
 
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Litekeena da arazoa webguneak izatea eta ezin duzu ezer egin hau konpontzeko. Webgunearen kudeatzaileari arazoaren berri eman diezaiokezu</p>
+">
 
 <!ENTITY sharedLongDesc "<ul>
   <li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriro geroago.</li>
