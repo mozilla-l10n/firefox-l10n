@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Дополнительно">
 
 <!ENTITY continue1.label "Продолжить…">
+<!ENTITY moreInformation.label "Подробная информация">
 
 <!-- Specific error messages -->
 
@@ -205,6 +206,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> использует защитную технологию, которая является устаревшей и уязвимой для атаки. Злоумышленник может легко выявить информацию, которая, как вы думали, находится в безопасности. Для того, чтобы вы смогли посетить веб-сайт, администратор веб-сайта должен сначала исправить его сервер.</p><p>Код ошибки: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Заблокированная страница">
+
 
 <!ENTITY prefReset.longDesc "Похоже, что причиной этого могут быть настройки безопасности вашей сети. Вы хотите восстановить настройки по умолчанию?">
 <!ENTITY prefReset.label "Восстановить настройки по умолчанию">
