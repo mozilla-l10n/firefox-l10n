@@ -4,7 +4,7 @@
 
 sync-disconnect-dialog =
     .title = Seŋto { -sync-brand-short-name }
-    .style = njaajeendi; 36mo; hakindo-njuuteendi; 35ɓo;
+    .style = width: 36em; min-height: 35em;
 sync-disconnect-heading = Aɗa yiɗi kadi momtude keɓe wanngorde e oo ordinateer? Keɓe maa { -sync-brand-name } maa keddo e konte maa, hay so.
 sync-disconnect-remove-sync-caption = Momtu keɓe { -sync-brand-name }
 sync-disconnect-remove-sync-data = Maantore, aslol, finndeeji, ekn.
