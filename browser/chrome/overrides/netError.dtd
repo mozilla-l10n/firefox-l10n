@@ -103,6 +103,9 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Nejskerjej websedło problem zawinujo, a njedajo nic, což móžośo cyniś, aby jen rozwězał.</p>
 <p>Jolic słušaśo k pśedewześowej seśi abo antiwirusowu softwaru wužywaśo, móžośo teamy pomocy wó pódpěru pšosyś. Móžośo teke administratora websedła wó problemje informěrowaś.</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Zeger wašogo licadła jo na <span id='wrongSystemTime_systemDate2'/> nastajony. Kontrolěrujśo, lěc su korektny datum, korektny cas a korektna casowa cona w systemowych nastajenjach wašogo licadła nastajone a aktualizěrujśo pótom <span class='hostname'/>.</p>
+<p>Jeli waš časnik hižo korektny čas pokazuje, je websydło najskerje wopak konfigurowane a njemóžeće ničo činić, zo byšće tutón problem rozrisał. Móžeće administratora websydła wo tutym problemje informować.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Nejskerjej websedło problem zawinujo, a njedajo nic, což móžośo cyniś, aby jen rozwězał. Móžośo administratora websedła wó problemje informěrowaś.</p>">
 
@@ -147,6 +150,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Zablokěrowany bok">
 
+<!ENTITY clockSkewError.title "Zeger wašogo licadła wopak źo">
 
 <!ENTITY prefReset.longDesc "Zda se, až waše nastajenja seśoweje wěstoty by mógli to zawinowaś. Cośo standardne nastajenja wótnowiś?">
 <!ENTITY prefReset.label "Standardne nastajenja wótnowiś">
