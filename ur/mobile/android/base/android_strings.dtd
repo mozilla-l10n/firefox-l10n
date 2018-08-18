@@ -311,9 +311,11 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "&formatS; میں کھولیں">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; کی طرف سے">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "نقل شدہ URL">
 
+<!ENTITY pref_pwa "پروگریسو ویب ایپس">
 <!ENTITY pref_pwa_summary "ابتدائی اسکرین پر ویب ایپس شامل کرنے کی اجازت دیں">
 
 <!ENTITY tracking_protection_prompt_title "اب سراغ کاری حفاظت کے ساتھ">
@@ -365,9 +367,11 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "نظام فانٹ استعمال کریں">
+<!ENTITY pref_use_system_font_size_summary "سسٹم فونٹ سائز کے مطابق ویب مواد کو اسکیل کریں">
 
 <!ENTITY pref_media_autoplay_enabled "خودکار چلنے کی اجازت دیں">
 <!ENTITY pref_media_autoplay_enabled_summary "قابو کریں اگر ویب سائٹیں خود وڈیو اور دیگر میڈیا مواد چلاسکتی ہیں">
+<!ENTITY pref_media_autoplay_allow "آٹوپلے کی اجازت دیں">
 <!ENTITY pref_zoom_force_enabled "زوم ہمیشہ اہل بنائیں">
 <!ENTITY pref_zoom_force_enabled_summary "زیر لازمی کریں تاکہ آپ کسی بھی صفحے پر زوم کر سکیں">
 <!ENTITY pref_voice_input "آواز ان پٹ">
@@ -894,3 +898,7 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 Picture-in-picture mini window -->
 <!ENTITY pip_play_button_title "چلائیں">
 <!ENTITY pip_pause_button_title "توقف کریں">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY download_notification_channel "ڈاؤن لوڈز">
