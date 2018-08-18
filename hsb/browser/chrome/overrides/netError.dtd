@@ -147,6 +147,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Zablokowana strona">
 
+<!ENTITY clockSkewError.title "Waš ličakowy časnik wopak dźe">
 
 <!ENTITY prefReset.longDesc "Zda so, zo waše nastajenja syćoweje wěstoty móhli to zawinować. Chceće standardne nastajenja wobnowić?">
 <!ENTITY prefReset.label "Standardne nastajenja wobnowić">
