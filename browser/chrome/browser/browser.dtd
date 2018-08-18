@@ -1011,6 +1011,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblock3.label "Désactiver pour ce site">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
 <!ENTITY trackingProtection.unblock4.label "Désactiver le blocage pour ce site">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -1019,6 +1020,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block4.label "Activer pour ce site">
 <!ENTITY trackingProtection.block4.accesskey "A">
 <!ENTITY trackingProtection.unblockPrivate4.label "Désactiver temporairement le blocage">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Activer le blocage pour ce site">
 <!ENTITY trackingProtection.block5.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Actualiser la page">
