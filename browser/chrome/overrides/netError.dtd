@@ -103,6 +103,9 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Najskerje websydło problem zawinuje, a njeje ničo, štož móžeće činić, zo byšće jón rozrisał.</p>
 <p>Jeli słušeće k předewzaćowej syći abo antiwirusowu softwaru wužiwaće, móžeće teamy pomocy wo podpěru prosyć. Móžeće tež administratora websydła wo problemje informować.</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Waš ličakowy časnik je na <span id='wrongSystemTime_systemDate2'/> nastajeny. Kontrolujće, hač su korektny datum, korektny čas a korektne časowe pasmo w systemowych nastajenjach wašeho ličaka nastajene a aktualizujće potom <span class='hostname'/>.</p>
+<p>Jeli waš časnik hižo korektny čas pokazuje, je websydło najskerje wopak konfigurowane a njemóžeće ničo činić, zo byšće tutón problem rozrisał. Móžeće administratora websydła wo tutym problemje informować.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Najskerje websydło problem zawinuje, a njeje ničo, štož móžeće činić, zo byšće jón rozrisał. Móžeće administratora websydła wo problemje informować.</p>">
 
@@ -148,6 +151,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Zablokowana strona">
 
 <!ENTITY clockSkewError.title "Waš ličakowy časnik wopak dźe">
+<!ENTITY clockSkewError.longDesc "Waš ličak měni, zo čas je <span id='wrongSystemTime_systemDate1'/>, štož wěstemu zwjazowanju &brandShortName; zadźěwa. Zo byšće<span class='hostname'></span> wopytał, aktualizujće časnik swojeho ličaka w systemowych nastajenjach na aktualny datum, aktualny čas a aktualne časowe pasmo a aktualizujće potom <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Zda so, zo waše nastajenja syćoweje wěstoty móhli to zawinować. Chceće standardne nastajenja wobnowić?">
 <!ENTITY prefReset.label "Standardne nastajenja wobnowić">
