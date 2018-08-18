@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "पीछे जाएँ (निर्देशित)">
 <!ENTITY advanced.label "उन्नत">
 
-<!ENTITY continue.label "जारी रखें">
+<!ENTITY continue1.label "जारी रखें…">
 
 <!-- Specific error messages -->
 
@@ -95,6 +95,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> के मालिक ने अपने वेबसाइट को अनुचित तरीके से कॉन्फ़िगर किया है.  आपकी जानकारी को चोरी होने से बचाने के लिए, &brandShortName; इस वेबसाइट से जुड़ा हुआ नहीं है.">
 
+<!ENTITY certerror.introPara1 "&brandShortName; ने संभावित सुरक्षा खतरे का पता लगाया और <span class='hostname'/> जारी नहीं रखा. यदि आप इस साइट पर जाते हैं, तो अटैकर आपके पासवर्ड, ईमेल या क्रेडिट कार्ड जैसी जानकारी चोरी करने का प्रयास कर सकते हैं.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "आप इसके लिए क्या कर सकते हैं?">
@@ -141,6 +142,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> सुरक्षा तकनीक का उपयोग करता है जो पुराना और आक्रमण हेतु भेद्य है. एक भेदी आसानी से वो सूचना प्रत्यक्ष कर सकता है जिसे आप सुरक्षित समझते हैं. वेबसाइट प्रशासक को आपके साईट देखने से पहले सर्वर ठीक करना होगा.</p><p>त्रुटि कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "ब्लॉक किया हुआ पृष्ट">
+
 
 <!ENTITY prefReset.longDesc "लगता है आपकी नेटवर्क सिक्योरिटी के कारण यह हो रहा है. क्या आप चाहते हैं कि आपकी सेटिंग पुरानी स्थिति में आ जाए?">
 <!ENTITY prefReset.label "तयशुदा सेटिंग्स पुरानी स्थिति में लाएं">
