@@ -4,7 +4,7 @@
 
 sync-disconnect-dialog =
     .title = ¿Desconectar { -sync-brand-short-name }?
-    .style = ancho: 36 em; altura mínima: 35em;
+    .style = width: 36em; min-height: 35em;
 sync-disconnect-heading = ¿Quiere eliminar los datos del navegador en esta computadora también? Aunque los elimine, sus datos de { -sync-brand-name } seguirán almacenados en su cuenta.
 sync-disconnect-remove-sync-caption = Eliminar datos de { -sync-brand-name }
 sync-disconnect-remove-sync-data = Marcadores, historial, contraseñas, etc.
