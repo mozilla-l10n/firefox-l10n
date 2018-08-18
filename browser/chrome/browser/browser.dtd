@@ -953,6 +953,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.disabled.tooltip "Edukia blokeatzea desgaitu duzu.">
 <!ENTITY contentBlocking.exception.tooltip "Edukia blokeatzea desgaitu duzu gune honetarako.">
 
+<!ENTITY contentBlocking.fastBlock.label "Karga moteltzen duten jarraipen-elementuak">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -965,6 +966,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Gehitu blokeatzea…">
 
+<!ENTITY contentBlocking.trackingProtection.label "Jarraipen-elementuak">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
