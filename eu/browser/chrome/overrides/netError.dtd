@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Aurreratua">
 
 <!ENTITY continue1.label "Jarraitu…">
+<!ENTITY moreInformation.label "Informazio gehiago">
 
 <!-- Specific error messages -->
 
@@ -98,6 +99,7 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Ikusten saiatzen ari zaren orria ezin da erakutsi jasotako datuen egiazkotasuna ezin delako egiaztatu.</li> <li>Mesedez jarri harremanetan webgunearen jabeekin arazoaren berri emateko.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Zure konexioa ez da segurua">
+<!ENTITY certerror.longpagetitle2 "Abisua: balizko segurtasun arriskua">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -105,6 +107,7 @@ was trying to connect. -->
 
 
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Zer egin dezakezu?">
 
 
 
@@ -142,6 +145,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ezin da <span id='wrongSystemTimeWithoutReference_URL'/> ostalarira konektatu zure ordulariak okerreko ordua erakusten duela dirudielako eta honek konexio segurua eragozten duelako.</p> <p>Zure ordenagailuak dio <span id='wrongSystemTimeWithoutReference_systemDate'/> dela. Arazo hau konpontzeko, aldatu zure data- eta ordu-ezarpenak ordu egokira.</p>">
 
 <!ENTITY certerror.pagetitle1  "Konexio ez-segurua">
+<!ENTITY certerror.pagetitle2  "Abisua: balizko segurtasun arriskua">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Gune honek HTTP Strict Transport Security (HSTS) erabiltzen du &brandShortName; modu seguruan soilik konekta litekeela zehazteko. Ondorioz, ezin da salbuespenik gehitu ziurtagiri honentzat.">
 <!ENTITY certerror.copyToClipboard.label "Kopiatu testua arbelean">
 
