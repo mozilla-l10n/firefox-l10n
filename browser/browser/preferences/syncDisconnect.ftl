@@ -4,7 +4,7 @@
 
 sync-disconnect-dialog =
     .title = { -sync-brand-short-name } বিচ্ছিন্ন করা হবে?
-    .style = প্রস্থ: 36em; min-height: 35em;
+    .style = width: 36em; min-height: 35em;
 sync-disconnect-heading = আপনি কি এই কম্পিউটারে ব্রাউজার ডেটা মুছে ফেলতে চান? যদিও, আপনার { -sync-brand-name } ডেটা আপনার অ্যাকাউন্টে থাকবে।
 sync-disconnect-remove-sync-caption = { -sync-brand-name } ডাটা অপসারণ করুন
 sync-disconnect-remove-sync-data = বুকমার্ক, ইতিহাস, পাসওয়ার্ড ইত্যাদি
