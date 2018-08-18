@@ -202,6 +202,8 @@ choose-language-description = Aukeratu orriak bistaratzeko hizkuntza hobetsia
 choose-button =
     .label = Aukeratu…
     .accesskey = A
+choose-browser-language-description = Aukeratu { -brand-short-name }(r)en menuak, mezuak eta jakinarazpenak bistaratzeko hizkuntzak.
+confirm-browser-language-change-description = Berrabiarazi { -brand-short-name } aldaketa hauek aplikatzeko
 confirm-browser-language-change-button = Aplikatu eta berrabiarazi
 translate-web-pages =
     .label = Itzuli webeko edukia
@@ -631,10 +633,19 @@ addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hob
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Edukia blokeatzea
+content-blocking-desc = Blokeatu zure nabigatzea moteldu eta webean zehar zure jarraipena egin lezaketen hirugarrenen edukia, adibidez iragarkiak edo kodea. Pertsonalizatu ezarpenak babesaren eta errendimenduaren arteko oreka zuzena aurkitzeko.
 content-blocking-learn-more = Argibide gehiago
 content-blocking-restore-defaults =
     .label = Berrezarri lehenetsiak
     .accesskey = B
+content-blocking-toggle-on =
+    .tooltiptext = Desaktibatu edukia blokeatzea
+content-blocking-toggle-off =
+    .tooltiptext = Aktibatu edukia blokeatzea
+content-blocking-toggle-label-on = PIZTUTA
+    .accesskey = P
+content-blocking-toggle-label-off = ITZALITA
+    .accesskey = T
 content-blocking-category-label = Aukeratu zer blokeatu
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they

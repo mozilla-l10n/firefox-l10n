@@ -947,32 +947,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.off "Jarraipenaren babesa: itzalita">
 
 <!ENTITY contentBlocking.title "Edukia blokeatzea">
+<!ENTITY contentBlocking.detected "Blokeatu daitekeen edukia antzeman da gune honetan.">
+<!ENTITY contentBlocking.notDetected "Ez da blokeatu daitekeen edukirik antzeman orri honetan.">
 <!ENTITY contentBlocking.disabled.label "Desgaituta">
+<!ENTITY contentBlocking.disabled.tooltip "Edukia blokeatzea desgaitu duzu.">
+<!ENTITY contentBlocking.exception.tooltip "Edukia blokeatzea desgaitu duzu gune honetarako.">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Blokeatuta">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Gehitu blokeatzea…">
 
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Blokeatuta">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Gehitu blokeatzea…">
 
 <!ENTITY trackingProtection.title "Jarraipenaren babesa">
 <!ENTITY trackingProtection.detectedBlocked3 "Zure nabigazioaren jarraipena egin lezaketen orriaren zatiak blokeatzen ari da &brandShortName;.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Gune honek zure nabigazioaren jarraipena egin lezaketen zatiak ditu. Babesa desgaituta daukazu.">
-<!ENTITY trackingProtection.notDetected3 "Ez da jarraipeneko elementurik atzeman orri honetan.">
+<!ENTITY trackingProtection.notDetected3 "Ez da jarraipeneko elementurik antzeman orri honetan.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -988,10 +996,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.tooltip "Ireki jarraipenaren babesaren hobespenak">
 <!ENTITY trackingProtection.detectedBlocked4 "Zure nabigazioaren jarraipena egin lezaketen orri honen zatiak blokeatzen ari da &brandShortName;.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "Zure nabigazioaren jarraipena egin lezaketen elementuak atzeman ditu &brandShortName;(e)k.">
-<!ENTITY trackingProtection.detectedException "Zure nabigazioaren jarraipena egin lezaketen zatiak atzeman ditu &brandShortName;(e)k. Babesa desgaituta daukazu orri honetarako.">
-<!ENTITY trackingProtection.notDetected5 "Ez da jarraipeneko elementurik atzeman orri honetan.">
-<!ENTITY trackingProtection.notDetectedException "Ez da jarraipeneko elementurik atzeman orri honetan. Babesa desgaituta daukazu orri honetarako.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "Zure nabigazioaren jarraipena egin lezaketen elementuak antzeman ditu &brandShortName;(e)k.">
+<!ENTITY trackingProtection.detectedException "Zure nabigazioaren jarraipena egin lezaketen zatiak antzeman ditu &brandShortName;(e)k. Babesa desgaituta daukazu orri honetarako.">
+<!ENTITY trackingProtection.notDetected5 "Ez da jarraipeneko elementurik antzeman orri honetan.">
+<!ENTITY trackingProtection.notDetectedException "Ez da jarraipeneko elementurik antzeman orri honetan. Babesa desgaituta daukazu orri honetarako.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Jarraipenaren babesa gaituta daukazu. Berritu orria elementu guztiak blokeatzeko.">
 
@@ -1000,6 +1008,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Desgaitu gune honetarako">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Desgaitu blokeatzea gune honetarako">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -1007,6 +1017,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Gaitu gune honetarako">
 <!ENTITY trackingProtection.block4.accesskey "G">
+<!ENTITY trackingProtection.unblockPrivate4.label "Desgaitu blokeatzea behin-behinean">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Gaitu blokeatzea gune honetarako">
+<!ENTITY trackingProtection.block5.accesskey "G">
 <!ENTITY trackingProtection.reload2.label "Berritu orria">
 <!ENTITY trackingProtection.reload2.accesskey "B">
 
@@ -1112,6 +1126,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.shareUrl.label "Partekatu">
 
+<!ENTITY pageAction.shareMore.label "Gehiago…">
 
 <!ENTITY libraryButton.tooltip "Ikusi historia, gordetako laster-markak eta gehiago">
 
