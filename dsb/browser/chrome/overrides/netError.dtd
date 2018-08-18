@@ -151,6 +151,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Zablokěrowany bok">
 
 <!ENTITY clockSkewError.title "Zeger wašogo licadła wopak źo">
+<!ENTITY clockSkewError.longDesc "Wašo licadło měni, až cas jo <span id='wrongSystemTime_systemDate1'/>, což wěstemu zwězowanjeju &brandShortName; zajźujo. Aby se k <span class='hostname'></span> woglědał, aktualizěrujśo zeger swójogo licadła w systemowych nastajenjach na aktualny datum, aktualny cas a aktualnu casowu conu a aktualizěrujśo pótom <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Zda se, až waše nastajenja seśoweje wěstoty by mógli to zawinowaś. Cośo standardne nastajenja wótnowiś?">
 <!ENTITY prefReset.label "Standardne nastajenja wótnowiś">
