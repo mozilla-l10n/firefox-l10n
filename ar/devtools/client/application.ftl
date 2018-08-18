@@ -33,6 +33,11 @@ serviceworker-worker-status = الحالة
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
 serviceworker-worker-status-running = يعمل
+# Service Worker status. A stopped service worker is registered but not currently active.
+serviceworker-worker-status-stopped = متوقف
+# Service Worker status. A registering service worker is not yet registered and cannot be
+# started or debugged.
+serviceworker-worker-status-registering = يُسجّل
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro = عليك تسجيل عامل خدمة لتقدر على فحصه هنا. <a>اطّلع على المزيد</a>

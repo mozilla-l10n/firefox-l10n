@@ -158,6 +158,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "الصفحة محجوبة">
 
 <!ENTITY clockSkewError.title "ساعة الحاسوب خاطئة">
+<!ENTITY clockSkewError.longDesc "يظن الحاسوب لديك بأنه <span id='wrongSystemTime_systemDate1'/>، ما يمنع &brandShortName; من الاتصال كما ينبغي. لتقدر على زيارة <span class='hostname'></span> حدّث ساعة الحاسوب في إعدادات النظام لتطابق الوقت والتاريخ والمنطقة الزمنية الحالية، بعدها أنعِش <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "يبدو أن إعدادات أمان الشبكة قد تكون السبب وراء هذا. أتريد استعادة الإعدادات المبدئية؟">
 <!ENTITY prefReset.label "استرجع الإعدادات الأصلية">
