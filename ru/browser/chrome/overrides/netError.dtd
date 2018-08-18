@@ -165,7 +165,14 @@ was trying to connect. -->
 <p>Если вы находитесь в корпоративной сети или используете антивирусную программу, вы можете связаться со службой поддержки для получения помощи. Вы также можете сообщить администратору веб-сайта об этой проблеме.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Часы вашего компьютера показывают <span id='wrongSystemTime_systemDate2'/>. Убедитесь, что в настройках системы вашего компьютера установлены правильные дата, время и часовой пояс, после чего перезагрузите <span class='hostname'/>.</p>
+<p>Если ваши часы установлены правильно, то скорее всего неправильно настроен веб-сайт и вы не сможете с этим ничего сделать. Вы можете сообщить об этой проблеме администратору веб-сайта.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Скорее всего, эта проблема связана с самим веб-сайтом, и вы ничего не сможете с этим сделать. Вы можете сообщить администратору веб-сайта об этой проблеме.</p>
+">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -205,7 +212,9 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; не соединился с <span id='wrongSystemTimeWithoutReference_URL'/>, так как похоже, что часы на вашем компьютере показывают неправильное время, что не позволяет установить защищённое соединение.</p> <p>Ваш компьютер считает, что сейчас <span id='wrongSystemTimeWithoutReference_systemDate'/>. Чтобы устранить эту проблему, измените ваши настройки даты и времени, чтобы установить правильное время.</p>">
 
 <!ENTITY certerror.pagetitle1  "Незащищённое соединение">
+<!ENTITY certerror.pagetitle2  "Предупреждение: Вероятная угроза безопасности">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Этот сайт использует Форсированное защищённое соединение HTTP (HSTS), чтобы указать, что &brandShortName; должен подключаться к нему только через защищённое соединение. В результате, добавление исключения для этого сертификата невозможно.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> имеет политику безопасности называемую Форсированное защищённое соединение HTTP (HSTS), что означает, что &brandShortName; может подключиться к нему только через защищённое соединение. Вы не можете добавить исключение, чтобы посетить этот сайт.">
 <!ENTITY certerror.copyToClipboard.label "Копировать текст в буфер обмена">
 
 <!ENTITY inadequateSecurityError.title "Ваше соединение не защищено">
@@ -215,6 +224,8 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Заблокированная страница">
 
+<!ENTITY clockSkewError.title "Часы вашего компьютера установлены неправильно">
+<!ENTITY clockSkewError.longDesc "Ваш компьютер считает, что текущее время — <span id='wrongSystemTime_systemDate1'/>, что не даёт &brandShortName; установить защищённое соединение. Чтобы посетить <span class='hostname'></span>, укажите в компьютерных часах в настройках системы текущую дату, время и часовой пояс, а затем перезагрузите <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Похоже, что причиной этого могут быть настройки безопасности вашей сети. Вы хотите восстановить настройки по умолчанию?">
 <!ENTITY prefReset.label "Восстановить настройки по умолчанию">
