@@ -291,7 +291,7 @@
      be taken from the strings in attachmentCount in composeMsgs.properties,
      and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
      work, as the shortcut key functionality supersedes the access key. -->
-<!ENTITY attachments.accesskey "n">
+<!ENTITY attachments.accesskey "m">
 
 <!ENTITY attachmentBucketHeader.tooltip "Anhangbereich">
 <!ENTITY attachmentBucketCloseButton.tooltip "Anhangbereich ausblenden">
