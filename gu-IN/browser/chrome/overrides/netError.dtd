@@ -11,7 +11,8 @@
 <!ENTITY returnToPreviousPage1.label "પાછા જાઓ (ભલામણ કરેલ)">
 <!ENTITY advanced.label "અદ્યતન">
 
-<!ENTITY continue.label "ચાલુ">
+<!ENTITY continue1.label "ચાલુ રાખો…">
+<!ENTITY moreInformation.label "વધુ મહિતી">
 
 <!-- Specific error messages -->
 
@@ -92,13 +93,16 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>પાનું જે તમે જોવાનો પ્રયત્ન કરી રહ્યા છો તેને બતાવી શકાતુ નથી કારણ કે પ્રાપ્ત થયેલ માહિતીનું સત્તાધિકરણને ચકાસી શક્યા નહિં.</li> <li>મહેરબાની કરીને આ સમસસ્યને તેઓને જણાવવા માટે વેબસાઇટ માલિકનો સંપર્ક કરો.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "તમારું જોડાણ સુરક્ષિત નથી">
+<!ENTITY certerror.longpagetitle2 "ચેતવણી: આગળ સંભવિત સુરક્ષા જોખમ">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> ના માલિકે તેમની વેબસાઇટ અયોગ્ય રીતે ગોઠવેલી છે.   તમારી માહિતીને ચોરાઇ જવાથી સુરક્ષિત કરવા માટે, &brandShortName; આ વેબસાઇટથી જોડાણ કરેલ નથી.">
 
+<!ENTITY certerror.introPara1 "&brandShortName; સંભવિત સુરક્ષા ધમકી મળી અને <span class='hostname'/>ને ચાલુ રાખ્યું ન હતું. જો તમે આ સાઇટની મુલાકાત લો છો, તો હુમલાખોરો તમારા પાસવર્ડ્સ, ઇમેઇલ્સ અથવા ક્રેડિટ કાર્ડ જેવી માહિતી ચોરી કરવાનો પ્રયાસ કરી શકે છે.">
 
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "તમે તેના વિશે શું કરી શકો?">
 
 
 
@@ -141,6 +145,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> એ સુરક્ષા માટે એવી ટેક્નોલોજી વાપરે છે કે જે જૂની તથા સહેલાઇથી હુમલો કરી શકાય તેવી હોય છે. જે માહિતીને તમે સુરક્ષિત માની રહ્યા હોય તેને હુમલાખોર સહેલાઇથી પ્રદ્રશિત કરી શકે છે. તમે વેબસાઇટ પર જાઓ તે પહેલાં વેબસાઇટનાં વહીવટકર્તાએ સર્વર ને વ્યવસ્થિત કરવાની જરુર છે.</p><p>ભૂલ ક્રમાંક: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "અવરોધિત પૃષ્ઠ">
+
 
 <!ENTITY prefReset.longDesc "એવું લાગી રહ્યું છે કે તમારાં નેટવર્કની સુરક્ષા વ્યવસ્થા ને કારણે આમ થઇ રહ્યુ છે. શું આપ મૂળભૂત વ્યવસ્થા પાછી લાવવાં ઈચ્છો છો?">
 <!ENTITY prefReset.label "મૂળભુત સેટિંગ પાછા લાવો">
