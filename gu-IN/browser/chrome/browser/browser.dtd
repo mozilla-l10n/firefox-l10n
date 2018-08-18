@@ -946,13 +946,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "ટ્રેકિંગ પ્રોટેક્શન: ચાલુ">
 <!ENTITY trackingProtection.off "ટ્રેકિંગ પ્રોટેક્શન: OFF">
 
+<!ENTITY contentBlocking.detected "આ સાઇટ પર અવરોધનીય સામગ્રી મળી.">
+<!ENTITY contentBlocking.notDetected "આ પૃષ્ઠ પર કોઈ અવરોધનીય સામગ્રી મળી નથી.">
 <!ENTITY contentBlocking.disabled.label "નિષ્ક્રિય">
 
+<!ENTITY contentBlocking.fastBlock.label "ધીમો-લોડિંગ ટ્રેકર">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "અવરોધિત">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
