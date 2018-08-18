@@ -633,7 +633,7 @@ addressbar-suggestions-settings = Arama motoru önerileri için tercihleri deği
 ## Privacy Section - Content Blocking
 
 content-blocking-header = İçerik engelleme
-content-blocking-desc = Tarama işlemini yavaşlatabilecek ve web’de sizi izleyebilecek reklamlar, kodlar gibi üçüncü taraf içeriklerini engelleyebilirsiniz. Koruma ve performans dengesini sağlamak için ayarlarınızı özelleştirebilirsiniz.
+content-blocking-desc = Gezintinizi yavaşlatabilecek ve web’de sizi izleyebilecek reklamlar, kodlar gibi üçüncü taraf içeriklerini engelleyebilirsiniz. Koruma ve performans dengesini sağlamak için ayarlarınızı özelleştirebilirsiniz.
 content-blocking-learn-more = Daha fazla bilgi al
 content-blocking-restore-defaults =
     .label = Varsayılanları geri yükle
