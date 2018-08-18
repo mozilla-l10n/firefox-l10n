@@ -33,7 +33,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "ل">
 <!ENTITY runtimeMenu_showDetails_label "معلومات بيئة التشغيل">
 <!ENTITY runtimeMenu_showDetails_accesskey "ت">
-<!ENTITY runtimeMenu_showMonitor_accesskey "ش">
 <!ENTITY runtimeMenu_showDevicePrefs_label "تفضيلات الجهاز">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "ج">
 <!ENTITY runtimeMenu_showSettings_label "إعدادات الجهاز">
@@ -107,6 +106,7 @@
 <!ENTITY runtimedetails_title "معلومات بيئة التشغيل">
 <!ENTITY runtimedetails_adbIsRoot "ADB‏ جذر: ">
 <!ENTITY runtimedetails_ADBRootWarning "(يحتاج محمل إقلاع مُزال قفله)">
+<!ENTITY runtimedetails_unrestrictedPrivileges "صلاحيات DevTools مطلقة وغير محدودة: ">
 <!ENTITY runtimedetails_requestPrivileges "يحتاج امتيازات أعلى">
 <!ENTITY runtimedetails_privilegesWarning "(سيُعيد إقلاع الجهاز. يطلب تصاريح الجذر.)">
 
@@ -130,9 +130,6 @@
 <!ENTITY devicesetting_newname "اسم الإعداد الجديد">
 <!ENTITY devicesetting_newtext "قيمة الإعداد">
 <!ENTITY devicesetting_addnew "أضِف إعدادا جديدا">
-
-<!-- Monitor -->
-<!ENTITY monitor_help "مساعدة">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog

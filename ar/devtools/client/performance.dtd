@@ -46,6 +46,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+<!ENTITY performanceUI.options.filter.tooltiptext "حدّد أي البيانات ستعرض في المخطط الزمني">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
@@ -84,6 +85,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
+<!ENTITY performanceUI.console.recordingNoticeStart "يسجل حاليًا عبر">
 <!ENTITY performanceUI.console.recordingNoticeEnd   "">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
