@@ -639,10 +639,35 @@ addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 
 content-blocking-header = Zavračanje vsebine
 content-blocking-learn-more = Več o tem
+content-blocking-restore-defaults =
+    .label = Ponastavi privzeto
+    .accesskey = P
 content-blocking-toggle-on =
     .tooltiptext = Izključi zavračanje vsebine
 content-blocking-toggle-off =
     .tooltiptext = Vključi zavračanje vsebine
+content-blocking-toggle-label-on = VKLJUČENO
+    .accesskey = V
+content-blocking-toggle-label-off = IZKLJUČENO
+    .accesskey = I
+content-blocking-category-label = Izberite, kaj želite zavračati
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Počasni elementi sledenja
+    .accesskey = P
+content-blocking-fastblock-option-enabled =
+    .label = Vedno zavračaj
+content-blocking-fastblock-option-disabled =
+    .label = Nikoli ne zavračaj
+content-blocking-tracking-protection-label = Sledilci
+    .accesskey = S
+content-blocking-tracking-protection-option-enabled =
+    .label = Vedno zavračaj
+content-blocking-tracking-protection-option-pbm =
+    .label = Zavračaj samo v zasebnih oknih
+content-blocking-tracking-protection-option-disabled =
+    .label = Nikoli ne zavračaj
 content-blocking-tracking-protection-change-blocklist = Zamenjaj seznam za zavračanje …
 
 ## Privacy Section - Tracking
@@ -704,6 +729,8 @@ autoplay-option-ask =
     .label = Vedno vprašaj
 autoplay-option-allow =
     .label = Dovoli samodejno predvajanje
+autoplay-option-dont =
+    .label = Ne predvajaj samodejno
 permissions-block-popups =
     .label = Prepovej pojavna okna
     .accesskey = r
