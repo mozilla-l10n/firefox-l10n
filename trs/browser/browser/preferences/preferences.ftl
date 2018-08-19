@@ -505,14 +505,23 @@ sync-device-name-save =
     .label = Na'nïnj sà'
     .accesskey = N
 sync-mobilepromo-single = ga'nin' gan'an riña a'ngô aga'a
+sync-mobilepromo-multi = Nagi'iaj chre' nej aga'a
 sync-tos-link = Nuguan' da'uît gini'înt si ruhuât garasunt
 sync-fxa-privacy-notice = Notisia huìi
 
 ## Privacy Section
 
+privacy-header = Daj da'ui navegador gi'iaj sunj
 
 ## Privacy Section - Forms
 
+forms-header = Nej da'nga' huìd &
+forms-ask-to-save-logins =
+    .label = Da'ui nachi' na'ān si na'ninj sa'aj sa gayi'i nī da'nga' huìi guenda nej sitio na
+    .accesskey = r
+forms-exceptions =
+    .label = Si yakaj guendo'
+    .accesskey = x
 forms-saved-logins =
     .label = Sa gayi'ìt sesión ngà naginu sà'
     .accesskey = S
@@ -526,6 +535,40 @@ forms-master-pw-change =
 ## Privacy Section - History
 
 history-header = Daran sa gahuin
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } ga'ue
+    .accesskey = W
+history-remember-option-all =
+    .label = Tanū ruhuat riña gaché nut
+history-remember-option-never =
+    .label = Si gani'ij ma riña gaché nut
+history-remember-option-custom =
+    .label = Nagi'io' daj anin ruhuot riña gaché nut
+history-remember-description = { -brand-short-name } gataj na'anj ma dane' gaché nut, nuin si naduninj nī nej sa nana'uit.
+history-dontremember-description = { -brand-short-name } garusunj ru'ua riña gaché nu hui' se si na'ninj sa'aj riña gaché nut.
+history-private-browsing-permanent =
+    .label = Yitïnj chre garasun' sa aché nu hui'
+    .accesskey = p
+history-remember-option =
+    .label = Tanunj ruhuo' riña gaché nu' 'ngà sa naduni'
+    .accesskey = b
+history-remember-browser-option =
+    .label = Tanunj ruhuo' riña gaché nu' nī sa naduni'
+    .accesskey = b
+history-remember-search-option =
+    .label = Tanunj ruhuo' riña gaché nu'
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Nadure' ma riña gaché nu' 'ngà narun' { -brand-short-name }
+    .accesskey = r
 history-clear-on-close-settings =
     .label = Nagi'iô'...
     .accesskey = g
@@ -535,6 +578,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Kookies nī si dato sitio
 sitedata-learn-more = Gahuin chrūn doj
 sitedata-accept-third-party-always-option =
     .label = Nigànj chre
