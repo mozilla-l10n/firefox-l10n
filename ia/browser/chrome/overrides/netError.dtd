@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Avantiate">
 
 <!ENTITY continue1.label "Continuar…">
+<!ENTITY moreInformation.label "Plus de informationes">
 
 <!-- Specific error messages -->
 
@@ -159,9 +160,9 @@ was trying to connect. -->
 <p>Si tu es in un rete corporative o usa un software anti-virus, tu pote demandar lor assistentia technic. Tu pote tamben notificar le administrator del sito super le problema.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>Le horologio de tu computator es adjustate a <span id='wrongSystemTime_systemDate'/>. Assecura te que tu computator es adjustate al die, hora, e zona horari correcte in le definitiones de tu systema, e tunc recarga <span class='hostname'/>.</p>
-<p>Si tu horologio es ja adjustate al hora correcte, le sito web es probabilemente mal configurate, e il ha nulle cosa que tu pote facer pro resolver le problema. Tu pote notificar le administrator del sito web super le problema.</p>
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Le horologio de tu computator signa <span id='wrongSystemTime_systemDate2'/>. Verifica que tu computator es preparate al correcte data, tempore e fuso horari in le parametros de tu systema, e alora refresca <span class='hostname'/>.</p>
+<p>Si le tempore es jam correcte, le sito web pare ser mal configurate, e il ha nihil que tu pote facer pro resolver iste problema. Tu pote solo notificar de iste problema le administrator del sito.</p>
 ">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
@@ -218,6 +219,8 @@ certificato non es possibile.">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa technologia de securitate que es obsolete e vulnerabile a attaccos. Un attaccante pote facilemente revelar informationes que tu pensa esser secur. Le administrator del sito web debera reparar le servitor ante que tu pote visitar le sito.</p><p>Codice de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagina blocate">
+
+<!ENTITY clockSkewError.title "Le horologio de tu computator es errate">
 
 <!ENTITY prefReset.longDesc "Pare que le parametros de tu rete pote causar isto. Desira tu restaurar le parametros predefinite?">
 <!ENTITY prefReset.label "Restaurar le parametros predefinite">
