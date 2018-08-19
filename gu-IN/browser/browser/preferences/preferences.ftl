@@ -633,14 +633,40 @@ addressbar-suggestions-settings = શોધ એન્જિન સૂચનો �
 ## Privacy Section - Content Blocking
 
 content-blocking-header = સામગ્રી અવરોધિત
+content-blocking-desc = તૃતીય-પક્ષ વસ્તુઓને અવરોધિત કરો, જેમ કે જાહેરાતો અથવા કોડ, જે તમારી બ્રાઉઝિંગને ધીમુ કરી શકે છે અને વેબ પર તમને ટ્રૅક કરી શકે છે. રક્ષણ અને કાર્યના શ્રેષ્ઠ સંતુલન માટે તમારી સેટિંગ્સને કસ્ટમાઇઝ કરો.
 content-blocking-learn-more = વધુ શીખો
 content-blocking-restore-defaults =
     .label = મૂળભૂતને પુન:સંગ્રહો
     .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = વસ્તુઓનો અવરોધ બંધ કરો
+content-blocking-toggle-off =
+    .tooltiptext = વસ્તુઓનો અવરોધ ચાલુ કરો
 content-blocking-toggle-label-on = ચાલુ
     .accesskey = O
 content-blocking-toggle-label-off = બંધ
     .accesskey = O
+content-blocking-category-label = શું અવરોધ કરવું તે પસંદ કરો
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = ધીમા ટ્રેકિંગ તત્વો
+    .accesskey = S
+content-blocking-fastblock-description = તૃતીય-પક્ષની સામગ્રીને અવરોધ કરે છે જે લોડ થવામાં 5 સેકંડથી વધુ સમય લે છે.
+content-blocking-fastblock-option-enabled =
+    .label = હંમેશા અવરોધિત કરો
+content-blocking-fastblock-option-disabled =
+    .label = ક્યારેય અવરોધિત કરશો નહીં
+content-blocking-tracking-protection-label = ટ્રેકર્સ
+    .accesskey = T
+content-blocking-tracking-protection-description = બધા જાણીતા ટ્રેકર્સને અવરોધ કરે છે
+content-blocking-tracking-protection-option-enabled =
+    .label = હંમેશા અવરોધિત કરો
+content-blocking-tracking-protection-option-pbm =
+    .label = ફક્ત ખાનગી વિંડોઝમાં અવરોધિત કરો
+content-blocking-tracking-protection-option-disabled =
+    .label = ક્યારેય અવરોધિત કરશો નહીં
+content-blocking-tracking-protection-change-blocklist = અવરોધ સૂચિ બદલો...
 
 ## Privacy Section - Tracking
 

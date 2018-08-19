@@ -946,6 +946,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "ટ્રેકિંગ પ્રોટેક્શન: ચાલુ">
 <!ENTITY trackingProtection.off "ટ્રેકિંગ પ્રોટેક્શન: OFF">
 
+<!ENTITY contentBlocking.title "વસ્તુઓ અવરોધ">
 <!ENTITY contentBlocking.detected "આ સાઇટ પર અવરોધનીય સામગ્રી મળી.">
 <!ENTITY contentBlocking.notDetected "આ પૃષ્ઠ પર કોઈ અવરોધનીય સામગ્રી મળી નથી.">
 <!ENTITY contentBlocking.disabled.label "નિષ્ક્રિય">
