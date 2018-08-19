@@ -749,8 +749,21 @@ permissions-a11y-privacy-link = Gahuin chrun doj
 ## Privacy Section - Data Collection
 
 collection-header = Nej sa nachra sa' datos { -brand-short-name }
+collection-description = Nū huin ñunj da' nahin chre' nej sa rugujñu'un da' nahuin hue'e { -brand-short-name } guenda da'ua age guìi . Yitinj chre achín ni'iaj ñunj da' nahuin ra'a ñunj nugua'an.
 collection-privacy-notice = Noticia huìi
+collection-health-report =
+    .label = Garayino' si { -brand-short-name } ga'ninj nuguan'an { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = Gahuin chrūn doj
+collection-studies =
+    .label = Ga'ni' { -brand-short-name } dugutuj sa digi'ñu'
+collection-studies-link = Ni'io' nej sa digi'ñun { -brand-short-name }
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Nej sa ataj na'anj nej datos nitaj si 'iaj sun 'ngà nej kopilacion
+collection-browser-errors =
+    .label = Ga'ni' da' { -brand-short-name } ga'ninj nej sa gire'e (Ga'ue nej mensaje gire'e) 'ngo { -vendor-short-name }
+    .accesskey = b
 collection-browser-errors-link = Gahuin chrūn doj
 collection-backlogged-crash-reports-link = Gahuin chrūn doj
 
