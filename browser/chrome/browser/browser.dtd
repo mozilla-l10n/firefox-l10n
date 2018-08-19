@@ -949,6 +949,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.disabled.tooltip "Onemogočili ste zavračanje vsebine.">
 <!ENTITY contentBlocking.exception.tooltip "Zavračanje vsebine na tej strani je onemogočeno.">
 
+<!ENTITY contentBlocking.fastBlock.label "Počasni sledilci">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
