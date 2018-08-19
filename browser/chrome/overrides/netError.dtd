@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Avansert">
 
 <!ENTITY continue1.label "Fortsett…">
+<!ENTITY moreInformation.label "Mer informasjon">
 
 <!-- Specific error messages -->
 
@@ -108,8 +109,19 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Hva kan du gjøre med det?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Problemet er mest sannsynlig med nettstedet, og det er ingenting du kan gjøre for å løse det.</p>
+<p>Hvis du er på et bedriftsnettverk eller bruker antivirusprogramvare, kan du kontakte brukerstøtten for hjelp. Du kan også varsle nettstedets administrator om problemet.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Klokken på datamaskinen er satt til <span id='wrongSystemTime_systemDate2'/>. Kontroller at datamaskinen er satt til riktig dato, klokkeslett og tidssone i systeminnstillingene, og last deretter <span class='hostname'/> på nytt.</p>
+<p>Hvis klokken din allerede er satt til riktig tidspunkt, er nettstedet sannsynligvis feilkonfigurert, og det er ingenting du kan gjøre for å løse problemet. Du kan varsle nettstedets administrator om problemet.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Problemet er mest sannsynlig med nettstedet, og det er ingenting du kan gjøre for å løse det. Du kan varsle nettstedets administrator om problemet.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>Nettstedet kan være midlertidig utilgjengelig eller opptatt. Prøv igjen om en liten stund.</li> <li>Dersom du ikke klarer å laste noen sider, kontroller at datamaskinens nettverkstilkobling er i orden.</li> <li>Dersom datamaskinen er beskyttet av en brannmur eller proxy, kontroller at &brandShortName; har tillatelse til å bruke nettet (www).</li> </ul>">
 
@@ -150,6 +162,8 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> bruker sikkerhetsteknologi som er utdatert og sårbar for angrep. En angriper kan enkelt fremskaffe informasjon som du trodde var sikker. Nettstedsadministratoren må endre serveren først, før du kan besøke nettstedet.</p><p>Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokkert side">
+
+<!ENTITY clockSkewError.title "Klokken på datamaskinen din er feil">
 
 <!ENTITY prefReset.longDesc "Det ser ut til at nettverkets sikkerhetsinnstillinger kan være årsak til dette. Vil du tilbakestille til standardinnstillinger?">
 <!ENTITY prefReset.label "Gjenopprett standardinnstillinger">
