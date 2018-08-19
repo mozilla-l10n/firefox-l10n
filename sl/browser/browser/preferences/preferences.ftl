@@ -208,6 +208,7 @@ choose-language-description = Izberite prednosten jezik za prikazovanje strani
 choose-button =
     .label = Izberi …
     .accesskey = e
+choose-browser-language-description = Izberite jezike, v katerih naj bodo prikazani meniji, sporočila in obvestila { -brand-short-name }a.
 confirm-browser-language-change-description = Ponovno zaženite { -brand-short-name } za uveljavitev sprememb
 confirm-browser-language-change-button = Uveljavi in ponovno zaženi
 translate-web-pages =
@@ -638,6 +639,7 @@ addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Zavračanje vsebine
+content-blocking-desc = Zavračajte vsebino tretjih strani, kot so oglasi in koda, ki lahko upočasnjuje vaše brskanje in vam sledi po spletu. Prilagodite nastavitve za najboljše razmerje med zaščito in učinkovitostjo delovanja.
 content-blocking-learn-more = Več o tem
 content-blocking-restore-defaults =
     .label = Ponastavi privzeto
@@ -656,12 +658,14 @@ content-blocking-category-label = Izberite, kaj želite zavračati
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Počasni elementi sledenja
     .accesskey = P
+content-blocking-fastblock-description = Zavrača vsebino tretjih strani, ki se nalaga več kot 5 sekund.
 content-blocking-fastblock-option-enabled =
     .label = Vedno zavračaj
 content-blocking-fastblock-option-disabled =
     .label = Nikoli ne zavračaj
 content-blocking-tracking-protection-label = Sledilci
     .accesskey = S
+content-blocking-tracking-protection-description = Zavrača vse znane sledilce (pozor: lahko tudi prepreči nalaganje nekaterih strani).
 content-blocking-tracking-protection-option-enabled =
     .label = Vedno zavračaj
 content-blocking-tracking-protection-option-pbm =
