@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Išsamiau">
 
 <!ENTITY continue1.label "Tęsti…">
+<!ENTITY moreInformation.label "Daugiau informacijos">
 
 <!-- Specific error messages -->
 
@@ -106,8 +107,6 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Problema greičiausiai yra su svetaine, ir jūs nieko negalite padaryti.</p>
 <p>Jei esate įmonės vidiniame tinkle, arba naudojatės antivirusine programa, galite paprašyti pagalbos iš aptarnavimo skyriaus. Galite pranešti apie problemą ir svetainės prižiūrėtojui.</p>">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>Jūsų kompiuterio laikrodis rodo <span id='wrongSystemTime_systemDate'/>. Įsitikinkite, kad jūsų kompiuteryje nustatyta teisinga data, laikas ir laiko juosta, ir tada įkelkite <span class='hostname'/> iš naujo.</p>
-<p>Jeigu jūsų laikrodis jau tinkamai nustatytas, svetainė gali būti netinkamai sukonfigūruota, ir jūs nieko negalite padaryti. Galite pranešti svetainės prižiūrėtojui apie šią problemą.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Problema greičiausiai yra su svetaine, ir jūs nieko negalite padaryti. Galite pranešti apie problemą svetainės prižiūrėtojui.</p>">
 
@@ -151,6 +150,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> naudoja saugumo technologiją, kuri yra pasenusi ir pažeidžiama. Piktavalis lengvai galėtų pamatyti informaciją, kuri jums atrodė saugi. Kol svetainės administratorius jos nesutvarkys, negalėsite į šią svetainę užeiti.</p><p>Klaidos kodas: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Uždraustas puslapis">
+
 
 <!ENTITY prefReset.longDesc "Panašu, kad taip galėjo nutikti dėl jūsų tinklo saugumo nuostatų. Ar norite atstatyti numatytąsias reikšmes?">
 <!ENTITY prefReset.label "Atstatyti numatytąsias nuostatas">
