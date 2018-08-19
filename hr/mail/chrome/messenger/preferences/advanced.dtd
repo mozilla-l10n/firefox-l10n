@@ -7,11 +7,12 @@
 <!ENTITY itemUpdate.label        "Ažuriranje">
 <!ENTITY itemNetworking.label    "Mreža i diskovni prostor">
 <!ENTITY itemCertificates.label  "Certifikati">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Omogući globalno pretraživanje i indeksiranje">
 <!ENTITY enableGlodaSearch.accesskey   "e">
 <!ENTITY dateTimeFormatting.label      "Oblikovanje datuma i vremena">
+<!ENTITY languageSelector.label        "Jezik">
 <!ENTITY allowHWAccel.label            "Koristi hardversku akceleraciju kad je moguće">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Tip pohrane poruka za nove račune:">
@@ -38,8 +39,8 @@
 <!ENTITY returnReceiptsInfo.label      "Odredite kako će &brandShortName; rukovati s potvrdama čitanja">
 <!ENTITY showReturnReceipts.label      "Potvrde čitanja…">
 <!ENTITY showReturnReceipts.accesskey  "r">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetrija">
 <!ENTITY telemetryDesc.label             "Dijeli podatke o performansama, korištenju, hardveru i prilagodbama vašeg programa e-pošte, kako bi &vendorShortName; mogla unaprijediti &brandShortName;">
 <!ENTITY enableTelemetry.label           "Omogući telemetriju">
@@ -51,12 +52,12 @@
 <!ENTITY enableCrashReporter.label       "Omogući izvjestitelja rušenja">
 <!ENTITY enableCrashReporter.accesskey   "z">
 <!ENTITY crashReporterLearnMore.label    "Saznajte više">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApp2.label                "&brandShortName; ažuriranja">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
@@ -77,8 +78,8 @@
 
 <!ENTITY useService.label                "Koristi pozadinski proces za instalaciju nadogradnji">
 <!ENTITY useService.accesskey            "K">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Postavke…">
 <!ENTITY showSettings.accesskey        "s">
 <!ENTITY proxiesConfigure.label        "Podesite način na koji se&brandShortName; povezuje na Internet">
@@ -92,13 +93,13 @@
 <!ENTITY offlineCompactFolders.label     "Sažmi sve mape kada će uštedjeti više od">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "MB ukupno">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Koristi do">
 <!ENTITY useCacheBefore.accesskey        "K">
 <!ENTITY useCacheAfter.label             "MB prostora za priručnu memoriju">
@@ -106,8 +107,8 @@
 <!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "Očisti sada">
 <!ENTITY clearCacheNow.accesskey         "O">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Kada poslužitelj zatraži moj osobni certifikat:">
 <!ENTITY certs.auto                      "Automatski odaberi jedan">
 <!ENTITY certs.auto.accesskey            "A">
