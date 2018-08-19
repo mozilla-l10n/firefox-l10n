@@ -636,10 +636,15 @@ addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokovanie obsahu a ochrana pred sledovaním
+content-blocking-desc = Zablokujte obsah tretích strán, ako sú reklamy alebo kód, ktorý spomaľuje načítanie stránok a sleduje vašu aktivitu na internete. Úroveň blokovania môžete upraviť podľa svojich vlastných požiadaviek na výkon a ochranu súkromia.
 content-blocking-learn-more = Ďalšie informácie
 content-blocking-restore-defaults =
     .label = Obnoviť predvolené nastavenia
     .accesskey = r
+content-blocking-toggle-on =
+    .tooltiptext = Vypnúť blokovanie obsahu
+content-blocking-toggle-off =
+    .tooltiptext = Zapnúť blokovanie obsahu
 content-blocking-toggle-label-on = ZAPNUTÉ
     .accesskey = Z
 content-blocking-toggle-label-off = VYPNUTÉ
@@ -660,6 +665,8 @@ content-blocking-tracking-protection-label = Sledovacie prvky
 content-blocking-tracking-protection-description = Blokuje všetky známe sledovacie prvky (niektoré stránky sa nemusia načítať).
 content-blocking-tracking-protection-option-enabled =
     .label = Vždy blokovať
+content-blocking-tracking-protection-option-pbm =
+    .label = Blokovať v súkromných oknách
 content-blocking-tracking-protection-option-disabled =
     .label = Nikdy neblokovať
 content-blocking-tracking-protection-change-blocklist = Zmeniť zoznam blokovania…
