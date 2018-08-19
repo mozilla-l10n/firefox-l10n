@@ -158,7 +158,15 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Kaj lahko storite?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Težava je najverjetneje na spletni strani, zato je sami ne morete odpraviti.</p>
+<p>Če ste povezani z omrežjem v podjetju ali uporabljate protivirusno programsko opremo, se lahko za pomoč obrnete na ekipo za podporo. O težavi lahko tudi obvestite skrbnika spletne strani.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Ura vašega računalnika je nastavljena na datum <span id='wrongSystemTime_systemDate2'/>. V nastavitvah sistema nastavite računalnik na pravilen datum in čas ter časovni pas, nato osvežite <span class='hostname'/>.</p>
+<p>Če je ura že nastavljena pravilno, je težava verjetno v spletni strani in je sami ne morete odpraviti. O njej lahko obvestite skrbnika spletne strani.</p>
+">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>Težava je najverjetneje na spletni strani, zato je sami ne morete odpraviti. Lahko pa obvestite skrbnika spletne strani.</p>
@@ -202,6 +210,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; se ni povezal na <span id='wrongSystemTimeWithoutReference_URL'/>, ker je ura vašega računalnika očitno nastavljena napačno, kar preprečuje vzpostavitev varne povezave. </p> <p>Vaš računalnik je nastavljen na <span id='wrongSystemTimeWithoutReference_systemDate'/>. Za odpravo težave pravilno nastavite datum in čas.</p>">
 
 <!ENTITY certerror.pagetitle1  "Povezava ni varna">
+<!ENTITY certerror.pagetitle2  "Pozor: možno varnostno tveganje">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ta stran uporablja HTTP
 Strict Transport Security (HSTS), ki določa, da se lahko &brandShortName; nanjo
 poveže zgolj varno. Posledično za to digitalno potrdilo ni mogoče dodati izjeme.">
@@ -215,6 +224,7 @@ poveže zgolj varno. Posledično za to digitalno potrdilo ni mogoče dodati izje
 <!ENTITY blockedByPolicy.title "Zavrnjena stran">
 
 <!ENTITY clockSkewError.title "Nastavitev ure vašega računalnika je napačna">
+<!ENTITY clockSkewError.longDesc "Vaš računalnik misli, da smo <span id='wrongSystemTime_systemDate1'/>, kar &brandShortName;u preprečuje varno povezavo. Da boste lahko obiskali <span class='hostname'></span>, v nastavitvah sistema nastavite uro računalnika na trenutni datum in čas ter časovni pas, nato osvežite <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Videti je, da to povzročajo omrežne nastavitve. Ali želite obnoviti privzete nastavitve?">
 <!ENTITY prefReset.label "Obnovi privzete nastavitve">
