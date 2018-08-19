@@ -83,6 +83,13 @@
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Ažuriraj događaj u kalendaru">
 <!ENTITY lightning.imipbar.description                                      "Ova poruka sadrži pozivnicu na događaj.">
 
+<!ENTITY lightning.imipbar.btnSend.label                                    "Pošalji odgovor sada">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Pošalji odgovor organizatoru">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Pošalji odgovor za cijelu seriju organizatoru">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Nemoj slati odgovor">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Izmijeni vaš status sudjelovanja bez slanja odgovora organizatoru">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Izmijeni vaš status sudjelovanja za seriju bez slanja odgovora organizatoru">
+
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
