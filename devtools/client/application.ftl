@@ -24,6 +24,8 @@ serviceworker-worker-debug = ડિબગ કરો
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = શરૂઆત
+# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
+serviceworker-worker-source = સ્ત્રોત
 # Text displayed next to the current status of the service worker.
 serviceworker-worker-status = સ્થિતિ
 
@@ -35,3 +37,9 @@ serviceworker-worker-status = સ્થિતિ
 serviceworker-worker-status-running = ચાલી રહ્યું છે
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = બંધ કરી દીધું
+# Service Worker status. A registering service worker is not yet registered and cannot be
+# started or debugged.
+serviceworker-worker-status-registering = રજિસ્ટર થાય છે
+# Text displayed when no service workers are visible for the current page. Clicking on the
+# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro = અહીં તેની તપાસ કરવા માટે તમારે Service Worker ને નોંધણી કરાવવાની જરૂર છે. <a>વધુ જાણો</a>
