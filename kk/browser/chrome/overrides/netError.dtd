@@ -98,8 +98,11 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> иесі өз сайтын дұрыс емес баптаған. Ақпаратыңызды ұрланудан қорғау үшін, &brandShortName; бұл веб сайтпен байланыспады.">
 
+<!ENTITY certerror.introPara1 "&brandShortName; мүмкін қауіпсіздік қауіпін анықтады, және <span class='hostname'/> сайтына өтуді жалғастырмады. Бұл сайтты шолсаңыз, шабуылшылар сіздің парольдер, эл. пошта немесе несие карта сияқты ақпаратыңызды ұрлай алады.">
 
+<!ENTITY certerror.expiredCert.secondPara "Бұл мәселе компьютеріңіздің сағаты қате уақыт көрсетіп тұрғаны салдарынан болып тұрған сияқты, нәтижесінде &brandShortName; қауіпсіз түрде байланыса алмады.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Оған не жасауыңызға болады?">
 
 
 
