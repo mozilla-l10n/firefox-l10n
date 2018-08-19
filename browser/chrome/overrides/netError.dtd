@@ -163,6 +163,10 @@ was trying to connect. -->
 <p>Es probable que haya un problema con el sitio web y no hay nada que pueda hacer al respecto.</p>
 <p>Si está usando una red corporativa o un software antivirus, puede contactarse con el equipo de asistencia técnica. También puede notificarle al administrador del sitio sobre el problema.</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>El reloj de su computadora está puesto a las <span id='wrongSystemTime_systemDate2'/>. Asegúrese de que su computadora esté ajustada a la fecha, hora y zona horaria correctas en la configuración de tu sistema, y luego actualice <span class='hostname'/>.</p>
+<p>Si su reloj ya está puesto a la hora correcta, el sitio web probablemente esté mal configurado, y no hay nada que pueda hacer para resolverlo. Podría intentar notificar al administrador del sitio sobre el problema.</p>
+">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>Es probable que haya un problema con el sitio web, y no hay nada que pueda hacer para resolverlo. Puede notificar al administrador del sitio web sobre el problema.</p>
