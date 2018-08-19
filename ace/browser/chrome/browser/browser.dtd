@@ -69,6 +69,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "Peu'ét Peunawôt u Alat">
 <!ENTITY  sendLinkToDevice.accesskey         "n">
 <!ENTITY  sendToDeviceFeedback.label         "Kirem!">
+<!ENTITY  sendToDeviceOfflineFeedback.label  "Geupuprèh (maté lèn)">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
