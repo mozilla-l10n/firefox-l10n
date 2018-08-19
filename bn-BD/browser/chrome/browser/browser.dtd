@@ -72,6 +72,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "অপেক্ষমান (অফলাইন)">
 <!ENTITY  moveToNewWindow.label              "নতুন উইন্ডোতে স্থানান্তর W">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.label            "কনটেইনার পুনরায় খুলুন">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "সকল ট্যাব বুকমার্ক করুন…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
@@ -228,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "বার্তা প্যানেল খুলুন">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "অবস্থান অনুরোধ প্যানেল খুলুন">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "অটোপ্লে প্যানেল খুলুন">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "অ্যাড-অন ইনস্টলেশন বার্তা প্যানেল খুলুন">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "ক্যানভাস এক্সট্রাকশন অনুমোদন ব্যবস্থাপনা">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "অফলাইন স্টোরেজ বার্তা প্যানেল খুলুন">
@@ -255,6 +257,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "আপনি এই ওয়েব সাইটের জন্য ঘোষণা ব্লক করেছেন।">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "আপনি এই ওয়েব সাইটের জন্য পার্সিস্টেন্ট স্টোরেজ ব্লক করেছেন।">
 <!ENTITY urlbar.popupBlocked.tooltip             "আপনি এই ওয়েবসাইটের জন্য পপ-আপ ব্লক করেছেন।">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "আপনি এই ওয়েবসাইটের সাউন্ড মিডিয়া অটোপ্লে ব্লক করেছেন।">
 <!ENTITY urlbar.canvasBlocked.tooltip            "আপনি এই ওয়েবসাইটের জন্য ক্যানভাস ডেটা নিষ্কাশন অবরোধ করেছেন।">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Adobe Flash প্লাগিন দিয়ে ওয়েবসাইটটি আপনি ব্লক করেছেন।">
 <!ENTITY urlbar.midiBlocked.tooltip              "আপনি সাইটটির জন্য MIDI এর প্রবেশ ব্লক করেছেন।">
@@ -313,6 +316,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ওয়েব ডেভেলপার">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "রেকর্ড এক্সিকিউশন">
+<!ENTITY devtoolsSaveRecording.label "রেকর্ডিং সংরক্ষণ করুন">
+<!ENTITY devtoolsReplayExecution.label "রিপ্লে এক্সিকিউশন">
 
 <!ENTITY inspectContextMenu.label     "উপাদান পর্যবেক্ষণ করুন">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -323,6 +329,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "নতুন কন্টেইনার ট্যাব">
 <!ENTITY newUserContext.accesskey         "b">
+<!ENTITY manageUserContext.label          "কন্টেইনার ব্যবস্থাপনা করুন">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "নতুন উইন্ডো">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -781,9 +789,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "সম্পন্ন">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "সংরক্ষণ করার সময় সম্পাদক দেখাও">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
