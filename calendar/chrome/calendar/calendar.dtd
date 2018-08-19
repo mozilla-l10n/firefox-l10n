@@ -210,6 +210,9 @@
 <!ENTITY calendar.context.attendance.all.needsaction.accesskey  "t">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "Još zahtjeva radnju">
 <!ENTITY calendar.context.attendance.all.inprogress.accesskey   "t">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "U tijeku">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "o">
+<!ENTITY calendar.context.attendance.all.completed.label        "Završeno">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Napredak">
