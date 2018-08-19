@@ -208,6 +208,8 @@ choose-language-description = Izberite prednosten jezik za prikazovanje strani
 choose-button =
     .label = Izberi …
     .accesskey = e
+confirm-browser-language-change-description = Ponovno zaženite { -brand-short-name } za uveljavitev sprememb
+confirm-browser-language-change-button = Uveljavi in ponovno zaženi
 translate-web-pages =
     .label = Prevajanje spletne vsebine
     .accesskey = T
@@ -635,7 +637,13 @@ addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Zavračanje vsebine
 content-blocking-learn-more = Več o tem
+content-blocking-toggle-on =
+    .tooltiptext = Izključi zavračanje vsebine
+content-blocking-toggle-off =
+    .tooltiptext = Vključi zavračanje vsebine
+content-blocking-tracking-protection-change-blocklist = Zamenjaj seznam za zavračanje …
 
 ## Privacy Section - Tracking
 
@@ -686,11 +694,16 @@ permissions-notification-pause =
     .label = Ne prikazuj obvestil do naslednjega zagona { -brand-short-name }a
     .accesskey = u
 permissions-block-autoplay-media =
-    .label = Prepreči spletnim stranem samodejno predvajanje predstavnosti z zvokom
+    .label = Prepreči spletnim stranem samodejno predvajanje zvočnih vsebin
     .accesskey = z
+permissions-block-autoplay-media-menu = Za spletne strani, ki samodejno predvajajo zvok
 permissions-block-autoplay-media-exceptions =
     .label = Izjeme …
     .accesskey = I
+autoplay-option-ask =
+    .label = Vedno vprašaj
+autoplay-option-allow =
+    .label = Dovoli samodejno predvajanje
 permissions-block-popups =
     .label = Prepovej pojavna okna
     .accesskey = r

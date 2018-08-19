@@ -36,6 +36,7 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.accesskey           "t">
 
 <!ENTITY  closeSelectedTabs.label            "Zapri izbrane zavihke">
+<!ENTITY  closeSelectedTabs.accesskey        "Z">
 
 <!ENTITY  pinSelectedTabs.label              "Pripni zavihke">
 <!-- Pin Tab and Pin Selected Tabs have the same accesskey
@@ -47,6 +48,9 @@ but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "O">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadSelectedTabs.label           "Ponovno naloži izbrane zavihke">
+<!ENTITY  reloadSelectedTabs.accesskey       "n">
+<!ENTITY  bookmarkSelectedTabs.label         "Dodaj zavihke med zaznamke …">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -68,6 +72,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.label              "Premakni v novo okno">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  reopenInContainer.label            "Ponovno odpri v vsebniku">
+<!ENTITY  reopenInContainer.accesskey        "v">
 <!ENTITY  bookmarkAllTabs.label              "Dodaj vse zavihke med zaznamke …">
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
 <!ENTITY  undoCloseTab.label                 "Ponovno odpri zavihek">
@@ -223,6 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Odpri ploščo s sporočili">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Odpri ploščo z zahtevami za lokacijo">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Odpri ploščo samodejnega predvajanja">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Odpri ploščo s sporočili o namestitvah dodatkov">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Upravljaj z dovoljenji za izločanje platna">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Odpri ploščo s sporočili o shrambi brez povezave">
@@ -309,6 +315,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Spletni razvoj">
 <!ENTITY webDeveloperMenu.accesskey   "S">
 
+<!ENTITY devtoolsSaveRecording.label "Shrani posnetek">
 
 <!ENTITY inspectContextMenu.label     "Preglej element">
 <!ENTITY inspectContextMenu.accesskey "j">
@@ -320,6 +327,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.label             "Nov vsebniški zavihek">
 <!ENTITY newUserContext.accesskey         "v">
 <!ENTITY manageUserContext.label          "Upravljanje vsebnikov">
+<!ENTITY manageUserContext.accesskey      "U">
 <!ENTITY newNavigatorCmd.label        "Novo okno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -449,7 +457,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Samodejno skrij v orodni vrstici">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "S">
 <!ENTITY customizeMenu.manageExtension.label "Upravljaj razširitev">
+<!ENTITY customizeMenu.manageExtension.accesskey "U">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -776,9 +786,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Shrani">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "Pri shranjevanju prikaži urejevalnik">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "j">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -927,25 +940,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Zvok zavihka bo v skupni rabi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Vsa vidna okna na vašem zaslonu bodo v skupni rabi.">
 
-<!ENTITY trackingProtection.on "Zaščita pred sledenjem: vključeno">
-<!ENTITY trackingProtection.off "Zaščita pred sledenjem: izključeno">
+<!ENTITY trackingProtection.on "Zaščita pred sledenjem: vključena">
+<!ENTITY trackingProtection.off "Zaščita pred sledenjem: izključena">
 
+<!ENTITY contentBlocking.disabled.label "Onemogočeno">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Zavrnjeno">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+<!ENTITY contentBlocking.trackingProtection.label "Sledilci">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Zavrnjeno">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -971,8 +988,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.tooltip "Odpri nastavitve zaščite pred sledenjem">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; zavrača dele strani, ki lahko sledijo vašemu brskanju.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; je zaznal elemente, ki bi lahko sledili vašemu brskanju.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; je zaznal elemente, ki lahko sledijo vašemu brskanju. Zaščito za to stran ste onemogočili.">
 <!ENTITY trackingProtection.notDetected5 "Na strani ni bilo zaznanih elementov sledenja.">
+<!ENTITY trackingProtection.notDetectedException "Na tej strani ni bilo zaznanih elementov sledenja. Zaščito za to stran ste onemogočili.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Omogočili ste zaščito pred sledenjem. Ponovno naložite stran za zavrnitev sledilcev.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -985,7 +1005,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.label "Onemogoči za to sejo">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "n">
 <!ENTITY trackingProtection.block4.label "Omogoči za to stran">
+<!ENTITY trackingProtection.block4.accesskey "m">
 <!ENTITY trackingProtection.reload2.label "Ponovno naloži stran">
+<!ENTITY trackingProtection.reload2.accesskey "n">
 
 <!ENTITY pluginNotification.showAll.label "Prikaži vse">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -1072,7 +1094,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.accesskey "n">
 
 <!ENTITY tabHideControlled.keepButton.label "Ohrani zavihke skrite">
+<!ENTITY tabHideControlled.keepButton.accesskey "h">
 <!ENTITY tabHideControlled.disableButton.label "Onemogoči razširitev">
+<!ENTITY tabHideControlled.disableButton.accesskey "n">
 
 <!ENTITY pageActionButton.tooltip "Dejanja strani">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj v naslovno vrstico">
@@ -1086,6 +1110,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.shareUrl.label "Deli">
 
+<!ENTITY pageAction.shareMore.label "Več …">
 
 <!ENTITY libraryButton.tooltip "Prikaži zgodovino, shranjene zaznamke in drugo">
 
