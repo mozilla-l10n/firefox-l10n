@@ -634,11 +634,25 @@ addressbar-suggestions-settings = অনুসন্ধান ইঞ্জিন
 
 content-blocking-header = কনটেন্ট ব্লকিং
 content-blocking-desc = বিজ্ঞাপন অথবা কোডের মত তৃতীয় পক্ষের কনটেন্ট ব্লক করুন, যা আপনার ব্রাউজিং ধীরগতি করে দেয় এবং ওয়েবে আপনাকে ট্র্যাক করতে পারে। সুরক্ষা এবং কর্মক্ষমতা সেরা ব্যালেন্সের জন্য আপনার সেটিংস কাস্টমাইজ করুন।
+content-blocking-learn-more = আরও জানুন
+content-blocking-restore-defaults =
+    .label = ডিফল্ট রিস্টোর করুন
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = কনটেন্ট ব্লকিং বন্ধ করুন
+content-blocking-toggle-off =
+    .tooltiptext = কনটেন্ট ব্লক করা চালু করুন
 content-blocking-toggle-label-on = চালু করুন
     .accesskey = O
 content-blocking-toggle-label-off = বন্ধ
     .accesskey = O
 content-blocking-category-label = কি ব্লক করতে চান বলুন
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = স্লো ট্র্যাকিং উপাদানসমূহ
+    .accesskey = S
+content-blocking-fastblock-description = তৃতীয় পক্ষের কনটেন্ট অবরোধ করে যা লোড হতে ৫ সেকেন্ডের বেশি সময় নেয়।
 content-blocking-fastblock-option-enabled =
     .label = সর্বদা ব্লক করুন
 content-blocking-fastblock-option-disabled =
