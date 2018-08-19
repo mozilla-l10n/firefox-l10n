@@ -628,12 +628,49 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Na'nin rakïj ñanj
     .accesskey = N
+addressbar-suggestions-settings = Naduno' riña sa ruguñu'unj da' gache nu'
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Garun' riña sa ma
+content-blocking-desc = Garun' riña nej sa attua ma'ān, daj run' sa du'uej rasùun, dadin' ga'ue nahuin naj si internet nej si hua dugui' ga'ue ni'iaj. Nagi'iaj ma da' gi'iaj sun hue'ej.
+content-blocking-learn-more = Gahuin chrūn doj
+content-blocking-restore-defaults =
+    .label = Nagi'iaj nakà ñu nej sa gà hua
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Guxun' sa arán riña kontenido
+content-blocking-toggle-off =
+    .tooltiptext = Duyichin' kontenido
+content-blocking-toggle-label-on = ON
+    .accesskey = O
+content-blocking-toggle-label-off = OFF
+    .accesskey = O
+content-blocking-category-label = Nagui sa ruhuât garánt
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Ûta naj 'maj sun nej sa nana'ui'
+    .accesskey = S
+content-blocking-fastblock-description = Garun' riña nej sa huin ran na'nin
+content-blocking-fastblock-option-enabled =
+    .label = Yitïnj chre garun'
+content-blocking-fastblock-option-disabled =
+    .label = Nitaj ama garun'
+content-blocking-tracking-protection-label = Sa nana'ui'
+    .accesskey = T
+content-blocking-tracking-protection-description = Garun' riña daran' nej sa nana'ui (Ga'ue dugumit 'ngà na'nit da'aj pagina).
+content-blocking-tracking-protection-option-enabled =
+    .label = Yitinj chre garun'
+content-blocking-tracking-protection-option-pbm =
+    .label = Garun' riña ventana huìi
+content-blocking-tracking-protection-option-disabled =
+    .label = Nitaj ama garun'
+content-blocking-tracking-protection-change-blocklist = Naduno' nej sa gare'...
 
 ## Privacy Section - Tracking
 
+tracking-header = Sa narrán riña sa naga'nàj a
 tracking-mode-always =
     .label = Nigànj chre
     .accesskey = i
