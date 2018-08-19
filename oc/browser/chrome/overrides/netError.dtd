@@ -11,6 +11,7 @@
 <!ENTITY advanced.label "Avançat">
 
 <!ENTITY continue1.label "Contunhar…">
+<!ENTITY moreInformation.label "Mai d'informacions">
 
 <!-- Specific error messages -->
 
@@ -150,6 +151,7 @@ certificat.">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utiliza una tecnologia de seguretat obsolèta e vulnerabla a las atacas. Un atacant poiriá aisidament revelar d'informacions que pensèssetz èsser seguras. L'administrator del site web deurà d'en primièr adobar lo servidor abans que poguèssetz visitar lo site.</p><p>Error code : NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagina blocada">
+
 
 <!ENTITY prefReset.longDesc "Sembla que la configuracion actuala de seguretat del ret a provocat aquesta error. Restablir los paramètres per defaut ?">
 <!ENTITY prefReset.label "Restablir los paramètres per defaut">
