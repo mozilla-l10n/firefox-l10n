@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restartRequired.title "Da'ui nayi'ì ñunj">
+
+<!ENTITY restartRequired.header "Si gamma ruat. A'kuan'ni nayi'ì ñunj.">
+<!ENTITY restartRequired.description "<p>Hiaj dugutuj ñunj sa nakàaa. Ru'ma ra'à riña nayi'ì ñunj &brandShortName; da'ga'ue gi'iaj sunj.</p>
+<p>Nayi'ì ñu daran' si paginas, nej rakïj ñanj da' ga'ue nayi'ì ra'ñanjt.</p>">
+
+<!ENTITY restartButton.label "Nayi'ì nakà &brandShortName;">
