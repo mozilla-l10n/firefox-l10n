@@ -945,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Apsauga nuo stebėjimo: TAIP">
 <!ENTITY trackingProtection.off "Apsauga nuo stebėjimo: NE">
+
+<!ENTITY contentBlocking.title "Turinio blokavimas">
+<!ENTITY contentBlocking.detected "Svetainėje aptiktas blokuojamas turinys.">
+<!ENTITY contentBlocking.notDetected "Tinklalapyje neaptikta blokuojamo turinio.">
+<!ENTITY contentBlocking.disabled.label "Išjungta">
+<!ENTITY contentBlocking.disabled.tooltip "Esate išjungę turinio blokavimą.">
+<!ENTITY contentBlocking.exception.tooltip "Šiame tinklalapyje esate išjungę turinio blokavimą.">
+
+<!ENTITY contentBlocking.fastBlock.label "Lėtai įkeliami stebėjimo elementai">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Užblokuota">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Pridėti blokavimą…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Stebėjimo elementai">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Užblokuota">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Pridėti blokavimą…">
+
 <!ENTITY trackingProtection.title "Apsauga nuo stebėjimo">
 <!ENTITY trackingProtection.detectedBlocked3 "„&brandShortName;“ blokuoja jūsų naršymą galinčias stebėti šio tinklalapio dalis.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Šiame tinklalapyje yra jūsų naršymą galinčių stebėti elementų. Jūsų apsauga yra išjungta.">
@@ -970,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Tinklalapyje nerasta stenėjimui naudojamų elementų. Jūsų apsauga šioje svetainėje yra išjungta.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Jūs įjungėte apsaugą nuo stebėjimo. Norėdami blokuoti visus stebėjimo elementus, įkelkite šį tinklalapį iš naujo.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Išjungti šioje svetainei">
+<!ENTITY trackingProtection.unblock3.label "Išjungti šioje svetainėje">
 <!ENTITY trackingProtection.unblock3.accesskey "I">
+<!ENTITY trackingProtection.unblock4.label "Išjungti blokavimą šioje svetainėje">
+<!ENTITY trackingProtection.unblock4.accesskey "I">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -982,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "I">
 <!ENTITY trackingProtection.block4.label "Įjungti šioje svetainėje">
 <!ENTITY trackingProtection.block4.accesskey "j">
+<!ENTITY trackingProtection.unblockPrivate4.label "Išjungti blokavimą laikinai">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "I">
+<!ENTITY trackingProtection.block5.label "Įjungti blokavimą šioje svetainėje">
+<!ENTITY trackingProtection.block5.accesskey "j">
 <!ENTITY trackingProtection.reload2.label "Įkelti tinklalapį iš naujo">
 <!ENTITY trackingProtection.reload2.accesskey "k">
 
