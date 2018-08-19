@@ -955,6 +955,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Dodaj zavračanje …">
 
 <!ENTITY contentBlocking.trackingProtection.label "Sledilci">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
@@ -967,6 +968,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Dodaj zavračanje …">
 
 <!ENTITY trackingProtection.title "Zaščita pred sledenjem">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; zavrača dele strani, ki lahko sledijo vašemu brskanju.">
@@ -999,6 +1001,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Onemogoči za to stran">
 <!ENTITY trackingProtection.unblock3.accesskey "n">
+<!ENTITY trackingProtection.unblock4.label "Onemogoči zavračanje za to stran">
+<!ENTITY trackingProtection.unblock4.accesskey "O">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -1006,6 +1010,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "n">
 <!ENTITY trackingProtection.block4.label "Omogoči za to stran">
 <!ENTITY trackingProtection.block4.accesskey "m">
+<!ENTITY trackingProtection.unblockPrivate4.label "Začasno onemogoči zavračanje">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "Z">
+<!ENTITY trackingProtection.block5.label "Omogoči zavračanje za to stran">
+<!ENTITY trackingProtection.block5.accesskey "M">
 <!ENTITY trackingProtection.reload2.label "Ponovno naloži stran">
 <!ENTITY trackingProtection.reload2.accesskey "n">
 
