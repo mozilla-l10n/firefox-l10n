@@ -990,8 +990,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Erweiterung deaktivieren">
 <!ENTITY newTabControlled.disableButton.accesskey "d">
 
-<!ENTITY homepageControlled.message "Eine Erweiterung hat die Homepage geändert. Falls Sie diese Änderung nicht wollen, können Sie die entsprechenden Einstellungen zurücksetzen.">
-<!ENTITY homepageControlled.header.message "Ihre Homepage hat sich geändert.">
+<!ENTITY homepageControlled.message "Eine Erweiterung hat die Startseite geändert. Falls Sie diese Änderung nicht wollen, können Sie die entsprechenden Einstellungen zurücksetzen.">
+<!ENTITY homepageControlled.header.message "Ihre Startseite hat sich geändert.">
 <!ENTITY homepageControlled.keepButton.label "Änderungen behalten">
 <!ENTITY homepageControlled.keepButton.accesskey "b">
 <!ENTITY homepageControlled.disableButton.label "Erweiterung deaktivieren">
