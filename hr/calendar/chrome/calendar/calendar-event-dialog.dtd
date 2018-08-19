@@ -423,3 +423,6 @@
 <!ENTITY summary.dialog.decline.label           "Odbij">
 <!ENTITY summary.dialog.decline.tooltiptext     "Odbij poziv na događaj">
 <!ENTITY summary.dialog.dontsend.label          "Nemoj slati odgovor">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Izmijeni vaš status sudjelovanja bez slanja odgovora organizatoru i zatvori prozor">
+<!ENTITY summary.dialog.send.label              "Pošalji odgovor sada">
+<!ENTITY summary.dialog.send.tooltiptext        "Slanje odgovora organizatoru i zatvorite prozor">
