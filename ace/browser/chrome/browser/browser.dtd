@@ -70,13 +70,19 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "n">
 <!ENTITY  sendToDeviceFeedback.label         "Kirem!">
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Geupuprèh (maté lèn)">
+<!ENTITY  moveToNewWindow.label              "Pinah u Tingkap Barô">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.label            "Peuhah Keulayi lam Kontainer">
 <!ENTITY  reopenInContainer.accesskey        "e">
+<!ENTITY  bookmarkAllTabs.label              "Peutanda Ban Dum Tab...">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "Pubateue Tôp Tab">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "Tôp Tab">
 <!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  hiddenTabs.label                   "Tab Teusom">
 
+<!ENTITY  listAllTabs.label      "Peudapeuta ban dum tab">
 
 <!ENTITY tabCmd.label "Tab Barô">
 <!ENTITY tabCmd.accesskey "T">
@@ -84,6 +90,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Peuhah Neuduek...">
 <!ENTITY openFileCmd.label "Peuhah Beureukaih…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
