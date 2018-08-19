@@ -70,6 +70,15 @@
 
 <!ENTITY url_bar_default_text2 "Pretražite ili upišite adresu">
 
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Koristite svoj QR čitač za pretraživanje i unos adresa">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Koristite svoj mikrofon za pretraživanje i unos adresa">
+
 <!ENTITY bookmark "Zabilješka">
 <!ENTITY bookmark_remove "Ukloni zabilješku">
 <!ENTITY bookmark_added "Zabilješka dodana">
@@ -207,6 +216,7 @@
 <!ENTITY pref_category_advanced_summary3 "Vrati kartice, uštede na prijenosu podataka, alati za ravijatelje">
 <!ENTITY pref_category_notifications "Obavijesti">
 <!ENTITY pref_category_notifications_summary "Nove značajke, ažuriranja stranice">
+<!ENTITY pref_category_notifications_summary2 "Nove mogućnosti, preporuke proizvoda">
 <!ENTITY pref_developer_remotedebugging_usb "Udaljeno otklanjanje grešaka putem USB-a">
 <!ENTITY pref_developer_remotedebugging_wifi "Udaljeno otklanjanje grešaka putem Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Udaljeno otklanjanje grešaka putem Wi-Fi zahtjeva da vaš uređaj ima instaliranu aplikaciju za čitanje QR kodova.">
@@ -282,6 +292,13 @@
 <!ENTITY pref_whats_new_notification "Šta je novo u &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Saznajte o novim značajkama nakon nadogradnje">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Savjeti o proizvodima i mogućnostima">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Saznajte više o korištenju &brandShortName; i drugih &vendorShortName; proizvoda">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eksperimentalne značajke">
@@ -355,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Dozvoli automatsku reprodukciju">
 <!ENTITY pref_media_autoplay_enabled_summary "Upravljajte da li web stranice mogu automatski reproducirati video i drugi medijski sadržaj">
+<!ENTITY pref_media_autoplay_allow "Dozvoli automatsku reprodukciju">
+<!ENTITY pref_media_autoplay_block "Blokiraj automatsku reprodukciju">
 <!ENTITY pref_zoom_force_enabled "Uvijek omogući uvećanje">
 <!ENTITY pref_zoom_force_enabled_summary "Prisilno zaobiđi postavke tako da možete uvećati svaku stranicu">
 <!ENTITY pref_voice_input "Glasovni unos">
@@ -422,7 +441,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; izvještaj zdravlja">
 <!ENTITY datareporting_fhr_summary2 "Dijeli podatke sa &vendorShortName;-om o zdravlju vašeg preglednika i pomaže vam da razumijete performanse preglednika.">
-<!ENTITY datareporting_abouthr_title "Prikaži moj izvještaj o zdravlju">
 <!ENTITY datareporting_telemetry_title "Telemetrija">
 <!ENTITY datareporting_telemetry_summary "Dijeli podatke o performansama, korištenju hardvera i prilagodbama vašeg preglednika, kako bi &vendorShortName; mogla unaprijediti &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; šalje izvještaje o rušenju kako bi &vendorShortName; mogla vaš preglednik učiniti stabilnijim i sigurnijim">
@@ -431,6 +449,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Izvjestitelj rušenja">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; lokacijske usluge">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Pomozite &vendorShortName;i ucrtati svijet! Dijelite približnu Wi-Fi i mobilnu lokaciju svojeg uređaja kako biste poboljšali našu geolokacijsku uslugu.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; lokacijska usluga je pokrenuta">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -454,6 +477,7 @@
 <!ENTITY share_image_failed "Nije moguće podijeliti ovu sliku">
 <!ENTITY save_as_pdf "Spremi kao PDF">
 <!ENTITY print "Ispis">
+<!ENTITY view_page_source "Prikaži izvorni kod stranice">
 <!ENTITY find_in_page "Pronađi na stranici">
 <!ENTITY desktop_mode "Zahtjevaj desktop stranicu">
 <!ENTITY page "Stranica">
@@ -485,7 +509,6 @@
 <!ENTITY contextmenu_open_new_tab "Otvori u novoj kartici">
 <!ENTITY contextmenu_open_private_tab "Otvori u privatnoj kartici">
 <!ENTITY contextmenu_remove "Ukloni">
-<!ENTITY contextmenu_add_to_launcher "Dodaj na početni ekran">
 <!ENTITY contextmenu_add_page_shortcut "Dodaj prečicu stranice">
 <!ENTITY contextmenu_set_as_homepage "Postavi kao početnu stranicu">
 <!ENTITY contextmenu_share "Dijeli">
@@ -537,10 +560,9 @@
 <!ENTITY pref_compact_tabs_summary2 "Raspoređivanje kartica u dva stupca u uspravnoj orijentaciji">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Stranica je uklonjena">
-
 <!ENTITY folder_removed "Mapa uklonjena">
 
 <!ENTITY bookmark_edit_title "Uredi zabilješku">
@@ -753,7 +775,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Zadnja sinkronizacija: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Zadnja sinkronizacija: nikada">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -811,6 +833,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "Žao nam je! Ova &brandShortName; inačica neće raditi na ovom uređaju (&formatS1;, &formatS2;). Preuzmite ispravnu inačicu.">
 
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "Nije moguće otvoriti &brandShortName;. Molimo ponovo instalirajte i pokušajte ponovo.">
+
 <!ENTITY eol_notification_title2 "&brandShortName; se više neće ažurirati">
 <!ENTITY eol_notification_summary "Pritisnite kako biste saznali više">
 
@@ -818,8 +843,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; je ažuriran">
 <!ENTITY whatsnew_notification_summary "Saznajte što je novo u ovoj inačici">
-
-<!ENTITY promotion_add_to_homescreen "Dodaj na početni ekran">
 
 <!ENTITY promotion_add_page_shortcut "Dodaj prečicu stranice">
 
@@ -872,3 +895,15 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Dodaj na početni zaslon">
 <!ENTITY pwa_continue_to_website "Nastavi na web stranicu">
 <!ENTITY pwa_onboarding_sumo "Možete jednostavno dodati ovu web stranicu na početni zaslon kako biste imali brz pristup i pretraživali brže, kao da ste u aplikaciji.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Reproduciraj">
+<!ENTITY pip_play_button_description "Nastavi reprodukciju">
+<!ENTITY pip_pause_button_title "Zaustavi">
+<!ENTITY pip_pause_button_description "Zaustavi reprodukciju">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; lokacijska usluga">
+<!ENTITY download_notification_channel "Preuzimanja">
