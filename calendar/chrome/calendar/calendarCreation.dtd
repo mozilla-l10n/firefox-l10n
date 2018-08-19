@@ -20,3 +20,32 @@
 
 <!ENTITY finishpage.shortdescription  "Kalendar stvoren" >
 <!ENTITY finishpage.longdescription   "Vaš kalendar je stvoren." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+<!ENTITY sourcetabs.other.label  "Drugi">
+
+<!ENTITY buttons.create.label "Stvori kalendar">
+<!ENTITY buttons.create.accesskey "r">
+
+<!ENTITY buttons.find.label "Pronađi kalendare">
+<!ENTITY buttons.find.accesskey "P">
+
+<!ENTITY buttons.back.label "Natrag">
+<!ENTITY buttons.back.accesskey "N">
+
+<!ENTITY buttons.subscribe.label "Pretplati se">
+<!ENTITY buttons.subscribe.accesskey "s">
+
+<!ENTITY calendartype.label "Tip kalendara:">
+<!ENTITY location.label "Lokacija:">
+<!ENTITY location.placeholder "URL ili adresa kalendarskog poslužitelja">
+
+<!ENTITY network.nocredentials.label "Ova lokacija ne zahtjeva prijavu">
+<!ENTITY network.loading.description "Pričekajte dok otkrivamo dostupne kalendare.">
+<!ENTITY network.notfound.description "Nije moguće pronaći kalendare na ovoj lokaciji. Provjerite postavke.">
+<!ENTITY network.authfail.description "Podaci za prijavu koje ste unijeli nisu prihvaćeni. Provjerite postavke.">
+
+<!ENTITY network.subscribe.single.description "Odaberite kalendare na koje se želite pretplatiti.">
+<!ENTITY network.subscribe.multiple.description "Više tipova kalendara je dostupno na ovoj lokaciji. Odaberite tip kalendara i onda označite kalendare na koje se želite pretplatiti.">
