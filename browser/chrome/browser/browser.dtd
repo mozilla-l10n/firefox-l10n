@@ -966,7 +966,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Добавить блокировку…">
 
-<!ENTITY contentBlocking.trackingProtection.label "Трекеры">
+<!ENTITY contentBlocking.trackingProtection.label "Все трекеры">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
