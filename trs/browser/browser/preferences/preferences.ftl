@@ -579,17 +579,52 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Kookies nī si dato sitio
+sitedata-total-size-calculating = Si riña ma daj yachij nej sa ma riña sitio nī kaché...
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Si kookies, sa rajsun sitio nī kaché ma sa' ni raj sun ma { $value }{ $unit } riña na'ní sat.
 sitedata-learn-more = Gahuin chrūn doj
+sitedata-accept-cookies-option =
+    .label = Garayino' cookies nī sa rajsun sitio na (dânj da'ui gaj)
+    .accesskey = A
+sitedata-block-cookies-option =
+    .label = Garun' riña kookies nī sa rajsun sitio (ga'ue si gi'iaj sun da'aj sitio)
+    .accesskey = B
+sitedata-keep-until = Hue dan gaj
+    .accesskey = u
+sitedata-keep-until-expire =
+    .label = 'Ngà gire'j
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } 'ngà arán ma
+sitedata-accept-third-party-desc = Gido'o' nej kookie nī sa rajsun sitio
+    .accesskey = y
 sitedata-accept-third-party-always-option =
     .label = Nigànj chre
+sitedata-accept-third-party-visited-option =
+    .label = Riña gun'
 sitedata-accept-third-party-never-option =
     .label = Nitaj ama
 sitedata-clear =
     .label = Nadurê' nuguan'an
     .accesskey = N
+sitedata-settings =
+    .label = Dugumi' datos
+    .accesskey = M
+sitedata-cookies-exceptions =
+    .label = Se yakaj guindo'...
+    .accesskey = E
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Dukuán direksion
+addressbar-suggest = 'Ngà rajsun' dukuán direksion
+addressbar-locbar-history-option =
+    .label = Nej sa gà' ni'io' nga gachénu'
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = Sa raj sun nichrò' doj
+    .accesskey = k
 addressbar-locbar-openpage-option =
     .label = Na'nin rakïj ñanj
     .accesskey = N
