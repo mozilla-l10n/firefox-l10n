@@ -107,6 +107,7 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Problema greičiausiai yra su svetaine, ir jūs nieko negalite padaryti.</p>
 <p>Jei esate įmonės vidiniame tinkle, arba naudojatės antivirusine programa, galite paprašyti pagalbos iš aptarnavimo skyriaus. Galite pranešti apie problemą ir svetainės prižiūrėtojui.</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Jūsų kompiuterio laikrodis rodo <span id='wrongSystemTime_systemDate2'/>. Įsitikinkite, kad jūsų kompiuterio data, laikas ir laiko juosta yra tinkamai nustatyti, ir įkelkite <span class='hostname'/> iš naujo.</p> <p>Jeigu jūsų kompiuterio laikas jau yra geras, ši svetainė gali būti netinkamai sukonfigūruota, tad patys nieko negalite padaryti. Galite apie šią problemą pranešti svetainės prižiūrėtojui.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Problema greičiausiai yra su svetaine, ir jūs nieko negalite padaryti. Galite pranešti apie problemą svetainės prižiūrėtojui.</p>">
 
@@ -151,6 +152,8 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Uždraustas puslapis">
 
+<!ENTITY clockSkewError.title "Jūsų kompiuterio laikas neteisingas">
+<!ENTITY clockSkewError.longDesc "Jūsų kompiuteris sako, kad yra dabar yra <span id='wrongSystemTime_systemDate1'/>, kas neleidžia „&brandShortName;“ užmegzti saugaus ryšio. Norėdami aplankyti <span class='hostname'></span>, atnaujinkite savo kompiuterio laikrodį, kad rodytų teisingą esamą datą, laiką ir laiko juostą, ir įkelkite <span class='hostname'></span> iš naujo.">
 
 <!ENTITY prefReset.longDesc "Panašu, kad taip galėjo nutikti dėl jūsų tinklo saugumo nuostatų. Ar norite atstatyti numatytąsias reikšmes?">
 <!ENTITY prefReset.label "Atstatyti numatytąsias nuostatas">
