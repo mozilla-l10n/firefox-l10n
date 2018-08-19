@@ -19,6 +19,11 @@ serviceworker-list-header = Service Workers
 serviceworker-list-aboutdebugging = Za Service Workerje iz drugih domen odprite <a>about:debugging</a>
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Prekliči registracijo
+# Text for the debug link displayed for an already started Service Worker. Clicking on the
+# link opens a new devtools toolbox for this service worker. The title attribute is only
+# displayed when the link is disabled.
+serviceworker-worker-debug = Razhroščevanje
+    .title = Možno je zgolj razhroščevanje Service Workerjev, ki se izvajajo
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Začni
@@ -41,6 +46,9 @@ serviceworker-worker-status-stopped = Ustavljeno
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = V postopku registracije
+# Text displayed when no service workers are visible for the current page. Clicking on the
+# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro = Za pregledovanje Service Workerja ga morate registrirati. <a>Več o tem</a>
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Poišči napake v konzoli. <a>Odpri konzolo</a>
