@@ -105,7 +105,7 @@
 <!ENTITY showDirectoryPane.accesskey                    "K">
 <!ENTITY showContactPane2.label                         "Kontaktfältet">
 <!ENTITY showContactPane2.accesskey                     "K">
-<!ENTITY menu_ShowNameAs.label                          "Visa namn så här">
+<!ENTITY menu_ShowNameAs.label                          "Visa namn som">
 <!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
