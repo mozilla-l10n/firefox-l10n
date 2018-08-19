@@ -8,6 +8,7 @@
 <!ENTITY loadError.label "Problèma al moment de cargar la pagina">
 <!ENTITY retry.label "Tornar ensajar">
 <!ENTITY returnToPreviousPage.label "Tornar en arrièr">
+<!ENTITY returnToPreviousPage1.label "Tornar (recomandat)">
 <!ENTITY advanced.label "Avançat">
 
 <!ENTITY continue1.label "Contunhar…">
