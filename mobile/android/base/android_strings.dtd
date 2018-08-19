@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "자동 재생 허가">
 <!ENTITY pref_media_autoplay_enabled_summary "웹 사이트의 영상이나 다른 미디어 콘텐츠에 대한 자동 재생 권한 설정">
+<!ENTITY pref_media_autoplay_allow "자동 재생 허용">
+<!ENTITY pref_media_autoplay_block "자동 재생 차단">
 <!ENTITY pref_zoom_force_enabled "항상 줌 활성화">
 <!ENTITY pref_zoom_force_enabled_summary "어느 페이지든 항상 줌을 할 수 있도록 설정">
 <!ENTITY pref_voice_input "음성 입력">
@@ -447,6 +449,10 @@
 <!ENTITY datareporting_crashreporter_title_short "오류 보고서">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; 위치 기반 서비스">
 <!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName;가 더 나은 지도를 만들고자 합니다! 위치 기반 서비스 품질 향상을 위해 대략적인 Wi-Fi와 셀룰러 위치 데이터를 공유해주세요.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +894,8 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "홈 화면에 추가">
 <!ENTITY pwa_continue_to_website "웹사이트로 계속">
 <!ENTITY pwa_onboarding_sumo "이 웹사이트를 홈스크린에 추가하여 앱과 같이 빠르고 쉽게 접근할 수 있습니다.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+
+<!-- Notification channels names -->
