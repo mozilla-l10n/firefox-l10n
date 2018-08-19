@@ -843,6 +843,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "আপনি এই সাইটের জন্য কোনো বিশেষ অনুমতি দেননি।">
 <!ENTITY identity.permissionsReloadHint "পরিবর্তনগুলি প্রয়োগ করার জন্য আপনাকে পাতাটি পুনরায় লোড করার প্রয়োজন হতে পারে।">
 
+<!ENTITY identity.permissionsPreferences.tooltip "অনুমতির পছন্দ খুলুন">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -942,7 +943,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "এই ট্যাব এর অডিও শেয়ার করা হবে।">
 <!ENTITY getUserMedia.allWindowsShared.message "আপনার স্ক্রিনের সব দৃশ্যমান উইন্ডো শেয়ার করা হবে।">
 
+<!ENTITY trackingProtection.on "ট্র্যাকিং সুরক্ষা: অন">
+<!ENTITY trackingProtection.off "ট্র্যাকিং সুরক্ষা: বন্ধ">
 
+<!ENTITY contentBlocking.title "কনটেন্ট ব্লকিং">
+<!ENTITY contentBlocking.detected "এই সাইটে ব্লক করার মত কনটেন্ট সনাক্ত করা হয়েছে।">
+<!ENTITY contentBlocking.notDetected "এই পৃষ্ঠাটিতে ব্লক করার মত কোন কনটেন্ট পাওয়া যায়নি।">
+<!ENTITY contentBlocking.disabled.label "নিষ্ক্রিয়">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
