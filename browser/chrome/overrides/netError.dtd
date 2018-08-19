@@ -99,7 +99,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "&brandShortName; একটি সম্ভাব্য নিরাপত্তার হুমকি সনাক্ত করেছে এবং <span class='hostname'/> কে চলতে দেয়নি। আপনি যদি এই সাইটে যান, আক্রমণকারীরা আপনার পাসওয়ার্ড, ইমেইল বা ক্রেডিট কার্ডের মত তথ্য চুরি করার চেষ্টা করতে পারে।">
 
+<!ENTITY certerror.expiredCert.secondPara "এই সমস্যাটি সবচেয়ে বড় সম্ভাব্য কারণ হতে পারে আপনার কম্পিউটারের ঘড়ি ভুল সময়ে সেট করা আছে, যা &brandShortName; নিরাপদ সংযোগ করে।">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "এ ব্যাপারে আপনি কি করতে পারেন?">
 
 
 
