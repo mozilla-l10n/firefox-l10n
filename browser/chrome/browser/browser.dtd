@@ -944,7 +944,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.off "Zaščita pred sledenjem: izključena">
 
 <!ENTITY contentBlocking.title "Zavračanje vsebine">
+<!ENTITY contentBlocking.detected "Na tej strani je bila zaznana vsebina, ki se jo da zavrniti.">
 <!ENTITY contentBlocking.disabled.label "Onemogočeno">
+<!ENTITY contentBlocking.disabled.tooltip "Onemogočili ste zavračanje vsebine.">
+<!ENTITY contentBlocking.exception.tooltip "Zavračanje vsebine na tej strani je onemogočeno.">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
@@ -1102,6 +1105,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Onemogoči razširitev">
 <!ENTITY homepageControlled.disableButton.accesskey "n">
 
+<!ENTITY tabHideControlled.header.message "Dostopajte do skritih zavihkov">
 <!ENTITY tabHideControlled.keepButton.label "Ohrani zavihke skrite">
 <!ENTITY tabHideControlled.keepButton.accesskey "h">
 <!ENTITY tabHideControlled.disableButton.label "Onemogoči razširitev">

@@ -14,6 +14,9 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = Service Workers
+# Text displayed next to the list of Service Workers to encourage users to check out
+# about:debugging to see all registered Service Workers.
+serviceworker-list-aboutdebugging = Za Service Workerje iz drugih domen odprite <a>about:debugging</a>
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Prekliči registracijo
 # Text for the start link displayed for a registered but not running Service Worker.
@@ -38,3 +41,6 @@ serviceworker-worker-status-stopped = Ustavljeno
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = V postopku registracije
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = Poišči napake v konzoli. <a>Odpri konzolo</a>
