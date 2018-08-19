@@ -999,14 +999,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.tooltip "ট্র্যাকিং সুরক্ষা পছন্দ খুলুন">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; এই পেজের কিছু অংশ ব্লক করেছে যা আপনার ব্রাউজিং ট্র্যাক করতে পারে।">
 <!ENTITY trackingProtection.detectedNotBlocked5 "আপনার ব্রাউজিং ট্র্যাক করতে পারে এমন উপাদান &brandShortName; সনাক্ত করেছে।">
+<!ENTITY trackingProtection.detectedException "আপনার ব্রাউজিং ট্র্যাক করতে পারে এমন উপাদান সনাক্ত করেছে &brandShortName;। আপনি এই সাইটের জন্য সুরক্ষা অক্ষম করেছেন।">
+<!ENTITY trackingProtection.notDetected5 "এই পৃষ্ঠায় কোন ট্র্যাকিং উপাদান সনাক্ত করা হয়নি।">
+<!ENTITY trackingProtection.notDetectedException "এই পৃষ্ঠায় কোন ট্র্যাকিং উপাদান সনাক্ত করা হয়নি। আপনি এই সাইটের জন্য সুরক্ষা অক্ষম করেছেন।">
 
+<!ENTITY trackingProtection.reloadRequired2 "আপনি ট্র্যাকিং সুরক্ষা সক্ষম করেছেন। সব ট্র্যাকার ব্লক করতে এই পৃষ্ঠাটি পুনঃ লোড করুন।">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "এই সাইটের জন্য অক্ষম">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "এই সাইটের জন্য ব্লকিং নিষ্ক্রিয় কর">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "এই সেশনের জন্য অক্ষম">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "এই সাইটের জন্য সক্ষম">
+<!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.label "অস্থায়ীভাবে ব্লক করা অক্ষম করুন">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "এই সাইটের জন্য ব্লক করা সক্ষম করুন">
+<!ENTITY trackingProtection.block5.accesskey "E">
+<!ENTITY trackingProtection.reload2.label "পেজ রিলোড">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "সব প্রদর্শন S">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -1110,6 +1128,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.shareUrl.label "শেয়ার">
 
+<!ENTITY pageAction.shareMore.label "আরও...">
 
 <!ENTITY libraryButton.tooltip "ইতিহাস, সংরক্ষিত বুকমার্ক এবং আরও অনেক কিছু দেখুন">
 
