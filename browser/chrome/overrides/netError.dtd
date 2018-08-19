@@ -146,6 +146,7 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Vaše pripojenie nie je zabezpečené">
+<!ENTITY certerror.longpagetitle2 "Varovanie: možné bezpečnostné riziko">
 <!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -153,6 +154,7 @@ was trying to connect. -->
 
 
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Čo s tým môžete urobiť?">
 
 
 
@@ -192,9 +194,11 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>Aplikácia &brandShortName; sa nemohla pripojiť k adrese <span id='wrongSystemTimeWithoutReference_URL'/>, pretože čas na vašom počítači je pravdepodobne zle nastavený. Toto bráni vytvoreniu zabezpečeného pripojenia.</p> <p>Čas na vašom počítači je nastavený na <span id='wrongSystemTimeWithoutReference_systemDate'/>. Opravte, prosím, nastavenie času a dátumu na vašom počítači.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nezabezpečené pripojenie">
+<!ENTITY certerror.pagetitle2  "Varovanie: možné bezpečnostné riziko">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Táto stránka používa HTTP
 Strict Transport Security (HSTS), čím určuje, že &brandShortName; sa k nej má pripájať len zabezpečene.
 Výsledkom toho je, že pre tento certifikát nie je možné pridať výnimku.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Server <span class='hostname'></span> má nastavené bezpečnostné pravidlo HTTP Strict Transport Security (HSTS), ktoré vynucuje používanie len zabezpečeného spojenia. Pre pripojenie k tejto stránke nie je možné pridať výnimku.">
 <!ENTITY certerror.copyToClipboard.label "Kopírovať text do schránky">
 
 <!ENTITY inadequateSecurityError.title "Vaše pripojenie nie je zabezpečené">
