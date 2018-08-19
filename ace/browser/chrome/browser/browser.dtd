@@ -94,11 +94,15 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Peuhah Beureukaih…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Atô Laman...">
 <!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "Seuneudeuih Rakam">
 <!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Rakam...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY goOfflineCmd.label "Mubuet Maté Lèn">
 <!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "Menu Bar">
