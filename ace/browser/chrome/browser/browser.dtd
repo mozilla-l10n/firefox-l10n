@@ -64,8 +64,9 @@ can reach it easily. -->
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "Peu'ét Tab u Alat">
 <!ENTITY  sendTabToDevice.accesskey          "n">
-<!ENTITY  sendPageToDevice.label             "Peuét Laman u Alat">
+<!ENTITY  sendPageToDevice.label             "Peu'ét Laman u Alat">
 <!ENTITY  sendPageToDevice.accesskey         "n">
+<!ENTITY  sendLinkToDevice.label             "Peu'ét Peunawôt u Alat">
 <!ENTITY  sendLinkToDevice.accesskey         "n">
 <!ENTITY  sendToDeviceFeedback.label         "Kirem!">
 <!ENTITY  moveToNewWindow.accesskey          "W">
