@@ -657,6 +657,16 @@ content-blocking-fastblock-option-enabled =
     .label = সর্বদা ব্লক করুন
 content-blocking-fastblock-option-disabled =
     .label = কখনও ব্লক করবেন  না
+content-blocking-tracking-protection-label = ট্রাকার
+    .accesskey = T
+content-blocking-tracking-protection-description = সমস্ত পরিচিত ট্র্যাকার ব্লক করে (নোট: লোড হতে কিছু পৃষ্ঠা আটকাতে পারে)
+content-blocking-tracking-protection-option-enabled =
+    .label = সর্বদা ব্লক করুন
+content-blocking-tracking-protection-option-pbm =
+    .label = শুধুমাত্র ব্যক্তিগত উইন্ডোতে ব্লক করুন
+content-blocking-tracking-protection-option-disabled =
+    .label = কখনও ব্লক করবে না
+content-blocking-tracking-protection-change-blocklist = ব্লক তালিকা পরিবর্তন করুন...
 
 ## Privacy Section - Tracking
 
@@ -706,6 +716,9 @@ permissions-notification-link = আরও জানুন
 permissions-notification-pause =
     .label = নোটিফিকেশন বন্ধ রাখো যতক্ষণ না { -brand-short-name } রিস্টার্ট হয়
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = যেসকল ওয়েবসাইট স্বয়ংক্রিয়ভাবে মিডিয়া চালায় সেগুলো  ব্লক করুন
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = ব্যতিক্রম…
     .accesskey = E
