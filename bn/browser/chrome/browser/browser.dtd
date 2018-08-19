@@ -950,16 +950,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.detected "এই সাইটে ব্লক করার মত কনটেন্ট সনাক্ত করা হয়েছে।">
 <!ENTITY contentBlocking.notDetected "এই পৃষ্ঠাটিতে ব্লক করার মত কোন কনটেন্ট পাওয়া যায়নি।">
 <!ENTITY contentBlocking.disabled.label "নিষ্ক্রিয়">
+<!ENTITY contentBlocking.disabled.tooltip "আপনি কনটেন্ট ব্লক করা নিষ্ক্রিয় করেছেন।">
+<!ENTITY contentBlocking.exception.tooltip "আপনি এই সাইটের জন্য কন্টেন্ট ব্লক নিষ্ক্রিয় করেছেন।">
 
+<!ENTITY contentBlocking.fastBlock.label "ধীর-গতির ট্র্যাকার্স">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "ব্লক করা হয়েছে">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "ব্লকিং যুক্ত করুন...">
 
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
