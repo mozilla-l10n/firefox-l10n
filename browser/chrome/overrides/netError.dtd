@@ -150,6 +150,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle1  "Қауіпсіз емес байланыс">
 <!ENTITY certerror.pagetitle2  "Назарыңызға: алдыңызда қауіпсіздік тәуекелі бар сияқты">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Бұл сайт &brandShortName; оған тек қауіпсіз түрде қосылу алатынын көрсету үшін HTTP Strict Transport Security (HSTS) қолданады. Нәтижесінде, бұл сертификатты ережеден тыс қосу мүмкін емес.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> сайтының HTTP Strict Transport Security (HSTS) деп аталатын қауіпсіздік саясаты бар, бұл дегеніміз, &brandShortName; оған тек қауіпсіз түрде байланыса алады. Бұл веб-сайт үшін ережеден тыс жағдайды қоса алмайсыз.">
 <!ENTITY certerror.copyToClipboard.label "Мәтінді алмасу буферіне көшіру">
 
 <!ENTITY inadequateSecurityError.title "Сіздің байланысыңыз қауіпсіз емес">
@@ -160,6 +161,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Бұғатталған бет">
 
 <!ENTITY clockSkewError.title "Сіздің компьютеріңіздің сағаты қате">
+<!ENTITY clockSkewError.longDesc "Компьютеріңіз қазір <span id='wrongSystemTime_systemDate1'/> деп ойлайды, оның салдарынан &brandShortName; қауіпсіз түрде байланыса алмайды. <span class='hostname'></span> шолу үшін, комьютеріңіздің сағатын дұрыс күн, уақыт және уақыт белдеуі мәндеріне жаңартып, <span class='hostname'></span> жаңартыңыз.">
 
 <!ENTITY prefReset.longDesc "Сіздің желілік қауіпсіздік баптаулар осыны туғызатын сияқты. Бастапқы баптауларды қалпына келтіруді қалайсыз ба?">
 <!ENTITY prefReset.label "Бастапқы баптауларды қалпына келтіру">
