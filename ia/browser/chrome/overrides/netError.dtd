@@ -221,6 +221,7 @@ certificato non es possibile.">
 <!ENTITY blockedByPolicy.title "Pagina blocate">
 
 <!ENTITY clockSkewError.title "Le horologio de tu computator es errate">
+<!ENTITY clockSkewError.longDesc "Tu computator signa que es <span id='wrongSystemTime_systemDate1'/>. isto impedi a &brandShortName; de connecter se con securitate. Pro visitar <span class='hostname'></span>, actualisa le horologio de tu computator al data, tempore e fuso horari currente. Pois refresca <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Pare que le parametros de tu rete pote causar isto. Desira tu restaurar le parametros predefinite?">
 <!ENTITY prefReset.label "Restaurar le parametros predefinite">
