@@ -719,9 +719,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = যেসকল ওয়েবসাইট স্বয়ংক্রিয়ভাবে মিডিয়া চালায় সেগুলো  ব্লক করুন
     .accesskey = B
+permissions-block-autoplay-media-menu = যেসব ওয়েবসাইট সাউন্ড অটোপ্লে করে
 permissions-block-autoplay-media-exceptions =
     .label = ব্যতিক্রম…
     .accesskey = E
+autoplay-option-ask =
+    .label = সব সময় জিজ্ঞাসা করবে
+autoplay-option-allow =
+    .label = অটোপ্লে কে অনুমতি দিন
+autoplay-option-dont =
+    .label = অটোপ্লে করবেন না
 permissions-block-popups =
     .label = পপ-আপ উইন্ডো ব্লক করা হবে B
     .accesskey = B
@@ -748,6 +755,9 @@ collection-health-report =
     .label = { -brand-short-name } কে { -vendor-short-name } তে কারিগরী এবং মিথষ্ক্রিয় তথ্য পাঠাতে অনুমতি দিন
     .accesskey = r
 collection-health-report-link = আরও জানুন
+collection-studies =
+    .label = { -brand-short-name } কে ইনস্টল এবং চালানোর অনুমতি দিন
+collection-studies-link = { -brand-short-name } অধ্যয়ন দেখুন
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে ডাটা রিপোর্টিং নিস্ক্রিয় করা হয়েছে
