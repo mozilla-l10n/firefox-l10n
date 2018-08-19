@@ -62,7 +62,9 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Pinah Tab">
 <!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  sendTabToDevice.label              "Peu'ét Tab u Alat">
 <!ENTITY  sendTabToDevice.accesskey          "n">
+<!ENTITY  sendPageToDevice.label             "Peuét Laman u Alat">
 <!ENTITY  sendPageToDevice.accesskey         "n">
 <!ENTITY  sendLinkToDevice.accesskey         "n">
 <!ENTITY  sendToDeviceFeedback.label         "Kirem!">
