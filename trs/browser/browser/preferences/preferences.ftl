@@ -765,6 +765,9 @@ collection-browser-errors =
     .label = Ga'ni' da' { -brand-short-name } ga'ninj nej sa gire'e (Ga'ue nej mensaje gire'e) 'ngo { -vendor-short-name }
     .accesskey = b
 collection-browser-errors-link = Gahuin chrūn doj
+collection-backlogged-crash-reports =
+    .label = Ga'ni' da' { -brand-short-name } ga'ninj ma nej sa gire' riña si yuguit
+    .accesskey = c
 collection-backlogged-crash-reports-link = Gahuin chrūn doj
 
 ## Privacy Section - Security
@@ -772,10 +775,32 @@ collection-backlogged-crash-reports-link = Gahuin chrūn doj
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Sa arrán riña yi'ìi
+security-browsing-protection = Sa arrán riña nej sa àta yi'ìi
+security-enable-safe-browsing =
+    .label = Garrun' riña nej sa Àta yi'ìi
+    .accesskey = B
 security-enable-safe-browsing-link = Gahuin chrūn doj
+security-block-downloads =
+    .label = Garrun' rina nej na naduni' ni àta yi'ìi
+    .accesskey = d
+security-block-uncommon-software =
+    .label = Ataj na'anj ma ahi si nu gachinjt nī nitaj si raj sun yitïnj
+    .accesskey = c
 
 ## Privacy Section - Certificates
 
+certs-header = Sertifikado
+certs-personal-label = 'Ngà achín ma si sertifikadot
+certs-select-auto-option =
+    .label = Ganahui ma'an ma 'ngoj
+    .accesskey = S
+certs-select-ask-option =
+    .label = Gachinj yitin'
+    .accesskey = A
+certs-enable-ocsp =
+    .label = Ni'io' nej servidor riki nuguan'an OCSP da' ni'io' si 'iaj sun sertifikado
+    .accesskey = Q
 certs-view =
     .label = Ni'io' certificado...
     .accesskey = N
