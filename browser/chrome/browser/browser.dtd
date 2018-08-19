@@ -942,6 +942,39 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Proteccion contra lo seguiment : ACTIVADA">
 <!ENTITY trackingProtection.off "Proteccion contra lo seguiment : DESACTIVADA">
+
+<!ENTITY contentBlocking.title "Blocatge de contengut">
+<!ENTITY contentBlocking.detected "Contengut blocable detectat sus aqueste site.">
+<!ENTITY contentBlocking.notDetected "Cap de contengut blocable detectat sus aquesta pagina.">
+<!ENTITY contentBlocking.disabled.label "Desactivat">
+<!ENTITY contentBlocking.disabled.tooltip "Avètz desactivat lo blocatge de contengut.">
+<!ENTITY contentBlocking.exception.tooltip "Avètz desactivat lo blocatge de contengut per aqueste site.">
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Blocats">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Apondre un blocatge…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Traçadors">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Blocats">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Apondre un blocatge…">
+
 <!ENTITY trackingProtection.title "Proteccion contra lo seguiment">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a blocat d'elements de la pagina que pòdon pistar vòstra navegacion.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Aquel site compren d'elements que pòdon pistar vòstra navegacion. Avètz desactivat la proteccion.">
@@ -967,11 +1000,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Pas cap d'element de seguiment es estat detectat sus aquela pagina. Avètz desactivat la proteccion per aqueste site.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Avètz activat la proteccion contra lo seguiment. Actualizatz la pagina per blocar totes los traçadors.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Desactivar per aqueste site">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Desactivar lo blocatge per aqueste site">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
