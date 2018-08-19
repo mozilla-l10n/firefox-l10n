@@ -330,6 +330,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.label             "Jauna cilņu skreine">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "Porvaļdēt skreines">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Jauns lūgs">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -458,6 +459,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Pīvīnuot cytys lītys…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "P">
 
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Automatiski slēpt reikjūslā">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "Porvaldēt paplašinōjumu">
+<!ENTITY customizeMenu.manageExtension.accesskey "P">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -784,9 +789,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Gotovs">
 <!ENTITY editBookmark.removeBookmark.accessKey       "K">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "Rōdēt redaktoru pi saglobōšonys">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -829,11 +837,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Seikuoka informaceja">
 
+<!ENTITY identity.clearSiteData "Dzēst seikdatnes un lopu datus…">
 
 <!ENTITY identity.permissions "Atļuovis">
 <!ENTITY identity.permissionsEmpty "You have not granted this site any special permissions.">
 <!ENTITY identity.permissionsReloadHint "Kab radzāti izmaiņis īspiejams byus napīcīšama lopys puorluode.">
 
+<!ENTITY identity.permissionsPreferences.tooltip "Attaiseit atļauju īstatiejumus">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -933,7 +943,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Audio from the tab will be shared.">
 <!ENTITY getUserMedia.allWindowsShared.message "All visible windows on your screen will be shared.">
 
+<!ENTITY trackingProtection.on "Aizsardzeiba pret izsekōšonu: Īslāgta">
+<!ENTITY trackingProtection.off "Aizsardzeiba pret izsekōšonu: Izslāgta">
 
+<!ENTITY contentBlocking.title "Satura bloķiešona">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
