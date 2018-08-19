@@ -28,10 +28,7 @@
 <!ENTITY helpSafeMode.stop.label       "Ponovno zaženi z omogočenimi dodatki">
 <!ENTITY helpSafeMode.stop.accesskey   "n">
 
-<!ENTITY healthReport2.label      "Zdravniško spričevalo za &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "Z">
-
-<!ENTITY helpTroubleshootingInfo.label      "Reševanje težav …">
+<!ENTITY helpTroubleshootingInfo.label      "Odpravljanje težav">
 <!ENTITY helpTroubleshootingInfo.accesskey  "R">
 
 <!ENTITY helpFeedbackPage.label      "Povratne informacije …">

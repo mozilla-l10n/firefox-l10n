@@ -195,7 +195,7 @@
 
 <!ENTITY addon.createdBy.label                "Avtor: ">
 
-<!ENTITY eula.title                           "Dovoljenje (EULA)">
+<!ENTITY eula.title                           "Licenčni sporazum za končnega uporabnika">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Sprejmi in namesti …">

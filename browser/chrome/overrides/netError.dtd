@@ -8,6 +8,7 @@
 <!ENTITY loadError.label "Napaka pri nalaganju strani">
 <!ENTITY retry.label "Poskusi znova">
 <!ENTITY returnToPreviousPage.label "Nazaj">
+<!ENTITY returnToPreviousPage1.label "Pojdi nazaj (priporočeno)">
 <!ENTITY advanced.label "Napredno">
 
 <!ENTITY continue1.label "Nadaljuj …">
@@ -152,6 +153,7 @@ was trying to connect. -->
 
 
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Kaj lahko storite?">
 
 
 
