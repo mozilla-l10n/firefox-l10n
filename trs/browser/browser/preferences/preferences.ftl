@@ -671,6 +671,8 @@ content-blocking-tracking-protection-change-blocklist = Naduno' nej sa gare'...
 ## Privacy Section - Tracking
 
 tracking-header = Sa narrán riña sa naga'nàj a
+tracking-desc = Sa narrán riña sa naga'nàj a nī dugumin ma sa nahuin ra'a dara' sa dugutujt 'ngà aché nut riña nej sitio. <a data-l10n-name="learn-more">Gini'int doj daj 'iaj sun man anj</a>
+tracking-mode-label = Garasun' sa arrán riña sa naga'nàj da' garun' riña nej ni'in'
 tracking-mode-always =
     .label = Nigànj chre
     .accesskey = i
@@ -680,9 +682,20 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nitaj ama
     .accesskey = t
+# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
+# This currently happens on the release and beta channel.
+tracking-pbm-label = Garasun' arrán riña nej sa naga'naj daj garrun' riña nej sa nana'ui'
+    .accesskey = v
+tracking-exceptions =
+    .label = Sa taj a
+    .accesskey = x
+tracking-change-block-list =
+    .label = Naduno' nej sa arrán
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = Ga'uej ma
 permissions-location = Dane' huin
 permissions-location-settings =
     .label = Nagi'iô'...
@@ -700,10 +713,42 @@ permissions-notification-settings =
     .label = Nagi'iô'...
     .accesskey = i
 permissions-notification-link = Gahuin chrun doj
+permissions-notification-pause =
+    .label = Duyichi' akuan't nej sa ataj na'an dâ { -brand-short-name } nayi'ì ñu
+    .accesskey = n
+permissions-block-autoplay-media =
+    .label = Duyichin' nej sa achrá ma'ā riña nej sitio web
+    .accesskey = B
+permissions-block-autoplay-media-menu = Guenda nej sitio achrá ma'ān
+permissions-block-autoplay-media-exceptions =
+    .label = Sa taj a...
+    .accesskey = E
+autoplay-option-ask =
+    .label = Yitïnj chre gachrinj nu'un'
+autoplay-option-allow =
+    .label = Duguchrá ma'an aga' nan
+autoplay-option-dont =
+    .label = Si duguhrá ma'an ma
+permissions-block-popups =
+    .label = Garrun riña nej ventana ahui ma'an
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = Sa taj a
+    .accesskey = E
+permissions-addon-install-warning =
+    .label = Gataj na'anj ma 'ngà nej sitio na huin ruhua dugutuj nej sa taj a
+    .accesskey = W
+permissions-addon-exceptions =
+    .label = Sa ga'ue
+    .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = Dugumi' da' si gatuj ahuin nanj si ma'an riña navegador
+    .accesskey = a
 permissions-a11y-privacy-link = Gahuin chrun doj
 
 ## Privacy Section - Data Collection
 
+collection-header = Nej sa nachra sa' datos { -brand-short-name }
 collection-privacy-notice = Noticia huìi
 collection-health-report-link = Gahuin chrūn doj
 collection-browser-errors-link = Gahuin chrūn doj
