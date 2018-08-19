@@ -108,8 +108,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Menu Bar">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Bar Alat Keumudoe">
+<!ENTITY personalbarCmd.label "Bar Alat Peutanda">
 <!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY bookmarksToolbarItem.label "Beunda Bar Alat Peutanda">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Peuhah Keulayi Ban Dum Tab">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
