@@ -998,6 +998,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.tooltip "ট্র্যাকিং সুরক্ষা পছন্দ খুলুন">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; এই পেজের কিছু অংশ ব্লক করেছে যা আপনার ব্রাউজিং ট্র্যাক করতে পারে।">
+<!ENTITY trackingProtection.detectedNotBlocked5 "আপনার ব্রাউজিং ট্র্যাক করতে পারে এমন উপাদান &brandShortName; সনাক্ত করেছে।">
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
