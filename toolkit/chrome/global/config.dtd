@@ -9,7 +9,7 @@
 <!ENTITY aboutWarningTitle.label "Aceasta ți-ar putea nevalida garanția!">
 <!ENTITY aboutWarningText.label "Schimbarea valorilor acestor setări avansate poate dăuna stabilității, securității și performanței acestei aplicații. Ar trebui să continui doar dacă știi ce faci.">
 <!ENTITY aboutWarningButton2.label "Accept riscul!">
-<!ENTITY aboutWarningCheckbox.label "Arată această avertizare data viitoare">
+<!ENTITY aboutWarningCheckbox.label "Afișează această avertizare data viitoare">
 
 <!ENTITY searchPrefs.label "Căutare:">
 <!ENTITY searchPrefs.accesskey "r">
