@@ -939,6 +939,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.off "ట్రాకింగ్ సంరక్షణ: ఆఫ్">
 
 <!ENTITY contentBlocking.title "విషయ నిరోధం">
+<!ENTITY contentBlocking.detected "ఈ సైటులో నిరోధించదగ్గ విషయం కనబడింది.">
+<!ENTITY contentBlocking.notDetected "ఈ పేజీలో నిరోధించదగ్గ విషయమేమీ కనబడలేదు.">
 
 <!ENTITY contentBlocking.fastBlock.label "నెమ్మదిగా-లోడయ్యే ట్రాకర్లు">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
@@ -959,6 +961,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "నిరోధించబడ్డాయి">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
