@@ -32,8 +32,6 @@ Včeraj
 <!ENTITY aboutTelemetry.optionGroupOlder "
 Starejše
 ">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Koristna vsebina">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -70,9 +68,6 @@ Starejše
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Enostavne meritve
 ">
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Dnevnik telemetrije
-">
 <!ENTITY aboutTelemetry.slowSqlSection "
   Počasni stavki SQL
 ">
@@ -82,8 +77,7 @@ Starejše
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Podrobnosti dodatkov
 ">
-<!ENTITY aboutTelemetry.capturedStacksSection "
-  Zajeti skladi">
+<!ENTITY aboutTelemetry.capturedStacksSection "Zajeti skladi">
 <!ENTITY aboutTelemetry.lateWritesSection "
   Poznejša pisanja
 ">
