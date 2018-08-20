@@ -14,7 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Pomocník"> 
 <!ENTITY helpMenuWin.accesskey    "P">
-<!ENTITY aboutProduct2.label      "O prehliadači &brandShorterName;">
+<!ENTITY aboutProduct2.label      "O aplikácii &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "O">
 <!ENTITY productHelp2.label       "Pomocník prehliadača &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "P">
@@ -27,9 +27,6 @@
 <!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "Reštartovať a povoliť doplnky…">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY healthReport2.label      "Správa o kondícii prehliadača &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "S">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informácie pre riešenie problémov">
 <!ENTITY helpTroubleshootingInfo.accesskey  "n">
