@@ -654,6 +654,14 @@ content-blocking-fastblock-option-disabled =
     .label = Никога да не бъде спирано
 content-blocking-tracking-protection-label = Проследяващи елементи
     .accesskey = п
+content-blocking-tracking-protection-description = Спира всички известни проследявания (Заб.: може да попречи на някои страници да заредят).
+content-blocking-tracking-protection-option-enabled =
+    .label = Винаги да бъдат спирани
+content-blocking-tracking-protection-option-pbm =
+    .label = Спиране само в поверителни прозорци
+content-blocking-tracking-protection-option-disabled =
+    .label = Никога да не бъдат спирани
+content-blocking-tracking-protection-change-blocklist = Промяна на списъка…
 
 ## Privacy Section - Tracking
 
