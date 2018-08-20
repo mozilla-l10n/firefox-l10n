@@ -1,18 +1,20 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!--
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+-->
 
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
-<!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Kopírovať">
-<!ENTITY  copy.accesskey        "K">
-<!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Vybrať všetko">
-<!ENTITY  selectall.accesskey   "a">
-<!ENTITY  openHelpMac.key       "?">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  copy.key               "C">
+<!ENTITY  copy.label             "Kopírovať">
+<!ENTITY  copy.accesskey         "K">
+<!ENTITY  selectall.key          "A">
+<!ENTITY  selectall.label        "Vybrať všetko">
+<!ENTITY  selectall.accesskey    "a">
+<!ENTITY  openHelpMac.key        "?">
+<!ENTITY  closeWindow.key        "w">
 <!ENTITY  copyLinks.label           "Kopírovať odkazy">
 <!ENTITY  copyLinks.accesskey       "d">
 <!ENTITY  openInNewTab.label        "Otvoriť na novej karte">
@@ -106,7 +108,7 @@
 <!ENTITY  securityView.identity.header   "Identita webovej stránky">
 <!ENTITY  securityView.identity.owner    "Vlastník:">
 <!ENTITY  securityView.identity.domain   "Webová stránka:">
-<!ENTITY  securityView.identity.verifier "Overená:">
+<!ENTITY  securityView.identity.verifier "Overil ju:">
 
 <!ENTITY  securityView.privacy.header                   "Súkromie a história">
 <!ENTITY  securityView.privacy.history                  "Navštívil som túto stránku v minulosti?">
@@ -118,4 +120,3 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "u">
 
 <!ENTITY  securityView.technical.header                 "Technické detaily">
-
