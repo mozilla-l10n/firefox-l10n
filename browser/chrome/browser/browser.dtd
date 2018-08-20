@@ -987,7 +987,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.tooltip "Otvorí nastavenia ochrany pred sledovaním">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokuje časti stránky, ktoré môžu sledovať vaše prehliadanie.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; objavil prvky, ktoré môžu sledovať vaše prehliadanie.">
 <!ENTITY trackingProtection.notDetected5 "Na tejto stránke neboli zistené žiadne sledovacie prvky.">
 <!ENTITY trackingProtection.notDetectedException "Na tejto stránke neboli zistené žiadne sledovacie prvky. Ochranu pred sledovaním ste na tejto stránke vypli.">
 
