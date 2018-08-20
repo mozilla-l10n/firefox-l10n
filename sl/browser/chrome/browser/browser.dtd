@@ -957,12 +957,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.fastBlock.blocked.label "Zavrnjeno">
+<!ENTITY contentBlocking.fastBlock.blocked.label "Zavrnjeni">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.fastBlock.add.label "Dodaj zavračanje …">
+<!ENTITY contentBlocking.fastBlock.add.label "Zavračaj …">
 
 <!ENTITY contentBlocking.trackingProtection.label "Sledilci">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
@@ -970,12 +970,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
-<!ENTITY contentBlocking.trackingProtection.blocked.label "Zavrnjeno">
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Zavrnjeni">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.trackingProtection.add.label "Dodaj zavračanje …">
+<!ENTITY contentBlocking.trackingProtection.add.label "Zavračaj …">
 
 <!ENTITY trackingProtection.title "Zaščita pred sledenjem">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; zavrača dele strani, ki lahko sledijo vašemu brskanju.">
