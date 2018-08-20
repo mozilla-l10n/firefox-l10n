@@ -46,3 +46,6 @@ serviceworker-worker-status-stopped = Haltigita
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = Registrata
+# Text displayed when no service workers are visible for the current page. Clicking on the
+# link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
+serviceworker-empty-intro = Vi bezonas registri «Service Worker» por inspekti ĝin ĉi tie. <a>Pli da informo</a>
