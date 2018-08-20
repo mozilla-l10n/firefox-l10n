@@ -76,9 +76,9 @@
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Shrani kopijo">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Shrani kopijo dogodka v koledar neodvisno od odgovora organizatorju. Seznam udeležencev bo izbrisan.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Neodločeno">
-<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Sprejmi povabilo na dogodek okvirno">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Pogojno sprejmi povabilo na dogodek">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Okvirno vse">
-<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Sprejmi povabilo na dogodek okvirno za vse ponovitve dogodka">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Pogojno sprejmi povabilo na dogodek za vse ponovitve dogodka">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Posodobi">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Posodobi koledar dogodkov">
 <!ENTITY lightning.imipbar.description                                      "To sporočilo vsebuje povabilo na dogodek.">
