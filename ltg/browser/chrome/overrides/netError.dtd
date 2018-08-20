@@ -111,11 +111,16 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "&brandShortName; atroda īspiejamu drūšeibys risku un napabeidze <span class='hostname'/> īlōdi. Ja turpynōsi, uzbruceji var nūzagt tovu privatū informaceji, pīmāram paroles, e-postus voi bankas kartes datus.">
 
+<!ENTITY certerror.expiredCert.secondPara "Īmasls dreižōk vysa ir napareizi īstateits tova datora stundinīks, kurais līdze &brandShortName; izveidōt drūšu savīnojumu.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Kū var pasōkt?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Problema dreižōk vysa ir saisteita ar mōjis lopu un tu nikū nevari darēt, kab itū atrisynōtu.</p><p>Ka izmontoj uzjāmuma teiklu voi pretvirusu programmu, vari lyugt paleidzeibu lītōtōju atbolsta komandai. Vāļ vari ziņōt lopys turātōjam par itū problemu.</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Tova datora stundinīks ir īstateits iz <span id='wrongSystemTime_systemDate2'/>. Porzalīcynoj, ka datoram ir īstateits pareizs datums, laiks un laika jūsla sistemas īstatiejumūs, un tod īlōdej lopu par jaunu <span class='hostname'/>.</p> <p>Ja tovs stundinīks ir pareizs, dreižōk vysa, lopa ir īstatieta napareizi un nikū tī navar pasōkt. Tu vari ziņōt lopys administratoram par klaidu.</p>">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Dreižōk vysa tei ir lopys problema un vīneigais kū tu vari darēt ir ziņōt lopys administratoram par itū problemu.</p>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Lopa var byut eislaiceigi napīejama voi puoruok aizjimta. Raugit vēļreiz piec puors mynotom.</li> <li>Nui navarot attaiseit nivīnu lopu, puorbaudit sova datora teikla savīnuojumu.</li> <li>Nui jiusu datu aizsardzeibai tīk izmontuots guņsmyurs, puorsalīcinojit, ka &brandShortName; ir atļauts pīkliut šķārsteiklam.</li> </ul>">
 
@@ -151,6 +156,7 @@ was trying to connect. -->
 Strict Transport Security (HSTS) to specify that &brandShortName; may only connect
 to it securely. As a result, it is not possible to add an exception for this
 certificate.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> izmontoj drūšeibys politiku, kū sauc HTTP Strict Transport Security (HSTS), kas nozeimoj, ka &brandShortName; var lopai pīzaslēgt viņ drūšajā režimā. Tu navari pīvīnōt izjāmumu, kab apsavērt itū lopu.">
 <!ENTITY certerror.copyToClipboard.label "Kopēt tekstu atmiņā">
 
 <!ENTITY inadequateSecurityError.title "Savīnuojums nav drūss">
