@@ -835,7 +835,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Več informacij">
 
-<!ENTITY identity.clearSiteData "Počisti piškotke in podatke strani …">
+<!ENTITY identity.clearSiteData "Počisti piškotke in podatke te strani …">
 
 <!ENTITY identity.permissions "Dovoljenja">
 <!ENTITY identity.permissionsEmpty "Tej strani niste dodelili posebnih dovoljenj.">
