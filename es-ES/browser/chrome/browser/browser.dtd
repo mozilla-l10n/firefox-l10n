@@ -50,6 +50,7 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Recargar pestañas seleccionadas">
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
+<!ENTITY  bookmarkSelectedTabs.label         "Añadir pestañas a marcadores…">
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -315,7 +316,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Desarrollador web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "Grabar ejecución">
 <!ENTITY devtoolsSaveRecording.label "Guardar grabación">
+<!ENTITY devtoolsReplayExecution.label "Reproducir ejecución">
 
 <!ENTITY inspectContextMenu.label     "Inspeccionar elemento">
 <!ENTITY inspectContextMenu.accesskey "l">
@@ -942,6 +945,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Protección contra rastreo: ON">
 <!ENTITY trackingProtection.off "Protección contra rastreo: OFF">
+
+<!ENTITY contentBlocking.title "Bloqueo de contenido">
+<!ENTITY contentBlocking.detected "Contenido bloqueable detectado en este sitio.">
+<!ENTITY contentBlocking.notDetected "No se ha detectado ningún contenido bloqueable en esta página.">
+<!ENTITY contentBlocking.disabled.label "Desactivado">
+<!ENTITY contentBlocking.disabled.tooltip "Ha desactivado el bloqueo de contenido.">
+<!ENTITY contentBlocking.exception.tooltip "Ha desactivado el bloqueo de contenido en este sitio.">
+
+<!ENTITY contentBlocking.fastBlock.label "Rastreadores de carga lenta">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Bloqueados">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Añadir bloqueo…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Rastreadores">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Bloqueados">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Añadir bloqueo…">
+
 <!ENTITY trackingProtection.title "Protección contra rastreo">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; está bloqueando partes de esta página que pueden rastrear su navegación.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Este sitio incluye elementos que pueden rastrear su navegación. Tiene la protección desactivada.">
@@ -967,11 +1004,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "No se detectaron elementos de rastreo en esta página. Ha deshabilitado la protección para este sitio.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Ha activado la protección contra rastreo. Recargue la página para bloquear a todos los rastreadores.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Deshabilitar para este sitio">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Desactivar el bloqueo en este sitio">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -979,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Habilitar para este sitio">
 <!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.label "Desactivar temporalmente el bloqueo">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Activar el bloqueo en este sitio">
+<!ENTITY trackingProtection.block5.accesskey "v">
 <!ENTITY trackingProtection.reload2.label "Recargar página">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
