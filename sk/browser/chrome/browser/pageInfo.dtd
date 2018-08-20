@@ -61,7 +61,7 @@
 <!ENTITY  securityView.identity.header   "Identita webovej stránky">
 <!ENTITY  securityView.identity.owner    "Vlastník:">
 <!ENTITY  securityView.identity.domain   "Webová stránka:">
-<!ENTITY  securityView.identity.verifier "Overená:">
+<!ENTITY  securityView.identity.verifier "Overil ju:">
 <!ENTITY  securityView.identity.validity "Koniec platnosti:">
 
 <!ENTITY  securityView.privacy.header                   "Súkromie a história">
