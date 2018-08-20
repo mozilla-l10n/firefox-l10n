@@ -163,6 +163,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Забранена страница">
 
+<!ENTITY clockSkewError.title "Часовникът на компютъра е неверен">
 
 <!ENTITY prefReset.longDesc "Изглежда вашите настройките на сигурността може да са предизвикали това. Искате ли да възстановите оригиналните настройки?">
 <!ENTITY prefReset.label "Възстановяване на оригиналните настройки">
