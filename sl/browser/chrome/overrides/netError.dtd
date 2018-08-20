@@ -214,6 +214,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ta stran uporablja HTTP
 Strict Transport Security (HSTS), ki določa, da se lahko &brandShortName; nanjo
 poveže zgolj varno. Posledično za to digitalno potrdilo ni mogoče dodati izjeme.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> uporablja varnostni pravilnik, imenovan HTTP Strict Transport Security (HSTS), kar pomeni, da se lahko &brandShortName; nanjo poveže zgolj varno. Za obisk te strani ne morete dodati izjeme.">
 <!ENTITY certerror.copyToClipboard.label "Kopiraj besedilo v odložišče">
 
 <!ENTITY inadequateSecurityError.title "Vaša povezava ni varna">
