@@ -83,6 +83,14 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Poți specifica ce site-uri web au permisiunea de a instala suplimente. Tastează adresa exactă a site-ului căruia vrei să-i oferi permisiunea și apoi clic pe Permite.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Site-uri permise - Redare automată
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Poți specifica site-urile cărora le permiți să redea automat elemente multimedia. Scrie adresa exactă a site-ului și clic pe butonul Permite.
+permissions-exceptions-autoplay-media-desc2 = Poți specifica site-urile cărora le permiți să redea conținut multimedia cu sunet. Scrie adresa site-ului pe care dorești să-l gestionezi, apoi clic pe Blochează sau Permite.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
