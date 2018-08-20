@@ -953,25 +953,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.disabled.tooltip "Vi malaktvigis la blokadon de enhavo.">
 <!ENTITY contentBlocking.exception.tooltip "Vi malaktvigis la blokadon de enhavo por tiu ĉi retejo.">
 
+<!ENTITY contentBlocking.fastBlock.label "Malrapide ŝargataj spuriloj">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Blokitaj">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Aldoni blokadon…">
 
+<!ENTITY contentBlocking.trackingProtection.label "Spuriloj">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Blokitaj">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Aldoni blokadon…">
 
 <!ENTITY trackingProtection.title "Protekto kontraŭ spurado">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokas partojn de la paĝo kiuj povus spuri vian retumon.">
@@ -1004,6 +1010,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Malaktivigi por tiu ĉi retejo">
 <!ENTITY trackingProtection.unblock3.accesskey "M">
+<!ENTITY trackingProtection.unblock4.label "Malaktivigi blokadon por tiu ĉi retejo">
+<!ENTITY trackingProtection.unblock4.accesskey "M">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -1011,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "s">
 <!ENTITY trackingProtection.block4.label "Aktivigi por tiu ĉi retejo">
 <!ENTITY trackingProtection.block4.accesskey "A">
+<!ENTITY trackingProtection.unblockPrivate4.label "Provizore malaktivigi blokadon">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "P">
+<!ENTITY trackingProtection.block5.label "Aktivigi blokadon por tiu ĉi retejo">
+<!ENTITY trackingProtection.block5.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Reŝargi paĝon">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
