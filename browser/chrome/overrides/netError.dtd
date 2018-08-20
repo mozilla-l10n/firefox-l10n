@@ -213,7 +213,7 @@ was trying to connect. -->
 käyttäen HTTP Strict Transport Security (HSTS) -ominaisuutta, että
 &brandShortName; saa muodostaa siihen vain suojatun yhteyden. Tämän takia
 tälle varmenteelle ei voi luoda poikkeusta.">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Sivustolla <span class='hostname'></span> on tietoturvakäytäntö nihmeltään HTTP Strict Transport Security (HSTS), joka tarkoittaa, että &brandShortName; voi muodostaa siihen vain suojatun yhteyden. Tälle sivustolle siirtymistä varten ei voi lisätä poikkeusta.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Sivusto <span class='hostname'></span> noudattaa tietoturvakäytäntöä nimeltään HTTP Strict Transport Security (HSTS), mikä tarkoittaa, että &brandShortName; voi muodostaa siihen vain suojatun yhteyden. Tälle sivustolle siirtymistä varten ei voi lisätä poikkeusta.">
 <!ENTITY certerror.copyToClipboard.label "Kopioi teksti leikepöydälle">
 
 <!ENTITY inadequateSecurityError.title "Yhteys ei ole suojattu">
