@@ -638,6 +638,35 @@ content-blocking-learn-more = Pli da informo
 content-blocking-restore-defaults =
     .label = Remeti normajn valorojn
     .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Malŝalti blokadon de enhavo
+content-blocking-toggle-off =
+    .tooltiptext = Ŝalti blokadon de enhavo
+content-blocking-toggle-label-on = Ŝaltita
+    .accesskey = a
+content-blocking-toggle-label-off = Malŝaltita
+    .accesskey = l
+content-blocking-category-label = Elektu, kion bloki
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Malrapide ŝargatajn spurilojn
+    .accesskey = M
+content-blocking-fastblock-description = Bloki nerektan enhavon kiu bezonas pli ol kvin sekundoj por ŝargiĝi
+content-blocking-fastblock-option-enabled =
+    .label = Ĉiam bloki
+content-blocking-fastblock-option-disabled =
+    .label = Neniam bloki
+content-blocking-tracking-protection-label = Spurilojn
+    .accesskey = S
+content-blocking-tracking-protection-description = Bloki ĉiujn konatajn spurilojn (Rimarko: tio povus ankaŭ malhelpi la ŝargadon de kelkaj paĝoj).
+content-blocking-tracking-protection-option-enabled =
+    .label = Ĉiam bloki
+content-blocking-tracking-protection-option-pbm =
+    .label = Bloki nur en privataj fenestroj
+content-blocking-tracking-protection-option-disabled =
+    .label = Neniam bloki
+content-blocking-tracking-protection-change-blocklist = Ŝanĝi liston de blokado…
 
 ## Privacy Section - Tracking
 
@@ -690,9 +719,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Malpermesi al retejoj aŭtomate ludi aŭdvidaĵojn kun sono
     .accesskey = s
+permissions-block-autoplay-media-menu = Por retejoj, kiuj aŭtomate ludas sonon
 permissions-block-autoplay-media-exceptions =
     .label = Esceptoj
     .accesskey = E
+autoplay-option-ask =
+    .label = Ĉiam demandi
+autoplay-option-allow =
+    .label = Permesi aŭtomatan ludadon
+autoplay-option-dont =
+    .label = Ne aŭtomate ludi
 permissions-block-popups =
     .label = Bloki ŝprucfenestrojn
     .accesskey = B
