@@ -202,6 +202,9 @@ choose-language-description = Elektu vian preferatan lingvon por retpaĝoj
 choose-button =
     .label = Elekti…
     .accesskey = l
+choose-browser-language-description = Elektu la lingvojn, kiuj estos uzata por montri menuojn, mesaĝojn kaj sciigojn de { -brand-short-name }.
+confirm-browser-language-change-description = Restartigi { -brand-short-name } por apliki tiun ĉi ŝanĝojn
+confirm-browser-language-change-button = Apliki kaj restartigi
 translate-web-pages =
     .label = Traduki teksaĵan enhavon
     .accesskey = T
@@ -626,6 +629,15 @@ addressbar-locbar-openpage-option =
     .label = malfermitaj langetoj
     .accesskey = m
 addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = Blokado de enhavo
+content-blocking-desc = Bloku nerektan enhavon, kiel ekzemple reklamojn aŭ kodon, kiu povas malrapidigi vian retumon kaj spuri vin tra la teksaĵo. Personecigu viajn agordojn por trafi la plej bonan ekvilibron inter protekto kaj efikeco.
+content-blocking-learn-more = Pli da informo
+content-blocking-restore-defaults =
+    .label = Remeti normajn valorojn
+    .accesskey = R
 
 ## Privacy Section - Tracking
 
