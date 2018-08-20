@@ -48,5 +48,5 @@ their language.
 <!ENTITY welcomeback2.beforelink.pageInfo2  "Vaše doplnky a prispôsobenia boli odstránené a nastavenia prehliadača boli obnovené na ich predvolené hodnoty. Ak sa týmto váš problém nevyrieši, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   ".">
 
-<!ENTITY welcomeback2.link.pageInfo2        "pozrite si ďalšie možné postupy riešenia">
+<!ENTITY welcomeback2.link.pageInfo2        "pozrite si ďalšie možné postupy riešenia.">
 
