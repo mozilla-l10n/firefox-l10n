@@ -42,6 +42,7 @@ left instead of right. -->
 <!-- Pin Tab and Pin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "P">
+<!ENTITY  unpinSelectedTabs.label            "टॅबचे पिन काढा">
 <!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
@@ -71,6 +72,7 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "रांगेत (ऑफलाइन)">
 <!ENTITY  moveToNewWindow.label              "नवीन पटलाकडे हलवा">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.label            "कंटेनर मध्ये पुन्हा उघडा">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "सर्व टॅब्जना वाचनखूण लावा…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
@@ -936,6 +938,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "मागोवा सुरक्षा: चालु">
 <!ENTITY trackingProtection.off "मागोवा सुरक्षा: बंद">
+
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!ENTITY trackingProtection.title "मागोवा संरक्षण">
 <!ENTITY trackingProtection.detectedBlocked3 "जे आपल्या आॅनलाइन कार्याचा मागोवा घेऊ शकतात त्यांना &brandShortName; प्रतीरोधीत करीत आहे.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "आपल्या आॅनलाइन कार्याचा मागोवा घेऊ शकणारे घटक या पृष्ठामध्ये आहेत.आपण ह्या पृष्ठावरील सुरक्षा बंद केली आहे.">
@@ -955,6 +979,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.detectedBlocked4 "जे आपल्या आॅनलाइन कार्याचा मागोवा घेऊ शकतात त्यांना &brandShortName; प्रतीरोधीत करीत आहे.">
 <!ENTITY trackingProtection.notDetected5 "मागोवा घेणारे घटक ह्या पृष्ठावर आढळले नाही.">
+
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
