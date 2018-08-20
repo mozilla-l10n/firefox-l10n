@@ -8,7 +8,11 @@
 <!ENTITY loadError.label "Okazis problemo dum ŝargado de la paĝo">
 <!ENTITY retry.label "Klopodi denove">
 <!ENTITY returnToPreviousPage.label "Malantaŭen">
+<!ENTITY returnToPreviousPage1.label "Reen (rekomendita)">
 <!ENTITY advanced.label "Spertula">
+
+<!ENTITY continue1.label "Daŭrigi…">
+<!ENTITY moreInformation.label "Pli da informo">
 
 <!-- Specific error messages -->
 
@@ -126,10 +130,18 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Via konekto ne estas sekura">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Averto: Ebla sekureca risko antaŭ vi">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "La posedanto de <span class='hostname'/> malĝuste agordis sian retejon. Por protekti viajn datumojn kontraŭ ŝtelo, &brandShortName; ne konektiĝis al tiu ĉi retejo.">
+
+<!ENTITY certerror.introPara1 "&brandShortName; eltrovis eblan sekurecan minacon kaj ne pluiris al <span class='hostname'/>. Se vi vizitas tiun ĉi retejon, atakantoj povus klopodi ŝteli informojn, kiel viajn pasvortojn, retpoŝtajn adresojn aŭ kreditkartojn.">
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>La retejo povas esti tempe ne atingebla aŭ troe okupata. Klopodu denove post kelkaj momentoj.</li> <li>Se vi ne sukcesas ŝargi iun ajn paĝon, kontrolu la komputilan retan konekton.</li> 
@@ -173,6 +185,7 @@ Strict Transport Security (HSTS) por specifi ke &brandShortName; nur povas konek
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uzas sekurecan teĥnologion kiu estas kaduka kaj sendefenda. Atakanto povus facile elmeti informojn, kiujn vi opiniis sekuraj. La administranto de la retejo devos ripari la servilon, antaŭ ol vi povos viziti ĝin.</p><p>Erarkodo: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokita paĝo">
+
 
 <!ENTITY prefReset.longDesc "Ŝajne viaj retaj sekurecaj agordoj povus esti la kaŭzo. Ĉu vi volas restarigi la normajn agordojn?">
 <!ENTITY prefReset.label "Restarigi normajn agordojn">
