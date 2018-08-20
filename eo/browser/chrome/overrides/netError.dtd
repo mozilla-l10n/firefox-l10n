@@ -138,7 +138,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "&brandShortName; eltrovis eblan sekurecan minacon kaj ne pluiris al <span class='hostname'/>. Se vi vizitas tiun ĉi retejon, atakantoj povus klopodi ŝteli informojn, kiel viajn pasvortojn, retpoŝtajn adresojn aŭ kreditkartojn.">
 
+<!ENTITY certerror.expiredCert.secondPara "Tiu problemo okazas tre verŝajne pro tio ke la horloĝo de via komputilo ne estas ĝusta, kio malpermesus al &brandShortName; sekure konektiĝi.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Kion vi povas fari pri tio?">
 
 
 
@@ -175,8 +177,10 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ne konektiĝis al <span id='wrongSystemTimeWithoutReference_URL'/>, ĉar la horloĝo en via komputilo ŝajne montras malĝustan horon, kaj tio malebligas sekuran konekton.</p><p>La dato en via komputilo estas nun <span id='wrongSystemTimeWithoutReference_systemDate'/>. Por solvi ĉi tiun problemon, ŝanĝu la daton kaj horon, tiel ke ili estos ĝustaj.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nesekura konekto">
+<!ENTITY certerror.pagetitle2  "Averto: Ebla sekureca risko antaŭ vi">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tiu ĉi retejo uzas HTTP
 Strict Transport Security (HSTS) por specifi ke &brandShortName; nur povas konekti ĝin sekure. Pro tio, ne eblas aldoni escepton por tiu ĉi atestilo.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> uzas sekurecan politikon, kiun oni nomas HTTP Strict Transport Security (HSTS), kiu devigas &brandShortName; konektiĝi sekure. Vi ne povas aldoni escepton por viziti tiun ĉi retejon.">
 <!ENTITY certerror.copyToClipboard.label "Kopii tekston al tondujo">
 
 <!ENTITY inadequateSecurityError.title "Via konekto ne estas sekura">
@@ -186,6 +190,8 @@ Strict Transport Security (HSTS) por specifi ke &brandShortName; nur povas konek
 
 <!ENTITY blockedByPolicy.title "Blokita paĝo">
 
+<!ENTITY clockSkewError.title "La horloĝo de via komputilo estas malĝusta">
+<!ENTITY clockSkewError.longDesc "Via komputilo malĝuste pensas ke nun estas <span id='wrongSystemTime_systemDate1'/>, kaj tio malpermesas al &brandShortName; konektiĝi sekure. Por viziti <span class='hostname'></span>, ĝustigu vian komputilan horloĝon je la nuna dato, horo, kaj horzono, kaj poste reŝargu <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Ŝajne viaj retaj sekurecaj agordoj povus esti la kaŭzo. Ĉu vi volas restarigi la normajn agordojn?">
 <!ENTITY prefReset.label "Restarigi normajn agordojn">
