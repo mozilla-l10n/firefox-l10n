@@ -6,3 +6,4 @@
 
 <!ENTITY restartRequired.header "क्षमस्व. चालू ठेवण्यासाठी आम्हाला एक छोटी गोष्ट करायची आहे.">
 
+<!ENTITY restartButton.label "&brandShortName; पुन्हा सुरू करा">
