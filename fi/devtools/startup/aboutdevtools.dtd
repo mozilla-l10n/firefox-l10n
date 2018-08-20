@@ -38,11 +38,6 @@
 <!ENTITY  aboutDevtools.enable.keyShortcutMessage
           "Käytit web-työkalun pikanäppäintä. Jos teit niin vahingossa, voit sulkea tämän välilehden.">
 
-<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
-  -  clicked on a "Enable Developer Tools" menu item. -->
-<!ENTITY  aboutDevtools.enable.menuMessage
-          "Voit tarkastella ja muokata HTML:ää, CSS:ää ja JavaScriptiä sekä jäljittää niiden virheitä työkaluilla, kuten Inspector ja Debugger.">
-
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
 <!ENTITY  aboutDevtools.enable.menuMessage2
@@ -59,8 +54,6 @@
 <!ENTITY  aboutDevtools.enable.learnMoreLink "Lue lisää web-työkaluista englanniksi">
 
 <!ENTITY  aboutDevtools.enable.enableButton "Ota englanninkieliset web-työkalut käyttöön">
-<!ENTITY  aboutDevtools.enable.closeButton "Sulje tämä sivu">
-
 <!ENTITY  aboutDevtools.enable.closeButton2 "Sulje tämä välilehti">
 
 <!ENTITY  aboutDevtools.welcome.title "Tervetuloa käyttämään Firefoxin web-työkaluja!">
@@ -71,7 +64,7 @@
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.message "Saa kehittäjille suunnattuja uutisia, vinkkejä ja resursseja sähköpostiisi englanniksi.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Sähköposti">
-<!ENTITY  aboutDevtools.newsletter.privacy.label "Minulle käy, että Mozilla käsittelee tietojani <a class='external' href='https://www.mozilla.org/privacy/'>tietosuojakäytännössä</a> kuvatulla tavalla.">
+<!ENTITY  aboutDevtools.newsletter.privacy.label "Minulle sopii, että Mozilla käsittelee tietojani <a class='external' href='https://www.mozilla.org/privacy/'>tietosuojaselosteen</a> mukaisesti.">
 <!ENTITY  aboutDevtools.newsletter.subscribeButton "Tilaa">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Kiitos!">
 <!ENTITY  aboutDevtools.newsletter.thanks.message "Voit joutua vahvistamaan tilauksen, jos et ole aiemmin vahvistanut Mozillaan liittyvän uutiskirjeen tilausta. Tarkista sähköpostisi ja roskapostisuodattimesi viestimme varalta.">
