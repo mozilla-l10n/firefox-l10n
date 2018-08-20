@@ -316,7 +316,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Spletni razvoj">
 <!ENTITY webDeveloperMenu.accesskey   "S">
 
+<!ENTITY devtoolsRecordExecution.label "Beleži izvajanje">
 <!ENTITY devtoolsSaveRecording.label "Shrani posnetek">
+<!ENTITY devtoolsReplayExecution.label "Ponovi izvajanje">
 
 <!ENTITY inspectContextMenu.label     "Preglej element">
 <!ENTITY inspectContextMenu.accesskey "j">
