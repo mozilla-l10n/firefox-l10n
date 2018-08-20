@@ -106,8 +106,19 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Kva kan du gjere med det?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Problemet er mest sannsynleg med nettstaden, og det er ingenting du kan gjere for å løyse det.</p>
+<p>Viss du er på eit bedriftsnettverk eller brukar antivirusprogramvare, kan du kontakte brukarstøtta for hjelp. Du kan også varsle administrator for nettstaden om problemet.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Klokka på datamaskina er sett til <span id='wrongSystemTime_systemDate2'/>. Kontroller at datamaskina er sett til rett dato, klokkeslett og tidssone i systeminnstillingane, og last deretter <span class='hostname'/> på nytt.</p>
+<p>Viss klokka di allereie er sett til rett tidspunkt, er nettstaden sannsynlegvis feilkonfigurert, og det er ingenting du kan gjere for å løyse problemet. Du kan varsle administrator for nettstaden om problemet.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Problemet er mest sannsynleg med nettstaden, og det er ingenting du kan gjere for å løyse det. Du kan varsle administrator for nettstaden om problemet.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>Nettstaden kan vere mellombels utilgjengeleg eller oppteken. Prøv på nytt om ei lita stund.</li> <li>Dersom ingen sider vert lasta, kontroller at nettverkstilkoplinga til datamaskina er i orden.</li> <li>Dersom datamaskina er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruke nettet.</li> </ul>">
 
@@ -140,6 +151,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle1  "Usikker tilkopling">
 <!ENTITY certerror.pagetitle2  "Åtvaring: Potensiell sikkerheitsrisiko forut">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Denne nettstaden brukar HTTP Strict Transport Security (HSTS) for å spesifisere at &brandShortName; berre skal kople til trygt. Derfor kan ein ikkje leggje til eit unntak for dette sertifikatet.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> har ein sikkerhetspolicy kalt HTTP Strict Transport Security (HSTS), som betyr at &brandShortName; berre kan kople til den sikkert. Du kan ikkje leggje til eit unntak for å besøkje denne nettstaden.">
 <!ENTITY certerror.copyToClipboard.label "Kopier tekst til utklippstavla">
 
 <!ENTITY inadequateSecurityError.title "Tilkoplinga di er ikkje trygg">
@@ -150,6 +162,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Blokkert side">
 
 <!ENTITY clockSkewError.title "Klokka på datamaskina di er feil">
+<!ENTITY clockSkewError.longDesc "Datamaskina di trur det er <span id='wrongSystemTime_systemDate1'/>, som hindrar &brandShortName; frå å kople til sikkert. For å besøke <span class='hostname'></span>, oppdater klokka til datamaskina i systeminnstillingane til gjeldende dato, klokkeslett og tidssone, og oppdater deretter <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Det ser ut til at sikkerheitsinnstillingane i nettverket kan vere årsak til dette. Vil du stille tilbake til standard innstillingar?">
 <!ENTITY prefReset.label "Still tilbake til standard innstillingar">
