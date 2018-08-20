@@ -142,8 +142,15 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Kion vi povas fari pri tio?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Tre verŝajne la problemon havas la retejo, kaj vi nenion povas fari por solvi ĝin.</p>
+<p>Se vi estas en entreprena reto, aŭ se vi uzas kontraŭvirusan programon, vi povas kontakti vian helpan teamon. Vi povas ankaŭ sciigi la administranton de la retejo pri la problemo.</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>La horloĝo de via komputilo raportas jene <span id='wrongSystemTime_systemDate2'/>. Certiĝu ĉu la sistemaj agordoj de via komputilo havas la ĝustan daton, horon kaj horzonon, kaj poste reŝargu <span class='hostname'/>.</p>
+<p>Se via horloĝo jam montras la ĝustan horon, verŝajne la retejo estas malbone agordita, kaj vi nenion povas fari por solvi tiun problemon. Vi povas tamen sciigi la administranton de la retejo pri ĝi.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Tre verŝajne la problemon havas la retejo, kaj vi nenion povas fari por solvi ĝin. Vi povas tamen sciigi la administranton de la retejo pri ĝi.</p>">
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>La retejo povas esti tempe ne atingebla aŭ troe okupata. Klopodu denove post kelkaj momentoj.</li> <li>Se vi ne sukcesas ŝargi iun ajn paĝon, kontrolu la komputilan retan konekton.</li> 
