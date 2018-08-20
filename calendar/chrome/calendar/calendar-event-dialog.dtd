@@ -417,6 +417,7 @@
 <!ENTITY summary.dialog.saveclose.label         "Shrani in zapri">
 <!ENTITY summary.dialog.accept.label            "Sprejmi">
 <!ENTITY summary.dialog.accept.tooltiptext      "Sprejmi povabilo">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Pogojno sprejmi povabilo">
 <!ENTITY summary.dialog.decline.label           "Zavrni">
 <!ENTITY summary.dialog.decline.tooltiptext     "Zavrni povabilo">
 <!ENTITY summary.dialog.dontsend.label          "Ne pošlji odziva">
