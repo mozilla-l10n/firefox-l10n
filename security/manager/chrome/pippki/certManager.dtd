@@ -7,7 +7,7 @@
 <!ENTITY certmgr.tab.mine                     "మీ ధృవీకరణపత్రాలు">
 <!ENTITY certmgr.tab.others2                  "ప్రజలు">
 <!ENTITY certmgr.tab.websites3                "సేవికలు">
-<!ENTITY certmgr.tab.ca                       "అధారిటీలు">
+<!ENTITY certmgr.tab.ca                       "అథారిటీలు">
 
 
 <!ENTITY certmgr.detail.general_tab.title     "సాధారణం">
@@ -74,7 +74,7 @@
 <!ENTITY exceptionMgr.title                   "భద్రతా మినహాయింపు చేర్పు">
 <!ENTITY exceptionMgr.exceptionButton.label   "రక్షణ ఆక్షేపణను ఖాయపరచు">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
-<!ENTITY exceptionMgr.supplementalWarning     "చట్టబద్దమైన బ్యాంకులు, దుకాణాలు, మరియు ఇతర పబ్లిక్ సైటులు ఇదిచేయమని మిమ్ములను అడగవు.">
+<!ENTITY exceptionMgr.supplementalWarning     "చట్టబద్దమైన బ్యాంకులు, దుకాణాలు, ఇతర బహిరంగ సైటులు ఇలా చేయమని మిమ్మల్ని అడగవు.">
 <!ENTITY exceptionMgr.certlocation.caption2   "సేవిక">
 <!ENTITY exceptionMgr.certlocation.url        "స్థానము:">
 <!ENTITY exceptionMgr.certlocation.download   "ధృవీకరణపత్రాన్ని తెచ్చుకో">
