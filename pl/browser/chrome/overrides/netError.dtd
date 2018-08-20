@@ -11,6 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Wróć do poprzedniej strony (zalecane)">
 <!ENTITY advanced.label "Zaawansowane">
 <!ENTITY continue.label "Kontynuuj">
+<!ENTITY continue1.label "Kontynuuj…">
 
 <!ENTITY connectionFailure.title "Nie udało się nawiązać połączenia">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
