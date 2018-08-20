@@ -19,12 +19,12 @@
 <!ENTITY stats.activityEnded "ముగించెను">
 <!ENTITY stats.activitySeeking "(తెస్తోంది)">
 <!ENTITY stats.volume "ధ్వని">
-<!ENTITY stats.framesParsed "పార్స్ అయిన ఫ్రేములు">
+<!ENTITY stats.framesParsed "పార్సయిన ఫ్రేములు">
 <!ENTITY stats.framesDecoded "డికోడ్ అయిన ఫ్రేములు">
 <!ENTITY stats.framesPresented "సమర్పించిన ఫ్రేములు">
 <!ENTITY stats.framesPainted "పెయింటైన ఫ్రేములు">
 
-<!ENTITY error.aborted "వీడియో లోడవుట ఆపబడెను.">
+<!ENTITY error.aborted "వీడియో లోడవడం ఆగిపోయింది.">
 <!ENTITY error.network "నెట్వర్కు దోషం కారణంగా వీడియో ప్లేబాక్ విరమించబడెను.">
 <!ENTITY error.decode "ఫైలు పాడైన కారణంగా వీడియో ప్లే కాబడలేదు.">
 <!ENTITY error.srcNotSupported "వీడియో ఫార్మాట్ లేదా MIME రకముకు తోడ్పాటు లేదు.">

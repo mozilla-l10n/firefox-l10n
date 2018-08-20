@@ -18,7 +18,7 @@
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "ధృవీకరణపత్రాన్ని దింపుకుంటోంది">
 <!ENTITY downloadCert.message1 "కొత్త ధృవీకరణపత్ర అధారిటీ (CA)ని నమ్మమని మీరు అడగబడుతున్నారు.">
-<!ENTITY downloadCert.trustSSL "వెబ్ సైటులను గుర్తించుటకు CAను నమ్మండి.">
+<!ENTITY downloadCert.trustSSL "వెబ్ సైట్లను గుర్తించడానికి ఈ CAను విశ్వసించు.">
 <!ENTITY downloadCert.trustEmail "ఇమెయిల్ వాడుకరులను గుర్తించుటకు CAను నమ్మండి.">
 <!ENTITY downloadCert.message3 "ఏదైనా ప్రయోజనం కొరకు CAను నమ్ముటకు మునుపు , (వీలైతే) మీరు ధృవీకరణపత్రం మరియు దాని విధానాన్ని మరియు పద్దతులను పరీక్షించుట మంచిది.">
 <!ENTITY downloadCert.viewCert.label "చూడండి">
