@@ -113,8 +113,10 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Собственикът на <span class='hostname'/> е настроил страницата неправилно. За да ви защити от кражба на информация, &brandShortName; отказа връзката с тази страница.">
 
+<!ENTITY certerror.introPara1 "&brandShortName; забеляза възможна заплаха за сигурността и не продължи към <span class='hostname'/>. Ако посетите страницата атакуващ може да опита да открадне от вас информация като пароли, електронни писма или банкови карти.">
 
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Какво да направите в тази ситуация?">
 
 
 
@@ -154,6 +156,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle1  "Незащитена връзка">
 <!ENTITY certerror.pagetitle2  "Внимание: Вероятен риск за сигурността">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Сайтът използва HTTP Strict Transport Security (HSTS), за да укаже на &brandShortName; да се свързва само по сигурен начин. В резултат на това не може да се добави изключение за този сертификат.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'/> използва политика за сигурност наречена HTTP Strict Transport Security (HSTS), което означава. че &brandShortName; може да използва само сигурни връзки. Не може да добавяте изключение при посещение на тази страница.">
 <!ENTITY certerror.copyToClipboard.label "Копиране на текста в системния буфер">
 
 <!ENTITY inadequateSecurityError.title "Връзката е незащитена">
