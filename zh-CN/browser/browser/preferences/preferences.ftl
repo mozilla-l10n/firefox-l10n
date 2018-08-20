@@ -579,7 +579,7 @@ sitedata-total-size-calculating = 正在计算网站数据和缓存的大小…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = 您已存储的 Cookie、网站数据和缓存目前使用 { $value } { $unit } 磁盘空间。
+sitedata-total-size = 您已存储的 Cookie、网站数据和缓存目前使用了 { $value } { $unit } 磁盘空间。
 sitedata-learn-more = 详细了解
 sitedata-accept-cookies-option =
     .label = 接受来自网站的 Cookie 和网站数据（推荐）
