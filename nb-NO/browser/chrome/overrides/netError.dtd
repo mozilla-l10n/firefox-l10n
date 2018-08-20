@@ -154,6 +154,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle1  "Usikker tilkobling">
 <!ENTITY certerror.pagetitle2  "Advarsel: Potensiell sikkerhetsrisiko forut">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dette nettstedet bruker HTTP Strict Transport Security (HSTS) for å spesifisere at &brandShortName; bare kan koble til det sikkert. Derfor kan en ikke legge til et unntak for dette sertifikatet.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> har en sikkerhetspolicy kalt HTTP Strict Transport Security (HSTS), som betyr at &brandShortName; bare kan koble til den sikkert. Du kan ikke legge til et unntak for å besøke dette nettstedet.">
 <!ENTITY certerror.copyToClipboard.label "Kopier tekst til utklippstavlen">
 
 <!ENTITY inadequateSecurityError.title "Tilkoblingen din er ikke sikker">
@@ -164,6 +165,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Blokkert side">
 
 <!ENTITY clockSkewError.title "Klokken på datamaskinen din er feil">
+<!ENTITY clockSkewError.longDesc "Datamaskinen din tror det er <span id='wrongSystemTime_systemDate1'/>, som hindrer &brandShortName; fra å koble til sikkert. For å besøke <span class='hostname'></span>, oppdater datamaskinens klokke i systeminnstillingene til gjeldende dato, klokkeslett og tidssone, og oppdater deretter <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Det ser ut til at nettverkets sikkerhetsinnstillinger kan være årsak til dette. Vil du tilbakestille til standardinnstillinger?">
 <!ENTITY prefReset.label "Gjenopprett standardinnstillinger">
