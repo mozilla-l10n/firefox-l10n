@@ -945,6 +945,38 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Защита от проследяване: изключена">
 <!ENTITY trackingProtection.off "Защита от проследяване: изключена">
+
+<!ENTITY contentBlocking.title "Спиране на съдържание">
+<!ENTITY contentBlocking.disabled.label "Изключено">
+<!ENTITY contentBlocking.disabled.tooltip "Изключили сте спирането на съдържание.">
+<!ENTITY contentBlocking.exception.tooltip "Изключили сте спирането на съдържание за тази страница.">
+
+<!ENTITY contentBlocking.fastBlock.label "Бавни проследяващи елементи">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Спрени">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Спиране…">
+
+<!ENTITY contentBlocking.trackingProtection.label "Проследявания">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Спрени">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Спиране…">
+
 <!ENTITY trackingProtection.title "Защита от проследяване">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; изключва елементи от страницата, които е възможно да следят поведението ви онлайн.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Този сайт включва елементи, които биха могли да проследяват вашето браузване. Защитата от проследяване е изключена.">
@@ -970,6 +1002,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "На страницата не са открити проследяващи елементи. Защитата е изключена на тази страница.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Включихте защитата от проследяване. Презаредете страницата, за да бъдат спрени проследяващите елементи.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
