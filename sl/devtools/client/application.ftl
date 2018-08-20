@@ -49,6 +49,15 @@ serviceworker-worker-status-registering = V postopku registracije
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro = Za pregledovanje Service Workerja ga morate registrirati. <a>Več o tem</a>
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+serviceworker-empty-suggestions = Če bi trenutna stran morala imeti Service Worker, lahko poskusite naslednje
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
-serviceworker-empty-suggestions-console = Poišči napake v konzoli. <a>Odpri konzolo</a>
+serviceworker-empty-suggestions-console = Poiščite napake v konzoli. <a>Odpri konzolo</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Prestopite registracijo Service Workerja in poiščite izjeme. <a>Odpri razhroščevalnik</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = Preglejte Service Workerje iz ostalih domen. <a>Odpri about:debugging</a>
