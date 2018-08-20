@@ -947,8 +947,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.off "Seurannan suojaus: POIS PÄÄLTÄ">
 
 <!ENTITY contentBlocking.title "Sisällön esto">
-<!ENTITY contentBlocking.detected "Havaittiin estettävää sisältöä tällä sivustolla.">
-<!ENTITY contentBlocking.notDetected "Ei havaittu estettävää sisältöä tällä sivustolla.">
+<!ENTITY contentBlocking.detected "Estettävää sisältöä havaittiin tällä sivustolla.">
+<!ENTITY contentBlocking.notDetected "Estettävää sisältöä ei havaittu tällä sivustolla.">
 <!ENTITY contentBlocking.disabled.label "Ei käytössä">
 <!ENTITY contentBlocking.disabled.tooltip "Olet poistanut sisällön eston käytöstä.">
 <!ENTITY contentBlocking.exception.tooltip "Olet poistanut sisällön estön käytöstä tältä sivustolta.">
