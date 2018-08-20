@@ -316,6 +316,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Teksaĵa programisto">
 <!ENTITY webDeveloperMenu.accesskey   "P">
 
+<!ENTITY devtoolsRecordExecution.label "Registri plenumon">
+<!ENTITY devtoolsSaveRecording.label "Konservi registron">
+<!ENTITY devtoolsReplayExecution.label "Ripeti plenumon">
 
 <!ENTITY inspectContextMenu.label     "Inspekti elementon">
 <!ENTITY inspectContextMenu.accesskey "n">
@@ -942,6 +945,34 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Kontraŭspura protekto: ŜALTITA">
 <!ENTITY trackingProtection.off "Kontraŭspura protekto: MALŜALTITA">
+
+<!ENTITY contentBlocking.title "Blokado de enhavo">
+<!ENTITY contentBlocking.detected "Blokebla enhavo trovita en tiu ĉi retejo.">
+<!ENTITY contentBlocking.notDetected "Neniu blokebla enhavo estis trovita en tiu ĉi paĝo.">
+<!ENTITY contentBlocking.disabled.label "Malaktiva">
+<!ENTITY contentBlocking.disabled.tooltip "Vi malaktvigis la blokadon de enhavo.">
+<!ENTITY contentBlocking.exception.tooltip "Vi malaktvigis la blokadon de enhavo por tiu ĉi retejo.">
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!ENTITY trackingProtection.title "Protekto kontraŭ spurado">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokas partojn de la paĝo kiuj povus spuri vian retumon.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tiu ĉi retejo enhavas elementojn kiuj povus spuri vian retumon. Vi malaktivigis la protekton.">
@@ -967,6 +998,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Neniu spura elemento eltrovita en tiu ĉi paĝo. Vi malaktivigis protekton por tiu ĉi retejo.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Vi aktivigis protekton kontraŭ spurado. Reŝargu tiun ĉi paĝon por bloki ĉiujn spurilojn.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
