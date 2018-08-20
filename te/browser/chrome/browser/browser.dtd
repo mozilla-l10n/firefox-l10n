@@ -1116,7 +1116,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "ప్రాప్యత లక్షణాలు చేతనమైవున్నాయి">
 
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "పొడిగింతల నిర్వహణకై <image class='addon-toolbar-icon'/> మెనూ లోని <image class='addon-addon-icon'/> మీద నొక్కండి.">

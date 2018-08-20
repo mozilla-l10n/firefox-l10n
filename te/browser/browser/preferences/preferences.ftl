@@ -612,6 +612,10 @@ content-blocking-learn-more = ఇంకా తెలుసుకోండి
 content-blocking-restore-defaults =
     .label = అప్రమేయాలను పునరుద్ధరించు
     .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = విషయ నిరోధాన్ని ఆఫ్ చెయ్యండి
+content-blocking-toggle-off =
+    .tooltiptext = విషయ నిరోధాన్ని ఆన్ చెయ్యండి
 content-blocking-toggle-label-on = ఆన్
     .accesskey = O
 content-blocking-toggle-label-off = ఆఫ్
@@ -629,12 +633,14 @@ content-blocking-fastblock-option-disabled =
     .label = ఎప్పుడూ నిరోధించవద్దు
 content-blocking-tracking-protection-label = ట్రాకర్లు
     .accesskey = T
+content-blocking-tracking-protection-description = తెలిసిన ట్రాకర్లన్నిటినీ నిరోధిస్తుంది (గమనిక: కొన్ని పేజీలను తెరుచుకోకుండా చేయవచ్చు).
 content-blocking-tracking-protection-option-enabled =
     .label = ఎల్లప్పుడూ నిరోధించు
 content-blocking-tracking-protection-option-pbm =
     .label = అంతరంగిక కిటికీల్లో మాత్రమే నిరోధించు
 content-blocking-tracking-protection-option-disabled =
     .label = ఎప్పుడూ నిరోధించవద్దు
+content-blocking-tracking-protection-change-blocklist = నిరోధపు జాబితాను మార్చండి…
 
 ## Privacy Section - Tracking
 
