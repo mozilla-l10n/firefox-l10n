@@ -161,13 +161,17 @@ was trying to connect. -->
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Mitä voit tehdä?">
 
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
-<p>Ongelma johtuu todennäköisesti sivustosta, etkä voi tehdä mitään sen ratkaisemiseksi.</p>
+<p>Ongelma johtuu todennäköisesti sivustosta, etkä voi korjata sitä itse.</p>
 <p>Jos olet yritysverkossa tai käytät virustorjuntaohjelmaa, voit ottaa yhteyttä tukeen. Voit myös ilmoittaa ongelmasta sivuston ylläpitäjälle.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Tietokoneesi mukaan kello on nyt <span id='wrongSystemTime_systemDate2'/>. Tarkista asetuksista, että tietokoneesi päivämäärä, kellonaika ja aikavyöhyke ovat oikeat, ja lataa sitten <span class='hostname'/> uudestaan.</p>
+<p>Jos kello on jo oikeassa ajassa,  vika on luultavasti sivustossa etkä voi korjata ongelmaa itse. Voit ilmoittaa ongelmasta sivuston ylläpitäjälle.</p>
+">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
-<p>Ongelma johtuu todennäköisesti sivustosta, etkä voi tehdä mitään sen ratkaisemiseksi. Voit ilmoittaa ongelmasta sivuston ylläpitäjälle.</p>
+<p>Ongelma johtuu todennäköisesti sivustosta, etkä voi korjata sitä itse. Voit ilmoittaa ongelmasta sivuston ylläpitäjälle.</p>
 ">
 
 <!ENTITY sharedLongDesc "
@@ -223,6 +227,8 @@ tälle varmenteelle ei voi luoda poikkeusta.">
 
 <!ENTITY blockedByPolicy.title "Estetty sivu">
 
+<!ENTITY clockSkewError.title "Tietokoneen kello on väärässä ajassa">
+<!ENTITY clockSkewError.longDesc "Tietokoneesi mukaan kello on nyt <span id='wrongSystemTime_systemDate1'/>, minkä takia &brandShortName; ei voi muodostaa suojattua yhteyttä. Jotta voit siirtyä sivustolle <span class='hostname'></span>, avaa järjestelmäasetukset ja päivitä sieltä tietokoneen kello nykyiseen päivään, aikaan ja aikavyöhykkeeseen. Lopuksi lataa <span class='hostname'> uudestaan</span>.">
 
 <!ENTITY prefReset.longDesc "Vaikuttaa siltä, että verkon turvallisuusasetukset aiheuttavat tämän. Haluatko palauttaa oletusasetukset?">
 <!ENTITY prefReset.label "Palauta oletusasetukset">
