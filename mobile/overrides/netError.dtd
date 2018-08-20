@@ -28,7 +28,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Çerca</button>
     </div>
-  <li>Se ti no riesci a navegâ in nisciunn-a pagina, contròlla i dæti do teu dispoxitivo ò a conescion Wi-Fi.
+  <li>Se ti no riesci a navegâ in nisciunn-a pagina, contròlla a conescion dæti do teu dispoxitivo ò a conescion Wi-Fi.
     <button id='wifi'>Abilita Wi-Fi</button>
   </li>
 </ul>
