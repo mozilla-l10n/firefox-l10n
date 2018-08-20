@@ -922,6 +922,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Audio din filă va fi partajat.">
 <!ENTITY getUserMedia.allWindowsShared.message "Toate ferestrele vizibile pe ecran vor fi partajate.">
 
+
+<!ENTITY contentBlocking.title "Blocare de conținut">
+<!ENTITY contentBlocking.detected "Conținut blocabil detectat pe acest site.">
+<!ENTITY contentBlocking.notDetected "Niciun conținut blocabil detectat pe această pagină.">
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!ENTITY trackingProtection.title "Protecție față de urmărire">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blochează părți ale paginii care ți-ar putea urmări navigarea.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Acest site include elemente care ți-ar putea urmări navigarea. Ai dezactivat protecția.">
@@ -938,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Activează protecția">
 <!ENTITY trackingProtection.block2.accesskey "E">
+
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
