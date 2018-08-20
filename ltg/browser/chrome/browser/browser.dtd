@@ -947,26 +947,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.off "Aizsardzeiba pret izsekōšonu: Izslāgta">
 
 <!ENTITY contentBlocking.title "Satura bloķiešona">
+<!ENTITY contentBlocking.detected "Itymā lopā ir bloķejams saturs.">
+<!ENTITY contentBlocking.notDetected "Itymā lopā nav bloķejama satura.">
+<!ENTITY contentBlocking.disabled.label "Atslāgts">
+<!ENTITY contentBlocking.disabled.tooltip "Tu atsliedzi satura bloķiešonu.">
+<!ENTITY contentBlocking.exception.tooltip "Tu atsliedzi satura bloķiešonu itymā lopā.">
 
+<!ENTITY contentBlocking.fastBlock.label "Lieņi īlōdejami pāddziņi">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Bloķeits">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Davīnōt bloķiešonu…">
 
+<!ENTITY contentBlocking.trackingProtection.label "Pāddziņi">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Bloķieti">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Davīnōt bloķiešonu…">
 
 <!ENTITY trackingProtection.title "Izsekuošonys aizsardzeiba">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; is blocking parts of the page that may track your browsing.">
@@ -985,14 +996,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Aktivēt aizsardzeibu">
 <!ENTITY trackingProtection.block2.accesskey "b">
 
+<!ENTITY trackingProtection.tooltip "Atdarēt aizsardzeibas pret izsekōšonu īsatatejumus">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; bloķej tōs lopys daļas, kas var izsekōt tovas porlyukōšonas aktivitates.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; atroda, ka itymā lopā ir elementi, kas var izsekōt tovas porlyukōšonas aktivitates.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; atroda, ka itymā lopā ir elementi, kasvar izsekōt tovas porlyukōšonas aktivitates. Tu esi atsliedzs aizsardzeibu itymai lopai.">
+<!ENTITY trackingProtection.notDetected5 "Itymā lopā nav izsekōšonys elementu.">
+<!ENTITY trackingProtection.notDetectedException "Itymā lopā nav izsekōšonys elementu. Tu esi atsliedzs aizsardzeibu itymai lopai.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Tu esi atsliedzs aizsardzeibu pret izsekōšonu. Īlōdej lopu nu jauna, kab bloķietu vysus pāddziņus.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Atslēgt itai lopai">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Atslēgt bloķiešonu itai lopai">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Atslēgt itai sesejai">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Īslēgt itai lopai">
+<!ENTITY trackingProtection.block4.accesskey "Ī">
+<!ENTITY trackingProtection.unblockPrivate4.label "Atlēgt bloķiešonu uz strāčeiti">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "A">
+<!ENTITY trackingProtection.block5.label "Īslēgt bloķiešonu itai lopai">
+<!ENTITY trackingProtection.block5.accesskey "Ī">
+<!ENTITY trackingProtection.reload2.label "Pōrlōdeit lopu">
+<!ENTITY trackingProtection.reload2.accesskey "P">
 
 <!ENTITY pluginNotification.showAll.label "Ruodeit vysus">
 <!ENTITY pluginNotification.showAll.accesskey "s">
@@ -1078,6 +1110,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Atslēgt paplašinojumu">
 <!ENTITY homepageControlled.disableButton.accesskey "A">
 
+<!ENTITY tabHideControlled.header.message "Datikt pi paslāptōm cilnem">
+<!ENTITY tabHideControlled.keepButton.label "Atstōt cilnes paslāptas">
+<!ENTITY tabHideControlled.keepButton.accesskey "A">
+<!ENTITY tabHideControlled.disableButton.label "Atslēgt paplašinojumu">
+<!ENTITY tabHideControlled.disableButton.accesskey "A">
 
 <!ENTITY pageActionButton.tooltip "Lopys darbeibys">
 <!ENTITY pageAction.addToUrlbar.label "Davīnōt adreses laukam">
@@ -1091,6 +1128,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.shareUrl.label "Daleitīs">
 
+<!ENTITY pageAction.shareMore.label "Vaira…">
 
 <!ENTITY libraryButton.tooltip "Skateitīs viesturi, saglobōtōs grōmotzeimes i daudz kū cytu">
 
