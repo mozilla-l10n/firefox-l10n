@@ -201,6 +201,9 @@ choose-language-description = Избор на език при показване
 choose-button =
     .label = Избиране…
     .accesskey = И
+choose-browser-language-description = Изберете езиците, на които да бъдат показвани менютата, съобщенията и известията от { -brand-short-name }.
+confirm-browser-language-change-description = Рестартирайте { -brand-short-name }, за да бъдат приложени промените
+confirm-browser-language-change-button = Прилагане и рестартиране
 translate-web-pages =
     .label = Превеждане на съдържанието на страниците
     .accesskey = П
@@ -626,6 +629,32 @@ addressbar-locbar-openpage-option =
     .accesskey = р
 addressbar-suggestions-settings = Настройки на предложенията от търсещите машини
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Спиране на съдържание
+content-blocking-desc = Възпиране на съдържание от трети страни като реклами или друг код, който би могъл да забави разглеждането или да ви проследява из Мрежата. Изберете настройките, които да са най-добрия баланс между защита и производителност.
+content-blocking-learn-more = Научете повече
+content-blocking-restore-defaults =
+    .label = Стандартни настройки
+    .accesskey = д
+content-blocking-toggle-label-on = ВКЛ
+    .accesskey = в
+content-blocking-toggle-label-off = ИЗКЛ
+    .accesskey = и
+content-blocking-category-label = Изберете какво да бъде спирано
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Бавни проследяващи елементи
+    .accesskey = б
+content-blocking-fastblock-description = Спиране на съдържание от трети страни, което зарежда повече от 5 секунди.
+content-blocking-fastblock-option-enabled =
+    .label = Винаги да бъде спирано
+content-blocking-fastblock-option-disabled =
+    .label = Никога да не бъде спирано
+content-blocking-tracking-protection-label = Проследяващи елементи
+    .accesskey = п
+
 ## Privacy Section - Tracking
 
 tracking-header = Защита от проследяване
@@ -674,9 +703,19 @@ permissions-notification-link = Научете повече
 permissions-notification-pause =
     .label = Спиране на известията до рестарт на { -brand-short-name }
     .accesskey = з
+permissions-block-autoplay-media =
+    .label = Забраняване на страниците автоматично да възпроизвеждат медия със звук
+    .accesskey = я
+permissions-block-autoplay-media-menu = За страниците, автоматично изпълняващи звук
 permissions-block-autoplay-media-exceptions =
     .label = Изключения…
     .accesskey = ю
+autoplay-option-ask =
+    .label = Винаги да пита
+autoplay-option-allow =
+    .label = Автоматично изпълняване
+autoplay-option-dont =
+    .label = Забрана на автоматичното изпълняване
 permissions-block-popups =
     .label = Спиране на изскачащите прозорци
     .accesskey = С
