@@ -28,7 +28,7 @@
 
 <!ENTITY  downloadPage.title              "&brandShortName; దింపుకుంటోంది">
 <!ENTITY  downloading.intro               "తాజాకరణను దింపుకుంటోంది…">
-<!ENTITY  connecting.label                "నవీకరణ సేవికకు అనుసంధానించబడుతోంది...">
+<!ENTITY  connecting.label                "తాజాకరణ సర్వరుకు అనుసంధానమవుతోంది…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; అది డౌనులోడు  చేసిన  పురోగమన నవీకరణ యొక్క ఐక్యతను  నిర్దారించలేకపోతోంది,అందుకని అది యిప్పుడు  పూర్తి  నవీకరణ ప్యాకేజ్‌ను డౌనులోడుచేస్తోంది.">
 
 <!ENTITY  viewDetails.tooltip             "ఈ తాజాకరణ వివరాలు చూడండి">

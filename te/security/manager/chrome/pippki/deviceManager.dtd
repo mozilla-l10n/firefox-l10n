@@ -24,7 +24,7 @@
 <!ENTITY devmgr.button.unload.accesskey         "U">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 
-<!ENTITY loaddevice.info                        "మీరు కలపాలనుకొంటున్న మాడ్యూల్ సమాచారాన్ని ప్రవేశపెట్టండి.">
+<!ENTITY loaddevice.info                        "మీరు చేర్చాలనుకుంటున్న మాడ్యూలు కొరకు సమాచారాన్ని ఇవ్వండి.">
 <!ENTITY loaddevice.modname2                    "మాడ్యూల్ పేరు">
 <!ENTITY loaddevice.modname2.accesskey          "M">
 <!ENTITY loaddevice.modname.default             "కొత్త PKCS#11 మాడ్యూల్">
@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "అన్వేషించు...">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
+<!ENTITY loaddevice.title2                      "PKCS#11 పరికర డ్రైవరువు లోడుచెయ్యండి">
