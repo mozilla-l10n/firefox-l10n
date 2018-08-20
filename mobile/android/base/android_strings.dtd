@@ -452,6 +452,7 @@
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; 위치 기반 서비스 작동중">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -897,5 +898,12 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 
 <!-- Used by accessibility services to identify the play/pause buttons shown in the
 Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "재생">
+<!ENTITY pip_play_button_description "계속 재생">
+<!ENTITY pip_pause_button_title "일시 중지">
+<!ENTITY pip_pause_button_description "재생 일시 중지">
 
 <!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; 위치 기반 서비스">
+<!ENTITY download_notification_channel "다운로드">
