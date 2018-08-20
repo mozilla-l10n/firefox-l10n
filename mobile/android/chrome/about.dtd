@@ -1,11 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY aboutPage.title                        "O programe &brandShortName;">
+<!ENTITY aboutPage.title                        "O aplikácii &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "Zostavenie &brandShortName; je experimentálne a môže byť nestabilné.">
-<!ENTITY aboutPage.telemetryStart               " Zároveň spoločnosti ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " automaticky odosiela údaje o výkonnosti, hardvérovej konfigurácii, využívaní funkcií a nastavení prehliadača s cieľom vylepšiť budúce verzie prehliadača &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Vyhľadať aktualizácie »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Vyhľadávajú sa aktualizácie…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nie sú dostupné žiadne aktualizácie">

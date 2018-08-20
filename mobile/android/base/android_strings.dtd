@@ -194,7 +194,7 @@
 <!ENTITY pref_category_privacy_short "Súkromie">
 <!ENTITY pref_category_privacy_summary4 "Sledovanie, prihlasovacie údaje, údaje o používaní">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "O prehliadači &brandShortName;, často kladené otázky, spätná väzba">
+<!ENTITY pref_category_vendor_summary2 "O aplikácii &brandShortName;, často kladené otázky, spätná väzba">
 <!ENTITY pref_category_datareporting "Odosielanie údajov">
 <!ENTITY pref_category_logins "Prihlasovacie údaje">
 <!ENTITY pref_learn_more "Ďalšie informácie">
