@@ -947,26 +947,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.off "Ochrana pred sledovaním je vypnutá">
 
 <!ENTITY contentBlocking.title "Blokovanie obsahu">
+<!ENTITY contentBlocking.detected "Na tejto stránke bol nájdený blokovateľný obsah.">
+<!ENTITY contentBlocking.notDetected "Na tejto stránke nebol nájdený blokovateľný obsah.">
+<!ENTITY contentBlocking.disabled.label "Vypnuté">
+<!ENTITY contentBlocking.disabled.tooltip "Blokovanie obsahu je vypnuté.">
+<!ENTITY contentBlocking.exception.tooltip "Na tejto stránke ste vypli blokovanie obsahu.">
 
+<!ENTITY contentBlocking.fastBlock.label "Pomalé sledovacie prvky">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Blokované">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Blokovať…">
 
+<!ENTITY contentBlocking.trackingProtection.label "Sledovacie prvky">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Blokované">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Blokovať…">
 
 <!ENTITY trackingProtection.title "Ochrana pred sledovaním">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje časti stránky, ktoré môžu sledovať vaše prehliadanie.">
@@ -987,16 +998,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.tooltip "Otvorí nastavenia ochrany pred sledovaním">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokuje časti stránky, ktoré môžu sledovať vaše prehliadanie.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "Aplikácia &brandShortName; objavila prvky, ktoré môžu sledovať vaše prehliadanie.">
+<!ENTITY trackingProtection.detectedException "Aplikácia &brandShortName; objavila prvky, ktoré môžu sledovať vaše prehliadanie. Ochranu pred sledovaním ste pre túto stránku ale vypli.">
 <!ENTITY trackingProtection.notDetected5 "Na tejto stránke neboli zistené žiadne sledovacie prvky.">
 <!ENTITY trackingProtection.notDetectedException "Na tejto stránke neboli zistené žiadne sledovacie prvky. Ochranu pred sledovaním ste na tejto stránke vypli.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Ochrana pred sledovaním bola zapnutá. Pre zablokovanie všetkých sledovacích prvkov obnovte túto stránku.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Vypnúť pre túto stránku">
+<!ENTITY trackingProtection.unblock3.accesskey "V">
+<!ENTITY trackingProtection.unblock4.label "Vypnúť blokovanie pre túto stránku">
+<!ENTITY trackingProtection.unblock4.accesskey "V">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Vypnúť pre túto reláciu">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "V">
+<!ENTITY trackingProtection.block4.label "Zapnúť pre túto stránku">
+<!ENTITY trackingProtection.block4.accesskey "Z">
+<!ENTITY trackingProtection.unblockPrivate4.label "Dočasne vypnúť blokovanie">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Zapnúť blokovanie pre túto stránku">
+<!ENTITY trackingProtection.block5.accesskey "Z">
 <!ENTITY trackingProtection.reload2.label "Obnoviť stránku">
 <!ENTITY trackingProtection.reload2.accesskey "b">
 

@@ -152,12 +152,25 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Vlastník stránky <span class='hostname'/> nakonfiguroval svoju stránku nesprávne.  Kvôli ochrane vašich údajov pred odcudzením blokuje &brandShortName; pripojenie k tejto webovej stránke.">
 
+<!ENTITY certerror.introPara1 "Aplikácia &brandShortName; rozpoznala možné bezpečnostné riziko a stránku <span class='hostname'/> nenačítala. Ak budete na danú stránku pokračovať, útočníci sa môžu pokúsiť získať vaše informácie, napríklad heslá, e-mailové adresy alebo číslo platobnej karty.">
 
+<!ENTITY certerror.expiredCert.secondPara "Tento problém je pravdepodobne spôsobený chybným nastavením času na vašom počítači, ktoré bráni aplikácii &brandShortName; v nadviazaní zabezpečeného spojenia.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Čo s tým môžete urobiť?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Tento problém je pravdepodobne na strane webovej stránky a vy ho, bohužiaľ, nedokážete vyriešiť.</p>
+<p>Ak ste pripojení do firemnej siete alebo používate antivírusový program, kontaktujte podporu svojej firmy, respektíve antivírusového programu. O probléme môžete taktiež informovať správcu webovej stránky.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Dátum a čas vo vašom počítači sú nastavené na <span id='wrongSystemTime_systemDate2'/>. Skontrolujte, prosím, nastavenia dátumu, času a časovej zóny v nastaveniach svojho systému a potom obnovte stránku <span class='hostname'/>.</p>
+<p>Ak máte čas nastavený správne, pravdepodobne je webová stránka zle nastavená a vy tento problém nedokážete vyriešiť. O probléme môžete informovať správcu webovej stránky.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Tento problém je pravdepodobne na strane webovej stránky a vy ho, bohužiaľ, nedokážete vyriešiť. O probléme môžete informovať správcu webovej stránky.</p>
+">
 
 <!ENTITY sharedLongDesc "
 <ul>
