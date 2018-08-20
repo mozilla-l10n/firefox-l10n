@@ -8,7 +8,11 @@
 <!ENTITY loadError.label "Problemă la încărcarea paginii">
 <!ENTITY retry.label "Încearcă din nou">
 <!ENTITY returnToPreviousPage.label "Întoarce-te">
+<!ENTITY returnToPreviousPage1.label "Întoarce-te (Recomandat)">
 <!ENTITY advanced.label "Avansat">
+
+<!ENTITY continue1.label "Continuă…">
+<!ENTITY moreInformation.label "Mai multe informații">
 
 <!-- Specific error messages -->
 
@@ -93,10 +97,18 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Pagina pe care încerci să o vezi nu poate fi afișată deoarece nu s-a putut verifica autenticitatea datelor primite.</li> <li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Conexiunea nu este securizată">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Avertisment: Urmează un risc potențial de securitate">
+<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Proprietarul <span class='hostname'/> și-a configurat site-ul web necorespunzător.  Pentru a proteja informațiile împotriva furtului, &brandShortName; nu s-a conectat la acest site web.">
+
+<!ENTITY certerror.introPara1 "&brandShortName; a detectat o potențială amenințare de securitate și nu a continuat navigarea la <span class='hostname'/>. Atacatorii ar putea încerca să fure informații precum parolele, e-mailurile sau cardurile de credit dacă vizitezi acest site.">
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>Site-ul ar putea fi indisponibil temporar sau prea ocupat. Încearcă din nou în câteva momente.</li> <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea la rețea a calculatorului.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
 
@@ -127,7 +139,9 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; nu s-a conectat la <span id='wrongSystemTimeWithoutReference_URL'/> deoarece ceasul calculatorului tău pare că arată ora greșită, iar aceasta previne o conexiune securizată.</p> <p>Ceasul calculatorului tău arată ora <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pentru a rezolva această problemă ar trebui să schimbi data și ora de sistem pentru a se potrivi cu cele corecte.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conexiune nesigură">
+<!ENTITY certerror.pagetitle2  "Avertisment: Urmează un risc potențial de securitate">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Acest site folosește HTTP Strict Transport Security (HSTS) pentru a specifica că &brandShortName; se poate conecta doar în mod securizat la el. Drept rezultat, nu este posibil să adaugi o excepție acestui certificat.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> are o politică de securitate numită HTTP Strict Transport Security (HSTS), ceea ce înseamnă că &brandShortName; se poate conecta la acesta numai în mod securizat. Nu poți adăuga o excepție pentru a vizita acest site.">
 <!ENTITY certerror.copyToClipboard.label "Copiază textul în clipboard">
 
 <!ENTITY inadequateSecurityError.title "Conexiunea nu este securizată">
@@ -136,6 +150,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește tehnologie de securitate care este învechită și vulnerabilă la atac. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai a fi în siguranță. Administratorul site-ului web va trebui să repare serverul mai întâi înainte să poți vizita site-ul.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagină blocată">
+
 
 <!ENTITY prefReset.longDesc "Se pare că setările tale de securitate a rețelei sunt de vină. Vrei să fie restaurate setările implicite?">
 <!ENTITY prefReset.label "Restaurează setările implicite">
