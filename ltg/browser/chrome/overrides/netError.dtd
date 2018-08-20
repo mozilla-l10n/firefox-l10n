@@ -167,6 +167,7 @@ certificate.">
 <!ENTITY blockedByPolicy.title "Bloķeita lopa">
 
 <!ENTITY clockSkewError.title "Tova datora stundinīks ir napareizs">
+<!ENTITY clockSkewError.longDesc "Tovs dators dūmoj, ka ir <span id='wrongSystemTime_systemDate1'/>, kas naļaun &brandShortName; pīzaslēgt drūšajā savīnojumā. Kab īt iz <span class='hostname'></span>, īstoti datora stundinīku iz takušū datumu, laiku un laika jūslu un tod īlōdej nu jauna <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "It looks like your network security settings might be causing this. Do you want the default settings to be restored?">
 <!ENTITY prefReset.label "Atjaunōt nūkluseitūs īstatiejumus">
