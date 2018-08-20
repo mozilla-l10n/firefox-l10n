@@ -59,6 +59,9 @@ permissions-exceptions-tracking-protection-window =
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = اجازت دی ویب سائٹ - پاپ اپ
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = آپ اختصاص کر سکتے ہیں کہ کونسی سائٹیں پاپ اپ کھولنے کے لیے اجازت دادہ ہیں۔ جس سائٹ کو اجازت دینا چاہتے ہیں اس کا ٹھیک ٹھیک پتہ ٹائپ کریں اور پھر اجازت دیں پر کلک کریں۔
 
 ## Exceptions - Saved Logins
@@ -66,6 +69,7 @@ permissions-exceptions-popup-desc = آپ اختصاص کر سکتے ہیں کہ 
 permissions-exceptions-saved-logins-window =
     .title = استثنیات ۔ محفوظ شدہ لاگ ان
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = درج ذیل ویب سائٹس کے لئے لاگ ان کو محفوظ نہیں کیا جائے گا
 
 ## Exceptions - Add-ons
 

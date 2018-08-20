@@ -206,7 +206,7 @@ applications-type-column =
 applications-action-column =
     .label = عمل
     .accesskey = ع
-drm-content-header = عددی حقوق بندرستگی(DRM)  مواد 
+drm-content-header = عددی حقوق بندرستگی(DRM)  مواد
 play-drm-content-learn-more = مزید سیکھیں
 update-application-title = { -brand-short-name } تازہ کاریاں:
 update-application-version = ورژن{ $version } <a data-l10n-name="learn-more">نیا کیا ہے</a>
@@ -471,6 +471,8 @@ sitedata-header = کوکیاں اور سائٹ کے کواِئف
 sitedata-learn-more = مزید سیکھیں
 sitedata-keep-until = رکھیں جب تک
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = وہ ختم ہو تے ہیں
 sitedata-keep-until-closed =
     .label = { -brand-short-name } بند ہے
 sitedata-accept-third-party-always-option =
@@ -513,8 +515,13 @@ content-blocking-toggle-label-on = چالو
     .accesskey = O
 content-blocking-toggle-label-off = بند
     .accesskey = O
+content-blocking-category-label = چنیں کیا بلاک کرنا ہے
 content-blocking-fastblock-option-enabled =
     .label = ہمیشہ بلاک کریں
+content-blocking-fastblock-option-disabled =
+    .label = کبھی بلاک نا کریں
+content-blocking-tracking-protection-option-disabled =
+    .label = کبھی بلاک نا کریں
 
 ## Privacy Section - Tracking
 
