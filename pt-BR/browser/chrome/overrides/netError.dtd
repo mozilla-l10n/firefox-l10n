@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Voltar (recomendado)">
 <!ENTITY advanced.label "Avançado">
 
-<!ENTITY continue1.label "Continuar…">
+<!ENTITY continue2.label "Mais…">
 <!ENTITY moreInformation.label "Mais informações">
 
 <!-- Specific error messages -->
@@ -128,12 +128,11 @@ instalado.</li>
 
 <!ENTITY certerror.longpagetitle1 "Sua conexão não é segura">
 <!ENTITY certerror.longpagetitle2 "Alerta: Potencial risco de segurança à frente">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "O proprietário do <span class='hostname'/> configurou este site incorretamente. Para proteger suas informações de serem roubadas, o &brandShortName; não se conectou a ele.">
 
-<!ENTITY certerror.introPara1 "O &brandShortName; detectou uma potencial ameaça de segurança e não continuou para <span class='hostname'/>. Se você visitar este site, invasores podem tentar roubar informações como suas senhas, e-mails ou cartões de crédito.">
 
 <!ENTITY certerror.expiredCert.secondPara "É mais provável que este problema seja devido ao relógio do seu computador estar com a hora errada, o que pode impedir que o &brandShortName; se conecte com segurança.">
 
@@ -170,6 +169,8 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Aceitar o risco e continuar">
 
 <!ENTITY errorReporting.automatic2 "Relatar erros como este para ajudar a Mozilla a identificar e bloquear sites maliciosos">
 <!ENTITY errorReporting.learnMore "Saiba mais…">

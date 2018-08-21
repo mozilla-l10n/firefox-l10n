@@ -979,6 +979,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Adicionar bloqueio…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Reportar problemas">
+<!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Saiba mais">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Quais problemas você teve? (Opcional)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Enviar relatório">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Cancelar">
+
 <!ENTITY trackingProtection.title "Proteção contra rastreamento">
 <!ENTITY trackingProtection.detectedBlocked3 "O &brandShortName; está bloqueando partes da página que podem rastrear a sua navegação.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Este site tem elementos que podem rastrear a sua navegação. Você desativou a proteção.">
