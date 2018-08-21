@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Īt atpakaļ (īteicams)">
 <!ENTITY advanced.label "Papyldu">
 
-<!ENTITY continue1.label "Turpynōt…">
+<!ENTITY continue2.label "Vaira…">
 <!ENTITY moreInformation.label "Papyldus informaceja">
 
 <!-- Specific error messages -->
@@ -104,12 +104,12 @@
 
 <!ENTITY certerror.longpagetitle1 "Savīnuojums nav drūss">
 <!ENTITY certerror.longpagetitle2 "Breidynojums: Potencials drūšeibys risks">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "The owner of <span class='hostname'/> has configured their website improperly.  To protect your information from being stolen, &brandShortName; has not connected to this website.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; atroda īspiejamu drūšeibys risku un napabeidze <span class='hostname'/> īlōdi. Ja turpynōsi, uzbruceji var nūzagt tovu privatū informaceji, pīmāram paroles, e-postus voi bankas kartes datus.">
+<!ENTITY certerror.introPara2 "&brandShortName; atroda potencialu drūšeibys apdraudejumu un naataisēja <span class='hostname'/>. Ka tu īsi un itū lopu, uzbruceji var nūzagt informaceji, kai paroles, e-postus voi bankas kartes datus.">
 
 <!ENTITY certerror.expiredCert.secondPara "Īmasls dreižōk vysa ir napareizi īstateits tova datora stundinīks, kurais līdze &brandShortName; izveidōt drūšu savīnojumu.">
 
@@ -132,6 +132,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Pīļaut izjiemumu...">
+
+<!ENTITY securityOverride.exceptionButton1Label "Pījimt riskus un turpynōt">
 
 <!ENTITY errorReporting.automatic2 "Report errors like this to help Mozilla identify and block malicious sites">
 <!ENTITY errorReporting.learnMore "Uzzynojit vairuok…">
