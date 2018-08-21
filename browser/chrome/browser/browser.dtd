@@ -979,6 +979,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Blokěrowanje pśidaś…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Problemy k wěsći daś">
+<!ENTITY contentBlocking.breakageReportView.label "Problemy k wěsći daś">
+<!ENTITY contentBlocking.breakageReportView.description "Blokěrowanje wopśimjeśa móžo problemy z někotarymi websedłami zawinowaś. Gaž problemy k wěsći dawaśo, pomagaśo &brandShortName; za kuždego pólepšyś. (Sćelo se Mozilla URL a informacije wó nastajenjach wašeje priwatnosći a blokěrowanja wopśimjeśa.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Dalšne informacije">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Wersijowy numer &brandShortName;">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kótare problemy sćo měł? (na žycenje)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Rozpšawu pósłaś">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Pśetergnuś">
+
 <!ENTITY trackingProtection.title "Slědowański šćit">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokěrujo źěle boka, kótarež by mógli wašo pśeglědowanje slědowaś.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Toś to sedło wopśimujo elementy, kótarež by mógli wašo pśeglědowanje slědowaś. Sćo šćit znjemóžnił.">
