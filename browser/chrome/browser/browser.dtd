@@ -981,6 +981,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView.label "Problemləri Bildir">
 <!ENTITY contentBlocking.breakageReportView.label "Problemləri Bildir">
+<!ENTITY contentBlocking.breakageReportView.description "Məzmun əngəlləmə bəzi saytlarda xətalara səbəb ola bilər. Xətaları xəbər verdiyinizdə &brandShortName; səyyahını daha da yaxşılaşdırmağa kömək edirsiz. (Bu həmçinin ünvanı, məxfilik və məzmun əngəlləmə tənzimləmələrinizi Mozillaya göndərəcək.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Ətraflı Öyrən">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Ünvan">
 <!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; Versiya Nömrəsi">

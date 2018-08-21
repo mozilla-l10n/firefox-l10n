@@ -611,6 +611,16 @@ sitedata-allow-cookies-option =
 sitedata-disallow-cookies-option =
     .label = Çərəz və sayt məlumatlarını əngəllə
     .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Əngəllənən növ
+    .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = Üçüncü tərəf izləyicilər (məsləhətlidir)
+sitedata-block-trackers-option =
+    .label = Üçüncü tərəf izləyicilər
+sitedata-block-unvisited-option =
+    .label = Ziyarət edilməmiş saytlardan olan çərəzlər
 sitedata-block-all-third-parties-option =
     .label = Bütün üçüncü tərəf çərəzlər
 sitedata-block-always-option =
