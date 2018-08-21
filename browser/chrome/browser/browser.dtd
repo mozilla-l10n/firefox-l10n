@@ -946,12 +946,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "Защита от проследяване: изключена">
 <!ENTITY trackingProtection.off "Защита от проследяване: изключена">
 
-<!ENTITY contentBlocking.title "Спиране на съдържание">
+<!ENTITY contentBlocking.title "Ограничаване на съдържание">
 <!ENTITY contentBlocking.detected "Страницата има съдържание годно за спиране.">
 <!ENTITY contentBlocking.notDetected "Страницата няма съдържание годно за спиране.">
 <!ENTITY contentBlocking.disabled.label "Изключено">
-<!ENTITY contentBlocking.disabled.tooltip "Изключили сте спирането на съдържание.">
-<!ENTITY contentBlocking.exception.tooltip "Изключили сте спирането на съдържание за тази страница.">
+<!ENTITY contentBlocking.disabled.tooltip "Изключили сте ограничаването на съдържание.">
+<!ENTITY contentBlocking.exception.tooltip "Изключили сте ограничаването на съдържание за страницата.">
 
 <!ENTITY contentBlocking.fastBlock.label "Бавни проследяващи елементи">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
@@ -978,6 +978,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Спиране…">
+
+<!ENTITY contentBlocking.openBreakageReportView.label "Докладване на проблем">
+<!ENTITY contentBlocking.breakageReportView.label "Докладване на проблем">
+<!ENTITY contentBlocking.breakageReportView.description "Ограничаването на съдържание може да доведе до проблеми с някои страници. Докладвайки за такъв проблем помагате на &brandShortName; да стане по-добър за всички. (До Mozilla ще бъдат изпратени адресът, както и настройките на поверителност и ограничаване на съдържание.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Научете повече">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "Адрес">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Издание на &brandShortName;">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "С какъв проблем се сблъскахте? (По желание)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Докладване">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Отказ">
 
 <!ENTITY trackingProtection.title "Защита от проследяване">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; изключва елементи от страницата, които е възможно да следят поведението ви онлайн.">
