@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Ewch Nôl (Argymell)">
 <!ENTITY advanced.label "Uwch">
 
-<!ENTITY continue1.label "Parhau…">
+<!ENTITY continue2.label "Rhagor…">
 <!ENTITY moreInformation.label "Rhagor o Wybodaeth">
 
 <!-- Specific error messages -->
@@ -93,12 +93,12 @@
 
 <!ENTITY certerror.longpagetitle1 "Nid yw eich cysylltiad yn ddiogel">
 <!ENTITY certerror.longpagetitle2 "Rhybudd: Risg Diogelwch Posibl o'ch Blaen">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Mae perchennog <span class='hostname'/> wedi ffurfweddu ei wefan yn anghywir.  I rwystro eich manylion rhag cael eu dwyn, nid yw &brandShortName; wedi cysylltu â'r wefan.">
 
-<!ENTITY certerror.introPara1 "Mae &brandShortName; wedi canfod bygythiad diogelwch posibl ac nid yw wedi parhau i <span class='hostname'/>. Os ydych yn ymweld â'r wefan hon, gall ymosodwyr geisio ddwyn gwybodaeth fel eich cyfrineiriau, negeseuon e-bost, neu gardiau credyd.">
+<!ENTITY certerror.introPara2 "Mae &brandShortName; wedi canfod bygythiad diogelwch posib ac nid yw wedi mynd i <span class='hostname'/>. Os ewch i'r gwefan yma, gall ymosodwyr geisio dwyn gwybodaeth fel eich cyfrineiriau, e-byst neu fanylion cardiau credyd.">
 
 <!ENTITY certerror.expiredCert.secondPara "Mae'n fwyaf tebygol fod hyn o oherwydd bod cloc eich cyfrifiadur wedi'i osod i'r amser anghywir, sy'n atal &brandShortName; rhag gysylltu'r ddiogel.">
 
@@ -122,6 +122,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ychwanegu Eithriad…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Derbyn y Bygythiad a Pharhau">
 
 <!ENTITY errorReporting.automatic2 "Mae adroddiadau gwall fel hyn y cynorthwyo Mozilla i adnabod a rhwystro gwefannau maleisus">
 <!ENTITY errorReporting.learnMore "Dysgu rhagor…">
