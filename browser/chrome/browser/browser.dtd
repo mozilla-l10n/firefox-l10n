@@ -979,6 +979,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Добавить блокировку…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Сообщить о проблеме">
+<!ENTITY contentBlocking.breakageReportView.label "Сообщить о проблеме">
+<!ENTITY contentBlocking.breakageReportView.description "Блокировка содержимого может вызывать проблемы с некоторыми веб-сайтами. Когда вы сообщаете о проблеме, вы помогаете сделать &brandShortName; лучше для всех и каждого. (Это отправит адрес сайта, а также информацию о настройках приватности и блокировки содержимого в Mozilla).">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Подробнее">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "Адрес страницы">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Номер версии &brandShortName;">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Какая у вас проблема? (необязательно)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Отправить сообщение">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Отмена">
+
 <!ENTITY trackingProtection.title "Защита от отслеживания">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокирует части страницы, которые могут отслеживать ваше поведение в Интернете.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Этот сайт содержит элементы, которые могут отслеживать ваше поведение в Интернете. Вы отключили защиту.">
