@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Wróćo (doporučeny)">
 <!ENTITY advanced.label "Rozšěrjene">
 
-<!ENTITY continue1.label "Pokročować…">
+<!ENTITY continue2.label "Wjace…">
 <!ENTITY moreInformation.label "Dalše informacije">
 
 <!-- Specific error messages -->
@@ -89,12 +89,12 @@
 
 <!ENTITY certerror.longpagetitle1 "Waš zwisk wěsty njeje">
 <!ENTITY certerror.longpagetitle2 "Warnowanje: Potencielne wěstotne riziko prědku">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Mějićel <span class='hostname'/> je swoje websydło wopak konfigurował. Zo byšće swoje informacije přećiwo tomu škitał, zo so kradnu, njeje &brandShortName; z tutym websydłom zwjazał.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; wotkry pocentielne wohroženje wěstoty a njeje hač do <span class='hostname'/> dale šoł. Jeli tute sydło wopytujeće, móhli nadběhowarjo spytać, daty kaž waše hesła, e-mejlowe adresy abo kreditne karty kradnyć.">
+<!ENTITY certerror.introPara2 "&brandShortName; je potencielne wohroženje wěstoty a njeje tohodla zwjazał z <span class='hostname'/>. Jeli so tute sydło wopytujeće, móhli nadpadnicy spytać, daty kaž waše hesło, e-mejlowe adresy abo podrobnosće kreditnych kartow kradnyć.">
 
 <!ENTITY certerror.expiredCert.secondPara "Tutón problem so najskerje zawinuje, dokelž časnik wašeho ličaka wopačny čas wužiwa, štož &brandShortName; při wěstym zwjazowanju haći.">
 
@@ -119,6 +119,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Wuwzaće přidać…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Riziko akceptować a pokročować">
 
 <!ENTITY errorReporting.automatic2 "Zdźělće zmylki kaž tute, zo byšće Mozilla pomhał, złowólne sydła identifikował a blokował">
 <!ENTITY errorReporting.learnMore "Dalše informacije…">
