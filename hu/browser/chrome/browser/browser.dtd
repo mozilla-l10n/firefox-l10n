@@ -979,6 +979,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Blokkolás hozzáadása…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Problémák bejelentése">
+<!ENTITY contentBlocking.breakageReportView.label "Problémák bejelentése">
+<!ENTITY contentBlocking.breakageReportView.description "A tartalomblokkolás problémákat okozhat néhány weboldalon. Ha bejelenti a problémákat, akkor segít mindenkinek jobbá tenni a &brandShortName;ot. (Ez elküldi az URL-t, valamint az adatvédelmi és tartalomblokkolási beállításait a Mozillának.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "További tudnivalók">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; verziószáma">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Milyen problémái voltak? (Nem kötelező)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Jelentés küldése">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Mégse">
+
 <!ENTITY trackingProtection.title "Védelem követés ellen">
 <!ENTITY trackingProtection.detectedBlocked3 "A &brandShortName; az oldal olyan részeit blokkolja, amelyek követhetik a böngészését.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Ez az oldal olyan elemeket tartalmaz, amelyek követhetik az Ön böngészését. A védelmet kikapcsolta.">
