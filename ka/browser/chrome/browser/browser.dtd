@@ -949,7 +949,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "შიგთავსის შეზღუდვა">
 <!ENTITY contentBlocking.detected "ამ საიტზე აღმოჩენილია შესაზღუდი შიგთავსი.">
 <!ENTITY contentBlocking.notDetected "ამ საიტზე შესაზღუდი შიგთავსი არ აღმოჩენილა.">
-<!ENTITY contentBlocking.disabled.label "გამორთულია">
+<!ENTITY contentBlocking.disabled.label "გამორთ.">
 <!ENTITY contentBlocking.disabled.tooltip "შიგთავსის შეზღუდვა გამორთული გაქვთ.">
 <!ENTITY contentBlocking.exception.tooltip "ამ გვერდზე შიგთავსის შეზღუდვა გამორთული გაქვთ.">
 
