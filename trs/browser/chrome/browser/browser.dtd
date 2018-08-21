@@ -35,6 +35,24 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Narràn a'ngô da'aj ne rakíj ñaj">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+<!ENTITY  closeSelectedTabs.label            "Narrûn' riña rakïj ñaj">
+<!ENTITY  closeSelectedTabs.accesskey        "S">
+
+<!ENTITY  pinSelectedTabs.label              "Gachrun rakïj ñanj">
+<!-- Pin Tab and Pin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  pinSelectedTabs.accesskey          "P">
+<!ENTITY  unpinSelectedTabs.label            "Ga'ne rakïj ñanj">
+<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  unpinSelectedTabs.accesskey        "b">
+<!-- Reload Tab and Reload Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadSelectedTabs.label           "Nachra ñun' riña rakïj ñaj">
+<!ENTITY  reloadSelectedTabs.accesskey       "R">
+<!ENTITY  bookmarkSelectedTabs.label         "Nuto' a'ngo rakïj ñanj...">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -54,13 +72,15 @@ can reach it easily. -->
 <!ENTITY  sendToDeviceOfflineFeedback.label  "Sa 'na'a (nitaj konexión hua)">
 <!ENTITY  moveToNewWindow.label              "Dusiki' 'ngo Bendâna">
 <!ENTITY  moveToNewWindow.accesskey          "B">
+<!ENTITY  reopenInContainer.label            "Na'nïn' riña kontenedor">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Nuto' a'ngo rakïj ñanj...">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Tanikaj ñûn' rakïj ñanj">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "Ganarán riñanj">
 <!ENTITY  closeTab.accesskey                 "c">
-
+<!ENTITY  hiddenTabs.label                   "Rakïj ñanj nun huì">
 
 <!ENTITY  listAllTabs.label      "Ni'io' nej rakïj ñanj hua ni'ninj">
 
@@ -128,7 +148,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Ni'io' daran' nej rakïj ñaj">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
-
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Gayi'ì' sesión 'ngà &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Na'nïn' &syncBrand.shortName.label; preferences">
@@ -187,10 +207,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "A'ngo sa raj sun nichro' doj">
 <!ENTITY mobileBookmarksCmd.label "Si markador aga' a'min'">
 <!ENTITY bookmarksToolbarChevron.tooltip "Ni'io' a'ngò da'j markador">
-<!ENTITY showRecentlyBookmarked.label     "Ni'io' nej markador nakà doj">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "Gachì hui' nej markador nakà doj">
-<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "Ne' rukuu">
 <!ENTITY backCmd.accesskey            "B">
@@ -213,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Na'nïn' riña ma nuguan' nahuin ro'ô'">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Na'nïn' riña nu sa achín ni'iaj">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Na'nï' panel gi'iaj sun ma'an">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Na'nïn' riña ma nugua'an da' ga'ni' sa ni'iaj nichro' doj">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Dugumi' da' si gahui canvas ga'an">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Na'nïn' riña ma nigua' mahuin ro'ô' antaj si nitaj konesiôn">
@@ -221,7 +238,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Naduno' da' nahuin ro'ô' si nuguan' sitio">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Nachrâ so' datos da' gahuin rān ma">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Àsij gan' nikaj ñu'unj nej dugui' navegador">
-
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Na'nïn' panel nani'in da'nga' web">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gi'iaj sun sitio na 'ngà si kamarat ni mikrofono">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gi'iaj sun sitio na 'ngà si mikrofonot">
@@ -231,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Naduno' nânj ginù riña pagina na">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Naduno' daj nanù a'ngò nânj a'min' riña pagina na">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Ganikaj ñu'ù' da' garasun' software DRM">
-
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Na'nïn' MIDI panel">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Gi'iaj blokeandot si kamarat guenda sitio web na.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Gi'iaj blokeandot sa uxun nanèe guenda sitio web na.">
@@ -240,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Gi'iaj blokeandot da' si nahuin ra'àt nuguan'an guenda sitio web na.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Gi'iaj blokeandot da' si nachrá sa' nuguan'an guenda sitio web na.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Gi'iaj blokeandot nej pop-ups guenda sitio web na.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Gi'iaj blokeandot sa uxun nanèe guenda sitio web na.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Gi'iaj blokeandot da' si gida'à nej dugui' datos canva guenda sitio web na.">
-
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Digû' riña gaché nu'">
 
@@ -249,6 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Riñan gayi'ij">
+
 
 <!ENTITY bookmarksButton.label          "Sa raj sun nichrò' doj">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -290,6 +308,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.accesskey   "W">
+
 
 <!ENTITY inspectContextMenu.accesskey "Q">
 
@@ -375,8 +394,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -385,11 +403,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -539,6 +561,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.label          "Dugi'iaj sun' plugin na">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.accesskey      "H">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Nana'uì' ñan du'ua">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -549,6 +574,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Guxun ña nù si link nanè na">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Guxun' dirección korreo da' nachrun' a'ngô hiuj u">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.accesskey          "h">
 
@@ -605,6 +633,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -613,6 +645,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 <!-- Strings for connection state warnings in the subview. -->
+
+
 
 
 
@@ -647,10 +681,41 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
