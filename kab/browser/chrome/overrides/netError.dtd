@@ -126,6 +126,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Rnu tasureft…">
 
+<!ENTITY securityOverride.exceptionButton1Label "Qbel ugur u kemmel">
 
 <!ENTITY errorReporting.automatic2 "Tuzzna n tuccḍiwin am ta, d tallalt ad d-tmuddeḍ i Mozilla akken ad isulu u ad isewḥel ismal web n ukellex.">
 <!ENTITY errorReporting.learnMore "Issin ugar…">
