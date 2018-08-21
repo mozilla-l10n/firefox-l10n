@@ -329,6 +329,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Rakïj ñanj man sa garasun'">
 <!ENTITY newUserContext.accesskey         "B">
+<!ENTITY manageUserContext.label          "Dugumî hue'ê' kontenedor">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Ventana nakàa">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -340,6 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.label            "Nadurê'">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "Nagi'iaj ñunj">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
 <!ENTITY cutCmd.label           "Ga'nè'">
@@ -362,6 +365,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Sa arajsunt doj">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
+<!ENTITY clearRecentHistory.label               "Dure' riña gaché nu'...">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -369,7 +373,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY viewToolbarsMenu.label       "Riña ma sa raj sun'">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
+<!ENTITY viewSidebarMenu.label "Dukuán nū yi'ní ma">
 <!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewCustomizeToolbar.label       "Nagi'iô' daj huin ruhuô'...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "Nagi'io' dukuán ma sa rajeunit'...">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
@@ -378,28 +384,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Rakïj ñanj hiaj narrán nakà">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Sa hiaj narrán nakà">
+<!ENTITY historyRestoreLastSession.label "Nagi'iaj ñunj sesión gà gachin">
 
 <!ENTITY showAllHistoryCmd2.label "Digû' riña gaché nu'">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Digû' riña gaché nu'">
+<!ENTITY appMenuHistory.clearRecent.label "Dure' riña gaché nu'...">
+<!ENTITY appMenuHistory.restoreSession.label "Nagi'iaj ñunj sesión gà gachin">
+<!ENTITY appMenuHistory.viewSidebar.label "Ni'io' dukuán gaché nu'">
+<!ENTITY appMenuHistory.recentHistory.label "Riña gaché nu nakò'">
 <!ENTITY appMenuHelp.label "Sa ruguñu'unj un">
 
+<!ENTITY appMenuRemoteTabs.label "Nej rakïj ñaj guña huaa">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Si na'nï' rakij ñanj">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Nadigân Doj">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Nadigun' nej rakïj ñaj asij riña aga'a na">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Nadigân daran'anj">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Nadigun' daran' rakïj ñaj asij riña aga'a na">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Nachrūn si sinkronisasion rakïj ñaj da' ni'iaj nej rakïj ñaj asij riña a'ngo si agat.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Ni'iaj rakïj ñaj nū riña a'ngo si aga' asij ñuna ànj">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Na'nït sa nagi'iaj Sync">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Gayi'ì sesión da' ni'iaj nej rakïj ñaj asij riña a'ngo si agat.">
+<!ENTITY appMenuRemoteTabs.unverified.label "Da'ui' ma ganatsij ma si kuentat">
 
 
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
