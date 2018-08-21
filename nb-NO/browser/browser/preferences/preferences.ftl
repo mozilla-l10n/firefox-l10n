@@ -605,6 +605,26 @@ sitedata-accept-third-party-visited-option =
     .label = Fra besøkte
 sitedata-accept-third-party-never-option =
     .label = Aldri
+sitedata-allow-cookies-option =
+    .label = Tillat infokapsler og nettstedsdata
+    .accesskey = a
+sitedata-disallow-cookies-option =
+    .label = Blokker infokapsler og nettstedsdata
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Type blokkert
+    .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = Tredjeparts-sporere (anbefales)
+sitedata-block-trackers-option =
+    .label = Tredjeparts-sporere
+sitedata-block-unvisited-option =
+    .label = Infokapsler fra ubesøkte nettsteder
+sitedata-block-all-third-parties-option =
+    .label = Alle tredjeparts infokapsler
+sitedata-block-always-option =
+    .label = Alle infokapsler (kan føre til at nettsteder ikke fungerer)
 sitedata-clear =
     .label = Tøm data…
     .accesskey = a
