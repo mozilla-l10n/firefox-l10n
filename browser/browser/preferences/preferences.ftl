@@ -729,6 +729,7 @@ autoplay-option-allow =
     .label = Autoriser la lecture automatique
 autoplay-option-dont =
     .label = Interdire la lecture automatique
+permissions-autoplay-link = En savoir plus
 permissions-block-popups =
     .label = Bloquer les fenêtres popup
     .accesskey = B
