@@ -832,7 +832,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "కుకీలను, సైటు డేటాను తుడిచివేయి…">
 
 <!ENTITY identity.permissions "అనుమతులు">
-<!ENTITY identity.permissionsEmpty "ఈ సైటుకి మీరు ఎటువoటి ప్రత్యేక అనుమతులు ఇవ్వలేదు.">
+<!ENTITY identity.permissionsEmpty "ఈ సైటుకి మీరు ఎటువంటి ప్రత్యేక అనుమతులు ఇవ్వలేదు.">
 <!ENTITY identity.permissionsReloadHint "మార్పులు ప్రతిఫలించడానికి మీరు ఈ పేజీని మళ్ళీ లోడు చెయ్యాల్సిరావచ్చు.">
 
 <!ENTITY identity.permissionsPreferences.tooltip "అనుమతుల అభిరుచులను తెరువు">
