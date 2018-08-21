@@ -611,6 +611,10 @@ sitedata-allow-cookies-option =
 sitedata-disallow-cookies-option =
     .label = Sewḥel inagan n tuqna akked isefka n usmel
     .accesskey = S
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Tawsit tewḥel
+    .accesskey = T
 sitedata-block-trackers-option-recommended =
     .label = Ineḍfaren n wis kraḍ (yelha)
 sitedata-block-trackers-option =

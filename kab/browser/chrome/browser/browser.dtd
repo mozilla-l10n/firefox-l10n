@@ -979,6 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Asewḥel n udellel…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Azen-d uguren">
+<!ENTITY contentBlocking.breakageReportView.label "Azen-d uguren">
+<!ENTITY contentBlocking.breakageReportView.description "Asewḥel n ugbur izmer ad isirew uguren akked kra n ismal web. Ticki ara tazneḍ uguren, ad d-muddeḍ afus akken ad yennerni &brandShortName; i yal yiwen. (Aya ad yazen URL akked talɣut fell-ak ɣef tbaḍnit akked iɣewwaren n usewḥel n ugbur i Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Issin ugar">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; Amḍan n lqem">
