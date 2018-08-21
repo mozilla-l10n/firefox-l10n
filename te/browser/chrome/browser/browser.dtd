@@ -941,6 +941,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "విషయ నిరోధం">
 <!ENTITY contentBlocking.detected "ఈ సైటులో నిరోధించదగ్గ విషయం కనబడింది.">
 <!ENTITY contentBlocking.notDetected "ఈ పేజీలో నిరోధించదగ్గ విషయమేమీ కనబడలేదు.">
+<!ENTITY contentBlocking.disabled.label "అచేతనమైవుంది">
 
 <!ENTITY contentBlocking.fastBlock.label "నెమ్మదిగా-లోడయ్యే ట్రాకర్లు">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
@@ -968,6 +969,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "నిరోధం చేర్చు…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "సమస్యలను నివేదించండి">
+<!ENTITY contentBlocking.breakageReportView.label "సమస్యలను నివేదించండి">
+<!ENTITY contentBlocking.breakageReportView.learnMore "ఇంకా తెలుసుకోండి">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "మీకు ఏమి సమస్యలు ఎదురయ్యాయి? (ఐచ్ఛికం)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "నివేదికను పంపించు">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "రద్దుచేయి">
 
 <!ENTITY trackingProtection.title "ట్రాకింగ్ సంరక్షణ">
