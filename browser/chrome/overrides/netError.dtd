@@ -11,7 +11,8 @@
 <!ENTITY returnToPreviousPage1.label "వెనక్కి వెళ్ళు (సిఫారసుచేయబడింది)">
 <!ENTITY advanced.label "ఉన్నతం">
 
-<!ENTITY continue1.label "కొనసాగించు…">
+<!ENTITY continue2.label "మరిన్ని…">
+<!ENTITY moreInformation.label "మరింత సమాచారం">
 
 <!-- Specific error messages -->
 
@@ -127,7 +128,7 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "మీ అనుసంధానం సురక్షితమైనది కాదు">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> యజమాని వారి వెబ్‌సైటును సరిగా స్వరూపించలేదు.  మీ సమాచారం దొంగిలించబడకుండా రక్షించడానికి, &brandShortName; ఈ వెబ్‌సైటుకి అనుసంధానించలేదు.">
@@ -155,6 +156,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "మినహాయింపును చేర్చు…">
+
 
 <!ENTITY errorReporting.automatic2 "హానికరమైన సైట్లను గుర్తించి నిరోధించడంలో సహాయపడేందుకు ఇలాంటి తప్పిదాలను Mozillaకు నివేదించండి">
 <!ENTITY errorReporting.learnMore "ఇంకా తెలుసుకోండి…">
