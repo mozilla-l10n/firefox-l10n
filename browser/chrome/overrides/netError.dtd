@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Visszalépés (ajánlott)">
 <!ENTITY advanced.label "Speciális">
 
-<!ENTITY continue1.label "Folytatás…">
+<!ENTITY continue2.label "Továbbiak…">
 <!ENTITY moreInformation.label "További tudnivalók">
 
 <!-- Specific error messages -->
@@ -93,12 +93,11 @@
 
 <!ENTITY certerror.longpagetitle1 "A kapcsolat nem biztonságos">
 <!ENTITY certerror.longpagetitle2 "Figyelmeztetés: Lehetséges biztonsági kockázat következik">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "A(z) <span class='hostname'/> tulajdonosa a weboldalát helytelenül állította be. Az Ön adatainak ellopását megakadályozandó a &brandShortName; nem csatlakozott ehhez a weboldalhoz.">
 
-<!ENTITY certerror.introPara1 "A &brandShortName; lehetséges biztonsági fenyegetést észlelt, és nem lépett tovább erre: <span class='hostname'/>. Ha felkeresi ezt a helyet, akkor a támadók megpróbálhatják ellopni a jelszavait, e-mailjeit vagy bankkártyaadatait.">
 
 <!ENTITY certerror.expiredCert.secondPara "Ennek a problémának a legvalószínűbb oka, hogy hibás a számítógép órabeállítása, amely megakadályozza a &brandShortName; biztonságos kapcsolódósát.">
 
@@ -127,6 +126,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Kivétel hozzáadása…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Kockázat elfogadása és továbblépés">
 
 <!ENTITY errorReporting.automatic2 "Az ilyen hibák jelentése segít a Mozillának a rosszindulatú oldalak azonosításában és blokkolásában">
 <!ENTITY errorReporting.learnMore "További tudnivalók…">
