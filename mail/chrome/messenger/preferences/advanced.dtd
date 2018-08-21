@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Slå på globalt søk og indeksering">
 <!ENTITY enableGlodaSearch.accesskey   "S">
 <!ENTITY dateTimeFormatting.label      "Formatering av dato og tid">
+<!ENTITY languageSelector.label        "Språk">
 <!ENTITY allowHWAccel.label            "Bruk maskinvareakselerasjon når tilgjengeleg">
 <!ENTITY allowHWAccel.accesskey        "m">
 <!ENTITY storeType.label               "Lagringstype for meldingar i nye kontoar:">
