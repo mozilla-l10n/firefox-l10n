@@ -979,6 +979,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Tambahkan Blokir…">
 
+<!ENTITY contentBlocking.breakageReportView.learnMore "Pelajari Lebih Lanjut">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Batal">
+
 <!ENTITY trackingProtection.title "Perlindungan Pelacakan">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; memblokir bagian dari laman yang mungkin melacak penjelajahan Anda.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Situs ini mengandung elemen yang mungkin melacak penjelajahan Anda. Anda telah menonaktifkan perlindungan.">
