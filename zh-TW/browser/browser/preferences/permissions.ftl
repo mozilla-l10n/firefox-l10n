@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = 允許自動播放的網站
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = 您可以指定允許哪些網站自動播放媒體元素。請輸入想要允許的網站網址，然後點擊「允許」。
+permissions-exceptions-autoplay-media-window2 =
+    .title = 例外 - 自動播放
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = 您可以指定允許哪些網站是否可自動播放有聲音的媒體內容。請輸入您要指定的網站網址後按「封鎖」或「允許」。
 
 ## Site Permissions - Notifications
