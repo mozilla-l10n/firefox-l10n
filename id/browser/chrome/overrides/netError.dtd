@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Kembali (Disarankan)">
 <!ENTITY advanced.label "Lebih lanjut">
 
-<!ENTITY continue1.label "Lanjutkan…">
+<!ENTITY continue2.label "Lainnya…">
 <!ENTITY moreInformation.label "Informasi Lebih Lanjut">
 
 <!-- Specific error messages -->
@@ -96,12 +96,11 @@
 
 <!ENTITY certerror.longpagetitle1 "Sambungan Anda tidak aman">
 <!ENTITY certerror.longpagetitle2 "Peringatan: Potensi Risiko Keamanan Menghadang">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Pemilik <span class='hostname'/> telah mengonfigurasikan situs web secara tidak benar. Untuk melindungi informasi Anda dari pencurian, &brandShortName; tidak menyambungkan Anda ke situs ini.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; mendeteksi potensi ancaman keamanan dan tidak melanjutkan ke <span class='hostname'/>. Jika Anda mengunjungi situs, penyerang bisa mencuri informasi seperti kata sandi, email, atau kartu kredit Anda.">
 
 <!ENTITY certerror.expiredCert.secondPara "Masalah ini mungkin disebabkan karena jam komputer Anda diatur ke waktu yang salah, yang dapat mencegah &brandShortName; untuk tersambung secara aman.">
 
@@ -131,6 +130,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Setujui Risiko dan Lanjutkan">
 
 <!ENTITY errorReporting.automatic2 "Laporkan kesalahan seperti ini untuk membantu Mozilla mengidentifikasi dan memblokir situs yang mencurigakan.">
 <!ENTITY errorReporting.learnMore "Pelajari lebih lanjut…">
