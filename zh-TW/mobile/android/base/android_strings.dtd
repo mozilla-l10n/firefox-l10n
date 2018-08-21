@@ -907,3 +907,4 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "&vendorShortName; Location Service">
 <!ENTITY download_notification_channel "下載項目">
+<!ENTITY media_notification_channel "媒體播放">
