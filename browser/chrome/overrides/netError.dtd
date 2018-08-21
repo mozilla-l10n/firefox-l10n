@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Връщане назад (препоръчително)">
 <!ENTITY advanced.label "Подробности">
 
-<!ENTITY continue1.label "Продължаване…">
+<!ENTITY continue2.label "Подробности…">
 <!ENTITY moreInformation.label "Повече информация">
 
 <!-- Specific error messages -->
@@ -108,12 +108,11 @@
 
 <!ENTITY certerror.longpagetitle1 "Връзката е незащитена">
 <!ENTITY certerror.longpagetitle2 "Внимание: Вероятен риск за сигурността">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Собственикът на <span class='hostname'/> е настроил страницата неправилно. За да ви защити от кражба на информация, &brandShortName; отказа връзката с тази страница.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; забеляза възможна заплаха за сигурността и не продължи към <span class='hostname'/>. Ако посетите страницата атакуващ може да опита да открадне от вас информация като пароли, електронни писма или банкови карти.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Какво да направите в тази ситуация?">
@@ -136,7 +135,9 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
 
-<!ENTITY errorReporting.automatic2 "Докладване на такива грешки, за да може Mozilla да идентифицира и блокира злонамерени сайтове">
+<!ENTITY securityOverride.exceptionButton1Label "Продължаване въпреки риска">
+
+<!ENTITY errorReporting.automatic2 "Докладване на такива грешки, за да може Mozilla да идентифицира и ограничи злонамерени сайтове">
 <!ENTITY errorReporting.learnMore "Научете повече…">
 
 <!ENTITY remoteXUL.title "Отдалечен XUL">
