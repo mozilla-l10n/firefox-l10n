@@ -94,6 +94,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Mějaŕ <span class='hostname'/> jo swójo websedło wopak konfigurěrował. Aby swóje informacije pśeśiwo tomu šćitał, až se kšadnu, njejo &brandShortName; z toś tym websedłom zwězało.">
 
+<!ENTITY certerror.introPara2 "&brandShortName; jo namakał potencielne wobgrozenje wěstoty a njejo togodla zwězał z <span class='hostname'/>. Jolic se k toś tomu sedłoju woglědujośo, mógli napadowarje wopytaś, daty ako waše gronidło, e-mailowe adrese abo drobnostki kreditowych kórtow kšadnuś.">
 
 <!ENTITY certerror.expiredCert.secondPara "Toś ten problem se nejskerjej zawinujo, dokulaž zeger wašogo licadła wopacny cas wužywa, což &brandShortName; pśi wěstem zwězowanju zajźujo.">
 
