@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "返回上一页（推荐）">
 <!ENTITY advanced.label "高级">
 
-<!ENTITY continue1.label "继续…">
+<!ENTITY continue2.label "更多选项…">
 <!ENTITY moreInformation.label "更多信息">
 
 <!-- Specific error messages -->
@@ -114,12 +114,12 @@
 
 <!ENTITY certerror.longpagetitle1 "您的连接并不安全">
 <!ENTITY certerror.longpagetitle2 "警告：面临潜在的安全风险">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> 的管理员没有正确配置好此网站。为避免您的信息失窃，&brandShortName; 并未与此网站建立连接。">
 
-<!ENTITY certerror.introPara1 "&brandShortName; 检测到潜在的安全威胁，因此没有继续访问 <span class='hostname'/>。若您访问此网站，攻击者可能会尝试窃取您的密码、电子邮件、信用卡等信息。">
+<!ENTITY certerror.introPara2 "&brandShortName; 检测到潜在的安全威胁，因此没有继续访问 <span class='hostname'/>。若您访问此网站，攻击者可能会尝试窃取您的密码、电子邮件、信用卡等信息。">
 
 <!ENTITY certerror.expiredCert.secondPara "这个问题大多是因为您的计算机时钟被设置为错误的时间，这会阻碍 &brandShortName; 的安全连接。">
 
@@ -152,6 +152,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
+
+<!ENTITY securityOverride.exceptionButton1Label "接受风险并继续">
 
 <!ENTITY errorReporting.automatic2 "报告此类错误，帮助 Mozilla 识别与拦截恶意网站">
 <!ENTITY errorReporting.learnMore "详细了解…">
