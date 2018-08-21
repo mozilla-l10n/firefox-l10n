@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Geri get (Məsləhərlidir)">
 <!ENTITY advanced.label "Təkmilləşmiş">
 
-<!ENTITY continue1.label "Davam et…">
+<!ENTITY continue2.label "Ətraflı…">
 <!ENTITY moreInformation.label "Daha çox məlumat">
 
 <!-- Specific error messages -->
@@ -95,12 +95,11 @@
 
 <!ENTITY certerror.longpagetitle1 "Bağlantınız qorumalı deyil">
 <!ENTITY certerror.longpagetitle2 "Diqqət: Qabaqda potensial təhlükə riski var">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> sahibi web saytı düzgün quraşdırmayıb. Məlumatlarınızın oğurlanmasının qarşısın almaq üçün &brandShortName; bu web sayta qoşulmadı.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; potensial təhlükə təhdidi aşkarladı və <span class='hostname'/> saytına davam etmədi. Əgər bu saytı ziyarət etsəniz hücüm edənlər parol, e-poçt və ya kredit kartı kimi məxfi məlumatlarınızı oğurlaya bilərlər.">
 
 <!ENTITY certerror.expiredCert.secondPara "Ola bilsin kompüterinizin saatı səhv qurulduğu üçün &brandShortName; səyyahı təhlükəsiz əlaqə qura bilmir.">
 
@@ -130,6 +129,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "İstisnalıq ver…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Riski qəbul et və davam et">
 
 <!ENTITY errorReporting.automatic2 "Bu kimi xətaları Mozillaya xəbər edərək təhlükəli saytları təyin edib bloklamaya kömək edə bilərsiz.">
 <!ENTITY errorReporting.learnMore "Ətraflı öyrən…">

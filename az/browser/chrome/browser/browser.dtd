@@ -979,6 +979,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Əngəlləmə əlavə et…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Problemləri Bildir">
+<!ENTITY contentBlocking.breakageReportView.label "Problemləri Bildir">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Ətraflı Öyrən">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "Ünvan">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; Versiya Nömrəsi">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hansı problemləriniz oldu? (Könüllü)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Hesabat Göndər">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Ləğv et">
+
 <!ENTITY trackingProtection.title "İzlənmə Qoruması">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; səhifənin səyahətinizi izləmə ehtimalı olan hissələrini əngəlləyir.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Bu saytda səyahətinizi izləmə ehtimalı olan məzmunlar var. Qorumanı söndürmüsünüz.">
