@@ -729,6 +729,7 @@ autoplay-option-allow =
     .label = Tillat autoavspilling
 autoplay-option-dont =
     .label = Ingen autoavspilling
+permissions-autoplay-link = Les mer
 permissions-block-popups =
     .label = Blokker sprettoppvinduer
     .accesskey = B
