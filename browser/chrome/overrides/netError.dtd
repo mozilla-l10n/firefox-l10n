@@ -11,7 +11,6 @@
 <!ENTITY returnToPreviousPage1.label "পেছনে যান (সুপারিশকৃত)">
 <!ENTITY advanced.label "উচ্চপর্যায়">
 
-<!ENTITY continue1.label "চালিয়ে যান...">
 <!ENTITY moreInformation.label "অধিক তথ্য">
 
 <!-- Specific error messages -->
@@ -58,7 +57,11 @@
 <!ENTITY notCached.longDesc "<p>&brandShortName;' এর ক্যাশে আপনি যে নথিটি চেয়েছেন তা পাওয়া যাচ্ছে না।</p><ul><li>নিরাপত্তার জন্য, &brandShortName; নাজুক নথির জন্য পুনরায় অনুরোধ পাঠাবে না।</li><li>আবার চেষ্টা করুন বাটনে ক্লিক করে ওয়েবসাইট থেকে নথিটি পুনরায় অনুরোধ করুন।</li></ul>">
 
 <!ENTITY netOffline.title "অফলাইন মোড">
-<!ENTITY netOffline.longDesc2 "<ul> <li>পাতা পুনরায় চালু করতে এবং অনলাইন মোড পরিবর্তন করতে &quot;আবার চেষ্টা করুন&quot; চাপুন।</li> </ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>পাতা পুনরায় চালু করতে এবং অনলাইন মোড পরিবর্তন করতে &quot;আবার চেষ্টা করুন&quot; চাপুন।</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "কন্টেন্টের এনকোডিং-এ ত্রুটি">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েবসাইট নির্মাতাদের অবগত করুন।</li> </ul>">
@@ -92,12 +95,11 @@
 
 <!ENTITY certerror.longpagetitle1 "আপনার সংযোগ নিরাপদ নয়">
 <!ENTITY certerror.longpagetitle2 "সতর্কতা: সামনে সম্ভাব্য নিরাপত্তা ঝুঁকি রয়েছে">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> এর মালিক তাদের ওয়েবসাইটটি ত্রুটিপূর্ণভাবে কনফিগার করেছেন।  আপনার তথ্যকে চুরি হয়ে যাওয়া থেকে বাঁচানোর জন্য &brandShortName; ওয়েবসাইটটির সাথে যুক্ত করা হয়নি।">
 
-<!ENTITY certerror.introPara1 "&brandShortName; একটি সম্ভাব্য নিরাপত্তার হুমকি সনাক্ত করেছে এবং <span class='hostname'/> কে চলতে দেয়নি। আপনি যদি এই সাইটে যান, আক্রমণকারীরা আপনার পাসওয়ার্ড, ইমেইল বা ক্রেডিট কার্ডের মত তথ্য চুরি করার চেষ্টা করতে পারে।">
 
 <!ENTITY certerror.expiredCert.secondPara "এই সমস্যাটি সবচেয়ে বড় সম্ভাব্য কারণ হতে পারে আপনার কম্পিউটারের ঘড়ি ভুল সময়ে সেট করা আছে, যা &brandShortName; নিরাপদ সংযোগ করে।">
 
@@ -106,7 +108,13 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
 <p>সমস্যাটি ওয়েবসাইটের নিজের হওয়ার সম্ভাবনা সবচেয়ে বেশি, আর এটি সমাধান করার জন্য আপনার করার কিছু নেই।</p><p> আপনি যদি কোনও কর্পোরেট নেটওয়ার্কে থাকেন বা এন্টি-ভাইরাস সফটওয়্যার ব্যবহার করেন, তাহলে সহায়তার জন্য আপনি সাপোর্ট টিমের সাথে কথা বলতে পারেন। আপনি সেই ওয়েবসাইট এর প্রশাসককেও সমস্যা সম্পর্কে অবহিত করতে পারেন।</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>আপনার কম্পিউটারের ঘড়ি <span id='wrongSystemTime_systemDate2'/> এ সেট করা আছে। আপনার কম্পিউটারের সিস্টেম সেটিংসে সঠিক তারিখ, সময়, এবং টাইম জোন সেট করা আছে, তা নিশ্চিত করুন, এবং তারপর <span class='hostname'/> এর রিফ্রেশ করুন।</p>
+<p>আপনার ঘড়িতে যদি সঠিক সময় নির্ধারণ করা থাকে, তার মানে হচ্ছে সম্ভবত ওয়েবসাইটেই ভুল বিন্যাসে রয়েছে, এবং সমস্যাটি সমাধানের জন্য আপনা কিছুই করার নাই। আপনি সমস্যা সম্পর্কে ওয়েবসাইট এর প্রশাসককে অবহিত করতে পারেন</p>">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>এই সমস্যাটি ওয়েবসাইটের হওয়ার সম্ভাবনা সবচেয়ে বেশি এবং এটির সমাধান করার জন্য আপনার করার কিছুই নেই। আপনি সমস্যা সম্পর্কে ওয়েবসাইট এর প্রশাসককে অবহিত করতে পারেন</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>সাইটটি সম্ভবত সাময়িকভাবে অকার্যকর বা অত্যন্ত ব্যস্ত। কিছুক্ষন পর আবার চেষ্টা করুন।</li> <li>কোন পাতাই লোড করা সম্ভব না হলে আপনার কম্পিউটারের নেটওয়ার্ক সংযোগ পরীক্ষা করুন।</li> <li>আপনার কম্পিউটার বা নেটওয়ার্ক যদি কোনো ফায়ারওয়াল অথবা প্রক্সি দিয়ে সুরক্ষিত থাকে, &brandShortName; কে ওয়েবে সংযোগ করার অনুমতি প্রদান করা হয়েছে কিনা তা পরীক্ষা করুন।</li> </ul>">
 
@@ -118,6 +126,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্রম যোগ…">
+
 
 <!ENTITY errorReporting.automatic2 "মজিলাকে এই ধরনের প্রতিবেদন দিয়ে ক্ষরিকারক সাইট চিহ্নিত এবং অবরুদ্ধ করতে সাহায্য করুন।">
 <!ENTITY errorReporting.learnMore "আরও জানুন…">
@@ -137,7 +146,9 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; আপনার <span id='wrongSystemTimeWithoutReference_URL'/> সাথে সংযোগ স্থাপন করেনি। কারণ আপনার কম্পিউটারের ঘড়ি ভুল সময় প্রদর্শন করছে, যা নিরাপদ সংযোগ স্থাপনের অন্তরায়।</p><p>আপনার কম্পিউটার <span id='wrongSystemTimeWithoutReference_systemDate'/> সেট করা রয়েছে। এই সমস্যা দূর করতে, আপনার তারিখ ও সময়ের সেটিং সঠিক করুন।</p>">
 
 <!ENTITY certerror.pagetitle1  "অনিরাপদ সংযোগ">
+<!ENTITY certerror.pagetitle2  "সতর্কতা: সামনে সম্ভাব্য নিরাপত্তা ঝুঁকি রয়েছে">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "সাইটটি HTTP ব্যবহার করে পরিবহনে সর্বোচ্চ নিরাপত্তা (HSTS) নিশ্চিত করে যে &brandShortName; এর সাথে শুধুমাত্র সুরক্ষিত সংযোগ করবে। যার ফলে, এই সার্টিফিকেট এর জন্যে একটি ব্যতিক্রম যোগ করা যাবেনা।">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> এর HTTP স্ট্রিক্ট ট্রান্সপোর্ট সিকিউরিটি (এইচএসটিএস) নামে একটি নিরাপত্তা নীতি রয়েছে, যার মানে হল যে &brandShortName; শুধুমাত্র নিরাপদভাবে সংযোগ করতে পারবে। আপনি এই সাইট দেখার জন্য কোন ব্যতিক্রম যোগ করতে পারবেন না।">
 <!ENTITY certerror.copyToClipboard.label "লেখা ক্লিপবোর্ডে অনুলিপি করুন।">
 
 <!ENTITY inadequateSecurityError.title "আপনার সংযোগ নিরাপদ নয়">
@@ -147,6 +158,8 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "ব্লক করা পাতা">
 
+<!ENTITY clockSkewError.title "আপনার কম্পিউটারের ঘড়ি ভুল">
+<!ENTITY clockSkewError.longDesc "আপনার কম্পিউটার মনে করে এটি <span id='wrongSystemTime_systemDate1'/>, যা &brandShortName; কে নিরাপদভাবে সংযুক্ত হওয়া থেকে বিরত রাখছে। <span class='hostname'></span> এ ভিজিট করতে হলে, আপনার সিস্টেম সেটিংসে গিয়ে আপনার কম্পিউটারের ঘড়ির বর্তমান তারিখ, সময় এবং সময় অঞ্চল আপডেট করুন এবং তারপর <span class='hostname'></span> রিফ্রেশ করুন।">
 
 <!ENTITY prefReset.longDesc "আপনার নেটওয়ার্কের সুরক্ষা সেটিং এই সমস্যা কারণ বলে প্রতীয়মান হচ্ছে। আপনি কি সেটিং পূর্বাবস্থায় ফিরিয়ে নিতে চান?">
 <!ENTITY prefReset.label "ডিফল্ট সেটিং পুনঃস্থাপন করুন">
