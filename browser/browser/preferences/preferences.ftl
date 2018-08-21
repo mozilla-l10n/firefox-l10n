@@ -735,6 +735,9 @@ autoplay-option-allow =
     .label = consenti riproduzione
 autoplay-option-dont =
     .label = non riprodurre
+
+permissions-autoplay-link = Ulteriori informazioni
+
 permissions-block-autoplay-media-exceptions =
     .label = Eccezioni…
     .accesskey = E
