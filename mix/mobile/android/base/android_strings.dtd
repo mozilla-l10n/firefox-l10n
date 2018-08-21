@@ -372,6 +372,7 @@
 
 <!ENTITY pref_media_autoplay_enabled "A kunu kitsai mitu\&apos;in">
 <!ENTITY pref_media_autoplay_enabled_summary "Kuachu\&apos;un sitio web kuu ku\&apos;ncheu ña ndatavana tsi inka kue\&apos;ñaa medios de comunicación">
+<!ENTITY pref_media_autoplay_allow "A kunu kitsai mituin">
 <!ENTITY pref_media_autoplay_block "Kasi ña kitsa mituin">
 <!ENTITY pref_zoom_force_enabled "Ki\&apos;tsa tsi ñanda saa kanu">
 <!ENTITY pref_zoom_force_enabled_summary "ndasama nishi chau tava na ku kuncheu nti\&apos;i página">
@@ -905,3 +906,4 @@ Picture-in-picture mini window -->
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "&vendorShortName; Nduku nchi inkau">
+<!ENTITY download_notification_channel "Ña\&apos;a snuù">
