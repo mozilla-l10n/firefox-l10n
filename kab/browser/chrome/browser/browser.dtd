@@ -979,6 +979,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Asewḥel n udellel…">
 
+<!ENTITY contentBlocking.breakageReportView.learnMore "Issin ugar">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; Amḍan n lqem">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Azen aneqqis">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Sefsex">
+
 <!ENTITY trackingProtection.title "Ammesten mgal asfuɣel">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; issewḥel kra n yiḥricen n usebter izemren ad sfuɣlen tunigin-ik.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Asmel-a igber iferdisen i izemren ad sfuɣlen tunigin-ik. Tekkseḍ ammesten.">
