@@ -607,6 +607,31 @@ sitedata-accept-third-party-visited-option =
     .label = dai siti visitati
 sitedata-accept-third-party-never-option =
     .label = mai
+
+sitedata-allow-cookies-option =
+    .label = Accetta cookie e dati dei siti web
+    .accesskey = A
+
+sitedata-disallow-cookies-option =
+    .label = Blocca cookie e dati dei siti web
+    .accesskey = B
+
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Contenuti bloccati
+    .accesskey = C
+
+sitedata-block-trackers-option-recommended =
+    .label = Elementi traccianti di terze parti (consigliato)
+sitedata-block-trackers-option =
+    .label = Elementi traccianti di terze parti
+sitedata-block-unvisited-option =
+    .label = Cookie da siti web non visitati
+sitedata-block-all-third-parties-option =
+    .label = Tutti i cookie di terze parti
+sitedata-block-always-option =
+    .label = Tutti i cookie (potrebbe causare malfunzionamenti in alcuni siti)
+
 sitedata-clear =
     .label = Elimina dati…
     .accesskey = i
