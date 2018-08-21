@@ -981,7 +981,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView.label "Rapportera problem">
 <!ENTITY contentBlocking.breakageReportView.label "Rapportera problem">
+<!ENTITY contentBlocking.breakageReportView.description "Innehållsblockering kan orsaka problem med vissa webbplatser. När du rapporterar problem hjälper du till att göra &brandShortName; bättre för alla. (Detta kommer att skicka en URL samt information om dina sekretess- och innehållsblockeringsinställningar till Mozilla.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Läs mer">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; versionsnummer">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Vilka problem har du haft? (Frivillig)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Skicka rapport">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Avbryt">
 
