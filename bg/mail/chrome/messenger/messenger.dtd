@@ -727,7 +727,7 @@
 <!ENTITY attachmentColumn.label "Прикачени файлове">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser2.tooltip "Избиране на колони, които да се показват">
+<!ENTITY columnChooser2.tooltip "Избиране на видимите колони">
 <!ENTITY threadColumn2.tooltip "Показване на нишките на съобщенията">
 <!ENTITY fromColumn2.tooltip "Сортиране по подател">
 <!ENTITY recipientColumn2.tooltip "Сортиране по получател">
