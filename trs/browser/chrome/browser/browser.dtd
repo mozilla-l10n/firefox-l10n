@@ -419,15 +419,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Na'nït sa nagi'iaj Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Gayi'ì sesión da' ni'iaj nej rakïj ñaj asij riña a'ngo si agat.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Da'ui' ma ganatsij ma si kuentat">
+<!ENTITY appMenuRemoteTabs.signin.label "Gatu' riña Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Nagi'iaj chre' nej aga'a...">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Ni'io' nej rakïnj ñaj nūn dukuán nahuìi">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Ganachun' 'ngà a'ngo aga'a...">
 
+<!ENTITY appMenuRecentHighlights.label "Sa yitïnj doj">
 
+<!ENTITY customizeMenu.addToToolbar.label "Nuto' dukuán rasùun">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.label "Nuto' riña menu">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Nuto' riña menu">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
+<!ENTITY customizeMenu.moveToToolbar.label "Dùsiki' ga'an riña dukuán rasùun">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
