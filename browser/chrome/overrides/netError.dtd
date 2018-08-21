@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Gå tilbake (Anbefalt)">
 <!ENTITY advanced.label "Avansert">
 
-<!ENTITY continue1.label "Fortsett…">
+<!ENTITY continue2.label "Mer…">
 <!ENTITY moreInformation.label "Mer informasjon">
 
 <!-- Specific error messages -->
@@ -98,12 +98,11 @@
 
 <!ENTITY certerror.longpagetitle1 "Tilkoblingen din er ikke sikker">
 <!ENTITY certerror.longpagetitle2 "Advarsel: Potensiell sikkerhetsrisiko forut">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Eieren av <span class='hostname'/> har konfigurert nettstedet sitt feil.  For å beskytte mot at informasjon stjeles, har &brandShortName; ikke koblet til dette nettstedet.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; oppdaget en potensiell sikkerhetstrussel og fortsatte ikke til <span class='hostname'/>. Hvis du besøker dette nettstedet, kan angriperne prøve å stjele informasjon som passord, e-post eller kredittkort.">
 
 <!ENTITY certerror.expiredCert.secondPara "Dette problemet er mest sannsynlig fordi datamaskinens klokke er satt til feil tid, noe som ville forhindre &brandShortName; fra å koble til sikkert.">
 
@@ -133,6 +132,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Lag et unntak …">
+
 
 <!ENTITY errorReporting.automatic2 "Rapporter feil som dette for å hjelpe Mozilla med å identifisere og blokkere skadelige nettsteder.">
 <!ENTITY errorReporting.learnMore "Les mer …">
