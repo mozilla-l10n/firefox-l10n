@@ -910,3 +910,4 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "Служба месцазнаходжання &vendorShortName;">
 <!ENTITY download_notification_channel "Сцягванні">
+<!ENTITY media_notification_channel "Прайграванне медыя">
