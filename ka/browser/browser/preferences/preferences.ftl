@@ -605,6 +605,16 @@ sitedata-accept-third-party-visited-option =
     .label = მხოლოდ მონახულებულიდან
 sitedata-accept-third-party-never-option =
     .label = არასდროს
+sitedata-allow-cookies-option =
+    .label = ფუნთუშებისა და საიტის მონაცემები მიღება
+    .accesskey = ღ
+sitedata-disallow-cookies-option =
+    .label = ფუნთუშები და საიტის მონაცემების შეზღუდვა
+    .accesskey = ზ
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = შეზღუდული შიგთავსი
+    .accesskey = გ
 sitedata-clear =
     .label = მონაცემთა გასუფთავება…
     .accesskey = მ
@@ -729,6 +739,7 @@ autoplay-option-allow =
     .label = თვითგაშვების დაშვება
 autoplay-option-dont =
     .label = თვითგაშვების გარეშე
+permissions-autoplay-link = იხილეთ ვრცლად
 permissions-block-popups =
     .label = ამომხტომი ფირნიშების შეზღუდვა
     .accesskey = დ
