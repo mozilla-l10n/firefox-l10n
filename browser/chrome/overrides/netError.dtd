@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "返回上一頁（建議）">
 <!ENTITY advanced.label "進階">
 
-<!ENTITY continue1.label "繼續…">
+<!ENTITY continue2.label "更多…">
 <!ENTITY moreInformation.label "更多資訊">
 
 <!-- Specific error messages -->
@@ -134,12 +134,12 @@
 
 <!ENTITY certerror.longpagetitle1 "您的連線並不安全">
 <!ENTITY certerror.longpagetitle2 "警告: 本網站可能有安全性風險">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> 的網站管理員未正確設定好網站。為了確保您的資訊不會被盜走，&brandShortName; 並未連線至該網站。">
 
-<!ENTITY certerror.introPara1 "&brandShortName; 偵測到潛在的安全性風險，沒有繼續開啟 <span class='hostname'/>。若您開啟此網站，攻擊者可能會嘗試偷走您的密碼、郵件、信用卡號等資訊。">
+<!ENTITY certerror.introPara2 "&brandShortName; 偵測到可能有安全性風險，並未連線至 <span class='hostname'/>。若您要造訪此網站，攻擊者可能會嘗試偷走您的密碼、電子郵件或信用卡資料等個資。">
 
 <!ENTITY certerror.expiredCert.secondPara "這個問題最有可能是因為您的系統時間不準，造成 &brandShortName; 無法安全地連線到該網站。">
 
@@ -170,6 +170,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "新增例外網站…">
+
+<!ENTITY securityOverride.exceptionButton1Label "接受風險並繼續">
 
 <!ENTITY errorReporting.automatic2 "回報這類的錯誤，幫助 Mozilla 找出並封鎖惡意網站">
 <!ENTITY errorReporting.learnMore "更多資訊…">

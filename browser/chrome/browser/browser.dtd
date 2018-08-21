@@ -979,6 +979,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "新增封鎖項目…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "回報問題">
+<!ENTITY contentBlocking.breakageReportView.label "回報問題">
+<!ENTITY contentBlocking.breakageReportView.description "內容封鎖功能可能會造成某些網站運作不正常。若您能回報問題，就可以幫助所有人的 &brandShortName; 變得更好。（將會傳送網址，以及您的隱私保護及內容封鎖設定內容給 Mozilla。）">
+<!ENTITY contentBlocking.breakageReportView.learnMore "了解更多">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "網址">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; 版本號">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "您遇到什麼問題？（選填）">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "傳送回報">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "取消">
+
 <!ENTITY trackingProtection.title "追蹤保護">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; 已經封鎖頁面裡的部分元素，以防止您的瀏覽行為被其追蹤。">
 <!ENTITY trackingProtection.detectedNotBlocked3 "此網站包含可能會追蹤您瀏覽行為的元素，但您已停用保護。">
