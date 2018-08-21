@@ -981,6 +981,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView.label "Αναφορά προβλημάτων">
 <!ENTITY contentBlocking.breakageReportView.label "Αναφορά προβλημάτων">
+<!ENTITY contentBlocking.breakageReportView.description "Η Φραγή περιεχομένου μπορεί να προκαλέσει προβλήματα με ορισμένες ιστοσελίδες. Όταν αναφέρετε το πρόβλημά σας, συνεισφέρετε στη βελτίωση του &brandShortName; για όλους. (Θα αποσταλεί ένα URL, καθώς και πληροφορίες για το απόρρητό σας και τις ρυθμίσεις φραγής περιεχομένου στη Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Μάθετε περισσότερα">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Αριθμός έκδοσης &brandShortName;">
