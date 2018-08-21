@@ -910,3 +910,4 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "&vendorShortName; స్థాన సేవ">
 <!ENTITY download_notification_channel "దింపుకోళ్ళు">
+<!ENTITY media_notification_channel "మీడియా ప్లేబ్యాక్">
