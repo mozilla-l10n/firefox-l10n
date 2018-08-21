@@ -979,6 +979,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "შეზღუდვის დამატება…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "ხარვეზების მოხსენება">
+<!ENTITY contentBlocking.breakageReportView.label "ხარვეზების მოხსენება">
+<!ENTITY contentBlocking.breakageReportView.description "შიგთავსის შეზღუდვამ შესაძლოა გამოიწვიოს ხარვეზები ვებსაიტებზე. მსგავსი ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, გავხადოთ &brandShortName; უკეთესი თითოეული მომხმარებლისთვის. (შედეგად Mozilla-ში გადაიგზავნება როგორც საიტის URL-ბმული, ასევე თქვენი პირადულობისა და შიგთავსის შეზღუდვის პარამეტრები)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "იხილეთ ვრცლად">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "მისამართი">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; ვერსიის ნომერი">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "რა ხარვეზები აღმოაჩინეთ? (არასავალდებულო)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "მოხსენების გაგზავნა">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "გაუქმება">
+
 <!ENTITY trackingProtection.title "თვალთვალისგან დაცვა">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ზღუდავს საიტის იმ ნაწილებს, რომლებსაც თქვენს მოქმედებებზე თვალყურის დევნება შეუძლია.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "საიტი შეიცავს ნაწილებს, რომელიც შესაძლოა თქვენს მოქმედებებს აღრიცხავდეს. დაცვა ამჟამად, გამორთული გაქვთ.">

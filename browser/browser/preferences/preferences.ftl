@@ -615,6 +615,16 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = შეზღუდული შიგთავსი
     .accesskey = გ
+sitedata-block-trackers-option-recommended =
+    .label = ცალკეული მეთვალყურეები (სასურველია)
+sitedata-block-trackers-option =
+    .label = ცალკეული მეთვალყურეები
+sitedata-block-unvisited-option =
+    .label = ფუნთუშები მოუნახულებელი გვერდებიდან
+sitedata-block-all-third-parties-option =
+    .label = მესამე მხარის ყველა ფუნთუშა
+sitedata-block-always-option =
+    .label = ყველა ფუნთუშა (შესაძლოა საიტებმა ვერ იმუშაოს გამართულად)
 sitedata-clear =
     .label = მონაცემთა გასუფთავება…
     .accesskey = მ
