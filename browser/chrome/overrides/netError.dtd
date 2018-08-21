@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Retour (recommandé)">
 <!ENTITY advanced.label "Avancé">
 
-<!ENTITY continue1.label "Continuer…">
+<!ENTITY continue2.label "Plus…">
 <!ENTITY moreInformation.label "Plus d’informations">
 
 <!-- Specific error messages -->
@@ -136,12 +136,11 @@
 
 <!ENTITY certerror.longpagetitle1 "La connexion n’est pas sécurisée">
 <!ENTITY certerror.longpagetitle2 "Attention : risque probable de sécurité">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Les propriétaires de <span class='hostname'/> ont mal configuré leur site web. Pour éviter que vos données ne soient dérobées, &brandShortName; ne s’est pas connecté à ce site web.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; a détecté une menace relative à la sécurité et n’a pas accédé à <span class='hostname'/>. Si vous visitez ce site, des attaquants pourraient intercepter vos informations telles que vos mots de passe, courriels ou vos cartes bancaires.">
 
 <!ENTITY certerror.expiredCert.secondPara "Ce problème est probablement dû au fait que l’horloge de votre ordinateur est déréglée, ce qui empêche &brandShortName; de se connecter de façon sécurisée.">
 
@@ -174,6 +173,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ajouter une exception…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Accepter le risque et poursuivre">
 
 <!ENTITY errorReporting.automatic2 "Signaler les erreurs similaires pour aider Mozilla à identifier et bloquer les sites malveillants">
 <!ENTITY errorReporting.learnMore "En savoir plus…">
