@@ -615,6 +615,10 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tipo bloqueado
     .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = Rastreadores de terceiros (recomendado)
+sitedata-block-trackers-option =
+    .label = Rastreadores de terceiros
 sitedata-block-unvisited-option =
     .label = Cookies de sites não visitados
 sitedata-block-all-third-parties-option =
