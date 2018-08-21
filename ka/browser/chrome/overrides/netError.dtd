@@ -194,6 +194,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "გამონაკლისის დამატება…">
 
+<!ENTITY securityOverride.exceptionButton1Label "საფრთხის გაცნობიერება და გაგრძელება">
 
 <!ENTITY errorReporting.automatic2 "მოახსენეთ Mozilla-ს მსგავსი შეცდომების შესახებ, რომ დაეხმაროთ მავნე საიტების აღმოჩენასა და მათ შეზღუდვაში">
 <!ENTITY errorReporting.learnMore "ვრცლად…">
