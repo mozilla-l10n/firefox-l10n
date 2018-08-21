@@ -102,6 +102,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Imawlan n <span class='hostname'/> ur sewlen ara akken iwata asmel-nsen.  Iwakken ad tettummesten telɣut-inek seg takwerḍa, &brandShortName; ur yeqqin ara ɣeṛ usmel-a web.">
 
+<!ENTITY certerror.introPara2 "&brandShortName; yufa-d dakken izmer ad yili ugur n teɣlist u ur ikemmel ara ɣer <span class='hostname'/>. Ma terziḍ ɣer usmel, Imakwaren zemren ad ɛerḍen ad akren talɣut yecban awalen uffiren, imaylen, neɣ talqayt n tkerḍa n usmad.">
 
 <!ENTITY certerror.expiredCert.secondPara "Ugur-agi ad yili iḍra-d imi akud n uselkim-inek mačči d ameɣtu, aya issewḥel tuqna n &brandShortName; s tɣellist.">
 

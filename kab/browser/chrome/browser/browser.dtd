@@ -982,6 +982,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.learnMore "Issin ugar">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; Amḍan n lqem">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "D acu n wuguren i tesɛiḍ? (afrayan)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Azen aneqqis">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Sefsex">
 
