@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Вярнуцца (рэкамендуецца)">
 <!ENTITY advanced.label "Дадаткова">
 
-<!ENTITY continue1.label "Працягнуць…">
+<!ENTITY continue2.label "Больш…">
 <!ENTITY moreInformation.label "Больш звестак">
 
 <!-- Specific error messages -->
@@ -130,12 +130,12 @@
 
 <!ENTITY certerror.longpagetitle1 "Вашае злучэнне не бяспечнае">
 <!ENTITY certerror.longpagetitle2 "Папярэджанне: наперадзе патэнцыяльная пагроза бяспецы">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Уладальнік <span class='hostname'/> наладзіў свой вэб-сайт няправільна.  Каб абараніць вашы звесткі ад крадзяжу, &brandShortName; не злучаўся з сайтам.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; выявіў патэнцыяльную пагрозу бяспецы і не працягнуў пераход на <span class='hostname'/>. Калі вы наведаеце гэты сайт, нападнікі могуць паспрабаваць скрасці вашу інфармацыю, такую як паролі, адрасы электроннай пошты ці дадзеныя крэдытных картак.">
+<!ENTITY certerror.introPara2 "&brandShortName; выявіў патэнцыяльную пагрозу бяспецы і не перайшоў да <span class='hostname'/>. Калі вы наведаеце гэты сайт, зламыснікі могуць паспрабаваць скрасці вашу інфармацыю, такую як паролі, адрасы электроннай пошты або дадзеныя крэдытных карт.">
 
 <!ENTITY certerror.expiredCert.secondPara "Гэтая праблема хутчэй за ўсё звязана з няправільна настаўленым часам на вашым камп'ютары, што можа перашкаджаць &brandShortName; злучыцца бяспечна.">
 
@@ -174,6 +174,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Дадаць выключэнне…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Прыняць рызыку і працягнуць">
 
 <!ENTITY errorReporting.automatic2 "Паведамляць пра памылкі такога кшталту, каб дапамагчы Mozilla выяўляць і блакаваць зламысныя сайты">
 <!ENTITY errorReporting.learnMore "Даведацца больш…">
