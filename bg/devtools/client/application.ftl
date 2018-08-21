@@ -22,8 +22,8 @@ serviceworker-worker-unregister = Отмяна на регистрацията
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
-serviceworker-worker-debug = Отстраняване на грешки
-    .title = Грешки могат да бъда отстранявани само работещи обслужващи нишки
+serviceworker-worker-debug = Отстраняване на дефекти
+    .title = Дефекти могат да бъда отстранявани само от работещи обслужващи нишки
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Включване

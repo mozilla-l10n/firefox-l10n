@@ -8,7 +8,7 @@
 <!ENTITY stretch.label              "Разтеглено">
 <!ENTITY fill.label                 "Запълване">
 <!ENTITY fit.label                  "Нагласено">
-<!ENTITY preview.label              "Предварителен преглед">
+<!ENTITY preview.label              "Преглед">
 <!ENTITY color.label                "Цвят:">
 <!ENTITY setDesktopBackground.title "Задаване като фон на работния плот">
 <!ENTITY openDesktopPrefs.label     "Отваряне настройките на работния плот">
