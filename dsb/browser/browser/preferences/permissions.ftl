@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Dowólone sedła - awtomatiske wótgraśe
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Móžośo pódaś, kótare websedła směju medijowe elementy awtomatiski wótgraś. Zapódajśo eksaktnu adresu sedła, kótaremuž cośo to dowóliś a klikniśo pótom na Dowóliś.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Wuwześe - awtomatiske wótgraśe
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Móžośo pódaś, kótare websedła pśecej směju abo nigda njesměju medije awtomatiski ze zukom wótgraś. Zapódajśo adresu sedła, kótarež cośo zastojaś a klikniśo pótom na Blokěrowaś abo Dowóliś.
 
 ## Site Permissions - Notifications
