@@ -375,7 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "সাইডবার">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "কাস্টোমাইজ…">
+<!ENTITY viewCustomizeToolbar.label       "নিজের পছন্দানুযায়ী নির্বাচন…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "কাস্টোমাইজ টুলবার…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
@@ -544,26 +544,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "অনুসন্ধান সেটিং বদল করুন">
-<!ENTITY changeSearchSettings.tooltip "অনুসন্ধানের সেটিং বদল করুন">
+<!ENTITY changeSearchSettings.tooltip "অনুসন্ধান সেটিংস পরিবর্তন করুন">
 
 <!ENTITY searchInNewTab.label         "নতুন ট্যাবে অনুসন্ধান T">
 <!ENTITY searchInNewTab.accesskey     "T">
-<!ENTITY searchSetAsDefault.label     "ডিফল্ট অনুসন্ধান ইঞ্জিন হিসেবে সেট কর D">
+<!ENTITY searchSetAsDefault.label     "ডিফল্ট অনুসন্ধান ইঞ্জিন হিসেবে সেট করুন">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
-<!ENTITY openLinkCmdInTab.label       "নতুন ট্যাবে লিঙ্ক খুলুন">
+<!ENTITY openLinkCmdInTab.label       "একটি নতুন ট্যাবে লিঙ্ক খুলুন">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "নতুন উইন্ডোতে লিঙ্ক খুলুন">
+<!ENTITY openLinkCmd.label            "একটি নতুন উইন্ডোতে লিঙ্ক খুলুন">
 <!ENTITY openLinkCmd.accesskey        "W">
 <!ENTITY openLinkInPrivateWindowCmd.label "নতুন উইন্ডোতে লিঙ্ক খুলুন">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "লিঙ্ক খুলুন O">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "নতুন ট্যাবে ফ্রেম খুলুন">
+<!ENTITY openFrameCmdInTab.label      "একটি নতুন ট্যাবে ফ্রেম খুলুন">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "নতুন উইন্ডোতে ফ্রেম খুলুন">
+<!ENTITY openFrameCmd.label           "একটি নতুন উইন্ডোতে ফ্রেম খুলুন">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "নতুন কন্টেইনার ট্যাবে লিঙ্ক খুলুন">
+<!ENTITY openLinkCmdInContainerTab.label "একটি নতুন কন্টেইনার ট্যাবে লিঙ্ক খুলুন">
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "শুধুমাত্র এই ফ্রেমটি প্রদর্শন করা হবে">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
@@ -616,7 +616,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "ফ্রেম মুদ্রণ…">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "লিঙ্ক নতুনভাবে সংরক্ষণ…">
+<!ENTITY saveLinkCmd.label            "লিঙ্কটি নতুনভাবে সংরক্ষণ…">
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "ছবি নতুনভাবে সংরক্ষণ…">
 <!ENTITY saveImageCmd.accesskey       "v">
@@ -634,7 +634,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "প্লাগইনটি আড়াল করুন">
 <!ENTITY hidePluginCmd.accesskey      "H">
-<!ENTITY copyLinkCmd.label            "লিঙ্কের ঠিকানা অনুলিপি">
+<!ENTITY copyLinkCmd.label            "লিঙ্কটির ঠিকানা অনুলিপি করুন">
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
@@ -821,7 +821,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher2 "যে কেউ আপনার দেয়া তথ্য দেখতে পারে বা ওয়েব সাইটের আচরন পরিবর্তন করতে পারে।">
 <!ENTITY identity.description.activeBlocked "&brandShortName; নিরাপদ নয় তাই এই পাতার কিছু অংশ ব্লক করা হয়েছে।">
 <!ENTITY identity.description.passiveLoaded "আপনার সংযোগটি ব্যক্তিগত নয় এবং এই সাইটে আপনার শেয়ার করা তথ্য অন্যদের দ্বারা দেখা যেতে পারে।">
-<!ENTITY identity.description.passiveLoaded2 "এই ওয়েবসাইটে কিছু অনিরাপদ কন্টেন্ট রয়েছে (যেমন ছবি)।">
+<!ENTITY identity.description.passiveLoaded2 "এই ওয়েবসাইটে এমন কিছু কন্টেন্ট রয়েছে যা নিরাপদ নয় (যেমন ছবি)।">
 <!ENTITY identity.description.passiveLoaded3 "যদিও &brandShortName; কিছু কন্টেন্ট প্রতিরোধ করেছে, তবুও পাতাটিতে এখনও কিছু কন্টেন্ট আছে যা নিরাপদ নয় (যেমন ছবি)।">
 <!ENTITY identity.description.activeLoaded "এই ওয়েবসাইটে যে বিষয়বস্তু রয়েছে তা নিরাপদ নয় (যেমন স্ক্রিপ্ট) এবং আপনার সংযোগটি ব্যক্তিগত নয়।">
 <!ENTITY identity.description.activeLoaded2 "আপনার এই সাইটে শেয়ার করা তথ্য অন্যরা দেখতে পারেন (যেমন পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড, ইত্যাদি।)।">
@@ -978,6 +978,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "ব্লকিং যুক্ত করুন...">
+
 
 <!ENTITY trackingProtection.title "ট্রাকিং সুরক্ষা">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; পাতাটির এই অংশগুলি প্রতিরোধ করেছে যা আপনার ব্রাউজিং ট্র্যাক করতে পারে।">

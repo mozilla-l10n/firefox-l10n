@@ -20,7 +20,7 @@
 <!ENTITY tabCrashed.single.offerHelpMessage2 "পাতার কন্টেন্ট রিলোড করতে &tabCrashed.restoreTab; নির্বাচন করুণ।">
 <!ENTITY tabCrashed.multiple.offerHelpMessage2 "&tabCrashed.restoreTab; অথবা &tabCrashed.restoreAll; নির্বাচন করুণ পাতা/পাতাগুলি রিলোড করতে।">
 <!ENTITY tabCrashed.requestHelp "আপনি কি আমাদের সাহায্য করবেন?">
-<!ENTITY tabCrashed.requestHelpMessage "ক্রাশ রিপোর্ট আমাদের সমস্যা নির্ণয় ও সমাধানে সহায়তা করবে এবং &brandShortName; কে আরও ভাল করবে।">
+<!ENTITY tabCrashed.requestHelpMessage "ক্রাশ রিপোর্ট আমাদের সমস্যা নির্ণয় ও সমাধান এবং &brandShortName; কে আরও উন্নত করবে।">
 <!ENTITY tabCrashed.requestReport "ট্যাব রিপোর্ট করুন">
 <!ENTITY tabCrashed.sendReport3 "একটি স্বয়ংক্রিয় ক্র্যাশ প্রতিবেদন প্রেরণ করুন যাতে আমরা এইরকম সমস্যাবলির সমাধান করতে পারি।">
 <!ENTITY tabCrashed.commentPlaceholder2 "ঐচ্ছিক মন্তব্য (মন্তব্যগুলো সবাই দেখতে পাবে)">
@@ -28,5 +28,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "এখানে আপনার ইমেইল ঠিকানা দিন">
 <!ENTITY tabCrashed.emailMe "আমাকে ইমেইল করুন যখন আরও তথ্য পাওয়া যাবে">
 <!ENTITY tabCrashed.reportSent "ক্র্যাশ রিপোর্ট ইতিমধ্যে জমা হয়ে গেছে; ধন্যবাদ &brandShortName; বানাতে সাহায্য করবার জন্য এবং আরও ভালো করবার জন্য!">
-<!ENTITY tabCrashed.requestAutoSubmit2 "ব্যাকগ্রাউন্ড ট্যাব রিপোর্ট করুন">
+<!ENTITY tabCrashed.requestAutoSubmit2 "ব্যাকগ্রাউন্ডে থাকা ট্যাব রিপোর্ট করুন">
 <!ENTITY tabCrashed.autoSubmit3 "আপনার পছন্দসমূহ হালনাগাদ করুন যেন &brandShortName; ক্র্যাশ করলে স্বয়ংক্রিয়ভাবে প্রতিবেদন জমা করে।">

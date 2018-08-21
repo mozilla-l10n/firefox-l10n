@@ -29,4 +29,4 @@
 
 <!-- LOCALIZATION NOTE (shaderEditorUI.emptyNotice): This is the label shown
   -  while the page is refreshing and the tool waits for a WebGL context. -->
-<!ENTITY shaderEditorUI.emptyNotice     "একটি ওয়েবজিএল কন্টেন্ট তৈরীর জন্য অপেক্ষমাণ...">
+<!ENTITY shaderEditorUI.emptyNotice     "একটি WebGL কন্টেন্ট তৈরীর জন্য অপেক্ষমাণ...">
