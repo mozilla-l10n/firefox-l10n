@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "પાછા જાઓ (ભલામણ કરેલ)">
 <!ENTITY advanced.label "અદ્યતન">
 
-<!ENTITY continue1.label "ચાલુ રાખો…">
+<!ENTITY continue2.label "વધુ…">
 <!ENTITY moreInformation.label "વધુ મહિતી">
 
 <!-- Specific error messages -->
@@ -94,12 +94,11 @@
 
 <!ENTITY certerror.longpagetitle1 "તમારું જોડાણ સુરક્ષિત નથી">
 <!ENTITY certerror.longpagetitle2 "ચેતવણી: આગળ સંભવિત સુરક્ષા જોખમ">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> ના માલિકે તેમની વેબસાઇટ અયોગ્ય રીતે ગોઠવેલી છે.   તમારી માહિતીને ચોરાઇ જવાથી સુરક્ષિત કરવા માટે, &brandShortName; આ વેબસાઇટથી જોડાણ કરેલ નથી.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; સંભવિત સુરક્ષા ધમકી મળી અને <span class='hostname'/>ને ચાલુ રાખ્યું ન હતું. જો તમે આ સાઇટની મુલાકાત લો છો, તો હુમલાખોરો તમારા પાસવર્ડ્સ, ઇમેઇલ્સ અથવા ક્રેડિટ કાર્ડ જેવી માહિતી ચોરી કરવાનો પ્રયાસ કરી શકે છે.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "તમે તેના વિશે શું કરી શકો?">
@@ -117,6 +116,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "અપવાદ એડ-ઓન">
+
+<!ENTITY securityOverride.exceptionButton1Label "જોખમ સ્વીકારો અને ચાલુ રાખો">
 
 <!ENTITY errorReporting.automatic2 "Mozilla ને દૂષિત સાઇટ્સ ઓળખવા અને બ્લૉક કરવા માટે આની જેવી ભૂલોની જાણ કરો">
 <!ENTITY errorReporting.learnMore "વધુ શીખો…">
@@ -136,6 +137,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; એ <span id='wrongSystemTimeWithoutReference_URL'/> ની સાથે જોડાય નહી શકે કારણકે તમારાં કમ્પ્યુટરની ઘડિયાળ ખોટો સમય બતાવી રહી છે અને આ સુરક્ષિત જોડાણમાં રુકાવટ ઊભી કરે છે.</p> <p> તમારું કમ્પ્યુટર <span id='wrongSystemTimeWithoutReference_systemDate'/> માં મૂકેલું છે. આ સમસ્યાનાં ઉકેલ માટે, સાચા સમય સાથે સમાનરુપ થવા તમારા તારીખ અને સમયનાં સેટીંંગ્સ બદલો.</p>">
 
 <!ENTITY certerror.pagetitle1  "અસુરક્ષિત જોડાણ">
+<!ENTITY certerror.pagetitle2  "ચેતવણી: આગળ સંભવિત સુરક્ષા જોખમ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "આ સાઇટ HTTP નો ઉપયોગ કરે છે તે સ્પષ્ટ કરવા માટે સખત પરિવહન સુરક્ષા (HSTS) અને &brandShortName; માત્ર સુરક્ષિત રીતે જોડાણ                          કરી શકે છે. તે સુરક્ષિત રીતે પરિણામે, આ માટે અપવાદ ઉમેરવા શક્ય નથી પ્રમાણપત્ર.">
 <!ENTITY certerror.copyToClipboard.label "ક્લિપબોર્ડમાં લખાણની નકલ કરો">
 
@@ -146,6 +148,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "અવરોધિત પૃષ્ઠ">
 
+<!ENTITY clockSkewError.title "તમારાં કમ્પ્યુટરની ઘડિયાળ ખોટી છે">
 
 <!ENTITY prefReset.longDesc "એવું લાગી રહ્યું છે કે તમારાં નેટવર્કની સુરક્ષા વ્યવસ્થા ને કારણે આમ થઇ રહ્યુ છે. શું આપ મૂળભૂત વ્યવસ્થા પાછી લાવવાં ઈચ્છો છો?">
 <!ENTITY prefReset.label "મૂળભુત સેટિંગ પાછા લાવો">
