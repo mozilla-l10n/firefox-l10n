@@ -979,6 +979,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "添加拦截…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "反馈故障">
+<!ENTITY contentBlocking.breakageReportView.label "反馈故障">
+<!ENTITY contentBlocking.breakageReportView.description "内容拦截功能可能导致某些网站出现问题。如果您反馈故障问题，您可以帮助 &brandShortName; 为所有人提供更好的体验。这将向 Mozilla 发送网址（URL）以及您的隐私设置和内容拦截设置。">
+<!ENTITY contentBlocking.breakageReportView.learnMore "详细了解">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "网址">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; 版本号">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "您遇到了什么问题？（可选）">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "发送反馈">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "取消">
+
 <!ENTITY trackingProtection.title "跟踪保护">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; 已拦截该页面可能跟踪您的浏览行为的内容。">
 <!ENTITY trackingProtection.detectedNotBlocked3 "此网站包含的某些元素可能跟踪您的浏览行为，但您已经禁用保护。">
