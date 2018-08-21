@@ -166,7 +166,7 @@ was trying to connect. -->
 ">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
-<p>Tietokoneesi mukaan kello on nyt <span id='wrongSystemTime_systemDate2'/>. Tarkista asetuksista, että tietokoneesi päivämäärä, kellonaika ja aikavyöhyke ovat oikeat, ja lataa sitten <span class='hostname'/> uudestaan.</p>
+<p>Tietokoneesi mukaan nyt on <span id='wrongSystemTime_systemDate2'/>. Tarkista asetuksista, että tietokoneesi päivämäärä, kellonaika ja aikavyöhyke ovat oikeat, ja lataa sitten <span class='hostname'/> uudestaan.</p>
 <p>Jos kello on jo oikeassa ajassa,  vika on luultavasti sivustossa etkä voi korjata ongelmaa itse. Voit ilmoittaa ongelmasta sivuston ylläpitäjälle.</p>
 ">
 
@@ -208,8 +208,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ei yhdistänyt osoitteeseen <span id='wrongSystemTime_URL'/>, koska tietokoneesi kello näyttää olevan väärässä ajassa ja koska tämä estää suojatun yhteyden muodostamisen.</p> <p>Tietokoneesi mukaan kello on <span id='wrongSystemTime_systemDate'/>, kun sen pitäisi olla <span id='wrongSystemTime_actualDate'/>. Voit korjata ongelman asettamalla kellon oikeaan aikaan tietokoneen aika-asetuksista.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ei yhdistänyt osoitteeseen <span id='wrongSystemTimeWithoutReference_URL'/>, koska tietokoneesi kello näyttää olevan väärässä ajassa ja koska tämä estää suojatun yhteyden muodostamisen.</p> <p>Tietokoneesi mukaan kello on <span id='wrongSystemTimeWithoutReference_systemDate'/>. Voit korjata ongelman asettamalla kellon oikeaan aikaan tietokoneen aika-asetuksista.</p>">
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ei yhdistänyt osoitteeseen <span id='wrongSystemTime_URL'/>, koska tietokoneesi kello näyttää olevan väärässä ajassa ja koska tämä estää suojatun yhteyden muodostamisen.</p> <p>Tietokoneesi mukaan nyt on <span id='wrongSystemTime_systemDate'/>, kun pitäisi olla <span id='wrongSystemTime_actualDate'/>. Voit korjata ongelman asettamalla kellon oikeaan aikaan tietokoneen aika-asetuksista.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ei yhdistänyt osoitteeseen <span id='wrongSystemTimeWithoutReference_URL'/>, koska tietokoneesi kello näyttää olevan väärässä ajassa ja koska tämä estää suojatun yhteyden muodostamisen.</p> <p>Tietokoneesi mukaan nyt on <span id='wrongSystemTimeWithoutReference_systemDate'/>. Voit korjata ongelman asettamalla kellon oikeaan aikaan tietokoneen aika-asetuksista.</p>">
 
 <!ENTITY certerror.pagetitle1  "Suojaamaton yhteys">
 <!ENTITY certerror.pagetitle2  "Varoitus: mahdollinen tietoturvariski">
@@ -228,7 +228,7 @@ tälle varmenteelle ei voi luoda poikkeusta.">
 <!ENTITY blockedByPolicy.title "Estetty sivu">
 
 <!ENTITY clockSkewError.title "Tietokoneen kello on väärässä ajassa">
-<!ENTITY clockSkewError.longDesc "Tietokoneesi mukaan kello on nyt <span id='wrongSystemTime_systemDate1'/>, minkä takia &brandShortName; ei voi muodostaa suojattua yhteyttä. Jotta voit siirtyä sivustolle <span class='hostname'></span>, avaa järjestelmäasetukset ja päivitä sieltä tietokoneen kello nykyiseen päivään, aikaan ja aikavyöhykkeeseen. Lopuksi lataa <span class='hostname'> uudestaan</span>.">
+<!ENTITY clockSkewError.longDesc "Tietokoneesi mukaan nyt on <span id='wrongSystemTime_systemDate1'/>, minkä takia &brandShortName; ei voi muodostaa suojattua yhteyttä. Jotta voit siirtyä sivustolle <span class='hostname'></span>, avaa järjestelmäasetukset ja päivitä sieltä tietokoneen kello nykyiseen päivään, aikaan ja aikavyöhykkeeseen. Lopuksi lataa <span class='hostname'> uudestaan</span>.">
 
 <!ENTITY prefReset.longDesc "Vaikuttaa siltä, että verkon turvallisuusasetukset aiheuttavat tämän. Haluatko palauttaa oletusasetukset?">
 <!ENTITY prefReset.label "Palauta oletusasetukset">
