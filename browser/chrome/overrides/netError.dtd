@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Вернуться назад (рекомендуется)">
 <!ENTITY advanced.label "Дополнительно">
 
-<!ENTITY continue1.label "Продолжить…">
+<!ENTITY continue2.label "Подробнее…">
 <!ENTITY moreInformation.label "Подробная информация">
 
 <!-- Specific error messages -->
@@ -149,12 +149,12 @@
 
 <!ENTITY certerror.longpagetitle1 "Ваше соединение не защищено">
 <!ENTITY certerror.longpagetitle2 "Предупреждение: Вероятная угроза безопасности">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Владелец <span class='hostname'/> неправильно настроил свой веб-сайт. Чтобы защитить вашу информацию от кражи, &brandShortName; не соединился с этим веб-сайтом.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; обнаружил вероятную угрозу безопасности и не стал открывать <span class='hostname'/>. Если вы посетите этот сайт, нападавшие могут попытаться похитить вашу информацию, такую как пароли, адреса электронной почты или данные банковских карт.">
+<!ENTITY certerror.introPara2 "&brandShortName; обнаружил вероятную угрозу безопасности и не стал открывать <span class='hostname'/>. Если вы посетите этот сайт, нападавшие могут попытаться похитить вашу информацию, такую как пароли, адреса электронной почты или данные банковских карт.">
 
 <!ENTITY certerror.expiredCert.secondPara "Эта проблема, скорее всего, связана с неправильной установкой времени вашего компьютера, что может не дать &brandShortName; установить защищённое соединение.">
 
@@ -193,6 +193,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Добавить исключение…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Принять риск и продолжить">
 
 <!ENTITY errorReporting.automatic2 "Отправка сообщений о подобных ошибках поможет Mozilla обнаружить и заблокировать вредоносные сайты">
 <!ENTITY errorReporting.learnMore "Подробнее…">
