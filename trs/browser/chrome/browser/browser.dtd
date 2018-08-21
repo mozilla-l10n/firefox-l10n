@@ -259,6 +259,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "Gi'iaj blokeandot nej pop-ups guenda sitio web na.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Gi'iaj blokeandot sa uxun nanèe guenda sitio web na.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Gi'iaj blokeandot da' si gida'à nej dugui' datos canva guenda sitio web na.">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Gi'iaj blokeandot da' si garajsun sitio web na Adobe Flash plugin.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Gi'iaj blokeandot MIDI guenda sitio web na.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Digû' riña gaché nu'">
 
@@ -267,6 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Riñan gayi'ij">
 
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Riña gayi'ìj ">
 
 <!ENTITY bookmarksButton.label          "Sa raj sun nichrò' doj">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -275,6 +278,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton2.label         "Menu raj sun nichrò doj">
 <!ENTITY bookmarksMenuButton.other.label    "A'ngo sa raj sun nichrò' doj">
 <!ENTITY bookmarksMenuButton.mobile.label   "Nej marcador aché">
+<!ENTITY viewBookmarksSidebar2.label        "Ni'io riña panel markador">
+<!ENTITY hideBookmarksSidebar.label         "Gachi hui' dukuán markador">
 <!ENTITY viewBookmarksToolbar.label         "Ni'io riña sa gara sun'">
 <!ENTITY hideBookmarksToolbar.label         "Gachrī hui' dukuâ sa raj sun'">
 <!ENTITY searchBookmarks.label              "Nana'ui' sa raj sun nichrò' doj">
@@ -294,6 +299,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Rasun">
 <!ENTITY toolsMenu.accesskey          "T">
 
+<!ENTITY keywordfield.label           "Gachun' 'ngo nugua' yitïnj guenda sa nana'ui' na...">
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Nadunïnj">
@@ -307,14 +313,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Desarroyador web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "Gachra so' ejekusion">
+<!ENTITY devtoolsSaveRecording.label "Na'nïnj so' grabasion">
+<!ENTITY devtoolsReplayExecution.label "Nachrun' ejekusion">
 
+<!ENTITY inspectContextMenu.label     "Natsi' elemento">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY inspectA11YContextMenu.label     "Natsi' nej sa a'nïn gatu'">
 
 <!ENTITY fileMenu.label         "Sa ma sà'a">
 <!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newUserContext.label             "Rakïj ñanj man sa garasun'">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY newNavigatorCmd.label        "Ventana nakàa">
 <!ENTITY newNavigatorCmd.key        "N">
