@@ -981,6 +981,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.breakageReportView.learnMore "Pelajari Lebih Lanjut">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Masalah apa yang Anda punya? (Opsional)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Kirim Laporan">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Batal">
 
 <!ENTITY trackingProtection.title "Perlindungan Pelacakan">
