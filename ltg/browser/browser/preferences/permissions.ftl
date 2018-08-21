@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Atļautōs lopys - Automatiska atskaņōšona
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Tu vari nūrōdēt, kurom lopom atļauts automatiski atskaņōt multimedejas. Īroksti precizu lopys adresi, nu kurōs gribi atļaut un damīdz Atļaut.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Izjāmumi - Automatiska atskanōšona
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Tu vari nūrōdēt, kurom lopom vysod atļauts voi nikod nav atļauts automatiski atskaņōt multimedejas. Īroksti precizu lopys adresi, nu kurōs gribi atļaut un damīdz Atļaut voi Aizlīgt.
 
 ## Site Permissions - Notifications
