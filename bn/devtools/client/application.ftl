@@ -17,7 +17,24 @@ serviceworker-list-header = সার্ভিস ওয়ার্কার্
 # Text displayed next to the list of Service Workers to encourage users to check out
 # about:debugging to see all registered Service Workers.
 serviceworker-list-aboutdebugging = অন্য ডোমেইনের সেবা কর্মীদের জন্য <a>about:debugging</a> খুলুন
+# Text for the button to unregister a Service Worker. Displayed for active Service Workers.
+serviceworker-worker-unregister = Unregister
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start = শুরু
+# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
+serviceworker-worker-source = উৎস
+# Text displayed next to the current status of the service worker.
+serviceworker-worker-status = অবস্থা
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
+# Service Worker status. A running service worker is registered, currently executed, can
+# be debugged and stopped.
+serviceworker-worker-status-running = চলছে
+# Service Worker status. A stopped service worker is registered but not currently active.
+serviceworker-worker-status-stopped = থেমে গেছে
+# Service Worker status. A registering service worker is not yet registered and cannot be
+# started or debugged.
+serviceworker-worker-status-registering = নিবন্ধ হচ্ছে
