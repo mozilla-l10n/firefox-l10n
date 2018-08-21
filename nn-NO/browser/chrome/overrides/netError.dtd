@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Gå tilbake (Tilrådd)">
 <!ENTITY advanced.label "Avansert">
 
-<!ENTITY continue1.label "Fortset…">
+<!ENTITY continue2.label "Meir…">
 <!ENTITY moreInformation.label "Meir informasjon">
 
 <!-- Specific error messages -->
@@ -95,12 +95,12 @@
 
 <!ENTITY certerror.longpagetitle1 "Tilkoplinga di er ikkje trygg">
 <!ENTITY certerror.longpagetitle2 "Åtvaring: Potensiell sikkerheitsrisiko forut">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Eigaren av <span class='hostname'/> har konfigurert nettstaden sin feil.  For å verne informasjonen din frå å bli stolen, har &brandShortName; ikkje kopla seg til denne nettstaden.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; oppdaga ein potensiell sikkerheitstrussel, og fortsette ikkje til <span class='hostname'/>. Viss du besøkjer denne nettsida, kan angriparane prøve å stele informasjon som passord, e-post eller kredittkort.">
+<!ENTITY certerror.introPara2 "&brandShortName; oppdaga ein potensiell sikkerheitstrussel og fortsette ikkje til <span class='hostname'/>. Viss du besøkjer denne nettstaden, kan angriparane prøve å stele informasjon som passord, e-post eller kredittkortdetaljar.">
 
 <!ENTITY certerror.expiredCert.secondPara "Dette problemet får du, mest sannsynleg, fordi klokka på datamaskina di er innstillt på feil tid, noko som ville hindre &brandShortName; frå å kople til trygt.">
 
@@ -130,6 +130,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Legg til eit unntak…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Godta risikoen og fortset">
 
 <!ENTITY errorReporting.automatic2 "Rapporter feil som dette for å hjelpe Mozilla med å identifisere og blokkere skadelege nettstadar">
 <!ENTITY errorReporting.learnMore "Les meir…">
