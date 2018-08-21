@@ -47,7 +47,7 @@ pane-privacy-title = პირადულობა და უსაფრთხ
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 # The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox ანგარიში
+pane-sync-title = Firefox-ანგარიში
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } დახმარება
@@ -719,7 +719,7 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = ვებსაიტებისთვის, ხმოვანი ვიდეოფაილების თვითგაშვების შეზღუდვა
     .accesskey = ზ
-permissions-block-autoplay-media-menu = ვებსაიტებისთვის, რომლებზეც ჩართულია ხმის თვითგაშვება 
+permissions-block-autoplay-media-menu = ვებსაიტებისთვის, რომლებზეც ჩართულია ხმის თვითგაშვება
 permissions-block-autoplay-media-exceptions =
     .label = გამონაკლისები…
     .accesskey = ო
