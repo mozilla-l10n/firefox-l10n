@@ -979,6 +979,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Embojuaju jejoko…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Emombe’u apañuãi">
+<!ENTITY contentBlocking.breakageReportView.label "Emombe’u apañuãi">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Kuaave">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; Peteĩchagua papapy">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Mba’e apañuãipa eguereko? (Poravokuaáva)">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Heja">
+
 <!ENTITY trackingProtection.title "Tapykueho ñemo'ã">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ojokohína kuatiarogue pehẽ ikatúva ohapykueho nekundaha.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Ko tenda oguereko mba'epuru ikatúva ohapykueho nekundaha. Nde reguereko neñemo'ã oguepyréva.">

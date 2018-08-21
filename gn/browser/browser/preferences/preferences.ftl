@@ -605,6 +605,16 @@ sitedata-accept-third-party-visited-option =
     .label = Jehopyre
 sitedata-accept-third-party-never-option =
     .label = Araka'eve
+sitedata-allow-cookies-option =
+    .label = Emoneĩ kookie ha tenda mba’ekuaarã
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Ejoko kookie ha tenda mba’ekuaarã
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Peteĩchagua tetepy jokopyre
+    .accesskey = T
 sitedata-clear =
     .label = Mba'ekuaarã mopotĩ…
     .accesskey = l
@@ -729,6 +739,7 @@ autoplay-option-allow =
     .label = Emoneĩ mboheta ijeheguíva
 autoplay-option-dont =
     .label = Ani eheja omboheta ijehegui
+permissions-autoplay-link = Kuaave
 permissions-block-popups =
     .label = Ovetã apysẽ joko
     .accesskey = B

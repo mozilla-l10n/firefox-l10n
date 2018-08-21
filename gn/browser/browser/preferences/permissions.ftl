@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Ñanduti renda moneĩmbyre - Mboheta ijeheguíva
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Ikatu emopeteĩ umi tenda moneĩmbyre ombohetakuaáva ijehegui mba’epuru. Emoingeva’erã tenda kundaharape emoneĩséva ha upéi ejopy Moneĩ.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Ykepegua – Ñemboheta ijeheguíva
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Ikatúpa ere mba’e tendápa oñemoneĩ térã oñembotove kookie jepurúpe. Emoinge tenda kundaharape eñangarekoseha ha upéi eikutu Joko térã Moneĩ.
 
 ## Site Permissions - Notifications
