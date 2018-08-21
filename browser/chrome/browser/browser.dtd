@@ -979,6 +979,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Дадаць блакаванне…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Паведаміць аб праблеме">
+<!ENTITY contentBlocking.breakageReportView.label "Паведаміць аб праблеме">
+<!ENTITY contentBlocking.breakageReportView.description "Блакаванне змесціва можа выклікаць праблемы з некаторымі вэб-сайтамі. Калі вы паведамляеце аб праблеме, вы дапамагаеце зрабіць &brandShortName; лепшым для ўсіх. (Гэта адправіць адрас сайта разам з інфармацыяй аб вашых наладах прыватнасці і блакавання змесціва ў Mozilla).">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Даведацца больш">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Нумар версіі &brandShortName;">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Што ў вас за праблема? (неабавязкова)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Адправіць паведамленне">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Скасаваць">
+
 <!ENTITY trackingProtection.title "Ахова ад сачэння">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блакуе асобныя часткі старонкі, якія могуць асочваць вашы паводзіны ў Інтэрнэце.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Гэты сайт змяшчае элементы, якія могуць асочваць вашы паводзіны ў інтэрнэце. Вы адключылі ахову.">
