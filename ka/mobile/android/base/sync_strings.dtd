@@ -61,7 +61,7 @@
 <!ENTITY fxaccount_status_needs_upgrade 'შესასვლელად უნდა განაახლოთ &brandShortName;.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; გამართულია, მაგრამ ავტომატურად არ სინქრონირდება. შეამოწმეთ \&quot;ავტომატური სინქრონიზაცია\&quot; მისამართზე Android-ის პარამეტრები &gt; მონაცემების გამოყენება.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; გამართულია, მაგრამ ავტომატურად არ სინქრონირდება. შეამოწმეთ \&quot;ავტომატური სინქრონიზაცია\&quot; მისამართზე Android-ის პარამეტრები &gt; ანგარიშები.'>
-<!ENTITY fxaccount_status_needs_finish_migrating 'შეეხეთ თქვენს Firefox ანგარიშში შესასვლელად.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'შეეხეთ თქვენს Firefox-ანგარიშში შესასვლელად.'>
 <!ENTITY fxaccount_status_choose_what 'მიუთითეთ, რისი დასინქრონება გსურთ'>
 <!ENTITY fxaccount_status_bookmarks 'სანიშნები'>
 <!ENTITY fxaccount_status_history 'ისტორია'>
@@ -85,7 +85,7 @@
 <!ENTITY fxaccount_remove_account_dialog_message2 'მონახულებული გვერდების მონაცემები ამ მოწყობილობაზე დარჩება, მაგრამ აღარ დასინქრონდება თქვენს ანგარიშთან.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast2 'Firefox ანგარიშთან &formatS; კავშირი გათიშულია.'>
+<!ENTITY fxaccount_remove_account_toast2 'Firefox-ანგარიშთან &formatS; კავშირი გათიშულია.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
 <!ENTITY fxaccount_remove_account_dialog_action_confirm 'გათიშვა'>

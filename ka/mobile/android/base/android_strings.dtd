@@ -185,7 +185,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Firefox ანგარიშით დაკავშირებული მოწყობილობა ვერ მოიძებნა">
+<!ENTITY overlay_no_synced_devices "Firefox-ანგარიშით დაკავშირებული მოწყობილობა ვერ მოიძებნა">
 
 <!ENTITY pref_category_search3 "ძიება">
 <!ENTITY pref_category_search_summary2 "დამატება, ნაგულისხმევად დაყენება, შემოთავაზებების ჩვენება">
@@ -382,7 +382,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "QR წამკითხავის დაშვება URL ველში">
 
 <!ENTITY pref_use_master_password "მთავარი პაროლის გამოყენება">
-<!ENTITY pref_sync_default_title "Firefox ანგარიში">
+<!ENTITY pref_sync_default_title "Firefox-ანგარიში">
 <!ENTITY pref_sync2 "შესვლა">
 <!ENTITY pref_sync_summary2 "დაასინქრონეთ თქვენი ჩანართები, სანიშნები, ანგარიშები, ისტორია">
 <!ENTITY pref_search_suggestions "ძიების შემოთავაზების ჩვენება">
