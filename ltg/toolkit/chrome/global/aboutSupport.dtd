@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Avarejis ziņuojumi">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "Ziņuojuma ID">
 <!ENTITY aboutSupport.crashes.sendDate "Nūsyuteits">
 <!ENTITY aboutSupport.crashes.allReports "Vysi avarejis ziņuojumi">
@@ -32,15 +32,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureName "Nūsaukums">
 <!ENTITY aboutSupport.featureVersion "Verseja">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "Eksperimentaluos īspiejis">
-<!ENTITY aboutSupport.experimentName "Nūsaukums">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Aproksts">
-<!ENTITY aboutSupport.experimentActive "Aktivāta">
-<!ENTITY aboutSupport.experimentEndDate "Beigu datums">
-<!ENTITY aboutSupport.experimentHomepage "Sātys lopa">
-<!ENTITY aboutSupport.experimentBranch "Branch">
 
 <!ENTITY aboutSupport.appBasicsTitle "Programys pamotinformaceja">
 <!ENTITY aboutSupport.appBasicsName "Nūsaukums">
@@ -74,6 +65,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Vairuoku procesu lūgs">
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Šķārsteikla satura process">
+
+<!ENTITY aboutSupport.enterprisePolicies "Uzjāmuma politikas">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google atslāgs">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla atsarasšona vītys pakolpuojuma atslāgs">
