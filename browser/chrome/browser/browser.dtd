@@ -979,6 +979,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Lägg till blockering…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Rapportera problem">
+<!ENTITY contentBlocking.breakageReportView.label "Rapportera problem">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Skicka rapport">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Avbryt">
+
 <!ENTITY trackingProtection.title "Spårningsskydd">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blockerar delar av sidan som kan spåra din surfning.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Den här webbplatsen innehåller element som kan spåra din surfning. Ditt skydd är inaktiverat.">
