@@ -588,8 +588,8 @@ sitedata-accept-cookies-option =
     .label = Приемане на бисквитки и данни на страници (препоръчително)
     .accesskey = П
 sitedata-block-cookies-option =
-    .label = Забраняване на бисквитки и данни на страници (може е да доведе до неработещи страници)
-    .accesskey = З
+    .label = Ограничаване на бисквитки и данни на страници (може е да доведе до неработещи страници)
+    .accesskey = о
 sitedata-keep-until = Пазене до
     .accesskey = а
 sitedata-keep-until-expire =
@@ -604,6 +604,20 @@ sitedata-accept-third-party-visited-option =
     .label = От посетените
 sitedata-accept-third-party-never-option =
     .label = Никога
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Вид на ограничения ресурс
+    .accesskey = в
+sitedata-block-trackers-option-recommended =
+    .label = Проследявания от трети страни (препоръчително)
+sitedata-block-trackers-option =
+    .label = Проследявания от трети страни
+sitedata-block-unvisited-option =
+    .label = Бисквитки от непосетени страници
+sitedata-block-all-third-parties-option =
+    .label = Всички бисквитки от трети страни
+sitedata-block-always-option =
+    .label = Всички бисквитки (може да доведе до неработещи страници)
 sitedata-clear =
     .label = Изчистване на данни…
     .accesskey = т
@@ -631,8 +645,8 @@ addressbar-suggestions-settings = Настройки на предложения
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Спиране на съдържание
-content-blocking-desc = Възпиране на съдържание от трети страни като реклами или друг код, който би могъл да забави разглеждането или да ви проследява из Мрежата. Изберете настройките, които да са най-добрия баланс между защита и производителност.
+content-blocking-header = Ограничаване на съдържание
+content-blocking-desc = Ограничаване на съдържание от трети страни като реклами или друг код, който би могъл да забави разглеждането или да ви проследява из Мрежата. Изберете настройките, които са най-добрия баланс между защита и производителност.
 content-blocking-learn-more = Научете повече
 content-blocking-restore-defaults =
     .label = Стандартни настройки
