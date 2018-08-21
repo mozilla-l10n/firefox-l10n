@@ -42,7 +42,7 @@
 <!ENTITY daysEnd.label "დღისა">
 <!ENTITY deleteOnServer2.label "წაშლამდე ან მიღებულებიდან გადმოტანამდე">
 <!ENTITY deleteOnServer2.accesskey "გ">
-<!ENTITY downloadOnBiff.label "ახალი წერილების ავტომატურად ჩატვირთვა">
+<!ENTITY downloadOnBiff.label "ახალი წერილების თვითჩამოტვირთვა">
 <!ENTITY downloadOnBiff.accesskey "ა">
 <!ENTITY username.label "თქვენი სახელი">
 <!ENTITY deleteMessagePrefix.label "წერილის წაშლისას:">
