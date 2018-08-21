@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "უკან დაბრუნება (სასურველია)">
 <!ENTITY advanced.label "ვრცლად">
 
-<!ENTITY continue1.label "გაგრძელება…">
+<!ENTITY continue2.label "სხვა…">
 <!ENTITY moreInformation.label "ვრცლად">
 
 <!-- Specific error messages -->
@@ -149,12 +149,11 @@
 
 <!ENTITY certerror.longpagetitle1 "კავშირი დაუცველია">
 <!ENTITY certerror.longpagetitle2 "ფრთხილად: საფრთხის შემცველია">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/>-ის მფლობელს ვებსაიტი არასწორად აქვს გამართული.  თქვენი ინფორმაციის მოპარვისგან დაცვის მიზნით, &brandShortName; ამ საიტს არ დაუკავშირდება.">
 
-<!ENTITY certerror.introPara1 "&brandShortName;-მა აღმოაჩინა მოსალოდნელი საფრთხე და შეწყვიტა <span class='hostname'/> საიტის ჩატვირთვა. თუ ამ საიტს ეწვეოდით, შემტევებს შეეძლებოდათ თქვენი პირადი მონაცემების ხელყოფა, მათ შორის პაროლების, ელფოსტის მისამართების ან საკრედიტო ბარათების.">
 
 <!ENTITY certerror.expiredCert.secondPara "ამ ხარვეზს უმეტესად იწვევს კომპიუტერის საათის არევა, რომელიც ხელს უშლის &brandShortName;-ს დაუკავშირდეს საიტებს უსაფრთხოდ.">
 
@@ -193,6 +192,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "გამონაკლისის დამატება…">
+
 
 <!ENTITY errorReporting.automatic2 "მოახსენეთ Mozilla-ს მსგავსი შეცდომების შესახებ, რომ დაეხმაროთ მავნე საიტების აღმოჩენასა და მათ შეზღუდვაში">
 <!ENTITY errorReporting.learnMore "ვრცლად…">
