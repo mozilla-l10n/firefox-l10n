@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Palaa (suositellaan)">
 <!ENTITY advanced.label "Yksityiskohdat">
 
-<!ENTITY continue1.label "Jatka…">
+<!ENTITY continue2.label "Lisää…">
 <!ENTITY moreInformation.label "Lisätietoja">
 
 <!-- Specific error messages -->
@@ -149,12 +149,11 @@
 
 <!ENTITY certerror.longpagetitle1 "Yhteys ei ole suojattu">
 <!ENTITY certerror.longpagetitle2 "Varoitus: mahdollinen tietoturvariski">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Sivuston <span class='hostname'/> omistaja on määrittänyt sivustonsa asetukset väärin. &brandShortName; ei muodostanut yhteyttä sivustoon suojellakseen tietojasi varkaudelta.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; havaitsi mahdollisen tietoturvauhan eikä jatkanut osoitteeseen <span class='hostname'/>. Jos siirryt tälle sivustolle, hyökkääjät voivat yrittää varastaa tietojasi, kuten salasanoja, sähköposteja ja luottokortteja.">
 
 <!ENTITY certerror.expiredCert.secondPara "Ongelman syynä on todennäköisesti se, että tietokoneesi kello on väärässä ajassa, minkä takia &brandShortName; ei voi muodostaa suojattua yhteyttä.">
 
@@ -193,6 +192,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Lisää poikkeus…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Ota riski ja jatka">
 
 <!ENTITY errorReporting.automatic2 "Ilmoita tällaisista virheistä auttaaksesi Mozillaa tunnistamaan ja estämään haitallisia sivustoja">
 <!ENTITY errorReporting.learnMore "Lue lisää…">

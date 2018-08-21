@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Sallitut sivustot - Automaattinen toisto
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Voit valita, mitkä sivustot saavat toistaa mediaa automaattisesti. Kirjoita sivuston osoite ja napsauta Salli.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Poikkeukset - Automaattinen toisto
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Voit valita, mitkä sivustot saavat joko aina tai eivät ikinä toistaa äänellistä mediaa automaattisesti. Kirjoita sivuston osoite ja napsauta Estä tai Salli.
 
 ## Site Permissions - Notifications
