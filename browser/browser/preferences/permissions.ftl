@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Gwefannau'n Cael eu Caniatáu - Awtochwarae
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Gallwch bennu pa wefannau sy'n cael chwarae elfennau cyfrwng yn awtomatig. Teipiwch union gyfeiriad y wefan rydych am ei chaniatáu ac yna clicio Caniatáu.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Eithriadau - Awtochwarae
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Gallwch bennu pa wefannau sy'n cael awtochwarae cyfrwng gyda sain, neu beidio.  Teipiwch union gyfeiriad y wefan rydych am ei reoli ac yna clicio Rhwystro neu Caniatáu.
 
 ## Site Permissions - Notifications
