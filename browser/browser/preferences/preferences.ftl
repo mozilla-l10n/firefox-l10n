@@ -691,6 +691,7 @@ permissions-block-autoplay-media-exceptions =
     .accesskey = E
 autoplay-option-ask =
     .label = ఎల్లప్పుడూ అడుగు
+permissions-autoplay-link = ఇంకా తెలుసుకోండి
 permissions-block-popups =
     .label = పాప్-అప్ విండోలను నిరోధించు
     .accesskey = B
