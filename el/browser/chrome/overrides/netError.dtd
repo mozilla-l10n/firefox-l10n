@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Επιστροφή (Προτείνεται)">
 <!ENTITY advanced.label "Για προχωρημένους">
 
-<!ENTITY continue1.label "Συνέχεια…">
+<!ENTITY continue2.label "Περισσότερα…">
 <!ENTITY moreInformation.label "Περισσότερες πληροφορίες">
 
 <!-- Specific error messages -->
@@ -151,12 +151,12 @@
 
 <!ENTITY certerror.longpagetitle1 "Η σύνδεσή σας δεν είναι ασφαλής">
 <!ENTITY certerror.longpagetitle2 "Προειδοποίηση: Πιθανός κίνδυνος ασφαλείας">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Ο ιδιοκτήτης του <span class='hostname'/> δεν έχει ρυθμίσει την ιστοσελίδα του σωστά. Για την προστασία των πληροφοριών σας από κλοπή, το &brandShortName; δεν έχει συνδεθεί με αυτή την ιστοσελίδα.">
 
-<!ENTITY certerror.introPara1 "το &brandShortName; ανίχνευσε πιθανό κίνδυνο ασφάλειας και δε συνέχισε στο <span class='hostname'/>. Εάν επισκεφθείτε αυτή την ιστοσελίδα, οι επιτιθέμενοι θα μπορούσαν να προσπαθήσουν να κλέψουν πληροφορίες όπως τους κωδικούς πρόσβασης, τα μηνύματα ηλεκτρονικού ταχυδρομείου, ή τις πιστωτικές κάρτες σας.">
+<!ENTITY certerror.introPara2 "Το &brandShortName; ανίχνευσε μια πιθανή απειλή ασφαλείας και δεν συνέχισε στο <span class='hostname'/>. Αν επισκεφθείτε αυτή την ιστοσελίδα, οι επιτιθέμενοι ίσως προσπαθήσουν να υποκλέψουν πληροφορίες, όπως κωδικούς πρόσβασης, emails ή λεπτομέρειες πιστωτικής κάρτας.">
 
 <!ENTITY certerror.expiredCert.secondPara "Αυτό το ζήτημα οφείλεται πιθανότατα σε εσφαλμένη ρύθμιση του ρολογιού του υπολογιστή σας, κάτι που θα εμποδίσει την ασφαλή σύνδεση με το &brandShortName;.">
 
@@ -195,6 +195,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Προσθήκη εξαίρεσης">
+
+<!ENTITY securityOverride.exceptionButton1Label "Αποδοχή ρίσκου και συνέχεια">
 
 <!ENTITY errorReporting.automatic2 "Αναφέρετε σφάλματα όπως αυτό για να βοηθήσετε τη Mozilla στον εντοπισμό και αποκλεισμό κακόβουλων ιστοσελίδων">
 <!ENTITY errorReporting.learnMore "Μάθετε περισσότερα…">
