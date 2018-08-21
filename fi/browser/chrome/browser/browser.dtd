@@ -979,6 +979,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Lisää esto…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Ilmoita ongelmista">
+<!ENTITY contentBlocking.breakageReportView.label "Ilmoita ongelmista">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Lue lisää">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "Osoite">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName;-versio">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Mitä ongelmia kohtasit? (Valinnainen)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Lähetä ilmoitus">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Peruuta">
+
 <!ENTITY trackingProtection.title "Seurannan suojaus">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; estää sivusta osia, jotka saattavat seurata selaamistasi.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Sivusto sisältää osia, jotka saattavat seurata sinua. Seurannan suojaus on pois päältä.">
