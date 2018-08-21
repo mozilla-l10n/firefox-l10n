@@ -979,6 +979,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Legg til blokkering…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Rapporter problem">
+<!ENTITY contentBlocking.breakageReportView.label "Rapporter problem">
+<!ENTITY contentBlocking.breakageReportView.description "Innhaldsblokkering kan føre til problem med enkelte nettsider. Når du rapporterer problem, hjelper du til med å gjere &brandShortName; betre for alle. (Dette vil sende nettadressa, samt informasjon om personvern- og innhaldsblokkeringsinnstillingar til Mozilla.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Les meir">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL-adresse">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; versjonsnummer">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kva for problem har du? (Valfri)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Send rapport">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Avbryt">
+
 <!ENTITY trackingProtection.title "Sporingsvern">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkerer delar av sida som kan spore nettlesinga di.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Denne sida inneheld element som kan spore nettlesinga di. Du har slått av vern.">
