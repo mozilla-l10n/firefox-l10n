@@ -907,3 +907,4 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "&vendorShortName;-stedstjeneste">
 <!ENTITY download_notification_channel "Nedlastinger">
+<!ENTITY media_notification_channel "Medieavspilling">
