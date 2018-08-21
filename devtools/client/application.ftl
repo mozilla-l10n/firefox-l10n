@@ -14,6 +14,9 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = Service Workers
+# Text displayed next to the list of Service Workers to encourage users to check out
+# about:debugging to see all registered Service Workers.
+serviceworker-list-aboutdebugging = અન્ય ડોમેન્સમાંથી સેવા કામદારો માટે <a> લગભગ: ડિબગીંગ </a> ખોલો
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = નોંધણી રદ કરો
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
@@ -43,3 +46,9 @@ serviceworker-worker-status-registering = રજિસ્ટર થાય છે
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro = અહીં તેની તપાસ કરવા માટે તમારે Service Worker ને નોંધણી કરાવવાની જરૂર છે. <a>વધુ જાણો</a>
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+serviceworker-empty-suggestions = જો વર્તમાન પૃષ્ઠ પાસે એક સેવા કાર્યકર હોવું જોઈએ, તો અહીં કેટલીક વસ્તુઓ છે જે તમે પ્રયાસ કરી શકો છો
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = કન્સોલમાં ભૂલો માટે જુઓ <a> કન્સોલ ખોલો </a>
