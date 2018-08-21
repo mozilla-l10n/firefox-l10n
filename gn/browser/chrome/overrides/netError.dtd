@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Eguevi (mboajepyre)">
 <!ENTITY advanced.label "Opanungáva">
 
-<!ENTITY continue1.label "Eku'ejey...">
+<!ENTITY continue2.label "Hetave…">
 <!ENTITY moreInformation.label "Eñemomaranduve">
 
 <!-- Specific error messages -->
@@ -91,12 +91,11 @@
 
 <!ENTITY certerror.longpagetitle1 "Nde jeike ndahekokatúi">
 <!ENTITY certerror.longpagetitle2 "Jesarekorã: Imarãkuaáva tenondeve">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> jára ombohekóma iñanduti kuatiarogue ndoikoiete hag̃uáicha. Anive hag̃ua nemarandu oñemonda, &brandShortName; ndaikatúi oike ko ñanduti rendápe.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; ojuhu tekorosã ombyaikuaáva ha upévare opytáma <span class='hostname'/>. Eikéramo ko tendápe, ikatu umi mba’evai omondase ndehegui marandu ha’éva ñe’ẽñemi, ñanduti veve térã kuatia'atã ñemurãva.">
 
 <!ENTITY certerror.expiredCert.secondPara "Ko apañuãi ikatuhína pe aravo oĩvai rupi ne mohendahápe, oñatõiva &brandShortName;-pe oikekatu hag̃ua.">
 
@@ -125,6 +124,7 @@ Pe arapapaha ne mohendaha rehegua oĩporã <span id='wrongSystemTime_systemDate2
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Embojoaju ambue mba'e">
+
 
 <!ENTITY errorReporting.automatic2 "Emomarandu koichagua jejavy eipytyvõ hag̃ua Mozilla-pe ojuhúvo ha ojokóvo tenda mba'evai aposéva">
 <!ENTITY errorReporting.learnMore "Kuaave…">

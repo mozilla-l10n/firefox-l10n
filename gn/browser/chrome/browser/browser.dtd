@@ -985,6 +985,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; Peteĩchagua papapy">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Mba’e apañuãipa eguereko? (Poravokuaáva)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Emondo ñemombe'u">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Heja">
 
 <!ENTITY trackingProtection.title "Tapykueho ñemo'ã">
