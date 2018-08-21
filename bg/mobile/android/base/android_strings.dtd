@@ -393,7 +393,7 @@
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Отворени раздели">
 <!ENTITY pref_private_data_history2 "История на разглеждане">
-<!ENTITY pref_private_data_searchHistory "История на търсения">
+<!ENTITY pref_private_data_searchHistory "История на търсене">
 <!ENTITY pref_private_data_formdata2 "История на формуляри">
 <!ENTITY pref_private_data_cookies2 "Бисквитки и текущи вписвания">
 <!ENTITY pref_private_data_passwords2 "Запазени регистрации">
