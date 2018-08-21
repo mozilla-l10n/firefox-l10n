@@ -18,7 +18,7 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Търсене…">
 <!ENTITY findReplaceCmd.label "Търсене и замяна…">
-<!ENTITY enableInlineSpellChecker.label "Проверка на правописа при писане">
+<!ENTITY enableInlineSpellChecker.label "Проверка на правописа при въвеждане">
 <!ENTITY enableInlineSpellChecker.accesskey "П">
 <!ENTITY checkSpellingCmd2.label "Проверка на правописа…">
 <!ENTITY checkSpellingCmd2.accesskey "в">
@@ -289,7 +289,7 @@
 <!ENTITY copyToolbarCmd.tooltip "Копиране">
 <!ENTITY pasteToolbarCmd.tooltip "Поставяне">
 <!ENTITY printToolbarCmd.label "Отпечатване">
-<!ENTITY printToolbarCmd.tooltip "Отпечатва тази страница">
+<!ENTITY printToolbarCmd.tooltip "Отпечатване на страницата">
 <!ENTITY findToolbarCmd.label "Търсене">
 <!ENTITY findToolbarCmd.tooltip "Търсене на текст в страницата">
 <!ENTITY spellToolbarCmd.label "Правопис">

@@ -19,7 +19,7 @@
 <!ENTITY results.label               "Резултати">
 <!ENTITY moveButton.label            "Преместване в">
 <!ENTITY moveButton.accesskey        "н">
-<!ENTITY closeCmd.key                "W"> 
+<!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Отваряне в папката">
 <!ENTITY openInFolder.accesskey      "к">
 <!ENTITY saveAsVFButton.label        "Запиши като папка за търсене">
@@ -58,7 +58,7 @@
 <!ENTITY idColumn.label "Ред на получаване">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser2.tooltip "Изберете колоните, които да се показват">
+<!ENTITY columnChooser2.tooltip "Избиране на видимите колони">
 <!ENTITY threadColumn2.tooltip "Показване на нишките на съобщенията">
 <!ENTITY fromColumn2.tooltip "Сортиране по подател">
 <!ENTITY recipientColumn2.tooltip "Сортиране по получател">
