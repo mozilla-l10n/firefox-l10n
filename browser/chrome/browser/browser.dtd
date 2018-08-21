@@ -1081,14 +1081,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; হালনাগাদ ডাউনলোড">
 
-<!ENTITY updateManual.message "&brandShorterName; এর নতুন অনুলিপি ডাউনলোড করুন আমরা তা ইন্সটল করতে সহায়তা করবো।">
+<!ENTITY updateManual.message "একটি ফ্রেশ &brandShorterName; কপি ডাউনলোড করুন এবং আমরা সেটি ইনস্টল করতে সহায়তা করব।">
 <!ENTITY updateManual.whatsnew.label "দেখুন নতুন কি আছে।">
 <!ENTITY updateManual.header.message "&brandShorterName; সাম্প্রতিকতম সংস্করণে হালনাগাদ করা যায়নি।">
 <!ENTITY updateManual.acceptButton.label "&brandShorterName; ডাউনলোড">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "এখন নয়">
 <!ENTITY updateManual.cancelButton.accesskey "N">
-<!ENTITY updateManual.panelUI.label "&brandShorterName; এর একটি নতুন অনুলিপি ডাউনলোড কুরুন;">
+<!ENTITY updateManual.panelUI.label "একটি নতুন &brandShorterName; কপি ডাউনলোড করুন">
 
 <!ENTITY updateRestart.message2 "দ্রুত পুনরাম্ভের পরে, &brandShorterName; আপনার সমস্ত খোলা ট্যাব এবং উইন্ডোগুলি পুনরুদ্ধার করবে যা ব্যক্তিগত ব্রাউজিং মোডে নয়।">
 <!ENTITY updateRestart.header.message2 "&brandShorterName; হালনাগাদ করতে রিস্টার্ট করুন।">
