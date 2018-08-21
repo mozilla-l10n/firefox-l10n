@@ -13,5 +13,6 @@
 <!ENTITY useSmallIcons.label      "Małe wobrazki wužiwać">
 <!ENTITY restoreDefaultSet.label  "Standard wobnowić">
 <!ENTITY addNewToolbar.label      "Nowu symbolowu lajstu přidać">
+<!ENTITY showTitltbar.label       "Titulnu lajstu pokazać">
 <!ENTITY saveChanges.label        "Hotowo">
 <!ENTITY undoChanges.label        "Změny cofnyć">
