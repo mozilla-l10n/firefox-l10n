@@ -5,3 +5,6 @@
 about-policies-title = এন্টারপ্রাইজ নীতি
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = সক্রিয়
+errors-tab = ত্রুটি
+documentation-tab = ডকুমেন্টেশন
+policy-name = পলিসি নাম
