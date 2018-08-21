@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label            "Bok publicěrowaś">
 <!ENTITY windowTitleSettings.label    "Wózjawjeńske nastajenja">
 <!ENTITY publishTab.label             "Wózjawiś">
 <!ENTITY settingsTab.label            "Nastajenja">
 <!ENTITY publishButton.label          "Wózjawiś">
-<!-- Publish Tab Panel -->
 
+<!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "Mě sedła:">
 <!ENTITY siteList.accesskey           "M">
 <!ENTITY siteList.tooltip             "Wubjeŕśo sedło, ku kótaremuž cośo wózjawiś">
@@ -40,8 +40,8 @@
 <!ENTITY setDefaultButton.accesskey   "s">
 <!ENTITY removeButton.label           "Sedło wótpóraś">
 <!ENTITY removeButton.accesskey       "S">
-<!-- Settings Tab Panel -->
 
+<!-- Settings Tab Panel -->
 <!ENTITY publishSites.label           "Wózjawjenje sedłow">
 <!ENTITY serverInfo.label             "Serwerowe informacije">
 <!ENTITY loginInfo.label              "Pśizjawjeńske informacije">
@@ -62,4 +62,4 @@
 <!ENTITY password.tooltip             "Gronidło zwězane z wašym wužywarskim mjenim">
 <!ENTITY savePassword.label           "Gronidło składowaś">
 <!ENTITY savePassword.accesskey       "s">
-<!ENTITY savePassword.tooltip         "Wubjeŕśo to, aby swójo gronidło pśez zastojnik gronidkow wěsće składował">
+<!ENTITY savePassword.tooltip         "Wubjeŕśo to, aby swójo gronidło pśez zastojnik gronidłow wěsće składował">
