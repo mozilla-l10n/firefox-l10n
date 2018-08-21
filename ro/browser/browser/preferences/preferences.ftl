@@ -729,6 +729,7 @@ autoplay-option-allow =
     .label = Permite redarea automată
 autoplay-option-dont =
     .label = Nu reda automat
+permissions-autoplay-link = Află mai multe
 permissions-block-popups =
     .label = Blochează ferestrele pop-up
     .accesskey = B

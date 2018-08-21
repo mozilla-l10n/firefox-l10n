@@ -44,6 +44,8 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadSelectedTabs.label           "Reîncarcă filele selectate">
+<!ENTITY  reloadSelectedTabs.accesskey       "R">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -948,6 +950,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+<!ENTITY contentBlocking.breakageReportView.learnMore "Află mai multe">
+
 <!ENTITY trackingProtection.title "Protecție față de urmărire">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blochează părți ale paginii care ți-ar putea urmări navigarea.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Acest site include elemente care ți-ar putea urmări navigarea. Ai dezactivat protecția.">
@@ -1076,6 +1080,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.shareUrl.label "Împărtășește">
 
+<!ENTITY pageAction.shareMore.label "Mai multe…">
 
 <!ENTITY libraryButton.tooltip "Vezi istoricul, marcajele salvate și mai multe">
 

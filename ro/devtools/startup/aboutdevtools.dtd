@@ -44,6 +44,7 @@
 <!ENTITY  aboutDevtools.enable.learnMoreLink "Află mai multe despre instrumentele de dezvoltare">
 
 <!ENTITY  aboutDevtools.enable.enableButton "Activează instrumentele de dezvoltare">
+<!ENTITY  aboutDevtools.enable.closeButton2 "Închide această filă">
 
 <!ENTITY  aboutDevtools.welcome.title "Bun venit la instrumentele de dezvoltare Firefox!">
 

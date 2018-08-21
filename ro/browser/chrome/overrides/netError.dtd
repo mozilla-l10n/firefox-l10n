@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Întoarce-te (Recomandat)">
 <!ENTITY advanced.label "Avansat">
 
-<!ENTITY continue1.label "Continuă…">
+<!ENTITY continue2.label "Mai multe…">
 <!ENTITY moreInformation.label "Mai multe informații">
 
 <!-- Specific error messages -->
@@ -97,13 +97,13 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Pagina pe care încerci să o vezi nu poate fi afișată deoarece nu s-a putut verifica autenticitatea datelor primite.</li> <li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Conexiunea nu este securizată">
-<!ENTITY certerror.longpagetitle2 "Avertisment: Urmează un risc potențial de securitate">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Avertisment: Urmează un posibil risc de securitate">
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Proprietarul <span class='hostname'/> și-a configurat site-ul web necorespunzător.  Pentru a proteja informațiile împotriva furtului, &brandShortName; nu s-a conectat la acest site web.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; a detectat o potențială amenințare de securitate și nu a continuat navigarea la <span class='hostname'/>. Atacatorii ar putea încerca să fure informații precum parolele, e-mailurile sau cardurile de credit dacă vizitezi acest site.">
+<!ENTITY certerror.introPara2 "&brandShortName; a detectat o posibilă amenințare de securitate și nu a continuat la <span class='hostname'/>. Dacă vizitezi acest site, atacatorii ar putea încerca să fure informații cum ar fi parolele, e-mailurile sau detaliile cardului de credit.">
 
 
 
@@ -120,6 +120,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Adaugă excepție…">
+
 
 <!ENTITY errorReporting.automatic2 "Raportează erori precum aceasta pentru a ajuta Mozilla să identifice și să blocheze site-urile rău intenționate">
 <!ENTITY errorReporting.learnMore "Află mai multe…">
@@ -139,7 +140,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; nu s-a conectat la <span id='wrongSystemTimeWithoutReference_URL'/> deoarece ceasul calculatorului tău pare că arată ora greșită, iar aceasta previne o conexiune securizată.</p> <p>Ceasul calculatorului tău arată ora <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pentru a rezolva această problemă ar trebui să schimbi data și ora de sistem pentru a se potrivi cu cele corecte.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conexiune nesigură">
-<!ENTITY certerror.pagetitle2  "Avertisment: Urmează un risc potențial de securitate">
+<!ENTITY certerror.pagetitle2  "Avertisment: Urmează un posibil risc de securitate">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Acest site folosește HTTP Strict Transport Security (HSTS) pentru a specifica că &brandShortName; se poate conecta doar în mod securizat la el. Drept rezultat, nu este posibil să adaugi o excepție acestui certificat.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> are o politică de securitate numită „securitate transport strict HTTP” (HSTS), iar asta înseamnă că &brandShortName; se poate conecta la site doar în mod securizat. Nu se poate adăuga o excepție pentru a vizita acest site.">
 <!ENTITY certerror.copyToClipboard.label "Copiază textul în clipboard">
