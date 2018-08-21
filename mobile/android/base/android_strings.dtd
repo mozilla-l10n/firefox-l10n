@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Salli automaattinen toisto">
 <!ENTITY pref_media_autoplay_enabled_summary "Voivatko verkkosivustot toistaa automaattisesti videoita ja muuta sisältöä">
+<!ENTITY pref_media_autoplay_allow "Salli automaattinen toisto">
+<!ENTITY pref_media_autoplay_block "Estä automaattinen toisto">
 <!ENTITY pref_zoom_force_enabled "Sivun suurennus sallittu aina">
 <!ENTITY pref_zoom_force_enabled_summary "Sivun lähennys ja loitonnus on mahdollista kaikilla sivuilla">
 <!ENTITY pref_voice_input "Puhesyöte">
@@ -905,3 +907,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Keskeytä toisto">
 
 <!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName;n paikannuspalvelut">
+<!ENTITY download_notification_channel "Lataukset">
+<!ENTITY media_notification_channel "Median toisto">
