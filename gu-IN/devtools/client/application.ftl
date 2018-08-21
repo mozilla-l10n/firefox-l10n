@@ -52,3 +52,9 @@ serviceworker-empty-suggestions = જો વર્તમાન પૃષ્ઠ �
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = કન્સોલમાં ભૂલો માટે જુઓ <a> કન્સોલ ખોલો </a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = તમારા સેવા કાર્યકર્તા નોંધણી દ્વારા પગલું અને અપવાદો જુઓ. <a> ડીબગર ખોલો </a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = અન્ય ડોમેન્સમાંથી સેવા કામદારોનું નિરીક્ષણ કરો <a> આના વિશે ખોલો: ડિબગીંગ </a>
