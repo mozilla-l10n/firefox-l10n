@@ -968,6 +968,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "నిరోధం చేర్చు…">
 
+<!ENTITY contentBlocking.breakageReportView.cancel.label "రద్దుచేయి">
+
 <!ENTITY trackingProtection.title "ట్రాకింగ్ సంరక్షణ">
 <!ENTITY trackingProtection.detectedBlocked3 "ఈ పేజీలో మీ విహరణ జాడ తెలుసుకునే భాగాలను &brandShortName; నిరోధిస్తోంది.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "ఈ సైటులో మీ విహరణ జాడ తెలుసుకొనే ఎలిమెంట్లు ఉన్నాయి. మీరు రక్షణను అచేతనించారు.">
