@@ -979,6 +979,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Aldoni blokadon…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Raporti problemojn">
+<!ENTITY contentBlocking.breakageReportView.label "Raporti problemojn">
+
 <!ENTITY trackingProtection.title "Protekto kontraŭ spurado">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokas partojn de la paĝo kiuj povus spuri vian retumon.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tiu ĉi retejo enhavas elementojn kiuj povus spuri vian retumon. Vi malaktivigis la protekton.">
