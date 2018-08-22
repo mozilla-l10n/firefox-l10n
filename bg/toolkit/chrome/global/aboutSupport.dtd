@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Доклади за сривове">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "Идентификатор на доклад">
 <!ENTITY aboutSupport.crashes.sendDate "Изпратен">
 <!ENTITY aboutSupport.crashes.allReports "Всички доклади за сривове">
@@ -32,15 +32,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureName "Наименование">
 <!ENTITY aboutSupport.featureVersion "Версия">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "Експериментални възможности">
-<!ENTITY aboutSupport.experimentName "Наименование">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Описание">
-<!ENTITY aboutSupport.experimentActive "Включен">
-<!ENTITY aboutSupport.experimentEndDate "Крайна дата">
-<!ENTITY aboutSupport.experimentHomepage "Страница">
-<!ENTITY aboutSupport.experimentBranch "Клон">
 
 <!ENTITY aboutSupport.appBasicsTitle "Основни за приложението">
 <!ENTITY aboutSupport.appBasicsName "Наименование">
@@ -75,7 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Процеси за уеб съдържание">
 
-<!ENTITY aboutSupport.enterprisePolicies "Корпоративни политики">
+<!ENTITY aboutSupport.enterprisePolicies "Ведомствени ограничения">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
