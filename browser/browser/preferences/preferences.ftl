@@ -615,6 +615,12 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tipul conținutului blocat
     .accesskey = T
+sitedata-block-unvisited-option =
+    .label = Cookie-uri de la site-urile web nevizitate
+sitedata-block-all-third-parties-option =
+    .label = Toate cookie-urile de la terți
+sitedata-block-always-option =
+    .label = Toate cookie-urile (poate provoca afectarea aspectului site-urilor web)
 sitedata-clear =
     .label = Șterge datele…
     .accesskey = l
