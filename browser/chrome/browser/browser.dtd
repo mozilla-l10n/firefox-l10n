@@ -920,7 +920,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.off "Schutz vor Aktivitätenverfolgung: AUS">
 
 <!ENTITY trackingProtection.title "Schutz vor Aktivitätenverfolgung">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blockiert Teile der Seite, die Ihre Surfaktivitäten verfolgen könnten.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blockiert Seitenelemente, die Ihre Surfaktivitäten verfolgen könnten.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Die Seite enthält Inhalte, die Ihre Surfaktivitäten verfolgen könnten. Sie haben den Schutz deaktiviert.">
 <!ENTITY trackingProtection.notDetected3 "Keine Inhalte zur Aktivitätenverfolgung auf dieser Seite gefunden.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
