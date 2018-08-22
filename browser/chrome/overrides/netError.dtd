@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Tornar (recomandat)">
 <!ENTITY advanced.label "Avançat">
 
-<!ENTITY continue1.label "Contunhar…">
+<!ENTITY continue2.label "Mai…">
 <!ENTITY moreInformation.label "Mai d'informacions">
 
 <!-- Specific error messages -->
@@ -100,7 +100,7 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>La pagina qu'ensajatz de consultar pòt pas èsser afichada perque l'autenticitat de las donadas recebudas pòt pas èsser verificada.</li> <li>Contactatz los proprietaris del sit Web per los n'assabentar. Tanben podètz utilizar la comanda dins lo menú d'ajuda per senhalar un site pas foncional.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "La connexion es pas segura">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "L'autor de <span class='hostname'/> configurèt son site web incorrectament. Per protegir vòstras informacions del panatòri, &brandShortName; s'es pas connectat pas al site web.">
@@ -121,6 +121,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Apondre une excepcion…">
+
 
 <!ENTITY errorReporting.automatic2 "Senhalar de talas errors ajuda Mozilla a identificar e blocar de sites malvolents">
 <!ENTITY errorReporting.learnMore "Ne saber mai…">
