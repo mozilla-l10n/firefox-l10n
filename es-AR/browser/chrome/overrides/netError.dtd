@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Retroceder (recomendado)">
 <!ENTITY advanced.label "Avanzadas">
 
-<!ENTITY continue1.label "Continuar…">
+<!ENTITY continue2.label "Más…">
 <!ENTITY moreInformation.label "Más información">
 
 <!-- Specific error messages -->
@@ -148,12 +148,12 @@
 
 <!ENTITY certerror.longpagetitle1 "La conexión no es segura">
 <!ENTITY certerror.longpagetitle2 "Advertencia: Potencial riesgo de seguridad próximo">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "El dueño de <span class='hostname'/> ha configurado mal el sitio web.  Para proteger la información contra robos, &brandShortName; no ha conectado a este sitio web.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; detectó una amenaza de seguridad potencial y no continuó <span class='hostname'/>. Si visita este sitio, es posible que atacantes traten de robar información como sus contraseñas, correos electrónicos o tarjetas de crédito.">
+<!ENTITY certerror.introPara2 "&brandShortName; detectó una potencial amenaza de seguridad y no continuó a <span class='hostname'/>. Si visita este sitio, los atacantes podrían intentar robar su información tal como sus contraseñas, correo electrónico o datos de su tarjeta de crédito.">
 
 <!ENTITY certerror.expiredCert.secondPara "Este problema seguramente se debe a que la hora del el reloj de su computadora es incorrecta, lo que impediría que &brandShortName; se conecte de forma segura.">
 
@@ -191,6 +191,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción">
+
+<!ENTITY securityOverride.exceptionButton1Label "Aceptar el riesgo y continuar">
 
 <!ENTITY errorReporting.automatic2 "Informar errores como este para ayudar a Mozilla a identificarlo y bloquear sitios maliciosos">
 <!ENTITY errorReporting.learnMore "Conocer más…">
