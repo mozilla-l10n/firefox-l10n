@@ -979,6 +979,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Gehitu blokeatzea…">
 
+<!ENTITY contentBlocking.breakageReportView.learnMore "Argibide gehiago">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URLa">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; bertsio-zenbakia">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Bidali txostena">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Utzi">
+
 <!ENTITY trackingProtection.title "Jarraipenaren babesa">
 <!ENTITY trackingProtection.detectedBlocked3 "Zure nabigazioaren jarraipena egin lezaketen orriaren zatiak blokeatzen ari da &brandShortName;.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Gune honek zure nabigazioaren jarraipena egin lezaketen zatiak ditu. Babesa desgaituta daukazu.">

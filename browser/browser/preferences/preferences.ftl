@@ -729,6 +729,7 @@ autoplay-option-allow =
     .label = Baimendu auto-erreprodukzioa
 autoplay-option-dont =
     .label = Ez auto-erreproduzitu
+permissions-autoplay-link = Argibide gehiago
 permissions-block-popups =
     .label = Blokeatu pop-up leihoak
     .accesskey = B
