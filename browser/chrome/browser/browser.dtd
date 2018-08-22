@@ -979,6 +979,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Blokkering toevoegen…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Problemen rapporteren">
+<!ENTITY contentBlocking.breakageReportView.label "Problemen rapporteren">
+<!ENTITY contentBlocking.breakageReportView.description "Inhoudsblokkering kan problemen met bepaalde websites verzoorzaken. Als u problemen rapporteert, helpt u &brandShortName; voor iedereen te verbeteren. (Hierdoor wordt zowel een URL als informatie over uw instellingen voor privacy en inhoudsblokkering naar Mozilla verzonden.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Meer info">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName;-versienummer">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Welke problemen ondervond u? (Optioneel)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Rapport verzenden">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Annuleren">
+
 <!ENTITY trackingProtection.title "Bescherming tegen volgen">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkeert onderdelen van de pagina die uw surfgedrag zouden kunnen volgen.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Deze website bevat elementen die uw surfgedrag zouden kunnen volgen. U hebt bescherming uitgeschakeld.">

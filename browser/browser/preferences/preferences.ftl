@@ -763,6 +763,30 @@ sitedata-accept-third-party-visited-option =
 sitedata-accept-third-party-never-option =
     .label = Nooit
 
+sitedata-allow-cookies-option =
+    .label = Cookies en websitegegevens accepteren
+    .accesskey = a
+
+sitedata-disallow-cookies-option =
+    .label = Cookies en websitegegevens blokkeren
+    .accesskey = b
+
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Geblokkeerd type
+    .accesskey = t
+
+sitedata-block-trackers-option-recommended =
+    .label = Trackers van derden (aanbevolen)
+sitedata-block-trackers-option =
+    .label = Trackers van derden
+sitedata-block-unvisited-option =
+    .label = Cookies van niet-bezochte websites
+sitedata-block-all-third-parties-option =
+    .label = Alle cookies van derden
+sitedata-block-always-option =
+    .label = Alle cookies (kan ervoor zorgen dat websites niet goed werken)
+
 sitedata-clear =
     .label = Gegevens wissen…
     .accesskey = e
@@ -914,6 +938,8 @@ autoplay-option-allow =
     .label = Automatisch afspelen toestaan
 autoplay-option-dont =
     .label = Niet automatisch afspelen
+
+permissions-autoplay-link = Meer info
 
 permissions-block-popups =
     .label = Pop-upvensters blokkeren
