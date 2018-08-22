@@ -979,6 +979,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "أضِف نوع حجب…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "أبلِغ عن مشاكل">
+<!ENTITY contentBlocking.breakageReportView.description "يمكن لحجب المحتوى أن يتسبّب بالمشاكل لبعض المواقع. عندما تُبلغ عن لمشاكل، ستساعد في جعل &brandShortName; أفضل للجميع. (سيُرسل هذا المسار مع المعلومات التي تخص إعدادات الخصوصية وحجب المحتوى لديك إلى موزيلا.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "اطّلع على المزيد">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "المسار">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "رقم إصدارة &brandShortName;">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "ما المشاكل التي تواجهها؟ (اختياري)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "أرسِل البلاغ">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "ألغِ">
+
 <!ENTITY trackingProtection.title "الحماية من التعقّب">
 <!ENTITY trackingProtection.detectedBlocked3 "يحجب &brandShortName; أجزاءً من الصفحة ربما تتعقب تصفّحك.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "في هذا الموقع عناصر قد تتعقّب تصفّحك. لقد عطّلتَ الحماية.">
