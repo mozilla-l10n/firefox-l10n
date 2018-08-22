@@ -236,7 +236,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Buka panel mesej kata laluan disimpan">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Urus kegunaan plugin">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Tukar pilihan samada anda boleh menerima notifikasi dari laman">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Simpan data Persistent Storage">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Simpan data dalam Storan Kekal">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Pelayar berada dalam kawalan jauh">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Buka panel Pengesahan Web">
 
