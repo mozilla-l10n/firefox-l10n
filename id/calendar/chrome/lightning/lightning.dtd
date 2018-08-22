@@ -58,7 +58,9 @@
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detail…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Tampilkan detail acara">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Konfirmasi ulang">
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "Simpan salinan">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Tentatif">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Tentatif seluruhnya">
 <!ENTITY lightning.imipbar.description                                      "Pesan in berisi undangan sebuah acara.">
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Kirim tanggapan sekarang">

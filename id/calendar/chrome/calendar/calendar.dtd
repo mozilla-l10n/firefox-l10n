@@ -163,8 +163,11 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Undangan">
 <!ENTITY calendar.context.attendance.menu.accesskey             "d">
 <!ENTITY calendar.context.attendance.occurrence.label           "Item Ini">
+<!ENTITY calendar.context.attendance.send.label                 "Kirim notifikasi sekarang">
+<!ENTITY calendar.context.attendance.dontsend.label             "Jangan kirim notifikasi">
 
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Diterima">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Diterima secara tentatif">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Ditolak">
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Diwakilkan">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "Masih memerlukan tindakan">
@@ -174,6 +177,7 @@
 <!ENTITY calendar.context.attendance.all.declined.label         "Ditolak">
 <!ENTITY calendar.context.attendance.all.delegated.label        "Diwakilkan">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "Masih memerlukan tindakan">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Dalam proses">
 <!ENTITY calendar.context.attendance.all.completed.label        "Selesai">
 
 <!-- Task Context Menu -->
@@ -254,6 +258,7 @@
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showall.label                "Tampilkan Semua Kalender">
 
 <!ENTITY calendar.context.convertmenu.label              "Konversikan Ke">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
