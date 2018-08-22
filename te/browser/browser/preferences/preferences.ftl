@@ -580,6 +580,20 @@ sitedata-accept-third-party-visited-option =
     .label = సందర్శించిన నాటి నుండి
 sitedata-accept-third-party-never-option =
     .label = ఎప్పటికీవద్దు
+sitedata-allow-cookies-option =
+    .label = కుకీలను, సైటు డేటాను అంగీకరించు
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = కుకీలను, సైటు డేటాను నిరోధించు
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = నిరోధించిన రకం
+    .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = మూడవ పక్ష ట్రాకర్లు (సిఫారసు చేయబడింది)
+sitedata-block-trackers-option =
+    .label = మూడవ పక్ష ట్రాకర్లు
 sitedata-block-unvisited-option =
     .label = చూడని వెబ్‌సైట్ల కుకీలు
 sitedata-block-all-third-parties-option =
