@@ -907,3 +907,4 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "خدمات التموضع من &vendorShortName;">
 <!ENTITY download_notification_channel "التنزيلات">
+<!ENTITY media_notification_channel "تشغيل الوسائط">
