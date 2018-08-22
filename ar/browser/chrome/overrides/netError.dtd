@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "عُد للخلف (يُنصح به)">
 <!ENTITY advanced.label "متقدم">
 
-<!ENTITY continue1.label "تابِع…">
+<!ENTITY continue2.label "أكثر…">
 <!ENTITY moreInformation.label "المزيد من المعلومات">
 
 <!-- Specific error messages -->
@@ -91,12 +91,12 @@
 
 <!ENTITY certerror.longpagetitle1 "اتّصالك غير آمن">
 <!ENTITY certerror.longpagetitle2 "تحذير: أمامك خطر أمني محتمل">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "لم يضبط مالك <span class='hostname'/> موقعه عل نحو سليم.  لحماية معلوماتك من السرقة، لم يتصل &brandShortName; بهذا الموقع.">
 
-<!ENTITY certerror.introPara1 "اكتشف &brandShortName; خطرًا أمنيًا محتملًا ولم يواصل نحو <span class='hostname'/>. يستطيع المهاجمون محاولة سرقة معلوماتك مثل كلمات السر وعناوين البريد وبطاقات الائتمان إن دخلت الموقع.">
+<!ENTITY certerror.introPara2 "اكتشف &brandShortName; خطرًا أمنيًا محتملًا ولم يُتابع نحو <span class='hostname'/>. إن زرت هذا الموقع فقد يحاول المهاجمون سرقة المعلومات منك مثل كلمات السر أو البُرد الإلكترونية أو تفاصيل بطاقات الائتمان.">
 
 <!ENTITY certerror.expiredCert.secondPara "أغلب الظن أن سبب هذه المشكلة هو أن ساعة الحاسوب ليست صحيحة، ما يمنع &brandShortName; من الاتصال كما ينبغي.">
 
@@ -126,6 +126,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "أضِف استثناءً…">
+
+<!ENTITY securityOverride.exceptionButton1Label "أقبلُ المخاطرة فتابِع">
 
 <!ENTITY errorReporting.automatic2 "أبلغ عن مثل هذه الأعطال لمساعدة موزيلا في التعرف على المواقع الخبيثة و حجبها">
 <!ENTITY errorReporting.learnMore "اطّلع على المزيد…">
