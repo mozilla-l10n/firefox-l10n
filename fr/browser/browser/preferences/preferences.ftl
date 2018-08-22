@@ -609,6 +609,14 @@ sitedata-accept-third-party-never-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Type de contenu bloqué
     .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = Traqueurs tiers (recommandé)
+sitedata-block-trackers-option =
+    .label = Traqueurs tiers
+sitedata-block-all-third-parties-option =
+    .label = Tous les cookies tiers
+sitedata-block-always-option =
+    .label = Tous les cookies (peut provoquer des problèmes avec certains sites web)
 sitedata-clear =
     .label = Effacer les données…
     .accesskey = E
