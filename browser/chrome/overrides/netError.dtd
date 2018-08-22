@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Zpátky (doporučeno)">
 <!ENTITY advanced.label "Rozšířené">
 
-<!ENTITY continue1.label "Pokračovat…">
+<!ENTITY continue2.label "Více…">
 <!ENTITY moreInformation.label "Více informací">
 
 <!-- Specific error messages -->
@@ -146,12 +146,12 @@ Personal Security Manager.</li>
 
 <!ENTITY certerror.longpagetitle1 "Vaše připojení není zabezpečené">
 <!ENTITY certerror.longpagetitle2 "Varování: možné riziko nebezpečí">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Majitel serveru <span class='hostname'/> nakonfiguroval své webové stránky nesprávně. Abychom chránili vaše informace před odcizením, &brandShortName; se k této webové stránce nepřipojil.">
 
-<!ENTITY certerror.introPara1 "Aplikace &brandShortName; rozpoznala potenciální bezpečnostní riziko a stránku <span class='hostname'/> nenačetla. Pokud budete na stránku pokračovat, útočníci se mohou pokusit získat vaše informace, jako hesla, e-mailovou adresu nebo číslo platební karty.">
+<!ENTITY certerror.introPara2 "Aplikace &brandShortName; rozpoznala potenciální nebezpečí a stránku <span class='hostname'/> nenačetla. Pokud se přesto rozhodnete stránku navštívit, útočníci mohou získat vaše informace, jako hesla, e-mailovou adresu nebo číslo platební karty.">
 
 <!ENTITY certerror.expiredCert.secondPara "Tento problém je pravděpodobně způsobem špatným nastavením času na vašem počítači, které brání aplikaci &brandShortName; v navázání zabezpečeného spojení.">
 
@@ -190,6 +190,8 @@ za chvíli.</li>
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Beru na vědomí a chci pokračovat">
 
 <!ENTITY errorReporting.automatic2 "Hlásit chyby jako je tato a pomoci tak organizaci Mozilla identifikovat a blokovat škodlivé stránky">
 <!ENTITY errorReporting.learnMore "Zjistit více…">
