@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Titzolïx (Chilab'en)">
 <!ENTITY advanced.label "Q'axinäq">
 
-<!ENTITY continue1.label "Titikïr chik el…">
+<!ENTITY continue2.label "Ch'aqa' chik…">
 <!ENTITY moreInformation.label "Ch'aqa' chik rutzijol">
 
 <!-- Specific error messages -->
@@ -93,12 +93,12 @@
 
 <!ENTITY certerror.longpagetitle1 "Itzel ri awokem">
 <!ENTITY certerror.longpagetitle2 "Rutzijol K'ayewal: Nimaläj Ruk'ayewal Jikomal Petenäq">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Ri rajaw re <span class='hostname'/> man ütz ta xunuk'ub'ej ri ruxaq k'amaya'l.  Richin natob'ej ri awetamab'al richin man teleq'äx, &brandShortName; man xatrokisaj ta pa re ruxaq k'amaya'l re'.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; xriïl jun nimaläj ruk'ayewal jikomal ruma ri' xchame' <span class='hostname'/>. We natz'ët re ruxaq re', rik'in jub'a' ri ojqanela' nikeleq'aj awetamab'al achi'el ri ewan taq atzij, taq ataqoya'l o ri ch'utit'im apwaq .">
+<!ENTITY certerror.introPara2 "&brandShortName; xrïl jun nïy ritzelanel jikomal ruma ri' toq man xub'än ta chik <span class='hostname'/>. We natz'et re ruxaq re', ri ojqanela' yetikïr nikitojtob'ej nikeleq'aj awetamab'al achi'el ewan taq atzij, ataqoya'l o rutzij ri ch'utit'im pwäq.">
 
 <!ENTITY certerror.expiredCert.secondPara "K'o re k'ayewal re' ruma b'anon runuk'ulem ach'utiq'ijul pa jun sachoj ramaj, ri man nuya' ta q'ij chi re ri &brandShortName; ütz nok.">
 
@@ -131,6 +131,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Titz'aqatisäx jun man relik ta…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Xinwetamaj ri K'ayewal chuqa' Tinsamajij el">
 
 <!ENTITY errorReporting.automatic2 "Taya' kitzijol k'ayewal achi'el re ruwäch re' richin nato' ri Mozilla chi nuya' ketal chuqa' yeruq'ät itzel taq ruxaq k'amaya'l.">
 <!ENTITY errorReporting.learnMore "Tetamäx ch'aqa' chik…">

@@ -984,6 +984,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.description "Kiq'atik rupam nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi nutziläx ri &brandShortName; chi qawa qonojel. (Re re' xtutäq chi re ri Mozilla ri URL chuqa' ri etamab'äl pa ruwi' ri runuk'ulem awichinanem chuqa' aq'atoj).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Tetamäx Ch'aqa' Chik">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; Ruwäch Ajilab'äl">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Achike k'ayewal xawïl? (Cha'el)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Titaq Rutzijol">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Tiq'at">
 
 <!ENTITY trackingProtection.title "Chajinïk chuwäch Ojqanïk">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; yeruq'ät jujun taq peraj chi re ri ruxaq, ri nitikïr yatrïl pa okik'amaya'l.">
