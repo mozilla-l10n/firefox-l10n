@@ -907,3 +907,4 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "Servei d\&apos;ubicació de &vendorShortName;">
 <!ENTITY download_notification_channel "Baixades">
+<!ENTITY media_notification_channel "Reproducció multimèdia">
