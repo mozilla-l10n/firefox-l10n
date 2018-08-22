@@ -907,3 +907,4 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "&vendorShortName; 위치 기반 서비스">
 <!ENTITY download_notification_channel "다운로드">
+<!ENTITY media_notification_channel "미디어 재생">
