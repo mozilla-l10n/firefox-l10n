@@ -604,6 +604,12 @@ sitedata-accept-third-party-visited-option =
     .label = От посетените
 sitedata-accept-third-party-never-option =
     .label = Никога
+sitedata-allow-cookies-option =
+    .label = Разрешаване на бисквитки и данни
+    .accesskey = р
+sitedata-disallow-cookies-option =
+    .label = Ограничаване на бисквитки и данни
+    .accesskey = о
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Вид на ограничения ресурс
@@ -738,6 +744,7 @@ autoplay-option-allow =
     .label = Автоматично изпълняване
 autoplay-option-dont =
     .label = Забрана на автоматичното изпълняване
+permissions-autoplay-link = Научете повече
 permissions-block-popups =
     .label = Спиране на изскачащите прозорци
     .accesskey = С
