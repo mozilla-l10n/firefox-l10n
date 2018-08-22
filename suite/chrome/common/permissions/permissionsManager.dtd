@@ -13,7 +13,7 @@
 <!ENTITY address.accesskey              "l">
 <!ENTITY block.label                    "Sekat">
 <!ENTITY block.accesskey                "S">
-<!ENTITY session.label                  "Izinkan Sesi ini">
+<!ENTITY session.label                  "Izinkan untuk Sesi">
 <!ENTITY session.accesskey              "S">
 <!ENTITY allow.label                    "Izinkan">
 <!ENTITY allow.accesskey                "I">
