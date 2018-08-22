@@ -979,6 +979,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Nitz'aqatisäx Q'atoj…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Tiya' Kitzijol K'ayewal">
+<!ENTITY contentBlocking.breakageReportView.label "Tiya' Kitzijol K'ayewal">
+<!ENTITY contentBlocking.breakageReportView.description "Kiq'atik rupam nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi nutziläx ri &brandShortName; chi qawa qonojel. (Re re' xtutäq chi re ri Mozilla ri URL chuqa' ri etamab'äl pa ruwi' ri runuk'ulem awichinanem chuqa' aq'atoj).">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Tetamäx Ch'aqa' Chik">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+
 <!ENTITY trackingProtection.title "Chajinïk chuwäch Ojqanïk">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; yeruq'ät jujun taq peraj chi re ri ruxaq, ri nitikïr yatrïl pa okik'amaya'l.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Re ruxaq k'amaya'l re' k'o taq ruch'akulal ri yetikïr nikïl ri awokem pa k'amaya'l. Achupun ri achajinik.">
