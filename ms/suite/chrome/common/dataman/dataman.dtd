@@ -67,7 +67,7 @@
 <!ENTITY perm.NeverSave "Jangan sesekali simpan">
 <!ENTITY perm.Allow "Izinkan">
 <!ENTITY perm.AllowSameDomain "Izinkan untuk Domain yang Sama">
-<!ENTITY perm.AllowSession "Izinkan Sesi ini">
+<!ENTITY perm.AllowSession "Izinkan untuk Sesi">
 <!ENTITY perm.Block "Sekat">
 
 <!ENTITY perm.host.placeholder "Masukkan nama hos">
