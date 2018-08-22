@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Разрешени страници - автоматично възпроизвеждане
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Може да укажете страниците, на които е разрешено автоматично да възпроизвеждат медия. Въведете точния адрес на всеки сайт и изберете „Разрешаване“.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Изключения – Автоматично възпроизвеждане
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Може да укажете страниците, на които винаги е разрешено или забранено автоматично да възпроизвеждат медия със звук. Въведете точния адрес на сайтта и изберете „Забраняване“ или „Разрешаване“.
 
 ## Site Permissions - Notifications
