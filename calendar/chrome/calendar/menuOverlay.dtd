@@ -20,6 +20,7 @@
 
 <!ENTITY calendar.deletecalendar.label          "Hapus Kalender Terpilih…">
 <!ENTITY calendar.deletecalendar.accesskey      "H">
+<!ENTITY calendar.unsubscribecalendar.label     "Berhenti Berlangganan Kalender Terpilih…">
 
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
       is the general action of removing it, while deleting means to clear the

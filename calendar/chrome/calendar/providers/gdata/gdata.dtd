@@ -13,7 +13,7 @@
 <!ENTITY gdata.migration.upgrade.accesskey "P">
 <!ENTITY gdata.migration.showagain.label "Selalu periksa">
 
+<!ENTITY gdata.reminder.default "Pengingat Baku">
 <!ENTITY gdata.reminder.action.sms.label "Kirimkan SMS">
-
 
 
