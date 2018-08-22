@@ -354,6 +354,8 @@
 <!ENTITY invite.title.label                     "Undang Peserta">
 <!ENTITY event.organizer.label                  "Penyelenggara">
 <!ENTITY event.freebusy.suggest.slot            "Sarankan rentang waktu:">
+<!ENTITY event.freebusy.button.next.slot        "Slot selanjutnya">
+<!ENTITY event.freebusy.button.previous.slot    "Slot sebelumnya">
 <!ENTITY event.freebusy.zoom                    "Perbesaran:">
 <!ENTITY event.freebusy.legend.free             "Bebas" >
 <!ENTITY event.freebusy.legend.busy             "Sibuk" >
