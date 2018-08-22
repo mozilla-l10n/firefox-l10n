@@ -984,6 +984,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.description "Блокирање садржаја може проузроковати проблеме са неким веб сајтовима. Када пријавите проблем, помажете да &brandShortName; буде бољи свима. (Ово ће послати Mozilla-и URL са добро познатим информацијама о вашој приватности и поставкама за блокирање садржаја.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Сазнајте више">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Број верзије &brandShortName;-а">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Какве проблеме сте имали? (Опционо)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Пошаљи извештај">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Откажи">
 
 <!ENTITY trackingProtection.title "Заштита од праћења">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокира делове странице који можда прате ваше активности.">

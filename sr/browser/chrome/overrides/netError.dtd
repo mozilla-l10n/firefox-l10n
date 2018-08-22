@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Врати се назад (препоручено)">
 <!ENTITY advanced.label "Напредно">
 
-<!ENTITY continue1.label "Настави…">
+<!ENTITY continue2.label "Још…">
 <!ENTITY moreInformation.label "Више информација">
 
 <!-- Specific error messages -->
@@ -149,12 +149,12 @@
 
 <!ENTITY certerror.longpagetitle1 "Веза није сигурна">
 <!ENTITY certerror.longpagetitle2 "Упозорење: Потенцијални безбедносни ризик">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Власник <span class='hostname'/> је неправилно подесио веб сајт. Да бисмо заштитили ваше информације од крађе, &brandShortName; се није повезао на овај веб сајт.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; је открио потенцијалну безбедносну претњу и није наставио на <span class='hostname'/>. Ако посетите овај сајт, нападачи би могли покушати украсти информације као што су ваше лозинке, адресе или кредитне картице.">
+<!ENTITY certerror.introPara2 "&brandShortName; је открио потенцијалну безбедносну претњу и није наставио на <span class='hostname'/>. Ако посетите овај сајт, нападачи би могли покушати украсти ваше податке као што су лозинке, е-адресе или кредитне картице.">
 
 <!ENTITY certerror.expiredCert.secondPara "Проблем је највероватније у томе што ваш сат на рачунару приказује погрешно време, што би спречило &brandShortName; да се повеже безбедно.">
 
@@ -193,6 +193,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Додај изузетак…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Прихвати ризик и настави">
 
 <!ENTITY errorReporting.automatic2 "Аутоматски пријавите грешке да бисте помогли Mozilla-и да идентификује и блокира злонамере сајтове">
 <!ENTITY errorReporting.learnMore "Сазнајте више…">
