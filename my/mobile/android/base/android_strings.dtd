@@ -372,6 +372,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "အလိုအလျောက်ပြသခြင်း ခွင့်ပြုပါ">
 <!ENTITY pref_media_autoplay_enabled_summary "ဝဘ်ဆိုဒ်များက မီဒီယာ သို့မဟုတ် ရုပ်ရှင်များကို အလိုအလျောက်ပြသခွင့်ရှိမရှိ သတ်မှတ်ပါ">
+<!ENTITY pref_media_autoplay_allow "အလိုအလျောက် ဖွင့်ခြင်းကို ခွင့်ပြုရန်">
+<!ENTITY pref_media_autoplay_block "အလိုအလျောက် ဖွင့်ခြင်းကို တားဆီးရန်">
 <!ENTITY pref_zoom_force_enabled "မြင်ကွင်းချုံ့ချဲ့ ကို အမြဲတမ်း ဖွင့်ထားရန်">
 <!ENTITY pref_zoom_force_enabled_summary "အပြင်အဆင်ကို အတင်း သတ်မှတ်ပါ။ ထိုအခါ မည်သည့်စာမျက်နှာမဆို ချုံ့/ချဲ့ ကြည့်ရှုနိုင်ပါမည်။">
 <!ENTITY pref_voice_input "အသံဖြင့် ခိုင်းစေခြင်း">
@@ -447,6 +449,11 @@
 <!ENTITY datareporting_crashreporter_title_short "ပျက်စီးမှုတင်ပြသူ">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; တည်နေရာ ဝန်ဆောင်မှု">
 <!ENTITY datareporting_wifi_geolocation_summary4 "ကမ္ဘာ့မြေပုံ ဆွဲရာတွင် &vendorShortName; ကို ကူညီပါ။ ကျွန်ုပ်တို့၏ တည်နေရာပြစနစ် ပိုမိုကောင်းမွန်စေရန် သင့်ကိရိယာ၏ ခန့်မှန်း Wi-Fi နှင့် ဆယ်လူလာ တည်နေရာကို မျှဝေပါ။">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Location Service ဆောင်ရွက်နေသည်">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +895,16 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "အဖွင့်စာမျက်နှာတွင် ထားပါ">
 <!ENTITY pwa_continue_to_website "ဝဘ်ဆိုက်သို့ ဆက်သွားပါ">
 <!ENTITY pwa_onboarding_sumo "အက်ပ်ကဲ့သို့ အတွေ့အကြုံရရှိရန်နှင့် လျင်မြန်စွာ အသုံးပြုရန် ယခုဝဘ်ဆိုက်ကို အဖွင့်စာမျက်နှာတွင် လွယ်ကူစွာ ထားနိုင်သည်။">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "ဖွင့်ပါ">
+<!ENTITY pip_play_button_description "ရပ်ထားသည့်နေရာက ဖွင့်ပါ">
+<!ENTITY pip_pause_button_title "ခေတ္တရပ်တန့်ပါ">
+<!ENTITY pip_pause_button_description "ဖွင့်ထားခြင်းကို ခေတ္တရပ်တန့်ပါ">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; Location Service">
+<!ENTITY download_notification_channel "ဆွဲယူထားသည့်ဖိုင်များ">
+<!ENTITY media_notification_channel "မီဒီယာဖွင့်ခြင်း">
