@@ -910,3 +910,4 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "Servici de localizacion &vendorShortName;">
 <!ENTITY download_notification_channel "Telecargaments">
+<!ENTITY media_notification_channel "Lectura multimèdia">
