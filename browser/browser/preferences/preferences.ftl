@@ -605,6 +605,16 @@ sitedata-accept-third-party-visited-option =
     .label = De la site-urile vizitate
 sitedata-accept-third-party-never-option =
     .label = Niciodată
+sitedata-allow-cookies-option =
+    .label = Acceptă cookie-uri și datele site-urilor
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Blochează cookie-urile și datele site-urilor
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Tipul conținutului blocat
+    .accesskey = T
 sitedata-clear =
     .label = Șterge datele…
     .accesskey = l
