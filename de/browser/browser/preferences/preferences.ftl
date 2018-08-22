@@ -593,6 +593,10 @@ history-private-browsing-permanent =
 history-remember-option =
     .label = Besuchte Seiten und Download-Chronik speichern
     .accesskey = w
+history-remember-browser-option =
+    .label = Besuchte Seiten und Download-Chronik speichern
+    .accesskey = w
+
 history-remember-search-option =
     .label = Eingegebene Suchbegriffe und Formulardaten speichern
     .accesskey = S
@@ -706,6 +710,13 @@ permissions-notification = Benachrichtigungen
 permissions-notification-settings =
     .label = Einstellungen…
     .accesskey = E
+permissions-block-autoplay-media =
+    .label = Automatische Wiedergabe von Medien mit Ton durch Websites verhindern
+    .accesskey = W
+
+permissions-block-autoplay-media-exceptions =
+    .label = Ausnahmen…
+    .accesskey = A
 permissions-notification-link = Weitere Informationen
 permissions-notification-pause =
     .label = Keine Benachrichtigungen bis nach Neustart von { -brand-short-name }
@@ -736,6 +747,9 @@ collection-health-report =
     .label = { -brand-short-name } erlauben, Daten zu technischen Details und Interaktionen an { -vendor-short-name } zu senden
     .accesskey = t
 collection-health-report-link = Weitere Informationen
+collection-studies =
+    .label = { -brand-short-name } das Installieren und Durchführen von Studien erlauben
+collection-studies-link = { -brand-short-name }-Studien ansehen
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datenübermittlung ist für diese Build-Konfiguration deaktiviert
