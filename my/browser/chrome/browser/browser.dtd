@@ -1070,7 +1070,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "ပေါင်းထည့်ကိရိယာကို ပိတ်ရန်">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.header.message "သင့်အဖွင့်စာမျက်နှာကို ပြုပြင်ထားသည်။">
+<!ENTITY homepageControlled.keepButton.label "ပြောင်းလဲမှုများကို သိမ်းပါ">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "ပေါင်းထည့်ဆော့ဖ်ဝဲကို ပိတ်ပါ">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "ဝှက်ထားသည့်တပ်ဗ်များကို အသုံးပြုရန်">
+<!ENTITY tabHideControlled.keepButton.label "တပ်ဗ်များကို ဆက်၍ဝှက်ထားပါ">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "ပေါင်းထည့်ဆော့ဖ်ဝဲကို ပိတ်ပါ">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "စာမျက်နှာရှိ ဆောင်ရွက်နိုင်သည်များ">
 <!ENTITY pageAction.addToUrlbar.label "လိပ်စာဘားတန်းသို့ ထည့်ပါ">
@@ -1082,7 +1092,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.sendTabToDevice.label "တပ်ဗ်ကို ကိရိယာသို့ ပို့ပါ">
 <!ENTITY sendToDevice.syncNotReady.label "ကိရိယာများကို ထပ်တူပြုနေသည်…">
 
+<!ENTITY pageAction.shareUrl.label "မျှဝေ">
 
+<!ENTITY pageAction.shareMore.label "ပိုမို၍…">
 
 <!ENTITY libraryButton.tooltip "မှတ်တမ်း၊ သိမ်းထားသည့် စာမှတ်များနှင့် အခြားစသည်တို့ကို ကြည့်ရှုရန်">
 
