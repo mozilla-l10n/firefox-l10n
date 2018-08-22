@@ -57,14 +57,24 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Hapus dari kalender">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detail…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Tampilkan detail acara">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klik untuk menampilkan lebih banyak pilihan">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Konfirmasi ulang">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Kirim konfirmasi ulang kepada penyelenggara">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Jadwal Ulang">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Jadwal ulang acara">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Simpan salinan">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Tentatif">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Terima undangan acara secara tentatif">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Tentatif seluruhnya">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Perbarui">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Perbarui acara di kalender">
 <!ENTITY lightning.imipbar.description                                      "Pesan in berisi undangan sebuah acara.">
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Kirim tanggapan sekarang">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Kirimkan tanggapan kepada penyelenggara">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Kirimkan tanggapan untuk seluruh seri kepada penyelenggara">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Jangan kirim tanggapan">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Ubah status partisipasi Anda tanpa mengirimkan tanggapan kepada penyelenggara">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
