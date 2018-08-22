@@ -907,3 +907,4 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "Servicio de Localización de &vendorShortName;">
 <!ENTITY download_notification_channel "Descargas">
+<!ENTITY media_notification_channel "Reproducción multimedia">
