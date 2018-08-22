@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Laman Web Diizinkan - Auto-main
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Anda boleh tentukan laman web yang diizinkan secara automatik memainkan elemen media. Taip alamat tepat laman yang anda izinkan dan klik Izinkan.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Pengecualian - Automain
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Anda boleh tentukan laman web yang sentiasa atau tidak diizinkan automain media dengan suara. Taip alamat laman web yang anda mahu uruskan dan kemudian klik Sekat atau Izinkan.
 
 ## Site Permissions - Notifications
