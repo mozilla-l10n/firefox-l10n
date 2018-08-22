@@ -979,6 +979,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Блокирај…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Пријави проблеме">
+<!ENTITY contentBlocking.breakageReportView.label "Пријавите проблеме">
+<!ENTITY contentBlocking.breakageReportView.description "Блокирање садржаја може проузроковати проблеме са неким веб сајтовима. Када пријавите проблем, помажете да &brandShortName; буде бољи свима. (Ово ће послати Mozilla-и URL са добро познатим информацијама о вашој приватности и поставкама за блокирање садржаја.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Сазнајте више">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+
 <!ENTITY trackingProtection.title "Заштита од праћења">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокира делове странице који можда прате ваше активности.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Овај сајт садржи елементе који прате ваше активности. Ви сте искључили заштиту.">

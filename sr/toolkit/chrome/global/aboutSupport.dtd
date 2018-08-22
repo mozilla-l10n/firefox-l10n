@@ -13,7 +13,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Извештаји о рушењу">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "ID извештаја">
 <!ENTITY aboutSupport.crashes.sendDate "Поднесено">
 <!ENTITY aboutSupport.crashes.allReports "Сви извештаји о рушењу">
@@ -36,15 +36,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureName "Назив">
 <!ENTITY aboutSupport.featureVersion "Издање">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "Експерименталне могућности">
-<!ENTITY aboutSupport.experimentName "Име">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Опис">
-<!ENTITY aboutSupport.experimentActive "Активна">
-<!ENTITY aboutSupport.experimentEndDate "До кад">
-<!ENTITY aboutSupport.experimentHomepage "Почетна страница">
-<!ENTITY aboutSupport.experimentBranch "Грана">
 
 <!ENTITY aboutSupport.appBasicsTitle "Основе апликације">
 <!ENTITY aboutSupport.appBasicsName "Назив">
@@ -79,7 +70,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Процеси веб садржаја">
 
-<!ENTITY aboutSupport.enterprisePolicies "Политике предузећа">
+<!ENTITY aboutSupport.enterprisePolicies "Полисе предузећа">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google кључ">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Кључ Mozilla сервиса за локацију">
