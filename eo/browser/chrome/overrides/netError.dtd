@@ -136,6 +136,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "La posedanto de <span class='hostname'/> malĝuste agordis sian retejon. Por protekti viajn datumojn kontraŭ ŝtelo, &brandShortName; ne konektiĝis al tiu ĉi retejo.">
 
+<!ENTITY certerror.introPara2 "&brandShortName; trovis eblan sekurecan riskon kaj ne konektiĝis al <span class='hostname'/>. Se vi tamen vizitas tiun ĉi retejon, atakantoj povus klopodi ŝteli informojn, kiel ezkemple viajn pasvortojn, retpoŝtajn mesaĝojn aŭ detalojn de via kreditkarto.">
 
 <!ENTITY certerror.expiredCert.secondPara "Tiu problemo okazas tre verŝajne pro tio ke la horloĝo de via komputilo ne estas ĝusta, kio malpermesus al &brandShortName; sekure konektiĝi.">
 
