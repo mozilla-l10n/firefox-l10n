@@ -368,6 +368,7 @@
 <!ENTITY event.attendee.usertype.group          "Grup">
 <!ENTITY event.attendee.usertype.resource       "Sumber Daya">
 <!ENTITY event.attendee.usertype.room           "Ruangan">
+<!ENTITY event.attendee.usertype.unknown        "Tidak diketahui">
 
 <!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Tentukan Zona Waktu">
