@@ -979,6 +979,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "차단 추가…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "문제 보고">
+<!ENTITY contentBlocking.breakageReportView.label "문제 보고">
+<!ENTITY contentBlocking.breakageReportView.description "콘텐츠를 차단하면 몇몇 사이트에서 문제가 발생할 수 있습니다. 문제를 보고해주시면 &brandShortName;가 더 좋아지는데 도움을 주실 수 있습니다. (사용자의 개인 정보와 콘텐츠 차단 설정과 함께 URL도 같이 Mozilla에 전송됩니다.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "자세히 보기">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; 버전 번호">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "어떤 문제가 있었나요? (선택)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "보고서 전송">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "취소">
+
 <!ENTITY trackingProtection.title "추적 보호">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName;가 사용자의 탐색을 추적할 수 있는 페이지의 부분을 차단하였습니다.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "이 사이트는 사용자의 탐색을 추적할 수 있는 요소를 포함하고 있습니다. 보호 기능이 꺼져 있습니다.">
