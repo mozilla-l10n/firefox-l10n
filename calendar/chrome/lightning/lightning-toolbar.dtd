@@ -3,36 +3,32 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY lightning.toolbar.calendar.name "Bilah Alat Kalender">
-
 <!ENTITY lightning.toolbar.task.name "Bilah Alat Tugas">
 
-
 <!ENTITY lightning.toolbar.sync.label "Sinkronkan">
-
 <!ENTITY lightning.toolbar.delete.label "Hapus">
-
 <!ENTITY lightning.toolbar.edit.label "Edit">
-
-
-
+<!ENTITY lightning.toolbar.edit.tooltip "Sunting acara atau tugas terpilih">
+<!ENTITY lightning.toolbar.gototoday.label "Menuju Hari Ini">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Menuju Hari Ini">
 <!ENTITY lightning.toolbar.print.label "Cetak">
+<!ENTITY lightning.toolbar.print.tooltip "Cetak acara atau tugas">
 
 <!-- Mode Toolbar -->
-
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Pindah ke tab kalender">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Tugas">
 <!ENTITY lightning.toolbar.task.tooltip       "Pindah ke tab tugas">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
-<!-- Toolbar write button -->
 
+<!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Acara">
 <!ENTITY lightning.toolbar.newevent.tooltip   "Buat acara baru">
 <!ENTITY lightning.toolbar.newtask.label      "Tugas">
 <!ENTITY lightning.toolbar.newtask.tooltip    "Buat tugas baru">
-<!-- Calendar and Task Mode Toolbar -->
 
+<!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Hari">
 <!ENTITY lightning.toolbar.day.accesskey             "H">
 <!ENTITY lightning.toolbar.week.label                "Minggu">
@@ -43,8 +39,5 @@
 <!ENTITY lightning.toolbar.month.accesskey           "B">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
-
-
-
-
-
+<!ENTITY lightning.toolbar.appmenuButton.label       "AppMenu">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Tampilkan Menu &brandShortName;">
