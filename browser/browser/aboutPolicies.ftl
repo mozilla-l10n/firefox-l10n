@@ -7,6 +7,6 @@ about-policies-title = Ведомствени ограничения
 active-policies-tab = Наложени
 errors-tab = Грешки
 documentation-tab = Документация
-policy-name = Име на ограничението
+policy-name = Ограничение
 policy-value = Стойност
 policy-errors = Грешки в ограниченията
