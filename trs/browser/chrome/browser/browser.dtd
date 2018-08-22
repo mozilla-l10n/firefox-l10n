@@ -793,12 +793,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.done.label                     "Dunahuij">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "Digun' sa nagi'iaj 'ngà na'nïnj so'">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Sa dugumi'">
 
+<!ENTITY identity.connectionSecure "Konexiôn yitinj in">
+<!ENTITY identity.connectionNotSecure "Nitaj si yitïnj hua coneksion na">
+<!ENTITY identity.connectionFile "'Ngà nu sa' pajinâ na riña si aga't.">
+<!ENTITY identity.connectionVerified2 "Hua yitïnj sitio na, nikoj:">
+<!ENTITY identity.connectionInternal "Nitaj si hua ahī pajina nikaj ñu'unj &brandShortName;">
+<!ENTITY identity.extensionPage "Asij a'ngo hij nachra pajinâ na.">
+<!ENTITY identity.insecureLoginForms2 "Nej sesion ayi'ì hiuna nī nitaj si yitïnj hua ma.">
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "&brandShortName; garán ma riña da'aj sa 'na' riña pajinâ na dadin' ahī hua ma.">
+<!ENTITY identity.passiveLoaded "Hua da'aj nej sa 'na' riña ñanj na ni sa yi'ìi huin nej ma (daj rû' nej ñadu'ua ni'io')">
 
 <!-- Strings for connection state warnings in the subview. -->
 
@@ -858,6 +870,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
