@@ -602,10 +602,10 @@ sitedata-accept-third-party-visited-option =
 sitedata-accept-third-party-never-option =
     .label = 不接受
 sitedata-allow-cookies-option =
-    .label = 接受 Cookie 和站点数据
+    .label = 接受 Cookie 和网站数据
     .accesskey = A
 sitedata-disallow-cookies-option =
-    .label = 阻止 Cookie 和站点数据
+    .label = 阻止 Cookie 和网站数据
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
