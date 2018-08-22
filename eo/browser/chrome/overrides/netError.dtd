@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Reen (rekomendita)">
 <!ENTITY advanced.label "Spertula">
 
-<!ENTITY continue1.label "Daŭrigi…">
+<!ENTITY continue2.label "Pli…">
 <!ENTITY moreInformation.label "Pli da informo">
 
 <!-- Specific error messages -->
@@ -131,12 +131,11 @@
 
 <!ENTITY certerror.longpagetitle1 "Via konekto ne estas sekura">
 <!ENTITY certerror.longpagetitle2 "Averto: Ebla sekureca risko antaŭ vi">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "La posedanto de <span class='hostname'/> malĝuste agordis sian retejon. Por protekti viajn datumojn kontraŭ ŝtelo, &brandShortName; ne konektiĝis al tiu ĉi retejo.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; eltrovis eblan sekurecan minacon kaj ne pluiris al <span class='hostname'/>. Se vi vizitas tiun ĉi retejon, atakantoj povus klopodi ŝteli informojn, kiel viajn pasvortojn, retpoŝtajn adresojn aŭ kreditkartojn.">
 
 <!ENTITY certerror.expiredCert.secondPara "Tiu problemo okazas tre verŝajne pro tio ke la horloĝo de via komputilo ne estas ĝusta, kio malpermesus al &brandShortName; sekure konektiĝi.">
 
@@ -165,6 +164,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Aldoni escepton…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Akcepti la riskon kaj daŭrigi">
 
 <!ENTITY errorReporting.automatic2 "Raporti erarojn kiel tiu ĉi por helpi Mozillan identigi kaj bloki malicajn retejojn">
 <!ENTITY errorReporting.learnMore "Pli da informo…">

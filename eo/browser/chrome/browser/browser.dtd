@@ -981,6 +981,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView.label "Raporti problemojn">
 <!ENTITY contentBlocking.breakageReportView.label "Raporti problemojn">
+<!ENTITY contentBlocking.breakageReportView.description "Blokado de enhavo povas okazigi problemojn en kelkaj retejoj. Se vi raportas problemojn, vi helpas plibonigi &brandShortName; por ĉiuj. (Tio ĉi sendos retadreson kaj informon pri viaj privatecaj kaj enhavoblokaj agordoj al Mozilla.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Pli da informo">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "Retadreso">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Versio de &brandShortName;">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kiujn problemojn vi havis? (nedeviga)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Sendi raporton">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Nuligi">
 
 <!ENTITY trackingProtection.title "Protekto kontraŭ spurado">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokas partojn de la paĝo kiuj povus spuri vian retumon.">
