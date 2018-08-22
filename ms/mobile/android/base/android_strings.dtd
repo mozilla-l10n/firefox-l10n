@@ -910,3 +910,4 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "Perkhidmatan Lokasi &vendorShortName;">
 <!ENTITY download_notification_channel "Muat turun">
+<!ENTITY media_notification_channel "Main semula media">
