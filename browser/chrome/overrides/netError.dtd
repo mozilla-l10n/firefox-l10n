@@ -11,7 +11,8 @@
 <!ENTITY returnToPreviousPage1.label "ย้อนกลับ (แนะนำ)">
 <!ENTITY advanced.label "ขั้นสูง">
 
-<!ENTITY continue1.label "ดำเนินการต่อ…">
+<!ENTITY continue2.label "เพิ่มเติม…">
+<!ENTITY moreInformation.label "ข้อมูลเพิ่มเติม">
 
 <!-- Specific error messages -->
 
@@ -85,7 +86,7 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากไม่สามารถยืนยันความถูกต้องของข้อมูลที่ได้รับ</li> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "การเชื่อมต่อของคุณไม่ปลอดภัย">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "เจ้าของ <span class='hostname'/> ได้กำหนดค่าเว็บไซต์ของพวกเขาไม่เหมาะสม  เพื่อปกป้องข้อมูลของคุณจากการถูกขโมย &brandShortName; จึงไม่ได้เชื่อมต่อไปยังเว็บไซต์นี้">
@@ -106,6 +107,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "เพิ่มข้อยกเว้น…">
+
+<!ENTITY securityOverride.exceptionButton1Label "ยอมรับความเสี่ยงและดำเนินการต่อ">
 
 <!ENTITY errorReporting.automatic2 "รายงานข้อผิดพลาดเช่นนี้เพื่อช่วย Mozilla ระบุและปิดกั้นไซต์ที่ประสงค์ร้าย">
 <!ENTITY errorReporting.learnMore "เรียนรู้เพิ่มเติม…">
@@ -132,6 +135,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ใช้เทคโนโลยีความปลอดภัยที่ล้าสมัยและเสี่ยงต่อการถูกโจมตี ผู้โจมตีสามารถเปิดเผยข้อมูลที่คุณคิดว่าปลอดภัยได้อย่างง่ายดาย ผู้ดูแลเว็บไซต์จำเป็นต้องแก้ไขเซิร์ฟเวอร์ก่อนที่คุณจะสามารถเยี่ยมชมไซต์ได้</p><p>รหัสข้อผิดพลาด: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "หน้าที่ถูกปิดกั้น">
+
 
 <!ENTITY prefReset.longDesc "ดูเหมือนว่าการตั้งค่าความปลอดภัยเครือข่ายของคุณอาจเป็นสาเหตุของสิ่งนี้ คุณต้องการเรียกคืนการตั้งค่าเริ่มต้นหรือไม่?">
 <!ENTITY prefReset.label "เรียกคืนการตั้งค่าเริ่มต้น">
