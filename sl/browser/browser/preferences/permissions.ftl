@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Dovoljene strani – Samodejno predvajanje
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Določite lahko, katere spletne strani smejo samodejno predvajati predstavnostne elemente. Vnesite točen naslov spletne strani, ki ji želite omogočiti samodejno predvajanje, in nato kliknite Dovoli.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Izjeme – Samodejno predvajanje
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Določite lahko, katere strani smejo vedno samodejno predvajati vsebine z zvokom in katere jih ne smejo nikoli. Vnesite točen naslov strani in kliknite gumb Prepovej ali Dovoli.
 
 ## Site Permissions - Notifications
