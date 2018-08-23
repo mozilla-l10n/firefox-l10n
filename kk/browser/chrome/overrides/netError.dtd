@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Артқа оралу (ұсынылады)">
 <!ENTITY advanced.label "Кеңейтілген">
 
-<!ENTITY continue1.label "Жалғастыру…">
+<!ENTITY continue2.label "Көбірек…">
 <!ENTITY moreInformation.label "Көбірек ақпарат">
 
 <!-- Specific error messages -->
@@ -93,12 +93,11 @@
 
 <!ENTITY certerror.longpagetitle1 "Сіздің байланысыңыз қауіпсіз емес">
 <!ENTITY certerror.longpagetitle2 "Назарыңызға: алдыңызда тәуекел бар сияқты">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> иесі өз сайтын дұрыс емес баптаған. Ақпаратыңызды ұрланудан қорғау үшін, &brandShortName; бұл веб сайтпен байланыспады.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; мүмкін қауіпсіздік қауіпін анықтады, және <span class='hostname'/> сайтына өтуді жалғастырмады. Бұл сайтты шолсаңыз, шабуылшылар сіздің парольдер, эл. пошта немесе несие карта сияқты ақпаратыңызды ұрлай алады.">
 
 <!ENTITY certerror.expiredCert.secondPara "Бұл мәселе компьютеріңіздің сағаты қате уақыт көрсетіп тұрғаны салдарынан болып тұрған сияқты, нәтижесінде &brandShortName; қауіпсіз түрде байланыса алмады.">
 
@@ -129,6 +128,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ерекше ережені қосу…">
+
 
 <!ENTITY errorReporting.automatic2 "Осындай қателер туралы хабарлап, Mozilla-ға зиянды сайттарды анықтауға және блоктауға көмектесу">
 <!ENTITY errorReporting.learnMore "Көбірек білу…">

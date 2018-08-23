@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Рұқсат етілген веб-сайттар - Автоойнату
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Қай веб-сайттара медиа элементтерін автоойнатуға рұқсат етілгенін көрсете аласыз. Рұқсат ету үшін сайттың толық адресін жазып, Рұқсат ету батырмасын басыңыз.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Ережеден тыс - автоойнату
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Қай сайттарға дыбысы бар медианы ойнатуды рұқсат етілгенін немесе етілмегенін осында таңдай аласыз. Сайт адресін енгізіп, Бұғаттау немесе Рұқсат ету батырмалардың біреуін басыңыз.
 
 ## Site Permissions - Notifications

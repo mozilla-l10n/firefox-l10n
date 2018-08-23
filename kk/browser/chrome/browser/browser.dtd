@@ -979,6 +979,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Бұғаттауды қосу…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Мәселелерді хабарлау">
+<!ENTITY contentBlocking.breakageReportView.label "Мәселелерді хабарлау">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Көбірек білу">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; нұсқа нөмірі">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Мәселелердің қай түрін кездестірдіңіз? (Міндетті емес)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Есептемені жіберу">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Бас тарту">
+
 <!ENTITY trackingProtection.title "Бақылаудан қорғаныс">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; бұл парақтың сіздің желідегі әрекеттеріңізді бақылай алатын бөліктерін блоктаған.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Бұл сайтта сіздің желідегі әрекеттеріңізді бақылай алатын элементтер бар. Сіз бақылаудан қорғанысты сөндіргенсіз.">
