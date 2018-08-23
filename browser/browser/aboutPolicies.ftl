@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 errors-tab = ข้อผิดพลาด
+documentation-tab = เอกสารประกอบ

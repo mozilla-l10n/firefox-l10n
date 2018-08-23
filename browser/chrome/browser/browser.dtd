@@ -939,7 +939,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.off "การป้องกันการติดตาม: ปิด">
 
 <!ENTITY contentBlocking.title "การปิดกั้นเนื้อหา">
+<!ENTITY contentBlocking.detected "ตรวจพบเนื้อหาที่สามารถปิดกั้นได้ในไซต์นี้">
+<!ENTITY contentBlocking.notDetected "ไม่พบเนื้อหาที่สามารถปิดกั้นได้ในไซต์นี้">
 <!ENTITY contentBlocking.disabled.label "ถูกปิดใช้งาน">
+<!ENTITY contentBlocking.disabled.tooltip "คุณได้ปิดใช้งานการปิดกั้นเนื้อหา">
+<!ENTITY contentBlocking.exception.tooltip "คุณได้ปิดใช้งานการปิดกั้นเนื้อหาสำหรับไซต์นี้">
 
 <!ENTITY contentBlocking.fastBlock.label "ตัวติดตามที่โหลดช้า">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
@@ -1006,6 +1010,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "ปิดใช้งานสำหรับไซต์นี้">
 <!ENTITY trackingProtection.unblock3.accesskey "ป">
+<!ENTITY trackingProtection.unblock4.label "ปิดใช้งานการปิดกั้นสำหรับไซต์นี้">
+<!ENTITY trackingProtection.unblock4.accesskey "ป">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -1013,6 +1019,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "ป">
 <!ENTITY trackingProtection.block4.label "เปิดใช้งานสำหรับไซต์นี้">
 <!ENTITY trackingProtection.block4.accesskey "ป">
+<!ENTITY trackingProtection.unblockPrivate4.label "ปิดใช้งานการปิดกั้นชั่วคราว">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "ป">
+<!ENTITY trackingProtection.block5.label "เปิดใช้งานการปิดกั้นสำหรับไซต์นี้">
+<!ENTITY trackingProtection.block5.accesskey "ป">
 <!ENTITY trackingProtection.reload2.label "โหลดหน้าใหม่">
 <!ENTITY trackingProtection.reload2.accesskey "ห">
 
