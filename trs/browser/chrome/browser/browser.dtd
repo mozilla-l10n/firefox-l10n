@@ -1120,6 +1120,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Si ganikaj ñu'ū' extenesiôn">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "Gatu' riña rakïj ñanj huìi">
+<!ENTITY tabHideControlled.keepButton.label "Gà ngē rakïj ñanj huìi">
 
 
 
