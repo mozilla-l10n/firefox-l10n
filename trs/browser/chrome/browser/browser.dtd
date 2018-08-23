@@ -905,15 +905,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.extraDragSpace "Dunaj ni'nïn' riña ganukuo'">
 <!ENTITY customizeMode.toolbars2 "Riña ma sa raj sun'">
 <!ENTITY customizeMode.lwthemes "Têma">
+<!ENTITY customizeMode.lwthemes.myThemes "Si temaj">
+<!ENTITY customizeMode.lwthemes.recommended "Sā sa'a huin ânj">
+<!ENTITY customizeMode.lwthemes.menuManage "Ganikaj ñu'un'">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Gàchin' doj tema">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.overflowList.title2 "Menu sa niko'o">
+<!ENTITY customizeMode.overflowList.description "Ganukuaj nī na'nïnj ra'àt ñuna da' si ginunj riña dukuán rasùun...">
+<!ENTITY customizeMode.uidensity "Nikòo huaj">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Da'nga' gaj">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Da'nga' gaj">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Kompakta">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompakta">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Tâktil">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tâktil">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 
 
 
