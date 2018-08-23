@@ -699,6 +699,15 @@
 
 <!ENTITY trackingProtection.on "Ochrona przed śledzeniem: włączona">
 <!ENTITY trackingProtection.off "Ochrona przed śledzeniem: wyłączona">
+<!ENTITY contentBlocking.title "Blokowanie treści">
+<!ENTITY contentBlocking.detected "Na tej stronie wykryto treści do zablokowania.">
+<!ENTITY contentBlocking.notDetected "Na tej stronie nie wykryto treści do zablokowania.">
+<!ENTITY contentBlocking.fastBlock.label "Powolne elementy śledzące">
+<!ENTITY contentBlocking.fastBlock.blocked.label "Zablokowano">
+<!ENTITY contentBlocking.fastBlock.add.label "Włącz blokowanie…">
+<!ENTITY contentBlocking.trackingProtection.label "Elementy śledzące">
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Zablokowano">
+<!ENTITY contentBlocking.trackingProtection.add.label "Włącz blokowanie…">
 <!ENTITY trackingProtection.title "Ochrona przed śledzeniem">
 <!ENTITY trackingProtection.tooltip "Otwórz ustawienia ochrony przed śledzeniem">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje elementy strony mogące śledzić Twoją aktywność.">
@@ -719,18 +728,24 @@
 <!ENTITY trackingProtection.unblock2.accesskey "W">
 <!ENTITY trackingProtection.unblock3.label "Wyłącz dla tej witryny">
 <!ENTITY trackingProtection.unblock3.accesskey "W">
+<!ENTITY trackingProtection.unblock4.label "Wyłącz dla tej witryny">
+<!ENTITY trackingProtection.unblock4.accesskey "W">
 <!ENTITY trackingProtection.unblockPrivate.label "Wyłącz ochronę w tym oknie prywatnym">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "W">
 <!ENTITY trackingProtection.unblockPrivate2.label "Tymczasowo wyłącz dla tej witryny">
 <!ENTITY trackingProtection.unblockPrivate2.accesskey "T">
 <!ENTITY trackingProtection.unblockPrivate3.label "Tymczasowo wyłącz dla tej witryny">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "T">
+<!ENTITY trackingProtection.unblockPrivate4.label "Tymczasowo wyłącz dla tej witryny">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "T">
 <!ENTITY trackingProtection.block2.label "Włącz ochronę dla tej witryny">
 <!ENTITY trackingProtection.block2.accesskey "W">
 <!ENTITY trackingProtection.block3.label "Włącz ochronę przed śledzeniem">
 <!ENTITY trackingProtection.block3.accesskey "W">
 <!ENTITY trackingProtection.block4.label "Włącz ochronę dla tej witryny">
 <!ENTITY trackingProtection.block4.accesskey "W">
+<!ENTITY trackingProtection.block5.label "Włącz dla tej witryny">
+<!ENTITY trackingProtection.block5.accesskey "W">
 <!ENTITY trackingProtection.reload.label "Odśwież tę stronę">
 <!ENTITY trackingProtection.reload.accesskey "O">
 <!ENTITY trackingProtection.reload2.label "Odśwież stronę">
