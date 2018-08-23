@@ -939,6 +939,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Adaugă o blocare…">
 
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
@@ -949,8 +950,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Adaugă o blocare…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Raportează probleme">
+<!ENTITY contentBlocking.breakageReportView.label "Raportează probleme">
+<!ENTITY contentBlocking.breakageReportView.description "Blocarea de conținut poate cauza probleme cu unele site-uri web. Când raportezi probleme, vei ajuta la crearea unui &brandShortName; mai bun pentru toată lumea. Acest lucru va trimite către Mozilla un URL, precum și informații despre confidențialitatea și setările tale de blocare a conținutului.">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Află mai multe">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL-ul">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Numărul versiunii &brandShortName;">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ce probleme ai întâmpinat? (Opțional)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Trimite raportul">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Renunță">
 
 <!ENTITY trackingProtection.title "Protecție față de urmărire">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blochează părți ale paginii care ți-ar putea urmări navigarea.">
@@ -969,14 +979,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Activează protecția">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
+<!ENTITY trackingProtection.tooltip "Deschide preferințele de protecție împotriva urmăririi">
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Dezactivează pentru acest site">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Dezactivează pentru această sesiune">
 
 <!ENTITY pluginNotification.showAll.label "Arată-le pe toate">
 <!ENTITY pluginNotification.showAll.accesskey "S">
