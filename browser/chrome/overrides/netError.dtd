@@ -98,6 +98,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> иесі өз сайтын дұрыс емес баптаған. Ақпаратыңызды ұрланудан қорғау үшін, &brandShortName; бұл веб сайтпен байланыспады.">
 
+<!ENTITY certerror.introPara2 "&brandShortName; мүмкін қауіпсіздік қауіп-қатерін анықтап, <span class='hostname'/> сайтына өтуді жалғастырмады. Бұл сайтты шолсаңыз, шабуылшылар сіздің парольдер, эл. пошта адрестері немесе несие карта сияқты ақпаратын ұрлау талабын жасауы мүмкін.">
 
 <!ENTITY certerror.expiredCert.secondPara "Бұл мәселе компьютеріңіздің сағаты қате уақыт көрсетіп тұрғаны салдарынан болып тұрған сияқты, нәтижесінде &brandShortName; қауіпсіз түрде байланыса алмады.">
 
@@ -129,6 +130,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ерекше ережені қосу…">
 
+<!ENTITY securityOverride.exceptionButton1Label "Тәуекелді қабылдап, жалғастыру">
 
 <!ENTITY errorReporting.automatic2 "Осындай қателер туралы хабарлап, Mozilla-ға зиянды сайттарды анықтауға және блоктауға көмектесу">
 <!ENTITY errorReporting.learnMore "Көбірек білу…">
