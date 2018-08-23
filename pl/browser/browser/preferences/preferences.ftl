@@ -521,6 +521,29 @@ addressbar-locbar-openpage-option =
     .accesskey = k
 addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych przez wyszukiwarki
 
+content-blocking-header=Blokowanie treści
+content-blocking-desc=Blokowane elementów od zewnętrznych podmiotów (jak reklamy i skrypty) mogących spowolnić przeglądanie i śledzić aktywność w sieci. Ustawienia poniżej ułatwiają optymalne dostrojenie poziomu ochrony i szybkości wczytywania witryn.
+content-blocking-learn-more=Więcej informacji
+content-blocking-toggle-on=
+  .tooltiptext=Wyłącz blokowanie treści
+content-blocking-toggle-off=
+  .tooltiptext=Włącz blokowanie treści
+content-blocking-toggle-label-on=Włączone
+  .accesskey=W
+content-blocking-toggle-label-off=Wyłączone
+  .accesskey=W
+content-blocking-category-label=Blokowane elementy
+content-blocking-tracking-protection-label=Elementy śledzące
+  .accesskey=E
+content-blocking-tracking-protection-description=Blokowanie wszystkich znanych elementów śledzących. Niektóre strony mogą nie działać prawidłowo.
+content-blocking-tracking-protection-option-enabled=
+  .label=Obligatoryjne blokowanie
+content-blocking-tracking-protection-option-pbm=
+  .label=Blokowanie w oknach prywatnych
+content-blocking-tracking-protection-option-disabled=
+  .label=Brak blokowania
+content-blocking-tracking-protection-change-blocklist=Zmień listę blokowanych…
+
 tracking-header=Ochrona przed śledzeniem
 tracking-desc=Ochrona przed śledzeniem blokuje elementy, które zbierają informacje o przeglądaniu na wielu różnych stronach. <a data-l10n-name="learn-more">Więcej informacji o ochronie przed śledzeniem i prywatności</a>.
 tracking-mode-label=Chroń przed śledzeniem przez znane elementy śledzące:
