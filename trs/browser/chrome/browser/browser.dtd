@@ -1097,9 +1097,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "Si ga'ue akuan'ni">
 <!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Naduni' a'ngo sa hua dàdanj &brandShorterName;">
 
+<!ENTITY updateRestart.message2 "'Ngà nayi'ì ñun, &brandShorterName; ni na'nin ñunj daran' rakïj ñanj nī nej ventana hua ni'nïnj.">
+<!ENTITY updateRestart.header.message2 "Duna'àj ni nachrun ñûnt da' nahuin nàkaj &brandShorterName;.">
+<!ENTITY updateRestart.acceptButton.label "Nayi'ì ñut nī nagi'iaj ñut">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "Si ga'ue akuan'ni">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Duna'àj ni nachrun ñûnt da' nahuin nàkaj &brandShorterName;">
 
+<!ENTITY newTabControlled.header.message "Nadunà rakïj ñanj.">
+<!ENTITY newTabControlled.keepButton.label "Gàj run' naduno'">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.disableButton.label "Si ganikaj ñu'ū' extenesiôn">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "'Ngo extensiôn ganaduna si pajinât. Ga'ue nagi'iaj ñut si danj huin ruat.">
+<!ENTITY homepageControlled.header.message "Nadunà si pajinât riña ayi'ìt.">
+<!ENTITY homepageControlled.keepButton.label "Gàj run' naduno'">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "Si ganikaj ñu'ū' extenesiôn">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
 
 
