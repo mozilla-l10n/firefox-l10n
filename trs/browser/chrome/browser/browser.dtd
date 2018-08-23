@@ -932,30 +932,52 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.label "Tâktil">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tâktil">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Garasun' Tâktil da' garasun' 'ngà Tableta">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Gachi hui ma'an ma">
 
+<!ENTITY getUserMedia.selectCamera.label "Garasun' kamara 'ngà:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Garasun' mikrôfono 'ngà:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "Garasun' nugua'ān ne' nanèe.">
+<!ENTITY getUserMedia.allWindowsShared.message "Daran' ventana nu riña si pantayât ni ga'ue garasun nugua'ān ne'.">
 
+<!ENTITY trackingProtection.on "Sa narrán riña sa naga'nàj a: ON">
+<!ENTITY trackingProtection.off "Sa narrán riña sa naga'nàj a: OFF">
 
+<!ENTITY contentBlocking.title "Garrun' riña kontenido">
+<!ENTITY contentBlocking.detected "Nachì nità kontenido arrán riña sitio na.">
+<!ENTITY contentBlocking.notDetected "Nū nari'ij kontenido arrán riña sitio na.">
+<!ENTITY contentBlocking.disabled.label "Nitaj si huáj">
+<!ENTITY contentBlocking.disabled.tooltip "Guxunt sa arrán riña kontenido na.">
+<!ENTITY contentBlocking.exception.tooltip "Guxunt sa arrán riña kontenido na guenda sitio na.">
 
+<!ENTITY contentBlocking.fastBlock.label "Sa naga'naj sa 'iaj sun naj">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Hua blokeadoj">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Nuto' sa arrán...">
 
+<!ENTITY contentBlocking.trackingProtection.label "Sa naga'naj">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Hua blokeadoj">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Nuto' sa arrán...">
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
