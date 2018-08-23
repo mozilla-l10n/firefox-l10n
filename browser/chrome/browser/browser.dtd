@@ -979,6 +979,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Zavračaj …">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Prijavite težave">
+<!ENTITY contentBlocking.breakageReportView.label "Prijavite težave">
+<!ENTITY contentBlocking.breakageReportView.description "Zavračanje vsebine lahko povzroči določene težave s spletnimi stranmi. S prijavo težave pomagate izboljševati &brandShortName;. (Mozilli bo poslan naslov URL, podatki o vaši zasebnosti in nastavitve zavračanja vsebine.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Več o tem">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Različica &brandShortName;a">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Pošlji poročilo">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Prekliči">
+
 <!ENTITY trackingProtection.title "Zaščita pred sledenjem">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; zavrača dele strani, ki lahko sledijo vašemu brskanju.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Stran vsebuje elemente, ki lahko sledijo vašemu brskanju. Zaščita je onemogočena.">
