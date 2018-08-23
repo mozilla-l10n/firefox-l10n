@@ -599,6 +599,10 @@ sitedata-allow-cookies-option =
 sitedata-disallow-cookies-option =
     .label = ปิดกั้นคุกกี้และข้อมูลไซต์
     .accesskey = ป
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = ชนิดที่ถูกปิดกั้น
+    .accesskey = ช
 sitedata-block-trackers-option-recommended =
     .label = ตัวติดตามจากบุคคลที่สาม (แนะนำ)
 sitedata-block-trackers-option =
@@ -650,6 +654,11 @@ content-blocking-toggle-label-on = เปิด
 content-blocking-toggle-label-off = ปิด
     .accesskey = ป
 content-blocking-category-label = เลือกสิ่งที่จะปิดกั้น
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = องค์ประกอบติดตามที่ช้า
+    .accesskey = อ
 content-blocking-fastblock-option-enabled =
     .label = ปิดกั้นเสมอ
 content-blocking-fastblock-option-disabled =
