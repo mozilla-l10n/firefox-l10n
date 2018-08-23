@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Ota käyttöön viestien yleishaku ja indeksoija">
 <!ENTITY enableGlodaSearch.accesskey   "O">
 <!ENTITY dateTimeFormatting.label      "Päiväyksen ja ajan muoto">
+<!ENTITY languageSelector.label        "Kieli">
 <!ENTITY allowHWAccel.label            "Käytä laitteistokiihdytystä jos mahdollista">
 <!ENTITY allowHWAccel.accesskey        "l">
 <!ENTITY storeType.label               "Viestisäilö uusilla tileillä:">
