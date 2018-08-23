@@ -838,7 +838,7 @@ content-blocking-toggle-label-on = AAN
 content-blocking-toggle-label-off = UIT
   .accesskey = U
 
-content-blocking-category-label = Kiezen wat er wordt geblokkkeerd
+content-blocking-category-label = Kiezen wat er wordt geblokkeerd
 
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
