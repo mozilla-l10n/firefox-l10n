@@ -13,5 +13,6 @@
 <!ENTITY useSmallIcons.label      "Seqdec tigniyin meẓẓiyen">
 <!ENTITY restoreDefaultSet.label  "Tawila s uwennez n tazwara">
 <!ENTITY addNewToolbar.label      "Rnu afeggag n ifecka amaynut">
+<!ENTITY showTitltbar.label       "Sken afeggag n uzwel">
 <!ENTITY saveChanges.label        "Immed">
 <!ENTITY undoChanges.label        "Sefsex isniflen">
