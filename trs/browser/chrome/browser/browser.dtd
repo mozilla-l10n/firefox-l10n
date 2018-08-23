@@ -1081,7 +1081,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Gahuin chrūn doj rayi'ì DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Nagi'iaj nakà &brandShorterName;da' gi'iaj sun hiò ma.">
+<!ENTITY updateAvailable.whatsnew.label "Ni'iaj si ngà gurugui' a'ngô sa nakàa.">
+<!ENTITY updateAvailable.header.message "Hua 'ngo sa nakàa guenda &brandShorterName;.">
+<!ENTITY updateAvailable.acceptButton.label "Naduni' sa nagi'iaj nakàa">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "Si ga'ue akuan'ni">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Naduni' sa nakàa guenda &brandShorterName;">
 
+<!ENTITY updateManual.message "Naduninj 'ngò sa nakàa guenda &brandShorterName;.">
+<!ENTITY updateManual.whatsnew.label "Ni'iaj si ngà gurugui' a'ngô sa nakàa.">
+<!ENTITY updateManual.header.message "Si ga'ue nagi'iaj nakàt &brandShorterName;.">
+<!ENTITY updateManual.acceptButton.label "Naduninj &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "Si ga'ue akuan'ni">
+<!ENTITY updateManual.cancelButton.accesskey "N">
 
 
 
