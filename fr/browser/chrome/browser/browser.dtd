@@ -981,6 +981,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView.label "Signaler des problèmes">
 <!ENTITY contentBlocking.breakageReportView.label "Signaler des problèmes">
+<!ENTITY contentBlocking.breakageReportView.description "Le blocage des contenus peut causer des problèmes avec certains sites web. Quand vous signalez des problèmes, vous aidez à rendre &brandShortName; meilleur pour tout le monde. (Ceci enverra une URL ainsi que des informations sur vos paramètres de confidentialité et de blocage de contenu à Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "En savoir plus">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Numéro de version de &brandShortName;">
