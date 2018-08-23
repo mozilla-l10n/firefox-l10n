@@ -982,7 +982,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.openBreakageReportView.label "Natao' sa gire'ej">
 <!ENTITY contentBlocking.breakageReportView.label "Nato' sa gire'e">
 <!ENTITY contentBlocking.breakageReportView.description "Si garrun' riña nej kontenido ni si gi'iaj su hue'ê da'aj sitio web. 'Ngà nata't si hua sa nitaj si 'jaj sun hue'ê nī ruguñu'unjt &brandShortName; da' nahuin' hue'ê daran' ma. (Sa gi'iât na nī ga'ninj ma direksion riña gaché nut ni daj garrán sa gi'iaj sun 'ngà Mozilla.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Gahuin chrūn doj">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; Versiôn huin ma">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hua 'ngò sa gire' aj (Si garan' ruat)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Ga'ni' reporte">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Duyichin'">
 
+<!ENTITY trackingProtection.title "Sa narrán riña sa naga'nàj a">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; arrán ma riña pajinâ na da' si ga'ue naga'naj nej dugui' riña aché nut.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Hua 'ngò sa nikan sitio na nī ga'ue naga'naj ma riña aché nut. Nitaj si yitïnj hua ma.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
