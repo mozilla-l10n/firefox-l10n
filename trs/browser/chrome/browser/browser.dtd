@@ -1020,31 +1020,66 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Guxun' guendâ sitio na">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Guxun' sa arrán guendâ sitio na">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Guxun' guendâ sesiôn na">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Gà ma guendâ sitio na">
+<!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.label "Guxun akun' guendâ sitio na">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Gà ni'nïn sa arrán guendâ sitio na">
+<!ENTITY trackingProtection.block5.accesskey "E">
+<!ENTITY trackingProtection.reload2.label "Na'nī ñu' pajinâ">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
+<!ENTITY pluginNotification.showAll.label "Nadigân daran'anj">
+<!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+<!ENTITY pluginActivateNow.label "Ga'ni'">
+<!ENTITY pluginActivateAlways.label "Ga'ni' nī tanu' ruaj">
+<!ENTITY pluginBlockNow.label "Garrun' plugin">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
 
+<!ENTITY uiTour.infoPanel.close "Narán">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Gini'ñu':">
+<!ENTITY panicButton.view.5min                    "U'ūn' minutu">
+<!ENTITY panicButton.view.2hr                     "Huij hora">
+<!ENTITY panicButton.view.day                     "24 horâ">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "'Ngà gayi'i':">
+<!ENTITY panicButton.view.deleteCookies           "Dure' nej <html:strong>Kookies</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Dure' <html:strong>riña gaché nu'</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Narrun' daran' <html:strong>rakïj ñanj</html:strong> nī <html:strong>ventana</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Na'nïn' ventana nakàa">
 
+<!ENTITY panicButton.view.undoWarning             "Si ga'ue dure' sa 'ngà gahuin na.">
+<!ENTITY panicButton.view.forgetButton            "¡Gini'ñu!">
 
+<!ENTITY panicButton.thankyou.msg1                "'Ngà ganare' riña gaché nut.">
+<!ENTITY panicButton.thankyou.msg2                "¡Gadadù gache nut!">
+<!ENTITY panicButton.thankyou.buttonlabel         "¡Guruat!">
 
+<!ENTITY emeLearnMoreContextMenu.label            "Gahuin chrūn doj rayi'ì DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 
 
