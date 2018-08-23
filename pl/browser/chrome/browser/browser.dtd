@@ -702,6 +702,9 @@
 <!ENTITY contentBlocking.title "Blokowanie treści">
 <!ENTITY contentBlocking.detected "Na tej stronie wykryto treści do zablokowania.">
 <!ENTITY contentBlocking.notDetected "Na tej stronie nie wykryto treści do zablokowania.">
+<!ENTITY contentBlocking.disabled.label "Wyłączone">
+<!ENTITY contentBlocking.disabled.tooltip "Blokowanie treści jest wyłączone.">
+<!ENTITY contentBlocking.exception.tooltip "Blokowanie treści jest wyłączone dla tej witryny.">
 <!ENTITY contentBlocking.fastBlock.label "Powolne elementy śledzące">
 <!ENTITY contentBlocking.fastBlock.blocked.label "Zablokowano">
 <!ENTITY contentBlocking.fastBlock.add.label "Włącz blokowanie…">
