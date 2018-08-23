@@ -992,9 +992,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.title "Sa narrán riña sa naga'nàj a">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; arrán ma riña pajinâ na da' si ga'ue naga'naj nej dugui' riña aché nut.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Hua 'ngò sa nikan sitio na nī ga'ue naga'naj ma riña aché nut. Nitaj si yitïnj hua ma.">
+<!ENTITY trackingProtection.notDetected3 "Nitaj nej sa naga'naj hua riña pajina na.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label "Guxun' sa dugumî sitio na">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
