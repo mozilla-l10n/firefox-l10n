@@ -997,15 +997,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Guxun' sa dugumî sitio na">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Guxun' sa dugumî sesiôn na">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Nachrun' sa dugumî ñù'">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
+<!ENTITY trackingProtection.tooltip "Na'nïn' daj huin ruo' garán ma">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; arrán ma riña pajinâ na da' si ga'ue naga'naj nej dugui' riña aché nut.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; nari' ma sa ga'ue naga'naj riña aché nut.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; hua 'ngò sa nikan sitio na nī ga'ue naga'naj ma riña aché nut. Nitaj si yitïnj hua ma.">
+<!ENTITY trackingProtection.notDetected5 "Nitaj nej sa naga'naj hua riña pajinâ na.">
+<!ENTITY trackingProtection.notDetectedException "Nitaj sa naga'naj hua riña pajinâ na. Guxu't sa dugumi sitio na.">
 
+<!ENTITY trackingProtection.reloadRequired2 "'Ngà 'iaj sun sa dugumi sitio na. Nayi'ì ñu riña pajinâ na da' garránt riña nej sa naga'naj.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Guxun' guendâ sitio na">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
