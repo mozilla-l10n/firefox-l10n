@@ -99,6 +99,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> ના માલિકે તેમની વેબસાઇટ અયોગ્ય રીતે ગોઠવેલી છે.   તમારી માહિતીને ચોરાઇ જવાથી સુરક્ષિત કરવા માટે, &brandShortName; આ વેબસાઇટથી જોડાણ કરેલ નથી.">
 
+<!ENTITY certerror.introPara2 "&brandShortName; એ સંભવિત સુરક્ષા ધમકી શોધી જેથી <span class='hostname'/>મુલાકાત લેવાનું બંધ કર્યું. જો તમે આ સાઇટની મુલાકાત લો છો, તો હુમલાખોરો તમારા પાસવર્ડ્સ, ઇમેઇલ્સ અથવા ક્રેડિટ કાર્ડ વિગતો જેવી માહિતી ચોરી કરવાનો પ્રયાસ કરી શકે છે.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "તમે તેના વિશે શું કરી શકો?">
