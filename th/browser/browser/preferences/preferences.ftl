@@ -709,6 +709,7 @@ autoplay-option-allow =
     .label = อนุญาตการเล่นอัตโนมัติ
 autoplay-option-dont =
     .label = ไม่เล่นโดยอัตโนมัติ
+permissions-autoplay-link = เรียนรู้เพิ่มเติม
 permissions-block-popups =
     .label = ปิดกั้นหน้าต่างป๊อปอัป
     .accesskey = ป

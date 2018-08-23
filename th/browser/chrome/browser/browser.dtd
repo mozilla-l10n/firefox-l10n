@@ -312,6 +312,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "นักพัฒนาเว็บ">
 <!ENTITY webDeveloperMenu.accesskey   "พ">
 
+
 <!ENTITY inspectContextMenu.label     "ตรวจสอบองค์ประกอบ">
 <!ENTITY inspectContextMenu.accesskey "อ">
 
@@ -626,6 +627,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "ซ่อนปลั๊กอินนี้">
 <!ENTITY hidePluginCmd.accesskey      "อ">
 <!ENTITY copyLinkCmd.label            "คัดลอกตำแหน่งที่ตั้งลิงก์">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "ด">
 <!ENTITY copyImageCmd.label           "คัดลอกตำแหน่งที่ตั้งภาพ">
 <!ENTITY copyImageCmd.accesskey       "ง">
@@ -636,6 +640,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "คัดลอกตำแหน่งที่ตั้งเสียง">
 <!ENTITY copyAudioURLCmd.accesskey    "ง">
 <!ENTITY copyEmailCmd.label           "คัดลอกที่อยู่อีเมล">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "ท">
 <!ENTITY thisFrameMenu.label              "กรอบนี้">
 <!ENTITY thisFrameMenu.accesskey          "ก">
@@ -930,6 +937,44 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "การป้องกันการติดตาม: เปิด">
 <!ENTITY trackingProtection.off "การป้องกันการติดตาม: ปิด">
+
+<!ENTITY contentBlocking.title "การปิดกั้นเนื้อหา">
+<!ENTITY contentBlocking.disabled.label "ถูกปิดใช้งาน">
+
+<!ENTITY contentBlocking.fastBlock.label "ตัวติดตามที่โหลดช้า">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "ถูกปิดกั้น">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "เพิ่มการปิดกั้น…">
+
+<!ENTITY contentBlocking.trackingProtection.label "ตัวติดตาม">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "ถูกปิดกั้น">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "เพิ่มการปิดกั้น…">
+
+<!ENTITY contentBlocking.openBreakageReportView.label "รายงานปัญหา">
+<!ENTITY contentBlocking.breakageReportView.label "รายงานปัญหา">
+<!ENTITY contentBlocking.breakageReportView.learnMore "เรียนรู้เพิ่มเติม">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "หมายเลขรุ่น &brandShortName;">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "ส่งรายงาน">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "ยกเลิก">
+
 <!ENTITY trackingProtection.title "การป้องกันการติดตาม">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; กำลังปิดกั้นบางส่วนของหน้าที่อาจติดตามการท่องเว็บของคุณ">
 <!ENTITY trackingProtection.detectedNotBlocked3 "ไซต์นี้มีองค์ประกอบที่อาจติดตามการท่องเว็บของคุณ คุณได้ปิดใช้งานการป้องกัน">
@@ -955,6 +1000,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "ไม่พบองค์ประกอบที่มีการติดตามในหน้านี้ คุณได้ปิดใช้งานการป้องกันสำหรับไซต์นี้">
 
 <!ENTITY trackingProtection.reloadRequired2 "คุณได้เปิดใช้งานการป้องกันการติดตาม โหลดหน้านี้ใหม่เพื่อปิดกั้นตัวติดตามทั้งหมด">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
