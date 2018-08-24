@@ -316,6 +316,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Desvolopaire web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
 
+<!ENTITY devtoolsSaveRecording.label "Salvagardar l’enregistrament">
 
 <!ENTITY inspectContextMenu.label     "Examinar l'element">
 <!ENTITY inspectContextMenu.accesskey "x">
@@ -950,6 +951,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.disabled.tooltip "Avètz desactivat lo blocatge de contengut.">
 <!ENTITY contentBlocking.exception.tooltip "Avètz desactivat lo blocatge de contengut per aqueste site.">
 
+<!ENTITY contentBlocking.fastBlock.label "Traçadors tardius">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
