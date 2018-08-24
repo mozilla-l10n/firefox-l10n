@@ -627,6 +627,14 @@ addressbar-locbar-openpage-option =
     .accesskey = g
 addressbar-suggestions-settings = Cangia e inpostaçioin di conseggi di motoî de riçerca
 
+## Privacy Section - Content Blocking
+
+content-blocking-toggle-label-on = Averto
+    .accesskey = A
+content-blocking-toggle-label-off = Asmòrtou
+    .accesskey = A
+content-blocking-category-label = Çerni cöse blocâ
+
 ## Privacy Section - Tracking
 
 tracking-header = Proteçion anti-traciamento

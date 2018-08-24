@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Sciti permissi - Aoto-xeuo
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Ti peu specificâ quæ sciti peuan xoâ in aotomatico elementi media. Scrivi ben l'indirisso do scito che ti ghe veu dâ o permisso e sciacca Permetti.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Eceçioin - Aoto-riproduçion
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Ti ti peu dî quæ sciti peuan de longo fâ l'aotoriproduçion co-o son. Scrivi l'indirisso do scito che ti ti veu gestî e sciacca Blòcca ò Permetti.
 
 ## Site Permissions - Notifications
