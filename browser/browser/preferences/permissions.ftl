@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Povolené stránky - Automatické prehrávanie
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Na tomto mieste môžete určiť, ktoré stránky môžu automaticky prehrávať médiá. Zadajte presnú adresu stránky, ktorej chcete povoliť prehrávanie médií a potom kliknite na tlačidlo Povoliť.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Výnimky - Automatické prehrávanie
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Na tomto mieste môžete určiť, ktoré stránky môžu automaticky prehrávať médiá so zvukom. Zadajte presnú adresu stránky, ktorej chcete povoliť prehrávanie médií a potom kliknite na tlačidlo Povoliť alebo Zakázať.
 
 ## Site Permissions - Notifications

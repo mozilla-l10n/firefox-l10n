@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Prejsť naspäť (odporúča sa)">
 <!ENTITY advanced.label "Rozšírené">
 
-<!ENTITY continue1.label "Pokračovať…">
+<!ENTITY continue2.label "Viac…">
 <!ENTITY moreInformation.label "Ďalšie informácie">
 
 <!-- Specific error messages -->
@@ -147,12 +147,11 @@
 
 <!ENTITY certerror.longpagetitle1 "Vaše pripojenie nie je zabezpečené">
 <!ENTITY certerror.longpagetitle2 "Varovanie: možné bezpečnostné riziko">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Vlastník stránky <span class='hostname'/> nakonfiguroval svoju stránku nesprávne.  Kvôli ochrane vašich údajov pred odcudzením blokuje &brandShortName; pripojenie k tejto webovej stránke.">
 
-<!ENTITY certerror.introPara1 "Aplikácia &brandShortName; rozpoznala možné bezpečnostné riziko a stránku <span class='hostname'/> nenačítala. Ak budete na danú stránku pokračovať, útočníci sa môžu pokúsiť získať vaše informácie, napríklad heslá, e-mailové adresy alebo číslo platobnej karty.">
 
 <!ENTITY certerror.expiredCert.secondPara "Tento problém je pravdepodobne spôsobený chybným nastavením času na vašom počítači, ktoré bráni aplikácii &brandShortName; v nadviazaní zabezpečeného spojenia.">
 
@@ -188,6 +187,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Pridať výnimku…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Rozumiem riziku a chcem pokračovať">
 
 <!ENTITY errorReporting.automatic2 "Hlásiť chyby ako je táto a pomôcť tým organizácii Mozilla identifikovať a blokovať škodlivé stránky">
 <!ENTITY errorReporting.learnMore "Ďalšie informácie…">

@@ -979,6 +979,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Blokovať…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Nahlásiť problémy">
+<!ENTITY contentBlocking.breakageReportView.label "Nahlásiť problémy">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Ďalšie informácie">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "Adresa URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Verzia aplikácie &brandShortName;">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Aké ste mali problémy? (nepovinné)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Odoslať hlásenie">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Zrušiť">
+
 <!ENTITY trackingProtection.title "Ochrana pred sledovaním">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje časti stránky, ktoré môžu sledovať vaše prehliadanie.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Na tejto stránke boli nájdené sledovacie prvky. Ochrana pred sledovaním je však pre túto stránku vypnutá.">
