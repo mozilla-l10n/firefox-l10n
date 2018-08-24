@@ -906,3 +906,5 @@ Picture-in-picture mini window -->
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "&vendorShortName; Konum Hizmeti">
+<!ENTITY download_notification_channel "İndirilenler">
+<!ENTITY media_notification_channel "Medya oynatma">
