@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Gaitu bilaketa orokorra eta indexatzailea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY dateTimeFormatting.label      "Data eta denboraren formatua">
+<!ENTITY languageSelector.label        "Hizkuntza">
 <!ENTITY allowHWAccel.label            "Erabili hardware azelerazioa erabilgarri dagoenean">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Mezuen biltegiratze mota kontu berrientzako:">
