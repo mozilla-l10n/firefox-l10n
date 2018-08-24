@@ -611,8 +611,20 @@ sitedata-allow-cookies-option =
 sitedata-disallow-cookies-option =
     .label = Blocar los cookies e donadas de site
     .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Tipe de contengut blocat
+    .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = Traçadors tèrces (recomandat)
 sitedata-block-trackers-option =
     .label = Traçadors tèrces
+sitedata-block-unvisited-option =
+    .label = Cookies dels sites web pas visitats
+sitedata-block-all-third-parties-option =
+    .label = Totes los cookies tèrces
+sitedata-block-always-option =
+    .label = Totes los cookies (unes sites pòdon quitar de foncionar)
 sitedata-clear =
     .label = Escafar de las donadas…
     .accesskey = s
