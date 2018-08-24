@@ -25,7 +25,7 @@
 <!ENTITY stats.framesPainted "పెయింటైన ఫ్రేములు">
 
 <!ENTITY error.aborted "వీడియో లోడవడం ఆగిపోయింది.">
-<!ENTITY error.network "నెట్వర్కు దోషం కారణంగా వీడియో ప్లేబాక్ విరమించబడెను.">
+<!ENTITY error.network "వీడియో ప్లేబ్యాక్ నెట్వర్క్ లోపం కారణంగా విరమించబడెను.">
 <!ENTITY error.decode "ఫైలు పాడైన కారణంగా వీడియో ప్లే కాబడలేదు.">
 <!ENTITY error.srcNotSupported "వీడియో ఫార్మాట్ లేదా MIME రకముకు తోడ్పాటు లేదు.">
 <!ENTITY error.noSource2 "తోడ్పాటు నిచ్చు ఫార్మాట్ లేదా MIME రకముతో యే వీడియో కనబడలేదు.">
