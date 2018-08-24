@@ -96,6 +96,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> jára ombohekóma iñanduti kuatiarogue ndoikoiete hag̃uáicha. Anive hag̃ua nemarandu oñemonda, &brandShortName; ndaikatúi oike ko ñanduti rendápe.">
 
+<!ENTITY certerror.introPara2 "&brandShortName; ojuhu tekorosã ombyaikuaáva ha upévare opytáma <span class='hostname'/>. Eikéramo ko tendápe, ikatu umi mba’evai omondase ndehegui marandu ha’éva ñe’ẽñemi, ñanduti veve térã kuatia'atã ñemurãva.">
 
 <!ENTITY certerror.expiredCert.secondPara "Ko apañuãi ikatuhína pe aravo oĩvai rupi ne mohendahápe, oñatõiva &brandShortName;-pe oikekatu hag̃ua.">
 
