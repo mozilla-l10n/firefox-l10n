@@ -909,3 +909,5 @@ Picture-in-picture mini window -->
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "Услуга за местоположение от &vendorShortName;">
+<!ENTITY download_notification_channel "Изтегляния">
+<!ENTITY media_notification_channel "Възпроизвеждане на медия">
