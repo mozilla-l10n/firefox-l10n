@@ -981,6 +981,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView.label "Emombe’u apañuãi">
 <!ENTITY contentBlocking.breakageReportView.label "Emombe’u apañuãi">
+<!ENTITY contentBlocking.breakageReportView.description "Tetepy jejoko ikatu omoapañuãi heta ñanduti renda. Emomarandúvo apañuãi rehegua, eipytyvõta &brandShortName; iporãve hag̃ua opavavépe. (Ko apopy omondóta Mozilla-pe URL ha pe marandu iñemboheko ñemigua ha jejoko rehegua).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Kuaave">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; Peteĩchagua papapy">
