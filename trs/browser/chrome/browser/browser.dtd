@@ -1122,11 +1122,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tabHideControlled.header.message "Gatu' riña rakïj ñanj huìi">
 <!ENTITY tabHideControlled.keepButton.label "Gà ngē rakïj ñanj huìi">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "Si ganikaj ñu'ū' extenesiôn">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
+<!ENTITY pageActionButton.tooltip "Sa gi'iaj pajinâ na">
+<!ENTITY pageAction.addToUrlbar.label "Nuto' riña dukuán direksiôn">
+<!ENTITY pageAction.removeFromUrlbar.label "Guxun' riña dukuán direksiôn">
+<!ENTITY pageAction.allowInUrlbar.label "Digun' ma riña dukuán direksiôn">
+<!ENTITY pageAction.disallowInUrlbar.label "Sī digan' ma riña dukuán direksiôn">
+<!ENTITY pageAction.manageExtension.label "Ganikaj ñu'un' extensiôn...">
 
+<!ENTITY pageAction.sendTabToDevice.label "Ga'nìnj rakïj ñanj gan'anj aga'">
+<!ENTITY sendToDevice.syncNotReady.label "'Iaj sun nugua'ān darn' Aga'a...">
 
+<!ENTITY pageAction.shareUrl.label "Duyingo'">
 
+<!ENTITY pageAction.shareMore.label "Doj…">
 
+<!ENTITY libraryButton.tooltip "Ni'io' riña gaché nu', nej markador na'ní so' nī doj">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
