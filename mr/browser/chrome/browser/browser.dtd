@@ -939,12 +939,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "मागोवा सुरक्षा: चालु">
 <!ENTITY trackingProtection.off "मागोवा सुरक्षा: बंद">
 
+<!ENTITY contentBlocking.disabled.label "निष्क्रिय केले आहे">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "अडवलेले">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -955,10 +957,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "अडवलेले">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+
+<!ENTITY contentBlocking.breakageReportView.learnMore "अधिक जाणून घ्या">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 
 <!ENTITY trackingProtection.title "मागोवा संरक्षण">
 <!ENTITY trackingProtection.detectedBlocked3 "जे आपल्या आॅनलाइन कार्याचा मागोवा घेऊ शकतात त्यांना &brandShortName; प्रतीरोधीत करीत आहे.">

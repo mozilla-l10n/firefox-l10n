@@ -729,6 +729,7 @@ autoplay-option-allow =
     .label = ऑटोप्ले ला परवानगी द्या
 autoplay-option-dont =
     .label = ऑटोप्ले करू नका
+permissions-autoplay-link = अधिक जाणून घ्या
 permissions-block-popups =
     .label = पॉपअप पटल अडवा
     .accesskey = B
