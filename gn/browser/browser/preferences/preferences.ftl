@@ -615,10 +615,16 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Peteĩchagua tetepy jokopyre
     .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = Jehekaha mbohapyháva (jeroviaha)
+sitedata-block-trackers-option =
+    .label = Jehekaha mbohapyháva
 sitedata-block-unvisited-option =
     .label = Ñanduti renda kookie eike’ỹhague
 sitedata-block-all-third-parties-option =
     .label = Opaite kookie mbohapyhagua
+sitedata-block-always-option =
+    .label = Opaite umi kookie (ikatu ojavyka ñanduti rendápe)
 sitedata-clear =
     .label = Mba'ekuaarã mopotĩ…
     .accesskey = l
