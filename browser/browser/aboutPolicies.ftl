@@ -7,3 +7,6 @@ about-policies-title = Kebijakan Perusahaan
 active-policies-tab = Aktif
 errors-tab = Galat
 documentation-tab = Dokumentasi
+policy-name = Nama Kebijakan
+policy-value = Nilai Kebijakan
+policy-errors = Masalah Kebijakan
