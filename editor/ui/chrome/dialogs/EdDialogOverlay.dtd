@@ -9,7 +9,7 @@
 <!ENTITY chooseFileButton.accessKey "ჩ">
 <!ENTITY chooseFileLinkButton.label "ფაილის არჩევა...">
 <!ENTITY chooseFileLinkButton.accessKey "ფ">
-<!ENTITY makeUrlRelative.label "გვერდის ფარდობითი URL მისამართი">
+<!ENTITY makeUrlRelative.label "დაკავშირებული URL-მისამართი">
 <!ENTITY makeUrlRelative.accessKey "ვ">
 <!ENTITY makeUrlRelative.tooltip "გადასვლა ფარდობით და აბსოლუტურ მისამართს შორის. ამისათვის ჯერ გვერდი უნდა დაიმახსოვროთ.">
 
