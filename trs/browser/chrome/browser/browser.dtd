@@ -1146,7 +1146,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Hua ni'nïnj da' gatu'">
 
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Ganikaj ñu'u' komplementos 'ngà ga'ui' klik <image class='addon-addon-icon'/> riña <image class='addon-toolbar-icon'/> menû.">

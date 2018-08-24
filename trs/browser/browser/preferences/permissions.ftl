@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Sitio hua ni'ninj - Nanū ma'ān ma
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Ga'ue gatajt ahuin sitio web ga'ue nanū ma'ān nej sa gīni'io' . Gachrun direksion sitio ruhuat ga'nïnt ni ga'uit klik riña taj ga'nïn'
+permissions-exceptions-autoplay-media-window2 =
+    .title = Sā taj a - Gayi'ì ma'an ma
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Ga'ue gatajt ahuin sitio ga'ue nī sa si ga'ue nachrun ma'ān sa gini'io' 'ngà sa guni'. Gachrun si direksion sitio dan nī ne' rukù ga'ui't riña taj si ga'nïn' nej si riña taj ga'nïn'.
 
 ## Site Permissions - Notifications
