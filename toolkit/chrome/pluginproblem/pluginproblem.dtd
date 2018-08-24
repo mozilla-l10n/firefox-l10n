@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY pluginActivationWarning                             "Situs ini menggunakan pengaya yang mungkin memperlambat &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Ketuk di sini untuk mengaktifkan plugin.">
 <!ENTITY clickToActivatePlugin                               "Aktifkan plugin.">
 <!ENTITY checkForUpdates                                     "Periksa versi baru…">
@@ -21,7 +20,7 @@
 <!ENTITY report.please                                       "Kirimkan laporan mogok">
 <!ENTITY report.submitting                                   "Mengirim laporan…">
 <!ENTITY report.submitted                                    "Laporan mogok terkirim.">
-<!ENTITY report.disabled                                     "Pelaporan mogok dimatikan.">
+<!ENTITY report.disabled                                     "Pelaporan mogok dinonaktifkan.">
 <!ENTITY report.failed                                       "Pengiriman gagal.">
 <!ENTITY report.unavailable                                  "Tidak ada laporan yang tersedia.">
 <!ENTITY report.comment                                      "Tambahkan komentar (ditampilkan secara publik)">

@@ -87,7 +87,7 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "Nonaktifkan JavaScript *">
-<!ENTITY options.disableJavaScript.tooltip   "Dengan mengaktifkan opsi ini, JavaScript pada tab sekarang akan dimatikan. Jika tab atau kotak alat ditutup maka setelan ini akan dilupakan.">
+<!ENTITY options.disableJavaScript.tooltip   "Dengan mengaktifkan opsi ini, JavaScript pada tab sekarang akan dinonaktifkan. Jika tab atau kotak alat ditutup maka setelan ini akan dilupakan.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and

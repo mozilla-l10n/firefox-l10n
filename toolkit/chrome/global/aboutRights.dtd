@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-term1 "Buka pengaturan aplikasi">
 <!ENTITY rights.safebrowsing-term2 "Pilih bagian Keamanan">
 <!ENTITY rights2.safebrowsing-term3 "Hilangkan tanda centang opsi menjadi &quot;&enableSafeBrowsing.label;&quot;">
-<!ENTITY rights.safebrowsing-term4 "Safe Browsing telah dimatikan">
+<!ENTITY rights.safebrowsing-term4 "Safe Browsing telah dinonaktifkan">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Penjelajahan Berbasis Lokasi: ">
@@ -72,7 +72,7 @@
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Ketikkan geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Klik ganda pada item pengaturan geo.enabled">
-<!ENTITY rights.locationawarebrowsing-term4 "Location-Aware Browsing telah dimatikan">
+<!ENTITY rights.locationawarebrowsing-term4 "Penjelajahan Berbasis Lokasi telah dinonaktifkan">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Deskripsi mengenai layanan web yang tersedia bersama produk, beserta petunjuk untuk mematikan layanan tersebut, jika dapat diterapkan, akan tersedia di bawah ini.">
