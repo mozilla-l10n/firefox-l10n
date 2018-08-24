@@ -599,6 +599,10 @@ sitedata-allow-cookies-option =
 sitedata-disallow-cookies-option =
     .label = Blokir kuki dan data situs
     .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Tipe yang diblokir
+    .accesskey = T
 sitedata-block-trackers-option-recommended =
     .label = Pelacak pihak ketiga (disarankan)
 sitedata-block-trackers-option =
