@@ -3,11 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Pengelola Pengaya">
 
-<!ENTITY search.placeholder                   "Cari pengaya">
-
 <!ENTITY search.placeholder2                  "Cari di addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Cari">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +14,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Tidak ada versi baru ditemukan">
 <!ENTITY listEmpty.recentUpdates.label        "Anda masih belum memasang versi baru pengaya">
 <!ENTITY listEmpty.findUpdates.label          "Periksa Versi Baru">
-<!ENTITY listEmpty.search.label               "Tidak dapat menemukan pengaya yang cocok">
 <!ENTITY listEmpty.button.label               "Pelajari lebih lanjut tentang pengaya">
 <!ENTITY installAddonFromFile.label           "Pasang Pengaya dari Berkas…">
 <!ENTITY installAddonFromFile.accesskey       "B">
@@ -25,9 +22,6 @@
 <!ENTITY getThemes.description                "Ingin mempersonalisasi peramban Anda?">
 <!ENTITY getThemes.learnMore                  "Pilih dari ribuan tema.">
 
-<!ENTITY cmd.back.tooltip                     "Mundur satu laman">
-<!ENTITY cmd.forward.tooltip                  "Maju satu laman">
-
 
 <!ENTITY showUnsignedExtensions.button.label  "Beberapa ekstensi tidak dapat diverifikasi">
 <!ENTITY showAllExtensions.button.label       "Tampilkan semua ekstensi">
@@ -35,16 +29,15 @@
 <!ENTITY debugAddons.accesskey                "b">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Semua pengaya telah dimatikan dalam mode aman.">
-<!ENTITY warning.checkcompatibility.label          "Pemeriksaan kompatibilitas pengaya telah dimatikan. Anda mungkin menggunakan pengaya yang tidak kompatibel.">
+<!ENTITY warning.safemode.label                    "Semua pengaya telah dinonaktifkan dalam mode aman.">
+<!ENTITY warning.checkcompatibility.label          "Pemeriksaan kompatibilitas pengaya telah dinonaktifkan. Anda mungkin menggunakan pengaya yang tidak kompatibel.">
 <!ENTITY warning.checkcompatibility.enable.label   "Aktifkan">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Aktifkan pemeriksaan kompatibilitas pengaya">
-<!ENTITY warning.updatesecurity.label              "Pemeriksaan keamanan pemutakhiran pengaya telah dimatikan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.">
+<!ENTITY warning.updatesecurity.label              "Pemeriksaan keamanan pemutakhiran pengaya telah dinonaktifkan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.">
 <!ENTITY warning.updatesecurity.enable.label       "Aktifkan">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Aktifkan pemeriksaan keamanan pemutakhiran pengaya">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Cari">
 <!ENTITY view.discover.label                  "Unduh Pengaya">
 <!ENTITY view.recentUpdates.label             "Versi Baru">
 <!ENTITY view.availableUpdates.label          "Versi Baru yang Tersedia">
@@ -87,8 +80,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "P">
 <!ENTITY cmd.preferencesUnix.label            "Pengaturan">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "Tentang">
-<!ENTITY cmd.about.accesskey                  "T">
 
 <!ENTITY cmd.enableAddon.label                "Aktifkan">
 <!ENTITY cmd.enableAddon.accesskey            "A">
@@ -135,7 +126,6 @@
 <!ENTITY detail.lastupdated.label             "Terakhir Diperbarui">
 <!ENTITY detail.creator.label                 "Pengembang">
 <!ENTITY detail.homepage.label                "Beranda">
-<!ENTITY detail.numberOfDownloads.label       "Unduhan">
 
 <!ENTITY detail.contributions.description     "Pengembang pengaya ini memohon bantuan dukungan Anda untuk membantu kesinambungan pengembangan pengaya dengan memberikan kontribusi kecil.">
 
@@ -168,23 +158,6 @@
 <!ENTITY progress.pause.tooltip               "Tunda">
 <!ENTITY progress.cancel.tooltip              "Batalkan">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Nama">
-<!ENTITY sort.name.tooltip                    "Urut berdasarkan nama">
-<!ENTITY sort.dateUpdated.label               "Terakhir Diperbarui">
-<!ENTITY sort.dateUpdated.tooltip             "Urut berdasarkan waktu terakhir diperbarui">
-<!ENTITY sort.relevance.label                 "Paling cocok">
-<!ENTITY sort.relevance.tooltip               "Urut berdasarkan kecocokan">
-<!ENTITY sort.price.label                     "Harga">
-<!ENTITY sort.price.tooltip                   "Urut berdasarkan harga">
-
-<!ENTITY search.filter2.label                 "Cari:">
-<!ENTITY search.filter2.installed.label       "Pengaya Saya">
-<!ENTITY search.filter2.installed.tooltip     "Tampilkan pengaya terpasang">
-<!ENTITY search.filter2.available.label       "Pengaya tersedia">
-<!ENTITY search.filter2.available.tooltip     "Tampilkan pengaya yang tersedia untuk dipasang">
-
 <!ENTITY addon.homepage                       "Beranda">
 <!ENTITY addon.details.label                  "Lebih Lanjut">
 <!ENTITY addon.details.tooltip                "Tampilkan detail lainnya tentang pengaya ini">
@@ -196,7 +169,7 @@
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(dimatikan)">
+<!ENTITY addon.disabled.postfix               "(dinonaktifkan)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
@@ -226,17 +199,6 @@
 <!ENTITY eula.accept                          "Terima dan Pasang…">
 
 <!ENTITY settings.path.button.label           "Jelajahi…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Apa ini sebenarnya? Fitur Telemetri mungkin memasang dan menjalankan eksperimen dari waktu ke waktu.">
-<!ENTITY experiment.info.learnmore "Pelajari lebih lanjut">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Setelan Telemetri">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Pelajari Lebih Lanjut…">
 
