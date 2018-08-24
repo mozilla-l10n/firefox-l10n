@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutServiceWorkers.title                     "Čo je Service Worker">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.maintitle                 "Registerovaní Service Workers">
+<!ENTITY aboutServiceWorkers.maintitle                 "Registrovaní Service Workers">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutServiceWorkers.warning_not_enabled       "Service Workers nie sú povolení.">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
