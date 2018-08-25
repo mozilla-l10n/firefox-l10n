@@ -38,8 +38,6 @@
 <!ENTITY sendPageToDevice.accesskey "I">
 <!ENTITY sendLinkToDevice.label "Invia link a dispositivo">
 <!ENTITY sendLinkToDevice.accesskey "I">
-<!ENTITY sendToDeviceFeedback.label "Inviato">
-<!ENTITY sendToDeviceOfflineFeedback.label "In coda (non in linea)">
 <!ENTITY moveToNewWindow.label "Sposta in una nuova finestra">
 <!ENTITY moveToNewWindow.accesskey "f">
 <!ENTITY reopenInContainer.label "Riapri in contenitore">
@@ -309,22 +307,14 @@
 <!ENTITY appMenuRecentHighlights.label "Elementi recenti in evidenza">
 <!ENTITY customizeMenu.addToToolbar.label "Aggiungi alla barra degli strumenti">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "Aggiungi al menu">
-<!ENTITY customizeMenu.addToPanel.accesskey "m">
 <!ENTITY customizeMenu.addToOverflowMenu.label "Aggiungi al menu extra">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "x">
-<!ENTITY customizeMenu.moveToToolbar.label "Sposta nella barra degli strumenti">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
-<!ENTITY customizeMenu.moveToPanel.label "Sposta nel menu">
-<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Aggiungi al menu extra">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "x">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Rimuovi dal menu extra">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "x">
 <!ENTITY customizeMenu.removeFromToolbar.label "Rimuovi dalla barra degli strumenti">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "b">
-<!ENTITY customizeMenu.removeFromMenu.label "Rimuovi dal menu">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Aggiungi altri elementi…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Nascondi automaticamente nella barra degli strumenti">
@@ -412,7 +402,6 @@
 <!ENTITY bookmarkThisFrameCmd.label "Aggiungi riquadro ai segnalibri…">
 <!ENTITY bookmarkThisFrameCmd.accesskey "e">
 <!ENTITY pageAction.copyLink.label "Copia link">
-<!ENTITY copyURLFeedback.label "Copiato">
 <!ENTITY emailPageCmd.label "Invia link per email…">
 <!ENTITY emailPageCmd.accesskey "I">
 <!ENTITY savePageCmd.label "Salva pagina con nome…">
@@ -551,7 +540,6 @@
 <!ENTITY editBookmark.done.label "Fatto">
 <!ENTITY editBookmark.showForNewBookmarks.label "Visualizza editor quando si salva">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey "V">
-<!ENTITY editBookmark.removeBookmark.accessKey "s">
 <!ENTITY identity.securityView.label "Sicurezza del sito">
 <!ENTITY identity.connectionSecure "Connessione sicura">
 <!ENTITY identity.connectionNotSecure "Connessione non sicura">
@@ -688,25 +676,16 @@
 
 <!ENTITY trackingProtection.title "Protezione antitracciamento">
 <!ENTITY trackingProtection.tooltip "Apri impostazioni per la protezione antitracciamento">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; sta bloccando elementi della pagina in grado di tracciare la navigazione.">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; sta bloccando elementi in questa pagina in grado di tracciare la navigazione.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "In questa pagina sono presenti elementi in grado di tracciare la navigazione. La protezione è disattivata.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; ha rilevato elementi in questa pagina in grado di tracciare la navigazione.">
-<!ENTITY trackingProtection.notDetected3 "In questa pagina non sono presenti elementi in grado di tracciare la navigazione.">
 <!ENTITY trackingProtection.notDetected5 "Nessun elemento tracciante rilevato in questa pagina.">
 <!ENTITY trackingProtection.reloadRequired2 "La protezione antitracciamento è ora attiva. Per bloccare tutti gli elementi traccianti ricaricare la pagina.">
 <!ENTITY trackingProtection.detectedException "Rilevati elementi in grado di tracciare la navigazione. La protezione antitracciamento è stata disattivata per questo sito.">
 <!ENTITY trackingProtection.notDetectedException "Nessun elemento tracciante rilevato in questa pagina. La protezione antitracciamento è stata disattivata per questo sito.">
-<!ENTITY trackingProtection.unblock.label "Disattiva protezione per questo sito">
-<!ENTITY trackingProtection.unblock.accesskey "D">
 <!ENTITY trackingProtection.unblock3.label "Disattiva per questo sito">
 <!ENTITY trackingProtection.unblock3.accesskey "s">
 <!ENTITY trackingProtection.unblock4.label "Disattiva blocco per questo sito">
 <!ENTITY trackingProtection.unblock4.accesskey "s">
-<!ENTITY trackingProtection.unblockPrivate.label "Disattiva protezione per questa sessione">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "Attiva protezione">
-<!ENTITY trackingProtection.block2.accesskey "A">
 <!ENTITY trackingProtection.unblockPrivate3.label "Disattiva per questa sessione">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Attiva per questo sito">
