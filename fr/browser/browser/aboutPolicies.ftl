@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Stratégies d’entreprise
+# 'Active' is used to describe the policies that are currently active
+active-policies-tab = En fonction
 errors-tab = Erreurs
 documentation-tab = Documentation
 policy-name = Nom de la stratégie
