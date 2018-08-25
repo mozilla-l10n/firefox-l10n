@@ -20,3 +20,15 @@
 
 <!ENTITY finishpage.shortdescription  "أُنشئ التقويم" >
 <!ENTITY finishpage.longdescription   "لقد أُنشئ التقويم." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+
+<!ENTITY buttons.create.label "أنشِئ تقويما">
+
+
+
+
+
+
