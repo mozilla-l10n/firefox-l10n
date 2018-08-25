@@ -52,6 +52,10 @@
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Terima undangan acara">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Terima semua">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Tambah">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Tambahkan acara ke kalender">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Tolak">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Tolak undangan acara">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Tolak semua">
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Tolak">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Hapus">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Hapus dari kalender">
