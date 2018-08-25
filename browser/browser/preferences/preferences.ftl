@@ -321,6 +321,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Server proxy
+network-settings-title = Impostazioni di rete
 network-proxy-connection-description = Determina come { -brand-short-name } si collega a Internet.
 network-proxy-connection-learn-more = Ulteriori informazioni
 network-proxy-connection-settings =
