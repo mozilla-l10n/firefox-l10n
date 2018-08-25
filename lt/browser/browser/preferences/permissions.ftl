@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Leidžiamos svetainės – automatinis grojimas
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Galite nurodyti, kurioms svetainėms leidžiate automatiškai groti medijos elementus. Įveskite tikslų svetainės adresą ir spustelėkite „Leisti“.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Išimtys – automatinis grojimas
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Čia galima nurodyti svetaines, kurioms visada, arba niekada, leidžiama automatiškai groti medijas su garsu. Surinkite tikslų svetainės adresą ir spustelėkite atitinkamą mygtuką: „Neleisti“ ar „Leisti“.
 
 ## Site Permissions - Notifications
