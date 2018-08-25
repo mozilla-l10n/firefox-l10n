@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "فعّل البحث العمومي والفهرسة">
 <!ENTITY enableGlodaSearch.accesskey   "ف">
 <!ENTITY dateTimeFormatting.label      "تنسيق التاريخ و الوقت">
+<!ENTITY languageSelector.label        "اللغة">
 <!ENTITY allowHWAccel.label            "استخدم تسريع العتاد إن كان متاحًا">
 <!ENTITY allowHWAccel.accesskey        "ع">
 <!ENTITY storeType.label               "طريقة تخزين الرسائل للحسابات الجديدة:">
