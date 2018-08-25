@@ -313,7 +313,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "a">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Izstruoduotuoju reiki">
+<!ENTITY webDeveloperMenu.label       "Izstrōdōtōju reiki">
 <!ENTITY webDeveloperMenu.accesskey   "t">
 
 <!ENTITY devtoolsRecordExecution.label "Īraksteit izpildi">
