@@ -659,12 +659,14 @@ content-blocking-category-label = เลือกสิ่งที่จะป�
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = องค์ประกอบติดตามที่ช้า
     .accesskey = อ
+content-blocking-fastblock-description = ปิดกั้นเนื้อหาจากบุคคลที่สามที่ใช้เวลานานกว่า 5 วินาทีในการโหลด
 content-blocking-fastblock-option-enabled =
     .label = ปิดกั้นเสมอ
 content-blocking-fastblock-option-disabled =
     .label = ไม่ปิดกั้นเสมอ
 content-blocking-tracking-protection-label = ตัวติดตาม
     .accesskey = ต
+content-blocking-tracking-protection-description = ปิดกั้นตัวติดตามที่รู้จักทั้งหมด (หมายเหตุ: อาจทำให้ไม่สามารถโหลดบางหน้า)
 content-blocking-tracking-protection-option-enabled =
     .label = ปิดกั้นเสมอ
 content-blocking-tracking-protection-option-pbm =
