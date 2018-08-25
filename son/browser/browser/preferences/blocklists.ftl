@@ -27,3 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = Disconnect.me jejebuyan faala (yaamarante).
 blocklist-item-moz-std-desc = Hangakaw fooyaŋ no fondo hala interneti nungey ma goy boryo.
 blocklist-item-moz-full-name = Disconnect.me jejebuyan šenda.
+blocklist-item-moz-full-desc = Ganakaw bayantey gagay. A ga tee kaŋ interneti nunguyaŋ diraa ga nakaši.
