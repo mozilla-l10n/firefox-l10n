@@ -46,8 +46,9 @@
 <!ENTITY viewMenu_zoomin_label "قرّب">
 <!ENTITY viewMenu_zoomin_accesskey "ق">
 <!ENTITY viewMenu_zoomout_label "بعّد">
-<!ENTITY viewMenu_zoomout_accesskey "ق">
+<!ENTITY viewMenu_zoomout_accesskey "د">
 <!ENTITY viewMenu_resetzoom_label "صفّر مستوى التقريب">
+<!ENTITY viewMenu_resetzoom_accesskey "ف">
 
 <!ENTITY projectButton_label "افتح تطبيقا">
 <!ENTITY runtimeButton_label "اختر بيئة تشغيل">
@@ -59,7 +60,10 @@
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
 <!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "مشاريعي">
 <!ENTITY projectPanel_runtimeApps "تطبيقات بيئة التشغيل">
