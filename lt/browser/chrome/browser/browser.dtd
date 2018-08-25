@@ -979,6 +979,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Pridėti blokavimą…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Pranešti apie problemas">
+<!ENTITY contentBlocking.breakageReportView.label "Pranešti apie problemas">
+<!ENTITY contentBlocking.breakageReportView.description "Turinio blokavimas gali sutrikdyti kai kurių svetainių veikimą. Pranešdami apie problemas, padėsite tobulinti „&brandShortName;“. Šiuo atveju „Mozillai“ bus perduodamas svetainės adresas bei informacija apie jūsų privatumo ir turinio blokavimo nuostatas.">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Sužinoti daugiau">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "„&brandShortName;“ laidos numeris">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kokių problemų patyrėte? (neprivaloma)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Siųsti pranešimą">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Atsisakyti">
+
 <!ENTITY trackingProtection.title "Apsauga nuo stebėjimo">
 <!ENTITY trackingProtection.detectedBlocked3 "„&brandShortName;“ blokuoja jūsų naršymą galinčias stebėti šio tinklalapio dalis.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Šiame tinklalapyje yra jūsų naršymą galinčių stebėti elementų. Jūsų apsauga yra išjungta.">
