@@ -203,7 +203,7 @@ choose-button =
     .label = Scegli…
     .accesskey = g
 
-choose-browser-language-description = Scegli la lingua in cui visualizzare menu, messaggi e notifiche di { -brand-short-name }.
+choose-browser-language-description = Scegli le lingue in cui visualizzare menu, messaggi e notifiche di { -brand-short-name }.
 confirm-browser-language-change-description = Riavviare { -brand-short-name } per applicare queste modifiche
 confirm-browser-language-change-button = Applica e riavvia
 
