@@ -30,6 +30,7 @@
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
 <!ENTITY calendar.unifinder.tree.done.label                "Selesai">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Urut berdasarkan penyelesaian">
 <!ENTITY calendar.unifinder.tree.priority.label            "Prioritas">
 <!ENTITY calendar.unifinder.tree.title.label               "Judul">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037;">
@@ -171,6 +172,7 @@
 <!ENTITY calendar.context.attendance.occ.declined.label         "Ditolak">
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Diwakilkan">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "Masih memerlukan tindakan">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Sedang berjalan">
 <!ENTITY calendar.context.attendance.occ.completed.label        "Selesai">
 
 <!ENTITY calendar.context.attendance.all.accepted.label         "Diterima">
