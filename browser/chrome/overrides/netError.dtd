@@ -196,7 +196,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "Ota riski ja jatka">
 
-<!ENTITY errorReporting.automatic2 "Ilmoita tällaisista virheistä Mozillalle, jotta haitallisia sivustoja voidaan tunnistaa ja estää paremmin">
+<!ENTITY errorReporting.automatic2 "Auta Mozillaa tunnistamaan ja estämään haitallisia sivustoja ilmoittamalla tällaisista virheistä">
 <!ENTITY errorReporting.learnMore "Lue lisää…">
 
 <!ENTITY remoteXUL.title "XUL-koodia etänä">
