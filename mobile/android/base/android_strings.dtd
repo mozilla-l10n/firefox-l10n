@@ -26,10 +26,6 @@
 <!ENTITY firstrun_button_notnow "Non adesso">
 <!ENTITY firstrun_button_next "Successivo">
 <!ENTITY firstrun_tabqueue_title "Link">
-<!ENTITY firstrun_tabqueue_message_off "Attiva accodamento schede">
-<!ENTITY firstrun_tabqueue_subtext_off "Non caricare immediatamente in &brandShortName; i link aperti da altre app.">
-<!ENTITY firstrun_tabqueue_message_on "Attivato!">
-<!ENTITY firstrun_tabqueue_subtext_on "È possibile disattivare questa funzione in qualunque momento nella sezione &pref_category_general; delle &settings;.">
 <!ENTITY firstrun_readerview_title "Articoli">
 <!ENTITY firstrun_readerview_message "Fai un po’ di ordine">
 <!ENTITY firstrun_readerview_subtext "Utilizza la Modalità lettura per rendere più piacevole la lettura di articoli \u2014 anche non in linea.">
@@ -131,7 +127,6 @@
 <!ENTITY pref_category_advanced "Avanzate">
 <!ENTITY pref_category_advanced_summary3 "Ripristino schede, risparmio dati, strumenti di sviluppo">
 <!ENTITY pref_category_notifications "Notifiche">
-<!ENTITY pref_category_notifications_summary "Nuove funzioni, aggiornamenti dai siti web">
 <!ENTITY pref_category_notifications_summary2 "Nuove funzioni, suggerimenti sul prodotto">
 <!ENTITY pref_developer_remotedebugging_usb "Debug remoto tramite USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Debug remoto tramite Wi-Fi">
