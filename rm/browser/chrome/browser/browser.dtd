@@ -979,6 +979,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Agiuntar a la bloccada…">
 
+<!ENTITY contentBlocking.openBreakageReportView.label "Annunziar problems">
+<!ENTITY contentBlocking.breakageReportView.label "Annunziar problems">
+<!ENTITY contentBlocking.breakageReportView.description "La bloccada da cuntegn po chaschunar problems cun tschertas websites. Cun annunziar problems, gidas ti a meglierar &brandShortName; per tuts. (Qua tras vegn tramess in URL sco era infurmaziuns davart tias preferenzas da la protecziun da datas e da la bloccada da cuntegn a Mozilla.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Ulteriuras infurmaziuns">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Numer da versiun da &brandShortName;">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Tge sbagl è succedì? (facultativ)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Trametter l'annunzia">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Interrumper">
+
 <!ENTITY trackingProtection.title "Protecziun cunter il fastizar">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blochescha parts da la pagina che ta pudessan fastizar durant che ti navigheschas.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Questa pagina cuntegna elements che ta pon fastizar durant il navigar. Ti has deactivà la protecziun.">

@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Turnar (recumandà)">
 <!ENTITY advanced.label "Extendì">
 
-<!ENTITY continue1.label "Cuntinuar…">
+<!ENTITY continue2.label "Dapli…">
 <!ENTITY moreInformation.label "Ulteriuras infurmaziuns">
 
 <!-- Specific error messages -->
@@ -130,12 +130,12 @@
 
 <!ENTITY certerror.longpagetitle1 "Tia connexiun n'è betg segira">
 <!ENTITY certerror.longpagetitle2 "Attenziun: Eventual ristg per la segirezza en vista">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Il possessur da <span class='hostname'/> ha configurà malamain sia website.  Per proteger tias infurmaziuns dad enguladitschs n'ha &brandShortName; betg stabilì ina connexiun cun questa website.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; ha identifitgà in ristg potenzial da segirezza ed ha interrut la connexiun cun <span class='hostname'/>. Sche ti visitas questa website, emprovan attatgaders eventualmain dad engular infurmaziuns sco tes pleds-clav, e-mails u cartas da credit.">
+<!ENTITY certerror.introPara2 "&brandShortName; ha chattà in eventual ristg per la segirezza ed ha perquai interrut la connexiun cun <span class='hostname'/>. Sche ti visitas la pagina, pudessan attatgaders empruvar dad engular infurmaziuns sco tes pleds-clav, e-mails u datas da la carta da credit.">
 
 <!ENTITY certerror.expiredCert.secondPara "Il problem è probablamain che l'ura da tes computer n'è betg drizzada endretg. Quai po impedir che &brandShortName; connecteschia a moda segirada.">
 
@@ -169,6 +169,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Agiuntar in'excepziun…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Acceptar la ristga e cuntinuar">
 
 <!ENTITY errorReporting.automatic2 "Rapportar talas errurs per gidar a Mozilla dad identifitgar e bloccar paginas che pon donnegiar tes computer">
 <!ENTITY errorReporting.learnMore "Ulteriuras infurmaziuns…">
