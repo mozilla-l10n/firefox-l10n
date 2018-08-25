@@ -18,6 +18,7 @@
 <!ENTITY SecondEmail.accesskey                 "ض">
 <!ENTITY Department.label                      "القِسْم">
 <!ENTITY Department.accesskey                  "ق">
+<!ENTITY JobTitle.label                        "العنوان">
 <!ENTITY CellularNumber.label                  "المحمول">
 <!ENTITY CellularNumber.accesskey              "ح">
 <!ENTITY FaxNumber.label                       "الفاكس">
