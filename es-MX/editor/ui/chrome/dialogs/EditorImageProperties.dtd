@@ -13,7 +13,7 @@
 <!ENTITY locationEditField.label "Ubicación de imagen:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Escribe el nombre de archivo o ubicación de la imagen">
-<!ENTITY locationEditField.shortenedDataURI "Datos URI reducidos (una copia colocará la URI completa en el portapapeles)">
+<!ENTITY locationEditField.shortenedDataURI "Datos URI acortados (copiar colocará la URI completa en el portapapeles)">
 <!ENTITY title.label "Consejo:">
 <!ENTITY title.accessKey "T">
 <!ENTITY title.tooltip "El atributo html 'title' que se despliega como consejo">

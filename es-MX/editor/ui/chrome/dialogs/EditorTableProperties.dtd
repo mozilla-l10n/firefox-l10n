@@ -29,7 +29,7 @@
 <!ENTITY tableAlignment.accessKey         "T">
 <!ENTITY tableCaption.label               "Leyenda:">
 <!ENTITY tableCaption.accessKey           "N">
-<!ENTITY tableCaptionAbove.label          "Arriba de la tabla">
+<!ENTITY tableCaptionAbove.label          "Arriba de la Tabla">
 <!ENTITY tableCaptionBelow.label          "Abajo de la tabla">
 <!ENTITY tableCaptionLeft.label           "A la izquierda de la tabla">
 <!ENTITY tableCaptionRight.label          "A la derecha de la tabla">
