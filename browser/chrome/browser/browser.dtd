@@ -980,6 +980,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection.add.label "أضِف نوع حجب…">
 
 <!ENTITY contentBlocking.openBreakageReportView.label "أبلِغ عن مشاكل">
+<!ENTITY contentBlocking.breakageReportView.label "الإبلاغ عن مشاكل">
 <!ENTITY contentBlocking.breakageReportView.description "يمكن لحجب المحتوى أن يتسبّب بالمشاكل لبعض المواقع. عندما تُبلغ عن لمشاكل، ستساعد في جعل &brandShortName; أفضل للجميع. (سيُرسل هذا المسار مع المعلومات التي تخص إعدادات الخصوصية وحجب المحتوى لديك إلى موزيلا.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "اطّلع على المزيد">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "المسار">
