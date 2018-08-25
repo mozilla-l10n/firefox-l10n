@@ -27,10 +27,10 @@
 <!ENTITY scopeOneLevel.accesskey           "L">
 <!ENTITY scopeSubtree.label                "Subárbol">
 <!ENTITY scopeSubtree.accesskey            "S">
-<!ENTITY return.label                      "No devolver más que esto">
+<!ENTITY return.label                      "No devolver más que">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "resultados">
-<!ENTITY offlineText.label                 "Puedes descargar una copia en local de este directorio para poder trabajar con ella cuando estés desconectado.">
+<!ENTITY offlineText.label                 "Puedes descargar una copia local de este directorio para poder trabajar en ella cuando estés desconectado.">
 <!ENTITY saslMechanism.label               "Método de iniciar sesión: ">
 <!ENTITY saslMechanism.accesskey           "m">
 <!ENTITY saslOff.label                     "Simple">
@@ -38,7 +38,7 @@
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
 
-<!-- Localization note: this is here because the width of the dialog 
+<!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
