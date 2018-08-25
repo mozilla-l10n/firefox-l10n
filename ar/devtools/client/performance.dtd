@@ -20,6 +20,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
+<!ENTITY performanceUI.bufferStatusFull "امتلأ الصِوان. أكتُب الآن فوق أكثر العينات قِدمًا.">
 
 <!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
@@ -40,9 +41,11 @@
 <!ENTITY performanceUI.table.totalDuration            "إجمالي الوقت">
 <!ENTITY performanceUI.table.totalDuration.tooltip    "الوقت الذي استُغرق في هذه الدالة وما استدعته من دوال.">
 <!ENTITY performanceUI.table.selfDuration.tooltip     "الوقت المستغرق في هذه الدالة فقط.">
+<!ENTITY performanceUI.table.totalPercentage          "إجمالي التكلفة">
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "النسبة المئوية للوقت المستغرق في هذه الدالة وما تستدعيه من دوال.">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "النسبة المئوية للوقت المستغرق في هذه الدالة فقط.">
 <!ENTITY performanceUI.table.samples                  "أمثلة">
+<!ENTITY performanceUI.table.function                 "الدالة">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
@@ -72,6 +75,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+<!ENTITY performanceUI.enableMemory             "سجّل الذاكرة">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
