@@ -307,6 +307,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proksi Jaringan
+network-settings-title = Setelan Jaringan
 network-proxy-connection-description = Atur bagaimana { -brand-short-name } tersambung ke internet.
 network-proxy-connection-learn-more = Pelajari lebih lanjut
 network-proxy-connection-settings =
@@ -545,9 +546,6 @@ history-dontremember-description = { -brand-short-name } akan menggunakan pengat
 history-private-browsing-permanent =
     .label = Selalu gunakan mode penjelajahan pribadi
     .accesskey = p
-history-remember-option =
-    .label = Ingat riwayat penjelajahan dan unduhan saya
-    .accesskey = r
 history-remember-browser-option =
     .label = Ingat riwayat penjelajahan dan unduhan
     .accesskey = r
