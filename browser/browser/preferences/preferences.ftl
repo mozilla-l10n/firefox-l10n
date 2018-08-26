@@ -651,10 +651,26 @@ addressbar-suggestions-settings = Canvia les preferències dels suggeriments de 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueig de contingut
+content-blocking-desc = Bloqueu el contingut de tercers, com anuncis o codi, que podria alentir la navegació i fer el seguiment dels llocs que visiteu. Personalitzeu els paràmetres per trobar el millor l'equilibri entre protecció i rendiment.
 content-blocking-learn-more = Més informació
 content-blocking-restore-defaults =
     .label = Restaura els valors per defecte
     .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Desactiva el bloqueig de contingut
+content-blocking-toggle-off =
+    .tooltiptext = Activa el bloqueig de contingut
+content-blocking-toggle-label-on = Activat
+    .accesskey = v
+content-blocking-toggle-label-off = Desactivat
+    .accesskey = v
+content-blocking-category-label = Trieu què voleu blocar
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Elements de seguiment lents
+    .accesskey = s
+content-blocking-fastblock-description = Bloca el contingut de tercers que triga més de 5 segons a carregar.
 
 ## Privacy Section - Tracking
 
