@@ -6,8 +6,8 @@ app-manager-window =
     .title = Detalls de l'aplicació
     .style = width: 35em; min-height: 20em;
 app-manager-remove =
-    .label = Suprimeix
-    .accesskey = r
+    .label = Elimina
+    .accesskey = E
 app-manager-handle-webfeeds = Les aplicacions següents poden utilitzar-se per gestionar canals web.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)

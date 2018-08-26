@@ -5,7 +5,7 @@
 
 <!ENTITY search.placeholder2                  "Cerca a addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Cerca">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -80,8 +80,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferències">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "Quant a">
-<!ENTITY cmd.about.accesskey                  "a">
 
 <!ENTITY cmd.enableAddon.label                "Habilita">
 <!ENTITY cmd.enableAddon.accesskey            "H">
@@ -100,7 +98,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "Canvia quan s'executa aquest complement">
 <!ENTITY cmd.installAddon.label               "Instal·la">
 <!ENTITY cmd.installAddon.accesskey           "I">
-<!ENTITY cmd.uninstallAddon.label             "Suprimeix">
+<!ENTITY cmd.uninstallAddon.label             "Elimina">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Opcions">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Canvia les opcions del complement">
@@ -128,7 +126,6 @@
 <!ENTITY detail.lastupdated.label             "Darrera actualització">
 <!ENTITY detail.creator.label                 "Desenvolupador">
 <!ENTITY detail.homepage.label                "Pàgina d'inici">
-<!ENTITY detail.numberOfDownloads.label       "Baixades">
 
 <!ENTITY detail.contributions.description     "El desenvolupador del complement us demana que l'ajudeu a continuar amb el seu desenvolupament fent una donació.">
 
@@ -160,13 +157,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
 <!ENTITY progress.cancel.tooltip              "Cancel·la">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Nom">
-<!ENTITY sort.name.tooltip                    "Ordena per nom">
-<!ENTITY sort.dateUpdated.label               "Darrera actualització">
-<!ENTITY sort.dateUpdated.tooltip             "Ordena per la data d'actualització">
 
 <!ENTITY addon.homepage                       "Pàgina d'inici">
 <!ENTITY addon.details.label                  "Més">
@@ -209,17 +199,6 @@
 <!ENTITY eula.accept                          "Accepta'l i instal·la'l…">
 
 <!ENTITY settings.path.button.label           "Navega…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Què és això? De tant en tant, la telemesura pot instal·lar i executar experiments.">
-<!ENTITY experiment.info.learnmore "Més informació">
-<!ENTITY experiment.info.learnmore.accesskey "M">
-<!ENTITY experiment.info.changetelemetry "Paràmetres de la telemesura">
-<!ENTITY experiment.info.changetelemetry.accesskey "t">
 
 <!ENTITY setting.learnmore "Més informació…">
 

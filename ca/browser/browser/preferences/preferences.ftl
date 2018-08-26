@@ -417,7 +417,7 @@ containers-add-button =
 containers-preferences-button =
     .label = Preferències
 containers-remove-button =
-    .label = Suprimeix
+    .label = Elimina
 
 ## Sync Section - Signed out
 
@@ -454,8 +454,8 @@ sync-resend-verification =
     .label = Torna a enviar la verificació
     .accesskey = v
 sync-remove-account =
-    .label = Suprimeix el compte
-    .accesskey = r
+    .label = Elimina el compte
+    .accesskey = E
 sync-sign-in =
     .label = Inicia la sessió
     .accesskey = I
@@ -671,6 +671,20 @@ content-blocking-category-label = Trieu què voleu blocar
 content-blocking-fastblock-label = Elements de seguiment lents
     .accesskey = s
 content-blocking-fastblock-description = Bloca el contingut de tercers que triga més de 5 segons a carregar.
+content-blocking-fastblock-option-enabled =
+    .label = Bloca sempre
+content-blocking-fastblock-option-disabled =
+    .label = No bloquis mai
+content-blocking-tracking-protection-label = Elements de seguiment
+    .accesskey = t
+content-blocking-tracking-protection-description = Bloca tots els elements de seguiment coneguts (i també pot fer que algunes pàgines no es carreguin).
+content-blocking-tracking-protection-option-enabled =
+    .label = Bloca sempre
+content-blocking-tracking-protection-option-pbm =
+    .label = Bloca només en finestres privades
+content-blocking-tracking-protection-option-disabled =
+    .label = No bloquis mai
+content-blocking-tracking-protection-change-blocklist = Canvia la llista de bloquejos…
 
 ## Privacy Section - Tracking
 
@@ -720,8 +734,16 @@ permissions-notification-link = Més informació
 permissions-notification-pause =
     .label = Posa en pausa les notificacions fins que es reiniciï el { -brand-short-name }
     .accesskey = n
+permissions-block-autoplay-media-exceptions =
+    .label = Excepcions…
+    .accesskey = E
+autoplay-option-ask =
+    .label = Demana-m'ho sempre
 autoplay-option-allow =
     .label = Permet la reproducció automàtica
+autoplay-option-dont =
+    .label = No permetis la reproducció automàtica
+permissions-autoplay-link = Més informació
 permissions-block-popups =
     .label = Bloca les finestres emergents
     .accesskey = B
