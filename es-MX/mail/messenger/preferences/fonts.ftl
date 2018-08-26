@@ -6,3 +6,5 @@
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Predeterminada ({ $name })
+fonts-label-default-unnamed =
+    .label = Predeterminada
