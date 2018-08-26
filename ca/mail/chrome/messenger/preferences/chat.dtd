@@ -31,6 +31,10 @@ sentence. -->
 <!ENTITY  completeNotification.label          "amb el nom del remitent i la previsualització del missatge">
 <!ENTITY  buddyInfoOnly.label                 "només amb el nom del remitent">
 <!ENTITY  dummyNotification.label             "sense cap informació">
+<!ENTITY  getAttention.label                  "Fes parpellejar la icona de la barra de tasques">
+<!ENTITY  getAttention.accesskey              "F">
+<!ENTITY  getAttentionMac.label               "Anima la icona de l'acoblador">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Reprodueix un so">
 <!ENTITY  play.label                          "Reprodueix">
@@ -42,10 +46,19 @@ sentence. -->
 <!ENTITY  browse.label                        "Navega…">
 <!ENTITY  browse.accesskey                    "N">
 
+<!ENTITY messageStyleTab.title             "Estils de missatges">
+<!ENTITY messageStylePreview.label         "Previsualització:">
 <!ENTITY messageStyleTheme.label           "Tema:">
 <!ENTITY messageStyleTheme.accesskey       "T">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
 <!ENTITY messageStyleBubblesTheme.label    "Bombolles">
 <!ENTITY messageStyleDarkTheme.label       "Fosc">
+<!ENTITY messageStylePaperSheetsTheme.label "Fulls de paper">
 <!ENTITY messageStyleSimpleTheme.label     "Senzill">
 <!ENTITY messageStyleDefaultTheme.label    "Per defecte">
+<!ENTITY messageStyleVariant.label         "Variant:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Mostra la capçalera">
+<!ENTITY messageStyleShowHeader.accesskey  "M">
+<!ENTITY messageStyleNoPreview.title       "La previsualització no està disponible">
+<!ENTITY messageStyleNoPreview.description "Aquest tema no és vàlid o actualment no està disponible (perquè s'ha inhabilitat el complement, esteu en mode segur...)">
