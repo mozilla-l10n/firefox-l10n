@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy de rede
+network-settings-title = Definições de rede
 network-proxy-connection-description = Configure como o { -brand-short-name } se liga à internet.
 network-proxy-connection-learn-more = Saber mais
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = O { -brand-short-name } irá utilizar as mesm
 history-private-browsing-permanent =
     .label = Utilizar sempre o modo de navegação privada
     .accesskey = p
-history-remember-option =
-    .label = Memorizar o meu histórico de navegação e de transferências
-    .accesskey = h
 history-remember-browser-option =
     .label = Memorizar histórico de navegação e de transferências
     .accesskey = z
