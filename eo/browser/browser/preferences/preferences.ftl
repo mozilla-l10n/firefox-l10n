@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Retperanto
+network-settings-title = Retaj agordoj
 network-proxy-connection-description = Agordi la manieron, kiel { -brand-short-name } konektiĝas al la reto.
 network-proxy-connection-learn-more = Pli da informo
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = { -brand-short-name } uzos la samajn agordojn
 history-private-browsing-permanent =
     .label = Ĉiam uzi la reĝimon de privata retumo
     .accesskey = p
-history-remember-option =
-    .label = Memori mian historion de retumo kaj elŝutoj
-    .accesskey = h
 history-remember-browser-option =
     .label = Memori retuman kaj elŝutan historiojn
     .accesskey = r
