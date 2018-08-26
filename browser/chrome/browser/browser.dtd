@@ -68,8 +68,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "a">
 <!ENTITY  sendLinkToDevice.label             "Sendi ligilon al aparato">
 <!ENTITY  sendLinkToDevice.accesskey         "a">
-<!ENTITY  sendToDeviceFeedback.label         "Sendita!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "Vicigita (malkonektite)">
 <!ENTITY  moveToNewWindow.label              "Movi al nova fenestro">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  reopenInContainer.label            "Remalfermi en ingo">
@@ -268,7 +266,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Eka paĝo">
-
 <!ENTITY homeButton.defaultPage.tooltip "Eka paĝo de &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Legosignoj">
@@ -428,23 +425,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Aldoni al ilarstrio">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "Aldoni al menuo">
-<!ENTITY customizeMenu.addToPanel.accesskey "m">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Aldoni al ekstra menuo">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "A">
-<!ENTITY customizeMenu.moveToToolbar.label "Movi al la ilarstrio">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "i">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Movi al menuo">
-<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -454,11 +440,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "D">
 <!ENTITY customizeMenu.removeFromToolbar.label "Forigi el ilarstrio">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "f">
-<!ENTITY customizeMenu.removeFromMenu.label "Forigi el menuo">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "F">
 <!ENTITY customizeMenu.addMoreItems.label "Aldoni pli da elementoj…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "e">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Aŭtomate kaŝi en ilaro">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Administri etendaĵon">
@@ -604,7 +587,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Aldoni legosignon por tiu ĉi kadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "l">
 <!ENTITY pageAction.copyLink.label    "Kopii ligilon">
-<!ENTITY copyURLFeedback.label        "Kopiita!">
 <!ENTITY emailPageCmd.label           "Sendi ligilon retpoŝte…">
 <!ENTITY emailPageCmd.accesskey       "S">
 <!ENTITY savePageCmd.label            "Konservi paĝon kiel…">
@@ -791,7 +773,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "24em">
 <!ENTITY editBookmark.done.label                     "Preta">
-<!ENTITY editBookmark.removeBookmark.accessKey       "F">
 
 <!ENTITY editBookmark.showForNewBookmarks.label       "Montri redaktilon dum konservo">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "M">
@@ -842,7 +823,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Permesoj">
 <!ENTITY identity.permissionsEmpty "Vi ne donis iun ajn specialan permeson al tiu ĉi retejo.">
 <!ENTITY identity.permissionsReloadHint "Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "Malfermi preferojn de permesoj">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -966,10 +946,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Aldoni blokadon…">
 
-<!ENTITY contentBlocking.trackingProtection.label "Spuriloj">
+<!ENTITY contentBlocking.trackingProtection2.label "Ĉiujn trovitajn spurilojn">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
+     ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Blokitaj">
@@ -979,33 +959,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Aldoni blokadon…">
 
-<!ENTITY contentBlocking.openBreakageReportView.label "Raporti problemojn">
+<!ENTITY contentBlocking.3rdPartyCookies.label "Nerektaj kuketoj">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokitaj">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Aldoni blokadon…">
+
+<!ENTITY contentBlocking.openBreakageReportView2.label "Raporti problemon">
 <!ENTITY contentBlocking.breakageReportView.label "Raporti problemojn">
-<!ENTITY contentBlocking.breakageReportView.description "Blokado de enhavo povas okazigi problemojn en kelkaj retejoj. Se vi raportas problemojn, vi helpas plibonigi &brandShortName; por ĉiuj. (Tio ĉi sendos retadreson kaj informon pri viaj privatecaj kaj enhavoblokaj agordoj al Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Pli da informo">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Retadreso">
-<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Versio de &brandShortName;">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kiujn problemojn vi havis? (nedeviga)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Sendi raporton">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Nuligi">
 
 <!ENTITY trackingProtection.title "Protekto kontraŭ spurado">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokas partojn de la paĝo kiuj povus spuri vian retumon.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Tiu ĉi retejo enhavas elementojn kiuj povus spuri vian retumon. Vi malaktivigis la protekton.">
-<!ENTITY trackingProtection.notDetected3 "Neniu spura elemento en tiu ĉi paĝo.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Malaktivigi protekton por tiu ĉi retejo">
-<!ENTITY trackingProtection.unblock.accesskey "M">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Malaktivigi protekton por tiu ĉi seanco">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "M">
-<!ENTITY trackingProtection.block2.label "Aktivigi protekton">
-<!ENTITY trackingProtection.block2.accesskey "A">
-
 <!ENTITY trackingProtection.tooltip "Malfermi preferojn de protekto kontraŭ spurado">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokas partojn de tiu ĉi paĝo, kiuj povus spuri vian retumon.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; eltrovis elementojn, kiuj povas spuri vian retumon.">
