@@ -325,6 +325,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Syćowy proksy
+network-settings-title = Syćowe nastajenja
 network-proxy-connection-description = Konfigurować, kak { -brand-short-name } z internetom zwjazuje.
 network-proxy-connection-learn-more = Dalše informacije
 network-proxy-connection-settings =
@@ -563,9 +564,6 @@ history-dontremember-description = { -brand-short-name } budźe samsne nastajenj
 history-private-browsing-permanent =
     .label = Přeco priwatny modus wužiwać
     .accesskey = P
-history-remember-option =
-    .label = Sej přehladowansku a sćehnjensku historiju spomjatkować
-    .accesskey = h
 history-remember-browser-option =
     .label = Sej přehladowansku a sćehnjensku historiju spomjatkować
     .accesskey = m
