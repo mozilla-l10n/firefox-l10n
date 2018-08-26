@@ -68,8 +68,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "n">
 <!ENTITY  sendLinkToDevice.label             "Peu'ét Peunawôt u Alat">
 <!ENTITY  sendLinkToDevice.accesskey         "n">
-<!ENTITY  sendToDeviceFeedback.label         "Kirem!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "Geupuprèh (maté lèn)">
 <!ENTITY  moveToNewWindow.label              "Pinah u Tingkap Barô">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.label            "Peuhah Keulayi lam Kontainer">
@@ -114,6 +112,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Peuhah Keulayi Ban Dum Tab">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Peutanda Ban Dum Tab…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
@@ -126,6 +125,7 @@ shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
 
+<!ENTITY pageInfoCmd.label "Infô Miëng">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.accesskey "L">
@@ -148,6 +148,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Verifikasi Akun Droe">
 
 
+<!ENTITY fullScreenMinimize.tooltip "Peuubit">
 <!ENTITY fullScreenRestore.tooltip "Peuriwang">
 <!ENTITY fullScreenClose.tooltip "Tôp">
 <!ENTITY fullScreenAutohide.accesskey "H">
@@ -178,6 +179,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY closeWindow.accesskey "d">
 
+<!ENTITY bookmarksMenu.label "Peutanda">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
@@ -185,6 +187,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backCmd.label                "Gisa">
 <!ENTITY backCmd.accesskey            "B">
 <!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY reloadCmd.label              "Peuhah keulayi">
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
@@ -194,14 +197,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Peudeuih riwayat">
 
 <!ENTITY searchItem.title             "Mita">
 
 <!-- Toolbar items -->
+<!ENTITY homeButton.label             "Ônkeuë">
+<!ENTITY homeButton.defaultPage.tooltip "Ônkeuë &brandShortName;">
 
-
+<!ENTITY bookmarksButton.label          "Peutanda">
 <!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "Peutanda">
+<!ENTITY bookmarksMenuButton2.label         "Menu Peutanda">
+<!ENTITY bookmarksMenuButton.other.label    "Peutanda Laén">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -300,30 +309,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "Tamah u Menu">
-<!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Pinah u Menu">
-<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 
@@ -570,7 +567,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.done.label                     "Seuleusoë">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
@@ -587,7 +583,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.learnMore "Meurunoë Lom">
 
 <!ENTITY identity.removeCertException.accesskey "R">
-
 
 
 
@@ -664,7 +659,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
+     ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
@@ -672,15 +667,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.accesskey "E">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Bateuë">
 
 
 
