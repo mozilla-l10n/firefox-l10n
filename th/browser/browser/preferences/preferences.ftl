@@ -307,6 +307,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = พร็อกซีเครือข่าย
+network-settings-title = การตั้งค่าเครือข่าย
 network-proxy-connection-description = กำหนดค่าวิธีที่ { -brand-short-name } เชื่อมต่อกับอินเทอร์เน็ต
 network-proxy-connection-learn-more = เรียนรู้เพิ่มเติม
 network-proxy-connection-settings =
@@ -545,9 +546,6 @@ history-dontremember-description = { -brand-short-name } จะใช้กา�
 history-private-browsing-permanent =
     .label = ใช้โหมดการท่องเว็บแบบส่วนตัวเสมอ
     .accesskey = ช
-history-remember-option =
-    .label = จดจำประวัติการท่องเว็บและการดาวน์โหลดของฉัน
-    .accesskey = จ
 history-remember-browser-option =
     .label = จดจำประวัติการท่องเว็บและการดาวน์โหลด
     .accesskey = จ
