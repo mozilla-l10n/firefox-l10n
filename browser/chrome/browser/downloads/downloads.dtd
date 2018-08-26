@@ -62,7 +62,7 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "V">
 <!ENTITY cmd.copyDownloadLink.label       "Copia l'enllaç de la baixada">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
-<!ENTITY cmd.removeFromHistory.label      "Suprimeix de l'historial">
+<!ENTITY cmd.removeFromHistory.label      "Elimina de l'historial">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList2.label             "Buida la subfinestra de previsualització">
 <!ENTITY cmd.clearList2.accesskey         "B">
@@ -76,7 +76,7 @@
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
-<!ENTITY cmd.removeFile.label             "Suprimeix el fitxer">
+<!ENTITY cmd.removeFile.label             "Elimina el fitxer">
 <!-- LOCALIZATION NOTE (cmd.chooseUnblock.label):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose

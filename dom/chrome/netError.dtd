@@ -17,7 +17,7 @@
 <!ENTITY dnsNotFound.longDesc "<p>El navegador no ha pogut trobar l'ordinador central per a l'adreça proporcionada.</p><ul><li>Esteu segur que no heu comès cap error en escriure l'adreça? (p. ex. <q><strong>ww</strong>.mozilla.org</q> en comptes de <q><strong>www</strong>.mozilla.org</q>)</li><li>Teniu la certesa que el domini existeix?  Potser n'ha vençut el registre.</li><li>No podeu navegar per altres llocs?  Comproveu la vostra connexió a la xarxa i els paràmetres DNS del servidor.</li><li>L'ordinador està protegit amb un tallafoc o servidor intermediari (proxy)? Uns paràmetres incorrectes poden interferir amb la navegació web.</li></ul>">
 
 <!ENTITY fileNotFound.title "No s'ha trobat el fitxer">
-<!ENTITY fileNotFound.longDesc "<ul><li>Pot ser que l'element hagi canviat de nom, s'hagi esborrat o canviat d'ubicació?</li><li>Que hi ha cap error ortogràfic, de majúscules/minúscules, o bé tipogràfic a l'adreça?</li><li>Teniu suficients permisos d'accés per accedir a l'element sol·licitat?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Pot ser que l'element hagi canviat de nom, s'hagi eliminat o canviat d'ubicació?</li><li>Hi ha cap error ortogràfic, de majúscules/minúscules, o bé tipogràfic a l'adreça?</li><li>Teniu suficients permisos d'accés per accedir a l'element sol·licitat?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "S'ha denegat l'accés al fitxer">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Pot ser que s'hagi eliminat, que s'hagi traslladat o que els permisos del fitxer n'impedeixin l'accés.</li> </ul>">
