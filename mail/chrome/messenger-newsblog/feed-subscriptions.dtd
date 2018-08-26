@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "URL del canal:">
 <!ENTITY feedLocation.accesskey      "L">
-<!ENTITY feedLocation.placeholder    "Introduïu un URL de canal vàlid per afegir">
 <!ENTITY feedLocation2.placeholder   "Introduïu un URL de canal vàlid">
 <!ENTITY locationValidate.label      "Valida">
 <!ENTITY validateText.label          "Comprova la validació i recupera un URL vàlid.">
@@ -50,7 +49,7 @@
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exporta">
 <!ENTITY button.exportOPML.accesskey "x">
-<!ENTITY button.exportOPML.tooltip   "Premeu ctrl+clic per exportar el canal de notícies amb l'estructura de la carpeta o ctrl clic per exportar-ho com a llista">
+<!ENTITY button.exportOPML.tooltip   "Premeu Ctrl+clic per exportar els canals amb l'estructura de carpetes o Ctrl+Retorn per exportar-los com a llista">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Tanca">
