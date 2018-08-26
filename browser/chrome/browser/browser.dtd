@@ -68,8 +68,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "გ">
 <!ENTITY  sendLinkToDevice.label             "ბმულის გაგზავნა მოწყობილობაზე">
 <!ENTITY  sendLinkToDevice.accesskey         "წ">
-<!ENTITY  sendToDeviceFeedback.label         "გაგზავნილია!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "დაყოვნებულია (კავშირგარეშე)">
 <!ENTITY  moveToNewWindow.label              "ახალ ფანჯარაში გადატანა">
 <!ENTITY  moveToNewWindow.accesskey          "ფ">
 <!ENTITY  reopenInContainer.label            "ხელახლა გახსნა სათავსში">
@@ -268,7 +266,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "საწყისი გვერდი">
-
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; საწყისი გვერდი">
 
 <!ENTITY bookmarksButton.label          "სანიშნები">
@@ -428,23 +425,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "ხელსაწყოთა ზოლში დამატება">
 <!ENTITY customizeMenu.addToToolbar.accesskey "დ">
-<!ENTITY customizeMenu.addToPanel.label "მენიუში დამატება">
-<!ENTITY customizeMenu.addToPanel.accesskey "დ">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "ჩამოსაშლელ მენიუში დამატება">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "ჩ">
-<!ENTITY customizeMenu.moveToToolbar.label "ხელსაწყოთა ზოლში გადატანა">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "გ">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "მენიუში გადატანა">
-<!ENTITY customizeMenu.moveToPanel.accesskey "გ">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -454,11 +440,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "ც">
 <!ENTITY customizeMenu.removeFromToolbar.label "ხელსაწყოთა ზოლიდან მოცილება">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ა">
-<!ENTITY customizeMenu.removeFromMenu.label "მენიუდან მოცილება">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "ო">
 <!ENTITY customizeMenu.addMoreItems.label "სხვა ელემენტების დამატება…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "დ">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "ხელსაწყოთა ზოლის თვითდამალვა">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "ვ">
 <!ENTITY customizeMenu.manageExtension.label "გაფართოების მართვა">
@@ -604,7 +587,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "ჩარჩოს ჩანიშვნა">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ჩ">
 <!ENTITY pageAction.copyLink.label    "ბმულის დაკოპირება">
-<!ENTITY copyURLFeedback.label        "დაკოპირდა!">
 <!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელფოსტით…">
 <!ENTITY emailPageCmd.accesskey       "ე">
 <!ENTITY savePageCmd.label            "გვერდის შენახვა როგორც…">
@@ -791,7 +773,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "მზადაა">
-<!ENTITY editBookmark.removeBookmark.accessKey       "ს">
 
 <!ENTITY editBookmark.showForNewBookmarks.label       "ჩასწორების შესაძლებლობა შენახვისას">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "ჩ">
@@ -842,7 +823,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "ნებართვები">
 <!ENTITY identity.permissionsEmpty "ამ საიტისთვის განსაკუთრებული უფლებები არ მიგიციათ.">
 <!ENTITY identity.permissionsReloadHint "ცვლილებების ასამოქმედებლად შესაძლოა გვერდის ხელახლა ჩატვირთვა დაგჭირდეთ.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "ნებართვების პარამეტრების გახსნა">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -966,10 +946,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "შეზღუდვის დამატება…">
 
-<!ENTITY contentBlocking.trackingProtection.label "მეთვალყურეები">
+<!ENTITY contentBlocking.trackingProtection2.label "ყველა აღმოჩენილი მეთვალყურე">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
+     ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "შეიზღუდა">
@@ -979,33 +959,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "შეზღუდვის დამატება…">
 
-<!ENTITY contentBlocking.openBreakageReportView.label "ხარვეზების მოხსენება">
+<!ENTITY contentBlocking.3rdPartyCookies.label "ცალკეული ფუნთუშები">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "შეზღუდული">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "შეზღუდვის დამატება…">
+
+<!ENTITY contentBlocking.openBreakageReportView2.label "ხარვეზის მოხსენება">
 <!ENTITY contentBlocking.breakageReportView.label "ხარვეზების მოხსენება">
-<!ENTITY contentBlocking.breakageReportView.description "შიგთავსის შეზღუდვამ შესაძლოა გამოიწვიოს ხარვეზები ვებსაიტებზე. მსგავსი ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, გავხადოთ &brandShortName; უკეთესი თითოეული მომხმარებლისთვის. (შედეგად Mozilla-ში გადაიგზავნება როგორც საიტის URL-ბმული, ასევე თქვენი პირადულობისა და შიგთავსის შეზღუდვის პარამეტრები)">
+<!ENTITY contentBlocking.breakageReportView2.description "შიგთავსის შეზღუდვის შედეგად, შესაძლოა საიტებმა გამართულად ვერ იმუშაოს. ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, რომ &brandShortName; გავხადოთ უკეთესი ყველასთვის. (შედეგად, Mozilla-ს გადაეგზავნება როგორც URL-ბმული, აგრეთვე თქვენი ბრაუზერის პარამეტრების მონაცემები)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "იხილეთ ვრცლად">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "მისამართი">
-<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; ვერსიის ნომერი">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "რა ხარვეზები აღმოაჩინეთ? (არასავალდებულო)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "მოხსენების გაგზავნა">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "გაუქმება">
 
 <!ENTITY trackingProtection.title "თვალთვალისგან დაცვა">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ზღუდავს საიტის იმ ნაწილებს, რომლებსაც თქვენს მოქმედებებზე თვალყურის დევნება შეუძლია.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "საიტი შეიცავს ნაწილებს, რომელიც შესაძლოა თქვენს მოქმედებებს აღრიცხავდეს. დაცვა ამჟამად, გამორთული გაქვთ.">
-<!ENTITY trackingProtection.notDetected3 "ამ გვერდზე მოთვალთვალე ელემენტები არ აღმოჩენილა.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "ამ საიტზე დაცვის გამორთვა">
-<!ENTITY trackingProtection.unblock.accesskey "გ">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "ამ სეანსზე დაცვის გამორთვა">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "გ">
-<!ENTITY trackingProtection.block2.label "დაცვის ჩართვა">
-<!ENTITY trackingProtection.block2.accesskey "რ">
-
 <!ENTITY trackingProtection.tooltip "თვალთვალისგან დაცვის პარამეტრების გახსნა">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; ზღუდავს გვერდის იმ ნაწილებს, რომლებსაც თქვენს მოქმედებებზე თვალყურის დევნება შეუძლია.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName;-მა აღმოაჩინა ელემენტები, რომლებიც შესაძლოა თვალს ადევნდებდეს თქვენს გადაადგილებას.">
