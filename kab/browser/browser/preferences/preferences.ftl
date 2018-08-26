@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Apruksi n uẓeṭṭa
+network-settings-title = Iɣewwaṛen n uẓeṭṭa
 network-proxy-connection-description = Swel amek { -brand-short-name } ad iqqen γer internet.
 network-proxy-connection-learn-more = Issin ugar
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = { -brand-short-name } ad isseqdec iɣewwaṛe
 history-private-browsing-permanent =
     .label = Seqdec yal ass askar n tunigin tusligt
     .accesskey = g
-history-remember-option =
-    .label = Ḥrez amazray n tunigin d isidar
-    .accesskey = t
 history-remember-browser-option =
     .label = Cfu ɣef umezruy n tunigin d izdamen
     .accesskey = C

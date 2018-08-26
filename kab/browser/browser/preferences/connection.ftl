@@ -70,3 +70,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Rmed DNS Deg HTTPS
     .accesskey = H
+connection-dns-over-https-url = URL
+    .accesskey = U
+    .tooltiptext = URL i tifrat n DNS deg HTTPS
