@@ -9,7 +9,13 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifierseparator " - ">
+<!ENTITY mainWindow.preface "Sumber dari: ">
 
+<!ENTITY fileMenu.label "Berkas">
+<!ENTITY savePageCmd.label "Simpan Laman Sebagai…">
+<!ENTITY printCmd.label "Cetak…">
+<!ENTITY closeCmd.label "Tutup">
 
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -17,8 +23,21 @@ textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+<!ENTITY textEnlarge.commandkey "+">
+<!ENTITY textEnlarge.commandkey2 "=">
+<!ENTITY textEnlarge.commandkey3 "">
+<!ENTITY textReduce.commandkey "-">
+<!ENTITY textReduce.commandkey2 "">
+<!ENTITY textReset.commandkey "0">
+<!ENTITY textReset.commandkey2 "">
 
 
+<!ENTITY reloadCmd.label "Muat Ulang">
+<!ENTITY menu_textSize.label "Ukuran Teks">
+<!ENTITY menu_textReset.label "Normal">
+
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 
-
+<!ENTITY copyLinkCmd.label "Salin Lokasi Tautan">
+<!ENTITY copyEmailCmd.label "Salin Alamat Surel">

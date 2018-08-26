@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- for SearchDialog.xul -->
 
+<!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Cari pesan dari:">
 <!ENTITY searchHeading.accesskey     "p">
 <!ENTITY searchSubfolders.label      "Cari subfolder">
@@ -13,34 +13,28 @@
 <!ENTITY resetButton.accesskey       "B">
 <!ENTITY openButton.label            "Buka">
 <!ENTITY openButton.accesskey        "B">
-
-
+<!ENTITY deleteButton.label          "Hapus">
 <!ENTITY searchDialogTitle.label     "Cari Pesan">
 <!ENTITY results.label               "Hasil">
-
-
-<!ENTITY closeCmd.key                "W"> 
+<!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Buka dalam Folder">
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Simpan sebagai Folder Pencarian">
 <!ENTITY saveAsVFButton.accesskey    "F">
-<!-- for ABSearchDialog.xul -->
 
+<!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Cari di:">
 <!ENTITY abSearchHeading.accesskey   "C">
 <!ENTITY propertiesButton.label      "Properti">
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Tulis">
 <!ENTITY composeButton.accesskey     "T">
-
-
 <!ENTITY abSearchDialogTitle.label   "Pencarian Canggih Daftar Alamat">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Utas">
 <!ENTITY fromColumn.label "Dari">
 <!ENTITY recipientColumn.label "Penerima">
-
 <!ENTITY subjectColumn.label "Subjek">
 <!ENTITY dateColumn.label "Tanggal">
 <!ENTITY priorityColumn.label "Prioritas">
@@ -56,23 +50,15 @@
 <!ENTITY starredColumn.label "Berbintang">
 <!ENTITY locationColumn.label "Lokasi">
 <!ENTITY idColumn.label "Urut berdasarkan Diterima">
+
 <!-- Thread Pane Tooltips -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY recipientColumn2.tooltip "Urut berdasarkan penerima">
+<!ENTITY subjectColumn2.tooltip "Urut berdasarkan subjek">
+<!ENTITY dateColumn2.tooltip "Urut berdasarkan tanggal">
+<!ENTITY priorityColumn2.tooltip "Urut berdasarkan prioritas">
+<!ENTITY accountColumn2.tooltip "Urut berdasarkan akun">
+<!ENTITY statusColumn2.tooltip "Urut berdasarkan status">
+<!ENTITY sizeColumn2.tooltip "Urut berdasarkan ukuran">
+<!ENTITY receivedColumn2.tooltip "Urut berdasarkan tanggal diterima">
+<!ENTITY starredColumn2.tooltip "Urut berdasarkan bintang">
+<!ENTITY locationColumn2.tooltip "Urut berdasarkan lokasi">

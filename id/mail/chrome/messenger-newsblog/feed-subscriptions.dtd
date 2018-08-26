@@ -17,6 +17,8 @@
 <!ENTITY feedFolder.accesskey        "S">
 
 <!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffMinutes.label           "menit">
+<!ENTITY biffDays.label              "hari">
 <!ENTITY recommendedUnits.label      "Rekomendasi Penerbit:">
 
 <!ENTITY quickMode.label             "Tampilkan ringkasan artikel, jangan memuat laman webnya">
@@ -26,6 +28,8 @@
 <!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Tambah">
 <!ENTITY button.addFeed.accesskey    "T">
+<!ENTITY button.verifyFeed.label     "Verifikasi">
+<!ENTITY button.verifyFeed.accesskey "V">
 <!ENTITY button.updateFeed.label     "Ubah">
 <!ENTITY button.updateFeed.accesskey "U">
 <!ENTITY button.removeFeed.label     "Hapus">

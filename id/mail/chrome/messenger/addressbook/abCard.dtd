@@ -18,6 +18,7 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 
 
+<!ENTITY PrimaryEmail.label             "Surel:">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Tidak diketahui">
 <!ENTITY chatName.label                 "Nama Obrolan:">

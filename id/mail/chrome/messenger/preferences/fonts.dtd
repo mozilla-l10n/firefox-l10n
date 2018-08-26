@@ -9,8 +9,6 @@
 
 <!ENTITY  size.label                              "Ukuran:">
 
-
-
 <!ENTITY  proportional.label                      "Proporsional:">
 <!ENTITY  proportional.accesskey                  "P">
 
@@ -20,8 +18,10 @@
 <!ENTITY  sans-serif.accesskey                    "T">
 <!ENTITY  monospace.label                         "Spasi tetap:">
 <!ENTITY  monospace.accesskey                     "S">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "Jepang">
 <!ENTITY  font.langGroup.trad-chinese             "Tiongkok Tradisional (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Tiongkok Sederhana">
@@ -29,7 +29,6 @@
 <!ENTITY  font.langGroup.korean                   "Korea">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
 <!ENTITY  font.langGroup.el                       "Yunani">
-
 <!ENTITY  font.langGroup.thai                     "Thailand">
 <!ENTITY  font.langGroup.hebrew                   "Ibrani">
 <!ENTITY  font.langGroup.arabic                   "Arab">
@@ -44,35 +43,28 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
-
-
-
-
-
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Ukuran huruf terkecil:">
 <!ENTITY minSize.accesskey                        "k">
 <!ENTITY minSize.none                             "Tidak Ada">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Tanpa Serif">
-<!-- fonts in message -->
 
+<!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Pengaturan Huruf">
 <!ENTITY  useFixedWidthForPlainText.label         "Gunakan huruf dengan lebar tetap untuk pesan dalam teks polos">
 <!ENTITY  fixedWidth.accesskey                    "s">
 <!ENTITY  useDocumentFonts.label                  "Izinkan pesan untuk menggunakan huruf lainnya">
 <!ENTITY  useDocumentFonts.accesskey              "I">
-<!-- Language settings -->
 
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Email Keluar:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
 
-
-
 <!ENTITY viewDefaultCharsetList.label     "Email Masuk:">
 <!ENTITY viewDefaultCharsetList.accesskey  "i">
-
-

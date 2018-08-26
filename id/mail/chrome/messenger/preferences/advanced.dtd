@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Utama">
+<!ENTITY dataChoicesTab.label    "Pilihan Data">
 <!ENTITY itemUpdate.label        "Pemutakhiran">
 <!ENTITY itemNetworking.label    "Jaringan &amp; Ruang Disk">
 <!ENTITY itemCertificates.label  "Sertifikat">
@@ -10,6 +11,7 @@
 <!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Aktifkan Sistem Pencarian Global dan Pengindeksan Pesan">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY languageSelector.label        "Bahasa">
 
 
 <!ENTITY systemIntegration.label       "Integrasi dengan Sistem">
@@ -17,6 +19,7 @@
 <!ENTITY alwaysCheckDefault.accesskey  "l">
 <!ENTITY searchIntegration.label       "Izinkan &searchIntegration.engineName; untuk pencarian pesan">
 <!ENTITY searchIntegration.accesskey   "p">
+<!ENTITY checkDefaultsNow.label        "Periksa Sekarang…">
 <!ENTITY configEditDesc.label          "Konfigurasi Canggih">
 <!ENTITY configEdit.label              "Penyunting Konfigurasi…">
 <!ENTITY configEdit.accesskey          "g">
@@ -25,6 +28,7 @@
 <!ENTITY showReturnReceipts.accesskey  "r">
 
 <!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetri">
 
 
 <!-- Update -->
@@ -39,6 +43,8 @@
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "Versi ">
+<!ENTITY updateHistory.label             "Tampilkan Riwayat Pemutakhiran">
 
 
 <!-- Networking and Disk Space -->
