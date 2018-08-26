@@ -67,3 +67,6 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = Apṛuksi DNS ticki SOCKS v5 yettwaseqdec
     .accesskey = d
+connection-dns-over-https =
+    .label = Rmed DNS Deg HTTPS
+    .accesskey = H
