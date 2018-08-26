@@ -27,5 +27,5 @@
 <!ENTITY junkClassification.label "Selecció">
 <!ENTITY junkActions.label "Destinació i retenció">
 
-<!ENTITY globalJunkPrefs.label "Preferències globals del correu brossa...">
+<!ENTITY globalJunkPrefs.label "Preferències globals del correu brossa…">
 <!ENTITY globalJunkPrefs.accesskey "g">

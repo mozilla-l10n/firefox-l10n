@@ -5,9 +5,9 @@
 <!ENTITY AdvancedEditButton.label "Edició avançada…">
 <!ENTITY AdvancedEditButton.accessKey "E">
 <!ENTITY AdvancedEditButton.tooltip "Afegeix o modifica els atributs HTML, els atributs d'estil i el JavaScript">
-<!ENTITY chooseFileButton.label "Trieu un fitxer…">
+<!ENTITY chooseFileButton.label "Trieu un fitxer...">
 <!ENTITY chooseFileButton.accessKey "f">
-<!ENTITY chooseFileLinkButton.label "Trieu un fitxer…">
+<!ENTITY chooseFileLinkButton.label "Trieu un fitxer...">
 <!ENTITY chooseFileLinkButton.accessKey "r">
 <!ENTITY makeUrlRelative.label "L'URL és relatiu a la ubicació de la pàgina">
 <!ENTITY makeUrlRelative.accessKey "R">

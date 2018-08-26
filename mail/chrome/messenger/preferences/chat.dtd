@@ -61,4 +61,4 @@ sentence. -->
 <!ENTITY messageStyleShowHeader.label      "Mostra la capçalera">
 <!ENTITY messageStyleShowHeader.accesskey  "M">
 <!ENTITY messageStyleNoPreview.title       "La previsualització no està disponible">
-<!ENTITY messageStyleNoPreview.description "Aquest tema no és vàlid o actualment no està disponible (perquè s'ha inhabilitat el complement, esteu en mode segur...)">
+<!ENTITY messageStyleNoPreview.description "Aquest tema no és vàlid o actualment no està disponible (perquè s'ha inhabilitat el complement, esteu en mode segur…)">
