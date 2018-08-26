@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy de rete
+network-settings-title = Parametros de rete
 network-proxy-connection-description = Configura como { -brand-short-name } se connecte a internet.
 network-proxy-connection-learn-more = Saper plus
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = { -brand-short-name } usara le mesme parametr
 history-private-browsing-permanent =
     .label = Sempre usar le modo de navigation private
     .accesskey = p
-history-remember-option =
-    .label = Memorisar mi chronologia de navigation e de discargamentos
-    .accesskey = M
 history-remember-browser-option =
     .label = Rememorar le chronologia de navigation e discargamento
     .accesskey = n
