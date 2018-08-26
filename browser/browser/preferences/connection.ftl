@@ -67,3 +67,6 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 қолдану кезінде DNS сұранымдарын прокси арқылы жіберу
     .accesskey = д
+connection-dns-over-https =
+    .label = HTTPS арқылы DNS іске қосу
+    .accesskey = ы
