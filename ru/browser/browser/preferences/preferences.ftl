@@ -322,6 +322,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Прокси-сервер
+network-settings-title = Параметры сети
 network-proxy-connection-description = Настроить, как { -brand-short-name } соединяется с Интернетом.
 network-proxy-connection-learn-more = Подробнее
 network-proxy-connection-settings =
@@ -560,9 +561,6 @@ history-dontremember-description = { -brand-short-name } будет исполь
 history-private-browsing-permanent =
     .label = Всегда работать в режиме приватного просмотра
     .accesskey = т
-history-remember-option =
-    .label = Помнить историю посещений и загрузок
-    .accesskey = с
 history-remember-browser-option =
     .label = Помнить историю посещений и загрузок
     .accesskey = и
