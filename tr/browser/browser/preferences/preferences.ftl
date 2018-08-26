@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Ağ vekil sunucusu
+network-settings-title = Ağ ayarları
 network-proxy-connection-description = { -brand-short-name } tarayıcınızın internete nasıl bağlanacağını yapılandırın.
 network-proxy-connection-learn-more = Daha fazla bilgi al
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = { -brand-short-name } Gizli Gezinti ile aynı
 history-private-browsing-permanent =
     .label = Her zaman gizli gezinti kipini kullan
     .accesskey = m
-history-remember-option =
-    .label = Gezinti ve indirme geçmişimi hatırla
-    .accesskey = h
 history-remember-browser-option =
     .label = Tarama ve indirme geçmişini hatırla
     .accesskey = T
