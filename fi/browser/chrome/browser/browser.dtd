@@ -974,6 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Ilmoita ongelmasta">
 <!ENTITY contentBlocking.breakageReportView.label "Ilmoita ongelmista">
+<!ENTITY contentBlocking.breakageReportView2.description "Sisällön esto voi aiheuttaa ongelmia joillakin sivustoilla. Ongelmista ilmoittaminen auttaa tekemään &brandShortName;ista paremman kaikille. (Ilmoittaminen lähettää Mozillalle sivun osoitteen sekä tietoja selainasetuksistasi.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Lue lisää">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Osoite">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Mitä ongelmia kohtasit? (Valinnainen)">

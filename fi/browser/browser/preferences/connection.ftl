@@ -70,3 +70,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Käytä DNS:ää HTTPS:n yli
     .accesskey = H
+connection-dns-over-https-url = Osoite
+    .accesskey = O
+    .tooltiptext = Osoite DNS-kyselyjen tekemiseen HTTPS:n yli
