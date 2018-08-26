@@ -970,7 +970,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
-<!ENTITY contentBlocking.3rdPartyCookies.add.label "Tambahkan Pemblokiran…">
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Tambahkan Blokir…">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Laporkan masalah">
 <!ENTITY contentBlocking.breakageReportView.label "Laporkan Masalah">
