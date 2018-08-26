@@ -619,6 +619,10 @@ sitedata-block-trackers-option =
     .label = Elements de seguiment de tercers
 sitedata-block-unvisited-option =
     .label = Galetes de llocs webs no visitats
+sitedata-block-all-third-parties-option =
+    .label = Totes les caletes de tercers
+sitedata-block-always-option =
+    .label = Totes les galetes (pot fer que alguns llocs web no funcionin)
 sitedata-clear =
     .label = Neteja les dades…
     .accesskey = l
@@ -646,6 +650,11 @@ addressbar-suggestions-settings = Canvia les preferències dels suggeriments de 
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Bloqueig de contingut
+content-blocking-learn-more = Més informació
+content-blocking-restore-defaults =
+    .label = Restaura els valors per defecte
+    .accesskey = R
 
 ## Privacy Section - Tracking
 
