@@ -307,6 +307,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = 網路代理伺服器
+network-settings-title = 網路設定
 network-proxy-connection-description = 設定 { -brand-short-name } 要如何連線至網際網路。
 network-proxy-connection-learn-more = 了解更多
 network-proxy-connection-settings =
@@ -545,9 +546,6 @@ history-dontremember-description = { -brand-short-name } 不會儲存任何瀏�
 history-private-browsing-permanent =
     .label = 總是使用隱私瀏覽模式
     .accesskey = p
-history-remember-option =
-    .label = 保留我的瀏覽與下載記錄
-    .accesskey = b
 history-remember-browser-option =
     .label = 保留瀏覽與下載記錄
     .accesskey = b
