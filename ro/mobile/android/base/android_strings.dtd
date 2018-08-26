@@ -7,7 +7,7 @@
 <!ENTITY firstrun_urlbar_subtext2 "Un browser modern mobil de la Mozilla, organizația nonprofit dedicată unui web liber și deschis.">
 <!ENTITY firstrun_panel_title_privacy "Confidențialitate">
 <!ENTITY firstrun_privacy_message "Navighează fără grija de a fi urmărit">
-<!ENTITY firstrun_privacy_subtext "Navigare privată cu protecţia faţă de urmărire blochează urmăritorii şi nu va ține minte istoricul tău când închei navigarea.">
+<!ENTITY firstrun_privacy_subtext "Navigarea privată cu protecție față de urmărire blochează urmăritorii și nu va ține minte istoricul tău când închei navigarea.">
 <!ENTITY firstrun_panel_title_customize "Personalizare">
 <!ENTITY firstrun_customize_message "Creează-ți propria experiență în &brandShortName;.">
 <!ENTITY firstrun_customize_subtext "Personalizează &brandShortName; cu suplimente. Blochează reclamele, adaugă caracteristici sau alege o temă nouă care să îți reflecteze personalitatea.">
@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Înainte">
 
 <!ENTITY firstrun_tabqueue_title "Linkuri">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Pornește filele în coadă">
-<!ENTITY firstrun_tabqueue_subtext_off "Salvează linkuri pentru mai târziu în &brandShortName; când le atingi în alte aplicații.">
-
-<!ENTITY firstrun_tabqueue_message_on "Succes!">
-<!ENTITY firstrun_tabqueue_subtext_on "O poți opri întotdeauna din &settings; sub &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Articole">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,13 +63,14 @@
 <!ENTITY  crash_restart_label "Repornește &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Caută sau introdu adresa">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Folosește cititorul de cod QR pentru a căuta sau introduce o adresă">
 <!-- Localization note (url_bar_mic_text2) : This text will be
      heard by non-visual users when the focus is on the Microphone
      icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Folosește microfonul pentru a căuta sau introduce o adresă">
 
 <!ENTITY bookmark "Marcaj">
 <!ENTITY bookmark_remove "Elimină marcajul">
@@ -213,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Restaurează filele, economizorul de date, instrumentele de dezvoltare">
 <!ENTITY pref_category_notifications "Notificări">
-<!ENTITY pref_category_notifications_summary "Funcționalități noi, actualizările site-urilor web">
 <!ENTITY pref_category_notifications_summary2 "Funcționalități noi, ponturi referitoare la produse">
 <!ENTITY pref_developer_remotedebugging_usb "Depanare de la distanță via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depanare de la distanță via Wi-Fi">
@@ -445,6 +439,10 @@
 <!ENTITY datareporting_crashreporter_title_short "Raportor de defecțiuni">
 <!ENTITY datareporting_wifi_title2 "Serviciu de localizare &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Ajută &vendorShortName; să facă harta lumii! Împărtășește locația aproximativă prin Wi-Fi și rețelele celulare ale dispozitivului pentru a îmbunătăți serviciul nostru de geolocalizare.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -886,3 +884,8 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Adaugă la ecranul principal">
 <!ENTITY pwa_continue_to_website "Continuă către site-ul web">
 <!ENTITY pwa_onboarding_sumo "Poți adăuga cu ușurință acest site web la ecranul principal pentru a avea acces instant și pentru a naviga rapid, ca și cum ai fi într-o aplicație.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+
+<!-- Notification channels names -->
