@@ -307,6 +307,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proksi Rangkaian
+network-settings-title = Tetapan Rangkaian
 network-proxy-connection-description = Tetapkan cara { -brand-short-name } menyambung ke internet.
 network-proxy-connection-learn-more = Ketahui Selanjutnya
 network-proxy-connection-settings =
@@ -545,9 +546,6 @@ history-dontremember-description = { -brand-short-name } akan menggunakan tetapa
 history-private-browsing-permanent =
     .label = Sentiasa gunakan mod pelayaran peribadi
     .accesskey = p
-history-remember-option =
-    .label = Ingat semua lawan sesawang yang telah dikunjungi dan segala benda yang telah dimuat turun
-    .accesskey = b
 history-remember-browser-option =
     .label = Ingat sejarah pelayaran dan muat turun
     .accesskey = p
