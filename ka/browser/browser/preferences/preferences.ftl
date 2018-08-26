@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = ქსელის პროქსი
+network-settings-title = ქსელის პარამეტრები
 network-proxy-connection-description = { -brand-short-name }-ის ინტერნეტთან წვდომის პარამეტრების გამართვა.
 network-proxy-connection-learn-more = ვრცლად
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = { -brand-short-name } ბრაუზერ�
 history-private-browsing-permanent =
     .label = ყოველთვის პირადი დათვალიერების გამოყენება
     .accesskey = პ
-history-remember-option =
-    .label = მონახულებული გვერდებისა და ჩამოტვირთვების ისტორიის დამახსოვრება
-    .accesskey = მ
 history-remember-browser-option =
     .label = გვერდებისა და ჩამოტვირთვების ისტორიის დამახსოვრება
     .accesskey = გ
