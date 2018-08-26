@@ -9,5 +9,11 @@
 <!ENTITY acceptRemoteContentInfo.label "Pelajari lebih lanjut tentang isu privasi konten jarak jauh">
 
 <!-- Web Content -->
+<!ENTITY captionWebContent.label "Konten Web">
 
+<!ENTITY acceptCookies.label "Terima kuki dari situs web">
+<!ENTITY acceptThirdParty.pre.label "Terima kuki pihak ketiga:">
+<!ENTITY acceptThirdParty.always.label "Selalu">
+<!ENTITY cookieExceptions.label "Kekecualian…">
+<!ENTITY showCookies.label "Tampilkan Kuki…">
 

@@ -4,7 +4,6 @@
 
 <!ENTITY window.title                 "Pengecualian">
 
-
 <!ENTITY treehead.sitename.label      "Situs">
 <!ENTITY treehead.status.label        "Status">
 <!ENTITY removepermission.label       "Hapus Situs">
@@ -15,13 +14,9 @@
 <!ENTITY address.accesskey            "A">
 <!ENTITY block.label                  "Blokir">
 <!ENTITY block.accesskey              "B">
-
-
 <!ENTITY allow.label                  "Izinkan">
 <!ENTITY allow.accesskey              "I">
 <!ENTITY windowClose.key              "w">
 
-
-
-
+<!ENTITY button.ok.label              "Simpan Perubahan">
 

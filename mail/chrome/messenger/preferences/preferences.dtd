@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  preferencesDefaultTitleMac.title "Preferensi">
+<!ENTITY  preferencesDefaultTitleWin.title "Pilihan">
+<!ENTITY  preferencesCloseButton.label     "Tutup">
+
 <!ENTITY  prefWindow.titleWin     "Pengaturan">
 <!ENTITY  prefWindow.titleGNOME   "Pengaturan &brandShortName;">
 <!ENTITY  prefWindow.titleMAC     "Pengaturan">
@@ -14,9 +18,8 @@
 <!ENTITY paneComposition.title    "Penyusunan">
 <!ENTITY paneChat.title           "Ngobrol">
 <!ENTITY paneAttachments.title    "Lampiran">
-
 <!ENTITY paneSecurity.title       "Keamanan">
 <!ENTITY paneAdvanced.title       "Canggih">
 <!ENTITY paneAccount.title        "Akun">
 
-
+<!ENTITY okButton.title           "Oke">

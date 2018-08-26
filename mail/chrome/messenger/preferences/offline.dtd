@@ -4,16 +4,11 @@
 
 <!ENTITY offlineDialog.title "Pengaturan Luring">
 
-
-
 <!ENTITY radioRememberPrevState.label "Ingat Status Mode Daring Sebelumnya">
 <!ENTITY radioRememberPrevState.accesskey "I">
-
-
 <!ENTITY radioAlwaysOnlineState.label "Selalu mulai dalam mode daring">
 <!ENTITY radioAlwaysOnlineState.accesskey "l">
-
-
+<!ENTITY radioAlwaysOffline.label "Luring">
 
 <!ENTITY textGoingOnline "Kirim pesan belum terkirim saat mulai mode daring?">
 <!ENTITY radioAutoSend.label "Ya">
