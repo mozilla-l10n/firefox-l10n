@@ -22,8 +22,10 @@
 <!ENTITY Unknown.label                  "Tidak diketahui">
 <!ENTITY chatName.label                 "Nama Obrolan:">
 
+<!ENTITY FaxNumber.label                "Faksimile:">
 
 <!ENTITY HomeAddress.label              "Alamat:">
+<!ENTITY HomeAddress.accesskey          "a">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Kota:">
@@ -32,7 +34,48 @@
 <!ENTITY HomeState.accesskey            "P">
 <!ENTITY HomeZipCode.label              "Kode Pos:">
 <!ENTITY HomeZipCode.accesskey          "K">
+<!ENTITY HomeCountry.label              "Negara">
+<!ENTITY HomeCountry.accesskey          "n">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "Tahun">
+<!ENTITY Or.value                       "atau">
+<!ENTITY Age.placeholder                "Usia">
+<!ENTITY YearsOld.label                 "">
 
+<!ENTITY JobTitle.label                 "Judul:">
+<!ENTITY Department.label               "Departemen:">
+<!ENTITY Company.label                  "Organisasi:">
+<!ENTITY WorkAddress.label              "Alamat:">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Kota:">
+<!ENTITY WorkCity.accesskey             "k">
+<!ENTITY WorkState.label                "Negara Bagian/Provinsi:">
+<!ENTITY WorkZipCode.label              "Kode Pos:">
+<!ENTITY WorkCountry.label              "Negara:">
 
+<!ENTITY Other.tab                      "Lainnya">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Catatan:">
 
+<!ENTITY Chat.tab                       "Obrolan">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM2.accesskey                 "M">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "N">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
 
+<!ENTITY Photo.tab                      "Foto">
+<!ENTITY BrowsePhoto.label              "Jelajahi">
+<!ENTITY PhotoURL.label                 "Di Web">

@@ -32,6 +32,9 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Akun Ngobrol…">
 <!ENTITY newIMAccountCmd.accesskey "N">
+<!ENTITY newIMContactCmd.label "Kontak Obrolan…">
+<!ENTITY  newMessageCmd.label "Pesan">
+<!ENTITY  newMessageCmd.accesskey "p">
 <!ENTITY openMessageFileCmd.label "Buka Pesan Tersimpan…">
 <!ENTITY openMessageFileCmd.accesskey "P">
 <!ENTITY saveAsMenu.label "Simpan sebagai">
@@ -93,6 +96,7 @@
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
 <!ENTITY selectMenu.label "Pilih">
 <!ENTITY selectMenu.accesskey "P">
+<!ENTITY all.label "Semua">
 <!ENTITY selectThreadCmd.label "Utas">
 <!ENTITY selectThreadCmd.accesskey "U">
 <!ENTITY selectThreadCmd.key "a">
@@ -177,6 +181,7 @@
 <!ENTITY sortByFromCmd.accesskey "D">
 <!ENTITY sortByRecipientCmd.label "Penerima">
 <!ENTITY sortByRecipientCmd.accesskey "P">
+<!ENTITY sortByCorrespondentCmd.label "Koresponden">
 <!ENTITY sortByUnreadCmd.label "Dibaca">
 <!ENTITY sortByUnreadCmd.accesskey "b">
 <!ENTITY sortByOrderReceivedCmd.label "Urutan Diterima">
@@ -332,6 +337,7 @@
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Teruskan Sebagai">
 <!ENTITY forwardAsMenu.accesskey "r">
+<!ENTITY forwardAsAttachmentCmd.label "Lampiran">
 <!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Buat Filter dari Pesan…">
 <!ENTITY createFilter.accesskey "a">
@@ -397,6 +403,7 @@
 <!ENTITY openConversationCmd.label "Buka Pesan dalam Mode Percakapan">
 <!ENTITY openConversationCmd.accesskey "k">
 <!ENTITY openConversationCmd.key "c">
+<!ENTITY openAttachmentListCmd.label "Lampiran">
 <!ENTITY openFeedWebPageInMP.label "Ganti antara Laman Web dan Ringkasan pada Panel Pesan">
 <!ENTITY openFeedWebPageInMP.accesskey "G">
 
@@ -442,6 +449,7 @@
   -->
 
 <!-- Developer Tools Submenu -->
+<!ENTITY debugAddonsCmd.label "Pengaya Awakutu">
 <!ENTITY errorConsoleCmd.label "Konsol Kesalahan">
 <!ENTITY errorConsoleCmd.accesskey "K">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -450,8 +458,10 @@
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY newMsgButton.label "Tulis">
@@ -517,6 +527,7 @@
 <!ENTITY chatButton.tooltip "Tampilkan tab Ngobrol">
 <!ENTITY tagButton.tooltip "Tambahkan tag pada pesan">
 <!ENTITY compactButton.tooltip "Buang pesan yang dihapus pada folder terpilih">
+<!ENTITY appmenuButton1.tooltip "Tampilkan Menu &brandShortName;">
 
 <!-- Toolbar Button Popup -->
 
@@ -528,6 +539,7 @@
 <!-- Phishing Button Popup -->
 
 <!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Pesan Baru">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Tag baru…">
@@ -535,6 +547,7 @@
 
 <!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Nama">
+<!ENTITY folderUnreadColumn.label "Belum Dibaca">
 <!ENTITY folderSizeColumn.label "Ukuran">
 
 <!-- Folder Pane Context Menu -->
@@ -591,6 +604,7 @@
 <!ENTITY threadColumn.label "Utas">
 <!ENTITY fromColumn.label "Dari">
 <!ENTITY recipientColumn.label "Penerima">
+<!ENTITY correspondentColumn.label "Koresponden">
 <!ENTITY subjectColumn.label "Subjek">
 <!ENTITY dateColumn.label "Tanggal">
 <!ENTITY priorityColumn.label "Prioritas">
@@ -604,8 +618,13 @@
 <!ENTITY starredColumn.label "Bintang">
 <!ENTITY locationColumn.label "Lokasi">
 <!ENTITY idColumn.label "Urutan Diterima">
+<!ENTITY attachmentColumn.label "Lampiran">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY threadColumn2.tooltip "Tampilkan utas pesan">
+<!ENTITY recipientColumn2.tooltip "Urut berdasarkan penerima">
+<!ENTITY correspondentColumn2.tooltip "Urut berdasarkan koresponden">
+<!ENTITY subjectColumn2.tooltip "Urut berdasarkan subjek">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Buka Pesan di Jendela Baru">

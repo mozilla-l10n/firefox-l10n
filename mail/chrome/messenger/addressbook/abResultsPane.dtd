@@ -3,5 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY GeneratedName.label                   "Nama">
+<!ENTITY PrimaryEmail.label                    "Surel">
+<!ENTITY Company.label                         "Organisasi">
 <!ENTITY _PhoneticName.label                   "Nama Fonetis">
+<!ENTITY Department.label                      "Departemen">
+<!ENTITY JobTitle.label                        "Gelar">
+<!ENTITY CellularNumber.label                  "Seluler">
+<!ENTITY FaxNumber.label                       "Faksimile">
+<!ENTITY HomePhone.label                       "Telepon Rumah">
+<!ENTITY WorkPhone.label                       "Telepon Kantor">
 <!ENTITY ChatName.label                        "Nama Obrolan">

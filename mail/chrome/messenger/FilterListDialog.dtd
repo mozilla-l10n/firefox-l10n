@@ -7,22 +7,15 @@
 <!ENTITY activeColumn.label "Aktifkan">
 <!ENTITY newButton.label "Baru…">
 <!ENTITY newButton.accesskey "B">
-
-
+<!ENTITY newButton.popupCopy.label "Salin…">
 <!ENTITY editButton.label "Ubah…">
 <!ENTITY editButton.accesskey "U">
 <!ENTITY deleteButton.label "Hapus">
 <!ENTITY deleteButton.accesskey "H">
-
-
-
 <!ENTITY reorderUpButton.label "Naikkan">
 <!ENTITY reorderUpButton.accesskey "N">
 <!ENTITY reorderDownButton.label "Turunkan">
 <!ENTITY reorderDownButton.accesskey "T">
-
-
-
 <!ENTITY filterHeader.label "Filter yang aktif akan dijalankan secara otomatis sesuai urutan di bawah ini.">
 <!ENTITY filtersForPrefix.label "Filter untuk:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -36,6 +29,4 @@
 <!ENTITY folderPickerPrefix.accesskey "a">
 <!ENTITY helpButton.label "Bantuan">
 <!ENTITY helpButton.accesskey "B">
-<!ENTITY closeCmd.key "W"> 
-
-
+<!ENTITY closeCmd.key "W">
