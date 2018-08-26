@@ -7,6 +7,8 @@
 # your locale code, and link to your translated pages as soon as they're
 # live.
 
+#define bookmarks_title Peutanda
+#define bookmarks_heading Peutanda
 
 
 # LOCALIZATION NOTE (getting_started):

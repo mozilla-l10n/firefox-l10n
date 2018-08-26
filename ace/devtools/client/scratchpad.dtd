@@ -29,7 +29,9 @@
 
 
 
+<!ENTITY saveFileCmd.label            "Keubah">
 
+<!ENTITY saveFileAsCmd.label          "Keubah Seubagoë…">
 
 <!ENTITY closeCmd.label               "Tôp">
 
