@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Nettverksproxy
+network-settings-title = Nettverksinnstillingar
 network-proxy-connection-description = Konfigurer korleis { -brand-short-name } koplar seg til internett.
 network-proxy-connection-learn-more = Les meir
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = { -brand-short-name } vil bruke dei same inns
 history-private-browsing-permanent =
     .label = Alltid bruke privat nettlesing-modus
     .accesskey = A
-history-remember-option =
-    .label = Hugse nettlesar- og nedlastingshistorikk
-    .accesskey = H
 history-remember-browser-option =
     .label = Hugs nettlesing- og nedlastingshistorikk
     .accesskey = H
