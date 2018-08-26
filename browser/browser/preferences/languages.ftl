@@ -7,7 +7,7 @@ languages-window =
     .style = width: 35em
 languages-close-key =
     .key = w
-languages-description = A vegades les pàgines web s'ofereixen en més d'una llengua. Trieu les llengües per mostrar aquestes pàgines web, en ordre de preferència
+languages-description = A vegades les pàgines web s'ofereixen en més d'una llengua. Trieu les llengües per mostrar aquestes pàgines web, en ordre de preferència.
 languages-customize-spoof-english =
     .label = Sol·licita la versió anglesa de les pàgines web per millorar la privadesa
 languages-customize-moveup =
@@ -36,3 +36,5 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+languages-active-code-format =
+    .value = { languages-code-format.label }

@@ -32,7 +32,7 @@ search-input-box =
 policies-notice =
     { PLATFORM() ->
         [windows] La vostra organització ha inhabilitat la possibilitat de canviar algunes opcions.
-       *[other] La vostra organització ha inhabilitat la possibilitat de canviar algunes preferències. 
+       *[other] La vostra organització ha inhabilitat la possibilitat de canviar algunes preferències.
     }
 pane-general-title = General
 category-general =
@@ -202,6 +202,9 @@ choose-language-description = Trieu la llengua en què es mostraran preferentmen
 choose-button =
     .label = Trieu…
     .accesskey = T
+choose-browser-language-description = Trieu l'idioma en què es mostraran els menús, els missatges i les notificacions del { -brand-short-name }.
+confirm-browser-language-change-description = Reinicieu el { -brand-short-name } per aplicar aquests canvis
+confirm-browser-language-change-button = Aplica i reinicia
 translate-web-pages =
     .label = Tradueix el contingut web
     .accesskey = T
@@ -316,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Servidor intermediari de xarxa
+network-settings-title = Paràmetres de xarxa
 network-proxy-connection-description = Configureu com el { -brand-short-name } es connecta a Internet.
 network-proxy-connection-learn-more = Més informació
 network-proxy-connection-settings =
@@ -554,9 +558,6 @@ history-dontremember-description = El { -brand-short-name } utilitzarà els mate
 history-private-browsing-permanent =
     .label = Utilitza sempre el mode de navegació privada
     .accesskey = p
-history-remember-option =
-    .label = Recorda el meu historial de navegació i de baixades
-    .accesskey = b
 history-remember-browser-option =
     .label = Recorda l'historial de navegació i de baixades
     .accesskey = b

@@ -88,6 +88,11 @@ permissions-exceptions-addons-desc = Podeu especificar quins llocs web poden ins
 permissions-exceptions-autoplay-media-window =
     .title = Llocs web permesos - Reproducció automàtica
     .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Podeu especificar quins llocs web poden reproduir automàticament elements multimèdia. Escriviu l'adreça exacta del lloc que vulgueu permetre i feu clic a Permet.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Excepcions - Reproducció automàtica
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc2 = Podeu especificar quins llocs web tenen o no permís per reproduir automàticament elements multimèdia amb so. Escriviu l'adreça exacta del lloc que voleu gestionar i feu clic a Bloca o Permet.
 
 ## Site Permissions - Notifications
 
