@@ -407,6 +407,8 @@ browsing-search-on-start-typing =
 
 network-proxy-title = Netwerkproxy
 
+network-settings-title = Netwerkinstellingen
+
 network-proxy-connection-description = Configureren hoe { -brand-short-name } verbinding maakt met het internet.
 
 network-proxy-connection-learn-more = Meer info
@@ -580,7 +582,7 @@ sync-sign-in =
     .label = Aanmelden
     .accesskey = m
 
-sync-signedin-settings-header = Synchronisatie-instellingen
+sync-signedin-settings-header = Sync-instellingen
 sync-signedin-settings-desc = Kies wat u wilt synchroniseren op uw apparaten die { -brand-short-name } gebruiken.
 
 sync-engine-bookmarks =
@@ -623,7 +625,7 @@ sync-engine-prefs =
            *[other] Voorkeuren
         }
     .tooltiptext = Algemene, privacy- en beveiligingsinstellingen die u hebt gewijzigd
-    .accesskey = V
+    .accesskey = O
 
 sync-device-name-header = Apparaatnaam
 
@@ -699,10 +701,6 @@ history-dontremember-description = { -brand-short-name } zal dezelfde instelling
 history-private-browsing-permanent =
     .label = Altijd de privénavigatiemodus gebruiken
     .accesskey = m
-
-history-remember-option =
-    .label = Mijn navigatie- en downloadgeschiedenis onthouden
-    .accesskey = v
 
 history-remember-browser-option =
     .label = Navigatie- en downloadgeschiedenis onthouden
