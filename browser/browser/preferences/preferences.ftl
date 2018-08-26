@@ -328,6 +328,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = وسيط الشبكة
+network-settings-title = إعدادات الشبكة
 network-proxy-connection-description = اضبط طريقة اتصال { -brand-short-name } بالإنترنت.
 network-proxy-connection-learn-more = اطّلع على المزيد
 network-proxy-connection-settings =
@@ -566,9 +567,6 @@ history-dontremember-description = سيستخدم { -brand-short-name } نفس �
 history-private-browsing-permanent =
     .label = استخدم نمط التصفح الخاص دائمًا
     .accesskey = د
-history-remember-option =
-    .label = تذكر تأريخ تصفحي و تنزيلاتي
-    .accesskey = ص
 history-remember-browser-option =
     .label = تذكر تأريخ التصفح و التنزيل
     .accesskey = ت
