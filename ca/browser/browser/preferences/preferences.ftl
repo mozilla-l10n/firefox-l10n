@@ -603,6 +603,22 @@ sitedata-accept-third-party-visited-option =
     .label = De llocs visitats
 sitedata-accept-third-party-never-option =
     .label = Mai
+sitedata-allow-cookies-option =
+    .label = Accepta les galetes i dades dels llocs web
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Bloca les galetes i dades dels llocs
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Tipus de contingut blocat
+    .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = Elements de seguiment de tercers (recomanat)
+sitedata-block-trackers-option =
+    .label = Elements de seguiment de tercers
+sitedata-block-unvisited-option =
+    .label = Galetes de llocs webs no visitats
 sitedata-clear =
     .label = Neteja les dades…
     .accesskey = l
