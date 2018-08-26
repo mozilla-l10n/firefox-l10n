@@ -974,6 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "反馈故障">
 <!ENTITY contentBlocking.breakageReportView.label "反馈故障">
+<!ENTITY contentBlocking.breakageReportView2.description "内容拦截可能导致某些网站出现问题。在您反馈故障时，您得以帮助 &brandShortName; 为所有人提供更好的体验。这将会向 Mozilla 发送网页的地址及浏览器的有关信息。">
 <!ENTITY contentBlocking.breakageReportView.learnMore "详细了解">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "网址">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "您遇到了什么问题？（可选）">
