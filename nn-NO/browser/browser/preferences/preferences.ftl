@@ -281,7 +281,7 @@ update-enable-search-update =
 
 performance-title = Yting
 performance-use-recommended-settings-checkbox =
-    .label = Bruk tilrådde ytings-innstillingar
+    .label = Bruk tilrådde innstillingar for yting
     .accesskey = B
 performance-use-recommended-settings-desc = Desse innstillingane er skreddarsydde for maskinvare og operativsystem i datamaskina di.
 performance-settings-learn-more = Les meir

@@ -13,14 +13,13 @@
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Still tilbake">
 <!ENTITY resetPassword.title  "Still tilbake hovudpassord">
-<!ENTITY resetPassword.text  "Dersom du stiller tilbake hovudpassordet, vil alle nett- og e-post-passord, skjemadata, personlege sertifikat og private nøklar som er lagra gå tapt. Vil du stilla tilbake hovudpassordet?">
+<!ENTITY resetPassword.text  "Dersom du stiller tilbake hovudpassordet, vil alle nett- og e-post-passord, skjemadata, personlege sertifikat og private nøklar som er lagra gå tapt. Vil du stille tilbake hovudpassordet?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Lastar ned sertifikat">
 <!ENTITY downloadCert.message1 "Du har vorte beden om å stola på ei ny sertifikat-fullmakt (CA)">
 <!ENTITY downloadCert.trustSSL "Stol på denne CA-en til å identifisere nettsider.">
 <!ENTITY downloadCert.trustEmail "Stol på denne CA-en til å identifisere e-postbrukarar.">
-<!ENTITY downloadCert.trustObjSign "Stol på denne CA-en til å identifisere programutviklarar.">
 <!ENTITY downloadCert.message3 "Før du vel å ha tillit til denne sertifikat-fullmakta (CA), bør du undersøkja fullmakta sitt sertifikat, framgangsmåtar og prosedyrar.">
 <!ENTITY downloadCert.viewCert.label "Vis">
 <!ENTITY downloadCert.viewCert.text "Undersøk CA-sertifikat">
