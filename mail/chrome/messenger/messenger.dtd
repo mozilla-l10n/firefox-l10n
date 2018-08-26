@@ -543,22 +543,129 @@
 <!ENTITY archiveButton.label "Archivar">
 <!ENTITY openConversationButton.label "Conversación">
 <!ENTITY nextButton.label "Siguiente">
+<!ENTITY nextButtonToolbarItem.label "Siguiente no leído">
+<!ENTITY nextMsgButton.label "Siguiente">
+<!ENTITY previousButton.label "Anterior">
+<!ENTITY previousButtonToolbarItem.label "Anterior no leído">
+<!ENTITY previousMsgButton.label "Previo">
+<!ENTITY backButton1.label "Atrás">
+<!ENTITY goForwardButton1.label "Avanzar">
+<!ENTITY deleteItem.title "Borrar">
+<!ENTITY deleteButton.label "Borrar">
+<!ENTITY undeleteButton.label "Recuperar">
+<!ENTITY markButton.label "Marcar">
+<!ENTITY printButton.label "Imprimir">
+<!ENTITY stopButton.label "Detener">
+<!ENTITY throbberItem.title "Indicador de actividad">
+<!ENTITY junkItem.title "No deseado">
+<!ENTITY junkButton.label "No deseado">
+<!ENTITY notJunkButton.label "Legítimo">
+<!ENTITY addressBookButton.label "Libreta de direcciones">
+<!ENTITY chatButton.label "Chat">
+<!ENTITY glodaSearch.title "Búsqueda global">
+<!ENTITY searchItem.title "Búsqueda rápida">
+<!ENTITY mailViewsToolbarItem.title "Vistas de correo">
+<!ENTITY folderLocationToolbarItem.title "Ubicación de la carpeta">
+<!ENTITY tagButton.label "Etiqueta">
+<!ENTITY compactButton.label "Compactar">
+<!ENTITY appmenuButton.label "AppMenu">
 
 <!-- Mail Toolbar Tooltips-->
+<!ENTITY advancedButton.tooltip "Búsqueda avanzada">
+<!ENTITY getMsgButton.tooltip "Obtener mensajes nuevos">
+<!ENTITY getAllNewMsgCmd.label "Obtener todos los mensajes nuevos">
+<!ENTITY getAllNewMsgCmd.accesskey "O">
+<!ENTITY newMsgButton.tooltip "Redactar nuevo mensaje">
+<!ENTITY replyButton.tooltip "Responder al mensaje">
+<!ENTITY replyAllButton.tooltip "Responder al remitente y todos los destinatarios">
+<!ENTITY replyListButton.tooltip "Responder a lista de correos">
+<!ENTITY forwardButton.tooltip "Reenviar mensaje seleccionado">
+<!ENTITY forwardAsInline.tooltip "Reenviar mensaje seleccionado como texto en línea">
+<!ENTITY forwardAsAttachment.tooltip "Reenviar mensaje seleccionado como adjunto">
+<!ENTITY fileButton.tooltip "Archivar mensaje seleccionado">
+<!ENTITY archiveButton.tooltip "Archivar mensajes seleccionados">
+<!ENTITY openConversationButton.tooltip "Mostrar conversación del mensaje seleccionado">
+<!ENTITY nextButton.tooltip "Cambiar al siguiente mensaje no leído">
+<!ENTITY nextMsgButton.tooltip "Cambiar al siguiente mensaje">
+<!ENTITY previousButton.tooltip "Cambiar al mensaje previo no leído">
+<!ENTITY previousMsgButton.tooltip "Cambiar al mensaje previo">
+<!ENTITY goForwardButton.tooltip "Siguiente">
+<!ENTITY goBackButton.tooltip "Anterior">
+<!ENTITY deleteButton.tooltip "Borrar carpeta o mensaje seleccionado">
+<!ENTITY undeleteButton.tooltip "Recuperar mensaje seleccionado">
+<!ENTITY markButton.tooltip "Marcar mensajes">
+<!ENTITY printButton.tooltip "Imprimir este mensaje">
+<!ENTITY stopButton.tooltip "Detener la transferencia actual">
+<!ENTITY junkButton.tooltip "Marcar los mensajes seleccionados como no deseados">
+<!ENTITY notJunkButton.tooltip "Marcar los mensajes seleccionados como legítimos">
+<!ENTITY addressBookButton.tooltip "Ir a la libreta de direcciones">
+<!ENTITY chatButton.tooltip "Mostrar la pestaña de Chat">
+<!ENTITY tagButton.tooltip "Etiquetas de mensajes">
+<!ENTITY compactButton.tooltip "Quitar mensajes borrados de la carpeta seleccionada">
+<!ENTITY appmenuButton1.tooltip "Mostrar el menú de &brandShortName;">
 
 <!-- Toolbar Button Popup -->
+<!ENTITY buttonMenuForwardAsInline.label "Reenviar incorporado">
+<!ENTITY buttonMenuForwardAsAttachment.label "Reenviar como adjunto">
 
 <!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Mostrar contenido remoto en este mensaje">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "M">
+<!ENTITY editRemoteContentSettings.label "Editar opciones de contenido remoto…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Editar preferencias de contenido remoto…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 
 <!-- Phishing Button Popup -->
+<!ENTITY phishingOptionIgnore.label "Ignorar advertencia en este mensaje">
+<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionSettings.label "Editar opciones de detección de fraudes…">
+<!ENTITY phishingOptionSettings.accesskey "d">
+<!ENTITY phishingOptionSettingsUnix.label "Editar preferencias de detección de fraudes…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Nuevo mensaje">
+<!ENTITY appmenuNewContactCmd.label "Contacto de libreta de direcciones…">
+<!ENTITY appmenuEditMenu.label "Editar">
+<!ENTITY appmenuToolbarLayout.label "Personalizar…">
+<!ENTITY appmenuSelectThread.label "Seleccionar hilo">
+<!ENTITY appmenuSelectFlagged.label "Seleccionar mensajes con estrella">
 
 <!-- Tags Menu Popup -->
+<!ENTITY addNewTag.label "Nueva etiqueta…">
+<!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "Administrar etiquetas…">
+<!ENTITY manageTags.accesskey "A">
 
 <!-- Folder Pane -->
+<!ENTITY folderNameColumn.label "Nombre">
+<!ENTITY folderUnreadColumn.label "No leído">
+<!ENTITY folderTotalColumn.label "Total">
+<!ENTITY folderSizeColumn.label "Tamaño">
 
 <!-- Folder Pane Context Menu -->
+<!ENTITY folderContextGetMessages.label "Obtener mensajes">
+<!ENTITY folderContextGetMessages.accesskey "O">
+<!ENTITY folderContextMarkAllFoldersRead.label "Marcar todas las carpetas como leídas">
+<!ENTITY folderContextPauseAllUpdates.label "Pausar todas las actualizaciones">
+<!ENTITY folderContextPauseUpdates.label "Pausar actualizaciones">
+<!ENTITY folderContextPauseUpdates.accesskey "U">
+<!ENTITY folderContextOpenInNewWindow.label "Abrir en una ventana nueva">
+<!ENTITY folderContextOpenInNewWindow.accesskey "A">
+<!ENTITY folderContextOpenNewTab.label "Abrir en una pestaña nueva">
+<!ENTITY folderContextOpenNewTab.accesskey "T">
+<!ENTITY folderContextNew.label "Nueva subcarpeta…">
+<!ENTITY folderContextNew.accesskey "N">
+<!ENTITY folderContextRename.label "Renombrar">
+<!ENTITY folderContextRename.accesskey "R">
+<!ENTITY folderContextRemove.label "Borrar">
+<!ENTITY folderContextRemove.accesskey "B">
+<!ENTITY folderContextCompact.label "Compactar">
+<!ENTITY folderContextCompact.accesskey "C">
+<!ENTITY folderContextEmptyTrash.label "Vaciar papelera">
+<!ENTITY folderContextEmptyTrash.accesskey "e">
+<!ENTITY folderContextEmptyJunk.label "Vaciar correo no deseado">
 
 <!-- Search Bar -->
 
