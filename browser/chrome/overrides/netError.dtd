@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Geri dön (Önerilir)">
 <!ENTITY advanced.label "Gelişmiş">
 
-<!ENTITY continue1.label "Devam et…">
+<!ENTITY continue2.label "Daha fazla…">
 <!ENTITY moreInformation.label "Daha fazla bilgi">
 
 <!-- Specific error messages -->
@@ -108,12 +108,12 @@
 
 <!ENTITY certerror.longpagetitle1 "Bağlantınız güvenli değil">
 <!ENTITY certerror.longpagetitle2 "Uyarı: Güvenlik riskiyle karşılaşabilirsiniz">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> web sitesinin sahibi siteyi hatalı yapılandırmış.  Bilgilerinizin çalınmasını önlemek için &brandShortName; bu web sitesine bağlanmadı.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; olası bir güvenlik tehdidi saptadığı için <span class='hostname'/> sitesine girmedi. Bu siteyi ziyaret ederseniz saldırganlar parola, e-posta ve kredi kartı gibi bilgilerinizi çalmaya çalışabilir.">
+<!ENTITY certerror.introPara2 "&brandShortName; olası bir güvenlik tehdidiyle karşılaştığı için <span class='hostname'/> adresine girmedi. Bu siteyi ziyaret ederseniz saldırganlar parola, e-posta ve kredi kartı gibi bilgilerinizi çalışmaya çalışabilir.">
 
 <!ENTITY certerror.expiredCert.secondPara "Bu sorun büyük olasılıkla bilgisayarınızın saatinin yanlış ayarlanmasından kaynaklanır. Saat veya tarih yanlışsa &brandShortName; güvenli bağlantı kuramayabilir.">
 
@@ -142,6 +142,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ayrıcalık tanı…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Riski kabul ederek devam et">
 
 <!ENTITY errorReporting.automatic2 "Mozilla’nın zararlı siteleri tanımlayıp engellemesine yardımcı olmak için bu gibi hataları rapor et">
 <!ENTITY errorReporting.learnMore "Daha fazla bilgi al…">
