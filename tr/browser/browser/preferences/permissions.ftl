@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = İzin Verilen Siteler - Otomatik Oynatma
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Hangi sitelere medya dosyalarını otomatik oynatma izni vereceğinizi seçebilirsiniz. İzin vermek istediğiniz sitenin tam adresini yazıp “İzin ver” düğmesine tıklayın.
+permissions-exceptions-autoplay-media-window2 =
+    .title = İstisnalar - Otomatik Oynat
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Hangi sitelerin her zaman sesli medyaları otomatik oynatabileceğini veya asla oynatamayacağını belirleyebilirsiniz. Yönetmek istediğiniz sitenin tam adresini yazdıktan sonra “Engelle” veya “İzin ver”e tıklayın.
 
 ## Site Permissions - Notifications
