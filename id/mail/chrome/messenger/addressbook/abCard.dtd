@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Contact.tab                     "Kontak">
 <!ENTITY Name.box                        "Nama">
 
 <!-- LOCALIZATION NOTE:
@@ -17,6 +18,8 @@
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 
+<!ENTITY PhoneticField1.label           "Fonetis:">
+<!ENTITY PhoneticField2.label           "Fonetis:">
 
 <!ENTITY PrimaryEmail.label             "Surel:">
 <!ENTITY HTML.label                     "HTML">
