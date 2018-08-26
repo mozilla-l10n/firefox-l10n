@@ -63,6 +63,7 @@
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
+<!ENTITY cmd.removeFile.label             "Böh Beureukaih">
 <!-- LOCALIZATION NOTE (cmd.chooseUnblock.label):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
@@ -73,6 +74,7 @@
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
+<!ENTITY cmd.chooseOpen.label             "Peuhah atawa Böh Beureukaih">
 
 <!-- LOCALIZATION NOTE (showMoreInformation.label):
      Displayed when hovering a blocked download, indicates that it's possible to

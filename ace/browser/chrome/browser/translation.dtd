@@ -34,6 +34,7 @@
 <!ENTITY translation.translatedToSuffix.label   "">
 
 
+<!ENTITY translation.tryAgain.button            "Ci Lom">
 
 
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,

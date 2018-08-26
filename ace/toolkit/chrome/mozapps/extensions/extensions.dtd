@@ -59,6 +59,8 @@
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
+<!ENTITY addon.undoAction.label               "Peubateuë">
+<!ENTITY addon.undoRemove.label               "Peubateuë">
 <!ENTITY addon.checkingForUpdates.label       "Paréksa vèrsi barô…">
 
 
