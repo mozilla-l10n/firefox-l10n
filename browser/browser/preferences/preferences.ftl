@@ -322,6 +322,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Tinklo įgaliotasis serveris
+network-settings-title = Tinklo nuostatos
 network-proxy-connection-description = Nustatykite, kaip „{ -brand-short-name }“ jungiasi prie interneto.
 network-proxy-connection-learn-more = Sužinoti daugiau
 network-proxy-connection-settings =
@@ -560,9 +561,6 @@ history-dontremember-description = „{ -brand-short-name }“ visą laiką laik
 history-private-browsing-permanent =
     .label = Visada naršyti privačiojo naršymo veiksenoje
     .accesskey = V
-history-remember-option =
-    .label = Įsiminti lankytus tinklalapius ir parsiųstus failus
-    .accesskey = m
 history-remember-browser-option =
     .label = Įsiminti lankytus tinklalapius ir parsiųstus failus
     .accesskey = m
@@ -616,7 +614,7 @@ sitedata-disallow-cookies-option =
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Užblokuotas tipas
+sitedata-block-desc = Blokuojamas tipas
     .accesskey = t
 sitedata-block-trackers-option-recommended =
     .label = Trečiųjų šalių stebėjimo elementai (rekomenduojama)
