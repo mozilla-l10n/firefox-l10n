@@ -315,6 +315,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = 网络代理
+network-settings-title = 网络设置
 network-proxy-connection-description = 配置 { -brand-short-name } 如何连接互联网。
 network-proxy-connection-learn-more = 详细了解
 network-proxy-connection-settings =
@@ -553,9 +554,6 @@ history-dontremember-description = { -brand-short-name } 将采用与“隐私�
 history-private-browsing-permanent =
     .label = 始终使用隐私浏览模式
     .accesskey = p
-history-remember-option =
-    .label = 记住我的浏览和下载历史
-    .accesskey = b
 history-remember-browser-option =
     .label = 记住浏览和下载历史
     .accesskey = b
