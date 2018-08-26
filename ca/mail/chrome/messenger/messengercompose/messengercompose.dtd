@@ -83,7 +83,7 @@
 <!ENTITY deleteCmd.accesskey "u">
 <!ENTITY editRewrapCmd.label "Torna a ajustar">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY renameAttachmentCmd.label "Canvia el nom del fitxer adjunt...">
+<!ENTITY renameAttachmentCmd.label "Canvia el nom del fitxer adjunt…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY reorderAttachmentsCmd.label "Reordena les adjuncions…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">

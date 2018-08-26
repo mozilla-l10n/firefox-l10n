@@ -40,8 +40,8 @@
 <!ENTITY includeSigOnForward.label            "Inclou la signatura en els reenviaments">
 <!ENTITY includeSigOnForward.accesskey        "v">
 
-<!ENTITY globalComposingPrefs.label           "Preferències globals de redacció...">
+<!ENTITY globalComposingPrefs.label           "Preferències globals de redacció…">
 <!ENTITY globalComposingPrefs.accesskey       "g">
 
-<!ENTITY globalAddressingPrefs.label          "Preferències globals d'adreçament...">
+<!ENTITY globalAddressingPrefs.label          "Preferències globals d'adreçament…">
 <!ENTITY globalAddressingPrefs.accesskey      "b">

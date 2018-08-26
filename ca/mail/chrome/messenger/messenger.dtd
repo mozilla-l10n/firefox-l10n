@@ -26,15 +26,15 @@
 <!ENTITY newVirtualFolderCmd.accesskey "d">
 <!ENTITY newOtherAccountsCmd.label "Altres comptes…">
 <!ENTITY newOtherAccountsCmd.accesskey "A">
-<!ENTITY newCreateEmailAccountCmd.label "Obtén un compte nou de correu...">
+<!ENTITY newCreateEmailAccountCmd.label "Obtén un compte nou de correu…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "O">
-<!ENTITY newExistingEmailAccountCmd.label "Compte de correu existent...">
+<!ENTITY newExistingEmailAccountCmd.label "Compte de correu existent…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
 <!ENTITY newIMAccountCmd.label "Compte de xat…">
 <!ENTITY newIMAccountCmd.accesskey "x">
 <!ENTITY newFeedAccountCmd.label "Compte de canals d'informació…">
 <!ENTITY newFeedAccountCmd.accesskey "i">
-<!ENTITY newIMContactCmd.label "Contacte del xat...">
+<!ENTITY newIMContactCmd.label "Contacte del xat…">
 <!ENTITY newIMContactCmd.accesskey "a">
 <!ENTITY  newMessageCmd2.key "N">
 <!ENTITY  newMessageCmd.key "M">
@@ -480,7 +480,7 @@
 <!ENTITY imStatus.unavailable        "No disponible">
 <!ENTITY imStatus.offline            "Fora de línia">
 <!ENTITY imStatus.showAccounts       "Mostra els comptes…">
-<!ENTITY joinChatCmd.label "Uniu-vos al xat...">
+<!ENTITY joinChatCmd.label "Uniu-vos al xat…">
 <!ENTITY joinChatCmd.accesskey "U">
 <!ENTITY savedFiles.label "Fitxers desats">
 <!ENTITY savedFiles.accesskey "d">
@@ -679,7 +679,7 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "l">
 <!ENTITY folderContextSubscribe.label "Gestiona les subscripcions…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchForMessages.label "Cerca missatges...">
+<!ENTITY folderContextSearchForMessages.label "Cerca missatges…">
 <!ENTITY folderContextSearchForMessages.accesskey "C">
 <!ENTITY folderContextProperties2.label "Propietats">
 <!ENTITY folderContextProperties2.accesskey "P">
