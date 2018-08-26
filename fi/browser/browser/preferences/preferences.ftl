@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Verkon välityspalvelin
+network-settings-title = Verkkoasetukset
 network-proxy-connection-description = Muokkaa { -brand-short-name }in verkkoyhteysasetuksia.
 network-proxy-connection-learn-more = Lue lisää
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = { -brand-short-name } toimii aina kuten yksit
 history-private-browsing-permanent =
     .label = Selaa aina yksityinen selaus -tilassa
     .accesskey = y
-history-remember-option =
-    .label = Säilytä selaushistoria ja tieto latauksista
-    .accesskey = ä
 history-remember-browser-option =
     .label = Säilytä selaushistoria ja tieto latauksista
     .accesskey = ä

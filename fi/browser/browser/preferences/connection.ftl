@@ -67,3 +67,6 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = Käytä välityspalvelinta DNS:lle käytettäessä SOCKS v5:tä
     .accesskey = E
+connection-dns-over-https =
+    .label = Käytä DNS:ää HTTPS:n yli
+    .accesskey = H
