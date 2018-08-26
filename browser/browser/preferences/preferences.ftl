@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Διακομιστής μεσολάβησης δικτύου
+network-settings-title = Ρυθμίσεις δικτύου
 network-proxy-connection-description = Ρυθμίστε τον τρόπο σύνδεσης του { -brand-short-name } στο διαδίκτυο.
 network-proxy-connection-learn-more = Μάθετε περισσότερα
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = Το { -brand-short-name } θα χρησιμ�
 history-private-browsing-permanent =
     .label = Μόνιμη λειτουργία ιδιωτικής περιήγησης
     .accesskey = ι
-history-remember-option =
-    .label = Διατήρηση του ιστορικού περιήγησης και λήψεων
-    .accesskey = τ
 history-remember-browser-option =
     .label = Διατήρηση ιστορικού περιήγησης και λήψεων
     .accesskey = τ
