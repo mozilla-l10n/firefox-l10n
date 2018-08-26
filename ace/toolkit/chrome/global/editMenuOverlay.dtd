@@ -8,3 +8,4 @@
 <!ENTITY findCmd.key               "M">
 <!ENTITY findCmd.accesskey         "M">
 <!ENTITY findAgainCmd.label        "Mita Lom">
+<!ENTITY findAgainCmd.key2         "VK_F3">
