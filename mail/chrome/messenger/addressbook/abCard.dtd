@@ -18,9 +18,20 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 
 
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Tidak diketahui">
 <!ENTITY chatName.label                 "Nama Obrolan:">
 
 
+<!ENTITY HomeAddress.label              "Alamat:">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Kota:">
+<!ENTITY HomeCity.accesskey             "k">
+<!ENTITY HomeState.label                "Negara Bagian/Provinsi:">
+<!ENTITY HomeState.accesskey            "P">
+<!ENTITY HomeZipCode.label              "Kode Pos:">
+<!ENTITY HomeZipCode.accesskey          "K">
 
 
 
