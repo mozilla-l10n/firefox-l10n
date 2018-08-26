@@ -243,16 +243,27 @@
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Enviar este mensaje ahora">
+<!ENTITY sendlaterButton.tooltip "Enviar este mensaje después">
+<!ENTITY quoteButton.tooltip "Citar el mensaje anterior">
 <!ENTITY addressButton.tooltip "Seleccione a un destinatario de una libreta de direcciones">
 <!ENTITY attachButton.tooltip2 "Agregar un adjuntos">
 <!ENTITY spellingButton.tooltip "Revisar ortografía de selección o mensaje entero">
 <!ENTITY saveButton.tooltip "Guardar este mensaje">
+<!ENTITY cutButton.tooltip              "Cortar">
+<!ENTITY copyButton.tooltip             "Copiar">
+<!ENTITY pasteButton.tooltip            "Pegar">
+<!ENTITY printButton.tooltip "Imprimir este mensaje">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "De:">
+<!ENTITY fromAddr.accesskey "r">
 <!ENTITY toAddr.label "Para:">
+<!ENTITY ccAddr.label "Cc:">
+<!ENTITY bccAddr.label "Cco:">
+<!ENTITY replyAddr.label "Responder a:">
 <!ENTITY newsgroupsAddr.label "Grupo de noticias:">
 <!ENTITY followupAddr.label "Seguimiento a:">
 <!ENTITY subject.label "Asunto:">

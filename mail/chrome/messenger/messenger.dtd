@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY titledefault.label "&brandFullName;">
-<!ENTITY titleSeparator.label "">
+<!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Carpeta…">
@@ -242,6 +242,7 @@
 <!ENTITY headersMenu.accesskey "H">
 <!ENTITY headersAllCmd.label "Todos">
 <!ENTITY headersAllCmd.accesskey "A">
+<!ENTITY headersNormalCmd.label "Normal">
 <!ENTITY headersNormalCmd.accesskey "N">
 <!ENTITY bodyMenu.label "Cuerpo del mensaje como">
 <!ENTITY bodyMenu.accesskey "B">
@@ -349,6 +350,8 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Responder solo al remitente">
 <!ENTITY replySenderCmd.accesskey "R">
+<!ENTITY replyNewsgroupCmd2.label "Seguimiento al grupo de noticias">
+<!ENTITY replyNewsgroupCmd2.accesskey "u">
 <!ENTITY replyToAllMsgCmd.label "Responder a todos">
 <!ENTITY replyToAllMsgCmd.accesskey "p">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -357,64 +360,189 @@
 <!ENTITY replyToListMsgCmd.key "i">
 <!ENTITY forwardMsgCmd.label "Adelante">
 <!ENTITY forwardMsgCmd.accesskey "F">
+<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardAsMenu.label "Reenviar como">
+<!ENTITY forwardAsMenu.accesskey "o">
+<!ENTITY forwardAsInline.label "En línea">
+<!ENTITY forwardAsInline.accesskey "E">
 <!ENTITY forwardAsAttachmentCmd.label "Adjunto">
+<!ENTITY forwardAsAttachmentCmd.accesskey "A">
 <!ENTITY editAsNewMsgCmd.label "Editar como nuevo mensaje">
+<!ENTITY editAsNewMsgCmd.accesskey "E">
+<!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Editar mensaje borrador">
+<!ENTITY editDraftMsgCmd.accesskey "D">
 <!ENTITY editTemplateMsgCmd.label "Editar plantilla">
-<!-- do not change "VK_RETURN" -->
+<!ENTITY editTemplateMsgCmd.accesskey "P">
+<!ENTITY newMsgFromTemplateCmd.label "Nuevo mensaje de plantilla">
+<!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Crear filtro del mensaje…">
+<!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Mover a">
+<!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "Reciente">
+<!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Copiar dirección del mensaje">
+<!ENTITY copyMessageLocation.accesskey "M">
 <!ENTITY copyMsgToMenu.label "Copiar a">
+<!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Mover de nuevo">
+<!ENTITY moveToFolderAgain.accesskey "i">
+<!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Ignorar hilo">
+<!ENTITY killThreadMenu.accesskey "I">
+<!ENTITY killThreadMenu.key "k">
 <!ENTITY killSubthreadMenu.label "Ignorar subhilo">
+<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Observar hilo">
+<!ENTITY watchThreadMenu.accesskey "O">
+<!ENTITY watchThreadMenu.key "o">
 <!ENTITY tagMenu.label "Etiqueta">
+<!ENTITY tagMenu.accesskey "g">
+<!ENTITY tagCmd0.key "0">
+<!ENTITY tagCmd1.key "1">
+<!ENTITY tagCmd2.key "2">
+<!ENTITY tagCmd3.key "3">
+<!ENTITY tagCmd4.key "4">
+<!ENTITY tagCmd5.key "5">
+<!ENTITY tagCmd6.key "6">
+<!ENTITY tagCmd7.key "7">
+<!ENTITY tagCmd8.key "8">
+<!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "Marcar">
+<!ENTITY markMenu.accesskey "k">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Como leídos">
+<!ENTITY markAsReadCmd.accesskey "C">
 <!ENTITY markAsUnreadCmd.label "Como no leídos">
+<!ENTITY markAsUnreadCmd.accesskey "N">
+<!ENTITY markThreadAsReadCmd.label "Marcar hilo como leído">
+<!ENTITY markThreadAsReadCmd.accesskey "M">
+<!ENTITY markThreadAsReadCmd.key "r">
+<!ENTITY markReadByDateCmd.label "Como leído por fecha…">
+<!ENTITY markReadByDateCmd.accesskey "F">
+<!ENTITY markReadByDateCmd.key "f">
+<!ENTITY markAllReadCmd.label "Todos leídos">
+<!ENTITY markAllReadCmd.accesskey "T">
+<!ENTITY markAllReadCmd.key "t">
 <!ENTITY markStarredCmd.label "Agregar estrella">
+<!ENTITY markStarredCmd.accesskey "E">
+<!ENTITY markStarredCmd.key "E">
+<!ENTITY markAsJunkCmd.label "Como correo basura">
+<!ENTITY markAsJunkCmd.accesskey "B">
+<!ENTITY markAsJunkCmd.key "b">
+<!ENTITY markAsNotJunkCmd.label "Como legítimo">
+<!ENTITY markAsNotJunkCmd.accesskey "L">
+<!ENTITY markAsNotJunkCmd.key "l">
+<!ENTITY recalculateJunkScoreCmd.label "Ejecutar controles de correo basura">
+<!ENTITY recalculateJunkScoreCmd.accesskey "C">
 <!ENTITY openMessageWindowCmd.label "Abrir mensaje">
+<!ENTITY openMessageWindowCmd.accesskey "A">
+<!ENTITY openMessageWindowCmd.key "a">
 <!ENTITY openConversationCmd.label "Abrir en conversación">
+<!ENTITY openConversationCmd.accesskey "s">
+<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Adjuntos">
+<!ENTITY openAttachmentListCmd.accesskey "h">
+<!ENTITY openFeedMessage1.label "Cuando se abran mensajes">
+<!ENTITY openFeedMessage1.accesskey "A">
 <!ENTITY openFeedWebPage.label "Abrir como página web">
+<!ENTITY openFeedWebPage.accesskey "W">
 <!ENTITY openFeedSummary.label "Abrir como resumen">
+<!ENTITY openFeedSummary.accesskey "R">
+<!ENTITY openFeedWebPageInMP.label "Alternar entre Página web y Resumen en el Panel de mensajes">
+<!ENTITY openFeedWebPageInMP.accesskey "T">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Ventana">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Herramientas">
+<!ENTITY tasksMenu.accesskey "H">
+<!ENTITY messengerCmd.label "Correo &amp; Grupos de noticias">
+<!ENTITY messengerCmd.accesskey "N">
+<!ENTITY addressBookCmd.label "Libreta de direcciones">
+<!ENTITY addressBookCmd.accesskey "D">
+<!ENTITY addressBookCmd.key "D">
 <!ENTITY addons.label "Complementos">
+<!ENTITY addons.accesskey "C">
 <!ENTITY addonPrefs.label "Opciones de complementos">
+<!ENTITY addonPrefs.accesskey "O">
 <!ENTITY addonPrefsUnix.label "Preferencias de complementos">
+<!ENTITY addonPrefsUnix.accesskey "P">
+<!ENTITY addonNoPrefs.label "No hay configuraciones de complementos.">
 <!ENTITY activitymanager.label "Administrador de actividades">
+<!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label "Estado del chat">
+<!ENTITY imAccountsStatus.accesskey "C">
 <!ENTITY imStatus.available          "Disponible">
 <!ENTITY imStatus.unavailable        "No disponible">
 <!ENTITY imStatus.offline            "Sin conexión">
 <!ENTITY imStatus.showAccounts       "Mostrar cuentas…">
+<!ENTITY joinChatCmd.label "Unirse al chat…">
 <!ENTITY savedFiles.label "Archivos guardados">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Filtros de mensajes">
+<!ENTITY filtersCmd2.accesskey "F">
+<!ENTITY filtersApply.label "Ejecutar filtros en la carpeta">
+<!ENTITY filtersApply.accesskey "R">
+<!ENTITY filtersApplyToSelection.label "Ejecutar filtros en mensajes seleccionados">
+<!ENTITY filtersApplyToSelection.accesskey "u">
+<!ENTITY filtersApplyToMessage.label "Ejecutar filtros en mensaje">
+<!ENTITY filtersApplyToMessage.accesskey "u">
+<!ENTITY runJunkControls.label "Ejecutar filtro de correo no deseado en la carpeta">
+<!ENTITY runJunkControls.accesskey "C">
+<!ENTITY deleteJunk.label "Borrar mensajes marcados como no deseados en la carpeta">
+<!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "Importar…">
+<!ENTITY importCmd.accesskey "m">
 <!ENTITY clearRecentHistory.label "Borrar historial reciente…">
+<!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Configuración de cuenta">
+<!ENTITY accountManagerCmd2.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
   -->
+<!ENTITY accountManagerCmdUnix2.accesskey "A">
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Herramientas de desarrollador">
+<!ENTITY devtoolsMenu.accesskey "e">
+<!ENTITY devToolboxCmd.label "Caja de herramientas del desarrollador">
+<!ENTITY devToolboxCmd.accesskey "H">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY debugAddonsCmd.label "Depurar complementos">
+<!ENTITY debugAddonsCmd.accesskey "A">
+<!ENTITY tabsDebugCmd.label "Depurador de contenedor">
+<!ENTITY errorConsoleCmd.label "Consola de errores">
+<!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Borrador javascript">
+<!ENTITY scratchpadCmd.accesskey "S">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
+<!ENTITY getMsgButton1.label "Obtener mensajes">
+<!ENTITY newMsgButton.label "Redactar">
+<!ENTITY replyButton.label "Responder">
+<!ENTITY replyAllButton.label "Responder a todos">
+<!ENTITY replyListButton.label "Responder a la lista">
+<!ENTITY forwardButton.label "Reenviar">
+<!ENTITY fileButton.label "Archivo">
+<!ENTITY archiveButton.label "Archivar">
+<!ENTITY openConversationButton.label "Conversación">
+<!ENTITY nextButton.label "Siguiente">
 
 <!-- Mail Toolbar Tooltips-->
 
