@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Ruproxi K'amab'ey
+network-settings-title = Runuk'ulem Okem
 network-proxy-connection-description = Tib'an runuk'ulem rub'eyal { -brand-short-name } nok pa k'amaya'l.
 network-proxy-connection-learn-more = Tetamäx ch'aqa' chik
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = { -brand-short-name } xtrokisaj ri junam runu
 history-private-browsing-permanent =
     .label = Junelïk tokisäx pa rub'eyal ichinan okem pa k'amaya'l
     .accesskey = i
-history-remember-option =
-    .label = Tinatäx ri nunatab'al richin taq qasanïk chuqa' okik'amaya'l
-    .accesskey = T
 history-remember-browser-option =
     .label = Tinatäx ri runatab'al okem pa k'amaya'l chuqa' ri qasanïk
     .accesskey = k
