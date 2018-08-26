@@ -68,8 +68,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "L">
 <!ENTITY  sendLinkToDevice.label             "Lähetä linkki laitteeseen">
 <!ENTITY  sendLinkToDevice.accesskey         "L">
-<!ENTITY  sendToDeviceFeedback.label         "Lähetetty!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "Jonossa (ei verkkoyhteyttä)">
 <!ENTITY  moveToNewWindow.label              "Siirrä uuteen ikkunaan">
 <!ENTITY  moveToNewWindow.accesskey          "S">
 <!ENTITY  reopenInContainer.label            "Avaa uudelleen eristystilassa">
@@ -268,7 +266,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Aloitussivu">
-
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName;in aloitussivu">
 
 <!ENTITY bookmarksButton.label          "Kirjanmerkit">
@@ -428,23 +425,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Lisää työkalupalkkiin">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
-<!ENTITY customizeMenu.addToPanel.label "Lisää valikkoon">
-<!ENTITY customizeMenu.addToPanel.accesskey "v">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Lisää ylivuotovalikkoon">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "v">
-<!ENTITY customizeMenu.moveToToolbar.label "Siirrä työkalupalkkiin">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "S">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Siirrä valikkoon">
-<!ENTITY customizeMenu.moveToPanel.accesskey "a">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -454,11 +440,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "Poista työkalupalkista">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "P">
-<!ENTITY customizeMenu.removeFromMenu.label "Poista valikosta">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "o">
 <!ENTITY customizeMenu.addMoreItems.label "Lisää toimintoja…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "t">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Piilota automaattisesti työkalupalkkiin">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "a">
 <!ENTITY customizeMenu.manageExtension.label "Hallitse laajennusta">
@@ -604,7 +587,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Lisää kehyssivu kirjanmerkkeihin">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">
 <!ENTITY pageAction.copyLink.label    "Kopioi linkki">
-<!ENTITY copyURLFeedback.label        "Kopioitu!">
 <!ENTITY emailPageCmd.label           "Lähetä linkki…">
 <!ENTITY emailPageCmd.accesskey       "L">
 <!ENTITY savePageCmd.label            "Tallenna sivu nimellä…">
@@ -791,7 +773,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Valmis">
-<!ENTITY editBookmark.removeBookmark.accessKey       "P">
 
 <!ENTITY editBookmark.showForNewBookmarks.label       "Näytä muokkaus tallennettaessa">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "m">
@@ -842,7 +823,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Oikeudet">
 <!ENTITY identity.permissionsEmpty "Sivustolle ei ole myönnetty mitään erityisoikeuksia.">
 <!ENTITY identity.permissionsReloadHint "Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "Avaa oikeusasetukset">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -966,10 +946,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Lisää esto…">
 
-<!ENTITY contentBlocking.trackingProtection.label "Seuraimet">
+<!ENTITY contentBlocking.trackingProtection2.label "Kaikki havaitut seuraimet">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
+     ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Estetty">
@@ -979,33 +959,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Lisää esto…">
 
-<!ENTITY contentBlocking.openBreakageReportView.label "Ilmoita ongelmista">
+<!ENTITY contentBlocking.3rdPartyCookies.label "Kolmannen osapuolen evästeet">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Estetty">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Lisää esto…">
+
+<!ENTITY contentBlocking.openBreakageReportView2.label "Ilmoita ongelmasta">
 <!ENTITY contentBlocking.breakageReportView.label "Ilmoita ongelmista">
-<!ENTITY contentBlocking.breakageReportView.description "Sisällön esto voi aiheuttaa ongelmia joillakin sivustoilla. Ongelmista ilmoittaminen auttaa tekemään &brandShortName;ista paremman kaikille. (Ilmoittaminen lähettää Mozillalle sivun osoitteen sekä tietoja sisällön eston ja tietosuojan asetuksistasi.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Lue lisää">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Osoite">
-<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName;-versio">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Mitä ongelmia kohtasit? (Valinnainen)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Lähetä ilmoitus">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Peruuta">
 
 <!ENTITY trackingProtection.title "Seurannan suojaus">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; estää sivusta osia, jotka saattavat seurata selaamistasi.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Sivusto sisältää osia, jotka saattavat seurata sinua. Seurannan suojaus on pois päältä.">
-<!ENTITY trackingProtection.notDetected3 "Sivulta ei löytynyt seuraavia osia.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Poista suojaus tältä sivustolta">
-<!ENTITY trackingProtection.unblock.accesskey "s">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Poista suojaus tästä istunnosta">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "i">
-<!ENTITY trackingProtection.block2.label "Ota suojaus käyttöön">
-<!ENTITY trackingProtection.block2.accesskey "O">
-
 <!ENTITY trackingProtection.tooltip "Avaa seurannan suojauksen asetukset">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; estää tästä sivusta osia, jotka voivat seurata selaamistasi.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; on löytänyt elementtejä, jotka saattavat seurata selailuasi.">
