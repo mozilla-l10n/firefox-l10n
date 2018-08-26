@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
 crash-reports-title = Informes de fallada
-clear-all-reports-label = Suprimeix tots els informes
+clear-all-reports-label = Elimina tots els informes
 delete-confirm-title = N'esteu segur?
 delete-confirm-description = Se suprimiran tots els informes i és una acció que no pot desfer-se.
 crashes-unsubmitted-label = Informes de fallada pendents d'enviar
