@@ -666,26 +666,145 @@
 <!ENTITY folderContextEmptyTrash.label "Vaciar papelera">
 <!ENTITY folderContextEmptyTrash.accesskey "e">
 <!ENTITY folderContextEmptyJunk.label "Vaciar correo no deseado">
+<!ENTITY folderContextEmptyJunk.accesskey "V">
+<!ENTITY folderContextSendUnsentMessages.label "Enviar mensajes no enviados">
+<!ENTITY folderContextSendUnsentMessages.accesskey "d">
+<!ENTITY folderContextUnsubscribe.label "Desuscribir">
+<!ENTITY folderContextUnsubscribe.accesskey "U">
+<!ENTITY folderContextMarkNewsgroupRead.label "Marcar grupo de noticias como leído">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "r">
+<!ENTITY folderContextMarkMailFolderRead.label "Marcar carpeta como leída">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "c">
+<!ENTITY folderContextSubscribe.label "Suscribir…">
+<!ENTITY folderContextSubscribe.accesskey "b">
+<!ENTITY folderContextSearchForMessages.label "Buscar mensajes…">
+<!ENTITY folderContextSearchForMessages.accesskey "B">
+<!ENTITY folderContextProperties2.label "Propiedades">
+<!ENTITY folderContextProperties2.accesskey "P">
+<!ENTITY folderContextFavoriteFolder.label "Carpeta favorita">
+<!ENTITY folderContextFavoriteFolder.accesskey "a">
+<!ENTITY folderContextSettings2.label "Preferencias">
+<!ENTITY folderContextSettings2.accesskey "e">
 
 <!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label "Nombre o dirección contiene:">
+<!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
+<!ENTITY glodaSearchBar.placeholder "Buscar mensajes…">
 
 <!-- Quick Search Menu Bar -->
+<!ENTITY searchSubjectMenu.label "Asunto">
+<!ENTITY searchFromMenu.label "Remitente">
+<!ENTITY searchSubjectOrFromMenu.label "Asunto o Remitente">
+<!ENTITY searchRecipient.label "Para o Cc">
+<!ENTITY searchSubjectOrRecipientMenu.label "Asunto, Para o Cc">
+<!ENTITY searchMessageBody.label "Mensaje completo">
+<!ENTITY saveAsVirtualFolderMenu.label "Guardar búsqueda como carpeta…">
 
 <!-- Thread Pane -->
+<!ENTITY threadColumn.label "Conversación">
+<!ENTITY fromColumn.label "Remitente">
+<!ENTITY recipientColumn.label "Destinatario">
+<!ENTITY correspondentColumn.label "Participantes">
+<!ENTITY subjectColumn.label "Asunto">
+<!ENTITY dateColumn.label "Fecha">
+<!ENTITY priorityColumn.label "Prioridad">
+<!ENTITY tagsColumn.label "Etiqueta">
+<!ENTITY accountColumn.label "Cuenta">
+<!ENTITY statusColumn.label "Estado">
+<!ENTITY sizeColumn.label "Tamaño">
+<!ENTITY junkStatusColumn.label "Estado de correo no deseado">
+<!ENTITY unreadColumn.label "No leído">
+<!ENTITY totalColumn.label "Total">
+<!ENTITY readColumn.label "Leído">
+<!ENTITY receivedColumn.label "Recibido">
+<!ENTITY starredColumn.label "Con estrella">
+<!ENTITY locationColumn.label "Ubicación">
+<!ENTITY idColumn.label "Orden de recibido">
+<!ENTITY attachmentColumn.label "Adjuntos">
 
 <!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Seleccionar columnas para mostrar">
+<!ENTITY threadColumn2.tooltip "Mostrar conversaciones">
+<!ENTITY fromColumn2.tooltip "Ordenar por remitente">
+<!ENTITY recipientColumn2.tooltip "Ordenar por destinatario">
+<!ENTITY correspondentColumn2.tooltip "Ordenar por participantes">
+<!ENTITY subjectColumn2.tooltip "Ordenar por asunto">
+<!ENTITY dateColumn2.tooltip "Ordenar por fecha">
+<!ENTITY priorityColumn2.tooltip "Ordenar por prioridad">
+<!ENTITY tagsColumn2.tooltip "Ordenar por etiquetas">
+<!ENTITY accountColumn2.tooltip "Ordenar por cuenta">
+<!ENTITY statusColumn2.tooltip "Ordenar por estado">
+<!ENTITY sizeColumn2.tooltip "Ordenar por tamaño">
+<!ENTITY junkStatusColumn2.tooltip "Ordenar por estado de correo no deseado">
+<!ENTITY unreadColumn2.tooltip "Número de mensajes no leídos en la conversación">
+<!ENTITY totalColumn2.tooltip "Total de mensajes en la conversación">
+<!ENTITY readColumn2.tooltip "Ordenar por leído">
+<!ENTITY receivedColumn2.tooltip "Ordenar por fecha de recepción">
+<!ENTITY starredColumn2.tooltip "Ordenar por estrella">
+<!ENTITY locationColumn2.tooltip "Ordenar por ubicación">
+<!ENTITY idColumn2.tooltip "Ordenar por orden de recepción">
+<!ENTITY attachmentColumn2.tooltip "Ordenar por adjuntos">
 
 <!-- Thread Pane Context Menu -->
+<!ENTITY contextNewMsgFromTemplate.label "Nuevo mensaje desde plantilla">
+<!ENTITY contextOpenNewWindow.label "Abrir mensaje en nueva ventana">
+<!ENTITY contextOpenNewWindow.accesskey "V">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
+<!ENTITY contextOpenNewTab.label "Abrir mensaje en una nueva pestaña">
+<!ENTITY contextOpenNewTab.accesskey "A">
+<!ENTITY contextOpenConversation.label "Abrir mensaje en conversación">
+<!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextOpenContainingFolder.label "Abrir mensaje en carpeta contenedora">
+<!ENTITY contextOpenContainingFolder.accesskey "n">
+<!ENTITY contextEditMsgAsNew.label "Editar como nuevo mensaje">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
+<!ENTITY contextEditDraftMsg.label "Editar borrador">
+<!ENTITY contextEditTemplate.label "Editar plantilla">
+<!ENTITY contextEditTemplate.accesskey "T">
+<!ENTITY contextArchive.label "Archivar">
+<!ENTITY contextArchive.accesskey "h">
+<!ENTITY contextReplySender.label "Responder solo al remitente">
+<!ENTITY contextReplySender.accesskey "R">
+<!ENTITY contextReplyNewsgroup2.label "Seguir grupo de noticias">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
+<!ENTITY contextReplyAll.label "Responder a todos">
+<!ENTITY contextReplyAll.accesskey "A">
+<!ENTITY contextReplyList.label "Responder a lista">
+<!ENTITY contextReplyList.accesskey "L">
+<!ENTITY contextForward.label "Reenviar">
+<!ENTITY contextForward.accesskey "R">
+<!ENTITY contextForwardAsMenu.label "Reenviar como">
+<!ENTITY contextForwardAsMenu.accesskey "o">
+<!ENTITY contextForwardAsInline.label "En el cuerpo del mensaje">
+<!ENTITY contextForwardAsInline.accesskey "E">
+<!ENTITY contextForwardAsAttachmentItem.label "Adjunto">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
+<!ENTITY contextMultiForwardAsAttachment.label "Reenviar como adjuntos">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
+<!ENTITY contextMoveMsgMenu.label "Mover a">
+<!ENTITY contextMoveMsgMenu.accesskey "M">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Reciente">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
+<!ENTITY contextCopyMsgMenu.label "Copiar a">
+<!ENTITY contextCopyMsgMenu.accesskey "C">
+<!ENTITY contextKillThreadMenu.label "Ignorar conversación">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
+<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillSubthreadMenu.label "Ignorar subconversación">
+<!ENTITY contextWatchThreadMenu.label "Observar conversación">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
   -->
+<!ENTITY contextSaveAs.label "Guardar como…">
+<!ENTITY contextSaveAs.accesskey "G">
+<!ENTITY contextPrint.label "Imprimir…">
+<!ENTITY contextPrint.accesskey "I">
 
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
