@@ -481,6 +481,7 @@
 <!ENTITY imStatus.offline            "Sin conexión">
 <!ENTITY imStatus.showAccounts       "Mostrar cuentas…">
 <!ENTITY joinChatCmd.label "Unirse al chat…">
+<!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY savedFiles.label "Archivos guardados">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -517,6 +518,7 @@
 <!ENTITY debugAddonsCmd.label "Depurar complementos">
 <!ENTITY debugAddonsCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "Depurador de contenedor">
+<!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -801,16 +803,20 @@
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
   -->
+<!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "Guardar como…">
 <!ENTITY contextSaveAs.accesskey "G">
 <!ENTITY contextPrint.label "Imprimir…">
 <!ENTITY contextPrint.accesskey "I">
+<!ENTITY contextPrintPreview.label "Vista previa">
+<!ENTITY contextPrintPreview.accesskey "v">
 
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
      This option in the thread pane column picker causes us to reset the
      customizations for the thread pane columns in this folder to their default.
   -->
+<!ENTITY columnPicker.resetToInbox.label "Restablecer columnas por defecto">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -819,6 +825,7 @@
      folder(s). The sub-menu items indicate whether we want to apply it to just
      a folder or also its children.
   -->
+<!ENTITY columnPicker.applyTo.label "Aplicar columnas a…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
      This option in the thread pane column picker is found on a sub-menu beneath
      the "columnPicker.applyTo.label" alongside
@@ -827,6 +834,7 @@
      that the user selects using the same widget as the move to/copy to
      mechanism (via a series of popups).
   -->
+<!ENTITY columnPicker.applyToFolder.label "Carpeta…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
      This option in the thread pane column picker is found on a sub-menu beneath
      the "columnPicker.applyTo.label" alongside
@@ -835,6 +843,7 @@
      of its descendents. The user selects the folder using the same widget as the
      move to/copy to mechanism (via a series of popups).
   -->
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Carpeta y subcarpetas…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
      This is used in the folder selection widget for the
      "columnPicker.applyToFolder.label" and
@@ -846,15 +855,25 @@
      items are "This folder", "B", and "C". This is the equivalent of the
      "File here" option for the move to/copy to widget.
   -->
+<!ENTITY columnPicker.thisFolder.label "Esta carpeta">
 
 
 <!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Reproducir">
+<!ENTITY contextPlay.accesskey "p">
+<!ENTITY contextPause.label "Pausa">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Silenciar">
+<!ENTITY contextMute.accesskey "M">
+<!ENTITY contextUnmute.label "No silenciar">
+<!ENTITY contextUnmute.accesskey "o">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
      not changed
   -->
+<!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
      This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
@@ -864,27 +883,93 @@
      to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
   -->
+<!ENTITY search.label.base1 "Buscar #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key). We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
   -->
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems. We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
   -->
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
+<!ENTITY AddToAddressBook.label "Agregar a libreta de direcciones…">
+<!ENTITY AddToAddressBook.accesskey "B">
+<!ENTITY AddDirectlyToAddressBook.label "Agregar a la libreta de direcciones">
+<!ENTITY AddDirectlyToAddressBook.accesskey "A">
+<!ENTITY EditContact1.label "Editar contacto">
+<!ENTITY EditContact1.accesskey "E">
+<!ENTITY ViewContact.label "Ver contacto">
+<!ENTITY ViewContact.accesskey "V">
+<!ENTITY SubscribeToNewsgroup.label "Suscribir a grupo de noticias">
+<!ENTITY SubscribeToNewsgroup.accesskey "N">
+<!ENTITY SendMessageTo.label "Redactar mensaje a">
+<!ENTITY SendMessageTo.accesskey "s">
+<!ENTITY CopyEmailAddress.label "Copiar dirección de correo">
+<!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNameAndEmailAddress.label "Copiar nombre y dirección de correo">
+<!ENTITY CopyNameAndEmailAddress.accesskey "N">
+<!ENTITY CopyNewsgroupName.label "Copiar nombre de grupo de noticias">
+<!ENTITY CopyNewsgroupName.accesskey "C">
+<!ENTITY CopyNewsgroupURL.label "Copiar URL del grupo de noticias">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
+<!ENTITY CreateFilterFrom.label "Crear filtro desde…">
+<!ENTITY CreateFilterFrom.accesskey "F">
+<!ENTITY reportPhishingURL.label "Informar correo electrónico fraudulento">
+<!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Spell checker context menu items -->
+<!ENTITY spellAddDictionaries.label "Agregar diccionarios…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Content Pane Context Menu -->
+<!ENTITY saveLinkAsCmd.label "Guardar enlace como…">
+<!ENTITY saveLinkAsCmd.accesskey "G">
+<!ENTITY saveImageAsCmd.label "Guardar imagen como…">
+<!ENTITY saveImageAsCmd.accesskey "m">
+<!ENTITY copyLinkCmd.label "Copiar dirección del enlace">
+<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyImageAllCmd.label "Copiar imagen">
+<!ENTITY copyImageAllCmd.accesskey "I">
+<!ENTITY copyEmailCmd.label "Copiar dirección de correo">
+<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY stopCmd.label "Detener">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY reloadCmd.label "Recargar">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY openInBrowser.label "Abrir en navegador">
+<!ENTITY openInBrowser.accesskey "o">
+<!ENTITY openLinkInBrowser.label "Abrir enlace en navegador">
+<!ENTITY openLinkInBrowser.accesskey "o">
 
 <!-- Statusbar -->
+<!ENTITY statusText.label "Listo">
 
 <!-- Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.label "Minimizar">
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY bringAllToFront.label "Traer todo al frente">
+<!ENTITY zoomWindow.label "Acercar">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
+<!ENTITY preferencesCmdMac2.label       "Preferencias">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "Servicios">
+<!ENTITY hideThisAppCmdMac.label        "Ocultar &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "O">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "Ocultar otras">
+<!ENTITY hideOtherAppsCmdMac.commandkey "t">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "Mostrar todo">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label              "Opciones de ícono de aplicación…">
+<!ENTITY writeNewMessageDock.label      "Escribir nuevo mensaje">
+<!ENTITY openAddressBookDock.label      "Abrir libreta de direcciones">

@@ -361,6 +361,7 @@
 <!ENTITY customizeFromAddress.accesskey "A">
 
 <!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Cuerpo del mensaje">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Corrector ortográfico del idioma">
