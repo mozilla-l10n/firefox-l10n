@@ -11,7 +11,7 @@
 <!ENTITY returnToPreviousPage1.label "Назад (Рекомендовано)">
 <!ENTITY advanced.label "Додатково">
 
-<!ENTITY continue1.label "Продовжити…">
+<!ENTITY continue2.label "Більше…">
 <!ENTITY moreInformation.label "Докладніше">
 
 <!-- Specific error messages -->
@@ -151,12 +151,12 @@
 
 <!ENTITY certerror.longpagetitle1 "Ваше з'єднання незахищене">
 <!ENTITY certerror.longpagetitle2 "Попередження: Попереду ймовірна загроза безпеки">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Власник <span class='hostname'/> налаштував свій веб-сайт неналежним чином. Для захисту вашої інформації від викрадання, &brandShortName; не з'єднався з цим веб-сайтом.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; виявив ймовірну загрозу безпеки й не продовжив перехід на <span class='hostname'/>. Якщо ви відвідаєте цей сайт, нападники можуть спробувати викрасти вашу інформацію, наприклад, паролі, адреси електронної пошти чи дані кредитних карток.">
+<!ENTITY certerror.introPara2 "&brandShortName; виявив ймовірну загрозу безпеки і не продовжив перехід на <span class='hostname'/>. Якщо ви відвідаєте цей сайт, зловмисники можуть спробувати викрасти вашу інформацію, наприклад, паролі, електронні адреси, або дані платіжних карток.">
 
 <!ENTITY certerror.expiredCert.secondPara "Ця проблема, найімовірніше, пов'язана з неправильним налаштуванням часу вашого комп'ютера, що може перешкоджати &brandShortName; встановленню захищеного з'єднання.">
 
@@ -195,6 +195,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Додати виняток…">
+
+<!ENTITY securityOverride.exceptionButton1Label "Погодитись на ризик і продовжити">
 
 <!ENTITY errorReporting.automatic2 "Звітувати про подібні помилки, щоб допомогти Mozilla виявляти й блокувати зловмисні сайти">
 <!ENTITY errorReporting.learnMore "Докладніше…">
