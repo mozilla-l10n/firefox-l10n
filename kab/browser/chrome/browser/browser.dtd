@@ -974,6 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Azen-d ugur">
 <!ENTITY contentBlocking.breakageReportView.label "Azen-d uguren">
+<!ENTITY contentBlocking.breakageReportView2.description "Asewḥel n ugbur izmer ad d-yawi uguren deg kra n ismal. Mi ara ad aɣ-tazneḍ uguren, ad d-fkeḍ tallelt akken ad yili &brandShortName; igerrez i yal yiwen. ( aya ad yazen URL d  talɣut ɣef iɣewwaṛen , iminig-inek ɣer Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Issin ugar">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "D acu n wuguren i tesɛiḍ? (afrayan)">
