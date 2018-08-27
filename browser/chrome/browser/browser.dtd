@@ -974,7 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Sorun bildir">
 <!ENTITY contentBlocking.breakageReportView.label "Sorun bildir">
-<!ENTITY contentBlocking.breakageReportView2.description "İçerik engelleme bazı web sitelerinde sorunlara yok açabilir. Bu sorunları bize bildirirseniz &brandShortName; tarayıcısını iyileştirme şansımız olur. (Sorunlu sayfanın adresi ve tarayıcı ayarlarınızla ilgili bilgiler Mozilla’ya gönderilecektir.)">
+<!ENTITY contentBlocking.breakageReportView2.description "İçerik engelleme bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz &brandShortName; tarayıcısını iyileştirme şansımız olur. (Sorunlu sayfanın adresi ve tarayıcı ayarlarınızla ilgili bilgiler Mozilla’ya gönderilecektir.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Daha fazla bilgi al">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Adres">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Nasıl bir sorunla karşılaştınız? (tercihe bağlı)">
