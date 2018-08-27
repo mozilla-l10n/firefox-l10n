@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Sljedeće">
 
 <!ENTITY firstrun_tabqueue_title "Veze">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Uključi tabove na čekanju">
-<!ENTITY firstrun_tabqueue_subtext_off "Sačuvaj veze za kasnije u &brandShortName; kada pritisnete na njih u drugim aplikacijama.">
-
-<!ENTITY firstrun_tabqueue_message_on "Uspjeh!">
-<!ENTITY firstrun_tabqueue_subtext_on "Uvijek možete isključiti ovu mogućnost u &settings; pod &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Članci">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "Restartuj &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Tražite ili upišite adresu">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Vrati kartice, uštede na prijenosu podataka, alati za razvoj">
 <!ENTITY pref_category_notifications "Obavijesti">
-<!ENTITY pref_category_notifications_summary "Nove mogućnosti, ažuriranja stranice">
 <!ENTITY pref_category_notifications_summary2 "Nove mogućnosti, savjeti za proizvod">
 <!ENTITY pref_developer_remotedebugging_usb "Udaljeno otklanjanje grešaka putem USB-a">
 <!ENTITY pref_developer_remotedebugging_wifi "Udaljeno otklanjanje grešaka putem Wi-Fi">
@@ -372,6 +364,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Dozvoli automatsku reprodukciju">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrolišite da li web stranice mogu automatski reproducirati video i drugi medijski sadržaj">
+<!ENTITY pref_media_autoplay_allow "Dozvoli automatsku reprodukciju">
+<!ENTITY pref_media_autoplay_block "Blokiraj automatsku reprodukciju">
 <!ENTITY pref_zoom_force_enabled "Uvijek omogući zumiranje">
 <!ENTITY pref_zoom_force_enabled_summary "Prisilno zaobiđi postavke da bi mogli zumirati svaku stranicu">
 <!ENTITY pref_voice_input "Glasovni unos">
@@ -900,3 +894,9 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Nastavi reprodukciju">
 <!ENTITY pip_pause_button_title "Pauza">
 <!ENTITY pip_pause_button_description "Pauziraj reprodukciju">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; usluga lociranja">
+<!ENTITY download_notification_channel "Preuzimanja">
+<!ENTITY media_notification_channel "Reprodukcija medija">
