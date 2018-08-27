@@ -235,6 +235,8 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Content Blocking
 
+content-blocking-toggle-label-off = Ndava
+    .accesskey = N
 
 ## Privacy Section - Tracking
 
