@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Globaal sykje en yndeksearder ynskeakelje">
 <!ENTITY enableGlodaSearch.accesskey   "y">
 <!ENTITY dateTimeFormatting.label      "Datum- en tiidnotaasje">
+<!ENTITY languageSelector.label        "Taal">
 <!ENTITY allowHWAccel.label            "Hardwarefersnelling brûke wannear beskikber">
 <!ENTITY allowHWAccel.accesskey        "f">
 <!ENTITY storeType.label               "Type berjochtenopslach foar nije accounts:">
