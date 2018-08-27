@@ -933,7 +933,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.disabled.tooltip "Вы отключили блокировку содержимого.">
 <!ENTITY contentBlocking.exception.tooltip "Вы отключили блокировку содержимого для этого сайта.">
 
-<!ENTITY contentBlocking.fastBlock.label "Медленно загружающиеся трекеры">
+<!ENTITY contentBlocking.fastBlock.label "Медленные трекеры">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
