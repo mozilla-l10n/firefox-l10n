@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Дозволені веб-сайти - Автовідтворення
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Ви можете вказати, яким веб-сайтам дозволяється автоматично відтворювати медіа елементи. Введіть точну адресу сайту для дозволу і натисніть Дозволити.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Винятки - Автовідтворення
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Ви можете вказати, яким веб-сайтам завжди дозволяється автоматично відтворювати медіа зі звуком. Введіть адресу сайту і натисніть кнопку Блокувати або Дозволити.
 
 ## Site Permissions - Notifications
