@@ -8,9 +8,11 @@
 <!ENTITY loadError.label "पृष्ठ दाखल करतेवेळी समस्या">
 <!ENTITY retry.label "पुन्हा प्रयत्न करा">
 <!ENTITY returnToPreviousPage.label "मागे जा">
+<!ENTITY returnToPreviousPage1.label "मागे जा (शिफारसीय)">
 <!ENTITY advanced.label "प्रगत">
 
-<!ENTITY continue.label "पुढे चला">
+<!ENTITY continue2.label "अधिक…">
+<!ENTITY moreInformation.label "अधिक माहिती">
 
 <!-- Specific error messages -->
 
@@ -88,13 +90,14 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>प्राप्त माहितीची अधिप्रमाणता तपासता न आल्यामुळे आपणास इच्छिक पृष्ठ पाहता येणार नाही.</li> <li>कृपया संकेतस्थळाच्या मालकाला या अडचणी विषयी अवगत करा.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "आपली जोडणी सुरक्षीत नाही">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> च्या मालकाने त्यांची वेबसाइट अयोग्य प्रकारे कॉन्फिगर केली आहे. आपली माहिती चोरीला जाऊ नये यासाठी, &brandShortName; ने या संकेतस्थळाशी जोडणी केली नाही.">
 
 
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "आपण याबद्दल काय करू शकता?">
 
 
 
@@ -109,6 +112,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोडा…">
+
 
 <!ENTITY errorReporting.automatic2 "Mozilla ला दुर्भावनायुक्त साईट्स ओळखता यावे साठी व त्यांना अवरोधीत करता यावे यासाठी अश्या प्रकारच्या त्रुटी सादर करा">
 <!ENTITY errorReporting.learnMore "आणखी शिका…">
@@ -137,6 +141,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरत आहे. आक्रमणकर्ता सहजपणे आपण सुरक्षित समजत असलेली माहिती मिळवू शकतो. वेबसाइट प्रशासकाने सर्व्हर निर्दोष केल्यावरच आपण साइटला भेट देऊ शकता. </p><p>त्रुटी कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "अवरोधित पृष्ठ">
+
 
 <!ENTITY prefReset.longDesc "असे दिसते की आपल्या नेटवर्क सुरक्षा सेटिंग्ज या साठी कारणीभूत असू शकते.आपण पूर्वनिर्धारित सेटिंग्ज पुनर्संचयित करू इच्छिता का?">
 <!ENTITY prefReset.label "पूर्वनिर्धारीत सेटिंग पुनर्स्थापित करा">
