@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Şəbəkə Proksisi
+network-settings-title = Şəbəkə Tənzimləmələri
 network-proxy-connection-description = { -brand-short-name } səyyahının internetə necə qoşulduğunu idarə et.
 network-proxy-connection-learn-more = Ətraflı öyrən
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = { -brand-short-name } gizli baxışdakı niza
 history-private-browsing-permanent =
     .label = Həmişə gizli baxış rejimindən istifadə et
     .accesskey = g
-history-remember-option =
-    .label = Endirmə və Tarixçəmi yadda saxla
-    .accesskey = l
 history-remember-browser-option =
     .label = Səyahət və endirmə tarixini yadda saxla
     .accesskey = b

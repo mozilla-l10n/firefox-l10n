@@ -68,8 +68,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.label             "Keçidi cihaza göndər">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
-<!ENTITY  sendToDeviceFeedback.label         "Göndərildi!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "Növbəyə alındı (oflayn)">
 <!ENTITY  moveToNewWindow.label              "Yeni pəncərəyə daşı">
 <!ENTITY  moveToNewWindow.accesskey          "p">
 <!ENTITY  reopenInContainer.label            "Konteynerdə təkrar aç">
@@ -268,7 +266,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Ev">
-
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Ana Səhifə">
 
 <!ENTITY bookmarksButton.label          "Əlfəcinlər">
@@ -428,23 +425,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Alət Sətrinə Əlavə et">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "Menyuya Əlavə et">
-<!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Daşma Menyusuna əlavə et">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "Alət Sətrinə Daşı">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "d">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Menyuya Daşı">
-<!ENTITY customizeMenu.moveToPanel.accesskey "d">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -454,11 +440,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "Alət sətrindən Sil">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "S">
-<!ENTITY customizeMenu.removeFromMenu.label "Menyudan Sil">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "S">
 <!ENTITY customizeMenu.addMoreItems.label "Daha çox element Əlavə et…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Alət sətrində avtomatik gizlətmə">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Uzantını idarə et">
@@ -604,7 +587,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Bu Çərçivəni Əlfəcinlə">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "Ə">
 <!ENTITY pageAction.copyLink.label    "Keçidi köçür">
-<!ENTITY copyURLFeedback.label        "Köçürüldü!">
 <!ENTITY emailPageCmd.label           "Keçidi e-poçt ilə göndər…">
 <!ENTITY emailPageCmd.accesskey       "K">
 <!ENTITY savePageCmd.label            "Fərqli saxla…">
@@ -791,7 +773,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Bitdi">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY editBookmark.showForNewBookmarks.label       "Yadda saxlarkən redaktoru göstər">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
@@ -842,7 +823,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Səlahiyyətlər">
 <!ENTITY identity.permissionsEmpty "Bu sayta heç bir xüsusi icazə verməmisiniz.">
 <!ENTITY identity.permissionsReloadHint "Dəyişikliklərin işləməsi üçün səhifəni yeniləyin.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "İcazələr Nizamlamalarını aç">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -966,10 +946,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Əngəlləmə əlavə et…">
 
-<!ENTITY contentBlocking.trackingProtection.label "İzləyicilər">
+<!ENTITY contentBlocking.trackingProtection2.label "Bütün aşkarlanmış izləyicilər">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
+     ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Əngəllənib">
@@ -979,33 +959,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Əngəlləmə əlavə et…">
 
-<!ENTITY contentBlocking.openBreakageReportView.label "Problemləri Bildir">
+<!ENTITY contentBlocking.3rdPartyCookies.label "Üçüncü tərəf çərəzlər">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Əngəlləniblər">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Əngəlləmə əlavə et…">
+
+<!ENTITY contentBlocking.openBreakageReportView2.label "Problem bildir">
 <!ENTITY contentBlocking.breakageReportView.label "Problemləri Bildir">
-<!ENTITY contentBlocking.breakageReportView.description "Məzmun əngəlləmə bəzi saytlarda xətalara səbəb ola bilər. Xətaları xəbər verdiyinizdə &brandShortName; səyyahını daha da yaxşılaşdırmağa kömək edirsiz. (Bu həmçinin ünvanı, məxfilik və məzmun əngəlləmə tənzimləmələrinizi Mozillaya göndərəcək.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Məzmun əngəlləmə bəzi saytlarda problemlərə səbəb ola bilər. Problemləri xəbər etdiyinizdə &brandShortName; səyyahını hamı üçün yaxşılaşdırmağımıza kömək etmiş olursunuz. (Bu ünvanı və səyyahınızın tənzimləmələri ilə əlaqədar məlumatları Mozillaya göndərəcək.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Ətraflı Öyrən">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Ünvan">
-<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; Versiya Nömrəsi">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hansı problemləriniz oldu? (Könüllü)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Hesabat Göndər">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Ləğv et">
 
 <!ENTITY trackingProtection.title "İzlənmə Qoruması">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; səhifənin səyahətinizi izləmə ehtimalı olan hissələrini əngəlləyir.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Bu saytda səyahətinizi izləmə ehtimalı olan məzmunlar var. Qorumanı söndürmüsünüz.">
-<!ENTITY trackingProtection.notDetected3 "Bu səhifədə heç bir izlənmə elementi tapılmadı.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Bu sayt üçün qorumanı söndür">
-<!ENTITY trackingProtection.unblock.accesskey "d">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Bu sessiya üçün qorumanı söndür">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "d">
-<!ENTITY trackingProtection.block2.label "Qorumanı Aktivləşdir">
-<!ENTITY trackingProtection.block2.accesskey "k">
-
 <!ENTITY trackingProtection.tooltip "İzlənmə Qoruması nizamlamalarını aç">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; bu səhifənin səyahətinizi izləmə ehtimalı olan hissələrini əngəlləyir.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; səyahətinizi izləyəbiləcək elementlər tapdı.">
