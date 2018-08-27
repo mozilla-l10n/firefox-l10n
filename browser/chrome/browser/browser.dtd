@@ -68,8 +68,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "e">
 <!ENTITY  sendLinkToDevice.label             "Send lenke til enhet">
 <!ENTITY  sendLinkToDevice.accesskey         "e">
-<!ENTITY  sendToDeviceFeedback.label         "Sendt!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "I kø (frakoblet)">
 <!ENTITY  moveToNewWindow.label              "Flytt til et nytt vindu">
 <!ENTITY  moveToNewWindow.accesskey          "t">
 <!ENTITY  reopenInContainer.label            "Åpne på nytt i innholdsfane">
@@ -268,7 +266,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Startside">
-
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Hjemmeside">
 
 <!ENTITY bookmarksButton.label          "Bokmerker">
@@ -428,23 +425,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Legg til i verktøylinje">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
-<!ENTITY customizeMenu.addToPanel.label "Legg til i meny">
-<!ENTITY customizeMenu.addToPanel.accesskey "e">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Legg til i overflytsmenyen">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
-<!ENTITY customizeMenu.moveToToolbar.label "Flytt til verktøylinje">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "F">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Flytt til meny">
-<!ENTITY customizeMenu.moveToPanel.accesskey "t">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -454,11 +440,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "e">
 <!ENTITY customizeMenu.removeFromToolbar.label "Fjern fra verktøylinje">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "n">
-<!ENTITY customizeMenu.removeFromMenu.label "Fjern fra meny">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "a">
 <!ENTITY customizeMenu.addMoreItems.label "Legg til flere …">
 <!ENTITY customizeMenu.addMoreItems.accesskey "L">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Skjul automatisk i verktøylinjen">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "a">
 <!ENTITY customizeMenu.manageExtension.label "Behandle utvidelser">
@@ -604,7 +587,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Bokmerk denne rammen">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY pageAction.copyLink.label    "Kopier lenke">
-<!ENTITY copyURLFeedback.label        "Kopiert!">
 <!ENTITY emailPageCmd.label           "Send lenke med e-post…">
 <!ENTITY emailPageCmd.accesskey       "S">
 <!ENTITY savePageCmd.label            "Lagre side som …">
@@ -791,7 +773,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Ferdig">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY editBookmark.showForNewBookmarks.label       "Vis redigerer ved lagring">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "s">
@@ -842,7 +823,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Tillatelser">
 <!ENTITY identity.permissionsEmpty "Du har ikke gitt dette nettstedet noen spesialtillatelser.">
 <!ENTITY identity.permissionsReloadHint "Du må kanskje laste siden på nytt for at endringene skal gjelde.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "Åpne innstillinger for tillatelser">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -966,10 +946,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Legg til blokkering…">
 
-<!ENTITY contentBlocking.trackingProtection.label "Sporere">
+<!ENTITY contentBlocking.trackingProtection2.label "Alle oppdagede sporere">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
+     ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Blokkert">
@@ -979,33 +959,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Legg til blokkering…">
 
-<!ENTITY contentBlocking.openBreakageReportView.label "Rapporter problemer">
+<!ENTITY contentBlocking.3rdPartyCookies.label "Tredjeparts-infokapsler">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokkert">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Legg til blokkering…">
+
+<!ENTITY contentBlocking.openBreakageReportView2.label "Rapporter et problem">
 <!ENTITY contentBlocking.breakageReportView.label "Rapporter problemer">
-<!ENTITY contentBlocking.breakageReportView.description "Innholdsblokkering kan føre til problemer med enkelte nettsteder. Når du rapporterer problemer, hjelper du med å gjøre &brandShortName; bedre for alle. (Dette vil sende nettadressen, samt informasjon om personvern- og innholdsblokkeringsinnstillinger til Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Les mer">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL-adresse">
-<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; versjonsnummer">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hvilke problemer har du? (Valgfri)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Send rapport">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Avbryt">
 
 <!ENTITY trackingProtection.title "Sporingsbeskyttelse">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkerer deler av siden som kan spore nettlesingen din.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Denne siden inneholder elementer som kan spore nettlesingen din. Du har skrudd av beskyttelse.">
-<!ENTITY trackingProtection.notDetected3 "Ingen sporingselementer oppdaget på denne siden.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Slå av beskyttelse på denne siden">
-<!ENTITY trackingProtection.unblock.accesskey "S">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Slå av beskyttelse for denne økten">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "b">
-<!ENTITY trackingProtection.block2.label "Slå på beskyttelse">
-<!ENTITY trackingProtection.block2.accesskey "å">
-
 <!ENTITY trackingProtection.tooltip "Åpne innstillinger for sporingsbeskyttelse">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokkerer deler av denne siden som kan spore nettlesingen din.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; har oppdaget element som kan spore nettlesingen din.">
