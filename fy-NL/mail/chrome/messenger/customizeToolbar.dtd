@@ -13,5 +13,6 @@
 <!ENTITY useSmallIcons.label      "Lytse ikoantsjes brûke">
 <!ENTITY restoreDefaultSet.label  "Standertynstellingen werstelle">
 <!ENTITY addNewToolbar.label      "Nije arkbalke tafoegje">
+<!ENTITY showTitltbar.label       "Titelbalke toane">
 <!ENTITY saveChanges.label        "Dien">
 <!ENTITY undoChanges.label        "Wizigingen ûngedien meitsje">
