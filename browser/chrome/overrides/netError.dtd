@@ -126,6 +126,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "El dueño de <span class='hostname'/> ha configurado su sitio web de forma incorrecta. Para proteger tu información de ser robada, &brandShortName; no se ha conectado a este sitio.">
 
+<!ENTITY certerror.introPara2 "&brandShortName; ha detectado una amenaza potencial y no ha continuado a <span class='hostname'/>. Si visitas este sitio, los atacantes podrían intentar robar tu información tal como tus contraseñas, correos o datos de tu tarjeta de crédito.">
 
 <!ENTITY certerror.expiredCert.secondPara "Este problema seguramente se deba a que el reloj de tu computador está configurado con una hora incorrecta, lo que prevendría a &brandShortName; de conectarse de forma segura.">
 
