@@ -68,8 +68,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "లంకెను పరికరానికి పంపు">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!ENTITY  sendToDeviceFeedback.label         "పంపబడింది!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "క్యూడ్ (ఆఫ్‌లైన్)">
 <!ENTITY  moveToNewWindow.label              "కొత్త విండోకి తరలించు">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.label            "కంటెయినర్లో తెరువు">
@@ -266,7 +264,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "ముంగిలి">
-
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; ముంగిలి పేజీ">
 
 <!ENTITY bookmarksButton.label          "ఇష్టాంశాలు">
@@ -422,23 +419,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "పనిముట్ల పట్టీకి చేర్చు">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "మెనూకు చేర్చు">
-<!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Overflow మెనూకు జోడించు">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "పనిముట్ల పట్టీకి తరలించు">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "మెనూకి తరలించు">
-<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -448,11 +434,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "పనిముట్ల పట్టీ నుండి తీసివేయి">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
-<!ENTITY customizeMenu.removeFromMenu.label "మెనూ నుండి తీసివేయి">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "మరిన్ని అంశాలను చేర్చండి…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "పొడగింత నిర్వహణ">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
@@ -597,7 +580,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "ఈ ఫ్రేమును ఇష్టాంశంగా చేయి">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "లంకెను కాపీచెయ్యి">
-<!ENTITY copyURLFeedback.label        "కాపీ చేయబడింది!">
 <!ENTITY emailPageCmd.label           "లింకును ఈమెయిలు చేయి…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "పేజీని ఇలా భద్రపరచు…">
@@ -783,7 +765,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.done.label                     "పూర్తయింది">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY editBookmark.showForNewBookmarks.label       "భద్రపరుస్తున్నప్పుడు ఎడిటర్‌ను చూపించు">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
@@ -834,7 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "అనుమతులు">
 <!ENTITY identity.permissionsEmpty "ఈ సైటుకి మీరు ఎటువంటి ప్రత్యేక అనుమతులు ఇవ్వలేదు.">
 <!ENTITY identity.permissionsReloadHint "మార్పులు ప్రతిఫలించడానికి మీరు ఈ పేజీని మళ్ళీ లోడు చెయ్యాల్సిరావచ్చు.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "అనుమతుల అభిరుచులను తెరువు">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -956,10 +936,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "నిరోధం చేర్చు…">
 
-<!ENTITY contentBlocking.trackingProtection.label "ట్రాకర్లు">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
+     ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "నిరోధించబడ్డాయి">
@@ -969,7 +948,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "నిరోధం చేర్చు…">
 
-<!ENTITY contentBlocking.openBreakageReportView.label "సమస్యలను నివేదించండి">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!ENTITY contentBlocking.openBreakageReportView2.label "ఒక సమస్యను నివేదించండి">
 <!ENTITY contentBlocking.breakageReportView.label "సమస్యలను నివేదించండి">
 <!ENTITY contentBlocking.breakageReportView.learnMore "ఇంకా తెలుసుకోండి">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "మీకు ఏమి సమస్యలు ఎదురయ్యాయి? (ఐచ్ఛికం)">
@@ -977,22 +966,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.cancel.label "రద్దుచేయి">
 
 <!ENTITY trackingProtection.title "ట్రాకింగ్ సంరక్షణ">
-<!ENTITY trackingProtection.detectedBlocked3 "ఈ పేజీలో మీ విహరణ జాడ తెలుసుకునే భాగాలను &brandShortName; నిరోధిస్తోంది.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "ఈ సైటులో మీ విహరణ జాడ తెలుసుకొనే ఎలిమెంట్లు ఉన్నాయి. మీరు రక్షణను అచేతనించారు.">
-<!ENTITY trackingProtection.notDetected3 "ఈ పేజీలో జాడ తెలుసుకొనే ఎలిమెంట్లు ఏమీ కనబడలేదు.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "ఈ సైటులో రక్షణను అచేతనంచేయి">
-<!ENTITY trackingProtection.unblock.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "ఈ సెషన్‌కు రక్షణను అచేతనంచేయి">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "రక్షణను చేతనించు">
-<!ENTITY trackingProtection.block2.accesskey "E">
-
 <!ENTITY trackingProtection.tooltip "ట్రాకింగ్ సంరక్షణ అభిరుచులు తెరువు">
 <!ENTITY trackingProtection.detectedBlocked4 "మీ విహారణ జాడ తెలుసుకోవాలనుకునే ఈ పేజీ లోని భాగాలను &brandShortName; నిరోధిస్తున్నది.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "మీ విహరణ జాడ తెలుసుకోవాలనే మూలకాలను &brandShortName; కనుగొంది.">
