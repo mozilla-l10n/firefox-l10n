@@ -11,7 +11,8 @@
 <!ENTITY returnToPreviousPage1.label "पीछे जाएँ (निर्देशित)">
 <!ENTITY advanced.label "उन्नत">
 
-<!ENTITY continue1.label "जारी रखें…">
+<!ENTITY continue2.label "अधिक…">
+<!ENTITY moreInformation.label "अधिक सूचना">
 
 <!-- Specific error messages -->
 
@@ -90,12 +91,11 @@
 
 <!ENTITY certerror.longpagetitle1 "आपका संपर्क सुरक्षित नही है">
 <!ENTITY certerror.longpagetitle2 "खतरा: आगे संभावित सुरक्षा जोखिम है">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> के मालिक ने अपने वेबसाइट को अनुचित तरीके से कॉन्फ़िगर किया है.  आपकी जानकारी को चोरी होने से बचाने के लिए, &brandShortName; इस वेबसाइट से जुड़ा हुआ नहीं है.">
 
-<!ENTITY certerror.introPara1 "&brandShortName; ने संभावित सुरक्षा खतरे का पता लगाया और <span class='hostname'/> जारी नहीं रखा. यदि आप इस साइट पर जाते हैं, तो अटैकर आपके पासवर्ड, ईमेल या क्रेडिट कार्ड जैसी जानकारी चोरी करने का प्रयास कर सकते हैं.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "आप इसके लिए क्या कर सकते हैं?">
@@ -113,6 +113,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel " अपवाद जोड़ें…">
+
 
 <!ENTITY errorReporting.automatic2 "इस तरह की त्रुटियों की सूचना देकर Mozilla का सहयोग करें ताकि Mozilla दुर्भावनापूर्ण साइटों की पहचान कर बंद कर सके">
 <!ENTITY errorReporting.learnMore "अधिक जानें…">
