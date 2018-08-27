@@ -322,6 +322,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Проксі-сервер
+network-settings-title = Налады сеткі
 network-proxy-connection-description = Наладзіць спосаб злучэння { -brand-short-name } з Інтэрнэтам.
 network-proxy-connection-learn-more = Падрабязней
 network-proxy-connection-settings =
@@ -560,9 +561,6 @@ history-dontremember-description = { -brand-short-name } будзе ўжывац
 history-private-browsing-permanent =
     .label = Заўсёды ўжываць прыватны рэжым аглядання
     .accesskey = д
-history-remember-option =
-    .label = Памятаць гісторыю маіх аглядання і сцягванняў
-    .accesskey = а
 history-remember-browser-option =
     .label = Памятаць гісторыю аглядання і сцягванняў
     .accesskey = П
