@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Hálózati proxy
+network-settings-title = Hálózati beállítások
 network-proxy-connection-description = Állítsa be hogy a { -brand-short-name } hogyan kapcsolódik az internethez.
 network-proxy-connection-learn-more = További tudnivalók
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = A { -brand-short-name } ugyanazokat a beáll�
 history-private-browsing-permanent =
     .label = Mindig a privát böngészési módot használja
     .accesskey = p
-history-remember-option =
-    .label = Böngészési és letöltési előzmények megőrzése
-    .accesskey = l
 history-remember-browser-option =
     .label = Böngészési és letöltési előzmények megőrzése
     .accesskey = b
