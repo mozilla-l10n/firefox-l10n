@@ -227,6 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "संदेश फलक उघडा">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "स्थळ विनंती फलक उघडा">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "स्वयंप्ले पॅनल उघडा">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "अॅड-ऑन प्रतिष्ठापन संदेश फलक उघडा">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "कॅनव्हस एक्सट्रॅकशन च्या परवानग्या व्यवस्थापित करा">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ऑफलाईन साठ्याचा संदेश फलक उघडा">
@@ -769,6 +770,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "झाले">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "जतन करतांना संपादक दर्शवा">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)

@@ -8,3 +8,4 @@ errors-tab = त्रुटी
 documentation-tab = दस्तऐवजीकरण
 policy-name = धोरण नाव
 policy-value = धोरण मुल्य
+policy-errors = धोरण त्रुटी
