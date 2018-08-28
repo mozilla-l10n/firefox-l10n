@@ -331,6 +331,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Dirprwy Rhwydwaith
+network-settings-title = Gosodiadau Rhwydwaith
 network-proxy-connection-description = Ffurfweddu sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
 network-proxy-connection-learn-more = Dysgu rhagor
 network-proxy-connection-settings =
@@ -569,9 +570,6 @@ history-dontremember-description = Bydd { -brand-short-name } yn defnyddio'r un 
 history-private-browsing-permanent =
     .label = Defnyddio'r modd pori preifat bob tro
     .accesskey = p
-history-remember-option =
-    .label = Cofio fy hanes pori a hanes llwytho i lawr
-    .accesskey = o
 history-remember-browser-option =
     .label = Cofio hanes pori a llwytho i lawr
     .accesskey = h
@@ -629,6 +627,8 @@ sitedata-block-desc = Mathau wedi'u rhwystro
     .accesskey = M
 sitedata-block-trackers-option-recommended =
     .label = Tracwyd trydydd parti (argymell)
+sitedata-block-trackers-option =
+    .label = Tracwyr trydydd parti
 sitedata-block-unvisited-option =
     .label = Cwcis gwefannau heb ymweld â nhw
 sitedata-block-all-third-parties-option =
