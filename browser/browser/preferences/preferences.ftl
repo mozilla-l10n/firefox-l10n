@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy da la rait
+network-settings-title = Parameters da la rait
 network-proxy-connection-description = Configurar la moda da connexiun cun l'internet da { -brand-short-name }.
 network-proxy-connection-learn-more = Ulteriuras infurmaziuns
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = { -brand-short-name } vegn ad utilisar las me
 history-private-browsing-permanent =
     .label = Adina navigar en il modus privat
     .accesskey = p
-history-remember-option =
-    .label = Memorisar la cronologia dal navigar e da las telechargiadas
-    .accesskey = r
 history-remember-browser-option =
     .label = Memorisar la cronologia da navigaziun e da las telechargiadas
     .accesskey = M
