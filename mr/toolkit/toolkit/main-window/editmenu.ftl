@@ -4,6 +4,9 @@
 editmenu-undo =
     .label = पूर्ववत् करा
     .accesskey = U
+editmenu-redo =
+    .label = पुन्हा करा
+    .accesskey = R
 editmenu-cut =
     .label = कापा
     .accesskey = t
