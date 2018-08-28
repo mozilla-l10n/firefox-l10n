@@ -319,7 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Nätverksproxy
-network-settings-title = Nätverks inställningar
+network-settings-title = Nätverksinställningar
 network-proxy-connection-description = Konfigurera hur { -brand-short-name } ansluter till internet.
 network-proxy-connection-learn-more = Läs mer
 network-proxy-connection-settings =
