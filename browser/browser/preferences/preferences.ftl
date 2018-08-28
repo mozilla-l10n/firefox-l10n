@@ -322,6 +322,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Nastavenie pripojenia
+network-settings-title = Nastavenia siete
 network-proxy-connection-description = Konfigurovať, ako sa aplikácia { -brand-short-name } pripája k internetu.
 network-proxy-connection-learn-more = Ďalšie informácie
 network-proxy-connection-settings =
@@ -560,9 +561,6 @@ history-dontremember-description = { -brand-short-name } použije totožné nast
 history-private-browsing-permanent =
     .label = Natrvalo zapnúť režim Súkromné prehliadanie
     .accesskey = a
-history-remember-option =
-    .label = Pamätať si históriu prehliadania a prevzatých súborov
-    .accesskey = h
 history-remember-browser-option =
     .label = Pamätať si históriu prehliadania a prevzatých súborov
     .accesskey = b
@@ -608,6 +606,16 @@ sitedata-accept-third-party-visited-option =
     .label = len pre navštívené
 sitedata-accept-third-party-never-option =
     .label = nikdy
+sitedata-allow-cookies-option =
+    .label = Ukladať cookies a údaje stránok
+    .accesskey = U
+sitedata-disallow-cookies-option =
+    .label = Blokovať cookies a údaje stránok
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Blokovať
+    .accesskey = l
 sitedata-clear =
     .label = Vymazať údaje…
     .accesskey = m
