@@ -576,7 +576,7 @@ sync-resend-verification =
 
 sync-remove-account =
     .label = Account verwijderen
-    .accesskey = w
+    .accesskey = r
 
 sync-sign-in =
     .label = Aanmelden
@@ -866,7 +866,7 @@ tracking-header = Bescherming tegen volgen
 
 tracking-desc = Bescherming tegen volgen blokkeert online trackers die op meerdere websites uw surfgegevens verzamelen. <a data-l10n-name="learn-more">Meer info over Bescherming tegen volgen en uw privacy</a>
 
-tracking-mode-label = Bescherming tegen volgen gebruiken om bekende volgers te blokkeren
+tracking-mode-label = Bescherming tegen volgen gebruiken om bekende trackers te blokkeren
 
 tracking-mode-always =
     .label = Altijd
@@ -880,7 +880,7 @@ tracking-mode-never =
 
 # This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
 # This currently happens on the release and beta channel.
-tracking-pbm-label = Bescherming tegen volgen gebruiken in Privénavigatie om bekende volgers te blokkeren
+tracking-pbm-label = Bescherming tegen volgen gebruiken in Privénavigatie om bekende trackers te blokkeren
     .accesskey = v
 
 tracking-exceptions =
