@@ -11,13 +11,13 @@
 <!ENTITY firstrun_panel_title_customize "Tùy chỉnh">
 <!ENTITY firstrun_customize_message "Tạo ra &brandShortName; theo cách của riêng bạn.">
 <!ENTITY firstrun_customize_subtext "Tùy chỉnh &brandShortName; với các tiện ích. Chặn quảng cáo, thêm các tính năng, hoặc chọn một diện mạo mới để phản ánh cá tính của bạn.">
-<!ENTITY firstrun_bookmarks_title "Lược sử">
+<!ENTITY firstrun_bookmarks_title "Lịch sử">
 <!ENTITY firstrun_bookmarks_message "Những gì bạn yêu thích ngay trước mặt bạn">
 <!ENTITY firstrun_bookmarks_subtext "Lấy kết quả từ trang đánh dấu và lược sử của bạn khi bạn tìm kiếm.">
 <!ENTITY firstrun_data_title "Dữ liệu">
 <!ENTITY firstrun_data_message "Dữ liệu ít hơn, tiết kiệm nhiều hơn">
-<!ENTITY firstrun_data_subtext2 "Tắt ảnh để giảm dữ liệu mà bạn cần tải cho mỗi trang">
-<!ENTITY firstrun_sync_title "Đồng bộ">
+<!ENTITY firstrun_data_subtext2 "Tắt hiển thị ảnh để giảm dữ liệu mà bạn cần tải cho mỗi trang.">
+<!ENTITY firstrun_sync_title "Đồng bộ hóa">
 <!ENTITY firstrun_sync_message2 "Tiếp tục trang mà bạn vừa rời khỏi.">
 <!ENTITY firstrun_sync_subtext2 "Sử dụng đồng bộ hóa để tìm trang đánh dấu, mật khẩu và những thứ bạn lưu vào &brandShortName; trên tất cả các thiết bị của bạn.">
 <!ENTITY firstrun_signin_message "Thiết lập kết nối và bắt đầu">
@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Tiếp">
 
 <!ENTITY firstrun_tabqueue_title "Liên kết">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Bật hàng đợi thẻ">
-<!ENTITY firstrun_tabqueue_subtext_off "Lưu đường dẫn trong &brandShortName; để xem sau khi bạn truy cập chúng trong các ứng dụng khác.">
-
-<!ENTITY firstrun_tabqueue_message_on "Thành công!">
-<!ENTITY firstrun_tabqueue_subtext_on "Bạn có thể tắt hoàn toàn trong &settings; dưới &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Bài viết">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "Khởi động lại &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Tìm kiếm hoặc nhập địa chỉ">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Khôi phục thẻ, tiết kiệm dữ liệu, công cụ phát triển">
 <!ENTITY pref_category_notifications "Thông báo">
-<!ENTITY pref_category_notifications_summary "Tính năng mới, cập nhật của trang">
 <!ENTITY pref_category_notifications_summary2 "Tính năng mới, lời khuyên cho sản phẩm">
 <!ENTITY pref_developer_remotedebugging_usb "Gỡ rối từ xa qua USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Gỡ rối từ xa qua WiFi">
@@ -372,6 +364,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Cho phép tự động phát">
 <!ENTITY pref_media_autoplay_enabled_summary "Kiểm soát nếu trang web có thể tự động phát video và nội dung đa phương tiện khác">
+<!ENTITY pref_media_autoplay_allow "Cho phép tự động phát">
+<!ENTITY pref_media_autoplay_block "Không cho phép tự động phát">
 <!ENTITY pref_zoom_force_enabled "Luôn bật chế độ thu phóng">
 <!ENTITY pref_zoom_force_enabled_summary "Luôn bật để bạn có thể thu phóng ở bất kì trang nào">
 <!ENTITY pref_voice_input "Nhập liệu giọng nói">
@@ -444,9 +438,13 @@
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; nộp báo cáo sự cố để giúp &vendorShortName; làm cho trình duyệt của bạn ổn định và an toàn hơn">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Báo cáo hỏng hóc">
+<!ENTITY datareporting_crashreporter_title_short "Trình báo cáo lỗi">
 <!ENTITY datareporting_wifi_title2 "Dịch vụ định vị &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Giúp &vendorShortName; tạo bản đồ thế giới! Chia sẻ vị trí Wi-Fi và điểm phát sóng di động nơi bạn sống để cải thiện dịch vụ định vị của chúng tôi.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +886,14 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Thêm vào màn hình chính">
 <!ENTITY pwa_continue_to_website "Tiếp tục với trang web">
 <!ENTITY pwa_onboarding_sumo "Bạn có thể dễ dàng thêm trang web vào màn hình chính của bạn để có thể truy cập và duyệt web nhanh hơn với trải nghiệm giống như trên ứng dụng.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Bật">
+<!ENTITY pip_play_button_description "Tiếp tục phát">
+<!ENTITY pip_pause_button_title "Tạm dừng">
+<!ENTITY pip_pause_button_description "Tạm dừng phát">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY download_notification_channel "Tải xuống">
