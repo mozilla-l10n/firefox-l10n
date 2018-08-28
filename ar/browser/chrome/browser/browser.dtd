@@ -968,7 +968,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "أضِف نوع حجب…">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "أبلِغ عن مشكلة">
 <!ENTITY contentBlocking.breakageReportView.label "الإبلاغ عن مشاكل">
 <!ENTITY contentBlocking.breakageReportView.learnMore "اطّلع على المزيد">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "المسار">
