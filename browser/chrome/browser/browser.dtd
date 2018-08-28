@@ -946,6 +946,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Lägg till blockering…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Alla upptäckta trackers">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -958,6 +959,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Lägg till blockering…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Kakor från tredje part">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
@@ -968,9 +970,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Lägg till blockering…">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Rapportera ett problem">
 <!ENTITY contentBlocking.breakageReportView.label "Rapportera problem">
+<!ENTITY contentBlocking.breakageReportView2.description "Innehållsblockering kan orsaka problem med vissa webbplatser. När du rapporterar problem hjälper du till att göra &brandShortName; bättre för alla. (Detta skickar en URL samt information om dina webbläsarinställningar till Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Läs mer">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Vilka problem har du haft? (Frivillig)">
