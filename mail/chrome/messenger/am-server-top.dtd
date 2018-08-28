@@ -15,7 +15,7 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "o">
 <!ENTITY serverPortDefault.label "Výchozí:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -46,7 +46,7 @@
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "Vaše přihlašovací jméno">
 <!ENTITY deleteMessagePrefix.label "Při odstranění zprávy:">
-<!ENTITY modelMoveToTrash.label "Přesunout zprávu do koše">
+<!ENTITY modelMoveToTrash.label "Přesunout zprávu do této složky:">
 <!ENTITY modelMoveToTrash.accesskey "n">
 <!ENTITY modelMarkDeleted.label "Označit zprávu jako smazanou">
 <!ENTITY modelMarkDeleted.accesskey "z">
@@ -61,7 +61,7 @@
 <!ENTITY loginAtStartup.accesskey "s">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Zobrazit dotaz před načtením více než">
 <!ENTITY maxMessagesStart.accesskey "Z">
