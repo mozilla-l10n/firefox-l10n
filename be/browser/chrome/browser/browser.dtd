@@ -974,6 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Паведаміць аб праблеме">
 <!ENTITY contentBlocking.breakageReportView.label "Паведаміць аб праблеме">
+<!ENTITY contentBlocking.breakageReportView2.description "Блакаванне змесціва можа выклікаць праблемы з некаторымі вэб-сайтамі. Калі вы паведамляеце аб праблеме, вы дапамагаеце зрабіць &brandShortName; лепшым для ўсіх. (Гэта дашле URL-адрас разам з інфармацыяй пра вашы налады браўзера ў Mozilla).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Даведацца больш">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Што ў вас за праблема? (неабавязкова)">
