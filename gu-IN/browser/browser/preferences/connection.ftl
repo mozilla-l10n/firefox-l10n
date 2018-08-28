@@ -67,3 +67,6 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = પ્રોક્સી DNS ઉપયોગ કરતી વખતે SOCKS v5
     .accesskey = d
+connection-dns-over-https-url = URL
+    .accesskey = U
+    .tooltiptext = HTTPS પર DNS ના ઉકેલ માટે URL
