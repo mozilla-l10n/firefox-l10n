@@ -713,7 +713,7 @@
 <!ENTITY contentBlocking.trackingProtection.add.label "Włącz blokowanie…">
 <!ENTITY contentBlocking.openBreakageReportView.label "Zgłoś problem">
 <!ENTITY contentBlocking.breakageReportView.label "Zgłaszanie problemu">
-<!ENTITY contentBlocking.breakageReportView.description "Blokowanie treści może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać program &brandShortName;. (adres odwiedzanej strony oraz informacje o ustawieniach prywatności i blokowanych treściach zostaną przesłane do Mozilli)">
+<!ENTITY contentBlocking.breakageReportView.description "Blokowanie treści może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać program &brandShortName; (adres odwiedzanej strony oraz informacje o ustawieniach prywatności i blokowanych treściach zostaną przesłane do Mozilli).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Więcej informacji">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Adres URL problematycznej strony">
 <!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Wersja programu">
