@@ -35,6 +35,6 @@ languages-customize-add =
 #   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
-    .label = { $locale }   [{ $code }]
+    .label = { $locale } [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
