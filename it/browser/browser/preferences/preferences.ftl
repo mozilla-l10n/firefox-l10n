@@ -704,6 +704,24 @@ content-blocking-tracking-protection-option-disabled =
   .label = Non bloccare
 content-blocking-tracking-protection-change-blocklist = Cambia elenco per blocco contenuti…
 
+content-blocking-reject-trackers-label = Cookie di terze parti
+  .accesskey = C
+content-blocking-reject-trackers-description = Blocca tutti i cookie di terze parti o solo quelli impostati da elementi traccianti.
+content-blocking-reject-trackers-warning-all-cookies-blocked = Attualmente vengono bloccati tutti i cookie.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Attualmente vengono bloccati tutti i cookie da siti web non visitati.
+content-blocking-change-cookie-settings =
+  .label = Cambia impostazioni per i cookie
+  .accesskey = m
+content-blocking-reject-trackers-block-trackers-option-recommended =
+  .label = Elementi traccianti (consigliato)
+  .accesskey = E
+content-blocking-reject-trackers-block-trackers-option =
+  .label = Elementi traccianti
+  .accesskey = E
+content-blocking-reject-trackers-all-third-parties-option =
+  .label = Tutti i cookie di terze parti (alcuni siti potrebbero non funzionare correttamente)
+  .accesskey = z
+
 ## Privacy Section - Tracking
 
 tracking-header = Protezione antitracciamento
