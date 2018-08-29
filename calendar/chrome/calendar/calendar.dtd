@@ -178,12 +178,41 @@
 <!ENTITY calendar.context.attendance.menu.label                 "الحضور">
 <!ENTITY calendar.context.attendance.menu.accesskey             "ض">
 <!ENTITY calendar.context.attendance.occurrence.label           "هذا التكرار">
+<!ENTITY calendar.context.attendance.all2.label                 "سلسلة مكتملة">
 <!ENTITY calendar.context.attendance.send.label                 "أرسِل تنبيهًا الآن">
 <!ENTITY calendar.context.attendance.send.accesskey             "س">
 <!ENTITY calendar.context.attendance.dontsend.label             "لا تُرسل تنبيهًا">
 <!ENTITY calendar.context.attendance.dontsend.accesskey         "ل">
 
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "ق">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "قبلت">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "م">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "قبلت مبدئيًا">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "ض">
+<!ENTITY calendar.context.attendance.occ.declined.label         "رفضت">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "ض">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "فوّضت أحدًا">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "ن">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "ينتظر إجراءً">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "ع">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "يجري العمل عليه">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "ك">
+<!ENTITY calendar.context.attendance.occ.completed.label        "اكتمل">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "ت">
+<!ENTITY calendar.context.attendance.all.accepted.label         "قبلت">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "د">
+<!ENTITY calendar.context.attendance.all.tentative.label        "قبلت مبدئيًا">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "ف">
+<!ENTITY calendar.context.attendance.all.declined.label         "رفضت">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "ح">
+<!ENTITY calendar.context.attendance.all.delegated.label        "فوّضت أحدًا">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "ظ">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "ينتظر إجراءً">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "ه">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "يجري العمل عليه">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "ل">
+<!ENTITY calendar.context.attendance.all.completed.label        "اكتمل">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "التقدم">
