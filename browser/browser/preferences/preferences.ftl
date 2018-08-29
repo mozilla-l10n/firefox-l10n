@@ -687,6 +687,8 @@ content-blocking-category-label = Scegli che cosa bloccare
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Elementi traccianti lenti
   .accesskey = m
+content-blocking-fastblock-slow-loading-label = Elementi traccianti lenti a caricarsi
+  .accesskey = m
 content-blocking-fastblock-description = Blocca contenuti di terze parti che richiedono più di 5 secondi per essere caricati.
 content-blocking-fastblock-option-enabled =
   .label = Blocca sempre
@@ -695,6 +697,8 @@ content-blocking-fastblock-option-disabled =
 
 content-blocking-tracking-protection-label = Elementi traccianti
   .accesskey = E
+content-blocking-tracking-protection-all-label = Tutti gli elementi traccianti rilevati
+  .accesskey = T
 content-blocking-tracking-protection-description = Blocca tutti gli elementi traccianti conosciuti (nota: alcune pagine web potrebbero non caricarsi correttamente).
 content-blocking-tracking-protection-option-enabled =
   .label = Blocca sempre
