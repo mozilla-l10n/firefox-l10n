@@ -328,7 +328,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Novas janelas e abas
-home-new-windows-tabs-description2 = Escolha o que você vê quando abrir sua página inicial, novas janelas e novas abas.
+home-new-windows-tabs-description2 = Escolha o que ver quando abrir sua página inicial, novas janelas e novas abas.
 
 ## Home Section - Home Page Customization
 
@@ -557,9 +557,6 @@ history-dontremember-description = O { -brand-short-name } usará as mesmas conf
 history-private-browsing-permanent =
     .label = Sempre usar o modo de navegação privativa
     .accesskey = v
-history-remember-option =
-    .label = Memorizar histórico de navegação e downloads
-    .accesskey = M
 history-remember-browser-option =
     .label = Memorizar histórico de navegação e downloads
     .accesskey = h
