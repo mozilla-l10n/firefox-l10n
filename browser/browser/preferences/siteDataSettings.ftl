@@ -37,13 +37,11 @@ site-data-remove-all =
     .label = Elimina-ho tot
     .accesskey = E
 site-data-remove-shown =
-    .label = Suprimeix totes les mostrades
-    .accesskey = e
+    .label = Elimina tot allò que es mostra
+    .accesskey = E
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Elimina
