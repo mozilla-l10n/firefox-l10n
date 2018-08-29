@@ -172,12 +172,16 @@
 <!ENTITY calendar.context.copyevent.accesskey         "س">
 <!ENTITY calendar.context.pasteevent.label            "ألصق">
 <!ENTITY calendar.context.pasteevent.accesskey        "ص">
-<!ENTITY calendar.context.button.label                "لوحة اليوم" >
-<!ENTITY calendar.context.button.accesskey            "ي" >
-<!ENTITY calendar.context.attendance.menu.label       "الحضور" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "ض" >
-<!ENTITY calendar.context.attendance.occurrence.label "هذا التكرار" >
-<!ENTITY calendar.context.attendance.all.label        "كل التكرارات" >
+<!ENTITY calendar.context.button.label                "لوحة اليوم">
+<!ENTITY calendar.context.button.accesskey            "ي">
+
+<!ENTITY calendar.context.attendance.menu.label                 "الحضور">
+<!ENTITY calendar.context.attendance.menu.accesskey             "ض">
+<!ENTITY calendar.context.attendance.occurrence.label           "هذا التكرار">
+<!ENTITY calendar.context.attendance.send.label                 "أرسِل تنبيهًا الآن">
+<!ENTITY calendar.context.attendance.dontsend.label             "لا تُرسل تنبيهًا">
+
+
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "التقدم">

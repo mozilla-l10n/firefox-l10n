@@ -24,11 +24,16 @@
 <!-- Below are new strings for the revised new calendar dialog. The above strings should be
     removed/renamed later on -->
 
+<!ENTITY sourcetabs.other.label  "أخرى">
 
 <!ENTITY buttons.create.label "أنشِئ تقويما">
 
 
+<!ENTITY buttons.back.label "إلى الخلف">
 
+<!ENTITY buttons.subscribe.label "اشترِك">
 
+<!ENTITY calendartype.label "نوع التقويم:">
+<!ENTITY location.label "المكان:">
 
 

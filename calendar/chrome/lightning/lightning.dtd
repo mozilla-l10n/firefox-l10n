@@ -1,45 +1,53 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
 <!-- Tools menu -->
-
-
 <!ENTITY lightning.preferencesLabel "التقويم">
-<!-- New menu popup in File menu -->
 
+<!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "حدث…">
 <!ENTITY lightning.menupopup.new.event.accesskey "ح">
 <!ENTITY lightning.menupopup.new.task.label     "مهمة…">
 <!ENTITY lightning.menupopup.new.task.accesskey "م">
 <!ENTITY lightning.menupopup.new.calendar.label "تقويم…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "ت">
-<!-- Open menu popup in File menu -->
 
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "افتح">
 <!ENTITY lightning.menupopup.open.accesskey           "ف">
 <!ENTITY lightning.menupopup.open.message.label       "رسالة محفوظة…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "ح">
 <!ENTITY lightning.menupopup.open.calendar.label      "ملف تقويم…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "ت">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label            "التقويم">
 <!ENTITY lightning.menu.view.calendar.accesskey        "ت">
 <!ENTITY lightning.menu.view.tasks.label               "المهام">
 <!ENTITY lightning.menu.view.tasks.accesskey           "م">
-<!-- Events and Tasks menu -->
 
+<!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "الأحداث و المهام">
 <!ENTITY lightning.menu.eventtask.accesskey            "ح">
+
 <!-- properties dialog, calendar creation wizard -->
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.email.label,
+     lightning.calendarproperties.forceEmailScheduling.label)
+     These strings are used in the calendar wizard and the calendar properties dialog, but are only
+     displayed when setting/using a caldav calendar -->
+<!ENTITY lightning.calendarproperties.email.label                           "البريد الإلكتروني:">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
+     lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
+     - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
+     - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 
-<!ENTITY lightning.calendarproperties.email.label               "البريد الإلكتروني:">
 <!-- iMIP Bar (meeting support) -->
-
 <!ENTITY lightning.imipbar.btnAccept.label                                  "اقبل">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "اقبل دعوة الحدث">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "اقبل الكل">
@@ -71,17 +79,21 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "حدّث">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "حدّث الحدث في التقويم">
 <!ENTITY lightning.imipbar.description                                      "تحتوي هذه الرسالة دعوة لحدث.">
-<!-- Lightning specific keybindings -->
 
+<!ENTITY lightning.imipbar.btnSend.label                                    "أرسِل ردًا الآن">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "أرسِل ردًا للمنظّم">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "لا تُرسل ردًا">
+
+<!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
+
 <!-- Account Central page -->
-
 <!ENTITY lightning.acctCentral.newCalendar.label "أنشئ تقويمًا جديدًا">
-<!-- today-pane-specific -->
 
+<!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "أظهر شهر مصغّر">
 <!ENTITY todaypane.showMinimonth.accesskey "ش">
 <!ENTITY todaypane.showMiniday.label "أظهر يوم مصغّر">
