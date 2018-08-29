@@ -202,6 +202,9 @@ choose-language-description = Çerni a lengoa preferia pe-e pagine
 choose-button =
     .label = Çerni…
     .accesskey = i
+choose-browser-language-description = Çerni a lengoa deuvia pe vedde i menû, mesaggi e notifiche de { -brand-short-name }.
+confirm-browser-language-change-description = Arvi torna { -brand-short-name } pe conpletâ i cangiamenti
+confirm-browser-language-change-button = Conpleta e Arvi torna
 translate-web-pages =
     .label = Traduxi contegnui web
     .accesskey = T
@@ -316,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy da Ræ
+network-settings-title = Inpostaçioin da ræ
 network-proxy-connection-description = Configura comme { -brand-short-name } o se conette a l'Internet.
 network-proxy-connection-learn-more = Pe saveine de ciù
 network-proxy-connection-settings =
@@ -554,9 +558,6 @@ history-dontremember-description = { -brand-short-name } o deuvia e mæxime pref
 history-private-browsing-permanent =
     .label = Deuvia de longo o mòddo de navegaçion privou
     .accesskey = p
-history-remember-option =
-    .label = Aregòrda a stöia de navegaçion e descaregamenti
-    .accesskey = ç
 history-remember-browser-option =
     .label = Aregòrda a stöia de navegaçion e descaregamenti
     .accesskey = n
@@ -602,6 +603,26 @@ sitedata-accept-third-party-visited-option =
     .label = da-i sciti vixitæ
 sitedata-accept-third-party-never-option =
     .label = mai
+sitedata-allow-cookies-option =
+    .label = Acetta cookie e dæti do scito
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Blòcca cookie e dæti do scito
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Tipo blocou
+    .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = Traciatoî de terse parte (racomandou)
+sitedata-block-trackers-option =
+    .label = Traciatoî de terse parte
+sitedata-block-unvisited-option =
+    .label = Cookie da sciti no vixitæ
+sitedata-block-all-third-parties-option =
+    .label = Tutti i cookie de terse parte
+sitedata-block-always-option =
+    .label = Tutti i cookie (porieva ese che i sciti pöi no fonçionan)
 sitedata-clear =
     .label = Scancella dæti…
     .accesskey = l
@@ -629,11 +650,33 @@ addressbar-suggestions-settings = Cangia e inpostaçioin di conseggi di motoî d
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Contegnuo blocou
+content-blocking-desc = Blòcca i contegnui de terse parte, comme publicitæ ò còdici, che peuan ralentâ a navegaçion e traciate inta ræ. Personalizza e inpostaçioin pe megio bilanciâ fra proteçion e prestaçioin.
+content-blocking-learn-more = Atre informaçioin
+content-blocking-restore-defaults =
+    .label = Repiggia predefinio
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Asmòrta o blòcco di contegnui
+content-blocking-toggle-off =
+    .tooltiptext = Ativa o blòcco di contengnui
 content-blocking-toggle-label-on = Averto
     .accesskey = A
 content-blocking-toggle-label-off = Asmòrtou
     .accesskey = A
 content-blocking-category-label = Çerni cöse blocâ
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Elementi che tracian ch'en lenti
+    .accesskey = E
+content-blocking-fastblock-description = Blòcca i contengui de terse part che ghe metan ciù de 5 segondi a caregase.
+content-blocking-fastblock-option-enabled =
+    .label = Blòcca de longo
+content-blocking-fastblock-option-disabled =
+    .label = No blocâ mai
+content-blocking-tracking-protection-label = Traciatoî
+    .accesskey = T
 
 ## Privacy Section - Tracking
 
