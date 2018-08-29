@@ -202,6 +202,9 @@ choose-language-description = Talen kieze dêr't websites yn werjûn wurde moatt
 choose-button =
     .label = Kieze…
     .accesskey = i
+choose-browser-language-description = Kies de talen dy't brûkt wurde foar it werjaan fan menu’s, berjochten en notifikaasjes fan { -brand-short-name }.
+confirm-browser-language-change-description = Start { -brand-short-name } opnij om dizze wizigingen ta te passen.
+confirm-browser-language-change-button = Tapasse en opnij starte
 translate-web-pages =
     .label = Webynhâld oersette
     .accesskey = W
@@ -316,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Netwurkproxy
+network-settings-title = Netwurkynstellingen
 network-proxy-connection-description = Konfigurearje hoe { -brand-short-name } ferbining makket mei it ynternet.
 network-proxy-connection-learn-more = Mear ynfo
 network-proxy-connection-settings =
@@ -554,9 +558,6 @@ history-dontremember-description = { -brand-short-name } sil deselde ynstellinge
 history-private-browsing-permanent =
     .label = Altyd de priveenavigaasje brûke
     .accesskey = P
-history-remember-option =
-    .label = Myn navigaasje- en downloadskiednis ûnthâlde
-    .accesskey = a
 history-remember-browser-option =
     .label = Navigaasje- en downloadskiednis ûnthâlde
     .accesskey = N
@@ -602,6 +603,26 @@ sitedata-accept-third-party-visited-option =
     .label = Fan besochte
 sitedata-accept-third-party-never-option =
     .label = Nea
+sitedata-allow-cookies-option =
+    .label = Cookies en websitegegevens akseptearje
+    .accesskey = a
+sitedata-disallow-cookies-option =
+    .label = Cookies en websitegegevens blokkearje
+    .accesskey = b
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Blokkearre type
+    .accesskey = t
+sitedata-block-trackers-option-recommended =
+    .label = Trackers fan tredden (oanrekommandearre)
+sitedata-block-trackers-option =
+    .label = Trackers fan tredden
+sitedata-block-unvisited-option =
+    .label = Cookies fan net-besochte websites
+sitedata-block-all-third-parties-option =
+    .label = Alle cookies fan tredden
+sitedata-block-always-option =
+    .label = Alle cookies (kin derfoar soargje dat websites net goed wurkje)
 sitedata-clear =
     .label = Gegevens wiskje…
     .accesskey = e
@@ -626,6 +647,44 @@ addressbar-locbar-openpage-option =
     .label = Iepen ljeplêden
     .accesskey = I
 addressbar-suggestions-settings = Foarkarren foar sykmasinesuggestjes wizigje
+
+## Privacy Section - Content Blocking
+
+content-blocking-header = Ynhâldsblokkearring
+content-blocking-desc = Blokkearje ynhâld fan tredden, lykas advertinsjes of koade, dy't it sneupen fertraagje kin en jo op it web folgje kin. Pas jo ynstellingen oan foar it optimale lykwicht tusken beskerming en prestaasjes.
+content-blocking-learn-more = Mear ynfo
+content-blocking-restore-defaults =
+    .label = Standertwearden opnij ynstelle
+    .accesskey = S
+content-blocking-toggle-on =
+    .tooltiptext = Ynhâldsblokkearring útskeakelje
+content-blocking-toggle-off =
+    .tooltiptext = Ynhâldsblokkearring ynskeakelje
+content-blocking-toggle-label-on = OAN
+    .accesskey = O
+content-blocking-toggle-label-off = ÚT
+    .accesskey = T
+content-blocking-category-label = Kieze wat der blokkearre wurdt
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Trage tracking-eleminten
+    .accesskey = T
+content-blocking-fastblock-description = Blokkearret ynhâld fan tredden dy't langer as 5 sekonden docht oer it laden.
+content-blocking-fastblock-option-enabled =
+    .label = Altyd blokkearje
+content-blocking-fastblock-option-disabled =
+    .label = Nea blokkearje
+content-blocking-tracking-protection-label = Trackers
+    .accesskey = T
+content-blocking-tracking-protection-description = Blokkearret alle bekende trackers (Let op: kin ek it laden fan bepaalde siden tsjingean).
+content-blocking-tracking-protection-option-enabled =
+    .label = Altyd blokkearje
+content-blocking-tracking-protection-option-pbm =
+    .label = Allinnich blokkearje yn priveefinsters
+content-blocking-tracking-protection-option-disabled =
+    .label = Nea blokkearje
+content-blocking-tracking-protection-change-blocklist = Blokkearlist wizigje…
 
 ## Privacy Section - Tracking
 
@@ -688,6 +747,7 @@ autoplay-option-allow =
     .label = Automatysk ôfspylje tastean
 autoplay-option-dont =
     .label = Net automatysk ôfspylje
+permissions-autoplay-link = Mear ynfo
 permissions-block-popups =
     .label = Pop-upfinsters blokkearje
     .accesskey = P

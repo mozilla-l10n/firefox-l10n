@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Tastiene websites - Automatysk ôfspylje
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Jo kinne opjaan hokker websites tastimming hawwe om automatysk media-eleminten ôf te spyljen. Typ it eksakte adres fan de website dy't jo tastimming jaan wolle en klik ferfolgens op Tastean.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Utsûnderingen - Automatysk ôfspylje
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Jo kinne oanjaan hokker siden altyd of nea tastimming hawwe om automatysk media mei lûd ôf te spyljen. Typ it adres fan de website dy't jo beheare wolle en klik dernei op Blokkearje of Tastean.
 
 ## Site Permissions - Notifications

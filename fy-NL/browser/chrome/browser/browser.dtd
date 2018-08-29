@@ -68,8 +68,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "p">
 <!ENTITY  sendLinkToDevice.label             "Keppeling nei apparaat ferstjoere">
 <!ENTITY  sendLinkToDevice.accesskey         "p">
-<!ENTITY  sendToDeviceFeedback.label         "Ferstjoerd!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "Yn wachtrige (offline)">
 <!ENTITY  moveToNewWindow.label              "Ferpleatse nei nij finster">
 <!ENTITY  moveToNewWindow.accesskey          "f">
 <!ENTITY  reopenInContainer.label            "Opnij iepenje yn kontener">
@@ -268,7 +266,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Begjinside">
-
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName;-startside">
 
 <!ENTITY bookmarksButton.label          "Blêdwizers">
@@ -428,23 +425,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Tafoegje oan arkbalke">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
-<!ENTITY customizeMenu.addToPanel.label "Tafoegje oan menu">
-<!ENTITY customizeMenu.addToPanel.accesskey "m">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Tafoegje oan oerrinmenu">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
-<!ENTITY customizeMenu.moveToToolbar.label "Ferpleatse nei arkbalke">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "F">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Ferpleatse nei menu">
-<!ENTITY customizeMenu.moveToPanel.accesskey "e">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -454,11 +440,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "L">
 <!ENTITY customizeMenu.removeFromToolbar.label "Fuortsmite fan arkbalke">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
-<!ENTITY customizeMenu.removeFromMenu.label "Fuortsmite út menu">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Mear items tafoegje…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "M">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Automatysk ferstopje yn arkbalke">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "u">
 <!ENTITY customizeMenu.manageExtension.label "Utwreiding beheare">
@@ -604,7 +587,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Blêdwizer foar dit dielfinster meitsje">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Keppeling kopiearje">
-<!ENTITY copyURLFeedback.label        "Kopiearre!">
 <!ENTITY emailPageCmd.label           "Keppeling e-maile…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Side bewarje as…">
@@ -791,7 +773,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Klear">
-<!ENTITY editBookmark.removeBookmark.accessKey       "F">
 
 <!ENTITY editBookmark.showForNewBookmarks.label       "By bewarjen editor toane">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "e">
@@ -842,7 +823,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Tastimmingen">
 <!ENTITY identity.permissionsEmpty "Jo hawwe dizze website gjin spesjale tastimmingen jûn.">
 <!ENTITY identity.permissionsReloadHint "It is mooglik dat jo de side opnij lade moatte om de wizigingen aktyf te meitsjen.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "Opsjes tastimmingen iepenje">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -945,23 +925,44 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "Beskerming tsjin folgjen: OAN">
 <!ENTITY trackingProtection.off "Beskerming tsjin folgjen: ÚT">
-<!ENTITY trackingProtection.title "Beskerming tsjin folgjen">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkearret ûnderdielen fan de side dy't jo sneupgedrach folgje kinne soe.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Dizze website befettet eleminten dy't jo sneupgedrach folgje kinne soe. Jo hawwe beskerming útskeakele.">
-<!ENTITY trackingProtection.notDetected3 "Gjin folcheleminten op dizze side detektearre.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Beskerming foar dizze website útskeakelje">
-<!ENTITY trackingProtection.unblock.accesskey "t">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Beskerming foar dizze sesje útskeakelje">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "s">
-<!ENTITY trackingProtection.block2.label "Beskerming ynskeakelje">
-<!ENTITY trackingProtection.block2.accesskey "s">
 
+<!ENTITY contentBlocking.title "Ynhâldsblokkearring">
+<!ENTITY contentBlocking.detected "Blokkearbere ynhâld op dizze website detektearre.">
+<!ENTITY contentBlocking.notDetected "Gjin blokkearbere ynhâld op dizze side detektearre.">
+<!ENTITY contentBlocking.disabled.label "Utskeakele">
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking tracker content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+
+<!ENTITY trackingProtection.title "Beskerming tsjin folgjen">
 <!ENTITY trackingProtection.tooltip "Foarkarren Beskerming tsjin folgjen iepenje">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokkearret ûnderdielen fan dizze side dy't jo sneupgedrach folgje soenen kinne.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; hat eleminten detektearre dy’t jo sneupgedrach folgje soene kinne.">
@@ -970,6 +971,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "Gjin folcheleminten op dizze side detektearre. Jo hawwe beskerming foar dizze website útskeakele.">
 
 <!ENTITY trackingProtection.reloadRequired2 "Jo hawwe beskerming tsjin folgjen ynskeakele. Laad dizze side opnij om alle folgers te blokkearjen.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
