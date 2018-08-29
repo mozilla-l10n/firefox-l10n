@@ -417,6 +417,8 @@
 <!ENTITY summary.dialog.saveclose.label         "احفظ و أغلِق">
 <!ENTITY summary.dialog.accept.label            "اقبل">
 <!ENTITY summary.dialog.accept.tooltiptext      "اقبل الدعوة">
+<!ENTITY summary.dialog.tentative.label         "مبدئيًا">
+<!ENTITY summary.dialog.tentative.tooltiptext   "اقبل الدعوة مبدئيًا">
 <!ENTITY summary.dialog.decline.label           "ارفض">
 <!ENTITY summary.dialog.decline.tooltiptext     "ارفض الدعوة">
 <!ENTITY summary.dialog.dontsend.label          "لا تُرسل ردًا">

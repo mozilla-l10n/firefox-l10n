@@ -179,7 +179,9 @@
 <!ENTITY calendar.context.attendance.menu.accesskey             "ض">
 <!ENTITY calendar.context.attendance.occurrence.label           "هذا التكرار">
 <!ENTITY calendar.context.attendance.send.label                 "أرسِل تنبيهًا الآن">
+<!ENTITY calendar.context.attendance.send.accesskey             "س">
 <!ENTITY calendar.context.attendance.dontsend.label             "لا تُرسل تنبيهًا">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "ل">
 
 
 
