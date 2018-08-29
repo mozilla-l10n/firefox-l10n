@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = નેટવર્ક પ્રોક્સી
+network-settings-title = નેટવર્ક સેટિંગ્સ
 network-proxy-connection-description = કેવી રીતે { -brand-short-name } ઇન્ટરનેટ સાથે જોડાય છે તે ગોઠવો.
 network-proxy-connection-learn-more = વધુ જાણો
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = { -brand-short-name } ખાનગી બ્�
 history-private-browsing-permanent =
     .label = હંમેશા ખાનગી બ્રાઉઝીંગ સ્થિતિ વાપરો
     .accesskey = p
-history-remember-option =
-    .label = મારુ બ્રાઉઝીંગ અને ડાઉનલોડ ઇતિહાસને યાદ રાખો
-    .accesskey = b
 history-remember-browser-option =
     .label = બ્રાઉઝીંગ અને ડાઉનલોડ ઇતિહાસને યાદ રાખો
     .accesskey = b
