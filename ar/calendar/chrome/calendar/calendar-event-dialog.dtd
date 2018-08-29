@@ -398,6 +398,7 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "عام">
 <!ENTITY read.only.title.label           "العنوان:">
+<!ENTITY read.only.calendar.label        "التقويم:">
 <!ENTITY read.only.event.start.label     "تاريخ البدء:">
 <!ENTITY read.only.task.start.label      "تاريخ البدء:">
 <!ENTITY read.only.event.end.label       "تاريخ الانتهاء:">
@@ -406,13 +407,18 @@
 <!ENTITY read.only.location.label        "المكان:">
 <!ENTITY read.only.category.label        "الفئة:">
 <!ENTITY read.only.organizer.label       "المنظّم:">
-<!ENTITY read.only.reply.label           "الرد:">
-<!ENTITY read.only.accept.label          "سأحضر">
-<!ENTITY read.only.decline.label         "لن أحضر">
-<!ENTITY read.only.tentative.label       "قد أحضر">
-<!ENTITY read.only.needs.action.label    "سأؤكد ذلك لاحقا">
 <!ENTITY read.only.reminder.label        "التذكير:">
 <!ENTITY read.only.attachments.label     "المرفقات:">
 <!ENTITY read.only.attendees.label       "الحضور">
 <!ENTITY read.only.description.label     "الوصف">
 <!ENTITY read.only.link.label            "رابط ذا صلة">
+
+<!-- Summary dialog -->
+<!ENTITY summary.dialog.saveclose.label         "احفظ و أغلِق">
+<!ENTITY summary.dialog.accept.label            "اقبل">
+<!ENTITY summary.dialog.accept.tooltiptext      "اقبل الدعوة">
+<!ENTITY summary.dialog.decline.label           "ارفض">
+<!ENTITY summary.dialog.decline.tooltiptext     "ارفض الدعوة">
+<!ENTITY summary.dialog.dontsend.label          "لا تُرسل ردًا">
+<!ENTITY summary.dialog.send.label              "أرسِل ردًا الآن">
+<!ENTITY summary.dialog.send.tooltiptext        "أرسِل ردًا للمنظّم  وأغلِق النافذة">
