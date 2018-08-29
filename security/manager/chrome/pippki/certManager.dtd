@@ -8,13 +8,11 @@
 <!ENTITY certmgr.tab.others2                  "Ľudia">
 <!ENTITY certmgr.tab.websites3                "Servery">
 <!ENTITY certmgr.tab.ca                       "Autority">
-<!ENTITY certmgr.tab.orphan2                  "Iné">
 
 <!ENTITY certmgr.mine2                        "Máte certifikáty od týchto organizácií, ktoré vás identifikujú">
 <!ENTITY certmgr.others2                      "Máte uložené certifikáty, ktoré identifikujú týchto ľudí">
 <!ENTITY certmgr.websites3                    "Máte uložené certifikáty, ktoré identifikujú tieto servery">
 <!ENTITY certmgr.cas2                         "Máte uložené certifikáty, ktoré identifikujú tieto certifikačné autority">
-<!ENTITY certmgr.orphans2                     "Máte uložené certifikáty, ktoré nepatria do žiadnej z ďalších kategórií">
 
 <!ENTITY certmgr.detail.general_tab.title     "Všeobecné">
 <!ENTITY certmgr.detail.general_tab.accesskey "V">
@@ -36,9 +34,8 @@
 
 <!ENTITY certmgr.editcacert.title             "Úprava nastavenia dôvery pre certifikát od certifikačnej autority">
 <!ENTITY certmgr.editcert.edittrust           "Upraviť nastavenie dôvery:">
-<!ENTITY certmgr.editcert.trustssl            "Tento certifikát môže identifikovať internetové stránky">
-<!ENTITY certmgr.editcert.trustemail          "Tento certifikát môže identifikovať poštových používateľov">
-<!ENTITY certmgr.editcert.trustobjsign        "Tento certifikát môže identifikovať výrobcov softvéru">
+<!ENTITY certmgr.editcert.trustssl            "Tento certifikát môže identifikovať internetové stránky.">
+<!ENTITY certmgr.editcert.trustemail          "Tento certifikát môže identifikovať poštových používateľov.">
 
 <!ENTITY certmgr.deletecert.title             "Odstránenie certifikátu">
 
@@ -81,7 +78,7 @@
 <!ENTITY exceptionMgr.title                   "Pridanie bezpečnostnej výnimky">
 <!ENTITY exceptionMgr.exceptionButton.label   "Potvrdiť bezpečnostnú výnimku">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "P">
-<!ENTITY exceptionMgr.supplementalWarning     "Oprávnené banky, obchody a iné verejné stránky toto nebudú od vás vyžadovať.">
+<!ENTITY exceptionMgr.supplementalWarning     "Skutočné banky, obchody a iné verejné stránky toto nebudú od vás vyžadovať.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Adresa:">
 <!ENTITY exceptionMgr.certlocation.download   "Získať certifikát">
