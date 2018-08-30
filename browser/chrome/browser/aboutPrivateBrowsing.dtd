@@ -30,3 +30,5 @@
 <!ENTITY trackingProtection.title                        "Sporingsvern">
 <!ENTITY trackingProtection.description2                 "Nokre nettstadar brukar sporfølgjarar som kan overvake aktiviteten din over heile nettet. Med sporingsvern vil Firefox blokkere mange sporfølgjarar som kan samle inn informasjon om surfevanane dine.">
 <!ENTITY trackingProtection.startTour1                   "Sjå korleis dette fungerer">
+
+<!ENTITY contentBlocking.title                           "Innhaldsblokkering">
