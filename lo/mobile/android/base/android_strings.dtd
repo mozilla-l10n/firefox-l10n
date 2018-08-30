@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "ຕໍ່ໄປ">
 
 <!ENTITY firstrun_tabqueue_title "ລີ້ງຄ໌">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "ເປີດຄິວແທັບ">
-<!ENTITY firstrun_tabqueue_subtext_off "ບັນທຶກລີ້ງຄ໌ໄວ້ສຳລັບໃຊ້ພາຍຫລັງໃນ &brandShortName; ເມື່ອມີການແຕະລີ້ງຄ໌ໃນແອັບອື່ນໆ.">
-
-<!ENTITY firstrun_tabqueue_message_on "ສຳເລັດ!">
-<!ENTITY firstrun_tabqueue_subtext_on "ທ່ານສາມາດປິດສິ່ງນີ້ໄດ້ຕະລອດເວລາຢູ່ທີ່ &settings; ພາຍໃຕ້ &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "ບົດຄວາມ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,6 +63,14 @@
 <!ENTITY  crash_restart_label "ເລີ່ມຕົ້ນການທຳງານ &brandShortName; ໃຫມ່">
 
 <!ENTITY url_bar_default_text2 "ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່">
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "ໃຊ້ໂຕອ່ານ QR ຂອງທ່ານເພື່ອຄົ້ນຫາ ຫຼື ປ້ອນທີ່ຢູ່">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "ໃຊ້ ໂມໂຄໂຟນຂອງທ່ານເພື່ອຄົ້ນຫາ ຫຼື ປ້ອນທີ່ຢູ່">
 
 <!ENTITY bookmark "ບຸກມາກ">
 <!ENTITY bookmark_remove "ລືບບຸກມາກອອກ">
@@ -206,7 +208,7 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ກູ້ຄືນແທັບ, ຜູ້ຝາກຂໍ້ມູນ, ເຄື່ອງມືສຳລັບນັກພັດທະນາ">
 <!ENTITY pref_category_notifications "ການແຈ້ງເຕືອນ">
-<!ENTITY pref_category_notifications_summary "ຄຸນລັກສະນະໃຫມ່, ການອັບເດດເວັບໄຊທ໌">
+<!ENTITY pref_category_notifications_summary2 "ຄຸນະສົມບັດໃໝ່, ເຄັດລັບຜະລິດຕະພັນ">
 <!ENTITY pref_developer_remotedebugging_usb "ການດີບັກທາງໄກຜ່ານທາງ USB">
 <!ENTITY pref_developer_remotedebugging_wifi "ການດີບັກທາງໄກຜ່ານທາງ Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ການດີບັກ Wi-Fi ຕ້ອງການໃຫ້ອຸປະກອນຂອງທ່ານໄດ້ຮັບການຕິດຕັ້ງແອັບອ່ານລະຫັດ QR.">
@@ -362,6 +364,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "ອະນຸຍາດໃຫ້ເປີດແບບອັດຕະໂນມັດ">
 <!ENTITY pref_media_autoplay_enabled_summary "ຄວບຄຸມດູແລເວັບທີ່ສາມາດເປີດວິດີໂອ ແລະ ສື່ເນື້ອຫາອື່ນໆແບບອັດຕະໂນມັດ">
+<!ENTITY pref_media_autoplay_allow "ອະນຸຍາດຫຼິ້ນອັດຕະໂນມັດ">
+<!ENTITY pref_media_autoplay_block "ປິດກັ້ນການຫຼິ້ນອັດຕະໂນມັດ">
 <!ENTITY pref_zoom_force_enabled "ເປີດໃຊ້ງານຊູມຕະລອດເວລາ">
 <!ENTITY pref_zoom_force_enabled_summary "ບັງຄັບໃຊ້ເພື່ອເຮັດໃຫ້ສາມາດຂະຫຍາຍເບິງໄດ້ທຸກຫນ້າ">
 <!ENTITY pref_voice_input "ໃສ່ສຽງ">
@@ -437,6 +441,11 @@
 <!ENTITY datareporting_crashreporter_title_short "ຕົວລາຍງານຂໍ້ຜິດພາດ">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; ບໍລິການສະຖານທີ່ຕັ້ງ">
 <!ENTITY datareporting_wifi_geolocation_summary4 "ຊ່ວຍ &vendorShortName; ສ້າງແຜນທີ່ໂລກໂດຍການແບ່ງປັນຕຳແຫນ່ງຂອງໄຟວາຍ ແລະ ໂທລະສັບມືຖືຂອງທ່ານເພື່ອປັບປຸງບໍລິການ Geolocation ຂອງພວກເຮົາ. ">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "ບໍລິການຕຳແໜ່ງທີ່ຕັ້ງຂອງ &vendorShortName; ກຳລັງເຮັດວຽກ">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -543,7 +552,7 @@
 <!ENTITY pref_compact_tabs_summary2 "ຈັດລຽງແທັບເປັນສອງຖັນໃນໂຫມດແນວຕັ້ງ">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "ຫນ້າເວັບໄຊທ໌ໄດ້ຖືກລົບອອກແລ້ວ">
 <!ENTITY folder_removed "ໂຟລເດີຖືກລຶບແລ້ວ">
@@ -760,7 +769,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Synced ຄັ້ງຫລ່າສຸດ: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Synced ຄັ້ງຫລ່າສຸດ: ບໍ່ເຄຍ">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -880,3 +889,16 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "ເພີ່ມໃສ່ໜ້າທໍາອິດ">
 <!ENTITY pwa_continue_to_website "ດຳເນີນການຕໍ່ໄປທີ່ເວັບໄຊທ">
 <!ENTITY pwa_onboarding_sumo "ທ່ານສາມາດເພີ່ມເວັບໄຊທນີ້ໄປທີ່ຫນ້າທຳອິດໄດ້ຢ່າງງ່າຍດາຍເພື່ອໃຫ້ສາມາດນຳເຂົ້າໄປໃຊ້ໄດ້ງ່າຍ ແລະ ທ່ອງເວັບໄດ້ໄວຂື້ນ.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "ຫຼິ້ນ">
+<!ENTITY pip_play_button_description "ຫຼິ້ນຕໍ່">
+<!ENTITY pip_pause_button_title "ພັກ">
+<!ENTITY pip_pause_button_description "ພັກການຫຼິ້ນ">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "ບໍລິການຕຳແໜ່ງທີ່ຕັ້ງຂອງ &vendorShortName;">
+<!ENTITY download_notification_channel "ດາວໂຫຼດ">
+<!ENTITY media_notification_channel "ການຫຼິ້ນສື່">
