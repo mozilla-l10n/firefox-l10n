@@ -5,6 +5,9 @@
 languages-window =
     .title = Språk
     .style = width: 30em
+webpage-languages-window =
+    .title = Språkinställningar för webbsidor
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Webbsidor erbjuds ibland på mer än ett språk. Välj vilka språk som ska visas och i vilken ordning du föredrar dem
@@ -38,3 +41,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } språkinställningar
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } visar första språket som standard och kommer att visa alternativa språk om det behövs i den ordning de tillkommer.
