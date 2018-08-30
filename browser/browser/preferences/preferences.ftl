@@ -207,6 +207,9 @@ choose-button =
 
 choose-browser-language-description = Scegli le lingue in cui visualizzare menu, messaggi e notifiche di { -brand-short-name }.
 confirm-browser-language-change-description = Riavviare { -brand-short-name } per applicare queste modifiche
+manage-browser-languages-button =
+  .label = Imposta alternative…
+  .accesskey = l
 confirm-browser-language-change-button = Applica e riavvia
 
 translate-web-pages =
