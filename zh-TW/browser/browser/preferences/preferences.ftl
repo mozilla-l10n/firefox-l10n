@@ -6,6 +6,8 @@ do-not-track-description = 傳送 “Do Not Track” 訊號，告訴網站您不
 do-not-track-learn-more = 了解更多
 do-not-track-option-default =
     .label = 只在使用追蹤保護功能時
+do-not-track-option-default-content-blocking =
+    .label = 僅在 { -brand-short-name } 設定封鎖偵測到的追蹤器時
 do-not-track-option-always =
     .label = 總是
 pref-page =
@@ -191,6 +193,9 @@ choose-button =
     .label = 選擇…
     .accesskey = o
 choose-browser-language-description = 請選擇 { -brand-short-name } 顯示選單、訊息、通知時使用的語言。
+manage-browser-languages-button =
+    .label = 設定其他語言…
+    .accesskey = l
 confirm-browser-language-change-description = 重新啟動 { -brand-short-name } 來套用變更
 confirm-browser-language-change-button = 套用並重新啟動
 translate-web-pages =
@@ -611,6 +616,10 @@ sitedata-block-all-third-parties-option =
     .label = 所有第三方追蹤器
 sitedata-block-always-option =
     .label = 所有 Cookie（可能會造成網站運作不正常）
+sitedata-block-all-third-party-option =
+    .label = 所有第三方 Cookie（可能會造成某些網站不正常）
+sitedata-block-all-option =
+    .label = 所有 Cookie（會造成大部分網站不正常）
 sitedata-clear =
     .label = 清除資料…
     .accesskey = l
@@ -658,12 +667,19 @@ content-blocking-category-label = 選擇要封鎖的內容
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = 很慢才載入的追蹤元素
     .accesskey = S
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = 很慢才載入的追蹤器
+    .accesskey = S
 content-blocking-fastblock-description = 封鎖超過 5 秒仍未載入完成的第三方內容。
 content-blocking-fastblock-option-enabled =
     .label = 總是封鎖
 content-blocking-fastblock-option-disabled =
     .label = 永不封鎖
 content-blocking-tracking-protection-label = 追蹤器
+    .accesskey = T
+content-blocking-tracking-protection-all-label = 所有偵測到的追蹤器
     .accesskey = T
 content-blocking-tracking-protection-description = 封鎖所有已知的追蹤器（可能也會無法載入某些頁面）。
 content-blocking-tracking-protection-option-enabled =
@@ -672,7 +688,36 @@ content-blocking-tracking-protection-option-pbm =
     .label = 僅在隱私瀏覽視窗封鎖
 content-blocking-tracking-protection-option-disabled =
     .label = 永不封鎖
+content-blocking-tracking-protection-option-always =
+    .label = 總是
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = 僅在隱私瀏覽視窗
+    .accesskey = p
 content-blocking-tracking-protection-change-blocklist = 變更封鎖清單…
+content-blocking-reject-trackers-label = 第三方 Cookie
+    .accesskey = C
+content-blocking-reject-trackers-description = 封鎖所有第三方 Cookie，或只封鎖追蹤器設定的 Cookie
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = 目前會封鎖所有 Cookie。
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = 目前會封鎖來自未造訪過的網站的 Cookie。
+content-blocking-change-cookie-settings =
+    .label = 變更 Cookie 設定
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = 追蹤器（建議）
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = 追蹤器
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = 所有第三方 Cookie（可能會造成某些網站不正常）
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
