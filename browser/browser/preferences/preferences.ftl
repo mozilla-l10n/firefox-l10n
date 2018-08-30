@@ -669,14 +669,14 @@ content-blocking-category-label = Escolher o que bloquear
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Elementos lentos de rastreio
     .accesskey = s
-content-blocking-fastblock-description = Bloquear conteúdo de terceiros que levam mais de 5 segundos para carregar.
+content-blocking-fastblock-description = Bloqueia conteúdo de terceiros que levam mais de 5 segundos para carregar.
 content-blocking-fastblock-option-enabled =
     .label = Sempre bloquear
 content-blocking-fastblock-option-disabled =
     .label = Nunca bloquear
 content-blocking-tracking-protection-label = Rastreadores
     .accesskey = t
-content-blocking-tracking-protection-description = Bloquear todos os rastreadores conhecidos (Obs.: também pode impedir o carregamento de algumas páginas).
+content-blocking-tracking-protection-description = Bloqueia todos os rastreadores conhecidos (obs.: também pode impedir o carregamento de algumas páginas).
 content-blocking-tracking-protection-option-enabled =
     .label = Sempre bloquear
 content-blocking-tracking-protection-option-pbm =
