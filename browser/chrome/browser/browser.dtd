@@ -930,7 +930,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.detected "Blokkearbere ynhâld op dizze website detektearre.">
 <!ENTITY contentBlocking.notDetected "Gjin blokkearbere ynhâld op dizze side detektearre.">
 <!ENTITY contentBlocking.disabled.label "Utskeakele">
+<!ENTITY contentBlocking.disabled.tooltip "Jo hawwe ynhâldsblokkearring útskeakele.">
+<!ENTITY contentBlocking.exception.tooltip "Jo hawwe ynhâldsblokkearring foar dizze website útskeakele.">
 
+<!ENTITY contentBlocking.fastBlock.label "Stadich ladende trackers">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -943,26 +946,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Blokkearring tafoegje…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Alle detektearre trackers">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Blokkearre">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Blokkearring tafoegje…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Cookies fan tredden">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokkearre">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Blokkearring tafoegje…">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "In probleem rapportearje">
+<!ENTITY contentBlocking.breakageReportView.label "Problemen rapportearje">
+<!ENTITY contentBlocking.breakageReportView2.description "Ynhâldsblokkearring kin problemen mei bepaalde websites feroarsaakje. As jo problemen rapportearje, helpe jo &brandShortName; foar elkenien te ferbetterjen. (Hjirtroch wurdt sawol in URL as ynformaasje oer jo browserynstellingen nei Mozilla ferstjoerd.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Mear ynfo">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hokker problemen hiene jo? (Opsjoneel)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Rapport ferstjoere">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Annulearje">
 
 <!ENTITY trackingProtection.title "Beskerming tsjin folgjen">
 <!ENTITY trackingProtection.tooltip "Foarkarren Beskerming tsjin folgjen iepenje">
@@ -979,6 +996,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Foar dizze website útskeakelje">
 <!ENTITY trackingProtection.unblock3.accesskey "F">
+<!ENTITY trackingProtection.unblock4.label "Blokkearring foar dizze website útskeakelje">
+<!ENTITY trackingProtection.unblock4.accesskey "l">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -986,6 +1005,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "F">
 <!ENTITY trackingProtection.block4.label "Foar dizze website ynskeakelje">
 <!ENTITY trackingProtection.block4.accesskey "y">
+<!ENTITY trackingProtection.unblockPrivate4.label "Blokkearring tydlik útskeakelje">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "l">
+<!ENTITY trackingProtection.block5.label "Blokkearring foar dizze website ynskeakelje">
+<!ENTITY trackingProtection.block5.accesskey "k">
 <!ENTITY trackingProtection.reload2.label "Side opnij lade">
 <!ENTITY trackingProtection.reload2.accesskey "S">
 

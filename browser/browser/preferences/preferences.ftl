@@ -203,6 +203,9 @@ choose-button =
     .label = Kieze…
     .accesskey = i
 choose-browser-language-description = Kies de talen dy't brûkt wurde foar it werjaan fan menu’s, berjochten en notifikaasjes fan { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Alternativen ynstelle…
+    .accesskey = A
 confirm-browser-language-change-description = Start { -brand-short-name } opnij om dizze wizigingen ta te passen.
 confirm-browser-language-change-button = Tapasse en opnij starte
 translate-web-pages =
@@ -693,6 +696,15 @@ content-blocking-tracking-protection-option-private =
 content-blocking-tracking-protection-change-blocklist = Blokkearlist wizigje…
 content-blocking-reject-trackers-label = Cookies fan tredden
     .accesskey = C
+content-blocking-change-cookie-settings =
+    .label = Cookieynstellingen wizigje
+    .accesskey = C
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Trackers (oanrekommandearre)
+    .accesskey = T
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Trackers
+    .accesskey = c
 
 ## Privacy Section - Tracking
 
