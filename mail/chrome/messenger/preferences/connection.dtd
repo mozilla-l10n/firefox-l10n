@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "Tute nastajenje awtentizuje was w pozadku pola proksyjow, hdyž sće přizjwjenske daty za nje składował. Dóstanjeće informaciju, hdyž so awtentifikacija njeporadźi.">
 <!ENTITY  socksRemoteDNS.label          "Proksy-DNS, hdyž so SOCKS v5 wužiwa">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
+<!ENTITY  dnsOverHttps.label            "DNS přez HTTPS zmóžnić">
+<!ENTITY  dnsOverHttps.accesskey        "m">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL za rozpušćenje DNS přez HTTPS">
