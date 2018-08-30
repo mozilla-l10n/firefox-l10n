@@ -5,6 +5,9 @@
 languages-window =
     .title = Iaith
     .style = width: 30em
+webpage-languages-window =
+    .title = Gosodiadau Iaith Tudalen Gwe
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Mae tudalennau gwe weithiai'n cael eu cynnig mewn mwy nag un iaith. Dewiswch ieithoedd i'w harddangos, yn nhrefn dewis
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } Gosodiadau Iaith
+    .style = width: 40em
