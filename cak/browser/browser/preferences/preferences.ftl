@@ -670,6 +670,11 @@ content-blocking-category-label = Tacha' achike naq'ät
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Taq Ruch'akul Eqal Ojqanem
     .accesskey = E
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Eqal-Yesamajib'ëx Ojqanela'
+    .accesskey = E
 content-blocking-fastblock-description = Taq'ata' ri kipam aj rox winäq, ri niyoke' jotöl chi re ri 5 nich'ramaj richin nusamajib'ej.
 content-blocking-fastblock-option-enabled =
     .label = Junelïk tiq'at
@@ -684,7 +689,15 @@ content-blocking-tracking-protection-option-pbm =
     .label = Tiq'at xa xe pa ichinan taq tzuwäch
 content-blocking-tracking-protection-option-disabled =
     .label = Majub'ey tiq'at
+content-blocking-tracking-protection-option-always =
+    .label = Junelïk
+    .accesskey = J
+content-blocking-tracking-protection-option-private =
+    .label = Xa xe pa ichinan taq tzuwäch
+    .accesskey = i
 content-blocking-tracking-protection-change-blocklist = Tijal Rucholajem Q'atoj…
+content-blocking-reject-trackers-label = Kikaxlanwäy Aj Rox Winäq
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
