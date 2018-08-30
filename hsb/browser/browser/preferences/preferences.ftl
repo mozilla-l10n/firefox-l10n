@@ -632,6 +632,10 @@ sitedata-block-all-third-parties-option =
     .label = Wšě placki třećich
 sitedata-block-always-option =
     .label = Wšě placki (móže zawinować, zo websydła njefunguja)
+sitedata-block-all-third-party-option =
+    .label = Wšě placki třećich (móže zawinować, zo websydła
+sitedata-block-all-option =
+    .label = Wšě placki (budźe zawinować, zo websydła njefunguja)
 sitedata-clear =
     .label = Daty zhašeć…
     .accesskey = z
@@ -713,6 +717,10 @@ content-blocking-reject-trackers-label = Placki třećich poskićowarjow
 # of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
 # being selected in the Cookies and Site Data section of the UI.
 content-blocking-reject-trackers-warning-all-cookies-blocked = Wšě placki su tuchwilu zablokowane.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Placki z njewopytanych websydłow su tuchwilu zablokowane.
 content-blocking-change-cookie-settings =
     .label = Nastajenja plackow změnić
     .accesskey = N
@@ -722,6 +730,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Přesćěhowaki
     .accesskey = h
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Wšě placki třećich (móže zawinować, zo websydła njefunguja)
+    .accesskey = t
 
 ## Privacy Section - Tracking
 
