@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "Mae'r dewis hwn yn eich dilysu'n dawel i ddirprwyon rydych wedi eu cadw eu manylion ar eu cyfer. Byddwn yn gofyn os bydd y dilysiad yn methu.">
 <!ENTITY  socksRemoteDNS.label          "DNS dirprwyol pan y defnyddio SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
+<!ENTITY  dnsOverHttps.label            "Galluogi DNS dros HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "G">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL ar gyfer datrys DNS dros HTTPS">
