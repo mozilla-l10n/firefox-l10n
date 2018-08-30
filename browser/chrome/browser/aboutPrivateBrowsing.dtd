@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Priwatny modus">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Priwatne wokno wočinić?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Tuchwilu njejsće w priwatnym woknje.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Priwatne wokno wočinić">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
@@ -35,3 +30,5 @@
 <!ENTITY trackingProtection.title                        "Slědowanski škit">
 <!ENTITY trackingProtection.description2                 "Někotre websydła wužiwaja slědowanske programy, kotrež wašu aktiwitu w interneće dohladuja. Ze slědowanskim škitom Firefox budźe wjele slědowanskich programow blokować, kotrež móža daty wo wašim přehladowanskim zadźerženju nahromadźić.">
 <!ENTITY trackingProtection.startTour1                   "Wobhladajće sej, kak to funguje">
+
+<!ENTITY contentBlocking.title                           "Blokowanje wobsaha">
