@@ -30,3 +30,5 @@
 <!ENTITY trackingProtection.title                        "การป้องกันการติดตาม">
 <!ENTITY trackingProtection.description2                 "เว็บไซต์บางแห่งใช้ตัวติดตามที่สามารถเฝ้าสังเกตกิจกรรมของคุณทั่วทั้งอินเทอร์เน็ต ด้วยการป้องกันการติดตาม Firefox จะปิดกั้นตัวติดตามจำนวนมากที่สามารถเก็บรวบรวมข้อมูลเกี่ยวกับพฤติกรรมการท่องเว็บของคุณ">
 <!ENTITY trackingProtection.startTour1                   "ดูวิธีการทำงาน">
+
+<!ENTITY contentBlocking.title                           "การปิดกั้นเนื้อหา">
