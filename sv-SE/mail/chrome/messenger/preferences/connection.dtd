@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "Detta alternativ autentiserar dig automatiskt till proxier när du har sparat inloggningsuppgifter för dem. Du kommer att bli tillfrågad om autentiseringen misslyckas.">
 <!ENTITY  socksRemoteDNS.label          "Proxy DNS när du använder SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  dnsOverHttps.label            "Aktivera DNS över HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "v">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL för att lösa DNS över HTTPS">
