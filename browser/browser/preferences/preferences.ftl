@@ -6,6 +6,8 @@ do-not-track-description = Web sitelerine izlenmek istemediğimi bildiren “Do 
 do-not-track-learn-more = Daha fazla bilgi al
 do-not-track-option-default =
     .label = Yalnızca İzlenme Koruması’nı kullanırken
+do-not-track-option-default-content-blocking =
+    .label = Yalnızca { -brand-short-name } bulunan takipçileri engellemeye ayarlandığında
 do-not-track-option-always =
     .label = Her zaman
 pref-page =
@@ -203,6 +205,9 @@ choose-button =
     .label = Seç…
     .accesskey = S
 choose-browser-language-description = { -brand-short-name } menülerini, iletilerini ve bildirimlerini gösterirken kullanılacak dilleri seçin.
+manage-browser-languages-button =
+    .label = Alternatifleri ayarla…
+    .accesskey = l
 confirm-browser-language-change-description = Bu değişiklikleri uygulamak için { -brand-short-name } tarayıcısını yeniden başlatın
 confirm-browser-language-change-button = Uygula ve yeniden başlat
 translate-web-pages =
@@ -670,6 +675,11 @@ content-blocking-category-label = Nelerin engelleneceğini seçin
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Yavaş takipçi öğeleri
     .accesskey = Y
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Yavaş yüklenen takipçiler
+    .accesskey = Y
 content-blocking-fastblock-description = Yüklenmesi 5 saniyeden uzun süren üçüncü taraf içeriklerini engeller.
 content-blocking-fastblock-option-enabled =
     .label = Her zaman engelle
@@ -677,6 +687,8 @@ content-blocking-fastblock-option-disabled =
     .label = Asla engelleme
 content-blocking-tracking-protection-label = Takipçiler
     .accesskey = T
+content-blocking-tracking-protection-all-label = Bulunan tüm takipçiler
+    .accesskey = B
 content-blocking-tracking-protection-description = Bilinen tüm takipçileri engeller (Not: Bazı sayfaların yüklenmesini de engelleyebilir.)
 content-blocking-tracking-protection-option-enabled =
     .label = Her zaman engelle
@@ -684,7 +696,24 @@ content-blocking-tracking-protection-option-pbm =
     .label = Yalnızca gizli pencerelerde engelle
 content-blocking-tracking-protection-option-disabled =
     .label = Asla engelleme
+content-blocking-tracking-protection-option-always =
+    .label = Her zaman
+    .accesskey = H
+content-blocking-tracking-protection-option-private =
+    .label = Yalnızca gizli pencerelerde
+    .accesskey = z
 content-blocking-tracking-protection-change-blocklist = Engelleme listesini değiştir…
+content-blocking-reject-trackers-label = Üçüncü taraf çerezleri
+    .accesskey = Ü
+content-blocking-change-cookie-settings =
+    .label = Çerez ayarlarını değiştir
+    .accesskey = z
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Takipçiler (önerilen)
+    .accesskey = T
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Takipçiler
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
