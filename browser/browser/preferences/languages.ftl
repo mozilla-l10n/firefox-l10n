@@ -5,6 +5,11 @@
 languages-window =
     .title = Sprog
     .style = width: 30em
+
+webpage-languages-window =
+    .title = Indstillinger for sprog på websider
+    .style = width: 40em
+
 languages-close-key =
     .key = w
 languages-description = Websider tilbydes nogle gange på mere end et sprog. Vælg de sprog, du ønsker siderne vist på, i prioriteret rækkefølge
@@ -39,3 +44,9 @@ languages-code-format =
 
 languages-active-code-format =
     .value = { languages-code-format.label }
+
+browser-languages-window =
+    .title = Indstillinger for sprog i { -brand-short-name }
+    .style = width: 40em
+
+browser-languages-description = { -brand-short-name } vil som standard vise det første og vil om nødvendigt vise sprog-alternativer i den rækkefølge, de optræder.

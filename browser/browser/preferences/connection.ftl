@@ -81,3 +81,11 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = Proxy-DNS ved brug af SOCKS v5
     .accesskey = D
+
+connection-dns-over-https =
+    .label = Aktiver DNS via HTTPS
+    .accesskey = H
+
+connection-dns-over-https-url = URL
+    .accesskey = U
+    .tooltiptext = URL til at løse DNS via HTTPS

@@ -90,7 +90,10 @@ permissions-exceptions-autoplay-media-window =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Du kan angive, hvilke websteder der har lov til automatisk at afspille medie-elementer. Indtast adressen på det websted, du vil give tilladelse, og klik så på Tillad.
 
-permissions-exceptions-autoplay-media-desc2 = Du kan angive, hvilke websteder der har lov til automatisk at afspille media-elementer med lyd. Indtast adressen på det websted, du vil give tilladelse, og klik så på Tillad.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Undtagelser - automatisk afspilning
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc2 = Du kan angive, hvilke websteder der  altid eller aldrig har lov til automatisk at afspille media-elementer med lyd. Indtast adressen på det websted, du vil give tilladelse, og klik så på Bloker eller Tillad.
 
 ## Site Permissions - Notifications
 
