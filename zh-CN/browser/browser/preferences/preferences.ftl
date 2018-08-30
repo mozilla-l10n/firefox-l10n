@@ -6,6 +6,8 @@ do-not-track-description = 向网站发出“请勿跟踪”信号，示明您�
 do-not-track-learn-more = 详细了解
 do-not-track-option-default =
     .label = 仅限使用跟踪保护时
+do-not-track-option-default-content-blocking =
+    .label = 仅当 { -brand-short-name } 设为拦截检测到的跟随器
 do-not-track-option-always =
     .label = 始终
 pref-page =
@@ -619,6 +621,10 @@ sitedata-block-all-third-parties-option =
     .label = 所有第三方 Cookie
 sitedata-block-always-option =
     .label = 所有 Cookie（可能导致网站异常）
+sitedata-block-all-third-party-option =
+    .label = 所有第三方 Cookie（可能导致网站异常）
+sitedata-block-all-option =
+    .label = 所有 Cookie（将会导致网站异常）
 sitedata-clear =
     .label = 清除数据…
     .accesskey = l
@@ -666,12 +672,19 @@ content-blocking-category-label = 选择要拦截的内容
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = 减慢加载的跟踪元素
     .accesskey = S
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = 减慢加载的跟踪器
+    .accesskey = S
 content-blocking-fastblock-description = 拦截加载时间超过 5 秒的第三方内容。
 content-blocking-fastblock-option-enabled =
     .label = 始终拦截
 content-blocking-fastblock-option-disabled =
     .label = 永不拦截
 content-blocking-tracking-protection-label = 跟踪器
+    .accesskey = T
+content-blocking-tracking-protection-all-label = 检测到的所有跟踪器
     .accesskey = T
 content-blocking-tracking-protection-description = 拦截已知的所有跟踪器（注意：可能影响某些页面的加载）。
 content-blocking-tracking-protection-option-enabled =
@@ -680,7 +693,18 @@ content-blocking-tracking-protection-option-pbm =
     .label = 仅在隐私浏览窗口中拦截
 content-blocking-tracking-protection-option-disabled =
     .label = 永不拦截
+content-blocking-tracking-protection-option-always =
+    .label = 始终
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = 仅在隐私窗口中
+    .accesskey = P
 content-blocking-tracking-protection-change-blocklist = 更换拦截列表…
+content-blocking-reject-trackers-label = 第三方 Cookie
+    .accesskey = C
+content-blocking-reject-trackers-block-trackers-option =
+    .label = 跟踪器
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
