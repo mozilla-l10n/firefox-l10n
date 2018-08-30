@@ -6,6 +6,8 @@ do-not-track-description = Send websteder signalet 'Spor mig ikke' ('Do not trac
 do-not-track-learn-more = Læs mere
 do-not-track-option-default =
     .label = Kun når jeg bruger beskyttelse mod sporing
+do-not-track-option-default-content-blocking =
+    .label = Kun når { -brand-short-name } er indstillet til at blokere fundne sporings-elementer
 do-not-track-option-always =
     .label = Altid
 pref-page =
@@ -221,6 +223,9 @@ choose-button =
     .accesskey = æ
 
 choose-browser-language-description = Vælg det sprog, der skal bruges i brugerfladen i { -brand-short-name }
+manage-browser-languages-button =
+  .label = Vælg alternativer…
+  .accesskey = l
 confirm-browser-language-change-description = Genstart { -brand-short-name } for at anvende ændringerne
 confirm-browser-language-change-button = Genstart
 
@@ -340,6 +345,9 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Netværks-proxy
+
+network-settings-title = Netværks-indstillinger
+
 network-proxy-connection-description = Indstil hvordan { -brand-short-name } skal oprette forbindelse til internettet.
 network-proxy-connection-learn-more = Læs mere
 network-proxy-connection-settings =
@@ -631,6 +639,36 @@ sitedata-accept-third-party-visited-option =
     .label = Fra besøgte
 sitedata-accept-third-party-never-option =
     .label = Aldrig
+
+sitedata-allow-cookies-option =
+    .label = Accepter cookies og websteds-data
+    .accesskey = A
+
+sitedata-disallow-cookies-option =
+    .label = Bloker cokkies og websteds-data
+    .accesskey = B
+
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Type blokeret
+    .accesskey = T
+
+sitedata-block-trackers-option-recommended =
+    .label =  Tredjeparts sporings-tjenester (anbefalet)
+sitedata-block-trackers-option =
+    .label = Tredjeparts sporings-tjenester
+sitedata-block-unvisited-option =
+    .label = Cookies fra ikke-besøgte websteder
+sitedata-block-all-third-parties-option =
+    .label = Alle tredjeparts-cookies
+sitedata-block-always-option =
+    .label = Alle cookies (kan forhindre websteder i at fungere)
+
+sitedata-block-all-third-party-option =
+    .label = Alle tredjeparts-cookies (kan forhindre websteder i at fungere)
+sitedata-block-all-option =
+    .label = Alle cookies (vil forhindre websteder i at fungere)
+
 sitedata-clear =
     .label = Ryd data…
     .accesskey = R
@@ -684,6 +722,8 @@ content-blocking-category-label = Vælg hvad der skal blokeres
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Langsomme sporings-elementer
   .accesskey = L
+content-blocking-fastblock-slow-loading-label = Langsomt inlæste sprorings-elementer
+  .accesskey = L
 content-blocking-fastblock-description = Bloker indhold fra tredjepart, hvis det tager længere end fem sekunder at indlæse
 content-blocking-fastblock-option-enabled =
   .label = Bloker altid
@@ -692,6 +732,8 @@ content-blocking-fastblock-option-disabled =
 
 content-blocking-tracking-protection-label = Sporings-tjenester
   .accesskey = p
+content-blocking-tracking-protection-all-label = Alle fundne sporings-tjenester
+  .accesskey = p
 content-blocking-tracking-protection-description = Bloker alle kendte sporings-tjenester (NB: Kan forhindre nogle sider i at blive indlæst).
 content-blocking-tracking-protection-option-enabled =
   .label = Bloker altid
@@ -699,7 +741,37 @@ content-blocking-tracking-protection-option-pbm =
   .label = Bloker kun i private vinduer
 content-blocking-tracking-protection-option-disabled =
   .label = Bloker aldrig
+content-blocking-tracking-protection-option-always =
+  .label = Altid
+  .accesskey = A
+content-blocking-tracking-protection-option-private =
+  .label = Kun i private vinduer
+  .accesskey = p
 content-blocking-tracking-protection-change-blocklist = Skift blokeringsliste…
+
+content-blocking-reject-trackers-label = Tredjeparts-cookies
+  .accesskey = c
+content-blocking-reject-trackers-description = Block all third-party cookies or just those set by trackers.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = Alle cookies blokeres i øjeblikket
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Cookies fra ikke besøgte websteder bliver blokeret i øjbelikket.
+content-blocking-change-cookie-settings =
+  .label = Skift indstillinger for cookies
+  .accesskey = i
+content-blocking-reject-trackers-block-trackers-option-recommended =
+  .label = Sporings-elementer (anbefalet)
+  .accesskey = p
+content-blocking-reject-trackers-block-trackers-option =
+  .label = Sporings-elementer
+  .accesskey = p
+content-blocking-reject-trackers-all-third-parties-option =
+  .label = Alle tredjeparts-cookies (kan forhindre websteder i at fungere)
+  .accesskey = A
 
 ## Privacy Section - Tracking
 
@@ -765,6 +837,8 @@ autoplay-option-block =
     .label = Bloker automatisk afspilning
 autoplay-option-dont =
     .label = Afspil ikke automatisk
+
+permissions-autoplay-link = Læs mere
 
 permissions-notification-pause =
     .label = Sæt beskeder på pause, indtil { -brand-short-name } starter igen
