@@ -44,3 +44,4 @@ languages-active-code-format =
 browser-languages-window =
     .title = Rěčne nastajenja { -brand-short-name }
     .style = width: 40em
+browser-languages-description = { -brand-short-name } pokaza prěnju rěč jako waš standard a dalše rěče, jeli trjeba, w porjedźe, w kotrymž so jewja.

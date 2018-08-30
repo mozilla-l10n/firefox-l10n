@@ -6,6 +6,8 @@ do-not-track-description = Websydłam signal “Njeslědować” pósłać, zo n
 do-not-track-learn-more = Dalše informacije
 do-not-track-option-default =
     .label = Jenož, hdyž so slědowanski škit wužiwa
+do-not-track-option-default-content-blocking =
+    .label = Jenož, hdyž je w { -brand-short-name } nastajene, zo so wotkryte přesćěhowaki blokuja.
 do-not-track-option-always =
     .label = Přeco
 pref-page =
@@ -713,6 +715,7 @@ content-blocking-tracking-protection-option-private =
 content-blocking-tracking-protection-change-blocklist = Lisćinu blokowanjow změnić…
 content-blocking-reject-trackers-label = Placki třećich poskićowarjow
     .accesskey = c
+content-blocking-reject-trackers-description = Wšě placki třećich blokować abo jenož te, kotrež přesćěhowaki su stajili.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
 # of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
 # being selected in the Cookies and Site Data section of the UI.
