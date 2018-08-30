@@ -6,6 +6,8 @@ do-not-track-description = Lähetä sivustoille Älä seuraa -signaali, että et
 do-not-track-learn-more = Lue lisää
 do-not-track-option-default =
     .label = Vain käytettäessä seurannan suojausta
+do-not-track-option-default-content-blocking =
+    .label = Vain, kun { -brand-short-name } on asetettu estämään havaitut seuraimet
 do-not-track-option-always =
     .label = Aina
 pref-page =
@@ -203,6 +205,9 @@ choose-button =
     .label = Valitse…
     .accesskey = V
 choose-browser-language-description = Valitse kielet, joilla { -brand-short-name }in valikot, viestit ja ilmoitukset näytetään.
+manage-browser-languages-button =
+    .label = Valitse lisäkielet…
+    .accesskey = k
 confirm-browser-language-change-description = Käytä näitä muutoksia käynnistämällä { -brand-short-name } uudestaan
 confirm-browser-language-change-button = Käytä ja käynnistä uudestaan
 translate-web-pages =
@@ -623,6 +628,10 @@ sitedata-block-all-third-parties-option =
     .label = Kaikki kolmannen osapuolen evästeet
 sitedata-block-always-option =
     .label = Kaikki evästeet (voi aiheuttaa sivustojen toimimattomuutta)
+sitedata-block-all-third-party-option =
+    .label = Kaikki kolmannen osapuolen evästeet (voi aiheuttaa sivustojen toimimattomuutta)
+sitedata-block-all-option =
+    .label = Kaikki evästeet (aiheuttaa sivustojen toimimattomutta)
 sitedata-clear =
     .label = Tyhjennä tiedot…
     .accesskey = y
@@ -670,6 +679,11 @@ content-blocking-category-label = Valitse, mitä estetään
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Hitaat seurantaelementit
     .accesskey = H
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Hitaasti latautuvat seuraimet
+    .accesskey = H
 content-blocking-fastblock-description = Estää kolmannen osapuolen sisällön, jonka latautumisessa kestää pidempään kuin 5 sekuntia.
 content-blocking-fastblock-option-enabled =
     .label = Estä aina
@@ -677,6 +691,8 @@ content-blocking-fastblock-option-disabled =
     .label = Älä estä koskaan
 content-blocking-tracking-protection-label = Seuraimet
     .accesskey = S
+content-blocking-tracking-protection-all-label = Kaikki havaitut seuraimet
+    .accesskey = s
 content-blocking-tracking-protection-description = Estää tunnetut seuraimet (huomaa: voi estää joitain sivuja latautumasta).
 content-blocking-tracking-protection-option-enabled =
     .label = Estä aina
@@ -684,7 +700,36 @@ content-blocking-tracking-protection-option-pbm =
     .label = Estä vain yksityisissä ikkunoissa
 content-blocking-tracking-protection-option-disabled =
     .label = Älä estä koskaan
+content-blocking-tracking-protection-option-always =
+    .label = Aina
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Vain yksityisissä ikkunoissa
+    .accesskey = y
 content-blocking-tracking-protection-change-blocklist = Muuta estolistaa…
+content-blocking-reject-trackers-label = Kolmannen osapuolen evästeet
+    .accesskey = K
+content-blocking-reject-trackers-description = Estää kaikki kolmannen osapuolen evästeet tai vain seurainten asettamat evästeet.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = Kaikki evästeet on estetty.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Evästeet vierailemattomilta sivustoilta on estetty.
+content-blocking-change-cookie-settings =
+    .label = Muuta evästeasetuksia
+    .accesskey = M
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Seuraimet (suositus)
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Seuraimet
+    .accesskey = S
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Kaikki kolmannen osapuolen evästeet (voi aiheuttaa sivustojen toimimattomuutta)
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
