@@ -72,4 +72,4 @@ connection-dns-over-https =
     .accesskey = H
 connection-dns-over-https-url = 網址
     .accesskey = U
-    .tooltiptext = 用來解析 DNS over HTTPS 的網址
+    .tooltiptext = 用來解析 DNS 的 HTTPS 網址
