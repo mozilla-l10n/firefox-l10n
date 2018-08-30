@@ -6,6 +6,8 @@ do-not-track-description = Enviar a los sitios web una señal de “No rastrear�
 do-not-track-learn-more = Aprender más
 do-not-track-option-default =
     .label = Solo al usar Protección contra el Rastreo
+do-not-track-option-default-content-blocking =
+    .label = Solo cuando { -brand-short-name } está establecido para bloquear rastreadores detectados
 do-not-track-option-always =
     .label = Siempre
 pref-page =
@@ -203,6 +205,9 @@ choose-button =
     .label = Seleccionar…
     .accesskey = o
 choose-browser-language-description = Elegir los idiomas usados para mostrar menús, mensajes y notificaciones de { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Establecer alternativos
+    .accesskey = l
 confirm-browser-language-change-description = Reiniciar { -brand-short-name } para aplicar los cambios
 confirm-browser-language-change-button = Aplicar y reiniciar
 translate-web-pages =
@@ -623,6 +628,10 @@ sitedata-block-all-third-parties-option =
     .label = Todas las cookies de terceros
 sitedata-block-always-option =
     .label = Todas las cookies (pueden causar errores en los sitios web)
+sitedata-block-all-third-party-option =
+    .label = Todas las cookies de terceros (puede causar errores en los sitios web)
+sitedata-block-all-option =
+    .label = Todas las cookies (causará errores en los sitios web)
 sitedata-clear =
     .label = Limpiar datos…
     .accesskey = l
@@ -670,6 +679,11 @@ content-blocking-category-label = Elegir que bloquear
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Elementos de rastreo lentos
     .accesskey = E
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Rastreadores de carga lenta
+    .accesskey = S
 content-blocking-fastblock-description = Bloquear el contenido de terceros que tardan más de 5 segundos en cargarse.
 content-blocking-fastblock-option-enabled =
     .label = Siempre bloquear
@@ -677,6 +691,8 @@ content-blocking-fastblock-option-disabled =
     .label = Nunca bloquear
 content-blocking-tracking-protection-label = Rastreadores
     .accesskey = R
+content-blocking-tracking-protection-all-label = Todos los rastreadores detectados
+    .accesskey = T
 content-blocking-tracking-protection-description = Bloquear todos los rastreadores conocidos (Nota: puede también prevenir algunas páginas al cargar).
 content-blocking-tracking-protection-option-enabled =
     .label = Siempre bloquear
@@ -684,7 +700,36 @@ content-blocking-tracking-protection-option-pbm =
     .label = Bloquear solo en ventanas privadas
 content-blocking-tracking-protection-option-disabled =
     .label = Siempre bloquear
+content-blocking-tracking-protection-option-always =
+    .label = Siempre
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Solo en ventanas privadas
+    .accesskey = p
 content-blocking-tracking-protection-change-blocklist = Cambiar lista de bloqueo...
+content-blocking-reject-trackers-label = Cookies de terceros
+    .accesskey = C
+content-blocking-reject-trackers-description = Bloquear todas las cookies de terceros o solo aquellas establecidas por los rastreadores.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = Todas las cookies están actualmente bloqueadas.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Cookies de sitios sin visitar están actualmente bloqueadas.
+content-blocking-change-cookie-settings =
+    .label = Cambiar configuración de cookies
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Rastreadores (recomendado)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Rastreadores
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Todas las cookies de terceros (puede causar errores en los sitios web)
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
