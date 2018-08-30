@@ -5,6 +5,9 @@
 languages-window =
     .title = Nyelvek
     .style = width: 30em
+webpage-languages-window =
+    .title = Weblap nyelvi beállításai
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = A weboldalak néha több nyelven is elérhetőek. Adja meg sorrendben azokat a nyelveket, amelyeken az ilyen weboldalakat meg szeretné tekinteni
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } nyelvi beállítások
+    .style = width: 40em
