@@ -67,3 +67,6 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = DNS ແບບພຣັອກຊີເມື່ອໃຊ້ SOCKS v5
     .accesskey = D
+connection-dns-over-https-url = URL
+    .accesskey = U
+    .tooltiptext = URL ສຳລັບ resolving DNS over HTTPS
