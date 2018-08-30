@@ -675,7 +675,22 @@ content-blocking-tracking-protection-option-pbm =
     .label = ปิดกั้นเฉพาะในหน้าต่างส่วนตัว
 content-blocking-tracking-protection-option-disabled =
     .label = ไม่ปิดกั้นเสมอ
+content-blocking-tracking-protection-option-always =
+    .label = เสมอ
+    .accesskey = ส
+content-blocking-tracking-protection-option-private =
+    .label = เฉพาะในหน้าต่างส่วนตัว
+    .accesskey = พ
 content-blocking-tracking-protection-change-blocklist = เปลี่ยนรายการปิดกั้น…
+content-blocking-change-cookie-settings =
+    .label = เปลี่ยนการตั้งค่าคุกกี้
+    .accesskey = ป
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = ตัวติดตาม (แนะนำ)
+    .accesskey = ต
+content-blocking-reject-trackers-block-trackers-option =
+    .label = ตัวติดตาม
+    .accesskey = ต
 
 ## Privacy Section - Tracking
 
