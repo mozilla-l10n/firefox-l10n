@@ -677,6 +677,8 @@ content-blocking-fastblock-option-disabled =
     .label = Blokker aldri
 content-blocking-tracking-protection-label = Sporfølgjarar
     .accesskey = S
+content-blocking-tracking-protection-all-label = Alltid oppdag sporfølgjarar
+    .accesskey = A
 content-blocking-tracking-protection-description = Blokkerer alle kjende sporfølgjarar (Merk: kan òg hindre at nokre sider vert lasta inn).
 content-blocking-tracking-protection-option-enabled =
     .label = Alltid blokker
@@ -684,7 +686,18 @@ content-blocking-tracking-protection-option-pbm =
     .label = Blokker berre i private vindauge
 content-blocking-tracking-protection-option-disabled =
     .label = Blokker aldri
+content-blocking-tracking-protection-option-always =
+    .label = Alltid
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Berre i private vindauge
+    .accesskey = B
 content-blocking-tracking-protection-change-blocklist = Endre blokkeringsliste…
+content-blocking-reject-trackers-label = Infokapslar frå tredjepart
+    .accesskey = I
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Sporfølgjarar
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
