@@ -698,6 +698,15 @@ content-blocking-tracking-protection-option-private =
 content-blocking-tracking-protection-change-blocklist = Tijal Rucholajem Q'atoj…
 content-blocking-reject-trackers-label = Kikaxlanwäy Aj Rox Winäq
     .accesskey = K
+content-blocking-change-cookie-settings =
+    .label = Kek'ëx ri taq Runuk'ulem Kaxlanwäy
+    .accesskey = R
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Ojqanela' (chilab'en)
+    .accesskey = n
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Ojqanela'
+    .accesskey = n
 
 ## Privacy Section - Tracking
 

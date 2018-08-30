@@ -30,3 +30,5 @@
 <!ENTITY trackingProtection.title                        "Chajinïk chuwäch Ojqanïk">
 <!ENTITY trackingProtection.description2                 "Jujun ajk'amaya'l ruxaq nikokisaj ojqanela', ri yetikïr nikinik'oj ri asamaj pa k'amaya'l. Rik'in Chajinïk chuwäch Ojqanïk ri Firefox xkeruq'ät k'ïy taq ojqanela', ri yetikïr nikimöl etamab'äl chi rij rub'anikil runa'oj ri okem pa k'amaya'l.">
 <!ENTITY trackingProtection.startTour1                   "Tatz'eta' rub'eyal nisamäj">
+
+<!ENTITY contentBlocking.title                           "Ruq'atik Rupam">
