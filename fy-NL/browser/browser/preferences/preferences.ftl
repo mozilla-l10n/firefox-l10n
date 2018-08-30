@@ -684,7 +684,15 @@ content-blocking-tracking-protection-option-pbm =
     .label = Allinnich blokkearje yn priveefinsters
 content-blocking-tracking-protection-option-disabled =
     .label = Nea blokkearje
+content-blocking-tracking-protection-option-always =
+    .label = Altyd
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Allinnich yn priveefinsters
+    .accesskey = p
 content-blocking-tracking-protection-change-blocklist = Blokkearlist wizigje…
+content-blocking-reject-trackers-label = Cookies fan tredden
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
