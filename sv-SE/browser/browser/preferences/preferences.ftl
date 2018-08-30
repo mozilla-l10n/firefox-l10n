@@ -6,6 +6,8 @@ do-not-track-description = Skicka webbplatser en “Spåra inte”-signal att du
 do-not-track-learn-more = Läs mer
 do-not-track-option-default =
     .label = Bara när du använder spårningsskydd
+do-not-track-option-default-content-blocking =
+    .label = Endast när { -brand-short-name } är inställt för att blockera upptäckta trackers
 do-not-track-option-always =
     .label = Alltid
 pref-page =
@@ -203,6 +205,9 @@ choose-button =
     .label = Välj…
     .accesskey = V
 choose-browser-language-description = Välj språk som används för att visa menyer, meddelanden och avisering från { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Ange alternativ…
+    .accesskey = A
 confirm-browser-language-change-description = Starta om { -brand-short-name } för att tillämpa ändringarna
 confirm-browser-language-change-button = Tillämpa och starta om
 translate-web-pages =
@@ -623,6 +628,10 @@ sitedata-block-all-third-parties-option =
     .label = Alla kakor från tredje part
 sitedata-block-always-option =
     .label = Alla kakor (kan orsaka fel på webbplatser)
+sitedata-block-all-third-party-option =
+    .label = Alla kakor från tredje part (kan orsaka fel på webbplatser)
+sitedata-block-all-option =
+    .label = Alla kakor (kommer att orsaka fel på webbplatser)
 sitedata-clear =
     .label = Rensa data…
     .accesskey = R
@@ -670,6 +679,11 @@ content-blocking-category-label = Välj vad som ska blockeras
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Långsamma spårningselement
     .accesskey = L
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Långsamma trackers
+    .accesskey = L
 content-blocking-fastblock-description = Blockerar innehåll från tredje part som tar längre tid än 5 sekunder att ladda.
 content-blocking-fastblock-option-enabled =
     .label = Blockera alltid
@@ -677,6 +691,8 @@ content-blocking-fastblock-option-disabled =
     .label = Blockera aldrig
 content-blocking-tracking-protection-label = Trackers
     .accesskey = T
+content-blocking-tracking-protection-all-label = Alla upptäckta trackers
+    .accesskey = A
 content-blocking-tracking-protection-description = Blockerar alla kända trackers (Obs: kan också hindra att vissa sidor laddas).
 content-blocking-tracking-protection-option-enabled =
     .label = Blockera alltid
@@ -688,11 +704,32 @@ content-blocking-tracking-protection-option-always =
     .label = Alltid
     .accesskey = A
 content-blocking-tracking-protection-option-private =
-    .label = Bara i privata fönster
+    .label = Endast i privata fönster
     .accesskey = p
 content-blocking-tracking-protection-change-blocklist = Ändra blockeringslista…
 content-blocking-reject-trackers-label = Kakor från tredje part
     .accesskey = C
+content-blocking-reject-trackers-description = Blockera alla kakor från tredje part eller endast de som använts av trackers
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = Alla kakor är för tillfället blockerade.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Kakor från obesökta webbplatser blockeras för tillfället.
+content-blocking-change-cookie-settings =
+    .label = Ändra kakinställningar
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Trackers (rekommenderas)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Trackers
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Alla kakor från tredje part (kan orsaka fel på webbplatser)
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
