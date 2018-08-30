@@ -6,6 +6,8 @@ do-not-track-description = Anfon neges “Dim Tracio” at wefannau nad ydych am
 do-not-track-learn-more = Dysgu rhagor
 do-not-track-option-default =
     .label = Dim ond pan yn defnyddio Diogelwch rhag Tracio
+do-not-track-option-default-content-blocking =
+    .label = Dim ond pan fydd { -brand-short-name } wedi ei osod i rwystro Tracwyr Wedi eu Canfod
 do-not-track-option-always =
     .label = Bob tro
 pref-page =
@@ -215,6 +217,9 @@ choose-button =
     .label = Dewis…
     .accesskey = D
 choose-browser-language-description = Dewiswch yr iaith i ddangos dewislenni, negeseuon a hysbysiadau gan { -brand-short-name }
+manage-browser-languages-button =
+    .label = Gosod Rhai Eraill
+    .accesskey = G
 confirm-browser-language-change-description = Ailgychwyn { -brand-short-name } i osod y newidiadau hyn
 confirm-browser-language-change-button = Gosod ac Ailgychwyn
 translate-web-pages =
@@ -635,6 +640,10 @@ sitedata-block-all-third-parties-option =
     .label = Holl gwcis trydydd parti
 sitedata-block-always-option =
     .label = Pob cwci (gall achosi i wefannau dorri)
+sitedata-block-all-third-party-option =
+    .label = Holl gwcis trydydd parti (gall achosi i'r wefan dorri)
+sitedata-block-all-option =
+    .label = Pob cwci (bydd yn achosi i wefannau dorri)
 sitedata-clear =
     .label = Clirio Data…
     .accesskey = l
@@ -682,6 +691,11 @@ content-blocking-category-label = Dewis beth i'w rwystro
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Elfennau Tracio Araf
     .accesskey = E
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Tracwyr sy'n Llwytho'n Araf
+    .accesskey = L
 content-blocking-fastblock-description = Yn rhwystro cynnwys trydydd parti sy'n cymryd mwy na 5 eiliad i lwytho.
 content-blocking-fastblock-option-enabled =
     .label = Rhwystro bob tro
@@ -689,6 +703,8 @@ content-blocking-fastblock-option-disabled =
     .label = Byth rhwystro
 content-blocking-tracking-protection-label = Tracwyr
     .accesskey = T
+content-blocking-tracking-protection-all-label = Pob Traciwr wedi eu Canfod
+    .accesskey = P
 content-blocking-tracking-protection-description = Rhwystro pob traciwr hysbys (Sylw: gall rwystro rhai tudalennau rhag llwytho).
 content-blocking-tracking-protection-option-enabled =
     .label = Rhwystro bob tro
@@ -696,7 +712,36 @@ content-blocking-tracking-protection-option-pbm =
     .label = Rhwystro mewn ffenestri preifat yn unig
 content-blocking-tracking-protection-option-disabled =
     .label = Byth rhwystro
+content-blocking-tracking-protection-option-always =
+    .label = Bob tro
+    .accesskey = B
+content-blocking-tracking-protection-option-private =
+    .label = Dim ond mewn ffenestri preifat
+    .accesskey = D
 content-blocking-tracking-protection-change-blocklist = Newid y Rhestr Rhwystro...
+content-blocking-reject-trackers-label = Cwcis Trydydd Parti
+    .accesskey = C
+content-blocking-reject-trackers-description = Rhwystro pob cwci trydydd parti neu dim ond y rheini sydd wedi eu gosod gan dracwyr.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = Mae pob cwci wedi eu rhwystro ar hyn o bryd.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Mae cwcis o wefannau heb ymweld â nhw wedi eu rhwystro ar hyn o bryd.
+content-blocking-change-cookie-settings =
+    .label = Newid y Gosodiadau Cwci
+    .accesskey = N
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Tracwyr (argymell)
+    .accesskey = T
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Tracwyr
+    .accesskey = r
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Pob cwci trydydd parti (gall achosi i wefannau dorri)
+    .accesskey = P
 
 ## Privacy Section - Tracking
 
