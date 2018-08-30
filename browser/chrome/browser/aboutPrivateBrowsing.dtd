@@ -30,3 +30,6 @@
 <!ENTITY trackingProtection.title                        "Seurannan suojaus">
 <!ENTITY trackingProtection.description2                 "Jotkin sivustot käyttävät seuraimia, joiden avulla ne voivat tarkkailla, mitä teet Internetissä. Seurannan suojauksen avulla Firefox estää monia seuraimia, jotka keräävät tietoa selaamisestasi.">
 <!ENTITY trackingProtection.startTour1                   "Lue, kuinka tämä toimii">
+
+<!ENTITY contentBlocking.title                           "Sisällön esto">
+<!ENTITY contentBlocking.description                     "Jotkin sivustot käyttävät seuraimia, jotka tarkkailevat tekemisiäsi ympäri internetiä. Kun käytät yksityistä ikkunaa, Firefoxin sisällön esto estää automaattisesti monia seuraimia, jotka keräävät tietoja selaamisestasi.">

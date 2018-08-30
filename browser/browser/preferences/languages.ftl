@@ -44,3 +44,4 @@ languages-active-code-format =
 browser-languages-window =
     .title = { -brand-short-name }in kieliasetukset
     .style = width: 40em
+browser-languages-description = { -brand-short-name } käyttää ensimmäistä kieltä oletuksena ja muita kieliä tarvittaessa niiden esiintymisjärjestyksessä.
