@@ -4,7 +4,10 @@
 
 languages-window =
     .title = Lingue
-    .style = width: 36.3em
+    .style = width: 37em
+webpage-languages-window =
+    .title = Impostazioni lingue per pagine web
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Le pagine web sono spesso disponibili in più lingue. È possibile scegliere la lingua predefinita per queste pagine, in ordine di preferenza
@@ -39,3 +42,9 @@ languages-code-format =
 
 languages-active-code-format =
     .value = { languages-code-format.label }
+
+browser-languages-window =
+    .title = Impostazioni lingue per { -brand-short-name }
+    .style = width: 40em
+
+browser-languages-description = { -brand-short-name } utilizzerà la prima lingua come predefinita, mentre le altre lingue verranno utilizzate, se necessario, nell’ordine in cui sono visualizzate.
