@@ -6,6 +6,8 @@ do-not-track-description = Send websites a “Do Not Track” signal that you do
 do-not-track-learn-more = Learn more
 do-not-track-option-default =
     .label = Only when using Tracking Protection
+do-not-track-option-default-content-blocking =
+    .label = Only when { -brand-short-name } is set to block Detected Trackers
 do-not-track-option-always =
     .label = Always
 pref-page =
@@ -203,6 +205,9 @@ choose-button =
     .label = Choose…
     .accesskey = o
 choose-browser-language-description = Choose the languages used to display menus, messages, and notifications from { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Set Alternatives…
+    .accesskey = l
 confirm-browser-language-change-description = Restart { -brand-short-name } to apply these changes
 confirm-browser-language-change-button = Apply and Restart
 translate-web-pages =
@@ -623,6 +628,10 @@ sitedata-block-all-third-parties-option =
     .label = All third-party cookies
 sitedata-block-always-option =
     .label = All cookies (may cause websites to break)
+sitedata-block-all-third-party-option =
+    .label = All third-party cookies (may cause websites to break)
+sitedata-block-all-option =
+    .label = All cookies (will cause websites to break)
 sitedata-clear =
     .label = Clear Data…
     .accesskey = l
@@ -670,12 +679,19 @@ content-blocking-category-label = Choose what to block
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Slow Tracking Elements
     .accesskey = S
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Slow-Loading Trackers
+    .accesskey = S
 content-blocking-fastblock-description = Blocks third-party content that takes longer than 5 seconds to load.
 content-blocking-fastblock-option-enabled =
     .label = Always block
 content-blocking-fastblock-option-disabled =
     .label = Never block
 content-blocking-tracking-protection-label = Trackers
+    .accesskey = T
+content-blocking-tracking-protection-all-label = All Detected Trackers
     .accesskey = T
 content-blocking-tracking-protection-description = Blocks all known trackers (Note: may also prevent some pages from loading).
 content-blocking-tracking-protection-option-enabled =
@@ -684,7 +700,36 @@ content-blocking-tracking-protection-option-pbm =
     .label = Block only in private windows
 content-blocking-tracking-protection-option-disabled =
     .label = Never block
+content-blocking-tracking-protection-option-always =
+    .label = Always
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Only in private windows
+    .accesskey = p
 content-blocking-tracking-protection-change-blocklist = Change Block List…
+content-blocking-reject-trackers-label = Third-Party Cookies
+    .accesskey = C
+content-blocking-reject-trackers-description = Block all third-party cookies or just those set by trackers.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = All cookies are currently blocked.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Cookies from unvisited websites are currently blocked.
+content-blocking-change-cookie-settings =
+    .label = Change Cookie Settings
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Trackers (recommended)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Trackers
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = All third-party cookies (may cause websites to break)
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
