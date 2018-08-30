@@ -45,3 +45,8 @@
 <!ENTITY autologinproxy.tooltip "Umożliwia automatyczne uwierzytelnianie na serwerach proxy, jeśli wcześniej zostały zachowane dane logowania. W przypadku nieudanego uwierzytelniania zostanie wyświetlone standardowe pytanie.">
 <!ENTITY socksRemoteDNS.label "Proxy DNS podczas używania SOCKS v5">
 <!ENTITY socksRemoteDNS.accesskey "x">
+<!ENTITY dnsOverHttps.label "Włącz DNS przez HTTPS">
+<!ENTITY dnsOverHttps.accesskey "W">
+<!ENTITY dnsOverHttpsUrl.label "Adres URL">
+<!ENTITY dnsOverHttpsUrl.accesskey "A">
+<!ENTITY dnsOverHttpsUrl.tooltip "Adres URL do rozwiązywania DNS przez HTTPS">
