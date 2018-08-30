@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "Esta opción autentica silenciosamente a los proxys cuand se han gardado credenciales para ellos. Se pedirá si falla la autenticación.">
 <!ENTITY  socksRemoteDNS.label          "Proxy DNS al usar SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  dnsOverHttps.label            "Habilitar DNS por sobre HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "b">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL para resolver DNS por sobre HTTPS">
