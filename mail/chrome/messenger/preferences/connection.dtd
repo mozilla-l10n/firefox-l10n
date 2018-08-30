@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "Dizze opsje autentisearret jo automatisysk by proxies as jo derfoar bewarre gegevens hawwe. Jo sille frege wurde as autentikaasje mislearret.">
 <!ENTITY  socksRemoteDNS.label          "DNS fia proxy by gebrûk fan SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
+<!ENTITY  dnsOverHttps.label            "DNS oer HTTPS ynskeakelje">
+<!ENTITY  dnsOverHttps.accesskey        "o">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL foar omsetten DNS oer HTTPS">
