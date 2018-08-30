@@ -5,6 +5,9 @@
 languages-window =
     .title = Kielet
     .style = width: 30em
+webpage-languages-window =
+    .title = Verkkosivujen kieliasetukset
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Sivuista on joskus useammankielisiä versioita. Järjestä kielet niin, että ensimmäisenä on mieluiten lukemasi kieli
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name }in kieliasetukset
+    .style = width: 40em
