@@ -5,6 +5,9 @@
 languages-window =
     .title = Diller
     .style = width: 30em
+webpage-languages-window =
+    .title = Web sayfası dil ayarları
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Bazı web sayfaları birden fazla dilde sunulabilir. Bu sayfaların görüntüleneceği dilleri tercih sıranıza göre seçin.
