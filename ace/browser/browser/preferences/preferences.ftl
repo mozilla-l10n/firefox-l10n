@@ -417,7 +417,7 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 sync-signedout-caption = Cok Web Droen Sajan Droen
-sync-signedout-description = Peuakô bookmark droen, history, tab, lageuem rahsia, add-on, dan preferensi antara mandum peukakah droen.
+sync-signedout-description = Peuakô bookmark droen, riwayat, tab, lageuem rahsia, add-on, ngön preferensi antara mandum peukakah droen.
 sync-signedout-account-title = Meuhubông ngön saboh { -fxaccount-brand-name }
 sync-signedout-account-create = Hana akun lom? Jak ta peuphôn
     .accesskey = J
@@ -540,10 +540,10 @@ history-header = Riwayat
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name } akan
-    .accesskey = a
+history-remember-label = { -brand-short-name } keuneuk
+    .accesskey = k
 history-remember-option-all =
-    .label = Peuingat jeujak
+    .label = Peuingat riwayat
 history-remember-option-never =
     .label = Peuingat bek tuwe jeujak
 history-remember-option-custom =
@@ -653,7 +653,7 @@ content-blocking-fastblock-option-enabled =
     .label = Tham sabé sabé
 content-blocking-fastblock-option-disabled =
     .label = Hantom tham
-content-blocking-tracking-protection-label = Peuseutöt
+content-blocking-tracking-protection-label = Peulacak
     .accesskey = P
 content-blocking-tracking-protection-description = Tham mandum peulacak nyan ituri (cetet: jeut meutheun ladôm ôn nibak teuhah).
 content-blocking-tracking-protection-option-enabled =
