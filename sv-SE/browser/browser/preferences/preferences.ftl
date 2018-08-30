@@ -684,7 +684,15 @@ content-blocking-tracking-protection-option-pbm =
     .label = Blockera endast i privata fönster
 content-blocking-tracking-protection-option-disabled =
     .label = Blockera aldrig
+content-blocking-tracking-protection-option-always =
+    .label = Alltid
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Bara i privata fönster
+    .accesskey = p
 content-blocking-tracking-protection-change-blocklist = Ändra blockeringslista…
+content-blocking-reject-trackers-label = Kakor från tredje part
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
