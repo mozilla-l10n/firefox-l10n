@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Anonymní prohlížení">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Otevřít anonymní okno?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Aktuálně nepracujete s anonymním oknem.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Otevřít anonymní okno">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "a">
@@ -35,3 +30,5 @@
 <!ENTITY trackingProtection.title                        "Ochrana proti sledování">
 <!ENTITY trackingProtection.description2                 "Některé webové stránky používají prvky, které vás mohou sledovat napříč internetem. S ochranou proti sledování bude Firefox blokovat mnohé sledovací prvky, které o vás mohou sbírat informace.">
 <!ENTITY trackingProtection.startTour1                   "Jak to funguje">
+
+<!ENTITY contentBlocking.title                           "Blokování obsahu">
