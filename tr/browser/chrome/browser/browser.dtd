@@ -929,7 +929,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "İçerik engelleme">
 <!ENTITY contentBlocking.detected "Bu sayfada engellenebilir içerikler bulundu.">
 <!ENTITY contentBlocking.notDetected "Bu sayfada engellenebilir içerik bulunamadı.">
-<!ENTITY contentBlocking.disabled.label "Devre dışı">
+<!ENTITY contentBlocking.disabled.label "Kapalı">
 <!ENTITY contentBlocking.disabled.tooltip "İçerik engellemeyi kapattınız.">
 <!ENTITY contentBlocking.exception.tooltip "Bu sitede içerik engellemeyi kapattınız.">
 
