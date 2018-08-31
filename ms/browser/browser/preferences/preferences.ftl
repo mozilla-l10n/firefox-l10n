@@ -6,6 +6,8 @@ do-not-track-description = Hantar laman web isyarat “Jangan Jejak” bahawa an
 do-not-track-learn-more = Ketahui selanjutnya
 do-not-track-option-default =
     .label = Hanya apabila menggunakan Perlindungan Penjejakan
+do-not-track-option-default-content-blocking =
+    .label = Hanya apabila { -brand-short-name } ditetapkan untuk menyekat Penjejak Dikesan
 do-not-track-option-always =
     .label = Sentiasa
 pref-page =
@@ -191,6 +193,9 @@ choose-button =
     .label = Pilih…
     .accesskey = P
 choose-browser-language-description = Pilih bahasa yang digunakan untuk memaparkan menu, mesej dan notifikasi { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Tetapkan Alternatif...
+    .accesskey = T
 confirm-browser-language-change-description = Mula semula { -brand-short-name } untuk melaksanakan perubahan ini
 confirm-browser-language-change-button = Terap dan Mula semula
 translate-web-pages =
@@ -611,6 +616,10 @@ sitedata-block-all-third-parties-option =
     .label = Semua kuki pihak ketiga
 sitedata-block-always-option =
     .label = Semua kuki (boleh menyebabkan laman web ranap)
+sitedata-block-all-third-party-option =
+    .label = Semua kuki pihak ketiga (boleh menyebabkan laman web pecah)
+sitedata-block-all-option =
+    .label = Semua kuki (akan menyebabkan laman web pecah)
 sitedata-clear =
     .label = Buang Data…
     .accesskey = u
@@ -658,12 +667,19 @@ content-blocking-category-label = Pilih apa yang disekat
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Memperlahankan Elemen Penjejak
     .accesskey = M
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Penjejak Pemuatan-Lambat
+    .accesskey = L
 content-blocking-fastblock-description = Sekat kandungan pihak ketiga yang lebih daripada 5 saat untuk dimuatkan.
 content-blocking-fastblock-option-enabled =
     .label = Sentiasa sekat
 content-blocking-fastblock-option-disabled =
     .label = Jangan sekat
 content-blocking-tracking-protection-label = Penjejak
+    .accesskey = P
+content-blocking-tracking-protection-all-label = Semua Penjejak Yang Dikesan
     .accesskey = P
 content-blocking-tracking-protection-description = Sekat semua penjejak yang diketahui (Nota: mungkin menghalang sesetengah halaman daripada dimuatkan).
 content-blocking-tracking-protection-option-enabled =
@@ -672,7 +688,33 @@ content-blocking-tracking-protection-option-pbm =
     .label = Sekat hanya dalam tertingkap peribadi
 content-blocking-tracking-protection-option-disabled =
     .label = Jangan sekat
+content-blocking-tracking-protection-option-always =
+    .label = Sentiasa
+    .accesskey = S
+content-blocking-tracking-protection-option-private =
+    .label = Hanya dalam tertingkap peribadi
+    .accesskey = p
 content-blocking-tracking-protection-change-blocklist = Tukar Senarai Sekatan…
+content-blocking-reject-trackers-label = Kuki Pihak-Ketiga
+    .accesskey = K
+content-blocking-reject-trackers-description = Sekat semua kuki pihak ketiga atau hanya yang ditetapkan oleh penjejak.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = Semua kuki sedang disekat.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Kuki daripada laman web yang tidak dilawati sedang disekat.
+content-blocking-change-cookie-settings =
+    .label = Ubah Tetapan Kuki
+    .accesskey = U
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Penjejak (disyorkan)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Penjejak
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
