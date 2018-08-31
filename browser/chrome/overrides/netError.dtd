@@ -167,6 +167,10 @@ was trying to connect. -->
 <p>As jo op in saaklik netwurk binne of antifirussoftware brûke, kinne jo kontakt opnimme mei de stipeôfdielingen foar assistinsje. Jo kinne ek de behearder fan de website oer it probleem ynformearje.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Jo kompjûterklok is ynsteld op <span id='wrongSystemTime_systemDate2'/>. Soargje derfoar dat jo kompjûter op de krekte datum, tiid en tiidssône ynsteld is yn jo systeemynstellingen, en fernij dêrnei <span class='hostname'/>.</p>
+<p>As jo klok al op de krekte tiid ynsteld is, is de website wierskynlik net krekt konfigurearre, en kinne jo neat dwaan om it probleem te ferhelpen. Jo kinne wol de behearder fan de website oer it probleem ynformearje.</p>
+">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>It probleem leit hiel wierskynlik by de website, en jo kinne neat dwaan om dit te ferhelpen. Jo kinne de behearder fan de website oer it probleem ynformearje.</p>
@@ -192,6 +196,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Utsûndering tafoegje…">
 
+<!ENTITY securityOverride.exceptionButton1Label "It risiko oanfurdigje en trochgean">
 
 <!ENTITY errorReporting.automatic2 "Flaters as dizze rapportearje om Mozilla te helpen kweawollende websites te werkennen en te blokkearjen">
 <!ENTITY errorReporting.learnMore "Mear ynfo…">
@@ -226,6 +231,7 @@ allinnich in befeilige ferbining meitsje mei. Hjirtroch is it net mooglik om in
 
 <!ENTITY blockedByPolicy.title "Blokkearre side">
 
+<!ENTITY clockSkewError.title "Jo kompjûterklok jout de ferkearde tiid oan">
 
 <!ENTITY prefReset.longDesc "It liket derop dat dit troch jo netwurkbefeiligingsynstellingen feroarsake wurdt. Wolle jo de standertynstellingen werom bringe?">
 <!ENTITY prefReset.label "Standertynstellingen werom bringe">
