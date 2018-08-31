@@ -35,3 +35,6 @@
 <!ENTITY trackingProtection.title                        "Beskyttelse mod sporing">
 <!ENTITY trackingProtection.description2                 "Nogle websteder benytter teknologi, der kan overvåge din aktivitet på internettet. Firefox benytter Beskyttelse mod sporing til at blokere mange sporings-teknologier, der kan indsamle informationer om, hvordan du bruger internettet.">
 <!ENTITY trackingProtection.startTour1                   "Se, hvordan det fungerer">
+
+<!ENTITY contentBlocking.title                           "Blokering af indhold">
+<!ENTITY contentBlocking.description                     "Nogle websteder benytter teknologi, der kan overvåge din aktivitet på internettet. I private vinduer benytter Firefox Blokering af indhold for automatisk at blokere mange sporings-tjenester, der kan indsamle information om din aktivitet på nettet.">
