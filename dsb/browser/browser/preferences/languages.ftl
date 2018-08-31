@@ -5,6 +5,9 @@
 languages-window =
     .title = Rěcy
     .style = width: 30em
+webpage-languages-window =
+    .title = Rěcne nastajenja webboka
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Webboki stoje wótergi we wěcej nježli jadnej rěcy k dispoziciji. Wubjeŕśo rěcy za pśedstajanje webbokow w swójom preferěrowanem pórěźe
@@ -38,3 +41,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Rěcne nastajenja { -brand-short-name }
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } pokažo prědnu rěc ako waš standard a dalšne rěcy, jolic trjeba, w pórěźe, w kótaremž se zjewijo.
