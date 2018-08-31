@@ -803,7 +803,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeBlocked "&brandShortName; on estänyt suojaamattoman sisällön näyttämisen.">
 <!ENTITY identity.description.passiveLoaded "Yhteytesi verkkosivustoon ei ole yksityinen ja sivullisten on mahdollista tarkastella tietoja, joita lähetät sivustolle.">
 <!ENTITY identity.description.passiveLoaded2 "Tällä sivulla on suojaamatonta sisältöä (kuten kuvia).">
-<!ENTITY identity.description.passiveLoaded3 "Vaikka &brandShortName; on osaksi estänyt suojaamattoman sisällön, mutta osa näkyvästä sisällöstä on edelleen suojaamatonta (kuten kuvat).">
+<!ENTITY identity.description.passiveLoaded3 "Vaikka &brandShortName; on osittain estänyt suojaamattoman sisällön, osa näkyvästä sisällöstä on edelleen suojaamatonta (kuten kuvat).">
 <!ENTITY identity.description.activeLoaded "Tällä sivulla on suojaamatonta sisältöä (kuten komentosarjoja) eikä yhteytesi sivustoon ei ole yksityinen.">
 <!ENTITY identity.description.activeLoaded2 "Sivullisten on mahdollista tarkastella antamiasi tietoja (esim. salasanoja, viestejä, luottokorttitietoja).">
 
