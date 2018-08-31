@@ -38,3 +38,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } Iɣewwaṛen n Tutlayt
+    .style = Tehri: 40em
