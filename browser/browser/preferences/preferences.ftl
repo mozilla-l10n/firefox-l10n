@@ -6,6 +6,8 @@ do-not-track-description = 웹사이트에 “방문자 추적 금지” 신호�
 do-not-track-learn-more = 더 알아보기
 do-not-track-option-default =
     .label = 추적 방지 기능을 사용할 때만
+do-not-track-option-default-content-blocking =
+    .label = { -brand-short-name }가 감지된 추적기를 차단하도록 설정 됐을 때만
 do-not-track-option-always =
     .label = 항상
 pref-page =
@@ -191,6 +193,9 @@ choose-button =
     .label = 선택…
     .accesskey = o
 choose-browser-language-description = { -brand-short-name }가 메뉴나 메시지, 알림을 표시하는데 사용할 언어를 선택해 주세요.
+manage-browser-languages-button =
+    .label = 대안 설정…
+    .accesskey = I
 confirm-browser-language-change-description = 변경사항 적용을 위해 { -brand-short-name } 재시작
 confirm-browser-language-change-button = 적용하고 재시작
 translate-web-pages =
@@ -307,6 +312,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = 네트워크 프록시
+network-settings-title = 네트워크 설정
 network-proxy-connection-description = { -brand-short-name }가 인터넷에 접근하는 방법을 설정하세요.
 network-proxy-connection-learn-more = 자세히 보기
 network-proxy-connection-settings =
@@ -545,9 +551,6 @@ history-dontremember-description = { -brand-short-name }는 사생활 보호 모
 history-private-browsing-permanent =
     .label = 사생활 보호 모드로만 이용
     .accesskey = p
-history-remember-option =
-    .label = 표시한 페이지 및 파일 다운로드 기록 저장
-    .accesskey = b
 history-remember-browser-option =
     .label = 표시한 페이지 및 파일 다운로드 기록 저장
     .accesskey = b
@@ -610,9 +613,13 @@ sitedata-block-trackers-option =
 sitedata-block-unvisited-option =
     .label = 방문하지 않은 웹사이트의 쿠키
 sitedata-block-all-third-parties-option =
-    .label = 모든 제3자 쿠기
+    .label = 모든 제3자 쿠키
 sitedata-block-always-option =
-    .label = 모든 쿠기(웹사이트가 작동하지 않을 수 있음)
+    .label = 모든 쿠키(웹사이트가 작동하지 않을 수 있음)
+sitedata-block-all-third-party-option =
+    .label = 모든 제3자 쿠키(웹사이트가 작동하지 않을 수 있음)
+sitedata-block-all-option =
+    .label = 모든 쿠키(웹사이트가 작동 안하게 됨)
 sitedata-clear =
     .label = 데이타 삭제…
     .accesskey = l
@@ -660,12 +667,19 @@ content-blocking-category-label = 차단할 대상 선택
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = 느린 추적 요소
     .accesskey = S
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = 느리게 로딩되는 추적기
+    .accesskey = S
 content-blocking-fastblock-description = 읽는데 5초이상 걸리는 제3자 콘텐츠를 차단합니다.
 content-blocking-fastblock-option-enabled =
     .label = 항상 차단
 content-blocking-fastblock-option-disabled =
     .label = 차단하지 않음
 content-blocking-tracking-protection-label = 추적자
+    .accesskey = T
+content-blocking-tracking-protection-all-label = 모든 감지된 추적기
     .accesskey = T
 content-blocking-tracking-protection-description = 알려진 모든 추적자를 차단합니다(참고: 일부 페이지가 로드되지 않을 수 있습니다).
 content-blocking-tracking-protection-option-enabled =
@@ -674,7 +688,36 @@ content-blocking-tracking-protection-option-pbm =
     .label = 사생활 보호 창에서만 차단
 content-blocking-tracking-protection-option-disabled =
     .label = 차단하지 않음
+content-blocking-tracking-protection-option-always =
+    .label = 항상
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = 사생활 보호 창에서만
+    .accesskey = P
 content-blocking-tracking-protection-change-blocklist = 차단 목록 변경…
+content-blocking-reject-trackers-label = 제3자 쿠키
+    .accesskey = C
+content-blocking-reject-trackers-description = 모든 제3자 쿠키나 추적기에 의해 설정된 쿠기를 차단합니다.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = 모든 쿠키가 차단되었습니다.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = 방문하지 않은 웹사이트의 쿠키가 차단되었습니다.
+content-blocking-change-cookie-settings =
+    .label = 쿠키 설정 변경
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = 추적기(권장)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = 추적기
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = 모든 제3자 쿠키(웹사이트가 작동 안 할 수 있음)
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
