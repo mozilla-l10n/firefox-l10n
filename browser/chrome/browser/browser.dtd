@@ -1077,7 +1077,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateRestart.message2 "Po rychlém restartu obnoví &brandShorterName; všechny otevřené panely a okna, která nejsou v režimu anonymního prohlížení.">
 <!ENTITY updateRestart.header.message2 "Restartovat a aktualizovat aplikaci &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "Restartovat a obnovit">
+<!ENTITY updateRestart.acceptButton.label "Restartovat">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Teď ne">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
