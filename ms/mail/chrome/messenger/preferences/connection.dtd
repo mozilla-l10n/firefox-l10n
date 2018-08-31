@@ -49,4 +49,4 @@
 <!ENTITY  dnsOverHttps.accesskey        "y">
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL untuk menyelesaikan DNS mengatasi HTTPS">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL untuk menyelesaikan semula DNS mengatasi HTTPS">
