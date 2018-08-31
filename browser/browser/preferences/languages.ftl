@@ -44,3 +44,4 @@ languages-active-code-format =
 browser-languages-window =
     .title = Tetapan Bahasa { -brand-short-name }
     .style = width: 40em
+browser-languages-description = { -brand-short-name } akan memaparkan bahasa yang pertama sebagai piawai dan akan memaparkan bahasa alternatif jika ada, mengikut susunan paparan.
