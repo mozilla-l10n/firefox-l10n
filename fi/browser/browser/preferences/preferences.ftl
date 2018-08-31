@@ -616,8 +616,8 @@ sitedata-disallow-cookies-option =
     .accesskey = E
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Mitä estetään
-    .accesskey = M
+sitedata-block-desc = Tyyppi
+    .accesskey = T
 sitedata-block-trackers-option-recommended =
     .label = Kolmannen osapuolen seuraimet (suositus)
 sitedata-block-trackers-option =
@@ -629,7 +629,7 @@ sitedata-block-all-third-parties-option =
 sitedata-block-always-option =
     .label = Kaikki evästeet (voi aiheuttaa sivustojen toimimattomuutta)
 sitedata-block-all-third-party-option =
-    .label = Kaikki kolmannen osapuolen evästeet (voi aiheuttaa sivustojen toimimattomuutta)
+    .label = Kaikki 3. osapuolen evästeet (voi aiheuttaa sivustojen toimimattomuutta)
 sitedata-block-all-option =
     .label = Kaikki evästeet (aiheuttaa sivustojen toimimattomutta)
 sitedata-clear =
