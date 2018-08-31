@@ -88,4 +88,4 @@ connection-dns-over-https =
 
 connection-dns-over-https-url = URL
     .accesskey = U
-    .tooltiptext = URL til at løse DNS via HTTPS
+    .tooltiptext = URL til DNS-opslag via HTTPS
