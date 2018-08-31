@@ -715,6 +715,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Penjejak
     .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Semua kuki pihak ketiga (boleh menyebabkan laman web pecah)
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
