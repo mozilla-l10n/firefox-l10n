@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Pelayaran Peribadi">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Buka tetingkap peribadi?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Anda masih belum dalam tetingkap peribadi.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Buka Tetingkap Peribadi">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
@@ -35,3 +30,6 @@
 <!ENTITY trackingProtection.title                        "Perlindungan Penjejakan">
 <!ENTITY trackingProtection.description2                 "Sesetengah Laman web menggunakan penjejak yang boleh memantau aktiviti anda di seluruh Internet. Dengan Perlindungan Penjejakan, Firefox akan menyekat sebahagian besar penjejak yang boleh mengumpulkan maklumat tingkah laku pelayaran anda.">
 <!ENTITY trackingProtection.startTour1                   "Ketahui fungsi ciri ini">
+
+<!ENTITY contentBlocking.title                           "Sekatan Kandungan">
+<!ENTITY contentBlocking.description                     "Sesetengah laman web menggunakan penjejak yang boleh memantau aktiviti anda di seluruh Internet. Dalam tetingkap peribadi, secara automatik Sekatan Kandungan Firefox menyekat penjejak yang boleh mengumpulkan maklumat tingkah laku pelayaran anda.">
