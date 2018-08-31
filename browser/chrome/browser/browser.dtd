@@ -19,9 +19,9 @@
 <!ENTITY navbarOverflow.label                "더 많은 도구…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "현재 탭 새로 고침">
+<!ENTITY  reloadTab.label                    "탭 새로 고침">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "전체 탭 새로 고침">
+<!ENTITY  reloadAllTabs.label                "모든 탭 새로 고침">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
