@@ -32,7 +32,7 @@ direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Tôb Tab nyang blah Uneun">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "Tôb Tab Laén">
+<!ENTITY  closeOtherTabs.label               "Tôb Tab - tab Laén">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
 <!ENTITY  closeSelectedTabs.label            "Tôb Tab Nyoe">

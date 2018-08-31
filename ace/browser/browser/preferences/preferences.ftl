@@ -218,7 +218,7 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Beureukaih ngön Aplikasi
-download-header = Donlod
+download-header = Beureukah ka teucok
 download-save-to =
     .label = Keubah beureukaih bak
     .accesskey = b
@@ -237,7 +237,7 @@ download-always-ask-where =
     .label = Sabé tanyöng dipat droëneuh neukeubah beureukaih
     .accesskey = S
 applications-header = Aplikasi
-applications-description = Neupiléh pakiban { -brand-short-name } peubèrèh beureukaih nyang kadroëneuh donlod dari wèb atawa aplikasi nyang neungui watèë brôsing.
+applications-description = Neupiléh kriban { -brand-short-name } peubèrèh beureukaih nyang kadroëneuh cok dari wèb atawa aplikasi nyang neungui watèë browsing.
 applications-filter =
     .placeholder = Mita jeunèh beureukaih atawa aplikasi
 applications-type-column =
