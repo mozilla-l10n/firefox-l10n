@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "Якщо у вас є збережені дані для входу, ця опція проведе вашу авторизацію на проксі без запитів. При невдалій авторизації ви отримаєте запит.">
 <!ENTITY  socksRemoteDNS.label          "Проксі DNS при використанні SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "к">
+<!ENTITY  dnsOverHttps.label            "Увімкнути DNS через HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "У">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL для вирішення конфліктів DNS через HTTPS">
