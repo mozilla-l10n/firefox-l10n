@@ -346,7 +346,7 @@ browsing-search-on-start-typing =
 
 network-proxy-title = Netværks-proxy
 
-network-settings-title = Netværks-indstillinger
+network-settings-title = Forbindelsesindstillinger
 
 network-proxy-connection-description = Indstil hvordan { -brand-short-name } skal oprette forbindelse til internettet.
 network-proxy-connection-learn-more = Læs mere
@@ -645,7 +645,7 @@ sitedata-allow-cookies-option =
     .accesskey = A
 
 sitedata-disallow-cookies-option =
-    .label = Bloker cokkies og websteds-data
+    .label = Bloker cookies og websteds-data
     .accesskey = B
 
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
@@ -722,7 +722,7 @@ content-blocking-category-label = Vælg hvad der skal blokeres
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Langsomme sporings-elementer
   .accesskey = L
-content-blocking-fastblock-slow-loading-label = Langsomt inlæste sprorings-elementer
+content-blocking-fastblock-slow-loading-label = Langsomt indlæste sporings-elementer
   .accesskey = L
 content-blocking-fastblock-description = Bloker indhold fra tredjepart, hvis det tager længere end fem sekunder at indlæse
 content-blocking-fastblock-option-enabled =
@@ -751,15 +751,15 @@ content-blocking-tracking-protection-change-blocklist = Skift blokeringsliste…
 
 content-blocking-reject-trackers-label = Tredjeparts-cookies
   .accesskey = c
-content-blocking-reject-trackers-description = Block all third-party cookies or just those set by trackers.
+content-blocking-reject-trackers-description = Bloker alle tredjeparts-cookies eller kun cookies sat af sporings-tjenester
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
 # of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
 # being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = Alle cookies blokeres i øjeblikket
+content-blocking-reject-trackers-warning-all-cookies-blocked = I øjeblikket blokeres alle cookies
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
 # of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
 # option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Cookies fra ikke besøgte websteder bliver blokeret i øjbelikket.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = I øjeblikket blokeres cookies fra ikke besøgte websteder.
 content-blocking-change-cookie-settings =
   .label = Skift indstillinger for cookies
   .accesskey = i

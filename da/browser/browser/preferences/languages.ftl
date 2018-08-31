@@ -49,4 +49,4 @@ browser-languages-window =
     .title = Indstillinger for sprog i { -brand-short-name }
     .style = width: 40em
 
-browser-languages-description = { -brand-short-name } vil som standard vise det første og vil om nødvendigt vise sprog-alternativer i den rækkefølge, de optræder.
+browser-languages-description = { -brand-short-name } vil som standard vise det første sprog, og vil om nødvendigt vise alternative sprog i den valgte rækkefølge.
