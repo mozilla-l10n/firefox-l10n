@@ -114,6 +114,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel " अपवाद जोड़ें…">
 
+<!ENTITY securityOverride.exceptionButton1Label "जोखिम को स्वीकार करें और जारी रखें">
 
 <!ENTITY errorReporting.automatic2 "इस तरह की त्रुटियों की सूचना देकर Mozilla का सहयोग करें ताकि Mozilla दुर्भावनापूर्ण साइटों की पहचान कर बंद कर सके">
 <!ENTITY errorReporting.learnMore "अधिक जानें…">

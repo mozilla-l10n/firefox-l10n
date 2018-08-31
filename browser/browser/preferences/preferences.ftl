@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = नेटवर्क प्रॉक्सी
+network-settings-title = नेटवर्क सेटिंग
 network-proxy-connection-description = विन्यस्त करें की { -brand-short-name } कैसे इंटरनेट से जुड़ेगा.
 network-proxy-connection-learn-more = अधिक जानें
 network-proxy-connection-settings =
