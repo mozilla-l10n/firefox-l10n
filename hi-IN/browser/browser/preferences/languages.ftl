@@ -5,6 +5,9 @@
 languages-window =
     .title = भाषा
     .style = width: 30em
+webpage-languages-window =
+    .title = वेबपृष्ठ भाषा सेटिंग
+    .style = चौड़ाई: 40em
 languages-close-key =
     .key = w
 languages-description = वेब पृष्ठ कभी-कभी एकाधिक भाषाओं में प्रस्तुत किए जाते है. इनको प्रदर्शित करने के लिए वरीयता क्रम में भाषाओं को चुनें
