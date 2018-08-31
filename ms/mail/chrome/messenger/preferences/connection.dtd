@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "Pilihan ini mengesahkan secara senyap apabila anda ada menyimpan kelayakan bagi pihak proksi. Tapi anda akan dimaklumkan jika pengesahan gagal.">
 <!ENTITY  socksRemoteDNS.label          "Proksi DNS apabila menggunakan SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "a">
+<!ENTITY  dnsOverHttps.label            "Dayakan DNS mengatasi HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "y">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL untuk menyelesaikan DNS mengatasi HTTPS">
