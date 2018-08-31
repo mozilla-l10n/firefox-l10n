@@ -5,7 +5,7 @@
 sync-disconnect-dialog =
     .title = { -sync-brand-short-name } bağlantısı qoparılsınmı?
     .style = width: 36em; min-height: 35em;
-sync-disconnect-heading = Bu bilgisayar üzerindeki kezici verilerini de silmege isteysiñizmi? Her halükârda, { -sync-brand-name } verileriñiz hesabıñızda qalacaq.
+sync-disconnect-heading = Bu bilgisayar üzerindeki kezici verilerini de silmege isteysiñizmi? Er halükârda, { -sync-brand-name } verileriñiz esabıñızda qalacaq.
 sync-disconnect-remove-sync-caption = { -sync-brand-name } verilerini çetleştir
 sync-disconnect-remove-sync-data = Saifeimleri, keçmiş, sır-sözler, vs.
 sync-disconnect-remove-other-caption = Diger Hususiy Verilerni Çetleştir

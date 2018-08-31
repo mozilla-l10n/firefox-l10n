@@ -31,8 +31,8 @@ search-input-box =
         }
 policies-notice =
     { PLATFORM() ->
-        [windows] Kurumunuz bazı seçenekleri değiştirme olanağını devre dışı bırakmış.
-       *[other] Kurumunuz bazı tercihleri değiştirme olanağını devre dışı bırakmış.
+        [windows] Teşkilâtıñız bazı seçeneklerni deñiştirme qabiliyetini naqabilleştirgendir.
+       *[other] Teşkilâtıñız bazı tercihlerni deñiştirme qabiliyetini naqabilleştirgendir.
     }
 pane-general-title = Umumiy
 category-general =
@@ -202,6 +202,9 @@ choose-language-description = Saifelerni kösterüv içün tercih etilgen tiliñ
 choose-button =
     .label = Sayla…
     .accesskey = S
+choose-browser-language-description = { -brand-short-name } menülerini, mesajlarını ve tebliğlerini köstermek içün qullanılacaq tillerni saylañız.
+confirm-browser-language-change-description = Bu deñişikliklerni uyğulamaq içün { -brand-short-name } seyrancısını kene başlatıñız
+confirm-browser-language-change-button = Uyğula ve Kene Başlat
 translate-web-pages =
     .label = Ağ muhtevasını tercime et
     .accesskey = A
@@ -554,9 +557,6 @@ history-dontremember-description = { -brand-short-name } Gizli Gezinti ile aynı
 history-private-browsing-permanent =
     .label = Er zaman hususiy kezinüv tarzını qullan
     .accesskey = m
-history-remember-option =
-    .label = Gezinti ve indirme geçmişimi hatırla
-    .accesskey = h
 history-remember-browser-option =
     .label = Kezinti ve endirme keçmişini hatırla
     .accesskey = T
@@ -627,6 +627,44 @@ addressbar-locbar-openpage-option =
     .accesskey = i
 addressbar-suggestions-settings = Qıdırma motorı telqinleri içün tercihlerni deñiştir
 
+## Privacy Section - Content Blocking
+
+content-blocking-header = Muhteva Bloklaması
+content-blocking-desc = Seyranıñıznı yavaşlatabilecek ve Ağ'da sizni izleybilecek, reklamlar yaki kod kibi, üçünci taraf muhtevalarını bloklañız. Eñ yahşı imaye ve icraat muvazeneti içün ayarlarıñıznı özelleştiriñiz.
+content-blocking-learn-more = Daha Çoq Ögren
+content-blocking-restore-defaults =
+    .label = Ögbelgilemelerni Keri Tikle
+    .accesskey = K
+content-blocking-toggle-on =
+    .tooltiptext = Muhteva Bloklamasını Söndür
+content-blocking-toggle-off =
+    .tooltiptext = Muhteva Bloklamasını Yaq
+content-blocking-toggle-label-on = AÇIQ
+    .accesskey = A
+content-blocking-toggle-label-off = SÖNÜK
+    .accesskey = K
+content-blocking-category-label = Nelerniñ bloklanacağını saylañız
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-label = Yavaş İzleyici Unsurlar
+    .accesskey = Y
+content-blocking-fastblock-description = Yüklenmesi 5 saniyeden uzun sürgen üçünci taraf muhtevasını bloklar.
+content-blocking-fastblock-option-enabled =
+    .label = Er zaman blokla
+content-blocking-fastblock-option-disabled =
+    .label = Asla bloklama
+content-blocking-tracking-protection-label = İzleyiciler
+    .accesskey = z
+content-blocking-tracking-protection-description = Bilingen episi izleyicilerni bloklar (Not: Bazı saifelerniñ yüklenmesini de öñleybilir.)
+content-blocking-tracking-protection-option-enabled =
+    .label = Er zaman blokla
+content-blocking-tracking-protection-option-pbm =
+    .label = Faqat hususiy pencerelerde blokla
+content-blocking-tracking-protection-option-disabled =
+    .label = Asla bloklama
+content-blocking-tracking-protection-change-blocklist = Bloklama listesini deñiştir…
+
 ## Privacy Section - Tracking
 
 tracking-header = İzlenme İmayesi
@@ -678,9 +716,16 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = Ağ-saytlarınıñ sesli muhtevanı avtomatik olaraq oynatmasını blokla
     .accesskey = o
+permissions-block-autoplay-media-menu = Avtomatik olaraq davuş oynatqan ağ-saytları içün
 permissions-block-autoplay-media-exceptions =
     .label = İstisnalar…
     .accesskey = s
+autoplay-option-ask =
+    .label = Er Zaman Sora
+autoplay-option-allow =
+    .label = Avtomatik Oynatmağa İzin Ber
+autoplay-option-dont =
+    .label = Avtomatik Oynatma
 permissions-block-popups =
     .label = Peyda pencerelerni blokla
     .accesskey = b

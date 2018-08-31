@@ -23,7 +23,7 @@ permissions-site-name =
 permissions-status =
     .label = Status
 permissions-remove =
-    .label = Saytnı Çetleştir 
+    .label = Saytnı Çetleştir
     .accesskey = S
 permissions-remove-all =
     .label = Saytlarnıñ Episini Çetleştir
@@ -89,6 +89,10 @@ permissions-exceptions-autoplay-media-window =
     .title = İzin Berilgen Saytlar - Avtomatik Oynatma
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Angi saytlarğa vasat unsurlarını avtomatik oynatmağa caiz olğanını belirtebilirsiñiz. İzin bermege istgeniñiz saytnıñ tam adresini yazıp “İzin Ber”ge çertiñiz.
+permissions-exceptions-autoplay-media-window2 =
+    .title = İstisnalar - Avtooynatma
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc2 = Davuşlı vasatnı öz-özünden oynatmasınıñ angi saytlar içün er zaman caiz olğanını yaki asla caiz olmağanını belirtebilirsiñiz. İdare etmek istegeniñiz saytnıñ adresini yazıp, Blokla veya İzin Ber'ge çertiñiz.
 
 ## Site Permissions - Notifications
 
