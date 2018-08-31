@@ -5,6 +5,9 @@
 languages-window =
     .title = Linguas
     .style = width: 37em
+webpage-languages-window =
+    .title = Parameters da lingua per las paginas d'internet
+    .style = width: 70em
 languages-close-key =
     .key = w
 languages-description = Paginas d'internet èn mintgatant disponiblas en pliras linguas. Tscherna las linguas per mussar questas paginas, en la successiun da tia preferenza
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale } [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Parameters da lingua da { -brand-short-name }
+    .style = width: 50em
