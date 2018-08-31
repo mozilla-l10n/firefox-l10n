@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restartRequired.title "Kene Başlatuv Şart">
+
+<!ENTITY restartRequired.header "Afu etiñiz. Yürmege devam etmezden evvel kiçik bir şey yapmağa ihtiyacımız bar.">
+<!ENTITY restartRequired.description "
+<p>Arqazeminde şimdiçik bir yañartma qurğan olamız. Onı tatbiq etüvni bitirmek içün &brandShortName; Kene Başlatılsın çertiñiz.</p>
+<p>Tezce yoluñızğa devam etebilgeydiñiz dep, ondan soñ saifeleriñiz, pencereleriñiz ve ilmekleriñizniñ episini keri tikleycekmiz.</p>
+">
+
+<!ENTITY restartButton.label "&brandShortName; Kene Başlatılsın">

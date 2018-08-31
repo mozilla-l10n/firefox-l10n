@@ -2,38 +2,58 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizePrefs2.title "Keçmişni Temizlev içün Tesbitler">
-<!ENTITY sanitizePrefs2.modal.width "34em">
-<!ENTITY sanitizePrefs2.column.width "17em">
-<!ENTITY sanitizePrefs2.inContent.dialog.width "34em">
-<!ENTITY sanitizePrefs2.inContent.column.width "24em">
-<!ENTITY sanitizeDialog2.title "Deminki Keçmişni Temizle">
-<!ENTITY sanitizeDialog2.width "34em">
-<!ENTITY clearDataSettings3.label "&brandShortName; kezicisi, ondan çıqqanımda aşağıdakilerni öz-özünden silsin">
-<!ENTITY clearTimeDuration.label "Temizlenecek zaman menzili: ">
-<!ENTITY clearTimeDuration.accesskey "z">
-<!ENTITY clearTimeDuration.lastHour "Soñki Saat">
-<!ENTITY clearTimeDuration.last2Hours "Soñki Eki Saat">
-<!ENTITY clearTimeDuration.last4Hours "Soñki Dört Saat">
-<!ENTITY clearTimeDuration.today "Bugün">
-<!ENTITY clearTimeDuration.everything "Er şey">
-<!ENTITY clearTimeDuration.suffix "">
-<!ENTITY detailsProgressiveDisclosure.label "Tafsilât">
+<!ENTITY sanitizePrefs2.title          "Keçmişni Temizlev içün Tesbitler">
+<!-- LOCALIZATION NOTE (sanitizePrefs2.modal.width): width of the Clear History on Shutdown dialog.
+     Should be large enough to contain the item* strings on a single line.
+     The column width should be set at half of the dialog width. -->
+<!ENTITY sanitizePrefs2.modal.width    "34em">
+<!ENTITY sanitizePrefs2.column.width   "17em">
+
+<!ENTITY sanitizeDialog2.title         "Deminki Keçmişni Temizle">
+<!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
+<!ENTITY sanitizeDialog2.width         "34em">
+
+<!ENTITY clearDataSettings4.label     "Qapatılğanda, &brandShortName; tatbiqiniñ öz-özünden aşağıdakilerniñ episini temizlemesi lâzim">
+
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
+<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
+     See UI mockup at bug 480169 -->
+<!ENTITY clearTimeDuration.label          "Temizlenecek zaman menzili: ">
+<!ENTITY clearTimeDuration.accesskey      "z">
+<!ENTITY clearTimeDuration.lastHour       "Soñki Saat">
+<!ENTITY clearTimeDuration.last2Hours     "Soñki Eki Saat">
+<!ENTITY clearTimeDuration.last4Hours     "Soñki Dört Saat">
+<!ENTITY clearTimeDuration.today          "Bugün">
+<!ENTITY clearTimeDuration.everything     "Er şey">
+<!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
+that require it.  -->
+<!ENTITY clearTimeDuration.suffix         "">
+
+<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
+     of the "Details" progressive disclosure button.  See UI mockup at bug
+     480169 -->
+<!ENTITY detailsProgressiveDisclosure.label     "Tafsilât">
 <!ENTITY detailsProgressiveDisclosure.accesskey "T">
-<!ENTITY historySection.label "Keçmiş">
-<!ENTITY dataSection.label "Veriler">
-<!ENTITY itemHistoryAndDownloads.label "Kezinüv &amp; Endirüv Keçmişi">
+
+<!ENTITY historySection.label         "Keçmiş">
+<!ENTITY dataSection.label            "Veriler">
+
+<!ENTITY itemHistoryAndDownloads.label     "Kezinüv &amp; Endirüv Keçmişi">
 <!ENTITY itemHistoryAndDownloads.accesskey "K">
-<!ENTITY itemFormSearchHistory.label "Forma &amp; Qıdıruv Keçmişi">
-<!ENTITY itemFormSearchHistory.accesskey "F">
-<!ENTITY itemCookies.label "Çörekler">
-<!ENTITY itemCookies.accesskey "r">
-<!ENTITY itemCache.label "Zula">
-<!ENTITY itemCache.accesskey "h">
-<!ENTITY itemOfflineApps.label "Devre-tışı Ağ-saytı Verileri">
-<!ENTITY itemOfflineApps.accesskey "t">
-<!ENTITY itemActiveLogins.label "Faal İçeri İmzalanmalar">
-<!ENTITY itemActiveLogins.accesskey "F">
-<!ENTITY itemSitePreferences.label "Sayt Tercihleri">
-<!ENTITY itemSitePreferences.accesskey "l">
-<!ENTITY sanitizeEverythingUndoWarning "Bu amel keri yasalamaz.">
+<!ENTITY itemFormSearchHistory.label       "Forma &amp; Qıdıruv Keçmişi">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
+<!ENTITY itemCookies.label                 "Çörekler">
+<!ENTITY itemCookies.accesskey             "r">
+<!ENTITY itemCache.label                   "Zula">
+<!ENTITY itemCache.accesskey               "h">
+<!ENTITY itemOfflineApps.label             "Devre-tışı Ağ-saytı Verileri">
+<!ENTITY itemOfflineApps.accesskey         "t">
+<!ENTITY itemActiveLogins.label            "Faal İçeri İmzalanmalar">
+<!ENTITY itemActiveLogins.accesskey        "F">
+<!ENTITY itemSitePreferences.label         "Sayt Tercihleri">
+<!ENTITY itemSitePreferences.accesskey     "l">
+
+<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
+     that appears when "Time range to clear" is set to "Everything".  See UI
+     mockup at bug 480169 -->
+<!ENTITY sanitizeEverythingUndoWarning     "Bu amel keri yasalamaz.">
