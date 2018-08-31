@@ -364,6 +364,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Permite redarea automată">
 <!ENTITY pref_media_autoplay_enabled_summary "Controlează dacă site-urile web pot rula automat videoclipuri și alt conținut media">
+<!ENTITY pref_media_autoplay_allow "Permite redarea automată">
+<!ENTITY pref_media_autoplay_block "Blochează redarea automată">
 <!ENTITY pref_zoom_force_enabled "Activează întotdeauna zoomul">
 <!ENTITY pref_zoom_force_enabled_summary "Forțează suprascrierea ca să poți face zoom pe orice pagină">
 <!ENTITY pref_voice_input "Intrare vocală">
@@ -887,5 +889,11 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 
 <!-- Used by accessibility services to identify the play/pause buttons shown in the
 Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Redă">
+<!ENTITY pip_play_button_description "Reia redarea">
+<!ENTITY pip_pause_button_title "Pauză">
+<!ENTITY pip_pause_button_description "Întrerupe redarea">
 
 <!-- Notification channels names -->
+<!ENTITY download_notification_channel "Descărcări">
+<!ENTITY media_notification_channel "Redare media">
