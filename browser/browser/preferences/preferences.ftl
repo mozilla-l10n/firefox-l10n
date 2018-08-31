@@ -716,6 +716,26 @@ content-blocking-tracking-protection-change-blocklist = Lisćinu blokěrowanjow 
 content-blocking-reject-trackers-label = Cookieje tśeśich póbitowarjow
     .accesskey = C
 content-blocking-reject-trackers-description = Wšykne cookieje tśeśich blokěrowaś abo jano te, kótarež pśeslědowaki su stajili.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = Wšykne cookieje su tuchylu zablokěrowane.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Cookieje z njewoglědanych websedłow su tuchylu zablokěrowane.
+content-blocking-change-cookie-settings =
+    .label = Nastajenja cookiejow změniś
+    .accesskey = N
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Pśeslědowaki (pśiraźone)
+    .accesskey = l
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Pśeslědowaki
+    .accesskey = d
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Wšykne cookieje tśeśich (móžo zawinowaś, až websedła njefunkcioněruju)
+    .accesskey = t
 
 ## Privacy Section - Tracking
 
