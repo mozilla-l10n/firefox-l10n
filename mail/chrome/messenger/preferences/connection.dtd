@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "Questa opziun t'autentifitgescha automaticamain tar proxies sche ti has memorisà las infurmaziuns d'annunzia correspundentas. L'autentificaziun manuala è mo necessaria sche l'autentificaziun automatica na reussescha betg.">
 <!ENTITY  socksRemoteDNS.label          "Utilisar in DNS proxy sche SOCKS v5 è activ">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  dnsOverHttps.label            "Activar DNS via HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "v">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL per resolver DNS via HTTPS">
