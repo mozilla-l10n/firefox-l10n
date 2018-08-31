@@ -32,3 +32,4 @@
 <!ENTITY trackingProtection.startTour1                   "작동 원리 살펴보기">
 
 <!ENTITY contentBlocking.title                           "콘텐츠 차단">
+<!ENTITY contentBlocking.description                     "어떤 웹사이트는 인터넷에서의 사용자 활동을 모니터할 수 있는 추적기를 사용합니다. 사생활 보호 창에서의 Firefox 콘텐츠 차단 기능은 사용자의 브라우징 행동에 관한 정보를 수집하는 많은 추적기를 차단합니다.">
