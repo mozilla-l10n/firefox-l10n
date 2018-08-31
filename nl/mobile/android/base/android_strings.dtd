@@ -903,3 +903,4 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "&vendorShortName;-locatieservice">
 <!ENTITY download_notification_channel "Downloads">
 <!ENTITY media_notification_channel "Media afspelen">
+<!ENTITY updater_notification_channel "App-updates">
