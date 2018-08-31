@@ -996,6 +996,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Tilføj blokering…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Alle fundne sporings-tjenester">
+
 <!ENTITY contentBlocking.trackingProtection.label "Sporings-tjenester">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
@@ -1008,6 +1010,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Tilføj blokering…">
+
+<!ENTITY contentBlocking.3rdPartyCookies.label "Tredjeparts-cookies">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokeret">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Tilføj blokering…">
+
+<!ENTITY contentBlocking.openBreakageReportView2.label "Rapportér et problem">
+<!ENTITY contentBlocking.breakageReportView.label "Rapportér problemer">
+<!ENTITY contentBlocking.breakageReportView2.description "Blokering af indhold kan skabe problemer for nogle websteder. Ved at rapportere problemer hjælper du med at gøre &brandShortName; bedre for alle. (Dette sender en URL samt information om dine browser-indstillinger til Mozilla.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Læs mere">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hvilke problemer oplever du? (valgfrit)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Send rapport">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Afbryd">
 
 <!ENTITY trackingProtection.title "Beskyttelse mod sporing">
 <!ENTITY trackingProtection.tooltip "Åbn indstillinger for beskyttelse mod sporing">
