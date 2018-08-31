@@ -6,6 +6,8 @@ do-not-track-description = Websedłam signal “Njeslědowaś” pósłaś, až 
 do-not-track-learn-more = Dalšne informacije
 do-not-track-option-default =
     .label = Jano, gaž se slědowański šćit wužywa
+do-not-track-option-default-content-blocking =
+    .label = Jano, gaž jo w { -brand-short-name } nastajone, až se namakane pśeslědowaki blokěruju.
 do-not-track-option-always =
     .label = Pśecej
 pref-page =
@@ -209,6 +211,9 @@ choose-button =
     .label = Wubraś…
     .accesskey = u
 choose-browser-language-description = Wubjeŕśo rěcy, kótarež se wužywaju, aby menije, powěsći a powěźeńki z { -brand-short-name } pokazali.
+manage-browser-languages-button =
+    .label = Alternatiwy nastajiś…
+    .accesskey = l
 confirm-browser-language-change-description = Startujśo { -brand-short-name } znowego, aby toś te změny nałožył
 confirm-browser-language-change-button = Nałožyś a znowego startowaś
 translate-web-pages =
@@ -629,6 +634,10 @@ sitedata-block-all-third-parties-option =
     .label = Wšykne cookieje tśeśich
 sitedata-block-always-option =
     .label = Wšykne cookieje (móžo zawinowaś, až websedła njefunkcioněruju)
+sitedata-block-all-third-party-option =
+    .label = Wšykne cookieje tśeśich (móžo zawinowaś, až websedła njefunkcioněruju)
+sitedata-block-all-option =
+    .label = Wšykne cookieje (buźo zawinowaś, až websedła njefunkcioněruju)
 sitedata-clear =
     .label = Daty lašowaś…
     .accesskey = l
@@ -676,6 +685,11 @@ content-blocking-category-label = Wubjeŕśo, což ma se blokěrowaś
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Pómałe slědujuce elementy
     .accesskey = P
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Pómałem cytajuce pśeslědowaki
+    .accesskey = P
 content-blocking-fastblock-description = Blokěrujo wopśimjeśe tśeśich póbitowarjow, kótaryž trjeba wěcej ako 5 sekundow, aby se zacytał.
 content-blocking-fastblock-option-enabled =
     .label = Pśecej blokěrowaś
@@ -683,6 +697,8 @@ content-blocking-fastblock-option-disabled =
     .label = NIgda njeblokěrowaś
 content-blocking-tracking-protection-label = Pśeslědowaki
     .accesskey = P
+content-blocking-tracking-protection-all-label = Wšykne namakane pśeslědowaki
+    .accesskey = s
 content-blocking-tracking-protection-description = Blokěrujo wšykne znate pśeslědowaki (Glědajśo: móžo teke zacyitanjeju někotarych bokow zajźowaś)
 content-blocking-tracking-protection-option-enabled =
     .label = Pśecej blokěrowaś
@@ -690,7 +706,16 @@ content-blocking-tracking-protection-option-pbm =
     .label = Jano w priwatnych woknach blokěrowaś
 content-blocking-tracking-protection-option-disabled =
     .label = Nigda njeblokěrowaś
+content-blocking-tracking-protection-option-always =
+    .label = Pśecej
+    .accesskey = P
+content-blocking-tracking-protection-option-private =
+    .label = Jano w priwatnych woknach
+    .accesskey = J
 content-blocking-tracking-protection-change-blocklist = Lisćinu blokěrowanjow změniś…
+content-blocking-reject-trackers-label = Cookieje tśeśich póbitowarjow
+    .accesskey = C
+content-blocking-reject-trackers-description = Wšykne cookieje tśeśich blokěrowaś abo jano te, kótarež pśeslědowaki su stajili.
 
 ## Privacy Section - Tracking
 
