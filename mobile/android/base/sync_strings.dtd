@@ -13,7 +13,7 @@
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'તમારું નવું ઉપકરણ સક્રિય કરવા માટે, ઉપકરણ પર “&syncBrand.shortName.label; સુયોજીત કરો” પસંદ કરો.'>
 <!ENTITY sync.subtitle.pair.label 'સક્રિય કરવા માટે, તમારા અન્ય ઉપકરણમાં “ઉપકરણની જોડી બનાવો” પસંદ કરો.'>
-<!ENTITY sync.pin.default.label '...n...n...n'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.link.nodevice.label 'ઉપકરણ મારી પાસે નથી…'>
 
 <!-- Configure Engines -->
