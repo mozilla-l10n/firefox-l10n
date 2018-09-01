@@ -36,7 +36,7 @@
 <!ENTITY archiveInOtherFolder.label "Další:">
 <!ENTITY archiveInOtherFolder.accesskey "l">
 <!ENTITY specialFolders.label "Koncepty a šablony">
-<!ENTITY keepDrafts2.label "Uchovat koncepty zpráv v:">
+<!ENTITY keepDrafts2.label "Uchovávat koncepty zpráv v:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Složka „Koncepty“ v:">
 <!ENTITY draftsFolderOn.accesskey "K">
