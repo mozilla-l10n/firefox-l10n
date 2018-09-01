@@ -667,7 +667,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "सुरक्षित जोडणी">
 <!ENTITY identity_connection_insecure "असुरक्षित जोडणी">
-<!ENTITY identity_connection_chromeui "हे सुरक्षित &brandShortName; पान आहे.">
+<!ENTITY identity_connection_chromeui "हे सुरक्षित &brandShortName; पृष्ठ आहे">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;ने या पानावरचा असुरक्षित आशय अडवला आहे.">
