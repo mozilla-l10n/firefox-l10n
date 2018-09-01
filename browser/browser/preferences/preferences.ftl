@@ -727,6 +727,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Elements de seguiment
     .accesskey = E
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Totes les galetes de tercers (pot fer que alguns llocs web no funcionin)
+    .accesskey = T
 
 ## Privacy Section - Tracking
 
