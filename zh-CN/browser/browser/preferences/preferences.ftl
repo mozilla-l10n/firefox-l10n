@@ -702,6 +702,21 @@ content-blocking-tracking-protection-option-private =
 content-blocking-tracking-protection-change-blocklist = 更换拦截列表…
 content-blocking-reject-trackers-label = 第三方 Cookie
     .accesskey = C
+content-blocking-reject-trackers-description = 拦截所有第三方 Cookie，或只拦截跟踪器设置的 Cookie。
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = 目前已拦截所有 Cookie。
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = 目前已拦截来自未访问网站的 Cookie。
+content-blocking-change-cookie-settings =
+    .label = 更改 Cookie 设置
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = 跟踪器（推荐）
+    .accesskey = k
 content-blocking-reject-trackers-block-trackers-option =
     .label = 跟踪器
     .accesskey = k
