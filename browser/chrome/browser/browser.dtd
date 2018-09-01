@@ -922,6 +922,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.off "मागोवा सुरक्षा: बंद">
 
 <!ENTITY contentBlocking.disabled.label "निष्क्रिय केले आहे">
+<!ENTITY contentBlocking.disabled.tooltip "आपण मजकूर अवरोधित करणे निष्क्रिय केले आहे.">
+<!ENTITY contentBlocking.exception.tooltip "आपण या साइटसाठी मजकूर अवरोधित करणे निष्क्रिय केले आहे.">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
@@ -956,6 +958,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "समस्या नोंदवा">
 <!ENTITY contentBlocking.breakageReportView.learnMore "अधिक जाणून घ्या">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "आपल्याला कोणती समस्या आहे? (पर्यायी)">
@@ -972,12 +975,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "या संकेतस्थळासाठी बंद करा">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "या साइटसाठी अवरोध करणे निष्क्रिय करा">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "ह्या सत्रासाठी निष्क्रिय करा">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "या संकेतस्थळासाठी सक्रिय करा">
 <!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.label "तात्पुरते अवरोध करणे निष्क्रिय करा">
+<!ENTITY trackingProtection.block5.label "या साइटसाठी अवरोध करणे सक्रीय करा">
 <!ENTITY trackingProtection.reload2.label "पृष्ठ पुनःलोड करा">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
