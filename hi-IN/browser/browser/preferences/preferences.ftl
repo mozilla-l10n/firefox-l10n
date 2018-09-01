@@ -360,7 +360,7 @@ use-current-pages =
         }
     .accesskey = C
 choose-bookmark =
-    .label = पुस्तचिह्न का उपयोग करें…
+    .label = बुकमार्क का उपयोग करें…
     .accesskey = B
 
 ## Search Section
@@ -405,7 +405,7 @@ search-keyword-warning-title = बीजशब्द अनुकृति
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = आपने एक बीजशब्द चुना है जो अभी "{ $name }" के द्वारा प्रयोग में है. कृपया दूसरा चुनें.
-search-keyword-warning-bookmark = आपने एक बीजशब्द चुना है जो अभी पुस्तचिह्न के द्वारा प्रयोग में है. कृपया दूसरा चुनें.‌
+search-keyword-warning-bookmark = आपने एक बीजशब्द चुना है जो अभी बुकमार्क के द्वारा प्रयोग में है. कृपया दूसरा चुनें.‌
 
 ## Containers Section
 
@@ -462,7 +462,7 @@ sync-sign-in =
 sync-signedin-settings-header = समन्वयन सेटिंग
 sync-signedin-settings-desc = चुने, { -brand-short-name } का उपयोग करके अपने उपकरण पर क्या संकालित करना हैं.
 sync-engine-bookmarks =
-    .label = पुस्तचिह्न
+    .label = बुकमार्क
     .accesskey = m
 sync-engine-history =
     .label = इतिहास
@@ -624,7 +624,7 @@ addressbar-locbar-history-option =
     .label = ब्राउज़िंग इतिहास
     .accesskey = H
 addressbar-locbar-bookmarks-option =
-    .label = पुस्तचिह्न
+    .label = बुकमार्क
     .accesskey = k
 addressbar-locbar-openpage-option =
     .label = टैब खोलें

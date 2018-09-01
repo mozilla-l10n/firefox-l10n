@@ -5,9 +5,9 @@
 
 <!ENTITY migrationWizard.title          "विज़ार्ड का आयात‌ करें">
 
-<!ENTITY importFrom.label               "पसन्द, पुस्तचिह्न, इतिहास, कूटशब्द‌ एवं अन्य डेटा यहाँ से आयात करें:">
-<!ENTITY importFromUnix.label           "वरीयताएँ, पुस्तचिह्न, इतिहास, कूटशब्द एवं अन्य आंकड़ा यहाँ से आयात करें:">
-<!ENTITY importFromBookmarks.label      "पुस्तचिह्न‌ यहाँ से आयात करें:">
+<!ENTITY importFrom.label               "पसन्द, बुकमार्क, इतिहास, कूटशब्द‌ एवं अन्य डेटा यहाँ से आयात करें:">
+<!ENTITY importFromUnix.label           "वरीयताएँ, बुकमार्क, इतिहास, कूटशब्द एवं अन्य आंकड़ा यहाँ से आयात करें:">
+<!ENTITY importFromBookmarks.label      "बुकमार्क‌ यहाँ से आयात करें:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
@@ -32,7 +32,7 @@
 <!ENTITY importFrom360se.label          "360 सुरक्षित ब्राउज़र‌">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "प्रोग्राम जो पुस्तचिह्न, इतिहास या कूटशब्द आंकड़ा रखती है पायी गई.‌">
+<!ENTITY noMigrationSources.label       "प्रोग्राम जो बुकमार्क, इतिहास या कूटशब्द आंकड़ा रखती है पायी गई.‌">
 
 <!ENTITY importSource.title             "सेटिंग्स और डेटा‌ यहाँ से आयात करें">
 <!ENTITY importItems.title              "आयात की वस्तुएँ">
