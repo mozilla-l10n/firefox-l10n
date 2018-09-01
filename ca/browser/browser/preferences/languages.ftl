@@ -5,6 +5,9 @@
 languages-window =
     .title = Llengües
     .style = width: 35em
+webpage-languages-window =
+    .title = Paràmetres de llengua de les pàgines web
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = A vegades les pàgines web s'ofereixen en més d'una llengua. Trieu les llengües per mostrar aquestes pàgines web, en ordre de preferència.
@@ -38,3 +41,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Paràmetres de llengua del { -brand-short-name }
+    .style = width: 40em
+browser-languages-description = El { -brand-short-name } utilitzarà la primera llengua per defecte i, si cal, utilitzarà les altres llengües en l'ordre en què apareixen.
