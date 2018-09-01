@@ -714,6 +714,10 @@ content-blocking-reject-trackers-description = Sewḥel akk inagan n tuqqna wis 
 # of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
 # being selected in the Cookies and Site Data section of the UI.
 content-blocking-reject-trackers-warning-all-cookies-blocked = Akk inagan n tuqqna ttusewḥlen.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Inagan n tuqqna sɣur ismal web uɣur ur telli tirza ttusewḥelen akka tura.
 content-blocking-change-cookie-settings =
     .label = Beddel iɣewwaṛen n inagan n tuqqna
     .accesskey = S
