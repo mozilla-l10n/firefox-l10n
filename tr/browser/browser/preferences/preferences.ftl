@@ -628,6 +628,10 @@ sitedata-block-all-third-parties-option =
     .label = Tüm üçüncü taraf çerezleri
 sitedata-block-always-option =
     .label = Tüm çerezler (Bazı siteler düzgün çalışmayabilir)
+sitedata-block-all-third-party-option =
+    .label = Tüm üçüncü taraf çerezleri (Bazı web siteleri bozulabilir.)
+sitedata-block-all-option =
+    .label = Tüm çerezler (Bazı web siteleri bozulabilir.)
 sitedata-clear =
     .label = Verileri temizle…
     .accesskey = l
@@ -705,6 +709,15 @@ content-blocking-tracking-protection-option-private =
 content-blocking-tracking-protection-change-blocklist = Engelleme listesini değiştir…
 content-blocking-reject-trackers-label = Üçüncü taraf çerezleri
     .accesskey = Ü
+content-blocking-reject-trackers-description = Tüm üçüncü taraf çerezlerini veya yalnızca takipçilerin oluşturduğu çerezleri engelleyebilirsiniz.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = Şu anda tüm çerezler engellenmektedir.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Ziyaret etmediğiniz sitelerden gelen çerezler engellenmektedir.
 content-blocking-change-cookie-settings =
     .label = Çerez ayarlarını değiştir
     .accesskey = z
@@ -714,6 +727,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Takipçiler
     .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Tüm üçüncü taraf çerezleri (Bazı siteler bozulabilir.)
+    .accesskey = ü
 
 ## Privacy Section - Tracking
 
