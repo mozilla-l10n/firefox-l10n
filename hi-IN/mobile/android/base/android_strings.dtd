@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "सुस्वागतम">
+<!ENTITY firstrun_panel_title_welcome "वेलकम">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; चुनने के लिए धन्यवाद">
 <!ENTITY firstrun_urlbar_subtext2 "Mozilla द्वारा एक आधुनिक मोबाइल ब्राउज़र, गैर-लाभकारी एक स्वतंत्र और उन्मुक्त वेब के लिए प्रतिबद्ध.">
 <!ENTITY firstrun_panel_title_privacy "गोपनीयता">
@@ -588,7 +588,7 @@
 <!ENTITY button_clear "साफ़ करें">
 <!ENTITY button_copy "नक़ल लें">
 
-<!ENTITY home_top_sites_title "टॉप साइटें">
+<!ENTITY home_top_sites_title "मुख्य साइटें">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "साइट जोड़ें">
