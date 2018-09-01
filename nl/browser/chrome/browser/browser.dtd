@@ -986,8 +986,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokkeert onderdelen van deze pagina die uw surfgedrag zouden kunnen volgen.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; heeft elementen gedetecteerd die uw surfgedrag zouden kunnen volgen.">
 <!ENTITY trackingProtection.detectedException "&brandShortName; heeft elementen gedetecteerd die uw surfgedrag zouden kunnen volgen. U hebt bescherming voor deze website uitgeschakeld.">
-<!ENTITY trackingProtection.notDetected5 "Geen volgelementen op deze pagina gedetecteerd.">
-<!ENTITY trackingProtection.notDetectedException "Geen volgelementen op deze pagina gedetecteerd. U hebt bescherming voor deze website uitgeschakeld.">
+<!ENTITY trackingProtection.notDetected5 "Geen tracking-elementen op deze pagina gedetecteerd.">
+<!ENTITY trackingProtection.notDetectedException "Geen tracking-elementen op deze pagina gedetecteerd. U hebt bescherming voor deze website uitgeschakeld.">
 
 <!ENTITY trackingProtection.reloadRequired2 "U hebt Bescherming tegen volgen ingeschakeld. Laad deze pagina opnieuw om alle trackers te blokkeren.">
 
