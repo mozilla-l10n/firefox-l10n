@@ -684,7 +684,18 @@ content-blocking-tracking-protection-option-pbm =
     .label = Ancaq Məxfi Pəncərələrdə əngəllə
 content-blocking-tracking-protection-option-disabled =
     .label = Heç vaxt əngəlləmə
+content-blocking-tracking-protection-option-always =
+    .label = Həmişə
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Ancaq məxfi pəncərələrdə
+    .accesskey = p
 content-blocking-tracking-protection-change-blocklist = Qara Siyahını Dəyiş…
+content-blocking-reject-trackers-label = Üçüncü tərəf çərəzlər
+    .accesskey = C
+content-blocking-reject-trackers-block-trackers-option =
+    .label = İzləyicilər
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
