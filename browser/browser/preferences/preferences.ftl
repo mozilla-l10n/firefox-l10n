@@ -661,7 +661,7 @@ addressbar-suggestions-settings = Change preferences for search engine suggestio
 
 content-blocking-header = Content Blocking
 content-blocking-desc = Block third-party content, like ads or code, that can slow your browsing and track you around the web. Customize your settings for the best balance of protection and performance.
-content-blocking-learn-more = Learn More
+content-blocking-learn-more = Learn more
 content-blocking-restore-defaults =
     .label = Restore Defaults
     .accesskey = R
