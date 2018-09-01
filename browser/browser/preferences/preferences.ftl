@@ -6,6 +6,8 @@ do-not-track-description = Trametter a websites il signal «Do Not Track» per i
 do-not-track-learn-more = Ulteriuras infurmaziuns
 do-not-track-option-default =
     .label = Mo sche la protecziun encunter il fastizar è activada
+do-not-track-option-default-content-blocking =
+    .label = Mo sche { -brand-short-name } è configurà per bloccar fastizaders chattads
 do-not-track-option-always =
     .label = Adina
 pref-page =
@@ -203,6 +205,9 @@ choose-button =
     .label = Tscherner…
     .accesskey = T
 choose-browser-language-description = Tscherna la lingua da menus, messadis ed avis da { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Definir las alternativas…
+    .accesskey = l
 confirm-browser-language-change-description = Reaviar { -brand-short-name } per applitgar questas midadas
 confirm-browser-language-change-button = Applitgar e reaviar
 translate-web-pages =
@@ -623,6 +628,10 @@ sitedata-block-all-third-parties-option =
     .label = Tut ils cookies da terzas partidas
 sitedata-block-always-option =
     .label = Tut ils cookies (po chaschunar problems cun tschertas paginas)
+sitedata-block-all-third-party-option =
+    .label = Tut ils cookies da terzas partidas (po chaschunar problems cun websites)
+sitedata-block-all-option =
+    .label = Tut ils cookies (chaschuna problems cun websites)
 sitedata-clear =
     .label = Stizzar las datas…
     .accesskey = l
@@ -670,6 +679,11 @@ content-blocking-category-label = Tscherna tge bloccar
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Elements plauns che fastizeschan
     .accesskey = s
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Fastizaders che chargian plaun
+    .accesskey = p
 content-blocking-fastblock-description = Blochescha cuntegn da terzas partidas che dovra dapli che 5 secundas per chargiar.
 content-blocking-fastblock-option-enabled =
     .label = Adina bloccar
@@ -677,6 +691,8 @@ content-blocking-fastblock-option-disabled =
     .label = Mai bloccar
 content-blocking-tracking-protection-label = Fastizaders
     .accesskey = t
+content-blocking-tracking-protection-all-label = Tut ils fastizaders chattads
+    .accesskey = T
 content-blocking-tracking-protection-description = Blochescha tut ils fastizaders enconuschents (Remartga: impedescha eventualmain che tschertas paginas chargian)
 content-blocking-tracking-protection-option-enabled =
     .label = Adina bloccar
@@ -684,7 +700,36 @@ content-blocking-tracking-protection-option-pbm =
     .label = Mo bloccar en fanestras privatas
 content-blocking-tracking-protection-option-disabled =
     .label = Mai bloccar
+content-blocking-tracking-protection-option-always =
+    .label = Adina
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Mo en fanestras privatas
+    .accesskey = p
 content-blocking-tracking-protection-change-blocklist = Modifitgar la glista da bloccada…
+content-blocking-reject-trackers-label = Cookies da terzas partidas
+    .accesskey = C
+content-blocking-reject-trackers-description = Bloccar tut ils cookies da terzas partidas u mo quels ch'èn definids da fastizaders.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = Actualmain vegnan tut ils cookies bloccads.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Actualmain vegnan bloccads ils cookies da websites betg visitadas.
+content-blocking-change-cookie-settings =
+    .label = Modifitgar ils parameters per ils cookies
+    .accesskey = s
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Fastizaders (recumandà)
+    .accesskey = z
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Fastizaders
+    .accesskey = z
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Tut ils cookies da terzas partidas (po chaschunar problems cun websites)
+    .accesskey = T
 
 ## Privacy Section - Tracking
 
