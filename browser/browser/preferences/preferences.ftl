@@ -201,6 +201,9 @@ choose-button =
     .label = 选择…
     .accesskey = o
 choose-browser-language-description = 选择 { -brand-short-name } 显示菜单、消息和通知时使用的语言。
+manage-browser-languages-button =
+    .label = 设置备用语言…
+    .accesskey = l
 confirm-browser-language-change-description = 重开 { -brand-short-name } 以应用这些更改
 confirm-browser-language-change-button = 应用并重新打开
 translate-web-pages =
@@ -720,6 +723,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = 跟踪器
     .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = 所有第三方 Cookie（可能导致网站故障）
+    .accesskey = A
 
 ## Privacy Section - Tracking
 

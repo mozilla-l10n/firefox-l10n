@@ -44,3 +44,4 @@ languages-active-code-format =
 browser-languages-window =
     .title = { -brand-short-name } 语言设置
     .style = width: 40em
+browser-languages-description = { -brand-short-name } 将显示的第一个语言作为您的默认语言，并在必要时按语言的顺序显示备用语言。
