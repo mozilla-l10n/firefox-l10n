@@ -190,7 +190,7 @@
 <!ENTITY pref_category_vendor_summary2 "&brandShortName; बद्दल, FAQs, अभिप्राय">
 <!ENTITY pref_category_datareporting "माहिती पर्याय">
 <!ENTITY pref_category_logins "लॉगिन्स">
-<!ENTITY pref_learn_more "आणखी शिका">
+<!ENTITY pref_learn_more "अधिक जाणा">
 <!ENTITY pref_category_installed_search_engines "इंस्टॉल केलेले शोध इंजिन">
 <!ENTITY pref_category_add_search_providers "आणखी शोध पुरविणारे समाविष्ट करा">
 <!ENTITY pref_category_search_restore_defaults "शोध इंजिन पुनःस्थापित करा">
@@ -216,7 +216,7 @@
 <!ENTITY pref_manage_logins "लॉगिन्स व्यवस्थापित करा">
 
 <!ENTITY pref_category_home "मुख्य पटल">
-<!ENTITY pref_category_home_summary "घरपानाची स्वपसंती करा">
+<!ENTITY pref_category_home_summary "मुख्यपृष्ठ सानुकूलीत करा">
 <!ENTITY pref_category_home_panels "फलक">
 <!ENTITY pref_category_home_add_ons "ॲड-ऑन्स">
 <!ENTITY pref_home_updates2 "मजकूर सुधारणा">
@@ -460,7 +460,7 @@
 <!ENTITY quit "बाहेर पडा">
 
 <!ENTITY addons "ॲड-ऑन्स">
-<!ENTITY logins "लॉग-इन्स">
+<!ENTITY logins "लॉगिन">
 <!ENTITY downloads "डाउनलोडस्">
 <!ENTITY char_encoding "कॅरेक्टर एनकोडिंग">
 
@@ -588,7 +588,7 @@
 <!ENTITY button_clear "पुसा">
 <!ENTITY button_copy "प्रत बनवा">
 
-<!ENTITY home_top_sites_title "खास साईट्स">
+<!ENTITY home_top_sites_title "खास साईट">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "साईट जोडा">
@@ -683,7 +683,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_message_disabled2 "आपल्या ब्राउझिंगचा मागोवा घेऊ शकणारे घटक या पानामधे आहेत.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
-<!ENTITY learn_more "आणखी शिका">
+<!ENTITY learn_more "अधिक जाणा">
 <!ENTITY enable_protection "सुरक्षा सक्रीय करा">
 <!ENTITY disable_protection "सुरक्षा निष्क्रिय करा">
 
@@ -846,7 +846,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "वाचक पद्धत घटकांना ऑफलाइन वाचण्यासाठी वाचनखूण लावा.">
 <!ENTITY helper_triple_readerview_open_button "वाचनखुणांमध्ये समाविष्ट करा">
 
-<!ENTITY activity_stream_topsites "खास साईट्स">
+<!ENTITY activity_stream_topsites "खास साईट">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket; द्वारे शिफारस केलेले">
 <!ENTITY activity_stream_highlights "महत्त्वाचे">
