@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE : FILE Media management prefs -->
 <!ENTITY pref.media.title               "მედიაფაილი">
 <!ENTITY mediaHTML5Preferences.label    "ხმოვანი/ვიდეო">
-<!ENTITY allowMediaAutoplay.label       "HTML5 შიგთავსის ავტომატური გაშვება">
+<!ENTITY allowMediaAutoplay.label       "HTML5 შიგთავსის თვითგაშვება">
 <!ENTITY allowMediaAutoplay.accesskey   "ე">
 
 <!ENTITY enableDrmMedia.label           "ციფრული უფლებების მართვის (DRM) ჩართვა">
