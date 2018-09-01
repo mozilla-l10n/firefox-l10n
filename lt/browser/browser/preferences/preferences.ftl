@@ -730,6 +730,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Stebėjimo elementai
     .accesskey = b
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Visi trečiųjų šalių slapukai (gali sutrikti svetainių veikimas)
+    .accesskey = V
 
 ## Privacy Section - Tracking
 
