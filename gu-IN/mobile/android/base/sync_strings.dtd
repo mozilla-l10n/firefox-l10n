@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'બ્રાઉઝીંગમાં પાછા'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync '&syncBrand.shortName.label; માં સ્વાગત છે'>
-<!ENTITY fxaccount_getting_started_description2 'સમન્વયિત કરવા માટે સાઇન ઇન કરો તમારા ટૅબ્સ, બુકમાર્ક્સ, લોગિન અને &amp; વધુ.'>
+<!ENTITY fxaccount_getting_started_description2 'સમન્વયિત કરવા માટે સાઇન ઇન કરો તમારા ટૅબ્સ, બુકમાર્ક્સ, લોગિન &amp; વધુ.'>
 <!ENTITY fxaccount_getting_started_get_started 'શરૂઆત કરો'>
 <!ENTITY fxaccount_getting_started_old_firefox '&syncBrand.shortName.label; ની જૂની આવૃત્તિ વાપરી રહ્યા છો?'>
 
