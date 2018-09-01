@@ -181,17 +181,17 @@
 <!ENTITY overlay_no_synced_devices "Firefox खाते से जुड़े कोई भी उपकरण पाएँ नहीं गए">
 
 <!ENTITY pref_category_search3 "खोजें">
-<!ENTITY pref_category_search_summary2 "जोड़े, डिफ़ॉल्ट सेट करे, सुझाव दिखाएँ">
-<!ENTITY pref_category_accessibility "उपागम्यता">
+<!ENTITY pref_category_search_summary2 "जोड़ें, डिफ़ॉल्ट सेट करें, सुझाव दिखाएँ">
+<!ENTITY pref_category_accessibility "अभिगम्यता">
 <!ENTITY pref_category_accessibility_summary2 "मूलशब्द आकार, ज़ूम, आवाज़ सहयोग">
 <!ENTITY pref_category_privacy_short "गोपनीयता">
 <!ENTITY pref_category_privacy_summary4 "ट्रैकिंग, लॉग इन, डेटा विकल्प">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "परिचय &brandShortName;, FAQs, फ़ीडबैक">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName; परिचय, FAQs, प्रतिक्रिया">
 <!ENTITY pref_category_datareporting "आँकड़ा विकल्प">
 <!ENTITY pref_category_logins "लॉग इन">
 <!ENTITY pref_learn_more "अधिक जानें">
-<!ENTITY pref_category_installed_search_engines "संस्थापित खोज इंजन">
+<!ENTITY pref_category_installed_search_engines "इनस्टॉल हुए खोज इंजन">
 <!ENTITY pref_category_add_search_providers "अन्य खोज प्रदाता जोड़ें">
 <!ENTITY pref_category_search_restore_defaults "खोज इंजन पुनर्बहाल करें">
 <!ENTITY pref_search_restore_defaults "तयशुदा पुनर्बहाल करें">
@@ -395,7 +395,7 @@
 <!ENTITY pref_private_data_downloadFiles2 "डाउनलोड">
 <!ENTITY pref_private_data_syncedTabs "सिंक किया टैब">
 
-<!ENTITY pref_default_browser "डिफ़ॉल्ट ब्राउज़र बनाये">
+<!ENTITY pref_default_browser "डिफ़ॉल्ट ब्राउज़र बनायें">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla समर्थन पर जाए">
 <!ENTITY pref_about_firefox "&brandShortName; परिचय">
 <!ENTITY pref_vendor_faqs "आम सवाल">
