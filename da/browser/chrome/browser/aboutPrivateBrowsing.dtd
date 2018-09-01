@@ -37,4 +37,4 @@
 <!ENTITY trackingProtection.startTour1                   "Se, hvordan det fungerer">
 
 <!ENTITY contentBlocking.title                           "Blokering af indhold">
-<!ENTITY contentBlocking.description                     "Nogle websteder benytter teknologi, der kan overvåge din aktivitet på internettet. I private vinduer benytter Firefox Blokering af indhold for automatisk at blokere mange sporings-tjenester, der kan indsamle information om din aktivitet på nettet.">
+<!ENTITY contentBlocking.description                     "Nogle websteder benytter teknologi, der kan overvåge din aktivitet på internettet. I private vinduer blokerer Firefox automatisk mange af de sporings-tjenester, der kan indsamle information om din aktivitet på nettet.">
