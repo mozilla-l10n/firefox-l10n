@@ -208,7 +208,7 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ટૅબ્સ, ડેટા સેવર, ડેવલપર ટૂલ્સ પુનઃસ્થાપિત કરો">
 <!ENTITY pref_category_notifications "સૂચનાઓ">
-<!ENTITY pref_category_notifications_summary2 "નવી સુવિધાઓ, ઉત્પાદન ટીપ્સ">
+<!ENTITY pref_category_notifications_summary2 "નવી સુવિધાઓ, ઉત્પાદન સુઝાવ">
 <!ENTITY pref_developer_remotedebugging_usb "દૂરસ્થ ડિબગીંગ USB દ્વારા">
 <!ENTITY pref_developer_remotedebugging_wifi "દૂરસ્થ ડિબગીંગ વાય ફાઇ દ્વારા">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ડિબગીંગ માટે તમારા ઉપકરણને QR કોડ રીડર એપ્લિકેશન ઇન્સ્ટોલ કરવાની જરૂર છે.">
@@ -286,7 +286,7 @@
 
 <!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification"-->
-<!ENTITY pref_feature_tips_notification "ઉત્પાદન અને વિશેષતા ટિપ્સ">
+<!ENTITY pref_feature_tips_notification "ઉત્પાદન અને વિશેષતા સુઝાવ">
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; નો ઉપયોગ કરવા વિશે વધુ જાણો; અને અન્ય &vendorShortName; ઉત્પાદનો">
