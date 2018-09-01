@@ -682,7 +682,7 @@ content-blocking-fastblock-label = Elements de seguiment lents
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Elements de seguiment que triguin a carregar-se
+content-blocking-fastblock-slow-loading-label = Elements de seguiment que triguen a carregar-se
     .accesskey = s
 content-blocking-fastblock-description = Bloca el contingut de tercers que triga més de 5 segons a carregar.
 content-blocking-fastblock-option-enabled =

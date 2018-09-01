@@ -930,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "No s'ha detectat contingut blocable en aquesta pàgina.">
 <!ENTITY contentBlocking.disabled.label "Desactivat">
 <!ENTITY contentBlocking.disabled.tooltip "Heu desactivat el bloqueig de contingut.">
+<!ENTITY contentBlocking.exception.tooltip "Heu desactivat el bloqueig de contingut en aquest lloc.">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
