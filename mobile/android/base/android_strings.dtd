@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "შემდეგი">
 
 <!ENTITY firstrun_tabqueue_title "ბმულები">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "ჩანართების რიგის ჩართვა">
-<!ENTITY firstrun_tabqueue_subtext_off "ერთი შეხებით შეინახეთ ბმულები სხვადასხვა პროგრამებიდან, &brandShortName;-ში მოგვიანებით სანახავად.">
-
-<!ENTITY firstrun_tabqueue_message_on "კარგია!">
-<!ENTITY firstrun_tabqueue_subtext_on "ამის გამორთვა ყოველთვის შეგიძლიათ &settings;-ში &pref_category_general; განყოფილებაში.">
 
 <!ENTITY firstrun_readerview_title "სტატიები">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "&brandShortName; გადატვირთვა">
 
 <!ENTITY url_bar_default_text2 "მოძებნეთ ან შეიყვანეთ მისამართი">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ჩანართების აღდგენა, მონაცემების დამზოგი, შემმუშავებლის ხელსაწყოები">
 <!ENTITY pref_category_notifications "ცნობები">
-<!ENTITY pref_category_notifications_summary "ახალი შესაძლებლობები, ვებსაიტის განახლებები">
 <!ENTITY pref_category_notifications_summary2 "ახალი შესაძლებლობები, მითითებები">
 <!ENTITY pref_developer_remotedebugging_usb "დისტანციური გამართვა USB-ით">
 <!ENTITY pref_developer_remotedebugging_wifi "დისტანციური გამართვა Wi-Fi-ით">
@@ -457,7 +449,7 @@
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "ავტომატური განახლებები">
+<!ENTITY pref_update_autodownload3 "თვითგანახლებები">
 <!ENTITY pref_update_autodownload_wifi "მხოლოდ Wi-Fi-ით">
 <!ENTITY pref_update_autodownload_never "არასდროს">
 <!ENTITY pref_update_autodownload_always "ყოველთვის">
