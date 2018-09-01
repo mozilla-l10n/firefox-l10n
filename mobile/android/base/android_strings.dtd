@@ -373,10 +373,10 @@
 <!ENTITY pref_qrcode_enabled "QR कोड रीडर">
 <!ENTITY pref_qrcode_enabled_summary2 "URL पट्टी में QR स्कैनर की अनुमति दें">
 
-<!ENTITY pref_use_master_password "प्रधान कूटशब्द का उपयोग करें">
+<!ENTITY pref_use_master_password "मास्टर पासवर्ड का उपयोग करें">
 <!ENTITY pref_sync_default_title "Firefox खाता">
 <!ENTITY pref_sync2 "साइन इन">
-<!ENTITY pref_sync_summary2 "अपने टैब, बुकमार्क, कूटशब्द, इतिहास समन्वयित करें">
+<!ENTITY pref_sync_summary2 "अपने टैब, बुकमार्क, पासवर्ड, इतिहास सिंक करें">
 <!ENTITY pref_search_suggestions "खोज सलाह दिखाएँ">
 <!ENTITY pref_history_search_suggestions "खोज इतिहास दिखाएँ">
 <!ENTITY pref_import_options "आयात विकल्प">
@@ -531,8 +531,8 @@
 <!ENTITY doorhanger_login_no_username "[No username]">
 <!ENTITY doorhanger_login_edit_title "लॉगिन सम्पादित करें">
 <!ENTITY doorhanger_login_edit_username_hint "उपयोक्तानाम">
-<!ENTITY doorhanger_login_edit_password_hint "कूटशब्द">
-<!ENTITY doorhanger_login_edit_toggle "कूटशब्द दिखाएँ">
+<!ENTITY doorhanger_login_edit_password_hint "पासवर्ड">
+<!ENTITY doorhanger_login_edit_toggle "पासवर्ड दिखाएँ">
 <!ENTITY doorhanger_login_select_message "&formatS; से पासवर्ड कॉपी करें?">
 <!ENTITY doorhanger_login_select_toast_copy "क्लिपबोर्ड में पासवर्ड कॉपी किया गया">
 <!ENTITY doorhanger_login_select_action_text "दूसरा लॉगिन चयन करें">
@@ -574,10 +574,10 @@
      They are not visible in the UI. -->
 <!ENTITY page_action_dropmarker_description "अतिरिक्त क्रिया">
 
-<!ENTITY masterpassword_create_title "प्रधान कूटशब्द बनाएँ">
-<!ENTITY masterpassword_remove_title "प्रधान कूटशब्द हटाएँ">
-<!ENTITY masterpassword_password "कूटशब्द">
-<!ENTITY masterpassword_confirm "कूटशब्द की पुष्टि करें">
+<!ENTITY masterpassword_create_title "मास्टर पासवर्ड बनाएँ">
+<!ENTITY masterpassword_remove_title "मास्टर पासवर्ड हटाएँ">
+<!ENTITY masterpassword_password "पासवर्ड">
+<!ENTITY masterpassword_confirm "पासवर्ड की पुष्टि करें">
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "रद्द करें">
@@ -605,7 +605,7 @@
 <!ENTITY home_clear_history_button "ब्राउज़िंग का इतिहास साफ़ करें |">
 <!ENTITY home_clear_history_confirm "क्या आप दृढ़ हैं की आप इतिहास को साफ करना चाहते हैं?">
 <!ENTITY home_bookmarks_empty "आपके सहेजे बुकमार्क यहाँ दिखेंगे.">
-<!ENTITY home_closed_tabs_title2 "हाल ही में बंद किए टैब">
+<!ENTITY home_closed_tabs_title2 "हाल ही में बंद हुए टैब">
 <!ENTITY home_last_tabs_empty "हालिया टैब यहाँ दिखते हैं.">
 <!ENTITY home_restore_all "टैब पुनर्बहाल करें">
 <!ENTITY home_closed_tabs_number "&formatD; टैब">
@@ -873,7 +873,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "निजी ब्राउज़िंग + ट्रैकिंग सुरक्षा">
 <!ENTITY private_tab_panel_description "&brandShortName; पृष्ठ के उन हिस्सों को ब्लॉक करता है जो आपके ऑनलाइन गतिविधियों को ट्रैक कर सकते हैं.">
-<!ENTITY private_tab_panel_description2 "हम कोई इतिहास नही याद रखेंगे, परन्तु डाउनलोड की हुई फाइल्स और नए पुस्तकचिन्ह आपके उपकरण पर सहेजे जाएँगे.">
+<!ENTITY private_tab_panel_description2 "हम कोई इतिहास नही याद रखेंगे, परन्तु डाउनलोड की हुई फ़ाइलें तथा नए बुकमार्क आपके उपकरण पर सहेजे जाएँगे.">
 <!ENTITY private_tab_learn_more "अधिक जानना चाहते हैं?">
 
 <!ENTITY fullscreen_warning "पूर्ण स्क्रीन दर्ज">
