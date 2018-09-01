@@ -35,6 +35,14 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Sulge teised kaardid">
 <!ENTITY  closeOtherTabs.accesskey           "t">
 
+
+<!-- Pin Tab and Pin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Reload Tab and Reload Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -50,8 +58,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "h">
 <!ENTITY  sendLinkToDevice.label             "Saada link seadmesse">
 <!ENTITY  sendLinkToDevice.accesskey         "i">
-<!ENTITY  sendToDeviceFeedback.label         "Saadetud!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "Järjekorras (seade pole võrgus)">
 <!ENTITY  moveToNewWindow.label              "Liiguta uude aknasse">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  bookmarkAllTabs.label              "Lisa kõik kaardid järjehoidjatesse…">
@@ -60,7 +66,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "g">
 <!ENTITY  closeTab.label                     "Sulge kaart">
 <!ENTITY  closeTab.accesskey                 "S">
-
 
 <!ENTITY  listAllTabs.label      "Näita kõigi kaartide nimekirja">
 
@@ -128,7 +133,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Kuva kõiki kaarte">
 <!ENTITY showAllTabsCmd.accesskey "K">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Logi &syncBrand.shortName.label;i sisse">
@@ -188,10 +192,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Muud järjehoidjad">
 <!ENTITY mobileBookmarksCmd.label "Mobiilsed järjehoidjad">
 <!ENTITY bookmarksToolbarChevron.tooltip "Veel järjehoidjaid">
-<!ENTITY showRecentlyBookmarked.label     "Kuva viimati järjehoidjatesse lisatud linke">
-<!ENTITY showRecentlyBookmarked.accesskey "i">
-<!ENTITY hideRecentlyBookmarked.label     "Peida viimati järjehoidjatesse lisatud lingid">
-<!ENTITY hideRecentlyBookmarked.accesskey "i">
 
 <!ENTITY backCmd.label                "Tagasi">
 <!ENTITY backCmd.accesskey            "T">
@@ -223,7 +223,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Salvesta andmeid püsivalt">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Veebilehitseja on kaugjuhtimisel">
 
-
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Halda kaamera ja/või mikrofoni jagamist saidiga">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Halda mikrofoni jagamist saidiga">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Halda ekraani või akende jagamist saidiga">
@@ -232,7 +231,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Tõlgi see leht">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Halda lehe tõlkimist">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Halda DRM-tarkvara kasutust">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Ava MIDI paneel">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Oled sellel lehel keelanud kaamera kasutamise.">
@@ -243,7 +241,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Oled sellel saidil keelanud andmete püsivalt salvestamise.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Oled sellel lehel hüpikaknad blokkinud.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Oled sellel lehel keelanud kanvaa andmete ekstraktimise.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Oled sellel lehel keelanud plugina Adobe Flash kasutamise.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Oled sellel lehel keelanud ligipääsu MIDIle.">
 
@@ -298,6 +295,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Veebiarendajale">
 <!ENTITY webDeveloperMenu.accesskey   "b">
+
 
 <!ENTITY inspectContextMenu.label     "Inspekteeri elementi">
 <!ENTITY inspectContextMenu.accesskey "n">
@@ -392,7 +390,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Soovid näha teistes seadmetes avatud kaarte?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Synci sätted">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ava Synci sätted">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Teistes seadmetes avatud kaartide vaatamiseks logi sisse.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Sinu konto vajab kinnitamist.">
@@ -405,32 +402,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Lisa tööriistaribale">
 <!ENTITY customizeMenu.addToToolbar.accesskey "L">
-<!ENTITY customizeMenu.addToPanel.label "Lisa menüüsse">
-<!ENTITY customizeMenu.addToPanel.accesskey "m">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Lisa nurgatagusesse menüüsse">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "n">
-<!ENTITY customizeMenu.moveToToolbar.label "Liiguta tööriistaribale">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "i">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Liiguta menüüsse">
-<!ENTITY customizeMenu.moveToPanel.accesskey "g">
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Liiguta nurgatagusesse menüüsse">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "r">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Eemalda nurgatagusest menüüst">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.removeFromToolbar.label "Eemalda tööriistaribalt">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "E">
-<!ENTITY customizeMenu.removeFromMenu.label "Eemalda menüüst">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "E">
 <!ENTITY customizeMenu.addMoreItems.label "Lisa rohkem elemente…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "L">
 
@@ -441,7 +427,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Otsi või sisesta aadress">
-<!ENTITY urlbar.placeholder3          "Sisesta otsitavad fraasid ja veebiaadressid siia">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Laiendus:">
@@ -575,7 +560,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Pane see paneel järjehoidjatesse">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "e">
 <!ENTITY pageAction.copyLink.label    "Kopeeri link">
-<!ENTITY copyURLFeedback.label        "Kopeeritud!">
 <!ENTITY emailPageCmd.label           "Saada link e-postiga…">
 <!ENTITY emailPageCmd.accesskey       "d">
 <!ENTITY savePageCmd.label            "Salvesta veebileht kui…">
@@ -606,6 +590,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Peida see plugin">
 <!ENTITY hidePluginCmd.accesskey      "d">
 <!ENTITY copyLinkCmd.label            "Kopeeri lingi aadress">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "o">
 <!ENTITY copyImageCmd.label           "Kopeeri pildi aadress">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -616,6 +603,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Kopeeri audio aadress">
 <!ENTITY copyAudioURLCmd.accesskey    "p">
 <!ENTITY copyEmailCmd.label           "Kopeeri e-posti aadress">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "i">
 <!ENTITY thisFrameMenu.label              "See paneel">
 <!ENTITY thisFrameMenu.accesskey          "p">
@@ -751,8 +741,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Lisa sõnaraamatuid...">
 <!ENTITY spellAddDictionaries.accesskey "n">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
 <!ENTITY editBookmark.done.label                     "Sobib">
-<!ENTITY editBookmark.removeBookmark.accessKey       "E">
+
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -794,6 +787,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.accesskey "E">
 
 <!ENTITY identity.moreInfoLinkText2 "Rohkem teavet">
+
 
 <!ENTITY identity.permissions "Õigused">
 <!ENTITY identity.permissionsEmpty "Sellele saidile pole tagatud ühtki eriõigust.">
@@ -897,22 +891,50 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Kaardi heli jagatakse välja.">
 <!ENTITY getUserMedia.allWindowsShared.message "Jagatakse kõiki nähtavaid aknaid sinu ekraanil.">
 
+
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking tracker content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+
 <!ENTITY trackingProtection.title "Jälitamisvastane kaitse">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokib selle lehe osasid, mis võivad sinu tegevust jälitada.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "See sait sisaldab elemente, mis võivad sinu tegevust jälitada. Kaitse on keelatud.">
-<!ENTITY trackingProtection.notDetected3 "Sellel lehel ei tuvastatud jälitavaid elemente.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Keela kaitse sellel saidil">
-<!ENTITY trackingProtection.unblock.accesskey "K">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+<!ENTITY trackingProtection.unblock3.label "Keela sellel saidil">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Keela kaitse selle seansi ajaks">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "K">
-<!ENTITY trackingProtection.block2.label "Luba kaitse">
-<!ENTITY trackingProtection.block2.accesskey "L">
+<!ENTITY trackingProtection.unblockPrivate3.label "Keela selles seansis">
 
 <!ENTITY pluginNotification.showAll.label "Kuva kõiki">
 <!ENTITY pluginNotification.showAll.accesskey "K">
@@ -985,16 +1007,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "M">
 <!ENTITY updateRestart.panelUI.label2 "Uuendamiseks taaskäivita &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Laiendus on muutnud uue kaardi lehte. Sa võid taastada sätted, kui sa ei soovi seda muudatust.">
-
 <!ENTITY newTabControlled.header.message "Uue kaardi sisu on muutunud.">
 <!ENTITY newTabControlled.keepButton.label "Säilita muudatused">
 <!ENTITY newTabControlled.keepButton.accesskey "S">
-<!ENTITY newTabControlled.restoreButton.label "Taasta sätted">
-<!ENTITY newTabControlled.restoreButton.accesskey "T">
-
 <!ENTITY newTabControlled.disableButton.label "Keela see laiendus">
 <!ENTITY newTabControlled.disableButton.accesskey "l">
+
 
 
 <!ENTITY pageActionButton.tooltip "Lehe toimingud">
@@ -1006,6 +1024,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.sendTabToDevice.label "Saada kaart seadmesse">
 <!ENTITY sendToDevice.syncNotReady.label "Seadmeid sünkroniseeritakse…">
+
 
 
 <!ENTITY libraryButton.tooltip "Vaata ajalugu, salvestatud järjehoidjaid ja muid asju">
