@@ -661,6 +661,11 @@ content-blocking-category-label = เลือกสิ่งที่จะป�
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = องค์ประกอบติดตามที่ช้า
     .accesskey = อ
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = ตัวติดตามที่โหลดช้า
+    .accesskey = ต
 content-blocking-fastblock-description = ปิดกั้นเนื้อหาจากบุคคลที่สามที่ใช้เวลานานกว่า 5 วินาทีในการโหลด
 content-blocking-fastblock-option-enabled =
     .label = ปิดกั้นเสมอ
@@ -668,6 +673,8 @@ content-blocking-fastblock-option-disabled =
     .label = ไม่ปิดกั้นเสมอ
 content-blocking-tracking-protection-label = ตัวติดตาม
     .accesskey = ต
+content-blocking-tracking-protection-all-label = ตัวติดตามที่ตรวจพบทั้งหมด
+    .accesskey = ว
 content-blocking-tracking-protection-description = ปิดกั้นตัวติดตามที่รู้จักทั้งหมด (หมายเหตุ: อาจทำให้ไม่สามารถโหลดบางหน้า)
 content-blocking-tracking-protection-option-enabled =
     .label = ปิดกั้นเสมอ
@@ -682,6 +689,8 @@ content-blocking-tracking-protection-option-private =
     .label = เฉพาะในหน้าต่างส่วนตัว
     .accesskey = พ
 content-blocking-tracking-protection-change-blocklist = เปลี่ยนรายการปิดกั้น…
+content-blocking-reject-trackers-label = คุกกี้จากบุคคลที่สาม
+    .accesskey = ค
 content-blocking-change-cookie-settings =
     .label = เปลี่ยนการตั้งค่าคุกกี้
     .accesskey = ป
@@ -691,6 +700,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = ตัวติดตาม
     .accesskey = ต
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = คุกกี้จากบุคคลที่สามทั้งหมด (อาจส่งผลให้เว็บไซต์ไม่สมบูรณ์)
+    .accesskey = ค
 
 ## Privacy Section - Tracking
 
