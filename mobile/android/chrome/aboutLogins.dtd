@@ -5,6 +5,6 @@
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 <!ENTITY aboutLogins.title                       "લૉગિન">
-<!ENTITY aboutLogins.update                      "અપડેટ">
+<!ENTITY aboutLogins.update                      "સુધારો">
 <!ENTITY aboutLogins.emptyLoginText              "તમારા લૉગિન સુરક્ષિત રાખો">
 <!ENTITY aboutLogins.emptyLoginHint              "લૉગિન અને પ્રમાણપત્રો જે તમે &brandShortName; ઉપયોગ કરીને સાચવો છો અહીં બતાવશે.">
