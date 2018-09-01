@@ -32,3 +32,4 @@
 <!ENTITY trackingProtection.startTour1                   "Jak to funguje">
 
 <!ENTITY contentBlocking.title                           "Blokování obsahu">
+<!ENTITY contentBlocking.description                     "Některé webové stránky používají prvky, které vás mohou sledovat napříč internetem. V anonymním prohlížení Firefox zablokuje mnohé sledovací prvky, které o vás sbírají informace.">

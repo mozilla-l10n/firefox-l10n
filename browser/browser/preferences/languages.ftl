@@ -5,6 +5,9 @@
 languages-window =
     .title = Jazyky
     .style = width: 30em
+webpage-languages-window =
+    .title = Jazyk webových stránek
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Webové stránky jsou někdy k dispozici v několika jazycích. Zvolte jazyky v takovém pořadí, v jakém se mají používat pro zobrazování webových stránek
@@ -38,3 +41,7 @@ languages-code-format =
     .label = { $locale } [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Jazyk aplikace { -brand-short-name }
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } zobrazí své uživatelské rozhraní v prvním vybraném jazyce. Ostatní použije jen pokud bude potřeba, a to ve vybraném pořadí.
