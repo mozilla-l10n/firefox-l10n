@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "આપનું સ્વાગત છે">
-<!ENTITY firstrun_urlbar_message2 "પસંદ કરવા માટે આભાર &brandShortName;">
+<!ENTITY firstrun_urlbar_message2 "&brandShortName; પસંદ કરવા માટે આભાર">
 <!ENTITY firstrun_urlbar_subtext2 "Mozilla ના આધુનિક મોબાઇલ બ્રાઉઝર, બિન નફાકારક એક મફત અને ખુલ્લા વેબ માટે પ્રતિબદ્ધ છે.">
 <!ENTITY firstrun_panel_title_privacy "ખાનગીપણું">
 <!ENTITY firstrun_privacy_message "કોઈ નથી જોતું એ રીતે બ્રાઉઝ કરો">
-<!ENTITY firstrun_privacy_subtext "ટ્રેકિંગ પ્રોટેક્શન સાથે ખાનગી બ્રાઉઝિંગ બ્લોકો ટ્રેકર્સ જ્યારે તમે બ્રાઉઝ કરો છો અને જ્યારે તમે બ્રાઉઝિંગ સમાપ્ત કરો છો ત્યારે તમારો ઇતિહાસ યાદ રાખશે નહીં.">
+<!ENTITY firstrun_privacy_subtext "ટ્રેકિંગ રક્ષણ સાથે ખાનગી બ્રાઉઝિંગ જે ટ્રેકર્સ ને અવરોધિત જ્યારે તમે બ્રાઉઝ કરો છો અને જ્યારે તમે બ્રાઉઝિંગ સમાપ્ત કરો છો ત્યારે તમારો ઇતિહાસ યાદ રાખશે નહીં.">
 <!ENTITY firstrun_panel_title_customize "વૈવિધ્યપૂર્ણ બનાવો">
-<!ENTITY firstrun_customize_message "તમારા પોતાના &brandShortName; બનાવો.">
-<!ENTITY firstrun_customize_subtext "વૈવિધ્યપૂર્ણ કરો &brandShortName; એડ-ઑન્સ સાથે. જાહેરાતોને અવરોધિત કરો, સુવિધાઓને ઉમેરો અથવા તમારા વ્યક્તિત્વને પ્રતિબિંબિત કરવા માટે એક નવી થીમ પસંદ કરો.">
+<!ENTITY firstrun_customize_message "તમારા પોતાનુ &brandShortName; બનાવો.">
+<!ENTITY firstrun_customize_subtext "&brandShortName; એડ-ઑન્સ સાથે વૈવિધ્યપૂર્ણ કરો. જાહેરાતોને અવરોધિત કરો, સુવિધાઓને ઉમેરો અથવા તમારા વ્યક્તિત્વને પ્રતિબિંબિત કરવા માટે એક નવી થીમ પસંદ કરો.">
 <!ENTITY firstrun_bookmarks_title "ઇતિહાસ">
 <!ENTITY firstrun_bookmarks_message "તમારી faves, આગળ અને કેન્દ્ર">
 <!ENTITY firstrun_bookmarks_subtext "જ્યારે તમે શોધ કરો ત્યારે તમારા બુકમાર્ક્સ અને ઇતિહાસ માંથી પરિણામો મેળવો.">
@@ -18,8 +18,8 @@
 <!ENTITY firstrun_data_message "ઓછી માહિતી, વધુ બચત">
 <!ENTITY firstrun_data_subtext2 "દરેક સાઇટ જેની તમે મુલાકાત લો છો તેના પર ડેટા નો વપરાશ ઓછો કરવા છબીઓ બંધ કરો.">
 <!ENTITY firstrun_sync_title "સમન્વય">
-<!ENTITY firstrun_sync_message2 "જ્યાં તમે છોડી દીધું ત્યાંથી શરૂ કરવું.">
-<!ENTITY firstrun_sync_subtext2 "બુકમાર્ક્સ, પાસવર્ડ્સ અને તમે જે વસ્તુઓને સંગ્રહો છો તેને શોધવા માટે સમન્વયનનો ઉપયોગ કરો &brandShortName; તમારા બધા ઉપકરણો પર.">
+<!ENTITY firstrun_sync_message2 "જ્યાંથી તમે છોડી દીધું ત્યાંથી શરૂ કરો.">
+<!ENTITY firstrun_sync_subtext2 "તમારા બધા ઉપકરણો પર &brandShortName; ના બુકમાર્ક્સ, પાસવર્ડ્સ અને તમે જે વસ્તુઓને સંગ્રહો છો તેને શોધવા માટે સમન્વયનો ઉપયોગ કરો.">
 <!ENTITY firstrun_signin_message "જોડે મળી, પ્રારંભ કરો">
 <!ENTITY firstrun_signin_button "સમન્વયન માટે સાઇન ઇન કરો">
 <!ENTITY  onboard_start_button_browser "બ્રાઉઝ શરૂ કરો">
@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "આગામી">
 
 <!ENTITY firstrun_tabqueue_title "કડીઓ">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "ટૅબ કતાર ચાલુ કરો">
-<!ENTITY firstrun_tabqueue_subtext_off "પાછળથી માટે કડીઓ સાચવો &brandShortName; જ્યારે તેમને અન્ય એપ્લિકેશન્સ ટેપ કરો.">
-
-<!ENTITY firstrun_tabqueue_message_on "સફળતા!">
-<!ENTITY firstrun_tabqueue_subtext_on "તમે હંમેશા આ &settings; માં બંધ કરી શકો છો; &pref_category_general; હેઠળ.">
 
 <!ENTITY firstrun_readerview_title "લેખ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "&brandShortName; પુનઃશરૂ કરો">
 
 <!ENTITY url_bar_default_text2 "શોધ અથવા સરનામું દાખલ કરો">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ટૅબ્સ, ડેટા સેવર, ડેવલપર ટૂલ્સ પુનઃસ્થાપિત કરો">
 <!ENTITY pref_category_notifications "સૂચનાઓ">
-<!ENTITY pref_category_notifications_summary "નવી સુવિધાઓ, વેબસાઇટ અપડેટ્સ">
 <!ENTITY pref_category_notifications_summary2 "નવી સુવિધાઓ, ઉત્પાદન ટીપ્સ">
 <!ENTITY pref_developer_remotedebugging_usb "દૂરસ્થ ડિબગીંગ USB દ્વારા">
 <!ENTITY pref_developer_remotedebugging_wifi "દૂરસ્થ ડિબગીંગ વાય ફાઇ દ્વારા">
@@ -224,7 +216,7 @@
 <!ENTITY pref_manage_logins "લૉગિન સંચાલન કરો">
 
 <!ENTITY pref_category_home "મુખ્ય પાનું">
-<!ENTITY pref_category_home_summary "તમારું ઘરપાનું વૈવિધ્યપૂર્ણ બનાવો">
+<!ENTITY pref_category_home_summary "તમારું મુખ્ય પાનું વૈવિધ્યપૂર્ણ બનાવો">
 <!ENTITY pref_category_home_panels "પેનલો">
 <!ENTITY pref_category_home_add_ons "એડ-ઓન">
 <!ENTITY pref_home_updates2 "સામગ્રી અપડેટ્સ">
