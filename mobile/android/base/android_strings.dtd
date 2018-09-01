@@ -183,7 +183,7 @@
 <!ENTITY pref_category_search3 "શોધો">
 <!ENTITY pref_category_search_summary2 "ઉમેરો, મૂળભૂત સ્થિત કરો, સૂચનો બતાવો">
 <!ENTITY pref_category_accessibility "ઉપલ્બધતા">
-<!ENTITY pref_category_accessibility_summary2 "લખાણ કદ, ઝૂમ, સ્વર ઇનપુટ">
+<!ENTITY pref_category_accessibility_summary2 "લખાણ કદ, ઝૂમ, વૉઇસ ઇનપુટ">
 <!ENTITY pref_category_privacy_short "ખાનગીપણુ">
 <!ENTITY pref_category_privacy_summary4 "ટ્રેકિંગ, લૉગિન્સ, ડેટા પસંદગીઓ">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -363,13 +363,13 @@
 <!ENTITY pref_use_system_font_size_summary "સિસ્ટમ ફોન્ટ કદ અનુસાર વેબ સામગ્રીને માપ કરો">
 
 <!ENTITY pref_media_autoplay_enabled "ઑટોપ્લે ની મંજૂરી આપો">
-<!ENTITY pref_media_autoplay_enabled_summary "વેબસાઇટ્સ વિડિઓઝ અને અન્ય મીડિયા સામગ્રી ઑટોપ્લે થાતી હોય તો નિયંત્રણ કરો">
+<!ENTITY pref_media_autoplay_enabled_summary "વેબસાઇટ્સ વિડિઓ અને અન્ય મીડિયા સામગ્રી ઑટોપ્લે થાતી હોય તો નિયંત્રણ કરો">
 <!ENTITY pref_media_autoplay_allow "ઑટોપ્લે ની મંજૂરી આપો">
 <!ENTITY pref_media_autoplay_block "ઑટોપ્લે અવરોધિત કરો">
 <!ENTITY pref_zoom_force_enabled "હંમેશા ઝૂમ સક્રિય રાખો">
 <!ENTITY pref_zoom_force_enabled_summary "ફોર્સ ઓવરરાઇડ જેથી તમે કોઇ પાનું ઝૂમ કરી શકો છો">
 <!ENTITY pref_voice_input "વૉઇસ ઇનપુટ">
-<!ENTITY pref_voice_input_summary2 "URL બારમાં અવાજ શ્રુતલેખનની મંજૂરી આપો">
+<!ENTITY pref_voice_input_summary2 "URL બારમાં વૉઇસ શ્રુતલેખનની મંજૂરી આપો">
 <!ENTITY pref_qrcode_enabled "QR ર્કોડ રીડર">
 <!ENTITY pref_qrcode_enabled_summary2 "URL બારમાં QR સ્કેનરની મંજૂરી આપો">
 
@@ -440,7 +440,7 @@
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "ભંગાણનો અહેવાલ આપનાર">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; સ્થાન સેવા">
-<!ENTITY datareporting_wifi_geolocation_summary4 "સહાય &vendorShortName;; વિશ્વમાં નકશા કરો! અમારી ભૌગોલિક સ્થાન સેવાને સુધારવા માટે તમારા ઉપકરણનું આશરે Wi-Fi અને સેલ્યુલર સ્થાન વહેંચો.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "વિશ્વને જોડવા &vendorShortName; ની મદદ કરો! અમારી ભૌગોલિક સ્થાન સેવાને સુધારવા માટે તમારા ઉપકરણનું આશરે Wi-Fi અને સેલ્યુલર સ્થાન વહેંચો.">
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
