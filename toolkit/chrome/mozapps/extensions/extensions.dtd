@@ -200,7 +200,7 @@
 
 <!ENTITY settings.path.button.label           "ब्राउज करा…">
 
-<!ENTITY setting.learnmore "आणखी शिका…">
+<!ENTITY setting.learnmore "अधिक जाणा…">
 
 <!ENTITY disabledUnsigned.heading "काही ॲड-ऑन्स् अक्षम केले गेले आहेत">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
@@ -218,7 +218,7 @@
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
 <!ENTITY pluginDeprecation.description "काही शोधताय काय? काही प्लगईन्स, &brandShortName; आता समर्थित नाहीत.">
-<!ENTITY pluginDeprecation.learnMore "आणखी शिका">
+<!ENTITY pluginDeprecation.learnMore "अधिक जाणा.">
 
 <!ENTITY legacyWarning.showLegacy "सर्व वारसा विस्तार दर्शवा">
 <!ENTITY legacyExtensions.title "वारसा विस्तार">
