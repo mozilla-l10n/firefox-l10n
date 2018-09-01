@@ -44,3 +44,4 @@ languages-active-code-format =
 browser-languages-window =
     .title = Parameters da lingua da { -brand-short-name }
     .style = width: 50em
+browser-languages-description = { -brand-short-name } vegn a duvrar l'emprima lingua sco standard e sche necessari las linguas suandantas tenor lur successiun en la glista.
