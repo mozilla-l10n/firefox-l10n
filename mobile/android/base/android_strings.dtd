@@ -732,13 +732,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_permission_allow "મંજૂરી આપો">
 
     <!-- Guest mode -->
-<!ENTITY new_guest_session "નવો મહેમાન સત્ર">
+<!ENTITY new_guest_session "નવુ મહેમાન સત્ર">
 <!ENTITY exit_guest_session "મહેમાન સત્રમાંથી બહાર નીકળો">
 <!ENTITY guest_session_dialog_continue "ચાલુ રાખો">
 <!ENTITY guest_session_dialog_cancel "રદ કરો">
 <!ENTITY new_guest_session_title "&brandShortName; હવે પુનઃશરૂ થશે">
 <!ENTITY new_guest_session_text2 "તેનો ઉપયોગ વ્યક્તિ તમારી વ્યક્તિગત બ્રાઉઝિંગ ડેટા (સાચવેલ પ્રવેશો, ઇતિહાસ અથવા જેમ કે બુકમાર્ક્સ) કોઈપણ જોવા માટે સમર્થ હશે.\n\nજ્યારે તમારા મહેમાન કરવામાં આવે છે, તેમના બ્રાઉઝિંગ ડેટા કાઢી નાખવામાં આવશે અને તમારા સત્ર પુનઃ સ્થાપિત થશે.">
-<!ENTITY guest_browsing_notification_title "અતિથિ બ્રાઉઝિંગ સક્ષમ છે">
+<!ENTITY guest_browsing_notification_title "મહેમાન બ્રાઉઝિંગ સક્ષમ છે">
 <!ENTITY guest_browsing_notification_text "બહાર નીકળવા માટે ટેપ કરો">
 
 <!ENTITY exit_guest_session_title "&brandShortName; હવે પુનઃશરૂ થશે">
