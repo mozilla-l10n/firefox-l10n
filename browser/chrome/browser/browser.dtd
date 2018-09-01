@@ -823,6 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No heu donat cap permís especial a aquest lloc.">
 <!ENTITY identity.permissionsReloadHint "Potser cal que actualitzeu la pàgina per aplicar els canvis.">
+<!ENTITY identity.permissionsPreferences.tooltip "Obre les preferències de permisos">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -997,6 +998,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Desactiva durant aquesta sessió">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Activa per a aquest lloc">
+<!ENTITY trackingProtection.block4.accesskey "A">
+<!ENTITY trackingProtection.unblockPrivate4.label "Desactiva el bloqueig temporalment">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Activa el bloqueig per a aquest lloc">
+<!ENTITY trackingProtection.block5.accesskey "A">
+<!ENTITY trackingProtection.reload2.label "Torna a carregar la pàgina">
+<!ENTITY trackingProtection.reload2.accesskey "r">
 
 <!ENTITY pluginNotification.showAll.label "Mostra-ho tot">
 <!ENTITY pluginNotification.showAll.accesskey "s">
