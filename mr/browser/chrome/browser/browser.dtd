@@ -807,7 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "सद्या सुरक्षा निष्क्रिय करा">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-<!ENTITY identity.learnMore "आणखी शिका">
+<!ENTITY identity.learnMore "अधिक जाणा">
 
 <!ENTITY identity.removeCertException.label "अपवाद काढा">
 <!ENTITY identity.removeCertException.accesskey "R">

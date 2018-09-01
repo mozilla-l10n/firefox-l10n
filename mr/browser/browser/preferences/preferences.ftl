@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = आपल्याला ट्रॅक न करण्यासाठी वेबसाइट्सना "ट्रॅक करू नका" हा इशारा पाठवा
-do-not-track-learn-more = आणखी जाणा
+do-not-track-learn-more = अधिक जाणा
 do-not-track-option-default =
     .label = फक्त ट्रॅकिंग संरक्षण वापरत असताना
 do-not-track-option-always =
@@ -156,7 +156,7 @@ show-tabs-in-taskbar =
 browser-containers-enabled =
     .label = कंटेनर टॅब्स सक्रीय करा
     .accesskey = n
-browser-containers-learn-more = आणखी शिका
+browser-containers-learn-more = अधिक जाणा
 browser-containers-settings =
     .label = सेटिंग्ज…
     .accesskey = i
@@ -253,7 +253,7 @@ drm-content-header = डिजिटल हक्क व्यवस्थाप
 play-drm-content =
     .label = डीआरएम-नियंत्रित मजकूर चालवा
     .accesskey = P
-play-drm-content-learn-more = आणखी शिका
+play-drm-content-learn-more = अधिक जाणा
 update-application-title = { -brand-short-name } सुधारणा
 update-application-description = सर्वोत्तम कामगिरी, स्थिरता आणि सुरक्षिततेसाठी { -brand-short-name } अद्ययावत ठेवा.
 update-application-version = आवृत्ती{ $version } <a data-l10n-name="learn-more">काय नवीन आहे</a>
@@ -284,7 +284,7 @@ performance-use-recommended-settings-checkbox =
     .label = शिफारस केलेले कार्यक्षमता सेटिंग वापरा
     .accesskey = U
 performance-use-recommended-settings-desc = हे सेटिंग आपल्या संगणकाच्या हार्डवेअर आणि ऑपरेटिंग प्रणाली साठी अनुरूप होतील अशा प्रकारे बनवले आहेत.
-performance-settings-learn-more = आणखी जाणा
+performance-settings-learn-more = अधिक जाणा
 performance-allow-hw-accel =
     .label = उपलब्ध असल्यावर हार्डवेअर ॲक्सिलरेशनचा वापर करा
     .accesskey = r
@@ -320,7 +320,7 @@ browsing-search-on-start-typing =
 
 network-proxy-title = नेटवर्क प्रॉक्सी
 network-proxy-connection-description = { -brand-short-name } इंटरनेटशी जोडणी कशी करतो ते संरचीत करा.
-network-proxy-connection-learn-more = आणखी जाणा
+network-proxy-connection-learn-more = अधिक जाणा
 network-proxy-connection-settings =
     .label = सेटिंग्ज…
     .accesskey = e
@@ -581,7 +581,7 @@ sitedata-total-size-calculating = कॅश आणि साईट माहि�
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = आपण साठवलेल्या कुकीज, साईट माहिती आणि कॅश सध्या { $value } { $unit } इतकी जागा डिस्कवर व्याप्त करत आहेत
-sitedata-learn-more = आणखी जाणा
+sitedata-learn-more = अधिक जाणा
 sitedata-accept-cookies-option =
     .label = संकेतस्थळावरून कुकीज आणि साईट डेटा स्वीकारा (शिफारस).
     .accesskey = A
@@ -715,7 +715,7 @@ permissions-notification = सूचना
 permissions-notification-settings =
     .label = सेटिंग…
     .accesskey = t
-permissions-notification-link = आणखी जाणा
+permissions-notification-link = अधिक जाणा
 permissions-notification-pause =
     .label = सूचना { -brand-short-name } पुन्हा सुरु होईपर्यंत स्थगित करा
     .accesskey = n
@@ -732,7 +732,7 @@ autoplay-option-allow =
     .label = ऑटोप्ले ला परवानगी द्या
 autoplay-option-dont =
     .label = ऑटोप्ले करू नका
-permissions-autoplay-link = अधिक जाणून घ्या
+permissions-autoplay-link = अधिक जाणा
 permissions-block-popups =
     .label = पॉपअप पटल अडवा
     .accesskey = B
@@ -748,7 +748,7 @@ permissions-addon-exceptions =
 permissions-a11y-privacy-checkbox =
     .label = सुलभता सेवांना आपल्या ब्राउझरमध्ये प्रवेश करण्यापासून प्रतिबंधित करा
     .accesskey = a
-permissions-a11y-privacy-link = अधिक जाणून घ्या
+permissions-a11y-privacy-link = अधिक जाणा
 
 ## Privacy Section - Data Collection
 
@@ -758,7 +758,7 @@ collection-privacy-notice = गोपनीयता सूचना
 collection-health-report =
     .label = { -vendor-short-name } ला तांत्रिक व परस्परसंवाद माहिती पाठविण्यासाठी { -brand-short-name } ला परवानगी द्या
     .accesskey = r
-collection-health-report-link = आणखी जाणा
+collection-health-report-link = अधिक जाणा
 collection-studies =
     .label = { -brand-short-name } ला studies प्रस्थापित करून चालवण्याची परवानगी द्या
 collection-studies-link = { -brand-short-name } studies पहा
@@ -768,11 +768,11 @@ collection-health-report-disabled = माहिती अहवाल देण
 collection-browser-errors =
     .label = { -brand-short-name } ला { -vendor-short-name } यास ब्राऊजरच्या चुकांचा अहवाल(चुकीचे संदेश धरून) पाठवण्यास परवानगी द्या
     .accesskey = b
-collection-browser-errors-link = आणखी जाणा
+collection-browser-errors-link = अधिक जाणा
 collection-backlogged-crash-reports =
     .label = आपल्यावतीने { -brand-short-name } ला बॅकलॉग क्रॅश अहवाल पाठवण्याची परवानगी दया
     .accesskey = c
-collection-backlogged-crash-reports-link = आणखी जाणा
+collection-backlogged-crash-reports-link = अधिक जाणा
 
 ## Privacy Section - Security
 ##
