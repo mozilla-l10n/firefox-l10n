@@ -773,7 +773,6 @@ collection-privacy-notice = ગોપનીયતા સૂચના
 collection-health-report =
     .label = { -brand-short-name } ને મંજૂરી આપો { -vendor-short-name } ને ટેક્નિકલ અને ક્રિયાપ્રતિક્રિયા ડેટા મોકલવા માટે.
     .accesskey = r
-collection-health-report-link = વધારે શીખો
 collection-studies =
     .label = { -brand-short-name } અભ્યાસને ઇન્સ્ટોલ અને ચલાવવાની મંજૂરી આપો
 collection-studies-link = { -brand-short-name } અભ્યાસો જુઓ
@@ -787,7 +786,7 @@ collection-browser-errors-link = વધુ જાણો
 collection-backlogged-crash-reports =
     .label = તમારા વતી { -brand-short-name } ને બૅકલોગ ક્રેશ રિપોર્ટ્સ મોકલવાની મંજૂરી આપો
     .accesskey = c
-collection-backlogged-crash-reports-link = વધારે શીખો
+collection-backlogged-crash-reports-link = વધુ જાણો
 
 ## Privacy Section - Security
 ##
