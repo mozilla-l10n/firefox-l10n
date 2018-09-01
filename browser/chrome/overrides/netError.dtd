@@ -124,6 +124,10 @@ was trying to connect. -->
 <p>Kurumsal bir ağdaysanız veya antivirüs yazılımı kullanıyorsanız destek ekibinizden yardım almayı deneyebilirsiniz. Ayrıca web sitesinin sahibini bu sorun hakkında bilgilendirebilirsiniz.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Bilgisayarınızın saati <span id='wrongSystemTime_systemDate2'/> olarak ayarlanmış. Sistem ayarlarınızdaki tarih, saat ve saat diliminin doğru olarak ayarlandığını kontrol edin. Ardından <span class='hostname'/> sayfasını tazeleyin.</p>
+<p>Saatiniz zaten doğruysa muhtemelen web sitesi yanlış yapılandırılmıştır. Bu sorunu çözmek için bir şey yapamazsınız ama sorunu web sitesinin yöneticisine bildirmeyi deneyebilirsiniz.</p>
+">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>Sorun büyük olasılıkla web sitesinden kaynaklanıyor, yani sizin yapabileceğiniz bir şey yok. Web sitesinin sahibini bu sorun hakkında bilgilendirebilirsiniz.</p>
@@ -176,6 +180,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Engellenmiş sayfa">
 
 <!ENTITY clockSkewError.title "Bilgisayarınızın saati yanlış">
+<!ENTITY clockSkewError.longDesc "Bilgisayarınız saatin <span id='wrongSystemTime_systemDate1'/> olduğunu sanıyor, bu yüzden de &brandShortName; güvenli bağlantı kuramıyor. <span class='hostname'></span> adresini ziyaret etmek için sistem ayarlarınıza girerek bilgisayarınızın tarihini, saatini ve saat dilimini güncelleyin. Ardından <span class='hostname'></span> sayfasını tazeleyin.">
 
 <!ENTITY prefReset.longDesc "Ağ güvenliği ayarlarınız buna yol açıyor olabilir. Varsayılan ayarları geri yüklemek ister misiniz?">
 <!ENTITY prefReset.label "Varsayılan ayarları geri yükle">

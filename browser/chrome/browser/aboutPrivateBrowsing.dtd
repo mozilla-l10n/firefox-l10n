@@ -32,3 +32,4 @@
 <!ENTITY trackingProtection.startTour1                   "Nasıl çalıştığını görün">
 
 <!ENTITY contentBlocking.title                           "İçerik engelleme">
+<!ENTITY contentBlocking.description                     "Bazı web siteleri, siteler arasında gezindiğinizde sizi izleyebilecek takipçiler kullanır. Gizli penceredeyken Firefox’un içerik engelleme özelliği, gezintinizle ilgili bilgi toplayarak takipçilerin çoğunu otomatik olarak engeller.">
