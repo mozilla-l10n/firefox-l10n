@@ -115,7 +115,7 @@ was trying to connect. -->
 
 
 <!ENTITY errorReporting.automatic2 "Mozilla ला दुर्भावनायुक्त साईट्स ओळखता यावे साठी व त्यांना अवरोधीत करता यावे यासाठी अश्या प्रकारच्या त्रुटी सादर करा">
-<!ENTITY errorReporting.learnMore "आणखी शिका…">
+<!ENTITY errorReporting.learnMore "अधिक जाणा…">
 
 <!ENTITY remoteXUL.title "रिमोट XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>या अडचणीविषयी कळवण्यासाठी कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul></p>">
