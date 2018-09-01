@@ -72,7 +72,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.label            "कंटेनर में दुबारा से खोलें">
 <!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkAllTabs.label              "सभी टैब पुस्तचिह्नित करें…">
+<!ENTITY  bookmarkAllTabs.label              "सभी टैब बुकमार्कित करें…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "बंद टैब वापस लें">
 <!ENTITY  undoCloseTab.accesskey             "U">
@@ -106,9 +106,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "मेनू पट्टी">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "संचरण औज़ारपट्टी">
-<!ENTITY personalbarCmd.label "पुस्तचिह्न औज़ारपट्टी">
+<!ENTITY personalbarCmd.label "बुकमार्क औज़ारपट्टी">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "औज़ारपट्टी मद पुस्तचिह्नित करता है">
+<!ENTITY bookmarksToolbarItem.label "औज़ारपट्टी मद बुकमार्कित करता है">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "सभी टैब फिर लोड करें">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
@@ -191,20 +191,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "विंडो बंद करें">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "पुस्तचिह्न">
+<!ENTITY bookmarksMenu.label "बुकमार्क">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "यह पृष्ठ पुस्तचिह्नित करें">
-<!ENTITY editThisBookmarkCmd.label "यह पुस्तचिह्न संपादित करें">
+<!ENTITY bookmarkThisPageCmd.label "यह पृष्ठ बुकमार्कित करें">
+<!ENTITY editThisBookmarkCmd.label "यह बुकमार्क संपादित करें">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "इस पृष्ठ की सदस्यता लें">
 <!ENTITY subscribeToPageMenuitem.label "इस पृष्ठ की सदस्यता लें…">
-<!ENTITY addCurPagesCmd.label "सभी टैब पुस्तचिह्नित करें…">
-<!ENTITY showAllBookmarks2.label "सभी पुस्तचिह्नों को दिखाएँ">
-<!ENTITY recentBookmarks.label "हाल में पुस्तचिह्नित">
-<!ENTITY otherBookmarksCmd.label "अन्य पुस्तचिह्न">
-<!ENTITY mobileBookmarksCmd.label "मोबाइल पुस्तचिह्न">
-<!ENTITY bookmarksToolbarChevron.tooltip "अधिक पुस्तचिह्न दिखाएँ">
+<!ENTITY addCurPagesCmd.label "सभी टैब बुकमार्कित करें…">
+<!ENTITY showAllBookmarks2.label "सभी बुकमार्कों को दिखाएँ">
+<!ENTITY recentBookmarks.label "हाल में बुकमार्कित">
+<!ENTITY otherBookmarksCmd.label "अन्य बुकमार्क">
+<!ENTITY mobileBookmarksCmd.label "मोबाइल बुकमार्क">
+<!ENTITY bookmarksToolbarChevron.tooltip "अधिक बुकमार्क दिखाएँ">
 
 <!ENTITY backCmd.label                "पीछे">
 <!ENTITY backCmd.accesskey            "B">
@@ -268,18 +268,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "घर">
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; होम पेज">
 
-<!ENTITY bookmarksButton.label          "पुस्तचिह्न">
+<!ENTITY bookmarksButton.label          "बुकमार्क">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksSubview.label             "पुस्तचिह्न">
-<!ENTITY bookmarksMenuButton2.label         "पुस्तचिह्न मेन्यू">
-<!ENTITY bookmarksMenuButton.other.label    "अन्य पुस्तचिह्न">
+<!ENTITY bookmarksSubview.label             "बुकमार्क">
+<!ENTITY bookmarksMenuButton2.label         "बुकमार्क मेन्यू">
+<!ENTITY bookmarksMenuButton.other.label    "अन्य बुकमार्क">
 <!ENTITY bookmarksMenuButton.mobile.label   "मोबाइल बुकमार्क">
-<!ENTITY viewBookmarksSidebar2.label        "पुस्तचिह्न बाज़ू पट्टी देखें">
+<!ENTITY viewBookmarksSidebar2.label        "बुकमार्क बाज़ू पट्टी देखें">
 <!ENTITY hideBookmarksSidebar.label         "बुकमार्क साइडबार छिपाएं">
-<!ENTITY viewBookmarksToolbar.label         "पुस्तचिह्न औज़ारपट्टी देखें">
+<!ENTITY viewBookmarksToolbar.label         "बुकमार्क औज़ारपट्टी देखें">
 <!ENTITY hideBookmarksToolbar.label         "बुकमार्क टूलबार छिपाएं">
-<!ENTITY searchBookmarks.label              "पुस्तचिह्न खोजें">
+<!ENTITY searchBookmarks.label              "बुकमार्क खोजें">
 <!ENTITY bookmarkingTools.label             "बुकमार्क के उपकरण">
 <!ENTITY addBookmarksMenu.label             "टूलबार पर बुकमार्क मेनू डालें">
 <!ENTITY removeBookmarksMenu.label          "टूलबार से बुकमार्क मेनू हटायें">
@@ -579,11 +579,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "बतौर डेस्कटॉप पृष्ठभूमि सेट करें…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "यह पृष्ठ पुस्तचिह्नित करें">
+<!ENTITY bookmarkPageCmd2.label       "यह पृष्ठ बुकमार्कित करें">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY bookmarkThisLinkCmd.label      "यह कड़ी पुस्तचिह्नित करें">
+<!ENTITY bookmarkThisLinkCmd.label      "यह कड़ी बुकमार्कित करें">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "यह फ्रेम पुस्तचिह्नित करें">
+<!ENTITY bookmarkThisFrameCmd.label      "यह फ्रेम बुकमार्कित करें">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "कड़ी नकल करें">
 <!ENTITY emailPageCmd.label           "कड़ी ईमेल करें…">
@@ -856,7 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "नए और निजी विंडो में खोलें">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "यह टैब पुस्तचिह्नित करें...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "यह टैब बुकमार्कित करें...">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "नकल करें">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">

@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "व्यवस्थित करें">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "अपने पुस्तचिह्नों‌ को व्यवस्थित करें">
+<!ENTITY organize.tooltip      "अपने बुकमार्कों‌ को व्यवस्थित करें">
 
 <!ENTITY file.close.label               "बंद करें">
 <!ENTITY file.close.accesskey           "C">
@@ -27,9 +27,9 @@
 <!ENTITY view.sortDescending.label      "Z > A छाँटन क्रम">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     " HTML में पुस्तचिह्न आयात करें…">
+<!ENTITY importBookmarksFromHTML.label     " HTML में बुकमार्क आयात करें…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "HTML में पुस्तचिह्न‌ निर्यात करें…">
+<!ENTITY exportBookmarksToHTML.label       "HTML में बुकमार्क‌ निर्यात करें…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "दूसरे ब्राउज़र से आँकड़ा आयात करें…">
 <!ENTITY importOtherBrowser.accesskey      "A">
@@ -70,29 +70,25 @@
 <!ENTITY cmd.new_separator.label           "नया पृथक्ककारक">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "जीवंत पुस्तचिह्न फिर लोड करें">
+<!ENTITY cmd.reloadLivebookmark.label      "जीवंत बुकमार्क फिर लोड करें">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
-<!ENTITY cmd.moveBookmarks.label                  "खिसकाएँ…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
 
 <!ENTITY col.name.label          "नाम">
 <!ENTITY col.tags.label          " टैग">
 <!ENTITY col.url.label           " स्थान">
 <!ENTITY col.mostrecentvisit.label "सबसे हाल का विजिट">
 <!ENTITY col.visitcount.label    " देखने की संख्या">
-<!ENTITY col.description.label   "विवरण">
 <!ENTITY col.dateadded.label     "जोड़ा गया">
 <!ENTITY col.lastmodified.label  "अंतिम रूपांतरित">
 
 <!ENTITY historySearch.placeholder  "खोज इतिहास">
-<!ENTITY bookmarksSearch.placeholder  "पुस्तचिह्न खोजें">
+<!ENTITY bookmarksSearch.placeholder  "बुकमार्क खोजें">
 
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "आयात और बैकअप">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "अपने पुस्तचिह्नों को आयात और बैकअप करें">
+<!ENTITY maintenance.tooltip    "अपने बुकमार्कों को आयात और बैकअप करें">
 
 <!ENTITY backButton.tooltip  "वापस जाएँ">
 
@@ -102,6 +98,7 @@
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "कम">
 <!ENTITY detailsPane.less.accesskey "e">
+
 <!ENTITY detailsPane.selectAnItemText.description " किसी मद की विशेषताओं को देखने के लिए इसे चुनें और संपादित करें">
 
 <!ENTITY view.label               "दृश्य">
