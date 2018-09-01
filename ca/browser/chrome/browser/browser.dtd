@@ -937,39 +937,63 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Blocats">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Activa el bloqueig…">
 
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Blocats">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Activa el bloqueig…">
 
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blocades">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Activa el bloqueig…">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Informeu d'un problema">
+<!ENTITY contentBlocking.breakageReportView.label "Notificació de problemes">
+<!ENTITY contentBlocking.breakageReportView2.description "El bloqueig de contingut pot causar problemes en alguns llocs web. Quan notifiqueu un problema, esteu ajudant a millorar el &brandShortName; per a tothom. Això enviarà un URL a Mozilla, juntament amb informació de la configuració del navegador.">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Més informació">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Quins problemes heu tingut? (Opcional)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Envia l'informe">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Cancel·la">
 
 <!ENTITY trackingProtection.title "Protecció contra el seguiment">
 <!ENTITY trackingProtection.tooltip "Obre les preferències de la protecció contra el seguiment">
+<!ENTITY trackingProtection.detectedBlocked4 "El &brandShortName; ha blocat les parts d'aquesta pàgina que podrien fer el seguiment de la vostra navegació.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "El &brandShortName; ha detectat elements que podrien fer el seguiment de la vostra navegació.">
+<!ENTITY trackingProtection.detectedException "El &brandShortName; ha detectat elements que podrien fer el seguiment de la vostra navegació. Heu desactivat la protecció en aquest lloc.">
+<!ENTITY trackingProtection.notDetected5 "No s'ha detectat cap element de seguiment en aquesta pàgina.">
+<!ENTITY trackingProtection.notDetectedException "No s'ha detectat cap element de seguiment en aquesta pàgina. Heu desactivat la protecció per a aquest lloc.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Heu activat el bloqueig de contingut. Torneu a carregar la pàgina per blocar tots els elements de seguiment.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Desactiva per a aquest lloc">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Desactiva el bloqueig per a aquest lloc">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -1076,6 +1100,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.shareUrl.label "Comparteix">
 
+<!ENTITY pageAction.shareMore.label "Més…">
 
 <!ENTITY libraryButton.tooltip "Mostra l'historial, les adreces d'interès desades i més">
 
