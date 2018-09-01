@@ -7,7 +7,7 @@
 
 <!ENTITY addonAction.enable                     "सक्रिय करें">
 <!ENTITY addonAction.disable                    "निष्क्रिय करें">
-<!ENTITY addonAction.uninstall                  "अनइंस्टाल">
+<!ENTITY addonAction.uninstall                  "अनइनस्टॉल">
 <!ENTITY addonAction.undo                       "पहले जैसा">
 <!ENTITY addonAction.update                     "अपडेट करें">
 

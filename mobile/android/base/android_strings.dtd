@@ -14,7 +14,7 @@
 <!ENTITY firstrun_bookmarks_title "इतिहास">
 <!ENTITY firstrun_bookmarks_message "आपके मनपसंद, सम्मुख एवं केन्द्रित">
 <!ENTITY firstrun_bookmarks_subtext "अपने बुकमार्क एवं पूर्व खोज के इतिहास से परिणाम प्राप्त करें.">
-<!ENTITY firstrun_data_title "डाटा">
+<!ENTITY firstrun_data_title "डेटा">
 <!ENTITY firstrun_data_message "कम डेटा , अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "आपके द्वारा देखे गए हर साइट के लिए छवि बंद करें ताकि डेटा कम खर्च हो.">
 <!ENTITY firstrun_sync_title "सिंक">
@@ -183,12 +183,12 @@
 <!ENTITY pref_category_search3 "खोजें">
 <!ENTITY pref_category_search_summary2 "जोड़ें, डिफ़ॉल्ट सेट करें, सुझाव दिखाएँ">
 <!ENTITY pref_category_accessibility "अभिगम्यता">
-<!ENTITY pref_category_accessibility_summary2 "मूलशब्द आकार, ज़ूम, आवाज़ सहयोग">
+<!ENTITY pref_category_accessibility_summary2 "शब्दों के आकार, ज़ूम, आवाज़ सहयोग">
 <!ENTITY pref_category_privacy_short "गोपनीयता">
 <!ENTITY pref_category_privacy_summary4 "ट्रैकिंग, लॉग इन, डेटा विकल्प">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "&brandShortName; परिचय, FAQs, प्रतिक्रिया">
-<!ENTITY pref_category_datareporting "आँकड़ा विकल्प">
+<!ENTITY pref_category_datareporting "डेटा विकल्पें">
 <!ENTITY pref_category_logins "लॉग इन">
 <!ENTITY pref_learn_more "अधिक जानें">
 <!ENTITY pref_category_installed_search_engines "इनस्टॉल हुए खोज इंजन">
@@ -206,7 +206,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "टैब, डाटा रक्षक, डेवलपर औज़ार पुनर्बहाल करें">
+<!ENTITY pref_category_advanced_summary3 "टैब पुनर्स्थापित, डेटा सेवर, डेवलपर उपकरण">
 <!ENTITY pref_category_notifications "अधिसूचना">
 <!ENTITY pref_category_notifications_summary2 "नई विशेषताएं, उत्पाद सुझाव">
 <!ENTITY pref_developer_remotedebugging_usb "USB से होकर दूरस्थ दोषसुधार">
@@ -261,13 +261,13 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_data_saver "डेटा रक्षक">
+<!ENTITY pref_category_data_saver "डेटा सेवर">
 <!ENTITY pref_category_media "मीडिया">
 <!ENTITY pref_category_developer_tools "डेवलेपर औज़ार">
 
 <!ENTITY pref_tap_to_load_images_title2 "छवियाँ दिखाएँ">
 <!ENTITY pref_tap_to_load_images_enabled "हमेशा">
-<!ENTITY pref_tap_to_load_images_data "केवल वाय-फ़ाय पर">
+<!ENTITY pref_tap_to_load_images_data "केवल वाई-फाई पर">
 <!ENTITY pref_tap_to_load_images_disabled2 "रोका हुआ">
 
 <!ENTITY pref_show_web_fonts "वेब फ़ॉन्ट दिखाएँ">
@@ -346,12 +346,12 @@
 <!ENTITY pref_char_encoding "वर्ण एन्कोडिंग">
 <!ENTITY pref_char_encoding_on "मेन्यू दिखाएँ">
 <!ENTITY pref_char_encoding_off "मेन्यू मत दिखाएँ">
-<!ENTITY pref_clear_private_data2 "निजी डेटा साफ़ करें">
+<!ENTITY pref_clear_private_data2 "निजी डेटा मिटायें">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
-<!ENTITY pref_clear_private_data_now_tablet "अब साफ़ करें">
-<!ENTITY pref_clear_on_exit_title3 "बाहर निकलने पर निजी आँकड़ा साफ करें">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; स्वचालित रूप से आपका डाटा साफ करेगा जब आप मुख्य मेन्यू से \&quot;बाहर जाएँ\&quot; चुनेंगे">
+<!ENTITY pref_clear_private_data_now_tablet "अभी मिटायें">
+<!ENTITY pref_clear_on_exit_title3 "बाहर निकलने पर निजी डेटा मिटायें">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; स्वचालित रूप से आपका डेटा मिटा देगा जब आप मेन मेन्यू से \&quot;बाहर जाएँ\&quot; चुनेंगे">
 <!ENTITY pref_clear_on_exit_dialog_title "साफ करने के लिए डाटा चुनें">
 <!ENTITY pref_restore_tabs "टैब पुनर्बहाल करें">
 <!ENTITY pref_restore_always "हमेशा पुनर्बहाल करें">
@@ -387,13 +387,13 @@
 <!ENTITY pref_private_data_history2 "ब्राउज़िंग इतिहास">
 <!ENTITY pref_private_data_searchHistory "खोज इतिहास">
 <!ENTITY pref_private_data_formdata2 "फॉर्म इतिहास">
-<!ENTITY pref_private_data_cookies2 "कुकीज़ व सक्रिय लॉगिन">
-<!ENTITY pref_private_data_passwords2 "लॉगिन सहेजें">
+<!ENTITY pref_private_data_cookies2 "कुकीज़ &amp; सक्रिय लॉगिन">
+<!ENTITY pref_private_data_passwords2 "सहेजे गए लॉगिन">
 <!ENTITY pref_private_data_cache "कैशे">
-<!ENTITY pref_private_data_offlineApps "ऑफ़लाइन वेबसाइट आँकड़ा">
+<!ENTITY pref_private_data_offlineApps "ऑफ़लाइन वेबसाइट डेटा">
 <!ENTITY pref_private_data_siteSettings2 "साइट सेटिंग">
 <!ENTITY pref_private_data_downloadFiles2 "डाउनलोड">
-<!ENTITY pref_private_data_syncedTabs "सिंक किया टैब">
+<!ENTITY pref_private_data_syncedTabs "सिंक हुए टैब">
 
 <!ENTITY pref_default_browser "डिफ़ॉल्ट ब्राउज़र बनायें">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla समर्थन पर जाए">
@@ -416,7 +416,7 @@
 <!ENTITY pref_panels_move_up "ऊपर करें">
 <!ENTITY pref_panels_move_down "नीचे जाएँ">
 
-<!ENTITY datareporting_notification_title "&brandShortName; सांख्यिकी व आँकड़ा">
+<!ENTITY datareporting_notification_title "&brandShortName; आंकड़े &amp; डेटा">
 <!ENTITY datareporting_notification_action "चुनें क्या साझा करना है">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "चुनें कौन-सी सूचना साझा करनी है">
@@ -722,7 +722,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_retry2 "पुनःप्रयास के लिए छुएँ">
 
 <!ENTITY updater_apply_title3 "&brandShortName; के लिए अद्यतन उपलब्ध">
-<!ENTITY updater_apply_select3 "संस्थापित करने के लिए स्पर्श करें">
+<!ENTITY updater_apply_select3 "इनस्टॉल करने के लिए टच करें">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -795,7 +795,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restrictable_feature_addons_installation "सहयुक्ति">
+<!ENTITY restrictable_feature_addons_installation "ऐड-ऑन">
 <!ENTITY restrictable_feature_addons_installation_description "Firefox में विशेषताएँ और कार्यात्मकता जोड़ें. टिप्पणी: Add-ons विशेष प्रतिबंधों को अक्षम कर सकता है.">
 <!ENTITY restrictable_feature_private_browsing "निजी ब्राउज़िंग">
 <!ENTITY restrictable_feature_private_browsing_description "साइट्स और पेजेज़ की जानकारी बचाये बिना परिवार वालों को ब्राउज करने की इजाज़त देता है.">
