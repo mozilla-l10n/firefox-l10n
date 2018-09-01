@@ -13,7 +13,7 @@
 <!ENTITY firstrun_customize_subtext "अनुकूल बनायें &brandShortName; एड-ऑन के साथ. विज्ञापनों को रोकें, सुविधाएँ जोड़ें, या एक नया थीम चुने अपने व्यक्तित्व को दर्शाने करने के लिए.">
 <!ENTITY firstrun_bookmarks_title "इतिहास">
 <!ENTITY firstrun_bookmarks_message "आपके मनपसंद, सम्मुख एवं केन्द्रित">
-<!ENTITY firstrun_bookmarks_subtext "अपने पुस्तचिह्न एवं पूर्व खोज के इतिहास से परिणाम प्राप्त करें.">
+<!ENTITY firstrun_bookmarks_subtext "अपने बुकमार्क एवं पूर्व खोज के इतिहास से परिणाम प्राप्त करें.">
 <!ENTITY firstrun_data_title "डाटा">
 <!ENTITY firstrun_data_message "कम डेटा , अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "आपके द्वारा देखे गए हर साइट के लिए छवि बंद करें ताकि डेटा कम खर्च हो.">
@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "अगला">
 
 <!ENTITY firstrun_tabqueue_title "लिंक">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "टैब पंक्ति आरंभ करें">
-<!ENTITY firstrun_tabqueue_subtext_off "&brandShortName; में बाद के लिए श्रृंखला सहेजें ‌उन्हें अन्य एप्स में करने के दौरान.">
-
-<!ENTITY firstrun_tabqueue_message_on "सफल!">
-<!ENTITY firstrun_tabqueue_subtext_on "आप हमेशा इसे &settings; में बंद कर सकते हैं &pref_category_general; के अंतर्गत.">
 
 <!ENTITY firstrun_readerview_title "आलेख">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -47,7 +41,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "पुस्तचिह्न">
+<!ENTITY  bookmarks_title "बुकमार्क">
 <!ENTITY  history_title "इतिहास">
 
 <!ENTITY  switch_to_tab "टैब पर जाएँ">
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "&brandShortName; पुनः आरंभ करें">
 
 <!ENTITY url_bar_default_text2 "खोजें या पता दर्ज करें">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -79,18 +72,18 @@
      icon in the url bar. -->
 <!ENTITY url_bar_mic_text2 "खोज या पता दर्ज करने के लिए अपने माइक्रोफोन का इस्तेमाल करें">
 
-<!ENTITY bookmark "पुस्तचिह्न">
-<!ENTITY bookmark_remove "पुस्तचिह्न मिटाएँ">
-<!ENTITY bookmark_added "पुस्तचिह्न जोड़ा गया">
+<!ENTITY bookmark "बुकमार्क">
+<!ENTITY bookmark_remove "बुकमार्क मिटाएँ">
+<!ENTITY bookmark_added "बुकमार्क जोड़ा गया">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "पहले ही बुकमार्क">
-<!ENTITY bookmark_removed "पुस्तचिह्न हटाया गया">
-<!ENTITY bookmark_updated "पुस्तचिह्न अद्यतित">
+<!ENTITY bookmark_removed "बुकमार्क हटाया गया">
+<!ENTITY bookmark_updated "बुकमार्क अद्यतित">
 <!ENTITY bookmark_options "विकल्प">
 <!ENTITY bookmark_save "सहेजें">
-<!ENTITY screenshot_added_to_bookmarks "स्क्रीनशॉट पुस्तचिह्न में जोड़ा गया">
+<!ENTITY screenshot_added_to_bookmarks "स्क्रीनशॉट बुकमार्क में जोड़ा गया">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -170,7 +163,7 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "पुस्तचिह्न">
+<!ENTITY overlay_share_bookmark_btn_label "बुकमार्क">
 <!ENTITY overlay_share_bookmark_btn_label_already "पहले ही बुकमार्क">
 <!ENTITY overlay_share_send_other "अन्य साधनों पर भेजें">
 
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "टैब, डाटा रक्षक, डेवलपर औज़ार पुनर्बहाल करें">
 <!ENTITY pref_category_notifications "अधिसूचना">
-<!ENTITY pref_category_notifications_summary "नई विशेषताए, वेबसाइट अद्यतन">
 <!ENTITY pref_category_notifications_summary2 "नई विशेषताएं, उत्पाद सुझाव">
 <!ENTITY pref_developer_remotedebugging_usb "USB से होकर दूरस्थ दोषसुधार">
 <!ENTITY pref_developer_remotedebugging_wifi "वाई फाई से होकर दूरस्थ दोषसुधार">
@@ -283,7 +275,7 @@
 
 <!ENTITY pref_tracking_protection_title2 "ट्रैकिंग संरक्षण">
 <!ENTITY pref_donottrack_title "पीछा न करें">
-<!ENTITY pref_donottrack_summary "&brandShortName; साइट को बताता है कि आप ट्रैक नाहि होना छह्ते है">
+<!ENTITY pref_donottrack_summary "&brandShortName; साइट को बताता है कि आप ट्रैक नही होना चाहते हैं">
 
 <!ENTITY pref_tracking_protection_enabled "सक्षम">
 <!ENTITY pref_tracking_protection_enabled_pb "निजी ब्राउज़िंग में सक्षम करें">
@@ -413,7 +405,7 @@
 <!ENTITY pref_dialog_default "तयशुदा">
 <!ENTITY pref_dialog_remove "हटाएँ">
 <!ENTITY pref_dialog_activitystream_header_content "अतिरिक्त सामग्री">
-<!ENTITY pref_dialog_activitystream_recentBookmarks "आधुनिक पुस्तचिह्न">
+<!ENTITY pref_dialog_activitystream_recentBookmarks "आधुनिक बुकमार्क">
 <!ENTITY pref_dialog_activitystream_visited "देखा गया">
 
 <!ENTITY pref_search_last_toast "आप अपने आख़िरी खोज इंजिन को हटा या निष्क्रिय नहीं कर सकते.">
@@ -565,7 +557,7 @@
 <!ENTITY page_removed "पृष्ठ हटाया">
 <!ENTITY folder_removed "फ़ोल्डर हटाया गया">
 
-<!ENTITY bookmark_edit_title "पुस्तचिह्न संपादित करें">
+<!ENTITY bookmark_edit_title "बुकमार्क संपादित करें">
 <!ENTITY bookmark_edit_folder_title "फ़ोल्डर सम्पादन">
 <!ENTITY bookmark_edit_name "नाम">
 <!ENTITY bookmark_edit_location "स्थान">
@@ -612,7 +604,7 @@
 <!ENTITY home_history_back_to2 "पूर्ण इतिहास पर वापस जायें">
 <!ENTITY home_clear_history_button "ब्राउज़िंग का इतिहास साफ़ करें |">
 <!ENTITY home_clear_history_confirm "क्या आप दृढ़ हैं की आप इतिहास को साफ करना चाहते हैं?">
-<!ENTITY home_bookmarks_empty "आपके सहेजे पुस्तचिह्न यहाँ दिखेंगे.">
+<!ENTITY home_bookmarks_empty "आपके सहेजे बुकमार्क यहाँ दिखेंगे.">
 <!ENTITY home_closed_tabs_title2 "हाल ही में बंद किए टैब">
 <!ENTITY home_last_tabs_empty "हालिया टैब यहाँ दिखते हैं.">
 <!ENTITY home_restore_all "टैब पुनर्बहाल करें">
@@ -699,8 +691,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "कुछ निजी आँकड़े साफ़ नहीं हो सके">
 
 <!ENTITY bookmarkhistory_button_import "आयात करें">
-<!ENTITY bookmarkhistory_import_both "ऐंड्रॉयड से पुस्तचिह्न और इतिहास का आयात जारी">
-<!ENTITY bookmarkhistory_import_bookmarks "ऐंड्रॉयड से पुस्तचिह्न का आयात जारी">
+<!ENTITY bookmarkhistory_import_both "ऐंड्रॉयड से बुकमार्क और इतिहास का आयात जारी">
+<!ENTITY bookmarkhistory_import_bookmarks "ऐंड्रॉयड से बुकमार्क का आयात जारी">
 <!ENTITY bookmarkhistory_import_history "ऐंड्रॉयड से इतिहास का आयात जारी">
 <!ENTITY bookmarkhistory_import_wait "कृपया इंतजार करें...">
 
@@ -718,7 +710,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 <!ENTITY suggestion_for_engine "&formatS1; को &formatS2; के लिए खोजें">
 
-<!ENTITY searchable_description "पुस्तचिह्न और इतिहास">
+<!ENTITY searchable_description "बुकमार्क और इतिहास">
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName; के लिए अद्यतन उपलब्ध">
@@ -810,7 +802,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "इतिहास साफ़ करें">
 <!ENTITY restrictable_feature_clear_history_description "परिवार वालों को निरिक्षण किये हग गए साईटस और पेजेज की जानकारी हटाने की इजाज़त देता है.">
 <!ENTITY restrictable_feature_advanced_settings "विस्तृत विन्यास">
-<!ENTITY restrictable_feature_advanced_settings_description "इसमें पुस्तचिह्न, पुनः प्रचलन टैब और स्वचालित अद्यतन का आयात भी शामिल है. परिवार के सदस्यों के लिए उपयुक्त सेटिंग बंद करें.">
+<!ENTITY restrictable_feature_advanced_settings_description "इसमें बुकमार्क, पुनः प्रचलन टैब और स्वचालित अद्यतन का आयात भी शामिल है. परिवार के सदस्यों के लिए उपयुक्त सेटिंग बंद करें.">
 <!ENTITY restrictable_feature_camera_microphone "कैमरा और माइक्रोफ़ोन">
 <!ENTITY restrictable_feature_camera_microphone_description "वेबसाइट पर परिवार के सदस्यों को रियल टाइम संचार में सम्मिलित होने की अनुमति देता है.">
 <!ENTITY restrictable_feature_block_list "सूची बाधित करें">
