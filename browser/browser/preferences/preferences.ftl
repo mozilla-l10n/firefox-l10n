@@ -306,7 +306,7 @@ update-enable-search-update =
 
 performance-title = Ydelse
 performance-use-recommended-settings-checkbox =
-    .label = Brug de anbefalede ydelses-indstillinger
+    .label = Brug de anbefalede indstillinger for ydelse
     .accesskey = a
 performance-use-recommended-settings-desc = Disse indstillinger er skræddersyede til din computers hardware og operativsystem
 performance-settings-learn-more = Læs mere
