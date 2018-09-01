@@ -5,6 +5,9 @@
 languages-window =
     .title = Tutlayin
     .style = width: 30em
+webpage-languages-window =
+    .title = Iɣewwaṛen n Tutlayt n Usebter Web
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Kra n yisebtar web ttunefkayen-d deg waṭas n tutlayin. Fren tutlayin iwakken ad tsekneḍ isebtar-a akken i tesmenyafeḍ
@@ -40,4 +43,5 @@ languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window =
     .title = { -brand-short-name } Iɣewwaṛen n Tutlayt
-    .style = Tehri: 40em
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } Ad yesken tutlayt tamezwarut d tutlayt-ik amezwer u ad yesken tutlayin nniḍen ma yessefk s umsizwer akken i d-tbanent.
