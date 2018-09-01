@@ -477,7 +477,7 @@
 <!ENTITY new_tab "नया टैब">
 <!ENTITY new_private_tab "नया निजी टैब">
 <!ENTITY close_all_tabs "सभी टैब बन्द करें">
-<!ENTITY close_private_tabs "निजी टैब बंद करें |">
+<!ENTITY close_private_tabs "निजी टैब बंद करें">
 <!ENTITY tabs_normal "टैब्स">
 <!ENTITY tabs_private "निजी">
 <!ENTITY set_image_fail "छवि सेट करने में असमर्थ">
@@ -737,7 +737,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "जारी रखें">
 <!ENTITY guest_session_dialog_cancel "रद्द करें">
 <!ENTITY new_guest_session_title "&brandShortName; अब पुनः आरंभ होगा">
-<!ENTITY new_guest_session_text2 "व्यक्ति जो इसे उपयोग कर रहा है आपके किसी भी व्यक्तिगत ब्राउज़िंग डेटा को देखने में सक्षम नहीं होगा(जैसे सहेजे कूटशब्द, इतिहास या पुस्तचिह्न).\n\nअतिथि के जाने के बाद, उनके ब्राउज़िंग आँकड़े भी मिट जाएँगे और आपका सत्र पहले जैसा हो जायेगा.">
+<!ENTITY new_guest_session_text2 "जो व्यक्ति इसे उपयोग करेगा आपके किसी भी व्यक्तिगत ब्राउज़िंग डेटा (जैसे सहेजे पासवर्ड, इतिहास या बुकमार्क) को देखने में असमर्थ होगा. \n \nआपके मित्र का काम पूरा होते ही, उनके ब्राउज़िंग डेटा को मिटा दिया जाएगा और आपका सत्र पहले जैसे हो जायेंगे.">
 <!ENTITY guest_browsing_notification_title "अतिथि ब्राउज़िंग सक्षम किया गया है">
 <!ENTITY guest_browsing_notification_text "बाहर निकलने के लिए टैप करें">
 
