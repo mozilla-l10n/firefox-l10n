@@ -6,6 +6,8 @@ do-not-track-description = Siųsti svetainėms „Do Not Track“ signalą, nuro
 do-not-track-learn-more = Sužinoti daugiau
 do-not-track-option-default =
     .label = Tik naudojant apsaugą nuo stebėjimo
+do-not-track-option-default-content-blocking =
+    .label = Tik kai „{ -brand-short-name }“ nustatyta blokuoti žinomus stebėjimo elementus
 do-not-track-option-always =
     .label = Visada
 pref-page =
@@ -206,6 +208,9 @@ choose-button =
     .label = Pasirinkti…
     .accesskey = P
 choose-browser-language-description = Pasirinkite kalbas, kurios bus naudojamos atvaizduojant meniu, žinutes, pranešimus iš „{ -brand-short-name }“.
+manage-browser-languages-button =
+    .label = Nustatyti kitas…
+    .accesskey = k
 confirm-browser-language-change-description = Norėdami pritaikyti pakeitimus, paleiskite „{ -brand-short-name }“ iš naujo
 confirm-browser-language-change-button = Pritaikyti ir perleisti
 translate-web-pages =
@@ -626,6 +631,10 @@ sitedata-block-all-third-parties-option =
     .label = Visi trečiųjų šalių slapukai
 sitedata-block-always-option =
     .label = Visi slapukai (gali sutrikti svetainių veikimas)
+sitedata-block-all-third-party-option =
+    .label = Visi trečiųjų šalių slapukai (gali sutrikti svetainių veikimas)
+sitedata-block-all-option =
+    .label = Visi slapukai (sutriks svetainių veikimas)
 sitedata-clear =
     .label = Išvalyti duomenis…
     .accesskey = v
@@ -673,6 +682,11 @@ content-blocking-category-label = Pasirinkite, ką blokuoti
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Lėti stebėjimo elementai
     .accesskey = L
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Lėtai įkeliami stebėjimo elementai
+    .accesskey = L
 content-blocking-fastblock-description = Blokuoja trečiųjų šalių turinį, kurio įkėlimas trunka ilgiau nei 5 sekundes.
 content-blocking-fastblock-option-enabled =
     .label = Visada blokuoti
@@ -680,6 +694,8 @@ content-blocking-fastblock-option-disabled =
     .label = Niekada neblokuoti
 content-blocking-tracking-protection-label = Stebėjimo elementai
     .accesskey = S
+content-blocking-tracking-protection-all-label = Visi aptikti stebėjimo elementai
+    .accesskey = t
 content-blocking-tracking-protection-description = Blokuoja visus žinomus stebėjimo elementus (gali sutrikti kai kurių tinklalapių įkėlimas).
 content-blocking-tracking-protection-option-enabled =
     .label = Visada blokuoti
@@ -687,7 +703,33 @@ content-blocking-tracking-protection-option-pbm =
     .label = Blokuoti tik privačiojo naršymo languose
 content-blocking-tracking-protection-option-disabled =
     .label = Niekada neblokuoti
+content-blocking-tracking-protection-option-always =
+    .label = Visada
+    .accesskey = V
+content-blocking-tracking-protection-option-private =
+    .label = Tik privačiojo naršymo languose
+    .accesskey = p
 content-blocking-tracking-protection-change-blocklist = Keisti blokavimo sąrašą…
+content-blocking-reject-trackers-label = Trečiųjų šalių slapukai
+    .accesskey = s
+content-blocking-reject-trackers-description = Blokuoja visus trečiųjų šalių slapukus, arba tik nustatytus stebėjimo elementų.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = Dabar blokuojami visi slapukai.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Dabar blokuojami neaplankytų svetainių slapukai.
+content-blocking-change-cookie-settings =
+    .label = Keisti slapukų nuostatas
+    .accesskey = n
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Stebėjimo elementai (rekomenduojama)
+    .accesskey = b
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Stebėjimo elementai
+    .accesskey = b
 
 ## Privacy Section - Tracking
 

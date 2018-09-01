@@ -5,6 +5,9 @@
 languages-window =
     .title = Kalbos
     .style = width: 32em
+webpage-languages-window =
+    .title = Tinklalapių kalbos nuostatos
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Tinklalapiai kartais yra prienami daugiau nei viena kalba. Pasirinkite kalbas šių tinklalapių atvaizdavimui, išdėstydami pagal pirmenybę
@@ -38,3 +41,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = „{ -brand-short-name }“ kalbos nuostatos
+    .style = width: 40em
+browser-languages-description = „{ -brand-short-name }“ laikys pirmąją kalbą numatytąja ir jei prireiks, rodys kitas kalbas tokiu eiliškumu, koks matosi čia.
