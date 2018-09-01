@@ -27,7 +27,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>શોધો</button>
     </div>
-  <li> જો તમે કોઈપણ પૃષ્ઠોને લોડ કરવામાં અસમર્થ હોવ, તો તમારા ઉપકરણનો ડેટા અથવા Wi-Fi કનેક્શન તપાસો.
+  <li> જો તમે કોઈપણ પાનાંઓને લોડ કરવામાં અસમર્થ હોવ, તો તમારા ઉપકરણનો ડેટા અથવા Wi-Fi કનેક્શન તપાસો.
 <button id='wifi'>WiFi સક્ષમ કરો</button>
   </li> 
   </ul>">
@@ -85,7 +85,7 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "સરનામું સમજાયું ન હતું">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>આ સરનામું ખોલવા માટે તમારે અન્ય સૉફ્ટવેર સ્થાપિત કરવાની જરૂર પડી શકે.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>આ સરનામું ખોલવા માટે તમારે અન્ય સૉફ્ટવેર ઇન્સ્ટોલ કરવાની જરૂર પડી શકે.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "પ્રૉક્સી સર્વર જોડાણો નકારી રહ્યું છે">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>પ્રૉક્સી સેટીંગ બરાબર છે કે નથી તેની ખાતરી કરો.</li> <li>પ્રૉક્સી સેટીંગ ચાલુ છે કે નથી તેની ખાતરી કરવા માટે તમારા નેટવર્ક સંચાલકનો સંપર્ક કરો.</li> </ul>">
@@ -124,7 +124,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "<ul>
   <li>સાઇટ અસ્થાયી રૂપે અનુપલબ્ધ અથવા ખૂબ વ્યસ્ત હોઈ શકે છે. થોડીક ક્ષણોમાં ફરી પ્રયાસ કરો.</li>
-  <li>જો તમે કોઈપણ પૃષ્ઠોને લોડ કરવામાં અસમર્થ હોવ, તો તમારા મોબાઇલ ઉપકરણનો ડેટા અથવા Wi-Fi કનેક્શન તપાસો.
+  <li>જો તમે કોઈપણ પાનાંને લોડ કરવામાં અસમર્થ હોવ, તો તમારા મોબાઇલ ઉપકરણનો ડેટા અથવા Wi-Fi કનેક્શન તપાસો.
     <button id='wifi'>Wi-Fi સક્ષમ કરો</button>
   </li>
 </ul>">

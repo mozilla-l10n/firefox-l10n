@@ -13,7 +13,7 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "તમે ખાનગી બ્રાઉઝિંગમાં નથી">
 
-<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; તમારી બ્રાઉઝિંગ પ્રવૃત્તિને ટ્રૅક કરી શકે તેવા પૃષ્ઠોના ભાગોને બ્લૉક્સ કરે છે.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; તમારી બ્રાઉઝિંગ પ્રવૃત્તિને ટ્રૅક કરી શકે તેવા પાનાંના ભાગોને અવરોધ કરે છે.">
 <!ENTITY privatebrowsingpage.description.privateDetails "અમે કોઈ પણ ઇતિહાસ યાદ રાખશુ નહીં, પરંતુ ડાઉનલોડ કરેલી ફાઇલો અને નવા બુકમાર્ક્સ હજી પણ તમારા ઉપકરણ પર સચવાશે.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
