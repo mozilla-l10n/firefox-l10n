@@ -141,7 +141,7 @@
 <!ENTITY settings "સેટીંગ">
 <!ENTITY settings_title "સેટીંગ">
 <!ENTITY pref_category_general "સામાન્ય">
-<!ENTITY pref_category_general_summary3 "હોમ, ભાષા, ટેબ કતાર">
+<!ENTITY pref_category_general_summary3 "મુખ્ય, ભાષા, ટેબ કતાર">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -153,7 +153,7 @@
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "સિસ્ટમ ડિફૉલ્ટ">
+<!ENTITY locale_system_default "સિસ્ટમ મૂળભૂત">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
@@ -181,7 +181,7 @@
 <!ENTITY overlay_no_synced_devices "Firefox ખાતા સાથે જોડાયેલ ઉપકરણો મળ્યા નથી">
 
 <!ENTITY pref_category_search3 "શોધો">
-<!ENTITY pref_category_search_summary2 "ઉમેરો, ડિફોલ્ટ સેટ કરો, સૂચનો બતાવો">
+<!ENTITY pref_category_search_summary2 "ઉમેરો, મૂળભૂત સ્થિત કરો, સૂચનો બતાવો">
 <!ENTITY pref_category_accessibility "ઉપલ્બધતા">
 <!ENTITY pref_category_accessibility_summary2 "લખાણ કદ, ઝૂમ, સ્વર ઇનપુટ">
 <!ENTITY pref_category_privacy_short "ખાનગીપણુ">
@@ -274,7 +274,7 @@
 <!ENTITY pref_show_web_fonts_summary2 "કોઈ પૃષ્ઠ લોડ કરતી વખતે દૂરસ્થ ફોન્ટ્સ ડાઉનલોડ કરો">
 
 <!ENTITY pref_tracking_protection_title2 "ટ્રેકિંગ રક્ષણ">
-<!ENTITY pref_donottrack_title "ટ્રૅક કરશો નહીં">
+<!ENTITY pref_donottrack_title "ટ્રેક કરશો નહીં">
 <!ENTITY pref_donottrack_summary "&brandShortName; એવી સાઇટ્સને કહેશે જે તમે ટ્રેક કરવા માંગતા નથી">
 
 <!ENTITY pref_tracking_protection_enabled "સક્ષમ કરેલું">
@@ -311,7 +311,7 @@
 <!ENTITY pref_pwa "પ્રગતિશીલ વેબ એપ્લિકેશન્સ">
 <!ENTITY pref_pwa_summary "વેબ એપ્લિકેશન્સને મુખ્ય સ્ક્રીન પર ઉમેરવાની મંજૂરી આપો">
 
-<!ENTITY tracking_protection_prompt_title "હવે ટ્રેકિંગ પ્રોટેક્શન સાથે">
+<!ENTITY tracking_protection_prompt_title "હવે ટ્રેકિંગ રક્ષણ સાથે">
 <!ENTITY tracking_protection_prompt_text "સક્રિય રીતે ટ્રેકિંગ ઘટકોને અવરોધિત કરો જેથી તમારે ચિંતા કરવાની જરૂર નથી.">
 <!ENTITY tracking_protection_prompt_tip_text "વધુ જાણવા માટે ગોપનીયતા સેટિંગ્સ ની મુલાકાત લો">
 <!ENTITY tracking_protection_prompt_action_button "સમજાઈ ગયું!">
@@ -352,7 +352,7 @@
 <!ENTITY pref_clear_private_data_now_tablet "હમણાં સાફ કરો">
 <!ENTITY pref_clear_on_exit_title3 "બહાર નીકળતી વખતે ખાનગી માહિતીને સાફ કરો">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; જ્યારે તમે મુખ્ય મેનૂમાંથી \&quot;છોડો\&quot; પસંદ કરો ત્યારે આપમેળે તમારો ડેટા સાફ કરશે">
-<!ENTITY pref_clear_on_exit_dialog_title "કયો ડેટા સાફ કરવો તે પસંદ કરો">
+<!ENTITY pref_clear_on_exit_dialog_title "કઇ માહિતી સાફ કરવી તે પસંદ કરો">
 <!ENTITY pref_restore_tabs "ટૅબ્સ પુનઃસ્થાપિત કરો">
 <!ENTITY pref_restore_always "હંમેશા પુનઃસંગ્રહો">
 <!ENTITY pref_restore_quit "&brandShortName; બંધ કર્યા પછી પુનઃસંગ્રહો નહિ">
@@ -396,7 +396,7 @@
 <!ENTITY pref_private_data_syncedTabs "સમન્વિત કરેલા ટૅબ્સ">
 
 <!ENTITY pref_default_browser "ડિફૉલ્ટ બ્રાઉઝર બનાવો">
-<!ENTITY pref_default_browser_mozilla_support_tablet "મોઝીલા આધારની મુલાકાત લો">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla આધારની મુલાકાત લો">
 <!ENTITY pref_about_firefox "&brandShortName; વિશે">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "અભિપ્રાય આપો">
@@ -676,7 +676,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "તમે અસુરક્ષિત સામગ્રી માટેનુ રક્ષણ અક્ષમ કરેલ છે.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title2 "ટ્રેકિંગ પ્રોટેક્શન">
+<!ENTITY doorhanger_tracking_title2 "ટ્રેકિંગ રક્ષણ">
 <!ENTITY doorhanger_tracking_state_enabled "સક્ષમ">
 <!ENTITY doorhanger_tracking_state_disabled "નિષ્ક્રિય">
 <!ENTITY doorhanger_tracking_message_enabled1 "તમારી ઑનલાઇન વર્તન ટ્રૅક કરવા પ્રયાસો અવરોધિત કરવામાં આવી છે.">
@@ -798,9 +798,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "એડ-ઓન્સ">
 <!ENTITY restrictable_feature_addons_installation_description "સુવિધાઓ અથવા કાર્યક્ષમતા Firefox ઉમેરો. નોંધ: એડ-ઓન્સ અમુક પ્રતિબંધો નિષ્ક્રિય કરી શકો છો.">
 <!ENTITY restrictable_feature_private_browsing "ખાનગી બ્રાઉઝિંગ">
-<!ENTITY restrictable_feature_private_browsing_description "પરિવારના સભ્યો સાઇટ્સ અને તેઓએ જોયેલા પૃષ્ઠોની મુલાકાત લીધી વિશે જાણકારી સાચવ્યાં વિના બ્રાઉઝ કરવાની મંજૂરી આપો.">
+<!ENTITY restrictable_feature_private_browsing_description "પરિવારના સભ્યો ને સાઇટ્સ અને તેઓએ જોયેલા પાનાંની મુલાકાત લીધી વિશે જાણકારી સાચવ્યાં વિના બ્રાઉઝ કરવાની મંજૂરી આપો.">
 <!ENTITY restrictable_feature_clear_history "ઇતિહાસ સાફ કરો">
-<!ENTITY restrictable_feature_clear_history_description "પરિવારના સભ્યો સાઇટ્સ અને તેઓએ જોયેલા પૃષ્ઠોની મુલાકાત લીધી છે, તેના વિશે માહિતી કાઢી નાખવા દે છે.">
+<!ENTITY restrictable_feature_clear_history_description "પરિવારના સભ્યોએ જોયેલી સાઇટ્સ અને તેઓએ જે પાનાંની મુલાકાત લીધી છે તેની માહિતી કાઢી નાખવાની પરવાનગી આપે છે.">
 <!ENTITY restrictable_feature_advanced_settings "વિગતવાર સેટિંગ્સ">
 <!ENTITY restrictable_feature_advanced_settings_description "આ આયાત બુકમાર્ક્સ, પુનર્સ્થાપિત ટૅબ્સ અને સ્વયંસંચાલિત સુધારાઓ સમાવેશ થાય છે. કોઈપણ કુટુંબ સભ્ય માટે યોગ્ય સરળ સેટિંગ્સ બંધ કરો.">
 <!ENTITY restrictable_feature_camera_microphone "કેમેરા &amp; માઇક્રોફોન">
@@ -863,7 +863,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "હાલમાં લોકપ્રિય">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
-<!ENTITY activity_stream_highlights_empty "બ્રાઉઝ કરવું પ્રારંભ કરો અને અમે અહીં કેટલાક સરસ લેખો, વિડિઓઝ અને અન્ય પૃષ્ઠો દર્શાવીશું જે તમે તાજેતરમાં મુલાકાત લીધાં છે અથવા બુકમાર્ક કર્યા છે.">
+<!ENTITY activity_stream_highlights_empty "બ્રાઉઝ કરવું પ્રારંભ કરો અને અમે અહીં કેટલાક સરસ લેખો, વિડિઓઝ અને અન્ય પાનાં દર્શાવીશું જે તમે તાજેતરમાં મુલાકાત લીધાં છે અથવા બુકમાર્ક કર્યા છે.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -872,7 +872,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "ઇતિહાસમાંથી દૂર કરો">
 
 <!ENTITY private_tab_panel_title "ખાનગી બ્રાઉઝિંગ + ટ્રેકિંગ રક્ષણ">
-<!ENTITY private_tab_panel_description "&brandShortName; તમારી બ્રાઉઝિંગ પ્રવૃત્તિને ટ્રૅક કરી શકે તેવા પૃષ્ઠોના ભાગોને બ્લૉક્સ કરે છે.">
+<!ENTITY private_tab_panel_description "&brandShortName; તમારી બ્રાઉઝિંગ પ્રવૃત્તિને ટ્રૅક કરી શકે તેવા પાનાંની ભાગોને બ્લૉક્સ કરે છે.">
 <!ENTITY private_tab_panel_description2 "અમે કોઈ પણ ઇતિહાસ યાદ રાખીશું નહીં, પરંતુ ડાઉનલોડ કરેલી ફાઇલો અને નવા બુકમાર્ક્સ હજી પણ તમારા ઉપકરણ પર સચવાશે.">
 <!ENTITY private_tab_learn_more "વધુ જાણવા માંગો છો?">
 

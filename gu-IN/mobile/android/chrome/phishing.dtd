@@ -11,7 +11,7 @@
 <!ENTITY safeb.blocked.malwarePage.title "અહેવાલ અપાયેલ હુમલા પાનું!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> આગળ આ પાનાંનો હુમલા પાના તરીકે અહેવાલ આપવામાં આવ્યો છે અને તમારી સુરક્ષા પસંદગીઓના આધારે તેને બ્લૉક કરવામાં આવ્યું છે.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>હુમલા પાનાંઓ કાર્યક્રમો સ્થાપિત કરવાનો પ્રયાસ કરે છે કે જે ખાનગી જાણકારી ચોરે છે, તમારા કમ્પ્યૂટરનો ઉપયોગ બીજાઓ પર હુમલા કરવા માટે કરે, અથવા તમારી સિસ્ટમને પણ ભાંગી શકે છે.</p><p>અમુક હુમલા પાનાંઓ હેતુસર નુકસાનકારક સોફ્ટવેર વિતરે છે, પણ ઘણાબધા તેમના માલિકોની જાણકારી કે પરવાનગી વિના બગાડવામાં આવેલા હોય છે.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>હુમલા પાનાંઓ કાર્યક્રમો ઇન્સ્ટોલ કરવાનો પ્રયાસ કરે છે કે જે ખાનગી જાણકારી ચોરે છે, તમારા કમ્પ્યૂટરનો ઉપયોગ બીજાઓ પર હુમલા કરવા માટે કરે, અથવા તમારી સિસ્ટમને પણ ભાંગી શકે છે.</p><p>અમુક હુમલા પાનાંઓ હેતુસર નુકસાનકારક સોફ્ટવેર વિતરે છે, પણ ઘણાબધા તેમના માલિકોની જાણકારી કે પરવાનગી વિના બગાડવામાં આવેલા હોય છે.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "છેતરામણી સાઇટ!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -21,7 +21,7 @@
 <!ENTITY safeb.blocked.unwantedPage.title "જાણ કરેલી અનિચ્છનીય સોફ્ટવેર સાઇટ!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> પર આ વેબ પેજને અનિચ્છનીય સૉફ્ટવેર સમાવિષ્ટ કરવામાં આવ્યું છે અને તમારી સુરક્ષા પસંદગીઓ પર આધારિત અવરોધિત કરવામાં આવ્યું છે.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "અવાંછિત સોફ્ટવેર પૃષ્ઠો એવા સોફ્ટવેર ઇન્સ્ટોલ કરવાનો પ્રયાસ કરે છે જે અનિચ્છનીય રીતે તમારી સિસ્ટમને ભ્રામક અને અસર કરી શકે છે.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "અવાંછિત સોફ્ટવેર પાનાં એવા સોફ્ટવેર ઇન્સ્ટોલ કરવાનો પ્રયાસ કરે છે જે અનિચ્છનીય રીતે તમારી સિસ્ટમને ભ્રામક અને અસર કરી શકે છે.">
 
 <!ENTITY safeb.blocked.harmfulPage.title "આગળ સાઇટમાં માલવેર શામેલ હોઈ શકે છે">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; આ પૃષ્ઠને અવરોધિત કર્યું કારણ કે તે તમારી માહિતી (ઉદાહરણ તરીકે, ફોટા, પાસવર્ડ્સ, સંદેશા અને ક્રેડિટ કાર્ડ્સ)ને ચોરી કે કાઢી નાખતી જોખમી એપ્લિકેશનોને ઇન્સ્ટોલ કરવાનો પ્રયાસ કરી શકે છે.">
