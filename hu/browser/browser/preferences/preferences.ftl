@@ -6,6 +6,8 @@ do-not-track-description = „Do Not Track” jelzés küldése a webhelyeknek, 
 do-not-track-learn-more = További információk
 do-not-track-option-default =
     .label = Csak, ha követésvédelmet használ
+do-not-track-option-default-content-blocking =
+    .label = Csak a { -brand-short-name } az észlelt követők blokkolására van beállítva
 do-not-track-option-always =
     .label = Mindig
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = A(z) <img data-l10n-name="icon"/> { $n
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = A(z) <img data-l10n-name="icon"/> { $name } kiegészítő vezérli a követés elleni védelmet.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Egy kiegészítő, a(z) <img data-l10n-name="icon"/>{ $name }, vezérli ezt a beállítást.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = A(z) <img data-l10n-name="icon"/> { $name } kiegészítő vezérli, hogy a { -brand-short-name } hogy kapcsolódik az internethez
@@ -203,6 +208,9 @@ choose-button =
     .label = Tallózás…
     .accesskey = T
 choose-browser-language-description = Válassza ki a { -brand-short-name }ban megjelenített menük, üzenetek és értesítések nyelvét.
+manage-browser-languages-button =
+    .label = Alternatívák beállítása…
+    .accesskey = A
 confirm-browser-language-change-description = A { -brand-short-name } újraindítása a változtatások alkalmazásához
 confirm-browser-language-change-button = Alkalmaz és újraindítás
 translate-web-pages =
@@ -674,11 +682,6 @@ content-blocking-category-label = Válassza ki, mit szeretne blokkolni
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Lassú követőelemek
     .accesskey = L
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Lassan betöltő követők
-    .accesskey = L
 content-blocking-fastblock-description = Blokkolja azon harmadik féltől származó tartalmakat, melyeket 5 másodpercnél több idő betölteni.
 content-blocking-fastblock-option-enabled =
     .label = Mindig blokkolja
@@ -686,8 +689,6 @@ content-blocking-fastblock-option-disabled =
     .label = Sosem blokkolja
 content-blocking-tracking-protection-label = Követők
     .accesskey = K
-content-blocking-tracking-protection-all-label = Összes észlelt követő
-    .accesskey = e
 content-blocking-tracking-protection-description = Az ismert követők blokkolása (Megjegyzés: megakadályozhatja néhány oldal betöltését).
 content-blocking-tracking-protection-option-enabled =
     .label = Mindig blokkolja
@@ -695,24 +696,24 @@ content-blocking-tracking-protection-option-pbm =
     .label = Csak privát ablakokban blokkolja
 content-blocking-tracking-protection-option-disabled =
     .label = Sosem blokkolja
+content-blocking-tracking-protection-change-blocklist = Blokkolási lista módosítása…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Lassan betöltő követők
+    .accesskey = L
+content-blocking-tracking-protection-all-label = Összes észlelt követő
+    .accesskey = e
 content-blocking-tracking-protection-option-always =
     .label = Mindig
     .accesskey = M
 content-blocking-tracking-protection-option-private =
     .label = Csak privát ablakokban
     .accesskey = p
-content-blocking-tracking-protection-change-blocklist = Blokkolási lista módosítása…
+content-blocking-tracking-protection-change-block-list = Blokkolási lista módosítása
 content-blocking-reject-trackers-label = Harmadik féltől származó sütik
     .accesskey = H
 content-blocking-reject-trackers-description = Összes harmadik féltől származó süti, vagy csak a követők által beállítottak blokkolása.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = Jelenleg minden süti blokkolt.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Jelenleg a nem felkeresett weboldalak sütijei blokkoltak.
 content-blocking-change-cookie-settings =
     .label = Sütibeállítások módosítása
     .accesskey = S
