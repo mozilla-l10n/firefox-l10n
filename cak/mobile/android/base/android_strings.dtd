@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Jun chik">
 
 <!ENTITY firstrun_tabqueue_title "Taq ximöy">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Titzij rujey Ruwi\&apos;">
-<!ENTITY firstrun_tabqueue_subtext_off "Keyak ri taq ximöy richin pa jun chik mej pa &brandShortName; toq yechap qa pa ch\&apos;aqa\&apos; chik taq chokoy.">
-
-<!ENTITY firstrun_tabqueue_message_on "¡Xojtikïr!">
-<!ENTITY firstrun_tabqueue_subtext_on "Junelïk tikirel nichup re cha\&apos;oj re\&apos; pa &settings; chuxe\&apos; &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Cholna\&apos;oj">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "Titikirisäx chik &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Tikanöx chuqa\&apos; titz\&apos;ib\&apos;äx ri ochochib\&apos;äl">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Kinuk\&apos;ik taq ruwi\&apos;, chajinel taq tzij, taq rusamajib\&apos;al b\&apos;anel">
 <!ENTITY pref_category_notifications "Taq rutzijol">
-<!ENTITY pref_category_notifications_summary "Ri k\&apos;ak\&apos;a\&apos; taq rub\&apos;anikil, taq k\&apos;exoj kiwäch taq ruxaq ajk\&apos;amaya\&apos;l">
 <!ENTITY pref_category_notifications_summary2 "K\&apos;ak\&apos;a\&apos; taq samaj, kichilab\&apos;exik tikojil">
 <!ENTITY pref_developer_remotedebugging_usb "Näj chojmirisanem pa USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Näj chojmirisanem pa Wi-Fi">
@@ -908,3 +900,4 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "&vendorShortName; Rusamaj K\&apos;ojlemal">
 <!ENTITY download_notification_channel "Taq qasanïk">
 <!ENTITY media_notification_channel "Rutzijik k\&apos;ïy k\&apos;oxom">
+<!ENTITY updater_notification_channel "Taq ruk\&apos;exoj chokoy">
