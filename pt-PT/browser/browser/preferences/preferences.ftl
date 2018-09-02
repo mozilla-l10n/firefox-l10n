@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = Uma extensão, <img data-l10n-name="ic
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Uma extensão, <img data-l10n-name="icon"/> { $name }, está a controlar a proteção contra monitorização.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Uma extensão,<img data-l10n-name="icon"/>{ $name }, está a controlar esta definição.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Uma extensão, <img data-l10n-name="icon"/> { $name }, está a controlar como o { -brand-short-name } se liga à internet.
@@ -641,6 +644,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Exceções…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = As suas definições no Bloqueio de conteúdo estão a impedir alterações às definições de Cookies e Dados de sites.
 
 ## Privacy Section - Address Bar
 
@@ -679,19 +686,12 @@ content-blocking-category-label = Escolha o que bloquear
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Elementos de monitorização lentos
     .accesskey = s
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Trackers de carregamento lento
-    .accesskey = s
 content-blocking-fastblock-description = Bloqueia conteúdo de terceiros que demora mais do que 5 segundos a carregar.
 content-blocking-fastblock-option-enabled =
     .label = Bloquear sempre
 content-blocking-fastblock-option-disabled =
     .label = Nunca bloquear
 content-blocking-tracking-protection-label = Trackers
-    .accesskey = T
-content-blocking-tracking-protection-all-label = Todos os trackers detetados
     .accesskey = T
 content-blocking-tracking-protection-description = Bloqueia todos os trackers conhecidos (Nota: também pode impedir algumas páginas de serem carregadas).
 content-blocking-tracking-protection-option-enabled =
@@ -700,24 +700,30 @@ content-blocking-tracking-protection-option-pbm =
     .label = Bloquear apenas em janelas privadas
 content-blocking-tracking-protection-option-disabled =
     .label = Nunca bloquear
+content-blocking-tracking-protection-change-blocklist = Alterar lista de bloqueio…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Trackers de carregamento lento
+    .accesskey = s
+content-blocking-fastblock-new-description = Bloquear apenas os trackers que impedem as páginas de carregar rapidamente.
+content-blocking-tracking-protection-all-label = Todos os trackers detetados
+    .accesskey = T
 content-blocking-tracking-protection-option-always =
     .label = Sempre
     .accesskey = S
 content-blocking-tracking-protection-option-private =
     .label = Apenas em janelas privadas
     .accesskey = p
-content-blocking-tracking-protection-change-blocklist = Alterar lista de bloqueio…
+content-blocking-tracking-protection-change-block-list = Alterar lista de bloqueio
 content-blocking-reject-trackers-label = Cookies de terceiros
     .accesskey = C
 content-blocking-reject-trackers-description = Bloquear todos os cookies de terceiros ou apenas aqueles definidos por trackers.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = Todos os cookies estão atualmente bloqueados.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Cookies de websites não visitados estão atualmente bloqueados.
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = As suas definições em Cookies e Dados de sites estão a impedir alterações às definições de Cookies de terceiros.
 content-blocking-change-cookie-settings =
     .label = Alterar definições de cookies
     .accesskey = s
