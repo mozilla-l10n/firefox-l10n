@@ -258,8 +258,8 @@
 <!ENTITY pref_panels_show "Mostra">
 <!ENTITY pref_panels_hide "Nascondi">
 <!ENTITY pref_panels_reorder "Modifica ordine">
-<!ENTITY pref_panels_move_up "Sposta in alto">
-<!ENTITY pref_panels_move_down "Sposta in basso">
+<!ENTITY pref_panels_move_up "Sposta su">
+<!ENTITY pref_panels_move_down "Sposta giù">
 <!ENTITY datareporting_notification_title "Statistiche e dati di &brandShortName;">
 <!ENTITY datareporting_notification_action_long "Scegli quali dati condividere">
 <!ENTITY datareporting_notification_action "Scegli cosa condividere">
@@ -500,7 +500,7 @@
 <!ENTITY activity_stream_remove "Rimuovi">
 <!ENTITY activity_stream_delete_history "Elimina dalla cronologia">
 <!ENTITY private_tab_panel_title "Navigazione anonima + Protezione antitracciamento">
-<!ENTITY private_tab_panel_description "&brandShortName; blocca gli elementi della pagina in grado di tracciare la navigazione." >
+<!ENTITY private_tab_panel_description "&brandShortName; bloccherà gli elementi della pagina in grado di tracciare la navigazione." >
 <!ENTITY private_tab_panel_description2 "Non verrà salvata alcuna cronologia, ma i file scaricati e i nuovi segnalibri verranno comunque conservati sul dispositivo." >
 <!ENTITY private_tab_learn_more "Ulteriori informazioni">
 <!ENTITY fullscreen_warning "Attivata modalità schermo intero">
