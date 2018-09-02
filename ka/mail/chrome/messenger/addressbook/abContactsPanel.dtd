@@ -14,19 +14,19 @@
 
 <!ENTITY abContextMenuButton.tooltip        "მისამართების წიგნაკის კონტექსტური მენიუ">
 <!ENTITY addressbookPicker.label            "წიგნაკი:">
-<!ENTITY addressbookPicker.accesskey        "k">
+<!ENTITY addressbookPicker.accesskey        "კ">
 <!ENTITY searchContacts.label               "კონტაქტების ძიება:">
 <!ENTITY searchContacts.accesskey           "ნ">
 <!ENTITY SearchNameOrEmail.label            "წერილის სახელი">
 
 <!ENTITY addtoToFieldMenu.label             "დამატება ველში">
-<!ENTITY addtoToFieldMenu.accesskey         "A">
+<!ENTITY addtoToFieldMenu.accesskey         "ვ">
 <!ENTITY addtoCcFieldMenu.label             "დამატება ასლის ველში">
-<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoCcFieldMenu.accesskey         "ს">
 <!ENTITY addtoBccFieldMenu.label            "დამატება ფარული ასლის ველში">
-<!ENTITY addtoBccFieldMenu.accesskey        "B">
+<!ENTITY addtoBccFieldMenu.accesskey        "ფ">
 <!ENTITY deleteAddrBookCard.label           "წაშლა">
-<!ENTITY deleteAddrBookCard.accesskey       "D">
+<!ENTITY deleteAddrBookCard.accesskey       "წ">
 <!ENTITY propertiesContext.label            "პარამეტრები">
 <!ENTITY propertiesContext.accesskey        "პ">
 <!ENTITY abPropertiesContext.label          "პარამეტრები">
@@ -42,8 +42,8 @@
 <!ENTITY newListAbContext.accesskey         "ს">
 
 <!ENTITY toButton.label                     "დამატება ველში - ვის:">
-<!ENTITY toButton.accesskey                 "A">
+<!ENTITY toButton.accesskey                 "ვ">
 <!ENTITY ccButton.label                     "დამატება ველში - ასლი:">
-<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY ccButton.accesskey                 "ს">
 <!ENTITY bccButton.label                    "ფარულ ასლებში დამატება:">
-<!ENTITY bccButton.accesskey                "B">
+<!ENTITY bccButton.accesskey                "ფ">
