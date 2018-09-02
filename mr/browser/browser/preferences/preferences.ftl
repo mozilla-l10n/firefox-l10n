@@ -203,6 +203,9 @@ choose-button =
     .label = निवडा…
     .accesskey = o
 choose-browser-language-description = { -brand-short-name } चा मेनू, संदेश, आणि सुचना दर्शवणारी भाषा ठरवा.
+manage-browser-languages-button =
+    .label = पर्याय सेट करा...
+    .accesskey = l
 confirm-browser-language-change-description = हे बदल लागू करण्यासाठी { -brand-short-name } पुन्हा सुरु करा
 confirm-browser-language-change-button = लागू करून पुन्हा सुरु करा
 translate-web-pages =
@@ -319,6 +322,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = नेटवर्क प्रॉक्सी
+network-settings-title = नेटवर्क सेटिंग
 network-proxy-connection-description = { -brand-short-name } इंटरनेटशी जोडणी कशी करतो ते संरचीत करा.
 network-proxy-connection-learn-more = अधिक जाणा
 network-proxy-connection-settings =
@@ -669,6 +673,8 @@ content-blocking-fastblock-option-disabled =
     .label = कधीच अडवू नका
 content-blocking-tracking-protection-label = मागोवा घेणारे
     .accesskey = T
+content-blocking-tracking-protection-all-label = सर्व आढळलेले ट्रॅकर्स
+    .accesskey = T
 content-blocking-tracking-protection-description = सर्व ज्ञात मागोवा घेणारे घटक अडवते(टीप: काही पृष्ठ लोड होणार नाहीत).
 content-blocking-tracking-protection-option-enabled =
     .label = नेहमी आडवा
@@ -679,7 +685,25 @@ content-blocking-tracking-protection-option-disabled =
 content-blocking-tracking-protection-option-always =
     .label = नेहमी
     .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = फक्त खाजगी पटलामध्ये
+    .accesskey = p
 content-blocking-tracking-protection-change-blocklist = अवरोधित सूची बदला…
+content-blocking-reject-trackers-label = तृतीय-पक्ष कुकीज
+    .accesskey = C
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = सर्व कुकीज सध्या अवरोधित आहेत.
+content-blocking-change-cookie-settings =
+    .label = कुकी सेटिंग बदला
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = ट्रॅकर्स (सुचवलेले)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = ट्रॅकर्स
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
