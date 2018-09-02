@@ -600,7 +600,7 @@
 <!ENTITY stopButton.tooltip "მიმდინარე გაგზავნის შეჩერება">
 <!ENTITY junkButton.tooltip "შერჩეული წერილების ჯართად მონიშვნა">
 <!ENTITY notJunkButton.tooltip "შერჩეული წერილების გამოსადეგად ჩათვლა">
-<!ENTITY addressBookButton.tooltip "Go to the address book">
+<!ENTITY addressBookButton.tooltip "წიგნაკზე გადასვლა">
 <!ENTITY chatButton.tooltip "სასაუბრო დაფის ჩვენება">
 <!ENTITY tagButton.tooltip "წერილების დაჭდევება">
 <!ENTITY compactButton.tooltip "წაშლილი წერილების მოცილება შერჩეული საქაღალდიდან">
@@ -796,7 +796,7 @@
 <!ENTITY contextCopyMsgMenu.accesskey "კ">
 <!ENTITY contextKillThreadMenu.label "მიმოწერის უგულებელყოფა">
 <!ENTITY contextKillSubthreadMenu.accesskey "ი">
-<!ENTITY contextKillThreadMenu.accesskey "I">
+<!ENTITY contextKillThreadMenu.accesskey "უ">
 <!ENTITY contextKillSubthreadMenu.label "მიმოწერის განშტოების უგულებელყოფა">
 <!ENTITY contextWatchThreadMenu.label "მიმოწერისთვის თვალის მიდევნება">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):

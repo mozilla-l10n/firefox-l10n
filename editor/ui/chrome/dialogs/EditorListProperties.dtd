@@ -6,15 +6,15 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "სიის პარამეტრები">
 
-<!ENTITY ListType.label "სიის ტიპი">
-<!ENTITY bulletStyle.label "სიმბოლოს სტილი:">
-<!ENTITY startingNumber.label "დაწყება:">
-<!ENTITY startingNumber.accessKey "S">
+<!ENTITY ListType.label "სიის სახეობა">
+<!ENTITY bulletStyle.label "ბურთულის სტილი:">
+<!ENTITY startingNumber.label "საწყისი:">
+<!ENTITY startingNumber.accessKey "ს">
 <!ENTITY none.value "არა">
-<!ENTITY bulletList.value "სიმბოლოიანი (გადაუნომრავი) სია">
-<!ENTITY numberList.value "გადანომრილი სია">
+<!ENTITY bulletList.value "ბურთულიანი (დაუნომრავი) სია">
+<!ENTITY numberList.value "დანომრილი სია">
 <!ENTITY definitionList.value "განსაზღვრებებით">
 <!ENTITY changeEntireListRadio.label "მთელის სიის შეცვლა">
-<!ENTITY changeEntireListRadio.accessKey "C">
-<!ENTITY changeSelectedRadio.label "მხოლოდ მონიშნული ელემენტების შეცვლა">
-<!ENTITY changeSelectedRadio.accessKey "I">
+<!ENTITY changeEntireListRadio.accessKey "მ">
+<!ENTITY changeSelectedRadio.label "მხოლოდ მონიშნულების შეცვლა">
+<!ENTITY changeSelectedRadio.accessKey "ხ">
