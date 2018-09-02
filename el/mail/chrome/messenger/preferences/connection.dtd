@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "Αυτή η επιλογή σας ταυτοποιεί σιωπηλά στους διαμεσολαβητές όταν έχετε αποθηκευμένα τα στοιχεία πρόσβασης για αυτούς. Θα ειδοποιηθείτε αν η ταυτοποίηση αποτύχει.">
 <!ENTITY  socksRemoteDNS.label          "Διαμεσολαβητής DNS κατά τη χρήση του SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  dnsOverHttps.label            "Ενεργοποίηση DNS αντί HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "γ">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL για επίλυση DNS αντί HTTPS">
