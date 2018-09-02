@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Pśiducy">
 
 <!ENTITY firstrun_tabqueue_title "Wótkaze">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Rejtarkowy cakański rěd zmóžniś">
-<!ENTITY firstrun_tabqueue_subtext_off "Wótkaz za pózdźej w &brandShortName; składowaś, gaž pótusniju se w drugich nałoženjach.">
-
-<!ENTITY firstrun_tabqueue_message_on "Raźiło!">
-<!ENTITY firstrun_tabqueue_subtext_on "Móžośo to w &settings; pód &pref_category_general; znjemóžniś.">
 
 <!ENTITY firstrun_readerview_title "Nastawki">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "&brandShortName; znowego startowaś">
 
 <!ENTITY url_bar_default_text2 "Adresu pytaś abo zapódaś">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Rejtarki wótnowiś, datowy serwer, wuwijarske rědy">
 <!ENTITY pref_category_notifications "Powěźeńki">
-<!ENTITY pref_category_notifications_summary "Nowe funkcije, aktualizacije websedłow">
 <!ENTITY pref_category_notifications_summary2 "Nowe funkcije, produktowe tipy">
 <!ENTITY pref_developer_remotedebugging_usb "Daloke pytanje zmólkow pśez USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Daloke pytanje zmólkow pśez WLAN">
@@ -908,3 +900,4 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "Stojnišćowa słužba &vendorShortName;">
 <!ENTITY download_notification_channel "Ześěgnjenja">
 <!ENTITY media_notification_channel "Wótgraśe medijow">
+<!ENTITY updater_notification_channel "Aktualizacije nałoženjow">
