@@ -707,6 +707,29 @@ content-blocking-tracking-protection-option-private =
     .label = ફકત ખાનગી વિંડોઝમાં જ
     .accesskey = P
 content-blocking-tracking-protection-change-blocklist = અવરોધ સૂચિ બદલો...
+content-blocking-reject-trackers-label = તૃતીય-પક્ષ કૂકીઝ
+    .accesskey = C
+content-blocking-reject-trackers-description = તમામ તૃતીય-પક્ષની કૂકીઝને અથવા ફક્ત ટ્રેકર્સ દ્વારા સેટ કરેલ કૂકીઝને અવરોધિત કરો.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = બધી કૂકીઝ વર્તમાનમાં અવરોધિત છે.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = બિનજરૂરી વેબસાઇટ્સ પરની કૂકીઝ હાલમાં અવરોધિત છે.
+content-blocking-change-cookie-settings =
+    .label = કૂકી સેટિંગ્સ બદલો
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = ટ્રેકર્સ (ભલામણ કરેલ)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = ટ્રેકર્સ
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = બધી તૃતીય-પક્ષની કૂકીઝ (વેબસાઇટ્સને તોડી શકે છે)
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
@@ -795,6 +818,7 @@ collection-privacy-notice = ગોપનીયતા સૂચના
 collection-health-report =
     .label = { -brand-short-name } ને મંજૂરી આપો { -vendor-short-name } ને ટેક્નિકલ અને ક્રિયાપ્રતિક્રિયા ડેટા મોકલવા માટે.
     .accesskey = r
+collection-health-report-link = વધુ શીખો
 collection-studies =
     .label = { -brand-short-name } અભ્યાસને ઇન્સ્ટોલ અને ચલાવવાની મંજૂરી આપો
 collection-studies-link = { -brand-short-name } અભ્યાસો જુઓ
