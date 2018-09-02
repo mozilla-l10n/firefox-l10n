@@ -974,6 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "સમસ્યાનો અહેવાલ આપો">
 <!ENTITY contentBlocking.breakageReportView.label "સમસ્યાઓની જાણ કરો">
+<!ENTITY contentBlocking.breakageReportView2.description "સામગ્રી અવરોધિત કરવું કેટલીક વેબસાઇટ્સ સાથે સમસ્યા ઊભી કરી શકે છે. જ્યારે તમે સમસ્યાઓની જાણ કરો છો, ત્યારે તમે &brandShortName; દરેક માટે સારું. (આ એક URL મોકલશે તેમજ તમારી બ્રાઉઝર સેટિંગ્સ વિશેની માહિતી મોઝિલાને મોકલશે.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "વધુ શીખો">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "તમારી પાસે કઈ સમસ્યાઓ છે? (વૈકલ્પિક)">

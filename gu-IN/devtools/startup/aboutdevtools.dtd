@@ -21,7 +21,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementTitle): Title of the top
   -  section displayed when devtools are disabled and the user triggered DevTools by using
   -  the Inspect Element menu item. -->
-<!ENTITY  aboutDevtools.enable.inspectElementTitle "એલિમેન્ટ તપાસ કરવા માટે Firefox Developer Tools સક્ષમ કરો">
+<!ENTITY  aboutDevtools.enable.inspectElementTitle "એલિમેન્ટ તપાસ કરવા માટે Firefox ડેવલપર Tools સક્ષમ કરો">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.inspectElementMessage): Message displayed
   -  when users come from using the Inspect Element menu item. -->
@@ -37,11 +37,6 @@
   -  users pressed a DevTools key shortcut. -->
 <!ENTITY  aboutDevtools.enable.keyShortcutMessage
           "તમે વિકાસકર્તા સાધનો શોર્ટકટને સક્રિય કર્યું છે. જો તે ભૂલ હતી, તો તમે આ ટૅબને બંધ કરી શકો છો.">
-
-<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
-  -  clicked on a "Enable Developer Tools" menu item. -->
-<!ENTITY  aboutDevtools.enable.menuMessage
-          "નિરીક્ષક અને ડીબગર જેવા સાધનો સાથે HTML, CSS અને JavaScript સાથેનું પરીક્ષણ, સંપાદન અને ડીબગ કરો.">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
@@ -59,8 +54,6 @@
 <!ENTITY  aboutDevtools.enable.learnMoreLink "વિકાસકર્તા સાધનો વિશે વધુ જાણો">
 
 <!ENTITY  aboutDevtools.enable.enableButton "વિકાસકર્તા સાધનોને સક્ષમ કરો">
-<!ENTITY  aboutDevtools.enable.closeButton "આ પૃષ્ઠ બંધ કરો">
-
 <!ENTITY  aboutDevtools.enable.closeButton2 "આ ટૅબ બંધ કરો">
 
 <!ENTITY  aboutDevtools.welcome.title "Firefox ડેવલોપર સાધનોમાં આપનું સ્વાગત છે!">
