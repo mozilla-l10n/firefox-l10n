@@ -715,7 +715,7 @@ content-blocking-fastblock-slow-loading-label = Pomału čitace přesćěhowaki
 content-blocking-fastblock-new-description = Jenož přesćěhowaki blokować, kotrež strony při spěšnym začitanju haća.
 content-blocking-tracking-protection-all-label = Wšě wotkryte přesćěhowaki
     .accesskey = s
-content-blocking-tracking-protection-new-description = Wšě znate přeśćěhowaki blokować. (Móže někotre strony při začitanju haćić.)
+content-blocking-tracking-protection-new-description = Wšě znate přesćěhowaki blokować. (Móže někotre strony při začitanju haćić.)
 content-blocking-tracking-protection-option-always =
     .label = Přeco
     .accesskey = P
@@ -726,6 +726,11 @@ content-blocking-tracking-protection-change-block-list = Blokowansku lisćinu zm
 content-blocking-reject-trackers-label = Placki třećich poskićowarjow
     .accesskey = c
 content-blocking-reject-trackers-description = Wšě placki třećich blokować abo jenož te, kotrež přesćěhowaki su stajili.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Waše nastajenja plackow a sydłowych datow změnam na nastajenjam plackow třećich zadźěwaja.
 content-blocking-change-cookie-settings =
     .label = Nastajenja plackow změnić
     .accesskey = N
