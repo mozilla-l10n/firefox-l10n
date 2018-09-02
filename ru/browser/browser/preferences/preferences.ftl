@@ -6,6 +6,8 @@ do-not-track-description = Передавать сайтам сигнал “Н�
 do-not-track-learn-more = Подробнее
 do-not-track-option-default =
     .label = Только при использовании защиты от отслеживания
+do-not-track-option-default-content-blocking =
+    .label = Только когда { -brand-short-name } настроен на блокировку Обнаруженных трекеров
 do-not-track-option-always =
     .label = Всегда
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = Расширение <img data-l10n-na
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Расширение <img data-l10n-name="icon"/> { $name } контролирует параметры защиты от отслеживания.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Расширение <img data-l10n-name="icon"/> { $name } контролирует этот параметр.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Расширение <img data-l10n-name="icon"/> { $name } контролирует способ соединения { -brand-short-name } с Интернетом.
@@ -626,6 +631,10 @@ sitedata-block-all-third-parties-option =
     .label = Все сторонние куки
 sitedata-block-always-option =
     .label = Все куки (может нарушить работу веб-сайтов)
+sitedata-block-all-third-party-option =
+    .label = Все сторонние куки (может нарушить работу веб-сайтов)
+sitedata-block-all-option =
+    .label = Все куки (нарушит работу веб-сайтов)
 sitedata-clear =
     .label = Удалить данные…
     .accesskey = а
@@ -688,6 +697,35 @@ content-blocking-tracking-protection-option-pbm =
 content-blocking-tracking-protection-option-disabled =
     .label = Никогда не блокировать
 content-blocking-tracking-protection-change-blocklist = Сменить список блокировки…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Медленные трекеры
+    .accesskey = е
+content-blocking-tracking-protection-all-label = Все обнаруженные трекеры
+    .accesskey = е
+content-blocking-tracking-protection-option-always =
+    .label = Всегда
+    .accesskey = а
+content-blocking-tracking-protection-option-private =
+    .label = Только в приватных окнах
+    .accesskey = и
+content-blocking-tracking-protection-change-block-list = Сменить список блокировки
+content-blocking-reject-trackers-label = Сторонние куки
+    .accesskey = н
+content-blocking-reject-trackers-description = Блокировать все сторонние cookie или только установленные трекерами.
+content-blocking-change-cookie-settings =
+    .label = Изменить параметры куков
+    .accesskey = м
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Трекеры (рекомендуемые)
+    .accesskey = ы
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Все трекеры
+    .accesskey = к
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Все сторонние куки (может нарушить работу веб-сайтов)
+    .accesskey = о
 
 ## Privacy Section - Tracking
 
