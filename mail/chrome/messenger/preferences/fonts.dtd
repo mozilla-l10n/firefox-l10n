@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospațiat:">
 <!ENTITY  monospace.accesskey                     "M">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "Japoneză">
 <!ENTITY  font.langGroup.trad-chinese             "Chineză tradițională (Taiwan)">
@@ -47,7 +47,7 @@
 <!ENTITY  font.langGroup.khmer                    "Khmeră">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.math                     "Matematică">
-
+<!ENTITY  font.langGroup.odia                     "Odia">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
@@ -56,19 +56,19 @@
 <!ENTITY minSize.label                            "Mărimea minimă a fontului:">
 <!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Fără">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Cu serife">
 <!ENTITY  useDefaultFontSansSerif.label           "Fără serife">
-<!-- fonts in message -->
 
+<!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Control fonturi">
 <!ENTITY  useFixedWidthForPlainText.label         "Folosește font de lățime fixă pentru mesajele în text simplu">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Permite mesajelor să folosească alte fonturi">
 <!ENTITY  useDocumentFonts.accesskey              "o">
-<!-- Language settings -->
 
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Mesaje trimise:">
 <!ENTITY sendDefaultCharset.accesskey     "M">
 <!ENTITY languagesTitle2.label            "Codare de text">
