@@ -449,9 +449,6 @@ history-dontremember-description = { -brand-short-name } نجی براؤزنگ �
 history-private-browsing-permanent =
     .label = ہمیشہ نجی براوزنگ موڈ استعمال کریں
     .accesskey = ن
-history-remember-option =
-    .label = میری براؤزنگ اور ڈاؤن لوڈ سابقاتیاد رکھیں
-    .accesskey = ی
 history-remember-search-option =
     .label = تلاش اور فارم سابقات یاد رکھیں
     .accesskey = ف
