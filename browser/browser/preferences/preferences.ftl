@@ -709,6 +709,7 @@ content-blocking-fastblock-slow-loading-label = Trackers de carregamento lento
 content-blocking-fastblock-new-description = Bloquear apenas os trackers que impedem as páginas de carregar rapidamente.
 content-blocking-tracking-protection-all-label = Todos os trackers detetados
     .accesskey = T
+content-blocking-tracking-protection-new-description = Bloquear todos os trackers conhecidos. (Pode impedir algumas páginas de carregar.)
 content-blocking-tracking-protection-option-always =
     .label = Sempre
     .accesskey = S
