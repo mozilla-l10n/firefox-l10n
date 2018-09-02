@@ -965,6 +965,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "समस्या नोंदवा">
+<!ENTITY contentBlocking.breakageReportView.label "समस्या अहवाल द्या">
 <!ENTITY contentBlocking.breakageReportView.learnMore "अधिक जाणून घ्या">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "आपल्याला कोणती समस्या आहे? (पर्यायी)">
