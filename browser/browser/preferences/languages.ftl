@@ -5,6 +5,9 @@
 languages-window =
     .title = Языки
     .style = width: 38em
+webpage-languages-window =
+    .title = Настройки языка веб-страниц
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Некоторые веб-страницы могут быть доступны более чем на одном языке. Укажите порядок выбора языка страницы
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Настройки языка { -brand-short-name }
+    .style = width: 40em
