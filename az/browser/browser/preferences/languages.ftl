@@ -44,3 +44,4 @@ languages-active-code-format =
 browser-languages-window =
     .title = { -brand-short-name } Dil Tənzimləmələri
     .style = width: 40em
+browser-languages-description = { -brand-short-name } ilkin dilinizi əsas dil olaraq, əgər lazım olsa, alternativ dilləri göründükləri sırada göstərəcək.
