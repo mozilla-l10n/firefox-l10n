@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = 扩展 <img data-l10n-name="icon"/> { 
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = 跟踪保护功能由扩展 <img data-l10n-name="icon"/> { $name } 控制。
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = 扩展 <img data-l10n-name="icon"/> { $name } 正在控制此设置。
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = 扩展 <img data-l10n-name="icon"/> { $name } 正在控制 { -brand-short-name } 如何连接互联网。
@@ -637,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = 例外…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = 您的内容拦截设置不允许更改 Cookie 和网站数据的设置。
 
 ## Privacy Section - Address Bar
 
@@ -675,19 +682,12 @@ content-blocking-category-label = 选择要拦截的内容
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = 减慢加载的跟踪元素
     .accesskey = S
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = 减慢加载的跟踪器
-    .accesskey = S
 content-blocking-fastblock-description = 拦截加载时间超过 5 秒的第三方内容。
 content-blocking-fastblock-option-enabled =
     .label = 始终拦截
 content-blocking-fastblock-option-disabled =
     .label = 永不拦截
 content-blocking-tracking-protection-label = 跟踪器
-    .accesskey = T
-content-blocking-tracking-protection-all-label = 检测到的所有跟踪器
     .accesskey = T
 content-blocking-tracking-protection-description = 拦截已知的所有跟踪器（注意：可能影响某些页面的加载）。
 content-blocking-tracking-protection-option-enabled =
@@ -696,24 +696,31 @@ content-blocking-tracking-protection-option-pbm =
     .label = 仅在隐私浏览窗口中拦截
 content-blocking-tracking-protection-option-disabled =
     .label = 永不拦截
+content-blocking-tracking-protection-change-blocklist = 更换拦截列表…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = 减慢加载的跟踪器
+    .accesskey = S
+content-blocking-fastblock-new-description = 拦截减慢页面加载速度的跟踪器。
+content-blocking-tracking-protection-all-label = 检测到的所有跟踪器
+    .accesskey = T
+content-blocking-tracking-protection-new-description = 拦截已知的所有跟踪器。（可能影响某些页面的加载。）
 content-blocking-tracking-protection-option-always =
     .label = 始终
     .accesskey = A
 content-blocking-tracking-protection-option-private =
     .label = 仅在隐私窗口中
     .accesskey = P
-content-blocking-tracking-protection-change-blocklist = 更换拦截列表…
+content-blocking-tracking-protection-change-block-list = 更换拦截列表
 content-blocking-reject-trackers-label = 第三方 Cookie
     .accesskey = C
 content-blocking-reject-trackers-description = 拦截所有第三方 Cookie，或只拦截跟踪器设置的 Cookie。
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = 目前已拦截所有 Cookie。
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = 目前已拦截来自未访问网站的 Cookie。
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = 您的 Cookie 和网站数据设置不允许更改第三方 Cookie 的设置。
 content-blocking-change-cookie-settings =
     .label = 更改 Cookie 设置
     .accesskey = S
