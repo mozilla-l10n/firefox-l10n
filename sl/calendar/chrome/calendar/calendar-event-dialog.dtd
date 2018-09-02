@@ -415,11 +415,13 @@
 
 <!-- Summary dialog -->
 <!ENTITY summary.dialog.saveclose.label         "Shrani in zapri">
+<!ENTITY summary.dialog.saveclose.tooltiptext   "Shrani spremembe in zapri okno brez spremembe stanja udeležbe in pošiljanja odziva">
 <!ENTITY summary.dialog.accept.label            "Sprejmi">
 <!ENTITY summary.dialog.accept.tooltiptext      "Sprejmi povabilo">
 <!ENTITY summary.dialog.tentative.tooltiptext   "Pogojno sprejmi povabilo">
 <!ENTITY summary.dialog.decline.label           "Zavrni">
 <!ENTITY summary.dialog.decline.tooltiptext     "Zavrni povabilo">
 <!ENTITY summary.dialog.dontsend.label          "Ne pošlji odziva">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Spremeni stanje udeležbe brez pošiljanja odziva organizatorju in zapri okno">
 <!ENTITY summary.dialog.send.label              "Pošlji odziv zdaj">
 <!ENTITY summary.dialog.send.tooltiptext        "Pošlji organizatorju odziv  in zapri okno">

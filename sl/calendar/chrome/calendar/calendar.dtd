@@ -185,9 +185,12 @@
 
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "S">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Sprejeto">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "g">
 <!ENTITY calendar.context.attendance.occ.tentative.label        "Pogojno sprejeto">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "Z">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Zavrnjeno">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "Š">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Še nedoločeno">
 <!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "t">
 <!ENTITY calendar.context.attendance.occ.inprogress.label       "V teku">
 <!ENTITY calendar.context.attendance.occ.completed.accesskey    "k">
@@ -195,9 +198,13 @@
 
 <!ENTITY calendar.context.attendance.all.accepted.accesskey     "j">
 <!ENTITY calendar.context.attendance.all.accepted.label         "Sprejeto">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "g">
 <!ENTITY calendar.context.attendance.all.tentative.label        "Pogojno sprejeto">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "Z">
 <!ENTITY calendar.context.attendance.all.declined.label         "Zavrnjeno">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "Š">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Še nedoločeno">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "t">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "V teku">
 <!ENTITY calendar.context.attendance.all.completed.accesskey    "č">
 <!ENTITY calendar.context.attendance.all.completed.label        "Dokončano">
