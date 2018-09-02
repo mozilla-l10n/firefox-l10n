@@ -941,6 +941,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "अवरोधन जोडा…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "सर्व आढळलेले ट्रॅकर्स">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -953,6 +954,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "अवरोधन जोडा…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "तृतीय-पक्ष कुकीज">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
@@ -963,6 +965,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "अवरोधन जोडा…">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "समस्या नोंदवा">
 <!ENTITY contentBlocking.breakageReportView.label "समस्या अहवाल द्या">
@@ -976,6 +979,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedBlocked4 "जे आपल्या आॅनलाइन कार्याचा मागोवा घेऊ शकतात त्यांना &brandShortName; प्रतीरोधीत करीत आहे.">
 <!ENTITY trackingProtection.notDetected5 "मागोवा घेणारे घटक ह्या पृष्ठावर आढळले नाही.">
 
+<!ENTITY trackingProtection.reloadRequired2 "आपण ट्रॅकिंग संरक्षण सक्रीय केले आहे. सर्व ट्रॅकर्सला अवरोधित करण्यासाठी हे पृष्ठ पुन्हा लोड करा.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -983,6 +987,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblock3.label "या संकेतस्थळासाठी बंद करा">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
 <!ENTITY trackingProtection.unblock4.label "या साइटसाठी अवरोध करणे निष्क्रिय करा">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -991,7 +996,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block4.label "या संकेतस्थळासाठी सक्रिय करा">
 <!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.unblockPrivate4.label "तात्पुरते अवरोध करणे निष्क्रिय करा">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "या साइटसाठी अवरोध करणे सक्रीय करा">
+<!ENTITY trackingProtection.block5.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "पृष्ठ पुनःलोड करा">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
