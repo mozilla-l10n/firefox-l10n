@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = Rozšíření <img data-l10n-name="ico
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Ochranu proti sledování spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Toto nastavení spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Připojení aplikace { -brand-short-name } k internetu spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
@@ -648,6 +651,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Výjimky…
     .accesskey = k
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Vaše nastavení blokování obsahu brání změnám nastavení cookies a dat stránek.
 
 ## Privacy Section - Address Bar
 
@@ -686,11 +693,6 @@ content-blocking-category-label = Vyberte, co chcete blokovat
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Pomalé prvky třetích stran
     .accesskey = t
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Zpomalující sledovací prvky
-    .accesskey = s
 content-blocking-fastblock-description = Obsah třetích stran, který se načítá déle než 5 vteřin
 content-blocking-fastblock-option-enabled =
     .label = Blokovat
@@ -698,8 +700,6 @@ content-blocking-fastblock-option-disabled =
     .label = Neblokovat
 content-blocking-tracking-protection-label = Známé sledovací prvky
     .accesskey = S
-content-blocking-tracking-protection-all-label = Všechny nalezené sledovací prvky
-    .accesskey = s
 content-blocking-tracking-protection-description = Jejich blokování může omezit fungování některých stránek
 content-blocking-tracking-protection-option-enabled =
     .label = Blokovat
@@ -707,24 +707,31 @@ content-blocking-tracking-protection-option-pbm =
     .label = Blokovat v anonymním prohlížení
 content-blocking-tracking-protection-option-disabled =
     .label = Neblokovat
+content-blocking-tracking-protection-change-blocklist = Změnit seznam blokací…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Zpomalující sledovací prvky
+    .accesskey = s
+content-blocking-fastblock-new-description = Blokovat jen sledovací prvky, které zpomalují načítání stránek.
+content-blocking-tracking-protection-all-label = Všechny nalezené sledovací prvky
+    .accesskey = s
+content-blocking-tracking-protection-new-description = Blokovat všechny známe sledovací prvky (může omezit fungování některých stránek).
 content-blocking-tracking-protection-option-always =
     .label = Vždy
     .accesskey = V
 content-blocking-tracking-protection-option-private =
     .label = Pouze v anonymních oknech
     .accesskey = P
-content-blocking-tracking-protection-change-blocklist = Změnit seznam blokací…
+content-blocking-tracking-protection-change-block-list = Změnit seznam blokací
 content-blocking-reject-trackers-label = Cookies třetích stran
     .accesskey = C
 content-blocking-reject-trackers-description = Nastavení blokování cookies všech třetích stran nebo jen od sledovacích prvků.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = Máte nastavené blokování všech cookies.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Máte nastavené blokování cookies dosud nenavštívených stránek.
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Vaše nastavení cookies a dat stránek brání změnám nastavení cookies třetích stran.
 content-blocking-change-cookie-settings =
     .label = Změnit nastavení cookies
     .accesskey = Z
