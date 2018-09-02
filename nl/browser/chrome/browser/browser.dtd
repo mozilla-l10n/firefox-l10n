@@ -792,8 +792,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; heeft onderdelen van deze pagina die niet zijn beveiligd geblokkeerd.">
 <!ENTITY identity.passiveLoaded "Onderdelen van deze pagina zijn niet beveiligd (zoals afbeeldingen).">
-<!ENTITY identity.activeLoaded "U hebt beveiliging op deze pagina uitgeschakeld.">
-<!ENTITY identity.weakEncryption "Deze pagina gebruikt zwakke beveiliging.">
+<!ENTITY identity.activeLoaded "U hebt bescherming op deze pagina uitgeschakeld.">
+<!ENTITY identity.weakEncryption "Deze pagina gebruikt zwakke versleuteling.">
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Uw verbinding met deze website is niet privé. Gegevens die u verzendt zouden door anderen kunnen worden bekeken (zoals wachtwoorden, berichten, creditcardgegevens, etc.).">
