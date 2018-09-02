@@ -5,6 +5,9 @@
 languages-window =
     .title = Limbi
     .style = width: 32em
+webpage-languages-window =
+    .title = Setări privind limba pe paginile web
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Paginile web sunt oferite uneori în mai multe limbi. Selectează limbile pentru afișarea acestor pagini web, în ordinea preferințelor
