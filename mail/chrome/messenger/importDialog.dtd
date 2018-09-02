@@ -18,7 +18,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFeeds.label        "გამოწერილი არხები">
 <!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "წიგნაკი">
-<!ENTITY importAddressbook.accesskey "A">
+<!ENTITY importAddressbook.accesskey "ა">
 <!ENTITY importSettings.label     "პარამეტრები">
 <!ENTITY importSettings.accesskey "S">
 <!ENTITY importFilters.label      "ფილტრები">
