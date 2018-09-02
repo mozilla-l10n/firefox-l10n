@@ -44,3 +44,4 @@ languages-active-code-format =
 browser-languages-window =
     .title = { -brand-short-name } ભાષા સેટિંગ્સ
     .style = width: 40em
+browser-languages-description = { -brand-short-name } તમારી મૂળભૂત તરીકે પ્રથમ ભાષાને પ્રદર્શિત કરશે અને આવશ્યક ક્રમમાં તેઓ દેખાતા વૈકલ્પિક ભાષાઓ પ્રદર્શિત કરશે.
