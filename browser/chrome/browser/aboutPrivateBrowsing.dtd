@@ -32,3 +32,4 @@
 <!ENTITY trackingProtection.startTour1                   "Necə işlədiyini görün">
 
 <!ENTITY contentBlocking.title                           "Məzmun Əngəlləmə">
+<!ENTITY contentBlocking.description                     "Bəzi saytlar sizin internetdəki aktivliyinizə nəzarət edəcək izləyicilər işlədirlər. Məxfi pəncərələrdə Firefox Məzmun Əngəlləyicisi haqqınızda məlumat yığan əksər izləyiciləri avtomatik əngəlləyir.">
