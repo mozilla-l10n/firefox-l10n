@@ -656,7 +656,7 @@ addressbar-suggestions-settings = Tukar keutamaan bagi cadangan enjin carian
 
 content-blocking-header = Sekatan Kandungan
 content-blocking-desc = Sekat kandungan pihak ketiga seperti iklan atau kod yang boleh melambatkan pelayaran dan menjejaki anda di seluruh web. Sesuaikan tetapan untuk mendapatkan imbangan perlindungan dan prestasi yang terbaik.
-content-blocking-learn-more = Ketahui Selanjutnya
+content-blocking-learn-more = Ketahui selanjutnya
 content-blocking-restore-defaults =
     .label = Pulih Piawai
     .accesskey = P
