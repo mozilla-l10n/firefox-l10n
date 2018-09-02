@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = Ekstensi <img data-l10n-name="icon"/> 
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Ekstensi, <img data-l10n-name="icon"/> { $name }, mengawal perlindungan penjejakan.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Ekstensi, <img data-l10n-name="icon"/> { $name }, mengawal tetapan ini.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Ekstensi, <img data-l10n-name="icon"/> { $name }, mengawal cara { -brand-short-name } menyambung ke internet.
@@ -629,6 +632,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Pengecualian…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Tetapan dalam Sekatan Kandungan menghalang perubahan kepada Tetapan Kuki dan Data Laman.
 
 ## Privacy Section - Address Bar
 
@@ -667,19 +674,12 @@ content-blocking-category-label = Pilih apa yang disekat
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Memperlahankan Elemen Penjejak
     .accesskey = M
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Penjejak Pemuatan-Lambat
-    .accesskey = L
 content-blocking-fastblock-description = Sekat kandungan pihak ketiga yang lebih daripada 5 saat untuk dimuatkan.
 content-blocking-fastblock-option-enabled =
     .label = Sentiasa sekat
 content-blocking-fastblock-option-disabled =
     .label = Jangan sekat
 content-blocking-tracking-protection-label = Penjejak
-    .accesskey = P
-content-blocking-tracking-protection-all-label = Semua Penjejak Yang Dikesan
     .accesskey = P
 content-blocking-tracking-protection-description = Sekat semua penjejak yang diketahui (Nota: mungkin menghalang sesetengah halaman daripada dimuatkan).
 content-blocking-tracking-protection-option-enabled =
@@ -688,24 +688,31 @@ content-blocking-tracking-protection-option-pbm =
     .label = Sekat hanya dalam tertingkap peribadi
 content-blocking-tracking-protection-option-disabled =
     .label = Jangan sekat
+content-blocking-tracking-protection-change-blocklist = Tukar Senarai Sekatan…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Penjejak Pemuatan-Lambat
+    .accesskey = L
+content-blocking-fastblock-new-description = Cuma sekat penjejak yang membuatkan halaman tidak dimuatkan dengan cepat.
+content-blocking-tracking-protection-all-label = Semua Penjejak Yang Dikesan
+    .accesskey = P
+content-blocking-tracking-protection-new-description = Sekat semua penjejak yang diketahui. (Boleh menghalang sesetengah halaman daripada dimuatkan.)
 content-blocking-tracking-protection-option-always =
     .label = Sentiasa
     .accesskey = S
 content-blocking-tracking-protection-option-private =
     .label = Hanya dalam tetingkap peribadi
     .accesskey = p
-content-blocking-tracking-protection-change-blocklist = Tukar Senarai Sekatan…
+content-blocking-tracking-protection-change-block-list = Tukar senarai sekatan
 content-blocking-reject-trackers-label = Kuki Pihak-Ketiga
     .accesskey = K
 content-blocking-reject-trackers-description = Sekat semua kuki pihak ketiga atau hanya yang ditetapkan oleh penjejak.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = Semua kuki sedang disekat.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Kuki daripada laman web yang tidak dilawati sedang disekat.
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Tetapan dalam Kuki dan Data Laman menghalang perubahan kepada tetapan Kuki Pihak Ketiga.
 content-blocking-change-cookie-settings =
     .label = Ubah Tetapan Kuki
     .accesskey = U
