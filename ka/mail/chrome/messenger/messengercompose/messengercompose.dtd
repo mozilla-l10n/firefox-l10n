@@ -94,14 +94,13 @@
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "დ">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "სრული მონიშვნა">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "შ">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "პოვნა…">
 <!ENTITY findBarCmd.accesskey "ო">
 <!ENTITY findBarCmd.key "პ">
@@ -164,9 +163,9 @@
 <!ENTITY optionsMenu.label "პარამეტრები">
 <!ENTITY optionsMenu.accesskey "ტ">
 <!ENTITY checkSpellingCmd2.label "მართლწერის შემოწმება…">
-<!ENTITY checkSpellingCmd2.key "რ">
+<!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
-<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY checkSpellingCmd2.accesskey "რ">
 <!ENTITY enableInlineSpellChecker.label "მართლწერის შემოწმება ტექსტის შეტანისას">
 <!ENTITY enableInlineSpellChecker.accesskey "შ">
 <!ENTITY quoteCmd.label "წერილის ციტირება">
@@ -270,9 +269,11 @@
 <!ENTITY subject.label "თემა:">
 <!ENTITY subject.accesskey "თ">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "m">
 <!ENTITY attachmentBucketHeader.tooltip "დანართების არე">
 <!ENTITY attachmentBucketCloseButton.tooltip "დანართების არის დამალვა">
