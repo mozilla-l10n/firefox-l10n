@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "ખાનગી બ્રાઉઝિંગ">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "એક ખાનગી વિન્ડો ખોલો?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "તમે હાલમાં ખાનગી વિન્ડો મા નથી.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "ખાનગી વિન્ડો ખોલો">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
@@ -35,3 +30,6 @@
 <!ENTITY trackingProtection.title                        "ટ્રૅકિંગ સંરક્ષણ">
 <!ENTITY trackingProtection.description2                 "કેટલીક વેબસાઇટ્સ તમારી પ્રવૃત્તિ મોનીટર કરવા માટે ટ્રેકર્સ નો ઉપયોગ કરી શકે છે. ટ્રેકિંગ પ્રોટેક્શન Firefox ઘણા ટ્રેકર્સ ને અવરોધિત કરશે કે જે તમારી માહિતી એકત્રિત કરી શકે છે.">
 <!ENTITY trackingProtection.startTour1                   "કેવી રીતે કામ કરે છે તે જોઈએ">
+
+<!ENTITY contentBlocking.title                           "સામગ્રી અવરોધિત">
+<!ENTITY contentBlocking.description                     "કેટલીક વેબસાઇટ્સ ઇન્ટરનેટ પરની તમારી પ્રવૃત્તિઓ પર દેખરેખ રાખવા માટે ટ્રેકર્સનો ઉપયોગ કરે છે. ખાનગી વિન્ડોઝમાં Firefox સામગ્રી અવરોધિત સ્વતઃ ઘણા ટ્રેકર્સને અવરોધિત કરે છે કે જે તમારાં બ્રાઉઝિંગ વર્તન વિશેની માહિતી ભેગી કરે છે.">
