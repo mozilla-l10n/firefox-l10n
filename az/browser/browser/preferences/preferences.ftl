@@ -684,18 +684,27 @@ content-blocking-tracking-protection-option-pbm =
     .label = Ancaq Məxfi Pəncərələrdə əngəllə
 content-blocking-tracking-protection-option-disabled =
     .label = Heç vaxt əngəlləmə
+content-blocking-tracking-protection-change-blocklist = Qara Siyahını Dəyiş…
 content-blocking-tracking-protection-option-always =
     .label = Həmişə
     .accesskey = A
 content-blocking-tracking-protection-option-private =
     .label = Ancaq məxfi pəncərələrdə
     .accesskey = p
-content-blocking-tracking-protection-change-blocklist = Qara Siyahını Dəyiş…
 content-blocking-reject-trackers-label = Üçüncü tərəf çərəzlər
     .accesskey = C
+content-blocking-change-cookie-settings =
+    .label = Çərəz Tənzimləmələrini Dəyişdir
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = İzləyicilər (məsləhətlidir)
+    .accesskey = k
 content-blocking-reject-trackers-block-trackers-option =
     .label = İzləyicilər
     .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Bütün üçüncü-tərəf çərəzlər (bəzi saytlar düz işləməyə bilər)
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
