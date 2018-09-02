@@ -5,6 +5,9 @@
 <!ENTITY loginAtStartup.label          "Verifică disponibilitatea articolelor noi la pornire">
 <!ENTITY loginAtStartup.accesskey      "c">
 
+<!ENTITY biffAll.label                 "Activează actualizările pentru toate fluxurile">
+
+<!ENTITY newFeedSettings.label         "Setări implicite pentru fluxurile de știri">
 
 <!ENTITY manageSubscriptions.label     "Gestionează abonamente…">
 <!ENTITY manageSubscriptions.accesskey "m">

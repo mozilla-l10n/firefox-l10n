@@ -31,6 +31,7 @@ sentence. -->
 <!ENTITY  completeNotification.label          "cu numele expeditorului și previzualizarea mesajului">
 <!ENTITY  buddyInfoOnly.label                 "cu numele expeditorului doar">
 <!ENTITY  dummyNotification.label             "fără nicio informație">
+<!ENTITY  getAttentionMac.label               "Animează pictograma de andocare">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Redă un sunet">
 <!ENTITY  play.label                          "Redă">
@@ -49,3 +50,11 @@ sentence. -->
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
 <!ENTITY messageStyleBubblesTheme.label    "Bule">
 <!ENTITY messageStyleDarkTheme.label       "Întunecată">
+<!ENTITY messageStylePaperSheetsTheme.label "Foi de hârtie">
+<!ENTITY messageStyleSimpleTheme.label     "Simplă">
+<!ENTITY messageStyleDefaultTheme.label    "Implicită">
+<!ENTITY messageStyleVariant.label         "Variantă:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Arată antetul">
+<!ENTITY messageStyleNoPreview.title       "Previzualizarea nu este disponibilă">
+<!ENTITY messageStyleNoPreview.description "Această temă nu este validă sau nu este disponibilă momentan (supliment dezactivat, mod-de-siguranță, …).">

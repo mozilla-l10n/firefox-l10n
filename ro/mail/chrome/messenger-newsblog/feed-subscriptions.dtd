@@ -10,6 +10,7 @@
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "URL-ul fluxului:">
+<!ENTITY feedLocation.accesskey      "f">
 <!ENTITY feedLocation2.placeholder   "Introduceți un url de flux valid">
 <!ENTITY locationValidate.label      "Validează">
 <!ENTITY validateText.label          "Verifică validarea și obține o adresă web corectă.">
@@ -23,10 +24,13 @@
 <!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "zile">
 <!ENTITY biffDays.accesskey          "z">
+<!ENTITY recommendedUnits.label      "Cel ce publică recomandă:">
 
 <!ENTITY quickMode.label             "Arată sumarul articolului în loc de a încărca pagina web">
 <!ENTITY quickMode.accesskey         "u">
 
+<!ENTITY autotagEnable.label         "Creează automat etichete din numele &lt;categoriilor&gt; de fluxuri">
+<!ENTITY autotagEnable.accesskey     "o">
 <!ENTITY autotagUsePrefix.label      "Prefixare etichete cu:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Introduceți un prefix de etichetă">

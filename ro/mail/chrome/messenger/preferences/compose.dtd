@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "C">
 <!ENTITY restoreHTMLDefaults.label            "Restaurează valorile implicite">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
-
-
+<!ENTITY defaultToParagraph.label             "Folosește implicit formatarea „Paragraf” în loc de „Corp text”">
+<!ENTITY defaultToParagraph.accesskey         "P">
 
 <!ENTITY spellCheck.label                     "Verifică ortografia înainte de a trimite">
 <!ENTITY spellCheck.accesskey                 "c">
@@ -54,9 +54,9 @@
 <!ENTITY directoriesNone.label                 "Niciunul">
 <!ENTITY editDirectories.label                 "Editează directoarele…">
 <!ENTITY editDirectories.accesskey             "E">
-
-
-
+<!ENTITY showAsDefault.label                   "Dosarul implicit de pornire în fereastra agendei:">
+<!ENTITY showAsDefault.accesskey               "S">
+<!ENTITY showAsDefaultLast.label               "Ultimul dosar folosit">
 
 <!ENTITY sendOptionsDescription.label          "Configurează aspectul textului">
 <!ENTITY sendOptions.label                     "Opțiuni de trimitere…">

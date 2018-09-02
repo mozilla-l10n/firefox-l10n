@@ -2,6 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  windowClose.key                  "w">
+<!ENTITY  preferencesDefaultTitleMac.title "Preferințe">
+<!ENTITY  preferencesDefaultTitleWin.title "Opțiuni">
+<!ENTITY  preferencesCloseButton.label     "Închide">
+<!ENTITY  preferencesCloseButton.accesskey "c">
+
 <!ENTITY  prefWindow.titleWin     "Opțiuni">
 <!ENTITY  prefWindow.titleGNOME   "Preferințe &brandShortName;">
 <!ENTITY  prefWindow.titleMAC     "Preferințe">
