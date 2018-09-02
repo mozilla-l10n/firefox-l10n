@@ -92,6 +92,7 @@ extension-controlled-privacy-containers = Le schede contenitore sono necessarie 
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = La protezione antitracciamento è attualmente gestita da un’estensione (<img data-l10n-name="icon"/> { $name }).
+extension-controlled-websites-content-blocking-all-trackers = Questa impostazione è attualmente gestita da un’estensione (<img data-l10n-name="icon"/> { $name }).
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Le impostazioni di <img data-l10n-name="icon"/> { $name } relative alla connessione a Internet sono attualmente gestite da un’estensione ({ -brand-short-name }).
@@ -696,6 +697,7 @@ content-blocking-fastblock-label = Elementi traccianti lenti
 content-blocking-fastblock-slow-loading-label = Elementi traccianti lenti a caricarsi
   .accesskey = m
 content-blocking-fastblock-description = Blocca contenuti di terze parti che richiedono più di 5 secondi per essere caricati.
+content-blocking-fastblock-new-description = Blocca solo gli elementi traccianti che impediscono alla pagina di caricarsi velocemente.
 content-blocking-fastblock-option-enabled =
   .label = Blocca sempre
 content-blocking-fastblock-option-disabled =
@@ -706,6 +708,7 @@ content-blocking-tracking-protection-label = Elementi traccianti
 content-blocking-tracking-protection-all-label = Tutti gli elementi traccianti rilevati
   .accesskey = T
 content-blocking-tracking-protection-description = Blocca tutti gli elementi traccianti conosciuti (nota: alcune pagine web potrebbero non caricarsi correttamente).
+content-blocking-tracking-protection-new-description = Blocca tutti gli elementi traccianti conosciuti (alcune pagine web potrebbero non caricarsi correttamente).
 content-blocking-tracking-protection-option-enabled =
   .label = Blocca sempre
 content-blocking-tracking-protection-option-pbm =
@@ -719,12 +722,14 @@ content-blocking-tracking-protection-option-private =
   .label = Solo in navigazione anonima
   .accesskey = a
 content-blocking-tracking-protection-change-blocklist = Cambia elenco per blocco contenuti…
+content-blocking-tracking-protection-change-block-list = Cambia elenco per blocco contenuti
 
 content-blocking-reject-trackers-label = Cookie di terze parti
   .accesskey = C
 content-blocking-reject-trackers-description = Blocca tutti i cookie di terze parti o solo quelli impostati da elementi traccianti.
 content-blocking-reject-trackers-warning-all-cookies-blocked = Attualmente vengono bloccati tutti i cookie.
 content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Attualmente vengono bloccati tutti i cookie da siti web non visitati.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Le impostazioni in Cookie e dati dei siti web impediscono modifiche alla sezione Cookie di terze parti.
 content-blocking-change-cookie-settings =
   .label = Cambia impostazioni per i cookie
   .accesskey = m
