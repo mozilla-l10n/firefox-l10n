@@ -27,13 +27,25 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
+<!ENTITY performanceUI.loadingNotice "Se încarcă…">
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+<!ENTITY performanceUI.toolbar.waterfall "Cascadă">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
+<!ENTITY performanceUI.table.totalDuration            "Timp total">
+<!ENTITY performanceUI.table.totalDuration.tooltip    "Timpul folosit de această funcție și de funcțiile chemate de acesta.">
+<!ENTITY performanceUI.table.selfDuration             "Timp propriu">
+<!ENTITY performanceUI.table.selfDuration.tooltip     "Timpul folosit numai de această funcție.">
+<!ENTITY performanceUI.table.totalPercentage          "Cost total">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "Procentul de timp petrecut în această funcție și în funcțiile chemate de acesta.">
+<!ENTITY performanceUI.table.selfPercentage           "Cost propriu">
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "Procentul de timp petrecut numai în această funcție.">
+<!ENTITY performanceUI.table.samples                  "Eșantioane">
 <!ENTITY performanceUI.table.function                 "Funcție">
+<!ENTITY performanceUI.table.function.tooltip         "Numele și sursa locației a funcției eșantionate.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
