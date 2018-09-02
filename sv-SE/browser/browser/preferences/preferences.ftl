@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = Ett tillägg, <img data-l10n-name="ico
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Ett tillägg, <img data-l10n-name="icon"/> { $name }, styr spårningsskydd.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Ett tillägg, <img data-l10n-name="icon"/> { $name }, styr denna inställning.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Ett tillägg, <img data-l10n-name="icon"/> { $name }, styr hur { -brand-short-name } ansluter till internet.
@@ -641,6 +644,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Undantag…
     .accesskey = U
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Dina inställningar i innehållsblockering hindrar ändringar i inställningar för kakor och webbplatsdata.
 
 ## Privacy Section - Address Bar
 
@@ -679,11 +686,6 @@ content-blocking-category-label = Välj vad som ska blockeras
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Långsamma spårningselement
     .accesskey = L
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Långsamma trackers
-    .accesskey = L
 content-blocking-fastblock-description = Blockerar innehåll från tredje part som tar längre tid än 5 sekunder att ladda.
 content-blocking-fastblock-option-enabled =
     .label = Blockera alltid
@@ -691,8 +693,6 @@ content-blocking-fastblock-option-disabled =
     .label = Blockera aldrig
 content-blocking-tracking-protection-label = Trackers
     .accesskey = T
-content-blocking-tracking-protection-all-label = Alla upptäckta trackers
-    .accesskey = A
 content-blocking-tracking-protection-description = Blockerar alla kända trackers (Obs: kan också hindra att vissa sidor laddas).
 content-blocking-tracking-protection-option-enabled =
     .label = Blockera alltid
@@ -700,24 +700,31 @@ content-blocking-tracking-protection-option-pbm =
     .label = Blockera endast i privata fönster
 content-blocking-tracking-protection-option-disabled =
     .label = Blockera aldrig
+content-blocking-tracking-protection-change-blocklist = Ändra blockeringslista…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Långsamma trackers
+    .accesskey = L
+content-blocking-fastblock-new-description = Blockera endast trackers som gör sidor långsammare.
+content-blocking-tracking-protection-all-label = Alla upptäckta trackers
+    .accesskey = A
+content-blocking-tracking-protection-new-description = Blockera alla kända trackers. (Kan förhindra att vissa sidor laddas.)
 content-blocking-tracking-protection-option-always =
     .label = Alltid
     .accesskey = A
 content-blocking-tracking-protection-option-private =
     .label = Endast i privata fönster
     .accesskey = p
-content-blocking-tracking-protection-change-blocklist = Ändra blockeringslista…
+content-blocking-tracking-protection-change-block-list = Ändra blockeringslista
 content-blocking-reject-trackers-label = Kakor från tredje part
     .accesskey = C
 content-blocking-reject-trackers-description = Blockera alla kakor från tredje part eller endast de som använts av trackers
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = Alla kakor är för tillfället blockerade.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Kakor från obesökta webbplatser blockeras för tillfället.
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Dina inställningar i kakor och webbplatsdata förhindrar ändringar i inställningar för kakor från tredje part.
 content-blocking-change-cookie-settings =
     .label = Ändra kakinställningar
     .accesskey = k
