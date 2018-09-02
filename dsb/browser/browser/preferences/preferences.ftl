@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = Rozšyrjenje, <img data-l10n-name="ico
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, slědowański šćit kontrolěrujo.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, toś to nastajenje kontrolěrujo.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Rozšěrjenje <img data-l10n-name="icon"/> { $name } wóźi, kak { -brand-short-name } z internetom zwězujo.
@@ -647,6 +650,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Wuwześa…
     .accesskey = W
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Waše nastajenja blokěrowanja wopśimjeśa změnam na nastajenjach cookiejow a sedłowych datow zajźujo.
 
 ## Privacy Section - Address Bar
 
@@ -685,11 +692,6 @@ content-blocking-category-label = Wubjeŕśo, což ma se blokěrowaś
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Pómałe slědujuce elementy
     .accesskey = P
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Pómałem cytajuce pśeslědowaki
-    .accesskey = P
 content-blocking-fastblock-description = Blokěrujo wopśimjeśe tśeśich póbitowarjow, kótaryž trjeba wěcej ako 5 sekundow, aby se zacytał.
 content-blocking-fastblock-option-enabled =
     .label = Pśecej blokěrowaś
@@ -697,8 +699,6 @@ content-blocking-fastblock-option-disabled =
     .label = NIgda njeblokěrowaś
 content-blocking-tracking-protection-label = Pśeslědowaki
     .accesskey = P
-content-blocking-tracking-protection-all-label = Wšykne namakane pśeslědowaki
-    .accesskey = s
 content-blocking-tracking-protection-description = Blokěrujo wšykne znate pśeslědowaki (Glědajśo: móžo teke zacyitanjeju někotarych bokow zajźowaś)
 content-blocking-tracking-protection-option-enabled =
     .label = Pśecej blokěrowaś
@@ -706,24 +706,31 @@ content-blocking-tracking-protection-option-pbm =
     .label = Jano w priwatnych woknach blokěrowaś
 content-blocking-tracking-protection-option-disabled =
     .label = Nigda njeblokěrowaś
+content-blocking-tracking-protection-change-blocklist = Lisćinu blokěrowanjow změniś…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Pómałem cytajuce pśeslědowaki
+    .accesskey = P
+content-blocking-fastblock-new-description = Jano pśeslědowaki blokěrowaś, kótarež bokam malsne zacyitanje zawoborujo.
+content-blocking-tracking-protection-all-label = Wšykne namakane pśeslědowaki
+    .accesskey = s
+content-blocking-tracking-protection-new-description = Wšykne znate pśeslědowaki blokěrowaś. (Móžo někotarym bokam zacytanje zawoborowaś.)
 content-blocking-tracking-protection-option-always =
     .label = Pśecej
     .accesskey = P
 content-blocking-tracking-protection-option-private =
     .label = Jano w priwatnych woknach
     .accesskey = J
-content-blocking-tracking-protection-change-blocklist = Lisćinu blokěrowanjow změniś…
+content-blocking-tracking-protection-change-block-list = Blokěrowańsku lisćinu změniś
 content-blocking-reject-trackers-label = Cookieje tśeśich póbitowarjow
     .accesskey = C
 content-blocking-reject-trackers-description = Wšykne cookieje tśeśich blokěrowaś abo jano te, kótarež pśeslědowaki su stajili.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = Wšykne cookieje su tuchylu zablokěrowane.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Cookieje z njewoglědanych websedłow su tuchylu zablokěrowane.
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Waše nastajenja cookiejow a sedłowych datow změnam na nastajenjam cookiejow tśeśich zajźuju.
 content-blocking-change-cookie-settings =
     .label = Nastajenja cookiejow změniś
     .accesskey = N
