@@ -30,3 +30,5 @@
 <!ENTITY trackingProtection.title                        "الحماية من التعقّب">
 <!ENTITY trackingProtection.description2                 "تستخدم بعض المواقع متعقبات تستطيع مراقبتك نشاطك عبر الإنترنت. مع الحماية من التعقب سيحجب فَيَرفُكس الكثير من المتعقبات التي تجمع معلومات عن سلوكك على الإنترنت.">
 <!ENTITY trackingProtection.startTour1                   "اطلع على طريقة عملها">
+
+<!ENTITY contentBlocking.title                           "حجب المحتوى">
