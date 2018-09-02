@@ -685,6 +685,12 @@ content-blocking-tracking-protection-option-pbm =
 content-blocking-tracking-protection-option-disabled =
     .label = Ποτέ φραγή
 content-blocking-tracking-protection-change-blocklist = Αλλαγή λίστας αποκλεισμού…
+content-blocking-tracking-protection-option-always =
+    .label = Πάντα
+    .accesskey = Π
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Ιχνηλάτες
+    .accesskey = λ
 
 ## Privacy Section - Tracking
 
