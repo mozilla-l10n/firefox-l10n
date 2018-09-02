@@ -38,6 +38,7 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Invitație separată per participant">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Această opțiune trimite o invitație pe e-mail per participant. Fiecare invitație conține doar participantul destinatar, astfel încât identitățile altor participanți nu sunt dezvăluite.">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Indică faptul că nu veți accepta contra-propuneri">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -154,13 +155,20 @@
 <!ENTITY event.email.attendees.accesskey                  "a">
 <!ENTITY event.email.tentative.attendees.label            "Compune un mesaj către participanții indeciși…">
 <!ENTITY event.email.tentative.attendees.accesskey        "u">
+<!ENTITY event.remove.attendees.label2                    "Elimină toți participanții">
 <!ENTITY event.remove.attendees.accesskey                 "r">
+<!ENTITY event.remove.attendee.label                      "Elimină participant">
+<!ENTITY event.remove.attendee.accesskey                  "E">
 
 <!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label2                       "Salvează">
+<!ENTITY  event.toolbar.saveandclose.label                "Salvează și închide">
 <!ENTITY  event.toolbar.delete.label                      "Șterge">
 <!ENTITY  event.toolbar.attendees.label                   "Invită participanți">
 <!ENTITY  event.toolbar.privacy.label                     "Intimitate">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Salvează">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Salvează și închide">
 <!ENTITY  event.toolbar.delete.tooltip                    "Șterge">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Invită participanți">
 <!ENTITY  event.toolbar.attachments.tooltip               "Adaugă atașamente">
@@ -176,6 +184,8 @@
    - populate the form fields in the dialog, there's no other immediate action on clicking like with
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
+<!ENTITY counter.button.proposal.label                    "Aplică propunerea">
+<!ENTITY counter.button.proposal.accesskey                "p">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Titlu:" >
@@ -383,12 +393,9 @@
 <!ENTITY read.only.location.label        "Locație:">
 <!ENTITY read.only.category.label        "Categorie:">
 <!ENTITY read.only.organizer.label       "Organizator:">
-<!ENTITY read.only.reply.label           "Răspunde:">
-<!ENTITY read.only.accept.label          "Voi participa">
-<!ENTITY read.only.decline.label         "Nu voi participa">
-<!ENTITY read.only.tentative.label       "S-ar putea să particip">
-<!ENTITY read.only.needs.action.label    "Voi confirma mai târziu">
 <!ENTITY read.only.reminder.label        "Memento:">
 <!ENTITY read.only.attendees.label       "Participanți">
 <!ENTITY read.only.description.label     "Descriere">
 <!ENTITY read.only.link.label            "Linkul către asocieri">
+
+<!-- Summary dialog -->
