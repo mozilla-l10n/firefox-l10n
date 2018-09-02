@@ -38,3 +38,7 @@ languages-code-format =
     .label = { $locale } [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Setări de limbă { -brand-short-name }
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } va afișa prima limbă ca cea implicită și va afișa limbi alternative în ordinea în care apar, dacă e nevoie.

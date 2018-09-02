@@ -67,3 +67,6 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS cu SOCKS v5
     .accesskey = d
+connection-dns-over-https =
+    .label = Permite DNS prin HTTPS
+    .accesskey = H

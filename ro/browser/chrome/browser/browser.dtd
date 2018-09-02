@@ -62,10 +62,9 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "n">
 <!ENTITY  sendLinkToDevice.label             "Trimite linkul pe dispozitiv">
 <!ENTITY  sendLinkToDevice.accesskey         "n">
-<!ENTITY  sendToDeviceFeedback.label         "Trimis!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "În așteptare (offline)">
 <!ENTITY  moveToNewWindow.label              "Mută într-o fereastră nouă">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.label            "Redeschide într-un container">
 <!ENTITY  bookmarkAllTabs.label              "Marchează toate filele…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Anulează închiderea filei">
@@ -258,7 +257,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Pagina de start">
-
 <!ENTITY homeButton.defaultPage.tooltip "Pagina de start &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Marcaje">
@@ -306,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Dezvoltator web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsSaveRecording.label "Salvează înregistrarea">
 
 <!ENTITY inspectContextMenu.label     "Inspectează elementul">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -316,6 +315,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Filă container nouă">
 <!ENTITY newUserContext.accesskey         "B">
+<!ENTITY manageUserContext.label          "Gestionează containerele">
 <!ENTITY newNavigatorCmd.label        "Fereastră nouă">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -413,23 +413,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Adaugă în bara de instrumente">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "Adaugă în meniu">
-<!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Adaugă în meniul suplimentar">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "Mută în bara de instrumente">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Mută în meniu">
-<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -439,11 +428,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "Elimină din bara de instrumente">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
-<!ENTITY customizeMenu.removeFromMenu.label "Elimină din meniu">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Adaugă mai multe elemente…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Ascunde automat în bara de instrumente">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Gestionează extensia">
@@ -589,7 +575,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Marchează acest cadru">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
 <!ENTITY pageAction.copyLink.label    "Copiază linkul">
-<!ENTITY copyURLFeedback.label        "Copiat!">
 <!ENTITY emailPageCmd.label           "Trimite e-mail cu linkul…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Salvează pagina ca…">
@@ -775,7 +760,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.done.label                     "Terminat">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
@@ -824,7 +808,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Permisiuni">
 <!ENTITY identity.permissionsEmpty "Nu ai acordat acestui site nicio permisiune specială.">
 <!ENTITY identity.permissionsReloadHint "Ar putea fi nevoie să reîncarci pagina pentru a efectua modificările.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "Deschide preferințele permisiunilor">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -929,12 +912,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.title "Blocare de conținut">
 <!ENTITY contentBlocking.detected "Conținut blocabil detectat pe acest site.">
 <!ENTITY contentBlocking.notDetected "Niciun conținut blocabil detectat pe această pagină.">
+<!ENTITY contentBlocking.disabled.label "Dezactivat">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Blocat">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -943,42 +928,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
+     ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Blocat">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Adaugă o blocare…">
 
-<!ENTITY contentBlocking.openBreakageReportView.label "Raportează probleme">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blocat">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!ENTITY contentBlocking.openBreakageReportView2.label "Raportează o problemă">
 <!ENTITY contentBlocking.breakageReportView.label "Raportează probleme">
-<!ENTITY contentBlocking.breakageReportView.description "Blocarea de conținut poate cauza probleme cu unele site-uri web. Când raportezi probleme, vei ajuta la crearea unui &brandShortName; mai bun pentru toată lumea. Acest lucru va trimite către Mozilla un URL, precum și informații despre confidențialitatea și setările tale de blocare a conținutului.">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Află mai multe">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL-ul">
-<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Numărul versiunii &brandShortName;">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ce probleme ai întâmpinat? (Opțional)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Trimite raportul">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Renunță">
 
 <!ENTITY trackingProtection.title "Protecție față de urmărire">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blochează părți ale paginii care ți-ar putea urmări navigarea.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Acest site include elemente care ți-ar putea urmări navigarea. Ai dezactivat protecția.">
-<!ENTITY trackingProtection.notDetected3 "Nu s-au detectat elemente de urmărire pe această pagină.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Dezactivează protecția pentru acest site">
-<!ENTITY trackingProtection.unblock.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Dezactivează protecția pentru această sesiune">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "Activează protecția">
-<!ENTITY trackingProtection.block2.accesskey "E">
-
 <!ENTITY trackingProtection.tooltip "Deschide preferințele de protecție împotriva urmăririi">
 
 
@@ -990,6 +969,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "Dezactivează pentru această sesiune">
+<!ENTITY trackingProtection.block4.label "Permite pentru acest site">
+<!ENTITY trackingProtection.reload2.label "Reîncarcă pagina">
 
 <!ENTITY pluginNotification.showAll.label "Arată-le pe toate">
 <!ENTITY pluginNotification.showAll.accesskey "S">
