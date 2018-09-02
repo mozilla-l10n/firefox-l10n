@@ -115,6 +115,7 @@ choose-language-description = ເລືອກພາສາທີ່ທ່ານ�
 choose-button =
     .label = ເລືອກ...
     .accesskey = o
+confirm-browser-language-change-button = ນຳໃຊ້ ແລະ ເລີ່ມເຮັດວຽກໃໝ່
 translate-exceptions =
     .label = ຍົກເວັ້ນ...
     .accesskey = x
@@ -181,10 +182,17 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = ການທ່ອງເວັບ
+browsing-use-autoscroll =
+    .label = ນຳໃຊ້ການເລື່ອນແບບອັດຕະໂນມັດ
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = ນຳໃຊ້ການເລື່ອນແບບເລື່ອນໄຫຼ
+    .accesskey = m
 
 ## General Section - Proxy
 
 network-proxy-title = ພຣັອກຊີເຄືອຂ່າຍ
+network-settings-title = ຕັ້ງຄ່າເຄື່ອຂ່າຍ
 network-proxy-connection-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 network-proxy-connection-settings =
     .label = ການຕັ້ງຄ່າ…
@@ -413,9 +421,6 @@ history-dontremember-description = { -brand-short-name } ຈະໃຊ້ກາ�
 history-private-browsing-permanent =
     .label = ນຳໃຊ້ການທ່ອງເວັບແບບສ່ວນຕົວຕະຫລອດເວລາ
     .accesskey = p
-history-remember-option =
-    .label = ບັນທຶກການຄົ້ນຫາຂອງຂ້ອຍ ແລະ ປະຫວັດການດາວໂຫລດ
-    .accesskey = b
 history-remember-browser-option =
     .label = ບັນທຶກການຄົ້ນຫາ ແລະ ປະຫວັດການດາວໂຫລດ
     .accesskey = b
@@ -484,6 +489,11 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = ແທັບທີ່ເປີດຢູ່
     .accesskey = ປ
+
+## Privacy Section - Content Blocking
+
+content-blocking-tracking-protection-label = ຕິດຕາມ
+    .accesskey = T
 
 ## Privacy Section - Tracking
 
