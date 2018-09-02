@@ -108,6 +108,10 @@ extension-controlled-privacy-containers = Een extensie, <img data-l10n-name="ico
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Een extensie, <img data-l10n-name="icon"/> { $name }, heeft beheer over bescherming tegen volgen.
 
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Een extensie, <img data-l10n-name="icon"/> { $name }, heeft beheer over deze instelling.
+
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Een extensie, <img data-l10n-name="icon"/> { $name }, heeft beheer over hoe { -brand-short-name } verbinding maakt met het internet.
@@ -858,12 +862,6 @@ content-blocking-category-label = Kiezen wat er wordt geblokkeerd
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Trage tracking-elementen
   .accesskey = T
-
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Traag ladende trackers
-  .accesskey = T
 content-blocking-fastblock-description = Blokkeert inhoud van derden die langer dan 5 seconden doet over het laden.
 content-blocking-fastblock-option-enabled =
   .label = Altijd blokkeren
@@ -872,8 +870,6 @@ content-blocking-fastblock-option-disabled =
 
 content-blocking-tracking-protection-label = Trackers
   .accesskey = T
-content-blocking-tracking-protection-all-label = Alle gedetecteerde trackers
-  .accesskey = d
 content-blocking-tracking-protection-description = Blokkeert alle bekende trackers (Let op: kan ook het laden van bepaalde pagina’s tegengaan).
 content-blocking-tracking-protection-option-enabled =
   .label = Altijd blokkeren
@@ -881,25 +877,33 @@ content-blocking-tracking-protection-option-pbm =
   .label = Alleen blokkeren in privévensters
 content-blocking-tracking-protection-option-disabled =
   .label = Nooit blokkeren
+content-blocking-tracking-protection-change-blocklist = Blokkeerlijst wijzigen…
+
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Traag ladende trackers
+  .accesskey = T
+content-blocking-fastblock-new-description = Alleen de trackers blokkeren die snel laden van pagina’s tegengaan.
+content-blocking-tracking-protection-all-label = Alle gedetecteerde trackers
+  .accesskey = d
+content-blocking-tracking-protection-new-description = Alle bekende trackers blokkeren. (Kan het laden van bepaalde pagina’s tegengaan.)
 content-blocking-tracking-protection-option-always =
   .label = Altijd
   .accesskey = A
 content-blocking-tracking-protection-option-private =
   .label = Alleen in privévensters
   .accesskey = p
-content-blocking-tracking-protection-change-blocklist = Blokkeerlijst wijzigen…
+content-blocking-tracking-protection-change-block-list = Blokkeerlijst wijzigen
 
 content-blocking-reject-trackers-label = Cookies van derden
   .accesskey = C
-content-blocking-reject-trackers-description = Block all third-party cookies or just those set by trackers.
+content-blocking-reject-trackers-description = Alle cookies van derden blokkeren of alleen cookies die zijn ingesteld door trackers.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = Alle cookies worden momenteel geblokkeerd.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Cookies van niet-bezochte websites worden momenteel geblokkeerd.
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Uw instellingen in Cookies en websitegegevens voorkomen wijzigingen aan instellingen voor Cookies van derden.
 content-blocking-change-cookie-settings =
   .label = Cookie-instellingen wijzigen
   .accesskey = s
