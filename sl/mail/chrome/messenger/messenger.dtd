@@ -351,7 +351,7 @@
 <!ENTITY replySenderCmd.label "Odgovori samo pošiljatelju">
 <!ENTITY replySenderCmd.accesskey "š">
 <!ENTITY replyNewsgroupCmd2.label "Nadaljuj za novičarsko skupino">
-<!ENTITY replyNewsgroupCmd2.accesskey "g">
+<!ENTITY replyNewsgroupCmd2.accesskey "v">
 <!ENTITY replyToAllMsgCmd.label "Odgovori vsem">
 <!ENTITY replyToAllMsgCmd.accesskey "e">
 <!ENTITY replyToAllMsgCmd.key "r">

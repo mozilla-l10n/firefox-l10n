@@ -9,7 +9,7 @@
 <!ENTITY FormName.label "Ime obrazca:">
 <!ENTITY FormName.accesskey "I">
 <!ENTITY FormAction.label "Spletni naslov dejanja:">
-<!ENTITY FormAction.accesskey "U">
+<!ENTITY FormAction.accesskey "n">
 <!ENTITY FormMethod.label "Metoda:">
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Kodiranje:">
