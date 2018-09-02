@@ -694,6 +694,7 @@ content-blocking-tracking-protection-option-pbm =
 content-blocking-tracking-protection-option-disabled =
     .label = لا تحجب أبدًا
 content-blocking-tracking-protection-change-blocklist = غيّر قائمة الحجب…
+content-blocking-tracking-protection-change-block-list = غيّر قائمة الحجب
 
 ## Privacy Section - Tracking
 
