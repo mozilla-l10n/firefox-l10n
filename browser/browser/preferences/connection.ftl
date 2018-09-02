@@ -67,3 +67,6 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = DNS แบบพร็อกซีเมื่อใช้ SOCKS v5
     .accesskey = d
+connection-dns-over-https =
+    .label = เปิดใช้งาน DNS ผ่าน HTTPS
+    .accesskey = ป
