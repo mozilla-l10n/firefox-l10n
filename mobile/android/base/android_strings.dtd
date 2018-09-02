@@ -541,7 +541,7 @@
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "પૂર્ણ સ્ક્રીન બ્રાઉઝિંગ">
-<!ENTITY pref_scroll_title_bar_summary2 "&brandShortName; છુપાવો ટૂલબાર જ્યારે પૃષ્ઠને સ્ક્રોલ કરતી વખતે">
+<!ENTITY pref_scroll_title_bar_summary2 "પાનાંને સ્ક્રોલ કરતી વખતે &brandShortName; ના ટૂલબાર ને છુપાવો">
 
 <!ENTITY pref_tab_queue_title3 "ટૅબ કતાર">
 <!ENTITY pref_tab_queue_summary4 "જ્યારે તમે આગલી વખતે ખોલો &brandShortName; સુધી લિંક્સ સાચવો">
