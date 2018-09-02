@@ -75,6 +75,7 @@
 <!ENTITY editMenu.label               "Editare">
 <!ENTITY editMenu.accesskey           "E">
 
+<!ENTITY run.label                    "Start">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
@@ -82,9 +83,11 @@
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
+<!ENTITY display.label                "Afișare">
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
+<!ENTITY pprint.label                 "Reformatare">
 <!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "P">
 
