@@ -149,6 +149,7 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Marchează sarcinile selectate ca îndeplinite">
 <!ENTITY calendar.task.priority.button.tooltip  "Schimbă prioritatea">
 
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Filtrează sarcinile #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
@@ -177,10 +178,33 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Participare">
 <!ENTITY calendar.context.attendance.menu.accesskey             "P">
 <!ENTITY calendar.context.attendance.occurrence.label           "Această apariție">
-<!ENTITY calendar.context.attendance.all.label        "Toate aparițiile" >
+<!ENTITY calendar.context.attendance.all2.label                 "Serii complete">
+<!ENTITY calendar.context.attendance.send.label                 "Trimite o notificare acum">
+<!ENTITY calendar.context.attendance.send.accesskey             "S">
+<!ENTITY calendar.context.attendance.dontsend.label             "Nu trimite nici o notificare">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "N">
 
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Acceptată">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "v">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Acceptă provizoriu (încercare)">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "R">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Refuzată">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Delegată">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "c">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Încă necesită acțiune">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "d">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "În desfășurare">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "t">
 
-
+<!ENTITY calendar.context.attendance.all.accepted.label         "Acceptate">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Acceptate provizoriu">
+<!ENTITY calendar.context.attendance.all.declined.label         "Refuzate">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Delegate">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Încă necesită acțiune">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "În desfășurare">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progres">
