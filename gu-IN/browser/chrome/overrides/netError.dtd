@@ -158,6 +158,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "અવરોધિત પૃષ્ઠ">
 
 <!ENTITY clockSkewError.title "તમારાં કમ્પ્યુટરની ઘડિયાળ ખોટી છે">
+<!ENTITY clockSkewError.longDesc "તમારાં કમ્પ્યુટર પ્રમાણે <span id='wrongSystemTime_systemDate1'/>, જે &brandShortName; ને સુરક્ષિત જોડાણથી અટકાવે છે. <span class='hostname'></span> ની મુલાકાત લેવાં માટે, તમારાં સીસ્ટમ સેંટિંગ્સમાંથી તમારાં કમ્પ્યુટરની ઘડિયાળ હાલનાં પ્રમાણે તારીખ, સમય, અને સમય ઝોન સુધારો કરો, અને પછી <span class='hostname'></span> તાજું કરો.">
 
 <!ENTITY prefReset.longDesc "એવું લાગી રહ્યું છે કે તમારાં નેટવર્કની સુરક્ષા વ્યવસ્થા ને કારણે આમ થઇ રહ્યુ છે. શું આપ મૂળભૂત વ્યવસ્થા પાછી લાવવાં ઈચ્છો છો?">
 <!ENTITY prefReset.label "મૂળભુત સેટિંગ પાછા લાવો">
