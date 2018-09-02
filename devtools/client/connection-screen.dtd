@@ -7,11 +7,15 @@
   - in the Web Developer menu.
   - -->
 
+<!ENTITY title      "Conectează">
+<!ENTITY header     "Conectează la dispozitiv distant">
 <!ENTITY host       "Gazdă:">
 <!ENTITY port       "Port:">
+<!ENTITY connect    "Conectează">
 <!ENTITY connecting "Se conectează…">
 <!ENTITY connectionError "Eroare:">
 <!ENTITY errorTimeout "Eroare: conexiunea a expirat.">
+<!ENTITY errorRefused "Eroare: conexiune refuzată.">
 <!ENTITY errorUnexpected "Eroare neașteptată.">
 
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
