@@ -25,11 +25,9 @@
 <!ENTITY useHtml.accesskey                    "H">
 <!ENTITY autoQuote.label                      "La răspuns, citează automat din mesajul original">
 <!ENTITY autoQuote.accesskey                  "u">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Apoi,">
-<!ENTITY then.accesskey                       "A">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Când se citează text,">
+<!ENTITY quoting.accesskey                    "q">
 <!ENTITY aboveQuote.label                     "începe răspunsul deasupra textului citat">
 <!ENTITY belowQuote.label                     "începe răspunsul sub textul citat">
 <!ENTITY selectAndQuote.label                 "selectează textul citat">

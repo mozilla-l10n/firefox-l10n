@@ -36,7 +36,10 @@
 <!ENTITY newFeedAccountCmd.accesskey "f">
 <!ENTITY newIMContactCmd.label "Contact chat…">
 <!ENTITY newIMContactCmd.accesskey "C">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
 <!ENTITY  newMessageCmd.label "Mesaj">
+<!ENTITY  newMessageCmd.accesskey "m">
 <!ENTITY  newContactCmd.label "Contact în agendă…">
 <!ENTITY  newContactCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Deschide un mesaj salvat…">
@@ -370,6 +373,7 @@
 <!ENTITY editDraftMsgCmd.label "Editează mesajele ciornă">
 <!ENTITY editDraftMsgCmd.accesskey "d">
 <!ENTITY editTemplateMsgCmd.label "Editare șablon">
+<!ENTITY editTemplateMsgCmd.accesskey "t">
 <!ENTITY newMsgFromTemplateCmd.label "Mesaj nou bazat pe șablon">
 <!ENTITY newMsgFromTemplateCmd.keycode "VK_RETURN"><!-- do not change "VK_RETURN" -->
 <!ENTITY createFilter.label "Creează filtru din mesaj…">
@@ -509,8 +513,12 @@
 <!ENTITY devtoolsMenu.label "Instrumente de dezvoltare">
 <!ENTITY devtoolsMenu.accesskey "e">
 <!ENTITY devToolboxCmd.label "Cutia de unelte pentru dezvoltatori">
+<!ENTITY devToolboxCmd.accesskey "t">
+<!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Depanează suplimente">
+<!ENTITY debugAddonsCmd.accesskey "a">
 <!ENTITY tabsDebugCmd.label "Depanator cadru de conținut">
+<!ENTITY tabsDebugCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.label "Consolă de erori">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "j">
@@ -644,6 +652,7 @@
 <!ENTITY folderContextMarkAllFoldersRead.label "Marchează toate dosarele ca fiind citite">
 <!ENTITY folderContextPauseAllUpdates.label "Pune pe pauză toate actualizările">
 <!ENTITY folderContextPauseUpdates.label "Pune pe pauză actualizările">
+<!ENTITY folderContextPauseUpdates.accesskey "u">
 <!ENTITY folderContextOpenInNewWindow.label "Deschide într-o fereastră nouă">
 <!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "Deschide într-o filă nouă">
@@ -758,6 +767,7 @@
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextEditDraftMsg.label "Editează mesajul ciornă">
 <!ENTITY contextEditTemplate.label "Editează șablonul">
+<!ENTITY contextEditTemplate.accesskey "t">
 <!ENTITY contextArchive.label "Arhivează">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Răspunde doar expeditorului">
@@ -785,6 +795,7 @@
 <!ENTITY contextCopyMsgMenu.label "Copiază în">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Ignoră conversația">
+<!ENTITY contextKillSubthreadMenu.accesskey "b">
 <!ENTITY contextKillThreadMenu.accesskey "I">
 <!ENTITY contextKillSubthreadMenu.label "Ignoră conversația din interior">
 <!ENTITY contextWatchThreadMenu.label "Urmărește conversația">

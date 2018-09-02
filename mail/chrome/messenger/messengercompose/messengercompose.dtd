@@ -86,18 +86,21 @@
 <!ENTITY renameAttachmentCmd.label "Redenumire atașament…">
 <!ENTITY renameAttachmentCmd.accesskey "R">
 <!ENTITY reorderAttachmentsCmd.label "Rearanjează atașamentele…">
+<!ENTITY reorderAttachmentsCmd.accesskey "s">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Panoul atașamentelor">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Selectează tot">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Găsește…">
 <!ENTITY findBarCmd.accesskey "G">
 <!ENTITY findBarCmd.key "F">
@@ -124,9 +127,14 @@
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Ordonează: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Ordonează: Z - A">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Ordonează selecția: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Ordonează selecția: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Vizualizare">
@@ -261,9 +269,11 @@
 <!ENTITY subject.label "Subiect:">
 <!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "A">
 <!ENTITY attachmentBucketHeader.tooltip "Panoul atașamentelor">
 <!ENTITY attachmentBucketCloseButton.tooltip "Ascunde panoul atașamentelor">
@@ -314,7 +324,9 @@
 <!ENTITY renameAttachment.label "Redenumește…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY reorderAttachments.label "Rearanjează atașamentele…">
+<!ENTITY reorderAttachments.accesskey "s">
 <!ENTITY removeAllAttachments.label "Înlătură toate atașamentele">
+<!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Selectează tot">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Atașează fișier(e)…">
@@ -335,6 +347,7 @@
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
 <!ENTITY initiallyShowAttachmentPane.label "Arată inițial panoul atașamentelor">
+<!ENTITY initiallyShowAttachmentPane.accesskey "s">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Adaugă dicționare">
@@ -346,6 +359,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Personalizează adresa de trimitere…">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Corpul mesajului">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Verifică ortografia limbii">
