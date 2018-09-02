@@ -147,6 +147,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle1  "અસુરક્ષિત જોડાણ">
 <!ENTITY certerror.pagetitle2  "ચેતવણી: આગળ સંભવિત સુરક્ષા જોખમ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "આ સાઇટ HTTP નો ઉપયોગ કરે છે તે સ્પષ્ટ કરવા માટે સખત પરિવહન સુરક્ષા (HSTS) અને &brandShortName; માત્ર સુરક્ષિત રીતે જોડાણ                          કરી શકે છે. તે સુરક્ષિત રીતે પરિણામે, આ માટે અપવાદ ઉમેરવા શક્ય નથી પ્રમાણપત્ર.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> પાસે HTTP સખત પરિવહન સુરક્ષા (HSTS) નામની સુરક્ષા નીતિ છે,એટલે brandShortName; ફક્ત તેને સુરક્ષિત રીતે જોડાઈ શકે છે. તમે આ સાઇટની મુલાકાત લેવા માટે અપવાદ ઉમેરી શકતા નથી.">
 <!ENTITY certerror.copyToClipboard.label "ક્લિપબોર્ડમાં લખાણની નકલ કરો">
 
 <!ENTITY inadequateSecurityError.title "તમારું જોડાણ સુરક્ષિત નથી">
