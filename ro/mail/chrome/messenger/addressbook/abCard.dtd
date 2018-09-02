@@ -30,6 +30,7 @@
 <!ENTITY DisplayName.label              "Afișat ca:">
 <!ENTITY preferDisplayName.label        "Prefer întotdeauna afișarea numelui deasupra antetului mesajului">
 <!ENTITY NickName.label                 "Pseudonim:">
+<!ENTITY NickName.accesskey             "n">
 
 <!ENTITY PrimaryEmail.label             "E-mail:">
 <!ENTITY PrimaryEmail.accesskey         "E">
@@ -44,7 +45,9 @@
 <!ENTITY HomePhone.label                "Acasă:">
 <!ENTITY HomePhone.accesskey            "m">
 <!ENTITY FaxNumber.label                "Fax:">
+<!ENTITY FaxNumber.accesskey            "x">
 <!ENTITY PagerNumber.label              "Pager:">
+<!ENTITY PagerNumber.accesskey          "g">
 <!ENTITY CellularNumber.label           "Mobil:">
 
 <!ENTITY Home.tab                       "Privat">
@@ -107,8 +110,8 @@
 <!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Foto">
-<!ENTITY PhotoDesc.label                "Alegeți una dintre următoarele:">
 <!ENTITY GenericPhoto.label             "Poză generică">
+<!ENTITY GenericPhoto.accesskey         "g">
 <!ENTITY DefaultPhoto.label             "Implicită">
 <!ENTITY PhotoFile.label                "De pe acest calculator">
 <!ENTITY BrowsePhoto.label              "Răsfoiește">

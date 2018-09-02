@@ -31,7 +31,9 @@ sentence. -->
 <!ENTITY  completeNotification.label          "cu numele expeditorului și previzualizarea mesajului">
 <!ENTITY  buddyInfoOnly.label                 "cu numele expeditorului doar">
 <!ENTITY  dummyNotification.label             "fără nicio informație">
+<!ENTITY  getAttention.label                  "Pâlpâie elementul de pe bara de activități">
 <!ENTITY  getAttentionMac.label               "Animează pictograma de andocare">
+<!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "d">
 <!ENTITY  chatSound.label                     "Redă un sunet">
 <!ENTITY  play.label                          "Redă">
