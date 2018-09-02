@@ -67,3 +67,6 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = Utiliser un DNS distant lorsque SOCKS v5 est actif
     .accesskey = n
+connection-dns-over-https-url = URL
+    .accesskey = U
+    .tooltiptext = URL de résolution DNS via HTTPS
