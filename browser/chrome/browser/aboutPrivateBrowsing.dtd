@@ -32,3 +32,4 @@
 <!ENTITY trackingProtection.startTour1                   "Vezi cum funcționează">
 
 <!ENTITY contentBlocking.title                           "Blocare de conținut">
+<!ENTITY contentBlocking.description                     "Unele site-uri web folosesc instrumente de urmărire care îți pot monitoriza activitatea pe Internet. În ferestrele private Firefox, blocarea de conținut blochează automat multe instrumente de urmărire care pot colecta informații despre comportamentul tău de navigare.">
