@@ -6,6 +6,8 @@ do-not-track-description = वेबसाइटों को “डू नॉ�
 do-not-track-learn-more = और अधिक जानें
 do-not-track-option-default =
     .label = ट्रैकिंग का उपयोग करते समय ही
+do-not-track-option-default-content-blocking =
+    .label = केवल जब { -brand-short-name }  ज्ञात ट्रैकर को अवरोधित करने के लिए सेट किया गया है
 do-not-track-option-always =
     .label = हमेशा
 pref-page =
@@ -203,6 +205,9 @@ choose-button =
     .label = चयन करें…
     .accesskey = o
 choose-browser-language-description = { -brand-short-name } से मेन्यु, संदेशों, तथा नोटिफिकेशनों के प्रदर्शित करने वाले भाषाओं का चयन करें.
+manage-browser-languages-button =
+    .label = विकल्प सेट करें...
+    .accesskey = l
 confirm-browser-language-change-description = इन बदलावों को लागु करने के लिए { -brand-short-name } को पुनःप्रारंभ करें.
 confirm-browser-language-change-button = लागु करें तथा पुनः प्रारंभकरें
 translate-web-pages =
@@ -606,6 +611,23 @@ sitedata-accept-third-party-never-option =
 sitedata-allow-cookies-option =
     .label = कुकीज़ और साइट डेटा स्वीकार करें
     .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = कुकीज़ और साइट डेटा प्रतिबंधित करें
+    .accesskey = B
+sitedata-block-trackers-option-recommended =
+    .label = तृतीय-पक्ष ट्रैकर (अनुशंसित)
+sitedata-block-trackers-option =
+    .label = तृतीय-पक्ष ट्रैकर
+sitedata-block-unvisited-option =
+    .label = नहीं देखे वेबसाइटों से कुकीज़
+sitedata-block-all-third-parties-option =
+    .label = सभी तृतीय-पक्ष कुकीज़
+sitedata-block-always-option =
+    .label = सभी कुकीज़ (वेबसाइटों को तोड़ने का कारण हो सकते हैं)
+sitedata-block-all-third-party-option =
+    .label = सभी तृतीय-पक्ष कुकीज़ (वेबसाइटों को तोड़ने का कारण हो सकते हैं)
+sitedata-block-all-option =
+    .label = सभी कुकीज़ (वेबसाइटों को तोड़ने के कारण होंगे)
 sitedata-clear =
     .label = डेटा मिटायें...
     .accesskey = I
@@ -655,12 +677,19 @@ content-blocking-category-label = चुनें कि क्या ब्ल�
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = धीमी ट्रैकिंग तत्व
     .accesskey = S
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = धीमी गति से लोड होने वाले ट्रैकर
+    .accesskey = S
 content-blocking-fastblock-description = लोड होने में 5 सेकंड से अधिक समय लेने वाले तृतीय-पार्टी सामग्री को ब्लॉक करता है.
 content-blocking-fastblock-option-enabled =
     .label = हमेशा ब्लॉक करें
 content-blocking-fastblock-option-disabled =
     .label = कभी ब्लॉक ना करें
 content-blocking-tracking-protection-label = ट्रैकर
+    .accesskey = T
+content-blocking-tracking-protection-all-label = सभी ज्ञात ट्रैकर
     .accesskey = T
 content-blocking-tracking-protection-description = सभी ज्ञात ट्रैकर ब्लॉक करें (नोट: कुछ पृष्ठों को लोड होने से रोका जा सकता है).
 content-blocking-tracking-protection-option-enabled =
@@ -669,7 +698,36 @@ content-blocking-tracking-protection-option-pbm =
     .label = केवल निजी विंडो में ब्लॉक करें
 content-blocking-tracking-protection-option-disabled =
     .label = कभी ब्लॉक ना करें
+content-blocking-tracking-protection-option-always =
+    .label = हमेशा
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = केवल निजी विंडो में
+    .accesskey = p
 content-blocking-tracking-protection-change-blocklist = ब्लॉक सूची बदलें
+content-blocking-reject-trackers-label = तृतीय-पक्ष कुकीज़
+    .accesskey = C
+content-blocking-reject-trackers-description = सभी तृतीय-पक्ष कुकीज़ को प्रतिबंधित करें या केवल उन्हें जो ट्रैकरों द्वारा सेट किए गये हैं।
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
+# being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-all-cookies-blocked = सभी कुकीज़ वर्तमान में प्रतिबंधित किए गए हैं।
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
+# option being selected in the Cookies and Site Data section of the UI.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = नहीं देखे वेबसाइटों से कुकीज़ वर्तमान में अवरुद्ध हैं।
+content-blocking-change-cookie-settings =
+    .label = कुकी सेटिंग बदलें
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = ट्रैकर (अनुशंसित)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = ट्रैकर
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = सभी तृतीय-पक्ष कुकीज़ (वेबसाइटों को तोड़ने के कारण हो सकते हैं)
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
