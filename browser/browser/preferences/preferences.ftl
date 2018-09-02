@@ -684,6 +684,9 @@ content-blocking-tracking-protection-option-pbm =
     .label = Bloquear solo en ventanas privadas
 content-blocking-tracking-protection-option-disabled =
     .label = Nunca bloquear
+content-blocking-tracking-protection-option-always =
+    .label = Siempre
+    .accesskey = A
 content-blocking-tracking-protection-change-blocklist = Cambiar la lista de bloqueo…
 
 ## Privacy Section - Tracking
