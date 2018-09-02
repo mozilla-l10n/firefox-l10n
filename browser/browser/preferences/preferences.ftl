@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = 擴充套件「<img data-l10n-name="ic
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = 擴充套件「<img data-l10n-name="icon"/> { $name }」正在控制您的追蹤保護設定。
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = 擴充套件<img data-l10n-name="icon"/> { $name } 正在控制此設定。
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = 擴充套件「<img data-l10n-name="icon"/> { $name }」正在控制您的 { -brand-short-name } 如何連線至網際網路。
@@ -629,6 +632,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = 例外網站…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = 您的內容封鎖設定不允許調整 Cookie 與網站資料設定。
 
 ## Privacy Section - Address Bar
 
@@ -687,8 +694,10 @@ content-blocking-tracking-protection-change-blocklist = 變更封鎖清單…
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-label = 很慢才載入的追蹤器
     .accesskey = S
+content-blocking-fastblock-new-description = 只封鎖會影響頁面載入速度的追蹤器。
 content-blocking-tracking-protection-all-label = 所有偵測到的追蹤器
     .accesskey = T
+content-blocking-tracking-protection-new-description = 封鎖所有已知的追蹤器（可能會影響某些頁面載入。）
 content-blocking-tracking-protection-option-always =
     .label = 總是
     .accesskey = A
@@ -699,6 +708,11 @@ content-blocking-tracking-protection-change-block-list = 變更封鎖清單
 content-blocking-reject-trackers-label = 第三方 Cookie
     .accesskey = C
 content-blocking-reject-trackers-description = 封鎖所有第三方 Cookie，或只封鎖追蹤器設定的 Cookie
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = 您的 Cookie 與網站資料設定不允許調整第三方 Cookie 的設定。
 content-blocking-change-cookie-settings =
     .label = 變更 Cookie 設定
     .accesskey = S
