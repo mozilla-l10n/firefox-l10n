@@ -602,6 +602,13 @@ sitedata-accept-third-party-visited-option =
     .label = भेट दिलेल्यांमधून
 sitedata-accept-third-party-never-option =
     .label = कधीच नाही
+sitedata-allow-cookies-option =
+    .label = कुकीज आणि साईट डेटा स्वीकारा
+    .accesskey = A
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = प्रकार अवरोधित
+    .accesskey = T
 sitedata-block-trackers-option-recommended =
     .label = तिसरे-पक्षीय मागोवा घेणारे (शिफारसीय)
 sitedata-block-trackers-option =
@@ -669,6 +676,9 @@ content-blocking-tracking-protection-option-pbm =
     .label = फक्त खाजगी पटलामध्ये आडवा
 content-blocking-tracking-protection-option-disabled =
     .label = कधीच अडवू नका
+content-blocking-tracking-protection-option-always =
+    .label = नेहमी
+    .accesskey = A
 content-blocking-tracking-protection-change-blocklist = अवरोधित सूची बदला…
 
 ## Privacy Section - Tracking

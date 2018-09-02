@@ -819,6 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "परवानगी">
 <!ENTITY identity.permissionsEmpty "आपण ह्या साईटला काही विशेष परवानग्या दिलेल्या नाहीत.">
 <!ENTITY identity.permissionsReloadHint "आपल्याला बदल लागू करण्यासाठी पृष्ठ पुन्हा लोड करावे लागू शकते.">
+<!ENTITY identity.permissionsPreferences.tooltip "परवानग्या प्राधान्ये उघडा">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -921,6 +922,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "मागोवा सुरक्षा: चालु">
 <!ENTITY trackingProtection.off "मागोवा सुरक्षा: बंद">
 
+<!ENTITY contentBlocking.title "मजकूर अवरोधन">
+<!ENTITY contentBlocking.detected "या साइटवर अवरोधित करण्यायोग्य मजकूर आढळले.">
+<!ENTITY contentBlocking.notDetected "या साइटवर अवरोधित करण्यायोग्य मजकूर आढळले नाही.">
 <!ENTITY contentBlocking.disabled.label "निष्क्रिय केले आहे">
 <!ENTITY contentBlocking.disabled.tooltip "आपण मजकूर अवरोधित करणे निष्क्रिय केले आहे.">
 <!ENTITY contentBlocking.exception.tooltip "आपण या साइटसाठी मजकूर अवरोधित करणे निष्क्रिय केले आहे.">
@@ -935,6 +939,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "अवरोधन जोडा…">
 
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
@@ -946,6 +951,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "अवरोधन जोडा…">
 
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned

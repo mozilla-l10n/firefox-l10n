@@ -5,6 +5,9 @@
 languages-window =
     .title = भाषा
     .style = width: 30em
+webpage-languages-window =
+    .title = वेबपृष्ठ भाषा सेटिंग
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = वेब पृष्ठे काही वेळा अनेक भाषांमध्ये देऊ केले जातात. प्राधान्यतेनुसार, वेब पृष्ठांच्या प्रदर्शनासाठी भाषा निवडा
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } भाषा सेटिंग
+    .style = width: 40em
