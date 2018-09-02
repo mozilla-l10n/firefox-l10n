@@ -970,9 +970,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Ajouter un blocage…">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Signaler un problème">
 <!ENTITY contentBlocking.breakageReportView.label "Signaler des problèmes">
+<!ENTITY contentBlocking.breakageReportView2.description "Le blocage des contenus peut occasionner des problèmes sur certains sites web. Quand vous signalez des problèmes, vous contribuez à rendre &brandShortName; meilleur pour tout le monde. (Ceci enverra une URL ainsi que des informations sur les préférences de votre navigateur à Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "En savoir plus">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Quels problèmes avez-vous rencontrés ? (facultatif)">
