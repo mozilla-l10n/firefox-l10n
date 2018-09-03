@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+cfr-doorhanger-extension-heading = ભલામણ કરેલ એક્સ્ટેંશન
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = શા માટે હું આ જોઈ રહ્યો છું
 cfr-doorhanger-extension-cancel-button = હમણાં નહિ
@@ -21,18 +22,3 @@ cfr-doorhanger-extension-notification = ભલામણ
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
 
-# Variables:
-#   $total (Number) - The rating of the add-on from 1 to 5
-cfr-doorhanger-extension-rating =
-    .tooltiptext =
-        { $total ->
-            [one] તારો
-           *[other] તારાઓ
-        }
-# Variables:
-#   $total (Number) - The total number of users using the add-on
-cfr-doorhanger-extension-total-users =
-    { $total ->
-        [one] વપરાશકર્તા
-       *[other] વપરાશકર્તાઓ
-    }
