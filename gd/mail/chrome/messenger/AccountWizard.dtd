@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Entities for AccountWizard -->
 
+<!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Draoidh nan cunntasan">
 <!ENTITY accountWizard.size "width: 50em; height: 48em;">
-<!-- Entities for Account Type page -->
 
+<!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo2.label "Feumaidh tu cunntas a chur air dòigh mus faigh thu teachdaireachdan.">
 <!ENTITY accountTypeTitle.label "Suidheachadh de chunntas ùr">
@@ -17,13 +17,17 @@
 <!ENTITY accountTypeMail.accesskey "C">
 <!ENTITY accountTypeNews.label "Cunntas buidhinn-naidheachd">
 <!ENTITY accountTypeNews.accesskey "C">
-<!-- Entities for Identity page -->
 
+<!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
+<!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
+<!ENTITY accountTypeMovemail.accesskey "U">
+
+<!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Dearbh-aithne">
 <!ENTITY identityDesc.label "Tha dearbh-aithne aig gach cunntas; sin am fiosrachadh air a dh'aithnichear thusa nuair a gheibhear teachdaireachdan uat.">
-<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Cuir a-steach an t-ainm a nochdas san raon &quot;O&quot; sna teachdaireachdan a chuireas tu gu daoine eile">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
@@ -35,8 +39,8 @@
 
 <!ENTITY emailLabel.label "An seòladh puist-dhealain:">
 <!ENTITY emailLabel.accesskey "e">
-<!-- Entities for Incoming Server page -->
 
+<!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Fiosrachadh an fhrithealaiche a-steach">
 <!ENTITY incomingServerTypeDesc.label "Tagh seòrsa an fhrithealaiche a-steach a tha thu a' cleachdadh.">
@@ -64,8 +68,8 @@
 <!ENTITY newsServerNameDesc.label "Cuir a-steach ainm frithealaiche nan naidheachdan (NNTP) agad (mar eisimpleir &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Frithealaiche nam buidhnean-naidheachd:">
 <!ENTITY newsServerLabel.accesskey "F">
-<!-- Entities for Outgoing Server page -->
 
+<!-- Entities for Outgoing Server page -->
 
 <!ENTITY outgoingTitle.label "Fiosrachadh an fhrithealaiche a-mach">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
@@ -75,10 +79,10 @@
 <!ENTITY outgoingUsername.description "Cuir a-steach an t-ainm-cleachdaiche a-mach a thug solaraiche a' phuist-d agad dhut (tha seo co-ionnann ris an ainm-chleachdaiche a-steach mar is trice).">
 <!ENTITY outgoingUsername.label "Ainm-cleachdaiche a-mach:">
 <!ENTITY outgoingUsername.accesskey "c">
+
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-
 <!ENTITY modifyOutgoing.suffix "You can change outgoing servers in the account settings.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
@@ -98,16 +102,16 @@
 -->
 <!ENTITY haveSmtp3.prefix "Tha am frithealaiche a-mach (SMTP) agad, &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, co-ionnan ris an fhrithealaiche a-steach agad &apos;s thèid d&apos; ainm cleachdaiche airson post a-steach a chleachdadh gus inntrigeadh a dhèanamh dha.">
-<!-- Entities for Account name page -->
 
+<!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Ainm a' chunntais">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Cuir a-steach an t-ainm a bu toigh leat a bhith air a&apos; chunntas seo (mar eisimpleir &quot;Cunntas m&apos; obrach&quot;, &quot;Cunntas an taighe&quot; no &quot;Cunntas nan naidheachdan&quot;).">
 <!ENTITY accnameLabel.label "Ainm a' chunntais:">
 <!ENTITY accnameLabel.accesskey "A">
-<!-- Entities for Done (Congratulations) page -->
 
+<!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Meal do naidheachd!">
 <!ENTITY completionText.label "Dearbhaich gu bheil am fiosrachadh gu h-ìosal ceart.">
