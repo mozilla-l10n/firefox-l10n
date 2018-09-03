@@ -326,7 +326,7 @@ browsing-search-on-start-typing =
 network-proxy-title = નેટવર્ક પ્રોક્સી
 network-settings-title = નેટવર્ક સેટિંગ્સ
 network-proxy-connection-description = કેવી રીતે { -brand-short-name } ઇન્ટરનેટ સાથે જોડાય છે તે ગોઠવો.
-network-proxy-connection-learn-more = વધુ જાણો
+network-proxy-connection-learn-more = વધુ શીખો
 network-proxy-connection-settings =
     .label = સેટીંગ...
     .accesskey = e
@@ -679,19 +679,12 @@ content-blocking-category-label = શું અવરોધ કરવું ત�
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = ધીમા ટ્રેકિંગ તત્વો
     .accesskey = S
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = ધીમો-લોડિંગ ટ્રેકર
-    .accesskey = S
 content-blocking-fastblock-description = તૃતીય-પક્ષની સામગ્રીને અવરોધ કરે છે જે લોડ થવામાં 5 સેકંડથી વધુ સમય લે છે.
 content-blocking-fastblock-option-enabled =
     .label = હંમેશા અવરોધિત કરો
 content-blocking-fastblock-option-disabled =
     .label = ક્યારેય અવરોધિત કરશો નહીં
 content-blocking-tracking-protection-label = ટ્રેકર્સ
-    .accesskey = T
-content-blocking-tracking-protection-all-label = બધા શોધાયેલા ટ્રેકર્સ
     .accesskey = T
 content-blocking-tracking-protection-description = બધા જાણીતા ટ્રેકર્સને અવરોધ કરે છે
 content-blocking-tracking-protection-option-enabled =
@@ -700,24 +693,23 @@ content-blocking-tracking-protection-option-pbm =
     .label = ફક્ત ખાનગી વિંડોઝમાં અવરોધિત કરો
 content-blocking-tracking-protection-option-disabled =
     .label = ક્યારેય અવરોધિત કરશો નહીં
+content-blocking-tracking-protection-change-blocklist = અવરોધ સૂચિ બદલો...
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = ધીમો-લોડિંગ ટ્રેકર
+    .accesskey = S
+content-blocking-tracking-protection-all-label = બધા શોધાયેલા ટ્રેકર્સ
+    .accesskey = T
 content-blocking-tracking-protection-option-always =
     .label = હંમેશાં
     .accesskey = A
 content-blocking-tracking-protection-option-private =
     .label = ફકત ખાનગી વિંડોઝમાં જ
     .accesskey = P
-content-blocking-tracking-protection-change-blocklist = અવરોધ સૂચિ બદલો...
 content-blocking-reject-trackers-label = તૃતીય-પક્ષ કૂકીઝ
     .accesskey = C
 content-blocking-reject-trackers-description = તમામ તૃતીય-પક્ષની કૂકીઝને અથવા ફક્ત ટ્રેકર્સ દ્વારા સેટ કરેલ કૂકીઝને અવરોધિત કરો.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = બધી કૂકીઝ વર્તમાનમાં અવરોધિત છે.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = બિનજરૂરી વેબસાઇટ્સ પરની કૂકીઝ હાલમાં અવરોધિત છે.
 content-blocking-change-cookie-settings =
     .label = કૂકી સેટિંગ્સ બદલો
     .accesskey = S
