@@ -3,11 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "ઍડ-ઓન સંચાલક">
 
-<!ENTITY search.placeholder                   "બધા ઍડ-ઓન શોધો">
-
 <!ENTITY search.placeholder2                  "addons.mozilla.org પર શોધો">
 <!ENTITY search.buttonlabel                   "શોધો">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,8 +14,7 @@
 <!ENTITY listEmpty.availableUpdates.label     "સુધારાઓ મળ્યા નથી">
 <!ENTITY listEmpty.recentUpdates.label        "તમે તાજેતરમાં કોઇપણ ઍડ-ઓનને સુધારેલ નથી">
 <!ENTITY listEmpty.findUpdates.label          "સુધારાઓ માટે ચકાસો">
-<!ENTITY listEmpty.search.label               "કોઇપણ બંધબેસતા ઍડ-ઓનને શોધી શક્યા નહિં">
-<!ENTITY listEmpty.button.label               "ઍડ-ઓન વિશે વધારે શીખો">
+<!ENTITY listEmpty.button.label               "ઍડ-ઓન વિશે વધુ શીખો">
 <!ENTITY installAddonFromFile.label           "ફાઇલમાંથી ઍડ-ઓનને સ્થાપિત કરો…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "બધા ઍડ-ઓન માટે સાધનો">
@@ -41,7 +38,6 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "ઍડ-ઓન સુધારા સુરક્ષા ચકાસણીને સક્રિય કરો">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "શોધો">
 <!ENTITY view.discover.label                  "ઍડ-ઓનને મેળવો">
 <!ENTITY view.recentUpdates.label             "તાજેતરનાં સુધારાઓ">
 <!ENTITY view.availableUpdates.label          "ઉપલબ્ધ સુધારાઓ">
@@ -84,8 +80,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "પસંદગીઓ">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "વિશે">
-<!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "સક્રિય">
 <!ENTITY cmd.enableAddon.accesskey            "E">
@@ -132,7 +126,6 @@
 <!ENTITY detail.lastupdated.label             "છેલ્લે સુધારેલ">
 <!ENTITY detail.creator.label                 "વિકાસકર્તા">
 <!ENTITY detail.homepage.label                "મુખ્યપાનુ">
-<!ENTITY detail.numberOfDownloads.label       "ડાઉનલોડ">
 
 <!ENTITY detail.contributions.description     "આ ઍડ-ઓનનો ડેવલપર પૂછે છે કે તમે થોડો ફાળો કરીને તેનાં ચાલુ રાખેલ વિકાસમાં આધાર આપવા મદદ કરો છો.">
 
@@ -164,23 +157,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "અટકાવો">
 <!ENTITY progress.cancel.tooltip              "રદ કરો">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "નામ">
-<!ENTITY sort.name.tooltip                    "નામ પ્રમાણે ગોઠવો">
-<!ENTITY sort.dateUpdated.label               "છેલ્લે સુધારેલ">
-<!ENTITY sort.dateUpdated.tooltip             "સુધારેલ તારીખ પ્રમાણે ગોઠવો">
-<!ENTITY sort.relevance.label                 "શ્રેષ્ઠ બંધબેસતુ">
-<!ENTITY sort.relevance.tooltip               "સુસંગતતા પ્રમાણે ગોઠવો">
-<!ENTITY sort.price.label                     "કિંમત">
-<!ENTITY sort.price.tooltip                   "કિંમત પ્રમાણે ગોઠવો">
-
-<!ENTITY search.filter2.label                 "શોધો:">
-<!ENTITY search.filter2.installed.label       "મારા ઍડ-ઓન">
-<!ENTITY search.filter2.installed.tooltip     "સ્થાપિત થયેલ ઍડ-ઓન બતાવો">
-<!ENTITY search.filter2.available.label       "ઉપલબ્ધ ઍડ-ઓન">
-<!ENTITY search.filter2.available.tooltip     "સ્થાપિત કરવા માટે ઉપલબ્ધ ઍડ-ઓન બતાવો">
 
 <!ENTITY addon.homepage                       "મુખ્યપાનુ">
 <!ENTITY addon.details.label                  "વધારે">
@@ -224,17 +200,6 @@
 
 <!ENTITY settings.path.button.label           "બ્રાઉઝ કરો…">
 
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "આ શું છે? ટેલીમેટ્રી સ્થાપિત થશે અને સમયે સમયે પરીક્ષણો ચલાવશે.">
-<!ENTITY experiment.info.learnmore "વધુ શીખો">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "ટેલીમેટ્રી સેટીંગ">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
-
 <!ENTITY setting.learnmore "વધુ શીખો…">
 
 <!ENTITY disabledUnsigned.heading "કેટલાક ઍડ-ઑન્સ અક્ષમ કરવામાં આવ્યા છે">
@@ -244,7 +209,7 @@
 <!ENTITY disabledUnsigned.description.start "નીચેના ઍડ-ઑન્સને &brandShortName; માં ઉપયોગ કરવા માટે ચકાસણી કરવામાં આવી નથી. તમે કરી શકો છો ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "ફેરબદલી શોધો">
 <!ENTITY disabledUnsigned.description.end " અથવા ડેવલપરને તેમને ચકાસવા માટે પૂછો.">
-<!ENTITY disabledUnsigned.learnMore "તમને ઓનલાઇન સુરક્ષિત રાખવામાં સહાય કરવાના અમારા પ્રયત્નો વિશે વધુ જાણો.">
+<!ENTITY disabledUnsigned.learnMore "તમને ઓનલાઇન સુરક્ષિત રાખવામાં સહાય કરવાના અમારા પ્રયત્નો વિશે વધુ શીખો.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
@@ -258,4 +223,4 @@
 <!ENTITY legacyWarning.showLegacy "જૂના એક્સ્ટેન્શન્સ બતાવો">
 <!ENTITY legacyExtensions.title "જૂના એક્સ્ટેન્શન્સ">
 <!ENTITY legacyExtensions.description "આ એક્સ્ટેન્શન્સ વર્તમાન &brandShortName; ધોરણો મળતા નથી જેથી તેઓ નિષ્ક્રિય કરવામાં આવેલ છે.">
-<!ENTITY legacyExtensions.learnMore "ઍડ-ઑન્સમાં ફેરફારો વિશે જાણો">
+<!ENTITY legacyExtensions.learnMore "ઍડ-ઑન્સમાં ફેરફારો વધુ શીખો">

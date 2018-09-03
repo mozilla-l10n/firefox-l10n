@@ -51,7 +51,7 @@
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.learnMoreLink): Text for the link to
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
-<!ENTITY  aboutDevtools.enable.learnMoreLink "વિકાસકર્તા સાધનો વિશે વધુ જાણો">
+<!ENTITY  aboutDevtools.enable.learnMoreLink "વિકાસકર્તા સાધનો વિશે વધુ શીખો">
 
 <!ENTITY  aboutDevtools.enable.enableButton "વિકાસકર્તા સાધનોને સક્ષમ કરો">
 <!ENTITY  aboutDevtools.enable.closeButton2 "આ ટૅબ બંધ કરો">
@@ -74,5 +74,5 @@
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
-<!ENTITY  aboutDevtools.footer.learnMoreLink "વધુ જાણો">
+<!ENTITY  aboutDevtools.footer.learnMoreLink "વધુ શીખો">
 
