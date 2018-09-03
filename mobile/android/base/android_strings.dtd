@@ -903,3 +903,4 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "&vendorShortName;-lokaasjetsjinst">
 <!ENTITY download_notification_channel "Downloads">
 <!ENTITY media_notification_channel "Media ôfspylje">
+<!ENTITY updater_notification_channel "App-fernijingen">
