@@ -5,6 +5,9 @@
 languages-window =
     .title = Γλώσσες
     .style = width: 32em
+webpage-languages-window =
+    .title = Ρυθμίσεις γλώσσας ιστοσελίδων
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Μερικές φορές, οι ιστοσελίδες προσφέρονται σε περισσότερες από μια γλώσσες. Επιλέξτε τις γλώσσες εμφάνισης αυτών των ιστοσελίδων, σε σειρά προτίμησης
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Ρυθμίσεις γλώσσας του { -brand-short-name }
+    .style = width: 40em

@@ -90,6 +90,9 @@ extension-controlled-privacy-containers = Μια επέκταση, το <img dat
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Μια επέκταση, το <img data-l10n-name="icon"/> { $name }, ελέγχει την προστασία από καταγραφή.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Μια επέκταση, το <img data-l10n-name="icon"/> { $name }, ελέγχει αυτή τη ρύθμιση.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Μια επέκταση, το <img data-l10n-name="icon"/> { $name }, ελέγχει τον τρόπο σύνδεσης του { -brand-short-name } με το διαδίκτυο.
@@ -203,6 +206,9 @@ choose-button =
     .label = Επιλογή...
     .accesskey = λ
 choose-browser-language-description = Επιλέξτε τις γλώσσες εμφάνισης μενού, μηνυμάτων και ειδοποιήσεων από το { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Ορισμός εναλλακτικών...
+    .accesskey = ν
 confirm-browser-language-change-description = Επανεκκίνηση του { -brand-short-name } για εφαρμογή αλλαγών
 confirm-browser-language-change-button = Εφαρμογή και επανεκκίνηση
 translate-web-pages =
@@ -623,6 +629,8 @@ sitedata-block-all-third-parties-option =
     .label = Όλα τα cookies τρίτων
 sitedata-block-always-option =
     .label = Όλα τα cookies (πιθανή δυσλειτουργία ιστοσελίδων)
+sitedata-block-all-option =
+    .label = Όλα τα cookies (θα προκαλέσει δυσλειτουργία ιστοσελίδων)
 sitedata-clear =
     .label = Εκκαθάριση δεδομένων...
     .accesskey = κ
@@ -688,6 +696,12 @@ content-blocking-tracking-protection-change-blocklist = Αλλαγή λίστα�
 content-blocking-tracking-protection-option-always =
     .label = Πάντα
     .accesskey = Π
+content-blocking-tracking-protection-option-private =
+    .label = Μόνο σε ιδιωτικά παράθυρα
+    .accesskey = ι
+content-blocking-tracking-protection-change-block-list = Αλλαγή λίστας φραγής
+content-blocking-reject-trackers-label = Cookies τρίτων
+    .accesskey = C
 content-blocking-reject-trackers-block-trackers-option =
     .label = Ιχνηλάτες
     .accesskey = λ
