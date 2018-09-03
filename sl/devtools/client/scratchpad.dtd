@@ -79,7 +79,6 @@
 <!ENTITY editMenu.accesskey           "U">
 
 <!ENTITY run.label                    "Zaženi">
-<!ENTITY run.accesskey                "P">
 <!ENTITY run.key                      "R">
 
 <!ENTITY inspect.label                "Preglej">
