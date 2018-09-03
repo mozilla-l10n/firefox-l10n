@@ -706,17 +706,25 @@ content-blocking-tracking-protection-change-blocklist = અવરોધ સૂ�
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-label = ધીમો-લોડિંગ ટ્રેકર
     .accesskey = S
+content-blocking-fastblock-new-description = ફક્ત એજ ટ્રેકર્સને અવરોધિત કરો કે જે પાનાંને ઝડપથી ખોલવાથી અટકાવે છે.
 content-blocking-tracking-protection-all-label = બધા શોધાયેલા ટ્રેકર્સ
     .accesskey = T
+content-blocking-tracking-protection-new-description = તમામ જાણીતા ટ્રેકર્સને અવરોધિત કરો. (કેટલાક પાનાંને લોડ થવાથી અટકાવી શકે છે.)
 content-blocking-tracking-protection-option-always =
     .label = હંમેશાં
     .accesskey = A
 content-blocking-tracking-protection-option-private =
     .label = ફકત ખાનગી વિંડોઝમાં જ
     .accesskey = P
+content-blocking-tracking-protection-change-block-list = અવરોધ સૂચિ બદલો
 content-blocking-reject-trackers-label = તૃતીય-પક્ષ કૂકીઝ
     .accesskey = C
 content-blocking-reject-trackers-description = તમામ તૃતીય-પક્ષની કૂકીઝને અથવા ફક્ત ટ્રેકર્સ દ્વારા સેટ કરેલ કૂકીઝને અવરોધિત કરો.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = કુકીઝ અને સાઇટ માહિતમાં તમારી સેટિંગ્સ તૃતીય-પક્ષ કૂકીઝ સેટિંગ્સમાં ફેરફારોને અટકાવી રહી છે.
 content-blocking-change-cookie-settings =
     .label = કૂકી સેટિંગ્સ બદલો
     .accesskey = S
