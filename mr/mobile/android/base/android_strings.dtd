@@ -900,3 +900,4 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "&vendorShortName; स्थान सेवा">
 <!ENTITY download_notification_channel "डाउनलोड">
 <!ENTITY media_notification_channel "मीडिया प्लेबॅक">
+<!ENTITY updater_notification_channel "अॅप अद्यतने">
