@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Estyniadau Cymeradwy
+cfr-doorhanger-extension-sumo-link =
+    .tooltiptext = Pam ydw i'n gweld hyn
 cfr-doorhanger-extension-cancel-button = Nid Nawr
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Ychwanegu Nawr
