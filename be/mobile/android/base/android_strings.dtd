@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Далей">
 
 <!ENTITY firstrun_tabqueue_title "Спасылкі">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Уключыць чаргу картак">
-<!ENTITY firstrun_tabqueue_subtext_off "Стаўце спасылкі ў чаргу, дакранаючыся іх у іншых праграмах, каб адкрыць іх пазней у &brandShortName;.">
-
-<!ENTITY firstrun_tabqueue_message_on "Поспех!">
-<!ENTITY firstrun_tabqueue_subtext_on "Вы заўсёды можаце адключыць яе ў меню &settings; у раздзеле &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Артыкулы">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "Перазапусціць &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Шукаць ці ўвесці адрас">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Аднаўленне картак, эканомія трафіку, інструменты распрацоўшчака">
 <!ENTITY pref_category_notifications "Апавяшчэнні">
-<!ENTITY pref_category_notifications_summary "Новыя магчымасці, абнаўленні сайтаў">
 <!ENTITY pref_category_notifications_summary2 "Новыя магчымасці, парады да прадукту">
 <!ENTITY pref_developer_remotedebugging_usb "Аддаленая адладка праз USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Аддаленая адладка праз Wi-Fi">
@@ -911,3 +903,4 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "Служба месцазнаходжання &vendorShortName;">
 <!ENTITY download_notification_channel "Сцягванні">
 <!ENTITY media_notification_channel "Прайграванне медыя">
+<!ENTITY updater_notification_channel "Абнаўленні праграмы">
