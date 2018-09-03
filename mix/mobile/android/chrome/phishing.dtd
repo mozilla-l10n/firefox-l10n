@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY safeb.palm.accept.label "Kee inka tsio">
-<!ENTITY safeb.palm.decline.label "Ma sa kuentaku tu'un yo'o">
+<!ENTITY safeb.palm.decline.label "Ma sakuentaku tu'un yo'o">
 <!ENTITY safeb.palm.reportPage.label "Chanu kueku kunu página yo'o">
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
 <!ENTITY safeb.palm.advisory.desc "Tu'un ña <a id='advisory_provider'/>">
