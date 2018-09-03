@@ -32,3 +32,4 @@
 <!ENTITY trackingProtection.startTour1                   "Sjen hoe't dit wurket">
 
 <!ENTITY contentBlocking.title                           "Ynhâldsblokkearring">
+<!ENTITY contentBlocking.description                     "Guon websites meitsje gebrûk fan trackers (‘folgers’) dy't jo aktiviteit op it ynternet byhâlde kinne. Yn priveefinsters blokkearret Ynhâldsblokkearring fan Firefox automatysk in protte trackers dy't ynformaasje oer jo sneupgedrach sammelje kinne.">

@@ -232,6 +232,7 @@ allinnich in befeilige ferbining meitsje mei. Hjirtroch is it net mooglik om in
 <!ENTITY blockedByPolicy.title "Blokkearre side">
 
 <!ENTITY clockSkewError.title "Jo kompjûterklok jout de ferkearde tiid oan">
+<!ENTITY clockSkewError.longDesc "Jo kompjûter tinkt dat it <span id='wrongSystemTime_systemDate1'/> is, wêrtroch &brandShortName; gjin befeilige ferbining mei <span class='hostname'></span> meitsje kin. Stel jo kompjûterklok yn nei de aktuele datum, tiid en tiidsône yn jo systeemynstellingen, en fernij dêrnei de side om <span class='hostname'></span> te besykjen.">
 
 <!ENTITY prefReset.longDesc "It liket derop dat dit troch jo netwurkbefeiligingsynstellingen feroarsake wurdt. Wolle jo de standertynstellingen werom bringe?">
 <!ENTITY prefReset.label "Standertynstellingen werom bringe">
