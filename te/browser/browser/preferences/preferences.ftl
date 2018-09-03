@@ -303,6 +303,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = నెట్‌వర్క్ ప్రాక్సీ
+network-settings-title = నెట్‌వర్క్ అమరికలు
 network-proxy-connection-learn-more = ఇంకా తెలుసుకోండి
 network-proxy-connection-settings =
     .label = అమరికలు…
@@ -536,9 +537,6 @@ history-dontremember-description = { -brand-short-name } గోప్య వీ�
 history-private-browsing-permanent =
     .label = ఎల్లప్పుడూ ఆంతరంగిక విహారణ రీతిని వాడు
     .accesskey = p
-history-remember-option =
-    .label = నా విహరణ, దింపుకోలు చరిత్రను గుర్తుంచుకో
-    .accesskey = b
 history-remember-browser-option =
     .label = విహరణ, దింపుకోలు చరిత్రను గుర్తుపెట్టుకో
     .accesskey = b
@@ -661,6 +659,14 @@ content-blocking-tracking-protection-option-pbm =
 content-blocking-tracking-protection-option-disabled =
     .label = ఎప్పుడూ నిరోధించవద్దు
 content-blocking-tracking-protection-change-blocklist = నిరోధపు జాబితాను మార్చండి…
+content-blocking-tracking-protection-option-always =
+    .label = ఎల్లప్పుడూ
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = అంతరంగిక కిటికీలలో మాత్రమే
+    .accesskey = p
+content-blocking-reject-trackers-label = మూడవ-పక్ష కుకీలు
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
