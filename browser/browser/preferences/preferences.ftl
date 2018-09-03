@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name }
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = İzlenme korumasını <img data-l10n-name="icon"/> { $name } adlı eklenti kontrol ediyor.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Bu ayarı <img data-l10n-name="icon"/> { $name } adlı eklenti yönetiyor.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = { -brand-short-name } tarayıcınızın internete nasıl bağlanacağını <img data-l10n-name="icon"/> { $name } adlı eklenti kontrol ediyor.
@@ -679,11 +682,6 @@ content-blocking-category-label = Nelerin engelleneceğini seçin
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Yavaş takipçi öğeleri
     .accesskey = Y
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Yavaş yüklenen takipçiler
-    .accesskey = Y
 content-blocking-fastblock-description = Yüklenmesi 5 saniyeden uzun süren üçüncü taraf içeriklerini engeller.
 content-blocking-fastblock-option-enabled =
     .label = Her zaman engelle
@@ -691,8 +689,6 @@ content-blocking-fastblock-option-disabled =
     .label = Asla engelleme
 content-blocking-tracking-protection-label = Takipçiler
     .accesskey = T
-content-blocking-tracking-protection-all-label = Bulunan tüm takipçiler
-    .accesskey = B
 content-blocking-tracking-protection-description = Bilinen tüm takipçileri engeller (Not: Bazı sayfaların yüklenmesini de engelleyebilir.)
 content-blocking-tracking-protection-option-enabled =
     .label = Her zaman engelle
@@ -700,24 +696,24 @@ content-blocking-tracking-protection-option-pbm =
     .label = Yalnızca gizli pencerelerde engelle
 content-blocking-tracking-protection-option-disabled =
     .label = Asla engelleme
+content-blocking-tracking-protection-change-blocklist = Engelleme listesini değiştir…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Yavaş yüklenen takipçiler
+    .accesskey = Y
+content-blocking-tracking-protection-all-label = Bulunan tüm takipçiler
+    .accesskey = B
 content-blocking-tracking-protection-option-always =
     .label = Her zaman
     .accesskey = H
 content-blocking-tracking-protection-option-private =
     .label = Yalnızca gizli pencerelerde
     .accesskey = z
-content-blocking-tracking-protection-change-blocklist = Engelleme listesini değiştir…
+content-blocking-tracking-protection-change-block-list = Engelleme listesini değiştir
 content-blocking-reject-trackers-label = Üçüncü taraf çerezleri
     .accesskey = Ü
 content-blocking-reject-trackers-description = Tüm üçüncü taraf çerezlerini veya yalnızca takipçilerin oluşturduğu çerezleri engelleyebilirsiniz.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = Şu anda tüm çerezler engellenmektedir.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Ziyaret etmediğiniz sitelerden gelen çerezler engellenmektedir.
 content-blocking-change-cookie-settings =
     .label = Çerez ayarlarını değiştir
     .accesskey = z
