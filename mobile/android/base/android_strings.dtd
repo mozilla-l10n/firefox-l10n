@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "తదుపరి">
 
 <!ENTITY firstrun_tabqueue_title "లంకెలు">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "టాబ్ క్యూ ఆన్ చేయండి">
-<!ENTITY firstrun_tabqueue_subtext_off "ఇతర ఆప్స్ ని నొక్కేటప్పుడు తరువాత &brandShortName; కోసం లింకులు సేవ్ చేయండి.">
-
-<!ENTITY firstrun_tabqueue_message_on "విజయవంతం!">
-<!ENTITY firstrun_tabqueue_subtext_on "మీరు ఎల్లప్పుడూ &settings; లో &pref_category_general; కింద ఆఫ్ చెయ్యవచ్చు.">
 
 <!ENTITY firstrun_readerview_title "వ్యాసాలు">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "&brandShortName; పునఃప్రారంభించు">
 
 <!ENTITY url_bar_default_text2 "వెతకండి లేదా చిరునామాను ఇవ్వండి">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ట్యాబుల పునరుద్ధరణ, డేటా సేవర్, డెవలపర్ టూల్స్">
 <!ENTITY pref_category_notifications "గమనింపులు">
-<!ENTITY pref_category_notifications_summary "కొత్త సౌలభ్యాలు, వెబ్‌సైటు తాజాకరణలు">
 <!ENTITY pref_category_notifications_summary2 "కొత్త విశేషాలు, ఉత్పత్తి చిట్కాలు">
 <!ENTITY pref_developer_remotedebugging_usb "USB ద్వారా రిమోట్ డీబగ్గింగ్">
 <!ENTITY pref_developer_remotedebugging_wifi "వై-ఫై ద్వారా రిమోట్ డీబగ్గింగ్">
@@ -911,3 +903,4 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "&vendorShortName; స్థాన సేవ">
 <!ENTITY download_notification_channel "దింపుకోళ్ళు">
 <!ENTITY media_notification_channel "మీడియా ప్లేబ్యాక్">
+<!ENTITY updater_notification_channel "అనువర్తన తాజాకరణలు">
