@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = Una extensión, <img data-l10n-name="i
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Una extensión, <img data-l10n-name="icon"/> { $name }, está controlando la protección de rastreo.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Una extensión, <img data-l10n-name="icon"> { $name }, está controlando esta configuración.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Una extensión, <img data-l10n-name="icon"/> { $name }, está controlando cómo { -brand-short-name } se conecta a Internet.
@@ -679,19 +682,12 @@ content-blocking-category-label = Elegir qué bloquear
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Elementos de rastreo lento
     .accesskey = S
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Rastreadores de carga lenta
-    .accesskey = S
 content-blocking-fastblock-description = Bloquea el contenido de terceros que tardan más de 5 segundos en cargarse.
 content-blocking-fastblock-option-enabled =
     .label = Bloquear siempre
 content-blocking-fastblock-option-disabled =
     .label = Nunca bloquear
 content-blocking-tracking-protection-label = Rastreadores
-    .accesskey = T
-content-blocking-tracking-protection-all-label = Todos los Rastreadores detectados
     .accesskey = T
 content-blocking-tracking-protection-description = Bloquea todos los rastreadores conocidos (Nota: también puede impedir que se carguen las páginas).
 content-blocking-tracking-protection-option-enabled =
@@ -700,24 +696,23 @@ content-blocking-tracking-protection-option-pbm =
     .label = Bloquear solo en ventanas privadas
 content-blocking-tracking-protection-option-disabled =
     .label = Nunca bloquear
+content-blocking-tracking-protection-change-blocklist = Cambiar la lista de bloqueo…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Rastreadores de carga lenta
+    .accesskey = S
+content-blocking-tracking-protection-all-label = Todos los Rastreadores detectados
+    .accesskey = T
 content-blocking-tracking-protection-option-always =
     .label = Siempre
     .accesskey = A
 content-blocking-tracking-protection-option-private =
     .label = Solo en ventanas privadas
     .accesskey = p
-content-blocking-tracking-protection-change-blocklist = Cambiar la lista de bloqueo…
 content-blocking-reject-trackers-label = Cookies de terceros
     .accesskey = C
 content-blocking-reject-trackers-description = Bloquear todas las cookies de terceros o solo aquellas establecidas por los rastreadores.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = Todas las cookies están bloqueadas ahora.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Las cookies de sitios sin visitar están bloqueadas ahora.
 content-blocking-change-cookie-settings =
     .label = Cambiar la configuración de las cookies
     .accesskey = S
