@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.connected.title "Cuenta ña Firefox ">
-<!ENTITY aboutAccounts.connected.description "Ni kitaun tana">
-<!ENTITY aboutAccounts.syncPreferences.label "Katavi yoo tava ku kuncheu nu nda samu sincronización">
+<!ENTITY aboutAccounts.connected.title "Kuenta Firefox">
+<!ENTITY aboutAccounts.connected.description "Ni kivu tana">
+<!ENTITY aboutAccounts.syncPreferences.label "Katavi yoo tava ku kuncheu nu samu sincronización">
 
 <!ENTITY aboutAccounts.noConnection.title "Koo conexion internet">
-<!ENTITY aboutAccounts.retry.label "ki'tsàa tuku">
+<!ENTITY aboutAccounts.retry.label "Kitsàa tuku">
 
 <!ENTITY aboutAccounts.restrictedError.title "Restringir">
-<!ENTITY aboutAccounts.restrictedError.description "Ma ku ndasamu cuenta Firefox yoo.">
+<!ENTITY aboutAccounts.restrictedError.description "Maku samu Kuenta Firefox.">
