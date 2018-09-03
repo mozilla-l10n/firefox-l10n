@@ -644,6 +644,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Excepciones…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Sus configuraciones en el Bloqueo de contenido están impidiendo el cambio de las configuraciones de las cookies y datos del sitio.
 
 ## Privacy Section - Address Bar
 
@@ -702,17 +706,25 @@ content-blocking-tracking-protection-change-blocklist = Cambiar la lista de bloq
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-label = Rastreadores de carga lenta
     .accesskey = S
+content-blocking-fastblock-new-description = Bloquear sólo los rastreadores que impidan a las páginas cargar rápidamente.
 content-blocking-tracking-protection-all-label = Todos los Rastreadores detectados
     .accesskey = T
+content-blocking-tracking-protection-new-description = Bloquear todos los rastreadores conocidos. (Puede impedir que se carguen algunas páginas).
 content-blocking-tracking-protection-option-always =
     .label = Siempre
     .accesskey = A
 content-blocking-tracking-protection-option-private =
     .label = Solo en ventanas privadas
     .accesskey = p
+content-blocking-tracking-protection-change-block-list = Cambiar la lista de bloqueo
 content-blocking-reject-trackers-label = Cookies de terceros
     .accesskey = C
 content-blocking-reject-trackers-description = Bloquear todas las cookies de terceros o solo aquellas establecidas por los rastreadores.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Sus configuraciones en cookies y datos de sitio están impidiendo cambios en las configuraciones de las cookies de terceros.
 content-blocking-change-cookie-settings =
     .label = Cambiar la configuración de las cookies
     .accesskey = S
