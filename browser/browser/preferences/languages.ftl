@@ -43,5 +43,5 @@ languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window =
     .title = { -brand-short-name } भाषा सेटिंग
-    .style = चौड़ाई: 40em
+    .style = width: 40em
 browser-languages-description = { -brand-short-name } पहली भाषा को आपके तयशुदा के रूप में प्रदर्शित करेगा और यदि वे दिखाई देने वाले क्रम में आवश्यक हों तो वैकल्पिक भाषाएँ प्रदर्शित करेगा।
