@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = Mae estyniad, <img data-l10n-name="ico
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Mae estyniad, <img data-l10n-name="icon"/> { $name }, yn rheoli diogelwch rhag tracio.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Mae estyniad, <img data-l10n-name="icon"/> { $name }, yn rheoli'r gosodiad hwn.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Mae estyniad, <img data-l10n-name="icon"/> { $name }, yn rheoli sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
@@ -653,6 +656,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Eithriadau…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Mae eich gosodiadau yn Rhwystro Cynnwys yn atal newidiadau i osodiadau Cwcis a Data Gwefan.
 
 ## Privacy Section - Address Bar
 
@@ -691,11 +698,6 @@ content-blocking-category-label = Dewis beth i'w rwystro
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Elfennau Tracio Araf
     .accesskey = E
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Tracwyr sy'n Llwytho'n Araf
-    .accesskey = L
 content-blocking-fastblock-description = Yn rhwystro cynnwys trydydd parti sy'n cymryd mwy na 5 eiliad i lwytho.
 content-blocking-fastblock-option-enabled =
     .label = Rhwystro bob tro
@@ -703,8 +705,6 @@ content-blocking-fastblock-option-disabled =
     .label = Byth rhwystro
 content-blocking-tracking-protection-label = Tracwyr
     .accesskey = T
-content-blocking-tracking-protection-all-label = Pob Traciwr wedi eu Canfod
-    .accesskey = P
 content-blocking-tracking-protection-description = Rhwystro pob traciwr hysbys (Sylw: gall rwystro rhai tudalennau rhag llwytho).
 content-blocking-tracking-protection-option-enabled =
     .label = Rhwystro bob tro
@@ -712,24 +712,31 @@ content-blocking-tracking-protection-option-pbm =
     .label = Rhwystro mewn ffenestri preifat yn unig
 content-blocking-tracking-protection-option-disabled =
     .label = Byth rhwystro
+content-blocking-tracking-protection-change-blocklist = Newid y Rhestr Rhwystro...
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Tracwyr sy'n Llwytho'n Araf
+    .accesskey = L
+content-blocking-fastblock-new-description = Rhwystro dim ond y tracwyr sy'n atal tudalennau rhag llwytho'n gyflym.
+content-blocking-tracking-protection-all-label = Pob Traciwr wedi eu Canfod
+    .accesskey = P
+content-blocking-tracking-protection-new-description = Rhwystro pob traciwr hysbys. (Efallai y bydd yn atal rhai tudalennau rhag llwytho.)
 content-blocking-tracking-protection-option-always =
     .label = Bob tro
     .accesskey = B
 content-blocking-tracking-protection-option-private =
     .label = Dim ond mewn ffenestri preifat
     .accesskey = D
-content-blocking-tracking-protection-change-blocklist = Newid y Rhestr Rhwystro...
+content-blocking-tracking-protection-change-block-list = Newid y rhestr rhwystro
 content-blocking-reject-trackers-label = Cwcis Trydydd Parti
     .accesskey = C
 content-blocking-reject-trackers-description = Rhwystro pob cwci trydydd parti neu dim ond y rheini sydd wedi eu gosod gan dracwyr.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = Mae pob cwci wedi eu rhwystro ar hyn o bryd.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Mae cwcis o wefannau heb ymweld â nhw wedi eu rhwystro ar hyn o bryd.
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Mae eich gosodiadau yn Cwcis a Data Gwefan yn atal newidiadau i osodiadau Cwcis Trydydd Parti.
 content-blocking-change-cookie-settings =
     .label = Newid y Gosodiadau Cwci
     .accesskey = N
