@@ -20,15 +20,13 @@
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "&brandShortName; પરીક્ષણ છે માટે એ અસ્થાયી હોઇ શકે.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "&brandShortName; ને સારું બનાવવામાં મદદ કરવા માટે તે &vendorShortName; ને આપોઆપ તપાસ જાણકારી પાછી મોકલે છે.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " એ ">
-<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!-- LOCALIZATION NOTE (community.exp.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "વૈશ્વિક સમુદાય">
 <!ENTITY community.exp.end          " કે જે વેબને બધા માટે મુક્ત, જાહેર અને સુલભ બનાવી રાખવા માટે ભેગો કામ કરે છે.">
 
@@ -41,7 +39,7 @@
 <!ENTITY community.end3             " વેબને બધા માટે મુક્ત, જાહેર અને સુલભ બનાવી રાખવા માટે ભેગા કામ કરીએ છીએ.">
 
 <!ENTITY helpus.start               "મદદ કરવા માંગો છો?">
-<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://donate.mozilla.org/?utm_source=firefox&utm_medium=referral&utm_campaign=firefox_about&utm_content=firefox_about. -->
 <!ENTITY helpus.donateLink          "દાન આપો">
 <!ENTITY helpus.middle              "અથવા">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
@@ -92,7 +90,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 <!ENTITY update.unsupported.start    "તમે આ સિસ્ટમ પર આગળનાં સુધારા ચલાવી શકતા નથી. ">
-<!ENTITY update.unsupported.linkText "વધારે શીખો">
+<!ENTITY update.unsupported.linkText "વધુ શીખો">
 <!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and

@@ -48,7 +48,7 @@ serviceworker-worker-status-stopped = બંધ કરી દીધું
 serviceworker-worker-status-registering = રજિસ્ટર થાય છે
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = અહીં તેની તપાસ કરવા માટે તમારે Service Worker ને નોંધણી કરાવવાની જરૂર છે. <a>વધુ જાણો</a>
+serviceworker-empty-intro = અહીં તેની તપાસ કરવા માટે તમારે Service Worker ને નોંધણી કરાવવાની જરૂર છે. <a>વધુ શીખો</a>
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 serviceworker-empty-suggestions = જો વર્તમાન પૃષ્ઠ પાસે એક સેવા કાર્યકર હોવું જોઈએ, તો અહીં કેટલીક વસ્તુઓ છે જે તમે પ્રયાસ કરી શકો છો

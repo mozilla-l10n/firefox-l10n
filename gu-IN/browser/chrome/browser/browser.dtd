@@ -811,7 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "હમણાં માટે રક્ષણ અક્ષમ કરો">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-<!ENTITY identity.learnMore "વધારે શીખો">
+<!ENTITY identity.learnMore "વધુ શીખો">
 
 <!ENTITY identity.removeCertException.label "અપવાદ દૂર કરો">
 <!ENTITY identity.removeCertException.accesskey "R">
@@ -1054,7 +1054,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "સલામત બ્રાઉઝિંગ!">
 <!ENTITY panicButton.thankyou.buttonlabel         "આભાર!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "DRM વિશે વધુ જાણો…">
+<!ENTITY emeLearnMoreContextMenu.label            "DRM વિશે વધુ શીખો…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.message "તમારું &brandShorterName; અપડેટ કરો; ઝડપ અને ગોપનીયતા માં તાજેતરની માટે.">

@@ -8,6 +8,7 @@ cfr-doorhanger-extension-cancel-button = હમણાં નહિ
     .accesskey = N
 cfr-doorhanger-extension-ok-button = હમણાંજ ઉમેરો
     .accesskey = A
+cfr-doorhanger-extension-learn-more-link = વધુ શીખો
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name

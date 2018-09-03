@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = એક્સ્ટેંશન, <img d
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = એક્સ્ટેન્શન, <img data-l10n-name="icon"/> { $name }, ટ્રેકિંગ સંરક્ષણને નિયંત્રિત કરી રહ્યું છે.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = એક્સ્ટેન્શન, <img data-l10n-name="icon"/>{ $name }, આ સેટિંગને નિયંત્રિત કરી રહ્યું છે.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = એક એક્સ્ટેન્શન, <img data-l10n-name="icon"/> { $name }, નિયંત્રિત કરી રહ્યું છે કે { -brand-short-name } કેવી રીતે ઇન્ટરનેટ સાથે જોડાય છે.
@@ -641,6 +644,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = અપવાદો...
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = સામગ્રી અવરોધમાંની તમારી સેટિંગ્સ કૂકીઝ અને સાઇટ માહિતી સેટિંગ્સમાં ફેરફારોને અટકાવી રહી છે.
 
 ## Privacy Section - Address Bar
 
@@ -820,11 +827,11 @@ collection-health-report-disabled = આ તૈચાર કરેલ રૂપ�
 collection-browser-errors =
     .label = { -brand-short-name } ને Mozilla માટે બ્રાઉઝર ભૂલ અહેવાલો (ભૂલ સંદેશાઓ સહિત) { -vendor-short-name } ને મોકલવા માટે મંજૂરી આપો
     .accesskey = b
-collection-browser-errors-link = વધુ જાણો
+collection-browser-errors-link = વધુ શીખો
 collection-backlogged-crash-reports =
     .label = તમારા વતી { -brand-short-name } ને બૅકલોગ ક્રેશ રિપોર્ટ્સ મોકલવાની મંજૂરી આપો
     .accesskey = c
-collection-backlogged-crash-reports-link = વધુ જાણો
+collection-backlogged-crash-reports-link = વધુ શીખો
 
 ## Privacy Section - Security
 ##

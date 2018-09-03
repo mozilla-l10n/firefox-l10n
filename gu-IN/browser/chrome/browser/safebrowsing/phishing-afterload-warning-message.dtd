@@ -28,7 +28,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> એ <a id='error_desc_link'>દૂષિત સૉફ્ટવેર ધરાવતી હોવા તરીકે જાણ કરવામાં આવી છે</a>. તમે <a id='report_detection'>શોધ સમસ્યાની જાણ</a>કરી શકો છો.">
 
-<!ENTITY safeb.blocked.malwarePage.learnMore "વાયરસ અને અન્ય મૉલવેર સહિતના હાનિકારક વેબ સામગ્રી અને <a id='learn_more_link'>StopBadware.org</a> પર તમારા કમ્પ્યુટરને કેવી રીતે સુરક્ષિત કરવું તે વિશે વધુ જાણો. <a id='firefox_support'>support.mozilla.org</a> પર &brandShortName; ના ફિશિંગ અને માલવેર સુરક્ષા વિશે વધુ જાણો.">
+<!ENTITY safeb.blocked.malwarePage.learnMore "વાયરસ અને અન્ય મૉલવેર સહિતના હાનિકારક વેબ સામગ્રી અને <a id='learn_more_link'>StopBadware.org</a> પર તમારા કમ્પ્યુટરને કેવી રીતે સુરક્ષિત કરવું તે વિશે વધુ શીખો. <a id='firefox_support'>support.mozilla.org</a> પર &brandShortName; ના ફિશિંગ અને માલવેર સુરક્ષા વિશે વધુ જાણો.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "આગળની સાઇટમાં હાનિકારક પ્રોગ્રામ્સ હોઈ શકે છે">
@@ -40,7 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> એ <a id='error_desc_link'>હાનિકારક સૉફ્ટવેર શામેલ હોવા તરીકે અહેવાલ છે </a>.">
 
-<!ENTITY safeb.blocked.unwantedPage.learnMore "હાનિકારક અને અનિચ્છિત સૉફ્ટવેર વિશે <a id='learn_more_link'>અનિચ્છિત સૉફ્ટવેર નીતિ</a>પર વધુ જાણો. <a id='firefox_support'>support.mozilla.org</a>પર &brandShortName; ના ફિશિંગ અને માલવેર સુરક્ષા વિશે વધુ જાણો.">
+<!ENTITY safeb.blocked.unwantedPage.learnMore "હાનિકારક અને અનિચ્છિત સૉફ્ટવેર વિશે <a id='learn_more_link'>અનિચ્છિત સૉફ્ટવેર નીતિ</a>પર વધુ શીખો. <a id='firefox_support'>support.mozilla.org</a>પર &brandShortName; ના ફિશિંગ અને માલવેર સુરક્ષા વિશે વધુ જાણો.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "આગળની સાઈટ ભ્રામક છે">
@@ -51,7 +51,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> એ <a id='error_desc_link'>એક કપટપૂર્ણ સાઇટ તરીકે રિપોર્ટ કરેલું </a>છે. તમે <a id='report_detection'>શોધ સમસ્યાની જાણ કરી શકો છો</a>.">
 
-<!ENTITY safeb.blocked.phishingPage.learnMore "ભ્રામક સાઇટ્સ અને ફિશિંગ વિશે વધુ માહિતી <a id='learn_more_link'>www.antiphishing.org</a> પર જાણો. <a id='firefox_support'>support.mozilla.org </a> પર &brandShortName; ના ફિશિંગ અને માલવેર સુરક્ષા વિશે વધુ જાણો.">
+<!ENTITY safeb.blocked.phishingPage.learnMore "ભ્રામક સાઇટ્સ અને ફિશિંગ વિશે વધુ માહિતી <a id='learn_more_link'>www.antiphishing.org</a> પર શીખો. <a id='firefox_support'>support.mozilla.org </a> પર &brandShortName; ના ફિશિંગ અને માલવેર સુરક્ષા વિશે વધુ જાણો.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "આગળ સાઇટમાં માલવેર શામેલ હોઈ શકે છે">
@@ -62,4 +62,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> એ <a id='error_desc_link'>સંભવિત રૂપે નુકસાનકારક એપ્લિકેશન ધરાવતી હોવાના અહેવાલ છે</a>.">
 
-<!ENTITY safeb.blocked.harmfulPage.learnMore "વધુ જાણો &brandShortName;ના ફિશિંગ અને માલવેર સુરક્ષા વિશે <a id='firefox_support'>support.mozilla.org</a>પર.">
+<!ENTITY safeb.blocked.harmfulPage.learnMore "વધુ શીખો &brandShortName;ના ફિશિંગ અને માલવેર સુરક્ષા વિશે <a id='firefox_support'>support.mozilla.org</a>પર.">
