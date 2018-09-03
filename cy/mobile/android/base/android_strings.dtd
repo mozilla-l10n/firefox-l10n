@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Nesaf">
 
 <!ENTITY firstrun_tabqueue_title "Dolenni">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Agor ciw Tabiau">
-<!ENTITY firstrun_tabqueue_subtext_off "Cadw\&apos;r dolenni ar gyfer hwyrach ymlaen yn &brandShortName; wrth eu tapio mewn apiau eraill.">
-
-<!ENTITY firstrun_tabqueue_message_on "Llwyddiant!">
-<!ENTITY firstrun_tabqueue_subtext_on "Mae modd diffodd hyn yn y &settings; o dan &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Erhyglau">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "Ailgychwyn &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Chwilio neu gyfeiriad gwe">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Adfer tabiau, arbedwr data, offer datblygwyr">
 <!ENTITY pref_category_notifications "Hysbysiadau">
-<!ENTITY pref_category_notifications_summary "Nodweddion newydd, diweddariadau gwefan">
 <!ENTITY pref_category_notifications_summary2 "Nodweddion newydd, awgrymiadau cynnyrch">
 <!ENTITY pref_developer_remotedebugging_usb "Dadfygio pell drwy USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Dadfygio pell drwy\&apos;r diwifr">
@@ -908,3 +900,4 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "Gwasanaeth Lleoli &vendorShortName;">
 <!ENTITY download_notification_channel "Llwythau">
 <!ENTITY media_notification_channel "Chwarae cyfwng">
+<!ENTITY updater_notification_channel "Diweddaru apiau">
