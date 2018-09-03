@@ -5,6 +5,9 @@
 languages-window =
     .title = భాషలు
     .style = width: 30em
+webpage-languages-window =
+    .title = వెబ్‌పేజీ భాష అమరికలు
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = జాల పేజీలు కొన్నిసార్లు ఒకటి కన్నా ఎక్కువ భాషలలో లభ్యమవుతాయి. ఏయే భాషలలో జాల పేజీలను చూపించాలో ఆ క్రమంలో భాషలను ఎంచుకోండి
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } భాష అమరికలు
+    .style = width: 40em
