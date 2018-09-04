@@ -704,10 +704,12 @@ content-blocking-tracking-protection-change-blocklist = Alterar lista de bloquei
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Trackers de carregamento lento
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Trackers de carregamento lento
     .accesskey = s
 content-blocking-fastblock-new-description = Bloquear apenas os trackers que impedem as páginas de carregar rapidamente.
-content-blocking-tracking-protection-all-label = Todos os trackers detetados
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Todos os trackers detetados
     .accesskey = T
 content-blocking-tracking-protection-new-description = Bloquear todos os trackers conhecidos. (Pode impedir algumas páginas de carregar.)
 content-blocking-tracking-protection-option-always =
@@ -717,7 +719,8 @@ content-blocking-tracking-protection-option-private =
     .label = Apenas em janelas privadas
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Alterar lista de bloqueio
-content-blocking-reject-trackers-label = Cookies de terceiros
+content-blocking-third-party-cookies-label =
+    .label = Cookies de terceiros
     .accesskey = C
 content-blocking-reject-trackers-description = Bloquear todos os cookies de terceiros ou apenas aqueles definidos por trackers.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
