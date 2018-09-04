@@ -46,5 +46,7 @@
 <!ENTITY  socksRemoteDNS.label          "Utiliser un DNS distant lorsque SOCKS v5 est actif">
 <!ENTITY  socksRemoteDNS.accesskey      "r">
 <!ENTITY  dnsOverHttps.label            "Activer DNS via HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "d">
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "L">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL pour la résolution DNS via HTTPS">
