@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name }
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = <img data-l10n-name="icon"/> { $name } 확장기능이 추적 방지 기능을 제어하고 있습니다.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = <img data-l10n-name="icon"/> { $name } 확장기능이 이 설정을 제어하고 있습니다.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } 확장기능이 { -brand-short-name }가 인터넷에 접근하는 방법을 제어하고 있습니다.
@@ -629,6 +632,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = 예외 목록…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = 콘텐츠 차단 설정이 쿠키와 사이트 데이타 설정의 변경을 막고 있습니다.
 
 ## Privacy Section - Address Bar
 
@@ -667,19 +674,12 @@ content-blocking-category-label = 차단할 대상 선택
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = 느린 추적 요소
     .accesskey = S
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = 느리게 로딩되는 추적기
-    .accesskey = S
 content-blocking-fastblock-description = 읽는데 5초이상 걸리는 제3자 콘텐츠를 차단합니다.
 content-blocking-fastblock-option-enabled =
     .label = 항상 차단
 content-blocking-fastblock-option-disabled =
     .label = 차단하지 않음
 content-blocking-tracking-protection-label = 추적자
-    .accesskey = T
-content-blocking-tracking-protection-all-label = 모든 감지된 추적기
     .accesskey = T
 content-blocking-tracking-protection-description = 알려진 모든 추적자를 차단합니다(참고: 일부 페이지가 로드되지 않을 수 있습니다).
 content-blocking-tracking-protection-option-enabled =
@@ -688,24 +688,31 @@ content-blocking-tracking-protection-option-pbm =
     .label = 사생활 보호 창에서만 차단
 content-blocking-tracking-protection-option-disabled =
     .label = 차단하지 않음
+content-blocking-tracking-protection-change-blocklist = 차단 목록 변경…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = 느리게 로딩되는 추적기
+    .accesskey = S
+content-blocking-fastblock-new-description = 페이지가 더 빨리 뜰 수 있도록 추적기를 차단해보세요.
+content-blocking-tracking-protection-all-label = 모든 감지된 추적기
+    .accesskey = T
+content-blocking-tracking-protection-new-description = 알려진 모든 추적기를 차단합니다. (몇몇 페이지가 로딩되지 않을 수 있습니다.)
 content-blocking-tracking-protection-option-always =
     .label = 항상
     .accesskey = A
 content-blocking-tracking-protection-option-private =
     .label = 사생활 보호 창에서만
     .accesskey = P
-content-blocking-tracking-protection-change-blocklist = 차단 목록 변경…
+content-blocking-tracking-protection-change-block-list = 차단 목록 변경
 content-blocking-reject-trackers-label = 제3자 쿠키
     .accesskey = C
 content-blocking-reject-trackers-description = 모든 제3자 쿠키나 추적기에 의해 설정된 쿠기를 차단합니다.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = 모든 쿠키가 차단되었습니다.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = 방문하지 않은 웹사이트의 쿠키가 차단되었습니다.
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = 쿠키와 사이트 데이타 설정이 제3자 쿠키 설정의 변경을 막고 있습니다.
 content-blocking-change-cookie-settings =
     .label = 쿠키 설정 변경
     .accesskey = S
