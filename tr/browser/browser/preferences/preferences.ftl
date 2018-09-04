@@ -700,9 +700,11 @@ content-blocking-tracking-protection-change-blocklist = Engelleme listesini değ
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Yavaş yüklenen takipçiler
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Yavaş yüklenen takipçiler
     .accesskey = Y
-content-blocking-tracking-protection-all-label = Bulunan tüm takipçiler
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Bulunan tüm takipçiler
     .accesskey = B
 content-blocking-tracking-protection-option-always =
     .label = Her zaman
@@ -711,7 +713,8 @@ content-blocking-tracking-protection-option-private =
     .label = Yalnızca gizli pencerelerde
     .accesskey = z
 content-blocking-tracking-protection-change-block-list = Engelleme listesini değiştir
-content-blocking-reject-trackers-label = Üçüncü taraf çerezleri
+content-blocking-third-party-cookies-label =
+    .label = Üçüncü taraf çerezleri
     .accesskey = Ü
 content-blocking-reject-trackers-description = Tüm üçüncü taraf çerezlerini veya yalnızca takipçilerin oluşturduğu çerezleri engelleyebilirsiniz.
 content-blocking-change-cookie-settings =
