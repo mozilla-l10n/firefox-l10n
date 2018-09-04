@@ -623,6 +623,10 @@ sitedata-block-all-third-parties-option =
     .label = Tous les cookies tiers
 sitedata-block-always-option =
     .label = Tous les cookies (peut provoquer des problèmes avec certains sites web)
+sitedata-block-all-third-party-option =
+    .label = Tous les cookies tiers (peut empêcher certains sites de fonctionner)
+sitedata-block-all-option =
+    .label = Tous les cookies (empêchera des sites de fonctionner)
 sitedata-clear =
     .label = Effacer les données…
     .accesskey = E
@@ -632,6 +636,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Exceptions…
     .accesskey = x
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Vos paramètres de blocage de contenu empêchent la modification des paramètres sur les cookies et les données de sites.
 
 ## Privacy Section - Address Bar
 
@@ -685,6 +693,24 @@ content-blocking-tracking-protection-option-pbm =
 content-blocking-tracking-protection-option-disabled =
     .label = Ne jamais bloquer
 content-blocking-tracking-protection-change-blocklist = Modifier la liste de blocage…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-label = Traqueurs lents à charger
+    .accesskey = g
+content-blocking-fastblock-new-description = Ne bloquer que les traqueurs qui empêchent les pages de se charger rapidement.
+content-blocking-tracking-protection-all-label = Tous les traqueurs détectés
+    .accesskey = q
+content-blocking-tracking-protection-new-description = Bloque tous les traqueurs connus. (Peut empêcher certaines pages de se charger.)
+content-blocking-tracking-protection-option-always =
+    .label = Toujours
+    .accesskey = T
+content-blocking-tracking-protection-option-private =
+    .label = Uniquement en navigation privée
+    .accesskey = v
+content-blocking-tracking-protection-change-block-list = Changer la liste de blocage
+content-blocking-reject-trackers-label = Cookies tiers
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
