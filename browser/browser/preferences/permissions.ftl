@@ -72,6 +72,10 @@ permissions-exceptions-saved-logins-window =
 
 permissions-exceptions-addons-desc = Pues especificar dende qué sitios web ta permitío instalar complementos. Escribi la direición exauta del sitiu que quies permitir y calca Permitir.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-desc = Pues especificar los sitios web que tienen permisu pa reproducir automáticamente elementos multimedia. Teclexa la direición exauta del sitiu web que quies permitir y darréu fai clic en Permitir.
+
 ## Site Permissions - Notifications
 
 
@@ -83,3 +87,4 @@ permissions-exceptions-addons-desc = Pues especificar dende qué sitios web ta p
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-desc = Los sitios web de darréu solicitaron l'accesu al micrófonu. Pues especificar los sitios web que tienen permisu p'acceder a elli. Tamién pues bloquiar les solicitúes nueves que pidan l'accesu al micrófonu.
