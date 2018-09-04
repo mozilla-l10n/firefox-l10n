@@ -639,3 +639,4 @@
 <!ENTITY download_notification_channel "Pobrane pliki">
 <!ENTITY media_notification_channel "Odtwarzanie multimediów">
 <!ENTITY updater_notification_channel "Aktualizacje aplikacji">
+<!ENTITY synced_tabs_notification_channel "Zsynchronizowane karty">
