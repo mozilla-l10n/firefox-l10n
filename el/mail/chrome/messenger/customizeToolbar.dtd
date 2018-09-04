@@ -13,6 +13,6 @@
 <!ENTITY useSmallIcons.label      "Χρήση Μικρών Εικονιδίων">
 <!ENTITY restoreDefaultSet.label  "Επαναφορά προεπιλεγμένου σετ">
 <!ENTITY addNewToolbar.label      "Προσθήκη νέας γραμμής εργαλείων">
-<!ENTITY showTitltbar.label       "Εμφάνιση γραμμής τίτλου">
+<!ENTITY showTitlebar.label       "Εμφάνιση γραμμής τίτλου">
 <!ENTITY saveChanges.label        "Έτοιμο">
 <!ENTITY undoChanges.label        "Ακύρωση Αλλαγών">
