@@ -716,10 +716,12 @@ content-blocking-tracking-protection-change-blocklist = Newid y Rhestr Rhwystro.
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Tracwyr sy'n Llwytho'n Araf
-    .accesskey = L
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Tracwyr Llwytho'n Araf
+    .accesskey = A
 content-blocking-fastblock-new-description = Rhwystro dim ond y tracwyr sy'n atal tudalennau rhag llwytho'n gyflym.
-content-blocking-tracking-protection-all-label = Pob Traciwr wedi eu Canfod
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Pob Traciwr wedi ei Ganfod
     .accesskey = P
 content-blocking-tracking-protection-new-description = Rhwystro pob traciwr hysbys. (Efallai y bydd yn atal rhai tudalennau rhag llwytho.)
 content-blocking-tracking-protection-option-always =
@@ -729,7 +731,8 @@ content-blocking-tracking-protection-option-private =
     .label = Dim ond mewn ffenestri preifat
     .accesskey = D
 content-blocking-tracking-protection-change-block-list = Newid y rhestr rhwystro
-content-blocking-reject-trackers-label = Cwcis Trydydd Parti
+content-blocking-third-party-cookies-label =
+    .label = Cwcis Trydydd Parti
     .accesskey = C
 content-blocking-reject-trackers-description = Rhwystro pob cwci trydydd parti neu dim ond y rheini sydd wedi eu gosod gan dracwyr.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
