@@ -21,7 +21,9 @@ policy-DisableFirefoxAccounts = 停用 { -fxaccount-brand-name } 相關服務，
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = 停用 Firefox Screenshots 功能。
 policy-DisableFirefoxStudies = 防止 { -brand-short-name } 進行使用者研究。
+policy-DisableFormHistory = 不要記住搜尋與表單填寫紀錄。
 policy-DisablePrivateBrowsing = 停用隱私瀏覽功能。
+policy-DisableProfileRefresh = 停用 about:support 頁面中的「重新整理 { -brand-short-name }」按鈕。
 policy-DisableTelemetry = 關閉 Telemetry。
 policy-DisplayBookmarksToolbar = 預設顯示書籤工具列。
 policy-DisplayMenuBar = 預設顯示選單列。
