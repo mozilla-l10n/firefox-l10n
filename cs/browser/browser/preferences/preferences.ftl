@@ -711,11 +711,13 @@ content-blocking-tracking-protection-change-blocklist = Změnit seznam blokací�
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Zpomalující sledovací prvky
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Zpomalující sledovací prvky
     .accesskey = s
 content-blocking-fastblock-new-description = Blokovat jen sledovací prvky, které zpomalují načítání stránek.
-content-blocking-tracking-protection-all-label = Všechny nalezené sledovací prvky
-    .accesskey = s
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Všechny nalezené sledovací prvky
+    .accesskey = n
 content-blocking-tracking-protection-new-description = Blokovat všechny známe sledovací prvky (může omezit fungování některých stránek).
 content-blocking-tracking-protection-option-always =
     .label = Vždy
@@ -724,7 +726,8 @@ content-blocking-tracking-protection-option-private =
     .label = Pouze v anonymních oknech
     .accesskey = P
 content-blocking-tracking-protection-change-block-list = Změnit seznam blokací
-content-blocking-reject-trackers-label = Cookies třetích stran
+content-blocking-third-party-cookies-label =
+    .label = Cookies třetích stran
     .accesskey = C
 content-blocking-reject-trackers-description = Nastavení blokování cookies všech třetích stran nebo jen od sledovacích prvků.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
