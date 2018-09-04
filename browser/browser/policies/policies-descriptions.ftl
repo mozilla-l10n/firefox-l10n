@@ -22,7 +22,17 @@ policy-Cookies = Websydłam dowolić abo zakazać, placki składować.
 policy-DisableAppUpdate = Wobhladowakej aktualizowanje zakazać.
 policy-DisableBuiltinPDFViewer = PDF.js znjemóžnić, zatwarjeny PDF-wobhladowak w { -brand-short-name }.
 policy-DisableDeveloperTools = Přistup na wuwiwarske nastroje blokować.
+policy-DisableFeedbackCommands = Přikazy znjemóžnić, kotrež komentary z menija Pomoc sćelu (Posudk pósłać a Wobšudne sydło zdźělić)
+policy-DisableFirefoxAccounts = Słužby na zakładźe { -fxaccount-brand-name } znjemóžnić, inkluziwnje Sync.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Funkciju Firefox Screenshots znjemóžnić.
+policy-DisableFirefoxStudies = { -brand-short-name } zakazać, studije wuwjesć.
+policy-DisableForgetButton = Přistup na tłóčatko Zabyć zakazać.
 policy-DisableFormHistory = Pytansku a formularnu historiju sej njespomjatkować
+policy-DisableMasterPasswordCreation = Jeli wěrno, njeda so hłowne hesło wutworić.
+policy-DisablePocket = Funkciju składowanja webstronow do Pocket znjemóžnić.
 policy-DisablePrivateBrowsing = Priwatny modus znjemóžnić.
+policy-DisableProfileImport = Menijowy přikaz za importowanje datow z druheho wobhladowaka znjemóžnić.
+policy-DisableProfileRefresh = Tłóčatko { -brand-short-name } wobnowić na stronje about:support znjemóžnić.
 policy-DisableTelemetry = Telemetriju znjemóžnić.
 policy-Proxy = Nastajenja proksy konfigurować.
