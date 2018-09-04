@@ -5,6 +5,9 @@
 languages-window =
     .title = Idiomas
     .style = width: 30em
+webpage-languages-window =
+    .title = Ajustes de idioma de sitios web
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Las páginas web a veces son ofrecidas en más de un idioma. Elige los idiomas para mostrar estas páginas, en orden de preferencia.
@@ -38,3 +41,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Ajustes de idioma de { -brand-short-name }
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } mostrará el primer idioma como tu predeterminado y mostrará los idiomas alternativos de ser necesario en el orden en que aparecen.
