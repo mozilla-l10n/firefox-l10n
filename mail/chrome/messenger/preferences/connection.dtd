@@ -45,3 +45,4 @@
 <!ENTITY  autologinproxy.tooltip        "يستوثق هذا الخيار مع وسطاء الشبكة تلقائيًا إذا كان لديك بيانات ولوج محفوظة لهم. ستُسأل إذا فشل الاستيثاق.">
 <!ENTITY  socksRemoteDNS.label          "خادوم عناوين نطاقات الوسيط أثناء استخدام SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "ن">
+<!ENTITY  dnsOverHttps.label            "فعّل DNS عبر HTTPS">
