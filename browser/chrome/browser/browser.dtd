@@ -138,7 +138,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "전체 화면으로 표시">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "원래 화면으로 복구">
+<!ENTITY exitFullScreenCmd.label "전체 화면 표시 해제">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "전체 화면">
 <!ENTITY fullScreenCmd.accesskey "F">
