@@ -3,5 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 choose-messenger-language-description = Dewis yr ieithoedd sy'n cael ei defnyddio i ddangos dewislenni, negeseuon, a hysbysiadau gan { -brand-short-name }
+manage-messenger-languages-button =
+    .label = Gosod Rhai Eraill...
+    .accesskey = G
 confirm-messenger-language-change-description = Ailgychwyn { -brand-short-name } i osod y newidiadau hyn
 confirm-messenger-language-change-button = Gosod ac Ailgychwyn

@@ -13,6 +13,6 @@
 <!ENTITY useSmallIcons.label      "Defnyddio Eiconau Bach">
 <!ENTITY restoreDefaultSet.label  "Adfer y Set Ragosodedig">
 <!ENTITY addNewToolbar.label      "Ychwanegu Bar Offer Newydd">
-<!ENTITY showTitltbar.label       "Dangos y Bar Teitl">
+<!ENTITY showTitlebar.label       "Dangos y Bar Teitl">
 <!ENTITY saveChanges.label        "Gorffen">
 <!ENTITY undoChanges.label        "Dadwneud Newidiadau">
