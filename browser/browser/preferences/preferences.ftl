@@ -694,8 +694,6 @@ content-blocking-category-label = Scegli che cosa bloccare
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Elementi traccianti lenti
   .accesskey = m
-content-blocking-fastblock-slow-loading-label = Elementi traccianti lenti a caricarsi
-  .accesskey = m
 content-blocking-fastblock-slow-loading-trackers-label =
   .label = Elementi traccianti lenti a caricarsi
   .accesskey = m
@@ -708,8 +706,6 @@ content-blocking-fastblock-option-disabled =
 
 content-blocking-tracking-protection-label = Elementi traccianti
   .accesskey = E
-content-blocking-tracking-protection-all-label = Tutti gli elementi traccianti rilevati
-  .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
   .label = Tutti gli elementi traccianti rilevati
   .accesskey = T
@@ -730,8 +726,6 @@ content-blocking-tracking-protection-option-private =
 content-blocking-tracking-protection-change-blocklist = Cambia elenco per blocco contenuti…
 content-blocking-tracking-protection-change-block-list = Cambia elenco per blocco contenuti
 
-content-blocking-reject-trackers-label = Cookie di terze parti
-  .accesskey = C
 content-blocking-third-party-cookies-label =
   .label = Cookie di terze parti
   .accesskey = C
