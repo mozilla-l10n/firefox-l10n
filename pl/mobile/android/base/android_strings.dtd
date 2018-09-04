@@ -638,5 +638,6 @@
 <!ENTITY mls_notification_channel "Usługi lokalizacji organizacji &vendorShortName;">
 <!ENTITY download_notification_channel "Pobrane pliki">
 <!ENTITY media_notification_channel "Odtwarzanie multimediów">
+<!ENTITY leanplum_default_notifications_channel "Powiadomienia programu &brandShortName;">
 <!ENTITY updater_notification_channel "Aktualizacje aplikacji">
 <!ENTITY synced_tabs_notification_channel "Zsynchronizowane karty">
