@@ -13,6 +13,6 @@
 <!ENTITY useSmallIcons.label      "Använd små ikoner">
 <!ENTITY restoreDefaultSet.label  "Återställ standardvärden">
 <!ENTITY addNewToolbar.label      "Lägg till nytt verktygsfält">
-<!ENTITY showTitltbar.label       "Visa titelfältet">
+<!ENTITY showTitlebar.label       "Visa titelfältet">
 <!ENTITY saveChanges.label        "Klar">
 <!ENTITY undoChanges.label        "Ångra ändringar">
