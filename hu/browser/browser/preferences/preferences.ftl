@@ -700,10 +700,12 @@ content-blocking-tracking-protection-change-blocklist = Blokkolási lista módos
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Lassan betöltő követők
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Lassan betöltő követők
     .accesskey = L
-content-blocking-tracking-protection-all-label = Összes észlelt követő
-    .accesskey = e
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Összes észlelt követő
+    .accesskey = k
 content-blocking-tracking-protection-option-always =
     .label = Mindig
     .accesskey = M
@@ -711,8 +713,9 @@ content-blocking-tracking-protection-option-private =
     .label = Csak privát ablakokban
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Blokkolási lista módosítása
-content-blocking-reject-trackers-label = Harmadik féltől származó sütik
-    .accesskey = H
+content-blocking-third-party-cookies-label =
+    .label = Harmadik féltől származó sütik
+    .accesskey = s
 content-blocking-reject-trackers-description = Összes harmadik féltől származó süti, vagy csak a követők által beállítottak blokkolása.
 content-blocking-change-cookie-settings =
     .label = Sütibeállítások módosítása
