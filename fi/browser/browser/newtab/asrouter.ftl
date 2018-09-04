@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = Suositeltu laajennus
+cfr-doorhanger-extension-sumo-link =
+    .tooltiptext = Miksi näen tämän
 cfr-doorhanger-extension-cancel-button = Ei nyt
     .accesskey = E
 cfr-doorhanger-extension-ok-button = Lisää nyt
