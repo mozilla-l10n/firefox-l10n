@@ -693,14 +693,7 @@ content-blocking-tracking-protection-option-pbm =
 content-blocking-tracking-protection-option-disabled =
     .label = Ne jamais bloquer
 content-blocking-tracking-protection-change-blocklist = Modifier la liste de blocage…
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Traqueurs lents à charger
-    .accesskey = g
 content-blocking-fastblock-new-description = Ne bloquer que les traqueurs qui empêchent les pages de se charger rapidement.
-content-blocking-tracking-protection-all-label = Tous les traqueurs détectés
-    .accesskey = q
 content-blocking-tracking-protection-new-description = Bloque tous les traqueurs connus. (Peut empêcher certaines pages de se charger.)
 content-blocking-tracking-protection-option-always =
     .label = Toujours
@@ -709,8 +702,15 @@ content-blocking-tracking-protection-option-private =
     .label = Uniquement en navigation privée
     .accesskey = v
 content-blocking-tracking-protection-change-block-list = Changer la liste de blocage
-content-blocking-reject-trackers-label = Cookies tiers
+content-blocking-third-party-cookies-label =
+    .label = Cookies tiers
     .accesskey = C
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Traqueurs
+    .accesskey = q
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Tous les cookies tiers (peut empêcher certains sites de fonctionner)
+    .accesskey = t
 
 ## Privacy Section - Tracking
 
