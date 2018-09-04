@@ -11,3 +11,4 @@ languages-customize-movedown =
 messenger-languages-window =
     .title = Ρυθμίσεις γλώσσας του { -brand-short-name }
     .style = width: 40em
+messenger-languages-description = Το { -brand-short-name } θα εμφανίζει την πρώτη γλώσσα ως την προεπιλεγμένη και θα προβάλει εναλλακτικές γλώσσες με τη σειρά που φαίνονται, αν είναι απαραίτητο.
