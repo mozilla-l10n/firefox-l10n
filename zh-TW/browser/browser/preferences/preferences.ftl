@@ -692,10 +692,12 @@ content-blocking-tracking-protection-change-blocklist = 變更封鎖清單…
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = 很慢才載入的追蹤器
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = 慢速載入的追蹤器
     .accesskey = S
 content-blocking-fastblock-new-description = 只封鎖會影響頁面載入速度的追蹤器。
-content-blocking-tracking-protection-all-label = 所有偵測到的追蹤器
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = 所有偵測到的追蹤器
     .accesskey = T
 content-blocking-tracking-protection-new-description = 封鎖所有已知的追蹤器（可能會影響某些頁面載入。）
 content-blocking-tracking-protection-option-always =
@@ -705,7 +707,8 @@ content-blocking-tracking-protection-option-private =
     .label = 僅在隱私瀏覽視窗
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = 變更封鎖清單
-content-blocking-reject-trackers-label = 第三方 Cookie
+content-blocking-third-party-cookies-label =
+    .label = 第三方 Cookie
     .accesskey = C
 content-blocking-reject-trackers-description = 封鎖所有第三方 Cookie，或只封鎖追蹤器設定的 Cookie
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
