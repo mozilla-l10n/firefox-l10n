@@ -13,6 +13,6 @@
 <!ENTITY useSmallIcons.label      "استخدم أيقونات صغيرة">
 <!ENTITY restoreDefaultSet.label  "استعد المجموعة المبدئيّة">
 <!ENTITY addNewToolbar.label      "أضِف شريط أدوات جديد">
-<!ENTITY showTitltbar.label       "أظهِر شريط العنوان">
+<!ENTITY showTitlebar.label       "أظهِر شريط العنوان">
 <!ENTITY saveChanges.label        "تمّ">
 <!ENTITY undoChanges.label        "تراجع عن التّغييرات">
