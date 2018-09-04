@@ -903,4 +903,7 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "Υπηρεσία τοποθεσίας &vendorShortName;">
 <!ENTITY download_notification_channel "Λήψεις">
 <!ENTITY media_notification_channel "Αναπαραγωγή πολυμέσων">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "Ειδοποιήσεις push του &brandShortName;">
 <!ENTITY updater_notification_channel "Ενημερώσεις εφαρμογής">
+<!ENTITY synced_tabs_notification_channel "Συγχρονισμένες καρτέλες">
