@@ -900,4 +900,7 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "Gwasanaeth Lleoli &vendorShortName;">
 <!ENTITY download_notification_channel "Llwythau">
 <!ENTITY media_notification_channel "Chwarae cyfwng">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "Hysbysiadau gwthio &brandShortName;">
 <!ENTITY updater_notification_channel "Diweddaru apiau">
+<!ENTITY synced_tabs_notification_channel "Tabiau wedi\&apos;u cydweddu">
