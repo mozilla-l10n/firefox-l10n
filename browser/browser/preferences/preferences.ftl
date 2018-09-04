@@ -710,11 +710,13 @@ content-blocking-tracking-protection-change-blocklist = Lisćinu blokowanjow zm�
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Pomału čitace přesćěhowaki
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Pomału čitace přesćěhowaki
     .accesskey = P
 content-blocking-fastblock-new-description = Jenož přesćěhowaki blokować, kotrež strony při spěšnym začitanju haća.
-content-blocking-tracking-protection-all-label = Wšě wotkryte přesćěhowaki
-    .accesskey = s
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Wšě wotkryte přesćěhowaki
+    .accesskey = h
 content-blocking-tracking-protection-new-description = Wšě znate přesćěhowaki blokować. (Móže někotre strony při začitanju haćić.)
 content-blocking-tracking-protection-option-always =
     .label = Přeco
@@ -723,7 +725,8 @@ content-blocking-tracking-protection-option-private =
     .label = Jenož w priwatnych woknach
     .accesskey = J
 content-blocking-tracking-protection-change-block-list = Blokowansku lisćinu změnić
-content-blocking-reject-trackers-label = Placki třećich poskićowarjow
+content-blocking-third-party-cookies-label =
+    .label = Placki třećich poskićowarjow
     .accesskey = c
 content-blocking-reject-trackers-description = Wšě placki třećich blokować abo jenož te, kotrež přesćěhowaki su stajili.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
