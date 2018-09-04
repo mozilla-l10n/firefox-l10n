@@ -900,4 +900,7 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "&vendorShortName; platstjänst">
 <!ENTITY download_notification_channel "Hämtningar">
 <!ENTITY media_notification_channel "Medieuppspelning">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; Push-meddelanden">
 <!ENTITY updater_notification_channel "Appuppdateringar">
+<!ENTITY synced_tabs_notification_channel "Synkade flikar">
