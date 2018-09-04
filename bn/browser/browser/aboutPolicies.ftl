@@ -8,3 +8,5 @@ active-policies-tab = সক্রিয়
 errors-tab = ত্রুটি
 documentation-tab = ডকুমেন্টেশন
 policy-name = পলিসি নাম
+policy-value = নীতির মূল্য
+policy-errors = নীতির ত্রুটি
