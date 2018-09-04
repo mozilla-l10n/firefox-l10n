@@ -693,6 +693,15 @@ content-blocking-tracking-protection-option-pbm =
 content-blocking-tracking-protection-option-disabled =
     .label = Ποτέ φραγή
 content-blocking-tracking-protection-change-blocklist = Αλλαγή λίστας αποκλεισμού…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Ιχνηλάτες αργής φόρτωσης
+    .accesskey = α
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Όλοι οι εντοπισμένοι ιχνηλάτες
+    .accesskey = ι
 content-blocking-tracking-protection-option-always =
     .label = Πάντα
     .accesskey = Π
