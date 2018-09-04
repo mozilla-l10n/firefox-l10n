@@ -6,6 +6,8 @@ do-not-track-description = Enviar a los sitios web una señal "No rastrear" para
 do-not-track-learn-more = Aprender más
 do-not-track-option-default =
     .label = Solo al usar protección de rastreo
+do-not-track-option-default-content-blocking =
+    .label = Solo cuando { -brand-short-name } está configurado para bloquear a los rastreadores detectados
 do-not-track-option-always =
     .label = Siempre
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = Una extensión, <img data-l10n-name="i
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Una extensión, <img data-l10n-name="icon"/> { $name }, está controlando la protección de seguimiento.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Una extensión, <img data-l10n-name="icon"/> { $name }, está controlando este ajuste.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Una extensión, <img data-l10n-name="icon"/> { $name }, está controlando cómo { -brand-short-name } se conecta a internet.
@@ -203,6 +208,9 @@ choose-button =
     .label = Elegir…
     .accesskey = o
 choose-browser-language-description = Elige los idiomas usados para mostrar menús, mensajes y notificaciones de { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Establecer alternativas…
+    .accesskey = l
 confirm-browser-language-change-description = Reinicia { -brand-short-name } para aplicar estos cambios
 confirm-browser-language-change-button = Aplicar y reiniciar
 translate-web-pages =
@@ -623,6 +631,10 @@ sitedata-block-all-third-parties-option =
     .label = Todas las cookies de terceros
 sitedata-block-always-option =
     .label = Todas las cookies (puede causar errores en los sitios web)
+sitedata-block-all-third-party-option =
+    .label = Todas las cookies de terceros (esto puede causar errores en los sitios web)
+sitedata-block-all-option =
+    .label = TOdas las cookies (esto causará errores en los sitios web)
 sitedata-clear =
     .label = Limpiar datos…
     .accesskey = l
@@ -684,10 +696,10 @@ content-blocking-tracking-protection-option-pbm =
     .label = Bloquear solo en ventanas privadas
 content-blocking-tracking-protection-option-disabled =
     .label = Nunca bloquear
+content-blocking-tracking-protection-change-blocklist = Cambiar la lista de bloqueo…
 content-blocking-tracking-protection-option-always =
     .label = Siempre
     .accesskey = A
-content-blocking-tracking-protection-change-blocklist = Cambiar la lista de bloqueo…
 
 ## Privacy Section - Tracking
 
