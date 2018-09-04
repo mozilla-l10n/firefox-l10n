@@ -78,6 +78,7 @@
 <!ENTITY corruptedContentErrorv2.title "Błąd: treść uszkodzona">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Strona, którą próbujesz obejrzeć, nie może być wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj wyjątek…">
+<!ENTITY securityOverride.exceptionButton1Label "Akceptuję ryzyko, kontynuuj">
 <!ENTITY errorReporting.automatic2 "Automatyczne zgłaszanie podobnych temu błędów (pomaga Mozilli identyfikować i blokować niebezpieczne strony)">
 <!ENTITY errorReporting.learnMore "Więcej informacji…">
 <!ENTITY remoteXUL.title "Zdalna treść XUL">
