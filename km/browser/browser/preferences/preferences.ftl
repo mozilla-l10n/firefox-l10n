@@ -52,6 +52,9 @@ restart-later = ចាប់ផ្ដើម​ឡើងវិញ​នៅ​ព�
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } កំពុងគ្រប់គ្រងការការពារការតាមដាន។
 
 ## Preferences UI Search Results
 
@@ -78,6 +81,8 @@ always-check-default =
     .accesskey = y
 is-default = { -brand-short-name } បច្ចុប្បន្ន​ជា​កម្មវិធី​រុករក​លំនាំដើម​របស់​អ្នក
 is-not-default = { -brand-short-name } វា​មិន​មែន​ជា​កម្មវិធី​រុករក​លំនាំដើម​របស់​អ្នក
+disable-extension =
+    .label = បិទ​ផ្នែក​បន្ថែម
 tabs-group-header = ផ្ទាំង
 ctrl-tab-recently-used-order =
     .label = ប៊ូតុង​ Ctrl+Tab មាន​មុខងារ​ចូល​មើល​ផ្ទាំង​ដែល​បើក​ថ្មីៗ​ម្ដង​មួយ​ៗ
@@ -167,7 +172,7 @@ applications-description = ជ្រើសរើស​របៀប​ដែល {
 applications-filter =
     .placeholder = ស្វែងរក​ប្រភេទ​ឯកសារ និង​កម្មវិធី
 applications-type-column =
-    .label = ប្រភេទ​មាតិកា 
+    .label = ប្រភេទ​មាតិកា
     .accesskey = ក
 applications-action-column =
     .label = អំពើ
@@ -388,9 +393,6 @@ history-dontremember-description = { -brand-short-name } នឹង​ប្រ�
 history-private-browsing-permanent =
     .label = ប្រើ​របៀប​រកមើល​ឯកជន​ជានិច្ច
     .accesskey = ប
-history-remember-option =
-    .label = ចងចាំ​ប្រវត្តិ​ទាញយក និង​ការ​រុករក​របស់​ខ្ញុំ
-    .accesskey = ច
 history-remember-search-option =
     .label = ចងចាំ​ប្រវត្តិ​ស្វែងរក និង​សំណុំ​បែបបទ
     .accesskey = ទ
@@ -433,6 +435,9 @@ addressbar-locbar-openpage-option =
     .label = បើក​ផ្ទាំង
     .accesskey = O
 addressbar-suggestions-settings = ប្ដូរ​ចំណូលចិត្ត​សម្រាប់​ការ​សំណើ​ម៉ាស៊ីន​ស្វែងរក
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
