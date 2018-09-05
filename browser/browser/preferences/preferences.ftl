@@ -425,7 +425,7 @@ containers-add-button =
 containers-preferences-button =
     .label = Preferenze
 containers-remove-button =
-    .label = Elimina
+    .label = Rimuovi
 
 ## Sync Section - Signed out
 
@@ -462,7 +462,7 @@ sync-resend-verification =
     .label = Invia di nuovo email di verifica
     .accesskey = n
 sync-remove-account =
-    .label = Elimina account
+    .label = Rimuovi account
     .accesskey = n
 sync-sign-in =
     .label = Accedi
