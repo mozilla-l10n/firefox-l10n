@@ -50,3 +50,4 @@ policy-PopupBlocking = 允許某些網站預設可顯示彈出視窗。
 policy-Proxy = 設定代理伺服器選項。
 policy-SanitizeOnShutdown = 關閉瀏覽器時清除所有瀏覽資料。
 policy-SearchBar = 設定搜尋列的預設位置，使用者仍然可以自訂。
+policy-WebsiteFilter = 封鎖網站，不讓使用者開啟。請參考文件取得設定格式的詳細資料。
