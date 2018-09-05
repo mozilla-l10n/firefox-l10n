@@ -321,6 +321,8 @@
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "N">
 <!ENTITY customizeMenu.manageExtension.label "Gestisci estensione">
 <!ENTITY customizeMenu.manageExtension.accesskey "G">
+<!ENTITY customizeMenu.removeExtension.label "Rimuovi estensione">
+<!ENTITY customizeMenu.removeExtension.accesskey "R">
 <!ENTITY moreMenu.label "Altro">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Inserisci un indirizzo o avvia una ricerca">
