@@ -48,6 +48,7 @@ policy-FlashPlugin = Wužiwanje tykača Flash dowolić abo zakazać.
 policy-HardwareAcceleration = Jeli njewěrno, hardwarowe popsěšenje znjemóžnić.
 policy-Homepage = Startowu stronu nastajić a na přeće zawrěć.
 policy-InstallAddonsPermission = Wěstym websydłam dowolić, přidatki instalować.
+policy-NoDefaultBookmarks = Wutworjenje standardnych zapołožkow { -brand-short-name } znjemóžnić, a inteligentnych zapołožkow (najhusćišo wopytane, tuchwilne znački). Kedźbu: Tute prawidło so jenož wuskutkuje, hdyž jo před prěnim startom profila wužiwaće.
 policy-Permissions = Prawa za kameru, mikrofon, stejnišćo a zdźělenki konfigurować.
 policy-PopupBlocking = Wěstym websydłam dowolić, wuskakowace wokna po standardźe pokazać.
 policy-Proxy = Nastajenja proksy konfigurować.
