@@ -10,3 +10,10 @@ documentation-tab = Documentation
 policy-name = Nom de la stratégie
 policy-value = Contenu de la stratégie
 policy-errors = Erreurs de stratégie
+# 'gpo-machine-only' policies are related to the Group Policy features
+# on Windows. Please use the same terminology that is used on Windows
+# to describe Group Policy.
+# These policies can only be set at the computer-level settings, while
+# the other policies can also be set at the user-level.
+gpo-machine-only =
+    .title = Lors de l’utilisation de stratégies de groupe, cette politique peut uniquement être définie au niveau de l’ordinateur.
