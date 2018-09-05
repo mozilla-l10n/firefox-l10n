@@ -900,4 +900,7 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "&vendorShortName; સ્થાન સેવા">
 <!ENTITY download_notification_channel "ડાઉનલોડ">
 <!ENTITY media_notification_channel "મીડિયા પ્લેબેક">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; પુશ સૂચનાઓ">
 <!ENTITY updater_notification_channel "એપ્લિકેશન સુધારાઓ">
+<!ENTITY synced_tabs_notification_channel "સમન્વય કરેલી ટૅબ્સ">
