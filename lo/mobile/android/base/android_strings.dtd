@@ -902,3 +902,7 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "ບໍລິການຕຳແໜ່ງທີ່ຕັ້ງຂອງ &vendorShortName;">
 <!ENTITY download_notification_channel "ດາວໂຫຼດ">
 <!ENTITY media_notification_channel "ການຫຼິ້ນສື່">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; ການແຈ້ງເຕືອນ">
+<!ENTITY updater_notification_channel "ອັບເດດແອັບ">
+<!ENTITY synced_tabs_notification_channel "ຊີ້ງແຖບ">
