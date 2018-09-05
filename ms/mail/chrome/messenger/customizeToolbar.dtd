@@ -13,6 +13,6 @@
 <!ENTITY useSmallIcons.label      "Guna Ikon Kecil">
 <!ENTITY restoreDefaultSet.label  "Pulih Set Piawai">
 <!ENTITY addNewToolbar.label      "Tambah Bar Alat Baru">
-<!ENTITY showTitltbar.label       "Papar Bar Tajuk">
+<!ENTITY showTitlebar.label       "Papar Bar Tajuk">
 <!ENTITY saveChanges.label        "Siap">
 <!ENTITY undoChanges.label        "Batal Perubahan">
