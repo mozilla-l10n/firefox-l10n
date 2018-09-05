@@ -701,6 +701,12 @@ content-blocking-tracking-protection-option-pbm =
 content-blocking-tracking-protection-option-disabled =
     .label = Nea blokkearje
 content-blocking-tracking-protection-change-blocklist = Blokkearlist wizigje…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Stadich ladende trackers
+    .accesskey = S
 content-blocking-fastblock-new-description = Allinnich de trackers blokkearje dy't fluch laden fan siden tsjingean.
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Alle detektearre trackers
