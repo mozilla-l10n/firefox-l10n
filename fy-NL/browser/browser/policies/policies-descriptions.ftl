@@ -33,3 +33,5 @@ policy-DisableMasterPasswordCreation = Wannear true, kin gjin haadwachtwurd oanm
 policy-DisablePocket = De funksje foar it bewarjen fan websiden nei Pocket útskeakelje.
 policy-DisablePrivateBrowsing = Priveenavigaasje útskeakelje.
 policy-DisableProfileImport = De menuopdracht foar it ymportearjen fan gegevens fan in oare browser út útskeakelje.
+policy-DisableProfileRefresh = De knop { -brand-short-name } opfrisse yn de about:support-side útskeakelje.
+policy-DisableTelemetry = Telemetry útskeakelje.
