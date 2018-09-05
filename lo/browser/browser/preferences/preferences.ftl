@@ -96,6 +96,8 @@ browser-containers-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 browser-containers-settings =
     .label = ການຕັ້ງຄ່າ…
     .accesskey = ຕ
+containers-disable-alert-cancel-button = ເປີດໃຊ້ງານຕໍ່ໄປ
+containers-remove-alert-title = ເອົາການແຍກຂໍ້ມູນນີ້ອອກ?
 
 ## General Section - Language & Appearance
 
@@ -511,8 +513,15 @@ content-blocking-fastblock-option-disabled =
     .label = ບໍ່ຕ້ອງລະງັບເລີຍ
 content-blocking-tracking-protection-label = ຕິດຕາມ
     .accesskey = T
+content-blocking-tracking-protection-option-enabled =
+    .label = ລະງັບຢູ່ສະເໝີ
+content-blocking-tracking-protection-option-pbm =
+    .label = ລະງັບສະເພາະໃນໜ້າຕາງສ່ວນຕົວ
 content-blocking-tracking-protection-option-disabled =
     .label = ບໍ່ຕ້ອງລະງັບເລີຍ
+content-blocking-tracking-protection-option-always =
+    .label = ສະເໝີ
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
