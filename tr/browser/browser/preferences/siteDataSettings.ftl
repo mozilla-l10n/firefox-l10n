@@ -42,11 +42,9 @@ site-data-remove-shown =
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Sil
 site-data-removing-header = Çerezler ve site verileri siliniyor
 site-data-removing-desc = Çerezleri ve site verilerini silerseniz bazı sitelerdeki oturumlarınız kapanabilir. Bu değişiklikleri yapmak istediğinizden emin misiniz?
-site-data-removing-table = Aşağıdaki web sitelerine ait çerezler ve site verileri silinecektir
+site-data-removing-table = Aşağıdaki web sitelerine ait çerezler ve site verileri silinecektir.
