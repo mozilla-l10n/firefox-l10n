@@ -632,9 +632,9 @@ sitedata-block-all-third-parties-option =
 sitedata-block-always-option =
     .label = Kaikki evästeet (voi aiheuttaa sivustojen toimimattomuutta)
 sitedata-block-all-third-party-option =
-    .label = Kaikki 3. osapuolen evästeet (voi aiheuttaa sivustojen toimimattomuutta)
+    .label = Kaikki 3. osapuolen evästeet (voi aiheuttaa sivustovirheitä)
 sitedata-block-all-option =
-    .label = Kaikki evästeet (aiheuttaa sivustojen toimimattomutta)
+    .label = Kaikki evästeet (aiheuttaa sivustovirheitä)
 sitedata-clear =
     .label = Tyhjennä tiedot…
     .accesskey = y
@@ -701,14 +701,7 @@ content-blocking-tracking-protection-option-pbm =
 content-blocking-tracking-protection-option-disabled =
     .label = Älä estä koskaan
 content-blocking-tracking-protection-change-blocklist = Muuta estolistaa…
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Hitaasti latautuvat seuraimet
-    .accesskey = H
 content-blocking-fastblock-new-description = Estää vain seuraimet, jotka estävät sivuja latautumasta nopeasti.
-content-blocking-tracking-protection-all-label = Kaikki havaitut seuraimet
-    .accesskey = s
 content-blocking-tracking-protection-new-description = Estää kaikki tunnetut seuraimet. (Saattaa estää joitain sivuja latautumasta.)
 content-blocking-tracking-protection-option-always =
     .label = Aina
@@ -717,8 +710,6 @@ content-blocking-tracking-protection-option-private =
     .label = Vain yksityisissä ikkunoissa
     .accesskey = y
 content-blocking-tracking-protection-change-block-list = Muuta estolistaa
-content-blocking-reject-trackers-label = Kolmannen osapuolen evästeet
-    .accesskey = K
 content-blocking-reject-trackers-description = Estää kaikki kolmannen osapuolen evästeet tai vain seurainten asettamat evästeet.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
 # of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
