@@ -16,4 +16,4 @@ policy-errors = Zmylki prawidłow
 # These policies can only be set at the computer-level settings, while
 # the other policies can also be set at the user-level.
 gpo-machine-only =
-    .title = Hdyž so skupinske prawidł wužiwaja, dadźa so tute prawidła jenož na runinje ličaka nastajić.
+    .title = Hdyž so skupinske prawidła wužiwaja, dadźa so tute prawidła jenož na runinje ličaka nastajić.
