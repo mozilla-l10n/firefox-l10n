@@ -63,14 +63,26 @@ permissions-exceptions-popup-desc = ທ່ານສາມາດກຳນົດ�
 
 permissions-exceptions-addons-desc = ທ່ານສາມາດກຳນົດເວັບໃຊ້ໃດຫນຶ່ງຂອງທ່ານທີ່ໃດ້ເປີດອະນຸຍາດໃຫ້ມີການຕິດຕັ້ງໂປຼແກຣມເສີມ. ໃຫ້ຂຽນທີ່ຢູ່ແທ້ຈິງຂອງເວັບໃຊ້ທີ່ທ່ານເປີດອະນຸຍາດ ແລະ ຫລັງຈາກນັ້ນແມ່ນໃຫ້ຄິກໃສ່ອະນຸຍາດ (Allow).
 
+## Exceptions - Autoplay Media
+
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = ການຕັ້ງຄ່າ - ອະນຸຍາດສະຖານທີ່
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = ຕັ້ງຄ່າ - ການອະນຸຍາດກ້ອງ
+    .style = { permissions-window.style }
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = ການຕັ້ງຄ່າ - ການອະນຸຍາດໄມໂຄຣໂຟນ
+    .style = { permissions-window.style }

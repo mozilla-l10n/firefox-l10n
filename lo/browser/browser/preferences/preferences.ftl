@@ -76,6 +76,7 @@ search-results-header = ຜົນການຊອກຫາ
 ## General Section
 
 startup-header = ເລີ່ມເຮັດວຽກ
+get-started-not-logged-in = ລົງທະບຽນເຂົ້າສູ່{ -sync-brand-short-name }...
 set-as-my-default-browser =
     .label = ເຮັດໃຫ້ເປັນຄ່າເລີ່ມຕົ້ນ…
     .accesskey = ຄ
@@ -116,6 +117,9 @@ choose-button =
     .label = ເລືອກ...
     .accesskey = o
 confirm-browser-language-change-button = ນຳໃຊ້ ແລະ ເລີ່ມເຮັດວຽກໃໝ່
+translate-web-pages =
+    .label = ແປເນື້ອຫາເວັບ
+    .accesskey = T
 translate-exceptions =
     .label = ຍົກເວັ້ນ...
     .accesskey = x
@@ -466,6 +470,10 @@ sitedata-accept-third-party-visited-option =
     .label = ຈາກການຢ້ຽມຊົມ
 sitedata-accept-third-party-never-option =
     .label = ບໍ່ເຄີຍ
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = ປະເພດຂອງການລະງັບ
+    .accesskey = T
 sitedata-clear =
     .label = ລ້າງຂໍ້ມູນ…
     .accesskey = l
@@ -492,8 +500,19 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = ຮຽນຮູ້ເພີມຕື່ມ
+content-blocking-toggle-label-on = ເປີດ
+    .accesskey = O
+content-blocking-toggle-label-off = ປິດ
+    .accesskey = O
+content-blocking-fastblock-option-enabled =
+    .label = ຕ້ອງລະງັບຕະຫຼອດ
+content-blocking-fastblock-option-disabled =
+    .label = ບໍ່ຕ້ອງລະງັບເລີຍ
 content-blocking-tracking-protection-label = ຕິດຕາມ
     .accesskey = T
+content-blocking-tracking-protection-option-disabled =
+    .label = ບໍ່ຕ້ອງລະງັບເລີຍ
 
 ## Privacy Section - Tracking
 
@@ -549,6 +568,9 @@ permissions-block-autoplay-media =
 permissions-block-autoplay-media-exceptions =
     .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = E
+autoplay-option-dont =
+    .label = ບໍ່ຕ້ອງຫຼິ້ນແບບອັດຕະໂນມັດ
+permissions-autoplay-link = ຮຽນຮູ້ເພີມຕື່ມ
 permissions-block-popups =
     .label = ກັນຫນ້າຕ່າງປັອບອັບ
     .accesskey = ກ
