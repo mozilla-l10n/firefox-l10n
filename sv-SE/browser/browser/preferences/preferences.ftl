@@ -704,10 +704,12 @@ content-blocking-tracking-protection-change-blocklist = Ändra blockeringslista�
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Långsamma trackers
-    .accesskey = L
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Trögladdade trackers
+    .accesskey = T
 content-blocking-fastblock-new-description = Blockera endast trackers som gör sidor långsammare.
-content-blocking-tracking-protection-all-label = Alla upptäckta trackers
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Alla upptäckta trackers
     .accesskey = A
 content-blocking-tracking-protection-new-description = Blockera alla kända trackers. (Kan förhindra att vissa sidor laddas.)
 content-blocking-tracking-protection-option-always =
@@ -717,8 +719,9 @@ content-blocking-tracking-protection-option-private =
     .label = Endast i privata fönster
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Ändra blockeringslista
-content-blocking-reject-trackers-label = Kakor från tredje part
-    .accesskey = C
+content-blocking-third-party-cookies-label =
+    .label = Kakor från tredje part
+    .accesskey = K
 content-blocking-reject-trackers-description = Blockera alla kakor från tredje part eller endast de som använts av trackers
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
 # of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
