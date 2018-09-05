@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Penjelajahan Pribadi">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Buka jendela pribadi?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Anda tidak sedang dalam jendela pribadi.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Buka Jendela Pribadi">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
@@ -35,3 +30,6 @@
 <!ENTITY trackingProtection.title                        "Perlindungan Pelacakan">
 <!ENTITY trackingProtection.description2                 "Beberapa situs menggunakan pelacak yang dapat memantau aktivitas Anda di Internet. Dengan Perlindungan Pelacakan, Firefox akan memblokir banyak pelacak yang dapat menghimpun informasi tentang perilaku berselancar Anda.">
 <!ENTITY trackingProtection.startTour1                   "Lihat cara kerjanya">
+
+<!ENTITY contentBlocking.title                           "Pemblokiran Konten">
+<!ENTITY contentBlocking.description                     "Beberapa situs web menggunakan pelacak yang dapat memantau aktivitas Anda di Internet. Di jendela pribadi Firefox, Pemblokir Konten secara otomatis memblokir banyak pelacak yang dapat mengumpulkan informasi tentang kebiasaan menjelajah Anda.">

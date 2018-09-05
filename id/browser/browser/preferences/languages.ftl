@@ -5,6 +5,9 @@
 languages-window =
     .title = Bahasa
     .style = width: 30em
+webpage-languages-window =
+    .title = Setelan Bahasa Laman Web
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Terkadang laman web ditawarkan dalam beberapa bahasa. Pilih bahasa untuk menampilkan laman web ini, urut sesuai kesukaan
@@ -38,3 +41,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Setelan Bahasa { -brand-short-name }
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } akan menampilkan bahasa pertama Anda sebagai bahasa baku dan akan menampilkan bahasa alternatif jika diperlukan sesuai urutan daftar.
