@@ -692,10 +692,12 @@ content-blocking-tracking-protection-change-blocklist = 차단 목록 변경…
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = 느리게 로딩되는 추적기
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = 느리게 로딩되는 추적기
     .accesskey = S
 content-blocking-fastblock-new-description = 페이지가 더 빨리 뜰 수 있도록 추적기를 차단해보세요.
-content-blocking-tracking-protection-all-label = 모든 감지된 추적기
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = 모든 감지된 추적기
     .accesskey = T
 content-blocking-tracking-protection-new-description = 알려진 모든 추적기를 차단합니다. (몇몇 페이지가 로딩되지 않을 수 있습니다.)
 content-blocking-tracking-protection-option-always =
@@ -705,7 +707,8 @@ content-blocking-tracking-protection-option-private =
     .label = 사생활 보호 창에서만
     .accesskey = P
 content-blocking-tracking-protection-change-block-list = 차단 목록 변경
-content-blocking-reject-trackers-label = 제3자 쿠키
+content-blocking-third-party-cookies-label =
+    .label = 제3자 쿠키
     .accesskey = C
 content-blocking-reject-trackers-description = 모든 제3자 쿠키나 추적기에 의해 설정된 쿠기를 차단합니다.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
