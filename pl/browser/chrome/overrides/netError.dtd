@@ -12,6 +12,7 @@
 <!ENTITY advanced.label "Zaawansowane">
 <!ENTITY continue.label "Kontynuuj">
 <!ENTITY continue1.label "Kontynuuj…">
+<!ENTITY continue2.label "Więcej…">
 <!ENTITY moreInformation.label "Więcej informacji">
 
 <!ENTITY connectionFailure.title "Nie udało się nawiązać połączenia">
