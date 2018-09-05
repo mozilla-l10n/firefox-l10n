@@ -692,10 +692,12 @@ content-blocking-tracking-protection-change-blocklist = Tukar Senarai Sekatan…
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Penjejak Pemuatan-Lambat
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Penjejak Pemuatan-Lambat
     .accesskey = L
 content-blocking-fastblock-new-description = Cuma sekat penjejak yang membuatkan halaman tidak dimuatkan dengan cepat.
-content-blocking-tracking-protection-all-label = Semua Penjejak Yang Dikesan
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Semua Penjejak Yang Dikesan
     .accesskey = P
 content-blocking-tracking-protection-new-description = Sekat semua penjejak yang diketahui. (Boleh menghalang sesetengah halaman daripada dimuatkan.)
 content-blocking-tracking-protection-option-always =
@@ -705,7 +707,8 @@ content-blocking-tracking-protection-option-private =
     .label = Hanya dalam tetingkap peribadi
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Tukar senarai sekatan
-content-blocking-reject-trackers-label = Kuki Pihak-Ketiga
+content-blocking-third-party-cookies-label =
+    .label = Kuki Pihak-Ketiga
     .accesskey = K
 content-blocking-reject-trackers-description = Sekat semua kuki pihak ketiga atau hanya yang ditetapkan oleh penjejak.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
