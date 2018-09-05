@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "आगाँ">
 
 <!ENTITY firstrun_tabqueue_title "लिंक">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "टैब पंक्ति आरंभ करू">
-<!ENTITY firstrun_tabqueue_subtext_off "&brandShortName; मे बाद खातिर श्रृंखला सहेजू ‌ओकरा आन एप्प मे करए केर दौरान.">
-
-<!ENTITY firstrun_tabqueue_message_on "सफल!">
-<!ENTITY firstrun_tabqueue_subtext_on "अहाँ एकरा &settings;मे बन्न क सकैत छी &pref_category_general; केर तहत.">
 
 <!ENTITY firstrun_readerview_title "आलेख">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "&brandShortName; केँ फेर आरंभ करू">
 
 <!ENTITY url_bar_default_text2 "खोजू अथवा पता दर्ज करू">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "टैब, डाटा रक्षक, डेवलपर उपकरण पुनर्बहाल करू">
 <!ENTITY pref_category_notifications "नोटिफिकेशन">
-<!ENTITY pref_category_notifications_summary "नव फीचर, वेबसाइट अपडेट">
 <!ENTITY pref_category_notifications_summary2 "नव फीचर, प्रोडक्ट टिप्स">
 <!ENTITY pref_developer_remotedebugging_usb "USB सँ भ कए दूरस्थ दोषसुधार">
 <!ENTITY pref_developer_remotedebugging_wifi "वाई फाई सँ भ कए दूरस्थ दोषसुधार">
@@ -372,6 +364,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "स्वचालन के लेल अनुमति दिय\&apos;">
 <!ENTITY pref_media_autoplay_enabled_summary "नियंत्रित करु यदि वेबसाइट सब वीडियोज आउर दोसर मीडिया सामग्री सब के स्वचालित क\&apos; सकैत अछि">
+<!ENTITY pref_media_autoplay_allow "ऑटोप्ले लेली अनुमति दिअ\&apos;">
+<!ENTITY pref_media_autoplay_block "ऑटोप्ले ब्लॉक करू">
 <!ENTITY pref_zoom_force_enabled "हमेशा जूम सक्षम करू">
 <!ENTITY pref_zoom_force_enabled_summary "बल ओवरराइड अछि, ताकि अहाँ कोनो पृष्ठ ज़ूम कए सकैत छी ">
 <!ENTITY pref_voice_input "ध्वनि क इनपुट">
@@ -900,3 +894,13 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "चलएनाय पुनः शुरू करू">
 <!ENTITY pip_pause_button_title "रोकू">
 <!ENTITY pip_pause_button_description "चलएनाय रोकू">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; लोकेशन सेवा">
+<!ENTITY download_notification_channel "डाउनलोड">
+<!ENTITY media_notification_channel "मीडिया प्लेबैक">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; पुश नोटिफिकेशन">
+<!ENTITY updater_notification_channel "एप अपडेट">
+<!ENTITY synced_tabs_notification_channel "टैब सिंक भेल">
