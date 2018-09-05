@@ -644,6 +644,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = İstisnalar…
     .accesskey = r
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = “İçerik engelleme” ayarlarınız, “çerezler ve site verileri” ayarlarının değiştirilmesini engelliyor.
 
 ## Privacy Section - Address Bar
 
@@ -703,9 +707,11 @@ content-blocking-tracking-protection-change-blocklist = Engelleme listesini değ
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Yavaş yüklenen takipçiler
     .accesskey = Y
+content-blocking-fastblock-new-description = Yalnızca sayfaların çabuk yüklenmesini önleyen takipçileri engeller.
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Bulunan tüm takipçiler
     .accesskey = B
+content-blocking-tracking-protection-new-description = Bilinen tüm takipçileri engeller. (Bazı sayfalar düzgün yüklenmeyebilir.)
 content-blocking-tracking-protection-option-always =
     .label = Her zaman
     .accesskey = H
@@ -717,6 +723,11 @@ content-blocking-third-party-cookies-label =
     .label = Üçüncü taraf çerezleri
     .accesskey = Ü
 content-blocking-reject-trackers-description = Tüm üçüncü taraf çerezlerini veya yalnızca takipçilerin oluşturduğu çerezleri engelleyebilirsiniz.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = “Çerezler ve site verileri” ayarlarınız, “üçüncü taraf çerezleri” ayarlarının değiştirilmesini engelliyor.
 content-blocking-change-cookie-settings =
     .label = Çerez ayarlarını değiştir
     .accesskey = z
