@@ -29,3 +29,7 @@ policy-DisableFirefoxScreenshots = De Firefox Screenshots-funksje útskeakelje.
 policy-DisableFirefoxStudies = Foarkomme dat { -brand-short-name } ûndersiken útfiert.
 policy-DisableForgetButton = Tagong ta de knop Ferjitte foarkomme.
 policy-DisableFormHistory = Gjin syk- en formulierskiednis ûnthâlde.
+policy-DisableMasterPasswordCreation = Wannear true, kin gjin haadwachtwurd oanmakke wurde.
+policy-DisablePocket = De funksje foar it bewarjen fan websiden nei Pocket útskeakelje.
+policy-DisablePrivateBrowsing = Priveenavigaasje útskeakelje.
+policy-DisableProfileImport = De menuopdracht foar it ymportearjen fan gegevens fan in oare browser út útskeakelje.
