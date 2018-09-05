@@ -5,6 +5,8 @@
 
 <!ENTITY migrationWizard.title          "Ganukuo' ga'an">
 
+<!ENTITY importFrom.label               "Ganukuo' markador, riña gaché nu', da'ngà huìi ni a'ngò si dato:">
+<!ENTITY importFromUnix.label           "Ganukuo', preferensia, markador, riña gaché nu', da'ngà huìi ni a'ngò si dato:">
 
 
 
