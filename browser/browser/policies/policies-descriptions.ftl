@@ -36,6 +36,7 @@ policy-DisableProfileRefresh = Disattiva il pulsante “Ripristina { -brand-shor
 policy-DisableSafeMode = Disattiva la possibilità di riavviare in modalità provvisoria. Nota: l’utilizzo del pulsante Maiusc per avviare in modalità provvisoria può essere disattivato solo nei criteri di gruppo.
 policy-DisableSecurityBypass = Impedisci all’utente di ignorare alcuni avvisi di sicurezza.
 policy-DisableSetDesktopBackground = Disattiva il comando per impostare un’immagine come sfondo del desktop.
+policy-DisableSetAsDesktopBackground = Disattiva il comando “Imposta come sfondo del desktop…” per le immagini.
 policy-DisableSystemAddonUpdate = Impedisci al browser di installare e aggiornare componenti aggiuntivi di sistema.
 policy-DisableTelemetry = Disattiva telemetria.
 policy-DisplayBookmarksToolbar = Visualizza la barra dei segnalibri per impostazione predefinita.
