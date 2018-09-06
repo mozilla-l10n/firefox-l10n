@@ -26,3 +26,9 @@ policy-DisableFeedbackCommands = Deshabilitar comandos para enviar opiniones des
 policy-DisableFirefoxAccounts = Deshabilitar servicios basados en { -fxaccount-brand-name }, incluyendo Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Deshabilitar la función de Firefox Screenshots.
+policy-DisableFirefoxStudies = Impedir que { -brand-short-name } ejecute estudios.
+policy-DisableForgetButton = Impedir el acceso al botón Olvidar.
+policy-DisableFormHistory = No recordar la búsqueda y el historial de formularios.
+policy-DisableMasterPasswordCreation = Si se usa "true", no se puede crear una contraseña maestra.
+policy-DisablePocket = Deshabilitar la función de guardar páginas web a Pocket.
+policy-DisablePrivateBrowsing = Deshabilitar la Navegación privada.
