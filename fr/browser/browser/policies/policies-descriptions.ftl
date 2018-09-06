@@ -32,6 +32,7 @@ policy-DisableFormHistory = Ne pas conserver d’historique des recherches et de
 policy-DisableMasterPasswordCreation = Si activé, il sera impossible de créer un mot de passe principal.
 policy-DisablePocket = Désactive la fonctionnalité d’enregistrement de pages web dans Pocket.
 policy-DisablePrivateBrowsing = Désactive la navigation privée.
+policy-DisableProfileRefresh = Désactive le bouton Réparer { -brand-short-name } dans la page about:support.
 policy-DisableSecurityBypass = Empêche l'utilisateur de contourner certains avertissements de sécurité.
 policy-DisableSetDesktopBackground = Désactive l'option Choisir l'image comme fond d'écran.
 policy-DisableTelemetry = Désactiver la télémétrie
