@@ -39,6 +39,7 @@
   -  https://developer.mozilla.org/docs/Tools displayed in the top section when DevTools
   -  are disabled. -->
 
+<!ENTITY  aboutDevtools.enable.closeButton2 "Tôp Tab nyôe">
 
 
 <!-- LOCALIZATION NOTE (aboutDevtools.newsletter.message): Subscribe form message.

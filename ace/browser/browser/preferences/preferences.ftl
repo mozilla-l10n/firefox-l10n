@@ -316,6 +316,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proksi Jaringan
+network-settings-title = Peuatô Jaringan
 network-proxy-connection-description = Meuatô kiban { -brand-short-name } meuhubông u internet
 network-proxy-connection-learn-more = Meurunoë Lom
 network-proxy-connection-settings =

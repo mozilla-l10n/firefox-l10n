@@ -114,6 +114,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Peutanda Ban Dum Tab…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Pubateue Tôp Tab">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -177,6 +178,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 
+<!ENTITY closeWindow.label "Tôp Tingkap">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "Peutanda">
@@ -678,6 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+<!ENTITY contentBlocking.breakageReportView.learnMore "Meurunoë Lom">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Bateuë">
 
 
@@ -718,6 +721,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Tôp bandum <html:strong>Tab</html:strong> ngön <html:strong>Tingkap</html:strong>">
 
 <!ENTITY panicButton.view.forgetButton            "Tuwo!">
 

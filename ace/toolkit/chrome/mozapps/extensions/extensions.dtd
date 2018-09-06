@@ -61,6 +61,7 @@
      necessary -->
 <!ENTITY addon.undoAction.label               "Peubateuë">
 <!ENTITY addon.undoRemove.label               "Peubateuë">
+<!ENTITY addon.updateNow.label                "Seubarô Jinoë">
 <!ENTITY addon.checkingForUpdates.label       "Paréksa vèrsi barô…">
 
 
