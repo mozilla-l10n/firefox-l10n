@@ -16,6 +16,8 @@ site-data-column-cookies =
     .label = Cookie
 site-data-column-storage =
     .label = Lưu trữ
+site-data-column-last-used =
+    .label = Sử dụng lần cuối
 site-data-remove-selected =
     .label = Xóa mục đã chọn
     .accesskey = r
@@ -38,8 +40,6 @@ site-data-remove-shown =
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Xóa

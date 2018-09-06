@@ -8,7 +8,11 @@
 <!ENTITY loadError.label "Gặp vấn đề khi tải trang">
 <!ENTITY retry.label "Thử lại">
 <!ENTITY returnToPreviousPage.label "Trở lại">
+<!ENTITY returnToPreviousPage1.label "Quay lại (Khuyến nghị)">
 <!ENTITY advanced.label "Nâng cao">
+
+<!ENTITY continue2.label "Thêm…">
+<!ENTITY moreInformation.label "Thông tin Chi tiết">
 
 <!-- Specific error messages -->
 
@@ -86,10 +90,16 @@
 <!ENTITY nssFailure2.longDesc2 "<ul><li>Không thể hiển thị trang bạn muốn xem vì không thể kiểm tra tính xác thực của dữ liệu nhận được.</li><li>Vui lòng liên hệ chủ trang web để báo với họ vấn đề này.</li></ul>">
 
 <!ENTITY certerror.longpagetitle1 "Kết nối của bạn không an toàn">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Người chủ của <span class='hostname'/> đã cấu hình trang của họ không đúng.  Để tránh mất cắp thông tin của bạn, &brandShortName; đã không kết nối tới trang này.">
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>Trang web này có thể bị gián đoạn tạm thời hoặc do quá tải. Hãy thử lại trong chốc lát.</li> <li>Nếu bạn không thể mở bất kì trang nào, hãy kiểm tra kết nối mạng.</li> <li>Nếu máy tính hoặc mạng của bạn được bảo vệ bởi tường lửa hoặc proxy, hãy chắc chắn rằng &brandShortName; được phép truy cập Web.</li> </ul>">
 
@@ -101,6 +111,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Thêm ngoại Lệ…">
+
 
 <!ENTITY errorReporting.automatic2 "Báo cáo những lỗi như thế này để giúp Mozilla nhận diện và chặn những trang độc hại">
 <!ENTITY errorReporting.learnMore "Tìm hiểu thêm…">
@@ -129,6 +140,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> sử dụng công nghệ bảo mật lỗi thời và dễ bị tấn công. Một kẻ tấn công có thể dễ dàng làm lộ những thông tin mà bạn nghĩ là an toàn. Người quản lý trang web trước tiên sẽ cần phải sửa lỗi máy chủ trước khi bạn có thể vào trang.</p><p>Mã lỗi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Trang bị chặn">
+
 
 <!ENTITY prefReset.longDesc "Dường như là cài đặt bảo mật mạng của bạn có thể gây ra điều này. Bạn có muốn khôi phục cài đặt mặc định?">
 <!ENTITY prefReset.label "Khôi phục cài đặt mặc định">
