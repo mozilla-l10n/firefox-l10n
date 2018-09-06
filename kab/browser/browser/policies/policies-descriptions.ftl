@@ -18,3 +18,7 @@ policy-BlockAboutSupport = Sewḥel anekcum ɣer usebter n about:support.
 policy-Cookies = Sireg neɣ gdel asbadu n inagan n tuqqna i yisebtar.
 policy-DisableAppUpdate = Sewḥel aleqqem n yiminig.
 policy-DisableDeveloperTools = Sewḥel anekcum ɣer ifecka n tneflit.
+policy-DisableFormHistory = Ur ḥerrez ara amazray n unadi d tferkit.
+policy-DisablePrivateBrowsing = Sens tunigin tusligt.
+policy-DisableTelemetry = Sens tilisɣelt.
+policy-Proxy = Swel iɣewwaṛen n upṛuksi.
