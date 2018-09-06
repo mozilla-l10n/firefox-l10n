@@ -18,7 +18,13 @@ policy-BlockAboutSupport = Sewḥel anekcum ɣer usebter n about:support.
 policy-Cookies = Sireg neɣ gdel asbadu n inagan n tuqqna i yisebtar.
 policy-DisableAppUpdate = Sewḥel aleqqem n yiminig.
 policy-DisableDeveloperTools = Sewḥel anekcum ɣer ifecka n tneflit.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Sens tamahilt Firefox Screenshots.
+policy-DisableForgetButton = Sewḥel anekcum ɣer tqeffalt n usfaḍ n isefka.
 policy-DisableFormHistory = Ur ḥerrez ara amazray n unadi d tferkit.
 policy-DisablePrivateBrowsing = Sens tunigin tusligt.
 policy-DisableTelemetry = Sens tilisɣelt.
+policy-DisplayMenuBar = Sken afeggag n wumuɣ s wudem amezwer.
+policy-FlashPlugin = Sireg neɣ gdel asemres n uzegrir Flash.
+policy-InstallAddonsPermission = Sireg asebded n izegrar di kra n ismal web.
 policy-Proxy = Swel iɣewwaṛen n upṛuksi.
