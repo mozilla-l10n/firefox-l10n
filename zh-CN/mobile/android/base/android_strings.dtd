@@ -900,4 +900,7 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "&vendorShortName; 位置服务">
 <!ENTITY download_notification_channel "下载">
 <!ENTITY media_notification_channel "媒体播放">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; 推送通知">
 <!ENTITY updater_notification_channel "应用程序更新">
+<!ENTITY synced_tabs_notification_channel "受同步的标签页">
