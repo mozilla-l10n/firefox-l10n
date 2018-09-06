@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -132,17 +124,8 @@ is-not-default = { -brand-short-name } không phải là trình duyệt mặc đ
 set-as-my-default-browser =
     .label = Đặt làm mặc định…
     .accesskey = D
-startup-page = Khi { -brand-short-name } khởi động
-    .accesskey = s
-startup-user-homepage =
-    .label = Hiển thị trang chủ của bạn
-startup-blank-page =
-    .label = Hiện một trang trống
-startup-prev-session =
-    .label = Hiển thị cửa sổ và thẻ lần trước của bạn
 disable-extension =
     .label = Tắt phần mở rộng
-home-page-header = Trang chủ
 tabs-group-header = Thẻ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab để chuyển qua các thẻ theo thứ tự sử dụng gần đây nhất
@@ -250,7 +233,6 @@ play-drm-content =
 play-drm-content-learn-more = Tìm hiểu thêm
 update-application-title = Cập nhật { -brand-short-name }
 update-application-description = Giữ { -brand-short-name } luôn cập nhật để đạt được hiệu năng, sự ổn định, và bảo mật tốt nhất.
-update-application-info = Phiên bản { $version } <a>Có gì mới</a>
 update-application-version = Phiên bản { $version } <a data-l10n-name="learn-more">Có gì mới</a>
 update-history =
     .label = Hiển thị lịch sử cập nhật…
@@ -286,7 +268,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Giới hạn xử lý nội dung
     .accesskey = L
 performance-limit-content-process-enabled-desc = Các tiến trình xử lý nội dung bổ sung có thể cải thiện hiệu suất khi sử dụng nhiều thẻ một lúc, nhưng cũng sẽ tiêu tốn nhiều bộ nhớ.
-performance-limit-content-process-disabled-desc = Việc chỉnh sửa số tiến trình xử lý nội dung chỉ có thể thực hiện với { -brand-short-name } đa tiến trình. <a>Tìm hiểu làm cách nào để kiểm tra khi chế độ đa tiến trình được bật</a>
 performance-limit-content-process-blocked-desc = Việc chỉnh sửa số tiến trình xử lý nội dung chỉ có thể thực hiện với { -brand-short-name } đa tiến trình. <a data-l10n-name="learn-more">Tìm hiểu làm cách nào để kiểm tra khi chế độ đa tiến trình được bật</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -347,9 +328,6 @@ use-current-pages =
 choose-bookmark =
     .label = Dùng trang đánh dấu…
     .accesskey = d
-restore-default =
-    .label = Khôi phục về Mặc định
-    .accesskey = M
 
 ## Search Section
 
@@ -542,9 +520,6 @@ history-dontremember-description = { -brand-short-name } sẽ dùng thiết lậ
 history-private-browsing-permanent =
     .label = Luôn luôn dùng chế độ duyệt web riêng tư
     .accesskey = y
-history-remember-option =
-    .label = Ghi nhớ lịch sử truy cập và tải về của tôi
-    .accesskey = n
 history-remember-search-option =
     .label = Ghi nhớ lược sử biểu mẫu và tìm kiếm
     .accesskey = b
@@ -592,6 +567,12 @@ addressbar-locbar-openpage-option =
     .accesskey = T
 addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của công cụ tìm kiếm
 
+## Privacy Section - Content Blocking
+
+content-blocking-tracking-protection-option-private =
+    .label = Chỉ trong cửa sổ riêng tư
+    .accesskey = p
+
 ## Privacy Section - Tracking
 
 tracking-header = Trình chống theo dõi
@@ -602,7 +583,7 @@ tracking-mode-always =
     .accesskey = n
 tracking-mode-private =
     .label = Chỉ trong cửa sổ riêng tư
-    .accesskey = r
+    .accesskey = l
 tracking-mode-never =
     .label = Không bao giờ
     .accesskey = K
