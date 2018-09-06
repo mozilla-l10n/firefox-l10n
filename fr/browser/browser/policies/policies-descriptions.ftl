@@ -35,3 +35,5 @@ policy-DisablePrivateBrowsing = Désactive la navigation privée.
 policy-DisableSecurityBypass = Empêche l'utilisateur de contourner certains avertissements de sécurité.
 policy-DisableSetDesktopBackground = Désactive l'option Choisir l'image comme fond d'écran.
 policy-DisableTelemetry = Désactiver la télémétrie
+policy-DisplayBookmarksToolbar = Afficher la barre personnelle par défaut.
+policy-DontCheckDefaultBrowser = Désactive la vérification du navigateur par défaut au démarrage.
