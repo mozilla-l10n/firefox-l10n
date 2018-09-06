@@ -48,3 +48,6 @@ policy-FlashPlugin = 플래시 플러그인의 사용을 허용하거나 거부�
 policy-HardwareAcceleration = False 값이면 하드웨어 가속 기능을 끕니다.
 policy-Homepage = 홈페이지를 설정하고 선택적으로 잠급니다.
 policy-InstallAddonsPermission = 특정 웹사이트가 부가 기능을 설치할 수 있게 허용합니다.
+policy-NoDefaultBookmarks = { -brand-short-name } 기본 북마크 번들과 스마트 북마크(자주 방문, 최근 태그)가 생성되지 않게 합니다. 참고: 이 정책은 프로필을 처음으로 실행하기 전에만 효과적입니다.
+policy-OfferToSaveLogins = { -brand-short-name }가 로그인과 비밀번호 기억을 제공하도록 허용하는 설정을 강제합니다. True와 false 값을 사용할 수 있습니다.
+policy-OverrideFirstRunPage = 처음 시작 페이지 설정을 재정의 합니다. 처음 시작 페이지를 비활성화 하려면 이 정책을 빈칸으로 설정하세요.
