@@ -5,6 +5,7 @@
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
+<!ENTITY downloads.title                  "Beureukaih teukeubah">
 
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the

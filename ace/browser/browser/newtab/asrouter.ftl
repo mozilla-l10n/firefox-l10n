@@ -4,7 +4,13 @@
 
 cfr-doorhanger-extension-cancel-button = Bèk Jinoë
     .accesskey = B
+cfr-doorhanger-extension-ok-button = Tamah Jinoë
+    .accesskey = T
 cfr-doorhanger-extension-learn-more-link = Meurunoë lom
+# This string is used on a new line below the add-on name
+# Variables:
+#   $name (String) - Add-on author name
+cfr-doorhanger-extension-author = uléh { $name }
 
 ## Add-on statistics
 ## These strings are used to display the total number of

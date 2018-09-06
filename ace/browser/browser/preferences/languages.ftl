@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 languages-window =
-    .title = Basa
-    .style = luwah: 30em
+    .title = Bahsa
+    .style = width: 30em
 languages-close-key =
     .key = w
 languages-description = Ônwèb nyoë meujan-jan dipeutaba leubèh dari saboh basa. Piléh basa untôk peuleumah nibak ônwèb nyoë, nyang meu-urôt seusuwai deungon préfèren
@@ -38,3 +38,6 @@ languages-code-format =
     .label = { $locale } [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Peuatô Bahsa { -brand-short-name }
+    .style = width: 40em

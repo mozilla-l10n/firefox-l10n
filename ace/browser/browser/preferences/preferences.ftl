@@ -664,6 +664,9 @@ content-blocking-tracking-protection-option-pbm =
 content-blocking-tracking-protection-option-disabled =
     .label = Hantom tham
 content-blocking-tracking-protection-change-blocklist = Gantoe seunaroe tham
+content-blocking-tracking-protection-option-always =
+    .label = Sabé
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
