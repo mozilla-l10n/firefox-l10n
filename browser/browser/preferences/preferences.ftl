@@ -700,10 +700,12 @@ content-blocking-tracking-protection-change-blocklist = 更换拦截列表…
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = 减慢加载的跟踪器
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = 减慢加载的跟踪器
     .accesskey = S
 content-blocking-fastblock-new-description = 拦截减慢页面加载速度的跟踪器。
-content-blocking-tracking-protection-all-label = 检测到的所有跟踪器
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = 检测到的所有跟踪器
     .accesskey = T
 content-blocking-tracking-protection-new-description = 拦截已知的所有跟踪器。（可能影响某些页面的加载。）
 content-blocking-tracking-protection-option-always =
@@ -713,7 +715,8 @@ content-blocking-tracking-protection-option-private =
     .label = 仅在隐私窗口中
     .accesskey = P
 content-blocking-tracking-protection-change-block-list = 更换拦截列表
-content-blocking-reject-trackers-label = 第三方 Cookie
+content-blocking-third-party-cookies-label =
+    .label = 第三方 Cookie
     .accesskey = C
 content-blocking-reject-trackers-description = 拦截所有第三方 Cookie，或只拦截跟踪器设置的 Cookie。
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
