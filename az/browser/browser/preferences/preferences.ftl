@@ -704,10 +704,12 @@ content-blocking-tracking-protection-change-blocklist = Qara Siyahını Dəyiş�
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Yavaş Yüklənən İzləyicilər
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Yavaş yüklənən izləyicilər
     .accesskey = S
 content-blocking-fastblock-new-description = Ancaq səhifənin tez yüklənməsini əngəlləyən izləyiciləri əngəllə.
-content-blocking-tracking-protection-all-label = Bütün Aşkarlanmış İzləyicilər
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Bütün aşkarlanan izləyicilər
     .accesskey = T
 content-blocking-tracking-protection-new-description = Bütün bilinən izləyiciləri əngəllə. (Bəzi səhifələr yüklənməyə bilər.)
 content-blocking-tracking-protection-option-always =
@@ -717,7 +719,8 @@ content-blocking-tracking-protection-option-private =
     .label = Ancaq məxfi pəncərələrdə
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Qara siyahını dəyişdir
-content-blocking-reject-trackers-label = Üçüncü tərəf çərəzlər
+content-blocking-third-party-cookies-label =
+    .label = Üçüncü-tərəf çərəzlər
     .accesskey = C
 content-blocking-reject-trackers-description = Bütün üçüncü-tərəf çərəzləri və ya ancaq izləyicilər tərəfindən olanları əngəllə.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
