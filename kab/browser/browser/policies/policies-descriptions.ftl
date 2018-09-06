@@ -11,3 +11,10 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Sbadu URL n uleqqem udmawan i usnas.
+policy-BlockAboutAddons = Sewḥel anekcum ɣer umsefrek n izegrar  (about:addons).
+policy-BlockAboutConfig = Sewḥel anekcum ɣer usebter n about:config.
+policy-BlockAboutProfiles = Sewḥel anekcum ɣer usebter n about:profiles.
+policy-BlockAboutSupport = Sewḥel anekcum ɣer usebter n about:support.
+policy-Cookies = Sireg neɣ gdel asbadu n inagan n tuqqna i yisebtar.
+policy-DisableAppUpdate = Sewḥel aleqqem n yiminig.
+policy-DisableDeveloperTools = Sewḥel anekcum ɣer ifecka n tneflit.
