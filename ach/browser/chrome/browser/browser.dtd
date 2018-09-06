@@ -67,7 +67,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "o">
 <!ENTITY  sendLinkToDevice.label             "Cwal kakube i Nyonyo">
 <!ENTITY  sendLinkToDevice.accesskey         "o">
-<!ENTITY  sendToDeviceFeedback.label         "Kicwalo!">
 <!ENTITY  moveToNewWindow.label              "Kob l dirica manyen">
 <!ENTITY  moveToNewWindow.accesskey          "d">
 <!ENTITY  bookmarkAllTabs.label              "Ket alama buk i dirica matino weng…">
@@ -257,7 +256,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Gang">
 
-
 <!ENTITY bookmarksButton.label          "Alama buk">
 <!ENTITY bookmarksCmd.commandkey "b">
 
@@ -408,23 +406,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Med bot gintic">
 <!ENTITY customizeMenu.addToToolbar.accesskey "M">
-<!ENTITY customizeMenu.addToPanel.label "Med bot nying gin ayera">
-<!ENTITY customizeMenu.addToPanel.accesskey "n">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Medi i Jami ayera ma okane">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "Kob bot gintic">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Kob bot nying gin ayera">
-<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -434,11 +421,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "W">
 <!ENTITY customizeMenu.removeFromToolbar.label "Kwany ki bot gintic">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "K">
-<!ENTITY customizeMenu.removeFromMenu.label "Kwany ki bot nying gin ayera">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "K">
 <!ENTITY customizeMenu.addMoreItems.label "Med jami mukene…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "M">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Kan pire kene i Gitic">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "K">
 <!ENTITY customizeMenu.manageExtension.label "Lo Lamed">
@@ -584,7 +568,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Ket alama buk i pem man">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "a">
 <!ENTITY pageAction.copyLink.label    "Lok kakube">
-<!ENTITY copyURLFeedback.label        "Kiloko!">
 <!ENTITY emailPageCmd.label           "Cwal kakube…">
 <!ENTITY emailPageCmd.accesskey       "C">
 <!ENTITY savePageCmd.label            "Gwok pot buk calo…">
@@ -771,7 +754,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Otum">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
@@ -815,11 +797,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Ngec mapol">
 
+<!ENTITY identity.clearSiteData "Jwa Angija ki Data me kakube…">
 
 <!ENTITY identity.permissions "Rukuca">
 <!ENTITY identity.permissionsEmpty "Pe imiyo ki kakube man kit twer madito mo keken.">
 <!ENTITY identity.permissionsReloadHint "Twero mite ni myero i nwo cano potbuk wek alokaloka otime.">
-
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -925,7 +907,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
+     ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Kigengo woko">
@@ -935,23 +917,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Med Gengo…">
 
-<!ENTITY trackingProtection.title "Gwokke ikom lubo kor">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; tye kagengo but potbuk ma twero lubo kor yeny mamegi.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Kakube man tye ki jami ma twero lubo kor yeny mamegi. I juko woko gwokke.">
-<!ENTITY trackingProtection.notDetected3 "Pe kinongo jami ma lubo kor i potbuk man.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Juk gwokke pi pot buk man">
-<!ENTITY trackingProtection.unblock.accesskey "J">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Juk gwokke pi kare man">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "J">
-<!ENTITY trackingProtection.block2.label "Cak gwokke">
-<!ENTITY trackingProtection.block2.accesskey "C">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
 
+<!ENTITY contentBlocking.breakageReportView.learnMore "Nong ngec mapol">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Cwal Ripot">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Juki">
+
+<!ENTITY trackingProtection.title "Gwokke ikom lubo kor">
 <!ENTITY trackingProtection.tooltip "Yab ter me Gwokke ikom lubo kor">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; tye kagengo but potbuk man ma twero lubo kor yeny mamegi.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; onongo jami ma twero lubo kor yeny mamegi.">
