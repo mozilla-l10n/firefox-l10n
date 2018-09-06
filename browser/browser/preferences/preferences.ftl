@@ -182,6 +182,8 @@ choose-language-description = Chọn ngôn ngữ ưu tiên bạn muốn để hi
 choose-button =
     .label = Chọn…
     .accesskey = C
+confirm-browser-language-change-description = Khởi động lại { -brand-short-name } để áp dụng các thay đổi này
+confirm-browser-language-change-button = Áp dụng và Khởi động lại
 translate-web-pages =
     .label = Dịch nội dung web
     .accesskey = D
@@ -296,6 +298,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Mạng lưới proxy
+network-settings-title = Cài đặt mạng
 network-proxy-connection-description = Cấu hình phương thức { -brand-short-name } kết nối internet.
 network-proxy-connection-learn-more = Tìm hiểu thêm
 network-proxy-connection-settings =
@@ -304,16 +307,25 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Cửa sổ và thẻ mới
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Trang chủ và cửa sổ mới
 home-newtabs-mode-label = Thẻ mới
+home-restore-defaults =
+    .label = Khôi phục về mặc định
+    .accesskey = R
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Trang chủ Firefox (Mặc định)
+home-mode-choice-custom =
+    .label = Tùy chỉnh URL...
 home-mode-choice-blank =
     .label = Trang trắng
+home-homepage-custom-url =
+    .placeholder = Dán một URL...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should

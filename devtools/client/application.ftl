@@ -12,9 +12,24 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Text for the debug link displayed for an already started Service Worker. Clicking on the
+# link opens a new devtools toolbox for this service worker. The title attribute is only
+# displayed when the link is disabled.
+serviceworker-worker-debug = Gỡ lỗi
+    .title = Chỉ dịch vụ đang chạy có thể gỡ lỗi
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start = Bắt đầu
+# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
+serviceworker-worker-source = Nguồn
 # Text displayed next to the current status of the service worker.
 serviceworker-worker-status = Trạng thái
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
+# Service Worker status. A running service worker is registered, currently executed, can
+# be debugged and stopped.
+serviceworker-worker-status-running = Đang chạy
+# Service Worker status. A stopped service worker is registered but not currently active.
+serviceworker-worker-status-stopped = Đã dừng
