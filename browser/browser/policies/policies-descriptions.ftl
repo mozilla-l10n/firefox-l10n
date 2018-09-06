@@ -46,3 +46,6 @@ policy-Extensions = Instalar, desinstalar o bloquear extensiones. La opción Ins
 policy-FlashPlugin = Permitir o denegar el uso del plugin Flash.
 policy-HardwareAcceleration = Si es falso, desactivar la aceleración de hardware.
 policy-Homepage = Establecer y bloquear opcionalmente la página de inicio.
+policy-InstallAddonsPermission = Permitir que ciertos sitios web instalen complementos.
+policy-NoDefaultBookmarks = Deshabilitar la creación de los marcadores predeterminados incluidos con { -brand-short-name }, y los marcadores inteligentes (etiquetas más visitadas y recientes). Nota: esta política solo es efectiva si se usa antes de la primera ejecución del perfil.
+policy-OfferToSaveLogins = Hacer cumplir la configuración para permitir que { -brand-short-name } ofrezca recordar inicios de sesión y contraseñas guardadas. Se aceptan valores verdaderos y falsos.
