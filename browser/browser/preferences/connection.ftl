@@ -60,3 +60,6 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = DNS ប្រូស៊ី​នៅ​ពេល​ប្រើប្រាស់ SOCKS v5
     .accesskey = d
+connection-dns-over-https =
+    .label = បើកដំណើរការ DNS លើ HTTPS
+    .accesskey = b
