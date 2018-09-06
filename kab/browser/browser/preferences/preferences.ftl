@@ -679,11 +679,6 @@ content-blocking-category-label = Fren ayen ad tesweḥleḍ
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-label = Sɛeṭṭel iferdisen n uḍfar
     .accesskey = S
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Ineḍfaṛen n Usali-Ẓẓayen
-    .accesskey = S
 content-blocking-fastblock-description = Sewḥel agbur wis kraḍ ittawin ugar n 5 n tsenatin i tulya.
 content-blocking-fastblock-option-enabled =
     .label = Sewḥel yal tikelt
@@ -691,8 +686,6 @@ content-blocking-fastblock-option-disabled =
     .label = Ur sewḥal ara
 content-blocking-tracking-protection-label = Ineḍfaren
     .accesskey = ḍ
-content-blocking-tracking-protection-all-label = Akk Ineḍfaṛen Yettwafen
-    .accesskey = T
 content-blocking-tracking-protection-description = Ad isewḥel akk ineḍfaṛen yettwasnen (Tamawt: Izmer daɣen ad isewḥel asali n kra n isebtar).
 content-blocking-tracking-protection-option-enabled =
     .label = Sewḥal yal tikelt
@@ -700,24 +693,15 @@ content-blocking-tracking-protection-option-pbm =
     .label = Sewḥel deg usfaylu uslig kan
 content-blocking-tracking-protection-option-disabled =
     .label = Werǧin ad teswaḥleḍ
+content-blocking-tracking-protection-change-blocklist = Snifel tabdart n usewḥel…
 content-blocking-tracking-protection-option-always =
     .label = Yal tikelt
     .accesskey = A
 content-blocking-tracking-protection-option-private =
     .label = Deg usfaylu uslig kan
     .accesskey = p
-content-blocking-tracking-protection-change-blocklist = Snifel tabdart n usewḥel…
-content-blocking-reject-trackers-label = Inagan n tuqqna wis kraḍ
-    .accesskey = C
+content-blocking-tracking-protection-change-block-list = Snifel tabdart n usewḥel
 content-blocking-reject-trackers-description = Sewḥel akk inagan n tuqqna wis kraḍ neɣ wid-ak kan yettuneḍfaṛen.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = Akk inagan n tuqqna ttusewḥlen.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Inagan n tuqqna sɣur ismal web uɣur ur telli tirza ttusewḥelen akka tura.
 content-blocking-change-cookie-settings =
     .label = Beddel iɣewwaṛen n inagan n tuqqna
     .accesskey = S

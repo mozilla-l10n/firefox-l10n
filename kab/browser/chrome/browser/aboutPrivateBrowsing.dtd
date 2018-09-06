@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Tunigin tusligt">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Ldi asfaylu n tunigin tusligt?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Mačči deg usfaylu uslig i telliḍ tura.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Ldi asfaylu uslig">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "s">
@@ -35,3 +30,5 @@
 <!ENTITY trackingProtection.title                        "Ammesten n usfuɣel ">
 <!ENTITY trackingProtection.description2                 "Kra n yismal web zemren ad sqedcen imesfuɣal akken ad walin armud-ik deg Internet. S ummesten mgal asfuɣel, Firefox ad issewḥel ddeqs n yimesfuɣal seg ulqaḍ n telɣut ɣef wamek iteddu yiminig-inek.">
 <!ENTITY trackingProtection.startTour1                   "Wali amek i iteddu">
+
+<!ENTITY contentBlocking.title                           "Asewḥel n ugbur">
