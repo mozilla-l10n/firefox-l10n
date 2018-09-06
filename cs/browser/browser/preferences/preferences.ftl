@@ -729,7 +729,7 @@ content-blocking-tracking-protection-change-block-list = Změnit seznam blokací
 content-blocking-third-party-cookies-label =
     .label = Cookies třetích stran
     .accesskey = C
-content-blocking-reject-trackers-description = Nastavení blokování cookies všech třetích stran nebo jen od sledovacích prvků.
+content-blocking-reject-trackers-description = Blokovat cookies všech třetích stran nebo jen od sledovacích prvků.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
 # of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
 # or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
