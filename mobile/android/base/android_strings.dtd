@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Další">
 
 <!ENTITY firstrun_tabqueue_title "Odkazy">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Zapnout frontu panelů">
-<!ENTITY firstrun_tabqueue_subtext_off "Uložte si odkazy ve &brandShortName; na později při klepání na ně v jiných aplikacích.">
-
-<!ENTITY firstrun_tabqueue_message_on "Úspěch!">
-<!ENTITY firstrun_tabqueue_subtext_on "Můžete to vždy vypnout v &settings; pod &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Články">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,13 +63,14 @@
 <!ENTITY  crash_restart_label "Restartovat &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Hledat nebo vložit adresu">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Použít čtečku QR kódů pro vyhledávání nebo zadání adresy">
 <!-- Localization note (url_bar_mic_text2) : This text will be
      heard by non-visual users when the focus is on the Microphone
      icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Použít mikrofon pro vyhledávání nebo zadání adresy">
 
 <!ENTITY bookmark "Přidat do záložek">
 <!ENTITY bookmark_remove "Odebrat záložku">
@@ -213,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Obnova panelů, spořič dat, nástroje vývojáře">
 <!ENTITY pref_category_notifications "Oznámení">
-<!ENTITY pref_category_notifications_summary "Nové funkce, aktualizace webových stránek">
 <!ENTITY pref_category_notifications_summary2 "Nové funkce a tipy k používání">
 <!ENTITY pref_developer_remotedebugging_usb "Vzdálené ladění pomocí USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Vzdálené ladění pomocí Wi-Fi">
@@ -370,6 +364,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Povolit automatické přehrávání">
 <!ENTITY pref_media_autoplay_enabled_summary "Určuje, zda webová stránka může automaticky přehrávat videa či jiný multimediální obsah">
+<!ENTITY pref_media_autoplay_allow "Povolit automatické přehrávání">
+<!ENTITY pref_media_autoplay_block "Blokovat automatické přehrávání">
 <!ENTITY pref_zoom_force_enabled "Vždy povolit lupu">
 <!ENTITY pref_zoom_force_enabled_summary "Lupu bude možné používat pro libovolnou stránku">
 <!ENTITY pref_voice_input "Hlasový vstup">
@@ -445,6 +441,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Hlášení pádů">
 <!ENTITY datareporting_wifi_title2 "Geolokační služba &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Pomozte organizaci &vendorShortName; mapovat svět! Sdílejte přibližnou polohu mobilních a Wi-Fi sítí v okolí vašeho zařízení a pomozte tak vylepšit naše geolokační služby.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "Geolokační služba &vendorShortName; běží">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -886,3 +887,20 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Přidat na domovskou obrazovku">
 <!ENTITY pwa_continue_to_website "Pokračovat na webovou stránku">
 <!ENTITY pwa_onboarding_sumo "Tuto stránku si můžete snadno přidat na vaši domovskou obrazovku. Budete k ní mít okamžitý přístup a prohlížení bude rychlejší se zážitkem jako v aplikaci.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Přehrát">
+<!ENTITY pip_play_button_description "Pokračovat v přehrávání">
+<!ENTITY pip_pause_button_title "Pozastavit">
+<!ENTITY pip_pause_button_description "Pozastavit přehrávání">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Geolokační služba &vendorShortName;">
+<!ENTITY download_notification_channel "Stahování">
+<!ENTITY media_notification_channel "Přehrávání médií">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "Oznámení z aplikace &brandShortName;">
+<!ENTITY updater_notification_channel "Aktualizace aplikace">
+<!ENTITY synced_tabs_notification_channel "Synchronizované panely">
