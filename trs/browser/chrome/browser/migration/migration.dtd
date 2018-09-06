@@ -34,7 +34,13 @@
 
 <!ENTITY noMigrationSources.label       "Nū nari' ma nej programa nikaj markador, riña gaché nu' nej si da'ngà huìi.">
 
+<!ENTITY importSource.title             "Ganukuo' konfigurasiôn ni nej dato">
+<!ENTITY importItems.title              "Nej sa ganukuo'">
+<!ENTITY importItems.label              "Ganahui nej sa hui ruat ganukuajt:">
 
+<!ENTITY migrating.title                "'Ngà anukuaj ma...">
+<!ENTITY migrating.label                "Nej na huin sa 'ngà ganukuaj ma...">
 
+<!ENTITY selectProfile.title            "Nagui Perfil">
 
 
