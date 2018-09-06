@@ -37,3 +37,7 @@ policy-DisableSafeMode = Deshabilitar la función para reiniciar en Modo seguro.
 policy-DisableSecurityBypass = Impedir que el usuario ignore ciertas advertencias de seguridad.
 policy-DisableSetDesktopBackground = Deshabilitar el comando de menú para establecer una imagen como Fondo de escritorio.
 policy-DisableSystemAddonUpdate = Impedir que el navegador instale y actualice los complementos del sistema.
+policy-DisableTelemetry = Desactivar la Telemetría.
+policy-DisplayBookmarksToolbar = Mostrar la Barra de herramientas de marcadores de forma predeterminada.
+policy-DisplayMenuBar = Mostrar la Barra de menú de manera predeterminada.
+policy-DontCheckDefaultBrowser = Deshabilitar la comprobación de Navegador predeterminado al inicio.
