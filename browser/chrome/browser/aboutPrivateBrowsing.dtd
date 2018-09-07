@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "პირადი ფანჯარა">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "გაიხსნას პირადი ფანჯარა?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "ამჟამად პირად ფანჯარაში არ იმყოფებით.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "პირადი ფანჯრის გახსნა">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "პ">
@@ -35,3 +30,6 @@
 <!ENTITY trackingProtection.title                        "თვალყურის დევნისგან დაცვა">
 <!ENTITY trackingProtection.description2                 "ვებსაიტების ნაწილი იყენებს მეთვალყურე ელემენტებს, რომლითაც შესაძლებელია ინტერნეტში თქვენს მოქმედებებზე თვალის მიდევნება. Firefox თვალყურის დევნისგან დაცვის საშუალებით კი ხდება, მსგავსი სახის ინფორმაციის შეგროვებისგან თავის არიდება.">
 <!ENTITY trackingProtection.startTour1                   "ნახეთ, როგორ მუშაობს">
+
+<!ENTITY contentBlocking.title                           "შიგთავსის შეზღუდვა">
+<!ENTITY contentBlocking.description                     "ვებგვერდების ნაწილი იყენებს მეთვალყურეებს, ინტერნეტში თქვენს მოქმედებებზე თვალის მისადევნებლად. პირად ფანჯრებში Firefox-ის შიგთავსის შეზღუდვა ავტომატურად აცილებს იმ მეთვალყურებს, რომლებსაც თქვენი მონაცემების აღრიცხვა შეუძლია, ინტერნეტით სარგებლობისას.">
