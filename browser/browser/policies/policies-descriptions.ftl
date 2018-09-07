@@ -10,5 +10,6 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-Cookies = អនុញ្ញាត ឬបដិសេធវេបសាយដើម្បីកំណត់ខូគី។
 policy-DisablePrivateBrowsing = បិទដំណើររុករកឯកជន។
 policy-DisplayMenuBar = បង្ហាញរបារម៉ឺនុយតាមលំនាំដើម។
