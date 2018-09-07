@@ -30,7 +30,22 @@
 <!ENTITY  mediaTab              "Sa ni'io'">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Dane' huin:">
+<!ENTITY  mediaText             "Texto nikaj dugui':">
+<!ENTITY  mediaAltHeader        "A'ngo texto:">
+<!ENTITY  mediaAddress          "Hiuj gun'">
+<!ENTITY  mediaType             "Dugui'">
+<!ENTITY  mediaSize             "Dàj yachìj man">
+<!ENTITY  mediaCount            "Cuenta">
+<!ENTITY  mediaDimension        "Daj yachij ma:">
+<!ENTITY  mediaLongdesc         "Nuhuin si taj ma:">
+<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaSaveAs           "Na'nïnj so' 'ngà...">
+<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs2.accesskey "e">
+<!ENTITY  mediaPreview          "Daj gurui' ma:">
 
+<!ENTITY  feedTab               "Nej kanal">
+<!ENTITY  feedTab.accesskey     "F">
 
 
 
