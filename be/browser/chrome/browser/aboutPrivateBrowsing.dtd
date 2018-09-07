@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Прыватнае агляданне">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Адкрыць прыватнае акно?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Вы зараз не ў прыватным акне.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Адчыніць прыватнае акно">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "а">
@@ -35,3 +30,5 @@
 <!ENTITY trackingProtection.title                        "Ахова ад сачэння">
 <!ENTITY trackingProtection.description2                 'Некаторыя сайты выкарыстоўваюць спецыяльныя метады, каб асочваць вашу актыўнасць у інтэрнэце і збіраць пра вас звесткі. Тэхналогія Firefox пад назвай "Ахова ад сачэння" (Tracking Protection) блакуе многія з гэтых метадаў.'>
 <!ENTITY trackingProtection.startTour1                   "Як гэта працуе?">
+
+<!ENTITY contentBlocking.title                           "Блакаванне змесціва">
