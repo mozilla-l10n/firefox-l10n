@@ -37,15 +37,22 @@ policy-DisableProfileRefresh = Deshabilitar el botón "Recargar { -brand-short-n
 policy-DisableSafeMode = Deshabilitar la función para reiniciar en modo seguro. Nota: la tecla Mayús para ingresar al modo seguro solo se puede deshabilitar en Windows usando la política de grupo.
 policy-DisableSecurityBypass = Evitar que el usuario ignore ciertas advertencias de seguridad.
 policy-DisableSetDesktopBackground = Deshabilitar el comando de menú para establecer una imagen como fondo de escritorio.
+policy-DisableSetAsDesktopBackground = Deshabilitar el comando de menú configurado como fondo de escritorio para las imágenes.
 policy-DisableSystemAddonUpdate = Evitar que el navegador instale y actualice los complementos del sistema.
 policy-DisableTelemetry = Desactivar la telemetría.
 policy-DisplayBookmarksToolbar = Mostrar la barra de herramientas de marcadores de forma predeterminada.
 policy-DisplayMenuBar = Mostrar la barra de menú de manera predeterminada.
 policy-DontCheckDefaultBrowser = Deshabilitar la comprobación del navegador predeterminado al inicio.
+# “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Habilitar o deshabilitar el bloqueo de contenido y bloquearlo opcionalmente.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Instalar, desinstalar o bloquear extensiones. La opción Instalar toma direcciones URL o rutas como parámetros. Las opciones desinstalar y bloquear toman ID de extensión.
 policy-FlashPlugin = Permitir o denegar el uso del complemento Flash.
 policy-HardwareAcceleration = Si es "false", desactivar aceleración de hardware.
+# “lock” means that the user won’t be able to change this setting
 policy-Homepage = Establecer y opcionalmente bloquear la página de inicio.
 policy-InstallAddonsPermission = Permitir que algunos sitios web instalen complementos.
 policy-NoDefaultBookmarks = Deshabilitar la creación de los marcadores predeterminados incluidos con { -brand-short-name }, y los marcadores inteligentes (etiquetas más visitadas y recientes). Nota: esta política solo es efectiva si se usa antes de la primera ejecución del perfil.
@@ -58,4 +65,6 @@ policy-Proxy = Configura los ajustes del proxy.
 policy-SanitizeOnShutdown = Borrar todos los datos de navegación al apagar.
 policy-SearchBar = Establecer la ubicación predeterminada de la barra de búsqueda. El usuario aún puede personalizarlo.
 policy-SearchEngines = Configurar los ajustes del motor de búsqueda. Esta política solo está disponible en la versión Extended Support Release (ESR).
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Bloquear sitios web de ser visitado. Consulta la documentación para obtener más detalles sobre el formato.
