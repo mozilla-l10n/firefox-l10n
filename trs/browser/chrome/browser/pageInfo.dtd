@@ -47,9 +47,27 @@
 <!ENTITY  feedTab               "Nej kanal">
 <!ENTITY  feedTab.accesskey     "F">
 
+<!ENTITY  permTab               "Gachinj ni'iô'">
+<!ENTITY  permTab.accesskey     "P">
+<!ENTITY  permissionsFor        "Gachinj ni'io' guenda:">
+
+<!ENTITY  securityTab           "Sa dugumin">
+<!ENTITY  securityTab.accesskey "S">
+<!ENTITY  securityView.certView "Ni'io' sertifikado">
+<!ENTITY  securityView.accesskey "V">
+<!ENTITY  securityView.unknown   "Sê sa ni'în' huin">
 
 
+<!ENTITY  securityView.identity.header   "Daj hua sitio web">
+<!ENTITY  securityView.identity.owner    "Dugui' si'iaj:">
+<!ENTITY  securityView.identity.domain   "Sitio Web:">
+<!ENTITY  securityView.identity.verifier "'Ngà ganatsij sa gu'nàj:">
+<!ENTITY  securityView.identity.validity "Gui nahuij ma huin:">
 
-
+<!ENTITY  securityView.privacy.header                   "Sa huìi &amp; riña gaché nu'">
+<!ENTITY  securityView.privacy.history                  "'Ngà gaché nunj riña sitio na ve'ej?">
+<!ENTITY  securityView.privacy.siteData                 "Si nachra sa' sitio na nuguan'an riña si aga'â aj?">
+<!ENTITY  securityView.privacy.clearSiteData            "Nagi'iaj niñu' kookies nī si dato sitio">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 
 
