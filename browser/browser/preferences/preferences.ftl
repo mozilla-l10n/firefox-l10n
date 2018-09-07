@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -66,6 +58,17 @@ should-restart-ok = ಈಗ { -brand-short-name } ಮರಳಿ ಆರಂಭಿಸ
 cancel-no-restart-button = ರದ್ದು ಮಾಡು
 restart-later = ಆಮೇಲೆ ಮರು ಆರಂಭಿಸು
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = ಹುಡುಕು ಫಲಿತಾಂಶಗಳು
@@ -89,17 +92,8 @@ is-not-default = { -brand-short-name } ಪ್ರಸ್ತುತ ನಿಮ್ಮ 
 set-as-my-default-browser =
     .label = ಪೂರ್ವನಿಯೋಜಿತವನ್ನಾಗಿ ಮಾಡು…
     .accesskey = D
-startup-page = { -brand-short-name } ವು ಆರಂಭಗೊಂಡಾಗ
-    .accesskey = s
-startup-user-homepage =
-    .label = ನನ್ನ ನೆಲೆ ತಾಣವನ್ನು ತೋರಿಸು
-startup-blank-page =
-    .label = ಒಂದು ಖಾಲಿ ಪುಟವನ್ನು ತೋರಿಸು
-startup-prev-session =
-    .label = ಹಿಂದಿನ ಬಾರಿಯ ನಿನ್ನ ಕಿಟಕಿ ಹಾಗು ಟ್ಯಾಬ್‌ಗಳನ್ನು ತೋರಿಸು
 disable-extension =
     .label = ಎಕ್ಸ್‌ಟೆನ್ಶನ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು
-home-page-header = ಮುಖಪುಟ
 tabs-group-header = ಟ್ಯಾಬ್‌ಗಳು
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab ಇತ್ತೀಚೆಗೆ ಬಳಸಿದ ಟ್ಯಾಬ್‍ಗಳನ್ನು ತಿರುಗಿಕೊಡುತ್ತದೆ
@@ -192,7 +186,6 @@ applications-action-column =
     .accesskey = A
 play-drm-content-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 update-application-title = { -brand-short-name } ನವೀಕರಣಗಳು
-update-application-info = ಆವೃತ್ತಿ{ $version } <a>ಹೊಸತೇನಿದೆ</a>
 update-application-version = ಆವೃತ್ತಿ{ $version } <a data-l10n-name="learn-more">ಹೊಸತೇನಿದೆ</a>
 update-history =
     .label = ಅಪ್ಡೇಟ್ ಇತಿಹಾಸವನ್ನು ತೋರಿಸು…
@@ -261,15 +254,12 @@ use-current-pages =
     .label =
         { $tabCount ->
             [1] ಈಗಿನ ಪುಟವನ್ನು ಬಳಸು
-           *[other] ಈಗಿನ ಪುಟಗಳನ್ನು ಬಳಸು 
+           *[other] ಈಗಿನ ಪುಟಗಳನ್ನು ಬಳಸು
         }
     .accesskey = C
 choose-bookmark =
     .label = ಪುಟಗುರುತನ್ನು ಬಳಸು…
     .accesskey = B
-restore-default =
-    .label = ಪೂರ್ವನಿಯೋಜಿತಕ್ಕೆ ಮರಳಿಸು
-    .accesskey = R
 
 ## Search Section
 
@@ -357,6 +347,10 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = ಇತಿಹಾಸ
     .accesskey = r
+sync-engine-tabs =
+    .label = ತೆರೆದ ಟ್ಯಾಬ್‌ಗಳು
+    .tooltiptext = ಸಿಂಕ್ ಮಾಡಲಾದ ಸಾಧನಗಳಲ್ಲಿ ಏನನ್ನು ತೆರೆಯಲಾಗಿದೆಯೋ ಅವುಗಳ ಪಟ್ಟಿ
+    .accesskey = t
 sync-device-name-header = ಸಾಧನದ ಹೆಸರು
 sync-device-name-change =
     .label = ಸಾಧನದ ಹೆಸರನ್ನು ಬದಲಿಸಿ…
@@ -416,9 +410,6 @@ history-dontremember-description = { -brand-short-name } ಖಾಸಗಿ ಜಾ�
 history-private-browsing-permanent =
     .label = ಯಾವಾಗಲೂ ಖಾಸಗಿ ವೀಕ್ಷಣೆ ಕ್ರಮವನ್ನು ಬಳಸು
     .accesskey = p
-history-remember-option =
-    .label = ನನ್ನ ಜಾಲವೀಕ್ಷಣಾ ಮತ್ತು ಇಳಿಕೆ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊ
-    .accesskey = b
 history-remember-search-option =
     .label = ಹುಡುಕು ಹಾಗು ಫಾರ್ಮ್ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊ
     .accesskey = f
@@ -465,6 +456,9 @@ addressbar-locbar-openpage-option =
     .label = Open ಹಾಳೆಗಳು
     .accesskey = O
 addressbar-suggestions-settings = ಹುಡುಕು ಯಂತ್ರಗಳ ಸಲಹೆಗಳ ಇಚ್ಛೆಗಳನ್ನು ಬದಲಾಯಿಸಿ
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
