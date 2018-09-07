@@ -619,10 +619,6 @@ sitedata-block-trackers-option =
     .label = Traciatoî de terse parte
 sitedata-block-unvisited-option =
     .label = Cookie da sciti no vixitæ
-sitedata-block-all-third-parties-option =
-    .label = Tutti i cookie de terse parte
-sitedata-block-always-option =
-    .label = Tutti i cookie (porieva ese che i sciti pöi no fonçionan)
 sitedata-clear =
     .label = Scancella dæti…
     .accesskey = l
@@ -665,23 +661,11 @@ content-blocking-toggle-label-on = Averto
 content-blocking-toggle-label-off = Asmòrtou
     .accesskey = A
 content-blocking-category-label = Çerni cöse blocâ
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Elementi che tracian ch'en lenti
-    .accesskey = E
-content-blocking-fastblock-description = Blòcca i contengui de terse part che ghe metan ciù de 5 segondi a caregase.
-content-blocking-fastblock-option-enabled =
-    .label = Blòcca de longo
-content-blocking-fastblock-option-disabled =
-    .label = No blocâ mai
-content-blocking-tracking-protection-label = Traciatoî
-    .accesskey = T
 
 ## Privacy Section - Tracking
 
 tracking-header = Proteçion anti-traciamento
-tracking-desc = A proteçion anmti-traciamento a blòcca quelli che veuan traciate in linea quande ti naveghi tra ciù sciti. <a data-l10n-name="learn-more">Pe saveine de ciù in sciâ proteçion anti-traciamento e privacy</a>
+tracking-desc = A proteçion anti-traciamento a blòcca quelli che veuan traciate in linea quande ti naveghi tra ciù sciti. <a data-l10n-name="learn-more">Pe saveine de ciù in sciâ proteçion anti-traciamento e privacy</a>
 tracking-mode-label = Deuvia a proteçion anti-traciamento pe i sciti che se san che tracian
 tracking-mode-always =
     .label = De longo
