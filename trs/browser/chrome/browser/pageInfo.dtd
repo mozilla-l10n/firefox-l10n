@@ -69,5 +69,10 @@
 <!ENTITY  securityView.privacy.siteData                 "Si nachra sa' sitio na nuguan'an riña si aga'â aj?">
 <!ENTITY  securityView.privacy.clearSiteData            "Nagi'iaj niñu' kookies nī si dato sitio">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
+<!ENTITY  securityView.privacy.passwords                "Na'nî sa'aj da'ngà' huìi guenda sitio na ve'ej">
+<!ENTITY  securityView.privacy.viewPasswords            "Ni'io' kontraseña ma sa'aj">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
+<!ENTITY  securityView.technical.header                 "Hua a'na' dodò' 'iaj aga' na">
 
+<!ENTITY  helpButton.label                              "Ruguñu'unj">
