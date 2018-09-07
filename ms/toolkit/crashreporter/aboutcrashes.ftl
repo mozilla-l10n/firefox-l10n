@@ -4,12 +4,20 @@
 
 crash-reports-title = Laporan Ranap
 clear-all-reports-label = Buang Semua Laporan
+delete-button-label = Buang Semua
 delete-confirm-title = Adakah anda pasti?
 delete-confirm-description = Semua laporan akan dihapuskan dan tidak boleh dibatalkan.
+delete-unsubmitted-description = Ini akan menghapuskan semua laporan ranap yang belum dihantar dan tidak boleh dibatalkan.
+delete-submitted-description = Ini akan menghapuskan senarai laporan ranap yang dihantar tapi tidak menghapuskan data. Tindakan ini tidak boleh dibatalkan.
 crashes-unsubmitted-label = Laporan Ranap Tidak Dihantar
 id-heading = ID Laporan
 date-crashed-heading = Tarikh Ranap
+submit-crash-button-label = Hantar
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Gagal
 crashes-submitted-label = Laporan Ranap Dihantar
 date-submitted-heading = Tarikh Dihantar
+view-crash-button-label = Papar
 no-reports-label = Tiada laporan ranap yang telah dihantar.
 no-config-label = Aplikasi ini belum ditetapkan untuk memaparkan laporan ranap. Keutamaan <code>breakpad.reportURL</code> mesti ditetapkan.
