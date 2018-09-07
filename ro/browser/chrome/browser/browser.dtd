@@ -417,14 +417,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
-<!ENTITY customizeMenu.addToOverflowMenu.label "Adaugă în meniul suplimentar">
+<!ENTITY customizeMenu.addToOverflowMenu.label "Adaugă în meniul excedentar">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Fixează în meniul suplimentar">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Fixează în meniul excedentar">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Anulează fixarea în meniul suplimentar">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Anulează fixarea în meniul excedentar">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "Elimină din bara de instrumente">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
@@ -434,6 +434,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Gestionează extensia">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -1070,6 +1071,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Gestionează extensia…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Trimite fila pe dispozitiv">
+
 <!ENTITY sendToDevice.syncNotReady.label "Se sincronizează dispozitivele…">
 
 <!ENTITY pageAction.shareUrl.label "Împărtășește">
