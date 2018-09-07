@@ -2,10 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = საიტებისთვის “არ მითვალთვალო” მოთხოვნის გაგზავნა
+do-not-track-description = საიტებისთვის „არ მითვალთვალო“ მოთხოვნის გაგზავნა
 do-not-track-learn-more = იხილეთ ვრცლად
 do-not-track-option-default =
     .label = მხოლოდ, თვალთვალისგან დაცვის დროს
+do-not-track-option-default-content-blocking =
+    .label = მხოლოდ მაშინ, როცა { -brand-short-name } ზღუდავს აღმოჩენილ მეთვალყურეებს
 do-not-track-option-always =
     .label = ყოველთვის
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name }
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = თვალთვალისგან დაცვის რეჟიმს მართავს <img data-l10n-name="icon"/> { $name } გაფართოება.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = გაფართოება <img data-l10n-name="icon"/> { $name } მართავს ამ პარამეტრებს.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = { -brand-short-name }-ის ინტერნეტთან კავშირის პარამეტრებს განსაზღვრავს <img data-l10n-name="icon"/> { $name } გაფართოება.
@@ -623,6 +628,10 @@ sitedata-block-all-third-parties-option =
     .label = მესამე მხარის ყველა ფუნთუშა
 sitedata-block-always-option =
     .label = ყველა ფუნთუშა (შესაძლოა საიტებმა ვერ იმუშაოს გამართულად)
+sitedata-block-all-third-party-option =
+    .label = ყველა მესამე მხარის ფუნთუშა (შესაძლოა ხარვეზები გამოიწვიოს საიტზე)
+sitedata-block-all-option =
+    .label = ყველა ფუნთუშა (შესაძლოა ხარვეზები გამოიწვიოს საიტზე)
 sitedata-clear =
     .label = მონაცემთა გასუფთავება…
     .accesskey = მ
@@ -632,6 +641,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = გამონაკლისები…
     .accesskey = გ
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = შიგთავსის შეზღუდვის თქვენი პარამეტრები, არ იძლევა ფუნთუშებისა და საიტის მონაცემების პარამეტრების შეცვლის საშუალებას.
 
 ## Privacy Section - Address Bar
 
@@ -685,6 +698,44 @@ content-blocking-tracking-protection-option-pbm =
 content-blocking-tracking-protection-option-disabled =
     .label = არასდროს შეიზღუდოს
 content-blocking-tracking-protection-change-blocklist = შეზღუდულთა სიის შეცვლა…
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = ჩატვირთვის შემნელებელი
+    .accesskey = შ
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = აღმოჩენილი მეთვალყურეები
+    .accesskey = თ
+content-blocking-tracking-protection-new-description = ყველა ცნობილი მეთვალყურის შეზღუდვა. (შესაძლოა ზოგიერთი ვებგვერდი ვერ ჩაიტვირთოს.)
+content-blocking-tracking-protection-option-always =
+    .label = ყოველთვის
+    .accesskey = ყ
+content-blocking-tracking-protection-option-private =
+    .label = მხოლოდ პირად ფანჯრებში
+    .accesskey = პ
+content-blocking-tracking-protection-change-block-list = შეზღუდულთა სიის ჩასწორება
+content-blocking-third-party-cookies-label =
+    .label = ცალკეული ფუნთუშები
+    .accesskey = ც
+content-blocking-reject-trackers-description = ყველა მესამე მხარის ფუნთუშის შეზღუდვა ან მხოლოდ მეთვალყურეების.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = ფუნთუშებისა და საიტის მონაცემების თქვენი პარამეტრები, არ იძლევა მესამე მხარის ფუნთუშების პარამეტრების შეცვლის საშუალებას.
+content-blocking-change-cookie-settings =
+    .label = ფუნთუშების პარამეტრების შეცვლა
+    .accesskey = ფ
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = მეთვალყურეები (სასურველია)
+    .accesskey = ვ
+content-blocking-reject-trackers-block-trackers-option =
+    .label = მეთვალყურეები
+    .accesskey = ვ
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = ყველა მესამე მხარის ფუნთუშა (შესაძლოა ხარვეზები გამოიწვიოს საიტზე)
+    .accesskey = ყ
 
 ## Privacy Section - Tracking
 
