@@ -16,4 +16,12 @@ policy-BlockAboutAddons = Əlavə İdarəçisinə girişi əngəllə (about:addo
 policy-BlockAboutConfig = about:config səhifəsinə girişi əngəllə.
 policy-BlockAboutProfiles = about:profiles səhifəsinə girişi əngəllə.
 policy-BlockAboutSupport = about:support səhifəsinə girişi əngəllə.
+policy-DisableAppUpdate = Səyyahın yenilənməsinin qarşısını al.
+policy-DisableBuiltinPDFViewer = { -brand-short-name } üçün PDF göstəricisi olan PDF.js-i söndür.
 policy-DisableDeveloperTools = Tərtibatçı alətlərinə girişi əngəllə.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Firefox Screenshots özəlliyini söndür.
+policy-DisableFirefoxStudies = { -brand-short-name } səyyahının təcrübələr aparmağının qarşısını al.
+policy-DisableForgetButton = Unut düyməsini işlətmənin qarşısını al.
+policy-DisableFormHistory = Axtarış və form keçmişini yadda saxlama.
+policy-DisableMasterPasswordCreation = Doğrudursa, ana parol yaradıla bilməyəcək.
