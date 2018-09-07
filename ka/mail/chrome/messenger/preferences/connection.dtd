@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "ამ მითითების შედეგად, პროქსის ანგარიშზე ავტომატურად შეხვალთ, თუ ანგარიშის მონაცემები დამახსოვრებული იქნება. ასევე გეცნობებათ, თუ შესვლა ვერ მოხერხდება.">
 <!ENTITY  socksRemoteDNS.label          "პროქსის DNS SOCKS v5-ის გამოყენებისას">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
+<!ENTITY  dnsOverHttps.label            "DNS-ის HTTPS-ით გადაცემის ჩართვა">
+<!ENTITY  dnsOverHttps.accesskey        "ვ">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL-მისამართი DNS-ის HTTPS-ით გადასაცემად">

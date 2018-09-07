@@ -13,6 +13,6 @@
 <!ENTITY useSmallIcons.label      "პატარა ხატულები">
 <!ENTITY restoreDefaultSet.label  "ნაგულისხმევის აღდგენა">
 <!ENTITY addNewToolbar.label      "ხელსაწყოთა ახალი ზოლი">
-<!ENTITY showTitltbar.label       "სათაურის ზოლის ჩვენება">
+<!ENTITY showTitlebar.label       "სათაურის ზოლის ჩვენება">
 <!ENTITY saveChanges.label        "მზადაა">
 <!ENTITY undoChanges.label        "ცვლილებების გაუქმება">
