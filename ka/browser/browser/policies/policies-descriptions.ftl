@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = პროგრამის გასაახლებელი URL-მისამართის დაყენება.
+policy-Authentication = ინტეგრირებული ავთენტურობის გამართვა ვებსაიტებისთვის, რომლებზეც მხარდაჭერილია.
 policy-BlockAboutAddons = დამატებების მმართველთან წვდომის შეზღუდვა (about:addons).
 policy-BlockAboutConfig = წვდომის შეზღუდვა about:config გვერდთან.
 policy-BlockAboutProfiles = წვდომის შეზღუდვა about:profiles გვერდთან.
@@ -43,10 +44,23 @@ policy-DisplayBookmarksToolbar = სანიშნების ზოლის 
 policy-DisplayMenuBar = მენიუს ზოლის გამოჩენა ნაგულისხმევად.
 policy-DontCheckDefaultBrowser = გაშვებისას, ბრაუზერის ნაგულისხმევობის შემოწმების გათიშვა.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = შიგთავსის შეზღუდვის ჩართვა ან გამორთვა და ამ პარამეტრების ჩაკეტვა.
+policy-EnableTrackingProtection = შიგთავსის შეზღუდვის ჩართვა ან გამორთვა და დამატებით ამ პარამეტრების ჩაკეტვა.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = გაფართოების დაყენება, ამოშლა ან პარამეტრების ჩაკეტვა. დაყენებას პარამეტრების სახით მიეთითება URL-მისამართები ან მდებარეობა. ამოშლისა და ჩაკეტვის პარამეტრებს მიეთითება გაფართოების ID-ები.
 policy-FlashPlugin = Flash-მოდულის გამოყენების დაშვება ან უარყოფა.
+policy-HardwareAcceleration = თუ უარყოფილია, აპარატურული აჩქარების გათიშვა.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = დაყენება და დამატებით მთავარი გვერდის ჩაკეტვა.
+policy-InstallAddonsPermission = ცალკეული ვებსაიტებისთვის დამატებების ჩადგმის დაშვება.
+policy-NoDefaultBookmarks = { -brand-short-name }-ის ნაგულისხმევი სანიშნების შექმნისა და გონიერი სანიშნების (ხშირად მონახულებული, უახლესი ჭდეები) შეზღუდვა. შენიშვნა: ეს დებულება გამოსადეგია, ახალი პროფილის პირველ გაშვებამდე.
+policy-OfferToSaveLogins = პარამეტრებში { -brand-short-name }-ისთვის ძალდატანებით დაშვება ანგარიშის მონაცემებისა და პაროლების დამახსოვრების შეთავაზების. მისაღებია ორივე მნიშვნელობა, ჭეშმარიტი ან მცდარი.
+policy-OverrideFirstRunPage = პირველი გაშვების გვერდის ჩანაცვლება. მიუთითეთ დებულებას ცარიელი, თუ გსურთ პირველი გაშვების გვერდის გათიშვა.
+policy-OverridePostUpdatePage = განახლების შემდგომი „რა სიახლეებია“ გვერდის ჩანაცვლება. მიუთითეთ დებულებას ცარიელი, თუ გსურთ განახლების შემდგომი გვერდის გათიშვა.
+policy-Permissions = ნებართვების გამართვა კამერისთვის, მიკროფონისთვის, მდებარეობისა და შეტყობინებებისთვის.
+policy-PopupBlocking = ცალკეული ვებსაიტებისთვის ამომხტომი ფანჯრების დაშვება ნაგულისხმევად.
+policy-Proxy = პროქსის პარამეტრების გამართვა.
+policy-SanitizeOnShutdown = გადაადგილების ყველა მონაცემის გასუფთავება გამორთვისას.
+policy-SearchBar = საძიებო ველისთვის ნაგულისხმევი მისამართის მითითება. მომხმარებელს მაინც შეეძლება მისი შეცვლა.
