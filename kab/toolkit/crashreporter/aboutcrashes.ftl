@@ -4,12 +4,18 @@
 
 crash-reports-title = Ineqqisen n uɣelluy
 clear-all-reports-label = Kkes akk issaɣen
+delete-button-label = Sfeḍ akk
 delete-confirm-title = Asentem?
 delete-confirm-description = Ad yekkes akk issaɣen s war tuɣalin.
 crashes-unsubmitted-label = Ineqqisen n uɣelluy ur yettwaznen ara
 id-heading = Asulay n ussaɣ
 date-crashed-heading = Azemz n uɣelluy
+submit-crash-button-label = Azen
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Ur yeddi ara
 crashes-submitted-label = Ineqqisen n uɣelluy ttwaznen.
 date-submitted-heading = Azemz n tuzzna
+view-crash-button-label = Sken
 no-reports-label = Ula d yiwen n ussaɣ n uɣelluy ur iţwazen.
 no-config-label = Asnas-agi ur ittusbadu ara akken ad isken ineqqisen n uɣelluy. Issefk ad tbaduḍ imetti <code>breakpad.reportURL</code>.
