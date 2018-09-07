@@ -36,16 +36,23 @@ policy-DisableProfileImport = 停用自其他瀏覽器匯入資料的選單功�
 policy-DisableProfileRefresh = 停用 about:support 頁面中的「重新整理 { -brand-short-name }」按鈕。
 policy-DisableSafeMode = 停用以安全模式重新啟動的功能。註: 啟動時按住 Shift 鍵進入安全模式的功能，僅能於 Windows 使用群組原則停用。
 policy-DisableSecurityBypass = 防止使用者忽略某些安全性警告。
-policy-DisableSetDesktopBackground = 停用將圖片設定為桌面背景的選單功能。
+policy-DisableSetDesktopBackground = 停用將圖片「設為桌布」的選單功能。
+policy-DisableSetAsDesktopBackground = 停用將圖片「設為桌布」的選單功能。
 policy-DisableSystemAddonUpdate = 防止瀏覽器安裝或更新系統附加元件。
 policy-DisableTelemetry = 關閉 Telemetry。
 policy-DisplayBookmarksToolbar = 預設顯示書籤工具列。
 policy-DisplayMenuBar = 預設顯示選單列。
 policy-DontCheckDefaultBrowser = 啟動時不檢查是否為預設瀏覽器。
+# “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = 開啟或關閉內容封鎖功能，並可選擇鎖定該功能。
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = 安裝、移除或鎖定擴充套件。安裝選項可加入網址或路徑作為參數。移除和鎖定選項則需要擴充套件 ID 作為參數。
 policy-FlashPlugin = 允許或拒絕使用 Flash 擴充套件。
 policy-HardwareAcceleration = 若停用，就會關閉硬體加速。
+# “lock” means that the user won’t be able to change this setting
 policy-Homepage = 設定或鎖定首頁。
 policy-InstallAddonsPermission = 允許某些網站安裝附加元件。
 policy-NoDefaultBookmarks = 停止建立 { -brand-short-name } 內建的預設書籤及智慧書籤（最常造訪、最近新增的標籤）。註: 此原則僅在設定檔首次啟動前設定才有效。
@@ -58,4 +65,6 @@ policy-Proxy = 設定代理伺服器選項。
 policy-SanitizeOnShutdown = 關閉瀏覽器時清除所有瀏覽資料。
 policy-SearchBar = 設定搜尋列的預設位置，使用者仍然可以自訂。
 policy-SearchEngines = 調整搜尋引擎設定。此原則僅對 Extended Support Release（ESR）版本有效。
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = 封鎖網站，不讓使用者開啟。請參考文件取得設定格式的詳細資料。
