@@ -627,10 +627,6 @@ sitedata-block-trackers-option =
     .label = Rastreadores de terceros
 sitedata-block-unvisited-option =
     .label = Cookies de sitios web no visitados
-sitedata-block-all-third-parties-option =
-    .label = Todas las cookies de terceros
-sitedata-block-always-option =
-    .label = Todas las cookies (pueden causar errores en los sitios web)
 sitedata-block-all-third-party-option =
     .label = Todas las cookies de terceros (puede causar errores en los sitios web)
 sitedata-block-all-option =
@@ -684,30 +680,12 @@ content-blocking-category-label = Elegir qué bloquear
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Elementos de rastreo lento
-    .accesskey = S
-content-blocking-fastblock-description = Bloquea el contenido de terceros que tardan más de 5 segundos en cargarse.
-content-blocking-fastblock-option-enabled =
-    .label = Bloquear siempre
-content-blocking-fastblock-option-disabled =
-    .label = Nunca bloquear
-content-blocking-tracking-protection-label = Rastreadores
-    .accesskey = T
-content-blocking-tracking-protection-description = Bloquea todos los rastreadores conocidos (Nota: también puede impedir que se carguen las páginas).
-content-blocking-tracking-protection-option-enabled =
-    .label = Siempre bloquear
-content-blocking-tracking-protection-option-pbm =
-    .label = Bloquear solo en ventanas privadas
-content-blocking-tracking-protection-option-disabled =
-    .label = Nunca bloquear
-content-blocking-tracking-protection-change-blocklist = Cambiar la lista de bloqueo…
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Rastreadores de carga lenta
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Rastreadores de carga lenta
     .accesskey = S
 content-blocking-fastblock-new-description = Bloquear sólo los rastreadores que impidan a las páginas cargar rápidamente.
-content-blocking-tracking-protection-all-label = Todos los Rastreadores detectados
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Todos los Rastreadores detectados
     .accesskey = T
 content-blocking-tracking-protection-new-description = Bloquear todos los rastreadores conocidos. (Puede impedir que se carguen algunas páginas).
 content-blocking-tracking-protection-option-always =
@@ -717,7 +695,8 @@ content-blocking-tracking-protection-option-private =
     .label = Solo en ventanas privadas
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Cambiar la lista de bloqueo
-content-blocking-reject-trackers-label = Cookies de terceros
+content-blocking-third-party-cookies-label =
+    .label = Cookies de terceros
     .accesskey = C
 content-blocking-reject-trackers-description = Bloquear todas las cookies de terceros o solo aquellas establecidas por los rastreadores.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
