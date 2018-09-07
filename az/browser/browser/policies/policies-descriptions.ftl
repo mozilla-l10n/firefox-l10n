@@ -14,3 +14,6 @@ policy-AppUpdateURL = Fərdi tətbiq yeniləmə ünvanı qur.
 policy-Authentication = Dəstəkləyən saytlar üçün daxili istifadəçi təsdiqləməni konfiqurasiya et.
 policy-BlockAboutAddons = Əlavə İdarəçisinə girişi əngəllə (about:addons).
 policy-BlockAboutConfig = about:config səhifəsinə girişi əngəllə.
+policy-BlockAboutProfiles = about:profiles səhifəsinə girişi əngəllə.
+policy-BlockAboutSupport = about:support səhifəsinə girişi əngəllə.
+policy-DisableDeveloperTools = Tərtibatçı alətlərinə girişi əngəllə.
