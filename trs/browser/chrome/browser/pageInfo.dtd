@@ -1,0 +1,34 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  pageInfoWindow.width  "600">
+<!ENTITY  pageInfoWindow.height "550">
+
+<!ENTITY  copy.key              "C">
+<!ENTITY  copy.label            "Guxun' ñadu'ua">
+<!ENTITY  copy.accesskey        "C">
+<!ENTITY  selectall.key         "A">
+<!ENTITY  selectall.label       "Ganahui' da'ua ngê ma">
+<!ENTITY  selectall.accesskey   "A">
+<!ENTITY  closeWindow.key       "w">
+
+<!ENTITY  generalTab            "Da'ua nguéj">
+<!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTitle          "Si yugui:">
+<!ENTITY  generalURL            "Hiuj gun':">
+<!ENTITY  generalType           "Dugui':">
+<!ENTITY  generalMode           "Render Mode:">
+<!ENTITY  generalSize           "Dàj yachìj man:">
+<!ENTITY  generalReferrer       "URL nu ma:">
+<!ENTITY  generalSource         "Riña 'na' ma:">
+<!ENTITY  generalModified       "'Ngà nadunaj:">
+
+
+
+
+
+
+
+
+
