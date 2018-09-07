@@ -10,4 +10,11 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = ตั้ง URL อัปเดตแอปที่กำหนดเอง
+policy-BlockAboutAddons = ปิดกั้นการเข้าถึงตัวจัดการส่วนเสริม (about:addons)
+policy-BlockAboutConfig = ปิดกั้นการเข้าถึงหน้า about:config
+policy-BlockAboutProfiles = ปิดกั้นการเข้าถึงหน้า about:profiles
+policy-BlockAboutSupport = ปิดกั้นการเข้าถึงหน้า about:support
 policy-DisablePrivateBrowsing = ปิดใช้งานการท่องเว็บแบบส่วนตัว
+policy-DisableTelemetry = ปิดการวัดและส่งข้อมูลทางไกล
+policy-Proxy = กำหนดค่าการตั้งค่าพร็อกซี
