@@ -23,7 +23,13 @@
 <!ENTITY  generalReferrer       "URL nu ma:">
 <!ENTITY  generalSource         "Riña 'na' ma:">
 <!ENTITY  generalModified       "'Ngà nadunaj:">
+<!ENTITY  generalEncoding2      "Si kodifikasiôn texto:">
+<!ENTITY  generalMetaName       "Si yuguit">
+<!ENTITY  generalMetaContent    "Sa mā">
 
+<!ENTITY  mediaTab              "Sa ni'io'">
+<!ENTITY  mediaTab.accesskey    "M">
+<!ENTITY  mediaLocation         "Dane' huin:">
 
 
 
