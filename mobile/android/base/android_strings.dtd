@@ -904,5 +904,6 @@ Picture-in-picture mini window -->
 <!ENTITY download_notification_channel "Сцягванні">
 <!ENTITY media_notification_channel "Прайграванне медыя">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "Паведамленні праграмы &brandShortName;">
 <!ENTITY updater_notification_channel "Абнаўленні праграмы">
 <!ENTITY synced_tabs_notification_channel "Сінхранізаваныя карткі">
