@@ -43,7 +43,7 @@
 <!ENTITY TextLength.accesskey "L">
 <!ENTITY AccessKey.label "კლავიში:">
 <!ENTITY AccessKey.accesskey "K">
-<!ENTITY Accept.label "დასაშვები ტიპები:">
+<!ENTITY Accept.label "დასაშვები სახეობები:">
 <!ENTITY Accept.accesskey "A">
 
 <!ENTITY ImageProperties.label "ნახატის პარამეტრები…">
