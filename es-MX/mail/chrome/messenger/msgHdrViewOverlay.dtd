@@ -1,0 +1,46 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY toField4.label "Para">
+<!ENTITY fromField4.label "De">
+<!ENTITY senderField4.label "Remitente">
+<!ENTITY author.label "Autor">
+<!ENTITY organizationField4.label "Organización">
+<!ENTITY replyToField4.label "Responder a">
+
+<!ENTITY subjectField4.label "Asunto">
+<!ENTITY ccField4.label "Cc">
+<!ENTITY bccField4.label "Cco">
+<!ENTITY newsgroupsField4.label "Grupos de noticias">
+<!ENTITY followupToField4.label "Redireccionar a">
+<!ENTITY tagsHdr4.label "Etiquetas">
+<!ENTITY dateField4.label "Fecha">
+<!ENTITY userAgentField4.label "Agente de usuario">
+<!ENTITY referencesField4.label "Referencias">
+<!ENTITY messageIdField4.label "ID del mensaje">
+<!ENTITY inReplyToField4.label "En respuesta a">
+<!ENTITY originalWebsite4.label "Sitio web">
+
+<!ENTITY hdrArchiveButton1.label "Archivo">
+<!ENTITY hdrArchiveButton1.tooltip "Archivar este mensaje">
+<!ENTITY hdrOpenConversationButton1.label "Conversación">
+<!ENTITY hdrOpenConversationButton1.tooltip "Mostrar conversación de este mensaje">
+<!ENTITY hdrSmartReplyButton1.label "Respuesta inteligente">
+<!ENTITY hdrReplyButton1.label "Responder">
+<!ENTITY hdrReplyButton2.tooltip "Responder al remitente de este mensaje">
+<!ENTITY hdrReplyAllButton1.label "Responder a todos">
+<!ENTITY hdrReplyAllButton1.tooltip "Responder al remitente y a todos los destinatarios">
+<!ENTITY hdrReplyListButton1.label "Responder a lista">
+<!ENTITY hdrReplyListButton1.tooltip "Responder a la lista de correo">
+
+
+
+<!-- Attachment bar context menu items -->
+
+<!-- Attachment context menu items -->
+
+
+<!-- Attachment toolbar items -->
+
+
