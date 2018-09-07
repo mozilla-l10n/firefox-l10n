@@ -37,7 +37,7 @@
 <!ENTITY finish.label             "დასრულება">
 <!ENTITY cancel.label             "გაუქმება">
 
-<!ENTITY select.label             "ან საიმპორტო მონაცემების ტიპების მითითება:">
+<!ENTITY select.label             "ან გადმოსატანი მასალის სახეობის მითითება:">
 
 <!ENTITY title.label              "სათაური">
 <!ENTITY processing.label         "იმპორტი…">
