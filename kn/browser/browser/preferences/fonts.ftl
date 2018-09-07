@@ -93,6 +93,9 @@ fonts-minsize = ಅಕ್ಷರದ ಕನಿಷ್ಠ ಗಾತ್ರ
     .accesskey = o
 fonts-minsize-none =
     .label = ಯಾವುದೂ ಇಲ್ಲ
+fonts-allow-own =
+    .label = ಪುಟಗಳು ತಮ್ಮದೇ ಫಾಂಟುಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಅನುಮತಿಸಿ, ಈ ಮೇಲಿನ ನಿಮ್ಮ ಆಯ್ಕೆಗಳ ಹೊರತಾಗಿ
+    .accesskey = A
 
 ## Text Encodings
 ##

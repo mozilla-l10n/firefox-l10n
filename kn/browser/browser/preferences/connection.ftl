@@ -66,3 +66,6 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 ಬಳಸುವಾಗ ಪ್ರಾಕ್ಸಿ DNS
     .accesskey = d
+connection-dns-over-https-url = ಜಾಲತಾಣಸೂಚಿ
+    .accesskey = U
+    .tooltiptext = HTTPS ಅನ್ನು DNS ಮೂಲಕ ಪರಿಹರಿಸುವುದಕ್ಕಾಗಿ ಜಾಲತಾಣಸೂಚಿ
