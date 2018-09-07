@@ -37,15 +37,22 @@ policy-DisableProfileRefresh = Nyahdayakan butang Muat semula  { -brand-short-na
 policy-DisableSafeMode = Nyahdayakan ciri Mula semula dalam Mod Selamat. Nota: kekunci Shift untuk memasuki Mod Selamat hanya boleh dinyahdayakan dalam Windows menggunakan Polisi Kumpulan.
 policy-DisableSecurityBypass = Halang pengguna daripada memintas amaran keselamatan tertentu.
 policy-DisableSetDesktopBackground = Nyahdayakan menu perintah Tetapkan Imej sebagai Latar belakang Desktop.
+policy-DisableSetAsDesktopBackground = Nyahdayakan perintah menu Tetapkan sebagai Latar belakang Desktop untuk imej.
 policy-DisableSystemAddonUpdate = Halang pelayar daripada memasang dan mengemaskini sistem add-ons.
 policy-DisableTelemetry = Nyahaktifkan Telemetry.
 policy-DisplayBookmarksToolbar = Papar Bar alatan Tandabuku secara piawai.
 policy-DisplayMenuBar = Papar Bar Menu secara piawai.
 policy-DontCheckDefaultBrowser = Nyahdayakan pilihan untuk pelayar piawai pada permulaan.
+# “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Dayakan atau Nyahdayakan Sekatan Kandungan dan pilihan untuk menguncinya.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Pasang, nyahpasang atau kunci ekstensi. Pilihan Pasang menggunakan URL atau laluan sebagai parameter. Pilihan Nyahpasang dan Dikunci menggunakan ID ekstensi.
 policy-FlashPlugin = Izinkan atau tidak penggunaan plugin Flash.
 policy-HardwareAcceleration = Jika false, nyahaktifkan pecutan perkakasan.
+# “lock” means that the user won’t be able to change this setting
 policy-Homepage = Tetapkan dan pilihan mengunci Laman.
 policy-InstallAddonsPermission = Izinkan laman web tertentu untuk memasang add-ons.
 policy-NoDefaultBookmarks = Nyahdayakan penciptaan tandabuku piawai yang disertakan dengan { -brand-short-name }, dan Tandabuku Pintar (Paling Dilawati, Tag Terkini). Nota: polisi ini hanya berkesan jika digunakan sebelum profil pertama dilaksanakan.
@@ -58,4 +65,6 @@ policy-Proxy = Konfigurasi tetapan proksi.
 policy-SanitizeOnShutdown = Buang semua data navigasi ketika penutupan.
 policy-SearchBar = Tetapkan lokasi piawai bar carian. Pengguna masih boleh menyesuaikannya.
 policy-SearchEngines = Konfigurasi tetapan enjin carian. Polisi ini hanya boleh didapati dalam versi Extended Support Release (ESR).
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Sekat laman web daripada dilawati. Lihat dokumentasi untuk maklumat lanjut format berkenaan.
