@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "ಮುಂದೆ">
 
 <!ENTITY firstrun_tabqueue_title "ಕೊಂಡಿಗಳು">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "ಟ್ಯಾಬ್ ಸರತಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು">
-<!ENTITY firstrun_tabqueue_subtext_off "ಬೇರೆ ಆಪ್‌ಗಳಲ್ಲಿ ಕೊಂಡಿಗಳ ಮೇಲೆ ಟ್ಯಾಪ್‌ ಮಾಡಿದಾಗ &brandShortName; ನೋಡಲು ಅವನ್ನು ಉಳಿಸು.">
-
-<!ENTITY firstrun_tabqueue_message_on "ಯಶಸ್ವಿಯಾಗಿದೆ!">
-<!ENTITY firstrun_tabqueue_subtext_on "ಇದನ್ನು ನೀವು ಯಾವಾಗಬೇಕಿದ್ದರೂ &pref_category_general; ನಲ್ಲಿರುವ &settings;ಯಲ್ಲಿ ಆಫ್‌ ಮಾಡಬಹುದು.">
 
 <!ENTITY firstrun_readerview_title "ಲೇಖನಗಳು">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "&brandShortName; ಅನ್ನು ಮರಳಿ ಆರಂಭಿಸು">
 
 <!ENTITY url_bar_default_text2 "ಹುಡುಕಿ ಅಥವಾ ವಿಳಾಸವನ್ನು ನಮೂದಿಸಿ">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ಟ್ಯಾಬ್‌ಗಳನ್ನು, ದತ್ತಾಂಶ ಉಳಿಕೆ, ಡೆವೆಲಪರ್ ಸಲಕರಣೆಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ">
 <!ENTITY pref_category_notifications "ಸೂಚನೆಗಳು">
-<!ENTITY pref_category_notifications_summary "ಹೊಸ ವೈಶಿಷ್ಟ್ಯತೆಗಳು, ಜಾಲತಾಣ ಪರಿಷ್ಕರಣೆಗಳು">
 <!ENTITY pref_category_notifications_summary2 "‍‍ಹೊಸ ಸವಲತ್ತುಗಳು, ಉತ್ಪನ್ನ ಸಲಹೆಗಳು">
 <!ENTITY pref_developer_remotedebugging_usb "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್ USB ಮೂಲಕ">
 <!ENTITY pref_developer_remotedebugging_wifi "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್ Wi-Fi ಮೂಲಕ">
@@ -906,3 +898,9 @@ Picture-in-picture mini window -->
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "&vendorShortName; ಸ್ಥಳಾಧಾರಿತ ಸೇವೆಗಳು">
+<!ENTITY download_notification_channel "ಡೌನ್‌ಲೋಡ್‌ಗಳು">
+<!ENTITY media_notification_channel "ಮೀಡಿಯ ಪ್ಲೇಬ್ಯಾಕ್">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; ನೂಕಿದ ಸೂಚನೆಗಳು">
+<!ENTITY updater_notification_channel "ಅನ್ವಯ ಪರಿಷ್ಕರಣೆಗಳು">
+<!ENTITY synced_tabs_notification_channel "ಸಿಂಕ್ ಮಾಡಿದ ಹಾಳೆಗಳು">
