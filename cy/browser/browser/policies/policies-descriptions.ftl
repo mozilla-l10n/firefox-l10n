@@ -37,15 +37,22 @@ policy-DisableProfileRefresh = Analluogi botwm Adnewyddu { -brand-short-name } y
 policy-DisableSafeMode = Analluogi'r nodwedd i ailgychwyn yn y Modd Diogel. Sylw: dim ond drwy'r Polisi Grŵp y mae modd analluogi'r defnydd o fysell Shift i fynd i'r modd Diogel.
 policy-DisableSecurityBypass = Rhwystro'r defnyddiwr rhag osgoi rhai rhybuddion diogelwch.
 policy-DisableSetDesktopBackground = Analluogi gorchymyn dewislen Gosod Delwedd fel Cefndir y Bwrdd Gwaith.
+policy-DisableSetAsDesktopBackground = Analluogi'r dewislen gorchymyn Gosod fel Delwedd Cefndir ar gyfer delwddau.
 policy-DisableSystemAddonUpdate = Rhwystro'r porwr rhag gosod a diweddaru ychwanegion y system.
 policy-DisableTelemetry = Diffodd Telemetreg
 policy-DisplayBookmarksToolbar = Dangos y Bar Offer Nodau Tudalen drwy ragosodiad.
 policy-DisplayMenuBar = Dangos y Bar Dewislen drwy ragosodiad
 policy-DontCheckDefaultBrowser = Analluogi gwirio am y porwr rhagosodedig wrth gychwyn.
+# “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Galluogi neu analluogi Rhwystro Cynnwys ac o ddewis ei gloi.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Gosod, dadosod neu gloi estyniadau. Mae'r dewis gosod yn cymryd URL neu lwybrau fel paramedrau. Mae'r dewisiadau Dadosod a Chloi yn cymryd dynodiad estyniadau.
 policy-FlashPlugin = Caniatáu neu wrthod defnydd o'r ychwanegyn Flash.
 policy-HardwareAcceleration = Os gau, diffodd cyflymu caledwedd.
+# “lock” means that the user won’t be able to change this setting
 policy-Homepage = Gosod ac o ddewis cloi'r dudalen cartref.
 policy-InstallAddonsPermission = Caniatáu i rai gwefannau i osod ychwanegion
 policy-NoDefaultBookmarks = Analluogi creu nodau tudalen rhagosodedig wedi eu pecynnu gyda { -brand-short-name }, a'r Nodau Tudalen Clyfar (Ymwelwyd Amlaf, Tagiau Diweddar). Sylw: mae'r polisi hwn ddim ond yn effeithiol os yw'n cael ei ddefnyddio cyn rhedeg y proffil y tro cyntaf.
@@ -58,4 +65,6 @@ policy-Proxy = Ffurfweddu gosodiadau eilydd
 policy-SanitizeOnShutdown = Clirio'r holl ddata llywio wrth adael
 policy-SearchBar = Gosod y lleoliad ragosodedig y bar chwilio. Mae'r defnyddiwr dal yn cael ei gyfaddasu.
 policy-SearchEngines = Ffurfweddu gosodiadau peiriannau chwilio. Dim ond yn y fersiwn Extended Support Release (ESR) ma'r polisi hwn ar gael.
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Rhwystro gwefannau rhag derbyn ymweliadau. Gw. dogfennaeth am ragor o wybodaeth ar y fformat.

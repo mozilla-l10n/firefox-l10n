@@ -22,3 +22,26 @@ cfr-doorhanger-extension-notification = Argymhelliad
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
 
+# Variables:
+#   $total (Number) - The rating of the add-on from 1 to 5
+cfr-doorhanger-extension-rating =
+    .tooltiptext =
+        { $total ->
+            [zero] { $total } seren
+            [one] { $total } seren
+            [two] { $total } seren
+            [few] { $total } seren
+            [many] { $total } seren
+           *[other] { $total } seren
+        }
+# Variables:
+#   $total (Number) - The total number of users using the add-on
+cfr-doorhanger-extension-total-users =
+    { $total ->
+        [zero] { $total } defnyddiwr
+        [one] { $total } defnyddiwr
+        [two] { $total } ddefnyddiwr
+        [few] { $total } defnyddiwr
+        [many] { $total } defnyddiwr
+       *[other] { $total } defnyddiwr
+    }
