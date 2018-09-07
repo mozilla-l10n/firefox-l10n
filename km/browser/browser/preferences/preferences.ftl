@@ -81,6 +81,9 @@ always-check-default =
     .accesskey = y
 is-default = { -brand-short-name } បច្ចុប្បន្ន​ជា​កម្មវិធី​រុករក​លំនាំដើម​របស់​អ្នក
 is-not-default = { -brand-short-name } វា​មិន​មែន​ជា​កម្មវិធី​រុករក​លំនាំដើម​របស់​អ្នក
+set-as-my-default-browser =
+    .label = ដាក់​ជា​លំនាំ​ដើម
+    .accesskey = D
 disable-extension =
     .label = បិទ​ផ្នែក​បន្ថែម
 tabs-group-header = ផ្ទាំង
@@ -130,6 +133,7 @@ advanced-fonts =
 colors-settings =
     .label = ពណ៌...
     .accesskey = ព
+language-header = ភាសា
 choose-language-description = ជ្រើស​ភាសា​ដែល​អ្នក​ចូលចិត្ត​សម្រាប់​បង្ហាញ​ទំព័រ
 choose-button =
     .label = ជ្រើស…
@@ -247,6 +251,9 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-restore-defaults =
+    .label = ស្ដារ​លំនាំ​ដើម
+    .accesskey = R
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -457,12 +464,16 @@ tracking-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-notification = ការ​ជូនដំណឹង
 permissions-block-popups =
     .label = ទប់ស្កាត់​​បង្អួច​លេច​ឡើង
     .accesskey = ទ
 permissions-block-popups-exceptions =
     .label = ករណី​លើក​លែង
     .accesskey = ក
+permissions-addon-install-warning =
+    .label = ព្រមានអ្នកនៅពេលគេហទំព័រព្យាយាមដំឡើងកម្មវិធីបន្ថែម
+    .accesskey = W
 permissions-addon-exceptions =
     .label = ករណី​លើកលែង…
     .accesskey = E
