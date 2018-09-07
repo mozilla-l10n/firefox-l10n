@@ -44,3 +44,9 @@ policy-DisplayMenuBar = მენიუს ზოლის გამოჩენ
 policy-DontCheckDefaultBrowser = გაშვებისას, ბრაუზერის ნაგულისხმევობის შემოწმების გათიშვა.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = შიგთავსის შეზღუდვის ჩართვა ან გამორთვა და ამ პარამეტრების ჩაკეტვა.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = გაფართოების დაყენება, ამოშლა ან პარამეტრების ჩაკეტვა. დაყენებას პარამეტრების სახით მიეთითება URL-მისამართები ან მდებარეობა. ამოშლისა და ჩაკეტვის პარამეტრებს მიეთითება გაფართოების ID-ები.
+policy-FlashPlugin = Flash-მოდულის გამოყენების დაშვება ან უარყოფა.
