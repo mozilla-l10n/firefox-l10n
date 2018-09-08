@@ -37,15 +37,22 @@ policy-DisableProfileRefresh = 禁用 about:support 页面中的“翻新 { -bra
 policy-DisableSafeMode = 禁用以安全模式重新打开的功能。注意：仅可在 Windows 上使用组策略禁用按住 Shift 键进入安全模式。
 policy-DisableSecurityBypass = 阻止用户绕过某些安全性警告。
 policy-DisableSetDesktopBackground = 禁用将图像设置为桌面背景的菜单命令。
+policy-DisableSetAsDesktopBackground = 禁用将图像的“设为桌面背景”菜单命令。
 policy-DisableSystemAddonUpdate = 阻止浏览器安装或更新“系统附加组件”。
 policy-DisableTelemetry = 关闭“遥测”组件。
 policy-DisplayBookmarksToolbar = 默认显示书签工具栏。
 policy-DisplayMenuBar = 默认显示菜单栏。
 policy-DontCheckDefaultBrowser = 禁用启动时的默认浏览器检查。
+# “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = 启用或禁用内容拦截，并可选择锁定该功能。
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = 安装，移除或锁定扩展。安装选项可将网址或路径作为参数。移除和锁定选项则需要扩展 ID 作为参数。
 policy-FlashPlugin = 允许或拒绝使用 Flash 插件。
 policy-HardwareAcceleration = 若为 false，将会关闭硬件加速。
+# “lock” means that the user won’t be able to change this setting
 policy-Homepage = 设置主页，可选择锁定。
 policy-InstallAddonsPermission = 允许特定网站安装附加组件。
 policy-NoDefaultBookmarks = 禁止创建 { -brand-short-name } 捆绑的默认书签以及智能书签（最常访问、最近使用的标签）。注意：此策略仅在配置文件首次运行时生效。
@@ -58,4 +65,6 @@ policy-Proxy = 配置代理设置
 policy-SanitizeOnShutdown = 关闭浏览器时清除所有浏览数据。
 policy-SearchBar = 设置搜索栏的默认位置，用户仍可自定义。
 policy-SearchEngines = 配置搜索引擎设置。此策略仅适用于延长支持版（ESR）。
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = 阻止访问某些网站。参阅文档了解该格式的更多详情。
