@@ -904,3 +904,4 @@ Picture-in-picture mini window -->
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "Njoftime Push &brandShortName;">
 <!ENTITY updater_notification_channel "Përditësime aplikacioni">
+<!ENTITY synced_tabs_notification_channel "Skeda të njëkohësuara">
