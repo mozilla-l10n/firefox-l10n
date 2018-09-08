@@ -447,6 +447,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Administrar l'extensiun">
 <!ENTITY customizeMenu.manageExtension.accesskey "e">
 
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -578,7 +579,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Mussar la grafica dal fund davos">
 <!ENTITY viewBGImageCmd.accesskey     "M">
-<!ENTITY setDesktopBackgroundCmd.label      "Configurar sco culissa…">
+<!ENTITY setDesktopBackgroundCmd.label      "Definir sco culissa…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "a">
 <!ENTITY bookmarkPageCmd2.label       "Agiuntar in segnapagina per la pagina">
 <!ENTITY bookmarkPageCmd2.accesskey   "t">
@@ -1110,6 +1111,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Administrar il supplement…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Trametter il tab ad in apparat">
+
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisar apparats…">
 
 <!ENTITY pageAction.shareUrl.label "Cundivider">
