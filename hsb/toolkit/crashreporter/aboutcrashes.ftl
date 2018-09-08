@@ -8,6 +8,7 @@ delete-button-label = Wšě zhašeć
 delete-confirm-title = Sće wěsty?
 delete-confirm-description = To zhaša wšě rozprawy a njeda so cofnyć.
 delete-unsubmitted-description = To wšě njepósłane spadowe rozprawy zhaša a njeda so cofnyć.
+delete-submitted-description = To lisćinu wotpósłanych spadowych rozprawow wotstroni, ale njezhaša wotpósłane daty. To njeda so cofnyć.
 crashes-unsubmitted-label = Njewotpósłane rozprawy wo spadach
 id-heading = ID rozprawy
 date-crashed-heading = Datum spada
