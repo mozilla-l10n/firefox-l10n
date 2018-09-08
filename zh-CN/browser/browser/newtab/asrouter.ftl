@@ -27,7 +27,7 @@ cfr-doorhanger-extension-notification = 推荐
 cfr-doorhanger-extension-rating =
     .tooltiptext =
         { $total ->
-           *[other] { $total } 颗星
+           *[other] { $total } 星
         }
 # Variables:
 #   $total (Number) - The total number of users using the add-on
