@@ -24,6 +24,7 @@ policy-DisableForgetButton = Sewḥel anekcum ɣer tqeffalt n usfaḍ n isefka.
 policy-DisableFormHistory = Ur ḥerrez ara amazray n unadi d tferkit.
 policy-DisablePrivateBrowsing = Sens tunigin tusligt.
 policy-DisableTelemetry = Sens tilisɣelt.
+policy-DisplayBookmarksToolbar = Deg umezwer sken-d afeggag n ifecka n ticraḍ.
 policy-DisplayMenuBar = Sken afeggag n wumuɣ s wudem amezwer.
 policy-FlashPlugin = Sireg neɣ gdel asemres n uzegrir Flash.
 policy-InstallAddonsPermission = Sireg asebded n izegrar di kra n ismal web.
