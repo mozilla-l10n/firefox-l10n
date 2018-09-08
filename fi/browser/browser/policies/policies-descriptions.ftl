@@ -32,3 +32,39 @@ policy-DisableFormHistory = Älä tallenna haku- ja lomakehistoriaa.
 policy-DisableMasterPasswordCreation = Jos tosi, pääsalasanaa ei voi luoda.
 policy-DisablePocket = Poista käytöstä ominaisuus, jolla verkkosivuja voi tallentaa Pocket-palveluun.
 policy-DisablePrivateBrowsing = Poista yksityinen selaus käytöstä.
+policy-DisableProfileImport = Poista käytöstä valikon komento, jolla tiedot voi tuoda toisesta selaimesta.
+policy-DisableProfileRefresh = Poista käytöstä about:support-sivulla oleva Palauta { -brand-short-name } -painike.
+policy-DisableSafeMode = Poista käytöstä ominaisuus, jolla selaimen voi käynnistää vikasietotilassa. Huomaa: Vaihto-näppäimen käyttö vikasietotilaan käynnistymiseen voidaan poistaa käytöstä Windowsissa vain käyttäen ryhmäkäytäntöä.
+policy-DisableSecurityBypass = Estä käyttäjää ohittamasta tiettyjä tietoturvavaroituksia.
+policy-DisableSetDesktopBackground = Poista käytöstä valikon komento Aseta työpöydän taustakuvaksi.
+policy-DisableSetAsDesktopBackground = Poista käytöstä kuville tarkoitettu valikon komento Aseta työpöydän taustakuvaksi.
+policy-DisableSystemAddonUpdate = Estä selainta asentamasta ja päivittämästä järjestelmälisäosia.
+policy-DisableTelemetry = Poista kaukomittaus käytöstä.
+policy-DisplayBookmarksToolbar = Näytä kirjanmerkkipalkki oletusarvoisesti.
+policy-DisplayMenuBar = Näytä valikkopalkki oletusarvoisesti.
+policy-DontCheckDefaultBrowser = Poista käytöstä oletusselaimen tarkistus käynnistettäessä.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Ota käyttöön tai poista käytöstä sisällön esto, ja valinnaisesti lukitse asetus.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Asenna, poista tai lukitse laajennuksia. Asennusasetus ottaa parametreiksi URL-osoitteita tai polkuja. Poisto- ja lukitsemisasetukset ottavat parametreiksi laajennusten ID:itä.
+policy-FlashPlugin = Salli tai estä Flash-liitännäisen käyttö.
+policy-HardwareAcceleration = Jos epätosi, poista laitteistokiihdytys käytöstä.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Aseta ja valinnaisesti lukitse aloitussivu.
+policy-InstallAddonsPermission = Salli tiettyjen sivustojen asentaa lisäosia.
+policy-NoDefaultBookmarks = Poista käytöstä { -brand-short-name }in mukana tulevien oletuskirjanmerkkien luonti ja älykkäiden kirjanmerkkien (Useimmin avatut, Viimeiset avainsanat) luonti. Huomaa: tällä käytännöllä on vaikutusta vain, kun profiili käynnistetään ensimmäisen kerran.
+policy-OfferToSaveLogins = Pakota asetus, joka sallii { -brand-short-name }in tarjota käyttäjätunnusten ja salasanojen tallentamista. Sekä tosi- että epätosi-arvot hyväksytään.
+policy-OverrideFirstRunPage = Korvaa ensimmäisen käynnistyskerran sivu. Aseta tämä käytäntö tyhjäksi, jos haluat poistaa ensimmäisen käyttökerran sivun käytöstä.
+policy-OverridePostUpdatePage = Korvaa päivityksen jälkeinen ”Mitä uutta” -sivu. Aseta tämä käytäntö tyhjäksi, jos haluat poistaa päivityksen jälkeisen sivun käytöstä.
+policy-Permissions = Aseta kameran, mikrofonin, sijainnin ja ilmoitusten käyttöoikeuksien asetukset.
+policy-PopupBlocking = Salli tiettyjen sivustojen näyttää ponnahdusikkunoita oletusarvoisesti.
+policy-Proxy = Määritä välityspalvelimen asetukset.
+policy-SanitizeOnShutdown = Poista kaikki selailutiedot suljettaessa selain.
+policy-SearchBar = Aseta hakupalkin oletussijainti. Käyttäjä voi silti vaihtaa sitä.
+policy-SearchEngines = Aseta hakukoneasetukset. Tämä käytäntö on käytettävissä vain Extended Support Release (ESR) -versiossa.
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Estä sivustojen avaaminen. Katso ohjeista lisätietoja käyttötavasta.
