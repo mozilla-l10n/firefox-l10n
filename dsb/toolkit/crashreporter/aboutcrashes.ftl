@@ -4,12 +4,20 @@
 
 crash-reports-title = Wowaleńske rozpšawy
 clear-all-reports-label = Wšykne rozpšawy wótpóraś
+delete-button-label = Wšykne wulašowaś
 delete-confirm-title = Sćo wěsty?
 delete-confirm-description = To buźo wšykne rozpšawy lašowaś a njedajo se anulěrowaś.
+delete-unsubmitted-description = To wšykne njepósłane wowaleńske rozpšawy wulašujo a njedajo se anulěrowaś.
+delete-submitted-description = To lisćinu wótpósłanych wowaleńskich rozpšawow wótwónoźijo, ale njewulašujo wotpósłane daty. To njedajo se anulěrowaś.
 crashes-unsubmitted-label = Njewótpósłane wowaleńske rozpšawy
 id-heading = ID rozpšawy
 date-crashed-heading = Datum wowalenja
+submit-crash-button-label = Wótpósłaś
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Njejo se raźiło
 crashes-submitted-label = Rozpósłane wowaleńske rozpšawy
 date-submitted-heading = Datum rozpósłanja
+view-crash-button-label = Pokazaś
 no-reports-label = Rozpšawy wó wowalenjach njejsu se rozpósłali.
 no-config-label = Toś to nałoženje njejo se konfigurěrowało, aby rozpšawy wó wowalenjach zwobrazniło. Nastajenje <code>breakpad.reportURL</code> musy se stajiś.
