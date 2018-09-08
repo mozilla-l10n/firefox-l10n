@@ -13,5 +13,6 @@
 <!ENTITY useSmallIcons.label      "Përdor Ikona të Vogla">
 <!ENTITY restoreDefaultSet.label  "Rikthe Grupin Parazgjedhje">
 <!ENTITY addNewToolbar.label      "Shtoni Panel të Ri">
+<!ENTITY showTitlebar.label       "Shfaq Shtyllë Titujsh">
 <!ENTITY saveChanges.label        "U bë">
 <!ENTITY undoChanges.label        "Zhbëji Ndryshimet">

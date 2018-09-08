@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY title           "Instaloni Shtesë">
+<!ENTITY intro           "Një tjetër program në kompjuterin tuaj do të donte të modifikonte
+                          &brandShortName;-in me shtesën vijuese:">
+<!ENTITY warning         "Instaloni shtesa vetëm nga autorë të cilëve u besoni.">
+<!ENTITY allow           "Lejoje këtë instalim">
+<!ENTITY later           "Mund të ndërroni mendje kur të doni, duke shkuar
+                          te Përgjegjësi i Shtesave.">
+<!ENTITY continue        "Vazhdo">
+<!ENTITY restartMessage  "Që të përfundojë instalimi i kësaj shtese, duhet të rinisni &brandShortName;-in.">
+<!ENTITY restartButton   "Rinise &brandShortName;-in">
+<!ENTITY cancelButton    "Anuloje">

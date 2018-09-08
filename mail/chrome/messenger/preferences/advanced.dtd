@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Aktivizo Kërkim dhe Indeksues Global">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY dateTimeFormatting.label      "Formatim Datash dhe Kohe">
+<!ENTITY languageSelector.label        "Gjuhë">
 <!ENTITY allowHWAccel.label            "Përdor përshpejtim hardware kur mundet">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Lloj Depoje Mesazhesh për llogari të reja:">
