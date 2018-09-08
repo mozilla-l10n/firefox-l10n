@@ -13,3 +13,14 @@
 <!ENTITY editBookmarkOverlay.folder.label                    "Karpetâ:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Digun' daràn' nej karpetâ si'iaj nej markador">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Gachri hùi">
+<!ENTITY editBookmarkOverlay.tags.label                      "Nej etiketa:">
+<!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Gi'iaj nìni' etiketa 'ngà koma (,)">
+<!ENTITY editBookmarkOverlay.keyword.label                   "Nuguan' huìi:">
+<!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Ni'io' daran' nej etiketa">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Nachrun' markador na riña dukuán nū yi'ní ma">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
+<!ENTITY editBookmarkOverlay.choose.label                    "Naguī…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Karpetâ nakàa">
+<!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
