@@ -9,7 +9,11 @@ delete-confirm-description = Bu işlem tüm raporları siler ve geri alınamaz.
 crashes-unsubmitted-label = Gönderilmemiş çökme raporları
 id-heading = Rapor numarası
 date-crashed-heading = Çökme tarihi
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Başarısız oldu
 crashes-submitted-label = Gönderilen çökme raporları
 date-submitted-heading = Gönderim tarihi
+view-crash-button-label = Göster
 no-reports-label = Henüz hiç hata raporu gönderilmedi.
 no-config-label = Bu uygulama henüz çökme raporlarını göstermek üzere ayarlanmadı. <code>breakpad.reportURL</code> tercihi ayarlanmış olmalı.
