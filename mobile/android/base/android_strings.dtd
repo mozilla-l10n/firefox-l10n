@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Nākamā">
 
 <!ENTITY firstrun_tabqueue_title "Saites">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Ieslēgt cilņu rindu">
-<!ENTITY firstrun_tabqueue_subtext_off "Saglabājiet saites vēlākam pieskaroties tām &brandShortName; citās cilnēs.">
-
-<!ENTITY firstrun_tabqueue_message_on "Veiksme!">
-<!ENTITY firstrun_tabqueue_subtext_on "Šo iespēju var atslēgt &settings; sadaļā &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Raksti">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "Pārstartēt &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Ievadiet adresi vai meklējamo frāzi">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Atjaunošanas cilnes, datu taupītājs, izstrādātāju rīki">
 <!ENTITY pref_category_notifications "Paziņojumi">
-<!ENTITY pref_category_notifications_summary "Jaunas funkcijas, mājas lapu ziņas">
 <!ENTITY pref_category_notifications_summary2 "Jaunas iespējas, produkta padomi">
 <!ENTITY pref_developer_remotedebugging_usb "Attālinātā atkļūdošana izmantojot USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Attālinātā atkļūdošana izmantojot Wi-Fi">
@@ -372,6 +364,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Atļaut video palaišanu">
 <!ENTITY pref_media_autoplay_enabled_summary "Vai ļaut mājas lapām automātiski palaist video un citu mēdiju saturu">
+<!ENTITY pref_media_autoplay_allow "Atļaut automātisko atskaņošanu">
+<!ENTITY pref_media_autoplay_block "Bloķēt automātisko atskaņošanu">
 <!ENTITY pref_zoom_force_enabled "Vienmēr aktivēt palielinājumu">
 <!ENTITY pref_zoom_force_enabled_summary "Piespiedu režīms, lai varētu palielināt jebkuru lapu">
 <!ENTITY pref_voice_input "Balss ievade">
@@ -900,3 +894,13 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Atsākt atskaņošanu">
 <!ENTITY pip_pause_button_title "Apturēt">
 <!ENTITY pip_pause_button_description "Apturēt atskaņošanu">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; atrašanās vietas pakalpojums">
+<!ENTITY download_notification_channel "Lejupielādes">
+<!ENTITY media_notification_channel "Multimediju atskaņošana">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; push paziņojumi">
+<!ENTITY updater_notification_channel "Atjauninājums">
+<!ENTITY synced_tabs_notification_channel "Sinhronizētās cilnes">
