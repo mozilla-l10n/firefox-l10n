@@ -27,5 +27,8 @@ policy-DisableTelemetry = Sens tilisɣelt.
 policy-DisplayBookmarksToolbar = Deg umezwer sken-d afeggag n ifecka n ticraḍ.
 policy-DisplayMenuBar = Sken afeggag n wumuɣ s wudem amezwer.
 policy-FlashPlugin = Sireg neɣ gdel asemres n uzegrir Flash.
+policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Sbadu akked sewḥel ma tebɣiḍ asebter agejdan.
 policy-InstallAddonsPermission = Sireg asebded n izegrar di kra n ismal web.
 policy-Proxy = Swel iɣewwaṛen n upṛuksi.
