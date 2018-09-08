@@ -62,6 +62,8 @@ policy-DisableSecurityBypass = Voorkomen dat de gebruiker bepaalde beveiligingsi
 
 policy-DisableSetDesktopBackground = De menuopdracht Als bureaubladachtergrond instellen uitschakelen.
 
+policy-DisableSetAsDesktopBackground = De menuopdracht Als bureaubladachtergrond instellen voor afbeeldingen uitschakelen.
+
 policy-DisableSystemAddonUpdate = Voorkomen dat de browser systeemadd-ons installeert en bijwerkt.
 
 policy-DisableTelemetry = Telemetry uitschakelen.
@@ -72,14 +74,20 @@ policy-DisplayMenuBar = Standaard de Menubalk weergeven.
 
 policy-DontCheckDefaultBrowser = Controle op standaardbrowser bij opstarten uitschakelen.
 
+# “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Inhoudsblokkering inschakelen of uitschakelen en optioneel vergrendelen.
 
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Extensies installeren, verwijderen of vergrendelen. De optie voor installeren gebruikt URL’s of paden als parameters. De opties voor verwijderen en vergrendelen gebruiken extensie-ID’s.
 
 policy-FlashPlugin = Gebruik van de Flash-plug-in toestaan of weigeren.
 
 policy-HardwareAcceleration = Wanneer false, hardwareversnelling uitschakelen.
 
+# “lock” means that the user won’t be able to change this setting
 policy-Homepage = De startpagina instellen en optioneel vergrendelen.
 
 policy-InstallAddonsPermission = Toestaan dat bepaalde websites add-ons installeren.
@@ -104,4 +112,6 @@ policy-SearchBar = De standaardlocatie van de zoekbalk instellen. De gebruiker m
 
 policy-SearchEngines = Instellingen voor zoekmachines configureren. Deze beleidsregel is alleen beschikbaar in de Extended Support Release (ESR)-versie.
 
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Het bezoeken van websites blokkeren. Zie de documentatie voor meer informatie over de notatie.
