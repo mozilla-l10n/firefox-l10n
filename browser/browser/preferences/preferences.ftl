@@ -631,10 +631,6 @@ sitedata-block-trackers-option =
     .label = Elementi traccianti di terze parti
 sitedata-block-unvisited-option =
     .label = Cookie da siti web non visitati
-sitedata-block-all-third-parties-option =
-    .label = Tutti i cookie di terze parti
-sitedata-block-always-option =
-    .label = Tutti i cookie (alcuni siti potrebbero non funzionare correttamente)
 sitedata-block-all-third-party-option =
     .label = Tutti i cookie di terze parti (alcuni siti potrebbero non funzionare correttamente)
 sitedata-block-all-option =
@@ -692,38 +688,21 @@ content-blocking-category-label = Scegli che cosa bloccare
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Elementi traccianti lenti
-  .accesskey = m
 content-blocking-fastblock-slow-loading-trackers-label =
   .label = Elementi traccianti lenti a caricarsi
   .accesskey = m
-content-blocking-fastblock-description = Blocca contenuti di terze parti che richiedono più di 5 secondi per essere caricati.
 content-blocking-fastblock-new-description = Blocca solo gli elementi traccianti che impediscono alla pagina di caricarsi velocemente.
-content-blocking-fastblock-option-enabled =
-  .label = Blocca sempre
-content-blocking-fastblock-option-disabled =
-  .label = Non bloccare
 
-content-blocking-tracking-protection-label = Elementi traccianti
-  .accesskey = E
 content-blocking-tracking-protection-all-detected-trackers-label =
   .label = Tutti gli elementi traccianti rilevati
   .accesskey = T
-content-blocking-tracking-protection-description = Blocca tutti gli elementi traccianti conosciuti (nota: alcune pagine web potrebbero non caricarsi correttamente).
 content-blocking-tracking-protection-new-description = Blocca tutti gli elementi traccianti conosciuti (alcune pagine web potrebbero non caricarsi correttamente).
-content-blocking-tracking-protection-option-enabled =
-  .label = Blocca sempre
-content-blocking-tracking-protection-option-pbm =
-  .label = Blocca solo in navigazione anonima
-content-blocking-tracking-protection-option-disabled =
-  .label = Non bloccare
 content-blocking-tracking-protection-option-always =
   .label = Sempre
   .accesskey = S
 content-blocking-tracking-protection-option-private =
   .label = Solo in navigazione anonima
   .accesskey = a
-content-blocking-tracking-protection-change-blocklist = Cambia elenco per blocco contenuti…
 content-blocking-tracking-protection-change-block-list = Cambia elenco per blocco contenuti
 
 content-blocking-third-party-cookies-label =
