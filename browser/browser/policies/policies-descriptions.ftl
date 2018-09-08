@@ -38,12 +38,18 @@ policy-DisableSafeMode = Az Újraindítás letiltott kiegészítőkkel funkció 
 policy-DisableSecurityBypass = Annak a megakadályozása, hogy a felhasználó átugorjon bizonyos biztonsági figyelmeztetéseket.
 policy-DisableSetDesktopBackground = A Kép beállítása háttérképként menüparancs letiltása.
 policy-DisableSetAsDesktopBackground = A Beállítás háttérképként menüparancs letiltása a képeknél.
+policy-DisableSystemAddonUpdate = Annak a megakadályozása, hogy a böngésző rendszer-kiegészítőket telepítsen és frissítsen.
 policy-DisableTelemetry = Telemetria kikapcsolása.
 policy-DisplayBookmarksToolbar = A Könyvjelző eszköztár megjelenítése alapértelmezetten.
 policy-DisplayMenuBar = A Menüsáv megjelenítése alapértelmezetten.
 policy-DontCheckDefaultBrowser = Az alapértelmezett böngésző ellenőrzés kikapcsolása indításkor.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = A Tartalomblokkolás engedélyezése vagy letiltása, és válaszható módon, annak zárolása.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Kiegészítők telepítése, eltávolítása vagy zárolása. A Telepítés lehetőség URL-t vagy útvonalat vár paraméterként. Az Eltávolítás és Zárolás kiegészítőazonosítót vár.
 policy-FlashPlugin = A Flash bővítmény használatának engedélyezése vagy tiltása.
 policy-HardwareAcceleration = Ha hamis, akkor kikapcsolja a hardveres gyorsítást.
 # “lock” means that the user won’t be able to change this setting
