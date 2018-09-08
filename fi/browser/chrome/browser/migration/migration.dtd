@@ -34,7 +34,7 @@
 
 <!ENTITY noMigrationSources.label       "Ei löydetty ohjelmia, joista voitaisiin hakea kirjanmerkkejä, sivuhistoriaa tai salasanoja.">
 
-<!ENTITY importSource.title             "Tuo asetukset ja tiedot ohjelmasta">
+<!ENTITY importSource.title             "Asetusten ja tietojen tuonti ohjelmasta">
 <!ENTITY importItems.title              "Tuotavat tiedot">
 <!ENTITY importItems.label              "Valitse tuotavat tiedot:">
 
