@@ -31,7 +31,7 @@ search-input-box =
         }
 policies-notice =
     { PLATFORM() ->
-        [windows] Su organización ha deshabilitado la posibilidad de cambiar algunas opciones. 
+        [windows] Su organización ha deshabilitado la posibilidad de cambiar algunas opciones.
        *[other] Su organización ha deshabilitado la posibilidad de cambiar algunas preferencias.
     }
 pane-general-title = General
@@ -557,9 +557,6 @@ history-dontremember-description = { -brand-short-name } usará la misma configu
 history-private-browsing-permanent =
     .label = Modo permanente de navegación privada
     .accesskey = n
-history-remember-option =
-    .label = Recordar mi historial de descargas y navegación
-    .accesskey = R
 history-remember-browser-option =
     .label = Recordar historial de navegación y descargas
     .accesskey = h
@@ -605,6 +602,22 @@ sitedata-accept-third-party-visited-option =
     .label = De los visitados
 sitedata-accept-third-party-never-option =
     .label = Nunca
+sitedata-allow-cookies-option =
+    .label = Aceptar cookies y datos del sitio
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Bloquear cookies y datos del sitio
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Tipo bloqueado
+    .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = Rastreadores de terceros (recomendado)
+sitedata-block-trackers-option =
+    .label = Rastreadores de terceros
+sitedata-block-unvisited-option =
+    .label = Cookies de sitios web no visitados
 sitedata-clear =
     .label = Limpiar datos…
     .accesskey = L
@@ -647,26 +660,6 @@ content-blocking-toggle-label-on = ACTIVADO
 content-blocking-toggle-label-off = DESACTIVADO
     .accesskey = D
 content-blocking-category-label = Elija qué va a bloquear
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Elementos de rastreo lentos
-    .accesskey = l
-content-blocking-fastblock-description = Bloquea el contenido de terceros que tarda más de 5 segundos en cargarse.
-content-blocking-fastblock-option-enabled =
-    .label = Bloquear siempre
-content-blocking-fastblock-option-disabled =
-    .label = Nunca bloquear
-content-blocking-tracking-protection-label = Rastreadores
-    .accesskey = T
-content-blocking-tracking-protection-description = Bloquea todos los rastreadores conocidos (Nota: también puede impedir que se carguen algunas páginas).
-content-blocking-tracking-protection-option-enabled =
-    .label = Bloquear siempre
-content-blocking-tracking-protection-option-pbm =
-    .label = Bloquear solo en ventanas privadas
-content-blocking-tracking-protection-option-disabled =
-    .label = Nunca bloquear
-content-blocking-tracking-protection-change-blocklist = Cambiar la lista de bloqueo…
 
 ## Privacy Section - Tracking
 
@@ -729,6 +722,7 @@ autoplay-option-allow =
     .label = Permitir reproducción automática
 autoplay-option-dont =
     .label = No reproducir de manera automática
+permissions-autoplay-link = Más información
 permissions-block-popups =
     .label = Bloquear ventanas emergentes
     .accesskey = B
