@@ -32,3 +32,4 @@
 <!ENTITY trackingProtection.startTour1                   "Nézze meg a működését">
 
 <!ENTITY contentBlocking.title                           "Tartalomblokkolás">
+<!ENTITY contentBlocking.description                     "Néhány weboldala követőket használ, hogy kövesse a tevékenységét az interneten. A privát ablakokban a Firefox tartalomblokkolás automatikusan blokkol számos követőt, melyek információkat gyűjtenek a böngészési tevékenységéről.">

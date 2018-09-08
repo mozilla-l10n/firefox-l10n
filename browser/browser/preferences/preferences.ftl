@@ -627,10 +627,6 @@ sitedata-block-trackers-option =
     .label = Harmadik féltől származó követők
 sitedata-block-unvisited-option =
     .label = Nem megtekintett oldalak sütijei
-sitedata-block-all-third-parties-option =
-    .label = Összes harmadik féltől származó süti
-sitedata-block-always-option =
-    .label = Összes süti (egyes weboldalak eltörhetnek)
 sitedata-block-all-third-party-option =
     .label = Összes harmadik féltől származó süti (egyes weboldalak eltörhetnek)
 sitedata-block-all-option =
@@ -644,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Kivételek…
     .accesskey = K
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = A Tartalomblokkolási beállítások megakadályozzák, hogy módosítson a Sütik és oldaladatok beállításain.
 
 ## Privacy Section - Address Bar
 
@@ -680,26 +680,6 @@ content-blocking-category-label = Válassza ki, mit szeretne blokkolni
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Lassú követőelemek
-    .accesskey = L
-content-blocking-fastblock-description = Blokkolja azon harmadik féltől származó tartalmakat, melyeket 5 másodpercnél több idő betölteni.
-content-blocking-fastblock-option-enabled =
-    .label = Mindig blokkolja
-content-blocking-fastblock-option-disabled =
-    .label = Sosem blokkolja
-content-blocking-tracking-protection-label = Követők
-    .accesskey = K
-content-blocking-tracking-protection-description = Az ismert követők blokkolása (Megjegyzés: megakadályozhatja néhány oldal betöltését).
-content-blocking-tracking-protection-option-enabled =
-    .label = Mindig blokkolja
-content-blocking-tracking-protection-option-pbm =
-    .label = Csak privát ablakokban blokkolja
-content-blocking-tracking-protection-option-disabled =
-    .label = Sosem blokkolja
-content-blocking-tracking-protection-change-blocklist = Blokkolási lista módosítása…
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Lassan betöltő követők
     .accesskey = L
@@ -719,6 +699,11 @@ content-blocking-third-party-cookies-label =
     .label = Harmadik féltől származó sütik
     .accesskey = s
 content-blocking-reject-trackers-description = Összes harmadik féltől származó süti, vagy csak a követők által beállítottak blokkolása.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = A Sütik és oldaladatok beállításai megakadályozzák, hogy módosítsa a Harmadik féltől származó sütik beállításait.
 content-blocking-change-cookie-settings =
     .label = Sütibeállítások módosítása
     .accesskey = S
