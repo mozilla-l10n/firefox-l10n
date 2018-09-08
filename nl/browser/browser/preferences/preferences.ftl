@@ -789,11 +789,6 @@ sitedata-block-trackers-option =
     .label = Trackers van derden
 sitedata-block-unvisited-option =
     .label = Cookies van niet-bezochte websites
-sitedata-block-all-third-parties-option =
-    .label = Alle cookies van derden
-sitedata-block-always-option =
-    .label = Alle cookies (kan ervoor zorgen dat websites niet goed werken)
-
 sitedata-block-all-third-party-option =
     .label = Alle cookies van derden (kan ervoor zorgen dat websites niet goed werken)
 sitedata-block-all-option =
@@ -856,28 +851,6 @@ content-blocking-toggle-label-off = UIT
   .accesskey = U
 
 content-blocking-category-label = Kiezen wat er wordt geblokkeerd
-
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Trage tracking-elementen
-  .accesskey = T
-content-blocking-fastblock-description = Blokkeert inhoud van derden die langer dan 5 seconden doet over het laden.
-content-blocking-fastblock-option-enabled =
-  .label = Altijd blokkeren
-content-blocking-fastblock-option-disabled =
-  .label = Nooit blokkeren
-
-content-blocking-tracking-protection-label = Trackers
-  .accesskey = T
-content-blocking-tracking-protection-description = Blokkeert alle bekende trackers (Let op: kan ook het laden van bepaalde pagina’s tegengaan).
-content-blocking-tracking-protection-option-enabled =
-  .label = Altijd blokkeren
-content-blocking-tracking-protection-option-pbm =
-  .label = Alleen blokkeren in privévensters
-content-blocking-tracking-protection-option-disabled =
-  .label = Nooit blokkeren
-content-blocking-tracking-protection-change-blocklist = Blokkeerlijst wijzigen…
 
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
