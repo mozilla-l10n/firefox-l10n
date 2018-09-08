@@ -86,7 +86,7 @@ permissions-exceptions-addons-desc = Jūs varat norādīt, no kurām lapām ir a
 ## Exceptions - Autoplay Media
 
 permissions-exceptions-autoplay-media-window =
-    .title = Atļautās lapas - jaunie logi
+    .title = Atļautās vietnes - automātiskā atskaņošana
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Jūs varat norādīt, no kurām lapām ir atļauts atskaņot multimēdijas. Ierakstiet precīzu lapas adresi, no kuras vēlaties atļaut papildinājumu instalēšanu, un nospiediet Atļaut.
 permissions-exceptions-autoplay-media-desc2 = Jūs varat norādīt, no kurām lapām ir atļauts automātiski atskaņot multimēdijas ar skaņu. Ierakstiet precīzu lapas adresi, no kuras vēlaties atļaut papildinājumu instalēšanu, un nospiediet Atļaut.
