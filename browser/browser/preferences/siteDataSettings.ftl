@@ -7,7 +7,7 @@
 
 site-data-settings-window =
     .title = Pārvaldīt sīkdatnes un lapas datus
-site-data-settings-description = Šīs lapas glabā sīkdatnes un kešatmiņu jūsu datorā. { -brand-short-name } glabā mājas lapu datus pastāvīgajā krātuvē līdz brīdim, kad jūs tos izdzēšat, ne-pastāvīgās krātuves dati tiek dzēstu, kad nepieciešama papildu vieta.
+site-data-settings-description = Šīs lapas glabā sīkdatnes un kešatmiņu jūsu datorā. { -brand-short-name } glabā mājas lapu datus pastāvīgajā krātuvē līdz brīdim, kad jūs tos izdzēšat, ne-pastāvīgās krātuves dati tiek dzēsti, kad nepieciešama papildu vieta.
 site-data-search-textbox =
     .placeholder = Meklēt lapas
     .accesskey = S
@@ -42,8 +42,6 @@ site-data-remove-shown =
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Aizvākt
