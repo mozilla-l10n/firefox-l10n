@@ -36,6 +36,8 @@
 <!ENTITY newFeedAccountCmd.accesskey "P">
 <!ENTITY newIMContactCmd.label "Kontakt Fjalosjeje…">
 <!ENTITY newIMContactCmd.accesskey "K">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
 <!ENTITY  newMessageCmd.label "Mesazh">
 <!ENTITY  newMessageCmd.accesskey "m">
 <!ENTITY  newContactCmd.label "Kontakt nga Libri i Adresave…">
