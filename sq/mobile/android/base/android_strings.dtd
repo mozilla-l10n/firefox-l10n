@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Pasuesi">
 
 <!ENTITY firstrun_tabqueue_title "Lidhje">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Aktivizo radhë Skedash">
-<!ENTITY firstrun_tabqueue_subtext_off "Ruajini lidhjet për më vonë në &brandShortName; kur i prekni që nga aplikacione të tjera.">
-
-<!ENTITY firstrun_tabqueue_message_on "Sukses!">
-<!ENTITY firstrun_tabqueue_subtext_on "Këtë mund ta çaktivizoni kurdoherë te &settings; nën &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Artikuj">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,6 +63,14 @@
 <!ENTITY  crash_restart_label "Rinise &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Bëni kërkim ose jepni adresë">
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Përdorni Lexuesin tuaj QR që të kërkoni ose jepni një adresë">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Përdorni mikrofonin tuaj që të kërkoni ose jepni adresë">
 
 <!ENTITY bookmark "Faqeruaje">
 <!ENTITY bookmark_remove "Hiqe faqerojtësin">
@@ -206,7 +208,7 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Riktheni skeda, ruajtës të dhënash, mjete zhvilluesish">
 <!ENTITY pref_category_notifications "Njoftime">
-<!ENTITY pref_category_notifications_summary "Veçori të reja, përditësime sajti">
+<!ENTITY pref_category_notifications_summary2 "Veçori të reja, ndihmëza produkti">
 <!ENTITY pref_developer_remotedebugging_usb "Diagnostikim së largëti përmes USB-je">
 <!ENTITY pref_developer_remotedebugging_wifi "Diagnostikim së largëti përmes Wi-Fi-i">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Diagnostikimi përmes Wi-Fi-i lyp që pajisja juaj të ketë të instaluar një aplikacion leximi kodesh QR.">
@@ -282,6 +284,13 @@
 <!ENTITY pref_whats_new_notification "Ç’ka të re në &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Mësoni mbi veçori të reja pas një përditësimi">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Ndihmëza mbi produktin dhe veçori">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Mësoni më tepër rreth përdorimit të &brandShortName;-it dhe të tjerë produktesh &vendorShortName;">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Veçori eksperimentale">
@@ -356,6 +365,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Lejo vetëluajtje">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrollo nëse sajtet mund të vetëluajnë video dhe tjetër lëndë media">
+<!ENTITY pref_media_autoplay_allow "Lejo vetëluajtje">
+<!ENTITY pref_media_autoplay_block "Bllokoje vetëluajtjen">
 <!ENTITY pref_zoom_force_enabled "Aktivizoje përherë zoom-in">
 <!ENTITY pref_zoom_force_enabled_summary "Detyroni anashkalim, që të mund të zmadhoni ose zvogëloni cilëndo faqe">
 <!ENTITY pref_voice_input "Futje zëri">
@@ -431,6 +442,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Njoftues Vithisjesh">
 <!ENTITY datareporting_wifi_title2 "Shërbime Lokalizimi &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Ndihmojeni &vendorShortName;-n të hartëzojë botën! Ndani të dhëna të përafërta të vendndodhjes së Wi-Fi-it dhe celularit për pajisjen tuaj, që të përmirësohet shërbimi ynë i gjeovendëzimit.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "Po xhiron Shërbimi i Lokalizimit &vendorShortName;">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -537,7 +553,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Sistemoji skedat në dy shtylla në mënyrën portret">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Faqja u hoq">
 <!ENTITY folder_removed "Dosja u hoq">
@@ -752,7 +768,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Njëkohësuar së fundi: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Njëkohësuar së fundi: kurrë">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -872,3 +888,19 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Shtoje te Skena Hyrëse">
 <!ENTITY pwa_continue_to_website "Vazhdo te Sajti">
 <!ENTITY pwa_onboarding_sumo "Këtë sajt mund ta shtoni lehtë te skena juaj Kreu, që ta hapni në çast dhe të shfletoni më shpejt, si të ish aplikacion.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Luaje">
+<!ENTITY pip_play_button_description "Rimerr luajtjen">
+<!ENTITY pip_pause_button_title "Pushim">
+<!ENTITY pip_pause_button_description "Pushoje luajtjen">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Shërbim Lokalizimi i &vendorShortName;">
+<!ENTITY download_notification_channel "Shkarkime">
+<!ENTITY media_notification_channel "Luajtje Media">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "Njoftime Push &brandShortName;">
+<!ENTITY updater_notification_channel "Përditësime aplikacioni">
