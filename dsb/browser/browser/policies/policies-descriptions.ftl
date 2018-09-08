@@ -37,15 +37,22 @@ policy-DisableProfileRefresh = Tłocašk { -brand-short-name } wótnowiś na bok
 policy-DisableSafeMode = Funkciju za znowegostartowanje we wěstem modusu znjemóžniś. Glědajśo: Tasta Umsch, z kótarejuž k wěstemu modusoju pśejźośo, dajo se jano pód Windowsom z pomocu kupkowych pšawidłow znjemóžniś.
 policy-DisableSecurityBypass = Wužywarjeju zakazaś, se wěstych wěstotnych warnowanjow wobinuś.
 policy-DisableSetDesktopBackground = Menijowy pśikaz Wobraz ako desktopowu slězynu nastajiś znjemóžniś.
+policy-DisableSetAsDesktopBackground = Menijowy pśikaz Ako desktopowu slězynu za wobraze nastajiś znjemóžniś.
 policy-DisableSystemAddonUpdate = Wobglědowakoju instalěrowanje a aktualizěrowanje systemowych dodankow zawoboraś.
 policy-DisableTelemetry = Telemetriju znjemóžniś.
 policy-DisplayBookmarksToolbar = Rědku cytańskich znamjenjow pó standarźe pokazaś.
 policy-DisplayMenuBar = Menijowu rědku pó standarźe pokazaś.
 policy-DontCheckDefaultBrowser = Kontrolu za standardnym wobglědowakom pśi starśe znjemóžniś.
+# “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Blokěrowanje wopśimjeśa zmóžniś abo znjemóžniś a jo na žycenje zastajiś.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Rozšyrjenja instalěrowaś, wótinstalěrowaś abo zastajiś. Instalaciska opcija ma URL abo sćažki ako parametry. Opciji Wótinstalěrowaś a Zastajiś ID wužywatej.
 policy-FlashPlugin = Wužywanje tykaca Flash dowóliś abo zakazaś.
 policy-HardwareAcceleration = Jolic njewěrno, hardwarowe póspěšenje znjemóžniś.
+# “lock” means that the user won’t be able to change this setting
 policy-Homepage = Startowy bok nastajiś a na žycenje zastajiś.
 policy-InstallAddonsPermission = Wěstym websedłam dowóliś, dodanki instalěrowaś.
 policy-NoDefaultBookmarks = Napóranje standardnych cytańskich znamjenjow { -brand-short-name } znjemóžniś, a inteligentnych cytańskich znamjenjow (nejcesćej woglědane, tuchylne wobznamjenja). Glědajśo: Toś to pšawidło se jano wustatkujo, gaž jo pśed prědnym startom profila wužywaśo.
@@ -58,4 +65,6 @@ policy-Proxy = Nastajenja proksy konfigurěrowaś.
 policy-SanitizeOnShutdown = Nawigaciske daty pśi skóńcenju wulašowaś.
 policy-SearchBar = Standardne městno pytańskego póla nastajiś. Wužywaŕ móžo jo hyšći pśiměriś.
 policy-SearchEngines = Nastajenja pytnicow konfigurěrowaś. Toś to pšawidło jo jano za wersiju Extended Support Release (ESR) k dispoziciji.
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Woglědowanju k websydłam zajźowaś. Glejśo dokumentaciju za dalšne drobnostki wó formaśe.
