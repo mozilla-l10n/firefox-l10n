@@ -4,12 +4,19 @@
 
 crash-reports-title = Rozprawy wo spadach
 clear-all-reports-label = Wšě rozprawy wotstronić
+delete-button-label = Wšě zhašeć
 delete-confirm-title = Sće wěsty?
 delete-confirm-description = To zhaša wšě rozprawy a njeda so cofnyć.
+delete-unsubmitted-description = To wšě njepósłane spadowe rozprawy zhaša a njeda so cofnyć.
 crashes-unsubmitted-label = Njewotpósłane rozprawy wo spadach
 id-heading = ID rozprawy
 date-crashed-heading = Datum spada
+submit-crash-button-label = Wotpósłać
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Njeje so poradźiło
 crashes-submitted-label = Rozpósłane rozprawy wo spadach
 date-submitted-heading = Datum rozpósłanja
+view-crash-button-label = Pokazać
 no-reports-label = Rozprawy wo spadach njejsu so rozpósłali.
 no-config-label = Tute nałoženje njeje so konfigurowało, zo by rozprawy wo spadach zwobrazniło. Nastajenje <code>breakpad.reportURL</code> dyrbi so stajić.
