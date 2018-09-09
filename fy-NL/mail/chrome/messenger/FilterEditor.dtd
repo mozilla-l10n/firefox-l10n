@@ -42,14 +42,14 @@
 <!ENTITY markMessageRead.label "Berjocht as lêzen markearje">
 <!ENTITY markMessageUnread.label "Berjocht as net lêzen markearje">
 <!ENTITY markMessageStarred.label "Stjer tafoegje">
-<!ENTITY setPriority.label "Prioriteit feroarje nei">
+<!ENTITY setPriority.label "Prioriteit wizigje nei">
 <!ENTITY addTag.label "Berjocht labelje">
 <!ENTITY setJunkScore.label "Net-winske-berjochtesteat ynstelle op">
 <!ENTITY deleteMessage.label "Berjocht fuortsmite">
 <!ENTITY deleteFromPOP.label "Fan POP-server smite">
 <!ENTITY fetchFromPOP.label "Fan POP-server ophelje">
 <!ENTITY ignoreThread.label "Petear negearje">
-<!ENTITY ignoreSubthread.label "Subpetear negearje"> 
+<!ENTITY ignoreSubthread.label "Subpetear negearje">
 <!ENTITY watchThread.label "Petear folgje">
 <!ENTITY stopExecution.label "Ophâlde mei útfieren fan filter">
 
@@ -57,9 +57,10 @@
 <!ENTITY removeAction.tooltip "Dizze aksje fuortsmite">
 
 <!-- LOCALIZATION NOTE
-  The values below are used to control the widths of the filter action widgets.
-  Change the values only when the localized strings in the popup menus
-  are truncated in the widgets.
- -->
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
