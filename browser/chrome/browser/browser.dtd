@@ -447,6 +447,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Tvarkyti priedą">
 <!ENTITY customizeMenu.manageExtension.accesskey "p">
 
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -578,7 +579,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "y">
 <!ENTITY viewBGImageCmd.label         "Rodyti fono piešinį">
 <!ENTITY viewBGImageCmd.accesskey     "f">
-<!ENTITY setDesktopBackgroundCmd.label      "Naudoti kaip darbastalio fono piešinį…">
+<!ENTITY setDesktopBackgroundCmd.label      "Naudoti kaip darbastalio foną…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "d">
 <!ENTITY bookmarkPageCmd2.label       "Įrašyti į adresyną">
 <!ENTITY bookmarkPageCmd2.accesskey   "y">
@@ -1110,6 +1111,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Tvarkyti priedą…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Siųsti kortelę į įrenginį">
+
 <!ENTITY sendToDevice.syncNotReady.label "Sinchronizuojami įrenginiai…">
 
 <!ENTITY pageAction.shareUrl.label "Dalintis">
