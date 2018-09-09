@@ -13,3 +13,4 @@
 policy-Cookies = អនុញ្ញាត ឬបដិសេធវេបសាយដើម្បីកំណត់ខូគី។
 policy-DisablePrivateBrowsing = បិទដំណើររុករកឯកជន។
 policy-DisplayMenuBar = បង្ហាញរបារម៉ឺនុយតាមលំនាំដើម។
+policy-InstallAddonsPermission = អនុញ្ញាតគេហទំព័រជាក់លាក់ដើម្បីដំឡើងបន្ថែមកម្មវិធី។
