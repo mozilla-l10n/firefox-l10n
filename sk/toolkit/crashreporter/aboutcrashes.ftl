@@ -11,5 +11,6 @@ id-heading = Identifikátor správy
 date-crashed-heading = Dátum zlyhania
 crashes-submitted-label = Odoslané správy o zlyhaní
 date-submitted-heading = Dátum odoslania
+view-crash-button-label = Zobraziť
 no-reports-label = Neboli odoslané žiadne správy o zlyhaní.
 no-config-label = Táto aplikácia nebola nastavená na zobrazovanie správ o zlyhaní. Musí byť nastavená predvoľba <code>breakpad.reportURL</code>.
