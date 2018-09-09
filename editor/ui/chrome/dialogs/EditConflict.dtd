@@ -4,7 +4,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Selektearje ferzje">
-<!ENTITY conflictWarning.label "Dizze side is wizige troch in oar programma, wylst jo ek noch net-bewarre feroarings yn Composer hawwe.">
+<!ENTITY conflictWarning.label "Dizze side is wizige troch in oar programma, wylst jo ek noch net-bewarre wizigingen yn Composer hawwe.">
 <!ENTITY conflictResolve.label "Selektearje hokker ferzje jo behâlde wolle:">
 <!ENTITY keepCurrentPageButton.label "Behâld de wiziging op dizze side">
 <!ENTITY useOtherPageButton.label "Pas de oare wizigings op dizze side ta">
