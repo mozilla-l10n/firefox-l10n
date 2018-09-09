@@ -12,6 +12,8 @@ site-data-column-host =
     .label = វេបសាយ
 site-data-column-storage =
     .label = កន្លែង​ផ្ទុក
+site-data-column-last-used =
+    .label = បាន​ប្រើ​ចុងក្រោយ
 site-data-remove-selected =
     .label = លុប​អ្វី​ដែល​បាន​ជ្រើស
     .accesskey = r
@@ -34,8 +36,6 @@ site-data-remove-shown =
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = លុប
