@@ -38,3 +38,21 @@ policy-DisableSafeMode = Išjungti galimybę paleisti iš naujo ribotoje veiksen
 policy-DisableSecurityBypass = Neleisti naudotojui apeiti kai kurių saugumo įspėjimų.
 policy-DisableSetDesktopBackground = Išjungti meniu komandą „Naudoti paveikslą kaip darbastalio foną“.
 policy-DisableSetAsDesktopBackground = Išjungti meniu komandą „Naudoti kaip darbastalio foną“ paveikslams.
+policy-DisableSystemAddonUpdate = Neleisti naršyklei diegti ir naujinti sistemos priedų.
+policy-DisableTelemetry = Išjungti telemetriją.
+policy-DisplayBookmarksToolbar = Rodyti adresyno juostą pagal numatymą.
+policy-DisplayMenuBar = Rodyti meniu juostą pagal numatymą.
+policy-DontCheckDefaultBrowser = Išjungti numatytosios naršyklės tikrinimą paleidžiant.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Įjungti arba išjungti turinio blokavimą, ir papildomai jį užrakinti.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Diegti, šalinti, arba užrakinti priedus. Diegimo nuostata priima URL adresus arba kelius kaip parametrus. Šalinimo ir užrakinimo nuostatos priima priedų ID.
+policy-FlashPlugin = Leisti arba drausti „Flash“ plėtinio naudojimą.
+policy-HardwareAcceleration = Jei „false“, išjungti aparatinį spartinimą.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Nustatyti ir papildomai užrakinti pradžios tinklalapį.
+policy-InstallAddonsPermission = Leisti kai kurioms svetainėms diegti priedus.
+policy-NoDefaultBookmarks = Išjungti numatytųjų adresyno įrašų, kurie ateina su „{ -brand-short-name }“, kūrimą, bei išmanųjį adresyną („Lankomiausi“, „Paskiausiai naudotos gairės“). Pastaba: šis nuostatas veikia tik jeigu yra panaudojamas prieš pirmąjį profilio paleidimą.
