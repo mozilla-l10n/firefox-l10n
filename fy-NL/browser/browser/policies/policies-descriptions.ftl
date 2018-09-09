@@ -37,15 +37,22 @@ policy-DisableProfileRefresh = De knop { -brand-short-name } opfrisse yn de abou
 policy-DisableSafeMode = De funksje foar it opnij starten yn Feilige modus útskeakelje. Noat: de Shift-toets foar it betrêden fan de Feilige modus kin yn Windows allinnich útskeakele wurde fia Groepsbelied.
 policy-DisableSecurityBypass = Foarkomme dat de brûker bepaalde befeiligingsynstellingen omsilet.
 policy-DisableSetDesktopBackground = De menuopdracht As buroblêdachtergrûn ynstelle útskeakelje.
+policy-DisableSetAsDesktopBackground = De menuopdracht As buroblêdachtergrûn ynstelle foar ôfbyldingen útskeakelje.
 policy-DisableSystemAddonUpdate = Foarkomme dat de browser systeemadd-ons ynstallearret en bywurket.
 policy-DisableTelemetry = Telemetry útskeakelje.
 policy-DisplayBookmarksToolbar = Standert de Blêdwizerarkbalke werjaan.
 policy-DisplayMenuBar = Standert de Menubalke werjaan.
 policy-DontCheckDefaultBrowser = Kontrole op standertbrowser by opstarten útskeakelje.
+# “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ynhâldsblokkearring ynskeakelje of útskeakelje en opsjoneel beskoattelje.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Utwreidingen ynstallearje, fuortsmite of beskoattelje. De opsje foar ynstallearjen brûkt URL’s of paden as parameters. De opsjes foar fuortsmiten en beskoatteljen brûke útwreiding-ID’s.
 policy-FlashPlugin = Gebrûk fan de Flash-ynstekker tastean of wegerje.
 policy-HardwareAcceleration = Wannear false, hardwarefersnelling útskeakelje.
+# “lock” means that the user won’t be able to change this setting
 policy-Homepage = De startside ynstelle en opsjoneel beskoattelje.
 policy-InstallAddonsPermission = Tastean dat bepaalde websites add-ons ynstallearje.
 policy-NoDefaultBookmarks = Oanmeitsjen fan de standertblêdwizers dy't mei { -brand-short-name } mei levere wurde útskeakelje, krekt as de Tûke blêdwizers (Meast besocht, Resinte labels). Noat: dizze beliedsregel is allinnich fan krêft by gebrûk derfan eardat it profyl foar it earst útfierd wurdt.
@@ -58,4 +65,6 @@ policy-Proxy = Proxyynstellingen konfigurearje.
 policy-SanitizeOnShutdown = Alle navigaasjegegevens wiskje by ôfsluten.
 policy-SearchBar = De standertlokaasje fan de sykbalke ynstelle. De brûker mei dizze noch hieltyd oanpasse.
 policy-SearchEngines = Ynstellingen foar sykmasinen konfigurearje. Dizze beliedsregel is allinnich beskikber yn de Extended Support Release (ESR)-ferzje.
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = It besykjen fan websites blokkearje. Sjoch de dokumintaasje foar mear ynformaasje oer de notaasje.

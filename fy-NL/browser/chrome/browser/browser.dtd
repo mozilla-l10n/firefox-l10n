@@ -447,6 +447,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Utwreiding beheare">
 <!ENTITY customizeMenu.manageExtension.accesskey "U">
 
+<!ENTITY customizeMenu.removeExtension.label "Utwreiding fuortsmite">
+<!ENTITY customizeMenu.removeExtension.accesskey "f">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -1110,6 +1113,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Utwreiding beheare…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Ljepblêd nei apparaat ferstjoere">
+
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten syngronisearje…">
 
 <!ENTITY pageAction.shareUrl.label "Diele">
