@@ -56,3 +56,4 @@ policy-HardwareAcceleration = Jei „false“, išjungti aparatinį spartinimą.
 policy-Homepage = Nustatyti ir papildomai užrakinti pradžios tinklalapį.
 policy-InstallAddonsPermission = Leisti kai kurioms svetainėms diegti priedus.
 policy-NoDefaultBookmarks = Išjungti numatytųjų adresyno įrašų, kurie ateina su „{ -brand-short-name }“, kūrimą, bei išmanųjį adresyną („Lankomiausi“, „Paskiausiai naudotos gairės“). Pastaba: šis nuostatas veikia tik jeigu yra panaudojamas prieš pirmąjį profilio paleidimą.
+policy-OfferToSaveLogins = Taikyti nuostatą, skirtą leisti „{ -brand-short-name }“ siūlyti įsiminti įrašytus prisijungimus ir slaptažodžius. Priimamos „true“ ir „false“ reikšmės.
