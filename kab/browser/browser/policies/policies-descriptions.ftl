@@ -19,6 +19,7 @@ policy-Bookmarks = Rnu ticraḍ n isebtar deg ufeggag n tecraḍ, Umuɣ n tecra�
 policy-Certificates = Ma yella ad tesqedceḍ iselkinen usliɣen neɣ ala. Akka tura tasertit-agi n Windows.
 policy-Cookies = Sireg neɣ gdel asbadu n inagan n tuqqna i yisebtar.
 policy-DisableAppUpdate = Sewḥel aleqqem n yiminig.
+policy-DisableBuiltinPDFViewer = Sens PDF.js, ameskan PDF usliɣ deg { -brand-short-name }.
 policy-DisableDeveloperTools = Sewḥel anekcum ɣer ifecka n tneflit.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Sens tamahilt Firefox Screenshots.
