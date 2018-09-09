@@ -4,12 +4,20 @@
 
 crash-reports-title = Ungelokrapporten
 clear-all-reports-label = Alle rapporten fuortsmite
+delete-button-label = Alles wiskje
 delete-confirm-title = Binne jo wis?
 delete-confirm-description = Dit sil alle rapporten fuortsmite en kin net ûngedien makke wurde
+delete-unsubmitted-description = Dit sil alle net-ferstjoerde ûngelokrapporten fuortsmite en kin net ûngedien makke wurde
+delete-submitted-description = Dit sil de list fan ferstjoerde ûngelokrapporten fuortsmite, mar net de ferstjoerde gegevens. Dit kin net ûngedien makke wurde.
 crashes-unsubmitted-label = Net ynstjoerde ûngelokrapporten
 id-heading = Rapport ID
 date-crashed-heading = Ungelokdatum
+submit-crash-button-label = Ferstjoere
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Mislearre
 crashes-submitted-label = Ynstjoerde ûngelokrapporten
 date-submitted-heading = Ynstjoerdatum
+view-crash-button-label = Werjaan
 no-reports-label = Der binne gjin ûngelokrapporten ynstjoerd.
 no-config-label = Dizze applikaasje is net ynsteld om ûngelokrapporten te toanen. De foarkar <code>breakpad.reportURL</code> moat ynsteld wêze.
