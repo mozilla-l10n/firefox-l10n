@@ -4,11 +4,13 @@
 
 crash-reports-title = Çökme Raporları
 clear-all-reports-label = Tüm raporları sil
+delete-button-label = Hepsini temizle
 delete-confirm-title = Emin misiniz?
 delete-confirm-description = Bu işlem tüm raporları siler ve geri alınamaz.
 crashes-unsubmitted-label = Gönderilmemiş çökme raporları
 id-heading = Rapor numarası
 date-crashed-heading = Çökme tarihi
+submit-crash-button-label = Gönder
 # This text is used to replace the label of the crash submit button
 # if the crash submission fails.
 submit-crash-button-failure-label = Başarısız oldu
