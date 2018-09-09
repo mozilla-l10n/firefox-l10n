@@ -10,21 +10,52 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = Establecer la URL de actualización de aplicación personalizada.
+policy-Authentication = Configurar la autenticación integrada para sitios web que la admitan.
 policy-BlockAboutAddons = Bloquear acceso al Administrador de complementos (about:addons).
 policy-BlockAboutConfig = Bloquear acceso a la página about:config.
 policy-BlockAboutProfiles = Bloquear acceso a la página about:profiles.
 policy-BlockAboutSupport = Bloquear acceso a la página about:support.
+policy-Bookmarks = Crear marcadores en la barra de herramientas de marcadores, en el menú de marcadores o en una carpeta específica dentro de los mismos.
+policy-Certificates = Usar o no los certificados integrados. Esta política es solo para Windows en este momento.
+policy-Cookies = Permitir o negar a los sitios web establecer cookies.
+policy-DisableAppUpdate = Evitar que el navegador se actualice.
+policy-DisableBuiltinPDFViewer = Deshabilitar PDF.js, el visor de PDF integrado en { -brand-short-name }.
+policy-DisableDeveloperTools = Bloquear acceso a las herramientas de desarrollador.
+policy-DisableFeedbackCommands = Deshabilitar comandos para enviar opiniones desde el menú de ayuda (Enviar opinión e informar sitio engañoso).
+policy-DisableFirefoxAccounts = Deshabilitar servicios basados en { -fxaccount-brand-name }, incluyendo Sync.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Deshabilitar la función de Firefox Screenshots.
+policy-DisableFirefoxStudies = Evitar que { -brand-short-name } ejecute estudios.
+policy-DisableForgetButton = Evitar el acceso al botón Olvidar.
+policy-DisableFormHistory = No recordar el historial de búsqueda y formularios.
 policy-DisableMasterPasswordCreation = De ser verdadero, una contraseña maestra no puede ser creada.
 policy-DisablePocket = Deshabilitar la función para guardar páginas web en Pocket.
 policy-DisablePrivateBrowsing = Deshabilitar navegación privada.
 policy-DisableProfileImport = Deshabilitar el comando de menú para importar datos desde otro navegador.
 policy-DisableProfileRefresh = Deshabilitar el botón de "Refrescar { -brand-short-name }" en la página about:support.
 policy-DisableSafeMode = Deshabilitar la función para reiniciar en modo seguro. Nota: la tecla Shift para ingresar al modo seguro solo puede ser desactivada en en Windows usando las políticas de grupo del sistema.
+policy-DisableSecurityBypass = Impedir que el usuario se salte ciertas advertencias de seguridad.
+policy-DisableSetDesktopBackground = Deshabilitar el comando de menú para establecer una imagen como fondo de escritorio.
+policy-DisableSetAsDesktopBackground = Deshabilitar el comando de menú "Colocar como fondo de escritorio" para las imágenes.
+policy-DisableSystemAddonUpdate = Evitar que el navegador instale y actualice los complementos del sistema.
 policy-DisableTelemetry = Desactivar la telemetría.
 policy-DisplayBookmarksToolbar = Mostrar la barra de herramientas de marcadores por defecto.
 policy-DisplayMenuBar = Mostrar la barra de menú por defecto.
 policy-DontCheckDefaultBrowser = Deshabilitar revisión del navegador predeterminado al inicio.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Habilitar o deshabilitar el bloqueo de contenido y bloquearlo opcionalmente.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Instalar, desinstalar o bloquear extensiones. La opción para "instalar" toma URLs o rutas como parámetros. Las opciones "desinstalar" y "bloquear" toman los ID de las extensiones.
 policy-FlashPlugin = Permitir o denegar el uso del complemento Flash.
 policy-HardwareAcceleration = De ser falso, desactiva la aceleración por hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Establecer y bloquear opcionalmente la página de inicio.
+policy-InstallAddonsPermission = Permitir que ciertos sitios web instalen complementos.
+policy-Permissions = Configurar permisos para cámara, micrófono, ubicación y notificaciones.
+policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de manera por defecto.
+policy-Proxy = Configurar los ajustes de proxy.
+policy-SanitizeOnShutdown = Borrar todos los datos de navegación al apagar.

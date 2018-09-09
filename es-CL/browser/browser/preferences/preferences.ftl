@@ -627,10 +627,6 @@ sitedata-block-trackers-option =
     .label = Rastreadores de terceros
 sitedata-block-unvisited-option =
     .label = Cookies de sitios web no visitados
-sitedata-block-all-third-parties-option =
-    .label = Todas las cookies de terceros
-sitedata-block-always-option =
-    .label = Todas las cookies (puede causar errores en los sitios web)
 sitedata-block-all-third-party-option =
     .label = Todas las cookies de terceros (esto puede causar errores en los sitios web)
 sitedata-block-all-option =
@@ -677,28 +673,14 @@ content-blocking-toggle-label-on = ACTIVADO
 content-blocking-toggle-label-off = DESACTIVADO
     .accesskey = D
 content-blocking-category-label = Elige qué bloquear
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Elementos de seguimiento lentos
-    .accesskey = S
-content-blocking-fastblock-description = Bloquea el contenido de terceros que tarda más de 5 segundos en cargarse.
-content-blocking-fastblock-option-enabled =
-    .label = Bloquear siempre
-content-blocking-fastblock-option-disabled =
-    .label = Nunca bloquear
-content-blocking-tracking-protection-label = Rastreadores
-    .accesskey = T
-content-blocking-tracking-protection-description = Bloquea todos los rastreadores conocidos (Nota: también puede impedir que se carguen algunas páginas).
-content-blocking-tracking-protection-option-enabled =
-    .label = Siempre bloquear
-content-blocking-tracking-protection-option-pbm =
-    .label = Bloquear solo en ventanas privadas
-content-blocking-tracking-protection-option-disabled =
-    .label = Nunca bloquear
-content-blocking-tracking-protection-change-blocklist = Cambiar la lista de bloqueo…
 content-blocking-tracking-protection-option-always =
     .label = Siempre
+    .accesskey = A
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Rastreadores
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Todas las cookies de terceros (puede causar errores en los sitios web)
     .accesskey = A
 
 ## Privacy Section - Tracking
