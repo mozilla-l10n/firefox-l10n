@@ -619,10 +619,6 @@ sitedata-block-trackers-option =
     .label = Traciatores de tertie partes
 sitedata-block-unvisited-option =
     .label = Cookies ab sitos web non visitate
-sitedata-block-all-third-parties-option =
-    .label = Tote le cookies de tertie partes
-sitedata-block-always-option =
-    .label = Tote le cookies (pote causar le collapso del sitos web)
 sitedata-clear =
     .label = Clarar le datos...
     .accesskey = l
@@ -668,23 +664,25 @@ content-blocking-category-label = Elige que blocar
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Elementos de traciamento lente
-    .accesskey = l
-content-blocking-fastblock-description = Bloca contentos de terties que demora plus que 5 secundas pro cargar.
-content-blocking-fastblock-option-enabled =
-    .label = Blocar sempre
-content-blocking-fastblock-option-disabled =
-    .label = Nunquam blocar
-content-blocking-tracking-protection-label = Traciatores
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Traciatores lente
+    .accesskey = S
+content-blocking-tracking-protection-option-always =
+    .label = Sempre
+    .accesskey = S
+content-blocking-tracking-protection-option-private =
+    .label = Solmente in fenestras private
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Cambiar le lista de blocage
+content-blocking-third-party-cookies-label =
+    .label = Cookies de tertie partes
+    .accesskey = C
+content-blocking-change-cookie-settings =
+    .label = Cambiar le parametros de recerca
+    .accesskey = p
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Traciatores
     .accesskey = T
-content-blocking-tracking-protection-description = Bloca tote le traciatores cognite (Nota: pote tamben impedir alcun paginas de cargar).
-content-blocking-tracking-protection-option-enabled =
-    .label = Blocar sempre
-content-blocking-tracking-protection-option-pbm =
-    .label = Blocar solmente in fenestras private
-content-blocking-tracking-protection-option-disabled =
-    .label = Nunquam blocar
-content-blocking-tracking-protection-change-blocklist = Cambiar le lista de blocage...
 
 ## Privacy Section - Tracking
 
