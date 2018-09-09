@@ -23,7 +23,7 @@ policy-DisableAppUpdate = Estä selainta päivittymästä.
 policy-DisableBuiltinPDFViewer = Poista käytöstä PDF.js, { -brand-short-name }in sisäänrakennettu PDF-katselin.
 policy-DisableDeveloperTools = Estä pääsy web-työkaluihin.
 policy-DisableFeedbackCommands = Estä komennot, joilla voi antaa palautetta Ohje-valikosta (Anna palautetta ja Ilmoita petollinen sivusto).
-policy-DisableFirefoxAccounts = Poista käytöstä { -fxaccount-brand-name } -pohjaiset palvelut, mukaan lukien Sync.
+policy-DisableFirefoxAccounts = Poista käytöstä { -fxaccount-brand-name }-pohjaiset palvelut, mukaan lukien Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Poista Firefox Screenshots -ominaisuus käytöstä.
 policy-DisableFirefoxStudies = Estä { -brand-short-name } suorittamasta tutkimuksia.
