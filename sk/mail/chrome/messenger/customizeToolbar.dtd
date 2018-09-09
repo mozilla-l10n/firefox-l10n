@@ -13,6 +13,6 @@
 <!ENTITY useSmallIcons.label      "Použiť malé ikony">
 <!ENTITY restoreDefaultSet.label  "Obnoviť predvolenú sadu">
 <!ENTITY addNewToolbar.label      "Pridať nový panel">
-<!ENTITY showTitltbar.label       "Zobraziť panel s titulkom okna">
+<!ENTITY showTitlebar.label       "Zobraziť panel s titulkom okna">
 <!ENTITY saveChanges.label        "Hotovo">
 <!ENTITY undoChanges.label        "Zrušiť zmeny">
