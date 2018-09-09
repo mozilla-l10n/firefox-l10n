@@ -5,6 +5,9 @@
 languages-window =
     .title = Linguas
     .style = width: 30em
+webpage-languages-window =
+    .title = Configurationes del linguas del pagina web
+    .style = largessa: 40em
 languages-close-key =
     .key = w
 languages-description = Paginas web es alcun vices offerite in plus de un lingua. Selige le linguas pro presentar iste paginas web, in ordine de preferentia
@@ -38,3 +41,7 @@ languages-code-format =
     .label = { $locale } [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } Configurationes del linguas
+    .style = largessa: 40em
+browser-languages-description = { -brand-short-name } monstrara le prime lingua como tu predefiniva e monstrara altere linguas si illos es necesse in le ordine de apparition.
