@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = Ορισμός προσαρμοσμένου URL ενημέρωσης εφαρμογής.
 policy-BlockAboutAddons = Φραγή πρόσβασης στη Διαχείριση προσθέτων (about:addons).
 policy-BlockAboutConfig = Φραγή πρόσβασης στη σελίδα about:config.
 policy-BlockAboutProfiles = Φραγή πρόσβασης στη σελίδα about:profiles.
