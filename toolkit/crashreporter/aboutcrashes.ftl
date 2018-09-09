@@ -4,12 +4,18 @@
 
 crash-reports-title = Αναφορές κατάρρευσης
 clear-all-reports-label = Αφαίρεση όλων των αναφορών
+delete-button-label = Εκκαθάριση όλων
 delete-confirm-title = Είστε σίγουρος;
 delete-confirm-description = Αυτή η ενέργεια θα διαγράψει όλες τις αναφορές και δεν είναι αναστρέψιμη
 crashes-unsubmitted-label = Μη υποβληθείσες αναφορές κατάρρευσης
 id-heading = ID Αναφοράς
 date-crashed-heading = Ημερομηνία κατάρρευσης
+submit-crash-button-label = Υποβολή
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Αποτυχία
 crashes-submitted-label = Υποβληθείσες αναφορές κατάρρευσης
 date-submitted-heading = Ημερομηνία υποβολής
+view-crash-button-label = Προβολή
 no-reports-label = Δεν έχουν υποβληθεί αναφορές προβλημάτων.
 no-config-label = Αυτή η εφαρμογή δεν έχει ρυθμιστεί για να εμφανίζει αναφορές προβλημάτων. Θα πρέπει να ρυθμιστούν οι προτιμήσεις στο <code>breakpad.reportURL</code>.
