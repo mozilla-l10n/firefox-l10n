@@ -254,6 +254,8 @@ network-proxy-connection-settings =
 home-restore-defaults =
     .label = ស្ដារ​លំនាំ​ដើម
     .accesskey = R
+home-mode-choice-blank =
+    .label = ទំព័រទទេ
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -415,6 +417,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-header = ខូឃី និងទិន្នន័យ​គេហទំព័រ
 sitedata-learn-more = ស្វែងយល់​បន្ថែម
 sitedata-accept-third-party-always-option =
     .label = ជានិច្ច
@@ -464,6 +467,12 @@ tracking-exceptions =
 
 ## Privacy Section - Permissions
 
+permissions-location-settings =
+    .label = ការកំណត់...
+    .accesskey = t
+permissions-camera-settings =
+    .label = ការ​កំណត់...
+    .accesskey = t
 permissions-notification = ការ​ជូនដំណឹង
 permissions-block-popups =
     .label = ទប់ស្កាត់​​បង្អួច​លេច​ឡើង
