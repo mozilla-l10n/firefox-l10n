@@ -90,6 +90,9 @@ extension-controlled-privacy-containers = O extensie, <img data-l10n-name="icon"
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = O extensie, <img data-l10n-name="icon"/> { $name }, controlează protecția față de urmărire.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = O extensie, <img data-l10n-name="icon"/> { $name }, controlează această setare.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = O extensie, <img data-l10n-name="icon"/> { $name }, controlează modul în care { -brand-short-name } se conectează la internet.
@@ -621,10 +624,6 @@ sitedata-block-desc = Tipul conținutului blocat
     .accesskey = T
 sitedata-block-unvisited-option =
     .label = Cookie-uri de la site-urile web nevizitate
-sitedata-block-all-third-parties-option =
-    .label = Toate cookie-urile de la terți
-sitedata-block-always-option =
-    .label = Toate cookie-urile (poate provoca afectarea aspectului site-urilor web)
 sitedata-clear =
     .label = Șterge datele…
     .accesskey = l
@@ -667,26 +666,12 @@ content-blocking-toggle-label-on = ACTIVAT
 content-blocking-toggle-label-off = DEZACTIVAT
     .accesskey = O
 content-blocking-category-label = Alege ceea ce să blochezi
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Afișează elementele de urmărire
-    .accesskey = S
-content-blocking-fastblock-description = Blochează conținutul de la terți care durează mai mult de 5 secunde să încarce.
-content-blocking-fastblock-option-enabled =
-    .label = Blochează întotdeauna
-content-blocking-fastblock-option-disabled =
-    .label = Nu bloca niciodată
-content-blocking-tracking-protection-label = Urmăritori
-    .accesskey = T
-content-blocking-tracking-protection-description = Blochează toți urmăritorii cunoscuți (Notă: ar putea și să împiedice încărcarea unor pagini).
-content-blocking-tracking-protection-option-enabled =
-    .label = Blochează întotdeauna
-content-blocking-tracking-protection-option-pbm =
-    .label = Blochează doar în ferestrele private
-content-blocking-tracking-protection-option-disabled =
-    .label = Nu bloca niciodată
-content-blocking-tracking-protection-change-blocklist = Schimbă lista de blocări…
+content-blocking-tracking-protection-option-always =
+    .label = Întotdeauna
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Doar în ferestre private
+    .accesskey = P
 
 ## Privacy Section - Tracking
 
