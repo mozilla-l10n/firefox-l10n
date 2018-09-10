@@ -48,6 +48,8 @@ but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "ב">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadSelectedTabs.label           "טעינה מחדש של הלשוניות הנבחרות">
+<!ENTITY  reloadSelectedTabs.accesskey       "ט">
 <!ENTITY  bookmarkSelectedTabs.label         "יצירת סימנייה ללשוניות…">
 <!ENTITY  bookmarkSelectedTabs.accesskey     "נ">
 
@@ -66,8 +68,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "ה">
 <!ENTITY  sendLinkToDevice.label             "שליחת קישור להתקן">
 <!ENTITY  sendLinkToDevice.accesskey         "ה">
-<!ENTITY  sendToDeviceFeedback.label         "נשלח!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "בתור (לא מקוון)">
 <!ENTITY  moveToNewWindow.label              "העברה לחלון חדש">
 <!ENTITY  moveToNewWindow.accesskey          "ה">
 <!ENTITY  reopenInContainer.label            "פתיחה מחדש במגירה">
@@ -266,7 +266,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "דף הבית">
-
 <!ENTITY homeButton.defaultPage.tooltip "דף הבית של &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "סימניות">
@@ -426,23 +425,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "הוספה לסרגל כלים">
 <!ENTITY customizeMenu.addToToolbar.accesskey "ר">
-<!ENTITY customizeMenu.addToPanel.label "הוספה לתפריט">
-<!ENTITY customizeMenu.addToPanel.accesskey "ת">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "הוספה לתפריט הצף">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "ס">
-<!ENTITY customizeMenu.moveToToolbar.label "העברה לסרגל כלים">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "ס">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "העברה לתפריט">
-<!ENTITY customizeMenu.moveToPanel.accesskey "ע">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -452,15 +440,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "מ">
 <!ENTITY customizeMenu.removeFromToolbar.label "הסרה מסרגל הכלים">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ר">
-<!ENTITY customizeMenu.removeFromMenu.label "הסרה מתפריט">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "ר">
 <!ENTITY customizeMenu.addMoreItems.label "הוספת פריטים נוספים…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "נ">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "הסתרה אוטומטית בסרגל הכלים">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "א">
 <!ENTITY customizeMenu.manageExtension.label "ניהול הרחבה">
 <!ENTITY customizeMenu.manageExtension.accesskey "ה">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -602,7 +588,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "יצירת סימנייה למסגרת זו">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "מ">
 <!ENTITY pageAction.copyLink.label    "העתקת קישור">
-<!ENTITY copyURLFeedback.label        "הועתק!">
 <!ENTITY emailPageCmd.label           "שליחת קישור בדוא״ל…">
 <!ENTITY emailPageCmd.accesskey       "ד">
 <!ENTITY savePageCmd.label            "שמירת דף בשם…">
@@ -789,7 +774,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "סיום">
-<!ENTITY editBookmark.removeBookmark.accessKey       "ה">
 
 <!ENTITY editBookmark.showForNewBookmarks.label       "הצגת העורך בזמן שמירה">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "ה">
@@ -840,7 +824,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "הרשאות">
 <!ENTITY identity.permissionsEmpty "לא סופקו לאתר זה הרשאות מיוחדות.">
 <!ENTITY identity.permissionsReloadHint "יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "פתיחת העדפות הרשאות">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -943,23 +926,63 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.on "הגנת מעקב: פעילה">
 <!ENTITY trackingProtection.off "הגנת מעקב: כבויה">
-<!ENTITY trackingProtection.title "הגנת מעקב">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; חוסם חלקים מהדף שעשויים לעקוב אחר הגלישה שלך.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "אתר זה כולל רכיבים שעשויים לעקוב אחר הגלישה שלך. נטרלת את ההגנה.">
-<!ENTITY trackingProtection.notDetected3 "לא זוהו פריטים שעוקבים אחריך בדף זה.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "נטרול ההגנה עבור אתר זה">
-<!ENTITY trackingProtection.unblock.accesskey "א">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "נטרול ההגנה להפעלה זו">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "נ">
-<!ENTITY trackingProtection.block2.label "הפעלת הגנה">
-<!ENTITY trackingProtection.block2.accesskey "פ">
 
+<!ENTITY contentBlocking.title "חסימת תוכן">
+<!ENTITY contentBlocking.detected "זוהה תוכן הניתן לחסימה באתר זה.">
+<!ENTITY contentBlocking.notDetected "לא זוהה תוכן הניתן לחסימה בדף זה.">
+<!ENTITY contentBlocking.disabled.label "מושבת">
+<!ENTITY contentBlocking.disabled.tooltip "השבתת חסימת תוכן.">
+<!ENTITY contentBlocking.exception.tooltip "השבתת חסימת תוכן באתר זה.">
+
+<!ENTITY contentBlocking.fastBlock.label "רכיבי מעקב שנטענים לאט">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "חסומים">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "הוספת חסימה…">
+
+<!ENTITY contentBlocking.trackingProtection2.label "כל רכיבי המעקב שזוהו">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking tracker content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "חסומים">
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "הוספת חסימה…">
+
+<!ENTITY contentBlocking.3rdPartyCookies.label "עוגיות צד־שלישי">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "חסום">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "הוספת חסימה…">
+
+<!ENTITY contentBlocking.openBreakageReportView2.label "דיווח על בעיה">
+<!ENTITY contentBlocking.breakageReportView.label "דיווח על בעיות">
+<!ENTITY contentBlocking.breakageReportView2.description "חסימת תוכן עשויה לגרום לתקלות במגוון אתרים. עצם הדיווח מצדך, מסייע בשיפור &brandShortName; לטובת הכלל. (פעולה זו תשלח כתובת לרבות מידע על הגדרות הדפדפן שלך ל‏־Mozilla.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "מידע נוסף">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "כתובת">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "באילו בעיות נתקלת? (לא חובה)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "שליחת דוח">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "ביטול">
+
+<!ENTITY trackingProtection.title "הגנת מעקב">
 <!ENTITY trackingProtection.tooltip "פתיחת העדפות הגנת מעקב">
 <!ENTITY trackingProtection.detectedBlocked4 "‏&brandShortName; חוסם חלקים מהעמוד הזה שעשויים לעקוב אחר הגלישה שלך.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "‏&brandShortName; זיהה רכיבים שעשויים לעקוב אחר הגלישה שלך.">
@@ -968,11 +991,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.notDetectedException "לא זוהו רכיבי מעקב בעמוד זה. השבתת את ההגנה לאתר זה.">
 
 <!ENTITY trackingProtection.reloadRequired2 "הפעלת הגנת מעקב. יש לטעון מחדש את העמוד הזה כדי לחסום את כל רכיבי המעקב.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "השבתה לאתר זה">
 <!ENTITY trackingProtection.unblock3.accesskey "ש">
+<!ENTITY trackingProtection.unblock4.label "נטרול החסימה עבור אתר זה">
+<!ENTITY trackingProtection.unblock4.accesskey "נ">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -980,6 +1006,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "ש">
 <!ENTITY trackingProtection.block4.label "השבתה לאתר זה">
 <!ENTITY trackingProtection.block4.accesskey "א">
+<!ENTITY trackingProtection.unblockPrivate4.label "נטרול החסימה באופן זמני">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "נ">
+<!ENTITY trackingProtection.block5.label "הפעלת החסימה עבור אתר זה">
+<!ENTITY trackingProtection.block5.accesskey "ה">
 <!ENTITY trackingProtection.reload2.label "טעינה מחדש של העמוד">
 <!ENTITY trackingProtection.reload2.accesskey "ט">
 
@@ -1081,6 +1111,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "ניהול הרחבה…">
 
 <!ENTITY pageAction.sendTabToDevice.label "שליחת לשונית להתקן">
+
 <!ENTITY sendToDevice.syncNotReady.label "סנכרון התקנים…">
 
 <!ENTITY pageAction.shareUrl.label "שיתוף">

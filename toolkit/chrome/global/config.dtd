@@ -24,7 +24,7 @@
 
 <!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "לחץ לסידור"> 
-<!ENTITY columnChooser.tooltip "לחץ לבחירת עמודות לתצוגה"> 
+<!ENTITY columnChooser.tooltip "יש ללחוץ לבחירת עמודות לתצוגה"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">

@@ -11,6 +11,8 @@
 <!ENTITY returnToPreviousPage1.label "חזרה (מומלץ)">
 <!ENTITY advanced.label "מתקדם">
 
+<!ENTITY continue2.label "עוד…">
+<!ENTITY moreInformation.label "מידע נוסף">
 
 <!-- Specific error messages -->
 
@@ -129,12 +131,13 @@
 
 <!ENTITY certerror.longpagetitle1 "החיבור שלך אינו מאובטח">
 <!ENTITY certerror.longpagetitle2 "אזהרה: סכנת אבטחה אפשרית לפניך">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "הבעלים של <span class='hostname'/> הגדירו את האתר שלהם בצורה לקויה.  על מנת להגן על המידע שלך מפני גניבה, &brandShortName; לא התחבר לאתר זה.">
 
 
+<!ENTITY certerror.expiredCert.secondPara "תקלה זו מתרחשת בעיקר עקב שעה שגויה בשעון שלך, מה שעשוי למנוע מ־&brandShortName; להתחבר באופן מאובטח.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "מה ניתן לעשות בנדון?">
 
@@ -155,6 +158,8 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "הוספת חריגה…">
+
+<!ENTITY securityOverride.exceptionButton1Label "קבלת הסיכון והמשך">
 
 <!ENTITY errorReporting.automatic2 "דיווח על תקלות מסוג זה כדי לסייע ל־Mozilla לזהות ולחסום אתרים מסוכנים">
 <!ENTITY errorReporting.learnMore "מידע נוסף…">
@@ -187,6 +192,9 @@ Strict Transport Security (HSTS) כדי לציין ש־&brandShortName; יוכל
 <!ENTITY inadequateSecurityError.longDesc "<p>האתר בכתובת <span class='hostname'></span> משתמש בטכנולוגית אבטחה שאינה עדכנית וחשופה להתקפות. תוקף יכול בקלות לחשוף מידע שלכאורה אמור היה להיות מוגן. על מנהל האתר לתקן את השרת לפני שיהיה ניתן לבקר באתר זה.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "עמוד חסום">
+
+<!ENTITY clockSkewError.title "השעון של המחשב שלך אינו מכוון">
+<!ENTITY clockSkewError.longDesc "המחשב שלך משוכנע שעכשיו <span id='wrongSystemTime_systemDate1'/>, מה שמונע מ־&brandShortName; ליצור חיבורים מאובטחים. כדי לבקר ב־<span class='hostname'></span>, נא לעדכן את השעון של המחשב שלך בהגדרות המערכת לשעה, התאריך ואזור הזמן הנוכחיים ואז לרענן את <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "נראה שהגדרות אבטחת הרשת שלך עשוי לגרום לכך. האם ברצונך לשחזר להגדרות ברירת מחדל?">
 <!ENTITY prefReset.label "שחזור הגדרות בררת המחדל">

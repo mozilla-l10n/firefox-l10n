@@ -6,6 +6,8 @@ do-not-track-description = שליחת חיווי ”נא לא לעקוב” לא
 do-not-track-learn-more = מידע נוסף
 do-not-track-option-default =
     .label = רק בעת שימוש בהגנת מעקב
+do-not-track-option-default-content-blocking =
+    .label = רק כאשר { -brand-short-name } מוגדר לחסום רכיבי מעקב מזוהים
 do-not-track-option-always =
     .label = תמיד
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = הרחבה בשם <img data-l10n-name=
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = הרחבה בשם <img data-l10n-name="icon"/> { $name } שולטת בהגנת המעקב.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = הרחבה בשם <img data-l10n-name="icon"/> { $name } שולטת על הגדרה זו.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = הרחבה בשם <img data-l10n-name="icon"/> { $name } שולטת באופן החיבור של { -brand-short-name } לאינטרנט.
@@ -203,6 +208,9 @@ choose-button =
     .label = בחירה…
     .accesskey = ב
 choose-browser-language-description = נא לבחור את השפות בהן יעשה שימוש להציג תפריטים, הודעות והתרעות מ־{ -brand-short-name }
+manage-browser-languages-button =
+    .label = הגדרת חלופות…
+    .accesskey = ח
 confirm-browser-language-change-description = הפעלת { -brand-short-name } מחדש כדי להחיל את השינויים האלה
 confirm-browser-language-change-button = החלה והפעלה מחדש
 translate-web-pages =
@@ -251,8 +259,8 @@ applications-action-column =
     .accesskey = פ
 drm-content-header = תוכן ניהול זכויות דיגיטלי (DRM)
 play-drm-content =
-    .label = לנגן תוכן מוגן DRM
-    .accesskey = נ
+    .label = הפעלת תוכן מוגן DRM
+    .accesskey = ה
 play-drm-content-learn-more = מידע נוסף
 update-application-title = עדכוני { -brand-short-name }
 update-application-description = כדאי להשאיר את { -brand-short-name } עדכני לטובת ביצועים, יציבות ואבטחה ברמה הטובה ביותר.
@@ -310,7 +318,7 @@ browsing-use-onscreen-keyboard =
     .label = הצגת מקלדת מגע בעת הצורך
     .accesskey = מ
 browsing-use-cursor-navigation =
-    .label = השתמש תמיד במקשי הסמן לניווט בתוך דפים
+    .label = תמיד להשתמש במקשי הסמן לניווט בתוך דפים
     .accesskey = ס
 browsing-search-on-start-typing =
     .label = חיפוש מלל עם תחילת הקלדה
@@ -319,6 +327,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = מתווך רשת
+network-settings-title = הגדרות רשת
 network-proxy-connection-description = הגדרת אופן החיבור של { -brand-short-name } לאינטרנט.
 network-proxy-connection-learn-more = מידע נוסף
 network-proxy-connection-settings =
@@ -557,9 +566,6 @@ history-dontremember-description = { -brand-short-name } ישתמש באותן �
 history-private-browsing-permanent =
     .label = שימוש תמידי במצב גלישה פרטית
     .accesskey = ה
-history-remember-option =
-    .label = שמירת היסטורית גלישה והורדות
-    .accesskey = ג
 history-remember-browser-option =
     .label = שמירת היסטורית גלישה והורדות
     .accesskey = ש
@@ -605,6 +611,26 @@ sitedata-accept-third-party-visited-option =
     .label = מאתרים בהם ביקרנו בעבר
 sitedata-accept-third-party-never-option =
     .label = לעולם לא
+sitedata-allow-cookies-option =
+    .label = קבלת עוגיות ונתוני אתרים
+    .accesskey = ק
+sitedata-disallow-cookies-option =
+    .label = חסימת עוגיות ונתוני אתרים
+    .accesskey = ח
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = סוג שנחסם
+    .accesskey = ס
+sitedata-block-trackers-option-recommended =
+    .label = רכיבי מעקב צד־שלישי (מומלץ)
+sitedata-block-trackers-option =
+    .label = רכיבי מעקב צד־שלישי
+sitedata-block-unvisited-option =
+    .label = עוגיות מאתרים שלא ביקרת בהם
+sitedata-block-all-third-party-option =
+    .label = כל העוגיות צד־שלישי (עשוי לשבש פעילות של חלק מהאתרים)
+sitedata-block-all-option =
+    .label = כל העוגיות (ישבש פעילות של אתרים)
 sitedata-clear =
     .label = ניקוי נתונים…
     .accesskey = נ
@@ -614,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = חריגות…
     .accesskey = ח
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = הגדרות חסימת התוכן שלך מונעים שינויים להגדרות העוגיות ונתוני האתרים.
 
 ## Privacy Section - Address Bar
 
@@ -632,6 +662,60 @@ addressbar-suggestions-settings = שינוי העדפות של הצעות מנו
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = חסימת תוכן
+content-blocking-desc = חסימת תוכן צד־שלישי כגון פרסומות או קוד שעשויים להאט את הגלישה שלך ולעקוב אחריך ברחבי הרשת. ניתן להתאים את ההגדרות שלך לקבלת האיזון הטוב ביותר בין אבטחה לביצועים.
+content-blocking-learn-more = מידע נוסף
+content-blocking-restore-defaults =
+    .label = שחזור ברירות מחדל
+    .accesskey = ש
+content-blocking-toggle-on =
+    .tooltiptext = כיבוי חסימת תוכן
+content-blocking-toggle-off =
+    .tooltiptext = הפעלת חסימת תוכן
+content-blocking-toggle-label-on = פעיל
+    .accesskey = פ
+content-blocking-toggle-label-off = כבוי
+    .accesskey = כ
+content-blocking-category-label = נא לבחור מה לחסום
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = רכיבי מעקב שנטענים לאט
+    .accesskey = א
+content-blocking-fastblock-new-description = חסימת רק רכיבי המעקב שמונעים טעינה מהירה של דפים.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = כל רכיבי המעקב המזוהים
+    .accesskey = כ
+content-blocking-tracking-protection-new-description = חסימת כל העוקבים המוכרים. (עשוי למנוע מחלק מהעמודים להיטען.)
+content-blocking-tracking-protection-option-always =
+    .label = תמיד
+    .accesskey = ת
+content-blocking-tracking-protection-option-private =
+    .label = רק בחלונות פרטיים
+    .accesskey = ח
+content-blocking-tracking-protection-change-block-list = שינוי רשימת חסימות
+content-blocking-third-party-cookies-label =
+    .label = עוגיות צד־שלישי
+    .accesskey = צ
+content-blocking-reject-trackers-description = חסימת כל העוגיות צד־שלישי או רק אלו שהוגדרו על־ידי רכיבי מעקב.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = ההגדרות שלך בעוגיות ונתוני אתרים מונעות ביצוע שינויים להגדרות עוגיות צד־שלישי.
+content-blocking-change-cookie-settings =
+    .label = שינוי הגדרות עוגיות
+    .accesskey = ש
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = רכיבי מעקב (מומלץ)
+    .accesskey = ר
+content-blocking-reject-trackers-block-trackers-option =
+    .label = רכיבי מעקב
+    .accesskey = ר
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = כל העוגיות צד־שלישי (עשוי לשבש פעילות של חלק מהאתרים)
+    .accesskey = כ
 
 ## Privacy Section - Tracking
 
@@ -694,6 +778,7 @@ autoplay-option-allow =
     .label = לאפשר ניגון אוטומטי
 autoplay-option-dont =
     .label = לא לנגן אוטומטית
+permissions-autoplay-link = מידע נוסף
 permissions-block-popups =
     .label = חסימת חלונות קופצים
     .accesskey = ח
