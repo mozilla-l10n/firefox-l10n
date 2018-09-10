@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Напред">
 
 <!ENTITY firstrun_tabqueue_title "Препратки">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Включване на опашката от раздели">
-<!ENTITY firstrun_tabqueue_subtext_off "Препратките, които отваряте от други приложения се запазват за по-късно във &brandShortName;.">
-
-<!ENTITY firstrun_tabqueue_message_on "Успяхме!">
-<!ENTITY firstrun_tabqueue_subtext_on "Винаги може да го изключите в &settings; под &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Статии">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "Рестартиране на &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Търсене или въвеждане на адрес">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Възстановяване на раздели, икономия на данни, разработчици">
 <!ENTITY pref_category_notifications "Известия">
-<!ENTITY pref_category_notifications_summary "Нови възможности, обновяване на страницата">
 <!ENTITY pref_category_notifications_summary2 "Новости и съвети за продукта">
 <!ENTITY pref_developer_remotedebugging_usb "Отдалечено отстраняване на дефекти през USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Отдалечено отстраняване на дефекти през Wi-Fi">
@@ -911,3 +903,7 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "Услуга за местоположение от &vendorShortName;">
 <!ENTITY download_notification_channel "Изтегляния">
 <!ENTITY media_notification_channel "Възпроизвеждане на медия">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "Отдалечени известия на &brandShortName;">
+<!ENTITY updater_notification_channel "Обновления на приложението">
+<!ENTITY synced_tabs_notification_channel "Синхронизирани раздели">
