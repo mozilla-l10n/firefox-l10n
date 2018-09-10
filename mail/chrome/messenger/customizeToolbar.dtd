@@ -13,6 +13,6 @@
 <!ENTITY useSmallIcons.label      "Simbols pitschens">
 <!ENTITY restoreDefaultSet.label  "Restaurar il standard">
 <!ENTITY addNewToolbar.label      "Nova trav d'utensils">
-<!ENTITY showTitltbar.label       "Mussar la trav dal titel">
+<!ENTITY showTitlebar.label       "Mussar la trav dal titel">
 <!ENTITY saveChanges.label        "Finì">
 <!ENTITY undoChanges.label        "Annullar las midadas">
