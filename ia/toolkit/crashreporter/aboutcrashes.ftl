@@ -4,6 +4,7 @@
 
 crash-reports-title = Reportos de collapso
 clear-all-reports-label = Remover tote le reportos
+delete-button-label = Clarar toto
 delete-confirm-title = Es tu secur?
 delete-confirm-description = Isto delera tote le reportos e essera irreversibile.
 crashes-unsubmitted-label = Reportos de collapso non submittite
