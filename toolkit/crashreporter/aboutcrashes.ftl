@@ -11,5 +11,6 @@ id-heading = Rapport-ID
 date-crashed-heading = Datum för krasch
 crashes-submitted-label = Inskickade kraschrapporter
 date-submitted-heading = Datum
+view-crash-button-label = Visa
 no-reports-label = Inga kraschrapporter har skickats in.
 no-config-label = Det här programmet är inte konfigurerat att visa kraschrapporter. Inställningen <code>breakpad.reportURL</code> måste anges.
