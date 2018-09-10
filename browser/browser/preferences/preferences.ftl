@@ -622,10 +622,6 @@ sitedata-block-trackers-option =
     .label = Трэкеры трэцяга боку
 sitedata-block-unvisited-option =
     .label = Кукі з ненаведаных сайтаў
-sitedata-block-all-third-parties-option =
-    .label = Усе кукі трэцяга боку
-sitedata-block-always-option =
-    .label = Усе кукі (можа парушыць працу вэб-сайтаў)
 sitedata-clear =
     .label = Выдаліць дадзеныя…
     .accesskey = ы
@@ -668,26 +664,19 @@ content-blocking-toggle-label-on = Укл.
 content-blocking-toggle-label-off = Выкл.
     .accesskey = В
 content-blocking-category-label = Выберыце, што блакаваць
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Марудныя элементы сачэння
-    .accesskey = ы
-content-blocking-fastblock-description = Блакаваць пабочнае змесціва, загрузка якога цягнецца больш за 5 секунд.
-content-blocking-fastblock-option-enabled =
-    .label = Заўсёды блакаваць
-content-blocking-fastblock-option-disabled =
-    .label = Ніколі не блакаваць
-content-blocking-tracking-protection-label = Трэкеры
-    .accesskey = Т
-content-blocking-tracking-protection-description = Блакаваць усе вядомыя трэкеры. (Заўвага: можа заблакаваць загрузку некаторых старонак).
-content-blocking-tracking-protection-option-enabled =
-    .label = Заўсёды блакаваць
-content-blocking-tracking-protection-option-pbm =
-    .label = Блакаваць толькі ў прыватных вокнах
-content-blocking-tracking-protection-option-disabled =
-    .label = Ніколі не блакаваць
-content-blocking-tracking-protection-change-blocklist = Змяніць спіс блакавання…
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Усе выяўленыя трэкеры
+    .accesskey = е
+content-blocking-tracking-protection-option-always =
+    .label = Заўсёды
+    .accesskey = З
+content-blocking-tracking-protection-option-private =
+    .label = Толькі ў прыватных вокнах
+    .accesskey = ў
+content-blocking-tracking-protection-change-block-list = Змяніць спіс блакавання
+content-blocking-third-party-cookies-label =
+    .label = Кукі трэцяга боку
+    .accesskey = К
 
 ## Privacy Section - Tracking
 
