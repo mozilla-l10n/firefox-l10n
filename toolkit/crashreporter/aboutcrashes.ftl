@@ -4,6 +4,7 @@
 
 crash-reports-title = 충돌 보고서
 clear-all-reports-label = 보고서 모두 삭제
+delete-button-label = 모두 삭제
 delete-confirm-title = 계속 하시겠습니까?
 delete-confirm-description = 모든 보고서를 삭제하고 복구할 수 없습니다.
 crashes-unsubmitted-label = 보내지 않은 충돌 보고서

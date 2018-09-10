@@ -447,6 +447,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "부가 기능 관리">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 
+<!ENTITY customizeMenu.removeExtension.label "부가기능 제거">
+<!ENTITY customizeMenu.removeExtension.accesskey "v">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -1110,6 +1113,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "확장 프로그램 관리…">
 
 <!ENTITY pageAction.sendTabToDevice.label "기기로 탭 보내기">
+
 <!ENTITY sendToDevice.syncNotReady.label "기기를 동기화하고 있습니다…">
 
 <!ENTITY pageAction.shareUrl.label "공유">
