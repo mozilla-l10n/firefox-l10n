@@ -24,3 +24,5 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
+blocklist-item-moz-std-name = ການປົກປ້ອງແບບພື້ນຖານຂອງ Disconnect.me(ແນະນຳ)
+blocklist-item-moz-full-name = ການປົກປ້ອງແບບເຂັ້ມງວດຂອງ Disconnect.me
