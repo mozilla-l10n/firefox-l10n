@@ -13,6 +13,6 @@
 <!ENTITY useSmallIcons.label      "Uporabi majhne ikone">
 <!ENTITY restoreDefaultSet.label  "Obnovi privzeti nabor">
 <!ENTITY addNewToolbar.label      "Dodaj novo orodno vrstico">
-<!ENTITY showTitltbar.label       "Prikaži naslovno vrstico">
+<!ENTITY showTitlebar.label       "Prikaži naslovno vrstico">
 <!ENTITY saveChanges.label        "Končaj">
 <!ENTITY undoChanges.label        "Razveljavi spremembe">
