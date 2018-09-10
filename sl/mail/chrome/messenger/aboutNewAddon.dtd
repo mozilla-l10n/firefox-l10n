@@ -3,3 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY title           "Namesti dodatek">
+<!ENTITY warning         "Namestite samo dodatke, katerih avtorjem zaupate.">
+<!ENTITY allow           "Dovoli namestitev">
+<!ENTITY continue        "Nadaljuj">
+<!ENTITY restartMessage  "Za dokončanje namestitve dodatka morate ponovno zagnati &brandShortName;.">
+<!ENTITY restartButton   "Ponovno zaženi &brandShortName;">
+<!ENTITY cancelButton    "Prekliči">
