@@ -197,14 +197,22 @@
 <!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "d">
 <!ENTITY calendar.context.attendance.occ.inprogress.label       "În desfășurare">
 <!ENTITY calendar.context.attendance.occ.completed.accesskey    "t">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Îndeplinită">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
 <!ENTITY calendar.context.attendance.all.accepted.label         "Acceptate">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "p">
 <!ENTITY calendar.context.attendance.all.tentative.label        "Acceptate provizoriu">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "f">
 <!ENTITY calendar.context.attendance.all.declined.label         "Refuzate">
 <!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
 <!ENTITY calendar.context.attendance.all.delegated.label        "Delegate">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "c">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "Încă necesită acțiune">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "u">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "În desfășurare">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "i">
+<!ENTITY calendar.context.attendance.all.completed.label        "Îndeplinite">
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progres">
