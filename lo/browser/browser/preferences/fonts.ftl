@@ -139,6 +139,7 @@ fonts-languages-fallback-name-vietnamese =
 fonts-languages-fallback-name-other =
     .label = ອື່ນໆ (ລວມທັງເອີລົບຕາເວັນຕົກ)
 fonts-very-large-warning-title = ຂະຫນາດແບບຕົວຫນັງສືຕ່ຳສຸດທີ່ໃຫຍ່
+fonts-very-large-warning-message = ທ່ານໄດ້ເລືອກຂະຫນາດຕ່ຳສຸດທີ່ຂະຫນາດນ້ອຍທີ່ສຸດ (ຫຼາຍກວ່າ 24 pixels). ນີ້ອາດເຮັດໃຫ້ມັນຍາ ກຫລື ເປັນໄປບໍ່ໄດ້ທີ່ຈະນໍາໃຊ້ຫນ້າຕັ້ງຄ່າທີ່ສໍາຄັນຕ່າງໆເຊັ່ນນີ້.
 fonts-very-large-warning-accept = ເກັບການປ່ຽນແປງຂອງຂ້ອຍຕໍ່ໄປ
 # Variables:
 #   $name {string, "Arial"} - Name of the default font

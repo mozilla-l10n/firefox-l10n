@@ -7,6 +7,8 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "ຂໍອະໄພ ເຮົາມີປັນຫາໃນການນຳຫນ້າຕ່າງໆ ຂອງທ່ານກັບມາ">
+<!ENTITY restorepage.problemDesc2   "ພວກເຮົາມີບັນຫາໃນການກູ້ຄືນເຊສຊັນການທ່ອງເວັບໄຊລ້າສຸດຂອງທ່ານ. ເລືອກ ກູ້ຄືນເຊສຊັນ ເພື່ອລອງອີກຄັ້ງ.">
+<!ENTITY restorepage.tryThis2       "ຍັງຄົງບໍ່ສາມາດກູ້ຄືນເຊສຊັນຂອງທ່ານໄດ້ບໍ່? ໃນບາງຄັ້ງ ອາດມີແທັບທີ່ເຮັດໃຫ້ເກີດບັນຫາ. ເບິ່ງແທັບກ່ອນນີ້, ລໍ່ໝາຍຖືກອອກຈາກແທັບທີ່ທ່ານບໍ່ຕ້ອງການກູ້ຄືນ, ແລ້ວເຮັດການກູ້ຄືນໃໝ່ອີກຄັ້ງ.">
 
 <!ENTITY restorepage.hideTabs       "ເຊື່ອງແທັບກ່ອນຫນ້າ">
 <!ENTITY restorepage.showTabs       "ເບິ່ງແທັບກ່ອນຫນ້າ">
