@@ -51,9 +51,14 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/> 'ngà <a id='error_desc_link'>ga'anj nuguan' si sitio ata yi'ìi huin ma</a>. Ga'ue<a id='report_detection'>ganata't daj hua ma</a>.">
 
+<!ENTITY safeb.blocked.phishingPage.learnMore "Gahuin chrūn doj rayi'ì nej sitio ata yi'ìi ni phishing riña <a id='learn_more_link'>www.antiphishing.org</a>. Gahuin chrūn doj daj dugumit si aga't riña yi'ìi nī phishing dugune' &brandShortName; riña <a id='firefox_support'>support.mozilla.org</a>.">
 
 
+<!ENTITY safeb.blocked.harmfulPage.title "Ga’ue si nikāj sitiô nan yi’ìi">
+<!ENTITY safeb.blocked.harmfulPage.shortDesc2 "&brandShortName; garán ma dadin' ma nej sa ga'ue ga'ui' yi'ì riña si aga't nej si ga'ue gi'iaj tu ma nej sa nu sa' 'iât (daj ru' ña du'uat, da'ngà' huìi nej da'nga' nu sa'anj 'iât).">
 
 <!-- Localization note (safeb.blocked.harmfulPage.errorDesc.override, safeb.blocked.harmfulPage.errorDesc.noOverride, safeb.blocked.harmfulPage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.override "<span id='harmful_sitename'/> 'ngà <a id='error_desc_link'>ga'anj nugua'an si ûta nukuaj hua yi'ì nikaj ma</a>. Ga'ue <a id='ignore_warning_link'>si yakaj guendat</a> ni ga'anjt riña sitio na.">
 
+<!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> 'ngà <a id='error_desc_link'>ga'anj nugua'an si ûta nukuaj hua yi'ì nikaj ma</a>.">
 
