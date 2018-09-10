@@ -5,6 +5,9 @@
 languages-window =
     .title = שפות
     .style = width: 30em
+webpage-languages-window =
+    .title = הגדרות שפת עמוד אינטרנט
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = דפים מסויימים לעתים מוצעים ביותר משפה אחת. נא לציין כאן שפות להצגה לפי סדר חשיבות
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = הגדרות שפה של { -brand-short-name }
+    .style = width: 40em
