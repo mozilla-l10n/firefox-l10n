@@ -7,7 +7,7 @@
 <!ENTITY undoCmd.label             "בטל">
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "ל">
-<!ENTITY redoCmd.label             "בצע שוב">
+<!ENTITY redoCmd.label             "ביצוע שוב">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "צ">
 <!ENTITY cutCmd.label              "גזירה">
