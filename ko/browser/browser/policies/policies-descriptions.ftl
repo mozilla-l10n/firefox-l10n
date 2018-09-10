@@ -36,16 +36,23 @@ policy-DisableProfileImport = 메뉴에서 다른 브라우저의 데이터를 �
 policy-DisableProfileRefresh = about:support 페이지의 { -brand-short-name } 새로설정 버튼을 비활성화 합니다.
 policy-DisableSafeMode = 안전 모드로 재시작하는 기능을 비활성화 합니다. 참고: 그룹 정책을 사용해서 쉬프트키를 눌러서 안전 모드로 들어가는 방법을 비활성화 하는 것은 윈도우에서만 가능합니다.
 policy-DisableSecurityBypass = 사용자가 특정 보안 경고를 무시할 수 없게 합니다.
-policy-DisableSetDesktopBackground = 바탕화면 배경을 이미지 설정 메뉴 명령을 비활성화 합니다.
+policy-DisableSetDesktopBackground = 이미지를 바탕화면 배경으로 설정하는 메뉴 명령을 비활성화 합니다.
+policy-DisableSetAsDesktopBackground = 데스크톱 배경을 이미지로 설정하는 메뉴 명령을 비활성화 합니다.
 policy-DisableSystemAddonUpdate = 브라우저가 시스템 부가 기능을 설치하고 업데이트 하지 못하게 합니다.
 policy-DisableTelemetry = 원격 측정을 끕니다.
 policy-DisplayBookmarksToolbar = 기본으로 북마크 도구 막대를 표시합니다.
 policy-DisplayMenuBar = 기본으로 메뉴 막대를 표시합니다.
 policy-DontCheckDefaultBrowser = 시작할 때 기본 브라우저 확인을 하지 않습니다.
+# “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = 콘텐츠 차단을 활성화 하거나 비활성화 하고 선택적으로 고정합니다.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = 확장기능을 설치하거나 제거, 잠급니다. 설치 옵션은 URL이나 경로를 파라메터로 받습니다. 설치 제거와 잠금 옵션은 확장기능의 ID를 받습니다.
 policy-FlashPlugin = 플래시 플러그인의 사용을 허용하거나 거부합니다.
 policy-HardwareAcceleration = False 값이면 하드웨어 가속 기능을 끕니다.
+# “lock” means that the user won’t be able to change this setting
 policy-Homepage = 홈페이지를 설정하고 선택적으로 잠급니다.
 policy-InstallAddonsPermission = 특정 웹사이트가 부가 기능을 설치할 수 있게 허용합니다.
 policy-NoDefaultBookmarks = { -brand-short-name } 기본 북마크 번들과 스마트 북마크(자주 방문, 최근 태그)가 생성되지 않게 합니다. 참고: 이 정책은 프로필을 처음으로 실행하기 전에만 효과적입니다.
@@ -58,4 +65,6 @@ policy-Proxy = 프록시 설정을 구성합니다.
 policy-SanitizeOnShutdown = 종료시 모든 네비게이션 데이타를 삭제합니다.
 policy-SearchBar = 검색 바의 기본 위치를 설정합니다. 사용자가 다시 재설정 할 수 있습니다.
 policy-SearchEngines = 검색 엔진 설정을 구성합니다. 이 정책은 확장 지원 버전(ESR)에서만 가능합니다.
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = 특정 웹사이트 방문을 차단합니다. 자세한 형식에 대해서는 문서를 참고하세요.
