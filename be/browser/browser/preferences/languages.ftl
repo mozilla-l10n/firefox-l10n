@@ -5,6 +5,9 @@
 languages-window =
     .title = Мовы
     .style = width: 30em
+webpage-languages-window =
+    .title = Налады мовы вэб-старонак
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Часам старонкі сеціва даступны на некалькіх мовах. Выберыце мовы для прагляду старонак сеціва, у парадку пераваг
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Налады мовы { -brand-short-name }
+    .style = width: 40em
