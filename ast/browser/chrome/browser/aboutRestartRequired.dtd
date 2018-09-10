@@ -1,0 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY restartRequired.title "Ríquese'l reaniciu">
+
+<!ENTITY restartRequired.header "Perdona, precisamos facer una cosina pa poder siguir.">
+<!ENTITY restartRequired.description "
+<p>Tamos acabante d'instalar un anovamientu en segundu planu. Primi Reaniciar &brandShortName; p'acabar d'aplicalu.</p>
+<p>Vamos restaurate les páxines, ventanes y llingüetes darréu pa qu'asina pueas volver rápido al trabayu.</p>
+">
+
+<!ENTITY restartButton.label "Reaniciar &brandShortName;">
