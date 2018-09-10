@@ -55,6 +55,7 @@
 <!ENTITY lineNumbers.label             "Arată numerele rândurilor">
 <!ENTITY lineNumbers.accesskey         "L">
 
+<!ENTITY wordWrap.label                "Rearanjează text">
 <!ENTITY wordWrap.accesskey            "W">
 
 <!ENTITY highlightTrailingSpace.accesskey "H">
