@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-HardwareAcceleration = જો ખોટા હોય, તો હાર્ડવેર એક્સિલરેશન બંધ કરો.
 policy-SanitizeOnShutdown = બંધ કરતી વખતે બધી શોધ માહિતી સાફ કરો.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
