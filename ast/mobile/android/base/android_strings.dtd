@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Siguiente">
 
 <!ENTITY firstrun_tabqueue_title "Enllaces">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Activar cola de llingüetes">
-<!ENTITY firstrun_tabqueue_subtext_off "Guarda enllaces pa más sero en &brandShortName; al calcar nellos dende otres aplicaciones.">
-
-<!ENTITY firstrun_tabqueue_message_on "¡Ésitu!">
-<!ENTITY firstrun_tabqueue_subtext_on "Siempres pues desactivar esto en &settings; so &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Artículos">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,6 +63,14 @@
 <!ENTITY  crash_restart_label "Reaniciar &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Guetar o introducir direición">
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Usa\&apos;l llector de QR pa guetar o introducir direiciones">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Usa\&apos;l micrófonu pa guetar o introducir direiciones">
 
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_remove "Desaniciar marcador">
@@ -206,7 +208,7 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Restaurar llingüetes, aforrador de datos, ferramientes de desendolcu">
 <!ENTITY pref_category_notifications "Avisos">
-<!ENTITY pref_category_notifications_summary "Carauterístiques nueves, anovamientos de sitios web">
+<!ENTITY pref_category_notifications_summary2 "Carauterístiques nueves, conseyos del productu">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota per USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota per Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "La depuración Wi-Fi rique que\&apos;l to preséu tenga instaláu una aplicación llectora de códigos QR.">
@@ -284,6 +286,7 @@
 
 <!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Coneyos del productu y carauterístiques">
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Deprendi más tocante a usar &brandShortName; y otros productos de &vendorShortName;">
@@ -361,6 +364,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Permitir auto-reproducción">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web puen auto-reproducir vídeos y otru conteníu">
+<!ENTITY pref_media_autoplay_allow "Permitir la reproducción automática">
+<!ENTITY pref_media_autoplay_block "Bloquiar la reproducción automática">
 <!ENTITY pref_zoom_force_enabled "Activar siempres el zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forcia la so anulación pa qu\&apos;asina pueas facer zoom en cualesquier páxina">
 <!ENTITY pref_voice_input "Entrada de voz">
@@ -436,6 +441,10 @@
 <!ENTITY datareporting_crashreporter_title_short "Informador de casques">
 <!ENTITY datareporting_wifi_title2 "Serviciu d\&apos;allugamientu de &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "¡Ayuda a &vendorShortName; a cartografiar el mundu! Comparti l\&apos;allugamientu aproximáu de Wi-Fi y GPS del to preséu p\&apos;ameyorar el nuesu serviciu de xeollocalización.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -880,3 +889,16 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Amestar a la pantalla d\&apos;aniciu">
 <!ENTITY pwa_continue_to_website "Siguir col sitiu web">
 <!ENTITY pwa_onboarding_sumo "Pues amestar de mou fácil esti sitiu web a la to pantalla d\&apos;aniciu pa tener accesu nel intre y un restolar rápido.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Reproducir">
+<!ENTITY pip_play_button_description "Sigue cola reproducción">
+<!ENTITY pip_pause_button_title "Posar">
+<!ENTITY pip_pause_button_description "Posa la reproducción">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY download_notification_channel "Descargues">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY synced_tabs_notification_channel "Llingüetes sincronizaes">
