@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Sequente">
 
 <!ENTITY firstrun_tabqueue_title "Ligamines">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Activar le fila de schedas">
-<!ENTITY firstrun_tabqueue_subtext_off "Salva ligamines pro depois in &brandShortName; quando los tocca in altere applicationes.">
-
-<!ENTITY firstrun_tabqueue_message_on "Successo!">
-<!ENTITY firstrun_tabqueue_subtext_on "Sempre tu pote inactivar isto in &settings; sub &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Articulos">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "Reinitiar &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Insere un adresse o face un recerca">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Restaurar schedas, magazinos de datos, instrumentos de developpator">
 <!ENTITY pref_category_notifications "Notificationes">
-<!ENTITY pref_category_notifications_summary "Nove functionalitates, actualisationes de sitos del web">
 <!ENTITY pref_category_notifications_summary2 "Nove functionalitates, consilios de producto">
 <!ENTITY pref_developer_remotedebugging_usb "Depuration remote via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuration remote via Wi-Fi">
@@ -910,3 +902,5 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "Servicio de localisation de &vendorShortName;">
 <!ENTITY download_notification_channel "Discargamentos">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY synced_tabs_notification_channel "Schedas synchronisate">
