@@ -622,10 +622,6 @@ sitedata-block-trackers-option =
     .label = Сторонні елементи стеження
 sitedata-block-unvisited-option =
     .label = Куки з невідвіданих веб-сайтів
-sitedata-block-all-third-parties-option =
-    .label = Всі сторонні куки
-sitedata-block-always-option =
-    .label = Всі куки (може пошкодити веб-сайти)
 sitedata-clear =
     .label = Стерти дані…
     .accesskey = С
@@ -668,26 +664,7 @@ content-blocking-toggle-label-on = УВІМК
 content-blocking-toggle-label-off = ВИМК
     .accesskey = И
 content-blocking-category-label = Оберіть елементи для блокування
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Повільні елементи стеження
-    .accesskey = П
-content-blocking-fastblock-description = Блокувати сторонній вміст, завантаження якого триває понад 5 секунд.
-content-blocking-fastblock-option-enabled =
-    .label = Завжди блокувати
-content-blocking-fastblock-option-disabled =
-    .label = Ніколи не блокувати
-content-blocking-tracking-protection-label = Стеження
-    .accesskey = С
-content-blocking-tracking-protection-description = Блокувати всі відомі елементи стеження (Примітка: може порушити завантаження деяких сторінок).
-content-blocking-tracking-protection-option-enabled =
-    .label = Завжди блокувати
-content-blocking-tracking-protection-option-pbm =
-    .label = Блокувати лише у приватних вікнах
-content-blocking-tracking-protection-option-disabled =
-    .label = Ніколи не блокувати
-content-blocking-tracking-protection-change-blocklist = Змінити список блокування…
+content-blocking-tracking-protection-change-block-list = Змінити список блокування
 
 ## Privacy Section - Tracking
 
