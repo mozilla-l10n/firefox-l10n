@@ -627,10 +627,6 @@ sitedata-block-trackers-option =
     .label = તૃતીય-પક્ષ ટ્રેકર્સ
 sitedata-block-unvisited-option =
     .label = મુલાકાત લીધેલી વેબસાઇટ્સ પરથી કૂકીઝ
-sitedata-block-all-third-parties-option =
-    .label = બધી તૃતીય-પક્ષ કૂકીઝ
-sitedata-block-always-option =
-    .label = બધી કૂકીઝ (વેબસાઇટ્સને બંધ કરવા કારણ બની શકે છે)
 sitedata-block-all-third-party-option =
     .label = બધી તૃતીય-પક્ષ કૂકીઝ (વેબસાઇટ્સને બંધ કરવા કારણ બની શકે છે)
 sitedata-block-all-option =
@@ -684,30 +680,12 @@ content-blocking-category-label = શું અવરોધ કરવું ત�
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = ધીમા ટ્રેકિંગ તત્વો
-    .accesskey = S
-content-blocking-fastblock-description = તૃતીય-પક્ષની સામગ્રીને અવરોધ કરે છે જે લોડ થવામાં 5 સેકંડથી વધુ સમય લે છે.
-content-blocking-fastblock-option-enabled =
-    .label = હંમેશા અવરોધિત કરો
-content-blocking-fastblock-option-disabled =
-    .label = ક્યારેય અવરોધિત કરશો નહીં
-content-blocking-tracking-protection-label = ટ્રેકર્સ
-    .accesskey = T
-content-blocking-tracking-protection-description = બધા જાણીતા ટ્રેકર્સને અવરોધ કરે છે
-content-blocking-tracking-protection-option-enabled =
-    .label = હંમેશા અવરોધિત કરો
-content-blocking-tracking-protection-option-pbm =
-    .label = ફક્ત ખાનગી વિંડોઝમાં અવરોધિત કરો
-content-blocking-tracking-protection-option-disabled =
-    .label = ક્યારેય અવરોધિત કરશો નહીં
-content-blocking-tracking-protection-change-blocklist = અવરોધ સૂચિ બદલો...
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = ધીમો-લોડિંગ ટ્રેકર
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = ધીરેથી લોડ થતાં ટ્રેકર્સ
     .accesskey = S
 content-blocking-fastblock-new-description = ફક્ત એજ ટ્રેકર્સને અવરોધિત કરો કે જે પાનાંને ઝડપથી ખોલવાથી અટકાવે છે.
-content-blocking-tracking-protection-all-label = બધા શોધાયેલા ટ્રેકર્સ
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = શોધી કાઢેલાં બધાં ટ્રેકર્સ
     .accesskey = T
 content-blocking-tracking-protection-new-description = તમામ જાણીતા ટ્રેકર્સને અવરોધિત કરો. (કેટલાક પાનાંને લોડ થવાથી અટકાવી શકે છે.)
 content-blocking-tracking-protection-option-always =
@@ -717,7 +695,8 @@ content-blocking-tracking-protection-option-private =
     .label = ફકત ખાનગી વિંડોઝમાં જ
     .accesskey = P
 content-blocking-tracking-protection-change-block-list = અવરોધ સૂચિ બદલો
-content-blocking-reject-trackers-label = તૃતીય-પક્ષ કૂકીઝ
+content-blocking-third-party-cookies-label =
+    .label = તૃતીય-પક્ષ કૂકીઝ
     .accesskey = C
 content-blocking-reject-trackers-description = તમામ તૃતીય-પક્ષની કૂકીઝને અથવા ફક્ત ટ્રેકર્સ દ્વારા સેટ કરેલ કૂકીઝને અવરોધિત કરો.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
