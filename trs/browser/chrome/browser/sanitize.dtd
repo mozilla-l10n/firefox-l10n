@@ -20,6 +20,10 @@
      See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "Diu da'uit dure't:">
 <!ENTITY clearTimeDuration.accesskey      "T">
+<!ENTITY clearTimeDuration.lastHour       "Sa' rukù ni'in">
+<!ENTITY clearTimeDuration.last2Hours     "Huij hora rukù ni'in">
+<!ENTITY clearTimeDuration.last4Hours     "Huij hora rukù ni'in">
+<!ENTITY clearTimeDuration.today          "Gui hiáj">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
