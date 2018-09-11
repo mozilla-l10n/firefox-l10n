@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Susunod">
 
 <!ENTITY firstrun_tabqueue_title "Mga Link">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Buksan ang Tab queue">
-<!ENTITY firstrun_tabqueue_subtext_off "I-save ang mga link para sa ibang pagkakataon sa &brandShortName; kapag pinindot ang mga ito sa iba pang apps.">
-
-<!ENTITY firstrun_tabqueue_message_on "Tagumpay!">
-<!ENTITY firstrun_tabqueue_subtext_on "Maaari mong palaging i-off ito sa &settings; sa ilalim ng &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Mga artikulo">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "Mag-restart &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Maghanap o ilagay ang address">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -172,7 +165,7 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Bookmark">
 <!ENTITY overlay_share_bookmark_btn_label_already "Naka-bookmarked na">
-<!ENTITY overlay_share_send_other "I-send sa iba pang mga aparato">
+<!ENTITY overlay_share_send_other "Ipadala sa iba pang mga device">
 
 <!ENTITY overlay_share_open_browser_btn_label "Buksan sa &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Ibalik ang mga tab, data saver, mga tool ng developer">
 <!ENTITY pref_category_notifications "Mga abiso">
-<!ENTITY pref_category_notifications_summary "Mga bagong tampok, mga update sa website">
 <!ENTITY pref_category_notifications_summary2 "Bagong features, product tips">
 <!ENTITY pref_developer_remotedebugging_usb "Remote debugging sa pamamagitan ng USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Remote debugging sa pamamagitan ng Wi-Fi">
@@ -372,6 +364,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Payagan ang autoplay">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrolin kung maaaring i-autoplay ng mga website ang mga video at iba pang nilalaman ng media">
+<!ENTITY pref_media_autoplay_allow "Payagan ang autoplay">
+<!ENTITY pref_media_autoplay_block "I-block ang autoplay">
 <!ENTITY pref_zoom_force_enabled "Laging paganahin ang pag-zoom">
 <!ENTITY pref_zoom_force_enabled_summary "I-override ang puwersa upang maaari kang mag-zoom sa anumang pahina">
 <!ENTITY pref_voice_input "Voice input">
@@ -903,3 +897,13 @@ Picture-in-picture mini window -->
 <!ENTITY pip_play_button_description "Ipagpatuloy">
 <!ENTITY pip_pause_button_title "i-Pause">
 <!ENTITY pip_pause_button_description "i-Pause">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; Serbisyo ng Lokasyon">
+<!ENTITY download_notification_channel "Mga pag-download">
+<!ENTITY media_notification_channel "Pag-playback ng media">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; Mga push notification">
+<!ENTITY updater_notification_channel "Mga update ng app">
+<!ENTITY synced_tabs_notification_channel "Mga naka-sync na tab">
