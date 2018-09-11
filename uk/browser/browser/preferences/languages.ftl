@@ -44,3 +44,4 @@ languages-active-code-format =
 browser-languages-window =
     .title = Налаштування мови { -brand-short-name }
     .style = width: 40em
+browser-languages-description = { -brand-short-name } типово буде відображати сторінки першою мовою зі списку, а інші мови у вказаному порядку, при необхідності.
