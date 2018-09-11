@@ -62,3 +62,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> 'ngà <a id='error_desc_link'>ga'anj nugua'an si ûta nukuaj hua yi'ì nikaj ma</a>.">
 
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Gahuin chrūn doj da' dugumint Phishing ni nej yi'ìi &brandShortName; riña <a id='firefox_support'>support.mozilla.org</a>.">
