@@ -1,0 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY safeModeDialog.title         "Sa yitïnj in &brandShortName;">
+<!ENTITY window.maxWidth              "400">
+
+<!ENTITY startSafeMode.label          "Gayi'i' 'ngà Modo seguro">
+<!ENTITY refreshProfile.label         "Nagi'iaj nakà &brandShortName;">
+
+<!ENTITY safeModeDescription3.label   "Modo seguro huin 'ngò sa yitïnj si'iaj &brandShortName; ga'ue ruguñu'unj ma da' nagi'ìa sa gire'e.">
+<!ENTITY safeModeDescription4.label   "Si komplemento 'ngà nej sa nagi'iât ni ganikin' akan' ma si gi'iaj sunj.">
+
+<!ENTITY refreshProfileInstead.label  "Ga'ue si garajsun't sa nagi'iaj nej sa gire'e ni nagi'iât &brandShortName;.">
+
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; ganarán ma hiaj ayi'ij. Ga'ue si ga'ui yi'ì 'ngò komplemento nej a'ngoj sa yi'ìi. Nayi'ì 'ngà Modo Seguroda' nagi'iât ma.">

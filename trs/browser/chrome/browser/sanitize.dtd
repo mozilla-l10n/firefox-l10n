@@ -1,51 +1,34 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sanitizePrefs2.title          "Daj dure' riña gaché nu'">
 <!-- LOCALIZATION NOTE (sanitizePrefs2.modal.width): width of the Clear History on Shutdown dialog.
      Should be large enough to contain the item* strings on a single line.
      The column width should be set at half of the dialog width. -->
+<!ENTITY sanitizePrefs2.modal.width    "34em">
+<!ENTITY sanitizePrefs2.column.width   "17em">
 
-<!-- LOCALIZATION NOTE (sanitizePrefs2.inContent.dialog.width): width of the
-     Clear History on Shutdown subdialog in the in-content preferences.
-     Should be large enough to contain the item* strings on a single line.
-     The column width adjusts the width of the first column in the dialog.
-     You can set the column width to a value that makes the dialog look visually balanced,
-     or at half of the dialog width if unsure. -->
-
-
+<!ENTITY sanitizeDialog2.title         "Dure' riña gaché nu'">
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
+<!ENTITY sanitizeDialog2.width         "34em">
+
+<!ENTITY clearDataSettings4.label     "'Ngà ganaránt, &brandShortName; ni nare' ma'an ma">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
-
-
-
-
-
+<!ENTITY clearTimeDuration.label          "Diu da'uit dure't:">
+<!ENTITY clearTimeDuration.accesskey      "T">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 
-
 <!ENTITY historySection.label         "Daran sa gahuin">
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
