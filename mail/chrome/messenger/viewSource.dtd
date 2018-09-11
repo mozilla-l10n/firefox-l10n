@@ -43,6 +43,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey2 "">
 
 <!ENTITY goToLineCmd.label "Mergi la rândul…">
+<!ENTITY goToLineCmd.accesskey "l">
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "Vizualizare">
@@ -55,12 +56,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_highlightSyntax.label "Evidențierea sintaxei">
 <!ENTITY menu_highlightSyntax.accesskey "H">
 <!ENTITY menu_textSize.label "Mărimea textului">
+<!ENTITY menu_textSize.accesskey "T">
 <!ENTITY menu_textEnlarge.label "Mărire">
+<!ENTITY menu_textEnlarge.accesskey "M">
 <!ENTITY menu_textReduce.label "Scădere">
+<!ENTITY menu_textReduce.accesskey "d">
 <!ENTITY menu_textReset.label "Normală">
 <!ENTITY menu_textReset.accesskey "N">
 
 <!ENTITY findOnCmd.label     "Căutare în această pagină…">
+<!ENTITY findOnCmd.accesskey "C">
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Repetă căutarea">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
@@ -68,7 +74,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY backCmd.label "Înapoi">
+<!ENTITY backCmd.accesskey "o">
 <!ENTITY forwardCmd.label "Înainte">
+<!ENTITY forwardCmd.accesskey "t">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 

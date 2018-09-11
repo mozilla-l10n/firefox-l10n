@@ -32,6 +32,7 @@ sentence. -->
 <!ENTITY  buddyInfoOnly.label                 "cu numele expeditorului doar">
 <!ENTITY  dummyNotification.label             "fără nicio informație">
 <!ENTITY  getAttention.label                  "Pâlpâie elementul de pe bara de activități">
+<!ENTITY  getAttention.accesskey              "I">
 <!ENTITY  getAttentionMac.label               "Animează pictograma de andocare">
 <!ENTITY  getAttentionMac.accesskey           "o">
 <!ENTITY  chatSound.accesskey                 "d">
@@ -58,5 +59,6 @@ sentence. -->
 <!ENTITY messageStyleVariant.label         "Variantă:">
 <!ENTITY messageStyleVariant.accesskey     "V">
 <!ENTITY messageStyleShowHeader.label      "Arată antetul">
+<!ENTITY messageStyleShowHeader.accesskey  "a">
 <!ENTITY messageStyleNoPreview.title       "Previzualizarea nu este disponibilă">
 <!ENTITY messageStyleNoPreview.description "Această temă nu este validă sau nu este disponibilă momentan (supliment dezactivat, mod-de-siguranță, …).">

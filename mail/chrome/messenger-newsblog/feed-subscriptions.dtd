@@ -20,6 +20,7 @@
 
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Verificați existența articolelor noi la fiecare ">
+<!ENTITY biffStart.accesskey         "v">
 <!ENTITY biffMinutes.label           "minute">
 <!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "zile">

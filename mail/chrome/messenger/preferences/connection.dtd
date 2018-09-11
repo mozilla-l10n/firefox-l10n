@@ -46,6 +46,7 @@
 <!ENTITY  socksRemoteDNS.label          "Proxează DNS când se folosește SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Activează DNS prin HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "z">
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL pentru determinarea DNS prin HTTPS">
