@@ -5,6 +5,9 @@
 languages-window =
     .title = Мови
     .style = width: 38em
+webpage-languages-window =
+    .title = Налаштування мови веб-сторінок
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Деякі веб-сторінки можуть бути доступними більш ніж однією мовою. Оберіть мови, якими показувати такі сторінки, в порядку зручності
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Налаштування мови { -brand-short-name }
+    .style = width: 40em
