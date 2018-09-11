@@ -6,6 +6,8 @@ do-not-track-description = Передавати веб-сайтам сигнал
 do-not-track-learn-more = Докладніше
 do-not-track-option-default =
     .label = Лише при використанні захисту від стеження
+do-not-track-option-default-content-blocking =
+    .label = Лише якщо { -brand-short-name } налаштований блокувати виявлене стеження
 do-not-track-option-always =
     .label = Завжди
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = Для роботи розширенн
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Розширення <img data-l10n-name="icon"/> { $name } контролює захист від стеження.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Розширення <img data-l10n-name="icon"/> { $name } контролює ці налаштування.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Розширення <img data-l10n-name="icon"/> { $name } контролює спосіб з'єднання { -brand-short-name } з Інтернетом.
@@ -206,6 +211,9 @@ choose-button =
     .label = Вибрати…
     .accesskey = а
 choose-browser-language-description = Оберіть мови для відображення меню, повідомлень та сповіщень { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Встановити альтернативи…
+    .accesskey = л
 confirm-browser-language-change-description = Перезапуск { -brand-short-name } для застосування змін
 confirm-browser-language-change-button = Застосувати й перезапустити
 translate-web-pages =
@@ -622,6 +630,10 @@ sitedata-block-trackers-option =
     .label = Сторонні елементи стеження
 sitedata-block-unvisited-option =
     .label = Куки з невідвіданих веб-сайтів
+sitedata-block-all-third-party-option =
+    .label = Сторонні куки (може пошкодити роботу веб-сайтів)
+sitedata-block-all-option =
+    .label = Усі куки (буде пошкоджувати роботу веб-сайтів)
 sitedata-clear =
     .label = Стерти дані…
     .accesskey = С
@@ -631,6 +643,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Винятки…
     .accesskey = и
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Ваші налаштування блокування вмісту не дозволяють змінювати налаштування куків і даних сайтів.
 
 ## Privacy Section - Address Bar
 
@@ -664,7 +680,45 @@ content-blocking-toggle-label-on = УВІМК
 content-blocking-toggle-label-off = ВИМК
     .accesskey = И
 content-blocking-category-label = Оберіть елементи для блокування
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Стеження, що сповільнює завантаження
+    .accesskey = ю
+content-blocking-fastblock-new-description = Заблокувати лише елементи стеження, що сповільнюють завантаження сторінок.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Виявлене стеження
+    .accesskey = я
+content-blocking-tracking-protection-new-description = Блокувати всі відомі елементи стеження. (Деякі сторінки можуть бути пошкоджені.)
+content-blocking-tracking-protection-option-always =
+    .label = Завжди
+    .accesskey = З
+content-blocking-tracking-protection-option-private =
+    .label = Лише у приватних вікнах
+    .accesskey = п
 content-blocking-tracking-protection-change-block-list = Змінити список блокування
+content-blocking-third-party-cookies-label =
+    .label = Сторонні куки
+    .accesskey = к
+content-blocking-reject-trackers-description = Блокувати усі сторонні куки, або лише встановлені стеженням.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Ваші налаштування куків і даних сайтів не дозволяють змінювати налаштування сторонніх куків.
+content-blocking-change-cookie-settings =
+    .label = Змінити налаштування куків
+    .accesskey = м
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Стеження (рекомендовано)
+    .accesskey = ж
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Стеження
+    .accesskey = т
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Усі сторонні куки (може пошкодити роботу веб-сайтів)
+    .accesskey = У
 
 ## Privacy Section - Tracking
 
