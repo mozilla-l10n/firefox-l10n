@@ -40,8 +40,12 @@
      it should be upper case (as a proper name) if the target language permits.
   -->
 <!ENTITY pref.soondays2.label "Secțiunea următoare arată:">
+<!ENTITY pref.soondays2.accesskey "u">
 
 <!ENTITY pref.accessibility.label "Accesibilitate" >
 <!ENTITY pref.systemcolors.label "Optimizare culori pentru accesibilitate" >
 <!ENTITY pref.systemcolors.accesskey "O">
 
+<!ENTITY pref.eventsandtasks.label "Evenimente și sarcini" >
+<!ENTITY pref.editInTab.label "Editează evenimente și sarcini folosind o filă, nu o fereastră de dialog." >
+<!ENTITY pref.editInTab.accesskey "t">
