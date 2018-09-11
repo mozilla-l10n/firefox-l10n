@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY title           "Встановити додаток">
+<!ENTITY warning         "Встановлюйте додатки лише від авторів, яким ви довіряєте.">
 <!ENTITY allow           "Дозволити це встановлення">
 <!ENTITY continue        "Продовжити">
 <!ENTITY restartMessage  "Ви повинні перезапустити &brandShortName; для завершення встановлення цього додатку.">
 <!ENTITY restartButton   "Перезапустити &brandShortName;">
+<!ENTITY cancelButton    "Скасувати">

@@ -13,6 +13,6 @@
 <!ENTITY useSmallIcons.label      "Маленькі піктограми">
 <!ENTITY restoreDefaultSet.label  "Відновити типові">
 <!ENTITY addNewToolbar.label      "Додати нову панель">
-<!ENTITY showTitltbar.label       "Показати панель заголовка">
+<!ENTITY showTitlebar.label       "Показати панель заголовка">
 <!ENTITY saveChanges.label        "Готово">
 <!ENTITY undoChanges.label        "Скасувати зміни">

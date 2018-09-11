@@ -8,3 +8,7 @@ languages-customize-moveup =
 languages-customize-movedown =
     .label = Вниз
     .accesskey = з
+messenger-languages-window =
+    .title = Налаштування мови { -brand-short-name }
+    .style = width: 40em
+messenger-languages-description = { -brand-short-name } типово буде відображати сторінки першою мовою зі списку, а інші мови у вказаному порядку, при необхідності.
