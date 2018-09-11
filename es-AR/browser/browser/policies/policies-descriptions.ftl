@@ -22,7 +22,7 @@ policy-Cookies = Permitir o denegar que los sitios web establezcan cookies.
 policy-DisableAppUpdate = Impedir la actualización del navegador.
 policy-DisableBuiltinPDFViewer = Deshabilitar PDF.js, el visor de PDF integrado en { -brand-short-name }.
 policy-DisableDeveloperTools = Bloquear el acceso a las herramientas de desarrollador.
-policy-DisableFeedbackCommands = Deshabilitar comandos para enviar opiniones desde el menu de ayuda (Enviar opinión e Informar sitio engañoso).
+policy-DisableFeedbackCommands = Deshabilitar comandos para enviar opiniones desde el menú de Ayuda (Enviar opinión e Informar sitio engañoso).
 policy-DisableFirefoxAccounts = Deshabilitar servicios basados en { -fxaccount-brand-name }, incluyendo Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Deshabilitar la función de Firefox Screenshots.
