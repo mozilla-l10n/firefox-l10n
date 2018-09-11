@@ -24,6 +24,7 @@
 <!ENTITY clearTimeDuration.last2Hours     "Huij hora rukù ni'in">
 <!ENTITY clearTimeDuration.last4Hours     "Huij hora rukù ni'in">
 <!ENTITY clearTimeDuration.today          "Gui hiáj">
+<!ENTITY clearTimeDuration.everything     "Da'ua ngej">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
@@ -31,10 +32,28 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
+<!ENTITY detailsProgressiveDisclosure.label     "A'ngô nej sa nika">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
-<!ENTITY historySection.label         "Daran sa gahuin">
+<!ENTITY historySection.label         "Riña gaché nut">
+<!ENTITY dataSection.label            "Nej dato">
 
+<!ENTITY itemHistoryAndDownloads.label     "Riña gaché nu' ni nej sa naduni'">
+<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemFormSearchHistory.label       "Nej sa nana'ui' ni formulario">
+<!ENTITY itemFormSearchHistory.accesskey   "F">
+<!ENTITY itemCookies.label                 "Kookies">
+<!ENTITY itemCookies.accesskey             "C">
+<!ENTITY itemCache.label                   "Kache">
+<!ENTITY itemCache.accesskey               "A">
+<!ENTITY itemOfflineApps.label             "Nitaj konexion hua rinà sitio web">
+<!ENTITY itemOfflineApps.accesskey         "O">
+<!ENTITY itemActiveLogins.label            "Konexion hua">
+<!ENTITY itemActiveLogins.accesskey        "L">
+<!ENTITY itemSitePreferences.label         "Sitio preferensia">
+<!ENTITY itemSitePreferences.accesskey     "S">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
+<!ENTITY sanitizeEverythingUndoWarning     "Si ga'ue dure' sa 'ngà gahuin na.">
