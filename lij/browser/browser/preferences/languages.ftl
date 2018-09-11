@@ -38,3 +38,6 @@ languages-code-format =
     .label = { $locale } [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Inpostaçion lengoa de { -brand-short-name }
+    .style = width: 40em
