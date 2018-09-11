@@ -1010,7 +1010,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.unblockPrivate4.label "暫時關閉封鎖功能">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
-<!ENTITY trackingProtection.block5.label "暫時開啟內容封鎖功能">
+<!ENTITY trackingProtection.block5.label "針對此網站開啟內容封鎖功能">
 <!ENTITY trackingProtection.block5.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "重新載入網頁">
 <!ENTITY trackingProtection.reload2.accesskey "R">
