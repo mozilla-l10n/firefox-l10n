@@ -11,5 +11,6 @@ id-heading = ID do Report
 date-crashed-heading = Dæta do cianto
 crashes-submitted-label = Report di cianti mandæ
 date-submitted-heading = Dæta segnalaçion
+view-crash-button-label = Fanni vedde
 no-reports-label = Nisciun report mandou.
 no-config-label = Sta aplicaçion a no l'é stæta inpostâ pe fâ vedde i report di problemi. E preferense <code>breakpad.reportURL</code> son da inposta.
