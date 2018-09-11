@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "Ova mogućnost vas tiho prijavi na proxy ukoliko imate spremljene lozinke za njih. Biti ćete obaviješteni ukoliko prijava nije uspješna.">
 <!ENTITY  socksRemoteDNS.label          "Proxy DNS ukoliko se koristi SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  dnsOverHttps.label            "Omogući DNS preko HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "D">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL za rješavanje DNS preko HTTPS">
