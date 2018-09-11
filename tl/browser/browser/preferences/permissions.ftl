@@ -57,6 +57,10 @@ permissions-exceptions-tracking-protection-desc = Hindi mo pinagana ang Tracking
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Mga Exception - Cookies at Site Data
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Maaari mong tukuyin kung aling website ang lagi o hindi mo papahintulutang gumamit ng cookies at site data. I-type ang exact address ng site na gusto mong i-manage at i-click ang Block, Allow for Session, o Allow.
 
 ## Exceptions - Pop-ups
 
@@ -79,6 +83,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Pinapayagang mga Website - Autoplay
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -87,6 +97,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = Ang mga sumusunod na website ay humiling na magpadala sa iyo ng mga notification. Maaari mong tukuyin kung aling mga website ang pinapayagang magpadala sa iyo ng mga notification. Maaari mo ring i-block ang bagong mga kahilingang humihingi na payagan ang mga notification.
 permissions-site-notification-disable-label =
     .label = I-block ang mga bagong kahilingang humihingi na payagan ang mga notification
+permissions-site-notification-disable-desc = Pipigilan nito ang mga website na wala sa listahan na humingi ng permiso na magsend ng notifications. Ang pagblock ng notifications ay maaaring makasira sa ibang features ng website.
 
 ## Site Permissions - Location
 
@@ -96,17 +107,24 @@ permissions-site-location-window =
 permissions-site-location-desc = Ang mga sumusunod na website ay humiling na ma-access ang iyong lokasyon. Maaari mong tukuyin kung aling mga website ang pinapayagan na ma-access ang iyong lokasyon. Maaari mo ring i-block ang mga bagong kahilingang humihingi ng access sa iyong lokasyon.
 permissions-site-location-disable-label =
     .label = I-block ang mga bagong kahilingang humihingi ng access sa iyong lokasyon
+permissions-site-location-disable-desc = Ito ang pipigil sa mga website na wala sa listahan upang humingi ng permiso na i-access ang iyong location. Ang pagblock ng access sa iyong location ay maaaring makasira sa ibang features ng website.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = Mga Setting - Mga Pahintulot sa Camera
     .style = { permissions-window.style }
+permissions-site-camera-desc = Ang mga sumusunod na website ay humihingi ng pahintulot na i-access ang iyong camera.  Maaari mong tukuyin ang mga website na makakapag-access ng iyong camera o i-block ang mga ito.
 permissions-site-camera-disable-label =
     .label = I-block ang mga bagong kahilingan na humihiling na ma-access ang iyong camera
+permissions-site-camera-disable-desc = Ito ang pipigil sa mga website na wala sa listahan upang humingi ng permiso na i-access ang iyong camera. Ang pagblock ng access sa iyong camera ay maaaring makasira sa ibang features ng website.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Mga Setting - Mga Pahintulot sa Mikropono
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Ang mga sumusunod na website ay humihingi ng pahintulot na i-access ang iyong microphone.  Maaari mong tukuyin ang mga website na makakapag-access ng iyong microphone o i-block ang mga ito.
+permissions-site-microphone-disable-label =
+    .label = I-block ang mga humihingi ng pahintulot na i-access ang iyong microphone
+permissions-site-microphone-disable-desc = Pipigilan nito ang kahit na anong website na hindi kasama sa listahan sa paghingi ng permiso upang i-access ang iyong microphone. Ang pagblock ng access sa iyong microphone ay maaaring makasira sa ibang features ng website.

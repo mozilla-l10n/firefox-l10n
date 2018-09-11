@@ -75,9 +75,24 @@ restart-later = I-restart Mamaya
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Ang extension, <img data-l10n-name="icon"/>, ay kumokontrol sa iyong home page.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Ang extension, <img data-l10n-name="icon"/>, ay kumokontrol sa iyong Bagong Tab page.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Ang extension, <img data-l10n-name="icon"/> { $name }, ay sinet ang iyong default search engine.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Ang extension, <img data-l10n-name="icon"/> { $name }, ay nangangailangan ng mga Tab ng Lalagyan.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Ang extension, <img data-l10n-name="icon"/> { $name }, ay nagkokontrol sa tracking protection.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Ang extension, <img data-l10n-name="icon"/> { $name }, ay nagkokontrol kung pano nagcoconnect ang { -brand-short-name } sa internet.
 
 ## Preferences UI Search Results
 
@@ -88,6 +103,7 @@ search-results-empty-message =
         [windows] Paumanhin! Walang mga resulta sa Mga Pagpipilian para sa “<span data-l10n-name="query"></span>”.
        *[other] Paumanhin! Walang mga resulta sa Mga Kagustuhan para sa “<span data-l10n-name="query"></span>”.
     }
+search-results-help-link = Kailangan ng tulong? Bisitahin ang <a data-l10n-name="url"> Support </a>
 
 ## General Section
 
@@ -291,6 +307,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy ng Network
+network-proxy-connection-description = I-configure kung pano kumokonekta ang { -brand-short-name } sa internet.
 network-proxy-connection-learn-more = Matuto ng higit pa
 network-proxy-connection-settings =
     .label = Settings…
@@ -298,10 +315,23 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Bagong Durungawan at mga Tab
+home-new-windows-tabs-description2 = Pumili ng kung ano ang gustong makita kapag binubuksan ang iyong homepage, bagong windows, at bagong tabs.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Homepage at bagong windows
 home-newtabs-mode-label = Bagong mga tab
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox Home (Default)
+home-mode-choice-custom =
+    .label = Custom URLs...
+home-mode-choice-blank =
+    .label = Blank Page
+home-homepage-custom-url =
+    .placeholder = I-paste ang URL...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -332,6 +362,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ipakita ang mga suhestiyon sa paghahanap ng mga resulta sa address bar
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Ipakita ang search suggestions bago ang browsing history sa address bar results
 search-suggestions-cant-show = Ang mga mungkahi sa paghahanap ay hindi maipapakita ang mga resulta sa bar ng lokasyon dahil na-configure mo ang { -brand-short-name } Upang hindi matandaan ang kasaysayan.
 search-one-click-header = Isang-Click Search Engines
 search-one-click-desc = Piliin ang mga alternatibong search engine na lalabas sa ibaba ng address bar at search bar kapag nagsimula kang magpasok ng isang keyword.
@@ -463,13 +500,11 @@ history-remember-option-never =
     .label = Huwag kailanman tandaan ang kasaysayan
 history-remember-option-custom =
     .label = Gamitin ang custom settings para sa history
+history-remember-description = Ang { -brand-short-name } ay maaalala ang iyong browsing, form at search history.
 history-dontremember-description = Gagamit ng parehong settings ng private browsing ang { -brand-short-name }, at hindi nito tatandaan ang kasaysayan ng pag-browse ninyo ng Web.
 history-private-browsing-permanent =
     .label = Laging gumamit ng pribadong mode ng pagba-browse
     .accesskey = p
-history-remember-option =
-    .label = Tandaan ang aking history sa browsing at download
-    .accesskey = b
 history-remember-search-option =
     .label = Tandaan ang kasaysayan ng mga paghahanap at mga form
     .accesskey = f
@@ -482,9 +517,17 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies at Site Data
+sitedata-total-size-calculating = Kinakalkula ang site data at cache size...
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Ikaw ay nagstore ng cookies, site data at cache ay kasalukuyang gumagamit ng { $value } { $unit } ng disk space.
 sitedata-learn-more = Karagdagang kaalaman
 sitedata-keep-until = Panatilihin hanggang
     .accesskey = u
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } ay sarado
 sitedata-accept-third-party-always-option =
     .label = Palagi
 sitedata-accept-third-party-visited-option =
@@ -509,6 +552,9 @@ addressbar-locbar-openpage-option =
     .label = Buksan ang mga tab
     .accesskey = O
 addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga suhestiyon sa search engine
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
@@ -584,6 +630,9 @@ collection-health-report =
     .label = Payagan ang { -brand-short-name } na magpadala ng data ng teknikal at pakikipag-ugnayan sa { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Karagdagang kaalaman
+collection-studies =
+    .label = Payagan ang { -brand-short-name } na mag-install at mag-run ng studies
+collection-studies-link = I-view ang studies ng { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Hindi pinagana ang pag-uulat ng data para sa build configuration na ito

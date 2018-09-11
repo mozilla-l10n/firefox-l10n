@@ -6,13 +6,13 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Magbukas ng Pribadong Window">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-<!ENTITY privateBrowsing.title                           "Private Browsing">
+<!ENTITY privateBrowsing.title                           "Pribadong pagbrowse">
 <!ENTITY privateBrowsing.title.tracking                  "Private Browsing na may Tracking Protection">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Kapag ikaw ay nag-browse sa isang Private Window, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "huwag i-save">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "mga binisitang pahina">
-<!ENTITY aboutPrivateBrowsing.info.searches              "searches">
+<!ENTITY aboutPrivateBrowsing.info.searches              "mga paghahanap">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "mga temporary na file">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
@@ -30,3 +30,4 @@
 <!ENTITY trackingProtection.title                        "Tracking Protection">
 <!ENTITY trackingProtection.description2                 "Ang ibang website ay gumagamit ng trackers para masubaybayan ang iyong ginagawa sa Internet. Pag ginamit mo ang Tracking Potection mapipigilan ni Firefox ang maraming mga trackers na maaaring magipon ng impormasyon ukol sa iyong pagkabrowse">
 <!ENTITY trackingProtection.startTour1                   "Tignan kung paano gumagana">
+

@@ -5,6 +5,9 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = I-manage ang Cookies at Site Data
+site-data-settings-description = Ang mga sumusunod na website ay nag-iimbak ng cookies at site data sa iyong computer. Ang { -brand-short-name } ay nagpapanatili ng data galing sa mga website na may persistent storage hanggang sa burahin ito, at nagbubura ito ng data galing sa mga website na may non-persistent storage kapag nangangailangan ng space.
 site-data-search-textbox =
     .placeholder = Maghanap ng mga website
     .accesskey = S
@@ -39,8 +42,9 @@ site-data-remove-shown =
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Alisin
+site-data-removing-header = Nagtatanggal ng Cookies at Site Data
+site-data-removing-desc = Maaari kang ma-log out sa website kapag nagtanggal ka ng cookies at site data. Sigurado ka na bang gawin ang mga pagbabagong ito?
+site-data-removing-table = Ang cookies at site data sa mga sumusunod na website ay matatanggal
