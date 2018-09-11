@@ -45,3 +45,9 @@ policy-DisplayMenuBar = Mussar la trav da menu sco standard.
 policy-DontCheckDefaultBrowser = Deactivar la controlla dal navigatur da standard cun aviar.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activar u deactivar la bloccada da cuntegn e tut tenor basegn impedir la modificaziun da l'opziun.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Installar, deinstallar u bloccar extensiuns. L'opziun «Installar» pretenda URLs u percurs sco parameters. Las opziuns «Deinstallar» e «Bloccar» pretendan IDs dad extensiuns.
+policy-FlashPlugin = Permetter u scumandar l'utilisaziun dal plug-in Flash.
