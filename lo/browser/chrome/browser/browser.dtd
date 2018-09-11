@@ -222,10 +222,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "ເບິ່ງຂໍ້ມູນເວັບໄຊທ໌">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "ເປີດແຜງຂໍ້ຄວາມ">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "ເປີດແຜງການຮ້ອງຂໍຕຳແຫນ່ງທີ່ຕັ້ງ">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "ເປີດແຜງຂໍ້ຄວາມການຕິດຕັ້ງສ່ວນເສີມ">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ເປີດແຜງຂໍ້ຄວາມ0ທີ່ທີ່ເກັບຂໍ້ມູນແບບອັອບລາຍ">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "ເປີດແຜງຂໍ້ຄວາມບັນທືກລະຫັດຜ່ານ">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ຈັດການການໃຊ້ປັກອິນ">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "ຈັດເກັບຂໍ້ມູນໃນບ່ອນເກັບຂໍ້ມູນຖາວອນ">
 
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ເປີດແຜງຂໍ້ຄວາມການຕິດຕັ້ງ">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "ແປຫນ້ານີ້">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "ຈັດການການແປຫນ້ານີ້">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "ຈັດການການໃຊ້ຊັອບແວ DRM">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ສະແດງປະຫວັດການໃຊ້ງານ">
@@ -411,6 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "ຈັດການສ່ວນຂະຫຍາຍ">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -1009,6 +1019,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "ຈັດການສ່ວນຂະຫຍາຍ…">
 
 <!ENTITY pageAction.sendTabToDevice.label "ສົ່ງແທັບໄປຫາອຸປະກອນ">
+
 <!ENTITY sendToDevice.syncNotReady.label "ກຳລັງ Sync ອຸປະກອນ…">
 
 <!ENTITY pageAction.shareUrl.label "ແບ່ງປັນ">
