@@ -4,8 +4,10 @@
 
 crash-reports-title = ລາຍງານຂໍ້ຂັດຂ້ອງ
 clear-all-reports-label = ລຶບລາຍງານທັ້ງຫມົດ
+delete-button-label = ລຶບທັງໝົດ
 delete-confirm-title = ທ່ານແນ່ໃຈແລ້ວຫລືບໍ່?
 delete-confirm-description = ລາຍງານຈະຖືກລຶບອອກຫມົດ ແລະ ບໍ່ສາມາດຍົກເລີກໄດ້.
+delete-unsubmitted-description = ການດຳເນີນການນີ້ຈະລຶບລາຍງານຂໍ້ຂັດຂ້ອງທັງໝົດທີ່ບໍ່ໄດ້ຖືກສົ່ງອອກ  ແລະ ບໍ່ສາມາດຍົກເລີກໄດ້
 crashes-unsubmitted-label = ລາຍງານຂໍ້ຂັດຂ້ອງທີ່ຍັງບໍ່ທັນໄດ້ສົ່ງເທື່ອ
 id-heading = ID ຂອງລາຍງານ
 date-crashed-heading = ວັນທີ່ເກີດຂໍ້ຂັດຂ້ອງ
