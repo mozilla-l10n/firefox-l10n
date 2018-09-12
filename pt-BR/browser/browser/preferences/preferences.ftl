@@ -58,7 +58,7 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = O { -brand-short-name } deve ser reiniciado para habilitar esta funcionalidade.
+feature-enable-requires-restart = O { -brand-short-name } deve ser reiniciado para ativar esta funcionalidade.
 feature-disable-requires-restart = O { -brand-short-name } deve ser reiniciado para desativar esta funcionalidade.
 should-restart-title = Reiniciar o { -brand-short-name }
 should-restart-ok = Reiniciar o { -brand-short-name } agora
@@ -98,7 +98,7 @@ extension-controlled-proxy-config = Uma extensão, <img data-l10n-name="icon"/> 
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = Para habilitar esta extensão vá para <img data-l10n-name="addons-icon"/> Extensões no menu <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable = Para ativar esta extensão vá para <img data-l10n-name="addons-icon"/> Extensões no menu <img data-l10n-name="menu-icon"/>.
 
 ## Preferences UI Search Results
 
@@ -154,7 +154,7 @@ show-tabs-in-taskbar =
     .label = Mostrar a visualização das abas na barra de tarefas do Windows
     .accesskey = v
 browser-containers-enabled =
-    .label = Habilitar abas contêiner
+    .label = Ativar abas contêiner
     .accesskey = n
 browser-containers-learn-more = Saiba mais
 browser-containers-settings =
@@ -171,7 +171,7 @@ containers-disable-alert-ok-button =
         [one] Fechar { $tabCount } aba contêiner
        *[other] Fechar { $tabCount } abas contêiner
     }
-containers-disable-alert-cancel-button = Manter habilitado
+containers-disable-alert-cancel-button = Manter ativado
 containers-remove-alert-title = Remover este contêiner?
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
@@ -618,10 +618,6 @@ sitedata-block-trackers-option =
     .label = Rastreadores de terceiros
 sitedata-block-unvisited-option =
     .label = Cookies de sites não visitados
-sitedata-block-all-third-parties-option =
-    .label = Todos os cookies de terceiros
-sitedata-block-always-option =
-    .label = Todos os cookies (pode atrapalhar o funcionamento de sites)
 sitedata-clear =
     .label = Limpar dados…
     .accesskey = L
@@ -664,26 +660,6 @@ content-blocking-toggle-label-on = ATIVAR
 content-blocking-toggle-label-off = DESATIVAR
     .accesskey = D
 content-blocking-category-label = Escolher o que bloquear
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Elementos lentos de rastreio
-    .accesskey = s
-content-blocking-fastblock-description = Bloqueia conteúdo de terceiros que levam mais de 5 segundos para carregar.
-content-blocking-fastblock-option-enabled =
-    .label = Sempre bloquear
-content-blocking-fastblock-option-disabled =
-    .label = Nunca bloquear
-content-blocking-tracking-protection-label = Rastreadores
-    .accesskey = t
-content-blocking-tracking-protection-description = Bloqueia todos os rastreadores conhecidos (obs.: também pode impedir o carregamento de algumas páginas).
-content-blocking-tracking-protection-option-enabled =
-    .label = Sempre bloquear
-content-blocking-tracking-protection-option-pbm =
-    .label = Bloquear somente em janelas privativas
-content-blocking-tracking-protection-option-disabled =
-    .label = Nunca bloquear
-content-blocking-tracking-protection-change-blocklist = Mudar lista de bloqueio...
 
 ## Privacy Section - Tracking
 
