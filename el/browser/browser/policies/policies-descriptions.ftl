@@ -24,6 +24,7 @@ policy-DisableFirefoxScreenshots = Απενεργοποίηση λειτουργ
 policy-DisableFirefoxStudies = Αποτροπή εκτέλεσης μελετών του { -brand-short-name }.
 policy-DisableForgetButton = Αποτροπή πρόσβασης στο κουμπί "Διαγραφή".
 policy-DisableFormHistory = Χωρίς διατήρηση ιστορικού αναζήτησης και φορμών.
+policy-DisableMasterPasswordCreation = Αν αληθεύει, δεν μπορεί να δημιουργηθεί κύριος κωδικός πρόσβασης.
 policy-DisablePrivateBrowsing = Απενεργοποίηση ιδιωτικής περιήγησης.
 policy-DisableTelemetry = Απενεργοποίηση τηλεμετρίας.
 policy-Proxy = Προσαρμογή ρυθμίσεων μεσολάβησης.
