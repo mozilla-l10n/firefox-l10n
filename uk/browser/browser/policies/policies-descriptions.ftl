@@ -51,4 +51,15 @@ policy-HardwareAcceleration = Значення false вимикає апарат
 policy-Homepage = Встановити і за бажанням заблокувати домівку.
 policy-InstallAddonsPermission = Дозволити певним веб-сайтам встановлювати додатки.
 policy-NoDefaultBookmarks = Вимкнути створення типових закладок, пов'язаних з { -brand-short-name }, а також інтелектуальних закладок (Найбільш відвідувані, Останні мітки). Примітка: цю політику можливо застосувати лише при першому запуску профілю.
+policy-OfferToSaveLogins = Примусово пропонувати збереження паролів у налаштуваннях { -brand-short-name }. Працюють обидва значення true і false.
+policy-OverrideFirstRunPage = Замінити сторінку першого запуску. Для вимкнення цієї сторінки залиште значення для цього правила порожнім.
+policy-OverridePostUpdatePage = Замінити сторінку "Що нового" після оновлення. Для вимкнення цієї сторінки залиште значення для цього правила порожнім.
 policy-Permissions = Налаштувати дозволи для камери, мікрофона, розташування та сповіщень.
+policy-PopupBlocking = Дозволити певним веб-сайтам типово відображати виринаючі вікна.
+policy-Proxy = Налаштувати параметри проксі.
+policy-SanitizeOnShutdown = Стирати всі дані перегляду при завершенні роботи.
+policy-SearchBar = Встановити типове розташування панелі пошуку. Користувачу все одно дозволяється змінювати.
+policy-SearchEngines = Налаштувати засіб пошуку. Ця політика доступна лише у версії Extended Support Release (ESR).
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Блокувати відвідування веб-сайтів. Для отримання подробиць щодо формату, ознайомтеся з документацією.
