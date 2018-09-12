@@ -14,17 +14,11 @@ pref-page =
             [windows] Opciones
            *[other] Preferencies
         }
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
 pane-general-title = Xeneral
 category-general =
     .tooltiptext = { pane-general-title }
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Guetar
 category-search =
     .tooltiptext = { pane-search-title }
@@ -47,7 +41,28 @@ feature-enable-requires-restart = { -brand-short-name } tien de reaniciase p'act
 feature-disable-requires-restart = { -brand-short-name } tien de reaniciase pa desactivar esta carauterística.
 should-restart-title = Reaniciar { -brand-short-name }
 should-restart-ok = Reiniciar { -brand-short-name } agora
+cancel-no-restart-button = Encaboxar
 restart-later = Reaniciar dempués
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlado la páxina d'aniciu.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Una estensión, <img data-l10n-name="icon"/> { $name }, ta controlado la páxina de llingüeta nueva.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Una estensión, <img data-l10n-name="icon"/> { $name }, afitó'l motor predetermináu de gueta.
 
 ## Preferences UI Search Results
 
@@ -71,17 +86,8 @@ is-not-default = { -brand-short-name } nun ye'l to restolador web predetermináu
 set-as-my-default-browser =
     .label = Facelu predetermináu…
     .accesskey = D
-startup-page = Al aniciase { -brand-short-name }:
-    .accesskey = s
-startup-user-homepage =
-    .label = Amosar la to páxina d'aniciu
-startup-blank-page =
-    .label = Amosar una páxina balera
-startup-prev-session =
-    .label = Amosar les ventanes y llingüetes de la cabera sesión
 disable-extension =
     .label = Deshabilitar estensión
-home-page-header = Páxina d'aniciu
 tabs-group-header = Llingüetes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab circula pente les llingüetes nel orde según el so usu recién
@@ -180,7 +186,6 @@ drm-content-header = Conteníu con Digital Rights Management (DRM)
 play-drm-content-learn-more = Deprender más
 update-application-title = Anovamientos de { -brand-short-name }
 update-application-description = Caltén { -brand-short-name } anováu pa un meyor rindimientu, estabilidá y seguranza.
-update-application-info = Versión { $version } <a>Qué hai nuevo</a>
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Qué hai nuevo</a>
 update-history =
     .label = Amosar l'historial d'anovamientos…
@@ -224,15 +229,22 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy de rede
+network-settings-title = Axustes de rede
+network-proxy-connection-description = Configura cómo { -brand-short-name } se coneute a internet.
+network-proxy-connection-learn-more = Deprendi más
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = o
 
 ## Home Section
 
+home-new-windows-tabs-header = Ventanes y llingüetes nueves
+home-new-windows-tabs-description2 = Escueyi lo que ves cuando abres la páxina d'aniciu, ventanes y llingüetes nueves.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Páxina d'aniciu y ventanes nueves
+home-newtabs-mode-label = Llingüetes nueves
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -247,9 +259,6 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = m
-restore-default =
-    .label = Reafitar valores
-    .accesskey = R
 
 ## Search Section
 
@@ -382,9 +391,6 @@ history-dontremember-description = { -brand-short-name } usará los mesmos axust
 history-private-browsing-permanent =
     .label = Usar siempres el mou Restolar en privao
     .accesskey = p
-history-remember-option =
-    .label = Recordar el mio historial de descargues y navegación
-    .accesskey = o
 history-remember-search-option =
     .label = Recordar l'historial de formularios y guetes
     .accesskey = f
@@ -419,6 +425,9 @@ addressbar-locbar-openpage-option =
     .label = Abrir llingüetes
     .accesskey = A
 addressbar-suggestions-settings = Camudar preferencies pa les suxerencies de los motores de gueta
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
