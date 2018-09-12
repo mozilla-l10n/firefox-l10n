@@ -10,11 +10,13 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-Authentication = Destekleyen web siteleri için bütünleşik kimlik doğrulamasını yapılandır.
 policy-BlockAboutAddons = Eklenti yöneticisine (about:addons) erişimi engelle.
 policy-BlockAboutConfig = about:config sayfasına erişimi engelle.
 policy-BlockAboutProfiles = about:profiles sayfasına erişimi engelle.
 policy-BlockAboutSupport = about:support sayfasına erişimi engelle.
 policy-DisableAppUpdate = Tarayıcının güncellenmesini engelle.
+policy-DisableBuiltinPDFViewer = Dahili { -brand-short-name } PDF göstericisi olan PDF.js'i devre dışı bırak.
 policy-DisableDeveloperTools = Geliştirici araçlarına erişimi engelle.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox Screenshots özelliğini devre dışı bırak.
@@ -30,6 +32,7 @@ policy-FlashPlugin = Flash yan uygulama kullanımını engelle ya da kullanımı
 policy-Homepage = Giriş sayfasını ayarla ve isteğe bağlı olarak kilitle.
 policy-InstallAddonsPermission = Belirli websitelerinin eklenti yüklemesine izin ver.
 policy-Permissions = Kamera, mikrofon, konum ve bildirim izinlerini yapılandır.
+policy-PopupBlocking = Belirli web sitelerin varsayılan olarak açılır pencere açmasına izin ver.
 policy-Proxy = Vekil sunucu ayarlarını yapılandır.
 policy-SanitizeOnShutdown = Kapanırken tüm gezinti verilerini temizle.
 policy-SearchBar = Arama çubuğunun varsayılan konumunu ayarla. Kullanıcı daha sonra özelleştirebilir.
