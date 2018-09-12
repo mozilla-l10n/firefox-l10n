@@ -19,7 +19,7 @@ policy-BlockAboutSupport = Bloquer l’accès à la page about:support.
 policy-Bookmarks = Créer des marque-pages dans la Barre personnelle, le menu des marque-pages ou un de leurs sous-dossiers.
 policy-Certificates = Utiliser ou non des certificats intégrés. Cette politique est spécifique à Windows pour l’instant.
 policy-Cookies = Permettre ou interdire aux sites de définir des cookies.
-policy-DisableAppUpdate = Empêcher le navigateur se mettre à jour.
+policy-DisableAppUpdate = Empêcher le navigateur de se mettre à jour.
 policy-DisableBuiltinPDFViewer = Désactiver PDF.js, la visionneuse PDF intégrée dans { -brand-short-name }.
 policy-DisableDeveloperTools = Bloquer l’accès aux outils de développement.
 policy-DisableFeedbackCommands = Désactiver les commandes permettant d’envoyer des commentaires dans le menu d’aide (Donner votre avis et Signaler un site trompeur).
@@ -28,15 +28,15 @@ policy-DisableFirefoxAccounts = Désactiver les services basés sur { -fxaccount
 policy-DisableFirefoxScreenshots = Désactiver la fonctionnalité Firefox Screenshots.
 policy-DisableFirefoxStudies = Empêcher { -brand-short-name } d’exécuter des études.
 policy-DisableForgetButton = Empêcher l’accès au bouton d’effacement des données.
-policy-DisableFormHistory = Ne pas conserver d’historique des recherches et des formulaires
+policy-DisableFormHistory = Ne pas conserver d’historique des recherches et des formulaires.
 policy-DisableMasterPasswordCreation = Si activé, il sera impossible de créer un mot de passe principal.
 policy-DisablePocket = Désactive la fonctionnalité d’enregistrement de pages web dans Pocket.
 policy-DisablePrivateBrowsing = Désactive la navigation privée.
 policy-DisableProfileImport = Désactive la commande de menu permettant d’importer des données à partir d’un autre navigateur.
 policy-DisableProfileRefresh = Désactive le bouton Réparer { -brand-short-name } dans la page about:support.
 policy-DisableSafeMode = Désactive le redémarrage en mode sans échec. Note : sous Windows, le passage en mode sans échec via la touche Majuscule ne peut être désactivé qu’à l’aide d’une stratégie de groupe.
-policy-DisableSecurityBypass = Empêche l'utilisateur de contourner certains avertissements de sécurité.
-policy-DisableSetDesktopBackground = Désactive l'option Choisir l'image comme fond d'écran.
+policy-DisableSecurityBypass = Empêche l’utilisateur de contourner certains avertissements de sécurité.
+policy-DisableSetDesktopBackground = Désactive l’option Choisir l’image comme fond d’écran.
 policy-DisableSetAsDesktopBackground = Désactive la commande contextuelle Choisir l’image comme fond d’écran pour les images.
 policy-DisableSystemAddonUpdate = Empêche le navigateur d’installer et de mettre à jour des modules complémentaires.
 policy-DisableTelemetry = Désactiver la télémétrie
@@ -49,13 +49,14 @@ policy-EnableTrackingProtection = Active ou désactive le blocage de contenu et 
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
-policy-Extensions = Installe, désinstalle ou verrouille les extensions. L'option d’installation accepte des URL ou des chemins comme paramètres. Les options Désinstaller et Verrouiller utilisent les identifiants des extensions.
-policy-FlashPlugin = Autorise ou non l'utilisation du plugin Flash.
+policy-Extensions = Installe, désinstalle ou verrouille les extensions. L’option d’installation accepte des URL ou des chemins comme paramètres. Les options Désinstaller et Verrouiller utilisent les identifiants des extensions.
+policy-FlashPlugin = Autorise ou non l’utilisation du plugin Flash.
+policy-HardwareAcceleration = Si faux, désactive l’accélération matérielle.
 policy-InstallAddonsPermission = Autoriser certains sites web à installer des extensions.
-policy-NoDefaultBookmarks = Désactive la création des marque-pages par défaut fournis avec { -brand-short-name } ainsi que les marque-pages intelligents (sites les plus visités, sites récents). Note : cette politique ne fonctionne que si elle est activée avant le premier lancement du profil.
+policy-NoDefaultBookmarks = Désactive la création des marque-pages par défaut fournis avec { -brand-short-name } ainsi que les marque-pages intelligents (sites les plus visités, sites récents). Note : cette politique ne fonctionne que si elle est activée avant le premier lancement du profil.
 policy-Permissions = Configure les permissions pour la caméra, le microphone, la localisation et les notifications.
 policy-SearchBar = Définit l’emplacement par défaut de la barre de recherche. L’utilisateur garde la possibilité de la personnaliser.
-policy-SearchEngines = Configure les paramètres du moteur de recherche. Cette propriété n'est disponible que sur la version Extended Support Release (ESR)
+policy-SearchEngines = Configure les paramètres du moteur de recherche. Cette propriété n’est disponible que sur la version Extended Support Release (ESR).
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
-policy-WebsiteFilter = Bloque l'accès à des sites web. Voir la documentation pour plus de détails sur le format.
+policy-WebsiteFilter = Bloque l’accès à des sites web. Voir la documentation pour plus de détails sur le format.
