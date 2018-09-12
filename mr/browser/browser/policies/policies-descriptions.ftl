@@ -22,3 +22,4 @@ policy-DisableFormHistory = शोध व फॉर्म इतिहास स
 policy-DisablePocket = संकेतस्थळे Pocket मध्ये साठवणे निष्क्रिय करा.
 policy-DisablePrivateBrowsing = खाजगी ब्राऊझिंग निष्क्रिय करा.
 policy-DisableProfileRefresh = about:support पृष्ठातील { -brand-short-name } रिफ्रेश बटन निष्क्रिय करा.
+policy-DisableTelemetry = Telemetry बंद करा.
