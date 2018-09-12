@@ -60,6 +60,9 @@ permissions-exceptions-tracking-protection-desc = Deshabilitasti la proteición 
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Sitios web permitíos - Ventanos emerxentes
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = Pues especificar qué sitios web puen abrir ventanes emerxentes. Escribi la direición exauta del sitiu que quies permitir y calca Permitir.
 
 ## Exceptions - Saved Logins
@@ -67,6 +70,7 @@ permissions-exceptions-popup-desc = Pues especificar qué sitios web puen abrir 
 permissions-exceptions-saved-logins-window =
     .title = Esceiciones - Ingresos guardaos
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Nun van guardase los anicios de sesión pa los sitios web de darréu
 
 ## Exceptions - Add-ons
 

@@ -5,3 +5,6 @@
 about-policies-title = Polítiques d'empresa
 errors-tab = Fallos
 documentation-tab = Documentación
+policy-name = Nome de la política
+policy-value = Valor de la política
+policy-errors = Fallo de la política
