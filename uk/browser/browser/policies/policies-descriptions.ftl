@@ -38,4 +38,17 @@ policy-DisableTelemetry = Вимкнути телеметрію.
 policy-DisplayBookmarksToolbar = Завжди відображати панель закладок.
 policy-DisplayMenuBar = Завжди відображати панель меню.
 policy-DontCheckDefaultBrowser = Вимкнути перевірку типового браузера під час запуску.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Увімкнути або вимкнути блокування вмісту і заблокувати його за бажанням.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Встановлювати, видаляти чи блокувати розширення. Функція встановлення використовує в якості параметрів URL-адреси або шляхи. Функції видалення і блокування використовують ID.
+policy-FlashPlugin = Дозволити або заборонити використання плагіна Flash.
+policy-HardwareAcceleration = Значення false вимикає апаратне прискорення.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Встановити і за бажанням заблокувати домівку.
+policy-InstallAddonsPermission = Дозволити певним веб-сайтам встановлювати додатки.
+policy-NoDefaultBookmarks = Вимкнути створення типових закладок, пов'язаних з { -brand-short-name }, а також інтелектуальних закладок (Найбільш відвідувані, Останні мітки). Примітка: цю політику можливо застосувати лише при першому запуску профілю.
 policy-Permissions = Налаштувати дозволи для камери, мікрофона, розташування та сповіщень.
