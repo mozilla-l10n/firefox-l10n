@@ -41,3 +41,4 @@ languages-active-code-format =
 browser-languages-window =
     .title = { -brand-short-name } Cài đặt ngôn ngữ
     .style = width: 40em
+browser-languages-description = { -brand-short-name } sẽ hiển thị ngôn ngữ mà bạn đã chọn làm mặc định và sẽ hiển thị ngôn ngữ khác nếu cần thiết được sắp xếp theo thứ tự mà chúng xuất hiện.

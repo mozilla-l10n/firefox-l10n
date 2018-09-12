@@ -141,6 +141,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Trang bị chặn">
 
+<!ENTITY clockSkewError.title "Đồng hồ trên máy tính của bạn không đúng">
 
 <!ENTITY prefReset.longDesc "Dường như là cài đặt bảo mật mạng của bạn có thể gây ra điều này. Bạn có muốn khôi phục cài đặt mặc định?">
 <!ENTITY prefReset.label "Khôi phục cài đặt mặc định">
