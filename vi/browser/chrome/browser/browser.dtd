@@ -434,6 +434,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Quản lí tiện ích">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 
+<!ENTITY customizeMenu.removeExtension.accesskey "v">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -909,12 +911,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Tất cả các cửa sổ trên màn hình sẽ được chia sẻ.">
 
 
+<!ENTITY contentBlocking.disabled.label "Đã vô hiệu hóa">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Đã chặn">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -925,21 +929,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Đã chặn">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Cookie của bên thứ ba">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Đã chặn">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Báo cáo một lỗi">
+<!ENTITY contentBlocking.breakageReportView.label "Báo cáo lỗi">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Tìm hiểu thêm">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Những lỗi bạn đã gặp phải là gì? (Không bắt buộc)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Gửi báo cáo">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Hủy bỏ">
 
 <!ENTITY trackingProtection.title "Chống theo dõi">
 
@@ -949,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Vô hiệu hóa cho trang web này">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Vô hiệu hóa chặn cho trang này">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -958,6 +973,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block4.label "Kích hoạt cho trang này">
 <!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Kích hoạt Chặn cho trang này">
 <!ENTITY trackingProtection.block5.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "Tải lại trang">
 <!ENTITY trackingProtection.reload2.accesskey "R">
@@ -1037,11 +1053,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.keepButton.label "Giữ các thay đổi">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.disableButton.label "Vô hiệu hóa phần mở rộng">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "Một tiện ích mở rộng đã thay đổi trang chủ của bạn. Bạn có thể khôi phục lại cài đặt của mình nếu không muốn các thay đổi này.">
 <!ENTITY homepageControlled.header.message "Trang chủ của bạn đã thay đổi.">
 <!ENTITY homepageControlled.keepButton.label "Giữ các thay đổi">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "Vô hiệu hóa phần mở rộng">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Hành động trên trang">
 <!ENTITY pageAction.addToUrlbar.label "Thêm vào thanh địa chỉ">
@@ -1051,10 +1073,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Quản lý phần mở rộng…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Gửi thẻ tới thiết bị">
+
 <!ENTITY sendToDevice.syncNotReady.label "Đang đồng bộ các thiết bị…">
 
 <!ENTITY pageAction.shareUrl.label "Chia sẻ">
 
+<!ENTITY pageAction.shareMore.label "Thêm…">
 
 <!ENTITY libraryButton.tooltip "Xem lịch sử, lưu trang đánh dấu và nhiều hơn nữa">
 

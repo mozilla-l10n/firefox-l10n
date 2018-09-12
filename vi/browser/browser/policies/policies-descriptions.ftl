@@ -13,6 +13,7 @@
 policy-BlockAboutConfig = Chặn truy cập vào trang about:config.
 policy-BlockAboutProfiles = Chặn truy cập vào trang about:profiles.
 policy-BlockAboutSupport = Chặn truy cập vào trang about:support.
+policy-DisableDeveloperTools = Chặn truy cập đến công cụ nhà phát triển.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Vô hiệu hóa Firefox Screenshots.
 policy-DisablePrivateBrowsing = Vô hiệu hóa Duyệt web riêng tư.
