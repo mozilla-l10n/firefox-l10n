@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "Tämä asetus kirjaa sinut automaattisesti välityspalvelimiin, jos olet tallentanut niiden kirjautumistiedot. Jos kirjautuminen epäonnistuu, sinua tiedotetaan asiasta.">
 <!ENTITY  socksRemoteDNS.label          "Välipalvelimen DNS käytettäessä SOCKS v5:tä">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
+<!ENTITY  dnsOverHttps.label            "Käytä DNS:ää HTTPS:n yli">
+<!ENTITY  dnsOverHttps.accesskey        "H">
+<!ENTITY  dnsOverHttpsUrl.label         "Verkko-osoite:">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "r">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "Verkko-osoite DNS:n selvittämistä varten HTTPS:n avulla">
