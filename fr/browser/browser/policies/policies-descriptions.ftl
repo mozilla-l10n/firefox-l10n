@@ -43,6 +43,14 @@ policy-DisableTelemetry = Désactiver la télémétrie
 policy-DisplayBookmarksToolbar = Afficher la barre personnelle par défaut.
 policy-DisplayMenuBar = Afficher la barre de menus par défaut.
 policy-DontCheckDefaultBrowser = Désactive la vérification du navigateur par défaut au démarrage.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Active ou désactive le blocage de contenu et permet de verrouiller ce choix.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Installe, désinstalle ou verrouille les extensions. L'option d’installation accepte des URL ou des chemins comme paramètres. Les options Désinstaller et Verrouiller utilisent les identifiants des extensions.
+policy-FlashPlugin = Autorise ou non l'utilisation du plugin Flash.
 policy-InstallAddonsPermission = Autoriser certains sites web à installer des extensions.
 policy-NoDefaultBookmarks = Désactive la création des marque-pages par défaut fournis avec { -brand-short-name } ainsi que les marque-pages intelligents (sites les plus visités, sites récents). Note : cette politique ne fonctionne que si elle est activée avant le premier lancement du profil.
 policy-Permissions = Configure les permissions pour la caméra, le microphone, la localisation et les notifications.
