@@ -447,6 +447,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Кіраваць пашырэннем">
 <!ENTITY customizeMenu.manageExtension.accesskey "К">
 
+<!ENTITY customizeMenu.removeExtension.label "Выдаліць пашырэнне">
+<!ENTITY customizeMenu.removeExtension.accesskey "і">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -1110,6 +1113,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Кіраваць пашырэннямі…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Даслаць картку на прыладу">
+
 <!ENTITY sendToDevice.syncNotReady.label "Сінхранізацыя прылад…">
 
 <!ENTITY pageAction.shareUrl.label "Падзяліцца">
