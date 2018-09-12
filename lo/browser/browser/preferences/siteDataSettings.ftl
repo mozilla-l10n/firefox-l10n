@@ -5,6 +5,9 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = ຈັດການຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊ
+site-data-settings-description = ເວັບໄຊຕ໌ດັ່ງຕໍ່ໄປນີ້ເກັບຮັກສາ cookies ແລະຂໍ້ມູນເວັບໄຊທ໌ເທິງຄອມພິວເຕີຂອງທ່ານ. { -brand-short-name } ຮັກສາຂໍ້ມູນຈາກເວັບໄຊທ໌ທີ່ມີການເກັບຮັກສາແບບຖາວອນຈົນກວ່າທ່ານຈະລຶບມັນແລະລຶບຂໍ້ມູນຈາກເວັບໄຊທ໌ທີ່ມີການເກັບຂໍ້ມູນທີ່ບໍ່ຈໍາເປັນເທົ່າທີ່ຈໍາເປັນ.
 site-data-search-textbox =
     .placeholder = ຊອກຫາເວັບໄຊທ໌
     .accesskey = S
@@ -29,6 +32,7 @@ site-data-button-save =
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-usage-pattern = { $value } { $unit }
+site-usage-persistent = { site-usage-pattern }(ຖາວອນ)
 site-data-remove-all =
     .label = ລຶບທັງໝົດອອກ
     .accesskey = ທ
@@ -41,3 +45,6 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = ລຶບອອກ
+site-data-removing-header = ລຶບຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊ
+site-data-removing-desc = ການຖອນ cookies ແລະຂໍ້ມູນຂອງເວັບໄຊທ໌ອາດເຮັດໃຫ້ທ່ານອອກຈາກເວັບໄຊທ໌. ທ່ານແນ່ໃຈບໍວ່າທ່ານຕ້ອງການປ່ຽນແປງ?
+site-data-removing-table = Cookies ແລະຂໍ້ມູນເວັບໄຊທ໌ສໍາລັບເວັບໄຊທ໌ຕໍ່ໄປນີ້ຈະຖືກລຶບອອກ

@@ -11,14 +11,15 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "ຕຳແຫນ່ງທີ່ຕັ້ງຂອງເວັບໄຊທ໌:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "ໂຟນເດີ:">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "ສະແດງທີ່ຂັ້ນໜ້າໂຟເດີທັງໝົດ">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "ເຊື່ອງ">
 <!ENTITY editBookmarkOverlay.tags.label                      "ແທັກ:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
-<!ENTITY editBookmarkOverlay.description.label               "ຄຳອະທິບາຍ:">
-<!ENTITY editBookmarkOverlay.description.accesskey           "D">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "ແຍກແທັກດ້ວຍເຄື່ອງໝາຍຈຸດ">
 <!ENTITY editBookmarkOverlay.keyword.label                   "ຄຳທື່ຕ້ອງການຄົ້ນຫາ:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "ສະແດງແທັກທັງຫມົດ">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "ໂຫຼດທີ່ຂັ້ນໜ້ານີ້ໃນແຖບດ້ານຂ້າງ">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "ເລືອກ…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "ໂຟນເດີໃຫມ່">
