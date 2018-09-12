@@ -447,6 +447,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Gérer l’extension">
 <!ENTITY customizeMenu.manageExtension.accesskey "G">
 
+<!ENTITY customizeMenu.removeExtension.label "Supprimer l’extension">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -1110,6 +1112,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Gérer l’extension…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Envoyer l’onglet vers un appareil">
+
 <!ENTITY sendToDevice.syncNotReady.label "Synchronisation des appareils…">
 
 <!ENTITY pageAction.shareUrl.label "Partager">

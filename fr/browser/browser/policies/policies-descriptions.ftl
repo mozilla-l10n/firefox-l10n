@@ -43,3 +43,11 @@ policy-DisableTelemetry = Désactiver la télémétrie
 policy-DisplayBookmarksToolbar = Afficher la barre personnelle par défaut.
 policy-DisplayMenuBar = Afficher la barre de menus par défaut.
 policy-DontCheckDefaultBrowser = Désactive la vérification du navigateur par défaut au démarrage.
+policy-InstallAddonsPermission = Autoriser certains sites web à installer des extensions.
+policy-NoDefaultBookmarks = Désactive la création des marque-pages par défaut fournis avec { -brand-short-name } ainsi que les marque-pages intelligents (sites les plus visités, sites récents). Note : cette politique ne fonctionne que si elle est activée avant le premier lancement du profil.
+policy-Permissions = Configure les permissions pour la caméra, le microphone, la localisation et les notifications.
+policy-SearchBar = Définit l’emplacement par défaut de la barre de recherche. L’utilisateur garde la possibilité de la personnaliser.
+policy-SearchEngines = Configure les paramètres du moteur de recherche. Cette propriété n'est disponible que sur la version Extended Support Release (ESR)
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Bloque l'accès à des sites web. Voir la documentation pour plus de détails sur le format.

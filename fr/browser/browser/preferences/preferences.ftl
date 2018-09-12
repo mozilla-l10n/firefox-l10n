@@ -6,6 +6,8 @@ do-not-track-description = Envoyer aux sites web un signal « Ne pas me pister�
 do-not-track-learn-more = En savoir plus
 do-not-track-option-default =
     .label = Seulement lorsque la protection contre le pistage est utilisée
+do-not-track-option-default-content-blocking =
+    .label = Uniquement quand { -brand-short-name } est réglé pour bloquer les traqueurs détectés
 do-not-track-option-always =
     .label = Toujours
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = Une extension, <img data-l10n-name="ic
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Une extension, <img data-l10n-name="icon"/> { $name }, contrôle la protection contre le pistage.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Une extension, <img data-l10n-name="icon"/> { $name }, contrôle ce paramètre.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Une extension, <img data-l10n-name="icon"/> { $name }, contrôle la façon dont { -brand-short-name } se connecte à Internet.
@@ -619,10 +624,6 @@ sitedata-block-trackers-option =
     .label = Traqueurs tiers
 sitedata-block-unvisited-option =
     .label = Cookies de sites web non visités
-sitedata-block-all-third-parties-option =
-    .label = Tous les cookies tiers
-sitedata-block-always-option =
-    .label = Tous les cookies (peut provoquer des problèmes avec certains sites web)
 sitedata-block-all-third-party-option =
     .label = Tous les cookies tiers (peut empêcher certains sites de fonctionner)
 sitedata-block-all-option =
@@ -673,26 +674,6 @@ content-blocking-toggle-label-on = ACTIVÉ
 content-blocking-toggle-label-off = DÉSACTIVÉ
     .accesskey = C
 content-blocking-category-label = Sélectionnez le contenu à bloquer
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Traqueurs qui ralentissent
-    .accesskey = T
-content-blocking-fastblock-description = Bloque les contenus tiers mettant plus de 5 secondes à charger.
-content-blocking-fastblock-option-enabled =
-    .label = Toujours bloquer
-content-blocking-fastblock-option-disabled =
-    .label = Ne jamais bloquer
-content-blocking-tracking-protection-label = Traqueurs
-    .accesskey = T
-content-blocking-tracking-protection-description = Bloque tous les traqueurs connus (remarque : cela peut empêcher le chargement de certaines pages).
-content-blocking-tracking-protection-option-enabled =
-    .label = Toujours bloquer
-content-blocking-tracking-protection-option-pbm =
-    .label = Bloquer uniquement dans les fenêtres privées
-content-blocking-tracking-protection-option-disabled =
-    .label = Ne jamais bloquer
-content-blocking-tracking-protection-change-blocklist = Modifier la liste de blocage…
 content-blocking-fastblock-new-description = Ne bloquer que les traqueurs qui empêchent les pages de se charger rapidement.
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Tous les traqueurs détectés
