@@ -7,7 +7,7 @@ about-policies-title = Kurumsal ilkeler
 active-policies-tab = Etkin
 errors-tab = Hatalar
 documentation-tab = Belgelendirme
-policy-name = İlk adı
+policy-name = İlke adı
 policy-value = İlke değeri
 policy-errors = İlke hataları
 # 'gpo-machine-only' policies are related to the Group Policy features
