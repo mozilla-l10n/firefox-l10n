@@ -124,6 +124,10 @@ network-proxy-connection-learn-more = Skua'a kuakaa
 ## Home Section - Home Page Customization
 
 home-newtabs-mode-label = Xikua tsa'a
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Kitsa Firefox (Tana xina)
 home-mode-choice-blank =
     .label = Página yaa
 home-homepage-custom-url =
@@ -214,6 +218,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = Skua'a kuakaa
 sitedata-accept-third-party-always-option =
     .label = Ntikiì
 sitedata-accept-third-party-visited-option =
@@ -229,12 +234,20 @@ sitedata-settings =
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-history-option =
+    .label = Nduku ña ntsinu
+    .accesskey = N
+addressbar-locbar-bookmarks-option =
+    .label = Marcadores
+    .accesskey = m
 addressbar-locbar-openpage-option =
     .label = Kuna xikua
     .accesskey = K
 
 ## Privacy Section - Content Blocking
 
+content-blocking-toggle-label-on = Ndatu'un
+    .accesskey = N
 content-blocking-toggle-label-off = Ndava
     .accesskey = N
 
