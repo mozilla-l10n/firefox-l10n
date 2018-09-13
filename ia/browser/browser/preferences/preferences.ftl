@@ -7,7 +7,7 @@ do-not-track-learn-more = Saper plus
 do-not-track-option-default =
     .label = Solmente durante que tu usa le protection contra le traciamento
 do-not-track-option-default-content-blocking =
-    .label = Solo quando { -brand-short-name } es definite a Blocar le traciatores disvelate
+    .label = Solo quando { -brand-short-name } es definite pro Blocar le traciatores disvelate
 do-not-track-option-always =
     .label = Sempre
 pref-page =
@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = Un extension, <img data-l10n-name="ico
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Un extension, <img data-l10n-name="icon"/> { $name }, verifica le protection de traciamento.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Le extension <img data-l10n-name="icon"/>{ $name } controla iste configuration.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Un extension, <img data-l10n-name="icon"/> { $name }, controla como { -brand-short-name } se connecte a internet.
@@ -205,6 +208,9 @@ choose-button =
     .label = Eliger…
     .accesskey = E
 choose-browser-language-description = Elige le linguas usate pro monstrar menus, messages, e notificationes per { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Definir alternativas…
+    .accesskey = a
 confirm-browser-language-change-description = Reinitiar { -brand-short-name } pro applicar iste cambiamentos
 confirm-browser-language-change-button = Applicar e reinitiar
 translate-web-pages =
@@ -621,6 +627,10 @@ sitedata-block-trackers-option =
     .label = Traciatores de tertie partes
 sitedata-block-unvisited-option =
     .label = Cookies ab sitos web non visitate
+sitedata-block-all-third-party-option =
+    .label = Tote le cookies de tertie-partes (pote causar que sitos web collabe)
+sitedata-block-all-option =
+    .label = Tote le cookies (causara que sitos web collabe)
 sitedata-clear =
     .label = Clarar le datos...
     .accesskey = l
