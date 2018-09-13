@@ -10,7 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-AppUpdateURL = Definir um URL personalizado de atualização de aplicação.
+policy-AppUpdateURL = Definir um URL personalizado de atualização da aplicação.
 policy-Authentication = Configurar autenticação integrada para os sites que a suportem.
 policy-BlockAboutAddons = Bloquear acesso ao Gestor de extras (about:addons).
 policy-BlockAboutConfig = Bloquear acesso  à página about:config.
@@ -23,9 +23,9 @@ policy-DisableAppUpdate = Impedir o navegador de ser atualizado.
 policy-DisableBuiltinPDFViewer = Desativar o PDF.js, o leitor de PDF incorporado no { -brand-short-name }.
 policy-DisableDeveloperTools = Bloquear acesso às ferramentas de programador.
 policy-DisableFeedbackCommands = Desativar comandos para enviar comentários a partir do menu de Ajuda (enviar feedback e reportar sites fraudulentos)
-policy-DisableFirefoxAccounts = Desativar os serviços baseados no { -fxaccount-brand-name }, incluindo o Sync.
+policy-DisableFirefoxAccounts = Desativar os serviços baseados na { -fxaccount-brand-name }, incluindo o Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Desativar a funcionalidade de Screenshots do Firefox.
+policy-DisableFirefoxScreenshots = Desativar a funcionalidade Firefox Screenshots.
 policy-DisableFirefoxStudies = Impedir o { -brand-short-name } de executar estudos.
 policy-DisableForgetButton = Impedir o acesso ao botão Esquecer.
 policy-DisableFormHistory = Não guardar histórico de pesquisas ou de formulários.
