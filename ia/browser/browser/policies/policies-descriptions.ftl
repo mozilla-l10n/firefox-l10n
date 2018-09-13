@@ -10,4 +10,5 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = Definir un URL de actualisation personalisate pro le application.
 policy-DisableDeveloperTools = Blocar le accesso al instrumentos del developpatores.
