@@ -55,6 +55,8 @@ policy-HardwareAcceleration = Əgər false-dursa, avadanlıq sürətləndirməsi
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Ana səhifəni qur və seçimə görə kilitlə.
 policy-InstallAddonsPermission = Bəzi saytlara əlavə qurmağa icazə ver.
+policy-NoDefaultBookmarks = { -brand-short-name } ilə dəstələnmiş ilkin əlfəcinlərin və Ağıllı Əlfəcinləri (Ən Çox Ziyarət Edilən, Son Teqlər) yaradılmasını söndür. Qeyd: bu siyasət ancaq profilin ilk açılışından əvvəl işlədildikdə effektiv olur.
+policy-OfferToSaveLogins = { -brand-short-name } səyyahının girişləri və parolları yadda saxlama təklifini məcburi et. Həm true həm də false dəyərləri qəbul edilir.
 policy-OverrideFirstRunPage = İlk açılış səhifəsini dəyişdir. Əgər ilk açılış səhifəsini söndürmək istəyirsinizsə, bu siyasəti boş olaraq qurun.
 policy-OverridePostUpdatePage = Yeniləmə sonrasındakı "Yeniliklər" səhifəsini dəyişdir. Əgər yeniləmə sonrasındakı səhifəni söndürmək istəyirsinizsə, bu siyasəti boş olaraq qurun.
 policy-Permissions = Kamera, mikrofon, mövqe və bildirişlər üçün icazələri konfiqurasiya et.
