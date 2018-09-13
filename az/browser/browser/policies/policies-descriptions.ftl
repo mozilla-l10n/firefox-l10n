@@ -55,8 +55,14 @@ policy-HardwareAcceleration = Əgər false-dursa, avadanlıq sürətləndirməsi
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Ana səhifəni qur və seçimə görə kilitlə.
 policy-InstallAddonsPermission = Bəzi saytlara əlavə qurmağa icazə ver.
+policy-OverrideFirstRunPage = İlk açılış səhifəsini dəyişdir. Əgər ilk açılış səhifəsini söndürmək istəyirsinizsə, bu siyasəti boş olaraq qurun.
+policy-OverridePostUpdatePage = Yeniləmə sonrasındakı "Yeniliklər" səhifəsini dəyişdir. Əgər yeniləmə sonrasındakı səhifəni söndürmək istəyirsinizsə, bu siyasəti boş olaraq qurun.
+policy-Permissions = Kamera, mikrofon, mövqe və bildirişlər üçün icazələri konfiqurasiya et.
 policy-PopupBlocking = Bəzi saytlara soruşmadan qəfil pəncərələrə icazə ver.
 policy-Proxy = Proksi tənzimləmələrini konfiqurasiya et.
 policy-SanitizeOnShutdown = Söndürmədə bütün naviqasiya məlumatlarını təmizlə.
 policy-SearchBar = İlkin hal olaraq axtarış sətrinin yerini seç. İstifadəçi bunu yenə də fərdiləşdirə biləcək.
 policy-SearchEngines = Axtarış mühərriyi tənzimləmələrini konfiqurasiya et. Bu siyasət ancaq Uzadılmış Dəstək Buraxılışı (ESR) versiyasında mümkündür.
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Saytların ziyarət edilməsini əngəllə. Format detalları üçün sənədlərə bax.
