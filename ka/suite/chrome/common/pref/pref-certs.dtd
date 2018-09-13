@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  managecerts.caption      "სერთიფიკატების მართვა">
-<!ENTITY  managecerts.text         "პირადი სერთიფიკატების, ისევე როგორც სხვების სერთიფიკატებისა და სააგენტოების სამართავად ისარგებლეთ სერთიფიკატების მმართველით.">
+<!ENTITY  managecerts.text         "პირადი და ასევე სხვების, მათ შორის სერტიფიკატების გამცემების სერტიფიკატების სამართავად გამოიყენეთ სერტიფიკატების მმართველი.">
 <!ENTITY  managecerts.button       "სერთიფიკატების მართვა…">
 <!ENTITY  managecerts.accesskey    "M">
 <!ENTITY  managedevices.caption    "უსაფრთხოების მოწყობილობათა მართვა">
