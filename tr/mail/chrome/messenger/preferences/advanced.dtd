@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Küresel aramayı ve dizin oluşturmayı etkinleştir">
 <!ENTITY enableGlodaSearch.accesskey   "o">
 <!ENTITY dateTimeFormatting.label      "Tarih ve saat biçimi">
+<!ENTITY languageSelector.label        "Dil">
 <!ENTITY allowHWAccel.label            "Mümkün olduğunda donanım ivmelenmesini kullan">
 <!ENTITY allowHWAccel.accesskey        "d">
 <!ENTITY storeType.label               "Yeni hesaplarda ileti depolama türü:">
