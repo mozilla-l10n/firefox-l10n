@@ -149,6 +149,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Le proprietarios de <span class='hostname'/> ha configurate lor sito web incorrectemente. Pro proteger tu informationes de esser robate,  &brandShortName; non se ha connectite a iste sito web.">
 
+<!ENTITY certerror.introPara2 "&brandShortName; disvelate un potential attacco al securitate e ha interrumpite le connexion a <span class='hostname'/>. Si tu visita iste sito, le attaccantes poterea provar a robar informationes como tu contrasignos, emails o detalios del carta de credito.">
 
 <!ENTITY certerror.expiredCert.secondPara "Iste problema occurre probabilemente perque le horologio de tu computator es adjustate con le hora incorrecte, le qual impedi &brandShortName; de connecter se securmente.">
 
