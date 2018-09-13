@@ -22,3 +22,14 @@ policy-Cookies = Consentir o negar al sitos web de definir cookies.
 policy-DisableAppUpdate = Impedir le actualisation del navigator.
 policy-DisableBuiltinPDFViewer = Disactivar PDF.js, le visor de PDF integrate in { -brand-short-name }.<
 policy-DisableDeveloperTools = Blocar le accesso al instrumentos del developpatores.
+policy-DisableFeedbackCommands = Disactivar commandos pro mitter commentario ab le menu Adjutar (Invia commentario e reporta sito fraudulente).
+policy-DisableFirefoxAccounts = Disactivar le servicios basate sur { -fxaccount-brand-name }, comprendite Sync.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Disactivar le functionalitate Firefox Screenshots.
+policy-DisableFirefoxStudies = Impedir a { -brand-short-name } de exequer studios.
+policy-DisableForgetButton = Impedir accesso al button Oblidar.
+policy-DisableFormHistory = Non rememorar le chronologia de recercas e formularios.
+policy-DisableMasterPasswordCreation = Si ver, non pote ser create un contrasigno principal.
+policy-DisablePocket = Disactivar le functionalitate pro salvar paginas web in Pocket.
+policy-DisablePrivateBrowsing = Disactivar le navigation private.
+policy-DisableProfileImport = Disactivar le commando del menu pro importar datos ab un altere navigator.
