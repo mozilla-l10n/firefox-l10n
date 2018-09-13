@@ -702,6 +702,18 @@ content-blocking-third-party-cookies-label =
     .label = Кукі трэцяга боку
     .accesskey = К
 content-blocking-reject-trackers-description = Блакаваць усе кукі трэцяга боку, або толькі ўстаноўленыя трэкерамі.
+content-blocking-change-cookie-settings =
+    .label = Змяніць налады кукаў
+    .accesskey = ы
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Трэкеры (рэкамендуецца)
+    .accesskey = Т
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Трэкеры
+    .accesskey = Т
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Усе кукі трэцяга боку (можа парушыць працу вэб-сайтаў)
+    .accesskey = У
 
 ## Privacy Section - Tracking
 
