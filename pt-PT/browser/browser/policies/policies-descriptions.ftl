@@ -23,3 +23,12 @@ policy-DisableAppUpdate = Impedir o navegador de ser atualizado.
 policy-DisableBuiltinPDFViewer = Desativar o PDF.js, o leitor de PDF incorporado no { -brand-short-name }.
 policy-DisableDeveloperTools = Bloquear acesso às ferramentas de programador.
 policy-DisableFeedbackCommands = Desativar comandos para enviar comentários a partir do menu de Ajuda (enviar feedback e reportar sites fraudulentos)
+policy-DisableFirefoxAccounts = Desativar os serviços baseados no { -fxaccount-brand-name }, incluindo o Sync.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Desativar a funcionalidade de Screenshots do Firefox.
+policy-DisableFirefoxStudies = Impedir o { -brand-short-name } de participar em testes.
+policy-DisableForgetButton = Impedir o acesso ao botão Esquecer.
+policy-DisableFormHistory = Não guardar histórico de pesquisas ou de formulários.
+policy-DisableMasterPasswordCreation = Se verdadeiro, não poderá ser criada uma palavra-passe mestra.
+policy-DisablePocket = Desativar a funcionalidade de guardar páginas web no Pocket.
+policy-DisablePrivateBrowsing = Desativar a navegação privada.
