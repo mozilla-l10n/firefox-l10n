@@ -640,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Exceptiones…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Tu configurationes in Bloco de contentos impedi cambiamentos al configurationes del cookies e al datos del sito.
 
 ## Privacy Section - Address Bar
 
@@ -679,6 +683,11 @@ content-blocking-category-label = Elige que blocar
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Traciatores lente
     .accesskey = S
+content-blocking-fastblock-new-description = Blocar justo le traciatores que impedi le paginas de ser cargate rapidemente.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Tote le traciatores disvelate
+    .accesskey = T
+content-blocking-tracking-protection-new-description = Blocar tote le traciatores note. (Pote impedir alcun paginas de ser cargate.)
 content-blocking-tracking-protection-option-always =
     .label = Sempre
     .accesskey = S
@@ -689,11 +698,23 @@ content-blocking-tracking-protection-change-block-list = Cambiar le lista de blo
 content-blocking-third-party-cookies-label =
     .label = Cookies de tertie partes
     .accesskey = C
+content-blocking-reject-trackers-description = Blocar tote le cookies de tertie-parte o justo illos definite per le traciatores.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Tu configurationes in cookies e datos del sito impedi cambiamentos al configurationes del cookies de tertie-partes.
 content-blocking-change-cookie-settings =
     .label = Cambiar le parametros de recerca
     .accesskey = p
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Traciatores (recommendate)
+    .accesskey = T
 content-blocking-reject-trackers-block-trackers-option =
     .label = Traciatores
+    .accesskey = T
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Tote le cookies de tertie-partes (pote causar que sitos web collabe)
     .accesskey = T
 
 ## Privacy Section - Tracking
