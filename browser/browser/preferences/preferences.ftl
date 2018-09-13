@@ -563,9 +563,6 @@ history-dontremember-description = { -brand-short-name } bo uporabljal enake nas
 history-private-browsing-permanent =
     .label = Vedno uporabljaj zasebno brskanje
     .accesskey = S
-history-remember-option =
-    .label = Shranjuj zgodovino brskanja in prenosov
-    .accesskey = b
 history-remember-browser-option =
     .label = Shranjuj zgodovino brskanja in prenosov
     .accesskey = b
@@ -617,8 +614,6 @@ sitedata-block-trackers-option =
     .label = Sledilce tretjih strani
 sitedata-block-unvisited-option =
     .label = Piškotke neobiskanih spletnih strani
-sitedata-block-all-third-parties-option =
-    .label = Vse piškotke tretjih strani
 sitedata-clear =
     .label = Počisti podatke …
     .accesskey = č
@@ -661,26 +656,12 @@ content-blocking-toggle-label-on = VKLJUČENO
 content-blocking-toggle-label-off = IZKLJUČENO
     .accesskey = I
 content-blocking-category-label = Izberite, kaj želite zavračati
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Počasni elementi sledenja
-    .accesskey = P
-content-blocking-fastblock-description = Zavrača vsebino tretjih strani, ki se nalaga več kot 5 sekund.
-content-blocking-fastblock-option-enabled =
-    .label = Vedno zavračaj
-content-blocking-fastblock-option-disabled =
-    .label = Nikoli ne zavračaj
-content-blocking-tracking-protection-label = Sledilci
-    .accesskey = S
-content-blocking-tracking-protection-description = Zavrača vse znane sledilce (pozor: lahko tudi prepreči nalaganje nekaterih strani).
-content-blocking-tracking-protection-option-enabled =
-    .label = Vedno zavračaj
-content-blocking-tracking-protection-option-pbm =
-    .label = Zavračaj samo v zasebnih oknih
-content-blocking-tracking-protection-option-disabled =
-    .label = Nikoli ne zavračaj
-content-blocking-tracking-protection-change-blocklist = Zamenjaj seznam za zavračanje …
+content-blocking-tracking-protection-option-always =
+    .label = Vedno
+    .accesskey = V
+content-blocking-tracking-protection-option-private =
+    .label = Le v zasebnih oknih
+    .accesskey = s
 
 ## Privacy Section - Tracking
 
