@@ -10,4 +10,6 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = Spesifiser eigendefinert programoppdateringsadresse.
+policy-DisablePrivateBrowsing = Slå av Privat nettlesing.
 policy-DisableTelemetry = Slå av av telemetri.
