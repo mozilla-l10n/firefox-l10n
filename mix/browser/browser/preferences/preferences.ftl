@@ -82,10 +82,18 @@ containers-disable-alert-title = ¿A kunu kasu ntii xikua?
 
 ## General Section - Language & Appearance
 
+default-font-size = Kua
+    .accesskey = K
+advanced-fonts =
+    .label = Nchichi
+    .accesskey = n
 colors-settings =
     .label = Kolor
     .accesskey = K
 language-header = Tu'un
+choose-button =
+    .label = Katsi…
+    .accesskey = K
 
 ## General Section - Files and Applications
 
@@ -105,6 +113,7 @@ download-choose-folder =
            *[other] x
         }
 applications-header = Aplicaciones
+play-drm-content-learn-more = Skua'a kuakaa
 
 ## General Section - Performance
 
@@ -124,10 +133,15 @@ network-proxy-connection-learn-more = Skua'a kuakaa
 ## Home Section - Home Page Customization
 
 home-newtabs-mode-label = Xikua tsa'a
+home-restore-defaults =
+    .label = Nchiko tana ntsikai
+    .accesskey = N
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Kitsa Firefox (Tana xina)
+home-mode-choice-custom =
+    .label = Nixi kunu URLs…
 home-mode-choice-blank =
     .label = Página yaa
 home-homepage-custom-url =

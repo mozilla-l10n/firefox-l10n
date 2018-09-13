@@ -129,3 +129,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Inka(incl. europeano occidental)
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Tana ntsikai ({ $name })
