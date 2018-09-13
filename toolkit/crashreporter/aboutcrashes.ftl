@@ -4,6 +4,7 @@
 
 crash-reports-title = Rapports de plantage
 clear-all-reports-label = Supprimer tous les rapports
+delete-button-label = Tout supprimer
 delete-confirm-title = Confirmation
 delete-confirm-description = Ceci supprimera tous les rapports irrémédiablement.
 crashes-unsubmitted-label = Rapports de plantage non envoyés

@@ -32,3 +32,4 @@
 <!ENTITY trackingProtection.startTour1                   "Principes de fonctionnement">
 
 <!ENTITY contentBlocking.title                           "Blocage de contenu">
+<!ENTITY contentBlocking.description                     "Certains sites utilisent des traqueurs qui peuvent pister votre activité sur Internet. Dans les fenêtres de navigation privée, le blocage de contenu de Firefox bloque automatiquement de nombreux traqueurs qui peuvent collecter des informations sur votre comportement de navigation.">
