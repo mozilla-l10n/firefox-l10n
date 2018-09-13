@@ -52,6 +52,7 @@
 <!ENTITY cmd.open_private_window.accesskey "P">
 <!ENTITY cmd.open_tab.label              "新建标签页打开">
 <!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_all_in_tabs.label      "全部打开">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
 <!ENTITY cmd.properties.label      "属性">
