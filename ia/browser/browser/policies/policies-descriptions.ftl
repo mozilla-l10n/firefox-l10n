@@ -43,3 +43,17 @@ policy-DisableTelemetry = Disactivar le telemetria.
 policy-DisplayBookmarksToolbar = Monstrar le Barra del marcapaginas de ordinario
 policy-DisplayMenuBar = Monstrar le Barra del menu de ordinario.
 policy-DontCheckDefaultBrowser = Disactivar le controlo Navigator predefinite al lanceamento initial.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Activar o disactivar le Bloco de contentos e optionalmente blocar illo.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Installar, disinstallar o blocar le extensiones. Le option Installar require URLs o percursos como parametros. Le optiones Disinstallar e Blocate require le extension IDs.
+policy-FlashPlugin = Consentir o negar le uso del plugin Flash.
+policy-HardwareAcceleration = Si false, disactivar le acceleration hardware.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Definir e optionalmente blocar le pagina principal.
+policy-InstallAddonsPermission = Consentir a certe sitos web de installar additivos.
+policy-NoDefaultBookmarks = Disactivar le creation del marcapaginas predefinite impacchettate con { -brand-short-name } e le Marcapaginas intelligente (Plus Visitate, Tags recente). Nota: iste criterio es efficace solo si usate ante le prime uso del profilo.
+policy-OfferToSaveLogins = Fortiar le configuration pro consentir a { -brand-short-name } de offerer de memorar connexiones e contrasignos salvate. Ambe valores ver e false es acceptate.
