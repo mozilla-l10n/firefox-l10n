@@ -447,6 +447,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Upravljaj razširitev">
 <!ENTITY customizeMenu.manageExtension.accesskey "U">
 
+<!ENTITY customizeMenu.removeExtension.label "Odstrani razširitev">
+<!ENTITY customizeMenu.removeExtension.accesskey "r">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -947,6 +949,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Zavračaj …">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Vsi zaznani sledilci">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -959,19 +962,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Zavračaj …">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Piškotki tretjih strani">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Zavrnjeni">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Zavračaj …">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Prijavi težavo">
 <!ENTITY contentBlocking.breakageReportView.label "Prijavite težave">
+<!ENTITY contentBlocking.breakageReportView2.description "Zavračanje vsebine lahko povzroči težave z nekaterimi spletnimi stranmi. S prijavo težav pomagate izboljšati &brandShortName; za vse uporabnike. (Mozilli bo poslan naslov spletne strani, kot tudi informacije o nastavitvah vašega brskalnika.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Več o tem">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kakšne težave ste imeli? (neobvezno)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Pošlji poročilo">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Prekliči">
 
