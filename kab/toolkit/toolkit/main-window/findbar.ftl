@@ -5,6 +5,10 @@
 
 ### This file contains the entities needed to use the Find Bar.
 
+findbar-next =
+    .tooltiptext = Af-d timseḍriwt n twinest d-iteddun
+findbar-previous =
+    .tooltiptext = Af-d tamseḍriwt n twinest n deffir
 findbar-find-button-close =
     .tooltiptext = Mdel affeggag n unadi
 findbar-highlight-all =
