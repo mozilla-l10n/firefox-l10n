@@ -7,5 +7,7 @@
 
 findbar-next =
     .tooltiptext = शब्दसमुहाचे पुढचे प्रत्यक्ष शोधा
+findbar-previous =
+    .tooltiptext = शब्दसमुहाचे पूर्वीचे प्रत्यक्ष शोधा
 findbar-find-button-close =
     .tooltiptext = शोध पट्टी बंद करा
