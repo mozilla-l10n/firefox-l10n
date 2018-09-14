@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = Søker etter den forrige forekomsten av teksten
 findbar-find-button-close =
     .tooltiptext = Lukk søkelinje
+findbar-case-sensitive =
+    .label = Skill mellom store/små bokstaver
+    .accesskey = k
+    .tooltiptext = Skill mellom store/små bokstaver i søket
