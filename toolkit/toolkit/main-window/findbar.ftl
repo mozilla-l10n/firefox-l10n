@@ -5,5 +5,21 @@
 
 ### This file contains the entities needed to use the Find Bar.
 
+findbar-next =
+    .tooltiptext = De folgjende oerienkomst fan de tekst sykje
+findbar-previous =
+    .tooltiptext = De foarige oerienkomst fan de tekst sykje
 findbar-find-button-close =
     .tooltiptext = Sykbalke slute
+findbar-highlight-all =
+    .label = Alles markearje
+    .accesskey = A
+    .tooltiptext = Alle oerienkomsten fan de tekst markearje
+findbar-case-sensitive =
+    .label = Haadlettergefoelich
+    .accesskey = H
+    .tooltiptext = Haadlettergefoelich sykje
+findbar-entire-word =
+    .label = Hiele wurden
+    .accesskey = e
+    .tooltiptext = Allinnich hiele wurden sykje
