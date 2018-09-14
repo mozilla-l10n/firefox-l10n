@@ -9,3 +9,5 @@ findbar-next =
     .tooltiptext = Fumanisa isenzeko esilandelayo sebinzana lamagama
 findbar-previous =
     .tooltiptext = Fumanisa isenzeko sangaphambili sebinzana lamagama
+findbar-find-button-close =
+    .tooltiptext = Vala ibha yokufumana
