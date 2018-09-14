@@ -15,3 +15,7 @@ findbar-case-sensitive =
     .label = ಕೇಸನ್ನು Match
     .accesskey = c
     .tooltiptext = ಕೇಸ್‌ನ ಸಂವೇದನೆಯೊಂದಿಗೆ ಹುಡುಕಿ
+findbar-entire-word =
+    .label = ಸಂಪೂರ್ಣ ಪದಗಳು
+    .accesskey = W
+    .tooltiptext = ಸಂಪೂರ್ಣ ಪದಗಳನ್ನು ಮಾತ್ರ ಹುಡುಕು
