@@ -9,3 +9,5 @@ findbar-next =
     .tooltiptext = Canfod enghraifft nesaf yr ymadrodd
 findbar-previous =
     .tooltiptext = Canfod enghraifft flaenorol o'r ymadrodd
+findbar-find-button-close =
+    .tooltiptext = Cau'r bar chwilio
