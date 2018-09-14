@@ -19,3 +19,7 @@ findbar-case-sensitive =
     .label = Συμφωνία πεζών-κεφαλαίων
     .accesskey = φ
     .tooltiptext = Εύρεση με συμφωνία πεζών-κεφαλαίων
+findbar-entire-word =
+    .label = Ολόκληρες λέξεις
+    .accesskey = ξ
+    .tooltiptext = Αναζήτηση μόνο ολόκληρων λέξεων
