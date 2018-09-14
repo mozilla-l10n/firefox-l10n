@@ -37,11 +37,13 @@ policy-DisableProfileRefresh = about:support પાનાં પરનાં { -
 policy-DisableSafeMode = સલામત માર્ગમાં પુનઃપ્રારંભ કરવા માટેની સુવિધાને નિષ્ક્રિય કરો. નોંધ: સલામત માર્ગમાં દાખલ થવા માટે Shift કી ફક્ત જૂથ નીતિનો ઉપયોગ કરીને વિન્ડોઝ પર નિષ્ક્રિય કરી શકાય છે.
 policy-DisableSetDesktopBackground = છબીને ડેસ્કટોપ પૃષ્ઠભૂમિ તરીકે સેટ કરો નામનાં મેનુ આદેશને નિષ્ક્રિય કરો .
 policy-DisableSetAsDesktopBackground = છબીઓને ડેસ્કટોપ પૃષ્ઠભૂમિ તરીકે સેટ કરો નામનાં મેનુ આદેશને નિષ્ક્રિય કરો .
+policy-DisableSystemAddonUpdate = બ્રાઉઝરને સિસ્ટમ ઍડ-ઑન્સ ઇન્સ્ટોલ અને અપડેટ કરવાથી અટકાવો.
 policy-DisableTelemetry = ટેલિમેટ્રી બંધ કરો.
 policy-HardwareAcceleration = જો ખોટા હોય, તો હાર્ડવેર એક્સિલરેશન બંધ કરો.
 policy-Proxy = પ્રોક્સી સેટિંગ્સ ગોઠવો.
 policy-SanitizeOnShutdown = બંધ કરતી વખતે બધી શોધ માહિતી સાફ કરો.
 policy-SearchBar = શોધ પટ્ટીનું મૂળભૂત સ્થાન સેટ કરો. વપરાશકર્તાને હજુ તેને કસ્ટમાઇઝ કરવાની મંજૂરી છે.
+policy-SearchEngines = શોધ એન્જિન સેટિંગ્સ ગોઠવો. આ નીતિ વિસ્તૃત સપોર્ટ રીલીઝ (ESR) આવૃત્તિ પર જ ઉપલબ્ધ છે.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = વેબસાઇટ્સની મુલાકાત લેવાથી અવરોધિત કરો. રુપરેખા પર વધુ વિગતો માટે દસ્તાવેજીકરણ જુઓ.
