@@ -19,3 +19,7 @@ findbar-case-sensitive =
     .label = අක්ෂර ගැලපුම
     .accesskey = c
     .tooltiptext = අක්ශර සංවේදීව සොයන්න
+findbar-entire-word =
+    .label = මුළු වචනයම
+    .accesskey = w
+    .tooltiptext = සම්පූර්ණ වචනය පමණක් සොයන්න
