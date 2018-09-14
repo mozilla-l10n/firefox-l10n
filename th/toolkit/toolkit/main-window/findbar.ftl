@@ -5,5 +5,9 @@
 
 ### This file contains the entities needed to use the Find Bar.
 
+findbar-next =
+    .tooltiptext = หาตำแหน่งถัดไปของวลี
+findbar-previous =
+    .tooltiptext = หาตำแหน่งก่อนหน้าของวลี
 findbar-find-button-close =
     .tooltiptext = ปิดแถบค้นหา
