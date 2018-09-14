@@ -19,3 +19,7 @@ findbar-case-sensitive =
     .label = Cocokkan BESAR/kecil
     .accesskey = C
     .tooltiptext = Cari sesuai dengan BESAR/kecilnya huruf
+findbar-entire-word =
+    .label = Seluruh Teks
+    .accesskey = S
+    .tooltiptext = Cocok dengan seluruh teks saja
