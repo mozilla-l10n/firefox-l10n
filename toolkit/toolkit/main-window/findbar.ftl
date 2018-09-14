@@ -5,6 +5,12 @@
 
 ### This file contains the entities needed to use the Find Bar.
 
+findbar-next =
+    .tooltiptext = Etsi seuraava osuma
+findbar-previous =
+    .tooltiptext = Etsi edellinen osuma
+findbar-find-button-close =
+    .tooltiptext = Sulje etsintäpalkki
 findbar-highlight-all =
     .label = Korosta kaikki
     .accesskey = K
@@ -13,3 +19,7 @@ findbar-case-sensitive =
     .label = Huomioi kirjainkoko
     .accesskey = H
     .tooltiptext = Etsi osumia huomioiden kirjainkoko
+findbar-entire-word =
+    .label = Kokonaiset sanat
+    .accesskey = s
+    .tooltiptext = Etsi vain kokonaisia sanoja
