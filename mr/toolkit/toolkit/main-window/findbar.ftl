@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = शब्दसमुहाचे पूर्वीचे प्रत्यक्ष शोधा
 findbar-find-button-close =
     .tooltiptext = शोध पट्टी बंद करा
+findbar-case-sensitive =
+    .label = आकार जुळवा
+    .accesskey = c
+    .tooltiptext = आकार संवदेनशीलतासह शोधा
