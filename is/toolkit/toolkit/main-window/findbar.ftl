@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = Leita að fyrra tilfelli þessara orða
 findbar-find-button-close =
     .tooltiptext = Loka leitarslá
+findbar-case-sensitive =
+    .label = Stafrétt
+    .accesskey = S
+    .tooltiptext = Leita miðað við stafsöðu
