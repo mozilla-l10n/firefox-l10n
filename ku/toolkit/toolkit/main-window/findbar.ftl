@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = Peyva berê bibîne
 findbar-find-button-close =
     .tooltiptext = Darikê Bibîne bigire
+findbar-case-sensitive =
+    .label = Ji bo tîpên girdek-hûrdek bihîstyar
+    .accesskey = b
+    .tooltiptext = Ji bo tîpên hûrdek-girdek bihîstyar be
