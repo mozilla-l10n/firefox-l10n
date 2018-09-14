@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = Bilatu esaldiaren aurreko parekatzea
 findbar-find-button-close =
     .tooltiptext = Itxi bilaketa barra
+findbar-case-sensitive =
+    .label = Bereizi maiuskulak/minuskulak
+    .accesskey = B
+    .tooltiptext = Bilatu maiuskulak/minuskulak bereiziz
