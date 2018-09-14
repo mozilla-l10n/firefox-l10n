@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = Hitta föregående förekomst av frasen
 findbar-find-button-close =
     .tooltiptext = Stäng Sökfältet
+findbar-case-sensitive =
+    .label = Matcha VERSALER/gemener
+    .accesskey = c
+    .tooltiptext = Sök skiftlägeskänsligt
