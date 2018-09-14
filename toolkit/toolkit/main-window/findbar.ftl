@@ -7,3 +7,15 @@
 
 findbar-next =
     .tooltiptext = Εύρεση της επόμενης εμφάνισης της φράσης
+findbar-previous =
+    .tooltiptext = Εύρεση της προηγούμενης εμφάνισης της φράσης
+findbar-find-button-close =
+    .tooltiptext = Κλείσιμο μπάρας εύρεσης
+findbar-highlight-all =
+    .label = Επισήμανση όλων
+    .accesskey = λ
+    .tooltiptext = Επισήμανση όλων των εμφανίσεων της φράσης
+findbar-case-sensitive =
+    .label = Συμφωνία πεζών-κεφαλαίων
+    .accesskey = φ
+    .tooltiptext = Εύρεση με συμφωνία πεζών-κεφαλαίων
