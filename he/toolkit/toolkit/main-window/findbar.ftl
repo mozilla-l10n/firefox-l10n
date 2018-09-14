@@ -5,6 +5,8 @@
 
 ### This file contains the entities needed to use the Find Bar.
 
+findbar-next =
+    .tooltiptext = מציאת המופע הבא של הביטוי
 findbar-find-button-close =
     .tooltiptext = סגירת סרגל החיפוש
 findbar-highlight-all =
