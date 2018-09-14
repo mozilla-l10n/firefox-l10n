@@ -19,3 +19,7 @@ findbar-case-sensitive =
     .label = Razlikuj velike/male črke
     .accesskey = r
     .tooltiptext = Pri iskanju razlikuj male in velike črke
+findbar-entire-word =
+    .label = Cele besede
+    .accesskey = C
+    .tooltiptext = Išči samo cele besede
