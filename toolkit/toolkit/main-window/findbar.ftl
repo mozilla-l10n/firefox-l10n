@@ -9,3 +9,7 @@ findbar-highlight-all =
     .label = Marker alt
     .accesskey = M
     .tooltiptext = Marker alle funn av teksten
+findbar-entire-word =
+    .label = Heile ord
+    .accesskey = H
+    .tooltiptext = Søk berre etter heile ord
