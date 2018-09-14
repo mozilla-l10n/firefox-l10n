@@ -15,3 +15,7 @@ findbar-case-sensitive =
     .label = Lelū, mozū burtu atbiļsteiba
     .accesskey = L
     .tooltiptext = Mekleit uztverūt lelūs i mozūs burtus kai atškireigus simbolus
+findbar-entire-word =
+    .label = Whole Words
+    .accesskey = w
+    .tooltiptext = Search whole words only
