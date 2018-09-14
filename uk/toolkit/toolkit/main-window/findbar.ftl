@@ -19,3 +19,7 @@ findbar-case-sensitive =
     .label = З урахуванням регістру
     .accesskey = р
     .tooltiptext = Шукати з урахуванням регістру
+findbar-entire-word =
+    .label = Цілі слова
+    .accesskey = Ц
+    .tooltiptext = Шукати лише цілі слова
