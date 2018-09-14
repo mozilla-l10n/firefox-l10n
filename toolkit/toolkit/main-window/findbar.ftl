@@ -15,3 +15,7 @@ findbar-highlight-all =
     .label = Открояване на всички
     .accesskey = в
     .tooltiptext = Открояване на всички съвпадения на фразата
+findbar-entire-word =
+    .label = Цели думи
+    .accesskey = д
+    .tooltiptext = Търси само цели думи
