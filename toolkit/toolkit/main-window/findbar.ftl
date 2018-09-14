@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = મહાવરાનો પાછળનો વારો શોધો
 findbar-find-button-close =
     .tooltiptext = શોધ પટ્ટી બંધ કરો
+findbar-case-sensitive =
+    .label = કેસ સરખાવો
+    .accesskey = c
+    .tooltiptext = કેસ સંવેદનશીલતાથી શોધો
