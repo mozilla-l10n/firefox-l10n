@@ -19,3 +19,7 @@ findbar-case-sensitive =
     .label = Lielo, mazo burtu atbilstība
     .accesskey = l
     .tooltiptext = Meklēt uztverot lielos un mazos burtus kā atšķirīgus simbolus
+findbar-entire-word =
+    .label = Veselus vārdus
+    .accesskey = v
+    .tooltiptext = Meklēt tikai kā pilnus vārdus
