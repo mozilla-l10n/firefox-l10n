@@ -5,5 +5,17 @@
 
 ### This file contains the entities needed to use the Find Bar.
 
+findbar-next =
+    .tooltiptext = Знайти наступне входження фрази
+findbar-previous =
+    .tooltiptext = Знайти попереднє входження фрази
 findbar-find-button-close =
     .tooltiptext = Закрити панель пошуку
+findbar-highlight-all =
+    .label = Підсвітити все
+    .accesskey = в
+    .tooltiptext = Підсвітити всі входження фрази
+findbar-case-sensitive =
+    .label = З урахуванням регістру
+    .accesskey = р
+    .tooltiptext = Шукати з урахуванням регістру
