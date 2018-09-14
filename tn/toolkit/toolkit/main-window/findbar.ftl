@@ -9,3 +9,5 @@ findbar-next =
     .tooltiptext = Batla tiragalo e e latelang ya setlhopha sa mafoko
 findbar-previous =
     .tooltiptext = Batla tiragalo e e fetileng ya setlhopha sa mafoko
+findbar-find-button-close =
+    .tooltiptext = Tswala Bara ya Patlo
