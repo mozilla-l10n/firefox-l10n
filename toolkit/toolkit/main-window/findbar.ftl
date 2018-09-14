@@ -9,3 +9,7 @@ findbar-next =
     .tooltiptext = Ieškoti tolesnio frazės egzemplioriaus
 findbar-previous =
     .tooltiptext = Ieškoti ankstesnio frazės egzemplioriaus
+findbar-case-sensitive =
+    .label = Skirti raidžių registrą
+    .accesskey = k
+    .tooltiptext = Ieškoti, skiriant didžiąsias ir mažąsias raides
