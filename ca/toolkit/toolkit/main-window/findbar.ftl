@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = Cerca l'anterior coincidència de l'expressió
 findbar-find-button-close =
     .tooltiptext = Tanca la barra de cerca
+findbar-case-sensitive =
+    .label = Distingeix entre majúscules i minúscules
+    .accesskey = c
+    .tooltiptext = Cerca distingint entre majúscules i minúscules
