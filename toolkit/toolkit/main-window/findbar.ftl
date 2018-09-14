@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = বাক্যাংশৰ পূৰ্বৱৰ্তী উপস্থিতি সন্ধান কৰক
 findbar-find-button-close =
     .tooltiptext = সন্ধান বাৰ বন্ধ কৰক
+findbar-case-sensitive =
+    .label = ফলা মিলাওক
+    .accesskey = c
+    .tooltiptext = ফলা সংবেদনশীলতাৰ সৈতে সন্ধান কৰক
