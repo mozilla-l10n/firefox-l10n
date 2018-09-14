@@ -15,3 +15,7 @@ findbar-highlight-all =
     .label = అన్నిటిని ఉద్దీపనం చేయుము
     .accesskey = A
     .tooltiptext = పదంయొక్క అన్ని సంభవాలను ఉద్దీపనం చేయుము
+findbar-case-sensitive =
+    .label = బడిని సరిపోల్చు
+    .accesskey = c
+    .tooltiptext = చిన్నపెద్ద అక్షరతేడా గుర్తిస్తూ వెతుకు
