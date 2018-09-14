@@ -5,5 +5,13 @@
 
 ### This file contains the entities needed to use the Find Bar.
 
+findbar-next =
+    .tooltiptext = పదం యొక్క తర్వాతి సంభవాన్ని కనుగొను
+findbar-previous =
+    .tooltiptext = పదంయొక్క ముందలి సంభవాన్ని కనుగొను
 findbar-find-button-close =
     .tooltiptext = కనుగొను పట్టీని మూసివేయి
+findbar-highlight-all =
+    .label = అన్నిటిని ఉద్దీపనం చేయుము
+    .accesskey = A
+    .tooltiptext = పదంయొక్క అన్ని సంభవాలను ఉద్దీపనం చేయుము
