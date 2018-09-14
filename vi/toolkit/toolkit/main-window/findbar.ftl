@@ -5,5 +5,17 @@
 
 ### This file contains the entities needed to use the Find Bar.
 
+findbar-next =
+    .tooltiptext = Tìm cụm từ ở phần sau
 findbar-previous =
     .tooltiptext = Tìm cụm từ ở phần trước
+findbar-find-button-close =
+    .tooltiptext = Đóng thanh Tìm kiếm
+findbar-case-sensitive =
+    .label = Phân biệt HOA-thường
+    .accesskey = A
+    .tooltiptext = Tìm kiếm có phân biệt chữ hoa và chữ thường
+findbar-entire-word =
+    .label = Toàn bộ từ
+    .accesskey = T
+    .tooltiptext = Chỉ tìm toàn bộ từ
