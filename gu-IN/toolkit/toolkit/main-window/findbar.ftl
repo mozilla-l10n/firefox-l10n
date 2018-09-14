@@ -15,3 +15,7 @@ findbar-case-sensitive =
     .label = કેસ સરખાવો
     .accesskey = c
     .tooltiptext = કેસ સંવેદનશીલતાથી શોધો
+findbar-entire-word =
+    .label = આખા શબ્દો
+    .accesskey = w
+    .tooltiptext = ફક્ત સંપૂર્ણ શબ્દો શોધો
