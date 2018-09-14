@@ -4,7 +4,6 @@
 
 crash-reports-title = Správy o zlyhaní
 clear-all-reports-label = Odstrániť všetky správy
-delete-confirm-title = Naozaj chcete odstrániť?
 delete-confirm-description = Týmto odstránite všetky správy o zlyhaní. Akciu nie je možné vrátiť späť.
 crashes-unsubmitted-label = Neodoslané správy o zlyhaní
 id-heading = Identifikátor správy
