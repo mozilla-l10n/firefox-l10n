@@ -19,3 +19,7 @@ findbar-case-sensitive =
     .label = Respectar la cassa
     .accesskey = R
     .tooltiptext = Efectuar una recèrca en respectant la cassa
+findbar-entire-word =
+    .label = Mots entièrs
+    .accesskey = m
+    .tooltiptext = Cercar sonque los mots entièrs
