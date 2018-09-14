@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = A kifejezés előző előfordulásának keresése
 findbar-find-button-close =
     .tooltiptext = Keresősáv bezárása
+findbar-case-sensitive =
+    .label = Kis- és nagybetűk
+    .accesskey = i
+    .tooltiptext = Keresés kis- és nagybetűk megkülönböztetésével
