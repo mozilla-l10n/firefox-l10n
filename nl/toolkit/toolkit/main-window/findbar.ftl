@@ -7,3 +7,7 @@
 
 findbar-find-button-close =
     .tooltiptext = Zoekbalk sluiten
+findbar-case-sensitive =
+    .label = Hoofdlettergevoelig
+    .accesskey = o
+    .tooltiptext = Hoofdlettergevoelig zoeken
