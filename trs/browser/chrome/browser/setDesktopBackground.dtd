@@ -2,4 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY position.label             "Daj nikïn' ma:">
+<!ENTITY tile.label                 "'Ngò nanj dasu">
 <!ENTITY center.label               "Danïïn">
+<!ENTITY stretch.label              "Dùkua ma">
+<!ENTITY fill.label                 "Nachro'">
+<!ENTITY fit.label                  "Nagi'io'">
+<!ENTITY preview.label              "Daj gá ma">
+<!ENTITY color.label                "kolô:">
+<!ENTITY setDesktopBackground.title "Gachrun' ma riña pantayâ si ago'...">
+<!ENTITY openDesktopPrefs.label     "Na'nït preferencia">
+<!ENTITY closeWindow.key            "w">
