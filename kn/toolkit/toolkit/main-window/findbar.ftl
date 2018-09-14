@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = ವಾಕ್ಯದ ಹಿಂದಿನ ಇರುವಿಕೆಯನ್ನು ಹುಡುಕು
 findbar-find-button-close =
     .tooltiptext = ಹುಡುಕು ಪಟ್ಟಿಯನ್ನು ಮುಚ್ಚು
+findbar-case-sensitive =
+    .label = ಕೇಸನ್ನು Match
+    .accesskey = c
+    .tooltiptext = ಕೇಸ್‌ನ ಸಂವೇದನೆಯೊಂದಿಗೆ ಹುಡುಕಿ
