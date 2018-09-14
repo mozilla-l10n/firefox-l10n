@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "بعدی">
 
 <!ENTITY firstrun_tabqueue_title "پیوندها">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "روشن کردن صف زبانه‌ها">
-<!ENTITY firstrun_tabqueue_subtext_off "هنگام ضربه زدن به پیوندها در سایر برنامه‌ها، آنها را در &brandShortName; برای آینده ذخیره کنید.">
-
-<!ENTITY firstrun_tabqueue_message_on "با موفقیت انجام شد!">
-<!ENTITY firstrun_tabqueue_subtext_on "همیشه می‌توانید این امکان را در &settings; تحت عنوان &pref_category_general; خاموش کنید.">
 
 <!ENTITY firstrun_readerview_title "مقالات">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "راه‌اندازی مجدد &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "جستجو کنید یا آدرسی را وارد کنید">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "بازآوری زبانه‌ها، ذخیره‌کننده اطلاعات، ابزارهای توسعه">
 <!ENTITY pref_category_notifications "اعلان‌ها">
-<!ENTITY pref_category_notifications_summary "امکانات جدید، بروزرسانی‌های وب‌سایت">
 <!ENTITY pref_category_notifications_summary2 "امکانات جدید، نکاتِ محصول">
 <!ENTITY pref_developer_remotedebugging_usb "رفع اشکال از راه دور به واسطه‌ی USB">
 <!ENTITY pref_developer_remotedebugging_wifi "رفع اشکال از راه دور به وسیله Wi-Fi">
@@ -908,3 +900,7 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "&vendorShortName; خدمات بر اساس موقعیت">
 <!ENTITY download_notification_channel "دریافت‌ها">
 <!ENTITY media_notification_channel "بازپخش رسانه">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "پرتاب هشدار&brandShortName;">
+<!ENTITY updater_notification_channel "بروزرسانی برنامه">
+<!ENTITY synced_tabs_notification_channel "زبانه‌های همگام‌سازی شده">
