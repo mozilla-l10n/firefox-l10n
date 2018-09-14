@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = বাক্যাংশের পূর্ববর্তী উপস্থিতি অনুসন্ধান
 findbar-find-button-close =
     .tooltiptext = অনুসন্ধান বার বন্ধ করুন
+findbar-entire-word =
+    .label = সম্পূর্ণ শব্দ
+    .accesskey = W
+    .tooltiptext = শুধুমাত্র সম্পূর্ণ শব্দ অনুসন্ধান
