@@ -9,3 +9,5 @@ findbar-next =
     .tooltiptext = Bir sonraki eşleşen kelimeyi bulur
 findbar-previous =
     .tooltiptext = Bir önceki eşleşen kelimeyi bulur
+findbar-find-button-close =
+    .tooltiptext = Arama çubuğunu kapat
