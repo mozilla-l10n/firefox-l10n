@@ -19,3 +19,7 @@ findbar-case-sensitive =
     .label = 대문자/소문자 구분
     .accesskey = c
     .tooltiptext = 대문자/소문자를 구분해서 검색합니다.
+findbar-entire-word =
+    .label = 단어 일치
+    .accesskey = w
+    .tooltiptext = 단어가 일치하는 경우만 검색
