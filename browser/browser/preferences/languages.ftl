@@ -5,6 +5,9 @@
 languages-window =
     .title = Jeziki
     .style = width: 30em
+webpage-languages-window =
+    .title = Nastavitve jezikov spletnih strani
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Spletne strani so včasih na voljo v več jezikih. Izberite prednostni vrstni red jezikov za prikaz strani
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale } [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Nastavitve jezikov { -brand-short-name }a
+    .style = width: 40em

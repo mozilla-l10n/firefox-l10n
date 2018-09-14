@@ -6,6 +6,8 @@ do-not-track-description = S signalom “Brez sledenja” sporočaj spletnim str
 do-not-track-learn-more = Več o tem
 do-not-track-option-default =
     .label = Samo pri uporabi zaščite pred sledenjem
+do-not-track-option-default-content-blocking =
+    .label = Samo, ko je { -brand-short-name } nastavljen na zavračanje zaznanih sledilcev
 do-not-track-option-always =
     .label = Vedno
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = Razširitev <img data-l10n-name="icon"
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Razširitev <img data-l10n-name="icon"/> { $name } nadzoruje zaščito pred sledenjem.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = To nastavitev nadzira razširitev <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Razširitev <img data-l10n-name="icon"/> { $name } nadzira, kako { -brand-short-name } vzpostavi povezavo z internetom.
@@ -325,6 +330,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Omrežni posrednik
+network-settings-title = Nastavitve omrežja
 network-proxy-connection-description = Nastavite, kako se { -brand-short-name } poveže z internetom.
 network-proxy-connection-learn-more = Več o tem
 network-proxy-connection-settings =
@@ -608,12 +614,26 @@ sitedata-accept-third-party-visited-option =
     .label = Izmed obiskanih
 sitedata-accept-third-party-never-option =
     .label = Nikoli
+sitedata-allow-cookies-option =
+    .label = Sprejemaj piškotke in podatke strani
+    .accesskey = S
+sitedata-disallow-cookies-option =
+    .label = Zavračaj piškotke in podatke strani
+    .accesskey = Z
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Zavračaj
+    .accesskey = Z
 sitedata-block-trackers-option-recommended =
     .label = Sledilce tretjih strani (priporočeno)
 sitedata-block-trackers-option =
     .label = Sledilce tretjih strani
 sitedata-block-unvisited-option =
     .label = Piškotke neobiskanih spletnih strani
+sitedata-block-all-third-party-option =
+    .label = Vse piškotke tretjih strani (lahko povzroči nedelovanje spletnih strani)
+sitedata-block-all-option =
+    .label = Vse piškotke (povzroči nedelovanje spletnih strani)
 sitedata-clear =
     .label = Počisti podatke …
     .accesskey = č
@@ -656,12 +676,39 @@ content-blocking-toggle-label-on = VKLJUČENO
 content-blocking-toggle-label-off = IZKLJUČENO
     .accesskey = I
 content-blocking-category-label = Izberite, kaj želite zavračati
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Počasne sledilce
+    .accesskey = č
+content-blocking-fastblock-new-description = Zavračaj samo sledilce, ki upočasnjujejo nalaganje strani.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Vse zaznane sledilce
+    .accesskey = V
 content-blocking-tracking-protection-option-always =
     .label = Vedno
     .accesskey = V
 content-blocking-tracking-protection-option-private =
     .label = Le v zasebnih oknih
     .accesskey = s
+content-blocking-tracking-protection-change-block-list = Zamenjaj seznam za zavračanje
+content-blocking-third-party-cookies-label =
+    .label = Piškotke tretjih strani
+    .accesskey = t
+content-blocking-reject-trackers-description = Zavračaj vse piškotke tretjih strani ali samo tiste, ki jih nastavijo sledilci.
+content-blocking-change-cookie-settings =
+    .label = Spremeni nastavitve piškotkov
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Sledilce (priporočeno)
+    .accesskey = d
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Sledilce
+    .accesskey = d
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Vse piškotke tretjih strani (lahko povzroči nedelovanje spletnih strani)
+    .accesskey = V
 
 ## Privacy Section - Tracking
 
