@@ -5,6 +5,9 @@
 languages-window =
     .title = Jazyky a kódovanie
     .style = width: 30em
+webpage-languages-window =
+    .title = Jazyk webových stránok
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Webové stránky sú niekedy ponúkané vo viac než jednom jazyku. Vyberte jazyky takýchto stránok v poradí podľa svojej priority
