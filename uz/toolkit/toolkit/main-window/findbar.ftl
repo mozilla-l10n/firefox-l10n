@@ -15,3 +15,7 @@ findbar-case-sensitive =
     .label = Katta-kichik harflarni farqlash
     .accesskey = c
     .tooltiptext = Harflar katta-kichikligini farqlab izlash
+findbar-entire-word =
+    .label = Butun so‘zlar
+    .accesskey = B
+    .tooltiptext = Faqat butun so‘zlar izlansin
