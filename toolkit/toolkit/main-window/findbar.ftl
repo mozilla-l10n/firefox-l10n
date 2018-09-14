@@ -5,5 +5,17 @@
 
 ### This file contains the entities needed to use the Find Bar.
 
+findbar-next =
+    .tooltiptext = Găsește apariția următoare a textului
+findbar-previous =
+    .tooltiptext = Găsește apariția anterioară a textului
 findbar-find-button-close =
     .tooltiptext = Închide bara de căutare
+findbar-highlight-all =
+    .label = Evidențiază toate
+    .accesskey = a
+    .tooltiptext = Evidențiază toate aparițiile textului
+findbar-entire-word =
+    .label = Cuvinte întregi
+    .accesskey = W
+    .tooltiptext = Caută numai cuvinte întregi
