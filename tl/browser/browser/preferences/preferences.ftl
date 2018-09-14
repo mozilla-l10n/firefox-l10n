@@ -77,10 +77,10 @@ restart-later = I-restart Mamaya
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = Ang extension, <img data-l10n-name="icon"/>, ay kumokontrol sa iyong home page.
+extension-controlled-homepage-override = Ang extension, <img data-l10n-name="icon"/> { $name }, ay kumokontrol sa iyong home page.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = Ang extension, <img data-l10n-name="icon"/>, ay kumokontrol sa iyong Bagong Tab page.
+extension-controlled-new-tab-url = Ang extension, <img data-l10n-name="icon"/> { $name }, ay kumokontrol sa iyong Bagong Tab page.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Ang extension, <img data-l10n-name="icon"/> { $name }, ay sinet ang iyong default search engine.
@@ -103,7 +103,7 @@ search-results-empty-message =
         [windows] Paumanhin! Walang mga resulta sa Mga Pagpipilian para sa “<span data-l10n-name="query"></span>”.
        *[other] Paumanhin! Walang mga resulta sa Mga Kagustuhan para sa “<span data-l10n-name="query"></span>”.
     }
-search-results-help-link = Kailangan ng tulong? Bisitahin ang <a data-l10n-name="url"> Support </a>
+search-results-help-link = Kailangan ng tulong? Bisitahin ang <a data-l10n-name="url">{ -brand-short-name } Support </a>
 
 ## General Section
 
