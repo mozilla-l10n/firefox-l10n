@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = Find the previous occurrence of the phrase
 findbar-find-button-close =
     .tooltiptext = Close find bar
+findbar-case-sensitive =
+    .label = Match Case
+    .accesskey = c
+    .tooltiptext = Search with case sensitivity
