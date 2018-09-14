@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = இந்த சொற்றொடரின் முந்தைய நிகழ்வை தேடு
 findbar-find-button-close =
     .tooltiptext = தேடு பட்டியை மூடு
+findbar-case-sensitive =
+    .label = வழக்கு பொருத்தும் (c)
+    .accesskey = c
+    .tooltiptext = உணர்திறன் வழக்கத்துடன் தேடு
