@@ -459,7 +459,7 @@
 
 <!ENTITY quit "Ffeɣ">
 
-<!ENTITY addons "Izegrar imernan">
+<!ENTITY addons "Izegrar">
 <!ENTITY logins "Inekcam">
 <!ENTITY downloads "Isidar">
 <!ENTITY char_encoding "Asengel n Tfinaɣin">
@@ -795,7 +795,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restrictable_feature_addons_installation "Izegrar imernan">
+<!ENTITY restrictable_feature_addons_installation "Izegrar">
 <!ENTITY restrictable_feature_addons_installation_description "Rnu timeẓliyin neɣ timahilin ɣer Firefox: Rnu izegrar i yezemren ad kksen armad n kra tsuraf.">
 <!ENTITY restrictable_feature_private_browsing "Tunigin tusligt">
 <!ENTITY restrictable_feature_private_browsing_description "Eǧǧ tawacult-ik ad tesnirem s war asekles n telɣut ɣef ismal akked isebtar i walan.">
