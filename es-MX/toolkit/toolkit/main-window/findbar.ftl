@@ -19,3 +19,7 @@ findbar-case-sensitive =
     .label = Sensible a mayúsculas
     .accesskey = m
     .tooltiptext = Buscar distinguiendo mayúsculas y minúsculas
+findbar-entire-word =
+    .label = Palabras completas
+    .accesskey = w
+    .tooltiptext = Buscar solo palabras completas
