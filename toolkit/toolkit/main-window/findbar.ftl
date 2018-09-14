@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = Pronađi prethodno javljanje ovog izraza
 findbar-find-button-close =
     .tooltiptext = Zatvori traku pretraživanja
+findbar-case-sensitive =
+    .label = Osjetljivo na veličinu slova
+    .accesskey = j
+    .tooltiptext = Pretraživanje osjetljivo na velika i mala slova
