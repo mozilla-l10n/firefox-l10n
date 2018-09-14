@@ -5,5 +5,21 @@
 
 ### This file contains the entities needed to use the Find Bar.
 
+findbar-next =
+    .tooltiptext = Das nächste Vorkommen des Ausdrucks suchen
+findbar-previous =
+    .tooltiptext = Das vorherige Vorkommen des Ausdrucks suchen
 findbar-find-button-close =
     .tooltiptext = Suchleiste schließen
+findbar-highlight-all =
+    .label = Hervorheben
+    .accesskey = H
+    .tooltiptext = Jedes Vorkommen des Ausdrucks im Text hervorheben
+findbar-case-sensitive =
+    .label = Groß-/Kleinschreibung
+    .accesskey = G
+    .tooltiptext = Bei der Suche zwischen Groß- und Kleinschreibung unterscheiden
+findbar-entire-word =
+    .label = Ganze Wörter
+    .accesskey = W
+    .tooltiptext = Nur nach vollständig übereinstimmenden Wörtern suchen
