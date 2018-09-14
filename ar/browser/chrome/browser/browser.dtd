@@ -255,7 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "لقد حجبت التنبيهات عن هذا الموقع.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "لقد حجبت الحفظ الدائم للبيانات عن هذا الموقع.">
 <!ENTITY urlbar.popupBlocked.tooltip             "لقد حجبت المنبثقات من هذا الموقع.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "لقد حجبت تشغيل الوسائط المحتوية على صوت تلقائيا في هذا الموقع.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "لقد حجبت تشغيل الوسائط التي تحتوي صوتا تلقائيا في هذا الموقع.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "لقد منعت استخراج بيانات رقعة الرسم في هذا الموقع.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "لقد حجبت هذا الموقع من استخدام ملحقة أدوبي فلاش.">
 <!ENTITY urlbar.midiBlocked.tooltip              "لقد حجبنا عن هذا الموقع الوصول إلى MIDI.">
@@ -446,6 +446,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "خ">
 <!ENTITY customizeMenu.manageExtension.label "أدِر الامتداد">
 <!ENTITY customizeMenu.manageExtension.accesskey "د">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -1108,6 +1109,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "أدِر الامتدادات…">
 
 <!ENTITY pageAction.sendTabToDevice.label "أرسِل اللسان إلى جهاز">
+
 <!ENTITY sendToDevice.syncNotReady.label "يُزامن الأجهزة…">
 
 <!ENTITY pageAction.shareUrl.label "شارِك">
