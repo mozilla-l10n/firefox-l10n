@@ -19,3 +19,7 @@ findbar-case-sensitive =
     .label = బడిని సరిపోల్చు
     .accesskey = c
     .tooltiptext = చిన్నపెద్ద అక్షరతేడా గుర్తిస్తూ వెతుకు
+findbar-entire-word =
+    .label = పూర్తి పదాలు
+    .accesskey = w
+    .tooltiptext = పూర్తి పదాలు మాత్రమే వెతుకు
