@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = Cari teks frasa berkenaan yang terdahulu
 findbar-find-button-close =
     .tooltiptext = Tutup Bar Carian
+findbar-highlight-all =
+    .label = Serlahkan Semua
+    .accesskey = a
+    .tooltiptext = Serlahkan semua frasa berkenaan
