@@ -19,3 +19,7 @@ findbar-case-sensitive =
     .label = Concasar mayúscules
     .accesskey = C
     .tooltiptext = Fai concasar les mayúscules
+findbar-entire-word =
+    .label = Pallabres completes
+    .accesskey = a
+    .tooltiptext = Guetar namái pallabres completes
