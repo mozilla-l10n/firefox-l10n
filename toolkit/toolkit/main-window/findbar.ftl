@@ -15,3 +15,7 @@ findbar-highlight-all =
     .label = Marcar todo
     .accesskey = t
     .tooltiptext = Marcar todas las frases encontradas
+findbar-case-sensitive =
+    .label = Sensible a mayúsculas
+    .accesskey = m
+    .tooltiptext = Buscar distinguiendo mayúsculas y minúsculas
