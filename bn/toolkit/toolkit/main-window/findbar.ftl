@@ -9,3 +9,5 @@ findbar-next =
     .tooltiptext = বাক্যাংশের পরবর্তী উপস্থিতি অনুসন্ধান
 findbar-previous =
     .tooltiptext = বাক্যাংশের পূর্ববর্তী উপস্থিতি অনুসন্ধান
+findbar-find-button-close =
+    .tooltiptext = অনুসন্ধান বার বন্ধ করুন
