@@ -9,3 +9,5 @@ findbar-next =
     .tooltiptext = San hu fres no wɔ enim baako
 findbar-previous =
     .tooltiptext = San hu fres wɔ ekyiri baako
+findbar-find-button-close =
+    .tooltiptext = To find-baa mu
