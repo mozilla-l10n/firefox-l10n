@@ -5,6 +5,16 @@
 
 ### This file contains the entities needed to use the Find Bar.
 
+findbar-next =
+    .tooltiptext = Trovar le successive occurrentia del phrase
+findbar-previous =
+    .tooltiptext = Trovar le previe occurrentia del phrase
+findbar-find-button-close =
+    .tooltiptext = Clauder barra de recerca
+findbar-highlight-all =
+    .label = Evidentiar toto
+    .accesskey = E
+    .tooltiptext = Evidentiar le occurrentia successive del phrase
 findbar-case-sensitive =
     .label = Distinger majusculas/minusculas
     .accesskey = D
