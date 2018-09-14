@@ -628,10 +628,6 @@ sitedata-block-trackers-option =
     .label = متعقّبات الأطراف الثالثة
 sitedata-block-unvisited-option =
     .label = الكعكات من المواقع غير المُزارة
-sitedata-block-all-third-parties-option =
-    .label = كل كعكات الأطراف الثالثة
-sitedata-block-always-option =
-    .label = كل الكعكات (قد يتسبّب بعطب بعض المواقع)
 sitedata-clear =
     .label = امسح البيانات…
     .accesskey = س
@@ -674,26 +670,6 @@ content-blocking-toggle-label-on = مفعّل
 content-blocking-toggle-label-off = معطّل
     .accesskey = ع
 content-blocking-category-label = اختر ما الذي تريد حجبه
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = عناصر التعقّب البطيئة
-    .accesskey = ن
-content-blocking-fastblock-description = لحجب المحتوى من الأطراف الثالثة والذي يأخذ أكثر من ٥ ثواني تحميل.
-content-blocking-fastblock-option-enabled =
-    .label = احجب دائمًا
-content-blocking-fastblock-option-disabled =
-    .label = لا تحجب أبدًا
-content-blocking-tracking-protection-label = المتعقّبات
-    .accesskey = ق
-content-blocking-tracking-protection-description = لحجب كل المتعقّبات المعروفة (لاحظ أن هذا قد يمنع تحميل بعض الصفحات).
-content-blocking-tracking-protection-option-enabled =
-    .label = احجب دائمًا
-content-blocking-tracking-protection-option-pbm =
-    .label = احجب في النوافذ الخاصة فقط
-content-blocking-tracking-protection-option-disabled =
-    .label = لا تحجب أبدًا
-content-blocking-tracking-protection-change-blocklist = غيّر قائمة الحجب…
 content-blocking-tracking-protection-change-block-list = غيّر قائمة الحجب
 
 ## Privacy Section - Tracking
@@ -745,7 +721,7 @@ permissions-notification-pause =
     .label = ألبِث التنبيهات حتى يُعاد تشغيل { -brand-short-name }
     .accesskey = ث
 permissions-block-autoplay-media =
-    .label = امنع المواقع من تشغيل الوسائط المحتوية على صوت تلقائيا
+    .label = امنع المواقع من تشغيل الوسائط التي تحتوي صوتا تلقائيا
     .accesskey = م
 permissions-block-autoplay-media-menu = عند فتحي مواقع تُشغّل الصوت تلقائيا
 permissions-block-autoplay-media-exceptions =
