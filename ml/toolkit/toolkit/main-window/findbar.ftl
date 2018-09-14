@@ -11,3 +11,7 @@ findbar-previous =
     .tooltiptext = വാചകം ഇതിനു മുന്‍പ്‌ ആവര്‍ത്തിച്ചത്‌ കണ്ടെത്തുക{ " " }
 findbar-find-button-close =
     .tooltiptext = തിരച്ചിലിനുള്ള പട്ട അടക്കുക
+findbar-case-sensitive =
+    .label = അക്ഷരങ്ങള്‍ ഒത്തുനോക്കുക
+    .accesskey = ഒ
+    .tooltiptext = കേസ് സെന്‍സിറ്റിവിറ്റി ഉപയോഗിച്ചു് തെരയുക
