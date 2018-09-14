@@ -52,7 +52,7 @@ category-privacy =
 pane-sync-title = Akaun Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
-help-button-label = { -brand-short-name } Sokongan
+help-button-label = Sokongan { -brand-short-name }
 focus-search =
     .key = f
 close-button =
@@ -615,10 +615,6 @@ sitedata-block-trackers-option =
     .label = Penjejak pihak ketiga
 sitedata-block-unvisited-option =
     .label = Kuki daripada laman web yang tidak dilawati
-sitedata-block-all-third-parties-option =
-    .label = Semua kuki pihak ketiga
-sitedata-block-always-option =
-    .label = Semua kuki (boleh menyebabkan laman web ranap)
 sitedata-block-all-third-party-option =
     .label = Semua kuki pihak ketiga (boleh menyebabkan laman web pecah)
 sitedata-block-all-option =
@@ -669,26 +665,6 @@ content-blocking-toggle-label-on = AKTIF
 content-blocking-toggle-label-off = NYAHAKTIF
     .accesskey = N
 content-blocking-category-label = Pilih apa yang disekat
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Memperlahankan Elemen Penjejak
-    .accesskey = M
-content-blocking-fastblock-description = Sekat kandungan pihak ketiga yang lebih daripada 5 saat untuk dimuatkan.
-content-blocking-fastblock-option-enabled =
-    .label = Sentiasa sekat
-content-blocking-fastblock-option-disabled =
-    .label = Jangan sekat
-content-blocking-tracking-protection-label = Penjejak
-    .accesskey = P
-content-blocking-tracking-protection-description = Sekat semua penjejak yang diketahui (Nota: mungkin menghalang sesetengah halaman daripada dimuatkan).
-content-blocking-tracking-protection-option-enabled =
-    .label = Sentiasa sekat
-content-blocking-tracking-protection-option-pbm =
-    .label = Sekat hanya dalam tertingkap peribadi
-content-blocking-tracking-protection-option-disabled =
-    .label = Jangan sekat
-content-blocking-tracking-protection-change-blocklist = Tukar Senarai Sekatan…
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
