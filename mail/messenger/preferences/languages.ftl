@@ -9,6 +9,6 @@ languages-customize-movedown =
     .label = Siirry alas
     .accesskey = a
 messenger-languages-window =
-    .title = { -brand-short-name } kieliasetukset
+    .title = { -brand-short-name }-kieliasetukset
     .style = width: 40em
 messenger-languages-description = { -brand-short-name } näyttää ensimmäisen kielen oletuskielenä ja tarvittaessa muut kielet siinä järjestyksessä kuin ne ilmenevät.
