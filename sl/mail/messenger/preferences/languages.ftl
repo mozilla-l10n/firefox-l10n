@@ -8,3 +8,6 @@ languages-customize-moveup =
 languages-customize-movedown =
     .label = Premakni dol
     .accesskey = d
+messenger-languages-window =
+    .title = Nastavitve jezikov { -brand-short-name }a
+    .style = width: 40em
