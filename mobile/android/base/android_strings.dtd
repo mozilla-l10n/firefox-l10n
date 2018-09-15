@@ -73,7 +73,7 @@
 <!ENTITY url_bar_mic_text2 "खोज या पता दर्ज करने के लिए अपने माइक्रोफोन का इस्तेमाल करें">
 
 <!ENTITY bookmark "बुकमार्क">
-<!ENTITY bookmark_remove "बुकमार्क मिटाएँ">
+<!ENTITY bookmark_remove "बुकमार्क हटाएँ">
 <!ENTITY bookmark_added "बुकमार्क जोड़ा गया">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
