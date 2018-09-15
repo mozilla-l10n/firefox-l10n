@@ -33,3 +33,25 @@ policy-DisableMasterPasswordCreation = Ja iestatīts, nevar iestatīt galveno pa
 policy-DisablePocket = Deaktivē iespēju saglabāt lapas Pocket.
 policy-DisablePrivateBrowsing = Deaktivē privāto pārūkošanu.
 policy-DisableProfileImport = Deaktivē iespēju importēt datus no cita pārlūka.
+policy-DisableProfileRefresh = Deaktivē { -brand-short-name } atjaunināšanas pogu  about:support lapā
+policy-DisableSafeMode = Deaktivē iespēju pārstartēties drošajā režīmā. Piezēmi: Shift taustiņa lietošanu, lai ieslēgtos drošajā režīmā ir iespējams atslēgt vienīgi Windows platformā.
+policy-DisableSecurityBypass = Liedz lietotājam apiet noteiktus drošības brīdinājumus.
+policy-DisableSetDesktopBackground = Deaktivē izvēlnes iespēju Iestatīt kā darba virsmas fona attēlu.
+policy-DisableSetAsDesktopBackground = Deaktivē attēlu izvēlnes iespēju Iestatīt kā darba virsmas fona attēlu.
+policy-DisableSystemAddonUpdate = Liedz pārlūkam atjaunināt un instalēt sistēmas papildinājumus.
+policy-DisableTelemetry = Atslēdz telemetriju.
+policy-DisplayBookmarksToolbar = Pēc noklusējuma rāda grāmatzīmju rīkjoslu.
+policy-DisplayMenuBar = Pēc noklusējuma rāda izvēlnes joslu.
+policy-DontCheckDefaultBrowser = Deaktivē noklusētā pārlūka pārbaudi startējot.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Aktivē vai deaktivē satura bloķēšanu.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Instalē, atinstalē vai fiksē papildinājumus. Instalēšanas iespējai ir jānorāda adreses vai sistēmas ceļi. Atinstalēšanas un fiksēšanas iespējai paplašinājuma ID.
+policy-FlashPlugin = Atļauj vai lieds Flash spraudņa izmantošanu.
+policy-HardwareAcceleration = Ja atslēgts (false), atslēdz aparatūras paātrināšanu.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Iestata un iespējams fiksē sākuma lapu.
+policy-InstallAddonsPermission = Ļauj konkrētām lapām instalēt papildinājumus.
