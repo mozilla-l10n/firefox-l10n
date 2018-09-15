@@ -12,6 +12,6 @@ findbar-previous =
 findbar-find-button-close =
     .tooltiptext = खोज पट्टी बन्न करू
 findbar-case-sensitive =
-    .label = मिलान स्थिति (c)
+    .label = मिलान स्थिति
     .accesskey = c
     .tooltiptext = केस संवेदनशीलतासँ खोजू
