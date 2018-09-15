@@ -15,6 +15,7 @@ policy-BlockAboutAddons = ปิดกั้นการเข้าถึงต
 policy-BlockAboutConfig = ปิดกั้นการเข้าถึงหน้า about:config
 policy-BlockAboutProfiles = ปิดกั้นการเข้าถึงหน้า about:profiles
 policy-BlockAboutSupport = ปิดกั้นการเข้าถึงหน้า about:support
+policy-DisableDeveloperTools = ปิดกั้นการเข้าถึงเครื่องมือนักพัฒนา
 policy-DisablePrivateBrowsing = ปิดใช้งานการท่องเว็บแบบส่วนตัว
 policy-DisableTelemetry = ปิดการวัดและส่งข้อมูลทางไกล
 policy-Proxy = กำหนดค่าการตั้งค่าพร็อกซี
