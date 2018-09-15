@@ -190,6 +190,10 @@ choose-language-description = စာမျက်နှာများကို �
 choose-button =
     .label = ရွေးပါ...
     .accesskey = o
+manage-browser-languages-button =
+    .label = အခြားရွေးစရာ သတ်မှတ်ရန်
+    .accesskey = I
+confirm-browser-language-change-button = သတ်မှတ်ပြီး ပြန်ဖွင့်ပါ
 translate-web-pages =
     .label = ဝဘ်စာမျက်နှာရှိ အကြောင်းအရာများကို ဘာသာပြန်ပါ
     .accesskey = T
@@ -303,6 +307,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = ကွန်ယက်ကြားခံဆာဗာ
+network-settings-title = ကွန်ယက် အပြင်အဆင်များ
 network-proxy-connection-learn-more = ပိုမိုလေ့လာရန်
 network-proxy-connection-settings =
     .label = အပြင်အဆင်များ...
@@ -539,9 +544,6 @@ history-dontremember-description = { -brand-short-name } က တူညီတဲ�
 history-private-browsing-permanent =
     .label = သီးသန့်ကြည့်ရှုခြင်းကို အမြဲ အသုံးပြုမည်
     .accesskey = p
-history-remember-option =
-    .label = ကြည့်ရှုမှတ်တမ်းနှင့် ဆွဲချချက်မှတ်တမ်းကို မှတ်ထားပါ
-    .accesskey = b
 history-remember-browser-option =
     .label = ကြည့်ရှုနှင့် ဆွဲယူမှုမှတ်တမ်းကို မှတ်ထားပါ
     .accesskey = b
@@ -583,6 +585,12 @@ sitedata-accept-third-party-visited-option =
     .label = ကြည့်ရှုထားသည့် နေ့မှစ၍
 sitedata-accept-third-party-never-option =
     .label = ဘယ်တော့မှ
+sitedata-allow-cookies-option =
+    .label = ကွတ်ကီးများနှင့် ဆိုက်အချက်အလက်ကို လက်ခံရန်
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = ကွတ်ကီးများနှင့် ဆိုက်အချက်အလက်ကို မသိမ်းရန်
+    .accesskey = B
 sitedata-clear =
     .label = အချက်အလက်ကို ရှင်းပါ...
     .accesskey = l
@@ -607,6 +615,17 @@ addressbar-locbar-openpage-option =
     .label = ဖွင့်ထားသည့် စာမျက်နှာများ
     .accesskey = O
 addressbar-suggestions-settings = ရှာဖွေရေးယန္တရား၏ အကြံပေးချက်များအတွက် အပြင်အဆင်ကို ပြောင်းလဲရန်
+
+## Privacy Section - Content Blocking
+
+content-blocking-learn-more = ပိုမိုလေ့လာရန်
+content-blocking-toggle-label-on = ဖွင့်
+    .accesskey = O
+content-blocking-toggle-label-off = ပိတ်
+    .accesskey = O
+content-blocking-tracking-protection-option-always =
+    .label = အမြဲ
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
@@ -658,6 +677,7 @@ permissions-notification-pause =
 permissions-block-autoplay-media-exceptions =
     .label = ခြွင်းချက်များ
     .accesskey = E
+permissions-autoplay-link = ပိုမိုလေ့လာရန်
 permissions-block-popups =
     .label = ပေါ့အပ်ဝင်းဒိုးများကို မဖွင့်ပါနှင့်
     .accesskey = B
