@@ -264,7 +264,7 @@ play-drm-content =
     .accesskey = ش
 play-drm-content-learn-more = اطّلع على المزيد
 update-application-title = تحديثات { -brand-short-name }
-update-application-description = أبقِ { -brand-short-name } للحصول على أحسن أداء و ثبات و أمان.
+update-application-description = أبقِ { -brand-short-name } محدّثا للحصول على أحسن أداء و ثبات و أمان.
 update-application-version = الإصدارة { $version } <a data-l10n-name="learn-more">ما الجديد</a>
 update-history =
     .label = أظهر تأريخ التحديث…
