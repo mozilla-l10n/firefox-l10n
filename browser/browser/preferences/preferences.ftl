@@ -595,12 +595,6 @@ content-blocking-toggle-label-on = BẬT
     .accesskey = O
 content-blocking-toggle-label-off = TẮT
     .accesskey = O
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-trackers-label =
-    .label = Trình theo dõi gây tải chậm
-    .accesskey = S
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Tất cả các trình theo dõi đã phát hiện
     .accesskey = T
