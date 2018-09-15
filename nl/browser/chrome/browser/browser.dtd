@@ -1079,7 +1079,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Een nieuwe kopie van &brandShorterName; downloaden">
 
 <!ENTITY updateRestart.message2 "Na een snelle herstart zal &brandShorterName; al uw open tabbladen en vensters herstellen die zich niet in privénavigatiemodus bevinden.">
-<!ENTITY updateRestart.header.message2 "Herstart om &brandShorterName; bij te werken.">
+<!ENTITY updateRestart.header.message2 "Herstarten om &brandShorterName; bij te werken.">
 <!ENTITY updateRestart.acceptButton.label "Herstarten en herstellen">
 <!ENTITY updateRestart.acceptButton.accesskey "H">
 <!ENTITY updateRestart.cancelButton.label "Niet nu">
