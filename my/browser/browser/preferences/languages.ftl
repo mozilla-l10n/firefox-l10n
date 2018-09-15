@@ -5,6 +5,9 @@
 languages-window =
     .title = ဘာသာစကားများ
     .style = width: 30em
+webpage-languages-window =
+    .title = ဝဘ်စာမျက်နှာ ဘာသာစကား အပြင်အဆင်များ
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = ဝဘ်စာမျက်နှာများသည် တစ်ခါတစ်ရံ ဘာသာစကားတစ်ခုထက်ပို၍ အသုံးပြုခွင့်ပေးသည်။ ထိုဝဘ်စာမျက်နှာများကို ပြရန် ဘာသာစကားများကို အစဉ်အလိုက် ရွေးပါ။
@@ -38,3 +41,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } ဘာသာစကား အပြင်အဆင်များ
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } သည် ပထမဦးစွာ ရွေးချယ်ထားသော ဘာသာစကားဖြင့် မူသေအနေနှင့် ပြသပါမည်။ ထိုဘာသာဖြင့် မပြသနိုင်ပါက နောက်ရွေးချယ်ထားသော ဘာသာစကားဖြင့် ပြသပါမည်။
