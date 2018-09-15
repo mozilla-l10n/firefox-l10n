@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Следеће">
 
 <!ENTITY firstrun_tabqueue_title "Везе">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Укључи низ језичака">
-<!ENTITY firstrun_tabqueue_subtext_off "Сачувајте везе за касније у &brandShortName;-у при додиру у другим апликацијама.">
-
-<!ENTITY firstrun_tabqueue_message_on "Браво!">
-<!ENTITY firstrun_tabqueue_subtext_on "Можете увек да искључите ову могућност у &settings; под &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Чланци">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "Рестартуј &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Претражи или унеси адресу">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Обнова језичака, штедња података, алати за развој">
 <!ENTITY pref_category_notifications "Обавештења">
-<!ENTITY pref_category_notifications_summary "Нове могућности, ажурирања веб сајта">
 <!ENTITY pref_category_notifications_summary2 "Нове могућности, савети за производе">
 <!ENTITY pref_developer_remotedebugging_usb "USB отклањање греш.">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi отклањање греш.">
@@ -911,3 +903,7 @@ Picture-in-picture mini window -->
 <!ENTITY mls_notification_channel "&vendorShortName; Сервис за локацију">
 <!ENTITY download_notification_channel "Преузимања">
 <!ENTITY media_notification_channel "Репродукција медије">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; Push обавештења">
+<!ENTITY updater_notification_channel "Ажурирања апликација">
+<!ENTITY synced_tabs_notification_channel "Синхронизовани јежичци">
