@@ -6,6 +6,8 @@ do-not-track-description = Пошаљите “Не желим да ме пра�
 do-not-track-learn-more = Сазнајте више
 do-not-track-option-default =
     .label = Само када користим заштиту од праћења
+do-not-track-option-default-content-blocking =
+    .label = Само када је { -brand-short-name } подешен да блокира детектоване пратиоце
 do-not-track-option-always =
     .label = Увек
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = Екстензија <img data-l10n-na
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Екстензија <img data-l10n-name="icon"/> { $name } управља заштитом од праћења.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Екстензија, <img data-l10n-name="icon"/> { $name }, управља овим поставкама
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Есктензија <img data-l10n-name="icon"/> { $name } управља начином на који се { -brand-short-name } повезује на интернет.
@@ -206,6 +211,9 @@ choose-button =
     .label = Избор…
     .accesskey = з
 choose-browser-language-description = Изаберите језике који се користе за приказивање { -brand-short-name } менија, порука и обавештења.
+manage-browser-languages-button =
+    .label = Постави алтернативне
+    .accesskey = П
 confirm-browser-language-change-description = Рестарујте { -brand-short-name } да примените ове измене
 confirm-browser-language-change-button = Примени и рестартуј
 translate-web-pages =
@@ -322,6 +330,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Мрежни прокси
+network-settings-title = Поставке мреже
 network-proxy-connection-description = Подесите начин на који се { -brand-short-name } повезује на интернет.
 network-proxy-connection-learn-more = Сазнајте више
 network-proxy-connection-settings =
@@ -560,9 +569,6 @@ history-dontremember-description = { -brand-short-name } ће користити
 history-private-browsing-permanent =
     .label = Увек користи режим приватног прегледања
     .accesskey = в
-history-remember-option =
-    .label = Запамти мој историјат прегледања и преузимања
-    .accesskey = З
 history-remember-browser-option =
     .label = Бележи историјат прегледања и преузимања
     .accesskey = Б
@@ -624,10 +630,10 @@ sitedata-block-trackers-option =
     .label = Пратиоци трећих лица
 sitedata-block-unvisited-option =
     .label = Колачиће непосећених веб сајтова
-sitedata-block-all-third-parties-option =
-    .label = Све колачиће трећих лица
-sitedata-block-always-option =
-    .label = Све колачиће (може срушити веб сајт)
+sitedata-block-all-third-party-option =
+    .label = Све колачиће трећих лица (може срушити веб сајтове)
+sitedata-block-all-option =
+    .label = Све колачиће (рушиће веб сајтове)
 sitedata-clear =
     .label = Обриши податке…
     .accesskey = б
@@ -637,6 +643,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Изузеци
     .accesskey = И
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Ваше поставке блокирања садржаја спречавају промене поставки за колачиће и податке сајта.
 
 ## Privacy Section - Address Bar
 
@@ -673,23 +683,42 @@ content-blocking-category-label = Изаберите шта да блокира�
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Успоравајуће елементе
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Успоравајуће пратиоце
     .accesskey = У
-content-blocking-fastblock-description = Блокирај садржај трећих лица који се учитава дуже од 5 секунди.
-content-blocking-fastblock-option-enabled =
-    .label = Увек блокирај
-content-blocking-fastblock-option-disabled =
-    .label = Немој никад блокирати
-content-blocking-tracking-protection-label = Пратиоце
+content-blocking-fastblock-new-description = Блокирајте само једног пратиоца који спречава страницу да се учитава брзо.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Све детектоване пратиоце
+    .accesskey = С
+content-blocking-tracking-protection-new-description = Блокирајте све познате пратиоце. (Може спречити неке странице да се учитају.)
+content-blocking-tracking-protection-option-always =
+    .label = Увек
+    .accesskey = У
+content-blocking-tracking-protection-option-private =
+    .label = Само у приватним прозорима
+    .accesskey = С
+content-blocking-tracking-protection-change-block-list = Измени листу блокираних елемената
+content-blocking-third-party-cookies-label =
+    .label = Колачиће трећих лица
+    .accesskey = К
+content-blocking-reject-trackers-description = Блокирајте све колачиће трећих лица или само оне  које су поставили пратиоци.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Ваше поставке колачића и података сајта спречавају промене поставки колачића трећих лица.
+content-blocking-change-cookie-settings =
+    .label = Измени поставке колачића
+    .accesskey = И
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Пратиоце (препоручено)
     .accesskey = П
-content-blocking-tracking-protection-description = Блокирај све познате пратиоце (Напомена: може спречити неке странице да се учитају).
-content-blocking-tracking-protection-option-enabled =
-    .label = Увек блокирај
-content-blocking-tracking-protection-option-pbm =
-    .label = Блокирај само у приватним прозорима
-content-blocking-tracking-protection-option-disabled =
-    .label = Немој никад блокирати
-content-blocking-tracking-protection-change-blocklist = Измени листу блокирања...
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Пратиоце
+    .accesskey = П
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Све колачиће трећих лица (може срушити веб сајтове)
+    .accesskey = С
 
 ## Privacy Section - Tracking
 
