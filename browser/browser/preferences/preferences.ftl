@@ -42,7 +42,7 @@ pane-privacy-title = ਪਰਦੇਦਾਰੀ ਤੇ ਸੁਰੱਖਿਆ
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 # The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = ਫਾਇਰਫੌਕਸ ਖਾਤਾ
+pane-sync-title = ਫਾਇਰਫਾਕਸ ਖਾਤਾ
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } ਸਮਰਥਨ
@@ -319,7 +319,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = ਫਾਇਰਫੌਕਸ ਘਰ (ਮੂਲ)
+    .label = ਫਾਇਰਫਾਕਸ ਮੁੱਖ ਸਫ਼ਾ (ਮੂਲ)
 home-mode-choice-custom =
     .label = …ਚੁਣਿੰਦਾ URL
 home-mode-choice-blank =
@@ -536,9 +536,6 @@ history-dontremember-description = { -brand-short-name } ਪ੍ਰਾਈਵੇ�
 history-private-browsing-permanent =
     .label = ਹਮੇਸ਼ਾ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ ਹੀ ਵਰਤੋਂ
     .accesskey = p
-history-remember-option =
-    .label = ਮੇਰੇ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ
-    .accesskey = b
 history-remember-search-option =
     .label = ਖੋਜ ਅਤੇ ਫਾਰਮ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ
     .accesskey = f
@@ -605,6 +602,9 @@ addressbar-locbar-openpage-option =
     .label = ਪੱਲ੍ਹੇ ਖੋਲ੍ਹੋ
     .accesskey = O
 addressbar-suggestions-settings = ਖੋਜ ਇੰਜਣ ਸੁਝਾਵਾਂ ਲਈ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
