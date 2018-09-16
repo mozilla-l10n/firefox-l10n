@@ -690,6 +690,14 @@ content-blocking-third-party-cookies-label =
     .label = Cookies tiers
     .accesskey = C
 content-blocking-reject-trackers-description = Bloquer tous les cookies tiers ou seulement ceux placés par des traqueurs.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Vos paramètres de cookies et de données de sites empêchent de modifier les paramètres sur les cookies tiers.
+content-blocking-change-cookie-settings =
+    .label = Modifier les paramètres de cookies
+    .accesskey = p
 content-blocking-reject-trackers-block-trackers-option-recommended =
     .label = Traqueurs (recommandé)
     .accesskey = q
