@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Ange anpassad URL för programuppdateringar.
+policy-Authentication = Ställ in integrerad autentisering för webbplatser som stödjer det.
 policy-BlockAboutAddons = Blockera tillgång tlll tilläggshanteraren (about:addons)
 policy-BlockAboutConfig = Blockera tillgång till sidan about:config.
 policy-BlockAboutProfiles = Blockera tillgång till sidan about:profiles.
@@ -20,6 +21,7 @@ policy-Cookies = Tillåt eller neka webbplatser att lagra kakor
 policy-DisableAppUpdate = Förhindra webbläsaren att uppdatera.
 policy-DisableBuiltinPDFViewer = Inaktivera PDF.js, den inbyggda PDF-visaren i { -brand-short-name }.
 policy-DisableDeveloperTools = Blockera tillgång till utvecklarverktygen.
+policy-DisableFeedbackCommands = Inaktivera menyalternativen att skicka feedback från hjälpmenyn (Skicka in feedback och Rapportera vilseledande webbplats).
 policy-DisableFirefoxAccounts = Inaktivera { -fxaccount-brand-name }-baserade tjänster, inklusive Sync.
 policy-DisableFirefoxStudies = Förhindra { -brand-short-name } att genomföra undersökningar.
 policy-DisableForgetButton = Förhindra tillgång till knappen Glöm.
@@ -47,3 +49,13 @@ policy-Homepage = Ställ in och eventuellt lås startsidan.
 policy-InstallAddonsPermission = Tillåt vissa webbplatser att installera tillägg.
 policy-NoDefaultBookmarks = Inaktivera skapandes av standardbokmärken som levereras med { -brand-short-name } och smarta bokmärken (Mest besökta, Senast använda etiketter). OBS: denna policy fungerar bara om den är inställd innan profilen används för första gången.
 policy-OfferToSaveLogins = Påtvinga inställningen att tillåta { -brand-short-name } att kunna komma ihåg sparade inloggningar och lösenord. Både värdena sant och falskt accepteras.
+policy-OverrideFirstRunPage = Åsidosätt sidan som visas första gången. Sätt denna policy till blankt om du vill inaktivera sidan som visas första gången.
+policy-OverridePostUpdatePage = Åsidosätt sidan "Vad är nytt" efter uppdateringar. Sätt denna policy till blankt om du vill inaktivera sidan efter uppdateringar.
+policy-Permissions = Ställ in behörigheter för kamera, mikrofon, plats och notifieringar.
+policy-PopupBlocking = Tillåt vissa webbplatser att visa popupfönster som standard.
+policy-Proxy = Ange inställningar för proxy.
+policy-SearchBar = Ange standardplacering av sökfältet. Användaren kan fortfarande flytta det.
+policy-SearchEngines = Ange sökmotorinställningar. Denna policy finns bara på Extended Support Release (ESR)-versionen.
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Blockera besök på webbplatser. Läs dokumentationen för mer detaljer om hur de anges.
