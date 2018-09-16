@@ -448,6 +448,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "H">
 
 <!ENTITY customizeMenu.removeExtension.label "Ta bort tillägg">
+<!ENTITY customizeMenu.removeExtension.accesskey "T">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
