@@ -34,3 +34,7 @@ policy-DisableSecurityBypass = Förhindra användaren från att gå vidare vid v
 policy-DisableSetDesktopBackground = Inaktivera menyalternativet Använd bild som skrivbordsbakgrund.
 policy-DisableSetAsDesktopBackground = Inaktivera menyalternativet Använd som skrivbordsbakgrund för bilder.
 policy-DisableSystemAddonUpdate = Förhindra webbläsaren att installera och uppdatera systemtillägg.
+policy-DisableTelemetry = Stäng av telemetri.
+policy-DisplayBookmarksToolbar = Visa bokmärkesfältet som standard.
+policy-DisplayMenuBar = Visa menyraden som standard.
+policy-DontCheckDefaultBrowser = Inaktivera kontrollen av förvald webbläsare vid start.
