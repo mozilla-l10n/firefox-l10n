@@ -27,3 +27,4 @@ policy-DisableFormHistory = Jangan ingat riwayat pencarian dan formulir.
 policy-DisableMasterPasswordCreation = Jika ya, sandi utama tidak bisa dibuat.
 policy-DisablePocket = Nonaktifkan fitur untuk menyimpan laman web ke Pocket.
 policy-DisablePrivateBrowsing = Nonaktifkan Penjelajahan Pribadi.
+policy-DisableTelemetry = Nonaktifkan Telemetry.
