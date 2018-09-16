@@ -68,8 +68,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "g">
 <!ENTITY  sendLinkToDevice.label             "Bidali lotura gailura">
 <!ENTITY  sendLinkToDevice.accesskey         "g">
-<!ENTITY  sendToDeviceFeedback.label         "Bidalita!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "Ilaratuta (lineaz kanpo)">
 <!ENTITY  moveToNewWindow.label              "Eraman leiho berrira">
 <!ENTITY  moveToNewWindow.accesskey          "h">
 <!ENTITY  reopenInContainer.label            "Ireki berriro edukiontzian">
@@ -268,7 +266,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Etxea">
-
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; hasiera-orria">
 
 <!ENTITY bookmarksButton.label          "Laster-markak">
@@ -428,23 +425,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Gehitu tresna-barran">
 <!ENTITY customizeMenu.addToToolbar.accesskey "G">
-<!ENTITY customizeMenu.addToPanel.label "Gehitu menuan">
-<!ENTITY customizeMenu.addToPanel.accesskey "m">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Gehitu gainezkatzearen menuan">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
-<!ENTITY customizeMenu.moveToToolbar.label "Eraman tresna-barrara">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "r">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Eraman menura">
-<!ENTITY customizeMenu.moveToPanel.accesskey "r">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -454,15 +440,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "D">
 <!ENTITY customizeMenu.removeFromToolbar.label "Kendu tresna-barratik">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "K">
-<!ENTITY customizeMenu.removeFromMenu.label "Kendu menutik">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "K">
 <!ENTITY customizeMenu.addMoreItems.label "Gehitu elementu gehiago…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "G">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Ezkutatu automatikoki tresna-barran">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "z">
 <!ENTITY customizeMenu.manageExtension.label "Kudeatu hedapena">
 <!ENTITY customizeMenu.manageExtension.accesskey "h">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -604,7 +588,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Egin marko honen laster-marka">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Kopiatu lotura">
-<!ENTITY copyURLFeedback.label        "Kopiatuta!">
 <!ENTITY emailPageCmd.label           "Bidali lotura postaz…">
 <!ENTITY emailPageCmd.accesskey       "s">
 <!ENTITY savePageCmd.label            "Gorde orria honela…">
@@ -791,7 +774,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Eginda">
-<!ENTITY editBookmark.removeBookmark.accessKey       "K">
 
 <!ENTITY editBookmark.showForNewBookmarks.label       "Erakutsi editorea gordetzean">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "E">
@@ -842,7 +824,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Baimenak">
 <!ENTITY identity.permissionsEmpty "Ez diozu gune honi baimen berezirik eman.">
 <!ENTITY identity.permissionsReloadHint "Agian orria berritu beharko duzu aldaketek eragina izan dezaten.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "Ireki baimenen hobespenak">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -966,10 +947,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Gehitu blokeatzea…">
 
-<!ENTITY contentBlocking.trackingProtection.label "Jarraipen-elementuak">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
+     ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Blokeatuta">
@@ -979,29 +959,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Gehitu blokeatzea…">
 
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokeatuta">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Gehitu blokeatzea…">
+
 <!ENTITY contentBlocking.breakageReportView.learnMore "Argibide gehiago">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URLa">
-<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; bertsio-zenbakia">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Bidali txostena">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Utzi">
 
 <!ENTITY trackingProtection.title "Jarraipenaren babesa">
-<!ENTITY trackingProtection.detectedBlocked3 "Zure nabigazioaren jarraipena egin lezaketen orriaren zatiak blokeatzen ari da &brandShortName;.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Gune honek zure nabigazioaren jarraipena egin lezaketen zatiak ditu. Babesa desgaituta daukazu.">
-<!ENTITY trackingProtection.notDetected3 "Ez da jarraipeneko elementurik antzeman orri honetan.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Desgaitu babesa gune honetarako">
-<!ENTITY trackingProtection.unblock.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Desgaitu babesa saio honetarako">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "Gaitu babesa">
-<!ENTITY trackingProtection.block2.accesskey "G">
-
 <!ENTITY trackingProtection.tooltip "Ireki jarraipenaren babesaren hobespenak">
 <!ENTITY trackingProtection.detectedBlocked4 "Zure nabigazioaren jarraipena egin lezaketen orri honen zatiak blokeatzen ari da &brandShortName;.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "Zure nabigazioaren jarraipena egin lezaketen elementuak antzeman ditu &brandShortName;(e)k.">
@@ -1130,6 +1105,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Kudeatu hedapena…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Bidali fitxa gailura">
+
 <!ENTITY sendToDevice.syncNotReady.label "Gailuak sinkronizatzen…">
 
 <!ENTITY pageAction.shareUrl.label "Partekatu">
