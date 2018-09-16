@@ -52,10 +52,14 @@ policy-EnableTrackingProtection = Active ou désactive le blocage de contenu et 
 policy-Extensions = Installe, désinstalle ou verrouille les extensions. L’option d’installation accepte des URL ou des chemins comme paramètres. Les options Désinstaller et Verrouiller utilisent les identifiants des extensions.
 policy-FlashPlugin = Autorise ou non l’utilisation du plugin Flash.
 policy-HardwareAcceleration = Si faux, désactive l’accélération matérielle.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Définit la page d’accueil et propose de la verrouiller.
 policy-InstallAddonsPermission = Autorise certains sites web à installer des extensions.
 policy-NoDefaultBookmarks = Désactive la création des marque-pages par défaut fournis avec { -brand-short-name } ainsi que les marque-pages intelligents (sites les plus visités, sites récents). Note : cette politique ne fonctionne que si elle est activée avant le premier lancement du profil.
 policy-Permissions = Configure les permissions pour la caméra, le microphone, la localisation et les notifications.
+policy-PopupBlocking = Autorise certains sites web à afficher des popups par défaut.
 policy-Proxy = Configure les paramètres du proxy.
+policy-SanitizeOnShutdown = Supprime toutes les données de navigation à la fermeture.
 policy-SearchBar = Définit l’emplacement par défaut de la barre de recherche. L’utilisateur garde la possibilité de la personnaliser.
 policy-SearchEngines = Configure les paramètres du moteur de recherche. Cette propriété n’est disponible que sur la version Extended Support Release (ESR).
 # “format” refers to the format used for the value of this policy. See also:
