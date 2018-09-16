@@ -4,11 +4,18 @@
 
 crash-reports-title = Kraschrapporter
 clear-all-reports-label = Ta bort alla rapporter
+delete-button-label = Rensa alla
 delete-confirm-title = Är du säker?
 delete-confirm-description = Det här tar bort alla rapporter och kan inte ångras.
+delete-unsubmitted-description = Det här tar bort alla rapporter som inte har skickats och kan inte ångras.
+delete-submitted-description = Det här tar bort listan över skickade rapporter men tar inte bort det skickade uppgifterna. Detta kan inte ångras.
 crashes-unsubmitted-label = Ej Inskickade kraschrapporter
 id-heading = Rapport-ID
 date-crashed-heading = Datum för krasch
+submit-crash-button-label = Skicka
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Misslyckades
 crashes-submitted-label = Inskickade kraschrapporter
 date-submitted-heading = Datum
 view-crash-button-label = Visa
