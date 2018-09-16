@@ -25,7 +25,7 @@
 <!ENTITY  reloadAllTabs.accesskey            "а">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Дупло јазиче">
+<!ENTITY  duplicateTab.label                 "Дуплирај јазиче">
 <!ENTITY  duplicateTab.accesskey             "Д">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
@@ -34,6 +34,14 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "З">
 <!ENTITY  closeOtherTabs.label               "Затвори ги другите јазичиња">
 <!ENTITY  closeOtherTabs.accesskey           "о">
+
+
+<!-- Pin Tab and Pin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Reload Tab and Reload Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -50,14 +58,13 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "и">
 <!ENTITY  sendLinkToDevice.label             "Испрати врска до уред">
 <!ENTITY  sendLinkToDevice.accesskey         "и">
-<!ENTITY  sendToDeviceFeedback.label         "Испратено!">
 <!ENTITY  moveToNewWindow.label              "Премести во нов прозорец">
 <!ENTITY  moveToNewWindow.accesskey          "П">
 <!ENTITY  bookmarkAllTabs.label              "Обележи ги сите јазичиња…">
 <!ENTITY  bookmarkAllTabs.accesskey          "т">
 <!ENTITY  undoCloseTab.label                 "Врати го затвореното јазиче">
 <!ENTITY  undoCloseTab.accesskey             "В">
-<!ENTITY  closeTab.label                     "Затвори го јазичето">
+<!ENTITY  closeTab.label                     "Затвори јазиче">
 <!ENTITY  closeTab.accesskey                 "З">
 
 <!ENTITY  listAllTabs.label      "Прикажи ги сите јазичиња">
@@ -181,10 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Останати обележувачи">
 <!ENTITY mobileBookmarksCmd.label "Мобилни обележувачи">
 <!ENTITY bookmarksToolbarChevron.tooltip "Покажува уште обележувачи">
-<!ENTITY showRecentlyBookmarked.label     "Прикажи скоро обележани">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "Скриј го скоро обележаните">
-<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "Назад">
 <!ENTITY backButton.tooltip           "Оди една страница назад">
@@ -218,7 +221,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Го блокиравте пристапот до микрофонот за ова мрежно место.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Го блокиравте споделувањето на екранот од страна на ова мрежно место.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Го блокиравте пристапот до локациските информации за ова мрежно место.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Го блокиравте податочното складиште за ова мрежно место.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ги блокиравте известувањата за ова мрежно место.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Прикажи историја">
@@ -244,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addBookmarksMenu.label             "Додај мени за обележувачи во алатник">
 <!ENTITY removeBookmarksMenu.label          "Отстрани мени за обележувачи од алатник">
 
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -273,8 +275,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Web Developer">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+
 <!ENTITY inspectContextMenu.label     "Истражи го елементот">
 <!ENTITY inspectContextMenu.accesskey "е">
+
 
 <!ENTITY fileMenu.label         "Датотека">
 <!ENTITY fileMenu.accesskey       "Д">
@@ -285,7 +289,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "Н">
 <!ENTITY newPrivateWindow.label     "Нов приватен прозорец">
 <!ENTITY newPrivateWindow.accesskey "П">
-<!ENTITY newNonRemoteWindow.label   "Нов прозорец без е10s">
 
 <!ENTITY editMenu.label         "Уредување">
 <!ENTITY editMenu.accesskey       "е">
@@ -340,17 +343,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Прикажи ја сета историја">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Прилагоди">
-<!ENTITY appMenuCustomize.tooltip "Прилагоди го менито и алатниците">
-<!ENTITY appMenuCustomizeExit.label "Готово">
-<!ENTITY appMenuCustomizeExit.tooltip "Завршете со прилагодувањето">
 <!ENTITY appMenuHistory.showAll.label "Прикажи ја сета историја">
 <!ENTITY appMenuHistory.clearRecent.label "Исчисти ја скорешната историја…">
 <!ENTITY appMenuHistory.restoreSession.label "Врати претходна сесија">
 <!ENTITY appMenuHistory.viewSidebar.label "Прикажи странична лента со историја">
 <!ENTITY appMenuHistory.recentHistory.label "Скорешна историја на прелистување">
 <!ENTITY appMenuHelp.label "Помош">
-<!ENTITY appMenuHelp.tooltip "Отвори мени за помош">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронизирани јазичиња">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -367,12 +365,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Вклучете синхронизација на јазичиња за да видите листа на јазичињата од вашите други уреди.">
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Нема синхронизирани јазичиња… сѐ уште!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Сакате да ги видите вашите јазичиња од други уреди овде?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Поставки за Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Најавете се за да видите листа на јазичињата од вашите други уреди.">
 <!ENTITY appMenuRemoteTabs.signin.label "Најавете се на Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Менаџирај уреди…">
@@ -382,34 +378,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Додај во алатник">
 <!ENTITY customizeMenu.addToToolbar.accesskey "А">
-<!ENTITY customizeMenu.addToPanel.label "Додај во мени">
-<!ENTITY customizeMenu.addToPanel.accesskey "М">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Додај во дополнително мени">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "Д">
-<!ENTITY customizeMenu.moveToToolbar.label "Премести во алатник">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "а">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Премести во мени">
-<!ENTITY customizeMenu.moveToPanel.accesskey "м">
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Прикачи во дополнително мени">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "П">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Откачи од дополнително мени">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "О">
 <!ENTITY customizeMenu.removeFromToolbar.label "Отстрани од алатник">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "О">
-<!ENTITY customizeMenu.removeFromMenu.label "Отстрани од мени">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "О">
 <!ENTITY customizeMenu.addMoreItems.label "Додај повеќе елементи…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Д">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -422,14 +408,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Проширување:">
 <!ENTITY urlbar.switchToTab.label     "Оди до јазиче:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.question "Би сакале да го подобрите вашето искуство на пребарување со предлози?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Дознајте повеќе…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "д">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Не">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "н">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Да">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "д">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Совет:">
@@ -557,7 +535,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Обележи ја оваа рамка">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "б">
 <!ENTITY pageAction.copyLink.label    "Копирај врска">
-<!ENTITY copyURLFeedback.label        "Ископирана!">
 <!ENTITY emailPageCmd.label           "Испрати линк…">
 <!ENTITY emailPageCmd.accesskey       "И">
 <!ENTITY savePageCmd.label            "Сними страница како…">
@@ -588,6 +565,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Скриј го овој приклучок">
 <!ENTITY hidePluginCmd.accesskey      "ф">
 <!ENTITY copyLinkCmd.label            "Копирај ја локацијата на врската">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "К">
 <!ENTITY copyImageCmd.label           "Копирај ја локацијата на сликата">
 <!ENTITY copyImageCmd.accesskey       "о">
@@ -598,6 +578,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Копирај ја локацијата на аудиото">
 <!ENTITY copyAudioURLCmd.accesskey    "о">
 <!ENTITY copyEmailCmd.label           "Копирај ја адресата за е-пошта">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "е">
 <!ENTITY thisFrameMenu.label              "Оваа рамка">
 <!ENTITY thisFrameMenu.accesskey          "м">
@@ -706,8 +689,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Основен стил на страница">
 <!ENTITY pageStylePersistentOnly.accesskey "О">
 
-<!ENTITY pageReportIcon.tooltip            "Смени ги поставките за блокирање на скокачки прозорци за ова мрежно место">
-
 <!ENTITY allowPopups.accesskey "с">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -735,8 +716,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Додај речници…">
 <!ENTITY spellAddDictionaries.accesskey "а">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
 <!ENTITY editBookmark.done.label                     "Во ред">
-<!ENTITY editBookmark.removeBookmark.accessKey       "р">
+
+
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
 
 <!ENTITY identity.connectionSecure "Безбедна врска">
 <!ENTITY identity.connectionNotSecure "Врската не е безбедна">
@@ -774,6 +761,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Повеќе информации">
 
+
 <!ENTITY identity.permissions "Дозволи">
 <!ENTITY identity.permissionsEmpty "Немате активирано специфични дозволи за ова место.">
 <!ENTITY identity.permissionsReloadHint "Можно е да треба да ја превчитате страницата за измените да имаат ефект.">
@@ -787,7 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Синхронизирани јазичиња">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Најавете се на Firefox од други уреди за да ги гледате нивните јазичиња овде.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Нема синхронизирани јазичиња… сѐ уште!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Сакате да ги видите вашите јазичиња од други уреди овде?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Најавете се за да видите листа на јазичиња од вашите други уреди.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Нема отворени јазичиња">
@@ -831,8 +818,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Sync">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "Вметнете ги вашите омилени елементи во алатникот или дополнителното мени.">
-<!ENTITY customizeMode.menuAndToolbars.empty "Сакате повеќе алатки?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете од илјадници додатоци">
 <!ENTITY customizeMode.restoreDefaults "Врати основни прилагодувања">
 <!ENTITY customizeMode.done "Готово">
 <!ENTITY customizeMode.titlebar "Насловна лента">
@@ -845,7 +830,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "М">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Земете повеќе теми">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Н">
-<!ENTITY customizeMode.emptyOverflowList.description "Вметнете елементи овде за да ви останат на дофат, но сепак надвор од алатникот…">
 <!ENTITY customizeMode.overflowList.title2 "Дополнително мени">
 <!ENTITY customizeMode.overflowList.description "Вметнете елементи овде за да ви останат на дофат, но сепак надвор од алатникот…">
 <!ENTITY customizeMode.uidensity "Густина">
@@ -878,22 +862,48 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Звукот од јазичето ќе биде споделен.">
 <!ENTITY getUserMedia.allWindowsShared.message "Сите видливи прозорци на вашиот екран ќе бидат споделени.">
 
+
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking tracker content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+
 <!ENTITY trackingProtection.title "Заштита од следење">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокира делови од оваа страница преку коишто би можело да бидете следени.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Ова место содржи елементи преку коишто би можело да се следи вашето прелистување. Ја исклучивте заштитата од следење.">
-<!ENTITY trackingProtection.notDetected3 "Не откривме елементи на оваа страница преку коишто би можело да бидете следени.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Исклучи заштита за ова место">
-<!ENTITY trackingProtection.unblock.accesskey "И">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Исклучи заштита во текот на оваа сесија">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "И">
-<!ENTITY trackingProtection.block2.label "Активирај заштита">
-<!ENTITY trackingProtection.block2.accesskey "А">
 
 <!ENTITY pluginNotification.showAll.label "Прикажи ги сите">
 <!ENTITY pluginNotification.showAll.accesskey "П">
@@ -966,12 +976,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label2 "Рестартирај за надградба на &brandShorterName;">
 
+
+
+
 <!ENTITY pageActionButton.tooltip "Активности на страница">
 <!ENTITY pageAction.addToUrlbar.label "Додај во Адресна летна">
 <!ENTITY pageAction.removeFromUrlbar.label "Отстрани од Адресна лента">
 
 <!ENTITY pageAction.sendTabToDevice.label "Испрати јазиче на уред">
+
 <!ENTITY sendToDevice.syncNotReady.label "Уредите се синхронизираат…">
+
+
 
 <!ENTITY libraryButton.tooltip "Преглед на историјата на прелистување, снимените обележувачи и друго">
 
@@ -980,3 +996,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Особеностите за пристапност се овозможени">
+
+<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
+     The first <image> tag is replaced with the icon for the add-ons menu.
+     The second <image> tag is replaced with the icon for the toolbar menu. -->
