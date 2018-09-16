@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = Ina extensiun, <img data-l10n-name="ic
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Ina extensiun, <img data-l10n-name="icon"/> { $name }, administrescha la protecziun cunter il fastizar.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Ina extensiun, <img data-l10n-name="icon"/> { $name }, administrescha quest parameter.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Ina extensiun, <img data-l10n-name="icon"/> { $name }, administrescha la moda da connexiun cun l'internet da { -brand-short-name }.
@@ -624,10 +627,6 @@ sitedata-block-trackers-option =
     .label = Fastizaders da terzas partidas
 sitedata-block-unvisited-option =
     .label = Cookies da websites betg visitadas
-sitedata-block-all-third-parties-option =
-    .label = Tut ils cookies da terzas partidas
-sitedata-block-always-option =
-    .label = Tut ils cookies (po chaschunar problems cun tschertas paginas)
 sitedata-block-all-third-party-option =
     .label = Tut ils cookies da terzas partidas (po chaschunar problems cun websites)
 sitedata-block-all-option =
@@ -641,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Excepziuns…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Tes parameters en Bloccada da cuntegn impedeschan la modificaziun dals parameters dals cookies e da las datas da websites.
 
 ## Privacy Section - Address Bar
 
@@ -677,47 +680,30 @@ content-blocking-category-label = Tscherna tge bloccar
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Elements plauns che fastizeschan
-    .accesskey = s
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Fastizaders che chargian plaun
-    .accesskey = p
-content-blocking-fastblock-description = Blochescha cuntegn da terzas partidas che dovra dapli che 5 secundas per chargiar.
-content-blocking-fastblock-option-enabled =
-    .label = Adina bloccar
-content-blocking-fastblock-option-disabled =
-    .label = Mai bloccar
-content-blocking-tracking-protection-label = Fastizaders
-    .accesskey = t
-content-blocking-tracking-protection-all-label = Tut ils fastizaders chattads
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Fastizaders che chargian plaun
+    .accesskey = F
+content-blocking-fastblock-new-description = Mo bloccar ils fastizaders che impedeschan che las paginas sa chargian svelt.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Tut ils fastizaders chattads
     .accesskey = T
-content-blocking-tracking-protection-description = Blochescha tut ils fastizaders enconuschents (Remartga: impedescha eventualmain che tschertas paginas chargian)
-content-blocking-tracking-protection-option-enabled =
-    .label = Adina bloccar
-content-blocking-tracking-protection-option-pbm =
-    .label = Mo bloccar en fanestras privatas
-content-blocking-tracking-protection-option-disabled =
-    .label = Mai bloccar
+content-blocking-tracking-protection-new-description = Bloccar tut ils fastizaders chattads. (Eventualmain na vegnan tschertas paginas betg chargiadas a moda correcta.)
 content-blocking-tracking-protection-option-always =
     .label = Adina
     .accesskey = A
 content-blocking-tracking-protection-option-private =
     .label = Mo en fanestras privatas
     .accesskey = p
-content-blocking-tracking-protection-change-blocklist = Modifitgar la glista da bloccada…
-content-blocking-reject-trackers-label = Cookies da terzas partidas
+content-blocking-tracking-protection-change-block-list = Midar la glista da bloccada
+content-blocking-third-party-cookies-label =
+    .label = Cookies da terzas partidas
     .accesskey = C
 content-blocking-reject-trackers-description = Bloccar tut ils cookies da terzas partidas u mo quels ch'èn definids da fastizaders.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = Actualmain vegnan tut ils cookies bloccads.
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = Actualmain vegnan bloccads ils cookies da websites betg visitadas.
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Tes parameters en Cookies e Datas da websites impedeschan la modificaziun dals parameters da cookies da terzas partidas.
 content-blocking-change-cookie-settings =
     .label = Modifitgar ils parameters per ils cookies
     .accesskey = s
