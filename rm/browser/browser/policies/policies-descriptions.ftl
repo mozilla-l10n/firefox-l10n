@@ -51,3 +51,20 @@ policy-EnableTrackingProtection = Activar u deactivar la bloccada da cuntegn e t
 # https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Installar, deinstallar u bloccar extensiuns. L'opziun «Installar» pretenda URLs u percurs sco parameters. Las opziuns «Deinstallar» e «Bloccar» pretendan IDs dad extensiuns.
 policy-FlashPlugin = Permetter u scumandar l'utilisaziun dal plug-in Flash.
+policy-HardwareAcceleration = Sche «false», deactivar l'acceleraziun cun agid da la hardware.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Definir la pagina da partenza e tut tenor basegn impedir la modificaziun da l'opziun.
+policy-InstallAddonsPermission = Permetter a tschertas websites dad installar supplements.
+policy-NoDefaultBookmarks = Deactivar la creaziun dals segnapaginas predefinids da { -brand-short-name } ed ils segnapaginas intelligents (Visità il pli savens, Chavazzins utilisads dacurt). Remartga: questa directiva ha mo effect sch'ella vegn utilisada avant ch'il profil vegn avert l'emprima giada.
+policy-OfferToSaveLogins = Gestiunar la dumonda en { -brand-short-name } da memorisar las infurmaziuns d'annunzia. Omaduas valurs, «true» e «false», èn validas.
+policy-OverrideFirstRunPage = Surscriver la pagina che vegn mussada suenter avair avià l'emprima giada. Definir questa directiva cun ina valur vida per deactivar la pagina.
+policy-OverridePostUpdatePage = Surscriver la pagina «What's New» che vegn mussada suenter actualisaziuns. Definir questa directiva cun ina valur vida per impedir che la pagina vegnia mussada.
+policy-Permissions = Configurar permissiuns per camera, microfon, posiziun e notificaziuns.
+policy-PopupBlocking = Permetter a tschertas websites da mussar popups sco standard.
+policy-Proxy = Configurar ils parameters dal proxy.
+policy-SanitizeOnShutdown = Stizzar tut las datas da navigaziun cun terminar.
+policy-SearchBar = Definir l'adressa da standard da la trav da tschertgar. L'utilisader la po anc adina persunalisar.
+policy-SearchEngines = Configurar ils parameters da maschinas da tschertgar. Questa directiva è mo disponibla en la versiun Extended Support Release (ESR).
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Impedir l'access a tschertas websites. Consultar la documentaziun per ulteriuras infurmaziuns davart il format.
