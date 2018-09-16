@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "ਅੱਗੇ">
 
 <!ENTITY firstrun_tabqueue_title "ਲਿੰਕ">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "ਟੈਬ ਕਤਾਰ ਨੂੰ ਚਾਲੂ ਕਰੋ">
-<!ENTITY firstrun_tabqueue_subtext_off "ਲਿੰਕ ਨੂੰ &brandShortName; ਵਿੱਚ ਬਾਅਦ ਲਈ ਸੰਭਾਲੋ, ਜਦੋਂ ਹੋਰ ਐਪਾਂ ਵਿੱਚੋਂ ਉਹਨਾਂ ਨੂੰ ਛੂਹਦੇ ਹੋ।">
-
-<!ENTITY firstrun_tabqueue_message_on "ਕਾਮਯਾਬ!">
-<!ENTITY firstrun_tabqueue_subtext_on "ਤੁਸੀਂ &pref_category_general; ਅਧੀਨ  &settings; ਵਿੱਚ ਇਸ ਨੂੰ ਕਦੇ ਵੀ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ।">
 
 <!ENTITY firstrun_readerview_title "ਲੇਖ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "&brandShortName; ਨੂੰ ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ">
 
 <!ENTITY url_bar_default_text2 "ਖੋਜੋ ਜਾਂ ਐਡਰੈਸ ਨੂੰ ਲਿਖੋ">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ਟੈਬਾਂ, ਡਾਟਾ ਬੱਚਤਕਰਤਾ, ਡਿਵੈਲਪਰ ਟੂਲ ਨੂੰ ਬਹਾਲ ਕਰੋ">
 <!ENTITY pref_category_notifications "ਸੂਚਨਾਵਾਂ">
-<!ENTITY pref_category_notifications_summary "ਨਵੇਂ ਫੀਚਰ, ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਅੱਪਡੇਟ">
 <!ENTITY pref_category_notifications_summary2 "ਨਵੇਂ ਫ਼ੀਚਰ, ਉਤਪਾਦ ਬਾਰੇ ਗੁਰ">
 <!ENTITY pref_developer_remotedebugging_usb "USB ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰੋ">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰੋ">
@@ -909,3 +901,9 @@ Picture-in-picture mini window -->
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "&vendorShortName; ਟਿਕਾਣਾ ਸੇਵਾ">
+<!ENTITY download_notification_channel "ਡਾਊਨਲੋਡ">
+<!ENTITY media_notification_channel "ਮੀਡੀਆ ਪਲੇਅਬੈਕ">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; ਪੁਸ਼ ਨੋਟੀਫਿਕੇਸ਼ਨ">
+<!ENTITY updater_notification_channel "ਐਪ ਅੱਪਡੇਟ">
+<!ENTITY synced_tabs_notification_channel "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ">
