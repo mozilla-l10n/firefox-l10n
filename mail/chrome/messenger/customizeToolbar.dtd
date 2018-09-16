@@ -13,6 +13,6 @@
 <!ENTITY useSmallIcons.label      "Кішкентай таңбашалар">
 <!ENTITY restoreDefaultSet.label  "Бастапқы түрге келтіру">
 <!ENTITY addNewToolbar.label      "Жаңа саймандар панелін қосу">
-<!ENTITY showTitltbar.label       "Атау жолағын көрсету">
+<!ENTITY showTitlebar.label       "Атау жолағын көрсету">
 <!ENTITY saveChanges.label        "Дайын">
 <!ENTITY undoChanges.label        "Өзгерістерді қайтару">
