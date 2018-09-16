@@ -7,6 +7,7 @@ clear-all-reports-label = Supprimer tous les rapports
 delete-button-label = Tout supprimer
 delete-confirm-title = Confirmation
 delete-confirm-description = Ceci supprimera tous les rapports irrémédiablement.
+delete-unsubmitted-description = Cette action irréversible supprimera tous les rapports de plantage non envoyés.
 crashes-unsubmitted-label = Rapports de plantage non envoyés
 id-heading = Identifiant du rapport
 date-crashed-heading = Date du plantage
