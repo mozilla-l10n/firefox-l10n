@@ -202,6 +202,7 @@ choose-language-description = زبان مورد علاقهٔ خود را برا�
 choose-button =
     .label = انتخاب…
     .accesskey = ا
+confirm-browser-language-change-button = اعمال و راه‌اندازی دوباره
 translate-web-pages =
     .label = ترجمه محتویات وب
     .accesskey = ت
@@ -316,6 +317,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = شبکه پراکسی
+network-settings-title = تنظیمات شبکه
 network-proxy-connection-description = نحوهٔ اتصال { -brand-short-name } به اینترنت را پیکربندی کنید.
 network-proxy-connection-learn-more = اطلاعات بیشتر
 network-proxy-connection-settings =
@@ -554,9 +556,6 @@ history-dontremember-description = { -brand-short-name } تنظیمات حالت
 history-private-browsing-permanent =
     .label = همیشه از حالت  مرور خصوصی استفاده کن
     .accesskey = م
-history-remember-option =
-    .label = مرور و بارگذاری های مرا به خاطر بسپار
-    .accesskey = خ
 history-remember-browser-option =
     .label = ذخیرهٔ تاریخچهٔ دریافت‌ها و مرور
     .accesskey = b
@@ -627,6 +626,18 @@ addressbar-locbar-openpage-option =
     .accesskey = ز
 addressbar-suggestions-settings = تغییر ترجیحات مربوط به پیشنهادهای موتورهای جست‌وجو
 
+## Privacy Section - Content Blocking
+
+content-blocking-learn-more = بیشتر بدانید
+content-blocking-toggle-label-on = روشن
+    .accesskey = O
+content-blocking-toggle-label-off = خاموش
+    .accesskey = O
+content-blocking-category-label = انتخاب کنید چه چیزهایی مسدود شوند
+content-blocking-tracking-protection-option-always =
+    .label = همیشه
+    .accesskey = A
+
 ## Privacy Section - Tracking
 
 tracking-header = محافظت در برابر ردگیری
@@ -686,8 +697,9 @@ autoplay-option-ask =
     .label = همیشه بپرس
 autoplay-option-allow =
     .label = اجازه پخش خودکار بده
-autoplay-option-block =
-    .label = مسدود کردن پخش خودکار
+autoplay-option-dont =
+    .label = خودکار پخش نکن
+permissions-autoplay-link = بیشتر بدانید
 permissions-block-popups =
     .label = مسدود کردن پنجره‌های بازشو
     .accesskey = م
@@ -716,7 +728,7 @@ collection-health-report =
 collection-health-report-link = بیشتر بدانید
 collection-studies =
     .label = اجازه دادن به { -brand-short-name } برای نصب و اجرای studyها
-collection-studies-link = نمایش studyهای { -brand-short-name } 
+collection-studies-link = نمایش studyهای { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است
