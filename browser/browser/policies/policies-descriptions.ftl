@@ -38,3 +38,12 @@ policy-DisableTelemetry = Stäng av telemetri.
 policy-DisplayBookmarksToolbar = Visa bokmärkesfältet som standard.
 policy-DisplayMenuBar = Visa menyraden som standard.
 policy-DontCheckDefaultBrowser = Inaktivera kontrollen av förvald webbläsare vid start.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Aktivera eller inaktivera Innehållsblockering med möjlighet att låsa valet.
+policy-FlashPlugin = Tillåt eller neka att insticksmodulen Flash används.
+policy-HardwareAcceleration = Om inaktiv, stäng av hårdvaruacceleration.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Ställ in och eventuellt lås startsidan.
+policy-InstallAddonsPermission = Tillåt vissa webbplatser att installera tillägg.
+policy-NoDefaultBookmarks = Inaktivera skapandes av standardbokmärken som levereras med { -brand-short-name } och smarta bokmärken (Mest besökta, Senast använda etiketter). OBS: denna policy fungerar bara om den är inställd innan profilen används för första gången.
+policy-OfferToSaveLogins = Påtvinga inställningen att tillåta { -brand-short-name } att kunna komma ihåg sparade inloggningar och lösenord. Både värdena sant och falskt accepteras.
