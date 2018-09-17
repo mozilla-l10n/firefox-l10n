@@ -7,6 +7,7 @@ clear-all-reports-label = Kkes akk issaɣen
 delete-button-label = Sfeḍ akk
 delete-confirm-title = Asentem?
 delete-confirm-description = Ad yekkes akk issaɣen s war tuɣalin.
+delete-unsubmitted-description = Ad yekkes akk ineqqisen n uɣelluy ur yettwaznen ara s war tuɣalin.
 crashes-unsubmitted-label = Ineqqisen n uɣelluy ur yettwaznen ara
 id-heading = Asulay n ussaɣ
 date-crashed-heading = Azemz n uɣelluy
