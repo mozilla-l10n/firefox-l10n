@@ -202,6 +202,10 @@ choose-language-description = زبان مورد علاقهٔ خود را برا�
 choose-button =
     .label = انتخاب…
     .accesskey = ا
+manage-browser-languages-button =
+    .label = تنظیم جایگزین‌ها…
+    .accesskey = l
+confirm-browser-language-change-description = برای اعمال این تغییرات { -brand-short-name } را دوباره راه‌اندازی کن
 confirm-browser-language-change-button = اعمال و راه‌اندازی دوباره
 translate-web-pages =
     .label = ترجمه محتویات وب
@@ -601,6 +605,12 @@ sitedata-accept-third-party-visited-option =
     .label = از بازدید
 sitedata-accept-third-party-never-option =
     .label = هرگز
+sitedata-block-trackers-option =
+    .label = ردیاب‌های شخص ثالث
+sitedata-block-unvisited-option =
+    .label = کوکی‌ها از وب‌سایت‌های بازدید نشده
+sitedata-block-all-option =
+    .label = تمام کوکی‌ها (باعث خرابی وب‌سایت‌ها خواهد شد)
 sitedata-clear =
     .label = پاک کردن اطلاعات…
     .accesskey = I
@@ -629,14 +639,28 @@ addressbar-suggestions-settings = تغییر ترجیحات مربوط به پی
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = بیشتر بدانید
+content-blocking-restore-defaults =
+    .label = بازگرداندن پیش‌فرض‌ها
+    .accesskey = R
 content-blocking-toggle-label-on = روشن
     .accesskey = O
 content-blocking-toggle-label-off = خاموش
     .accesskey = O
 content-blocking-category-label = انتخاب کنید چه چیزهایی مسدود شوند
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = تمام ریدیاب‌های شناسایی شده
+    .accesskey = T
+content-blocking-tracking-protection-new-description = تمام ردیاب‌های شناخته شده را مسدود کن. (ممکن است باعث شود برخی صفحه‌ها بارگذاری نشوند.)
 content-blocking-tracking-protection-option-always =
     .label = همیشه
     .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = تنها در پنجره‌های ناشناس
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = تغییر لیست مسدودی‌ها
+content-blocking-change-cookie-settings =
+    .label = تغییر تنظیمات کوکی
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
