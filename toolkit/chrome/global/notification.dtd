@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Tamam!">
 <!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "Daha çox fəaliyyətlər">
