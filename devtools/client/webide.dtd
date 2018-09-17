@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "C">
 <!ENTITY runtimeMenu_showDetails_label "Runtime Info">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias de dispositivo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "d">
 <!ENTITY runtimeMenu_showSettings_label "Opciones de dispositivo">
@@ -75,10 +73,9 @@
 <!ENTITY projectPanel_tabs "Pestañas">
 <!ENTITY runtimePanel_usb "Dispositivos USB">
 <!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
-<!ENTITY runtimePanel_simulator "Simuladores">
 <!ENTITY runtimePanel_other "Otro">
-<!ENTITY runtimePanel_installsimulator "Instalar simulador">
 <!ENTITY runtimePanel_noadbhelper "Instalar ADB Helper">
+<!ENTITY runtimePanel_noadbextension "Instalar la extensión ADB">
 <!ENTITY runtimePanel_nousbdevice "¿No puede ver su dispositivo?">
 <!ENTITY runtimePanel_refreshDevices_label "Refrescar dispositivos">
 
@@ -149,10 +146,6 @@
 <!ENTITY devicesetting_newtext "Valor de opción">
 <!ENTITY devicesetting_addnew "Agregar nueva opción">
 
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Ayuda">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -174,19 +167,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Registros de comandos pre empaquetados">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Opciones de sumulador">
-<!ENTITY simulator_remove "Borrar simulador">
-<!ENTITY simulator_reset "Restaurar predeterminados">
-<!ENTITY simulator_name "Nombre">
-<!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Versión">
-<!ENTITY simulator_profile "Perfil">
-<!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Dispositivo">
-<!ENTITY simulator_screenSize "Pantalla">
-<!ENTITY simulator_pixelRatio "Ratio de pixel">
-<!ENTITY simulator_tv_data "Simulación de TV">
-<!ENTITY simulator_tv_data_open "Datos de configuración">
-<!ENTITY simulator_tv_data_open_button "Abrir directorio de configuración…">
