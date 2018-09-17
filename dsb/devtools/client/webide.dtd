@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "F">
 <!ENTITY runtimeMenu_showDetails_label "Informacije běžnego casa">
 <!ENTITY runtimeMenu_showDetails_accesskey "I">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Rědowe nastajenja">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "R">
 <!ENTITY runtimeMenu_showSettings_label "Rědowe nastajenja">
@@ -54,9 +52,9 @@
 
 <!ENTITY projectButton_label "Nałoženje wócyniś">
 <!ENTITY runtimeButton_label "Běžny cas wubraś">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -75,14 +73,13 @@
 <!ENTITY projectPanel_tabs "Rejtarki">
 <!ENTITY runtimePanel_usb "USB-rědy">
 <!ENTITY runtimePanel_wifi "WLAN-rědy">
-<!ENTITY runtimePanel_simulator "Simulatory">
 <!ENTITY runtimePanel_other "Druge">
-<!ENTITY runtimePanel_installsimulator "Simulator instalěrowaś">
 <!ENTITY runtimePanel_noadbhelper "ADB Helper instalěrowaś">
+<!ENTITY runtimePanel_noadbextension "ADB-rozšyrjenje instalěrowaś">
 <!ENTITY runtimePanel_nousbdevice "Njamóžośo swój rěd wiźeś?">
 <!ENTITY runtimePanel_refreshDevices_label "Rědy aktualizěrowaś">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "płaśiwy">
 <!ENTITY details_warning_header "warnowanja">
 <!ENTITY details_error_header "zmólki">
@@ -90,23 +87,23 @@
 <!ENTITY details_location "Městno">
 <!ENTITY details_manifestURL "ID nałoženja">
 <!ENTITY details_removeProject_button "Projekt wótpóraś">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "Nowe nałoženje">
 <!ENTITY newAppHeader "Pśedłogu wubraś">
 <!ENTITY newAppLoadingTemplate "Pśedłogi se zacytuju…">
 <!ENTITY newAppProjectName "Projektowe mě:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Zacyniś">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "Wósebne komponenty">
 <!ENTITY addons_aboutaddons "Zajstojnik dodankow wócyniś">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "Nastajenja">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Powšykne">
@@ -118,8 +115,8 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Pjerwjejšny projekt wótnowiś, gaž WebIDE startujo">
 <!ENTITY prefs_options_templatesurl "URL pśedłogow">
 <!ENTITY prefs_options_templatesurl_tooltip "Indeks k dispoziciji stojecych pśedłogow">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informacije běžnego casa">
 <!ENTITY runtimedetails_adbIsRoot "ADB jo kórjeń: ">
 <!ENTITY runtimedetails_summonADBRoot "kórjenjowy rěd">
@@ -127,36 +124,32 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "Njewobgranicowane priwilegije wuwijarskich rědow: ">
 <!ENTITY runtimedetails_requestPrivileges "wó wuše priwilegije pšosyś">
 <!ENTITY runtimedetails_privilegesWarning "(Buźo rěd znowego startowaś. Trjeba administratorowy pśistup.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
 <!ENTITY device_typenumber "Integer">
 <!ENTITY device_typestring "String">
 <!ENTITY device_typeobject "Objekt">
 <!ENTITY device_typenone "Typ wubraś">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "Rědowe nastajenja">
 <!ENTITY devicepreference_search "Pytańske nastajenja">
 <!ENTITY devicepreference_newname "Mě nowego nastajenja">
 <!ENTITY devicepreference_newtext "Gódnota nastajenja">
 <!ENTITY devicepreference_addnew "Nowe nastajenje pśidaś">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "Rědowe nastajenja">
 <!ENTITY devicesetting_search "Pytańske nastajenja">
 <!ENTITY devicesetting_newname "Mě nowego nastajenja">
 <!ENTITY devicesetting_newtext "Gódnota nastajenja">
 <!ENTITY devicesetting_addnew "Nowe nastajenje pśidaś">
-<!-- Monitor -->
 
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Pomoc">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "Identifikacija klienta">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -171,22 +164,6 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Jolic waš drugi rěd pšaša se za znamješkowym slědom, město až skannujo QR-kod, kopěrujśo pšosym slědujucu gódnotu do drugego rěda:">
 <!ENTITY wifi_auth_qr_size_note "Jo-lic QR-kod pśemały, aby se zwisk wuspěšnje napórał, wopytujśo jen skalěrowaś abo wokno pówětšowaś.">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "Pśikazowe protokole za pśedpakowanje">
-<!-- Simulator Options -->
-
-<!ENTITY simulator_title "Simulatorowe nastajenja">
-<!ENTITY simulator_remove "Simulator lašowaś">
-<!ENTITY simulator_reset "Standard wótnowiś">
-<!ENTITY simulator_name "Mě">
-<!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Wersija">
-<!ENTITY simulator_profile "Analyza běžnego casa">
-<!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Rěd">
-<!ENTITY simulator_screenSize "Wobrazowka">
-<!ENTITY simulator_pixelRatio "Pikselowy poměr">
-<!ENTITY simulator_tv_data "Telewizna simulacija">
-<!ENTITY simulator_tv_data_open "Konfiguraciske daty">
-<!ENTITY simulator_tv_data_open_button "Konfiguraciski zapis wócyniś…">

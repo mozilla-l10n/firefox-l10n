@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "W pórěźe!">
 <!ENTITY defaultButton.accesskey "r">
+
+<!ENTITY moreActionsButton.accessibleLabel "Dalšne akcije">
