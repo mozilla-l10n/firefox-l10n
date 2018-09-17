@@ -702,6 +702,11 @@ content-blocking-third-party-cookies-label =
     .label = Кукі трэцяга боку
     .accesskey = К
 content-blocking-reject-trackers-description = Блакаваць усе кукі трэцяга боку, або толькі ўстаноўленыя трэкерамі.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Вашы налады для кукаў і дадзеных сайтаў не дазваляюць мяняць налады для кукаў трэцяга боку.
 content-blocking-change-cookie-settings =
     .label = Змяніць налады кукаў
     .accesskey = ы
