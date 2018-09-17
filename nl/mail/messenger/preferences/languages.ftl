@@ -10,6 +10,17 @@ languages-customize-movedown =
     .label = Omlaag verplaatsen
     .accesskey = l
 
+languages-customize-remove =
+    .label = Verwijderen
+    .accesskey = V
+
+languages-customize-select-language =
+    .placeholder = Selecteer een taal om toe te voegen…
+
+languages-customize-add =
+    .label = Toevoegen
+    .accesskey = T
+
 messenger-languages-window =
     .title = { -brand-short-name }-taalinstellingen
     .style = width: 40em
