@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "W porjadku!">
 <!ENTITY defaultButton.accesskey "o">
+
+<!ENTITY moreActionsButton.accessibleLabel "Dalše akcije">
