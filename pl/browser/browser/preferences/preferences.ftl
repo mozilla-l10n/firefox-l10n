@@ -634,6 +634,7 @@ autoplay-option-block=
   .label=blokuj odtwarzanie
 autoplay-option-dont=
   .label=nie odtwarzaj
+permissions-autoplay-link=Więcej informacji
 permissions-block-autoplay-media-exceptions=
   .label=Wyjątki…
   .accesskey=W
