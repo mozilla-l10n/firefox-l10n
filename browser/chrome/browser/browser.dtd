@@ -440,6 +440,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "పొడగింత నిర్వహణ">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 
+<!ENTITY customizeMenu.removeExtension.accesskey "v">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -1091,6 +1093,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "పొడగింత నిర్వహణ…">
 
 <!ENTITY pageAction.sendTabToDevice.label "ట్యాబుని పరికరానికి పంపు">
+
 <!ENTITY sendToDevice.syncNotReady.label "పరికరాలను సమకాలీకరిస్తోంది…">
 
 <!ENTITY pageAction.shareUrl.label "పంచుకో">
