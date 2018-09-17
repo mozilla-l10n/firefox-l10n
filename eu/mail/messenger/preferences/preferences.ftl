@@ -3,5 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 choose-messenger-language-description = Aukeratu hizkuntza { -brand-short-name } erabiliko duena pantailako menu, mezu eta jakinarazpenetan.
+manage-messenger-languages-button =
+    .label = Ezarri ordezkoak
+    .accesskey = i
 confirm-messenger-language-change-description = Barrabiarazi { -brand-short-name } aldaketa hauek aplikatzeko
 confirm-messenger-language-change-button = Aplikatu eta berrabiarazi
