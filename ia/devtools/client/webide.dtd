@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "I">
 <!ENTITY runtimeMenu_showDetails_label "Informationes sur le ambiente de execution">
 <!ENTITY runtimeMenu_showDetails_accesskey "n">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferentias del apparato">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "r">
 <!ENTITY runtimeMenu_showSettings_label "Parametros del apparato">
@@ -77,6 +75,7 @@
 <!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
 <!ENTITY runtimePanel_other "Alteres">
 <!ENTITY runtimePanel_noadbhelper "Installar ADB Helper">
+<!ENTITY runtimePanel_noadbextension "Installar le extension ADB">
 <!ENTITY runtimePanel_nousbdevice "Impossibile vider tu apparato?">
 <!ENTITY runtimePanel_refreshDevices_label "Actualisar le apparatos">
 
@@ -146,10 +145,6 @@
 <!ENTITY devicesetting_newname "Nove nomine deconfiguration">
 <!ENTITY devicesetting_newtext "Valor de configuration">
 <!ENTITY devicesetting_addnew "Adder un nove configuration">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Adjuta">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
