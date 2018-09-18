@@ -74,7 +74,7 @@
 <!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label            "Settings…">
+<!ENTITY showSettings.label            "ការ​កំណត់…">
 <!ENTITY showSettings.accesskey        "S">
 <!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
 <!ENTITY connectionsInfo.caption       "Connection">
