@@ -5,6 +5,9 @@
 languages-window =
     .title = Gjuhë
     .style = width: 30em
+webpage-languages-window =
+    .title = Rregullime Gjuhe Faqeje
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Faqet Web ndonjëherë ofrohen në më shumë se një gjuhë. Zgjidhni gjuhët për shfaqje të këtyre faqeve, sipas radhës së parapëlqimeve
@@ -36,3 +39,9 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+languages-active-code-format =
+    .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Rregullime Gjuhe { -brand-short-name }-i
+    .style = width: 40em
+browser-languages-description = Si parazgjedhjen tuaj, { -brand-short-name }-i do të shfaqë gjuhën e parë dhe do të shfaqë gjuhë alternative, në u dashtë, sipas radhës që duken.
