@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "F">
 <!ENTITY runtimeMenu_showDetails_label "Të dhëna Runtime">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Parapëlqime Mbi Pajisjen">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 <!ENTITY runtimeMenu_showSettings_label "Rregullime mbi Pajisjen">
@@ -77,6 +75,7 @@
 <!ENTITY runtimePanel_wifi "Pajisje Wi-Fi">
 <!ENTITY runtimePanel_other "Tjetër">
 <!ENTITY runtimePanel_noadbhelper "Instaloni ADB Helper">
+<!ENTITY runtimePanel_noadbextension "Instalo Zgjerimin ADB">
 <!ENTITY runtimePanel_nousbdevice "Nuk e shihni pajisjen tuaj?">
 <!ENTITY runtimePanel_refreshDevices_label "Rifresko Pajisjet">
 
@@ -146,10 +145,6 @@
 <!ENTITY devicesetting_newname "Emër rregullimi të ri">
 <!ENTITY devicesetting_newtext "Vlerë rregullimi">
 <!ENTITY devicesetting_addnew "Shtoni rregullim të ri">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Ndihmë">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
