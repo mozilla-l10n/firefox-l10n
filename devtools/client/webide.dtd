@@ -75,6 +75,7 @@
 <!ENTITY runtimePanel_wifi "Wifi-apparaten">
 <!ENTITY runtimePanel_other "Anders">
 <!ENTITY runtimePanel_noadbhelper "ADB Helper installeren">
+<!ENTITY runtimePanel_noadbextension "ADB Extension installeren">
 <!ENTITY runtimePanel_nousbdevice "Ziet u uw apparaat niet?">
 <!ENTITY runtimePanel_refreshDevices_label "Apparaten vernieuwen">
 
