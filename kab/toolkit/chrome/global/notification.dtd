@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "IH!">
 <!ENTITY defaultButton.accesskey "I">
+
+<!ENTITY moreActionsButton.accessibleLabel "Ugar n tigawin">
