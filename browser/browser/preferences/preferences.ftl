@@ -300,6 +300,7 @@ search-keyword-warning-bookmark = អ្នក​បាន​ជ្រើសរ�
 
 ## Containers Section
 
+containers-back-link = « ថយក្រោយ
 containers-header = ផ្ទាំង​ប្រអប់​ផ្ទុក
 containers-add-button =
     .label = បន្ថែម​ប្រអប់​ផ្ទុក​ថ្មី
@@ -473,7 +474,13 @@ permissions-location-settings =
 permissions-camera-settings =
     .label = ការ​កំណត់...
     .accesskey = t
+permissions-microphone-settings =
+    .label = ការកំណត់...
+    .accesskey = t
 permissions-notification = ការ​ជូនដំណឹង
+permissions-notification-settings =
+    .label = ការកំណត់...
+    .accesskey = t
 permissions-block-popups =
     .label = ទប់ស្កាត់​​បង្អួច​លេច​ឡើង
     .accesskey = ទ
