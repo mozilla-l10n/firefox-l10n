@@ -6,6 +6,8 @@ do-not-track-description = ສົ່ງສັນຍານ “ບໍ່ຕິດ�
 do-not-track-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 do-not-track-option-default =
     .label = ສະເພາະເມື່ອມີການນຳໃຊ້ການປ້ອງກັນການຕິດຕາມ
+do-not-track-option-default-content-blocking =
+    .label = ສະເພາະໃນເວລາທີ່ { -brand-short-name } ຖືກກໍານົດໃຫ້ປິດການຕິດຕາມກວດພົບ
 do-not-track-option-always =
     .label = ຕະຫຼອດເວລາ
 pref-page =
@@ -29,6 +31,11 @@ search-input-box =
             [windows] ຄົ້ນຫາໃນ ທາງເລືອກ
            *[other] ຄົ້ນຫາໃນ ຕັ້ງຄ່າ
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] ອົງກອນຂອງທ່ານໄດ້ປິດການໃຊ້ງານຄວາມສາມາດໃນການປ່ຽນຕົວເລືອກບາງຢ່າງ
+       *[other] ອົງກອນຂອງທ່ານໄດ້ປິດການໃຊ້ງານຄວາມສາມາດໃນການປ່ຽນຄ່າກຳນົດບາງຢ່າງ
+    }
 pane-general-title = ທົ່ວໄປ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -180,6 +187,8 @@ update-enable-search-update =
 
 performance-title = ປະສິດທິພາບ
 performance-settings-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+performance-limit-content-process-option = ຂີດຈຳກັດໂປຣເຊດເນື້ອຫາ
+    .accesskey = l
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -503,24 +512,34 @@ addressbar-locbar-openpage-option =
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = ຮຽນຮູ້ເພີມຕື່ມ
+content-blocking-restore-defaults =
+    .label = ກັບຄືນສູ່ຄ່າເລີ່ມຕົ້ນ
+    .accesskey = R
 content-blocking-toggle-label-on = ເປີດ
     .accesskey = O
 content-blocking-toggle-label-off = ປິດ
     .accesskey = O
-content-blocking-fastblock-option-enabled =
-    .label = ຕ້ອງລະງັບຕະຫຼອດ
-content-blocking-fastblock-option-disabled =
-    .label = ບໍ່ຕ້ອງລະງັບເລີຍ
-content-blocking-tracking-protection-label = ຕິດຕາມ
-    .accesskey = T
-content-blocking-tracking-protection-option-enabled =
-    .label = ລະງັບຢູ່ສະເໝີ
-content-blocking-tracking-protection-option-pbm =
-    .label = ລະງັບສະເພາະໃນໜ້າຕາງສ່ວນຕົວ
-content-blocking-tracking-protection-option-disabled =
-    .label = ບໍ່ຕ້ອງລະງັບເລີຍ
 content-blocking-tracking-protection-option-always =
     .label = ສະເໝີ
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = ສະເພາະໃນໜ້າຕາງສ່ວນຕົວ
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = ປ່ຽນລາຍການທີ່ຖືກລະງັບ
+content-blocking-third-party-cookies-label =
+    .label = ຄຸກກີ້ນອກ
+    .accesskey = C
+content-blocking-change-cookie-settings =
+    .label = ປ່ຽນການຕັ້ງຄ່າຄຸກກີ້
+    .accesskey = s
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = ໂຕຕິດຕາມ(ແນະນຳ)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = ຕິດຕາມ
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = ຄຸກກີ້ນອກທັງໝົດ(ອາດເຮັດໃຫ້ເວັບໄຊມີບັນຫາ)
     .accesskey = A
 
 ## Privacy Section - Tracking
@@ -574,9 +593,14 @@ permissions-notification-pause =
 permissions-block-autoplay-media =
     .label = ບັອກເວັບໄຊບໍ່ໃຫ້ຫລິ້ນສື່ທີ່ມີສຽງໂດຍອັດຕະໂນມັດ
     .accesskey = B
+permissions-block-autoplay-media-menu = ສຳລັບເວັບໄຊທີ່ມີການຫຼິ້ນສຽງແບບອັດຕະໂນມັດ
 permissions-block-autoplay-media-exceptions =
     .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = E
+autoplay-option-ask =
+    .label = ຖາມຢູ່ສະເໝີ
+autoplay-option-allow =
+    .label = ອະນຸຍາດໃຫ້ຫຼິ້ນແບບອັດຕະໂນມັດ
 autoplay-option-dont =
     .label = ບໍ່ຕ້ອງຫຼິ້ນແບບອັດຕະໂນມັດ
 permissions-autoplay-link = ຮຽນຮູ້ເພີມຕື່ມ
@@ -602,6 +626,9 @@ permissions-a11y-privacy-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 collection-header = ການເກັບລວບລວມແລະໃຊ້ຂໍ້ມູນ { -brand-short-name }
 collection-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
 collection-health-report-link = ຮຽນຮູ້ເພີ່ມເຕີມ
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = ການລາຍງານຂໍ້ມູນຖືກປິດໃຊ້ງານສຳລັບການກຳນົດຄ່າການສ້າງນີ້
 collection-browser-errors-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 collection-backlogged-crash-reports-link = ຮຽນຮູ້ເພີ່ມເຕີມ
 
