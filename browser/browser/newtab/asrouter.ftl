@@ -6,8 +6,35 @@ cfr-doorhanger-extension-heading = الامتدادات المقترحة
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = لماذا أرى هذا
 cfr-doorhanger-extension-learn-more-link = اطّلع على المزيد
+# This string is used on a new line below the add-on name
+# Variables:
+#   $name (String) - Add-on author name
+cfr-doorhanger-extension-author = من { $name }
 
 ## Add-on statistics
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
 
+# Variables:
+#   $total (Number) - The rating of the add-on from 1 to 5
+cfr-doorhanger-extension-rating =
+    .tooltiptext =
+        { $total ->
+            [zero] لا نجوم
+            [one] نجمة واحدة
+            [two] نجمتان
+            [few] { $total } نجوم
+            [many] { $total } نجمة
+           *[other] { $total } نجمة
+        }
+# Variables:
+#   $total (Number) - The total number of users using the add-on
+cfr-doorhanger-extension-total-users =
+    { $total ->
+        [zero] لا مستخدمين
+        [one] مستخدم واحد
+        [two] مستخدمان
+        [few] { $total } مستخدمين
+        [many] { $total } مستخدما
+       *[other] { $total } مستخدم
+    }

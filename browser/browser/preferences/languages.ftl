@@ -5,6 +5,9 @@
 languages-window =
     .title = اللّغات
     .style = width: 30em
+webpage-languages-window =
+    .title = إعدادات لغة صفحة الوِب
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = تتوفّر بعض صفحات وِب بأكثر من لغة. اختر لغات عرض هذه الصّفحات، بالتّرتيب المفضّل
@@ -38,3 +41,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = إعدادات لغة { -brand-short-name }
+    .style = width: 40em
+browser-languages-description = سيعرض { -brand-short-name } أول لغة كلغة مبدئية، وستُعرض بقية اللغات البديلة بالترتيب المضبوط إن كان ضروريا.
