@@ -138,6 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamesesch
 fonts-languages-fallback-name-other =
     .label = Aner (inklusiv Westeuropäesch)
+fonts-very-large-warning-title = Grouss Mindestschrëftgréisst
+fonts-very-large-warning-message = Du hues eng ganz grouss Mindestschrëftgréisst ausgewielt (méi wéi 24 Pixelen). Dëst kann et schwéier oder onméiglech maachen, wichteg Astellungssäite wéi déi hei, ze benotzen.
+fonts-very-large-warning-accept = Meng Ännerungen trotzdeem halen
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
