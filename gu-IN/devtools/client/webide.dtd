@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "રનટાઈમ માહિતી">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "મોનિટર">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "ઉપકરણ પસંદગીઓ">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "ઉપકરણ સુયોજનો">
@@ -77,6 +75,7 @@
 <!ENTITY runtimePanel_wifi "Wi-Fi ઉપકરણો">
 <!ENTITY runtimePanel_other "અન્ય">
 <!ENTITY runtimePanel_noadbhelper "ADB સહાયક ઇન્સ્ટોલ કરો">
+<!ENTITY runtimePanel_noadbextension "ADB વિસ્તરણ સ્થાપિત કરો">
 <!ENTITY runtimePanel_nousbdevice "તમારું ઉપકરણ જોઈ શકાતું નથી?">
 <!ENTITY runtimePanel_refreshDevices_label "ઉપકરણો પુનઃતાજાં કરો">
 
@@ -146,10 +145,6 @@
 <!ENTITY devicesetting_newname "નવું સેટિંગ નામ">
 <!ENTITY devicesetting_newtext "કિંમત સુયોજિત કરી રહ્યા છે">
 <!ENTITY devicesetting_addnew "નવી સેટિંગ ઉમેરો">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "વિનિયમનકર્તા">
-<!ENTITY monitor_help "મદદ">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
