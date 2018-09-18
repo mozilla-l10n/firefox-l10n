@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (translation.thisPageIsIn.label,
   -                     translation.translateThisPage.label):
   -  These 2 strings are used to construct a sentence that contains a dropdown
@@ -11,9 +12,12 @@
   -  global/languageNames.properties file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
+<!ENTITY translation.thisPageIsIn.label         "Ñuna nu pajina na">
+<!ENTITY translation.translateThisPage.label    "Naduno' nânj ginù riña pagina na anj?">
+<!ENTITY translation.translate.button           "Nachrun nanj nï'ïn">
+<!ENTITY translation.notNow.button              "Si ga'ue akuan'ni">
 
-
-
+<!ENTITY translation.translatingContent.label   "Naduno' nânj ginù riña pajina...">
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
@@ -30,11 +34,12 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-
+<!ENTITY translation.translatedFrom.label       "Nuguan' na nahuin riña pajina na">
+<!ENTITY translation.translatedTo.label         "aj">
 <!ENTITY translation.translatedToSuffix.label   "">
 
-
-
+<!ENTITY translation.showOriginal.button        "Digun' sa hia">
+<!ENTITY translation.showTranslation.button     "Digun' nânj nachrun'">
 
 
 
@@ -45,14 +50,13 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 
-
-
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
 <!ENTITY translation.options.attribution.afterLogo "">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
