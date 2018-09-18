@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Iawn!">
 <!ENTITY defaultButton.accesskey "I">
+
+<!ENTITY moreActionsButton.accessibleLabel "Rhagor o weithredoedd">
