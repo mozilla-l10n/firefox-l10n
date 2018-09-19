@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Εντάξει!">
 <!ENTITY defaultButton.accesskey "Ε">
+
+<!ENTITY moreActionsButton.accessibleLabel "Περισσότερες ενέργειες">
