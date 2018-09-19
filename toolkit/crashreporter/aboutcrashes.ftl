@@ -4,12 +4,19 @@
 
 crash-reports-title = Annunzias da collaps
 clear-all-reports-label = Allontanar tut las annunzias
+delete-button-label = Allontanar tut
 delete-confirm-title = Allontanar las annunzias
 delete-confirm-description = Quai stizza tut las annunzias e na po betg pli vegnir revocà.
+delete-unsubmitted-description = Quai stizza tut las annunzias da collaps betg tramessas e na po betg pli vegnir revocà.
 crashes-unsubmitted-label = Annunzias da collaps betg tramessas
 id-heading = ID da l'annunzia
 date-crashed-heading = Data dal collaps
+submit-crash-button-label = Trametter
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Betg reussì
 crashes-submitted-label = Annunzias da collaps tramessas
 date-submitted-heading = Data da transmissiun
+view-crash-button-label = Mussar
 no-reports-label = Fin ussa n'èn vegnidas tramessas anc naginas annunzias da collaps.
 no-config-label = Questa applicaziun n'è betg vegnida configurada per mussar annunzias da collaps. La preferenza <code>breakpad.reportURL</code> sto vegnir exequida.
