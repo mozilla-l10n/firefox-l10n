@@ -51,7 +51,7 @@
 <!ENTITY certmgr.close.label                  "סגירה">
 <!ENTITY certmgr.close.accesskey              "ס">
 <!ENTITY certmgr.view2.label                  "הצגה…">
-<!ENTITY certmgr.view2.accesskey              "ת">
+<!ENTITY certmgr.view2.accesskey              "ה">
 <!ENTITY certmgr.edit3.label                  "עריכת אמון…">
 <!ENTITY certmgr.edit3.accesskey              "ע">
 <!ENTITY certmgr.export.label                 "ייצוא…">

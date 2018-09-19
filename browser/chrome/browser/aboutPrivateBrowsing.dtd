@@ -32,3 +32,4 @@
 <!ENTITY trackingProtection.startTour1                   "איך זה עובד?">
 
 <!ENTITY contentBlocking.title                           "חסימת תוכן">
+<!ENTITY contentBlocking.description                     "אתרים מסוימים משתמשים ברכיבי מעקב היכולים לעקוב אחר הפעילות שלך ברחבי האינטרנט. בחלונות פרטיים, חסימת התוכן של Firefox חוסמת באופן אוטומטי רכיבי מעקב רבים שיכולים לאסוף מידע על התנהגות הגלישה שלך.">

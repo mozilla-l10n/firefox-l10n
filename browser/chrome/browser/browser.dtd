@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "הרשמה לדף זה">
 <!ENTITY subscribeToPageMenuitem.label "הרשמה לדף זה…">
+
 <!ENTITY addCurPagesCmd.label "יצירת סימנייה לכל הלשוניות…">
 <!ENTITY showAllBookmarks2.label "הצגת כל הסימניות">
 <!ENTITY recentBookmarks.label "סימניות שנוספו לאחרונה">
@@ -447,6 +448,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "ניהול הרחבה">
 <!ENTITY customizeMenu.manageExtension.accesskey "ה">
 
+<!ENTITY customizeMenu.removeExtension.label "הסרת הרחבה">
+<!ENTITY customizeMenu.removeExtension.accesskey "ס">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
