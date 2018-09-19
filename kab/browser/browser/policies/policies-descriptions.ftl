@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Sbadu URL n uleqqem udmawan i usnas.
+policy-Authentication = Swel asesteb usliɣ i yesmal web i ten-yessefraken.
 policy-BlockAboutAddons = Sewḥel anekcum ɣer umsefrek n izegrar  (about:addons).
 policy-BlockAboutConfig = Sewḥel anekcum ɣer usebter n about:config.
 policy-BlockAboutProfiles = Sewḥel anekcum ɣer usebter n about:profiles.
@@ -23,6 +24,7 @@ policy-DisableBuiltinPDFViewer = Sens PDF.js, ameskan PDF usliɣ deg { -brand-sh
 policy-DisableDeveloperTools = Sewḥel anekcum ɣer ifecka n tneflit.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Sens tamahilt Firefox Screenshots.
+policy-DisableFirefoxStudies = Sewḥel aselkem n tezrawin n { -brand-short-name }.
 policy-DisableForgetButton = Sewḥel anekcum ɣer tqeffalt n usfaḍ n isefka.
 policy-DisableFormHistory = Ur ḥerrez ara amazray n unadi d tferkit.
 policy-DisableMasterPasswordCreation = ma irmed, awal uffir agejdan ur yezmir ara ad yettwarnu.
