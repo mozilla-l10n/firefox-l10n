@@ -36,13 +36,21 @@
 <!ENTITY hdrFollowupButton1.label "Responder">
 
 
+<!ENTITY otherActionsButton2.label "Más">
+<!ENTITY otherActionsOpenConversation1.label "Abrir en conversación">
+<!ENTITY markAsReadMenuItem1.label "Marcar como leído">
+<!ENTITY markAsUnreadMenuItem1.label "Marcar como no leído">
 <!ENTITY saveAsMenuItem1.label "Guardar como…">
 
 <!-- Attachment bar context menu items -->
 
 <!-- Attachment context menu items -->
+<!ENTITY openAttachmentCmd.label    "Abrir">
+<!ENTITY saveAsAttachmentCmd.label    "Guardar como…">
 
 
 <!-- Attachment toolbar items -->
+<!ENTITY saveAttachmentButton1.label       "Guardar">
+<!ENTITY saveAllAttachmentsButton1.label   "Guardar todo">
 
 
