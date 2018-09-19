@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "კარგი!">
 <!ENTITY defaultButton.accesskey "კ">
+
+<!ENTITY moreActionsButton.accessibleLabel "დამატებითი მოქმედებები">
