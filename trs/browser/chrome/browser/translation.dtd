@@ -41,20 +41,28 @@
 <!ENTITY translation.showOriginal.button        "Digun' sa hia">
 <!ENTITY translation.showTranslation.button     "Digun' nânj nachrun'">
 
+<!ENTITY translation.errorTranslating.label     "Hua 'ngo sa gire' riña pajina na.">
+<!ENTITY translation.tryAgain.button            "A'ngô ñû">
 
+<!ENTITY translation.serviceUnavailable.label   "Nitaj si huaj nachrun't a'ngo nânj. Garahue a'ngò ñu.">
 
-<!ENTITY translation.options.menu               "Nagui’iaj">
+<!ENTITY translation.options.menu               "Sa huā gi'iát">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
   -                     translation.options.preferences.accesskey):
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
+<!ENTITY translation.options.neverForSite.label "Si nachrun' a'ngò nuguan' riña sitio na">
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "Daj ga nânj nachrun'">
+<!ENTITY translation.options.preferences.accesskey "T">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
+<!ENTITY translation.options.attribution.beforeLogo "Nachrun' 'ngà">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
@@ -64,3 +72,4 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
+<!ENTITY translation.options.attribution.yandexTranslate "Ruguñu'unj Yandex.Translate">
