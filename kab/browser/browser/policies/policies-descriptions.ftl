@@ -22,6 +22,7 @@ policy-Cookies = Sireg neɣ gdel asbadu n inagan n tuqqna i yisebtar.
 policy-DisableAppUpdate = Sewḥel aleqqem n yiminig.
 policy-DisableBuiltinPDFViewer = Sens PDF.js, ameskan PDF usliɣ deg { -brand-short-name }.
 policy-DisableDeveloperTools = Sewḥel anekcum ɣer ifecka n tneflit.
+policy-DisableFirefoxAccounts = Sens tanfiwin yebnan ɣef { -fxaccount-brand-name }, ula d Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Sens tamahilt Firefox Screenshots.
 policy-DisableFirefoxStudies = Sewḥel aselkem n tezrawin n { -brand-short-name }.
@@ -35,6 +36,7 @@ policy-DisableProfileRefresh = Kkes taqeffalt n usmiren { -brand-short-name } de
 policy-DisableTelemetry = Sens tilisɣelt.
 policy-DisplayBookmarksToolbar = Deg umezwer sken-d afeggag n ifecka n ticraḍ.
 policy-DisplayMenuBar = Sken afeggag n wumuɣ s wudem amezwer.
+policy-DontCheckDefaultBrowser = Sens asenqed amezwer i yiminig deg tnekra.
 policy-FlashPlugin = Sireg neɣ gdel asemres n uzegrir Flash.
 policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
 # “lock” means that the user won’t be able to change this setting
