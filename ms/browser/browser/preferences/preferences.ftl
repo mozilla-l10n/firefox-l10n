@@ -526,7 +526,7 @@ forms-master-pw-use =
     .label = Guna kata laluan induk
     .accesskey = U
 forms-master-pw-change =
-    .label = Tukar Katalaluan Induk
+    .label = Tukar Kata laluan Induk...
     .accesskey = T
 
 ## Privacy Section - History
