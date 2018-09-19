@@ -643,7 +643,7 @@ sitedata-cookies-exceptions =
 # This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = הגדרות חסימת התוכן שלך מונעים שינויים להגדרות העוגיות ונתוני האתרים.
+sitedata-warning-your-settings-prevent-changes = ההגדרות שלך בחסימת תוכן מונעות ביצוע שינויים להגדרות העוגיות ונתוני האתרים.
 
 ## Privacy Section - Address Bar
 

@@ -22,7 +22,7 @@
 <!ENTITY devmgr.button.load.accesskey           "ט">
 <!ENTITY devmgr.button.unload.label             "פריקה">
 <!ENTITY devmgr.button.unload.accesskey         "פ">
-<!ENTITY devmgr.button.fips.accesskey           "א">
+<!ENTITY devmgr.button.fips.accesskey           "F">
 
 <!ENTITY loaddevice.info                        "נא להכניס את המידע עבור המודול שברצונך להוסיף.">
 <!ENTITY loaddevice.modname2                    "שם המודול">
