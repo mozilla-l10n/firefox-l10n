@@ -48,7 +48,7 @@
 
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Четене">
-<!ENTITY display.caption                  "Показване">
+<!ENTITY display.caption                  "Изглед">
 <!ENTITY showCondensedAddresses.label     "Aко хората са в моя адресник, се показват само имената им">
 <!ENTITY showCondensedAddresses.accesskey "х">
 

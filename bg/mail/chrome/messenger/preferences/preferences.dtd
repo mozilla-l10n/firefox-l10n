@@ -11,12 +11,9 @@
 <!ENTITY  prefWindow.titleWin     "Настройки">
 <!ENTITY  prefWindow.titleGNOME   "Настройки на &brandShortName;">
 <!ENTITY  prefWindow.titleMAC     "Настройки">
-<!ENTITY  prefWindow.styleWindows "width: 60em; min-height: 38em;">
-<!ENTITY  prefWindow.styleMac     "width: 60em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Основни">
-<!ENTITY paneDisplay.title        "Показване">
+<!ENTITY paneDisplay.title        "Изглед">
 <!ENTITY paneComposition.title    "Съставяне">
 <!ENTITY paneChat.title           "Разговори">
 <!ENTITY paneAttachments.title    "Прикачени">
