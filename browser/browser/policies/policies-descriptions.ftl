@@ -10,5 +10,8 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-DisableFormHistory = Не запамінаць гісторыю пошуку і запаўнення формаў.
+policy-DisablePrivateBrowsing = Адключыць прыватнае агляданне.
+policy-DisableTelemetry = Выключыць тэлеметрыю.
 policy-Proxy = Наладзіць параметры проксі.
 policy-SanitizeOnShutdown = Сціраць усе звесткі аб агляданні па закрыцці.
