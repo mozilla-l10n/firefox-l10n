@@ -37,6 +37,8 @@ policy-DisableTelemetry = Sens tilisɣelt.
 policy-DisplayBookmarksToolbar = Deg umezwer sken-d afeggag n ifecka n ticraḍ.
 policy-DisplayMenuBar = Sken afeggag n wumuɣ s wudem amezwer.
 policy-DontCheckDefaultBrowser = Sens asenqed amezwer i yiminig deg tnekra.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Rmed neɣ sens asewḥel n ugbur u sekker-it ma tebɣiḍ.
 policy-FlashPlugin = Sireg neɣ gdel asemres n uzegrir Flash.
 policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
 # “lock” means that the user won’t be able to change this setting
