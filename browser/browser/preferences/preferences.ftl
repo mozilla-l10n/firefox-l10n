@@ -622,7 +622,7 @@ sitedata-allow-cookies-option =
     .label = Ukládat všechny cookies a data stránek
     .accesskey = a
 sitedata-disallow-cookies-option =
-    .label = Blokovat cookies a data některých stránek
+    .label = Blokovat cookies a data stránek
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
@@ -634,10 +634,6 @@ sitedata-block-trackers-option =
     .label = cookies a data sledovacích prvků třetích stran
 sitedata-block-unvisited-option =
     .label = cookies a data dosud nenavštívených stránek
-sitedata-block-all-third-parties-option =
-    .label = cookies a data všech třetích stran
-sitedata-block-always-option =
-    .label = všechny cookies a data (může omezit fungování některých stránek)
 sitedata-block-all-third-party-option =
     .label = všechny cookies třetích stran (může omezit fungování některých stránek)
 sitedata-block-all-option =
@@ -688,26 +684,6 @@ content-blocking-toggle-label-on = ZAPNUTO
 content-blocking-toggle-label-off = VYPNUTO
     .accesskey = V
 content-blocking-category-label = Vyberte, co chcete blokovat
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Pomalé prvky třetích stran
-    .accesskey = t
-content-blocking-fastblock-description = Obsah třetích stran, který se načítá déle než 5 vteřin
-content-blocking-fastblock-option-enabled =
-    .label = Blokovat
-content-blocking-fastblock-option-disabled =
-    .label = Neblokovat
-content-blocking-tracking-protection-label = Známé sledovací prvky
-    .accesskey = S
-content-blocking-tracking-protection-description = Jejich blokování může omezit fungování některých stránek
-content-blocking-tracking-protection-option-enabled =
-    .label = Blokovat
-content-blocking-tracking-protection-option-pbm =
-    .label = Blokovat v anonymním prohlížení
-content-blocking-tracking-protection-option-disabled =
-    .label = Neblokovat
-content-blocking-tracking-protection-change-blocklist = Změnit seznam blokací…
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
