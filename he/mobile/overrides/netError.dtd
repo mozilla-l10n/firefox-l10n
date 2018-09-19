@@ -181,7 +181,7 @@
 <!ENTITY corruptedContentErrorv2.longDesc "<p>העמוד המבוקש אינו ניתן לצפייה עקב שגיאה שאותרה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם מנהלי האתר וליידע אותם על תקלה זו.</li></ul>">
 
 <!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
-<!ENTITY securityOverride.getMeOutOfHereButton "תוציא אותי מכאן!">
+<!ENTITY securityOverride.getMeOutOfHereButton "קחו אותי מכאן!">
 <!ENTITY securityOverride.exceptionButtonLabel "הוסף חריגה…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -203,12 +203,12 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc "פרטים מתקדמים: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "החיבור שלך אינו בטוח">
+<!ENTITY weakCryptoUsed.title "החיבור שלך אינו מאובטח">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc "פרטים מתקדמים: SSL_ERROR_NO_CYPHER_OVERLAP">
 
-<!ENTITY inadequateSecurityError.title "החיבור שלך אינו בטוח">
+<!ENTITY inadequateSecurityError.title "החיבור שלך אינו מאובטח">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p>ב־<span class='hostname'></span> נעשה שימוש בטכנולוגיית אבטחה מיושנת וחשופה לתקיפות. לתוקף יש אפשרות לחשוף בקלות מידע שעשוי להחשב כמאובטח. על מנהל האתר לתקן את השרת תחילה לפני שיתאפשר לך לבקר באתר.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

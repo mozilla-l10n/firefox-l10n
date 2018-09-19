@@ -10,7 +10,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "דף תקיפה מדווח!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "הדף בכתובת  <span id='malware_sitename'/> דווח בתור דף תקיפה ונחסם בהתאם להגדרות האבטחה שלך.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "הדף בכתובת <span id='malware_sitename'/> דווח בתור דף תקיפה ונחסם בהתאם להגדרות האבטחה שלך.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>דפי תקיפה מנסים להתקין תוכנות שגונבות נתונים פרטיים, עושות שימוש במחשב שלך כדי לתקוף אחרים, או בפוגעות במערכת שלך.</p><p>חלק מדפי התקיפה מפיצים בכוונה תוכנות מסוכנות, בעוד דפים אחרים שובשו ללא ידיעת בעלי האתר או בהסכמתם.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "אתר מטעה!">
