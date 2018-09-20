@@ -7,6 +7,7 @@ clear-all-reports-label = Odstrani vsa poročila
 delete-button-label = Izbriši vse
 delete-confirm-title = Ali ste prepričani?
 delete-confirm-description = S tem boste izbrisali vsa poročila, česar ni mogoče razveljaviti.
+delete-unsubmitted-description = S tem boste izbrisali vsa neposlana poročila o sesutjih, česar ni mogoče razveljaviti.
 crashes-unsubmitted-label = Neposlana poročila o sesutjih
 id-heading = ID poročila
 date-crashed-heading = Datum sesutja

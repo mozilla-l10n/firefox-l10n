@@ -10,6 +10,10 @@ cfr-doorhanger-extension-cancel-button = Ne zdaj
 cfr-doorhanger-extension-ok-button = Dodaj zdaj
     .accesskey = D
 cfr-doorhanger-extension-learn-more-link = Več o tem
+# This string is used on a new line below the add-on name
+# Variables:
+#   $name (String) - Add-on author name
+cfr-doorhanger-extension-author = — { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Priporočilo
