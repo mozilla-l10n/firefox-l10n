@@ -16,3 +16,7 @@ languages-customize-select-language =
 languages-customize-add =
     .label = Rnu
     .accesskey = R
+messenger-languages-window =
+    .title = Iɣewwaṛen n tutlayt n { -brand-short-name }
+    .style = width: 40em
+messenger-languages-description = { -brand-short-name } Ad d-yesken tutlayt tamezwarut d tutlayt-ik tamezwert, daɣen ad d-yesken tutlayin-nniḍen ma yessefk s usmizzwer akken i d-ttbanent.

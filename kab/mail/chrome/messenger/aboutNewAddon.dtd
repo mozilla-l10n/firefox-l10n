@@ -10,5 +10,6 @@
 <!ENTITY later           "Tzemreḍ yal tikkelt ad tbeddleḍ tikti-ik melmi tebɣiḍ deg 
                           umsefrak n yizegrar.">
 <!ENTITY continue        "Kemmel">
+<!ENTITY restartMessage  "Yessefk ad taleseḍ tanekra n &brandShortName; akken ad tfakeḍ asebeddi n uzegrir-agi.">
 <!ENTITY restartButton   "Ales tanekra n &brandShortName;">
 <!ENTITY cancelButton    "Sefsex">
