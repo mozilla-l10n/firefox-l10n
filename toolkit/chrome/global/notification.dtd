@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "V redu!">
 <!ENTITY defaultButton.accesskey "V">
+
+<!ENTITY moreActionsButton.accessibleLabel "Več dejanj">
