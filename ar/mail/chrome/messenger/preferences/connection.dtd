@@ -46,3 +46,4 @@
 <!ENTITY  socksRemoteDNS.label          "خادوم عناوين نطاقات الوسيط أثناء استخدام SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "ن">
 <!ENTITY  dnsOverHttps.label            "فعّل DNS عبر HTTPS">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "المسار لحلّ DNS عبر HTTPS">
