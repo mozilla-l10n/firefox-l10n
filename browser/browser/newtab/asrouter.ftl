@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cfr-doorhanger-extension-heading = ส่วนขยายที่แนะนำ
+cfr-doorhanger-extension-sumo-link =
+    .tooltiptext = ทำไมฉันจึงเห็นสิ่งนี้
 cfr-doorhanger-extension-cancel-button = ไม่ใช่ตอนนี้
     .accesskey = ม
 cfr-doorhanger-extension-ok-button = เพิ่มตอนนี้
