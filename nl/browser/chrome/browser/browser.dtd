@@ -418,7 +418,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.unverified.label "Uw account moet worden geverifieerd.">
 <!ENTITY appMenuRemoteTabs.signin.label "Aanmelden bij Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Apparaten beheren…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Synchrone-tabbladenzijbalk weergeven">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Weergeven in zijbalk">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Een ander apparaat verbinden">
 
 <!ENTITY appMenuRecentHighlights.label "Recente Highlights">
