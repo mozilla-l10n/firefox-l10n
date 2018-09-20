@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- for SearchDialog.xul -->
 
+<!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Caută mesaje în:">
 <!ENTITY searchHeading.accesskey     "C">
 <!ENTITY searchSubfolders.label      "Caută în subdosare">
@@ -19,13 +19,13 @@
 <!ENTITY results.label               "Rezultate">
 <!ENTITY moveButton.label            "Mută în">
 <!ENTITY moveButton.accesskey        "M">
-<!ENTITY closeCmd.key                "w"> 
+<!ENTITY closeCmd.key                "w">
 <!ENTITY openInFolder.label          "Deschide în dosar">
 <!ENTITY openInFolder.accesskey      "r">
 <!ENTITY saveAsVFButton.label        "Salvează ca Dosar de căutare">
 <!ENTITY saveAsVFButton.accesskey    "a">
-<!-- for ABSearchDialog.xul -->
 
+<!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Caută în:">
 <!ENTITY abSearchHeading.accesskey   "C">
 <!ENTITY propertiesButton.label      "Proprietăți">
@@ -35,8 +35,8 @@
 <!ENTITY deleteCardButton.label      "Șterge">
 <!ENTITY deleteCardButton.accesskey  "g">
 <!ENTITY abSearchDialogTitle.label   "Căutare avansată în agenda de contacte">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Conversație">
 <!ENTITY fromColumn.label "Expeditor">
 <!ENTITY recipientColumn.label "Destinatar">
@@ -56,10 +56,10 @@
 <!ENTITY starredColumn.label "Cu steluță">
 <!ENTITY locationColumn.label "Adresă">
 <!ENTITY idColumn.label "Ordine de primire">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Selectați coloanele de afișat">
-<!ENTITY threadColumn2.tooltip "Afișează mesajele grupate">
+<!ENTITY threadColumn2.tooltip "Afișează firele de conversație">
 <!ENTITY fromColumn2.tooltip "Sortează după expeditor">
 <!ENTITY recipientColumn2.tooltip "Sortează după destinatar">
 <!ENTITY correspondentColumn2.tooltip "Sortare după corespondenți">
