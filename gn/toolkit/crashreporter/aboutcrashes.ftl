@@ -4,12 +4,20 @@
 
 crash-reports-title = Marandu jejavyguáva
 clear-all-reports-label = Opavave momarandu mbogue
+delete-button-label = Emboguepa
 delete-confirm-title = Upéichapa reipota
 delete-confirm-description = Ko jeku'e omboguepaitéta oĩva marandu'i ha ndaikatuvéima oñembojevyjey.
+delete-unsubmitted-description = Kóva omboguéta opaite marandu jejavygua oñemondo’ỹva ha ndaikatúi ehejarei.
+delete-submitted-description = Kóva omboguéta marandu’i rysýi jejavygua mondopyre, hákatu ndoguemo'ãi mba'ekuaarã mondopyre. Kóva ndaikatúi ehejarei.
 crashes-unsubmitted-label = Jejavy ñemondo momarandu
 id-heading = ID momarandu
 date-crashed-heading = Crashed arange
+submit-crash-button-label = Mondo
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Jejavy
 crashes-submitted-label = Jejavy ñemondo momarandu
 date-submitted-heading = Ñemondo ára
+view-crash-button-label = Hecha
 no-reports-label = Ndojeguerahaukái jejavy momarandu.
 no-config-label = Ko tembipuru'i noñembohekói ohechauka hag̃ua marandu'i jejavy rehegua. Oñembohekova'erã pe jerohoryvéva <code>breakpad.reportURL</code>.
