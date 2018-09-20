@@ -118,7 +118,7 @@ startup-header = Іске қосылу
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = { -brand-short-name } және Firefox үшін бір уақытта жұмыс жасауды рұқсат ету
-use-firefox-sync = Кеңес: Бұл бөлек профильдерді қолданады. Олар арасында деректермен бөлісу үшін Синхрондауды қолданыңыз.
+use-firefox-sync = Кеңес: Бұл бөлек профильдерді қолданады. Олар арасында деректермен бөлісу үшін { -sync-brand-short-name } қолданыңыз.
 get-started-not-logged-in = { -sync-brand-short-name } ішіне кіру…
 get-started-configured = { -sync-brand-short-name } баптауларын ашу
 always-check-default =
@@ -557,9 +557,6 @@ history-dontremember-description = { -brand-short-name } жекелік шолу
 history-private-browsing-permanent =
     .label = Әрқашан жекелік шолу режимін қолдану
     .accesskey = ж
-history-remember-option =
-    .label = Менің шолу тарихымды және жүктемелер тарихын сақтау
-    .accesskey = М
 history-remember-browser-option =
     .label = Шолу және жүктемелер тарихын сақтау
     .accesskey = т
@@ -621,10 +618,6 @@ sitedata-block-trackers-option =
     .label = Үшінші жақты трекерлер
 sitedata-block-unvisited-option =
     .label = Шолмаған веб-сайттардан cookies файлдары
-sitedata-block-all-third-parties-option =
-    .label = Барлық үшінші жақты cookies
-sitedata-block-always-option =
-    .label = Барлық cookies файлдары (веб-сайттар сынуына әкеп соғуы мүмкін)
 sitedata-clear =
     .label = Деректерді өшіру…
     .accesskey = ш
@@ -667,26 +660,6 @@ content-blocking-toggle-label-on = ІСКЕ ҚОС.
 content-blocking-toggle-label-off = СӨНД.
     .accesskey = С
 content-blocking-category-label = Нені бұғаттауды таңдаңыз
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Бақылайтын элементтерді көрсету
-    .accesskey = с
-content-blocking-fastblock-description = Жүктелуге 5 секундтан көп алатын үшінші жақты құраманы бұғаттау.
-content-blocking-fastblock-option-enabled =
-    .label = Әрқашан бұғаттау
-content-blocking-fastblock-option-disabled =
-    .label = Ешқашан бұғаттамау
-content-blocking-tracking-protection-label = Трекерлер
-    .accesskey = Т
-content-blocking-tracking-protection-description = Барлық белгілі трекерлерді бұғаттайды (Ескерту: кейбір беттердің жүктелуіне жол бермейді).
-content-blocking-tracking-protection-option-enabled =
-    .label = Әрқашан бұғаттау
-content-blocking-tracking-protection-option-pbm =
-    .label = Тек жекелік терезелерінде бұғаттау
-content-blocking-tracking-protection-option-disabled =
-    .label = Ешқашан бұғаттамау
-content-blocking-tracking-protection-change-blocklist = Блоктізімді өзгерту…
 
 ## Privacy Section - Tracking
 
