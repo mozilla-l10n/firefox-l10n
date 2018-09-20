@@ -118,7 +118,7 @@ startup-header = Tikirisab'äl
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Tiya' q'ij chi ri { -brand-short-name } chuqa' Firefox ketzije' junam
-use-firefox-sync = Pixa': Re re' nrokisaj jachon taq ruwäch b'i'aj. Tawokisaj Ximoj richin nakomonij na'oj chi kikojol.
+use-firefox-sync = Pixa': Re re' nrokisaj jachon taq ruwäch b'i'aj. Tawokisaj { -sync-brand-short-name } richin nakomonij na'oj chi kikojol.
 get-started-not-logged-in = Tatz'ib'aj ab'i' pa { -sync-brand-short-name }…
 get-started-configured = Tijaq { -sync-brand-short-name } taq rajowab'al
 always-check-default =
@@ -619,10 +619,6 @@ sitedata-block-trackers-option =
     .label = Aj rox winäq taq ojqanela'
 sitedata-block-unvisited-option =
     .label = Kikaxlanwey ajk'amaya'l taq ruxaq man etz'eton ta
-sitedata-block-all-third-parties-option =
-    .label = Ronojel ri kikaxlanway aj rox winaqi'
-sitedata-block-always-option =
-    .label = Ronojel kaxlanwäy (yetikïr nikiya' sachoj pa taq ajk'amaya'l ruxaq)
 sitedata-clear =
     .label = Tijosq'ïx Tzij…
     .accesskey = j
@@ -665,39 +661,12 @@ content-blocking-toggle-label-on = TZIJÏL
 content-blocking-toggle-label-off = CHUPÜL
     .accesskey = O
 content-blocking-category-label = Tacha' achike naq'ät
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Taq Ruch'akul Eqal Ojqanem
-    .accesskey = E
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Eqal-Yesamajib'ëx Ojqanela'
-    .accesskey = E
-content-blocking-fastblock-description = Taq'ata' ri kipam aj rox winäq, ri niyoke' jotöl chi re ri 5 nich'ramaj richin nusamajib'ej.
-content-blocking-fastblock-option-enabled =
-    .label = Junelïk tiq'at
-content-blocking-fastblock-option-disabled =
-    .label = Majub'ey tiq'at
-content-blocking-tracking-protection-label = Ojqanela'
-    .accesskey = O
-content-blocking-tracking-protection-description = Ke'aq'ata' ronojel ri taq ojqanela' etaman kiwa (Ch'utitzijol: chuqa' yatikïr ye'aq'ät chi kesamajib'ëx ri taq ruxaq).
-content-blocking-tracking-protection-option-enabled =
-    .label = Junelïk tiq'at
-content-blocking-tracking-protection-option-pbm =
-    .label = Tiq'at xa xe pa ichinan taq tzuwäch
-content-blocking-tracking-protection-option-disabled =
-    .label = Majub'ey tiq'at
 content-blocking-tracking-protection-option-always =
     .label = Junelïk
     .accesskey = J
 content-blocking-tracking-protection-option-private =
     .label = Xa xe pa ichinan taq tzuwäch
     .accesskey = i
-content-blocking-tracking-protection-change-blocklist = Tijal Rucholajem Q'atoj…
-content-blocking-reject-trackers-label = Kikaxlanwäy Aj Rox Winäq
-    .accesskey = K
 content-blocking-change-cookie-settings =
     .label = Kek'ëx ri taq Runuk'ulem Kaxlanwäy
     .accesskey = R
