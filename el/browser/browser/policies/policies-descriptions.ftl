@@ -31,5 +31,7 @@ policy-DisablePrivateBrowsing = Απενεργοποίηση ιδιωτικής 
 policy-DisableProfileImport = Απενεργοποίηση της εντολής μενού για εισαγωγή δεδομένων από άλλο πρόγραμμα περιήγησης.
 policy-DisableProfileRefresh = Απενεργοποίηση του κουμπιού ανανέωσης { -brand-short-name } στη σελίδα about:support.
 policy-DisableTelemetry = Απενεργοποίηση τηλεμετρίας.
+policy-DisplayBookmarksToolbar = Προβολή της γραμμής σελιδοδεικτών από προεπιλογή.
 policy-DisplayMenuBar = Προβολή γραμμής μενού από προεπιλογή.
+policy-DontCheckDefaultBrowser = Απενεργοποίηση ελέγχου για το προεπιλεγμένο πρόγραμμα περιήγησης κατά την εκκίνηση.
 policy-Proxy = Προσαρμογή ρυθμίσεων μεσολάβησης.
