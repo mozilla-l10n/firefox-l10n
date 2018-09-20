@@ -25,19 +25,53 @@
 <!ENTITY dnsNotFound.pageTitle "Nu narì'ij serbidor">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Mmmm. Na'ue nari' ma sitio na ma.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Si hua hue'ê direksiôn na ni ga'ue garahuet 'ngà nej sa 'na' na:</strong>
+<ul>
+  <li>Garahue ñu nàna doj.</li>
+  <li>Ni'iaj si hua internet.</li>
+  <li>Si rajsunt firewall, ni ni'iaj &brandShortName; a'nine ma gatu't riña web.</li>
+</ul>">
 
+<!ENTITY fileNotFound.title "Nu narì'ij archivo">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Natsij ni ni'iajt si nu gachrun a'na't si yugui archivo.</li> <li>Natsij ni ni'iajt si nu narè' archivo, gisikij asi nadunâ si yugui.</li> </ul>">
 
+<!ENTITY fileAccessDenied.title "Nun raj yinaj gun' aa atû'">
+<!ENTITY fileAccessDenied.longDesc "<ul> 
+<li> ga'ue si ganare'ej nej si guisikïj dadin' na'ue gun ña atû'.</li> 
+</ul>">
 
+<!ENTITY generic.title "'Uà'">
+<!ENTITY generic.longDesc "<p>&brandShortName; hua nuj huin saj na'ue na'nïn página na.</p>">
 
+<!ENTITY captivePortal.title "Gayi'i' sesion riña red">
+<!ENTITY captivePortal.longDesc2 "<p>Da'uit gayi'ìt sesiôn asij gachrin gatut riña internet.</p>">
 
+<!ENTITY openPortalLoginPage.label2 "Nanïn' pajinâ riña Ayi'i' sesiôn riña red">
 
+<!ENTITY malformedURI.pageTitle "Nitaj si ni'ñanj URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Mmm. Nitaj si ra'nga' hue'ê direksiôn na.">
 
+<!ENTITY netInterrupt.title "Giyichin' ngè conexión">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Ngà gire' ñanj na">
 
+<!ENTITY netOffline.title "Si gida'aj internet">
 
+<!ENTITY contentEncodingError.title "Gire' 'ngo chrej nana'uij sa gachrûnt">
+<!ENTITY contentEncodingError.longDesc "<ul>
+ <li>Gi'iaj 'ngo sunnuj ni, nanà'uì' ahui si si'iaj huin sitiô na ni gachinj na'anjt nuj huin saj gire'ej.</li>
+</ul>">
 
+<!ENTITY unsafeContentType.title "'Ngo archivo hua ahii huin">
+<!ENTITY unsafeContentType.longDesc "<ul>
+ <li>Gi'iaj 'ngo sunnuj ni, nanà'uì' ahui si si'iaj huin sitiô na ni gachinj na'anjt nuj huin saj gire'ej.</li>
+ </ul>">
 
+<!ENTITY netReset.title "Nayi'ì ñû conexión">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 
 
