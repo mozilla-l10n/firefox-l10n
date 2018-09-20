@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "downloads">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "bladwijzers">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "gekopieerde tekst">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privénavigatie ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "maakt u niet anoniem">
 <!ENTITY aboutPrivateBrowsing.note.after                 " op het internet. Uw werkgever of internetserviceprovider kan nog steeds zien welke pagina’s u bezoekt.">
