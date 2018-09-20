@@ -667,6 +667,36 @@ content-blocking-category-label = Aukeratu zer blokeatu
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Karga moteltzen duten jarraipen-elementuak
     .accesskey = m
+content-blocking-fastblock-new-description = Blokeatu soilik orrien karga moteltzen duten jarraipen-elementuak.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Antzemandako jarraipen-elementu guztiak
+    .accesskey = A
+content-blocking-tracking-protection-new-description = Blokeatu jarraipen-elementu ezagunak. (Zenbait orriren karga eragotz lezake).
+content-blocking-tracking-protection-option-always =
+    .label = Beti
+    .accesskey = B
+content-blocking-tracking-protection-option-private =
+    .label = Leiho pribatuetan soilik
+    .accesskey = h
+content-blocking-tracking-protection-change-block-list = Aldatu blokeo-zerrenda
+content-blocking-third-party-cookies-label =
+    .label = Hirugarrenen cookieak
+    .accesskey = c
+content-blocking-reject-trackers-description = Blokeatu hirugarrenen cookie guztiak edo jarraipen-elementuek ezarritakoak soilik.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Cookie eta guneetako datuen zure ezarpenek hirugarrenen cookie-ezarpenak aldatzea eragozten dute.
+content-blocking-change-cookie-settings =
+    .label = Aldatu cookie-ezarpenak
+    .accesskey = z
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Jarraipen-elementuak (gomendatua)
+    .accesskey = r
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Jarraipen-elementuak
+    .accesskey = r
 
 ## Privacy Section - Tracking
 

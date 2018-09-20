@@ -139,6 +139,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Gehitu salbuespena…">
 
+<!ENTITY securityOverride.exceptionButton1Label "Onartu arriskua eta jarraitu">
 
 <!ENTITY errorReporting.automatic2 "Eman honen gisako erroreen berri Mozillari asmo txarreko guneak identifikatzen eta blokeatzen laguntzeko">
 <!ENTITY errorReporting.learnMore "Argibide gehiago…">
