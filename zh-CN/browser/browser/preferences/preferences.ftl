@@ -123,8 +123,8 @@ startup-header = 启动
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = 允许 { -brand-short-name } 和 Firefox 同时运行
-use-firefox-sync = 提示：这将使用单独的配置文件。使用“同步”在它们之间同步数据。
-get-started-not-logged-in = 登录到 { -sync-brand-short-name }…
+use-firefox-sync = 提示：这将使用单独的配置文件，可使用“{ -sync-brand-short-name }”在两套浏览器间共享数据。
+get-started-not-logged-in = 登录到{ -sync-brand-short-name }…
 get-started-configured = 打开{ -sync-brand-short-name }服务首选项
 always-check-default =
     .label = 始终检查 { -brand-short-name } 是否是您的默认浏览器
@@ -623,10 +623,6 @@ sitedata-block-trackers-option =
     .label = 第三方跟踪器
 sitedata-block-unvisited-option =
     .label = 未访问网站的 Cookie
-sitedata-block-all-third-parties-option =
-    .label = 所有第三方 Cookie
-sitedata-block-always-option =
-    .label = 所有 Cookie（可能导致网站异常）
 sitedata-block-all-third-party-option =
     .label = 所有第三方 Cookie（可能导致网站异常）
 sitedata-block-all-option =
@@ -677,26 +673,6 @@ content-blocking-toggle-label-on = 开
 content-blocking-toggle-label-off = 关
     .accesskey = O
 content-blocking-category-label = 选择要拦截的内容
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = 减慢加载的跟踪元素
-    .accesskey = S
-content-blocking-fastblock-description = 拦截加载时间超过 5 秒的第三方内容。
-content-blocking-fastblock-option-enabled =
-    .label = 始终拦截
-content-blocking-fastblock-option-disabled =
-    .label = 永不拦截
-content-blocking-tracking-protection-label = 跟踪器
-    .accesskey = T
-content-blocking-tracking-protection-description = 拦截已知的所有跟踪器（注意：可能影响某些页面的加载）。
-content-blocking-tracking-protection-option-enabled =
-    .label = 始终拦截
-content-blocking-tracking-protection-option-pbm =
-    .label = 仅在隐私浏览窗口中拦截
-content-blocking-tracking-protection-option-disabled =
-    .label = 永不拦截
-content-blocking-tracking-protection-change-blocklist = 更换拦截列表…
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
