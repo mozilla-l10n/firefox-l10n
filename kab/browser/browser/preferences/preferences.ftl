@@ -673,7 +673,16 @@ content-blocking-toggle-label-on = Yermed
 content-blocking-toggle-label-off = Insa
     .accesskey = n
 content-blocking-category-label = Fren ayen ad tesweḥleḍ
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Ineḍfaren isaẓẓayen asali
+    .accesskey = s
 content-blocking-fastblock-new-description = Sewḥel kan ineḍfaren isaẓẓayen asali n isebtar.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Akk ineḍfaren yettwafen
+    .accesskey = i
 content-blocking-tracking-protection-new-description = Sewḥel akk ineḍfaren yettwasnen. (Izmer ad isewḥel asali n kra n isebtar.)
 content-blocking-tracking-protection-option-always =
     .label = Yal tikelt
@@ -682,6 +691,9 @@ content-blocking-tracking-protection-option-private =
     .label = Deg usfaylu uslig kan
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Snifel tabdart n usewḥel
+content-blocking-third-party-cookies-label =
+    .label = Inagan n tuqna n tɣawsiwin tis kraḍ
+    .accesskey = I
 content-blocking-reject-trackers-description = Sewḥel akk inagan n tuqqna wis kraḍ neɣ wid-ak kan yettuneḍfaṛen.
 content-blocking-change-cookie-settings =
     .label = Beddel iɣewwaṛen n inagan n tuqqna
