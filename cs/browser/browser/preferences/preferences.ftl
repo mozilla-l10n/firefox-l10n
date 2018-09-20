@@ -819,7 +819,7 @@ collection-studies-link = Zobrazit studie aplikace { -brand-short-name }
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Odesílání dat je zakázáno konfigurací tohoto sestavení
 collection-browser-errors =
-    .label = Povolit aplikaci { -brand-short-name } odesílat Mozille hlášení o chybách a chybové zprávy.
+    .label = Povolit aplikaci { -brand-short-name } odesílat Mozille hlášení o chybách a chybové zprávy
     .accesskey = b
 collection-browser-errors-link = Zjistit více
 collection-backlogged-crash-reports =
