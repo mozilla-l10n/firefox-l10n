@@ -4,11 +4,15 @@
 
 crash-reports-title = Звіти про збої
 clear-all-reports-label = Вилучити всі звіти
+delete-button-label = Очистити все
 delete-confirm-title = Ви певні?
 delete-confirm-description = Ця дія знищить назавжди всі ваші звіти про аварії
 crashes-unsubmitted-label = Не надіслані звіти про збої
 id-heading = ID звіту
 date-crashed-heading = Дата збою
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Не вдалося
 crashes-submitted-label = Надіслані звіти про збої
 date-submitted-heading = Дата надсилання
 no-reports-label = Жодних звітів про збої не надсилалось.
