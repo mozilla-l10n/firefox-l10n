@@ -432,7 +432,7 @@
 <!ENTITY bookmarkPageCmd2.label "Dodaj zakładkę do tej strony">
 <!ENTITY bookmarkPageCmd2.accesskey "D">
 <!ENTITY bookmarkThisLinkCmd.label "Dodaj zakładkę do odnośnika">
-<!ENTITY bookmarkThisLinkCmd.accesskey "a">
+<!ENTITY bookmarkThisLinkCmd.accesskey "D">
 <!ENTITY bookmarkThisFrameCmd.label "Dodaj zakładkę do ramki">
 <!ENTITY bookmarkThisFrameCmd.accesskey "D">
 <!ENTITY pageAction.copyLink.label "Kopiuj odnośnik">
