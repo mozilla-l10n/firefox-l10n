@@ -87,10 +87,22 @@
 <li>Ga'min ngà sô' 'nïnj ra'a red na da' gini'in yangà't sisi proxy  'iaj sun hue'ê a.</li> 
 </ul>">
 
+<!ENTITY proxyResolveFailure.title "Na'ue nari'ìj proxy ma">
 
+<!ENTITY redirectLoop.title "Nitaj si 'iaj redireksionando hue'ê pajinâ nan">
+<!ENTITY redirectLoop.longDesc "<ul>
+ <li>'Iaj chì' riña aga' na si guruhuaj dadin ga'nèjt nej cookies.</li> 
+</ul>">
 
+<!ENTITY unknownSocketType.title "Se 'ngo nuguan' hue'ê nariki servidor">
+<!ENTITY unknownSocketType.longDesc "<ul>
+ <li>Natsij ni ni'iajt sisi nikaj si aga't 'ngo sa narán riña nej nuguan'  a'min rayi'î ra.</li> 
+<li>Sa nagi'iaj nakàt ni se 'ngo sa aran' dugui' ngà servidor huin yi'ì dan 'iaj chíj a.</li>
+ </ul>">
 
+<!ENTITY nssFailure2.title "Gire' conexión hia">
 
+<!ENTITY certerror.longpagetitle1 "Nitaj si gua hue'e si conexion re'">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -107,10 +119,15 @@ was trying to connect. -->
 
 
 
+<!ENTITY errorReporting.learnMore "Gahuin chrūn doj...">
 
+<!ENTITY remoteXUL.title "XUL nagi'iaj mun'ûn'">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Gachinj ni'ia riñan nin nana'ui' ahuin si si'iaj huin sitio nan da' nata' nuin si gahuin an.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Si ga'ue guida'a hue'e man ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Nuguan' nga huaj ne'ñan an: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
