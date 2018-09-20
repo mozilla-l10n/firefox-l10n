@@ -32,3 +32,5 @@ policy-DisableFormHistory = No recordar el historial de búsqueda y formularios.
 policy-DisableMasterPasswordCreation = Si se activa, no se puede crear una contraseña maestra.
 policy-DisablePocket = Desactivar la función para guardar páginas web en Pocket.
 policy-DisablePrivateBrowsing = Desactivar la navegación privada.
+policy-DisableTelemetry = Desactivar Telemetry.
+policy-DontCheckDefaultBrowser = Desactivar la comprobación de navegador predeterminado al iniciar.
