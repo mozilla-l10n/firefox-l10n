@@ -429,7 +429,7 @@ containers-remove-button =
 
 sync-signedout-caption = Πάρτε μαζί σας το διαδίκτυο
 sync-signedout-description = Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα, καθώς και τις προτιμήσεις σας σε όλες τις συσκευές σας.
-sync-signedout-account-title = Σύνδεση με ένα λογαριασμό Firefox
+sync-signedout-account-title = Σύνδεση με ένα { -fxaccount-brand-name }
 sync-signedout-account-create = Δεν έχετε λογαριασμό; Ξεκινήστε
     .accesskey = Γ
 sync-signedout-account-signin =
@@ -625,10 +625,6 @@ sitedata-block-trackers-option =
     .label = Ιχνηλάτες τρίτων
 sitedata-block-unvisited-option =
     .label = Cookies από ιστοσελίδες που δεν έχετε επισκεφθεί
-sitedata-block-all-third-parties-option =
-    .label = Όλα τα cookies τρίτων
-sitedata-block-always-option =
-    .label = Όλα τα cookies (πιθανή δυσλειτουργία ιστοσελίδων)
 sitedata-block-all-option =
     .label = Όλα τα cookies (θα προκαλέσει δυσλειτουργία ιστοσελίδων)
 sitedata-clear =
@@ -673,26 +669,6 @@ content-blocking-toggle-label-on = ΕΝΕΡΓΗ
 content-blocking-toggle-label-off = ΑΝΕΝΕΡΓΗ
     .accesskey = Α
 content-blocking-category-label = Επιλέξτε τι θα αποκλείεται
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Αργά στοιχεία καταγραφής
-    .accesskey = Α
-content-blocking-fastblock-description = Αποκλείει περιεχόμενο τρίτων που χρειάζεται πάνω από 5 δευτερόλεπτα για φόρτωση.
-content-blocking-fastblock-option-enabled =
-    .label = Πάντα φραγή
-content-blocking-fastblock-option-disabled =
-    .label = Ποτέ φραγή
-content-blocking-tracking-protection-label = Ιχνηλάτες
-    .accesskey = Ι
-content-blocking-tracking-protection-description = Αποκλείει όλους τους γνωστούς ιχνηλάτες (Σημείωση: ενδέχεται να εμποδιστεί η φόρτωση ορισμένων σελίδων).
-content-blocking-tracking-protection-option-enabled =
-    .label = Πάντα φραγή
-content-blocking-tracking-protection-option-pbm =
-    .label = Φραγή μόνο σε ιδιωτικά παράθυρα
-content-blocking-tracking-protection-option-disabled =
-    .label = Ποτέ φραγή
-content-blocking-tracking-protection-change-blocklist = Αλλαγή λίστας αποκλεισμού…
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
