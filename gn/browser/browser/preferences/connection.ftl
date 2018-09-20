@@ -67,3 +67,6 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS eipurúva SOCKS v5
     .accesskey = d
+connection-dns-over-https-url = URL
+    .accesskey = U
+    .tooltiptext = URL eipuru DNS HTTPS rangue

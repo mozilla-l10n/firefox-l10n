@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy ñanduti rehegua
+network-settings-title = Jeike ñemboheko
 network-proxy-connection-description = Emboheko { -brand-short-name } ramo ojuajúvo ñanduti rehe.
 network-proxy-connection-learn-more = Kuaave
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = { -brand-short-name } oipurujeýta pe ñemboh
 history-private-browsing-permanent =
     .label = Kundaha ñemi jepuru tapia
     .accesskey = p
-history-remember-option =
-    .label = Tembiasakue mboguejy ha kundaha rehegua Mandu'a
-    .accesskey = M
 history-remember-browser-option =
     .label = Kundaha rembiasakue ha ñemboguejy mandu’a
     .accesskey = b
@@ -621,10 +619,6 @@ sitedata-block-trackers-option =
     .label = Jehekaha mbohapyháva
 sitedata-block-unvisited-option =
     .label = Ñanduti renda kookie eike’ỹhague
-sitedata-block-all-third-parties-option =
-    .label = Opaite kookie mbohapyhagua
-sitedata-block-always-option =
-    .label = Opaite umi kookie (ikatu ojavyka ñanduti rendápe)
 sitedata-clear =
     .label = Mba'ekuaarã mopotĩ…
     .accesskey = l
@@ -667,26 +661,16 @@ content-blocking-toggle-label-on = Myandy
 content-blocking-toggle-label-off = Pe'a
     .accesskey = O
 content-blocking-category-label = Eiporavo mba’épa ejokóta
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Mba’epuru jehekaha imbegue
-    .accesskey = S
-content-blocking-fastblock-description = Ejoko tetepy mbopyguáva hi’arevéva 5 aravo’ivégui henyhẽ hag̃ua.
-content-blocking-fastblock-option-enabled =
-    .label = Ejoko tapiaite
-content-blocking-fastblock-option-disabled =
-    .label = Ani ejoko araka’eve
-content-blocking-tracking-protection-label = Jehekaha
-    .accesskey = T
-content-blocking-tracking-protection-description = Ejoko opaite jehekaha eikuaáva (Kuaarã: Ikatu avei ojoko kuatiarogue ñemyenyhẽ).
-content-blocking-tracking-protection-option-enabled =
-    .label = Ejoko tapiaite
-content-blocking-tracking-protection-option-pbm =
-    .label = Ejoko ovetã ñemiguápe añoite
-content-blocking-tracking-protection-option-disabled =
-    .label = Ani ejoko araka’eve
-content-blocking-tracking-protection-change-blocklist = Emoambue jejokoha rysýi...
+content-blocking-tracking-protection-option-always =
+    .label = Tapiaite
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Ovetã ñemíme añoite
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Emoambue jokoha rysýi
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Tapykuehoha
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
