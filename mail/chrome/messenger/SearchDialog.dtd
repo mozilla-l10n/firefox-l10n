@@ -71,8 +71,8 @@
 <!ENTITY statusColumn2.tooltip "Sortează după stare">
 <!ENTITY sizeColumn2.tooltip "Sortează după dimensiune">
 <!ENTITY junkStatusColumn2.tooltip "Sortează după nesolicitate">
-<!ENTITY unreadColumn2.tooltip "Numărul de mesaje necitite în șir">
-<!ENTITY totalColumn2.tooltip "Numărul total de mesaje în șir">
+<!ENTITY unreadColumn2.tooltip "Numărul de mesaje necitite din conversație">
+<!ENTITY totalColumn2.tooltip "Numărul total de mesaje din conversație">
 <!ENTITY readColumn2.tooltip "Sortează după citite">
 <!ENTITY receivedColumn2.tooltip "Sortează după data primirii">
 <!ENTITY starredColumn2.tooltip "Sortează după stea">
