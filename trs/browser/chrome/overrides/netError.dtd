@@ -5,13 +5,33 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY loadError.label "Na'ué gana'nin ñanj nan">
+<!ENTITY retry.label "A'ngô ñû">
+<!ENTITY returnToPreviousPage.label "Nanikàj rukù">
+<!ENTITY returnToPreviousPage1.label "Nanikàj ruku' (Sa sā' huin)">
+<!ENTITY advanced.label "Sa huaj ñaa">
 
+<!ENTITY continue2.label "Doj…">
+<!ENTITY moreInformation.label "Doj nuguan' a'min rayi'î nan">
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.title "Na'ue gatu riña internet ma">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
+<!ENTITY deniedPortAccess.title "Hua arán riña sitiô na">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.pageTitle "Nu narì'ij serbidor">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Mmmm. Na'ue nari' ma sitio na ma.">
+
+
+
+
+
+
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 
 
@@ -26,32 +46,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
@@ -65,17 +60,20 @@ was trying to connect. -->
 
 
 
+
+
+
+
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
 
-
-
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
 
 
