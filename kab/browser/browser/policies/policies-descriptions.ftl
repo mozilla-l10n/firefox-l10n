@@ -45,4 +45,8 @@ policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Sbadu akked sewḥel ma tebɣiḍ asebter agejdan.
 policy-InstallAddonsPermission = Sireg asebded n izegrar di kra n ismal web.
+policy-Permissions = Swel tisirag i tkamirat, asawaḍ, adig akked ilɣa.
+policy-PopupBlocking = Sireg kra n ismal web ad skanayen Isfuyla udhimens wudem amezwer.
 policy-Proxy = Swel iɣewwaṛen n upṛuksi.
+policy-SanitizeOnShutdown = Sfeḍ akk isefka n tunigin deg usexsi.
+policy-SearchBar = Sbadu adig imezwer n ufeggag n unadi. Aseqdac izmer ad t-isagen.
