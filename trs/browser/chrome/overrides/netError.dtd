@@ -73,8 +73,19 @@
 <!ENTITY netReset.title "Nayi'ì ñû conexión">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
+<!ENTITY netTimeout.title "Ganahuij diû ana'uijt">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Nu gachrun hue'êt direksiôn">
+<!ENTITY unknownProtocolFound.longDesc "<ul>
+ <li>Da'uît ni ga'nïnjt a'ngô programa da' nu nayi'nïj riña dirección na.</li>
+ </ul>">
 
+<!ENTITY proxyConnectFailure.title "Nu a'nïnj servidor proxy gatut riña internet">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Ni'iaj si nagi'iaj hue'êt riña proxy a.</li> 
+<li>Ga'min ngà sô' 'nïnj ra'a red na da' gini'in yangà't sisi proxy  'iaj sun hue'ê a.</li> 
+</ul>">
 
 
 
