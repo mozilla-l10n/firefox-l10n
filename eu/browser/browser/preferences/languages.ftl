@@ -5,6 +5,9 @@
 languages-window =
     .title = Hizkuntzak
     .style = width: 38em
+webpage-languages-window =
+    .title = Webgunearen hizkuntza-ezarpenak
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Web orriak hainbat hizkuntzatan eskaintzen dira batzuetan. Aukeratu orri hauek bistaratzeko hizkuntzak, hobespenaren arabera ordenatuta
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } hizkuntza-ezarpenak
+    .style = width: 40em

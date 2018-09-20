@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Ados!">
 <!ENTITY defaultButton.accesskey "A">
+
+<!ENTITY moreActionsButton.accessibleLabel "Ekintza gehiago">
