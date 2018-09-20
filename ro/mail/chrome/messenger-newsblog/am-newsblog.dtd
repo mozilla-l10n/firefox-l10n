@@ -6,6 +6,7 @@
 <!ENTITY loginAtStartup.accesskey      "c">
 
 <!ENTITY biffAll.label                 "Activează actualizările pentru toate fluxurile">
+<!ENTITY biffAll.accesskey             "E">
 
 <!ENTITY newFeedSettings.label         "Setări implicite pentru fluxurile de știri">
 
