@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title             "Aggan n ufeggag n ifecka">
-<!ENTITY dialog.dimensions        "tahri: 92ch; tuγzi: 36em;">
+<!ENTITY dialog.dimensions        "width: 94ch; height: 36em;">
 <!ENTITY instructions.description "Rnu neɣ kkes iferdisen s uzuɣeṛ ɣeṛ neɣ seg ifeggagen n ifecka.">
 <!ENTITY show.label               "Sken-d:">
 <!ENTITY iconsAndText.label       "Tigiyin d uḍris">
@@ -13,6 +13,6 @@
 <!ENTITY useSmallIcons.label      "Seqdec tigniyin meẓẓiyen">
 <!ENTITY restoreDefaultSet.label  "Tawila s uwennez n tazwara">
 <!ENTITY addNewToolbar.label      "Rnu afeggag n ifecka amaynut">
-<!ENTITY showTitltbar.label       "Sken afeggag n uzwel">
+<!ENTITY showTitlebar.label       "Sken afeggag n uzwel">
 <!ENTITY saveChanges.label        "Immed">
 <!ENTITY undoChanges.label        "Sefsex isniflen">
