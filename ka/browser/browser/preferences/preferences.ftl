@@ -125,7 +125,7 @@ separate-profile-mode =
     .label = { -brand-short-name }-ის და Firefox-ის ერთად გაშვების ნების დართვა
 use-firefox-sync = რჩევა: ეს სხვადასხვა პროფილებს იყენებს. მათ შორის მონაცემების გასაზიარებლად { -sync-brand-short-name } გამოიყენეთ.
 get-started-not-logged-in = { -sync-brand-short-name }-ში შესვლა…
-get-started-configured = სინქრონიზაციის პარამეტრების გახსნა
+get-started-configured = { -sync-brand-short-name }-პარამეტრების გახსნა
 always-check-default =
     .label = ყოველთვის შემოწმდეს, არის თუ არა { -brand-short-name } ნაგულისხმევი ბრაუზერი
     .accesskey = ვ
@@ -627,10 +627,6 @@ sitedata-block-trackers-option =
     .label = ცალკეული მეთვალყურეები
 sitedata-block-unvisited-option =
     .label = ფუნთუშები მოუნახულებელი გვერდებიდან
-sitedata-block-all-third-parties-option =
-    .label = მესამე მხარის ყველა ფუნთუშა
-sitedata-block-always-option =
-    .label = ყველა ფუნთუშა (შესაძლოა საიტებმა ვერ იმუშაოს გამართულად)
 sitedata-block-all-third-party-option =
     .label = ყველა მესამე მხარის ფუნთუშა (შესაძლოა ხარვეზები გამოიწვიოს საიტზე)
 sitedata-block-all-option =
@@ -681,26 +677,6 @@ content-blocking-toggle-label-on = ჩართული
 content-blocking-toggle-label-off = გამორთული
     .accesskey = გ
 content-blocking-category-label = მიუთითეთ, რა შეიზღუდოს
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = ნელი თვალყურისმდევნელი ელემენტები
-    .accesskey = ნ
-content-blocking-fastblock-description = შეზღუდავს არასასურველ შიგთავსს, რომლის ჩატვირთვაც 5 წამზე დიდხანს გასტანს.
-content-blocking-fastblock-option-enabled =
-    .label = ყოველთვის შეიზღუდოს
-content-blocking-fastblock-option-disabled =
-    .label = არასდროს შეიზღუდოს
-content-blocking-tracking-protection-label = მეთვალყურეები
-    .accesskey = მ
-content-blocking-tracking-protection-description = შეზღუდავს ყველა ცნობილ მეთვალყურეს (შენიშვნა: შესაძლოა ზოგიერთი გვერდი ვერ ჩაიტვირთოს).
-content-blocking-tracking-protection-option-enabled =
-    .label = ყოველთვის შეიზღუდოს
-content-blocking-tracking-protection-option-pbm =
-    .label = შეიზღუდოს მხოლოდ პირად ფანჯრებში
-content-blocking-tracking-protection-option-disabled =
-    .label = არასდროს შეიზღუდოს
-content-blocking-tracking-protection-change-blocklist = შეზღუდულთა სიის შეცვლა…
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
