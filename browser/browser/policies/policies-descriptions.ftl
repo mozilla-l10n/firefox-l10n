@@ -34,4 +34,10 @@ policy-DisableTelemetry = Απενεργοποίηση τηλεμετρίας.
 policy-DisplayBookmarksToolbar = Προβολή της γραμμής σελιδοδεικτών από προεπιλογή.
 policy-DisplayMenuBar = Προβολή γραμμής μενού από προεπιλογή.
 policy-DontCheckDefaultBrowser = Απενεργοποίηση ελέγχου για το προεπιλεγμένο πρόγραμμα περιήγησης κατά την εκκίνηση.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Ενεργοποίηση ή απενεργοποίηση φραγής περιεχομένου και προαιρετικό κλείδωμα.
+policy-FlashPlugin = Αποδοχή ή απόρριψη χρήσης του αρθρώματος Flash.
+policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοποίηση επιτάχυνσης υλικού.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Ορισμός και προαιρετικό κλείδωμα της αρχικής σελίδας.
 policy-Proxy = Προσαρμογή ρυθμίσεων μεσολάβησης.
