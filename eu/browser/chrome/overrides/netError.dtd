@@ -105,6 +105,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> gunearen jabeak webgunea gaizki konfiguratu du. Zure informazioa lapurtzea saihesteko, &brandShortName; ez da webgune honetara konektatu.">
 
+<!ENTITY certerror.introPara2 "&brandShortName;(e)k balizko segurtasun-mehatxu bat antzeman du eta ez du jarraitu <span class='hostname'/> ostalarira. Gune hau bisitatzen baduzu, erasotzaileak zure pasahitzak, mezu elektronikoak edo kreditu-txartelen xehetasunak lapurtzen saia litezke.">
 
 <!ENTITY certerror.expiredCert.secondPara "Litekeena da zure ordenagailuko erlojuak ordua gaizki izatea eta honek &brandShortName;(r)i modu seguruan konektatzea eragozten dio.">
 
