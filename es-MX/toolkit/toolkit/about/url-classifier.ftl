@@ -2,10 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = Información sobre el clasificador de URL
 url-classifier-provider-title = Provedor
 url-classifier-provider = Provedor
 url-classifier-provider-last-update-time = Última actualización
 url-classifier-provider-next-update-time = Próxima actualización
+url-classifier-provider-back-off-time = Tiempo de retiro
 url-classifier-provider-last-update-status = Estado de la última actualización
 url-classifier-provider-update-btn = Actualización
 url-classifier-cache-title = Caché
