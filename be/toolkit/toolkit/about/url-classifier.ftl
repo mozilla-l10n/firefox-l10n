@@ -2,8 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = Інфармацыя аб класіфікатары URL
 url-classifier-provider-title = Правайдар
 url-classifier-provider = Правайдар
+url-classifier-provider-last-update-time = Час апошняга абнаўлення
+url-classifier-provider-next-update-time = Час наступнага абнаўлення
+url-classifier-provider-last-update-status = Статус апошняга абнаўлення
 url-classifier-provider-update-btn = Абнавіць
 url-classifier-debug-title = Адладка
 url-classifier-debug-module-btn = Пазначыць модулі журнала
