@@ -203,6 +203,9 @@ choose-button =
     .label = Velg …
     .accesskey = V
 choose-browser-language-description = Velg språkene som brukes til å vise menyer, meldinger og varsler fra { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Velg alternativer…
+    .accesskey = l
 confirm-browser-language-change-description = Start om { -brand-short-name } for å bruke disse endringene
 confirm-browser-language-change-button = Bruk og start om
 translate-web-pages =
@@ -619,10 +622,8 @@ sitedata-block-trackers-option =
     .label = Tredjeparts-sporere
 sitedata-block-unvisited-option =
     .label = Infokapsler fra ubesøkte nettsteder
-sitedata-block-all-third-parties-option =
-    .label = Alle tredjeparts infokapsler
-sitedata-block-always-option =
-    .label = Alle infokapsler (kan føre til at nettsteder ikke fungerer)
+sitedata-block-all-third-party-option =
+    .label = Alle tredjeparts-infokapsler (kan forårsake feil på nettsteder)
 sitedata-clear =
     .label = Tøm data…
     .accesskey = a
@@ -665,26 +666,6 @@ content-blocking-toggle-label-on = PÅ
 content-blocking-toggle-label-off = AV
     .accesskey = A
 content-blocking-category-label = Velg hva som skal blokkeres
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Trege sporingselementer
-    .accesskey = s
-content-blocking-fastblock-description = Blokkerer tredjepartsinnhold som tar lengre tid enn 5 sekunder å laste inn.
-content-blocking-fastblock-option-enabled =
-    .label = Blokker alltid
-content-blocking-fastblock-option-disabled =
-    .label = Blokker aldri
-content-blocking-tracking-protection-label = Sporere
-    .accesskey = S
-content-blocking-tracking-protection-description = Blokkerer alle kjente sporere (Merk: kan også forhindre at noen sider laster inn).
-content-blocking-tracking-protection-option-enabled =
-    .label = Blokker alltid
-content-blocking-tracking-protection-option-pbm =
-    .label = Blokker kun i private vindu
-content-blocking-tracking-protection-option-disabled =
-    .label = Blokker aldri
-content-blocking-tracking-protection-change-blocklist = Endre blokkeringsliste…
 
 ## Privacy Section - Tracking
 
