@@ -11,3 +11,5 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Angi egendefinert programoppdateringsadresse.
+policy-InstallAddonsPermission = Tillat visse nettsteder å installere utvidelser.
+policy-Proxy = Konfigurer proxy-innstillinger.
