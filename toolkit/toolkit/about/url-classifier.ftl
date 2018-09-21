@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = URL 分类器信息
 url-classifier-provider-title = 供应商
 url-classifier-provider = 供应商
 url-classifier-provider-last-update-time = 上次更新时间
@@ -18,7 +19,9 @@ url-classifier-cache-pcache-entries = 阳性缓存总数量
 url-classifier-cache-show-entries = 显示项目
 url-classifier-cache-entries = 缓存项目
 url-classifier-cache-prefix = 前缀
+url-classifier-cache-ncache-expiry = 阴性缓存期限
 url-classifier-cache-fullhash = 完整散列
+url-classifier-cache-pcache-expiry = 阳性缓存期限
 url-classifier-debug-title = 调试
 url-classifier-debug-module-btn = 设置日志模块
 url-classifier-debug-file-btn = 设置日志文件
