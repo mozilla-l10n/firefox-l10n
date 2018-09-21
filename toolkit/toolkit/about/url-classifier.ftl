@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = URL классификатор ақпараты
 url-classifier-provider-title = Провайдер
 url-classifier-provider = Провайдер
 url-classifier-provider-last-update-time = Соңғы жаңарту уақыты
