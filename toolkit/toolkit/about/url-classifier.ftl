@@ -1,0 +1,32 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+url-classifier-provider-title = प्रदाता
+url-classifier-provider = प्रदाता
+url-classifier-provider-last-update-time = अंतिम अद्यतन समय
+url-classifier-provider-next-update-time = अगला अद्यतन समय
+url-classifier-provider-last-update-status = अंतिम अद्यतन स्थिति
+url-classifier-provider-update-btn = अद्यतन
+url-classifier-cache-title = कैश
+url-classifier-cache-refresh-btn = ताज़ा करें
+url-classifier-cache-clear-btn = साफ करें
+url-classifier-cache-table-name = सारणी नाम
+url-classifier-cache-ncache-entries = नकारात्मक कैश प्रविष्टियों की संख्या
+url-classifier-cache-pcache-entries = सकारात्मक कैश प्रविष्टियों की संख्या
+url-classifier-cache-show-entries = प्रविष्टियाँ दिखाएँ
+url-classifier-cache-entries = कैश प्रविष्टियाँ
+url-classifier-cache-prefix = उपसर्ग
+url-classifier-cache-fullhash = पूर्ण हैश
+url-classifier-debug-title = दोषसुधार
+url-classifier-debug-module-btn = लॉग मॉड्यूल सेट करें
+url-classifier-debug-file-btn = लॉग फ़ाइल सेट करें
+url-classifier-debug-file = वर्तमान लॉग फ़ाइल
+url-classifier-trigger-update = ट्रिगर अद्यतन
+url-classifier-not-available = N/A
+url-classifier-enabled = सक्रिय
+url-classifier-disabled = निष्क्रिय
+url-classifier-updating = अद्यतन हो रहा
+url-classifier-cannot-update = अद्यतन नहीं हो सकता
+url-classifier-success = सफल
+url-classifier-update-error = अद्यतन त्रुटि ({ $error })
