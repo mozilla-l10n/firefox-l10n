@@ -643,6 +643,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Izjeme …
     .accesskey = Z
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Vaše nastavitve zavračanja vsebine preprečujejo spremembe nastavitev piškotkov in podatkov strani.
 
 ## Privacy Section - Address Bar
 
@@ -686,6 +690,7 @@ content-blocking-fastblock-new-description = Zavračaj samo sledilce, ki upočas
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Vse zaznane sledilce
     .accesskey = V
+content-blocking-tracking-protection-new-description = Zavračaj vse znane sledilce. (Lahko prepreči nalaganje nekaterih strani.)
 content-blocking-tracking-protection-option-always =
     .label = Vedno
     .accesskey = V
@@ -697,6 +702,11 @@ content-blocking-third-party-cookies-label =
     .label = Piškotke tretjih strani
     .accesskey = t
 content-blocking-reject-trackers-description = Zavračaj vse piškotke tretjih strani ali samo tiste, ki jih nastavijo sledilci.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Vaše nastavitve piškotkov in podatkov strani preprečujejo spremembe nastavitev piškotkov tretjih strani.
 content-blocking-change-cookie-settings =
     .label = Spremeni nastavitve piškotkov
     .accesskey = S
