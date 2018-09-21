@@ -35,5 +35,6 @@ url-classifier-enable-sbjs-log = Aktifkan Log JS Penjelajahan Aman
 url-classifier-enabled = Aktif
 url-classifier-updating = memutakhirkan
 url-classifier-cannot-update = tidak dapat memutakhirkan
+url-classifier-success = berhasil
 url-classifier-update-error = galat pemutakhiran ({ $error })
 url-classifier-download-error = galat unduh ({ $error })
