@@ -2,10 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = URL Classifier 정보
 url-classifier-provider-title = 공급자
 url-classifier-provider = 공급자
 url-classifier-provider-last-update-time = 마지막 업데이트 시간
 url-classifier-provider-next-update-time = 다음 업데이트 시간
+url-classifier-provider-back-off-time = 휴지 시간
 url-classifier-provider-last-update-status = 마지막 업데이트 상태
 url-classifier-provider-update-btn = 업데이트
 url-classifier-cache-title = 캐시
