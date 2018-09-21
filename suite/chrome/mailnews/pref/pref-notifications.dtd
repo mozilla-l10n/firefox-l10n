@@ -15,7 +15,7 @@
 <!ENTITY showAlertFor.accesskey           "S">
 <!ENTITY showAlertTimeEnd.label           "წამით">
 
-<!ENTITY showAlertPreviewText.label       "გზავნილის ტექსტის ესკიზის ჩვენება">
+<!ENTITY showAlertPreviewText.label       "გზავნილის ტექსტის შეთვალიერება">
 <!ENTITY showAlertPreviewText.accesskey   "v">
 <!ENTITY showAlertSubject.label           "თემის ჩვენება">
 <!ENTITY showAlertSubject.accesskey       "u">

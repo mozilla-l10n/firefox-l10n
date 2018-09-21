@@ -35,10 +35,10 @@
 <!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "სხვა:">
 <!ENTITY archiveInOtherFolder.accesskey "h">
-<!ENTITY specialFolders.label "ესკიზები, არქივები და თარგები">
-<!ENTITY keepDrafts2.label "ესკიზების შენახვა:">
+<!ENTITY specialFolders.label "წინასწარი ნამუშევრები და ნიმუშები">
+<!ENTITY keepDrafts2.label "წინასწარი ნამუშევრის დატოვება:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "საქაღალდე &quot;ესკიზები&quot;:">
+<!ENTITY draftsFolderOn.label "„წინასწარი“ ნამუშევრების საქაღალდე:">
 <!ENTITY draftsFolderOn.accesskey "ე">
 <!ENTITY draftInOtherFolder.label "სხვა:">
 <!ENTITY draftInOtherFolder.accesskey "ხ">
