@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = Інформація про URL-класифікатор
 url-classifier-provider-title = Постачальник
 url-classifier-provider = Постачальник
 url-classifier-provider-last-update-time = Час останнього оновлення
@@ -18,7 +19,9 @@ url-classifier-cache-pcache-entries = Число позитивних запис
 url-classifier-cache-show-entries = Показати записи
 url-classifier-cache-entries = Записи кешу
 url-classifier-cache-prefix = Префікс
+url-classifier-cache-ncache-expiry = Термін зберігання негативного кешу
 url-classifier-cache-fullhash = Повний хеш
+url-classifier-cache-pcache-expiry = Термін зберігання позитивного кешу
 url-classifier-debug-title = Зневадження
 url-classifier-debug-module-btn = Встановити модулі журналу
 url-classifier-debug-file-btn = Встановити файл журналу
