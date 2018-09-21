@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " τα εξής δεδομένα σας:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Λήψεις">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Σελιδοδείκτες">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "αντιγραμμένο κείμενο">
 <!ENTITY aboutPrivateBrowsing.note.before                "Η Ιδιωτική Περιήγηση ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "δεν σάς καθιστά ανώνυμο">
 <!ENTITY aboutPrivateBrowsing.note.after                 " στο διαδίκτυο. Ο εργοδότης σας ή ο πάροχος υπηρεσιών διαδικτύου μπορεί ακόμα να γνωρίζει ποια σελίδα επισκέπτεστε.">
