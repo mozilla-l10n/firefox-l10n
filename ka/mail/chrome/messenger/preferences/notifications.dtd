@@ -6,7 +6,7 @@
 <!ENTITY window.width                     "36em">
 
 <!ENTITY alertCustomization.intro         "მიუთითეთ სასურველი ველები შეტყობინებებში საჩვენებლად:">
-<!ENTITY previewText.label                "წერილის ესკიზის ტექსტი">
+<!ENTITY previewText.label                "გზავნილის ტექსტის შეთვალიერება">
 <!ENTITY previewText.accesskey            "M">
 <!ENTITY subject.label                    "თემა">
 <!ENTITY subject.accesskey                "S">
