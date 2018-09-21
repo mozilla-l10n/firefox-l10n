@@ -22,6 +22,7 @@ url-classifier-cache-prefix = Prefikso
 url-classifier-cache-ncache-expiry = Senvalidiĝo de negativa staplo
 url-classifier-cache-fullhash = Tuta hakvaloro
 url-classifier-cache-pcache-expiry = Senvalidiĝo de pozitiva staplo
+url-classifier-debug-title = Senerarigo
 url-classifier-debug-module-btn = Elekti registrajn modulojn
 url-classifier-debug-file-btn = Elekti registran dosieron
 url-classifier-debug-js-log-chk = Elekti registron de JS
