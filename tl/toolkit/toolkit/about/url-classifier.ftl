@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = URL na Tagauri ng Impormasyon
 url-classifier-provider-title = Tagapagbigay
 url-classifier-provider = Tagapagbigay
 url-classifier-provider-last-update-time = Huling pag-update ng oras
