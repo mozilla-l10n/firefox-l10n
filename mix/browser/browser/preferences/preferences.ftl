@@ -49,6 +49,8 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } tsinuñu'u ndakitsau.
+feature-disable-requires-restart = { -brand-short-name } tsiniñu'u ndakitsau takua ku ndav.
 should-restart-title = Ndakitsa{ -brand-short-name }
 should-restart-ok = Ndakitsa{ -brand-short-name }michumi
 cancel-no-restart-button = Kunchatu
@@ -64,6 +66,12 @@ restart-later = Ndakitsa nunu ka
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = In extensión, <img data-l10n-name="icon"/> { $name }, Chachuin página nu kitsau.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = In extensión, <img data-l10n-name="icon"/> { $name }, chichuin página xikua  tsaà .
 
 ## Preferences UI Search Results
 

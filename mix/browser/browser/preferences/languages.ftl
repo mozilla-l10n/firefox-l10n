@@ -5,6 +5,9 @@
 languages-window =
     .title = Tu'un
     .style = width: 30em
+webpage-languages-window =
+    .title = Sama tu'un página web
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-customize-moveup =
