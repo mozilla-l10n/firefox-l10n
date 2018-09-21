@@ -89,6 +89,9 @@ permissions-exceptions-autoplay-media-window =
     .title = Baimendutako webguneak - Erreprodukzio automatikoa
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc = Multimedia elementuak automatikoki erreproduzitzeko baimena duten webguneak zehatz ditzakezu. Idatzi baimendu nahi duzun gunearen helbide zehatza eta egin klik 'Baimendu' botoian.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Salbuespenak - Auto-erreprodukzioa
+    .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Soinudun multimedia automatikoki erreproduzitzeko baimena duten edo ez duten webguneak ezar daitezke hemen. Idatzi baimendu nahi duzun webgunearen helbidea eta egin klik 'Blokeatu' edo 'Baimendu' botoian.
 
 ## Site Permissions - Notifications
