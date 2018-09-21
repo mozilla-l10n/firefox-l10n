@@ -2,10 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = Информация об URL-классификаторе
 url-classifier-provider-title = Провайдер
 url-classifier-provider = Провайдер
 url-classifier-provider-last-update-time = Время последнего обновления
 url-classifier-provider-next-update-time = Время следующего обновления
+url-classifier-provider-back-off-time = Время возврата назад
 url-classifier-provider-last-update-status = Статус последнего обновления
 url-classifier-provider-update-btn = Обновить
 url-classifier-cache-title = Кэш
@@ -36,3 +38,6 @@ url-classifier-enabled = Включено
 url-classifier-disabled = Отключено
 url-classifier-updating = обновление
 url-classifier-cannot-update = не удалось обновить
+url-classifier-success = успешно
+url-classifier-update-error = ошибка обновления ({ $error })
+url-classifier-download-error = ошибка загрузки ({ $error })
