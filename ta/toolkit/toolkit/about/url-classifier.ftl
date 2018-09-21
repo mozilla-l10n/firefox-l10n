@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = URL வகைப்படுத்தும் தகவல்
 url-classifier-provider-title = வழங்குநர்
 url-classifier-provider = வழங்குநர்
 url-classifier-provider-last-update-time = கடைசியாகப் புதுப்பித்த நேரம்
