@@ -84,6 +84,12 @@ search-results-header = ຜົນການຊອກຫາ
 
 startup-header = ເລີ່ມເຮັດວຽກ
 get-started-not-logged-in = ລົງທະບຽນເຂົ້າສູ່{ -sync-brand-short-name }...
+get-started-configured = ເປີດການຕັ້ງຄ່າ { -sync-brand-short-name }
+always-check-default =
+    .label = ກວດສອບທຸກຄັ້ງວ່າ { -brand-short-name } ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານຫລືບໍ່
+    .accesskey = ກ
+is-default = { -brand-short-name } ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານໃນຂະນະນີ້
+is-not-default = { -brand-short-name } ບໍ່ແມ່ນບຣາວເຊີເລີ່ມຕົ້ນຂອງທ່ານ
 set-as-my-default-browser =
     .label = ເຮັດໃຫ້ເປັນຄ່າເລີ່ມຕົ້ນ…
     .accesskey = ຄ
