@@ -34,6 +34,7 @@ policy-DisablePocket = Sens tamahilt n usekles n isebtar web di Pocket.
 policy-DisablePrivateBrowsing = Sens tunigin tusligt.
 policy-DisableProfileImport = Kkes asatal n tludna akken ad tketreḍ isefka seg iminig nniḍen.
 policy-DisableProfileRefresh = Kkes taqeffalt n usmiren { -brand-short-name } deg usebter about:support.
+policy-DisableSystemAddonUpdate = Sewḥel asbedded d uleqqem izegrar n unagraw  deg yiminig.
 policy-DisableTelemetry = Sens tilisɣelt.
 policy-DisplayBookmarksToolbar = Deg umezwer sken-d afeggag n ifecka n ticraḍ.
 policy-DisplayMenuBar = Sken afeggag n wumuɣ s wudem amezwer.
