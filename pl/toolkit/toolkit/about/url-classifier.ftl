@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = Informacje o klasyfikatorze adresów
 url-classifier-provider-title = Dostawca
 url-classifier-provider = Dostawca
 url-classifier-provider-last-update-time = Ostatnie uaktualnienie
@@ -17,6 +18,7 @@ url-classifier-cache-ncache-entries = Liczba negatywnych wpisów pamięci podrę
 url-classifier-cache-pcache-entries = Liczba pozytywnych wpisów pamięci podręcznej
 url-classifier-cache-show-entries = Wyświetl wpisy
 url-classifier-cache-entries = Wpisy pamięci podręcznej
+url-classifier-cache-prefix = Przedrostek
 url-classifier-cache-ncache-expiry = Data wygasania negatywnych wpisów pamięci podręcznej
 url-classifier-cache-fullhash = Pełna wartość skrótu
 url-classifier-cache-pcache-expiry = Data wygasania pozytywnych wpisów pamięci podręcznej
