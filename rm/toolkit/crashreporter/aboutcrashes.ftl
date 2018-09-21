@@ -8,6 +8,7 @@ delete-button-label = Allontanar tut
 delete-confirm-title = Allontanar las annunzias
 delete-confirm-description = Quai stizza tut las annunzias e na po betg pli vegnir revocà.
 delete-unsubmitted-description = Quai stizza tut las annunzias da collaps betg tramessas e na po betg pli vegnir revocà.
+delete-submitted-description = Quai stizza la glista d'annunzias da collaps tramessas, na stizza dentant betg las datas tramessas. Igl è impussibel da revocar quest pass.
 crashes-unsubmitted-label = Annunzias da collaps betg tramessas
 id-heading = ID da l'annunzia
 date-crashed-heading = Data dal collaps
