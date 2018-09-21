@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          "您的:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "下載項目">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "書籤">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "已複製文字">
 <!ENTITY aboutPrivateBrowsing.note.before                "隱私瀏覽">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "不會讓您完全在網路上匿蹤。">
 <!ENTITY aboutPrivateBrowsing.note.after                 "您的雇主或網路業者還是能知道您看過哪些網站。">
