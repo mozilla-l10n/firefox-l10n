@@ -6,6 +6,8 @@ do-not-track-description = Bidali webguneei "Do Not Track" seinalea zure jarraip
 do-not-track-learn-more = Argibide gehiago
 do-not-track-option-default =
     .label = Jarraipenaren babesa erabiltzean soilik
+do-not-track-option-default-content-blocking =
+    .label = { -brand-short-name } antzemandako jarraipen-elementuak blokeatzeako konfiguratuta dagoenean soilik
 do-not-track-option-always =
     .label = Beti
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name }
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = <img data-l10n-name="icon"/> { $name } hedapenak jarraipenaren babesa kontrolatzen du.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Hedapen bat, <img data-l10n-name="icon"/> { $name }, ezarpen hau kontrolatzen ari da.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } hedapenak { -brand-short-name } Internetera nola konektatzen den kontrolatzen du.
@@ -203,6 +208,9 @@ choose-button =
     .label = Aukeratu…
     .accesskey = A
 choose-browser-language-description = Aukeratu { -brand-short-name }(r)en menuak, mezuak eta jakinarazpenak bistaratzeko hizkuntzak.
+manage-browser-languages-button =
+    .label = Ezarri ordezkoak…
+    .accesskey = d
 confirm-browser-language-change-description = Berrabiarazi { -brand-short-name } aldaketa hauek aplikatzeko
 confirm-browser-language-change-button = Aplikatu eta berrabiarazi
 translate-web-pages =
@@ -613,6 +621,10 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Mota blokeatuta
     .accesskey = M
+sitedata-block-trackers-option-recommended =
+    .label = Hirugarrenen jarraipen-elementuak (gomendatua)
+sitedata-block-trackers-option =
+    .label = Hirugarrenen jarraipen-elementuak
 sitedata-block-unvisited-option =
     .label = Bisitatu gabeko guneetako cookieak
 sitedata-block-all-third-party-option =
@@ -628,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Salbuespenak…
     .accesskey = S
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Edukia blokeatzeko zure ezarpenek eragotzi egiten dute cookie eta guneetako datuen ezarpenak aldatzea.
 
 ## Privacy Section - Address Bar
 
@@ -697,6 +713,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Jarraipen-elementuak
     .accesskey = r
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Hirugarrenen cookie guztiak (webguneak apur litzake)
+    .accesskey = H
 
 ## Privacy Section - Tracking
 
