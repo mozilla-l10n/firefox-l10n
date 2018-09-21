@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = Informacije wo URL-klasifikatorje
 url-classifier-provider-title = Poskićowar
 url-classifier-provider = Poskićowar
 url-classifier-provider-last-update-time = Čas poslednjeje aktualizacije
