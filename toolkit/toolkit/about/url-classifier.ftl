@@ -2,10 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = اطلاعات طبقه بندی شده‌ی URL
 url-classifier-provider-title = فراهم‌کننده
 url-classifier-provider = فراهم‌کننده
 url-classifier-provider-last-update-time = آخرین زمان بروزرسانی
 url-classifier-provider-next-update-time = زمان بروزرسانی بعدی
+url-classifier-provider-back-off-time = زمانBack-off
 url-classifier-provider-last-update-status = آخرین وضعیت بروزرسانی
 url-classifier-provider-update-btn = بروزرسانی
 url-classifier-cache-title = حافظهٔ نهان
@@ -17,6 +19,9 @@ url-classifier-cache-pcache-entries = تعداد ورودی‌های نهانِ 
 url-classifier-cache-show-entries = نمایش ورودی‌ها
 url-classifier-cache-entries = ورودی‌های نهان
 url-classifier-cache-prefix = پیشوند
+url-classifier-cache-ncache-expiry = { " " }زمان انقضا ذخیره سازی موقت منفی
+url-classifier-cache-fullhash = هش کامل
+url-classifier-cache-pcache-expiry = زمان انقضا ذخیره سازی موقت مثبت
 url-classifier-debug-title = اشکال‌زدایی
 url-classifier-debug-module-btn = تنظیم ماژول‌های وقایع
 url-classifier-debug-file-btn = تنظیم پرونده وقایع
