@@ -11,8 +11,8 @@
 <!ENTITY setPassword.meter.label "Μέτρηση ποιότητας πιστοποιητικού">
 
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "Αρχικοποίηση">
-<!ENTITY resetPassword.title  "Αρχικοποίηση κυρίου κωδικού">
+<!ENTITY resetPasswordButtonLabel "Επαναφορά">
+<!ENTITY resetPassword.title  "Επαναφορά κύριου κωδικού">
 <!ENTITY resetPassword.text  "Αν επαναφέρετε τον κύριο κωδικό σας, όλοι οι αποθηκευμένοι κωδικοί πρόσβασης από ιστοσελίδες και e-mail, τα δεδομένα φορμών, τα προσωπικά πιστοποιητικά και τα ιδιωτικά κλειδιά σας θα διαγραφούν. Θέλετε σίγουρα να επαναφέρετε τον κύριο κωδικό σας;">
 
 <!-- Downloading a cert -->
