@@ -8,6 +8,7 @@ url-classifier-provider-last-update-time = وقت آخر تحديث
 url-classifier-provider-next-update-time = وقت التحديث التالي
 url-classifier-provider-back-off-time = وقت التراجع
 url-classifier-provider-last-update-status = حالة آخر تحديث
+url-classifier-provider-update-btn = حدّث
 url-classifier-cache-title = الخبيئة
 url-classifier-cache-refresh-btn = حدّث
 url-classifier-cache-clear-btn = امسح
