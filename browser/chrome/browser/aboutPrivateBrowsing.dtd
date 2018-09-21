@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " dina:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "hämtningar">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "bokmärken">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "kopierad text">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privat surfning ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "gör dig inte anonym">
 <!ENTITY aboutPrivateBrowsing.note.after                 " på internet. Din arbetsgivare eller internetleverantör kan fortfarande spåra sidorna du besöker.">
