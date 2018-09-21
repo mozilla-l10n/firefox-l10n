@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = Informasi Penggolong URL
 url-classifier-provider-title = Penyedia
 url-classifier-provider = Penyedia
 url-classifier-provider-last-update-time = Pemutakhiran terakhir
@@ -34,6 +35,7 @@ url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Nonaktifkan Log JS Penjelajahan Aman
 url-classifier-enable-sbjs-log = Aktifkan Log JS Penjelajahan Aman
 url-classifier-enabled = Aktif
+url-classifier-disabled = Nonaktif
 url-classifier-updating = memutakhirkan
 url-classifier-cannot-update = tidak dapat memutakhirkan
 url-classifier-success = berhasil
