@@ -6,6 +6,7 @@ url-classifier-provider-title = Penyedia
 url-classifier-provider = Penyedia
 url-classifier-provider-last-update-time = Pemutakhiran terakhir
 url-classifier-provider-next-update-time = Pemutakhiran berikutnya
+url-classifier-provider-back-off-time = Waktu back-off
 url-classifier-provider-last-update-status = Status pemutakhiran terakhir
 url-classifier-provider-update-btn = Pemutakhiran
 url-classifier-cache-title = Tembolok
