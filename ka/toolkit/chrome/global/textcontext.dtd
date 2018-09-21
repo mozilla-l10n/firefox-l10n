@@ -16,7 +16,7 @@
 <!ENTITY deleteCmd.accesskey "წ">
 
 <!ENTITY spellAddToDictionary.label "ლექსიკონში დამატება">
-<!ENTITY spellAddToDictionary.accesskey "დ">
+<!ENTITY spellAddToDictionary.accesskey "ლ">
 <!ENTITY spellUndoAddToDictionary.label "ლექსიკონში დამატების გაუქმება">
 <!ENTITY spellUndoAddToDictionary.accesskey "გ">
 <!ENTITY spellCheckToggle.label "მართლწერის შემოწმება">
