@@ -4,6 +4,7 @@
 
 crash-reports-title = Hutsegite-txostenak
 clear-all-reports-label = Ezabatu txosten guztiak
+delete-button-label = Garbitu dena
 delete-confirm-title = Ziur zaude?
 delete-confirm-description = Txosten guztiak ezabatuko dira eta ezin da desegin
 delete-unsubmitted-description = Bidali gabeko txosten guztiak ezabatuko dira eta ekintza ezin da desegin.
@@ -12,7 +13,11 @@ crashes-unsubmitted-label = Bidali gabeko hutsegite-txostenak
 id-heading = Txostenaren IDa
 date-crashed-heading = Hutsegite-data
 submit-crash-button-label = Bidali
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Huts egin du
 crashes-submitted-label = Bidalitako hutsegite-txostenak
 date-submitted-heading = Noiz bidalia
+view-crash-button-label = Ikusi
 no-reports-label = Ez da bidali hutsegite-txostenik.
 no-config-label = Aplikazio hau ez da konfiguratu hutsegite-txostenak bistaratzeko. Horretarako <code>breakpad.reportURL</code> hobespena ezarri behar da.
