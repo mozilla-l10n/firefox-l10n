@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = URL विभाजक जानकारी
 url-classifier-provider-title = प्रदायक
 url-classifier-provider = प्रदायक
 url-classifier-provider-last-update-time = पछिल्लो अद्यावधिकको समय
