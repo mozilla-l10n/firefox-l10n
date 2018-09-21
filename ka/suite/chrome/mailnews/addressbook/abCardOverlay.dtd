@@ -109,7 +109,7 @@
 <!ENTITY Other.tab                      "სხვა">
 <!ENTITY Other.accesskey                "ხ">
 <!ENTITY Custom1.label                  "დამატებითი 1:">
-<!ENTITY Custom1.accesskey              "შ">
+<!ENTITY Custom1.accesskey              "1">
 <!ENTITY Custom2.label                  "დამატებითი 2:">
 <!ENTITY Custom2.accesskey              "2">
 <!ENTITY Custom3.label                  "დამატებითი 3:">
