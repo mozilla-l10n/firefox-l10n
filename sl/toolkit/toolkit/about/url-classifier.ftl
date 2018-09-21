@@ -2,19 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = Podatki o razvrščevalniku URL
 url-classifier-provider-title = Ponudnik
 url-classifier-provider = Ponudnik
 url-classifier-provider-last-update-time = Čas zadnje posodobitve
 url-classifier-provider-next-update-time = Čas naslednje posodobitve
+url-classifier-provider-back-off-time = Čas umika
 url-classifier-provider-last-update-status = Stanje zadnje posodobitve
 url-classifier-provider-update-btn = Posodobi
 url-classifier-cache-title = Predpomnilnik
 url-classifier-cache-refresh-btn = Osveži
 url-classifier-cache-clear-btn = Počisti
 url-classifier-cache-table-name = Ime tabele
+url-classifier-cache-ncache-entries = Število vnosov v negativni predpomnilnik
+url-classifier-cache-pcache-entries = Število vnosov v pozitivni predpomnilnik
 url-classifier-cache-show-entries = Prikaži vnose
 url-classifier-cache-entries = Vnosi v predpomnilnik
 url-classifier-cache-prefix = Predpona
+url-classifier-cache-ncache-expiry = Rok trajanja negativnega predpomnilnika
+url-classifier-cache-fullhash = Polna razpršena vrednost
+url-classifier-cache-pcache-expiry = Rok trajanja pozitivnega predpomnilnika
 url-classifier-debug-title = Razhroščevanje
 url-classifier-debug-module-btn = Nastavi dnevniške module
 url-classifier-debug-file-btn = Nastavi dnevniško datoteko
