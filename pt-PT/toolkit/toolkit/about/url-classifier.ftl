@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = Informação do classificador de URL
 url-classifier-provider-title = Fornecedor
 url-classifier-provider = Fornecedor
 url-classifier-provider-last-update-time = Última vez atualizado
@@ -39,3 +40,4 @@ url-classifier-updating = a atualizar
 url-classifier-cannot-update = não é possível atualizar
 url-classifier-success = sucesso
 url-classifier-update-error = erro a atualizar ({ $error })
+url-classifier-download-error = erro ao transferir ({ $error })
