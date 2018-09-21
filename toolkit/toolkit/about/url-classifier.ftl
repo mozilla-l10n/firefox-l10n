@@ -1,0 +1,30 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+url-classifier-provider-title = পরিষেবা প্রদানকারী
+url-classifier-provider = পরিষেবা প্রদানকারী
+url-classifier-provider-last-update-time = সর্বশেষ হালনাগাদের সময়
+url-classifier-provider-next-update-time = পরবর্তি হালনাগাদের সময়
+url-classifier-provider-update-btn = হালনাগাদ
+url-classifier-cache-title = ক্যাশে
+url-classifier-cache-refresh-btn = রিফ্রেশ
+url-classifier-cache-clear-btn = পরিষ্কার
+url-classifier-cache-table-name = টেবিলের নাম
+url-classifier-debug-title = ডিবাগ
+url-classifier-debug-module-btn = লগ মডিউল সেট করুন
+url-classifier-debug-file-btn = লগ ফাইল সেট করুন
+url-classifier-debug-js-log-chk = JS লগ সেট করুন
+url-classifier-debug-sb-modules = নিরাপদ ব্রাউজিং লগ মডিউল
+url-classifier-debug-modules = বর্তমান লগ মডিউল
+url-classifier-debug-sbjs-modules = নিরাপদ ব্রাউজিং JS লগ
+url-classifier-debug-file = বর্তমান লগ ফাইল
+url-classifier-trigger-update = ট্রিগার হালনাগাদ
+url-classifier-not-available = N/A
+url-classifier-disable-sbjs-log = নিরাপদ ব্রাউজিং JS লগ নিষ্ক্রিয় করুন
+url-classifier-enable-sbjs-log = নিরাপদ ব্রাউজিং JS লগ সক্রিয় করুন
+url-classifier-enabled = সক্রিয়
+url-classifier-disabled = নিষ্ক্রিয়
+url-classifier-updating = হালনাগাদ হচ্ছে
+url-classifier-cannot-update = হালনাগাদ হয়নি
+url-classifier-success = সফল
