@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " tus:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "marcadores">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "texto copiado">
 <!ENTITY aboutPrivateBrowsing.note.before                "Navegación Privada ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "no te vuelve anónimo">
 <!ENTITY aboutPrivateBrowsing.note.after                 " en Internet. Tu jefe o tu proveedor de Internet aún pueden saber las páginas que visitas.">
