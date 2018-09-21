@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
+
 <!ENTITY addCurPagesCmd.label "Marcar todas las pestañas…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
 <!ENTITY recentBookmarks.label "Marcadores recientes">
@@ -1080,7 +1081,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateRestart.message2 "Después de un reinicio rápido, &brandShorterName; restaurará todas las pestañas y ventanas abiertas que no estén en el modo de navegación privada.">
 <!ENTITY updateRestart.header.message2 "Reiniciar para actualizar &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "Reinicia y restaurar">
+<!ENTITY updateRestart.acceptButton.label "Reiniciar y restaurar">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ahora no">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
