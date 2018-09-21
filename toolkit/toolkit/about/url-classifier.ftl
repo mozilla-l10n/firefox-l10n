@@ -1,0 +1,32 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+url-classifier-provider-title = Penyedia
+url-classifier-provider = Penyedia
+url-classifier-provider-last-update-time = Pemutakhiran terakhir
+url-classifier-provider-next-update-time = Pemutakhiran berikutnya
+url-classifier-provider-last-update-status = Status pemutakhiran terakhir
+url-classifier-provider-update-btn = Pemutakhiran
+url-classifier-cache-title = Tembolok
+url-classifier-cache-refresh-btn = Segarkan
+url-classifier-cache-clear-btn = Hapus
+url-classifier-cache-table-name = Nama tabel
+url-classifier-cache-ncache-entries = Jumlah entri tembolok negatif
+url-classifier-cache-pcache-entries = Jumlah entri tembolok positif
+url-classifier-cache-show-entries = Tampilkan entri
+url-classifier-cache-entries = Entri Tembolok
+url-classifier-cache-prefix = Prefiks
+url-classifier-cache-ncache-expiry = Kedaluwarsa tembolok negatif
+url-classifier-cache-fullhash = Full hash
+url-classifier-cache-pcache-expiry = Kedaluwarsa tembolok positif
+url-classifier-debug-title = Debug
+url-classifier-debug-module-btn = Atur Modul Log
+url-classifier-debug-file-btn = Atur Berkas Log
+url-classifier-debug-js-log-chk = Atur Log JS
+url-classifier-debug-sb-modules = Modul log Penjelajahan Aman
+url-classifier-debug-modules = Modul log terkini
+url-classifier-debug-sbjs-modules = Log Safe Browsing JS
+url-classifier-debug-file = Berkas log saat ini
+url-classifier-update-error = galat pemutakhiran ({ $error })
+url-classifier-download-error = galat unduh ({ $error })
