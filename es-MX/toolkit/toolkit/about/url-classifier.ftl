@@ -36,3 +36,6 @@ url-classifier-enabled = Habilitado
 url-classifier-disabled = Deshabilitado
 url-classifier-updating = actualizando
 url-classifier-cannot-update = no puede actualizarse
+url-classifier-success = éxito
+url-classifier-update-error = error de actualización ({ $error })
+url-classifier-download-error = error de descarga ({ $error })
