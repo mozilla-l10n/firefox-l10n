@@ -2,10 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-title = URL-osztályozó információk
 url-classifier-provider-title = Szolgáltató
 url-classifier-provider = Szolgáltató
 url-classifier-provider-last-update-time = Legutóbbi frissítés ideje
 url-classifier-provider-next-update-time = Következő frissítés ideje
+url-classifier-provider-back-off-time = Visszatartási idő
 url-classifier-provider-last-update-status = Legutóbbi frissítés állapota
 url-classifier-provider-update-btn = Frissítés
 url-classifier-cache-title = Gyorsítótár
