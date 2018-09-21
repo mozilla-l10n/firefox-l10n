@@ -723,7 +723,7 @@ content-blocking-reject-trackers-all-third-parties-option =
 ## Privacy Section - Tracking
 
 tracking-header = Zaščita pred sledenjem
-tracking-desc = Zaščita pred sledenjem zavrača spletne sledilce, ki zbirajo podatke brskanja po spletnih straneh. <a data-l10n-name="learn-more">Več o zaščiti pred sledenjem in vaši zasebnost</a>
+tracking-desc = Zaščita pred sledenjem zavrača spletne sledilce, ki zbirajo podatke brskanja po spletnih straneh. <a data-l10n-name="learn-more">Več o zaščiti pred sledenjem in vaši zasebnosti</a>
 tracking-mode-label = Uporabljaj zaščito pred sledenjem za zavračanje znanih sledilcev
 tracking-mode-always =
     .label = Vedno
