@@ -51,7 +51,7 @@ policy-EnableTrackingProtection = Ativar ou desativar o Bloqueio de conteúdo e 
 # https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Instalar, desinstalar ou bloquear extensões. A opção Instalar usa URLs ou caminhos como parâmetros. As opções Desinstalar e Bloquear usam IDs de extensões.
 policy-FlashPlugin = Permitir ou negar a utilização do plugin Flash.
-policy-HardwareAcceleration = Se falso, desligar aceleração do hardware.
+policy-HardwareAcceleration = Se falso, desligar aceleração de hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definir e bloquear opcionalmente a página inicial.
 policy-InstallAddonsPermission = Permitir a certos websites instalar extras.
