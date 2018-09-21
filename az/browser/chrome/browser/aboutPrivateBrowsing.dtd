@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "endirilənlər">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "əlfəcinlər">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "mətn köçürüldü">
 <!ENTITY aboutPrivateBrowsing.note.before                "Məxfi Səyahət ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "internetdə sizi anonim etmir,">
 <!ENTITY aboutPrivateBrowsing.note.after                 " müdürünüz və ya İnternet provayderiniz yenə də hansı səhifələri ziyarət etdiyinizi biləcək.">
