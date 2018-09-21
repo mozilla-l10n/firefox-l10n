@@ -23,7 +23,7 @@
 <!ENTITY inReplyToField.label "პასუხად ">
 <!ENTITY originalWebsite.label "ვებსაიტი ">
 
-<!ENTITY editMessage.label                 "ესკიზის რედაქტირება…">
+<!ENTITY editMessage.label                 "წინასწარი ნამუშევრის ჩასწორება…">
 <!ENTITY editMessage.accesskey             "D">
 
 <!ENTITY attachmentsTree.label             "დანართები:">
