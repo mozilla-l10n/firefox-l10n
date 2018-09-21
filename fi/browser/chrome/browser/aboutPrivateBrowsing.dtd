@@ -18,8 +18,9 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "tallentaa">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          "">
-<!ENTITY aboutPrivateBrowsing.info.downloads             "lataukset.">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "lataukset">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "kirjanmerkit">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "kopioidun tekstin.">
 <!ENTITY aboutPrivateBrowsing.note.before                "Yksityinen selaus ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ei tee sinusta anonyymiä">
 <!ENTITY aboutPrivateBrowsing.note.after                 " Internetissä. Työnantajasi tai Internet-palveluntarjoajasi voi edelleen tietää, millä sivuilla on vierailtu.">
