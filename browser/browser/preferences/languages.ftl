@@ -44,3 +44,4 @@ languages-active-code-format =
 browser-languages-window =
     .title = การตั้งค่าภาษาของ { -brand-short-name }
     .style = width: 40em
+browser-languages-description = { -brand-short-name } จะแสดงผลภาษาแรกเป็นค่าเริ่มต้นของคุณและจะแสดงผลภาษาอื่นแทนหากจำเป็นตามลำดับที่ปรากฏ
