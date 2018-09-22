@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Privaatne veebilehitsemine">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Kas avada privaatne aken?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Sa pole praegu privaatses aknas.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Ava privaatne aken">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
@@ -25,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "allalaadimised">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "järjehoidjad">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "kopeeritud tekstid">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privaatne veebilehitsemine ei muuda sind internetis ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "anonüümseks">
 <!ENTITY aboutPrivateBrowsing.note.after                 ". Sinu interneti teenusepakkuja või tööandja võib siiski sinu poolt külastatavaid lehti jälgida.">
@@ -35,3 +31,6 @@
 <!ENTITY trackingProtection.title                        "Jälitamisvastane kaitse">
 <!ENTITY trackingProtection.description2                 "Mõned saidid kasutavad jälitamistehnoloogiaid, mis võivad jälitada sinu tegevust üle terve interneti. Firefoxi jälitamisvastane kaitse tõkestab paljudel sellistel jälitajatel sinu kohta info kogumise.">
 <!ENTITY trackingProtection.startTour1                   "Vaata, kuidas see töötab">
+
+<!ENTITY contentBlocking.title                           "Sisu blokkimine">
+<!ENTITY contentBlocking.description                     "Mõned saidid kasutavad jälitamistehnoloogiaid, mis võivad jälitada sinu tegevust üle terve interneti. Firefoxi sisu blokkija blokib automaatselt paljud sellised jälitajad, kes võivad koguda andmeid sinu lehitsemiseelistuste kohta.">
