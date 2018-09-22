@@ -6,6 +6,8 @@ do-not-track-description = Saitidele saadetakse signaal, et sa ei soovi olla jä
 do-not-track-learn-more = Rohkem teavet
 do-not-track-option-default =
     .label = ainult siis, kui jälitamisvastane kaitse on lubatud
+do-not-track-option-default-content-blocking =
+    .label = ainult siis, kui { -brand-short-name } on seadistatud teadaolevaid jälitajaid blokkima
 do-not-track-option-always =
     .label = alati
 pref-page =
@@ -14,14 +16,6 @@ pref-page =
             [windows] Sätted
            *[other] Eelistused
         }
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -98,6 +92,9 @@ extension-controlled-privacy-containers = Laiendus <img data-l10n-name="icon"/> 
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Jälitamisvastast kaitset haldab laiendus <img data-l10n-name="icon"/> { $name }.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Seda sätet haldab laiendus <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = { -brand-short-name }i internetti ühendumist haldab laiendus <img data-l10n-name="icon"/> { $name }.
@@ -137,17 +134,11 @@ is-not-default = { -brand-short-name } pole vaikebrauseriks määratud
 set-as-my-default-browser =
     .label = Määra vaikebrauseriks…
     .accesskey = M
-startup-page = { -brand-short-name }i käivitumisel
-    .accesskey = k
-startup-user-homepage =
-    .label = kuvatakse avalehte
-startup-blank-page =
-    .label = kuvatakse tühja lehte
-startup-prev-session =
-    .label = kuvatakse viimati avatud aknaid ja kaarte
+startup-restore-previous-session =
+    .label = Taastatakse eelmine seanss
+    .accesskey = T
 disable-extension =
     .label = Keela see laiendus
-home-page-header = Avaleht
 tabs-group-header = Kaardid
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab liigub kaartide vahel viimase kasutamise järjekorras
@@ -216,6 +207,12 @@ choose-language-description = Vali oma eelistatud keel veebilehtede kuvamiseks
 choose-button =
     .label = Vali…
     .accesskey = i
+choose-browser-language-description = Vali keeled, mida kasutatakse menüüde, sõnumite ja { -brand-short-name }ilt tulevate teavituste kuvamiseks.
+manage-browser-languages-button =
+    .label = Määra alternatiivsed keeled…
+    .accesskey = r
+confirm-browser-language-change-description = Muudatuste rakendamiseks taaskäivita { -brand-short-name }
+confirm-browser-language-change-button = Rakenda ja taaskäivita
 translate-web-pages =
     .label = Lubatakse veebisisu tõlkimine
     .accesskey = t
@@ -267,7 +264,6 @@ play-drm-content =
 play-drm-content-learn-more = Rohkem teavet
 update-application-title = { -brand-short-name }i uuendused
 update-application-description = Hoia { -brand-short-name } värske, et saada osa parimast võimekusest, stabiilsusest ja turvalisusest.
-update-application-info = Versioon { $version } <a>Mis on uut?</a>
 update-application-version = Versioon { $version } <a data-l10n-name="learn-more">Mis on uut?</a>
 update-history =
     .label = Näita uuenduste ajalugu…
@@ -303,7 +299,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Sisu protsesside limiit
     .accesskey = l
 performance-limit-content-process-enabled-desc = Täiendavad sisu protsessid võivad parandada võimekust mitme kaardi kasutamisel, aga kasutavad ka rohkem mälu.
-performance-limit-content-process-disabled-desc = Sisu protsesside arvu muutmine on võimalik ainult mitme protsessi toega { -brand-short-name }is. <a>Vaata, kuidas kontrollida, kas mitme protsessi tugi on lubatud</a>
 performance-limit-content-process-blocked-desc = Sisu protsesside arvu muutmine on võimalik ainult mitme protsessi toega { -brand-short-name }is. <a data-l10n-name="learn-more">Vaata, kuidas kontrollida, kas mitme protsessi tugi on lubatud</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -332,6 +327,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Võrgu puhverserver
+network-settings-title = Võrgusätted
 network-proxy-connection-description = { -brand-short-name }i internetiga ühendumise häälestamine.
 network-proxy-connection-learn-more = Rohkem teavet
 network-proxy-connection-settings =
@@ -341,6 +337,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Uued aknad ja kaardid
+home-new-windows-tabs-description2 = Vali avalehe, uute akende ja uute kaartide avamisel kuvatavad asjad.
 
 ## Home Section - Home Page Customization
 
@@ -373,9 +370,6 @@ use-current-pages =
 choose-bookmark =
     .label = Kasuta järjehoidjat…
     .accesskey = j
-restore-default =
-    .label = Taasta vaikeväärtus
-    .accesskey = r
 
 ## Search Section
 
@@ -531,6 +525,9 @@ privacy-header = Veebilehitseja privaatsus
 ## Privacy Section - Forms
 
 forms-header = Vormid ja paroolid
+forms-ask-to-save-logins =
+    .label = Küsitakse saitide kasutajatunnuste meelespidamise nõusolekut
+    .accesskey = i
 forms-exceptions =
     .label = Erandid…
     .accesskey = r
@@ -569,9 +566,6 @@ history-dontremember-description = { -brand-short-name } kasutab samu sätteid, 
 history-private-browsing-permanent =
     .label = Alati kasutatakse privaatse veebilehitsemise režiimi
     .accesskey = p
-history-remember-option =
-    .label = Lehitsemise ja allalaadimiste ajalugu säilitatakse
-    .accesskey = L
 history-remember-search-option =
     .label = Vormide ja otsingu ajalugu säilitatakse
     .accesskey = V
@@ -634,6 +628,9 @@ addressbar-locbar-openpage-option =
     .label = avatud kaartide seast
     .accesskey = v
 addressbar-suggestions-settings = Muuda otsingumootorite soovituste sätteid
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
