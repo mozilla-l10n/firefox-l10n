@@ -566,6 +566,9 @@ history-dontremember-description = { -brand-short-name } kasutab samu sätteid, 
 history-private-browsing-permanent =
     .label = Alati kasutatakse privaatse veebilehitsemise režiimi
     .accesskey = p
+history-remember-browser-option =
+    .label = Lehitsemise ja allalaadimiste ajalugu säilitatakse
+    .accesskey = L
 history-remember-search-option =
     .label = Vormide ja otsingu ajalugu säilitatakse
     .accesskey = V
@@ -596,6 +599,10 @@ sitedata-block-cookies-option =
     .accesskey = ö
 sitedata-keep-until = Säilitatakse kuni
     .accesskey = n
+sitedata-keep-until-expire =
+    .label = nad aeguvad
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } suletakse
 sitedata-accept-third-party-desc = Kolmanda osapoole saitide küpsised ja saitide andmed võetakse vastu
     .accesskey = õ
 sitedata-accept-third-party-always-option =
@@ -604,6 +611,26 @@ sitedata-accept-third-party-visited-option =
     .label = varem külastatud saitidelt
 sitedata-accept-third-party-never-option =
     .label = mitte kunagi
+sitedata-allow-cookies-option =
+    .label = Küpsised ja saitide andmed lubatakse
+    .accesskey = K
+sitedata-disallow-cookies-option =
+    .label = Küpsised ja saitide andmed blokitakse
+    .accesskey = p
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Seejuures blokitakse
+    .accesskey = u
+sitedata-block-trackers-option-recommended =
+    .label = kolmanda osapoole jälitajad (soovitatav)
+sitedata-block-trackers-option =
+    .label = kolmanda osapoole jälitajad
+sitedata-block-unvisited-option =
+    .label = küpsised varem külastamata saitidelt
+sitedata-block-all-third-party-option =
+    .label = kõik kolmanda osapoole küpsised (võib mõne saidi katki teha)
+sitedata-block-all-option =
+    .label = kõik küpsised (paljud saidid lakkavad toimimast)
 sitedata-clear =
     .label = Kustuta andmed…
     .accesskey = u
@@ -613,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Erandid…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Sisu blokkimise sätted takistavad antud sätete muutmist.
 
 ## Privacy Section - Address Bar
 
