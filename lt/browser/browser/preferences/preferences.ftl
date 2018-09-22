@@ -519,7 +519,7 @@ sync-device-name-save =
 sync-mobilepromo-single = Susieti kitą įrenginį
 sync-mobilepromo-multi = Tvarkyti įrenginius
 sync-tos-link = Paslaugos teikimo nuostatai
-sync-fxa-privacy-notice = Pastaba dėl privatumo
+sync-fxa-privacy-notice = Privatumo pranešimas
 
 ## Privacy Section
 
