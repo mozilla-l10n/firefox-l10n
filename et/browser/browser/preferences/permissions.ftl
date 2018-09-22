@@ -88,6 +88,11 @@ permissions-exceptions-addons-desc = Sa võid määrata, millistel veebilehtedel
 permissions-exceptions-autoplay-media-window =
     .title = Lubatud saidid - automaatne esitamine
     .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Sa võid määrata, millistel saitidel on lubatud meediaelemente automaatselt esitada. Sisesta vastava saidi täpne aadress ning klõpsa Luba.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Erandid - automaatne esitamine
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc2 = Sa võid määrata, millistel saitidel on alati või mitte kunagi lubatud meedia automaatne heliga esitamine. Sisesta hallatava saidi täpne aadress ning seejärel klõpsa Bloki või Luba.
 
 ## Site Permissions - Notifications
 
