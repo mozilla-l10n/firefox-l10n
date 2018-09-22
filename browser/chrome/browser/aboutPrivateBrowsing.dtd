@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "بارگیری‌ها">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "نشانک‌ها">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "متن رونوشت شده">
 <!ENTITY aboutPrivateBrowsing.note.before                "مرور ناشناس ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "شما را در اینترنت ناشناس نمی‌کند.">
 <!ENTITY aboutPrivateBrowsing.note.after                 " کارفرما یا ارائه‌دهنده خدمات اینترنتی شما همچنان می‌تواند از صفحاتی که بازدید می‌کنید اطلاع داشته باشد.">
@@ -30,3 +31,6 @@
 <!ENTITY trackingProtection.title                        "محافظت در برابر ردگیری">
 <!ENTITY trackingProtection.description2                 "بعضی از سایت‌ها از ردیاب‌هایی برای پایش فعالیت‌های اینترنتی شما استفاده می‌کنند. با استفاده از «محافظت در برابر ردیابی» فایرفاکس تعداد زیادی از ردیاب‌هایی که اطلاعاتِ مرور شما را جمع‌آوری می‌کنند را مسدود می‌کند.">
 <!ENTITY trackingProtection.startTour1                   "ببینید چگونه کار می‌کند">
+
+<!ENTITY contentBlocking.title                           "مسدود کردن محتوا">
+<!ENTITY contentBlocking.description                     "برخی وب‌سایت‌ها از ردیاب‌هایی استفاده می‌کنند که می‌توانند بر فعالیت‌های شما در تمام اینترنت نظارت کنند. در پنجره ناشناس، مسدود کردن محتوای فایرفاکس، به صورت خودکار ردیاب‌های بسیاری که می‌توانند درمورد نحوه‌ی مرور شما اطلاعات جمع‌آوری کنند را مسدود می‌کند.">
