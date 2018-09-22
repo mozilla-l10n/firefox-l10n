@@ -663,6 +663,20 @@ addressbar-suggestions-settings = Muuda otsingumootorite soovituste sätteid
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Sisu blokkimine
+content-blocking-desc = Järgnevate sätete abil on võimalik blokkida kolmanda osapoole sisu nagu reklaamid või kood, mis võib aeglustada sinu veebilehitsemist ning jälitada sind üle mitme veebilehe. Leia parim tasakaal enda kaitsmise ja kiiruse vahel.
+content-blocking-learn-more = Rohkem teavet
+content-blocking-restore-defaults =
+    .label = Taasta vaikeväärtused
+    .accesskey = T
+content-blocking-toggle-on =
+    .tooltiptext = Lülita sisu blokkimine välja
+content-blocking-toggle-off =
+    .tooltiptext = Lülita sisu blokkimine sisse
+content-blocking-toggle-label-on = SEES
+    .accesskey = S
+content-blocking-toggle-label-off = VÄLJAS
+    .accesskey = L
+content-blocking-category-label = Blokitavate asjade valik
 
 ## Privacy Section - Tracking
 
