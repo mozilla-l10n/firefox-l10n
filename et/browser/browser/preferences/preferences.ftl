@@ -677,6 +677,45 @@ content-blocking-toggle-label-on = SEES
 content-blocking-toggle-label-off = VÄLJAS
     .accesskey = L
 content-blocking-category-label = Blokitavate asjade valik
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Aeglaselt laadivad jälitajad
+    .accesskey = A
+content-blocking-fastblock-new-description = Blokitakse ainult lehtede kiiret avanemist takistavad jälitajad.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Kõik tuvastatud jälitajad
+    .accesskey = K
+content-blocking-tracking-protection-new-description = Blokitakse kõik teadaolevad jälitajad. (Võib takistada mõne lehe laadimist.)
+content-blocking-tracking-protection-option-always =
+    .label = alati
+    .accesskey = a
+content-blocking-tracking-protection-option-private =
+    .label = ainult privaatsetes akendes
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Muuda blokkimise nimekirja
+content-blocking-third-party-cookies-label =
+    .label = Kolmanda osapoole küpsised
+    .accesskey = m
+content-blocking-reject-trackers-description = Võimaldab blokkida kõik kolmanda osapoole küpsised või ainult need, mida kasutavad jälitajad.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Sinu küpsiste ja saitide andmete sätted ei võimalda teha muudatusi kolmanda osapoole küpsiste sätetes.
+content-blocking-change-cookie-settings =
+    .label = Muuda küpsiste sätteid
+    .accesskey = u
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = jälitajad (soovitatav)
+    .accesskey = j
+content-blocking-reject-trackers-block-trackers-option =
+    .label = jälitajad
+    .accesskey = t
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = kõik kolmanda osapoole küpsised (mõned saidid võivad katki minna)
+    .accesskey = o
 
 ## Privacy Section - Tracking
 
