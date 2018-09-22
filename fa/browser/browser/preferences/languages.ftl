@@ -5,6 +5,9 @@
 languages-window =
     .title = زبان‌ها
     .style = width: 30em
+webpage-languages-window =
+    .title = تنظیمات زبان صفحه وب
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = گاهی صفحات وب به زبان‌های دیگر هم ارائه می‌شوند. زبان‌هایی که مایلید این صفحات را ببینید را به ترتیب ترجیحات خود انتخاب کنید
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = تنظیمات زبان { -brand-short-name }
+    .style = width: 40em

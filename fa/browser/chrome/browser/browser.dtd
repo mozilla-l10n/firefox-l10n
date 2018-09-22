@@ -48,6 +48,8 @@ but will never be visible at the same time. -->
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "بازآوری زبانه‌های انتخاب شده">
+<!ENTITY  reloadSelectedTabs.accesskey       "R">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -195,6 +197,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "آبونه شدن در این صفحه">
 <!ENTITY subscribeToPageMenuitem.label "آبونه شدن در این صفحه…">
+
 <!ENTITY addCurPagesCmd.label "نشانک‌گذاری تمامی زبانه‌ها…">
 <!ENTITY showAllBookmarks2.label "نمایش همهٔ نشانک‌ها">
 <!ENTITY recentBookmarks.label "به تازگی نشانک‌گذاری شده">
@@ -317,6 +320,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "پ">
 <!ENTITY newUserContext.label             "زبانه حامل جدید">
 <!ENTITY newUserContext.accesskey         "ز">
+<!ENTITY manageUserContext.label          "مدیریت کانتینرها">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "پنجره جدید‌">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ج">
@@ -437,6 +442,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 
 <!ENTITY customizeMenu.removeExtension.label "حذف افزونه">
+<!ENTITY customizeMenu.removeExtension.accesskey "v">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -762,9 +768,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "انجام شد">
 
 <!ENTITY editBookmark.showForNewBookmarks.label       "نمایش ویرایش‌گر هنگام ذخیره‌سازی">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -912,7 +920,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "صدای مربوط به این زبانه به‌اشتراک گذاشته می‌شود.">
 <!ENTITY getUserMedia.allWindowsShared.message "همه‌ی پنجره‌هایی که مشاهده می‌کنید به اشتراک گذاشته می‌شود.">
 
+<!ENTITY trackingProtection.on "محافظت در برابر ردگیری: روشن">
+<!ENTITY trackingProtection.off "محافظت در برابر ردگیری: خاموش">
 
+<!ENTITY contentBlocking.title "مسدود کردن محتوا">
 <!ENTITY contentBlocking.disabled.label "غیر فعال">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
@@ -951,6 +962,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.openBreakageReportView2.label "گزارش خطا">
 <!ENTITY contentBlocking.breakageReportView.label "گزارش مشکلات">
 <!ENTITY contentBlocking.breakageReportView.learnMore "بیشتر بدانید">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "چه مشکلی داشتید؟ (اختیاری)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "ارسال گزارش">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "انصراف">
@@ -962,10 +974,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "غیرفعال کردن برای این نشست">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.accesskey "E">
+<!ENTITY trackingProtection.reload2.label "بازآوری صفحه">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "نمایش همه">
 <!ENTITY pluginNotification.showAll.accesskey "ن">
