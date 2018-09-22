@@ -662,6 +662,7 @@ addressbar-suggestions-settings = Muuda otsingumootorite soovituste sätteid
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Sisu blokkimine
 
 ## Privacy Section - Tracking
 
