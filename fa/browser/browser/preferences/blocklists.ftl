@@ -5,7 +5,7 @@
 blocklist-window =
     .title = فهرست‌ مسدود‌ی‌ها
     .style = width: 55em
-blocklist-desc = شما می‌توانید فهرستی که فایرفاکس برای مسدود کردن عناصری از وب که ممکن است فعالیت شما را ردیابی کنند، انتخاب کنید.
+blocklist-desc = شما می‌توانید فهرستی که { -brand-short-name } برای مسدود کردن عناصری از وب که ممکن است فعالیت شما را ردیابی کنند، انتخاب کنید.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
