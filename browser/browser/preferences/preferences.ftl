@@ -118,7 +118,7 @@ startup-header = راه‌اندازی
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = اجازه بده تا { -brand-short-name } و فایرفاکس همزمان اجرا شوند
-use-firefox-sync = نکته: این از یک نمایه جدا استفاده میکند. از همگام‌سازی برای اشتراک‌گذاری اطلاعات بین آنها استفاده کنید.
+use-firefox-sync = نکته: این از یک نمایه جدا استفاده میکند. از { -sync-brand-short-name } برای اشتراک‌گذاری اطلاعات بین آنها استفاده کنید.
 get-started-not-logged-in = برای همگام‌سازی وارد { -sync-brand-short-name }…
 get-started-configured = باز کردن ترجیحات { -sync-brand-short-name }
 always-check-default =
@@ -638,10 +638,15 @@ addressbar-suggestions-settings = تغییر ترجیحات مربوط به پی
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = مسدود کردن محتوا
 content-blocking-learn-more = بیشتر بدانید
 content-blocking-restore-defaults =
     .label = بازگرداندن پیش‌فرض‌ها
     .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = مسدود کردن محتوا را غیرفعال کن
+content-blocking-toggle-off =
+    .tooltiptext = مسدود کردن محتوا را فعال کن
 content-blocking-toggle-label-on = روشن
     .accesskey = O
 content-blocking-toggle-label-off = خاموش
@@ -661,6 +666,12 @@ content-blocking-tracking-protection-change-block-list = تغییر لیست م�
 content-blocking-change-cookie-settings =
     .label = تغییر تنظیمات کوکی
     .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = ردیاب‌ها (توصیه می شود)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = ردیاب‌ها
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
@@ -757,7 +768,7 @@ collection-studies-link = نمایش studyهای { -brand-short-name }
 # or builds with no Telemetry support available.
 collection-health-report-disabled = گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است
 collection-browser-errors =
-    .label = به { -brand-short-name } اجازه بده تا گزارش‌های خطای مرورگر را به موزیلا ارسال کند( شامل پیام های خطا)
+    .label = به { -brand-short-name } اجازه بده تا گزارش‌های خطای مرورگر ( شامل پیام‌های خطا) را به { -vendor-short-name } ارسال کند
     .accesskey = b
 collection-browser-errors-link = بیشتر بدانید
 collection-backlogged-crash-reports =
