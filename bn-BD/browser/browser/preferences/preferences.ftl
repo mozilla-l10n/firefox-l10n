@@ -118,7 +118,7 @@ startup-header = শুরুতে
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = অনুমতি দিন { -brand-short-name } এবং ফায়ারফক্স একই সময়ে চালানোর জন্য
-use-firefox-sync = টিপ: এটি পৃথক প্রোফাইল ব্যাবহার করে। তাদের মধ্যে তথ্য শেয়ার করার জন্য সিঙ্ক ব্যবহার করুন।
+use-firefox-sync = টিপ: এটি পৃথক প্রোফাইল ব্যাবহার করে। তাদের মধ্যে তথ্য শেয়ার করার জন্য { -sync-brand-short-name } ব্যবহার করুন।
 get-started-not-logged-in = { -sync-brand-short-name } এ সাইন ইন করুন…
 get-started-configured = { -sync-brand-short-name } এর পছন্দসমূহ খুলুন
 always-check-default =
@@ -557,9 +557,6 @@ history-dontremember-description = { -brand-short-name } একান্ত ব�
 history-private-browsing-permanent =
     .label = সবসময় একান্ত ব্রাউজিং মোড ব্যবহার করুন p
     .accesskey = p
-history-remember-option =
-    .label = আমার ব্রাউজিং এবং ডাউনলোড ইতিহাস মনে রাখুন b
-    .accesskey = b
 history-remember-browser-option =
     .label = ব্রাউজিং এবং ডাউনলোড ইতিহাস মনে রাখবে
     .accesskey = b
@@ -647,26 +644,6 @@ content-blocking-toggle-label-on = চালু করুন
 content-blocking-toggle-label-off = বন্ধ
     .accesskey = O
 content-blocking-category-label = কি ব্লক করতে চান বলুন
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = স্লো ট্র্যাকিং উপাদানসমূহ
-    .accesskey = S
-content-blocking-fastblock-description = তৃতীয় পক্ষের কনটেন্ট অবরোধ করে যা লোড হতে ৫ সেকেন্ডের বেশি সময় নেয়।
-content-blocking-fastblock-option-enabled =
-    .label = সর্বদা ব্লক করুন
-content-blocking-fastblock-option-disabled =
-    .label = কখনও ব্লক করবেন  না
-content-blocking-tracking-protection-label = ট্রাকার
-    .accesskey = T
-content-blocking-tracking-protection-description = সমস্ত পরিচিত ট্র্যাকার ব্লক করে (নোট: লোড হতে কিছু পৃষ্ঠা আটকাতে পারে)
-content-blocking-tracking-protection-option-enabled =
-    .label = সর্বদা ব্লক করুন
-content-blocking-tracking-protection-option-pbm =
-    .label = শুধুমাত্র ব্যক্তিগত উইন্ডোতে ব্লক করুন
-content-blocking-tracking-protection-option-disabled =
-    .label = কখনও ব্লক করবে না
-content-blocking-tracking-protection-change-blocklist = ব্লক তালিকা পরিবর্তন করুন...
 
 ## Privacy Section - Tracking
 
