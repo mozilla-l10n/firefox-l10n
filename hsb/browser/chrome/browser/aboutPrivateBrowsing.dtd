@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " waše:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "sćehnjenja">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "zapołožki">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "kopěrowany tekst">
 <!ENTITY aboutPrivateBrowsing.note.before                "Priwatny modus ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "was anonymny nječini">
 <!ENTITY aboutPrivateBrowsing.note.after                 " w interneće. Waš dźěłodawar abo internetny poskićowar móže hišće wědźeć, kotru stronu wopytujeće.">
