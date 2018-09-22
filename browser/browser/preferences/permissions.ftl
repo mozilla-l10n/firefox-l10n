@@ -83,6 +83,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Sa võid määrata, millistel veebilehtedel on lubatud lisasid paigaldada. Sisesta vastava veebilehe täpne aadress ning klõpsa Luba.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Lubatud saidid - automaatne esitamine
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =

@@ -5,6 +5,9 @@
 languages-window =
     .title = Keeled
     .style = width: 30em
+webpage-languages-window =
+    .title = Veebilehtede keele-eelistused
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Veebilehti pakutakse mõnikord mitmes keeles. Vali vastavalt oma eelistuste järjekorrale keeled, milles selliseid lehti kuvatakse
@@ -36,3 +39,9 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+languages-active-code-format =
+    .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name }i keele-eelistused
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } kuvab esimest keelt vaikeväärtusena ja teisi keeli vastavalt vajadusele nende esinemise järjekorras.
