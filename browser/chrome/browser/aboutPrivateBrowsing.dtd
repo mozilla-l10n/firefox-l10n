@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " вашы:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "сцягванні">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "закладкі">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "скапіяваны тэкст">
 <!ENTITY aboutPrivateBrowsing.note.before                "Прыватнае агляданне ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "не робіць вас ананімам">
 <!ENTITY aboutPrivateBrowsing.note.after                 " у інтэрнэце. Ваш працадаўца і інтэрнэт-правайдар па-ранейшаму могуць ведаць, якія старонкі вы наведваеце.">
