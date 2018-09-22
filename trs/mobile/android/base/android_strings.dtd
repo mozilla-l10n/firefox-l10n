@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "ne\&apos;ñàan">
 
 <!ENTITY firstrun_tabqueue_title "Riña gun\&apos;">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Nachrun da\&apos; ganikó duhui\&apos; rakij ñanj">
-<!ENTITY firstrun_tabqueue_subtext_off "Na\&apos;nïnj sò\&apos; riña aché nun\&apos; da\&apos; garasun\&apos; ne\&apos; rukù riña &brandShortName; nga ruhuô\&apos; gatu ñû\&apos;.">
-
-<!ENTITY firstrun_tabqueue_message_on "¡Hue da huin ân!">
-<!ENTITY firstrun_tabqueue_subtext_on "Niganj chre ga\&apos;ue guyun\&apos; sa hua na &settings; nika\&apos; ni &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Artikulu">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,6 +63,14 @@
 <!ENTITY  crash_restart_label "Nayi\&apos;i naka &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Gachrūn nuguan\&apos; ruhuât nanà\&apos;uìt">
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "Garasun QR da\&apos; narì\&apos;t asi gachrun direksiûn ruhuât">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Garasun si mikrofonôt da\&apos; narì\&apos;t asi gachrun direksiûn ruhuât">
 
 <!ENTITY bookmark "Sa arajsun nichrò\&apos; doj">
 <!ENTITY bookmark_remove "Durë\&apos; sa arajsun nichrò\&apos; doj">
@@ -206,7 +208,7 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Rakïj ñanj ngà ganarânt, nachra sa\&apos; datos, ràsun nagi\&apos;iaj hue\&apos;e ">
 <!ENTITY pref_category_notifications "Sa ataj na\&apos;anj">
-<!ENTITY pref_category_notifications_summary "Nej sa naka doj, nagui\&apos;iaj nako\&apos; web ">
+<!ENTITY pref_category_notifications_summary2 "Sa nakà nika, sa huaa">
 <!ENTITY pref_developer_remotedebugging_usb "Guyan sa kïj hua nga USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Guyun sa kïj hua nga Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Da\&apos; nagui\&apos;iaj niñun nga Wi-Fi ni da\&apos;ui si aga\&apos; ganika ngo app sa ahia nej da´nga QR.">
@@ -282,6 +284,13 @@
 <!ENTITY pref_whats_new_notification " Na\&apos;ni sa nakaa riñan &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Guini\&apos;iaj daj \&apos;iaj sun ngá guisij nagui\&apos;iaj nakat">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Sa ataj na\&apos;anj dàj hua nej rasun nan">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "Gini\&apos;in doj dàj hua rayi\&apos;î &brandShortName; asi a\&apos;ngô &vendorShortName; nej sa huaa">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Sa hiáj raj hue\&apos;">
@@ -355,6 +364,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Duguchrá ma\&apos;an aga\&apos; nan">
 <!ENTITY pref_media_autoplay_enabled_summary "Dugumî sisi nej riña web atujt ga\&apos;ue nadigân man\&apos;an sa nihià\&apos; ni\&apos;io\&apos; nga a\&apos;ngô ne sa siki\&apos; ni\&apos;io\&apos;">
+<!ENTITY pref_media_autoplay_allow "Ga\&apos;nïn gayi\&apos;ì man\&apos;an gi\&apos;iaj sunj">
+<!ENTITY pref_media_autoplay_block "Si ga\&apos;nïnt gayi\&apos;ì man\&apos;an gi\&apos;iaj sunj">
 <!ENTITY pref_zoom_force_enabled "Hua yugui nigànj sa nagi\&apos;iaj nichrùn\&apos;un">
 <!ENTITY pref_zoom_force_enabled_summary "Nachrun duguì\&apos; da\&apos; ga\&apos;ue gini\&apos;iajt dàj garan\&apos; ruhuât \&apos;ngo ñanj">
 <!ENTITY pref_voice_input "Riñan gatu naneé">
@@ -430,6 +441,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Sa nata\&apos; rayi\&apos;î nej sa gire\&apos;e">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Sa rugujñu\&apos;unj nana\&apos;ui\&apos; \&apos;ngo sa huin ruhuô\&apos;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "¡Ruguñu\&apos;unj &vendorShortName; da\&apos; gini\&apos;in yumiguìi! Gataj na\&apos;anj hiuj nikïn\&apos;t ngà Wi-Fi si nitaj ni ngà a\&apos;ngô aga\&apos; sikà\&apos; ràa da\&apos; ga\&apos;ue nahuin hue\&apos;ê doj suun nadigân riña nikïn\&apos;.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Hiaj ayi\&apos;ì sun nana\&apos;ui\&apos;i">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -536,7 +552,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Nagi\&apos;aj chre\&apos; huìj dukuáan nej rakïj ñanj">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Ñanj ngà nare\&apos;">
 <!ENTITY folder_removed "Ganare\&apos; karpeta">
@@ -751,7 +767,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Sa nahuin guña rukù nï\&apos;: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Nitaj ama ga: sa nahuin guña rukù nï\&apos;">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -871,3 +887,20 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Gachrun riñan gayi\&apos;i">
 <!ENTITY pwa_continue_to_website "Ginu\&apos; riña sitio na">
 <!ENTITY pwa_onboarding_sumo "Ga\&apos;uè nutat sitio na riña si pagina da\&apos; ga\&apos;uè gi\&apos;iaj Sun hiò ta\&apos;u ma da\&apos;nga gē ru\&apos; \&apos;iaj Sun \&apos;ngò aplikasion.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Duguachrá">
+<!ENTITY pip_play_button_description "Nayi\&apos;ì ñunj gachra">
+<!ENTITY pip_pause_button_title "Duyichin\&apos; akuan\&apos;">
+<!ENTITY pip_pause_button_description "Duyichin\&apos; akuan\&apos; chra\&apos;a">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; Sa rugujñu\&apos;unj nana\&apos;ui\&apos; \&apos;ngo sa huin ruhuô\&apos;">
+<!ENTITY download_notification_channel "Nadunïnj">
+<!ENTITY media_notification_channel "Sa duguachráa ni narii">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; Nuguan push huaa">
+<!ENTITY updater_notification_channel "Sa hua nahuin nakà riña na">
+<!ENTITY synced_tabs_notification_channel "Nej rakïj ñaj guña huaa">
