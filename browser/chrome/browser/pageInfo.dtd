@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "Uudistevood">
 <!ENTITY  feedTab.accesskey     "U">
-<!ENTITY  feedSubscribe         "Telli">
-<!ENTITY  feedSubscribe.accesskey "T">
 
 <!ENTITY  permTab               "Õigused">
 <!ENTITY  permTab.accesskey     "i">
-<!ENTITY  permUseDefault        "Kasutatakse vaikimisi õigusi">
-<!ENTITY  permAskAlways         "Alati küsitakse">
-<!ENTITY  permAllow             "Lubatud">
-<!ENTITY  permAllowSession      "Lubatud selleks seansiks">
-<!ENTITY  permHide              "Peida">
-<!ENTITY  permBlock             "Keelatud">
 <!ENTITY  permissionsFor        "Õigused veebilehele:">
-<!ENTITY  permPlugins           "Pluginate aktiveerimine">
 
 <!ENTITY  securityTab           "Turvalisus">
 <!ENTITY  securityTab.accesskey "r">
@@ -75,9 +66,9 @@
 
 <!ENTITY  securityView.privacy.header                   "Privaatsus ja ajalugu">
 <!ENTITY  securityView.privacy.history                  "Kas ma olen enne tänast seda lehte juba külastanud?">
-<!ENTITY  securityView.privacy.cookies                  "Kas see veebileht salvestab infot (küpsiseid) minu arvutisse?">
-<!ENTITY  securityView.privacy.viewCookies              "Vaata küpsiseid">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Kas see veebileht salvestab infot minu arvutisse?">
+<!ENTITY  securityView.privacy.clearSiteData            "Kustuta küpsised ja saidi andmed">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "K">
 <!ENTITY  securityView.privacy.passwords                "Kas ma olen salvestanud selle veebilehe paroole?">
 <!ENTITY  securityView.privacy.viewPasswords            "Vaata salvestatud paroole">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "s">
