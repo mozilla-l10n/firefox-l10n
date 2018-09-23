@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "S’abonner à cette page">
 <!ENTITY subscribeToPageMenuitem.label "S’abonner à cette page…">
+
 <!ENTITY addCurPagesCmd.label "Marquer tous les onglets…">
 <!ENTITY showAllBookmarks2.label "Afficher tous les marque-pages">
 <!ENTITY recentBookmarks.label "Marqués récemment">
@@ -448,6 +449,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "G">
 
 <!ENTITY customizeMenu.removeExtension.label "Supprimer l’extension">
+<!ENTITY customizeMenu.removeExtension.accesskey "S">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
