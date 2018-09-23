@@ -646,7 +646,7 @@ sitedata-cookies-exceptions =
 # This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Jūsų „turinio blokavimo“ nuostatos neleidžia atlikti pakeitimų „slapukų ir svetainių duomenų“ nuostatoms.
+sitedata-warning-your-settings-prevent-changes = Jūsų „turinio blokavimo“ nuostatos neleidžia pakeisti „slapukų ir svetainių duomenų“ nuostatų.
 
 ## Privacy Section - Address Bar
 
@@ -698,7 +698,15 @@ content-blocking-tracking-protection-option-private =
     .label = Tik privačiojo naršymo languose
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Keisti blokavimo sąrašą
+content-blocking-third-party-cookies-label =
+    .label = Trečiųjų šalių slapukai
+    .accesskey = s
 content-blocking-reject-trackers-description = Blokuoja visus trečiųjų šalių slapukus, arba tik nustatytus stebėjimo elementų.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Jūsų „slapukų ir svetainių duomenų“ nuostatos neleidžia pakeisti „trečiųjų šalių slapukų“ nuostatų.
 content-blocking-change-cookie-settings =
     .label = Keisti slapukų nuostatas
     .accesskey = n
@@ -795,7 +803,7 @@ permissions-a11y-privacy-link = Sužinoti daugiau
 
 collection-header = „{ -brand-short-name }“ duomenų rinkimas ir naudojimas
 collection-description = Mes siekiame jums leisti rinktis ir rinkti tik tai, ko reikia teikti ir tobulinti „{ -brand-short-name }“ visiems. Mes visuomet paprašome leidimo prieš gaudami asmeninę informaciją.
-collection-privacy-notice = Privatumo nuostatai
+collection-privacy-notice = Privatumo pranešimas
 collection-health-report =
     .label = Leisti „{ -brand-short-name }“ siųsti techninius ir naudojimosi duomenis „{ -vendor-short-name }i“
     .accesskey = t
