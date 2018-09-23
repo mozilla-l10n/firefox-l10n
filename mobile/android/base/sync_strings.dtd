@@ -67,7 +67,7 @@
 <!ENTITY fxaccount_status_history 'Žurnalas'>
 <!ENTITY fxaccount_status_passwords2 'Prisijungimai'>
 <!ENTITY fxaccount_status_tabs 'Atviros kortelės'>
-<!ENTITY fxaccount_status_additional_settings 'Papildomos nuostatos'>
+<!ENTITY fxaccount_status_additional_settings 'Papildomi nustatymai'>
 <!ENTITY fxaccount_pref_sync_use_metered2 'Sinchronizuoti tik per belaidį tinklą'>
 <!-- Localization note: Only affects background syncing, user initiated
      syncs will still be done regardless of the connection -->
