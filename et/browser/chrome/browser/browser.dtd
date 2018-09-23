@@ -1095,7 +1095,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY homepageControlled.message "Laiendus on muutnud avalehe sisu. Sa võid taastada sätted, kui sa ei soovi seda muudatust.">
 <!ENTITY homepageControlled.header.message "Avalehe sisu on muutunud.">
+<!ENTITY homepageControlled.keepButton.label "Säilita muudatused">
+<!ENTITY homepageControlled.keepButton.accesskey "S">
+<!ENTITY homepageControlled.disableButton.label "Keela see laiendus">
+<!ENTITY homepageControlled.disableButton.accesskey "K">
 
+<!ENTITY tabHideControlled.header.message "Vaata peidetud kaarte">
+<!ENTITY tabHideControlled.keepButton.label "Jäta kaardid peidetuks">
+<!ENTITY tabHideControlled.keepButton.accesskey "J">
+<!ENTITY tabHideControlled.disableButton.label "Keela see laiendus">
+<!ENTITY tabHideControlled.disableButton.accesskey "K">
 
 <!ENTITY pageActionButton.tooltip "Lehe toimingud">
 <!ENTITY pageAction.addToUrlbar.label "Lisa aadressiribale">
@@ -1108,7 +1117,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.syncNotReady.label "Seadmeid sünkroniseeritakse…">
 
+<!ENTITY pageAction.shareUrl.label "Jaga">
 
+<!ENTITY pageAction.shareMore.label "Veel…">
 
 <!ENTITY libraryButton.tooltip "Vaata ajalugu, salvestatud järjehoidjaid ja muid asju">
 
