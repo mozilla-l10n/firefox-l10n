@@ -219,6 +219,7 @@ was trying to connect. -->
 Strict Transport Security (HSTS) tehnoloogiat, et sundida &brandShortName; ühenduma ainult
 turvalise protokolli kaudu. Seetõttu pole selle sertifikaadi jaoks erandi lisamine
 võimalik.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Sait <span class='hostname'></span> kasutab HTTP Strict Transport Security (HSTS) tehnoloogiat, et sundida &brandShortName; ühenduma ainult turvalise protokolli kaudu. Seetõttu pole selle serdi jaoks erandi lisamine võimalik.">
 <!ENTITY certerror.copyToClipboard.label "Kopeeri tekst vahemällu">
 
 <!ENTITY inadequateSecurityError.title "Ühendus pole turvaline">
@@ -228,6 +229,8 @@ võimalik.">
 
 <!ENTITY blockedByPolicy.title "Blokitud leht">
 
+<!ENTITY clockSkewError.title "Sinu arvuti aeg on vale">
+<!ENTITY clockSkewError.longDesc "Sinu arvuti arvab ajaks olevat <span id='wrongSystemTime_systemDate1'/> - see takistab &brandShortName;il turvalise ühenduse loomist. Saidi <span class='hostname'></span> külastamiseks määra oma arvuti aeg õigeks ja värskenda siis saidi <span class='hostname'></span> sisu.">
 
 <!ENTITY prefReset.longDesc "Paistab, et seda probleemi võivad põhjustada sinu võrguturvalisuse sätted. Kas soovid taastada vaikesätted?">
 <!ENTITY prefReset.label "Taasta vaikesätted">
