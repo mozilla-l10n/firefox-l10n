@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "indirdiğiniz dosyalar">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "yer imleri">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "metin kopyalandı">
 <!ENTITY aboutPrivateBrowsing.note.before                "Gizli Gezinti sizi internette ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "anonim yapmaz.">
 <!ENTITY aboutPrivateBrowsing.note.after                 " İşvereniniz veya internet servis sağlayıcınız hâlâ ziyaret ettiğiniz sayfaları takip edebilir.">

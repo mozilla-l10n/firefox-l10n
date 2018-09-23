@@ -26,11 +26,13 @@ policy-DisableFeedbackCommands = Yardım menüsünden geri bildirim göndermeye 
 policy-DisableFirefoxAccounts = { -fxaccount-brand-name } tabanlı servisleri devre dışı bırak (Sync dahil).
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox Screenshots özelliğini devre dışı bırak.
+policy-DisableFirefoxStudies = { -brand-short-name } tarayıcısının araştırma yürütmesini engelle.
 policy-DisableForgetButton = Unut düğmesine erişimi engelle.
 policy-DisableFormHistory = Arama ve form geçmişini hatırlama.
 policy-DisableMasterPasswordCreation = true ise ana parola oluşturulamaz.
 policy-DisablePocket = Web sayfalarını Pocket'a kaydetme özelliğini devre dışı bırak.
 policy-DisablePrivateBrowsing = Gizli gezintiyi devre dışı bırak.
+policy-DisableProfileImport = Başka tarayıcılardaki verileri içe aktarmaya olanak veren menü komutunu devre dışı bırak.
 policy-DisableProfileRefresh = about:support sayfasındaki “{ -brand-short-name } tarayıcısını yenile” düğmesini devre dışı bırak.
 policy-DisableTelemetry = Telemetri'yi kapat.
 policy-DisplayBookmarksToolbar = Varsayılan olarak yer imleri araç çubuğunu göster.

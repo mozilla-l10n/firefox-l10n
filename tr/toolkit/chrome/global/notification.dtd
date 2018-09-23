@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Tamam!">
 <!ENTITY defaultButton.accesskey "m">
+
+<!ENTITY moreActionsButton.accessibleLabel "Diğer eylemler">
