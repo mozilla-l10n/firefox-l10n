@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "اشترك بهذه الصفحة">
 <!ENTITY subscribeToPageMenuitem.label "اشترك في هذه الصفحة…">
+
 <!ENTITY addCurPagesCmd.label "علّم كل الألسنة…">
 <!ENTITY showAllBookmarks2.label "أظهِر كل العلامات">
 <!ENTITY recentBookmarks.label "المعلّم حديثا">
@@ -447,6 +448,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "أدِر الامتداد">
 <!ENTITY customizeMenu.manageExtension.accesskey "د">
 
+<!ENTITY customizeMenu.removeExtension.label "أزِل الامتداد">
+<!ENTITY customizeMenu.removeExtension.accesskey "ت">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -947,6 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "أضِف نوع حجب…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "كل المتعقّبات المكتشفة">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -974,6 +978,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "أبلِغ عن مشكلة">
 <!ENTITY contentBlocking.breakageReportView.label "الإبلاغ عن مشاكل">
+<!ENTITY contentBlocking.breakageReportView2.description "يمكن أن يتسبّب حجب المحتوى بمشاكل مع بعض المواقع. عندما تُبلغ عن المشاكل تكون تساعد في جعل &brandShortName; أفضل للجميع. (سيُرسل هذا مسار الصفحة كما ومعلومات عن إعدادات المتصفح لديك إلى موزيلا.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "اطّلع على المزيد">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "المسار">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "ما المشاكل التي تواجهها؟ (اختياري)">
