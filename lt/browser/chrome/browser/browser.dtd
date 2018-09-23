@@ -448,6 +448,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Tvarkyti priedą">
 <!ENTITY customizeMenu.manageExtension.accesskey "p">
 
+<!ENTITY customizeMenu.removeExtension.label "Pašalinti priedą">
+<!ENTITY customizeMenu.removeExtension.accesskey "l">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains

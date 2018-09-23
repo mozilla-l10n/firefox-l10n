@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " jūsų:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "atsiuntimus">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "adresyną">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "nukopijuotas tekstas">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privatusis naršymas ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "nepadaro jūsų anonimu">
 <!ENTITY aboutPrivateBrowsing.note.after                 " internete. Jūsų darbdavys ar interneto paslaugų teikėjas vis tiek gali sekti kur naršote.">
