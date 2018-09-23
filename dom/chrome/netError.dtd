@@ -96,6 +96,6 @@
 <!ENTITY inadequateSecurityError.title "Ühendus pole turvaline">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> kasutab turvalisuse tehnoloogiaid, mis on aegunud ja avatud rünnakutele. Ründaja võib suurema vaevata pääseda ligi teabele, mis sinu arvates on kaitstud. Saidi külastamiseks peab saidi administraator selle serveri kõigepealt ära parandama.</p><p>Veakood: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> kasutab turvatehnoloogiat, mis on aegunud ja ei paku rünnete eest kaitset. Ründaja võib suurema vaevata pääseda ligi teabele, mis sinu arvates on kaitstud. Saidi külastamiseks peab saidi administraator selle serveri kõigepealt ära parandama.</p><p>Veakood: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokitud leht">

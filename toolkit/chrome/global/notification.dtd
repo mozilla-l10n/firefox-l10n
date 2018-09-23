@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Olgu!">
 <!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "Rohkem tegevusi">
