@@ -194,6 +194,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Lisa erand…">
 
+<!ENTITY securityOverride.exceptionButton1Label "Nõustu riskiga ja jätka">
 
 <!ENTITY errorReporting.automatic2 "Raporteeri taolistest vigadest, et Mozilla saaks tuvastada ja blokkida ohtlikud veebilehed">
 <!ENTITY errorReporting.learnMore "Rohkem teavet…">
@@ -213,6 +214,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ei loonud ühendust aadressiga <span id='wrongSystemTimeWithoutReference_URL'/>, sest sinu arvuti näib kasutavat vale kellaaega ning see takistab turvalise ühenduse loomist.</p> <p>Sinu arvuti ajaks on <span id='wrongSystemTimeWithoutReference_systemDate'/>. Probleemi lahendamiseks muuda oma arvuti aja sätted õigeks.</p>">
 
 <!ENTITY certerror.pagetitle1  "Ebaturvaline ühendus">
+<!ENTITY certerror.pagetitle2  "Hoiatus: ees on ootamas võimalik turvarisk">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "See sait kasutab HTTP
 Strict Transport Security (HSTS) tehnoloogiat, et sundida &brandShortName; ühenduma ainult
 turvalise protokolli kaudu. Seetõttu pole selle sertifikaadi jaoks erandi lisamine
