@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Gerai!">
 <!ENTITY defaultButton.accesskey "G">
+
+<!ENTITY moreActionsButton.accessibleLabel "Daugiau veiksmų">

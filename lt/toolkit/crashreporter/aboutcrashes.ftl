@@ -4,12 +4,20 @@
 
 crash-reports-title = Strigčių pranešimai
 clear-all-reports-label = Pašalinti visus pranešimus
+delete-button-label = Išvalyti viską
 delete-confirm-title = Ar tikrai to norite?
 delete-confirm-description = Visi pranešimai bus negrįžtamai pašalinti.
+delete-unsubmitted-description = Visi neišsiųsti strigčių pranešimai bus negrįžtamai pašalinti.
+delete-submitted-description = Visų išsiųstų strigčių pranešimų sąrašas bus pašalintas, tačiau persiųsti duomenys išliks. Šio veiksmo atšaukti nebus galima.
 crashes-unsubmitted-label = Neišsiųsti strigčių pranešimai
 id-heading = Pranešimo ID
 date-crashed-heading = Strigties data
+submit-crash-button-label = Pateikti
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Nepavyko
 crashes-submitted-label = Išsiųsti strigčių pranešimai
 date-submitted-heading = Pranešimo data
+view-crash-button-label = Peržiūrėti
 no-reports-label = Išsiųstų strigčių pranešimų nėra.
 no-config-label = Ši programa nėra suderinta, siųsti strigčių pranešimus. Tam reikia, kad būtų nurodyta nuostatos <code>breakpad.reportURL</code> reikšmė.
