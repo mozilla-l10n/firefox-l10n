@@ -948,39 +948,65 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Lisa blokeering…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Kõik tuvastatud jälitajad">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Blokitud">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Lisa blokeering…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Kolmanda osapoole küpsised">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokitud">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Lisa blokeering…">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Raporteeri probleemist">
+<!ENTITY contentBlocking.breakageReportView.label "Probleemidest raporteerimine">
+<!ENTITY contentBlocking.breakageReportView2.description "Sisu blokkimine võib põhjustada probleeme mõningate saitidega. Probleemidest raporteerimisega aitad sa teha &brandShortName;i paremaks kõigi jaoks. (Raportiga saadetakse Mozillale nii külastatava saidi URL kui ka infot sinu brauseri sätete kohta.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Rohkem teavet">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Millised probleemid esinesid? (valikuline)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Saada raport">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Loobu">
 
 <!ENTITY trackingProtection.title "Jälitamisvastane kaitse">
+<!ENTITY trackingProtection.tooltip "Ava jälitamisvastase kaitse sätted">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokib selle lehe osasid, mis võivad sinu tegevust jälitada.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; tuvastas elemente, mis võivad jälitada sinu tegevust.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; tuvastas elemente, mis võivad jälitada sinu tegevust. Sa oled sellel saidil jälitamisvastase kaitse keelanud.">
+<!ENTITY trackingProtection.notDetected5 "Sellel lehel ei tuvastatud jälitavaid elemente.">
+<!ENTITY trackingProtection.notDetectedException "Sellel lehel ei tuvastatud jälitavaid elemente. Sa oled sellel saidil jälitamisvastase kaitse keelanud.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Sa lubasid jälitamisvastase kaitse. Kõigi jälitajate blokkimiseks laadi leht uuesti.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Keela sellel saidil">
+<!ENTITY trackingProtection.unblock3.accesskey "K">
+<!ENTITY trackingProtection.unblock4.label "Keela blokkimine sellel saidil">
+<!ENTITY trackingProtection.unblock4.accesskey "K">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "Keela selles seansis">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "K">
 
 <!ENTITY pluginNotification.showAll.label "Kuva kõiki">
 <!ENTITY pluginNotification.showAll.accesskey "K">
