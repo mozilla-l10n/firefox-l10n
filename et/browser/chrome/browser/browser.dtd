@@ -256,6 +256,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Oled sellel lehel teavitused keelanud.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Oled sellel saidil keelanud andmete püsivalt salvestamise.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Oled sellel lehel hüpikaknad blokkinud.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Oled sellel lehel heliga meedia automaatse esitamise blokkinud.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Oled sellel lehel keelanud kanvaa andmete ekstraktimise.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Oled sellel lehel keelanud plugina Adobe Flash kasutamise.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Oled sellel lehel keelanud ligipääsu MIDIle.">
@@ -266,6 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Kodu">
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName;i avaleht">
 
 <!ENTITY bookmarksButton.label          "Järjehoidjad">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -312,15 +314,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Veebiarendajale">
 <!ENTITY webDeveloperMenu.accesskey   "b">
 
+<!ENTITY devtoolsRecordExecution.label "Record Execution">
+<!ENTITY devtoolsSaveRecording.label "Save Recording">
+<!ENTITY devtoolsReplayExecution.label "Replay Execution">
 
 <!ENTITY inspectContextMenu.label     "Inspekteeri elementi">
 <!ENTITY inspectContextMenu.accesskey "n">
 
+<!ENTITY inspectA11YContextMenu.label     "Inspect Accessibility Properties">
 
 <!ENTITY fileMenu.label         "Fail">
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Uus konteinerkaart">
 <!ENTITY newUserContext.accesskey         "o">
+<!ENTITY manageUserContext.label          "Halda konteinereid">
+<!ENTITY manageUserContext.accesskey      "H">
 <!ENTITY newNavigatorCmd.label        "Uus aken">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "U">
@@ -435,7 +443,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "E">
 <!ENTITY customizeMenu.addMoreItems.label "Lisa rohkem elemente…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "L">
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Peidetakse tööriistaribalt automaatselt">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "r">
+<!ENTITY customizeMenu.manageExtension.label "Halda laiendust">
+<!ENTITY customizeMenu.manageExtension.accesskey "l">
 
+<!ENTITY customizeMenu.removeExtension.label "Eemalda laiendus">
+<!ENTITY customizeMenu.removeExtension.accesskey "i">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -761,8 +775,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Sobib">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "Lisamisel kuvatakse seda dialoogi">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "d">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -805,10 +822,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Rohkem teavet">
 
+<!ENTITY identity.clearSiteData "Kustuta küpsised ja saidi andmed…">
 
 <!ENTITY identity.permissions "Õigused">
 <!ENTITY identity.permissionsEmpty "Sellele saidile pole tagatud ühtki eriõigust.">
 <!ENTITY identity.permissionsReloadHint "Muudatuste rakendumiseks pead võib-olla lehe uuesti laadima.">
+<!ENTITY identity.permissionsPreferences.tooltip "Ava õiguste sätted">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -908,7 +927,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Kaardi heli jagatakse välja.">
 <!ENTITY getUserMedia.allWindowsShared.message "Jagatakse kõiki nähtavaid aknaid sinu ekraanil.">
 
+<!ENTITY trackingProtection.on "Jälitamisvastane kaitse: SEES">
+<!ENTITY trackingProtection.off "Jälitamisvastane kaitse: VÄLJAS">
 
+<!ENTITY contentBlocking.title "Sisu blokkimine">
+<!ENTITY contentBlocking.detected "Sellelt saidilt leiti blokitavat sisu.">
+<!ENTITY contentBlocking.notDetected "Sellel lehel ei tuvastatud blokitavat sisu.">
+<!ENTITY contentBlocking.disabled.label "Keelatud">
+<!ENTITY contentBlocking.disabled.tooltip "Sa oled sisu blokkimise keelanud.">
+<!ENTITY contentBlocking.exception.tooltip "Sa oled sisu blokkimise sellel saidil keelanud.">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
