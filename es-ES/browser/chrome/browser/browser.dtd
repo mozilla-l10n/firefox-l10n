@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Suscribirse a esta página">
 <!ENTITY subscribeToPageMenuitem.label "Suscribirse a esta página…">
+
 <!ENTITY addCurPagesCmd.label "Añadir pestañas a marcadores…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
 <!ENTITY recentBookmarks.label "Añadidos recientemente">
@@ -447,6 +448,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Gestionar extensión">
 <!ENTITY customizeMenu.manageExtension.accesskey "e">
 
+<!ENTITY customizeMenu.removeExtension.label "Eliminar extensión">
+<!ENTITY customizeMenu.removeExtension.accesskey "E">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -947,6 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Añadir bloqueo…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Todos los rastreadores detectados">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -959,17 +963,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Añadir bloqueo…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Cookies de terceros">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Bloqueado">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Añadir bloqueo…">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Informar de un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Informar de problemas">
+<!ENTITY contentBlocking.breakageReportView2.description "El bloqueo de contenido puede causar problemas con algunos sitios. Cuando informa de problemas, ayuda a mejorar &brandShortName; para todos (esto enviará a Mozilla la URL junto con información de la configuración del navegador).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Más información">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Qué problemas tuviste? (Opcional)">

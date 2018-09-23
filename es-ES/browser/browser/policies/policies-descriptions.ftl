@@ -33,4 +33,6 @@ policy-DisableMasterPasswordCreation = Si se activa, no se puede crear una contr
 policy-DisablePocket = Desactivar la función para guardar páginas web en Pocket.
 policy-DisablePrivateBrowsing = Desactivar la navegación privada.
 policy-DisableTelemetry = Desactivar Telemetry.
+policy-DisplayBookmarksToolbar = Mostrar de forma predeterminada la barra de herramientas de marcadores.
+policy-DisplayMenuBar = Mostrar de forma predeterminada la barra de menú.
 policy-DontCheckDefaultBrowser = Desactivar la comprobación de navegador predeterminado al iniciar.
