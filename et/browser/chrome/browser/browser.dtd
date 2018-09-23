@@ -1007,6 +1007,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "Keela selles seansis">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "K">
+<!ENTITY trackingProtection.block4.label "Luba sellel saidil">
+<!ENTITY trackingProtection.block4.accesskey "L">
+<!ENTITY trackingProtection.unblockPrivate4.label "Ajutiselt keela blokkimine">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "A">
+<!ENTITY trackingProtection.block5.label "Luba blokkimine sellel saidil">
+<!ENTITY trackingProtection.block5.accesskey "L">
+<!ENTITY trackingProtection.reload2.label "Laadi leht uuesti">
+<!ENTITY trackingProtection.reload2.accesskey "u">
 
 <!ENTITY pluginNotification.showAll.label "Kuva kõiki">
 <!ENTITY pluginNotification.showAll.accesskey "K">
@@ -1085,6 +1093,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Keela see laiendus">
 <!ENTITY newTabControlled.disableButton.accesskey "l">
 
+<!ENTITY homepageControlled.message "Laiendus on muutnud avalehe sisu. Sa võid taastada sätted, kui sa ei soovi seda muudatust.">
+<!ENTITY homepageControlled.header.message "Avalehe sisu on muutunud.">
 
 
 <!ENTITY pageActionButton.tooltip "Lehe toimingud">
