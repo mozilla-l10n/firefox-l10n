@@ -27,7 +27,7 @@ policy-Certificates = Om indbyggede certifikater skal anvendes eller ikke. Denne
 
 policy-Cookies = Tillad eller nægt websteder at sætte cookies.
 
-policy-DisableAppUpdate = Forhindr browseren i at opdatere.
+policy-DisableAppUpdate = Deaktiver opdatering af browseren.
 
 policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, den indbyggede PDF-viser i { -brand-short-name }.
 
