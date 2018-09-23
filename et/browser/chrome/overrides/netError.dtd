@@ -160,8 +160,19 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Mida on võimalik probleemi lahendamiseks teha?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Selle probleemi põhjus peitub tõenäoliselt saidis endas ja sa ei saa selle lahendamiseks midagi teha.</p>
+<p>Kui kasutad ettevõtte internetti või viirustõrje tarkvara, siis võid pöörduda abi saamiseks IT toe poole. Samuti võid teavitada antud probleemist ka saidi omanikku.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Sinu arvuti ajaks on <span id='wrongSystemTime_systemDate2'/>. Kontrolli üle, et sinu arvutile oleks määratud õige kuupäev, kellaaeg ning ajatsoon, ja värskenda siis lehte <span class='hostname'/>.</p>
+<p>Kui sinu arvuti aeg on juba õige, siis on antud sait tõenäoliselt valesti häälestatud ja sa ei saa midagi selle probleemi lahendamiseks teha. Küll võid sa aga saidi administraatorit antud probleemist teavitada.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Selle probleemi põhjus peitub tõenäoliselt saidis endas ja sa ei saa selle lahendamiseks midagi teha. Küll võid sa aga saidi administraatorit antud probleemist teavitada.</p>
+">
 
 <!ENTITY sharedLongDesc "
 <ul>
