@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Prenumeruoti šio tinklalapio naujienas">
 <!ENTITY subscribeToPageMenuitem.label "Prenumeruoti šio tinklalapio naujienas…">
+
 <!ENTITY addCurPagesCmd.label "Visas korteles įtraukti į adresyną…">
 <!ENTITY showAllBookmarks2.label "Rodyti visą adresyną">
 <!ENTITY recentBookmarks.label "Paskiausiai įtraukti į adresyną">
@@ -1006,7 +1007,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "I">
 <!ENTITY trackingProtection.block4.label "Įjungti šioje svetainėje">
 <!ENTITY trackingProtection.block4.accesskey "j">
-<!ENTITY trackingProtection.unblockPrivate4.label "Išjungti blokavimą laikinai">
+<!ENTITY trackingProtection.unblockPrivate4.label "Laikinai išjungti blokavimą">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "I">
 <!ENTITY trackingProtection.block5.label "Įjungti blokavimą šioje svetainėje">
 <!ENTITY trackingProtection.block5.accesskey "j">
