@@ -35,13 +35,23 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Sulge teised kaardid">
 <!ENTITY  closeOtherTabs.accesskey           "t">
 
+<!ENTITY  closeSelectedTabs.label            "Sulge valitud kaardid">
+<!ENTITY  closeSelectedTabs.accesskey        "S">
 
+<!ENTITY  pinSelectedTabs.label              "Tee püsikaartideks">
 <!-- Pin Tab and Pin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  pinSelectedTabs.accesskey          "p">
+<!ENTITY  unpinSelectedTabs.label            "Tee tavakaartideks">
 <!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  unpinSelectedTabs.accesskey        "T">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadSelectedTabs.label           "Laadi valitud kaardid uuesti">
+<!ENTITY  reloadSelectedTabs.accesskey       "L">
+<!ENTITY  bookmarkSelectedTabs.label         "Lisa kaardid järjehoidjatesse…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -60,12 +70,15 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "i">
 <!ENTITY  moveToNewWindow.label              "Liiguta uude aknasse">
 <!ENTITY  moveToNewWindow.accesskey          "k">
+<!ENTITY  reopenInContainer.label            "Taasava konteineris">
+<!ENTITY  reopenInContainer.accesskey        "o">
 <!ENTITY  bookmarkAllTabs.label              "Lisa kõik kaardid järjehoidjatesse…">
 <!ENTITY  bookmarkAllTabs.accesskey          "L">
 <!ENTITY  undoCloseTab.label                 "Võta kaardi sulgemine tagasi">
 <!ENTITY  undoCloseTab.accesskey             "g">
 <!ENTITY  closeTab.label                     "Sulge kaart">
 <!ENTITY  closeTab.accesskey                 "S">
+<!ENTITY  hiddenTabs.label                   "Peidetud kaardid">
 
 <!ENTITY  listAllTabs.label      "Näita kõigi kaartide nimekirja">
 
@@ -186,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Selle veebilehe uudistevoo tellimine">
 <!ENTITY subscribeToPageMenuitem.label "Telli selle veebilehe uudistevoog...">
+
 <!ENTITY addCurPagesCmd.label "Lisa kõik kaardid järjehoidjatesse...">
 <!ENTITY showAllBookmarks2.label "Kuva kõiki järjehoidjaid">
 <!ENTITY recentBookmarks.label "Viimati järjehoidjatesse lisatud">
@@ -214,6 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ava teavituse paneel">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ava asukohataotluse paneel">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Ava automaatse esitamise paneel">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ava lisa paigaldamise teavituspaneel">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Halda kanvaa ekstraktimise õigusi">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ava võrguta režiimi andmete teavituspaneel">
@@ -222,6 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Määra, kas soovid sellelt saidilt teavitusi saada">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Salvesta andmeid püsivalt">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Veebilehitseja on kaugjuhtimisel">
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Ava veebiautentimise paneel">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Halda kaamera ja/või mikrofoni jagamist saidiga">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Halda mikrofoni jagamist saidiga">
@@ -419,6 +435,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "E">
 <!ENTITY customizeMenu.addMoreItems.label "Lisa rohkem elemente…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "L">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -1023,6 +1040,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Halda laiendust…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Saada kaart seadmesse">
+
 <!ENTITY sendToDevice.syncNotReady.label "Seadmeid sünkroniseeritakse…">
 
 
