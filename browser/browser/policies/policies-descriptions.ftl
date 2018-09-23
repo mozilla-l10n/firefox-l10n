@@ -13,3 +13,6 @@
 policy-AppUpdateURL = কাস্টম অ্যাপ আপডেট URL সেট করুন।
 policy-Authentication = সমর্থিত সাইটের জন্য অভ্যন্তরীণ ব্যবহারকারী প্রমাণীকরণ কনফিগার করুন।
 policy-BlockAboutAddons = অ্যাড-অন পরিচালকের অ্যাক্সেস প্রতিরোধ করুন (about:addons)।
+policy-BlockAboutConfig = about:config অ্যাক্সেস প্রতিহত করুন।
+policy-BlockAboutProfiles = about:profiles পেজে অ্যাক্সেস প্রতিহত করুন।
+policy-BlockAboutSupport = about:support পেজে অ্যাক্সেস প্রতিহত করুন।
