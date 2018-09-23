@@ -16,3 +16,7 @@ policy-BlockAboutAddons = অ্যাড-অন পরিচালকের অ
 policy-BlockAboutConfig = about:config অ্যাক্সেস প্রতিহত করুন।
 policy-BlockAboutProfiles = about:profiles পেজে অ্যাক্সেস প্রতিহত করুন।
 policy-BlockAboutSupport = about:support পেজে অ্যাক্সেস প্রতিহত করুন।
+policy-Bookmarks = বুকমার্ক টুলবারে, বুকমার্ক মেনুতে বা এগুলোর অভ্যন্তরে নির্দিষ্ট ফোল্ডারে বুকমার্ক তৈরি করুন।
+policy-Certificates = অভ্যন্তরীণ সার্টিফিকেট ব্যবহার করা হবে কি না। এই নীতিটি এখন শুধুমাত্র Windows এর জন্য।
+policy-Cookies = ওয়েবসাইট কুকি গ্রহণ বা প্রত্যাখ্যান।
+policy-DisableAppUpdate = ব্রাউজার আপডেট প্রতিরোধ করুন।
