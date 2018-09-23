@@ -937,11 +937,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.disabled.tooltip "Sa oled sisu blokkimise keelanud.">
 <!ENTITY contentBlocking.exception.tooltip "Sa oled sisu blokkimise sellel saidil keelanud.">
 
+<!ENTITY contentBlocking.fastBlock.label "Aeglaselt laadivad jälitajad">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Blokitud">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
