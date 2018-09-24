@@ -44,6 +44,7 @@ profiles-delete-profile-confirm =
     क्या आप प्रोफाइल आंकड़ा फाइलें मिटाना चाहेंगे?
 profiles-delete-files = दस्तावेज़ मिटाएँ
 profiles-dont-delete-files = दस्तावेजों को मत मिटाएँ
+profiles-delete-profile-failed-title = त्रुटि
 profiles-opendir =
     { PLATFORM() ->
         [macos] Finder में दिखाएँ
