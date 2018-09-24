@@ -21,6 +21,7 @@ profiles-rootdir = Ριζικός κατάλογος
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Τοπικός κατάλογος
 profiles-current-profile = Αυτό το προφίλ είναι σε λειτουργία και δεν μπορεί να διαγραφεί.
+profiles-in-use-profile = Αυτό το προφίλ χρησιμοποιείται σε άλλη εφαρμογή και δεν μπορεί να διαγραφεί.
 profiles-rename = Μετονομασία
 profiles-remove = Αφαίρεση
 profiles-set-as-default = Ορισμός ως προεπιλεγμένο προφίλ
@@ -45,6 +46,7 @@ profiles-delete-profile-confirm =
 profiles-delete-files = Διαγραφή αρχείων
 profiles-dont-delete-files = Διατήρηση αρχείων
 profiles-delete-profile-failed-title = Σφάλμα
+profiles-delete-profile-failed-message = Παρουσιάστηκε σφάλμα κατά την προσπάθεια διαγραφής αυτού του προφίλ.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Προβολή στο Finder
