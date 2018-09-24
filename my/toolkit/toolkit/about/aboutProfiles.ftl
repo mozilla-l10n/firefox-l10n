@@ -44,3 +44,9 @@ profiles-delete-profile-confirm =
     သင်သည် ပရိုဖိုင်လ်အချက်အလက်ဖိုင်များကို ဖျက်ချင်ပါသလား။
 profiles-delete-files = ဖိုင်များကို ဖျက်ရန်
 profiles-dont-delete-files = ဖိုင်များကို မဖျက်ပါနှင့်
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] ရှာဖွေကိရိယာမှာ ပြပါ
+        [windows] ဖိုဒါအား ဖွင့်ပါ
+       *[other] ဖွင့်ထားသော ဖိုင်လမ်းကြောင်း
+    }
