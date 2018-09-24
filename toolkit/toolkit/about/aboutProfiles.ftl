@@ -44,6 +44,7 @@ profiles-delete-profile-confirm =
     आपणाला प्रोफाइल माहिती फाइल काढायची?
 profiles-delete-files = फाइल्स काढा
 profiles-dont-delete-files = फाइल्स काढू नका
+profiles-delete-profile-failed-title = त्रुटी
 profiles-opendir =
     { PLATFORM() ->
         [macos] Finder मध्ये दाखवा
