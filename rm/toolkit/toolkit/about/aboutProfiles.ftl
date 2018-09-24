@@ -21,9 +21,11 @@ profiles-rootdir = Ordinatur da basa
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Ordinatur local
 profiles-current-profile = Quai è il profil actual e na po betg vegnir stizzà.
+profiles-in-use-profile = Impussibel da stizzar quest profil perquai ch'el vegn gist utilisà dad ina autra applicaziun.
 profiles-rename = Renumnar
 profiles-remove = Allontanar
 profiles-set-as-default = Definir sco profil da standard
+profiles-launch-profile = Avrir il profil en in nov navigatur
 profiles-yes = gea
 profiles-no = na
 profiles-rename-profile-title = Renumnar il profil
@@ -43,6 +45,8 @@ profiles-delete-profile-confirm =
     Vuls ti stizzar las datotecas dal profil?
 profiles-delete-files = Stizzar las datotecas
 profiles-dont-delete-files = Betg stizzar las datotecas
+profiles-delete-profile-failed-title = Errur
+profiles-delete-profile-failed-message = Ina errur è succedida cun empruvar da stizzar quest profil.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Mussar en il finder
