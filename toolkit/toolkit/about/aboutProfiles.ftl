@@ -44,6 +44,7 @@ profiles-delete-profile-confirm =
     Voleu suprimir els fitxers de dades del perfil?
 profiles-delete-files = Suprimeix els fitxers
 profiles-dont-delete-files = No suprimeixis els fitxers
+profiles-delete-profile-failed-title = Error
 profiles-opendir =
     { PLATFORM() ->
         [macos] Mostra-ho en el Finder
