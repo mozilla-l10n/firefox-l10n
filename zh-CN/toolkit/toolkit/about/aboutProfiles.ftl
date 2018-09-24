@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-title = 关于配置文件
+profiles-subtitle = 此页面有助您管理您的配置文件。每个配置文件都是一个独立的空间，其中存放着各自的历史记录、书签、设置及附加组件。
 profiles-create = 创建新配置文件
 profiles-restart-title = 重新打开
 profiles-restart-in-safe-mode = 重新打开并禁用附加组件…
@@ -19,6 +20,8 @@ profiles-rootdir = 根目录
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = 本地目录
+profiles-current-profile = 正在使用此配置文件，因而不能删除。
+profiles-in-use-profile = 此配置文件正在被其他应用程序使用，因此无法删除。
 profiles-rename = 重命名
 profiles-remove = 移除
 profiles-set-as-default = 设为默认配置文件
@@ -42,3 +45,11 @@ profiles-delete-profile-confirm =
     您想彻底删除此配置文件吗？
 profiles-delete-files = 删除文件
 profiles-dont-delete-files = 只从列表中除去
+profiles-delete-profile-failed-title = 错误
+profiles-delete-profile-failed-message = 尝试删除此配置文件时发生错误。
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] 在访达中显示
+        [windows] 打开文件夹
+       *[other] 打开目录
+    }
