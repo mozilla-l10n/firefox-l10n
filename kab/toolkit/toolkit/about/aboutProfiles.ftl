@@ -21,6 +21,7 @@ profiles-rootdir = Akaram aẓaṛ
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Akaram adigan
 profiles-current-profile = Amaɣnu-agi ittuseqdac yakan, ur yezmir ara ad ittwakkes.
+profiles-in-use-profile = Amaγnu-agi attan ittwaseqdec deg usnas-nniḍen γef aya ur tezmireḍ ara ad tekseḍ-t.
 profiles-rename = Snifel isem
 profiles-remove = Kkes
 profiles-set-as-default = Sbadut d amaɣnu amezwer
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Tebɣiḍ ad tekkseḍ ifuyla n isefka n umaɣnu?
 profiles-delete-files = Kkes ifuyla
 profiles-dont-delete-files = Ur tekkes ara ifuyla
+profiles-delete-profile-failed-title = Tuccḍa
+profiles-delete-profile-failed-message = Teḍra-d tuccḍa deg tukksa n umaγnu-agi.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Ldi di Finder
