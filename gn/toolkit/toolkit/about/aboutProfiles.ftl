@@ -21,6 +21,7 @@ profiles-rootdir = Tapo Marandurenda'aty
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Marandurenda'aty Pypeguáva
 profiles-current-profile = Kóvaniko peteĩ mba'ete ojepurúvahína ha upévare ndaikatumo'ãi oñemboguete.
+profiles-in-use-profile = Ko mba'ete ojepuruhína ambue tembipuru'ípe ha ndaikatúi oñembogue.
 profiles-rename = Ñemboherajey
 profiles-remove = Ñemboguete
 profiles-set-as-default = Ejapo chugui mba'ete ijypykuéva
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Emboguesetépa marandurenda mba'ete mba'ekuaarã rehegua?
 profiles-delete-files = Marandurenda Mboguete
 profiles-dont-delete-files = Ani Remboguete Marandurenda
+profiles-delete-profile-failed-title = Javy
+profiles-delete-profile-failed-message = Oiko jejavy emboguesetévo ko mab'ete.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Finder-pe Jehechauka
