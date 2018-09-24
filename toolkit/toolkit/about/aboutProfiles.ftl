@@ -6,6 +6,7 @@ profiles-title = על אודות פרופילים
 profiles-subtitle = עמוד זה מאפשר לך לנהל את הפרופילים שלך. כל פרופיל הוא עולם נפרד המכיל היסטוריה, סימניות הגדרות ותוספות.
 profiles-create = יצירת פרופיל חדש
 profiles-restart-title = הפעלה מחדש
+profiles-restart-in-safe-mode = הפעלה מחדש עם תוספות מנוטרלות…
 profiles-restart-normal = הפעלה רגילה מחדש…
 # Variables:
 #   $name (String) - Name of the profile
@@ -24,6 +25,7 @@ profiles-in-use-profile = פרופיל זה בשימוש ביישום אחר ו�
 profiles-rename = שינוי שם
 profiles-remove = הסרה
 profiles-set-as-default = הגדרה כפרופיל בררת המחדל
+profiles-launch-profile = הפעלת פרופיל בדפדפן חדש
 profiles-yes = כן
 profiles-no = לא
 profiles-rename-profile-title = שינוי שם פרופיל
