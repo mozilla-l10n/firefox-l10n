@@ -21,6 +21,7 @@ profiles-rootdir = Кореневий каталог
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Локальний каталог
 profiles-current-profile = Цей профіль використовується і не може бути видалений.
+profiles-in-use-profile = Цей профіль використовується в іншій програмі й не може бути видалений.
 profiles-rename = Перейменувати
 profiles-remove = Видалити
 profiles-set-as-default = Встановити як типовий профіль
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Чи бажаєте видалити файли даних профілю?
 profiles-delete-files = Видалити файли
 profiles-dont-delete-files = Не видаляти файли
+profiles-delete-profile-failed-title = Помилка
+profiles-delete-profile-failed-message = Сталася помилка під час спроби видалення цього профілю.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Показати у Finder
