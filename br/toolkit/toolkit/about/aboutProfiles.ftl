@@ -21,6 +21,7 @@ profiles-rootdir = Kavlec'h gwrizienn
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Kavlec'h lec'hel
 profiles-current-profile = An aelad arveret eo an hini-mañ ha n'hall ket bezañ dilamet.
+profiles-in-use-profile = Arveret eo an aelad-mañ gant un arload all ha n'hall ket bezañ dilamet.
 profiles-rename = Adenvel
 profiles-remove = Lemel kuit
 profiles-set-as-default = Lakaat evel aelad dre ziouer
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Ha fellout a rafe deoc'h dilemel restroù roadennoù an aelad ?
 profiles-delete-files = Dilemel ar restroù
 profiles-dont-delete-files = Na zilemel ar restroù
+profiles-delete-profile-failed-title = Fazi
+profiles-delete-profile-failed-message = Degouezhet ez eus bet ur fazi en ur glask dilemel an aelad-mañ.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Diskouez e-barzh Finder
