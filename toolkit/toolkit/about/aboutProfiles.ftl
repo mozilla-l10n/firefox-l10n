@@ -31,9 +31,22 @@ profiles-rename-profile-title = Redenumește profilul…
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = Redenumește profilul { $name }
+profiles-invalid-profile-name-title = Numele profilului nevalid
 # Variables:
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = Numele de profil „{ $name }” nu este permis.
 profiles-delete-profile-title = Șterge profilul
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    Ștergerea unui profil va duce la eliminarea sa din lista de profiluri disponibile, această acțiune nu este reversibilă.
+     De asemenea, poți opta pentru ștergerea tuturor fișierelor de date, inclusiv setările, certificatele și alte date ale tale. Această opțiune va șterge dosarul „{ $dir }” și, de asemenea, această acțiune nu este reversibilă.
+    Vrei să ștergi fișierele de date ale profilului?
 profiles-delete-files = Șterge fișierele
 profiles-dont-delete-files = Nu șterge fișierele
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Afișează în Finder
+        [windows] Deschide dosarul
+       *[other] Deschide directorul
+    }
