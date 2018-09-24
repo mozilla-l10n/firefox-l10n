@@ -24,6 +24,7 @@ profiles-current-profile = Denne profil benyttes i øjeblikket og kan ikke slett
 profiles-rename = Omdøb
 profiles-remove = Fjern
 profiles-set-as-default = Angiv som standardprofil
+profiles-launch-profile = Start profilen i en ny browser-session
 profiles-yes = ja
 profiles-no = nej
 profiles-rename-profile-title = Omdøb profil
