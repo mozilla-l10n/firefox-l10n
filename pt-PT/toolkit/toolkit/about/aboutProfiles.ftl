@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-title = Acerca dos perfis
+profiles-subtitle = Esta página ajuda-lhe a gerir os seus perfis. Cada perfil é um mundo separado que contém histórico, marcadores, definições e extras separados.
 profiles-create = Criar um novo perfil
 profiles-restart-title = Reiniciar
 profiles-restart-in-safe-mode = Reiniciar com os extras desativados…
@@ -20,6 +21,7 @@ profiles-rootdir = Diretório raiz
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Diretório local
 profiles-current-profile = Este é o perfil atual e não pode ser apagado.
+profiles-in-use-profile = Este perfil está em utilização por outra aplicação e não pode ser apagado.
 profiles-rename = Renomear
 profiles-remove = Remover
 profiles-set-as-default = Definir como perfil predefinido
@@ -31,9 +33,20 @@ profiles-rename-profile-title = Renomear perfil
 #   $name (String) - Name of the profile
 profiles-rename-profile = Renomear perfil { $name }
 profiles-invalid-profile-name-title = Nome de perfil inválido
+# Variables:
+#   $name (String) - Name of the profile
+profiles-invalid-profile-name = O nome de perfil “{ $name }” não é permitido.
 profiles-delete-profile-title = Apagar perfil
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    Se apagar um perfil, remove-o da lista de perfis disponíveis e não esta ação não pode ser desfeita.
+    Pode também escolher apagar os ficheiros de dados do perfil, incluindo as suas definições, certificados e outros dados relacionados com o utilizador. Esta opção irá apagar a pasta “{ $dir }” e não pode ser desfeita.
+    Gostaria de apagar os ficheiros de dados do perfil?
 profiles-delete-files = Apagar ficheiros
 profiles-dont-delete-files = Não apagar ficheiros
+profiles-delete-profile-failed-title = Erro
+profiles-delete-profile-failed-message = Ocorreu um erro ao tentar apagar este perfil.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Mostrar no Finder
