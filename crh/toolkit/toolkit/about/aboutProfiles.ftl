@@ -21,6 +21,7 @@ profiles-rootdir = Tamır Fihrist
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Maalliy Fihrist
 profiles-current-profile = Bu, qullanımdaki profildir ve silinalmay.
+profiles-in-use-profile = Bu profil başqa bir tatbiqte qullanımdadır ve silinalmay.
 profiles-rename = Kene adlandır
 profiles-remove = Çetleştir
 profiles-set-as-default = Ögbelgilengen profil olaraq tesbit et
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Profil veriler dosyelerini silmege ister ediñizmi?
 profiles-delete-files = Dosyelerni Sil
 profiles-dont-delete-files = Dosyelerni Silme
+profiles-delete-profile-failed-title = Hata
+profiles-delete-profile-failed-message = Bu profilni silmege talpınğanda bir hata bar edi.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Tapıcıda Köster
