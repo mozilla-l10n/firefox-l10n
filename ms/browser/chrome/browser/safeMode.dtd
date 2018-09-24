@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "Mode Selamat adalah cara khas &brandShortName; yang boleh digunakan untuk pencarisilapan isu.">
 <!ENTITY safeModeDescription4.label   "Tetapan add-ons dan suaian anda akan dinyahdayakan buat sementara waktu.">
 
+<!ENTITY safeModeDescription5.label   "Add-ons dan penyesuaian tetapan anda akan dinyahdayakan sementara, dan ciri &brandShortName; mungkin tidak berfungsi seperti kebiasaan.">
+
 <!ENTITY refreshProfileInstead.label  "Anda juga boleh melangkau pencarisilapan dan cuba memuat semula &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
