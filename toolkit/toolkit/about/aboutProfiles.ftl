@@ -21,6 +21,7 @@ profiles-rootdir = রুট ডিরেক্টরি
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = স্থানীয় ডিরেক্টরি
 profiles-current-profile = এই প্রোফাইলটি ব্যবহার করা হচ্ছে এবং এটি মুছে ফেলা যাবে না।
+profiles-in-use-profile = এই প্রোফাইল অন্য অ্যাপলিকেশনে ব্যবহৃত হচ্ছে তাই মুছে দেওয়া যাবে না।
 profiles-rename = পুনঃনামকরণ
 profiles-remove = অপসারণ
 profiles-set-as-default = ডিফল্ট প্রোফাইল হিসেবে নির্ধারণ করুন
@@ -44,6 +45,7 @@ profiles-delete-profile-confirm =
     আপনি কি প্রোফাইল ডাটা ফাইল মুছে ফেলতে ইচ্ছুক?
 profiles-delete-files = ফাইল অপসারণ
 profiles-dont-delete-files = ফাইল মুছে ফেলা হবে না
+profiles-delete-profile-failed-title = ত্রুটি
 profiles-opendir =
     { PLATFORM() ->
         [macos] ফাইন্ডারে প্রদর্শন করুন
