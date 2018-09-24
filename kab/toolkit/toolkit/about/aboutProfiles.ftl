@@ -5,6 +5,7 @@
 profiles-title = Talɣut ɣef imaɣna
 profiles-create = Rnu amaɣnu amaynut
 profiles-restart-title = Ales asenker
+profiles-restart-in-safe-mode = Ales asenker s usensi n izegrar…
 profiles-restart-normal = Ales asenker s wudem amagnu…
 # Variables:
 #   $name (String) - Name of the profile
