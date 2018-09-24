@@ -4,6 +4,7 @@
 
 profiles-title = Maklumat Profil
 profiles-create = Cipta Profil Baru
+profiles-restart-normal = Mula semula secara normal…
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
@@ -15,3 +16,14 @@ profiles-is-default = Profil Piawai
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Direktori Lokal
+profiles-rename = Namakan semula
+profiles-set-as-default = Set sebagai profil piawai
+profiles-yes = ya
+profiles-no = tidak
+profiles-rename-profile-title = Namakan semula Profil
+# Variables:
+#   $name (String) - Name of the profile
+profiles-rename-profile = Namakan semula profil { $name }
+# Variables:
+#   $name (String) - Name of the profile
+profiles-invalid-profile-name = Nama profil “{ $name }” tidak dibenarkan.
