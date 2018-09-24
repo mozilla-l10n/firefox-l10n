@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-title = Om profilar
+profiles-subtitle = Denne sida hjelper deg med å handtere profilane dine. Kvar profil er ei separat verd som inneheld separat historikk, separate bokmerke, innstillingar og tillegg.
 profiles-create = Lag ein ny profil
 profiles-restart-title = Start på nytt
 profiles-restart-in-safe-mode = Start på nytt med utvidingar avslått…
@@ -20,7 +21,9 @@ profiles-rootdir = Rotmappe
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Lokalmappe
 profiles-current-profile = Dette er profilen som er i bruk, og han kan ikkje slettast.
+profiles-in-use-profile = Denne profilen er i bruk i eit anna program, og han kan ikkje slettast.
 profiles-rename = Byt namn
+profiles-remove = Fjern
 profiles-set-as-default = Vel som standard profil
 profiles-launch-profile = Start profil i ny nettlesar
 profiles-yes = ja{ " " }
@@ -34,5 +37,19 @@ profiles-invalid-profile-name-title = Ugyldig profilnamn
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = profilnamnet "{ $name }" er ikkje tillate.
 profiles-delete-profile-title = Slett profilen
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    Om du slettar ein profil vil det fjerna profilen frå lista over tilgjengelege profilar, og det kan ikkje angrast. 
+    Du kan òg velje å slette profildata-filene, inkludert innstillingar, sertifikat og andre brukar-relaterte data. Dette valet vil òg sletta mappa ‹‹{ $dir }››, og kan ikkje gjerast om.
+    Vil du slette profildata-filene?
 profiles-delete-files = Slett filer
 profiles-dont-delete-files = Ikkje slett filer
+profiles-delete-profile-failed-title = Feil
+profiles-delete-profile-failed-message = Det oppstod ein feil då du prøvde å slette denne profilen.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Vis i Finder
+        [windows] Opne mappe
+       *[other] Opne mappe
+    }
