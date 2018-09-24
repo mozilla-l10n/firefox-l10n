@@ -2,16 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title           "&brandShortName;i ohutu režiim">
-<!ENTITY window.maxWidth                "400">
+<!ENTITY safeModeDialog.title         "&brandShortName;i ohutu režiim">
+<!ENTITY window.maxWidth              "400">
 
-<!ENTITY startSafeMode.label            "Käivita ohutus režiimis">
-<!ENTITY refreshProfile.label           "Värskenda &brandShortName;">
+<!ENTITY startSafeMode.label          "Käivita ohutus režiimis">
+<!ENTITY refreshProfile.label         "Värskenda &brandShortName;">
 
-<!ENTITY safeModeDescription3.label     "Ohutu režiim on &brandShortName;i erirežiim probleemide lahendamiseks.">
-<!ENTITY safeModeDescription4.label     "Sinu lisad ja kohandatud sätted on ajutiselt keelatud.">
+<!ENTITY safeModeDescription3.label   "Ohutu režiim on &brandShortName;i erirežiim probleemide lahendamiseks.">
+<!ENTITY safeModeDescription4.label   "Sinu lisad ja kohandatud sätted on ajutiselt keelatud.">
 
-<!ENTITY refreshProfileInstead.label    "Samuti on võimalik proovida &brandShortName; värskendada ja vea otsimine sellega vahele jätta.">
+<!ENTITY safeModeDescription5.label   "Sinu lisad ja kohandatud sätted keelatakse ajutiselt ning mõned &brandShortName;i funktsionaalsused ei pruugi toimida tavapäraselt.">
+
+<!ENTITY refreshProfileInstead.label  "Samuti on võimalik proovida &brandShortName; värskendada ja vea otsimine sellega vahele jätta.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 <!ENTITY autoSafeModeDescription3.label "&brandShortName; sulgus käivitumisel ootamatult. Selle põhjuseks võivad olla lisad või muud probleemid. Probleemi lahendamiseks võid proovida viga otsida ohutus režiimis.">
