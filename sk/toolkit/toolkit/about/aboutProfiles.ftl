@@ -21,9 +21,11 @@ profiles-rootdir = Koreňový priečinok
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Lokálny priečinok
 profiles-current-profile = Toto je profil používa a nedá sa odstrániť.
+profiles-in-use-profile = Tento profil je používaní inou aplikáciou a nemôže byť odstránený.
 profiles-rename = Premenovať
 profiles-remove = Odstrániť
 profiles-set-as-default = Nastaviť ako predvolený profil
+profiles-launch-profile = Spustiť profil v novom okne prehliadača
 profiles-yes = áno
 profiles-no = nie
 profiles-rename-profile-title = Premenovanie profilu
@@ -43,3 +45,11 @@ profiles-delete-profile-confirm =
     Chcete odstrániť aj súbory profilu?
 profiles-delete-files = Odstrániť súbory
 profiles-dont-delete-files = Neodstraňovať súbory
+profiles-delete-profile-failed-title = Chyba
+profiles-delete-profile-failed-message = Pri pokuse o odstránenie tohto profilu sa vyskytla chyba.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Zobraziť vo Finderi
+        [windows] Otvoriť priečinok
+       *[other] Otvoriť priečinok
+    }
