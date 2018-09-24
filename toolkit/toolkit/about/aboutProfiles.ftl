@@ -21,6 +21,7 @@ profiles-rootdir = Root Directory
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Local Directory
 profiles-current-profile = This is the profile in use and it cannot be deleted.
+profiles-in-use-profile = This profile is in use in another application and it cannot be deleted.
 profiles-rename = Rename
 profiles-remove = Remove
 profiles-set-as-default = Set as default profile
@@ -34,6 +35,8 @@ profiles-rename-profile = Rename profile { $name }
 profiles-invalid-profile-name-title = Invalid profile name
 profiles-delete-profile-title = Delete Profile
 profiles-delete-files = Delete Files
+profiles-delete-profile-failed-title = Error
+profiles-delete-profile-failed-message = There was an error while attempting to delete this profile.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Show in Finder
