@@ -25,6 +25,7 @@ profiles-in-use-profile = Profil jest używany przez inną aplikację i nie mo�
 profiles-rename = Zmień nazwę
 profiles-remove = Usuń
 profiles-set-as-default = Ustaw jako domyślny
+profiles-launch-profile = Uruchom nowe okno przeglądarki z tym profilem
 profiles-yes = Tak
 profiles-no = Nie
 profiles-rename-profile-title = Zmiana nazwy profilu
