@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-title = প্রোফাইল সম্পর্কে
+profiles-subtitle = এই পাতা আপনাকে আপনার প্রোফাইল পরিচালনা করতে সাহায্য করবে। প্রতিটি প্রোফাইলের একটি পৃথক জগৎ রয়েছে সেখানে ইতিহাস, বুকমার্ক, সেটিং, অ্যাড-অন রয়েছে।
 profiles-create = একটি নতুন প্রোফাইল তৈরি করুন
 profiles-restart-title = পুনরারম্ভ
 profiles-restart-in-safe-mode = অ্যাড-অন নিষ্ক্রিয় করে পুনরারম্ভ করুন…
