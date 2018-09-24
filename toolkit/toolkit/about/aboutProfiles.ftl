@@ -21,6 +21,7 @@ profiles-rootdir = Directorio radiz
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Directorio local
 profiles-current-profile = Iste ye lo perfil en uso y no se puet borrar.
+profiles-in-use-profile = Este perfil lo ye usando belatra aplicación y no se puede borrar.
 profiles-rename = Renombrar
 profiles-remove = Borrar
 profiles-set-as-default = Fixar como perfil por defecto
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Querría borrar los fichers dadatos d'o perfil?
 profiles-delete-files = Borrar los fichers
 profiles-dont-delete-files = No borrar los fichers
+profiles-delete-profile-failed-title = Error
+profiles-delete-profile-failed-message = I ha habiu una error mientres se miraba de borrar este perfil.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Amostrar en Finder
