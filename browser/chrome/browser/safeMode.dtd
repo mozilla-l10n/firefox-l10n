@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "უსაფრთხო რეჟიმი გამოიყენება &brandShortName;-ის გაუმართაობის აღმოსაჩენად.">
 <!ENTITY safeModeDescription4.label   "დამატებები და შეცვლილი პარამეტრები დროებით გათიშულია.">
 
+<!ENTITY safeModeDescription5.label   "თქვენი დამატებები და მითითებული პარამეტრები, დროებით შეიზღუდება, შესაბამისად &brandShortName;-ის ცალკეულმა შესაძლებლობებმა, შესაძლოა სათანადოდ ვერ იმუშაოს.">
+
 <!ENTITY refreshProfileInstead.label  "შეგიძლიათ გამოტოვოთ ხარვეზების აღმოჩენა და პირდაპირ &brandShortName;-ის შეკეთება სცადოთ.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
