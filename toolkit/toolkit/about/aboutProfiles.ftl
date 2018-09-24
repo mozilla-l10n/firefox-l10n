@@ -44,6 +44,7 @@ profiles-delete-profile-confirm =
     Apakah ingin menghapus berkas data profil?
 profiles-delete-files = Hapus Berkas
 profiles-dont-delete-files = Jangan Hapus Berkas
+profiles-delete-profile-failed-title = Galat
 profiles-opendir =
     { PLATFORM() ->
         [macos] Tampilkan di Finder
