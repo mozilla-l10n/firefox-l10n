@@ -6,9 +6,9 @@
 ### This file contains the entities needed to use the Find Bar.
 
 findbar-next =
-    .tooltiptext = വാചകം വീണ്ടും ആവര്‍ത്തിക്കുന്നത്‌ കണ്ടെത്തുക{ " " }
+    .tooltiptext = വാചകം വീണ്ടും ആവര്‍ത്തിക്കുന്നത്‌ കണ്ടെത്തുക
 findbar-previous =
-    .tooltiptext = വാചകം ഇതിനു മുന്‍പ്‌ ആവര്‍ത്തിച്ചത്‌ കണ്ടെത്തുക{ " " }
+    .tooltiptext = വാചകം ഇതിനു മുന്‍പ്‌ ആവര്‍ത്തിച്ചത്‌ കണ്ടെത്തുക
 findbar-find-button-close =
     .tooltiptext = തിരച്ചിലിനുള്ള പട്ട അടക്കുക
 findbar-case-sensitive =
