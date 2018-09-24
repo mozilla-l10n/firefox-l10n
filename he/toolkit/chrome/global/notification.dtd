@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "קיבלתי!">
 <!ENTITY defaultButton.accesskey "ק">
+
+<!ENTITY moreActionsButton.accessibleLabel "פעולות נוספות">
