@@ -21,6 +21,7 @@ profiles-rootdir = Rotmappe
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Lokal mappe
 profiles-current-profile = Denne profilen er i bruk, og den kan ikke slettes.
+profiles-in-use-profile = Denne profilen er i bruk i et annet program, og den kan ikke slettes.
 profiles-rename = Endre navn
 profiles-remove = Fjern
 profiles-set-as-default = Sett som standardprofil
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Vil du slette datafilene i profilen?
 profiles-delete-files = Slett filer
 profiles-dont-delete-files = Ikke slett filer
+profiles-delete-profile-failed-title = Feil
+profiles-delete-profile-failed-message = En feil oppstod når du forsøkte å slette denne profilen.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Vis i Finder
