@@ -21,6 +21,7 @@ profiles-rootdir = Rotkatalog
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Lokal katalog
 profiles-current-profile = Denna profilen används just nu och kan inte bli borttagen
+profiles-in-use-profile = Den här profilen används i en annan applikation och den kan inte raderas.
 profiles-rename = Byt namn
 profiles-remove = Ta bort
 profiles-set-as-default = Ange som standardprofil
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Vill du ta bort profilens datafiler?
 profiles-delete-files = Ta bort filer
 profiles-dont-delete-files = Ta inte bort filer
+profiles-delete-profile-failed-title = Fel
+profiles-delete-profile-failed-message = Ett fel uppstod när du försökte ta bort den här profilen.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Visa i Finder
