@@ -6,6 +6,7 @@ profiles-title = Wo profilowach
 profiles-subtitle = Tuta strona wam pomha, waše profile rjadować. Kóždy profil je wosebity swět, kotryž wosebitu historiju, wosebite zapołožki, nastajenja a přidatki wobsahuje.
 profiles-create = Nowy profil załožić
 profiles-restart-title = Znowa startować
+profiles-restart-in-safe-mode = Ze znjemóžnjenymi přidatkami startować…
 profiles-restart-normal = Normalnje znowa startować…
 # Variables:
 #   $name (String) - Name of the profile
@@ -20,6 +21,7 @@ profiles-rootdir = Korjenjowy zapis
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Lokalny zapis
 profiles-current-profile = Tutón profil so runje wužiwa a njeda so zhašeć.
+profiles-in-use-profile = Tutón profil so přez druhe nałoženje wužiwa a njeda so zhašeć.
 profiles-rename = Přemjenować
 profiles-remove = Wotstronić
 profiles-set-as-default = Jako standardny profil nastajić
@@ -43,6 +45,8 @@ profiles-delete-profile-confirm =
     Chceće dataje z profilowymi datami zhašeć?
 profiles-delete-files = Dataje zhašeć
 profiles-dont-delete-files = Dataje njezhašeć
+profiles-delete-profile-failed-title = Zmylk
+profiles-delete-profile-failed-message = Při pospyće tutón profil zhašeć je zmylk wustupił.
 profiles-opendir =
     { PLATFORM() ->
         [macos] W Finder pokazać
