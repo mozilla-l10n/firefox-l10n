@@ -21,6 +21,7 @@ profiles-rootdir = Kök Direktivi
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Lokal Direktiv
 profiles-current-profile = Bu hazırda işlədilən profildir və silinə bilməz.
+profiles-in-use-profile = Bu profil başqa tətbiq tərəfindən istifadə edildiyi üçün silinə bilməz.
 profiles-rename = Yenidən adlandır
 profiles-remove = Sil
 profiles-set-as-default = Əsas profil olaraq seç
@@ -44,3 +45,11 @@ profiles-delete-profile-confirm =
     Profil məlumat fayllarını silmək istərdiniz?
 profiles-delete-files = Faylları Sil
 profiles-dont-delete-files = Faylları Silmə
+profiles-delete-profile-failed-title = Xəta
+profiles-delete-profile-failed-message = Bu profili silərkən xəta baş verdi.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Finder-də göstər
+        [windows] Qovluğu Aç
+       *[other] Direktivi Aç
+    }
