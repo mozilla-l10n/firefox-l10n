@@ -21,6 +21,7 @@ profiles-rootdir = Radika dosierujo
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Loka dosierujo
 profiles-current-profile = Tiu ĉi profilo estas uzata kaj ne povas esti forigita.
+profiles-in-use-profile = Tiu ĉi profilo estas uzata de alia programo kaj ne povas esti forigita.
 profiles-rename = Renomi
 profiles-remove = Forigi
 profiles-set-as-default = Igi profilon norma
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Ĉu vi ŝatus forigi la datumajn dosierojn de la profilo?
 profiles-delete-files = Forigi dosierojn
 profiles-dont-delete-files = Ne forigi dosierojn
+profiles-delete-profile-failed-title = Eraro
+profiles-delete-profile-failed-message = Okazi eraro dum la klopodo forigi tiun ĉi profilon.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Montri en Finder
