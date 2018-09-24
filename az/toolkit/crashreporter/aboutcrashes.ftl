@@ -20,4 +20,4 @@ crashes-submitted-label = Göndərilmiş Çökmə Hesabatları
 date-submitted-heading = Göndərilmə Tarixi
 view-crash-button-label = Gör
 no-reports-label = Hələki heç bir xəta hesabatı göndərilməyib.
-no-config-label = Bu proqram hələki çökmə hesabatı göstərməkçün nizamlanmayıb.<code>breakpad.reporturl</code> seçimi seçilmiş olmalıdır{ " " }
+no-config-label = Bu proqram hələki çökmə hesabatı göstərməkçün nizamlanmayıb.<code>breakpad.reporturl</code> seçimi seçilmiş olmalıdır
