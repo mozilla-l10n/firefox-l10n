@@ -21,6 +21,7 @@ profiles-rootdir = Am pasgan root
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Am pasgan ionadail
 profiles-current-profile = Tha a’ phròifil seo ’ga chleachdadh is cha ghabh a sguabadh às.
+profiles-in-use-profile = Tha a’ phròifil seo ’ga chleachdadh ann an aplacaid eile ’s cha ghabh a sguabadh às.
 profiles-rename = Thoir ainm ùr air
 profiles-remove = Thoir air falbh
 profiles-set-as-default = Suidhich mar a’ phròifil bhunaiteach
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     A bheil thu airson faidhlichean dàta na pròifile a sguabadh às?
 profiles-delete-files = Sguab às na faidhlichean
 profiles-dont-delete-files = Na sguab às na faidhlichean
+profiles-delete-profile-failed-title = Mearachd
+profiles-delete-profile-failed-message = Thachair mearachd fhad ’s a bha sinn a’ feuchainn ris a’ phròifil seo a sguabadh às.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Seall san lorgair
