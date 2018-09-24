@@ -7,6 +7,7 @@ profiles-restart-title = යළි අරඹන්න
 profiles-is-default = පෙරනිමි පැතිකඩ
 profiles-rename = ප්‍රතිනාමකරණය
 profiles-remove = ඉවත් කරන්න
+profiles-set-as-default = පෙරනිමි පැතිකඩ ලෙස පිහිටුවන්න
 profiles-yes = ඔව්
 profiles-no = නැත
 profiles-delete-files = ගොනු මකන්න
