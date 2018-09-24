@@ -16,6 +16,7 @@ profiles-rootdir = Dorsièr raiç
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Dorsièr local
 profiles-remove = Suprimir
+profiles-set-as-default = Definir coma perfil per defaut
 profiles-yes = òc
 profiles-no = non
 profiles-invalid-profile-name-title = Nom de perfil invalid
@@ -25,3 +26,9 @@ profiles-invalid-profile-name = Lo nom de perfil « { $name } » es pas valid.
 profiles-delete-profile-title = Suprimir lo perfil
 profiles-delete-files = Suprimir los fichièrs
 profiles-dont-delete-files = Suprimir pas los fichièrs
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Afichar dins lo Finder
+        [windows] Dobrir lo dossièr
+       *[other] Dobrir lo dorsièr
+    }
