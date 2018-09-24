@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-title = Talɣut ɣef imaɣna
+profiles-subtitle = Asebter-a ad k-d-yefk tallalt i usefrek n imeɣna-inek. Yal ameɣnu d amaḍal i yiman-is i igebren amazray-ines, ticraḍ-ines n isebtar, iɣawwaṛen-ines d izegrar-ines.
 profiles-create = Rnu amaɣnu amaynut
 profiles-restart-title = Ales asenker
 profiles-restart-in-safe-mode = Ales asenker s usensi n izegrar…
@@ -30,6 +31,7 @@ profiles-rename-profile-title = Snifel isem n umaɣnu
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = Snifel isem n umaɣnu "{ $name }"
+profiles-invalid-profile-name-title = Isem n umaɣnu d arameɣtu
 # Variables:
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = Isem n umaɣnu "{ $name }" ur ittusireg ara.
