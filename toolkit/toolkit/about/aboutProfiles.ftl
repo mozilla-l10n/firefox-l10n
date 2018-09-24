@@ -44,6 +44,7 @@ profiles-delete-profile-confirm =
     तपाईँ प्रोफाइल डाटा फाइलहरू मेट्न चाहनुहुन्छ?
 profiles-delete-files = फाइलहरू मेट्नुहोस्
 profiles-dont-delete-files = फाइलहरू नमेट्नुहोस्
+profiles-delete-profile-failed-title = त्रुटि
 profiles-opendir =
     { PLATFORM() ->
         [macos] फाइन्डरमा देखाउनुहोस्
