@@ -72,7 +72,7 @@ permissions-exceptions-popup-desc = कौन-सी वेबसाइटों
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window =
-    .title = अपवाद - संग्रहित प्रवेश{ " " }
+    .title = अपवाद - संग्रहित प्रवेश
     .style = { permissions-window.style }
 permissions-exceptions-saved-logins-desc = निम्न वेबसाइटों के लिए लॉगिन सहेजे नहीं जाएंगे
 
