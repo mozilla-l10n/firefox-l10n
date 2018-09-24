@@ -27,9 +27,14 @@ profiles-set-as-default = पूर्वनिर्धारितका प�
 profiles-launch-profile = यो प्रोफाईल नयाँ ब्राउजरमा खोल्नुहोस
 profiles-yes = हो
 profiles-no = होेइन
+profiles-rename-profile-title = प्रोफाइलको पुनःनामाकरण गर्नुहोस्
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = प्रोफाइल { $name } पुनः नामाकरण गर्नुहोस्
+profiles-invalid-profile-name-title = अमान्य प्रोफाइल नाम
+# Variables:
+#   $name (String) - Name of the profile
+profiles-invalid-profile-name = प्रोफाइल “{ $name }” राख्न अनुमति छैन ।
 profiles-delete-profile-title = प्रोफाइल मेट्नुहोस्
 # Variables:
 #   $dir (String) - Path to be displayed
