@@ -8,6 +8,9 @@ profiles-create = Crear un perfil novèl
 profiles-restart-title = Reaviar
 profiles-restart-in-safe-mode = Reaviar amb los moduls desactivats…
 profiles-restart-normal = Reaviar normalament…
+# Variables:
+#   $name (String) - Name of the profile
+profiles-name = Perfil : { $name }
 profiles-is-default = Perfil per defaut
 profiles-rootdir = Dorsièr raiç
 # localDir is used to show the directory corresponding to
@@ -22,6 +25,7 @@ profiles-in-use-profile = Una autra aplicacion utiliza aqueste perfil e fa que s
 profiles-rename = Renommar
 profiles-remove = Suprimir
 profiles-set-as-default = Definir coma perfil per defaut
+profiles-launch-profile = Lançar lo perfil dins un navegador novèl
 profiles-yes = òc
 profiles-no = non
 profiles-rename-profile-title = Renommar lo perfil
@@ -33,6 +37,12 @@ profiles-invalid-profile-name-title = Nom de perfil invalid
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = Lo nom de perfil « { $name } » es pas valid.
 profiles-delete-profile-title = Suprimir lo perfil
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    Suprimir un perfil lo levarà de la lista dels perfils disponibles e pòt pas èsser anullat.
+    Tanben es possible de causir de suprimir los fichièrs de donadas del perfil, que comprenon vòstres paramètres, certificats e totas vòstras donadas personalas. Aquesta opcion suprimirà lo dorsièr « { $dir } » e poirà pas èsser anullada.
+    Desiratz suprimir los fichièrs de donadas del perfil ?
 profiles-delete-files = Suprimir los fichièrs
 profiles-dont-delete-files = Suprimir pas los fichièrs
 profiles-delete-profile-failed-title = Error
