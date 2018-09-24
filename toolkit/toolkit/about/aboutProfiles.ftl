@@ -21,9 +21,11 @@ profiles-rootdir = Cartella reixe
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Cartella locale
 profiles-current-profile = No se peu scancelâ o profî che ti deuvi òua.
+profiles-in-use-profile = Sto profî o l'é deuviou da 'n atra aplicaçion e o no peu ese scancelou.
 profiles-rename = Cangia nomme
 profiles-remove = Scancella
 profiles-set-as-default = Metti comme profî predefinio
+profiles-launch-profile = Xeua profî inte 'n neuvo navegatô
 profiles-yes = Sci
 profiles-no = No
 profiles-rename-profile-title = Cangia nomme profî
@@ -43,3 +45,11 @@ profiles-delete-profile-confirm =
     Scancelâ i file asociæ a-o profî?
 profiles-delete-files = Scancella i file
 profiles-dont-delete-files = No scancelâ i file
+profiles-delete-profile-failed-title = Erô
+profiles-delete-profile-failed-message = Gh'é stæto 'n erô into scancelâ sto profî.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Fanni vedde into Finder
+        [windows] Arvi cartella
+       *[other] Arvi percorso
+    }
