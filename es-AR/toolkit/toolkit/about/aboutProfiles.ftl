@@ -21,6 +21,7 @@ profiles-rootdir = Directorio raíz
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Directorio local
 profiles-current-profile = Este es el perfil en uso y no puede ser borrado.
+profiles-in-use-profile = Este perfil está en uso en otra aplicación y no se puede borrar.
 profiles-rename = Renombrar
 profiles-remove = Eliminar
 profiles-set-as-default = Establecer como predeterminado
@@ -44,3 +45,11 @@ profiles-delete-profile-confirm =
     ¿Desea borrar los archivos del perfil?
 profiles-delete-files = Borrar archivos
 profiles-dont-delete-files = No borrar archivos
+profiles-delete-profile-failed-title = Error
+profiles-delete-profile-failed-message = Hubo un error al intentar borrar este perfil.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Mostrar en Finder
+        [windows] Abrir carpeta
+       *[other] Abrir directorio
+    }
