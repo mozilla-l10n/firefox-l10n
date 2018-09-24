@@ -21,6 +21,7 @@ profiles-rootdir = Direktori Akar
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Direktori Lokal
 profiles-current-profile = Profil ini sedang digunakan dan tidak dapat dihapus.
+profiles-in-use-profile = Profil ini sedang digunakan dalam aplikasi lain dan tidak dapat dihapus.
 profiles-rename = Ubah Nama
 profiles-remove = Hapus
 profiles-set-as-default = Setel sebagai profil baku
@@ -45,6 +46,7 @@ profiles-delete-profile-confirm =
 profiles-delete-files = Hapus Berkas
 profiles-dont-delete-files = Jangan Hapus Berkas
 profiles-delete-profile-failed-title = Galat
+profiles-delete-profile-failed-message = Terjadi kesalahan saat mencoba menghapus profil ini.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Tampilkan di Finder
