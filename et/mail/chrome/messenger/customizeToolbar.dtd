@@ -9,6 +9,7 @@
 <!ENTITY iconsAndText.label       "ikoone ja teksti">
 <!ENTITY icons.label              "ikoone">
 <!ENTITY text.label               "teksti">
+<!ENTITY iconsBesideText.label    "Ikoonid teksti kõrval">
 <!ENTITY useSmallIcons.label      "Kasutatakse väikseid ikoone">
 <!ENTITY restoreDefaultSet.label  "Taasta algsätted">
 <!ENTITY addNewToolbar.label      "Lisa uus tööriistariba">
