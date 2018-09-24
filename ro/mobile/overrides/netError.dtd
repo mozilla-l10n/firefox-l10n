@@ -22,7 +22,7 @@
 <!ENTITY dnsNotFound.longDesc4 "<ul> <li>Verifică adresa de erori de tastare cum ar fi <strong>ww</strong>.example.com în loc de <strong>www</strong>.example.com</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Caută</button> </div> <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea de date sau Wi-Fi a dispozitivului. <button id='wifi'>Activează Wi-Fi-ul</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "Fișier negăsit">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Verifică ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verifică ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Verifică numele fișierului - să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verifică fișierul - să nu fi fost mutat, redenumit sau șters.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Accesul la fișierul a fost refuzat">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Este posibil să fi fost eliminat, mutat sau permisiunile fișierului pot împiedica accesul.</li> </ul>">
@@ -61,7 +61,7 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Adresa nu a fost înțeleasă">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>S-ar putea să fie nevoie să instalezi alt program pentru a deschide această adresă.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>S-ar putea să fie necesară instalarea altui program pentru a deschide adresa.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Verifică setările proxy pentru a te asigura că sunt corecte.</li> <li>Contactează administratorul rețelei pentru a te asigura că serverul proxy funcționează.</li> </ul>">
