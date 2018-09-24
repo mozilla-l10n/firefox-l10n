@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "Le modo secur es un modo special de &brandShortName; que pote esser usate pro investigar problemas.">
 <!ENTITY safeModeDescription4.label   "Tu apparatos e parametros personalisate essera temporarimente inactive.">
 
+<!ENTITY safeModeDescription5.label   "Tu additivos e tu configurationes personalisate sera temporarimente disactivate, e le functionalitates de &brandShortName; pote non haber le prestationes ordinari.">
+
 <!ENTITY refreshProfileInstead.label  "Tu pote tamben saltar le diagnostico e tentar remontar &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
