@@ -8,3 +8,8 @@ profiles-create = Δημιουργία νέου προφίλ
 profiles-restart-title = Επανεκκίνηση
 profiles-restart-in-safe-mode = Επανεκκίνηση με τα πρόσθετα απενεργοποιημένα…
 profiles-restart-normal = Κανονική επανεκκίνηση…
+# Variables:
+#   $name (String) - Name of the profile
+profiles-name = Προφίλ: { $name }
+profiles-is-default = Προεπιλεγμένο προφίλ
+profiles-rootdir = Ριζικός κατάλογος
