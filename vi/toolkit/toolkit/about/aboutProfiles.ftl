@@ -44,3 +44,9 @@ profiles-delete-profile-confirm =
     Bạn có muốn xóa các tập tin dữ liệu của hồ sơ không?
 profiles-delete-files = Xóa các tập tin
 profiles-dont-delete-files = Không xóa các tập tin
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Hiển thị trong Finder
+        [windows] Mở thư mục
+       *[other] Mở thư mục
+    }
