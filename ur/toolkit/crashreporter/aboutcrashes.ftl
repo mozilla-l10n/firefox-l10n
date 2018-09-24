@@ -12,4 +12,4 @@ date-crashed-heading = تاریخ تباہ ہوگئی
 crashes-submitted-label = ارسال شدہ کریش رپورٹیں
 date-submitted-heading = ارسال کردہ تاریخ
 no-reports-label = کوی تباہ رپورٹ ارسال نہی کی گی۔
-no-config-label = یہ ایپلی کیشن تباہ کردہ رپورٹس کو دکھانے کے لیے تشکیل کردہ نہں کی گیی. ترجیح کردہ <code>breakpad.reportURL</code> ضرور سیٹ ہونا چاہیے.{ " " }
+no-config-label = یہ ایپلی کیشن تباہ کردہ رپورٹس کو دکھانے کے لیے تشکیل کردہ نہں کی گیی. ترجیح کردہ <code>breakpad.reportURL</code> ضرور سیٹ ہونا چاہیے.
