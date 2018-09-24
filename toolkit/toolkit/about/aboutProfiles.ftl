@@ -21,6 +21,7 @@ profiles-rootdir = मूल निदेशिका
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = स्थानीय निर्देशिका
 profiles-current-profile = यह प्रोफाइल प्रयोग में है और इसे हटाया नहीं जा सकता.
+profiles-in-use-profile = यह प्रोफ़ाइल किसी अन्य अनुप्रयोग द्वारा उपयोग में है तथा इसे मिटाया नहीं जा सकता है.
 profiles-rename = पुनर्नामकरण
 profiles-remove = हटाएँ
 profiles-set-as-default = मूलभूत प्रोफ़ाइल के रूप में स्थापित करे
@@ -45,6 +46,7 @@ profiles-delete-profile-confirm =
 profiles-delete-files = दस्तावेज़ मिटाएँ
 profiles-dont-delete-files = दस्तावेजों को मत मिटाएँ
 profiles-delete-profile-failed-title = त्रुटि
+profiles-delete-profile-failed-message = इस प्रोफ़ाईल को मिटाते समय कोई त्रुटि उत्पन्न हुयी.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Finder में दिखाएँ
