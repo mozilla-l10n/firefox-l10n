@@ -20,6 +20,7 @@ profiles-rootdir = रुट डाइरेक्टरी
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = स्थानीय डारेक्टरी
+profiles-current-profile = यो प्रोफाइल प्रयोगमा छ र हटाउन सकिँदैन ।
 profiles-rename = पुनः नामकरण गर्नुहोस्
 profiles-remove = हटाउनुहोस्
 profiles-set-as-default = पूर्वनिर्धारितका प्रोफाइलको रूपमा सेट गर्नुहोस्
