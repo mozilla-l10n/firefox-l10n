@@ -19,9 +19,11 @@ profiles-rootdir = Directorio raíz
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Directorio local
+profiles-in-use-profile = Este perfil está en uso en otra aplicación y no puede ser eliminado.
 profiles-rename = Renombrar
 profiles-remove = Eliminar
 profiles-set-as-default = Establecer como perfil predeterminado
+profiles-launch-profile = Lanzar perfil en nuevo navegador
 profiles-yes = sí
 profiles-no = no
 profiles-rename-profile-title = Renombrar perfil
@@ -41,3 +43,11 @@ profiles-delete-profile-confirm =
     ¿Realmente quieres eliminar los archivos de este perfil?
 profiles-delete-files = Eliminar archivos
 profiles-dont-delete-files = No eliminar archivos
+profiles-delete-profile-failed-title = Error
+profiles-delete-profile-failed-message = Hubo un error mientras se intentaba eliminar este perfil.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Mostrar en Finder
+        [windows] Abrir carpeta
+       *[other] Abrir directorio
+    }
