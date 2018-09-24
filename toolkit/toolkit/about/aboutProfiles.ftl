@@ -44,3 +44,9 @@ profiles-delete-profile-confirm =
     Apakah ingin menghapus berkas data profil?
 profiles-delete-files = Hapus Berkas
 profiles-dont-delete-files = Jangan Hapus Berkas
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Tampilkan di Finder
+        [windows] Buka folder
+       *[other] Buka Direktori
+    }
