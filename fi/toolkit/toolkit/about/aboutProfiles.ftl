@@ -6,6 +6,7 @@ profiles-title = Tietoja profiileista
 profiles-subtitle = Tämä sivu auttaa hallinnoimaan profiilejasi. Jokainen profiili on oma maailmansa, joka sisältää erilliset historiat, kirjanmerkit, asetukset ja lisäosat.
 profiles-create = Luo uusi profiili
 profiles-restart-title = Käynnistä uudelleen
+profiles-restart-in-safe-mode = Käynnistä uudelleen ilman lisäosia…
 profiles-restart-normal = Käynnistä uudelleen normaalisti…
 # Variables:
 #   $name (String) - Name of the profile
@@ -20,9 +21,11 @@ profiles-rootdir = Päähakemisto
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Paikallinen hakemisto
 profiles-current-profile = Tämä on tällä hetkellä käytössä oleva profiili, joten sitä ei voi poistaa.
+profiles-in-use-profile = Profiili on käytössä toisessa ohjelmassa eikä sitä voida poistaa.
 profiles-rename = Nimeä uudelleen
 profiles-remove = Poista
 profiles-set-as-default = Aseta oletusprofiiliksi
+profiles-launch-profile = Käynnistä profiili uuteen selaimeen
 profiles-yes = kyllä
 profiles-no = ei
 profiles-rename-profile-title = Nimeä profiili uudelleen
@@ -34,5 +37,19 @@ profiles-invalid-profile-name-title = Profiilin nimi ei kelpaa
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = Profiilin nimi "{ $name }" ei ole sallittu.
 profiles-delete-profile-title = Poista profiili
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    Profiilin poistaminen poistaa profiilin saatavilla olevien profiilien luettelosta eikä tätä toimintoa voi kumota.
+    Voit myös halutessasi poistaa profiilin datatiedostot, mukaan lukien asetuksesi, varmenteet ja muut käyttäjäkohtaiset tiedot. Tämä valinta poistaa kansion "{ $dir }" eikä tätä toimintoa voi kumota.
+    Haluatko poistaa profiilin datatiedostot?
 profiles-delete-files = Poista tiedostot
 profiles-dont-delete-files = Älä poista tiedostoja
+profiles-delete-profile-failed-title = Virhe
+profiles-delete-profile-failed-message = Profiilin poistaminen epäonnistui.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Näytä Finderissa
+        [windows] Avaa kansio
+       *[other] Avaa hakemisto
+    }
