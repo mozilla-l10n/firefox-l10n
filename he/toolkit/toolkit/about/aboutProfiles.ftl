@@ -11,6 +11,7 @@ profiles-restart-normal = הפעלה רגילה מחדש…
 #   $name (String) - Name of the profile
 profiles-name = פרופיל: { $name }
 profiles-is-default = פרופיל בררת המחדל
+profiles-rootdir = ספריית השורש
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
 # local filesystem, including cache files or other data files that may not
@@ -29,6 +30,7 @@ profiles-rename-profile-title = שינוי שם פרופיל
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = שינוי שם הפרופיל { $name }
+profiles-invalid-profile-name-title = שם פרופיל שגוי
 # Variables:
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = לא ניתן להשתמש בשם "{ $name }" כשם לפרופיל.
@@ -41,4 +43,11 @@ profiles-delete-profile-confirm =
     למחוק את קובצי הנתונים של הפרופיל?
 profiles-delete-files = למחוק קבצים
 profiles-dont-delete-files = לא למחוק קבצים
+profiles-delete-profile-failed-title = שגיאה
 profiles-delete-profile-failed-message = אירעה שגיאה בעת ניסיון למחוק פרופיל זה.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] הצגה ב־Finder
+        [windows] פתיחת תיקיה
+       *[other] פתיחת תיקיה
+    }
