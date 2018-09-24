@@ -47,3 +47,9 @@ profiles-delete-files = Fshiji Kartelat
 profiles-dont-delete-files = Mos i Fshi Kartelat
 profiles-delete-profile-failed-title = Gabim
 profiles-delete-profile-failed-message = Pati një gabim teksa provohej të fshihej ky profil.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Shfaqe në Finder
+        [windows] Hape Dosjen
+       *[other] Hape Drejtorinë
+    }
