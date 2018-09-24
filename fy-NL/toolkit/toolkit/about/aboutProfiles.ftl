@@ -3,7 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-title = Oer profilen
+profiles-subtitle = Dizze side helpt jo jo profilen te behearen. Elk profyl is in aparte omjouwing dy't aparte skiednis, blêdwizers, ynstellingen en add-ons befettet.
 profiles-create = In nij profyl oanmeitsje
+profiles-restart-title = Opnij starte
+profiles-restart-in-safe-mode = Opnij starte mei útskeakele add-ons…
 profiles-restart-normal = Normaal starte…
 # Variables:
 #   $name (String) - Name of the profile
@@ -18,6 +21,7 @@ profiles-rootdir = Haadmap
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Lokale map
 profiles-current-profile = Dit is it profyl dat yn gebrûk is en kin dêrom net fuortsmiten wurde.
+profiles-in-use-profile = Dit profyl is yn gebrûk yn in oare tapassing en kin dêrom net fuortsmiten wurde.
 profiles-rename = Omneame
 profiles-remove = Fuortsmite
 profiles-set-as-default = Ynstelle as standertprofyl
@@ -41,3 +45,11 @@ profiles-delete-profile-confirm =
     Wolle jo de bestannen mei profylgegevens fuortsmite?
 profiles-delete-files = Bestannen fuortsmite
 profiles-dont-delete-files = Bestannen net fuortsmite
+profiles-delete-profile-failed-title = Flater
+profiles-delete-profile-failed-message = Der is in flater bard wylst in besykjen om dit profyl fuort te smiten.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Toane yn Finder
+        [windows] Map iepenje
+       *[other] Map iepenje
+    }
