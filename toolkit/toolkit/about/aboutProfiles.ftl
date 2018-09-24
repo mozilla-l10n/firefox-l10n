@@ -32,5 +32,21 @@ profiles-rename-profile-title = Endre navn på profilen
 #   $name (String) - Name of the profile
 profiles-rename-profile = Endre navn på profilen { $name }
 profiles-invalid-profile-name-title = Ugyldig profilnavn
+# Variables:
+#   $name (String) - Name of the profile
+profiles-invalid-profile-name = Profilnavnet «{ $name }» er ikke tillatt.
 profiles-delete-profile-title = Slett profil
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    Sletting av en profil vil fjerne den profilen fra listen av tilgjengelige profiler, og kan ikke angres.
+    Du kan også velge å slette datafilene i profilen, inkludert innstillinger, sertifikater og annen bruker-relatert data. Dette valget vil også slette mappen «{ $dir }» og kan ikke angres.
+    Vil du slette datafilene i profilen?
 profiles-delete-files = Slett filer
+profiles-dont-delete-files = Ikke slett filer
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Vis i Finder
+        [windows] Åpne mappe
+       *[other] Åpne mappe
+    }
