@@ -21,6 +21,7 @@ profiles-rootdir = Kórjenjowy zapis
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Lokalny zapis
 profiles-current-profile = Toś ten profil se rowno wužywa a njedajo se wulašowaś.
+profiles-in-use-profile = Toś ten profil se pśez druge nałoženje wužywa a njedajo se wulašowaś.
 profiles-rename = Pśemjeniś
 profiles-remove = Wótpóraś
 profiles-set-as-default = Ako standardny profil nastajiś
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Cośo dataje z profilowymi datami lašowaś?
 profiles-delete-files = Dataje lašowaś
 profiles-dont-delete-files = Dataje njelašowaś
+profiles-delete-profile-failed-title = Zmólka
+profiles-delete-profile-failed-message = Pśi wopyśe toś ten profil wulašowaś jo zmólka nastała.
 profiles-opendir =
     { PLATFORM() ->
         [macos] W Finder pokazaś
