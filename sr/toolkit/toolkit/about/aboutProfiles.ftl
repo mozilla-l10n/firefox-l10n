@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-title = О профилима
+profiles-subtitle = Ова страница вам помаже да управљате профилима. Сваки профил је засебан свет који садржи засебну историју, језичке, поставке и додатке.
 profiles-create = Направи нови профил
 profiles-restart-title = Поново покрени
 profiles-restart-in-safe-mode = Поново покрени са онемогућеним додацима…
@@ -20,6 +21,7 @@ profiles-rootdir = Основни директоријум
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Локални директоријум
 profiles-current-profile = Овај профил се тренутно користи и не може бити обрисан.
+profiles-in-use-profile = Овај профил се користи на другој апликацији и не може бити обрисан.
 profiles-rename = Преименуј
 profiles-remove = Уклони
 profiles-set-as-default = Постави као подразумевани профил
@@ -43,6 +45,8 @@ profiles-delete-profile-confirm =
     Да ли желите да обришете датотеке профила?
 profiles-delete-files = Обриши датотеке
 profiles-dont-delete-files = Немој обрисати датотеке
+profiles-delete-profile-failed-title = Грешка
+profiles-delete-profile-failed-message = Дошло је до грешке приликом брисања овог профила.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Прикажи у Finder-у
