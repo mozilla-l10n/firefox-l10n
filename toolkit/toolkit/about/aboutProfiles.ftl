@@ -45,6 +45,7 @@ profiles-delete-profile-confirm =
     ¿Desea eliminar los archivos de datos del perfil?
 profiles-delete-files = Eliminar archivos
 profiles-dont-delete-files = No eliminar archivos
+profiles-delete-profile-failed-title = Error
 profiles-delete-profile-failed-message = Hubo un error mientras se intentaba borrar este perfil.
 profiles-opendir =
     { PLATFORM() ->
