@@ -21,6 +21,7 @@ profiles-rootdir = Pasta raiz
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Pasta local
 profiles-current-profile = Este é o perfil em uso e não pode ser excluído.
+profiles-in-use-profile = Este perfil está em uso em outra aplicação e não pode ser excluído.
 profiles-rename = Renomear
 profiles-remove = Remover
 profiles-set-as-default = Definir como perfil padrão
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Você gostaria de excluir os arquivos de dados do perfil?
 profiles-delete-files = Excluir arquivos
 profiles-dont-delete-files = Não excluir arquivos
+profiles-delete-profile-failed-title = Erro
+profiles-delete-profile-failed-message = Ocorreu um erro ao tentar excluir esse perfil.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Mostrar no Finder
