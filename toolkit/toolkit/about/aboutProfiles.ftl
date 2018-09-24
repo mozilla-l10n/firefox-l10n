@@ -43,3 +43,9 @@ profiles-delete-profile-confirm =
     Да ли желите да обришете датотеке профила?
 profiles-delete-files = Обриши датотеке
 profiles-dont-delete-files = Немој обрисати датотеке
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Прикажи у Finder-у
+        [windows] Отвори фасциклу
+       *[other] Отвори директоријум
+    }
