@@ -18,6 +18,9 @@ profiles-launch-profile = പ്രൊഫൈൽ പുതിയ ബ്രൌസ�
 profiles-yes = അതെ
 profiles-no = അല്ല
 profiles-rename-profile-title = പ്രൊഫൈലിന്റെ പേരുമാറ്റുക
+# Variables:
+#   $name (String) - Name of the profile
+profiles-rename-profile = { $name } പ്രൊഫൈലിന്റെ പേരുമാറ്റുക
 profiles-invalid-profile-name-title = അസാധുവായ പ്രൊഫൈൽ നാമം
 # Variables:
 #   $name (String) - Name of the profile
