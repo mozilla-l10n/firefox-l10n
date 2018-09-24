@@ -43,3 +43,9 @@ profiles-delete-profile-confirm =
     Voi vālotīs izdzēst profila datu failus?
 profiles-delete-files = Dzēst failus
 profiles-dont-delete-files = Nadziest failus
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Paruodeit Finder
+        [windows] Attaiseit mapi
+       *[other] Attaiseit mapi
+    }
