@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Желілік прокси
+network-settings-title = Желі баптаулары
 network-proxy-connection-description = { -brand-short-name } интернетпен қалай байланысатынын баптау
 network-proxy-connection-learn-more = Көбірек білу
 network-proxy-connection-settings =
@@ -660,6 +661,12 @@ content-blocking-toggle-label-on = ІСКЕ ҚОС.
 content-blocking-toggle-label-off = СӨНД.
     .accesskey = С
 content-blocking-category-label = Нені бұғаттауды таңдаңыз
+content-blocking-tracking-protection-option-always =
+    .label = Әрқашан
+    .accesskey = а
+content-blocking-tracking-protection-option-private =
+    .label = Тек жекелік терезелерінде
+    .accesskey = е
 
 ## Privacy Section - Tracking
 
