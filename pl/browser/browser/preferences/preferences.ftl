@@ -265,6 +265,7 @@ browsing-search-on-start-typing =
     .label = Rozpoczynaj wyszukiwanie podczas wpisywania tekstu
     .accesskey = R
 network-proxy-title = Proxy sieciowe
+network-settings-title=Sieć
 network-proxy-connection-description = Konfiguruj, jak { -brand-short-name } ma się łączyć z Internetem.
 network-proxy-connection-learn-more=Więcej informacji
 network-proxy-connection-settings =
