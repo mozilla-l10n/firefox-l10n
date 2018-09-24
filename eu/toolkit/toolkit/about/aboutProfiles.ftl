@@ -21,6 +21,7 @@ profiles-rootdir = Erro direktorioa
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Direktorio lokala
 profiles-current-profile = Hau da uneko profila eta ezin da ezabatu.
+profiles-in-use-profile = Profil hau beste aplikazio batek darabil eta ezin da ezabatu.
 profiles-rename = Berrizendatu
 profiles-remove = Kendu
 profiles-set-as-default = Ezarri profil lehenetsi gisa
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Profilaren datu-fitxategiak ezabatu nahi dituzu?
 profiles-delete-files = Ezabatu fitxategiak
 profiles-dont-delete-files = Ez ezabatu fitxategiak
+profiles-delete-profile-failed-title = Errorea
+profiles-delete-profile-failed-message = Errorea gertatu da profil hau ezabatzen saiatzean.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Erakutsi Finder-en
