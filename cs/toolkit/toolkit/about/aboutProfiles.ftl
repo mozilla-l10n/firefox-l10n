@@ -25,6 +25,7 @@ profiles-in-use-profile = Tento profil je používán jinou aplikací a nemůže
 profiles-rename = Přejmenovat
 profiles-remove = Smazat
 profiles-set-as-default = Nastavit jako výchozí profil
+profiles-launch-profile = Spustit profil v novém okně prohlížeče
 profiles-yes = ano
 profiles-no = ne
 profiles-rename-profile-title = Přejmenování profilu
