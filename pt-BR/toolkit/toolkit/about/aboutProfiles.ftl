@@ -30,3 +30,9 @@ profiles-rename-profile = Renomear o perfil { $name }
 profiles-delete-profile-title = Excluir perfil
 profiles-delete-files = Excluir arquivos
 profiles-dont-delete-files = Não excluir arquivos
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Mostrar no Finder
+        [windows] Abrir pasta
+       *[other] Abrir pasta
+    }
