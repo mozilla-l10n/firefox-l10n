@@ -44,6 +44,7 @@ profiles-delete-profile-confirm =
     Viltu eyða gögnum notanda?
 profiles-delete-files = Eyða skrám
 profiles-dont-delete-files = Ekki eyða skrám
+profiles-delete-profile-failed-title = Villa
 profiles-opendir =
     { PLATFORM() ->
         [macos] Sýna í Finder
