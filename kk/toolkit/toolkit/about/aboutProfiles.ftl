@@ -21,6 +21,7 @@ profiles-rootdir = Түбірлік бумасы
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Жергілікті бума
 profiles-current-profile = Бұл профиль қолданыста болып тұр, сондықтан, оны өшіру мүмкін емес.
+profiles-in-use-profile = Бұл профильді басқа қолданып тұр, сондықтан оны өшіру мүмкін емес.
 profiles-rename = Атын өзгерту
 profiles-remove = Өшіру
 profiles-set-as-default = Бастапқы ретінде орнату
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Профиль файлдарын өшіруді қалайсыз ба?
 profiles-delete-files = Файлдарды өшіру
 profiles-dont-delete-files = Файлдарды өшірмеу
+profiles-delete-profile-failed-title = Қате
+profiles-delete-profile-failed-message = Бұл профильді өшіру талабы кезінде қате орын алды.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Finder ішінен көрсету
