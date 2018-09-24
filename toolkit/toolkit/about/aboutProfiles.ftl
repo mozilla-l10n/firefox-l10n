@@ -44,3 +44,9 @@ profiles-delete-profile-confirm =
     আপনি কি প্রোফাইল ডাটা ফাইল মুছে ফেলতে ইচ্ছুক?
 profiles-delete-files = ফাইল মুছে ফেলা হবে
 profiles-dont-delete-files = ফাইল মুছে ফেলা হবে না
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] ফাইন্ডার-র মধ্যে প্রদর্শন করা হবে
+        [windows] ফোল্ডার খুলুন
+       *[other] ডিরেক্টরি খুলুন
+    }
