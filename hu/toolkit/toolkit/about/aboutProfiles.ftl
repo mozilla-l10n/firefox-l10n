@@ -21,6 +21,7 @@ profiles-rootdir = Gyökérkönyvtár
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Helyi könyvtár
 profiles-current-profile = A profil használatban van, és nem törölhető.
+profiles-in-use-profile = Ezt a profilt egy másik alkalmazás használja, és nem törölhető.
 profiles-rename = Átnevezés
 profiles-remove = Eltávolítás
 profiles-set-as-default = Alapértelmezett profil beállítása
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Valóban törölni kívánja a profilhoz tartozó adatfájlokat?
 profiles-delete-files = Fájlok törlése
 profiles-dont-delete-files = Fájlok megtartása
+profiles-delete-profile-failed-title = Hiba
+profiles-delete-profile-failed-message = Hiba történt a profil törlési kísérlete során.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Megjelenítés a Finderben
