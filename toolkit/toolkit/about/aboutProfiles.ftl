@@ -33,8 +33,20 @@ profiles-rename-profile-title = Пераназваць профіль
 profiles-rename-profile = Пераназваць профіль { $name }
 profiles-invalid-profile-name-title = Недапушчальная назва профіля
 # Variables:
+#   $name (String) - Name of the profile
+profiles-invalid-profile-name = Імя профілю “{ $name }” не дазволена.
+profiles-delete-profile-title = Выдаліць профіль
+# Variables:
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
     Выдаленне профілю прывядзе да выдалення профілю са спісу даступных профіляў і не можа быць адменена.
     Вы можаце таксама выдаліць файлы дадзеных профілю, уключаючы вашы налады, сертыфікаты і іншыя дадзеныя карыстальніка. Выбар гэтай опцыі прывядзе да выдалення папкі “{ $dir }”, што не можа быць адменена.
     Вы хочаце выдаліць файлы дадзеных профілю?
+profiles-delete-files = Выдаліць файлы
+profiles-dont-delete-files = Не выдаляць файлы
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Паказаць у Finder
+        [windows] Адкрыць папку
+       *[other] Адкрыць каталог
+    }
