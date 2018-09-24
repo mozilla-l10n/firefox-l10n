@@ -45,6 +45,7 @@ profiles-delete-profile-confirm =
 profiles-delete-files = फाइल्स काढा
 profiles-dont-delete-files = फाइल्स काढू नका
 profiles-delete-profile-failed-title = त्रुटी
+profiles-delete-profile-failed-message = ही प्रोफाइल हटविण्याचा प्रयत्न करताना त्रुटी आढळली.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Finder मध्ये दाखवा
