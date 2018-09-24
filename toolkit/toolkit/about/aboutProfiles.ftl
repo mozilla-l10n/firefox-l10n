@@ -2,8 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profiles-title = Sobre os perfis
+profiles-subtitle = Esta página ajuda a gerenciar seus perfis. Cada perfil é um mundo separado que contém histórico, favoritos, configurações e extensões separados.
 profiles-create = Criar um novo perfil
 profiles-restart-title = Reiniciar
+profiles-restart-in-safe-mode = Reiniciar com as extensões desabilitadas…
 profiles-restart-normal = Reiniciar normalmente…
 # Variables:
 #   $name (String) - Name of the profile
@@ -21,13 +24,24 @@ profiles-current-profile = Este é o perfil em uso e não pode ser excluído.
 profiles-rename = Renomear
 profiles-remove = Remover
 profiles-set-as-default = Definir como perfil padrão
+profiles-launch-profile = Iniciar o perfil em um novo navegador
 profiles-yes = sim
 profiles-no = não
 profiles-rename-profile-title = Renomear perfil
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = Renomear o perfil { $name }
+profiles-invalid-profile-name-title = Nome de perfil inválido
+# Variables:
+#   $name (String) - Name of the profile
+profiles-invalid-profile-name = O nome de perfil “{ $name }” não é permitido.
 profiles-delete-profile-title = Excluir perfil
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    A exclusão de um perfil removerá o perfil na lista de perfis disponíveis e não poderá ser desfeito.
+    Você também pode optar por excluir os arquivos de dados do perfil, incluindo suas configurações, certificados e outros dados relacionados ao usuário. Esta opção excluirá a pasta “{ $dir }” e não poderá ser desfeita.
+    Você gostaria de excluir os arquivos de dados do perfil?
 profiles-delete-files = Excluir arquivos
 profiles-dont-delete-files = Não excluir arquivos
 profiles-opendir =
