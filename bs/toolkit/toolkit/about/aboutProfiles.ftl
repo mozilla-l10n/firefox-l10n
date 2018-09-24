@@ -21,6 +21,7 @@ profiles-rootdir = Korjenski direktorij
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Lokalni direktorij
 profiles-current-profile = Ovaj profil je trenutno u upotrebi i ne može biti obrisan.
+profiles-in-use-profile = Ovaj profil koristi i neka druga aplikacija i stoga ne može biti obrisan.
 profiles-rename = Preimenuj
 profiles-remove = Ukloni
 profiles-set-as-default = Postavi kao glavni profil
