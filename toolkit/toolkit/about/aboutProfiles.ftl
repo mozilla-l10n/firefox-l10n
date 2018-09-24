@@ -21,6 +21,7 @@ profiles-rootdir = Dosar rădăcină
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Director local
 profiles-current-profile = Acesta este profilul în uz și nu poate fi șters.
+profiles-in-use-profile = Acest profil este folosit în altă aplicaţie şi nu poate fi șters.
 profiles-rename = Redenumește
 profiles-remove = Elimină
 profiles-set-as-default = Setează ca profil implicit
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Vrei să ștergi fișierele de date ale profilului?
 profiles-delete-files = Șterge fișierele
 profiles-dont-delete-files = Nu șterge fișierele
+profiles-delete-profile-failed-title = Eroare
+profiles-delete-profile-failed-message = A intervenit o eroare la încercarea ştergerii acestui profil.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Afișează în Finder
