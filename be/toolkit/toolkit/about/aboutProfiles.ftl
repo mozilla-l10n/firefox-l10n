@@ -8,8 +8,30 @@ profiles-create = Стварыць новы профіль
 profiles-restart-title = Перазапусціць
 profiles-restart-in-safe-mode = Перазапусціць з адключанымі дадаткамі...
 profiles-restart-normal = Перазапусціць у звычайным рэжыме...
+# Variables:
+#   $name (String) - Name of the profile
+profiles-name = Профіль: { $name }
 profiles-is-default = Прадвызначаны профіль
+profiles-rootdir = Каранёвы каталог
+# localDir is used to show the directory corresponding to
+# the main profile directory that exists for the purpose of storing data on the
+# local filesystem, including cache files or other data files that may not
+# represent critical user data. (e.g., this directory may not be included as
+# part of a backup scheme.)
+# In case localDir and rootDir are equal, localDir is not shown.
+profiles-localdir = Лакальны каталог
+profiles-current-profile = Гэты профіль зараз выкарыстоўваецца і не можа быць выдалены.
+profiles-rename = Пераназваць
+profiles-remove = Выдаліць
 profiles-set-as-default = Зрабіць прадвызначаным профілем
+profiles-launch-profile = Запусціць профіль у новым браўзеры
+profiles-yes = так
+profiles-no = не
+profiles-rename-profile-title = Пераназваць профіль
+# Variables:
+#   $name (String) - Name of the profile
+profiles-rename-profile = Пераназваць профіль { $name }
+profiles-invalid-profile-name-title = Недапушчальная назва профіля
 # Variables:
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
