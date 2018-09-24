@@ -21,6 +21,7 @@ profiles-rootdir = Šakninis aplankas
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Vietinis aplankas
 profiles-current-profile = Tai dabar naudojamas profilis ir jo ištrinti negalima.
+profiles-in-use-profile = Šį profilį naudoja kita programa, todėl jis negali būti pašalintas.
 profiles-rename = Pervadinti
 profiles-remove = Pašalinti
 profiles-set-as-default = Nustatyti numatytuoju profiliu
@@ -44,3 +45,11 @@ profiles-delete-profile-confirm =
     Ar norite pašalinti profilio duomenų failus?
 profiles-delete-files = Trinti failus
 profiles-dont-delete-files = Netrinti failų
+profiles-delete-profile-failed-title = Klaida
+profiles-delete-profile-failed-message = Bandant pašalinti šį profilį įvyko klaida.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Rodyti per „Finder“
+        [windows] Atverti aplanką
+       *[other] Atverti aplanką
+    }
