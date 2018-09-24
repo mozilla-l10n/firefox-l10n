@@ -44,6 +44,7 @@ profiles-delete-profile-confirm =
      آپ کا پروفائل ڈیٹا فائلوں کو خارج کرنا چاہتے ہیں؟
 profiles-delete-files = فایلز حذف کریں
 profiles-dont-delete-files = مسلیں حذف مت کریں
+profiles-delete-profile-failed-title = نقص
 profiles-opendir =
     { PLATFORM() ->
         [macos] فولڈر میں دکھائیں
