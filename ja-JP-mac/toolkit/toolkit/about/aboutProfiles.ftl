@@ -21,6 +21,7 @@ profiles-rootdir = ルートディレクトリー
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = ローカルディレクトリー
 profiles-current-profile = これは使用中のプロファイルです。削除できません。
+profiles-in-use-profile = このプロファイルは別のアプリケーションが使用中です。削除できません。
 profiles-rename = 名前を変更
 profiles-remove = 削除
 profiles-set-as-default = デフォルトプロファイルに設定
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     本当にプロファイルのデータファイルを削除しますか？
 profiles-delete-files = ファイルを削除
 profiles-dont-delete-files = 項目のみ削除
+profiles-delete-profile-failed-title = エラー
+profiles-delete-profile-failed-message = このプロファイルの削除中にエラーが発生しました。
 profiles-opendir =
     { PLATFORM() ->
         [macos] Finder に表示
