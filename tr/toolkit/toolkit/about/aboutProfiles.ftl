@@ -7,6 +7,11 @@ profiles-subtitle = Bu sayfa profillerinizi yönetmenize yardımcı olur. Her pr
 profiles-create = Yeni profil oluştur
 profiles-restart-title = Yeniden başlat
 profiles-restart-in-safe-mode = Eklentileri devre dışı bırakıp yeniden başlat…
+profiles-restart-normal = Normal şekilde yeniden başlat…
+# Variables:
+#   $name (String) - Name of the profile
+profiles-name = Profil: { $name }
+profiles-is-default = Varsayılan profil mi?
 profiles-rootdir = Kök klasör
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
@@ -16,6 +21,7 @@ profiles-rootdir = Kök klasör
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Yerel klasör
 profiles-current-profile = Bu profil şu anda kullanıldığı için silinemez.
+profiles-in-use-profile = Bu profil başka bir uygulama tarafından kullanılmakta olduğu için silinemez.
 profiles-rename = Adını değiștir
 profiles-remove = Sil
 profiles-set-as-default = Varsayılan profil yap
@@ -31,8 +37,16 @@ profiles-invalid-profile-name-title = Geçersiz profil adı
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = “{ $name }” şeklindeki profil adına izin verilmiyor.
 profiles-delete-profile-title = Profili sil
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    Bir profili silerseniz o profil, kullanılabilir profiller listesinden kaldırılır ve bu eylem geri alınamaz.
+    Dilerseniz ayarlarınızın, sertifikalarınızın ve diğer kullanıcıyla ilişkileri verilerin yer aldığı profil veri dosyalarını da silebilirsiniz. Bu seçenek “{ $dir }” klasörünü siler ve geri alınamaz.
+    Profil veri dosyalarını silmek istiyor musunuz?
 profiles-delete-files = Dosyaları sil
 profiles-dont-delete-files = Dosyaları silme
+profiles-delete-profile-failed-title = Hata
+profiles-delete-profile-failed-message = Bu profili silmeye çalışırken bir hata oluştu.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Finder'da göster
