@@ -147,7 +147,7 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Nanj a\&apos;min\&apos;">
-<!ENTITY pref_category_language_summary "Naduna nanj gara sun">
+<!ENTITY pref_category_language_summary "Naduna nânj garasunt">
 <!ENTITY pref_browser_locale "Nanj gara sun">
 
 <!-- Localization note (locale_system_default) : This string indicates that
