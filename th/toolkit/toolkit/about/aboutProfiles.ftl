@@ -2,8 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profiles-title = เกี่ยวกับโปรไฟล์
+profiles-subtitle = หน้านี้ช่วยให้คุณจัดการโปรไฟล์ของคุณ แต่ละโปรไฟล์นั้นเป็นโลกที่แบ่งแยกออกจากกันซึ่งมีประวัติ, ที่คั่นหน้า, การตั้งค่า และส่วนเสริมที่แยกกัน
+profiles-create = สร้างโปรไฟล์ใหม่
 profiles-restart-title = เริ่มการทำงานใหม่
+profiles-restart-in-safe-mode = เริ่มการทำงานใหม่พร้อมปิดใช้งานส่วนเสริม…
 profiles-restart-normal = เริ่มการทำงานใหม่ปกติ…
+# Variables:
+#   $name (String) - Name of the profile
+profiles-name = โปรไฟล์: { $name }
+profiles-is-default = โปรไฟล์เริ่มต้น
 profiles-rootdir = ไดเรกทอรีราก
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
@@ -12,9 +20,31 @@ profiles-rootdir = ไดเรกทอรีราก
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = ไดเรกทอรีในเครื่อง
+profiles-current-profile = นี่เป็นโปรไฟล์ที่ใช้งานอยู่และไม่สามารถลบได้
 profiles-rename = เปลี่ยนชื่อ
 profiles-remove = เอาออก
+profiles-set-as-default = ตั้งเป็นโปรไฟล์เริ่มต้น
+profiles-launch-profile = เปิดโปรไฟล์ในเบราว์เซอร์ใหม่
 profiles-yes = ใช่
 profiles-no = ไม่
+profiles-rename-profile-title = เปลี่ยนชื่อโปรไฟล์
+# Variables:
+#   $name (String) - Name of the profile
+profiles-rename-profile = เปลี่ยนชื่อโปรไฟล์ { $name }
+profiles-invalid-profile-name-title = ชื่อโปรไฟล์ไม่ถูกต้อง
+profiles-delete-profile-title = ลบโปรไฟล์
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    การลบโปรไฟล์จะเอาโปรไฟล์ออกจากรายการโปรไฟล์ที่มีและไม่สามารถเลิกทำได้
+    คุณยังอาจเลือกที่จะลบไฟล์ข้อมูลของโปรไฟล์ รวมไปถึงการตั้งค่า, ใบรับรอง และข้อมูลที่เกี่ยวข้องกับผู้ใช้ ตัวเลือกนี้จะลบโฟลเดอร์ “{ $dir }” และไม่สามารถเลิกทำได้
+    คุณต้องการลบไฟล์ข้อมูลของโปรไฟล์หรือไม่?
 profiles-delete-files = ลบไฟล์
 profiles-dont-delete-files = ไม่ลบไฟล์
+profiles-delete-profile-failed-title = ข้อผิดพลาด
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] แสดงใน Finder
+        [windows] เปิดโฟลเดอร์
+       *[other] เปิดไดเรกทอรี
+    }
