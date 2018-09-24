@@ -36,6 +36,7 @@ profiles-delete-profile-confirm =
     Imito kwanyo pwail pa data me propwail?
 profiles-delete-files = Kwany pwail
 profiles-dont-delete-files = Pe i kwany pwail
+profiles-delete-profile-failed-title = Bal
 profiles-opendir =
     { PLATFORM() ->
         [macos] Nyut i Layeny
