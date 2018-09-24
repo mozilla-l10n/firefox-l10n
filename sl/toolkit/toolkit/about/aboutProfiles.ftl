@@ -21,6 +21,7 @@ profiles-rootdir = Korenska mapa
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Krajevna mapa
 profiles-current-profile = Ta profil je v uporabi in ga ni mogoče izbrisati.
+profiles-in-use-profile = Ta profil trenutno uporablja drug program in ga ni mogoče izbrisati.
 profiles-rename = Preimenuj
 profiles-remove = Odstrani
 profiles-set-as-default = Nastavi kot privzet profil
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Ali bi radi izbrisali datoteke profila?
 profiles-delete-files = Izbriši datoteke
 profiles-dont-delete-files = Ne izbriši datotek
+profiles-delete-profile-failed-title = Napaka
+profiles-delete-profile-failed-message = Med poskusom brisanja profila je prišlo do napake.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Prikaži v Finderju
