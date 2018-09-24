@@ -6,6 +6,7 @@ profiles-title = Acerca de los Perfiles
 profiles-subtitle = Esta página ayuda a administrar tus perfiles. Cada perfil es un mundo único que contiene historial, marcadores, configuraciones y complementos.
 profiles-create = Crear un nuevo perfil
 profiles-restart-title = Reiniciar
+profiles-restart-in-safe-mode = Reiniciar con Complementos Deshabilitados…
 profiles-restart-normal = Reiniciar normalmente…
 # Variables:
 #   $name (String) - Name of the profile
@@ -19,6 +20,7 @@ profiles-rootdir = Directorio raíz
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Directorio local
+profiles-current-profile = Este es el perfil en uso y no se puede eliminar.
 profiles-in-use-profile = Este perfil está en uso en otra aplicación y no puede ser eliminado.
 profiles-rename = Renombrar
 profiles-remove = Eliminar
