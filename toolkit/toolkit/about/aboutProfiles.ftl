@@ -36,6 +36,12 @@ profiles-invalid-profile-name-title = Nom de profil invalide
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = Le nom de profil « { $name } » n’est pas autorisé.
 profiles-delete-profile-title = Supprimer un profil
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    Supprimer un profil l’enlèvera de la liste des profils disponibles et ne peut être annulé.
+    Il est aussi possible de choisir de supprimer les fichiers de données du profil, comprenant vos paramètres, certificats et toutes vos données personnelles. Cette option supprimera le dossier « { $dir } » et ne pourra pas être annulée.
+    Désirez-vous supprimer les fichiers de données du profil ?
 profiles-delete-files = Supprimer les fichiers
 profiles-dont-delete-files = Ne pas supprimer les fichiers
 profiles-opendir =
