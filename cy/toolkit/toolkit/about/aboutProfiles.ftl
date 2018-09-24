@@ -21,6 +21,7 @@ profiles-rootdir = Cyfarwyddiadur Gwraidd
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Cyfarwyddiadur Lleol
 profiles-current-profile = Dyma'r proffil sy'n cael ei ddefnyddio ac nid oes modd ei ddileu.
+profiles-in-use-profile = Mae'r proffil yn cael ei ddefnyddio o fewn rhaglen arall ac nid oes modd ei ddileu.
 profiles-rename = Ailenwi
 profiles-remove = Tynnu
 profiles-set-as-default = Gosod fel y proffil ragosodedig
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     Hoffech chi ddileu'r ffeiliau data proffil?
 profiles-delete-files = Dileu Ffeiliau
 profiles-dont-delete-files = Peidio Dileu Ffeiliau
+profiles-delete-profile-failed-title = Gwall
+profiles-delete-profile-failed-message = Bu gwall wrth geisio dileu'r proffil hwn.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Dangos yn Finder
