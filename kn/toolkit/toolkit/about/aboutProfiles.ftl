@@ -44,3 +44,9 @@ profiles-delete-profile-confirm =
     ನೀವು ಪ್ರೊಫೈಲ್‌ನ ಮಾಹಿತಿ ಕಡತಗಳನ್ನು ಅಳಿಸಲು ಬಯಸುತ್ತೀರೆ?
 profiles-delete-files = ಕಡತಗಳನ್ನು ಅಳಿಸಿಹಾಕು
 profiles-dont-delete-files = ಕಡತಗಳನ್ನು ಅಳಿಸಿಹಾಕಬೇಡ
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] ಶೋಧಕದಲ್ಲಿ ತೋರಿಸು
+        [windows] ಕಡತಕೋಶವನ್ನು ತೆರೆ
+       *[other] ಕೋಶವನ್ನು ತೆರೆ
+    }
