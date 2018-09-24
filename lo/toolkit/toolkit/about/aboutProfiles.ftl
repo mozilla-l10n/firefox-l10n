@@ -5,6 +5,9 @@
 profiles-title = ກ່ຽວກັບໂປຣໄຟລ໌
 profiles-subtitle = ຫນ້ານີ້ຊ່ວຍທ່ານໃນການຈັດການກັບໂປຣໄຟລ໌ຂອງທ່ານ. ແຕ່ລະໂປຣໄຟລ໌ແມ່ນແຍກອອກເປັນຄຳຕ່າງຫາກຊຶ່ງປະກອບໄປດ້ວຍປະຫວັດການໃຊ້ງານ, ບຸກມາກ, ການຕັ້ງຄ່າ ແລະ add-ons ທີ່ແຍກຕ່າງຫາກ.
 profiles-create = ສ້າງໂປຣໄຟລ໌ໃຫມ່
+profiles-restart-title = ເລີ່ມເຮັດວຽກໃຫມ່
+profiles-restart-in-safe-mode = ເລີ່ມເຮັດວຽກໃຫມ່ພ້ອມປິດໃຊ້ງານໂປຣແກຣມເສີມ…
+profiles-restart-normal = ເລີ່ມເຮັດວຽກໃຫມ່ຕາມປົກກະຕິ…
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = ໂປ​ຣ​ໄຟ​ລ໌: { $name }
