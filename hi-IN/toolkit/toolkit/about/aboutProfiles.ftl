@@ -31,7 +31,7 @@ profiles-no = नहीं
 profiles-rename-profile-title = प्रोफाइल का पुनर्नामकरण करें
 # Variables:
 #   $name (String) - Name of the profile
-profiles-rename-profile = प्रोफ़ाइल का नाम बदलें { $name }{ " " }
+profiles-rename-profile = प्रोफ़ाइल का नाम बदलें { $name }
 profiles-invalid-profile-name-title = अवैध प्रोफ़ाइल नाम
 # Variables:
 #   $name (String) - Name of the profile
