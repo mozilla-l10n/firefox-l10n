@@ -21,6 +21,7 @@ profiles-rootdir = Ruxe' cholb'äl
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Aj wawe' cholb'äl
 profiles-current-profile = Man tajin tan okisäx re ruwäch b'i'aj re' chuqa' man tikirel ta niyuj el.
+profiles-in-use-profile = Re ruwäch b'i'aj re' nokisäx pa jun chik chokoy ruma ri' man tikirel ta niyuj el.
 profiles-rename = Tisik'ïx chik
 profiles-remove = Tiyuj el
 profiles-set-as-default = Tichap kan achi'el ruwäch b'i'aj ri kan k'o wi
@@ -44,6 +45,8 @@ profiles-delete-profile-confirm =
     ¿La kan nawajo' ye'ayüj el ri taq ruyakb'al re ruwäch b'i'aj re'?
 profiles-delete-files = Tiyuj el yakb'äl
 profiles-dont-delete-files = Man keyuj el taq yakb'äl
+profiles-delete-profile-failed-title = Sachoj
+profiles-delete-profile-failed-message = Xk'ulwachitäj jun sachoj toq nitojtob'ëx niyuj re ruwäch b'i'aj re'.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Tik'ut pe pan ilonel
