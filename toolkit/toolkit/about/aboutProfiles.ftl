@@ -33,8 +33,18 @@ profiles-rename-profile-title = Rename Profile
 #   $name (String) - Name of the profile
 profiles-rename-profile = Rename profile { $name }
 profiles-invalid-profile-name-title = Invalid profile name
+# Variables:
+#   $name (String) - Name of the profile
+profiles-invalid-profile-name = The profile name “{ $name }” is not allowed.
 profiles-delete-profile-title = Delete Profile
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    Deleting a profile will remove the profile from the list of available profiles and cannot be undone.
+    You may also choose to delete the profile data files, including your settings, certificates and other user-related data. This option will delete the folder “{ $dir }” and cannot be undone.
+    Would you like to delete the profile data files?
 profiles-delete-files = Delete Files
+profiles-dont-delete-files = Don’t Delete Files
 profiles-delete-profile-failed-title = Error
 profiles-delete-profile-failed-message = There was an error while attempting to delete this profile.
 profiles-opendir =
