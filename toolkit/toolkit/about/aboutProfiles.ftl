@@ -13,3 +13,41 @@ profiles-restart-normal = Κανονική επανεκκίνηση…
 profiles-name = Προφίλ: { $name }
 profiles-is-default = Προεπιλεγμένο προφίλ
 profiles-rootdir = Ριζικός κατάλογος
+# localDir is used to show the directory corresponding to
+# the main profile directory that exists for the purpose of storing data on the
+# local filesystem, including cache files or other data files that may not
+# represent critical user data. (e.g., this directory may not be included as
+# part of a backup scheme.)
+# In case localDir and rootDir are equal, localDir is not shown.
+profiles-localdir = Τοπικός κατάλογος
+profiles-current-profile = Αυτό το προφίλ είναι σε λειτουργία και δεν μπορεί να διαγραφεί.
+profiles-rename = Μετονομασία
+profiles-remove = Αφαίρεση
+profiles-set-as-default = Ορισμός ως προεπιλεγμένο προφίλ
+profiles-launch-profile = Εκκίνηση προφίλ σε νέο πρόγραμμα περιήγησης
+profiles-yes = ναι
+profiles-no = όχι
+profiles-rename-profile-title = Μετονομασία προφίλ
+# Variables:
+#   $name (String) - Name of the profile
+profiles-rename-profile = Μετονομασία προφίλ { $name }
+profiles-invalid-profile-name-title = Άκυρο όνομα προφίλ
+# Variables:
+#   $name (String) - Name of the profile
+profiles-invalid-profile-name = Το όνομα προφίλ “{ $name }” δεν επιτρέπεται.
+profiles-delete-profile-title = Διαγραφή προφίλ
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    Η διαγραφή ενός προφίλ θα το αφαιρέσει από τη λίστα των διαθέσιμων προφίλ και δεν αναιρείται.
+    Μπορείτε επίσης να διαγράψετε τα αρχεία δεδομένων του προφίλ, όπως οι ρυθμίσεις, τα πιστοποιητικά και άλλα δεδομένα χρήστη. Αυτή η επιλογή θα διαγράψει το φάκελο “{ $dir }” και δεν αναιρείται.
+    Θέλετε να διαγράψετε τα αρχεία δεδομένων του προφίλ;
+profiles-delete-files = Διαγραφή αρχείων
+profiles-dont-delete-files = Διατήρηση αρχείων
+profiles-delete-profile-failed-title = Σφάλμα
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Προβολή στο Finder
+        [windows] Άνοιγμα φακέλου
+       *[other] Άνοιγμα καταλόγου
+    }
