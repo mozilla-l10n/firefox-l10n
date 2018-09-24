@@ -3,8 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-title = Про профілі
+profiles-subtitle = Ця сторінка допомагає керувати вашими профілями. Кожен профіль є окремим світом, що містить окрему історію, закладки, налаштування й додатки.
 profiles-create = Створити новий профіль
 profiles-restart-title = Перезапустити
+profiles-restart-in-safe-mode = Перезапустити з вимкненими додатками…
+profiles-restart-normal = Перезапустити в звичайному режимі…
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Профіль: { $name }
@@ -19,10 +22,31 @@ profiles-rootdir = Кореневий каталог
 profiles-localdir = Локальний каталог
 profiles-current-profile = Цей профіль використовується і не може бути видалений.
 profiles-rename = Перейменувати
+profiles-remove = Видалити
 profiles-set-as-default = Встановити як типовий профіль
+profiles-launch-profile = Запустити профіль в новому браузері
 profiles-yes = так
 profiles-no = ні
+profiles-rename-profile-title = Перейменувати профіль
+# Variables:
+#   $name (String) - Name of the profile
+profiles-rename-profile = Перейменувати профіль { $name }
 profiles-invalid-profile-name-title = Неприпустиме ім’я профілю
 # Variables:
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = Ім’я профілю «{ $name }» неприпустиме.
+profiles-delete-profile-title = Видалити профіль
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm =
+    Видалення профілю вилучить його зі списку доступних профілів і цю дію неможливо скасувати.
+    Ви також можете видалити файли даних профілю, включаючи налаштування, сертифікати й інші дані, пов'язані з користувачем. Ця опція видалить теку "{ $dir }" і цю дію неможливо скасувати.
+    Чи бажаєте видалити файли даних профілю?
+profiles-delete-files = Видалити файли
+profiles-dont-delete-files = Не видаляти файли
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Показати у Finder
+        [windows] Відкрити теку
+       *[other] Відкрити каталог
+    }
