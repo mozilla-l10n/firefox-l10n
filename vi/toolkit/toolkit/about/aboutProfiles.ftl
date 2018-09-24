@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profiles-title = Thông tin về hồ sơ
+profiles-subtitle = Trang này giúp bạn quản lý hồ sơ của bạn. Mỗi hồ sơ là một thế giới riêng biệt chứa lịch sử, trang đánh dấu, cài đặt và tiện ích.
+profiles-create = Tạo hồ sơ mới
+profiles-restart-title = Khởi động lại
+profiles-restart-in-safe-mode = Khởi động lại và vô hiệu hóa tiện ích…
+profiles-restart-normal = Khởi động lại bình thường…
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Hồ sơ: { $name }
