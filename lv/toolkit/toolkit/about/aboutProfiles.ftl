@@ -21,6 +21,7 @@ profiles-rootdir = Saknes mape
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Lokālā mape
 profiles-current-profile = Šis profils šobrīd tiek izmantots, tāpēc to nevar izdzēst.
+profiles-in-use-profile = Šis profils tiek lietots citā programmā, un to nevar dzēst.
 profiles-rename = Pārsaukt
 profiles-remove = Aizvākt
 profiles-set-as-default = Iestatīt kā noklusēto profilu
@@ -44,3 +45,11 @@ profiles-delete-profile-confirm =
     Vai vēlaties izdzēst profila datu failus?
 profiles-delete-files = Dzēst failus
 profiles-dont-delete-files = Nedzēst failus
+profiles-delete-profile-failed-title = Kļūda
+profiles-delete-profile-failed-message = Kļūda mēģinot dzēst profilu.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Parādīt Finder
+        [windows] Atvērt mapi
+       *[other] Atvērt mapi
+    }
