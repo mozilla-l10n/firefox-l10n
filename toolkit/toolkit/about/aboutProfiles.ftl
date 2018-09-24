@@ -21,6 +21,7 @@ profiles-rootdir = 根目錄
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = 本機目錄
 profiles-current-profile = 這個設定檔正在使用中，無法刪除。
+profiles-in-use-profile = 其他應用程式正在使用此設定檔，無法刪除。
 profiles-rename = 重新命名
 profiles-remove = 移除
 profiles-set-as-default = 設為預設設定檔
@@ -44,3 +45,11 @@ profiles-delete-profile-confirm =
     您想刪除設定檔內含的資料檔案嗎？
 profiles-delete-files = 刪除檔案
 profiles-dont-delete-files = 不要刪除檔案
+profiles-delete-profile-failed-title = 錯誤
+profiles-delete-profile-failed-message = 嘗試刪除此設定檔時發生錯誤。
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] 顯示於 Finder
+        [windows] 開啟資料夾
+       *[other] 開啟資料夾
+    }
