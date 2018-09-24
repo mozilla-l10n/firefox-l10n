@@ -21,9 +21,11 @@ profiles-rootdir = Saknes mape
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Lokalā mape
 profiles-current-profile = Itys profils itūbreid tīk izmontuots, deļ tuo tū navar izdzēst.
+profiles-in-use-profile = Itū profilu ņiuļa izmontoj cyta aplikaceja, deļ tō jū navar izdzēst.
 profiles-rename = Puorsaukt
 profiles-remove = Aizvuokt
 profiles-set-as-default = Īstateit kai nūkluseitū profilu
+profiles-launch-profile = Attaiseit profilu jaunā porlyukā
 profiles-yes = nui
 profiles-no = nā
 profiles-rename-profile-title = Puodieveit profilu
@@ -43,6 +45,8 @@ profiles-delete-profile-confirm =
     Voi vālotīs izdzēst profila datu failus?
 profiles-delete-files = Dzēst failus
 profiles-dont-delete-files = Nadziest failus
+profiles-delete-profile-failed-title = Klaida
+profiles-delete-profile-failed-message = Dziešūt profilu ir nūtykuse klaida.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Paruodeit Finder
