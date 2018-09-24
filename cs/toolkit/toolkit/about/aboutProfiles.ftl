@@ -47,3 +47,9 @@ profiles-delete-files = Smazat soubory
 profiles-dont-delete-files = Nemazat soubory
 profiles-delete-profile-failed-title = Chyba
 profiles-delete-profile-failed-message = Při pokusu o smazání tohoto profilu nastala chyba.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Zobrazit ve Finderu
+        [windows] Otevřít složku
+       *[other] Otevřít adresář
+    }
