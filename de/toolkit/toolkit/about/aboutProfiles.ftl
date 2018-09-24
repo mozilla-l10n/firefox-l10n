@@ -49,6 +49,7 @@ profiles-delete-profile-confirm =
     Möchten Sie die Daten des Profils löschen?
 profiles-delete-files = Dateien löschen
 profiles-dont-delete-files = Dateien nicht löschen
+profiles-delete-profile-failed-title = Fehler
 profiles-delete-profile-failed-message = Beim Versuch, das Profil zu löschen, trat ein Fehler auf.
 profiles-opendir =
     { PLATFORM() ->
