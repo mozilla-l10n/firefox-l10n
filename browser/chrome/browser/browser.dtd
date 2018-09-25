@@ -68,8 +68,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "ы">
 <!ENTITY  sendLinkToDevice.label             "Сілтемені құрылғыға жіберу">
 <!ENTITY  sendLinkToDevice.accesskey         "ы">
-<!ENTITY  sendToDeviceFeedback.label         "Жіберілді!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "Кезекте (желіден тыс)">
 <!ENTITY  moveToNewWindow.label              "Жаңа терезеге жылжыту">
 <!ENTITY  moveToNewWindow.accesskey          "е">
 <!ENTITY  reopenInContainer.label            "Контейнерде қайтадан ашу">
@@ -201,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Бұл бетке жазылу">
 <!ENTITY subscribeToPageMenuitem.label "Бұл бетке жазылу…">
+
 <!ENTITY addCurPagesCmd.label "Барлық беттерді бетбелгілерге қосу…">
 <!ENTITY showAllBookmarks2.label "Барлық бетбелгілерді көрсету">
 <!ENTITY recentBookmarks.label "Соңынан қосылғандар">
@@ -268,7 +267,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Үйге">
-
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; үй беті">
 
 <!ENTITY bookmarksButton.label          "Бетбелгілер">
@@ -428,23 +426,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Құралдар панеліне қосу">
 <!ENTITY customizeMenu.addToToolbar.accesskey "о">
-<!ENTITY customizeMenu.addToPanel.label "Мәзірге қосу">
-<!ENTITY customizeMenu.addToPanel.accesskey "М">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Қайта аймалау мәзіріне қосу">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "м">
-<!ENTITY customizeMenu.moveToToolbar.label "Құралдар панеліне жылжыту">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "ы">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Мәзірге жылжыту">
-<!ENTITY customizeMenu.moveToPanel.accesskey "ы">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -454,15 +441,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "а">
 <!ENTITY customizeMenu.removeFromToolbar.label "Құралдар панелінен өшіру">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ш">
-<!ENTITY customizeMenu.removeFromMenu.label "Мәзірден өшіру">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "ш">
 <!ENTITY customizeMenu.addMoreItems.label "Көбірек элементтерді қосу…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "К">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Құралдар панелінде автожасыру">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "а">
 <!ENTITY customizeMenu.manageExtension.label "Кеңейтуді басқару">
 <!ENTITY customizeMenu.manageExtension.accesskey "е">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -604,7 +589,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Осы фреймді бетбелгілерге қосу">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "г">
 <!ENTITY pageAction.copyLink.label    "Сілтемені көшіріп алу">
-<!ENTITY copyURLFeedback.label        "Көшірілді!">
 <!ENTITY emailPageCmd.label           "Сілтемені эл. поштамен жіберу…">
 <!ENTITY emailPageCmd.accesskey       "С">
 <!ENTITY savePageCmd.label            "Парақты қалайша сақтау…">
@@ -791,7 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Дайын">
-<!ENTITY editBookmark.removeBookmark.accessKey       "ш">
 
 <!ENTITY editBookmark.showForNewBookmarks.label       "Сақтау кезінде түзеткішті көрсету">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "с">
@@ -842,7 +825,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Рұқсаттар">
 <!ENTITY identity.permissionsEmpty "Бұл сайтқа арнайы рұқсаттарды берген жоқсыз.">
 <!ENTITY identity.permissionsReloadHint "Өзгерістер іске асуы үшін бұл парақты қайта жүктеуіңіз керек болуы мүмкін.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "Рұқсаттар баптауларын ашу">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -966,10 +948,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Бұғаттауды қосу…">
 
-<!ENTITY contentBlocking.trackingProtection.label "Трекерлер">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
+     ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Бұғатталған">
@@ -979,33 +960,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Бұғаттауды қосу…">
 
-<!ENTITY contentBlocking.openBreakageReportView.label "Мәселелерді хабарлау">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Блокталған">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!ENTITY contentBlocking.breakageReportView.label "Мәселелерді хабарлау">
-<!ENTITY contentBlocking.breakageReportView.description "Құраманы бұғаттау кейбір веб-сайттармен мәселелерді туғызуы мүмкін. Мәселелерді хабарлаған кезде, сіз &brandShortName; әркім үшін жақсырақ қылуға көмектесесіз. (Нәтижесінде URL, сіздің жекелік және құраманы бұғаттау баптаулар ақпараты Mozilla-ға жіберілетін болады).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Көбірек білу">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
-<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "&brandShortName; нұсқа нөмірі">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Мәселелердің қай түрін кездестірдіңіз? (Міндетті емес)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Есептемені жіберу">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Бас тарту">
 
 <!ENTITY trackingProtection.title "Бақылаудан қорғаныс">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; бұл парақтың сіздің желідегі әрекеттеріңізді бақылай алатын бөліктерін блоктаған.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Бұл сайтта сіздің желідегі әрекеттеріңізді бақылай алатын элементтер бар. Сіз бақылаудан қорғанысты сөндіргенсіз.">
-<!ENTITY trackingProtection.notDetected3 "Бұл парақта бақылайтын элементтер табылмады.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Бұл сайтта қорғанысты сөндіру">
-<!ENTITY trackingProtection.unblock.accesskey "д">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Бұл сессияда қорғанысты сөндіру">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "д">
-<!ENTITY trackingProtection.block2.label "Қорғанысты іске қосу">
-<!ENTITY trackingProtection.block2.accesskey "е">
-
 <!ENTITY trackingProtection.tooltip "Бақылаудан қорғаныс баптауларын ашу">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; бұл парақтың сіздің желідегі әрекеттеріңізді бақылай алатын бөліктерін блоктаған.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; сіздің желідегі әрекеттеріңізді бақылай алатын элементтерді анықтады.">
@@ -1134,6 +1107,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Кеңейтуді басқару…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Бетті құрылғыға жіберу">
+
 <!ENTITY sendToDevice.syncNotReady.label "Құрылғыларды синхрондау…">
 
 <!ENTITY pageAction.shareUrl.label "Бөлісу">
