@@ -17,7 +17,19 @@
     }
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--sync-brand-name = Синхронізація Firefox
+-sync-brand-name =
+    {
+       *[nom] Синхронізація Firefox
+        [nom-lower] синхронізація Firefox
+        [gen] Синхронізації Firefox
+        [gen-lower] синхронізації Firefox
+        [dat] Синхронізації Firefox
+        [dat-lower] синхронізації Firefox
+        [acc] Синхронізацію Firefox
+        [acc-lower] синхронізацію Firefox
+        [abl] Синхронізацією Firefox
+        [abl-lower] синхронізацією Firefox
+    }
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name = Обліковий запис Firefox
