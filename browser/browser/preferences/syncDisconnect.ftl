@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sync-disconnect-dialog =
-    .title = Від'єднатися від Синхронізації?
+    .title = Від'єднатися від { -sync-brand-short-name[dat] }?
     .style = width: 36em; min-height: 35em;
 sync-disconnect-heading = Ви хочете також вилучити дані браузера на цьому комп'ютері? В будь-якому випадку, ваші дані Синхронізації все одно залишаться в обліковому записі.
 sync-disconnect-remove-sync-caption = Вилучити дані Синхронізації
