@@ -576,6 +576,23 @@ content-blocking-tracking-protection-option-pbm=
 content-blocking-tracking-protection-option-disabled=
   .label=Brak blokowania
 content-blocking-tracking-protection-change-blocklist=Zmień listę blokowanych…
+content-blocking-reject-trackers-label=Ciasteczka od zewnętrznych podmiotów
+  .accesskey=C
+content-blocking-reject-trackers-description=Blokowanie wszystkich ciasteczek od zewnętrznych podmiotów lub tylko ustawianych przez elementy śledzące.
+content-blocking-reject-trackers-warning-all-cookies-blocked=Wszystkie ciasteczka są obecnie blokowane.
+content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked=Ciasteczka nieodwiedzonych witryn są obecnie blokowane.
+content-blocking-change-cookie-settings=
+  .label=Zmień ustawienia dotyczące ciasteczek i danych stron
+  .accesskey=Z
+content-blocking-reject-trackers-block-trackers-option-recommended=
+  .label=Elementy śledzące (zalecane)
+  .accesskey=E
+content-blocking-reject-trackers-block-trackers-option=
+  .label=Elementy śledzące
+  .accesskey=E
+content-blocking-reject-trackers-all-third-parties-option=
+  .label=Wszystkie ciasteczka od zewnętrznych podmiotów (może powodować problemy)
+  .accesskey=W
 
 tracking-header=Ochrona przed śledzeniem
 tracking-desc=Ochrona przed śledzeniem blokuje elementy, które zbierają informacje o przeglądaniu na wielu różnych stronach. <a data-l10n-name="learn-more">Więcej informacji o ochronie przed śledzeniem i prywatności</a>.
