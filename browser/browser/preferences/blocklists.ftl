@@ -5,7 +5,7 @@
 blocklist-window =
     .title = தடை பட்டியல்
     .style = width: 55em
-blocklist-desc = உங்கள் உலாவலைத் தடமறியும் வலை உறுப்புகளை முடக்க பயர்பாக்ஸ் எந்த பட்டியலைப் பயன்படுத்த வேண்டும் என்பதை தேர்ந்தெடுக்கலாம்.
+blocklist-desc = உங்கள் உலாவலைத் தடமறியும் வலை உறுப்புகளை முடக்க { -brand-short-name } எந்த பட்டியலைப் பயன்படுத்த வேண்டும் என்பதை தேர்ந்தெடுக்கலாம்.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
