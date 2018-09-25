@@ -16,3 +16,4 @@ policy-BlockAboutAddons = Tiq'at rokem ri Runuk'samajel Chokoy (about:addons).
 policy-BlockAboutConfig = Tiq'at okem pa ri about:config ruxaq.
 policy-BlockAboutProfiles = Tiq'at okem pa ri about:profiles ruxaq.
 policy-BlockAboutSupport = Tiq'at okem pa ri about:support ruxaq.
+policy-Bookmarks = Ketz'uk taq yaketal pa ri Rukatz'ik yaketal. pa ri Ruk'utsamaj yaketal o pa jun kiyakwuj.
