@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " ваші:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "завантаження">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "закладки">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "скопійований текст">
 <!ENTITY aboutPrivateBrowsing.note.before                "Приватний перегляд ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "не робить вас анонімним">
 <!ENTITY aboutPrivateBrowsing.note.after                 " в Інтернеті. Ваш роботодавець чи постачальник послуг Інтернету все одно може дізнатися про відвідані вами сторінки.">

@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "Безпечний режим — це спеціальний режим роботи  &brandShortName;, призначений для вирішення проблем.">
 <!ENTITY safeModeDescription4.label   "Ваші додатки та налаштування будуть тимчасово вимкнені.">
 
+<!ENTITY safeModeDescription5.label   "Ваші додатки і власні налаштування будуть тимчасово вимкнені, а також можуть не працювати функції &brandShortName;, які зараз працюють.">
+
 <!ENTITY refreshProfileInstead.label  "Ви також можете пропустити виявлення проблем і спробувати відновити &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
