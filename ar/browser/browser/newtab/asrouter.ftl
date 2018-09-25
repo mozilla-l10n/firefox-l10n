@@ -7,8 +7,8 @@ cfr-doorhanger-extension-sumo-link =
     .tooltiptext = لماذا أرى هذا
 cfr-doorhanger-extension-cancel-button = ليس الآن
     .accesskey = ل
-cfr-doorhanger-extension-ok-button = أضف الآن
-    .accesskey = أ
+cfr-doorhanger-extension-ok-button = أضِف الآن
+    .accesskey = ض
 cfr-doorhanger-extension-learn-more-link = اطّلع على المزيد
 # This string is used on a new line below the add-on name
 # Variables:
