@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-blocklist-desc = अहाँ चुनि सकैत छी कि फाॅयरफ़ाॅक्स कोन सूची प्रयोग करत वेब तत्व केँ ब्लाॅक करए कलेल जो कि अहाँ ब्राउसिंग गतिविधि केँ ट्रैक कए सकैत अछि.
+blocklist-desc = अहाँ चुनि सकैत छी जे फाॅयरफ़ाॅक्स कोन सूची प्रयोग करत { -brand-short-name } वेब तत्व केँ ब्लाॅक करए कलेल जे कि अहाँ ब्राउजिंग गतिविधि केँ ट्रैक कए सकैत अछि.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =

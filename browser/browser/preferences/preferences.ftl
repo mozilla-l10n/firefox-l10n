@@ -5,7 +5,7 @@
 do-not-track-description = जँ अहाँ ट्रैक हए सँ बचए चाहैत छी तँ वेबसाइट केँ “Do Not Track” सिग्नल भेजू
 do-not-track-learn-more = बेसी जानू
 do-not-track-option-default =
-    .label = केवल ट्रैकिंग सँ बचाव खातिर 
+    .label = केवल ट्रैकिंग सँ बचाव खातिर
 do-not-track-option-always =
     .label = हरदम
 pref-page =
@@ -31,7 +31,7 @@ help-button-label = { -brand-short-name } समर्थन
 focus-search =
     .key = f
 close-button =
-    .aria-label = बन्न करू 
+    .aria-label = बन्न करू
 
 ## Browser Restart Dialog
 
@@ -40,6 +40,17 @@ feature-disable-requires-restart = { -brand-short-name } केँ ई फीच
 should-restart-title = { -brand-short-name } फेर आरंभ करू
 should-restart-ok = { -brand-short-name } केँ अखन फेर आरंभ करू
 restart-later = कनि काल मे फेर सँ शुरू करू
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -51,11 +62,9 @@ startup-header = आरंभन
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = { -brand-short-name } आओर फ़ायरफ़ॉक्स केँ एक्के समय मे चलबाक लेल स्वीकारू
-use-firefox-sync = संकेत: ई अलग प्रोफाइलक उपयोग करैत अछि. हुनकर बीच आँकड़ा साझा करबाक लेल सिंक क उपयोग करू.
+use-firefox-sync = संकेत: ई अलग प्रोफाइलक उपयोग करैत अछि. हुनकर बीच आँकड़ा साझा करए कलेल { -sync-brand-short-name } क उपयोग करू.
 is-default = { -brand-short-name } अखन अहाँक तयशुदा ब्राउजर अछि
 is-not-default = { -brand-short-name } अखन अहाँक तयशुदा ब्राउजर अछि
-startup-blank-page =
-    .label = एकटा खाली पृष्ठ देखाउ
 tabs-group-header = टैब
 show-tabs-in-taskbar =
     .label = विंडो कार्यपट्टी मे टैब पूर्वावलोकन देखाउ
@@ -70,7 +79,7 @@ advanced-fonts =
 colors-settings =
     .label = रंग…
     .accesskey = C
-choose-language-description = अपन पसंदीदा भाषा पृष्ठ केँ देखाबैक लेल करू 
+choose-language-description = अपन पसंदीदा भाषा पृष्ठ केँ देखाबैक लेल करू
 choose-button =
     .label = चुनू…
     .accesskey = o
@@ -115,20 +124,20 @@ update-application-use-service =
 ## General Section - Performance
 
 performance-allow-hw-accel =
-    .label = उपलब्ध हए पर हार्ड त्वरण क उपयोग  करू 
+    .label = उपलब्ध हए पर हार्ड त्वरण क उपयोग  करू
     .accesskey = r
 
 ## General Section - Browsing
 
 browsing-title = ब्राउजिंग
 browsing-use-autoscroll =
-    .label = स्वतः स्क्रालिंगक प्रयोग  करू 
+    .label = स्वतः स्क्रालिंगक प्रयोग  करू
     .accesskey = a
 browsing-use-smooth-scrolling =
-    .label = सुगम स्क्रालिंगक प्रयोग  करू 
+    .label = सुगम स्क्रालिंगक प्रयोग  करू
     .accesskey = m
 browsing-use-cursor-navigation =
-    .label = पृष्ठक अंदर संचरणक लेल हरदम कर्सरक प्रयोग करू 
+    .label = पृष्ठक अंदर संचरणक लेल हरदम कर्सरक प्रयोग करू
     .accesskey = c
 
 ## General Section - Proxy
@@ -149,16 +158,13 @@ network-proxy-connection-settings =
 use-current-pages =
     .label =
         { $tabCount ->
-            [1] मोजुदा पृष्ठक प्रयोग  करू 
-           *[other] मोजुदा पृष्ठक प्रयोग  करू 
+            [1] मोजुदा पृष्ठक प्रयोग  करू
+           *[other] मोजुदा पृष्ठक प्रयोग  करू
         }
     .accesskey = C
 choose-bookmark =
     .label = पुस्तकचिह्नक प्रयोग करू…
     .accesskey = B
-restore-default =
-    .label = पूर्वनिर्धारित मे फेर जमा  करू 
-    .accesskey = R
 
 ## Search Section
 
@@ -238,9 +244,6 @@ history-dontremember-description = { -brand-short-name } निज ब्रा�
 history-private-browsing-permanent =
     .label = हमेशा निज ब्राउजिंग विधिक उपयोग करू
     .accesskey = p
-history-remember-option =
-    .label = हमर ब्राउजिंग आओर डाउनलोड इतिहास याद राखू
-    .accesskey = b
 history-remember-search-option =
     .label = खोज आओर फार्म इतिहास याद राखू
     .accesskey = f
@@ -269,6 +272,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = टैब खोलू
     .accesskey = O
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
