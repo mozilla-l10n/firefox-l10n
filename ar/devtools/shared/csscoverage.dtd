@@ -6,6 +6,10 @@
    - strings. See the 'csscoverage' command for more information, and
    - devtools/client/styleeditor/styleeditor.xul for context -->
 
+<!-- LOCALIZATION NOTE : FILE This file contains the CSS Coverage Report
+   - strings. See the 'csscoverage' command for more information, and
+   - devtools/client/styleeditor/index.xul for context -->
+
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
    - keep it in English, or another language commonly spoken among web developers.
    - You want to make that choice consistent across the developer tools.
@@ -41,3 +45,4 @@
   -  csscoverage.footer3, csscoverage.footer4): The text displayed at the
   -  bottom of the page, with 2a being the URL opened when the link text in 3
   -  is clicked -->
+<!ENTITY csscoverage.footer1 "شاهد">

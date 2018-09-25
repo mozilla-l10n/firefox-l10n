@@ -5,11 +5,18 @@
 cfr-doorhanger-extension-heading = الامتدادات المقترحة
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = لماذا أرى هذا
+cfr-doorhanger-extension-cancel-button = ليس الآن
+    .accesskey = ل
+cfr-doorhanger-extension-ok-button = أضف الآن
+    .accesskey = أ
 cfr-doorhanger-extension-learn-more-link = اطّلع على المزيد
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = من { $name }
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-extension-notification = توصية
 
 ## Add-on statistics
 ## These strings are used to display the total number of
