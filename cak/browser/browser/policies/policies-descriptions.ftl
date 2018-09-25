@@ -18,3 +18,7 @@ policy-BlockAboutProfiles = Tiq'at okem pa ri about:profiles ruxaq.
 policy-BlockAboutSupport = Tiq'at okem pa ri about:support ruxaq.
 policy-Bookmarks = Ketz'uk taq yaketal pa ri Rukatz'ik yaketal. pa ri Ruk'utsamaj yaketal o pa jun kiyakwuj.
 policy-Certificates = Ye'okisäx o man ye'okisäx ta iqitzijib'äl etz'aqatisan pa cholajil. Re na'ojil re' xa xe pa ri Windows wakami.
+policy-Cookies = Niya' o man niya' ta q'ij chi ke ri ajk'amaya'l taq ruxaq richin nikijikib'a' taq kaxlanwäy.
+policy-DisableAppUpdate = Man tiya' q'ij richin nuk'ëx ri' ri okik'amaya'l.
+policy-DisableBuiltinPDFViewer = Tichup PDF.js, ri tz'etöy PDF pa { -brand-short-name }.
+policy-DisableDeveloperTools = Tiq'at okem pa ri kisamajib'al b'anonela'.
