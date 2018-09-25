@@ -117,7 +117,7 @@
 <!ENTITY debuggerUI.searchToken.key       "F">
 <!ENTITY debuggerUI.searchToken.accesskey "ث">
 
-<!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
+<!-- LOCALIZATION NOTE (debuggerUI.searchGoToLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 <!ENTITY debuggerUI.searchGoToLine           "اذهب إلى سطر…">
 <!ENTITY debuggerUI.searchGoToLine.key       "L">
@@ -150,7 +150,7 @@
 <!ENTITY debuggerUI.seMenuCondBreak     "أضِف نقطة توقف شرطيّة">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
-<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+<!-- LOCALIZATION NOTE (debuggerUI.seEditMenuCondBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak     "حرر نقطة التوقف الشرطيّة">
 <!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
@@ -159,6 +159,7 @@
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.workers        "العمال">
 <!ENTITY debuggerUI.tabs.sources        "المصادر">
+<!ENTITY debuggerUI.tabs.traces         "التتبُعات">
 <!ENTITY debuggerUI.tabs.callstack      "مكدس الاستدعاء">
 <!ENTITY debuggerUI.tabs.variables      "المتغيّرات">
 <!ENTITY debuggerUI.tabs.events         "الأحداث">
@@ -173,7 +174,7 @@
 <!ENTITY debuggerUI.addWatch            "أضف تعبير مراقبة">
 <!ENTITY debuggerUI.addWatch.accesskey  "ق">
 
-<!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
+<!-- LOCALIZATION NOTE (debuggerUI.removeAllWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 <!ENTITY debuggerUI.removeAllWatch           "أزل كل تعبيرات المراقبة">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
