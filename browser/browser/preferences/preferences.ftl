@@ -743,7 +743,7 @@ permissions-a11y-privacy-link = Atre informaçioin
 ## Privacy Section - Data Collection
 
 collection-header = Acugeita dæti e uzo de { -brand-short-name }
-collection-description = Niatri çerchemmo de lasciâ a ti a decixon e de sarvase solo quello ch'o ne serve pe megiorâ { -brand-short-name } pe tutti. Niatri te domandiemo de longo o permisso primma de reçeive informaçioin personâ.
+collection-description = Niatri çerchemmo de lasciâ a ti a decixon se sarvâ e quello ch'o o ne serve solo pe megiorâ { -brand-short-name } pe tutti. Niatri te domandiemo de longo o permisso primma de reçeive informaçioin personâ.
 collection-privacy-notice = Informativa in sciâ privacy
 collection-health-report =
     .label = Permetti a { -brand-short-name } de mandâ dæti tecnichi e de interaçion a { -vendor-short-name }
