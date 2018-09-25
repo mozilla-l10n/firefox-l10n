@@ -600,12 +600,12 @@ sitedata-accept-cookies-option =
 sitedata-block-cookies-option =
     .label = Блокувати куки і дані (може призвести до пошкодження веб-сайтів)
     .accesskey = Б
-sitedata-keep-until = Зберігати доки
+sitedata-keep-until = Зберігати до
     .accesskey = г
 sitedata-keep-until-expire =
-    .label = Не завершиться термін дії
+    .label = Завершення терміну дії
 sitedata-keep-until-closed =
-    .label = { -brand-short-name } закрито
+    .label = Закриття { -brand-short-name }
 sitedata-accept-third-party-desc = Приймати сторонні куки і дані сайтів
     .accesskey = к
 sitedata-accept-third-party-always-option =
@@ -622,7 +622,7 @@ sitedata-disallow-cookies-option =
     .accesskey = Б
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Тип заблокованого
+sitedata-block-desc = Тип блокування
     .accesskey = и
 sitedata-block-trackers-option-recommended =
     .label = Сторонні елементи стеження (рекомендовано)
