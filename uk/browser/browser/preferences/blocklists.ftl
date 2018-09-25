@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Списки блокування
     .style = width: 58em
-blocklist-desc = Ви можете вибрати список, який буде використовувати { -brand-short-name } для блокування веб-елементів, що можуть відстежувати вашу діяльність в Інтернеті.
+blocklist-desc = Ви можете обрати список, який використовуватиме { -brand-short-name } для блокування веб-елементів, що можуть відстежувати вашу діяльність в Інтернеті.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
