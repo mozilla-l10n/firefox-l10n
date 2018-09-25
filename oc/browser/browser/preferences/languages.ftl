@@ -5,6 +5,9 @@
 languages-window =
     .title = Lengas
     .style = width: 30em
+webpage-languages-window =
+    .title = Paramètres de lenga de la pagina
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = De còps las paginas web son dins mai d'una lenga. Causissètz las lengas d'afichatge d'aquestas paginas web, per òrdre de preferéncia
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Paramètres de lenga de { -brand-short-name }
+    .style = width: 40em
