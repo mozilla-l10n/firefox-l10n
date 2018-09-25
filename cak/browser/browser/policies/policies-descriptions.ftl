@@ -17,3 +17,4 @@ policy-BlockAboutConfig = Tiq'at okem pa ri about:config ruxaq.
 policy-BlockAboutProfiles = Tiq'at okem pa ri about:profiles ruxaq.
 policy-BlockAboutSupport = Tiq'at okem pa ri about:support ruxaq.
 policy-Bookmarks = Ketz'uk taq yaketal pa ri Rukatz'ik yaketal. pa ri Ruk'utsamaj yaketal o pa jun kiyakwuj.
+policy-Certificates = Ye'okisäx o man ye'okisäx ta iqitzijib'äl etz'aqatisan pa cholajil. Re na'ojil re' xa xe pa ri Windows wakami.
