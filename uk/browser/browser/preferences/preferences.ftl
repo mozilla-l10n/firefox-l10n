@@ -123,7 +123,7 @@ startup-header = Запуск
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Дозволити { -brand-short-name } та Firefox виконуватись одночасно
-use-firefox-sync = Підказка: При цьому використовуються окремі профілі. Скористайтеся синхронізацією для обміну даними між ними.
+use-firefox-sync = Підказка: При цьому використовуються окремі профілі. Скористайтеся { -sync-brand-short-name[abl-lower] } для обміну даними між ними.
 get-started-not-logged-in = Увійти в Синхронізацію…
 get-started-configured = Відкрити налаштування Синхронізації
 always-check-default =
