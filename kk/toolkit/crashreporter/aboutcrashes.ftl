@@ -9,7 +9,12 @@ delete-confirm-description = Бұл әрекеттің нәтижесінде б
 crashes-unsubmitted-label = Құлау туралы жіберілмеген хабарламалар
 id-heading = Хабар идентификаторы
 date-crashed-heading = Құлаған күні
+submit-crash-button-label = Жіберу
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Сәтсіз
 crashes-submitted-label = Құлау туралы жіберілген хабарлар
 date-submitted-heading = Жіберу күні
+view-crash-button-label = Түрі
 no-reports-label = Құлау туралы ешбір хабар жіберілмеген.
 no-config-label = Бағдарлама құлау туралы хабарларға бапталмаған. <code>breakpad.reportURL</code> параметрін қою керек.
