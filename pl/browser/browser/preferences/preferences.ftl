@@ -629,6 +629,8 @@ do-not-track-description=Informuj witryny o preferencjach względem śledzenia 
 do-not-track-learn-more=Więcej informacji
 do-not-track-option-default=
   .label=tylko podczas używania ochrony przed śledzeniem
+do-not-track-option-default-content-blocking=
+  .label=gdy { -brand-short-name } blokuje wykryte elementy śledzące
 do-not-track-option-always=
   .label=zawsze
 
