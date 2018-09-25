@@ -32,4 +32,16 @@
     }
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name = Обліковий запис Firefox
+-fxaccount-brand-name =
+    {
+       *[nom] Обліковий запис Firefox
+        [nom-lower] обліковий запис Firefox
+        [gen] Облікового запису Firefox
+        [gen-lower] облікового запису Firefox
+        [dat] Обліковому запису Firefox
+        [dat-lower] обліковому запису Firefox
+        [acc] Обліковий запис Firefox
+        [acc-lower] обліковий запис Firefox
+        [abl] Обліковим записом Firefox
+        [abl-lower] обліковим записом Firefox
+    }
