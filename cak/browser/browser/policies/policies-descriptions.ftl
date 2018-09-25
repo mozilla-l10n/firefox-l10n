@@ -22,3 +22,4 @@ policy-Cookies = Niya' o man niya' ta q'ij chi ke ri ajk'amaya'l taq ruxaq richi
 policy-DisableAppUpdate = Man tiya' q'ij richin nuk'ëx ri' ri okik'amaya'l.
 policy-DisableBuiltinPDFViewer = Tichup PDF.js, ri tz'etöy PDF pa { -brand-short-name }.
 policy-DisableDeveloperTools = Tiq'at okem pa ri kisamajib'al b'anonela'.
+policy-DisableFeedbackCommands = Kechup taq nuk'uj richin yetaq taq tzijol pa ri ruk'utsamaj Tob'äl (Titaq Tzijol chuqa' Kesujüx Q'olonel taq Ruxaq).
