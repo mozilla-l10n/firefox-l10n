@@ -29,3 +29,7 @@ policy-DisableFirefoxScreenshots = Tichup ri rusamaj Firefox Screenshots.
 policy-DisableFirefoxStudies = Man tiya' q'ij chi ri { -brand-short-name } tib'än tijonïk.
 policy-DisableForgetButton = Tiq'at okem pa ri rupitz'b'al Timestäx.
 policy-DisableFormHistory = Man tinatäx ri runatab'al kanob'äl chuqa' taq nojwuj
+policy-DisableMasterPasswordCreation = We nitzij, man nitikïr ta nitz'uk jun ajtij ewan tzij.
+policy-DisablePocket = Tichup ri samaj richin yeyak taq ajk'amaya'l ruxaq pa Pocket.
+policy-DisablePrivateBrowsing = Tichup  ri Ichinan Okem pa K'amaya'l.
+policy-DisableProfileImport = Tichup ri runuk'uj k'utsamaj richin yejik' taq tzij pa ch'aqa' chik taq okik'amaya'l.
