@@ -23,3 +23,9 @@ policy-DisableAppUpdate = Man tiya' q'ij richin nuk'ëx ri' ri okik'amaya'l.
 policy-DisableBuiltinPDFViewer = Tichup PDF.js, ri tz'etöy PDF pa { -brand-short-name }.
 policy-DisableDeveloperTools = Tiq'at okem pa ri kisamajib'al b'anonela'.
 policy-DisableFeedbackCommands = Kechup taq nuk'uj richin yetaq taq tzijol pa ri ruk'utsamaj Tob'äl (Titaq Tzijol chuqa' Kesujüx Q'olonel taq Ruxaq).
+policy-DisableFirefoxAccounts = Tichup { -fxaccount-brand-name } samaj ruxe'el, chuqa' Sync.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Tichup ri rusamaj Firefox Screenshots.
+policy-DisableFirefoxStudies = Man tiya' q'ij chi ri { -brand-short-name } tib'än tijonïk.
+policy-DisableForgetButton = Tiq'at okem pa ri rupitz'b'al Timestäx.
+policy-DisableFormHistory = Man tinatäx ri runatab'al kanob'äl chuqa' taq nojwuj
