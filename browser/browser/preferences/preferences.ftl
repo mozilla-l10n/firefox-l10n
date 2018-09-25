@@ -319,6 +319,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy de ret
+network-settings-title = Paramètres ret
 network-proxy-connection-description = Configurar la biais de { -brand-short-name } de se connectar a Internet.
 network-proxy-connection-learn-more = Ne saber mai
 network-proxy-connection-settings =
@@ -557,9 +558,6 @@ history-dontremember-description = { -brand-short-name } utilizarà los meteisse
 history-private-browsing-permanent =
     .label = Utilizar totjorn lo mòde de navegacion privada
     .accesskey = p
-history-remember-option =
-    .label = Conservar l'istoric de navegacion e dels telecargaments
-    .accesskey = C
 history-remember-browser-option =
     .label = Servar l'istoric de navegacion e dels telecargaments
     .accesskey = i
@@ -621,10 +619,6 @@ sitedata-block-trackers-option =
     .label = Traçadors tèrces
 sitedata-block-unvisited-option =
     .label = Cookies dels sites web pas visitats
-sitedata-block-all-third-parties-option =
-    .label = Totes los cookies tèrces
-sitedata-block-always-option =
-    .label = Totes los cookies (unes sites pòdon quitar de foncionar)
 sitedata-clear =
     .label = Escafar de las donadas…
     .accesskey = s
@@ -667,26 +661,12 @@ content-blocking-toggle-label-on = ACTIU
 content-blocking-toggle-label-off = INACTIU
     .accesskey = I
 content-blocking-category-label = Seleccionar lo contengut de blocar
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Traçadors pesucs
+content-blocking-tracking-protection-option-always =
+    .label = Totjorn
     .accesskey = T
-content-blocking-fastblock-description = Bloca los contenguts tèrces que prenon mai de 5 segondas a cargar.
-content-blocking-fastblock-option-enabled =
-    .label = Totjorn blocar
-content-blocking-fastblock-option-disabled =
-    .label = Jamai blocar
-content-blocking-tracking-protection-label = Traçadors
-    .accesskey = T
-content-blocking-tracking-protection-description = Bloca totes los traçadors coneguts (remarca : auqò pòt empachar lo cargaments de certanas paginas).
-content-blocking-tracking-protection-option-enabled =
-    .label = Totjorn blocar
-content-blocking-tracking-protection-option-pbm =
-    .label = Blocar sonque en navegacion privada
-content-blocking-tracking-protection-option-disabled =
-    .label = Jamai blocar
-content-blocking-tracking-protection-change-blocklist = Cambiar la lista de blocatge…
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Traçadors
+    .accesskey = d
 
 ## Privacy Section - Tracking
 
