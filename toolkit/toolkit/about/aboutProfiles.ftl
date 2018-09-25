@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-title = 关于配置文件
-profiles-subtitle = 此页面有助您管理您的配置文件。每个配置文件都是一个独立的空间，其中存放着各自的历史记录、书签、设置及附加组件。
+profiles-subtitle = 此页面有助于您管理您的配置文件。每个配置文件都是一个独立的空间，其中存放着各自的历史记录、书签、设置及附加组件。
 profiles-create = 创建新配置文件
 profiles-restart-title = 重新打开
 profiles-restart-in-safe-mode = 重新打开并禁用附加组件…
