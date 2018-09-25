@@ -20,7 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " :">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Les téléchargements">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Les marque-pages">
-<!ENTITY aboutPrivateBrowsing.info.clipboard             "texte copié">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "Le texte copié">
 <!ENTITY aboutPrivateBrowsing.note.before                "La navigation privée ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ne vous rend pas anonyme">
 <!ENTITY aboutPrivateBrowsing.note.after                 " sur Internet. Votre fournisseur d’accès à Internet ou votre employeur peuvent toujours connaître les pages que vous visitez.">
