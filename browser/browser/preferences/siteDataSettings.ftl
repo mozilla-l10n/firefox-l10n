@@ -7,7 +7,7 @@
 
 site-data-settings-window =
     .title = Керувати куками й даними сайту
-site-data-settings-description = Наступні веб-сайти зберігають куки і дані сайтів на вашому комп'ютері. { -brand-short-name } зберігає дані для веб-сайтів з постійним сховищем, доки ви їх не видалите, і видаляє дані для веб-сайтів з непостійним сховищем, коли потрібно звільнити місце.
+site-data-settings-description = Зазначені тут веб-сайти зберігають куки і дані сайтів на вашому комп'ютері. { -brand-short-name } зберігає дані для веб-сайтів з постійним сховищем, доки ви їх не видалите, і видаляє дані для веб-сайтів з непостійним сховищем, коли потрібно звільнити місце.
 site-data-search-textbox =
     .placeholder = Пошук веб-сайтів
     .accesskey = П
@@ -42,8 +42,6 @@ site-data-remove-shown =
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Видалити
