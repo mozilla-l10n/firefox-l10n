@@ -11,3 +11,8 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Tiya' jun ichinan URL richin nik'ex ri chokoy.
+policy-Authentication = Tib'an runuk'ulem ri chijun jikib'an pa taq ajk'amaya'l ruxaq nikiya' q'ij.
+policy-BlockAboutAddons = Tiq'at rokem ri Runuk'samajel Chokoy (about:addons).
+policy-BlockAboutConfig = Tiq'at okem pa ri about:config ruxaq.
+policy-BlockAboutProfiles = Tiq'at okem pa ri about:profiles ruxaq.
+policy-BlockAboutSupport = Tiq'at okem pa ri about:support ruxaq.
