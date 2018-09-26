@@ -18,7 +18,7 @@
 <!ENTITY addOtherAccountButton.accesskey "у">
 <!ENTITY setDefaultButton.label "По подразбиране">
 <!ENTITY setDefaultButton.accesskey "П">
-<!ENTITY removeButton.label "Премахване на регистрацията">
+<!ENTITY removeButton.label "Премахване на сметка">
 <!ENTITY removeButton.accesskey "П">
 
 <!-- AccountManager.xul -->

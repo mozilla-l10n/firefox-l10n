@@ -24,7 +24,7 @@
 <!ENTITY migrating.label                "В момента се внасят следните елементи…">
 
 <!ENTITY selectProfile.title            "Избиране на профил">
-<!ENTITY selectProfile.label            "Налични са следните профили, от които може да се внесе:">
+<!ENTITY selectProfile.label            "Следните профили могат да бъдат внесени:">
 
 <!ENTITY done.title                     "Внасянето завършено">
-<!ENTITY done.label                     "Следните позиции бяха успешно внесени:">
+<!ENTITY done.label                     "Следните елементи са внесени успешно:">
