@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Subscriu-me a aquesta pàgina">
 <!ENTITY subscribeToPageMenuitem.label "Subscriu-me a la pàgina…">
+
 <!ENTITY addCurPagesCmd.label "Afegeix-hi totes les pestanyes…">
 <!ENTITY showAllBookmarks2.label "Mostra totes les adreces d'interès">
 <!ENTITY recentBookmarks.label "Afegides més recentment">
@@ -446,6 +447,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Gestiona l'extensió">
 <!ENTITY customizeMenu.manageExtension.accesskey "e">
+
+<!ENTITY customizeMenu.removeExtension.label "Elimina l'extensió">
+<!ENTITY customizeMenu.removeExtension.accesskey "l">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -933,6 +937,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.disabled.tooltip "Heu desactivat el bloqueig de contingut.">
 <!ENTITY contentBlocking.exception.tooltip "Heu desactivat el bloqueig de contingut en aquest lloc.">
 
+<!ENTITY contentBlocking.fastBlock.label "Elements de seguiment lents">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -945,6 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Activa el bloqueig…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Tots els elements de seguiment detectats">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1107,6 +1113,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Gestiona l'extensió…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Envia la pestanya al dispositiu">
+
 <!ENTITY sendToDevice.syncNotReady.label "S'estan sincronitzant els dispositius…">
 
 <!ENTITY pageAction.shareUrl.label "Comparteix">
