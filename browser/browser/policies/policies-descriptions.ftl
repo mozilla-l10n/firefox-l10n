@@ -33,6 +33,7 @@ policy-DisableMasterPasswordCreation = Si se activa, no se puede crear una contr
 policy-DisablePocket = Desactivar la función para guardar páginas web en Pocket.
 policy-DisablePrivateBrowsing = Desactivar la navegación privada.
 policy-DisableProfileImport = Desactivar el comando de menú para importar datos desde otro navegador.
+policy-DisableProfileRefresh = Desactivar el botón de Restablecer { -brand-short-name } en la página about:support.
 policy-DisableSafeMode = Desactivar la función para reiniciar en modo seguro. Nota: la tecla Mayús para acceder al modo seguro solo se puede desactivar en Windows usando las políticas de grupo del sistema.
 policy-DisableSecurityBypass = Evitar que el usuario se salte ciertas advertencias de seguridad.
 policy-DisableTelemetry = Desactivar Telemetry.
