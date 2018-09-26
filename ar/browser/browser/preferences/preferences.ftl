@@ -123,7 +123,7 @@ startup-header = البدء
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = اسمح بتشغيل { -brand-short-name } و فَيَرفُكس في نفس الوقت
-use-firefox-sync = فائدة: يستخدم هذا ملفات إعدادات مستقلة. استخدم «تزامن» لمشاركة البيانات بينهما.
+use-firefox-sync = فائدة: يستخدم هذا ملفات إعدادات مستقلة. استخدم { -sync-brand-short-name } لمشاركة البيانات بينهما.
 get-started-not-logged-in = لِج إلى { -sync-brand-short-name }…
 get-started-configured = افتح تفضيلات { -sync-brand-short-name }
 always-check-default =
@@ -808,7 +808,7 @@ collection-header = جمع { -brand-short-name } للبيانات و استخد
 collection-description = نبذل جهدنا لإعطائك الخيار و جمع ما نحتاجه فقط لتحسين { -brand-short-name }. نطلب الإذن دائمًا قبل استقبال أي معلومات شخصية.
 collection-privacy-notice = تنويه الخصوصية
 collection-health-report =
-    .label = اسمح أن يُرسل { -brand-short-name } بيانات تقنية و بيانات التفاعل إلى موزيلا
+    .label = اسمح أن يُرسل { -brand-short-name } بيانات تقنية و بيانات التفاعل إلى { -vendor-short-name }
     .accesskey = ح
 collection-health-report-link = اطّلع على المزيد
 collection-studies =
@@ -818,7 +818,7 @@ collection-studies-link = اعرض دراسات { -brand-short-name }
 # or builds with no Telemetry support available.
 collection-health-report-disabled = الإبلاغ عن البيانات معطّل في إعدادات البناء
 collection-browser-errors =
-    .label = اسمح بأن يُرسل { -brand-short-name } تقارير بأخطاء المتصفح (بما في ذلك رسائل الأخطاء) إلى موزيلا.
+    .label = اسمح بأن يُرسل { -brand-short-name } تقارير بأخطاء المتصفح (بما في ذلك رسائل الأخطاء) إلى { -vendor-short-name }.
     .accesskey = خ
 collection-browser-errors-link = اطّلع على المزيد
 collection-backlogged-crash-reports =

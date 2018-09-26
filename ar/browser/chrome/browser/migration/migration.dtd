@@ -30,7 +30,7 @@
 <!ENTITY importFromFirefox.label        "فَيَرفُكس">
 <!ENTITY importFromFirefox.accesskey    "ف">
 <!ENTITY importFrom360se.label          "متصفح ٣٦٠ الآمن">
-<!ENTITY importFrom360se.accesskey      "٣">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "لم يُعثر على أي برامج تحتوي على بيانات أو علامات أو تأريخ أو كلمات سرّ.">
 

@@ -5,7 +5,7 @@
 blocklist-window =
     .title = قوائم الحجب
     .style = width: 55em
-blocklist-desc = يمكنك اختيار أيّة قائمة سيستخدمها فَيَرفُكس لحجب عناصر الوِب التي قد تتعقّب نشاط التصفح.
+blocklist-desc = يمكنك اختيار أيّة قائمة سيستخدمها { -brand-short-name } لحجب عناصر الوِب التي قد تتعقّب نشاط التصفح.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
