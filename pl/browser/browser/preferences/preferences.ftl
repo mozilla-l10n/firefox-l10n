@@ -156,6 +156,9 @@ colors-settings =
 
 language-header = Język
 choose-browser-language-description=Wybierz język używany do wyświetlania interfejsu użytkownika programu (menu, wiadomości, powiadomienia itp.).
+manage-browser-languages-button=
+  .label=Wybierz alternatywne…
+  .accesskey=W
 confirm-browser-language-change-description=Uruchom przeglądarkę ponownie, aby zastosować zmiany.
 confirm-browser-language-change-button=Uruchom ponownie
 choose-language-description = Wybierz preferowany język, w jakim mają być wyświetlane strony
