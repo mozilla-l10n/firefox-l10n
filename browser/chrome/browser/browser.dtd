@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Berlangganan Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Berlangganan Laman Ini…">
+
 <!ENTITY addCurPagesCmd.label "Markahi Semua Tab…">
 <!ENTITY showAllBookmarks2.label "Tampilkan Semua Markah…">
 <!ENTITY recentBookmarks.label "Baru Saja Dibuat Markah">
@@ -446,6 +447,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Kelola Ekstensi">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
+
+<!ENTITY customizeMenu.removeExtension.label "Hapus Ekstensi">
+<!ENTITY customizeMenu.removeExtension.accesskey "h">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -1110,6 +1114,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Kelola Ekstensi…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Kirim Tab ke Peranti">
+
 <!ENTITY sendToDevice.syncNotReady.label "Menyinkronkan Peranti…">
 
 <!ENTITY pageAction.shareUrl.label "Bagikan">
