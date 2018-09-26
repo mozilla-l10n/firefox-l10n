@@ -652,6 +652,7 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Stlmiť">
 <!ENTITY mediaMute.accesskey         "m">
+<!ENTITY mediaUnmute.label           "Zapnúť zvuk">
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.label     "Rýchlosť prehrávania">
 <!ENTITY mediaPlaybackRate2.accesskey "c">

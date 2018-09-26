@@ -5,6 +5,7 @@
 <!ENTITY playButton.playLabel "Prehrať">
 <!ENTITY playButton.pauseLabel "Pozastaviť">
 <!ENTITY muteButton.muteLabel "Stlmiť">
+<!ENTITY muteButton.unmuteLabel "Zapnúť zvuk">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Na celú obrazovku">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Ukončiť režim Na celú obrazovku">
 <!ENTITY castingButton.castingLabel "Prehrať na obrazovke">
