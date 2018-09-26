@@ -68,8 +68,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "у">
 <!ENTITY  sendLinkToDevice.label             "Изпращане на препратката до устройство">
 <!ENTITY  sendLinkToDevice.accesskey         "у">
-<!ENTITY  sendToDeviceFeedback.label         "Изпратено!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "На опашката (без мрежа)">
 <!ENTITY  moveToNewWindow.label              "Преместване в нов прозорец">
 <!ENTITY  moveToNewWindow.accesskey          "н">
 <!ENTITY  reopenInContainer.label            "Отваряне в изолатор">
@@ -201,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Абониране за страницата">
 <!ENTITY subscribeToPageMenuitem.label "Абониране за страницата…">
+
 <!ENTITY addCurPagesCmd.label "Отмятане на всички раздели…">
 <!ENTITY showAllBookmarks2.label "Показване на всички отметки">
 <!ENTITY recentBookmarks.label "Последни отметки">
@@ -268,7 +267,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Начало">
-
 <!ENTITY homeButton.defaultPage.tooltip "Начална страница на &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Отметки">
@@ -428,23 +426,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Добавяне към лентата с инструменти">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
-<!ENTITY customizeMenu.addToPanel.label "Добавяне към меню">
-<!ENTITY customizeMenu.addToPanel.accesskey "м">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Добавяне към допълнителното меню">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "д">
-<!ENTITY customizeMenu.moveToToolbar.label "Преместване в лента с инструменти">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "П">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Преместване в меню">
-<!ENTITY customizeMenu.moveToPanel.accesskey "м">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -454,15 +441,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "д">
 <!ENTITY customizeMenu.removeFromToolbar.label "Премахване от лентата с инструменти">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "П">
-<!ENTITY customizeMenu.removeFromMenu.label "Премахване от меню">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "П">
 <!ENTITY customizeMenu.addMoreItems.label "Добавяне на още елементи…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Д">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Автоматично скриване от лентата">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "А">
 <!ENTITY customizeMenu.manageExtension.label "Управление на добавката">
 <!ENTITY customizeMenu.manageExtension.accesskey "д">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -604,7 +589,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Отмятане на рамката">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
 <!ENTITY pageAction.copyLink.label    "Копиране на препратката">
-<!ENTITY copyURLFeedback.label        "Копирана!">
 <!ENTITY emailPageCmd.label           "Препратка по имейл…">
 <!ENTITY emailPageCmd.accesskey       "е">
 <!ENTITY savePageCmd.label            "Запазване като…">
@@ -791,7 +775,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "25em">
 <!ENTITY editBookmark.done.label                     "Готово">
-<!ENTITY editBookmark.removeBookmark.accessKey       "П">
 
 <!ENTITY editBookmark.showForNewBookmarks.label       "Показване на диалога при запазване">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "п">
@@ -842,7 +825,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Права">
 <!ENTITY identity.permissionsEmpty "Не сте дали специфични права на този сайт.">
 <!ENTITY identity.permissionsReloadHint "За да бъдат приложени промените може да се наложи да презаредите страницата.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "Отваряне настройките на права">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -966,10 +948,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Спиране…">
 
-<!ENTITY contentBlocking.trackingProtection.label "Проследявания">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
-     ON and is successfully blocking malicious/slow content, so this is
+     ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Спрени">
@@ -979,33 +960,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Спиране…">
 
-<!ENTITY contentBlocking.openBreakageReportView.label "Докладване на проблем">
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
 <!ENTITY contentBlocking.breakageReportView.label "Докладване на проблем">
-<!ENTITY contentBlocking.breakageReportView.description "Ограничаването на съдържание може да доведе до проблеми с някои страници. Докладвайки за такъв проблем помагате на &brandShortName; да стане по-добър за всички. (До Mozilla ще бъдат изпратени адресът, както и настройките на поверителност и ограничаване на съдържание.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Научете повече">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Адрес">
-<!ENTITY contentBlocking.breakageReportView.collection.userAgent.label "Издание на &brandShortName;">
-<!ENTITY contentBlocking.breakageReportView.collection.comments.label "С какъв проблем се сблъскахте? (По желание)">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "С какъв проблем се сблъскахте? (по желание)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Докладване">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Отказ">
 
 <!ENTITY trackingProtection.title "Защита от проследяване">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; изключва елементи от страницата, които е възможно да следят поведението ви онлайн.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Този сайт включва елементи, които биха могли да проследяват вашето браузване. Защитата от проследяване е изключена.">
-<!ENTITY trackingProtection.notDetected3 "На страницата не са открити проследяващи елементи.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Изключване на защитата за страницата">
-<!ENTITY trackingProtection.unblock.accesskey "И">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Изключване на защитата за сесията">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "с">
-<!ENTITY trackingProtection.block2.label "Включване на защита">
-<!ENTITY trackingProtection.block2.accesskey "В">
-
 <!ENTITY trackingProtection.tooltip "Отваряне на настройките за защита от проследяване">
 <!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; изключва елементи от страницата, които е възможно да следят поведението ви онлайн.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; открива елементи, които е възможно да следят поведението ви онлайн.">
@@ -1134,6 +1106,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Управление на добавката…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Изпращане на раздела до устройство">
+
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизиране на устройства…">
 
 <!ENTITY pageAction.shareUrl.label "Споделяне">
