@@ -615,7 +615,7 @@ sitedata-allow-cookies-option =
     .label = ფუნთუშებისა და საიტის მონაცემები მიღება
     .accesskey = ღ
 sitedata-disallow-cookies-option =
-    .label = ფუნთუშები და საიტის მონაცემების შეზღუდვა
+    .label = ფუნთუშებისა და საიტის მონაცემების შეზღუდვა
     .accesskey = ზ
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
