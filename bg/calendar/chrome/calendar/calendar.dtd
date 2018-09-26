@@ -172,12 +172,14 @@
 <!ENTITY calendar.context.copyevent.accesskey         "К">
 <!ENTITY calendar.context.pasteevent.label            "Поставяне">
 <!ENTITY calendar.context.pasteevent.accesskey        "в">
-<!ENTITY calendar.context.button.label                "Дневен график" >
-<!ENTITY calendar.context.button.accesskey            "в" >
-<!ENTITY calendar.context.attendance.menu.label       "Присъствие" >
-<!ENTITY calendar.context.attendance.menu.accesskey   "с" >
-<!ENTITY calendar.context.attendance.occurrence.label "Това повторение" >
-<!ENTITY calendar.context.attendance.all.label        "Всички повторения" >
+<!ENTITY calendar.context.button.label                "Дневен график">
+<!ENTITY calendar.context.button.accesskey            "в">
+
+<!ENTITY calendar.context.attendance.menu.label                 "Присъствие">
+<!ENTITY calendar.context.attendance.menu.accesskey             "с">
+<!ENTITY calendar.context.attendance.occurrence.label           "Това повторение">
+
+
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Напредък">
@@ -219,7 +221,7 @@
 <!ENTITY calendar.context.postpone.1week.label      "1 седмица">
 <!ENTITY calendar.context.postpone.1week.accesskey  "с">
 
-<!ENTITY calendar.copylink.label       "Копиране адреса на връзката">
+<!ENTITY calendar.copylink.label       "Копиране на препратката">
 <!ENTITY calendar.copylink.accesskey   "К">
 
 <!-- Task View -->
