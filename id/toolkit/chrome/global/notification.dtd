@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Oke!">
 <!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "Tindakan lainnya">

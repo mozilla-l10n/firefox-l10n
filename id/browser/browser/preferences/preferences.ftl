@@ -676,7 +676,15 @@ content-blocking-tracking-protection-option-private =
     .label = Hanya di jendela pribadi
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Ubah daftar blokir
+content-blocking-third-party-cookies-label =
+    .label = Kuki Pihak Ketiga
+    .accesskey = K
 content-blocking-reject-trackers-description = Blokir semua kuki pihak ketiga atau hanya yang diatur oleh pelacak.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Setelan Anda di Kuki dan Data Situs mencegah perubahan pada setelan Kuki Pihak Ketiga.
 content-blocking-change-cookie-settings =
     .label = Ubah Setelan Kuki
     .accesskey = U

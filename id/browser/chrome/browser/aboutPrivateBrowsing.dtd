@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " :">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "unduhan">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "markah">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "teks yang disalin">
 <!ENTITY aboutPrivateBrowsing.note.before                "Penjelajahan Pribadi ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "tidak membuat Anda menjadi anonim">
 <!ENTITY aboutPrivateBrowsing.note.after                 " di Internet. Kantor atau penyedia layanan jasa internet Anda mungkin tetap dapat mengetahui laman apa yang Anda kunjungi.">
