@@ -364,7 +364,7 @@
 
 <!ENTITY pref_media_autoplay_enabled "Автоматично изпълняване">
 <!ENTITY pref_media_autoplay_enabled_summary "Определя дали сайтовете да изпълняват автоматично видео и друга медия">
-<!ENTITY pref_media_autoplay_allow "Разрешаване на автоматично изпълняване">
+<!ENTITY pref_media_autoplay_allow "Автоматично изпълняване">
 <!ENTITY pref_media_autoplay_block "Забраняване на автоматично изпълняване">
 <!ENTITY pref_zoom_force_enabled "Мащабирането да е винаги включено">
 <!ENTITY pref_zoom_force_enabled_summary "Позволява мащабиране на всяка страница">
