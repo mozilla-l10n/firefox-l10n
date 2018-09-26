@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Підписатися на цю сторінку">
 <!ENTITY subscribeToPageMenuitem.label "Підписатися на цю сторінку…">
+
 <!ENTITY addCurPagesCmd.label "Закласти всі вкладки…">
 <!ENTITY showAllBookmarks2.label "Показати всі закладки">
 <!ENTITY recentBookmarks.label "Останні закладки">
@@ -446,6 +447,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "п">
 <!ENTITY customizeMenu.manageExtension.label "Керувати розширенням">
 <!ENTITY customizeMenu.manageExtension.accesskey "К">
+
+<!ENTITY customizeMenu.removeExtension.label "Вилучити розширення">
+<!ENTITY customizeMenu.removeExtension.accesskey "л">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -1110,6 +1114,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Керувати розширенням…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Відправити вкладку на пристрій">
+
 <!ENTITY sendToDevice.syncNotReady.label "Синхронізовані пристрої…">
 
 <!ENTITY pageAction.shareUrl.label "Поділитися">
