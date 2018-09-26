@@ -422,7 +422,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.sidebar.label "დასინქრონებული ჩანართების გვერდითი ზოლის ნახვა">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "სხვა მოწყობილობის დაკავშირება">
 
-<!ENTITY appMenuRecentHighlights.label "გამორჩეული სიახლეები">
+<!ENTITY appMenuRecentHighlights.label "ბოლო ცვლილებები">
 
 <!ENTITY customizeMenu.addToToolbar.label "ხელსაწყოთა ზოლში დამატება">
 <!ENTITY customizeMenu.addToToolbar.accesskey "დ">
