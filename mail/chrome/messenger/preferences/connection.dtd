@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "Тази настройка ще ви удостоверява без да потвърждение пред мрежови посредници, когато имате запазени данни за вход. Ще бъдете питани, ако удостоверяването се провали.">
 <!ENTITY  socksRemoteDNS.label          "Посредник за DNS при използване на SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
+<!ENTITY  dnsOverHttps.label            "Разрешаване на DNS през HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "р">
+<!ENTITY  dnsOverHttpsUrl.label         "Адрес">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "а">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "Адрес за запитване на DNS през HTTPS">
