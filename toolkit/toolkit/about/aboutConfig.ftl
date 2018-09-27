@@ -7,6 +7,9 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = Ова може да ја поништи вашата гаранција!
 config-about-warning-text = Менувањето на основните вредности на овие напредни поставки можат да бидат штетни за стабилноста, безбедноста и перформансите на оваа програма. Продолжете само ако знаете што правите.
 config-about-warning-checkbox =
     .label = Прикажи го ова предупредување и следниот пат
@@ -18,6 +21,8 @@ config-focus-search =
 
 ## These strings are used for column headers
 
+config-pref-column =
+    .label = Име на параметар
 config-lock-column =
     .label = Статус
 config-type-column =
@@ -62,10 +67,15 @@ config-string =
 config-integer =
     .label = Цел број
     .accesskey = р
+config-boolean =
+    .label = да/не
+    .accesskey = в
 config-default = основен
 config-locked = заклучен
 config-property-string = текст
 config-property-int = цел број
+config-property-bool = да/не
+config-new-prompt = Внесете го името на параметарот
 config-nan-title = Невалидна вредност
 config-nan-text = Текстот кој го внесовте не е број.
 # Variables:
