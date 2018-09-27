@@ -10,11 +10,14 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = ఇది మీ వారెంటీని పాడుచేస్తుంది!
+config-about-warning-text = ఈ ఉన్నత అమరికలను మార్చుట ఈ అనువర్తన స్థిరత్వానికీ, రక్షణకూ, పనితనానికీ హానికరం. ఏం చేస్తున్నారో మీకు ఖచ్చితంగా తెలిస్తేనే ముందుకువెళ్ళండి.
 config-search-prefs =
     .value = అన్వేషించు:
     .accesskey = r
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
