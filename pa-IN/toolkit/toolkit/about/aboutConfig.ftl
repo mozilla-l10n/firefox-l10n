@@ -10,6 +10,11 @@ config-about-warning-title =
     .value = ਇਸ ਨਾਲ ਵਾਰੰਟੀ ਖਤਮ ਹੋ ਸਕਦੀ ਹੈ!
 config-about-warning-checkbox =
     .label = ਮੈਨੂੰ ਚੇਤਾਵਨੀ ਅਗਲੀ ਵਾਰ ਵੀ ਵੇਖਾਓ
+config-search-prefs =
+    .value = ਖੋਜ:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -35,6 +40,9 @@ config-copy-pref =
     .key = C
     .label = ਕਾਪੀ ਕਰੋ
     .accesskey = C
+config-toggle =
+    .label = ਬਦਲੋ
+    .accesskey = T
 config-reset =
     .label = ਮੁੜ-ਸੈੱਟ
     .accesskey = R
@@ -47,12 +55,17 @@ config-string =
 config-integer =
     .label = ਪੂਰਨ ਅੰਕ
     .accesskey = I
+config-boolean =
+    .label = ਬੂਲੀਅਨ
+    .accesskey = B
 config-default = ਡਿਫਾਲਟ
 config-locked = ਲਾਕ ਕੀਤਾ
 config-property-string = ਲਾਈਨ
 config-property-int = ਪੂਰਨ ਅੰਕ
 config-property-bool = ਬੂਲੀਅਨ
 config-new-prompt = ਪਸੰਦੀਦਾ ਨਾਂ ਦਿਓ
+config-nan-title = ਗਲਤ ਮੁੱਲ
+config-nan-text = ਤੁਹਾਡੇ ਵਲੋਂ ਦਿੱਤਾ ਟੈਕਸਟ ਨੰਬਰ ਨਹੀਂ ਹੈ।
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = ਨਵਾਂ { $type } ਮੁੱਲ
