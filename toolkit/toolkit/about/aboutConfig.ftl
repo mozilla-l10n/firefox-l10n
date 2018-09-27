@@ -10,8 +10,14 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Ini mungkin membatalkan jaminan anda!
+config-about-warning-text = Mengubah tetapan lanjutan ini boleh membahayakan kestabilan, keselamatan dan  prestasi aplikasi. Hanya teruskan jika anda pasti apa yang anda sedang lakukan.
 config-about-warning-button =
     .label = Saya terima risikonya!
+config-about-warning-checkbox =
+    .label = Papar amaran ini pada waktu lain
+config-search-prefs =
+    .value = Cari:
+    .accesskey = r
 config-focus-search =
     .key = r
 config-focus-search-2 =
@@ -30,6 +36,8 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Klik untuk susun
 config-column-chooser =
     .tooltip = Klik untuk pilih kolum dipapar
 
@@ -38,13 +46,22 @@ config-column-chooser =
 config-copy-name =
     .label = Salin Nama
     .accesskey = N
+config-toggle =
+    .label = Togol
+    .accesskey = T
+config-string =
+    .label = String
+    .accesskey = S
 config-integer =
     .label = Integer
     .accesskey = I
 config-boolean =
     .label = Boolean
     .accesskey = B
+config-default = piawai
+config-modified = diubah
 config-locked = dikunci
+config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
 config-new-prompt = Masukkan nama keutamaan
