@@ -74,5 +74,17 @@ config-integer =
 config-boolean =
     .label = Lógico
     .accesskey = g
+config-default = predeterminado
+config-locked = bloqueado
+config-property-string = string
+config-property-int = integer
+config-property-bool = boolean
+config-new-prompt = Ingrese el nombre de preferencia
 config-nan-title = Valor no válido
 config-nan-text = El texto ingresado no es un número.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Nuevo valor de { $type }
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Ingrese el valor { $type }
