@@ -13,6 +13,11 @@ config-about-warning-title =
 config-about-warning-text = Změna některých hodnot v tomto rozšířeném nastavení může mít špatný vliv na stabilitu, bezpečnost a výkonnost této aplikace. Je doporučováno pokračovat pouze pokud víte, co děláte.
 config-about-warning-checkbox =
     .label = Zobrazit příště toto varování
+config-search-prefs =
+    .value = Hledat:
+    .accesskey = H
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
