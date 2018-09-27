@@ -75,5 +75,17 @@ config-boolean =
     .label = Boolean
     .accesskey = B
 config-default = default
+config-modified = binago
+config-locked = naka-lock
+config-property-string = string
+config-property-int = integer
+config-property-bool = boolean
 config-new-prompt = Ilagay ang pangalan na iyong kagustuhan
+config-nan-title = Di-wastong halaga
 config-nan-text = Ang tekstong iyong inilagay ay hindi isang numero.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Bagong { $type } halaga
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Ipasok ang { $type } na halaga
