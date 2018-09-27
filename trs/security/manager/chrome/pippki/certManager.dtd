@@ -1,0 +1,48 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY certmgr.tab.others2                  "Guìi">
+<!ENTITY certmgr.tab.websites3                "Servidor">
+
+
+<!ENTITY certmgr.detail.general_tab.title     "Da'ua nguéj">
+<!ENTITY certmgr.detail.general_tab.accesskey "G">
+<!ENTITY certmgr.detail.prettyprint_tab.title "A'ngô nej sa nika">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
+
+
+
+
+
+<!ENTITY certmgr.close.label                  "Narán">
+<!ENTITY certmgr.close.accesskey              "C">
+<!ENTITY certmgr.view2.label                  "Gini'iaj…">
+<!ENTITY certmgr.view2.accesskey              "V">
+<!ENTITY certmgr.edit3.label                  "Nagi'io'">
+<!ENTITY certmgr.edit3.accesskey              "E">
+<!ENTITY certmgr.export.label                 "Ga’nïnj gan’an a’ngô hiūj u…">
+<!ENTITY certmgr.export.accesskey             "x">
+<!ENTITY certmgr.delete2.label                "Dure'…">
+<!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.backup2.label                "Gachra so'...">
+<!ENTITY certmgr.backup2.accesskey            "B">
+<!ENTITY certmgr.backupall2.label             "Gachra so' dara'anj…">
+<!ENTITY certmgr.backupall2.accesskey         "k">
+<!ENTITY certmgr.restore2.label               "Ga’nïnj gan’an a’ngô hiūj u…">
+<!ENTITY certmgr.restore2.accesskey           "m">
+<!ENTITY certmgr.details.accesskey            "F">
+<!ENTITY certmgr.fields.accesskey             "V">
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
+<!ENTITY certmgr.addException.label           "Nitaj ama na'nìn' na ma...">
+<!ENTITY certmgr.addException.accesskey       "x">
+
+<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
+<!ENTITY exceptionMgr.certlocation.caption2   "Servidor">
+<!ENTITY exceptionMgr.certlocation.url        "Dane' huin:">
+<!ENTITY exceptionMgr.certlocation.accesskey  "G">
+<!ENTITY exceptionMgr.certstatus.viewCert     "Gini'iaj…">
+<!ENTITY exceptionMgr.certstatus.accesskey    "V">
+<!ENTITY exceptionMgr.permanent.accesskey     "P">
