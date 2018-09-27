@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = ဒီအရာက သင့် အာမခံချက်ကို ပျက်ပြယ်စေနိုင်တယ်။
 config-about-warning-text = အဆင့်မြင့်တဲ့ အပြင်အဆင်များကို ပြောင်းလဲခြင်းဟာ ဒီလုပ်ငန်းသုံး ကိရိယာရဲ့ ကြံ့ခိုင်မှု၊ လုံခြုံမှုနဲ့ ဆောင်ရွတ်ချက်ကို အ​န္တရယ် ပြုနိုင်တယ်။ သင် ဘာလုပ်နေတယ် ဆိုတာ သေချာမှ သင်ဆက်သွားသင့်တယ်။
+config-about-warning-button =
+    .label = အကျိုးဆက်ကိုလက်ခံနိုင်ပါတယ်!
 config-about-warning-checkbox =
     .label = ဒီသတိပေးချက်ကို နောက်တခါ ဖေါ်ပြပါ
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = ရ
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
