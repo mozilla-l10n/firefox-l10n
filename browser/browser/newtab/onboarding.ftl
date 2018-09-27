@@ -17,6 +17,7 @@ onboarding-start-browsing-button-label = Böngészés megkezdése
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Privát böngészés
+onboarding-private-browsing-text = Böngésszen egyedül. A tartalomblokkolással ellátott privát böngészés blokkolja az online követőket, amelyek követik Önt a weben.
 onboarding-screenshots-title = Képernyőképek
 onboarding-screenshots-text = Készítsen, mentsen és osszon meg képernyőképeket – a { -brand-short-name } elhagyása nélkül. Rögzítsen egy területet vagy egy teljes lapot böngészés közben. Aztán mentse a webre a könnyű eléréshez és megosztáshoz.
 onboarding-addons-title = Kiegészítők
