@@ -10,6 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Kontuz, zure bermeak baliorik gabe gera daitezke!
+config-about-warning-text = Hobespen aurreratu hauek aldatzeak albo-kalteak sor ditzake aplikazioaren egonkortasun, segurtasun eta eraginkortasunean. Aurrera jarraitzekotan, egon zaitez ziur zertan zabiltzan.
 config-about-warning-button =
     .label = Arriskua onartzen dut!
 config-about-warning-checkbox =
