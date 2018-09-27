@@ -10,8 +10,14 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Kino kiyiza kuyitaku matekago!
+config-about-warning-text = Okukyusa enteegeka ezekika ekya wagulu kiyinza okuvamu akabbi ku butebenkevu, ebyokwerinda, ne'nkola ya pulogulamu eno. Weyongerayo bwoba wekakasa kyokola.
 config-about-warning-checkbox =
     .label = Langa akalabula kano edda
+config-search-prefs =
+    .value = Noonya:
+    .accesskey = n
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -26,6 +32,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Konako okutereeza
+config-column-chooser =
+    .tooltip = Koonako okulonda ebusimbalala obw'okulaga
 
 ## These strings are used for the context menu
 
@@ -66,6 +76,8 @@ config-property-string = ekigambo
 config-property-int = ennamba
 config-property-bool = biribiri
 config-new-prompt = Yingiza erinya lyokigwanyiza
+config-nan-title = Ekiyingiziddwa kiffu
+config-nan-text = Enyukuta zoyingiziza si namba.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Enamba ya { $type } empya
