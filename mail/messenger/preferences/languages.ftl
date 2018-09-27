@@ -19,3 +19,4 @@ languages-customize-add =
 messenger-languages-window =
     .title = Nastavitve jezikov { -brand-short-name }a
     .style = width: 40em
+messenger-languages-description = { -brand-short-name } bo privzeto prikazal prvi jezik, po potrebi pa pomožne jezike v navedenem vrstnem redu.
