@@ -76,6 +76,7 @@ config-property-int = àireamh shlàn
 config-property-bool = Booleach
 config-new-prompt = Cuir a-steach ainm na roghainn
 config-nan-title = Luach mì-dhligheach
+config-nan-text = Chan e àireamh a tha san teacsa a chuir thu a-steach.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Luach ùr { $type }
