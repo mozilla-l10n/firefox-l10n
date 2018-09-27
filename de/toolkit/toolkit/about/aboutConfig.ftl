@@ -13,6 +13,11 @@ config-about-warning-title =
 config-about-warning-text = Änderungen der Standardwerte dieser erweiterten Einstellungen können gefährlich für Stabilität, Sicherheit und Geschwindigkeit dieser Anwendung sein. Sie sollten nur fortfahren, wenn Sie genau wissen, was Sie tun.
 config-about-warning-checkbox =
     .label = Diese Meldung beim nächsten Mal anzeigen
+config-search-prefs =
+    .value = Suchen:
+    .accesskey = S
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
