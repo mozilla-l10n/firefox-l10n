@@ -75,6 +75,7 @@ config-boolean =
     .label = Boulean
     .accesskey = B
 config-default = diouer
+config-modified = kemmet
 config-locked = morailhet
 config-property-string = hedad
 config-property-int = kevan
