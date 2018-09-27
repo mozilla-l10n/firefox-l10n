@@ -7,6 +7,12 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = Attention, danger !
+config-about-warning-text = La modification de ces préférences avancées peut être dommageable pour la stabilité, la sécurité et les performances de cette application. Ne continuez que si vous savez ce que vous faites.
+config-about-warning-button =
+    .label = Je prends le risque
 config-about-warning-checkbox =
     .label = Afficher cet avertissement la prochaine fois
 config-search-prefs =
