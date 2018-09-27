@@ -17,3 +17,4 @@ onboarding-start-browsing-button-label = Mulakan Pelayaran
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Pelayaran Peribadi
+onboarding-private-browsing-text = Layar sendirian. Pelayaran Peribadi dengan Sekatan Kandungan menyekat penjejak atas talian yang menjejaki anda dalam seluruh web.
