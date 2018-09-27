@@ -7,12 +7,74 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = To lahko uniči vašo garancijo!
+config-about-warning-text = Spreminjanje teh naprednih nastavitev lahko vpliva na zanesljivost, varnost in učinkovitost tega programa. Nadaljujte samo v primeru, da ste prepričani v svoje početje.
+config-about-warning-checkbox =
+    .label = Naslednjič prikaži to opozorilo
+config-search-prefs =
+    .value = Iskanje:
+    .accesskey = I
 
 ## These strings are used for column headers
 
+config-pref-column =
+    .label = Ime nastavitve
+config-lock-column =
+    .label = Stanje
+config-type-column =
+    .label = Vrsta
+config-value-column =
+    .label = Vrednost
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Kliknite za razvrščanje
+config-column-chooser =
+    .tooltip = Kliknite za izbiro stolpcev za prikaz
 
 ## These strings are used for the context menu
 
+config-copy-name =
+    .label = Kopiraj ime
+    .accesskey = K
+config-copy-value =
+    .label = Kopiraj vrednost
+    .accesskey = V
+config-modify =
+    .label = Spremeni
+    .accesskey = M
+config-toggle =
+    .label = Preklopi
+    .accesskey = P
+config-reset =
+    .label = Ponastavi
+    .accesskey = N
+config-new =
+    .label = Novo
+    .accesskey = n
+config-string =
+    .label = Niz znakov
+    .accesskey = A
+config-integer =
+    .label = Celo število
+    .accesskey = I
+config-boolean =
+    .label = Logična vrednost
+    .accesskey = G
+config-default = privzeto
+config-locked = zaklenjeno
+config-property-string = niz znakov
+config-property-int = celo število
+config-property-bool = logična vrednost
+config-new-prompt = Vnesite ime nastavitve
+config-nan-title = Neveljavna vrednost
+config-nan-text = Vneseno besedilo ni številka.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Nova vrednost { $type }
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Vnos vrednosti { $type }
