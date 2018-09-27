@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = قد يلغي هذا ضمانك!
 config-about-warning-text = تغيير القيم المبدئية لهذه الإعدادات المتقدمة قد يضر بثبات وأمان وأداء التطبيق. يجب أن تواصِل فقط إذا كنت واثقا مما تفعل.
+config-about-warning-button =
+    .label = أقبل المخاطرة!
 config-about-warning-checkbox =
     .label = أظهر هذا التحذير في المرّة القادمة
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = ح
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -52,6 +56,9 @@ config-copy-value =
 config-modify =
     .label = عدِّل
     .accesskey = ع
+config-toggle =
+    .label = بدّل
+    .accesskey = ب
 config-reset =
     .label = صفّر
     .accesskey = ص
@@ -68,6 +75,7 @@ config-boolean =
     .label = عدد منطقي
     .accesskey = م
 config-default = المبدئي
+config-modified = معدّل
 config-locked = مُوصد
 config-property-string = نص
 config-property-int = عدد صحيح
