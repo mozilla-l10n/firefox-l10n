@@ -77,6 +77,7 @@ config-property-int = পূৰ্ণ সংখ্যা
 config-property-bool = বুলিয়েন
 config-new-prompt = পছন্দৰ নাম দিয়ক
 config-nan-title = অবৈধ মান
+config-nan-text = আপোনি সুমুৱা লিখনি এটা সংখ্যা নহয়।
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = নতুন { $type } মান
