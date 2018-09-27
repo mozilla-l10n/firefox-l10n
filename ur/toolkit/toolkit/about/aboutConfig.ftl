@@ -75,6 +75,7 @@ config-boolean =
     .label = بولیائی
     .accesskey = ب
 config-default = طے شدہ
+config-modified = ترميم شدہ
 config-locked = مقفل
 config-property-string = سلک
 config-property-int = integer
