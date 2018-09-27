@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Phần này có thể làm vô hiệu chế độ bảo hành!
 config-about-warning-text = Thay đổi những thiết lập nâng cao này có thể gây hại cho sự ổn định, bảo mật và tính năng của ứng dụng này. Bạn chỉ nên tiếp tục nếu bạn hoàn toàn chắc chắn về những gì mình đang làm.
+config-about-warning-button =
+    .label = Tôi chấp nhận rủi ro!
 config-about-warning-checkbox =
     .label = Hiện cảnh báo này vào lần sau
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = r
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -71,6 +75,7 @@ config-boolean =
     .label = Luận lí
     .accesskey = L
 config-default = mặc định
+config-modified = đã sửa
 config-locked = bị khóa
 config-property-string = chuỗi
 config-property-int = số nguyên
