@@ -9,6 +9,11 @@ config-window =
 
 config-about-warning-checkbox =
     .label = Паказваць гэтае папярэджанне наступным разам
+config-search-prefs =
+    .value = Пошук:
+    .accesskey = ш
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
