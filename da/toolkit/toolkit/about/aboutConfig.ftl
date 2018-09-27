@@ -71,6 +71,7 @@ config-boolean =
     .label = Boolsk værdi
     .accesskey = B
 config-default = standard
+config-modified = ændret
 config-locked = låst
 config-property-string = streng
 config-property-int = heltal
