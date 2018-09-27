@@ -13,6 +13,11 @@ config-about-warning-title =
 config-about-warning-text = Changing these advanced settings can be harmful to the stability, security, and performance of this application. You should only continue if you are sure of what you are doing.
 config-about-warning-checkbox =
     .label = Show this warning next time
+config-search-prefs =
+    .value = खोजू:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
