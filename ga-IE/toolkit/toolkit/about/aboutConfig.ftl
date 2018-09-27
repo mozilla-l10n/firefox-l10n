@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Fainic!  Seans go gcuirfidh tú do bharánta ar neamhní!
 config-about-warning-text = D'fhéadfadh athrú sna hardroghanna seo dochar a dhéanamh do chobhsaíocht, shlándáil agus fheidhmíocht an fheidhmchláir seo. Ná lean ar aghaidh muna bhfuil tú lánchinnte faoi cad tá á dhéanamh agat.
+config-about-warning-button =
+    .label = Tuigim an chontúirt!
 config-about-warning-checkbox =
     .label = Taispeáin an rabhadh seo an chéad uair eile
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = r
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -71,12 +75,17 @@ config-boolean =
     .label = Boole
     .accesskey = B
 config-default = réamhshocraithe
+config-modified = athraithe
 config-locked = faoi ghlas
 config-property-string = teaghrán
 config-property-int = slánuimhir
 config-property-bool = Boole
+config-new-prompt = Cuir isteach ainm na sainrogha
 config-nan-title = Luach neamhbhailí
 config-nan-text = Ní uimhir é an téacs a chuir tú isteach.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Luach nua { $type }
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Cuir isteach luach { $type }
