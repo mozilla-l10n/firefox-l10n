@@ -5,7 +5,9 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-try-now = Experimentar agora
 onboarding-welcome-header = Bem-vindo(a) ao { -brand-short-name }
+onboarding-start-browsing-button-label = Começar a navegar
 
 ## These strings belong to the individual onboarding messages.
 
@@ -19,5 +21,6 @@ onboarding-private-browsing-text = Navegue por si mesmo(a). A Navegação privad
 onboarding-screenshots-title = Capturas de ecrã
 onboarding-screenshots-text = Tire, guarde e partilhe capturas de ecrã - sem sair do { -brand-short-name }. Enquanto navega, capture uma região ou uma página inteira. Depois guarde na web para facilitar o acesso e a partilha.
 onboarding-addons-title = Extras
+onboarding-addons-text = Adicione ainda mais funcionalidades que fazem o { -brand-short-name } trabalhar mais para si. Compare preços, confira o tempo ou expresse a sua personalidade com um tema personalizado.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Navegue mais rápido, mais inteligentemente, ou com mais segurança com extensões como o Ghostery, que lhe permite bloquear anúncios irritantes.
