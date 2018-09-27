@@ -18,6 +18,8 @@ config-about-warning-checkbox =
 config-search-prefs =
     .value = Iskanje:
     .accesskey = I
+config-focus-search =
+    .key = r
 config-focus-search-2 =
     .key = f
 
@@ -41,6 +43,10 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Kopiraj
+    .accesskey = K
 config-copy-name =
     .label = Kopiraj ime
     .accesskey = K
