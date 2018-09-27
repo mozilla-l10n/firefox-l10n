@@ -16,6 +16,8 @@ config-about-warning-checkbox =
 config-search-prefs =
     .value = Iskanje:
     .accesskey = I
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
