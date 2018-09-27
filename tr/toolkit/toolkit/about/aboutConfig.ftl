@@ -33,6 +33,8 @@ config-reset =
 config-boolean =
     .label = Boolean
     .accesskey = B
+config-default = varsayılan
+config-locked = kilitli
 config-property-bool = boolean
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
