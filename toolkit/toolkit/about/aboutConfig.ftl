@@ -13,6 +13,9 @@ config-about-warning-title =
 config-about-warning-text = Om hierdie gevorderde instellings te verander, kan skadelik vir die stabiliteit, sekuriteit en werkverrigting van hierdie toepassing wees. U moet net voortgaan indien u seker is van wat u doen.
 config-about-warning-checkbox =
     .label = Wys volgende keer weer hierdie waarskuwing
+config-search-prefs =
+    .value = Soek:
+    .accesskey = o
 
 ## These strings are used for column headers
 
@@ -27,6 +30,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Kliek om te rangskik
+config-column-chooser =
+    .tooltip = Kliek om kolomme te kies wat vertoon moet word
 
 ## These strings are used for the context menu
 
@@ -64,6 +71,8 @@ config-property-string = string
 config-property-int = heelgetal
 config-property-bool = boolese
 config-new-prompt = Tik die voorkeurnaam in
+config-nan-title = Ongeldige waarde
+config-nan-text = Die teks wat u ingetik het, is nie 'n getal nie.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nuwe { $type }-waarde
