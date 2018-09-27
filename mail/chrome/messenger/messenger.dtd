@@ -865,6 +865,7 @@
 <!ENTITY contextPause.accesskey "P">
 <!ENTITY contextMute.label "Stlmiť">
 <!ENTITY contextMute.accesskey "m">
+<!ENTITY contextUnmute.label "Zapnúť zvuk">
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Quick Search Bar -->
