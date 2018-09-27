@@ -18,6 +18,8 @@ config-search-prefs =
     .accesskey = ស
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -48,6 +50,9 @@ config-copy-value =
 config-modify =
     .label = កែប្រែ
     .accesskey = M
+config-toggle =
+    .label = បិទ/បើក
+    .accesskey = T
 config-reset =
     .label = កំណត់​ឡើង​វិញ
     .accesskey = R
