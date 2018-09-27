@@ -31,6 +31,9 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-name =
+    .label = Salin Nama
+    .accesskey = N
 config-integer =
     .label = Integer
     .accesskey = I
