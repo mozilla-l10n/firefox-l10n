@@ -13,6 +13,11 @@ config-about-warning-title =
 config-about-warning-text = Ændring af disse indstillinger kan forringe dette programs stabilitet, sikkerhed og ydelse væsentligt. Du bør kun fortsætte, hvis du ved, hvad du gør.
 config-about-warning-checkbox =
     .label = Vis mig denne advarsel næste gang
+config-search-prefs =
+    .value = Søg:
+    .accesskey = s
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
