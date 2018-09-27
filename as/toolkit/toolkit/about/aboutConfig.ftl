@@ -7,6 +7,10 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = ইয়াৰ বাবে আপোনাৰ ৱাৰেন্টি নোহোৱা হব পাৰে!
+config-about-warning-text = এই উন্নত সংহতিসমূহ সলনি কৰাটো স্থিৰতা,সুৰক্ষা আৰু এই এপ্লিকেচনৰ কাৰ্য্যক্ষমতাৰ কাৰণে ক্ষতিকৰ হ'ব পাৰে। আপুনি যি কৰি আছে তাৰ বিষয়ে সুনিশ্চিত হৈ আগবাঢ়িব।
 config-about-warning-checkbox =
     .label = পিছৰ বাৰ এই সকিয়নি দেখুৱাব
 config-search-prefs =
@@ -35,19 +39,41 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = কপি কৰক
+    .accesskey = C
+config-copy-name =
+    .label = নাম কপি কৰক
+    .accesskey = N
+config-copy-value =
+    .label = মান কপি কৰক
+    .accesskey = V
 config-modify =
     .label = সলনি কৰক
     .accesskey = M
 config-toggle =
     .label = টগল কৰক
     .accesskey = T
+config-reset =
+    .label = পুনৰ সংহতি কৰক
+    .accesskey = R
 config-new =
     .label = নতুন
     .accesskey = w
+config-string =
+    .label = স্ট্ৰিং
+    .accesskey = S
+config-integer =
+    .label = পূৰ্ণ সংখ্যা
+    .accesskey = I
 config-boolean =
     .label = বুলিয়েন
     .accesskey = B
 config-default = অবিকল্পিত
+config-locked = বন্ধ কৰা আছে
+config-property-string = স্ট্ৰিং
+config-property-int = পূৰ্ণ সংখ্যা
 config-property-bool = বুলিয়েন
 config-new-prompt = পছন্দৰ নাম দিয়ক
 config-nan-title = অবৈধ মান
