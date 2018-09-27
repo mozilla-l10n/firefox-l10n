@@ -6,6 +6,8 @@ do-not-track-description = Enviar aos sites um sinal de “Não rastrear” info
 do-not-track-learn-more = Saiba mais
 do-not-track-option-default =
     .label = Somente quando usar a proteção contra rastreamento
+do-not-track-option-default-content-blocking =
+    .label = Apenas quando o { -brand-short-name } está configurado para bloquear rastreadores detectados
 do-not-track-option-always =
     .label = Sempre
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = Uma extensão requer abas contêiner: 
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Uma extensão, <img data-l10n-name="icon"/> { $name }, está controlando sua proteção contra rastreamento.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Uma extensão, <img data-l10n-name="icon"/> { $name }, está controlando esta configuração.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Uma extensão, <img data-l10n-name="icon"/> { $name }, está controlando como o { -brand-short-name } se conecta à Internet.
@@ -319,6 +324,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proxy de Rede
+network-settings-title = Configurações de rede
 network-proxy-connection-description = Configure como o { -brand-short-name } se conecta à Internet.
 network-proxy-connection-learn-more = Saiba mais
 network-proxy-connection-settings =
@@ -660,6 +666,12 @@ content-blocking-toggle-label-on = ATIVAR
 content-blocking-toggle-label-off = DESATIVAR
     .accesskey = D
 content-blocking-category-label = Escolher o que bloquear
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Rastreadores que atrasam o carregamento
+    .accesskey = a
 
 ## Privacy Section - Tracking
 
