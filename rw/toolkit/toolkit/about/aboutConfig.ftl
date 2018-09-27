@@ -61,4 +61,7 @@ config-property-bool = nyabule
 config-new-prompt = Kwinjiza izina ry'icyatoranyijwe
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
+config-new-title = Agaciro { $type } gashya{ " " }
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
 config-modify-title = Kwinjiza agaciro { $type }
