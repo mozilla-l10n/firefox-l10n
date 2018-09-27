@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Bu kafolatni buzishi mumkin!
 config-about-warning-text = Qoʻshimcha moslamalarni oʻzgartirish ushbu ilova dasturning ishonchliligi, xavfsizligi  va ishlashiga zarar yetkazishi mumkin. Agar nima qilayotganingizni aniq bilsangiz, davom ettiring.
+config-about-warning-button =
+    .label = Xavfga roziman!
 config-about-warning-checkbox =
     .label = Ushbu ogohlantirish keyingi safar koʻrsatilsin
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = I
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
