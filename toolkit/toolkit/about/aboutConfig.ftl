@@ -79,8 +79,12 @@ config-locked = bloqueada
 config-property-string = string
 config-property-int = inteiro
 config-property-bool = booleano
+config-new-prompt = Introduza o nome da preferência
 config-nan-title = Valor inválido
 config-nan-text = O texto que escreveu não é um número.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Novo valor { $type }
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Introduza o valor de { $type }
