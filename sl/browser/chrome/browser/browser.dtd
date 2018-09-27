@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Naroči se na to stran">
 <!ENTITY subscribeToPageMenuitem.label "Naroči se na to stran …">
+
 <!ENTITY addCurPagesCmd.label "Dodaj vse zavihke med zaznamke …">
 <!ENTITY showAllBookmarks2.label "Prikaži vse zaznamke">
 <!ENTITY recentBookmarks.label "Nedavni zaznamki">
@@ -646,8 +647,8 @@ context menu items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Predvajaj">
 <!ENTITY mediaPlay.accesskey         "v">
-<!ENTITY mediaPause.label            "Ustavi">
-<!ENTITY mediaPause.accesskey        "v">
+<!ENTITY mediaPause.label            "Premor">
+<!ENTITY mediaPause.accesskey        "o">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
