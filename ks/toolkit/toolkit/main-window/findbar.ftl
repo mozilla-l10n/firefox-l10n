@@ -6,9 +6,9 @@
 ### This file contains the entities needed to use the Find Bar.
 
 findbar-next =
-    .tooltiptext = جملُك بیٲكھ واقعئ ژئھنڈیو{ " " }
+    .tooltiptext = جملُك بیٲكھ واقعئ ژئھنڈیو
 findbar-previous =
-    .tooltiptext = جملُك پت۪یوم واقعئ ژئھنڈیو{ " " }
+    .tooltiptext = جملُك پت۪یوم واقعئ ژئھنڈیو
 findbar-find-button-close =
     .tooltiptext = ژھأنڈیو  بار  كریو بند
 findbar-case-sensitive =
