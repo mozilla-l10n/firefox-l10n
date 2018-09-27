@@ -21,9 +21,17 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Chafaza inkinobho ukuze uhlele
+config-column-chooser =
+    .tooltip = Chofoza ukuze ukhethe izinhlu ezizovela
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = W
+    .label = Kopisha
+    .accesskey = K
 config-copy-name =
     .label = Igama Lekhophi
     .accesskey = I
@@ -39,6 +47,9 @@ config-toggle =
 config-reset =
     .label = Qalisa Phansi
     .accesskey = Q
+config-new =
+    .label = Okusha
+    .accesskey = s
 config-string =
     .label = Ukuhlelwa kwamagama
     .accesskey = U
