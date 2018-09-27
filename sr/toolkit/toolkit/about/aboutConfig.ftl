@@ -7,12 +7,21 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = Ово може да поништи гаранцију!
 config-about-warning-text = Мењање ових напредних поставки може да нашкоди стабилности, безбедности и брзини овог програма. Наставите само ако сте сигурни да знате шта радите.
+config-about-warning-button =
+    .label = Прихватам ризик!
 config-about-warning-checkbox =
     .label = Прикажи ово упозорење и следећи пут
 config-search-prefs =
     .value = Тражи:
     .accesskey = р
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -55,9 +64,14 @@ config-string =
 config-integer =
     .label = Цео број
     .accesskey = Ц
+config-boolean =
+    .label = Булово (boolean)
+    .accesskey = л
 config-default = изворно
 config-locked = закључано
+config-property-string = стринг
 config-property-int = цео број
+config-property-bool = boolean
 config-new-prompt = Унесите име поставке
 config-nan-title = Неисправна вредност
 config-nan-text = Текст који сте унели није број.
