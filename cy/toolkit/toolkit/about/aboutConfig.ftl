@@ -7,6 +7,9 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = Gall hyn ddiddymu eich gwarant!
 config-about-warning-text = Gall newid y gosodiadau uwch wneud niwed i sefydlogrwydd a pherfformiad y rhaglen. Dylech barhau dim ond os ydych yn gwybod beth rydych yn ei wneud.
 config-about-warning-checkbox =
     .label = Dangos y rhybudd y tro nesaf
