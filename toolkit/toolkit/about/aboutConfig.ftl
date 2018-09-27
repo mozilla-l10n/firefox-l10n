@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = 고급 환경 설정 기능
 config-about-warning-text = 본 환경 설정 페이지는 프로그램의 각종 옵션을 모두 변경할 수 있는 고급 기능입니다. 설정값을 바꿈으로서 문제가 발생할 수도 있습니다. 사용 방법과 이로 인한 영향을 확실히 알고 있는 경우에만 기능을 이용해 주시기 바랍니다.
+config-about-warning-button =
+    .label = 위험을 감수하겠습니다!
 config-about-warning-checkbox =
     .label = 다음에 이 경고창 계속 보여 주기
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = r
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
