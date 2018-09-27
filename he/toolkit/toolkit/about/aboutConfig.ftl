@@ -10,6 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = פעולה זו עשויה לבטל את האחריות!
+config-about-warning-text = שינוי ערכי ברירת המחדל של הגדרות מתקדמות אלו יכול להזיק ליציבות, אבטחה, והביצועים של ישום זה. מוטב להמשיך רק אם השלכות מעשיך ברורות לך לחלוטין.
 config-about-warning-button =
     .label = הסיכון מקובל עלי!
 config-about-warning-checkbox =
@@ -37,6 +38,8 @@ config-value-column =
 
 config-pref-column-header =
     .tooltip = לחץ לסידור
+config-column-chooser =
+    .tooltip = יש ללחוץ לבחירת עמודות לתצוגה
 
 ## These strings are used for the context menu
 
@@ -50,6 +53,9 @@ config-copy-name =
 config-copy-value =
     .label = העתקת ערך
     .accesskey = ר
+config-modify =
+    .label = שינוי
+    .accesskey = ש
 config-toggle =
     .label = החלף
     .accesskey = ה
