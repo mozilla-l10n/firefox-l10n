@@ -75,6 +75,7 @@ config-boolean =
     .label = Lógico
     .accesskey = L
 config-default = predeterminado
+config-modified = modificado
 config-locked = bloqueado
 config-property-string = cadena
 config-property-int = entero
