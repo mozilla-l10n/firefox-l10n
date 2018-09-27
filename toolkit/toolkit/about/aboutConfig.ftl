@@ -10,6 +10,8 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Սա կարող է վնասել ձեր երաշխիքը!
+config-about-warning-checkbox =
+    .label = Ցուցադրել այս զգուշացումը հաջորդ անգամ
 config-focus-search =
     .key = r
 
@@ -19,14 +21,48 @@ config-pref-column =
     .label = Նախընտրանքի անունը
 config-lock-column =
     .label = Կարգավիճակ
+config-type-column =
+    .label = Տեսակը
 config-value-column =
     .label = Արժեքը
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Սեղմեք՝ խմբավորելու համար
+config-column-chooser =
+    .tooltip = Սեղմեք ցուցադրվող սյուներն ընտրելու համար
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Պատճենել
+    .accesskey = Պ
+config-copy-name =
+    .label = Պատճենել անունը
+    .accesskey = ա
+config-copy-value =
+    .label = Պատճենել արժեքը{ " " }
+    .accesskey = ա
+config-modify =
+    .label = Ձևափոխել
+    .accesskey = Ձ
+config-toggle =
+    .label = Հակառակը
+    .accesskey = Հ
+config-new =
+    .label = Նոր
+    .accesskey = ր
+config-string =
+    .label = Տողը
+    .accesskey = Տ
+config-integer =
+    .label = Ամբողջ
+    .accesskey = Ա
+config-boolean =
+    .label = Բուլյան
+    .accesskey = Բ
 config-locked = փակված
 config-property-string = տառաշար
 config-property-int = ամբողջ
