@@ -43,6 +43,10 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Natto
+    .accesskey = N
 config-copy-name =
     .label = Natto Innde
     .accesskey = I
