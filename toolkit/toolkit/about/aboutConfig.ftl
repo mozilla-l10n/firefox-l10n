@@ -7,6 +7,9 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+config-search-prefs =
+    .value = Pesquisar:
+    .accesskey = r
 
 ## These strings are used for column headers
 
