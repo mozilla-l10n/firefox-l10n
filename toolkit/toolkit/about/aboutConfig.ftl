@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Vstup jen na vlastní nebezpečí!
 config-about-warning-text = Změna některých hodnot v tomto rozšířeném nastavení může mít špatný vliv na stabilitu, bezpečnost a výkonnost této aplikace. Je doporučováno pokračovat pouze pokud víte, co děláte.
+config-about-warning-button =
+    .label = Beru to na vědomí!
 config-about-warning-checkbox =
     .label = Zobrazit příště toto varování
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = H
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -71,6 +75,7 @@ config-boolean =
     .label = Logická hodnota
     .accesskey = g
 config-default = výchozí
+config-modified = změněno
 config-locked = zamknuto
 config-property-string = řetězec
 config-property-int = číslo
