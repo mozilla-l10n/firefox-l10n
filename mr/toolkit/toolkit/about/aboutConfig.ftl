@@ -26,11 +26,39 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-name =
+    .label = नावाचे प्रत बनवा
+    .accesskey = N
+config-copy-value =
+    .label = मूल्याचे प्रत बनवा
+    .accesskey = V
+config-modify =
+    .label = संपादित करा
+    .accesskey = M
+config-toggle =
+    .label = बदलवा
+    .accesskey = T
+config-reset =
+    .label = मूळस्थितीत आणा
+    .accesskey = R
+config-new =
+    .label = नवीन
+    .accesskey = w
+config-string =
+    .label = स्ट्रिंग
+    .accesskey = S
+config-integer =
+    .label = इंटीजर
+    .accesskey = I
+config-boolean =
+    .label = बूलियन
+    .accesskey = B
 config-locked = कुलूपबंद
 config-property-string = अक्षरमाळ
 config-property-int = इंटीजर
 config-property-bool = बुलियन
 config-new-prompt = प्राधान्यता नाव प्रविष्ट करा
+config-nan-title = अवैध मूल्य
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = { $type } मुल्य प्रविष्ट करा
