@@ -7,7 +7,12 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = Dikkat! Görevli cankurtaran yoktur!
 config-about-warning-text = Bu gelişmiş ayarların değerlerini değiştirmek bu uygulamanın istikrarına, güvenliğine ve başarımına zarar verebilir. Sadece ne yaptığınızdan eminseniz devam etmelisiniz.
+config-about-warning-checkbox =
+    .label = Bu uyarıyı bir sonraki kez yine göster
 
 ## These strings are used for column headers
 
@@ -20,6 +25,8 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Sıralamak için tıklayın
 
 ## These strings are used for the context menu
 
@@ -30,11 +37,16 @@ config-copy-pref =
 config-reset =
     .label = Sıfırla
     .accesskey = S
+config-integer =
+    .label = Tam sayı
+    .accesskey = S
 config-boolean =
     .label = Boolean
     .accesskey = B
 config-default = varsayılan
+config-modified = değiştirilmiş
 config-locked = kilitli
+config-property-int = tam sayı
 config-property-bool = boolean
 config-nan-title = Geçersiz değer
 config-nan-text = Girdiğiniz metin sayı değil.
