@@ -22,7 +22,7 @@ config-search-prefs =
 config-pref-column =
     .label = कुसियाक् ञुतुम
 config-lock-column =
-    .label = दोसा{ " " }
+    .label = दोसा
 config-type-column =
     .label = लेका
 config-value-column =
@@ -38,7 +38,7 @@ config-column-chooser =
 ## These strings are used for the context menu
 
 config-copy-pref =
-    .key = { " " }C
+    .key = C
     .label = नोकोल (C)
     .accesskey = C
 config-copy-name =
