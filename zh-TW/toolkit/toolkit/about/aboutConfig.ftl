@@ -11,8 +11,17 @@ config-window =
 config-about-warning-title =
     .value = 隨便亂搞會讓保固失效！
 config-about-warning-text = 變更這些進階的設定值可能會影響程式的穩定性、安全性及執行效能。在修改前請確定您知道您在做什麼，或者確定您所參考的文件值得信賴。
+config-about-warning-button =
+    .label = 我發誓，我一定會小心的！
 config-about-warning-checkbox =
     .label = 下次顯示此警告訊息
+config-search-prefs =
+    .value = 搜尋:
+    .accesskey = r
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -20,6 +29,8 @@ config-pref-column =
     .label = 偏好設定名稱
 config-lock-column =
     .label = 狀態
+config-type-column =
+    .label = 類型
 config-value-column =
     .label = 值
 
@@ -27,6 +38,8 @@ config-value-column =
 
 config-pref-column-header =
     .tooltip = 按此排序
+config-column-chooser =
+    .tooltip = 點此選擇要顯示的欄位
 
 ## These strings are used for the context menu
 
@@ -58,11 +71,16 @@ config-string =
 config-integer =
     .label = 整數
     .accesskey = I
+config-boolean =
+    .label = 布林（Boolean）值
+    .accesskey = B
 config-default = 預設值
 config-property-string = 字串
 config-property-int = 整數
 config-property-bool = 真假值
 config-new-prompt = 輸入偏好設定名稱
+config-nan-title = 無效值
+config-nan-text = 您輸入的內容不是數字。
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = 新 { $type } 的值
