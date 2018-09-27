@@ -24,6 +24,8 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = 按此排序
 
 ## These strings are used for the context menu
 
