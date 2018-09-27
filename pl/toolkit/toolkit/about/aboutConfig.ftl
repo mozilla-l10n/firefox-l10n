@@ -7,8 +7,13 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+config-about-warning-text = Modyfikacja tych ustawień może spowodować problemy, takie jak utrata stabilności i wydajności programu oraz zagrożenie bezpieczeństwa. Kontynuuj tylko wtedy, gdy masz pewność tego, co robisz.
+config-about-warning-button =
+    .label = Akceptuję ryzyko!
 config-about-warning-checkbox =
     .label = Wyświetl to ostrzeżenie następnym razem
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -30,6 +35,10 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Kopiuj
+    .accesskey = K
 config-copy-name =
     .label = Kopiuj nazwę
     .accesskey = n
@@ -58,8 +67,15 @@ config-boolean =
     .label = Wartość logiczna (Boolean)
     .accesskey = B
 config-default = domyślny
+config-modified = zmodyfikowany
 config-locked = zablokowany
 config-property-string = łańcuch
 config-property-int = liczba całkowita
 config-property-bool = wartość logiczna
 config-new-prompt = Wprowadź nazwę nowego ustawienia
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Nowe ustawienie typu „{ $type }”
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Wprowadź wartość ustawienia typu „{ $type }”
