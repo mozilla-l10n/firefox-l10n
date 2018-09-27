@@ -10,11 +10,14 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Garantien dækker muligvis ikke her!
+config-about-warning-text = Ændring af disse indstillinger kan forringe dette programs stabilitet, sikkerhed og ydelse væsentligt. Du bør kun fortsætte, hvis du ved, hvad du gør.
 config-about-warning-checkbox =
     .label = Vis mig denne advarsel næste gang
 
 ## These strings are used for column headers
 
+config-pref-column =
+    .label = Indstillingsnavn
 config-lock-column =
     .label = Status
 config-type-column =
@@ -43,18 +46,26 @@ config-modify =
 config-reset =
     .label = Nulstil
     .accesskey = u
+config-new =
+    .label = Ny nøgle
+    .accesskey = N
 config-string =
     .label = Streng
     .accesskey = S
 config-integer =
     .label = Heltal
     .accesskey = H
+config-boolean =
+    .label = Boolsk værdi
+    .accesskey = B
 config-default = standard
 config-locked = låst
 config-property-string = streng
 config-property-int = heltal
 config-property-bool = boolsk
 config-new-prompt = Skriv indstillingens navn
+config-nan-title = Ugyldig værdi
+config-nan-text = Værdien, du indtastede, er ikke et nummer.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Ny { $type } værdi
