@@ -26,9 +26,17 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = انقر للتّرتيب
+config-column-chooser =
+    .tooltip = انقر لاختيار الأعمدة التي ستعرض
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = انسخ
+    .accesskey = ن
 config-copy-name =
     .label = انسخ الاسم
     .accesskey = س
@@ -59,6 +67,8 @@ config-property-string = نص
 config-property-int = عدد صحيح
 config-property-bool = عدد منطقي
 config-new-prompt = أدخل اسم التّفضيل
+config-nan-title = قيمة غير صالحة
+config-nan-text = النص الذي أدخلته ليس رقمًا.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = قيمة { $type } جديدة
