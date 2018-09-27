@@ -11,11 +11,17 @@ config-window =
 config-about-warning-title =
     .value = Dit kan in overtreding zijn met uw garantievoorwaarden!
 config-about-warning-text = Aanpassen van deze uitgebreide voorkeuren kan schadelijk zijn voor de stabiliteit, veiligheid en prestaties van deze toepassing. Ga alleen door als u weet wat u doet.
+config-about-warning-button =
+    .label = Ik aanvaard het risico!
 config-about-warning-checkbox =
     .label = Deze waarschuwing de volgende keer tonen
 config-search-prefs =
     .value = Zoeken:
     .accesskey = Z
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -37,6 +43,10 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Kopiëren
+    .accesskey = K
 config-copy-name =
     .label = Naam kopiëren
     .accesskey = N
@@ -65,6 +75,7 @@ config-boolean =
     .label = Boolean
     .accesskey = B
 config-default = standaard
+config-modified = aangepast
 config-locked = vergrendeld
 config-property-string = string
 config-property-int = integer
