@@ -21,6 +21,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Tobetsa go tlhomaganya
+config-column-chooser =
+    .tooltip = Tobetsa go tlhopha dikholomo tse di bontshiwang
 
 ## These strings are used for the context menu
 
