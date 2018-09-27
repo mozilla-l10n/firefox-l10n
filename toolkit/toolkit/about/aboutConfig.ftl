@@ -34,6 +34,11 @@ config-locked = ล็อก
 config-property-string = สตริง
 config-property-int = จำนวนเต็ม
 config-property-bool = ค่าตรรกะ
+config-nan-title = ค่าไม่ถูกต้อง
+config-nan-text = ข้อความที่คุณกรอกไม่ใช่ตัวเลข
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = ค่า { $type } ใหม่
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = กรอกค่าของ { $type }
