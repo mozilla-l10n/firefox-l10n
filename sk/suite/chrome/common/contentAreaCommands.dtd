@@ -104,6 +104,7 @@
 <!ENTITY mediaPause.accesskey         "P">
 <!ENTITY mediaMute.label              "Stlmiť">
 <!ENTITY mediaMute.accesskey          "m">
+<!ENTITY mediaUnmute.label            "Zapnúť zvuk">
 <!ENTITY mediaUnmute.accesskey        "m">
 <!ENTITY mediaPlaybackRate.label        "Rýchlosť prehrávania">
 <!ENTITY mediaPlaybackRate.accesskey    "R">
