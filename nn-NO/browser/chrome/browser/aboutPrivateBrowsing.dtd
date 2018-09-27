@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "nedlastingar">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "bokmerke">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "kopiert tekst">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privat nettlesing ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "gjer deg ikkje anonym">
 <!ENTITY aboutPrivateBrowsing.note.after                 " på nettet. Arbeidsgjevaren eller internettleverandøren din kan framleis sjå kva for sider du besøkjer.">
