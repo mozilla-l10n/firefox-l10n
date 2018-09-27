@@ -7,6 +7,12 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+config-about-warning-button =
+    .label = ვცნობ რისკებს!
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -24,6 +30,8 @@ config-property-string = ტექსტი
 config-property-int = მთელი რიცხვი
 config-property-bool = ლოგიკური ოპერატორი
 config-new-prompt = პარამეტრის სახელის მითითება
+config-nan-title = არასწორი მნიშვნელობა
+config-nan-text = თქვენ მიერ შეყვანილი ტექსტი რიცხვი არაა.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = ახალი მნიშვნელობა – { $type }
