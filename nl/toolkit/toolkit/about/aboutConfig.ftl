@@ -13,6 +13,9 @@ config-about-warning-title =
 config-about-warning-text = Aanpassen van deze uitgebreide voorkeuren kan schadelijk zijn voor de stabiliteit, veiligheid en prestaties van deze toepassing. Ga alleen door als u weet wat u doet.
 config-about-warning-checkbox =
     .label = Deze waarschuwing de volgende keer tonen
+config-search-prefs =
+    .value = Zoeken:
+    .accesskey = Z
 
 ## These strings are used for column headers
 
@@ -67,6 +70,8 @@ config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
 config-new-prompt = Voer de voorkeurnaam in
+config-nan-title = Ongeldige waarde
+config-nan-text = De ingevoerde tekst is geen getal.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nieuwe { $type }waarde
