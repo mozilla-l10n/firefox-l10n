@@ -10,6 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Dh'fhaodadh seo am barantas agad a chur gu neoini!
+config-about-warning-text = Dh'fhaodadh droch bhuaidh a bhith ann air seasmhachd, tèarainteachd is dèanadas na h-aplacaid seo ma dh'atharraicheas tu na roghainnean adhartach seo. Cha bu chòir dhut leantainn air adhart ach ma bhios tu cinnteach gu bheil thu eòlach air buaidh na tha thu a' dèanamh.
 config-about-warning-checkbox =
     .label = Seall an rabhadh seo an ath-thuras
 config-search-prefs =
