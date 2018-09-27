@@ -13,6 +13,11 @@ config-about-warning-title =
 config-about-warning-text = উচ্চ পর্যায়ের এই সেটিংসমূহ পরিবর্তনের ফলে অ্যাপ্লিকেশনের স্থায়ীত্ব, নিরাপত্তা ও কার্যকারিতা প্রভাবিত হতে পারে। আপনি সম্পূর্ণভাবে নিশ্চিত হলে তবেই এগিয়ে যান।
 config-about-warning-checkbox =
     .label = পরবর্তী সময়ে এই সতর্কীকরণ প্রদর্শন করা হবে
+config-search-prefs =
+    .value = Search:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -27,6 +32,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = ক্রমানুসারে সাজাতে ক্লিক করুন
+config-column-chooser =
+    .tooltip = যে কলাম প্রদর্শিত হবে তা নির্বাচন করতে ক্লিক করুন
 
 ## These strings are used for the context menu
 
