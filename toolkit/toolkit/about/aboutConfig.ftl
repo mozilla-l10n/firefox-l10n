@@ -17,6 +17,8 @@ config-about-warning-checkbox =
 config-search-prefs =
     .value = Pesquisar:
     .accesskey = r
+config-focus-search =
+    .key = r
 config-focus-search-2 =
     .key = f
 
