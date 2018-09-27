@@ -13,6 +13,9 @@ config-about-warning-title =
 config-about-warning-text = Sɛ wo sesa nhyehyɛe a ɛkɔ nkan yi a, ebetumi asesa aplekehyɛn no banbɔ, gyinayɛ ne n'adwumadie. Sɛ wo nim nea woreyɛ a, toa so.
 config-about-warning-checkbox =
     .label = Kyerɛ saa kɔkɛbɔ yi abere a edi so
+config-search-prefs =
+    .value = Hwehwɛ:
+    .accesskey = h
 
 ## These strings are used for column headers
 
@@ -27,6 +30,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = klike so na hyehyɛ
+config-column-chooser =
+    .tooltip = Klike na paw kɔlɔm a ɛbɛkyerɛ
 
 ## These strings are used for the context menu
 
