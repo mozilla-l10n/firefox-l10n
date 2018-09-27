@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Pśez to wy by mógał garantiju zgubiś!
 config-about-warning-text = Změnjenje toś tych rozšyrjonych nastajenjow by mógło stabilnosć, wěstotu a wugbaśe toś togo nałoženja kazyś. Wy by měł jano z tym pókšacowaś, jolic sćo se wěsty, což cyniśo.
+config-about-warning-button =
+    .label = Akceptěrujom riziko!
 config-about-warning-checkbox =
     .label = Toś to warnowanje pśichodny raz pokazaś
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = t
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -71,6 +75,7 @@ config-boolean =
     .label = Boolean
     .accesskey = B
 config-default = standard
+config-modified = změnjony
 config-locked = zastajony
 config-property-string = string
 config-property-int = integer
