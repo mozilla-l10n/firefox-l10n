@@ -71,6 +71,8 @@ config-property-string = சரம்
 config-property-int = இயல் எண்
 config-property-bool = பூலியன்
 config-new-prompt = விருப்ப பெயரை உள்ளிடவும்
+config-nan-title = தவறான மதிப்பு
+config-nan-text = நீங்கள் உள்ளிட்ட உரை ஒரு எண் அல்ல.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = புதிய { $type } மதிப்பு
