@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = ¡Ojo al charqui!
 config-about-warning-text = Cambiar estas configuraciones avanzadas puede afectar la estabilidad, seguridad y rendimiento de esta aplicación. Solo debería continuar si está seguro de lo que va a hacer.
+config-about-warning-button =
+    .label = ¡Acepto el riesgo!
 config-about-warning-checkbox =
     .label = Mostrar esta advertencia la próxima vez
 config-search-prefs =
@@ -34,6 +36,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Presione para ordenar
+config-column-chooser =
+    .tooltip = Presione para seleccionar las columnas a mostrar
 
 ## These strings are used for the context menu
 
@@ -68,3 +74,4 @@ config-integer =
 config-boolean =
     .label = Lógico
     .accesskey = L
+config-modified = modificado
