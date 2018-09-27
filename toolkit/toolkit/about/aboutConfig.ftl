@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Atención, periglo si ye un zapo!
 config-about-warning-text = Cambiar istas preferencias abanzadas puede estar perchudicial ta la estabilidat, seguranza y rendimiento d'ista aplicación. Nomás habría de continar si ye seguro d'o que ye fendo.
+config-about-warning-button =
+    .label = Accepto lo risgo!
 config-about-warning-checkbox =
     .label = Amostrar ista alvertencia a la vegada venient
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = r
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -71,6 +75,7 @@ config-boolean =
     .label = Booleán
     .accesskey = B
 config-default = predeterminau
+config-modified = modificau
 config-locked = bloqueyau
 config-property-string = cadena
 config-property-int = entero
