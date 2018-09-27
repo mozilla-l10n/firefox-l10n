@@ -69,6 +69,7 @@ config-boolean =
     .label = Būla
     .accesskey = B
 config-default = nūkluseits
+config-modified = maineits
 config-locked = slāgts
 config-property-string = teksta
 config-property-int = skaitļa
