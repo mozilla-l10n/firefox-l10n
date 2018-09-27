@@ -2,12 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+config-window =
+    .title = ikom:cano
 
 ## Strings used to display a warning in about:config
 
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Man romo gengo pora mamegi!
+config-about-warning-text = Loko ter magi me rwom ma malu twero kelo bal i bedo mot, gwoko kuc, ki tic maber pi purugram man. I twero ka mede teki i moko adaa ngo ma in itye katimo.
+config-about-warning-button =
+    .label = Aye acara ne!
 config-about-warning-checkbox =
     .label = Nyut cik man i kare mabino
 config-search-prefs =
@@ -15,6 +20,8 @@ config-search-prefs =
     .accesskey = y
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -24,6 +31,8 @@ config-lock-column =
     .label = Kite
 config-type-column =
     .label = Kit
+config-value-column =
+    .label = Wel
 
 ## These strings are used for tooltips
 
@@ -71,6 +80,7 @@ config-property-string = tol
 config-property-int = namba ne
 config-property-bool = gin matye kwede acel ki jero
 config-new-prompt = Ket nying ma imito
+config-nan-title = Wel mape atir
 config-nan-text = Nyig coc ma iketoni pe obedo namba.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
