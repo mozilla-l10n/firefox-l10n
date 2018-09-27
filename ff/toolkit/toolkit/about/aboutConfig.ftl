@@ -11,11 +11,17 @@ config-window =
 config-about-warning-title =
     .value = Ɗum ena waawi boynude gaaranti maa!
 config-about-warning-text = Waylude ɗee teelte ceeɓtore ena waawi addude caɗeele jamɗugol, kisal e jaawgol ngal jaaɓnirgal. Pot-ɗaa jokkude tan ko so tawii aɗa yenanaa aɗa anndi ko mbaɗataa koo.
+config-about-warning-button =
+    .label = Mi jaɓii jeemaade!
 config-about-warning-checkbox =
     .label = Hollu ngoo reentino laawol garowol
 config-search-prefs =
     .value = Yiylo:
     .accesskey = i
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
