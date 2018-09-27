@@ -17,6 +17,8 @@ config-about-warning-checkbox =
 config-search-prefs =
     .value = Bilatu:
     .accesskey = B
+config-focus-search =
+    .key = r
 config-focus-search-2 =
     .key = f
 
@@ -80,3 +82,9 @@ config-property-bool = boolearra
 config-new-prompt = Sartu hobespen-izena
 config-nan-title = Balio okerra
 config-nan-text = Sartutako testua ez da zenbaki bat.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = '{ $type }' motako balio berria
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Sartu '{ $type }' motako balioa
