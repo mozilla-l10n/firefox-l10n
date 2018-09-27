@@ -7,8 +7,17 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = ფრთხილად, ეს იარაღი დატენილია!
+config-about-warning-text = ამ დამატებითი პარამეტრების ცვლილებამ შესაძლოა პროგრამის მდგრადობა, უსაფრთხოება და წარმადობა დააზიანოს. მხოლოდ იმ შემთხვევაში განაგრძეთ, თუ დარწმუნებული ხართ რომ იცით, რასაც აკეთებთ.
 config-about-warning-button =
     .label = ვცნობ რისკებს!
+config-about-warning-checkbox =
+    .label = გაფრთხილების ჩვენება ყოველ ჯერზე
+config-search-prefs =
+    .value = ძიება:
+    .accesskey = ძ
 config-focus-search =
     .key = r
 config-focus-search-2 =
@@ -18,14 +27,56 @@ config-focus-search-2 =
 
 config-pref-column =
     .label = პარამეტრი
+config-lock-column =
+    .label = მდგომარეობა
+config-type-column =
+    .label = სახეობა
 config-value-column =
     .label = მნიშვნელობა
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = დააწკაპეთ დასალაგებლად
+config-column-chooser =
+    .tooltip = დააწკაპეთ სვეტების ასარჩევად
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = დაკოპირება
+    .accesskey = დ
+config-copy-name =
+    .label = სახელის დაკოპირება
+    .accesskey = ს
+config-copy-value =
+    .label = მნიშვნელობის დაკოპირება
+    .accesskey = მ
+config-modify =
+    .label = შეცვლა
+    .accesskey = შ
+config-toggle =
+    .label = გადართვა
+    .accesskey = თ
+config-reset =
+    .label = აღდგენა
+    .accesskey = ღ
+config-new =
+    .label = ახალი
+    .accesskey = ა
+config-string =
+    .label = ტექსტი
+    .accesskey = ტ
+config-integer =
+    .label = მთელი რიცხვი
+    .accesskey = რ
+config-boolean =
+    .label = ლოგიკური ოპერატორი
+    .accesskey = ლ
+config-default = ნაგულისხმევი
+config-modified = შეცვლილი
+config-locked = დალუქულია
 config-property-string = ტექსტი
 config-property-int = მთელი რიცხვი
 config-property-bool = ლოგიკური ოპერატორი
