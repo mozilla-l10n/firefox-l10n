@@ -12,6 +12,11 @@ config-about-warning-title =
     .value = Perlakuan ini dapat mengakibatkan pelanggaran terhadap garansi!
 config-about-warning-checkbox =
     .label = Tampilkan peringatan ini lagi nanti
+config-search-prefs =
+    .value = Cari:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -26,12 +31,19 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Klik untuk mengurut
+config-column-chooser =
+    .tooltip = Klik untuk memilih kolom yang ditampilkan
 
 ## These strings are used for the context menu
 
 config-copy-name =
     .label = Salin Nama
     .accesskey = S
+config-copy-value =
+    .label = Salin Nilai
+    .accesskey = N
 config-modify =
     .label = Ubah
     .accesskey = U
@@ -50,3 +62,19 @@ config-string =
 config-integer =
     .label = Bilangan Bulat
     .accesskey = B
+config-boolean =
+    .label = Boolean
+    .accesskey = B
+config-locked = terkunci
+config-property-string = teks
+config-property-int = bilangan bulat
+config-property-bool = boolean
+config-new-prompt = Masukkan nama pengaturan
+config-nan-title = Nilai tidak valid
+config-nan-text = Teks yang baru Anda masukkan bukanlah bilangan.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Nilai baru { $type }
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Masukkan nilai { $type }
