@@ -8,6 +8,9 @@
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = ਇਸ ਨਾਲ ਵਾਰੰਟੀ ਖਤਮ ਹੋ ਸਕਦੀ ਹੈ!
+config-about-warning-text = ਇਹ ਸੰਰਚਨਾ ਸਫ਼ਾ ਤੁਹਾਨੂੰ ਤਕਨੀਕੀ ਫੀਚਰ ਸੋਧਣ ਲਈ ਸਹੂਲਤ ਦਿੰਦਾ ਹੈ, ਜੋ ਕਿ ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਕੰਟਰੋਲ ਕਰਦੇ ਹਨ। ਇਹ ਇਹਨਾਂ ਪਸੰਦਾਂ ਵਿੱਚ ਮੁੱਲ ਬਦਲਣ ਨਾਲ ਖਤਰਨਾਕ ਪਰਭਾਵ ਪਾ ਸਕਦੇ ਹਨ। ਤੁਹਾਨੂੰ ਤਾਂ ਹੀ ਅੱਗੇ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ, ਜੇ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ ਕਿ ਤੁਸੀਂ ਕੀ ਕਰ ਰਹੇ ਹੋ ਜਾਂ ਤੁਸੀਂ ਸਹੀਂ ਸਲਾਹ ਮੰਨਦੇ ਹੋ
+config-about-warning-button =
+    .label = ਮੈਂ ਖ਼ਤਰੇ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਦਾ/ਕਰਦੀ ਹਾਂ!
 config-about-warning-checkbox =
     .label = ਮੈਨੂੰ ਚੇਤਾਵਨੀ ਅਗਲੀ ਵਾਰ ਵੀ ਵੇਖਾਓ
 config-search-prefs =
@@ -15,6 +18,8 @@ config-search-prefs =
     .accesskey = r
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -40,6 +45,15 @@ config-copy-pref =
     .key = C
     .label = ਕਾਪੀ ਕਰੋ
     .accesskey = C
+config-copy-name =
+    .label = ਨਾਂ ਨੂੰ ਕਾਪੀ ਕਰੋ
+    .accesskey = C
+config-copy-value =
+    .label = ਮੁੱਲ ਨੂੰ ਕਾਪੀ ਕਰੋ
+    .accesskey = V
+config-modify =
+    .label = ਸੋਧੋ
+    .accesskey = M
 config-toggle =
     .label = ਬਦਲੋ
     .accesskey = T
