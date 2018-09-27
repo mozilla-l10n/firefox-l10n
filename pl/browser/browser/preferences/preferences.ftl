@@ -533,7 +533,7 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Wyjątki…
     .accesskey = W
-sitedata-warning-your-settings-prevent-changes=Ustawienia blokowania treści uniemożliwiają zmiany w ustawieniach przechowywania ciesteczek i danych stron.
+sitedata-warning-your-settings-prevent-changes=Ustawienia blokowania treści uniemożliwiają zmiany w ustawieniach przechowywania ciasteczek i danych stron.
 
 addressbar-header = Pasek adresu
 addressbar-suggest = Podpowiedzi w pasku adresu opieraj na:
