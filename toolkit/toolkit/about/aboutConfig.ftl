@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Garantien dækker muligvis ikke her!
 config-about-warning-text = Ændring af disse indstillinger kan forringe dette programs stabilitet, sikkerhed og ydelse væsentligt. Du bør kun fortsætte, hvis du ved, hvad du gør.
+config-about-warning-button =
+    .label = Jeg lover at være forsigtig!
 config-about-warning-checkbox =
     .label = Vis mig denne advarsel næste gang
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = s
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
