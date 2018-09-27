@@ -10,6 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Configuración avanzada
+config-about-warning-text = Esta página de configuración te permite modificar preferencias avanzadas, cambiar estos valores sin un conocimiento previo puede crear comportamientos no deseados. Te recomendamos no ingresar a menos que estés completamente seguro de lo que vas a hacer.
 config-about-warning-checkbox =
     .label = Mostrar siempre esta advertencia.
 
