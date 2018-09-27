@@ -28,6 +28,8 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Пстрыкніце, каб размеркаваць
 
 ## These strings are used for the context menu
 
@@ -62,3 +64,16 @@ config-integer =
 config-boolean =
     .label = Лагічны
     .accesskey = Л
+config-locked = замкнутае
+config-property-string = радковае
+config-property-int = цэлае
+config-property-bool = лагічнае
+config-new-prompt = Увядзіце назву перавагі
+config-nan-title = Няспраўнае значэнне
+config-nan-text = Тэкст, які вы ўвялі, не з'яўляецца лікам.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Новае значэнне { $type }
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Увядзіце { $type } значэнне
