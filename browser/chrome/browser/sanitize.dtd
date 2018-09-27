@@ -13,8 +13,6 @@
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
 <!ENTITY sanitizeDialog2.width         "34em">
 
-<!ENTITY clearDataSettings3.label     "בעת סגירת &brandShortName;, הפריטים הבאים ינוקו אוטומטית">
-
 <!ENTITY clearDataSettings4.label     "עם הסגירה, &brandShortName; אמור לפנות את כל אלה אוטומטית">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
@@ -51,7 +49,7 @@ that require it.  -->
 <!ENTITY itemOfflineApps.label             "נתונים לא מקוונים של אתרים">
 <!ENTITY itemOfflineApps.accesskey         "מ">
 <!ENTITY itemActiveLogins.label            "כניסות פעילות">
-<!ENTITY itemActiveLogins.accesskey        "ח">
+<!ENTITY itemActiveLogins.accesskey        "כ">
 <!ENTITY itemSitePreferences.label         "העדפות אתר">
 <!ENTITY itemSitePreferences.accesskey     "ה">
 
