@@ -75,6 +75,7 @@ config-boolean =
     .label = 불린값
     .accesskey = B
 config-default = 기본
+config-modified = 수정됨
 config-locked = 잠금
 config-property-string = 문자열
 config-property-int = 정수
