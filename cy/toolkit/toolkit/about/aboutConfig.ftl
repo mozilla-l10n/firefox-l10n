@@ -27,6 +27,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Clicio i'w trefnu
+config-column-chooser =
+    .tooltip = Cliciwch i ddewis colofnau i'w dangos
 
 ## These strings are used for the context menu
 
@@ -42,6 +46,8 @@ config-boolean =
     .accesskey = B
 config-locked = cloi
 config-new-prompt = Rhoi enw blaenoriaeth
+config-nan-title = Gwerth annilys
+config-nan-text = Nid yw'r testun a gyflwynwyd yn rif.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Gwerth newydd { $type }
