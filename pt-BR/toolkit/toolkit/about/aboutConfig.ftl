@@ -47,6 +47,9 @@ config-modify =
 config-toggle =
     .label = Inverter valor
     .accesskey = I
+config-new =
+    .label = Nova preferência
+    .accesskey = N
 config-string =
     .label = String…
     .accesskey = S
@@ -60,6 +63,12 @@ config-default = padrão
 config-property-string = string
 config-property-int = número inteiro
 config-property-bool = boolean
+config-new-prompt = Forneça o nome da preferência:
+config-nan-title = Valor inválido
+config-nan-text = O texto fornecido não é um número.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Nova preferência do tipo { $type }
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Editar valor { $type }
