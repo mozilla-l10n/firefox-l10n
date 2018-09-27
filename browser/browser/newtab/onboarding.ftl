@@ -21,4 +21,6 @@ onboarding-private-browsing-text = Böngésszen egyedül. A tartalomblokkolássa
 onboarding-screenshots-title = Képernyőképek
 onboarding-screenshots-text = Készítsen, mentsen és osszon meg képernyőképeket – a { -brand-short-name } elhagyása nélkül. Rögzítsen egy területet vagy egy teljes lapot böngészés közben. Aztán mentse a webre a könnyű eléréshez és megosztáshoz.
 onboarding-addons-title = Kiegészítők
+onboarding-addons-text = A kiegészítők lehetővé teszik, hogy a { -brand-short-name } keményebben dolgozzon Önnek. Hasonlítson össze árakat, nézze meg az időjárást, vagy fejezze ki a személyiségét egy egyéni témával.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Böngésszen gyorsabban, okosabban vagy biztonságosabban az olyan kiegészítőkkel mint a Ghostery, amelyekkel blokkolhatja az idegesítő reklámokat.
