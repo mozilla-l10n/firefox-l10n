@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Varning, farligt verktyg!
 config-about-warning-text = Att ändra dessa avancerade inställningar kan skada programmets stabilitet, säkerhet och prestanda. Du bör endast fortsätta om du är säker på vad du gör.
+config-about-warning-button =
+    .label = Jag godtar risken!
 config-about-warning-checkbox =
     .label = Visa denna varning nästa gång
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = ö
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
