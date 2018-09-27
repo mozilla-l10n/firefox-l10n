@@ -10,6 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Perlakuan ini dapat mengakibatkan pelanggaran terhadap garansi!
+config-about-warning-text = Mengubah nilai bawaan pada pengaturan lanjutan ini dapat mengakibatkan kerusakan pada stabilitas, keamanan, dan kinerja aplikasi ini. Hanya lanjutkan jika benar-benar tahu apa yang akan Anda lakukan.
 config-about-warning-button =
     .label = Saya terima risikonya!
 config-about-warning-checkbox =
