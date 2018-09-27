@@ -8,6 +8,8 @@
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = ਇਸ ਨਾਲ ਵਾਰੰਟੀ ਖਤਮ ਹੋ ਸਕਦੀ ਹੈ!
+config-about-warning-checkbox =
+    .label = ਮੈਨੂੰ ਚੇਤਾਵਨੀ ਅਗਲੀ ਵਾਰ ਵੀ ਵੇਖਾਓ
 
 ## These strings are used for column headers
 
