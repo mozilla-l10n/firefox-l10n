@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Gall hyn ddiddymu eich gwarant!
 config-about-warning-text = Gall newid y gosodiadau uwch wneud niwed i sefydlogrwydd a pherfformiad y rhaglen. Dylech barhau dim ond os ydych yn gwybod beth rydych yn ei wneud.
+config-about-warning-button =
+    .label = Rwy'n derbyn y perygl!
 config-about-warning-checkbox =
     .label = Dangos y rhybudd y tro nesaf
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = C
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
