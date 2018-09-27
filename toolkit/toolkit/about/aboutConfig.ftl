@@ -75,6 +75,7 @@ config-boolean =
     .label = Логічне
     .accesskey = о
 config-default = типове
+config-modified = змінено
 config-locked = заблоковано
 config-property-string = рядок
 config-property-int = ціле
