@@ -12,11 +12,15 @@ config-about-warning-title =
     .value = פעולה זו עשויה לבטל את האחריות!
 config-about-warning-button =
     .label = הסיכון מקובל עלי!
+config-about-warning-checkbox =
+    .label = הצגת אזהרה זו בפעם הבאה
 config-search-prefs =
     .value = חיפוש:
     .accesskey = ח
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -36,6 +40,16 @@ config-pref-column-header =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = העתקה
+    .accesskey = ה
+config-copy-name =
+    .label = העתקת שם
+    .accesskey = ע
+config-copy-value =
+    .label = העתקת ערך
+    .accesskey = ר
 config-toggle =
     .label = החלף
     .accesskey = ה
@@ -55,6 +69,7 @@ config-boolean =
     .label = בוליאני
     .accesskey = ב
 config-default = בררת מחדל
+config-modified = שינוי
 config-locked = נעול
 config-property-string = מחרוזת
 config-property-int = מספר שלם
