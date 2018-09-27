@@ -7,6 +7,8 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+config-about-warning-checkbox =
+    .label = Bonisa esi silumkiso kwixesha elizayo
 
 ## These strings are used for column headers
 
