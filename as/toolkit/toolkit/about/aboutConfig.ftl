@@ -7,6 +7,13 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+config-about-warning-checkbox =
+    .label = পিছৰ বাৰ এই সকিয়নি দেখুৱাব
+config-search-prefs =
+    .value = সন্ধান কৰক:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -23,6 +30,8 @@ config-value-column =
 
 config-pref-column-header =
     .tooltip = বাছিবলৈ টিপক
+config-column-chooser =
+    .tooltip = প্ৰদৰ্শনৰ বাবে স্তম্ভ নিৰ্বাচন কৰিবলৈ টিপক
 
 ## These strings are used for the context menu
 
