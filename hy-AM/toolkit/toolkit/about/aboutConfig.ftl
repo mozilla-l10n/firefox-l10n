@@ -10,10 +10,18 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Սա կարող է վնասել ձեր երաշխիքը!
+config-about-warning-text = Լրացուցիչ կարգավորումների փոփոխումը կարող է լինել վտանգել այս ծրագրի կայունությունը, անվտանգությունը և աշխատանքի որակը: Դուք պետք է շարունակեք միայն այն դեպքում, երբ վստահ գիտեք թե ինչ էք անում:
+config-about-warning-button =
+    .label = Ես հասկանում եմ ռիսկը:
 config-about-warning-checkbox =
     .label = Ցուցադրել այս զգուշացումը հաջորդ անգամ
+config-search-prefs =
+    .value = Որոնում.
+    .accesskey = ւ
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -51,6 +59,9 @@ config-modify =
 config-toggle =
     .label = Հակառակը
     .accesskey = Հ
+config-reset =
+    .label = Վերակայել
+    .accesskey = Վ
 config-new =
     .label = Նոր
     .accesskey = ր
@@ -63,6 +74,8 @@ config-integer =
 config-boolean =
     .label = Բուլյան
     .accesskey = Բ
+config-default = լռելյայն
+config-modified = փոփոխված
 config-locked = փակված
 config-property-string = տառաշար
 config-property-int = ամբողջ
