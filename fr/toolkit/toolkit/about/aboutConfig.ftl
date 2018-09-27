@@ -56,3 +56,4 @@ config-default = par défaut
 config-locked = verrouillé
 config-property-string = chaîne
 config-property-bool = booléen
+config-nan-title = Valeur invalide
