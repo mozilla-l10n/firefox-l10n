@@ -71,6 +71,8 @@ config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
 config-new-prompt = Geben Sie den Eigenschaftsnamen ein
+config-nan-title = Ungültiger Wert
+config-nan-text = Der Text, den Sie eingegeben haben, ist keine Zahl.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Neuer { $type }-Wert
