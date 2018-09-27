@@ -32,6 +32,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Cliceáil lena sórtáil
+config-column-chooser =
+    .tooltip = Cliceáil chun colúin a roghnú le cur ar taispeáint
 
 ## These strings are used for the context menu
 
