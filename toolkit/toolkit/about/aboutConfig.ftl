@@ -10,11 +10,15 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Dit kin jo garânsje ûnnut meitsje!
+config-about-warning-button =
+    .label = Ik akseptearje it risiko!
 config-about-warning-checkbox =
     .label = Lit dizze warskôging de folgjende kear wer sjen
 config-search-prefs =
     .value = Sykje:
     .accesskey = S
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -44,6 +48,9 @@ config-modify =
 config-toggle =
     .label = Omskeakelje
     .accesskey = s
+config-reset =
+    .label = Opnij inisjalisearje
+    .accesskey = i
 config-new =
     .label = Nij
     .accesskey = N
