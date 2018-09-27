@@ -5,6 +5,8 @@
 
 ## Strings used to display a warning in about:config
 
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
