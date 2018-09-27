@@ -114,4 +114,4 @@ fonts-languages-fallback-name-other =
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = डिफल्ट ({ $name }){ " " }
+    .label = डिफल्ट ({ $name })
