@@ -12,6 +12,9 @@ config-about-warning-title =
     .value = Kontuz, zure bermeak baliorik gabe gera daitezke!
 config-about-warning-checkbox =
     .label = Erakutsi ohar hau hurrengoan
+config-search-prefs =
+    .value = Bilatu:
+    .accesskey = B
 
 ## These strings are used for column headers
 
@@ -26,6 +29,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Egin klik ordenatzeko
+config-column-chooser =
+    .tooltip = Egin klik bistaratuko diren zutabeak hautatzeko
 
 ## These strings are used for the context menu
 
@@ -33,12 +40,24 @@ config-copy-pref =
     .key = C
     .label = Kopiatu
     .accesskey = K
+config-copy-name =
+    .label = Kopiatu izena
+    .accesskey = n
+config-copy-value =
+    .label = Kopiatu balioa
+    .accesskey = b
 config-modify =
     .label = Aldatu
     .accesskey = A
 config-toggle =
     .label = Txandakatu
     .accesskey = T
+config-reset =
+    .label = Berrezarri
+    .accesskey = r
+config-new =
+    .label = Berria
+    .accesskey = B
 config-string =
     .label = Katea
     .accesskey = K
@@ -54,3 +73,5 @@ config-property-string = katea
 config-property-int = osokoa
 config-property-bool = boolearra
 config-new-prompt = Sartu hobespen-izena
+config-nan-title = Balio okerra
+config-nan-text = Sartutako testua ez da zenbaki bat.
