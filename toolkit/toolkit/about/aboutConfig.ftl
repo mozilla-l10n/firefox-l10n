@@ -39,6 +39,8 @@ config-integer =
     .accesskey = I
 config-property-string = string
 config-property-int = inteiro
+config-nan-title = Valor inválido
+config-nan-text = O texto que escreveu não é um número.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Novo valor { $type }
