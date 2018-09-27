@@ -36,6 +36,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Нажмите для сортировки
+config-column-chooser =
+    .tooltip = Нажмите, чтобы выбрать колонки для отображения
 
 ## These strings are used for the context menu
 
@@ -70,3 +74,18 @@ config-integer =
 config-boolean =
     .label = Логическое
     .accesskey = ч
+config-default = по умолчанию
+config-modified = изменено
+config-locked = заблокировано
+config-property-string = строка
+config-property-int = целое
+config-property-bool = логическое
+config-new-prompt = Введите имя настройки
+config-nan-title = Недействительное значение
+config-nan-text = Введённый вами текст не является числом.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Новое значение ({ $type })
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Введите значение ({ $type })
