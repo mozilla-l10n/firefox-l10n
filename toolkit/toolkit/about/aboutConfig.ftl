@@ -17,6 +17,8 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = คลิกเพื่อเรียงลำดับ
 
 ## These strings are used for the context menu
 
