@@ -33,5 +33,6 @@ config-reset =
 config-new =
     .label = Bago
     .accesskey = B
+config-default = default
 config-new-prompt = Ilagay ang pangalan na iyong kagustuhan
 config-nan-text = Ang tekstong iyong inilagay ay hindi isang numero.
