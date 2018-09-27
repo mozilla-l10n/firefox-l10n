@@ -7,6 +7,9 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = Ɣuṛ-k, aya yezmer ad k-iḍuṛ!
 config-about-warning-text = Asnifel n ismenyifen-agi zemren ad sexṣeren arkad, taɣellist d timellit n usnas-agi. Tzemreḍ kan ad kemleḍ ma yella teẓriḍ ayen tmahaleḍ.
 config-about-warning-button =
     .label = Gziɣ uguren!
@@ -50,9 +53,15 @@ config-copy-name =
 config-copy-value =
     .label = Nɣel azal
     .accesskey = a
+config-modify =
+    .label = Snifel
+    .accesskey = s
 config-toggle =
     .label = Tti
     .accesskey = i
+config-reset =
+    .label = Wennez tikelt-nniḍen
+    .accesskey = W
 config-new =
     .label = Amaynut
     .accesskey = m
@@ -73,6 +82,7 @@ config-property-int = ummid
 config-property-bool = abulan
 config-new-prompt = Sekcem isem n usmenyaf
 config-nan-title = Azal arameɣtu
+config-nan-text = Aḍris d-tmuddeḍ ulac-it.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Azal amaynut { $type }
