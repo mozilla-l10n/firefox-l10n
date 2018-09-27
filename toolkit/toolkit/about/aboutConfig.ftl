@@ -7,6 +7,10 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = Будзьце асцярожныя! Гэта можа прывесці да анулявання гарантыі!
+config-about-warning-text = Змяненне прадвызначаных значэнняў гэтых пашыраных налад можа быць шкодным для ўстойлівасці, бяспекі і прадукцыйнасці гэтай праграмы. Вы павінны рабіць гэта толькі тады, калі ўпэўнены ў тым, што робіце.
 config-about-warning-button =
     .label = Я прымаю рызыку!
 config-about-warning-checkbox =
@@ -68,6 +72,8 @@ config-integer =
 config-boolean =
     .label = Лагічны
     .accesskey = Л
+config-default = прадвызначана
+config-modified = зменена
 config-locked = замкнутае
 config-property-string = радковае
 config-property-int = цэлае
