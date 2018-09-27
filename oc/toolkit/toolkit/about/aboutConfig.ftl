@@ -20,6 +20,10 @@ config-focus-search =
 
 config-pref-column =
     .label = Nom de l'opcion
+config-lock-column =
+    .label = Estatut
+config-type-column =
+    .label = Tipe
 config-value-column =
     .label = Valor
 
@@ -45,6 +49,9 @@ config-copy-value =
 config-modify =
     .label = Modificar
     .accesskey = M
+config-toggle =
+    .label = Inversar
+    .accesskey = I
 config-reset =
     .label = Tornar inicializar
     .accesskey = T
@@ -66,6 +73,7 @@ config-property-int = entièr
 config-property-bool = boolean
 config-new-prompt = Picatz lo nom de l'opcion
 config-nan-title = Valor invalida
+config-nan-text = Lo tèxte picat es pas un nombre.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Valor novèla ({ $type })
