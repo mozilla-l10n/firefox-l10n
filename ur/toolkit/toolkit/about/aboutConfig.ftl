@@ -11,11 +11,17 @@ config-window =
 config-about-warning-title =
     .value = اس سے آپ کے وارنٹی کی خلاف ورزی ہوسکتی ہے!
 config-about-warning-text = اعلی ترتیبات میں تبدیلی سے ایپلی کیشن کی پائیداری، حفاظت اور کارکردگی پر برا اثر پڑ سکتا ہے۔ اگر آپ ان تبدیلیوں کے اثرات سے آگاہ ہیں تو اسے جاری رکھیں۔
+config-about-warning-button =
+    .label = میں یہ خطرہ! قبول کرتا ہوں
 config-about-warning-checkbox =
     .label = اگلی بار یہ تنبیہ نمائش کریں
 config-search-prefs =
     .value = تلاش کریں:
     .accesskey = ت
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -37,6 +43,10 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = نقل کریں
+    .accesskey = ن
 config-copy-name =
     .label = نام نقل کریں
     .accesskey = ن
