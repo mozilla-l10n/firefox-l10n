@@ -28,6 +28,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Πατήστε για ταξινόμηση
+config-column-chooser =
+    .tooltip = Πατήστε να επιλέξετε τις προς εμφάνιση στήλες
 
 ## These strings are used for the context menu
 
