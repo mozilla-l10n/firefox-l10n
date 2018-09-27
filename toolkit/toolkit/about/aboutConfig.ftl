@@ -43,6 +43,10 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Kopier
+    .accesskey = K
 config-copy-name =
     .label = Kopier navn
     .accesskey = n
