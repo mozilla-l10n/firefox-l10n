@@ -10,6 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Dit kin jo garânsje ûnnut meitsje!
+config-about-warning-text = Fia dizze konfiguraasjeside kinne jo wiidweidige foarkarren oanpasse dy't dizze applikaasje bestjoere. It is mooglik dat jo skaadlike njonkeneffekten feroarsaakje troch de wearden fan dizze foarkarren te wizigjen. Jo moatte allinnich trochgean as jo witte wat jo dogge of as jo de oanwizingen folgje fan in betrouber advys.
 config-about-warning-button =
     .label = Ik akseptearje it risiko!
 config-about-warning-checkbox =
@@ -33,6 +34,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Klik om te sortearjen
+config-column-chooser =
+    .tooltip = Klik om te toanen kolommen te selektearjen
 
 ## These strings are used for the context menu
 
@@ -60,7 +65,12 @@ config-string =
 config-integer =
     .label = Integer
     .accesskey = I
+config-boolean =
+    .label = Boolean
+    .accesskey = B
 config-default = standert
+config-modified = wizige
+config-locked = beskoattele
 config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
