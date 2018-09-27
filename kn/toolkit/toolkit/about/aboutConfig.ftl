@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = ಇದು ನಿಮ್ಮ ವಾರಂಟಿಯನ್ನು  ಅನೂರ್ಜಿತಗೊಳಿಸಬಹುದು!
 config-about-warning-text = ಈ ಸುಧಾರಿತ ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸುವುದರಿಂದ ಈ ಅನ್ವಯದ ದೃಢತೆ, ಸುರಕ್ಷತೆ ಹಾಗು ಕಾರ್ಯಕ್ಷಮತೆಯ ಮೇಲೆ ಕೆಟ್ಟ ಪರಿಣಾಮಗಳು ಬೀರಬಹುದು. ನೀವು ಏನು ಮಾಡಲು ಹೊರಟಿದ್ದೀರೆಂದು ನಿಮಗೆ ಖಚಿತವಿದ್ದಲ್ಲಿ ಮಾತ್ರ ನೀವು ಮುಂದುವರೆಯ ಬೇಕು.
+config-about-warning-button =
+    .label = ನಾನು ಅಪಾಯವನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತೇನೆ!
 config-about-warning-checkbox =
     .label = ಈ ಎಚ್ಚರಿಕಾ ಸಂದೇಶವನ್ನು ಮುಂದಿನ ಬಾರಿ ತೋರಿಸು
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = r
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
