@@ -15,5 +15,6 @@ policy-BlockAboutAddons = Blokker tilgang til Utvidelsesbehandleren (about:addon
 policy-BlockAboutConfig = Blokker tilgang til about:config-siden.
 policy-BlockAboutProfiles = Blokker tilgang til about:profiles-siden.
 policy-BlockAboutSupport = Blokker tilgang til about:support-siden.
+policy-DisablePrivateBrowsing = Slå av Privat nettlesing.
 policy-InstallAddonsPermission = Tillat visse nettsteder å installere utvidelser.
 policy-Proxy = Konfigurer proxy-innstillinger.
