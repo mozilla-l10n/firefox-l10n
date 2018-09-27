@@ -672,6 +672,36 @@ content-blocking-category-label = Escolher o que bloquear
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Rastreadores que atrasam o carregamento
     .accesskey = a
+content-blocking-fastblock-new-description = Bloqueia somente os rastreadores que impedem que páginas sejam carregadas rapidamente.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Todos os rastreadores detectados
+    .accesskey = T
+content-blocking-tracking-protection-new-description = Bloqueia todos os rastreadores conhecidos (pode impedir que algumas páginas sejam carregadas).
+content-blocking-tracking-protection-option-always =
+    .label = Sempre
+    .accesskey = S
+content-blocking-tracking-protection-option-private =
+    .label = Apenas em janelas privativas
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Alterar lista de bloqueio
+content-blocking-third-party-cookies-label =
+    .label = Cookies de terceiros
+    .accesskey = C
+content-blocking-reject-trackers-description = Bloqueia todos os cookies de terceiros ou apenas aqueles definidos por rastreadores.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Suas configurações em Cookies e Dados de Sites está impedindo alterações nas configurações de Cookies de terceiros.
+content-blocking-change-cookie-settings =
+    .label = Alterar configurações de cookies
+    .accesskey = s
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Rastreadores (recomendado)
+    .accesskey = R
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Rastreadores
+    .accesskey = R
 
 ## Privacy Section - Tracking
 
