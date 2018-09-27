@@ -71,6 +71,8 @@ config-property-string = رشته
 config-property-int = عدد صحیح
 config-property-bool = بولی
 config-new-prompt = نام ترجیح را وارد کنید
+config-nan-title = مقدار نامعتبر
+config-nan-text = عبارت وارد شده عدد نیست.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = مقدار جدید { $type }
