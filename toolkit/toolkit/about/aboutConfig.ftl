@@ -7,7 +7,12 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = Breytingar hér gætu haft afleiðingar!
 config-about-warning-text = Ef þú breytir ítarlegum stillingum getur það haft áhrif á stöðugleika, öryggi, og afköst þessa forrits. Þú ættir því aðeins að halda áfram ef þú veist hvað þú ert að gera.
+config-about-warning-button =
+    .label = Ég samþykki áhættuna!
 config-about-warning-checkbox =
     .label = Sýna aðvörun næst
 config-search-prefs =
@@ -15,6 +20,8 @@ config-search-prefs =
     .accesskey = L
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -29,6 +36,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Smelltu til að raða
+config-column-chooser =
+    .tooltip = Smelltu til að velja hvaða dálka á að sýna
 
 ## These strings are used for the context menu
 
@@ -64,6 +75,7 @@ config-boolean =
     .label = Boole gildi
     .accesskey = B
 config-default = sjálfgefið
+config-modified = breytt
 config-locked = læst
 config-property-string = strengur
 config-property-int = heiltala
