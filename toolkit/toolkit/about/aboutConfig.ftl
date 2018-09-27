@@ -7,11 +7,24 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = Hald fram med varsemd. Du kan bryte garantien!
+config-about-warning-text = Dersom du endrar disse avanserte innstillingane kan det verka negativt på tryggleik, stabilitet og yting i dette programmet. Hald fram berre dersom du veit kva du gjer.
 config-about-warning-checkbox =
     .label = Vis denne åtvaringa neste gong òg
+config-search-prefs =
+    .value = Søk:
+    .accesskey = S
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
+config-pref-column =
+    .label = Innstiling
 config-lock-column =
     .label = Status
 config-type-column =
@@ -23,6 +36,8 @@ config-value-column =
 
 config-pref-column-header =
     .tooltip = Trykk her for å sortere
+config-column-chooser =
+    .tooltip = Trykk her for å velja kolonner som skal visast
 
 ## These strings are used for the context menu
 
@@ -48,6 +63,9 @@ config-new =
 config-string =
     .label = Streng
     .accesskey = S
+config-integer =
+    .label = Heiltal
+    .accesskey = H
 config-boolean =
     .label = Boolsk
     .accesskey = B
@@ -57,6 +75,8 @@ config-property-string = streng
 config-property-int = tal
 config-property-bool = boolsk
 config-new-prompt = Skriv inn namnet på innstilling
+config-nan-title = Ugyldig verdi
+config-nan-text = Teksten du skreiv inn er ikkje eit tal
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Ny { $type } verdi
