@@ -27,11 +27,28 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Ji bo rêzkirinê bitikîne
+config-column-chooser =
+    .tooltip = Ji bo nîşandana stûnan bitikîne
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = j
+    .label = Kopîkirin
+    .accesskey = K
+config-copy-name =
+    .label = kopiya Nav
+    .accesskey = k
 config-copy-value =
     .label = Nirxê Kopiyeyê
+    .accesskey = N
+config-modify =
+    .label = Biguherîne
+    .accesskey = g
+config-toggle =
+    .label = Nirx biguherîne
     .accesskey = N
 config-reset =
     .label = Reset Bike
@@ -46,3 +63,14 @@ config-integer =
     .label = Hejmara Tam
     .accesskey = H
 config-default = standard
+config-locked = kilîtkirî
+config-property-string = rêzik
+config-new-prompt = Navê mîhengan bikeve
+config-nan-title = Nirxê nederbasdar
+config-nan-text = Tiştê te nivîsand ne reqemek e.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Nirxê { $type }'ê yê nû
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Nirxê { $type } bikevê
