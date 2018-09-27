@@ -10,6 +10,8 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = פעולה זו עשויה לבטל את האחריות!
+config-about-warning-button =
+    .label = הסיכון מקובל עלי!
 config-search-prefs =
     .value = חיפוש:
     .accesskey = ח
