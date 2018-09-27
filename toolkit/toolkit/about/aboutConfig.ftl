@@ -12,6 +12,11 @@ config-about-warning-title =
     .value = ¡Equí puen estrizase coses!
 config-about-warning-checkbox =
     .label = Amosar esti avisu la próxima vegada
+config-search-prefs =
+    .value = Guetar:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
