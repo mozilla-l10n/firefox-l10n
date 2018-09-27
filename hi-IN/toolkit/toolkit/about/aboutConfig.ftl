@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = यह आपकी वारंटी को खत्म कर सकता है!
 config-about-warning-text = Changing these advanced settings can be harmful to the stability, security, and performance of this application. You should only continue if you are sure of what you are doing.
+config-about-warning-button =
+    .label = मैं ख़तरा स्वीकार करता हूँ!
 config-about-warning-checkbox =
     .label = इस चेतावनी को अगली बार दिखाएँ
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = r
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
