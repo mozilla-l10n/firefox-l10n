@@ -10,6 +10,8 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Perlakuan ini dapat mengakibatkan pelanggaran terhadap garansi!
+config-about-warning-button =
+    .label = Saya terima risikonya!
 config-about-warning-checkbox =
     .label = Tampilkan peringatan ini lagi nanti
 config-search-prefs =
