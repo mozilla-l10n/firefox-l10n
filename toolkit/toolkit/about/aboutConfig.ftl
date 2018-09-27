@@ -19,6 +19,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Chafata utewuhlelembisa
+config-column-chooser =
+    .tooltip = Chafata utewuphawula emakholamu lotawakhombisa
 
 ## These strings are used for the context menu
 
