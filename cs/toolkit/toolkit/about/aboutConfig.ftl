@@ -32,6 +32,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Klepnutím seřadíte
+config-column-chooser =
+    .tooltip = Klepnutím vyberte sloupce pro zobrazení
 
 ## These strings are used for the context menu
 
