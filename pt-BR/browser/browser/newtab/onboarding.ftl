@@ -7,6 +7,7 @@
 
 onboarding-button-label-try-now = Experimente agora
 onboarding-welcome-header = Bem-vindo ao { -brand-short-name }
+onboarding-start-browsing-button-label = Comece a navegar
 
 ## These strings belong to the individual onboarding messages.
 
@@ -17,6 +18,7 @@ onboarding-welcome-header = Bem-vindo ao { -brand-short-name }
 
 onboarding-private-browsing-title = Navegação privativa
 onboarding-screenshots-title = Capturas de tela
+onboarding-screenshots-text = Crie, salve e compartilhe capturas de tela - sem sair do { -brand-short-name }. Capture uma região ou uma página inteira enquanto navega. Então salve na nuvem para acessar e compartilhar com facilidade.
 onboarding-addons-title = Extensões
 onboarding-addons-text = Adicione ainda mais recursos que fazem o { -brand-short-name } trabalhar mais por você. Compare preços, verifique o clima ou expresse sua personalidade com um tema personalizado.
 onboarding-ghostery-title = Ghostery
