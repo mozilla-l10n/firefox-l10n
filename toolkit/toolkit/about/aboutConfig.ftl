@@ -7,6 +7,9 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = HIC SUNT DRACONES
 
 ## These strings are used for column headers
 
@@ -28,6 +31,9 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-name =
+    .label = Copiar nome
+    .accesskey = o
 config-copy-value =
     .label = Copiar valor
     .accesskey = v
@@ -40,11 +46,15 @@ config-toggle =
 config-string =
     .label = String…
     .accesskey = S
+config-integer =
+    .label = Número inteiro…
+    .accesskey = N
 config-boolean =
     .label = Boolean…
     .accesskey = B
 config-default = padrão
 config-property-string = string
+config-property-int = número inteiro
 config-property-bool = boolean
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
