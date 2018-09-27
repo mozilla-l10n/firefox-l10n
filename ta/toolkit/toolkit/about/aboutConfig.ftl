@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = நீங்கள் உங்கள் உத்தரவாதத்தை மீறலாம்!
 config-about-warning-text = கூடுதல் அமைவுகளை மாற்றுதல் நிலைப்புதன்மை, பாதுகாப்பு மற்றும் இந்த பயன்பாட்டின் செயல்திறனை குறைக்கலாம். இதனை செய்ய வேண்டுமென்றால் தொடரவும்.
+config-about-warning-button =
+    .label = நான் ஆபத்தை ஏற்றுக்கொள்கிறேன்!
 config-about-warning-checkbox =
     .label = இந்த எச்சரிக்கை அடுத்த முறையும் காட்டவும்
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = r
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -71,6 +75,7 @@ config-boolean =
     .label = பூலியன்
     .accesskey = B
 config-default = இயல்பான
+config-modified = மாற்றப்பட்டது
 config-locked = பூட்டப்பட்ட
 config-property-string = சரம்
 config-property-int = இயல் எண்
