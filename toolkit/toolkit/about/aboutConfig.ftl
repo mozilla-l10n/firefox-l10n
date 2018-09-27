@@ -10,6 +10,13 @@ config-window =
 config-about-warning-text = Tällä sivulla olevien asetusten muuttamisella voi olla vahingollisia vaikutuksia tämän ohjelman turvallisuuteen, vakauteen ja suorituskykyyn. Älä koske näihin asetuksiin ellet tiedä tarkalleen, mitä olet tekemässä.
 config-about-warning-checkbox =
     .label = Näytä varoitus myös ensi kerralla
+config-search-prefs =
+    .value = Etsi:
+    .accesskey = E
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -56,6 +63,8 @@ config-property-string = merkkijono
 config-property-int = kokonaisluku
 config-property-bool = totuusarvo
 config-new-prompt = Kirjoita asetuksen nimi
+config-nan-title = Virheellinen arvo
+config-nan-text = Kirjoittamasi merkkijono ei ole numero.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Uusi { $type }
