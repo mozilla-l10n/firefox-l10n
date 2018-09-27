@@ -15,6 +15,8 @@ config-about-warning-checkbox =
 
 ## These strings are used for column headers
 
+config-pref-column =
+    .label = Tên Tùy Chọn
 config-lock-column =
     .label = Trạng thái
 config-type-column =
@@ -24,6 +26,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Nhấn để sắp xếp
+config-column-chooser =
+    .tooltip = Nhấn để chọn cột hiển thị
 
 ## These strings are used for the context menu
 
@@ -34,6 +40,9 @@ config-copy-pref =
 config-copy-name =
     .label = Chép Tên
     .accesskey = T
+config-copy-value =
+    .label = Chép Giá Trị
+    .accesskey = G
 config-modify =
     .label = Sửa đổi
     .accesskey = S
