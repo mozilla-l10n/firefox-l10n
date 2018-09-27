@@ -28,12 +28,21 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-name =
+    .label = ಹೆಸರನ್ನು ಪ್ರತಿ ಮಾಡು
+    .accesskey = N
+config-copy-value =
+    .label = ಮೌಲ್ಯವನ್ನು ಪ್ರತಿ ಮಾಡು
+    .accesskey = V
 config-modify =
     .label = ಮಾರ್ಪಡಿಸು
     .accesskey = M
 config-reset =
     .label = ಮತ್ತೊಮ್ಮೆ ಹೊಂದಿಸು
     .accesskey = R
+config-new =
+    .label = ಹೊಸ
+    .accesskey = w
 config-string =
     .label = ಪದಸಮುಚ್ಚಯ
     .accesskey = S
@@ -43,11 +52,14 @@ config-integer =
 config-boolean =
     .label = ಬೂಲಿಯನ್
     .accesskey = B
+config-default = ಪೂರ್ವನಿಯೋಜಿತ
 config-locked = ಲಾಕ್ ಮಾಡಲಾದ
 config-property-string = ಪದಸಮುಚ್ಚಯ
 config-property-int = ಪೂರ್ಣಾಂಕ
 config-property-bool = ಬೂಲಿಯನ್
 config-new-prompt = ಆದ್ಯತೆಯ ಹೆಸರನ್ನು ನಮೂದಿಸಿ
+config-nan-title = ಅಮಾನ್ಯವಾದ ಮೌಲ್ಯ
+config-nan-text = ನೀವು ನಮೂದಿಸಿದ ಪಠ್ಯವು ಒಂದು ಸಂಖ್ಯೆಯಾಗಿಲ್ಲ.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = ಹೊಸ { $type } ಮೌಲ್ಯ
