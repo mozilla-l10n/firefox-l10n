@@ -8,6 +8,7 @@
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = કાળજી રાખો, આ પાનું લવાઈ ગયેલ છે!
+config-about-warning-text = આ અદ્યતન સેટીંગની કિંમતો બદલવાનું આ કાર્યક્રમની સુગમતા, સુરક્ષા, અને પ્રભાવ માટે નુકસાનકારક હોઈ શકે. તમારે માત્ર ત્યારે જ ચાલુ રાખવું જોઈએ જો તમે ચોક્કસ હોવ કે તમે શું કરી રહ્યા છો.
 config-about-warning-checkbox =
     .label = આ ચેતવણી મને આગળના સમયે બતાવશો
 
@@ -31,6 +32,9 @@ config-copy-pref =
     .key = C
     .label = નકલ કરો
     .accesskey = C
+config-copy-name =
+    .label = નામની નકલ કરો
+    .accesskey = N
 config-copy-value =
     .label = કિંમતની નકલ કરો
     .accesskey = V
@@ -43,6 +47,9 @@ config-toggle =
 config-reset =
     .label = ફરી સુયોજીત કરો
     .accesskey = R
+config-new =
+    .label = નવું
+    .accesskey = w
 config-string =
     .label = શબ્દમાળા
     .accesskey = S
