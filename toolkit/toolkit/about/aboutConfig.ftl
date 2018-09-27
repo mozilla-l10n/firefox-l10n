@@ -68,6 +68,7 @@ config-boolean =
     .label = Valor booleana
     .accesskey = b
 config-default = defaut
+config-locked = verrolhat
 config-property-string = cadena
 config-property-int = entièr
 config-property-bool = boolean
