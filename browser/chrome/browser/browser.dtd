@@ -35,6 +35,14 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Loka öðrum flipum">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+
+<!-- Pin Tab and Pin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+<!-- Reload Tab and Reload Selected Tabs have the same accesskey
+but will never be visible at the same time. -->
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -50,8 +58,6 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "æ">
 <!ENTITY  sendLinkToDevice.label             "Senda tengil á tæki">
 <!ENTITY  sendLinkToDevice.accesskey         "æ">
-<!ENTITY  sendToDeviceFeedback.label         "Sent!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "Í biðröð (ótengt)">
 <!ENTITY  moveToNewWindow.label              "Færa yfir í nýjan glugga">
 <!ENTITY  moveToNewWindow.accesskey          "g">
 <!ENTITY  bookmarkAllTabs.label              "Setja alla flipa í bókamerki…">
@@ -60,7 +66,6 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "u">
 <!ENTITY  closeTab.label                     "Loka flipa">
 <!ENTITY  closeTab.accesskey                 "L">
-
 
 <!ENTITY  listAllTabs.label      "Sýna alla flipa">
 
@@ -128,7 +133,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Sýna alla flipa">
 <!ENTITY showAllTabsCmd.accesskey "a">
 <!ENTITY toggleReaderMode.key "R">
-
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Skráðu þig inn í &syncBrand.shortName.label;">
@@ -182,16 +186,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Gerast áskrifandi að þessari síðu">
 <!ENTITY subscribeToPageMenuitem.label "Gerast áskrifandi að þessari síðu…">
+
 <!ENTITY addCurPagesCmd.label "Setja alla flipa í bókamerki…">
 <!ENTITY showAllBookmarks2.label "Sýna öll bókamerki">
 <!ENTITY recentBookmarks.label "Nýlega sett í bókamerki">
 <!ENTITY otherBookmarksCmd.label "Önnur bókamerki">
 <!ENTITY mobileBookmarksCmd.label "Bókamerki farsíma">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sýna fleiri bókamerki">
-<!ENTITY showRecentlyBookmarked.label     "Sýna nýlega sett í bókamerki">
-<!ENTITY showRecentlyBookmarked.accesskey "n">
-<!ENTITY hideRecentlyBookmarked.label     "Fela nýlega sett í bókamerki">
-<!ENTITY hideRecentlyBookmarked.accesskey "F">
 
 <!ENTITY backCmd.label                "Til baka">
 <!ENTITY backCmd.accesskey            "B">
@@ -223,7 +224,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Geyma gögn í varanlegri gagnageymslu">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Vafri er á fjarstýringu">
 
-
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sýsla með deilingu á myndavél og/eða hljóðnema fyrir þetta vefsvæði">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sýsla með að deila hljóðnema á vefsvæðinu">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Sýsla með að deila gluggum eða skjá á vefsvæðinu">
@@ -232,7 +232,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Þýða þessa síðu">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sýsla með þýðingar á síðu">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Sýsla með notkun á DRM hugbúnaði">
-
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Opna MIDI flipa">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Þú hefur lokað fyrir myndavélina á þessu vefsvæði.">
@@ -243,7 +242,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Þú hefur lokað fyrir gagna geymslu á þessu vefsvæði.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Þú hefur lokað á sprettiglugga fyrir þetta vefsvæði.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Þú hefur lokað á að nálgast gluggagögn fyrir þetta vefsvæði.">
-
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Þú hefur lokað á að þetta vefsvæði geti notað Adobe Flash viðbót.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Þú hefur lokað fyrir MIDI aðgang á þessu vefsvæði.">
 
@@ -298,6 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Vefforritari">
 <!ENTITY webDeveloperMenu.accesskey   "f">
+
 
 <!ENTITY inspectContextMenu.label     "Skoða einindi">
 <!ENTITY inspectContextMenu.accesskey "e">
@@ -392,7 +391,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Viltu sjá hérna þína flipa frá öðrum tækjum?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Samstilla stillingar">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Opna Sync stillingar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Skráðu þig inn til að skoða lista af flipum frá öðrum tækjum.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Nauðsynlegt er að staðfesta reikning.">
@@ -405,34 +403,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Bæta við í tækjaslá">
 <!ENTITY customizeMenu.addToToolbar.accesskey "a">
-<!ENTITY customizeMenu.addToPanel.label "Bæta við valmynd">
-<!ENTITY customizeMenu.addToPanel.accesskey "m">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
+     in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Bæta við yfirflæði valmynd">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
-<!ENTITY customizeMenu.moveToToolbar.label "Færa yfir á verkfæraslá">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "F">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Færa yfir á valmynd">
-<!ENTITY customizeMenu.moveToPanel.accesskey "F">
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Festa við yfirflæði valmynd">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "F">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Taka úr yfirfræði valmynd">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "T">
 <!ENTITY customizeMenu.removeFromToolbar.label "Fjarlægja frá verkfæraslá">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
-<!ENTITY customizeMenu.removeFromMenu.label "Fjarlægja frá valmynd">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Bæta við fleiri hlutum…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -441,7 +429,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Leita eða sláðu inn veffang">
-<!ENTITY urlbar.placeholder3          "Sláðu inn leitarskilyrði og heimilisföng hérna">
 <!ENTITY urlbar.accesskey             "ð">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Skráarending:">
@@ -575,7 +562,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Setja ramma í bókamerki">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Afrita tengil">
-<!ENTITY copyURLFeedback.label        "Afritað!">
 <!ENTITY emailPageCmd.label           "Senda tengil…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Vista síðu sem…">
@@ -606,6 +592,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Fela þetta tengiforrit">
 <!ENTITY hidePluginCmd.accesskey      "F">
 <!ENTITY copyLinkCmd.label            "Afrita tengil">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "r">
 <!ENTITY copyImageCmd.label           "Afrita staðsetningu myndar">
 <!ENTITY copyImageCmd.accesskey       "s">
@@ -616,6 +605,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Afrita hljóðtengil">
 <!ENTITY copyAudioURLCmd.accesskey    "h">
 <!ENTITY copyEmailCmd.label           "Afrita póstfang">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "p">
 <!ENTITY thisFrameMenu.label              "Þessi rammi">
 <!ENTITY thisFrameMenu.accesskey          "Þ">
@@ -751,8 +743,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Bæta við orðasöfnum…">
 <!ENTITY spellAddDictionaries.accesskey "B">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
 <!ENTITY editBookmark.done.label                     "Ljúka">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -794,6 +789,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.removeCertException.accesskey "r">
 
 <!ENTITY identity.moreInfoLinkText2 "Nánari upplýsingar">
+
 
 <!ENTITY identity.permissions "Heimildir">
 <!ENTITY identity.permissionsEmpty "Þú hefur ekki gefið þessu vefsvæði nein sérstök réttindi.">
@@ -897,22 +893,48 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Hljóð frá flipa verður deilt.">
 <!ENTITY getUserMedia.allWindowsShared.message "Öllum sýnilegum gluggum á skjánum verður deilt.">
 
+
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking tracker content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+
 <!ENTITY trackingProtection.title "Vörn gegn gagnasöfnun">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; hefur lokað á suma hluta af þessari síðu sem gætu verið að fylgjast með vafra.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Þessi síða inniheldur hluti sem gætu fylgst með þér. Þú hefur tekið af vörnina að fylgst sé með þér.">
-<!ENTITY trackingProtection.notDetected3 "Engir hlutir sem fylgjast með þér fundust á þessari síðu.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Slökkva á vörn fyrir þetta vefsvæði">
-<!ENTITY trackingProtection.unblock.accesskey "S">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Slökkva á vörn fyrir þessa lotu">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "S">
-<!ENTITY trackingProtection.block2.label "Virkja vernd">
-<!ENTITY trackingProtection.block2.accesskey "e">
 
 <!ENTITY pluginNotification.showAll.label "Sýna allt">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -985,14 +1007,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label2 "Endurræstu til að uppfæra &brandShorterName;">
 
-<!ENTITY newTabControlled.message "Einhver viðbót hefur breytt síðunni sem er alltaf opnuð fyrir nýja flipa. Ef þú vilt ekki þessa breytingu geturðu endurheimt eldri stillingar.">
-
 <!ENTITY newTabControlled.header.message "Nýi flipinn breyttist.">
 <!ENTITY newTabControlled.keepButton.label "Halda breytingum">
 <!ENTITY newTabControlled.keepButton.accesskey "g">
-<!ENTITY newTabControlled.restoreButton.label "Endurheimta stillingar">
-<!ENTITY newTabControlled.restoreButton.accesskey "r">
-
 <!ENTITY newTabControlled.disableButton.label "Slökkva á viðbót">
 <!ENTITY newTabControlled.disableButton.accesskey "ð">
 
@@ -1000,6 +1017,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.keepButton.accesskey "H">
 <!ENTITY homepageControlled.disableButton.label "Slökkva á viðbót">
 <!ENTITY homepageControlled.disableButton.accesskey "ö">
+
 
 <!ENTITY pageActionButton.tooltip "Síðu aðgerðir">
 <!ENTITY pageAction.addToUrlbar.label "Bæta við í staðfestingarslá">
@@ -1009,9 +1027,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Sýsla með viðbót…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Senda flipa á tæki">
+
 <!ENTITY sendToDevice.syncNotReady.label "Samstilli tæki…">
 
 <!ENTITY pageAction.shareUrl.label "Deila">
+
 
 <!ENTITY libraryButton.tooltip "Skoða feril, vistuð bókamerki, og meira">
 
