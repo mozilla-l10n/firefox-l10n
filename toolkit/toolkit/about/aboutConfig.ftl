@@ -7,6 +7,17 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = ಇದು ನಿಮ್ಮ ವಾರಂಟಿಯನ್ನು  ಅನೂರ್ಜಿತಗೊಳಿಸಬಹುದು!
+config-about-warning-text = ಈ ಸುಧಾರಿತ ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸುವುದರಿಂದ ಈ ಅನ್ವಯದ ದೃಢತೆ, ಸುರಕ್ಷತೆ ಹಾಗು ಕಾರ್ಯಕ್ಷಮತೆಯ ಮೇಲೆ ಕೆಟ್ಟ ಪರಿಣಾಮಗಳು ಬೀರಬಹುದು. ನೀವು ಏನು ಮಾಡಲು ಹೊರಟಿದ್ದೀರೆಂದು ನಿಮಗೆ ಖಚಿತವಿದ್ದಲ್ಲಿ ಮಾತ್ರ ನೀವು ಮುಂದುವರೆಯ ಬೇಕು.
+config-about-warning-checkbox =
+    .label = ಈ ಎಚ್ಚರಿಕಾ ಸಂದೇಶವನ್ನು ಮುಂದಿನ ಬಾರಿ ತೋರಿಸು
+config-search-prefs =
+    .value = ಹುಡುಕ:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -28,6 +39,10 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = ಪ್ರತಿಮಾಡು
+    .accesskey = C
 config-copy-name =
     .label = ಹೆಸರನ್ನು ಪ್ರತಿ ಮಾಡು
     .accesskey = N
