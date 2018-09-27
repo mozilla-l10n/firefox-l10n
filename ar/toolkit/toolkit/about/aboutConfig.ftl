@@ -12,6 +12,11 @@ config-about-warning-title =
     .value = قد يلغي هذا ضمانك!
 config-about-warning-checkbox =
     .label = أظهر هذا التحذير في المرّة القادمة
+config-search-prefs =
+    .value = ابحث:
+    .accesskey = ح
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
