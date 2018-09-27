@@ -29,12 +29,18 @@ config-value-column =
 
 ## These strings are used for the context menu
 
+config-copy-name =
+    .label = Namme kopiearje
+    .accesskey = a
 config-copy-value =
     .label = Wearde kopiearje
     .accesskey = W
 config-modify =
     .label = Oanpasse
     .accesskey = O
+config-toggle =
+    .label = Omskeakelje
+    .accesskey = s
 config-new =
     .label = Nij
     .accesskey = N
