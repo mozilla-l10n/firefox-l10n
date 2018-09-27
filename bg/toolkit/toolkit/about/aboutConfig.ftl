@@ -10,6 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Това ще отмени всякакви гаранции за стабилност!
+config-about-warning-text = Промяната на някои от тези разширени настройки може да се отрази пагубно върху стабилността, безопасността и производителността на приложението. Продължете, само ако сте сигурни какво правите.
 config-about-warning-button =
     .label = Приемам риска!
 config-about-warning-checkbox =
