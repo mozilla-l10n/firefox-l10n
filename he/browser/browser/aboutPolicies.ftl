@@ -4,7 +4,7 @@
 
 about-policies-title = מדיניות ארגוניות
 # 'Active' is used to describe the policies that are currently active
-active-policies-tab = פעילה
+active-policies-tab = פעיל
 errors-tab = שגיאות
 documentation-tab = תיעוד
 policy-name = שם מדיניות

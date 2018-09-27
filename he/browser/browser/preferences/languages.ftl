@@ -44,3 +44,4 @@ languages-active-code-format =
 browser-languages-window =
     .title = הגדרות שפה של { -brand-short-name }
     .style = width: 40em
+browser-languages-description = ‏{ -brand-short-name } יציג את השפה הראשונה כברירת המחדל שלך ויציג שפות חלופיות במידת הצורך לפי סדר הופעתם.
