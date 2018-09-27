@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Hier endet möglicherweise die Gewährleistung!
 config-about-warning-text = Änderungen der Standardwerte dieser erweiterten Einstellungen können gefährlich für Stabilität, Sicherheit und Geschwindigkeit dieser Anwendung sein. Sie sollten nur fortfahren, wenn Sie genau wissen, was Sie tun.
+config-about-warning-button =
+    .label = Ich bin mir der Gefahren bewusst!
 config-about-warning-checkbox =
     .label = Diese Meldung beim nächsten Mal anzeigen
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = S
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -71,6 +75,7 @@ config-boolean =
     .label = Boolean
     .accesskey = B
 config-default = Standard
+config-modified = geändert
 config-locked = gesperrt
 config-property-string = string
 config-property-int = integer
