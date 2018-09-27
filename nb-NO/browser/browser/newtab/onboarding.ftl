@@ -18,3 +18,5 @@ onboarding-start-browsing-button-label = Start nettlesing
 
 onboarding-private-browsing-title = Privat nettlesing
 onboarding-addons-title = Utvidelser
+onboarding-addons-text = Legg til enda flere funksjoner som gjør at { -brand-short-name } fungerer bedre for deg.. Sammenlign priser, sjekk været eller uttrykk din personlighet med et tilpasset tema.
+onboarding-ghostery-title = Ghostery
