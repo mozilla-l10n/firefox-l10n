@@ -59,3 +59,5 @@ config-integer =
 config-boolean =
     .label = બુલિયન
     .accesskey = B
+config-nan-title = અયોગ્ય કિંમત
+config-nan-text = તમે દાખલ થયેલ લખાણ નંબર નથી.
