@@ -13,6 +13,11 @@ config-about-warning-title =
 config-about-warning-text = Gall newid y gosodiadau uwch wneud niwed i sefydlogrwydd a pherfformiad y rhaglen. Dylech barhau dim ond os ydych yn gwybod beth rydych yn ei wneud.
 config-about-warning-checkbox =
     .label = Dangos y rhybudd y tro nesaf
+config-search-prefs =
+    .value = Chwilio:
+    .accesskey = C
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -41,6 +46,9 @@ config-copy-pref =
 config-reset =
     .label = Ailosod
     .accesskey = A
+config-new =
+    .label = Newydd
+    .accesskey = N
 config-boolean =
     .label = Booleaidd
     .accesskey = B
