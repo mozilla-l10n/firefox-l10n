@@ -10,11 +10,15 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Kontuz, zure bermeak baliorik gabe gera daitezke!
+config-about-warning-button =
+    .label = Arriskua onartzen dut!
 config-about-warning-checkbox =
     .label = Erakutsi ohar hau hurrengoan
 config-search-prefs =
     .value = Bilatu:
     .accesskey = B
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -68,6 +72,7 @@ config-boolean =
     .label = Boolearra
     .accesskey = B
 config-default = lehenetsia
+config-modified = aldatuta
 config-locked = blokeatua
 config-property-string = katea
 config-property-int = osokoa
