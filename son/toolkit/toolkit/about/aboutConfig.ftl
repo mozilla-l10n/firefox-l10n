@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Woo ga hin ka war gaarantoo mun!
 config-about-warning-text = Jinehere hanseyaney wey barmayroo ka hin ka hasaraw dam war porogaramoo tabatiyanoo, saajaa wala goyyanoo ra. War ga hima koy jine hinne nda war g'alhakiika nda haya kaŋ war g'a tee.
+config-about-warning-button =
+    .label = Ay yadda allamaanaa ga!
 config-about-warning-checkbox =
     .label = Yaamaroo woo cebe yane hiino
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = C
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
