@@ -63,6 +63,7 @@ config-boolean =
     .label = Abulan
     .accesskey = b
 config-default = amezwer
+config-modified = Ittusnifel
 config-locked = Isekkweṛ:
 config-property-string = azrir n isekkilen
 config-property-int = ummid
