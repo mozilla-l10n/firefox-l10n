@@ -11,8 +11,17 @@ config-window =
 config-about-warning-title =
     .value = 動作保証対象外になります！
 config-about-warning-text = プログラムの高度な設定を変更すると、安定性、セキュリティ、パフォーマンスに深刻な問題を引き起こす恐れがあります。設定変更による影響を完全に理解している場合に限ってご利用ください。
+config-about-warning-button =
+    .label = 危険性を承知の上で使用する
 config-about-warning-checkbox =
     .label = 次回もこの警告を表示する
+config-search-prefs =
+    .value = 検索:
+    .accesskey = r
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -65,3 +74,18 @@ config-integer =
 config-boolean =
     .label = 真偽値...
     .accesskey = B
+config-default = 初期設定値
+config-modified = 変更されています
+config-locked = ロックされています
+config-property-string = 文字列
+config-property-int = 整数値
+config-property-bool = 真偽値
+config-new-prompt = 設定名を入力してください
+config-nan-title = 不正な値
+config-nan-text = 入力されたテキストが数値ではありません。
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = 新しい{ $type }の設定名
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = { $type }を入力してください
