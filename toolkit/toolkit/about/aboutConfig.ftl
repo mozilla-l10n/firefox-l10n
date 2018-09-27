@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+config-window =
+    .title = mabapi le:peakanyo
 
 ## Strings used to display a warning in about:config
 
@@ -19,9 +21,17 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Kgotla go beakanya
+config-column-chooser =
+    .tooltip = Kgotla go kgetha dikholomo tšeo o di bontšhago
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Kopolla
+    .accesskey = K
 config-copy-value =
     .label = Kopolla Boleng
     .accesskey = B
