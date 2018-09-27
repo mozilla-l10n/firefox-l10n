@@ -35,6 +35,7 @@ category-home =
 pane-search-title = Nda tuku
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Ña i'í tsi ña kunka vaa
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 # The word "account" can be translated, do not translate or transliterate "Firefox".
@@ -72,6 +73,18 @@ extension-controlled-homepage-override = In extensión, <img data-l10n-name="ico
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = In extensión, <img data-l10n-name="icon"/> { $name }, chichuin página xikua  tsaà .
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Iin extensión, <img data-l10n-name="icon"/> { $name }, tsikunkai tana ña ndukuku.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = Iin extensión, <img data-l10n-name="icon"/> { $name }, tsiniñui xikua.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Iin extensión, <img data-l10n-name="icon"/> { $name }, tsasia ña nduku.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Iin extensión, <img data-l10n-name="icon"/> { $name }, Tsasia nu samu nixi sachuin.
 
 ## Preferences UI Search Results
 

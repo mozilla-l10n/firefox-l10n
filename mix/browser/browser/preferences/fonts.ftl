@@ -99,6 +99,8 @@ fonts-minsize-none =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-label = Chika see tutu nchicavau
+    .accesskey = C
 fonts-languages-fallback-name-arabic =
     .label = Árabe
 fonts-languages-fallback-name-baltic =
