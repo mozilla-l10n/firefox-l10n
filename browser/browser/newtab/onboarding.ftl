@@ -7,6 +7,7 @@
 
 onboarding-button-label-try-now = Probalo ahora
 onboarding-welcome-header = Bienvenido a { -brand-short-name }
+onboarding-start-browsing-button-label = Empiece a navegar
 
 ## These strings belong to the individual onboarding messages.
 
@@ -15,3 +16,9 @@ onboarding-welcome-header = Bienvenido a { -brand-short-name }
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-private-browsing-title = Navegación privada
+onboarding-private-browsing-text = Navegue sí mismo. Navegación privada con Bloqueo de contenido bloquea en línea los rastreadores que lo siguen en la web.
+onboarding-screenshots-title = Capturas de pantalla
+onboarding-screenshots-text = Tome, guarde y comparta capturas de pantalla sin dejar { -brand-short-name }. Capture una parte o la página completa mientras navega. Luego guarde en la web para compartir y acceder fácilmente.
+onboarding-addons-title = Complementos
+onboarding-ghostery-title = Ghostery
