@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = এর ফলে আপনার জন্য উপলব্ধ  ওয়ারেন্টি বাতিল হয়ে যেতে পারে!
 config-about-warning-text = উন্নত এই বৈশিষ্ট্যগুলির মান পরিবর্তনের ফলে  অ্যাপ্লিকেশনের স্থায়ীত্ব, নিরাপত্তা ও কর্মক্ষমতা প্রভাবিত হতে পারে। কর্ম সম্পর্কে সম্পূর্ণরূপে নিশ্চিত হলে তবেই এগিয়ে চলুন।
+config-about-warning-button =
+    .label = আমি ঝুঁকি গ্রহণ করলাম!
 config-about-warning-checkbox =
     .label = পরবর্তীবার এই সতর্কবার্তা প্রদর্শন করা হবে
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = অ
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
