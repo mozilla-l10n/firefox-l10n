@@ -11,8 +11,17 @@ config-window =
 config-about-warning-title =
     .value = Будьте осторожны, а то лишитесь гарантии!
 config-about-warning-text = Изменение этих настроек может привести к ухудшению стабильности, безопасности и производительности данного приложения. Вам следует изменять что-либо только в том случае, если вы уверены в том, что делаете.
+config-about-warning-button =
+    .label = Я принимаю на себя риск!
 config-about-warning-checkbox =
     .label = Показывать это предупреждение в следующий раз
+config-search-prefs =
+    .value = Поиск:
+    .accesskey = о
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -30,6 +39,34 @@ config-value-column =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Копировать
+    .accesskey = п
 config-copy-name =
     .label = Копировать имя
     .accesskey = и
+config-copy-value =
+    .label = Копировать значение
+    .accesskey = в
+config-modify =
+    .label = Изменить
+    .accesskey = з
+config-toggle =
+    .label = Переключить
+    .accesskey = л
+config-reset =
+    .label = Сбросить
+    .accesskey = б
+config-new =
+    .label = Создать
+    .accesskey = а
+config-string =
+    .label = Строка
+    .accesskey = к
+config-integer =
+    .label = Целое
+    .accesskey = е
+config-boolean =
+    .label = Логическое
+    .accesskey = ч
