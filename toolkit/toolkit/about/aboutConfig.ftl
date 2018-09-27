@@ -77,6 +77,7 @@ config-property-string = teksta
 config-property-int = numera
 config-property-bool = logika
 config-new-prompt = Tajpu la nomon de la prefero
+config-nan-title = Nevalida valoro
 config-nan-text = La teksto kiun vi tajpis ne estas numero.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
