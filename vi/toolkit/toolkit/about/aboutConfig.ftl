@@ -12,6 +12,8 @@ config-about-warning-title =
     .value = Phần này có thể làm vô hiệu chế độ bảo hành!
 config-about-warning-checkbox =
     .label = Hiện cảnh báo này vào lần sau
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
