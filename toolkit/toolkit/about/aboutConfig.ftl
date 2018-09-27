@@ -7,7 +7,12 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = यह आपकी वारंटी को खत्म कर सकता है!
 config-about-warning-text = Changing these advanced settings can be harmful to the stability, security, and performance of this application. You should only continue if you are sure of what you are doing.
+config-about-warning-checkbox =
+    .label = इस चेतावनी को अगली बार दिखाएँ
 
 ## These strings are used for column headers
 
@@ -24,6 +29,8 @@ config-value-column =
 
 config-pref-column-header =
     .tooltip = छाँटने के लिए क्लिक करें
+config-column-chooser =
+    .tooltip = दिखाने के लिए स्तंभ चुनने के लिए क्लिक करें
 
 ## These strings are used for the context menu
 
@@ -64,6 +71,8 @@ config-property-string = स्ट्रिंग
 config-property-int = पूर्णांक
 config-property-bool = बुलियन
 config-new-prompt = वरीयता नाम दाखिल करें
+config-nan-title = अवैध मान
+config-nan-text = आपके द्वारा दाखिल पाठ एक संख्या नहीं है.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = नया { $type } मान
