@@ -72,6 +72,7 @@ config-boolean =
     .accesskey = B
 config-default = rhagosodiad
 config-locked = cloi
+config-property-string = llinyn
 config-property-int = cyfanrif
 config-property-bool = booleaidd
 config-new-prompt = Rhoi enw blaenoriaeth
