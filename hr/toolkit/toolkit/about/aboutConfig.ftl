@@ -11,6 +11,11 @@ config-window =
 config-about-warning-title =
     .value = Ovo bi moglo poništiti vašu garanciju!
 config-about-warning-text = Mijenjanje ovih naprednih postavki može biti štetno za stabilnost, sigurnost i učinak ovog programa. Nastavite samo ako znate što radite.
+config-search-prefs =
+    .value = Traži:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -63,6 +68,8 @@ config-property-string = izraz
 config-property-int = cijeli broj
 config-property-bool = boolean
 config-new-prompt = Upišite naziv postavke
+config-nan-title = Neispravna vrijednost
+config-nan-text = Unešeni tekst nije broj.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nova { $type } vrijednost
