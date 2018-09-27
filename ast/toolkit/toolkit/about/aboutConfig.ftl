@@ -10,6 +10,8 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = ¡Equí puen estrizase coses!
+config-about-warning-button =
+    .label = ¡Aceuto'l riesgu!
 config-about-warning-checkbox =
     .label = Amosar esti avisu la próxima vegada
 config-search-prefs =
@@ -27,6 +29,8 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Primi pa ordenar
 
 ## These strings are used for the context menu
 
