@@ -26,18 +26,18 @@ config-focus-search-2 =
 ## These strings are used for column headers
 
 config-pref-column =
-    .label = Nombre Opción{ " " }
+    .label = Nombre Opción
 config-lock-column =
     .label = Estado
 config-type-column =
-    .label = Tipo{ " " }
+    .label = Tipo
 config-value-column =
-    .label = Valor{ " " }
+    .label = Valor
 
 ## These strings are used for tooltips
 
 config-pref-column-header =
-    .tooltip = Haga clic para ordenar{ " " }
+    .tooltip = Haga clic para ordenar
 config-column-chooser =
     .tooltip = Haga clic para seleccionar columnas a mostrar
 
