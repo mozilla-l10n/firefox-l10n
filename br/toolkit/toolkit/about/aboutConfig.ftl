@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Ho kwarant a vefe nullet ganti !
 config-about-warning-text = Mekaus evit stabilder, diogelroez ha digonusted an arload e c'hall bezañ kemmañ an arventennoù kempleshoc'h. Kendalc'hit mard oc'h sur n'emaoc'h ket oc'h ober ur fazi.
+config-about-warning-button =
+    .label = Kemer a ran ar riskl!
 config-about-warning-checkbox =
     .label = Diskouez ar c'hemenn-mañ ar wech a zeu
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = K
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
