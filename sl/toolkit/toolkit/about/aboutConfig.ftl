@@ -69,6 +69,7 @@ config-boolean =
     .label = Logična vrednost
     .accesskey = G
 config-default = privzeto
+config-modified = spremenjeno
 config-locked = zaklenjeno
 config-property-string = niz znakov
 config-property-int = celo število
