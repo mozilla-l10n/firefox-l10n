@@ -20,3 +20,13 @@ config-value-column =
 
 ## These strings are used for the context menu
 
+config-property-string = ტექსტი
+config-property-int = მთელი რიცხვი
+config-property-bool = ლოგიკური ოპერატორი
+config-new-prompt = პარამეტრის სახელის მითითება
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = ახალი მნიშვნელობა – { $type }
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = მნიშვნელობის მითითება – { $type }
