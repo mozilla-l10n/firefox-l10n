@@ -38,6 +38,8 @@ config-value-column =
 
 config-pref-column-header =
     .tooltip = Пстрыкніце, каб размеркаваць
+config-column-chooser =
+    .tooltip = Націсніце, каб вылучыць слупкі, якія паказваць
 
 ## These strings are used for the context menu
 
