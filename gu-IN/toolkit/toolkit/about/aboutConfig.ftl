@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+config-window =
+    .title = about:config
 
 ## Strings used to display a warning in about:config
 
@@ -11,6 +13,11 @@ config-about-warning-title =
 config-about-warning-text = આ અદ્યતન સેટીંગની કિંમતો બદલવાનું આ કાર્યક્રમની સુગમતા, સુરક્ષા, અને પ્રભાવ માટે નુકસાનકારક હોઈ શકે. તમારે માત્ર ત્યારે જ ચાલુ રાખવું જોઈએ જો તમે ચોક્કસ હોવ કે તમે શું કરી રહ્યા છો.
 config-about-warning-checkbox =
     .label = આ ચેતવણી મને આગળના સમયે બતાવશો
+config-search-prefs =
+    .value = શોધો:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -25,6 +32,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = વર્ગીકરણ કરવા માટે ક્લિક કરો
+config-column-chooser =
+    .tooltip = સ્તંભોને પસંદ કરવા અને બતાવવા ક્લિક કરો
 
 ## These strings are used for the context menu
 
@@ -59,5 +70,17 @@ config-integer =
 config-boolean =
     .label = બુલિયન
     .accesskey = B
+config-default = મૂળભુત
+config-locked = તાળુ મારેલ
+config-property-string = શબ્દમાળા
+config-property-int = પૂર્ણાંક
+config-property-bool = બુલિયન
+config-new-prompt = પસંદગી નામ દાખલ કરો
 config-nan-title = અયોગ્ય કિંમત
 config-nan-text = તમે દાખલ થયેલ લખાણ નંબર નથી.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = નવી { $type } કિંમત
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = { $type } કિંમત દાખલ કરો
