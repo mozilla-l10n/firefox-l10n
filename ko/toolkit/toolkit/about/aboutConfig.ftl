@@ -2,9 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+config-window =
+    .title = about:config
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = 고급 환경 설정 기능
+config-about-warning-text = 본 환경 설정 페이지는 프로그램의 각종 옵션을 모두 변경할 수 있는 고급 기능입니다. 설정값을 바꿈으로서 문제가 발생할 수도 있습니다. 사용 방법과 이로 인한 영향을 확실히 알고 있는 경우에만 기능을 이용해 주시기 바랍니다.
+config-about-warning-checkbox =
+    .label = 다음에 이 경고창 계속 보여 주기
+config-search-prefs =
+    .value = 검색:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -19,9 +32,17 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = 정렬
+config-column-chooser =
+    .tooltip = 표시하고자 하는 항목을 클릭하십시오.
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = 복사하기
+    .accesskey = C
 config-copy-name =
     .label = 이름 복사
     .accesskey = N
