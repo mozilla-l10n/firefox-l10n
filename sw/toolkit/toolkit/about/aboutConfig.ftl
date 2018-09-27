@@ -71,6 +71,7 @@ config-boolean =
     .label = Buleani
     .accesskey = B
 config-default = chaguo msingi
+config-modified = ilibadilishwa
 config-locked = imefungwa
 config-property-string = mtungo
 config-property-int = namba
