@@ -10,6 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Phần này có thể làm vô hiệu chế độ bảo hành!
+config-about-warning-text = Thay đổi những thiết lập nâng cao này có thể gây hại cho sự ổn định, bảo mật và tính năng của ứng dụng này. Bạn chỉ nên tiếp tục nếu bạn hoàn toàn chắc chắn về những gì mình đang làm.
 config-about-warning-checkbox =
     .label = Hiện cảnh báo này vào lần sau
 config-search-prefs =
