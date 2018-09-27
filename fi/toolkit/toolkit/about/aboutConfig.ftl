@@ -7,7 +7,12 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = Huomio, vaarallinen sivu edessä!
 config-about-warning-text = Tällä sivulla olevien asetusten muuttamisella voi olla vahingollisia vaikutuksia tämän ohjelman turvallisuuteen, vakauteen ja suorituskykyyn. Älä koske näihin asetuksiin ellet tiedä tarkalleen, mitä olet tekemässä.
+config-about-warning-button =
+    .label = Otan riskin!
 config-about-warning-checkbox =
     .label = Näytä varoitus myös ensi kerralla
 config-search-prefs =
@@ -20,9 +25,21 @@ config-focus-search-2 =
 
 ## These strings are used for column headers
 
+config-pref-column =
+    .label = Asetuksen nimi
+config-lock-column =
+    .label = Tila
+config-type-column =
+    .label = Tyyppi
+config-value-column =
+    .label = Arvo
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Napsauta järjestääksesi
+config-column-chooser =
+    .tooltip = Valitse näkyvät sarakkeet
 
 ## These strings are used for the context menu
 
@@ -58,6 +75,7 @@ config-boolean =
     .label = Totuusarvo
     .accesskey = T
 config-default = oletus
+config-modified = muutettu
 config-locked = lukittu
 config-property-string = merkkijono
 config-property-int = kokonaisluku
