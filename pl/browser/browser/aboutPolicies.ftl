@@ -13,4 +13,4 @@ policy-value=Wartość
 policy-errors=Błędy
 
 gpo-machine-only=
-  .title=Podcza używanania zasad grupy, te zasady mogą być ustawione wyłącznie na poziomie komputera.
+  .title=Podczas używania zasad grupy, te zasady mogą być ustawione wyłącznie na poziomie komputera.
