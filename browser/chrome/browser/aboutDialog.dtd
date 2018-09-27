@@ -30,7 +30,7 @@
 <!ENTITY community.exp.creditsLink  "ชุมชนระดับโลก">
 <!ENTITY community.exp.end          " ที่ทำงานร่วมกันเพื่อทำให้เว็บเปิดกว้าง เป็นของสาธารณะ และเข้าถึงได้ทุกคน">
 
-<!ENTITY community.start2           "&brandShortName; ออกแบบโดย ">
+<!ENTITY community.start2           "&brandShortName; ได้รับการออกแบบโดย ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          " ซึ่งเป็น ">
