@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Čia galite pažeisti garantiją!
 config-about-warning-text = Šių ekspertinių parametrų keitimas gali pakenkti programos stabilumui, saugumui ir darbo greičiui. Turėtumėte tai daryti tik tuomet, jei tikrai žinote, ką darote.
+config-about-warning-button =
+    .label = Sutinku su rizika!
 config-about-warning-checkbox =
     .label = Rodyti šį pranešimą kitą kartą
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = e
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -71,6 +75,7 @@ config-boolean =
     .label = Loginis
     .accesskey = L
 config-default = numatytasis
+config-modified = pakeista
 config-locked = užblokuotas
 config-property-string = eilutė
 config-property-int = sveikasis sk.
