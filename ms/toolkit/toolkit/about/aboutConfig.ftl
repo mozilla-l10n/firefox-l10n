@@ -14,6 +14,8 @@ config-about-warning-button =
     .label = Saya terima risikonya!
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
