@@ -43,6 +43,10 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Αντιγραφή
+    .accesskey = γ
 config-copy-name =
     .label = Αντιγραφή ονόματος
     .accesskey = ν
