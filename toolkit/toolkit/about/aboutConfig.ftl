@@ -75,6 +75,7 @@ config-boolean =
     .label = ಬೂಲಿಯನ್
     .accesskey = B
 config-default = ಪೂರ್ವನಿಯೋಜಿತ
+config-modified = ಮಾರ್ಪಡಿಸಿದೆ
 config-locked = ಲಾಕ್ ಮಾಡಲಾದ
 config-property-string = ಪದಸಮುಚ್ಚಯ
 config-property-int = ಪೂರ್ಣಾಂಕ
