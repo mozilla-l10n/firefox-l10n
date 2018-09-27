@@ -13,6 +13,11 @@ config-about-warning-title =
 config-about-warning-text = ଏହି ଉନ୍ନତ ସଂରଚନାଗୁଡ଼ିକୁ ପରିବର୍ତ୍ତନ କରିବା ଦ୍ୱାରା ଏହି ପ୍ରୟୋଗର ସ୍ଥାୟୀତ୍ୱ, ସୁରକ୍ଷା, ଏବଂ କାର୍ଯ୍ୟକ୍ଷମତା ପ୍ରତି କ୍ଷତିକାରକ ହୋଇପାରେ। ଆପଣ ଯଦି ନିଶ୍ଚିତ ଅଛନ୍ତି ଆପଣ କଣ କରୁଛନ୍ତି, ତେବେ ହିଁ କେବଳ ଆଗକୁ ବଢ଼ିବା ଉଚିତ।
 config-about-warning-checkbox =
     .label = ଏହି ଚେତାବନୀକୁ ପରବର୍ତ୍ତି ସମୟରେ ଦର୍ଶାନ୍ତୁ
+config-search-prefs =
+    .value = ସନ୍ଧାନ କରନ୍ତୁ:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
