@@ -44,3 +44,4 @@ policy-DisplayMenuBar = Exibe a barra de menu por padrão.
 policy-DontCheckDefaultBrowser = Desativa a verificação de navegador padrão ao iniciar.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ativar ou desativar o bloqueio de conteúdo e, opcionalmente, impedir que seja alterado.
+policy-InstallAddonsPermission = Permite que determinados sites instalem extensões.

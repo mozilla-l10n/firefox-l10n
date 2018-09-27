@@ -38,3 +38,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Configurações de idioma do { -brand-short-name }
+    .style = width: 40em
+browser-languages-description = O { -brand-short-name } exibirá o primeiro idioma como padrão e mostrará idiomas alternativos, se necessário, na ordem que aparecem.
