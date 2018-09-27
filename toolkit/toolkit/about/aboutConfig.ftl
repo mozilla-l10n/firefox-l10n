@@ -7,7 +7,12 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = Compte, que podríeu prendre mal!
 config-about-warning-text = Canviar aquests paràmetres avançats pot ser perillós per a l'estabilitat, la seguretat i el rendiment de l'aplicació. Només hauríeu de continuar si sabeu què esteu fent.
+config-about-warning-button =
+    .label = Accepto el risc!
 config-about-warning-checkbox =
     .label = Mostra'm aquest avís la propera vegada
 config-search-prefs =
@@ -15,6 +20,8 @@ config-search-prefs =
     .accesskey = r
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -68,6 +75,7 @@ config-boolean =
     .label = Booleà
     .accesskey = B
 config-default = per defecte
+config-modified = modificat
 config-locked = blocat
 config-property-string = cadena
 config-property-int = enter
