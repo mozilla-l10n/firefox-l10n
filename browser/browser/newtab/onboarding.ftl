@@ -18,9 +18,9 @@ onboarding-start-browsing-button-label = Comece a navegar
 
 onboarding-private-browsing-title = Navegação privativa
 onboarding-private-browsing-text = Navegue sozinho. A navegação privativa com bloqueio de conteúdo impede que rastreadores on-line sigam você pela web.
-onboarding-screenshots-title = Capturas de tela
+onboarding-screenshots-title = Screenshots
 onboarding-screenshots-text = Crie, salve e compartilhe capturas de tela - sem sair do { -brand-short-name }. Capture uma região ou uma página inteira enquanto navega. Então salve na nuvem para acessar e compartilhar com facilidade.
 onboarding-addons-title = Extensões
-onboarding-addons-text = Adicione ainda mais recursos que fazem o { -brand-short-name } trabalhar mais por você. Compare preços, verifique o clima ou expresse sua personalidade com um tema personalizado.
+onboarding-addons-text = Adicione ainda mais recursos que fazem o { -brand-short-name } trabalhar mais por você. Compare preços, veja a previsão do tempo ou expresse sua personalidade com um tema personalizado.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Navegue mais rápido, mais esperto, ou mais seguro com extensões como o Ghostery, que permite bloquear propagandas chatas.
