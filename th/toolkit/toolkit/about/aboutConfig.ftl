@@ -7,6 +7,20 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = โปรดระวัง แก้แล้วพังเราจะไม่รับผิดชอบนะ!
+config-about-warning-button =
+    .label = ฉันยอมรับความเสี่ยง!
+config-about-warning-checkbox =
+    .label = แสดงคำเตือนนี้ในครั้งถัดไป
+config-search-prefs =
+    .value = ค้นหา:
+    .accesskey = ห
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -19,6 +33,8 @@ config-value-column =
 
 config-pref-column-header =
     .tooltip = คลิกเพื่อเรียงลำดับ
+config-column-chooser =
+    .tooltip = คลิกเพื่อเลือกคอลัมน์ที่จะแสดงผล
 
 ## These strings are used for the context menu
 
@@ -26,12 +42,21 @@ config-copy-pref =
     .key = C
     .label = คัดลอก
     .accesskey = ค
+config-toggle =
+    .label = สลับค่า
+    .accesskey = ส
 config-new =
     .label = ใหม่
     .accesskey = ม
+config-string =
+    .label = สตริง
+    .accesskey = ส
 config-integer =
     .label = จำนวนเต็ม
     .accesskey = จ
+config-boolean =
+    .label = ค่าตรรกะ
+    .accesskey = ค
 config-locked = ล็อก
 config-property-string = สตริง
 config-property-int = จำนวนเต็ม
