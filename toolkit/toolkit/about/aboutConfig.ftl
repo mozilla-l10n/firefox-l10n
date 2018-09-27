@@ -75,6 +75,7 @@ config-boolean =
     .label = बुलियन
     .accesskey = B
 config-default = तयशुदा
+config-modified = संशोधित
 config-locked = लॉक किया हुआ
 config-property-string = स्ट्रिंग
 config-property-int = पूर्णांक
