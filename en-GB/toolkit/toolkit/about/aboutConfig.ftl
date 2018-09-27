@@ -71,6 +71,8 @@ config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
 config-new-prompt = Enter the preference name
+config-nan-title = Invalid value
+config-nan-text = The text you entered is not a number.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = New { $type } value
