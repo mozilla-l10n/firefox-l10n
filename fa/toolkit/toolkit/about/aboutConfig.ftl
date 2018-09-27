@@ -7,6 +7,12 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = به کجا چنین شتابان؟!
+config-about-warning-text = تغییر این تنظیمات پیشرفته ممکن است اثر بدی در پایداری، امنیت، و سرعت این برنامه بگذارند.  تنها در صورتی باید ادامه دهید که از کاری که می‌خواهید انجام دهید اطمینان داشته باشید.
+config-about-warning-checkbox =
+    .label = دفعهٔ بعدی هم این هشدار نمایش داده شود
 
 ## These strings are used for column headers
 
@@ -21,9 +27,23 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = برای مرتب‌سازی کلیک کنید
+config-column-chooser =
+    .tooltip = برای انتخاب ستون‌هایی که می‌خواهید نمایش داده‌شوند، ‌کلیک کنید
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = رونوشت برداشتن
+    .accesskey = ن
+config-copy-name =
+    .label = رونوشت برداشتن از نام
+    .accesskey = ن
+config-copy-value =
+    .label = رونوشت برداشتن از مقدار
+    .accesskey = م
 config-modify =
     .label = تغییر
     .accesskey = ت
