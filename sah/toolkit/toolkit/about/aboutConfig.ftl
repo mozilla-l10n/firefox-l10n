@@ -7,6 +7,9 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+config-search-prefs =
+    .value = Көрдөөһүн:
+    .accesskey = р
 
 ## These strings are used for column headers
 
@@ -22,3 +25,8 @@ config-value-column =
 
 ## These strings are used for the context menu
 
+config-reset =
+    .label = Хаттаан
+    .accesskey = Х
+config-default = көннөрү
+config-nan-text = Киллэрбит тиэкиһиҥ чыһыла буолбатах.
