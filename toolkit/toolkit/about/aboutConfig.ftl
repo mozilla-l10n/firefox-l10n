@@ -73,6 +73,7 @@ config-boolean =
     .label = ബൂളിയന്‍
     .accesskey = B
 config-default = സ്വതവേയുള്ള
+config-modified = പരിഷ്കരിച്ചത്
 config-locked = ലോക്ക്‌ ചെയ്തിരിക്കുന്നു
 config-property-string = സ്ട്രിങ്
 config-property-int = ഇന്‍റിജര്‍
