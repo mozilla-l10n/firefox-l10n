@@ -36,6 +36,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Притисните за сортирање
+config-column-chooser =
+    .tooltip = Кликните да изаберете колоне за приказ
 
 ## These strings are used for the context menu
 
@@ -52,6 +56,9 @@ config-copy-value =
 config-modify =
     .label = Измени
     .accesskey = м
+config-toggle =
+    .label = Промени
+    .accesskey = б
 config-reset =
     .label = Врати
     .accesskey = т
@@ -68,6 +75,7 @@ config-boolean =
     .label = Булово (boolean)
     .accesskey = л
 config-default = изворно
+config-modified = измењено
 config-locked = закључано
 config-property-string = стринг
 config-property-int = цео број
