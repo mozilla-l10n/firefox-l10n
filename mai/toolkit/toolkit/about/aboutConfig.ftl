@@ -75,8 +75,12 @@ config-locked = लाक कएल भेल
 config-property-string = स्ट्रिंग
 config-property-int = पूर्णांक
 config-property-bool = बुलियन
+config-new-prompt = वरीयता नाम दाखिल  करू{ " " }
 config-nan-title = अवैध मान
 config-nan-text = आपके द्वारा दाखिल पाठ एकटा सँख्या नहि अछि.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = नव { $type } मान
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = { $type } मान दाखिल  करू{ " " }
