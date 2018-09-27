@@ -35,7 +35,7 @@ config-value-column =
 ## These strings are used for tooltips
 
 config-pref-column-header =
-    .tooltip = छाँटने क लेल क्लिक  करू{ " " }
+    .tooltip = छाँटने क लेल क्लिक  करू
 config-column-chooser =
     .tooltip = Click to select columns to display
 
@@ -55,10 +55,10 @@ config-modify =
     .label = बदलू
     .accesskey = M
 config-toggle =
-    .label = टागल  करू{ " " }
+    .label = टागल  करू
     .accesskey = T
 config-reset =
-    .label = फेर सेट  करू{ " " }
+    .label = फेर सेट  करू
     .accesskey = R
 config-new =
     .label = नव
@@ -77,7 +77,7 @@ config-locked = लाक कएल भेल
 config-property-string = स्ट्रिंग
 config-property-int = पूर्णांक
 config-property-bool = बुलियन
-config-new-prompt = वरीयता नाम दाखिल  करू{ " " }
+config-new-prompt = वरीयता नाम दाखिल  करू
 config-nan-title = अवैध मान
 config-nan-text = आपके द्वारा दाखिल पाठ एकटा सँख्या नहि अछि.
 # Variables:
@@ -85,4 +85,4 @@ config-nan-text = आपके द्वारा दाखिल पाठ ए�
 config-new-title = नव { $type } मान
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
-config-modify-title = { $type } मान दाखिल  करू{ " " }
+config-modify-title = { $type } मान दाखिल  करू
