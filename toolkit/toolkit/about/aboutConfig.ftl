@@ -10,6 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Isto pode violar a sua garantia!
+config-about-warning-text = A alteração destas definições avançadas pode ser prejudicial para a estabilidade, segurança e desempenho desta aplicação. Apenas deve continuar se tem a certeza do que está a fazer.
 config-about-warning-button =
     .label = Eu aceito o risco!
 config-about-warning-checkbox =
