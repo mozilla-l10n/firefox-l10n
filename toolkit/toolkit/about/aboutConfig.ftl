@@ -13,6 +13,11 @@ config-about-warning-title =
 config-about-warning-text = Šių ekspertinių parametrų keitimas gali pakenkti programos stabilumui, saugumui ir darbo greičiui. Turėtumėte tai daryti tik tuomet, jei tikrai žinote, ką darote.
 config-about-warning-checkbox =
     .label = Rodyti šį pranešimą kitą kartą
+config-search-prefs =
+    .value = Ieškoti:
+    .accesskey = e
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -47,6 +52,9 @@ config-copy-value =
 config-modify =
     .label = Modifikuoti
     .accesskey = M
+config-toggle =
+    .label = Perjungti
+    .accesskey = P
 config-reset =
     .label = Atstatyti
     .accesskey = A
@@ -68,6 +76,8 @@ config-property-string = eilutė
 config-property-int = sveikasis sk.
 config-property-bool = loginis
 config-new-prompt = Įveskite nuostatos vardą
+config-nan-title = Nepriimtina reikšmė
+config-nan-text = Jūsų įvestas tekstas yra ne skaičius.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nauja { $type } reikšmė
