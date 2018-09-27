@@ -71,6 +71,7 @@ config-boolean =
     .label = Buleaare
     .accesskey = B
 config-default = goowaaɗo
+config-modified = baylaaɗo
 config-locked = cokaaɗo
 config-property-string = ɓoggol
 config-property-int = timmunde
