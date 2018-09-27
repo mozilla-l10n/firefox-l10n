@@ -41,6 +41,7 @@ config-boolean =
 config-default = অবিকল্পিত
 config-property-bool = বুলিয়েন
 config-new-prompt = পছন্দৰ নাম দিয়ক
+config-nan-title = অবৈধ মান
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = নতুন { $type } মান
