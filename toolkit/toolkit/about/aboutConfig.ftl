@@ -61,11 +61,17 @@ config-string =
 config-integer =
     .label = Số nguyên
     .accesskey = S
+config-boolean =
+    .label = Luận lí
+    .accesskey = L
 config-default = mặc định
 config-locked = bị khóa
 config-property-string = chuỗi
 config-property-int = số nguyên
+config-property-bool = luận lí
 config-new-prompt = Nhập tên Tùy chọn
+config-nan-title = Giá trị bất hợp lệ
+config-nan-text = Văn bản bạn điền vào không phải là số.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Giá trị { $type } mới
