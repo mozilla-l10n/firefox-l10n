@@ -12,6 +12,11 @@ config-about-warning-title =
     .value = Dh'fhaodadh seo am barantas agad a chur gu neoini!
 config-about-warning-checkbox =
     .label = Seall an rabhadh seo an ath-thuras
+config-search-prefs =
+    .value = Lorg:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
