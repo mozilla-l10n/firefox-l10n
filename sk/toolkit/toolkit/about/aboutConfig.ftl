@@ -13,6 +13,11 @@ config-about-warning-title =
 config-about-warning-text = Zmena týchto pokročilých nastavení môže nepriaznivo ovplyvniť stabilitu, bezpečnosť a výkon tejto aplikácie. Pokračovať by ste mali len v prípade, že viete, čo robíte.
 config-about-warning-checkbox =
     .label = Toto upozornenie zobraziť aj nabudúce
+config-search-prefs =
+    .value = Hľadať:
+    .accesskey = H
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -34,6 +39,9 @@ config-copy-pref =
     .key = C
     .label = Kopírovať
     .accesskey = K
+config-copy-name =
+    .label = Kopírovať názov
+    .accesskey = n
 config-copy-value =
     .label = Kopírovať hodnotu
     .accesskey = h
@@ -43,6 +51,12 @@ config-modify =
 config-toggle =
     .label = Prepnúť
     .accesskey = P
+config-reset =
+    .label = Obnoviť predvolenú hodnotu
+    .accesskey = b
+config-new =
+    .label = Nové
+    .accesskey = o
 config-string =
     .label = Reťazec
     .accesskey = R
@@ -58,6 +72,8 @@ config-property-string = reťazec
 config-property-int = celé číslo
 config-property-bool = logická
 config-new-prompt = Zadajte názov predvoľby
+config-nan-title = Neplatná hodnota
+config-nan-text = Zadaný reťazec nie je číslo.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nová hodnota typu { $type }
