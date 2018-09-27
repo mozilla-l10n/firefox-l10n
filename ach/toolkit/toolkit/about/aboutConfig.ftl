@@ -10,6 +10,11 @@ config-about-warning-title =
     .value = Man romo gengo pora mamegi!
 config-about-warning-checkbox =
     .label = Nyut cik man i kare mabino
+config-search-prefs =
+    .value = Yeny:
+    .accesskey = y
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -57,10 +62,16 @@ config-string =
 config-integer =
     .label = Namba ne
     .accesskey = N
+config-boolean =
+    .label = Gin matye kwede acel ki not
+    .accesskey = G
 config-default = kit ma obino kwede
+config-locked = kipungo woko
 config-property-string = tol
 config-property-int = namba ne
+config-property-bool = gin matye kwede acel ki jero
 config-new-prompt = Ket nying ma imito
+config-nan-text = Nyig coc ma iketoni pe obedo namba.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nyen { $type } wel
