@@ -10,6 +10,8 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Ini mungkin membatalkan jaminan anda!
+config-about-warning-button =
+    .label = Saya terima risikonya!
 config-focus-search =
     .key = r
 
