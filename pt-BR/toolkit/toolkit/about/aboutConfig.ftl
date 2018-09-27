@@ -10,6 +10,11 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = HIC SUNT DRACONES
+config-search-prefs =
+    .value = Localizar:
+    .accesskey = o
+config-focus-search =
+    .key = R
 
 ## These strings are used for column headers
 
@@ -60,6 +65,7 @@ config-boolean =
     .label = Boolean…
     .accesskey = B
 config-default = padrão
+config-locked = bloqueado
 config-property-string = string
 config-property-int = número inteiro
 config-property-bool = boolean
