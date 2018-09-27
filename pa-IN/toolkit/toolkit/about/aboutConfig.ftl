@@ -75,6 +75,7 @@ config-boolean =
     .label = ਬੂਲੀਅਨ
     .accesskey = B
 config-default = ਡਿਫਾਲਟ
+config-modified = ਸੋਧਿਆ
 config-locked = ਲਾਕ ਕੀਤਾ
 config-property-string = ਲਾਈਨ
 config-property-int = ਪੂਰਨ ਅੰਕ
