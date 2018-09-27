@@ -7,9 +7,14 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = Aceasta ți-ar putea nevalida garanția!
 config-about-warning-text = Schimbarea valorilor acestor setări avansate poate dăuna stabilității, securității și performanței acestei aplicații. Ar trebui să continui doar dacă știi ce faci.
 config-about-warning-button =
     .label = Accept riscul!
+config-about-warning-checkbox =
+    .label = Afișează această avertizare data viitoare
 config-search-prefs =
     .value = Căutare:
     .accesskey = r
@@ -74,5 +79,13 @@ config-modified = modificată
 config-locked = blocată
 config-property-string = text
 config-property-int = număr
+config-property-bool = boolean
 config-new-prompt = Introdu numele preferinței
+config-nan-title = Valoare nevalidă
 config-nan-text = Textul introdus nu este un număr.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Valoare nouă pentru preferința de tip { $type }
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Introdu valoarea pentru preferința de tip { $type }
