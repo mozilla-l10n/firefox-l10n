@@ -71,6 +71,8 @@ config-property-string = ବାକ୍ୟ ଖଣ୍ଡ
 config-property-int = ପୂର୍ଣ୍ଣ ସଂଖ୍ୟା
 config-property-bool = ବୁଲିଆନ
 config-new-prompt = ପସନ୍ଦ ନାମ ଭରଣ କରନ୍ତୁ
+config-nan-title = ଅବୈଧ ମୂଲ୍ୟ
+config-nan-text = ଆପଣ ଭରଣ କରିଥିବା ପାଠ୍ୟଟି ଗୋଟିଏ ସଂଖ୍ୟା ନୁହଁ।
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = ନୂତନ { $type } ମୂଲ୍ୟ
