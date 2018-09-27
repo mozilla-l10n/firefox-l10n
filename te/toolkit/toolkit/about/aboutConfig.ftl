@@ -40,6 +40,7 @@ config-integer =
 config-boolean =
     .label = బులియన్
     .accesskey = B
+config-locked = లాక్డు
 config-property-string = స్ట్రింగ్
 config-property-int = ఇంటీజర్
 # Variables:
