@@ -10,8 +10,14 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Vigyázat, veszélyes terület!
+config-about-warning-text = Ezeknek a szakértőknek szóló beállításoknak a megváltoztatása káros hatással lehet az alkalmazás stabilitására, biztonságára vagy teljesítményére. Csak akkor folytassa, ha tisztában van azzal, amit csinál.
 config-about-warning-checkbox =
     .label = A figyelmeztetés megjelenítése legközelebb
+config-search-prefs =
+    .value = Keresés:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -64,3 +70,17 @@ config-integer =
 config-boolean =
     .label = Logikai
     .accesskey = L
+config-default = alapértelmezett
+config-locked = zárolt
+config-property-string = karakterlánc
+config-property-int = egész
+config-property-bool = logikai
+config-new-prompt = Adja meg a beállítás nevét
+config-nan-title = Érvénytelen érték
+config-nan-text = A megadott szöveg nem szám.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Új { $type } érték
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Írja be az új { $type } értéket
