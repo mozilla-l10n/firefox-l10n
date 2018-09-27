@@ -43,12 +43,28 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Salin
+    .accesskey = n
 config-copy-name =
     .label = Salin Nama
     .accesskey = N
+config-copy-value =
+    .label = Salin Nilai
+    .accesskey = S
+config-modify =
+    .label = Ubahsuai
+    .accesskey = b
 config-toggle =
     .label = Togol
     .accesskey = T
+config-reset =
+    .label = Set semula
+    .accesskey = a
+config-new =
+    .label = Baru
+    .accesskey = B
 config-string =
     .label = String
     .accesskey = S
