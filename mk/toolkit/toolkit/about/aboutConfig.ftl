@@ -10,6 +10,11 @@ config-window =
 config-about-warning-text = Менувањето на основните вредности на овие напредни поставки можат да бидат штетни за стабилноста, безбедноста и перформансите на оваа програма. Продолжете само ако знаете што правите.
 config-about-warning-checkbox =
     .label = Прикажи го ова предупредување и следниот пат
+config-search-prefs =
+    .value = Барај:
+    .accesskey = р
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -22,6 +27,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Кликнете за да подредите
+config-column-chooser =
+    .tooltip = Кликнете за да изберете колони за приказ
 
 ## These strings are used for the context menu
 
