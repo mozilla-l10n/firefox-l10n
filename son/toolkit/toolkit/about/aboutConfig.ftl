@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+config-window =
+    .title = about:config
 
 ## Strings used to display a warning in about:config
 
@@ -9,6 +11,13 @@
 config-about-warning-title =
     .value = Woo ga hin ka war gaarantoo mun!
 config-about-warning-text = Jinehere hanseyaney wey barmayroo ka hin ka hasaraw dam war porogaramoo tabatiyanoo, saajaa wala goyyanoo ra. War ga hima koy jine hinne nda war g'alhakiika nda haya kaŋ war g'a tee.
+config-about-warning-checkbox =
+    .label = Yaamaroo woo cebe yane hiino
+config-search-prefs =
+    .value = Ceeci:
+    .accesskey = C
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -23,6 +32,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Naagu ka fay
+config-column-chooser =
+    .tooltip = Naagu ka sorrawey cebe
 
 ## These strings are used for the context menu
 
@@ -42,6 +55,9 @@ config-modify =
 config-toggle =
     .label = Kanjari
     .accesskey = K
+config-reset =
+    .label = Yeeti
+    .accesskey = Y
 config-new =
     .label = Taaga
     .accesskey = a
@@ -51,11 +67,17 @@ config-string =
 config-integer =
     .label = Hinna timmante
     .accesskey = H
+config-boolean =
+    .label = Cimi wala taari hãayan
+    .accesskey = C
+config-default = tilasu boŋ
 config-locked = kufalante
 config-property-string = tenjiri
 config-property-int = hinna timmante
 config-property-bool = cimi wala taari haya
 config-new-prompt = Ibaayi maa dam
+config-nan-title = hinna laala
+config-nan-text = Kalimaɲaa kuroo kaŋ war n'a hantum manti hinna.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = { $type } hinna taaga
