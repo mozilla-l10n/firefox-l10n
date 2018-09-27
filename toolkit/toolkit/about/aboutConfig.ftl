@@ -13,6 +13,11 @@ config-about-warning-title =
 config-about-warning-text = Att ändra dessa avancerade inställningar kan skada programmets stabilitet, säkerhet och prestanda. Du bör endast fortsätta om du är säker på vad du gör.
 config-about-warning-checkbox =
     .label = Visa denna varning nästa gång
+config-search-prefs =
+    .value = Sök:
+    .accesskey = ö
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -71,6 +76,8 @@ config-property-string = sträng
 config-property-int = heltal
 config-property-bool = boolesk
 config-new-prompt = Ange namnet på inställningen
+config-nan-title = Ogiltigt värde
+config-nan-text = Texten som skrevs in är inte ett nummer.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Ny { $type }-inställning
