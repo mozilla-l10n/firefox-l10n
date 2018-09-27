@@ -53,3 +53,15 @@ config-string =
 config-integer =
     .label = Цел број
     .accesskey = р
+config-default = основен
+config-locked = заклучен
+config-property-string = текст
+config-property-int = цел број
+config-nan-title = Невалидна вредност
+config-nan-text = Текстот кој го внесовте не е број.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Нова вредност за { $type }
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Внесете вредност за { $type }
