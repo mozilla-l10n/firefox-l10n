@@ -31,6 +31,9 @@ config-toggle =
 config-reset =
     .label = తిరిగివుంచు
     .accesskey = R
+config-new =
+    .label = కొత్త
+    .accesskey = w
 config-string =
     .label = స్ట్రింగ్
     .accesskey = S
@@ -43,6 +46,8 @@ config-boolean =
 config-locked = లాక్డు
 config-property-string = స్ట్రింగ్
 config-property-int = ఇంటీజర్
+config-nan-title = చెల్లని విలువ
+config-nan-text = మీరు ప్రవేశపెట్టిన పాఠము సంఖ్య కాదు.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = కొత్త { $type } విలువ
