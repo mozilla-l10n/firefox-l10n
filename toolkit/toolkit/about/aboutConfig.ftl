@@ -20,6 +20,8 @@ config-property-string = stringa
 config-property-int = intero
 config-property-bool = booleano
 config-new-prompt = Inserire il nome del parametro
+config-nan-title = Valore non valido
+config-nan-text = Il testo inserito non è un numero.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nuovo valore { $type }
