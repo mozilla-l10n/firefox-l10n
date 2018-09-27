@@ -13,6 +13,9 @@ config-about-warning-title =
 config-about-warning-text = Šo paplašināto iestatījumu mainīšana var kaitēt šīs lietotnes stabilitātei, drošībai un ātrdarbībai. Turpiniet tikai tad, ja zināt, ko darāt.
 config-about-warning-checkbox =
     .label = Nākamreiz rādīt šo brīdinājumu
+config-search-prefs =
+    .value = Meklēt:
+    .accesskey = l
 
 ## These strings are used for column headers
 
@@ -48,6 +51,8 @@ config-property-string = teksta
 config-property-int = skaitļa
 config-property-bool = būla
 config-new-prompt = Ievadiet iestatījuma nosaukumu
+config-nan-title = Nederīga vērtība
+config-nan-text = Ievadītais teksts nav skaitlis.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Jauna { $type } vērtība
