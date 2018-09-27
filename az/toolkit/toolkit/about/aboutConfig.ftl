@@ -10,11 +10,16 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Zəmanətiniz ləğv oluna bilər!
+config-about-warning-text = Bu təkmilləşmiş dəyərləri dəyişdirmək bu tətbiqin sabitliyinə, təhlükəsizliyinə və performansına zərər verə bilər. Sadəcə nə etdiyinizə əminsinizsə davam etməlisiniz.
+config-about-warning-button =
+    .label = Riski qəbul edirəm!
 config-about-warning-checkbox =
     .label = Bu xəbərdarlığı növbəti dəfə göstər
 config-search-prefs =
     .value = Axtar:
     .accesskey = A
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -24,6 +29,8 @@ config-lock-column =
     .label = Durum
 config-type-column =
     .label = Format
+config-value-column =
+    .label = Dəyər
 
 ## These strings are used for tooltips
 
@@ -34,14 +41,40 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Köçür
+    .accesskey = K
+config-copy-name =
+    .label = Adı Köçür
+    .accesskey = K
+config-copy-value =
+    .label = Dəyəri Köçür
+    .accesskey = y
+config-modify =
+    .label = Dəyərini dəyiş
+    .accesskey = d
+config-toggle =
+    .label = Çevir
+    .accesskey = v
 config-reset =
     .label = Reset
     .accesskey = R
 config-new =
     .label = New
     .accesskey = N
+config-string =
+    .label = Sətir
+    .accesskey = S
+config-integer =
+    .label = Rəqəm
+    .accesskey = m
+config-boolean =
+    .label = Məntiqi dəyər
+    .accesskey = M
 config-default = Standart
 config-locked = bağlıdır
+config-property-string = yazı
 config-property-int = rəqəm
 config-property-bool = məntiqi dəyər
 config-new-prompt = Parametrin adını yazın
