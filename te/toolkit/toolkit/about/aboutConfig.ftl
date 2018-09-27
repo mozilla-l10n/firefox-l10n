@@ -11,6 +11,10 @@ config-window =
 config-about-warning-title =
     .value = ఇది మీ వారెంటీని పాడుచేస్తుంది!
 config-about-warning-text = ఈ ఉన్నత అమరికలను మార్చుట ఈ అనువర్తన స్థిరత్వానికీ, రక్షణకూ, పనితనానికీ హానికరం. ఏం చేస్తున్నారో మీకు ఖచ్చితంగా తెలిస్తేనే ముందుకువెళ్ళండి.
+config-about-warning-button =
+    .label = నేను ఈ ప్రమాదమును అంగీకరిస్తున్నాను!
+config-about-warning-checkbox =
+    .label = తరువాతసారి ఈ హెచ్చరికను చూపు
 config-search-prefs =
     .value = అన్వేషించు:
     .accesskey = r
@@ -30,9 +34,17 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = క్రమపరుచుటకు నొక్కండి
+config-column-chooser =
+    .tooltip = నిలువువరుసలను ఎంపికచేసి ప్రదర్శించుటకు నొక్కండి
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = కాపీ చేయి
+    .accesskey = C
 config-modify =
     .label = సవరించు
     .accesskey = M
