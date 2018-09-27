@@ -16,6 +16,8 @@ config-about-warning-checkbox =
 config-search-prefs =
     .value = Meklēt:
     .accesskey = l
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -30,18 +32,37 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Spiest, lai kārtotu
+config-column-chooser =
+    .tooltip = Spiest, lai izvēlētos rādāmās kolonas
 
 ## These strings are used for the context menu
 
+config-copy-name =
+    .label = Kopēt nosaukumu
+    .accesskey = n
+config-copy-value =
+    .label = Kopēt vērtību
+    .accesskey = v
 config-modify =
     .label = Mainīt
     .accesskey = M
+config-toggle =
+    .label = Pārslēgt
+    .accesskey = t
 config-reset =
     .label = Atstatīt
     .accesskey = A
 config-new =
     .label = Jauns
     .accesskey = n
+config-string =
+    .label = Teksts
+    .accesskey = s
+config-integer =
+    .label = Skaitlis
+    .accesskey = i
 config-boolean =
     .label = Būla
     .accesskey = B
