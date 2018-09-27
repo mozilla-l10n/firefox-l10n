@@ -11,10 +11,17 @@ config-window =
 config-about-warning-title =
     .value = به کجا چنین شتابان؟!
 config-about-warning-text = تغییر این تنظیمات پیشرفته ممکن است اثر بدی در پایداری، امنیت، و سرعت این برنامه بگذارند.  تنها در صورتی باید ادامه دهید که از کاری که می‌خواهید انجام دهید اطمینان داشته باشید.
+config-about-warning-button =
+    .label = ریسک‌اش را می‌پذیرم!
 config-about-warning-checkbox =
     .label = دفعهٔ بعدی هم این هشدار نمایش داده شود
+config-search-prefs =
+    .value = جست‌وجو:
+    .accesskey = و
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -68,6 +75,7 @@ config-boolean =
     .label = بولی
     .accesskey = ب
 config-default = پیش‌فرض
+config-modified = اصلاح شده
 config-locked = قفل‌شده
 config-property-string = رشته
 config-property-int = عدد صحیح
