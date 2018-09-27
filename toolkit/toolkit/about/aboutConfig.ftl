@@ -21,6 +21,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Nqomfa ukuze uhlelahlele
+config-column-chooser =
+    .tooltip = Nqomfa uze ukhethe imiqolo eyehlayo ukuze ubonise
 
 ## These strings are used for the context menu
 
