@@ -9,9 +9,16 @@ config-window =
 
 config-about-warning-checkbox =
     .label = Показувати це попередження наступного разу
+config-search-prefs =
+    .value = Пошук:
+    .accesskey = ш
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
+config-pref-column =
+    .label = Назва налаштування
 config-lock-column =
     .label = Стан
 config-type-column =
@@ -21,6 +28,8 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-column-chooser =
+    .tooltip = Натисніть, щоб вибрати колонки для відображення
 
 ## These strings are used for the context menu
 
@@ -28,6 +37,9 @@ config-copy-pref =
     .key = C
     .label = Копіювати
     .accesskey = К
+config-copy-name =
+    .label = Копіювати назву
+    .accesskey = о
 config-copy-value =
     .label = Копіювати значення
     .accesskey = о
@@ -57,6 +69,9 @@ config-locked = заблоковано
 config-property-string = рядок
 config-property-int = ціле
 config-property-bool = логічне
+config-new-prompt = Введіть назву налаштування
+config-nan-title = Недійсне значення
+config-nan-text = Текст, що ви ввели, не є числом
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Нове значення ({ $type })
