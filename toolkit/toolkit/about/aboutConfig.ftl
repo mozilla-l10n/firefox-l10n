@@ -10,6 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = 隨便亂搞會讓保固失效！
+config-about-warning-text = 變更這些進階的設定值可能會影響程式的穩定性、安全性及執行效能。在修改前請確定您知道您在做什麼，或者確定您所參考的文件值得信賴。
 config-about-warning-checkbox =
     .label = 下次顯示此警告訊息
 
