@@ -25,6 +25,8 @@ config-focus-search-2 =
 
 ## These strings are used for column headers
 
+config-pref-column =
+    .label = అభిరుచి పేరు
 config-lock-column =
     .label = స్థితి
 config-type-column =
@@ -45,6 +47,12 @@ config-copy-pref =
     .key = C
     .label = కాపీ చేయి
     .accesskey = C
+config-copy-name =
+    .label = పేరుని కాపీచేయి
+    .accesskey = N
+config-copy-value =
+    .label = విలవను కాపీచేయి
+    .accesskey = V
 config-modify =
     .label = సవరించు
     .accesskey = M
@@ -66,11 +74,18 @@ config-integer =
 config-boolean =
     .label = బులియన్
     .accesskey = B
+config-default = అప్రమేయం
+config-modified = మార్చబడింది
 config-locked = లాక్డు
 config-property-string = స్ట్రింగ్
 config-property-int = ఇంటీజర్
+config-property-bool = బూలియన్
+config-new-prompt = అభిరుచి పేరును ఇవ్వండి
 config-nan-title = చెల్లని విలువ
 config-nan-text = మీరు ప్రవేశపెట్టిన పాఠము సంఖ్య కాదు.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = కొత్త { $type } విలువ
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = { $type } విలువను ఇవ్వండి
