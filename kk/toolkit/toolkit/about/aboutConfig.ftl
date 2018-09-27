@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Сақ болыңыз, кепілдемеден айрылуыңыз мүмкін!
 config-about-warning-text = Осы баптауларды өзгерту тұрақсыздық, қауіпсіздік пен өнімділіктің құлдырауына әкеп соғуы мүмкін. Сенімді болсаңыз ғана, өзгертіңіз.
+config-about-warning-button =
+    .label = Осыны қабылдаймын!
 config-about-warning-checkbox =
     .label = Осы ескертуді келесі ретте көрсету
 config-search-prefs =
@@ -39,6 +41,16 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Көшіріп алу
+    .accesskey = К
+config-copy-name =
+    .label = Атын көшіріп алу
+    .accesskey = А
+config-copy-value =
+    .label = Мәнін көшіріп алу
+    .accesskey = М
 config-modify =
     .label = Өзгерту
     .accesskey = з
@@ -61,6 +73,7 @@ config-boolean =
     .label = Логикалық
     .accesskey = Л
 config-default = бастапқысы
+config-modified = өзгертілген
 config-locked = оқшауланды
 config-property-string = жол
 config-property-int = бүтін сан
