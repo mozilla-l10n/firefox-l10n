@@ -73,6 +73,7 @@ config-boolean =
     .label = Məntiqi dəyər
     .accesskey = M
 config-default = Standart
+config-modified = dəyişdirilib
 config-locked = bağlıdır
 config-property-string = yazı
 config-property-int = rəqəm
