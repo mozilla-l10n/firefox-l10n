@@ -7,6 +7,8 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+config-about-warning-button =
+    .label = Я прымаю рызыку!
 config-about-warning-checkbox =
     .label = Паказваць гэтае папярэджанне наступным разам
 config-search-prefs =
@@ -14,6 +16,8 @@ config-search-prefs =
     .accesskey = ш
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
