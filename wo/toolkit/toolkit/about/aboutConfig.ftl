@@ -15,6 +15,8 @@ config-search-prefs =
 
 config-lock-column =
     .label = Nekkin
+config-value-column =
+    .label = Solo
 
 ## These strings are used for tooltips
 
