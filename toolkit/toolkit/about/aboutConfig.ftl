@@ -10,6 +10,11 @@ config-window =
 config-about-warning-text = Canviar aquests paràmetres avançats pot ser perillós per a l'estabilitat, la seguretat i el rendiment de l'aplicació. Només hauríeu de continuar si sabeu què esteu fent.
 config-about-warning-checkbox =
     .label = Mostra'm aquest avís la propera vegada
+config-search-prefs =
+    .value = Cerca:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
