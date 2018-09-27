@@ -18,6 +18,8 @@ config-search-prefs =
     .accesskey = H
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -32,6 +34,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Kliknutím zoradíte
+config-column-chooser =
+    .tooltip = Kliknutím vyberte stĺpce, ktoré sa majú zobraziť
 
 ## These strings are used for the context menu
 
