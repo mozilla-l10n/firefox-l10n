@@ -13,6 +13,8 @@ config-about-warning-title =
 config-about-warning-text = La modificacion d'aquestas preferéncias avançadas pòt èsser damatjable per l'estabilitat, la seguretat e las performàncias d'aquesta aplicacion. Contunhetz que se sabètz çò que fasètz.
 config-about-warning-checkbox =
     .label = Afichar aqueste avertiment lo còp que ven
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -23,6 +25,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Clicatz per triar
+config-column-chooser =
+    .tooltip = Clicatz per seleccionar las colomnas de visualizar
 
 ## These strings are used for the context menu
 
@@ -48,11 +54,18 @@ config-new =
 config-string =
     .label = Cadena
     .accesskey = C
+config-integer =
+    .label = Valor numerica
+    .accesskey = n
+config-boolean =
+    .label = Valor booleana
+    .accesskey = b
 config-default = defaut
 config-property-string = cadena
 config-property-int = entièr
 config-property-bool = boolean
 config-new-prompt = Picatz lo nom de l'opcion
+config-nan-title = Valor invalida
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Valor novèla ({ $type })
