@@ -7,6 +7,10 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = Будьте обережні, інакше можете залишитись без гарантії!
+config-about-warning-text = Зміна цих розширених налаштувань може зашкодити стабільності, безпеці та швидкодії цієї програми. Вам слід продовжувати лише в тому випадку, якщо ви впевнені в тому, що робите.
 config-about-warning-checkbox =
     .label = Показувати це попередження наступного разу
 config-search-prefs =
@@ -14,6 +18,8 @@ config-search-prefs =
     .accesskey = ш
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -28,6 +34,8 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Натисніть для впорядкування
 config-column-chooser =
     .tooltip = Натисніть, щоб вибрати колонки для відображення
 
