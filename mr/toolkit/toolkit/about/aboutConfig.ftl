@@ -2,9 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+config-window =
+    .title = config:विषयी
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = यामुळे हमी मिळणार नाही!
+config-about-warning-text = प्रगत सेटिंग्जमधील बदल या ॲप्लिकेशनची स्थिरता, सुरक्षा, व कार्यक्षमता करीता धोकादायक ठरू शकते. पुढे नक्की असल्यावरच पुढे जावे.
+config-about-warning-checkbox =
+    .label = सावधानता पुढच्यावेळी दर्शवा
+config-search-prefs =
+    .value = शोधा:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
@@ -26,6 +39,10 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = प्रत बनवा
+    .accesskey = C
 config-copy-name =
     .label = नावाचे प्रत बनवा
     .accesskey = N
@@ -53,6 +70,7 @@ config-integer =
 config-boolean =
     .label = बूलियन
     .accesskey = B
+config-default = पूर्वनिर्धारीत
 config-locked = कुलूपबंद
 config-property-string = अक्षरमाळ
 config-property-int = इंटीजर
