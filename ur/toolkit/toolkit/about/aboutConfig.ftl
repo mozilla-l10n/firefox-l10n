@@ -7,6 +7,10 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = اس سے آپ کے وارنٹی کی خلاف ورزی ہوسکتی ہے!
+config-about-warning-text = اعلی ترتیبات میں تبدیلی سے ایپلی کیشن کی پائیداری، حفاظت اور کارکردگی پر برا اثر پڑ سکتا ہے۔ اگر آپ ان تبدیلیوں کے اثرات سے آگاہ ہیں تو اسے جاری رکھیں۔
 config-about-warning-checkbox =
     .label = اگلی بار یہ تنبیہ نمائش کریں
 config-search-prefs =
