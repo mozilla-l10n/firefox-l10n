@@ -75,6 +75,7 @@ config-boolean =
     .label = Booleaidd
     .accesskey = B
 config-default = rhagosodiad
+config-modified = newidwyd
 config-locked = cloi
 config-property-string = llinyn
 config-property-int = cyfanrif
