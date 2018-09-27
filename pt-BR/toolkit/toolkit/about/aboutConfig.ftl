@@ -15,6 +15,8 @@ config-search-prefs =
     .accesskey = o
 config-focus-search =
     .key = R
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
