@@ -11,8 +11,17 @@ config-window =
 config-about-warning-title =
     .value = Here be dragons!
 config-about-warning-text = Changing these advanced settings can be harmful to the stability, security, and performance of this application. You should only continue if you are sure of what you are doing.
+config-about-warning-button =
+    .label = I accept the risk!
 config-about-warning-checkbox =
     .label = Show this warning next time
+config-search-prefs =
+    .value = Search:
+    .accesskey = r
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -66,6 +75,7 @@ config-boolean =
     .label = Boolean
     .accesskey = B
 config-default = default
+config-modified = modified
 config-locked = locked
 config-property-string = string
 config-property-int = integer
