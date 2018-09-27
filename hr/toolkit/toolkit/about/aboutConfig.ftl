@@ -11,6 +11,8 @@ config-window =
 config-about-warning-title =
     .value = Ovo bi moglo poništiti vašu garanciju!
 config-about-warning-text = Mijenjanje ovih naprednih postavki može biti štetno za stabilnost, sigurnost i učinak ovog programa. Nastavite samo ako znate što radite.
+config-about-warning-button =
+    .label = Prihvaćam rizik!
 config-about-warning-checkbox =
     .label = Prikaži ovo upozorenje sljedeći put
 config-search-prefs =
@@ -18,6 +20,8 @@ config-search-prefs =
     .accesskey = r
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -71,6 +75,7 @@ config-boolean =
     .label = Boolean
     .accesskey = B
 config-default = zadano
+config-modified = izmjenjeno
 config-locked = zaključano
 config-property-string = izraz
 config-property-int = cijeli broj
