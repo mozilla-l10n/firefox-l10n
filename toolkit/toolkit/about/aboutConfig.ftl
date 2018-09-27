@@ -2,12 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+config-window =
+    .title = about:config
 
 ## Strings used to display a warning in about:config
 
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Atencion, dangièr !
+config-about-warning-text = La modificacion d'aquestas preferéncias avançadas pòt èsser damatjable per l'estabilitat, la seguretat e las performàncias d'aquesta aplicacion. Contunhetz que se sabètz çò que fasètz.
 config-about-warning-checkbox =
     .label = Afichar aqueste avertiment lo còp que ven
 
@@ -45,6 +48,7 @@ config-new =
 config-string =
     .label = Cadena
     .accesskey = C
+config-default = defaut
 config-property-string = cadena
 config-property-int = entièr
 config-property-bool = boolean
