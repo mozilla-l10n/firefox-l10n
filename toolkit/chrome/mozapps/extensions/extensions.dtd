@@ -157,7 +157,7 @@
 <!ENTITY rating2.label                        "Ocena">
 
 <!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Ustavi">
+<!ENTITY progress.pause.tooltip               "Premor">
 <!ENTITY progress.cancel.tooltip              "Prekliči">
 
 <!ENTITY addon.homepage                       "Domača stran">
