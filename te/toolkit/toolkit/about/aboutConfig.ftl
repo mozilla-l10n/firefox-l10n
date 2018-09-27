@@ -7,6 +7,14 @@ config-window =
 
 ## Strings used to display a warning in about:config
 
+# This text should be attention grabbing and playful
+config-about-warning-title =
+    .value = ఇది మీ వారెంటీని పాడుచేస్తుంది!
+config-search-prefs =
+    .value = అన్వేషించు:
+    .accesskey = r
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
