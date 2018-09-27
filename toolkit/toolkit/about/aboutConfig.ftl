@@ -14,9 +14,13 @@ config-search-prefs =
     .accesskey = R
 config-focus-search =
     .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
+config-pref-column =
+    .label = Nom de l’option
 config-lock-column =
     .label = Statut
 config-type-column =
@@ -26,6 +30,10 @@ config-value-column =
 
 ## These strings are used for tooltips
 
+config-pref-column-header =
+    .tooltip = Trier
+config-column-chooser =
+    .tooltip = Sélectionner les colonnes à afficher
 
 ## These strings are used for the context menu
 
@@ -61,8 +69,17 @@ config-boolean =
     .label = Valeur booléenne
     .accesskey = b
 config-default = par défaut
+config-modified = modifié
 config-locked = verrouillé
 config-property-string = chaîne
 config-property-int = nombre entier
 config-property-bool = booléen
+config-new-prompt = Saisissez le nom de l’option
 config-nan-title = Valeur invalide
+config-nan-text = Le texte saisi n’est pas un nombre.
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Nouvelle valeur (type { $type })
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Saisissez une nouvelle valeur (type { $type })
