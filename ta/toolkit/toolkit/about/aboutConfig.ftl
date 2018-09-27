@@ -13,6 +13,8 @@ config-about-warning-title =
 config-about-warning-text = கூடுதல் அமைவுகளை மாற்றுதல் நிலைப்புதன்மை, பாதுகாப்பு மற்றும் இந்த பயன்பாட்டின் செயல்திறனை குறைக்கலாம். இதனை செய்ய வேண்டுமென்றால் தொடரவும்.
 config-about-warning-checkbox =
     .label = இந்த எச்சரிக்கை அடுத்த முறையும் காட்டவும்
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
