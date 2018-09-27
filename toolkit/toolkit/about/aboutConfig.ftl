@@ -67,6 +67,8 @@ config-property-string = řetězec
 config-property-int = číslo
 config-property-bool = logická hodnota
 config-new-prompt = Zadejte název pro předvolbu
+config-nan-title = Neplatná hodnota
+config-nan-text = Vložený text není číselná hodnota.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nová předvolba typu { $type }
