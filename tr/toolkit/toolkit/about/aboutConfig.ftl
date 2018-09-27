@@ -36,6 +36,8 @@ config-boolean =
 config-default = varsayılan
 config-locked = kilitli
 config-property-bool = boolean
+config-nan-title = Geçersiz değer
+config-nan-text = Girdiğiniz metin sayı değil.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Yeni { $type } değeri
