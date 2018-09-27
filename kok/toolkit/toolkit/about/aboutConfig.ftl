@@ -9,7 +9,7 @@ config-window =
 
 # This text should be attention grabbing and playful
 config-about-warning-title =
-    .value = हें तुमची वॉरंटी निरुपेगी करीत{ " " }
+    .value = हें तुमची वॉरंटी निरुपेगी करीत
 config-about-warning-text = ही अद्यावत स्थापिता बदलप ह्या अनुप्रयोगाच्या स्थैर्याक, सुरक्षेक आणि कार्यक्षमतेक घातक थारू येता. तुमी किदे करतात हाची तुमका खात्री आसत जाल्यारूच मुखार वचात.
 config-about-warning-checkbox =
     .label = ही चत्राय फुडले वेळा दाखय
@@ -62,13 +62,13 @@ config-new =
     .label = नवीन
     .accesskey = w
 config-string =
-    .label = वर्णमालिका{ " " }
+    .label = वर्णमालिका
     .accesskey = S
 config-integer =
     .label = पूर्णांक
     .accesskey = I
 config-boolean =
-    .label = बुलियन{ " " }
+    .label = बुलियन
     .accesskey = B
 config-default = मुळावे
 config-locked = कुलूप लायिल्ले
