@@ -39,6 +39,37 @@ config-column-chooser =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Cကူး
+    .accesskey = C
+config-copy-name =
+    .label = နာမည်Nကူး
+    .accesskey = N
+config-copy-value =
+    .label = Vတန်ဖိုးကူးယူ
+    .accesskey = V
+config-modify =
+    .label = Mပြုပြင်
+    .accesskey = M
+config-toggle =
+    .label = Tအထိန်းခုံ
+    .accesskey = T
+config-reset =
+    .label = Rပြန်ချိန်
+    .accesskey = R
+config-new =
+    .label = wအသစ်
+    .accesskey = w
+config-string =
+    .label = Sစာတန်း
+    .accesskey = S
+config-integer =
+    .label = Iကိန်းပြည့်
+    .accesskey = I
+config-boolean =
+    .label = Boolean
+    .accesskey = B
 config-default = စံထားချက်
 config-locked = သော့ခတ်ထားတယ်
 config-property-int = ကိန်းပြည့်
