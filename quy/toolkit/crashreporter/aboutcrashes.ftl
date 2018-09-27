@@ -9,4 +9,4 @@ id-heading = ID nisqapa willay
 crashes-submitted-label = Pantapay willaykuna apachiy.
 date-submitted-heading = Haykaq  apachisqa
 no-reports-label = Manan apachikunchu willay pantaykunataqa
-no-config-label = Kaypiqa manan siqinchasqachu pantaykuna qawachinanpaqqa. aswanmi waykapayninta ninan <code> breakpad.reportURL</code> nisqapi{ " " }
+no-config-label = Kaypiqa manan siqinchasqachu pantaykuna qawachinanpaqqa. aswanmi waykapayninta ninan <code> breakpad.reportURL</code> nisqapi
