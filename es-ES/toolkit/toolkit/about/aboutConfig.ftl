@@ -11,8 +11,17 @@ config-window =
 config-about-warning-title =
     .value = ¡Zona hostil para manazas!
 config-about-warning-text = Cambiar estas preferencias avanzadas puede ser perjudicial para la estabilidad, seguridad y rendimiento de esta aplicación. Sólo debería continuar si está seguro de lo que está haciendo.
+config-about-warning-button =
+    .label = ¡Acepto el riesgo!
 config-about-warning-checkbox =
     .label = Mostrar esta advertencia la próxima vez
+config-search-prefs =
+    .value = Buscar:
+    .accesskey = B
+config-focus-search =
+    .key = r
+config-focus-search-2 =
+    .key = f
 
 ## These strings are used for column headers
 
@@ -56,11 +65,24 @@ config-reset =
 config-new =
     .label = Nuevo
     .accesskey = o
+config-string =
+    .label = cadena
+    .accesskey = C
+config-integer =
+    .label = entero
+    .accesskey = E
+config-boolean =
+    .label = sí/no
+    .accesskey = s
 config-default = predeterminado
+config-modified = modificado
 config-locked = bloqueado
 config-property-string = cadena
 config-property-int = entero
+config-property-bool = sí/no
 config-new-prompt = Introduzca el nombre de preferencia
+config-nan-title = Valor no válido
+config-nan-text = El texto que ha introducido no es un número.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nuevo valor { $type }
