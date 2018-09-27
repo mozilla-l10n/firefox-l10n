@@ -82,6 +82,7 @@ config-property-int = entero
 config-property-bool = lógico
 config-new-prompt = Ingresa el nombre de preferencia
 config-nan-title = Valor inválido
+config-nan-text = El texto proporcionado no es un número.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nuevo valor { $type }
