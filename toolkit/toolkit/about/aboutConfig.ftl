@@ -12,6 +12,9 @@ config-about-warning-title =
     .value = Dit kin jo garânsje ûnnut meitsje!
 config-about-warning-checkbox =
     .label = Lit dizze warskôging de folgjende kear wer sjen
+config-search-prefs =
+    .value = Sykje:
+    .accesskey = S
 
 ## These strings are used for column headers
 
@@ -55,6 +58,8 @@ config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
 config-new-prompt = Fier de foarkeursnamme yn
+config-nan-title = Net jildige wearde
+config-nan-text = De ynfierde tekst is gjin sifer.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nije { $type }wearde
