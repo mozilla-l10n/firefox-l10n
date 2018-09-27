@@ -13,6 +13,11 @@ config-about-warning-title =
 config-about-warning-text = Bu gelişmiş ayarların değerlerini değiştirmek bu uygulamanın istikrarına, güvenliğine ve başarımına zarar verebilir. Sadece ne yaptığınızdan eminseniz devam etmelisiniz.
 config-about-warning-checkbox =
     .label = Bu uyarıyı bir sonraki kez yine göster
+config-search-prefs =
+    .value = Arama:
+    .accesskey = A
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
