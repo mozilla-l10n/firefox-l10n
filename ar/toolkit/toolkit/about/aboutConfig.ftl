@@ -10,6 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = قد يلغي هذا ضمانك!
+config-about-warning-text = تغيير القيم المبدئية لهذه الإعدادات المتقدمة قد يضر بثبات وأمان وأداء التطبيق. يجب أن تواصِل فقط إذا كنت واثقا مما تفعل.
 config-about-warning-checkbox =
     .label = أظهر هذا التحذير في المرّة القادمة
 config-search-prefs =
