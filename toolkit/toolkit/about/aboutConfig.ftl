@@ -74,6 +74,7 @@ config-integer =
 config-boolean =
     .label = বুলিয়ান (B)
     .accesskey = B
+config-default = ডিফল্ট
 config-modified = পরিবর্তিত
 config-locked = আবদ্ধ
 config-property-string = স্ট্রিং
