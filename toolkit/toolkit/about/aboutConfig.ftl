@@ -70,6 +70,7 @@ config-boolean =
     .label = Boolean
     .accesskey = B
 config-default = bawaan
+config-modified = diubah
 config-locked = terkunci
 config-property-string = teks
 config-property-int = bilangan bulat
