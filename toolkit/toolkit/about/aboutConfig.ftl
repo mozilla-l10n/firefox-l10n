@@ -13,6 +13,8 @@ config-about-warning-title =
 config-about-warning-text = تغییر این تنظیمات پیشرفته ممکن است اثر بدی در پایداری، امنیت، و سرعت این برنامه بگذارند.  تنها در صورتی باید ادامه دهید که از کاری که می‌خواهید انجام دهید اطمینان داشته باشید.
 config-about-warning-checkbox =
     .label = دفعهٔ بعدی هم این هشدار نمایش داده شود
+config-focus-search =
+    .key = r
 
 ## These strings are used for column headers
 
