@@ -21,4 +21,6 @@ onboarding-private-browsing-text = Navegue sí mismo. Navegación privada con Bl
 onboarding-screenshots-title = Capturas de pantalla
 onboarding-screenshots-text = Tome, guarde y comparta capturas de pantalla sin dejar { -brand-short-name }. Capture una parte o la página completa mientras navega. Luego guarde en la web para compartir y acceder fácilmente.
 onboarding-addons-title = Complementos
+onboarding-addons-text = Agregue aun más funcionalidades para hacer que { -brand-short-name } trabaje más duro para usted. Compare precios, mire el clima o exprese su personalidad con un tema personalizado.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Navegue más rápido, de manera más inteligente o segura con complementos como Ghostery que le permite bloquear los anuncios molestos.
