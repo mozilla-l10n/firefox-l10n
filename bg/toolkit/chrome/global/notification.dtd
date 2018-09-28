@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Добре">
 <!ENTITY defaultButton.accesskey "Д">
+
+<!ENTITY moreActionsButton.accessibleLabel "Повече действия">
