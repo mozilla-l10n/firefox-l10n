@@ -37,3 +37,7 @@ policy-DisableProfileRefresh = Tichup ri Titzolïx { -brand-short-name } pitz'b'
 policy-DisableSafeMode = Tichup ri rub'anikil richin nitikirisäx chik pa ri Ütz Rub'anikil. Ch'utitzijol: Ri Shift pitz'b'äl richin yatok pa ri Ütz Rub'anikil xa xe tikirel nichup pa Windows rik'in rokisaxik Runa'ojil Rumolaj Q'inoj.
 policy-DisableSecurityBypass = Tichajïx chi ri okisanel tik'o pa kiwi' jujun kitzijol k'ayewal.
 policy-DisableSetDesktopBackground = Tichup runuk'uj k'utsamaj richin niya' jun wachib'äl achi'el Rupam Ajch'atal.
+policy-DisableSetAsDesktopBackground = Tichup runuk'uj k'utsamaj Tiya' achi'el Rupam Ajch'atal kichin ri taq wachib'äl.
+policy-DisableSystemAddonUpdate = Tichajïx chi ri okik'amaya'l keruyaka' chuqa' keruk'exa' ri taq rutz'aqat q'inoj.
+policy-DisableTelemetry = Tichup Telemetry.
+policy-DisplayBookmarksToolbar = Tik'ut ri Rukajtz'ik Samajib'äl achi'el k'o wi.
