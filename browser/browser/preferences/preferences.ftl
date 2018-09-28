@@ -644,6 +644,9 @@ content-blocking-toggle-label-on = চালু করুন
 content-blocking-toggle-label-off = বন্ধ
     .accesskey = O
 content-blocking-category-label = কি ব্লক করতে চান বলুন
+content-blocking-tracking-protection-option-always =
+    .label = সর্বদা
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
