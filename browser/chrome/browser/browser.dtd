@@ -535,7 +535,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "חיפוש בלשונית חדשה">
 <!ENTITY searchInNewTab.accesskey     "ל">
-<!ENTITY searchSetAsDefault.label     "הגדרה כמנוע חיפוש בררת מחדל">
+<!ENTITY searchSetAsDefault.label     "הגדרה כמנוע חיפוש ברירת מחדל">
 <!ENTITY searchSetAsDefault.accesskey "ב">
 
 <!ENTITY openLinkCmdInTab.label       "פתיחת קישור בלשונית חדשה">

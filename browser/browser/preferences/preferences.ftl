@@ -127,12 +127,12 @@ use-firefox-sync = טיפ: פעולה זו מתאפשרת תודות ליציר�
 get-started-not-logged-in = התחברות אל { -sync-brand-short-name }…
 get-started-configured = פתיחת מסך ההעדפות של { -sync-brand-short-name }
 always-check-default =
-    .label = תמיד לבדוק אם { -brand-short-name } הוא דפדפן בררת מחדל
+    .label = תמיד לבדוק אם { -brand-short-name } הוא דפדפן ברירת מחדל
     .accesskey = ת
-is-default = { -brand-short-name } הוא כרגע דפדפן בררת המחדל שלך
-is-not-default = { -brand-short-name } אינו דפדפן בררת המחדל שלך
+is-default = { -brand-short-name } הוא כרגע דפדפן ברירת המחדל שלך
+is-not-default = { -brand-short-name } אינו דפדפן ברירת המחדל שלך
 set-as-my-default-browser =
-    .label = הגדרה כדפדפן בררת המחדל…
+    .label = הגדרה כדפדפן ברירת המחדל…
     .accesskey = ב
 startup-restore-previous-session =
     .label = שחזור הפעלה קודמת
@@ -192,7 +192,7 @@ containers-remove-cancel-button = לא להסיר מגירה זו
 
 language-and-appearance-header = שפה ותצוגה
 fonts-and-colors-header = גופנים וצבעים
-default-font = גופן בררת מחדל
+default-font = גופן ברירת מחדל
     .accesskey = ב
 default-font-size = גודל
     .accesskey = ג
@@ -303,7 +303,7 @@ performance-limit-content-process-blocked-desc = שינוי מספר תהליכ�
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
-    .label = { $num } (בררת מחדל)
+    .label = { $num } (ברירת מחדל)
 
 ## General Section - Browsing
 
@@ -378,8 +378,8 @@ search-bar-hidden =
     .label = שימוש בשורת הכתובת לחיפוש וניווט
 search-bar-shown =
     .label = הוספת שורת החיפוש לסרגל הכלים
-search-engine-default-header = מנוע חיפוש בררת מחדל
-search-engine-default-desc = בחירת מנוע חיפוש בררת המחדל לשימוש בסרגל הכתובת ובסרגל החיפוש.
+search-engine-default-header = מנוע חיפוש ברירת מחדל
+search-engine-default-desc = בחירת מנוע חיפוש ברירת המחדל לשימוש בסרגל הכתובת ובסרגל החיפוש.
 search-suggestions-option =
     .label = הצגת המלצות חיפוש
     .accesskey = מ
@@ -401,7 +401,7 @@ search-choose-engine-column =
 search-choose-keyword-column =
     .label = מילת מפתח
 search-restore-default =
-    .label = שחזור למנועי חיפוש בררת מחדל
+    .label = שחזור למנועי חיפוש ברירת מחדל
     .accesskey = ש
 search-remove-engine =
     .label = הסרה

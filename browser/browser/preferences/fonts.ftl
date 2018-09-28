@@ -107,7 +107,7 @@ fonts-languages-fallback-desc = קידוד טקסט זה מיועד עבור ת�
 fonts-languages-fallback-label = קידוד טקסט חלופי
     .accesskey = ט
 fonts-languages-fallback-name-auto =
-    .label = בררת מחדל לשפה הנוכחית
+    .label = ברירת מחדל לשפה הנוכחית
 fonts-languages-fallback-name-arabic =
     .label = ערבית
 fonts-languages-fallback-name-baltic =
@@ -144,6 +144,6 @@ fonts-very-large-warning-accept = להשאיר את השינויים בכל זא
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = בררת מחדל ({ $name })
+    .label = ברירת מחדל ({ $name })
 fonts-label-default-unnamed =
     .label = ברירת מחדל
