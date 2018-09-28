@@ -7,6 +7,14 @@ clear-site-data-window =
     .style = چوڑائی:  35em
 clear-site-data-close-key =
     .key = w
+# The parameters in parentheses in this string describe disk usage
+# in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+clear-site-data-cookies-with-data =
+    .label = کوکیز اور سائٹ کا ڈیٹا ({ $amount } { $unit })
+    .accesskey = س
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -24,6 +32,7 @@ clear-site-data-cookies-info = اگر صاف کیا تو شاید آپ ویبس�
 clear-site-data-cache-empty =
     .label = کیسہ شدہ ویب مواد
     .accesskey = W
+clear-site-data-cache-info = ویب سائٹس کو تصاویر اور ڈیٹا دوبارہ لوڈ کرنے کی ضرورت ہوگی
 clear-site-data-cancel =
     .label = منسوخ کریں
     .accesskey = C

@@ -34,11 +34,12 @@ site-usage-pattern = { $value } { $unit }
 site-data-remove-all =
     .label = تمام ہٹائیں
     .accesskey = e
+site-data-remove-shown =
+    .label = تمام دکھایا ہوا ہٹائیں
+    .accesskey = و
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = ہٹائیں

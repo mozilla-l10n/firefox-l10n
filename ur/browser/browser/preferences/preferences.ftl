@@ -163,6 +163,7 @@ choose-language-description = صفحہ دکھانے کے لیے اپنی زبا�
 choose-button =
     .label = انتخاب کریں…
     .accesskey = ا
+confirm-browser-language-change-button = لاگو کرے اور دوبارہ شروع کریں
 translate-web-pages =
     .label = ترجمہ کریں ویب کے مواد کا
     .accesskey = ت
@@ -449,6 +450,9 @@ history-dontremember-description = { -brand-short-name } نجی براؤزنگ �
 history-private-browsing-permanent =
     .label = ہمیشہ نجی براوزنگ موڈ استعمال کریں
     .accesskey = ن
+history-remember-browser-option =
+    .label = براؤزنگ اور ڈاؤن لوڈ سابقات یاد رکھیں
+    .accesskey = ب
 history-remember-search-option =
     .label = تلاش اور فارم سابقات یاد رکھیں
     .accesskey = ف
@@ -472,6 +476,8 @@ sitedata-keep-until-expire =
     .label = وہ ختم ہو تے ہیں
 sitedata-keep-until-closed =
     .label = { -brand-short-name } بند ہے
+sitedata-accept-third-party-desc = تیسری تنظیم کے کوکیز اور سائٹ کا ڈیٹا قبول کریں
+    .accesskey = ی
 sitedata-accept-third-party-always-option =
     .label = ہمیشہ
 sitedata-accept-third-party-visited-option =
@@ -513,12 +519,6 @@ content-blocking-toggle-label-on = چالو
 content-blocking-toggle-label-off = بند
     .accesskey = O
 content-blocking-category-label = چنیں کیا بلاک کرنا ہے
-content-blocking-fastblock-option-enabled =
-    .label = ہمیشہ بلاک کریں
-content-blocking-fastblock-option-disabled =
-    .label = کبھی بلاک نا کریں
-content-blocking-tracking-protection-option-disabled =
-    .label = کبھی بلاک نا کریں
 
 ## Privacy Section - Tracking
 
@@ -535,6 +535,9 @@ tracking-mode-never =
 tracking-exceptions =
     .label = استثنیات…
     .accesskey = ا
+tracking-change-block-list =
+    .label = بلاک فہرست تبدیل کریں۔۔۔
+    .accesskey = س
 
 ## Privacy Section - Permissions
 
@@ -561,6 +564,10 @@ permissions-block-autoplay-media-exceptions =
     .accesskey = ع
 autoplay-option-ask =
     .label = ہمیشہ پوچھیں
+autoplay-option-allow =
+    .label = آٹوپلے کی اجازت دیں
+autoplay-option-dont =
+    .label = آٹوپلے نہ کریں
 permissions-block-popups =
     .label = پوپ اپ دریچے بلاک کیجیے
     .accesskey = ب

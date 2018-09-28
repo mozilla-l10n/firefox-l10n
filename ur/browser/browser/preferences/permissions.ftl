@@ -53,9 +53,13 @@ permissions-invalid-uri-label = کوئی جائز نام میزبان داخل �
 permissions-exceptions-tracking-protection-window =
     .title = استثنیات - سراغ کاری سے حفاظت
     .style = { permissions-window.style }
+permissions-exceptions-tracking-protection-desc = آپ نے ان ویب سائٹس پر ٹریکنگ کے تحفظ کو غیر فعال کردیا ہے۔
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = استثنیات - کوکیز اور سائٹ کا ڈیٹا
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
@@ -86,12 +90,21 @@ permissions-exceptions-addons-desc = آپ اختصاص کر سکتے ہیں کہ
 permissions-site-location-window =
     .title = سیٹنگیں- محل وقوع اجازت
     .style = { permissions-window.style }
+permissions-site-location-disable-label =
+    .label = آپ کے مقام تک رسائی حاصل کرنے سے متعلق نئی درخواستیں بند کریں
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = سیٹنگیں- کیمرہ اجازتیں
     .style = { permissions-window.style }
+permissions-site-camera-disable-label =
+    .label = اپنے کیمرے تک رسائی حاصل کرنے سے متعلق نئی درخواستیں بند کریں
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = ترتیبات - مائکروفون کی اجازت
+    .style = { permissions-window.style }
+permissions-site-microphone-disable-label =
+    .label = اپنے مائیکروفون تک رسائی حاصل کرنے سے متعلق نئی درخواستیں بند کریں
