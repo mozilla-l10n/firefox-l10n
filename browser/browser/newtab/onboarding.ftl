@@ -18,3 +18,4 @@ onboarding-start-browsing-button-label = Шолуды бастау
 onboarding-private-browsing-title = Жекелік шолу режимі
 onboarding-screenshots-title = Скриншоттар
 onboarding-addons-title = Қосымшалар
+onboarding-ghostery-title = Ghostery
