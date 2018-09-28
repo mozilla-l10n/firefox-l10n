@@ -14,6 +14,9 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = Service Worker-ləri
+# Text displayed next to the list of Service Workers to encourage users to check out
+# about:debugging to see all registered Service Workers.
+serviceworker-list-aboutdebugging = Digər domenlərdən olan Service Worker-lər üçün <a>about:debugging</a> açın
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Qeydiyyatdan çıxart
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
@@ -46,3 +49,15 @@ serviceworker-worker-status-registering = Qeyd edilir
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro = Service Worker-in burada inspekti üçün onu qeyd etməlisiniz. <a>Ətraflı öyrən</a>
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+serviceworker-empty-suggestions = Əgər mövcud səhifənin service worker-i olmalıdırsa, bunları edə bilərsiz
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = Xətalar üçün Konsola baxın. <a>Konsolu aç</a>
+# Suggestion to use the debugger to investigate why a service worker is not registered.
+# Clicking on the link will switch from the Application panel to the debugger.
+serviceworker-empty-suggestions-debugger = Service Worker qeydiyyatınızı addım-addım izləyin və xətalar üçün nəzarət edin. <a>Sazlayıcını aç</a>
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Clicking on the link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging = Digər domenlərdən olan Service Worker-ləri təftiş edin. <a>about:debugging aç</a>
