@@ -11,5 +11,10 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Spesifiser eigendefinert programoppdateringsadresse.
+policy-BlockAboutAddons = Blokker tilgang til Tilleggshandteraren (about:addons)
+policy-BlockAboutConfig = Blokker tilgang til about:config-sida.
+policy-BlockAboutProfiles = Blokker tilgang til about:profiles-sida.
+policy-BlockAboutSupport = Blokker tilgang til about:support-sida.
 policy-DisablePrivateBrowsing = Slå av Privat nettlesing.
 policy-DisableTelemetry = Slå av av telemetri.
+policy-Proxy = Konfigurer proxy-innstillingar.
