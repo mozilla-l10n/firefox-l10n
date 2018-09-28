@@ -33,3 +33,6 @@ policy-DisableMasterPasswordCreation = We nitzij, man nitikïr ta nitz'uk jun aj
 policy-DisablePocket = Tichup ri samaj richin yeyak taq ajk'amaya'l ruxaq pa Pocket.
 policy-DisablePrivateBrowsing = Tichup  ri Ichinan Okem pa K'amaya'l.
 policy-DisableProfileImport = Tichup ri runuk'uj k'utsamaj richin yejik' taq tzij pa ch'aqa' chik taq okik'amaya'l.
+policy-DisableProfileRefresh = Tichup ri Titzolïx { -brand-short-name } pitz'b'äl pa ri ruxaq about:support.
+policy-DisableSafeMode = Tichup ri rub'anikil richin nitikirisäx chik pa ri Ütz Rub'anikil. Ch'utitzijol: Ri Shift pitz'b'äl richin yatok pa ri Ütz Rub'anikil xa xe tikirel nichup pa Windows rik'in rokisaxik Runa'ojil Rumolaj Q'inoj.
+policy-DisableSecurityBypass = Tichajïx chi ri okisanel tik'o pa kiwi' jujun kitzijol k'ayewal.

@@ -23,3 +23,4 @@ onboarding-screenshots-text = Tichap, tiyak chuqa' tikomonïx ri chapoj ruwäch 
 onboarding-addons-title = Taq tz'aqat
 onboarding-addons-text = Ke'atz'aqatisaj ch'aqa' chik taq samaj richin nib'an chi ri { -brand-short-name } anin nisamäj chawäch. Ke'ajunamaj taq ajil, tatz'eta' ri meq'tewal o tak'utu' ri ab'anikil rik'in jun ichinan wachinel.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Katok pa k'amaya'l aninäq, na'owinäq rub'anikil o yalan ütz kik'in taq tz'aqat achi'el Ghostery, ri nuya' q'ij chawe richin ye'aq'ät ri itzel taq rutzijol.
