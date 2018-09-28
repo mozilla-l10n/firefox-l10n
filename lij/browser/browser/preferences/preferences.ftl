@@ -268,7 +268,7 @@ update-application-check-choose =
     .label = Contròlla se gh'é agiornamenti, ma famme decidde se instalali
     .accesskey = C
 update-application-manual =
-    .label = No controlâ mai se gh'é agiornamenti (no racomandou)
+    .label = No controlâ mai se gh'é agiornamenti (no consegiou)
     .accesskey = N
 update-application-use-service =
     .label = Deuvia 'n serviçio ascozo pe instalâ i agiornamenti
@@ -320,7 +320,7 @@ browsing-search-on-start-typing =
 
 network-proxy-title = Proxy da Ræ
 network-settings-title = Inpostaçioin da ræ
-network-proxy-connection-description = Configura comme { -brand-short-name } o se conette a l'Internet.
+network-proxy-connection-description = Inpòsta o mòddo de conetise a l'internet de { -brand-short-name }.
 network-proxy-connection-learn-more = Pe saveine de ciù
 network-proxy-connection-settings =
     .label = Inpostaçioin…
