@@ -10,6 +10,9 @@ crashes-unsubmitted-label = Ikkje-innsende krasjrapportar
 id-heading = Rapport-ID
 date-crashed-heading = Dato for krasj
 submit-crash-button-label = Send inn
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Feila
 crashes-submitted-label = Innsende krasjrapportar
 date-submitted-heading = Dato sendt
 view-crash-button-label = Vis
