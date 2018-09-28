@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "পরবর্তী">
 
 <!ENTITY firstrun_tabqueue_title "লিঙ্ক">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "ট্যাব কিউ চালু করুন">
-<!ENTITY firstrun_tabqueue_subtext_off "অন্য অ্যাপে থাকাকালীন কোন লিঙ্ক ট্যাপ করে তা পরবর্তীতে ব্যবহারের জন্য &brandShortName; এ সংরক্ষণ করুন।">
-
-<!ENTITY firstrun_tabqueue_message_on "সফল!">
-<!ENTITY firstrun_tabqueue_subtext_on "আপনি যেকোন সময় &pref_category_general; এর আওতায় &settings; থেকে এটি বন্ধ করতে পারবেন।">
 
 <!ENTITY firstrun_readerview_title "নিবন্ধ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "&brandShortName; পুনরায় চালু করুন">
 
 <!ENTITY url_bar_default_text2 "অনুসন্ধান বা ঠিকানা দিন">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ট্যাব, ডাটা রক্ষক, ডেভেলপার টুলগুলো পুনরুদ্ধার করুন">
 <!ENTITY pref_category_notifications "ঘোষণা">
-<!ENTITY pref_category_notifications_summary "নতুন ফিচার, ওয়েবসাইট হালনাগাদ">
 <!ENTITY pref_category_notifications_summary2 "নতুন ফিচার, পণ্যের টিপস">
 <!ENTITY pref_developer_remotedebugging_usb "USB এর মাধ্যমে রিমোট ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi এর মাধ্যমে রিমোট ডিবাগিং">
@@ -907,3 +899,8 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "&vendorShortName; লোকেশন সার্ভিস">
 <!ENTITY download_notification_channel "ডাউনলোডসমূহ">
+<!ENTITY media_notification_channel "মিডিয়া প্লেব্যাক">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; পুশ নোটিফিকেশন">
+<!ENTITY updater_notification_channel "অ্যাপ হালনাগাদ">
+<!ENTITY synced_tabs_notification_channel "সিঙ্ককৃত ট্যাব">
