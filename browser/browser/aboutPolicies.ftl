@@ -10,3 +10,10 @@ documentation-tab = Docamaideadh
 policy-name = Ainm a’ phoileasaidh
 policy-value = Luach a’ phoileasaidh
 policy-errors = Mearachdan a’ phoileasaidh
+# 'gpo-machine-only' policies are related to the Group Policy features
+# on Windows. Please use the same terminology that is used on Windows
+# to describe Group Policy.
+# These policies can only be set at the computer-level settings, while
+# the other policies can also be set at the user-level.
+gpo-machine-only =
+    .title = Nuair a chleachdas tu poileasaidh buidhinn, cha ghabh am poileasaidh seo a shuidheachadh ach aig ìre a’ choimpiutair.

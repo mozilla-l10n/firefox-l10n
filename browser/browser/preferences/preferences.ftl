@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 17em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -126,7 +118,7 @@ startup-header = Aig an toiseach
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Leig le { -brand-short-name } agus Firefox ruith aig an aon àm
-use-firefox-sync = Gliocas: Cleachdaidh seo pròifilean eadar-dhealaichte. Cleachd an sioncronachadh gus dàta a ghluasad eadar an dà dhiubh.
+use-firefox-sync = Gliocas: Cleachdaidh seo pròifilean eadar-dhealaichte. Cleachd { -sync-brand-short-name } gus dàta a ghluasad eadar an dà dhiubh.
 get-started-not-logged-in = Clàraich a-steach gu { -sync-brand-short-name }...
 get-started-configured = Fosgail roghainnean { -sync-brand-short-name }
 always-check-default =
@@ -137,20 +129,11 @@ is-not-default = Chan e { -brand-short-name } am brabhsair bunaiteach agad an-dr
 set-as-my-default-browser =
     .label = Cleachd mar am brabhsair bunaiteach...
     .accesskey = b
-startup-page = Nuair a thòisicheas { -brand-short-name }
-    .accesskey = t
-startup-user-homepage =
-    .label = Seall an duilleag-dhachaigh agad
-startup-blank-page =
-    .label = Seall duilleag bhàn
-startup-prev-session =
-    .label = Seall na h-uinneagan is tabaichean a bha agad san t-seisean mu dheireadh
 startup-restore-previous-session =
     .label = Aisig an seisean mu dheireadh
     .accesskey = s
 disable-extension =
     .label = Cuir an leudachan à comas
-home-page-header = An duilleag-dhachaidh
 tabs-group-header = Tabaichean
 ctrl-tab-recently-used-order =
     .label = Cuairtichidh Ctrl+Tab thu tro na tabaichean san robh iad agad o chionn goirid
@@ -276,7 +259,6 @@ play-drm-content =
 play-drm-content-learn-more = Barrachd fiosrachaidh
 update-application-title = Ùrachaidhean { -brand-short-name }
 update-application-description = Cum { -brand-short-name } ùraichte airson dèanadas, seasmhachd is tèarainteachd as fhearr.
-update-application-info = Tionndadh { $version } <a>Na tha ùr</a>
 update-application-version = Tionndadh { $version } <a data-l10n-name="learn-more">Na tha ùr</a>
 update-history =
     .label = Seall eachdraidh nan ùrachaidhean…
@@ -312,7 +294,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Crìoch pròiseasadh na susbaint
     .accesskey = n
 performance-limit-content-process-enabled-desc = Ma cheadaicheas tu pròiseasan susbaint a bharrachd, dh﻿﻿’fhaoidte gum faigh thu dèanadas nas fhearr ach feumaidh e barrachd cuimhne aig an aon àm.
-performance-limit-content-process-disabled-desc = Chan urrainn dhut àireamh nam pròiseasan susbaint atharrachadh ach ann am { -brand-short-name } ioma-phròiseasach. <a>Mar a dh’fhiosraicheas tu a bheil ioma-phròiseasadh an comas</a>
 performance-limit-content-process-blocked-desc = Chan urrainn dhut àireamh nam pròiseasan susbaint atharrachadh ach ann am { -brand-short-name } ioma-phròiseasach. <a data-l10n-name="learn-more">Mar a dh’fhiosraicheas tu a bheil ioma-phròiseasadh an comas</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -383,9 +364,6 @@ use-current-pages =
 choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
-restore-default =
-    .label = Aisig na roghainnean bunaiteach
-    .accesskey = r
 
 ## Search Section
 
@@ -582,9 +560,6 @@ history-dontremember-description = Cleachdaidh { -brand-short-name } na dearbh r
 history-private-browsing-permanent =
     .label = Dèan brabhsadh prìobhaideach an-còmhnaidh
     .accesskey = p
-history-remember-option =
-    .label = Cuimhnich an eachdraidh brabhsaidh 's luchdaidh agam
-    .accesskey = b
 history-remember-browser-option =
     .label = Cuimhnich an eachdraidh brabhsaidh 's luchdaidh
     .accesskey = b
@@ -654,6 +629,9 @@ addressbar-locbar-openpage-option =
     .label = Tabaichean fosgailte
     .accesskey = o
 addressbar-suggestions-settings = Atharraich na roghainnean a thaobh mholaidhean o einnseanan-luirg
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
