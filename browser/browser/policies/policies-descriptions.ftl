@@ -22,9 +22,12 @@ policy-Cookies = Дазволіць або забараніць вэб-сайт�
 policy-DisableAppUpdate = Забараніць абнаўленне браўзера.
 policy-DisableBuiltinPDFViewer = Адключыць PDF.js, убудаваны ў { -brand-short-name } праглядальнік PDF.
 policy-DisableDeveloperTools = Забараніць доступ да прылад распрацоўшчыка.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Адключыць функцыю Firefox Screenshots.
 policy-DisableFormHistory = Не запамінаць гісторыю пошуку і запаўнення формаў.
 policy-DisablePocket = Адключыць магчымасць захавання вэб-старонак у Pocket.
 policy-DisablePrivateBrowsing = Адключыць прыватнае агляданне.
 policy-DisableTelemetry = Выключыць тэлеметрыю.
+policy-DontCheckDefaultBrowser = Адключыць праверку прадвызначанага браўзера ў час запуску.
 policy-Proxy = Наладзіць параметры проксі.
 policy-SanitizeOnShutdown = Сціраць усе звесткі аб агляданні па закрыцці.
