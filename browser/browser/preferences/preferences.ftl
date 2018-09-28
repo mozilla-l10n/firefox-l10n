@@ -120,7 +120,6 @@ startup-header = आरंभन
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = { -brand-short-name } और Firefox को एक ही समय में चलने के लिए स्वीकारें
-use-firefox-sync = संकेत: यह अलग प्रोफाइल का उपयोग करता है. उनके बीच आँकड़ा साझा करने के लिए सिंक का उपयोग करें.
 get-started-not-logged-in = { -sync-brand-short-name } में साइन इन करें…
 get-started-configured = { -sync-brand-short-name } वरीयताएँ खोलें
 always-check-default =
@@ -620,10 +619,6 @@ sitedata-block-trackers-option =
     .label = तृतीय-पक्ष ट्रैकर
 sitedata-block-unvisited-option =
     .label = नहीं देखे वेबसाइटों से कुकीज़
-sitedata-block-all-third-parties-option =
-    .label = सभी तृतीय-पक्ष कुकीज़
-sitedata-block-always-option =
-    .label = सभी कुकीज़ (वेबसाइटों को तोड़ने का कारण हो सकते हैं)
 sitedata-block-all-third-party-option =
     .label = सभी तृतीय-पक्ष कुकीज़ (वेबसाइटों को तोड़ने का कारण हो सकते हैं)
 sitedata-block-all-option =
@@ -672,50 +667,13 @@ content-blocking-toggle-label-on = चालू
 content-blocking-toggle-label-off = बंद
     .accesskey = O
 content-blocking-category-label = चुनें कि क्या ब्लॉक करना है
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = धीमी ट्रैकिंग तत्व
-    .accesskey = S
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = धीमी गति से लोड होने वाले ट्रैकर
-    .accesskey = S
-content-blocking-fastblock-description = लोड होने में 5 सेकंड से अधिक समय लेने वाले तृतीय-पार्टी सामग्री को ब्लॉक करता है.
-content-blocking-fastblock-option-enabled =
-    .label = हमेशा ब्लॉक करें
-content-blocking-fastblock-option-disabled =
-    .label = कभी ब्लॉक ना करें
-content-blocking-tracking-protection-label = ट्रैकर
-    .accesskey = T
-content-blocking-tracking-protection-all-label = सभी ज्ञात ट्रैकर
-    .accesskey = T
-content-blocking-tracking-protection-description = सभी ज्ञात ट्रैकर ब्लॉक करें (नोट: कुछ पृष्ठों को लोड होने से रोका जा सकता है).
-content-blocking-tracking-protection-option-enabled =
-    .label = हमेशा ब्लॉक करें
-content-blocking-tracking-protection-option-pbm =
-    .label = केवल निजी विंडो में ब्लॉक करें
-content-blocking-tracking-protection-option-disabled =
-    .label = कभी ब्लॉक ना करें
 content-blocking-tracking-protection-option-always =
     .label = हमेशा
     .accesskey = A
 content-blocking-tracking-protection-option-private =
     .label = केवल निजी विंडो में
     .accesskey = p
-content-blocking-tracking-protection-change-blocklist = ब्लॉक सूची बदलें
-content-blocking-reject-trackers-label = तृतीय-पक्ष कुकीज़
-    .accesskey = C
 content-blocking-reject-trackers-description = सभी तृतीय-पक्ष कुकीज़ को प्रतिबंधित करें या केवल उन्हें जो ट्रैकरों द्वारा सेट किए गये हैं।
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = सभी कुकीज़ वर्तमान में प्रतिबंधित किए गए हैं।
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "Cookies from unvisited websites"
-# option being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked = नहीं देखे वेबसाइटों से कुकीज़ वर्तमान में अवरुद्ध हैं।
 content-blocking-change-cookie-settings =
     .label = कुकी सेटिंग बदलें
     .accesskey = S
@@ -813,9 +771,6 @@ permissions-a11y-privacy-link = और अधिक जानें
 collection-header = { -brand-short-name } डेटा संकलन और उपयोग
 collection-description = हम आपको हमेशा विकल्प देने का प्रयास करते हैं और केवल आवश्यक सूचनाएँ एकत्रित करते हैं ताकि { -brand-short-name } सबके लिए व बेहतर हो. हम व्यक्तिगत जानकारी लेने से पहले हमेशा अनुमति मांगते हैं.
 collection-privacy-notice = गोपनीयता सूचना
-collection-health-report =
-    .label = { -brand-short-name } को मोज़िला को तकनीकी और इंटरैक्शन डेटा भेजने की अनुमति दें
-    .accesskey = r
 collection-health-report-link = अधिक जानें
 collection-studies =
     .label = { -brand-short-name } को संस्थापित करने और अध्ययन चलाने की अनुमति दें
