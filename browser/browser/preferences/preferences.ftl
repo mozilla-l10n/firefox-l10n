@@ -81,7 +81,7 @@ startup-header = ಆರಂಭಿಕ
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = { -brand-short-name } ಅನ್ನು ಮತ್ತು Firefox ಅನ್ನು ಏಕಕಾಲಕ್ಕೆ ಚಲಾಯಿತಗೊಳ್ಳಲು ಅನುಮತಿಸಿ
-use-firefox-sync = ಸೂಚನೆ: ಇದು ಪ್ರತ್ಯೇಕ ಪ್ರೊಫೈಲ್‌ಗಳನ್ನು ಬಳಸುತ್ತದೆ. ಅವುಗಳ ನಡುವೆ ದತ್ತಾಂಶವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಸಿಂಕ್ ಅನ್ನು ಬಳಸಿ.
+use-firefox-sync = ಸೂಚನೆ: ಇದು ಪ್ರತ್ಯೇಕ ಪ್ರೊಫೈಲ್‌ಗಳನ್ನು ಬಳಸುತ್ತದೆ. ಅವುಗಳ ನಡುವೆ ದತ್ತಾಂಶವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು { -sync-brand-short-name } ಬಳಸಿ.
 get-started-not-logged-in = { -sync-brand-short-name }ಗೆ ಸೈನ್-ಇನ್ ಆಗು…
 get-started-configured = { -sync-brand-short-name } ಆದ್ಯತೆಗಳನ್ನು ತೆರೆ
 always-check-default =
