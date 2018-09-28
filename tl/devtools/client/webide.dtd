@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Runtime Info">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Mga Kagustuhan sa Device">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Mga Setting ng Device">
@@ -96,6 +94,8 @@
 <!ENTITY prefs_general_title "Pangkalahatan">
 
 <!-- Runtime Details -->
+<!ENTITY runtimedetails_adbIsRoot "ADB is root: ">
+<!ENTITY runtimedetails_summonADBRoot "root device">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
@@ -105,9 +105,6 @@
 <!-- Device Preferences -->
 
 <!-- Device Settings -->
-
-<!-- Monitor -->
-<!ENTITY monitor_help "Tulong">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog

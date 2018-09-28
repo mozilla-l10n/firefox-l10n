@@ -445,6 +445,10 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Kasaysayan
     .accesskey = r
+sync-engine-logins =
+    .label = Mga login
+    .tooltiptext = Iyong mga username at password
+    .accesskey = l
 sync-device-name-header = Pangalan ng Device
 sync-device-name-change =
     .label = Palitan ang Pangalan ng Device...
@@ -555,6 +559,13 @@ addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga suhesti
 
 ## Privacy Section - Content Blocking
 
+content-blocking-toggle-label-on = ON
+    .accesskey = O
+content-blocking-toggle-label-off = OFF
+    .accesskey = F
+content-blocking-tracking-protection-option-always =
+    .label = Palagi
+    .accesskey = P
 
 ## Privacy Section - Tracking
 

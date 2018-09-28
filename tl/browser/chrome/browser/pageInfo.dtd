@@ -46,22 +46,10 @@
 
 <!ENTITY  feedTab               "Feeds">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "Mag-subscribe">
-<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "Pahintulot">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "Gamitin ang Nakatakda">
-<!ENTITY  permAskAlways         "Palaging itanong">
-<!ENTITY  permAllow             "Payagan">
-<!ENTITY  permAllowSession      "Payagan para sa Session">
-<!ENTITY  permHide              "Itago">
-<!ENTITY  permBlock             "Harangin">
 <!ENTITY  permissionsFor        "Mga Pahintulot para sa:">
-<!ENTITY  permPlugins           "I-activate ang mga Plugin">
-
-<!ENTITY  permClearStorage           "Burahin ang Storage">
-<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Seguridad">
 <!ENTITY  securityTab.accesskey "S">
@@ -78,9 +66,7 @@
 
 <!ENTITY  securityView.privacy.header                   "Kasaysayan ng Privadong &amp;">
 <!ENTITY  securityView.privacy.history                  "Have I visited this web site prior to today?">
-<!ENTITY  securityView.privacy.cookies                  "Is this web site storing information (cookies) on my computer?">
-<!ENTITY  securityView.privacy.viewCookies              "Ipakita ang mga Cookie">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ipakita ang naka-saved na Passwords">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
