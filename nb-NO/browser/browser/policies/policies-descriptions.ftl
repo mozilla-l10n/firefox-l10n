@@ -11,13 +11,19 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Angi egendefinert programoppdateringsadresse.
+policy-Authentication = Konfigurer integrert godkjenning for nettsteder som støtter det.
 policy-BlockAboutAddons = Blokker tilgang til Utvidelsesbehandleren (about:addons)
 policy-BlockAboutConfig = Blokker tilgang til about:config-siden.
 policy-BlockAboutProfiles = Blokker tilgang til about:profiles-siden.
 policy-BlockAboutSupport = Blokker tilgang til about:support-siden.
 policy-DisableAppUpdate = Forhindre oppdatering av nettleseren.
-policy-DisableBuiltinPDFViewer = Slå av PDF.js, den innebygde PDF-visningsprogrammet i { -brand-short-name }
+policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, den innebygde PDF-visningsprogrammet i { -brand-short-name }
 policy-DisableDeveloperTools = Blokker tilgang til utviklerverktøyene.
+policy-DisableFirefoxAccounts = Deaktiver { -fxaccount-brand-name }-baserte tjenester, inkludert Sync.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Deaktiver funksjonen Firefox Screenshots
+policy-DisableFirefoxStudies = Forhindre { -brand-short-name } fra å kjøre undersøkelser.
+policy-DisableForgetButton = Forhindre tilgang til knappen Glem.
 policy-DisablePrivateBrowsing = Slå av Privat nettlesing.
 policy-InstallAddonsPermission = Tillat visse nettsteder å installere utvidelser.
 policy-Proxy = Konfigurer proxy-innstillinger.

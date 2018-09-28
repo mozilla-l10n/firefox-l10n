@@ -17,6 +17,8 @@ onboarding-start-browsing-button-label = Start nettlesing
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Privat nettlesing
+onboarding-screenshots-text = Ta, lagre og del skjermbilder - uten å forlate { -brand-short-name }. Ta skjermbilde av et område eller en hel side mens du surfer. Deretter lagrer du på nettet for enkel tilgang og deling.
 onboarding-addons-title = Utvidelser
 onboarding-addons-text = Legg til enda flere funksjoner som gjør at { -brand-short-name } fungerer bedre for deg. Sammenlign priser, sjekk været eller uttrykk din personlighet med et tilpasset tema.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Surf raskere, smartere eller sikrere med utvidelser som Ghostery, som lar deg blokkere irriterende annonser.
