@@ -41,3 +41,12 @@ policy-DisableSetAsDesktopBackground = Tichup runuk'uj k'utsamaj Tiya' achi'el R
 policy-DisableSystemAddonUpdate = Tichajïx chi ri okik'amaya'l keruyaka' chuqa' keruk'exa' ri taq rutz'aqat q'inoj.
 policy-DisableTelemetry = Tichup Telemetry.
 policy-DisplayBookmarksToolbar = Tik'ut ri Rukajtz'ik Samajib'äl achi'el k'o wi.
+policy-DisplayMenuBar = Tik'ut ri Rukajtz'ik K'utsamaj achi'el k'o wi.
+policy-DontCheckDefaultBrowser = Tichup ri tojtob'äl okik'amaya'l k'o wi pa rutikirisaxik.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Titzij o tichup ri Kiq'atik Rupam chuqa' ticha' toq niq'at.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Tiyak, tiyuj o keq'at taq k'amal. Ri rucha'ik Tiyak yeruchäp URLs taq ochochib'äl o taq b'ey achi'el etab'äl. Ri Tiyuj chuqa' Tiq'at yeruchäp ID kichin taq k'amal.
