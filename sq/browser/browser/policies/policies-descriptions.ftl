@@ -32,3 +32,4 @@ policy-DisablePrivateBrowsing = Çaktivizo Shfletimin Privat.
 policy-DisableProfileImport = Çaktivizo te menu urdhrin për Importim të dhënash nga një tjetër shfletues.
 policy-DisableProfileRefresh = Çaktivizo te faqja about:support butonin Rifreskoni { -brand-short-name }.
 policy-DisableSafeMode = Çaktivizo veçorinë e rinisjes nën Mënyrën e Parrezik. Shënim: tasti Shift për hyrje nën Mnëyrën e Parrezik mund të çaktivizohet vetëm në Windows duke përdorur Rregulla Grupi.
+policy-DisableTelemetry = Çaktivizo Telemetry-në.
