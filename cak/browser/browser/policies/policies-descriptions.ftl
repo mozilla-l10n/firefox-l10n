@@ -50,3 +50,8 @@ policy-EnableTrackingProtection = Titzij o tichup ri Kiq'atik Rupam chuqa' ticha
 # English or translate them as verbs. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Tiyak, tiyuj o keq'at taq k'amal. Ri rucha'ik Tiyak yeruchäp URLs taq ochochib'äl o taq b'ey achi'el etab'äl. Ri Tiyuj chuqa' Tiq'at yeruchäp ID kichin taq k'amal.
+policy-FlashPlugin = Niya' q'ij o man niya' ta q'ij nokisäx ri Flash nak'ab'äl.
+policy-HardwareAcceleration = We man qitzij ta, tichup ranin ch'akulkem.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Tiya' chuqa' ütz niq'at ri tikirib'äl ruxaq.
+policy-InstallAddonsPermission = Tiya' q'ij chi ke jujun taq ajk'amaya'l ruxaq yekiyäk taq tz'aqat.
