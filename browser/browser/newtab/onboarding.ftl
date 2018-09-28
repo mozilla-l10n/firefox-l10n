@@ -23,3 +23,4 @@ onboarding-screenshots-text = Ta, spara och dela skärmbilder - utan att lämna 
 onboarding-addons-title = Tillägg
 onboarding-addons-text = Lägg till ännu fler funktioner som gör att { -brand-short-name } fungerar bättre för dig. Jämför priser, kolla vädret eller uttryck din personlighet med ett eget tema.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Surfa snabbare, smartare eller säkrare med tillägg som Ghostery, vilken låter dig blockera irriterande annonser.
