@@ -5,7 +5,6 @@
 blocklist-window =
     .title = सूची रोकें
     .style = width: 55em
-blocklist-desc = आप चुन सकते हैं कि फाॅयरफ़ाॅक्स कौन सी सूची प्रयोग करेगा वेब तत्वों को ब्लाॅक करने के लिए जोकि आपकी ब्राउसिंग गतिविधि को ट्रैक कर सकते हैं.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
