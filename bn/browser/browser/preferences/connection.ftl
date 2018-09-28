@@ -67,3 +67,6 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 ব্যবহারের সময় Proxy DNS
     .accesskey = d
+connection-dns-over-https-url = URL
+    .accesskey = U
+    .tooltiptext = HTTPS দ্বারা DNS রিজল্ভ করার URL
