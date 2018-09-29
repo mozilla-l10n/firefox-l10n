@@ -211,6 +211,9 @@ choose-button =
     .label = Выбрать…
     .accesskey = ы
 choose-browser-language-description = Выберите язык отображения меню, сообщений и уведомлений от { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Выбрать альтернативные…
+    .accesskey = ы
 confirm-browser-language-change-description = Перезапустите { -brand-short-name } для применения этих изменений
 confirm-browser-language-change-button = Применить и перезапустить
 translate-web-pages =
@@ -627,10 +630,6 @@ sitedata-block-trackers-option =
     .label = Сторонние трекеры
 sitedata-block-unvisited-option =
     .label = Куки с непосещённых сайтов
-sitedata-block-all-third-parties-option =
-    .label = Все сторонние куки
-sitedata-block-always-option =
-    .label = Все куки (может нарушить работу веб-сайтов)
 sitedata-block-all-third-party-option =
     .label = Все сторонние куки (может нарушить работу веб-сайтов)
 sitedata-block-all-option =
@@ -677,33 +676,6 @@ content-blocking-toggle-label-on = ВКЛ
 content-blocking-toggle-label-off = ОТКЛ
     .accesskey = Л
 content-blocking-category-label = Выберите, что блокировать
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Медленные трекеры
-    .accesskey = л
-content-blocking-fastblock-description = Блокирует стороннее содержимое, загружающееся более 5 секунд.
-content-blocking-fastblock-option-enabled =
-    .label = Всегда блокировать
-content-blocking-fastblock-option-disabled =
-    .label = Никогда не блокировать
-content-blocking-tracking-protection-label = Все трекеры
-    .accesskey = е
-content-blocking-tracking-protection-description = Блокирует все известные трекеры (Примечание: может также предотвратить загрузку некоторых страниц).
-content-blocking-tracking-protection-option-enabled =
-    .label = Всегда блокировать
-content-blocking-tracking-protection-option-pbm =
-    .label = Блокировать только в приватных окнах
-content-blocking-tracking-protection-option-disabled =
-    .label = Никогда не блокировать
-content-blocking-tracking-protection-change-blocklist = Сменить список блокировки…
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = Медленные трекеры
-    .accesskey = е
-content-blocking-tracking-protection-all-label = Все обнаруженные трекеры
-    .accesskey = ж
 content-blocking-tracking-protection-option-always =
     .label = Всегда
     .accesskey = а
@@ -711,8 +683,6 @@ content-blocking-tracking-protection-option-private =
     .label = Только в приватных окнах
     .accesskey = и
 content-blocking-tracking-protection-change-block-list = Сменить список блокировки
-content-blocking-reject-trackers-label = Сторонние куки
-    .accesskey = н
 content-blocking-reject-trackers-description = Блокировать все сторонние куки или только установленные трекерами.
 content-blocking-change-cookie-settings =
     .label = Изменить параметры куков
