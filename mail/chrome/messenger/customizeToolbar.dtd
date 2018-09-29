@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title             "Gnàthaich am bàr-inneal">
-<!ENTITY dialog.dimensions        "leud: 92car; àirde: 36em;">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "Cuir ris no thoir air falbh nithean ’s tu ’gan slaodadh gun bhàr-inneal no fo bharr.">
 <!ENTITY show.label               "Seall:">
 <!ENTITY iconsAndText.label       "Ìomhaigheagan is teacsa">
