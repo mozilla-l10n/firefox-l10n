@@ -23,3 +23,4 @@ onboarding-screenshots-text = Čińće, składujće a dźělće fota wobrazowki 
 onboarding-addons-title = Přidatki
 onboarding-addons-text = Přidajće dalše funkcije, zo by { -brand-short-name } ćešo za was dźěłał. Přirunajće płaćizny, wobhońće so za wjedrom abo zwurazńće swoju wosobinu ze swójskej drastu.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Přehladujće spěšnišo, bóle inteligentnje abo wěsćišo z rozšěrjenjemi kaž Ghostery, kotrež wam zmóžnja, wobćežne wabjenje blokować.
