@@ -5,4 +5,5 @@
 <!ENTITY title           "Installer tillegg">
 <!ENTITY allow           "Tillat denne installeringa">
 <!ENTITY continue        "Fortset">
+<!ENTITY restartButton   "Start &brandShortName; på nytt">
 <!ENTITY cancelButton    "Avbryt">
