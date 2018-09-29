@@ -23,6 +23,7 @@ policy-DisableAppUpdate = Запрещает обновление браузер
 policy-DisableBuiltinPDFViewer = Отключает PDF.js, встроенный просмотрщик PDF в { -brand-short-name }.
 policy-DisableDeveloperTools = Блокирует доступ к инструментам разработчика.
 policy-DisableFeedbackCommands = Отключает команды отправки отзывов в меню Справка («Отправить отзыв...» и «Сообщить о поддельном сайте...»).
+policy-DisableFirefoxAccounts = Отключает службы, основанные на { -fxaccount-brand-name }, включая Синхронизацию.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Отключает функцию Firefox Screenshots.
 policy-DisableFirefoxStudies = Запрещает { -brand-short-name } выполнять исследования.
@@ -54,15 +55,16 @@ policy-HardwareAcceleration = Отключает аппаратное ускор
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Устанавливает домашнюю страницу и, по желанию, блокирует её смену.
 policy-InstallAddonsPermission = Разрешает некоторым веб-сайтам устанавливать дополнения.
+policy-NoDefaultBookmarks = Отключает создание закладок по умолчанию, идущих вместе с { -brand-short-name }, и Умных Закладок (Часто посещаемые, Последние метки). Примечание: эта политика действует только в том случае, если она используется до первого запуска профиля.
 policy-OfferToSaveLogins = Разрашает { -brand-short-name } предлагать запоминать сохранённые логины и пароли. Принимаются значения как true, так и false.
 policy-OverrideFirstRunPage = Переопределяет первую страницу после запуска. Установите эту политику в пустую, если хотите отключить первую страницу после запуска.
 policy-OverridePostUpdatePage = Переопределяет страницу «Что нового», открывающуюся после обновления. Установите эту политику в пустую, если хотите отключить страницу, открывающуюся после обновления.
 policy-Permissions = Настраивает разрешения для камеры, микрофона, местоположения и уведомлений.
-policy-PopupBlocking = Разрешить некоторым веб-сайтам открывать всплывающие окна по умолчанию.
-policy-Proxy = Настроить параметры прокси.
-policy-SanitizeOnShutdown = Удалять все данные веб-сёрфинга при закрытии.
-policy-SearchBar = Установить расположение панели поиска по умолчанию. Пользователю всё же разрешено его настраивать.
-policy-SearchEngines = Настроить параметры поисковой системы. Эта политика доступна только в версии длительной поддержки (ESR).
+policy-PopupBlocking = Разрешает некоторым веб-сайтам открывать всплывающие окна по умолчанию.
+policy-Proxy = Настраивает параметры прокси.
+policy-SanitizeOnShutdown = Удаляет все данные веб-сёрфинга при закрытии.
+policy-SearchBar = Устанавливает расположение панели поиска по умолчанию. Пользователю всё же разрешено его настраивать.
+policy-SearchEngines = Настраивает параметры поисковой системы. Эта политика доступна только в версии длительной поддержки (ESR).
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Блокирует посещение веб-сайтов. Для получения дополнительной информации о формате обратитесь к документации.
