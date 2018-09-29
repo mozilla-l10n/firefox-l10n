@@ -640,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Taq man relik ta…
     .accesskey = r
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Ri taq anuk'ulem pa ri Kiq'atik Rupam yekiq'ät ri taq Kijalik Kinuk'ulem Kaxlanwäy chuqa' Kitzij taq Ruxaq.
 
 ## Privacy Section - Address Bar
 
@@ -673,12 +677,33 @@ content-blocking-toggle-label-on = TZIJÏL
 content-blocking-toggle-label-off = CHUPÜL
     .accesskey = O
 content-blocking-category-label = Tacha' achike naq'ät
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Eqal-Yesamajib'ëx Ojqanela'
+    .accesskey = E
+content-blocking-fastblock-new-description = Xa xe keq'at ri ojqanela' eqal nikib'än richin yesamajib'ëx ri taq ruxaq.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Ronojel taq Ojqanela' Xe'ilitäj
+    .accesskey = O
+content-blocking-tracking-protection-new-description = Keq'at konojel ri ojqanela' etaman kiwäch. (Nitikïr nuq'ät kisamajib'exik jujun taq ruxaq.)
 content-blocking-tracking-protection-option-always =
     .label = Junelïk
     .accesskey = J
 content-blocking-tracking-protection-option-private =
     .label = Xa xe pa ichinan taq tzuwäch
     .accesskey = i
+content-blocking-tracking-protection-change-block-list = Tijaq rucholajem q'atoj
+content-blocking-third-party-cookies-label =
+    .label = Kikaxlanwäy Aj Rox Winäq
+    .accesskey = k
+content-blocking-reject-trackers-description = Keq'at ronojel kikaxlanwäy aj rox winäq o xa xe ri eya'on kuma ri ojqanela'.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Ri taq anuk'ulem pa taq Kaxlanwäy chuqa' Kitzij Ruxaq nikiq'ät ri jaloj nib'an pa Kinuk'ulem Kikaxlanwäy aj Rox Winäq.
 content-blocking-change-cookie-settings =
     .label = Kek'ëx ri taq Runuk'ulem Kaxlanwäy
     .accesskey = R
@@ -688,6 +713,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Ojqanela'
     .accesskey = n
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Ronojel kikaxlanwäy aj rox winäq (yetikïr yekib'än sachoj pan ajk'amaya'l ruxaq)
+    .accesskey = R
 
 ## Privacy Section - Tracking
 
