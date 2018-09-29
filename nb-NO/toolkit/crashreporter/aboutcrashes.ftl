@@ -4,12 +4,18 @@
 
 crash-reports-title = Krasjrapporter
 clear-all-reports-label = Slett alle rapporter
+delete-button-label = Fjern alle
 delete-confirm-title = Er du sikker?
 delete-confirm-description = Dette vil slette alle rapporter, og kan ikke omgjøres.
 crashes-unsubmitted-label = Ikke-innsendte krasjrapporter
 id-heading = Rapport-ID
 date-crashed-heading = Dato for krasj
+submit-crash-button-label = Send inn
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Mislyktes
 crashes-submitted-label = Sendte krasjrapporter
 date-submitted-heading = Dato sendt
+view-crash-button-label = Vis
 no-reports-label = Ingen krasjrapporter er sendt.
 no-config-label = Dette programmet er ikke konfigurert for å vise krasjrapporter. Innstillingen <code>breakpad.reportURL</code> må settes.
