@@ -35,13 +35,13 @@ profiles-rename-profile = Nimeä profiili { $name } uudelleen
 profiles-invalid-profile-name-title = Profiilin nimi ei kelpaa
 # Variables:
 #   $name (String) - Name of the profile
-profiles-invalid-profile-name = Profiilin nimi "{ $name }" ei ole sallittu.
+profiles-invalid-profile-name = Profiilin nimi ”{ $name }” ei ole sallittu.
 profiles-delete-profile-title = Poista profiili
 # Variables:
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
     Profiilin poistaminen poistaa profiilin saatavilla olevien profiilien luettelosta eikä tätä toimintoa voi kumota.
-    Voit myös halutessasi poistaa profiilin datatiedostot, mukaan lukien asetuksesi, varmenteet ja muut käyttäjäkohtaiset tiedot. Tämä valinta poistaa kansion "{ $dir }" eikä tätä toimintoa voi kumota.
+    Voit myös halutessasi poistaa profiilin datatiedostot, mukaan lukien asetuksesi, varmenteet ja muut käyttäjäkohtaiset tiedot. Tämä valinta poistaa kansion ”{ $dir }” eikä tätä toimintoa voi kumota.
     Haluatko poistaa profiilin datatiedostot?
 profiles-delete-files = Poista tiedostot
 profiles-dont-delete-files = Älä poista tiedostoja
