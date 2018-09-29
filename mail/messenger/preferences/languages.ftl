@@ -19,3 +19,4 @@ languages-customize-add =
 messenger-languages-window =
     .title = { -brand-short-name } språkinnstillinger
     .style = width: 40em
+messenger-languages-description = { -brand-short-name } vil vise det første språket som standard og vil vise alternative språk om nødvendig i den rekkefølgen de vises.
