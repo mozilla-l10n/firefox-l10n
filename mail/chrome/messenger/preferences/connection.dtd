@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "Ова опција вас у позадини идентификује на посреднике када имате сачуване акредитиве за њих. Затражиће се идентификација од вас уколико акредитив нису исправни.">
 <!ENTITY  socksRemoteDNS.label          "Посредуј DNS када се користи SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "д">
+<!ENTITY  dnsOverHttps.label            "Омогући DNS преко HTTPS-а">
+<!ENTITY  dnsOverHttps.accesskey        "г">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL за разрешавање DNS-а преко HTTPS-а">
