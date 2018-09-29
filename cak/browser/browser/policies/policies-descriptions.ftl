@@ -55,3 +55,8 @@ policy-HardwareAcceleration = We man qitzij ta, tichup ranin ch'akulkem.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Tiya' chuqa' ütz niq'at ri tikirib'äl ruxaq.
 policy-InstallAddonsPermission = Tiya' q'ij chi ke jujun taq ajk'amaya'l ruxaq yekiyäk taq tz'aqat.
+policy-NoDefaultBookmarks = Kechup ri kitz'ukik taq yaketal e k'o wi etz'aqatisan rik'in { -brand-short-name }, chuqa' ri na'owinäq taq yaketal (Yalan Etz'eton, K'a ri' Ketz'et taq Yaketal). Ch'utitzijol: ütz re na'ojil re' we nokisäx pa ri nab'ey rusamajixik ruwäch b'i'aj.
+policy-OfferToSaveLogins = Tab'ana' ri runuk'ulem richin niya' q'ij chi ri { -brand-short-name } yerusüj yenatäx tikirib'äl taq molojri'ïl chuqa' yakon ewan taq tzij. Yek'ul qitzij chuqa' man qitzij ta taq ajil.
+policy-OverrideFirstRunPage = Tiyuj ri nab'ey ruxaq rub'anikil. Tiya' pa säq re na'ojil re' we nawajo' nachüp ri nab'ey ruxaq rub'anik.
+policy-OverridePostUpdatePage = Nayüj ri ruxaq "K'ak'a' taq tzijol" chi rij ri k'exoj. Tiya' pa säq re na'ojil re' we nawajo' nachüp re ruxaq chi rij ri k'exoj.
+policy-Permissions = Tib'an kinuk'ulem ya'oj taq q'ij kichin elesäy wachib'äl, q'asäy ch'ab'äl, k'ojlib'äl chuqa' taq rutzijol.
