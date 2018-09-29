@@ -4,6 +4,7 @@
 
 crash-reports-title = Krasjrapportar
 clear-all-reports-label = Slett alle rapportar
+delete-button-label = Fjern alle
 delete-confirm-title = Er du sikker?
 delete-confirm-description = Dette vil slette alle rapportane og kan ikkje gjerast om.
 crashes-unsubmitted-label = Ikkje-innsende krasjrapportar
