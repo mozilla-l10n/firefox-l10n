@@ -21,4 +21,5 @@ onboarding-private-browsing-text = Inig s yiman-ik. Tunigin s usewḥel n ugbur 
 onboarding-screenshots-title = Tuṭṭfa n wegdil
 onboarding-screenshots-text = Ṭṭef, sekles u bḍu tuṭṭfiwin - war tufɣa seg { -brand-short-name }. Ṭṭef tamnaḍt neɣ akk asebter ticki tettinigeḍ. Sakin sekles ɣer web i unekcum d beṭṭu fessusen.
 onboarding-addons-title = Izegrar
+onboarding-addons-text = Rnu ugar n tmahilin iwakken { -brand-short-name } ad yeqdec akken i wen-iwata. Snemhel atigen, wali addad n tegnawt neɣ sken-d taweggiṭ-ik s usentel udmawan.
 onboarding-ghostery-title = Ghostery
