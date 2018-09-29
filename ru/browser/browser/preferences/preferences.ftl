@@ -643,6 +643,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Исключения…
     .accesskey = ю
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Ваши настройки в Блокировке содержимого не дают произвести изменения настроек в Куки и данные сайтов.
 
 ## Privacy Section - Address Bar
 
@@ -676,6 +680,17 @@ content-blocking-toggle-label-on = ВКЛ
 content-blocking-toggle-label-off = ОТКЛ
     .accesskey = Л
 content-blocking-category-label = Выберите, что блокировать
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Медленные трекеры
+    .accesskey = н
+content-blocking-fastblock-new-description = Блокировать только трекеры, не дающие страницам быстро загружаться.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Все обнаруженные трекеры
+    .accesskey = е
+content-blocking-tracking-protection-new-description = Блокировать все известные трекеры (Некоторые страницы могут не открыться).
 content-blocking-tracking-protection-option-always =
     .label = Всегда
     .accesskey = а
@@ -683,7 +698,15 @@ content-blocking-tracking-protection-option-private =
     .label = Только в приватных окнах
     .accesskey = и
 content-blocking-tracking-protection-change-block-list = Сменить список блокировки
+content-blocking-third-party-cookies-label =
+    .label = Сторонние куки
+    .accesskey = о
 content-blocking-reject-trackers-description = Блокировать все сторонние куки или только установленные трекерами.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Ваши настройки в Куки и данные сайтов не дают произвести изменения настроек в Сторонние куки.
 content-blocking-change-cookie-settings =
     .label = Изменить параметры куков
     .accesskey = м
