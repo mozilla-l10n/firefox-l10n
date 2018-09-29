@@ -16,3 +16,4 @@ onboarding-start-browsing-button-label = Bdu tunigin
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-private-browsing-title = Tunigin tusligt
