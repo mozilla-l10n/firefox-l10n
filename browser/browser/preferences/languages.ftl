@@ -41,3 +41,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Jazyk aplikácie { -brand-short-name }
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } zobrazí používateľské rozhranie v prvom vybranom jazyku. Ostatné použije podľa potreby a to vo vybranom poradí.
