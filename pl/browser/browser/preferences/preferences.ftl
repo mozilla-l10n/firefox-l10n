@@ -48,13 +48,14 @@ should-restart-title = Ponowne uruchamianie programu { -brand-short-name }
 should-restart-ok = Uruchom ponownie
 cancel-no-restart-button = Anuluj
 restart-later = Później
-extension-controlled-homepage-override = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę startową.
-extension-controlled-new-tab-url = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę nowej karty.
-extension-controlled-default-search = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> zmieniło domyślną wyszukiwarkę.
-extension-controlled-privacy-containers = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> wymaga włączonych „Kart z kontekstem”.
-extension-controlled-websites-tracking-protection-mode = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje ochronę przed śledzeniem.
-extension-controlled-proxy-config = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje, jak przeglądarka łączy się z Internetem.
-extension-controlled-enable = Aby włączyć rozszerzenie, przejdź do sekcji <img data-l10n-name="addons-icon"/> Dodatki w menu <img data-l10n-name="menu-icon"/>.
+extension-controlled-homepage-override=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę startową.
+extension-controlled-new-tab-url=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę nowej karty.
+extension-controlled-default-search=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> zmieniło domyślną wyszukiwarkę.
+extension-controlled-privacy-containers=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> wymaga włączonych „Kart z kontekstem”.
+extension-controlled-websites-tracking-protection-mode=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje ochronę przed śledzeniem.
+extension-controlled-websites-content-blocking-all-trackers=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje to ustawienie.
+extension-controlled-proxy-config=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje, jak przeglądarka łączy się z Internetem.
+extension-controlled-enable=Aby włączyć rozszerzenie, przejdź do sekcji dodatki <img data-l10n-name="addons-icon"/> w menu <img data-l10n-name="menu-icon"/>.
 
 search-results-header = Wyniki wyszukiwania
 search-results-empty-message =
@@ -571,6 +572,7 @@ content-blocking-fastblock-slow-loading-trackers-label=
   .label=Wolno wczytywane elementy śledzące
   .accesskey=W
 content-blocking-fastblock-description=Blokowanie elementów zewnętrznych witryn, których wczytanie zajmuje ponad 5 sekund.
+content-blocking-fastblock-new-description=Blokowanie elementów śledzących uniemożliwiających szybkie wczytywanie stron.
 content-blocking-fastblock-option-enabled=
   .label=Obligatoryjne blokowanie
 content-blocking-fastblock-option-disabled=
@@ -583,6 +585,7 @@ content-blocking-tracking-protection-all-detected-trackers-label=
   .label=Wszystkie wykryte elementy śledzące
   .accesskey=W
 content-blocking-tracking-protection-description=Blokowanie wszystkich znanych elementów śledzących. Niektóre strony mogą nie działać prawidłowo.
+content-blocking-tracking-protection-new-description=Blokowanie wszystkich znanych elementów śledzących. (niektóre strony mogą nie działać prawidłowo)
 content-blocking-tracking-protection-option-enabled=
   .label=Obligatoryjne blokowanie
 content-blocking-tracking-protection-option-pbm=
@@ -596,6 +599,7 @@ content-blocking-tracking-protection-option-private=
   .label=Blokowanie w oknach prywatnych
   .accesskey=B
 content-blocking-tracking-protection-change-blocklist=Zmień listę blokowanych…
+content-blocking-tracking-protection-change-block-list=Zmień listę blokowanych
 content-blocking-reject-trackers-label=Ciasteczka zewnętrznych witryn
   .accesskey=C
 content-blocking-third-party-cookies-label=
@@ -604,8 +608,9 @@ content-blocking-third-party-cookies-label=
 content-blocking-reject-trackers-description=Blokowanie wszystkich ciasteczek zewnętrznych witryn lub tylko ustawianych przez elementy śledzące.
 content-blocking-reject-trackers-warning-all-cookies-blocked=Wszystkie ciasteczka są obecnie blokowane.
 content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked=Ciasteczka nieodwiedzonych witryn są obecnie blokowane.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes=Ustawienia przechowywania ciasteczek i danych stron uniemożliwiają zmiany w ustawieniach ciasteczek zewnętrznych witryn.
 content-blocking-change-cookie-settings=
-  .label=Zmień ustawienia dotyczące ciasteczek i danych stron
+  .label=Ustawienia dotyczące ciasteczek i danych stron
   .accesskey=Z
 content-blocking-reject-trackers-block-trackers-option-recommended=
   .label=Elementy śledzące (zalecane)
