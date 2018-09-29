@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Оны қазір көру
+onboarding-welcome-header = { -brand-short-name } өніміне қош келдіңіз
 onboarding-start-browsing-button-label = Шолуды бастау
 
 ## These strings belong to the individual onboarding messages.

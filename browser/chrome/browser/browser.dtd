@@ -972,6 +972,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Мәселені хабарлау">
 <!ENTITY contentBlocking.breakageReportView.label "Мәселелерді хабарлау">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Көбірек білу">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
