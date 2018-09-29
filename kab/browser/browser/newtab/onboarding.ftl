@@ -17,3 +17,8 @@ onboarding-start-browsing-button-label = Bdu tunigin
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Tunigin tusligt
+onboarding-private-browsing-text = Inig s yiman-ik. Tunigin s usewḥel n ugbur ad tsewḥel inedfaṛen iqnen i k-yeṭṭafaren di web.
+onboarding-screenshots-title = Tuṭṭfa n wegdil
+onboarding-screenshots-text = Ṭṭef, sekles u bḍu tuṭṭfiwin - war tufɣa seg { -brand-short-name }. Ṭṭef tamnaḍt neɣ akk asebter ticki tettinigeḍ. Sakin sekles ɣer web i unekcum d beṭṭu fessusen.
+onboarding-addons-title = Izegrar
+onboarding-ghostery-title = Ghostery
