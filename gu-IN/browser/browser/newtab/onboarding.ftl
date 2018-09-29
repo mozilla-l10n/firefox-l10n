@@ -16,5 +16,7 @@ onboarding-start-browsing-button-label = બ્રાઉઝિંગ શરુ �
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = ખાનગી બ્રાઉઝિંગ
+onboarding-private-browsing-text = તમારી જાતે બ્રાઉઝ કરો. સામગ્રી અવરોધિત સાથે કરેલું ખાનગી બ્રાઉઝિંગ એ ઓનલાઇન ટ્રેકર્સ કે જે તમને વેબ પર અનુસરે છે તેમને અવરોધે છે.
 onboarding-screenshots-title = સ્ક્રીનશોટ્સ
 onboarding-addons-title = ઍડ-ઑન્સ
+onboarding-ghostery-title = Ghostery
