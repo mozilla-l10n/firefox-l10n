@@ -45,3 +45,8 @@
 <!ENTITY  autologinproxy.tooltip        "Dette alternativet stadfestar deg, i det stille, til proxiar når du har lagra innloggingsdetaljar for dei. Du vil få spørsmål om godkjenninga er mislykka.">
 <!ENTITY  socksRemoteDNS.label          "Proxy-DNS når du brukar SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
+<!ENTITY  dnsOverHttps.label            "Aktiver DNS-over-HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "o">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL for å slå opp DNS-over-HTTPS">

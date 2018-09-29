@@ -13,6 +13,6 @@
 <!ENTITY useSmallIcons.label      "Bruk små ikon">
 <!ENTITY restoreDefaultSet.label  "Bygg oppatt standardinnstilling">
 <!ENTITY addNewToolbar.label      "Legg til ei ny verktøylinje">
-<!ENTITY showTitltbar.label       "Vis tittellinje">
+<!ENTITY showTitlebar.label       "Vis tittellinje">
 <!ENTITY saveChanges.label        "Ferdig">
 <!ENTITY undoChanges.label        "Angre endringar">
