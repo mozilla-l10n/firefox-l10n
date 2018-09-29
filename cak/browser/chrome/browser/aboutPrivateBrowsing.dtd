@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " awichin:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "taq qasanïk">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "yaketal">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "xwachib'ëx tz'ib'anïk">
 <!ENTITY aboutPrivateBrowsing.note.before                "Ichinan okem pa k'amaya'l ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "man nub'än ta chawe chi man etaman ta awäch">
 <!ENTITY aboutPrivateBrowsing.note.after                 " pa k'amaya'l. Ri ya'öl ak'amaya'l o ri asamajinel, k'a nitikïr na nutzu' ri taq ruxaq k'amaya'l ri ye'atzu'.">
@@ -32,3 +33,4 @@
 <!ENTITY trackingProtection.startTour1                   "Tatz'eta' rub'eyal nisamäj">
 
 <!ENTITY contentBlocking.title                           "Ruq'atik Rupam">
+<!ENTITY contentBlocking.description                     "Jujun ajk'amaya'l ruxaq yekokisaj ojqanela' ri yetikïr nikinik'oj asamaj pan K'amaya'l. Pa ri ichinan rutzuwäch Firefox ri Ruyonil Niq'at Rupam yeruq'ät k'ïy ojqanela', ri yetikïr nikimöl etamab'äl chi rij ri awokem pa k'amaya'l.">

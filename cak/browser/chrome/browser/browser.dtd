@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Tatz'ib'aj ab'i' pa re ruxaq re'">
 <!ENTITY subscribeToPageMenuitem.label "Tatz'ib'aj ab'i' pa re ruxaq re'…">
+
 <!ENTITY addCurPagesCmd.label "Ketz'aqatisäx taq ruwi' pa taq yaketal…">
 <!ENTITY showAllBookmarks2.label "Kek'ut konojel ri taq yaketal">
 <!ENTITY recentBookmarks.label "K'a nimakol tiya' ketal">
@@ -446,6 +447,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "R">
 <!ENTITY customizeMenu.manageExtension.label "Tinuk'samajïx K'amal">
 <!ENTITY customizeMenu.manageExtension.accesskey "K">
+
+<!ENTITY customizeMenu.removeExtension.label "Tiyuj K'amal">
+<!ENTITY customizeMenu.removeExtension.accesskey "y">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -946,6 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Nitz'aqatisäx Q'atoj…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Ronojel Ojqanela' Xetz'et">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1095,6 +1100,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Tichup ri K'amal">
 <!ENTITY homepageControlled.disableButton.accesskey "T">
 
+<!ENTITY tabHideControlled.header.message "Katok pa ri Ewan taq Ruwi'">
 <!ENTITY tabHideControlled.keepButton.label "Ke’ewäx ri Ewan taq Ruwi’">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
 <!ENTITY tabHideControlled.disableButton.label "Tichup ri K'amal">
@@ -1108,6 +1114,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Tinuk'samajïx K'amal…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Titaq Ruwi' pan Okisaxel">
+
 <!ENTITY sendToDevice.syncNotReady.label "Tajin yexim ri taq Okisaxel…">
 
 <!ENTITY pageAction.shareUrl.label "Tikomonïx">
