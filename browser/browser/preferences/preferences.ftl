@@ -758,14 +758,14 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookies und Websitedaten
+sitedata-header = Cookies und Website-Daten
 
-sitedata-total-size-calculating = Größe von Websitedaten und Cache wird berechnet…
+sitedata-total-size-calculating = Größe von Website-Daten und Cache wird berechnet…
 
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Die gespeicherten Cookies, Websitedaten und der Cache belegen derzeit { $value } { $unit } Speicherplatz.
+sitedata-total-size = Die gespeicherten Cookies, Website-Daten und der Cache belegen derzeit { $value } { $unit } Speicherplatz.
 
 sitedata-learn-more = Weitere Informationen
 
@@ -834,7 +834,7 @@ sitedata-cookies-exceptions =
 # This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Ihre Einstellungen für das Blockieren von Seitenelementen verhindern Änderungen an den Einstellungen für Cookies und Websitedaten.
+sitedata-warning-your-settings-prevent-changes = Ihre Einstellungen für das Blockieren von Seitenelementen verhindern Änderungen an den Einstellungen für Cookies und Website-Daten.
 
 ## Privacy Section - Address Bar
 
@@ -904,7 +904,7 @@ content-blocking-reject-trackers-description = Alle Cookies von Drittanbietern o
 # of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
 # or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
 # the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Die Einstellungen in "Cookies und Websitedaten" verhindern Änderungen an den Einstellungen für Cookies von Drittanbietern.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Die Einstellungen in "Cookies und Website-Daten" verhindern Änderungen an den Einstellungen für Cookies von Drittanbietern.
 content-blocking-change-cookie-settings =
   .label = Cookie-Einstellungen ändern
   .accesskey = C

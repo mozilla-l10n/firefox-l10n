@@ -71,9 +71,9 @@ permissions-exceptions-tracking-protection-desc = Sie haben den Schutz vor Aktiv
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = Ausnahmen - Cookies und Websitedaten
+    .title = Ausnahmen - Cookies und Website-Daten
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Sie können festlegen, welchen Websites Sie immer oder niemals erlauben möchten, Cookies und Websitedaten zu verwenden. Geben Sie bitte die exakte Adresse der Website ein, die Sie verwalten möchten, und klicken Sie dann Blockieren, für diese Sitzung erlauben oder Erlauben.
+permissions-exceptions-cookie-desc = Sie können festlegen, welchen Websites Sie immer oder niemals erlauben möchten, Cookies und Website-Daten zu verwenden. Geben Sie bitte die exakte Adresse der Website ein, die Sie verwalten möchten, und klicken Sie dann Blockieren, für diese Sitzung erlauben oder Erlauben.
 
 ## Exceptions - Pop-ups
 
