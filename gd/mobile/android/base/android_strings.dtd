@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Air adhart">
 
 <!ENTITY firstrun_tabqueue_title "Ceanglaichean">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Cuir ciutha nan taba air">
-<!ENTITY firstrun_tabqueue_subtext_off "Sàbhail ceanglaichean ann am &brandShortName; nuair a nì thu gnogag orra ann an aplacaidean eile.">
-
-<!ENTITY firstrun_tabqueue_message_on "Soirbheas!">
-<!ENTITY firstrun_tabqueue_subtext_on "’S urrainn dhut seo a chur dheth sna &settings; for &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Artaigealan">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "Ath-thòisich &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Lorg no cuir seòladh ann">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Aisig tabaichean, caomhnaiche dàta, innealan an luchd-leasachaidh">
 <!ENTITY pref_category_notifications "Brathan">
-<!ENTITY pref_category_notifications_summary "Gleusan ùra, ùrachaidhean làraichean-lìn">
 <!ENTITY pref_category_notifications_summary2 "Gleusan ùra, gliocasan mu bhathar">
 <!ENTITY pref_developer_remotedebugging_usb "Dì-bhugachadh cèin slighe USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Dì-bhugachadh cèin slighe WiFi">
@@ -372,6 +364,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Ceadaich fèin-chluich">
 <!ENTITY pref_media_autoplay_enabled_summary "Cum smachd air dè na làraichean aig a bheil videothan is meadhanan eile a chluich gu fèin-obrachail">
+<!ENTITY pref_media_autoplay_allow "Ceadaich fèin-chluich">
+<!ENTITY pref_media_autoplay_block "Bac fèin-chluich">
 <!ENTITY pref_zoom_force_enabled "Cuir an sùmadh an comas an-còmhnaidh">
 <!ENTITY pref_zoom_force_enabled_summary "Tar-àithn e airson ’s gun urrainn dhut duilleag sam bith a shùmadh">
 <!ENTITY pref_voice_input "Ion-chur gutha">
@@ -447,6 +441,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Aithrisiche nan tuislidhean">
 <!ENTITY datareporting_wifi_title2 "Seirbheisean lorgadh &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Cuidich &vendorShortName; a’ mapadh an t-saoghail! Nochd ionad mu thuaiream a’ WiFi ’s an fhòn-làimhe agad ach an urrainn dhuinn an t-seirbheis geò-lorgadh againn a leasachadh.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "Tha seirbheis lorgadh &vendorShortName; a’ ruith">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -888,3 +887,20 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Cuir ris an sgrìn mhòr">
 <!ENTITY pwa_continue_to_website "Lean air adhart gun làrach-lìn">
 <!ENTITY pwa_onboarding_sumo "Tha e furasta an duilleag seo a chur ris an duilleag-dhachaidh agad airson greim fhaighinn air gu luath.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Cluich">
+<!ENTITY pip_play_button_description "Lean air a’ chluich">
+<!ENTITY pip_pause_button_title "Cuir ’na stad">
+<!ENTITY pip_pause_button_description "Cuir ’na stad">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "Seirbheisean lorgadh &vendorShortName;">
+<!ENTITY download_notification_channel "Luchdaidhean a-nuas">
+<!ENTITY media_notification_channel "Cluich mheadhanan">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "Brathan push &brandShortName;">
+<!ENTITY updater_notification_channel "Ùrachadh aplacaidean">
+<!ENTITY synced_tabs_notification_channel "Tabaichean sioncronaichte">
