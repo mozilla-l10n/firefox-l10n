@@ -17,6 +17,8 @@ onboarding-start-browsing-button-label = Start nettlesing
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Privat nettlesing
+onboarding-private-browsing-text = Surf sjølv. Privat nettlesing med innhaldsblokkering blokkerer online-sporfølgjarar som følgjer etter deg på nettet.
+onboarding-screenshots-title = Skjermbilde
 onboarding-addons-title = Tillegg
 onboarding-addons-text = Legg til endå fleire funksjonar som gjer at { -brand-short-name } fungerar betre for deg. Samanlikn prisar, sjekk vêret eller uttrykk personlegdomen din med eit tilpassa tema.
 onboarding-ghostery-title = Ghostery
