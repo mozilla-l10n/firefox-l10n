@@ -17,7 +17,9 @@ onboarding-start-browsing-button-label = Přehladowanje startować
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Priwatny modus
+onboarding-private-browsing-text = Přehladujće za so. Priwatny modus z blokowanjom wobsaha blokuje přesćěhowaki online, kotrež wam přez web slěduja.
 onboarding-screenshots-title = Fota wobrazowki
 onboarding-screenshots-text = Čińće, składujće a dźělće fota wobrazowki - bjez toho, zo byšće { -brand-short-name } wopušćił. Fotografujće wobłuk abo cyłu stronu mjeztym zo přehladujeće. Składujće potom we webje za lochki přistup a dźělenje.
 onboarding-addons-title = Přidatki
+onboarding-addons-text = Přidajće dalše funkcije, zo by { -brand-short-name } ćešo za was dźěłał. Přirunajće płaćizny, wobhońće so za wjedrom abo zwurazńće swoju wosobinu ze swójskej drastu.
 onboarding-ghostery-title = Ghostery
