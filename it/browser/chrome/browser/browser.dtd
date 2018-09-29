@@ -12,6 +12,8 @@
 <!ENTITY reloadTab.accesskey "R">
 <!ENTITY reloadAllTabs.label "Ricarica tutte le schede">
 <!ENTITY reloadAllTabs.accesskey "i">
+<!ENTITY selectAllTabs.label "Seleziona tutte le schede">
+<!ENTITY selectAllTabs.accesskey "u">
 <!ENTITY duplicateTab.label "Duplica scheda">
 <!ENTITY duplicateTab.accesskey "u">
 <!ENTITY closeTabsToTheEnd.label "Chiudi le schede a destra">
@@ -76,6 +78,8 @@
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "R">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tutte le schede nei segnalibri…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Seleziona tutte le schede">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "u">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Riapri scheda chiusa">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "a">
 <!ENTITY pageSourceCmd.label "Sorgente pagina">
