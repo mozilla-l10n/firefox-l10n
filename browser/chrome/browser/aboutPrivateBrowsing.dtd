@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " ваши:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "загрузки">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "закладки">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "скопированный текст">
 <!ENTITY aboutPrivateBrowsing.note.before                "Приватный просмотр ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "не обеспечивает вам анонимность">
 <!ENTITY aboutPrivateBrowsing.note.after                 " в Интернете. Ваш работодатель или интернет-провайдер всё ещё могут знать, какую страницу вы посещаете.">
@@ -32,3 +33,4 @@
 <!ENTITY trackingProtection.startTour1                   "Посмотреть, как это работает">
 
 <!ENTITY contentBlocking.title                           "Блокировка содержимого">
+<!ENTITY contentBlocking.description                     "Некоторые веб-сайты используют трекеры, которые могут следить за вашими действиями в Интернете. В приватных окнах, Блокировка содержимого Firefox автоматически блокирует множество трекеров, которые могут собирать информацию о вашем поведении в Интернете.">
