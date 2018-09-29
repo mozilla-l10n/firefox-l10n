@@ -5,6 +5,7 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-try-now = અત્યારે પ્રયત્ન કરો
 onboarding-welcome-header = { -brand-short-name } માં તમારું સ્વાગત છે
 onboarding-start-browsing-button-label = બ્રાઉઝિંગ શરુ કરો
 
@@ -20,3 +21,4 @@ onboarding-private-browsing-text = તમારી જાતે બ્રાઉ�
 onboarding-screenshots-title = સ્ક્રીનશોટ્સ
 onboarding-addons-title = ઍડ-ઑન્સ
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Ghostery જેવાં વિસ્તરણ સાથે ઝડપી, વધું બુધ્ધિપૂર્વકનું, અથવા સલામતીભર્યુ બ્રાઉઝ કરો, જે તમને અણગમતી જાહેરાતોને અવરોધવાં દેશે.
