@@ -16,6 +16,12 @@ policy-BlockAboutConfig = Blokker tilgang til about:config-sida.
 policy-BlockAboutProfiles = Blokker tilgang til about:profiles-sida.
 policy-BlockAboutSupport = Blokker tilgang til about:support-sida.
 policy-DisableAppUpdate = Hindre oppdatering av nettlesaren.
+policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, det innebygde PDF-visingsprogrammet i { -brand-short-name }
+policy-DisableDeveloperTools = Blokker tilgang til utviklarverktøya.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Deaktiver funksjonen Firefox Screenshots
+policy-DisableFirefoxStudies = Hindre { -brand-short-name } frå å køyre undersøkingar.
+policy-DisableForgetButton = Hindre tilgang til knappen Gløym.
 policy-DisablePrivateBrowsing = Slå av Privat nettlesing.
 policy-DisableTelemetry = Slå av av telemetri.
 policy-Proxy = Konfigurer proxy-innstillingar.
