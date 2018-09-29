@@ -3,5 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 choose-messenger-language-description = Velg språkene som brukes til å vise menyer, meldinger og varsler fra { -brand-short-name }.
+manage-messenger-languages-button =
+    .label = Angi alternativ…
+    .accesskey = l
 confirm-messenger-language-change-description = Start om { -brand-short-name } for å bruke disse endringene
 confirm-messenger-language-change-button = Bruk og start om

@@ -49,3 +49,4 @@
 <!ENTITY  dnsOverHttps.accesskey        "o">
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL for å slå opp DNS-over-HTTPS">
