@@ -23,3 +23,4 @@ onboarding-screenshots-text = Ṭṭef, sekles u bḍu tuṭṭfiwin - war tufɣ
 onboarding-addons-title = Izegrar
 onboarding-addons-text = Rnu ugar n tmahilin iwakken { -brand-short-name } ad yeqdec akken i wen-iwata. Snemhel atigen, wali addad n tegnawt neɣ sken-d taweggiṭ-ik s usentel udmawan.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Inig s wudem arurad, uḥric, neɣ aɣelsan s isiɣzaf am Ghostery, ara k-yeǧǧen ad tesweḥleḍ adellel ur nemɛin ara.
