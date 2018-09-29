@@ -60,3 +60,11 @@ policy-OfferToSaveLogins = Tab'ana' ri runuk'ulem richin niya' q'ij chi ri { -br
 policy-OverrideFirstRunPage = Tiyuj ri nab'ey ruxaq rub'anikil. Tiya' pa säq re na'ojil re' we nawajo' nachüp ri nab'ey ruxaq rub'anik.
 policy-OverridePostUpdatePage = Nayüj ri ruxaq "K'ak'a' taq tzijol" chi rij ri k'exoj. Tiya' pa säq re na'ojil re' we nawajo' nachüp re ruxaq chi rij ri k'exoj.
 policy-Permissions = Tib'an kinuk'ulem ya'oj taq q'ij kichin elesäy wachib'äl, q'asäy ch'ab'äl, k'ojlib'äl chuqa' taq rutzijol.
+policy-PopupBlocking = Tiya' q'ij chi jujun taq ajk'amaya'l ruxaq kekik'utu' elenel taq tzuwäch achi'el e k'o wi.
+policy-Proxy = Tib'an runuk'ulem ri proxi.
+policy-SanitizeOnShutdown = Keyuj ronojel ri taq rutzij okem pa k'amaya'l toq nichup.
+policy-SearchBar = Tib'an runuk'ulem ri k'ojlib'äl k'o wi pa ri rukajtz'ik kanob'äl. Ri okisanel k'a nitikïr nrichinaj.
+policy-SearchEngines = Tib'an runuk'ulem ri kanob'äl. Re na'ojil re' xa xe okel pa ri ruwäch Extended Support Release (ESR).
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Tiq'at ri tz'etoj rik'in ajk'amaya'l ruxaq. Tatz'eta' ri ruwujil richin nawetamaj ch'aqa' chik rutzijoxik rub'anikil.

@@ -6,6 +6,8 @@ do-not-track-description = Ketaq ri taq ruxaq ajk'amaya'l jun “Mani Tojqäx”
 do-not-track-learn-more = Tetamäx ch'aqa' chik
 do-not-track-option-default =
     .label = Xa xe toq nokisäx Chajinïk chuwäch Ojqanïk
+do-not-track-option-default-content-blocking =
+    .label = Xa xe toq { -brand-short-name } nuk'un richin yeruq'ät ri OJaqnela' Yetz'et
 do-not-track-option-always =
     .label = Junelïk
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = Jun k'amal, <img data-l10n-name="icon"
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Jun k'amal, <img data-l10n-name="icon"/> { $name }, tajin nuchajij ri chajinïk chuwäch ojqanem.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Jun k'amal, <img data-l10n-name="icon"/> { $name }, nuchajij re runuk'ulem re'.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Jun k'amal, <img data-l10n-name="icon"/> { $name }, nuchajij rub'eyal { -brand-short-name } nok pa k'amaya'l.
@@ -203,6 +208,9 @@ choose-button =
     .label = Ticha'…
     .accesskey = c
 choose-browser-language-description = Kecha' ri taq ch'ab'äl e'okisan richin yek'ut taq molsamajib'äl, taq rutzijol taqoj, taq rutzijol { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Keya' taq Cha'oj
+    .accesskey = h
 confirm-browser-language-change-description = Titikirisäx chik { -brand-short-name } richin ye'okisäx ri taq k'exoj
 confirm-browser-language-change-button = Tisamajïx chuqa' Titikirisäx chik
 translate-web-pages =
@@ -619,6 +627,10 @@ sitedata-block-trackers-option =
     .label = Aj rox winäq taq ojqanela'
 sitedata-block-unvisited-option =
     .label = Kikaxlanwey ajk'amaya'l taq ruxaq man etz'eton ta
+sitedata-block-all-third-party-option =
+    .label = Ronojel ri taq kikaxlanwäy aj rox winäq (yetikïr nikitikirisaj sachoj pan ajk'amaya'l taq ruxaq)
+sitedata-block-all-option =
+    .label = Ronojel taq kaxlanwäy ( xtikiya' sachoj pan ajk'amaya'l taq ruxaq)
 sitedata-clear =
     .label = Tijosq'ïx Tzij…
     .accesskey = j
