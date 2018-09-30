@@ -8,7 +8,11 @@
 <!ENTITY loadError.label "Problem në ngarkimin e faqes">
 <!ENTITY retry.label "Riprovoni">
 <!ENTITY returnToPreviousPage.label "Kthehuni Mbrapsht">
+<!ENTITY returnToPreviousPage1.label "Shko Mbrapsht (E këshilluar)">
 <!ENTITY advanced.label "Të mëtejshme">
+
+<!ENTITY continue2.label "Më tepër…">
+<!ENTITY moreInformation.label "Më Tepër të Dhëna">
 
 <!-- Specific error messages -->
 
@@ -136,10 +140,18 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "Lidhja juaj s&apos;është e sigurt">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!ENTITY certerror.longpagetitle2 "Kujdes: Rrezik Potencial Sigurie Përpara">
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "I zoti i <span class='hostname'/> e ka formësuar sajtin e vet jo siç duhet.  Që të mbrohen të dhënat tuaja nga vjedhja, &brandShortName;-i nuk u lidh me këtë sajt.">
+
+
+
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Ç’mund të bëni për të?">
+
+
+
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -158,6 +170,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Shtoni Përjashtim…">
+
 
 <!ENTITY errorReporting.automatic2 "Raportoni gabime si ky, që të ndihmoni Mozilla-n të identifikojë dhe bllokojë sajte dashakeqë">
 <!ENTITY errorReporting.learnMore "Mësoni më tepër…">
@@ -189,6 +202,7 @@ dëshmi.">
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> përdor teknologji sigurie që është e vjetruar dhe e cenueshme përballë sulmesh. Dikush që sulmon do të mund të zbulonte lehtë të dhëna të cilat i mendonit të parrezikuara. Para se të mund të vizitoni këtë sajt, lypset që përgjegjësi i sajtit të ndreqë shërbyesin.</p><p>Kod gabimi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Faqe e Bllokuar">
+
 
 <!ENTITY prefReset.longDesc "Duket se kjo shkaktohet nga rregullimet tuaja për sigurinë e rrjetit. Doni të rikthehen rregullimet parazgjedhje?">
 <!ENTITY prefReset.label "Rikthe rregullimet parazgjedhje">
