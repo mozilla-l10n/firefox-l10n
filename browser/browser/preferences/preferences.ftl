@@ -6,6 +6,8 @@ do-not-track-description = Dërgojuni sajteve një sinjal “Mos Më Gjurmo” s
 do-not-track-learn-more = Mësoni më tepër
 do-not-track-option-default =
     .label = Vetëm kur përdoret Mbrojtje Nga Gjurmimet
+do-not-track-option-default-content-blocking =
+    .label = Vetëm kur { -brand-short-name }-i është rregulluar të bllokojë Gjurmues të Pikasur
 do-not-track-option-always =
     .label = Përherë
 pref-page =
@@ -83,16 +85,19 @@ extension-controlled-homepage-override = Faqen tuaj hyrëse e kontrollon një zg
 extension-controlled-new-tab-url = Faqen tuaj Skedë e Re e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
-extension-controlled-default-search = Një zgjerim, <img data-l10n-name="icon"/> { $name }, ka caktuar motorin tuaj parazgjedhje për kërkime.
+extension-controlled-default-search = Motorin tuaj parazgjedhje për kërkime e ka caktuar një zgjerim, <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Një zgjerim, <img data-l10n-name="icon"/> { $name }, lyp Skeda Kontejneri.
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = Një zgjerim, <img data-l10n-name="icon"/> { $name }, po kontrollon mbrojtjen nga gjurmimet.
+extension-controlled-websites-tracking-protection-mode = Mbrojtjen nga gjurmimet e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Këtë rregullim e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = Një zgjerim, <img data-l10n-name="icon"/> { $name }, kontrollon se si lidhet në internet { -brand-short-name }-i.
+extension-controlled-proxy-config = Se si lidhet në internet { -brand-short-name }-i, e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -202,9 +207,11 @@ choose-language-description = Zgjidhni gjuhën tuaj të parapëlqyer për shfaqj
 choose-button =
     .label = Zgjidhni…
     .accesskey = z
+choose-browser-language-description = Zgjidhni gjuhët e përdorura për shfaqje menush, mesazhesh, dhe njoftimesh nga { -brand-short-name }.
 manage-browser-languages-button =
     .label = Caktoni Alternativa…
     .accesskey = C
+confirm-browser-language-change-description = Që të hyjnë në fuqi këto ndryshime, rinisni { -brand-short-name }-in
 confirm-browser-language-change-button = Zbatoje dhe Rinise
 translate-web-pages =
     .label = Përktheni lëndë web
@@ -604,12 +611,26 @@ sitedata-accept-third-party-visited-option =
     .label = Nga të vizituarit
 sitedata-accept-third-party-never-option =
     .label = Kurrë
+sitedata-allow-cookies-option =
+    .label = Prano të dhëna cookie-sh dhe sajti
+    .accesskey = P
+sitedata-disallow-cookies-option =
+    .label = Blloko cookie-t dhe të dhëna sajti
+    .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Lloj i bllokuar
     .accesskey = L
+sitedata-block-trackers-option-recommended =
+    .label = Gjurmues palë të treta (e këshilluar)
 sitedata-block-trackers-option =
     .label = Gjurmues palë e tretë
+sitedata-block-unvisited-option =
+    .label = Cookies nga sajte të pavizituar
+sitedata-block-all-third-party-option =
+    .label = Krejt cookie-t nga palë të treta (mund të shkaktojë mosfunksionim të disa sajteve)
+sitedata-block-all-option =
+    .label = Krejt cookie-t (do të shkaktojë mosfunksionim sajtesh)
 sitedata-clear =
     .label = Pastroni të Dhëna…
     .accesskey = P
@@ -619,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Përjashtime…
     .accesskey = P
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Rregullimet tuaja te Bllokim Lënde i pengojnë ndryshimet te rregullimet mbi Cookies dhe të Dhëna Sajti.
 
 ## Privacy Section - Address Bar
 
@@ -637,6 +662,8 @@ addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi këshillime motor�
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Bllokim Lënde
+content-blocking-desc = Bllokoni lëndë palësh të treta, të tillë si reklama ose kod, që mund të ngadalësojnë shfletimin tuaj dhe t’ju gjurmojnë nëpër internet. Përshtatini rregullimet tuaj për baraspeshimin më të mirë mes mbrojtjes dhe funksionimit.
 content-blocking-learn-more = Mësoni më tepër
 content-blocking-restore-defaults =
     .label = Rikthe Parazgjedhjet
