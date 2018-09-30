@@ -38,12 +38,20 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Mbylli Skedat e Përzgjedhura">
 <!ENTITY  closeSelectedTabs.accesskey        "M">
 
+<!ENTITY  pinSelectedTabs.label              "Fiksoji Skedat">
 <!-- Pin Tab and Pin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  pinSelectedTabs.accesskey          "F">
+<!ENTITY  unpinSelectedTabs.label            "Shfiksoji Skedat">
 <!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  unpinSelectedTabs.accesskey        "S">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadSelectedTabs.label           "Ringarko Skedat e Përzgjedhura">
+<!ENTITY  reloadSelectedTabs.accesskey       "g">
+<!ENTITY  bookmarkSelectedTabs.label         "Faqeruani Skeda…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "q">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -62,6 +70,8 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "P">
 <!ENTITY  moveToNewWindow.label              "Kaloje në Dritare të Re">
 <!ENTITY  moveToNewWindow.accesskey          "D">
+<!ENTITY  reopenInContainer.label            "Rihape në Kontejner">
+<!ENTITY  reopenInContainer.accesskey        "h">
 <!ENTITY  bookmarkAllTabs.label              "Faqeruani Krejt Skedat…">
 <!ENTITY  bookmarkAllTabs.accesskey          "S">
 <!ENTITY  undoCloseTab.label                 "Zhbëje Mbylljen e Skedës">
@@ -218,6 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Hapni panelin e mesazheve">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Hapni panel kërkesash vendndodhjesh">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Hap panel vetëluajtje">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Hapni kuadratin e mesazhit të instalimit të shtesës">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Administroni leje përftimesh nga kanavaca">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Hapni panelin për depozitim jashtë linje">
@@ -245,6 +256,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ia keni bllokuar këtij sajti njoftimet.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "E keni bllokuar depozitimin e qëndrueshëm për këtë sajt.">
 <!ENTITY urlbar.popupBlocked.tooltip             "I keni bllokuar flluskat për këtë sajt.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "E keni bllokuar vetëluajtje mediash me tinguj tuaj për këtë sajt.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Për këtë sajt e keni bllokuar përftimin e të dhënave të kanavacës.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ia keni bllokuar këtij sajti përdorimin e shtojcës Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "E keni bllokuar hyrjen MIDI për këtë sajt.">
@@ -756,6 +768,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "U bë">
 
 
@@ -805,6 +818,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Leje">
 <!ENTITY identity.permissionsEmpty "S&apos;i keni dhënë këtij sajti ndonjë leje speciale.">
 <!ENTITY identity.permissionsReloadHint "Mund t&apos;ju duhet të ringarkoni faqen që të hyjnë në fuqi ndryshimet.">
+<!ENTITY identity.permissionsPreferences.tooltip "Hap Parapëlqime Lejesh">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -946,6 +960,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Shtoni Bllokim…">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Raportoni një problem">
 <!ENTITY contentBlocking.breakageReportView.label "Raportoni Probleme">
@@ -956,14 +971,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Anuloje">
 
 <!ENTITY trackingProtection.title "Mbrojtje Nga Gjurmimet">
+<!ENTITY trackingProtection.tooltip "Hap Parapëlqime mbi Mbrojtjen Nga Gjurmimet">
+<!ENTITY trackingProtection.notDetected5 "S’&apos;u pikasën elemente gjurmimi në këtë faqe.">
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Çaktivizoje Për Këtë Sajt">
+<!ENTITY trackingProtection.unblock3.accesskey "Ç">
+<!ENTITY trackingProtection.unblock4.label "Çaktivizoje Bllokimin Për Këtë Sajt">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Çaktivizoje Për Këtë Sesion">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "Ç">
+<!ENTITY trackingProtection.block4.label "Aktivizoje Për Këtë Sajt">
+<!ENTITY trackingProtection.block4.accesskey "A">
+<!ENTITY trackingProtection.unblockPrivate4.label "Çaktivizoje Përkohësisht Bllokimin">
+<!ENTITY trackingProtection.block5.label "Aktivizoje Bllokimin Për Këtë Sajt">
+<!ENTITY trackingProtection.block5.accesskey "A">
+<!ENTITY trackingProtection.reload2.label "Ringarkoje Faqen">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Shfaqi Krejt">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -1068,6 +1097,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageAction.shareUrl.label "Ndajeni me të tjerët">
 
+<!ENTITY pageAction.shareMore.label "Më tepër…">
 
 <!ENTITY libraryButton.tooltip "Shihni historikun, faqerojtësit e ruajtur, etj">
 

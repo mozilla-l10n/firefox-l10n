@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "shkarkimet tuaja">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "faqerojtësit tuaj">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "u kopjua tekst">
 <!ENTITY aboutPrivateBrowsing.note.before                "Shfletimi Privat ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "nuk ju bën anonim">
 <!ENTITY aboutPrivateBrowsing.note.after                 " në Internet. Punëdhënësi juaj apo furnizuesi juaj i shërbimit internet mundet prapëseprapë të mësojë se cilat faqe vizitoni.">
@@ -30,3 +31,6 @@
 <!ENTITY trackingProtection.title                        "Mbrojtje Nga Gjurmimet">
 <!ENTITY trackingProtection.description2                 "Disa sajte përdorin gjurmues që mund të mbikëqyrin veprimtarinë tuaj nëpër Internet. Me Mbrojtjen Nga Gjurmimet, Firefox-i do të bllokojë mjaft nga gjurmuesit që mund të mbledhin informacione rreth mënyrës se si shfletoni.">
 <!ENTITY trackingProtection.startTour1                   "Shihni se si funksionon">
+
+<!ENTITY contentBlocking.title                           "Bllokim Lënde">
+<!ENTITY contentBlocking.description                     "Disa sajte përdorin gjurmues që mund të vëzhgojnë veprimtarinë tuaj nëpër Internet. Në dritare private, Bllokimi i Lëndës nga Firefox-i bllokon vetvetiu shumë gjurmues që mund të grumbullojnë të dhëna rreth mënyrës se si shfletoni.">
