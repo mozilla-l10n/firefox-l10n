@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Keyingi">
 
 <!ENTITY firstrun_tabqueue_title "Havolalar">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Ichki oynani navbatga qo‘yishni yoqish">
-<!ENTITY firstrun_tabqueue_subtext_off "&brandShortName; ichidagi havolalarni keyinroq boshqa ilovalarda ochish uchun saqlang.">
-
-<!ENTITY firstrun_tabqueue_message_on "Muvaffaqiyatli!">
-<!ENTITY firstrun_tabqueue_subtext_on "Siz doimo uni &pref_category_general; ostidagi &settings; orqali yoqishingiz mumkin.">
 
 <!ENTITY firstrun_readerview_title "Maqolalar">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,6 +63,14 @@
 <!ENTITY  crash_restart_label "&brandShortName;ni qayta ishga tushirish">
 
 <!ENTITY url_bar_default_text2 "Izlang yoki manzilni kiriting">
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "QR kodni o‘qigichdan qidiruv va manzilni kiritish uchun foydalaning">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "Qidiruv yoki manzilni kiritish uchun mikrofondan foydalaning">
 
 <!ENTITY bookmark "Xatcho‘p">
 <!ENTITY bookmark_remove "Xatcho‘pni olib tashlash">
@@ -206,7 +208,7 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Ichki oyna, plagin va dasturchi asboblarini tiklash">
 <!ENTITY pref_category_notifications "Eslatmalar">
-<!ENTITY pref_category_notifications_summary "Yangi xususiyatlar, sayt yangilanshlari">
+<!ENTITY pref_category_notifications_summary2 "Yangi funksiyalar, mahsulot bo‘yicha tavsiyalar">
 <!ENTITY pref_developer_remotedebugging_usb "USB orqali masofadan nozozlikni tuzatish">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi orqali masofadan nosozlikni tuzatish">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi orqali tuzatish uchun qurilmangizda QR kodini o‘qiydigan ilova dastur o‘rnatilgan bo‘lishi kerak.">
@@ -282,6 +284,13 @@
 <!ENTITY pref_whats_new_notification "&brandShortName;ning yangi xususiyatlari">
 <!ENTITY pref_whats_new_notification_summary "Yangilangandan so‘ng yangi xususiyatlar haqida ma’lumot olish">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "Mahsulot va funksiya tavsiyalari">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; va boshqa &vendorShortName; mahsulotlaridan fodalanish haqida batafsil ma’lumot">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Tajribaviy funksiyalar">
@@ -355,6 +364,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Avto ijro etishga ruxsat berish">
 <!ENTITY pref_media_autoplay_enabled_summary "Agar vebsaytlar videolar va boshqa media tarkiblarni avto ijro etilsa, boshqarilsin">
+<!ENTITY pref_media_autoplay_allow "Avtomatik boshlashga ruxsat berish">
+<!ENTITY pref_media_autoplay_block "Avtomatik boshlashni bloklash">
 <!ENTITY pref_zoom_force_enabled "Doimo kattalashtirish/kichiklashtirishni yoqish">
 <!ENTITY pref_zoom_force_enabled_summary "Majburiy almashtirilsa, siz har qanday sahifani kattalashtirib ko‘rishingiz mumkin">
 <!ENTITY pref_voice_input "Ovoz kiritish">
@@ -430,6 +441,11 @@
 <!ENTITY datareporting_crashreporter_title_short "Nosozlik ma’lumot bergichi">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; joylashuv xizmatlari">
 <!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName;ga dunyoni xaritaga joylashtirishda yordam bering! Bizning geojoylashuv xizmatimizni yaxshilash uchun yaqin-atrofingizdagi Wi-Fi va qurilmangiz uyali aloqasi manzilini bo‘lishing">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; joylashuv xizmati ishlamoqda">
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -536,7 +552,7 @@
 <!ENTITY pref_compact_tabs_summary2 "Ichki oynalarni \&quot;Bo‘yiga\&quot; rejimida ikki ustunga joylash">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Sahifa olib tashlandi">
 <!ENTITY folder_removed "Jild olib tashlandi">
@@ -751,7 +767,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "So‘nggi sinxronlash: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "So‘nggi marta sinxornlangan: hech qachon">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -871,3 +887,20 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Bosh ekranga qo‘shish">
 <!ENTITY pwa_continue_to_website "Sahifaga o‘tish">
 <!ENTITY pwa_onboarding_sumo "Bu saytni bosh ekranga osongina qo‘shish orqali unga darhol kirishingiz hamda asl ilova tezligida tezkor kezishingiz mumkin.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+<!ENTITY pip_play_button_title "Boshlash">
+<!ENTITY pip_play_button_description "Davom etish">
+<!ENTITY pip_pause_button_title "Pauza">
+<!ENTITY pip_pause_button_description "Pauzalash">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; joylashuv xizmati">
+<!ENTITY download_notification_channel "Yuklanmalar">
+<!ENTITY media_notification_channel "Meidani ishga tushirish">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; turtki bildirishnomalari">
+<!ENTITY updater_notification_channel "Ilova yangilanishlari">
+<!ENTITY synced_tabs_notification_channel "Sinxronlangan ichki oynalar">
