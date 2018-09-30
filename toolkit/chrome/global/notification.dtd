@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "¡Aceptar!">
 <!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "Más acciones">

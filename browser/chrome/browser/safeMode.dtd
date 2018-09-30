@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "El modo seguro es un modo especial de &brandShortName; que puede ser usado para resolver problemas.">
 <!ENTITY safeModeDescription4.label   "Tus complementos y opciones personalizadas serán desactivados temporalmente.">
 
+<!ENTITY safeModeDescription5.label   "Tus complementos y ajustes personalizados se deshabilitarán temporalmente, y las funciones de &brandShortName; podrían no funcionar como lo hacen actualmente.">
+
 <!ENTITY refreshProfileInstead.label  "También puedes saltarse el buscar el error intentando refrescar &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
