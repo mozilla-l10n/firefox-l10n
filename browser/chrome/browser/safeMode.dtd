@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "Nouzový režim je speciální režim aplikace &brandShortName;, který se používá při řešení potíží.">
 <!ENTITY safeModeDescription4.label   "Vaše doplňky a uživatelská nastavení budou dočasně zakázány.">
 
+<!ENTITY safeModeDescription5.label   "Vaše doplňky a vlastní nastavení budou dočasně zakázány a některé funkce aplikace &brandShortName; nemusí fungovat jako nyní.">
+
 <!ENTITY refreshProfileInstead.label  "Můžete také obnovit nastavení aplikace &brandShortName; a začít znova.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
