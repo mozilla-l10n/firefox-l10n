@@ -40,4 +40,7 @@ policy-DisableTelemetry = Desactivar Telemetry.
 policy-DisplayBookmarksToolbar = Mostrar de forma predeterminada la barra de herramientas de marcadores.
 policy-DisplayMenuBar = Mostrar de forma predeterminada la barra de menú.
 policy-DontCheckDefaultBrowser = Desactivar la comprobación de navegador predeterminado al iniciar.
+policy-Permissions = Configurar permisos para cámara, micrófono, ubicación y notificaciones.
 policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de forma predeterminada.
+policy-Proxy = Configurar los ajustes del proxy.
+policy-SanitizeOnShutdown = Limpiar todos los datos de navegación al cerrar.
