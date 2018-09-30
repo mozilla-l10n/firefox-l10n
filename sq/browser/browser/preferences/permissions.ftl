@@ -83,6 +83,17 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Mund të përcaktoni cilëve sajte u lejohet të instalojnë shtesa. Shtypni adresën e saktë të sajtit që doni të lejoni dhe mandej klikoni Lejoje
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Sajte të Lejuar - Vetëluajtje
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Mund të përcaktoni cilëve sajte u lejohet të luajnë vetvetiu elemente media. Shkruani adresën e përpiktë të sajtit që doni të lejohet dhe mandej klikoni mbi Lejoje.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Përjashtime - Vetëluajtje
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc2 = Mund të caktoni cilëve sajte u lejohet përherë ose asnjëherë të vetëluajnë media me tinguj. Shtypni adresën e sajtit që doni të trajtoni dhe mandej klikoni Bllokoje, ose Lejoje.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =

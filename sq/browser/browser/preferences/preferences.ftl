@@ -713,6 +713,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Gjurmues
     .accesskey = G
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Krejt cookie-t nga palë të treta (mund të sjellë mosfunksionim sajtesh)
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
@@ -762,6 +765,20 @@ permissions-notification-link = Mësoni më tepër
 permissions-notification-pause =
     .label = Ndali njoftimet derisa të riniset { -brand-short-name }-i
     .accesskey = N
+permissions-block-autoplay-media =
+    .label = Bllokoje luajtjen e vetvetishme nga sajtet të mediave me tinguj
+    .accesskey = B
+permissions-block-autoplay-media-menu = Për sajte që luajnë tinguj vetvetiu
+permissions-block-autoplay-media-exceptions =
+    .label = Përjashtime…
+    .accesskey = P
+autoplay-option-ask =
+    .label = Pyet Përherë
+autoplay-option-allow =
+    .label = Lejo Vetëluajtje
+autoplay-option-dont =
+    .label = Pa Vetëluajtje
+permissions-autoplay-link = Mësoni më tepër
 permissions-block-popups =
     .label = Blloko dritare flluska
     .accesskey = B
