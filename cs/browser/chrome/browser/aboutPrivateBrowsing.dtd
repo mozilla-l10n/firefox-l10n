@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " vaše:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "stahování">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "záložky">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "zkopírovaný text">
 <!ENTITY aboutPrivateBrowsing.note.before                "Ani s funkcí anonymního prohlížení ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ale nebudete na internetu zcela neviditelní.">
 <!ENTITY aboutPrivateBrowsing.note.after                 " Váš zaměstnavatel nebo poskytovatel připojení k internetu mohou stále zjistit, které stránky navštěvujete.">
