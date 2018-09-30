@@ -35,6 +35,7 @@ policy-DisablePrivateBrowsing = Sens tunigin tusligt.
 policy-DisableProfileImport = Kkes umuƔ n tludna akken ad tketreḍ isefka seg iminig nniḍen.
 policy-DisableProfileRefresh = Kkes taqeffalt n usmiren { -brand-short-name } deg usebter about:support.
 policy-DisableSafeMode = Sens tamhilt n usenker deg uskar aɣelsan. Awennit: Di Windows, anekcum Ɣer uskar aƔelsan s usiti Ɣef Shift izmer ad yettwasens kan s useqdec n tsertit n ugraw.
+policy-DisableSetDesktopBackground = Kkes taludna n ufran n tugna i ugilal n tnarit.
 policy-DisableSystemAddonUpdate = Sewḥel asbedded d uleqqem izegrar n unagraw  deg yiminig.
 policy-DisableTelemetry = Sens tilisɣelt.
 policy-DisplayBookmarksToolbar = Deg umezwer sken-d afeggag n ifecka n ticraḍ.
