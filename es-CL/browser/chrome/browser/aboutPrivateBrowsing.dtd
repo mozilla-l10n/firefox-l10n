@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " tus:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Marcadores">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "texto copiado">
 <!ENTITY aboutPrivateBrowsing.note.before                "La navegación privada ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "no te deja anónimo">
 <!ENTITY aboutPrivateBrowsing.note.after                 " en internet. Tu empleador o proveedor de servicios de internet todavía puede saber qué páginas visitas.">
@@ -31,3 +32,4 @@
 <!ENTITY trackingProtection.description2                 "Algunos sitios usan rastreadores que pueden monitorear tu actividad en internet. Con la protección de seguimiento, Firefox bloqueará muchos rastreadores que pueden recolectar información sobre tu comportamiento en la red.">
 <!ENTITY trackingProtection.startTour1                   "Ver cómo funciona">
 
+<!ENTITY contentBlocking.title                           "Bloqueo de contenido">

@@ -676,6 +676,25 @@ content-blocking-category-label = Elige qué bloquear
 content-blocking-tracking-protection-option-always =
     .label = Siempre
     .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Solo en ventanas privadas
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Cambiar lista de bloqueo
+content-blocking-third-party-cookies-label =
+    .label = Cookies de terceros
+    .accesskey = C
+content-blocking-reject-trackers-description = Bloquear todas las cookies de terceros o solo aquellas establecidas por los rastreadores.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Tus ajustes en cookies y datos de sitio están impidiendo cambios en los ajustes de las cookies de terceros.
+content-blocking-change-cookie-settings =
+    .label = Cambiar ajustes de cookies
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Rastreadores (recomendado)
+    .accesskey = k
 content-blocking-reject-trackers-block-trackers-option =
     .label = Rastreadores
     .accesskey = k
