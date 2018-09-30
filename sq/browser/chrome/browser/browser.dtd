@@ -938,6 +938,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Shtoni Bllokim…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Krejt Gjurmuesit e Pikasur">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
@@ -945,10 +946,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Bllokuar">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Shtoni Bllokim…">
 
 <!ENTITY contentBlocking.3rdPartyCookies.label "Cookies Palësh të Treta">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
@@ -956,6 +959,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Bllokuar">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -964,6 +968,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Raportoni një problem">
 <!ENTITY contentBlocking.breakageReportView.label "Raportoni Probleme">
+<!ENTITY contentBlocking.breakageReportView2.description "Bllokimi i lëndë mund të shkaktojë probleme me disa sajte. Kur raportoni probleme, ndihmoni për ta bërë &brandShortName;-in më të mirë për këdo. (Kështu do të dërgohet te Mozilla edhe një URL, përveç të dhënave mbi rregullimet tuaja të shfletuesit.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Mësoni Më Tepër">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ç’probleme patët? (Opsionale)">
@@ -972,8 +977,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Mbrojtje Nga Gjurmimet">
 <!ENTITY trackingProtection.tooltip "Hap Parapëlqime mbi Mbrojtjen Nga Gjurmimet">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName;-i po bllokon pjesë të këasj faqeje që mund të ndjekin shfletimin tuaj.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName;-i ka pikasur elementë që mund të gjurmojnë shfletimet tuaja.">
+<!ENTITY trackingProtection.detectedException "&brandShortName;-i ka pikasur elementë që mund të gjurmojnë shfletimet tuaja. E keni çaktivizuar mbrojtjen për këtë sajt.">
 <!ENTITY trackingProtection.notDetected5 "S’&apos;u pikasën elemente gjurmimi në këtë faqe.">
+<!ENTITY trackingProtection.notDetectedException "S’u pikasën elementë gjurmimi në këtë faqe. E keni çaktivizuar mbrojtjen për këtë sajt.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Keni aktivizuar Mbrojtje Nga Gjurmimet. Që të bllokoni krejt gjurmuesit, ringarkoni këtë faqe.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
