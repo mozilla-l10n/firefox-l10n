@@ -665,6 +665,8 @@ privacy-header = Browserprivacy
 ## Privacy Section - Forms
 
 forms-header = Formulieren & Wachtwoorden
+
+logins-header = Aanmeldingen & Wachtwoorden
 forms-ask-to-save-logins =
     .label = Vragen voor opslaan van aanmeldingen en wachtwoorden voor websites
     .accesskey = r
