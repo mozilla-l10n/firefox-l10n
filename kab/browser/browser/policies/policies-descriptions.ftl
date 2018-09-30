@@ -43,6 +43,11 @@ policy-DisplayMenuBar = Sken afeggag n wumuɣ s wudem amezwer.
 policy-DontCheckDefaultBrowser = Sens asenqed amezwer i yiminig deg tnekra.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Rmed neɣ sens asewḥel n ugbur u sekker-it ma tebɣiḍ.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Sebded, Kkes neƔ sewḥel isiƔzaf. Asebded yettawi URLs neƔ iberdan d iƔewwaren. Tukksa d usewḥel seqdacen isulayen n isiƔzaf.
 policy-FlashPlugin = Sireg neɣ gdel asemres n uzegrir Flash.
 policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
 # “lock” means that the user won’t be able to change this setting
@@ -53,3 +58,4 @@ policy-PopupBlocking = Sireg kra n ismal web ad skanayen Isfuyla udhimens wudem 
 policy-Proxy = Swel iɣewwaṛen n upṛuksi.
 policy-SanitizeOnShutdown = Sfeḍ akk isefka n tunigin deg usexsi.
 policy-SearchBar = Sbadu adig imezwer n ufeggag n unadi. Aseqdac izmer ad t-isagen.
+policy-SearchEngines = Swel iƔewwaren n umsedday n unadi. Tasertit-agi tella kan di lqem Extended Support Release (ESR).
