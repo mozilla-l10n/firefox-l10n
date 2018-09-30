@@ -157,7 +157,14 @@ was trying to connect. -->
 <p>Nëse gjendeni nën një rrjet korporate ose përdorni software anti-virus, mund të lidheni për ndihmë me ekipin e asistencës. Mundeni edhe të njoftoni përgjegjësin e sajtit për problemin.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Ora e kompjuterit tuaj është caktuar si <span id='wrongSystemTime_systemDate2'/>. Sigurohuni që te rregullimet e sistemit për kompjuterin tuaj data, koha dhe zona kohore të jenë caktuar saktë dhe mandej rifreskoni <span class='hostname'/>.</p>
+<p>Nëse ora juaj është caktuar saktë, ka gjasa që sajti të jetë formësuar keq, dhe s’bëni dot gjë për ta zgjidhur problemin. Mundeni të njoftoni përgjegjësin e sajtit mbi problemin.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Gjasat janë që problemi të jetë i sajtit, dhe s’bëni dot gjë për ta zgjidhur. Mundeni të njoftoni përgjegjësin e sajtit mbi problemin.</p>
+">
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -177,6 +184,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Shtoni Përjashtim…">
 
+<!ENTITY securityOverride.exceptionButton1Label "Pranoje Rrezikun dhe Vazhdo">
 
 <!ENTITY errorReporting.automatic2 "Raportoni gabime si ky, që të ndihmoni Mozilla-n të identifikojë dhe bllokojë sajte dashakeqë">
 <!ENTITY errorReporting.learnMore "Mësoni më tepër…">
@@ -196,10 +204,12 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; -i s’u lidh te <span id='wrongSystemTimeWithoutReference_URL'/>, ngaqë ora e kompjuterit duket se tregon kohë të gabuar dhe kjo pengon një lidhje të sigurt.</p> <p>Kompjuteri juaj është rregulluar për <span id='wrongSystemTimeWithoutReference_systemDate'/>. Që të ndreqet ky problem, ndryshoni rregullimet tuaja për datën dhe kohën, për t’i përputhur me kohën e saktë.</p>">
 
 <!ENTITY certerror.pagetitle1  "Lidhje e Pasigurt">
+<!ENTITY certerror.pagetitle2  "Kujdes: Rrezik Potencial Sigurie Përpara">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ky sajt përdor HTTP
 Strict Transport Security (HSTS) që të tregojë se &brandShortName;-i mund të lidhet
 me të vetëm në mënyrë të sigurt. Si pasojë, s&apos;është e mundur të shtohet një përjashtim për këtë
 dëshmi.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> përmban një rregull sigurie të quajtur HTTP Strict Transport Security (HSTS), që do të thotë se &brandShortName;-i mund të lidhet me të vetëm nën mënyrë të sigurt. S’shtoni dot një përjashtim për vizitimin e këtij sajti.">
 <!ENTITY certerror.copyToClipboard.label "Kopjoje tekstin te e papastra">
 
 <!ENTITY inadequateSecurityError.title "Lidhja juaj s&apos;është e sigurt">
@@ -209,6 +219,8 @@ dëshmi.">
 
 <!ENTITY blockedByPolicy.title "Faqe e Bllokuar">
 
+<!ENTITY clockSkewError.title "Ora e kompjuterit tuaj është gabim">
+<!ENTITY clockSkewError.longDesc "Kompjuteri juaj mendon se është <span id='wrongSystemTime_systemDate1'/>, gjë që pengon lidhjen e sigurt të &brandShortName;-it. Që të vizitoni <span class='hostname'></span>, përditësoni te rregullimet e sistemit tuaj orën e kompjuterin me datën, kohën dhe zonën e duhur kohore, dhe mandej rifreskoni <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Duket se kjo shkaktohet nga rregullimet tuaja për sigurinë e rrjetit. Doni të rikthehen rregullimet parazgjedhje?">
 <!ENTITY prefReset.label "Rikthe rregullimet parazgjedhje">
