@@ -27,7 +27,7 @@ policy-DisableFirefoxAccounts = Desactivar servicios basados en { -fxaccount-bra
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Desactivar la función Firefox Screenshots.
 policy-DisableFirefoxStudies = Evitar que { -brand-short-name } ejecute estudios.
-policy-DisableForgetButton = Evitar el acceso al botón Olvidar.
+policy-DisableForgetButton = Impedir el acceso al botón Olvidar.
 policy-DisableFormHistory = No recordar el historial de búsqueda y formularios.
 policy-DisableMasterPasswordCreation = Si se activa, no se puede crear una contraseña maestra.
 policy-DisablePocket = Desactivar la función para guardar páginas web en Pocket.
@@ -40,3 +40,4 @@ policy-DisableTelemetry = Desactivar Telemetry.
 policy-DisplayBookmarksToolbar = Mostrar de forma predeterminada la barra de herramientas de marcadores.
 policy-DisplayMenuBar = Mostrar de forma predeterminada la barra de menú.
 policy-DontCheckDefaultBrowser = Desactivar la comprobación de navegador predeterminado al iniciar.
+policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de forma predeterminada.
