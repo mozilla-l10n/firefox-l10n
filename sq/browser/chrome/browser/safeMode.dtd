@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "Mënyra e Parrezik është një mënyrë speciale e &brandShortName;-it që mund të përdoret për raste diagnostikimi.">
 <!ENTITY safeModeDescription4.label   "Shtesat dhe rregullimet tuaja të përshtatura do të çaktivizohen përkohësisht.">
 
+<!ENTITY safeModeDescription5.label   "Shtesat dhe rregullimet tuaja personale do të çaktivizohen përkohësisht, dhe veçori të &brandShortName;-it mund të mos funksionojnë si tani.">
+
 <!ENTITY refreshProfileInstead.label  "Mundeni edhe ta anashkaloni diagnostikimin dhe të provoni rifreskimin e  &brandShortName;-it.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
