@@ -17,7 +17,7 @@ onboarding-start-browsing-button-label = 开始浏览
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = 隐私浏览
-onboarding-private-browsing-text = 上网更私密。使用配有内容拦截功能的隐私浏览，帮助您拦截网络上跟踪您的在线跟踪器。
+onboarding-private-browsing-text = 上网很私密。使用配有内容拦截功能的隐私浏览，帮助您拦截网络上跟踪您的在线跟踪器。
 onboarding-screenshots-title = 屏幕截图
 onboarding-screenshots-text = 不用离开 { -brand-short-name } 即可截取、保存以及分享屏幕截图。可直接截取整个页面或选定区域，然后自动上传到网络上，方便访问分享。
 onboarding-addons-title = 附加组件
