@@ -5,7 +5,7 @@
 do-not-track-description = Trimite site-urilor web un semnal „Nu urmări” prin care nu vrei să fii urmărit
 do-not-track-learn-more = Află mai multe
 do-not-track-option-default =
-    .label = Doar când se folosește protecția față de urmărire
+    .label = Doar când se folosește protecția împotriva urmăririi
 do-not-track-option-always =
     .label = Întotdeauna
 pref-page =
@@ -89,7 +89,7 @@ extension-controlled-default-search = O extensie, <img data-l10n-name="icon"/> {
 extension-controlled-privacy-containers = O extensie, <img data-l10n-name="icon"/> { $name }, necesită file container.
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = O extensie, <img data-l10n-name="icon"/> { $name }, controlează protecția față de urmărire.
+extension-controlled-websites-tracking-protection-mode = O extensie, <img data-l10n-name="icon"/> { $name }, controlează protecția împotriva urmăririi.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = O extensie, <img data-l10n-name="icon"/> { $name }, controlează această setare.
@@ -675,9 +675,9 @@ content-blocking-tracking-protection-option-private =
 
 ## Privacy Section - Tracking
 
-tracking-header = Protecția față de urmărire
-tracking-desc = Protecția față de urmărire blochează urmăritorii online care îți colectează datele de navigare pe mai multe site-uri web. <a data-l10n-name="learn-more">Află mai multe despre protecția față de urmărire și confidențialitate</a>
-tracking-mode-label = Folosește protecția față de urmărire pentru a bloca urmăritorii cunoscuți
+tracking-header = Protecția împotriva urmăririi
+tracking-desc = Protecția împotriva urmăririi blochează urmăritorii online care îți colectează datele de navigare pe mai multe site-uri web. <a data-l10n-name="learn-more">Află mai multe despre protecția împotriva urmăririi și confidențialitate</a>
+tracking-mode-label = Folosește protecția împotriva urmăririi pentru a bloca urmăritorii cunoscuți
 tracking-mode-always =
     .label = Întotdeauna
     .accesskey = y
@@ -689,7 +689,7 @@ tracking-mode-never =
     .accesskey = N
 # This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
 # This currently happens on the release and beta channel.
-tracking-pbm-label = Folosește protecția față de urmărire pentru a bloca urmăritorii cunoscuți
+tracking-pbm-label = Folosește protecția împotriva urmăririi pentru a bloca urmăritorii cunoscuți
     .accesskey = v
 tracking-exceptions =
     .label = Excepții…

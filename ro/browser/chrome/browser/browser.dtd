@@ -194,6 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Abonează-te la această pagină">
 <!ENTITY subscribeToPageMenuitem.label "Abonează-te la această pagină…">
+
 <!ENTITY addCurPagesCmd.label "Marchează toate filele…">
 <!ENTITY showAllBookmarks2.label "Afișează toate marcajele">
 <!ENTITY recentBookmarks.label "Recent marcate">
@@ -961,7 +962,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Trimite raportul">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Renunță">
 
-<!ENTITY trackingProtection.title "Protecție față de urmărire">
+<!ENTITY trackingProtection.title "Protecție împotriva urmăririi">
 <!ENTITY trackingProtection.tooltip "Deschide preferințele de protecție împotriva urmăririi">
 
 
