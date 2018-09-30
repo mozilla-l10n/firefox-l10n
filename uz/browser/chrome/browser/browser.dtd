@@ -69,6 +69,8 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "q">
 <!ENTITY  moveToNewWindow.label              "Yangi oynaga ko‘chirish">
 <!ENTITY  moveToNewWindow.accesskey          "y">
+<!ENTITY  reopenInContainer.label            "Konteynerda qayta ochish">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Barcha ichki oynalarni xatcho‘plarga qo‘shish…">
 <!ENTITY  bookmarkAllTabs.accesskey          "i">
 <!ENTITY  undoCloseTab.label                 "Yopilgan ichki oynani qaytarish">
@@ -225,6 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Xabar panelini ochish">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Joylashuvni so‘rash panelini ochish">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Avtomatik ijro etish panelini ochish">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Qo‘shimcha dastur o‘rnatish xabari panelini ochish">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Canvas ichidagi ma’lumotlarga ruxsatni boshqarish">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Xabarlarni oflayn saqlash panelini ochish">
@@ -252,6 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bu saytdan bildirishnomalarni olishni bloklab qo‘ygansiz.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bu sayt uchun doimiy xotirani blokladingiz.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Bu sayt uchun qalqib chiquvchi oynalarni blokladingiz.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Bu saytdagi ovozli mediani avto ijro etishni bloklagansiz.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bu sayt uchun canvas ma’lumotlarini chiqarishni blokladingiz.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bu saytda Adobe Flash plaginidan foydalanishni taqiqladingiz.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bu sayt uchun MIDI ruxsatini blokladingiz.">
@@ -262,6 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Uy">
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; bosh sahifasi">
 
 <!ENTITY bookmarksButton.label          "Xatcho‘plar">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -816,10 +821,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Ko‘proq ma’lumot">
 
+<!ENTITY identity.clearSiteData "Kuki va sayt ma’lumotlarini tozalash">
 
-<!ENTITY identity.permissions "Ruxsatlar">
+<!ENTITY identity.permissions "Ruxsat">
 <!ENTITY identity.permissionsEmpty "Bu saytga hech qanday maxsus ruxsat bermagansiz.">
 <!ENTITY identity.permissionsReloadHint "O‘zgarishlar amalga oshishi uchun sahifani yangilashingiz kerak.">
+<!ENTITY identity.permissionsPreferences.tooltip "Ruxsat parametrlarini ochish">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -929,21 +936,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.disabled.tooltip "Kontentni bloklashni o‘chirib qo‘ygansiz.">
 <!ENTITY contentBlocking.exception.tooltip "Bu sayt uchun kontentni bloklashni o‘chirib qo‘ygansiz.">
 
+<!ENTITY contentBlocking.fastBlock.label "Sekin yuklanuvchi kuzatuvchilar">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Bloklangan">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Bloklashni qo‘shish">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Barcha aniqlangan kuzatuvchilar">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Bloklangan">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1041,14 +1053,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "H">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName;ni yangilash uchun uni qayta ishga tushiring">
 
+<!ENTITY newTabControlled.header.message "Yangi ichki oyna o‘zgardi.">
+<!ENTITY newTabControlled.keepButton.label "O‘zgarishlarni saqlash">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.disableButton.label "Kengaytmani o‘chirib qo‘yish">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 
 
 
 
 
+<!ENTITY pageAction.shareUrl.label "Bo‘lishish">
 
+<!ENTITY pageAction.shareMore.label "Yana…">
 
+<!ENTITY libraryButton.tooltip "Tarix va saqlangan xatcho‘p kabilarni ko‘rish">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
