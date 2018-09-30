@@ -677,12 +677,42 @@ content-blocking-toggle-label-on = ON
 content-blocking-toggle-label-off = OFF
     .accesskey = F
 content-blocking-category-label = Zgjidhni çfarë të bllokohet
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Gjurmues Ngadalësues
+    .accesskey = G
+content-blocking-fastblock-new-description = Blloko vetëm gjurmuesit që pengojnë ngarkimin e shpejtë të faqeve.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Krejt Gjurmuesit e Pikasur
+    .accesskey = K
+content-blocking-tracking-protection-new-description = Blloko krejt gjurmuesit e njohur. (Mund të pengojë ngarkimin e disa faqeve.)
 content-blocking-tracking-protection-option-always =
     .label = Përherë
     .accesskey = P
 content-blocking-tracking-protection-option-private =
     .label = Vetëm në dritare private
     .accesskey = v
+content-blocking-tracking-protection-change-block-list = Ndryshoni listë bllokimesh
+content-blocking-third-party-cookies-label =
+    .label = Cookies Palësh të Treta
+    .accesskey = T
+content-blocking-reject-trackers-description = Bllokoni krejt cookie-t nga palë të treta ose thjesht ato të depozituara nga gjurmues.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Rregullimet tuaja te Cookies dhe Të dhëna Sajti i pengojnë ndryshimet te rregullime mbi Cookies Palësh të Treta.
+content-blocking-change-cookie-settings =
+    .label = Ndryshoni Rregullime Cookie-sh
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Gjurmues (e këshilluar)
+    .accesskey = u
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Gjurmues
+    .accesskey = G
 
 ## Privacy Section - Tracking
 
