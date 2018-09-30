@@ -927,6 +927,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "Bu saytda bloklanadigan kontent aniqlanmadi.">
 <!ENTITY contentBlocking.disabled.label "O‘chiq">
 <!ENTITY contentBlocking.disabled.tooltip "Kontentni bloklashni o‘chirib qo‘ygansiz.">
+<!ENTITY contentBlocking.exception.tooltip "Bu sayt uchun kontentni bloklashni o‘chirib qo‘ygansiz.">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
