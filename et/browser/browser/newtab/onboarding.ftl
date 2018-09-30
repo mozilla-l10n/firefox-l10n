@@ -17,7 +17,7 @@ onboarding-start-browsing-button-label = Alusta veebilehitsemist
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Privaatne veebilehitsemine
-onboarding-private-browsing-text = Lehitse veebi privaatselt. Sisu blokkimisega privaatse veebilehitsemise režiimis blokitakse jälitajad, kes järgivad sulle igal pool veebis.
+onboarding-private-browsing-text = Lehitse veebi privaatselt. Sisu blokkimisega privaatse veebilehitsemise režiimis blokitakse jälitajad, kes järgnevad sulle igal pool veebis.
 onboarding-screenshots-title = Ekraanipildid
 onboarding-screenshots-text = Tee, salvesta ja jaga ekraanipilte - ilma { -brand-short-name }ist lahkumata. Pildista ühte piirkonda või tervet veebilehte. Siis salvesta see veebis kiireks ligipääsemiseks ja jagamiseks.
 onboarding-addons-title = Lisad
