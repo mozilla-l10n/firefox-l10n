@@ -146,10 +146,16 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "I zoti i <span class='hostname'/> e ka formësuar sajtin e vet jo siç duhet.  Që të mbrohen të dhënat tuaja nga vjedhja, &brandShortName;-i nuk u lidh me këtë sajt.">
 
+<!ENTITY certerror.introPara2 "&brandShortName;-i pikasi një kërcënim potencial sigurie dhe nuk vazhdoi për te <span class='hostname'/>. Nëse e vizitoni këtë sajt, gjurmuesit mund të provojnë të vjedhin të dhëna tuajat të tilla si fjalëkalime, email-e, ose hollësi kartash krediti.">
 
+<!ENTITY certerror.expiredCert.secondPara "Kjo ka shumë gjasa të vijë ngaqë ora e kompjuterit tuaj është caktuar gabim, gjë që e pengon lidhjen në mënyrë të sigurt të &brandShortName;-it.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ç’mund të bëni për të?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Problemi ka shumë gjasa të jetë me sajtin, dhe s’bëni dot gjë për ta zgjidhur.</p>
+<p>Nëse gjendeni nën një rrjet korporate ose përdorni software anti-virus, mund të lidheni për ndihmë me ekipin e asistencës. Mundeni edhe të njoftoni përgjegjësin e sajtit për problemin.</p>
+">
 
 
 
