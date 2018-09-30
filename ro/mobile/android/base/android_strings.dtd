@@ -7,7 +7,7 @@
 <!ENTITY firstrun_urlbar_subtext2 "Un browser modern mobil de la Mozilla, organizația nonprofit dedicată unui web liber și deschis.">
 <!ENTITY firstrun_panel_title_privacy "Confidențialitate">
 <!ENTITY firstrun_privacy_message "Navighează fără grija de a fi urmărit">
-<!ENTITY firstrun_privacy_subtext "Navigarea privată cu protecție față de urmărire blochează urmăritorii și nu va ține minte istoricul tău când închei navigarea.">
+<!ENTITY firstrun_privacy_subtext "Navigarea privată cu protecție împotriva urmăririi blochează urmăritorii și nu va ține minte istoricul tău când închei navigarea.">
 <!ENTITY firstrun_panel_title_customize "Personalizare">
 <!ENTITY firstrun_customize_message "Creează-ți propria experiență în &brandShortName;.">
 <!ENTITY firstrun_customize_subtext "Personalizează &brandShortName; cu suplimente. Blochează reclamele, adaugă caracteristici sau alege o temă nouă care să îți reflecteze personalitatea.">
@@ -273,7 +273,7 @@
 <!ENTITY pref_show_web_fonts "Afișează fonturi web">
 <!ENTITY pref_show_web_fonts_summary2 "Descarcă fonturi de la distanță la încărcarea unei pagini">
 
-<!ENTITY pref_tracking_protection_title2 "Protecție față de urmărire">
+<!ENTITY pref_tracking_protection_title2 "Protecție împotriva urmăririi">
 <!ENTITY pref_donottrack_title "Nu mă urmări">
 <!ENTITY pref_donottrack_summary "&brandShortName; va spune site-urilor că nu vrei să fii urmărit">
 
@@ -311,7 +311,7 @@
 <!ENTITY pref_pwa "Aplicaţii web progresive">
 <!ENTITY pref_pwa_summary "Permite aplicațiilor web să fie adăugate în ecranul principal">
 
-<!ENTITY tracking_protection_prompt_title "Acum cu protecție față de urmărire">
+<!ENTITY tracking_protection_prompt_title "Acum cu protecție împotriva urmăririi">
 <!ENTITY tracking_protection_prompt_text "Blochează în mod activ elementele care îți urmăresc navigarea astfel încât să nu-ți faci griji.">
 <!ENTITY tracking_protection_prompt_tip_text "Vizitează setările de confidențialitate pentru a afla mai multe">
 <!ENTITY tracking_protection_prompt_action_button "Am înțeles!">
@@ -676,7 +676,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Ai dezactivat protecția față de conținutul nesigur.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY doorhanger_tracking_title2 "Protecție față de urmărire">
+<!ENTITY doorhanger_tracking_title2 "Protecție împotriva urmăririi">
 <!ENTITY doorhanger_tracking_state_enabled "Activat">
 <!ENTITY doorhanger_tracking_state_disabled "Dezactivat">
 <!ENTITY doorhanger_tracking_message_enabled1 "Au fost blocate tentative de urmărire a comportamentului tău online.">
@@ -871,7 +871,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Elimină">
 <!ENTITY activity_stream_delete_history "Șterge din istoric">
 
-<!ENTITY private_tab_panel_title "Navigare privată + protecție față de urmărire">
+<!ENTITY private_tab_panel_title "Navigare privată + protecție împotriva urmăririi">
 <!ENTITY private_tab_panel_description "&brandShortName; blochează părți ale paginii care îți pot urmări activitatea de navigare.">
 <!ENTITY private_tab_panel_description2 "Nu vom reține istoricul, însă fișierele descărcate și marcajele noi vor fi în continuare salvate pe dispozitiv.">
 <!ENTITY private_tab_learn_more "Vrei să afli mai multe?">
