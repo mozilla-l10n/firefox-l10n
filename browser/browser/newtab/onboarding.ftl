@@ -21,3 +21,4 @@ onboarding-screenshots-text = Prenez des captures d’écran, enregistrez-les et
 onboarding-addons-title = Modules complémentaires
 onboarding-addons-text = Ajoutez encore plus de fonctionnalités pour que { -brand-short-name } en fasse davantage pour vous. Comparez les prix, consultez la météo ou affirmez-vous avec un thème personnalisé.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Naviguez plus vite, plus intelligemment ou avec plus de sécurité avec des extensions comme Ghostery qui vous permet de bloquer les publicités envahissantes.
