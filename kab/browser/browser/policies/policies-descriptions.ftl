@@ -59,3 +59,6 @@ policy-Proxy = Swel iɣewwaṛen n upṛuksi.
 policy-SanitizeOnShutdown = Sfeḍ akk isefka n tunigin deg usexsi.
 policy-SearchBar = Sbadu adig imezwer n ufeggag n unadi. Aseqdac izmer ad t-isagen.
 policy-SearchEngines = Swel iƔewwaren n umsedday n unadi. Tasertit-agi tella kan di lqem Extended Support Release (ESR).
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Sewḥel anekcum Ɣer ismal web. Wali tasemlit i wugar n telqayt Ɣef umasal.

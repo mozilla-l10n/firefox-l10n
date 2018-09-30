@@ -640,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Tisuraf…
     .accesskey = s
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = IƔewwaren-inek/inem deg usewḥel n ugbur sewḥalen isnifal deg iƔewwaren n yinagan n tuqqna akked wid isefka.
 
 ## Privacy Section - Address Bar
 
@@ -695,6 +699,11 @@ content-blocking-third-party-cookies-label =
     .label = Inagan n tuqna n tɣawsiwin tis kraḍ
     .accesskey = I
 content-blocking-reject-trackers-description = Sewḥel akk inagan n tuqqna wis kraḍ neɣ wid-ak kan yettuneḍfaṛen.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = IƔewwaren-inek/inem deg yinagan n tuqqna akked isefka n yesmal sewḥalen isnifal n iƔewwaren n yinagan n tuqqna n tƔawsiwin tis kraḍ.
 content-blocking-change-cookie-settings =
     .label = Beddel iɣewwaṛen n inagan n tuqqna
     .accesskey = S
