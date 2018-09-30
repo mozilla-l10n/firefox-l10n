@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-welcome-header = Bienvenue dans { -brand-short-name }
+onboarding-start-browsing-button-label = Commencer la navigation
 
 ## These strings belong to the individual onboarding messages.
 
@@ -14,3 +15,9 @@ onboarding-welcome-header = Bienvenue dans { -brand-short-name }
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-private-browsing-title = Navigation privée
+onboarding-screenshots-title = Captures d’écran
+onboarding-screenshots-text = Prenez des captures d’écran, enregistrez-les et partagez-les sans quitter { -brand-short-name }. Capturez une zone de la page ou la page entière pendant que vous naviguez. Enregistrez ensuite votre capture en ligne pour y accéder facilement et la partager.
+onboarding-addons-title = Modules complémentaires
+onboarding-addons-text = Ajoutez encore plus de fonctionnalités pour que { -brand-short-name } en fasse davantage pour vous. Comparez les prix, consultez la météo ou affirmez-vous avec un thème personnalisé.
+onboarding-ghostery-title = Ghostery
