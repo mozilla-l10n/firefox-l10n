@@ -51,9 +51,9 @@ permissions-invalid-uri-label = Te rugăm să introduci un nume de gazdă valid
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-tracking-protection-window =
-    .title = Excepții - Protecție față de urmărire
+    .title = Excepții - Protecție împotriva urmăririi
     .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Ai dezactivat protecția față de urmărire pe aceste site-uri web.
+permissions-exceptions-tracking-protection-desc = Ai dezactivat protecția împotriva urmăririi pe aceste site-uri web.
 
 ## Exceptions - Cookies
 
