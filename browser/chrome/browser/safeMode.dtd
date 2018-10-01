@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "સુરક્ષિત સ્થિતિ &brandShortName; ની ખાસ સ્થિતિ છે કે જે સમસ્યાઓનું મુશ્કેલી નિવારણ કરવા માટે વાપરી શકાય છે.">
 <!ENTITY safeModeDescription4.label   "તમારું ઍડ-ઓન અને વૈવિધ્ય સેટીંગ કાયમ માટે નિષ્ક્રિય થઇ જશે.">
 
+<!ENTITY safeModeDescription5.label   "તમારું ઍડ-ઓન અને વૈવિધ્ય સેટીંગ કાયમ માટે નિષ્ક્રિય થઇ જશે, અને &brandShortName; સુવિધાઓ હાલમાં જેવીરીતે કામ કરેછે તે રીતે કરી શકશે નહીં.">
+
 <!ENTITY refreshProfileInstead.label  "તમે મુશ્કેલીનિવારણ અવગણી શકો છો અને રીફ્રેશ અને &brandShortName; પ્રયાસ કરી શકો છો.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
