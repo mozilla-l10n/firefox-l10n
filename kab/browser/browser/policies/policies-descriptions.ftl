@@ -29,7 +29,7 @@ policy-DisableFirefoxScreenshots = Sens tamahilt Firefox Screenshots.
 policy-DisableFirefoxStudies = Sewḥel aselkem n tezrawin n { -brand-short-name }.
 policy-DisableForgetButton = Sewḥel anekcum ɣer tqeffalt n usfaḍ n isefka.
 policy-DisableFormHistory = Ur ḥerrez ara amazray n unadi d tferkit.
-policy-DisableMasterPasswordCreation = ma irmed, awal uffir agejdan ur yezmir ara ad yettwarnu.
+policy-DisableMasterPasswordCreation = Ma irmed, awal uffir agejdan ur yezmir ara ad yettwarnu.
 policy-DisablePocket = Sens tamahilt n usekles n isebtar web di Pocket.
 policy-DisablePrivateBrowsing = Sens tunigin tusligt.
 policy-DisableProfileImport = Kkes umuƔ n tludna akken ad tketreḍ isefka seg iminig nniḍen.
@@ -53,6 +53,7 @@ policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Sbadu akked sewḥel ma tebɣiḍ asebter agejdan.
 policy-InstallAddonsPermission = Sireg asebded n izegrar di kra n ismal web.
+policy-NoDefaultBookmarks = Sens timerna n tecraḍ n isebtar s wudem imezwer yettunefken akked { -brand-short-name }, akked tecraḍ n isebtar tuḥricin (Yettwarzan aṭas, tibzimin n melmi kan). Awennit: tasertit-agi ad teddu akken ilaq ticki tettwarmed send asenker amenzu n umaƔnu.
 policy-Permissions = Swel tisirag i tkamirat, asawaḍ, adig akked ilɣa.
 policy-PopupBlocking = Sireg kra n ismal web ad skanayen Isfuyla udhimens wudem amezwer.
 policy-Proxy = Swel iɣewwaṛen n upṛuksi.
