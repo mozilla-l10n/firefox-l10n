@@ -51,6 +51,7 @@ but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Tanlangan ichki oynalarni qayta yuklash">
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!ENTITY  bookmarkSelectedTabs.label         "Ichki oynalarni xatcho‘plash…">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -1092,10 +1093,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Kengaytmani o‘chirib qo‘yish">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "Kengaytma bosh sahifani o‘zgartirdi. Bu o‘zgarish yoqmasa, sozlamalarni tiklashingiz mumkin.">
+<!ENTITY homepageControlled.header.message "Bosh sahifangiz o‘zgardi.">
+<!ENTITY homepageControlled.keepButton.label "O‘zgarishlar saqlansin">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "Kengaytmani o‘chirish">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "Yashirin ichki oynalarga kirish">
+<!ENTITY tabHideControlled.keepButton.label "Ichki oynalarni yashirish">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "Kengaytmani o‘chirish">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
+<!ENTITY pageActionButton.tooltip "Sahifa amallari">
+<!ENTITY pageAction.addToUrlbar.label "Manzil paneliga qo‘shish">
+<!ENTITY pageAction.removeFromUrlbar.label "Manzil panelidan olib tashlash">
+<!ENTITY pageAction.allowInUrlbar.label "Manzil panelida ko‘rsatish">
+<!ENTITY pageAction.disallowInUrlbar.label "Manzil panelidan olib tashlash">
+<!ENTITY pageAction.manageExtension.label "Kengaytmani boshqarish">
 
+<!ENTITY pageAction.sendTabToDevice.label "Ichki oynani qurilmaga yuborish">
 
+<!ENTITY sendToDevice.syncNotReady.label "Qurilmalar sinxronlanmoqda…">
 
 <!ENTITY pageAction.shareUrl.label "Bo‘lishish">
 
@@ -1107,7 +1127,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Qulay funksiyalar yoqildi">
 
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Qo‘shimcha dasturlarni <image class='addon-toolbar-icon'/> menyusidagi <image class='addon-addon-icon'/> ustiga bosib, boshqarish mumkin.">
