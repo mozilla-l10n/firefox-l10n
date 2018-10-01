@@ -10,4 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = Embohekopyahu URL kundaharape rembipuru ñemomba’epyre.
+policy-Authentication = Emboheko ñemoañete ojuajúva ñanduti rendápe g̃uarã moneĩmbyre.
+policy-BlockAboutAddons = Ejoko Moimbaha ñangarekohápe jeike (about: addons).
 policy-DisableTelemetry = Eipe'aite Telemetría.
