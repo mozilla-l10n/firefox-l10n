@@ -4,6 +4,7 @@
 
 crash-reports-title = Segnalaçion di Cianti
 clear-all-reports-label = Leva da mezo tutti i Report
+delete-button-label = Scancella tutto
 delete-confirm-title = T'ê seguo?
 delete-confirm-description = Questo o scanceliâ tutto e o no se poriâ anula.
 crashes-unsubmitted-label = Report di cianti no mandæ
