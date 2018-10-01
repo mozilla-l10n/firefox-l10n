@@ -20,4 +20,9 @@ policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
 policy-DisableAppUpdate = Ani eheja oñembohekopyahu kundahára.
 policy-DisableDeveloperTools = Ejoko ñangarekohára rembipurúpe jeike.
 policy-DisableFirefoxAccounts = Eipe’a mba'epytyvõrã { -fxaccount-brand-name } pegua, oĩhápe avei Sync.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Eipe’a Firefox Screenshots rembiapoite.
+policy-DisableFirefoxStudies = Ani eheja { -brand-short-name } omomba’apo ñembokatupyry.
+policy-DisableForgetButton = Ani eheja votõ Tesaráipe jeike.
+policy-DisableFormHistory = Ani nemandu’a jeheka ha tembiasakue myanyhẽha rehe.
 policy-DisableTelemetry = Eipe'aite Telemetría.
