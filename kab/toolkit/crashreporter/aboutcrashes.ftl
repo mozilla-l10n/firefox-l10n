@@ -8,6 +8,7 @@ delete-button-label = Sfeḍ akk
 delete-confirm-title = Asentem?
 delete-confirm-description = Ad yekkes akk issaɣen s war tuɣalin.
 delete-unsubmitted-description = Ad yekkes akk ineqqisen n uɣelluy ur yettwaznen ara s war tuɣalin.
+delete-submitted-description = Ayagi ad ikkes tabdart n ineqqisen n uɣelluy yettwaznen dacu ur ittekkes ara isefka yettwaznen. Ulac tuƔalin Ɣer deffir.
 crashes-unsubmitted-label = Ineqqisen n uɣelluy ur yettwaznen ara
 id-heading = Asulay n ussaɣ
 date-crashed-heading = Azemz n uɣelluy
