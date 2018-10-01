@@ -960,17 +960,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Bloklash…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Uchinchi tomon kukilari">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Bloklangan">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Bloklash…">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Muammo haqida xabar berish">
+<!ENTITY contentBlocking.breakageReportView.label "Muammolar haqida xabar berish">
 
 <!ENTITY trackingProtection.title "Kuzatuvdan himoya">
 
