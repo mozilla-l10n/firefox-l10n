@@ -977,8 +977,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Muammo haqida xabar berish">
 <!ENTITY contentBlocking.breakageReportView.label "Muammolar haqida xabar berish">
+<!ENTITY contentBlocking.breakageReportView2.description "Kontentni bloklash ba’zi saytlarda muammo keltirib chiqarishi mumkin. Muammolar haqida xabar bersangiz, &brandShortName;ni yanada yaxshilashda yordam bergan hisoblanasiz. (Bu xabarda URL va brauzer sozlamalari bo‘ladi)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Batafsil">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Sizda qanday muammo? (Ixtiyoriy)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Hisobot yuborish">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Bekor qilish">
 
 <!ENTITY trackingProtection.title "Kuzatuvdan himoya">
+<!ENTITY trackingProtection.tooltip "Kuzatuvdan himoya parametrlarini ochish">
+<!ENTITY trackingProtection.detectedBlocked4 "Sizni kuzatishi mumkin bo‘lgan sahifa qismlarini &brandShortName; bloklaydi.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; internetdagi faoliyatingizni kuzatishi mumkin bo‘lgan elementlarni aniqladi.">
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
