@@ -501,7 +501,7 @@
 <!ENTITY contextmenu_open_new_tab "Deschide într-o filă nouă">
 <!ENTITY contextmenu_open_private_tab "Deschide într-o filă privată">
 <!ENTITY contextmenu_remove "Elimină">
-<!ENTITY contextmenu_add_page_shortcut "Adaugă scurtătură spre pagină">
+<!ENTITY contextmenu_add_page_shortcut "Adaugă comandă rapidă către pagină">
 <!ENTITY contextmenu_set_as_homepage "Setează ca pagină de start">
 <!ENTITY contextmenu_share "Împărtășește">
 <!ENTITY contextmenu_pasteandgo "Lipește și accesează">
@@ -836,7 +836,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "&brandShortName; este actualizat">
 <!ENTITY whatsnew_notification_summary "Descoperă ce este nou în această versiune">
 
-<!ENTITY promotion_add_page_shortcut "Adaugă scurtătură spre pagină">
+<!ENTITY promotion_add_page_shortcut "Adaugă comandă rapidă către pagină">
 
 <!ENTITY helper_first_offline_bookmark_title "Citește offline">
 <!ENTITY helper_first_offline_bookmark_message "Găsește elementele din modul lectură în marcaje, chiar și offline.">
