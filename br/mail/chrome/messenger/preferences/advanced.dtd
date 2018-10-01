@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Gweredekaat ar c'hlask hag an ibiliañ hollek">
 <!ENTITY enableGlodaSearch.accesskey   "h">
 <!ENTITY dateTimeFormatting.label      "Mentrezh an deiziad hag an eur">
+<!ENTITY languageSelector.label        "Yezh">
 <!ENTITY allowHWAccel.label            "Implijout ar buanadur periant pa vez tu">
 <!ENTITY allowHWAccel.accesskey        "I">
 <!ENTITY storeType.label               "Rizh Kadaviñ Kemennadenn evit kontoù nevez :">
