@@ -13,4 +13,11 @@
 policy-AppUpdateURL = Embohekopyahu URL kundaharape rembipuru ñemomba’epyre.
 policy-Authentication = Emboheko ñemoañete ojuajúva ñanduti rendápe g̃uarã moneĩmbyre.
 policy-BlockAboutAddons = Ejoko Moimbaha ñangarekohápe jeike (about: addons).
+policy-BlockAboutConfig = Ejoko about:config kuatiaroguépe jeike.
+policy-BlockAboutProfiles = Ejoko about:profiles-pe jeike.
+policy-BlockAboutSupport = Ejoko about:support kuatiaroguépe jeike.
+policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
+policy-DisableAppUpdate = Ani eheja oñembohekopyahu kundahára.
+policy-DisableDeveloperTools = Ejoko ñangarekohára rembipurúpe jeike.
+policy-DisableFirefoxAccounts = Eipe’a mba'epytyvõrã { -fxaccount-brand-name } pegua, oĩhápe avei Sync.
 policy-DisableTelemetry = Eipe'aite Telemetría.
