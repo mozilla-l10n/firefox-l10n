@@ -622,6 +622,10 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Tipul conținutului blocat
     .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = Urmăritori de la terți (recomandat)
+sitedata-block-trackers-option =
+    .label = Urmăritori de la terți
 sitedata-block-unvisited-option =
     .label = Cookie-uri de la site-urile web nevizitate
 sitedata-clear =
@@ -672,6 +676,12 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = Doar în ferestre private
     .accesskey = P
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Urmăritori (recomandat)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Urmăritori
+    .accesskey = k
 
 ## Privacy Section - Tracking
 

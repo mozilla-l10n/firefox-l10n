@@ -75,7 +75,7 @@
 <!ENTITY netReset.title "Conexiunea a fost reinițializată">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Timpul conexiunii a expirat">
+<!ENTITY netTimeout.title "Conexiunea a expirat">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Adresa nu a fost înțeleasă">
