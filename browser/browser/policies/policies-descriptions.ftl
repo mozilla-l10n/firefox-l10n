@@ -29,5 +29,7 @@ policy-DisableTelemetry = Slå av av telemetri.
 policy-DisplayBookmarksToolbar = Vise bokmerkeverktøylinjen som standard.
 policy-DisplayMenuBar = Vise menylinjen som standard.
 policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettleser ved oppstart.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Aktiver eller deaktiver innholdsblokkering med mulighet til å låse valget.
 policy-InstallAddonsPermission = Tillat visse nettsteder å installere utvidelser.
 policy-Proxy = Konfigurer proxy-innstillinger.
