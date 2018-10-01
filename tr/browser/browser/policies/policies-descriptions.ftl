@@ -34,6 +34,7 @@ policy-DisablePocket = Web sayfalarını Pocket'a kaydetme özelliğini devre d�
 policy-DisablePrivateBrowsing = Gizli gezintiyi devre dışı bırak.
 policy-DisableProfileImport = Başka tarayıcılardaki verileri içe aktarmaya olanak veren menü komutunu devre dışı bırak.
 policy-DisableProfileRefresh = about:support sayfasındaki “{ -brand-short-name } tarayıcısını yenile” düğmesini devre dışı bırak.
+policy-DisableSecurityBypass = Kullanıcının belli güvenlik uyarılarını görmezden gelmesini engelle.
 policy-DisableTelemetry = Telemetri'yi kapat.
 policy-DisplayBookmarksToolbar = Varsayılan olarak yer imleri araç çubuğunu göster.
 policy-DisplayMenuBar = Varsayılan olarak menü çubuğunu göster.
