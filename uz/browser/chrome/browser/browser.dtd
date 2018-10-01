@@ -787,10 +787,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Xavfsiz ulanish">
 <!ENTITY identity.connectionNotSecure "Ulanish – xavfsiz emas">
 <!ENTITY identity.connectionFile "Bu sahifa kompyuteringizda saqlangan.">
-<!ENTITY identity.connectionVerified2 "Quyidagi yordamida ishlaydigan ushbu saytga xavfli ulandingiz:">
-<!ENTITY identity.connectionInternal "Bu xavfsiz &brandShortName; sahifasi.">
+<!ENTITY identity.connectionVerified2 "Siz bu saytga xavfsiz ulandingiz, sayt egasi:">
+<!ENTITY identity.connectionInternal "Bu ishonchli &brandShortName; sahifasi.">
 <!ENTITY identity.extensionPage "Bu sahifa kengaytmadan yuklandi.">
-<!ENTITY identity.insecureLoginForms2 "Bu sahifaga kiritilgan taxalluslar yomon oqibatlarga olib kelishi mumkin.">
+<!ENTITY identity.insecureLoginForms2 "Bu sahifaga kiritilgan ma’lumotlar o‘g‘irlanishi mumkin.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ushbu sahifaning xavfli bo‘lgan qismlarini blokladi.">
@@ -988,14 +988,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.tooltip "Kuzatuvdan himoya parametrlarini ochish">
 <!ENTITY trackingProtection.detectedBlocked4 "Sizni kuzatishi mumkin bo‘lgan sahifa qismlarini &brandShortName; bloklaydi.">
 <!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; internetdagi faoliyatingizni kuzatishi mumkin bo‘lgan elementlarni aniqladi.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; internetdagi faoliyatingizni kuzatishi mumkin bo‘lgan elementlarni aniqladi. Bu sayt uchun kuzatuvdan himoyani o‘chirib qo‘ygansiz.">
+<!ENTITY trackingProtection.notDetected5 "Bu sahifada kuzatuvchi elementlar aniqlanmadi.">
+<!ENTITY trackingProtection.notDetectedException "Bu sahifada kuzatuvchi elementlar aniqlanmadi. Bu sayt uchun kuzatuvdan himoyani o‘chirib qo‘ygansiz.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Kuzatuvdan himoyani yoqib qo‘ydingiz. Barcha kuzatuvchilarni bloklash uchun sahifani qayta yuklang.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "Bu sayt uchun o‘chirib qo‘yish">
+<!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Bu sayt uchun bloklashni o‘chirish">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate3.label "Bu seans uchun o‘chirish">
+<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "Bu sayt uchun yoqib qo‘yish">
+<!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.label "Bloklashni vaqtincha o‘chirish">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Bu sayt uchun bloklashni yoqish">
+<!ENTITY trackingProtection.block5.accesskey "E">
+<!ENTITY trackingProtection.reload2.label "Sahifani yangilash">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Barchasini ko‘rsatish">
 <!ENTITY pluginNotification.showAll.accesskey "k">
