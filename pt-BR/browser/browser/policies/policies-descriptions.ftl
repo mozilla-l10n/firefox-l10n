@@ -39,10 +39,31 @@ policy-DisableSecurityBypass = Impedir que o usuário ignore determinados alerta
 policy-DisableSetDesktopBackground = Desativar o comando do menu para definir uma imagem como plano de fundo da área de trabalho.
 policy-DisableSetAsDesktopBackground = Desativar o comando de menu Definir como papel de parede da área de trabalho para imagens.
 policy-DisableSystemAddonUpdate = Impedir que o navegador instale e atualize extensões do sistema.
-policy-DisableTelemetry = Desliga a telemetria.
-policy-DisplayBookmarksToolbar = Exibe a barra de favoritos por padrão.
-policy-DisplayMenuBar = Exibe a barra de menu por padrão.
-policy-DontCheckDefaultBrowser = Desativa a verificação de navegador padrão ao iniciar.
+policy-DisableTelemetry = Desligar telemetria.
+policy-DisplayBookmarksToolbar = Exibir a barra de favoritos por padrão.
+policy-DisplayMenuBar = Exibir a barra de menu por padrão.
+policy-DontCheckDefaultBrowser = Desativar a verificação de navegador padrão ao iniciar.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ativar ou desativar o bloqueio de conteúdo e, opcionalmente, impedir que seja alterado.
-policy-InstallAddonsPermission = Permite que determinados sites instalem extensões.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Instalar, desinstalar e bloquear extensões. A opção “Instalar” recebe URLs ou caminhos como parâmetros. As opções “Desinstalar” e "Bloqueado" usam IDs de extensões.
+policy-FlashPlugin = Permitir ou negar o uso do plugin Flash.
+policy-HardwareAcceleration = Caso definido como "false", desativar a aceleração de hardware.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Definir a página inicial e, opcionalmente, impedir que seja alterada.
+policy-InstallAddonsPermission = Permitir que determinados sites instalem extensões.
+policy-OfferToSaveLogins = Impor as configurações para permitir que o { -brand-short-name } ofereça lembrar logins e senhas salvas. Tanto "true" como "false" são valores aceitos.
+policy-OverrideFirstRunPage = Substituir a página de primeira execução. Defina esta política como vazio se quiser desativar a página de primeira execução.
+policy-OverridePostUpdatePage = Substituir a página “Novidades” exibida após uma atualização. Defina esta política como vazio se quiser desativar a exibição de uma página após atualizações.
+policy-Permissions = Configurar permissões para câmera, microfone, localização e notificações.
+policy-PopupBlocking = Permitir que determinados sites exibam popups como padrão.
+policy-Proxy = Definir as configurações de proxy.
+policy-SanitizeOnShutdown = Limpar todos os dados de navegação ao desligar.
+policy-SearchBar = Definir a localização padrão da barra de pesquisa. O usuário ainda pode personalizar tal localização.
+policy-SearchEngines = Definir as configurações do mecanismo de pesquisa. Esta política está disponível somente na versão Extended Support Release (ESR).
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Bloquear o acesso a determinados sites. Confira a documentação para mais detalhes sobre o formato.
