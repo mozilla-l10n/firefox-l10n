@@ -28,5 +28,6 @@ policy-DisablePrivateBrowsing = Slå av Privat nettlesing.
 policy-DisableTelemetry = Slå av av telemetri.
 policy-DisplayBookmarksToolbar = Vise bokmerkeverktøylinjen som standard.
 policy-DisplayMenuBar = Vise menylinjen som standard.
+policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettleser ved oppstart.
 policy-InstallAddonsPermission = Tillat visse nettsteder å installere utvidelser.
 policy-Proxy = Konfigurer proxy-innstillinger.
