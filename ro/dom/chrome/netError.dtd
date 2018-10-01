@@ -50,7 +50,7 @@
 <!ENTITY netTimeout.longDesc "<p>Site-ul cerut nu a răspuns cererii de conexiune, iar browserul a încetat să mai aștepte un răspuns.</p><ul><li>Se poate ca serverul să fie foarte solicitat sau să sufere o defecțiune temporară?  Încearcă din nou mai târziu.</li><li>Ai probleme cu navigarea pe alte site-uri? Verifică conexiunea la rețea a calculatorului.</li><li>Calculatorul este protejat de un firewall sau proxy? Setările incorecte ale acestora poate afecta navigarea pe web.</li><li>Problemele persistă? Consultă administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Protocol necunoscut">
-<!ENTITY unknownProtocolFound.longDesc "<p>Adresa specifică un protocol (de ex., <q>wxyz://</q>) pe care browserul nu îl cunoaște, astfel că browserul nu se poate conecta în mod corespunzător la site.</p><ul><li>Încerci să accesezi conținut multimedia sau alte servicii nontext? Verifică site-ul pentru cerințe suplimentare.</li><li>Unele protocoale pot necesita programe terțe sau pluginuri înainte ca browserul să le poată recunoaște.</li></ul>">
+<!ENTITY unknownProtocolFound.longDesc "<p>Adresa specifică un protocol (de ex., <q>wxyz://</q>) pe care browserul nu îl cunoaște, astfel că browserul nu se poate conecta în mod corespunzător la site.</p><ul><li>Încerci să accesezi conținut multimedia sau alte servicii nontext? Verifică site-ul pentru cerințe suplimentare.</li><li>Unele protocoale pot necesita programe de la terți sau pluginuri înainte ca browserul să le poată recunoaște.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy a refuzat conexiunea">
 <!ENTITY proxyConnectFailure.longDesc "<p>Browserul este configurat să folosească un server proxy, însă proxy-ul a refuzat o conexiune.</p><ul><li>Este browserul configurat corect pentru acel proxy? Verificați setările și încercați din nou.</li><li>Serviciul proxy permite conexiuni din această rețea?</li><li>Problemele persistă? Consultați administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
@@ -68,7 +68,10 @@
 <!ENTITY nssFailure2.longDesc2 "<p>Pagina pe care încerci să o vezi nu poate fi afișată deoarece nu s-a putut verifica autenticitatea datelor primite.</p><ul><li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă</li></ul>">
 
 <!ENTITY nssBadCert.title "Conexiunea securizată a eșuat">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Aceasta s-ar putea datora unei probleme în configurația serverului sau ar putea să fie cineva care încearcă să uzurpeze identitatea serverului.</li> <li>Dacă te-ai conectat cu succes în trecut la acest server, eroarea poate fi temporară și poți încerca din nou mai târziu.</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+<li>Aceasta s-ar putea datora unei probleme în configurația serverului sau ar putea să fie cineva care încearcă să uzurpeze identitatea serverului.</li>
+<li>Dacă te-ai conectat cu succes în trecut la acest server, eroarea poate fi temporară și poți încerca din nou mai târziu.</li>
+</ul>">
 
 <!ENTITY securityOverride.linkText "Sau poți adăuga o excepție…">
 <!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adaugi o excepție dacă folosești o conexiune la internet în care nu ai încredere în totalitate sau dacă nu ești obișnuit să vezi un avertisment pentru acest server..</p> <p>Dacă totuși dorești să adaugi o excepție pentru acest site, o poți face în setările avansate pentru criptare.</p>">
