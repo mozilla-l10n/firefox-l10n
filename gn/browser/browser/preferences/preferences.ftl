@@ -203,6 +203,9 @@ choose-button =
     .label = Poravo…
     .accesskey = o
 choose-browser-language-description = Eiporavo ñe’ẽ ojepurúva ehechauka hag̃ua poravorã, ñe’ẽmondo ha momarandu { -brand-short-name } rehegua.
+manage-browser-languages-button =
+    .label = Emopyenda mokõiháva
+    .accesskey = l
 confirm-browser-language-change-description = Emoñepyrũjey { -brand-short-name } oñemboheko hag̃ua ko’ã moambuepyre
 confirm-browser-language-change-button = Mohembiapo ha ñepyrũjey
 translate-web-pages =
@@ -661,6 +664,13 @@ content-blocking-toggle-label-on = Myandy
 content-blocking-toggle-label-off = Pe'a
     .accesskey = O
 content-blocking-category-label = Eiporavo mba’épa ejokóta
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Ñemyanyhẽ mbegue rapykuehoha
+    .accesskey = S
+content-blocking-fastblock-new-description = Ejoko tapykuehoha añoite omoapañuãiva kuatiarogue ñemyanyhẽ pya’e.
 content-blocking-tracking-protection-option-always =
     .label = Tapiaite
     .accesskey = A
