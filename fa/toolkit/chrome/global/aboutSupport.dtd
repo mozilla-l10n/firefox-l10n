@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "گزارش‌های فروپاشی">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "شناسهٔ گزارش">
 <!ENTITY aboutSupport.crashes.sendDate "ثبت شد">
 <!ENTITY aboutSupport.crashes.allReports "تمام گزارش‌های فروپاشی">
@@ -21,19 +21,14 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "نسخه">
 <!ENTITY aboutSupport.extensionId "شناسه">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "نرم‌افزار امنیتی">
+<!ENTITY aboutSupport.securitySoftwareType "نوع">
+<!ENTITY aboutSupport.securitySoftwareName "نام">
+
 <!ENTITY aboutSupport.featuresTitle "امکانات &brandShortName;">
 <!ENTITY aboutSupport.featureName "نام">
 <!ENTITY aboutSupport.featureVersion "نسخه">
 <!ENTITY aboutSupport.featureId "شناسه">
-
-<!ENTITY aboutSupport.experimentsTitle "ویژگیهای آزمایشی">
-<!ENTITY aboutSupport.experimentName "نام">
-<!ENTITY aboutSupport.experimentId "شناسه">
-<!ENTITY aboutSupport.experimentDescription "شرح">
-<!ENTITY aboutSupport.experimentActive "فعال‌سازی">
-<!ENTITY aboutSupport.experimentEndDate "تاریخ پایان">
-<!ENTITY aboutSupport.experimentHomepage "صفحه خانگی">
-<!ENTITY aboutSupport.experimentBranch "شاخه">
 
 <!ENTITY aboutSupport.appBasicsTitle "اطلاعات اولیهٔ برنامه">
 <!ENTITY aboutSupport.appBasicsName "نام">
@@ -67,6 +62,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "پنجره‌های چندپردازشی">
 
 <!ENTITY aboutSupport.appBasicsProcessCount "پروسه‌های محتوای وب">
+
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "کلید گوگل">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "کلید سرویس مکان‌یابی موزیلا">

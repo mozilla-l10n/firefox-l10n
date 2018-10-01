@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "باشه!">
 <!ENTITY defaultButton.accesskey "ب">
+
+<!ENTITY moreActionsButton.accessibleLabel "اقدامات بیشتر">
