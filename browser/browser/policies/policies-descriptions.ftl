@@ -24,3 +24,11 @@ policy-DisableBuiltinPDFViewer = Cuir PDF.js à comas, an sealladair PDF a tha a
 policy-DisableDeveloperTools = Bac inntrigeadh dha innealan an luchd-leasachaidh.
 policy-DisableFeedbackCommands = Cuir à comas àitheantan a chuireadh beachdan o chlàr-taice na cobharach (“Cuir beachdan” agus “Dèan aithris air làrach amharasach”).
 policy-DisableFirefoxAccounts = Cuir seirbheisean stèidhichte air { -fxaccount-brand-name } à comas, a’ gabhail a-staigh an t-sioncronachaidh.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Cuir gleus nan glacaidhean-sgrìn aig Firefox à comas.
+policy-DisableFirefoxStudies = Na leig le { -brand-short-name } obair-rannsachaidh a ruith.
+policy-DisableForgetButton = Na ceadaich cothrom air a’ phutan “Dìochuimhnich”.
+policy-DisableFormHistory = Na cuimhnich eachdraidh nan lorg is nam foirmean.
+policy-DisableMasterPasswordCreation = Ma thagh thu true, cha ghabh maighstir facail-fhaire a chruthachadh.
+policy-DisablePocket = Cuir à comas an gleus a shàbhaileas duilleagan-lìn ann am Pocket.
+policy-DisablePrivateBrowsing = Cuir am brabhsadh prìobhaideach à comas.
