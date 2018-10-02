@@ -12,7 +12,7 @@ delete-submitted-description = Ця дія вилучить список від�
 crashes-unsubmitted-label = Не надіслані звіти про збої
 id-heading = ID звіту
 date-crashed-heading = Дата збою
-submit-crash-button-label = Відправити
+submit-crash-button-label = Надіслати
 # This text is used to replace the label of the crash submit button
 # if the crash submission fails.
 submit-crash-button-failure-label = Не вдалося
