@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "Askar aɣelsan d askar amaẓlay n &brandShortName; i yezemren ad yettwaseqdec akken ad ifru uguren.">
 <!ENTITY safeModeDescription4.label   "Izegrar d iɣewwaṛen-inek udmawanen ad reremden kra n wakud.">
 
+<!ENTITY safeModeDescription5.label   "Izegrar-inek akked iƐvewwaṛen n usagen ad ttwasensen  i kra n wakud, akked timahalin &brandShortName; zemrent ur teddunt ara akka tura.">
+
 <!ENTITY refreshProfileInstead.label  "Tzemreḍ daɣen ad teffɣeḍ seg uskar aɣelsan udiɣ ad tsenkreḍ aseggem awurman n &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->

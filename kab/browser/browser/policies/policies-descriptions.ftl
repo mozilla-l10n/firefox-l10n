@@ -58,6 +58,7 @@ policy-InstallAddonsPermission = Sireg asebded n izegrar di kra n ismal web.
 policy-NoDefaultBookmarks = Sens timerna n tecraḍ n isebtar s wudem imezwer yettunefken akked { -brand-short-name }, akked tecraḍ n isebtar tuḥricin (Yettwarzan aṭas, tibzimin n melmi kan). Awennit: tasertit-agi ad teddu akken ilaq ticki tettwarmed send asenker amenzu n umaƔnu.
 policy-OfferToSaveLogins = Seddu iɣewwaṛen akken ad tsirgeḍ { -brand-short-name } ad imud cfawat n unekcum akked awalen uffiren,ama azalen iseḥan am wid ur neseḥa ad ttwaqeblen.
 policy-OverrideFirstRunPage = Beddel asebter amezwaru n uskar. Sbadu tasertit d tilemt ma tebɣiḍ ad tsenseḍ asebter amezwaru n uskar.
+policy-OverridePostUpdatePage = Beddel asebter "Acu-t amaynut" seld aleqqem. sbadu tasertit d tilemt ma tebɣiḍ ad tsenseḍ  asebter n uleqqem.
 policy-Permissions = Swel tisirag i tkamirat, asawaḍ, adig akked ilɣa.
 policy-PopupBlocking = Sireg kra n ismal web ad skanayen Isfuyla udhimens wudem amezwer.
 policy-Proxy = Swel iɣewwaṛen n upṛuksi.
