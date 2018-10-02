@@ -17,4 +17,7 @@ onboarding-start-browsing-button-label = Začnite z brskanjem
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Zasebno brskanje
+onboarding-private-browsing-text = Brskajte sami. Zasebno brskanje z zavračanjem vsebine zavrača spletne sledilce, ki vam sledijo na spletu.
+onboarding-screenshots-title = Posnetki zaslona
+onboarding-screenshots-text = Ustvarjajte, shranjujte in delite posnetke zaslona – ne da bi zapustili { -brand-short-name }. Med brskanje zajemite celotno stran ali njen del, ter jo shranite na spletu za preprost dostop in deljenje.
 onboarding-addons-title = Dodatki
