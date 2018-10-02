@@ -667,6 +667,9 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = Тек жекелік терезелерінде
     .accesskey = е
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Трекерлер
+    .accesskey = к
 
 ## Privacy Section - Tracking
 
