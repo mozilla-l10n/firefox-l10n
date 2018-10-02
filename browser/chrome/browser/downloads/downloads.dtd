@@ -46,6 +46,7 @@
      Width of the Downloads Panel expressed using a CSS unit. The longest labels
      that should fit are usually those of in-progress and blocked downloads.
      -->
+<!ENTITY downloads.width                  "80ch">
 
 <!ENTITY cmd.pause.label                  "Premor">
 <!ENTITY cmd.pause.accesskey              "o">

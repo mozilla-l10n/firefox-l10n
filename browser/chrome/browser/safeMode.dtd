@@ -8,8 +8,9 @@
 <!ENTITY startSafeMode.label          "Začni v varnem načinu">
 <!ENTITY refreshProfile.label         "Osveži &brandShortName;">
 
-<!ENTITY safeModeDescription3.label   "Varni način je poseben način delovanja &brandShortName;a, primeren predvsem za reševanje problemov.">
+<!ENTITY safeModeDescription3.label   "Varni način je poseben način delovanja &brandShortName;a, pripraven za odpravljanje težav.">
 <!ENTITY safeModeDescription4.label   "Vaši dodatki in nastavitve bodo začasno onemogočeni.">
+
 
 <!ENTITY refreshProfileInstead.label  "Odpravljanje težav lahko preskočite in poskusite osvežiti &brandShortName;.">
 
