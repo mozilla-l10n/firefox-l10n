@@ -23,3 +23,4 @@ onboarding-screenshots-text = Hartu, gorde eta partekatu pantaila-argazkiak { -b
 onboarding-addons-title = Gehigarriak
 onboarding-addons-text = Gehitu eginbideak { -brand-short-name }(r)i, honek zuretzako gehiago egin dezan. Alderatu salneurriak, begiratu eguraldiaren iragarpena edo adierazi zure izaera pertsonalizatutako itxura batekin.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Nabigatu azkarrago, argiago edo seguruago iragarkiak blokeatzen dituzten Ghostery-ren tankerako gehigarriekin.
