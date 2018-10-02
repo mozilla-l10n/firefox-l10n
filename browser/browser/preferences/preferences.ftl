@@ -118,7 +118,7 @@ startup-header = Starto
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Permesi ke { -brand-short-name } kaj Firefox funkciu samtempe
-use-firefox-sync = Konsileto: tio ĉi uzas apartajn profilojn. Uzu Speguli por dividi datumojn inter ili.
+use-firefox-sync = Konsileto: tio ĉi uzas apartajn profilojn. Uzu { -sync-brand-short-name } por dividi datumojn inter ili.
 get-started-not-logged-in = Komenci seancon en { -sync-brand-short-name }…
 get-started-configured = Malfermi preferojn de { -sync-brand-short-name }
 always-check-default =
@@ -619,10 +619,6 @@ sitedata-block-trackers-option =
     .label = Nerektaj spuriloj
 sitedata-block-unvisited-option =
     .label = Kuketoj el nevizititaj retejoj
-sitedata-block-all-third-parties-option =
-    .label = Ĉiuj nerektaj kuketoj
-sitedata-block-always-option =
-    .label = Ĉiuj kuketoj (tio povas misfunkciigi kelkajn retejojn)
 sitedata-clear =
     .label = Viŝi datumojn…
     .accesskey = V
@@ -665,26 +661,6 @@ content-blocking-toggle-label-on = Ŝaltita
 content-blocking-toggle-label-off = Malŝaltita
     .accesskey = l
 content-blocking-category-label = Elektu, kion bloki
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Malrapide ŝargatajn spurilojn
-    .accesskey = M
-content-blocking-fastblock-description = Bloki nerektan enhavon kiu bezonas pli ol kvin sekundoj por ŝargiĝi
-content-blocking-fastblock-option-enabled =
-    .label = Ĉiam bloki
-content-blocking-fastblock-option-disabled =
-    .label = Neniam bloki
-content-blocking-tracking-protection-label = Spurilojn
-    .accesskey = S
-content-blocking-tracking-protection-description = Bloki ĉiujn konatajn spurilojn (Rimarko: tio povus ankaŭ malhelpi la ŝargadon de kelkaj paĝoj).
-content-blocking-tracking-protection-option-enabled =
-    .label = Ĉiam bloki
-content-blocking-tracking-protection-option-pbm =
-    .label = Bloki nur en privataj fenestroj
-content-blocking-tracking-protection-option-disabled =
-    .label = Neniam bloki
-content-blocking-tracking-protection-change-blocklist = Ŝanĝi liston de blokado…
 
 ## Privacy Section - Tracking
 
