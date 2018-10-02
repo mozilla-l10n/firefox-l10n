@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -105,17 +97,8 @@ is-not-default = { -brand-short-name } trenutno nije vaš zadani preglednik
 set-as-my-default-browser =
     .label = Postavi kao zadano…
     .accesskey = d
-startup-page = Kad se { -brand-short-name } pokrene
-    .accesskey = K
-startup-user-homepage =
-    .label = Prikaži vašu početnu stranicu
-startup-blank-page =
-    .label = Prikaži praznu stranicu
-startup-prev-session =
-    .label = Prikaži prozore i kartice od prošlog puta
 disable-extension =
     .label = Onemogući dodatak
-home-page-header = Početna stranica
 tabs-group-header = Kartice
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab kruži kroz kartice redosljedom zadnje korištenih
@@ -235,7 +218,6 @@ play-drm-content =
 play-drm-content-learn-more = Saznajte više
 update-application-title = { -brand-short-name } dopune
 update-application-description = Ažurirajte { -brand-short-name } kako bi imali najbolje preformanse, stabilnost i sigurnost.
-update-application-info = Inačica { $version } <a>Što je novo</a>
 update-application-version = Inačica { $version } <a data-l10n-name="learn-more">Što je novo</a>
 update-history =
     .label = Prikaži povijest ažuriranja…
@@ -271,7 +253,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Granice procesiranja sadržaja
     .accesskey = G
 performance-limit-content-process-enabled-desc = Dodatni procesi sadržaja mogu poboljšati performanse kada koristite više kartica, ali će koristiti i više memorije.
-performance-limit-content-process-disabled-desc = Izmjena broja procesa sadržaja je moguća samo s višeprocesnim { -brand-short-name }om. <a>Saznajte kako provjeriti da li je više procesa omogućeno.</a>
 performance-limit-content-process-blocked-desc = Izmjena broja procesa sadržaja je moguća samo s višeprocesnim { -brand-short-name }om. <a data-l10n-name="learn-more">Saznajte kako provjeriti da li je više procesa omogućeno.</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -323,9 +304,6 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = š
-restore-default =
-    .label = Vrati na uobičajeno
-    .accesskey = j
 
 ## Search Section
 
@@ -477,9 +455,6 @@ history-dontremember-description = { -brand-short-name } će koristiti iste post
 history-private-browsing-permanent =
     .label = Uvijek koristi privatni način pretraživanja
     .accesskey = v
-history-remember-option =
-    .label = Zapamti povijest pretraživanja i preuzimanja
-    .accesskey = r
 history-remember-search-option =
     .label = Zapamti povijest traženja i formi
     .accesskey = f
@@ -519,6 +494,9 @@ addressbar-locbar-openpage-option =
     .label = Otvori kartice
     .accesskey = O
 addressbar-suggestions-settings = Promijenite postavke za prijedloge tražilica
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
@@ -589,7 +567,7 @@ collection-header = { -brand-short-name } korištenje i skupljanje podataka
 collection-description = Težimo da vam omogućimo izbor i prikupljamo samo onoliko koliko nam treba da omogućimo i unaprijedimo { -brand-short-name } za sve. Uvijek pitamo za dozvolu prije nego li počmemo primati osobne informacije.
 collection-privacy-notice = Politika privatnosti
 collection-health-report =
-    .label = Dozvolite da { -brand-short-name } šalje tehničke i podatke interakcije Mozilli
+    .label = Dozvolite da { -brand-short-name } šalje tehničke podatke i podatke interakcije { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Saznajte više
 # This message is displayed above disabled data sharing options in developer builds
