@@ -16,4 +16,4 @@
 <!ENTITY caseSensitive.tooltiptext "Търсене със съвпадение на регистъра на буквите">
 <!ENTITY entireWord.label "Цели думи">
 <!ENTITY entireWord.accesskey "д">
-<!ENTITY entireWord.tooltiptext "Търси само цели думи">
+<!ENTITY entireWord.tooltiptext "Търсене само на цели думи">

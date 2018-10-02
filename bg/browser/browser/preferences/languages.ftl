@@ -5,6 +5,9 @@
 languages-window =
     .title = Езици
     .style = width: 40em
+webpage-languages-window =
+    .title = Настройки на езика на страницата
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Някои страници се предлагат на повече от един език. Подредете езиците, на които желаете такива страници да бъдат показвани, в реда на вашето предпочитание
@@ -38,3 +41,6 @@ languages-code-format =
     .label = { $locale } [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Настройки не езика на { -brand-short-name }
+    .style = width: 40em
