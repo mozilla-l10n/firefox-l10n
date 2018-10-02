@@ -11,6 +11,7 @@
 <!ENTITY safeModeDescription3.label   "Varni način je poseben način delovanja &brandShortName;a, pripraven za odpravljanje težav.">
 <!ENTITY safeModeDescription4.label   "Vaši dodatki in nastavitve bodo začasno onemogočeni.">
 
+<!ENTITY safeModeDescription5.label   "Vaši dodatki in prilagojene nastavitve bodo začasno onemogočene, nekatere funkcije &brandShortName;a pa morda ne bodo delovale kot trenutno.">
 
 <!ENTITY refreshProfileInstead.label  "Odpravljanje težav lahko preskočite in poskusite osvežiti &brandShortName;.">
 
