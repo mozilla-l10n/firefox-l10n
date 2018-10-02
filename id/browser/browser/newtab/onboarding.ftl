@@ -17,6 +17,9 @@ onboarding-start-browsing-button-label = Mulai Menjelajah
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Penjelajahan Pribadi
+onboarding-private-browsing-text = Jelajahi sendiri. Penjelajahan pribadi dengan pemblokiran konten akan memblokir pelacak daring yang mengikuti Anda di sekeliling web.
 onboarding-screenshots-title = Tangkapan Layar
 onboarding-screenshots-text = Ambil, simpan, dan bagikan tangkapan layar - tanpa meninggalkan { -brand-short-name }. Ambil tangkapan sebagian atau seluruh laman ketika menjelajah, kemudian simpan di web untuk kemudahan akses dan berbagi.
 onboarding-addons-title = Pengaya
+onboarding-addons-text = Tambahkan fitur-fitur lain yang membuat { -brand-short-name } bekerja lebih keras untuk Anda. Bandingkan harga, periksa cuaca, atau ungkapkan kepribadian Anda dengan tema yang disesuaikan.
+onboarding-ghostery-title = Ghostery
