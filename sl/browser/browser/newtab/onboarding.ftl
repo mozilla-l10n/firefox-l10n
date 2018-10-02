@@ -21,3 +21,5 @@ onboarding-private-browsing-text = Brskajte sami. Zasebno brskanje z zavračanje
 onboarding-screenshots-title = Posnetki zaslona
 onboarding-screenshots-text = Ustvarjajte, shranjujte in delite posnetke zaslona – ne da bi zapustili { -brand-short-name }. Med brskanje zajemite celotno stran ali njen del, ter jo shranite na spletu za preprost dostop in deljenje.
 onboarding-addons-title = Dodatki
+onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Brskajte hitreje, pametneje in varneje z razširitvami, kot je Ghostery, orodje za zavračanje nadležnih oglasov.
