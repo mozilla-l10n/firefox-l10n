@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Sljedeći">
 
 <!ENTITY firstrun_tabqueue_title "Poveznice">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Uključi kartice na čekanju">
-<!ENTITY firstrun_tabqueue_subtext_off "Spremi poveznice za kasnije u &brandShortName; kada pritisnete na njih u drugim aplikacijama.">
-
-<!ENTITY firstrun_tabqueue_message_on "Uspjeh!">
-<!ENTITY firstrun_tabqueue_subtext_on "Uvijek možete isključiti ovu mogućnost u &settings; pod &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Članci">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "Ponovno pokreni &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Pretražite ili upišite adresu">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Vrati kartice, uštede na prijenosu podataka, alati za ravijatelje">
 <!ENTITY pref_category_notifications "Obavijesti">
-<!ENTITY pref_category_notifications_summary "Nove značajke, ažuriranja stranice">
 <!ENTITY pref_category_notifications_summary2 "Nove mogućnosti, preporuke proizvoda">
 <!ENTITY pref_developer_remotedebugging_usb "Udaljeno otklanjanje grešaka putem USB-a">
 <!ENTITY pref_developer_remotedebugging_wifi "Udaljeno otklanjanje grešaka putem Wi-Fi">
@@ -907,3 +899,8 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "&vendorShortName; lokacijska usluga">
 <!ENTITY download_notification_channel "Preuzimanja">
+<!ENTITY media_notification_channel "Reproduciranje medija">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; push obavijesti">
+<!ENTITY updater_notification_channel "Ažuriranja aplikacija">
+<!ENTITY synced_tabs_notification_channel "Sinkronizirane kartice">
