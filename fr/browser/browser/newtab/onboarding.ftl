@@ -16,6 +16,7 @@ onboarding-start-browsing-button-label = Commencer la navigation
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Navigation privée
+onboarding-private-browsing-text = Naviguez à l’abri des regards. La navigation privée avec blocage de contenu arrête les traqueurs qui vous pistent partout sur le Web.
 onboarding-screenshots-title = Captures d’écran
 onboarding-screenshots-text = Prenez des captures d’écran, enregistrez-les et partagez-les sans quitter { -brand-short-name }. Capturez une zone de la page ou la page entière pendant que vous naviguez. Enregistrez ensuite votre capture en ligne pour y accéder facilement et la partager.
 onboarding-addons-title = Modules complémentaires
