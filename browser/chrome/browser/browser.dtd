@@ -448,6 +448,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Кеңейтуді басқару">
 <!ENTITY customizeMenu.manageExtension.accesskey "е">
 
+<!ENTITY customizeMenu.removeExtension.label "Кеңейтуді өшіру">
 <!ENTITY customizeMenu.removeExtension.accesskey "ш">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -949,6 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Бұғаттауды қосу…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Барлық анықталған трекерлер">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -961,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Бұғаттауды қосу…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Үшінші жақты cookies файлдары">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
@@ -971,6 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Бұғаттауды қосу…">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Мәселені хабарлау">
 <!ENTITY contentBlocking.breakageReportView.label "Мәселелерді хабарлау">

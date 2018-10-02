@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Жекелік шолу">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Жекелік шолу терезесін ашу керек пе?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Сіз қазір жекелік шолу терезесінде емессіз.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Жекелік шолу режиміндегі терезені ашу">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "е">
@@ -25,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " келесіні:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "жүктемелер">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "бетбелгілер">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "көшіріп алынған мәтін">
 <!ENTITY aboutPrivateBrowsing.note.before                "Жекелік шолу ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "сізді интернет желісінде анонимды">
 <!ENTITY aboutPrivateBrowsing.note.after                 " етпейді. Жұмыс берушіңіз немесе интернет провайдеріңіз сонда да сіз қараған беттер тарихын біле алады.">
@@ -35,3 +31,5 @@
 <!ENTITY trackingProtection.title                        "Бақылаудан қорғаныс">
 <!ENTITY trackingProtection.description2                 "Кейбір веб-сайттар сіздің интернеттегі белсенділігіңізді бақылай алатын бақылаушыларды қолданады. Бақылаудан қорғанысты қолданатын Firefox сіздің шолу әрекеттеріңіз туралы ақпаратты жинайтын біраз бақылаушыларды блоктай алады.">
 <!ENTITY trackingProtection.startTour1                   "Бұл қалай жұмыс жасайтынын қарау">
+
+<!ENTITY contentBlocking.title                           "Құраманы бұғаттау">
