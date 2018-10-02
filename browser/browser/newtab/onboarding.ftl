@@ -23,3 +23,4 @@ onboarding-screenshots-text = Ambil, simpan, dan bagikan tangkapan layar - tanpa
 onboarding-addons-title = Pengaya
 onboarding-addons-text = Tambahkan fitur-fitur lain yang membuat { -brand-short-name } bekerja lebih keras untuk Anda. Bandingkan harga, periksa cuaca, atau ungkapkan kepribadian Anda dengan tema yang disesuaikan.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Jelajahi lebih cepat, lebih cerdas, atau lebih aman dengan ekstensi seperti Ghostery, yang memungkinkan Anda memblokir iklan-iklan yang menjengkelkan.
