@@ -22,4 +22,4 @@ findbar-case-sensitive =
 findbar-entire-word =
     .label = Цели думи
     .accesskey = д
-    .tooltiptext = Търси само цели думи
+    .tooltiptext = Търсене на цели думи

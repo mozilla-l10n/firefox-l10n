@@ -70,3 +70,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Разрешаване на DNS през HTTPS
     .accesskey = р
+connection-dns-over-https-url = Адрес
+    .accesskey = а
+    .tooltiptext = Адрес за запитване на DNS през HTTPS
