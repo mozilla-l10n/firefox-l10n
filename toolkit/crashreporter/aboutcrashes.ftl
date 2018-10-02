@@ -4,6 +4,7 @@
 
 crash-reports-title = Құлау хабарламалары
 clear-all-reports-label = Барлық хабарлауларды өшіру
+delete-button-label = Барлығын тазарту
 delete-confirm-title = Сіз шынымен осыны қалайсыз ба?
 delete-confirm-description = Бұл әрекеттің нәтижесінде барлық хабарлар қайтымсыз жойылады.
 crashes-unsubmitted-label = Құлау туралы жіберілмеген хабарламалар
