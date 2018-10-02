@@ -29,9 +29,17 @@ search-input-box =
             [windows] Pronađi u Mogućnostima
            *[other] Pronađi u Postavkama
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Vaša organizacija je onemogućila mogućnost promjene nekih opcija.
+       *[other] Vaša organizacija je onemogućila mogućnost promjene nekih postavki.
+    }
 pane-general-title = Osnovno
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = Početna stranica
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Traži
 category-search =
     .tooltiptext = { pane-search-title }
@@ -50,9 +58,11 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } se mora ponovno pokrenuti da bi se omogućila ova mogućnost.
 feature-disable-requires-restart = { -brand-short-name } se mora ponovno pokrenuti da bi se onemogućila ova mogućnost
 should-restart-title = Ponovno pokreni { -brand-short-name }
 should-restart-ok = Ponovno pokreni { -brand-short-name } sada
+cancel-no-restart-button = Otkaži
 restart-later = Ponovno pokreni poslije
 
 ## Extension Control Notifications
