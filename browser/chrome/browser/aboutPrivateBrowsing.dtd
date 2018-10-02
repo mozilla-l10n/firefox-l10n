@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Privat nettlesing">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Åpne et privat vindu?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Du er for tiden ikke i et privat vindu.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Åpne et privat vindu">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "Å">
@@ -25,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " dine:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "nedlastinger">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "bokmerker">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "kopiert tekst">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privat nettlesing ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "gjør deg ikke anonym">
 <!ENTITY aboutPrivateBrowsing.note.after                 " på nettet. Arbeidsgiveren eller Internettleverandøren din kan fortsatt se hvilke sider du besøker.">
@@ -35,3 +31,5 @@
 <!ENTITY trackingProtection.title                        "Sporingsbeskyttelse">
 <!ENTITY trackingProtection.description2                 "Noen nettsider bruker sporere som kan overvåke aktiviteten din over hele nettet. Med sporingsvern vil Firefox blokkere mange sporere som kan samle inn informasjon om surfevanene dine.">
 <!ENTITY trackingProtection.startTour1                   "Se hvordan dette virker">
+
+<!ENTITY contentBlocking.title                           "Innholdsblokkering">
