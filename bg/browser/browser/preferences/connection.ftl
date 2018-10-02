@@ -67,3 +67,6 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = Посредник за DNS при използване на SOCKS v5
     .accesskey = D
+connection-dns-over-https =
+    .label = Разрешаване на DNS през HTTPS
+    .accesskey = р
