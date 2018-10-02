@@ -30,3 +30,10 @@ cfr-doorhanger-extension-rating =
             [one] { $total } звезда
            *[other] { $total } звезди
         }
+# Variables:
+#   $total (Number) - The total number of users using the add-on
+cfr-doorhanger-extension-total-users =
+    { $total ->
+        [one] { $total } потребител
+       *[other] { $total } потребителя
+    }
