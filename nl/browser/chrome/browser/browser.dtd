@@ -23,6 +23,8 @@
 <!ENTITY  reloadTab.accesskey                "n">
 <!ENTITY  reloadAllTabs.label                "Alle tabbladen vernieuwen">
 <!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  selectAllTabs.label                "Alle tabbladen selecteren">
+<!ENTITY  selectAllTabs.accesskey            "b">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Tabblad dupliceren">
@@ -114,6 +116,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bladwijzer voor alle tabbladen maken…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Alle tabbladen selecteren">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "b">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Tabblad sluiten ongedaan maken">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "o">
 
@@ -199,6 +203,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Abonneren op deze pagina">
 <!ENTITY subscribeToPageMenuitem.label "Abonneren op deze pagina…">
+
 <!ENTITY addCurPagesCmd.label "Bladwijzer voor alle tabbladen maken…">
 <!ENTITY showAllBookmarks2.label "Alle bladwijzers tonen">
 <!ENTITY recentBookmarks.label "Recent aangemaakte bladwijzers">
