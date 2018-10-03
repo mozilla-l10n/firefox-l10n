@@ -31,3 +31,6 @@ policy-DisablePrivateBrowsing = Eipe’a kundaha ñemigua.
 policy-DisableProfileImport = Eipe’a poravorã mbohapeha egueru hag̃ua mba’ekuaarã ambue kundaháragui.
 policy-DisableProfileRefresh = Eipe’a votõ Myanyhẽjey { -brand-short-name } about:support kuatyaroguépe.
 policy-DisableTelemetry = Eipe'aite Telemetría.
+policy-DisplayBookmarksToolbar = Ehechauka Techaukaha rembipuru renda ijypykue rupi.
+policy-DisplayMenuBar = Ehechauka Poravorã renda ijypykue rupi.
+policy-DontCheckDefaultBrowser = Eipe’a kundahára jehechajey ijypykuéva oñepyrũvo tembiapo.
