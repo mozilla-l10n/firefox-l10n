@@ -46,6 +46,8 @@
 <!ENTITY reopenInContainer.accesskey "e">
 <!ENTITY bookmarkAllTabs.label "Tutte le schede nei segnalibri…">
 <!ENTITY bookmarkAllTabs.accesskey "T">
+<!ENTITY bookmarkTab.label "Aggiungi scheda ai segnalibri…">
+<!ENTITY bookmarkTab.accesskey "A">
 <!ENTITY undoCloseTab.label "Riapri scheda chiusa">
 <!ENTITY undoCloseTab.accesskey "s">
 <!ENTITY closeTab.label "Chiudi scheda">
@@ -78,6 +80,8 @@
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "R">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tutte le schede nei segnalibri…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Aggiungi schede selezionate ai segnalibri…">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Seleziona tutte le schede">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "u">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Riapri scheda chiusa">
