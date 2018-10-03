@@ -6,6 +6,8 @@ do-not-track-description = Указване на сайтовете, че не �
 do-not-track-learn-more = Научете повече
 do-not-track-option-default =
     .label = Само при използване на защита от проследяване
+do-not-track-option-default-content-blocking =
+    .label = Само когато { -brand-short-name } ограничава всички открити проследявания
 do-not-track-option-always =
     .label = Винаги
 pref-page =
@@ -637,6 +639,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Изключения…
     .accesskey = И
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Настройките за ограничаване на съдържанието забраняват промяна на настройките за бисквитки и данни на страници.
 
 ## Privacy Section - Address Bar
 
@@ -678,7 +684,11 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .accesskey = б
 content-blocking-fastblock-new-description = Ограничаване само на проследяванията, които бавят зареждането на страницата.
 content-blocking-tracking-protection-all-detected-trackers-label =
-    .label = Всички проследяващи елементи
+    .label = Всички открити проследявания
+    .accesskey = в
+content-blocking-tracking-protection-new-description = Ограничаване на всички известни проследявания (Може да доведе до незареждащи страници.)
+content-blocking-tracking-protection-option-always =
+    .label = Винаги
     .accesskey = в
 content-blocking-tracking-protection-option-private =
     .label = Само в поверителни прозорци
@@ -687,6 +697,12 @@ content-blocking-tracking-protection-change-block-list = Промяна спис
 content-blocking-third-party-cookies-label =
     .label = Бисквитки от трети страни
     .accesskey = т
+content-blocking-reject-trackers-description = Ограничаване на всички бисквитки от трети страни или само тези от проследявания.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Настройките на бисквитките и данните на страници забраняват промяна на настройките за бисквитките от трети страни.
 content-blocking-change-cookie-settings =
     .label = Настройки на бисквитките
     .accesskey = б

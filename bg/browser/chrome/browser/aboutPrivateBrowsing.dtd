@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Поверително разглеждане">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Отваряне на прозорец за поверително разглеждане?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "В момента не сте в поверителен прозорец.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Отваряне на поверителен прозорец">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "О">
@@ -25,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "изтеглянията">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "отметките">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "копираният текст">
 <!ENTITY aboutPrivateBrowsing.note.before                "Поверителното разглеждане ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "не ви прави анонимни">
 <!ENTITY aboutPrivateBrowsing.note.after                 " в Мрежата. Имайте предвид, че въпреки това вашият работодател или доставчик на Интернет биха могли да проследят кои страници посещавате.">
@@ -35,3 +31,6 @@
 <!ENTITY trackingProtection.title                        "Защита от проследяване">
 <!ENTITY trackingProtection.description2                 "Някои уеб страници наблюдават вашето поведение в Интернет. С помощта на защитата от проследяване Firefox блокира голяма част от тази тяхна способност да събират информация за вашето поведение.">
 <!ENTITY trackingProtection.startTour1                   "Вижте как работи">
+
+<!ENTITY contentBlocking.title                           "Ограничаване на съдържание">
+<!ENTITY contentBlocking.description                     "Някои страници използват проследявания, които могат да следят действията ви в интернет. В поверителен прозорец ограничаването на съдържание Firefox автоматично спира много от проследяванията, които вероятно събират данни за вашето поведение докато разглеждате.">
