@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "Üdvözöljük">
-<!ENTITY firstrun_urlbar_message2 "Köszönjük hogy a &brandShortName;ot választotta">
+<!ENTITY firstrun_urlbar_message2 "Köszönjük hogy a &brandShortName; böngészőt választotta">
 <!ENTITY firstrun_urlbar_subtext2 "Egy modern mobil böngésző a Mozillától, a nonprofit szervezettől, amely elkötelezett a szabad és nyílt web mellett.">
 <!ENTITY firstrun_panel_title_privacy "Adatvédelem">
 <!ENTITY firstrun_privacy_message "Böngésszen úgy, mintha senki sem figyelné">
 <!ENTITY firstrun_privacy_subtext "A követésvédelemmel ellátott privát böngészés blokkolja a követőket miközben böngészik, és azután sem jegyzi meg az előzményeket, ha befejezi a böngészést.">
 <!ENTITY firstrun_panel_title_customize "Testreszabás">
-<!ENTITY firstrun_customize_message "Tegye a sajátjává a &brandShortName;ot.">
-<!ENTITY firstrun_customize_subtext "Szabja testre a &brandShortName;ot kiegészítőkkel. Blokkolja a hirdetéseket, adjon hozzá funkciókat, vagy válasszon egy témát, amely tükrözi a személyiségét.">
+<!ENTITY firstrun_customize_message "Tegye a sajátjává a &brandShortName; böngészőt.">
+<!ENTITY firstrun_customize_subtext "Szabja testre a &brandShortName; böngészőt kiegészítőkkel. Blokkolja a hirdetéseket, adjon hozzá funkciókat, vagy válasszon egy témát, amely tükrözi a személyiségét.">
 <!ENTITY firstrun_bookmarks_title "Előzmény">
 <!ENTITY firstrun_bookmarks_message "Kedvencei a középpontban">
 <!ENTITY firstrun_bookmarks_subtext "A keresés könyvjelzői és előzményei közt is szétnéz.">
@@ -19,7 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Kapcsolja ki a képeket az adatforgalommal való spóroláshoz.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message2 "Folytassa ott, ahol abbahagyta.">
-<!ENTITY firstrun_sync_subtext2 "Használja a Syncet a könyjzők, jelszavak, és más dolgok megtalálására, amelyeket a &brandShortName;ba ment az összes eszközén.">
+<!ENTITY firstrun_sync_subtext2 "Használja a Syncet a könyjzők, jelszavak, és más dolgok megtalálására, amelyeket a &brandShortName; böngészőbe ment az összes eszközén.">
 <!ENTITY firstrun_signin_message "Kapcsolódjon, vágjon bele">
 <!ENTITY firstrun_signin_button "Jelentkezzen be a Syncbe">
 <!ENTITY  onboard_start_button_browser "Böngészés megkezdése">
@@ -713,7 +713,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "Könyvjelzők és előzmények">
 
  <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Frissítés érhető el a &brandShortName;hoz">
+<!ENTITY updater_start_title2 "Frissítés érhető el a &brandShortName; böngészőhöz">
 <!ENTITY updater_start_select2 "Koppintson a letöltéshez">
 
 <!ENTITY updater_downloading_title2 "A &brandShortName; letöltése">
@@ -721,13 +721,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Koppintson a frissítés alkalmazásához a letöltés után">
 <!ENTITY updater_downloading_retry2 "Koppintson az újraindításhoz">
 
-<!ENTITY updater_apply_title3 "Frissítés érhető el a &brandShortName;hoz">
+<!ENTITY updater_apply_title3 "Frissítés érhető el a &brandShortName; böngészőhöz">
 <!ENTITY updater_apply_select3 "Érintse meg a telepítéshez">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Fájlok és frissítések letöltéséhez engedélyezze a tároló elérését a &brandShortName;nak.">
+<!ENTITY updater_permission_text "Fájlok és frissítések letöltéséhez engedélyezze a tároló elérését a &brandShortName; böngészőnek.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Engedélyezés">
 
