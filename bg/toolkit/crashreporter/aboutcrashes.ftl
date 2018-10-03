@@ -4,12 +4,20 @@
 
 crash-reports-title = Доклади за сривове
 clear-all-reports-label = Премахване на всички
+delete-button-label = Изтриване на всички
 delete-confirm-title = Сигурни ли сте?
-delete-confirm-description = Така ще изтриете всички доклади, а това е необратимо.
+delete-confirm-description = Така всички доклади ще бъдат изтрити, а това е необратимо.
+delete-unsubmitted-description = Така всички неизпратени доклади ще бъдат изтрити, а това е необратимо.
+delete-submitted-description = Така списъкът на изпратени доклади за срив ще бъде изчистен, но не и изпратените данни. Това действие е необратимо.
 crashes-unsubmitted-label = Неизпратени доклади за срив
 id-heading = Идентификатор на доклад
 date-crashed-heading = Дата на срива
+submit-crash-button-label = Изпращане
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Неуспешно
 crashes-submitted-label = Изпратени доклади за срив
 date-submitted-heading = Дата на изпращане
+view-crash-button-label = Преглед
 no-reports-label = Няма изпратени доклади за срив.
 no-config-label = Приложението не е настроено да показва доклади за сривове. За това настройката <code>breakpad.reportURL</code> трябва да бъде зададена.
