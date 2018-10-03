@@ -45,3 +45,6 @@ policy-FlashPlugin = Emoneĩ térã embotove mboguejyrã’i Flash jepuru.
 policy-HardwareAcceleration = Japúramo, eipe’a hardware mbopya’eha.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Emopyenda ha ejoko ejaposẽramo kuatiarogue ñepyrũha.
+policy-InstallAddonsPermission = Emoneĩ ndahetái ñanduti rendápe omboguejývo moimbaha.
+policy-Proxy = Emboheko proxy mohendahavusu.
+policy-SanitizeOnShutdown = Embogue opaite kundaha mba’ekuaarã emboguekuévo.
