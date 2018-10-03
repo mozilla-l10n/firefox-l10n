@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Colecție">
+<!ENTITY places.library.title  "Bibliotecă">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organizare">
@@ -73,15 +73,11 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Reîncarcă marcajul actualizabil">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
-<!ENTITY cmd.moveBookmarks.label                  "Mută…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "Nume">
 <!ENTITY col.tags.label          "Etichete">
 <!ENTITY col.url.label           "Locație">
 <!ENTITY col.mostrecentvisit.label "Cea mai recentă vizită">
 <!ENTITY col.visitcount.label    "Număr de vizite">
-<!ENTITY col.description.label   "Descriere">
 <!ENTITY col.dateadded.label     "Adăugat">
 <!ENTITY col.lastmodified.label  "Ultima modificare">
 
@@ -102,6 +98,7 @@
 <!ENTITY detailsPane.more.accesskey "M">
 <!ENTITY detailsPane.less.label "Mai puțin">
 <!ENTITY detailsPane.less.accesskey "M">
+
 <!ENTITY detailsPane.selectAnItemText.description "Selectează un element pentru a-l vedea și a-i edita proprietățile">
 
 <!ENTITY view.label               "Vizualizare">
