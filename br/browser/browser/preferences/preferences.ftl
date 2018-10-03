@@ -31,8 +31,8 @@ search-input-box =
         }
 policies-notice =
     { PLATFORM() ->
-        [windows] Diweredekaet eo bet ho parregezh da gemmañ dibarzhioù 'zo. 
-       *[other] Diweredekaet eo bet ho parregezh da gemmañ gwellvezioù 'zo. 
+        [windows] Diweredekaet eo bet ho parregezh da gemmañ dibarzhioù 'zo.
+       *[other] Diweredekaet eo bet ho parregezh da gemmañ gwellvezioù 'zo.
     }
 pane-general-title = Hollek
 category-general =
@@ -328,6 +328,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proksi ar rouedad
+network-settings-title = Arventennoù ar Genrouedad
 network-proxy-connection-description = Kefluniañ an doare da gennaskañ ouzh ar genrouedad implijet gant { -brand-short-name }.
 network-proxy-connection-learn-more = Gouzout hiroc'h
 network-proxy-connection-settings =
@@ -526,7 +527,7 @@ privacy-header = Prevezted ar merdeer
 
 forms-header = Furmskridoù & Gerioù-tremen
 forms-ask-to-save-logins =
-    .label = Goulenn enrollañ an titouroù kennaskañ evit al lec'hiennoù 
+    .label = Goulenn enrollañ an titouroù kennaskañ evit al lec'hiennoù
     .accesskey = G
 forms-exceptions =
     .label = Nemedennoù…
@@ -566,9 +567,6 @@ history-dontremember-description = { -brand-short-name } a implijo ar memes arve
 history-private-browsing-permanent =
     .label = Atav arverañ mod merdeiñ prevez
     .accesskey = m
-history-remember-option =
-    .label = Derc'hel soñj ma roll istor ha ma fellgargadurioù
-    .accesskey = r
 history-remember-browser-option =
     .label = Derc'hel soñj eus ar roll-istor merdeiñ ha pellgargañ
     .accesskey = D
@@ -656,26 +654,6 @@ content-blocking-toggle-label-on = ON
 content-blocking-toggle-label-off = DIWEREDEKAET
     .accesskey = D
 content-blocking-category-label = Dibabit petra stankañ
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Gorrekaat an elfennoù heuliañ
-    .accesskey = G
-content-blocking-fastblock-description = Stankañ endalc'hadoù estren a gemer hiroc'h eget 5 eilenn da gargañ.
-content-blocking-fastblock-option-enabled =
-    .label = Stankañ bepred
-content-blocking-fastblock-option-disabled =
-    .label = Na stankañ biken
-content-blocking-tracking-protection-label = Heulierien
-    .accesskey = H
-content-blocking-tracking-protection-description = Stankañ an holl heulierien (Evezhiadenn: gallout a ra mirout pajennoù 'zo da gargañ).
-content-blocking-tracking-protection-option-enabled =
-    .label = Stankañ bepred
-content-blocking-tracking-protection-option-pbm =
-    .label = Stankañ er prenestroù prevez hepken
-content-blocking-tracking-protection-option-disabled =
-    .label = Na stankañ biken
-content-blocking-tracking-protection-change-blocklist = Kemmañ ar roll stankañ...
 
 ## Privacy Section - Tracking
 

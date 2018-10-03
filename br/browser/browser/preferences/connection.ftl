@@ -67,3 +67,6 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = DNS Proksi p'eo arveret SOCKS v5
     .accesskey = d
+connection-dns-over-https-url = URL
+    .accesskey = U
+    .tooltiptext = URL evit diskoulmañ an DNS dreist an HTTPS

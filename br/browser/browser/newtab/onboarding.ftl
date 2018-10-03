@@ -17,3 +17,6 @@ onboarding-start-browsing-button-label = Stagañ da verdeiñ
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Merdeiñ prevez
+onboarding-addons-title = Askouezhioù
+onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Merdeit herrekoc'h, en ur mod speredekoc'h, pe c'hoazh gant muioc'h a surded gant lugantoù evel Ghostery hag a ro tro deoc'h da stankañ ar bruderezhioù aloubus.
