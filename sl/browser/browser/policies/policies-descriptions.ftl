@@ -52,6 +52,7 @@ policy-OverrideFirstRunPage = Preglasi stran prvega zagona. Če želite onemogo�
 policy-OverridePostUpdatePage = Preglasi stran "Kaj je novega", ki se odpre po posodobitvi. Če želite onemogočiti prikaz strani po posodobitvi, nastavite pravilnik na prazno vrednost.
 policy-Permissions = Nastavi dovoljenja za kamero, mikrofon, lokacijo in obvestila.
 policy-PopupBlocking = Določenim spletnim stranem dovoli privzeto prikazovanje pojavnih oken.
+policy-Proxy = Nastavi posrednika.
 policy-SanitizeOnShutdown = Ob izhodu počisti vse podatke brskanja.
 policy-SearchBar = Nastavi privzet položaj vrstice za iskanje. Uporabnik ga lahko še vedno prilagodi.
 # “format” refers to the format used for the value of this policy. See also:
