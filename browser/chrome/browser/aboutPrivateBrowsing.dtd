@@ -33,3 +33,4 @@
 <!ENTITY trackingProtection.startTour1                   "Ver cómo funciona">
 
 <!ENTITY contentBlocking.title                           "Bloqueo de contenido">
+<!ENTITY contentBlocking.description                     "Algunos sitios web usan rastreadores que pueden monitorear tu actividad a través de Internet. En las ventanas privadas, el bloqueo de contenido de Firefox bloquea automáticamente muchos rastreadores que pueden recolectar información acerca de tu comportamiento de navegación.">
