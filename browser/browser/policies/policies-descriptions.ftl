@@ -10,7 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-AppUpdateURL = Atur URL pemutakhiran aplikasi yang disesuaikan.
+policy-AppUpdateURL = Atur URL pemutakhiran aplikasi khusus
 policy-Authentication = Atur autentikasi terintegrasi untuk situs lain yang mendukung.
 policy-BlockAboutAddons = Blokir akses ke Pengelola Pengaya (about:addons).
 policy-BlockAboutConfig = Blokir akses ke laman about:config.
@@ -21,7 +21,7 @@ policy-Cookies = Izinkan atau tolak situs untuk menyetel kuki.
 policy-DisableAppUpdate = Cegah peramban untuk memperbarui.
 policy-DisableBuiltinPDFViewer = Nonaktifkan PDF.js, penampil PDF bawaan di { -brand-short-name }.
 policy-DisableDeveloperTools = Blokir akses ke alat pengembang.
-policy-DisableFeedbackCommands = Nonaktifkan perintah untuk mengirim umpan balik dari menu Bantuan (Kirim Umpan Balik dan Laporkan Situs Tipuan).
+policy-DisableFeedbackCommands = Nonaktifkan perintah untuk mengirim umpan balik dari menu Bantuan (Kirim Saran dan Laporkan Situs Tipuan).
 policy-DisableFirefoxAccounts = Nonaktifkan layanan berbasis { -fxaccount-brand-name }, termasuk Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Nonaktifkan fitur Firefox Screenshots.
