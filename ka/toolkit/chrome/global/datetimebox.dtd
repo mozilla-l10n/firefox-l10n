@@ -20,13 +20,13 @@
 
 <!-- Placeholders for input type=date -->
 
-<!ENTITY date.year.placeholder "წელი yyyy">
-<!ENTITY date.month.placeholder "თვე mm">
-<!ENTITY date.day.placeholder "რიცხვი dd">
+<!ENTITY date.year.placeholder "წწწწ">
+<!ENTITY date.month.placeholder "თთ">
+<!ENTITY date.day.placeholder "რრ">
 
 <!-- Field labels for input type=date -->
 
-<!ENTITY date.year.label "წელიწადი">
+<!ENTITY date.year.label "წელი">
 <!ENTITY date.month.label "თვე">
 <!ENTITY date.day.label "დღე">
 
