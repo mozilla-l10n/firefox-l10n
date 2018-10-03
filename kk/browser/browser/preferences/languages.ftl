@@ -5,6 +5,9 @@
 languages-window =
     .title = Тілдер
     .style = width: 30em
+webpage-languages-window =
+    .title = Веб-парағының тіл баптаулары
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Кейбір веб-сайттар бірнеше тілдерде болуы мүмкін. Тілдердің ретін таңдаңыз
@@ -38,3 +41,7 @@ languages-code-format =
     .label = { $locale } [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } тіл баптаулары
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } бірінші тілді сіздің негізгі тілі ретінде көрсетеді, және қосымша тілдерді керек болған кезде олардың пайда болу ретімен көрсететін болады.
