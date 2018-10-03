@@ -34,6 +34,7 @@
 <!ENTITY calendar.unifinder.tree.priority.label            "Prioritas">
 <!ENTITY calendar.unifinder.tree.title.label               "Judul">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037;">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Urut berdasarkan &#37; selesai">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Mulai">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Selesai">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Jatuh Tempo">
