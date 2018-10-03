@@ -640,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Excepciones…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Tus ajustes en el bloqueo de contenido previenen cambios a los ajustes de cookies y datos de sitio.
 
 ## Privacy Section - Address Bar
 
@@ -673,6 +677,17 @@ content-blocking-toggle-label-on = ACTIVADO
 content-blocking-toggle-label-off = DESACTIVADO
     .accesskey = D
 content-blocking-category-label = Elige qué bloquear
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Rastreadores de carga lenta
+    .accesskey = S
+content-blocking-fastblock-new-description = Bloquea solo los rastreadores que impiden que las páginas carguen rápido.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Todos los rastreadores detectados
+    .accesskey = T
+content-blocking-tracking-protection-new-description = Bloquear todos los rastreadores conocidos. (Puede impedir que se carguen algunas páginas).
 content-blocking-tracking-protection-option-always =
     .label = Siempre
     .accesskey = A
