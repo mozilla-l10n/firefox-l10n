@@ -314,6 +314,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Zhvillues Web">
 <!ENTITY webDeveloperMenu.accesskey   "Z">
 
+<!ENTITY devtoolsRecordExecution.label "Regjistro Përmbushjen">
+<!ENTITY devtoolsSaveRecording.label "Ruaje Regjistrimin">
+<!ENTITY devtoolsReplayExecution.label "Riluaje Regjistrimin">
 
 <!ENTITY inspectContextMenu.label     "Shqyrtoje Elementin">
 <!ENTITY inspectContextMenu.accesskey "E">
@@ -324,6 +327,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "K">
 <!ENTITY newUserContext.label             "Skedë e Re Kontejneri">
 <!ENTITY newUserContext.accesskey         "o">
+<!ENTITY manageUserContext.label          "Administroni Kontejner">
+<!ENTITY manageUserContext.accesskey      "o">
 <!ENTITY newNavigatorCmd.label        "Dritare e Re">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "D">
@@ -443,6 +448,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Administroni Zgjerimin">
 <!ENTITY customizeMenu.manageExtension.accesskey "A">
 
+<!ENTITY customizeMenu.removeExtension.label "Hiqe Zgjerimin">
+<!ENTITY customizeMenu.removeExtension.accesskey "q">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -771,6 +778,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "U bë">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "Shfaqe përpunuesin kur bëhen ruajtje">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -934,6 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "E bllokuar">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -991,6 +1001,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblock3.label "Çaktivizoje Për Këtë Sajt">
 <!ENTITY trackingProtection.unblock3.accesskey "Ç">
 <!ENTITY trackingProtection.unblock4.label "Çaktivizoje Bllokimin Për Këtë Sajt">
+<!ENTITY trackingProtection.unblock4.accesskey "b">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -999,6 +1010,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block4.label "Aktivizoje Për Këtë Sajt">
 <!ENTITY trackingProtection.block4.accesskey "A">
 <!ENTITY trackingProtection.unblockPrivate4.label "Çaktivizoje Përkohësisht Bllokimin">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "b">
 <!ENTITY trackingProtection.block5.label "Aktivizoje Bllokimin Për Këtë Sajt">
 <!ENTITY trackingProtection.block5.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Ringarkoje Faqen">
