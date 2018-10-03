@@ -448,6 +448,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Управление на добавката">
 <!ENTITY customizeMenu.manageExtension.accesskey "д">
 
+<!ENTITY customizeMenu.removeExtension.label "Премахване на разширението">
+<!ENTITY customizeMenu.removeExtension.accesskey "в">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -948,7 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Спиране…">
 
-<!ENTITY contentBlocking.trackingProtection2.label "Всички проследяващи елементи">
+<!ENTITY contentBlocking.trackingProtection2.label "Всички открити проследявания">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -961,16 +963,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Спиране…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Бисквитки от трети страни">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Забраняване">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Спиране…">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Докладване на проблем">
 <!ENTITY contentBlocking.breakageReportView.label "Докладване на проблем">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Научете повече">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Адрес">
