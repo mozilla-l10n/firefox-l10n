@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " nde:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Ñemboguejy">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "techaukahakuéra">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "Moñe'ẽrã mbokuatiapyre">
 <!ENTITY aboutPrivateBrowsing.note.before                "Kundaha ñemi ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "nandeapói jehecha'ỹvaramo">
 <!ENTITY aboutPrivateBrowsing.note.after                 " ñandutípe. Ne ñanduti me'ẽha térã momba'apoha ikatu oikuaa gueteri mba'e kuatiaroguépe eikéra'e.">
@@ -30,3 +31,5 @@
 <!ENTITY trackingProtection.title                        "Tapykuereho ñemo'ã">
 <!ENTITY trackingProtection.description2                 "Oĩ ñandutirenda oiporúva tembipuru ohapykueho hag̃ua rejapóva ñandutivevépe. Ñemo'ã Tapykuehógui rupi Firefox ojokopaite umi nderapykuehoséva ani hag̃ua omyaty mba'ekuaarã nde rehegua ýrõ rejapóva rehegua.">
 <!ENTITY trackingProtection.startTour1                   "Ehecha mba'éichapa omba'apohína">
+
+<!ENTITY contentBlocking.title                           "Tetepy jejoko">
