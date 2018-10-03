@@ -42,6 +42,14 @@
 <!ENTITY sendPageToDevice.accesskey "I">
 <!ENTITY sendLinkToDevice.label "Invia link a dispositivo">
 <!ENTITY sendLinkToDevice.accesskey "I">
+<!ENTITY moveTabOptions.label "Sposta scheda">
+<!ENTITY moveTabOptions.accesskey "S">
+<!ENTITY moveSelectedTabOptions.label "Sposta schede">
+<!ENTITY moveSelectedTabOptions.accesskey "S">
+<!ENTITY moveToStart.label "Sposta all’inizio">
+<!ENTITY moveToStart.accesskey "z">
+<!ENTITY moveToEnd.label "Sposta alla fine">
+<!ENTITY moveToEnd.accesskey "f">
 <!ENTITY moveToNewWindow.label "Sposta in una nuova finestra">
 <!ENTITY moveToNewWindow.accesskey "f">
 <!ENTITY reopenInContainer.label "Riapri in contenitore">
