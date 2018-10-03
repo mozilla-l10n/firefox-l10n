@@ -34,3 +34,14 @@ policy-DisableTelemetry = Eipe'aite Telemetría.
 policy-DisplayBookmarksToolbar = Ehechauka Techaukaha rembipuru renda ijypykue rupi.
 policy-DisplayMenuBar = Ehechauka Poravorã renda ijypykue rupi.
 policy-DontCheckDefaultBrowser = Eipe’a kundahára jehechajey ijypykuéva oñepyrũvo tembiapo.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Embojuruja térã eipe’a tetepy jejoko ha ejoko ejaposérõnte.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Emboguejy, eipe’a térã ejoko jepysokue. Pe poravopyrã Ñemohenda ojapyhy URL kundaharape térã tape hechapyrãva. Umi poravopyrã pe’a ha joko oguereko jepysokue ID.
+policy-FlashPlugin = Emoneĩ térã embotove mboguejyrã’i Flash jepuru.
+policy-HardwareAcceleration = Japúramo, eipe’a hardware mbopya’eha.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Emopyenda ha ejoko ejaposẽramo kuatiarogue ñepyrũha.
