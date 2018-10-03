@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Ok!">
 <!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "Mai multe acțiuni">

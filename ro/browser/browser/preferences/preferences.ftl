@@ -271,7 +271,7 @@ update-application-version = Versiunea { $version } <a data-l10n-name="learn-mor
 update-history =
     .label = Afișează istoricul actualizărilor…
     .accesskey = p
-update-application-allow-description = Permite-i lui { -brand-short-name }
+update-application-allow-description = Permite ca { -brand-short-name }
 update-application-auto =
     .label = Să instaleze automat actualizări (recomandat)
     .accesskey = A
@@ -630,6 +630,10 @@ sitedata-block-trackers-option =
     .label = Urmăritori de la terți
 sitedata-block-unvisited-option =
     .label = Cookie-uri de la site-urile web nevizitate
+sitedata-block-all-third-party-option =
+    .label = Toate cookie-urile de la terți (poate împiedica funcționarea site-urilor web)
+sitedata-block-all-option =
+    .label = Toate cookie-urile (va împiedica funcționarea site-urilor web)
 sitedata-clear =
     .label = Șterge datele…
     .accesskey = l
@@ -639,6 +643,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Excepții…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Setările din blocarea de conținut împiedică modificările din setările pentru cookie-uri și datele site-urilor.
 
 ## Privacy Section - Address Bar
 
@@ -672,18 +680,45 @@ content-blocking-toggle-label-on = ACTIVAT
 content-blocking-toggle-label-off = DEZACTIVAT
     .accesskey = O
 content-blocking-category-label = Alege ceea ce să blochezi
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Urmăritori cu încărcare lentă
+    .accesskey = S
+content-blocking-fastblock-new-description = Blochează numai urmăritorii care împiedică încărcarea rapidă a paginilor.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Toți urmăritorii detectați
+    .accesskey = T
+content-blocking-tracking-protection-new-description = Blochează toți urmăritorii cunoscuți. (Poate împiedica încărcarea anumitor pagini.)
 content-blocking-tracking-protection-option-always =
     .label = Întotdeauna
     .accesskey = A
 content-blocking-tracking-protection-option-private =
     .label = Doar în ferestre private
     .accesskey = P
+content-blocking-tracking-protection-change-block-list = Modifică lista de blocare
+content-blocking-third-party-cookies-label =
+    .label = Cookie-uri de la terți
+    .accesskey = C
+content-blocking-reject-trackers-description = Blochează toate cookie-urile de la terți sau numai pe cele instalate de urmăritori.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Setările pentru cookie-uri și datele site-urilor împiedică modificările din setările pentru cookie-uri de la terți.
+content-blocking-change-cookie-settings =
+    .label = Modifică setările pentru cookie-uri
+    .accesskey = S
 content-blocking-reject-trackers-block-trackers-option-recommended =
     .label = Urmăritori (recomandat)
     .accesskey = k
 content-blocking-reject-trackers-block-trackers-option =
     .label = Urmăritori
     .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Toate cookie-urile (poate împiedica funcționarea site-urilor web)
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
@@ -774,7 +809,7 @@ collection-health-report =
     .accesskey = r
 collection-health-report-link = Află mai multe
 collection-studies =
-    .label = Permite-i lui { -brand-short-name } să instaleze și să realizeze studii
+    .label = Permite ca { -brand-short-name } să instaleze și să realizeze studii
 collection-studies-link = Vezi studiile { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
@@ -794,7 +829,7 @@ collection-backlogged-crash-reports-link = Află mai multe
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Securitate
-security-browsing-protection = Protecție privind conținutul înșelător și programele periculoase
+security-browsing-protection = Protecție împotriva conținutul înșelător și a programelor periculoase
 security-enable-safe-browsing =
     .label = Blochează conținutul periculos și înșelător
     .accesskey = B
@@ -803,7 +838,7 @@ security-block-downloads =
     .label = Blochează descărcările periculoase
     .accesskey = d
 security-block-uncommon-software =
-    .label = Avertizează despre programe nedorite sau suspecte
+    .label = Avertizează despre programe nedorite sau neobișnuite
     .accesskey = c
 
 ## Privacy Section - Certificates

@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = Șterge datele
     .style = width: 35em
-clear-site-data-description = Ștergerea tuturor cookie-urilor și datelor de pe site-urile stocate de { -brand-short-name } te poate deconecta de pe site-uri web și elimina conținutul web offline. Ștergerea datelor stocate în cache nu va afecta datele de autentificare.
+clear-site-data-description = Ștergerea tuturor cookie-urilor și a datelor de site-uri stocate de { -brand-short-name } te poate deconecta de pe site-urile web și va elimina conținutul web offline. Ștergerea datelor din cache nu va afecta datele de autentificare.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
