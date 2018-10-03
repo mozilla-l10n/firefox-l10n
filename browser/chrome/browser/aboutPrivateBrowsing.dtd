@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "descărcările">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "marcajele">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "text copiat">
 <!ENTITY aboutPrivateBrowsing.note.before                "Navigarea privată ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "nu te face anonim">
 <!ENTITY aboutPrivateBrowsing.note.after                 " pe internet. Angajatorul sau furnizorul de servicii internet pot să știe în continuare paginile pe care le vizitezi.">

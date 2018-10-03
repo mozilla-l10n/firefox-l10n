@@ -11,13 +11,13 @@ app-manager-remove =
 app-manager-handle-webfeeds = Următoarele aplicații pot fi folosite pentru fișiere fluxuri web.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
-app-manager-handle-protocol = Următoarele aplicații pot fi folosite pentru fișiere Linkuri { $type }.
+app-manager-handle-protocol = Următoarele aplicații pot fi folosite pentru gestionarea linkurilor de tip { $type }.
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
-app-manager-handle-file = Următoarele aplicații pot fi folosite pentru fișiere conținut { $type }.
+app-manager-handle-file = Următoarele aplicații pot fi folosite pentru gestionarea conținutului de tip { $type }.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
 app-manager-web-app-info = Această aplicație web este găzduită la:
-app-manager-local-app-info = Această aplicație se găsește la:
+app-manager-local-app-info = Aplicația se găsește la:
