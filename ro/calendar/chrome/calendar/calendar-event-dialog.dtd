@@ -419,7 +419,7 @@
 <!ENTITY summary.dialog.accept.label            "Acceptă">
 <!ENTITY summary.dialog.accept.tooltiptext      "Acceptă invitația">
 <!ENTITY summary.dialog.tentative.label         "Voi încerca">
-<!ENTITY summary.dialog.tentative.tooltiptext   "Acceptă invitația dar fără a garanta prezența">
+<!ENTITY summary.dialog.tentative.tooltiptext   "Acceptă provizoriu invitația">
 <!ENTITY summary.dialog.decline.label           "Refuză">
 <!ENTITY summary.dialog.decline.tooltiptext     "Refuză invitația">
 <!ENTITY summary.dialog.dontsend.label          "Nu trimite răspuns">
