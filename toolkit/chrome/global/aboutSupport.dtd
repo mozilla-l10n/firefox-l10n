@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "รายงานข้อขัดข้อง">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "ID รายงาน">
 <!ENTITY aboutSupport.crashes.sendDate "ส่งข้อมูลแล้ว">
 <!ENTITY aboutSupport.crashes.allReports "รายงานข้อขัดข้องทั้งหมด">
@@ -30,14 +30,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureName "ชื่อ">
 <!ENTITY aboutSupport.featureVersion "รุ่น">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "คุณลักษณะทดลอง">
-<!ENTITY aboutSupport.experimentName "ชื่อ">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "คำอธิบาย">
-<!ENTITY aboutSupport.experimentActive "ใช้งานอยู่">
-<!ENTITY aboutSupport.experimentEndDate "วันสิ้นสุด">
-<!ENTITY aboutSupport.experimentHomepage "หน้าแรก">
 
 <!ENTITY aboutSupport.appBasicsTitle "พื้นฐานแอปพลิเคชัน">
 <!ENTITY aboutSupport.appBasicsName "ชื่อ">
@@ -130,6 +122,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "การวินิจฉัย">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "วิธีการแก้ไข">
 
 <!ENTITY aboutSupport.mediaTitle "สื่อ">
 <!ENTITY aboutSupport.mediaDeviceName "ชื่อ">
