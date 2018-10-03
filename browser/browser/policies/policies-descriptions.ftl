@@ -10,9 +10,13 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = Қолданбаны жаңартудың таңдауыңызша URL-ын орнату.
+policy-Authentication = Құрамдас аутентификациясын қолдайтын веб-сайттары үшін оны баптау.
+policy-BlockAboutAddons = Қосымшалар басқарушысына (about:addons) қатынауды бұғаттау.
 policy-BlockAboutConfig = about:config парағына қатынауды бұғаттау.
 policy-BlockAboutProfiles = about:profiles парағына қатынауды бұғаттау.
 policy-BlockAboutSupport = about:support парағына қатынауды бұғаттау.
+policy-Certificates = Құрамындағы сертификаттарды қолдану керек пе, керек емес пе. Бұл саясат ағымдағы уақытта тек Windows үшін арналған.
 policy-Cookies = Веб-сайттарға cookies файлдарын орнатуды рұқсат ету немесе тыйым салу.
 policy-DisableAppUpdate = Браузерге жаңартылуға тыйым салу.
 policy-DisableBuiltinPDFViewer = PDF.js, { -brand-short-name } құрамындағы PDF шолушысын сөндіру.
@@ -27,6 +31,8 @@ policy-DisablePrivateBrowsing = Жекелік шолуды сөндіру
 policy-DisableProfileImport = Басқа браузерден деректерді импорттау мәзір командасын сөндіру.
 policy-DisableProfileRefresh = about:support бетінде { -brand-short-name } жаңғырту батырмасын сөндіру.
 policy-DisableSecurityBypass = Пайдаланушыға кейбір қауіпсіздік ескертулерді аттап кетуге рұқсат етпеу.
+policy-DisableSetDesktopBackground = Суретті жұмыс үстел фоны ретінде орнатудың мәзір командасын сөндіру.
+policy-DisableSetAsDesktopBackground = Суреттер үшін Жұмыс үстел фоны ретінде орнату мәзір командасын сөндіру.
 policy-DisableTelemetry = Телеметрияны сөндіру.
 policy-DisplayBookmarksToolbar = Бетбелгілер панелін үнсіз келісім бойынша көрсету.
 policy-DisplayMenuBar = Мәзір жолағын үнсіз келісім бойынша көрсету.
