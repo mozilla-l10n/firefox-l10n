@@ -11,14 +11,14 @@
      -->
 <!ENTITY cmd.show.label                            "Deschide dosarul conținător">
 <!ENTITY cmd.show.accesskey                        "F">
-<!ENTITY cmd.showMac.label                         "Afișează în Finder">
+<!ENTITY cmd.showMac.label                         "Afișează în instrumentul de căutare">
 <!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Deschide">
 <!ENTITY cmd.open.accesskey                        "D">
 <!ENTITY cmd.removeFromHistory.label               "Elimină din istoric">
 <!ENTITY cmd.removeFromHistory.accesskey           "E">
-<!ENTITY cmd.clearList.label                       "Curăță lista">
+<!ENTITY cmd.clearList.label                       "Golește lista">
 <!ENTITY cmd.clearList.accesskey                   "u">
-<!ENTITY cmd.clearList.tooltip                     "Elimină toate elementele din lista fișierelor salvate, cu excepția descărcărilor în desfășurare.">
+<!ENTITY cmd.clearList.tooltip                     "Elimină toate elementele din lista de fișiere salvate, cu excepția descărcărilor în desfășurare.">
 <!ENTITY cmd.searchDownloads.label                 "Caută…">
 <!ENTITY cmd.searchDownloads.key                   "F">
