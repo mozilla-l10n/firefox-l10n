@@ -1,57 +1,62 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
 <!-- Tools menu -->
-
-
 <!ENTITY lightning.preferencesLabel "Calendar">
-<!-- New menu popup in File menu -->
 
+<!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Eveniment…">
 <!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "Sarcină…">
 <!ENTITY lightning.menupopup.new.task.accesskey "S">
 <!ENTITY lightning.menupopup.new.calendar.label "Calendar…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "C">
-<!-- Open menu popup in File menu -->
 
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Deschide">
 <!ENTITY lightning.menupopup.open.accesskey           "D">
 <!ENTITY lightning.menupopup.open.message.label       "Mesaj salvat…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
 <!ENTITY lightning.menupopup.open.calendar.label      "Fișier cu calendar…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label            "Calendar">
 <!ENTITY lightning.menu.view.calendar.accesskey        "n">
 <!ENTITY lightning.menu.view.tasks.label               "Sarcini">
 <!ENTITY lightning.menu.view.tasks.accesskey           "S">
-<!-- Events and Tasks menu -->
 
+<!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "Evenimente și sarcini">
 <!ENTITY lightning.menu.eventtask.accesskey            "n">
+
 <!-- properties dialog, calendar creation wizard -->
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.email.label,
+     lightning.calendarproperties.forceEmailScheduling.label)
+     These strings are used in the calendar wizard and the calendar properties dialog, but are only
+     displayed when setting/using a caldav calendar -->
+<!ENTITY lightning.calendarproperties.email.label                           "E-mail:">
+<!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
+     lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
+     - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
+     - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 
-<!ENTITY lightning.calendarproperties.email.label               "E-mail:">
 <!-- iMIP Bar (meeting support) -->
-
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Acceptă">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Acceptarea invitației la eveniment">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Acceptă toate">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Acceptați invitația la eveniment pentru toate aparițiile evenimentului">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Adaugă">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Adaugă evenimentul în calendar">
-
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Refuză invitația la eveniment">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Refuză tot">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Refuză invitația la eveniment pentru toate aparițiile evenimentului">
-
-
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Șterge">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Șterge din calendar">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detalii…">
@@ -60,28 +65,27 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Clic pentru a se afișa mai multe opțiuni">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirmare">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Trimite o reconfirmare organizatorului">
-
-
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Salvează o copie">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Salvați o copie a evenimentului din calendar în mod independent de răspunsul de la organizator. Lista de participanți va fi ștearsă.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Tentativă">
-<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Acceptați provizoriu invitația la eveniment">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Acceptă provizoriu invitația la eveniment">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Acceptă toate provizoriu">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Acceptați invitația la eveniment în mod provizoriu pentru toate aparițiile evenimentului">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Actualizare">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Actualizare eveniment în calendar">
 <!ENTITY lightning.imipbar.description                                      "Mesajul conține o invitație la un eveniment.">
-<!-- Lightning specific keybindings -->
 
+
+<!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
+
 <!-- Account Central page -->
-
 <!ENTITY lightning.acctCentral.newCalendar.label "Creează un calendar nou">
-<!-- today-pane-specific -->
 
+<!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "Arată miniluna">
 <!ENTITY todaypane.showMinimonth.accesskey "m">
 <!ENTITY todaypane.showMiniday.label "Arată miniziua">
