@@ -50,7 +50,7 @@
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Creează linkul…">
 <!ENTITY createLinkCmd.accesskey "k">
-<!ENTITY editLinkCmd.label "Editează linkul într-o fereastră nouă Composer">
+<!ENTITY editLinkCmd.label "Editează linkul într-o fereastră nouă de Composer">
 <!ENTITY editLinkCmd.accesskey "t">
 
 <!-- Font Face SubMenu -->
