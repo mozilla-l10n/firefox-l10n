@@ -28,6 +28,12 @@ policy-DisableFormHistory = Ikkje lagre søkje- og skjemahistorikk.
 policy-DisableMasterPasswordCreation = Om aktiv, kan ikkje eit hovudpassord lagast.
 policy-DisablePocket = Deaktiver funksjonen for å lagre nettsider til Pocket.
 policy-DisablePrivateBrowsing = Slå av Privat nettlesing.
+policy-DisableProfileImport = Deaktiver meny-kommandoen for å importere data frå ein annan nettlesar.
 policy-DisableTelemetry = Slå av av telemetri.
+policy-DisplayBookmarksToolbar = Vis bokmerkeverktøylinja som standard.
+policy-DisplayMenuBar = Vise menylinja som standard.
+policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettlesar ved oppstart.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Aktiver eller deaktiver innhaldsblokkering med moglegheit til å låse valet.
 policy-InstallAddonsPermission = Tillat visse nettsider å installere tillegg.
 policy-Proxy = Konfigurer proxy-innstillingar.
