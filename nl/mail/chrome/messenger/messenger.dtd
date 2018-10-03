@@ -95,7 +95,7 @@
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Bericht verwijderen">
 <!ENTITY deleteMsgCmd.accesskey "v">
-<!ENTITY undeleteMsgCmd.label "Verwijderen bericht ongedaan maken">
+<!ENTITY undeleteMsgCmd.label "Bericht verwijderen ongedaan maken">
 <!ENTITY undeleteMsgCmd.accesskey "V">
 <!ENTITY deleteMsgsCmd.label "Geselecteerde berichten verwijderen">
 <!ENTITY deleteMsgsCmd.accesskey "w">
