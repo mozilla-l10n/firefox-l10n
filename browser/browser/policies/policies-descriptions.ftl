@@ -43,3 +43,15 @@ policy-DisableTelemetry = Asmòrta Telemetria.
 policy-DisplayBookmarksToolbar = Fanni vedde a bara di segnalibbri comme preinpostaçion.
 policy-DisplayMenuBar = Fanni vedde a bara do menû comme preinpostaçion.
 policy-DontCheckDefaultBrowser = Dizabilita o contròllo se o navegatô o l'é predefinio quande arvo.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Abilita ò dizabilita o Blòcco di contegnui de deciddi se blocâ a decixon.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Installa, dizinstalla ò bloòcca e estenscioin. L'òpçion de instalaçion piggiâ de URL ò di parametri. In cangio la dizinstalaçion e vlòcco piggiâ de estescioin ID.
+policy-FlashPlugin = Permetti ò nega l'uzo di plugin Flash.
+policy-HardwareAcceleration = Se false, asmòrta l'aceleraçion hardware.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Inpòsta e blòcca (se ti veu) a pagina prinçipâ.
+policy-InstallAddonsPermission = Permetti a çerti sciti de instalâ conponenti azonti.
