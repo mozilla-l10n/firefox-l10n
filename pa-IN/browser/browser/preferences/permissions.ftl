@@ -91,12 +91,14 @@ permissions-exceptions-autoplay-media-window =
 permissions-exceptions-autoplay-media-window2 =
     .title = ਅਪਵਾਦ- ਸਵੈ ਚਾਲ
     .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc2 = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈਬਸਾਈਟਾਂ ਆਵਾਜ਼ ਨਾਲ ਆਟੋਪਲੇ ਮੀਡੀਆ ਨੂੰ ਹਮੇਸ਼ਾ ਜਾਂ ਕਦੇ ਨਹੀਂ ਹੋਣਗੀਆਂ ਉਸ ਸਾਈਟ ਦਾ ਪਤਾ ਟਾਈਪ ਕਰੋ ਜਿਸਨੂੰ ਤੁਸੀਂ ਦੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ ਅਤੇ ਫਿਰ ਬਲੌਕ ਕਰੋ ਜਾਂ ਆਗਿਆ ਦਿਓ ਤੇ ਕਲਿਕ ਕਰੋ।
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
     .title = ਸੈਟਿੰਗਾਂ - ਨੋਟੀਫਿਕੇਸ਼ਨ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window.style }
+permissions-site-notification-desc = ਹੇਠਲੀਆਂ ਵੈਬਸਾਈਟਾਂ ਨੇ ਤੁਹਾਨੂੰ ਸੂਚਨਾਵਾਂ ਭੇਜਣ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ ਤੁਸੀਂ ਇਹ ਨਿਰਧਾਰਿਤ ਕਰ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈਬਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਨੂੰ ਸੂਚਨਾਵਾਂ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਹੈ ਤੁਸੀਂ ਸੂਚਨਾਵਾਂ ਦੀ ਆਗਿਆ ਦੇਣ ਲਈ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਨੂੰ ਵੀ ਬਲੌਕ ਕਰ ਸਕਦੇ ਹੋ।
 permissions-site-notification-disable-label =
     .label = ਸੂਚਨਾਵਾਂ ਵਾਸਤੇ ਇਜਾਜ਼ਤ ਲਈ ਪੁੱਛਣ ਲਈ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਰੋਕ ਲਗਾਓ
 
