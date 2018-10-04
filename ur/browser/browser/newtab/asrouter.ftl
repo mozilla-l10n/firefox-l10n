@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-cfr-doorhanger-extension-heading = سفارش کی ایکسٹنشن
+cfr-doorhanger-extension-heading = سفارش شدا ایکسٹنشن
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = میں یہ کیوں دیکھ رہا ہوں
 cfr-doorhanger-extension-cancel-button = ابھی نہیں
@@ -16,7 +16,7 @@ cfr-doorhanger-extension-learn-more-link = مزید سیکھیں
 cfr-doorhanger-extension-author = { $name } کے ساتھ
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
-cfr-doorhanger-extension-notification = سفارش کرنا
+cfr-doorhanger-extension-notification = سفارش
 
 ## Add-on statistics
 ## These strings are used to display the total number of

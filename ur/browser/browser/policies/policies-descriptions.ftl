@@ -10,6 +10,6 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-AppUpdateURL = مرضی کے مطابق ایپ اپدیٹ URL سٹ کریں
+policy-AppUpdateURL = مرضی کے مطابق ایپ اپڈیٹ URL سیٹ کریں
 policy-DisableAppUpdate = براؤزر کو اپ ڈیٹ ہونے سے روکیں.
 policy-DisablePrivateBrowsing = نجی براؤزنگ غیر فعال کریں

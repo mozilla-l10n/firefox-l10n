@@ -7,9 +7,9 @@ about-policies-title = انٹرپرائز پالیسییں
 active-policies-tab = فعال
 errors-tab = نقص
 documentation-tab = دستاویزی
-policy-name = پالیسی نام
-policy-value = پالیسی مالیت
-policy-errors = پالیسی غلطی
+policy-name = پالیسی کا نام
+policy-value = پالیسی کی مالیت
+policy-errors = پالیسی میں غلطیا
 # 'gpo-machine-only' policies are related to the Group Policy features
 # on Windows. Please use the same terminology that is used on Windows
 # to describe Group Policy.
