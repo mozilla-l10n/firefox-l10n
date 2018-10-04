@@ -6,6 +6,8 @@ do-not-track-description = Manda a-o scito un signâ  “No traciame” coscì d
 do-not-track-learn-more = Atre informaçioin
 do-not-track-option-default =
     .label = Solo quande ti deuvi a proteçion anti-traciamento.
+do-not-track-option-default-content-blocking =
+    .label = Solo quande { -brand-short-name } o l'à inpostou o blòcco di Traciatoî individoæ
 do-not-track-option-always =
     .label = De longo
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = 'Na estenscion, <img data-l10n-name="i
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = 'Na estenscion, <img data-l10n-name="icon"/> { $name }, a contròlla a teu proteçion anti-traciamento.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = 'Na estenscion <img data-l10n-name="icon"/> { $name }, a contròlla sta inpostaçion.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = 'Na estenscion, <img data-l10n-name="icon"/> { $name } a contròlla comme { -brand-short-name } o se conette a l'Internet.
@@ -203,6 +208,9 @@ choose-button =
     .label = Çerni…
     .accesskey = i
 choose-browser-language-description = Çerni a lengoa deuvia pe vedde i menû, mesaggi e notifiche de { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Inpòsta Alternative
+    .accesskey = I
 confirm-browser-language-change-description = Arvi torna { -brand-short-name } pe conpletâ i cangiamenti
 confirm-browser-language-change-button = Conpleta e Arvi torna
 translate-web-pages =
@@ -619,6 +627,10 @@ sitedata-block-trackers-option =
     .label = Traciatoî de terse parte
 sitedata-block-unvisited-option =
     .label = Cookie da sciti no vixitæ
+sitedata-block-all-third-party-option =
+    .label = Tutti i cookie de terse parte (peu ese che çerti sciti pöi no van)
+sitedata-block-all-option =
+    .label = Tutti i cookie (peu ese che çerti sciti pöi no van)
 sitedata-clear =
     .label = Scancella dæti…
     .accesskey = l
@@ -628,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Eceçioin…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = I teu inpostaçioin into Blòcco di contegnui no fan cangiâ e inpostaçioin di cookie e di dæti di sciti.
 
 ## Privacy Section - Address Bar
 
@@ -661,6 +677,45 @@ content-blocking-toggle-label-on = Averto
 content-blocking-toggle-label-off = Asmòrtou
     .accesskey = A
 content-blocking-category-label = Çerni cöse blocâ
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Traciatoî lenti a caregâ
+    .accesskey = T
+content-blocking-fastblock-new-description = Blòcca solo i traciatoî che no fan caregâ e pagine a-a spedia.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Tutti i traciatoî individoæ
+    .accesskey = T
+content-blocking-tracking-protection-new-description = Blòcca tutti i traciatoî nòtti. (Peu ese che pöi quarche pagina a no se carega.)
+content-blocking-tracking-protection-option-always =
+    .label = De longo
+    .accesskey = D
+content-blocking-tracking-protection-option-private =
+    .label = Solo inti barcoin privæ
+    .accesskey = S
+content-blocking-tracking-protection-change-block-list = Cangia a lista de blòcco
+content-blocking-third-party-cookies-label =
+    .label = Cookie de terse parte
+    .accesskey = C
+content-blocking-reject-trackers-description = Blòcca tutti i cookie de terse parte ò solo quelli che gh'an di traciatoî.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = E inpostaçioin inti Cookie e dæti di sciti no fan cangiâ e inpostaçioin di cookie de terse parte.
+content-blocking-change-cookie-settings =
+    .label = Cangia inpostaçioin di Cookie
+    .accesskey = C
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Traciatoî (consegiou)
+    .accesskey = r
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Traciatoî
+    .accesskey = r
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Tutti i cookie de terse parte (o peu no fâ anâ di sciti)
+    .accesskey = T
 
 ## Privacy Section - Tracking
 
@@ -723,6 +778,7 @@ autoplay-option-allow =
     .label = Permetti aotoriproduçion
 autoplay-option-dont =
     .label = No aotoriprodue
+permissions-autoplay-link = Atre informaçioin
 permissions-block-popups =
     .label = Blòcca i barcoin de pop-up
     .accesskey = B
