@@ -484,6 +484,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Håndter udvidelse">
 <!ENTITY customizeMenu.manageExtension.accesskey "H">
 
+<!ENTITY customizeMenu.removeExtension.label "Fjern udvidelse">
+<!ENTITY customizeMenu.removeExtension.accesskey "v">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
