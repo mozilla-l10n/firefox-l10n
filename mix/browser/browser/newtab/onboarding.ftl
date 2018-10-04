@@ -16,3 +16,5 @@ onboarding-start-browsing-button-label = Kitsaà Ntuku
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Nduku seé
+onboarding-addons-title = Komplementos
+onboarding-ghostery-title = Ghostery

@@ -19,3 +19,7 @@ colors-text-header = Tu'un
     .accesskey = t
 colors-background = Sata
     .accesskey = S
+colors-unvisited-links = Enlace nchaa kuncheu
+    .accesskey = E
+colors-visited-links = Enlace tsa ntsinu
+    .accesskey = V
