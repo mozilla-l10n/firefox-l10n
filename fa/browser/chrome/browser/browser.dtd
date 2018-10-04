@@ -42,6 +42,7 @@ left instead of right. -->
 <!-- Pin Tab and Pin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "P">
+<!ENTITY  unpinSelectedTabs.label            "جداکردن زبانه‌ها">
 <!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
@@ -227,6 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "باز کردن تابلو پیام‌ها">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "باز کردن تابلوی درخواستِ مکان">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "بازکردن قطعه پخش خودکار">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "باز کردن تابلو پیام‌های نصب افزودنی‌ها">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "مدیریت مجوز بوم های استخراج شده">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "باز کردن تابلو ذخیرهٔ برون‌خط">
@@ -254,6 +256,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "شما این پایگاه‌وب را برای امکان ارسال اعلان مسدود کرده‌اید.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "شما این پایگاه‌وب را برای ذخیره اطلاعات مسدود کرده‌اید.">
 <!ENTITY urlbar.popupBlocked.tooltip             "شما پنجره باز شو مسدود شده برای این پایگاه اینترنتی دارید.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "شما پخش خودکار رسانه صدا را برای این پایگاه اینترنتی مسدود کرده‌اید.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "شما بوم‌های استراخ شده‌ای از این وب سایت دادرید که مسدود شده‌‌اند.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "شما دسترسی این وب‌سایت را به افزودنی Adobe Flash مسدود کرده‌اید.">
 <!ENTITY urlbar.midiBlocked.tooltip              "شما دسترسی این وب‌سایت به MIDI را مسدود کرده‌اید.">
@@ -311,6 +314,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "توسعه‌دهنده وب">
 <!ENTITY webDeveloperMenu.accesskey   "و">
 
+<!ENTITY devtoolsRecordExecution.label "ضبط اجرا">
+<!ENTITY devtoolsSaveRecording.label "ذخیره سازی موارد ضبط شده">
+<!ENTITY devtoolsReplayExecution.label "بازپخش اجرا">
 
 <!ENTITY inspectContextMenu.label     "بازرسی عناصر">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -925,8 +931,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.off "محافظت در برابر ردگیری: خاموش">
 
 <!ENTITY contentBlocking.title "مسدود کردن محتوا">
+<!ENTITY contentBlocking.detected "محتواهای قابل مسدود شدن در این صفحه">
+<!ENTITY contentBlocking.notDetected "هیچ محتوا غیرقابل مسدود شدنی برای این صفحه وجود ندارد.">
 <!ENTITY contentBlocking.disabled.label "غیر فعال">
+<!ENTITY contentBlocking.disabled.tooltip "شما مسدود کردن محتوا رو غیرفعال کرده‌اید.">
+<!ENTITY contentBlocking.exception.tooltip "شما مسدود کردن محتوا برای این وب سایت رو غیرفعال کرده‌اید.">
 
+<!ENTITY contentBlocking.fastBlock.label "بارگذاری کند دنبال کننده‌ ها">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -937,7 +948,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "اضافع کردن مسدودکننده‌ها…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "تمام دنبال کننده های شناسایی شده">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -948,7 +961,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "اضافه کردن مسدود‌کننده…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "کوکی‌های شخص ثالث">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
@@ -959,9 +974,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "اضافه کردن مسدودکننده…">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "گزارش خطا">
 <!ENTITY contentBlocking.breakageReportView.label "گزارش مشکلات">
+<!ENTITY contentBlocking.breakageReportView2.description "مسدود کردن محتوا در این وب‌ سایت می‌تواند منجر به مشکلاتی شود. وقتی شما این مشکلات را گزارش دهید،‌ شما به &brandShortName; کمک می‌کنید تا برای همگان بهتر شود. ( این کار یک URL به همراه اطلاعات در خصوص تنظیمات مرورگر شما به موزیلا ارسال می‌کند.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "بیشتر بدانید">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "چه مشکلی داشتید؟ (اختیاری)">
@@ -970,20 +987,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "محافظت در برابر ردگیری">
 <!ENTITY trackingProtection.tooltip "باز کردن ترجیحات محافظت در برابر رهگیری">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; در حال مسدودکردن بخشی از این صفحه است که ممکن است مرورکردن شما را دنبال کند.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; اجزایی رو تشخیص داده است که ممکن است مرورکردن شما رو دنبال کند.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; اجزایی را در صفحه شناسایی کرده است که ممکن است مرورکردن شما را دنبال کنند. شما محافظت را برای این وب‌ سایت غیرفعال کرده‌اید.">
+<!ENTITY trackingProtection.notDetected5 "هیج عنصری دنبال‌ کننده‌ای در این صفحه پیدا نشده است.">
+<!ENTITY trackingProtection.notDetectedException "هیچ عنصر دنبال کننده ای در این صفحه پیدا نشده است. شما محافظت برای این وب سایت را غیرفعال کرده‌اید.">
 
+<!ENTITY trackingProtection.reloadRequired2 "شما محاظفت از دنبال کردن را فعال کرده‌اید. این صفحه را مجددا بارگذاری کنید تا تمام دنبال کننده ها مسدود شوند.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock3.label "غیرفعال کردن برای این وب سایت">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "غیرفعال سازی مسدود کردن برای این وب سایت">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "غیرفعال کردن برای این نشست">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
+<!ENTITY trackingProtection.block4.label "فعال‌ سازی برای این وب‌ سایت">
 <!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.label "غیرفعال سازی به صورت موقت">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "غیرفعال سازی مسدودکردن برای این وب سایت">
 <!ENTITY trackingProtection.block5.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "بازآوری صفحه">
 <!ENTITY trackingProtection.reload2.accesskey "R">
