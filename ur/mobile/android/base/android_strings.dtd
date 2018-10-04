@@ -19,6 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "ہر سائٹ دیکھتیں وقت نقوش کو آف کردیں تاکہ کمتر کوائف خرچ ہوں۔">
 <!ENTITY firstrun_sync_title "ہمہ وار کریں">
 <!ENTITY firstrun_sync_message2 "اٹھائیں جہاں آپ نے چھوڑ دیا ہے۔">
+<!ENTITY firstrun_sync_subtext2 "اپنی نشانی، پاس ورڈ اور دوسری چیزیے جو آپنے تمام آلات پر &brandShortName; میں محفوز کی ہے اسے تلاش کرنے کے لئے ہم وقت سازی کا استعمال کریں۔">
 <!ENTITY firstrun_signin_message "جڑیں، شروع کریں">
 <!ENTITY firstrun_signin_button "ہم سازی کے لئے سائن ان کریں">
 <!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
@@ -26,12 +27,6 @@
 <!ENTITY firstrun_button_next "اگلا">
 
 <!ENTITY firstrun_tabqueue_title "روابط">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "ٹیب کی قطار چالو کریں">
-<!ENTITY firstrun_tabqueue_subtext_off "بعد میں میں اور &brandShortName; لئے لنکس کو محفوظ کریں؛ دیگر اطلاقات میں ان ٹیپ.">
-
-<!ENTITY firstrun_tabqueue_message_on "کامیابی!">
-<!ENTITY firstrun_tabqueue_subtext_on "آپ پمیشہ &settings; سے پند کرسکتے ہیں &pref_category_general;. کے نیچے">
 
 <!ENTITY firstrun_readerview_title "مضامین">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -68,7 +63,6 @@
 <!ENTITY  crash_restart_label "&brandShortName; پھر شروع کریں">
 
 <!ENTITY url_bar_default_text2 "پتہ تلاش یا داخل کریں">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -214,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ٹیبس بحال کریں، کوائف محفوظ کار، تخلیق کار ٹولز">
 <!ENTITY pref_category_notifications "اعلانات">
-<!ENTITY pref_category_notifications_summary "نئے فیچرز، ویب سائٹ کی تازہ کاریاں">
 <!ENTITY pref_category_notifications_summary2 "نئی خصوصیات، مصنوعات کی تجاویز">
 <!ENTITY pref_developer_remotedebugging_usb "USB کے ذریعے بعید ٹھیک کاری">
 <!ENTITY pref_developer_remotedebugging_wifi "وائی فائی کے ذریعے بعید ٹھیک کاری ">
@@ -372,6 +365,7 @@
 <!ENTITY pref_media_autoplay_enabled "خودکار چلنے کی اجازت دیں">
 <!ENTITY pref_media_autoplay_enabled_summary "قابو کریں اگر ویب سائٹیں خود وڈیو اور دیگر میڈیا مواد چلاسکتی ہیں">
 <!ENTITY pref_media_autoplay_allow "آٹوپلے کی اجازت دیں">
+<!ENTITY pref_media_autoplay_block "آٹوپلے کو بلاک دیں">
 <!ENTITY pref_zoom_force_enabled "زوم ہمیشہ اہل بنائیں">
 <!ENTITY pref_zoom_force_enabled_summary "زیر لازمی کریں تاکہ آپ کسی بھی صفحے پر زوم کر سکیں">
 <!ENTITY pref_voice_input "آواز ان پٹ">
@@ -897,8 +891,16 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!-- Used by accessibility services to identify the play/pause buttons shown in the
 Picture-in-picture mini window -->
 <!ENTITY pip_play_button_title "چلائیں">
+<!ENTITY pip_play_button_description "شروع کریں">
 <!ENTITY pip_pause_button_title "توقف کریں">
+<!ENTITY pip_pause_button_description "روک دیں">
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; محل وقوع خدمات">
 <!ENTITY download_notification_channel "ڈاؤن لوڈز">
+<!ENTITY media_notification_channel "میڈیا پلے بیک">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; پش اطلاعات">
+<!ENTITY updater_notification_channel "ایپ اپ ڈیٹس">
+<!ENTITY synced_tabs_notification_channel "ہمہ وقت ساز ٹیب">
