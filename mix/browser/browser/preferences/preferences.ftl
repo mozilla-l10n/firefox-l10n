@@ -103,6 +103,7 @@ containers-disable-alert-title = ¿A kunu kasu ntii xikua?
 
 ## General Section - Language & Appearance
 
+fonts-and-colors-header = Letra tsi kolor
 default-font-size = Kua
     .accesskey = K
 advanced-fonts =

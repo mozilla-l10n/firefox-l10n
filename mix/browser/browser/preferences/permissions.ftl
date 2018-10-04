@@ -25,10 +25,12 @@ permissions-button-ok =
     .accesskey = C
 permissions-searchbox =
     .placeholder = Nduku Sitio Web
+permissions-capabilities-allow =
+    .label = A Va’a
 permissions-capabilities-block =
     .label = Kasi
 permissions-capabilities-prompt =
-    .label = Sa'ansa ndakatu'un 
+    .label = Sa'ansa ndakatu'un
 
 ## Invalid Hostname Dialog
 
