@@ -39,6 +39,8 @@ policy-DisableTelemetry = Телеметрияны сөндіру.
 policy-DisplayBookmarksToolbar = Бетбелгілер панелін үнсіз келісім бойынша көрсету.
 policy-DisplayMenuBar = Мәзір жолағын үнсіз келісім бойынша көрсету.
 policy-DontCheckDefaultBrowser = Іске қосылғанда негізгі браузері екеніне тексеруді сөндіру.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Құраманы бұғаттауды іске қосу немесе сөндіру, және қосымша түрде оны бекіту.
 policy-FlashPlugin = Flash плагинін қолдануды рұқсат ету немесе бұғаттау.
 policy-HardwareAcceleration = Мәні false болса, құрылғылық үдетуді сөндіру.
 # “lock” means that the user won’t be able to change this setting
