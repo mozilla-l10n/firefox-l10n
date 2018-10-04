@@ -157,6 +157,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Azonzi 'na eceçion…">
 
+<!ENTITY securityOverride.exceptionButton1Label "Acetta o reizego e vanni avanti">
 
 <!ENTITY errorReporting.automatic2 "Segnala eroî comme sto chi pe agiutâ Mozilla a identificâ e blocâ sciti danozi">
 <!ENTITY errorReporting.learnMore "Atre informaçioin…">
