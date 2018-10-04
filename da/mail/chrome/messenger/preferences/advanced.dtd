@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Aktiver global søgning og indeksering">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY dateTimeFormatting.label      "Dato- og tidsformat">
+<!ENTITY languageSelector.label        "Sprog">
 <!ENTITY allowHWAccel.label            "Brug hardware-acceleration hvor muligt">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Lagertype for meddelelser for nye konti:">
