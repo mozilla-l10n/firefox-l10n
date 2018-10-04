@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Subscription Dialog -->
+
+<!ENTITY feedTitle.label             "Título:">
+
+<!ENTITY locationValidate.label      "Validar">
+
+
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffMinutes.label           "minutos">
+<!ENTITY biffDays.label              "días">
+
+
+
+<!-- Subscription Dialog -->
+<!ENTITY button.addFeed.label        "Agregar">
+<!ENTITY button.verifyFeed.label     "Verificar">
+<!ENTITY button.updateFeed.label     "Actualizar">
+<!ENTITY button.importOPML.label     "Importar">
+<!ENTITY button.exportOPML.label     "Exportar">
+
+<!ENTITY button.close.label          "Cerrar">
