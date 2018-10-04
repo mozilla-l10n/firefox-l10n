@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "다운로드">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "북마크">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "복사된 텍스트">
 <!ENTITY aboutPrivateBrowsing.note.before                "사생활 보호 브라우징이 ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "사용자를 인터넷에서 완전히 감추는 것은">
 <!ENTITY aboutPrivateBrowsing.note.after                 " 아닙니다. 고용주나 인터넷 서비스 제공자는 여전히 방문한 페이지를 알 수 있습니다.">
