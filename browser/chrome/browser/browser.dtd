@@ -24,12 +24,16 @@
 <!ENTITY closeOtherTabs.accesskey "a">
 <!ENTITY closeSelectedTabs.label "Chiudi schede selezionate">
 <!ENTITY closeSelectedTabs.accesskey "z">
+<!ENTITY closeTabs.label "Chiudi schede">
+<!ENTITY closeTabs.accesskey "u">
 <!ENTITY pinSelectedTabs.label "Appunta schede">
 <!ENTITY pinSelectedTabs.accesskey "h">
 <!ENTITY unpinSelectedTabs.label "Rilascia schede">
 <!ENTITY unpinSelectedTabs.accesskey "h">
 <!ENTITY reloadSelectedTabs.label "Ricarica schede selezionate">
 <!ENTITY reloadSelectedTabs.accesskey "R">
+<!ENTITY reloadTabs.label "Ricarica schede">
+<!ENTITY reloadTabs.accesskey "R">
 <!ENTITY bookmarkSelectedTabs.label "Aggiungi schede ai segnalibri…">
 <!ENTITY bookmarkSelectedTabs.accesskey "b">
 <!ENTITY pinTab.label "Appunta scheda">
