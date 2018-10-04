@@ -48,3 +48,18 @@ browser-languages-window =
     .style = width: 40em
 
 browser-languages-description = { -brand-short-name } utilizzerà la prima lingua come predefinita, mentre le altre lingue verranno utilizzate, se necessario, nell’ordine in cui sono visualizzate.
+
+browser-languages-search = Trova altre lingue…
+
+browser-languages-searching =
+    .label = Ricerca lingue in corso…
+
+browser-languages-downloading =
+    .label = Download in corso…
+
+browser-languages-select-language =
+    .label = Seleziona una lingua da aggiungere…
+    .placeholder = Seleziona una lingua da aggiungere…
+
+browser-languages-error =
+    .value = Si è verificato un errore.
