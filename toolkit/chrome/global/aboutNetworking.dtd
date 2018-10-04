@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "ارسال شده">
 <!ENTITY aboutNetworking.received              "دریافت شده">
 <!ENTITY aboutNetworking.family                "خانواده">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "نشانی‌ها">
 <!ENTITY aboutNetworking.expires               "انقضا (ثانیه)">
 <!ENTITY aboutNetworking.messagesSent          "پیام‌های ارسال شده">
