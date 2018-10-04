@@ -108,6 +108,7 @@ permissions-site-notification-disable-desc = ਇਹ ਉਪਰੋਕਤ ਸੂਚ
 permissions-site-location-window =
     .title = ਸੈਟਿੰਗਾਂ - ਟਿਕਾਣਾ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window.style }
+permissions-site-location-desc = ਹੇਠਲੀਆਂ ਵੈਬਸਾਈਟਾਂ ਨੇ ਤੁਹਾਡੇ ਸਥਾਨ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ। ਤੁਸੀਂ ਇਹ ਨਿਰਧਾਰਤ ਕਰ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਸਥਾਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਹੈ। ਤੁਸੀਂ ਆਪਣੇ ਸਥਾਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਨਵੀਂ ਬੇਨਤੀਆਂ ਨੂੰ ਵੀ ਬਲੌਕ ਕਰ ਸਕਦੇ ਹੋ।
 permissions-site-location-disable-label =
     .label = ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਪੁੱਛਣ ਦੀਆਂ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਰੋਕ ਲਗਾਓ
 
