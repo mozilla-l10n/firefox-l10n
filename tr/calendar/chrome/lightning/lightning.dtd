@@ -82,6 +82,7 @@
 <!ENTITY lightning.imipbar.description                                      "Bu ileti bir etkinliğe davetiyedir.">
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Hemen yanıt gönder">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Organizatöre yanıt gönder">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Yanıt gönderme">
 
 <!-- Lightning specific keybindings -->
