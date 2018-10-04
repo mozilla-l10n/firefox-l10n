@@ -40,6 +40,7 @@
 <!ENTITY hdrJunkButton1.label "Basura">
 <!ENTITY hdrJunkButton1.tooltip "Marcar este mensaje como basura">
 <!ENTITY hdrTrashButton1.label "Eliminar">
+<!ENTITY hdrTrashButton1.tooltip "Borrar este mensaje">
 
 <!ENTITY hdrViewToolbarShowText.label "Mostrar sólo texto">
 
@@ -59,6 +60,7 @@
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Abrir">
 <!ENTITY saveAsAttachmentCmd.label    "Guardar como…">
+<!ENTITY deleteAttachmentCmd.label    "Eliminar">
 <!ENTITY saveAllAttachmentsCmd.label    "Guardar todo…">
 
 
