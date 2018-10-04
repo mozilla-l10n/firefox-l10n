@@ -41,3 +41,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } ਭਾਸ਼ਾ ਸੈਟਿੰਗਜ਼
+    .style = ਚੌੜਾਈ: 40ਮ
+browser-languages-description = { -brand-short-name } ਤੁਹਾਡੀ ਡਿਫਾਲਟ ਵਾਂਗ ਪਹਿਲੀ ਭਾਸ਼ਾ ਨੂੰ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰੇਗਾ ਅਤੇ ਜੇਕਰ ਲੋੜ ਹੋਈ ਤਾਂ ਕ੍ਰਮ ਵਿੱਚ ਬਦਲਵੀਂਆਂ ਭਾਸ਼ਾਵਾਂ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨਗੇ।
