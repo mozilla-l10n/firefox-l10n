@@ -29,6 +29,8 @@
 <!ENTITY buttons.create.label "Takvim oluştur">
 <!ENTITY buttons.create.accesskey "r">
 
+<!ENTITY buttons.find.label "Takvimleri bul">
+<!ENTITY buttons.find.accesskey "b">
 
 <!ENTITY buttons.back.label "Geri">
 <!ENTITY buttons.back.accesskey "G">
@@ -40,6 +42,7 @@
 <!ENTITY location.label "Konum:">
 <!ENTITY location.placeholder "Takvim sunucusunun URL'si veya ana bilgisayar adı">
 
+<!ENTITY network.nocredentials.label "Bu konum kimlik bilgileri gerektirmez">
 <!ENTITY network.loading.description "Lütfen takvimleriniz keşfedilirken bekleyin.">
 <!ENTITY network.notfound.description "Bu konumda takvim bulunamadı. Lütfen ayarlarınızı kontrol edin.">
 <!ENTITY network.authfail.description "Girdiğiniz kimlik bilgileri kabul edilmedi. Lütfen ayarlarınızı kontrol edin.">
