@@ -41,6 +41,7 @@
 <!ENTITY hdrJunkButton1.tooltip "Marcar este mensaje como basura">
 <!ENTITY hdrTrashButton1.label "Eliminar">
 
+<!ENTITY hdrViewToolbarShowText.label "Mostrar sólo texto">
 
 <!ENTITY otherActionsButton2.label "Más">
 <!ENTITY otherActionsButton.tooltip "Más acciones">
@@ -50,16 +51,20 @@
 <!ENTITY markAsReadMenuItem1.label "Marcar como leído">
 <!ENTITY markAsUnreadMenuItem1.label "Marcar como no leído">
 <!ENTITY saveAsMenuItem1.label "Guardar como…">
+<!ENTITY viewSourceMenuItem1.label "Ver fuente">
+<!ENTITY otherActionsPrint1.label "Imprimir…">
 
 <!-- Attachment bar context menu items -->
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Abrir">
 <!ENTITY saveAsAttachmentCmd.label    "Guardar como…">
+<!ENTITY saveAllAttachmentsCmd.label    "Guardar todo…">
 
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Guardar">
 <!ENTITY saveAllAttachmentsButton1.label   "Guardar todo">
 
+<!ENTITY copyLinkCmd.label        "Copiar dirección del enlace">
 
