@@ -163,6 +163,7 @@ choose-language-description = صفحہ دکھانے کے لیے اپنی زبا�
 choose-button =
     .label = انتخاب کریں…
     .accesskey = ا
+confirm-browser-language-change-description = { -brand-short-name } دوبارہ شروع کریں ان تبدیلیوں کو لاگو کرنے کے لیے
 confirm-browser-language-change-button = لاگو کرے اور دوبارہ شروع کریں
 translate-web-pages =
     .label = ترجمہ کریں ویب کے مواد کا
@@ -211,6 +212,9 @@ drm-content-header = عددی حقوق بندرستگی(DRM)  مواد
 play-drm-content-learn-more = مزید سیکھیں
 update-application-title = { -brand-short-name } تازہ کاریاں:
 update-application-version = ورژن{ $version } <a data-l10n-name="learn-more">نیا کیا ہے</a>
+update-history =
+    .label = تازہ ترین تاریخ دکھائیں
+    .accesskey = p
 update-application-manual =
     .label = کبھی بھی تازہ کاری کی پڑتال نہیں کریں
     .accesskey = N
