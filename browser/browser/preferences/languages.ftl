@@ -61,5 +61,8 @@ browser-languages-select-language =
     .label = Seleziona una lingua da aggiungere…
     .placeholder = Seleziona una lingua da aggiungere…
 
+browser-languages-installed-label = Lingue installate
+browser-languages-available-label = Lingue disponibili
+
 browser-languages-error =
     .value = Si è verificato un errore.
