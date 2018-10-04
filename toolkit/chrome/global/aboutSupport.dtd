@@ -24,6 +24,9 @@ This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.securitySoftwareTitle "نرم‌افزار امنیتی">
 <!ENTITY aboutSupport.securitySoftwareType "نوع">
 <!ENTITY aboutSupport.securitySoftwareName "نام">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "آنتی ویروس">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "ضدجاسوسی">
+<!ENTITY aboutSupport.securitySoftwareFirewall "دیوارآتشین">
 
 <!ENTITY aboutSupport.featuresTitle "امکانات &brandShortName;">
 <!ENTITY aboutSupport.featureName "نام">
@@ -63,6 +66,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "پروسه‌های محتوای وب">
 
+<!ENTITY aboutSupport.enterprisePolicies "خط و مش های سازمانی">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "کلید گوگل">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "کلید سرویس مکان‌یابی موزیلا">
