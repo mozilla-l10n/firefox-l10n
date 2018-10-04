@@ -25,6 +25,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " dine:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "hentede filer">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "bogmærker">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "kopieret tekst">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privat browsing ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "sikrer ikke din anonymitet">
 <!ENTITY aboutPrivateBrowsing.note.after                 " på internettet. Din arbejdsgiver eller internetudbyder kan stadig finde ud af, hvilke sider du besøger.">

@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "Fejlsikret tilstand er en speciel tilstand af &brandShortName;, som kan bruges til fejlfinding.">
 <!ENTITY safeModeDescription4.label   "Dine udvidelser og indstillinger vil midlertidigt blive deaktiveret.">
 
+<!ENTITY safeModeDescription5.label   "Dine tilføjelser og tilpassede indstillinger vil blive deaktiveret midlertidigt, og funktioner i &brandShortName; har måske ikke samme ydelse som nu.">
+
 <!ENTITY refreshProfileInstead.label  "Du kan også springe fejlfinding over og forsøge at nulstille &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
