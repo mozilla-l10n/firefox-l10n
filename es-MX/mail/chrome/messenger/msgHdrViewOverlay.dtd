@@ -34,10 +34,19 @@
 <!ENTITY hdrReplyListButton1.label "Responder a lista">
 <!ENTITY hdrReplyListButton1.tooltip "Responder a la lista de correo">
 <!ENTITY hdrFollowupButton1.label "Responder">
+<!ENTITY hdrMenuForwardButton.label "Reenviar como">
+<!ENTITY hdrForwardButton1.label "Reenviar">
+<!ENTITY hdrForwardButton1.tooltip "Reenviar este mensaje">
+<!ENTITY hdrJunkButton1.label "Basura">
+<!ENTITY hdrJunkButton1.tooltip "Marcar este mensaje como basura">
+<!ENTITY hdrTrashButton1.label "Eliminar">
 
 
 <!ENTITY otherActionsButton2.label "Más">
+<!ENTITY otherActionsButton.tooltip "Más acciones">
 <!ENTITY otherActionsOpenConversation1.label "Abrir en conversación">
+<!ENTITY otherActionsOpenInNewWindow1.label "Abrir en una ventana nueva">
+<!ENTITY otherActionsOpenInNewTab1.label "Abrir en una pestaña nueva">
 <!ENTITY markAsReadMenuItem1.label "Marcar como leído">
 <!ENTITY markAsUnreadMenuItem1.label "Marcar como no leído">
 <!ENTITY saveAsMenuItem1.label "Guardar como…">

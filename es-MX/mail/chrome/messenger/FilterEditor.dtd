@@ -8,7 +8,7 @@
 <!ENTITY filterName.accesskey "i">
 
 <!ENTITY junk.label "Basura">
-<!ENTITY notJunk.label "No basura">
+<!ENTITY notJunk.label "No es basura">
 
 <!ENTITY lowestPriorityCmd.label "La más baja">
 <!ENTITY lowPriorityCmd.label "Baja">
