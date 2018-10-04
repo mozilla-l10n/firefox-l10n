@@ -64,5 +64,4 @@ browser-languages-select-language =
 browser-languages-installed-label = Lingue installate
 browser-languages-available-label = Lingue disponibili
 
-browser-languages-error =
-    .value = Si è verificato un errore.
+browser-languages-error = L’aggiornamento delle lingue non è attualmente disponibile. Verifica la connessione a Internet o riprova.
