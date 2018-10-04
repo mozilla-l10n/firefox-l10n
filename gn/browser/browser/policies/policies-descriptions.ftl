@@ -33,6 +33,7 @@ policy-DisableProfileRefresh = Eipe’a votõ Myanyhẽjey { -brand-short-name }
 policy-DisableSecurityBypass = Ani eheja puruhárape ohejareívo tekorosã rehegua.
 policy-DisableSetDesktopBackground = Eipe’a pe poravorã mbohapeha emoĩ hag̃ua peteĩ ta’anga mba’erechaha ruguarã.
 policy-DisableSetAsDesktopBackground = Eipe’a pe poravorã mbohekopyréva mba’erechaha ruguarã ta’angápe g̃uarãva.
+policy-DisableSystemAddonUpdate = Ani eheja kundahárape omohenda ha ombohekopyahu apopyvusu moimbaha.
 policy-DisableTelemetry = Eipe'aite Telemetría.
 policy-DisplayBookmarksToolbar = Ehechauka Techaukaha rembipuru renda ijypykue rupi.
 policy-DisplayMenuBar = Ehechauka Poravorã renda ijypykue rupi.
@@ -49,5 +50,12 @@ policy-HardwareAcceleration = Japúramo, eipe’a hardware mbopya’eha.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Emopyenda ha ejoko ejaposẽramo kuatiarogue ñepyrũha.
 policy-InstallAddonsPermission = Emoneĩ ndahetái ñanduti rendápe omboguejývo moimbaha.
+policy-Permissions = Emboheko ñemoneĩ ta’anganohẽha, ñe’ẽatãha, tendaite ha marandu’ípe g̃uarã.
+policy-PopupBlocking = Emoneĩ ndahetái ñanduti rendápe ohechaukávo ovetã iñapysẽva ijypykue rupi.
 policy-Proxy = Emboheko proxy mohendahavusu.
 policy-SanitizeOnShutdown = Embogue opaite kundaha mba’ekuaarã emboguekuévo.
+policy-SearchBar = Emboheko jehekaha rendaite ijypykue rupi. Pe puruhára ikatu gueteri oñemomba’e hese.
+policy-SearchEngines = Emboheko jehekaha ñemoĩporã. Ko purureko eipurukuaa pe Extended Support Release (ESR) rupive.
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Ejoko ñanduti rendápe jeike. Emoñe’ẽ kuatiaita ehechakuaa hag̃ua mba’emimi ko ysaja rehegua.
