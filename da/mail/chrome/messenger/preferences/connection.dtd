@@ -45,3 +45,4 @@
 <!ENTITY  autologinproxy.tooltip        "Denne indstilling godkender dig automatisk overfor proxy-servere, når du har gemt login-informationer til dem. Du bliver spurgt, hvis godkendelsen slår fejl.">
 <!ENTITY  socksRemoteDNS.label          "Proxy-DNS ved brug af SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
+<!ENTITY  dnsOverHttps.label            "Aktiver DNS via HTTPS">
