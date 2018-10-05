@@ -152,6 +152,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Vlastník stránky <span class='hostname'/> nakonfiguroval svoju stránku nesprávne.  Kvôli ochrane vašich údajov pred odcudzením blokuje &brandShortName; pripojenie k tejto webovej stránke.">
 
+<!ENTITY certerror.introPara2 "Aplikácia &brandShortName; rozpoznala potenciálne bezpečnostné riziko a stránku <span class='hostname'/> nenačítala. Ak sa napriek tomu rozhodnete danú stránku navštíviť, útočníci sa môžu pokúsiť odcudziť vaše informácie, ako napríklad heslá, e-mailové adresy alebo údaje o platobných kartách.">
 
 <!ENTITY certerror.expiredCert.secondPara "Tento problém je pravdepodobne spôsobený chybným nastavením času na vašom počítači, ktoré bráni aplikácii &brandShortName; v nadviazaní zabezpečeného spojenia.">
 

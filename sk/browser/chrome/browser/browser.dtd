@@ -448,6 +448,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Správa rozšírenia">
 <!ENTITY customizeMenu.manageExtension.accesskey "S">
 
+<!ENTITY customizeMenu.removeExtension.label "Odstrániť rozšírenie">
+<!ENTITY customizeMenu.removeExtension.accesskey "r">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -935,7 +937,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.disabled.tooltip "Blokovanie obsahu je vypnuté.">
 <!ENTITY contentBlocking.exception.tooltip "Na tejto stránke ste vypli blokovanie obsahu.">
 
-<!ENTITY contentBlocking.fastBlock.label "Pomalé sledovacie prvky">
+<!ENTITY contentBlocking.fastBlock.label "Spomaľovacie sledovacie prvky">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -948,6 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Blokovať…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Všetky nájdené sledovacie prvky">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -960,17 +963,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Blokovať…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Cookies tretích strán">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokované">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Blokovať…">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Nahlásiť problém">
 <!ENTITY contentBlocking.breakageReportView.label "Nahlásiť problémy">
+<!ENTITY contentBlocking.breakageReportView2.description "Blokovanie obsahu môže spôsobovať problémy s webovými stránkami. Ich nahlásením významne pomôžete aplikácii &brandShortName; sa neustále zlepšovať. S vašim hlásením sa Mozille odošle URL adresa stránky a informácie o vašom nastavení blokovania obsahu.">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Ďalšie informácie">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Adresa URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Aké ste mali problémy? (nepovinné)">
