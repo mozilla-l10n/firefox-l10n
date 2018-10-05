@@ -22,10 +22,10 @@
 <!ENTITY otherUsersNamespace.accesskey "i">
 <!ENTITY overrideNamespaces.label "Sunucunun bu ad uzaylarının üstüne yazmasına izin ver">
 <!ENTITY overrideNamespaces.accesskey "u">
-<!ENTITY pop3DeferringDesc.label "Bu hesabın sunucusundan e-posta indirirken yeni iletileri depolamak için şu dizini kullan:" >
+<!ENTITY pop3DeferringDesc.label "Bu hesabın sunucusundan e-posta indirirken yeni iletileri depolamak için şu dizini kullan:">
 <!ENTITY accountInbox.label "Bu hesabın gelen kutusu">
 <!ENTITY accountInbox.accesskey "s">
 <!ENTITY deferToServer.label "Farklı bir hesabın gelen kutusu">
 <!ENTITY deferToServer.accesskey "k">
-<!ENTITY deferGetNewMail.label "Yeni e-postaları alırken bu sunucuyu dâhil et">
+<!ENTITY deferGetNewMail.label "Yeni e-postaları alırken bu sunucuyu dahil et">
 <!ENTITY deferGetNewMail.accesskey "Y">
