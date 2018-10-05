@@ -170,7 +170,7 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Mod afișare compact">
 <!ENTITY compactVersion.accesskey "c">
-<!ENTITY folderPaneBar.label "Bara de unelte a panoului dosar">
+<!ENTITY folderPaneBar.label "Bară de unelte în panoul de dosare">
 <!ENTITY folderPaneBar.accesskey "F">
 <!ENTITY folderModeSelector.label "Vizualizări dosare">
 
@@ -472,7 +472,7 @@
 <!ENTITY addonPrefsUnix.label "Preferințe suplimente">
 <!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Nu au fost găsite setările de supliment.">
-<!ENTITY activitymanager.label "Gestionar de activitate">
+<!ENTITY activitymanager.label "Manager de activitate">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY imAccountsStatus.label "Stare chat">
 <!ENTITY imAccountsStatus.accesskey "S">
