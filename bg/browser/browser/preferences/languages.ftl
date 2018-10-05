@@ -42,6 +42,6 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window =
-    .title = Настройки не езика на { -brand-short-name }
+    .title = Настройки на езика на { -brand-short-name }
     .style = width: 40em
 browser-languages-description = { -brand-short-name } ще използва първия език от списъка като език по подразбиране, а останалите при необходимост в зададения ред.

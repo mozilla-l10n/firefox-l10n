@@ -969,7 +969,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Забраняване">
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Спрени">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
