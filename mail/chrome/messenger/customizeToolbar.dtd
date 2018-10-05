@@ -13,6 +13,6 @@
 <!ENTITY useSmallIcons.label      "Icones petites">
 <!ENTITY restoreDefaultSet.label  "Configuració per defecte">
 <!ENTITY addNewToolbar.label      "Crea una barra">
-<!ENTITY showTitltbar.label       "Mostra la barra de títol">
+<!ENTITY showTitlebar.label       "Mostra la barra de títol">
 <!ENTITY saveChanges.label        "Fet">
 <!ENTITY undoChanges.label        "Desfés els canvis">
