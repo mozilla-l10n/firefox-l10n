@@ -667,6 +667,19 @@ content-blocking-category-label = Vyberte si, čo chcete blokovať
 content-blocking-tracking-protection-option-always =
     .label = Vždy
     .accesskey = V
+content-blocking-tracking-protection-change-block-list = Zmeniť zoznam blokovania
+content-blocking-third-party-cookies-label =
+    .label = Cookies tretích strán
+    .accesskey = C
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Sledovacie prvky (odporúča sa)
+    .accesskey = v
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Sledovacie prvky
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Všetky cookies tretích strán (môže obmedziť fungovanie niektorých stránok)
+    .accesskey = V
 
 ## Privacy Section - Tracking
 
