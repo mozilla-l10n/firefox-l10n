@@ -262,7 +262,7 @@ play-drm-content =
     .accesskey = И
 play-drm-content-learn-more = Научете повече
 update-application-title = Обновявания на { -brand-short-name }
-update-application-description = За най-добра производителност, стабилност и защита поддържайте вашия { -brand-short-name } обновен.
+update-application-description = За най-добра производителност, стабилност и защита поддържайте { -brand-short-name } обновен.
 update-application-version = Издание { $version } <a data-l10n-name="learn-more">Новото в това издание</a>
 update-history =
     .label = Хронология на обновяванията…
