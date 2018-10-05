@@ -178,12 +178,16 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Katılım">
 <!ENTITY calendar.context.attendance.menu.accesskey             "ı">
 <!ENTITY calendar.context.attendance.occurrence.label           "Bu sefer">
+<!ENTITY calendar.context.attendance.all2.label                 "Tüm dizi">
 <!ENTITY calendar.context.attendance.send.label                 "Şimdi bildirim gönder">
+<!ENTITY calendar.context.attendance.send.accesskey             "G">
 <!ENTITY calendar.context.attendance.dontsend.label             "Bildirim gönderme">
 <!ENTITY calendar.context.attendance.dontsend.accesskey         "m">
 
 <!ENTITY calendar.context.attendance.occ.accepted.accesskey     "K">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Kabul edildi">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "B">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Belirsiz olarak kabul edildi">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "R">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Reddedildi">
 <!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
@@ -195,9 +199,19 @@
 <!ENTITY calendar.context.attendance.occ.completed.accesskey    "m">
 <!ENTITY calendar.context.attendance.occ.completed.label        "Tamamlandı">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
 <!ENTITY calendar.context.attendance.all.accepted.label         "Kabul edildi">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "o">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Belirsiz olarak kabul edildi">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
 <!ENTITY calendar.context.attendance.all.declined.label         "Reddedildi">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Görevlendirildi">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "l">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Hâlâ işlem gerekiyor">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "D">
 <!ENTITY calendar.context.attendance.all.inprogress.label       "Devam ediyor">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "m">
 <!ENTITY calendar.context.attendance.all.completed.label        "Tamamlandı">
 
 <!-- Task Context Menu -->
