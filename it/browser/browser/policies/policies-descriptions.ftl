@@ -58,4 +58,5 @@ policy-Proxy = Configura le impostazioni dei proxy.
 policy-SanitizeOnShutdown = Elimina tutti i dati di navigazione alla chiusura.
 policy-SearchBar = Imposta l’indirizzo predefinito nella barra di ricerca. L’utente potra comunque modificarlo.
 policy-SearchEngines = Configura le impostazioni relative ai motori di ricerca. Questo criterio è disponibile solo nella versione Extended Support Release (ESR).
+policy-SecurityDevices = Installa moduli PKCS #11.
 policy-WebsiteFilter = Impedisci l’accesso a determinati siti web. Consulta la documentazione per ulteriori dettagli sul formato da utilizzare.
