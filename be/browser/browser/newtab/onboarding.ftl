@@ -23,3 +23,4 @@ onboarding-screenshots-text = Рабіце, захоўвайце і дзяліц
 onboarding-addons-title = Дадаткі
 onboarding-addons-text = Дадавайце іншыя функцыі, каб { -brand-short-name } працаваў лепш для вас. Параўноўвайце цэны, глядзіце надвор'е, або падкрэслівайце індывідуальнасць уласнай тэмай афармлення.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Зрабіце агляд хутчэйшым, бяспечнейшым і зручнейшым з дадаткамі накшталт Ghostery, які дазваляе блакіраваць рэкламу, што раздражняе.
