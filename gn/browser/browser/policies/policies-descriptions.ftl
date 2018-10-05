@@ -16,8 +16,11 @@ policy-BlockAboutAddons = Ejoko Moimbaha ñangarekohápe jeike (about: addons).
 policy-BlockAboutConfig = Ejoko about:config kuatiaroguépe jeike.
 policy-BlockAboutProfiles = Ejoko about:profiles-pe jeike.
 policy-BlockAboutSupport = Ejoko about:support kuatiaroguépe jeike.
+policy-Bookmarks = Emoheñói techaukaha tembipuru renda rechaukahápe, pe techaukaha poravorãme térã peteĩ ñongatuhaitépe oĩva hyepýpe voi.
+policy-Certificates = Eipurusépa umi mboajepyre oñemoingeva'ekue. Ko purureko Windows mba’e añoite ko’ág̃a rupi.
 policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
 policy-DisableAppUpdate = Ani eheja oñembohekopyahu kundahára.
+policy-DisableBuiltinPDFViewer = Eipe’aite PDF.js, PDF jehechaha oĩva { -brand-short-name } ndive.
 policy-DisableDeveloperTools = Ejoko ñangarekohára rembipurúpe jeike.
 policy-DisableFirefoxAccounts = Eipe’a mba'epytyvõrã { -fxaccount-brand-name } pegua, oĩhápe avei Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
