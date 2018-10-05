@@ -3,7 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY title           "Installer tilføjelse">
+<!ENTITY intro           "Et andet program på din computer vil gerne ændre 
+                          &brandShortName; med følgende tilføjelse:">
 <!ENTITY warning         "Installer kun tilføjelser fra udviklere, du stoler på.">
+<!ENTITY allow           "Tillad denne installation">
+<!ENTITY later           "Du kan altid ændre dit valg senere ved at åbne
+                          fanebladet Tilføjelser.">
 <!ENTITY continue        "Fortsæt">
+<!ENTITY restartMessage  "Du skal genstarte &brandShortName; for at afslutte installeringen af denne tilføjelse.">
 <!ENTITY restartButton   "Genstart &brandShortName;">
 <!ENTITY cancelButton    "Annuller">

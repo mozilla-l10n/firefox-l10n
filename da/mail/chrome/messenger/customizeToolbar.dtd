@@ -13,5 +13,6 @@
 <!ENTITY useSmallIcons.label      "Brug små ikoner">
 <!ENTITY restoreDefaultSet.label  "Gendan standardsæt">
 <!ENTITY addNewToolbar.label      "Tilføj ny værktøjslinje">
+<!ENTITY showTitlebar.label       "Vis titellinje">
 <!ENTITY saveChanges.label        "Færdig">
 <!ENTITY undoChanges.label        "Fortryd ændringer">
