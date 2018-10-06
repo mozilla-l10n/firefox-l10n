@@ -17,6 +17,10 @@ onboarding-start-browsing-button-label = Aloita selaaminen
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Yksityinen selaus
+onboarding-private-browsing-text = Selaa itseksesi. Yksityinen selaus varustettuna sisällön estotoiminnolla estää verkkoseuraimet, jotka seuraavat liikkeitäsi verkossa.
 onboarding-screenshots-title = Kuvakaappaukset
+onboarding-screenshots-text = Ota, tallenna ja jaa kuvakaappauksia - poistumatta { -brand-short-name }ista. Ota kaappaus sivun tietystä alueesta tai koko sivusta. Tallenna kuvakaappaus verkkoon, jolloin se on vaivatta käytettävissä ja jaettavissa.
 onboarding-addons-title = Lisäosat
+onboarding-addons-text = Lisää ominaisuuksia, joiden myötä { -brand-short-name } soveltuu tarpeisiisi entistä paremmin. Vertaa hintoja, tarkista sääennuste tai ilmaise itseäsi mukautetun teeman avulla.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Selaa nopeammin, älykkäämmin tai turvallisemmin laajennusten avulla; esimerkkinä Ghostery, joka mahdollistaa ärsyttävien mainosten estämisen.
