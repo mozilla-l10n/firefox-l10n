@@ -607,10 +607,6 @@ sitedata-block-trackers-option =
     .label = ตัวติดตามจากบุคคลที่สาม
 sitedata-block-unvisited-option =
     .label = คุกกี้จากเว็บไซต์ที่ไม่ได้เยี่ยมชม
-sitedata-block-all-third-parties-option =
-    .label = คุกกี้จากบุคคลที่สามทั้งหมด
-sitedata-block-always-option =
-    .label = คุกกี้ทั้งหมด (อาจส่งผลให้เว็บไซต์ไม่สมบูรณ์)
 sitedata-block-all-third-party-option =
     .label = คุกกี้จากบุคคลที่สามทั้งหมด (อาจส่งผลให้เว็บไซต์ไม่สมบูรณ์)
 sitedata-block-all-option =
@@ -659,29 +655,11 @@ content-blocking-category-label = เลือกสิ่งที่จะป�
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = องค์ประกอบติดตามที่ช้า
-    .accesskey = อ
-content-blocking-fastblock-description = ปิดกั้นเนื้อหาจากบุคคลที่สามที่ใช้เวลานานกว่า 5 วินาทีในการโหลด
-content-blocking-fastblock-option-enabled =
-    .label = ปิดกั้นเสมอ
-content-blocking-fastblock-option-disabled =
-    .label = ไม่ปิดกั้นเสมอ
-content-blocking-tracking-protection-label = ตัวติดตาม
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = ตัวติดตามที่โหลดช้า
     .accesskey = ต
-content-blocking-tracking-protection-description = ปิดกั้นตัวติดตามที่รู้จักทั้งหมด (หมายเหตุ: อาจทำให้ไม่สามารถโหลดบางหน้า)
-content-blocking-tracking-protection-option-enabled =
-    .label = ปิดกั้นเสมอ
-content-blocking-tracking-protection-option-pbm =
-    .label = ปิดกั้นเฉพาะในหน้าต่างส่วนตัว
-content-blocking-tracking-protection-option-disabled =
-    .label = ไม่ปิดกั้นเสมอ
-content-blocking-tracking-protection-change-blocklist = เปลี่ยนรายการปิดกั้น…
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-slow-loading-label = ตัวติดตามที่โหลดช้า
-    .accesskey = ต
-content-blocking-tracking-protection-all-label = ตัวติดตามที่ตรวจพบทั้งหมด
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = ตัวติดตามที่ตรวจพบทั้งหมด
     .accesskey = ว
 content-blocking-tracking-protection-option-always =
     .label = เสมอ
@@ -690,7 +668,8 @@ content-blocking-tracking-protection-option-private =
     .label = เฉพาะในหน้าต่างส่วนตัว
     .accesskey = พ
 content-blocking-tracking-protection-change-block-list = เปลี่ยนรายการปิดกั้น
-content-blocking-reject-trackers-label = คุกกี้จากบุคคลที่สาม
+content-blocking-third-party-cookies-label =
+    .label = คุกกี้จากบุคคลที่สาม
     .accesskey = ค
 content-blocking-change-cookie-settings =
     .label = เปลี่ยนการตั้งค่าคุกกี้
