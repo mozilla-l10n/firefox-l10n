@@ -44,6 +44,7 @@
 <!ENTITY translation.errorTranslating.label     "ມີຂໍ້ຜິດພາດໃນການແປຫນ້ານີ້.">
 <!ENTITY translation.tryAgain.button            "ລອງໃຫມ່ອີກຄັ້ງ">
 
+<!ENTITY translation.serviceUnavailable.label   "ການແປບໍ່ພ້ອມໃຊ້ງານໃນຕອນນີ້. ກະລຸນາລອງໃໝ່ອີກຄັ້ງໃນພາຍຫຼັງ.">
 
 <!ENTITY translation.options.menu               "ຕົວເລືອກ">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -71,3 +72,4 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
+<!ENTITY translation.options.attribution.yandexTranslate "ຂັບເຄື່ອນໂດຍ Yandex.Translate">
