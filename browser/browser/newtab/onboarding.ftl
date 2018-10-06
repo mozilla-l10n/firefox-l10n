@@ -5,7 +5,6 @@
 
 ## UI strings for the simplified onboarding modal
 
-onboarding-button-label-try-now = Vyskúšať
 onboarding-welcome-header = Víta vás { -brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
