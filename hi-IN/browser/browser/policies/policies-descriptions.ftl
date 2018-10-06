@@ -10,5 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = मनपसंद ऐप अपडेट URL सेट करें।
 policy-DisableAppUpdate = ब्राउज़र को अपडेट होने से रोकें‌‌‍।
 policy-DisablePrivateBrowsing = निजी ब्राउजिंग अक्षम करें।
+policy-DisableTelemetry = Telemetry बंद करें।
