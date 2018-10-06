@@ -46,3 +46,7 @@
 <!ENTITY  socksRemoteDNS.label          "Proxy-DNS ved brug af SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  dnsOverHttps.label            "Aktiver DNS via HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "k">
+<!ENTITY  dnsOverHttpsUrl.label         "URL">
+<!ENTITY  dnsOverHttpsUrl.accesskey     "L">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL til DNS-opslag via HTTPS">
