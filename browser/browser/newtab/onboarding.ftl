@@ -5,6 +5,7 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-try-now = נסו זאת כעת
 onboarding-welcome-header = ברוכים הבאים אל { -brand-short-name }
 onboarding-start-browsing-button-label = התחלת גלישה
 
