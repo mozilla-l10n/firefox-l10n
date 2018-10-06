@@ -622,6 +622,16 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Blokovať
     .accesskey = l
+sitedata-block-trackers-option-recommended =
+    .label = sledovacie prvky tretích strán (odporúča sa)
+sitedata-block-trackers-option =
+    .label = sledovacie prvky tretích strán
+sitedata-block-unvisited-option =
+    .label = cookies z nenavštívených stránok
+sitedata-block-all-third-party-option =
+    .label = všetky cookies tretích strán (môže obmedziť fungovanie niektorých stránok)
+sitedata-block-all-option =
+    .label = všetky cookies (obmedzí fungovanie niektorých stránok)
 sitedata-clear =
     .label = Vymazať údaje…
     .accesskey = m
@@ -664,6 +674,15 @@ content-blocking-toggle-label-on = ZAPNUTÉ
 content-blocking-toggle-label-off = VYPNUTÉ
     .accesskey = V
 content-blocking-category-label = Vyberte si, čo chcete blokovať
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Spomaľovacie sledovacie prvky
+    .accesskey = S
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Všetky nájdené sledovacie prvky
+    .accesskey = t
 content-blocking-tracking-protection-option-always =
     .label = Vždy
     .accesskey = V
@@ -671,6 +690,9 @@ content-blocking-tracking-protection-change-block-list = Zmeniť zoznam blokovan
 content-blocking-third-party-cookies-label =
     .label = Cookies tretích strán
     .accesskey = C
+content-blocking-change-cookie-settings =
+    .label = Zmeniť nastavenia cookies
+    .accesskey = s
 content-blocking-reject-trackers-block-trackers-option-recommended =
     .label = Sledovacie prvky (odporúča sa)
     .accesskey = v
