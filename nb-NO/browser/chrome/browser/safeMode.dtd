@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "Sikker Modus er en spesiell modus i &brandShortName; som kan brukes for å feilsøke problemer.">
 <!ENTITY safeModeDescription4.label   "Utvidelser og tilpassede innstillinger vil midlertidig slås av.">
 
+<!ENTITY safeModeDescription5.label   "Dine utvidelser og egendefinerte innstillinger blir midlertidig deaktivert, og &brandShortName;-funksjoner har kanskje ikke samme ytelse som nå.">
+
 <!ENTITY refreshProfileInstead.label  "Du kan også hoppe over feilsøking, og prøve oppfriske &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
