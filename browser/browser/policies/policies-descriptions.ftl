@@ -45,6 +45,8 @@ policy-DontCheckDefaultBrowser = נטרול בדיקת דפדפן ברירת ה�
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = הפעלה או נטרול של חסימת תוכן עם אפשרות לנעול את הבחירה.
 policy-FlashPlugin = לאפשר או לדחות את השימוש בתוסף החיצוני Flash.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = הגדרה ונעילה כרשות של דף הבית.
 policy-InstallAddonsPermission = לאפשר לאתרים מסוימים להתקין תוספות.
 policy-Permissions = קביעת תצורה של הרשאות עבור מצלמה, מיקרופון, מיקום והתרעות.
 policy-PopupBlocking = לאפשר לאתרים מסוימים להקפיץ חלונות כברירת מחדל.
@@ -52,3 +54,6 @@ policy-Proxy = קביעת תצורה של הגדרות שרת מתווך.
 policy-SanitizeOnShutdown = ניקוי כל נתוני הניווט עם הכיבוי.
 policy-SearchBar = הגדרת מיקום ברירת המחדל של סרגל החיפוש. המשתמש עדיין מורשה להתאים זאת אישית.
 policy-SearchEngines = הגדרת תצורת מנועי החיפוש. מדיניות זו זמינה רק בגרסה עם תמיכה מורחבת (ESR).
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = חסימת ביקור באתרים. יש לעיין בתיעוד לקבלת פרטים נוספים על התבנית.
