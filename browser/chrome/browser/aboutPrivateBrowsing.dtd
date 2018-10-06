@@ -33,3 +33,4 @@
 <!ENTITY trackingProtection.startTour1                   "Se hvordan dette virker">
 
 <!ENTITY contentBlocking.title                           "Innholdsblokkering">
+<!ENTITY contentBlocking.description                     "Enkelte nettsteder bruker sporere som kan overvåke aktiviteten din på Internett. I private vinduer blokkerer Firefox innholdsblokkering automatisk mange sporere som kan samle inn informasjon om din nettleseradferd.">
