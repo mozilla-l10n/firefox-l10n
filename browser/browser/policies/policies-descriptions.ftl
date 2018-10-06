@@ -47,6 +47,11 @@ policy-HardwareAcceleration = Мәні false болса, құрылғылық ү
 policy-Homepage = Үй парағын орнату және қосымша түрде бұғаттау.
 policy-InstallAddonsPermission = Кейбір веб-сайттарға қосымшаларды орнатуды рұқсат ету.
 policy-Permissions = Камера, микрофон, орналасулар және хабарламалар рұқсаттарын баптау.
+policy-PopupBlocking = Кейбір веб-сайттарға үнсіз келісім бойынша қалқымалы хабарламаларды көрсетуге рұқсат ету.
 policy-Proxy = Прокси баптауларын орнату.
 policy-SanitizeOnShutdown = Сөндірілген кезде, барлық шолулар тарихын өшіру.
 policy-SearchBar = Іздеу жолағында үнсіз келісім бойынша адресті орнату. Пайдаланушы оны өзгерте алады.
+policy-SearchEngines = Іздеу жүйесі параметрлерін баптау. Бұл саясат тек ұзақ мерзімді қолдауы бар (ESR) нұсқасында қолжетерлік.
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Веб-сайттарды шолуға тыйым салады. Пішімі туралы көбірек білу үшін, құжаттаманы қараңыз.
