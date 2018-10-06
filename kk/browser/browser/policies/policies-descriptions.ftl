@@ -22,6 +22,7 @@ policy-Cookies = Веб-сайттарға cookies файлдарын орнат
 policy-DisableAppUpdate = Браузерге жаңартылуға тыйым салу.
 policy-DisableBuiltinPDFViewer = PDF.js, { -brand-short-name } құрамындағы PDF шолушысын сөндіру.
 policy-DisableDeveloperTools = Әзірлеуші құралдарына қатынауды бұғаттау.
+policy-DisableFeedbackCommands = Көмек мәзірінен кері байланысты жіберу командаларын сөндіру (Кері байланыс хабарламасын жіберу және Фишингті сайт туралы хабарлау).
 policy-DisableFirefoxAccounts = { -fxaccount-brand-name } негізіндегі қызметтерді, Синхрондауды қоса, сөндіру.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox скриншоттары мүмкіндігін сөндіру.
@@ -31,6 +32,7 @@ policy-DisablePocket = Веб-парақтары Pocket-ке сақтау мүм
 policy-DisablePrivateBrowsing = Жекелік шолуды сөндіру
 policy-DisableProfileImport = Басқа браузерден деректерді импорттау мәзір командасын сөндіру.
 policy-DisableProfileRefresh = about:support бетінде { -brand-short-name } жаңғырту батырмасын сөндіру.
+policy-DisableSafeMode = Қауіпсіз режимде қайта іске қосылу мүмкіндігін сөндіру. Ескерту: Қауіпсіз режиміне өту үшін Shift пернесін Windows-та тек Топтық Саясат көмегімен сөндіруге болады.
 policy-DisableSecurityBypass = Пайдаланушыға кейбір қауіпсіздік ескертулерді аттап кетуге рұқсат етпеу.
 policy-DisableSetDesktopBackground = Суретті жұмыс үстел фоны ретінде орнатудың мәзір командасын сөндіру.
 policy-DisableSetAsDesktopBackground = Суреттер үшін Жұмыс үстел фоны ретінде орнату мәзір командасын сөндіру.
@@ -41,11 +43,20 @@ policy-DisplayMenuBar = Мәзір жолағын үнсіз келісім бо
 policy-DontCheckDefaultBrowser = Іске қосылғанда негізгі браузері екеніне тексеруді сөндіру.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Құраманы бұғаттауды іске қосу немесе сөндіру, және қосымша түрде оны бекіту.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Кеңейтулерді орнату, өшіру немесе бекіту. Орнату опциясы параметрлер ретінде URL-дер немесе орналасуларды қабылдайды. Өшіру және Бекіту опциялары кеңейтулер ID-ін қабылдайды.
 policy-FlashPlugin = Flash плагинін қолдануды рұқсат ету немесе бұғаттау.
 policy-HardwareAcceleration = Мәні false болса, құрылғылық үдетуді сөндіру.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Үй парағын орнату және қосымша түрде бұғаттау.
 policy-InstallAddonsPermission = Кейбір веб-сайттарға қосымшаларды орнатуды рұқсат ету.
+policy-NoDefaultBookmarks = { -brand-short-name } ішінде келетін үнсіз келісім бойынша бетбелгілерді, және ақылды бетбелгілерді (Жиі қаралатын, Соңғы белгілер) жасауды сөндіру. Ескерту: бұл опция тек профильдің бірінші орындалуы алдында жасалған кезде іске асады.
+policy-OfferToSaveLogins = { -brand-short-name } үшін сақталған логиндер мен парольдерді ұсынуға рұқсат ету опциясын мәжбүрлету. Екі мәні де, true мен false, қабылданады.
+policy-OverrideFirstRunPage = Бірінші жөнелту парағын алмастыру. Бірінші жөнелту парағын сөндіру үшін, бұл саясатты бос қалдырыңыз.
+policy-OverridePostUpdatePage = Жаңартылғаннан кейін "Не жаңалық" парағын алмастыру. Жаңартылғаннан кейінгі парақты сөндіру үшін, бұл саясатты бос қалдырыңыз.
 policy-Permissions = Камера, микрофон, орналасулар және хабарламалар рұқсаттарын баптау.
 policy-PopupBlocking = Кейбір веб-сайттарға үнсіз келісім бойынша қалқымалы хабарламаларды көрсетуге рұқсат ету.
 policy-Proxy = Прокси баптауларын орнату.
