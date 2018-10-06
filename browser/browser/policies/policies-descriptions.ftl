@@ -49,5 +49,7 @@ policy-EnableTrackingProtection = Aktiver eller deaktiver innholdsblokkering med
 policy-Extensions = Installere, avinstallere eller låse utvidelser. Installeringsalternativet tar nettadresser eller baner som parametere. Avinstallerings- og Låse-alternativene tar utvidelses-ID som parameter.
 policy-FlashPlugin = Tillat eller nekt bruk av programtillegget Flash.
 policy-HardwareAcceleration = Hvis deaktivert, slå av maskinvareakselerasjon.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Sett og eventuelt lås startsiden.
 policy-InstallAddonsPermission = Tillat visse nettsteder å installere utvidelser.
 policy-Proxy = Konfigurer proxy-innstillinger.

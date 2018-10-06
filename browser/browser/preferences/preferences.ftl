@@ -6,6 +6,8 @@ do-not-track-description = Send nettsider et «Ikke spor»-signal om at du ikke 
 do-not-track-learn-more = Les mer
 do-not-track-option-default =
     .label = Bare når du bruker sporingsbeskyttelse
+do-not-track-option-default-content-blocking =
+    .label = Bare når { -brand-short-name } er satt til å blokkere oppdagede sporere
 do-not-track-option-always =
     .label = Alltid
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = En utvidelse, <img data-l10n-name="ico
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = En utvidelse, <img data-l10n-name="icon"/> { $name }, styrer sporingsbeskyttelse.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = En utvidelse, <img data-l10n-name="icon"/> { $name }, styrer denne innstillingen.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = En utvidelse, <img data-l10n-name="icon"/> { $name }, styrer hvordan { -brand-short-name } kobler seg til internett.
@@ -624,6 +629,8 @@ sitedata-block-unvisited-option =
     .label = Infokapsler fra ubesøkte nettsteder
 sitedata-block-all-third-party-option =
     .label = Alle tredjeparts-infokapsler (kan forårsake feil på nettsteder)
+sitedata-block-all-option =
+    .label = Alle infokapsler (vil føre til at nettsteder slutter å fungere)
 sitedata-clear =
     .label = Tøm data…
     .accesskey = a
@@ -633,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Unntak …
     .accesskey = U
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Dine innstillinger i Innholdsblokkering forhindrer endringer i innstillinger for Infokapsler og nettstedsdata.
 
 ## Privacy Section - Address Bar
 
@@ -666,6 +677,45 @@ content-blocking-toggle-label-on = PÅ
 content-blocking-toggle-label-off = AV
     .accesskey = A
 content-blocking-category-label = Velg hva som skal blokkeres
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Treglastende sporere
+    .accesskey = s
+content-blocking-fastblock-new-description = Blokker bare sporene som gjør at sider laster tregere.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Alle oppdagede sporere
+    .accesskey = e
+content-blocking-tracking-protection-new-description = Blokker alle kjente sporere. (Kan forhindre at enkelte nettsider lastes inn.)
+content-blocking-tracking-protection-option-always =
+    .label = Alltid
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Bare i private vinduer
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Endre blokkeringsliste
+content-blocking-third-party-cookies-label =
+    .label = Tredjeparts-infokapsler
+    .accesskey = k
+content-blocking-reject-trackers-description = Blokker alle tredjeparts infokapsler eller bare de som er satt av sporere.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Dine innstillinger i  Infokapsler og nettstedsdata forhindrer endringer i Instillinger for tredjeparts-infokapsler
+content-blocking-change-cookie-settings =
+    .label = Endre innstillinger for infokapsler
+    .accesskey = s
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Sporere (anbefales)
+    .accesskey = p
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Sporere
+    .accesskey = p
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Alle tredjeparts infokapsler (kan føre til at nettsteder slutter å fungere)
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
