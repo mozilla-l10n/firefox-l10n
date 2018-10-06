@@ -20,7 +20,7 @@ date-crashed-heading = Nedbrudsdato
 submit-crash-button-label = Indsend
 # This text is used to replace the label of the crash submit button
 # if the crash submission fails.
-submit-crash-button-failure-label = Mislykket
+submit-crash-button-failure-label = Mislykkedes
 
 crashes-submitted-label = Sendte fejlrapporter
 date-submitted-heading = Indsendelsesdato
