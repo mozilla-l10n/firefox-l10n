@@ -29,6 +29,7 @@ policy-DisableMasterPasswordCreation = Om aktiv, kan ikkje eit hovudpassord laga
 policy-DisablePocket = Deaktiver funksjonen for å lagre nettsider til Pocket.
 policy-DisablePrivateBrowsing = Slå av Privat nettlesing.
 policy-DisableProfileImport = Deaktiver meny-kommandoen for å importere data frå ein annan nettlesar.
+policy-DisableProfileRefresh = Deaktiver knappen Tilbakestill { -brand-short-name } på sida about:support.
 policy-DisableTelemetry = Slå av av telemetri.
 policy-DisplayBookmarksToolbar = Vis bokmerkeverktøylinja som standard.
 policy-DisplayMenuBar = Vise menylinja som standard.
