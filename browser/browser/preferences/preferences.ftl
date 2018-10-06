@@ -6,6 +6,8 @@ do-not-track-description = Сайттарға "Мені бақыламау" си
 do-not-track-learn-more = Көбірек білу
 do-not-track-option-default =
     .label = Тек Бақылаудан қорғанысты қолдану кезінде
+do-not-track-option-default-content-blocking =
+    .label = Тек { -brand-short-name } Анықталған Трекерлерді бұғаттауға бапталған болса.
 do-not-track-option-always =
     .label = Әрқашан
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name }
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = <img data-l10n-name="icon"/> { $name } кеңейтуі бақылаудан қорғанысты басқарып тұр.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Бұл баптауды <img data-l10n-name="icon"/> { $name } кеңейтуі басқарып тұр.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = <img data-l10n-name="icon"/> { $name } кеңейтуі { -brand-short-name } интернетке байланысу тәсілін басқарып тұр.
@@ -635,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = Е
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Сіздің Құраманы бұғаттау ішіндегі баптаулар Cookies файлдары және Сайт деректеріне өзгерістерді енгізуге жол бермей тұр.
 
 ## Privacy Section - Address Bar
 
@@ -690,6 +699,11 @@ content-blocking-third-party-cookies-label =
     .label = Үшінші жақты cookies файлдары
     .accesskey = т
 content-blocking-reject-trackers-description = Барлық үшінші жақты немесе тек трекерлер орнатқан cookies файлдарын бұғаттау.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Сіздің Cookies файлдары және Сайт деректері ішіндегі баптаулар Үшінші жақты cookies файлдары баптауларына өзгерістерді енгізуге жол бермей тұр.
 content-blocking-change-cookie-settings =
     .label = Cookie баптауларын өзгерту
     .accesskey = п
@@ -699,6 +713,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Трекерлер
     .accesskey = к
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Барлық үшінші жақты cookies (веб-сайтта сынуы мүмкін)
+    .accesskey = а
 
 ## Privacy Section - Tracking
 
