@@ -443,7 +443,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "添加更多项目…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
-<!ENTITY customizeMenu.autoHideDownloadsButton.label "自动隐藏入工具栏">
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "于工具栏自动隐去">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "管理扩展">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
