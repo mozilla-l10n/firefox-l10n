@@ -6,6 +6,8 @@ do-not-track-description = Send nettsider eit «Ikkje spor»-signal om at du ikk
 do-not-track-learn-more = Les meir
 do-not-track-option-default =
     .label = Berre når eg brukar Sporingsvern
+do-not-track-option-default-content-blocking =
+    .label = Berre når { -brand-short-name } er sett til å blokkere oppdaga sporfølgjarar
 do-not-track-option-always =
     .label = Alltid
 pref-page =
@@ -666,6 +668,16 @@ content-blocking-toggle-label-on = PÅ
 content-blocking-toggle-label-off = AV
     .accesskey = A
 content-blocking-category-label = Vel kva som skal blokkerast
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Treglastande sporfølgjarar
+    .accesskey = s
+content-blocking-fastblock-new-description = Blokker berre sporfølgjarar som gjer at sider lastar tregare.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Alle oppdaga sporfølgjarar
+    .accesskey = e
 content-blocking-tracking-protection-option-always =
     .label = Alltid
     .accesskey = A
@@ -677,7 +689,7 @@ content-blocking-third-party-cookies-label =
     .label = Infokapslar frå tredjepart
     .accesskey = I
 content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Sporfølgjarar
+    .label = Sporfølgjarar (tilrådde)
     .accesskey = S
 content-blocking-reject-trackers-block-trackers-option =
     .label = Sporfølgjarar
