@@ -517,6 +517,7 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = ການລະງັບເນື້ອຫາ
 content-blocking-learn-more = ຮຽນຮູ້ເພີມຕື່ມ
 content-blocking-restore-defaults =
     .label = ກັບຄືນສູ່ຄ່າເລີ່ມຕົ້ນ
@@ -525,6 +526,7 @@ content-blocking-toggle-label-on = ເປີດ
     .accesskey = O
 content-blocking-toggle-label-off = ປິດ
     .accesskey = O
+content-blocking-category-label = ເລືອກສິ່ງທີ່ຈະລະງັບ
 content-blocking-tracking-protection-option-always =
     .label = ສະເໝີ
     .accesskey = A

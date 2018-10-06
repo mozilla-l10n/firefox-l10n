@@ -841,12 +841,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.restoreDefaults "ກູ້ຄືນຄ່າເລີ່ມຕົ້ນ">
 <!ENTITY customizeMode.done "ສຳເລັດ">
+<!ENTITY customizeMode.titlebar "ແຖບຊື່">
+<!ENTITY customizeMode.extraDragSpace "ພື້ນທີ່ລາກ">
 <!ENTITY customizeMode.toolbars2 "ແຖບເຄືອງມື">
 <!ENTITY customizeMode.lwthemes "ຊຸດຕົກແຕ່ງ">
+<!ENTITY customizeMode.lwthemes.myThemes "ຊຸດຕົກແຕ່ງຂອງຂ້ອຍ">
 <!ENTITY customizeMode.lwthemes.recommended "ແນະນຳ">
 <!ENTITY customizeMode.lwthemes.menuManage "ຈັດການ">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "ຮັບຊຸດຕົກແຕ່ງເພີມເຕີມ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.overflowList.title2 "ເມນູທີ່ກາຍ">
 <!ENTITY customizeMode.uidensity "ຄວາມ​ຫນາ​ແຫນ້ນ">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -928,6 +933,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "ປິດໃຊ້ງານສຳລັບເວັບໄຊນີ້">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -935,6 +941,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "ເປີດໃຊ້ງານສຳລັບເວັບໄຊນີ້">
 <!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "ໂຫລດຫນ້າໃຫມ່">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
