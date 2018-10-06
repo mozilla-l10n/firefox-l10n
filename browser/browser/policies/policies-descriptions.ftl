@@ -12,4 +12,6 @@
 
 policy-AppUpdateURL = Setează un URL personalizat de actualizare a aplicației.
 policy-Authentication = Configurează autentificarea integrată pentru site-urile web care o acceptă.
+policy-BlockAboutProfiles = Blochează accesul la pagina despre:profiluri.
+policy-BlockAboutSupport = Blochează accesul la pagina despre:suport.
 policy-DisableBuiltinPDFViewer = Dezactivează PDF.js, vizualizatorul de fișiere PDF încorporat în { -brand-short-name }.
