@@ -969,7 +969,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
-<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "חסום">
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "חסומות">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1101,7 +1101,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.accesskey "ר">
 
 <!ENTITY tabHideControlled.header.message "גישה ללשוניות המוסתרות שלך">
-<!ENTITY tabHideControlled.keepButton.label "להשאיר את הלשוניות מוסתרות">
+<!ENTITY tabHideControlled.keepButton.label "השארת הלשוניות מוסתרות">
 <!ENTITY tabHideControlled.keepButton.accesskey "ש">
 <!ENTITY tabHideControlled.disableButton.label "השבתת הרחבה">
 <!ENTITY tabHideControlled.disableButton.accesskey "ב">

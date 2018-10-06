@@ -5,7 +5,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - נא לבחור פרופיל משתמש">
+<!ENTITY            windowtitle.label      "&brandShortName; - בחירת פרופיל משתמש">
 
 <!ENTITY            profilename.label      "שם פרופיל:">
 
@@ -22,9 +22,9 @@
 <!ENTITY            deleteButton.accesskey "ח">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; מאכסן מידע על ההגדרות, ההעדפות, ופריטי משתמש אחרים שלך בפרופיל המשתמש שלך.">
+<!ENTITY            pmDescription.label    "&brandShortName; מאחסן מידע על ההגדרות, ההעדפות, ופריטי משתמש אחרים שלך בפרופיל המשתמש שלך.">
 
-<!ENTITY            offlineState.label    "עבוד לא־מקוון">
+<!ENTITY            offlineState.label    "עבודה במצב לא־מקוון">
 <!ENTITY            offlineState.accesskey "ע">
 
 <!ENTITY            useSelected.label       "להשתמש בפרופיל הנבחר מבלי לשאול בהפעלה">

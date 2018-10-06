@@ -97,6 +97,8 @@
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
+<!ENTITY options.enableServiceWorkersHTTP.label     "הפעלת Service Workers על גבי HTTP (כשארגז הכלים פתוח)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "הפעלת אפשרות זו תאפשר את ה־service workers על גבי HTTP עבור כל הלשוניות שבהן ארגז הכלים פתוח.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -164,8 +166,8 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
-<!ENTITY options.screenshot.clipboard.label      "צילום מסך ללוח גזירים">
-<!ENTITY options.screenshot.clipboard.tooltip    "שמירת צילום המסך ישירות ללוח הגזירים">
+<!ENTITY options.screenshot.clipboard.label      "צילום מסך ללוח העריכה">
+<!ENTITY options.screenshot.clipboard.tooltip    "שמירת צילום המסך ישירות ללוח העריכה">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
