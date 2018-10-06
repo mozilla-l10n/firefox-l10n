@@ -26,8 +26,10 @@ policy-DisableFeedbackCommands = Көмек мәзірінен кері байл
 policy-DisableFirefoxAccounts = { -fxaccount-brand-name } негізіндегі қызметтерді, Синхрондауды қоса, сөндіру.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox скриншоттары мүмкіндігін сөндіру.
+policy-DisableFirefoxStudies = { -brand-short-name } үшін зерттеулерді орындауға тыйым салу.
 policy-DisableForgetButton = Ұмыту батырмасына рұқсатты жабу.
 policy-DisableFormHistory = Іздеу және формалар тарихын сақтамау.
+policy-DisableMasterPasswordCreation = Мәні true болса, мастер-парольді орнату мүмкін болмайды.
 policy-DisablePocket = Веб-парақтары Pocket-ке сақтау мүмкіндігін сөндіру.
 policy-DisablePrivateBrowsing = Жекелік шолуды сөндіру
 policy-DisableProfileImport = Басқа браузерден деректерді импорттау мәзір командасын сөндіру.
