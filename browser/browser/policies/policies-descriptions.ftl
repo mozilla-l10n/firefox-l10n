@@ -52,4 +52,9 @@ policy-HardwareAcceleration = Hvis deaktivert, slå av maskinvareakselerasjon.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Sett og eventuelt lås startsiden.
 policy-InstallAddonsPermission = Tillat visse nettsteder å installere utvidelser.
+policy-Permissions = Stille inn tillatelser for kamera, mikrofon, plassering og varsler.
+policy-PopupBlocking = Tillat at visse nettsteder skal kunne vise sprettoppvinduer som standard.
 policy-Proxy = Konfigurer proxy-innstillinger.
+policy-SanitizeOnShutdown = Fjern alle nettlesingsdata ved avslutning.
+policy-SearchBar = Angi standardplassering for søkefeltet. Brukeren kan fortsatt tilpasse den.
+policy-SearchEngines = Konfigurer søkemotorinnstillinger. Denne policyen er kun tilgjengelig for Extended Support Release (ESR).

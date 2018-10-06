@@ -17,6 +17,7 @@ onboarding-start-browsing-button-label = Start nettlesing
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Privat nettlesing
+onboarding-private-browsing-text = Surf alene. Privat nettlesing med innholdsblokkering blokkerer sporere på internett som følger deg rundt på nettet.
 onboarding-screenshots-title = Skjermbilder
 onboarding-screenshots-text = Ta, lagre og del skjermbilder - uten å forlate { -brand-short-name }. Ta skjermbilde av et område eller en hel side mens du surfer. Deretter lagrer du på nettet for enkel tilgang og deling.
 onboarding-addons-title = Utvidelser
