@@ -978,6 +978,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Мәселені хабарлау">
 <!ENTITY contentBlocking.breakageReportView.label "Мәселелерді хабарлау">
+<!ENTITY contentBlocking.breakageReportView2.description "Құраманы бұғаттау кейбір веб-сайттармен мәселелерді туғызуы мүмкін. Сіз мәселелерді хабарлаған кезде, &brandShortName; өнімін әркім үшін жақсырақ қылуға көмектесесіз. (Бұл URL және браузер баптаулары ақпаратын Mozilla-ға жібереді.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Көбірек білу">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Мәселелердің қай түрін кездестірдіңіз? (Міндетті емес)">
