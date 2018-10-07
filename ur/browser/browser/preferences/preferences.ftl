@@ -478,6 +478,12 @@ history-clear-button =
 
 sitedata-header = کوکیاں اور سائٹ کے کواِئف
 sitedata-learn-more = مزید سیکھیں
+sitedata-accept-cookies-option =
+    .label = ویب سائٹس سے کوکیز اور سائٹ کا ڈیٹا قبول کریں (سفارش شدا)
+    .accesskey = ا
+sitedata-block-cookies-option =
+    .label = کوکیز اور سائٹ کا ڈیٹا روکیں(ویب سائٹس توڑنے کا سبب بن سکتا ہے)
+    .accesskey = ب
 sitedata-keep-until = رکھیں جب تک
     .accesskey = u
 sitedata-keep-until-expire =
@@ -492,6 +498,14 @@ sitedata-accept-third-party-visited-option =
     .label = ملاحظہ شدہ سے
 sitedata-accept-third-party-never-option =
     .label = کبھی نہیں
+sitedata-allow-cookies-option =
+    .label = کوکیز اور سائٹ کا ڈیٹا قبول کریں
+    .accesskey = ا
+sitedata-disallow-cookies-option =
+    .label = کوکیز اور سائٹ کا ڈیٹا روکیں
+    .accesskey = ر
+sitedata-block-all-third-party-option =
+    .label = سارے تیسری تنظیم کے کوکیز(ویب سائٹس توڑنے کا سبب بن سکتا ہے)
 sitedata-clear =
     .label = کوائف… خالی کریں
     .accesskey = l
@@ -527,6 +541,12 @@ content-blocking-toggle-label-on = چالو
 content-blocking-toggle-label-off = بند
     .accesskey = O
 content-blocking-category-label = چنیں کیا بلاک کرنا ہے
+content-blocking-third-party-cookies-label =
+    .label = تیسری تنظیم کے کوکیز
+    .accesskey = ک
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = سارے تیسری تنظیم کے کوکیز(ویب سائٹس توڑنے کا سبب بن سکتا ہے)
+    .accesskey = ا
 
 ## Privacy Section - Tracking
 
