@@ -55,3 +55,16 @@ policy-HardwareAcceleration = Ja atslēgts (false), atslēdz aparatūras paātri
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Iestata un iespējams fiksē sākuma lapu.
 policy-InstallAddonsPermission = Ļauj konkrētām lapām instalēt papildinājumus.
+policy-NoDefaultBookmarks = Deaktivē standarta { -brand-short-name } grāmatzīmju izveidi, piemēram Biežāk izmantotās, Jaunākie tagi. Piezīme: Šī politika būs efektīva vienīgi, ja ir aktivēta pirms pirmās pārlūka palaišanas.
+policy-OfferToSaveLogins = Iestata vērtību { -brand-short-name } paroļu saglabāšanas iespējai. Iespējamās vērtības it gan true gan false.
+policy-OverrideFirstRunPage = Pārraksta pirmās palaišanas lapu. Iestatiet šeit tukšumu, lai deaktivētu pirmās palaišanas lapu.
+policy-OverridePostUpdatePage = Pārraksta pēc atjauninājumu "Kas jauns" lapu. Iestatiet šeit tukšumu, lai deaktivētu šo lapu.
+policy-Permissions = Konfigurē kameras, mikrofona, atrašanās vietas un paziņojumu iestatījumus.
+policy-PopupBlocking = Ļaut zināmām lapām pēc noklusējuma rādīt uznirstošos logus.
+policy-Proxy = Konfigurē starpniekservera iestatījumus.
+policy-SanitizeOnShutdown = Aizverot notīrīt visus pārvietošanās datus.
+policy-SearchBar = Iestata noklusēto meklēšanas joslas atrašanos. Šis joprojām ļauj lietotājam to mainīt.
+policy-SearchEngines = Konfigurē meklētāju iestatījumus. Šī politika ir pieejama vienīgi pagarinātā atbalsta laidienos (ESR).
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Bloķēt lapu apmeklēšanu. Sīkāka informācija par formātu pieejama dokumentācijā.
