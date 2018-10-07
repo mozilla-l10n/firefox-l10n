@@ -36,5 +36,9 @@ policy-DisableProfileImport = Адключыць каманду меню для 
 policy-DisableProfileRefresh = Адключыць кнопку «Абнавіць { -brand-short-name }» на старонцы «about:support».
 policy-DisableTelemetry = Выключыць тэлеметрыю.
 policy-DontCheckDefaultBrowser = Адключыць праверку прадвызначанага браўзера ў час запуску.
+policy-PopupBlocking = Дазволіць пэўным вэб-сайтам тыпова паказваць усплыўныя вокны.
 policy-Proxy = Наладзіць параметры проксі.
 policy-SanitizeOnShutdown = Сціраць усе звесткі аб агляданні па закрыцці.
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Забараніць наведванне вэб-сайтаў. За падрабязнасцямі фармату гл. дакументацыю.
