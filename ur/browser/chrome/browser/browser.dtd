@@ -829,6 +829,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "اجازتیں">
 <!ENTITY identity.permissionsEmpty "آپ نے اس سائٹ کو کوئی خاص اجازتیں نہیں دیں ہے۔">
 <!ENTITY identity.permissionsReloadHint "تبدیلی کو لگانے کے لیئے آپکو صفحہ کو دوبارہ لوڈ کرنے کی شاید ظرورت ہو۔">
+<!ENTITY identity.permissionsPreferences.tooltip "اجازت ترجیحات کھولیں">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -841,6 +842,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.label    "یہاں انکے ٹیبیں دیکھنیں کے لئے اپنے دیگر آلات سے Firefox میں سائن ان کرے۔">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "اپنے ٹیب کو دوسرے آلات سے یہاں سے دیکھنا پسند کریں گے؟">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "ٹیبیں کی فہرست دیکھنیں کے لئے اپنے دیگر آلات سے سائن ان کریں۔">
+<!ENTITY syncedTabs.sidebar.unverified.label   "آپ کے اکائونٹ کو توژیک کاری کی ظرورت ہے۔">
 <!ENTITY syncedTabs.sidebar.notabs.label       "کوئی کھلے ٹیب نہیں">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; ترجیحات کھولیں">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown

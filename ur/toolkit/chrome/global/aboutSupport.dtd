@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "کریش رپورٹیں">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "شناخت رپورٹ کریں">
 <!ENTITY aboutSupport.crashes.sendDate "ارسال کردہ">
 <!ENTITY aboutSupport.crashes.allReports "تمام کریش رپورٹیں">
@@ -24,19 +24,14 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.securitySoftwareTitle "سلامتی سافٹ ویئر">
 <!ENTITY aboutSupport.securitySoftwareType "قسم">
 <!ENTITY aboutSupport.securitySoftwareName "نام">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "اینٹی وائرس">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "اینٹی سپائویر">
+<!ENTITY aboutSupport.securitySoftwareFirewall "فایروال">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; فیچر">
 <!ENTITY aboutSupport.featureName "نام">
 <!ENTITY aboutSupport.featureVersion "ورژن">
-
-<!ENTITY aboutSupport.experimentsTitle "تجرباتی فیچر">
-<!ENTITY aboutSupport.experimentName "نام">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "تصریح">
-<!ENTITY aboutSupport.experimentActive "فعال">
-<!ENTITY aboutSupport.experimentEndDate "تاریخ اختتام">
-<!ENTITY aboutSupport.experimentHomepage "ابتدائی صفحہ">
-<!ENTITY aboutSupport.experimentBranch "شاخ">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.appBasicsTitle "ایپلی کیشن BASIC">
 <!ENTITY aboutSupport.appBasicsName "نام">
@@ -69,8 +64,12 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ملٹی عمل دریچہ">
 
+<!ENTITY aboutSupport.appBasicsProcessCount "ویب مواد پروسیسنگ">
 
+<!ENTITY aboutSupport.enterprisePolicies "انٹرپرائز کی پالیسیوں">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google کلید">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "٘Mozilla مقام سروس کلی">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "محفوظ موڈ">
 
@@ -107,6 +106,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "رسائی پزیری">
 <!ENTITY aboutSupport.a11yActivated "عمل میں لائیں">
 <!ENTITY aboutSupport.a11yForceDisabled "رسائی پزیری روکیں">
+<!ENTITY aboutSupport.a11yHandlerUsed "رسائی ہینڈلر استعمال کیا جاتا ہے">
+<!ENTITY aboutSupport.a11yInstantiator "رسائی انسٹینٹیوٹر">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "لائبریری ورژن">
 
@@ -117,10 +118,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "تختہ تراشہ پر خام کوائف نقل کریں">
 
 <!ENTITY aboutSupport.sandboxTitle "سینڈ باکس">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "مسترد سیسٹم کال">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "چند سیکنڈ پہلے">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "پروسیسنگ کی قسم">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "دلائل">
 
 <!ENTITY aboutSupport.safeModeTitle "محفوظ موڈ آزمائیں">
 <!ENTITY aboutSupport.restartInSafeMode.label "ایڈز آن نا اہل کر کے دوبارہ شروع کریں...">
@@ -135,9 +140,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "متبادل راستے">
 
 <!ENTITY aboutSupport.mediaTitle "میڈیا">
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "آؤٹ پٹ آلات">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "ان پٹ آلات">
 <!ENTITY aboutSupport.mediaDeviceName "نام">
 <!ENTITY aboutSupport.mediaDeviceGroup "گروہ">
+<!ENTITY aboutSupport.mediaDeviceVendor "فروشندہ">
 <!ENTITY aboutSupport.mediaDeviceState "ریاست">
 <!ENTITY aboutSupport.mediaDevicePreferred "ترییحی">
+<!ENTITY aboutSupport.mediaDeviceFormat "شکل">
+<!ENTITY aboutSupport.mediaDeviceChannels "چینلز">
 <!ENTITY aboutSupport.mediaDeviceRate "شرح">
 
