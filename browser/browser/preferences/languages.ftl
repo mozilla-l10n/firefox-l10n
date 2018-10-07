@@ -5,6 +5,9 @@
 languages-window =
     .title = Valodas
     .style = width: 30em
+webpage-languages-window =
+    .title = Lapas valodu iestatījumi
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Tīmekļa lappuses dažreiz tiek piedāvātas vairākās valodās. Izvēlēties šo tīmekļa lappušu rādīšanas valodu izvēles kārtību
@@ -38,3 +41,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } valodu iestatījumi
+    .style = width: 40em
+browser-languages-description = { -brand-short-name } attēlos pirmo valodu kā noklusēto un pārējās valodas, ja nepieciešams tādā secībā, kādā tās būs sarakstā.
