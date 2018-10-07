@@ -36,10 +36,20 @@ policy-DisableProfileImport = Desactivar el comando de menú para importar datos
 policy-DisableProfileRefresh = Desactivar el botón de Restablecer { -brand-short-name } en la página about:support.
 policy-DisableSafeMode = Desactivar la función para reiniciar en modo seguro. Nota: la tecla Mayús para acceder al modo seguro solo se puede desactivar en Windows usando las políticas de grupo del sistema.
 policy-DisableSecurityBypass = Evitar que el usuario se salte ciertas advertencias de seguridad.
+policy-DisableSetDesktopBackground = Desactivar el comando de menú Establecer imagen como fondo de escritorio.
+policy-DisableSetAsDesktopBackground = Desactivar el comando de menú Establecer como fondo de escritorio para las imágenes.
+policy-DisableSystemAddonUpdate = Impedir que el navegador instale y actualice complementos del sistema.
 policy-DisableTelemetry = Desactivar Telemetry.
 policy-DisplayBookmarksToolbar = Mostrar de forma predeterminada la barra de herramientas de marcadores.
 policy-DisplayMenuBar = Mostrar de forma predeterminada la barra de menú.
 policy-DontCheckDefaultBrowser = Desactivar la comprobación de navegador predeterminado al iniciar.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Activar o desactivar el bloqueo de contenido y bloquearlo opcionalmente.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Instalar, desinstalar o bloquear extensiones. La opción de instalar usa URLs o rutas como parámetros. Las opciones para desinstalar y bloquear usan los ID de las extensiones.
 policy-Permissions = Configurar permisos para cámara, micrófono, ubicación y notificaciones.
 policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de forma predeterminada.
 policy-Proxy = Configurar los ajustes del proxy.
