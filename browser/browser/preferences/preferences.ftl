@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = Ei utviding, <img data-l10n-name="icon
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Ei utviding, <img data-l10n-name="icon"/> { $name }, styrer sporingsvernet.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Eit tillegg, <img data-l10n-name="icon"/> { $name }, styrer denne innstillinga.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Ei utviding, <img data-l10n-name="icon"/> { $name }, styrer korleis { -brand-short-name } koplar seg til internett.
@@ -680,6 +683,7 @@ content-blocking-fastblock-new-description = Blokker berre sporfølgjarar som gj
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Alle oppdaga sporfølgjarar
     .accesskey = e
+content-blocking-tracking-protection-new-description = Blokker alle kjende sporfølgjarar. (Kan hindre at enkelte nettsider vert lasta inn inn.)
 content-blocking-tracking-protection-option-always =
     .label = Alltid
     .accesskey = A
@@ -690,6 +694,12 @@ content-blocking-tracking-protection-change-block-list = Endre blokkeringsliste
 content-blocking-third-party-cookies-label =
     .label = Infokapslar frå tredjepart
     .accesskey = I
+content-blocking-reject-trackers-description = Blokker alle tredjeparts infokapslar eller berre dei som er brukte av sporfølgjarar.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Innstillingane dine i Infokapsler og nettsidedata hindrar endringar i Instillingar for tredjeparts-infokapslar
 content-blocking-change-cookie-settings =
     .label = Endre innstillingar for infokapslar
     .accesskey = s
@@ -699,6 +709,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Sporfølgjarar
     .accesskey = S
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Alle tredjeparts infokapslar (kan føre til at nettsider sluttar å fungere)
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
