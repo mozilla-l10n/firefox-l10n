@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Privātā pārlūkošana">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Atvērt privāto logu?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Šobrīd jūs neesat privātajā logā.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Atvērt privāto logu">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
@@ -25,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " jūsu:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "lejupielādes">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "grāmatzīmes">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "kopēts teksts">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privātā pārlūkošana ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "nepadara jūs anonīmus">
 <!ENTITY aboutPrivateBrowsing.note.after                 " internetā. Ņemiet vērā, ka jūsu darba devējs vai interneta pakalpojumu sniedzējs joprojām var noteikt lapas, kuras apmeklējat.">
@@ -35,3 +31,6 @@
 <!ENTITY trackingProtection.title                        "Izsekošanas aizsardzība">
 <!ENTITY trackingProtection.description2                 "Dažas lapas izmanto sekotājus, kas var izsekot jūsu aktivitātei internetā. Ar izsekošanas aizsardzību Firefox bloķēs daudzus no sekotājiem, kas vāc informāciju par jūsu aktivitātēm internetā.">
 <!ENTITY trackingProtection.startTour1                   "Apskatiet kā tas strādā">
+
+<!ENTITY contentBlocking.title                           "Satura bloķēšana">
+<!ENTITY contentBlocking.description                     "Dažas lapas izmanto sekotājus, kas var izsekot jūsu darbībām internetā. Privātajos logos Firefox satura bloķēšana automātiski bloķē sekotājus, kas var ievākt informāciju par jūsu aktivitātēm internetā.">

@@ -701,6 +701,24 @@ content-blocking-tracking-protection-change-block-list = Mainīt bloķēto sarak
 content-blocking-third-party-cookies-label =
     .label = Trešo pušu sīkdatnes
     .accesskey = T
+content-blocking-reject-trackers-description = Bloķējiet trešo pušu sīkdatnes vai tikai tās, ko iestata sekotāji.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Jūsu satura un lapu datu iestatījumi liedz veikt izmaiņas trešo pušu sīkdatņu iestatījumos.
+content-blocking-change-cookie-settings =
+    .label = Mainīt sīkdatņu iestatījumus
+    .accesskey = s
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Sekotāji (ieteicams)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Sekotāji
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Visas trešo pušu sīkdatnes (dažas lapas var saplīst)
+    .accesskey = a
 
 ## Privacy Section - Tracking
 
@@ -763,6 +781,7 @@ autoplay-option-allow =
     .label = Atļaut automātisku atskaņošanu
 autoplay-option-dont =
     .label = Neatļaut automātisku atskaņošanu
+permissions-autoplay-link = Uzzināt vairāk
 permissions-block-popups =
     .label = Bloķēt jaunos logus
     .accesskey = B
