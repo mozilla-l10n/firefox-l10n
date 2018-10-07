@@ -703,7 +703,7 @@ content-blocking-reject-trackers-description = Blokker alle tredjeparts infokaps
 # of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
 # or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
 # the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Dine innstillinger i  Infokapsler og nettstedsdata forhindrer endringer i Instillinger for tredjeparts-infokapsler
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Dine innstillinger i Infokapsler og nettstedsdata forhindrer endringer i Instillinger for tredjeparts-infokapsler
 content-blocking-change-cookie-settings =
     .label = Endre innstillinger for infokapsler
     .accesskey = s
