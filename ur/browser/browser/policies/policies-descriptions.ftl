@@ -10,11 +10,10 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-AppUpdateURL = مرضی کے مطابق ایپ اپڈیٹ URL سیٹ کریں
+policy-AppUpdateURL = مرضی کے مطابق ایپ اپڈیٹ URL سیٹ کریں۔
 policy-BlockAboutConfig = about:config صفحے پر رسائی کو روکیں۔
 policy-BlockAboutProfiles = about:profiles صفحے پر رسائی کو روکیں۔
 policy-BlockAboutSupport = about:support صفحے پر رسائی کو روکیں۔
-policy-DisableAppUpdate = براؤزر کو اپ ڈیٹ ہونے سے روکیں.
 policy-DisablePrivateBrowsing = نجی براؤزنگ غیر فعال کریں
 policy-DisableTelemetry = ٹیلی میٹری بند کریں۔
 policy-Proxy = پراکسی سیٹنگز ترتیب کریں۔
