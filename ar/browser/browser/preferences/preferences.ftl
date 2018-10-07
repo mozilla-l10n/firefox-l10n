@@ -696,7 +696,10 @@ content-blocking-fastblock-new-description = احجب المتعقّبات ال�
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = كل المتعقّبات المكتشفة
     .accesskey = ش
-content-blocking-tracking-protection-new-description = احج كل المتعقّبات المعروفة. (قد يمنع بعض الصفحات من التحميل.)
+content-blocking-tracking-protection-new-description = احجب كل المتعقّبات المعروفة. (قد يمنع بعض الصفحات من التحميل.)
+content-blocking-tracking-protection-option-always =
+    .label = دائما
+    .accesskey = د
 content-blocking-tracking-protection-option-private =
     .label = في النوافذ الخاصة فقط
     .accesskey = خ

@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " فَيَرفُكس:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "تنزيلاتك">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "علاماتك">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "النصوص المنسوخة">
 <!ENTITY aboutPrivateBrowsing.note.before                "التصفح الخاص ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "لا يجعل هويتك مجهولة">
 <!ENTITY aboutPrivateBrowsing.note.after                 " على الإنترنت. باستطاعة رب عملك أو مزود خدمة الإنترنت معرفة الصفحات التي زرتها.">
