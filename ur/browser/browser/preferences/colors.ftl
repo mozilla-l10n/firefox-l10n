@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = آپ کے انتخاب کے  اوپر مندرجہ ذیل رنگوں کو مخصوص صفحات پر ڈالیں
+    .accesskey = گ
 colors-page-override-option-always =
     .label = ہمیشہ
 colors-page-override-option-auto =

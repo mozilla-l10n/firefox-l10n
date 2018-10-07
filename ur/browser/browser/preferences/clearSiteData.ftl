@@ -5,6 +5,7 @@
 clear-site-data-window =
     .title = کوائف صاف کریں
     .style = چوڑائی:  35em
+clear-site-data-description = تمام کوکیز اور سائٹ کا ڈیٹا صاف کرنے سے جو کی { -brand-short-name } کی طرف سے ذخیرہ شدہ ہے، آپ کو سائن اوٹ کرسکتا ہے اور آف لائن ویب مشمول ہٹ سکتے ہیں۔ کیشہ ڈیٹا کی صفائی آپ لاگ کو متاثر نہیں کرے گا۔
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
@@ -24,6 +25,14 @@ clear-site-data-cookies-empty =
     .label = کوکیاں اور سائٹ کوائف
     .accesskey = S
 clear-site-data-cookies-info = اگر صاف کیا تو شاید آپ ویبسائٹسٹ سے سائن آئوٹ کر دیائے حائیں
+# The parameters in parentheses in this string describe disk usage
+# in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
+# Variables:
+#   $amount (Number) - Amount of cache currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+clear-site-data-cache-with-data =
+    .label = کیشہ شدہ ویب مشمول ({ $amount } { $unit })
+    .accesskey = ل
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar

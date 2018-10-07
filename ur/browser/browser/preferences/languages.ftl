@@ -5,6 +5,9 @@
 languages-window =
     .title = زبانیں
     .style = width: 30em
+webpage-languages-window =
+    .title = ویب صفحہ زبان سیٹکگیں
+    .style = چوڑائی: 40em
 languages-close-key =
     .key = w
 languages-description = بعض اوقات ویب صفہ ایک سے زیادہ زبانوں میں دستیاب ہوتے ہیں۔ ویب صفحوں نمائش کرنے کے لیے، زبانوں کی ترجیحی ترتیب انتخاب کریں۔
@@ -38,3 +41,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } زبان سیٹکگیں
+    .style = چوڑائی: 40em
+browser-languages-description = { -brand-short-name } آپ کی پہلی زبان طے شدہ طور پر ظاہر کرے گا اور اگر ضروری ہو تو وہ ظاہر ترتیب میں متبادل زبانوں کو ظاہر کرے گا۔
