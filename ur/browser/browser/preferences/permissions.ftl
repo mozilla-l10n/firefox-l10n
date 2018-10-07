@@ -81,9 +81,15 @@ permissions-exceptions-addons-desc = آپ اختصاص کر سکتے ہیں کہ
 
 ## Exceptions - Autoplay Media
 
+permissions-exceptions-autoplay-media-window2 =
+    .title = استثنیات - اوٹوپلے
+    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = سیٹنگیں - نوٹیفکیشن اجازات
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 

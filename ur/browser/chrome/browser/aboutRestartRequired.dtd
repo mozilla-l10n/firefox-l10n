@@ -4,5 +4,7 @@
 
 <!ENTITY restartRequired.title "دورہ دوباره شروع کرنا درکار ہے">
 
+<!ENTITY restartRequired.header "معذرت۔ آگے بڈھنے کے لئے ہمیں ایک چھوٹی سی چیز کرنے کی زرورت ہے۔">
+<!ENTITY restartRequired.description "<p> ہمنے پس منظر میں ایک اپ ڈیٹ تنسیب کیا ہے۔ اسے لاگو کرنے کے لئے &brandShortName; پر کلک کرے اور دوبارہ شروع کرے۔</p><p> ہم آپ کے تمام صفحات، ونڈوز اور ٹیبز کو بحال کردیگے، لہذا آپ جلدی سے اپنا کام شروع کر سکتے ہیں۔</p>">
 
 <!ENTITY restartButton.label "&brandShortName; شروع کریں">

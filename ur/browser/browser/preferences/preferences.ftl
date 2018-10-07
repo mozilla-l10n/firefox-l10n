@@ -88,8 +88,9 @@ startup-header = سٹارٹ اپ
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = { -brand-short-name } اور Firefox کو ہم وقت چلنے کی اجازت دے
-use-firefox-sync = ٹوٹکا: یہ علیحدہ پروفائلز استعمال کرتا ہے. ان کے درمیان ڈیٹا کا اشتراک کرنے کی مطابقت پذیری کا استعمال کریں.
+use-firefox-sync = تجاویز: یہ الگ الگ پروفائل استعمال کرتا ہے۔ ان کے درمیان ڈیٹا کا اشتراک کرنے کے لئے { -sync-brand-short-name } استعمال کریں۔
 get-started-not-logged-in = { -sync-brand-short-name } میں سائن ان کریں
+get-started-configured = { -sync-brand-short-name } ترجیحات کھولیں
 always-check-default =
     .label = ہمیشہ جانچ پڑتال کریں کہ { -brand-short-name } آپ کا پہلے سے طے شدہ براؤزر ہے
     .accesskey = ی
@@ -163,6 +164,9 @@ choose-language-description = صفحہ دکھانے کے لیے اپنی زبا�
 choose-button =
     .label = انتخاب کریں…
     .accesskey = ا
+manage-browser-languages-button =
+    .label = متبادل سیٹ کریں...
+    .accesskey = I
 confirm-browser-language-change-description = { -brand-short-name } دوبارہ شروع کریں ان تبدیلیوں کو لاگو کرنے کے لیے
 confirm-browser-language-change-button = لاگو کرے اور دوبارہ شروع کریں
 translate-web-pages =
@@ -394,8 +398,8 @@ sync-engine-creditcards =
     .tooltiptext = نام،نمبر اور اختتام کی تاریخ (صرف ڈیسک ٹاپ کے لیئے)
     .accesskey = C
 sync-engine-addons =
-    .label = اظافہ-جات
-    .tooltiptext = توسیعات اور خیالہ برائے Firefox  ڈیسک ٹاپ
+    .label = ایڈ-اون
+    .tooltiptext = Firefox ڈیسک ٹاپ کے لئے ایکسٹینشن اور تھیم
     .accesskey = A
 sync-engine-prefs =
     .label =
