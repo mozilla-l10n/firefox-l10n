@@ -44,3 +44,4 @@ languages-active-code-format =
 browser-languages-window =
     .title = Språkinnstillingar for { -brand-short-name }
     .style = width: 40em
+browser-languages-description = { -brand-short-name } vil vise det første språket som standard og vil vise alternative språk om nødvendig i den rekkjefølgja dei visest.
