@@ -20,6 +20,10 @@ policy-DisableFirefoxScreenshots = Vypne funkciu Firefox Screenshots.
 policy-DisableFirefoxStudies = Zabráni aplikácii { -brand-short-name } spúšťať štúdie.
 policy-DisableTelemetry = Vypne telemetriu.
 policy-FlashPlugin = Povolí alebo zakáže používanie zásuvného modulu Flash.
+policy-HardwareAcceleration = Ak je nastavená hodnota false, vypne hardvérové urýchľovanie.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Nastaví a v prípade potreby uzamkne domovskú stránku.
 policy-InstallAddonsPermission = Povolí určitým webovým stránkam inštalovať doplnky.
 policy-Permissions = Nastaví povolenia pre kameru, mikrofón, polohu a upozornenia.
 policy-PopupBlocking = Povolí určitým webovým stránkam zobrazovať v predvolenom nastavení vyskakovacie okná.
+policy-Proxy = Nakonfiguruje nastavenia proxy.
