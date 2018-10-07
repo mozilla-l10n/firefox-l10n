@@ -36,7 +36,7 @@
 <!ENTITY newFeedAccountCmd.accesskey "რ">
 <!ENTITY newIMContactCmd.label "სასაუბროს კონტაქტი…">
 <!ENTITY newIMContactCmd.accesskey "ს">
-<!ENTITY  newMessageCmd2.key "ი">
+<!ENTITY  newMessageCmd2.key "N">
 <!ENTITY  newMessageCmd.key "M">
 <!ENTITY  newMessageCmd.label "შეტყობინება">
 <!ENTITY  newMessageCmd.accesskey "შ">
