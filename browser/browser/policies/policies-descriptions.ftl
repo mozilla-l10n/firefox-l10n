@@ -36,6 +36,7 @@ policy-DisableProfileImport = Адключыць каманду меню для 
 policy-DisableProfileRefresh = Адключыць кнопку «Абнавіць { -brand-short-name }» на старонцы «about:support».
 policy-DisableTelemetry = Выключыць тэлеметрыю.
 policy-DontCheckDefaultBrowser = Адключыць праверку прадвызначанага браўзера ў час запуску.
+policy-InstallAddonsPermission = Дазволіць пэўным вэб-сайтам усталёўваць дадаткі.
 policy-PopupBlocking = Дазволіць пэўным вэб-сайтам тыпова паказваць усплыўныя вокны.
 policy-Proxy = Наладзіць параметры проксі.
 policy-SanitizeOnShutdown = Сціраць усе звесткі аб агляданні па закрыцці.
