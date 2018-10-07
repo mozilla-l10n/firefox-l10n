@@ -72,6 +72,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "آ">
 <!ENTITY  moveToNewWindow.label              "نئے دریچے میں بڑھائیں">
 <!ENTITY  moveToNewWindow.accesskey          "د">
+<!ENTITY  reopenInContainer.label            "کنٹینر میں پھر کھولیں">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "تمام ٹیب بک مارک کریں…">
 <!ENTITY  bookmarkAllTabs.accesskey          "ٹ">
@@ -131,6 +132,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "صفحہ معلومات">
 <!ENTITY pageInfoCmd.accesskey "م">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "لےآوٹ ڈیبگر">
 <!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.label "ٹیب کا عکس">
 <!ENTITY mirrorTabCmd.accesskey "ع">
@@ -228,13 +230,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "پیغام پینل کھولیں">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "محل وقوع درخواست پینل کھولیں">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "خودکار چلنے والی پینل کھولیں">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "ایڈاون کا تنصیب شدہ پیغام کا پینل کھولیں">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "کینوس نکالنے کی اجازت کا انتظام کریں">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "آف لائن ذخیرہ پیغام پینل کھولیں">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "مہفوظ شدہ پیغام پینل کھولیں">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "پلگ ان کو بندوبست کریں">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "تبدیل کریں کے آپ اس سائٹ سے اطلاع وصول کرنا چاہتے ہے یا نہیں">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "مسلسل اسٹوریج میں کوائف اسٹور کرے">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "براؤزر ریموٹ کنٹرول کے تحت ہے">
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "ویب توثیق پینل کھولیں">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "کیمرہ اور مائیکروفون کی سائٹ کے ساتھ حصہ داری کو بندوبست کریں">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "مائیکروفون کی سائٹ کہ ساتھ حصہ داری کو بندوبست کریں">
@@ -252,6 +257,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "آپ نے اس ویب سائٹ کے لیئے محل وقوع کی معلومات کو بلاک کیا ہوا ہے">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "آپ نے اس ویب سائٹ کے لیئے اطلاع کو بلاک کیا ہوا ہے">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "آپ نے اس ویب سائٹ کے لیئے مسلسل اسٹوریج کو بلاک کیا ہوا ہے۔">
+<!ENTITY urlbar.popupBlocked.tooltip             "آپ نے اس ویب سائٹ کے لیئے پوپ اپ بلاک کیا ہوا ہے۔">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "آپنے اس ویب سائٹ کے لئے خودکار چلنیں والی میڈیا مع آواز بلاک کر دی ہیں۔">
+<!ENTITY urlbar.canvasBlocked.tooltip            "آپنے اس ویب سائٹ کے لئے کینوس کوائف ماحصل بلاک کر دی ہیں۔">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "آپنے اس ویب سائٹ کو Adobe Flash plugin استعمال کرنے سے بلاک کر دیا ہیں۔">
+<!ENTITY urlbar.midiBlocked.tooltip              "آپنے اس ویب سائٹ کے لئے MIDI تک رسائی بلاک کر دی ہیں۔">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "سابقات دکھائیں">
 
@@ -306,16 +316,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "ویب تکمیل کار">
 <!ENTITY webDeveloperMenu.accesskey   "و">
 
+<!ENTITY devtoolsRecordExecution.label "عملدرآمد ریکارڈ کرے">
 <!ENTITY devtoolsSaveRecording.label "ریکارڈنگ محفوظ کریں">
+<!ENTITY devtoolsReplayExecution.label "عملدرآمد پھر چلائیں">
 
 <!ENTITY inspectContextMenu.label     "عناصر چیک کریں">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY inspectA11YContextMenu.label     "رسائی کی خصوصیات کا معائنہ کریں">
 
 <!ENTITY fileMenu.label         "مسل">
 <!ENTITY fileMenu.accesskey       "م">
 <!ENTITY newUserContext.label             "نیا حامل ٹیب">
 <!ENTITY newUserContext.accesskey         "ٹ">
+<!ENTITY manageUserContext.label          "کنٹینرز کا انتظام کریں">
 <!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "نیا دریچہ">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -404,6 +418,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "اپنے ٹیب کو دوسرے آلات سے یہاں سے دیکھنا پسند کریں گے؟">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "ہمہ وقت ساز ترجیحات کھولیں">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ٹیبیں کی فہرست دیکھنے کے لئے اپنے دیگر آلات سے سائن ان کریں۔">
+<!ENTITY appMenuRemoteTabs.unverified.label "آپ کے اکائونٹ کو توژیکاری کی ظرورت ہے۔">
 <!ENTITY appMenuRemoteTabs.signin.label "ہم سازی کے لئے سائن ان کریں">
 <!ENTITY appMenuRemoteTabs.managedevices.label "آلات کو بندرست کریں…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ہمہ وقت ساز ٹیبس کے بغلی بار کا نظارہ کریں">
@@ -430,10 +445,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ہ">
 <!ENTITY customizeMenu.addMoreItems.label "مزید اشیا ڈالیں…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "ڈ">
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "ٹول بار میں آوٹوں-حائڈ">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "توسیع بندرست کریں">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 
+<!ENTITY customizeMenu.removeExtension.label "ایکسٹینشن ہٹائیں">
+<!ENTITY customizeMenu.removeExtension.accesskey "v">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -762,6 +780,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "ہوگیا">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "تدوین کار میں محفوظ کرتے وقت نمائش کریں">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
