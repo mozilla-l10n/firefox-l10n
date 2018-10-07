@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "baixades">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "adreces d'interès">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "text copiat">
 <!ENTITY aboutPrivateBrowsing.note.before                "La navegació privada ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "no vol dir que navegareu anònimament">
 <!ENTITY aboutPrivateBrowsing.note.after                 " per Internet. El vostre proveïdor d'Internet o l'empresa per a la qual treballeu podrien conèixer igualment les pàgines que visiteu.">

@@ -640,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Excepcions…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Els paràmetres de «Bloqueig de contingut» impedeixen fer canvis en els paràmetres de «Galetes i dades dels llocs».
 
 ## Privacy Section - Address Bar
 
@@ -679,6 +683,7 @@ content-blocking-category-label = Trieu què voleu blocar
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Elements de seguiment lents
     .accesskey = s
+content-blocking-fastblock-new-description = Bloca només els elements de seguiment que alenteixen la càrrega de les pàgines.
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Tots els elements de seguiment detectats
     .accesskey = T
@@ -689,7 +694,16 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = Només en finestres privades
     .accesskey = N
+content-blocking-tracking-protection-change-block-list = Canvia la llista de bloquejos
+content-blocking-third-party-cookies-label =
+    .label = Galetes de tercers
+    .accesskey = G
 content-blocking-reject-trackers-description = Bloca totes les galetes de tercers o només les que creen els elements de seguiment.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Els paràmetres de «Galetes i dades dels llocs» impedeixen fer canvis en els paràmetres de «Galetes de tercers».
 content-blocking-change-cookie-settings =
     .label = Canvi de paràmetres de galetes
     .accesskey = s
