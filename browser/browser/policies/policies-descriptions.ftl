@@ -16,6 +16,7 @@ policy-BlockAboutAddons = Blokker tilgang til Tilleggshandteraren (about:addons)
 policy-BlockAboutConfig = Blokker tilgang til about:config-sida.
 policy-BlockAboutProfiles = Blokker tilgang til about:profiles-sida.
 policy-BlockAboutSupport = Blokker tilgang til about:support-sida.
+policy-Cookies = Tillat eller nekt nettsider å lagre infokapslar.
 policy-DisableAppUpdate = Hindre oppdatering av nettlesaren.
 policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, det innebygde PDF-visingsprogrammet i { -brand-short-name }
 policy-DisableDeveloperTools = Blokker tilgang til utviklarverktøya.
@@ -36,5 +37,10 @@ policy-DisplayMenuBar = Vise menylinja som standard.
 policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettlesar ved oppstart.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktiver eller deaktiver innhaldsblokkering med moglegheit til å låse valet.
+policy-FlashPlugin = Tillat eller nekt bruk av programtillegget Flash.
+policy-HardwareAcceleration = Om inaktiv, slå av maskinvareakselerasjon.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Still inn og eventuelt lås startsida.
 policy-InstallAddonsPermission = Tillat visse nettsider å installere tillegg.
 policy-Proxy = Konfigurer proxy-innstillingar.
+policy-SanitizeOnShutdown = Fjern alle nettlesingsdata ved avslutting.
