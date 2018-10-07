@@ -55,6 +55,7 @@ policy-HardwareAcceleration = Om inaktiv, slå av maskinvareakselerasjon.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Still inn og eventuelt lås startsida.
 policy-InstallAddonsPermission = Tillat visse nettsider å installere tillegg.
+policy-OverrideFirstRunPage = Erstatt sida som vert vist ved første oppstart. La policyen vere tom, viss sida ved første oppstart skal deaktiverast.
 policy-Permissions = Still inn løyve for kamera, mikrofon, plassering og varsel.
 policy-PopupBlocking = Tillat at visse nettsider skal kunne vise sprettoppvindauge som standard.
 policy-Proxy = Konfigurer proxy-innstillingar.
