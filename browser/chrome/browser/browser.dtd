@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Падпісацца на гэтую старонку">
 <!ENTITY subscribeToPageMenuitem.label "Падпісацца на гэтую старонку…">
+
 <!ENTITY addCurPagesCmd.label "Закладкі на ўсе карткі…">
 <!ENTITY showAllBookmarks2.label "Паказаць усе закладкі">
 <!ENTITY recentBookmarks.label "Нядаўнія закладкі">
@@ -233,7 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Адкрыць панэль паведамленняў пазасеткавага сховішча">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Адкрыць панэль паведамленняў аб захаванні пароля">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Кіраваць выкарыстаннем плагіна">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Змяніць магчымасць атрымліваць апавяшчэнні з гэтага сайта">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Змяніць магчымасць атрымліваць абвесткі з гэтага сайта">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Захоўваць звесткі ў Сталым Сховішчы (Persistent Storage)">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браўзер знаходзіцца пад аддаленым кіраваннем">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Адкрыць панэль вэб-аўтарызацыі">
@@ -252,7 +253,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Вы заблакавалі свой мікрафон на гэтым вэб-сайце.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Вы заблакавалі гэтаму вэб-сайту магчымасць бачыць ваш экран.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Вы заблакавалі звесткі аб месцазнаходжанні для гэтага вэб-сайта.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Вы заблакавалі апавяшчэнні з гэтага вэб-сайта.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Вы заблакавалі абвесткі з гэтага вэб-сайта.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Вы заблакавалі захоўванне звестак для гэтага вэб-сайта.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Вы заблакавалі выплыўныя вокны для гэтага вэб-сайта.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Вы заблакавалі аўтапрайграванне медый з гукам на гэтым вэб-сайце.">
