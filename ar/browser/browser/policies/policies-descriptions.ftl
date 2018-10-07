@@ -10,7 +10,13 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = ضبط مسار التحديث المخصّص للتطبيق.
+policy-Authentication = ضبط الاستيثاق المتكامل مع المواقع التي تدعمه.
 policy-BlockAboutAddons = امنع الوصول إلى مدير الإضافات (about:addons).
 policy-BlockAboutConfig = امنع الوصول إلى صفحة about:config.
 policy-BlockAboutProfiles = امنع الوصول إلى صفحة about:profiles.
 policy-BlockAboutSupport = امنع الوصول إلى صفحة about:support.
+policy-Bookmarks = إنشاء العلامات في شريط العلامات أو في قائمة العلامات أو في مجلد محدّد داخلها.
+policy-Certificates = فيما إذا كان يجب استخدام الشهادات المضمّنة أم لا. تعمل هذه السياسة في وندوز حاليا فقط.
+policy-Cookies = السماح للمواقع بضبط الكعكات أو الرفض.
+policy-DisableAppUpdate = منع المتصفح من التحديث.
