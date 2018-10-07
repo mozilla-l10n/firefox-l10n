@@ -7,6 +7,7 @@
 
 onboarding-button-label-try-now = Vyzkoušet
 onboarding-welcome-header = Vítá vás { -brand-short-name }
+onboarding-start-browsing-button-label = Začít prohlížet
 
 ## These strings belong to the individual onboarding messages.
 
