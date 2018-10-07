@@ -6,7 +6,7 @@
 <!ENTITY  from.label                  "מאת:">
 <!ENTITY  actionQuestion.label        "מה על &brandShortName; לעשות עם הקובץ?">
 
-<!ENTITY  openWith.label              "פתח באמצעות">
+<!ENTITY  openWith.label              "פתיחה באמצעות">
 <!ENTITY  openWith.accesskey          "פ">
 <!ENTITY  other.label                 "אחר...">
 
