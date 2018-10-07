@@ -5,6 +5,9 @@
 languages-window =
     .title = Լեզուներ
     .style = width: 30em
+webpage-languages-window =
+    .title = Վեբ էջի լեզվի կարգավորումներ
+    .style = width: 45em
 languages-close-key =
     .key = w
 languages-description = Վեբ էջերը հաճախ լինում են մեկից ավելի լեզուներով: Ընտրեք լեզուներ՝ այդպիսի էջերը ցուցադրելու համար՝ համաձայն նախընտրույան
@@ -36,3 +39,8 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }       [{ $code }]
+languages-active-code-format =
+    .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name }-ի լեզվի կարգավորումներ
+    .style = width: 45em
