@@ -104,6 +104,8 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = ورثہ مواد کے لیے متن کی ضابطہ بندی
 fonts-languages-fallback-desc = یہ کریکٹر ضابطہ بندی اس ورثہ مواد کے لیے استعمال کی جاتی ہے جو اپنی ضابطہ بندی نہیں بتاتا۔
+fonts-languages-fallback-label = فال بیک ٹیکسٹ انکوڈنگ
+    .accesskey = ف
 fonts-languages-fallback-name-auto =
     .label = موجودہ محل وقوع کے لیے طےشدہ
 fonts-languages-fallback-name-arabic =
