@@ -15,6 +15,7 @@ policy-Authentication = اس ویب سائٹ کے لئے مربوط تصدیق �
 policy-BlockAboutConfig = about:config صفحے پر رسائی کو روکیں۔
 policy-BlockAboutProfiles = about:profiles صفحے پر رسائی کو روکیں۔
 policy-BlockAboutSupport = about:support صفحے پر رسائی کو روکیں۔
+policy-DisableForgetButton = فارگیٹ بٹن تک رسائی کو روکیں۔
 policy-DisablePrivateBrowsing = نجی براؤزنگ غیر فعال کریں
 policy-DisableTelemetry = ٹیلی میٹری بند کریں۔
 policy-Proxy = پراکسی سیٹنگز ترتیب کریں۔
