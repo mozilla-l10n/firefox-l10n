@@ -61,3 +61,6 @@ policy-Proxy = Konfigurer proxy-innstillinger.
 policy-SanitizeOnShutdown = Fjern alle nettlesingsdata ved avslutning.
 policy-SearchBar = Angi standardplassering for søkefeltet. Brukeren kan fortsatt tilpasse den.
 policy-SearchEngines = Konfigurer søkemotorinnstillinger. Denne policyen er kun tilgjengelig for Extended Support Release (ESR).
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Blokker besøk på nettsteder. Les dokumentasjonen for detaljer om formatet.
