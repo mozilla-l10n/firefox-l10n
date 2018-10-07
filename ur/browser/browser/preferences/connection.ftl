@@ -67,6 +67,3 @@ connection-proxy-autologin =
 connection-proxy-socks-remote-dns =
     .label = پراکسی DNS جب استعمال کر رہے ہوں SOCKS v5
     .accesskey = d
-connection-dns-over-https =
-    .label = HTTPS پر DNS بحال کریں
-    .accesskey = ب
