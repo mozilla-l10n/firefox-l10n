@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = مرضی کے مطابق ایپ اپڈیٹ URL سیٹ کریں۔
+policy-Authentication = اس ویب سائٹ کے لئے مربوط تصدیق کو ترتیب دیں جو اس کی حمایت کرتی ہے۔
 policy-BlockAboutConfig = about:config صفحے پر رسائی کو روکیں۔
 policy-BlockAboutProfiles = about:profiles صفحے پر رسائی کو روکیں۔
 policy-BlockAboutSupport = about:support صفحے پر رسائی کو روکیں۔
