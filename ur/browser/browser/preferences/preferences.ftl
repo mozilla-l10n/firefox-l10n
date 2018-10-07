@@ -260,6 +260,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = نیٹ ورک پراکسی
+network-settings-title = نیٹ ورک سیٹنگز
 network-proxy-connection-learn-more = مزید سیکھیں
 network-proxy-connection-settings =
     .label = سیٹنگیں…

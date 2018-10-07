@@ -12,9 +12,11 @@
 
 policy-AppUpdateURL = مرضی کے مطابق ایپ اپڈیٹ URL سیٹ کریں۔
 policy-Authentication = اس ویب سائٹ کے لئے مربوط تصدیق کو ترتیب دیں جو اس کی حمایت کرتی ہے۔
+policy-BlockAboutAddons = ایڈ اون مینیجر(about:addons) تک رسائی کو روکیں۔
 policy-BlockAboutConfig = about:config صفحے پر رسائی کو روکیں۔
 policy-BlockAboutProfiles = about:profiles صفحے پر رسائی کو روکیں۔
 policy-BlockAboutSupport = about:support صفحے پر رسائی کو روکیں۔
+policy-DisableDeveloperTools = تخلیق کار ٹول تک رسائی کو روکیں۔
 policy-DisableForgetButton = فارگیٹ بٹن تک رسائی کو روکیں۔
 policy-DisablePrivateBrowsing = نجی براؤزنگ غیر فعال کریں
 policy-DisableTelemetry = ٹیلی میٹری بند کریں۔
