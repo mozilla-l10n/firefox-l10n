@@ -150,4 +150,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceFormat "شکل">
 <!ENTITY aboutSupport.mediaDeviceChannels "چینلز">
 <!ENTITY aboutSupport.mediaDeviceRate "شرح">
+<!ENTITY aboutSupport.mediaDeviceLatency "لیٹینسی">
 
+<!ENTITY aboutSupport.intlTitle "انٹرنیشنلائزیشن &amp; لوکلائزیشن">
+<!ENTITY aboutSupport.intlAppTitle "ایپلی کیشن سیٹنگیں">
+<!ENTITY aboutSupport.intlLocalesRequested "درخواست کی گئی زبانات">
+<!ENTITY aboutSupport.intlLocalesAvailable "دستیاب زبانات">
+<!ENTITY aboutSupport.intlLocalesSupported "ایپ کی زبانیں">
+<!ENTITY aboutSupport.intlLocalesDefault "طے شدہ زبان">
+<!ENTITY aboutSupport.intlOSTitle "آپریٹنگ سسٹم">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "سسٹم کی زبان">
+<!ENTITY aboutSupport.intlRegionalPrefs "علاقائی ترجیحات">
