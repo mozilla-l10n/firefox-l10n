@@ -118,7 +118,7 @@ startup-header = Palaišana
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Ļaut { -brand-short-name } un Firefox darboties vienlaicīgi
-use-firefox-sync = Padoms: Šis izmanto atsevišķu profilu. Izmantojiet sinhronizāciju, lai apmainītos ar datiem, starp šiem profiliem.
+use-firefox-sync = Padoms: Šis izmanto atsevišķu profilu. Izmantojiet { -sync-brand-short-name }, lai apmainītos ar datiem, starp šiem profiliem.
 get-started-not-logged-in = Pierakstīties { -sync-brand-short-name }…
 get-started-configured = Atvērt { -sync-brand-short-name } iestatījumus
 always-check-default =
@@ -557,9 +557,6 @@ history-dontremember-description = { -brand-short-name } izmantos tādus pat ies
 history-private-browsing-permanent =
     .label = Vienmēr izmantot privātās pārlūkošanas režīmu
     .accesskey = z
-history-remember-option =
-    .label = Atcerēties manu pārlūkošanas un lejupielāžu vēsturi
-    .accesskey = c
 history-remember-browser-option =
     .label = Atcerēties manu pārlūkošanas un lejupielāžu vēsturi
     .accesskey = a
@@ -629,6 +626,9 @@ addressbar-locbar-openpage-option =
     .label = Atvērtās cilnes
     .accesskey = t
 addressbar-suggestions-settings = Izmainiet meklētāju iestatījumus
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
