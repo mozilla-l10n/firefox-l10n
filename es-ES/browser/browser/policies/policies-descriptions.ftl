@@ -50,7 +50,21 @@ policy-EnableTrackingProtection = Activar o desactivar el bloqueo de contenido y
 # English or translate them as verbs. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Instalar, desinstalar o bloquear extensiones. La opción de instalar usa URLs o rutas como parámetros. Las opciones para desinstalar y bloquear usan los ID de las extensiones.
+policy-FlashPlugin = Permitir o denegar el uso del plugin Flash.
+policy-HardwareAcceleration = Si es falso, desactiva la aceleración por hardware.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Establecer y opcionalmente bloquear la página de inicio.
+policy-InstallAddonsPermission = Permitir que ciertos sitios web instalen complementos.
+policy-NoDefaultBookmarks = Desactivar la creación de los marcadores predeterminados incluidos con { -brand-short-name } y los marcadores inteligentes (Más visitados, Etiquetas recientes). Nota: esta política solo es válida si se utiliza antes de la primera ejecución del perfil.
+policy-OfferToSaveLogins = Aplicar la configuración para permitir que { -brand-short-name } ofrezca recordar inicios de sesión y contraseñas guardadas. Se aceptan los valores verdadero y falso.
+policy-OverrideFirstRunPage = Anular la página de primera ejecución. Deje esta política en blanco si desea desactivar la página de primera ejecución.
+policy-OverridePostUpdatePage = Anular la página "Qué hay de nuevo" posterior a la actualización. Deje esta política en blanco si quiere desactivar la página posterior a la actualización.
 policy-Permissions = Configurar permisos para cámara, micrófono, ubicación y notificaciones.
 policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de forma predeterminada.
 policy-Proxy = Configurar los ajustes del proxy.
 policy-SanitizeOnShutdown = Limpiar todos los datos de navegación al cerrar.
+policy-SearchBar = Establecer la ubicación predeterminada de la barra de búsqueda. El usuario todavía puede personalizarla.
+policy-SearchEngines = Configurar los ajustes del motor de búsqueda. Esta política solo está disponible en la versión Extended Support Release (ESR).
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Bloquear sitios web para que no sean visitados. Consulte la documentación para obtener más detalles sobre el formato.
