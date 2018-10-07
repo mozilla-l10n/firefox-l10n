@@ -104,7 +104,7 @@
 <!ENTITY cmd.showPreferencesWin.tooltip       "ამ დამატების პარამეტრების შეცვლა">
 <!ENTITY cmd.showPreferencesUnix.label        "გამართვა">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "ამ დამატების პარამეტრების შეცვლა">
-<!ENTITY cmd.contribute.label                 "მონაწილეობა">
+<!ENTITY cmd.contribute.label                 "წვლილის გაღება">
 <!ENTITY cmd.contribute.accesskey             "წ">
 <!ENTITY cmd.contribute.tooltip               "შეიტანეთ წვლილი ამ დამატების შემუშავებაში">
 
@@ -187,7 +187,7 @@
 <!ENTITY addon.install.tooltip                "დამატების ჩადგმა">
 <!ENTITY addon.updateNow.label                "განახლება">
 <!ENTITY addon.updateNow.tooltip              "ამ დამატების განახლების დაყენება">
-<!ENTITY addon.includeUpdate.label            "განახლებასთან ერთად">
+<!ENTITY addon.includeUpdate.label            "განახლებაში ჩამატება">
 <!ENTITY addon.updateAvailable.label          "განახლება ხელმისაწვდომია">
 <!ENTITY addon.checkingForUpdates.label       "განახლებებზე შემოწმება…">
 <!ENTITY addon.releaseNotes.label             "გამოშვების შენიშვნები:">

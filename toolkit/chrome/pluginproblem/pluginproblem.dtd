@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY pluginActivationWarning                             "საიტი იყენებს მოდულს, რომელმაც შესაძლოა შეანელოს &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "მოდულის ასამოქმედებლად შეეხეთ აქ.">
 <!ENTITY clickToActivatePlugin                               "მოდულის ამოქმედება.">
 <!ENTITY checkForUpdates                                     "განახლებების შემოწმება…">
@@ -23,7 +22,7 @@
 <!ENTITY report.submitted                                    "ავარიული დახურვის შესახებ მოხსენება გაგზავნილია.">
 <!ENTITY report.disabled                                     "ავარიული დახურვის მომხსენებელი გამორთულია.">
 <!ENTITY report.failed                                       "გადაგზავნა ვერ მოხერხდა.">
-<!ENTITY report.unavailable                                  "პატაკები არაა ხელმისაწვდომი.">
+<!ENTITY report.unavailable                                  "მოხსენებები არაა.">
 <!ENTITY report.comment                                      "დაურთეთ შენიშვნა (შენიშვნები, საჯაროდ გამოჩნდება)">
 <!ENTITY report.pageURL                                      "გვერდის URL-ს მითითება">
 
