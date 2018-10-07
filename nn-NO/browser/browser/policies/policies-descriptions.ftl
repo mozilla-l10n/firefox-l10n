@@ -20,6 +20,7 @@ policy-Cookies = Tillat eller nekt nettsider å lagre infokapslar.
 policy-DisableAppUpdate = Hindre oppdatering av nettlesaren.
 policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, det innebygde PDF-visingsprogrammet i { -brand-short-name }
 policy-DisableDeveloperTools = Blokker tilgang til utviklarverktøya.
+policy-DisableFeedbackCommands = Deaktiver kommandoar for å sende tilbakemelding frå Hjelp-menyen (Gje tilbakemelding og Rapporter villeiande nettstad).
 policy-DisableFirefoxAccounts = Deaktiver { -fxaccount-brand-name }-baserte tenester, inkludert Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Deaktiver funksjonen Firefox Screenshots
@@ -31,6 +32,7 @@ policy-DisablePocket = Deaktiver funksjonen for å lagre nettsider til Pocket.
 policy-DisablePrivateBrowsing = Slå av Privat nettlesing.
 policy-DisableProfileImport = Deaktiver meny-kommandoen for å importere data frå ein annan nettlesar.
 policy-DisableProfileRefresh = Deaktiver knappen Tilbakestill { -brand-short-name } på sida about:support.
+policy-DisableSecurityBypass = Hindre brukaren frå å å omgå visse sikkerheitsåtvaringar.
 policy-DisableSetDesktopBackground = Deaktiver menykommandoen Bruk bilde som skrivebordsbakgrunn.
 policy-DisableSetAsDesktopBackground = Deaktiver menykommandoen Bruk som skrivebordsbakgrunn for bilde.
 policy-DisableSystemAddonUpdate = Hindre at nettlesaren installerer og oppdaterer systemtillegg.
@@ -40,11 +42,19 @@ policy-DisplayMenuBar = Vise menylinja som standard.
 policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettlesar ved oppstart.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktiver eller deaktiver innhaldsblokkering med moglegheit til å låse valet.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Installere, avinstallere eller låse tillegg. Installeringsalternativet tar nettadresser eller baner som parameter. Avinstallerings- og Låse-alternativa tek tilleggs-ID som parameter.
 policy-FlashPlugin = Tillat eller nekt bruk av programtillegget Flash.
 policy-HardwareAcceleration = Om inaktiv, slå av maskinvareakselerasjon.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Still inn og eventuelt lås startsida.
 policy-InstallAddonsPermission = Tillat visse nettsider å installere tillegg.
+policy-Permissions = Still inn løyve for kamera, mikrofon, plassering og varsel.
 policy-PopupBlocking = Tillat at visse nettsider skal kunne vise sprettoppvindauge som standard.
 policy-Proxy = Konfigurer proxy-innstillingar.
 policy-SanitizeOnShutdown = Fjern alle nettlesingsdata ved avslutting.
+policy-SearchBar = Spesifiser standardplassering for søkjefeltet. Brukaren kan framleis tilpassse feltet.
+policy-SearchEngines = Konfigurer søkjemotorinnstillingar. Denne policyen er kun tilgjengeleg for Extended Support Release (ESR).
