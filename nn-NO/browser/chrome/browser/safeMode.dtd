@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "Trygg Modus er ein spesiell modus i &brandShortName; som kan brukast for å feilsøkje problem.">
 <!ENTITY safeModeDescription4.label   "Tillegg og tilpassa innstillingar vil mellombels slåast av.">
 
+<!ENTITY safeModeDescription5.label   "Tillegga dine og eigendefinerte innstillingar vert mellombels deaktiverte, og &brandShortName;-funksjonar har kanskje ikkje same yting som no.">
+
 <!ENTITY refreshProfileInstead.label  "Du kan også hoppe over feilsøkinga og prøve å friske opp &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->

@@ -640,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Unntak…
     .accesskey = U
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Innstillingane dine i Innhaldsblokkering hindrar endringar i innstillingar for Infokapslar og nettsidedata.
 
 ## Privacy Section - Address Bar
 
