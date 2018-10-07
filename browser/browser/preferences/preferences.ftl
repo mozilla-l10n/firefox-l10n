@@ -6,6 +6,8 @@ do-not-track-description = Požiadať webové stránky pomocou signálu “Do No
 do-not-track-learn-more = Ďalšie informácie
 do-not-track-option-default =
     .label = Len pri použití Ochrany pred sledovaním
+do-not-track-option-default-content-blocking =
+    .label = Len ak je zapnuté blokovanie nájdených sledovacích prvkov
 do-not-track-option-always =
     .label = Vždy
 pref-page =
@@ -641,6 +643,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Výnimky…
     .accesskey = m
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Vaše nastavenia blokovania obsahu bránia zmenám nastavenia cookies a údajov stránok.
 
 ## Privacy Section - Address Bar
 
@@ -686,6 +692,9 @@ content-blocking-tracking-protection-all-detected-trackers-label =
 content-blocking-tracking-protection-option-always =
     .label = Vždy
     .accesskey = V
+content-blocking-tracking-protection-option-private =
+    .label = Len v súkromných oknách
+    .accesskey = s
 content-blocking-tracking-protection-change-block-list = Zmeniť zoznam blokovania
 content-blocking-third-party-cookies-label =
     .label = Cookies tretích strán
