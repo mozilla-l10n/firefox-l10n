@@ -12,11 +12,49 @@
 
 policy-AppUpdateURL = ضبط مسار التحديث المخصّص للتطبيق.
 policy-Authentication = ضبط الاستيثاق المتكامل مع المواقع التي تدعمه.
-policy-BlockAboutAddons = امنع الوصول إلى مدير الإضافات (about:addons).
-policy-BlockAboutConfig = امنع الوصول إلى صفحة about:config.
-policy-BlockAboutProfiles = امنع الوصول إلى صفحة about:profiles.
-policy-BlockAboutSupport = امنع الوصول إلى صفحة about:support.
+policy-BlockAboutAddons = منع الوصول إلى مدير الإضافات (about:addons).
+policy-BlockAboutConfig = منع الوصول إلى صفحة about:config.
+policy-BlockAboutProfiles = منع الوصول إلى صفحة about:profiles.
+policy-BlockAboutSupport = منع الوصول إلى صفحة about:support.
 policy-Bookmarks = إنشاء العلامات في شريط العلامات أو في قائمة العلامات أو في مجلد محدّد داخلها.
 policy-Certificates = فيما إذا كان يجب استخدام الشهادات المضمّنة أم لا. تعمل هذه السياسة في وندوز حاليا فقط.
 policy-Cookies = السماح للمواقع بضبط الكعكات أو الرفض.
 policy-DisableAppUpdate = منع المتصفح من التحديث.
+policy-DisableBuiltinPDFViewer = تعطيل PDF.js، عارِض ملفات PDF المضمّن في { -brand-short-name }.
+policy-DisableDeveloperTools = منع الوصول إلى أدوات المطوّرين.
+policy-DisableFeedbackCommands = تعطيل أوامر إرسال الانطباعات في قائمة المساعدة (”أرسِل تعليقًا“ و ”أبلغ عن موقع مخادع“).
+policy-DisableFirefoxAccounts = تعطيل الخدمات التي تعتمد { -fxaccount-brand-name }، بما في ذلك المزامنة.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = تعطيل ميزة لقطات شاشة فَيَرفُكس.
+policy-DisableFirefoxStudies = منع { -brand-short-name } من تشغيل الدارسات.
+policy-DisableForgetButton = منع الوصول إلى زر النسيان.
+policy-DisableFormHistory = عدم تذكّر تأريخ الاستمارات والبحث.
+policy-DisableMasterPasswordCreation = إن كان ”صحيح“، فلا يمكن إنشاء كلمة سر رئيسية.
+policy-DisablePocket = تعطيل ميزة حفظ الصفحات في بوكِت.
+policy-DisablePrivateBrowsing = تعطيل التصفح الخاص.
+policy-DisableProfileImport = تعطيل أمر القائمة الخاص باستيراد البيانات من المتصفحات الأخرى.
+policy-DisableProfileRefresh = تعطيل زر ”أنعِش { -brand-short-name }“ في صفحة about:support.
+policy-DisableSafeMode = تعطيل ميزة إعادة التشغيل في الوضع الآمن. ملاحظة: لا يمكن تعطيل مفتاح Shift لدخول الوضع الآمن في وِندوز إلا باستخدام سياسة المجموعات.
+policy-DisableSecurityBypass = منع المستخدم من تخطّي أنواع معيّنة من التحذيرات الأمنية.
+policy-DisableSetDesktopBackground = تعطيل أمر القائمة الخاص بضبط الصورة كخلفية لسطح المكتب.
+policy-DisableSetAsDesktopBackground = تعطيل أمر القائمة الخاص بالضبط كخلفية سطح مكتب للصور.
+policy-DisableSystemAddonUpdate = منع المتصفّح من تثبيت امتدادات النظام أو تحديثها.
+policy-DisableTelemetry = تعطيل تيليمتري.
+policy-DisplayBookmarksToolbar = عرض شريط أدوات العلامات مبدئيا.
+policy-DisplayMenuBar = عرض شريط القوائم مبدئيا.
+policy-DontCheckDefaultBrowser = تعطيل التحقق من كون المتصفح هو المبدئي عند بدئه.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = تفعيل أو تعطيل حجب المحتوى وقفل الخيار إن لزم.
+policy-FlashPlugin = السماح باستخدام ملحقة فلاش أو منع ذلك.
+policy-HardwareAcceleration = إن كان ”خطأ“، عطِّل التسريع العتادي.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = ضبط صفحة البداية وقفل الخيار إن لزم.
+policy-InstallAddonsPermission = السماح لبعض المواقع بتثبيت الإضافات.
+policy-NoDefaultBookmarks = تعطيل إنشاء العلامات المبدئية المشمولة في { -brand-short-name }، كما والعلامات الذكية (”الأكثر زيارة“، ”الوسوم الحديثة“). لاحظ: تعمل هذه السياسة إن استُخدمت قبل أول تشغيل لملف الإعدادات، وليس بعد ذلك.
+policy-OverrideFirstRunPage = الكتابة على صفحة ”أوّل تشغيل“. اضبط السياسة إلى فراغ إن أردت تعطيل الصفحة.
+policy-OverridePostUpdatePage = الكتابة على صفحة ”ما الجديد“ التي تأتي بعد التحديث. اضبط السياسة إلى فراغ إن أردت تعطيل صفحة ما بعد تثبيت التحديث.
+policy-Permissions = ضبط تصاريح الكمرة والمِكرفون والمكان والتنبيهات.
+policy-PopupBlocking = السماح لبعض المواقع بعرض المنبثقات مبدئيا.
+policy-Proxy = ضبط إعدادات الوسيط.
+policy-SanitizeOnShutdown = مسح كل بيانات التنقّل عند إنهاء المتصفح.
+policy-SearchBar = ضبط المكان المبدئي لشريط البحث. يمكن للمستخدم تخصيصه.
