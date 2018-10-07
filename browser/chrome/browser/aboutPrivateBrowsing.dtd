@@ -33,3 +33,4 @@
 <!ENTITY trackingProtection.startTour1                   "Sjå korleis dette fungerer">
 
 <!ENTITY contentBlocking.title                           "Innhaldsblokkering">
+<!ENTITY contentBlocking.description                     "Enkelte nettsider brukar sporfølgjarar som kan overvake aktiviteten din på Internett. I private vindauge blokkerer Firefox innhaldsblokkering automatisk mange sporfølgjarar som kan samle inn informasjon om nettlesaråtferda di.">
