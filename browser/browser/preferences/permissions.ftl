@@ -83,6 +83,12 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Դուք կարող էք նշել այն վեբ կայքերը, որոնց թուլյատրվում է ավելացնել հավելումներ: Մուտքագրեք յուրաքանչյուր կայքի ճիշտ հասցեն և սեղմեք «Թույլատրել»:
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Թույլատրված կայքեր՝ ինքնանվագարկում
+    .style = { permissions-window.style }
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
