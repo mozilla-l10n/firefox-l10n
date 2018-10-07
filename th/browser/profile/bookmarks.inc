@@ -59,7 +59,7 @@
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
-#define crashes ข้อขัดข้องของคุณทั้งหมด
+#define crashes ข้อขัดข้องทั้งหมดของคุณ
 
 # LOCALIZATION NOTE (irc):
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
