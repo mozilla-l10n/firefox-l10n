@@ -38,8 +38,11 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Închide filele selectate">
 <!ENTITY  closeSelectedTabs.accesskey        "S">
 
+<!ENTITY  pinSelectedTabs.label              "Fixează filele">
 <!-- Pin Tab and Pin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  pinSelectedTabs.accesskey          "P">
+<!ENTITY  unpinSelectedTabs.label            "Anulează fixarea filelor">
 <!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
@@ -47,6 +50,7 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Reîncarcă filele selectate">
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
+<!ENTITY  bookmarkSelectedTabs.label         "Marchează filele…">
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -67,6 +71,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.label              "Mută într-o fereastră nouă">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.label            "Redeschide într-un container">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Marchează toate filele…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Anulează închiderea filei">
@@ -223,6 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Deschide panoul cu mesaje">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Deschide panoul cu cereri de locație">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Deschide panoul de redare automată">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Deschide panoul de mesaje cu instalarea de suplimente">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gestionează permisiuni de extragere canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Deschide panoul de mesaje cu stocarea offline">
@@ -250,6 +256,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ai blocat notificările pentru acest site web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ai blocat stocarea persistentă de date pentru acest site web.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Ai blocat ferestrele pop-up pentru acest site.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ai blocat redarea automată a elementelor media cu sunet pe acest site web.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ai blocat extragerea de date canvas pentru acest site.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ai blocat acest site web să folosească pluginul Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ai blocat accesul MIDI pentru acest site web.">
@@ -307,7 +314,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Dezvoltator web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "Înregistrează execuția">
 <!ENTITY devtoolsSaveRecording.label "Salvează înregistrarea">
+<!ENTITY devtoolsReplayExecution.label "Redă execuția">
 
 <!ENTITY inspectContextMenu.label     "Inspectează elementul">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -439,6 +448,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Gestionează extensia">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 
+<!ENTITY customizeMenu.removeExtension.label "Elimină extensia">
+<!ENTITY customizeMenu.removeExtension.accesskey "v">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -764,8 +775,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Terminat">
 
+<!ENTITY editBookmark.showForNewBookmarks.label       "Afișează editorul la salvare">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
@@ -913,12 +927,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Audio din filă va fi partajat.">
 <!ENTITY getUserMedia.allWindowsShared.message "Toate ferestrele vizibile pe ecran vor fi partajate.">
 
+<!ENTITY trackingProtection.on "Protecție împotriva urmăririi: activată">
+<!ENTITY trackingProtection.off "Protecție împotriva urmăririi: dezactivată">
 
 <!ENTITY contentBlocking.title "Blocare de conținut">
 <!ENTITY contentBlocking.detected "Conținut blocabil detectat pe acest site.">
 <!ENTITY contentBlocking.notDetected "Niciun conținut blocabil detectat pe această pagină.">
 <!ENTITY contentBlocking.disabled.label "Dezactivat">
+<!ENTITY contentBlocking.disabled.tooltip "Ai dezactivat blocarea de conținut.">
+<!ENTITY contentBlocking.exception.tooltip "Ai dezactivat blocarea de conținut pe acest site.">
 
+<!ENTITY contentBlocking.fastBlock.label "Urmăritori cu încărcare lentă">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -944,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Adaugă o blocare…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Cookie-uri de la terți">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
@@ -954,9 +974,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Adaugă blocaj…">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Raportează o problemă">
 <!ENTITY contentBlocking.breakageReportView.label "Raportează probleme">
+<!ENTITY contentBlocking.breakageReportView2.description "Blocarea de conținut poate produce probleme pe unele site-uri web. Prin raportarea problemelor vei ajuta la îmbunătățirea &brandShortName; pentru toți. (Va trimite la Mozilla un URL și informații despre setările browserului.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Află mai multe">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL-ul">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ce probleme ai întâmpinat? (Opțional)">
@@ -965,13 +987,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Protecție împotriva urmăririi">
 <!ENTITY trackingProtection.tooltip "Deschide preferințele de protecție împotriva urmăririi">
+<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blochează părți din pagină care ți-ar putea urmări navigarea.">
+<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; a detectat elemente care îți pot urmări navigarea.">
+<!ENTITY trackingProtection.detectedException "&brandShortName; a detectat elemente care îți pot urmări navigarea. Ai dezactivat protecția pentru acest site.">
+<!ENTITY trackingProtection.notDetected5 "Niciun element de urmărire depistat pe pagină.">
+<!ENTITY trackingProtection.notDetectedException "Niciun element de urmărire depistat pe pagină. Ai dezactivat protecția pentru acest site.">
 
+<!ENTITY trackingProtection.reloadRequired2 "Ai activat protecția împotriva urmăririi. Reîncarcă pagina pentru blocarea tuturor urmăritorilor.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Dezactivează pentru acest site">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Dezactivează blocarea pentru acest site">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -979,7 +1008,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.label "Dezactivează pentru această sesiune">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Permite pentru acest site">
+<!ENTITY trackingProtection.block4.accesskey "E">
+<!ENTITY trackingProtection.unblockPrivate4.label "Dezactivează temporar blocarea">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Activează blocarea pentru acest site">
 <!ENTITY trackingProtection.block5.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "Reîncarcă pagina">
 <!ENTITY trackingProtection.reload2.accesskey "R">
