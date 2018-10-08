@@ -578,6 +578,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "ตั้งเป็นพื้นหลังเดสก์ท็อป…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ต">
 <!ENTITY bookmarkPageCmd2.label       "เพิ่มที่คั่นหน้าสำหรับหน้านี้">
+<!ENTITY bookmarkPageCmd2.accesskey   "พ">
 <!ENTITY bookmarkThisLinkCmd.label      "เพิ่มที่คั่นหน้าสำหรับลิงก์นี้">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ล">
 <!ENTITY bookmarkThisFrameCmd.label      "เพิ่มที่คั่นหน้าสำหรับกรอบนี้">
