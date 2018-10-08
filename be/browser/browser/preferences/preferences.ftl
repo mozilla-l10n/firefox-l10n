@@ -226,7 +226,7 @@ translate-exceptions =
     .label = Выключэнні…
     .accesskey = ч
 check-user-spelling =
-    .label = Правяраць арфаграфію пад час набору
+    .label = Правяраць арфаграфію ў час набору
     .accesskey = н
 
 ## General Section - Files and Applications
