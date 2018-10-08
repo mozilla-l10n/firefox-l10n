@@ -103,7 +103,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label "Lucrează offline">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-<!ENTITY menubarCmd.label "Bara meniului">
+<!ENTITY menubarCmd.label "Bară de meniu">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Bara de navigare">
 <!ENTITY personalbarCmd.label "Bara de marcaje">
@@ -127,7 +127,7 @@ shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
 
-<!ENTITY pageInfoCmd.label "Informații privind pagina">
+<!ENTITY pageInfoCmd.label "Informații despre pagină">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Depanator de aspect">
@@ -148,9 +148,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "R">
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "Autentifică-te la &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Autentifică-te în &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Deschide preferințele pentru &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Reconectare la &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Reconectează-te la &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verifică-ți contul">
 
 
@@ -185,7 +185,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "are control asupra cursorului tău. Apasă Esc pentru a recăpăta controlul.">
+<!ENTITY pointerlockWarning.afterDomain.label "controlează acum cursorul. Apasă Esc pentru a prelua controlul.">
 <!ENTITY pointerlockWarning.generic.label "Acest document are control asupra cursorului tău. Apasă Esc pentru a recăpăta controlul.">
 
 <!ENTITY closeWindow.label "Închide fereastra">
@@ -193,8 +193,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Marcaje">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "Marchează această pagină">
-<!ENTITY editThisBookmarkCmd.label "Editează acest marcaj">
+<!ENTITY bookmarkThisPageCmd.label "Marchează pagina">
+<!ENTITY editThisBookmarkCmd.label "Editează marcajul">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "Abonează-te la această pagină">
@@ -202,7 +202,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY addCurPagesCmd.label "Marchează toate filele…">
 <!ENTITY showAllBookmarks2.label "Afișează toate marcajele">
-<!ENTITY recentBookmarks.label "Recent marcate">
+<!ENTITY recentBookmarks.label "Marcate recent">
 <!ENTITY otherBookmarksCmd.label "Alte marcaje">
 <!ENTITY mobileBookmarksCmd.label "Marcaje mobile">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afișează mai multe marcaje">
@@ -220,9 +220,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Oprește">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY goEndCap.tooltip             "Mergi la adresa din bara adresei">
+<!ENTITY goEndCap.tooltip             "Mergi la adresa din bara de adrese">
 <!ENTITY printButton.label            "Tipărește">
-<!ENTITY printButton.tooltip          "Tipărește această pagină">
+<!ENTITY printButton.tooltip          "Tipărește pagina">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Vezi informații privind site-ul">
 
@@ -236,26 +236,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestionează utilizarea pluginurilor">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Schimbă dacă nu mai dorești notificări de la acest site">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stochează date în stocarea persistentă">
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browserul este sub control de la distanță">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browserul este controlat de la distanță">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Deschide panoul de autentificare web">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestionează partajarea camerei și/sau microfonului cu acest site">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestionează partajarea camerei și/sau a microfonului cu acest site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestionează partajarea microfonului cu acest site">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gestionează partajarea ferestrelor sau a ecranului cu acest site">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Deschide panoul de mesaje al instalărilor">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Tradu această pagină">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestionează traducerea paginii">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestionează utilizarea de software DRM">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestionează utilizarea de programe DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Deschide panoul MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ai blocat camera pentru acest site web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ai blocat microfonul pentru acest site web.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Ai blocat acest site web să îți partajeze ecranul.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Ai blocat informațiile privind locația pentru acest site web.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Ai blocat partajarea ecranului pe acest site web.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Ai blocat informațiile despre locație pentru acest site web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ai blocat notificările pentru acest site web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ai blocat stocarea persistentă de date pentru acest site web.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Ai blocat ferestrele pop-up pentru acest site.">
+<!ENTITY urlbar.popupBlocked.tooltip             "Ai blocat ferestrele pop-up pe acest site.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ai blocat redarea automată a elementelor media cu sunet pe acest site web.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ai blocat extragerea de date canvas pentru acest site.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ai blocat acest site web să folosească pluginul Adobe Flash.">
@@ -297,7 +297,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Unelte">
 <!ENTITY toolsMenu.accesskey          "T">
 
-<!ENTITY keywordfield.label           "Adaugă un cuvânt cheie pentru această căutare…">
+<!ENTITY keywordfield.label           "Adaugă un cuvânt-cheie pentru această căutare…">
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "Descărcări">
@@ -335,7 +335,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.label     "Fereastră privată nouă">
 <!ENTITY newPrivateWindow.accesskey "W">
 
-<!ENTITY editMenu.label         "Editare">
+<!ENTITY editMenu.label         "Editează">
 <!ENTITY editMenu.accesskey       "E">
 <!ENTITY undoCmd.label            "Anulează">
 <!ENTITY undoCmd.key            "Z">
@@ -367,7 +367,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Vizualizare">
+<!ENTITY viewMenu.label         "Vizualizează">
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY viewToolbarsMenu.label       "Bare de instrumente">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
@@ -409,13 +409,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Afișează toate filele de pe acest dispozitiv">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Pornește sincronizarea filelor pentru a vedea o listă de file de pe celelalte dispozitive.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Pornește sincronizarea filelor pentru a vedea o listă cu file de pe celelalte dispozitive.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Vrei să vezi filele de pe celelalte dispozitive aici?">
-<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Deschide preferințele Sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Autentifică-te pentru a vedea o listă de file de pe celelalte dispozitive.">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Vrei să vezi aici filele de pe celelalte dispozitive?">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Deschide preferințele de sincronizare">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Autentifică-te pentru a vedea o listă cu file de pe celelalte dispozitive.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Contul tău trebuie verificat.">
 <!ENTITY appMenuRemoteTabs.signin.label "Autentifică-te la Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestionează dispozitivele…">
@@ -461,7 +461,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Extensie:">
-<!ENTITY urlbar.switchToTab.label     "Schimbă la fila:">
+<!ENTITY urlbar.switchToTab.label     "Treci pe fila:">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Pont:">

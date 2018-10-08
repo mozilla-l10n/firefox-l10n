@@ -94,7 +94,7 @@ extension-controlled-privacy-containers = O extensie, <img data-l10n-name="icon"
 extension-controlled-websites-tracking-protection-mode = O extensie, <img data-l10n-name="icon"/> { $name }, controlează protecția împotriva urmăririi.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = O extensie, <img data-l10n-name="icon"/> { $name }, controlează această setare.
+extension-controlled-websites-content-blocking-all-trackers = O extensie, <img data-l10n-name="icon"/> { $name }, controlează setarea.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = O extensie, <img data-l10n-name="icon"/> { $name }, controlează modul în care { -brand-short-name } se conectează la internet.
@@ -210,11 +210,11 @@ choose-language-description = Alege limba în care preferi să vezi paginile
 choose-button =
     .label = Alege…
     .accesskey = o
-choose-browser-language-description = Alege limbile folosite pentru a afișa meniuri, mesaje și notificari de la { -brand-short-name }.
+choose-browser-language-description = Alege limbile folosite pentru afișarea meniurilor, mesajelor și notificărilor de la { -brand-short-name }.
 manage-browser-languages-button =
     .label = Setează alternative...
     .accesskey = l
-confirm-browser-language-change-description = Repornește { -brand-short-name } pentru a aplica aceste schimbări
+confirm-browser-language-change-description = Repornește { -brand-short-name } pentru aplicarea modificărilor
 confirm-browser-language-change-button = Aplică și repornește
 translate-web-pages =
     .label = Tradu conținutul web

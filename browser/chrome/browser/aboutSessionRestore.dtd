@@ -8,7 +8,7 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle2    "Ne pare rău. Avem probleme în recuperarea paginilor tale.">
 <!ENTITY restorepage.problemDesc2   "Avem probleme cu restaurarea ultimei sesiuni de navigare. Selectează Restaurează sesiunea pentru a încerca din nou.">
-<!ENTITY restorepage.tryThis2       "Tot nu poți restaura sesiunea? Uneori o filă este cauza problemei. Vezi filele anterioare, scoate bifa de pe filele de care nu ai nevoie, apoi restaurează.">
+<!ENTITY restorepage.tryThis2       "Tot nu poți restaura sesiunea? Uneori o filă este cauza problemei. Vezi filele anterioare, debifează filele de care nu ai nevoie, apoi restaurează.">
 
 <!ENTITY restorepage.hideTabs       "Ascunde filele anterioare">
 <!ENTITY restorepage.showTabs       "Vezi filele anterioare">

@@ -14,8 +14,8 @@ policy-AppUpdateURL = Setează un URL personalizat de actualizare a aplicației.
 policy-Authentication = Configurează autentificarea integrată pentru site-urile web care o acceptă.
 policy-BlockAboutAddons = Blochează accesul la managerul de suplimente (about:addons).
 policy-BlockAboutConfig = Blochează accesul la pagina about:config
-policy-BlockAboutProfiles = Blochează accesul la pagina despre:profiluri.
-policy-BlockAboutSupport = Blochează accesul la pagina despre:suport.
+policy-BlockAboutProfiles = Blochează accesul la pagina about:profiles.
+policy-BlockAboutSupport = Blochează accesul la pagina about:support.
 policy-Bookmarks = Creează marcaje în bara de marcaje, în meniul de marcaje sau într-un dosar specificat din ele.
 policy-Certificates = Utilizarea sau neutilizarea certificatelor încorporate. Politica există acum numai în Windows.
 policy-Cookies = Permite sau blochează setarea de cookie-uri de către site-urile web.
@@ -50,7 +50,7 @@ policy-EnableTrackingProtection = Activează sau dezactivează blocarea conținu
 # English or translate them as verbs. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Instalează, dezinstalează sau blochează extensii. Opțiunea de instalare ia URL-urile sau căile drept parametri. Opțiunile Dezinstalează și Blocată iau ID-uri de extensii.
-policy-FlashPlugin = Permite sau respinge utilizarea modulului de extensie Flash.
+policy-FlashPlugin = Permite sau respinge utilizarea pluginului Flash.
 policy-HardwareAcceleration = Dacă este dezactivat, oprește accelerarea hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Setează și, opțional, blochează pagina de start.
