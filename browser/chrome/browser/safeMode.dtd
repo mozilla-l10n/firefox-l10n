@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "Feilige modus is in spesjale modus fan &brandShortName; om problemen te ûndersykjen.">
 <!ENTITY safeModeDescription4.label   "Jo add-ons en persoanlike ynstellingen wurde tydlik útskeakele.">
 
+<!ENTITY safeModeDescription5.label   "Jo add-ons en oanpaste ynstellingen sille tydlik útskeakele wurde, en funksjes fan &brandShortName; wurkje mooglik net sa as se dat no dogge.">
+
 <!ENTITY refreshProfileInstead.label  "As jo probleemoplossing oerslaan wolle, kinne jo probearje &brandShortName; op te frissen.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
