@@ -4,7 +4,7 @@
 
 clear-site-data-window =
     .title = Stòo tutù
-    .style = c
+    .style = width: 35em
 clear-site-data-close-key =
     .key = w
 clear-site-data-cancel =
