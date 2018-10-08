@@ -13,7 +13,7 @@
 <!ENTITY firstrun_customize_subtext "Personalizează &brandShortName; cu suplimente. Blochează reclamele, adaugă caracteristici sau alege o temă nouă care să îți reflecteze personalitatea.">
 <!ENTITY firstrun_bookmarks_title "Istoric">
 <!ENTITY firstrun_bookmarks_message "Site-urile favorite în prim plan">
-<!ENTITY firstrun_bookmarks_subtext "Obține rezultate de la marcajele și istoricul tău atunci când cauți.">
+<!ENTITY firstrun_bookmarks_subtext "Obține rezultate din marcaje și istoric la căutare.">
 <!ENTITY firstrun_data_title "Date">
 <!ENTITY firstrun_data_message "Trafic de date mai mic, mai mult trafic economisit">
 <!ENTITY firstrun_data_subtext2 "Oprește imaginile pentru a consuma mai puțin trafic de date pe fiecare site pe care îl vizitezi.">

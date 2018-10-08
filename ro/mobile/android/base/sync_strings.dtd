@@ -32,7 +32,7 @@
 <!ENTITY bookmarks.folder.menu.label 'Meniu pentru marcaje'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Etichete'>
-<!ENTITY bookmarks.folder.toolbar.label 'Bara pentru marcaje'>
+<!ENTITY bookmarks.folder.toolbar.label 'Bara de marcaje'>
 <!ENTITY bookmarks.folder.other.label 'Alte marcaje'>
 <!ENTITY bookmarks.folder.desktop.label 'Marcaje de pe desktop'>
 <!ENTITY bookmarks.folder.mobile.label 'Marcaje mobile'>
