@@ -23,3 +23,4 @@ onboarding-screenshots-text = Meitsje, bewarje en diel skermôfbyldingen - sûnd
 onboarding-addons-title = Add-ons
 onboarding-addons-text = Foegje sels mear funksjes ta dy't { -brand-short-name } hurder foar jo wurkje lit. Fergelykje prizen, besjoch it waarberjocht of druk jo persoanlikheid út mei in oanpast tema.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Sneup flugger, tûker of feiliger mei útwreidingen lykas Ghostery, wêrmei't jo ferfelende advertinsjes blokkearje kinne.
