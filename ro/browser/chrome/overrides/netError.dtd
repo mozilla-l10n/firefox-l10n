@@ -105,10 +105,23 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara2 "&brandShortName; a detectat o posibilă amenințare de securitate și nu a continuat la <span class='hostname'/>. Dacă vizitezi acest site, atacatorii ar putea încerca să fure informații cum ar fi parolele, e-mailurile sau detaliile cardului de credit.">
 
+<!ENTITY certerror.expiredCert.secondPara "Problema a apărut cel mai probabil pentru că ceasul de pe calculator nu este fixat corect, ceea ce ar împiedica o conectare securizată &brandShortName;.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Ce poți face?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Problema a apărut cel mai probabil din cauza site-ului web și nu poți face nimic.</p>
+<p>Dacă ești într-o rețea corporatistă sau folosești programe antivirus, poți contacta echipele de suport pentru asistență. De asemenea, poți notifica administratorul site-ului web.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Ceasul calculatorului este fixat pe <span id='wrongSystemTime_systemDate2'/>. Asigură-te că ai calculatorul fixat pe data, ora și fusul orar corecte. Intră în setările sistemului și apoi împrospătează <span class='hostname'/>.</p>
+<p>Dacă ceasul este fixat pe ora corectă, atunci, cel mai probabil, site-ul web nu este configurat corect și nu poți face nimic. Poți notifica administratorul site-ului web asupra problemei.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Problema a apărut cel mai probabil din cauza site-ului web și nu poți face nimic. Poți notifica administratorul site-ului web.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>Site-ul ar putea fi indisponibil temporar sau prea ocupat. Încearcă din nou în câteva momente.</li> <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea la rețea a calculatorului.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
 
@@ -153,6 +166,8 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Pagină blocată">
 
+<!ENTITY clockSkewError.title "Ceasul calculatorului este fixat greșit">
+<!ENTITY clockSkewError.longDesc "Calculatorul crede că este <span id='wrongSystemTime_systemDate1'/>, ceea ce împiedică o conectare securizată &brandShortName;. Ca să intri pe <span class='hostname'></span>, actualizează ceasul calculatorului în setările de sistem și adu-l la data, ora și fusul orar curente, apoi împrospătează <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Se pare că setările tale de securitate a rețelei sunt de vină. Vrei să fie restaurate setările implicite?">
 <!ENTITY prefReset.label "Restaurează setările implicite">

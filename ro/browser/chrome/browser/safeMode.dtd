@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "Modul sigur este un mod special al &brandShortName; care poate fi folosit pentru a depana problemele.">
 <!ENTITY safeModeDescription4.label   "Suplimentele și setările suplimentare vor fi temporar dezactivate.">
 
+<!ENTITY safeModeDescription5.label   "Suplimente tale şi setările particularizate vor fi dezactivate temporar, şi caracteristici &brandShortName; s-ar putea să fie executate diferit de aşa cum se întâmplă în prezent.">
+
 <!ENTITY refreshProfileInstead.label  "De asemenea, poți sări peste depanare și să încerci să reîmprospătezi &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->

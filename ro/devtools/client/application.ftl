@@ -12,8 +12,18 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Header for the list of Service Workers displayed in the application panel for the current page.
+serviceworker-list-header = Service workeri
+# Text displayed next to the list of Service Workers to encourage users to check out
+# about:debugging to see all registered Service Workers.
+serviceworker-list-aboutdebugging = Deschide <a>despre:depanare</a> pentru service workeri din alte domenii
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Anulează înregistrarea
+# Text for the debug link displayed for an already started Service Worker. Clicking on the
+# link opens a new devtools toolbox for this service worker. The title attribute is only
+# displayed when the link is disabled.
+serviceworker-worker-debug = Depanare
+    .title = Numai service workerii activi pot fi depanați
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Pornește
@@ -22,6 +32,8 @@ serviceworker-worker-start = Pornește
 serviceworker-worker-updated = Actualizat <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = Sursa
+# Text displayed next to the current status of the service worker.
+serviceworker-worker-status = Stare
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
