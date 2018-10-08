@@ -16,4 +16,4 @@ policy-errors = Erori privind politicile
 # These policies can only be set at the computer-level settings, while
 # the other policies can also be set at the user-level.
 gpo-machine-only =
-    .title = Când se folosește politica de grup, aceasta poate fi setată doar la nivel de calculator.
+    .title = Politicile de grup pot fi setate doar la nivel de calculator.

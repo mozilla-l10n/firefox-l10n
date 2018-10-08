@@ -17,16 +17,16 @@
      translation. -->
 <!ENTITY tabCrashed.header2 "Of. Fila tocmai s-a închis neașteptat.">
 <!ENTITY tabCrashed.offerHelp2 "Te putem ajuta!">
-<!ENTITY tabCrashed.single.offerHelpMessage2 "Alege &tabCrashed.restoreTab; pentru a reîncărca pagina.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Alege &tabCrashed.restoreTab; sau &tabCrashed.restoreAll; pentru a reîncărca pagina/paginile.">
+<!ENTITY tabCrashed.single.offerHelpMessage2 "Selectează &tabCrashed.restoreTab; pentru reîncărcarea paginii.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage2 "Selectează &tabCrashed.restoreTab; sau &tabCrashed.restoreAll; pentru reîncărcarea paginii/paginilor.">
 <!ENTITY tabCrashed.requestHelp "Poți să ne ajuți?">
 <!ENTITY tabCrashed.requestHelpMessage "Rapoartele de defecțiuni ne ajută să diagnosticăm problemele și să îmbunătățim &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Raportează această filă">
-<!ENTITY tabCrashed.sendReport3 "Trimite un raport automat să putem rezolva probleme ca aceasta.">
+<!ENTITY tabCrashed.sendReport3 "Trimite un raport automat să putem rezolva problemele de acest gen.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Adaugă un comentariu (comentariile sunt vizibile publicului)">
-<!ENTITY tabCrashed.includeURL3 "Include URL-ul siteurilor folosite când &brandShortName; s-a închis neașteptat.">
+<!ENTITY tabCrashed.includeURL3 "Include URL-ul siteurilor pe care erai când &brandShortName; s-a închis neașteptat.">
 <!ENTITY tabCrashed.emailPlaceholder "Introdu adresa ta de e-mail aici">
 <!ENTITY tabCrashed.emailMe "Trimite-mi e-mail când sunt mai multe informații disponibile">
 <!ENTITY tabCrashed.reportSent "Raportul de defecțiuni a fost deja transmis; îți mulțumim pentru că ne ajuți să facem &brandShortName; mai bun!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Raportează file din fundal">
-<!ENTITY tabCrashed.autoSubmit3 "Actualizează preferinţele pentru a trimite automat rapoarte de eroare când &brandShortName; se închide neașteptat.">
+<!ENTITY tabCrashed.autoSubmit3 "Actualizează preferințele pentru a trimite automat rapoarte când &brandShortName; se închide neașteptat.">
