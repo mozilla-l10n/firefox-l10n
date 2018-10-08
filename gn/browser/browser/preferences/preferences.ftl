@@ -687,6 +687,7 @@ content-blocking-fastblock-new-description = Ejoko tapykuehoha añoite omoapañu
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Opaite tapykuehoha juhupyre
     .accesskey = T
+content-blocking-tracking-protection-new-description = Ejoko opaite jehapykuehoha kuaapyre. (Ikatu ojoko peteĩa kuatiarogue ani heñyhẽ).
 content-blocking-tracking-protection-option-always =
     .label = Tapiaite
     .accesskey = A
@@ -697,6 +698,12 @@ content-blocking-tracking-protection-change-block-list = Emoambue jokoha rysýi
 content-blocking-third-party-cookies-label =
     .label = Kookie mbohapyguáva
     .accesskey = C
+content-blocking-reject-trackers-description = Ejoko opaite kookie mbohapyguáva térã umi jehapykuehoha moĩmbyre añoite.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Ne ñemboheko kookiepe ha tenda mba’ekuaarã ojokohína ñemoambue ha kokie mba’ekuaarã mbohapyguávape.
 content-blocking-change-cookie-settings =
     .label = Emoambue kookie ñemboheko
     .accesskey = S
@@ -706,6 +713,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Tapykuehoha
     .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Opaite kookie mbohapyguáva (ikatu ombojavy ñanduti rendápe)
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
