@@ -55,6 +55,9 @@ policy-HardwareAcceleration = Japúramo, eipe’a hardware mbopya’eha.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Emopyenda ha ejoko ejaposẽramo kuatiarogue ñepyrũha.
 policy-InstallAddonsPermission = Emoneĩ ndahetái ñanduti rendápe omboguejývo moimbaha.
+policy-OfferToSaveLogins = Emboheko emoneĩ hag̃ua { -brand-short-name }-pe omomandu’ávo emoñepyrũvo tembiapo ha ñe’ẽñemi ñongatupyre. Oñemoneĩ añetegua ha japúva.
+policy-OverrideFirstRunPage = Emboyke kuatiarogue tembiapo ñepyrũguáva. Emboaje ko purureko mba’eve’ỹre eipe’aséramo kuatiarogue tembiapo ñepyrũguáva.
+policy-OverridePostUpdatePage = Emboyke kuatiarogue “Mba’epyahu” embohekopyahu rire. Emboaje ko purureko mba’eve’ỹre eipe’aséramo kuatiarogue embohekopyahu rire.
 policy-Permissions = Emboheko ñemoneĩ ta’anganohẽha, ñe’ẽatãha, tendaite ha marandu’ípe g̃uarã.
 policy-PopupBlocking = Emoneĩ ndahetái ñanduti rendápe ohechaukávo ovetã iñapysẽva ijypykue rupi.
 policy-Proxy = Emboheko proxy mohendahavusu.
