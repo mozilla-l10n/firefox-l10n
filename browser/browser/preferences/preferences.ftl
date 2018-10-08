@@ -6,6 +6,8 @@ do-not-track-description = Sendi al retejoj sciigon, ke vi ne volas esti spurata
 do-not-track-learn-more = Pli da informo
 do-not-track-option-default =
     .label = Nur dum uzo de protekto kontraŭ spurado
+do-not-track-option-default-content-blocking =
+    .label = Nur kiam { -brand-short-name } estas agordita por trovi spurilojn
 do-not-track-option-always =
     .label = Ĉiam
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = La etendaĵo <img data-l10n-name="icon
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = La etendaĵo <img data-l10n-name="icon"/> { $name } regas la protekton kontraŭ spurado.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = La etendaĵo <img data-l10n-name="icon"/> { $name } regas tiun ĉi agordon.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = La etendaĵo <img data-l10n-name="icon"/> { $name } regas la manieron, kiel { -brand-short-name } konektiĝas al la reto.
@@ -203,6 +208,9 @@ choose-button =
     .label = Elekti…
     .accesskey = l
 choose-browser-language-description = Elektu la lingvojn, kiuj estos uzata por montri menuojn, mesaĝojn kaj sciigojn de { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Elekti alternativojn…
+    .accesskey = E
 confirm-browser-language-change-description = Restartigi { -brand-short-name } por apliki tiun ĉi ŝanĝojn
 confirm-browser-language-change-button = Apliki kaj restartigi
 translate-web-pages =
@@ -619,6 +627,8 @@ sitedata-block-trackers-option =
     .label = Nerektaj spuriloj
 sitedata-block-unvisited-option =
     .label = Kuketoj el nevizititaj retejoj
+sitedata-block-all-option =
+    .label = Ĉiuj kuketoj (tio misfunkciigos retejojn)
 sitedata-clear =
     .label = Viŝi datumojn…
     .accesskey = V
@@ -661,6 +671,40 @@ content-blocking-toggle-label-on = Ŝaltita
 content-blocking-toggle-label-off = Malŝaltita
     .accesskey = l
 content-blocking-category-label = Elektu, kion bloki
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Spuriloj, kiuj ŝargiĝas malrapide
+    .accesskey = m
+content-blocking-fastblock-new-description = Bloki nur spurilojn, kiuj malrapidigas la rapidan ŝargadon de paĝoj.
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Ĉiujn trovitajn spurilojn
+    .accesskey = t
+content-blocking-tracking-protection-new-description = Bloki ĉiujn konatajn spurilojn. (tio povas eviti la ŝargadon de kelkaj paĝoj.)
+content-blocking-tracking-protection-option-always =
+    .label = Ĉiam
+    .accesskey = m
+content-blocking-tracking-protection-option-private =
+    .label = Nur en privataj fenestroj
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Ŝanĝi liston de blokado
+content-blocking-third-party-cookies-label =
+    .label = Nerektaj kuketoj
+    .accesskey = N
+content-blocking-reject-trackers-description = Bloki ĉiujn nerektajn kuketojn aŭ nur tiujn, kiuj estas difinitaj de spuriloj.
+content-blocking-change-cookie-settings =
+    .label = Ŝanĝi agordojn de kuketoj
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Spuriloj (rekomendata)
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Spuriloj
+    .accesskey = S
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Ĉiuj nerektaj kuketoj (tio povus misfunkciigi retejojn)
+    .accesskey = n
 
 ## Privacy Section - Tracking
 
