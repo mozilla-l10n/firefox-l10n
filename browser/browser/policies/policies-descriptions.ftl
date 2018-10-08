@@ -29,11 +29,12 @@ policy-DisableFirefoxScreenshots = Адключыць функцыю Firefox Scr
 policy-DisableFirefoxStudies = Прадухіляць запуск даследаванняў у { -brand-short-name }.
 policy-DisableForgetButton = Прадухіліць доступ да кнопкі «Забыць».
 policy-DisableFormHistory = Не запамінаць гісторыю пошуку і запаўнення формаў.
-policy-DisableMasterPasswordCreation = Калі праўда, немагчыма стварыць галоўны пароль.
+policy-DisableMasterPasswordCreation = Значэнне true не дазваляе стварыць галоўны пароль.
 policy-DisablePocket = Адключыць магчымасць захавання вэб-старонак у Pocket.
 policy-DisablePrivateBrowsing = Адключыць прыватнае агляданне.
 policy-DisableProfileImport = Адключыць каманду меню для імпарту даных з іншага браўзера.
 policy-DisableProfileRefresh = Адключыць кнопку «Абнавіць { -brand-short-name }» на старонцы «about:support».
+policy-DisableSafeMode = Выключыць функцыю перазапуску ў бяспечным рэжыме. Заўвага: уваход у бяспечны рэжым з дапамогай клавішы Shift можа быць выключаны толькі праз групавыя палітыкі Windows.
 policy-DisableSecurityBypass = Не даваць карыстальніку абыходзіць пэўныя папярэджанні бяспекі.
 policy-DisableSetDesktopBackground = Адключыць каманду меню "Усталяваць як фон працоўнага стала".
 policy-DisableSetAsDesktopBackground = Адключыць каманду меню "Усталяваць як фон працоўнага стала…" для відарысаў.
@@ -44,11 +45,18 @@ policy-DisplayMenuBar = Тыпова паказваць паліцу меню.
 policy-DontCheckDefaultBrowser = Адключыць праверку прадвызначанага браўзера ў час запуску.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Уключыць або выключыць блакаванне змесціва і, па жаданні, забараніць змяненне налады.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Усталёўваць, выдаляць і забараняць змены пашырэнняў. Функцыя ўсталявання прымае URL-адрас або шлях у якасці параметраў. Выдаленне і забарона зменаў прымаюць ідэнтыфікатары пашырэнняў.
 policy-FlashPlugin = Дазволіць або забараніць выкарыстанне плагіна Flash.
 policy-HardwareAcceleration = Калі false, адключыць апаратнае паскарэнне.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Усталяваць хатнюю старонку і па жаданні забараніць змяненне.
 policy-InstallAddonsPermission = Дазволіць пэўным вэб-сайтам усталёўваць дадаткі.
+policy-NoDefaultBookmarks = Выключыць стварэнне тыповых закладак, што ідуць разам з { -brand-short-name }, а таксама разумных закладак (Часта наведваныя, Нядаўнія тэгі). Заўвага: гэта палітыка дзейсная толькі калі выкарыстоўваецца перад першым запускам профілю.
+policy-OfferToSaveLogins = Забяспечыць усталяванне налады Прапаноўваць захаваць лагіны і паролі ў { -brand-short-name }. Прымаюцца значэнні як true, так і false.
 policy-OverrideFirstRunPage = Перавызначыць старонку першага запуску. Усталюйце гэту палітыку ў пустое значэнне, калі хочаце выключыць старонку першага запуску.
 policy-OverridePostUpdatePage = Перавызначыць старонку "Што новага" пасля абнаўлення. Усталюйце гэту палітыку ў пустое значэнне, калі хочаце выключыць старонку пасля абнаўлення.
 policy-Permissions = Наладзіць дазволы для камеры, мікрафона, месцазнаходжання і абвестак.
