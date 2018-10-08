@@ -11,11 +11,13 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Nastavi poljuben URL za posodobitve programa.
+policy-Authentication = Nastavi integrirano overjanje za spletne strani, ki ga podpirajo.
 policy-BlockAboutAddons = Zavrni dostop do upravitelja dodatkov (about:addons).
 policy-BlockAboutConfig = Zavrni dostop do strani about:config.
 policy-BlockAboutProfiles = Zavrni dostop do strani about:profiles.
 policy-BlockAboutSupport = Zavrni dostop do strani about:support.
 policy-Bookmarks = Ustvarjaj zaznamke v orodni vrstici, meniju zaznamkov ali v določeni mapi.
+policy-Certificates = Ali naj se uporablja vgrajena digitalna potrdila ali ne. Ta pravilnik trenutno deluje le v sistemu Windows.
 policy-Cookies = Spletnim stranem dovoli ali zavrni nastavljanje piškotkov.
 policy-DisableAppUpdate = Prepreči posodabljanje brskalnika.
 policy-DisableBuiltinPDFViewer = Onemogoči PDF.js, pregledovalnik PDF brskalnika { -brand-short-name }.
@@ -43,11 +45,18 @@ policy-DisplayMenuBar = Privzeto prikaži vrstico z menijem.
 policy-DontCheckDefaultBrowser = Onemogoči preverjanje privzetega brskalnika ob zagonu.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Omogoči ali onemogoči zavračanje vsebine ter ga po potrebi zakleni.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Namesti, odstrani ali zakleni razširitve. Možnost "Install" kot parametre sprejema URL-je ali poti. Možnosti "Uninstall" in "Locked" sprejemata ID-je razširitev.
 policy-FlashPlugin = Dovoli ali zavrni uporabo vtičnika Flash.
+policy-HardwareAcceleration = Če je "false", izklopi strojno pospeševanje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nastavi in po potrebi zakleni domačo stran.
 policy-InstallAddonsPermission = Določenim spletnim stranem dovoli nameščanje dodatkov.
 policy-NoDefaultBookmarks = Onemogoči ustvarjanje privzetih zaznamkov, vključenih v { -brand-short-name }, in Pametnih zaznamkov (Najbolj obiskano, Nedavne oznake). Opomba: ta pravilnik je uveljavljen, samo če je nastavljen pred prvo uporabo profila.
+policy-OfferToSaveLogins = Vsili shranjevanje prijav in gesel v { -brand-short-name }u. Možna je tako vrednost "true" kot "false".
 policy-OverrideFirstRunPage = Preglasi stran prvega zagona. Če želite onemogočiti prikaz strani prvega zagona, nastavite pravilnik na prazno vrednost.
 policy-OverridePostUpdatePage = Preglasi stran "Kaj je novega", ki se odpre po posodobitvi. Če želite onemogočiti prikaz strani po posodobitvi, nastavite pravilnik na prazno vrednost.
 policy-Permissions = Nastavi dovoljenja za kamero, mikrofon, lokacijo in obvestila.
@@ -55,6 +64,7 @@ policy-PopupBlocking = Določenim spletnim stranem dovoli privzeto prikazovanje 
 policy-Proxy = Nastavi posrednika.
 policy-SanitizeOnShutdown = Ob izhodu počisti vse podatke brskanja.
 policy-SearchBar = Nastavi privzet položaj vrstice za iskanje. Uporabnik ga lahko še vedno prilagodi.
+policy-SearchEngines = Nastavi iskalnike. Ta pravilnik je na voljo le v izdaji Extended Support Release (ESR).
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Prepreči obisk določenih spletnih mest. Za več podrobnosti o obliki glejte dokumentacijo.
