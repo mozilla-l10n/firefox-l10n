@@ -6,6 +6,8 @@ do-not-track-description = Emondo ñanduti rendápe peteĩ kuaaharã “Jehapyku
 do-not-track-learn-more = Kuaave
 do-not-track-option-default =
     .label = Eipuru jave añónte tapykueho ñemo'ã
+do-not-track-option-default-content-blocking =
+    .label = { -brand-short-name } oñembohekórõ añoite ojokokuaa umi jehapykuehoha juhupyre
 do-not-track-option-always =
     .label = Katui
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = Peteĩ moĩmbaha, <img data-l10n-name=
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma'ẽag̃ui temiñemi ñemo'ã rehe.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, ohechahína ko ñemboheko.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma'ẽag̃ui { -brand-short-name } ramo ojuajúvo ñanduti rehe.
@@ -622,6 +627,8 @@ sitedata-block-trackers-option =
     .label = Jehekaha mbohapyháva
 sitedata-block-unvisited-option =
     .label = Ñanduti renda kookie eike’ỹhague
+sitedata-block-all-third-party-option =
+    .label = Opaite kookie mohapyguáva (ikatu ombojavy ñanduti rendápe)
 sitedata-block-all-option =
     .label = Opaite kookie (ombojavykuaa ñanduti rendápe)
 sitedata-clear =
@@ -633,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Oĩ'ỹva…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Ne ñemboheko pe tetepy jejokópe ojokohína kookie ñemboheko ñemoambue ha avei tenda mba’ekuaarä.
 
 ## Privacy Section - Address Bar
 
