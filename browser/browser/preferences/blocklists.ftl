@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Engelleme Listeleri
     .style = width: 55em
-blocklist-desc = Gezinti etkinliğinizi izleyebilecek web öğelerini engellemek için { -brand-short-name }’un hangi listeyi kullanacağını seçebilirsiniz.
+blocklist-desc = Gezinti etkinliğinizi izleyebilecek web öğelerini engellemek için { -brand-short-name } tarayıcınızın hangi listeyi kullanacağını seçebilirsiniz.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =

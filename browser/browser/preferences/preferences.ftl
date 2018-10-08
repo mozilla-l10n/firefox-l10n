@@ -627,10 +627,6 @@ sitedata-block-trackers-option =
     .label = Üçüncü taraf takipçileri
 sitedata-block-unvisited-option =
     .label = Ziyaret etmediğim sitelerin çerezleri
-sitedata-block-all-third-parties-option =
-    .label = Tüm üçüncü taraf çerezleri
-sitedata-block-always-option =
-    .label = Tüm çerezler (Bazı siteler düzgün çalışmayabilir)
 sitedata-block-all-third-party-option =
     .label = Tüm üçüncü taraf çerezleri (Bazı web siteleri bozulabilir.)
 sitedata-block-all-option =
@@ -681,26 +677,6 @@ content-blocking-toggle-label-on = AÇIK
 content-blocking-toggle-label-off = KAPALI
     .accesskey = K
 content-blocking-category-label = Nelerin engelleneceğini seçin
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Yavaş takipçi öğeleri
-    .accesskey = Y
-content-blocking-fastblock-description = Yüklenmesi 5 saniyeden uzun süren üçüncü taraf içeriklerini engeller.
-content-blocking-fastblock-option-enabled =
-    .label = Her zaman engelle
-content-blocking-fastblock-option-disabled =
-    .label = Asla engelleme
-content-blocking-tracking-protection-label = Takipçiler
-    .accesskey = T
-content-blocking-tracking-protection-description = Bilinen tüm takipçileri engeller (Not: Bazı sayfaların yüklenmesini de engelleyebilir.)
-content-blocking-tracking-protection-option-enabled =
-    .label = Her zaman engelle
-content-blocking-tracking-protection-option-pbm =
-    .label = Yalnızca gizli pencerelerde engelle
-content-blocking-tracking-protection-option-disabled =
-    .label = Asla engelleme
-content-blocking-tracking-protection-change-blocklist = Engelleme listesini değiştir…
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
@@ -761,7 +737,7 @@ tracking-pbm-label = Gizli Gezinti’de bilinen takipçileri engellemek için İ
     .accesskey = G
 tracking-exceptions =
     .label = İstisnalar…
-    .accesskey = r
+    .accesskey = t
 tracking-change-block-list =
     .label = Engelleme listesini değiştir…
     .accesskey = E
