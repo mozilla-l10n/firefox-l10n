@@ -5,8 +5,8 @@
 sync-disconnect-dialog =
     .title = Отсоединиться от Синхронизации?
     .style = width: 36em; min-height: 35em;
-sync-disconnect-heading = Вы хотите также удалить данные браузера на этом компьютере? Ваши данные Синхронизации в любом случае останутся в вашем аккаунте.
-sync-disconnect-remove-sync-caption = Удалить данные Синхронизации
+sync-disconnect-heading = Вы хотите также удалить данные браузера на этом компьютере? Ваши данные { -sync-brand-name } в любом случае останутся в вашем аккаунте.
+sync-disconnect-remove-sync-caption = Удалить данные { -sync-brand-name }
 sync-disconnect-remove-sync-data = Закладки, история, пароли, и т.д.
 sync-disconnect-remove-other-caption = Удалить другие личные данные
 sync-disconnect-remove-other-data = Куки, кэш, данных автономных веб-сайтов и т.д.
