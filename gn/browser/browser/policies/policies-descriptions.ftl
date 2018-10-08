@@ -22,6 +22,7 @@ policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
 policy-DisableAppUpdate = Ani eheja oñembohekopyahu kundahára.
 policy-DisableBuiltinPDFViewer = Eipe’aite PDF.js, PDF jehechaha oĩva { -brand-short-name } ndive.
 policy-DisableDeveloperTools = Ejoko ñangarekohára rembipurúpe jeike.
+policy-DisableFeedbackCommands = Eipe’a mbohapeha emondo hag̃ua neñe’ẽ pytyvõha poravorã guive (Emondo neñe’ẽ ha emomarandu tenda imarãva).
 policy-DisableFirefoxAccounts = Eipe’a mba'epytyvõrã { -fxaccount-brand-name } pegua, oĩhápe avei Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Eipe’a Firefox Screenshots rembiapoite.
@@ -33,6 +34,7 @@ policy-DisablePocket = Eipe’a ñanduti renda ñeñongatu rembiapoite Pocket-pe
 policy-DisablePrivateBrowsing = Eipe’a kundaha ñemigua.
 policy-DisableProfileImport = Eipe’a poravorã mbohapeha egueru hag̃ua mba’ekuaarã ambue kundaháragui.
 policy-DisableProfileRefresh = Eipe’a votõ Myanyhẽjey { -brand-short-name } about:support kuatyaroguépe.
+policy-DisableSafeMode = Eipe’a tembiapoite emoñepyrũ hag̃ua tekorosã rekópe. Kuaarã: haiha taiguasúva eike hag̃ua tekorosã rekópe ikatu eipe’a Windows rupive añoite eipurúvo aty purureko.
 policy-DisableSecurityBypass = Ani eheja puruhárape ohejareívo tekorosã rehegua.
 policy-DisableSetDesktopBackground = Eipe’a pe poravorã mbohapeha emoĩ hag̃ua peteĩ ta’anga mba’erechaha ruguarã.
 policy-DisableSetAsDesktopBackground = Eipe’a pe poravorã mbohekopyréva mba’erechaha ruguarã ta’angápe g̃uarãva.
