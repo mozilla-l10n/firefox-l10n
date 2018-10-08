@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Akcepti">
 <!ENTITY defaultButton.accesskey "A">
+
+<!ENTITY moreActionsButton.accessibleLabel "Aliaj agoj">
