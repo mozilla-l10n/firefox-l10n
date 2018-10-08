@@ -20,5 +20,5 @@ policy-DisableDeveloperTools = تخلیق کار ٹول تک رسائی کو ر�
 policy-DisableForgetButton = فارگیٹ بٹن تک رسائی کو روکیں۔
 policy-DisablePrivateBrowsing = نجی براؤزنگ غیر فعال کریں
 policy-DisableTelemetry = ٹیلی میٹری بند کریں۔
-policy-Proxy = پراکسی سیٹنگز ترتیب کریں۔
+policy-Proxy = پراکسی سيٹنگيں ترتیب کریں۔
 policy-SanitizeOnShutdown = بند کرنے پر تمام نیویگیشن ڈیٹا صاف کریں۔

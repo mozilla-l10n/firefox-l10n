@@ -117,7 +117,7 @@ permissions-site-camera-disable-label =
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
-    .title = ترتیبات - مائکروفون کی اجازت
+    .title = سيٹنگيں - مائکروفون کی اجازت
     .style = { permissions-window.style }
 permissions-site-microphone-disable-label =
     .label = اپنے مائیکروفون تک رسائی حاصل کرنے سے متعلق نئی درخواستیں بند کریں
