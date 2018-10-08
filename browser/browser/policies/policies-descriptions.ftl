@@ -23,7 +23,7 @@ policy-DisableAppUpdate = Запрещает обновление браузер
 policy-DisableBuiltinPDFViewer = Отключает PDF.js, встроенный просмотрщик PDF в { -brand-short-name }.
 policy-DisableDeveloperTools = Блокирует доступ к инструментам разработчика.
 policy-DisableFeedbackCommands = Отключает команды отправки отзывов в меню Справка («Отправить отзыв...» и «Сообщить о поддельном сайте...»).
-policy-DisableFirefoxAccounts = Отключает службы, основанные на { -fxaccount-brand-name }, включая Синхронизацию.
+policy-DisableFirefoxAccounts = Отключает службы, основанные на Аккаунте Firefox, включая Синхронизацию.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Отключает функцию Firefox Screenshots.
 policy-DisableFirefoxStudies = Запрещает { -brand-short-name } выполнять исследования.
