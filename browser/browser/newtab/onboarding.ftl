@@ -5,6 +5,8 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-try-now = Încearcă-l acum
+onboarding-welcome-header = Bun venit la { -brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
