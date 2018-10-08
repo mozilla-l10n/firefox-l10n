@@ -4,7 +4,7 @@
 
 clear-site-data-window =
     .title = کوائف صاف کریں
-    .style = چوڑائی:  35em
+    .style = width: 35em
 clear-site-data-description = تمام کوکیز اور سائٹ کا ڈیٹا صاف کرنے سے جو کی { -brand-short-name } کی طرف سے ذخیرہ شدہ ہے، آپ کو سائن اوٹ کرسکتا ہے اور آف لائن ویب مشمول ہٹ سکتے ہیں۔ کیشہ ڈیٹا کی صفائی آپ لاگ کو متاثر نہیں کرے گا۔
 clear-site-data-close-key =
     .key = w
