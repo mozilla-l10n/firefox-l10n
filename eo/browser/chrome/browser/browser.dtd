@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Aboni tiun ĉi paĝon">
 <!ENTITY subscribeToPageMenuitem.label "Aboni tiun ĉi paĝon…">
+
 <!ENTITY addCurPagesCmd.label "Aldoni legosignon por ĉiuj langetoj…">
 <!ENTITY showAllBookmarks2.label "Montri ĉiujn legosignojn">
 <!ENTITY recentBookmarks.label "Ĵusaj legosignoj">
@@ -446,6 +447,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Administri etendaĵon">
 <!ENTITY customizeMenu.manageExtension.accesskey "A">
+
+<!ENTITY customizeMenu.removeExtension.label "Forigi etendaĵon">
+<!ENTITY customizeMenu.removeExtension.accesskey "F">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -974,6 +978,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Raporti problemon">
 <!ENTITY contentBlocking.breakageReportView.label "Raporti problemojn">
+<!ENTITY contentBlocking.breakageReportView2.description "La blokado de enhavo povas okazigi problemojn en kelkaj retejoj. Se vi raportas problemojn, vi helpos nin plibonigi &brandShortName; por ĉiuj. (Tio ĉi sendos al Mozilla retadreson kaj informojn pri la agordoj de via retumilo.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Pli da informo">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Retadreso">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kiujn problemojn vi havis? (nedeviga)">
@@ -1109,6 +1114,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Administri etendaĵon…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Sendi langeton al aparato">
+
 <!ENTITY sendToDevice.syncNotReady.label "Aparatoj spegulataj…">
 
 <!ENTITY pageAction.shareUrl.label "Dividi">
