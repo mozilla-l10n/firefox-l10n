@@ -17,6 +17,7 @@ onboarding-start-browsing-button-label = Pradėti naršymą
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Privatusis naršymas
+onboarding-private-browsing-text = Naršykite patys. Privatusis naršymas, kartu su turinio blokavimu, blokuoja jūsų veiklą saityne sekančius stebėjimo elementus.
 onboarding-screenshots-title = Ekrano nuotraukos
 onboarding-screenshots-text = Darykite, įrašykite ir dalinkitės ekrano nuotraukomis – nepalikdami „{ -brand-short-name }“. Užfiksuokite sritį arba visą naršomą tinklalapį. Tada įrašykite į saityną patogiam pasiekimui ir dalinimuisi.
 onboarding-addons-title = Priedai
