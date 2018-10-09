@@ -38,5 +38,11 @@ serviceworker-worker-status = Stare
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
+# Service Worker status. A running service worker is registered, currently executed, can
+# be debugged and stopped.
+serviceworker-worker-status-running = În execuție
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Oprit
+# Service Worker status. A registering service worker is not yet registered and cannot be
+# started or debugged.
+serviceworker-worker-status-registering = Se înregistrează

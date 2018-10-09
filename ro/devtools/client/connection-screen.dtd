@@ -13,6 +13,9 @@
 <!ENTITY port       "Port:">
 <!ENTITY connect    "Conectează">
 <!ENTITY connecting "Se conectează…">
+<!ENTITY availableAddons "Suplimente la distanță disponibile:">
+<!ENTITY availableTabs "File la distanță disponibile:">
+<!ENTITY availableProcesses "Procese la distanță disponibile:">
 <!ENTITY connectionError "Eroare:">
 <!ENTITY errorTimeout "Eroare: conexiunea a expirat.">
 <!ENTITY errorRefused "Eroare: conexiune refuzată.">
