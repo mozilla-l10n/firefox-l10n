@@ -5,6 +5,9 @@
 languages-window =
     .title = Idiomas
     .style = width: 30em
+webpage-languages-window =
+    .title = Configurações de idioma de páginas web
+    .style = width: 40em
 languages-close-key =
     .key = W
 languages-description = Algumas páginas são oferecidas em mais de um idioma. Escolha idiomas para apresentar essas páginas, em ordem de preferência

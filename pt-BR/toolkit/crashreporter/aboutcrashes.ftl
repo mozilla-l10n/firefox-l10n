@@ -4,6 +4,7 @@
 
 crash-reports-title = Relatórios de travamentos
 clear-all-reports-label = Remover todos os relatórios
+delete-button-label = Limpar todos
 delete-confirm-title = Tem certeza?
 delete-confirm-description = Isto irá excluir todos os relatórios e não pode ser desfeito.
 delete-unsubmitted-description = Esta ação excluirá todos os relatórios de travamento não enviados e não poderá ser desfeita.
