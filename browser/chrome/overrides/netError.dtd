@@ -61,8 +61,9 @@
 <!ENTITY notCached.longDesc "<p>Documentul cerut nu este disponibil în cache-ul din &brandShortName;.</p><ul><li>Ca o măsură de securitate, &brandShortName; nu cere din nou automat documente confidențiale.</li><li>Clic pe „Încearcă din nou” pentru a cere din nou documentul de la site-ul web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
-<!ENTITY netOffline.longDesc2 "<ul>
-  <li>Apasă pe „Încearcă din nou” pentru a comuta la modul online și pentru a reîncărca pagina.</li>
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Apasă pe &quot;Încearcă din nou&quot; pentru comutarea pe modul conectat și încearcă să reîncarci pagina.</li>
 </ul>
 ">
 
