@@ -1007,7 +1007,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate3.label "Dezactivează pentru această sesiune">
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "Permite pentru acest site">
+<!ENTITY trackingProtection.block4.label "Activează pentru acest site">
 <!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.unblockPrivate4.label "Dezactivează temporar blocarea">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
