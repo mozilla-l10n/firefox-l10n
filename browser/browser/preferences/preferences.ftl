@@ -123,9 +123,9 @@ startup-header = Запуск
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Разрешить одновременный запуск { -brand-short-name } и Firefox
-use-firefox-sync = Совет: При этом используются отдельные профили. Используйте Синхронизацию для обмена между ними данными.
-get-started-not-logged-in = Войти в Синхронизацию…
-get-started-configured = Открыть настройки Синхронизации
+use-firefox-sync = Совет: При этом используются отдельные профили. Используйте { -sync-brand-short-name[accusative] } для обмена между ними данными.
+get-started-not-logged-in = Войти в { -sync-brand-short-name[accusative] }…
+get-started-configured = Открыть настройки { -sync-brand-short-name[genitive] }
 always-check-default =
     .label = Всегда проверять, является ли { -brand-short-name } вашим браузером по умолчанию
     .accesskey = а
