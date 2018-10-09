@@ -17,5 +17,15 @@ policy-BlockAboutConfig = Bloki aliron al la paĝo about:config.
 policy-BlockAboutProfiles = Bloki aliron al la paĝo about:profiles.
 policy-BlockAboutSupport = Bloki aliron al la paĝo about:support.
 policy-Bookmarks = Krei legosignojn en la ilaro de legosignoj, en la menuo de legosignoj, aŭ en dosierujo sub ili.
+policy-Cookies = Permesi aŭ bloki al retejoj konservi kuketojn.
+policy-DisableAppUpdate = Malpermesi al retumilo ĝisdatigiĝi.
+policy-DisableDeveloperTools = Bloki aliron al la iloj por programistoj.
+policy-DisableFeedbackCommands = Malaktivigi eblojn “sendi opiniojn” kaj “denunci trompan retejon” en la menuo de helpo.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Malaktivigi la etendaĵon Firefox Screenshots.
+policy-DisableFirefoxStudies = Malpermesi al { -brand-short-name } fari studojn.
+policy-DisableForgetButton = Malpermesi aliron al la butono "Forgesi".
+policy-DisableFormHistory = Ne memori serĉan kah formularan historion.
+policy-DisableMasterPasswordCreation = Se tio estas aktiva, ne eblos krei ĉefan pasvorton.
+policy-DisablePocket = Malaktivigi la eblon konservi retpaĝojn en Pocket.
+policy-DisablePrivateBrowsing = Malaktivigi privatan retumon
