@@ -27,4 +27,10 @@ policy-DisableFirefoxAccounts = Diweredekaat gwazerezhioù diazezet war { -fxacc
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Diweredekaat ar c'heweriuster Tapadennoù skramm.
 policy-DisableFirefoxStudies = Mirout { -brand-short-name } da lañsañ studiadennoù.
+policy-DisableForgetButton = Diweredekaat an afell evit dilemel ar roadennoù.
+policy-DisableFormHistory = Chom hep derc'hel soñj eus ar roll istor klask ha furmskridoù.
+policy-DisableMasterPasswordCreation = M'eo gwir e vo tu krouiñ ur ger-tremen mestr.
+policy-DisablePocket = Diweredekaat ar c'heweriuster evit enrollañ pajennoù e Pocket.
 policy-DisablePrivateBrowsing = Diweredekaat ar merdeiñ prevez.
+policy-DisableProfileImport = Diweredekaat arc'had al lañser evit enporzhiañ roadennoù adalek ur merdeer all.
+policy-DisableProfileRefresh = Diweredekaat an afell Azgrenaat { -brand-short-name } er bajenn about:support.
