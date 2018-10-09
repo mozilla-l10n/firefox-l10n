@@ -434,7 +434,7 @@ containers-remove-button =
 
 sync-signedout-caption = Возьмите свой Интернет с собой
 sync-signedout-description = Синхронизируйте свои закладки, историю, вкладки, пароли, дополнения и настройки на всех ваших устройствах.
-sync-signedout-account-title = Соединитесь с Аккаунтом Firefox
+sync-signedout-account-title = Соединитесь с { -fxaccount-brand-name[instrumental] }
 sync-signedout-account-create = Нет аккаунта? Давайте его создадим
     .accesskey = е
 sync-signedout-account-signin =
