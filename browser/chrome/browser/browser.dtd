@@ -795,7 +795,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; a blocat părți ale acestei pagini care nu sunt sigure.">
-<!ENTITY identity.passiveLoaded "Părți ale acestei pagini nu sunt sigure (cum ar fi imaginile).">
+<!ENTITY identity.passiveLoaded "Părți din pagină nu sunt sigure (cum ar fi imaginile).">
 <!ENTITY identity.activeLoaded "Ai dezactivat protecția pe această pagină.">
 <!ENTITY identity.weakEncryption "Această pagină folosește criptare slabă.">
 
@@ -803,12 +803,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Conexiunea la acest site nu este privată. Informațiile pe care le trimiți pot fi văzute de alții (cum ar fi parolele, mesajele, cardurile de credit, etc.).">
 <!ENTITY identity.description.insecureLoginForms "Informațiile de autentificare pe care le introduci pe această pagină nu sunt securizate și pot fi compromise.">
 <!ENTITY identity.description.weakCipher "Conexiunea la acest site web folosește criptare slabă și nu este privată.">
-<!ENTITY identity.description.weakCipher2 "Alte persoane pot vedea informațiile tale sau pot modifica comportamentul site-ului web.">
+<!ENTITY identity.description.weakCipher2 "Alte persoane îți pot vedea informațiile sau pot modifica comportamentul site-ului web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; a blocat părți ale acestei pagini care nu sunt sigure.">
 <!ENTITY identity.description.passiveLoaded "Conexiunea nu este privată și informațiile pe care le împărtășești cu acest site pot fi văzute de alții.">
-<!ENTITY identity.description.passiveLoaded2 "Acest site web are conținut care nu este sigur (cum ar fi imagini).">
-<!ENTITY identity.description.passiveLoaded3 "Deși &brandShortName; a blocat o parte din conținut, mai există conținut pe pagină care nu este sigur (cum ar fi imagini).">
-<!ENTITY identity.description.activeLoaded "Acest site web are conținut care nu este sigur (cum ar fi scripturi), iar conexiunea la acesta nu este privată.">
+<!ENTITY identity.description.passiveLoaded2 "Acest site web are conținut care nu este sigur (cum ar fi imaginile).">
+<!ENTITY identity.description.passiveLoaded3 "Deși &brandShortName; a blocat o parte din conținut, mai există conținut pe pagină care nu este sigur (cum ar fi imaginile).">
+<!ENTITY identity.description.activeLoaded "Acest site web are conținut care nu este sigur (cum ar fi scripturile), iar conexiunea ta la acesta nu este privată.">
 <!ENTITY identity.description.activeLoaded2 "Informațiile pe care le împărtășești cu acest site ar putea fi văzute de alții (cum ar fi parolele, mesajele, cardurile de credit, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activează protecția">
@@ -827,7 +827,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Permisiuni">
 <!ENTITY identity.permissionsEmpty "Nu ai acordat acestui site nicio permisiune specială.">
 <!ENTITY identity.permissionsReloadHint "Ar putea fi nevoie să reîncarci pagina pentru a efectua modificările.">
-<!ENTITY identity.permissionsPreferences.tooltip "Deschide preferințele permisiunilor">
+<!ENTITY identity.permissionsPreferences.tooltip "Deschide preferințele pentru permisiuni">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -896,7 +896,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obține mai multe teme">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.overflowList.title2 "Meniu excedentar">
-<!ENTITY customizeMode.overflowList.description "Trage și plasează elementele aici pentru a le păstra la îndemână, însă în afara barei de instrumente…">
+<!ENTITY customizeMode.overflowList.description "Trage și plasează aici elementele ca să le ai la îndemână, dar în afara barei de unelte…">
 <!ENTITY customizeMode.uidensity "Densitate">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
