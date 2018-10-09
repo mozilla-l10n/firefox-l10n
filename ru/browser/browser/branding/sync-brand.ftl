@@ -10,7 +10,7 @@
 # and kept in English.
 -fxaccount-brand-name =
     {
-        [nom] Аккаунт Firefox
-        [acc] Аккаунте Firefox
-       *[abl] Аккаунтом Firefox
+       *[nominative] Аккаунт Firefox
+        [instrumental] Аккаунтом Firefox
+        [prepositional] Аккаунте Firefox
     }
