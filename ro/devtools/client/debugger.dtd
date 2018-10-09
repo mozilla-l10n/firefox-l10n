@@ -180,7 +180,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
-<!ENTITY debuggerUI.addWatch            "Adaugă expresie urmărită">
+<!ENTITY debuggerUI.addWatch            "Adaugă expresie de urmărit">
 <!ENTITY debuggerUI.addWatch.accesskey  "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.removeAllWatch): This is the text that
