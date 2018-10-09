@@ -16,7 +16,7 @@ onboarding-start-browsing-button-label = Lossurfen
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-onboarding-private-browsing-title = Privater Modus
+onboarding-private-browsing-title = Privates Surfen
 onboarding-screenshots-title = Bildschirmfotos
 onboarding-addons-title = Add-ons
 onboarding-ghostery-title = Ghostery
