@@ -1,0 +1,26 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## UI strings for the simplified onboarding modal
+
+onboarding-button-label-try-now = Emprova ussa
+onboarding-welcome-header = Bainvegni a { -brand-short-name }
+onboarding-start-browsing-button-label = Cumenzar a navigar
+
+## These strings belong to the individual onboarding messages.
+
+
+## Each message has a title and a description of what the browser feature is.
+## Each message also has an associated button for the user to try the feature.
+## The string for the button is found above, in the UI strings section
+
+onboarding-private-browsing-title = Modus privat
+onboarding-private-browsing-text = Navighescha senza ch'insatgi t'observia. Il modus privat cun bloccada da cuntegn blochescha fastizaders online che emprovan da ta suandar en la rait.
+onboarding-screenshots-title = Maletgs dal visur
+onboarding-screenshots-text = Fa, memorisescha e cundivida maletgs dal visur — senza bandunar { -brand-short-name }. Fotografescha ina zona u in'entira pagina durant che ti navigheschas. Memorisescha lura il maletg online per avair access a moda simpla e per al cundivider.
+onboarding-addons-title = Supplements
+onboarding-addons-text = Supplements ta permettan dad agiuntar funcziuns a { -brand-short-name } uschia che tes navigatur funcziuna tenor tes giavischs. Cumpareglia pretschs, consultescha l'aura u adattescha l'interfatscha cun in design adattà.
+onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Navighescha pli spert, pli intelligent e pli segir cun extensiuns sco Ghostery che ta lascha bloccar reclamas mulestusas.
