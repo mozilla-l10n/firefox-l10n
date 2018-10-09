@@ -627,6 +627,10 @@ sitedata-block-trackers-option =
     .label = Rastreadores de terceiros
 sitedata-block-unvisited-option =
     .label = Cookies de sites não visitados
+sitedata-block-all-third-party-option =
+    .label = Todos os cookies de terceiros (pode atrapalhar sites)
+sitedata-block-all-option =
+    .label = Todos os cookies (irá atrapalhar sites)
 sitedata-clear =
     .label = Limpar dados…
     .accesskey = L
@@ -636,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Exceções…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Suas configurações de bloqueio de conteúdo estão impedindo mudanças nas configurações de Cookies e Dados de sites.
 
 ## Privacy Section - Address Bar
 
@@ -705,6 +713,9 @@ content-blocking-reject-trackers-block-trackers-option-recommended =
 content-blocking-reject-trackers-block-trackers-option =
     .label = Rastreadores
     .accesskey = R
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Todos os cookies de terceiros (pode atrapalhar sites)
+    .accesskey = a
 
 ## Privacy Section - Tracking
 
