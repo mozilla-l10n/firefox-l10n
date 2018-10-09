@@ -8,4 +8,9 @@
 -sync-brand-name = Синхронизации Firefox
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name = Аккаунт Firefox
+-fxaccount-brand-name =
+    {
+        [nom] Аккаунт Firefox
+        [acc] Аккаунте Firefox
+       *[abl] Аккаунтом Firefox
+    }
