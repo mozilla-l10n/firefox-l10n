@@ -55,7 +55,10 @@ policy-HardwareAcceleration = Hvis deaktivert, slå av maskinvareakselerasjon.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Sett og eventuelt lås startsiden.
 policy-InstallAddonsPermission = Tillat visse nettsteder å installere utvidelser.
+policy-NoDefaultBookmarks = Deaktiver opprettelse av standardbokmerker, som følger med { -brand-short-name }, samt de smarte bokmerkene (Mest besøkte, Siste brukte etiketter). NB: Denne policyen fungerer bare om den er aktivert før profilen blir brukt for første gang.
+policy-OfferToSaveLogins = Tving innstillingen til å tillate { -brand-short-name } å kunne huske lagret innlogginger og passord. Både true- og falseverdier er godkjent.
 policy-OverrideFirstRunPage = Erstatt siden som vises ved første oppstart. La policyen være tom, hvis siden ved første oppstart skal deaktiveres.
+policy-OverridePostUpdatePage = Bytt ut «Hva er nytt»-siden som blir vist etter en oppdatering. La policyen stå tom hvis sida etter oppdatering skal deaktiveres.
 policy-Permissions = Stille inn tillatelser for kamera, mikrofon, plassering og varsler.
 policy-PopupBlocking = Tillat at visse nettsteder skal kunne vise sprettoppvinduer som standard.
 policy-Proxy = Konfigurer proxy-innstillinger.
