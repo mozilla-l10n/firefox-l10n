@@ -19,3 +19,5 @@ onboarding-start-browsing-button-label = Lossurfen
 onboarding-private-browsing-title = Privater Modus
 onboarding-screenshots-title = Bildschirmfotos
 onboarding-addons-title = Add-ons
+onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Surfen Sie schneller, eleganter und sicherer mit Erweiterungen à la Ghostery, welche lästige Werbung für Sie blockieren.
