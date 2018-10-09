@@ -466,7 +466,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Pont:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Obține ajutor în găsirea de lucruri! Uită-te după &#x1F50E; de lângă sugestiile de căutare.">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Primește ajutor la căutare! Uită-te după &#x1F50E; din dreptul sugestiilor de căutare.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Modifică opțiunile…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Modifică preferințele…">
@@ -530,7 +530,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Schimbă setările de căutare">
+<!ENTITY changeSearchSettings.button  "Setări de căutare">
 <!ENTITY changeSearchSettings.tooltip "Schimbă setările de căutare">
 
 <!ENTITY searchInNewTab.label         "Caută într-o filă nouă">
@@ -566,9 +566,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "Vezi sursa cadrului">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "Vezi informații privind pagina">
+<!ENTITY viewPageInfoCmd.label        "Vezi informații despre pagină">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.label       "Vezi informații privind cadrul">
+<!ENTITY viewFrameInfoCmd.label       "Vezi informații despre cadru">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "Reîncarcă imaginea">
 <!ENTITY reloadImageCmd.accesskey     "R">
@@ -584,14 +584,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Setează ca fundal pentru desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Marchează această pagină">
+<!ENTITY bookmarkPageCmd2.label       "Marchează pagina">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY bookmarkThisLinkCmd.label      "Marchează acest link">
+<!ENTITY bookmarkThisLinkCmd.label      "Marchează linkul">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "Marchează acest cadru">
+<!ENTITY bookmarkThisFrameCmd.label      "Marchează cadrul">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
 <!ENTITY pageAction.copyLink.label    "Copiază linkul">
-<!ENTITY emailPageCmd.label           "Trimite e-mail cu linkul…">
+<!ENTITY emailPageCmd.label           "Trimite linkul prin e-mail…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Salvează pagina ca…">
 <!ENTITY savePageCmd.accesskey        "A">
@@ -608,17 +608,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "Salvează videoclipul ca…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Salvează audioul ca…">
+<!ENTITY saveAudioCmd.label           "Salvează materialul audio ca…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "Trimite e-mail cu imaginea…">
+<!ENTITY emailImageCmd.label          "Trimite imaginea prin e-mail…">
 <!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "Trimite e-mail cu videoclipul…">
+<!ENTITY emailVideoCmd.label          "Trimite videoclipul prin e-mail…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "Trimite e-mail cu audioul…">
+<!ENTITY emailAudioCmd.label          "Trimite secvența audio prin e-mail…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Activează acest plugin">
+<!ENTITY playPluginCmd.label          "Activează pluginul">
 <!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Ascunde acest plugin">
+<!ENTITY hidePluginCmd.label          "Ascunde pluginul">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "Copiază locația linkului">
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
@@ -631,7 +631,7 @@ context menu items are mutually exclusive. -->
 <!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "Copiază locația videoclipului">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Copiază locația audioului">
+<!ENTITY copyAudioURLCmd.label        "Copiază locația secvenței audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Copiază adresa de e-mail">
 <!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
@@ -647,7 +647,7 @@ context menu items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "Redă">
 <!ENTITY mediaPlay.accesskey         "P">
-<!ENTITY mediaPause.label            "Pune pe pauză">
+<!ENTITY mediaPause.label            "Pauză">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
@@ -676,9 +676,9 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Afișează controalele">
+<!ENTITY mediaShowControls.label     "Afișează comenzile">
 <!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "Ascunde controalele">
+<!ENTITY mediaHideControls.label     "Ascunde comenzile">
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Ecran complet">
 <!ENTITY videoFullScreen.accesskey   "F">
@@ -687,7 +687,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "Arată statisticile">
+<!ENTITY videoShowStats.label        "Afișează statisticile">
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Ascunde statisticile">
 <!ENTITY videoHideStats.accesskey    "t">
@@ -698,13 +698,13 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Mărire">
+<!ENTITY fullZoomEnlargeCmd.label       "Mărește">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Micșorare">
+<!ENTITY fullZoomReduceCmd.label        "Micșorează">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -787,7 +787,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Conexiune securizată">
 <!ENTITY identity.connectionNotSecure "Conexiunea nu este securizată">
-<!ENTITY identity.connectionFile "Această pagină este stocată pe calculator.">
+<!ENTITY identity.connectionFile "Pagina este stocată pe calculator.">
 <!ENTITY identity.connectionVerified2 "Ești conectat în mod securizat la acest site, deținut de:">
 <!ENTITY identity.connectionInternal "Aceasta este o pagină securizată &brandShortName;.">
 <!ENTITY identity.extensionPage "Această pagină este încărcată de la o extensie.">

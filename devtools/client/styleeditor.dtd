@@ -16,6 +16,7 @@
 <!ENTITY importButton.label         "Importă…">
 <!ENTITY importButton.accesskey     "I">
 
+<!ENTITY visibilityToggle.tooltip   "Comută vizibilitatea foii de stiluri">
 
 <!ENTITY saveButton.label           "Salvează">
 <!ENTITY saveButton.accesskey       "S">
