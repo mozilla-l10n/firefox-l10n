@@ -826,7 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permisiuni">
 <!ENTITY identity.permissionsEmpty "Nu ai acordat acestui site nicio permisiune specială.">
-<!ENTITY identity.permissionsReloadHint "Ar putea fi nevoie să reîncarci pagina pentru a efectua modificările.">
+<!ENTITY identity.permissionsReloadHint "Ar putea fi nevoie să reîncarci pagina pentru aplicarea modificărilor.">
 <!ENTITY identity.permissionsPreferences.tooltip "Deschide preferințele pentru permisiuni">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
