@@ -63,11 +63,13 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableChrome.label5    "Activează cutiile de unelte pentru depanare din chrome și suplimente">
 <!ENTITY options.enableChrome.tooltip3  "Pornirea acestei opțiuni îți va permite să folosești diverse instrumente de dezvoltare în contextul browserului (prin intermediul Unelte -> Dezvoltator web -> Trusa de unelte a browserului) și să depanezi suplimente din managerul de suplimente">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableRemote.label3    "Activează depanarea la distanță">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -144,6 +146,7 @@
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
+<!ENTITY options.showPlatformData.label    "Afișează datele platformei Gecko">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->

@@ -23,9 +23,9 @@ policy-DisableAppUpdate = Împiedică actualizarea browserului.
 policy-DisableBuiltinPDFViewer = Dezactivează PDF.js, vizualizatorul de fișiere PDF încorporat în { -brand-short-name }.
 policy-DisableDeveloperTools = Blochează accesul la uneltele de dezvoltare.
 policy-DisableFeedbackCommands = Dezactivează comenzile de trimis feedback în meniul de Ajutor (Trimite feedback și Raportează site-uri înșelătoare).
-policy-DisableFirefoxAccounts = Dezactivează servicii pe bază de { -fxaccount-brand-name }, inclusiv sincronizarea.
+policy-DisableFirefoxAccounts = Dezactivează servicii pe bază { -fxaccount-brand-name }, inclusiv sincronizarea.
 # Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Dezactivează funcționalitatea de capturi de ecran din Firefox.
+policy-DisableFirefoxScreenshots = Dezactivează capturile de ecran din Firefox.
 policy-DisableFirefoxStudies = Împiedică efectuarea de studii de către { -brand-short-name }.
 policy-DisableForgetButton = Împiedică accesul la butonul de uitare.
 policy-DisableFormHistory = Nu memora istoricul căutărilor și al formularelor.
