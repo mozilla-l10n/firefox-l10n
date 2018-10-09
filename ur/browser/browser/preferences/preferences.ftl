@@ -219,6 +219,7 @@ update-application-version = ورژن{ $version } <a data-l10n-name="learn-more"
 update-history =
     .label = تازہ ترین تاریخ دکھائیں
     .accesskey = p
+update-application-allow-description = { -brand-short-name } کو اجازت دیں
 update-application-manual =
     .label = کبھی بھی تازہ کاری کی پڑتال نہیں کریں
     .accesskey = N
@@ -533,10 +534,15 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = مواد روکنا
 content-blocking-learn-more = مزید سیکھیں
 content-blocking-restore-defaults =
     .label = طےشدہ بحال کریں
     .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = مواد روکنابند کریں
+content-blocking-toggle-off =
+    .tooltiptext = مواد روکناشرو کریں
 content-blocking-toggle-label-on = چالو
     .accesskey = O
 content-blocking-toggle-label-off = بند
@@ -545,6 +551,9 @@ content-blocking-category-label = چنیں کیا بلاک کرنا ہے
 content-blocking-third-party-cookies-label =
     .label = تیسری تنظیم کے کوکیز
     .accesskey = ک
+content-blocking-change-cookie-settings =
+    .label = کوکی سيٹنگيں تبدیل کریں
+    .accesskey = س
 content-blocking-reject-trackers-all-third-parties-option =
     .label = سارے تیسری تنظیم کے کوکیز(ویب سائٹس توڑنے کا سبب بن سکتا ہے)
     .accesskey = ا

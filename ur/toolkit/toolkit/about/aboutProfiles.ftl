@@ -21,6 +21,7 @@ profiles-rootdir = جڑ ڈائریکٹری
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = مقامی ڈائریکٹری
 profiles-current-profile = یہ پروفائل استعمال میں ہے اور یہ حزف نہین ہو سکتی۔
+profiles-in-use-profile = یہ پروفائل کسی اور ایپلی کیشن کے استعمال میں ہے اور اسے حذف نہیں کیا جا سکتاہے۔
 profiles-rename = نیا نام دیں
 profiles-remove = ہٹائیں
 profiles-set-as-default = طےشدہ پروفائل کے طور پر سیٹ کریں
@@ -40,11 +41,12 @@ profiles-delete-profile-title = پروفائل حذف کریں
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
     ایک پروفائل حذف کر رہا ہے آپ پروفائلز کی فہرست سے نکال دیا جائے گا پروفائل اور رد نہیں کیا جاسکتا ہے.
-      تم نے بھی آپ کی ترتیبات، سرٹیفکیٹ اور دیگر صارف سے متعلقہ اعداد و شمار سمیت، پروفائل ڈیٹا فائلوں کو خارج کرنے کا انتخاب کر سکتے. یہ آپشن این فولڈر“{ $dir }”کو حذف کر دے گا اور اسے رد نہیں کیا جا سکتا ہے. 
-     آپ کا پروفائل ڈیٹا فائلوں کو خارج کرنا چاہتے ہیں؟
+    تم نے بھی آپ کی ترتیبات، سرٹیفکیٹ اور دیگر صارف سے متعلقہ اعداد و شمار سمیت، پروفائل ڈیٹا فائلوں کو خارج کرنے کا انتخاب کر سکتے. یہ آپشن این فولڈر“{ $dir }”کو حذف کر دے گا اور اسے رد نہیں کیا جا سکتا ہے. 
+    آپ کا پروفائل ڈیٹا فائلوں کو خارج کرنا چاہتے ہیں؟
 profiles-delete-files = فایلز حذف کریں
 profiles-dont-delete-files = مسلیں حذف مت کریں
 profiles-delete-profile-failed-title = نقص
+profiles-delete-profile-failed-message = اس پروفائل کو حذف کرنے کے دوران ایک نقص تھا۔
 profiles-opendir =
     { PLATFORM() ->
         [macos] فولڈر میں دکھائیں
