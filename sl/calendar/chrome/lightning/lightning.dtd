@@ -65,7 +65,7 @@
 <!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Odkloni nadomestni predlog">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Izbriši">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Izbriši iz koledarja">
-<!ENTITY lightning.imipbar.btnDetails.label                                 "Podrobnosti…">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Podrobnosti …">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Prikaži podrobnosti dogodka">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Več">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Kliknite za več možnosti">

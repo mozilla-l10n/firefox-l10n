@@ -318,7 +318,7 @@
 <!-- Calendar Alarm Dialog -->
 
 <!ENTITY calendar.alarm.location.label              "Mesto:" >
-<!ENTITY calendar.alarm.details.label               "Podrobnosti…" >
+<!ENTITY calendar.alarm.details.label               "Podrobnosti …" >
 
 <!ENTITY calendar.alarm.snoozefor.label             "Dremež -" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Dremež vseh -" >
