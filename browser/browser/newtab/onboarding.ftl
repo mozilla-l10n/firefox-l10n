@@ -18,3 +18,4 @@ onboarding-start-browsing-button-label = Lossurfen
 
 onboarding-private-browsing-title = Privater Modus
 onboarding-screenshots-title = Bildschirmfotos
+onboarding-addons-title = Add-ons
