@@ -102,8 +102,8 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Codare de text pentru conținut moștenit
-fonts-languages-fallback-desc = Această codare de text este folosită pentru conținutul moștenit care nu reușește să declare codificarea sa.
+fonts-languages-fallback-header = Codare de text pentru conținut învechit
+fonts-languages-fallback-desc = Această codare de text este folosită pentru conținutul învechit care nu reușește să declare codificarea sa.
 fonts-languages-fallback-label = Codare de rezervă pentru text
     .accesskey = T
 fonts-languages-fallback-name-auto =

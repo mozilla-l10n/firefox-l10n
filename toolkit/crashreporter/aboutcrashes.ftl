@@ -9,7 +9,12 @@ delete-confirm-description = Acest lucru va șterge toate rapoartele și nu poat
 crashes-unsubmitted-label = Rapoarte de defecțiuni netrimise
 id-heading = ID-ul raportului
 date-crashed-heading = Data defecțiunii
+submit-crash-button-label = Trimite
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Eșuat
 crashes-submitted-label = Rapoarte de defecțiuni trimise
 date-submitted-heading = Data trimiterii
+view-crash-button-label = Vezi
 no-reports-label = Nu s-au trimis rapoarte de defecțiuni.
 no-config-label = Această aplicație nu a fost configurată să afișeze rapoartele de defecțiuni. Preferința <code>breakpad.reportURL</code> trebuie setată.

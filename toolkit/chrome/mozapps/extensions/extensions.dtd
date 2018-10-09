@@ -5,7 +5,7 @@
 
 <!ENTITY search.placeholder2                  "Caută pe addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Căutare">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -80,8 +80,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferințe">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "Despre">
-<!ENTITY cmd.about.accesskey                  "D">
 
 <!ENTITY cmd.enableAddon.label                "Activează">
 <!ENTITY cmd.enableAddon.accesskey            "e">
@@ -128,7 +126,6 @@
 <!ENTITY detail.lastupdated.label             "Ultima actualizare">
 <!ENTITY detail.creator.label                 "Dezvoltator">
 <!ENTITY detail.homepage.label                "Pagina de start">
-<!ENTITY detail.numberOfDownloads.label       "Descărcări">
 
 <!ENTITY detail.contributions.description     "Dezvoltatorul acestei extensii îți cere sprijinul pentru continuarea perfecționării acesteia printr-o mică donație.">
 
@@ -161,13 +158,6 @@
 <!ENTITY progress.pause.tooltip               "Pauză">
 <!ENTITY progress.cancel.tooltip              "Renunță">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Nume">
-<!ENTITY sort.name.tooltip                    "Sortează după nume">
-<!ENTITY sort.dateUpdated.label               "Ultima actualizare">
-<!ENTITY sort.dateUpdated.tooltip             "Sortare după data actualizării">
-
 <!ENTITY addon.homepage                       "Pagina de start">
 <!ENTITY addon.details.label                  "Mai multe">
 <!ENTITY addon.details.tooltip                "Afișează mai multe detalii despre acest supliment">
@@ -175,7 +165,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "OBSOLET">
+<!ENTITY addon.legacy.label                   "VECHI">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -210,17 +200,6 @@
 
 <!ENTITY settings.path.button.label           "Răsfoiește…">
 
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Ce este aceasta? Telemetria poate instala și rula experimente din când în când.">
-<!ENTITY experiment.info.learnmore "Află mai multe">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Setări pentru Telemetrie">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
-
 <!ENTITY setting.learnmore "Află mai multe…">
 
 <!ENTITY disabledUnsigned.heading "Unele suplimente au fost dezactivate">
@@ -241,7 +220,7 @@
 <!ENTITY pluginDeprecation.description "Lipsește ceva? Unele pluginuri nu mai sunt suportate de &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Află mai multe">
 
-<!ENTITY legacyWarning.showLegacy "Afișează extensiile obsolete">
-<!ENTITY legacyExtensions.title "Extensii obsolete">
+<!ENTITY legacyWarning.showLegacy "Afișează extensiile învechite">
+<!ENTITY legacyExtensions.title "Extensii învechite">
 <!ENTITY legacyExtensions.description "Aceste extensii nu îndeplinesc standardele actuale ale &brandShortName; astfel încât au fost dezactivate.">
 <!ENTITY legacyExtensions.learnMore "Află despre schimbările aduse suplimentelor">
