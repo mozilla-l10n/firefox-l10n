@@ -627,6 +627,8 @@ sitedata-block-trackers-option =
     .label = Nerektaj spuriloj
 sitedata-block-unvisited-option =
     .label = Kuketoj el nevizititaj retejoj
+sitedata-block-all-third-party-option =
+    .label = Ĉiuj nerektaj kuketoj (tio povus misfunkciigi retejojn)
 sitedata-block-all-option =
     .label = Ĉiuj kuketoj (tio misfunkciigos retejojn)
 sitedata-clear =
@@ -638,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Esceptoj…
     .accesskey = t
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Viaj agordoj en blokado de enhavo malpermesas ŝanĝi la agordojn por kuketoj kaj retejaj datumoj.
 
 ## Privacy Section - Address Bar
 
@@ -693,6 +699,11 @@ content-blocking-third-party-cookies-label =
     .label = Nerektaj kuketoj
     .accesskey = N
 content-blocking-reject-trackers-description = Bloki ĉiujn nerektajn kuketojn aŭ nur tiujn, kiuj estas difinitaj de spuriloj.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Viaj agordoj en kuketoj kaj retejaj datumoj malpermesas ŝanĝi la agordojn de nerektaj kuketoj.
 content-blocking-change-cookie-settings =
     .label = Ŝanĝi agordojn de kuketoj
     .accesskey = k

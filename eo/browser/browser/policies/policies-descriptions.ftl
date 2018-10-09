@@ -19,6 +19,7 @@ policy-BlockAboutSupport = Bloki aliron al la paĝo about:support.
 policy-Bookmarks = Krei legosignojn en la ilaro de legosignoj, en la menuo de legosignoj, aŭ en dosierujo sub ili.
 policy-Cookies = Permesi aŭ bloki al retejoj konservi kuketojn.
 policy-DisableAppUpdate = Malpermesi al retumilo ĝisdatigiĝi.
+policy-DisableBuiltinPDFViewer = Malaktivigi PDF.js (PDF-legilo inkluzivita en { -brand-short-name }).
 policy-DisableDeveloperTools = Bloki aliron al la iloj por programistoj.
 policy-DisableFeedbackCommands = Malaktivigi eblojn “sendi opiniojn” kaj “denunci trompan retejon” en la menuo de helpo.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -29,3 +30,19 @@ policy-DisableFormHistory = Ne memori serĉan kah formularan historion.
 policy-DisableMasterPasswordCreation = Se tio estas aktiva, ne eblos krei ĉefan pasvorton.
 policy-DisablePocket = Malaktivigi la eblon konservi retpaĝojn en Pocket.
 policy-DisablePrivateBrowsing = Malaktivigi privatan retumon
+policy-DisableTelemetry = Malŝalti telemezuron.
+policy-DisplayBookmarksToolbar = Norme montri la ilaron de legosignoj.
+policy-DisplayMenuBar = Norme montri la menuan strion.
+policy-DontCheckDefaultBrowser = Malaktivigi ĉe starto la kontrolon pri la norma retumilo.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Aktivigi aŭ malaktivigi la blokadon de enhavo kaj kun la eblo bloki ĝin.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Instali, malinstali aŭ ŝlosi etendaĵojn. La elekteblo "instali" akceptas retadresojn aŭ vojojn kiel parametrojn. La elektebloj "malinstali" kaj "ŝlosi" akceptas identigilojn de etendaĵo.
+policy-FlashPlugin = Permesi aŭ malpermesi la uzon de la kromprogramo Flash.
+policy-HardwareAcceleration = Se estas "malvera" la aparata akcelo estos malŝaltita.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Difini kaj havi la eblon ŝlosi la ekan paĝon.
+policy-InstallAddonsPermission = Permesi al kelkaj retejoj la instalon de aldonaĵoj.

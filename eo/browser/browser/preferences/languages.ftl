@@ -5,6 +5,9 @@
 languages-window =
     .title = Lingvoj
     .style = width: 30em
+webpage-languages-window =
+    .title = Lingvaj agordoj por retpaĝoj
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Retpaĝoj estas kelkfoje proponitaj en pli ol unu lingvo. Elektu la lingvojn por montri tiujn paĝojn, ordigitaj laŭ prefero.

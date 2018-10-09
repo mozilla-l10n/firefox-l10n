@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "La sekura reĝimo estas speciala reĝimo de &brandShortName; kiu povas esti uzita por serĉi kaj solvi problemojn.">
 <!ENTITY safeModeDescription4.label   "Viaj aldonaĵoj kaj personaj agordoj estos provizore malaktivaj.">
 
+<!ENTITY safeModeDescription5.label   "Viaj aldonaĵoj kaj personecigitaj agordoj estos provizore malaktivigitaj, kaj trajtoj de &brandShortName; povus ne funkcii kiel kutime.">
+
 <!ENTITY refreshProfileInstead.label  "Vi povas ankaŭ preterpasi la problemsolvadon kaj provi refreŝigi &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
