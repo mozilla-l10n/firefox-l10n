@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "Il modus segirà è in modus spezial da &brandShortName; che pussibilitescha da schliar problems.">
 <!ENTITY safeModeDescription4.label   "Tes supplements e parameters persunalas vegnan deactivadas temporarmain.">
 
+<!ENTITY safeModeDescription5.label   "Tes supplements e tias configuraziuns persunalas vegnan deactivadas temporarmain e tschertas funcziuns da &brandShortName; na funcziunan eventualmain betg sco usità.">
+
 <!ENTITY refreshProfileInstead.label  "Ti pos era sursiglir il schliar problems ed empruvar da redefinir &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
