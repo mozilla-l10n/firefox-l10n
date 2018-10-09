@@ -17,3 +17,4 @@ onboarding-start-browsing-button-label = Lossurfen
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Privater Modus
+onboarding-screenshots-title = Bildschirmfotos
