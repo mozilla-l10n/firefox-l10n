@@ -11,6 +11,7 @@
 
 <!ENTITY certmgr.mine2                        "Teniu certificats d'aquestes organitzacions que us identifiquen">
 <!ENTITY certmgr.others2                      "Teniu certificats al fitxer que identifiquen aquesta gent">
+<!ENTITY certmgr.websites3                    "Teniu certificats al fitxer que identifiquen aquests servidors">
 <!ENTITY certmgr.cas2                         "Teniu certificats al fitxer que identifiquen aquestes entitats certificadores">
 
 <!ENTITY certmgr.detail.general_tab.title     "General">
@@ -80,8 +81,8 @@
 <!ENTITY exceptionMgr.supplementalWarning     "Bancs, botigues i altres llocs públics legítims no us demanaran que ho feu.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Servidor">
 <!ENTITY exceptionMgr.certlocation.url        "Ubicació:">
-<!ENTITY exceptionMgr.certlocation.download   "Aconsegueix el certificat">
-<!ENTITY exceptionMgr.certlocation.accesskey  "g">
+<!ENTITY exceptionMgr.certlocation.download   "Obtén el certificat">
+<!ENTITY exceptionMgr.certlocation.accesskey  "b">
 <!ENTITY exceptionMgr.certstatus.caption      "Estat del certificat">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Visualitza…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "V">
