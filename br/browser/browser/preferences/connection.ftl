@@ -69,4 +69,4 @@ connection-proxy-socks-remote-dns =
     .accesskey = d
 connection-dns-over-https-url = URL
     .accesskey = U
-    .tooltiptext = URL evit diskoulmañ an DNS dreist an HTTPS
+    .tooltiptext = URL evit diskoulmañ an DNS war HTTPS

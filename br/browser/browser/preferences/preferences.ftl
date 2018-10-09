@@ -328,7 +328,7 @@ browsing-search-on-start-typing =
 ## General Section - Proxy
 
 network-proxy-title = Proksi ar rouedad
-network-settings-title = Arventennoù ar Genrouedad
+network-settings-title = Arventennoù ar rouedad
 network-proxy-connection-description = Kefluniañ an doare da gennaskañ ouzh ar genrouedad implijet gant { -brand-short-name }.
 network-proxy-connection-learn-more = Gouzout hiroc'h
 network-proxy-connection-settings =

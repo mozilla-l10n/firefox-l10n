@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+cfr-doorhanger-extension-heading = Askouezh erbedet
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Perak e welan an dra-mañ
 cfr-doorhanger-extension-cancel-button = Ket bremañ
@@ -21,3 +22,24 @@ cfr-doorhanger-extension-notification = Erbedadennoù
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
 
+# Variables:
+#   $total (Number) - The rating of the add-on from 1 to 5
+cfr-doorhanger-extension-rating =
+    .tooltiptext =
+        { $total ->
+            [one] { $total } steredenn
+            [two] { $total } steredenn
+            [few] { $total } steredenn
+            [many] { $total } a steredennoù
+           *[other] { $total } steredenn
+        }
+# Variables:
+#   $total (Number) - The total number of users using the add-on
+cfr-doorhanger-extension-total-users =
+    { $total ->
+        [one] { $total } arveriad
+        [two] { $total } arveriad
+        [few] { $total } arveriad
+        [many] { $total } a arveriadoù
+       *[other] { $total } arveriad
+    }

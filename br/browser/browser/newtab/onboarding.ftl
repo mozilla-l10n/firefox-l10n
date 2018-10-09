@@ -17,6 +17,10 @@ onboarding-start-browsing-button-label = Stagañ da verdeiñ
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Merdeiñ prevez
+onboarding-private-browsing-text = Merdeit drezoc'h hoc'h unan. Ar merdeiñ prevez gant ar stanker endalc'had a stank heulierien enlinenn a heuilh ac'hanoc'h war ar web.
+onboarding-screenshots-title = Tapadennoù skramm
+onboarding-screenshots-text = Kemerit, enrollit ha rannit tapadennoù skramm - hep kuitaat { -brand-short-name }. Tapit ul lodenn pe ur bajenn a-bezh en ur verdeiñ. Enrollit war ar web evit gallout he haeziñ hag he rannañ aesoc'h.
 onboarding-addons-title = Askouezhioù
+onboarding-addons-text = Ouzhpennit keweriusterioù a lako { -brand-short-name } da labourat muioc'h evidoc'h. Keñveriit prizioù, sellit ouzh liv an amzer pe eztaolit ho personelezh gant un neuz personelaet.
 onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Merdeit herrekoc'h, en ur mod speredekoc'h, pe c'hoazh gant muioc'h a surded gant lugantoù evel Ghostery hag a ro tro deoc'h da stankañ ar bruderezhioù aloubus.
+onboarding-ghostery-text = Merdeit herrekoc'h, speredekoc'h, pe diogeloc'h gant askouezhioù evel Ghostery hag a ro tro deoc'h da stankañ ar bruderezhioù aloubus.
