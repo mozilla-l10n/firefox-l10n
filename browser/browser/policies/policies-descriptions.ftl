@@ -34,6 +34,11 @@ policy-DisablePocket = Malaktivigi la eblon konservi retpaĝojn en Pocket.
 policy-DisablePrivateBrowsing = Malaktivigi privatan retumon
 policy-DisableProfileImport = Malaktivigi la menueron por importi datumojn el alia retumilo.
 policy-DisableProfileRefresh = Malaktivigi la butonon "Reŝargi { -brand-short-name }" en la paĝo about:support.
+policy-DisableSafeMode = Malaktivigi la trajton por restartigi en sekura reĝimo. Rimarko: nur en Windows eblas malaktivigi la eniron al sekura reĝimo per la klavo "majuskle", pero grupa politiko.
+policy-DisableSecurityBypass = Malpermesi al uzanto ignori kelkajn sekurecajn avertojn.
+policy-DisableSetDesktopBackground = Malaktivigi la menueron "Difini bildon kiel skribotablan fonon".
+policy-DisableSetAsDesktopBackground = Malaktivigi la menueron "Difini kiel skribotablan fonon" por bildoj.
+policy-DisableSystemAddonUpdate = Malpermesi al retumilo instali kaj ĝisdatigi sistemajn aldonaĵojn.
 policy-DisableTelemetry = Malŝalti telemezuron.
 policy-DisplayBookmarksToolbar = Norme montri la ilaron de legosignoj.
 policy-DisplayMenuBar = Norme montri la menuan strion.
@@ -50,3 +55,16 @@ policy-HardwareAcceleration = Se estas "malvera" la aparata akcelo estos malŝal
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Difini kaj havi la eblon ŝlosi la ekan paĝon.
 policy-InstallAddonsPermission = Permesi al kelkaj retejoj la instalon de aldonaĵoj.
+policy-NoDefaultBookmarks = Malaktivigi kreadon de la normaj legosignoj inkluzivitaj kun { -brand-short-name }, kaj de la inteligentaj legosignoj (pli ofte vizititaj, ĵusaj etikedoj). Rimarko: tiu ĉi politiko nur efikas se ĝi estas uzita antaŭ la unua uzo de la profilo.
+policy-OfferToSaveLogins = Respekti la agordon kiu permesas al { -brand-short-name } proponi memori konservitajn nomojn de uzanto kaj pasvortojn. Kaj "vera" kaj "malvera" estas akceptitaj.
+policy-OverrideFirstRunPage = Ŝanĝi la paĝon de unua starto. Lasu tiun ĉi politikon malplena se vi volas malaktivigi la paĝon de unua starto.
+policy-OverridePostUpdatePage = Ŝanĝi la postĝisdatigan paĝon "Kio estas nova". Lasu tiun ĉi politikon malplena se vi volas malaktivigi la paĝon post ĝisdatigo.
+policy-Permissions = Agordi permesojn por filmilo, mikrofono, pozicio kaj sciigoj.
+policy-PopupBlocking = Norme permesi al kelkaj retejoj montri ŝprucfenestrojn.
+policy-Proxy = Agordi retperantojn.
+policy-SanitizeOnShutdown = Viŝi ĉiujn retumajn datumojn je sistemfermo.
+policy-SearchBar = Elekti la normal lokon de la serĉa strio. La uzanto povas tamen personecigi ĝin.
+policy-SearchEngines = Agordi serĉilojn. Tiu ĉi politiko nur disponebla en la versio kun plilongigita subteno (ESR).
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Bloki viziton al kelkaj retejoj. Vidu la dokumentaron por havi pli da informo pri la formo.
