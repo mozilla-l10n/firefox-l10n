@@ -72,6 +72,8 @@ policy-DisplayBookmarksToolbar = Standaard de Bladwijzerwerkbalk weergeven.
 
 policy-DisplayMenuBar = Standaard de Menubalk weergeven.
 
+policy-DNSOverHTTPS = DNS over HTTPS configureren.
+
 policy-DontCheckDefaultBrowser = Controle op standaardbrowser bij opstarten uitschakelen.
 
 # “lock” means that the user won’t be able to change this setting
@@ -105,6 +107,8 @@ policy-Permissions = Toestemmingen voor camera, microfoon, locatie en notificati
 policy-PopupBlocking = Toestaan dat bepaalde websites standaard pop-ups weergeven.
 
 policy-Proxy = Proxyinstellingen configureren.
+
+policy-RequestedLocales = De lijst van gevraagde locales voor de toepassing instellen, op volgorde van voorkeur.
 
 policy-SanitizeOnShutdown = Alle navigatiegegevens wissen bij afsluiten.
 
