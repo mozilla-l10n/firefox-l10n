@@ -41,6 +41,7 @@ policy-DisableSystemAddonUpdate = Impedisci al browser di installare e aggiornar
 policy-DisableTelemetry = Disattiva telemetria.
 policy-DisplayBookmarksToolbar = Visualizza la barra dei segnalibri per impostazione predefinita.
 policy-DisplayMenuBar = Visualizza la barra dei menu per impostazione predefinita.
+policy-DNSOverHTTPS = Configura DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Disattiva il controllo del browser predefinito all’avvio.
 policy-EnableTrackingProtection = Attiva o disattiva il blocco contenuti ed eventualmente impedisci modifiche all’opzione.
 policy-Extensions = Installa, disinstalla o blocca estensioni. L’opzione per installare richiede URL o percorsi come parametri. L’opzione per disinstallare o bloccare richiede gli ID delle estensioni.
