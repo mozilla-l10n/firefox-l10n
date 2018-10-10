@@ -694,6 +694,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
   .accesskey = m
 content-blocking-fastblock-new-description = Blocca solo gli elementi traccianti che impediscono alla pagina di caricarsi velocemente.
 
+content-blocking-tracking-protection-trackers-label =
+  .label = Elementi traccianti
+  .accesskey = E
 content-blocking-tracking-protection-all-detected-trackers-label =
   .label = Tutti gli elementi traccianti rilevati
   .accesskey = T
