@@ -621,9 +621,9 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignoră avertismentul pentru acest mesaj">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionSettings.label "Editează opțiunile pentru detectarea de înșelătorii…">
+<!ENTITY phishingOptionSettings.label "Editează opțiunile de detectare a înșelăciunii prin e-mail…">
 <!ENTITY phishingOptionSettings.accesskey "d">
-<!ENTITY phishingOptionSettingsUnix.label "Editează preferințele pentru detectarea de înșelătorii…">
+<!ENTITY phishingOptionSettingsUnix.label "Editează preferințele pentru detectarea înșelăciunii prin e-mail…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
@@ -920,7 +920,7 @@
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Creează filtru din…">
 <!ENTITY CreateFilterFrom.accesskey "f">
-<!ENTITY reportPhishingURL.label "Raportează înșelătorie prin e-mail">
+<!ENTITY reportPhishingURL.label "Raportează o înșelăciune prin e-mail">
 <!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Spell checker context menu items -->
