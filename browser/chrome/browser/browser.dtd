@@ -931,37 +931,52 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.off "Proteçion anti-traciamento: SÆROU">
 
 <!ENTITY contentBlocking.title "Blòcco di contengui">
+<!ENTITY contentBlocking.disabled.label "Dizativou">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Blocou">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Azonzi blòcco…">
 
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Blocou">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Azonzi blòcco…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Cookie de terse parte">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blocou">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Azonzi blòcco…">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Segnala problema">
+<!ENTITY contentBlocking.breakageReportView.label "Segnala problemi">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Atre informaçioin">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Che problemi ti gh'æ? (no òbligatöio)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Manda Report">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Anulla">
 
 <!ENTITY trackingProtection.title "Proteçion anti-traciamento">
 <!ENTITY trackingProtection.tooltip "Arvi e preferense da proteçion anti-traciamento">
@@ -978,6 +993,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "Dizabilita pe sto scito">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
+<!ENTITY trackingProtection.unblock4.label "Dizabilita pe sto scito">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -985,6 +1002,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "Abilita pe sto scito">
 <!ENTITY trackingProtection.block4.accesskey "A">
+<!ENTITY trackingProtection.unblockPrivate4.label "Dizabilita o blòcco tenporaneamente">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Abilita pe sto scito">
+<!ENTITY trackingProtection.block5.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Carega torna a pagina">
 <!ENTITY trackingProtection.reload2.accesskey "C">
 

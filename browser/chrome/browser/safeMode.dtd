@@ -3,12 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY safeModeDialog.title         "Mòddo Seguo de &brandShortName;">
+<!ENTITY window.maxWidth              "400">
 
+<!ENTITY startSafeMode.label          "Vanni co-o Mòddo Seguo">
+<!ENTITY refreshProfile.label         "Repiggia &brandShortName;">
+
+<!ENTITY safeModeDescription3.label   "O Mòddo Seguo o l'é 'na speciale modalitæ de &brandShortName; ch'a peu ese utile pe risòlve di problemi.">
+<!ENTITY safeModeDescription4.label   "I teu conponenti azonti saian tenporaneamente dizativæ.">
+
+<!ENTITY safeModeDescription5.label   "I teu conponenti azonti saian tenporaneamente dizativæ, e e fonçioin de &brandShortName; porian no anâ comme de sòlito.">
+
+<!ENTITY refreshProfileInstead.label  "Ti peu anche ignorâ a risoluçion di problemi e provâ a repigiâ &brandShortName;.">
+
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 <!ENTITY autoSafeModeDescription3.label "O &brandShortName; o s'é serou inte 'n mòddo che no m'aspetavo inte l'avertua. Questo o porieiva ese dovuo a di conponenti azonti instalæ ò atre caoze. L'é poscibile çercâ de risòlve l'erô co-o Mòddo Seguo.">
-
-<!ENTITY safeModeDescription3.label "O Mòddo Seguo o l'é 'na speciale modalitæ de &brandShortName; ch'a peu ese utile pe risòlve di problemi.">
-<!ENTITY safeModeDescription4.label "Saian tenporaneamente dizativæ i conponenti azonti e-e inpostaçioin personalizæ.">
-<!ENTITY window.maxWidth "400">
-<!ENTITY startSafeMode.label "Vanni co-o Mòddo Seguo">
-<!ENTITY refreshProfile.label "Repiggia &brandShortName;">
-<!ENTITY refreshProfileInstead.label "Ti peu anche ignorâ a risoluçion di problemi e provâ a repigiâ &brandShortName;.">
