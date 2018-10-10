@@ -28,7 +28,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.errorDesc.noOverride "<span id='malware_sitename'/> a fost <a id='error_desc_link'>raportat ca având conținut de programe rău intenționate</a>. Poți <a id='report_detection'>să raportezi o problemă de detectare</a>.">
 
-<!ENTITY safeb.blocked.malwarePage.learnMore "Află mai multe despre conținuturi web dăunătoare, inclusiv viruși și alte programe rău intenționate și despre cum să îți protejezi calculatorul la <a id='learn_more_link'>StopBadware.org</a>. Află mai multe despre protecția împotriva tentativelor de înșelăciune pentru furt de date cu caracter personal și a programelor rău intenționate în &brandShortName; la <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.malwarePage.learnMore "Află mai multe despre conținuturi web dăunătoare, inclusiv viruși și alte programe rău intenționate și despre cum să îți protejezi calculatorul la <a id='learn_more_link'>StopBadware.org</a>. Află mai multe despre protecția împotriva furtului de date prin e-mail și a programelor rău intenționate în &brandShortName; la <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.unwantedPage.title2 "Site-ul pe care urmează să îl accesezi poate conține programe dăunătoare">
@@ -40,7 +40,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.errorDesc.noOverride "<span id='unwanted_sitename'/> a fost <a id='error_desc_link'>raportat ca având programe dăunătoare</a>.">
 
-<!ENTITY safeb.blocked.unwantedPage.learnMore "Află mai multe despre programele dăunătoare și nedorite la <a id='learn_more_link'>Politica privind programele nedorite</a>. Află mai multe despre protecția împotriva tentativelor de înșelăciune pentru furt de date cu caracter personal și a programelor rău intenționate în &brandShortName; la <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.unwantedPage.learnMore "Află mai multe despre programele dăunătoare și nedorite la <a id='learn_more_link'>Politica privind programele nedorite</a>. Află mai multe despre protecția împotriva furtului de date prin e-mail și a programelor rău intenționate în &brandShortName; la <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Urmează un site înșelător">
@@ -51,7 +51,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.errorDesc.noOverride "<span id='phishing_sitename'/>a fost <a id='error_desc_link'> raportat ca site înșelător</a>. Poți <a id='report_detection'>raporta o problemă de detectare</a>.">
 
-<!ENTITY safeb.blocked.phishingPage.learnMore "Află mai multe despre site-uri înșelătoare și tentativele de înșelăciune pentru furt de date cu caracter personal la <a id='learn_more_link'>www.antiphishing.org</a>. Află mai multe despre protecția împotriva tentativelor de înșelăciune pentru furt de date cu caracter personal și a programelor rău intenționate în &brandShortName; la <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.phishingPage.learnMore "Află mai multe despre site-uri înșelătoare și furtul de date prin e-mail la <a id='learn_more_link'>www.antiphishing.org</a>. Află mai multe despre protecția împotriva furtului de date prin e-mail  și a programelor rău intenționate în &brandShortName; la <a id='firefox_support'>support.mozilla.org</a>.">
 
 
 <!ENTITY safeb.blocked.harmfulPage.title "Site-ul pe care urmează să intri poate conține programe rău intenționate">
@@ -62,4 +62,4 @@
 
 <!ENTITY safeb.blocked.harmfulPage.errorDesc.noOverride "<span id='harmful_sitename'/> a fost <a id='error_desc_link'>raportat ca având o aplicație potențial dăunătoare</a>.">
 
-<!ENTITY safeb.blocked.harmfulPage.learnMore "Află mai multe despre protecția împotriva tentativelor de înșelăciune pentru furt de date cu caracter personal și a programelor rău intenționate în &brandShortName; la <a id='firefox_support'>support.mozilla.org</a>.">
+<!ENTITY safeb.blocked.harmfulPage.learnMore "Află mai multe despre protecția împotriva furtului de date prin e-mail și a programelor rău intenționate în &brandShortName; la <a id='firefox_support'>support.mozilla.org</a>.">
