@@ -55,3 +55,11 @@ policy-HardwareAcceleration = Se false, asmòrta l'aceleraçion hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Inpòsta e blòcca (se ti veu) a pagina prinçipâ.
 policy-InstallAddonsPermission = Permetti a çerti sciti de instalâ conponenti azonti.
+policy-PopupBlocking = Permetti a çerti sciti de mostrâ di popup comme òpçion predefinia.
+policy-Proxy = Configuraçion inpostaçioin do proxy.
+policy-SanitizeOnShutdown = Scancella tutti i dæti de navegaçion quande asmòrto.
+policy-SearchBar = Inpòsta donde mette a bara de riçerche. In ògni mòddo l'utente o peu personalizâ.
+policy-SearchEngines = Configuraçion inpostaçioin do motô de riçerca. Sta òpçion a gh'é solo inta verscion Extended Support Release (ESR).
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Blòcca a vixita a di sciti. Amia a documentaçion pe avei ciù detalli in sciô formou.
