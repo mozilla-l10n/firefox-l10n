@@ -686,9 +686,11 @@ content-blocking-category-label = Vyberte si, čo chcete blokovať
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Spomaľovacie sledovacie prvky
     .accesskey = S
+content-blocking-fastblock-new-description = Blokovať len sledovacie prvky, ktoré spomaľujú načítanie stránok.
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Všetky nájdené sledovacie prvky
     .accesskey = t
+content-blocking-tracking-protection-new-description = Blokovať všetky známe sledovacie prvky. (Môže obmedziť fungovanie niektorých stránok.)
 content-blocking-tracking-protection-option-always =
     .label = Vždy
     .accesskey = V
@@ -699,6 +701,12 @@ content-blocking-tracking-protection-change-block-list = Zmeniť zoznam blokovan
 content-blocking-third-party-cookies-label =
     .label = Cookies tretích strán
     .accesskey = C
+content-blocking-reject-trackers-description = Blokovať všetky cookies tretích strán alebo len sledovacích prvkov.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Vaše nastavenie cookies a údajov stránok bránia zmenám nastavenia cookies tretích strán.
 content-blocking-change-cookie-settings =
     .label = Zmeniť nastavenia cookies
     .accesskey = s
