@@ -681,6 +681,7 @@
 <!ENTITY contentBlocking.fastBlock.blocked.label "Bloccati">
 <!ENTITY contentBlocking.fastBlock.add.label "Attiva blocco…">
 <!ENTITY contentBlocking.trackingProtection2.label "Tutti gli elementi traccianti rilevati">
+<!ENTITY contentBlocking.trackingProtection3.label "Elementi traccianti">
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Bloccati">
 <!ENTITY contentBlocking.trackingProtection.add.label "Attiva blocco…">
 <!ENTITY contentBlocking.3rdPartyCookies.label "Cookie di terze parti">
