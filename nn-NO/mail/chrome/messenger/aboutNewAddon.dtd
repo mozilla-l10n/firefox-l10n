@@ -3,7 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY title           "Installer tillegg">
+<!ENTITY intro           "Eit anna program på datamaskina ønskjer å modifisera
+                          &brandShortName; med følgjande tillegg:">
+<!ENTITY warning         "Installer tillegg berre frå utgjevarar du stolar på.">
 <!ENTITY allow           "Tillat denne installeringa">
+<!ENTITY later           "Du kan alltids endra mening seinare
+                           ved å bruke Tilleggshandteraren.">
 <!ENTITY continue        "Fortset">
+<!ENTITY restartMessage  "Du må starta &brandShortName; på nytt for å fullføra installasjonen av tillegget.">
 <!ENTITY restartButton   "Start &brandShortName; på nytt">
 <!ENTITY cancelButton    "Avbryt">
