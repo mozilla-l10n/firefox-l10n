@@ -93,6 +93,7 @@ search-results-header = Nduku resultados
 ## General Section
 
 startup-header = Xina
+get-started-not-logged-in = Kitsa nu { -sync-brand-short-name }…
 get-started-configured = Kuna preferencias ña { -sync-brand-short-name }
 tabs-group-header = Xikua
 browser-containers-learn-more = Skua'a kuakaa
