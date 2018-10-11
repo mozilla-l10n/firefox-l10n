@@ -118,7 +118,7 @@ startup-header = Caki
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Ye { -brand-short-name } ki Firefox me tic lawang acel
-use-firefox-sync = Ngec: Man tiyo ki propwail ma patpat. Tii ki Ribo me nywako data ikin gi.
+use-firefox-sync = Ngec: Man tiyo ki propwail ma patpat. Tii ki { -sync-brand-short-name } me nywako data ikin gi.
 get-started-not-logged-in = Dony iyie me { -sync-brand-short-name }…
 get-started-configured = Yab ter me { -sync-brand-short-name }
 always-check-default =
@@ -613,19 +613,6 @@ content-blocking-restore-defaults =
     .label = Dwok makwongo
     .accesskey = D
 content-blocking-category-label = Yer ngo me agenga
-content-blocking-fastblock-option-enabled =
-    .label = Geng jwijwi
-content-blocking-fastblock-option-disabled =
-    .label = Matwal pe i geng
-content-blocking-tracking-protection-label = Lulub kor
-    .accesskey = B
-content-blocking-tracking-protection-description = Geng lulub kor weng ma ngene (Ngec: twero bene gengo cano potbuk mukene.
-content-blocking-tracking-protection-option-enabled =
-    .label = Jwijwi geng
-content-blocking-tracking-protection-option-pbm =
-    .label = Geng i dirica me mung keken
-content-blocking-tracking-protection-option-disabled =
-    .label = Matwal pe i geng
 
 ## Privacy Section - Tracking
 
