@@ -92,6 +92,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  reopenInContainer.accesskey        "d">
 <!ENTITY  bookmarkAllTabs.label              "Creḍ akk Accaren...">
 <!ENTITY  bookmarkAllTabs.accesskey          "c">
+<!ENTITY  bookmarkTab.label                  "Iccer n tecraḍ n yisebtar">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "Sefsex amdal n yiccer.">

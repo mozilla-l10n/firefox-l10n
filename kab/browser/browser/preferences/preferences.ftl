@@ -525,6 +525,7 @@ privacy-header = Tabaḍnit n iminig
 ## Privacy Section - Forms
 
 forms-header = Tiferka & akked awalen uffiren
+logins-header = Inekcam & wawalen uffiren
 forms-ask-to-save-logins =
     .label = Suter akken ad teskelseḍ inekcam d wawalen uffiren i yismal web
     .accesskey = s
@@ -684,6 +685,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Ineḍfaren isaẓẓayen asali
     .accesskey = s
 content-blocking-fastblock-new-description = Sewḥel kan ineḍfaren isaẓẓayen asali n isebtar.
+content-blocking-tracking-protection-trackers-label =
+    .label = Ineḍfaren
+    .accesskey = I
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Akk ineḍfaren yettwafen
     .accesskey = i

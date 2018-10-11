@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Sewḥel asbedded d uleqqem izegrar n unagraw 
 policy-DisableTelemetry = Sens tilisɣelt.
 policy-DisplayBookmarksToolbar = Deg umezwer sken-d afeggag n ifecka n ticraḍ.
 policy-DisplayMenuBar = Sken afeggag n wumuɣ s wudem amezwer.
+policy-DNSOverHTTPS = Swel DNS s HTTPS.
 policy-DontCheckDefaultBrowser = Sens asenqed amezwer i yiminig deg tnekra.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Rmed neɣ sens asewḥel n ugbur u sekker-it ma tebɣiḍ.
@@ -65,6 +66,8 @@ policy-Proxy = Swel iɣewwaṛen n upṛuksi.
 policy-SanitizeOnShutdown = Sfeḍ akk isefka n tunigin deg usexsi.
 policy-SearchBar = Sbadu adig imezwer n ufeggag n unadi. Aseqdac izmer ad t-isagen.
 policy-SearchEngines = Swel iƔewwaren n umsedday n unadi. Tasertit-agi tella kan di lqem Extended Support Release (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Sebded izegrar n PKCS #11.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Sewḥel anekcum Ɣer ismal web. Wali tasemlit i wugar n telqayt Ɣef umasal.
