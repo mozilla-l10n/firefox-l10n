@@ -4,3 +4,5 @@
 
 restart-required-title = Reinício necessário
 restart-required-header = Desculpe. Precisamos de fazer uma pequena coisa para continuar.
+restart-required-description = Iremos restaurar todas as suas páginas, janelas e separador depois, para que possa estar no seu caminho rapidamente.
+restart-button-label = Reiniciar o { -brand-short-name }

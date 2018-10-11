@@ -23,6 +23,8 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Recarregar todos os separadores">
 <!ENTITY  reloadAllTabs.accesskey            "a">
+<!ENTITY  selectAllTabs.label                "Selecionar todos os separadores">
+<!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Duplicar separador">
@@ -38,19 +40,29 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Fechar separadores selecionados">
 <!ENTITY  closeSelectedTabs.accesskey        "s">
 
+<!ENTITY  closeTabs.label                    "Fechar separadores">
+<!ENTITY  closeTabs.accesskey                "s">
 <!ENTITY  pinSelectedTabs.label              "Afixar separadores">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "A">
 <!ENTITY  unpinSelectedTabs.label            "Desafixar separadores">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "d">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Recarregar separadores selecionados">
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Recarregar separadores">
+<!ENTITY  reloadTabs.accesskey               "R">
 <!ENTITY  bookmarkSelectedTabs.label         "Adicionar separadores aos marcadores…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "c">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,8 +71,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Fixar separador">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Desafixar separador">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "r">
 <!ENTITY  sendTabToDevice.label              "Enviar separador para dispositivo">
 <!ENTITY  sendTabToDevice.accesskey          "d">
@@ -68,12 +86,26 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.label             "Enviar ligação para dispositivo">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Mover separador">
+<!ENTITY  moveTabOptions.accesskey           "v">
+<!ENTITY  moveSelectedTabOptions.label       "Mover separadores">
+<!ENTITY  moveSelectedTabOptions.accesskey   "v">
+<!ENTITY  moveToStart.label                  "Mover para o início">
+<!ENTITY  moveToStart.accesskey              "i">
+<!ENTITY  moveToEnd.label                    "Mover para o fim">
+<!ENTITY  moveToEnd.accesskey                "f">
 <!ENTITY  moveToNewWindow.label              "Mover para nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "j">
 <!ENTITY  reopenInContainer.label            "Reabrir no contentor">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Adicionar todos os separadores aos marcadores…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
+<!ENTITY  bookmarkTab.label                  "Adicionar separador aos marcadores">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "m">
 <!ENTITY  undoCloseTab.label                 "Reabrir separador fechado">
 <!ENTITY  undoCloseTab.accesskey             "b">
 <!ENTITY  closeTab.label                     "Fechar separador">
@@ -114,6 +146,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Adicionar todos os separadores aos marcadores…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Adicionar separadores selecionados aos marcadores…">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "s">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Selecionar todos os separadores">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Reabrir separador fechado">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "b">
 
@@ -199,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Subscrever esta página">
 <!ENTITY subscribeToPageMenuitem.label "Subscrever esta página…">
+
 <!ENTITY addCurPagesCmd.label "Adicionar todos os separadores aos marcadores…">
 <!ENTITY showAllBookmarks2.label "Mostrar todos os marcadores">
 <!ENTITY recentBookmarks.label "Marcadores recentes">
@@ -784,6 +821,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Segurança do site">
 
+<!ENTITY identity.connection "Ligação">
 <!ENTITY identity.connectionSecure "Ligação segura">
 <!ENTITY identity.connectionNotSecure "Ligação não segura">
 <!ENTITY identity.connectionFile "Esta página está armazenada no seu computador.">
@@ -950,6 +988,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Adicionar bloqueio…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Todos os trackers detetados">
+<!ENTITY contentBlocking.trackingProtection3.label "Trackers">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
