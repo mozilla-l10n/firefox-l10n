@@ -525,6 +525,7 @@ privacy-header = Tarayıcı gizliliği
 ## Privacy Section - Forms
 
 forms-header = Formlar ve parolalar
+logins-header = Hesaplar ve parolalar
 forms-ask-to-save-logins =
     .label = Sitelerdeki kullanıcı adı ve parolalarımı kaydetmeyi öner
     .accesskey = r
@@ -684,6 +685,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Yavaş yüklenen takipçiler
     .accesskey = Y
 content-blocking-fastblock-new-description = Yalnızca sayfaların çabuk yüklenmesini önleyen takipçileri engeller.
+content-blocking-tracking-protection-trackers-label =
+    .label = Takipçiler
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Bulunan tüm takipçiler
     .accesskey = B
