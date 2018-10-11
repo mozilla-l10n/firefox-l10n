@@ -36,12 +36,12 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Marandu aravo noñemongu'e rehegua">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Rechaharã">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Mba'e'oka jerohoryvéva">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Mba'e'oka mbohekoha">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
 <!ENTITY viewMenu_label "Hecha">
 <!ENTITY viewMenu_accesskey "V">
@@ -54,9 +54,9 @@
 
 <!ENTITY projectButton_label "Tembipuru'i ijurujáva">
 <!ENTITY runtimeButton_label "Eiporavo marandu aravo">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -75,14 +75,12 @@
 <!ENTITY projectPanel_tabs "Tendayke">
 <!ENTITY runtimePanel_usb "USB mba'e'oka">
 <!ENTITY runtimePanel_wifi "Wi-Fi mba'e'oka">
-<!ENTITY runtimePanel_simulator "Ta'ãngahára">
 <!ENTITY runtimePanel_other "ambue">
-<!ENTITY runtimePanel_installsimulator "Ta'ãngahára ñemboguejy">
 <!ENTITY runtimePanel_noadbhelper "Emohenda ADB Pytyvõhára">
 <!ENTITY runtimePanel_nousbdevice "Ndaikatúi ehecha ne mba'e'oka">
 <!ENTITY runtimePanel_refreshDevices_label "Embohekopyahu mba'e'oka">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "oikóva">
 <!ENTITY details_warning_header "kyhyjerã">
 <!ENTITY details_error_header "jejavy">
@@ -90,23 +88,23 @@
 <!ENTITY details_location "Tendaite">
 <!ENTITY details_manifestURL "ID rembipuru'i">
 <!ENTITY details_removeProject_button "Eguerujey Apopyrã">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "Tembipuru'i aty pyahu">
 <!ENTITY newAppHeader "Eiporavo kuatiaite">
 <!ENTITY newAppLoadingTemplate "Oñemyenyhẽhína kuatiaite…">
 <!ENTITY newAppProjectName "Apopyrã Réra:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Mboty">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "Mbohetapy rape'apo">
 <!ENTITY addons_aboutaddons "Eike moĩmbaha ñangarekohápe">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "Jerohoryvéva">
 <!ENTITY prefs_editor_title "Mbosako'iha">
 <!ENTITY prefs_general_title "Tuichakue">
@@ -118,8 +116,8 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Apopyrã mboyvegua ñembojevy oñepyrũvo WebIDE">
 <!ENTITY prefs_options_templatesurl "URL kuatiaite">
 <!ENTITY prefs_options_templatesurl_tooltip "Kuatiaite ojepurukuaáva mbopapapy">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Marandu aravo noñemongu'e rehegua">
 <!ENTITY runtimedetails_adbIsRoot "ADB rapo:">
 <!ENTITY runtimedetails_summonADBRoot "mba'e'oka rapo">
@@ -127,36 +125,32 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "DevTools mba'eñeme'ẽ momichĩ: ">
 <!ENTITY runtimedetails_requestPrivileges "Mba'eñeme'ẽ ijyvatéva jerure">
 <!ENTITY runtimedetails_privilegesWarning "(Oñepyrũjeýta mba'e'oka. Oikotevẽ root-pe jeike.)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Voole">
 <!ENTITY device_typenumber "Oĩmbáva">
 <!ENTITY device_typestring "Jokuaha">
 <!ENTITY device_typeobject "Mba'e">
 <!ENTITY device_typenone "Eiporavo peteĩchagua">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "Mba'e'oka jerohoryvéva">
 <!ENTITY devicepreference_search "Jeheka jerohoryvéva">
 <!ENTITY devicepreference_newname "Jerohoryvéva téra pyahu">
 <!ENTITY devicepreference_newtext "Jerohoryvéva repy">
 <!ENTITY devicepreference_addnew "Jerohoryvéva pyahu mbojoapy">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "Mba'e'oka mba'epytyvõrã">
 <!ENTITY devicesetting_search "Mba'epytyvõrã jeheka">
 <!ENTITY devicesetting_newname "Téra pyahu ñemoĩporã">
 <!ENTITY devicesetting_newtext "Ñemoĩporã repy">
 <!ENTITY devicesetting_addnew "Ñemoĩporã pyahu mbojoapy">
-<!-- Monitor -->
 
-<!ENTITY monitor_title "Rechaharã">
-<!ENTITY monitor_help "Ñepytyvõ">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "Ñemuhára reraite">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -171,22 +165,6 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Ambue mba'e'oka ojerurérõ peteĩ token omoha'ãngarãngue QR ayvu, emonguatiajey hepykue ambue mba'e'oka guy rupi:">
 <!ENTITY wifi_auth_qr_size_note "QR ayvu ojehecháramo michĩha jeike oñemboheko katu hag̃ua, eñeha'ã embotuicha pe ovetã.">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "Mbohapeha jehaipyeta oñembohyrupyréva">
-<!-- Simulator Options -->
-
-<!ENTITY simulator_title "Ta'ãngahára jeporavorã">
-<!ENTITY simulator_remove "Ta'ãngahára mboguete">
-<!ENTITY simulator_reset "Embojevy heko ypykuépe">
-<!ENTITY simulator_name "Téra">
-<!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Peteïchagua">
-<!ENTITY simulator_profile "Mba'ete">
-<!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Mba'eporurã">
-<!ENTITY simulator_screenSize "Mba'erechaha">
-<!ENTITY simulator_pixelRatio "Pixel tuichakue">
-<!ENTITY simulator_tv_data "TV Ra'ãngaha">
-<!ENTITY simulator_tv_data_open "Emboheko Mba'ekuaarã">
-<!ENTITY simulator_tv_data_open_button "Marandurenda'aty Ñembohekorã Jeike...">
