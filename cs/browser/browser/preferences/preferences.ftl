@@ -532,6 +532,7 @@ privacy-header = Nastavení soukromí
 ## Privacy Section - Forms
 
 forms-header = Formuláře a hesla
+logins-header = Přihlašovací údaje
 forms-ask-to-save-logins =
     .label = Ptát se na ukládání přihlašovacích údajů
     .accesskey = P
@@ -689,8 +690,11 @@ content-blocking-category-label = Vyberte, co chcete blokovat
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Zpomalující sledovací prvky
-    .accesskey = s
+    .accesskey = Z
 content-blocking-fastblock-new-description = Blokovat jen sledovací prvky, které zpomalují načítání stránek.
+content-blocking-tracking-protection-trackers-label =
+    .label = Sledovací prvky
+    .accesskey = S
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Všechny nalezené sledovací prvky
     .accesskey = s
@@ -806,24 +810,24 @@ permissions-a11y-privacy-link = Zjistit více
 ## Privacy Section - Data Collection
 
 collection-header = Sběr a používání dat o aplikaci { -brand-short-name }
-collection-description = Co se týče dat, dáváme vám vždy na výběr. Také sbíráme jen data potřebná pro vylepšování aplikace { -brand-short-name }. Před odesíláním osobních dat vždy žádáme o váš souhlas.
+collection-description = S daty vám dáváme vždy na výběr a sbíráme jen data potřebná pro vylepšování aplikace { -brand-short-name }. Před odesíláním osobních dat vždy žádáme o váš souhlas.
 collection-privacy-notice = Zásady ochrany osobních údajů
 collection-health-report =
-    .label = Povolit aplikaci { -brand-short-name } odesílat Mozille technická data a data o interakcích
-    .accesskey = z
+    .label = Odesílat technická data a data o interakcích
+    .accesskey = r
 collection-health-report-link = Zjistit více
 collection-studies =
-    .label = Povolit aplikaci { -brand-short-name } instalovat studie
+    .label = Povolit instalaci studií
 collection-studies-link = Zobrazit studie aplikace { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Odesílání dat je zakázáno konfigurací tohoto sestavení
 collection-browser-errors =
-    .label = Povolit aplikaci { -brand-short-name } odesílat Mozille hlášení o chybách a chybové zprávy
+    .label = Odesílat hlášení o chybách a chybové zprávy
     .accesskey = b
 collection-browser-errors-link = Zjistit více
 collection-backlogged-crash-reports =
-    .label = Povolit aplikaci { -brand-short-name } odesílat nevyřízená hlášení o pádech za vás
+    .label = Odesílat nevyřízená hlášení o pádech za vás
     .accesskey = c
 collection-backlogged-crash-reports-link = Zjistit více
 
