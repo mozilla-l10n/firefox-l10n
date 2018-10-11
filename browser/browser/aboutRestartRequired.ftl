@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = É necessário reiniciar
+restart-required-header = Desculpe. Nós só precisamos fazer uma pequena coisa para continuar.
