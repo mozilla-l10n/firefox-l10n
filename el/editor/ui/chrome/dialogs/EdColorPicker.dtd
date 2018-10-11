@@ -8,6 +8,9 @@
 <!ENTITY setColor1.label "Πατήστε σε ένα χρώμα ή">
 <!ENTITY setColor2.label "καταχωρίστε την HTML συμβολοσειρά χρώματος">
 <!ENTITY setColor2.accessKey "υ">
+<!ENTITY chooseColor1.label "Επιλέξτε χρώμα:">
+<!ENTITY chooseColor2.label "Εισάγετε μια συμβολοσειρά χρώματος HTML">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(π.χ..: &quot;#0000ff&quot; ή &quot;blue&quot;):">
 <!ENTITY default.label "Προεπιλεγμένο ">
 <!ENTITY default.accessKey "λ">
