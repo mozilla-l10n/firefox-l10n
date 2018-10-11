@@ -49,3 +49,4 @@
 <!ENTITY  dnsOverHttps.accesskey        "b">
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL evit diskoulmañ an DNS dre HTTPS">
