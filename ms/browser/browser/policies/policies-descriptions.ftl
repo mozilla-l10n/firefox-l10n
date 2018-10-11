@@ -63,9 +63,12 @@ policy-OverridePostUpdatePage = Tulis ganti halaman selepas-kemaskini "What's Ne
 policy-Permissions = Konfigurasi keizinan untuk kamera, mikrofon, lokasi dan notifikasi.
 policy-PopupBlocking = Izinkan laman web tertentu untuk memaparkan popups secara piawai.
 policy-Proxy = Konfigurasi tetapan proksi.
+policy-RequestedLocales = Tetapkan senarai lokaliti aplikasi yang diminta mengikut turutan keutamaan.
 policy-SanitizeOnShutdown = Buang semua data navigasi ketika penutupan.
 policy-SearchBar = Tetapkan lokasi piawai bar carian. Pengguna masih boleh menyesuaikannya.
 policy-SearchEngines = Konfigurasi tetapan enjin carian. Polisi ini hanya boleh didapati dalam versi Extended Support Release (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Pasang modul PKCS #11.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Sekat laman web daripada dilawati. Lihat dokumentasi untuk maklumat lanjut format berkenaan.
