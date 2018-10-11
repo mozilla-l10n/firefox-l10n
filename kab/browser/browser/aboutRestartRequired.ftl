@@ -4,3 +4,4 @@
 
 restart-required-title = Asenker tikelt nniḍen yettwasra
 restart-required-header = Suref-aɣ. Mazal kan ciṭ ad t-nseggem uqble ad tkemmleḍ.
+restart-button-label = Ales asenker n { -brand-short-name }

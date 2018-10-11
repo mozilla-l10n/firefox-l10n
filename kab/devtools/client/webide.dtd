@@ -36,12 +36,12 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Talɣut ɣef Tawennaṭ">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Asefrak">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Ismenyifen n yibenk">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Iɣewwaṛen n yibenk">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+
+<!ENTITY runtimeMenu_showPerformancePanel_label "Tamellit">
 
 <!ENTITY viewMenu_label "Askan">
 <!ENTITY viewMenu_accesskey "V">
@@ -75,9 +75,7 @@
 <!ENTITY projectPanel_tabs "Tibzimin">
 <!ENTITY runtimePanel_usb "Ibenkan USB">
 <!ENTITY runtimePanel_wifi "Ibenkan Wi-Fi">
-<!ENTITY runtimePanel_simulator "Iserwassen">
 <!ENTITY runtimePanel_other "Wiyaḍ">
-<!ENTITY runtimePanel_installsimulator "Sebded aserwas">
 <!ENTITY runtimePanel_noadbhelper "Sebded ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Ur tezmireḍ ara ad twaliḍ ibenk-inek?">
 <!ENTITY runtimePanel_refreshDevices_label "Smiren ibenkan">
@@ -90,7 +88,6 @@
 <!ENTITY details_location "Adeg">
 <!ENTITY details_manifestURL "Asulay n usnas">
 <!ENTITY details_removeProject_button "Kkes asenfaṛ">
-<!ENTITY details_showPrepackageLog_button "Sken aɣmis ukemmus uzwir">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Asnas amaynut">
@@ -150,10 +147,6 @@
 <!ENTITY devicesetting_newtext "Azal n uɣewwaṛ">
 <!ENTITY devicesetting_addnew "Rnu aɣewwaṛ amaynut">
 
-<!-- Monitor -->
-<!ENTITY monitor_title "Asefrak">
-<!ENTITY monitor_help "Tallalt">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -175,19 +168,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Iɣmisen n tludna n ukmas uzwir">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Iɣewwaṛen n serwas">
-<!ENTITY simulator_remove "Kkes aserwas">
-<!ENTITY simulator_reset "Err-ed iɣewwaṛen imezwar">
-<!ENTITY simulator_name "Isem">
-<!ENTITY simulator_software "Aseɣẓan">
-<!ENTITY simulator_version "Lqem">
-<!ENTITY simulator_profile "Amaɣnu">
-<!ENTITY simulator_hardware "Arrum">
-<!ENTITY simulator_device "Allal">
-<!ENTITY simulator_screenSize "Agdil">
-<!ENTITY simulator_pixelRatio "Afmiḍi n ipiksilen">
-<!ENTITY simulator_tv_data "TV Simulation">
-<!ENTITY simulator_tv_data_open "Isefka n uswel">
-<!ENTITY simulator_tv_data_open_button "Ldi akaram n uswel…">
