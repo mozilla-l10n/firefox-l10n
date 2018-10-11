@@ -347,6 +347,8 @@
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Zarządzaj rozszerzeniem">
 <!ENTITY customizeMenu.manageExtension.accesskey "Z">
+<!ENTITY customizeMenu.removeExtension.label "Usuń rozszerzenie">
+<!ENTITY customizeMenu.removeExtension.accesskey "U">
 <!ENTITY moreMenu.label "Więcej">
 
 <!ENTITY openCmd.commandkey "l" >
