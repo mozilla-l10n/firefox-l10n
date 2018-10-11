@@ -45,3 +45,7 @@ browser-languages-window =
     .title = { -brand-short-name } ñe’ẽ ñemboheko
     .style = width: 40em
 browser-languages-description = { -brand-short-name } ohechaukáta ñe’ẽ peteĩha ijypykuévaramo ha avei ohechaukáta ñe’ẽ mokõiguáva oikotevẽramo tysýipe oĩháicha.
+browser-languages-downloading =
+    .label = Oguejyhína…
+browser-languages-installed-label = Ñe’ẽ mohendapyre
+browser-languages-available-label = Ñe’ẽ eipurukuaáva

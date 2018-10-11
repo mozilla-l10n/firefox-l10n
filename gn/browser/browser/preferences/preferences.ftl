@@ -525,6 +525,7 @@ privacy-header = Kundahára Ñemigua
 ## Privacy Section - Forms
 
 forms-header = Ysaja ha ñe'ẽnemi
+logins-header = Tembiapo ñepyrũ ha ñe’ẽñemi
 forms-ask-to-save-logins =
     .label = Eporandu eñongatu hag̃ua tembiapo ñepyrũ ha ñe’ẽñemi ñandutípe
     .accesskey = E
@@ -684,6 +685,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Ñemyanyhẽ mbegue rapykuehoha
     .accesskey = S
 content-blocking-fastblock-new-description = Ejoko tapykuehoha añoite omoapañuãiva kuatiarogue ñemyanyhẽ pya’e.
+content-blocking-tracking-protection-trackers-label =
+    .label = Tapykuehohára
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Opaite tapykuehoha juhupyre
     .accesskey = T
