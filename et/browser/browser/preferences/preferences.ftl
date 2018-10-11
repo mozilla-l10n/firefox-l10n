@@ -525,6 +525,7 @@ privacy-header = Veebilehitseja privaatsus
 ## Privacy Section - Forms
 
 forms-header = Vormid ja paroolid
+logins-header = Kasutajatunnused ja paroolid
 forms-ask-to-save-logins =
     .label = Küsitakse saitide kasutajatunnuste meelespidamise nõusolekut
     .accesskey = i
