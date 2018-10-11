@@ -821,11 +821,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher "Conexiunea la acest site web folosește criptare slabă și nu este privată.">
 <!ENTITY identity.description.weakCipher2 "Alte persoane îți pot vedea informațiile sau pot modifica comportamentul site-ului web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; a blocat părți ale acestei pagini care nu sunt sigure.">
-<!ENTITY identity.description.passiveLoaded "Conexiunea nu este privată și informațiile pe care le împărtășești cu acest site pot fi văzute de alții.">
+<!ENTITY identity.description.passiveLoaded "Conexiunea nu este privată și informațiile pe care le partajezi cu acest site pot fi văzute de alții.">
 <!ENTITY identity.description.passiveLoaded2 "Acest site web are conținut care nu este sigur (cum ar fi imaginile).">
 <!ENTITY identity.description.passiveLoaded3 "Deși &brandShortName; a blocat o parte din conținut, mai există conținut pe pagină care nu este sigur (cum ar fi imaginile).">
 <!ENTITY identity.description.activeLoaded "Acest site web are conținut care nu este sigur (cum ar fi scripturile), iar conexiunea ta la acesta nu este privată.">
-<!ENTITY identity.description.activeLoaded2 "Informațiile pe care le împărtășești cu acest site ar putea fi văzute de alții (cum ar fi parolele, mesajele, cardurile de credit, etc.).">
+<!ENTITY identity.description.activeLoaded2 "Informațiile pe care le partajezi cu site-ul ar putea fi văzute de alții (cum ar fi parolele, mesajele, cardurile de credit, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activează protecția">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
