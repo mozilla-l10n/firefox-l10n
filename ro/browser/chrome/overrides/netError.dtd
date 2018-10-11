@@ -19,48 +19,48 @@
 <!ENTITY connectionFailure.title "Nu se poate conecta">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Această adresă este restricționată">
+<!ENTITY deniedPortAccess.title "Adresa este restricționată">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.pageTitle "Server negăsit">
+<!ENTITY dnsNotFound.pageTitle "Serverul nu a fost găsit">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Întâmpinăm dificultăți în găsirea acestui site.">
 <!ENTITY dnsNotFound.longDesc1 "
-<strong>Dacă acea adresă este corectă, iată alte trei lucruri pe care le poți încerca:</strong>
+<strong>Dacă adresa este corectă, poți încerca următoarele trei acțiuni:</strong>
 <ul>
-  <li>Încearcă din nou mai târziu.</li>
-  <li>Verifică conexiunea la rețea.</li>
-  <li>Dacă ești conectat, însă în spatele unui firewall, verifică dacă &brandShortName; are permisiunea de a accesa webul.</li>
+  <li>Încerci din nou mai târziu.</li>
+  <li>Verifici conexiunea la rețea.</li>
+  <li>Dacă ești conectat, însă în spatele unui firewall, verifici dacă &brandShortName; are permisiunea de a accesa webul.</li>
 </ul>
 ">
 
 <!ENTITY fileNotFound.title "Fișier negăsit">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Verifică ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verifică ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Verifică numele fișierului - să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verifică fișierul - să nu fi fost mutat, redenumit sau șters.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Accesul la fișier a fost refuzat">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Este posibil să fi fost eliminat, mutat sau permisiunile fișierului pot împiedica accesul.</li> </ul>">
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; nu poate încărca pagina.</p>
+<p>&brandShortName; nu poate încărca pagina din motive necunoscute.</p>
 ">
 
-<!ENTITY captivePortal.title "Autentificare la rețea">
-<!ENTITY captivePortal.longDesc2 "<p>Trebuie să te autentifici la această rețea înainte de a accesa internetul.</p>">
+<!ENTITY captivePortal.title "Autentifică-te în rețea">
+<!ENTITY captivePortal.longDesc2 "<p>Trebuie să te autentifici în această rețea ca să poți accesa internetul.</p>">
 
-<!ENTITY openPortalLoginPage.label2 "Deschide pagina de autentificare la rețea">
+<!ENTITY openPortalLoginPage.label2 "Deschide pagina de autentificare în rețea">
 
 <!ENTITY malformedURI.pageTitle "URL nevalid">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. Acea adresă nu arată în regulă.">
+<!ENTITY malformedURI.title1 "Hmm. Adresa nu arată în regulă.">
 
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Document expirat">
-<!ENTITY notCached.longDesc "<p>Documentul cerut nu este disponibil în cache-ul din &brandShortName;.</p><ul><li>Ca o măsură de securitate, &brandShortName; nu cere din nou automat documente confidențiale.</li><li>Clic pe „Încearcă din nou” pentru a cere din nou documentul de la site-ul web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Documentul solicitat nu este disponibil în cache-ul &brandShortName;.</p><ul><li>Ca măsură de precauție pentru securitate, &brandShortName; nu cere din nou în mod automat documente sensibile.</li><li>Dă clic pe Încearcă din nou pentru a cere iar documentul de la site-ul web.</li></ul>">
 
-<!ENTITY netOffline.title "Mod offline">
+<!ENTITY netOffline.title "Mod deconectat">
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Apasă pe &quot;Încearcă din nou&quot; pentru comutarea pe modul conectat și încearcă să reîncarci pagina.</li>
@@ -80,7 +80,7 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Adresa nu a fost înțeleasă">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>S-ar putea să fie nevoie să instalezi alt program pentru a deschide această adresă.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>S-ar putea să fie necesară instalarea altui program pentru a deschide adresa.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Verifică setările proxy pentru a te asigura că sunt corecte.</li> <li>Contactează administratorul rețelei pentru a te asigura că serverul proxy funcționează.</li> </ul>">
@@ -92,7 +92,8 @@
 <!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivați sau refuzați să acceptați cookie-uri.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Verificați ca sistemul dumneavoastră să aibă instalat Personal Security  Manager.</li> <li>Aceasta se poate întâmpla și datorită unei configurații nestandard a serverului.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Verifică dacă sistemul are instalat Managerul personal de securitate.</li> <li>Se poate întâmpla și din cauza unei configurații atipice pe server.</li> </ul>
+">
 
 <!ENTITY nssFailure2.title "Conexiunea securizată a eșuat">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Pagina pe care încerci să o vezi nu poate fi afișată deoarece nu s-a putut verifica autenticitatea datelor primite.</li> <li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă</li> </ul>">
@@ -106,7 +107,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara2 "&brandShortName; a detectat o posibilă amenințare de securitate și nu a continuat la <span class='hostname'/>. Dacă vizitezi acest site, atacatorii ar putea încerca să fure informații cum ar fi parolele, e-mailurile sau detaliile cardului de credit.">
 
-<!ENTITY certerror.expiredCert.secondPara "Problema a apărut cel mai probabil pentru că ceasul de pe calculator nu este fixat corect, ceea ce ar împiedica o conectare securizată &brandShortName;.">
+<!ENTITY certerror.expiredCert.secondPara "Problema a apărut cel mai probabil pentru că ceasul calculatorului nu e fixat corect, ceea ce ar împiedica o conectare securizată &brandShortName;.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ce poți face?">
 
@@ -116,8 +117,8 @@ was trying to connect. -->
 ">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
-<p>Ceasul calculatorului este fixat pe <span id='wrongSystemTime_systemDate2'/>. Asigură-te că ai calculatorul fixat pe data, ora și fusul orar corecte. Intră în setările sistemului și apoi împrospătează <span class='hostname'/>.</p>
-<p>Dacă ceasul este fixat pe ora corectă, atunci, cel mai probabil, site-ul web nu este configurat corect și nu poți face nimic. Poți notifica administratorul site-ului web asupra problemei.</p>
+<p>Ceasul calculatorului este fixat pe <span id='wrongSystemTime_systemDate2'/>. Asigură-te că ai calculatorul fixat pe data, ora și fusul orar corecte. Intră în setările sistemului și apoi reîmprospătează <span class='hostname'/>.</p>
+<p>Dacă ceasul e fixat pe ora corectă, atunci, cel mai probabil, site-ul web nu este configurat corect și nu poți face nimic. Poți notifica administratorul site-ului web asupra problemei.</p>
 ">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
@@ -163,12 +164,12 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "Conexiunea nu este securizată">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește tehnologie de securitate care este învechită și vulnerabilă la atac. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai a fi în siguranță. Administratorul site-ului web va trebui să repare serverul mai întâi înainte să poți vizita site-ul.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește o tehnologie de securitate depășită și vulnerabilă la atacuri. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai în siguranță. Administratorul site-ului web va trebui să repare mai întâi serverul ca să poți intra pe site.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagină blocată">
 
 <!ENTITY clockSkewError.title "Ceasul calculatorului este fixat greșit">
-<!ENTITY clockSkewError.longDesc "Calculatorul crede că este <span id='wrongSystemTime_systemDate1'/>, ceea ce împiedică o conectare securizată &brandShortName;. Ca să intri pe <span class='hostname'></span>, actualizează ceasul calculatorului în setările de sistem și adu-l la data, ora și fusul orar curente, apoi împrospătează <span class='hostname'></span>.">
+<!ENTITY clockSkewError.longDesc "Calculatorul crede că este <span id='wrongSystemTime_systemDate1'/>, ceea ce împiedică o conectare securizată &brandShortName;. Ca să intri pe <span class='hostname'></span>, actualizează ceasul calculatorului în setările de sistem și adu-l la data, ora și fusul orar curente, apoi reîmprospătează <span class='hostname'></span>.">
 
-<!ENTITY prefReset.longDesc "Se pare că setările tale de securitate a rețelei sunt de vină. Vrei să fie restaurate setările implicite?">
+<!ENTITY prefReset.longDesc "Se pare că setările de securitate a rețelei sunt de vină. Vrei restaurarea setărilor implicite?">
 <!ENTITY prefReset.label "Restaurează setările implicite">
