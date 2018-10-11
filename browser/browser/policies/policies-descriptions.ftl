@@ -38,6 +38,7 @@ policy-DisableSystemAddonUpdate = Αποτροπή εγκατάστασης κα
 policy-DisableTelemetry = Απενεργοποίηση τηλεμετρίας.
 policy-DisplayBookmarksToolbar = Προβολή της γραμμής σελιδοδεικτών από προεπιλογή.
 policy-DisplayMenuBar = Προβολή γραμμής μενού από προεπιλογή.
+policy-DNSOverHTTPS = Ρύθμιση DNS αντί HTTPS.
 policy-DontCheckDefaultBrowser = Απενεργοποίηση ελέγχου για το προεπιλεγμένο πρόγραμμα περιήγησης κατά την εκκίνηση.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ενεργοποίηση ή απενεργοποίηση φραγής περιεχομένου και προαιρετικό κλείδωμα.
@@ -52,3 +53,5 @@ policy-HardwareAcceleration = Αν είναι ψευδές, απενεργοπο
 policy-Homepage = Ορισμός και προαιρετικό κλείδωμα της αρχικής σελίδας.
 policy-InstallAddonsPermission = Αποδοχή εγκατάστασης προσθέτων από ορισμένες ιστοσελίδες.
 policy-Proxy = Προσαρμογή ρυθμίσεων μεσολάβησης.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Εγκατάσταση προσθέτων PKCS #11.
