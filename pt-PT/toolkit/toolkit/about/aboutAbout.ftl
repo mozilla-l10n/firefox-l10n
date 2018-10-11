@@ -3,3 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-about-title = Informações
+about-about-note =
+    Esta é uma lista de páginas “about” para sua conveniência.<br/>
+    Algumas delas poderão ser confusas. Algumas são apenas para fins de diagnóstico.<br/>
+    E algumas estão omitidas porque requerem strings de consulta.
