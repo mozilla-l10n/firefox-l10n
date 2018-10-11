@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Förhindra webbläsaren att installera och upp
 policy-DisableTelemetry = Stäng av telemetri.
 policy-DisplayBookmarksToolbar = Visa bokmärkesfältet som standard.
 policy-DisplayMenuBar = Visa menyraden som standard.
+policy-DNSOverHTTPS = Konfigurera DNS över HTTPS.
 policy-DontCheckDefaultBrowser = Inaktivera kontrollen av förvald webbläsare vid start.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktivera eller inaktivera Innehållsblockering med möjlighet att låsa valet.
@@ -65,6 +66,8 @@ policy-Proxy = Ange inställningar för proxy.
 policy-SanitizeOnShutdown = Rensa all navigeringsdata vid avstängning.
 policy-SearchBar = Ange standardplacering av sökfältet. Användaren kan fortfarande flytta det.
 policy-SearchEngines = Ange sökmotorinställningar. Denna policy finns bara på Extended Support Release (ESR)-versionen.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Installera PKCS #11-moduler.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Blockera besök på webbplatser. Läs dokumentationen för mer detaljer om hur de anges.

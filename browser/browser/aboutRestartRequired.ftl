@@ -4,3 +4,6 @@
 
 restart-required-title = Omstart krävs
 restart-required-header = Förlåt. Vi behöver bara göra en liten sak för att fortsätta.
+restart-required-intro = Vi har installerat en uppdatering i bakgrunden. Klicka på Starta om { -brand-short-name } för att slutföra den.
+restart-required-description = Vi kommer att återställa alla dina sidor, fönster och flikar efteråt, så att du snabbt kan fortsätta.
+restart-button-label = Starta om { -brand-short-name }

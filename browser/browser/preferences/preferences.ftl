@@ -525,6 +525,7 @@ privacy-header = Webbläsarintegritet
 ## Privacy Section - Forms
 
 forms-header = Formulär & lösenord
+logins-header = Inloggningar & lösenord
 forms-ask-to-save-logins =
     .label = Fråga för att spara inloggningar och lösenord för webbplatser
     .accesskey = F
@@ -627,10 +628,6 @@ sitedata-block-trackers-option =
     .label = Trackers från tredje part
 sitedata-block-unvisited-option =
     .label = Kakor från obesökta webbplatser
-sitedata-block-all-third-parties-option =
-    .label = Alla kakor från tredje part
-sitedata-block-always-option =
-    .label = Alla kakor (kan orsaka fel på webbplatser)
 sitedata-block-all-third-party-option =
     .label = Alla kakor från tredje part (kan orsaka fel på webbplatser)
 sitedata-block-all-option =
@@ -684,30 +681,13 @@ content-blocking-category-label = Välj vad som ska blockeras
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Långsamma spårningselement
-    .accesskey = L
-content-blocking-fastblock-description = Blockerar innehåll från tredje part som tar längre tid än 5 sekunder att ladda.
-content-blocking-fastblock-option-enabled =
-    .label = Blockera alltid
-content-blocking-fastblock-option-disabled =
-    .label = Blockera aldrig
-content-blocking-tracking-protection-label = Trackers
-    .accesskey = T
-content-blocking-tracking-protection-description = Blockerar alla kända trackers (Obs: kan också hindra att vissa sidor laddas).
-content-blocking-tracking-protection-option-enabled =
-    .label = Blockera alltid
-content-blocking-tracking-protection-option-pbm =
-    .label = Blockera endast i privata fönster
-content-blocking-tracking-protection-option-disabled =
-    .label = Blockera aldrig
-content-blocking-tracking-protection-change-blocklist = Ändra blockeringslista…
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Trögladdade trackers
     .accesskey = T
 content-blocking-fastblock-new-description = Blockera endast trackers som gör sidor långsammare.
+content-blocking-tracking-protection-trackers-label =
+    .label = Trackers
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Alla upptäckta trackers
     .accesskey = A
