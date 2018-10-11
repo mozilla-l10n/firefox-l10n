@@ -513,6 +513,7 @@ privacy-header = Privasi Pelayar
 ## Privacy Section - Forms
 
 forms-header = Borang & Kata laluan
+logins-header = Log masuk & Kata laluan
 forms-ask-to-save-logins =
     .label = Tanya untuk simpan log masuk dan kata laluan laman web
     .accesskey = l
@@ -672,6 +673,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Penjejak Pemuatan-Lambat
     .accesskey = L
 content-blocking-fastblock-new-description = Cuma sekat penjejak yang membuatkan halaman tidak dimuatkan dengan cepat.
+content-blocking-tracking-protection-trackers-label =
+    .label = Penjejak
+    .accesskey = P
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Semua Penjejak Yang Dikesan
     .accesskey = P
