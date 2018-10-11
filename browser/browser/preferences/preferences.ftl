@@ -525,6 +525,7 @@ privacy-header = Privacidade do navegador
 ## Privacy Section - Forms
 
 forms-header = Formulários e Senhas
+logins-header = Logins e Senhas
 forms-ask-to-save-logins =
     .label = Perguntar se deve salvar contas e senhas de acesso de sites
     .accesskey = r
@@ -684,6 +685,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Rastreadores que atrasam o carregamento
     .accesskey = a
 content-blocking-fastblock-new-description = Bloqueia somente os rastreadores que impedem que páginas sejam carregadas rapidamente.
+content-blocking-tracking-protection-trackers-label =
+    .label = Rastreadores
+    .accesskey = t
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Todos os rastreadores detectados
     .accesskey = T
