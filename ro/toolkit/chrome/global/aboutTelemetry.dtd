@@ -12,7 +12,6 @@
 <!ENTITY aboutTelemetry.optionGroupToday "Astăzi">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Ieri">
 <!ENTITY aboutTelemetry.optionGroupOlder "Mai vechi">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "Încărcare utilă">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -37,9 +36,7 @@
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Histograme de chei">
 <!ENTITY aboutTelemetry.eventsSection "Evenimente">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Măsurători simple">
-<!ENTITY aboutTelemetry.telemetryLogSection "Jurnalul telemetriei">
-<!ENTITY aboutTelemetry.slowSqlSection "Declarații SQL lente">
-<!ENTITY aboutTelemetry.chromeHangsSection "Blocările browserului">
+<!ENTITY aboutTelemetry.slowSqlSection "Instrucțiuni SQL lente">
 <!ENTITY aboutTelemetry.addonDetailsSection "Detalii privind suplimentele">
 <!ENTITY aboutTelemetry.capturedStacksSection "Stive capturate">
 <!ENTITY aboutTelemetry.lateWritesSection "Scrieri întârziate">
