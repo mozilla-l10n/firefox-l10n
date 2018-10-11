@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = ਮੁੜ-ਸ਼ੁਰੂ ਕਰਨਾ ਜਰੂਰੀ ਹੈ
+restart-required-header = ਅਫ਼ਸੋਸ ਹੈ। ਸਾਨੂੰ ਜਾਰੀ ਰੱਖਣ ਵਾਸਤੇ ਇੱਕ ਨਿੱਕਾ ਜਿਹਾ ਕੰਮ ਕਰਨਾ ਪਵੇਗਾ।
