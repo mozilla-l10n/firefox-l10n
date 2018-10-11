@@ -8,6 +8,9 @@
 <!ENTITY setColor1.label "Klikńće na barbu abo">
 <!ENTITY setColor2.label "zapisajće znamjenjowy slěd HTML za barbu">
 <!ENTITY setColor2.accessKey "H">
+<!ENTITY chooseColor1.label "Wubjerće barbu:">
+<!ENTITY chooseColor2.label "Zapisajće znamjenjowy slěd HTML za barbu">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(na.př.: &quot;#0000ff&quot; abo &quot;blue&quot;):">
 <!ENTITY default.label "Standard">
 <!ENTITY default.accessKey "S">
