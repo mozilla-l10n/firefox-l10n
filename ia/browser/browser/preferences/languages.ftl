@@ -45,3 +45,7 @@ browser-languages-window =
     .title = { -brand-short-name } Configurationes del linguas
     .style = width: 40em
 browser-languages-description = { -brand-short-name } monstrara le prime lingua como tu predefiniva e monstrara altere linguas si illos es necesse in le ordine de apparition.
+browser-languages-downloading =
+    .label = Discarga...
+browser-languages-installed-label = Lingiuas installate
+browser-languages-available-label = Linguas disponibile

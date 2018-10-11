@@ -4,3 +4,4 @@
 
 restart-required-title = Reinitio requirite
 restart-required-header = Pardono. Nos justo necessita de facer un micre cosa pro mantener le viage.
+restart-button-label = Reinitiar { -brand-short-name }

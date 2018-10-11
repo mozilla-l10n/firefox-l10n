@@ -41,6 +41,9 @@
 <!ENTITY runtimeMenu_showSettings_label "Parametros del apparato">
 <!ENTITY runtimeMenu_showSettings_accesskey "P">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "Prestationes">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
+
 <!ENTITY viewMenu_label "Vider">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_zoomin_label "Approximar">
@@ -75,7 +78,6 @@
 <!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
 <!ENTITY runtimePanel_other "Alteres">
 <!ENTITY runtimePanel_noadbhelper "Installar ADB Helper">
-<!ENTITY runtimePanel_noadbextension "Installar le extension ADB">
 <!ENTITY runtimePanel_nousbdevice "Impossibile vider tu apparato?">
 <!ENTITY runtimePanel_refreshDevices_label "Actualisar le apparatos">
 

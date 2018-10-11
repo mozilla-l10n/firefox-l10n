@@ -525,6 +525,7 @@ privacy-header = Confidentialitate del navigator
 ## Privacy Section - Forms
 
 forms-header = Formularios e contrasignos
+logins-header = Authenticationes & contrasignos
 forms-ask-to-save-logins =
     .label = Demanda de salvar authenticationes e contrasignos de sito
     .accesskey = r
@@ -684,6 +685,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Traciatores lente
     .accesskey = S
 content-blocking-fastblock-new-description = Blocar justo le traciatores que impedi le paginas de ser cargate rapidemente.
+content-blocking-tracking-protection-trackers-label =
+    .label = Traciatores
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Tote le traciatores disvelate
     .accesskey = T
