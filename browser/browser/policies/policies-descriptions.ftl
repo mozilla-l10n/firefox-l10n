@@ -20,8 +20,10 @@ policy-DisableAppUpdate = ป้องกันเบราว์เซอร์
 policy-DisableDeveloperTools = ปิดกั้นการเข้าถึงเครื่องมือนักพัฒนา
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = ปิดใช้งานคุณลักษณะ Firefox Screenshots
+policy-DisableForgetButton = ป้องกันการเข้าถึงปุ่ม ลืม
 policy-DisablePrivateBrowsing = ปิดใช้งานการท่องเว็บแบบส่วนตัว
 policy-DisableTelemetry = ปิดการวัดและส่งข้อมูลทางไกล
+policy-DisplayMenuBar = แสดงผลแถบเมนูโดยค่าเริ่มต้น
 policy-InstallAddonsPermission = อนุญาตบางเว็บไซต์ในการติดตั้งส่วนเสริม
 policy-Permissions = ปรับแต่งการอนุญาตสำหรับกล้อง, ไมโครโฟน, ตำแหน่งที่ตั้ง และการแจ้งเตือน
 policy-Proxy = กำหนดค่าการตั้งค่าพร็อกซี
