@@ -8,6 +8,9 @@
 <!ENTITY setColor1.label "Түс үстіне шертіңіз немесе">
 <!ENTITY setColor2.label "HTML түс жолын енгізіңіз">
 <!ENTITY setColor2.accessKey "т">
+<!ENTITY chooseColor1.label "Түсті таңдаңыз:">
+<!ENTITY chooseColor2.label "HTML түс жолын енгізіңіз">
+<!ENTITY chooseColor2.accessKey "т">
 <!ENTITY setColorExample.label "(мысалы, &quot;#0000ff&quot; немесе &quot;blue&quot;):">
 <!ENTITY default.label "Әдетті">
 <!ENTITY default.accessKey "Ә">
