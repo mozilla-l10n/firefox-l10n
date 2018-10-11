@@ -55,3 +55,4 @@ browser-languages-select-language =
     .placeholder = Rěč wubrać…
 browser-languages-installed-label = Instalowane rěče
 browser-languages-available-label = K dispoziciji stejace reče
+browser-languages-error = { -brand-short-name } njemóže waše rěče hnydom aktualizować. Přepruwujće, hač sće z internetom zwjazany abo spytajće hišće raz.
