@@ -525,6 +525,7 @@ privacy-header = Браузер жекелігі
 ## Privacy Section - Forms
 
 forms-header = Формалар және парольдер
+logins-header = Логиндер және парольдер
 forms-ask-to-save-logins =
     .label = Веб-сайттар үшін логиндер мен парольдерді сақтауды сұрау
     .accesskey = с
@@ -684,6 +685,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Баяу жүктелетін трекерлер
     .accesskey = ж
 content-blocking-fastblock-new-description = Тек беттердің жылдам жүктелуіне жол бермейтін трекерлерді бұғаттау.
+content-blocking-tracking-protection-trackers-label =
+    .label = Трекерлер
+    .accesskey = Т
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Барлық анықталған трекерлер
     .accesskey = т
