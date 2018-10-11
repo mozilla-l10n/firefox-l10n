@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Peureulèë Puphôn Ulang
+restart-required-header = Meu'aih. Kamoe peureulèe peu-teupat saboh hal ubit untuk tetap meulanjut.
