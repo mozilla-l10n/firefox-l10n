@@ -21,9 +21,12 @@ policy-DisableBuiltinPDFViewer = ปิดใช้งาน PDF.js ตัวด
 policy-DisableDeveloperTools = ปิดกั้นการเข้าถึงเครื่องมือนักพัฒนา
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = ปิดใช้งานคุณลักษณะ Firefox Screenshots
+policy-DisableFirefoxStudies = ป้องกัน { -brand-short-name } จากการเรียกใช้การศึกษา
 policy-DisableForgetButton = ป้องกันการเข้าถึงปุ่ม ลืม
 policy-DisableFormHistory = ไม่จดจำประวัติการค้นหาและแบบฟอร์ม
+policy-DisablePocket = ปิดใช้งานคุณลักษณะในการบันทึกหน้าเว็บไปยัง Pocket
 policy-DisablePrivateBrowsing = ปิดใช้งานการท่องเว็บแบบส่วนตัว
+policy-DisableProfileImport = ปิดใช้งานคำสั่งเมนูในการนำเข้าข้อมูลจากเบราว์เซอร์อื่น
 policy-DisableTelemetry = ปิดการวัดและส่งข้อมูลทางไกล
 policy-DisplayBookmarksToolbar = แสดงผลแถบเครื่องมือที่คั่นหน้าโดยค่าเริ่มต้น
 policy-DisplayMenuBar = แสดงผลแถบเมนูโดยค่าเริ่มต้น
