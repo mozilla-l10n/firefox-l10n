@@ -523,6 +523,7 @@ privacy-header = Απόρρητο προγράμματος περιήγησης
 ## Privacy Section - Forms
 
 forms-header = Φόρμες & κωδικοί πρόσβασης
+logins-header = Συνδέσεις & κωδικοί πρόσβασης
 forms-ask-to-save-logins =
     .label = Ερώτηση για αποθήκευση συνδέσεων και κωδικών πρόσβασης για ιστοσελίδες
     .accesskey = β
@@ -675,6 +676,9 @@ content-blocking-category-label = Επιλέξτε τι θα αποκλείετ�
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Ιχνηλάτες αργής φόρτωσης
     .accesskey = α
+content-blocking-tracking-protection-trackers-label =
+    .label = Ιχνηλάτες
+    .accesskey = Ι
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Όλοι οι εντοπισμένοι ιχνηλάτες
     .accesskey = ι

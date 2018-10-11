@@ -4,3 +4,5 @@
 
 restart-required-title = Απαιτείται Επανεκκίνηση
 restart-required-header = Συγγνώμη. Θα πρέπει να κάνουμε μια μικρή εργασία για να συνεχίσουμε.
+restart-required-description = Θα επαναφέρουμε όλες τις σελίδες, τα παράθυρα και τις καρτέλες σας αμέσως μετά. Έτσι, θα μπορέσετε να συνεχίσετε γρήγορα.
+restart-button-label = Επανεκκίνηση του { -brand-short-name }

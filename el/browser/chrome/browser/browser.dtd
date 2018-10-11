@@ -23,6 +23,8 @@
 <!ENTITY  reloadTab.accesskey                "Α">
 <!ENTITY  reloadAllTabs.label                "Ανανέωση όλων των καρτελών">
 <!ENTITY  reloadAllTabs.accesskey            "Α">
+<!ENTITY  selectAllTabs.label                "Επιλογή όλων των καρτελών">
+<!ENTITY  selectAllTabs.accesskey            "Ε">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Αντιγραφή καρτέλας">
@@ -39,18 +41,24 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.accesskey        "ε">
 
 <!ENTITY  pinSelectedTabs.label              "Καρφίτσωμα καρτελών">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "Κ">
 <!ENTITY  unpinSelectedTabs.label            "Ξεκαρφίτσωμα καρτελών">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "λ">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Ανανέωση επιλεγμένων καρτελών">
 <!ENTITY  reloadSelectedTabs.accesskey       "Α">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.label         "Προσθήκη καρτελών στους σελιδοδείκτες…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "κ">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,8 +67,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Καρφίτσωμα καρτέλας">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "ρ">
 <!ENTITY  unpinTab.label                     "Ξεκαρφίτσωμα καρτέλας">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "κ">
 <!ENTITY  sendTabToDevice.label              "Αποστολή καρτέλας σε συσκευή">
 <!ENTITY  sendTabToDevice.accesskey          "σ">
@@ -68,12 +82,24 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "δ">
 <!ENTITY  sendLinkToDevice.label             "Αποστολή συνδέσμου σε συσκευή">
 <!ENTITY  sendLinkToDevice.accesskey         "μ">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Μετακίνηση καρτέλας">
+<!ENTITY  moveTabOptions.accesskey           "ν">
+<!ENTITY  moveSelectedTabOptions.label       "Μετακίνηση καρτελών">
+<!ENTITY  moveSelectedTabOptions.accesskey   "ν">
+<!ENTITY  moveToStart.label                  "Μετακίνηση στην αρχή">
+<!ENTITY  moveToStart.accesskey              "α">
+<!ENTITY  moveToEnd.label                    "Μετακίνηση στο τέλος">
+<!ENTITY  moveToEnd.accesskey                "τ">
 <!ENTITY  moveToNewWindow.label              "Μετακίνηση σε νέο παράθυρο">
 <!ENTITY  moveToNewWindow.accesskey          "π">
 <!ENTITY  reopenInContainer.label            "Άνοιγμα ξανά σε θεματική καρτέλα">
 <!ENTITY  reopenInContainer.accesskey        "ξ">
 <!ENTITY  bookmarkAllTabs.label              "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
 <!ENTITY  bookmarkAllTabs.accesskey          "Κ">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "Αναίρεση κλεισίματος καρτέλας">
 <!ENTITY  undoCloseTab.accesskey             "ν">
 <!ENTITY  closeTab.label                     "Κλείσιμο καρτέλας">
@@ -114,6 +140,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "Α">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "Κ">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Επιλογή όλων των καρτελών">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "Ε">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Αναίρεση κλεισίματος καρτέλας">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ι">
 
@@ -199,6 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Συνδρομή σε αυτή τη σελίδα">
 <!ENTITY subscribeToPageMenuitem.label "Συνδρομή σε αυτή τη σελίδα…">
+
 <!ENTITY addCurPagesCmd.label "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
 <!ENTITY showAllBookmarks2.label "Προβολή όλων των σελιδοδεικτών">
 <!ENTITY recentBookmarks.label "Πρόσφατοι σελιδοδείκτες">
@@ -784,6 +813,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Ασφάλεια ιστοσελίδας">
 
+<!ENTITY identity.connection "Σύνδεση">
 <!ENTITY identity.connectionSecure "Ασφαλής σύνδεση">
 <!ENTITY identity.connectionNotSecure "Η σύνδεση δεν είναι ασφαλής">
 <!ENTITY identity.connectionFile "Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.">
@@ -950,6 +980,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Προσθήκη φραγής…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Όλοι οι εντοπισμένοι ιχνηλάτες">
+<!ENTITY contentBlocking.trackingProtection3.label "Ιχνηλάτες">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
