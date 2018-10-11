@@ -19,3 +19,6 @@ onboarding-start-browsing-button-label = Cak yeny
 onboarding-private-browsing-title = Yeny i mung
 onboarding-private-browsing-text = Yeny piri keni. Yeny i mung ki Lageng Jami gengo lulub kor me iwiyamo ma lubo kor in kaweng i kakube.
 onboarding-addons-title = Med-ikome
+onboarding-addons-text = Med jami mapol ma weko { -brand-short-name } tiyo matek piri. Po wel, rot piny kit ma tye kwede onyo nyut kiti ki theme ma iyubo piri.
+onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Yeny oyot, ki ngec, onyo maber ki lamed calo Ghostery, ma weko i gengo kwena cato wil ma cwero yii
