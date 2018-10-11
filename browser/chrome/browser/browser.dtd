@@ -811,7 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Страницата има съдържание, например скриптове, което не е шифровано, и връзката със сайта не е поверителна.">
 <!ENTITY identity.description.activeLoaded2 "Споделяната със сайта информация, като например пароли, съобщения, банкови карти и др., може да бъде виждана от други.">
 
-<!ENTITY identity.enableMixedContentBlocking.label "Включване на защита">
+<!ENTITY identity.enableMixedContentBlocking.label "Включване на защитата">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "В">
 <!ENTITY identity.disableMixedContentBlocking.label "Изключване на защитата за момента">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "И">
