@@ -528,6 +528,7 @@ privacy-header = Confidențialitate în browser
 ## Privacy Section - Forms
 
 forms-header = Formulare și parole
+logins-header = Autentificări și parole
 forms-ask-to-save-logins =
     .label = Solicită salvarea autentificărilor și parolelor pentru site-urile web
     .accesskey = r
@@ -687,6 +688,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Urmăritori cu încărcare lentă
     .accesskey = S
 content-blocking-fastblock-new-description = Blochează numai urmăritorii care împiedică încărcarea rapidă a paginilor.
+content-blocking-tracking-protection-trackers-label =
+    .label = Mecanisme de urmărire
+    .accesskey = U
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Toți urmăritorii detectați
     .accesskey = T

@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Împiedică browserul să instaleze și să ac
 policy-DisableTelemetry = Dezactivează telemetria.
 policy-DisplayBookmarksToolbar = Afișează implicit bara de marcaje.
 policy-DisplayMenuBar = Afișează implicit bara de meniu.
+policy-DNSOverHTTPS = Configurează DNS peste HTTPS.
 policy-DontCheckDefaultBrowser = Dezactivează verificarea de browser implicit la pornire.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activează sau dezactivează blocarea conținutului și, opțional, blochează opțiunea.
@@ -62,9 +63,12 @@ policy-OverridePostUpdatePage = Înlocuiește pagina „Noutăți” după actua
 policy-Permissions = Configurează permisiunile pentru cameră, microfon, locație și notificări.
 policy-PopupBlocking = Permite anumitor site-uri web să afișeze implicit ferestre pop-up.
 policy-Proxy = Configurează setările proxy.
+policy-RequestedLocales = Setează lista de limbi solicitate de aplicație, în ordinea preferinței.
 policy-SanitizeOnShutdown = Șterge toate datele de navigare la închidere.
 policy-SearchBar = Setează locația implicită în bara de căutare. Utilizatorul are în continuare posibilitatea de personalizare.
 policy-SearchEngines = Configurează setările motorului de căutare. Politica este disponibilă numai în versiunea Ediție cu suport extins (ERS).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instalează module PKCS #11.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Blochează intrarea pe site-uri web. Vezi documentația pentru detalii suplimentare despre format.
