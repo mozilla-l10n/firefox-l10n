@@ -47,6 +47,7 @@
   -  See Bug 1415273 for support of additional languages.-->
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Sabah!">
 
+<!ENTITY  aboutDevtools.footer.title "Firefox Developer Edition">
 
 <!-- LOCALIZATION NOTE (aboutDevtools.footer.learnMoreLink): Text for the link to
   -  https://www.mozilla.org/firefox/developer/ displayed in the footer. -->
