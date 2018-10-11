@@ -10,6 +10,7 @@
 <!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "Izberite barvo:">
 <!ENTITY chooseColor2.label "Vnesite oznako HTML za barvo">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(na primer: &quot;#0000ff&quot; ali &quot;blue&quot;):">
 <!ENTITY default.label "Privzeto">
 <!ENTITY default.accessKey "P">

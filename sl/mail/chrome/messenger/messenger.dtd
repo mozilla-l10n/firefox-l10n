@@ -443,6 +443,9 @@
 <!ENTITY openConversationCmd.label "Odpri kot pogovor">
 <!ENTITY openConversationCmd.accesskey "g">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openInConversationCmd.label "Odpri kot pogovor">
+<!ENTITY openInConversationCmd.accesskey "g">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Priponke">
 <!ENTITY openAttachmentListCmd.accesskey "r">
 <!ENTITY openFeedMessage1.label "Med odpiranjem sporočil vira">
