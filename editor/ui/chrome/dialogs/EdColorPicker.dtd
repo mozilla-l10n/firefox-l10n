@@ -8,6 +8,9 @@
 <!ENTITY setColor1.label "Klicka på en färg eller">
 <!ENTITY setColor2.label "skriv in en HTML-färgsträng">
 <!ENTITY setColor2.accessKey "H">
+<!ENTITY chooseColor1.label "Välj en färg:">
+<!ENTITY chooseColor2.label "Ange en HTML-färgsträng">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(t.ex. &quot;#0000ff&quot; eller &quot;blue&quot;):">
 <!ENTITY default.label "(ingen)">
 <!ENTITY default.accessKey "i">
