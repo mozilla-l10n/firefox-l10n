@@ -443,6 +443,9 @@
 <!ENTITY openConversationCmd.label "W konwersaciji wočinić">
 <!ENTITY openConversationCmd.accesskey "k">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openInConversationCmd.label "W konwersaciji wočinić">
+<!ENTITY openInConversationCmd.accesskey "s">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Přiwěški">
 <!ENTITY openAttachmentListCmd.accesskey "w">
 <!ENTITY openFeedMessage1.label "Hdyž so kanalowe powěsće wočinjeja">
@@ -875,7 +878,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
