@@ -44,4 +44,4 @@ languages-active-code-format =
 browser-languages-window =
     .title = Setări de limbă { -brand-short-name }
     .style = width: 40em
-browser-languages-description = { -brand-short-name } va afișa prima limbă ca cea implicită și va afișa limbi alternative în ordinea în care apar, dacă e nevoie.
+browser-languages-description = { -brand-short-name } va afișa limba implicită pe prima poziție și pe cele alternative, dacă este necesar, în ordinea în care apar.

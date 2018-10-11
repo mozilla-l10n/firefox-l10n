@@ -22,7 +22,7 @@
 <!ENTITY tabCrashed.requestHelp "Poți să ne ajuți?">
 <!ENTITY tabCrashed.requestHelpMessage "Rapoartele de defecțiuni ne ajută să diagnosticăm problemele și să îmbunătățim &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Raportează această filă">
-<!ENTITY tabCrashed.sendReport3 "Trimite un raport automat să putem rezolva problemele de acest gen.">
+<!ENTITY tabCrashed.sendReport3 "Trimite automat un raport de defecțiuni să putem rezolva problemele de acest gen.">
 <!ENTITY tabCrashed.commentPlaceholder2 "Adaugă un comentariu (comentariile sunt vizibile publicului)">
 <!ENTITY tabCrashed.includeURL3 "Include URL-ul siteurilor pe care erai când &brandShortName; s-a închis neașteptat.">
 <!ENTITY tabCrashed.emailPlaceholder "Introdu adresa ta de e-mail aici">

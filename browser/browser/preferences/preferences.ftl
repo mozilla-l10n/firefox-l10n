@@ -717,7 +717,7 @@ content-blocking-reject-trackers-block-trackers-option =
     .label = Urmăritori
     .accesskey = k
 content-blocking-reject-trackers-all-third-parties-option =
-    .label = Toate cookie-urile (poate împiedica funcționarea site-urilor web)
+    .label = Toate cookie-urile de la terți (poate împiedica funcționarea site-urilor web)
     .accesskey = A
 
 ## Privacy Section - Tracking
