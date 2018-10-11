@@ -471,7 +471,7 @@
 <!ENTITY print "Udskriv">
 <!ENTITY view_page_source "Vis sidens kildekode">
 <!ENTITY find_in_page "Find på siden">
-<!ENTITY desktop_mode "Anmod om desktopversion">
+<!ENTITY desktop_mode "Bed om desktop-version">
 <!ENTITY page "Side">
 <!ENTITY tools "Funktioner">
 <!ENTITY new_tab "Nyt faneblad">
