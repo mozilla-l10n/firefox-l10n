@@ -443,6 +443,9 @@
 <!ENTITY openConversationCmd.label "Deschide în conversație">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "e">
+<!ENTITY openInConversationCmd.label "Deschide în conversație">
+<!ENTITY openInConversationCmd.accesskey "s">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Atașamente">
 <!ENTITY openAttachmentListCmd.accesskey "t">
 <!ENTITY openFeedMessage1.label "Când deschideți mesajele fluxului">
