@@ -531,6 +531,7 @@ privacy-header = Priwatnosć wobhladowaka
 ## Privacy Section - Forms
 
 forms-header = Formulary a hesła
+logins-header = Přizjewjenja a hesła
 forms-ask-to-save-logins =
     .label = Prašeć so, hač so maja přizjewjenja a hesła składować
     .accesskey = r
@@ -633,10 +634,6 @@ sitedata-block-trackers-option =
     .label = Přesćěhowaki třećich
 sitedata-block-unvisited-option =
     .label = Placki z njewopytanych websydłow
-sitedata-block-all-third-parties-option =
-    .label = Wšě placki třećich
-sitedata-block-always-option =
-    .label = Wšě placki (móže zawinować, zo websydła njefunguja)
 sitedata-block-all-third-party-option =
     .label = Wšě placki třećich (móže zawinować, zo websydła njefunguja)
 sitedata-block-all-option =
@@ -690,30 +687,13 @@ content-blocking-category-label = Wubjerće, štož ma so blokować
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Pomałe slědowace elementy
-    .accesskey = P
-content-blocking-fastblock-description = Blokuje wobsah třećich poskićowarjow, kotryž trjeba wjace hač 5 sekundow, zo by so začitał.
-content-blocking-fastblock-option-enabled =
-    .label = Přeco blokować
-content-blocking-fastblock-option-disabled =
-    .label = Ženje njeblokować
-content-blocking-tracking-protection-label = Přesćěhowaki
-    .accesskey = P
-content-blocking-tracking-protection-description = Blokuje wšě znate přesćěhowaki (Kedźbu: móže tež začitanju někotrych stronow zadźěwać)
-content-blocking-tracking-protection-option-enabled =
-    .label = Přeco blokować
-content-blocking-tracking-protection-option-pbm =
-    .label = Jenož w priwatnych woknach blokować
-content-blocking-tracking-protection-option-disabled =
-    .label = Ženje njeblokować
-content-blocking-tracking-protection-change-blocklist = Lisćinu blokowanjow změnić…
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Pomału čitace přesćěhowaki
     .accesskey = P
 content-blocking-fastblock-new-description = Jenož přesćěhowaki blokować, kotrež strony při spěšnym začitanju haća.
+content-blocking-tracking-protection-trackers-label =
+    .label = Přesćěhowaki
+    .accesskey = P
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Wšě wotkryte přesćěhowaki
     .accesskey = h
