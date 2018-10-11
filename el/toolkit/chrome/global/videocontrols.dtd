@@ -11,6 +11,10 @@
 <!ENTITY castingButton.castingLabel "Μετάδοση σε οθόνη">
 <!ENTITY closedCaption.off "Ανενεργό">
 
+<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
+     accessibility software to clarify what the slider is for. -->
+<!ENTITY volumeScrubber.label "Ρυθμιστικό έντασης">
+
 <!ENTITY stats.media "Πολυμέσα">
 <!ENTITY stats.size "Μέγεθος">
 <!ENTITY stats.activity "Δραστηριότητα">
@@ -47,3 +51,4 @@ unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
 <!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
+
