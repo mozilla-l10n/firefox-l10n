@@ -34,3 +34,6 @@ policy-DisablePocket = Diweredekaat ar c'heweriuster evit enrollañ pajennoù e 
 policy-DisablePrivateBrowsing = Diweredekaat ar merdeiñ prevez.
 policy-DisableProfileImport = Diweredekaat arc'had al lañser evit enporzhiañ roadennoù adalek ur merdeer all.
 policy-DisableProfileRefresh = Diweredekaat an afell Azgrenaat { -brand-short-name } er bajenn about:support.
+policy-DisableSafeMode = Diweredekaat ar c'heweriuster evit adloc'hañ er mod diogel. Evezhiadenn: ar stokell Shift evit mont er mod diogel n'hall bezañ diweredekaet nemet war Windows gant ar reolennoù strollad.
+policy-DisableSecurityBypass = Mirout an arveriad da dremen e-biou gouzavioù diogelroez.
+policy-DisableSetDesktopBackground = Diweredekaat an arc'had lañser Arventennañ evel Drekleur ar burev.
