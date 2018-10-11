@@ -41,6 +41,9 @@
 <!ENTITY runtimeMenu_showSettings_label "Gratowe nastajenja">
 <!ENTITY runtimeMenu_showSettings_accesskey "n">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "Wukon">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "u">
+
 <!ENTITY viewMenu_label "Napohlad">
 <!ENTITY viewMenu_accesskey "h">
 <!ENTITY viewMenu_zoomin_label "Powjetšić">
@@ -75,7 +78,6 @@
 <!ENTITY runtimePanel_wifi "WLAN-graty">
 <!ENTITY runtimePanel_other "Druhi">
 <!ENTITY runtimePanel_noadbhelper "ADB Helper instalować">
-<!ENTITY runtimePanel_noadbextension "ADB-rozšěrjenje instalować">
 <!ENTITY runtimePanel_nousbdevice "Njemóžeće swój grat widźeć?">
 <!ENTITY runtimePanel_refreshDevices_label "Graty aktualizować">
 
