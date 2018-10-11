@@ -525,6 +525,7 @@ privacy-header = Browser Privacy
 ## Privacy Section - Forms
 
 forms-header = Forms & Passwords
+logins-header = Logins & Passwords
 forms-ask-to-save-logins =
     .label = Ask to save logins and passwords for websites
     .accesskey = r
@@ -627,10 +628,6 @@ sitedata-block-trackers-option =
     .label = Third-party trackers
 sitedata-block-unvisited-option =
     .label = Cookies from unvisited websites
-sitedata-block-all-third-parties-option =
-    .label = All third-party cookies
-sitedata-block-always-option =
-    .label = All cookies (may cause websites to break)
 sitedata-block-all-third-party-option =
     .label = All third-party cookies (may cause websites to break)
 sitedata-block-all-option =
@@ -684,30 +681,13 @@ content-blocking-category-label = Choose what to block
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Slow Tracking Elements
-    .accesskey = S
-content-blocking-fastblock-description = Blocks third-party content that takes longer than 5 seconds to load.
-content-blocking-fastblock-option-enabled =
-    .label = Always block
-content-blocking-fastblock-option-disabled =
-    .label = Never block
-content-blocking-tracking-protection-label = Trackers
-    .accesskey = T
-content-blocking-tracking-protection-description = Blocks all known trackers (Note: may also prevent some pages from loading).
-content-blocking-tracking-protection-option-enabled =
-    .label = Always block
-content-blocking-tracking-protection-option-pbm =
-    .label = Block only in private windows
-content-blocking-tracking-protection-option-disabled =
-    .label = Never block
-content-blocking-tracking-protection-change-blocklist = Change Block List…
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Slow-Loading Trackers
     .accesskey = S
 content-blocking-fastblock-new-description = Block just the trackers that keep pages from loading quickly.
+content-blocking-tracking-protection-trackers-label =
+    .label = Trackers
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = All Detected Trackers
     .accesskey = T
