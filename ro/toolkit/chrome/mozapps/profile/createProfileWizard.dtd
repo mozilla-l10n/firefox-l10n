@@ -17,7 +17,7 @@
 <!ENTITY profileCreationIntro.text      "Dacă creezi mai multe profiluri, le poți deosebi după numele profilurilor. Poți folosi numele sugerat aici sau numele pe care îl dorești tu.">
 <!ENTITY profilePrompt.label            "Introdu numele noului profil:">
 <!ENTITY profilePrompt.accesskey        "e">
-<!ENTITY profileDirectoryExplanation.text   "Setările utilizatorului, preferințele, și alte date legate de utilizator vor fi stocate în:">
+<!ENTITY profileDirectoryExplanation.text   "Setările utilizatorului, preferințele și alte date legate de utilizator vor fi stocate în:">
 <!ENTITY profileDefaultName             "Utilizator implicit">
 <!ENTITY button.choosefolder.label      "Alege dosarul…">
 <!ENTITY button.choosefolder.accesskey  "d">
