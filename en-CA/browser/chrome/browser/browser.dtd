@@ -45,13 +45,13 @@ but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.label            "">
 <!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "b">
+<!ENTITY  unpinSelectedTabs.accesskey        "p">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Reload Selected Tabs">
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!ENTITY  bookmarkSelectedTabs.label         "Bookmark Tabs…">
-<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "B">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -61,7 +61,7 @@ can reach it easily. -->
 <!ENTITY  pinTab.label                       "Pin Tab">
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Unpin Tab">
-<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  unpinTab.accesskey                 "p">
 <!ENTITY  sendTabToDevice.label              "Send Tab to Device">
 <!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "Send Page to Device">
@@ -199,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Subscribe to This Page">
 <!ENTITY subscribeToPageMenuitem.label "Subscribe to This Page…">
+
 <!ENTITY addCurPagesCmd.label "Bookmark All Tabs…">
 <!ENTITY showAllBookmarks2.label "Show All Bookmarks">
 <!ENTITY recentBookmarks.label "Recently Bookmarked">
