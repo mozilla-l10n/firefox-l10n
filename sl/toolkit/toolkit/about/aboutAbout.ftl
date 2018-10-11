@@ -3,3 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-about-title = O predstavitvah
+about-about-note =
+    To je seznam predstavitvenih strani.<br/>
+    Nekatere morda povzročajo zmedo. Druge služijo zgolj odkrivanju napak.<br/>
+    Spet tretje pa so izpuščene, ker zahtevajo poizvedbeni niz.
