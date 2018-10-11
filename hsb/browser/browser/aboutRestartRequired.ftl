@@ -4,3 +4,4 @@
 
 restart-required-title = Znowastartowanje trěbne
 restart-required-header = Je nam žel. Dyrbimy jenož maličkosć činić, prjedy hač pokročujemy.
+restart-button-label = { -brand-short-name } znowa startować

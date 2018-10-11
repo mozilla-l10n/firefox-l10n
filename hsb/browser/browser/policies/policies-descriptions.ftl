@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Wobhladowak při instalowanju a aktualizowanju
 policy-DisableTelemetry = Telemetriju znjemóžnić.
 policy-DisplayBookmarksToolbar = Lajstu zapołožkow po standardźe pokazać.
 policy-DisplayMenuBar = Menijowu lajstu po standardźe pokazać.
+policy-DNSOverHTTPS = DNS přez HTTPS konfigurować
 policy-DontCheckDefaultBrowser = Kontrolu za standardnym wobhladowakom při starće znjemóžnić.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Blokowanje wobsaha zmóžnić abo znjemóžnić a jo na přeće zawrěć.
@@ -65,6 +66,8 @@ policy-Proxy = Nastajenja proksy konfigurować.
 policy-SanitizeOnShutdown = Nawigaciske daty při skónčenju zhašeć.
 policy-SearchBar = Standardne městno pytanskeho pola nastajić. Wužiwar móže jo hišće přiměrić.
 policy-SearchEngines = Nastajenja pytawow konfigurować. Tute prawidło je jenož za wersiju Extended Support Release (ESR) k dispoziciji.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Module PKCS #11 instalować.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Wopytowanju websydłow zadźěwać. Hlejće dokumentaciju za dalše podrobnosće wo formaće.
