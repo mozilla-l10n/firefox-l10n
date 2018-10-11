@@ -23,10 +23,14 @@
 <!ENTITY  reloadTab.accesskey                "z">
 <!ENTITY  reloadAllTabs.label                "Tüm sekmeleri tazele">
 <!ENTITY  reloadAllTabs.accesskey            "T">
+<!ENTITY  selectAllTabs.label                "Tüm sekmeleri seç">
+<!ENTITY  selectAllTabs.accesskey            "ü">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Sekmeyi çoğalt">
-<!ENTITY  duplicateTab.accesskey             "S">
+<!ENTITY  duplicateTab.accesskey             "o">
+<!ENTITY  closeTabOptions.label              "Açık sekmeleri kapat">
+<!ENTITY  closeTabOptions.accesskey          "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -86,16 +90,26 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "c">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Sekmeyi taşı">
+<!ENTITY  moveTabOptions.accesskey           "t">
+<!ENTITY  moveSelectedTabOptions.label       "Sekmeleri taşı">
+<!ENTITY  moveSelectedTabOptions.accesskey   "t">
+<!ENTITY  moveToStart.label                  "En başa taşı">
+<!ENTITY  moveToStart.accesskey              "E">
+<!ENTITY  moveToEnd.label                    "En sona taşı">
+<!ENTITY  moveToEnd.accesskey                "s">
 <!ENTITY  moveToNewWindow.label              "Yeni pencereye taşı">
 <!ENTITY  moveToNewWindow.accesskey          "Y">
 <!ENTITY  reopenInContainer.label            "Kapsayıcıda yeniden aç">
 <!ENTITY  reopenInContainer.accesskey        "K">
 <!ENTITY  bookmarkAllTabs.label              "Tüm sekmeleri yer imlerine ekle…">
 <!ENTITY  bookmarkAllTabs.accesskey          "ü">
+<!ENTITY  bookmarkTab.label                  "Sekmeyi yer imlerine ekle">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "i">
 <!ENTITY  undoCloseTab.label                 "Kapatılan sekmeyi aç">
-<!ENTITY  undoCloseTab.accesskey             "K">
+<!ENTITY  undoCloseTab.accesskey             "ı">
 <!ENTITY  closeTab.label                     "Sekmeyi kapat">
 <!ENTITY  closeTab.accesskey                 "e">
 <!ENTITY  hiddenTabs.label                   "Gizli sekmeler">
@@ -134,6 +148,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tüm sekmeleri yer imlerine ekle…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ü">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Seçili sekmeleri yer imlerine ekle…">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "r">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Tüm sekmeleri seç">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "ü">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Kapatılan sekmeyi aç">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "K">
 
