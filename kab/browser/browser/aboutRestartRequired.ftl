@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Asenker tikelt nniḍen yettwasra
+restart-required-header = Suref-aɣ. Mazal kan ciṭ ad t-nseggem uqble ad tkemmleḍ.
