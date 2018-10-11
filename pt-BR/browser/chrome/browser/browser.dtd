@@ -23,6 +23,8 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Recarregar todas as abas">
 <!ENTITY  reloadAllTabs.accesskey            "a">
+<!ENTITY  selectAllTabs.label                "Selecionar todas as abas">
+<!ENTITY  selectAllTabs.accesskey            "t">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Duplicar aba">
@@ -38,19 +40,29 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Fechar abas selecionadas">
 <!ENTITY  closeSelectedTabs.accesskey        "F">
 
+<!ENTITY  closeTabs.label                    "Fechar abas">
+<!ENTITY  closeTabs.accesskey                "h">
 <!ENTITY  pinSelectedTabs.label              "Fixar abas">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "F">
 <!ENTITY  unpinSelectedTabs.label            "Desafixar abas">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Recarregar abas selecionadas">
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Recarregar abas">
+<!ENTITY  reloadTabs.accesskey               "R">
 <!ENTITY  bookmarkSelectedTabs.label         "Abas favoritas…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "f">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,8 +71,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Fixar aba">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "x">
 <!ENTITY  unpinTab.label                     "Desafixar aba">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "x">
 <!ENTITY  sendTabToDevice.label              "Enviar aba para dispositivo">
 <!ENTITY  sendTabToDevice.accesskey          "d">
@@ -68,12 +86,26 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.label             "Enviar Link para dispositivo">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Mover aba">
+<!ENTITY  moveTabOptions.accesskey           "v">
+<!ENTITY  moveSelectedTabOptions.label       "Mover abas">
+<!ENTITY  moveSelectedTabOptions.accesskey   "v">
+<!ENTITY  moveToStart.label                  "Mover para o início">
+<!ENTITY  moveToStart.accesskey              "i">
+<!ENTITY  moveToEnd.label                    "Mover para o final">
+<!ENTITY  moveToEnd.accesskey                "f">
 <!ENTITY  moveToNewWindow.label              "Mover para uma nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  reopenInContainer.label            "Reabrir em contêiner">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Adicionar todas as abas…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
+<!ENTITY  bookmarkTab.label                  "Adicionar aba">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "A">
 <!ENTITY  undoCloseTab.label                 "Reabrir aba">
 <!ENTITY  undoCloseTab.accesskey             "b">
 <!ENTITY  closeTab.label                     "Fechar aba">
@@ -114,6 +146,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "t">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Adicionar todas as abas…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "c">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Adicionar abas selecionadas…">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "s">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Selecionar todas as abas">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Reabrir aba">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "b">
 
@@ -785,6 +821,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Segurança do site">
 
+<!ENTITY identity.connection "Conexão">
 <!ENTITY identity.connectionSecure "Conexão segura">
 <!ENTITY identity.connectionNotSecure "Conexão não é segura">
 <!ENTITY identity.connectionFile "Esta página está armazenada no seu computador.">
@@ -951,6 +988,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Adicionar bloqueio…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Todos os rastreadores detectados">
+<!ENTITY contentBlocking.trackingProtection3.label "Rastreadores">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is

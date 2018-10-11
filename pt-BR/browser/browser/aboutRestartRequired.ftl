@@ -4,3 +4,4 @@
 
 restart-required-title = É necessário reiniciar
 restart-required-header = Desculpe. Nós só precisamos fazer uma pequena coisa para continuar.
+restart-button-label = Reiniciar o { -brand-short-name }
