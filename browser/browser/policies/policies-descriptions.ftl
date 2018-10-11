@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Halang pelayar daripada memasang dan mengemask
 policy-DisableTelemetry = Nyahaktifkan Telemetry.
 policy-DisplayBookmarksToolbar = Papar Bar alatan Tandabuku secara piawai.
 policy-DisplayMenuBar = Papar Bar Menu secara piawai.
+policy-DNSOverHTTPS = Konfigurasi DNS mengatasi HTTPS
 policy-DontCheckDefaultBrowser = Nyahdayakan pilihan untuk pelayar piawai pada permulaan.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Dayakan atau Nyahdayakan Sekatan Kandungan dan pilihan untuk menguncinya.
