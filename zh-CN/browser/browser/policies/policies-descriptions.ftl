@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = 阻止浏览器安装或更新“系统附加�
 policy-DisableTelemetry = 关闭“遥测”组件。
 policy-DisplayBookmarksToolbar = 默认显示书签工具栏。
 policy-DisplayMenuBar = 默认显示菜单栏。
+policy-DNSOverHTTPS = 配置 DNS over HTTPS。
 policy-DontCheckDefaultBrowser = 禁用启动时的默认浏览器检查。
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = 启用或禁用内容拦截，并可选择锁定该功能。
@@ -65,6 +66,8 @@ policy-Proxy = 配置代理设置
 policy-SanitizeOnShutdown = 关闭浏览器时清除所有浏览数据。
 policy-SearchBar = 设置搜索栏的默认位置，用户仍可自定义。
 policy-SearchEngines = 配置搜索引擎设置。此策略仅适用于延长支持版（ESR）。
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = 安装 PKCS #11 模块。
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = 阻止访问某些网站。参阅文档了解该格式的更多详情。

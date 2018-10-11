@@ -521,6 +521,7 @@ privacy-header = 浏览器隐私
 ## Privacy Section - Forms
 
 forms-header = 表单与密码
+logins-header = 登录名和密码
 forms-ask-to-save-logins =
     .label = 向您询问是否要记住网站的登录账号和密码
     .accesskey = r
@@ -680,6 +681,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = 减慢加载的跟踪器
     .accesskey = S
 content-blocking-fastblock-new-description = 拦截减慢页面加载速度的跟踪器。
+content-blocking-tracking-protection-trackers-label =
+    .label = 跟踪器
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = 检测到的所有跟踪器
     .accesskey = T
