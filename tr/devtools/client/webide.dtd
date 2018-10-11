@@ -36,12 +36,13 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "E">
 <!ENTITY runtimeMenu_showDetails_label "Çalışma zamanı bilgileri">
 <!ENTITY runtimeMenu_showDetails_accesskey "a">
-<!ENTITY runtimeMenu_showMonitor_label "İzleyici">
-<!ENTITY runtimeMenu_showMonitor_accesskey "z">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Cihaz tercihleri">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "C">
 <!ENTITY runtimeMenu_showSettings_label "Cihaz ayarları">
 <!ENTITY runtimeMenu_showSettings_accesskey "z">
+
+<!ENTITY runtimeMenu_showPerformancePanel_label "Performans">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
 <!ENTITY viewMenu_label "Göster">
 <!ENTITY viewMenu_accesskey "G">
@@ -75,9 +76,7 @@
 <!ENTITY projectPanel_tabs "Sekmeler">
 <!ENTITY runtimePanel_usb "USB aygıtları">
 <!ENTITY runtimePanel_wifi "Wi-Fi aygıtları">
-<!ENTITY runtimePanel_simulator "Simülatörler">
 <!ENTITY runtimePanel_other "Diğer">
-<!ENTITY runtimePanel_installsimulator "Simülatör yükle">
 <!ENTITY runtimePanel_noadbhelper "ADB Helper’ı yükle">
 <!ENTITY runtimePanel_nousbdevice "Cihazınızı göremiyor musunuz?">
 <!ENTITY runtimePanel_refreshDevices_label "Cihazları yenile">
@@ -149,10 +148,6 @@
 <!ENTITY devicesetting_newtext "Ayar değeri">
 <!ENTITY devicesetting_addnew "Yeni ayar ekle">
 
-<!-- Monitor -->
-<!ENTITY monitor_title "İzleyici">
-<!ENTITY monitor_help "Yardım">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -174,19 +169,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Ön paketleme komut günlükleri">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Simülatör seçenekleri">
-<!ENTITY simulator_remove "Simülatörü sil">
-<!ENTITY simulator_reset "Varsayılanları geri yükle">
-<!ENTITY simulator_name "İsim">
-<!ENTITY simulator_software "Yazılım">
-<!ENTITY simulator_version "Sürüm">
-<!ENTITY simulator_profile "Profil">
-<!ENTITY simulator_hardware "Donanım">
-<!ENTITY simulator_device "Aygıt">
-<!ENTITY simulator_screenSize "Ekran">
-<!ENTITY simulator_pixelRatio "Piksel oranı">
-<!ENTITY simulator_tv_data "TV simülasyonü">
-<!ENTITY simulator_tv_data_open "Yapılandırma verileri">
-<!ENTITY simulator_tv_data_open_button "Yapılandırma klasörünü aç…">
