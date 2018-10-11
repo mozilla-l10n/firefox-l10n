@@ -513,6 +513,7 @@ privacy-header = 瀏覽器隱私權
 ## Privacy Section - Forms
 
 forms-header = 表單與密碼
+logins-header = 登入資訊與密碼
 forms-ask-to-save-logins =
     .label = 向您詢問是否要記住網站的登入帳號與密碼
     .accesskey = r
@@ -615,10 +616,6 @@ sitedata-block-trackers-option =
     .label = 第三方追蹤器
 sitedata-block-unvisited-option =
     .label = 未造訪過的網站的 Cookie
-sitedata-block-all-third-parties-option =
-    .label = 所有第三方追蹤器
-sitedata-block-always-option =
-    .label = 所有 Cookie（可能會造成網站運作不正常）
 sitedata-block-all-third-party-option =
     .label = 所有第三方 Cookie（可能會造成某些網站不正常）
 sitedata-block-all-option =
@@ -672,30 +669,13 @@ content-blocking-category-label = 選擇要封鎖的內容
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = 很慢才載入的追蹤元素
-    .accesskey = S
-content-blocking-fastblock-description = 封鎖超過 5 秒仍未載入完成的第三方內容。
-content-blocking-fastblock-option-enabled =
-    .label = 總是封鎖
-content-blocking-fastblock-option-disabled =
-    .label = 永不封鎖
-content-blocking-tracking-protection-label = 追蹤器
-    .accesskey = T
-content-blocking-tracking-protection-description = 封鎖所有已知的追蹤器（可能也會無法載入某些頁面）。
-content-blocking-tracking-protection-option-enabled =
-    .label = 總是封鎖
-content-blocking-tracking-protection-option-pbm =
-    .label = 僅在隱私瀏覽視窗封鎖
-content-blocking-tracking-protection-option-disabled =
-    .label = 永不封鎖
-content-blocking-tracking-protection-change-blocklist = 變更封鎖清單…
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = 慢速載入的追蹤器
     .accesskey = S
 content-blocking-fastblock-new-description = 只封鎖會影響頁面載入速度的追蹤器。
+content-blocking-tracking-protection-trackers-label =
+    .label = 追蹤器
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = 所有偵測到的追蹤器
     .accesskey = T

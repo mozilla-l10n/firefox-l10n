@@ -23,11 +23,13 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "重新載入所有分頁">
 <!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  selectAllTabs.label                "選擇所有分頁">
 <!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "複製分頁">
 <!ENTITY  duplicateTab.accesskey             "D">
+<!ENTITY  closeTabOptions.label              "關閉分頁選項">
 <!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
@@ -40,6 +42,7 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "關閉選擇的分頁">
 <!ENTITY  closeSelectedTabs.accesskey        "S">
 
+<!ENTITY  closeTabs.label                    "關閉分頁">
 <!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "釘選分頁">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
@@ -57,6 +60,7 @@ but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "重新載入分頁">
 <!ENTITY  reloadTabs.accesskey               "R">
 <!ENTITY  bookmarkSelectedTabs.label         "將分頁加入書籤…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
@@ -86,9 +90,13 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "移動分頁">
 <!ENTITY  moveTabOptions.accesskey           "v">
+<!ENTITY  moveSelectedTabOptions.label       "移動分頁">
 <!ENTITY  moveSelectedTabOptions.accesskey   "v">
+<!ENTITY  moveToStart.label                  "移動至開頭">
 <!ENTITY  moveToStart.accesskey              "S">
+<!ENTITY  moveToEnd.label                    "移動至結尾">
 <!ENTITY  moveToEnd.accesskey                "E">
 <!ENTITY  moveToNewWindow.label              "移動到新視窗">
 <!ENTITY  moveToNewWindow.accesskey          "W">
@@ -96,6 +104,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "將所有分頁加入書籤…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  bookmarkTab.label                  "將分頁加入書籤">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkTab.accesskey              "B">
@@ -139,7 +148,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "將所有分頁加入書籤…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "將選擇的分頁加入書籤…">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "選擇所有分頁">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "復原已關閉分頁">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
@@ -812,6 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "網站安全性">
 
+<!ENTITY identity.connection "連線">
 <!ENTITY identity.connectionSecure "安全連線">
 <!ENTITY identity.connectionNotSecure "連線不安全">
 <!ENTITY identity.connectionFile "此頁面位於您的電腦上。">
@@ -978,6 +990,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "新增封鎖項目…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "所有偵測到的追蹤器">
+<!ENTITY contentBlocking.trackingProtection3.label "追蹤器">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
