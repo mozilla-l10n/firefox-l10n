@@ -684,7 +684,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Научете повече">
-<!ENTITY enable_protection "Включване на защита">
+<!ENTITY enable_protection "Включване на защитата">
 <!ENTITY disable_protection "Изключване на защитата">
 
 <!ENTITY private_data_success "Личните данни са изтрити">
