@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-about-title = Par Par
 about-about-note =
     This is a list of “about” pages for your convenience.<br/>
     Some of them might be confusing. Some are for diagnostic purposes only.<br/>
