@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Va ben!">
 <!ENTITY defaultButton.accesskey "V">
+
+<!ENTITY moreActionsButton.accessibleLabel "Ciù açioin">
