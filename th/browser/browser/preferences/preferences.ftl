@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = ส่วนขยาย <img data-l10
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = ส่วนขยาย <img data-l10n-name="icon"/> { $name } กำลังควบคุมการป้องกันการติดตาม
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = ส่วนขยาย <img data-l10n-name="icon"/> { $name } กำลังควบคุมการตั้งค่านี้
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = ส่วนขยาย <img data-l10n-name="icon"/> { $name } กำลังควบคุมวิธีที่ { -brand-short-name } เชื่อมต่อกับอินเทอร์เน็ต
@@ -507,6 +510,7 @@ privacy-header = ความเป็นส่วนตัวเบราว์
 ## Privacy Section - Forms
 
 forms-header = แบบฟอร์มและรหัสผ่าน
+logins-header = การเข้าสู่ระบบและรหัสผ่าน
 forms-ask-to-save-logins =
     .label = ถามเพื่อบันทึกการเข้าสู่ระบบและรหัสผ่านสำหรับเว็บไซต์
     .accesskey = ถ
@@ -659,6 +663,9 @@ content-blocking-category-label = เลือกสิ่งที่จะป�
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = ตัวติดตามที่โหลดช้า
+    .accesskey = ต
+content-blocking-tracking-protection-trackers-label =
+    .label = ตัวติดตาม
     .accesskey = ต
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = ตัวติดตามที่ตรวจพบทั้งหมด
