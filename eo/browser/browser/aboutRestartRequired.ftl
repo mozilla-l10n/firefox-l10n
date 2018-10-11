@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Restarto postulata
+restart-required-header = Bedaŭrinde ankoraŭ restas detaleto farenda, post tio ni daŭrigos.
