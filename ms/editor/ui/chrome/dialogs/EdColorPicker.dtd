@@ -8,6 +8,9 @@
 <!ENTITY setColor1.label "Klik pada warna atau">
 <!ENTITY setColor2.label "masukkan string warna HTML">
 <!ENTITY setColor2.accessKey "H">
+<!ENTITY chooseColor1.label "Pilih warna:">
+<!ENTITY chooseColor2.label "Masukkan string warna HTML">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(contoh: &quot;#0000ff&quot; atau &quot;blue&quot;):">
 <!ENTITY default.label "Piawai">
 <!ENTITY default.accessKey "P">
