@@ -26,13 +26,13 @@
 <!ENTITY generic.longDesc "<p>În prezent nu sunt disponibile informații suplimentare despre această problemă sau eroare.</p>">
 
 <!ENTITY malformedURI.title "Adresă nevalidă">
-<!ENTITY malformedURI.longDesc "<p>Adresa furnizată nu este într-un format recunoscut. Te rugăm să verifici ca bara adresei să nu conțină greșeli și încearcă din nou.</p>">
+<!ENTITY malformedURI.longDesc "<p>Adresa furnizată nu este într-un format recunoscut. Te rugăm să verifici bara de adrese pentru greșeli și încearcă din nou.</p>">
 
 <!ENTITY netInterrupt.title "Transfer de date întrerupt">
 <!ENTITY netInterrupt.longDesc "<p>Browserul s-a conectat cu succes, dar conexiunea a fost întreruptă în timp ce se transferau informații.  Te rugăm să încerci din nou.</p><ul><li>Ai probleme cu navigarea pe alte site-uri? Verifică conexiunea la rețea a calculatorului.</li><li>Problemele persistă? Consultă administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
 
 <!ENTITY notCached.title "Document expirat">
-<!ENTITY notCached.longDesc "<p>Documentul cerut nu este disponibil în cache-ul din browser.</p><ul><li>Ca o măsură de securitate, browserul nu cere din nou automat documente confidențiale.</li><li>Clic pe „Încearcă din nou” pentru a cere din nou documentul de la site-ul web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Documentul solicitat nu este disponibil în cache-ul browserului.</p><ul><li>Ca măsură de precauție pentru securitate, browser-ul nu cere din nou în mod automat documente sensibile.</li><li>Dă clic pe Încearcă din nou pentru a cere iar documentul de la site-ul web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
 <!ENTITY netOffline.longDesc2 "<p>Browserul este în modul deconectat și nu se poate conecta la elementul solicitat.</p><ul><li>Calculatorul este conectat la o rețea activă?</li><li>Apasă pe &quot;Încearcă din nou&quot; pentru a comuta la modul online și pentru a reîncărca pagina.</li></ul>">
@@ -88,6 +88,6 @@
 <!ENTITY inadequateSecurityError.title "Conexiunea nu este securizată">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește tehnologie de securitate care este învechită și vulnerabilă la atac. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai a fi în siguranță. Administratorul site-ului web va trebui să repare serverul mai întâi înainte să poți vizita site-ul.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește o tehnologie de securitate depășită și vulnerabilă la atacuri. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai în siguranță. Administratorul site-ului web va trebui să repare mai întâi serverul ca să poți intra pe site.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagină blocată">
