@@ -8,5 +8,7 @@
 <!ENTITY searchBox.placeholder         "Filtrează elementele">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
+<!ENTITY storage.popupMenu.deleteAllLabel "Șterge tot">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
+<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Șterge toate cookie-urile sesiunii">
