@@ -45,3 +45,7 @@ browser-languages-window =
     .title = Setări de limbă { -brand-short-name }
     .style = width: 40em
 browser-languages-description = { -brand-short-name } va afișa limba implicită pe prima poziție și pe cele alternative, dacă este necesar, în ordinea în care apar.
+browser-languages-downloading =
+    .label = Se descarcă...
+browser-languages-installed-label = Limbi instalate
+browser-languages-available-label = Limbi disponibile
