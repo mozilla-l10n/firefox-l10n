@@ -4,3 +4,6 @@
 
 restart-required-title = Necesita reiniciar
 restart-required-header = Disculpe. Sólo necesitamos hacer una pequeña cosa para continuar.
+restart-required-intro = Recién instalamos una actualización en segundo plano. Hacé clic en Reiniciar { -brand-short-name } para terminar de aplicarla.
+restart-required-description = Después restauraremos todas sus páginas, ventanas y pestañas para que pueda continuar rápidamente.
+restart-button-label = Reiniciar { -brand-short-name }
