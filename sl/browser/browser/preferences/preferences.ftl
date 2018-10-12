@@ -531,6 +531,7 @@ privacy-header = Zasebnost brskalnika
 ## Privacy Section - Forms
 
 forms-header = Obrazci in gesla
+logins-header = Prijave in gesla
 forms-ask-to-save-logins =
     .label = Ponujaj shranjevanje prijav in gesel za spletne strani
     .accesskey = g

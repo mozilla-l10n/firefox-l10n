@@ -36,17 +36,15 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "Z">
 <!ENTITY runtimeMenu_showDetails_label "Podatki o izvajalniku">
 <!ENTITY runtimeMenu_showDetails_accesskey "O">
-<!ENTITY runtimeMenu_showMonitor_label "Spremljanje">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Nastavitve naprave">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "N">
 <!ENTITY runtimeMenu_showSettings_label "Nastavitve naprave">
 <!ENTITY runtimeMenu_showSettings_accesskey "S">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "Učinkovitost">
+
 <!ENTITY viewMenu_label "Pogled">
 <!ENTITY viewMenu_accesskey "G">
-<!ENTITY viewMenu_toggleEditor_label "Preklopi urejevalnik">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Povečaj">
 <!ENTITY viewMenu_zoomin_accesskey "V">
 <!ENTITY viewMenu_zoomout_label "Pomanjšaj">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -79,9 +75,7 @@
 <!ENTITY projectPanel_tabs "Zavihki">
 <!ENTITY runtimePanel_usb "Naprave USB">
 <!ENTITY runtimePanel_wifi "Naprave Wi-Fi">
-<!ENTITY runtimePanel_simulator "Simulatorji">
 <!ENTITY runtimePanel_other "Drugo">
-<!ENTITY runtimePanel_installsimulator "Namesti simulator">
 <!ENTITY runtimePanel_noadbhelper "Namesti ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Ne vidite vaše naprave?">
 <!ENTITY runtimePanel_refreshDevices_label "Osveži naprave">
@@ -94,7 +88,6 @@
 <!ENTITY details_location "Mesto">
 <!ENTITY details_manifestURL "ID aplikacije">
 <!ENTITY details_removeProject_button "Odstrani projekt">
-<!ENTITY details_showPrepackageLog_button "Prikaži predpripravljen dnevnik">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nova aplikacija">
@@ -123,21 +116,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Ob zagonu WebIDE obnovi prejšnji projekt">
 <!ENTITY prefs_options_templatesurl "URL predlog">
 <!ENTITY prefs_options_templatesurl_tooltip "Seznam predlog, ki so na voljo">
-<!ENTITY prefs_options_showeditor "Prikaži urejevalnik">
-<!ENTITY prefs_options_showeditor_tooltip "Prikaži vgrajeni urejevalnik">
-<!ENTITY prefs_options_tabsize "Velikost tabulatorja">
-<!ENTITY prefs_options_expandtab "Mehak tabulator">
-<!ENTITY prefs_options_expandtab_tooltip "Uporabi presledke namesto tabulatorja">
-<!ENTITY prefs_options_detectindentation "Samodejno zamakni">
-<!ENTITY prefs_options_detectindentation_tooltip "Ugani zamik na podlagi izvorne vsebine">
-<!ENTITY prefs_options_autocomplete "Samodejno dopolni">
-<!ENTITY prefs_options_autocomplete_tooltip "Omogoči samodejno dopolnjevanje kode">
-<!ENTITY prefs_options_autoclosebrackets "Samodejno zapri oklepaje">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Samodejno vstavljaj zaklepaje">
-<!ENTITY prefs_options_keybindings "Bližnjice tipk">
-<!ENTITY prefs_options_keybindings_default "Privzeto">
-<!ENTITY prefs_options_autosavefiles "Samodejno shranjuj datoteke">
-<!ENTITY prefs_options_autosavefiles_tooltip "Samodejno shrani spremembe datotek pred zagonom projekta">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Podatki o izvajalniku">
@@ -169,10 +147,6 @@
 <!ENTITY devicesetting_newtext "Vrednost nastavitve">
 <!ENTITY devicesetting_addnew "Dodaj novo nastavitev">
 
-<!-- Monitor -->
-<!ENTITY monitor_title "Spremljanje">
-<!ENTITY monitor_help "Pomoč">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -194,19 +168,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Predpripravljeni dnevniki ukazov">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Možnosti simulatorja">
-<!ENTITY simulator_remove "Izbriši simulator">
-<!ENTITY simulator_reset "Ponastavi privzeto">
-<!ENTITY simulator_name "Ime">
-<!ENTITY simulator_software "Programska oprema">
-<!ENTITY simulator_version "Različica">
-<!ENTITY simulator_profile "Profil">
-<!ENTITY simulator_hardware "Strojna oprema">
-<!ENTITY simulator_device "Naprava">
-<!ENTITY simulator_screenSize "Zaslon">
-<!ENTITY simulator_pixelRatio "Razmerje slikovnih točk">
-<!ENTITY simulator_tv_data "Simulacija TV">
-<!ENTITY simulator_tv_data_open "Nastavi podatke">
-<!ENTITY simulator_tv_data_open_button "Odpri mapo z nastavitvami …">

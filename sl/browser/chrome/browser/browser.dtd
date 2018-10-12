@@ -23,6 +23,7 @@
 <!ENTITY  reloadTab.accesskey                "n">
 <!ENTITY  reloadAllTabs.label                "Ponovno naloži vse zavihke">
 <!ENTITY  reloadAllTabs.accesskey            "a">
+<!ENTITY  selectAllTabs.label                "Izberi vse zavihke">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Podvoji zavihek">
@@ -38,19 +39,27 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Zapri izbrane zavihke">
 <!ENTITY  closeSelectedTabs.accesskey        "Z">
 
+<!ENTITY  closeTabs.label                    "Zapri zavihke">
 <!ENTITY  pinSelectedTabs.label              "Pripni zavihke">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "P">
 <!ENTITY  unpinSelectedTabs.label            "Odpni zavihke">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "O">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Ponovno naloži izbrane zavihke">
 <!ENTITY  reloadSelectedTabs.accesskey       "n">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Ponovno naloži zavihke">
 <!ENTITY  bookmarkSelectedTabs.label         "Dodaj zavihke med zaznamke …">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "m">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,8 +68,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Pripni zavihek">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Odpni zavihek">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "O">
 <!ENTITY  sendTabToDevice.label              "Pošlji zavihek na napravo">
 <!ENTITY  sendTabToDevice.accesskey          "N">
@@ -68,12 +83,21 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "N">
 <!ENTITY  sendLinkToDevice.label             "Pošlji povezavo na napravo">
 <!ENTITY  sendLinkToDevice.accesskey         "N">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Premakni zavihek">
+<!ENTITY  moveSelectedTabOptions.label       "Premakni zavihke">
+<!ENTITY  moveToStart.label                  "Premakni na začetek">
+<!ENTITY  moveToEnd.label                    "Premakni na konec">
 <!ENTITY  moveToNewWindow.label              "Premakni v novo okno">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  reopenInContainer.label            "Ponovno odpri v vsebniku">
 <!ENTITY  reopenInContainer.accesskey        "v">
 <!ENTITY  bookmarkAllTabs.label              "Dodaj vse zavihke med zaznamke …">
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
+<!ENTITY  bookmarkTab.label                  "Dodaj zavihek med zaznamke">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "Ponovno odpri zavihek">
 <!ENTITY  undoCloseTab.accesskey             "h">
 <!ENTITY  closeTab.label                     "Zapri zavihek">
@@ -114,6 +138,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Dodaj vse zavihke med zaznamke …">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "V">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Dodaj izbrane zavihke med zaznamke …">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Izberi vse zavihke">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Ponovno odpri zavihek">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "H">
 
@@ -785,6 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Varnost strani">
 
+<!ENTITY identity.connection "Povezava">
 <!ENTITY identity.connectionSecure "Varna povezava">
 <!ENTITY identity.connectionNotSecure "Povezava ni varna">
 <!ENTITY identity.connectionFile "Ta stran je shranjena na vašem računalniku.">
@@ -951,6 +978,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Zavračaj …">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Vsi zaznani sledilci">
+<!ENTITY contentBlocking.trackingProtection3.label "Sledilci">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is

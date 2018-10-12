@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Prepreči brskalniku nameščanje in posodablj
 policy-DisableTelemetry = Izključi telemetrijo.
 policy-DisplayBookmarksToolbar = Privzeto prikaži orodno vrstico zaznamkov.
 policy-DisplayMenuBar = Privzeto prikaži vrstico z menijem.
+policy-DNSOverHTTPS = Nastavi DNS preko HTTPS.
 policy-DontCheckDefaultBrowser = Onemogoči preverjanje privzetega brskalnika ob zagonu.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Omogoči ali onemogoči zavračanje vsebine ter ga po potrebi zakleni.

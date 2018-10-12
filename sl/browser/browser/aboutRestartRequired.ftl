@@ -4,3 +4,4 @@
 
 restart-required-title = Zahtevan je ponoven zagon
 restart-required-header = Oprostite. Za nadaljevanje moramo nekaj malega postoriti.
+restart-button-label = Ponovno zaženi { -brand-short-name }
