@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Ani eheja kundahárape omohenda ha ombohekopya
 policy-DisableTelemetry = Eipe'aite Telemetría.
 policy-DisplayBookmarksToolbar = Ehechauka Techaukaha rembipuru renda ijypykue rupi.
 policy-DisplayMenuBar = Ehechauka Poravorã renda ijypykue rupi.
+policy-DNSOverHTTPS = Emboheko DNS pe HTTPS ári.
 policy-DontCheckDefaultBrowser = Eipe’a kundahára jehechajey ijypykuéva oñepyrũvo tembiapo.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Embojuruja térã eipe’a tetepy jejoko ha ejoko ejaposérõnte.
@@ -62,9 +63,12 @@ policy-OverridePostUpdatePage = Emboyke kuatiarogue “Mba’epyahu” embohekop
 policy-Permissions = Emboheko ñemoneĩ ta’anganohẽha, ñe’ẽatãha, tendaite ha marandu’ípe g̃uarã.
 policy-PopupBlocking = Emoneĩ ndahetái ñanduti rendápe ohechaukávo ovetã iñapysẽva ijypykue rupi.
 policy-Proxy = Emboheko proxy mohendahavusu.
+policy-RequestedLocales = Emopyenda tenda jerurepyre rusýi emomba’apo hag̃ua hekoitépe.
 policy-SanitizeOnShutdown = Embogue opaite kundaha mba’ekuaarã emboguekuévo.
 policy-SearchBar = Emboheko jehekaha rendaite ijypykue rupi. Pe puruhára ikatu gueteri oñemomba’e hese.
 policy-SearchEngines = Emboheko jehekaha ñemoĩporã. Ko purureko eipurukuaa pe Extended Support Release (ESR) rupive.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Emohenda PKCS # 11 ra'ãha.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Ejoko ñanduti rendápe jeike. Emoñe’ẽ kuatiaita ehechakuaa hag̃ua mba’emimi ko ysaja rehegua.
