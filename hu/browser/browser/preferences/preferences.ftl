@@ -525,6 +525,7 @@ privacy-header = Böngésző adatvédelme
 ## Privacy Section - Forms
 
 forms-header = Űrlapok és jelszavak
+logins-header = Bejelentkezések és jelszavak
 forms-ask-to-save-logins =
     .label = Felhasználónevek és jelszavak megjegyzésének megkérdezése az oldalakhoz
     .accesskey = k
@@ -684,6 +685,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Lassan betöltő követők
     .accesskey = L
 content-blocking-fastblock-new-description = Csak azon követők blokkolása, melyek megakadályozzák az oldalak gyors betöltését.
+content-blocking-tracking-protection-trackers-label =
+    .label = Követők
+    .accesskey = K
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Összes észlelt követő
     .accesskey = k
