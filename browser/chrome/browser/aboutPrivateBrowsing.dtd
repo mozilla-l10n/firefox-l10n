@@ -33,3 +33,4 @@
 <!ENTITY trackingProtection.startTour1                   "Com funciona?">
 
 <!ENTITY contentBlocking.title                           "Bloqueig de contingut">
+<!ENTITY contentBlocking.description                     "Alguns llocs web utilitzen elements que poden fer el seguiment de la vostra activitat a Internet. En les finestres privades, el bloqueig de contingut del Firefox bloca automàticament els elements de seguiment que poden recollir informació sobre la vostra navegació.">
