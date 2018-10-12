@@ -20,6 +20,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
+<!ENTITY window.title                 "Ciornă">
 
 <!ENTITY fileMenu.label               "Fișier">
 <!ENTITY fileMenu.accesskey           "F">
@@ -58,6 +59,7 @@
 <!ENTITY wordWrap.label                "Rearanjează text">
 <!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.label     "Evidențiază spațiul de la sfârșitul rândului">
 <!ENTITY highlightTrailingSpace.accesskey "H">
 
 <!ENTITY largerFont.label             "Font mai mare">
@@ -122,6 +124,7 @@
 <!ENTITY helpMenuWin.label            "Ajutor">
 <!ENTITY helpMenuWin.accesskey        "H">
 
+<!ENTITY documentationLink.label      "Ajutor ciornă pe MDN">
 <!ENTITY documentationLink.accesskey  "D">
 
 
@@ -131,9 +134,11 @@
 <!ENTITY resetContext2.label          "Resetează variabilele">
 <!ENTITY resetContext2.accesskey      "T">
 
+<!ENTITY reloadAndRun.label           "Reîncarcă și execută">
 <!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
+<!ENTITY executeMenu.label            "Execută">
 <!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
@@ -145,5 +150,6 @@
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
+<!ENTITY evalFunction.label "Evaluează funcția curentă">
 <!ENTITY evalFunction.accesskey "v">
 <!ENTITY evalFunction.key "e">
