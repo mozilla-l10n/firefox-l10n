@@ -525,6 +525,7 @@ privacy-header = Nettlesarpersonvern
 ## Privacy Section - Forms
 
 forms-header = Skjema og passord
+logins-header = Innloggingar og passord
 forms-ask-to-save-logins =
     .label = Spør om å lagre innloggingar og passord for nettsider
     .accesskey = i
@@ -684,6 +685,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Treglastande sporfølgjarar
     .accesskey = s
 content-blocking-fastblock-new-description = Blokker berre sporfølgjarar som gjer at sider lastar tregare.
+content-blocking-tracking-protection-trackers-label =
+    .label = Sporfølgjarar
+    .accesskey = S
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Alle oppdaga sporfølgjarar
     .accesskey = e

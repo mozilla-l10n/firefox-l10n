@@ -41,6 +41,9 @@
 <!ENTITY runtimeMenu_showSettings_label "Device Settings">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "Performance">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
+
 <!ENTITY viewMenu_label "View">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_zoomin_label "Zoom In">
