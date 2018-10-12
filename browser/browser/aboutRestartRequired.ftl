@@ -4,3 +4,6 @@
 
 restart-required-title = Yenidən başlatmaq tələb edilir
 restart-required-header = Üzr istəyirik. Davam etmək üçün bir iş görmək lazımdır.
+restart-required-intro = İndicə arxa tərəfdə yeniləmələri qurduq. Bitirmək üçün { -brand-short-name } Yenidən Başlata klikləyin.
+restart-required-description = Daha sonrasında cəld işlərinizə qayıda bilməyiniz üçün bütün səhifə, pəncərə və vərəqlərinizi bərpa edəcik.
+restart-button-label = { -brand-short-name } Yenidən Başlat
