@@ -4,8 +4,11 @@
 
 crash-reports-title = Rapoarte de defecțiuni
 clear-all-reports-label = Elimină toate rapoartele
+delete-button-label = Șterge tot
 delete-confirm-title = Sigur vrei asta?
 delete-confirm-description = Acest lucru va șterge toate rapoartele și nu poate fi anulat.
+delete-unsubmitted-description = Acesta va șterge toate rapoartele netrimise și nu poate fi anulat.
+delete-submitted-description = Acesta va elimina lista rapoartelor trimise dar nu va șterge datele trimise. Nu poate fi anulat.
 crashes-unsubmitted-label = Rapoarte de defecțiuni netrimise
 id-heading = ID-ul raportului
 date-crashed-heading = Data defecțiunii
