@@ -36,12 +36,13 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "З">
 <!ENTITY runtimeMenu_showDetails_label "Інформація Runtime">
 <!ENTITY runtimeMenu_showDetails_accesskey "І">
-<!ENTITY runtimeMenu_showMonitor_label "Монітор">
-<!ENTITY runtimeMenu_showMonitor_accesskey "М">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Налаштування пристрою">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "Н">
 <!ENTITY runtimeMenu_showSettings_label "Параметри пристрою">
 <!ENTITY runtimeMenu_showSettings_accesskey "п">
+
+<!ENTITY runtimeMenu_showPerformancePanel_label "Швидкодія">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "в">
 
 <!ENTITY viewMenu_label "Перегляд">
 <!ENTITY viewMenu_accesskey "П">
@@ -146,10 +147,6 @@
 <!ENTITY devicesetting_newname "Назва нового параметра">
 <!ENTITY devicesetting_newtext "Значення параметра">
 <!ENTITY devicesetting_addnew "Додати новий параметр">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "Монітор">
-<!ENTITY monitor_help "Допомога">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
