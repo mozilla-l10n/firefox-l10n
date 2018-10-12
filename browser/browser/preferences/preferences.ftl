@@ -525,6 +525,7 @@ privacy-header = Səyahər Məxfiliyi
 ## Privacy Section - Forms
 
 forms-header = Formlar və Parollar
+logins-header = Hesablar və Parollar
 forms-ask-to-save-logins =
     .label = Daxil olma və parolları saxlamaq üçün soruş
     .accesskey = r
@@ -627,10 +628,6 @@ sitedata-block-trackers-option =
     .label = Üçüncü tərəf izləyicilər
 sitedata-block-unvisited-option =
     .label = Ziyarət edilməmiş saytlardan olan çərəzlər
-sitedata-block-all-third-parties-option =
-    .label = Bütün üçüncü tərəf çərəzlər
-sitedata-block-always-option =
-    .label = Bütün çərəzlər (saytlar səhv işləyə bilər)
 sitedata-block-all-third-party-option =
     .label = Bütün üçüncü-tərəf çərəzləri (bəzi saytlar səhv işləyə bilər)
 sitedata-block-all-option =
@@ -684,30 +681,13 @@ content-blocking-category-label = Nələrin əngəllənəcəyini seçin
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = İzləmə elementlərini göstər
-    .accesskey = S
-content-blocking-fastblock-description = Yüklənməyi 5 saniyədən çox çəkən üçüncü tərəf məzmunlarını əngəllə.
-content-blocking-fastblock-option-enabled =
-    .label = Həmişə əngəllə
-content-blocking-fastblock-option-disabled =
-    .label = Heç vaxt əngəlləmə
-content-blocking-tracking-protection-label = İzləyicilər
-    .accesskey = T
-content-blocking-tracking-protection-description = Bilinən bütün izləyiciləri əngəllə (Qeyd: bəzi səhifələrin yüklənməsinə mane ola bilər).
-content-blocking-tracking-protection-option-enabled =
-    .label = Həmişə əngəllə
-content-blocking-tracking-protection-option-pbm =
-    .label = Ancaq Məxfi Pəncərələrdə əngəllə
-content-blocking-tracking-protection-option-disabled =
-    .label = Heç vaxt əngəlləmə
-content-blocking-tracking-protection-change-blocklist = Qara Siyahını Dəyiş…
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Yavaş yüklənən izləyicilər
     .accesskey = S
 content-blocking-fastblock-new-description = Ancaq səhifənin tez yüklənməsini əngəlləyən izləyiciləri əngəllə.
+content-blocking-tracking-protection-trackers-label =
+    .label = İzləyicilər
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Bütün aşkarlanan izləyicilər
     .accesskey = T
