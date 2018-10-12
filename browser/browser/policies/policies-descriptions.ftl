@@ -63,6 +63,7 @@ policy-OverridePostUpdatePage = 覆盖更新后的“新版变化”页面。如
 policy-Permissions = 配置摄像头、麦克风、位置和通知的权限。
 policy-PopupBlocking = 默认允许特定网站显示弹出式窗口。
 policy-Proxy = 配置代理设置
+policy-RequestedLocales = 设置应用程序表明语言区域偏好的语言区域请求列表。
 policy-SanitizeOnShutdown = 关闭浏览器时清除所有浏览数据。
 policy-SearchBar = 设置搜索栏的默认位置，用户仍可自定义。
 policy-SearchEngines = 配置搜索引擎设置。此策略仅适用于延长支持版（ESR）。
