@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Informes de fallada">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "Identificador de l'informe">
 <!ENTITY aboutSupport.crashes.sendDate "Data d'enviament">
 <!ENTITY aboutSupport.crashes.allReports "Tots els informes de fallada">
@@ -25,21 +25,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.securitySoftwareType "Tipus">
 <!ENTITY aboutSupport.securitySoftwareName "Nom">
 <!ENTITY aboutSupport.securitySoftwareAntivirus "Antivirus">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Antiespia">
 <!ENTITY aboutSupport.securitySoftwareFirewall "Tallafoc">
 
 <!ENTITY aboutSupport.featuresTitle "Característiques del &brandShortName;">
 <!ENTITY aboutSupport.featureName "Nom">
 <!ENTITY aboutSupport.featureVersion "Versió">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "Funcions experimentals">
-<!ENTITY aboutSupport.experimentName "Nom">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Descripció">
-<!ENTITY aboutSupport.experimentActive "Actiu">
-<!ENTITY aboutSupport.experimentEndDate "Data de fi">
-<!ENTITY aboutSupport.experimentHomepage "Pàgina d'inici">
-<!ENTITY aboutSupport.experimentBranch "Ramificació:">
 
 <!ENTITY aboutSupport.appBasicsTitle "Paràmetres bàsics de l'aplicació">
 <!ENTITY aboutSupport.appBasicsName "Nom">
@@ -131,7 +123,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallNumber "Crida del sistema">
 <!ENTITY aboutSupport.sandboxSyscallArgs "Arguments">
 
-<!ENTITY aboutSupport.safeModeTitle "Prova el mode segur">
+<!ENTITY aboutSupport.safeModeTitle "Proveu el mode segur">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reinicia amb els complements inhabilitats…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Característiques">
@@ -152,4 +144,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceLatency "Latència">
 
 <!ENTITY aboutSupport.intlTitle "Internacionalització i localització">
+<!ENTITY aboutSupport.intlAppTitle "Paràmetres de l'aplicació">
 <!ENTITY aboutSupport.intlOSTitle "Sistema operatiu">
