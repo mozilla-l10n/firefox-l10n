@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
-<!ENTITY debuggerUI.blackBoxMessage.label "Sursa este de tip black box: break-point-urile sunt deactivate și execuția pas cu pas sare peste aceasta.">
+<!ENTITY debuggerUI.blackBoxMessage.label "Sursa este în cutia neagră: punctele de oprire sunt dezactivate și este sărită la execuția pas cu pas.">
 
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
