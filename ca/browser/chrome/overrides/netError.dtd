@@ -98,12 +98,21 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "El propietari de <span class='hostname'/> ha configurat el lloc web incorrectament. Per protegir la vostra informació contra robatori, el &brandShortName; no s'ha connectat a aquest lloc web.">
 
+<!ENTITY certerror.introPara2 "El &brandShortName; ha detectat una amenaça potencial de seguretat i ha interromput la connexió a <span class='hostname'/>. Si visiteu aquest lloc, els atacants podrien robar informació com ara contrasenyes, correus electrònics o detalls de targetes de crèdit.">
 
+<!ENTITY certerror.expiredCert.secondPara "És probable que aquest problema sigui perquè l'hora del rellotge del vostre ordinador és incorrecta, cosa que podria impedir que el &brandShortName; es connecti de forma segura.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Què hi podeu fer?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Molt probablement, l'error és del lloc web i no hi podeu fer res per resoldre'l.</p>
+<p>Si esteu en una xarxa empresarial o utilitzeu programari antivirus, podeu posar-vos en contacte amb l'equip d'assistència tècnica. També podeu notificar el problema a l'administrador del lloc web.</p>
+">
 
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Molt probablement, l'error és del lloc web i no hi podeu fer res per resoldre'l. Podeu notificar el problema a l'administrador del lloc web.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>El lloc web podria estar temporalment no disponible o massa ocupat. Torneu-ho a provar d'aquí uns moments.</li> <li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre ordinador.</li> <li>Si el vostre ordinador o la vostra xarxa estan protegits per un tallafoc o per un servidor intermediari, assegureu-vos que el &brandShortName; tingui permís per accedir al web.</li> </ul>">
 
@@ -136,6 +145,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>El &brandShortName; no s'ha connectat a <span id='wrongSystemTimeWithoutReference_URL'/> perquè sembla que l'hora del rellotge de l'ordinador no és correcta, cosa que impedeix establir una connexió segura.</p> <p>Segons l'ordinador, la data i hora actuals són <span id='wrongSystemTimeWithoutReference_systemDate'/>. Per solucionar aquest problema, canvieu els paràmetres de data i hora per tal que coincideixin amb la data i hora correctes.</p>">
 
 <!ENTITY certerror.pagetitle1  "Connexió insegura">
+<!ENTITY certerror.pagetitle2  "Avís: Risc potencial de seguretat">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Aquest lloc utilitza HSTS (HTTP Strict Transport Security), que vol dir que el &brandShortName; només s'hi pot connectar de forma segura. Per tant, no és possible afegir una excepció per a aquest certificat.">
 <!ENTITY certerror.copyToClipboard.label "Copia el text al porta-retalls">
 
