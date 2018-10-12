@@ -16,7 +16,7 @@ policy-BlockAboutAddons = Bloque l’accès au gestionnaire de modules (about:ad
 policy-BlockAboutConfig = Bloque l’accès à la page about:config.
 policy-BlockAboutProfiles = Bloque l’accès à la page about:profiles.
 policy-BlockAboutSupport = Bloque l’accès à la page about:support.
-policy-Bookmarks = Créer des marque-pages dans la Barre personnelle, le menu des marque-pages ou un de leurs sous-dossiers.
+policy-Bookmarks = Permet de créer des marque-pages dans la Barre personnelle, le menu des marque-pages ou un de leurs sous-dossiers.
 policy-Certificates = Permet d’utiliser ou non des certificats intégrés. Cette politique est spécifique à Windows pour l’instant.
 policy-Cookies = Permet ou interdit aux sites de définir des cookies.
 policy-DisableAppUpdate = Empêche le navigateur de se mettre à jour.
@@ -42,7 +42,7 @@ policy-DisableSystemAddonUpdate = Empêche le navigateur d’installer et de met
 policy-DisableTelemetry = Désactive la télémétrie.
 policy-DisplayBookmarksToolbar = Affiche la barre personnelle par défaut.
 policy-DisplayMenuBar = Affiche la barre de menus par défaut.
-policy-DNSOverHTTPS = Configurer le DNS via HTTPS.
+policy-DNSOverHTTPS = Permet de configurer le DNS via HTTPS.
 policy-DontCheckDefaultBrowser = Désactive la vérification du navigateur par défaut au démarrage.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Active ou désactive le blocage de contenu et permet de verrouiller ce choix.
@@ -67,6 +67,8 @@ policy-RequestedLocales = Définit la liste des locales demandées par l’appli
 policy-SanitizeOnShutdown = Supprime toutes les données de navigation à la fermeture.
 policy-SearchBar = Définit l’emplacement par défaut de la barre de recherche. L’utilisateur garde la possibilité de la personnaliser.
 policy-SearchEngines = Configure les paramètres du moteur de recherche. Cette propriété n’est disponible que sur la version Extended Support Release (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Permet d’installer des modules PKCS #11.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Bloque l’accès à des sites web. Voir la documentation pour plus de détails sur le format.
