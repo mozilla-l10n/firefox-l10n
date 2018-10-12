@@ -525,6 +525,7 @@ privacy-header = Vie privée
 ## Privacy Section - Forms
 
 forms-header = Formulaires et mots de passe
+logins-header = Identifiants et mots de passe
 forms-ask-to-save-logins =
     .label = Proposer d’enregistrer les identifiants et les mots de passe pour les sites web
     .accesskey = r
@@ -684,6 +685,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Traqueurs qui ralentissent
     .accesskey = s
 content-blocking-fastblock-new-description = Ne bloquer que les traqueurs qui empêchent les pages de se charger rapidement.
+content-blocking-tracking-protection-trackers-label =
+    .label = Traqueurs
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Tous les traqueurs détectés
     .accesskey = T

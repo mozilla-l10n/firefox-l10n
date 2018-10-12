@@ -4,3 +4,4 @@
 
 restart-required-title = Redémarrage nécessaire
 restart-required-header = Pardon du dérangement, il reste un dernier détail à régler avant de continuer.
+restart-button-label = Redémarrer { -brand-short-name }
