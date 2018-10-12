@@ -38,3 +38,11 @@ policy-DisableSafeMode = Diweredekaat ar c'heweriuster evit adloc'hañ er mod di
 policy-DisableSecurityBypass = Mirout an arveriad da dremen e-biou gouzavioù diogelroez.
 policy-DisableSetDesktopBackground = Diweredekaat an arc'had lañser Arventennañ evel Drekleur ar burev.
 policy-DisableSetAsDesktopBackground = Diweredekaat an arc'had lañser Arventennañ evel Drekleur ar burev evit ar skeudennoù.
+policy-DisableSystemAddonUpdate = Mirout ar merdeer da staliañ hag hizivaat askouezhioù reizhiad.
+policy-DisableTelemetry = Diweredekaat Telemetry
+policy-DisplayBookmarksToolbar = Skrammañ barrenn-ostilhoù ar sinedoù dre ziouer.
+policy-DisplayMenuBar = Skrammañ ar varrenn lañser dre ziouer.
+policy-DNSOverHTTPS = Kefluniañ an DNS dre HTTPS.
+policy-DontCheckDefaultBrowser = Diweredekaat gwiriadur ar merdeer dre ziouer e-pad al loc'hadur.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Gweredekaat pe diweredekaat stankadur an endalc'hadoù. Gallout a rit prennañ an dibab-mañ.
