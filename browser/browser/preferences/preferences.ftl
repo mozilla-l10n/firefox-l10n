@@ -531,6 +531,7 @@ privacy-header = Priwatnosć wobglědowaka
 ## Privacy Section - Forms
 
 forms-header = Formulary a gronidła
+logins-header = Pśizjawjenja a gronidła
 forms-ask-to-save-logins =
     .label = Pšašaś se, lěc se maju pśizjawjenja a gronidła składowaś
     .accesskey = a
@@ -633,10 +634,6 @@ sitedata-block-trackers-option =
     .label = Pśeslědowaki tśeśich
 sitedata-block-unvisited-option =
     .label = Cookieje z njewoglědanych websedłow
-sitedata-block-all-third-parties-option =
-    .label = Wšykne cookieje tśeśich
-sitedata-block-always-option =
-    .label = Wšykne cookieje (móžo zawinowaś, až websedła njefunkcioněruju)
 sitedata-block-all-third-party-option =
     .label = Wšykne cookieje tśeśich (móžo zawinowaś, až websedła njefunkcioněruju)
 sitedata-block-all-option =
@@ -690,30 +687,13 @@ content-blocking-category-label = Wubjeŕśo, což ma se blokěrowaś
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Pómałe slědujuce elementy
-    .accesskey = P
-content-blocking-fastblock-description = Blokěrujo wopśimjeśe tśeśich póbitowarjow, kótaryž trjeba wěcej ako 5 sekundow, aby se zacytał.
-content-blocking-fastblock-option-enabled =
-    .label = Pśecej blokěrowaś
-content-blocking-fastblock-option-disabled =
-    .label = NIgda njeblokěrowaś
-content-blocking-tracking-protection-label = Pśeslědowaki
-    .accesskey = P
-content-blocking-tracking-protection-description = Blokěrujo wšykne znate pśeslědowaki (Glědajśo: móžo teke zacyitanjeju někotarych bokow zajźowaś)
-content-blocking-tracking-protection-option-enabled =
-    .label = Pśecej blokěrowaś
-content-blocking-tracking-protection-option-pbm =
-    .label = Jano w priwatnych woknach blokěrowaś
-content-blocking-tracking-protection-option-disabled =
-    .label = Nigda njeblokěrowaś
-content-blocking-tracking-protection-change-blocklist = Lisćinu blokěrowanjow změniś…
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Pómałem cytajuce pśeslědowaki
     .accesskey = P
 content-blocking-fastblock-new-description = Jano pśeslědowaki blokěrowaś, kótarež bokam malsne zacyitanje zawoborujo.
+content-blocking-tracking-protection-trackers-label =
+    .label = Pśeslědowaki
+    .accesskey = P
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Wšykne namakane pśeslědowaki
     .accesskey = s
