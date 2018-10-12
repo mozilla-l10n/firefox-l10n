@@ -36,12 +36,13 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Runtime Info">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Device Preferences">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Device Settings">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+
+<!ENTITY runtimeMenu_showPerformancePanel_label "Performance">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
 <!ENTITY viewMenu_label "View">
 <!ENTITY viewMenu_accesskey "V">
@@ -75,9 +76,7 @@
 <!ENTITY projectPanel_tabs "Tabs">
 <!ENTITY runtimePanel_usb "USB Devices">
 <!ENTITY runtimePanel_wifi "Wi-Fi Devices">
-<!ENTITY runtimePanel_simulator "Simulators">
 <!ENTITY runtimePanel_other "Other">
-<!ENTITY runtimePanel_installsimulator "Install Simulator">
 <!ENTITY runtimePanel_noadbhelper "Install ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Can't see your device?">
 <!ENTITY runtimePanel_refreshDevices_label "Refresh Devices">
@@ -90,7 +89,6 @@
 <!ENTITY details_location "Location">
 <!ENTITY details_manifestURL "App ID">
 <!ENTITY details_removeProject_button "Remove Project">
-<!ENTITY details_showPrepackageLog_button "Show Pre-package Log">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "New App">
@@ -150,10 +148,6 @@
 <!ENTITY devicesetting_newtext "Setting value">
 <!ENTITY devicesetting_addnew "Add new setting">
 
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Help">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -175,19 +169,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Pre-packaging Command Logs">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Simulator Options">
-<!ENTITY simulator_remove "Delete Simulator">
-<!ENTITY simulator_reset "Restore Defaults">
-<!ENTITY simulator_name "Name">
-<!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Version">
-<!ENTITY simulator_profile "Profile">
-<!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Device">
-<!ENTITY simulator_screenSize "Screen">
-<!ENTITY simulator_pixelRatio "Pixel Ratio">
-<!ENTITY simulator_tv_data "TV Simulation">
-<!ENTITY simulator_tv_data_open "Config Data">
-<!ENTITY simulator_tv_data_open_button "Open Config Directory…">
