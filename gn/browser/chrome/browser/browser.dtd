@@ -92,8 +92,11 @@ same accesskey but will never be visible at the same time. -->
 These two items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  moveTabOptions.label               "Eguerova tendayke">
 <!ENTITY  moveTabOptions.accesskey           "v">
+<!ENTITY  moveSelectedTabOptions.label       "Eguerova tendayke">
 <!ENTITY  moveSelectedTabOptions.accesskey   "v">
+<!ENTITY  moveToStart.label                  "Eguerova Ñepyrũme">
 <!ENTITY  moveToStart.accesskey              "S">
+<!ENTITY  moveToEnd.label                    "Eguerova ipahápe">
 <!ENTITY  moveToEnd.accesskey                "E">
 <!ENTITY  moveToNewWindow.label              "Ovetã pyahúpe jegueraha">
 <!ENTITY  moveToNewWindow.accesskey          "W">
