@@ -440,9 +440,12 @@
 <!ENTITY openMessageWindowCmd.label "წერილის გახსნა">
 <!ENTITY openMessageWindowCmd.accesskey "ხ">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "გახსნა განსახილველად">
+<!ENTITY openConversationCmd.label "სასაუბროში გახსნა">
 <!ENTITY openConversationCmd.accesskey "ს">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openInConversationCmd.label "სასაუბროში გახსნა">
+<!ENTITY openInConversationCmd.accesskey "ს">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "დანართები">
 <!ENTITY openAttachmentListCmd.accesskey "დ">
 <!ENTITY openFeedMessage1.label "არხის გზავნილის გახსნა">
