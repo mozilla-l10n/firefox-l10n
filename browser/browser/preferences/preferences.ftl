@@ -62,7 +62,7 @@ close-button =
 
 feature-enable-requires-restart = { -brand-short-name } perlu mula semula untuk dayakan ciri ini.
 feature-disable-requires-restart = { -brand-short-name } perlu mula semula untuk nyahdayakan ciri ini.
-should-restart-title = Mula semula { -brand-short-name }
+should-restart-title = Mula Semula { -brand-short-name }
 should-restart-ok = Mulakan { -brand-short-name } sekarang
 cancel-no-restart-button = Batal
 restart-later = Mula semula Kemudian
