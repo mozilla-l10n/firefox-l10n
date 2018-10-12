@@ -46,3 +46,21 @@ policy-DNSOverHTTPS = Kefluniañ an DNS dre HTTPS.
 policy-DontCheckDefaultBrowser = Diweredekaat gwiriadur ar merdeer dre ziouer e-pad al loc'hadur.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Gweredekaat pe diweredekaat stankadur an endalc'hadoù. Gallout a rit prennañ an dibab-mañ.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Staliañ, distaliañ pe prennañ askouezhioù. An dibarzh staliañ a gemer URLoù pe treugoù evel arventennoù. An dibarzhioù distaliañ ha prennañ a gemer naoudioù askouezhioù.
+policy-FlashPlugin = Aotren pe difenn arver an enlugellad Flash.
+policy-HardwareAcceleration = M'eo lakaet da Gaou e vo diweredekaet herrekadur ar periant.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Arventennañ ar bennbajenn. Gallout a rit ivez prennañ anezhi.
+policy-InstallAddonsPermission = Aotren lec'hiennoù 'zo da staliañ askouezhioù.
+policy-NoDefaultBookmarks = Diweredekaat krouidigezh ar sinedoù dre ziouer roet gant { -brand-short-name }, hag ar sinedoù speredek (Gweladennet ar muiañ, ivinelloù nevesañ). Evezh: ar reolenn-mañ a zo efedus ar wech kentañ vez loc'het Firefox hepken.
+policy-OfferToSaveLogins = Rediañ an arventenn evit aotren { -brand-short-name } da ginnig enrollañ an titouroù kennaskañ. Ar gwerzhioù Gwir ha Gaou a zo asantet.
+policy-OverrideFirstRunPage = Merañ ar bajenn loc'hadur kentañ. Laoskit ar reolenn-mañ goullo ma fell deoc'h diweredekaat ar bajenn loc'hadur kentañ.
+policy-OverridePostUpdatePage = Merañ ar pajenn "Petra nevez?" goude un hizivadenn. Laoskit ar reolenn-mañ goullo ma fell deoc'h diweredekaat ar bajenn goude un hizivadenn.
+policy-Permissions = Kefluniañ an aotreoù evit ar c'hamera, ar mikro, al lec'hiadurezh hag ar rebuzadurioù.
+policy-PopupBlocking = Aotren lec'hiennoù 'zo da skrammañ ar prenestroù diflugell dre ziouer.
+policy-Proxy = Kefluniañ arventennoù ar proksi.
+policy-RequestedLocales = Merañ roll ar yezhoù goulennet gant an arload, en urzh.
