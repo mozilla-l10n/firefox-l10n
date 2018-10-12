@@ -23,10 +23,14 @@
 <!ENTITY  reloadTab.accesskey                "Y">
 <!ENTITY  reloadAllTabs.label                "Bütün vərəqləri yenilə">
 <!ENTITY  reloadAllTabs.accesskey            "B">
+<!ENTITY  selectAllTabs.label                "Bütün vərəqləri seç">
+<!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Vərəqi çoxalt">
 <!ENTITY  duplicateTab.accesskey             "D">
+<!ENTITY  closeTabOptions.label              "Vərəq seçimlərini qapat">
+<!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -38,19 +42,29 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Seçilən Vərəqləri Qapat">
 <!ENTITY  closeSelectedTabs.accesskey        "S">
 
+<!ENTITY  closeTabs.label                    "Vərəqləri qapat">
+<!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "Vərəqləri bərkid">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "P">
 <!ENTITY  unpinSelectedTabs.label            "Vərəqləri çıxart">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Seçilən vərəqləri yenidən yüklə">
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Vərəqləri yenilə">
+<!ENTITY  reloadTabs.accesskey               "R">
 <!ENTITY  bookmarkSelectedTabs.label         "Vərəqləri Əlfəcinlə…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,8 +73,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Vərəqi bərkid">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "B">
 <!ENTITY  unpinTab.label                     "Vərəqi çıxart">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "t">
 <!ENTITY  sendTabToDevice.label              "Vərəqi cihaza göndər">
 <!ENTITY  sendTabToDevice.accesskey          "d">
@@ -68,12 +88,26 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.label             "Keçidi cihaza göndər">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Vərəqin yerini dəyişdir">
+<!ENTITY  moveTabOptions.accesskey           "v">
+<!ENTITY  moveSelectedTabOptions.label       "Vərəqlərin yerini dəyişdir">
+<!ENTITY  moveSelectedTabOptions.accesskey   "v">
+<!ENTITY  moveToStart.label                  "Başa qoy">
+<!ENTITY  moveToStart.accesskey              "S">
+<!ENTITY  moveToEnd.label                    "Axıra qoy">
+<!ENTITY  moveToEnd.accesskey                "E">
 <!ENTITY  moveToNewWindow.label              "Yeni pəncərəyə daşı">
 <!ENTITY  moveToNewWindow.accesskey          "p">
 <!ENTITY  reopenInContainer.label            "Konteynerdə təkrar aç">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Bütün vərəqləri əlfəcinlə…">
 <!ENTITY  bookmarkAllTabs.accesskey          "V">
+<!ENTITY  bookmarkTab.label                  "Vərəqi əlfəcinlə">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "B">
 <!ENTITY  undoCloseTab.label                 "Qapatılan vərəqləri geri al">
 <!ENTITY  undoCloseTab.accesskey             "g">
 <!ENTITY  closeTab.label                     "Vərəqi qapat">
@@ -114,6 +148,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "B">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bütün vərəqləri əlfəcinlə…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "V">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Seçilən vərəqləri əlfəcinlə…">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Bütün vərəqləri seç">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Qapatılan vərəqləri geri al">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "g">
 
@@ -199,6 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Bu səhifəyə abunə ol">
 <!ENTITY subscribeToPageMenuitem.label "Bu səhifəyə abunə ol…">
+
 <!ENTITY addCurPagesCmd.label "Bütün vərəqləri əlfəcinlə…">
 <!ENTITY showAllBookmarks2.label "Bütün əlfəcinləri göstər">
 <!ENTITY recentBookmarks.label "Yeni əlfəcinlənmiş">
@@ -784,6 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Sayt Təhlükəsizliyi">
 
+<!ENTITY identity.connection "Bağlantı">
 <!ENTITY identity.connectionSecure "Təhlükəsiz Əlaqə">
 <!ENTITY identity.connectionNotSecure "Əlaqə Təhlükəsiz deyil">
 <!ENTITY identity.connectionFile "Bu səhifə sizin kompüterinizdə saxlanıb.">
@@ -950,6 +990,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Əngəlləmə əlavə et…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Bütün aşkarlanmış izləyicilər">
+<!ENTITY contentBlocking.trackingProtection3.label "İzləyicilər">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is

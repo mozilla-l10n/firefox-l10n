@@ -55,3 +55,4 @@ browser-languages-select-language =
     .placeholder = Əlavə ediləcək dili seçin…
 browser-languages-installed-label = Quraşdırılmış dillər
 browser-languages-available-label = Mövcud dillər
+browser-languages-error = { -brand-short-name } hazırda dillərinizi yeniləyə bilmir. İnternetə qoşulu olduğunuza əmin olun və təkrar yoxlayın.
