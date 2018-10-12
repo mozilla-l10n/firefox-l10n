@@ -8,6 +8,9 @@
 <!ENTITY setColor1.label "Klikniśo na barwu abo">
 <!ENTITY setColor2.label "zapódajśo barwowe mě HTML">
 <!ENTITY setColor2.accessKey "H">
+<!ENTITY chooseColor1.label "Wubjeŕśo barwu:">
+<!ENTITY chooseColor2.label "Zapódajśo rěd znamuškow HTML za barwu">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(na pś: &quot;#0000ff&quot; abo &quot;blue&quot;):">
 <!ENTITY default.label "Standardny">
 <!ENTITY default.accessKey "S">
