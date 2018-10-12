@@ -109,6 +109,10 @@ was trying to connect. -->
 <p>Si esteu en una xarxa empresarial o utilitzeu programari antivirus, podeu posar-vos en contacte amb l'equip d'assistència tècnica. També podeu notificar el problema a l'administrador del lloc web.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Segons el rellotge del vostre ordinador, la data i l'hora actuals són: <span id='wrongSystemTime_systemDate2'/>. Assegureu-vos que l'ordinador tingui definits l'hora, data i fus horari correctes als paràmetres del sistema i, a continuació, torneu a carregar <span class='hostname'/>.</p>
+<p>Si el l'hora del rellotge és correcta, és probable que el lloc web estigui mal configurat i no hi podeu fer res per resoldre-ho. Podeu notificar el problema a l'administrador del lloc web.</p>
+">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>Molt probablement, l'error és del lloc web i no hi podeu fer res per resoldre'l. Podeu notificar el problema a l'administrador del lloc web.</p>
@@ -146,7 +150,8 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Connexió insegura">
 <!ENTITY certerror.pagetitle2  "Avís: Risc potencial de seguretat">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Aquest lloc utilitza HSTS (HTTP Strict Transport Security), que vol dir que el &brandShortName; només s'hi pot connectar de forma segura. Per tant, no és possible afegir una excepció per a aquest certificat.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Aquest lloc utilitza HSTS (HTTP Strict Transport Security), que vol dir que el &brandShortName; només s'hi pot connectar de forma segura. Per tant, no és possible afegir cap excepció per a aquest certificat.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> té una política de seguretat anomenada «HTTP Strict Transport Security» (Seguretat estricta de transport HTTP, o HSTS), que vol dir que el &brandShortName; només pot connectar-s'hi de forma segura. No podeu afegir cap excepció per visitar aquest lloc.">
 <!ENTITY certerror.copyToClipboard.label "Copia el text al porta-retalls">
 
 <!ENTITY inadequateSecurityError.title "La connexió no és segura">
@@ -157,6 +162,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Pàgina blocada">
 
 <!ENTITY clockSkewError.title "L'hora del vostre ordinador no és correcta">
+<!ENTITY clockSkewError.longDesc "Segons el vostre ordinador, la data i l'hora actuals són: <span id='wrongSystemTime_systemDate1'/>, cosa que impedeix al &brandShortName; establir una connexió segura. Per visitar <span class='hostname'></span>, actualitzeu el rellotge de l'ordinador als paràmetres del sistema per tal que coincideixi amb la data i hora actuals i el fus horari i, a continuació, torneu a carregar <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Sembla que la configuració actual de seguretat a la xarxa està causant aquest error. Voleu utilitzar la configuració per defecte?">
 <!ENTITY prefReset.label "Restaura la configuració per defecte">
