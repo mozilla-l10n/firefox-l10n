@@ -5,4 +5,5 @@
 restart-required-title = Perlu Mula Semula
 restart-required-header = Maaf. Kami hanya perlukan sedikit pembaikan untuk meneruskan.
 restart-required-intro = Kami baru sahaja memasang kemas kini di latar belakang. Klik Mula Semula { -brand-short-name } untuk menyiapkan pemasangan.
-restart-required-description = Kami akan pulihkan semua halaman tetingkap dan tab selepas itu, sehingga anda boleh menjadi perjalanan anda dengan cepat.
+restart-required-description = Kami akan pulihkan semua halaman tetingkap dan tab selepas itu supaya anda boleh teruskan pelayaran.
+restart-button-label = Mula Semula { -brand-short-name }
