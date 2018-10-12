@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Impedir que el navegador instale y actualice l
 policy-DisableTelemetry = Desactivar la Telemetría.
 policy-DisplayBookmarksToolbar = Mostrar la Barra de herramientas de marcadores de forma predeterminada.
 policy-DisplayMenuBar = Mostrar la Barra de menú de manera predeterminada.
+policy-DNSOverHTTPS = Configurar DNS por sobre HTTPS
 policy-DontCheckDefaultBrowser = Deshabilitar la comprobación de Navegador predeterminado al inicio.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Habilitar o deshabilitar el bloqueo de contenido y bloquearlo opcionalmente.
