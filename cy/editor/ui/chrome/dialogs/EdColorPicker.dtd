@@ -8,6 +8,9 @@
 <!ENTITY setColor1.label "Cliciwch ar liw neu">
 <!ENTITY setColor2.label "rhoi llinell HTML lliw">
 <!ENTITY setColor2.accessKey "H">
+<!ENTITY chooseColor1.label "Dewis lliw:">
+<!ENTITY chooseColor2.label "Rhoi llinyn liw HTML">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(e.e.: &quot;#0000ff&quot; neu &quot;blue&quot;):">
 <!ENTITY default.label "Rhagosodiad">
 <!ENTITY default.accessKey "R">
