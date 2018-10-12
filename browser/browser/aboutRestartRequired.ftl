@@ -4,3 +4,6 @@
 
 restart-required-title = საჭიროებს ხელახლა გაშვებას
 restart-required-header = უკაცრავად. გასაგრძელებლად, კიდევ ერთი მცირე რამ უნდა გააკეთოთ.
+restart-required-intro = ახლახან განახლება დაყენდა ფონურ რეჟიმში. გაუშვით ხელახლა { -brand-short-name } განახლების ასახვის დასასრულებლად.
+restart-required-description = ყველა გახსნილი გვერდი, ფანჯარა და ჩანართი ისევ აღდგება, ასე რომ სწრაფადვე შეძლებთ, დაუბრუნდეთ თქვენს საქმეს.
+restart-button-label = ხელახლა გაეშვას { -brand-short-name }
