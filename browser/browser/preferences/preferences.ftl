@@ -833,7 +833,7 @@ collection-backlogged-crash-reports-link = Află mai multe
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Securitate
-security-browsing-protection = Protecție împotriva conținutul înșelător și a programelor periculoase
+security-browsing-protection = Protecție împotriva conținutului înșelător și a programelor periculoase
 security-enable-safe-browsing =
     .label = Blochează conținutul periculos și înșelător
     .accesskey = B

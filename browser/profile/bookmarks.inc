@@ -10,8 +10,8 @@
 #define bookmarks_title Marcaje
 #define bookmarks_heading Marcaje
 
-#define bookmarks_toolbarfolder Dosarul „Bară pentru marcaje”
-#define bookmarks_toolbarfolder_description Adaugă marcajele în acest dosar pentru a le vedea afișate pe bara marcajelor
+#define bookmarks_toolbarfolder Dosarul barei de marcaje
+#define bookmarks_toolbarfolder_description Adaugă aici marcajele ca să apară afișate în bara de marcaje
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
