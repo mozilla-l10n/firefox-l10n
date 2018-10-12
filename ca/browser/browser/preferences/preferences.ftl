@@ -525,6 +525,7 @@ privacy-header = Privadesa del navegador
 ## Privacy Section - Forms
 
 forms-header = Formularis i contrasenyes
+logins-header = Inicis de sessió i contrasenyes
 forms-ask-to-save-logins =
     .label = Demana si vull desar les dades d'inici de sessió i contrasenyes dels llocs web
     .accesskey = d
@@ -684,6 +685,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Elements de seguiment lents
     .accesskey = s
 content-blocking-fastblock-new-description = Bloca només els elements de seguiment que alenteixen la càrrega de les pàgines.
+content-blocking-tracking-protection-trackers-label =
+    .label = Elements de seguiment
+    .accesskey = t
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Tots els elements de seguiment detectats
     .accesskey = T

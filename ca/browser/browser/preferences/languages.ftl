@@ -55,3 +55,4 @@ browser-languages-select-language =
     .placeholder = Seleccioneu la llengua que voleu afegir…
 browser-languages-installed-label = Llengües instal·lades
 browser-languages-available-label = Llengües disponibles
+browser-languages-error = El { -brand-short-name } no ha pogut actualitzar les llengües. Comproveu que esteu connectat a Internet o torneu-ho a provar.
