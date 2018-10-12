@@ -8,6 +8,9 @@
 <!ENTITY setColor1.label "Klikit war ul liv pe">
 <!ENTITY setColor2.label "roit un hedad liv HTML">
 <!ENTITY setColor2.accessKey "H">
+<!ENTITY chooseColor1.label "Dibabit ul liv:">
+<!ENTITY chooseColor2.label "Enankit ur chadenn liv HTML">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(d.sk.: &quot;#0000ff&quot; pe &quot;blue&quot;):">
 <!ENTITY default.label "Dre ziouer">
 <!ENTITY default.accessKey "D">
