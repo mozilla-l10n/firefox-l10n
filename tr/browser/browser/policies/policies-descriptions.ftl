@@ -63,6 +63,7 @@ policy-OverridePostUpdatePage = Güncelleme sonrası “Yenilikler” sayfasın�
 policy-Permissions = Kamera, mikrofon, konum ve bildirim izinlerini yapılandır.
 policy-PopupBlocking = Belirli web sitelerin varsayılan olarak açılır pencere açmasına izin ver.
 policy-Proxy = Vekil sunucu ayarlarını yapılandır.
+policy-RequestedLocales = Uygulamada kullanılması istenen dilleri tercih sırasına göre ayarla.
 policy-SanitizeOnShutdown = Kapanırken tüm gezinti verilerini temizle.
 policy-SearchBar = Arama çubuğunun varsayılan konumunu ayarla. Kullanıcı daha sonra özelleştirebilir.
 policy-SearchEngines = Arama motoru ayarlarını yapılandır. Bu ilke yalnızca Extended Support Release (ESR) sürümünde geçerlidir.
