@@ -88,8 +88,10 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  reopenInContainer.accesskey        "ย">
 <!ENTITY  bookmarkAllTabs.label              "เพิ่มที่คั่นหน้าสำหรับแท็บทั้งหมด…">
 <!ENTITY  bookmarkAllTabs.accesskey          "บ">
+<!ENTITY  bookmarkTab.label                  "เพิ่มที่คั่นหน้าสำหรับแท็บ">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "พ">
 <!ENTITY  undoCloseTab.label                 "เลิกทำการปิดแท็บ">
 <!ENTITY  undoCloseTab.accesskey             "ด">
 <!ENTITY  closeTab.label                     "ปิดแท็บ">
@@ -130,6 +132,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ง">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "เพิ่มที่คั่นหน้าสำหรับแท็บทั้งหมด…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "บ">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "เพิ่มที่คั่นหน้าสำหรับแท็บที่เลือก…">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "ม">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "เลิกทำการปิดแท็บ">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ด">
 
