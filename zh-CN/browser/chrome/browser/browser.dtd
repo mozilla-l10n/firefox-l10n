@@ -29,6 +29,7 @@
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "创建标签页副本">
 <!ENTITY  duplicateTab.accesskey             "D">
+<!ENTITY  closeTabOptions.label              "关闭数个标签页">
 <!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
