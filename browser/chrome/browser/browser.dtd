@@ -22,7 +22,7 @@
 <!ENTITY  reloadTab.label                    "Sekmeyi tazele">
 <!ENTITY  reloadTab.accesskey                "z">
 <!ENTITY  reloadAllTabs.label                "Tüm sekmeleri tazele">
-<!ENTITY  reloadAllTabs.accesskey            "T">
+<!ENTITY  reloadAllTabs.accesskey            "r">
 <!ENTITY  selectAllTabs.label                "Tüm sekmeleri seç">
 <!ENTITY  selectAllTabs.accesskey            "ü">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
