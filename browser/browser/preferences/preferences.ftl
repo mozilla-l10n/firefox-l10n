@@ -525,6 +525,7 @@ privacy-header = ბრაუზერის პირადულობა
 ## Privacy Section - Forms
 
 forms-header = ველები და პაროლები
+logins-header = ანგარიშის სახელები და პაროლები
 forms-ask-to-save-logins =
     .label = საიტებზე შესვლის მონაცემების დამახსოვრების მოთხოვნა
     .accesskey = შ
@@ -684,6 +685,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = ჩატვირთვის შემნელებელი
     .accesskey = შ
 content-blocking-fastblock-new-description = მხოლოდ იმ მეთვალყურეების შეზღუდვა, რომლებიც ანელებს გვერდის ჩატვირთვას.
+content-blocking-tracking-protection-trackers-label =
+    .label = მეთვალყურეები
+    .accesskey = მ
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = აღმოჩენილი მეთვალყურეები
     .accesskey = თ
