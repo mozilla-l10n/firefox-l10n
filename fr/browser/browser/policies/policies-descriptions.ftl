@@ -62,6 +62,7 @@ policy-OverridePostUpdatePage = Contrôle la page « Nouveautés » après une
 policy-Permissions = Configure les permissions pour la caméra, le microphone, la localisation et les notifications.
 policy-PopupBlocking = Autorise certains sites web à afficher des popups par défaut.
 policy-Proxy = Configure les paramètres du proxy.
+policy-RequestedLocales = Définit la liste des locales demandées par l’application, dans l’ordre de préférence.
 policy-SanitizeOnShutdown = Supprime toutes les données de navigation à la fermeture.
 policy-SearchBar = Définit l’emplacement par défaut de la barre de recherche. L’utilisateur garde la possibilité de la personnaliser.
 policy-SearchEngines = Configure les paramètres du moteur de recherche. Cette propriété n’est disponible que sur la version Extended Support Release (ESR).
