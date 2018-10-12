@@ -806,12 +806,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Pagina este stocată pe calculator.">
 <!ENTITY identity.connectionVerified2 "Ești conectat în mod securizat la acest site, deținut de:">
 <!ENTITY identity.connectionInternal "Aceasta este o pagină securizată &brandShortName;.">
-<!ENTITY identity.extensionPage "Această pagină este încărcată de la o extensie.">
+<!ENTITY identity.extensionPage "Pagina a fost încărcată de la o extensie.">
 <!ENTITY identity.insecureLoginForms2 "Datele de autentificare introduse pe această pagină ar putea fi compromise.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; a blocat părți ale acestei pagini care nu sunt sigure.">
-<!ENTITY identity.passiveLoaded "Părți din pagină nu sunt sigure (cum ar fi imaginile).">
+<!ENTITY identity.activeBlocked "&brandShortName; a blocat părți de pe această pagină care nu sunt sigure.">
+<!ENTITY identity.passiveLoaded "Unele părți din pagină nu sunt sigure (cum ar fi imaginile).">
 <!ENTITY identity.activeLoaded "Ai dezactivat protecția pe această pagină.">
 <!ENTITY identity.weakEncryption "Această pagină folosește criptare slabă.">
 
