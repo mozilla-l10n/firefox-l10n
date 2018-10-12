@@ -45,3 +45,4 @@ browser-languages-window =
     .title = { -brand-short-name } nyelvi beállítások
     .style = width: 40em
 browser-languages-description = A { -brand-short-name } az első nyelvet jeleníti meg alapértelmezettként, az alternatív nyelveket pedig szükség esetén a megjelenésük sorrendjében jeleníti meg.
+browser-languages-search = Több nyelv keresése…
