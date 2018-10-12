@@ -2,14 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY playButton.playLabel "დაკვრა">
-<!ENTITY playButton.pauseLabel "პაუზა">
-<!ENTITY muteButton.muteLabel "ხმის ამორთვა">
+<!ENTITY playButton.playLabel "გაშვება">
+<!ENTITY playButton.pauseLabel "შეჩერება">
+<!ENTITY muteButton.muteLabel "დადუმება">
 <!ENTITY muteButton.unmuteLabel "ხმის ჩართვა">
-<!ENTITY fullscreenButton.enterfullscreenlabel "სრული ეკრანი">
+<!ENTITY fullscreenButton.enterfullscreenlabel "სრულ ეკრანზე">
 <!ENTITY fullscreenButton.exitfullscreenlabel "სრულეკრანიანი რეჟიმიდან გამოსვლა">
-<!ENTITY castingButton.castingLabel "ეკრანზე გაშვება">
-<!ENTITY closedCaption.off "გამორთული">
+<!ENTITY castingButton.castingLabel "ეკრანზე გადაცემა">
+<!ENTITY closedCaption.off "გამორთ.">
+
+<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
+     accessibility software to clarify what the slider is for. -->
+<!ENTITY volumeScrubber.label "ხმის რბია">
 
 <!ENTITY stats.media "მედია">
 <!ENTITY stats.size "ზომა">
@@ -47,3 +51,4 @@ unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
 <!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
+
