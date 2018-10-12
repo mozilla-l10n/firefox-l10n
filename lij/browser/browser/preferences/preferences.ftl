@@ -525,6 +525,7 @@ privacy-header = Privacy do navegatô
 ## Privacy Section - Forms
 
 forms-header = Form e Paròlle segrete
+logins-header = Login e Poule segrete
 forms-ask-to-save-logins =
     .label = Domanda se sarvâ acessi e poule segrete pe-i sciti
     .accesskey = r
@@ -684,6 +685,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Traciatoî lenti a caregâ
     .accesskey = T
 content-blocking-fastblock-new-description = Blòcca solo i traciatoî che no fan caregâ e pagine a-a spedia.
+content-blocking-tracking-protection-trackers-label =
+    .label = Traciatoî
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Tutti i traciatoî individoæ
     .accesskey = T
