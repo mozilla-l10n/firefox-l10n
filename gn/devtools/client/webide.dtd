@@ -41,6 +41,7 @@
 <!ENTITY runtimeMenu_showSettings_label "Mba'e'oka mbohekoha">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "Ñoha’angaha">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
 <!ENTITY viewMenu_label "Hecha">
