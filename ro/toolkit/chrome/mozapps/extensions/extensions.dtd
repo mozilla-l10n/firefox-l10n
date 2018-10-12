@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Managerul de suplimente">
+<!ENTITY addons.windowTitle                   "Manager de suplimente">
 
 <!ENTITY search.placeholder2                  "Caută pe addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Căutare">
@@ -38,7 +38,7 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activează verificarea securității actualizărilor suplimentelor">
 
 <!-- categories / views -->
-<!ENTITY view.discover.label                  "Obține suplimente">
+<!ENTITY view.discover.label                  "Descarcă suplimente">
 <!ENTITY view.recentUpdates.label             "Actualizări recente">
 <!ENTITY view.availableUpdates.label          "Actualizări disponibile">
 
@@ -108,10 +108,10 @@
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuie la dezvoltarea acestui supliment">
 
-<!ENTITY cmd.showReleaseNotes.label           "Afișează notele privind lansarea">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Afișează notele privind lansarea pentru această actualizare">
-<!ENTITY cmd.hideReleaseNotes.label           "Ascunde notele privind lansarea">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Ascunde notele privind lansarea pentru această actualizare">
+<!ENTITY cmd.showReleaseNotes.label           "Afișează notele asupra versiunii">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Afișează notele asupra versiunii pentru această actualizare">
+<!ENTITY cmd.hideReleaseNotes.label           "Ascunde notele asupra versiunii">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Ascunde notele asupra versiunii pentru această actualizare">
 <!ENTITY cmd.findReplacement.label            "Găsești o extensie înlocuitoare">
 
 <!-- discovery view -->
@@ -187,9 +187,9 @@
 <!ENTITY addon.includeUpdate.label            "Inclus în actualizare">
 <!ENTITY addon.updateAvailable.label          "Este disponibilă o actualizare">
 <!ENTITY addon.checkingForUpdates.label       "Se caută actualizări…">
-<!ENTITY addon.releaseNotes.label             "Notele privind lansarea:">
+<!ENTITY addon.releaseNotes.label             "Note asupra versiunii:">
 <!ENTITY addon.loadingReleaseNotes.label      "Se încarcă…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Ne pare rău, dar a intervenit o eroare la încărcarea notelor privind lansarea.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Ne pare rău, dar a apărut o eroare la încărcarea notelor asupra versiunii.">
 
 <!ENTITY addon.createdBy.label                "Creat de ">
 
@@ -213,14 +213,14 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Dezvoltatorii interesați în obținerea verificării suplimentelor lor pot continua să citească ">
+<!ENTITY disabledUnsigned.devInfo.start "Dezvoltatorii interesați în verificarea suplimentelor pot continua cu citirea ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
 <!ENTITY pluginDeprecation.description "Lipsește ceva? Unele pluginuri nu mai sunt suportate de &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Află mai multe">
 
-<!ENTITY legacyWarning.showLegacy "Afișează extensiile învechite">
-<!ENTITY legacyExtensions.title "Extensii învechite">
+<!ENTITY legacyWarning.showLegacy "Afișează extensiile moștenite">
+<!ENTITY legacyExtensions.title "Extensii moștenite">
 <!ENTITY legacyExtensions.description "Aceste extensii nu îndeplinesc standardele actuale ale &brandShortName; astfel încât au fost dezactivate.">
 <!ENTITY legacyExtensions.learnMore "Află despre schimbările aduse suplimentelor">

@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Rapoarte de defecțiuni">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "ID-ul raportului">
 <!ENTITY aboutSupport.crashes.sendDate "Trimis">
 <!ENTITY aboutSupport.crashes.allReports "Toate rapoartele de defecțiuni">
@@ -33,15 +33,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureVersion "Versiune">
 <!ENTITY aboutSupport.featureId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "Funcționalități experimentale">
-<!ENTITY aboutSupport.experimentName "Nume">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Descriere">
-<!ENTITY aboutSupport.experimentActive "Activ">
-<!ENTITY aboutSupport.experimentEndDate "Data finală">
-<!ENTITY aboutSupport.experimentHomepage "Pagina de start">
-<!ENTITY aboutSupport.experimentBranch "Ramură">
-
 <!ENTITY aboutSupport.appBasicsTitle "Informații de bază privind aplicația">
 <!ENTITY aboutSupport.appBasicsName "Nume">
 <!ENTITY aboutSupport.appBasicsVersion "Versiune">
@@ -53,11 +44,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Istoricul actualizărilor">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Afișează istoricul actualizărilor">
 
-<!ENTITY aboutSupport.appBasicsProfileDir "Directorul de profiluri">
+<!ENTITY aboutSupport.appBasicsProfileDir "Director de profiluri">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Dosarul profilului">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Dosar de profiluri">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Pluginuri activate">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Configurația versiunii compilate">
@@ -118,7 +109,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yHandlerUsed "Handler accesibil folosit">
 <!ENTITY aboutSupport.a11yInstantiator "Instanțiator de accesibilitate">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Versiuni ale bibliotecii">
+<!ENTITY aboutSupport.libraryVersionsTitle "Versiuni de bibliotecă">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Istoricul instalării">
 <!ENTITY aboutSupport.updateHistoryTitle "Istoricul actualizărilor">
@@ -128,7 +119,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "Apeluri de sistem respinse">
-<!ENTITY aboutSupport.sandboxSyscallIndex "">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "Secunde în urmă">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
