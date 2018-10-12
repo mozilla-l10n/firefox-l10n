@@ -519,3 +519,4 @@
 <!ENTITY leanplum_default_notifications_channel "Notifiche push di &brandShortName;">
 <!ENTITY updater_notification_channel "Aggiornamenti app">
 <!ENTITY synced_tabs_notification_channel "Schede sincronizzate">
+<!ENTITY site_notifications_channel "Notifiche siti">
