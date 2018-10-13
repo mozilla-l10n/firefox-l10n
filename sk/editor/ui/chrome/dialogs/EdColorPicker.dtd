@@ -8,6 +8,9 @@
 <!ENTITY setColor1.label "Kliknite na farbu alebo">
 <!ENTITY setColor2.label "zadajte reťazec farby HTML">
 <!ENTITY setColor2.accessKey "H">
+<!ENTITY chooseColor1.label "Vyberte farbu:">
+<!ENTITY chooseColor2.label "Zadajte reťazec farby HTML">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(napr.: &quot;#0000ff&quot; alebo &quot;blue&quot;):">
 <!ENTITY default.label "Implicitná">
 <!ENTITY default.accessKey "I">

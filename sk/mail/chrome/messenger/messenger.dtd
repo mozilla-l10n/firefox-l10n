@@ -443,6 +443,9 @@
 <!ENTITY openConversationCmd.label "Otvoriť ako konverzáciu">
 <!ENTITY openConversationCmd.accesskey "c">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openInConversationCmd.label "Otvoriť ako konverzáciu">
+<!ENTITY openInConversationCmd.accesskey "c">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Prílohy">
 <!ENTITY openAttachmentListCmd.accesskey "l">
 <!ENTITY openFeedMessage1.label "Pri otváraní správ informačného kanála">
