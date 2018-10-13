@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "D'acord">
 <!ENTITY defaultButton.accesskey "D">
+
+<!ENTITY moreActionsButton.accessibleLabel "Més accions">
