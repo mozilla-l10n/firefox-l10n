@@ -25,7 +25,7 @@
 <!ENTITY fileMenu.label               "ໄຟລ໌">
 <!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "ຫນ້າຕ່າງໃຫມ່">
+<!ENTITY newWindowCmd.label           "ວິນໂດໃຫມ່">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 

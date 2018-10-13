@@ -6,7 +6,8 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "ເລີ່ມທຳງານໃນໂຫມດປອດໄພ">
-<!ENTITY refreshProfile.label         "ລ້າງ &brandShortName; ໃຫມ່">
+<!ENTITY refreshProfile.label         "ຟື້ນຟູ &brandShortName;">
+
 
 
 

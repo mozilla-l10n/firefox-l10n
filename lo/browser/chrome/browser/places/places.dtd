@@ -46,9 +46,9 @@
 
 <!ENTITY cmd.open.label                  "ເປີດ">
 <!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "ເປີດໃນຫນ້າຕ່າງໃຫມ່">
+<!ENTITY cmd.open_window.label           "ເປີດໃນວິນໂດໃຫມ່">
 <!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "ເປີດໃນຫນ້າຕ່າງສ່ວນຕົວໃຫມ່">
+<!ENTITY cmd.open_private_window.label     "ເປີດໃນວິນໂດສ່ວນຕົວໃຫມ່">
 <!ENTITY cmd.open_private_window.accesskey "P">
 <!ENTITY cmd.open_tab.label              "ເປິດໃນແທັບໃຫມ່">
 <!ENTITY cmd.open_tab.accesskey          "w">
@@ -78,7 +78,6 @@
 <!ENTITY col.url.label           "ຕຳແຫນ່ງທີ່ຕັ້ງ">
 <!ENTITY col.mostrecentvisit.label "ເຂົ້າເບິ່ງລ່າສຸດ">
 <!ENTITY col.visitcount.label    "ຈຳນວນຄັ້ງທີ່ເຂົ້າເບິ່ງ">
-<!ENTITY col.description.label   "ຄຳອະທິບາຍ">
 <!ENTITY col.dateadded.label     "ເພີ່ມເມື່ອ">
 <!ENTITY col.lastmodified.label  "ດັດແກ້ລ່າສຸດເມື່ອ">
 
@@ -99,6 +98,7 @@
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "ນ້ອຍລົງ">
 <!ENTITY detailsPane.less.accesskey "e">
+
 <!ENTITY detailsPane.selectAnItemText.description "ເລືອກລາຍການທີ່ຈະເບິ່ງແລະແກ້ໄຂຄຸນສົມບັດຂອງມັນ">
 
 <!ENTITY view.label               "ມູມມອງ">
