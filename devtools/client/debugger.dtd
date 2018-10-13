@@ -48,7 +48,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
-<!ENTITY debuggerUI.sources.toggleBreakpoints "Activează/dezactivează toate break-point-urile">
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Activează/dezactivează toate punctele de oprire">
 
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
@@ -65,7 +65,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
-<!ENTITY debuggerUI.ignoreCaughtExceptions           "Ignoră excepțiile capturate">
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "Ignoră excepțiile prinse">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
@@ -146,22 +146,22 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
-<!ENTITY debuggerUI.condBreakPanelTitle "Break-point-ul va întrerupe execuția numai dacă expresia următoare este adevărată">
+<!ENTITY debuggerUI.condBreakPanelTitle "Punctul de oprire va întrerupe execuția numai dacă expresia următoare este adevărată">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
-<!ENTITY debuggerUI.seMenuBreak     "Adaugă break point">
+<!ENTITY debuggerUI.seMenuBreak     "Adaugă punct de oprire">
 <!ENTITY debuggerUI.seMenuBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
-<!ENTITY debuggerUI.seMenuCondBreak     "Adaugă break point condițional">
+<!ENTITY debuggerUI.seMenuCondBreak     "Adaugă punct de oprire condițional">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seEditMenuCondBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
-<!ENTITY debuggerUI.seEditMenuCondBreak     "Editează break point-ul condițional">
+<!ENTITY debuggerUI.seEditMenuCondBreak     "Editează punctul de oprire condițional">
 <!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that

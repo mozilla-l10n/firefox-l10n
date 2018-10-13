@@ -6,6 +6,10 @@
    - strings. See the 'csscoverage' command for more information, and
    - devtools/client/styleeditor/styleeditor.xul for context -->
 
+<!-- LOCALIZATION NOTE : FILE This file contains the CSS Coverage Report
+   - strings. See the 'csscoverage' command for more information, and
+   - devtools/client/styleeditor/index.xul for context -->
+
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
    - keep it in English, or another language commonly spoken among web developers.
    - You want to make that choice consistent across the developer tools.
@@ -31,9 +35,11 @@
   -  <style> tag -->
 <!ENTITY csscoverage.optimize.body1 "Poți uneori accelera încărcarea mișcând">
 <!ENTITY csscoverage.optimize.body2 "etichetele din partea de jos a paginii și creând un nou element încorporat">
+<!ENTITY csscoverage.optimize.body3 "element cu stilurile necesare înainte de evenimentul „load” în partea de sus. Aici sunt blocurile de stiluri de care ai nevoie:">
 
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
+<!ENTITY csscoverage.optimize.bodyX "Toate regulile sunt inline.">
 
 <!-- LOCALIZATION NOTE (csscoverage.footer1, csscoverage.footer2a,
   -  csscoverage.footer3, csscoverage.footer4): The text displayed at the
@@ -41,3 +47,5 @@
   -  is clicked -->
 <!ENTITY csscoverage.footer1 "Vezi">
 <!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
+<!ENTITY csscoverage.footer3 "articolul MDN de pe unealta de acoperire CSS">
+<!ENTITY csscoverage.footer4 "pentru atenționări la generarea acestui raport.">
