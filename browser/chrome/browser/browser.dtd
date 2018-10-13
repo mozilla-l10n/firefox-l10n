@@ -23,10 +23,14 @@
 <!ENTITY  reloadTab.accesskey                "A">
 <!ENTITY  reloadAllTabs.label                "Ail lwytho Pob Tab">
 <!ENTITY  reloadAllTabs.accesskey            "P">
+<!ENTITY  selectAllTabs.label                "Dewis Pob Tab">
+<!ENTITY  selectAllTabs.accesskey            "D">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Dyblygu Tab">
 <!ENTITY  duplicateTab.accesskey             "D">
+<!ENTITY  closeTabOptions.label              "Dewisiadau Cau Tabiau">
+<!ENTITY  closeTabOptions.accesskey          "C">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -38,19 +42,29 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Cau'r Tabiau Hyn">
 <!ENTITY  closeSelectedTabs.accesskey        "T">
 
+<!ENTITY  closeTabs.label                    "Cau Tabiau">
+<!ENTITY  closeTabs.accesskey                "T">
 <!ENTITY  pinSelectedTabs.label              "Pinio Tabiau">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "P">
 <!ENTITY  unpinSelectedTabs.label            "Dadbinio Tabiau">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Ail lwytho'r Tabiau Hyn">
 <!ENTITY  reloadSelectedTabs.accesskey       "A">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Ail-lwytho Tabiau">
+<!ENTITY  reloadTabs.accesskey               "A">
 <!ENTITY  bookmarkSelectedTabs.label         "Gosod Nod Tudalen i'r Tabiau…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "T">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,8 +73,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Pinio Tab">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Dadbinio Tab">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "D">
 <!ENTITY  sendTabToDevice.label              "Anfon Tab i Ddyfais">
 <!ENTITY  sendTabToDevice.accesskey          "D">
@@ -68,12 +88,26 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Anfon Dolen i Ddyfais">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Symud Tab">
+<!ENTITY  moveTabOptions.accesskey           "y">
+<!ENTITY  moveSelectedTabOptions.label       "Symud Tabiau">
+<!ENTITY  moveSelectedTabOptions.accesskey   "y">
+<!ENTITY  moveToStart.label                  "Symud i'r Cychwyn">
+<!ENTITY  moveToStart.accesskey              "C">
+<!ENTITY  moveToEnd.label                    "Symud i'r Diwedd">
+<!ENTITY  moveToEnd.accesskey                "D">
 <!ENTITY  moveToNewWindow.label              "Symud i Ffenestr Newydd">
 <!ENTITY  moveToNewWindow.accesskey          "N">
 <!ENTITY  reopenInContainer.label            "Ail agor mewn Cynhwysydd">
 <!ENTITY  reopenInContainer.accesskey        "A">
 <!ENTITY  bookmarkAllTabs.label              "Nod Tudalen i Bob Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  bookmarkTab.label                  "Gosod Nod Tudalen i'r Tab">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "N">
 <!ENTITY  undoCloseTab.label                 "Dadwneud Cau'r Tab">
 <!ENTITY  undoCloseTab.accesskey             "D">
 <!ENTITY  closeTab.label                     "Cau Tab">
@@ -114,6 +148,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "P">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Nod Tudalen i Bob Tab…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Gosod Nod Tudalen i'r Tabiau Hyn…">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Dewis Pob Tab">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "D">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Dadwneud Cau'r Tab">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "D">
 
@@ -199,6 +237,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Tanysgrifio i'r Dudalen Hon">
 <!ENTITY subscribeToPageMenuitem.label "Tanysgrifio i'r Dudalen Hon…">
+
 <!ENTITY addCurPagesCmd.label "Nod Tudalen i Bob Tab…">
 <!ENTITY showAllBookmarks2.label "Dangos Pob Nod Tudalen">
 <!ENTITY recentBookmarks.label "Wedi gosod Nod Tudalen yn Ddiweddar">
@@ -784,6 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Diogelwch Gwefan">
 
+<!ENTITY identity.connection "Cysylltiad">
 <!ENTITY identity.connectionSecure "Cysylltiad Pell">
 <!ENTITY identity.connectionNotSecure "Nid yw'r Cysylltiad yn Ddiogel">
 <!ENTITY identity.connectionFile "Mae'r dudalen hon wedi ei chadw ar eich cyfrifiadur.">
@@ -950,6 +990,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Ychwanegu Rhwystro…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Pob Traciwr wedi ei Ganfod">
+<!ENTITY contentBlocking.trackingProtection3.label "Tracwyr">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is

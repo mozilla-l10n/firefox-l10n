@@ -537,6 +537,7 @@ privacy-header = Preifatrwydd y Porwr
 ## Privacy Section - Forms
 
 forms-header = Ffurflenni a Chyfrineiriau
+logins-header = Mewngofnodion a Chyfrineiriau
 forms-ask-to-save-logins =
     .label = Gofyn i gadw mewngofnodion a chyfrineiriau ar gyfer gwefannau
     .accesskey = G
@@ -639,10 +640,6 @@ sitedata-block-trackers-option =
     .label = Tracwyr trydydd parti
 sitedata-block-unvisited-option =
     .label = Cwcis gwefannau heb ymweld â nhw
-sitedata-block-all-third-parties-option =
-    .label = Holl gwcis trydydd parti
-sitedata-block-always-option =
-    .label = Pob cwci (gall achosi i wefannau dorri)
 sitedata-block-all-third-party-option =
     .label = Holl gwcis trydydd parti (gall achosi i'r wefan dorri)
 sitedata-block-all-option =
@@ -696,30 +693,13 @@ content-blocking-category-label = Dewis beth i'w rwystro
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Elfennau Tracio Araf
-    .accesskey = E
-content-blocking-fastblock-description = Yn rhwystro cynnwys trydydd parti sy'n cymryd mwy na 5 eiliad i lwytho.
-content-blocking-fastblock-option-enabled =
-    .label = Rhwystro bob tro
-content-blocking-fastblock-option-disabled =
-    .label = Byth rhwystro
-content-blocking-tracking-protection-label = Tracwyr
-    .accesskey = T
-content-blocking-tracking-protection-description = Rhwystro pob traciwr hysbys (Sylw: gall rwystro rhai tudalennau rhag llwytho).
-content-blocking-tracking-protection-option-enabled =
-    .label = Rhwystro bob tro
-content-blocking-tracking-protection-option-pbm =
-    .label = Rhwystro mewn ffenestri preifat yn unig
-content-blocking-tracking-protection-option-disabled =
-    .label = Byth rhwystro
-content-blocking-tracking-protection-change-blocklist = Newid y Rhestr Rhwystro...
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Tracwyr Llwytho'n Araf
     .accesskey = A
 content-blocking-fastblock-new-description = Rhwystro dim ond y tracwyr sy'n atal tudalennau rhag llwytho'n gyflym.
+content-blocking-tracking-protection-trackers-label =
+    .label = Tracwyr
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Pob Traciwr wedi ei Ganfod
     .accesskey = P
