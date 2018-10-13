@@ -92,6 +92,10 @@
 <!ENTITY bookmarksToolbarItem.label "Elementi della barra dei segnalibri">
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Ricarica tutte le schede">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "R">
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Ricarica scheda selezionata">
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Ricarica schede selezionate">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tutte le schede nei segnalibri…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Aggiungi scheda selezionata ai segnalibri…">
