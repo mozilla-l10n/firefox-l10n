@@ -45,3 +45,5 @@ browser-languages-window =
     .title = Jazyk aplikácie { -brand-short-name }
     .style = width: 40em
 browser-languages-description = { -brand-short-name } zobrazí používateľské rozhranie v prvom vybranom jazyku. Ostatné použije podľa potreby a to vo vybranom poradí.
+browser-languages-installed-label = Nainštalované jazyky
+browser-languages-available-label = Dostupné jazyky

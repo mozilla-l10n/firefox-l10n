@@ -528,6 +528,7 @@ privacy-header = Súkromie
 ## Privacy Section - Forms
 
 forms-header = Formuláre a heslá
+logins-header = Prihlasovacie údaje
 forms-ask-to-save-logins =
     .label = Ponúkať uloženie prihlasovacích údajov na webových stránkach
     .accesskey = r
@@ -686,11 +687,14 @@ content-blocking-category-label = Vyberte si, čo chcete blokovať
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Spomaľovacie sledovacie prvky
     .accesskey = S
-content-blocking-fastblock-new-description = Blokovať len sledovacie prvky, ktoré spomaľujú načítanie stránok.
+content-blocking-fastblock-new-description = Blokované budú len sledovacie prvky, ktoré spomaľujú načítanie stránok.
+content-blocking-tracking-protection-trackers-label =
+    .label = Sledovacie prvky
+    .accesskey = l
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Všetky nájdené sledovacie prvky
     .accesskey = t
-content-blocking-tracking-protection-new-description = Blokovať všetky známe sledovacie prvky. (Môže obmedziť fungovanie niektorých stránok.)
+content-blocking-tracking-protection-new-description = Blokované budú všetky známe sledovacie prvky. (Toto môže obmedziť fungovanie niektorých stránok.)
 content-blocking-tracking-protection-option-always =
     .label = Vždy
     .accesskey = V
