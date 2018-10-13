@@ -64,3 +64,8 @@ policy-Permissions = Kefluniañ an aotreoù evit ar c'hamera, ar mikro, al lec'h
 policy-PopupBlocking = Aotren lec'hiennoù 'zo da skrammañ ar prenestroù diflugell dre ziouer.
 policy-Proxy = Kefluniañ arventennoù ar proksi.
 policy-RequestedLocales = Merañ roll ar yezhoù goulennet gant an arload, en urzh.
+policy-SanitizeOnShutdown = Skarzhañ an holl roadennoù merdeiñ pa vez serret.
+policy-SearchBar = Despizañ al lec'hiadur dre ziouer er varrenn glask. AN arveriad a c'hallo kemmañ anezhañ.
+policy-SearchEngines = Kefluniañ arventennoù al lusker enklask. Ar reolenn-mañ a c'hall bezañ lakaet en handelv skor astennet (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Staliañ ar molladoù PKCS #11.
