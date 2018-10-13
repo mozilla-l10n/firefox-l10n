@@ -6,6 +6,8 @@ do-not-track-description = Kas un arhent “Do Not Track” (na heulian) d'al le
 do-not-track-learn-more = Gouzout hiroc'h
 do-not-track-option-default =
     .label = Pa ran gant ar gwarez heuliañ hepken
+do-not-track-option-default-content-blocking =
+    .label = P'eo kefluniet { -brand-short-name } da stankañ an heulierien dinoet hepken
 do-not-track-option-always =
     .label = Atav
 pref-page =
@@ -90,6 +92,9 @@ extension-controlled-privacy-containers = Un askouezh, <img data-l10n-name="icon
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Un askouezh, <img data-l10n-name="icon"/> { $name }, a zo o reoliañ ar gwarez heuliañ.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Un askouezh, <img data-l10n-name="icon"/> { $name }, a zo o reoliañ an arventenn-mañ.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Un askouezh, <img data-l10n-name="icon"/> { $name }, a zo o reoliñ an doare da gennaskañ ouzh ar genrouedad implijet gant { -brand-short-name }.
@@ -212,6 +217,9 @@ choose-button =
     .label = Dibab…
     .accesskey = i
 choose-browser-language-description = Dibabit ar yezhoù implijet evit skrammañ lañserioù, kemennadennoù ha rebuzadurioù { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Yezhoù all...
+    .accesskey = Y
 confirm-browser-language-change-description = Adloc'hañ { -brand-short-name } evit arloañ ar c'hemmoù
 confirm-browser-language-change-button = Arloañ hag adloc'hañ
 translate-web-pages =
@@ -526,6 +534,7 @@ privacy-header = Prevezted ar merdeer
 ## Privacy Section - Forms
 
 forms-header = Furmskridoù & Gerioù-tremen
+logins-header = Titouroù kennaskañ
 forms-ask-to-save-logins =
     .label = Goulenn enrollañ an titouroù kennaskañ evit al lec'hiennoù
     .accesskey = G
@@ -612,6 +621,26 @@ sitedata-accept-third-party-visited-option =
     .label = Adalek lec'hiennoù gweladennet
 sitedata-accept-third-party-never-option =
     .label = Morse
+sitedata-allow-cookies-option =
+    .label = Asantiñ an toupinoù hag ar roadennoù lec'hienn
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Stankañ an toupinoù hag ar roadennoù lec'hienn
+    .accesskey = S
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Rizh stanket
+    .accesskey = R
+sitedata-block-trackers-option-recommended =
+    .label = Heulierien un trede (erbedet)
+sitedata-block-trackers-option =
+    .label = Heulierien un trede
+sitedata-block-unvisited-option =
+    .label = Toupinoù lec'hiennoù n'int ket bet gweladennet
+sitedata-block-all-third-party-option =
+    .label = Holl doupinoù an tredeoù (gallout a ra terriñ al lec'hiennoù)
+sitedata-block-all-option =
+    .label = An holl doupinoù (gallout a ra terriñ lec'hiennoù)
 sitedata-clear =
     .label = Skarzhañ ar roadennoù…
     .accesskey = S
@@ -621,6 +650,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Nemedennoù…
     .accesskey = N
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Hoc'h arventennoù er stankadurioù endalc'had a vir ar c'hemmoù en toupinoù hag e arventennoù ar roadennoù lec'hienn.
 
 ## Privacy Section - Address Bar
 
@@ -654,6 +687,31 @@ content-blocking-toggle-label-on = ON
 content-blocking-toggle-label-off = DIWEREDEKAET
     .accesskey = D
 content-blocking-category-label = Dibabit petra stankañ
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Heulierien gorrek
+    .accesskey = H
+content-blocking-fastblock-new-description = Stankañ an heulierien a vir ar bajennoù da gargañ buan.
+content-blocking-tracking-protection-trackers-label =
+    .label = Heulierien
+    .accesskey = H
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = An holl heulierien dinoet
+    .accesskey = d
+content-blocking-tracking-protection-new-description = Stankañ an holl heulierien anavezet. (Gallout a ra mirout pajennoù 'zo da gargañ)
+content-blocking-tracking-protection-option-always =
+    .label = Bepred
+    .accesskey = B
+content-blocking-tracking-protection-option-private =
+    .label = E prenestroù prevez hepken
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Kemmañ ar roll stankañ
+content-blocking-third-party-cookies-label =
+    .label = Toupinoù tredeoù
+    .accesskey = T
+content-blocking-reject-trackers-description = Stankañ toupinoù an tredeoù pe an hini lakaet gant heulierien hepken.
 
 ## Privacy Section - Tracking
 
