@@ -4,38 +4,67 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_label "Proiect">
 <!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "Aplicație nouă…">
 <!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "Deschide aplicația împachetată…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "Deschide aplicația găzduită…">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "Deschide aplicația…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "Instalează și execută">
 <!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "Oprește aplicația">
 <!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "Depanează aplicația">
 <!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "Elimină proiectul">
 <!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "Preferințe">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "Gestionează componentele suplimentare">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 <!ENTITY projectMenu_refreshTabs_label "Reîmprospătează filele">
 
+<!ENTITY runtimeMenu_label "Mediu de execuție">
 <!ENTITY runtimeMenu_accesskey "R">
+<!ENTITY runtimeMenu_disconnect_label "Deconectează">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
+<!ENTITY runtimeMenu_takeScreenshot_label "Captură de ecran">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "Informații despre mediul de execuție">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Preferințe dispozitiv">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showSettings_label "Setări dispozitiv">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "Performanță">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
+
+<!ENTITY viewMenu_label "Vizualizează">
 <!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_zoomin_label "Mărește">
 <!ENTITY viewMenu_zoomin_accesskey "I">
+<!ENTITY viewMenu_zoomout_label "Micșorează">
 <!ENTITY viewMenu_zoomout_accesskey "O">
 <!ENTITY viewMenu_resetzoom_label "Resetează zoomul">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
+<!ENTITY projectButton_label "Deschide aplicația">
+<!ENTITY runtimeButton_label "Selectează mediul de execuție">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+<!ENTITY key_quit "W">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -43,41 +72,87 @@
 <!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "Proiectele mele">
+<!ENTITY projectPanel_runtimeApps "Aplicații în mediul de execuție">
+<!ENTITY projectPanel_tabs "File">
 <!ENTITY runtimePanel_usb "Dispozitive USB">
 <!ENTITY runtimePanel_wifi "Dispozitive Wi-Fi">
+<!ENTITY runtimePanel_other "Altele">
+<!ENTITY runtimePanel_noadbhelper "Instalare ADB Helper">
+<!ENTITY runtimePanel_nousbdevice "Nu îți vezi dispozitivul?">
 <!ENTITY runtimePanel_refreshDevices_label "Reîmprospătează dispozitivele">
 
 <!-- Lense -->
+<!ENTITY details_valid_header "valid">
+<!ENTITY details_warning_header "avertismente">
 <!ENTITY details_error_header "erori">
 <!ENTITY details_description "Descriere">
 <!ENTITY details_location "Locație">
 <!ENTITY details_manifestURL "ID-ul aplicației">
+<!ENTITY details_removeProject_button "Elimină proiectul">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Aplicație nouă">
+<!ENTITY newAppHeader "Selectează șablonul">
+<!ENTITY newAppLoadingTemplate "Se încarcă șabloanele…">
+<!ENTITY newAppProjectName "Nume proiect:">
 
 
 <!-- Decks -->
 
+<!ENTITY deck_close "Închide">
 
 <!-- Addons -->
+<!ENTITY addons_title "Componente suplimentare">
+<!ENTITY addons_aboutaddons "Deschide Managerul de suplimente">
 
 <!-- Prefs -->
 <!ENTITY prefs_title "Preferințe">
+<!ENTITY prefs_editor_title "Editor">
+<!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restaurează valorile implicite">
+<!ENTITY prefs_manage_components "Gestionează componentele suplimentare">
+<!ENTITY prefs_options_autoconnectruntime "Reconectează la mediul de execuție anterior">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Reconectează la mediul de execuție anterior când pornește WebIDE">
+<!ENTITY prefs_options_rememberlastproject "Reține ultimul proiect">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Restaurează proiectul anterior când pornește WebIDE">
+<!ENTITY prefs_options_templatesurl "URL șabloane">
+<!ENTITY prefs_options_templatesurl_tooltip "Index de șabloane disponibile">
 
 <!-- Runtime Details -->
+<!ENTITY runtimedetails_title "Informații despre mediul de execuție">
+<!ENTITY runtimedetails_adbIsRoot "ADB este root: ">
+<!ENTITY runtimedetails_summonADBRoot "dispozitiv-rădăcină">
+<!ENTITY runtimedetails_ADBRootWarning "(necesită bootloader deblocat)">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Privilegii DevTools nerestricționate: ">
+<!ENTITY runtimedetails_requestPrivileges "solicită privilegii superioare">
+<!ENTITY runtimedetails_privilegesWarning "(Va reinițializa dispozitivul. Necesită privilegii root.)">
 
 <!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "Boolean">
+<!ENTITY device_typenumber "Integer">
+<!ENTITY device_typestring "String">
+<!ENTITY device_typeobject "Object">
+<!ENTITY device_typenone "Selectează un tip">
 
 <!-- Device Preferences -->
+<!ENTITY devicepreference_title "Preferințe dispozitiv">
+<!ENTITY devicepreference_search "Preferințe de căutare">
+<!ENTITY devicepreference_newname "Nume preferință nouă">
+<!ENTITY devicepreference_newtext "Valoarea preferinței">
+<!ENTITY devicepreference_addnew "Adaugă preferință nouă">
 
 <!-- Device Settings -->
+<!ENTITY devicesetting_title "Setări dispozitiv">
+<!ENTITY devicesetting_search "Setări de căutare">
+<!ENTITY devicesetting_newname "Nume setare nouă">
+<!ENTITY devicesetting_newtext "Valoarea setării">
+<!ENTITY devicesetting_addnew "Adaugă setare nouă">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+<!ENTITY wifi_auth_header "Identificare client">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
