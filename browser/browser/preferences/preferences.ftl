@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = S signalom “Brez sledenja” sporočaj spletnim stranem, naj vam ne sledijo
+do-not-track-description = Spletnim stranem pošiljajte signal “Brez sledenja”, torej da vam naj ne sledijo
 do-not-track-learn-more = Več o tem
 do-not-track-option-default =
     .label = Samo pri uporabi zaščite pred sledenjem
@@ -715,7 +715,7 @@ content-blocking-change-cookie-settings =
     .label = Spremeni nastavitve piškotkov
     .accesskey = S
 content-blocking-reject-trackers-block-trackers-option-recommended =
-    .label = Sledilce (priporočeno)
+    .label = Ki jih nastavijo sledilci (priporočeno)
     .accesskey = d
 content-blocking-reject-trackers-block-trackers-option =
     .label = Sledilce
