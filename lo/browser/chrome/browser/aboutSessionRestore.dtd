@@ -19,9 +19,9 @@
 <!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "ກູ້ຄືນ">
-<!ENTITY restorepage.listHeader     "ວີນໂດ້ ແລະ ແທັບ">
+<!ENTITY restorepage.listHeader     "ວີນໂດແລະແທັບ">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "ວີນໂດ້ &#37;S">
+<!ENTITY restorepage.windowLabel    "ວີນໂດ &#37;S">
 
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
@@ -35,7 +35,7 @@
 <!ENTITY welcomeback2.pageTitle     "ສຳເລັດ!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ພ້ອມທີ່ຈະເລີ່ມແລ້ວ">
 
-<!ENTITY welcomeback2.restoreAll.label  "ກູ້ຄືນວີນໂດ້ ແລະ ແທັບທັງຫມົດ">
+<!ENTITY welcomeback2.restoreAll.label  "ກູ້ຄືນວີນໂດແລະແທັບທັງຫມົດ">
 <!ENTITY welcomeback2.restoreSome.label "ກູ້ຄືນສະເພາະທີ່ເຈົ້າຕ້ອງການ">
 
 

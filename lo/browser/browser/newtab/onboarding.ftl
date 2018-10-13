@@ -17,7 +17,7 @@ onboarding-start-browsing-button-label = ເລີ່ມການທ່ອງເ
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = ການທ່ອງເວັບແບບສ່ວນຕົວ
-onboarding-private-browsing-text = ທ່ອງເວັບດ້ວຍຕົວທ່ານເອງ. ການທ່ອງເວັບແບບສ່ວນຕົວພ້ອມກັບການລະງັບເນື້ອຫາລະງັບໂຕຕິດຕາມອອນໄລທີ່ຕິດຕາມທ່ານໃນເວັບຕ່າງໆ.
+onboarding-private-browsing-text = ທ່ອງເວັບດ້ວຍຕົວທ່ານເອງ. ການທ່ອງເວັບແບບສ່ວນຕົວພ້ອມກັບການປິດກັ້ນເນື້ອຫາລະງັບໂຕຕິດຕາມອອນໄລທີ່ຕິດຕາມທ່ານໃນເວັບຕ່າງໆ.
 onboarding-screenshots-title = ຖ່າຍພາບໜ້າຈໍ
 onboarding-screenshots-text = ຈັບ, ບັນທຶກ ແລະ ແບ່ງປັນພາບຖ່າຍໜ້າຈໍ - ໂດຍບໍ່ຕ້ອງອອກຈາກ { -brand-short-name }. ຈັບພາບເປັນບໍລິເວນ ຫຼື ທັງໜ້າຕາມທີ່ທ່ານທ່ອງເວັບ. ຈາກນັ້ນບັນທຶກໄປຍັງເວັບເພື່ອຄວາມງ່າຍໃນການເຂົ້າເຖິງ ແລະ ການແບ່ງປັນ.
 onboarding-addons-title = ສ່ວນເສີມ

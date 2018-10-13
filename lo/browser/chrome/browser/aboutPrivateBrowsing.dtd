@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate                 "ປະຈຸບັນນີ້ທ່ານບໍ່ໄດ້ຢູ່ໃນຫນ້າຕ່າງສ່ວນຕົວ.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label     "ເປີດ ຫນ້າຕ່າງສ່ວນຕົວ">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ຫ">
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "ປະຈຸບັນນີ້ທ່ານບໍ່ໄດ້ຢູ່ໃນວິນໂດສ່ວນຕົວ.">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "ເປີດວິນໂດສ່ວນຕົວ">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ສ">
 
 <!ENTITY privateBrowsing.title                           "ການທ່ອງເວັບແບບສ່ວນຕົວ">
 <!ENTITY privateBrowsing.title.tracking                  "ການທ່ອງເວັບແບບສ່ວນຕົວພ້ອມກັບການປ້ອງກັນການຕິດຕາມ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "ເມື່ອທ່ານທ່ອງເວັບໃນຫນ້າຕ່າງສ່ວນຕົວ, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "ເມື່ອທ່ານທ່ອງເວັບໃນວິນໂດສ່ວນຕົວ, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ບໍ່ບັນທຶກ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "ເຂົ້າໄປເບິງຫນ້ານີ້ແລ້ວ">
@@ -31,5 +31,5 @@
 <!ENTITY trackingProtection.description2                 "ມີບາງເວັບໄຊຕ໌ນຳໃຊ້ຕົວຕິດຕາມທີ່ສາມາດມໍນິເຕີກິດຈະກຳຂອງທ່ານໃນໂລກອິນເຕີເນັດໄດ້. ໂດຍການນຳໃຊ້ການປ້ອງກັນການຕິດຕາມ Firefox ຈະບັອກຕົວຕິດຕາມທັ້ງຫລາຍທີ່ສາມາດດັກເກັບຂໍ້ມູນກ່ຽວກັບພຶດຕິກຳການທ່ອງເວັບຂອງທ່ານ.">
 <!ENTITY trackingProtection.startTour1                   "ເບິງວິທີການເຮັດວຽກຂອງມັນ">
 
-<!ENTITY contentBlocking.title                           "ການລະງັບເນື້ອຫາ">
-<!ENTITY contentBlocking.description                     "ບາງເວັບໄຊທ໌ນໃຊ້ຕົວຕິດຕາມທີ່ສາມາດຕິດຕາມກິດຈະກໍາຂອງທ່ານຜ່ານອິນເຕີເນັດ. ໃນໜ້າຕາງສ່ວນຕົວ, Firefox Blocking ເນື້ອຫາອັດຕະໂນມັດປິດການຕິດຕາມຈໍານວນຫຼາຍທີ່ສາມາດເກັບຂໍ້ມູນກ່ຽວກັບພຶດຕິກໍາການຊອກຫາຂອງທ່ານ.">
+<!ENTITY contentBlocking.title                           "ການປິດກັ້ນເນື້ອຫາ">
+<!ENTITY contentBlocking.description                     "ບາງເວັບໄຊທ໌ໃຊ້ຕົວຕິດຕາມທີ່ສາມາດກວດກາກິດຈະກໍາຂອງທ່ານຜ່ານອິນເຕີເນັດ. ໃນວິນໂດສ່ວນຕົວ, ການປິດກັ້ນເນື້ອຫາອັດຕະໂນມັດຂອງ Firefox ຈະປິດກັ້ນຕິດຕາມຈໍານວນຫຼາຍທີ່ສາມາດເກັບກຳຂໍ້ມູນກ່ຽວກັບພຶດຕິກໍາການທ່ອງເວັບຂອງທ່ານໂດຍອັດຕະໂນມັດ.">
