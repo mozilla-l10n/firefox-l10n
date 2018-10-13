@@ -340,7 +340,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Ferestre și file noi
-home-new-windows-tabs-description2 = Alege ceea ce vezi când deschizi pagina de start, ferestre noi sau file noi.
+home-new-windows-tabs-description2 = Alege ce vezi când deschizi pagina de start, ferestre noi și file noi.
 
 ## Home Section - Home Page Customization
 
