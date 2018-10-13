@@ -65,6 +65,8 @@ policy-Proxy = Прокси баптауларын орнату.
 policy-SanitizeOnShutdown = Сөндірілген кезде, барлық шолулар тарихын өшіру.
 policy-SearchBar = Іздеу жолағында үнсіз келісім бойынша адресті орнату. Пайдаланушы оны өзгерте алады.
 policy-SearchEngines = Іздеу жүйесі параметрлерін баптау. Бұл саясат тек ұзақ мерзімді қолдауы бар (ESR) нұсқасында қолжетерлік.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = PKCS #11 модульдерін орнату.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Веб-сайттарды шолуға тыйым салады. Пішімі туралы көбірек білу үшін, құжаттаманы қараңыз.
