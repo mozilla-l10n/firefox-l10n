@@ -4,3 +4,4 @@
 
 restart-required-title = Vyžaduje sa reštart
 restart-required-header = Ospravedlňujeme sa, no ak chcete pokračovať v prehliadaní, musíte urobiť jednu malú drobnosť.
+restart-button-label = Reštartovať { -brand-short-name }

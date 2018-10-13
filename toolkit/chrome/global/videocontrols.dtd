@@ -7,9 +7,13 @@
 <!ENTITY muteButton.muteLabel "Stlmiť">
 <!ENTITY muteButton.unmuteLabel "Zapnúť zvuk">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Na celú obrazovku">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Ukončiť režim Na celú obrazovku">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Ukončiť režim celej obrazovky">
 <!ENTITY castingButton.castingLabel "Prehrať na obrazovke">
 <!ENTITY closedCaption.off "Vypnuté">
+
+<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
+     accessibility software to clarify what the slider is for. -->
+<!ENTITY volumeScrubber.label "Ovládanie hlasitosti">
 
 <!ENTITY stats.media "Médium">
 <!ENTITY stats.size "Rozmery">
@@ -47,3 +51,4 @@ unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
 <!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
+
