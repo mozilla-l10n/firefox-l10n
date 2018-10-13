@@ -189,6 +189,11 @@ simbolurile din platforma Gecko">
 <!ENTITY options.sourceeditor.label                     "Preferințe editor">
 <!ENTITY options.sourceeditor.detectindentation.label   "Detectează indentările">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Dedu indentarea în baza contextului-sursă">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Închide automat parantezele drepte și acoladele">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Închide automat paranteze de sfârșit">
+<!ENTITY options.sourceeditor.expandtab.label           "Indentează folosind spații">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Folosește spații în locul caracterului de tabulare">
+<!ENTITY options.sourceeditor.tabsize.label             "Mărime caracter de tabulare">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Combinații de taste">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
