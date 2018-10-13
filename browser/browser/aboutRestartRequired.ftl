@@ -4,3 +4,4 @@
 
 restart-required-title = Yêu cầu Khởi động lại
 restart-required-header = Xin lỗi. Chúng tôi chỉ cần làm một việc nho nhỏ để tiếp tục.
+restart-button-label = Khởi động lại { -brand-short-name }
