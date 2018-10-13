@@ -57,6 +57,10 @@ permissions-exceptions-tracking-protection-desc = Bạn đã tắt chế độ c
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Ngoại lệ - Cookie và dữ liệu trang web
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Bạn có thể chỉ định trang web nào luôn hoặc không bao giờ được phép sử dụng cookie và dữ liệu trang web. Nhập địa chỉ chính xác của trang web bạn muốn quản lý và sau đó nhấp vào Chặn, Chỉ cho phép với phiên này hoặc Cho phép.
 
 ## Exceptions - Pop-ups
 
@@ -78,6 +82,17 @@ permissions-exceptions-addons-window =
     .title = Những trang được cho phép - Cài đặt tiện ích
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Bạn có thể chỉ định trang web nào được phép cài tiện ích. Gõ chính xác địa chỉ trang bạn muốn cho phép và sau đó nhấp Cho phép.
+
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window =
+    .title = Trang web được cho phép - Tự động phát
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc = Bạn có thể chỉ định trang web nào được phép tự động phát các phần tử phương tiện. Nhập địa chỉ chính xác của trang web bạn muốn cho phép và sau đó nhấp vào Cho phép.
+permissions-exceptions-autoplay-media-window2 =
+    .title = Ngoại lệ - Tự động phát
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc2 = Bạn có thể chỉ định trang web nào luôn hoặc không bao giờ được phép tự động phát phương tiện với âm thanh. Nhập địa chỉ của trang web bạn muốn quản lý và sau đó nhấp vào Chặn hoặc Cho phép.
 
 ## Site Permissions - Notifications
 

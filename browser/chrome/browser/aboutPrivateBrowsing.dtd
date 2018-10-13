@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " của bạn:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "tập tin tải về">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "dấu trang">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "văn bản được sao chép">
 <!ENTITY aboutPrivateBrowsing.note.before                "Duyệt web riêng tư ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "không giúp bạn ẩn danh">
 <!ENTITY aboutPrivateBrowsing.note.after                 " trên Internet. Chủ công ty hoặc nhà cung cấp Internet của bạn vẫn có thể biết những trang bạn truy cập.">
@@ -30,3 +31,6 @@
 <!ENTITY trackingProtection.title                        "Chống theo dõi">
 <!ENTITY trackingProtection.description2                 "Một số trang dùng hệ thống theo dõi để có thể theo dõi hoạt động của bạn trên Internet. Với chế độ chống theo dõi của Firefox sẽ giúp chặn hệ thống theo dõi có thể thu thập thông tin về hành vi duyệt web của bạn.">
 <!ENTITY trackingProtection.startTour1                   "Xemcách hoạt động">
+
+<!ENTITY contentBlocking.title                           "Chặn nội dung">
+<!ENTITY contentBlocking.description                     "Một số trang web sử dụng trình theo dõi có thể giám sát hoạt động của bạn trên Internet. Trong cửa sổ riêng tư, trình chặn nội dung của Firefox tự động chặn nhiều trình theo dõi có thể thu thập thông tin về hành vi duyệt web của bạn.">

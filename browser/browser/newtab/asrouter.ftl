@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+cfr-doorhanger-extension-heading = Tiện ích được đề xuất
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Tại sao tôi thấy cái này
 cfr-doorhanger-extension-cancel-button = Không phải bây giờ
@@ -13,6 +14,9 @@ cfr-doorhanger-extension-learn-more-link = Tìm hiểu thêm
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = bởi { $name }
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-extension-notification = Đề xuất
 
 ## Add-on statistics
 ## These strings are used to display the total number of
