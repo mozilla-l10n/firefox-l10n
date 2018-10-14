@@ -165,3 +165,4 @@
 <!ENTITY wifi_auth_token_request "Dacă celălalt dispozitiv solicită un cod în loc de scanarea unui cod QR, te rugăm să copiezi valoarea de mai jos în celălalt dispozitiv:">
 
 <!-- Logs panel -->
+<!ENTITY logs_title "Pre-împachetarea jurnalelor de comenzi">
