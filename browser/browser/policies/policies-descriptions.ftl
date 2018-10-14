@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Браузерге жүйелік қосымш
 policy-DisableTelemetry = Телеметрияны сөндіру.
 policy-DisplayBookmarksToolbar = Бетбелгілер панелін үнсіз келісім бойынша көрсету.
 policy-DisplayMenuBar = Мәзір жолағын үнсіз келісім бойынша көрсету.
+policy-DNSOverHTTPS = HTTPS арқылы DNS баптау.
 policy-DontCheckDefaultBrowser = Іске қосылғанда негізгі браузері екеніне тексеруді сөндіру.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Құраманы бұғаттауды іске қосу немесе сөндіру, және қосымша түрде оны бекіту.
