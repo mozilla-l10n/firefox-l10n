@@ -528,6 +528,7 @@ privacy-header = Naršyklės privatumas
 ## Privacy Section - Forms
 
 forms-header = Formos ir slaptažodžiai
+logins-header = Prisijungimai ir slaptažodžiai
 forms-ask-to-save-logins =
     .label = Klausti, ar norite įrašyti svetainių prisijungimus ir slaptažodžius
     .accesskey = r
@@ -687,6 +688,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Lėtai įkeliami stebėjimo elementai
     .accesskey = L
 content-blocking-fastblock-new-description = Blokuoti tik tinklalapių įkėlimą stabdančius stebėjimo elementus.
+content-blocking-tracking-protection-trackers-label =
+    .label = Stebėjimo elementai
+    .accesskey = t
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Visi aptikti stebėjimo elementai
     .accesskey = e
