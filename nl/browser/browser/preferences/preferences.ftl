@@ -63,6 +63,8 @@ category-sync =
 
 help-button-label = { -brand-short-name } Support
 
+addons-button-label = Extensies & Thema’s
+
 focus-search =
     .key = f
 
