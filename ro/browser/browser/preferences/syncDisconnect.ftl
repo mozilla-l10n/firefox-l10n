@@ -22,7 +22,7 @@ sync-disconnect-cancel =
 ## on the state of the checkboxes.
 
 sync-disconnect-confirm-disconnect-delete =
-    .label = Deconectează și şterge
+    .label = Deconectează și șterge
     .accesskey = D
 sync-disconnect-confirm-disconnect =
     .label = Deconectează-te doar
