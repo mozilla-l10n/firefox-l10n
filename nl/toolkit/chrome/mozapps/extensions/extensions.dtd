@@ -42,6 +42,10 @@
 <!ENTITY view.recentUpdates.label             "Recente updates">
 <!ENTITY view.availableUpdates.label          "Beschikbare updates">
 
+<!ENTITY helpButton.label                      "Add-on-ondersteuning">
+<!ENTITY preferencesWin.label                  "&brandShortName;-opties">
+<!ENTITY preferencesUnix.label                 "&brandShortName;-voorkeuren">
+
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Controleren op updates">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
