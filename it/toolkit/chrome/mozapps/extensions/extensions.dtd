@@ -31,6 +31,8 @@
 <!ENTITY view.discover.label "Esplora">
 <!ENTITY view.recentUpdates.label "Aggiornamenti recenti">
 <!ENTITY view.availableUpdates.label "Aggiornamenti disponibili">
+<!ENTITY preferencesWin.label "Opzioni di &brandShortName;">
+<!ENTITY preferencesUnix.label "Preferenze di &brandShortName;">
 <!ENTITY updates.checkForUpdates.label "Controlla aggiornamenti">
 <!ENTITY updates.checkForUpdates.accesskey "C">
 <!ENTITY updates.viewUpdates.label "Visualizza aggiornamenti recenti">
