@@ -433,6 +433,7 @@ privacy-header = براؤزر رازداری
 ## Privacy Section - Forms
 
 forms-header = فارم اور پاس ورڈ
+logins-header = لاگ ان & پاس ورڈ
 forms-exceptions =
     .label = استثنیات…
     .accesskey = ا

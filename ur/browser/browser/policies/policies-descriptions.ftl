@@ -16,6 +16,7 @@ policy-BlockAboutAddons = ایڈ اون مینیجر(about:addons) تک رسائ
 policy-BlockAboutConfig = about:config صفحے پر رسائی کو روکیں۔
 policy-BlockAboutProfiles = about:profiles صفحے پر رسائی کو روکیں۔
 policy-BlockAboutSupport = about:support صفحے پر رسائی کو روکیں۔
+policy-Cookies = کوکیز سیٹ کرنے کیلئے ویب سائٹس کو اجازت دیں یا انکار کریں۔
 policy-DisableDeveloperTools = تخلیق کار ٹول تک رسائی کو روکیں۔
 policy-DisableForgetButton = فارگیٹ بٹن تک رسائی کو روکیں۔
 policy-DisablePrivateBrowsing = نجی براؤزنگ غیر فعال کریں

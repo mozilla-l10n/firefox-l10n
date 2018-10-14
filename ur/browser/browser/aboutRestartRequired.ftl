@@ -4,3 +4,4 @@
 
 restart-required-title = دورہ دوباره شروع کرنا درکار ہے
 restart-required-header = معذرت۔ آگے بڈھنے کے لئے ہمیں ایک چھوٹی سی چیز کرنے کی زرورت ہے۔
+restart-button-label = { -brand-short-name } دوبارہ شروع کریں
