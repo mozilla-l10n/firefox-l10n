@@ -4,3 +4,4 @@
 
 restart-required-title = Berrabiarazi egin behar da
 restart-required-header = Barkatu, gauzatxo bat egin behar dugu jarraitu ahal izateko.
+restart-button-label = Berrabiarazi { -brand-short-name }

@@ -23,6 +23,7 @@
 <!ENTITY  reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Berritu fitxa guztiak">
 <!ENTITY  reloadAllTabs.accesskey            "B">
+<!ENTITY  selectAllTabs.label                "Hautatu fitxa guztiak">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Bikoiztu fitxa">
@@ -38,19 +39,27 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Itxi hautatutako fitxak">
 <!ENTITY  closeSelectedTabs.accesskey        "h">
 
+<!ENTITY  closeTabs.label                    "Itxi fitxak">
 <!ENTITY  pinSelectedTabs.label              "Ainguratu fitxak">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "A">
 <!ENTITY  unpinSelectedTabs.label            "Desainguratu fitxak">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "D">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Berritu hautatutako fitxak">
 <!ENTITY  reloadSelectedTabs.accesskey       "B">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Berritu fitxak">
 <!ENTITY  bookmarkSelectedTabs.label         "Egin fitxen laster-marka…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "s">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,8 +68,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Ainguratu fitxa">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "A">
 <!ENTITY  unpinTab.label                     "Desainguratu fitxa">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "a">
 <!ENTITY  sendTabToDevice.label              "Bidali fitxa gailura">
 <!ENTITY  sendTabToDevice.accesskey          "g">
@@ -68,12 +83,21 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "g">
 <!ENTITY  sendLinkToDevice.label             "Bidali lotura gailura">
 <!ENTITY  sendLinkToDevice.accesskey         "g">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Mugitu fitxa">
+<!ENTITY  moveSelectedTabOptions.label       "Mugitu fitxak">
+<!ENTITY  moveToStart.label                  "Mugitu hasierara">
+<!ENTITY  moveToEnd.label                    "Mugitu amaierara">
 <!ENTITY  moveToNewWindow.label              "Eraman leiho berrira">
 <!ENTITY  moveToNewWindow.accesskey          "h">
 <!ENTITY  reopenInContainer.label            "Ireki berriro edukiontzian">
 <!ENTITY  reopenInContainer.accesskey        "b">
 <!ENTITY  bookmarkAllTabs.label              "Egin fitxa guztien laster-marka…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
+<!ENTITY  bookmarkTab.label                  "Egin fitxaren laster-marka">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "Desegin fitxa ixtea">
 <!ENTITY  undoCloseTab.accesskey             "D">
 <!ENTITY  closeTab.label                     "Itxi fitxa">
@@ -114,6 +138,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "B">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Egin fitxa guztien laster-marka…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Hautatu fitxa guztiak">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Desegin fitxa ixtea">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "D">
 
