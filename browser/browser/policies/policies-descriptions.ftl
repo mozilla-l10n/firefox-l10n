@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Не дозволяти браузеру вс�
 policy-DisableTelemetry = Вимкнути телеметрію.
 policy-DisplayBookmarksToolbar = Завжди відображати панель закладок.
 policy-DisplayMenuBar = Завжди відображати панель меню.
+policy-DNSOverHTTPS = Налаштувати DNS через HTTPS.
 policy-DontCheckDefaultBrowser = Вимкнути перевірку типового браузера під час запуску.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Увімкнути або вимкнути блокування вмісту і заблокувати його за бажанням.
@@ -62,9 +63,12 @@ policy-OverridePostUpdatePage = Замінити сторінку "Що ново
 policy-Permissions = Налаштувати дозволи для камери, мікрофона, розташування та сповіщень.
 policy-PopupBlocking = Дозволити певним веб-сайтам типово відображати виринаючі вікна.
 policy-Proxy = Налаштувати параметри проксі.
+policy-RequestedLocales = Встановіть перелік запитуваних мов для програми в бажаному порядку.
 policy-SanitizeOnShutdown = Стирати всі дані перегляду при завершенні роботи.
 policy-SearchBar = Встановити типове розташування панелі пошуку. Користувачу все одно дозволяється змінювати.
 policy-SearchEngines = Налаштувати засіб пошуку. Ця політика доступна лише у версії Extended Support Release (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Встановити модулі PKCS #11.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Блокувати відвідування веб-сайтів. Для отримання подробиць щодо формату, ознайомтеся з документацією.
