@@ -23,10 +23,14 @@
 <!ENTITY  reloadTab.accesskey                "й">
 <!ENTITY  reloadAllTabs.label                "Барлық беттерді қайта жүктеу">
 <!ENTITY  reloadAllTabs.accesskey            "а">
+<!ENTITY  selectAllTabs.label                "Барлық беттерді таңдау">
+<!ENTITY  selectAllTabs.accesskey            "т">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Бетті қосарлау">
 <!ENTITY  duplicateTab.accesskey             "о">
+<!ENTITY  closeTabOptions.label              "Бетті жабу опциялары">
+<!ENTITY  closeTabOptions.accesskey          "о">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -38,6 +42,8 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Таңдалған беттерді жабу">
 <!ENTITY  closeSelectedTabs.accesskey        "т">
 
+<!ENTITY  closeTabs.label                    "Беттерді жабу">
+<!ENTITY  closeTabs.accesskey                "б">
 <!ENTITY  pinSelectedTabs.label              "Беттерді бекіту">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
@@ -54,6 +60,8 @@ but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.accesskey       "й">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Беттерді қайта жүктеу">
+<!ENTITY  reloadTabs.accesskey               "й">
 <!ENTITY  bookmarkSelectedTabs.label         "Беттерді бетбелгілерге қосу…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -82,14 +90,24 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "ы">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Бетті жылжыту">
+<!ENTITY  moveTabOptions.accesskey           "ы">
+<!ENTITY  moveSelectedTabOptions.label       "Беттерді жылжыту">
+<!ENTITY  moveSelectedTabOptions.accesskey   "ы">
+<!ENTITY  moveToStart.label                  "Басына жылжыту">
+<!ENTITY  moveToStart.accesskey              "с">
+<!ENTITY  moveToEnd.label                    "Соңына жылжыту">
+<!ENTITY  moveToEnd.accesskey                "н">
 <!ENTITY  moveToNewWindow.label              "Жаңа терезеге жылжыту">
 <!ENTITY  moveToNewWindow.accesskey          "е">
 <!ENTITY  reopenInContainer.label            "Контейнерде қайтадан ашу">
 <!ENTITY  reopenInContainer.accesskey        "а">
 <!ENTITY  bookmarkAllTabs.label              "Барлық беттерді бетбелгілерге қосу…">
 <!ENTITY  bookmarkAllTabs.accesskey          "т">
+<!ENTITY  bookmarkTab.label                  "Бетті бетбелгілерге қосу">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "б">
 <!ENTITY  undoCloseTab.label                 "Жабылған бетті қайтару">
 <!ENTITY  undoCloseTab.accesskey             "л">
 <!ENTITY  closeTab.label                     "Бетті жабу">
@@ -130,6 +148,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "а">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Барлық беттерді бетбелгілерге қосу…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "т">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Таңдалған беттерді бетбелгілерге қосу…">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "т">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Барлық беттерді таңдау">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "т">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Жабылған бетті қайтару">
