@@ -53,7 +53,7 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "л">
+<!ENTITY  unpinSelectedTabs.accesskey        "к">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Обновить выделенные вкладки">
@@ -81,7 +81,7 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "л">
+<!ENTITY  unpinTab.accesskey                 "к">
 <!ENTITY  sendTabToDevice.label              "Отправить вкладку на устройство">
 <!ENTITY  sendTabToDevice.accesskey          "п">
 <!ENTITY  sendPageToDevice.label             "Отправить страницу на устройство">
@@ -107,7 +107,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  bookmarkTab.label                  "Добавить вкладку в закладки">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "ь">
+<!ENTITY  bookmarkTab.accesskey              "а">
 <!ENTITY  undoCloseTab.label                 "Восстановить закрытую вкладку">
 <!ENTITY  undoCloseTab.accesskey             "с">
 <!ENTITY  closeTab.label                     "Закрыть вкладку">
