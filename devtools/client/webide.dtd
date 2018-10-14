@@ -41,6 +41,9 @@
 <!ENTITY runtimeMenu_showSettings_label "Įrenginio nustatymai">
 <!ENTITY runtimeMenu_showSettings_accesskey "n">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "Našumas">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "N">
+
 <!ENTITY viewMenu_label "Rodymas">
 <!ENTITY viewMenu_accesskey "R">
 <!ENTITY viewMenu_zoomin_label "Padidinti">

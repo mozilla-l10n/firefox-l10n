@@ -95,14 +95,19 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveSelectedTabOptions.label       "Perkelti korteles">
 <!ENTITY  moveSelectedTabOptions.accesskey   "t">
 <!ENTITY  moveToStart.label                  "Perkelti į pradžią">
+<!ENTITY  moveToStart.accesskey              "p">
+<!ENTITY  moveToEnd.label                    "Perkelti į pabaigą">
+<!ENTITY  moveToEnd.accesskey                "b">
 <!ENTITY  moveToNewWindow.label              "Perkelti į naują langą">
 <!ENTITY  moveToNewWindow.accesskey          "l">
 <!ENTITY  reopenInContainer.label            "Atverti iš naujo sudėtiniame rodinyje">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Visas korteles įtraukti į adresyną…">
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
+<!ENTITY  bookmarkTab.label                  "Įrašyti kortelę į adresyną">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "r">
 <!ENTITY  undoCloseTab.label                 "Atšaukti kortelės užvėrimą">
 <!ENTITY  undoCloseTab.accesskey             "š">
 <!ENTITY  closeTab.label                     "Užverti kortelę">
@@ -143,6 +148,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "v">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Visas korteles įtraukti į adresyną…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "k">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Įrašyti pasirinktas korteles į adresyną…">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "i">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Pasirinkti visas korteles">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "P">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Atšaukti kortelės užvėrimą">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "š">
 
@@ -814,6 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Svetainės saugumas">
 
+<!ENTITY identity.connection "Ryšys">
 <!ENTITY identity.connectionSecure "Saugus ryšys">
 <!ENTITY identity.connectionNotSecure "Ryšys nėra saugus">
 <!ENTITY identity.connectionFile "Šis tinklalapis yra įrašytas jūsų kompiuteryje.">
@@ -980,6 +990,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Pridėti blokavimą…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Visi aptikti stebėjimo elementai">
+<!ENTITY contentBlocking.trackingProtection3.label "Stebėjimo elementai">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
