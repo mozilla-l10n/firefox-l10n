@@ -53,6 +53,7 @@ pane-sync-title = Account Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Supporto a { -brand-short-name }
+addons-button-label = Estensioni e temi
 focus-search =
     .key = f
 close-button =
