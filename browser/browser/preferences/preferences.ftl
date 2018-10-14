@@ -528,6 +528,7 @@ privacy-header = Приватность браузера
 ## Privacy Section - Forms
 
 forms-header = Формы и Пароли
+logins-header = Логины и пароли
 forms-ask-to-save-logins =
     .label = Запрашивать сохранение логинов и паролей для веб-сайтов
     .accesskey = ш
@@ -687,6 +688,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Медленные трекеры
     .accesskey = н
 content-blocking-fastblock-new-description = Блокировать только трекеры, не дающие страницам быстро загружаться.
+content-blocking-tracking-protection-trackers-label =
+    .label = Трекеры
+    .accesskey = к
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Все обнаруженные трекеры
     .accesskey = е

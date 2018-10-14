@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Запрещает браузеру устан
 policy-DisableTelemetry = Отключает телеметрию.
 policy-DisplayBookmarksToolbar = Отображает панель закладок по умолчанию.
 policy-DisplayMenuBar = Отображает панель меню по умолчанию.
+policy-DNSOverHTTPS = Настраивает DNS через HTTPS.
 policy-DontCheckDefaultBrowser = Отключает проверку браузера по умолчанию при запуске.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Включает или отключает Блокирование содержимого и, по желанию, блокирует изменение этой функции.
@@ -62,9 +63,12 @@ policy-OverridePostUpdatePage = Переопределяет страницу «
 policy-Permissions = Настраивает разрешения для камеры, микрофона, местоположения и уведомлений.
 policy-PopupBlocking = Разрешает некоторым веб-сайтам открывать всплывающие окна по умолчанию.
 policy-Proxy = Настраивает параметры прокси.
+policy-RequestedLocales = Настраивает список запрашиваемых языков для приложения в порядке предпочтения.
 policy-SanitizeOnShutdown = Удаляет все данные веб-сёрфинга при закрытии.
 policy-SearchBar = Устанавливает расположение панели поиска по умолчанию. Пользователю всё же разрешено его настраивать.
 policy-SearchEngines = Настраивает параметры поисковой системы. Эта политика доступна только в версии длительной поддержки (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Устанавливает модули PKCS #11.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Блокирует посещение веб-сайтов. Для получения дополнительной информации о формате обратитесь к документации.

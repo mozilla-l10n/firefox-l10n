@@ -23,10 +23,12 @@
 <!ENTITY  reloadTab.accesskey                "и">
 <!ENTITY  reloadAllTabs.label                "Обновить все вкладки">
 <!ENTITY  reloadAllTabs.accesskey            "н">
+<!ENTITY  selectAllTabs.label                "Выбрать все вкладки">
+<!ENTITY  selectAllTabs.accesskey            "б">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Дублировать вкладку">
-<!ENTITY  duplicateTab.accesskey             "б">
+<!ENTITY  duplicateTab.accesskey             "л">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -39,18 +41,24 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.accesskey        "ы">
 
 <!ENTITY  pinSelectedTabs.label              "Закрепить вкладки">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "к">
 <!ENTITY  unpinSelectedTabs.label            "Открепить вкладки">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "л">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Обновить выделенные вкладки">
 <!ENTITY  reloadSelectedTabs.accesskey       "и">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.label         "Добавить вкладки в закладки…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "а">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,21 +67,31 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Закрепить вкладку">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "к">
 <!ENTITY  unpinTab.label                     "Открепить вкладку">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "л">
 <!ENTITY  sendTabToDevice.label              "Отправить вкладку на устройство">
-<!ENTITY  sendTabToDevice.accesskey          "й">
+<!ENTITY  sendTabToDevice.accesskey          "п">
 <!ENTITY  sendPageToDevice.label             "Отправить страницу на устройство">
-<!ENTITY  sendPageToDevice.accesskey         "й">
+<!ENTITY  sendPageToDevice.accesskey         "п">
 <!ENTITY  sendLinkToDevice.label             "Отправить ссылку на устройство">
-<!ENTITY  sendLinkToDevice.accesskey         "й">
+<!ENTITY  sendLinkToDevice.accesskey         "п">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  moveToNewWindow.label              "Переместить в новое окно">
 <!ENTITY  moveToNewWindow.accesskey          "е">
 <!ENTITY  reopenInContainer.label            "Переоткрыть в контейнере">
 <!ENTITY  reopenInContainer.accesskey        "й">
 <!ENTITY  bookmarkAllTabs.label              "Добавить все вкладки в закладки…">
 <!ENTITY  bookmarkAllTabs.accesskey          "в">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "Восстановить закрытую вкладку">
 <!ENTITY  undoCloseTab.accesskey             "с">
 <!ENTITY  closeTab.label                     "Закрыть вкладку">
