@@ -8,6 +8,9 @@
 <!ENTITY setColor1.label "Щёлкните по цвету или">
 <!ENTITY setColor2.label "введите его HTML-код">
 <!ENTITY setColor2.accessKey "в">
+<!ENTITY chooseColor1.label "Выберите цвет:">
+<!ENTITY chooseColor2.label "Введите его HTML-код">
+<!ENTITY chooseColor2.accessKey "ы">
 <!ENTITY setColorExample.label "(например: «#0000ff» или «blue»):">
 <!ENTITY default.label "По умолчанию">
 <!ENTITY default.accessKey "у">
