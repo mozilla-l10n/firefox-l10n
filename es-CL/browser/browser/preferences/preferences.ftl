@@ -375,11 +375,11 @@ choose-bookmark =
 
 search-bar-header = Barra de búsqueda
 search-bar-hidden =
-    .label = Usa la barra de direcciones para buscar y navegar
+    .label = Usar la barra de direcciones para buscar y navegar
 search-bar-shown =
     .label = Añadir barra de búsqueda a la barra de herramientas
 search-engine-default-header = Motor de búsqueda predeterminado
-search-engine-default-desc = Elegir el motor de búsqueda predeterminado a usar en la barra de direcciones y en la barra de búsqueda.
+search-engine-default-desc = Elige el motor de búsqueda predeterminado a usar en la barra de direcciones y en la barra de búsqueda.
 search-suggestions-option =
     .label = Proveer sugerencias de búsqueda
     .accesskey = s
@@ -525,6 +525,7 @@ privacy-header = Privacidad del navegador
 ## Privacy Section - Forms
 
 forms-header = Formularios y contraseñas
+logins-header = Conexiones y contraseñas
 forms-ask-to-save-logins =
     .label = Preguntar para guardar conexiones y contraseñas para sitios web
     .accesskey = r
@@ -684,6 +685,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Rastreadores de carga lenta
     .accesskey = S
 content-blocking-fastblock-new-description = Bloquea solo los rastreadores que impiden que las páginas carguen rápido.
+content-blocking-tracking-protection-trackers-label =
+    .label = Rastreadores
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Todos los rastreadores detectados
     .accesskey = T

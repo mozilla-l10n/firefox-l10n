@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Evitar que el navegador instale y actualice lo
 policy-DisableTelemetry = Desactivar la telemetría.
 policy-DisplayBookmarksToolbar = Mostrar la barra de herramientas de marcadores por defecto.
 policy-DisplayMenuBar = Mostrar la barra de menú por defecto.
+policy-DNSOverHTTPS = Configurar DNS sobre HTTPS.
 policy-DontCheckDefaultBrowser = Deshabilitar revisión del navegador predeterminado al inicio.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Habilitar o deshabilitar el bloqueo de contenido y bloquearlo opcionalmente.
@@ -62,9 +63,12 @@ policy-OverridePostUpdatePage = Saltarse la página "Qué hay de nuevo" post act
 policy-Permissions = Configurar permisos para cámara, micrófono, ubicación y notificaciones.
 policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de manera por defecto.
 policy-Proxy = Configurar los ajustes de proxy.
+policy-RequestedLocales = Establece la lista de localizaciones solicitadas para la aplicación, ordenadas por preferencia.
 policy-SanitizeOnShutdown = Borrar todos los datos de navegación al apagar.
 policy-SearchBar = Ajusta la ubicación predeterminada de la barra de búsqueda. El usuario todavía podrá personalizarla.
 policy-SearchEngines = Configurar ajustes de motores de búsqueda. Esta política solo está disponible en la versión de soporte extendido (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instala módulos PKCS #11.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Bloquear contenidos para que no sean visitados. Mira la documentación para más detalles sobre el formato.

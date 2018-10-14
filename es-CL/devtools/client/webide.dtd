@@ -36,17 +36,16 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Info del tiempo de ejecución">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias del dispositivo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Ajustes del dispositivo">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "Rendimiento">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
+
 <!ENTITY viewMenu_label "Vista">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "Cambiar editor">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Acercar">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Alejar">
@@ -66,8 +65,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -79,9 +76,7 @@
 <!ENTITY projectPanel_tabs "Pestañas">
 <!ENTITY runtimePanel_usb "Dispositivos USB">
 <!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
-<!ENTITY runtimePanel_simulator "Simuladores">
 <!ENTITY runtimePanel_other "Otro">
-<!ENTITY runtimePanel_installsimulator "Instalar simulador">
 <!ENTITY runtimePanel_noadbhelper "Instalar ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "¿No puede ver su dispositivo?">
 <!ENTITY runtimePanel_refreshDevices_label "Refrescar dispositivos">
@@ -94,7 +89,6 @@
 <!ENTITY details_location "Ubicación">
 <!ENTITY details_manifestURL "ID de App">
 <!ENTITY details_removeProject_button "Remover proyecto">
-<!ENTITY details_showPrepackageLog_button "Mostrar registro pre-paquete">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nueva App">
@@ -123,21 +117,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar proyecto anterior cuando WebIDE se inicie">
 <!ENTITY prefs_options_templatesurl "URL de plantillas">
 <!ENTITY prefs_options_templatesurl_tooltip "Índice de plantillas disponibles">
-<!ENTITY prefs_options_showeditor "Mostrar editor">
-<!ENTITY prefs_options_showeditor_tooltip "Mostrar editor interno">
-<!ENTITY prefs_options_tabsize "Tamaño de la pestaña">
-<!ENTITY prefs_options_expandtab "Tabulación con espacios">
-<!ENTITY prefs_options_expandtab_tooltip "Usar espacios en lugar del caracter de tabulación">
-<!ENTITY prefs_options_detectindentation "Sangría automática">
-<!ENTITY prefs_options_detectindentation_tooltip "Adivinar sangría basándose en el contenido de la fuente">
-<!ENTITY prefs_options_autocomplete "Autocompletar">
-<!ENTITY prefs_options_autocomplete_tooltip "Activar autocompletación de código">
-<!ENTITY prefs_options_autoclosebrackets "Autocerrar corchetes">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Automáticamente insertar corchetes de cierre">
-<!ENTITY prefs_options_keybindings "Combinaciones de teclas">
-<!ENTITY prefs_options_keybindings_default "Por defecto">
-<!ENTITY prefs_options_autosavefiles "Autoguardar archivos">
-<!ENTITY prefs_options_autosavefiles_tooltip "Automática guardar archivos editados antes de ejecutar el proyecto">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Info del tiempo de ejecución">
@@ -169,10 +148,6 @@
 <!ENTITY devicesetting_newtext "Valor del ajuste">
 <!ENTITY devicesetting_addnew "Añadir nuevo ajuste">
 
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Ayuda">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -194,19 +169,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Registros de comando pre-paquete">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Opciones del simulador">
-<!ENTITY simulator_remove "Eliminar simulador">
-<!ENTITY simulator_reset "Restaurar predeterminados">
-<!ENTITY simulator_name "Nombre">
-<!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Versión">
-<!ENTITY simulator_profile "Perfil">
-<!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Dispositivo">
-<!ENTITY simulator_screenSize "Pantalla">
-<!ENTITY simulator_pixelRatio "Razón de pixeles">
-<!ENTITY simulator_tv_data "Simulación de TV">
-<!ENTITY simulator_tv_data_open "Datos de configuración">
-<!ENTITY simulator_tv_data_open_button "Abrir directorio de configuración…">
