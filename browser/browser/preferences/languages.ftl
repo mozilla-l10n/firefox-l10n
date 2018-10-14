@@ -45,3 +45,7 @@ browser-languages-window =
     .title = { -brand-short-name } hizkuntza-ezarpenak
     .style = width: 40em
 browser-languages-description = { -brand-short-name }(e)k lehen hizkuntza erakutsiko dizu lehenetsita eta ordezkoak zerrendako ordenan erakutsiko dizkizu behar izanez gero.
+browser-languages-downloading =
+    .label = Deskargatzen…
+browser-languages-installed-label = Instalatutako hizkuntzak
+browser-languages-available-label = Hizkuntza erabilgarriak
