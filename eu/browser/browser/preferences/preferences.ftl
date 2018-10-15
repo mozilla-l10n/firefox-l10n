@@ -525,6 +525,7 @@ privacy-header = Nabigatzailearen pribatutasuna
 ## Privacy Section - Forms
 
 forms-header = Inprimakiak eta pasahitzak
+logins-header = Saio-hasierak eta pasahitzak
 forms-ask-to-save-logins =
     .label = Galdetu webguneetako saio-hasierak eta pasahitzak gordetzeko
     .accesskey = G
@@ -684,6 +685,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Karga moteltzen duten jarraipen-elementuak
     .accesskey = m
 content-blocking-fastblock-new-description = Blokeatu soilik orrien karga moteltzen duten jarraipen-elementuak.
+content-blocking-tracking-protection-trackers-label =
+    .label = Jarraipen-elementuak
+    .accesskey = r
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Antzemandako jarraipen-elementu guztiak
     .accesskey = A

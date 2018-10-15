@@ -24,10 +24,12 @@
 <!ENTITY  reloadAllTabs.label                "Berritu fitxa guztiak">
 <!ENTITY  reloadAllTabs.accesskey            "B">
 <!ENTITY  selectAllTabs.label                "Hautatu fitxa guztiak">
+<!ENTITY  selectAllTabs.accesskey            "z">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Bikoiztu fitxa">
 <!ENTITY  duplicateTab.accesskey             "B">
+<!ENTITY  closeTabOptions.label              "Fitxa ixteko aukerak">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -138,7 +140,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "B">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Egin fitxa guztien laster-marka…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Egin hautatutako fitxen laster-marka…">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "h">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Hautatu fitxa guztiak">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "z">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Desegin fitxa ixtea">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "D">
 
@@ -810,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Gunearen segurtasuna">
 
+<!ENTITY identity.connection "Konexioa">
 <!ENTITY identity.connectionSecure "Konexio segurua">
 <!ENTITY identity.connectionNotSecure "Konexioa ez da segurua">
 <!ENTITY identity.connectionFile "Orri hau zure ordenagailuan biltegiratuta dago.">
@@ -976,6 +982,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Gehitu blokeatzea…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Antzemandako jarraipen-elementu guztiak">
+<!ENTITY contentBlocking.trackingProtection3.label "Jarraipen-elementuak">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is

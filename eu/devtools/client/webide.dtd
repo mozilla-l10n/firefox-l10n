@@ -36,12 +36,13 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "P">
 <!ENTITY runtimeMenu_showDetails_label "Exekuzio-ingurunearen informazioa">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Monitorea">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Gailuaren hobespenak">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "G">
 <!ENTITY runtimeMenu_showSettings_label "Gailuaren ezarpenak">
 <!ENTITY runtimeMenu_showSettings_accesskey "z">
+
+<!ENTITY runtimeMenu_showPerformancePanel_label "Errendimendua">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "r">
 
 <!ENTITY viewMenu_label "Ikusi">
 <!ENTITY viewMenu_accesskey "I">
@@ -54,9 +55,9 @@
 
 <!ENTITY projectButton_label "Ireki aplikazioa">
 <!ENTITY runtimeButton_label "Hautatu exekuzio-ingurunea">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -75,14 +76,12 @@
 <!ENTITY projectPanel_tabs "Fitxak">
 <!ENTITY runtimePanel_usb "USB gailuak">
 <!ENTITY runtimePanel_wifi "Wi-Fi gailuak">
-<!ENTITY runtimePanel_simulator "Simulatzaileak">
 <!ENTITY runtimePanel_other "Bestelakoak">
-<!ENTITY runtimePanel_installsimulator "Instalatu simulatzailea">
 <!ENTITY runtimePanel_noadbhelper "Instalatu ADB laguntzailea">
 <!ENTITY runtimePanel_nousbdevice "Ezin duzu zure gailua ikusi?">
 <!ENTITY runtimePanel_refreshDevices_label "Berritu gailuak">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "baliozkoa">
 <!ENTITY details_warning_header "abisuak">
 <!ENTITY details_error_header "erroreak">
@@ -90,23 +89,23 @@
 <!ENTITY details_location "Helbidea">
 <!ENTITY details_manifestURL "Aplikazioaren IDa">
 <!ENTITY details_removeProject_button "Kendu proiektua">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "Aplikazio berria">
 <!ENTITY newAppHeader "Hautatu txantiloia">
 <!ENTITY newAppLoadingTemplate "Txantiloiak kargatzen…">
 <!ENTITY newAppProjectName "Proiektuaren izena:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Itxi">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "Aparteko osagaiak">
 <!ENTITY addons_aboutaddons "Ireki gehigarrien kudeatzailea">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "Hobespenak">
 <!ENTITY prefs_editor_title "Editorea">
 <!ENTITY prefs_general_title "Orokorra">
@@ -118,8 +117,8 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Berreskuratu aurreko proiektua WebIDE abiarazten denan">
 <!ENTITY prefs_options_templatesurl "Txantiloien URLa">
 <!ENTITY prefs_options_templatesurl_tooltip "Erabilgarri dauden txantiloien indizea">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Exekuzio-ingurunearen informazioa">
 <!ENTITY runtimedetails_adbIsRoot "ADB erroa da:">
 <!ENTITY runtimedetails_summonADBRoot "erro-gailua">
@@ -127,36 +126,32 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "Garatzaile-tresnen mugarik gabeko pribilegioak: ">
 <!ENTITY runtimedetails_requestPrivileges "eskatu pribilegio gehiago">
 <!ENTITY runtimedetails_privilegesWarning "(Gailua berrabiaraziko du. Erro-atzipena behar du)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolearra">
 <!ENTITY device_typenumber "Osoko zenbakia">
 <!ENTITY device_typestring "Katea">
 <!ENTITY device_typeobject "Objektua">
 <!ENTITY device_typenone "Hautatu mota">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "Gailuaren hobespenak">
 <!ENTITY devicepreference_search "Bilaketa-hobespenak">
 <!ENTITY devicepreference_newname "Hobespen-izen berria">
 <!ENTITY devicepreference_newtext "Hobespen-balioa">
 <!ENTITY devicepreference_addnew "Gehitu hobespen berria">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "Gailuaren ezarpenak">
 <!ENTITY devicesetting_search "Bilatu ezarpenak">
 <!ENTITY devicesetting_newname "Hobespen-izen berria">
 <!ENTITY devicesetting_newtext "Ezarpenaren balioa">
 <!ENTITY devicesetting_addnew "Gehitu ezarpen berria">
-<!-- Monitor -->
 
-<!ENTITY monitor_title "Monitorea">
-<!ENTITY monitor_help "Laguntza">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "Bezeroaren identifikazioa">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -171,22 +166,6 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Zure beste gailuak QR kodea eskaneatzearen ordez tokena eskatzen badu, kopiatu azpiko balioa beste gailuan:">
 <!ENTITY wifi_auth_qr_size_note "QR kodea oso txiki agertzen bada konexioa ondo ezartzeko, saiatu zooma erabiltzen edo leihoa handitzen.">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "Aurre-paketatze komandoen erregistroa">
-<!-- Simulator Options -->
-
-<!ENTITY simulator_title "Simulatzailearen aukerak">
-<!ENTITY simulator_remove "Ezabatu simulatzailea">
-<!ENTITY simulator_reset "Berrezarri lehenetsiak">
-<!ENTITY simulator_name "Izena">
-<!ENTITY simulator_software "Softwarea">
-<!ENTITY simulator_version "Bertsioa">
-<!ENTITY simulator_profile "Profila">
-<!ENTITY simulator_hardware "Hardwarea">
-<!ENTITY simulator_device "Gailua">
-<!ENTITY simulator_screenSize "Pantaila">
-<!ENTITY simulator_pixelRatio "Pixelen aspektu-erlazioa">
-<!ENTITY simulator_tv_data "TB simulazioa">
-<!ENTITY simulator_tv_data_open "Konfigurazio-datuak">
-<!ENTITY simulator_tv_data_open_button "Ireki konfigurazio-direktorioa…">
