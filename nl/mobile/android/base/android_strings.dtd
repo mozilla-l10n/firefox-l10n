@@ -363,7 +363,6 @@
 <!ENTITY pref_use_system_font_size_summary "Webinhoud schalen volgens de grootte van het systeemlettertype">
 
 <!ENTITY pref_media_autoplay_enabled "Automatisch afspelen toestaan">
-<!ENTITY pref_media_autoplay_enabled_summary "Automatisch afspelen van video’s en andere media-inhoud door websites beheren">
 <!ENTITY pref_media_autoplay_allow "Automatisch afspelen toestaan">
 <!ENTITY pref_media_autoplay_block "Automatisch afspelen blokkeren">
 <!ENTITY pref_zoom_force_enabled "Zoom altijd inschakelen">
@@ -830,9 +829,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Kan &brandShortName; niet openen. Installeer opnieuw en probeer het nogmaals.">
-
-<!ENTITY eol_notification_title2 "&brandShortName; wordt niet meer bijgewerkt">
-<!ENTITY eol_notification_summary "Tik voor meer info">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
