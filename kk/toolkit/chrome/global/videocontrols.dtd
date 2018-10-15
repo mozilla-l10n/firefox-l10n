@@ -11,6 +11,10 @@
 <!ENTITY castingButton.castingLabel "Экранға шақыру">
 <!ENTITY closedCaption.off "Сөнд">
 
+<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
+     accessibility software to clarify what the slider is for. -->
+<!ENTITY volumeScrubber.label "Дыбыс деңгейін келтірушісі">
+
 <!ENTITY stats.media "Мультимедиа">
 <!ENTITY stats.size "Өлшемі:">
 <!ENTITY stats.activity "Белсенділік">
@@ -30,13 +34,14 @@
 <!ENTITY error.srcNotSupported "Видео пішімі не MIME түріне қолдау жоқ.">
 <!ENTITY error.noSource2 "Пішімі не MIME түріне қолдауы бар ешбір видео табылмады.">
 <!ENTITY error.generic "Видеоны ойнату белгісіз қате салдарынан үзілді.">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
-
 <!ENTITY scrubberScale.nameFormat "#1 бітті, барлығы #2">
+
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
@@ -45,5 +50,5 @@ Note that #2 is not always available. For example, when at the 5 minute mark in 
 unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
-
 <!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
+

@@ -55,3 +55,4 @@ browser-languages-select-language =
     .placeholder = Қосылатын тілді таңдау…
 browser-languages-installed-label = Орнатылған тілдер
 browser-languages-available-label = Қолжетерлік тілдер
+browser-languages-error = { -brand-short-name } тілдеріңізді қазір жаңарта алмайды. Интернетпен байланысыңызды тексеріңіз, немесе қайталап көріңіз.
