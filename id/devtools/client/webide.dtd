@@ -36,12 +36,12 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "T">
 <!ENTITY runtimeMenu_showDetails_label "Info Runtime">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferensi Perangkat">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 <!ENTITY runtimeMenu_showSettings_label "Setelan Perangkat">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+
+<!ENTITY runtimeMenu_showPerformancePanel_label "Kinerja">
 
 <!ENTITY viewMenu_label "Tampilkan">
 <!ENTITY viewMenu_accesskey "T">
@@ -146,10 +146,6 @@
 <!ENTITY devicesetting_newname "Nama setelan baru">
 <!ENTITY devicesetting_newtext "Nilai setelan">
 <!ENTITY devicesetting_addnew "Tambahkan setelan baru">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Bantuan">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
