@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = No fâ instalâ ò agiornâ a-o navegatô conp
 policy-DisableTelemetry = Asmòrta Telemetria.
 policy-DisplayBookmarksToolbar = Fanni vedde a bara di segnalibbri comme preinpostaçion.
 policy-DisplayMenuBar = Fanni vedde a bara do menû comme preinpostaçion.
+policy-DNSOverHTTPS = Configua DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Dizabilita o contròllo se o navegatô o l'é predefinio quande arvo.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Abilita ò dizabilita o Blòcco di contegnui de deciddi se blocâ a decixon.
@@ -60,6 +61,8 @@ policy-Proxy = Configuraçion inpostaçioin do proxy.
 policy-SanitizeOnShutdown = Scancella tutti i dæti de navegaçion quande asmòrto.
 policy-SearchBar = Inpòsta donde mette a bara de riçerche. In ògni mòddo l'utente o peu personalizâ.
 policy-SearchEngines = Configuraçion inpostaçioin do motô de riçerca. Sta òpçion a gh'é solo inta verscion Extended Support Release (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instaala mòdolo PKCS #11.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Blòcca a vixita a di sciti. Amia a documentaçion pe avei ciù detalli in sciô formou.
