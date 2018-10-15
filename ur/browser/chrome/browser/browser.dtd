@@ -787,20 +787,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.label        "صفحے کی سمت تبدیل کریں">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "متن کی سمت بدلیں کریں">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "ب">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "اس صفحے میں ڈھونڈیں…">
-<!ENTITY findOnCmd.accesskey "ڈ">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "دوبارہ ڈھونڈیں">
-<!ENTITY findAgainCmd.accesskey "د">
+<!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "لغات اضافہ کریں…">
-<!ENTITY spellAddDictionaries.accesskey "ا">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
@@ -842,13 +842,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded2 "وہ معلومات جو آپ اس سائٹ کے ساتھ شیئر کرتے ہیں وہ دیگر لوگ دیکھ سکیں گے (جیسے کے پاس ورڈ، پیغامات، کریڈٹ کارڈ وغیرہ)۔">
 
 <!ENTITY identity.enableMixedContentBlocking.label "حفاظت اہل بنائیں">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "ا">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "ابھی کے لئے حفاظت کو نا اہل بنائیں">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "ن">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "مزید سیکھیں">
 
 <!ENTITY identity.removeCertException.label "استثنا ہٹائیں">
-<!ENTITY identity.removeCertException.accesskey "ہ">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "مزید معلومات">
 
@@ -884,20 +884,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      These access keys are identical because their associated menu items are
      mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "کھولیں">
-<!ENTITY syncedTabs.context.open.accesskey                   "ک">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "نئے ٹیب میں کھولیں">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "ئ">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "نئی ونڈوں میں کھولیں">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "و">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "نئے نجی ونڈوں میں کھولیں">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "ن">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "یہ صفحہ نشان زد کریں...">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ن">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "نقل کریں">
-<!ENTITY syncedTabs.context.copy.accesskey                   "ن">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "تمام ٹیبس میں کھولیں">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "ک">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 <!ENTITY syncedTabs.context.managedevices.label              "آلات کا انتظام کریں…">
 <!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
@@ -907,9 +907,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; میں سائن ان کریں…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "ابھی ہمہ وقت سازی کریں">
-<!ENTITY syncSyncNowItem.accesskey    "ہ">
+<!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; سے پھر جڑیں…">
-<!ENTITY syncReAuthItem.accesskey     "پ">
+<!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ہمہ وقت سازی ">
 
 <!ENTITY customizeMode.menuAndToolbars.header3 "اپنی پسندیدہ اشیاء کو ٹول بار یا اورفلوںمینو میں شامل کرے۔">
@@ -949,9 +949,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.autoHideDownloadsButton.label "خودکار-چھپائيں">
 
 <!ENTITY getUserMedia.selectCamera.label "شیئر کرنے کےلیے کیمرہ:">
-<!ENTITY getUserMedia.selectCamera.accesskey "ک">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "شیئر کرنے کےلیے مائیکروفون:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "م">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "ٹیب پر سے آڈیو شیئر ہو گی۔">
 <!ENTITY getUserMedia.allWindowsShared.message "آپ کی سکرین پر نظر آنے والے تمام دریچے شیئر کیے جائیں گے۔">
 
@@ -995,6 +995,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+<!ENTITY contentBlocking.breakageReportView.learnMore "مزید سیکھیں">
 
 <!ENTITY trackingProtection.title "سراغ کاری حفاظت">
 
@@ -1004,7 +1005,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock3.label "اس سائٹ کے لیئے نااہل بنائیں">
 <!ENTITY trackingProtection.unblock3.accesskey "D">
-<!ENTITY trackingProtection.unblock4.accesskey "ڈ">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -1012,12 +1013,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
 <!ENTITY trackingProtection.block4.label "اس سائٹ کے لیئے اہل بنائیں">
 <!ENTITY trackingProtection.block4.accesskey "E">
-<!ENTITY trackingProtection.unblockPrivate4.accesskey "ڈ">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.reload2.label "صفحہ پھر لوڈ کریں">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "تمام دکھائیں">
-<!ENTITY pluginNotification.showAll.accesskey "ت">
+<!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "اب اجازت دیں">
@@ -1076,7 +1077,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.acceptButton.label "&brandShorterName; کو Download کریں">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "ابھی نہیں">
-<!ENTITY updateManual.cancelButton.accesskey "ا">
+<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; کی تازہ کاپی ڈاون لوڈ کرے">
 
 <!ENTITY updateRestart.message2 "پھر سے شروع ہونے کے بعد، &brandShorterName; اپ کے تمام کھلیں ٹیب اور ونڈوں بحال کرے گا جو کی رازداری براؤزنگ موڈ میں نہیں ہے۔">

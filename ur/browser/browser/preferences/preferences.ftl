@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-learn-more = اور سیکھیں
+do-not-track-learn-more = مزید سیکھیں
 do-not-track-option-default =
     .label = صرف جب سراغ کاری حفاظت استعمال کر رہے ہوں
 do-not-track-option-always =
@@ -304,6 +304,8 @@ choose-bookmark =
 ## Search Section
 
 search-bar-header = تلاش بار
+search-bar-shown =
+    .label = سرچ بار کا ٹول بار مے ا ضافہ کریں۔
 search-engine-default-header = طےشدہ تلاش انجن
 search-suggestions-option =
     .label = تلاش تجاویز مہیا کریں
@@ -566,6 +568,9 @@ content-blocking-tracking-protection-trackers-label =
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = تمام ٹریکرس کا پتا لگا
     .accesskey = ٹ
+content-blocking-tracking-protection-option-always =
+    .label = ہمیشہ
+    .accesskey = ہ
 content-blocking-third-party-cookies-label =
     .label = تیسری تنظیم کے کوکیز
     .accesskey = ک
@@ -630,6 +635,7 @@ autoplay-option-allow =
     .label = آٹوپلے کی اجازت دیں
 autoplay-option-dont =
     .label = آٹوپلے نہ کریں
+permissions-autoplay-link = مزید سیکھیں
 permissions-block-popups =
     .label = پوپ اپ دریچے بلاک کیجیے
     .accesskey = ب
