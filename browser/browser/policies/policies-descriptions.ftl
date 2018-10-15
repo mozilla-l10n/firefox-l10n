@@ -44,3 +44,5 @@ policy-Permissions = Atur izin untuk kamera, mikrofon, lokasi, dan notifikasi.
 policy-PopupBlocking = Izinkan situs tertentu untuk menampilkan pop-up secara otomatis.
 policy-Proxy = Atur setelan proxy.
 policy-SearchBar = Setel lokasi bawaan untuk bilah pencarian. Pengguna masih diizinkan untuk mengubahsuainya.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Pasang modul PKCS #11.
