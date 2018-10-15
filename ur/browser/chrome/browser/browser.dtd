@@ -22,11 +22,13 @@
 <!ENTITY  reloadTab.label                    "ٹیب پھر لوڈ کریں">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "تمام ٹیب پھر لوڈ کریں">
-<!ENTITY  reloadAllTabs.accesskey            "ت">
+<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "دوهرا ٹیب">
 <!ENTITY  duplicateTab.accesskey             "D">
+<!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -38,6 +40,7 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "منتخب کردہ ٹیب بند کریں">
 <!ENTITY  closeSelectedTabs.accesskey        "S">
 
+<!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "ٹیب لگا دیں">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
@@ -47,7 +50,7 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "b">
+<!ENTITY  unpinSelectedTabs.accesskey        "p">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "منتخب کردہ ٹیب دوبارہ لوڈ کریں">
@@ -56,10 +59,11 @@ but will never be visible at the same time. -->
 ">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.accesskey               "R">
 <!ENTITY  bookmarkSelectedTabs.label         "ٹیب بک مارک کریں…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "K">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "B">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -70,32 +74,37 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinTab.accesskey                   "ل">
+<!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ٹیب انپن کریں">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "ٹ">
+<!ENTITY  unpinTab.accesskey                 "p">
 <!ENTITY  sendTabToDevice.label              "ٹیبب کو آلہ پر ارسال کریں">
-<!ENTITY  sendTabToDevice.accesskey          "آ">
+<!ENTITY  sendTabToDevice.accesskey          "n">
 <!ENTITY  sendPageToDevice.label             "صفحہ کو آلہ پر ارسال کریں">
-<!ENTITY  sendPageToDevice.accesskey         "آ">
+<!ENTITY  sendPageToDevice.accesskey         "n">
 <!ENTITY  sendLinkToDevice.label             "ربط کو آلہ پر ارسال کریں">
-<!ENTITY  sendLinkToDevice.accesskey         "آ">
+<!ENTITY  sendLinkToDevice.accesskey         "n">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.accesskey           "v">
+<!ENTITY  moveSelectedTabOptions.accesskey   "v">
+<!ENTITY  moveToStart.accesskey              "S">
+<!ENTITY  moveToEnd.accesskey                "E">
 <!ENTITY  moveToNewWindow.label              "نئے دریچے میں بڑھائیں">
-<!ENTITY  moveToNewWindow.accesskey          "د">
+<!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  reopenInContainer.label            "کنٹینر میں پھر کھولیں">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "تمام ٹیب بک مارک کریں…">
-<!ENTITY  bookmarkAllTabs.accesskey          "ٹ">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "B">
 <!ENTITY  undoCloseTab.label                 "ٹیب بند کو کالعدم کریں">
-<!ENTITY  undoCloseTab.accesskey             "ک">
+<!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ٹیب بند کر دیں">
-<!ENTITY  closeTab.accesskey                 "ب">
+<!ENTITY  closeTab.accesskey                 "c">
 <!ENTITY  hiddenTabs.label                   "چھپے ہوئے ٹیبس">
 
 <!ENTITY  listAllTabs.label      "تمام ٹیب دکھائیں">
