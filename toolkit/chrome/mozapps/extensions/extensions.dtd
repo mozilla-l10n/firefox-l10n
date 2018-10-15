@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Add-onbeheerder">
 
 <!ENTITY search.placeholder2                  "Zoeken op addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "addons.mozilla.org doorzoeken">
 <!ENTITY search.buttonlabel                   "Zoeken">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
