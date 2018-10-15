@@ -92,6 +92,9 @@ extension-controlled-privacy-containers = Ekstensi <img data-l10n-name="icon"/> 
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Ekstensi <img data-l10n-name="icon"/> { $name } mengendalikan perlindungan pelacakan.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Ekstensi <img data-l10n-name="icon"/> { $name } mengontrol setelan ini.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Ekstensi <img data-l10n-name="icon"/> { $name } mengendalikan cara { -brand-short-name } tersambung ke internet.

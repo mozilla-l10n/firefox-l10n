@@ -34,7 +34,10 @@ policy-DisablePrivateBrowsing = Nonaktifkan Penjelajahan Pribadi.
 policy-DisableProfileImport = Nonaktifkan perintah menu untuk mengimpor data dari peramban lainnya.
 policy-DisableTelemetry = Nonaktifkan Telemetry.
 policy-DisplayMenuBar = Tampilkan Bilah Menu secara otomatis.
+policy-DNSOverHTTPS = Konfigurasikan DNS lewat HTTPS.
 policy-DontCheckDefaultBrowser = Nonaktifkan pemeriksaan untuk peramban bawaan saat memulai.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Aktifkan atau nonaktifkan Pemblokiran Konten dan kunci ia secara opsional.
 policy-FlashPlugin = Izinkan atau tolak penggunaan plugin Flash.
 policy-InstallAddonsPermission = Izinkan situs tertentu untuk memasang pengaya.
 policy-Permissions = Atur izin untuk kamera, mikrofon, lokasi, dan notifikasi.
