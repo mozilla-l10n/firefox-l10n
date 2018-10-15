@@ -483,7 +483,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "T">
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Automatikus elrejtés az eszköztárban">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
-<!ENTITY customizeMenu.manageExtension.label "Kiterjesztés kezelése">
+<!ENTITY customizeMenu.manageExtension.label "Kiegészítő kezelése">
 <!ENTITY customizeMenu.manageExtension.accesskey "K">
 
 <!ENTITY customizeMenu.removeExtension.label "Kiegészítő eltávolítása">
@@ -498,7 +498,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Keresés vagy cím">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "Kiterjesztés:">
+<!ENTITY urlbar.extension.label       "Kiegészítő:">
 <!ENTITY urlbar.switchToTab.label     "Váltás erre a lapra:">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
@@ -1130,20 +1130,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "Az Új lap megváltozott.">
 <!ENTITY newTabControlled.keepButton.label "Módosítások megtartása">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
-<!ENTITY newTabControlled.disableButton.label "Kiterjesztés letiltása">
+<!ENTITY newTabControlled.disableButton.label "Kiegészítő letiltása">
 <!ENTITY newTabControlled.disableButton.accesskey "l">
 
-<!ENTITY homepageControlled.message "Egy kiterjesztés megváltoztatta a kezdőlapot. Visszaállíthatja a beállításokat, ha nem szeretné ezt a változást.">
+<!ENTITY homepageControlled.message "Egy kiegészítő megváltoztatta a kezdőlapot. Visszaállíthatja a beállításokat, ha nem szeretné ezt a változást.">
 <!ENTITY homepageControlled.header.message "A kezdőlap megváltozott.">
 <!ENTITY homepageControlled.keepButton.label "Módosítások megtartása">
 <!ENTITY homepageControlled.keepButton.accesskey "t">
-<!ENTITY homepageControlled.disableButton.label "Kiterjesztés letiltása">
+<!ENTITY homepageControlled.disableButton.label "Kiegészítő letiltása">
 <!ENTITY homepageControlled.disableButton.accesskey "l">
 
 <!ENTITY tabHideControlled.header.message "Érje el a rejtett lapjait">
 <!ENTITY tabHideControlled.keepButton.label "Lapok rejtve tartása">
 <!ENTITY tabHideControlled.keepButton.accesskey "t">
-<!ENTITY tabHideControlled.disableButton.label "Kiterjesztés letiltása">
+<!ENTITY tabHideControlled.disableButton.label "Kiegészítő letiltása">
 <!ENTITY tabHideControlled.disableButton.accesskey "l">
 
 <!ENTITY pageActionButton.tooltip "Oldalműveletek">
@@ -1151,7 +1151,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.removeFromUrlbar.label "Eltávolítás a címsávból">
 <!ENTITY pageAction.allowInUrlbar.label "Megjelenítés a címsávban">
 <!ENTITY pageAction.disallowInUrlbar.label "Ne jelenjen meg a címsávban">
-<!ENTITY pageAction.manageExtension.label "Kiterjesztés kezelése…">
+<!ENTITY pageAction.manageExtension.label "Kiegészítő kezelése…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Lap küldése eszközre">
 
