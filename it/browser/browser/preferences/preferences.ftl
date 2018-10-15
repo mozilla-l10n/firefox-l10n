@@ -327,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Server proxy
 network-settings-title = Impostazioni di rete
 network-proxy-connection-description = Determina come { -brand-short-name } si collega a Internet.
 network-proxy-connection-learn-more = Ulteriori informazioni
@@ -593,26 +592,12 @@ sitedata-total-size-calculating = Calcolo dimensioni…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = I cookie, i dati salvati dai siti web e la cache stanno utilizzando { $value } { $unit } di spazio su disco
 sitedata-learn-more = Ulteriori informazioni
-sitedata-accept-cookies-option =
-    .label = Accetta cookie e dati dai siti web (consigliato)
-    .accesskey = k
-sitedata-block-cookies-option =
-    .label = Blocca cookie e dati dei siti web (alcuni siti potrebbero non funzionare correttamente)
-    .accesskey = B
 sitedata-keep-until = Conservali fino
     .accesskey = v
 sitedata-keep-until-expire =
     .label = alla loro scadenza
 sitedata-keep-until-closed =
     .label = alla chiusura di { -brand-short-name }
-sitedata-accept-third-party-desc = Accetta cookie e dati da siti di terze parti
-    .accesskey = t
-sitedata-accept-third-party-always-option =
-    .label = sempre
-sitedata-accept-third-party-visited-option =
-    .label = dai siti visitati
-sitedata-accept-third-party-never-option =
-    .label = mai
 
 sitedata-allow-cookies-option =
     .label = Accetta cookie e dati dei siti web
@@ -742,10 +727,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Mai
     .accesskey = a
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Attiva la protezione antitracciamento in modalità Navigazione anonima per bloccare i tracciatori conosciuti
-    .accesskey = g
 tracking-exceptions =
     .label = Eccezioni…
     .accesskey = E

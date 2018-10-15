@@ -401,7 +401,6 @@
 <!ENTITY reloadFrameCmd.label "Ricarica riquadro">
 <!ENTITY reloadFrameCmd.accesskey "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Visualizza sorgente selezione">
-<!ENTITY viewPartialSourceForMathMLCmd.label "Visualizza sorgente MathML">
 <!ENTITY viewPartialSourceCmd.accesskey "u">
 <!ENTITY viewPageSourceCmd.label "Visualizza sorgente pagina">
 <!ENTITY viewPageSourceCmd.accesskey "u">
@@ -675,8 +674,6 @@
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "L’audio della scheda verrà condiviso.">
 <!ENTITY getUserMedia.allWindowsShared.message "Tutte le finestre visibili sullo schermo verranno condivise.">
-<!ENTITY trackingProtection.on "Protezione antitracciamento: ATTIVA">
-<!ENTITY trackingProtection.off "Protezione antitracciamento: DISATTIVATA">
 <!ENTITY contentBlocking.title "Blocco contenuti">
 <!ENTITY contentBlocking.detected "Rilevati contenuti bloccabili in questo sito.">
 <!ENTITY contentBlocking.notDetected "Nessun contenuto bloccabile in questo sito.">
@@ -703,20 +700,8 @@
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Annulla">
 <!ENTITY trackingProtection.title "Protezione antitracciamento">
 <!ENTITY trackingProtection.tooltip "Apri impostazioni per la protezione antitracciamento">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; sta bloccando elementi in questa pagina in grado di tracciare la navigazione.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; ha rilevato elementi in questa pagina in grado di tracciare la navigazione.">
-<!ENTITY trackingProtection.notDetected5 "Nessun elemento tracciante rilevato in questa pagina.">
-<!ENTITY trackingProtection.reloadRequired2 "La protezione antitracciamento è ora attiva. Per bloccare tutti gli elementi traccianti ricaricare la pagina.">
-<!ENTITY trackingProtection.detectedException "Rilevati elementi in grado di tracciare la navigazione. La protezione antitracciamento è stata disattivata per questo sito.">
-<!ENTITY trackingProtection.notDetectedException "Nessun elemento tracciante rilevato in questa pagina. La protezione antitracciamento è stata disattivata per questo sito.">
-<!ENTITY trackingProtection.unblock3.label "Disattiva per questo sito">
-<!ENTITY trackingProtection.unblock3.accesskey "s">
 <!ENTITY trackingProtection.unblock4.label "Disattiva blocco per questo sito">
 <!ENTITY trackingProtection.unblock4.accesskey "s">
-<!ENTITY trackingProtection.unblockPrivate3.label "Disattiva per questa sessione">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "Attiva per questo sito">
-<!ENTITY trackingProtection.block4.accesskey "A">
 <!ENTITY trackingProtection.unblockPrivate4.label "Disattiva blocco temporaneamente">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Attiva blocco per questo sito">

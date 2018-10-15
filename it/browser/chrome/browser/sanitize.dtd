@@ -16,8 +16,6 @@
 <!ENTITY clearTimeDuration.today "oggi">
 <!ENTITY clearTimeDuration.everything "tutto">
 <!ENTITY clearTimeDuration.suffix "">
-<!ENTITY detailsProgressiveDisclosure.label "Dettagli">
-<!ENTITY detailsProgressiveDisclosure.accesskey "e">
 <!ENTITY historySection.label "Cronologia">
 <!ENTITY dataSection.label "Dati">
 <!ENTITY itemHistoryAndDownloads.label "Cronologia navigazione e download">
