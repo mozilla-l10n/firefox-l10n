@@ -948,6 +948,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.disabled.label "نااہل">
 
+<!ENTITY contentBlocking.fastBlock.label "آہستہ لوڈ ہونے والے ٹریکرس">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -959,6 +960,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+<!ENTITY contentBlocking.trackingProtection2.label "تمام ٹریکرس کا پتا لگا">
 <!ENTITY contentBlocking.trackingProtection3.label "ٹریکرس">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned

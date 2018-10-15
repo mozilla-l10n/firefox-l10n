@@ -554,8 +554,17 @@ content-blocking-toggle-label-on = چالو
 content-blocking-toggle-label-off = بند
     .accesskey = O
 content-blocking-category-label = چنیں کیا بلاک کرنا ہے
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = آہستہ لوڈ ہونے والے ٹریکرس
+    .accesskey = س
 content-blocking-tracking-protection-trackers-label =
     .label = ٹریکرس
+    .accesskey = ٹ
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = تمام ٹریکرس کا پتا لگا
     .accesskey = ٹ
 content-blocking-third-party-cookies-label =
     .label = تیسری تنظیم کے کوکیز
