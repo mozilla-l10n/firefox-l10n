@@ -712,6 +712,23 @@ content-blocking-third-party-cookies-label =
     .label = Toupinoù tredeoù
     .accesskey = T
 content-blocking-reject-trackers-description = Stankañ toupinoù an tredeoù pe an hini lakaet gant heulierien hepken.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Hoc'h arventennoù e Toupinoù ha Roadennoù lec'hienn a zidenn d'ober kemmoù d'an arventennoù toupinoù an tredeoù.
+content-blocking-change-cookie-settings =
+    .label = Kemmañ an arventennoù toupinoù
+    .accesskey = K
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Heulierien (erbedet)
+    .accesskey = H
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Heulierien
+    .accesskey = H
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Holl doupinoù tredeoù (gallout a ra terriñ lec'hiennoù 'zo)
+    .accesskey = H
 
 ## Privacy Section - Tracking
 
@@ -774,6 +791,7 @@ autoplay-option-allow =
     .label = Aotren al lenn emgefreek
 autoplay-option-dont =
     .label = Na lenn emgefreek
+permissions-autoplay-link = Gouzout hiroc'h
 permissions-block-popups =
     .label = Herzel an diflugelloù
     .accesskey = H
