@@ -528,6 +528,7 @@ privacy-header = Приватність браузера
 ## Privacy Section - Forms
 
 forms-header = Форми і Паролі
+logins-header = Входи і паролі
 forms-ask-to-save-logins =
     .label = Запит збереження паролів для веб-сайтів
     .accesskey = п
@@ -687,6 +688,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Повільні елементи стеження
     .accesskey = в
 content-blocking-fastblock-new-description = Блокувати лише елементи стеження, що сповільнюють завантаження сторінок.
+content-blocking-tracking-protection-trackers-label =
+    .label = Стеження
+    .accesskey = т
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Виявлене стеження
     .accesskey = я
