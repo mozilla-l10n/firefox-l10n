@@ -42,10 +42,13 @@
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
 <!ENTITY lightning.calendarproperties.email.label                           "E-mail:">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Selectează ca preferință programarea prin e-mail pe partea de client">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Pentru moment, poți activa acesta numai în dialogul proprietăți a calendarului dacă server-ul calendarului este responsabil de planificare.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Această opțiune este disponibilă numai dacă server-ul calendarului este responsabil de planificare. Activarea va permite întoarcerea la planificare standard pe bază de email față de planificare de server.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Acceptă">
@@ -54,9 +57,12 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Acceptați invitația la eveniment pentru toate aparițiile evenimentului">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Adaugă">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Adaugă evenimentul în calendar">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Refuză">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Refuză invitația la eveniment">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Refuză tot">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Refuză invitația la eveniment pentru toate aparițiile evenimentului">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Refuză">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Refuză contrapropunerea">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Șterge">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Șterge din calendar">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detalii…">
@@ -65,6 +71,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Clic pentru a se afișa mai multe opțiuni">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirmare">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Trimite o reconfirmare organizatorului">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Reprogramează">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Reprogramează evenimentul">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Salvează o copie">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Salvați o copie a evenimentului din calendar în mod independent de răspunsul de la organizator. Lista de participanți va fi ștearsă.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Tentativă">
@@ -75,6 +83,12 @@
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Actualizare eveniment în calendar">
 <!ENTITY lightning.imipbar.description                                      "Mesajul conține o invitație la un eveniment.">
 
+<!ENTITY lightning.imipbar.btnSend.label                                    "Trimite un răspuns acum">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Trimite un răspuns organizatorului">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Trimite un răspuns organizatorului pentru toată seria">
+<!ENTITY lightning.imipbar.btnDontSend.label                                "Nu trimite niciun răspuns">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Modifică starea de participare fără să trimiți un răspuns organizatorului">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Modifică starea de participare pentru serie fără să trimiți un răspuns organizatorului">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
