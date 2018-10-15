@@ -151,6 +151,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Marcar pestañas seleccionadas…">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Seleccionar todas las pestañas">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Deshacer cerrar pestaña">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "h">
 
@@ -822,6 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Seguridad del sitio">
 
+<!ENTITY identity.connection "Conexión">
 <!ENTITY identity.connectionSecure "Conexión segura">
 <!ENTITY identity.connectionNotSecure "Conexión insegura">
 <!ENTITY identity.connectionFile "Esta página está guardada en su computadora.">
@@ -988,6 +990,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Agregar bloqueo…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Todos los rastreadores detectados">
+<!ENTITY contentBlocking.trackingProtection3.label "Rastreadores">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
