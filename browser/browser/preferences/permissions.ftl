@@ -98,11 +98,6 @@ permissions-exceptions-addons-desc = U kunt opgeven welke websites toestemming h
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Websites met toestemming - Automatisch afspelen
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = U kunt opgeven welke websites toestemming hebben om automatisch media-elementen af te spelen. Typ het exacte adres van de website die u toestemming wilt geven en klik vervolgens op Toestaan.
-
 permissions-exceptions-autoplay-media-window2 =
     .title = Uitzonderingen - Automatisch afspelen
     .style = { permissions-window.style }

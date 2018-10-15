@@ -10,7 +10,6 @@
 <!ENTITY returnToPreviousPage.label "Terug">
 <!ENTITY returnToPreviousPage1.label "Teruggaan (Aanbevolen)">
 <!ENTITY advanced.label "Geavanceerd">
-
 <!ENTITY continue2.label "Meer…">
 <!ENTITY moreInformation.label "Meer informatie">
 
@@ -155,7 +154,6 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "De eigenaar van <span class='hostname'/> heeft zijn of haar website niet juist geconfigureerd. Om uw gegevens tegen diefstal te beschermen, heeft &brandShortName; geen verbinding met deze website gemaakt.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; heeft een mogelijk beveiligingsrisico gedetecteerd en is niet doorgegaan naar <span class='hostname'/>. Als u deze website bezoekt, zouden hackers gegevens kunnen proberen te stelen, zoals uw wachtwoorden, e-mailadressen of creditcardgegevens.">
 
 <!ENTITY certerror.expiredCert.secondPara "Dit probleem komt zeer waarschijnlijk doordat uw computerklok op de verkeerde tijd is ingesteld, waardoor &brandShortName; geen beveiligde verbinding kan maken.">
@@ -195,7 +193,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Uitzondering toevoegen…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Het risico aanvaarden en doorgaan">
 
 <!ENTITY errorReporting.automatic2 "Fouten als deze rapporteren om Mozilla te helpen kwaadwillende websites te herkennen en te blokkeren">
