@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Eragotzi nabigatzaileak sistemaren gehigarriak
 policy-DisableTelemetry = Desgaitu Telemetry.
 policy-DisplayBookmarksToolbar = Bistaratu lehenespenez laster-marken tresna-barra.
 policy-DisplayMenuBar = Bistaratu lehenespenez menu-barra.
+policy-DNSOverHTTPS = Konfiguratu HTTPS gaineko DNSa
 policy-DontCheckDefaultBrowser = Desgaitu abioan nabigatzaile lehenetsia egiaztatzea.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Gaitu edo desgaitu edukia blokeatzea eta blokeatu ezarpen hau.
@@ -62,9 +63,12 @@ policy-OverridePostUpdatePage = Gainidatzi eguneraketen ondoko "Nobedadeak" orri
 policy-Permissions = Konfiguratu baimenak kamera, mikrofono, kokapen eta jakinarazpenentzat.
 policy-PopupBlocking = Baimendu zenbait webguneri lehenespenez popup leihoak bistaratzea.
 policy-Proxy = Konfiguratu proxy-ezarpenak.
+policy-RequestedLocales = Ezarri aplikazioari eskatuko zaizkion hizkuntza-kodeen zerrenda, hobetsitakoen arabera ordenatuta.
 policy-SanitizeOnShutdown = Garbitu nabigazio-datu guztiak nabigatzailea ixtean.
 policy-SearchBar = Ezarri bilaketa-barraren kokaleku lehenetsia. Erabiltzaileek oraindik ere pertsonalizatu ahal izango dute.
 policy-SearchEngines = Konfiguratu bilaketa-motorren ezarpenak. Politika hau Extended Support Release (ESR) bertsiorako dago erabilgarri soilik.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instalatu PKCS #11 moduluak.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Blokeatu zenbait webgune bisitatzea. Irakurri dokumentazioa formatuaren gaineko xehetasun gehiagorako.
