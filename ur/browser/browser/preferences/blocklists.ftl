@@ -24,7 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Disconnect.me اساسی حفاظت (تجویز کردہ)۔
-blocklist-item-moz-std-desc = سراغ راہ کو اجازت دیں تاکہ ویب سائٹ صحیع طرح سے فعل کریں۔
+blocklist-item-moz-std-name = Disconnect.me اساسی حفاظت (سفارش شدا)۔
+blocklist-item-moz-std-desc = ٹریکرس کواجازت دیں تاکہ ویب سائٹ صحیع طرح سے فعل کریں۔
 blocklist-item-moz-full-name = Disconnect.me سخت حفاظت۔
-blocklist-item-moz-full-desc = سراغ راہ کو بلاک کرنے سے چند  ویب سائٹ صحیع طرح سے فعل نہیں کریں گی۔
+blocklist-item-moz-full-desc = ٹریکرس کوبلاک کرنے سے چندویب سائٹ صحیع طرح سے فعل نہیں کریں گی۔
