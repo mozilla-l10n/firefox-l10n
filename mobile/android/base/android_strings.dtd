@@ -215,7 +215,6 @@
 <!ENTITY pref_use_system_font_size "Utilizza dim. caratteri di sistema">
 <!ENTITY pref_use_system_font_size_summary "Ridimensiona i contenuti web in base alle dimensioni dei caratteri di sistema">
 <!ENTITY pref_media_autoplay_enabled "Consenti riproduz. automatica">
-<!ENTITY pref_media_autoplay_enabled_summary "Determina se i siti web possono riprodurre automaticamente video e altri contenuti multimediali">
 <!ENTITY pref_media_autoplay_allow "Consenti riproduz. automatica">
 <!ENTITY pref_media_autoplay_block "Blocca riproduz. automatica">
 <!ENTITY pref_zoom_force_enabled "Consenti sempre zoom">
@@ -478,8 +477,6 @@
 <!ENTITY bookmarks_restricted_webmaker "Impara il Web: Mozilla Webmaker">
 <!ENTITY unsupported_sdk_version "Siamo spiacenti, questa versione di &brandShortName; non è compatibile con questo dispositivo (&formatS1;, &formatS2;). È necessario scaricare la versione corretta.">
 <!ENTITY corrupt_apk "Impossibile aprire &brandShortName;. Reinstallarlo e riprovare.">
-<!ENTITY eol_notification_title2 "&brandShortName; non verrà più aggiornato">
-<!ENTITY eol_notification_summary "Tocca per ulteriori informazioni">
 <!ENTITY whatsnew_notification_title "&brandShortName; è aggiornato">
 <!ENTITY whatsnew_notification_summary "Scopri le novità in questa versione">
 <!ENTITY promotion_add_page_shortcut "Agg. scorciatoia alla pagina">
