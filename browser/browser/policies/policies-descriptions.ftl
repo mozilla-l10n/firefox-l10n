@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Estä selainta asentamasta ja päivittämäst�
 policy-DisableTelemetry = Poista kaukomittaus käytöstä.
 policy-DisplayBookmarksToolbar = Näytä kirjanmerkkipalkki oletusarvoisesti.
 policy-DisplayMenuBar = Näytä valikkopalkki oletusarvoisesti.
+policy-DNSOverHTTPS = Käytä DNS:ää HTTPS:n välityksellä.
 policy-DontCheckDefaultBrowser = Poista käytöstä oletusselaimen tarkistus käynnistettäessä.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ota käyttöön tai poista käytöstä sisällön esto, ja valinnaisesti lukitse asetus.
@@ -65,6 +66,8 @@ policy-Proxy = Määritä välityspalvelimen asetukset.
 policy-SanitizeOnShutdown = Poista kaikki selailutiedot suljettaessa selain.
 policy-SearchBar = Aseta hakupalkin oletussijainti. Käyttäjä voi silti vaihtaa sitä.
 policy-SearchEngines = Aseta hakukoneasetukset. Tämä käytäntö on käytettävissä vain Extended Support Release (ESR) -versiossa.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Asenna PKCS #11 -moduulit.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Estä sivustojen avaaminen. Katso ohjeista lisätietoja käyttötavasta.
