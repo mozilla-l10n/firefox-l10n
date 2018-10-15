@@ -445,6 +445,7 @@
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "Сөйлесуде ашу">
 <!ENTITY openInConversationCmd.accesskey "s">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Салынымдар">
 <!ENTITY openAttachmentListCmd.accesskey "м">
 <!ENTITY openFeedMessage1.label "Жаңалықтар таспасынан хабарламаны ашу кезінде">
