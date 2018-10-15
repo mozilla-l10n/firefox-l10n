@@ -13,6 +13,7 @@
 
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
+<!ENTITY volumeScrubber.label "Glisor de volum">
 
 <!ENTITY stats.media "Multimedia">
 <!ENTITY stats.size "Dimensiune">
