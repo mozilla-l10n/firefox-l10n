@@ -519,7 +519,7 @@ sync-device-name-save =
 sync-mobilepromo-single = Conectează alt dispozitiv
 sync-mobilepromo-multi = Gestionează dispozitivele
 sync-tos-link = Termenii de utilizare a serviciului
-sync-fxa-privacy-notice = Politica de confidențialitate
+sync-fxa-privacy-notice = Notificare privind confidențialitatea
 
 ## Privacy Section
 
@@ -807,7 +807,7 @@ permissions-a11y-privacy-link = Află mai multe
 
 collection-header = Colectarea și utilizarea de date din { -brand-short-name }
 collection-description = Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim { -brand-short-name } pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații personale.
-collection-privacy-notice = Politica de confidențialitate
+collection-privacy-notice = Notificare privind confidențialitatea
 collection-health-report =
     .label = Permite-i lui { -brand-short-name } să trimită informații tehnice și interactive către { -vendor-short-name }
     .accesskey = r

@@ -158,11 +158,14 @@
 <!ENTITY wifi_auth_scan_request "Adresa (endpoint-ul) la care te conectezi necesită mai multe informații pentru autentificarea conexiunii.  Te rugăm să scanezi codul QR de mai jos prin intermediul dialogului solicitat de pe celălalt dispozitiv.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "Niciun mesaj de ghidare de la scanerul de coduri QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Vezi un mesaj de ghidare de la scanerul de coduri QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Dacă celălalt dispozitiv solicită un cod în loc de scanarea unui cod QR, te rugăm să copiezi valoarea de mai jos în celălalt dispozitiv:">
+<!ENTITY wifi_auth_qr_size_note "În cazul în care codul QR apare prea mic pentru stabilirea cu succes a conexiunii, încearcă cu zoom sau să mărești fereastra.">
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Pre-împachetarea jurnalelor de comenzi">

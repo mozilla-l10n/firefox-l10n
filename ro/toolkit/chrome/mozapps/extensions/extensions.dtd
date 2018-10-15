@@ -125,7 +125,7 @@
 <!ENTITY detail.version.label                 "Versiune">
 <!ENTITY detail.lastupdated.label             "Ultima actualizare">
 <!ENTITY detail.creator.label                 "Dezvoltator">
-<!ENTITY detail.homepage.label                "Pagina de start">
+<!ENTITY detail.homepage.label                "Pagină de start">
 
 <!ENTITY detail.contributions.description     "Dezvoltatorul acestei extensii îți cere sprijinul pentru continuarea perfecționării acesteia printr-o mică donație.">
 
@@ -136,7 +136,7 @@
 <!ENTITY detail.updateAutomatic.tooltip       "Instalează actualizări automat">
 <!ENTITY detail.updateManual.label            "Dezactivate">
 <!ENTITY detail.updateManual.tooltip          "Nu instala actualizările automat">
-<!ENTITY detail.home                          "Pagina de start">
+<!ENTITY detail.home                          "Pagină de start">
 <!ENTITY detail.repository                    "Profilul suplimentului">
 <!ENTITY detail.size                          "Mărime">
 
@@ -158,7 +158,7 @@
 <!ENTITY progress.pause.tooltip               "Pauză">
 <!ENTITY progress.cancel.tooltip              "Renunță">
 
-<!ENTITY addon.homepage                       "Pagina de start">
+<!ENTITY addon.homepage                       "Pagină de start">
 <!ENTITY addon.details.label                  "Mai multe">
 <!ENTITY addon.details.tooltip                "Afișează mai multe detalii despre acest supliment">
 <!ENTITY addon.unknownDate                    "Necunoscut">
