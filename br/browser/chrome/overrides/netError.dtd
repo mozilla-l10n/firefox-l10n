@@ -11,7 +11,8 @@
 <!ENTITY returnToPreviousPage1.label "Distreiñ (Erbedet)">
 <!ENTITY advanced.label "Kempleshoc'h">
 
-<!ENTITY continue1.label "Kenderc'hel...">
+<!ENTITY continue2.label "Muioc'h...">
+<!ENTITY moreInformation.label "Muioc'h a ditouroù">
 
 <!-- Specific error messages -->
 
@@ -95,12 +96,11 @@
 
 <!ENTITY certerror.longpagetitle1 "N'eo ket diarvar ho kennask">
 <!ENTITY certerror.longpagetitle2 "Diwallit: gallout a ra bezañ un arvar diogelroez">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Direizh eo ket bet kefluniet o lec'hienn wiad gant perc'henned <span class='hostname'/>. Kuit na vefe laeret ho stlennoù n'oc'h ket bet kennasket ouzh al lec'hienn-mañ gant &brandShortName;.">
 
-<!ENTITY certerror.introPara1 "Dinoet ez eus bet ur riskl arvar diogelroez gant &brandShortName; ha n'en deus ket kendalc'het etrezek <span class='hostname'/>. Ma weladennit al lec'hienn-mañ e c'hallo tagerien klask laerañ ho titouroù evel ho kerioù-tremen, ho chomlec'hioù postel pe ho kartenn gred.">
 
 <!ENTITY certerror.expiredCert.secondPara "Gallout a ra bezañ liammet ar gudenn-mañ gant eurier hoc'h urzhiataer. Un eur direizh a c'hall mirout &brandShortName; da genderc'hel en un doare diogel.">
 
@@ -111,10 +111,6 @@ was trying to connect. -->
 <p>Ma 'z oc'h war ur genrouedad kenlabourus pe e rit gant ur meziant enepviruz, gellout a rit mont e darempred gant ar skipailhoù skoazell evit kaout sikour. Gellout a rit reiñ da anavezout ar gudenn d'ar merour ivez.</p>
 ">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "
-<p>Horolaj hoc'h urzhiataer a zo termenet da <span id='wrongSystemTime_systemDate'/>. Bezit asur ez eo termenet mat deiziad, eurvezh, ha zonenn eurvezh hoc'h urzhiater en hoc'h arventennoù reizhiad, ha freskait da c'houde <span class='hostname'/>.</p>
-<p>If your clock is already set to the right time, the website is likely misconfigured, and there is nothing you can do to resolve the issue. You can notify the website’s administrator about the problem.</p>
-">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>Liammet eo ar gudenn gant al lec'hienn sur-mat, ha n'eus netra e c'hallfec'h ober evit dont a-benn anezhi. Gellout a rit reiñ da anavezout ar gudenn d'ar merour ivez.</p>
@@ -130,6 +126,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ouzhpennañ un nemedenn…">
+
 
 <!ENTITY errorReporting.automatic2 "Danevellit kudennoù evel-se evit sikour Mozilla da naoudiañ ha stankañ al lec'hiennoù droukrañsus">
 <!ENTITY errorReporting.learnMore "Gouzout hiroc'h…">
@@ -160,6 +157,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> a arver ur c'halverezh diogelroez diamzeret ha bresk. Gallout a rafe un tager dizoloiñ titouroù a gredec'h diarvar. Ret vo da verour al lec'hienn ratreañ an dafariad a-raok ma c'hallfec'h gweladenniñ al lec'hienn.</p><p>Boneg fazi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pajenn stanket">
+
 
 <!ENTITY prefReset.longDesc "Gallout a ra hoc'h arventennoù rouedad bezañ kaoz eus kement-se. Fellout a ra deoc'h assav an arventennoù dre ziouer?">
 <!ENTITY prefReset.label "Assav an arventennoù dre ziouer">
