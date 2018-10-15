@@ -4,3 +4,6 @@
 
 restart-required-title = Yeniden başlatma gerekiyor
 restart-required-header = Kusura bakmayın, devam etmeden önce küçük bir işimiz daha var.
+restart-required-intro = Arka planda bir güncelleme yükledik. Güncellemeyi uygulamak için “{ -brand-short-name } tarayıcısını yeniden başlat” düğmesine tıklayın.
+restart-required-description = Güncellemeden sonra hemen işinize dönebilmeniz için tüm sayfa, pencere ve sekmelerinizi geri yükleyeceğiz.
+restart-button-label = { -brand-short-name } tarayıcısını yeniden başlat
