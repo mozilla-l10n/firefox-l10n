@@ -416,8 +416,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Netwerkproxy
-
 network-settings-title = Netwerkinstellingen
 
 network-proxy-connection-description = Configureren hoe { -brand-short-name } verbinding maakt met het internet.
@@ -748,14 +746,6 @@ sitedata-total-size = Uw opgeslagen cookies, websitegegevens en buffer gebruiken
 
 sitedata-learn-more = Meer info
 
-sitedata-accept-cookies-option =
-    .label = Cookies en websitegegevens van websites accepteren (aanbevolen)
-    .accesskey = C
-
-sitedata-block-cookies-option =
-    .label = Cookies en websitegegevens blokkeren (kan ervoor zorgen dat websites niet goed werken)
-    .accesskey = b
-
 sitedata-keep-until = Bewaren totdat
     .accesskey = B
 
@@ -763,16 +753,6 @@ sitedata-keep-until-expire =
     .label = Ze verlopen
 sitedata-keep-until-closed =
     .label = { -brand-short-name } wordt afgesloten
-
-sitedata-accept-third-party-desc = Cookies van derden en websitegegevens accepteren
-    .accesskey = d
-
-sitedata-accept-third-party-always-option =
-    .label = Altijd
-sitedata-accept-third-party-visited-option =
-    .label = Van bezochte
-sitedata-accept-third-party-never-option =
-    .label = Nooit
 
 sitedata-allow-cookies-option =
     .label = Cookies en websitegegevens accepteren
@@ -917,11 +897,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nooit
     .accesskey = N
-
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Bescherming tegen volgen gebruiken in Privénavigatie om bekende trackers te blokkeren
-    .accesskey = v
 
 tracking-exceptions =
     .label = Uitzonderingen…

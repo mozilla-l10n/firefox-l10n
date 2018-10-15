@@ -615,9 +615,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Deelvenster vernieuwen">
 <!ENTITY reloadFrameCmd.accesskey     "n">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Bron van selectie bekijken">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML-bron bekijken">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "B">
 <!ENTITY viewPageSourceCmd.label      "Paginabron bekijken">
 <!ENTITY viewPageSourceCmd.accesskey  "b">
@@ -834,7 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Gereed">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Editor tonen bij opslaan">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "E">
 
@@ -985,9 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Audio van het tabblad wordt gedeeld.">
 <!ENTITY getUserMedia.allWindowsShared.message "Alle zichtbare vensters op uw scherm worden gedeeld.">
 
-<!ENTITY trackingProtection.on "Bescherming tegen volgen: AAN">
-<!ENTITY trackingProtection.off "Bescherming tegen volgen: UIT">
-
 <!ENTITY contentBlocking.title "Inhoudsblokkering">
 <!ENTITY contentBlocking.detected "Blokkeerbare inhoud op deze website gedetecteerd.">
 <!ENTITY contentBlocking.notDetected "Geen blokkeerbare inhoud op deze pagina gedetecteerd.">
@@ -1046,28 +1039,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Bescherming tegen volgen">
 <!ENTITY trackingProtection.tooltip "Voorkeuren voor Bescherming tegen volgen openen">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokkeert onderdelen van deze pagina die uw surfgedrag zouden kunnen volgen.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; heeft elementen gedetecteerd die uw surfgedrag zouden kunnen volgen.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; heeft elementen gedetecteerd die uw surfgedrag zouden kunnen volgen. U hebt bescherming voor deze website uitgeschakeld.">
-<!ENTITY trackingProtection.notDetected5 "Geen tracking-elementen op deze pagina gedetecteerd.">
-<!ENTITY trackingProtection.notDetectedException "Geen tracking-elementen op deze pagina gedetecteerd. U hebt bescherming voor deze website uitgeschakeld.">
-
-<!ENTITY trackingProtection.reloadRequired2 "U hebt Bescherming tegen volgen ingeschakeld. Laad deze pagina opnieuw om alle trackers te blokkeren.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Uitschakelen voor deze website">
-<!ENTITY trackingProtection.unblock3.accesskey "U">
 <!ENTITY trackingProtection.unblock4.label "Blokkering voor deze website uitschakelen">
 <!ENTITY trackingProtection.unblock4.accesskey "u">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Uitschakelen voor deze sessie">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "U">
-<!ENTITY trackingProtection.block4.label "Inschakelen voor deze website">
-<!ENTITY trackingProtection.block4.accesskey "n">
 <!ENTITY trackingProtection.unblockPrivate4.label "Blokkering tijdelijk uitschakelen">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "u">
 <!ENTITY trackingProtection.block5.label "Blokkering voor deze website inschakelen">
@@ -1177,7 +1157,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten synchroniseren…">
 
 <!ENTITY pageAction.shareUrl.label "Delen">
-
 <!ENTITY pageAction.shareMore.label "Meer…">
 
 <!ENTITY libraryButton.tooltip "Geschiedenis, opgeslagen bladwijzers en meer bekijken">
