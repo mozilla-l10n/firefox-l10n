@@ -86,6 +86,10 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "b">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Senkez iccer">
+<!ENTITY  moveSelectedTabOptions.label       "Senkez iccaren">
+<!ENTITY  moveToStart.label                  "Senkez akken ad tebḍuḍ">
+<!ENTITY  moveToEnd.label                    "Senkez akken ad tfakeḍ">
 <!ENTITY  moveToNewWindow.label              "Senkez ɣer usfaylu amaynut">
 <!ENTITY  moveToNewWindow.accesskey          "m">
 <!ENTITY  reopenInContainer.label            "Ldi-d tikelt-nneḍen amagbar">
