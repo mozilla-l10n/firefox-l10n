@@ -363,7 +363,6 @@
 <!ENTITY pref_use_system_font_size_summary "Webwopśimjeśe pó systemowej pismowej wjelikosći skalěrowaś">
 
 <!ENTITY pref_media_autoplay_enabled "Awtomatiske wógraśe dowóliś">
-<!ENTITY pref_media_autoplay_enabled_summary "Kontrolěrowaś, lěc websedła mógu wideo a drugi medijowe wopśimjeśe automatiski wótgras">
 <!ENTITY pref_media_autoplay_allow "Awtomatiske wógraśe dowóliś">
 <!ENTITY pref_media_autoplay_block "Awtomatiske wógraśe blokěrowaś">
 <!ENTITY pref_zoom_force_enabled "Skalěrowanje pśecej zmóžniś">
@@ -828,9 +827,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "&brandShortName; njedajo se wócyniś. Pšosym instalěrujśo jen znowego a wopytajśo hyšći raz.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; wěcej njebuźo aktualizěrowaś">
-<!ENTITY eol_notification_summary "Pótusniśo, aby wěcej zgónił">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; jo aktualny">
@@ -904,3 +900,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "Eksterne powěźeńki &brandShortName;">
 <!ENTITY updater_notification_channel "Aktualizacije nałoženjow">
 <!ENTITY synced_tabs_notification_channel "Synchronizěrowane rejtarki">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Sedłowe powěźeńki">
