@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = منع المتصفّح من تثبيت امت
 policy-DisableTelemetry = تعطيل تيليمتري.
 policy-DisplayBookmarksToolbar = عرض شريط أدوات العلامات مبدئيا.
 policy-DisplayMenuBar = عرض شريط القوائم مبدئيا.
+policy-DNSOverHTTPS = ضبط DNS عبر HTTPS
 policy-DontCheckDefaultBrowser = تعطيل التحقق من كون المتصفح هو المبدئي عند بدئه.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = تفعيل أو تعطيل حجب المحتوى وقفل الخيار إن لزم.

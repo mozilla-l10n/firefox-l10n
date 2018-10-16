@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = اللّغات
-    .style = width: 30em
 webpage-languages-window =
     .title = إعدادات لغة صفحة الوِب
     .style = width: 40em
@@ -45,3 +42,14 @@ browser-languages-window =
     .title = إعدادات لغة { -brand-short-name }
     .style = width: 40em
 browser-languages-description = سيعرض { -brand-short-name } أول لغة كلغة مبدئية، وستُعرض بقية اللغات البديلة بالترتيب المضبوط إن كان ضروريا.
+browser-languages-search = ابحث عن لغات أخرى…
+browser-languages-searching =
+    .label = يبحث عن لغات…
+browser-languages-downloading =
+    .label = يُنزّل…
+browser-languages-select-language =
+    .label = اختر لغة لإضافتها…
+    .placeholder = اختر لغة لإضافتها…
+browser-languages-installed-label = اللغات المنصبّة
+browser-languages-available-label = اللغات المُتاحة
+browser-languages-error = تعذّر على { -brand-short-name } تحديث لغاتك حاليا. تحقق من اتصالك بالإنترنت أو أعِد المحاولة.

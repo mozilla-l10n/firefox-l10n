@@ -23,10 +23,14 @@
 <!ENTITY  reloadTab.accesskey                "ح">
 <!ENTITY  reloadAllTabs.label                "أعِد تحميل كل الألسنة">
 <!ENTITY  reloadAllTabs.accesskey            "ك">
+<!ENTITY  selectAllTabs.label                "اختر كل الألسنة">
+<!ENTITY  selectAllTabs.accesskey            "خ">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "كرّر اللسان">
 <!ENTITY  duplicateTab.accesskey             "ك">
+<!ENTITY  closeTabOptions.label              "خيارات إغلاق اللسان">
+<!ENTITY  closeTabOptions.accesskey          "ت">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -38,19 +42,29 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "أغلق الألسنة المنتقاة">
 <!ENTITY  closeSelectedTabs.accesskey        "غ">
 
+<!ENTITY  closeTabs.label                    "أغلِق الألسنة">
+<!ENTITY  closeTabs.accesskey                "غ">
 <!ENTITY  pinSelectedTabs.label              "ثبّت الألسنة">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "ث">
 <!ENTITY  unpinSelectedTabs.label            "أفلِت الألسنة">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "ف">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "أعِد تحميل الألسنة المحددة">
 <!ENTITY  reloadSelectedTabs.accesskey       "د">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "أعِد تحميل الألسنة">
+<!ENTITY  reloadTabs.accesskey               "ع">
 <!ENTITY  bookmarkSelectedTabs.label         "علّم الألسنة…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "ن">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,8 +73,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "ثبّت اللسان">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "ث">
 <!ENTITY  unpinTab.label                     "أفلِت اللسان">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "ف">
 <!ENTITY  sendTabToDevice.label              "أرسِل اللسان إلى جهاز">
 <!ENTITY  sendTabToDevice.accesskey          "ه">
@@ -68,12 +88,26 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "ه">
 <!ENTITY  sendLinkToDevice.label             "أرسل الرابط إلى جهاز">
 <!ENTITY  sendLinkToDevice.accesskey         "ه">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "انقل اللسان">
+<!ENTITY  moveTabOptions.accesskey           "ق">
+<!ENTITY  moveSelectedTabOptions.label       "انقل الألسنة">
+<!ENTITY  moveSelectedTabOptions.accesskey   "ق">
+<!ENTITY  moveToStart.label                  "انقل إلى البداية">
+<!ENTITY  moveToStart.accesskey              "د">
+<!ENTITY  moveToEnd.label                    "انقل إلى النهاية">
+<!ENTITY  moveToEnd.accesskey                "ه">
 <!ENTITY  moveToNewWindow.label              "انقل إلى نافذة جديدة">
 <!ENTITY  moveToNewWindow.accesskey          "ذ">
 <!ENTITY  reopenInContainer.label            "أعِد فتحها في الحاوية">
 <!ENTITY  reopenInContainer.accesskey        "ع">
 <!ENTITY  bookmarkAllTabs.label              "علّم كل الألسنة…">
 <!ENTITY  bookmarkAllTabs.accesskey          "س">
+<!ENTITY  bookmarkTab.label                  "علّم اللسان">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "ع">
 <!ENTITY  undoCloseTab.label                 "أعِد فتح اللسان">
 <!ENTITY  undoCloseTab.accesskey             "د">
 <!ENTITY  closeTab.label                     "أغلِق اللسان">
@@ -114,6 +148,29 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ك">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "علّم كل الألسنة…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "س">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "أعِد تحميل اللسان المنتقى">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "د">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "أعِد تحميل الألسنة المنتقاة">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "د">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "علّم اللسان المنتقى…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "ع">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "علّم الألسنة المنتقاة…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "ع">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "اختر كل الألسنة">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "خ">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "أعِد فتح اللسان">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "د">
 
@@ -558,9 +615,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "أعِد تحميل الإطار">
 <!ENTITY reloadFrameCmd.accesskey     "ت">
 <!ENTITY viewPartialSourceForSelectionCmd.label "اعرض مصدر التحديد">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "اعرض مصدر MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "ص">
 <!ENTITY viewPageSourceCmd.label      "اعرض مصدر هذه الصفحة">
 <!ENTITY viewPageSourceCmd.accesskey  "ص">
@@ -777,7 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "تمّ">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "اعرض المحرر عند الحفظ">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "ظ">
 
@@ -785,6 +838,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "أمن الموقع">
 
+<!ENTITY identity.connection "الاتصال">
 <!ENTITY identity.connectionSecure "اتصال آمن">
 <!ENTITY identity.connectionNotSecure "الاتصال غير آمن">
 <!ENTITY identity.connectionFile "هذه الصفحة مخزنة على حاسوبك.">
@@ -927,9 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "الصوت في هذا اللسان سيُشارك.">
 <!ENTITY getUserMedia.allWindowsShared.message "ستُشارك كل النوافذ الظاهرة على شاشتك.">
 
-<!ENTITY trackingProtection.on "الحماية من التعقّب: مفعّلة">
-<!ENTITY trackingProtection.off "الحماية من التعقّب: معطّلة">
-
 <!ENTITY contentBlocking.title "حجب المحتوى">
 <!ENTITY contentBlocking.detected "اكتُشف في هذا الموقع محتوى يمكن حجبه.">
 <!ENTITY contentBlocking.notDetected "لم يكتُشف في هذا الموقع أي محتوى يمكن حجبه.">
@@ -951,6 +1002,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "أضِف نوع حجب…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "كل المتعقّبات المكتشفة">
+<!ENTITY contentBlocking.trackingProtection3.label "المتعقّبات">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -987,28 +1039,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "الحماية من التعقّب">
 <!ENTITY trackingProtection.tooltip "افتح تفضيلات الحماية من التعقّب">
-<!ENTITY trackingProtection.detectedBlocked4 "يحجب &brandShortName; أجزاءً من هذه الصفحة ربما تتعقب تصفّحك.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "اكتشف &brandShortName; عناصر قد تتعقّب التصفّح.">
-<!ENTITY trackingProtection.detectedException "اكتشف &brandShortName; عناصر قد تتعقّب تصفّحك. لقد عطّلتَ الحماية لهذا الموقع.">
-<!ENTITY trackingProtection.notDetected5 "لم تُكتشف أيّة عناصر تعقّب في هذه الصفحة.">
-<!ENTITY trackingProtection.notDetectedException "لم تُكتشف أيّة عناصر تعقّب في هذه الصفحة. لقد عطّلتَ الحماية لهذا الموقع.">
-
-<!ENTITY trackingProtection.reloadRequired2 "لقد فعّلت الحماية ضد التعقّب. أعِد تحميل هذه الصفحة لحجب كل المتعقّبات.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "عطِّله لهذا الموقع">
-<!ENTITY trackingProtection.unblock3.accesskey "ط">
 <!ENTITY trackingProtection.unblock4.label "عطّل الحجب في هذا الموقع">
 <!ENTITY trackingProtection.unblock4.accesskey "ط">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "عطِّله لهذه الجلسة">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "ط">
-<!ENTITY trackingProtection.block4.label "فعِّله لهذا الموقع">
-<!ENTITY trackingProtection.block4.accesskey "ف">
 <!ENTITY trackingProtection.unblockPrivate4.label "عطّل الحجب مؤقتًا">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "ط">
 <!ENTITY trackingProtection.block5.label "فعّل الحجب في هذا الموقع">
@@ -1118,7 +1157,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "يُزامن الأجهزة…">
 
 <!ENTITY pageAction.shareUrl.label "شارِك">
-
 <!ENTITY pageAction.shareMore.label "أكثر…">
 
 <!ENTITY libraryButton.tooltip "اعرض التأريخ، والعلامات المحفوظة وغيرها">
