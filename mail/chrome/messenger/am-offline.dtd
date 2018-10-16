@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Pentru a economisi spațiul pe disc, nu descărca:">
 <!ENTITY doNotDownloadNntp.label "Pentru a economisi spațiu pe disc, nu descărca pentru utilizare offline:">
 <!ENTITY doNotDownloadImap.label "Pentru a câștiga spațiu pe disc, descărcarea mesajelor de pe server și păstrarea copiilor locale pentru utilizare offline poate fi restricționată după vechime sau mărime.">
-<!ENTITY allFoldersOffline.label "Păstrează mesajele contului pe acest calculator">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "Stochează local mesajele din toate dosarele acestui cont">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Notă: Această opțiune se aplică tuturor dosarelor din acest cont. Pentru a stoca mesaje doar din anumite dosare, utilizați butonul Avansat… asociat.">
@@ -34,7 +32,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Elimină corpul mesajelor mai mari de">
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
-<!ENTITY offlineSelectNntp.label "Selectați grupurile de știri pentru utilizare offline…">
+<!ENTITY offlineSelectNntp.label "Selectați grupurile de discuții pentru utilizare offline…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avansat…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
