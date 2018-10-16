@@ -42,6 +42,7 @@ policy-DisableSystemAddonUpdate = Hindre at nettlesaren installerer og oppdatere
 policy-DisableTelemetry = Slå av av telemetri.
 policy-DisplayBookmarksToolbar = Vis bokmerkeverktøylinja som standard.
 policy-DisplayMenuBar = Vise menylinja som standard.
+policy-DNSOverHTTPS = Konfigurer DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettlesar ved oppstart.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktiver eller deaktiver innhaldsblokkering med moglegheit til å låse valet.

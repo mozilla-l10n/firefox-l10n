@@ -4,3 +4,4 @@
 
 restart-required-title = Omstart påkravd
 restart-required-header = Beklagar. Vi treng berre å gjere ein liten ting for å fortsetje.
+restart-button-label = Start om { -brand-short-name }
