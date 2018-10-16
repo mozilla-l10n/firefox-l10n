@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label            "Publicare pagină">
 <!ENTITY windowTitleSettings.label    "Setări de publicare">
 <!ENTITY publishTab.label             "Publică">
 <!ENTITY settingsTab.label            "Setări">
 <!ENTITY publishButton.label          "Publică">
-<!-- Publish Tab Panel -->
 
+<!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "Numele site-ului:">
 <!ENTITY siteList.accesskey           "e">
 <!ENTITY siteList.tooltip             "Alegeți site-ul pe care doriți să publicați">
@@ -40,8 +40,8 @@
 <!ENTITY setDefaultButton.accesskey   "I">
 <!ENTITY removeButton.label           "Elimină site-ul">
 <!ENTITY removeButton.accesskey       "E">
-<!-- Settings Tab Panel -->
 
+<!-- Settings Tab Panel -->
 <!ENTITY publishSites.label           "Site-uri de publicare">
 <!ENTITY serverInfo.label             "Informații despre server">
 <!ENTITY loginInfo.label              "Informații de autentificare">
@@ -53,13 +53,13 @@
 <!ENTITY siteUrl.tooltip              "Adresa FTP:// sau HTTP:// furnizată de ISP sau de serviciul de găzduire web">
 <!ENTITY browseUrl.label              "Adresa HTTP a paginii de start (ex.: „http://www.isp.ro/numelemeu”):">
 <!ENTITY browseUrl.accesskey          "A">
-<!ENTITY browseUrl.tooltip            "Adresa HTTP:// a directorului dumneavoastră personal (nu includeți nume de fișier)">
+<!ENTITY browseUrl.tooltip            "Adresa HTTP:// a directorului personal (a nu se include și numele de fișier)">
 <!ENTITY username.label               "Nume de utilizator:">
 <!ENTITY username.accesskey           "u">
 <!ENTITY username.tooltip             "Numele de utilizator cu care vă autentificați la ISP sau la serviciul de găzduire web">
 <!ENTITY password.label               "Parolă:">
 <!ENTITY password.accesskey           "P">
-<!ENTITY password.tooltip             "Parola asociată numelui dumneavoastră de utilizator">
+<!ENTITY password.tooltip             "Parola asociată numelui de utilizator">
 <!ENTITY savePassword.label           "Salvează parola">
 <!ENTITY savePassword.accesskey       "S">
 <!ENTITY savePassword.tooltip         "Selectează această opțiune pentru a salva parola securizat folosind managerul de parole">
