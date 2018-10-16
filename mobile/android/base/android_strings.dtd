@@ -207,7 +207,7 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Аднаўленне картак, эканомія трафіку, інструменты распрацоўшчака">
-<!ENTITY pref_category_notifications "Апавяшчэнні">
+<!ENTITY pref_category_notifications "Абвесткі">
 <!ENTITY pref_category_notifications_summary2 "Новыя магчымасці, парады да прадукту">
 <!ENTITY pref_developer_remotedebugging_usb "Аддаленая адладка праз USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Аддаленая адладка праз Wi-Fi">
@@ -248,7 +248,7 @@
 <!ENTITY pref_header_search "Пошук">
 <!ENTITY pref_header_privacy_short "Прыватнасць">
 <!ENTITY pref_header_accessibility "Спецыяльныя магчымасці">
-<!ENTITY pref_header_notifications "Апавяшчэнні">
+<!ENTITY pref_header_notifications "Абвесткі">
 <!ENTITY pref_header_advanced "Пашыраныя">
 <!ENTITY pref_header_help "Даведка">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -363,7 +363,6 @@
 <!ENTITY pref_use_system_font_size_summary "Маштабаваць вэб-змесціва ў адпаведнасці з сістэмным памерам шрыфта">
 
 <!ENTITY pref_media_autoplay_enabled "Дазволіць аўтазапуск">
-<!ENTITY pref_media_autoplay_enabled_summary "Кантралюе, ці могуць вэб-сайты аўтаматычна запускаць відэа і іншы медыякантэнт">
 <!ENTITY pref_media_autoplay_allow "Дазволіць аўтазапуск">
 <!ENTITY pref_media_autoplay_block "Забараніць аўтазапуск">
 <!ENTITY pref_zoom_force_enabled "Заўсёды дазваляць змяняць маштаб">
@@ -831,9 +830,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Не атрымалася адкрыць &brandShortName;. Калі ласка, пераўсталюйце яго і паспрабуйце зноў.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; больш не будзе абнаўляцца">
-<!ENTITY eol_notification_summary "Клікніце, каб даведацца больш">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; абноўлены">
@@ -904,6 +900,9 @@ Picture-in-picture mini window -->
 <!ENTITY download_notification_channel "Сцягванні">
 <!ENTITY media_notification_channel "Прайграванне медыя">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "Паведамленні праграмы &brandShortName;">
+<!ENTITY leanplum_default_notifications_channel "Push-абвесткі &brandShortName;">
 <!ENTITY updater_notification_channel "Абнаўленні праграмы">
 <!ENTITY synced_tabs_notification_channel "Сінхранізаваныя карткі">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Абвесткі сайта">
