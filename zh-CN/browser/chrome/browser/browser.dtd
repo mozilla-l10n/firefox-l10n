@@ -148,7 +148,23 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "为全部标签页添加书签…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "重新载入所选标签页">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "重新载入所选的多个标签页">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "为选中标签页添加书签…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "为选中标签页添加书签…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "选择所有标签页">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
@@ -596,9 +612,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "重新载入框架">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "查看选中部分源代码">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "查看 MathML 源代码">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "查看页面源代码">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
@@ -815,7 +828,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "完成">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "保存时显示编辑器">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
@@ -966,9 +978,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "来自此标签页的音频将被共享。">
 <!ENTITY getUserMedia.allWindowsShared.message "您的屏幕上的所有可见窗口都将被共享。">
 
-<!ENTITY trackingProtection.on "跟踪保护：开">
-<!ENTITY trackingProtection.off "跟踪保护：关">
-
 <!ENTITY contentBlocking.title "内容拦截">
 <!ENTITY contentBlocking.detected "此网站上检测到可拦截内容。">
 <!ENTITY contentBlocking.notDetected "此页面上未检测到可拦截内容。">
@@ -1027,28 +1036,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "跟踪保护">
 <!ENTITY trackingProtection.tooltip "打开跟踪保护首选项">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; 已拦截该页面可能跟踪您的浏览行为的内容。">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; 包含可能跟踪您的浏览行为的元素。">
-<!ENTITY trackingProtection.detectedException "&brandShortName; 包含的某些元素可能跟踪您的浏览行为，但您已经禁用保护。">
-<!ENTITY trackingProtection.notDetected5 "未检测到此页面含有跟踪元素。">
-<!ENTITY trackingProtection.notDetectedException "未检测到此页面含有跟踪元素。您已对此网站禁用保护。">
-
-<!ENTITY trackingProtection.reloadRequired2 "您已启用跟踪保护。重新载入此页面以拦截所有跟踪器。">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "在此网站上禁用">
-<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!ENTITY trackingProtection.unblock4.label "对此网站禁用拦截">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "在本次会话中禁用">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "在本次会话中启用">
-<!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.unblockPrivate4.label "暂时禁用拦截">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "启用对此网站的拦截">
@@ -1158,7 +1154,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "正在同步设备…">
 
 <!ENTITY pageAction.shareUrl.label "分享">
-
 <!ENTITY pageAction.shareMore.label "更多…">
 
 <!ENTITY libraryButton.tooltip "查看浏览历史、已保存的书签等">
