@@ -53,6 +53,7 @@ pane-sync-title = Cont Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Suport { -brand-short-name }
+addons-button-label = Extensii și teme
 focus-search =
     .key = f
 close-button =
@@ -329,7 +330,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy pentru rețea
 network-settings-title = Setări de rețea
 network-proxy-connection-description = Configurează modul în care { -brand-short-name } se conectează la internet.
 network-proxy-connection-learn-more = Află mai multe
@@ -595,26 +595,12 @@ sitedata-total-size-calculating = Se calculează datele site-urilor și dimensiu
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cookie-urile stocate, datele site-urilor și cache-ul folosesc în prezent { $value } { $unit } din spațiul de pe disc.
 sitedata-learn-more = Află mai multe
-sitedata-accept-cookies-option =
-    .label = Acceptă cookie-urile și datele site-urilor de la site-uri web (recomandat)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Blochează cookie-urile și datele site-urilor (poate provoca afectarea aspectului site-urilor web)
-    .accesskey = B
 sitedata-keep-until = Păstrează-le până când
     .accesskey = u
 sitedata-keep-until-expire =
     .label = Expiră
 sitedata-keep-until-closed =
     .label = { -brand-short-name } este închis
-sitedata-accept-third-party-desc = Acceptă cookie-urile de la terți și datele site-urilor
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = Întotdeauna
-sitedata-accept-third-party-visited-option =
-    .label = De la site-urile vizitate
-sitedata-accept-third-party-never-option =
-    .label = Niciodată
 sitedata-allow-cookies-option =
     .label = Acceptă cookie-uri și datele site-urilor
     .accesskey = A
@@ -738,10 +724,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Niciodată
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Folosește protecția împotriva urmăririi pentru a bloca urmăritorii cunoscuți
-    .accesskey = v
 tracking-exceptions =
     .label = Excepții…
     .accesskey = x
