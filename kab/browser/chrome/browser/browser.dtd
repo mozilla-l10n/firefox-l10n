@@ -139,7 +139,23 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "m">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Creḍ akk accaren…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "e">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Sali-d tikkelt nniḍen iccer yettwafernen">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Sali-d tikkelt nniḍen accaren yettwafernen">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Creḍ accaren yettwafernen…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Cṛeḍ iccaren yettwafernen…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Fren akk accaren">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Sefsex amdal n yiccer">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "S">
@@ -585,9 +601,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Smiren akatar">
 <!ENTITY reloadFrameCmd.accesskey     "S">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Wali tangalt taɣbalut n tefrant">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Wali aɣbalu MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Tangalt taɣbalut n usebter">
 <!ENTITY viewPageSourceCmd.accesskey  "T">
@@ -804,7 +817,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Immed">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Sken amaẓrag deg usekles">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "k">
 
@@ -955,9 +967,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Ameslaw seg yiccer ad ittwabḍu.">
 <!ENTITY getUserMedia.allWindowsShared.message "Akk isfuyla ibanen deg ugdil-ik ad ttwabḍun.">
 
-<!ENTITY trackingProtection.on "Ammesten mgal asfuɣel: IRMED">
-<!ENTITY trackingProtection.off "Ammesten mgal asfuɣel: OFF">
-
 <!ENTITY contentBlocking.title "Asewḥel n ugbur">
 <!ENTITY contentBlocking.detected "Agbur izemren ad ittusewḥel yettwaf deg usmel-agi.">
 <!ENTITY contentBlocking.notDetected "Ulac agbur izemren ad ittusewḥel i ittwafen deg usebter-agi.">
@@ -1016,28 +1025,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Ammesten mgal asfuɣel">
 <!ENTITY trackingProtection.tooltip "Ldi ismenyifen n ummesten mgal aḍfar">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; issewḥel kra n yiḥricen n usebter-a izemren ad sfuɣlen tunigin-ik.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; yufa-d iferdisen i izemren ad sfuɣlen tunigin-inek.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; yufa-d iferdisen i izemren ad sfuɣlen tunigin-ik. Tekkseḍ ammesten.">
-<!ENTITY trackingProtection.notDetected5 "Ulac iferdisen iṭafaṛen i ittwafen ɣef usebter-a.">
-<!ENTITY trackingProtection.notDetectedException "Ulac ineḍfaren ittwafen deg usebter-agi. Tsenseḍ ammesten i usmel-a.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Treremdeḍ ammesten n usfuɣel. Ales tulya n usebter akken ad tsewaḥleḍ akk ineḍfaren.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Sens i usmel-agi">
-<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!ENTITY trackingProtection.unblock4.label "Sens asewḥel i usmel-agi">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Sens i tiɣimit-agi">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "Rmed i usmel-agi">
-<!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.unblockPrivate4.label "Sens asewḥel i kra n wakud">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Rmed asewḥel i usmel-agi">
@@ -1147,7 +1143,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Amtawi n yibenkan…">
 
 <!ENTITY pageAction.shareUrl.label "Bḍu">
-
 <!ENTITY pageAction.shareMore.label "Ugar…">
 
 <!ENTITY libraryButton.tooltip "Sken amazray, ticraḍ yettwakelsen, d wayen-nniḍen">

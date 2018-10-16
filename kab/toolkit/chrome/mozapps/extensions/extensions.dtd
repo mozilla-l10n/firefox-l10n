@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Ldi amsefrak n izegrar">
 
-<!ENTITY search.placeholder                   "Nadi akk izegrar">
-
 <!ENTITY search.placeholder2                  "Nadi deg addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Nadi addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Nadi">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +16,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "ulac ileqman yettwafen">
 <!ENTITY listEmpty.recentUpdates.label        "Acḥal aya ur tesnifleḍ ara izegrar-ik">
 <!ENTITY listEmpty.findUpdates.label          "Senqed ma llan ileqman">
-<!ENTITY listEmpty.search.label               "Ulac azegrir anmeɣṛu">
 <!ENTITY listEmpty.button.label               "Issin ugar ɣef izegrar">
 <!ENTITY installAddonFromFile.label           "Sebded azegrir seg ufaylu…">
 <!ENTITY installAddonFromFile.accesskey       "S">
@@ -24,9 +23,6 @@
 
 <!ENTITY getThemes.description                "Nadi akken ad tsagneḍ iminig-inek?">
 <!ENTITY getThemes.learnMore                  "Fren seg agimen n isental">
-
-<!ENTITY cmd.back.tooltip                     "Uɣal s yiwen n usebter">
-<!ENTITY cmd.forward.tooltip                  "Aẓ s yiwen usebter">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Kra n iseɣzaf ur ţwasenqeden ara">
@@ -44,10 +40,13 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Rmed asenqed n ileqman n tɣellist i yezgrar isemmadanen">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Nadi">
 <!ENTITY view.discover.label                  "Awi-d izegrar">
 <!ENTITY view.recentUpdates.label             "Ileqman n melmi kan">
 <!ENTITY view.availableUpdates.label          "Ileqman yellan">
+
+<!ENTITY helpButton.label                      "Tallalt izegrar">
+<!ENTITY preferencesWin.label                  "Iɣewwaren n &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Ismenyifen n &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Nadi ileqman">
@@ -87,8 +86,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "I">
 <!ENTITY cmd.preferencesUnix.label            "Ismenyifen">
 <!ENTITY cmd.preferencesUnix.accesskey        "I">
-<!ENTITY cmd.about.label                      "Ɣef">
-<!ENTITY cmd.about.accesskey                  "Ɣ">
 
 <!ENTITY cmd.enableAddon.label                "Rmed">
 <!ENTITY cmd.enableAddon.accesskey            "R">
@@ -135,7 +132,6 @@
 <!ENTITY detail.lastupdated.label             "Aleqqem aneggaru">
 <!ENTITY detail.creator.label                 "Aneflay">
 <!ENTITY detail.homepage.label                "Asebter agejdan">
-<!ENTITY detail.numberOfDownloads.label       "Isidar">
 
 <!ENTITY detail.contributions.description     "Aneflay n uzegrir-agi isutur-ak-d tallalt akken ad iseddu taneflit-ines ticki tmuddeḍ-as cwiṭ n tewsa.">
 
@@ -167,23 +163,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Serǧu">
 <!ENTITY progress.cancel.tooltip              "Sefsex">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Isem">
-<!ENTITY sort.name.tooltip                    "Smizzwer s yisem">
-<!ENTITY sort.dateUpdated.label               "Aleqqem aneggaru">
-<!ENTITY sort.dateUpdated.tooltip             "Smizzwer s wazemz n uleqqem aneggaru">
-<!ENTITY sort.relevance.label                 "Tiferni">
-<!ENTITY sort.relevance.tooltip               "Smizzwer s tiferni">
-<!ENTITY sort.price.label                     "Ssuma">
-<!ENTITY sort.price.tooltip                   "smizzwer s ssuma">
-
-<!ENTITY search.filter2.label                 "Nadi:">
-<!ENTITY search.filter2.installed.label       "Izegrar-iw">
-<!ENTITY search.filter2.installed.tooltip     "Sken izegrar ibedden">
-<!ENTITY search.filter2.available.label       "Izegrar yellan">
-<!ENTITY search.filter2.available.tooltip     "Sken izegrar iheggan i usebded">
 
 <!ENTITY addon.homepage                       "Asebter agejdan">
 <!ENTITY addon.details.label                  "Ugar">
@@ -226,17 +205,6 @@
 <!ENTITY eula.accept                          "Qvel u sebded…">
 
 <!ENTITY settings.path.button.label           "Ɛiwed nadi ...">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "D acu-t wa? Tilisɣelt tezmer ad tessebded, daɣen ad tessenker tirmitin si sya ɣeṛ da.">
-<!ENTITY experiment.info.learnmore "Issin ugar">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Iɣewwaṛen n tilisɣel">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Issin ugar…">
 

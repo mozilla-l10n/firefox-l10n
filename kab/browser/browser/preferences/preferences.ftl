@@ -53,6 +53,7 @@ pane-sync-title = Amiḍan Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } Tallalt
+addons-button-label = Isiɣzaf akked yisental
 focus-search =
     .key = f
 close-button =
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Apruksi n uẓeṭṭa
 network-settings-title = Iɣewwaṛen n uẓeṭṭa
 network-proxy-connection-description = Swel amek { -brand-short-name } ad iqqen γer internet.
 network-proxy-connection-learn-more = Issin ugar
@@ -592,26 +592,12 @@ sitedata-total-size-calculating = Asiḍen n teɣzi n isefka akked tuγzi n tuff
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tskelseḍ inagan n tuqna,isefka n usmel akked  tuffirt seqdacen akka tura { $value } { $unit } seg adeg n tallunt n tkatut.
 sitedata-learn-more = Lmed ugar
-sitedata-accept-cookies-option =
-    .label = Qbel inagan n tuqqna d yisefka n usmel seg yismal (yelha)
-    .accesskey = Q
-sitedata-block-cookies-option =
-    .label = Sewḥel inagan n tuqna akked isefka n usmel (izmer ad yiṛez ismal web)
-    .accesskey = B
 sitedata-keep-until = Ḥrez arma
     .accesskey = l
 sitedata-keep-until-expire =
     .label = Ad mten
 sitedata-keep-until-closed =
     .label = Amdal n { -brand-short-name }
-sitedata-accept-third-party-desc = Qbel inagan n tuqna tis kraḍ akked isefka n ismal
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = Yal ass
-sitedata-accept-third-party-visited-option =
-    .label = Seg yismal ɣur terziḍ
-sitedata-accept-third-party-never-option =
-    .label = Weṛǧin
 sitedata-allow-cookies-option =
     .label = Qbel inagan n tuqqna d yisefka n usmel
     .accesskey = Q
@@ -735,10 +721,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Weṛǧin
     .accesskey = W
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Seqdec amesten deg iminig uslig akken ad teswaḥleḍ imsfuɣal irusinin
-    .accesskey = y
 tracking-exceptions =
     .label = Tisuraf…
     .accesskey = s
