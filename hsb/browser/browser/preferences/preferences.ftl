@@ -53,6 +53,7 @@ pane-sync-title = Konto Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Pomoc { -brand-short-name }
+addons-button-label = Rozšěrjenja a drasty
 focus-search =
     .key = f
 close-button =
@@ -332,7 +333,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Syćowy proksy
 network-settings-title = Syćowe nastajenja
 network-proxy-connection-description = Konfigurować, kak { -brand-short-name } z internetom zwjazuje.
 network-proxy-connection-learn-more = Dalše informacije
@@ -598,26 +598,12 @@ sitedata-total-size-calculating = Wulkosć sydłowych datow a pufrowaka so wuli�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Waše składowane placki, sydłowe daty a pufrowak so tuchwilu { $value } { $unit } tačeloweho ruma wužiwaja.
 sitedata-learn-more = Dalše informacije
-sitedata-accept-cookies-option =
-    .label = Placki a sydłowe daty z websydłow akceptować (doporučene)
-    .accesskey = P
-sitedata-block-cookies-option =
-    .label = Placki a sydłowe daty blokować (móže zawinować, zo websydła njefunguja)
-    .accesskey = b
 sitedata-keep-until = Wobchować doniž
     .accesskey = c
 sitedata-keep-until-expire =
     .label = njespadnu
 sitedata-keep-until-closed =
     .label = { -brand-short-name } so njezačini
-sitedata-accept-third-party-desc = Placki a sydłowe daty třećich poskićowarjow akceptować
-    .accesskey = t
-sitedata-accept-third-party-always-option =
-    .label = Přeco
-sitedata-accept-third-party-visited-option =
-    .label = Jenož wot wopytanych třećich
-sitedata-accept-third-party-never-option =
-    .label = Ženje
 sitedata-allow-cookies-option =
     .label = Placki a sydłowe daty akceptować
     .accesskey = P
@@ -741,10 +727,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Ženje
     .accesskey = n
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Slědowanski škit w priwatnym modusu wužiwać, zo by znate přesćěhowaki blokował
-    .accesskey = r
 tracking-exceptions =
     .label = Wuwzaća…
     .accesskey = u

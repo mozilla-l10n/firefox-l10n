@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Zrjadowak přidatkow">
 
-<!ENTITY search.placeholder                   "Wšě přidatki pytać">
-
 <!ENTITY search.placeholder2                  "Na addons.mozilla.org pytać">
+
+<!ENTITY search.placeholder3                  "Na addons.mozilla.org pytać">
 <!ENTITY search.buttonlabel                   "Pytać">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +16,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Žane aktualizacije namakane">
 <!ENTITY listEmpty.recentUpdates.label        "W poslednim času njejsće přidatki aktualizował">
 <!ENTITY listEmpty.findUpdates.label          "Za aktualizacijemi pytać">
-<!ENTITY listEmpty.search.label               "Přihódne přidatki njedachu so namakać">
 <!ENTITY listEmpty.button.label               "Dalše informacije wo přidatkach">
 <!ENTITY installAddonFromFile.label           "Přidatk z dataje instalować…">
 <!ENTITY installAddonFromFile.accesskey       "P">
@@ -24,9 +23,6 @@
 
 <!ENTITY getThemes.description                "Chceće swój wobhladowak přiměrić?">
 <!ENTITY getThemes.learnMore                  "Wubjerće z tysacow drastow.">
-
-<!ENTITY cmd.back.tooltip                     "Wo jednu stronu wróćo">
-<!ENTITY cmd.forward.tooltip                  "Wo jednu stronu doprědka">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Někotre rozšěrjenja njedachu so wobkrućić">
@@ -44,10 +40,13 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Přepruwowanje wěstoty aktualizacije zmóžnić">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Pytać">
 <!ENTITY view.discover.label                  "Přidatki wobstarać">
 <!ENTITY view.recentUpdates.label             "Nowe aktualizacije">
 <!ENTITY view.availableUpdates.label          "K dispoziciji stejace aktualizacije">
+
+<!ENTITY helpButton.label                      "Pomoc za přidatki">
+<!ENTITY preferencesWin.label                  "Nastajenja &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Nastajenja &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Za aktualizacijemi pytać">
@@ -87,8 +86,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "N">
 <!ENTITY cmd.preferencesUnix.label            "Nastajenja">
 <!ENTITY cmd.preferencesUnix.accesskey        "N">
-<!ENTITY cmd.about.label                      "Wo">
-<!ENTITY cmd.about.accesskey                  "W">
 
 <!ENTITY cmd.enableAddon.label                "Zmóžnić">
 <!ENTITY cmd.enableAddon.accesskey            "Z">
@@ -135,7 +132,6 @@
 <!ENTITY detail.lastupdated.label             "Posledni raz zaktualizowany">
 <!ENTITY detail.creator.label                 "Wuwiwar">
 <!ENTITY detail.homepage.label                "Startowa strona">
-<!ENTITY detail.numberOfDownloads.label       "Sćehnjenja">
 
 <!ENTITY detail.contributions.description     "Wuwiwar tutoho přidatka prosy, zo byšće pomhał, jeho stajne wuwiće podpěrać, darujo mały přinošk.">
 
@@ -167,23 +163,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Zastajić">
 <!ENTITY progress.cancel.tooltip              "Přetorhnyć">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Mjeno">
-<!ENTITY sort.name.tooltip                    "Po mjenje sortěrować">
-<!ENTITY sort.dateUpdated.label               "Posledni raz zaktualizowany">
-<!ENTITY sort.dateUpdated.tooltip             "Po aktualizaciskim datumje sortěrować">
-<!ENTITY sort.relevance.label                 "Najlěpši wotpowědnik">
-<!ENTITY sort.relevance.tooltip               "Po relewancy sortěrować">
-<!ENTITY sort.price.label                     "Płaćizna">
-<!ENTITY sort.price.tooltip                   "Po płaćiznje sortěrować">
-
-<!ENTITY search.filter2.label                 "Pytać:">
-<!ENTITY search.filter2.installed.label       "Moje přidatki">
-<!ENTITY search.filter2.installed.tooltip     "Instalowane přidatki pokazować">
-<!ENTITY search.filter2.available.label       "K dispoziciji stejace přidatki">
-<!ENTITY search.filter2.available.tooltip     "Instalujomne přidatki pokazać">
 
 <!ENTITY addon.homepage                       "Startowa strona">
 <!ENTITY addon.details.label                  "Wjace">
@@ -226,17 +205,6 @@
 <!ENTITY eula.accept                          "Akceptować a instalować…">
 
 <!ENTITY settings.path.button.label           "Přepytać…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Što to je? Telemetrija móže hdys a hdys eksperimenty instalować a přewjesć.">
-<!ENTITY experiment.info.learnmore "Dalše informacije">
-<!ENTITY experiment.info.learnmore.accesskey "D">
-<!ENTITY experiment.info.changetelemetry "Telemetrijowe nastajenja">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Dalše informacije…">
 
