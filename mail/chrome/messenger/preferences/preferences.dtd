@@ -11,9 +11,6 @@
 <!ENTITY  prefWindow.titleWin     "Pilihan">
 <!ENTITY  prefWindow.titleGNOME   "Keutamaan &brandShortName;">
 <!ENTITY  prefWindow.titleMAC     "Keutamaan">
-<!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
-<!ENTITY  prefWindow.styleMac     "width: 52em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Umum">
 <!ENTITY paneDisplay.title        "Paparan">
@@ -22,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Lampiran">
 <!ENTITY panePrivacy.title        "Privasi">
 <!ENTITY paneSecurity.title       "Keselamatan">
+<!ENTITY paneLightning.title      "Kalendar">
 <!ENTITY paneAdvanced.title       "Lanjutan">
 <!ENTITY paneAccount.title        "Akaun">
 
