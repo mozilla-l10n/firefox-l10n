@@ -53,6 +53,7 @@ pane-sync-title = Akaun Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Sokongan { -brand-short-name }
+addons-button-label = Ekstensi & Tema
 focus-search =
     .key = f
 close-button =
@@ -314,7 +315,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proksi Rangkaian
 network-settings-title = Tetapan Rangkaian
 network-proxy-connection-description = Tetapkan cara { -brand-short-name } menyambung ke internet.
 network-proxy-connection-learn-more = Ketahui Selanjutnya
@@ -580,26 +580,12 @@ sitedata-total-size-calculating = Mengira saiz data dan cache laman…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Kuki, data laman dan cache yang disimpan kini menggunakan { $value } { $unit } daripada ruang cakera.
 sitedata-learn-more = Ketahui selanjutnya
-sitedata-accept-cookies-option =
-    .label = Terima kuki dan data laman dari laman web (disyorkan)
-    .accesskey = T
-sitedata-block-cookies-option =
-    .label = Sekat kuki dan data laman (boleh menyebabkan laman web tidak lengkap)
-    .accesskey = S
 sitedata-keep-until = Kekalkan sehingga
     .accesskey = s
 sitedata-keep-until-expire =
     .label = Sudah luput
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ditutup
-sitedata-accept-third-party-desc = Terima kuki dan data laman pihak ketiga
-    .accesskey = k
-sitedata-accept-third-party-always-option =
-    .label = Sentiasa
-sitedata-accept-third-party-visited-option =
-    .label = Daripada yang dilawati
-sitedata-accept-third-party-never-option =
-    .label = Jangan sesekali
 sitedata-allow-cookies-option =
     .label = Terima kuki dan data laman
     .accesskey = T
@@ -723,10 +709,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Jangan sesekali
     .accesskey = k
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Gunakan Perlindungan Penjejakan dalam Pelayaran Peribadi untuk menyekat penjejak dikenali
-    .accesskey = b
 tracking-exceptions =
     .label = Pengecualian…
     .accesskey = g
