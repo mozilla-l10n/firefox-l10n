@@ -513,6 +513,7 @@ privacy-header = 브라우저 개인정보
 ## Privacy Section - Forms
 
 forms-header = 서식과 비밀번호
+logins-header = 로그인과 비밀번호
 forms-ask-to-save-logins =
     .label = 웹사이트의 로그인과 비밀번호를 기억할지 묻기
     .accesskey = r
@@ -615,10 +616,6 @@ sitedata-block-trackers-option =
     .label = 제3자 추적기
 sitedata-block-unvisited-option =
     .label = 방문하지 않은 웹사이트의 쿠키
-sitedata-block-all-third-parties-option =
-    .label = 모든 제3자 쿠키
-sitedata-block-always-option =
-    .label = 모든 쿠키(웹사이트가 작동하지 않을 수 있음)
 sitedata-block-all-third-party-option =
     .label = 모든 제3자 쿠키(웹사이트가 작동하지 않을 수 있음)
 sitedata-block-all-option =
@@ -672,30 +669,13 @@ content-blocking-category-label = 차단할 대상 선택
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = 느린 추적 요소
-    .accesskey = S
-content-blocking-fastblock-description = 읽는데 5초이상 걸리는 제3자 콘텐츠를 차단합니다.
-content-blocking-fastblock-option-enabled =
-    .label = 항상 차단
-content-blocking-fastblock-option-disabled =
-    .label = 차단하지 않음
-content-blocking-tracking-protection-label = 추적자
-    .accesskey = T
-content-blocking-tracking-protection-description = 알려진 모든 추적자를 차단합니다(참고: 일부 페이지가 로드되지 않을 수 있습니다).
-content-blocking-tracking-protection-option-enabled =
-    .label = 항상 차단
-content-blocking-tracking-protection-option-pbm =
-    .label = 사생활 보호 창에서만 차단
-content-blocking-tracking-protection-option-disabled =
-    .label = 차단하지 않음
-content-blocking-tracking-protection-change-blocklist = 차단 목록 변경…
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = 느리게 로딩되는 추적기
     .accesskey = S
 content-blocking-fastblock-new-description = 페이지가 더 빨리 뜰 수 있도록 추적기를 차단해보세요.
+content-blocking-tracking-protection-trackers-label =
+    .label = 추적기
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = 모든 감지된 추적기
     .accesskey = T
