@@ -641,3 +641,4 @@
 <!ENTITY leanplum_default_notifications_channel "Powiadomienia programu &brandShortName;">
 <!ENTITY updater_notification_channel "Aktualizacje aplikacji">
 <!ENTITY synced_tabs_notification_channel "Zsynchronizowane karty">
+<!ENTITY site_notifications_channel "Powiadomienia witryn">
