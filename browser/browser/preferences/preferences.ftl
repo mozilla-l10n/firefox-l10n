@@ -53,6 +53,7 @@ pane-sync-title = Compte Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Assistance de { -brand-short-name }
+addons-button-label = Extensions et thèmes
 focus-search =
     .key = f
 close-button =
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy réseau
 network-settings-title = Paramètres réseau
 network-proxy-connection-description = Configurer la façon dont { -brand-short-name } se connecte à Internet.
 network-proxy-connection-learn-more = En savoir plus
@@ -592,26 +592,12 @@ sitedata-total-size-calculating = Calcul du volume des données de sites et du c
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Le stockage des cookies, du cache et des données de sites utilise actuellement { $value } { $unit } d’espace disque.
 sitedata-learn-more = En savoir plus
-sitedata-accept-cookies-option =
-    .label = Accepter les cookies et les données de sites (recommandé)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Bloquer les cookies et les données de sites (peut empêcher certains sites de fonctionner)
-    .accesskey = B
 sitedata-keep-until = Les conserver jusqu’à
     .accesskey = L
 sitedata-keep-until-expire =
     .label = Leur expiration
 sitedata-keep-until-closed =
     .label = La fermeture de { -brand-short-name }
-sitedata-accept-third-party-desc = Accepter les cookies tiers et les données de sites tiers
-    .accesskey = k
-sitedata-accept-third-party-always-option =
-    .label = Toujours
-sitedata-accept-third-party-visited-option =
-    .label = Depuis les sites visités
-sitedata-accept-third-party-never-option =
-    .label = Jamais
 sitedata-allow-cookies-option =
     .label = Accepter les cookies et les données de site
     .accesskey = A
@@ -735,10 +721,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Jamais
     .accesskey = J
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Utiliser la protection contre le pistage en navigation privée pour bloquer les traqueurs connus
-    .accesskey = i
 tracking-exceptions =
     .label = Exceptions…
     .accesskey = x
