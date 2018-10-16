@@ -148,7 +148,26 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "r">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tutti i feuggiinti segnalibbri…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Recarega feuggio seleçionou">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Recarega feuggi seleçionæ">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Azonzi a-i segnalibbri o feuggio seleçionou…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Azonzi a-i segnalibbri i feuggi seleçionæ…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "f">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Seleçionn-a tutti i feuggi">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
@@ -596,9 +615,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Recarega o riquaddro">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Fanni vedde sorgente da parte seleçionâ">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Fanni vedde sorgente MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "s">
 <!ENTITY viewPageSourceCmd.label      "Fanni vedde sorgente da pagina">
 <!ENTITY viewPageSourceCmd.accesskey  "v">
@@ -815,7 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Fæto">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Fanni vedde l'editô quande sarvo">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "F">
 
@@ -966,9 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "L’aodio do feugio o saiâ condivizo.">
 <!ENTITY getUserMedia.allWindowsShared.message "Tutte i barcoin vixibili into schermo saian condivizi.">
 
-<!ENTITY trackingProtection.on "Proteçion anti-traciamento: AVERTO">
-<!ENTITY trackingProtection.off "Proteçion anti-traciamento: SÆROU">
-
 <!ENTITY contentBlocking.title "Blòcco di contengui">
 <!ENTITY contentBlocking.disabled.label "Dizativou">
 
@@ -1019,28 +1031,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Proteçion anti-traciamento">
 <!ENTITY trackingProtection.tooltip "Arvi e preferense da proteçion anti-traciamento">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; o blòcca di elementi da pagina che peuan traciâ a navegaçion.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; o l'à trovou di elementi che peuan traciâ a navegaçion.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; o l'à trovou di elementi che peuan traciâ a navegaçion. Ti æ dizabilitou a proteçion pe sto scito.">
-<!ENTITY trackingProtection.notDetected5 "In sta pagina no gh'é di elementi che peuan traciâ.">
-<!ENTITY trackingProtection.notDetectedException "Nisciun elemento ch'o traccia in sta pagina. Ti æ dizabilitou a proteçion pe sto scito.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Ti æ abilitou a Proteçion anti-traciamento. Recarega a pagina pe blocâ tutti i traciatoî.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Dizabilita pe sto scito">
-<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!ENTITY trackingProtection.unblock4.label "Dizabilita pe sto scito">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Dizabilita pe sta sescion">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "Abilita pe sto scito">
-<!ENTITY trackingProtection.block4.accesskey "A">
 <!ENTITY trackingProtection.unblockPrivate4.label "Dizabilita o blòcco tenporaneamente">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Abilita pe sto scito">
@@ -1150,7 +1149,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Scincronizzo dispoxitivi…">
 
 <!ENTITY pageAction.shareUrl.label "Condividdi">
-
 <!ENTITY pageAction.shareMore.label "Ciù…">
 
 <!ENTITY libraryButton.tooltip "Fanni vedde stöia, segnalibbri sarvæ e atro">
