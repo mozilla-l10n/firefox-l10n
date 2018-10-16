@@ -682,13 +682,16 @@
 <!ENTITY contentBlocking.exception.tooltip "Il blocco dei contenuti è stato disattivato per questo sito.">
 <!ENTITY contentBlocking.fastBlock.label "Elementi traccianti lenti">
 <!ENTITY contentBlocking.fastBlock.blocked.label "Bloccati">
+<!ENTITY contentBlocking.fastBlock.blocking.label "Bloccati">
 <!ENTITY contentBlocking.fastBlock.add.label "Attiva blocco…">
 <!ENTITY contentBlocking.trackingProtection2.label "Tutti gli elementi traccianti rilevati">
 <!ENTITY contentBlocking.trackingProtection3.label "Elementi traccianti">
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Bloccati">
+<!ENTITY contentBlocking.trackingProtection.blocking.label "Bloccati">
 <!ENTITY contentBlocking.trackingProtection.add.label "Attiva blocco…">
 <!ENTITY contentBlocking.3rdPartyCookies.label "Cookie di terze parti">
 <!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Bloccati">
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Bloccati">
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Attiva blocco…">
 <!ENTITY contentBlocking.openBreakageReportView2.label "Segnala un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Segnalazione problema">
