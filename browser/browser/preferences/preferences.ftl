@@ -53,6 +53,7 @@ pane-sync-title = Firefox 帳號
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } 技術支援
+addons-button-label = 擴充套件與佈景主題
 focus-search =
     .key = f
 close-button =
@@ -314,7 +315,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = 網路代理伺服器
 network-settings-title = 網路設定
 network-proxy-connection-description = 設定 { -brand-short-name } 要如何連線至網際網路。
 network-proxy-connection-learn-more = 了解更多
@@ -580,26 +580,12 @@ sitedata-total-size-calculating = 正在計算網站資料與快取大小…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = 您儲存的 Cookie、網站資料與快取目前使用了 { $value } { $unit } 磁碟空間
 sitedata-learn-more = 了解更多
-sitedata-accept-cookies-option =
-    .label = 接受網站設定的 Cookie 與網站資料（建議）
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = 封鎖 Cookie 與網站資料（可能會造成某些網站運作不正常）
-    .accesskey = B
 sitedata-keep-until = 保留 Cookie 直到
     .accesskey = u
 sitedata-keep-until-expire =
     .label = Cookie 過期
 sitedata-keep-until-closed =
     .label = 關閉 { -brand-short-name }
-sitedata-accept-third-party-desc = 接受第三方 Cookie 與網站資料
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = 總是
-sitedata-accept-third-party-visited-option =
-    .label = 造訪過的網站
-sitedata-accept-third-party-never-option =
-    .label = 永不
 sitedata-allow-cookies-option =
     .label = 允許網站設定 Cookie 與網站資料
     .accesskey = A
@@ -723,10 +709,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = 永不
     .accesskey = n
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = 在隱私瀏覽模式使用追蹤保護功能，封鎖已知的追蹤器
-    .accesskey = v
 tracking-exceptions =
     .label = 例外網站…
     .accesskey = x

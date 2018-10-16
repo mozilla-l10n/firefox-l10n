@@ -148,7 +148,26 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "將所有分頁加入書籤…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "重新載入選擇的分頁">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "重新載入選擇的分頁">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "將選擇的分頁加入書籤…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "將選擇的分頁加入書籤…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "選擇所有分頁">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
@@ -596,9 +615,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "重新載入頁框">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "檢視選取範圍原始碼">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "檢視 MathML 原始碼">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "檢視原始碼">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
@@ -815,7 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "完成">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "儲存時顯示編輯器">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
@@ -966,9 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "將分享來此分頁播放的音樂。">
 <!ENTITY getUserMedia.allWindowsShared.message "將分享您畫面上所有可見的視窗。">
 
-<!ENTITY trackingProtection.on "追蹤保護: 開">
-<!ENTITY trackingProtection.off "追蹤保護: 關">
-
 <!ENTITY contentBlocking.title "內容封鎖">
 <!ENTITY contentBlocking.detected "在此網站偵測到可封鎖的內容。">
 <!ENTITY contentBlocking.notDetected "沒有在此網站偵測到可封鎖的內容。">
@@ -1027,28 +1039,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "追蹤保護">
 <!ENTITY trackingProtection.tooltip "開啟追蹤保護偏好設定">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; 已封鎖此頁面中的部分元素，以防止您的瀏覽行為被追蹤。">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; 偵測到此頁面中包含某些可能會追蹤您上網行為的元素。">
-<!ENTITY trackingProtection.detectedException "&brandShortName; 偵測到此網站包含可能會追蹤您上網行為的元素，但您已關閉保護。">
-<!ENTITY trackingProtection.notDetected5 "未在此頁面偵測到追蹤元素。">
-<!ENTITY trackingProtection.notDetectedException "未在此頁面偵測到追蹤元素，但您也對此網站關閉了追蹤保護。">
-
-<!ENTITY trackingProtection.reloadRequired2 "您開啟了追蹤保護，請重新載入頁面即可封鎖所有追蹤器。">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "為此網站關閉">
-<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!ENTITY trackingProtection.unblock4.label "針對此網站關閉內容封鎖功能">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "此次瀏覽階段關閉">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "為此網站開啟">
-<!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.unblockPrivate4.label "暫時關閉封鎖功能">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "針對此網站開啟內容封鎖功能">
@@ -1158,7 +1157,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "正在同步裝置…">
 
 <!ENTITY pageAction.shareUrl.label "分享">
-
 <!ENTITY pageAction.shareMore.label "更多…">
 
 <!ENTITY libraryButton.tooltip "檢視瀏覽紀錄、已存書籤等資料">
