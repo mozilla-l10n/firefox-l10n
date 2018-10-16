@@ -656,7 +656,7 @@ addressbar-suggestions-settings = Nastavit našeptávání vyhledávače
 
 ## Privacy Section - Content Blocking
 
-content-blocking-header = Blokování obsahu a ochrana proti sledování
+content-blocking-header = Blokování obsahu
 content-blocking-desc = Zablokujte obsah třetích stran, jako jsou reklamy nebo kód, který zpomaluje načítání stránek a sleduje vaše aktivity na internetu. Úroveň blokování můžete upravit podle vlastních nároků na rychlost načítání i ochranu soukromí.
 content-blocking-learn-more = Zjistit více
 content-blocking-restore-defaults =
