@@ -363,7 +363,6 @@
 <!ENTITY pref_use_system_font_size_summary "Skaler nettinnhald i forhold til skriftstorleiken i systemet">
 
 <!ENTITY pref_media_autoplay_enabled "Tillat automatisk avspeling">
-<!ENTITY pref_media_autoplay_enabled_summary "Vel om nettsider automatisk kan spela av videoar og anna medieinnhald">
 <!ENTITY pref_media_autoplay_allow "Tillat automatisk avspeling">
 <!ENTITY pref_media_autoplay_block "Blokker automatisk avspeling">
 <!ENTITY pref_zoom_force_enabled "alltid slå på zoom">
@@ -828,9 +827,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Klarte ikkje å opna &brandShortName;. Installer på nytt og prøv igjen.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; vil ikkje lenger oppdaterast">
-<!ENTITY eol_notification_summary "Trykk for å lesa meir">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; er oppdatert">
@@ -904,3 +900,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; push-varsel">
 <!ENTITY updater_notification_channel "App-oppdateringar">
 <!ENTITY synced_tabs_notification_channel "Synkroniserte faner">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Sidevarslingar">
