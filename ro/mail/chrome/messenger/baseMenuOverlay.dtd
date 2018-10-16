@@ -13,7 +13,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label     "Repornește cu suplimente dezactivate…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Note asupra versiunii">
+<!ENTITY releaseCmd2.label "Note privind versiunea">
 <!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Ce este nou">
 <!ENTITY whatsNewCmd.accesskey "C">
