@@ -21,4 +21,6 @@
 <!ENTITY account.delete.label         "Hapus">
 <!ENTITY account.copyDebugLog.label     "Salin Log Debug">
 <!ENTITY account.showDebugLog.label     "Tampilkan Log Debug">
+<!ENTITY account.connecting           "Menyambungkan…">
 <!ENTITY account.disconnecting        "Memutus…">
+<!ENTITY account.disconnected         "Tidak Terhubung">
