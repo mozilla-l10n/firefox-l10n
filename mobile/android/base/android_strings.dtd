@@ -363,7 +363,6 @@
 <!ENTITY pref_use_system_font_size_summary "根据系统的字体大小缩放 Web 内容">
 
 <!ENTITY pref_media_autoplay_enabled "允许自动播放">
-<!ENTITY pref_media_autoplay_enabled_summary "控制网站是否能够自动播放影片或其他媒体内容">
 <!ENTITY pref_media_autoplay_allow "允许自动播放">
 <!ENTITY pref_media_autoplay_block "屏蔽自动播放">
 <!ENTITY pref_zoom_force_enabled "总是启用缩放">
@@ -828,9 +827,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "无法打开 &brandShortName;。请重新安装并重试。">
 
-<!ENTITY eol_notification_title2 "&brandShortName; 将不再更新">
-<!ENTITY eol_notification_summary "点按以详细了解">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; 已是最新版本">
@@ -904,3 +900,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; 推送通知">
 <!ENTITY updater_notification_channel "应用程序更新">
 <!ENTITY synced_tabs_notification_channel "受同步的标签页">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "网站通知">
