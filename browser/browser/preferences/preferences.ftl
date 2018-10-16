@@ -7,7 +7,7 @@ do-not-track-learn-more = Află mai multe
 do-not-track-option-default =
     .label = Doar când se folosește protecția împotriva urmăririi
 do-not-track-option-default-content-blocking =
-    .label = Numai când { -brand-short-name } este setat să blocheze urmăritorii detectați.
+    .label = Numai când { -brand-short-name } este setat să blocheze urmăritorii detectați
 do-not-track-option-always =
     .label = Întotdeauna
 pref-page =
@@ -519,7 +519,7 @@ sync-device-name-save =
 sync-mobilepromo-single = Conectează alt dispozitiv
 sync-mobilepromo-multi = Gestionează dispozitivele
 sync-tos-link = Termenii de utilizare a serviciului
-sync-fxa-privacy-notice = Notificare privind confidențialitatea
+sync-fxa-privacy-notice = Politica de confidențialitate
 
 ## Privacy Section
 
@@ -788,8 +788,8 @@ permissions-a11y-privacy-link = Află mai multe
 ## Privacy Section - Data Collection
 
 collection-header = Colectarea și utilizarea de date din { -brand-short-name }
-collection-description = Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim { -brand-short-name } pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații personale.
-collection-privacy-notice = Notificare privind confidențialitatea
+collection-description = Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim { -brand-short-name } pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații cu caracter personal.
+collection-privacy-notice = Politica de confidențialitate
 collection-health-report =
     .label = Permite-i lui { -brand-short-name } să trimită informații tehnice și interactive către { -vendor-short-name }
     .accesskey = r
