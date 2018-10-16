@@ -53,6 +53,7 @@ pane-sync-title = Firefox Hesabı
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } Desteği
+addons-button-label = Eklentiler ve temalar
 focus-search =
     .key = f
 close-button =
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Ağ vekil sunucusu
 network-settings-title = Ağ ayarları
 network-proxy-connection-description = { -brand-short-name } tarayıcınızın internete nasıl bağlanacağını yapılandırın.
 network-proxy-connection-learn-more = Daha fazla bilgi al
@@ -592,26 +592,12 @@ sitedata-total-size-calculating = Site verilerinin ve önbelleğin boyutu hesapl
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Depolanmış site verileriniz ve önbelleğiniz şu anda { $value } { $unit } disk alanı kullanıyor.
 sitedata-learn-more = Daha fazla bilgi al
-sitedata-accept-cookies-option =
-    .label = Web sitelerinden gelen çerezleri ve site verilerini kabul et (Önerilir)
-    .accesskey = k
-sitedata-block-cookies-option =
-    .label = Çerezleri ve site verilerini engelle (Bazı siteler düzgün çalışmayabilir)
-    .accesskey = z
 sitedata-keep-until = Tutma sınırı
     .accesskey = u
 sitedata-keep-until-expire =
     .label = Süresi dolana dek
 sitedata-keep-until-closed =
     .label = { -brand-short-name } kapatılana dek
-sitedata-accept-third-party-desc = Üçüncü taraf çerezlerini ve site verilerini kabul et
-    .accesskey = ü
-sitedata-accept-third-party-always-option =
-    .label = Her zaman
-sitedata-accept-third-party-visited-option =
-    .label = Ziyaret edilenlerden
-sitedata-accept-third-party-never-option =
-    .label = Asla
 sitedata-allow-cookies-option =
     .label = Çerezleri ve site verilerini kabul et
     .accesskey = z
@@ -735,10 +721,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Asla
     .accesskey = A
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Gizli Gezinti’de bilinen takipçileri engellemek için İzlenme Koruması’nı kullan
-    .accesskey = G
 tracking-exceptions =
     .label = İstisnalar…
     .accesskey = t
