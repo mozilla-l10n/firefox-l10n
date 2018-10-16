@@ -11,9 +11,6 @@
 <!ENTITY  prefWindow.titleWin     "Opțiuni">
 <!ENTITY  prefWindow.titleGNOME   "Preferințe &brandShortName;">
 <!ENTITY  prefWindow.titleMAC     "Preferințe">
-<!ENTITY  prefWindow.styleWindows "width: 53em; min-height: 38.5em;">
-<!ENTITY  prefWindow.styleMac     "width: 56em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 51em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "General">
 <!ENTITY paneDisplay.title        "Afișare">
@@ -22,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Atașamente">
 <!ENTITY panePrivacy.title        "Confidențialitate">
 <!ENTITY paneSecurity.title       "Securitate">
+<!ENTITY paneLightning.title      "Calendar">
 <!ENTITY paneAdvanced.title       "Avansat">
 <!ENTITY paneAccount.title        "Conturi">
 
