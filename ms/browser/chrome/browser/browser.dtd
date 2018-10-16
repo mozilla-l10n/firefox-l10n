@@ -148,7 +148,26 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tandabuku Semua Tab…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Muat Semula Tab Dipilih">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "M">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Muat Semula Tab Dipilih">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "M">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Tandabuku Tab Dipilih…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Tandabuku Tab Yang Dipilih…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Pilih Semua Tab">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "P">
@@ -596,9 +615,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Muat semula Bingkai">
 <!ENTITY reloadFrameCmd.accesskey     "M">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Papar Sumber Dipilih">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Papar Sumber MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Papar Sumber Halaman">
 <!ENTITY viewPageSourceCmd.accesskey  "P">
@@ -815,7 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Siap">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Papar editor apabila menyimpan">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "P">
 
@@ -966,9 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Audio dari tab akan dikongsi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Semua tetingkap yang kelihatan pada skrin anda akan dikongsi.">
 
-<!ENTITY trackingProtection.on "Perlindungan Penjejakan: AKTIF">
-<!ENTITY trackingProtection.off "Perlindungan Penjejakan: NYAHAKTIF">
-
 <!ENTITY contentBlocking.title "Sekatan Kandungan">
 <!ENTITY contentBlocking.detected "Ada kandungan yang boleh disekat dalam laman ini.">
 <!ENTITY contentBlocking.notDetected "Tiada kandungan yang boleh disekat dalam laman ini.">
@@ -1027,28 +1039,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Perlindungan Penjejakan">
 <!ENTITY trackingProtection.tooltip "Buka Keutamaan Perlindungan Penjejakan">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; menyekat sebahagian halaman ini yang mungkin menjejaki pelayaran anda.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; telah mengesan unsur yang boleh menjejaki pelayaran anda.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; telah mengesan unsur yang boleh menjejaki pelayaran anda. Anda telah menyahdayakan perlindungan untuk laman ini.">
-<!ENTITY trackingProtection.notDetected5 "Tiada elemen penjejak yang dikesan dalam halaman ini.">
-<!ENTITY trackingProtection.notDetectedException "Tiada unsur penjejakan yang dikesan dalam halaman ini. Anda telah menyahdayakan perlindungan untuk laman ini.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Anda telah dayakan Perlindungan Penjejakan. Muat semula halaman ini untuk menyekat semua penjejak.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Nyahdayakan Untuk Laman Ini">
-<!ENTITY trackingProtection.unblock3.accesskey "N">
 <!ENTITY trackingProtection.unblock4.label "Nyahdayakan Sekatan Untuk Laman Ini">
 <!ENTITY trackingProtection.unblock4.accesskey "N">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Nyahdayakan Untuk Sesi Ini">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "N">
-<!ENTITY trackingProtection.block4.label "Dayakan Untuk Laman Ini">
-<!ENTITY trackingProtection.block4.accesskey "D">
 <!ENTITY trackingProtection.unblockPrivate4.label "Nyahdayakan Sekatan Sementara">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "N">
 <!ENTITY trackingProtection.block5.label "Dayakan Sekatan Untuk Laman Ini">
@@ -1158,7 +1157,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Sync Peranti…">
 
 <!ENTITY pageAction.shareUrl.label "Kongsi">
-
 <!ENTITY pageAction.shareMore.label "Selanjutnya…">
 
 <!ENTITY libraryButton.tooltip "Papar sejarah, tandabuku yang disimpan dan banyak lagi">
