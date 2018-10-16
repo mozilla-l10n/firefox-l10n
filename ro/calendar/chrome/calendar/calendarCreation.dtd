@@ -6,7 +6,7 @@
 <!ENTITY wizard.label             "Creează un calendar nou" >
 <!ENTITY wizard.description       "Localizați calendarul" >
 
-<!ENTITY initialpage.description    "Calendarul poate fi stocat pe calculatorul dumneavoastră sau pe un server pentru a-l accesa de la distanță sau pentru a-l împărtăși cu prietenii sau colegii." >
+<!ENTITY initialpage.description    "Calendarul poate fi stocat local, pe calculator, sau pe un server pentru acces de la distanță sau partajarea cu prietenii sau colegii." >
 <!ENTITY initialpage.computer.label  "Pe calculatorul meu">
 <!ENTITY initialpage.network.label  "În rețea">
 
@@ -19,7 +19,7 @@
 <!ENTITY custompage.longdescription   "Puteți da un pseudonim calendarului și să colorați evenimentele din el." >
 
 <!ENTITY finishpage.shortdescription  "Calendar creat" >
-<!ENTITY finishpage.longdescription   "Calendarul dumneavoastră a fost creat." >
+<!ENTITY finishpage.longdescription   "Calendarul a fost creat." >
 
 <!-- Below are new strings for the revised new calendar dialog. The above strings should be
     removed/renamed later on -->
