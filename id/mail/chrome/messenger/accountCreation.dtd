@@ -53,6 +53,7 @@
 <!ENTITY half-manual-test.accesskey      "l">
 <!ENTITY manual-edit.label               "Konfigurasi manual">
 <!ENTITY manual-edit.accesskey           "m">
+<!ENTITY open-provisioner.label          "Dapatkan alamat surel baru…">
 
 
 <!ENTITY warning.label                   "Peringatan!">
