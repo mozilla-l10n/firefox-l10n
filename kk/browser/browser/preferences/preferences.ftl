@@ -53,6 +53,7 @@ pane-sync-title = Firefox тіркелгісі
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } қолдауы
+addons-button-label = Кеңейтулер және темалар
 focus-search =
     .key = f
 close-button =
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Желілік прокси
 network-settings-title = Желі баптаулары
 network-proxy-connection-description = { -brand-short-name } интернетпен қалай байланысатынын баптау
 network-proxy-connection-learn-more = Көбірек білу
@@ -592,26 +592,12 @@ sitedata-total-size-calculating = Сайттар деректері және к�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Сізде сақталған cookies файлдары, сайт деректері және кэш қазір { $value } { $unit } диск орнын қолдануда.
 sitedata-learn-more = Көбірек білу
-sitedata-accept-cookies-option =
-    .label = Веб-сайттардан cookies файлдарын және сайттар деректерін қабылдау (ұсынылады)
-    .accesskey = а
-sitedata-block-cookies-option =
-    .label = Cookies файлдарын және сайттар деректерін тайдыру (веб-сайттар сынуы мүмкін)
-    .accesskey = й
 sitedata-keep-until = Дейін сақтау
     .accesskey = н
 sitedata-keep-until-expire =
     .label = олардың мерзімі аяқталады
 sitedata-keep-until-closed =
     .label = { -brand-short-name } жабылған
-sitedata-accept-third-party-desc = Үшінші жақты cookies файлдары және сайт деректерін қабылдау
-    .accesskey = ш
-sitedata-accept-third-party-always-option =
-    .label = Әрқашан
-sitedata-accept-third-party-visited-option =
-    .label = Мен болған жерден ғана
-sitedata-accept-third-party-never-option =
-    .label = Ешқашан
 sitedata-allow-cookies-option =
     .label = Cookies және сайт деректерін қабылдау
     .accesskey = а
@@ -735,10 +721,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Ешқашан
     .accesskey = н
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Жекелік шолуда белгілі трекерлерді блоктау үшін Бақылаудан қорғанысты қолдану
-    .accesskey = Ж
 tracking-exceptions =
     .label = Ережелерден бөлек…
     .accesskey = Е

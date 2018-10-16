@@ -148,7 +148,26 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "а">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Барлық беттерді бетбелгілерге қосу…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "т">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Таңдалған бетті қайта жүктеу">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "й">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Таңдалған беттерді қайта жүктеу">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "й">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Таңдалған бетті бетбелгілерге қосу…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "т">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Таңдалған беттерді бетбелгілерге қосу…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "т">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Барлық беттерді таңдау">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "т">
@@ -596,9 +615,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Фреймді жаңарту">
 <!ENTITY reloadFrameCmd.accesskey     "ж">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ерекшеленгеннің бастапқы коды">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML бастапқы коды">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "ы">
 <!ENTITY viewPageSourceCmd.label      "Парақтың бастапқы кодын қарау">
 <!ENTITY viewPageSourceCmd.accesskey  "у">
@@ -815,7 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Дайын">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Сақтау кезінде түзеткішті көрсету">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "с">
 
@@ -966,9 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Беттің аудиосымен бөлісетін боласыз.">
 <!ENTITY getUserMedia.allWindowsShared.message "Экраныңыздаға барлық көрінетін терезелермен бөлісетін боласыз.">
 
-<!ENTITY trackingProtection.on "Бақылаудан қорғаныс: Іске қосылған">
-<!ENTITY trackingProtection.off "Бақылаудан қорғаныс: Сөндірілген">
-
 <!ENTITY contentBlocking.title "Құраманы бұғаттау">
 <!ENTITY contentBlocking.detected "Бұл сайттан бұғаттауға келетін құрама анықталды.">
 <!ENTITY contentBlocking.notDetected "Бұл сайттан бұғаттауға келетін құрама анықталмады.">
@@ -1027,28 +1039,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Бақылаудан қорғаныс">
 <!ENTITY trackingProtection.tooltip "Бақылаудан қорғаныс баптауларын ашу">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; бұл парақтың сіздің желідегі әрекеттеріңізді бақылай алатын бөліктерін блоктаған.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; сіздің желідегі әрекеттеріңізді бақылай алатын элементтерді анықтады.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; сіздің желідегі әрекеттеріңізді бақылай алатын элементтерді анықтады. Бұл сайт үшін сіз бақылаудан қорғанысты сөндіргенсіз.">
-<!ENTITY trackingProtection.notDetected5 "Бұл парақта бақылайтын элементтер табылмады.">
-<!ENTITY trackingProtection.notDetectedException "Бұл парақта бақылайтын элементтер табылмады. Бұл сайт үшін сіз бақылаудан қорғанысты сөндіргенсіз.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Сіз бақылаудан қорғанысты іске қосқансыз. Барлық трекерлерді блоктау үшін бұл бетті қайта жүктеңіз.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Бұл сайт үшін сөндіру">
-<!ENTITY trackingProtection.unblock3.accesskey "д">
 <!ENTITY trackingProtection.unblock4.label "Бұл сайт үшін бұғаттауды сөндіру">
 <!ENTITY trackingProtection.unblock4.accesskey "д">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Бұл сессия үшін сөндіру">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "д">
-<!ENTITY trackingProtection.block4.label "Бұл сайт үшін іске қосу">
-<!ENTITY trackingProtection.block4.accesskey "е">
 <!ENTITY trackingProtection.unblockPrivate4.label "Бұғаттауды уақытша сөндіру">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "д">
 <!ENTITY trackingProtection.block5.label "Бұл сайт үшін бұғаттауды іске қосу">
@@ -1158,7 +1157,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Құрылғыларды синхрондау…">
 
 <!ENTITY pageAction.shareUrl.label "Бөлісу">
-
 <!ENTITY pageAction.shareMore.label "Көбірек…">
 
 <!ENTITY libraryButton.tooltip "Тарихты, сақталған бетбелгілерді қарау және т.б.">

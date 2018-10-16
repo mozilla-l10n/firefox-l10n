@@ -3,11 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Қосымшалар басқарушысы">
 
-<!ENTITY search.placeholder                   "Қосымшаларды іздеу">
-
 <!ENTITY search.placeholder2                  "addons.mozilla.org-ға іздеу">
+
 <!ENTITY search.buttonlabel                   "Іздеу">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +15,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Жаңартулар табылмады">
 <!ENTITY listEmpty.recentUpdates.label        "Соңғы кезде ешбір кеңейту жаңартылмады">
 <!ENTITY listEmpty.findUpdates.label          "Жаңартуларды тексеру">
-<!ENTITY listEmpty.search.label               "Сәйкес келетін қосымшалар табылмады">
 <!ENTITY listEmpty.button.label               "Қосымшалар жөнінде көбірек біліңіз">
 <!ENTITY installAddonFromFile.label           "Файлдан қосымшаны орнату…">
 <!ENTITY installAddonFromFile.accesskey       "Ф">
@@ -24,9 +22,6 @@
 
 <!ENTITY getThemes.description                "Браузерді өзіңіз үшін ыңғайлатуды қалайсыз ба?">
 <!ENTITY getThemes.learnMore                  "Мыңдаған темалар ішінен таңдаңыз.">
-
-<!ENTITY cmd.back.tooltip                     "Бір параққа қайту">
-<!ENTITY cmd.forward.tooltip                  "Бір параққа алға бару">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Кейбір кеңейтулерді растау мүмкін емес">
@@ -44,10 +39,12 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Кеңейтулер жаңартуларын қауісіздікке тексеруді іске қосу">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Іздеу">
 <!ENTITY view.discover.label                  "Қосымшаларды алу">
 <!ENTITY view.recentUpdates.label             "Соңғы жаңартулар">
 <!ENTITY view.availableUpdates.label          "Қолжетерлік жаңартулар">
+
+<!ENTITY preferencesWin.label                  "&brandShortName; опциялары">
+<!ENTITY preferencesUnix.label                 "&brandShortName; баптаулары">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Жаңартуларды тексеру">
@@ -87,8 +84,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "Б">
 <!ENTITY cmd.preferencesUnix.label            "Баптаулар">
 <!ENTITY cmd.preferencesUnix.accesskey        "р">
-<!ENTITY cmd.about.label                      "Осы туралы">
-<!ENTITY cmd.about.accesskey                  "т">
 
 <!ENTITY cmd.enableAddon.label                "Іске қосу">
 <!ENTITY cmd.enableAddon.accesskey            "с">
@@ -135,7 +130,6 @@
 <!ENTITY detail.lastupdated.label             "Соңғы жаңартылған">
 <!ENTITY detail.creator.label                 "Әзірлеуші">
 <!ENTITY detail.homepage.label                "Үй парағы">
-<!ENTITY detail.numberOfDownloads.label       "Жүктемелер">
 
 <!ENTITY detail.contributions.description     "Бұл кеңейтудің әзірлеушісі сізден шағын ғана демеушілік етіп, оның жұмысын қолдау көрсетуді сұраған.">
 
@@ -167,23 +161,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Аялдату">
 <!ENTITY progress.cancel.tooltip              "Бас тарту">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Аты">
-<!ENTITY sort.name.tooltip                    "Аты бойынша сұрыптау">
-<!ENTITY sort.dateUpdated.label               "Соңғы жаңартылған">
-<!ENTITY sort.dateUpdated.tooltip             "Жаңартылған күні бойынша сұрыптау">
-<!ENTITY sort.relevance.label                 "Ең жақсы сәйкестік">
-<!ENTITY sort.relevance.tooltip               "Релеванттігі бойынша сұрыптау">
-<!ENTITY sort.price.label                     "Бағасы">
-<!ENTITY sort.price.tooltip                   "Бағасы бойынша сұрыптау">
-
-<!ENTITY search.filter2.label                 "Іздеу:">
-<!ENTITY search.filter2.installed.label       "Менің кеңейтулерім">
-<!ENTITY search.filter2.installed.tooltip     "Орнатылған кеңейтулерді көрсету">
-<!ENTITY search.filter2.available.label       "Қолжетерлік кеңейтулер">
-<!ENTITY search.filter2.available.tooltip     "Орнатуға қолжетерлік кеңейтулерді көрсету">
 
 <!ENTITY addon.homepage                       "Үй парағы">
 <!ENTITY addon.details.label                  "Көбірек">
@@ -226,17 +203,6 @@
 <!ENTITY eula.accept                          "Қабылдау мен орнату…">
 
 <!ENTITY settings.path.button.label           "Шолу…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Бұл не? Телеметрия кейде эксперименттерді орнатып, орындай алады.">
-<!ENTITY experiment.info.learnmore "Көбірек білу">
-<!ENTITY experiment.info.learnmore.accesskey "л">
-<!ENTITY experiment.info.changetelemetry "Телеметрия баптаулары">
-<!ENTITY experiment.info.changetelemetry.accesskey "т">
 
 <!ENTITY setting.learnmore "Көбірек білу…">
 
