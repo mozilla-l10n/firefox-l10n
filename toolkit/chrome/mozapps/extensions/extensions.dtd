@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Manager de suplimente">
 
 <!ENTITY search.placeholder2                  "Caută pe addons.mozilla.org">
+
 <!ENTITY search.buttonlabel                   "Căutare">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +42,7 @@
 <!ENTITY view.discover.label                  "Descarcă suplimente">
 <!ENTITY view.recentUpdates.label             "Actualizări recente">
 <!ENTITY view.availableUpdates.label          "Actualizări disponibile">
+
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Caută actualizări">
@@ -165,7 +167,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "VECHI">
+<!ENTITY addon.legacy.label                   "OBSOLET">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -220,7 +222,7 @@
 <!ENTITY pluginDeprecation.description "Lipsește ceva? Unele pluginuri nu mai sunt suportate de &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Află mai multe">
 
-<!ENTITY legacyWarning.showLegacy "Afișează extensiile moștenite">
-<!ENTITY legacyExtensions.title "Extensii moștenite">
+<!ENTITY legacyWarning.showLegacy "Afișează extensiile obsolete">
+<!ENTITY legacyExtensions.title "Extensii obsolete">
 <!ENTITY legacyExtensions.description "Aceste extensii nu îndeplinesc standardele actuale ale &brandShortName; astfel încât au fost dezactivate.">
 <!ENTITY legacyExtensions.learnMore "Află despre schimbările aduse suplimentelor">
