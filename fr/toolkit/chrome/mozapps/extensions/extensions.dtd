@@ -5,6 +5,7 @@
 
 <!ENTITY search.placeholder2                  "Rechercher sur addons.mozilla.org">
 
+<!ENTITY search.placeholder3                  "Rechercher sur addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Rechercher">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
