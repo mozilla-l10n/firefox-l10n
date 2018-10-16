@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Upravitelj dodatkov">
 
 <!ENTITY search.placeholder2                  "Išči na addons.mozilla.org">
+
 <!ENTITY search.buttonlabel                   "Išči">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +42,10 @@
 <!ENTITY view.discover.label                  "Prenesi dodatke">
 <!ENTITY view.recentUpdates.label             "Nedavne posodobitve">
 <!ENTITY view.availableUpdates.label          "Nove posodobitve">
+
+<!ENTITY helpButton.label                      "Podpora za dodatke">
+<!ENTITY preferencesWin.label                  "Možnosti &brandShortName;a">
+<!ENTITY preferencesUnix.label                 "Nastavitve &brandShortName;a">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Poišči posodobitve">
@@ -120,7 +125,7 @@
 <!ENTITY discover.title                       "Kaj so dodatki?">
 <!ENTITY discover.description2                "Dodatki so programi, ki omogočajo prilagajanje brskalnika &brandShortName; vašim potrebam
   z dodajanjem zmogljivosti in spreminjanjem videza. Poskusite stranske vrstice, prikaz vremena ali tematsko obarvan &brandShortName;.">
-<!ENTITY discover.footer                      "Ko ste povezani na internet, vam ta odsek ponuja
+<!ENTITY discover.footer                      "Ko ste povezani z internetom, vam ta odsek ponuja
   nekatere izbrane in najbolj priljubljene dodatke.">
 
 <!-- detail view -->

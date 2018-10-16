@@ -138,7 +138,23 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Dodaj vse zavihke med zaznamke …">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "V">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Ponovno naloži izbrani zavihek">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Ponovno naloži izbrane zavihke">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Dodaj izbrani zavihek med zaznamke …">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Dodaj izbrane zavihke med zaznamke …">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Izberi vse zavihke">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Ponovno odpri zavihek">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "H">
@@ -584,9 +600,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Ponovno naloži okvir">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Pokaži izvorno kodo izbora">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Pokaži izvorno kodo MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "r">
 <!ENTITY viewPageSourceCmd.label      "Pokaži izvorno kodo strani">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
@@ -803,7 +816,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Shrani">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Pri shranjevanju prikaži urejevalnik">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "j">
 
@@ -954,9 +966,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Zvok zavihka bo v skupni rabi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Vsa vidna okna na vašem zaslonu bodo v skupni rabi.">
 
-<!ENTITY trackingProtection.on "Zaščita pred sledenjem: vključena">
-<!ENTITY trackingProtection.off "Zaščita pred sledenjem: izključena">
-
 <!ENTITY contentBlocking.title "Zavračanje vsebine">
 <!ENTITY contentBlocking.detected "Na tej strani je bila zaznana vsebina, ki jo lahko zavrnete.">
 <!ENTITY contentBlocking.notDetected "Na tej strani ni zaznane vsebine, ki bi jo lahko zavrnili.">
@@ -1015,28 +1024,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Zaščita pred sledenjem">
 <!ENTITY trackingProtection.tooltip "Odpri nastavitve zaščite pred sledenjem">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; zavrača dele strani, ki lahko sledijo vašemu brskanju.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; je zaznal elemente, ki bi lahko sledili vašemu brskanju.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; je zaznal elemente, ki lahko sledijo vašemu brskanju. Zaščito za to stran ste onemogočili.">
-<!ENTITY trackingProtection.notDetected5 "Na strani ni bilo zaznanih elementov sledenja.">
-<!ENTITY trackingProtection.notDetectedException "Na tej strani ni bilo zaznanih elementov sledenja. Zaščito za to stran ste onemogočili.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Omogočili ste zaščito pred sledenjem. Ponovno naložite stran za zavrnitev sledilcev.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Onemogoči za to stran">
-<!ENTITY trackingProtection.unblock3.accesskey "n">
 <!ENTITY trackingProtection.unblock4.label "Onemogoči zavračanje za to stran">
 <!ENTITY trackingProtection.unblock4.accesskey "O">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Onemogoči za to sejo">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "n">
-<!ENTITY trackingProtection.block4.label "Omogoči za to stran">
-<!ENTITY trackingProtection.block4.accesskey "m">
 <!ENTITY trackingProtection.unblockPrivate4.label "Začasno onemogoči zavračanje">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "Z">
 <!ENTITY trackingProtection.block5.label "Omogoči zavračanje za to stran">
@@ -1146,7 +1142,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Sinhroniziranje naprav ...">
 
 <!ENTITY pageAction.shareUrl.label "Deli">
-
 <!ENTITY pageAction.shareMore.label "Več …">
 
 <!ENTITY libraryButton.tooltip "Prikaži zgodovino, shranjene zaznamke in drugo">

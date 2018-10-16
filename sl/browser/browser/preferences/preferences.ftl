@@ -53,6 +53,7 @@ pane-sync-title = Firefox Račun
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Podpora za { -brand-short-name }
+addons-button-label = Razširitve in teme
 focus-search =
     .key = f
 close-button =
@@ -332,7 +333,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Omrežni posrednik
 network-settings-title = Nastavitve omrežja
 network-proxy-connection-description = Nastavite, kako se { -brand-short-name } poveže z internetom.
 network-proxy-connection-learn-more = Več o tem
@@ -598,26 +598,12 @@ sitedata-total-size-calculating = Računanje velikosti podatkov strani in predpo
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Shranjeni piškotki, podatki strani in predpomnilnik trenutno zavzemajo { $value } { $unit } prostora na disku.
 sitedata-learn-more = Več o tem
-sitedata-accept-cookies-option =
-    .label = Sprejemaj piškotke in podatke spletnih strani (priporočeno)
-    .accesskey = S
-sitedata-block-cookies-option =
-    .label = Zavračaj piškotke in podatke spletnih strani (lahko povzroči nepravilno delovanje strani)
-    .accesskey = Z
 sitedata-keep-until = Obdrži jih,
     .accesskey = j
 sitedata-keep-until-expire =
     .label = dokler ne pretečejo
 sitedata-keep-until-closed =
     .label = dokler se { -brand-short-name } ne zapre
-sitedata-accept-third-party-desc = Sprejemaj piškotke in podatke tretjih strani
-    .accesskey = t
-sitedata-accept-third-party-always-option =
-    .label = Vedno
-sitedata-accept-third-party-visited-option =
-    .label = Izmed obiskanih
-sitedata-accept-third-party-never-option =
-    .label = Nikoli
 sitedata-allow-cookies-option =
     .label = Sprejemaj piškotke in podatke strani
     .accesskey = S
@@ -738,10 +724,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nikoli
     .accesskey = o
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Uporabljaj zaščito pred sledenjem v zasebnem brskanju za zavračanje znanih sledilcev
-    .accesskey = r
 tracking-exceptions =
     .label = Izjeme …
     .accesskey = j
