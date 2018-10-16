@@ -57,7 +57,7 @@
 <!ENTITY goMenu.label "Teruskan">
 <!ENTITY goMenu.accesskey "T">
 <!ENTITY goHomeCmd.label "Laman">
-<!ENTITY goHomeCmd.accesskey "H">
+<!ENTITY goHomeCmd.accesskey "L">
 <!ENTITY historyCmd.label "Sejarah">
 <!ENTITY historyCmd.accesskey "j">
 <!ENTITY history.commandKey "h">
