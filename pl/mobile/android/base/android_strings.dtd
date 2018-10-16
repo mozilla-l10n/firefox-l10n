@@ -258,7 +258,6 @@
 <!ENTITY pref_use_system_font_size_summary "Skalowanie stron zgodnie z rozmiarem czcionki systemu">
 
 <!ENTITY pref_media_autoplay_enabled "Automatyczne odtwarzanie">
-<!ENTITY pref_media_autoplay_enabled_summary "Kontroluje, czy strony mogą automatycznie odtwarzać filmy i inne treści">
 <!ENTITY pref_media_autoplay_allow "Włączone">
 <!ENTITY pref_media_autoplay_block "Blokowanie">
 <!ENTITY pref_zoom_force_enabled "Można powiększać każdą stronę">
@@ -586,9 +585,6 @@
 <!ENTITY unsupported_sdk_version "Ta wersja przeglądarki &brandShortName; nie może działać na tym urządzeniu (&formatS1;, &formatS2;). Proszę pobrać właściwą wersję.">
 
 <!ENTITY corrupt_apk "Nie można otworzyć przeglądarki &brandShortName;. Proszę zainstalować ją ponownie.">
-
-<!ENTITY eol_notification_title2 "&brandShortName; nie będzie już aktualizowany">
-<!ENTITY eol_notification_summary "Stuknij, aby dowiedzieć się więcej">
 
 <!ENTITY whatsnew_notification_title "&brandShortName; jest aktualny">
 <!ENTITY whatsnew_notification_summary "Nowości w tej wersji">
