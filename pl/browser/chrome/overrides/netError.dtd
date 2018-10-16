@@ -63,8 +63,8 @@
 <!ENTITY certerror.longpagetitle1 "Połączenie nie jest bezpieczne">
 <!ENTITY certerror.longpagetitle2 "Ostrzeżenie: potencjalne zagrożenie bezpieczeństwa">
 <!ENTITY certerror.introPara "Właściciel witryny <span class='hostname'/> niepoprawnie ją skonfigurował. Program &brandShortName; nie połączył się z nią, aby chronić użytkownika przed kradzieżą informacji.">
-<!ENTITY certerror.introPara1 "&brandShortName; wykrył potencjalne zagrożenie bezpieczeństwa i nie przeszedł do „<span class='hostname'/>”. Jeśli otworzysz tę stronę, atakujący będą mogli przechwycić informacje takie jak hasła, wiadomości czy numery kart płatniczych.">
-<!ENTITY certerror.introPara2 "&brandShortName; wykrył potencjalne zagrożenie bezpieczeństwa i nie przeszedł do „<span class='hostname'/>”. Jeśli otworzysz tę stronę, atakujący będą mogli przechwycić informacje takie jak hasła, wiadomości czy dane kart płatniczych.">
+<!ENTITY certerror.introPara1 "&brandShortName; wykrył potencjalne zagrożenie bezpieczeństwa i nie wczytał „<span class='hostname'/>”. Jeśli otworzysz tę stronę, atakujący będą mogli przechwycić informacje takie jak hasła, wiadomości czy numery kart płatniczych.">
+<!ENTITY certerror.introPara2 "&brandShortName; wykrył potencjalne zagrożenie bezpieczeństwa i nie wczytał „<span class='hostname'/>”. Jeśli otworzysz tę stronę, atakujący będą mogli przechwycić informacje takie jak hasła, wiadomości czy dane kart płatniczych.">
 
 <!ENTITY certerror.expiredCert.secondPara "Jest to prawdopodobnie spowodowane złym czasem zegara systemowego, co uniemożliwiałoby nawiązanie bezpiecznego połączenia.">
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Co zrobić w takim przypadku?">
