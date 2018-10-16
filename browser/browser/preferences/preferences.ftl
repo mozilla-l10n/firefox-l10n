@@ -53,6 +53,7 @@ pane-sync-title = Уліковы запіс Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Падтрымка { -brand-short-name }
+addons-button-label = Пашырэнні & Тэмы
 focus-search =
     .key = f
 close-button =
@@ -329,7 +330,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Проксі-сервер
 network-settings-title = Налады сеткі
 network-proxy-connection-description = Наладзіць спосаб злучэння { -brand-short-name } з Інтэрнэтам.
 network-proxy-connection-learn-more = Падрабязней
@@ -528,6 +528,7 @@ privacy-header = Прыватнасць браўзера
 ## Privacy Section - Forms
 
 forms-header = Формы & паролі
+logins-header = Лагіны & Паролі
 forms-ask-to-save-logins =
     .label = Прапаноўваць захаваць лагіны і паролі для вэб-сайтаў
     .accesskey = р
@@ -594,26 +595,12 @@ sitedata-total-size-calculating = Падлік памеру дадзеных с�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Вашы захаваныя кукі, дадзеныя сайтаў і кэш зараз займаюць { $value } { $unit } на дыску.
 sitedata-learn-more = Даведацца больш
-sitedata-accept-cookies-option =
-    .label = Прымаць кукі і дадзеныя з вэб-сайтаў (рэкамендуецца)
-    .accesskey = П
-sitedata-block-cookies-option =
-    .label = Блакаваць кукі і дадзеныя з сайтаў (можа прывесці да памылак адлюстравання вэб-сайта)
-    .accesskey = Б
 sitedata-keep-until = Трымаць пакуль
     .accesskey = п
 sitedata-keep-until-expire =
     .label = Тэрмін канчаецца
 sitedata-keep-until-closed =
     .label = да закрыцця { -brand-short-name }
-sitedata-accept-third-party-desc = Прымаць кукі і дадзеныя з пабочных сайтаў
-    .accesskey = ы
-sitedata-accept-third-party-always-option =
-    .label = заўсёды
-sitedata-accept-third-party-visited-option =
-    .label = з наведаных
-sitedata-accept-third-party-never-option =
-    .label = ніколі
 sitedata-allow-cookies-option =
     .label = Прымаць кукі і звесткі сайтаў
     .accesskey = П
@@ -687,6 +674,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Марудныя элементы сачэння
     .accesskey = ы
 content-blocking-fastblock-new-description = Блакаваць толькі тыя трэкеры, што замінаюць хуткай загрузцы старонак.
+content-blocking-tracking-protection-trackers-label =
+    .label = Трэкеры
+    .accesskey = е
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Усе выяўленыя трэкеры
     .accesskey = е
@@ -734,10 +724,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Ніколі
     .accesskey = н
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Блакіраваць вядомыя элементы сачэння ў рэжыме прыватнага аглядання
-    .accesskey = м
 tracking-exceptions =
     .label = Выключэнні…
     .accesskey = ч

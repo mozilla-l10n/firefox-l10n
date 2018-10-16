@@ -23,10 +23,14 @@
 <!ENTITY  reloadTab.accesskey                "А">
 <!ENTITY  reloadAllTabs.label                "Перачытаць усе карткі">
 <!ENTITY  reloadAllTabs.accesskey            "у">
+<!ENTITY  selectAllTabs.label                "Выбраць усе карткі">
+<!ENTITY  selectAllTabs.accesskey            "ы">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Дубляваць картку">
 <!ENTITY  duplicateTab.accesskey             "Д">
+<!ENTITY  closeTabOptions.label              "Варыянты закрыцця карткі">
+<!ENTITY  closeTabOptions.accesskey          "В">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -38,19 +42,29 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Закрыць выбраныя карткі">
 <!ENTITY  closeSelectedTabs.accesskey        "В">
 
+<!ENTITY  closeTabs.label                    "Закрыць карткі">
+<!ENTITY  closeTabs.accesskey                "З">
 <!ENTITY  pinSelectedTabs.label              "Прышпіліць карткі">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "ш">
 <!ENTITY  unpinSelectedTabs.label            "Адшпіліць карткі">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "і">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Абнавіць выбраныя карткі">
 <!ENTITY  reloadSelectedTabs.accesskey       "к">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Абнавіць карткі">
+<!ENTITY  reloadTabs.accesskey               "К">
 <!ENTITY  bookmarkSelectedTabs.label         "Закладкі на карткі…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "л">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,8 +73,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Прышпіліць картку">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "П">
 <!ENTITY  unpinTab.label                     "Адшпіліць картку">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "А">
 <!ENTITY  sendTabToDevice.label              "Даслаць картку на прыладу">
 <!ENTITY  sendTabToDevice.accesskey          "п">
@@ -68,12 +88,17 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "п">
 <!ENTITY  sendLinkToDevice.label             "Даслаць спасылку на прыладу">
 <!ENTITY  sendLinkToDevice.accesskey         "п">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Рухаць картку">
 <!ENTITY  moveToNewWindow.label              "Перанесці ў новае акно">
 <!ENTITY  moveToNewWindow.accesskey          "а">
 <!ENTITY  reopenInContainer.label            "Пераадкрыць у кантэйнеры">
 <!ENTITY  reopenInContainer.accesskey        "у">
 <!ENTITY  bookmarkAllTabs.label              "Закладкі на ўсе карткі…">
 <!ENTITY  bookmarkAllTabs.accesskey          "к">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "Адмяніць закрыццё карткі">
 <!ENTITY  undoCloseTab.accesskey             "А">
 <!ENTITY  closeTab.label                     "Закрыць картку">
@@ -114,6 +139,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "у">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Закладкі на ўсе карткі…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "к">
+
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Адмяніць закрыццё карткі">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "А">
 
@@ -558,9 +596,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Абнавіць рамку">
 <!ENTITY reloadFrameCmd.accesskey     "А">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Праглядзець зыходнік вылучэння">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Праглядзець зыходнік MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "л">
 <!ENTITY viewPageSourceCmd.label      "Праглядзець зыходнік старонкі">
 <!ENTITY viewPageSourceCmd.accesskey  "з">
@@ -777,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "25em">
 <!ENTITY editBookmark.done.label                     "Гатова">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Паказваць рэдактар пры захаванні">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "П">
 
@@ -927,9 +961,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Гуказапіс з карткі будзе абагулены.">
 <!ENTITY getUserMedia.allWindowsShared.message "Усе бачныя вокны на вашым экране будуць абагулены.">
 
-<!ENTITY trackingProtection.on "Ахова ад сачэння: УКЛ">
-<!ENTITY trackingProtection.off "Ахова ад сачэння: ВЫКЛ">
-
 <!ENTITY contentBlocking.title "Блакаванне змесціва">
 <!ENTITY contentBlocking.detected "На гэтым сайце выяўлена змесціва для блакавання.">
 <!ENTITY contentBlocking.notDetected "На гэтай старонцы не выяўлена змесціва для блакавання.">
@@ -987,28 +1018,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Ахова ад сачэння">
 <!ENTITY trackingProtection.tooltip "Адкрыць налады аховы ад сачэння">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; блакуе асобныя часткі старонкі, якія могуць асочваць вашы паводзіны ў Інтэрнэце.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; выявіў элементы, якія могуць за вамі сачыць.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; выявіў элементы, якія могуць асочваць вашы паводзіны ў інтэрнэце. Вы адключылі ахову для гэтага сайта.">
-<!ENTITY trackingProtection.notDetected5 "На гэтай старонцы не выяўлена ніводнага элемента асочвання.">
-<!ENTITY trackingProtection.notDetectedException "На гэтай старонцы не выяўлена ніводнага элемента асочвання. Вы адключылі ахову для гэтага сайта.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Вы ўключылі Ахову ад сачэння. Абнавіце гэту старонку, каб блакаваць элементы сачэння.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Адключыць для гэтага сайта">
-<!ENTITY trackingProtection.unblock3.accesskey "А">
 <!ENTITY trackingProtection.unblock4.label "Адключыць блакаванне для гэтага сайта">
 <!ENTITY trackingProtection.unblock4.accesskey "А">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Адключыць для гэтага сеансу">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "А">
-<!ENTITY trackingProtection.block4.label "Уключыць для гэтага сайта">
-<!ENTITY trackingProtection.block4.accesskey "У">
 <!ENTITY trackingProtection.unblockPrivate4.label "Часова адключыць блакаванне">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "а">
 <!ENTITY trackingProtection.block5.label "Уключыць блакаванне для гэтага сайта">
@@ -1118,7 +1136,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Сінхранізацыя прылад…">
 
 <!ENTITY pageAction.shareUrl.label "Падзяліцца">
-
 <!ENTITY pageAction.shareMore.label "Больш…">
 
 <!ENTITY libraryButton.tooltip "Паказаць гісторыю, захаваныя закладкі і іншае">
