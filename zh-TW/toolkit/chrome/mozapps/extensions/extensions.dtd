@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "附加元件管理員">
 
 <!ENTITY search.placeholder2                  "在 addons.mozilla.org 搜尋">
+
+<!ENTITY search.placeholder3                  "在 addons.mozilla.org 搜尋">
 <!ENTITY search.buttonlabel                   "搜尋">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +43,10 @@
 <!ENTITY view.discover.label                  "取得元件">
 <!ENTITY view.recentUpdates.label             "最近的更新">
 <!ENTITY view.availableUpdates.label          "可用的更新">
+
+<!ENTITY helpButton.label                      "附加元件支援">
+<!ENTITY preferencesWin.label                  "&brandShortName; 選項">
+<!ENTITY preferencesUnix.label                 "&brandShortName; 偏好設定">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "檢查更新">
