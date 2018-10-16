@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Gestor de extras">
 
 <!ENTITY search.placeholder2                  "Pesquisar em addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Pesquisar addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Pesquisar">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +43,10 @@
 <!ENTITY view.discover.label                  "Obter extras">
 <!ENTITY view.recentUpdates.label             "Atualizações recentes">
 <!ENTITY view.availableUpdates.label          "Atualizações disponíveis">
+
+<!ENTITY helpButton.label                      "Apoio dos extras">
+<!ENTITY preferencesWin.label                  "Opções do &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Preferências do &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Procurar atualizações">

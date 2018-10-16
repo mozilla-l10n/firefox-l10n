@@ -53,6 +53,7 @@ pane-sync-title = Conta Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Apoio do { -brand-short-name }
+addons-button-label = Extensões e temas
 focus-search =
     .key = f
 close-button =
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy de rede
 network-settings-title = Definições de rede
 network-proxy-connection-description = Configure como o { -brand-short-name } se liga à internet.
 network-proxy-connection-learn-more = Saber mais
@@ -592,26 +592,12 @@ sitedata-total-size-calculating = A calcular tamanho dos dados de sites e cache�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Os seus cookies, dados de sites e cache estão atualmente a utilizar { $value } { $unit } de espaço em disco.
 sitedata-learn-more = Saber mais
-sitedata-accept-cookies-option =
-    .label = Aceitar cookies e dados de sites de websites (recomendado)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Bloquear cookies e dados de sites (pode fazer com que os websites deixam de funcionar)
-    .accesskey = B
 sitedata-keep-until = Manter até
     .accesskey = a
 sitedata-keep-until-expire =
     .label = expirarem
 sitedata-keep-until-closed =
     .label = o { -brand-short-name } ser fechado
-sitedata-accept-third-party-desc = Aceitar cookies de terceiros e dados de sites
-    .accesskey = s
-sitedata-accept-third-party-always-option =
-    .label = Sempre
-sitedata-accept-third-party-visited-option =
-    .label = Dos visitados
-sitedata-accept-third-party-never-option =
-    .label = Nunca
 sitedata-allow-cookies-option =
     .label = Aceitar cookies e dados de sites
     .accesskey = A
@@ -735,10 +721,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nunca
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Utilizar Proteção contra monitorização na Navegação privada para bloquear trackers conhecidos
-    .accesskey = v
 tracking-exceptions =
     .label = Exceções…
     .accesskey = x
