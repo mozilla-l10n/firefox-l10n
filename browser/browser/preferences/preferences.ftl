@@ -53,6 +53,7 @@ pane-sync-title = Account Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Sopòrto de { -brand-short-name }
+addons-button-label = Estenscioin e Temi
 focus-search =
     .key = f
 close-button =
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy da Ræ
 network-settings-title = Inpostaçioin da ræ
 network-proxy-connection-description = Inpòsta o mòddo de conetise a l'internet de { -brand-short-name }.
 network-proxy-connection-learn-more = Pe saveine de ciù
@@ -592,26 +592,12 @@ sitedata-total-size-calculating = Conto a dimenscion di dæti e da cache…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = I cookie, dæti do scito e cache deuvian { $value } { $unit } de spaçion in sciô disco.
 sitedata-learn-more = Pe saveine de ciù
-sitedata-accept-cookies-option =
-    .label = Acetta cookie e dæti di sciti da-i sciti (consegiou)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Blòcca cookie e dæti di sciti (çerti sciti peuan no fonçionâ)
-    .accesskey = B
 sitedata-keep-until = Mantegni scinn-a che
     .accesskey = i
 sitedata-keep-until-expire =
     .label = Scazzan
 sitedata-keep-until-closed =
     .label = { -brand-short-name } o l'é serou
-sitedata-accept-third-party-desc = Acetta cookie e dæti di sciti da terse parte
-    .accesskey = s
-sitedata-accept-third-party-always-option =
-    .label = de longo
-sitedata-accept-third-party-visited-option =
-    .label = da-i sciti vixitæ
-sitedata-accept-third-party-never-option =
-    .label = mai
 sitedata-allow-cookies-option =
     .label = Acetta cookie e dæti do scito
     .accesskey = A
@@ -735,10 +721,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Mai
     .accesskey = m
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Deuvia a proteçion anti-traciamento inta navegaçion privâ pe i sciti che se san che tracian
-    .accesskey = v
 tracking-exceptions =
     .label = Eceçioin…
     .accesskey = c
