@@ -10,7 +10,7 @@
 <!ENTITY returnToPreviousPage.label "পিছনে ফিরে যাও">
 <!ENTITY returnToPreviousPage1.label "পেছনে যান (সুপারিশকৃত)">
 <!ENTITY advanced.label "উচ্চপর্যায়">
-
+<!ENTITY continue2.label "আরও…">
 <!ENTITY moreInformation.label "অধিক তথ্য">
 
 <!-- Specific error messages -->
@@ -100,7 +100,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> এর মালিক তাদের ওয়েবসাইটটি ত্রুটিপূর্ণভাবে কনফিগার করেছেন।  আপনার তথ্যকে চুরি হয়ে যাওয়া থেকে বাঁচানোর জন্য &brandShortName; ওয়েবসাইটটির সাথে যুক্ত করা হয়নি।">
 
-
 <!ENTITY certerror.expiredCert.secondPara "এই সমস্যাটি সবচেয়ে বড় সম্ভাব্য কারণ হতে পারে আপনার কম্পিউটারের ঘড়ি ভুল সময়ে সেট করা আছে, যা &brandShortName; নিরাপদ সংযোগ করে।">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "এ ব্যাপারে আপনি কি করতে পারেন?">
@@ -126,7 +125,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্রম যোগ…">
-
 
 <!ENTITY errorReporting.automatic2 "মজিলাকে এই ধরনের প্রতিবেদন দিয়ে ক্ষরিকারক সাইট চিহ্নিত এবং অবরুদ্ধ করতে সাহায্য করুন।">
 <!ENTITY errorReporting.learnMore "আরও জানুন…">

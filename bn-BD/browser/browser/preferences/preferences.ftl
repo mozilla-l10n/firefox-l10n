@@ -318,7 +318,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = নেটওয়ার্ক প্রক্সি
 network-proxy-connection-description = কিভাবে { -brand-short-name } ইন্টারেনেটে সংযোগ করে তা কনফিগার করুন।
 network-proxy-connection-learn-more = আরও জানুন
 network-proxy-connection-settings =
@@ -582,26 +581,12 @@ sitedata-total-size-calculating = সাইট ডাটা এবং ক্য�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = আপনার সংরক্ষিত কুকিজ, সাইট ডেটা এবং ক্যাশে বর্তমানে { $value } { $unit } ডিস্ক স্পেস ব্যবহার করছে।
 sitedata-learn-more = আরও জানুন
-sitedata-accept-cookies-option =
-    .label = ওয়েবসাইট থেকে কুকি ও সাইট ডাটা গ্রহণ করুন (সুপারিশকৃত)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = কুকি এবং সাইট ডাটা ব্লক করুন (ওয়েবসাইট ভাঙ্গতে পারে)
-    .accesskey = B
 sitedata-keep-until = সংরক্ষণের সময়কাল
     .accesskey = u
 sitedata-keep-until-expire =
     .label = তাদের মেয়াদ উত্তীর্ণ
 sitedata-keep-until-closed =
     .label = { -brand-short-name } বন্ধ হয়ে গেছে
-sitedata-accept-third-party-desc = তৃতীয়-পক্ষের কুকি এবং সাইট ডাটা গ্রহণ করুন
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = সর্বদা
-sitedata-accept-third-party-visited-option =
-    .label = প্রদর্শিত হতে
-sitedata-accept-third-party-never-option =
-    .label = কখনো নয়
 sitedata-clear =
     .label = ডাটা পরিষ্কার করুন…
     .accesskey = l
@@ -662,10 +647,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = কখনো নয় N
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = ব্যক্তিগত ব্রাউজিং এ জানা ট্র্যাকার ব্লক করতে ট্র্যাকিং সুরক্ষা ব্যবহার করুন
-    .accesskey = v
 tracking-exceptions =
     .label = ব্যতিক্রম… E
     .accesskey = E
@@ -709,6 +690,7 @@ autoplay-option-allow =
     .label = অটোপ্লে কে অনুমতি দিন
 autoplay-option-dont =
     .label = অটোপ্লে করবেন না
+permissions-autoplay-link = আরও জানুন
 permissions-block-popups =
     .label = পপ-আপ উইন্ডো ব্লক করা হবে B
     .accesskey = B

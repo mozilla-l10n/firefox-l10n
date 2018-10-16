@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "ক্র্যাশ প্রতিবেদন">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "প্রতিবেদন আইডি">
 <!ENTITY aboutSupport.crashes.sendDate "প্রেরিত">
 <!ENTITY aboutSupport.crashes.allReports "সমস্ত ক্র্যাশ রিপোর্ট">
@@ -32,15 +32,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureName "নাম">
 <!ENTITY aboutSupport.featureVersion "সংস্করণ">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "পরীক্ষামূলক বৈশিষ্ট্য">
-<!ENTITY aboutSupport.experimentName "নাম">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "বিবরণ/বর্ণনা">
-<!ENTITY aboutSupport.experimentActive "সক্রিয়">
-<!ENTITY aboutSupport.experimentEndDate "সমাপ্তির তারিখ">
-<!ENTITY aboutSupport.experimentHomepage "নীড়পাতা">
-<!ENTITY aboutSupport.experimentBranch "শাখা">
 
 <!ENTITY aboutSupport.appBasicsTitle "অ্যাপ্লিকেশনের প্রাথমিক তথ্য">
 <!ENTITY aboutSupport.appBasicsName "নাম">
@@ -74,6 +65,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "মাল্টিপ্রসেস উইন্ডো">
 
 <!ENTITY aboutSupport.appBasicsProcessCount "ওয়েবের কনটেন্ট প্রসেস">
+
+<!ENTITY aboutSupport.enterprisePolicies "এন্ট্রারপ্রাইজ নীতিগুলি">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla লোকেশন সার্ভিস Key">

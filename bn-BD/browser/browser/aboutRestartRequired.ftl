@@ -4,3 +4,4 @@
 
 restart-required-title = পুনরায় শুরু করা প্রয়োজন
 restart-required-header = দুঃখিত। চালিয়ে যেতে আমাদের একটি ছোট্ট কাজ করতে হবে।
+restart-button-label = { -brand-short-name }; পুনরায় চালু করুন
