@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Pengurus Add-ons">
 
 <!ENTITY search.placeholder2                  "Cari di addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Cari di addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Cari">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +43,10 @@
 <!ENTITY view.discover.label                  "Dapatkan Add-ons">
 <!ENTITY view.recentUpdates.label             "Kemaskini Terkini">
 <!ENTITY view.availableUpdates.label          "Kemaskini Tersedia">
+
+<!ENTITY helpButton.label                      "Sokongan Add-ons">
+<!ENTITY preferencesWin.label                  "Pilihan &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Keutamaan &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Semak Kemaskini">
@@ -80,8 +86,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "p">
 <!ENTITY cmd.preferencesUnix.label            "Keutamaan">
 <!ENTITY cmd.preferencesUnix.accesskey        "m">
-<!ENTITY cmd.about.label                      "Perihal">
-<!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "Dayakan">
 <!ENTITY cmd.enableAddon.accesskey            "a">
@@ -130,7 +134,6 @@
 <!ENTITY detail.lastupdated.label             "Kemaskini Terakhir">
 <!ENTITY detail.creator.label                 "Pembangun">
 <!ENTITY detail.homepage.label                "Laman">
-<!ENTITY detail.numberOfDownloads.label       "Muat turun">
 
 <!ENTITY detail.contributions.description     "Pembangun aplikasi tambahan ini meminta anda bantuan untuk menyokong pembangunan yang berterusan dengan memberikan sedikit sumbangan.">
 
@@ -162,13 +165,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Jeda">
 <!ENTITY progress.cancel.tooltip              "Batal">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Nama">
-<!ENTITY sort.name.tooltip                    "Susun mengikut nama">
-<!ENTITY sort.dateUpdated.label               "Kemaskini Terakhir">
-<!ENTITY sort.dateUpdated.tooltip             "Susun mengikut tarikh kemaskini">
 
 <!ENTITY addon.homepage                       "Laman">
 <!ENTITY addon.details.label                  "Selanjutnya">
@@ -211,17 +207,6 @@
 <!ENTITY eula.accept                          "Terima dan Pasang ...">
 
 <!ENTITY settings.path.button.label           "Cari…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Apakah ini? Telemetri mungkin dipasang dan melaksanakan eksperimen dari semasa ke semasa.">
-<!ENTITY experiment.info.learnmore "Ketahui Selanjutnya">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Tetapan Telemetri">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Ketahui Selanjutnya…">
 
