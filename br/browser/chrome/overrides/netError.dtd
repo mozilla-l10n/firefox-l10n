@@ -10,7 +10,6 @@
 <!ENTITY returnToPreviousPage.label "Distreiñ">
 <!ENTITY returnToPreviousPage1.label "Distreiñ (Erbedet)">
 <!ENTITY advanced.label "Kempleshoc'h">
-
 <!ENTITY continue2.label "Muioc'h...">
 <!ENTITY moreInformation.label "Muioc'h a ditouroù">
 
@@ -100,7 +99,6 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Direizh eo ket bet kefluniet o lec'hienn wiad gant perc'henned <span class='hostname'/>. Kuit na vefe laeret ho stlennoù n'oc'h ket bet kennasket ouzh al lec'hienn-mañ gant &brandShortName;.">
-
 <!ENTITY certerror.introPara2 "Dinoet eo bet gant &brandShortName; ur arvar diogelroez ha n'eus ket kendalc'het etrezek <span class='hostname'/>. Ma weladennit al lec'hienn-mañ e c'hallo tagerien klask laerez ho titouroù evel gerioù-tremen, chomlec'hioù postel pe munudoù kartennoù kred.">
 
 <!ENTITY certerror.expiredCert.secondPara "Gallout a ra bezañ liammet ar gudenn-mañ gant eurier hoc'h urzhiataer. Un eur direizh a c'hall mirout &brandShortName; da genderc'hel en un doare diogel.">
@@ -129,7 +127,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ouzhpennañ un nemedenn…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Asantiñ ar riskl ha kenderc'hel">
 
 <!ENTITY errorReporting.automatic2 "Danevellit kudennoù evel-se evit sikour Mozilla da naoudiañ ha stankañ al lec'hiennoù droukrañsus">
@@ -163,6 +160,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Pajenn stanket">
 
 <!ENTITY clockSkewError.title "Direizh eo eurier hoc'h urzhiataer">
+<!ENTITY clockSkewError.longDesc "Hoc'h urzhiataer a soñj dezhañ eo <span id='wrongSystemTime_systemDate1'/>, ar pezh a vir &brandShortName; da gennaskañ ent diogel. Evit gweladenniñ <span class='hostname'></span>, hizivait eur hoc'h urzhiataer en hoc'h arventennoù reizhiad ha lakait an deiziad, an eur hag ar gwerzhid-eur reizh. Adkargit <span class='hostname'></span> da c'houde.">
 
 <!ENTITY prefReset.longDesc "Gallout a ra hoc'h arventennoù rouedad bezañ kaoz eus kement-se. Fellout a ra deoc'h assav an arventennoù dre ziouer?">
 <!ENTITY prefReset.label "Assav an arventennoù dre ziouer">
