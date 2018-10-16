@@ -958,6 +958,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.on "سراغ کاری حفاظت چالو">
 <!ENTITY trackingProtection.off "سراغ کاری حفاظت OFF">
 
+<!ENTITY contentBlocking.title "مواد روکنا">
 <!ENTITY contentBlocking.disabled.label "نااہل">
 
 <!ENTITY contentBlocking.fastBlock.label "آہستہ لوڈ ہونے والے ٹریکرس">
@@ -996,6 +997,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 
 <!ENTITY contentBlocking.breakageReportView.learnMore "مزید سیکھیں">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "منسوخ کریں">
 
 <!ENTITY trackingProtection.title "سراغ کاری حفاظت">
 
@@ -1014,6 +1016,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block4.label "اس سائٹ کے لیئے اہل بنائیں">
 <!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "صفحہ پھر لوڈ کریں">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 

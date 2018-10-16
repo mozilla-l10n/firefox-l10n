@@ -78,7 +78,7 @@
 <!ENTITY editMenu.label               "تدوین">
 <!ENTITY editMenu.accesskey           "ت">
 
-<!ENTITY run.label                    "بھاگیں">
+<!ENTITY run.label                    "چلیں">
 <!ENTITY run.accesskey                "ب">
 <!ENTITY run.key                      "r">
 
@@ -134,7 +134,7 @@
 <!ENTITY resetContext2.label          "متغیرہ پھر سیٹ کریں">
 <!ENTITY resetContext2.accesskey      "پ">
 
-<!ENTITY reloadAndRun.label           "Reload اور چلیں">
+<!ENTITY reloadAndRun.label           "دوبارہ لوڈ کریں اور چلیں">
 <!ENTITY reloadAndRun.accesskey       "e">
 <!ENTITY reloadAndRun.key             "r">
 
