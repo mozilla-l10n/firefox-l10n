@@ -53,6 +53,7 @@ pane-sync-title = حساب فَيَرفُكس
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = دعم { -brand-short-name }
+addons-button-label = الامتدادات والسمات
 focus-search =
     .key = f
 close-button =
@@ -335,7 +336,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = وسيط الشبكة
 network-settings-title = إعدادات الشبكة
 network-proxy-connection-description = اضبط طريقة اتصال { -brand-short-name } بالإنترنت.
 network-proxy-connection-learn-more = اطّلع على المزيد
@@ -534,6 +534,7 @@ privacy-header = خصوصية المتصفح
 ## Privacy Section - Forms
 
 forms-header = النماذج و كلمات السر
+logins-header = جلسات الولوج وكلمات السر
 forms-ask-to-save-logins =
     .label = اطلب مني حفظ كلمات سر و بيانات ولوج مواقع الوِب
     .accesskey = ط
@@ -600,26 +601,12 @@ sitedata-total-size-calculating = يحسب حجم بيانات الموقع و 
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = تستخدم الكعكات، و بيانات الموقع، و الخبيئة المحفوظة حاليًا { $value }‏ { $unit } من مساحة القرص.
 sitedata-learn-more = اطّلع على المزيد
-sitedata-accept-cookies-option =
-    .label = اقبل الكعكات و بيانات المواقع من المواقع (مستحسن)
-    .accesskey = ق
-sitedata-block-cookies-option =
-    .label = احجب الكعكات و بيانات المواقع (قد يتسبب بعطب المواقع)
-    .accesskey = ح
 sitedata-keep-until = احتفظ بها حتى
     .accesskey = ظ
 sitedata-keep-until-expire =
     .label = تنتهي صلاحيتها
 sitedata-keep-until-closed =
     .label = إغلاق { -brand-short-name }
-sitedata-accept-third-party-desc = اسمح بكعكات و بيانات موقع الطرف الثالث
-    .accesskey = ط
-sitedata-accept-third-party-always-option =
-    .label = دائمًا
-sitedata-accept-third-party-visited-option =
-    .label = من المواقع المُزارة
-sitedata-accept-third-party-never-option =
-    .label = أبدًا
 sitedata-allow-cookies-option =
     .label = اقبل الكعكات و بيانات المواقع
     .accesskey = ق
@@ -693,6 +680,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = المتعقّبات بطيئة التحميل
     .accesskey = ط
 content-blocking-fastblock-new-description = احجب المتعقّبات التي تمنع تحميل الصفحات بسرعة فحسب.
+content-blocking-tracking-protection-trackers-label =
+    .label = المتعقّبات
+    .accesskey = ق
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = كل المتعقّبات المكتشفة
     .accesskey = ش
@@ -740,10 +730,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = أبدًا
     .accesskey = ب
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = استخدم الحماية من التعقب في التصفح الخاص لحظر المتعقبات المعروفة
-    .accesskey = ص
 tracking-exceptions =
     .label = الاستثناءات…
     .accesskey = س
