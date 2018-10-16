@@ -148,7 +148,26 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "w">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Wšykne rejtarki ako cytańske znamjenja składowaś…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "r">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Wubrany rejtark znowego zacytaś">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "b">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Wubrane rejtarki znowego zacytaś">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "u">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Wubrany rejtark ako cytańske znamje składowaś…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "c">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Wubrane rejtarki ako cytańske znamjenja składowaś…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "b">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Wšykne rejtarki wubraś">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "u">
@@ -596,9 +615,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Wobłuk znowego zacytaś">
 <!ENTITY reloadFrameCmd.accesskey     "z">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Žrědłowy tekst wuběrka zwobrazniś">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Žrědłowy tekst MathML zwobrazniś">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "t">
 <!ENTITY viewPageSourceCmd.label      "Žrědłowy tekst boka pokazaś">
 <!ENTITY viewPageSourceCmd.accesskey  "t">
@@ -815,7 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Dokóńcony">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Editor pśi składowanju pokazaś">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "E">
 
@@ -966,9 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Awdio z rejtarka buźo se źěliś.">
 <!ENTITY getUserMedia.allWindowsShared.message "Wšykne widobne wokna na wašej wobrazowce budu se źěliś.">
 
-<!ENTITY trackingProtection.on "Slědowański šćit: Zašaltowany">
-<!ENTITY trackingProtection.off "Slědowański šćit: Wušaltowany">
-
 <!ENTITY contentBlocking.title "Blokěrowanje wopśimjeśa">
 <!ENTITY contentBlocking.detected "Blokěrujobne wopśimjeśe jo se namakało na toś tom sedle.">
 <!ENTITY contentBlocking.notDetected "Žedno blokěrujobne wopśimjeśe jo se namakało na toś tom boku.">
@@ -1027,28 +1039,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Slědowański šćit">
 <!ENTITY trackingProtection.tooltip "Nastajenja slědowańskego šćita wócyniś">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokěrujo źěle toś togo boka, kótarež by mógli wašo pśeglědowanje slědowaś.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; jo elementy namakał, kótarež mógli wašo pśeglědowanje slědowaś.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; jo elementy namakał, kótarež mógli waš pśeglědowanje slědowaś. Sćo znjemóžnił šćit za toś to sedło.">
-<!ENTITY trackingProtection.notDetected5 "Žedne slědujuce elementy na toś tom boku namakane.">
-<!ENTITY trackingProtection.notDetectedException "Žedne slědujuce elementy na toś tom boku namakane. Sćo znjemóžnił šćit za toś to sedło.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Sćo zmóžnił slědowański šćit. Zacytajśo toś ten bok znowego, aby wšykne pśeslědowaki blokěrował.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Za toś to sedło znjemóžniś">
-<!ENTITY trackingProtection.unblock3.accesskey "Z">
 <!ENTITY trackingProtection.unblock4.label "Blokěrowanje za toś to sedło znjemóžniś">
 <!ENTITY trackingProtection.unblock4.accesskey "n">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Za toś to pósejźenje znjemóžniś">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "Z">
-<!ENTITY trackingProtection.block4.label "Za toś to sedło zmóžniś">
-<!ENTITY trackingProtection.block4.accesskey "m">
 <!ENTITY trackingProtection.unblockPrivate4.label "Blokěrowanje nachylu znjemóžniś">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "c">
 <!ENTITY trackingProtection.block5.label "Blokěrowanje za toś to sedło zmóžniś">
@@ -1158,7 +1157,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Rědy se synchronizěruju…">
 
 <!ENTITY pageAction.shareUrl.label "Źěliś">
-
 <!ENTITY pageAction.shareMore.label "Wěcej…">
 
 <!ENTITY libraryButton.tooltip "Historiju, skłaźone cytańske znamjenja a wěcej pokazaś">

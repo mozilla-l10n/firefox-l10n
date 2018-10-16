@@ -53,6 +53,7 @@ pane-sync-title = Konto Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Pomoc { -brand-short-name }
+addons-button-label = Rozšyrjenja a drastwy
 focus-search =
     .key = f
 close-button =
@@ -332,7 +333,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Seśowy proksy
 network-settings-title = Seśowe nastajenja
 network-proxy-connection-description = Konfigurěrowaś, kak { -brand-short-name } z internetom zwězujo.
 network-proxy-connection-learn-more = Dalšne informacije
@@ -598,26 +598,12 @@ sitedata-total-size-calculating = Wjelikosć sedłowych datow a purfowaka se wul
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Waše skłaźone cookieje, sedłowe daty a pufrowak se tuchylu { $value } { $unit } platowego ruma wužywaju.
 sitedata-learn-more = Dalšne informacije
-sitedata-accept-cookies-option =
-    .label = Cookieje a sedłowe daty z websedłow akceptěrowaś (dopórucone)
-    .accesskey = C
-sitedata-block-cookies-option =
-    .label = Cookieje a sedłowe daty blokěrowaś (mógło zawinowaś, až websedła njefunkcioněruju)
-    .accesskey = s
 sitedata-keep-until = Wobchowaś
     .accesskey = b
 sitedata-keep-until-expire =
     .label = až njepśepadnu
 sitedata-keep-until-closed =
     .label = { -brand-short-name } se njezacynijo
-sitedata-accept-third-party-desc = Cookieje a sedłowe daty tśeśich póbitowarjow akceptěrowaś
-    .accesskey = t
-sitedata-accept-third-party-always-option =
-    .label = Pśecej
-sitedata-accept-third-party-visited-option =
-    .label = Jano wót woglědanych tśeśich
-sitedata-accept-third-party-never-option =
-    .label = Nigda
 sitedata-allow-cookies-option =
     .label = Cookieje a sedłowe daty akceptěrowaś
     .accesskey = C
@@ -741,10 +727,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nigda
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Slědowański šćit w priwatnem modusu wužywaś, aby znate pśeslědowarje blokěrował
-    .accesskey = r
 tracking-exceptions =
     .label = Wuwześa…
     .accesskey = u
