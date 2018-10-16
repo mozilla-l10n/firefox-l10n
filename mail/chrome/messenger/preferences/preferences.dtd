@@ -11,9 +11,6 @@
 <!ENTITY  prefWindow.titleWin     "Inställningar">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; Inställningar">
 <!ENTITY  prefWindow.titleMAC     "Inställningar">
-<!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
-<!ENTITY  prefWindow.styleMac     "width: 50em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 49em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Allmänt">
 <!ENTITY paneDisplay.title        "Visa">
@@ -22,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Bilagor">
 <!ENTITY panePrivacy.title        "Sekretess">
 <!ENTITY paneSecurity.title       "Säkerhet">
+<!ENTITY paneLightning.title      "Kalender">
 <!ENTITY paneAdvanced.title       "Avancerat">
 <!ENTITY paneAccount.title        "Konton">
 
