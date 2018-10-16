@@ -363,7 +363,6 @@
 <!ENTITY pref_use_system_font_size_summary "Aseggem n ugbur web akken tella teɣzi n tsefsit n unagraw">
 
 <!ENTITY pref_media_autoplay_enabled "Sireg urar awurman">
-<!ENTITY pref_media_autoplay_enabled_summary "Senqed ma yella ismal web zemren ad uraren tividyutin d ugbur-nniḍen s wudem awurman">
 <!ENTITY pref_media_autoplay_allow "Sireg urar awurman">
 <!ENTITY pref_media_autoplay_block "Sewḥel urar awurman">
 <!ENTITY pref_zoom_force_enabled "Remmed yal tikelt asemɣer/asemẓi">
@@ -828,9 +827,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Ur izmir ara ad ildi &brandShortName;. Ttxil-k ales asebded sakin εreḍ tikelt-nniḍen.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; ur yettwalqam ara seg sya d asawen">
-<!ENTITY eol_notification_summary "Ssit iwakken ad tissined ugar">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ittwaleqqem">
@@ -904,3 +900,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; Azen ilɣa">
 <!ENTITY updater_notification_channel "Ileqman n usnas">
 <!ENTITY synced_tabs_notification_channel "Iccaren yemtawin">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Ilɣa n usmel">
