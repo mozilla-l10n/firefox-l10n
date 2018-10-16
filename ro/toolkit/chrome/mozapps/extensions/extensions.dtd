@@ -110,10 +110,10 @@
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuie la dezvoltarea acestui supliment">
 
-<!ENTITY cmd.showReleaseNotes.label           "Afișează notele asupra versiunii">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Afișează notele asupra versiunii pentru această actualizare">
-<!ENTITY cmd.hideReleaseNotes.label           "Ascunde notele asupra versiunii">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Ascunde notele asupra versiunii pentru această actualizare">
+<!ENTITY cmd.showReleaseNotes.label           "Afișează notele privind versiunea">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Afișează notele privind versiunea pentru această actualizare">
+<!ENTITY cmd.hideReleaseNotes.label           "Ascunde notele privind versiunea">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Ascunde notele privind versiunea pentru această actualizare">
 <!ENTITY cmd.findReplacement.label            "Găsești o extensie înlocuitoare">
 
 <!-- discovery view -->
@@ -189,9 +189,9 @@
 <!ENTITY addon.includeUpdate.label            "Inclus în actualizare">
 <!ENTITY addon.updateAvailable.label          "Este disponibilă o actualizare">
 <!ENTITY addon.checkingForUpdates.label       "Se caută actualizări…">
-<!ENTITY addon.releaseNotes.label             "Note asupra versiunii:">
+<!ENTITY addon.releaseNotes.label             "Note privind versiunea:">
 <!ENTITY addon.loadingReleaseNotes.label      "Se încarcă…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Ne pare rău, dar a apărut o eroare la încărcarea notelor asupra versiunii.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Ne pare rău, dar a apărut o eroare la încărcarea notelor privind versiunea.">
 
 <!ENTITY addon.createdBy.label                "Creat de ">
 

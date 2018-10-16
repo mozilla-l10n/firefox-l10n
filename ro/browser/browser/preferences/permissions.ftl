@@ -60,7 +60,7 @@ permissions-exceptions-tracking-protection-desc = Ai dezactivat protecția împo
 permissions-exceptions-cookie-window =
     .title = Excepții - Cookie-uri și date ale site-urilor
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Poți specifica ce site-uri web au întotdeauna sau niciodată permisiunea de a folosi cookie-uri și date ale site-urilor.  Tastează adresa exactă a site-ului pe care vrei să-l gestionezi și apoi clic pe Blochează, Permite pentru sesiune sau Permite.
+permissions-exceptions-cookie-desc = Poți specifica ce site-uri web au întotdeauna sau niciodată permisiunea de a folosi cookie-uri și date ale site-urilor.  Tastează adresa exactă a site-ului pe care vrei să-l gestionezi și apoi dă clic pe Blochează, Permite pentru sesiune sau Permite.
 
 ## Exceptions - Pop-ups
 
@@ -85,14 +85,10 @@ permissions-exceptions-addons-desc = Poți specifica ce site-uri web au permisiu
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Site-uri web permise - Redare automată
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Poți specifica site-urile cărora le permiți să redea automat elemente multimedia. Scrie adresa exactă a site-ului și clic pe butonul Permite.
 permissions-exceptions-autoplay-media-window2 =
     .title = Excepții - Redare automată
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Poți specifica ce site-uri web au întotdeauna sau niciodată permisiunea de a reda automat conținut media cu sunet. Tastează adresa a site-ului pe care vrei să-l gestionezi și apoi clic pe Blochează sau Permite.
+permissions-exceptions-autoplay-media-desc2 = Poți specifica ce site-uri web au întotdeauna sau niciodată permisiunea de a reda automat conținut media cu sunet. Tastează adresa site-ului pe care vrei să-l gestionezi și apoi dă clic pe Blochează sau Permite.
 
 ## Site Permissions - Notifications
 
