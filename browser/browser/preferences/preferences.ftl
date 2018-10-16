@@ -53,6 +53,7 @@ pane-sync-title = Firefox 账户
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } 帮助
+addons-button-label = 扩展和主题
 focus-search =
     .key = f
 close-button =
@@ -322,7 +323,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = 网络代理
 network-settings-title = 网络设置
 network-proxy-connection-description = 配置 { -brand-short-name } 如何连接互联网。
 network-proxy-connection-learn-more = 详细了解
@@ -588,26 +588,12 @@ sitedata-total-size-calculating = 正在计算网站数据和缓存的大小…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = 您已存储的 Cookie、网站数据和缓存目前使用了 { $value } { $unit } 磁盘空间。
 sitedata-learn-more = 详细了解
-sitedata-accept-cookies-option =
-    .label = 接受来自网站的 Cookie 和网站数据（推荐）
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = 屏蔽 Cookie 和网站数据（可能导致网站故障）
-    .accesskey = B
 sitedata-keep-until = 保存，直到
     .accesskey = u
 sitedata-keep-until-expire =
     .label = 它们过期
 sitedata-keep-until-closed =
     .label = { -brand-short-name } 关闭
-sitedata-accept-third-party-desc = 接受第三方 Cookie 和网站数据:
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = 始终接受
-sitedata-accept-third-party-visited-option =
-    .label = 来自访问过的网站
-sitedata-accept-third-party-never-option =
-    .label = 不接受
 sitedata-allow-cookies-option =
     .label = 接受 Cookie 和网站数据
     .accesskey = A
@@ -731,10 +717,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = 永不
     .accesskey = n
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = 在隐私浏览模式中使用跟踪保护拦截已知的跟踪器
-    .accesskey = v
 tracking-exceptions =
     .label = 例外…
     .accesskey = x
