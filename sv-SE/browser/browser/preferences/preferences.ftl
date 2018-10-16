@@ -53,6 +53,7 @@ pane-sync-title = Firefox-konto
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Support { -brand-short-name }
+addons-button-label = Utökningar & Teman
 focus-search =
     .key = f
 close-button =
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Nätverksproxy
 network-settings-title = Nätverksinställningar
 network-proxy-connection-description = Konfigurera hur { -brand-short-name } ansluter till internet.
 network-proxy-connection-learn-more = Läs mer
@@ -592,26 +592,12 @@ sitedata-total-size-calculating = Beräkning av webbplatsdata och cachestorlek�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Dina lagrade kakor, webbplatsdata och cache använder för tillfället { $value } { $unit } diskutrymme.
 sitedata-learn-more = Läs mer
-sitedata-accept-cookies-option =
-    .label = Tillåt kakor och webbplatsdata från webbplatser (rekommenderas)
-    .accesskey = T
-sitedata-block-cookies-option =
-    .label = Blockera kakor och webbplatsdata (kan orsaka fel på webbplatser)
-    .accesskey = B
 sitedata-keep-until = Behåll tills
     .accesskey = t
 sitedata-keep-until-expire =
     .label = De förfaller
 sitedata-keep-until-closed =
     .label = { -brand-short-name } stängs
-sitedata-accept-third-party-desc = Tillåt kakor från tredje part och webbplatsdata
-    .accesskey = p
-sitedata-accept-third-party-always-option =
-    .label = alltid
-sitedata-accept-third-party-visited-option =
-    .label = från platser jag besökt
-sitedata-accept-third-party-never-option =
-    .label = aldrig
 sitedata-allow-cookies-option =
     .label = Tillåt kakor och webbplatsdata
     .accesskey = T
@@ -735,10 +721,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Aldrig
     .accesskey = A
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Använd spårningsskydd i Privat surfning för att blockera kända trackers
-    .accesskey = v
 tracking-exceptions =
     .label = Undantag…
     .accesskey = n
