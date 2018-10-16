@@ -89,7 +89,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Arată doar mesajele de la persoane din agenda dumneavoastră de contacte">
+         "Arată doar mesaje de la persoanele din agenda de contacte">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
