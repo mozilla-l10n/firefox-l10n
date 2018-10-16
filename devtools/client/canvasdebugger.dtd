@@ -17,12 +17,12 @@
 
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
-<!ENTITY canvasDebuggerUI.reloadNotice2   "pagina capabil să depaneze contexturi &lt;canvas&gt;.">
+<!ENTITY canvasDebuggerUI.reloadNotice2   "pagina pentru a putea depana contexturi &lt;canvas&gt;.">
 
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
-<!ENTITY canvasDebuggerUI.emptyNotice1    "Clic pe">
-<!ENTITY canvasDebuggerUI.emptyNotice2    "buton de înregistrat stiva de apeluri a unui cadru de animație.">
+<!ENTITY canvasDebuggerUI.emptyNotice1    "Clic pe butonul">
+<!ENTITY canvasDebuggerUI.emptyNotice2    "pentru a înregistra stiva de apeluri a unui cadru de animație.">
 
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
