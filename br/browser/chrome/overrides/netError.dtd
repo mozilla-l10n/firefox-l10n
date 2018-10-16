@@ -101,6 +101,7 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Direizh eo ket bet kefluniet o lec'hienn wiad gant perc'henned <span class='hostname'/>. Kuit na vefe laeret ho stlennoù n'oc'h ket bet kennasket ouzh al lec'hienn-mañ gant &brandShortName;.">
 
+<!ENTITY certerror.introPara2 "Dinoet eo bet gant &brandShortName; ur arvar diogelroez ha n'eus ket kendalc'het etrezek <span class='hostname'/>. Ma weladennit al lec'hienn-mañ e c'hallo tagerien klask laerez ho titouroù evel gerioù-tremen, chomlec'hioù postel pe munudoù kartennoù kred.">
 
 <!ENTITY certerror.expiredCert.secondPara "Gallout a ra bezañ liammet ar gudenn-mañ gant eurier hoc'h urzhiataer. Un eur direizh a c'hall mirout &brandShortName; da genderc'hel en un doare diogel.">
 
@@ -111,6 +112,8 @@ was trying to connect. -->
 <p>Ma 'z oc'h war ur genrouedad kenlabourus pe e rit gant ur meziant enepviruz, gellout a rit mont e darempred gant ar skipailhoù skoazell evit kaout sikour. Gellout a rit reiñ da anavezout ar gudenn d'ar merour ivez.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Eurier hoc'h urzhiataer a zo lakaet da <span id='wrongSystemTime_systemDate2'/>. Gwiriekait ez eo lakaet hoc'h urzhiataer d'an deiziad, eur ha gwerzhid-eur dereat en hoc'h arventennoù reizhiad hag adkargit <span class='hostname'/>.</p>
+<p>M'eo lakaet hoc'h eurier en eur dereat endeo e c'hall al lec'hienn-mañ bezañ kefluniet fall ha n'hallit ober netra evit diskoulmañ ar gudenn. Gallout a rit mont e darempred gant ardoer al lec'hienn evit e gelaouiñ eus ar gudenn.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>Liammet eo ar gudenn gant al lec'hienn sur-mat, ha n'eus netra e c'hallfec'h ober evit dont a-benn anezhi. Gellout a rit reiñ da anavezout ar gudenn d'ar merour ivez.</p>
@@ -127,6 +130,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ouzhpennañ un nemedenn…">
 
+<!ENTITY securityOverride.exceptionButton1Label "Asantiñ ar riskl ha kenderc'hel">
 
 <!ENTITY errorReporting.automatic2 "Danevellit kudennoù evel-se evit sikour Mozilla da naoudiañ ha stankañ al lec'hiennoù droukrañsus">
 <!ENTITY errorReporting.learnMore "Gouzout hiroc'h…">
@@ -158,6 +162,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Pajenn stanket">
 
+<!ENTITY clockSkewError.title "Direizh eo eurier hoc'h urzhiataer">
 
 <!ENTITY prefReset.longDesc "Gallout a ra hoc'h arventennoù rouedad bezañ kaoz eus kement-se. Fellout a ra deoc'h assav an arventennoù dre ziouer?">
 <!ENTITY prefReset.label "Assav an arventennoù dre ziouer">
