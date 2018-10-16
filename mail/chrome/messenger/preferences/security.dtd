@@ -32,10 +32,10 @@
 <!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro           "&brandShortName; poate reține parolele tuturor conturilor dumneavoastră.">
+<!ENTITY savedPasswords.intro           "&brandShortName; poate memora parolele tuturor conturilor pe care le aveți.">
 <!ENTITY useMasterPassword.label        "Folosește o parolă generală">
 <!ENTITY useMasterPassword.accesskey    "U">
-<!ENTITY masterPassword.intro           "O parolă generală protejează toate parolele dumneavoastră, dar trebuie să o introduceți o dată per sesiune.">
+<!ENTITY masterPassword.intro           "O parolă generală protejează toate parolele, dar trebuie să o introduceți o dată pe sesiune.">
 <!ENTITY changeMasterPassword.label     "Schimbă parola generală…">
 <!ENTITY changeMasterPassword.accesskey "c">
 <!ENTITY savedPasswords.label           "Parole salvate…">
