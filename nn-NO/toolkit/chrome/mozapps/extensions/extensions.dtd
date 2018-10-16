@@ -45,6 +45,8 @@
 <!ENTITY view.availableUpdates.label          "Tilgjengelege oppdateringar">
 
 <!ENTITY helpButton.label                      "Brukarstøtte for tillegg">
+<!ENTITY preferencesWin.label                  "&brandShortName;-innstillingar">
+<!ENTITY preferencesUnix.label                 "&brandShortName;-innstillingar">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Sjå etter oppdateringar no">
