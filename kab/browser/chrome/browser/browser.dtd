@@ -139,6 +139,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "m">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Creḍ akk accaren…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "e">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Cṛeḍ iccaren yettwafernen…">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Fren akk accaren">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Sefsex amdal n yiccer">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "S">
