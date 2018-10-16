@@ -65,7 +65,7 @@ but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.label         "Adicionar separadores aos marcadores…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "c">
+<!ENTITY  bookmarkSelectedTabs.accesskey     "m">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -148,7 +148,26 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Adicionar todos os separadores aos marcadores…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Recarregar separador selecionado">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Recarregar separadores selecionados">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Adicionar separador selecionado aos marcadores…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "s">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Adicionar separadores selecionados aos marcadores…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "s">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Selecionar todos os separadores">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
@@ -596,9 +615,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Recarregar frame">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ver fonte da seleção">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Ver fonte MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Ver fonte da página">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
@@ -815,7 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Feito">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Mostrar o editor ao guardar">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "s">
 
@@ -966,9 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "O áudio do separador será partilhado.">
 <!ENTITY getUserMedia.allWindowsShared.message "Serão partilhadas todas as janelas visíveis no seu ecrã.">
 
-<!ENTITY trackingProtection.on "Proteção contra monitorização: LIGADA">
-<!ENTITY trackingProtection.off "Proteção contra monitorização: DESLIGADA">
-
 <!ENTITY contentBlocking.title "Bloqueio de conteúdo">
 <!ENTITY contentBlocking.detected "Conteúdo bloqueável detetado neste site.">
 <!ENTITY contentBlocking.notDetected "Não foi detetado conteúdo bloqueável nesta página.">
@@ -1027,28 +1039,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Proteção contra monitorização">
 <!ENTITY trackingProtection.tooltip "Abrir preferências da proteção contra monitorização">
-<!ENTITY trackingProtection.detectedBlocked4 "O &brandShortName; está a bloquear partes desta página que podem monitorizar a sua navegação.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "O &brandShortName; detetou elementos que podem monitorizar a sua navegação.">
-<!ENTITY trackingProtection.detectedException "O &brandShortName; detetou elementos que podem monitorizar a sua navegação. Tem a proteção desativada para este site.">
-<!ENTITY trackingProtection.notDetected5 "Não foram detetados elementos de monitorização nesta página.">
-<!ENTITY trackingProtection.notDetectedException "Não foram detetados elementos de monitorização nesta página. Tem a proteção desativada para este site.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Ativou a Proteção contra monitorização. Recarregue esta página para bloquear todos os trackers.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Desativar para este site">
-<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!ENTITY trackingProtection.unblock4.label "Desativar bloqueio para este site">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Desativar para esta sessão">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "Ativar para este site">
-<!ENTITY trackingProtection.block4.accesskey "e">
 <!ENTITY trackingProtection.unblockPrivate4.label "Desativar bloqueio temporariamente">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Ativar bloqueio para este site">
@@ -1158,7 +1157,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "A sincronizar dispositivos…">
 
 <!ENTITY pageAction.shareUrl.label "Partilhar">
-
 <!ENTITY pageAction.shareMore.label "Mais…">
 
 <!ENTITY libraryButton.tooltip "Ver histórico, marcadores guardados, e mais">
