@@ -53,6 +53,7 @@ pane-sync-title = Účet Firefoxu
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Nápověda
+addons-button-label = Rozšíření a vzhledy
 focus-search =
     .key = f
 close-button =
@@ -329,7 +330,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Nastavení připojení
 network-settings-title = Nastavení sítě
 network-proxy-connection-description = Konfigurovat připojení aplikace { -brand-short-name } k internetu.
 network-proxy-connection-learn-more = Zjistit více
@@ -599,26 +599,12 @@ sitedata-total-size-calculating = Výpočet velikosti mezipaměti a dat stránek
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Velikost cookies, dat uložených stránkami a mezipaměti je { $value } { $unit }.
 sitedata-learn-more = Zjistit více
-sitedata-accept-cookies-option =
-    .label = Povolit serverům ukládat cookies a data stránek (doporučeno)
-    .accesskey = a
-sitedata-block-cookies-option =
-    .label = Blokovat ukládání cookies a dat (stránky nemusí fungovat správně)
-    .accesskey = B
 sitedata-keep-until = Cookies ponechat do
     .accesskey = d
 sitedata-keep-until-expire =
     .label = konce doby platnosti
 sitedata-keep-until-closed =
     .label = ukončení aplikace { -brand-short-name }
-sitedata-accept-third-party-desc = Cookies a data třetích stran
-    .accesskey = t
-sitedata-accept-third-party-always-option =
-    .label = povolit vždy
-sitedata-accept-third-party-visited-option =
-    .label = povolit pouze navštívené
-sitedata-accept-third-party-never-option =
-    .label = nikdy nepovolovat
 sitedata-allow-cookies-option =
     .label = Ukládat všechny cookies a data stránek
     .accesskey = a
@@ -742,10 +728,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nikdy
     .accesskey = n
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Používat ochranu proti sledování známými sledovacími prvky při anonymním prohlížení
-    .accesskey = v
 tracking-exceptions =
     .label = Výjimky…
     .accesskey = j
