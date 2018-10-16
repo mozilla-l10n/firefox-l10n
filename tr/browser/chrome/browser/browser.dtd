@@ -148,7 +148,26 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tüm sekmeleri yer imlerine ekle…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ü">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Seçili sekmeyi tazele">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "z">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Seçili sekmeleri tazele">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "z">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Seçili sekmeyi yer imlerine ekle…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "m">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Seçili sekmeleri yer imlerine ekle…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "r">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Tüm sekmeleri seç">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "ü">
@@ -596,9 +615,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Çerçeveyi tazele">
 <!ENTITY reloadFrameCmd.accesskey     "t">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Seçimin kaynak kodunu göster">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML kaynağını göster">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Sayfa kaynağını göster">
 <!ENTITY viewPageSourceCmd.accesskey  "a">
@@ -815,7 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Tamam">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Kaydederken düzenleyiciyi göster">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "K">
 
@@ -966,9 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Sekmedeki sesler paylaşılacaktır.">
 <!ENTITY getUserMedia.allWindowsShared.message "Ekranınızdaki tüm görünür pencereler paylaşılacaktır.">
 
-<!ENTITY trackingProtection.on "İzlenme Koruması: AÇIK">
-<!ENTITY trackingProtection.off "İzlenme Koruması: KAPALI">
-
 <!ENTITY contentBlocking.title "İçerik engelleme">
 <!ENTITY contentBlocking.detected "Bu sayfada engellenebilir içerikler bulundu.">
 <!ENTITY contentBlocking.notDetected "Bu sayfada engellenebilir içerik bulunamadı.">
@@ -1027,28 +1039,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "İzlenme Koruması">
 <!ENTITY trackingProtection.tooltip "İzlenme Koruması tercihlerini aç">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; bu sayfanın sizi izleme ihtimali olan kısımlarını engelliyor.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; gezintinizi izleyebilecek öğeler tespit etti.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; gezintinizi izleyebilecek öğeler tespit etti. Bu sitede korumayı devre dışı bıraktınız.">
-<!ENTITY trackingProtection.notDetected5 "Bu sayfada sizi izleyen herhangi bir öğe bulunmadı.">
-<!ENTITY trackingProtection.notDetectedException "Bu sayfada sizi izleyen herhangi bir öğe bulunmadı. Bu sitede korumayı devre dışı bıraktınız.">
-
-<!ENTITY trackingProtection.reloadRequired2 "İzlenme Koruması’nı açtınız. Tüm takipçileri engellemek için bu sayfayı tazeleyin.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Bu sitede devre dışı bırak">
-<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!ENTITY trackingProtection.unblock4.label "Bu sitede engellemeyi kapat">
 <!ENTITY trackingProtection.unblock4.accesskey "B">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Bu oturumda devre dışı bırak">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "o">
-<!ENTITY trackingProtection.block4.label "Bu sitede etkinleştir">
-<!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.unblockPrivate4.label "Engellemeyi geçici olarak kapat">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "E">
 <!ENTITY trackingProtection.block5.label "Bu sitede engellemeyi etkinleştir">
@@ -1158,7 +1157,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Cihazlar eşitleniyor…">
 
 <!ENTITY pageAction.shareUrl.label "Paylaş">
-
 <!ENTITY pageAction.shareMore.label "Daha fazla…">
 
 <!ENTITY libraryButton.tooltip "Geçmişinize, kayıtlı yer imlerinize ve daha fazlasına bakın">

@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Eklenti Yöneticisi">
 
 <!ENTITY search.placeholder2                  "addons.mozilla.org’da ara">
+
+<!ENTITY search.placeholder3                  "addons.mozilla.org’da ara">
 <!ENTITY search.buttonlabel                   "Ara">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +43,10 @@
 <!ENTITY view.discover.label                  "Eklentileri edinin">
 <!ENTITY view.recentUpdates.label             "Yakın zamandaki güncellemeler">
 <!ENTITY view.availableUpdates.label          "Mevcut güncellemeler">
+
+<!ENTITY helpButton.label                      "Eklenti desteği">
+<!ENTITY preferencesWin.label                  "&brandShortName; seçenekleri">
+<!ENTITY preferencesUnix.label                 "&brandShortName; tercihleri">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Güncellemeleri denetle">
@@ -80,8 +86,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "S">
 <!ENTITY cmd.preferencesUnix.label            "Tercihler">
 <!ENTITY cmd.preferencesUnix.accesskey        "T">
-<!ENTITY cmd.about.label                      "Hakkında">
-<!ENTITY cmd.about.accesskey                  "H">
 
 <!ENTITY cmd.enableAddon.label                "Etkinleştir">
 <!ENTITY cmd.enableAddon.accesskey            "t">
@@ -160,13 +164,6 @@
 <!ENTITY progress.pause.tooltip               "Duraklat">
 <!ENTITY progress.cancel.tooltip              "Vazgeç">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Ad">
-<!ENTITY sort.name.tooltip                    "Ada göre sırala">
-<!ENTITY sort.dateUpdated.label               "Son güncelleme">
-<!ENTITY sort.dateUpdated.tooltip             "Güncelleme tarihine göre sırala">
-
 <!ENTITY addon.homepage                       "Ana sayfa">
 <!ENTITY addon.details.label                  "Daha fazla bilgi">
 <!ENTITY addon.details.tooltip                "Bu eklentiyle ilgili daha fazla bilgi ver">
@@ -208,17 +205,6 @@
 <!ENTITY eula.accept                          "Kabul et ve kur…">
 
 <!ENTITY settings.path.button.label           "Gözat…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Bu nedir? Telemetri zaman zaman deneyler yükleyip çalıştırabilir.">
-<!ENTITY experiment.info.learnmore "Daha fazla bilgi al">
-<!ENTITY experiment.info.learnmore.accesskey "D">
-<!ENTITY experiment.info.changetelemetry "Telemetri ayarları">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Daha fazla bilgi al…">
 
