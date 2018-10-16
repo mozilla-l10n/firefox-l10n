@@ -363,7 +363,6 @@
 <!ENTITY pref_use_system_font_size_summary "ปรับขนาดเนื้อหาเว็บตามขนาดแบบอักษรของระบบ">
 
 <!ENTITY pref_media_autoplay_enabled "อนุญาตการเล่นอัตโนมัติ">
-<!ENTITY pref_media_autoplay_enabled_summary "ควบคุมการเล่นวิดีโอและเนื้อหาสื่ออื่นของเว็บไซต์โดยอัตโนมัติ">
 <!ENTITY pref_media_autoplay_allow "อนุญาตการเล่นอัตโนมัติ">
 <!ENTITY pref_media_autoplay_block "ปิดกั้นการเล่นอัตโนมัติ">
 <!ENTITY pref_zoom_force_enabled "เปิดใช้งานการซูมเสมอ">
@@ -828,9 +827,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "ไม่สามารถเปิด &brandShortName; โปรดติดตั้งใหม่และลองอีกครั้ง">
 
-<!ENTITY eol_notification_title2 "&brandShortName; จะไม่ได้รับการอัปเดตอีกต่อไป">
-<!ENTITY eol_notification_summary "แตะเพื่อเรียนรู้เพิ่มเติม">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; เป็นรุ่นล่าสุดแล้ว">
@@ -904,3 +900,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "การแจ้งเตือนแบบผลักของ &brandShortName;">
 <!ENTITY updater_notification_channel "การอัปเดตแอป">
 <!ENTITY synced_tabs_notification_channel "แท็บที่ซิงค์">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "การแจ้งเตือนไซต์">
