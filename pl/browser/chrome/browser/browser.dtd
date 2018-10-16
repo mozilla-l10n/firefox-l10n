@@ -589,7 +589,7 @@
 <!ENTITY identity.connectionVerified2 "Połączenie bezpieczne, strona:">
 <!ENTITY identity.connectionInternal "To jest strona programu &brandShortName;.">
 <!ENTITY identity.extensionPage "Ta strona została wczytana przez rozszerzenie.">
-<!ENTITY identity.insecureLoginForms2 "Dane logowania wprowadzone na tej stronie nie są chronione">
+<!ENTITY identity.insecureLoginForms2 "Dane logowania wprowadzone na tej stronie nie są chronione.">
 
 <!ENTITY identity.activeBlocked "&brandShortName; zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.">
 <!ENTITY identity.passiveLoaded "Niektóre elementy tej strony (np. obrazy) nie były przesłane w sposób bezpieczny.">
