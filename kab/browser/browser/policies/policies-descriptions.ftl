@@ -63,6 +63,7 @@ policy-OverridePostUpdatePage = Beddel asebter "Acu-t amaynut" seld aleqqem. sba
 policy-Permissions = Swel tisirag i tkamirat, asawaḍ, adig akked ilɣa.
 policy-PopupBlocking = Sireg kra n ismal web ad skanayen Isfuyla udhimens wudem amezwer.
 policy-Proxy = Swel iɣewwaṛen n upṛuksi.
+policy-RequestedLocales = Sbadu tabdart n tutlayin yettwasutren akken i tesmenyafeḍ
 policy-SanitizeOnShutdown = Sfeḍ akk isefka n tunigin deg usexsi.
 policy-SearchBar = Sbadu adig imezwer n ufeggag n unadi. Aseqdac izmer ad t-isagen.
 policy-SearchEngines = Swel iƔewwaren n umsedday n unadi. Tasertit-agi tella kan di lqem Extended Support Release (ESR).
