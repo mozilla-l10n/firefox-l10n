@@ -4,3 +4,6 @@
 
 restart-required-title = Neistart erfuerderlech
 restart-required-header = Entschëllegt, mir musse just nach eppes Klenges erleedegen fir kënne weider ze fueren.
+restart-required-intro = Mir hunn elo grad en Update am Hannergrond installéiert. Klick Start de { -brand-short-name } nei fir en of ze schléissen.
+restart-required-description = Duerno restauréiere mir all Deng Säiten, Fënsteren an Tabs, sou dass Du schnell erëm viru fuere kanns.
+restart-button-label = Start de { -brand-short-name } nei
