@@ -51,7 +51,7 @@ serviceworker-worker-status-registering = Se înregistrează
 serviceworker-empty-intro = Trebuie să înregistrezi un service worker pentru a-l inspecta aici. <a>Află mai multe</a>
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
-serviceworker-empty-suggestions = Dacă pagina curentă ar trebui să aibă un service worker, iată ce poți încerca
+serviceworker-empty-suggestions = Dacă pagina actuală ar trebui să aibă un service worker, iată câteva lucruri pe care le poți încerca
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = Caută erori în consolă. <a>Deschide consola</a>

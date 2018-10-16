@@ -87,7 +87,7 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "Dezactivează JavaScript *">
-<!ENTITY options.disableJavaScript.tooltip   "Activarea opțiunii va dezactiva JavaScript pentru fila curentă. Setarea va fi uitată la închiderea filei sau a cutiei de unelte.">
+<!ENTITY options.disableJavaScript.tooltip   "Activarea opțiunii va dezactiva JavaScript pentru fila actuală. Setarea va fi uitată la închiderea filei sau a cutiei de unelte.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
@@ -120,7 +120,7 @@
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
-<!ENTITY options.toolNotSupported.label  "* Nu este compatibil pentru ținta curentă a cutiei de unelte">
+<!ENTITY options.toolNotSupported.label  "* Nu este compatibil pentru ținta actuală a cutiei de unelte">
 
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
