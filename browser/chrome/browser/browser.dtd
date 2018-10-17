@@ -855,7 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Løyve">
 <!ENTITY identity.permissionsEmpty "Du har ikkje gjeve denne nettstaden spesielle løyve.">
 <!ENTITY identity.permissionsReloadHint "Du må kanskje laste sida på nytt for at endringane skal gjelde.">
-<!ENTITY identity.permissionsPreferences.tooltip "Opne løyve-innstillingar">
+<!ENTITY identity.permissionsPreferences.tooltip "Opne innstillingar for løyve">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
