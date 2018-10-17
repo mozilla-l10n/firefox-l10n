@@ -94,11 +94,6 @@
 
 <!ENTITY forwardButton.tooltip  "Navighează înainte">
 
-<!ENTITY detailsPane.more.label "Mai mult">
-<!ENTITY detailsPane.more.accesskey "M">
-<!ENTITY detailsPane.less.label "Mai puțin">
-<!ENTITY detailsPane.less.accesskey "M">
-
 <!ENTITY detailsPane.selectAnItemText.description "Selectează un element pentru a-l vedea și a-i edita proprietățile">
 
 <!ENTITY view.label               "Vizualizare">
@@ -108,7 +103,7 @@
 <!ENTITY bySite.label             "După site">
 <!ENTITY bySite.accesskey         "s">
 <!ENTITY byMostVisited.label      "După cele mai vizitate">
-<!ENTITY byMostVisited.accesskey  "v">
+<!ENTITY byMostVisited.accesskey  "V">
 <!ENTITY byLastVisited.label      "După ultimele vizitate">
 <!ENTITY byLastVisited.accesskey  "l">
 <!ENTITY byDayAndSite.label       "După dată și site">
