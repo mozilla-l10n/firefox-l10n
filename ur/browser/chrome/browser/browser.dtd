@@ -142,6 +142,22 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "تمام ٹیب بک مارک کریں…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "ٹیب بند کالعدم کریں">
@@ -588,9 +604,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "فریم پھر لوڈ کریں">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "انتخاب ماخذ نظارہ کریں">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "میتھ ایم ایل ماخذ نظارہ کریں">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "صفحہ ماخذ نظارہ کریں">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
@@ -807,7 +820,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "ہوگیا">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "تدوین کار میں محفوظ کرتے وقت نمائش کریں">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
@@ -955,9 +967,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "ٹیب پر سے آڈیو شیئر ہو گی۔">
 <!ENTITY getUserMedia.allWindowsShared.message "آپ کی سکرین پر نظر آنے والے تمام دریچے شیئر کیے جائیں گے۔">
 
-<!ENTITY trackingProtection.on "سراغ کاری حفاظت چالو">
-<!ENTITY trackingProtection.off "سراغ کاری حفاظت OFF">
-
 <!ENTITY contentBlocking.title "مواد روکنا">
 <!ENTITY contentBlocking.disabled.label "نااہل">
 
@@ -997,24 +1006,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 
 <!ENTITY contentBlocking.breakageReportView.learnMore "مزید سیکھیں">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "منسوخ کریں">
 
 <!ENTITY trackingProtection.title "سراغ کاری حفاظت">
 
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "اس سائٹ کے لیئے نااہل بنائیں">
-<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "اس سیشن کے لیئے نااہل بنائیں">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "اس سائٹ کے لیئے اہل بنائیں">
-<!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "صفحہ پھر لوڈ کریں">
@@ -1118,7 +1121,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "آلات کی ہمہ وقت سازی کر رہے ہے…">
 
 <!ENTITY pageAction.shareUrl.label "شیئر کریں">
-
 <!ENTITY pageAction.shareMore.label "مزید…">
 
 <!ENTITY libraryButton.tooltip "تاریخیں، محفوظ شدہ نشانیاں، اور بھی مزید دکھائے">
