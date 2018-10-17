@@ -5,6 +5,7 @@
 
 <!ENTITY search.placeholder2                  "Caută pe addons.mozilla.org">
 
+<!ENTITY search.placeholder3                  "Caută pe addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Căutare">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -43,6 +44,8 @@
 <!ENTITY view.recentUpdates.label             "Actualizări recente">
 <!ENTITY view.availableUpdates.label          "Actualizări disponibile">
 
+<!ENTITY preferencesWin.label                  "Opțiuni &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Preferințe &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Caută actualizări">
