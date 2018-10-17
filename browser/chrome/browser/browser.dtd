@@ -251,7 +251,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "Marcaje">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "Marchează pagina">
-<!ENTITY editThisBookmarkCmd.label "Editează marcajul">
+<!ENTITY editThisBookmarkCmd.label "Editează acest marcaj">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "Abonează-te la această pagină">
