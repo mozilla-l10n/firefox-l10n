@@ -52,7 +52,8 @@ category-privacy =
 pane-sync-title = Firefox-konto
 category-sync =
     .tooltiptext = { pane-sync-title }
-help-button-label = { -brand-short-name } brukarstøtte
+help-button-label = Brukarstøtte for { -brand-short-name }
+addons-button-label = Utvidingar og tema
 focus-search =
     .key = f
 close-button =
@@ -114,7 +115,7 @@ search-results-empty-message =
         [windows] Beklagar! Ingen resultat i Innstillingar for “<span data-l10n-name="query"></span>”.
        *[other] Beklagar! Ingen resultat i Innstillingar for “<span data-l10n-name="query"></span>”.
     }
-search-results-help-link = Treng du hjelp? Gå til <a data-l10n-name="url">{ -brand-short-name } Brukarstøtte</a>
+search-results-help-link = Treng du hjelp? Gå til <a data-l10n-name="url">{ -brand-short-name } brukarstøtte</a>
 
 ## General Section
 
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Nettverksproxy
 network-settings-title = Nettverksinnstillingar
 network-proxy-connection-description = Konfigurer korleis { -brand-short-name } koplar seg til internett.
 network-proxy-connection-learn-more = Les meir
@@ -592,26 +592,12 @@ sitedata-total-size-calculating = Reknar ut storleik på nettstad-data og snøgg
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Dei lagra infokapslane dine, nettstaddata og hurtiglager brukar for tida { $value } { $unit } diskplass.
 sitedata-learn-more = Les meir
-sitedata-accept-cookies-option =
-    .label = Tillat infokapslar og nettsidedata frå nettstadar (tilrådd)
-    .accesskey = T
-sitedata-block-cookies-option =
-    .label = Blokker infokapslar og nettsidedata frå nettstadar (kan skape feil på nettstaden)
-    .accesskey = B
 sitedata-keep-until = Behald til
     .accesskey = B
 sitedata-keep-until-expire =
     .label = Dei går ut
 sitedata-keep-until-closed =
     .label = { -brand-short-name } er lukka
-sitedata-accept-third-party-desc = Tillat infokapslar frå tredjepart og nettsidedata
-    .accesskey = e
-sitedata-accept-third-party-always-option =
-    .label = Alltid
-sitedata-accept-third-party-visited-option =
-    .label = Frå besøkte
-sitedata-accept-third-party-never-option =
-    .label = Aldri
 sitedata-allow-cookies-option =
     .label = Tillat infokapslar og nettsidedata
     .accesskey = a
@@ -735,10 +721,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Aldri
     .accesskey = A
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Bruk sporingsvern i Privat nettlesing for å blokkere kjende sporfølgjarar
-    .accesskey = v
 tracking-exceptions =
     .label = Unntak…
     .accesskey = U
