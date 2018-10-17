@@ -52,3 +52,4 @@ browser-languages-select-language =
     .placeholder = Valitse lisättävä kieli…
 browser-languages-installed-label = Asennetut kielet
 browser-languages-available-label = Saatavilla olevat kielet
+browser-languages-error = { -brand-short-name } ei voi päivittää kieliä juuri nyt. Varmista, että yhteys internetiin toimii tai yritä uudestaan.
