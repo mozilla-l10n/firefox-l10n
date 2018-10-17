@@ -525,6 +525,7 @@ privacy-header = Selaimen tietosuoja
 ## Privacy Section - Forms
 
 forms-header = Lomakkeet ja salasanat
+logins-header = Käyttäjätunnukset ja salasanat
 forms-ask-to-save-logins =
     .label = Ehdota sivustojen käyttäjätunnusten ja salasanojen tallentamista
     .accesskey = v
