@@ -4,8 +4,10 @@
 <!ENTITY addons.windowTitle                   "Gestô di Conponenti azonti">
 
 <!ENTITY search.placeholder2                  "Çerca in addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Çerca in addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Çerca">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -42,6 +44,7 @@
 <!ENTITY view.discover.label                  "Scarega i Conponenti azonti">
 <!ENTITY view.recentUpdates.label             "Urtimi agiornamenti">
 <!ENTITY view.availableUpdates.label          "Agiornamenti disponibili">
+
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Çerca agiornamenti">
@@ -81,8 +84,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "o">
 <!ENTITY cmd.preferencesUnix.label            "Preferense">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "Informaçioin">
-<!ENTITY cmd.about.accesskey                  "a">
 
 <!ENTITY cmd.enableAddon.label                "Abilita">
 <!ENTITY cmd.enableAddon.accesskey            "A">
@@ -132,7 +133,6 @@
 <!ENTITY detail.lastupdated.label             "Agiornou">
 <!ENTITY detail.creator.label                 "Svilupatô">
 <!ENTITY detail.homepage.label                "Pagina Prinçipâ">
-<!ENTITY detail.numberOfDownloads.label       "Descaregamenti">
 
 <!ENTITY detail.contributions.description     "O svilupatô de sto conponente azonto te domanda se t'eu contriboî con quarche palanca.">
 
@@ -164,13 +164,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pösa">
 <!ENTITY progress.cancel.tooltip              "Anulla">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Nomme">
-<!ENTITY sort.name.tooltip                    "Ordina pe nomme">
-<!ENTITY sort.dateUpdated.label               "Agiornou">
-<!ENTITY sort.dateUpdated.tooltip             "Ordina pe dæta de agiornamento">
 
 <!ENTITY addon.homepage                       "Pagina Prinçipâ">
 <!ENTITY addon.details.label                  "Ciù">
@@ -213,17 +206,6 @@
 <!ENTITY eula.accept                          "Acetta e installa…">
 
 <!ENTITY settings.path.button.label           "Çerca…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "E cöse o saieiva sto chi? Quarche vòtta a telemetria porieiva instalâ e fâse di esperimenti.">
-<!ENTITY experiment.info.learnmore "Atre informaçioin">
-<!ENTITY experiment.info.learnmore.accesskey "A">
-<!ENTITY experiment.info.changetelemetry "Inpostaçioin telemetria">
-<!ENTITY experiment.info.changetelemetry.accesskey "t">
 
 <!ENTITY setting.learnmore "Ulteriori informazioni…">
 
