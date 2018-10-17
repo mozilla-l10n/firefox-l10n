@@ -691,7 +691,7 @@ content-blocking-tracking-protection-option-always =
   .label = Sempre
   .accesskey = S
 content-blocking-tracking-protection-option-private =
-  .label = Solo in navigazione anonima
+  .label = Solo in Navigazione anonima
   .accesskey = a
 content-blocking-tracking-protection-change-block-list = Cambia elenco per blocco contenuti
 
@@ -722,7 +722,7 @@ tracking-mode-always =
     .label = Sempre
     .accesskey = p
 tracking-mode-private =
-    .label = Solo in navigazione anonima
+    .label = Solo in Navigazione anonima
     .accesskey = m
 tracking-mode-never =
     .label = Mai
