@@ -71,6 +71,7 @@
 <!ENTITY runtimePanel_wifi "Urządzenia Wi-Fi">
 <!ENTITY runtimePanel_other "Inne">
 <!ENTITY runtimePanel_noadbhelper "Zainstaluj dodatek ADB Helper">
+<!ENTITY runtimePanel_noadbextension "Zainstaluj rozszerzenie ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Niewidoczne urządzenie?">
 <!ENTITY runtimePanel_refreshDevices_label "Odśwież listę urządzeń">
 
