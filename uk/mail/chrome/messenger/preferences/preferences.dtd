@@ -11,9 +11,6 @@
 <!ENTITY  prefWindow.titleWin     "Налаштування">
 <!ENTITY  prefWindow.titleGNOME   "Налаштування &brandShortName;">
 <!ENTITY  prefWindow.titleMAC     "Налаштування">
-<!ENTITY  prefWindow.styleWindows "width: 60em; min-height: 41em;">
-<!ENTITY  prefWindow.styleMac     "width: 65em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 41em;">
 
 <!ENTITY paneGeneral.title        "Основні">
 <!ENTITY paneDisplay.title        "Відображення">
@@ -22,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Вкладення">
 <!ENTITY panePrivacy.title        "Приватність">
 <!ENTITY paneSecurity.title       "Безпека">
+<!ENTITY paneLightning.title      "Календар">
 <!ENTITY paneAdvanced.title       "Додатково">
 <!ENTITY paneAccount.title        "Облікові записи">
 
