@@ -86,6 +86,10 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "ส">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveToStart.label                  "ย้ายไปยังจุดเริ่มต้น">
+<!ENTITY  moveToStart.accesskey              "ย">
+<!ENTITY  moveToEnd.label                    "ย้ายไปยังจุดสิ้นสุด">
+<!ENTITY  moveToEnd.accesskey                "ป">
 <!ENTITY  moveToNewWindow.label              "ย้ายไปยังหน้าต่างใหม่">
 <!ENTITY  moveToNewWindow.accesskey          "ม">
 <!ENTITY  reopenInContainer.label            "เปิดใหม่ในการแยกข้อมูล">
