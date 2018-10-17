@@ -132,6 +132,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "L">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bokmerk alle faner …">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "B">
+
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Velg alle faner">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "V">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Angre lukking av fane">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "n">
 
@@ -576,9 +591,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Oppdater ramme">
 <!ENTITY reloadFrameCmd.accesskey     "O">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vis kildekode for valgt tekst">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Vis MathML-kildekode">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "k">
 <!ENTITY viewPageSourceCmd.label      "Vis kildekode">
 <!ENTITY viewPageSourceCmd.accesskey  "k">
@@ -795,7 +807,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Ferdig">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Vis redigerer ved lagring">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "s">
 
@@ -803,6 +814,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Nettstedssikkerhet">
 
+<!ENTITY identity.connection "Tilkobling">
 <!ENTITY identity.connectionSecure "Sikker tilkobling">
 <!ENTITY identity.connectionNotSecure "Tilkoblingen er ikke sikker">
 <!ENTITY identity.connectionFile "Denne siden lagres på datamaskinen din.">
@@ -945,9 +957,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Lyd fra fanen vil deles.">
 <!ENTITY getUserMedia.allWindowsShared.message "Alle synlige vinduer på skjermen vil deles.">
 
-<!ENTITY trackingProtection.on "Sporingsbeskyttelse: PÅ">
-<!ENTITY trackingProtection.off "Sporingsbeskyttelse: AV">
-
 <!ENTITY contentBlocking.title "Innholdsblokkering">
 <!ENTITY contentBlocking.detected "Blokkerbart innhold oppdaget på dette nettstedet.">
 <!ENTITY contentBlocking.notDetected "Ingen blokkerbart innhold oppdaget på dette nettstedet.">
@@ -1006,28 +1015,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Sporingsbeskyttelse">
 <!ENTITY trackingProtection.tooltip "Åpne innstillinger for sporingsbeskyttelse">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokkerer deler av denne siden som kan spore nettlesingen din.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; har oppdaget element som kan spore nettlesingen din.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; har oppdaget element som kan spore nettlesingen din. Du har skrudd av beskyttelse på denne nettsiden.">
-<!ENTITY trackingProtection.notDetected5 "Ingen sporingselement oppdaget på denne siden.">
-<!ENTITY trackingProtection.notDetectedException "Ingen sporingselement er oppdaget på denne siden. Du har slått av beskyttelse på dette nettstedet.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Du har slått på sporingsbeskyttelse. Last om denne siden for å blokkere alle sporere.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Slå av på dette nettstedet">
-<!ENTITY trackingProtection.unblock3.accesskey "d">
 <!ENTITY trackingProtection.unblock4.label "Slå av blokkering for dette nettstedet">
 <!ENTITY trackingProtection.unblock4.accesskey "d">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Slå av for denne økten">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "d">
-<!ENTITY trackingProtection.block4.label "Slå på for dette nettstedet">
-<!ENTITY trackingProtection.block4.accesskey "e">
 <!ENTITY trackingProtection.unblockPrivate4.label "Slå av blokkering midlertidig">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "d">
 <!ENTITY trackingProtection.block5.label "Slå på blokkering for dette nettstedet">
@@ -1137,7 +1133,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Synkroniserer enheter…">
 
 <!ENTITY pageAction.shareUrl.label "Del">
-
 <!ENTITY pageAction.shareMore.label "Mer…">
 
 <!ENTITY libraryButton.tooltip "Se historikk, lagrede bokmerker og mer">
