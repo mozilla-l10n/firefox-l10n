@@ -148,7 +148,26 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "П">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Закласти всі вкладки…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "З">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Оновити вибрану вкладку">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "О">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Оновити вибрані вкладки">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "в">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Закласти вибрану вкладку…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "З">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Закласти вибрані вкладки…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "т">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Вибрати всі вкладки">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "б">
@@ -596,9 +615,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Оновити фрейм">
 <!ENTITY reloadFrameCmd.accesskey     "в">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Програмний код вибірки">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Програмний код MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "к">
 <!ENTITY viewPageSourceCmd.label      "Програмний код сторінки">
 <!ENTITY viewPageSourceCmd.accesskey  "а">
@@ -815,7 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Готово">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Показати редактор при збереженні">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "к">
 
@@ -966,9 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Аудіо з вкладки буде загальнодоступним.">
 <!ENTITY getUserMedia.allWindowsShared.message "Буде надано доступ до всіх видимих вікон на вашому дисплеї.">
 
-<!ENTITY trackingProtection.on "Захист від стеження: Увімкнено">
-<!ENTITY trackingProtection.off "Захист від стеження: Вимкнено">
-
 <!ENTITY contentBlocking.title "Блокування вмісту">
 <!ENTITY contentBlocking.detected "На цьому сайті виявлено вміст для блокування.">
 <!ENTITY contentBlocking.notDetected "На цій сторінці не виявлено вмісту для блокування.">
@@ -1027,28 +1039,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Захист від стеження">
 <!ENTITY trackingProtection.tooltip "Відкрити налаштування захисту від стеження">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; блокує частини цієї сторінки, що можуть за вами стежити.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; виявив елементи, що можуть за вами стежити.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; виявив елементи, що можуть за вами стежити. Ви вимкнули захист для цього сайту.">
-<!ENTITY trackingProtection.notDetected5 "На цій сторінці не виявлено елементів стеження.">
-<!ENTITY trackingProtection.notDetectedException "На цій сторінці не виявлено елементів стеження. Ви вимкнули захист для цього сайту.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Ви увімкнули захист від стеження. Перезавантажте сторінку для активації.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Вимкнути для цього сайту">
-<!ENTITY trackingProtection.unblock3.accesskey "В">
 <!ENTITY trackingProtection.unblock4.label "Вимкнути блокування для цього сайту">
 <!ENTITY trackingProtection.unblock4.accesskey "м">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Вимкнути для цього сеансу">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "с">
-<!ENTITY trackingProtection.block4.label "Увімкнути для цього сайту">
-<!ENTITY trackingProtection.block4.accesskey "У">
 <!ENTITY trackingProtection.unblockPrivate4.label "Тимчасово вимкнути блокування">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "ч">
 <!ENTITY trackingProtection.block5.label "Увімкнути блокування для цього сайту">
@@ -1158,7 +1157,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Синхронізовані пристрої…">
 
 <!ENTITY pageAction.shareUrl.label "Поділитися">
-
 <!ENTITY pageAction.shareMore.label "Більше…">
 
 <!ENTITY libraryButton.tooltip "Перегляд історії, збережених закладок та інших даних">
