@@ -442,9 +442,9 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Hasło główne
     .accesskey = H
-forms-master-pw-change =
-    .label = Zmień hasło główne
-    .accesskey = Z
+forms-master-pw-change=
+  .label=Zmień hasło główne…
+  .accesskey=Z
 
 history-header = Historia
 history-remember-label = Program { -brand-short-name }:
