@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "დამატებების მმართველი">
 
 <!ENTITY search.placeholder2                  "addons.mozilla.org საიტზე მოძიება">
+
+<!ENTITY search.placeholder3                  "addons.mozilla.org საიტზე მოძიება">
 <!ENTITY search.buttonlabel                   "ძიება">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +43,9 @@
 <!ENTITY view.discover.label                  "კატალოგი">
 <!ENTITY view.recentUpdates.label             "ბოლო განახლებები">
 <!ENTITY view.availableUpdates.label          "ხელმისწვდომი განახლებები">
+
+<!ENTITY helpButton.label                      "დამატებების მხარდაჭერა">
+<!ENTITY preferencesWin.label                  "&brandShortName; პარამეტრები">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "განახლებების შემოწმება">

@@ -53,6 +53,7 @@ pane-sync-title = Firefox-ანგარიში
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } დახმარება
+addons-button-label = გაფართოებები და თემები
 focus-search =
     .key = f
 close-button =
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = ქსელის პროქსი
 network-settings-title = ქსელის პარამეტრები
 network-proxy-connection-description = { -brand-short-name }-ის ინტერნეტთან წვდომის პარამეტრების გამართვა.
 network-proxy-connection-learn-more = ვრცლად
@@ -592,26 +592,12 @@ sitedata-total-size-calculating = საიტის მონაცემებ
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = თქვენ მიერ შენახული ფუნთუშები, საიტის მონაცემები და კეში, ამჟამად დისკზე იკავებს { $value } { $unit } მოცულობას.
 sitedata-learn-more = ვრცლად
-sitedata-accept-cookies-option =
-    .label = ფუნთუშებისა და საიტის მონაცემების მიღება (სასურველია)
-    .accesskey = დ
-sitedata-block-cookies-option =
-    .label = ფუნთუშებისა და საიტის მონაცემების აკრძალვა (შესაძლოა ვებსაიტებმა ხარვეზებით იმუშაოს)
-    .accesskey = კ
 sitedata-keep-until = შენახვა სანამ
     .accesskey = ს
 sitedata-keep-until-expire =
     .label = ვადა გაუვა
 sitedata-keep-until-closed =
     .label = { -brand-short-name } დაიხურება
-sitedata-accept-third-party-desc = მესამე მხარის ფუნთუშებისა და საიტის მონაცემის მიღება
-    .accesskey = ღ
-sitedata-accept-third-party-always-option =
-    .label = ყოველთვის
-sitedata-accept-third-party-visited-option =
-    .label = მხოლოდ მონახულებულიდან
-sitedata-accept-third-party-never-option =
-    .label = არასდროს
 sitedata-allow-cookies-option =
     .label = ფუნთუშებისა და საიტის მონაცემები მიღება
     .accesskey = ღ
@@ -735,10 +721,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = არასდროს
     .accesskey = ა
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = თვალთვალისგან დაცვის საშუალებით, პირადი თვალიერებისას, შეგიძლიათ ცნობილი მეთვალყურე ელემენტების შეზღუდვა
-    .accesskey = თ
 tracking-exceptions =
     .label = გამონაკლისები…
     .accesskey = კ
