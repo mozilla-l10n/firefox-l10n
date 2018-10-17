@@ -88,6 +88,10 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "L">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Siirrä välilehti">
+<!ENTITY  moveTabOptions.accesskey           "r">
+<!ENTITY  moveSelectedTabOptions.label       "Siirrä välilehdet">
+<!ENTITY  moveSelectedTabOptions.accesskey   "r">
 <!ENTITY  moveToStart.label                  "Siirrä alkuun">
 <!ENTITY  moveToStart.accesskey              "a">
 <!ENTITY  moveToEnd.label                    "Siirrä loppuun">
