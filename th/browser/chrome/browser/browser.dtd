@@ -23,10 +23,14 @@
 <!ENTITY  reloadTab.accesskey                "ล">
 <!ENTITY  reloadAllTabs.label                "โหลดแท็บทั้งหมดใหม่">
 <!ENTITY  reloadAllTabs.accesskey            "ง">
+<!ENTITY  selectAllTabs.label                "เลือกแท็บทั้งหมด">
+<!ENTITY  selectAllTabs.accesskey            "ล">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "ทำสำเนาแท็บ">
 <!ENTITY  duplicateTab.accesskey             "ท">
+<!ENTITY  closeTabOptions.label              "ตัวเลือกการปิดแท็บ">
+<!ENTITY  closeTabOptions.accesskey          "ต">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -132,7 +136,20 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ง">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "เพิ่มที่คั่นหน้าสำหรับแท็บทั้งหมด…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "บ">
+
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "เพิ่มที่คั่นหน้าสำหรับแท็บที่เลือก…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "ม">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "เลิกทำการปิดแท็บ">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ด">
@@ -571,9 +588,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "โหลดกรอบใหม่">
 <!ENTITY reloadFrameCmd.accesskey     "ล">
 <!ENTITY viewPartialSourceForSelectionCmd.label "ดูต้นฉบับส่วนที่เลือก">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "ดูต้นฉบับ MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "ต">
 <!ENTITY viewPageSourceCmd.label      "ดูต้นฉบับหน้า">
 <!ENTITY viewPageSourceCmd.accesskey  "ด">
@@ -790,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "เสร็จสิ้น">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "แสดงตัวแก้ไขเมื่อบันทึก">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "ส">
 
@@ -941,9 +954,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "เสียงจากแท็บจะถูกแบ่งปัน">
 <!ENTITY getUserMedia.allWindowsShared.message "หน้าต่างที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกแบ่งปัน">
 
-<!ENTITY trackingProtection.on "การป้องกันการติดตาม: เปิด">
-<!ENTITY trackingProtection.off "การป้องกันการติดตาม: ปิด">
-
 <!ENTITY contentBlocking.title "การปิดกั้นเนื้อหา">
 <!ENTITY contentBlocking.detected "ตรวจพบเนื้อหาที่สามารถปิดกั้นได้ในไซต์นี้">
 <!ENTITY contentBlocking.notDetected "ไม่พบเนื้อหาที่สามารถปิดกั้นได้ในไซต์นี้">
@@ -1000,28 +1010,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "การป้องกันการติดตาม">
 <!ENTITY trackingProtection.tooltip "เปิดค่ากำหนดการป้องกันการติดตาม">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; กำลังปิดกั้นบางส่วนของหน้านี้ที่อาจติดตามการท่องเว็บของคุณ">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; ตรวจพบองค์ประกอบที่อาจติดตามการท่องเว็บของคุณ">
-<!ENTITY trackingProtection.detectedException "&brandShortName; ตรวจพบองค์ประกอบที่อาจติดตามการท่องเว็บของคุณ คุณได้ปิดใช้งานการป้องกันสำหรับไซต์นี้">
-<!ENTITY trackingProtection.notDetected5 "ไม่พบองค์ประกอบที่มีการติดตามในหน้านี้">
-<!ENTITY trackingProtection.notDetectedException "ไม่พบองค์ประกอบที่มีการติดตามในหน้านี้ คุณได้ปิดใช้งานการป้องกันสำหรับไซต์นี้">
-
-<!ENTITY trackingProtection.reloadRequired2 "คุณได้เปิดใช้งานการป้องกันการติดตาม โหลดหน้านี้ใหม่เพื่อปิดกั้นตัวติดตามทั้งหมด">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "ปิดใช้งานสำหรับไซต์นี้">
-<!ENTITY trackingProtection.unblock3.accesskey "ป">
 <!ENTITY trackingProtection.unblock4.label "ปิดใช้งานการปิดกั้นสำหรับไซต์นี้">
 <!ENTITY trackingProtection.unblock4.accesskey "ป">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "ปิดใช้งานในวาระนี้">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "ป">
-<!ENTITY trackingProtection.block4.label "เปิดใช้งานสำหรับไซต์นี้">
-<!ENTITY trackingProtection.block4.accesskey "ป">
 <!ENTITY trackingProtection.unblockPrivate4.label "ปิดใช้งานการปิดกั้นชั่วคราว">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "ป">
 <!ENTITY trackingProtection.block5.label "เปิดใช้งานการปิดกั้นสำหรับไซต์นี้">
@@ -1131,7 +1128,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "กำลังซิงค์อุปกรณ์…">
 
 <!ENTITY pageAction.shareUrl.label "แบ่งปัน">
-
 <!ENTITY pageAction.shareMore.label "เพิ่มเติม…">
 
 <!ENTITY libraryButton.tooltip "ดูประวัติ, ที่คั่นหน้าที่บันทึกไว้ และอื่น ๆ">
