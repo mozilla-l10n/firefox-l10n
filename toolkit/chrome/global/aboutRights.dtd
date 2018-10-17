@@ -41,7 +41,7 @@
 <!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Якщо цей продукт включає послуги сайтів, то будь-які придатні угоди надання послуг для них мають бути додані посиланнями у розділі ">
 <!ENTITY rights.intro-point4b-unbranded "Послуги сайтів">
-<!ENTITY rights.intro-point4c-unbranded ".">
+<!ENTITY rights.intro-point4c-unbranded " .">
 
 <!ENTITY rights2.webservices-header "Інформаційні послуги веб-служб в &brandFullName;">
 
