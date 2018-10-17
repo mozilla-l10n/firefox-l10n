@@ -97,7 +97,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToStart.label                  "Pindahkan ke Awal">
 <!ENTITY  moveToStart.accesskey              "a">
 <!ENTITY  moveToEnd.label                    "Pindahkan ke Akhir">
-<!ENTITY  moveToEnd.accesskey                "w">
+<!ENTITY  moveToEnd.accesskey                "k">
 <!ENTITY  moveToNewWindow.label              "Pindahkan ke Jendela Baru">
 <!ENTITY  moveToNewWindow.accesskey          "J">
 <!ENTITY  reopenInContainer.label            "Buka ulang di Kontainer">
