@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Lisäosien hallinta">
 
 <!ENTITY search.placeholder2                  "Hae addons.mozilla.org-sivustolta">
+
 <!ENTITY search.buttonlabel                   "Hae">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +42,10 @@
 <!ENTITY view.discover.label                  "Lataa lisäosia">
 <!ENTITY view.recentUpdates.label             "Tuoreet päivitykset">
 <!ENTITY view.availableUpdates.label          "Saatavilla olevat päivitykset">
+
+<!ENTITY helpButton.label                      "Lisäosien tuki">
+<!ENTITY preferencesWin.label                  "&brandShortName;-asetukset">
+<!ENTITY preferencesUnix.label                 "&brandShortName;-asetukset">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Hae päivityksiä">

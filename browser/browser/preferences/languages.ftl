@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Kielet
-    .style = width: 30em
 webpage-languages-window =
     .title = Verkkosivujen kieliasetukset
     .style = width: 40em
@@ -45,3 +42,13 @@ browser-languages-window =
     .title = { -brand-short-name }in kieliasetukset
     .style = width: 40em
 browser-languages-description = { -brand-short-name } käyttää ensimmäistä kieltä oletuksena ja muita kieliä tarvittaessa, alla olevassa järjestyksessä.
+browser-languages-search = Etsi lisää kieliä…
+browser-languages-searching =
+    .label = Etsitään kieliä…
+browser-languages-downloading =
+    .label = Ladataan…
+browser-languages-select-language =
+    .label = Valitse lisättävä kieli…
+    .placeholder = Valitse lisättävä kieli…
+browser-languages-installed-label = Asennetut kielet
+browser-languages-available-label = Saatavilla olevat kielet

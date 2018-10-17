@@ -4,3 +4,4 @@
 
 restart-required-title = Uudelleenkäynnistys vaaditaan
 restart-required-header = Pahoittelut. Pitää tehdä vielä yksi pieni juttu, että päästään jatkamaan.
+restart-button-label = Käynnistä { -brand-short-name } uudelleen
