@@ -148,7 +148,26 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "d">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Lakaat ur sined war an holl ivinelloù…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "k">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Adkargañ an ivinell diuzet">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "A">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Adkargañ an ivinelloù diuzet">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Ouzhpennañ an ivinell d'ar sinedoù…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "O">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Ouzhpennañ an ivinelloù d'ar sinedoù….">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "z">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Diuzañ an holl ivinelloù">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "h">
@@ -596,9 +615,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Adkargañ ar frammad">
 <!ENTITY reloadFrameCmd.accesskey     "k">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Gwelout tarzh an diuzad">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Gwelout tarzh MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Gwelout tarzh ar bajennad">
 <!ENTITY viewPageSourceCmd.accesskey  "t">
@@ -815,7 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "30em">
 <!ENTITY editBookmark.done.label                     "Graet">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Diskouez an embanner pa enroll">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
@@ -966,9 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Rannet e vo aodio an ivinell.">
 <!ENTITY getUserMedia.allWindowsShared.message "Rannet e vo an holl brenestroù gwelus war ho skramm.">
 
-<!ENTITY trackingProtection.on "Gwarez heuliañ: YA">
-<!ENTITY trackingProtection.off "Gwarez heuliañ: KET">
-
 <!ENTITY contentBlocking.title "Stankadur endalc'had">
 <!ENTITY contentBlocking.detected "Endalc'had stankus dinoet war al lec'hienn-mañ">
 <!ENTITY contentBlocking.notDetected "Endalc'had stankus ebet dinoet war al lec'hienn-mañ">
@@ -1027,28 +1039,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Gwarez heuliañ">
 <!ENTITY trackingProtection.tooltip "Digeriñ gwellvezioù ar gwarez heuliañ">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; a stank lodennoù ar bajenn-mañ a c'hall heuliañ ho merdeiñ.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; en deus dinoet elfennoù a c'hall heuliañ ho merdeiñ.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; en deus dinoet elfennoù a c'hall heuliañ ho merdeiñ. Diweredekaet ho peus ar gwarezioù evit al lec'hienn-mañ.">
-<!ENTITY trackingProtection.notDetected5 "N'eus bet dinoet elfenn heuliañ ebet er bajenn.">
-<!ENTITY trackingProtection.notDetectedException "N'eus bet dinoet elfenn heuliañ ebet er bajenn. Diweredekaet ho peus ar gwarezioù war al lec'hienn-mañ.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Gweredekaet ho peus ar gwarez enep-heuliañ. Adkargit ar bajenn-mañ evit stankañ an holl heulierioù.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Diweredekaat evit al lec'hienn-mañ">
-<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!ENTITY trackingProtection.unblock4.label "Diweredekaat ar stankadur evit al lec'hienn-mañ">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Diweredekaat evit an eztez-mañ">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "Gweredekaat evit al lec'hienn-mañ">
-<!ENTITY trackingProtection.block4.accesskey "G">
 <!ENTITY trackingProtection.unblockPrivate4.label "Diweredekaat ar stankadur e-pad ur pennad">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Gweredekaat ar stankadur evit al lec'hienn-mañ">
@@ -1158,7 +1157,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Trevnadoù o c'houbredañ...">
 
 <!ENTITY pageAction.shareUrl.label "Rannañ">
-
 <!ENTITY pageAction.shareMore.label "Ouzhpenn...">
 
 <!ENTITY libraryButton.tooltip "Gwelout ar roll istor, ar sinedoù enrollet ha muioc'h c'hoazh">

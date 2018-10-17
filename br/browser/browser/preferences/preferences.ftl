@@ -53,6 +53,7 @@ pane-sync-title = Kont Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Skor { -brand-short-name }
+addons-button-label = Askouezhioù & Neuzioù
 focus-search =
     .key = f
 close-button =
@@ -335,7 +336,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proksi ar rouedad
 network-settings-title = Arventennoù ar rouedad
 network-proxy-connection-description = Kefluniañ an doare da gennaskañ ouzh ar genrouedad implijet gant { -brand-short-name }.
 network-proxy-connection-learn-more = Gouzout hiroc'h
@@ -601,26 +601,12 @@ sitedata-total-size-calculating = O jediñ ment roadennoù ha krubuilh al lec'hi
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ho toupinoù, roadennoù lec'hienn ha krubuilh kadavet a zo oc'h arverañ { $value } { $unit } war ho kantenn.
 sitedata-learn-more = Gouzout hiroc'h
-sitedata-accept-cookies-option =
-    .label = Asantiñ an toupinoù hag ar roadennoù lec'hienn eus al lec'hiennoù web (erbedet)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Stankañ an toupinoù hag ar roadennoù lec'hienn (gallout a ra terriñ lec'hiennoù 'zo)
-    .accesskey = S
 sitedata-keep-until = Mirout betek
     .accesskey = M
 sitedata-keep-until-expire =
     .label = ez echuont
 sitedata-keep-until-closed =
     .label = zo serret { -brand-short-name }
-sitedata-accept-third-party-desc = Asantiñ toupinoù ha roadennoù lec'hienn tredeoù
-    .accesskey = t
-sitedata-accept-third-party-always-option =
-    .label = Atav
-sitedata-accept-third-party-visited-option =
-    .label = Adalek lec'hiennoù gweladennet
-sitedata-accept-third-party-never-option =
-    .label = Morse
 sitedata-allow-cookies-option =
     .label = Asantiñ an toupinoù hag ar roadennoù lec'hienn
     .accesskey = A
@@ -744,10 +730,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Morse
     .accesskey = M
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Arverañ ar gwarez heuliañ er merdeiñ prevez evit stankañ an heulierien anavezet
-    .accesskey = A
 tracking-exceptions =
     .label = Nemedennoù…
     .accesskey = N
