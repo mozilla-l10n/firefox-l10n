@@ -53,6 +53,7 @@ pane-sync-title = Обліковий запис Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Підтримка { -brand-short-name }
+addons-button-label = Розширення і теми
 focus-search =
     .key = f
 close-button =
@@ -329,7 +330,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Проксі-сервер
 network-settings-title = Налаштування мережі
 network-proxy-connection-description = Налаштувати спосіб з'єднання { -brand-short-name } з Інтернетом.
 network-proxy-connection-learn-more = Докладніше
@@ -595,26 +595,12 @@ sitedata-total-size-calculating = Обчислення розміру даних
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ваші збережені куки, дані сайтів і кеш використовують { $value } { $unit } дискового простору.
 sitedata-learn-more = Докладніше
-sitedata-accept-cookies-option =
-    .label = Приймати куки і дані з веб-сайтів (рекомендовано)
-    .accesskey = к
-sitedata-block-cookies-option =
-    .label = Блокувати куки і дані (може призвести до пошкодження веб-сайтів)
-    .accesskey = Б
 sitedata-keep-until = Зберігати до
     .accesskey = г
 sitedata-keep-until-expire =
     .label = Завершення терміну дії
 sitedata-keep-until-closed =
     .label = Закриття { -brand-short-name }
-sitedata-accept-third-party-desc = Приймати сторонні куки і дані сайтів
-    .accesskey = к
-sitedata-accept-third-party-always-option =
-    .label = Завжди
-sitedata-accept-third-party-visited-option =
-    .label = Від відвіданих
-sitedata-accept-third-party-never-option =
-    .label = Ніколи
 sitedata-allow-cookies-option =
     .label = Приймати куки і дані сайтів
     .accesskey = П
@@ -738,10 +724,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Ніколи
     .accesskey = Н
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Блокувати відомі елементи стеження в приватному перегляді
-    .accesskey = с
 tracking-exceptions =
     .label = Винятки…
     .accesskey = В

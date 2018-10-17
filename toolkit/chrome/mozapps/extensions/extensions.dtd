@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Додатки">
 
-<!ENTITY search.placeholder                   "Шукати серед усіх додатків">
-
 <!ENTITY search.placeholder2                  "Пошук на addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Пошук на addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Пошук">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +16,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Оновлень не знайдено">
 <!ENTITY listEmpty.recentUpdates.label        "Ви не оновлювали додатків останнім часом.">
 <!ENTITY listEmpty.findUpdates.label          "Перевірити оновлення">
-<!ENTITY listEmpty.search.label               "Не знайдено жодного відповідного додатку">
 <!ENTITY listEmpty.button.label               "Дізнайтесь більше про додатки">
 <!ENTITY installAddonFromFile.label           "Встановити додаток з файла…">
 <!ENTITY installAddonFromFile.accesskey       "В">
@@ -41,10 +40,13 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Увімкнути перевірку безпечного оновлення додатків">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Пошук">
 <!ENTITY view.discover.label                  "Додати ще">
 <!ENTITY view.recentUpdates.label             "Недавні оновлення">
 <!ENTITY view.availableUpdates.label          "Доступні оновлення">
+
+<!ENTITY helpButton.label                      "Підтримка додатків">
+<!ENTITY preferencesWin.label                  "Налаштування &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Налаштування &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Перевірити оновлення">
@@ -84,8 +86,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "Н">
 <!ENTITY cmd.preferencesUnix.label            "Налаштування">
 <!ENTITY cmd.preferencesUnix.accesskey        "Н">
-<!ENTITY cmd.about.label                      "Про">
-<!ENTITY cmd.about.accesskey                  "П">
 
 <!ENTITY cmd.enableAddon.label                "Увімкнути">
 <!ENTITY cmd.enableAddon.accesskey            "в">
@@ -135,7 +135,6 @@
 <!ENTITY detail.lastupdated.label             "Востаннє оновлено">
 <!ENTITY detail.creator.label                 "Розробник">
 <!ENTITY detail.homepage.label                "Домівка">
-<!ENTITY detail.numberOfDownloads.label       "Завантажень">
 
 <!ENTITY detail.contributions.description     "Розробник цього додатку просить вас посприяти його подальшому розвитку, зробивши невеликий внесок.">
 
@@ -167,23 +166,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Пауза">
 <!ENTITY progress.cancel.tooltip              "Скасувати">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Назва">
-<!ENTITY sort.name.tooltip                    "Впорядкувати за назвою">
-<!ENTITY sort.dateUpdated.label               "Востаннє оновлено">
-<!ENTITY sort.dateUpdated.tooltip             "Впорядкувати за датою оновлення">
-<!ENTITY sort.relevance.label                 "Найкращий збіг">
-<!ENTITY sort.relevance.tooltip               "Впорядкувати за релевантністю">
-<!ENTITY sort.price.label                     "Ціна">
-<!ENTITY sort.price.tooltip                   "Впорядкувати за ціною">
-
-<!ENTITY search.filter2.label                 "Пошук:">
-<!ENTITY search.filter2.installed.label       "Мої додатки">
-<!ENTITY search.filter2.installed.tooltip     "Показати встановлені додатки">
-<!ENTITY search.filter2.available.label       "Доступні додатки">
-<!ENTITY search.filter2.available.tooltip     "Показати додатки, котрі можна встановити">
 
 <!ENTITY addon.homepage                       "Домівка">
 <!ENTITY addon.details.label                  "Докладніше">
@@ -226,17 +208,6 @@
 <!ENTITY eula.accept                          "Прийняти та встановити…">
 
 <!ENTITY settings.path.button.label           "Вибрати…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Що це? Телеметрія може час від часу встановлювати та запускати експерименти.">
-<!ENTITY experiment.info.learnmore "Докладніше">
-<!ENTITY experiment.info.learnmore.accesskey "о">
-<!ENTITY experiment.info.changetelemetry "Налаштування телеметрії">
-<!ENTITY experiment.info.changetelemetry.accesskey "Н">
 
 <!ENTITY setting.learnmore "Докладніше…">
 
