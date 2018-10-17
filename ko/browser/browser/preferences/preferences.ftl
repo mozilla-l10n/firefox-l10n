@@ -53,6 +53,7 @@ pane-sync-title = Firefox 계정
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } 도움말
+addons-button-label = 확장기능과 테마
 focus-search =
     .key = f
 close-button =
@@ -314,7 +315,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = 네트워크 프록시
 network-settings-title = 네트워크 설정
 network-proxy-connection-description = { -brand-short-name }가 인터넷에 접근하는 방법을 설정하세요.
 network-proxy-connection-learn-more = 자세히 보기
@@ -580,26 +580,12 @@ sitedata-total-size-calculating = 사이트 데이타와 캐시 크기 계산중
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = 현재 저장된 쿠키와 사이트 데이타, 캐시가 { $value } { $unit }의 디스크를 사용하고 있습니다.
 sitedata-learn-more = 더 알아보기
-sitedata-accept-cookies-option =
-    .label = 웹사이트의 쿠키와 사이트 데이타 허용(권장)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = 쿠키와 사이트 데이타 차단(웹사이트가 깨질 수 있음)
-    .accesskey = B
 sitedata-keep-until = 유지 기간
     .accesskey = u
 sitedata-keep-until-expire =
     .label = 만료 될 때까지
 sitedata-keep-until-closed =
     .label = { -brand-short-name }가 닫힐때 까지
-sitedata-accept-third-party-desc = 제 3자 쿠키와 사이트 데이타 허용
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = 항상 허용
-sitedata-accept-third-party-visited-option =
-    .label = 방문한 곳만
-sitedata-accept-third-party-never-option =
-    .label = 허용 안함
 sitedata-allow-cookies-option =
     .label = 쿠키와 사이트 데이타 허용
     .accesskey = A
@@ -723,10 +709,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = 항상 사용하지 않기
     .accesskey = n
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = 사생활 보호 모드에서 추적 방지를 사용해 알려진 추적기관을 차단
-    .accesskey = v
 tracking-exceptions =
     .label = 예외…
     .accesskey = x
