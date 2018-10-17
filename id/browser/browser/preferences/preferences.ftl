@@ -53,6 +53,7 @@ pane-sync-title = Akun Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Dukungan { -brand-short-name }
+addons-button-label = Ekstensi & Tema
 focus-search =
     .key = f
 close-button =
@@ -314,7 +315,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proksi Jaringan
 network-settings-title = Setelan Jaringan
 network-proxy-connection-description = Atur bagaimana { -brand-short-name } tersambung ke internet.
 network-proxy-connection-learn-more = Pelajari lebih lanjut
@@ -513,6 +513,7 @@ privacy-header = Privasi Peramban
 ## Privacy Section - Forms
 
 forms-header = Formulir & Sandi
+logins-header = Info Masuk & Sandi
 forms-ask-to-save-logins =
     .label = Minta untuk menyimpan info masuk dan kata sandi untuk situs web
     .accesskey = M
@@ -579,26 +580,12 @@ sitedata-total-size-calculating = Menghitung ukuran data situs dan tembolok…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Kuki, data situs tersimpan, dan tembolok Anda saat ini menggunakan ruang penyimpanan { $value } { $unit }.
 sitedata-learn-more = Pelajari lebih lanjut
-sitedata-accept-cookies-option =
-    .label = Terima kuki dan data situs dari situs web (disarankan)
-    .accesskey = a
-sitedata-block-cookies-option =
-    .label = Blokir kuki dan data situs (bisa menyebabkan situs web macet)
-    .accesskey = B
 sitedata-keep-until = Simpan hingga
     .accesskey = h
 sitedata-keep-until-expire =
     .label = Kedaluwarsa
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ditutup
-sitedata-accept-third-party-desc = Terima kuki dan data situs dari pihak ketiga
-    .accesskey = T
-sitedata-accept-third-party-always-option =
-    .label = Selalu
-sitedata-accept-third-party-visited-option =
-    .label = Dari yang Pernah Dikunjungi
-sitedata-accept-third-party-never-option =
-    .label = Tidak Pernah
 sitedata-allow-cookies-option =
     .label = Terima kuki dan data situs
     .accesskey = T
@@ -628,6 +615,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Pengecualian…
     .accesskey = e
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Setelan Anda di Pemblokiran Konten mencegah perubahan atas setelan Kuki dan Data Situs.
 
 ## Privacy Section - Address Bar
 
@@ -668,6 +659,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Pelacak yang Dimuat Lambat
     .accesskey = L
 content-blocking-fastblock-new-description = Hanya blokir pelacak yang membuat laman lambat dimuat.
+content-blocking-tracking-protection-trackers-label =
+    .label = Pelacak
+    .accesskey = P
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Semua Pelacak Terdeteksi
     .accesskey = P
@@ -715,10 +709,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Tidak Pernah
     .accesskey = P
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Gunakan Perlindungan Pelacakan di mode Penjelajahan Pribadi untuk memblokir pelacak yang diketahui
-    .accesskey = v
 tracking-exceptions =
     .label = Pengecualian…
     .accesskey = e

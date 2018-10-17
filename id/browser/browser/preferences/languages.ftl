@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Bahasa
-    .style = width: 30em
 webpage-languages-window =
     .title = Setelan Bahasa Laman Web
     .style = width: 40em
@@ -50,6 +47,9 @@ browser-languages-searching =
     .label = Mencari bahasa…
 browser-languages-downloading =
     .label = Mengunduh…
+browser-languages-select-language =
+    .label = Pilih bahasa untuk ditambah…
+    .placeholder = Pilih bahasa untuk ditambah…
 browser-languages-installed-label = Bahasa yang terpasang
 browser-languages-available-label = Bahasa yang tersedia
 browser-languages-error = { -brand-short-name } tidak dapat memperbarui bahasa Anda saat ini. Periksa koneksi internet Anda atau coba lagi.
