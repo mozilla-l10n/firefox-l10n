@@ -10,6 +10,7 @@
 <!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "Choisissez une couleur :">
 <!ENTITY chooseColor2.label "Saisissez un nom de couleur HTML">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(exemple : « #0000ff » ou « blue ») :">
 <!ENTITY default.label "Défaut">
 <!ENTITY default.accessKey "D">
