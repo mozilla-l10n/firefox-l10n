@@ -44,6 +44,7 @@
 <!ENTITY view.recentUpdates.label             "Mis à jour">
 <!ENTITY view.availableUpdates.label          "À mettre à jour">
 
+<!ENTITY helpButton.label                      "Assistance des modules">
 <!ENTITY preferencesWin.label                  "Options de &brandShortName;">
 <!ENTITY preferencesUnix.label                 "Préférences de &brandShortName;">
 
