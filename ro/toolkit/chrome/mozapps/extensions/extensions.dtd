@@ -44,6 +44,7 @@
 <!ENTITY view.recentUpdates.label             "Actualizări recente">
 <!ENTITY view.availableUpdates.label          "Actualizări disponibile">
 
+<!ENTITY helpButton.label                      "Suport pentru suplimente">
 <!ENTITY preferencesWin.label                  "Opțiuni &brandShortName;">
 <!ENTITY preferencesUnix.label                 "Preferințe &brandShortName;">
 
