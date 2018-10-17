@@ -148,7 +148,22 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Marchează toate filele…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Reîncarcă fila selectată">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Reîncarcă filele selectate">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Marchează filele selectate…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Selectează toate filele">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
@@ -596,9 +611,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Reîncarcă cadrul">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vezi sursa selecției">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Vezi sursa MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Vezi sursa paginii">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
@@ -815,7 +827,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Terminat">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Afișează editorul la salvare">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
@@ -966,9 +977,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Audio din filă va fi partajat.">
 <!ENTITY getUserMedia.allWindowsShared.message "Toate ferestrele vizibile pe ecran vor fi partajate.">
 
-<!ENTITY trackingProtection.on "Protecție împotriva urmăririi: activată">
-<!ENTITY trackingProtection.off "Protecție împotriva urmăririi: dezactivată">
-
 <!ENTITY contentBlocking.title "Blocare de conținut">
 <!ENTITY contentBlocking.detected "Conținut blocabil detectat pe acest site.">
 <!ENTITY contentBlocking.notDetected "Niciun conținut blocabil detectat pe această pagină.">
@@ -1027,28 +1035,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Protecție împotriva urmăririi">
 <!ENTITY trackingProtection.tooltip "Deschide preferințele de protecție împotriva urmăririi">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blochează părți din pagină care ți-ar putea urmări navigarea.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; a detectat elemente care îți pot urmări navigarea.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; a detectat elemente care îți pot urmări navigarea. Ai dezactivat protecția pentru acest site.">
-<!ENTITY trackingProtection.notDetected5 "Niciun element de urmărire depistat pe pagină.">
-<!ENTITY trackingProtection.notDetectedException "Niciun element de urmărire depistat pe pagină. Ai dezactivat protecția pentru acest site.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Ai activat protecția împotriva urmăririi. Reîncarcă pagina pentru blocarea tuturor urmăritorilor.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Dezactivează pentru acest site">
-<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!ENTITY trackingProtection.unblock4.label "Dezactivează blocarea pentru acest site">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Dezactivează pentru această sesiune">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "Activează pentru acest site">
-<!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.unblockPrivate4.label "Dezactivează temporar blocarea">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Activează blocarea pentru acest site">
@@ -1133,21 +1128,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Dezactivează extensia">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
-<!ENTITY homepageControlled.message "O extensie a schimbat ce vezi ca pagină de start. Poți restaura setările dacă nu vrei această schimbare.">
+<!ENTITY homepageControlled.message "O extensie a schimbat ce vezi ca pagină de start. Poți restaura setările dacă nu vrei această modificare.">
 <!ENTITY homepageControlled.header.message "Pagina ta de start s-a schimbat.">
 <!ENTITY homepageControlled.keepButton.label "Păstrează modificările">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "Dezactivează extensia">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
-<!ENTITY tabHideControlled.header.message "Accesează file ascunse">
+<!ENTITY tabHideControlled.header.message "Accesează filele ascunse">
 <!ENTITY tabHideControlled.keepButton.label "Păstrează filele ascunse">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
 <!ENTITY tabHideControlled.disableButton.label "Dezactivează extensia">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Acțiuni pentru pagină">
-<!ENTITY pageAction.addToUrlbar.label "Adaugă la bara de adresă">
+<!ENTITY pageAction.addToUrlbar.label "Adaugă în bara de adresă">
 <!ENTITY pageAction.removeFromUrlbar.label "Elimină din bara de adresă">
 <!ENTITY pageAction.allowInUrlbar.label "Arată în bara de adrese">
 <!ENTITY pageAction.disallowInUrlbar.label "Nu arăta în bara de adrese">
@@ -1157,11 +1152,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.syncNotReady.label "Se sincronizează dispozitivele…">
 
-<!ENTITY pageAction.shareUrl.label "Împărtășește">
-
+<!ENTITY pageAction.shareUrl.label "Partajează">
 <!ENTITY pageAction.shareMore.label "Mai multe…">
 
-<!ENTITY libraryButton.tooltip "Vezi istoricul, marcajele salvate și mai multe">
+<!ENTITY libraryButton.tooltip "Vezi istoricul, marcajele salvate și multe altele">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
