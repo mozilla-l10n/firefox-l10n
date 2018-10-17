@@ -43,6 +43,7 @@
 <!ENTITY view.recentUpdates.label             "最近更新">
 <!ENTITY view.availableUpdates.label          "可用更新">
 
+<!ENTITY helpButton.label                      "附加组件帮助">
 <!ENTITY preferencesWin.label                  "&brandShortName; 选项">
 <!ENTITY preferencesUnix.label                 "&brandShortName; 首选项">
 
