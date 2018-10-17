@@ -59,9 +59,9 @@
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "Pouze při zobrazení po">
+<!ENTITY markAsReadDelay.label            "Až po">
 <!ENTITY markAsReadDelay.accesskey        "z">
-<!ENTITY secondsLabel.label               "sekundách">
+<!ENTITY secondsLabel.label               "sekundách od zobrazení">
 <!ENTITY openMsgIn.label                  "Otevírat zprávy v:">
 <!ENTITY openMsgInNewTab.label            "Novém panelu">
 <!ENTITY openMsgInNewTab.accesskey        "p">
