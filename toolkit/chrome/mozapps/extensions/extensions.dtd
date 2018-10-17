@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Utvidelser">
 
-<!ENTITY search.placeholder                   "Søk i alle utvidelser">
-
 <!ENTITY search.placeholder2                  "Søk på addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Søk på addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Søk">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +16,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Ingen oppdateringer funnet">
 <!ENTITY listEmpty.recentUpdates.label        "Du har ikke nylig oppdatert noen utvidelser">
 <!ENTITY listEmpty.findUpdates.label          "Søk etter oppdateringer">
-<!ENTITY listEmpty.search.label               "Klarte ikke finne noen passende utvidelser">
 <!ENTITY listEmpty.button.label               "Les mer om utvidelser">
 <!ENTITY installAddonFromFile.label           "Installer utvidelse fra fil …">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -24,9 +23,6 @@
 
 <!ENTITY getThemes.description                "Ønsker du å tilpasse nettleseren din?">
 <!ENTITY getThemes.learnMore                  "Velg blant tusenvis av temaer.">
-
-<!ENTITY cmd.back.tooltip                     "Gå tilbake en side">
-<!ENTITY cmd.forward.tooltip                  "Gå frem en side">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Noen utvidelser kunne ikke bli kontrollert">
@@ -44,10 +40,13 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Slå på sikkerhetskontroll av utvidelsesoppdateringer">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Søk">
 <!ENTITY view.discover.label                  "Last ned utvidelser">
 <!ENTITY view.recentUpdates.label             "Nylig oppdatert">
 <!ENTITY view.availableUpdates.label          "Tilgjengelige oppdateringer">
+
+<!ENTITY helpButton.label                      "Brukerstøtte for utvidelser">
+<!ENTITY preferencesWin.label                  "&amp;brandShortName;-innstillinger">
+<!ENTITY preferencesUnix.label                 "&amp;brandShortName;-innstillinger">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Søk etter oppdateringer nå">
@@ -87,8 +86,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "I">
 <!ENTITY cmd.preferencesUnix.label            "Innstillinger">
 <!ENTITY cmd.preferencesUnix.accesskey        "I">
-<!ENTITY cmd.about.label                      "Om">
-<!ENTITY cmd.about.accesskey                  "O">
 
 <!ENTITY cmd.enableAddon.label                "Slå på">
 <!ENTITY cmd.enableAddon.accesskey            "S">
@@ -135,7 +132,6 @@
 <!ENTITY detail.lastupdated.label             "Sist oppdatert">
 <!ENTITY detail.creator.label                 "Utvikler">
 <!ENTITY detail.homepage.label                "Hjemmeside">
-<!ENTITY detail.numberOfDownloads.label       "Nedlastinger">
 
 <!ENTITY detail.contributions.description     "Utvikleren av denne utvidelsen ber om at du hjelper å støtte videre utvikling ved å gjøre en liten donasjon.">
 
@@ -167,23 +163,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pause">
 <!ENTITY progress.cancel.tooltip              "Avbryt">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Navn">
-<!ENTITY sort.name.tooltip                    "Sorter etter navn">
-<!ENTITY sort.dateUpdated.label               "Sist oppdatert">
-<!ENTITY sort.dateUpdated.tooltip             "Sorter etter dato oppdatert">
-<!ENTITY sort.relevance.label                 "Beste treff">
-<!ENTITY sort.relevance.tooltip               "Sorter etter relevans">
-<!ENTITY sort.price.label                     "Pris">
-<!ENTITY sort.price.tooltip                   "Sorter etter pris">
-
-<!ENTITY search.filter2.label                 "Søk:">
-<!ENTITY search.filter2.installed.label       "Installerte utvidelser">
-<!ENTITY search.filter2.installed.tooltip     "Vis installerte utvidelser">
-<!ENTITY search.filter2.available.label       "Tilgjengelige utvidelser">
-<!ENTITY search.filter2.available.tooltip     "Vis utvidelser som kan installeres">
 
 <!ENTITY addon.homepage                       "Hjemmeside">
 <!ENTITY addon.details.label                  "Mer">
@@ -226,17 +205,6 @@
 <!ENTITY eula.accept                          "Godta og installer …">
 
 <!ENTITY settings.path.button.label           "Bla gjennom …">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Hva er dette? Telemetry kan installere og kjøre eksperimenter med jevne mellomrom.">
-<!ENTITY experiment.info.learnmore "Les mer">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Telemetry-innstillinger">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Les mer …">
 
