@@ -59,7 +59,7 @@
 <!ENTITY hfDateAndTime       "Дата/Час">
 <!ENTITY hfPage              "Сторінка #">
 <!ENTITY hfPageAndTotal      "# сторінка з #">
-<!ENTITY hfBlank             "--порожня--">
+<!ENTITY hfBlank             "--порожньо--">
 <!ENTITY hfCustom            "Інше…">
 
 <!ENTITY customPrompt.title  "Інше…">
