@@ -10,7 +10,6 @@
 <!ENTITY returnToPreviousPage.label "ย้อนกลับ">
 <!ENTITY returnToPreviousPage1.label "ย้อนกลับ (แนะนำ)">
 <!ENTITY advanced.label "ขั้นสูง">
-
 <!ENTITY continue2.label "เพิ่มเติม…">
 <!ENTITY moreInformation.label "ข้อมูลเพิ่มเติม">
 
@@ -25,6 +24,14 @@
 <!ENTITY dnsNotFound.pageTitle "ไม่พบเซิร์ฟเวอร์">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "อืม เรามีปัญหาในการค้นหาไซต์นั้น">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>หากที่อยู่นั้นถูกต้อง นี่คือสามสิ่งอื่น ๆ ที่คุณสามารถลอง:</strong>
+<ul>
+  <li>ลองอีกครั้งในภายหลัง</li>
+  <li>ตรวจสอบการเชื่อมต่อเครือข่ายของคุณ</li>
+  <li>หากคุณเชื่อมต่ออยู่แต่อยู่หลังไฟร์วอลล์ ตรวจสอบว่า &brandShortName; มีการอนุญาตให้เข้าถึงเว็บ</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "ไม่พบไฟล์">
 <!ENTITY fileNotFound.longDesc "<ul> <li>ตรวจสอบชื่อไฟล์สำหรับตัวพิมพ์ใหญ่เล็กหรือข้อผิดพลาดการพิมพ์อื่น ๆ</li> <li>ตรวจสอบเพื่อดูหากไฟล์ถูกย้าย เปลี่ยนชื่อ หรือลบ</li> </ul>">
@@ -96,7 +103,6 @@ was trying to connect. -->
 
 
 
-
 <!ENTITY sharedLongDesc "<ul> <li>ไซต์อาจไม่พร้อมใช้งานชั่วคราวหรือกำลังทำงานหนักเกินไป ลองอีกครั้งในอีกสักครู่</li> <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อเครือข่ายของคอมพิวเตอร์ของคุณ</li> <li>หากคอมพิวเตอร์หรือเครือข่ายของคุณถูกปกป้องด้วยไฟร์วอลล์หรือพร็อกซี ตรวจสอบให้แน่ใจว่า &brandShortName; ได้รับอนุญาตให้เข้าถึงเว็บ</li> </ul>">
 
 <!ENTITY cspBlocked.title "ถูกปิดกั้นโดยนโยบายความปลอดภัยของเนื้อหา">
@@ -107,7 +113,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "เพิ่มข้อยกเว้น…">
-
 <!ENTITY securityOverride.exceptionButton1Label "ยอมรับความเสี่ยงและดำเนินการต่อ">
 
 <!ENTITY errorReporting.automatic2 "รายงานข้อผิดพลาดเช่นนี้เพื่อช่วย Mozilla ระบุและปิดกั้นไซต์ที่ประสงค์ร้าย">
