@@ -1156,7 +1156,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.syncNotReady.label "正在同步设备…">
 
-<!ENTITY pageAction.shareUrl.label "分享">
+<!ENTITY pageAction.shareUrl.label "共享">
 <!ENTITY pageAction.shareMore.label "更多…">
 
 <!ENTITY libraryButton.tooltip "查看浏览历史、已保存的书签等">
