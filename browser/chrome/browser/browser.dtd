@@ -38,6 +38,8 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Sulje valitut välilehdet">
 <!ENTITY  closeSelectedTabs.accesskey        "a">
 
+<!ENTITY  closeTabs.label                    "Sulje välilehdet">
+<!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "Kiinnitä välilehdet">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
@@ -974,6 +976,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Lisää esto…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Kaikki havaitut seuraimet">
+<!ENTITY contentBlocking.trackingProtection3.label "Seuraimet">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
