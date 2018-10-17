@@ -8,6 +8,9 @@
 <!ENTITY setColor1.label "Клацніть на кольорі або">
 <!ENTITY setColor2.label "введіть його HTML-код">
 <!ENTITY setColor2.accessKey "в">
+<!ENTITY chooseColor1.label "Оберіть колір:">
+<!ENTITY chooseColor2.label "Введіть значення кольору в форматі HTML">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(приклад: «#0000ff» або «blue»):">
 <!ENTITY default.label "Типово">
 <!ENTITY default.accessKey "З">
