@@ -53,6 +53,7 @@ pane-sync-title = บัญชี Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = การสนับสนุนของ { -brand-short-name }
+addons-button-label = ส่วนขยายและชุดตกแต่ง
 focus-search =
     .key = f
 close-button =
@@ -311,7 +312,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = พร็อกซีเครือข่าย
 network-settings-title = การตั้งค่าเครือข่าย
 network-proxy-connection-description = กำหนดค่าวิธีที่ { -brand-short-name } เชื่อมต่อกับอินเทอร์เน็ต
 network-proxy-connection-learn-more = เรียนรู้เพิ่มเติม
@@ -577,26 +577,12 @@ sitedata-total-size-calculating = กำลังคำนวณขนาดข�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = คุกกี้, ข้อมูลไซต์ และแคชที่ถูกจัดเก็บไว้ของคุณใช้พื้นที่ดิสก์ไป { $value } { $unit }
 sitedata-learn-more = เรียนรู้เพิ่มเติม
-sitedata-accept-cookies-option =
-    .label = ยอมรับคุกกี้และข้อมูลไซต์จากเว็บไซต์ (แนะนำ)
-    .accesskey = ย
-sitedata-block-cookies-option =
-    .label = ปิดกั้นคุกกี้และข้อมูลไซต์ (อาจส่งผลให้เว็บไซต์ไม่สมบูรณ์)
-    .accesskey = ป
 sitedata-keep-until = เก็บจนกระทั่ง
     .accesskey = ก
 sitedata-keep-until-expire =
     .label = คุกกี้หมดอายุ
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ถูกปิด
-sitedata-accept-third-party-desc = ยอมรับคุกกี้และข้อมูลไซต์จากบุคคลที่สาม
-    .accesskey = อ
-sitedata-accept-third-party-always-option =
-    .label = เสมอ
-sitedata-accept-third-party-visited-option =
-    .label = จากที่เยี่ยมชม
-sitedata-accept-third-party-never-option =
-    .label = ไม่เลย
 sitedata-allow-cookies-option =
     .label = ยอมรับคุกกี้และข้อมูลไซต์
     .accesskey = ย
@@ -707,10 +693,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = ไม่เลย
     .accesskey = ม
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = ใช้การป้องกันการติดตามในการท่องเว็บแบบส่วนตัวเพื่อปิดกั้นตัวติดตามที่รู้จัก
-    .accesskey = ช
 tracking-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = อ
