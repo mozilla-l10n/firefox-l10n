@@ -17,6 +17,7 @@
 
 <!-- LOCALIZATION NOTE (shaderEditorUI.fragmentShader): This is the label for
   -  the pane that displays a fragment shader's source. -->
+<!ENTITY shaderEditorUI.fragmentShader  "Fragment Shader">
 
 <!-- LOCALIZATION NOTE (shaderEditorUI.reloadNotice1): This is the label shown
   -  on the button that triggers a page refresh. -->
