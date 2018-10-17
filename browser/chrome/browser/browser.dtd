@@ -172,6 +172,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.accesskey "ข">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "ตัวดีบั๊กเค้าโครง">
+<!ENTITY ldbCmd.accesskey "ต">
 <!ENTITY mirrorTabCmd.label "สะท้อนแท็บ">
 <!ENTITY mirrorTabCmd.accesskey "ส">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
