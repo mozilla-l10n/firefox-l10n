@@ -9,7 +9,7 @@
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "Text">
 <!ENTITY password.value "Parola">
-<!ENTITY checkbox.value "Bifă">
+<!ENTITY checkbox.value "Casetă de validare">
 <!ENTITY radio.value "Buton radio">
 <!ENTITY submit.value "Buton trimitere">
 <!ENTITY reset.value "Buton reset">
