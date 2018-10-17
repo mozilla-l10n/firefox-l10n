@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "ตัวจัดการส่วนเสริม">
 
 <!ENTITY search.placeholder2                  "ค้นหาบน addons.mozilla.org">
+
 <!ENTITY search.buttonlabel                   "ค้นหา">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +42,9 @@
 <!ENTITY view.discover.label                  "รับส่วนเสริม">
 <!ENTITY view.recentUpdates.label             "การอัปเดตล่าสุด">
 <!ENTITY view.availableUpdates.label          "การอัปเดตที่มี">
+
+<!ENTITY preferencesWin.label                  "ตัวเลือก &brandShortName;">
+<!ENTITY preferencesUnix.label                 "ค่ากำหนด &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "ตรวจสอบการอัปเดต">
