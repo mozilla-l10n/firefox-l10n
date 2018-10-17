@@ -10,4 +10,4 @@
 <p>ყველა გახსნილი გვერდი, ფანჯარა და ჩანართი მაშინვე აღდგება, ასე რომ, სწრაფადვე შეგეძლებათ დაუბრუნდეთ თქვენს საქმეს.</p>
 ">
 
-<!ENTITY restartButton.label "&brandShortName;-ის ხელახლა გაშვება">
+<!ENTITY restartButton.label "გაუშვით ხელახლა &brandShortName;">

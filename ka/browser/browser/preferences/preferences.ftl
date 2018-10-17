@@ -64,7 +64,7 @@ close-button =
 feature-enable-requires-restart = ამ ფუნქციის ჩასართავად, ხელახლა გაუშვით { -brand-short-name }
 feature-disable-requires-restart = ამ ფუნქციის გამოსართავად, ხელახლა გაუშვით { -brand-short-name }
 should-restart-title = { -brand-short-name }-ის ხელახლა გაშვება
-should-restart-ok = { -brand-short-name } ხელახლა გაშვება ახლავე
+should-restart-ok = გაუშვით ხელახლა { -brand-short-name } ახლავე
 cancel-no-restart-button = გაუქმება
 restart-later = მოგვიანებით გაშვება
 
