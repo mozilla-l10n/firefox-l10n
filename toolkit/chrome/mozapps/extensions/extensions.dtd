@@ -46,6 +46,7 @@
 
 <!ENTITY helpButton.label                      "დამატებების მხარდაჭერა">
 <!ENTITY preferencesWin.label                  "&brandShortName; პარამეტრები">
+<!ENTITY preferencesUnix.label                 "&brandShortName; პარამეტრები">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "განახლებების შემოწმება">
