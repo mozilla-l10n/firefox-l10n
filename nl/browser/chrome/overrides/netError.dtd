@@ -150,11 +150,14 @@
 
 <!ENTITY certerror.longpagetitle1 "Uw verbinding is niet beveiligd">
 <!ENTITY certerror.longpagetitle2 "Waarschuwing: mogelijk beveiligingsrisico">
+<!ENTITY certerror.sts.longpagetitle  "Geen verbinding gemaakt: mogelijk beveiligingsprobleem">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "De eigenaar van <span class='hostname'/> heeft zijn of haar website niet juist geconfigureerd. Om uw gegevens tegen diefstal te beschermen, heeft &brandShortName; geen verbinding met deze website gemaakt.">
 <!ENTITY certerror.introPara2 "&brandShortName; heeft een mogelijk beveiligingsrisico gedetecteerd en is niet doorgegaan naar <span class='hostname'/>. Als u deze website bezoekt, zouden hackers gegevens kunnen proberen te stelen, zoals uw wachtwoorden, e-mailadressen of creditcardgegevens.">
+
+<!ENTITY certerror.sts.introPara "&brandShortName; heeft een mogelijk beveiligingsrisico gedetecteerd en is niet doorgegaan naar <span class='hostname'/>, omdat deze website een beveiligde verbinding vereist.">
 
 <!ENTITY certerror.expiredCert.secondPara "Dit probleem komt zeer waarschijnlijk doordat uw computerklok op de verkeerde tijd is ingesteld, waardoor &brandShortName; geen beveiligde verbinding kan maken.">
 
@@ -214,6 +217,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Niet-beveiligde verbinding">
 <!ENTITY certerror.pagetitle2  "Waarschuwing: mogelijk beveiligingsrisico">
+<!ENTITY certerror.sts.pagetitle  "Geen verbinding gemaakt: mogelijk beveiligingsprobleem">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Deze website maakt gebruik
 van HTTP Strict Transport Security (HSTS) om aan te geven dat &brandShortName;
 alleen een beveiligde verbinding mag maken. Hierdoor is het niet mogelijk om een
