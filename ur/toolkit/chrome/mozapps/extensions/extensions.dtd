@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "ایڈ اون مینیجر">
 
 <!ENTITY search.placeholder2                  "addons.mozilla.org پر تلاش کریں">
+
+<!ENTITY search.placeholder3                  "addons.mozilla.org تلاش کریں">
 <!ENTITY search.buttonlabel                   "تلاش">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +43,9 @@
 <!ENTITY view.discover.label                  "ایڈ اون لائیں">
 <!ENTITY view.recentUpdates.label             "حالیہ تازہ کاریاں">
 <!ENTITY view.availableUpdates.label          "دستیاب تازہ کاریاں">
+
+<!ENTITY preferencesWin.label                  "&brandShortName; اختیارات">
+<!ENTITY preferencesUnix.label                 "&brandShortName; ترجیحات">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "تازہ کاریوں کے لیے پڑتال کریں">
