@@ -282,7 +282,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Deschide panoul de mesaje">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Deschide panoul cu cereri de locație">
 <!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Deschide panoul de redare automată">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Deschide panoul cu mesaje despre instalarea de suplimente">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Deschide panoul cu mesaje privind instalarea de suplimente">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gestionează permisiuni de extragere canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Deschide panoul cu mesaje despre stocarea în modul offline">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Deschide panoul cu mesaje despre salvarea parolelor">
