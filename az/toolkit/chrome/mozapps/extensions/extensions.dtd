@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Əlavə idarəçisi">
 
-<!ENTITY search.placeholder                   "Bütün əlavələrdə axtar">
-
 <!ENTITY search.placeholder2                  "addons.mozilla.org saytında axtar">
+
+<!ENTITY search.placeholder3                  "addons.mozilla.org saytında axtar">
 <!ENTITY search.buttonlabel                   "Axtar">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +16,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Yenilənmə tapılmadı">
 <!ENTITY listEmpty.recentUpdates.label        "Yaxın vaxtlarda hər hansı bir əlavəni yeniləmədiniz">
 <!ENTITY listEmpty.findUpdates.label          "Yeniləmələri yoxla">
-<!ENTITY listEmpty.search.label               "Uyğun əlavə tapılmadı">
 <!ENTITY listEmpty.button.label               "Əlavələr haqqında daha çox öyrənin">
 <!ENTITY installAddonFromFile.label           "Fayldan əlavə qur...">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -41,10 +40,13 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Əlavə yeniləmə təhlükəsizliyinə  nəzarəti aktivləşdir">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Axtarış">
 <!ENTITY view.discover.label                  "Əlavə Endirin">
 <!ENTITY view.recentUpdates.label             "Yaxın vaxtlardakı yeniləmələr">
 <!ENTITY view.availableUpdates.label          "Mövcud yeniləmələr">
+
+<!ENTITY helpButton.label                      "Əlavə Dəstəyi">
+<!ENTITY preferencesWin.label                  "&brandShortName; Seçimləri">
+<!ENTITY preferencesUnix.label                 "&brandShortName; Nizamlamaları">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Yeniləmələrə bax…">
@@ -84,8 +86,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Nizamlamalar">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "Haqqında">
-<!ENTITY cmd.about.accesskey                  "H">
 
 <!ENTITY cmd.enableAddon.label                "Fəallaşdır">
 <!ENTITY cmd.enableAddon.accesskey            "a">
@@ -132,7 +132,6 @@
 <!ENTITY detail.lastupdated.label             "Son yenilənmə">
 <!ENTITY detail.creator.label                 "İnkişaf etdirici">
 <!ENTITY detail.homepage.label                "Ana səhifə">
-<!ENTITY detail.numberOfDownloads.label       "Endirmələr">
 
 <!ENTITY detail.contributions.description     "Bu əlavəninin inkişaf etdiricisi, sizdən kiçik bir maddi kömək edərək əlavəni inkişaf etdirmə işini dəstəkləməyinizi istəyir.">
 
@@ -164,23 +163,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Dayandır">
 <!ENTITY progress.cancel.tooltip              "ləğv et">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Ad">
-<!ENTITY sort.name.tooltip                    "Ada göre sırala">
-<!ENTITY sort.dateUpdated.label               "Son yenilənmə">
-<!ENTITY sort.dateUpdated.tooltip             "Yeniləmə tarixinə görə sırala">
-<!ENTITY sort.relevance.label                 "Ən çox uyğun gələn">
-<!ENTITY sort.relevance.tooltip               "Göstərilən marağa görə sırala">
-<!ENTITY sort.price.label                     "Fiyat">
-<!ENTITY sort.price.tooltip                   "Fiyata göre sırala">
-
-<!ENTITY search.filter2.label                 "Axtarış:">
-<!ENTITY search.filter2.installed.label       "Əlavələrim">
-<!ENTITY search.filter2.installed.tooltip     "Qurulmuş əlavələri göstər">
-<!ENTITY search.filter2.available.label       "Mövcud əlavələr">
-<!ENTITY search.filter2.available.tooltip     "Qurula biləcək əlavələri göstər">
 
 <!ENTITY addon.homepage                       "Ana səhifə">
 <!ENTITY addon.details.label                  "Daha çox məlumat">
@@ -223,17 +205,6 @@
 <!ENTITY eula.accept                          "Qəbul et və qur...">
 
 <!ENTITY settings.path.button.label           "Bax…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Bu nədir? Telemetriya zaman-zaman eksperimentlər qurub çalışdıra bilər.">
-<!ENTITY experiment.info.learnmore "Ətraflı">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Telemetriya nizamlamaları">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Ətraflı Öyrən…">
 

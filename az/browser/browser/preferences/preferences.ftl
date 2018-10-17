@@ -53,6 +53,7 @@ pane-sync-title = Firefox Hesabı
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } Dəstək
+addons-button-label = Uzantılar və Mövzular
 focus-search =
     .key = f
 close-button =
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Şəbəkə Proksisi
 network-settings-title = Şəbəkə Tənzimləmələri
 network-proxy-connection-description = { -brand-short-name } səyyahının internetə necə qoşulduğunu idarə et.
 network-proxy-connection-learn-more = Ətraflı öyrən
@@ -592,26 +592,12 @@ sitedata-total-size-calculating = Sayt məlumatları və keş ölçüsü hesabla
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Saxlanılan çərəz, sayt məlumatları və keşləriniz hazırda { $value } { $unit } disk işlədirlər.
 sitedata-learn-more = Ətraflı öyrən
-sitedata-accept-cookies-option =
-    .label = Saytların çərəz və sayt məlumatlarını qəbul et (məsləhət görülür)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Çərəz və sayt məlumatlarını əngəllə (bəzi saytlar işləməyə bilər)
-    .accesskey = B
 sitedata-keep-until = Saxlama limiti
     .accesskey = u
 sitedata-keep-until-expire =
     .label = Vaxtı bitənə qədər
 sitedata-keep-until-closed =
     .label = { -brand-short-name } qapatılana qədər
-sitedata-accept-third-party-desc = Üçüncü tərəf çərəz və sayt məlumatlarını qəbul et
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = Həmişə
-sitedata-accept-third-party-visited-option =
-    .label = Baxılanlardan
-sitedata-accept-third-party-never-option =
-    .label = Heç vaxt
 sitedata-allow-cookies-option =
     .label = Çərəz və sayt məlumatlarını qəbul et
     .accesskey = A
@@ -734,10 +720,6 @@ tracking-mode-private =
     .accesskey = n
 tracking-mode-never =
     .label = Heç vaxt
-    .accesskey = v
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Bilinən izləyiciləri bloklamaq üçün Məxfi Səyahətdə İzlənmə Qorumasını işlədin
     .accesskey = v
 tracking-exceptions =
     .label = İstisnalar…
