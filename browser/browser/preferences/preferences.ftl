@@ -521,7 +521,7 @@ privacy-header = 浏览器隐私
 ## Privacy Section - Forms
 
 forms-header = 表单与密码
-logins-header = 登录名和密码
+logins-header = 登录信息与密码
 forms-ask-to-save-logins =
     .label = 向您询问是否要记住网站的登录账号和密码
     .accesskey = r
