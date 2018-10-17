@@ -363,7 +363,6 @@
 <!ENTITY pref_use_system_font_size_summary "Масштабувати веб-вміст згідно з системним розміром шрифту">
 
 <!ENTITY pref_media_autoplay_enabled "Автоматичне відтворення">
-<!ENTITY pref_media_autoplay_enabled_summary "Контроль автоматичного відтворення відео та іншого медіа-вмісту веб-сайтами">
 <!ENTITY pref_media_autoplay_allow "Дозволити автовідтворення">
 <!ENTITY pref_media_autoplay_block "Блокувати автовідтворення">
 <!ENTITY pref_zoom_force_enabled "Зміна масштабу">
@@ -831,9 +830,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Не вдається відкрити &brandShortName;. Перевстановіть і повторіть спробу.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; більше не буде оновлюватись">
-<!ENTITY eol_notification_summary "Торкніться, щоб дізнатись більше">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "Маєте найновішу версію &brandShortName;">
@@ -907,3 +903,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "Push-сповіщення &brandShortName;">
 <!ENTITY updater_notification_channel "Оновлення програми">
 <!ENTITY synced_tabs_notification_channel "Синхронізовані вкладки">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Сповіщення сайтів">
