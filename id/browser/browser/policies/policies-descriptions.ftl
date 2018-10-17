@@ -32,13 +32,19 @@ policy-DisableMasterPasswordCreation = Jika ya, sandi utama tidak bisa dibuat.
 policy-DisablePocket = Nonaktifkan fitur untuk menyimpan laman web ke Pocket.
 policy-DisablePrivateBrowsing = Nonaktifkan Penjelajahan Pribadi.
 policy-DisableProfileImport = Nonaktifkan perintah menu untuk mengimpor data dari peramban lainnya.
+policy-DisableSecurityBypass = Mencegah pengguna melewati peringatan keamanan tertentu.
+policy-DisableSetDesktopBackground = Nonaktifkan perintah menu Jadikan Gambar sebagai Latar Belakang Desktop.
+policy-DisableSetAsDesktopBackground = Nonaktifkan perintah menu Jadikan sebagai Latar Belakang Desktop untuk gambar.
 policy-DisableTelemetry = Nonaktifkan Telemetry.
+policy-DisplayBookmarksToolbar = Tampilkan Bilah Markah secara baku.
 policy-DisplayMenuBar = Tampilkan Bilah Menu secara otomatis.
 policy-DNSOverHTTPS = Konfigurasikan DNS lewat HTTPS.
 policy-DontCheckDefaultBrowser = Nonaktifkan pemeriksaan untuk peramban bawaan saat memulai.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktifkan atau nonaktifkan Pemblokiran Konten dan kunci ia secara opsional.
 policy-FlashPlugin = Izinkan atau tolak penggunaan plugin Flash.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Mengatur dan mengunci halaman beranda secara opsional.
 policy-InstallAddonsPermission = Izinkan situs tertentu untuk memasang pengaya.
 policy-Permissions = Atur izin untuk kamera, mikrofon, lokasi, dan notifikasi.
 policy-PopupBlocking = Izinkan situs tertentu untuk menampilkan pop-up secara otomatis.

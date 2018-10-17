@@ -24,6 +24,7 @@
 <!ENTITY  reloadAllTabs.label                "Muat Ulang Semua Tab">
 <!ENTITY  reloadAllTabs.accesskey            "S">
 <!ENTITY  selectAllTabs.label                "Pilih Semua Tab">
+<!ENTITY  selectAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Gandakan Tab">
@@ -42,6 +43,7 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.accesskey        "P">
 
 <!ENTITY  closeTabs.label                    "Tutup Tab">
+<!ENTITY  closeTabs.accesskey                "T">
 <!ENTITY  pinSelectedTabs.label              "Sematkan Tab">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
@@ -59,6 +61,7 @@ but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Muat Ulang Tab">
+<!ENTITY  reloadTabs.accesskey               "M">
 <!ENTITY  bookmarkSelectedTabs.label         "Markahi Tab…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
