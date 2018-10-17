@@ -43,6 +43,7 @@
 <!ENTITY view.recentUpdates.label             "การอัปเดตล่าสุด">
 <!ENTITY view.availableUpdates.label          "การอัปเดตที่มี">
 
+<!ENTITY helpButton.label                      "การสนับสนุนของส่วนเสริม">
 <!ENTITY preferencesWin.label                  "ตัวเลือก &brandShortName;">
 <!ENTITY preferencesUnix.label                 "ค่ากำหนด &brandShortName;">
 
