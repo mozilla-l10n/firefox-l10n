@@ -10,7 +10,6 @@
 <!ENTITY returnToPreviousPage.label "Geri dön">
 <!ENTITY returnToPreviousPage1.label "Geri dön (Önerilir)">
 <!ENTITY advanced.label "Gelişmiş">
-
 <!ENTITY continue2.label "Daha fazla…">
 <!ENTITY moreInformation.label "Daha fazla bilgi">
 
@@ -104,7 +103,7 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Sisteminizde Kişisel Güvenlik Yöneticisi'nin kurulu olduğundan emin olun.</li> <li>Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Güvenli bağlantı kurulamadı">
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>Görüntülemeye çalıştığınız sayfa, alınan verilerin yetkinliği doğrulanamadığı için gösterilemiyor.</li> <li>Lütfen site yöneticisi ile irtibata geçip durumu bildirin.</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Görüntülemeye çalıştığınız sayfa, alınan verilerin yetkinliği doğrulanamadığı için gösterilemiyor.</li> <li>Sitenin sahibiyle iletişime geçerek bu sorunu bildirmeyi deneyebilirsiniz.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Bağlantınız güvenli değil">
 <!ENTITY certerror.longpagetitle2 "Uyarı: Güvenlik riskiyle karşılaşabilirsiniz">
@@ -112,7 +111,6 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> web sitesinin sahibi siteyi hatalı yapılandırmış.  Bilgilerinizin çalınmasını önlemek için &brandShortName; bu web sitesine bağlanmadı.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; olası bir güvenlik tehdidiyle karşılaştığı için <span class='hostname'/> adresine girmedi. Bu siteyi ziyaret ederseniz saldırganlar parola, e-posta ve kredi kartı gibi bilgilerinizi çalmaya çalışabilir.">
 
 <!ENTITY certerror.expiredCert.secondPara "Bu sorun büyük olasılıkla bilgisayarınızın saatinin yanlış ayarlanmasından kaynaklanır. Saat veya tarih yanlışsa &brandShortName; güvenli bağlantı kuramayabilir.">
@@ -146,7 +144,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ayrıcalık tanı…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Riski kabul ederek devam et">
 
 <!ENTITY errorReporting.automatic2 "Mozilla’nın zararlı siteleri tanımlayıp engellemesine yardımcı olmak için bu gibi hataları rapor et">
