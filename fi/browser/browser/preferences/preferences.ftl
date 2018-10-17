@@ -53,6 +53,7 @@ pane-sync-title = Firefox-tili
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name }-tuki
+addons-button-label = Laajennukset ja teemat
 focus-search =
     .key = f
 close-button =
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Verkon välityspalvelin
 network-settings-title = Verkkoasetukset
 network-proxy-connection-description = Muokkaa { -brand-short-name }in verkkoyhteysasetuksia.
 network-proxy-connection-learn-more = Lue lisää
@@ -591,26 +591,12 @@ sitedata-total-size-calculating = Lasketaan sivustotietojen ja välimuistin koko
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Evästeet, sivustotiedot ja välimuisti vievät tällä hetkellä { $value } { $unit } levytilaa.
 sitedata-learn-more = Lue lisää
-sitedata-accept-cookies-option =
-    .label = Hyväksy evästeet ja sivustotiedot sivustoilta (suositus)
-    .accesskey = H
-sitedata-block-cookies-option =
-    .label = Estä evästeet ja sivustotiedot (voi aiheuttaa sivustojen toimimattomuutta)
-    .accesskey = E
 sitedata-keep-until = Säilytä evästeet
     .accesskey = t
 sitedata-keep-until-expire =
     .label = kunnes ne vanhenevat
 sitedata-keep-until-closed =
     .label = kunnes { -brand-short-name } suljetaan
-sitedata-accept-third-party-desc = Hyväksy kolmannen osapuolen evästeet ja sivustotiedot
-    .accesskey = k
-sitedata-accept-third-party-always-option =
-    .label = Aina
-sitedata-accept-third-party-visited-option =
-    .label = Vierailluilta sivustoilta
-sitedata-accept-third-party-never-option =
-    .label = Ei milloinkaan
 sitedata-allow-cookies-option =
     .label = Hyväksy evästeet ja sivustotiedot
     .accesskey = H
@@ -684,6 +670,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Hitaasti latautuvat seuraimet
     .accesskey = H
 content-blocking-fastblock-new-description = Estää vain seuraimet, jotka estävät sivuja latautumasta nopeasti.
+content-blocking-tracking-protection-trackers-label =
+    .label = Seuraimet
+    .accesskey = t
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Kaikki havaitut seuraimet
     .accesskey = K
@@ -731,10 +720,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Ei koskaan
     .accesskey = E
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Käytä seurannan suojausta yksityisessä selauksessa estämään tunnettuja seuraimia
-    .accesskey = m
 tracking-exceptions =
     .label = Poikkeukset…
     .accesskey = P
