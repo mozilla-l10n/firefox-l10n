@@ -11,6 +11,7 @@
 <!ENTITY advanced.label "Avanzate">
 <!ENTITY continue2.label "Altro…">
 <!ENTITY moreInformation.label "Ulteriori informazioni">
+<!ENTITY viewCertificate.label "Visualizza certificato">
 <!ENTITY connectionFailure.title "Connessione non riuscita">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 <!ENTITY deniedPortAccess.title "Questo indirizzo è bloccato">
