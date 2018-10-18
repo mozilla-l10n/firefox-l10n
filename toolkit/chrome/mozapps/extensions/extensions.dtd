@@ -5,6 +5,7 @@
 
 <!ENTITY search.placeholder2                  "在 addons.mozilla.org 上搜索">
 
+<!ENTITY search.placeholder3                  "在 addons.mozilla.org 搜索">
 <!ENTITY search.buttonlabel                   "搜索">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
