@@ -13,6 +13,8 @@
 <!ENTITY continue2.label "Meer…">
 <!ENTITY moreInformation.label "Meer informatie">
 
+<!ENTITY viewCertificate.label "Certificaat bekijken">
+
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Kan geen verbinding maken">

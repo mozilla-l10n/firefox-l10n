@@ -25,6 +25,8 @@ policy-Bookmarks = Bladwijzers maken in de Bladwijzerwerkbalk, het menu Bladwijz
 
 policy-Certificates = Of ingebouwde certificaten wel of niet worden gebruikt. Deze beleidsregel geldt op dit moment alleen voor Windows.
 
+policy-CertificatesDescription = Certificaten toevoegen of ingebouwde certificaten gebruiken.
+
 policy-Cookies = Toestaan of weigeren dat websites cookies instellen.
 
 policy-DisableAppUpdate = Voorkomen dat de browser wordt bijgewerkt.
