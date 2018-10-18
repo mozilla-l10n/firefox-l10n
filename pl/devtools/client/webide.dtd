@@ -42,6 +42,8 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "U">
 <!ENTITY runtimeMenu_showSettings_label "Ustawienia urządzenia">
 <!ENTITY runtimeMenu_showSettings_accesskey "a">
+<!ENTITY runtimeMenu_showPerformancePanel_label "Wydajność">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "W">
 
 <!ENTITY viewMenu_label "Widok">
 <!ENTITY viewMenu_accesskey "W">
