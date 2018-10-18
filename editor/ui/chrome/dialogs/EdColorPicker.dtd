@@ -8,6 +8,9 @@
 <!ENTITY setColor1.label "Egin klik kolore batean edo">
 <!ENTITY setColor2.label "sartu HTML kolore-kate bat">
 <!ENTITY setColor2.accessKey "H">
+<!ENTITY chooseColor1.label "Aukeratu kolorea:">
+<!ENTITY chooseColor2.label "Sartu HTML kolore-kate bat">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(adib.: &quot;#0000ff&quot; edo &quot;urdin&quot;):">
 <!ENTITY default.label "Lehenetsia">
 <!ENTITY default.accessKey "L">
