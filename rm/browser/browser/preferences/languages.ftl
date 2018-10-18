@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Linguas
-    .style = width: 37em
 webpage-languages-window =
     .title = Parameters da lingua per las paginas d'internet
     .style = width: 70em
@@ -45,3 +42,14 @@ browser-languages-window =
     .title = Parameters da lingua da { -brand-short-name }
     .style = width: 50em
 browser-languages-description = { -brand-short-name } vegn a duvrar l'emprima lingua sco standard e sche necessari las linguas suandantas tenor lur successiun en la glista.
+browser-languages-search = Tschertgar ulteriuras linguas…
+browser-languages-searching =
+    .label = Tschertgar linguas…
+browser-languages-downloading =
+    .label = Telechargiar…
+browser-languages-select-language =
+    .label = Tscherner ina lingua per agiuntar…
+    .placeholder = Tscherner ina lingua per agiuntar…
+browser-languages-installed-label = Linguas installadas
+browser-languages-available-label = Linguas disponiblas
+browser-languages-error = { -brand-short-name } na po mumentan betg actualisar tias linguas. Controllescha tia connexiun cun l'internet u emprova pli tard anc ina giada.

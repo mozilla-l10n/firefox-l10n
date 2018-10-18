@@ -326,7 +326,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy da la rait
 network-settings-title = Parameters da la rait
 network-proxy-connection-description = Configurar la moda da connexiun cun l'internet da { -brand-short-name }.
 network-proxy-connection-learn-more = Ulteriuras infurmaziuns
@@ -525,6 +524,7 @@ privacy-header = Protecziun da datas
 ## Privacy Section - Forms
 
 forms-header = Formulars & pleds-clav
+logins-header = Infurmaziuns d'annunzia & pleds-clav
 forms-ask-to-save-logins =
     .label = Dumandar da memorisar las infurmaziuns d'annunzia ed ils pleds-clav per paginas d'internet
     .accesskey = r
@@ -591,26 +591,12 @@ sitedata-total-size-calculating = Calcular il volumen da datas da websites e dal
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Las datas da websites, il cache ed ils cookies memorisads dovran actualmain { $value } { $unit } spazi sin il disc dir.
 sitedata-learn-more = Ulteriuras infurmaziuns
-sitedata-accept-cookies-option =
-    .label = Acceptar cookies e datas da websites (recumandà)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Bloccar cookies e datas da websites (po chaschunar problems cun websites)
-    .accesskey = B
 sitedata-keep-until = Memorisar enfin
     .accesskey = e
 sitedata-keep-until-expire =
     .label = la data da scadenza
 sitedata-keep-until-closed =
     .label = che { -brand-short-name } vegn serrà
-sitedata-accept-third-party-desc = Acceptar cookies da terzs e datas da websites
-    .accesskey = k
-sitedata-accept-third-party-always-option =
-    .label = Adina
-sitedata-accept-third-party-visited-option =
-    .label = Da visitads
-sitedata-accept-third-party-never-option =
-    .label = Mai
 sitedata-allow-cookies-option =
     .label = Acceptar cookies e datas da website
     .accesskey = A
@@ -684,6 +670,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Fastizaders che chargian plaun
     .accesskey = F
 content-blocking-fastblock-new-description = Mo bloccar ils fastizaders che impedeschan che las paginas sa chargian svelt.
+content-blocking-tracking-protection-trackers-label =
+    .label = Fastizaders
+    .accesskey = t
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Tut ils fastizaders chattads
     .accesskey = T
@@ -731,10 +720,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Mai
     .accesskey = i
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Utilisar la protecziun encunter il fastizar en il modus privat per bloccar mecanissems da fastizar enconuschents
-    .accesskey = z
 tracking-exceptions =
     .label = Excepziuns...
     .accesskey = x
