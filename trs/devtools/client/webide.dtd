@@ -18,7 +18,26 @@
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "dunikïn' Aplikasiôn">
 <!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "Nagi'iaj hue'e' aplikasiôn">
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "Guxun' proyekto">
+<!ENTITY projectMenu_remove_accesskey "R">
+<!ENTITY projectMenu_showPrefs_label "Sa arajsunt doj">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "Ganikaj ñu'un' komponente">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_refreshTabs_label "Nagi'iaj nakò' nej rakïj ñaj">
 
+<!ENTITY runtimeMenu_label "Diu gi'iaj sun ma">
+<!ENTITY runtimeMenu_accesskey "R">
+<!ENTITY runtimeMenu_disconnect_label "Gahui riña internet">
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
+<!ENTITY runtimeMenu_takeScreenshot_label "Gachrūn' riña aga' nan">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "Si nuguan' ma da' gi'iaj sunj">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Daj huin ruat gà si aga't">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
 
 
