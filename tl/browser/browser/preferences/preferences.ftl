@@ -191,8 +191,8 @@ colors-settings =
 language-header = Wika
 choose-language-description = Pumili ng iyong gustong wika para sa pagpapakita ng mga pahina
 choose-button =
-    .label = Choose…
-    .accesskey = o
+    .label = Mamili…
+    .accesskey = M
 translate-web-pages =
     .label = Isalin ang nilalaman ng web
     .accesskey = T
@@ -306,7 +306,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy ng Network
 network-proxy-connection-description = I-configure kung pano kumokonekta ang { -brand-short-name } sa internet.
 network-proxy-connection-learn-more = Matuto ng higit pa
 network-proxy-connection-settings =
@@ -532,12 +531,6 @@ sitedata-keep-until = Panatilihin hanggang
     .accesskey = u
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ay sarado
-sitedata-accept-third-party-always-option =
-    .label = Palagi
-sitedata-accept-third-party-visited-option =
-    .label = Mula sa binisita
-sitedata-accept-third-party-never-option =
-    .label = Huwag kailanman
 sitedata-cookies-exceptions =
     .label = Mga exceptions...
     .accesskey = e
@@ -581,10 +574,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Hindi Kailanman
     .accesskey = n
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Gamitin ang Proteksyon sa Pagsubaybay sa Pribadong Pagba-browse upang harangan ang mga kilalang tracker
-    .accesskey = v
 tracking-exceptions =
     .label = Mga eksepsyon…
     .accesskey = x
@@ -615,6 +604,12 @@ permissions-notification-link = Karagdagang kaalaman
 permissions-notification-pause =
     .label = I-pause ang mga notification hanggang sa i-restart ang { -brand-short-name }
     .accesskey = n
+autoplay-option-ask =
+    .label = Laging itanong
+autoplay-option-allow =
+    .label = Payagan ang Autoplay
+autoplay-option-dont =
+    .label = Huwag mag Autoplay
 permissions-block-popups =
     .label = Harangin ang mga pop-up windows
     .accesskey = H

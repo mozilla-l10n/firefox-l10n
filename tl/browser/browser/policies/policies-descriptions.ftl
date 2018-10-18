@@ -10,5 +10,9 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-BlockAboutConfig = Bawal i-access ang about:config page.
+policy-BlockAboutProfiles = Bawal i-access ang about:profiles page.
+policy-BlockAboutSupport = Bawal i-access ang about:support page.
 policy-DisablePocket = Huwag paganahin ang tampok upang i-save ang mga webpage sa Pocket.
 policy-DisablePrivateBrowsing = Huwag paganahin ang Pribadong Pagba-browse.
+policy-Proxy = Ayusin ang proxy settings.
