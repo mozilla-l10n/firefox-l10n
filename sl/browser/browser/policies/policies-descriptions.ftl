@@ -66,6 +66,8 @@ policy-Proxy = Nastavi posrednika.
 policy-SanitizeOnShutdown = Ob izhodu počisti vse podatke brskanja.
 policy-SearchBar = Nastavi privzet položaj vrstice za iskanje. Uporabnik ga lahko še vedno prilagodi.
 policy-SearchEngines = Nastavi iskalnike. Ta pravilnik je na voljo le v izdaji Extended Support Release (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Namesti module PKCS #11.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Prepreči obisk določenih spletnih mest. Za več podrobnosti o obliki glejte dokumentacijo.
