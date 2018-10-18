@@ -430,6 +430,7 @@ sync-fxa-privacy-notice = Uwagi dotyczące prywatności
 privacy-header = Prywatność
 
 forms-header = Formularze i hasła
+logins-header=Dane logowania i hasła
 forms-ask-to-save-logins=
   .label=Pytanie o zachowywanie danych logowania do witryn
   .accesskey=P
