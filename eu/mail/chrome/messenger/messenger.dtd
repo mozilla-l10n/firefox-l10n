@@ -443,6 +443,9 @@
 <!ENTITY openConversationCmd.label "Ireki hizketaldian">
 <!ENTITY openConversationCmd.accesskey "h">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openInConversationCmd.label "Ireki hizketaldian">
+<!ENTITY openInConversationCmd.accesskey "s">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Eranskinak">
 <!ENTITY openAttachmentListCmd.accesskey "r">
 <!ENTITY openFeedMessage1.label "Jarioen mezuak irekitzean">
