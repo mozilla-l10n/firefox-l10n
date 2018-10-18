@@ -25,7 +25,7 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       "ay isang">
+<!ENTITY community.exp.middle       " is a ">
 <!-- LOCALIZATION NOTE (community.exp.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "pangdaigdigang komunidad">
 <!ENTITY community.exp.end          " sama-samang nagtatrabaho upang panatilihing ang Web ay malaya, bukas sa publiko at para sa lahat.">
