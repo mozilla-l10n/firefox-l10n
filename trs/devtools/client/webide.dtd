@@ -71,7 +71,7 @@
 <!ENTITY key_zoomout "-">
 <!ENTITY key_resetzoom "0">
 
-<!ENTITY projectPanel_myProjects "Si proyektô">
+<!ENTITY projectPanel_myProjects "Nej proyekto">
 <!ENTITY projectPanel_runtimeApps "Diu gi'iaj sun Aplikasiôn">
 <!ENTITY projectPanel_tabs "Rakïj ñaj">
 <!ENTITY runtimePanel_usb "Aga' USB">
@@ -124,19 +124,38 @@
 <!ENTITY runtimedetails_summonADBRoot "Nagi'io' nej aga'a">
 <!ENTITY runtimedetails_ADBRootWarning "(ni'ñanj ma 'ngoò kargador 'iaj sun hue'e)">
 <!ENTITY runtimedetails_unrestrictedPrivileges "Nej sa ga'ue gi'iaj sun 'ngà DevTools: ">
+<!ENTITY runtimedetails_requestPrivileges "gachin' ñaj du'uèe">
+<!ENTITY runtimedetails_privilegesWarning "(Nayi'ì ñu aga' na. Da'ui garayina root.)">
 
 <!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "Boolean">
+<!ENTITY device_typenumber "Hua chre' ma">
+<!ENTITY device_typestring "Sa nanikò' dugui'i">
+<!ENTITY device_typeobject "Rasùun">
+<!ENTITY device_typenone "Ganahui' daj gà ma">
 
 <!-- Device Preferences -->
+<!ENTITY devicepreference_title "Daj huin ruat gà si aga't">
+<!ENTITY devicepreference_search "Nana'ui't sa huin ruat">
+<!ENTITY devicepreference_newname "Si yugui sa huin ruat">
+<!ENTITY devicepreference_newtext "Daj du'ue preferensia">
+<!ENTITY devicepreference_addnew "nuto' preferensia nakàa">
 
 <!-- Device Settings -->
+<!ENTITY devicesetting_title "Nagi'io' aga' na">
+<!ENTITY devicesetting_search "Nagi'iô' daj gà ma">
+<!ENTITY devicesetting_newname "Si yugui konfigurasion nakàa">
+<!ENTITY devicesetting_newtext "Daj du'ue konfigurasion">
+<!ENTITY devicesetting_addnew "Nuto' konfigurasiôn nakàa">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+<!ENTITY wifi_auth_header "Sa nadigan digui' 'iaj sun">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "Riña gatujt ni ni'ñanj ma doj nugua'an da' nani'in ma konexiô. Ni'iaj si hua' hue'e kodigo QR 'ngà a'ngo si aga't.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
