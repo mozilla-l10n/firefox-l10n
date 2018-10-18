@@ -45,6 +45,7 @@ pane-sync-title = Firefox اکاؤنٹس
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } تعاون
+addons-button-label = ایکسٹینشن اور تھیم
 focus-search =
     .key = f
 close-button =
@@ -260,7 +261,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = نیٹ ورک پراکسی
 network-settings-title = نیٹ ورک سیٹنگز
 network-proxy-connection-learn-more = مزید سیکھیں
 network-proxy-connection-settings =
@@ -484,26 +484,12 @@ history-clear-button =
 
 sitedata-header = کوکیاں اور سائٹ کے کواِئف
 sitedata-learn-more = مزید سیکھیں
-sitedata-accept-cookies-option =
-    .label = ویب سائٹس سے کوکیز اور سائٹ کا ڈیٹا قبول کریں (سفارش شدا)
-    .accesskey = ا
-sitedata-block-cookies-option =
-    .label = کوکیز اور سائٹ کا ڈیٹا روکیں(ویب سائٹس توڑنے کا سبب بن سکتا ہے)
-    .accesskey = ب
 sitedata-keep-until = رکھیں جب تک
     .accesskey = u
 sitedata-keep-until-expire =
     .label = وہ ختم ہو تے ہیں
 sitedata-keep-until-closed =
     .label = { -brand-short-name } بند ہے
-sitedata-accept-third-party-desc = تیسری تنظیم کے کوکیز اور سائٹ کا ڈیٹا قبول کریں
-    .accesskey = ی
-sitedata-accept-third-party-always-option =
-    .label = ہمیشہ
-sitedata-accept-third-party-visited-option =
-    .label = ملاحظہ شدہ سے
-sitedata-accept-third-party-never-option =
-    .label = کبھی نہیں
 sitedata-allow-cookies-option =
     .label = کوکیز اور سائٹ کا ڈیٹا قبول کریں
     .accesskey = ا

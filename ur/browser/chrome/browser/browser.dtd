@@ -930,8 +930,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.titlebar "عنوان بار">
 <!ENTITY customizeMode.extraDragSpace "کھالی جگہ ڈریگ کرے">
 <!ENTITY customizeMode.toolbars2 "&amp;ٹول بار">
-<!ENTITY customizeMode.lwthemes "خیالیات">
-<!ENTITY customizeMode.lwthemes.myThemes "میری تھیم">
+<!ENTITY customizeMode.lwthemes "تھیم">
+<!ENTITY customizeMode.lwthemes.myThemes "میرے تھیم">
 <!ENTITY customizeMode.lwthemes.recommended "سفارش شدا">
 <!ENTITY customizeMode.lwthemes.menuManage "بندوبست کریں">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">

@@ -15,7 +15,7 @@ This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.allReports "تمام کریش رپورٹیں">
 <!ENTITY aboutSupport.crashes.noConfig "یہ ایپلی کیشن کریش رپورٹیں دکھانے کے لیے تشکیل کردہ نہیں ہے۔">
 
-<!ENTITY aboutSupport.extensionsTitle "توسیعات">
+<!ENTITY aboutSupport.extensionsTitle "ایکسٹینشن">
 <!ENTITY aboutSupport.extensionName "نام">
 <!ENTITY aboutSupport.extensionEnabled "اہل بنایا گیا">
 <!ENTITY aboutSupport.extensionVersion "ورژن">
