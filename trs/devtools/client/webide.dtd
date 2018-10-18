@@ -38,32 +38,92 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Daj huin ruat gà si aga't">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showSettings_label "Nagi'io' aga' na">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "Suun">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
+<!ENTITY viewMenu_label "Gini'iaj">
+<!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_zoomin_label "Nagi'iaj niko'">
+<!ENTITY viewMenu_zoomin_accesskey "I">
+<!ENTITY viewMenu_zoomout_label "Nagi'iaj li'">
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "Nagi'iaj nakà ñu'">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
+<!ENTITY projectButton_label "Na'nïn Aplikasiôn">
+<!ENTITY runtimeButton_label "Ganahui' diu gi'iaj sun ma">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+<!ENTITY key_quit "W">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
+<!ENTITY key_toggleToolbox "VK_F12">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
+<!ENTITY projectPanel_myProjects "Si proyektô">
+<!ENTITY projectPanel_runtimeApps "Diu gi'iaj sun Aplikasiôn">
+<!ENTITY projectPanel_tabs "Rakïj ñaj">
+<!ENTITY runtimePanel_usb "Aga' USB">
+<!ENTITY runtimePanel_wifi "'Ngà WI-FI">
+<!ENTITY runtimePanel_other "A'ngoj">
+<!ENTITY runtimePanel_noadbhelper "Ga'niïn' sa ruguñu'unj ADB ">
+<!ENTITY runtimePanel_nousbdevice "Na'ue' ni'iaj si aga' ra'?">
+<!ENTITY runtimePanel_refreshDevices_label "Nagi'iaj nakò' nej aga'a">
 
 <!-- Lense -->
+<!ENTITY details_valid_header "Ni'ñanj ma">
+<!ENTITY details_warning_header "gadadut">
+<!ENTITY details_error_header "nej sa gire'">
+<!ENTITY details_description "Daj huaj">
+<!ENTITY details_location "Dane' huin">
+<!ENTITY details_manifestURL "Si ID aplikasiôn">
+<!ENTITY details_removeProject_button "Guxun' proyekto">
 
 <!-- New App -->
+<!ENTITY newAppWindowTitle "App Nakáa">
+<!ENTITY newAppHeader "Ganahui' plantiya">
+<!ENTITY newAppLoadingTemplate "Na'nïnj ma nej plantiya...">
+<!ENTITY newAppProjectName "Si yugui proyekto:">
 
 
 <!-- Decks -->
 
-<!ENTITY deck_close "Ganarun">
+<!ENTITY deck_close "Narán">
 
 <!-- Addons -->
+<!ENTITY addons_title "Komponente taj a">
+<!ENTITY addons_aboutaddons "Na'nïn' nej extensiûn">
 
 <!-- Prefs -->
+<!ENTITY prefs_title "Sa arajsunt doj">
+<!ENTITY prefs_editor_title "Nagi'iô'">
+<!ENTITY prefs_general_title "Da'ua nguéj">
+<!ENTITY prefs_restore "Nagi'iaj nakà ñu nej sa gà hua">
+<!ENTITY prefs_manage_components "Ganikaj ñu'un' komponente">
+<!ENTITY prefs_options_autoconnectruntime "Nachrun ñu' daj gi'iaj sun ma">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Nachrun' daj gi'iaj sun ma 'ngà gayi'ì WebIDE">
+<!ENTITY prefs_options_rememberlastproject "Nanu ruo' proyekto rukù ni'in">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Nachru' proyekto 'na' 'ngà nachrun' WebIDE">
+<!ENTITY prefs_options_templatesurl "Nej plantiya URL">
+<!ENTITY prefs_options_templatesurl_tooltip "Riña 'na' nej plantiya hua garasun'">
 
 <!-- Runtime Details -->
+<!ENTITY runtimedetails_title "Si nuguan' ma da' gi'iaj sunj">
+<!ENTITY runtimedetails_adbIsRoot "ADB is root: ">
+<!ENTITY runtimedetails_summonADBRoot "Nagi'io' nej aga'a">
+<!ENTITY runtimedetails_ADBRootWarning "(ni'ñanj ma 'ngoò kargador 'iaj sun hue'e)">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Nej sa ga'ue gi'iaj sun 'ngà DevTools: ">
 
 <!-- Device Preferences and Settings -->
 
