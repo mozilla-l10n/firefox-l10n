@@ -2,47 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "Firefox WebIDE">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY projectMenu_label "Proyektô">
+<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "App Nakáa...">
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "Na'nïn' aplikasion hua gèe…">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "Na'nïn' aplikasiôn 'ngà nu...">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "Na'nïn Aplikasiôn…">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "Dugutu' ni dugi'iaj sun'">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "dunikïn' Aplikasiôn">
+<!ENTITY projectMenu_stop_accesskey "S">
 
 
 
@@ -56,70 +31,26 @@
 <!-- zoom -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Lense -->
-
-
-
-
-
 
 <!-- New App -->
 
 
-
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Ganarun">
+
 <!-- Addons -->
 
 <!-- Prefs -->
 
-
-
-
-
-
-
-
-
-
 <!-- Runtime Details -->
-
-
-
-
-
 
 <!-- Device Preferences and Settings -->
 
-
-
-
 <!-- Device Preferences -->
 
-
-
-
 <!-- Device Settings -->
-
-
-
-
-<!-- Monitor -->
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
@@ -135,17 +66,3 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
-<!-- Simulator Options -->
-
-
-
-
-
-
-
-
-
-
-
-
-
