@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Eccezioni - Protezione antitracciamento
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = La protezione antitracciamento è stata disattivata per i seguenti siti web.
+permissions-exceptions-content-blocking-window =
+    .title = Eccezioni - Blocco contenuti
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Il blocco contenuti è stato disattivato per i seguenti siti web.
 
 ## Exceptions - Cookies
 
