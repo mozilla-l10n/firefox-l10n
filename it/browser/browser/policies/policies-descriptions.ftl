@@ -17,6 +17,7 @@ policy-BlockAboutProfiles = Blocca accesso alla pagina about:profiles.
 policy-BlockAboutSupport = Blocca accesso alla pagina about:support.
 policy-Bookmarks = Crea segnalibri nella barra dei segnalibri, nel menu segnalibri o in una specifica cartella in questi elementi.
 policy-Certificates = Imposta se utilizzare o meno i certificati predefiniti (built-in). Al momento questo criterio è disponibile solo per Windows.
+policy-CertificatesDescription = Aggiungi certificati o utilizza i certificati predefiniti (built-in).
 policy-Cookies = Consenti o nega ai siti web di impostare cookie.
 policy-DisableAppUpdate = Blocca l’aggiornamento del browser.
 policy-DisableBuiltinPDFViewer = Disattiva PDF.js, il lettore PDF integrato in { -brand-short-name }.
