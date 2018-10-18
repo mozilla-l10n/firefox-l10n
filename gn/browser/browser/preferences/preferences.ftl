@@ -53,6 +53,7 @@ pane-sync-title = Firefox mba'ete
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } mombytaha
+addons-button-label = Jepysokue ha téma
 focus-search =
     .key = f
 close-button =
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy ñanduti rehegua
 network-settings-title = Jeike ñemboheko
 network-proxy-connection-description = Emboheko { -brand-short-name } ramo ojuajúvo ñanduti rehe.
 network-proxy-connection-learn-more = Kuaave
@@ -592,26 +592,12 @@ sitedata-total-size-calculating = Eikuaase tenda mba'ekuaarã ha kache tuichakue
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Umi kookie ñembyytpyre, tenda mba'ekuaarã ha kache mandu'arenda oipuru porã ko'ag̃aite { $value } { $unit } pe disco pegua pa'ũ.
 sitedata-learn-more = Kuaave
-sitedata-accept-cookies-option =
-    .label = Emoñeĩ kookie ha ñanduti renda mba'ekuaarã (jeroviapyrãva)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Ejoko umi kookie ha tenda mba'ekuaarã (ikatu ombyai ñanduti renda)
-    .accesskey = B
 sitedata-keep-until = Eñongati ag̃ave
     .accesskey = u
 sitedata-keep-until-expire =
     .label = opátama
 sitedata-keep-until-closed =
     .label = { -brand-short-name } oñembotýma
-sitedata-accept-third-party-desc = Emoñeĩ kookie ambueguáva ha tenda mba'ekuaarã
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = Katui
-sitedata-accept-third-party-visited-option =
-    .label = Jehopyre
-sitedata-accept-third-party-never-option =
-    .label = Araka'eve
 sitedata-allow-cookies-option =
     .label = Emoneĩ kookie ha tenda mba’ekuaarã
     .accesskey = A
@@ -735,10 +721,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Araka'eve
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Eipuru tapykueho ñemo'ã kundaha ñemigua ejoko hag̃ua jeporekeha kuaapyréva
-    .accesskey = v
 tracking-exceptions =
     .label = Oĩ'ỹva…
     .accesskey = v
