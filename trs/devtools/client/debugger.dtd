@@ -22,19 +22,24 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
+<!ENTITY debuggerUI.blackBoxMessage.label "Kodigo na ni run' 'iaj sun 'ngoò chrûun 'iaj sun ma: hua da'aj ni na'niïnj ma sani da'aj ni na'ue gatu'.">
 
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Dunaj si gasarunt ru' 'iaj sun 'ngà 'ngò chrûun kodigo na">
 
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
+<!ENTITY debuggerUI.optsButton.tooltip  "Daj nagi'iaj niñu'">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Chrûun marūu">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
+<!ENTITY debuggerUI.sources.prettyPrint "Nagi'iaj hu'e' kodigo fuente">
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
