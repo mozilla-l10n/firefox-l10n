@@ -91,9 +91,9 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  moveTabOptions.label               "ย้ายแท็บ">
-<!ENTITY  moveTabOptions.accesskey           "ย">
+<!ENTITY  moveTabOptions.accesskey           "บ">
 <!ENTITY  moveSelectedTabOptions.label       "ย้ายแท็บ">
-<!ENTITY  moveSelectedTabOptions.accesskey   "ย">
+<!ENTITY  moveSelectedTabOptions.accesskey   "บ">
 <!ENTITY  moveToStart.label                  "ย้ายไปยังจุดเริ่มต้น">
 <!ENTITY  moveToStart.accesskey              "ย">
 <!ENTITY  moveToEnd.label                    "ย้ายไปยังจุดสิ้นสุด">
@@ -168,7 +168,7 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "ม">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "พ">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "เลือกแท็บทั้งหมด">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "ล">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "เลิกทำการปิดแท็บ">
