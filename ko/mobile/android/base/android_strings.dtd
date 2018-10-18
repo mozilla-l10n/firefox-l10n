@@ -363,7 +363,6 @@
 <!ENTITY pref_use_system_font_size_summary "시스템 폰트 크기에 따라 웹 컨텐츠 조정">
 
 <!ENTITY pref_media_autoplay_enabled "자동 재생 허가">
-<!ENTITY pref_media_autoplay_enabled_summary "웹 사이트의 영상이나 다른 미디어 콘텐츠에 대한 자동 재생 권한 설정">
 <!ENTITY pref_media_autoplay_allow "자동 재생 허용">
 <!ENTITY pref_media_autoplay_block "자동 재생 차단">
 <!ENTITY pref_zoom_force_enabled "항상 줌 활성화">
@@ -828,9 +827,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "&brandShortName;를 열 수 없습니다. 재설치 후 다시 시도하시기 바랍니다.">
 
-<!ENTITY eol_notification_title2 "&brandShortName;를 더이상 업데이트 하지 않음">
-<!ENTITY eol_notification_summary "탭해서 자세히 보기">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName;가 최신버전입니다">
@@ -904,3 +900,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; 푸시 알림">
 <!ENTITY updater_notification_channel "앱 업데이트">
 <!ENTITY synced_tabs_notification_channel "동기화된 탭">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "사이트 알림">
