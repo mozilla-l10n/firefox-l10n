@@ -158,9 +158,14 @@
 <!ENTITY wifi_auth_scan_request "Riña gatujt ni ni'ñanj ma doj nugua'an da' nani'in ma konexiô. Ni'iaj si hua' hue'e kodigo QR 'ngà a'ngo si aga't.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "Nitaj sa ni'iaj daj hua Qr nikaj ra'?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Ni'ñanj 'ngo sa ni'iaj daj hua Qr aj?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Si sā achín si aga't ga'ui't luga garasun't eskaner kodigo Qr, gi'iaj suntuj u ni gida'ajt ma da' garasunt riña a'ngò aga'a:">
+<!ENTITY wifi_auth_qr_size_note "Si sā ûta hua lij kodigo QR guenda gà konexion, ni ga'ue nagi'iaj yachijt si ventanat ni sa ma riñan ma.">
 
 <!-- Logs panel -->
+<!ENTITY logs_title "Nuto' nej komando">
