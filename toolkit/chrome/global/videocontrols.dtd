@@ -11,6 +11,10 @@
 <!ENTITY castingButton.castingLabel "Predvajaj na zaslonu">
 <!ENTITY closedCaption.off "Izklopljeno">
 
+<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
+     accessibility software to clarify what the slider is for. -->
+<!ENTITY volumeScrubber.label "Drsnik za glasnost">
+
 <!ENTITY stats.media "Vsebina">
 <!ENTITY stats.size "Velikost">
 <!ENTITY stats.activity "Stanje">
@@ -47,3 +51,4 @@ unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
 <!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
+
