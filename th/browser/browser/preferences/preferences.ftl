@@ -652,7 +652,7 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .accesskey = ต
 content-blocking-tracking-protection-trackers-label =
     .label = ตัวติดตาม
-    .accesskey = ต
+    .accesskey = ว
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = ตัวติดตามที่ตรวจพบทั้งหมด
     .accesskey = ว
@@ -671,13 +671,13 @@ content-blocking-change-cookie-settings =
     .accesskey = ป
 content-blocking-reject-trackers-block-trackers-option-recommended =
     .label = ตัวติดตาม (แนะนำ)
-    .accesskey = ต
+    .accesskey = ด
 content-blocking-reject-trackers-block-trackers-option =
     .label = ตัวติดตาม
     .accesskey = ต
 content-blocking-reject-trackers-all-third-parties-option =
     .label = คุกกี้จากบุคคลที่สามทั้งหมด (อาจส่งผลให้เว็บไซต์ไม่สมบูรณ์)
-    .accesskey = ค
+    .accesskey = ก
 
 ## Privacy Section - Tracking
 
