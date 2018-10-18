@@ -98,8 +98,10 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  reopenInContainer.accesskey        "у">
 <!ENTITY  bookmarkAllTabs.label              "Закладкі на ўсе карткі…">
 <!ENTITY  bookmarkAllTabs.accesskey          "к">
+<!ENTITY  bookmarkTab.label                  "Дадаць закладку на картку">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "ь">
 <!ENTITY  undoCloseTab.label                 "Адмяніць закрыццё карткі">
 <!ENTITY  undoCloseTab.accesskey             "А">
 <!ENTITY  closeTab.label                     "Закрыць картку">
@@ -141,18 +143,26 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Закладкі на ўсе карткі…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "к">
 
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Абнавіць вылучаную картку">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "к">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Абнавіць выбраныя карткі">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "к">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Закладку на выбраную картку…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "З">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Закладкі на выбраныя карткі…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "З">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Выбраць усе карткі">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "ы">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Адмяніць закрыццё карткі">
