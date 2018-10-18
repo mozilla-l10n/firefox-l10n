@@ -68,6 +68,11 @@ permissions-exceptions-tracking-protection-window =
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = U hebt Bescherming tegen volgen uitgeschakeld op deze websites.
 
+permissions-exceptions-content-blocking-window =
+    .title = Uitzonderingen - Inhoudsblokkering
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = U hebt inhoudsblokkering uitgeschakeld op deze websites.
+
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
