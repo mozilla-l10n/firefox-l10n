@@ -443,6 +443,9 @@
 <!ENTITY openConversationCmd.label "Ldi deg udiwenni">
 <!ENTITY openConversationCmd.accesskey "d">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openInConversationCmd.label "Ldi deg udiwenni">
+<!ENTITY openInConversationCmd.accesskey "L">
+<!ENTITY openInConversationCmd.key "i">
 <!ENTITY openAttachmentListCmd.label "Ticeqqufin yeddan">
 <!ENTITY openAttachmentListCmd.accesskey "c">
 <!ENTITY openFeedMessage1.label "Ticki teldiḍ iznan n usuddem">

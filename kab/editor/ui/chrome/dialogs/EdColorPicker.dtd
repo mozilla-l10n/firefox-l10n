@@ -8,6 +8,9 @@
 <!ENTITY setColor1.label "Sit ɣef tiɣmi neɣ">
 <!ENTITY setColor2.label "sekcem azrar n tiɣmi HTML">
 <!ENTITY setColor2.accessKey "H">
+<!ENTITY chooseColor1.label "Fren ini:">
+<!ENTITY chooseColor2.label "Sekcem azrir n yini HTML">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(amedya.: &quot;#0000ff&quot; neɣ &quot;blue&quot;):">
 <!ENTITY default.label "Amezwer">
 <!ENTITY default.accessKey "A">
