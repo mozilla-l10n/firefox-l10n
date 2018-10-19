@@ -134,6 +134,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "d">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "Taakbeheerder">
+
 <!ENTITY goOfflineCmd.label "Offline werken">
 <!ENTITY goOfflineCmd.accesskey "f">
 
@@ -1026,6 +1028,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection.add.label "Blokkering toevoegen…">
 
 <!ENTITY contentBlocking.3rdPartyCookies.label "Cookies van derden">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Tracking-cookies">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
