@@ -140,7 +140,26 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "B">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Egin fitxa guztien laster-marka…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Berritu hautatutako fitxa">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "B">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Berritu hautatutako fitxak">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "B">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Egin hautatutako fitxaren laster-marka…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "h">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Egin hautatutako fitxen laster-marka…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "h">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Hautatu fitxa guztiak">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "z">
@@ -588,9 +607,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Berritu markoa">
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ikusi aukeraren iturburua">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Ikusi MathML iturburua">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "u">
 <!ENTITY viewPageSourceCmd.label      "Ikusi orriaren iturburua">
 <!ENTITY viewPageSourceCmd.accesskey  "o">
@@ -807,7 +823,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Eginda">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Erakutsi editorea gordetzean">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "E">
 
@@ -958,9 +973,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Fitxatik datorren audioa partekatu egingo da.">
 <!ENTITY getUserMedia.allWindowsShared.message "Zure pantailan ikusgai dauden leiho guztiak partekatuko dira.">
 
-<!ENTITY trackingProtection.on "Jarraipenaren babesa: piztuta">
-<!ENTITY trackingProtection.off "Jarraipenaren babesa: itzalita">
-
 <!ENTITY contentBlocking.title "Edukia blokeatzea">
 <!ENTITY contentBlocking.detected "Blokeatu daitekeen edukia antzeman da gune honetan.">
 <!ENTITY contentBlocking.notDetected "Ez da blokeatu daitekeen edukirik antzeman orri honetan.">
@@ -1019,28 +1031,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Jarraipenaren babesa">
 <!ENTITY trackingProtection.tooltip "Ireki jarraipenaren babesaren hobespenak">
-<!ENTITY trackingProtection.detectedBlocked4 "Zure nabigazioaren jarraipena egin lezaketen orri honen zatiak blokeatzen ari da &brandShortName;.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "Zure nabigazioaren jarraipena egin lezaketen elementuak antzeman ditu &brandShortName;(e)k.">
-<!ENTITY trackingProtection.detectedException "Zure nabigazioaren jarraipena egin lezaketen zatiak antzeman ditu &brandShortName;(e)k. Babesa desgaituta daukazu orri honetarako.">
-<!ENTITY trackingProtection.notDetected5 "Ez da jarraipeneko elementurik antzeman orri honetan.">
-<!ENTITY trackingProtection.notDetectedException "Ez da jarraipeneko elementurik antzeman orri honetan. Babesa desgaituta daukazu orri honetarako.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Jarraipenaren babesa gaituta daukazu. Berritu orria elementu guztiak blokeatzeko.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Desgaitu gune honetarako">
-<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!ENTITY trackingProtection.unblock4.label "Desgaitu blokeatzea gune honetarako">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Desgaitu saio honetarako">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "Gaitu gune honetarako">
-<!ENTITY trackingProtection.block4.accesskey "G">
 <!ENTITY trackingProtection.unblockPrivate4.label "Desgaitu blokeatzea behin-behinean">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Gaitu blokeatzea gune honetarako">
@@ -1150,7 +1149,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Gailuak sinkronizatzen…">
 
 <!ENTITY pageAction.shareUrl.label "Partekatu">
-
 <!ENTITY pageAction.shareMore.label "Gehiago…">
 
 <!ENTITY libraryButton.tooltip "Ikusi historia, gordetako laster-markak eta gehiago">

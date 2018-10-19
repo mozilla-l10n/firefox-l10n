@@ -53,6 +53,7 @@ pane-sync-title = Firefox kontua
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } laguntza
+addons-button-label = Hedapenak eta gaiak
 focus-search =
     .key = f
 close-button =
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Sareko proxy-a
 network-settings-title = Sareko ezarpenak
 network-proxy-connection-description = Konfiguratu { -brand-short-name } nola konektatzen den Internetera.
 network-proxy-connection-learn-more = Argibide gehiago
@@ -592,26 +592,12 @@ sitedata-total-size-calculating = Gunearen datuen eta cachearen tamaina kalkulat
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Gordetako zure cookiek, gunearen datuek eta cacheak une honetan { $value } { $unit } hartzen dute diskoan.
 sitedata-learn-more = Argibide gehiago
-sitedata-accept-cookies-option =
-    .label = Onartu webguneetako cookie eta datuak (gomendatua)
-    .accesskey = O
-sitedata-block-cookies-option =
-    .label = Blokeatu webguneetako cookie eta datuak (webguneak haustea eragin lezake)
-    .accesskey = B
 sitedata-keep-until = Mantentze-epea
     .accesskey = M
 sitedata-keep-until-expire =
     .label = Iraungitzea
 sitedata-keep-until-closed =
     .label = { -brand-short-name } itxi arte
-sitedata-accept-third-party-desc = Onartu hirugarren guneetako cookie eta datuak
-    .accesskey = h
-sitedata-accept-third-party-always-option =
-    .label = Beti
-sitedata-accept-third-party-visited-option =
-    .label = Bisitatutako guneetatik
-sitedata-accept-third-party-never-option =
-    .label = Inoiz ez
 sitedata-allow-cookies-option =
     .label = Onartu cookieak eta guneetako datuak
     .accesskey = O
@@ -735,10 +721,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Inoiz ez
     .accesskey = I
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Babestu jarraipena egiteaz ezagunak diren guneetatik nabigatze pribatuan
-    .accesskey = b
 tracking-exceptions =
     .label = Salbuespenak…
     .accesskey = S
