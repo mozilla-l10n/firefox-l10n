@@ -89,7 +89,9 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "n">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "ٹیب منتقل کریں">
 <!ENTITY  moveTabOptions.accesskey           "v">
+<!ENTITY  moveSelectedTabOptions.label       "ٹیب منتقل کریں">
 <!ENTITY  moveSelectedTabOptions.accesskey   "v">
 <!ENTITY  moveToStart.accesskey              "S">
 <!ENTITY  moveToEnd.accesskey                "E">
@@ -118,7 +120,7 @@ These items have the same accesskey but will never be visible at the same time. 
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "محل وقوع کھولیں…">
-<!ENTITY openFileCmd.label "مسل کھولیں…">
+<!ENTITY openFileCmd.label "فائل کھولیں…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "صفحہ سیٹ اپ…">
