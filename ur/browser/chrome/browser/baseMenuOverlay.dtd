@@ -6,7 +6,7 @@
 <!ENTITY minimizeWindow.label     "چھوٹا کریں">
 <!ENTITY bringAllToFront.label    "تمام سامنے لائیں">
 <!ENTITY zoomWindow.label         "زوم کریں">
-<!ENTITY windowMenu.label         "دریچہ">
+<!ENTITY windowMenu.label         "ونڈوں">
 
 <!ENTITY helpMenu.label           "مدد"> 
 <!ENTITY helpMenu.accesskey       "م"> 
@@ -27,9 +27,6 @@
 <!ENTITY helpSafeMode.accesskey   "د">
 <!ENTITY helpSafeMode.stop.label       "ایڈ اون اہل کر کے دوباره شروع کریں">
 <!ENTITY helpSafeMode.stop.accesskey   "د">
-
-<!ENTITY healthReport2.label      "&brandShorterName; تندرستی رپورٹ">
-<!ENTITY healthReport2.accesskey  "ت">
 
 <!ENTITY helpTroubleshootingInfo.label      "ازالہ کاری معلومات">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ا">

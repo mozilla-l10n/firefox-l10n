@@ -273,7 +273,7 @@ home-new-windows-tabs-header = نئے دریچے اور ٹیبس
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = ابتدائی صفحہ اور نیا دریچہ
+home-homepage-mode-label = ابتدائی صفحہ اور نیا ونڈوں
 home-newtabs-mode-label = نئے ٹیبس
 home-restore-defaults =
     .label = طےشدہ بحال کریں

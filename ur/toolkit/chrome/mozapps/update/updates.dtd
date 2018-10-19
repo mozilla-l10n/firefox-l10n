@@ -15,7 +15,7 @@
 <!ENTITY  manualUpdate.space.desc         "تجویز کردہ سلامتی اور سٹیبلیٹی تازہ کاری دستیاب ہے، لیکن آپ کے پاس اسے تنصیب کرنے کی جگہ دستیاب نہیں۔">
 <!ENTITY  manualUpdateGetMsg.label        "آپ کسی بھی وقت &brandShortName; کا تازہ ترین ورژن یہاں سے لے سکتے ہیں:">
 
-<!ENTITY  unsupported.title               "نظام غیر معاون ">
+<!ENTITY  unsupported.title               "سسٹم غیر معاون">
 <!ENTITY  unsupported.label               "                 آپ کا &brandShortName; متروک ہو چکا ہے، لیکن نیا ورژن اپ کے نظام پر معاونت شدہ نہیں ہے۔ اپنے نظام کو درجہ افزوں کریں، اور پھر کوشش کریں۔آپ یہ اطلاع نامہ دوبارہ نہں دیکھیں گے، پر اپ">
 <!ENTITY  unsupportedLink.label           "مزید سیکھیں۔">
 

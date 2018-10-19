@@ -25,7 +25,7 @@
 <!ENTITY fileMenu.label               "مسل">
 <!ENTITY fileMenu.accesskey           "م">
 
-<!ENTITY newWindowCmd.label           "نیا دریچہ">
+<!ENTITY newWindowCmd.label           "نیا ونڈوں">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 

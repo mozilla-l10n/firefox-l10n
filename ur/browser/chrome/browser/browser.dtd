@@ -234,7 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "آپ کے نشان کار کا کنٹرول ہے۔ Esc دبا کر کنٹرول واپس لیں">
 <!ENTITY pointerlockWarning.generic.label "اس دستاویز کہ پاس آپ کہ نشان کار کا کنٹرول ہے ۔ کنٹرول واپس حاصل کرنے کے لیے Esc دبائیں ۔">
 
-<!ENTITY closeWindow.label "دریچہ بند کریں">
+<!ENTITY closeWindow.label "ونڈوں بند کریں">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "بک مارک">
@@ -375,10 +375,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "کنٹینرز کا انتظام کریں">
 <!ENTITY manageUserContext.accesskey      "O">
-<!ENTITY newNavigatorCmd.label        "نیا دریچہ">
+<!ENTITY newNavigatorCmd.label        "نیا ونڈوں">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "نیا نجی دریچہ">
+<!ENTITY newPrivateWindow.label     "نیا نجی ونڈوں">
 <!ENTITY newPrivateWindow.accesskey "W">
 
 <!ENTITY editMenu.label         "تدوین کریں">
@@ -1056,7 +1056,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteCookies           "حالیہ <html:strong>کوکیاں</html:strong> حذف کریں">
 <!ENTITY panicButton.view.deleteHistory           "حالیہ <html:strong>تاریخ</html:strong> حذف کریں ">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "تمام <html:strong>ٹیب</html:strong> اور <html:strong>دریچے</html:strong> بند کر دیں">
-<!ENTITY panicButton.view.openNewWindow           "ایک نیا صاف دریچہ کھولیں">
+<!ENTITY panicButton.view.openNewWindow           "ایک نیا صاف ونڈوں کھولیں">
 
 <!ENTITY panicButton.view.undoWarning             "یہ عمل کلعدم نہیں ہو سکتا۔">
 <!ENTITY panicButton.view.forgetButton            "بھول جائیں!">
