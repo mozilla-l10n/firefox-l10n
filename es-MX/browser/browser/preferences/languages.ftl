@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Idiomas y codificación de caracteres
-    .style = width: 30em
 webpage-languages-window =
     .title = Ajustes de idioma para la página web
     .style = width: 40em
@@ -45,3 +42,10 @@ browser-languages-window =
     .title = { -brand-short-name } ajustes de idioma
     .style = width: 40em
 browser-languages-description = { -brand-short-name } mostrará el primer idioma como el predeterminado e irá mostrando idiomas alternativos si es necesario en orden que aparecen.
+browser-languages-search = Buscar más idiomas…
+browser-languages-searching =
+    .label = Buscando idiomas…
+browser-languages-downloading =
+    .label = Descargando...
+browser-languages-installed-label = Idiomas instalados
+browser-languages-available-label = Idiomas disponibles
