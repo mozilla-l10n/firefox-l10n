@@ -47,9 +47,9 @@
 <!ENTITY cmd.open.label                  "کھولیں">
 <!ENTITY cmd.open.accesskey              "ک">
 <!ENTITY cmd.open_window.label           "نئے دریچے میں کھولیں">
-<!ENTITY cmd.open_window.accesskey       "ن">
+<!ENTITY cmd.open_window.accesskey       "N">
 <!ENTITY cmd.open_private_window.label     "ربط نئے نجی دریچے میں کھولیں">
-<!ENTITY cmd.open_private_window.accesskey "ن">
+<!ENTITY cmd.open_private_window.accesskey "P">
 <!ENTITY cmd.open_tab.label              "نئی ٹیب میں کھولیں">
 <!ENTITY cmd.open_tab.accesskey          "ن">
 <!ENTITY cmd.open_all_in_tabs.label      "تمام ٹیبوں میں کھولیں">
@@ -73,15 +73,11 @@
 <!ENTITY cmd.reloadLivebookmark.label      "لایو نشانی پھر لوڈ کریں">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "پ">
 
-<!ENTITY cmd.moveBookmarks.label                  "بڑھائیں…">
-<!ENTITY cmd.moveBookmarks.accesskey              "ب">
-
 <!ENTITY col.name.label          "نام">
 <!ENTITY col.tags.label          "ٹیگ">
 <!ENTITY col.url.label           "محل وقوع">
 <!ENTITY col.mostrecentvisit.label "سب سے حالیہ مصاحبہ">
 <!ENTITY col.visitcount.label    "ملاحظہ شماری">
-<!ENTITY col.description.label   "تصریح">
 <!ENTITY col.dateadded.label     "اضافہ شدہ">
 <!ENTITY col.lastmodified.label  "آخری بار ترمیم کردہ">
 
@@ -98,10 +94,6 @@
 
 <!ENTITY forwardButton.tooltip  "آگے بڑھیں">
 
-<!ENTITY detailsPane.more.label "مزید">
-<!ENTITY detailsPane.more.accesskey "م">
-<!ENTITY detailsPane.less.label "کم">
-<!ENTITY detailsPane.less.accesskey "ک">
 <!ENTITY detailsPane.selectAnItemText.description "شے کے خواص نظارہ اور تدوین کرنے کے لیے اسے منتخب کریں">
 
 <!ENTITY view.label               "نظارہ">

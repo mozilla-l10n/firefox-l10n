@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "آپ فی الحال نجی دریچے میں نہیں۔">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label     "آیک نجی دریچہ کھولیں">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ن">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "ایک نجی ونڈوں مے کھولیں">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                           "نجی براوزنگ">
 <!ENTITY privateBrowsing.title.tracking                  "ٹریکنگ پروٹیکشن کے ساتھ نجی براؤزنگ">

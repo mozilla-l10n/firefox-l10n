@@ -26,7 +26,7 @@
 <!ENTITY fileMenu.accesskey           "م">
 
 <!ENTITY newWindowCmd.label           "نیا دریچہ">
-<!ENTITY newWindowCmd.accesskey       "ن">
+<!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "مسل کھولیں…">
