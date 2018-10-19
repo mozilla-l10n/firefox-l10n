@@ -92,11 +92,15 @@ restart-later = Later herstarten
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = Een extensie, <img data-l10n-name="icon"/> { $name }, beheert uw startpagina.
+extension-controlled-homepage-override = Een extensie, <img data-l10n-name="icon"/> { $name }, heeft beheer over uw startpagina.
 
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = Een extensie, <img data-l10n-name="icon"/> { $name }, beheert uw nieuw-tabbladpagina.
+extension-controlled-new-tab-url = Een extensie, <img data-l10n-name="icon"/> { $name }, heeft beheer over uw nieuw-tabbladpagina.
+
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications= Een extensie, <img data-l10n-name="icon"/> { $name }, heeft beheer over deze instelling.
 
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
