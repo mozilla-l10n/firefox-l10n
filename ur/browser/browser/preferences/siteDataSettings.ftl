@@ -20,10 +20,10 @@ site-data-column-last-used =
     .label = آخری استعمال
 site-data-remove-selected =
     .label = نبتخب شدہ ہٹائیں
-    .accesskey = ر
+    .accesskey = R
 site-data-button-cancel =
     .label = منسوخ کریں
-    .accesskey = م
+    .accesskey = C
 site-data-button-save =
     .label = تبدیلیاں محفوظ کریں
     .accesskey = a
@@ -37,7 +37,7 @@ site-data-remove-all =
     .accesskey = e
 site-data-remove-shown =
     .label = تمام دکھایا ہوا ہٹائیں
-    .accesskey = و
+    .accesskey = e
 
 ## Removing
 

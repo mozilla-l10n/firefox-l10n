@@ -23,6 +23,7 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "تمام ٹیب پھر لوڈ کریں">
 <!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  selectAllTabs.label                "تمام ٹیب منتخب کریں">
 <!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
@@ -33,15 +34,16 @@ a tab (i.e. it is a verb, not adjective). -->
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "دائیں طرف کے ٹیب بند کریں">
-<!ENTITY  closeTabsToTheEnd.accesskey        "د">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "دیگر ٹیب بند کر دیں">
-<!ENTITY  closeOtherTabs.accesskey           "د">
+<!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!ENTITY  closeSelectedTabs.label            "منتخب کردہ ٹیب بند کریں">
+<!ENTITY  closeSelectedTabs.label            "منتخب ٹیب بند کریں">
 <!ENTITY  closeSelectedTabs.accesskey        "S">
 
+<!ENTITY  closeTabs.label                    "ٹیب بند کریں">
 <!ENTITY  closeTabs.accesskey                "S">
-<!ENTITY  pinSelectedTabs.label              "ٹیب لگا دیں">
+<!ENTITY  pinSelectedTabs.label              "ٹیب پن کریں">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
@@ -53,12 +55,11 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "p">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
-<!ENTITY  reloadSelectedTabs.label           "منتخب کردہ ٹیب دوبارہ لوڈ کریں">
-<!ENTITY  reloadSelectedTabs.accesskey       "R
-
-">
+<!ENTITY  reloadSelectedTabs.label           "منتخب ٹیب دوبارہ لوڈ کریں">
+<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "ٹیب دوبارہ لوڈ کریں">
 <!ENTITY  reloadTabs.accesskey               "R">
 <!ENTITY  bookmarkSelectedTabs.label         "ٹیب بک مارک کریں…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
@@ -70,7 +71,7 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "ٹیب لگا دیں">
+<!ENTITY  pinTab.label                       "ٹیب پن کریں">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->

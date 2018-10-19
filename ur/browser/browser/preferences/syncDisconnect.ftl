@@ -12,7 +12,7 @@ sync-disconnect-remove-other-data = کوکیاں کیسہ آفلائن ویبس�
 sync-disconnect-disconnecting = منقطع کر رہا ہے۔۔۔
 sync-disconnect-cancel =
     .label = منسوخ کریں
-    .accesskey = چ
+    .accesskey = C
 
 ## Disconnect confirm Button
 ##
@@ -21,7 +21,7 @@ sync-disconnect-cancel =
 
 sync-disconnect-confirm-disconnect-delete =
     .label = منقطع اور حزف کریں
-    .accesskey = د
+    .accesskey = D
 sync-disconnect-confirm-disconnect =
     .label = بس منقطع کریں
     .accesskey = D
