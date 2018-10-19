@@ -18,7 +18,7 @@
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; مدد">
 <!ENTITY productHelp2.accesskey   "H">
-<!ENTITY helpMac.commandkey       "؟">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     " کلیدی تختہ تیز راہیں">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
@@ -38,7 +38,7 @@
 <!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "ترجیحات ...">
-<!ENTITY preferencesCmdMac.commandkey   "،">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "خدمات">
 
