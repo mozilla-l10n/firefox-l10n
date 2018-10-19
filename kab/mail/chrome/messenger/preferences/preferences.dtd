@@ -11,9 +11,6 @@
 <!ENTITY  prefWindow.titleWin     "Iɣewwaṛen">
 <!ENTITY  prefWindow.titleGNOME   "Ismenyifen n &brandShortName;">
 <!ENTITY  prefWindow.titleMAC     "Ismenyifen">
-<!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
-<!ENTITY  prefWindow.styleMac     "width: 52em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Amatu">
 <!ENTITY paneDisplay.title        "Sken">
@@ -22,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Imeddayen">
 <!ENTITY panePrivacy.title        "Tabaḍnit">
 <!ENTITY paneSecurity.title       "Taɣellist">
+<!ENTITY paneLightning.title      "Awitay">
 <!ENTITY paneAdvanced.title       "Leqqayen">
 <!ENTITY paneAccount.title        "Imiḍanen">
 
