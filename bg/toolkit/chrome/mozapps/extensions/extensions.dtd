@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Управление на добавки">
 
 <!ENTITY search.placeholder2                  "Търсене в addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "търсене в addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Търсене">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +43,10 @@
 <!ENTITY view.discover.label                  "Повече добавки">
 <!ENTITY view.recentUpdates.label             "Скорошни обновявания">
 <!ENTITY view.availableUpdates.label          "Налични обновявания">
+
+<!ENTITY helpButton.label                      "Поддръжка">
+<!ENTITY preferencesWin.label                  "Настройки на &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Настройки на &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Проверка за обновяване">
@@ -80,8 +86,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "Н">
 <!ENTITY cmd.preferencesUnix.label            "Настройки">
 <!ENTITY cmd.preferencesUnix.accesskey        "Н">
-<!ENTITY cmd.about.label                      "Относно">
-<!ENTITY cmd.about.accesskey                  "О">
 
 <!ENTITY cmd.enableAddon.label                "Включване">
 <!ENTITY cmd.enableAddon.accesskey            "В">
@@ -160,13 +164,6 @@
 <!ENTITY progress.pause.tooltip               "Пауза">
 <!ENTITY progress.cancel.tooltip              "Прекъсване">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Наименование">
-<!ENTITY sort.name.tooltip                    "Сортиране по име">
-<!ENTITY sort.dateUpdated.label               "Последно обновяване">
-<!ENTITY sort.dateUpdated.tooltip             "Сортиране по дата на обновяване">
-
 <!ENTITY addon.homepage                       "Страница">
 <!ENTITY addon.details.label                  "Повече">
 <!ENTITY addon.details.tooltip                "Показване на повече подробности за тази добавка">
@@ -208,17 +205,6 @@
 <!ENTITY eula.accept                          "Приемане и инсталиране…">
 
 <!ENTITY settings.path.button.label           "Разглеждане…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Какво е това? Телеметрията може да инсталира и пуска експерименти от време на време.">
-<!ENTITY experiment.info.learnmore "Научете повече">
-<!ENTITY experiment.info.learnmore.accesskey "Н">
-<!ENTITY experiment.info.changetelemetry "Настройки на телеметрията">
-<!ENTITY experiment.info.changetelemetry.accesskey "Н">
 
 <!ENTITY setting.learnmore "Научете повече…">
 
