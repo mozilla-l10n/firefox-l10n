@@ -5,6 +5,7 @@
 
 <!ENTITY search.placeholder2                  "Eheka addons.mozilla.org pe">
 
+<!ENTITY search.placeholder3                  "Eheka addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Heka">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -43,6 +44,7 @@
 <!ENTITY view.recentUpdates.label             "Ñembohekopyahu ramovéva">
 <!ENTITY view.availableUpdates.label          "Ñembohekopyahu eipurukuaáva">
 
+<!ENTITY helpButton.label                      "Moimbaha jokoha">
 <!ENTITY preferencesWin.label                  "&brandShortName; Poravopyrã">
 <!ENTITY preferencesUnix.label                 "&brandShortName; Jerohoryvéva">
 
