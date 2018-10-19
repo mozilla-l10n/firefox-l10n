@@ -164,9 +164,13 @@ same accesskey but will never be visible at the same time. -->
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Pievienot izvēlētās cilnes grāmatzīmēm…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Izvēlēties visas cilnes">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Atsaukt cilnes aizvēršanu">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
 
@@ -834,6 +838,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Lapas drošība">
 
+<!ENTITY identity.connection "Savienojums">
 <!ENTITY identity.connectionSecure "Drošs savienojums">
 <!ENTITY identity.connectionNotSecure "Savienojums nav drošs">
 <!ENTITY identity.connectionFile "Šī lapa ir saglabāta jūsu datorā.">
@@ -997,6 +1002,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "Pievienot bloķēšanu…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "Visus atrastos sekotājus">
+<!ENTITY contentBlocking.trackingProtection3.label "Izsekotāji">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is

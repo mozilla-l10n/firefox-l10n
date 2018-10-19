@@ -10,8 +10,8 @@
 <!ENTITY returnToPreviousPage.label "Iet atpakaļ">
 <!ENTITY returnToPreviousPage1.label "Iet atpakaļ (ieteicams)">
 <!ENTITY advanced.label "Papildu">
-
-<!ENTITY continue.label "Turpināt">
+<!ENTITY continue2.label "Vairāk…">
+<!ENTITY moreInformation.label "Vairāk informācijas">
 
 <!-- Specific error messages -->
 
@@ -92,12 +92,11 @@
 
 <!ENTITY certerror.longpagetitle1 "Savienojums nav drošs">
 <!ENTITY certerror.longpagetitle2 "Brīdinājums: Potenciāls drošības risks">
-<!-- Localization note (certerror.introPara, certerror.introPara1) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Lapas <span class='hostname'/> saimnieks ir nepareizi nokonfigurējis savu lapu. Lai pasargātu jūs no informācijas zādzības, &brandShortName; nesavienojas ar šo lapu.">
-
-<!ENTITY certerror.introPara1 "&brandShortName; atklāja iespējamu drošības risku un neturpināja <span class='hostname'/> ielādi. Ja turpināsiet uzbrucēji var nozagt jūsu privāto informāciju, piemēram paroles, epastus vai kredītkartes. ">
+<!ENTITY certerror.introPara2 "&brandShortName; atklāja potenciālus draudus drošībai un nepārgāja uz <span class='hostname'/>. Ja apmeklējat šo vietni, uzbrucēji varētu mēģināt nozagt informāciju, piemēram, jūsu paroles, e-pastus vai kredītkartes datus.">
 
 <!ENTITY certerror.expiredCert.secondPara "Šī iemesls visdrīzāk ir nepareizi nokonfigurēts jūsu datora pulkstenis, kas liedza &brandShortName; izveidot drošu savienojumu.">
 
@@ -107,8 +106,8 @@ was trying to connect. -->
 <p>Problēma visdrīzāk ir saistīta ar mājas lapu un jūs neko nevarat darīt, lai to atrisinātu.</p>
 <p>Ja izmantojat uzņēmuma tīklu vai pretvīrusu programmu, varat lūgt palīdzīgu lietotāju atbalsta nodaļai. Tāpat varat ziņot lapas īpašniekiem par šo problēmu.</p>">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>Jūsu datora pulkstenis ir iestatīts uz <span id='wrongSystemTime_systemDate'/>. Pārliecinieties, ka jūsu datorā ir iestatīts pareizs datums, laiks un laika zona un tad mēģiniet pārlādēt <span class='hostname'/>.</p>
-<p>Ja jūsu datora pulkstenis ir pareizs, visdrīzāk šī ir lapas problēma un vienīgais ko jūs varat darīt ir ziņot lapas administratoram par šo problēmu.</p>">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Jūsu datora pulkstenis ir iestatīts uz <span id='wrongSystemTime_systemDate2'/>. Pārliecinieties, vai jūsu sistēmas iestatījumos ir iestatīts pareizais datums, laiks un laika josla, un pēc tam atsvaidziniet <span class='hostname'/>.</p>
+<p>Ja jūsu pulkstenis jau ir iestatīts pareizajā laikā, iespējams, ka vietne ir nepareizi konfigurēta, un jūs nevarat neko darīt, lai atrisinātu problēmu. Jūs varat informēt vietnes administratoru par problēmu.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Visdrīzāk šī ir lapas problēma un vienīgais ko jūs varat darīt ir ziņot lapas administratoram par šo problēmu.</p>">
 
@@ -122,6 +121,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Pieļaut izņēmumu...">
+<!ENTITY securityOverride.exceptionButton1Label "Pieņemt risku un turpināt">
 
 <!ENTITY errorReporting.automatic2 "Ziņojiet par šādām kļūdām Mozilla, lai varētu identificēt un bloķēt kaitnieciskas lapas">
 <!ENTITY errorReporting.learnMore "Uzzināt vairāk…">
@@ -152,6 +152,9 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> izmanto novecojušu un nedrošu drošības tehnoloģiju. Uzbrucējs varētu piekļūt informācijai, kuru uzskatījāt par droši aizsargātu. Lapas administratoram vajadzēs salabot serveri, pirms varēsiet apmeklē lapu.</p><p>Kļūdas kods: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Bloķēta lapa">
+
+<!ENTITY clockSkewError.title "Jūsu datora pulkstenis ir nepareizs">
+<!ENTITY clockSkewError.longDesc "Jūsu dators uzskata, ka tas ir <span id='wrongSystemTime_systemDate1'/>, kas neļauj &brandShortName; droši savienoties. Lai apmeklētu <span class='hostname'></span>, atjauniniet sava datora pulksteni jūsu sistēmas iestatījumos uz pašreizējo datumu, laiku un laika joslu un pēc tam atsvaidziniet <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Izskatās, ka jūsu tīkla drošības iestatījumi varētu bū pie vainas. Vai vēlaties atjaunot noklusētos iestatījumus?">
 <!ENTITY prefReset.label "Atjaunot noklusētos iestatījumus">
