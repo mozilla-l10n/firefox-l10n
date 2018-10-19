@@ -690,6 +690,7 @@
 <!ENTITY contentBlocking.trackingProtection.blocking.label "Bloccati">
 <!ENTITY contentBlocking.trackingProtection.add.label "Attiva blocco…">
 <!ENTITY contentBlocking.3rdPartyCookies.label "Cookie di terze parti">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Cookie traccianti">
 <!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Bloccati">
 <!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Bloccati">
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Attiva blocco…">
