@@ -35,9 +35,9 @@
 <!ENTITY warning.checkcompatibility.label          "Compatibiliteitscontrole voor add-ons is uitgeschakeld. Mogelijk hebt u incompatibele add-ons.">
 <!ENTITY warning.checkcompatibility.enable.label   "Inschakelen">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Add-on-compatibiliteitscontrole inschakelen">
-<!ENTITY warning.updatesecurity.label              "Veiligheidscontrole voor add-on-updates is uitgeschakeld. Mogelijk loopt u een veiligheidsrisico door updates.">
+<!ENTITY warning.updatesecurity.label              "Beveiligingscontrole voor add-on-updates is uitgeschakeld. Mogelijk loopt u een beveiligingsrisico door updates.">
 <!ENTITY warning.updatesecurity.enable.label       "Inschakelen">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Add-on-veiligheidscontrole inschakelen">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Beveiligingscontrole voor add-on-updates inschakelen">
 
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Add-ons verkrijgen">
