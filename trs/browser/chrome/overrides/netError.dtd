@@ -10,7 +10,6 @@
 <!ENTITY returnToPreviousPage.label "Nanikàj rukù">
 <!ENTITY returnToPreviousPage1.label "Nanikàj ruku' (Sa sā' huin)">
 <!ENTITY advanced.label "Sa huaj ñaa">
-
 <!ENTITY continue2.label "Doj…">
 <!ENTITY moreInformation.label "Doj nuguan' a'min rayi'î nan">
 
@@ -57,6 +56,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Ngà gire' ñanj na">
+<!ENTITY notCached.longDesc "<p>Nitaj si nu ñaj nana'ui't riña cache &brandShortName;.</p><ul><li>Guenda ga yitiïnj, &brandShortName; ni si gachín da' nana'ui' ma'an ma ñaj hua ahi</li><li>Ga'ui' riña taj garahue ñu' da' gachinjt ñaj na riña sitio web.</li></ul>">
 
 <!ENTITY netOffline.title "Si gida'aj internet">
 
@@ -101,13 +101,16 @@
  </ul>">
 
 <!ENTITY nssFailure2.title "Gire' conexión hia">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+ <li>Ñaj ni'iaj ruat ni si ga'ue nayi'ni ma dadi' nuni'in' si hua sa' ma, nitaj ni'in daj huaj. </li>
+<li>Gi'iaj suntuj ni ga'ninj nuguan' riña nej dugui' nikaj ñu'unj sitio web na.</li>
+</ul>">
 
 <!ENTITY certerror.longpagetitle1 "Nitaj si gua hue'e si conexion re'">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-
-
 
 
 
