@@ -298,7 +298,7 @@ use-current-pages =
         }
     .accesskey = ح
 choose-bookmark =
-    .label = نشانی استعمال کریں…
+    .label = بک مارک استعمال کریں…
     .accesskey = ن
 
 ## Search Section
@@ -385,7 +385,7 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = ہمہ وقت ساز سیٹنگیں
 sync-engine-bookmarks =
-    .label = نشانیاں
+    .label = بک مارک
     .accesskey = ن
 sync-engine-history =
     .label = سابقات
@@ -520,7 +520,7 @@ addressbar-locbar-history-option =
     .label = براؤزنگ سابقات
     .accesskey = H
 addressbar-locbar-bookmarks-option =
-    .label = نشانیاں
+    .label = بک مارک
     .accesskey = ن
 addressbar-locbar-openpage-option =
     .label = ٹیب کھولیے

@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "تنظیم کریں">
 <!ENTITY organize.accesskey    "ت">
-<!ENTITY organize.tooltip      "اپنی نشانیاں تنظیم کریں">
+<!ENTITY organize.tooltip      "اپنی بک مارک تنظیم کریں">
 
 <!ENTITY file.close.label               "بند کریں">
 <!ENTITY file.close.accesskey           "ب">
@@ -27,9 +27,9 @@
 <!ENTITY view.sortDescending.label      "ے > ا چھانٹی ترتیب">
 <!ENTITY view.sortDescending.accesskey  "ے">
 
-<!ENTITY importBookmarksFromHTML.label     "HTML سے نشانیاں درآمد کریں ...">
+<!ENTITY importBookmarksFromHTML.label     "HTML سے بک مارک درآمد کریں ...">
 <!ENTITY importBookmarksFromHTML.accesskey "د">
-<!ENTITY exportBookmarksToHTML.label       "نشانیاں HTML میں برآمد کریں ...">
+<!ENTITY exportBookmarksToHTML.label       "بک مارک HTML میں برآمد کریں ...">
 <!ENTITY exportBookmarksToHTML.accesskey   "ب">
 <!ENTITY importOtherBrowser.label          "کسی دوسرے براؤزر سے کوائف درآمد کریں ...">
 <!ENTITY importOtherBrowser.accesskey      "د">
@@ -62,7 +62,7 @@
 <!ENTITY cmd.sortby_name.accesskey          "چ">
 <!ENTITY cmd.context_sortby_name.accesskey  "ن">
 
-<!ENTITY cmd.new_bookmark.label            "نئی نشانی…">
+<!ENTITY cmd.new_bookmark.label            "نئی بک مارک…">
 <!ENTITY cmd.new_bookmark.accesskey        "ن">
 <!ENTITY cmd.new_folder.label              "نیا پوشہ…">
 <!ENTITY cmd.new_folder.accesskey          "پ">
@@ -70,7 +70,7 @@
 <!ENTITY cmd.new_separator.label           "نیا جداکار">
 <!ENTITY cmd.new_separator.accesskey       "ج">
 
-<!ENTITY cmd.reloadLivebookmark.label      "لایو نشانی پھر لوڈ کریں">
+<!ENTITY cmd.reloadLivebookmark.label      "لایو بک مارک پھر لوڈ کریں">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "پ">
 
 <!ENTITY col.name.label          "نام">
@@ -82,7 +82,7 @@
 <!ENTITY col.lastmodified.label  "آخری بار ترمیم کردہ">
 
 <!ENTITY historySearch.placeholder  "سابقات تلاش کریں">
-<!ENTITY bookmarksSearch.placeholder  "نشانیاں تلاش کریں">
+<!ENTITY bookmarksSearch.placeholder  "بک مارک تلاش کریں">
 
 <!ENTITY cmd.find.key  "f">
 

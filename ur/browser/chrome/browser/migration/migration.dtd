@@ -5,9 +5,9 @@
 
 <!ENTITY migrationWizard.title          "درآمد مددگار ">
 
-<!ENTITY importFrom.label               "اختیارات، نشانیاں، سابقات، پاس ورڈ اور دیگر کوائف یہاں سے درآمد کریں: ">
-<!ENTITY importFromUnix.label           "ترجیحات، نشانیاں، سابقات، پاس ورڈ اور دیگر کوائف یہاں سے درآمد کریں: ">
-<!ENTITY importFromBookmarks.label      "نشانیاں یہاں سے درآمد کریں: ">
+<!ENTITY importFrom.label               "اختیارات، بک مارک، سابقات، پاس ورڈ اور دیگر کوائف یہاں سے درآمد کریں: ">
+<!ENTITY importFromUnix.label           "ترجیحات، بک مارک، سابقات، پاس ورڈ اور دیگر کوائف یہاں سے درآمد کریں: ">
+<!ENTITY importFromBookmarks.label      "بک مارک یہاں سے درآمد کریں: ">
 
 <!ENTITY importFromIE.label             "Microsoft انٹرنیٹ ایکسپلورر ">
 <!ENTITY importFromIE.accesskey         "ا">
@@ -31,7 +31,7 @@
 <!ENTITY importFrom360se.label          "360 قابل بھروسا براؤزر">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "کوئی بھی نشانیوں، سابقات یا پاس ورڈ کوائف کا حامل پروگرام نہیں ملا۔ ">
+<!ENTITY noMigrationSources.label       "کوئی بھی بک مارکوں، سابقات یا پاس ورڈ کوائف کا حامل پروگرام نہیں ملا۔ ">
 
 <!ENTITY importSource.title             "سیٹنگیں اور کوائف درآمد کریں ">
 <!ENTITY importItems.title              "درآمد کرنے کی اشیا">

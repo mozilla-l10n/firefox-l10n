@@ -134,9 +134,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "مینیو بار">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "گشت کاری ٹول بار">
-<!ENTITY personalbarCmd.label "نشانیاں ٹول بار">
+<!ENTITY personalbarCmd.label "بک مارک ٹول بار">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "ٹول بار اشیاہ کو نشانی کگاتا ہے">
+<!ENTITY bookmarksToolbarItem.label "ٹول بار اشیاہ کو بک مارک کگاتا ہے">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "تمام ٹیب پھر لوڈ کریں">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
@@ -237,21 +237,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "دریچہ بند کریں">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "نشانیاں">
+<!ENTITY bookmarksMenu.label "بک مارک">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "یہ صفحہ نشان زد کریں">
-<!ENTITY editThisBookmarkCmd.label "اس نشانی کی تدوین کریں">
+<!ENTITY editThisBookmarkCmd.label "اس بک مارک کی تدوین کریں">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY subscribeToPageMenupopup.label "اس صفحہ کے ساتھ رکنیت سازی کریں">
 <!ENTITY subscribeToPageMenuitem.label "اس صفحہ کے ساتھ رکنیت سازی کریں…">
 
 <!ENTITY addCurPagesCmd.label "تمام ٹیب نشان زد کریں…">
-<!ENTITY showAllBookmarks2.label "تمام نشانیاں دکھائیں">
-<!ENTITY recentBookmarks.label "حالیہ نشانی کردہ">
-<!ENTITY otherBookmarksCmd.label "دیگر نشانیاں">
-<!ENTITY mobileBookmarksCmd.label "موبائل نشانیاں">
-<!ENTITY bookmarksToolbarChevron.tooltip "مزید نشانیاں دکھائیں">
+<!ENTITY showAllBookmarks2.label "تمام بک مارک دکھائیں">
+<!ENTITY recentBookmarks.label "حالیہ بک مارک کردہ">
+<!ENTITY otherBookmarksCmd.label "دیگر بک مارک">
+<!ENTITY mobileBookmarksCmd.label "موبائل بک مارک">
+<!ENTITY bookmarksToolbarChevron.tooltip "مزید بک مارک دکھائیں">
 
 <!ENTITY backCmd.label                "واپس">
 <!ENTITY backCmd.accesskey            "B">
@@ -315,21 +315,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "گھر">
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; ابتدائی صفحہ">
 
-<!ENTITY bookmarksButton.label          "نشانیاں">
+<!ENTITY bookmarksButton.label          "بک مارک">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksSubview.label             "نشانیاں">
-<!ENTITY bookmarksMenuButton2.label         "نشانیاں مینیو">
-<!ENTITY bookmarksMenuButton.other.label    "دیگر نشانیاں">
-<!ENTITY bookmarksMenuButton.mobile.label   "موبائل نشانیاں">
-<!ENTITY viewBookmarksSidebar2.label        "بغلی بار میں نشانیاں دیکھیں">
-<!ENTITY hideBookmarksSidebar.label         "نشانیاں سائڈبار چھپائیں">
-<!ENTITY viewBookmarksToolbar.label         "نشانیاں ٹول بار دیکھیں">
-<!ENTITY hideBookmarksToolbar.label         "نشانیاں ٹول بار چھپائیں">
-<!ENTITY searchBookmarks.label              "نشانیاں تلاش کریں">
-<!ENTITY bookmarkingTools.label             "نشانیاں ٹول">
-<!ENTITY addBookmarksMenu.label             "نشانیاں مینو کو ٹول بار میں شامل کریں">
-<!ENTITY removeBookmarksMenu.label          "نشانیاں مینو کو ٹول بار سے ہٹائے">
+<!ENTITY bookmarksSubview.label             "بک مارک">
+<!ENTITY bookmarksMenuButton2.label         "بک مارک مینیو">
+<!ENTITY bookmarksMenuButton.other.label    "دیگر بک مارک">
+<!ENTITY bookmarksMenuButton.mobile.label   "موبائل بک مارک">
+<!ENTITY viewBookmarksSidebar2.label        "بغلی بار میں بک مارک دیکھیں">
+<!ENTITY hideBookmarksSidebar.label         "بک مارک سائڈبار چھپائیں">
+<!ENTITY viewBookmarksToolbar.label         "بک مارک ٹول بار دیکھیں">
+<!ENTITY hideBookmarksToolbar.label         "بک مارک ٹول بار چھپائیں">
+<!ENTITY searchBookmarks.label              "بک مارک تلاش کریں">
+<!ENTITY bookmarkingTools.label             "بک مارک ٹول">
+<!ENTITY addBookmarksMenu.label             "بک مارک مینو کو ٹول بار میں شامل کریں">
+<!ENTITY removeBookmarksMenu.label          "بک مارک مینو کو ٹول بار سے ہٹائے">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -1123,7 +1123,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.shareUrl.label "شیئر کریں">
 <!ENTITY pageAction.shareMore.label "مزید…">
 
-<!ENTITY libraryButton.tooltip "تاریخیں، محفوظ شدہ نشانیاں، اور بھی مزید دکھائے">
+<!ENTITY libraryButton.tooltip "تاریخیں، محفوظ شدہ بک مارک، اور بھی مزید دکھائے">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

@@ -11,18 +11,14 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "سائٹ محل وقوع:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "س">
 <!ENTITY editBookmarkOverlay.folder.label                    "پوشہ:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "تمام نشانیاں پوشے دکھائیں">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "تمام بک مارک پوشے دکھائیں">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "چھپائیں">
 <!ENTITY editBookmarkOverlay.tags.label                      "ٹیگ:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "ٹ">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "ٹیگ کاموں سے الگ کریں">
-<!ENTITY editBookmarkOverlay.description.label               "تصریح:">
-<!ENTITY editBookmarkOverlay.description.accesskey           "ت">
 <!ENTITY editBookmarkOverlay.keyword.label                   "کلیدی لفظ:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "ک">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "تمام ٹیگ دکھائیں">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "یہ نشانی بغلی بار میں لوڈ کریں">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "ی">
 <!ENTITY editBookmarkOverlay.choose.label                    "انتخاب کریں ...">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "نیا پوشہ">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "پ">
