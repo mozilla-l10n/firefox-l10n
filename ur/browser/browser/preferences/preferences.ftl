@@ -94,15 +94,15 @@ get-started-not-logged-in = { -sync-brand-short-name } میں سائن ان کر
 get-started-configured = { -sync-brand-short-name } ترجیحات کھولیں
 always-check-default =
     .label = ہمیشہ جانچ پڑتال کریں کہ { -brand-short-name } آپ کا پہلے سے طے شدہ براؤزر ہے
-    .accesskey = ی
+    .accesskey = y
 is-default = { -brand-short-name } اس وقت آپ کا طےشدہ براؤزر ہے
-is-not-default = { -brand-short-name } اس وقت آپ کا طےشدہ  براؤزر نھیں ہے
+is-not-default = { -brand-short-name } اس وقت آپ کا طےشدہ براؤزر نھیں ہے
 set-as-my-default-browser =
     .label = طے شدہ بنائیں…
     .accesskey = D
 startup-restore-previous-session =
     .label = پچھلا سیشن بحال کریں
-    .accesskey = س
+    .accesskey = s
 disable-extension =
     .label = توسیعات نا اہل بنائیں
 tabs-group-header = ٹیبس
@@ -111,23 +111,23 @@ ctrl-tab-recently-used-order =
     .accesskey = T
 warn-on-close-multiple-tabs =
     .label = متعدد ٹیب ایک ساتھ بند کرنے پر مجھے تنبیح کیجیئے
-    .accesskey = م
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = متعدد ٹیب کھولنے پر شاید { -brand-short-name } آہستہ ہو تو منتبہ کریں
-    .accesskey = ہ
+    .accesskey = d
 switch-links-to-new-tabs =
     .label = جب میں ایک ربط نئے ٹیب میں کھولوں، تو فوراً اسی کی طرف سوئچ ہو جائیں
-    .accesskey = ج
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = Windows ٹاسک بار میں ٹیب پیش نظارے دکھائیں
-    .accesskey = ٹ
+    .accesskey = k
 browser-containers-enabled =
     .label = حامل ٹہن بحال کریں
-    .accesskey = ح
+    .accesskey = n
 browser-containers-learn-more = مزید سیکھیں
 browser-containers-settings =
     .label = سیٹنگیں…
-    .accesskey = س
+    .accesskey = i
 containers-disable-alert-title = تمام  حامل ٹیبس بند کریں
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -156,15 +156,15 @@ default-font-size = ماپ
     .accesskey = S
 advanced-fonts =
     .label = اعلٰی…
-    .accesskey = ا
+    .accesskey = A
 colors-settings =
     .label = رنگ…
-    .accesskey = ر
+    .accesskey = C
 language-header = زبان
 choose-language-description = صفحہ دکھانے کے لیے اپنی زبان چنیں
 choose-button =
     .label = انتخاب کریں…
-    .accesskey = ا
+    .accesskey = o
 manage-browser-languages-button =
     .label = متبادل سیٹ کریں...
     .accesskey = I
@@ -172,16 +172,16 @@ confirm-browser-language-change-description = { -brand-short-name } دوبارہ
 confirm-browser-language-change-button = لاگو کرے اور دوبارہ شروع کریں
 translate-web-pages =
     .label = ترجمہ کریں ویب کے مواد کا
-    .accesskey = ت
+    .accesskey = T
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = کی طرف سے ترجمے <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = استثنیات ...
-    .accesskey = س
+    .accesskey = x
 check-user-spelling =
     .label = ٹائپ کرتے وقت اپنی املا کی پڑتال کریں
-    .accesskey = ٹ
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -189,7 +189,7 @@ files-and-applications-title = مسلیں اور ایپلی کیشن
 download-header = ڈاؤن لوڈ
 download-save-to =
     .label = مسل محفوظ کریں بر
-    .accesskey = م
+    .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -198,22 +198,22 @@ download-choose-folder =
         }
     .accesskey =
         { PLATFORM() ->
-            [macos] ا
-           *[other] ا
+            [macos] e
+           *[other] o
         }
 download-always-ask-where =
     .label = مجھ سے ہمیشہ پوچھیں کہ مسل کہاں محفوظ کرنی ہے
-    .accesskey = ہ
+    .accesskey = A
 applications-header = ایپلی کیشنیں
 applications-filter =
     .placeholder = مسل کی اقسام یا ایپلی کیشنز تلاش کریں
 applications-type-column =
     .label = مواد قسم
-    .accesskey = م
+    .accesskey = T
 applications-action-column =
     .label = عمل
-    .accesskey = ع
-drm-content-header = عددی حقوق بندرستگی(DRM)  مواد
+    .accesskey = A
+drm-content-header = عددی حقوق بندرستگی(DRM) مواد
 play-drm-content-learn-more = مزید سیکھیں
 update-application-title = { -brand-short-name } تازہ کاریاں:
 update-application-version = ورژن{ $version } <a data-l10n-name="learn-more">نیا کیا ہے</a>
@@ -226,7 +226,7 @@ update-application-manual =
     .accesskey = N
 update-application-use-service =
     .label = تازہ کاریاں تنصیب کرنے کے لیے پس منظر سروس استعمال کریں
-    .accesskey = پ
+    .accesskey = b
 
 ## General Section - Performance
 
@@ -234,7 +234,7 @@ performance-title = کارکردگی
 performance-settings-learn-more = مزید سیکھیں
 performance-allow-hw-accel =
     .label = جب دستیاب ہو تو ہارڈ ویئر سرعت کاری استعمال کریں
-    .accesskey = ہ
+    .accesskey = r
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -244,20 +244,20 @@ performance-default-content-process-count =
 
 browsing-title = براؤزنگ
 browsing-use-autoscroll =
-    .label = خودکار طومار استعمال کریں
-    .accesskey = خ
+    .label = خودبخود سکرولنگ کااستعمال کریں
+    .accesskey = a
 browsing-use-smooth-scrolling =
     .label = ہموار طومار استعمال کریں
-    .accesskey = ہ
+    .accesskey = m
 browsing-use-onscreen-keyboard =
     .label = ضرورت کے وقت ٹچ کی بورڈ دکھایں
-    .accesskey = ک
+    .accesskey = c
 browsing-use-cursor-navigation =
     .label = صفحات میں آگے پیچھے جانے کے لیے ہمیشہ کرسر کلیدیں استعمال کریں
-    .accesskey = ک
+    .accesskey = k
 browsing-search-on-start-typing =
     .label = میرے ٹائپ کرنے پر متن کے لیے تلاش شروع کریں
-    .accesskey = م
+    .accesskey = x
 
 ## General Section - Proxy
 
@@ -265,7 +265,7 @@ network-settings-title = نیٹ ورک سیٹنگز
 network-proxy-connection-learn-more = مزید سیکھیں
 network-proxy-connection-settings =
     .label = سیٹنگیں…
-    .accesskey = س
+    .accesskey = e
 
 ## Home Section
 
@@ -296,10 +296,10 @@ use-current-pages =
             [1] حالیہ صفحہ برتیں
            *[other] حالیہ صفحے استعمال کریں
         }
-    .accesskey = ح
+    .accesskey = C
 choose-bookmark =
     .label = بک مارک استعمال کریں…
-    .accesskey = ن
+    .accesskey = B
 
 ## Search Section
 
@@ -309,7 +309,7 @@ search-bar-shown =
 search-engine-default-header = طےشدہ تلاش انجن
 search-suggestions-option =
     .label = تلاش تجاویز مہیا کریں
-    .accesskey = ت
+    .accesskey = s
 search-suggestions-cant-show = تلاش کردہ تجاویز محل وقوع کے بار کے نتائج میں دکھاءی نھیں جائنگے کیونکہ { -brand-short-name } تاریخ کبھی یاد نہیں رکھنے پر تشکیل کردہ ہے۔
 search-one-click-header = ایک کلک تلاش انجن
 search-choose-engine-column =
@@ -318,10 +318,10 @@ search-choose-keyword-column =
     .label = کلیدی لفظ
 search-restore-default =
     .label = طےشدہ تلاش انجن بحال کریں
-    .accesskey = ط
+    .accesskey = D
 search-remove-engine =
     .label = ہٹائیں
-    .accesskey = ہ
+    .accesskey = R
 search-find-more-link = مزید تلاش انجن تلاش کریں
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -337,7 +337,7 @@ containers-back-link = «  واہس جائیں
 containers-header = حامل ٹیبز
 containers-add-button =
     .label = نئے حامل کا اضافہ کریں
-    .accesskey = ا
+    .accesskey = A
 containers-preferences-button =
     .label = ترجیحات
 containers-remove-button =

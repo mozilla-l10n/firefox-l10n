@@ -18,5 +18,5 @@ onboarding-start-browsing-button-label = براؤزنگ شروع کریں
 
 onboarding-private-browsing-title = نجی براؤزنگ
 onboarding-screenshots-title = اسکرین شاٹس
-onboarding-addons-title = ایڑ آن
+onboarding-addons-title = ایڈ اون
 onboarding-ghostery-title = گھوسٹری

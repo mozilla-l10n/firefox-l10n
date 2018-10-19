@@ -80,22 +80,22 @@ fonts-default-serif =
 fonts-default-sans-serif =
     .label = سینس سیرف
 fonts-proportional-size = ماپ
-    .accesskey = س
+    .accesskey = z
 fonts-serif = سیرف
     .accesskey = S
 fonts-sans-serif = سینس-سیرف
     .accesskey = n
 fonts-monospace = مونو سپیس
-    .accesskey = م
+    .accesskey = M
 fonts-monospace-size = ماپ
-    .accesskey = م
+    .accesskey = e
 fonts-minsize = کم سے کم فانٹ کا ماپ
     .accesskey = o
 fonts-minsize-none =
     .label = کوئی نہیں
 fonts-allow-own =
     .label = آپکے اوپر انتخاب بجائے، صفحات کو اپنے خود کے فونٹ چننے دے
-    .accesskey = ص
+    .accesskey = A
 
 ## Text Encodings
 ##

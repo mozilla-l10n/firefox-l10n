@@ -15,7 +15,7 @@ clear-site-data-close-key =
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cookies-with-data =
     .label = کوکیز اور سائٹ کا ڈیٹا ({ $amount } { $unit })
-    .accesskey = س
+    .accesskey = S
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -32,7 +32,7 @@ clear-site-data-cookies-info = اگر صاف کیا تو شاید آپ ویبس�
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cache-with-data =
     .label = کیشہ شدہ ویب مشمول ({ $amount } { $unit })
-    .accesskey = ل
+    .accesskey = W
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar

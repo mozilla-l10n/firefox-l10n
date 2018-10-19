@@ -12,10 +12,10 @@ blocklist-treehead-list =
     .label = فہرست
 blocklist-button-cancel =
     .label = منسوخ کریں
-    .accesskey = م
+    .accesskey = C
 blocklist-button-ok =
     .label = تبدیلیاں محفوظ کریں
-    .accesskey = م
+    .accesskey = S
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."

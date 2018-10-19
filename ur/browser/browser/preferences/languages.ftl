@@ -12,18 +12,18 @@ languages-customize-spoof-english =
     .label = درجہ افزوں رازداری کے لیے ویب صفحات کے انگریزی ورژن کی درخواست کریں
 languages-customize-moveup =
     .label = اوپر کریں
-    .accesskey = ا
+    .accesskey = U
 languages-customize-movedown =
     .label = نیچے کریں
-    .accesskey = ن
+    .accesskey = D
 languages-customize-remove =
     .label = ہٹائیں
-    .accesskey = ہ
+    .accesskey = R
 languages-customize-select-language =
     .placeholder = اضافہ کرنے کے لیے زبان منتخب کریں…
 languages-customize-add =
     .label = اضافہ کریں
-    .accesskey = ا
+    .accesskey = A
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
