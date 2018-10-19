@@ -52,6 +52,7 @@ pane-sync-title = Firefox Account
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Поддръжка на { -brand-short-name }
+addons-button-label = Разширения и теми
 focus-search =
     .key = f
 close-button =
@@ -325,7 +326,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Мрежов посредник
 network-settings-title = Настройки на мрежата
 network-proxy-connection-description = Настройване на достъпа до интернет от { -brand-short-name }.
 network-proxy-connection-learn-more = Научете повече
@@ -524,6 +524,7 @@ privacy-header = Поверителност на четеца
 ## Privacy Section - Forms
 
 forms-header = Формуляри и пароли
+logins-header = Регистрации и пароли
 forms-ask-to-save-logins =
     .label = Питане при запазване имена и пароли за вход в страниците
     .accesskey = т
@@ -590,26 +591,12 @@ sitedata-total-size-calculating = Изчисляване на размера н�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Буферът, бисквитките и данните от страници момента заемат { $value } { $unit } дисково пространство.
 sitedata-learn-more = Научете повече
-sitedata-accept-cookies-option =
-    .label = Приемане на бисквитки и данни на страници (препоръчително)
-    .accesskey = П
-sitedata-block-cookies-option =
-    .label = Ограничаване на бисквитки и данни на страници (може наруши работата на страниците)
-    .accesskey = о
 sitedata-keep-until = Пазене до
     .accesskey = а
 sitedata-keep-until-expire =
     .label = загуба на валидност
 sitedata-keep-until-closed =
     .label = затваряне на { -brand-short-name }
-sitedata-accept-third-party-desc = Приемане на бисквитки и данни за сайтове от трети лица
-    .accesskey = б
-sitedata-accept-third-party-always-option =
-    .label = Винаги
-sitedata-accept-third-party-visited-option =
-    .label = От посетените
-sitedata-accept-third-party-never-option =
-    .label = Никога
 sitedata-allow-cookies-option =
     .label = Разрешаване на бисквитки и данни
     .accesskey = р
@@ -683,6 +670,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Бавни проследявания
     .accesskey = б
 content-blocking-fastblock-new-description = Ограничаване само на проследяванията, които бавят зареждането на страницата.
+content-blocking-tracking-protection-trackers-label =
+    .label = Проследявания
+    .accesskey = п
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Всички открити проследявания
     .accesskey = в
@@ -730,10 +720,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Никога
     .accesskey = Н
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Използвайте защитата от проследяване докато разглеждате поверително за блокиране на известните проследяващи сайтове
-    .accesskey = з
 tracking-exceptions =
     .label = Изключения…
     .accesskey = з
