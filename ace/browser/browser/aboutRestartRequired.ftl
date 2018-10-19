@@ -4,3 +4,4 @@
 
 restart-required-title = Peureulèë Puphôn Ulang
 restart-required-header = Meu'aih. Kamoe peureulèe peu-teupat saboh hal ubit untuk tetap meulanjut.
+restart-button-label = Mulai keulayi { -brand-short-name }
