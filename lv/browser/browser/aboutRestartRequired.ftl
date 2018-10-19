@@ -4,3 +4,6 @@
 
 restart-required-title = Nepieciešams restarts
 restart-required-header = Atvainojiet, bet lai turpinātu nepieciešama viena sīka lietiņa.
+restart-required-intro = Jums netraucējot atjauninājums tika uzinstalēts. Klikšķiniet Pārstartēt { -brand-short-name }, lai pabeigtu jaunināšanu.
+restart-required-description = Pēc tam mēs atjaunosim visus jūšu logus un cilnes, lai jūs varat turpināt darbu.
+restart-button-label = Pārstartēt { -brand-short-name }

@@ -53,6 +53,7 @@ pane-sync-title = Firefox konts
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } atbalsts
+addons-button-label = Paplašinājumi un tēmas
 focus-search =
     .key = f
 close-button =
@@ -329,7 +330,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Tīkla starpniekserveris
 network-settings-title = Tīkla iestatījumi
 network-proxy-connection-description = Konfigurēt kā { -brand-short-name } pieslēdzas internetam.
 network-proxy-connection-learn-more = Uzzināt vairāk
@@ -528,6 +528,7 @@ privacy-header = Pārlūka privātums
 ## Privacy Section - Forms
 
 forms-header = Formas un paroles
+logins-header = Lietotājvārdi un paroles
 forms-ask-to-save-logins =
     .label = Lūgt, lai saglabātu lietotājvārdu un paroles vietnēm
     .accesskey = r
@@ -594,26 +595,12 @@ sitedata-total-size-calculating = Aprēķina izmantotās vietas apjomu…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Jūsu saglabātās sīkdatnes un kešatmiņa šobrīd aizņem { $value } { $unit } vietas.
 sitedata-learn-more = Uzzināt vairāk
-sitedata-accept-cookies-option =
-    .label = Pieņemt sīkdatnes un kešatmiņu no lapām (ieteicams)
-    .accesskey = P
-sitedata-block-cookies-option =
-    .label = Bloķēt sīkdatnes un kešatmiņu (lapas var nestrādāt)
-    .accesskey = B
 sitedata-keep-until = Glabāt līdz
     .accesskey = l
 sitedata-keep-until-expire =
     .label = Derīguma termiņš
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ir aizvērta
-sitedata-accept-third-party-desc = Pieņemt trešo pušu sīkdatnes un keatmiņu
-    .accesskey = t
-sitedata-accept-third-party-always-option =
-    .label = Vienmēr
-sitedata-accept-third-party-visited-option =
-    .label = Tikai no lapām, kuras esmu apmeklējis
-sitedata-accept-third-party-never-option =
-    .label = Nekad
 sitedata-allow-cookies-option =
     .label = Pieņemt sīkdatnes un lapu datus
     .accesskey = a
@@ -687,6 +674,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Izsekotājus, kas lādējas lēnu
     .accesskey = s
 content-blocking-fastblock-new-description = Bloķēt tikai sekotājus, kas neļauj lapām ielādēties ātri.
+content-blocking-tracking-protection-trackers-label =
+    .label = Izsekotāji
+    .accesskey = t
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Visus izsekotājus
     .accesskey = t
@@ -734,10 +724,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nekad
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Izmantot izsekošanas aizsardzību, lai bloķētu zināmos izsekotājus
-    .accesskey = t
 tracking-exceptions =
     .label = Izņēmumi…
     .accesskey = I
