@@ -19,7 +19,7 @@
 <!ENTITY results.label               "Rezultati">
 <!ENTITY moveButton.label            "Premakni v">
 <!ENTITY moveButton.accesskey        "r">
-<!ENTITY closeCmd.key                "W"> 
+<!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Odpri v mapi">
 <!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label        "Shrani kot iskalno mapo">
@@ -59,7 +59,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Izberite stolpce za prikaz">
-<!ENTITY threadColumn2.tooltip "Prikaži niti sporočila">
+<!ENTITY threadColumn2.tooltip "Prikaži niti sporočil">
 <!ENTITY fromColumn2.tooltip "Razvrsti po Od">
 <!ENTITY recipientColumn2.tooltip "Razvrsti po prejemniku">
 <!ENTITY correspondentColumn2.tooltip "Razvrsti po dopisnikih">

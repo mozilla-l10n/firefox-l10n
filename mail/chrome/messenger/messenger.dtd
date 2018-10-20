@@ -970,7 +970,7 @@
 <!ENTITY hideOtherAppsCmdMac.label      "Skrij ostale">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Pokaži vse">
+<!ENTITY showAllAppsCmdMac.label        "Prikaži vse">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Možnosti ikone programa …">
