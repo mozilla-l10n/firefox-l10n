@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = ભાષાઓ
-    .style = width: 30em
 webpage-languages-window =
     .title = વેબપૃષ્ઠ ભાષા સેટિંગ્સ
     .style = width: 40em
@@ -45,3 +42,14 @@ browser-languages-window =
     .title = { -brand-short-name } ભાષા સેટિંગ્સ
     .style = width: 40em
 browser-languages-description = { -brand-short-name } તમારી મૂળભૂત તરીકે પ્રથમ ભાષાને પ્રદર્શિત કરશે અને આવશ્યક ક્રમમાં તેઓ દેખાતા વૈકલ્પિક ભાષાઓ પ્રદર્શિત કરશે.
+browser-languages-search = વધું ભાષાઓ માટે શોધ કરો...
+browser-languages-searching =
+    .label = વધું ભાષાઓ માટે શોધ કરી રહ્યા છીએ...
+browser-languages-downloading =
+    .label = ડાઉનલોડ કરી રહ્યા છીએ...
+browser-languages-select-language =
+    .label = ઉમેરવા માટે એક ભાષા પસંદ કરો ...
+    .placeholder = ઉમેરવા માટે એક ભાષા પસંદ કરો ...
+browser-languages-installed-label = સ્થાપિત થયેલ ભાષાઓ
+browser-languages-available-label = ઉપલબ્ધ ભાષાઓ
+browser-languages-error = { -brand-short-name } હમણાં તમારી ભાષાઓને અપડેટ કરી શકતું નથી. તપાસો કે તમે ઇન્ટરનેટથી જોડાયેલાં છો અથવા ફરી પ્રયાસ કરો.
