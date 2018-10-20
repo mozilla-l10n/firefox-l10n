@@ -305,7 +305,7 @@ choose-bookmark =
 
 search-bar-header = تلاش بار
 search-bar-shown =
-    .label = سرچ بار کا ٹول بار مے ا ضافہ کریں۔
+    .label = سرچ بار کا ٹولبار مے ا ضافہ کریں۔
 search-engine-default-header = طےشدہ تلاش انجن
 search-suggestions-option =
     .label = تلاش تجاویز مہیا کریں

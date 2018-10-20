@@ -10,7 +10,7 @@
 #define bookmarks_title بک مارک
 #define bookmarks_heading بک مارک
 
-#define bookmarks_toolbarfolder ٹول بار پوشہ کو بک مارک لگایں
+#define bookmarks_toolbarfolder ٹولبار پوشہ کو بک مارک لگایں
 #define bookmarks_toolbarfolder_description بک مارکوں کے ٹول بار میں انہیں دیکھنے کے لیے اس پوشہ پر بک مارک لگایں
 
 # LOCALIZATION NOTE (getting_started):

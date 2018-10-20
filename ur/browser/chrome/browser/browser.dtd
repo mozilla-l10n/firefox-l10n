@@ -134,12 +134,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label "آف لائن کام کریں">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-<!ENTITY menubarCmd.label "مینیو بار">
+<!ENTITY menubarCmd.label "مینوبار">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "گشت کاری ٹول بار">
-<!ENTITY personalbarCmd.label "بک مارک ٹول بار">
+<!ENTITY navbarCmd.label "گشت کاری ٹولبار">
+<!ENTITY personalbarCmd.label "بک مارک ٹولبار">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "ٹول بار اشیاہ کو بک مارک کگاتا ہے">
+<!ENTITY bookmarksToolbarItem.label "ٹولبار اشیاہ کو بک مارک کگاتا ہے">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "تمام ٹیب پھر لوڈ کریں">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
@@ -327,12 +327,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label   "موبائل بک مارک">
 <!ENTITY viewBookmarksSidebar2.label        "بغلی بار میں بک مارک دیکھیں">
 <!ENTITY hideBookmarksSidebar.label         "بک مارک سائڈبار چھپائیں">
-<!ENTITY viewBookmarksToolbar.label         "بک مارک ٹول بار دیکھیں">
-<!ENTITY hideBookmarksToolbar.label         "بک مارک ٹول بار چھپائیں">
+<!ENTITY viewBookmarksToolbar.label         "بک مارک ٹولبار دیکھیں">
+<!ENTITY hideBookmarksToolbar.label         "بک مارک ٹولبار چھپائیں">
 <!ENTITY searchBookmarks.label              "بک مارک تلاش کریں">
 <!ENTITY bookmarkingTools.label             "بک مارک ٹول">
-<!ENTITY addBookmarksMenu.label             "بک مارک مینو کو ٹول بار میں شامل کریں">
-<!ENTITY removeBookmarksMenu.label          "بک مارک مینو کو ٹول بار سے ہٹائے">
+<!ENTITY addBookmarksMenu.label             "بک مارک مینو کو ٹولبار میں شامل کریں">
+<!ENTITY removeBookmarksMenu.label          "بک مارک مینو کو ٹولبار سے ہٹائے">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -418,13 +418,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "نظارہ">
 <!ENTITY viewMenu.accesskey       "V">
-<!ENTITY viewToolbarsMenu.label       "ٹول بار">
+<!ENTITY viewToolbarsMenu.label       "ٹولبار">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "بغلی بار">
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "تخصیص کریں…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-<!ENTITY overflowCustomizeToolbar.label       "ٹول بار تخصیص کریں…">
+<!ENTITY overflowCustomizeToolbar.label       "ٹولبار تخصیص کریں…">
 <!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
 <!ENTITY historyMenu.label "سابقات">
@@ -473,7 +473,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuRecentHighlights.label "حالیہ خاص بات">
 
-<!ENTITY customizeMenu.addToToolbar.label "ٹول بار میں ڈالیں">
+<!ENTITY customizeMenu.addToToolbar.label "ٹولبار میں ڈالیں">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
@@ -488,11 +488,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "اورفلوں مینو سے ان پن کرے">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.label "ٹول بار سے ہٹائیں">
+<!ENTITY customizeMenu.removeFromToolbar.label "ٹولبار سے ہٹائیں">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "مزید اشیا ڈالیں…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
-<!ENTITY customizeMenu.autoHideDownloadsButton.label "ٹول بار میں آوٹوں-حائڈ">
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "ٹولبار میں آوٹوں-حائڈ">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "توسیع بندرست کریں">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
@@ -927,12 +927,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ہمہ وقت سازی ">
 
-<!ENTITY customizeMode.menuAndToolbars.header3 "اپنی پسندیدہ اشیاء کو ٹول بار یا اورفلوںمینو میں شامل کرے۔">
+<!ENTITY customizeMode.menuAndToolbars.header3 "اپنی پسندیدہ اشیاء کو ٹولبار یا اورفلوںمینو میں شامل کرے۔">
 <!ENTITY customizeMode.restoreDefaults "طےشدہ بحال کریں">
 <!ENTITY customizeMode.done "مکمل">
 <!ENTITY customizeMode.titlebar "عنوان بار">
 <!ENTITY customizeMode.extraDragSpace "کھالی جگہ ڈریگ کرے">
-<!ENTITY customizeMode.toolbars2 "&amp;ٹول بار">
+<!ENTITY customizeMode.toolbars2 "&amp;ٹولبار">
 <!ENTITY customizeMode.lwthemes "تھیم">
 <!ENTITY customizeMode.lwthemes.myThemes "میرے تھیم">
 <!ENTITY customizeMode.lwthemes.recommended "سفارش شدا">
