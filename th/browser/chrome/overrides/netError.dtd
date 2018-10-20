@@ -23,7 +23,7 @@
 
 <!ENTITY dnsNotFound.pageTitle "ไม่พบเซิร์ฟเวอร์">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "อืม เรามีปัญหาในการค้นหาไซต์นั้น">
+<!ENTITY dnsNotFound.title1 "อืมม เรามีปัญหาในการค้นหาไซต์นั้น">
 <!ENTITY dnsNotFound.longDesc1 "
 <strong>หากที่อยู่นั้นถูกต้อง นี่คือสามสิ่งอื่น ๆ ที่คุณสามารถลอง:</strong>
 <ul>
@@ -51,7 +51,7 @@
 
 <!ENTITY malformedURI.pageTitle "URL ไม่ถูกต้อง">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "อืม ที่อยู่นั้นดูไม่ถูกต้อง">
+<!ENTITY malformedURI.title1 "อืมม ที่อยู่นั้นดูไม่ถูกต้อง">
 
 <!ENTITY netInterrupt.title "การเชื่อมต่อถูกขัดจังหวะ">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
