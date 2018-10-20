@@ -42,6 +42,7 @@
 <!ENTITY runtimeMenu_showSettings_accesskey "S">
 
 <!ENTITY runtimeMenu_showPerformancePanel_label "Učinkovitost">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "U">
 
 <!ENTITY viewMenu_label "Pogled">
 <!ENTITY viewMenu_accesskey "G">
