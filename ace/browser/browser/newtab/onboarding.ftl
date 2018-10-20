@@ -5,6 +5,7 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-try-now = Neuci Jinoe
 
 ## These strings belong to the individual onboarding messages.
 
