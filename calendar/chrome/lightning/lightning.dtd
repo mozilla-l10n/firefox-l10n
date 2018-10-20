@@ -84,7 +84,8 @@
 <!ENTITY lightning.imipbar.description                                      "To sporočilo vsebuje povabilo na dogodek.">
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Pošlji odziv zdaj">
-<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Pošlji organizatorju odziv">
+<!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Pošlji odziv organizatorju">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Pošlji odziv za celotno serijo organizatorju">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Ne pošlji odziva">
 <!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Spremenite stanje udeležbe brez pošiljanja odziva organizatorju">
 <!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Spremenite stanje udeležbe za serijo, brez pošiljanja odziva organizatorju">

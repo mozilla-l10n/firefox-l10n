@@ -418,6 +418,7 @@
 <!ENTITY summary.dialog.saveclose.tooltiptext   "Shrani spremembe in zapri okno brez spremembe stanja udeležbe in pošiljanja odziva">
 <!ENTITY summary.dialog.accept.label            "Sprejmi">
 <!ENTITY summary.dialog.accept.tooltiptext      "Sprejmi povabilo">
+<!ENTITY summary.dialog.tentative.label         "Neodločeno">
 <!ENTITY summary.dialog.tentative.tooltiptext   "Pogojno sprejmi povabilo">
 <!ENTITY summary.dialog.decline.label           "Zavrni">
 <!ENTITY summary.dialog.decline.tooltiptext     "Zavrni povabilo">
