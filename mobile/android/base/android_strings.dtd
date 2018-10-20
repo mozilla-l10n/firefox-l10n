@@ -511,7 +511,7 @@
 <!ENTITY contextmenu_site_settings "Modifier param. de site">
 <!ENTITY contextmenu_top_sites_edit "Modifier">
 <!ENTITY contextmenu_top_sites_pin "Épingler ce site">
-<!ENTITY contextmenu_top_sites_unpin "Relâcher ce site">
+<!ENTITY contextmenu_top_sites_unpin "Désépingler ce site">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
@@ -638,7 +638,7 @@
 <!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
     a site is pinned or unpinned. -->
 <!ENTITY home_pinned_site "Site épinglé">
-<!ENTITY home_unpinned_site "Site retiré">
+<!ENTITY home_unpinned_site "Site désépinglé">
 
 <!ENTITY remote_tabs_panel_moved_title "Où mes onglets sont-ils passés ?">
 <!ENTITY remote_tabs_panel_moved_desc "Nous avons déplacé les onglets de vos autres appareils au sein d’un panneau de votre écran d’accueil pour que vous puissiez y accéder facilement à chaque ouverture d’un nouvel onglet.">
