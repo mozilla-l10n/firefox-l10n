@@ -690,9 +690,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "کچھ نجی کوائف ہٹائے نہیں جا سکے">
 
 <!ENTITY bookmarkhistory_button_import "درآمد کریں">
-<!ENTITY bookmarkhistory_import_both "اینڈروائڈ سے نشانیاں اور سابقات   درآمد کر رہا ہے">
-<!ENTITY bookmarkhistory_import_bookmarks "اینڈروائڈ سے نشانیاں درآمد کر رہا ہے">
-<!ENTITY bookmarkhistory_import_history "اینڈروائڈ سے سابقات درآمد کر رہا ہے">
+<!ENTITY bookmarkhistory_import_both "Android سے نشانیاں اور سابقات   درآمد کر رہا ہے">
+<!ENTITY bookmarkhistory_import_bookmarks "Android سے نشانیاں درآمد کر رہا ہے">
+<!ENTITY bookmarkhistory_import_history "Android سے سابقات درآمد کر رہا ہے">
 <!ENTITY bookmarkhistory_import_wait "انتظار کریں...">
 
 <!ENTITY suggestions_prompt3 "کیا آپ تلاش تجاویز آن کرنا چاہیں گے؟">
