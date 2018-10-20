@@ -32,3 +32,6 @@ policy-DisableFormHistory = Na cuimhnich eachdraidh nan lorg is nam foirmean.
 policy-DisableMasterPasswordCreation = Ma thagh thu true, cha ghabh maighstir facail-fhaire a chruthachadh.
 policy-DisablePocket = Cuir à comas an gleus a shàbhaileas duilleagan-lìn ann am Pocket.
 policy-DisablePrivateBrowsing = Cuir am brabhsadh prìobhaideach à comas.
+policy-DisableProfileImport = Cuir an àithne airson dàta ion-phortadh o bhrabhsair eile à comas.
+policy-DisableProfileRefresh = Cuir am putan “Ath-nuadhaich { -brand-short-name }” à comas air an duilleag about:support.
+policy-DisableSafeMode = Cuir ath-thòiseachadh sa mhodh sàbhailte à comas. An aire: Cha ghabh dùsgadh a’ mhodh shàbhailte leis an iuchair Shift a chur à comas air Windows ach slighe poileasaidh buidhinn.
