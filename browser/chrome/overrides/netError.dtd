@@ -116,7 +116,10 @@
 <!ENTITY certerror.introPara "Il gestore di <span class='hostname'/> ha configurato il sito in modo non corretto. Per evitare potenziali furti di informazioni &brandShortName; ha interrotto la connessione.">
 <!ENTITY certerror.introPara2 "&brandShortName; ha rilevato una potenziale minaccia per la sicurezza e interrotto la connessione con <span class='hostname'/>. Visitando questo sito, malintenzionati potrebbero cercare di rubare informazioni personali come password, email o dati delle carte di credito.">
 <!ENTITY certerror.sts.introPara "&brandShortName; ha rilevato una potenziale minaccia per la sicurezza e interrotto la connessione con <span class='hostname'/>, in quanto è possibile collegarsi a questo sito solo in modo sicuro.">
-<!ENTITY certerror.expiredCert.secondPara "L’errore è probabilmente causato dall’orologio del computer impostato su un orario scorretto. Questo impedisce a &brandShortName; di connettersi in modo sicuro.">
+<!ENTITY certerror.expiredCert.secondPara "L’errore è probabilmente causato dall’orologio del computer impostato sull’ora sbagliata. Questo impedisce a &brandShortName; di connettersi in modo sicuro.">
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; ha rilevato un problema e interrotto la connessione con <span class='hostname'/>. Il sito non è configurato correttamente oppure l’orologio del computer è impostato sull’ora sbagliata.">
+<!ENTITY certerror.expiredCert.secondPara2 "È probabile che il certificato del sito web sia scaduto. Questo impedisce a &brandShortName; di connettersi in modo sicuro. Visitando questo sito, malintenzionati potrebbero cercare di rubare informazioni personali come password, email o dati delle carte di credito.">
+<!ENTITY certerror.expiredCert.sts.secondPara "È probabile che il certificato del sito web sia scaduto. Questo impedisce a &brandShortName; di connettersi in modo sicuro.">
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Che cosa posso fare per risolvere?">
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>L’errore è probabilmente causato dal sito web e non può essere risolto.</p>
 <p>Se si stanno utilizzando una rete aziendale o un software antivirus, contattare i team di supporto per ottenere assistenza. È inoltre possibile segnalare il problema al gestore del sito web.</p>">
