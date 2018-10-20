@@ -33,7 +33,7 @@
 
 <!ENTITY noMigrationSources.label       "کوئی بھی بک مارکوں، سابقات یا پاس ورڈ کوائف کا حامل پروگرام نہیں ملا۔ ">
 
-<!ENTITY importSource.title             "سیٹنگیں اور کوائف درآمد کریں ">
+<!ENTITY importSource.title             "ترتیبات اور کوائف درآمد کریں">
 <!ENTITY importItems.title              "درآمد کرنے کی اشیا">
 <!ENTITY importItems.label              "درآمد کرنے کے لیے اشیا منتخب کریں: ">
 

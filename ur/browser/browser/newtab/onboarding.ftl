@@ -19,5 +19,6 @@ onboarding-start-browsing-button-label = براؤزنگ شروع کریں
 onboarding-private-browsing-title = نجی براؤزنگ
 onboarding-private-browsing-text = خود سے براؤز کریں۔ نجی براؤزنگ مواد روکنے کے ساتھ ویب کے اردگرد اپکی پیروی کر رحی آن لائن ٹریکر کو روکتا ہے۔
 onboarding-screenshots-title = اسکرین شاٹس
+onboarding-screenshots-text = { -brand-short-name } چھوڈیں بغیر- اسکرین شاٹ لے، محفوظ کریں اور بانٹیں۔ براؤز کرتے وقت ایک حصصہ یا ایک پورا صفحہ کبضہ کریں۔ فھر اسان رسائی اور بانٹنے کے لئے ویب پر محفوظ کریں۔
 onboarding-addons-title = ایڈ اون
 onboarding-ghostery-title = گھوسٹری

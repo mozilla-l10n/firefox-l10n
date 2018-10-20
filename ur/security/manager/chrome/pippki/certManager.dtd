@@ -8,9 +8,7 @@
 <!ENTITY certmgr.tab.others2                  "لوگ">
 <!ENTITY certmgr.tab.websites3                "پیش کار">
 <!ENTITY certmgr.tab.ca                       "مقتدرات">
-<!ENTITY certmgr.tab.orphan2                  "دیگر">
 
-<!ENTITY certmgr.orphans2                     "آپ کے پاس مسل پر تصدیق نامے ہیں جو کسی بھی دیگر زمرہ جات کے مناسب نہیں">
 
 <!ENTITY certmgr.detail.general_tab.title     "عمومی">
 <!ENTITY certmgr.detail.general_tab.accesskey "ع">
@@ -30,11 +28,10 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 انگلی کے نشان">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 انگلیوں کے نشان">
 
-<!ENTITY certmgr.editcacert.title             "CA تصدیق نامہ بھروسا سیٹنگیں تدوین کریں">
-<!ENTITY certmgr.editcert.edittrust           "بھروسا سیٹنگیں تدوین کریں:">
+<!ENTITY certmgr.editcacert.title             "CA تصدیق نامہ بھروسا ترتیبات تدوین کریں">
+<!ENTITY certmgr.editcert.edittrust           "بھروسا ترتیبات تدوین کریں:">
 <!ENTITY certmgr.editcert.trustssl            "یہ تصدیق نامہ ویب سائٹیں شناخت کر سکتا ہے۔">
 <!ENTITY certmgr.editcert.trustemail          "یہ تصدیق نامہ ڈاک صارفین  شناخت کر سکتا ہے۔">
-<!ENTITY certmgr.editcert.trustobjsign        "یہ تصدیق نامہ سافٹ ویئر ساز شناخت کر سکتا ہے۔">
 
 <!ENTITY certmgr.deletecert.title             "تصدیق نامہ حذف کریں">
 

@@ -9,7 +9,6 @@
 <!ENTITY retry.label "دوبارہ کوشش کریں">
 <!ENTITY returnToPreviousPage.label "واپس جائیں">
 <!ENTITY advanced.label "اعلٰی">
-
 <!ENTITY continue2.label "مزید…">
 
 <!-- Specific error messages -->
@@ -65,10 +64,10 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>آپ کو یہ پتہ کھولنے کے لیے دیگر سافٹ ویئر تنصیب کرنے کی ضرورت پڑھ سکتی ہے۔</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "پراکسی پیش کار کنکشن واپس کر رہا ہے">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>پراکسی سیٹنگیں چیک کریں اور یقین کریں کہ یہ ٹھیک ہیں۔</li> <li>یہ چیک کرنے کے لیے کہ آپ کا پراکسی پیش کار ٹھیک سے کام کر رہا ہے، اپنے نیٹورک نظام کار سے رابطہ کریں۔</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>پراکسی ترتیبات چیک کریں اور یقین کریں کہ یہ ٹھیک ہیں۔</li> <li>یہ چیک کرنے کے لیے کہ آپ کا پراکسی پیش کار ٹھیک سے کام کر رہا ہے، اپنے نیٹورک نظام کار سے رابطہ کریں۔</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "پراکسی پیش کار ڈھونڈیں میں ناکام">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>پراکسی سیٹنگیں چیک کریں اور یقین کریں کہ یہ ٹھیک ہیں۔</li> <li>چیک کریں کہ آپ کے کمپیوٹر کے پاس ایک ٹھیک نیٹورک کنکشن ہے۔</li> <li>اگر آپ کا کمپیوٹر یا نیٹورک فصیل کے ذریعے محفوظ ہے تو چیک کریں کہ  ویب تک رسائی کر سکتا ہے۔&brandShortName;</li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>پراکسی ترتیبات چیک کریں اور یقین کریں کہ یہ ٹھیک ہیں۔</li> <li>چیک کریں کہ آپ کے کمپیوٹر کے پاس ایک ٹھیک نیٹورک کنکشن ہے۔</li> <li>اگر آپ کا کمپیوٹر یا نیٹورک فصیل کے ذریعے محفوظ ہے تو چیک کریں کہ  ویب تک رسائی کر سکتا ہے۔&brandShortName;</li> </ul>">
 
 <!ENTITY redirectLoop.title "صفحہ ٹھیک طرح سمت نہیں دل رہا">
 <!ENTITY redirectLoop.longDesc "<ul> <li>یہ مسلہ کبھی کبھی کوکیاں نااہل کرنے یا انہیں قبول کہ کرنے کی وجہ سے ہو سکتی ہے۔</li> </ul>">
@@ -90,7 +89,6 @@ was trying to connect. -->
 
 
 
-
 <!ENTITY sharedLongDesc "<ul> <li>سائٹ عارظی طور پر غیر موجود یا مصروف ہو سکتی ہے۔ کچھ دیر بعد پھر کوشش کریں۔</li> <li>اگر آپ کوئی بھی صفحے نہیں لوڈ کر پائیں تو اپنے کمپیوٹر کےنیٹورک کنکشن کی پڑتال کریں۔</li> <li>اگر آپ کا کمپیوٹر یا نیٹورک فصیل یا پراکسی کے ذریعے محفوظ ہے تو پڑتال کریں کہ &brandShortName; ویب تک رسائی کی اجازت ہے</li> </ul>">
 
 <!ENTITY cspBlocked.title "مواد سیکیورٹی پالسی کے تحت بلاک">
@@ -101,7 +99,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "اکسیپشن اضافہ کریں">
-
 
 <!ENTITY errorReporting.automatic2 "Mozilla کی مدد کرے نقصان کردہ سائٹ کی شناخت اور بلاک کرنیں کے لئے اس طرح کی نقص رپورٹ کرے">
 <!ENTITY errorReporting.learnMore "مزید سیکھیں…">
@@ -132,5 +129,5 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "بلاک شدہ صفحہ">
 
 
-<!ENTITY prefReset.longDesc "ایسا لگتا ہے کہ اس کی وجہ آپ کی نیٹ ورک سلامتی کی سیٹکگیں ہو سکتی ہے۔ کیا آپ طےشدہ سیٹکگیں بحال کرنا  چاہتے ہیں؟">
-<!ENTITY prefReset.label "طے شدہ سیٹکگیں بحال کریں">
+<!ENTITY prefReset.longDesc "ایسا لگتا ہے کہ اس کی وجہ آپ کی نیٹ ورک سلامتی کی ترتیبات ہو سکتی ہے۔ کیا آپ طےشدہ ترتیبات بحال کرناچاہتے ہیں؟">
+<!ENTITY prefReset.label "طے شدہ ترتیبات بحال کریں">

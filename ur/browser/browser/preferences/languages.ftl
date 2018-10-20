@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window =
-    .title = ویب صفحہ زبان سيٹنگيں
+    .title = ویب صفحہ زبان ترتیبات
     .style = width: 40em
 languages-close-key =
     .key = w
@@ -39,7 +39,7 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window =
-    .title = { -brand-short-name } زبان سيٹنگيں
+    .title = { -brand-short-name } زبان ترتیبات
     .style = width: 40em
 browser-languages-description = { -brand-short-name } آپ کی پہلی زبان طے شدہ طور پر ظاہر کرے گا اور اگر ضروری ہو تو وہ ظاہر ترتیب میں متبادل زبانوں کو ظاہر کرے گا۔
 browser-languages-search = مزید زبانوں کے لئے تلاش کریں...

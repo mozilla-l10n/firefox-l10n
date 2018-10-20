@@ -24,5 +24,5 @@ policy-DisableTelemetry = ٹیلی میٹری بند کریں۔
 policy-DisplayBookmarksToolbar = بک مارک ٹولبار طے شدہ طور پر ظاہر کریں۔
 policy-DisplayMenuBar = مینوبار طے شدہ طور پر ظاہر کریں۔
 policy-DNSOverHTTPS = HTTPS پرDNS ترتیب کریں۔
-policy-Proxy = پراکسی سيٹنگيں ترتیب کریں۔
+policy-Proxy = پراکسی ترتیبات ترتیب کریں۔
 policy-SanitizeOnShutdown = بند کرنے پر تمام نیویگیشن ڈیٹا صاف کریں۔

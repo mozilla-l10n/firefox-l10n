@@ -92,13 +92,13 @@ permissions-exceptions-autoplay-media-window2 =
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
-    .title = سیٹنگیں - نوٹیفکیشن اجازات
+    .title = ترتیبات - نوٹیفکیشن اجازات
     .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
 permissions-site-location-window =
-    .title = سیٹنگیں- محل وقوع اجازت
+    .title = ترتیبات- محل وقوع اجازت
     .style = { permissions-window.style }
 permissions-site-location-disable-label =
     .label = آپ کے مقام تک رسائی حاصل کرنے سے متعلق نئی درخواستیں بند کریں
@@ -106,7 +106,7 @@ permissions-site-location-disable-label =
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
-    .title = سیٹنگیں- کیمرہ اجازتیں
+    .title = ترتیبات- کیمرہ اجازتیں
     .style = { permissions-window.style }
 permissions-site-camera-disable-label =
     .label = اپنے کیمرے تک رسائی حاصل کرنے سے متعلق نئی درخواستیں بند کریں
@@ -114,7 +114,7 @@ permissions-site-camera-disable-label =
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
-    .title = سيٹنگيں - مائکروفون کی اجازت
+    .title = ترتیبات - مائکروفون کی اجازت
     .style = { permissions-window.style }
 permissions-site-microphone-disable-label =
     .label = اپنے مائیکروفون تک رسائی حاصل کرنے سے متعلق نئی درخواستیں بند کریں
