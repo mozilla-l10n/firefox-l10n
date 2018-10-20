@@ -30,7 +30,7 @@
 <!ENTITY loaddevice.modname.default             "Nov modul PKCS#11">
 <!ENTITY loaddevice.filename2                   "Ime datoteke modula">
 <!ENTITY loaddevice.filename2.accesskey         "d">
-<!ENTITY loaddevice.browse                      "Prebrskaj ...">
+<!ENTITY loaddevice.browse                      "Prebrskaj …">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
 <!ENTITY loaddevice.title2                      "Naloži gonilnik naprave PKCS#11">

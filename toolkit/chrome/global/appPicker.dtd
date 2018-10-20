@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY NoAppFound.label      "Za datoteko te vrste ni bil najden noben program.">
-<!ENTITY BrowseButton.label    "Prebrskaj ...">
+<!ENTITY BrowseButton.label    "Prebrskaj …">
 <!ENTITY SendMsg.label         "Pošlji predmet v:">
