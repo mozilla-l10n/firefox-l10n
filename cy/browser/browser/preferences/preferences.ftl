@@ -53,6 +53,7 @@ pane-sync-title = Cyfrif Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Cefnogaeth { -brand-short-name }
+addons-button-label = Estyniadau a Themâu
 focus-search =
     .key = f
 close-button =
@@ -338,7 +339,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Dirprwy Rhwydwaith
 network-settings-title = Gosodiadau Rhwydwaith
 network-proxy-connection-description = Ffurfweddu sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
 network-proxy-connection-learn-more = Dysgu rhagor
@@ -604,26 +604,12 @@ sitedata-total-size-calculating = Cyfrifo maint data gwefan…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Mae'r cwcis, data gwefan a storfa yn defnyddio { $value } { $unit } o le ar ddisg ar hyn o bryd.
 sitedata-learn-more = Dysgu rhagor
-sitedata-accept-cookies-option =
-    .label = Derbyn cwcis a data gwefan gan wefannau (argymell)
-    .accesskey = D
-sitedata-block-cookies-option =
-    .label = Rhwystro cwcis a data gwefan (gall achosi i wefannau dorri)
-    .accesskey = R
 sitedata-keep-until = Cadw tan
     .accesskey = C
 sitedata-keep-until-expire =
     .label = Yn dod i ben
 sitedata-keep-until-closed =
     .label = Mae { -brand-short-name } wedi cau
-sitedata-accept-third-party-desc = Derbyn gwcis trydydd parti a data gwefan
-    .accesskey = g
-sitedata-accept-third-party-always-option =
-    .label = Bob tro
-sitedata-accept-third-party-visited-option =
-    .label = O'r ymwelwyd
-sitedata-accept-third-party-never-option =
-    .label = Byth
 sitedata-allow-cookies-option =
     .label = Derbyn cwcis a data gan wefannau
     .accesskey = D
@@ -747,10 +733,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Byth
     .accesskey = y
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Defnyddio Diogelwch rhag Tracio yn Pori Preifat i rwystro tracwyr hysbys
-    .accesskey = P
 tracking-exceptions =
     .label = Eithriadau…
     .accesskey = E
