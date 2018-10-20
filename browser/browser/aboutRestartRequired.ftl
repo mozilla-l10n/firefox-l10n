@@ -4,3 +4,6 @@
 
 restart-required-title = Feum air ath-thòiseachadh
 restart-required-header = Tha sinn duilich ach feumaidh sinn rud beag a dhèanamh airson cumail a’ dol.
+restart-required-intro = Tha sinn dìreach air ùrachadh a stàladh sa chùlaibh. Briog air “Ath-thòisich { -brand-short-name }” airson a choileanadh
+restart-required-description = Aisigidh sinn na duilleagan, uinneagan is tabaichean air fad agad ’na dhèidh sin ach an urrainn dhut leantainn air cùisean.
+restart-button-label = Ath-thòisich { -brand-short-name }
