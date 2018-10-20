@@ -443,6 +443,7 @@
 <!ENTITY openConversationCmd.label "Dizi görünümünde aç">
 <!ENTITY openConversationCmd.accesskey "D">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Ekler">
 <!ENTITY openAttachmentListCmd.accesskey "k">
 <!ENTITY openFeedMessage1.label "Besleme iletilerini açarken">
