@@ -10,3 +10,10 @@ documentation-tab = Dokumentasi
 policy-name = Nan Keubijakan
 policy-value = Nilai Keubijakan
 policy-errors = Masalah Keubijakan
+# 'gpo-machine-only' policies are related to the Group Policy features
+# on Windows. Please use the same terminology that is used on Windows
+# to describe Group Policy.
+# These policies can only be set at the computer-level settings, while
+# the other policies can also be set at the user-level.
+gpo-machine-only =
+    .title = 'Oh meungui Keubijakan Grup, keubijakan nyoe cuman jeuet geuatô bak tingkat komputer.
