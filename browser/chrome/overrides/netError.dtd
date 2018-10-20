@@ -157,11 +157,15 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "De eigenaar van <span class='hostname'/> heeft zijn of haar website niet juist geconfigureerd. Om uw gegevens tegen diefstal te beschermen, heeft &brandShortName; geen verbinding met deze website gemaakt.">
-<!ENTITY certerror.introPara2 "&brandShortName; heeft een mogelijk beveiligingsrisico gedetecteerd en is niet doorgegaan naar <span class='hostname'/>. Als u deze website bezoekt, zouden hackers gegevens kunnen proberen te stelen, zoals uw wachtwoorden, e-mailadressen of creditcardgegevens.">
+<!ENTITY certerror.introPara2 "&brandShortName; heeft een mogelijk beveiligingsrisico gedetecteerd en is niet doorgegaan naar <span class='hostname'/>. Als u deze website bezoekt, zouden aanvallers gegevens kunnen proberen te stelen, zoals uw wachtwoorden, e-mailadressen of creditcardgegevens.">
 
 <!ENTITY certerror.sts.introPara "&brandShortName; heeft een mogelijk beveiligingsrisico gedetecteerd en is niet doorgegaan naar <span class='hostname'/>, omdat deze website een beveiligde verbinding vereist.">
 
 <!ENTITY certerror.expiredCert.secondPara "Dit probleem komt zeer waarschijnlijk doordat uw computerklok op de verkeerde tijd is ingesteld, waardoor &brandShortName; geen beveiligde verbinding kan maken.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; heeft een probleem gedetecteerd en is niet doorgegaan naar <span class='hostname'/>. Of de website is onjuist geconfigureerd, of uw computerklok is op de verkeerde tijd ingesteld.">
+<!ENTITY certerror.expiredCert.secondPara2 "Waarschijnlijk is het certificaat van de website verlopen, waardoor &brandShortName; geen beveiligde verbinding kan maken. Als u deze website bezoekt, zouden aanvallers gegevens kunnen proberen te stelen, zoals uw wachtwoorden, e-mailadressen of creditcardgegevens.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Waarschijnlijk is het certificaat van de website verlopen, waardoor &brandShortName; geen beveiligde verbinding kan maken.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Wat kunt u hieraan doen?">
 
