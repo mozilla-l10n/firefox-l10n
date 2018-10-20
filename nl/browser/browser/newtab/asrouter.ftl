@@ -13,6 +13,8 @@ cfr-doorhanger-extension-cancel-button = Niet nu
 cfr-doorhanger-extension-ok-button = Nu toevoegen
   .accesskey = t
 
+cfr-doorhanger-extension-mange-settings-button = Instellingen voor aanbevelingen beheren
+
 cfr-doorhanger-extension-learn-more-link = Meer info
 
 # This string is used on a new line below the add-on name
