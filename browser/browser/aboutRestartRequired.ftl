@@ -4,3 +4,6 @@
 
 restart-required-title = Hurmitinde ina Naamnaa
 restart-required-header = Accu hakke. Ha min cokli waɗ-de geɗel gootel tan ngam jokkude.
+restart-required-intro = Min ngaafii hesɗitinere e cakkital. Dobo Hurmitin { -brand-short-name } ngam gasnude.
+restart-required-description = Maa min gartir kelle ɗee fof, kenorɗe ɗee e cegenon kon caggal ɗuum, mbele oɗon mbaawa fokkitde ko yaaccii.
+restart-button-label = Hurmitin { -brand-short-name }
