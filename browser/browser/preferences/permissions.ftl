@@ -45,7 +45,7 @@ permissions-capabilities-prompt =
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = Neveljaven naslov
+permissions-invalid-uri-title = Vneseni naslov je neveljaven
 permissions-invalid-uri-label = Prosim, vnesite veljaven naslov.
 
 ## Exceptions - Tracking Protection
@@ -85,10 +85,6 @@ permissions-exceptions-addons-desc = Določite, katere strani smejo nameščati 
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Dovoljene strani – Samodejno predvajanje
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Določite lahko, katere spletne strani smejo samodejno predvajati predstavnostne elemente. Vnesite točen naslov spletne strani, ki ji želite omogočiti samodejno predvajanje, in nato kliknite Dovoli.
 permissions-exceptions-autoplay-media-window2 =
     .title = Izjeme – Samodejno predvajanje
     .style = { permissions-window.style }
