@@ -12,13 +12,12 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "P">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Uporabi privzeti zvok">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "U">
-<!ENTITY pref.calendar.alarms.sound.browse.label "Brskaj …">
+<!ENTITY pref.calendar.alarms.sound.browse.label "Prebrskaj …">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
 <!ENTITY pref.calendar.alarms.sound.play.label "Predvajaj">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "P">
 <!ENTITY pref.showalarmbox "Prikaži pogovorno okno opomnika">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "o">
-<!ENTITY pref.missedalarms "Prikaži zgrešene opomnike">
 <!ENTITY pref.missedalarms2 "Prikaži zgrešene opomnike za zapisljive koledarje">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "z">
 <!ENTITY pref.calendar.alarms.defaults.label "Privzete nastavitve za opomnike">
