@@ -29,6 +29,7 @@
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "નકલી ટેબ">
 <!ENTITY  duplicateTab.accesskey             "D">
+<!ENTITY  closeTabOptions.label              "ટૅબ વિકલ્પો બંધ કરો">
 <!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
@@ -41,6 +42,7 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "પસંદ થયેલ ટૅબને બંધ કરો">
 <!ENTITY  closeSelectedTabs.accesskey        "S">
 
+<!ENTITY  closeTabs.label                    "ટૅબ્સ બંધ કરો">
 <!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "ટૅબ્સ પિન કરો">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
@@ -58,6 +60,7 @@ but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "ટૅબ્સ ફરીથી લોડ કરો">
 <!ENTITY  reloadTabs.accesskey               "R">
 <!ENTITY  bookmarkSelectedTabs.label         "ટૅબ્સ બુકમાર્ક કરો …">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
@@ -87,9 +90,13 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "ટૅબને ખસેડો">
 <!ENTITY  moveTabOptions.accesskey           "v">
+<!ENTITY  moveSelectedTabOptions.label       "ટૅબ્સને ખસેડો">
 <!ENTITY  moveSelectedTabOptions.accesskey   "v">
+<!ENTITY  moveToStart.label                  "શરુ કરવાં માટે લઇ જાઓ">
 <!ENTITY  moveToStart.accesskey              "S">
+<!ENTITY  moveToEnd.label                    "પૂર્ણ કરવાં માટે લઇ જાઓ">
 <!ENTITY  moveToEnd.accesskey                "E">
 <!ENTITY  moveToNewWindow.label              "નવી વિન્ડોમાં ખસેડો">
 <!ENTITY  moveToNewWindow.accesskey          "W">
@@ -97,6 +104,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "બધા ટૅબ્સને બુકમાર્ક કરો…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  bookmarkTab.label                  "ટૅબને બુકમાર્ક કરો">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkTab.accesskey              "B">
@@ -141,20 +149,28 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "બધા ટૅબ્સને બુકમાર્ક કરો…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "પસંદ કરેલી ટૅબ ફરીથી લોડ કરો">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "પસંદ કરેલી ટૅબ્સ ફરીથી લોડ કરો">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "પસંદ કરેલ ટૅબને બુકમાર્ક કરો…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "પસંદ કરેલ ટૅબ્સને બુકમાર્ક કરો…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "બધી ટૅબ્સને પસંદ કરો">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "બંધ ટૅબને ફરી લાવો">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
@@ -822,6 +838,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "સાઇટ સુરક્ષા">
 
+<!ENTITY identity.connection "જોડાણ">
 <!ENTITY identity.connectionSecure "સુરક્ષિત જોડાણ">
 <!ENTITY identity.connectionNotSecure "જોડાણ સુરક્ષિત નથી">
 <!ENTITY identity.connectionFile "આ પૃષ્ઠને તમારા કમ્પ્યુટર પર સંગ્રહિત છે.">
@@ -985,6 +1002,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.fastBlock.add.label "અવરોધ ઉમેરો…">
 
 <!ENTITY contentBlocking.trackingProtection2.label "બધા શોધેલા ટ્રેકર">
+<!ENTITY contentBlocking.trackingProtection3.label "ટ્રેકર્સ">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
