@@ -363,7 +363,6 @@
 <!ENTITY pref_use_system_font_size_summary "સિસ્ટમ ફોન્ટ કદ અનુસાર વેબ સામગ્રીને માપ કરો">
 
 <!ENTITY pref_media_autoplay_enabled "ઑટોપ્લે ની મંજૂરી આપો">
-<!ENTITY pref_media_autoplay_enabled_summary "વેબસાઇટ્સ વિડિઓ અને અન્ય મીડિયા સામગ્રી ઑટોપ્લે થાતી હોય તો નિયંત્રણ કરો">
 <!ENTITY pref_media_autoplay_allow "ઑટોપ્લે ની મંજૂરી આપો">
 <!ENTITY pref_media_autoplay_block "ઑટોપ્લે અવરોધિત કરો">
 <!ENTITY pref_zoom_force_enabled "હંમેશા ઝૂમ સક્રિય રાખો">
@@ -828,9 +827,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "&brandShortName; ખોલવામાં અસમર્થ. ફરીથી ઇન્સ્ટોલ કરો અને ફરી પ્રયાસ કરો.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; લાંબા સમય સુધી અદ્યતન બનાવવામાં આવશે નહિ">
-<!ENTITY eol_notification_summary "વધુ શીખવા માટે ઠપકારો">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; નવીનકૃત છે">
@@ -904,3 +900,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; પુશ સૂચનાઓ">
 <!ENTITY updater_notification_channel "એપ્લિકેશન સુધારાઓ">
 <!ENTITY synced_tabs_notification_channel "સમન્વય કરેલી ટૅબ્સ">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "સાઇટ સૂચનાઓ">
