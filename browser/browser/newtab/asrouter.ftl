@@ -22,3 +22,18 @@ cfr-doorhanger-extension-notification = Wasiya
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
 
+# Variables:
+#   $total (Number) - The rating of the add-on from 1 to 5
+cfr-doorhanger-extension-rating =
+    .tooltiptext =
+        { $total ->
+            [one] { $total } hoodere
+           *[other] { $total } koode
+        }
+# Variables:
+#   $total (Number) - The total number of users using the add-on
+cfr-doorhanger-extension-total-users =
+    { $total ->
+        [one] { $total } kuutoro
+       *[other] { $total } huutorɓe
+    }
