@@ -63,6 +63,7 @@ policy-OverridePostUpdatePage = Preglasi stran "Kaj je novega", ki se odpre po p
 policy-Permissions = Nastavi dovoljenja za kamero, mikrofon, lokacijo in obvestila.
 policy-PopupBlocking = Določenim spletnim stranem dovoli privzeto prikazovanje pojavnih oken.
 policy-Proxy = Nastavi posrednika.
+policy-RequestedLocales = Nastavi vrstni red zahtevanih jezikov za program.
 policy-SanitizeOnShutdown = Ob izhodu počisti vse podatke brskanja.
 policy-SearchBar = Nastavi privzet položaj vrstice za iskanje. Uporabnik ga lahko še vedno prilagodi.
 policy-SearchEngines = Nastavi iskalnike. Ta pravilnik je na voljo le v izdaji Extended Support Release (ESR).
