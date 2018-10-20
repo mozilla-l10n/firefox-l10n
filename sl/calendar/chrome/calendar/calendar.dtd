@@ -178,6 +178,7 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Prisotnost">
 <!ENTITY calendar.context.attendance.menu.accesskey             "P">
 <!ENTITY calendar.context.attendance.occurrence.label           "Ta ponovitev">
+<!ENTITY calendar.context.attendance.all2.label                 "Celotna serija">
 <!ENTITY calendar.context.attendance.send.label                 "Pošlji obvestilo zdaj">
 <!ENTITY calendar.context.attendance.send.accesskey             "P">
 <!ENTITY calendar.context.attendance.dontsend.label             "Ne pošlji obvestila">
@@ -189,6 +190,7 @@
 <!ENTITY calendar.context.attendance.occ.tentative.label        "Pogojno sprejeto">
 <!ENTITY calendar.context.attendance.occ.declined.accesskey     "Z">
 <!ENTITY calendar.context.attendance.occ.declined.label         "Zavrnjeno">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "e">
 <!ENTITY calendar.context.attendance.occ.delegated.label        "Dodeljeno">
 <!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "Š">
 <!ENTITY calendar.context.attendance.occ.needsaction.label      "Še nedoločeno">
@@ -203,6 +205,7 @@
 <!ENTITY calendar.context.attendance.all.tentative.label        "Pogojno sprejeto">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "Z">
 <!ENTITY calendar.context.attendance.all.declined.label         "Zavrnjeno">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "l">
 <!ENTITY calendar.context.attendance.all.delegated.label        "Dodeljeno">
 <!ENTITY calendar.context.attendance.all.needsaction.accesskey  "Š">
 <!ENTITY calendar.context.attendance.all.needsaction.label      "Še nedoločeno">
