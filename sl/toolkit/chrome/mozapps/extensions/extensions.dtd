@@ -206,7 +206,7 @@
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Sprejmi in namesti …">
 
-<!ENTITY settings.path.button.label           "Brskaj…">
+<!ENTITY settings.path.button.label           "Prebrskaj …">
 
 <!ENTITY setting.learnmore "Več o tem …">
 
