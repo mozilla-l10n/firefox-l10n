@@ -62,7 +62,7 @@ but will never be visible at the same time. -->
 but will never be visible at the same time. -->
 <!ENTITY  reloadTabs.label                   "Recargar pestañas">
 <!ENTITY  reloadTabs.accesskey               "R">
-<!ENTITY  bookmarkSelectedTabs.label         "Marcar pestañas…">
+<!ENTITY  bookmarkSelectedTabs.label         "Guardar pestañas en marcadores…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
@@ -148,7 +148,26 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Guardar todas las pestañas en marcadores…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Marcar pestañas seleccionadas…">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Recargar pestaña seleccionada">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Restaurar pestañas seleccionadas">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Guardar pestaña seleccionada en marcadores…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Guardar pestañas seleccionadas en marcadores…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Seleccionar todas las pestañas">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
@@ -596,9 +615,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Recargar marco">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ver código fuente de la selección">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Ver código fuente MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Ver código fuente de la página">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
@@ -815,7 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Listo">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Mostrar editor al guardar">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
@@ -966,9 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "El audio de la pestaña será compartido.">
 <!ENTITY getUserMedia.allWindowsShared.message "Todas las ventanas visibles en tu pantalla serán compartidas.">
 
-<!ENTITY trackingProtection.on "Protección de seguimiento: ACTIVADA">
-<!ENTITY trackingProtection.off "Protección de seguimiento: DESACTIVADA">
-
 <!ENTITY contentBlocking.title "Bloqueo de contenido">
 <!ENTITY contentBlocking.detected "Se ha detectado contenido bloqueable en este sitio.">
 <!ENTITY contentBlocking.notDetected "No se ha detectado contenido bloqueable en este sitio.">
@@ -1027,28 +1039,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Protección de seguimiento">
 <!ENTITY trackingProtection.tooltip "Abrir preferencias de protección de seguimiento">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; está bloqueando partes de esta página que pueden seguir tu navegación.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; ha detectado elementos que pueden rastrear tu navegación.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; ha detectado elementos que pueden rastrear tu navegación. Has desactivado la protección.">
-<!ENTITY trackingProtection.notDetected5 "No se detectaron elementos de seguimiento en esta página.">
-<!ENTITY trackingProtection.notDetectedException "No se detectaron elementos de seguimiento en esta página. Has desactivado la protección para este sitio.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Has activado la protección de seguimiento. Recarga esta página para bloquear todos los rastreadores.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Desactivar para este sitio">
-<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!ENTITY trackingProtection.unblock4.label "Desactivar bloqueo para este sitio">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Desactivar para esta sesión">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "Activar para este sitio">
-<!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.unblockPrivate4.label "Desactivar bloqueo temporalmente">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Activar bloqueo para este sitio">
@@ -1158,7 +1157,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">
 
 <!ENTITY pageAction.shareUrl.label "Compartir">
-
 <!ENTITY pageAction.shareMore.label "Más…">
 
 <!ENTITY libraryButton.tooltip "Ver historial, marcadores guardados y más">

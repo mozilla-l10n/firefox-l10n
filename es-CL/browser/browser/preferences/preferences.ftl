@@ -53,6 +53,7 @@ pane-sync-title = Firefox Account
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Soporte de { -brand-short-name }
+addons-button-label = Extensiones y temas
 focus-search =
     .key = f
 close-button =
@@ -114,7 +115,7 @@ search-results-empty-message =
         [windows] ¡Lo sentimos! No hay resultados en Opciones para “<span data-l10n-name="query"></span>”.
        *[other] ¡Lo sentimos! No hay resultados en Preferencias para “<span data-l10n-name="query"></span>”.
     }
-search-results-help-link = ¿Necesita ayuda? Visita <a data-l10n-name="url">Ayuda de { -brand-short-name }</a>
+search-results-help-link = ¿Necesitas ayuda? Visita la <a data-l10n-name="url">Ayuda de { -brand-short-name }</a>
 
 ## General Section
 
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy de red
 network-settings-title = Ajustes de conexión
 network-proxy-connection-description = Configura cómo { -brand-short-name } se conecta a internet
 network-proxy-connection-learn-more = Aprender más
@@ -592,26 +592,12 @@ sitedata-total-size-calculating = Calculando el tamaño de los datos del sitio y
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tus cookies, datos de sitio y caché almacenados están usando actualmente { $value } { $unit } de espacio en disco.
 sitedata-learn-more = Aprender más
-sitedata-accept-cookies-option =
-    .label = Aceptar cookies y datos de sitios (recomendado)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Bloquear cookies y datos de sitios (puede hacer que algunos sitios no funcionen)
-    .accesskey = B
 sitedata-keep-until = Mantener hasta
     .accesskey = u
 sitedata-keep-until-expire =
     .label = que expiren
 sitedata-keep-until-closed =
     .label = que { -brand-short-name } sea cerrado
-sitedata-accept-third-party-desc = Aceptar cookies y datos de sitio de terceros
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = Siempre
-sitedata-accept-third-party-visited-option =
-    .label = De los visitados
-sitedata-accept-third-party-never-option =
-    .label = Nunca
 sitedata-allow-cookies-option =
     .label = Aceptar cookies y datos de sitio
     .accesskey = A
@@ -735,10 +721,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nunca
     .accesskey = n
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Usar protección de rastreo en navegación privada para bloquear los rastreadores conocidos
-    .accesskey = v
 tracking-exceptions =
     .label = Excepciones…
     .accesskey = x

@@ -8,7 +8,7 @@
 
 <!ENTITY privateBrowsing.title                           "Navegación privada">
 <!ENTITY privateBrowsing.title.tracking                  "Navegación privada con protección de seguimiento">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Cuando navega en una ventana privada, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Cuando navegas en una ventana privada, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "no guarda">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "Páginas visitadas">

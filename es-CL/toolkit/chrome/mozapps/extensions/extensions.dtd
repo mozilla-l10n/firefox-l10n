@@ -3,11 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Administrador de complementos">
 
-<!ENTITY search.placeholder                   "Buscar todos los complementos">
-
 <!ENTITY search.placeholder2                  "Buscar en addons.mozilla.org">
+
 <!ENTITY search.buttonlabel                   "Buscar">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +15,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "No se encontraron actualizaciones">
 <!ENTITY listEmpty.recentUpdates.label        "No ha habido actualizaciones recientes de ningún complemento">
 <!ENTITY listEmpty.findUpdates.label          "Buscar actualizaciones">
-<!ENTITY listEmpty.search.label               "No se pudo encontrar ningún complemento que coincida">
 <!ENTITY listEmpty.button.label               "Aprender más sobre complementos">
 <!ENTITY installAddonFromFile.label           "Instalar complemento desde archivo…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -24,9 +22,6 @@
 
 <!ENTITY getThemes.description                "¿Buscas personalizar tu navegador?">
 <!ENTITY getThemes.learnMore                  "Elige entre miles de temas.">
-
-<!ENTITY cmd.back.tooltip                     "Retroceder una página">
-<!ENTITY cmd.forward.tooltip                  "Avanzar una página">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Algunas extensiones no pudieron ser verificadas">
@@ -44,10 +39,13 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Habilitar la verificación de actualizaciones de seguridad">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Buscar">
 <!ENTITY view.discover.label                  "Obtener complementos">
 <!ENTITY view.recentUpdates.label             "Actualizaciones recientes">
 <!ENTITY view.availableUpdates.label          "Actualizaciones disponibles">
+
+<!ENTITY helpButton.label                      "Soporte para complementos">
+<!ENTITY preferencesWin.label                  "Opciones de &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Preferencias de &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Buscar actualizaciones">
@@ -87,8 +85,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Preferencias">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "Acerca de">
-<!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "Habilitar">
 <!ENTITY cmd.enableAddon.accesskey            "H">
@@ -135,7 +131,6 @@
 <!ENTITY detail.lastupdated.label             "Última actualización">
 <!ENTITY detail.creator.label                 "Desarrollador">
 <!ENTITY detail.homepage.label                "Sitio web">
-<!ENTITY detail.numberOfDownloads.label       "Descargas">
 
 <!ENTITY detail.contributions.description     "El programador de este complemento pide que lo ayuden a apoyar su desarrollo continuo a través de un pequeño aporte.">
 
@@ -167,23 +162,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
 <!ENTITY progress.cancel.tooltip              "Cancelar">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Nombre">
-<!ENTITY sort.name.tooltip                    "Ordenar por nombre">
-<!ENTITY sort.dateUpdated.label               "Última actualización">
-<!ENTITY sort.dateUpdated.tooltip             "Ordenar por fecha de actualización">
-<!ENTITY sort.relevance.label                 "Relevancia">
-<!ENTITY sort.relevance.tooltip               "Ordenar por relevancia">
-<!ENTITY sort.price.label                     "Precio">
-<!ENTITY sort.price.tooltip                   "Ordenar por precio">
-
-<!ENTITY search.filter2.label                 "Buscar:">
-<!ENTITY search.filter2.installed.label       "Mis complementos">
-<!ENTITY search.filter2.installed.tooltip     "Mostrar complementos instalados">
-<!ENTITY search.filter2.available.label       "Complementos disponibles">
-<!ENTITY search.filter2.available.tooltip     "Mostrar complementos disponibles para instalar">
 
 <!ENTITY addon.homepage                       "Sitio web">
 <!ENTITY addon.details.label                  "Más">
@@ -226,17 +204,6 @@
 <!ENTITY eula.accept                          "Aceptar e Instalar…">
 
 <!ENTITY settings.path.button.label           "Examinar…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "¿Qué es? Telemetría instalará y ejecutará experimentos de vez en cuando.">
-<!ENTITY experiment.info.learnmore "Aprender más">
-<!ENTITY experiment.info.learnmore.accesskey "n">
-<!ENTITY experiment.info.changetelemetry "Ajustes de Telemetría">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Aprender más…">
 
