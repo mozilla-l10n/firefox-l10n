@@ -10,6 +10,8 @@ cfr-doorhanger-extension-sumo-link =
 cfr-doorhanger-extension-cancel-button = Non adesso
     .accesskey = N
 
+cfr-doorhanger-extension-mange-settings-button = Gestisci impostazioni suggerimenti
+
 cfr-doorhanger-extension-ok-button = Aggiungi
     .accesskey = A
 
