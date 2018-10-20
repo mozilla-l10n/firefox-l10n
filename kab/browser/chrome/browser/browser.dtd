@@ -95,7 +95,9 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveSelectedTabOptions.label       "Senkez iccaren">
 <!ENTITY  moveSelectedTabOptions.accesskey   "n">
 <!ENTITY  moveToStart.label                  "Senkez akken ad tebḍuḍ">
+<!ENTITY  moveToStart.accesskey              "B">
 <!ENTITY  moveToEnd.label                    "Senkez akken ad tfakeḍ">
+<!ENTITY  moveToEnd.accesskey                "F">
 <!ENTITY  moveToNewWindow.label              "Senkez ɣer usfaylu amaynut">
 <!ENTITY  moveToNewWindow.accesskey          "m">
 <!ENTITY  reopenInContainer.label            "Ldi-d tikelt-nneḍen amagbar">
@@ -105,6 +107,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  bookmarkTab.label                  "Iccer n tecraḍ n yisebtar">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "C">
 <!ENTITY  undoCloseTab.label                 "Sefsex amdal n yiccer.">
 <!ENTITY  undoCloseTab.accesskey             "S">
 <!ENTITY  closeTab.label                     "Mdel iccer">
@@ -150,19 +153,24 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "A">
 <!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Sali-d tikkelt nniḍen accaren yettwafernen">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Creḍ accaren yettwafernen…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Cṛeḍ iccaren yettwafernen…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Fren akk accaren">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "F">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Sefsex amdal n yiccer">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "S">
 
