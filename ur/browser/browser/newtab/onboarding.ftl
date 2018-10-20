@@ -21,4 +21,5 @@ onboarding-private-browsing-text = خود سے براؤز کریں۔ نجی بر
 onboarding-screenshots-title = اسکرین شاٹس
 onboarding-screenshots-text = { -brand-short-name } چھوڈیں بغیر- اسکرین شاٹ لے، محفوظ کریں اور بانٹیں۔ براؤز کرتے وقت ایک حصصہ یا ایک پورا صفحہ کبضہ کریں۔ فھر اسان رسائی اور بانٹنے کے لئے ویب پر محفوظ کریں۔
 onboarding-addons-title = ایڈ اون
+onboarding-addons-text = { -brand-short-name } میں اور بھی مزید خصوصیات شامل کریں جسسے آپ اپنے سخت کام کو انجام دے سکے۔ قیمتوں کا موازنہ کریں، موسم کی جانچ پڑتال کریں یا مرضی کے مطابق تھیم سے اپنی شخصیت کا اظہار کرے۔
 onboarding-ghostery-title = گھوسٹری
