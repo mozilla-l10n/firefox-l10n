@@ -29,3 +29,9 @@ cfr-doorhanger-extension-rating =
         { $total ->
            *[other] { $total } bintang
         }
+# Variables:
+#   $total (Number) - The total number of users using the add-on
+cfr-doorhanger-extension-total-users =
+    { $total ->
+       *[other] { $total } ureueng ngui
+    }

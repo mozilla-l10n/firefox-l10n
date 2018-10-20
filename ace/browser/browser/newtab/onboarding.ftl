@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Neuci Jinoe
+onboarding-welcome-header = Ka trôk neuteuka bak { -brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
