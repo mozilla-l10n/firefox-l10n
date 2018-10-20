@@ -41,6 +41,9 @@
 <!ENTITY runtimeMenu_showSettings_label "ઉપકરણ સુયોજનો">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "દેખાવ">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
+
 <!ENTITY viewMenu_label "જુઓ">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_zoomin_label "મોટું કરો">
@@ -75,7 +78,6 @@
 <!ENTITY runtimePanel_wifi "Wi-Fi ઉપકરણો">
 <!ENTITY runtimePanel_other "અન્ય">
 <!ENTITY runtimePanel_noadbhelper "ADB સહાયક ઇન્સ્ટોલ કરો">
-<!ENTITY runtimePanel_noadbextension "ADB વિસ્તરણ સ્થાપિત કરો">
 <!ENTITY runtimePanel_nousbdevice "તમારું ઉપકરણ જોઈ શકાતું નથી?">
 <!ENTITY runtimePanel_refreshDevices_label "ઉપકરણો પુનઃતાજાં કરો">
 
