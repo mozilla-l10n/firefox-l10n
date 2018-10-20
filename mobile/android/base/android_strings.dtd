@@ -363,7 +363,6 @@
 <!ENTITY pref_use_system_font_size_summary "Atvaizduoti saityno turinį pagal sisteminį šrifto dydį">
 
 <!ENTITY pref_media_autoplay_enabled "Leisti automatinį grojimą">
-<!ENTITY pref_media_autoplay_enabled_summary "Nustatykite, ar svetainės gali automatiškai paleisti vaizdo įrašus bei kitą medijos turinį">
 <!ENTITY pref_media_autoplay_allow "Leisti automatinį grojimą">
 <!ENTITY pref_media_autoplay_block "Neleisti automatinio grojimo">
 <!ENTITY pref_zoom_force_enabled "Visada įgalinti artinimą">
@@ -828,9 +827,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Nepavyko atverti „&brandShortName;“. Prašome perdiegti ir bandyti iš naujo.">
 
-<!ENTITY eol_notification_title2 "„&brandShortName;“ daugiau neatsinaujins">
-<!ENTITY eol_notification_summary "Bakstelėkite išsamesnei informacijai">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "Naudojama paskiausia „&brandShortName;“ laida">
@@ -904,3 +900,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "„&brandShortName;“ siunčiami pranešimai">
 <!ENTITY updater_notification_channel "Programos naujinimai">
 <!ENTITY synced_tabs_notification_channel "Sinchronizuotos kortelės">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Svetainių pranešimai">
