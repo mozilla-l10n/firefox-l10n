@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,17 +129,8 @@ is-not-default = { -brand-short-name } er ekki sjálfgefinn vafri
 set-as-my-default-browser =
     .label = Gera sjálfgefið…
     .accesskey = s
-startup-page = Þegar { -brand-short-name } ræsir
-    .accesskey = s
-startup-user-homepage =
-    .label = Sýna mína heimasíðu
-startup-blank-page =
-    .label = Sýna tóma síðu
-startup-prev-session =
-    .label = Sýna flipa og glugga frá seinustu keyrslu
 disable-extension =
     .label = Slökkva á viðbót
-home-page-header = Heimasíða
 tabs-group-header = Flipar
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab skiptir á milli flipa í notkunarröð
@@ -267,7 +250,6 @@ play-drm-content =
 play-drm-content-learn-more = Vita meira
 update-application-title = { -brand-short-name } uppfærslur
 update-application-description = Viðhalda { -brand-short-name } uppfærðum fyrir bestu afköst, stöðugleika og öryggi.
-update-application-info = Útgáfa { $version } <a>Hvað er nýtt</a>
 update-application-version = Útgáfa { $version } <a data-l10n-name="learn-more">Hvað er nýtt</a>
 update-history =
     .label = Sýna uppfærslusögu…
@@ -303,7 +285,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Takmarka þræði fyrir efni
     .accesskey = þ
 performance-limit-content-process-enabled-desc = Fleiri þræðir fyrir efni getur aukið afköst þegar verið er að nota marga flipa, en tekur upp meira minni.
-performance-limit-content-process-disabled-desc = Aðeins er hægt að breyta fjölda efnisþráða með { -brand-short-name } sem inniheldur fjölgjörvavinnslu. <a>Sjáðu hvernig þú athugar hvort fjölgjörvavinnsla er virk</a>
 performance-limit-content-process-blocked-desc = Aðeins er hægt að breyta fjölda efnisþráða með { -brand-short-name } sem inniheldur fjölgjörvavinnslu. <a data-l10n-name="learn-more">Sjáðu hvernig þú athugar hvort fjölgjörvavinnsla er virk</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -331,7 +312,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Net milliþjónn
 network-proxy-connection-description = Stilla hvernig { -brand-short-name } tengist við Internetið.
 network-proxy-connection-learn-more = Fræðast meira
 network-proxy-connection-settings =
@@ -373,9 +353,6 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
-restore-default =
-    .label = Endurstilla
-    .accesskey = r
 
 ## Search Section
 
@@ -483,7 +460,7 @@ sync-engine-history =
     .accesskey = r
 sync-engine-tabs =
     .label = Opna flipa
-    .tooltiptext = Listi yfir hvað er opið á öllum tengdum tækjum
+    .tooltiptext = Listi yfir hvað er opið á öllum samstilltum tækjum
     .accesskey = f
 sync-engine-logins =
     .label = Innskráningar
@@ -569,9 +546,6 @@ history-dontremember-description = { -brand-short-name } mun nota sömu stilling
 history-private-browsing-permanent =
     .label = Nota alltaf einkavöfrun
     .accesskey = k
-history-remember-option =
-    .label = Muna vafraferil og niðurhalsferil
-    .accesskey = g
 history-remember-search-option =
     .label = Muna leit og eyðublaðaferil
     .accesskey = f
@@ -594,26 +568,12 @@ sitedata-total-size-calculating = Reikna gagnastærð vefsvæðis og stærð sky
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Geymdar smákökur, gögn fyrir vefsvæði og skyndiminni eru að nota { $value } { $unit } af diskplássi.
 sitedata-learn-more = Fræðast meira
-sitedata-accept-cookies-option =
-    .label = Taka á móti smákökum og gögnum frá vefsvæðum (mælt með)
-    .accesskey = a
-sitedata-block-cookies-option =
-    .label = Loka á smákökur og gögn (gæti haft áhrif virkni á vefsvæða)
-    .accesskey = ö
 sitedata-keep-until = Eiga þangað til
     .accesskey = E
 sitedata-keep-until-expire =
     .label = þær renna út
 sitedata-keep-until-closed =
     .label = { -brand-short-name } er lokað
-sitedata-accept-third-party-desc = Taka á móti smákökum frá þriðja aðila og gögnum
-    .accesskey = ö
-sitedata-accept-third-party-always-option =
-    .label = Alltaf
-sitedata-accept-third-party-visited-option =
-    .label = Frá heimsóttum síðum
-sitedata-accept-third-party-never-option =
-    .label = Aldrei
 sitedata-clear =
     .label = Hreinsa gögn…
     .accesskey = ö
@@ -639,6 +599,9 @@ addressbar-locbar-openpage-option =
     .accesskey = O
 addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvéla
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 tracking-header = Vörn gegn gagnasöfnun
@@ -653,10 +616,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Aldrei
     .accesskey = d
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Nota vörn gegn gagnasöfnun í huliðsgluggum til að loka á þekkta gagnasafnara
-    .accesskey = v
 tracking-exceptions =
     .label = Undanþágur…
     .accesskey = U
