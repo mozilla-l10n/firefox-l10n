@@ -148,7 +148,26 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "P">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Nod Tudalen i Bob Tab…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Ail Lwytho'r Tab Hwn">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "A">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Ail Lwytho'r Tabiau Hyn">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Gosod Nod Tudalen i'r Tab Hwn…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Gosod Nod Tudalen i'r Tabiau Hyn…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Dewis Pob Tab">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "D">
@@ -596,9 +615,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Ail-lwytho'r Ffrâm">
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Edrych ar Ffynhonnell y Dewis">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Edrych ar Ffynhonnell MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "E">
 <!ENTITY viewPageSourceCmd.label      "Edrych ar God Gwreiddiol y Dudalen">
 <!ENTITY viewPageSourceCmd.accesskey  "G">
@@ -815,7 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Gorffen">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Dangos y golygydd wrth gadw">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "D">
 
@@ -966,9 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Bydd sain o'r tab yn cael ei rannu.">
 <!ENTITY getUserMedia.allWindowsShared.message "Bydd pob ffenestr gweladwy ar eich sgrin yn cael eu rhannu.">
 
-<!ENTITY trackingProtection.on "Diogelu rhag Tracio: YMLAEN">
-<!ENTITY trackingProtection.off "Diogelu rhag Tracio: I FFWRDD">
-
 <!ENTITY contentBlocking.title "Rhwystro Cynnwys">
 <!ENTITY contentBlocking.detected "Mae cynnwys rhwystradwy wedi ei ganfod ar y wefan hon.">
 <!ENTITY contentBlocking.notDetected "Dim cynnwys rhwystradwy wedi eu canfod ar y dudalen hon.">
@@ -1027,28 +1039,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Diogelwch Rhag Tracio">
 <!ENTITY trackingProtection.tooltip "Agor Dewisiadau Diogelu rhag Tracio">
-<!ENTITY trackingProtection.detectedBlocked4 "Mae &brandShortName; yn rhwystro rhannau o'r dudalen hon gall fod yn tracio eich pori.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "Mae &brandShortName; wedi canfod elfennau gall fod yn tracio eich pori.">
-<!ENTITY trackingProtection.detectedException "Mae &brandShortName; wedi canfod elfennau gall fod yn tracio eich pori. Rydych wedi analluogi diogelu ar y wefan hon.">
-<!ENTITY trackingProtection.notDetected5 "Dim elfennau tracio wedi eu canfod ar y dudalen hon.">
-<!ENTITY trackingProtection.notDetectedException "Dim elfennau tracio wedi eu canfod ar y dudalen hon. Rydych wedi analluogi diogelu ar y wefan hon.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Rydych wedi galluogi Diogelu rhag Tracio. Llwythwch y dudalen hon eto i rwystro pob traciwr.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Analluogi ar Gyfer y Wefan Hon">
-<!ENTITY trackingProtection.unblock3.accesskey "A">
 <!ENTITY trackingProtection.unblock4.label "Analluogi Rhwystro ar Gyfer y Wefan Hon">
 <!ENTITY trackingProtection.unblock4.accesskey "A">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Analluogi ar Gyfer y Sesiwn Hwn">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "A">
-<!ENTITY trackingProtection.block4.label "Galluogi ar gyfer y Wefan Hon">
-<!ENTITY trackingProtection.block4.accesskey "G">
 <!ENTITY trackingProtection.unblockPrivate4.label "Analluogi Rhwystro Dros Dro">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "A">
 <!ENTITY trackingProtection.block5.label "Galluogi Rhwystro ar Gyfer y Wefan Hon">
@@ -1158,7 +1157,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Cydweddu Dyfeisiau…">
 
 <!ENTITY pageAction.shareUrl.label "Rhannu">
-
 <!ENTITY pageAction.shareMore.label "Rhagor…">
 
 <!ENTITY libraryButton.tooltip "Gweld hanes, nodau tudalen wedi eu cadw, a rhagor">
