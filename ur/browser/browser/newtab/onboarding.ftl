@@ -17,6 +17,7 @@ onboarding-start-browsing-button-label = براؤزنگ شروع کریں
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = نجی براؤزنگ
+onboarding-private-browsing-text = خود سے براؤز کریں۔ نجی براؤزنگ مواد روکنے کے ساتھ ویب کے اردگرد اپکی پیروی کر رحی آن لائن ٹریکر کو روکتا ہے۔
 onboarding-screenshots-title = اسکرین شاٹس
 onboarding-addons-title = ایڈ اون
 onboarding-ghostery-title = گھوسٹری
