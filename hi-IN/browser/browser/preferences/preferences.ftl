@@ -53,6 +53,7 @@ pane-sync-title = Firefox खाता
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } समर्थन
+addons-button-label = एक्सटेंशन और थीम
 focus-search =
     .key = f
 close-button =
@@ -322,7 +323,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = नेटवर्क प्रॉक्सी
 network-settings-title = नेटवर्क सेटिंग
 network-proxy-connection-description = विन्यस्त करें की { -brand-short-name } कैसे इंटरनेट से जुड़ेगा.
 network-proxy-connection-learn-more = अधिक जानें
@@ -521,6 +521,7 @@ privacy-header = ब्राउज़र गोपनीयता
 ## Privacy Section - Forms
 
 forms-header = फ़ॉर्म व कूटशब्द
+logins-header = लॉगिन और पासवर्ड
 forms-ask-to-save-logins =
     .label = वेबसाइटों के लिए लॉग इन और पासवर्ड सहेजने के लिए पूछें
     .accesskey = r
@@ -587,26 +588,12 @@ sitedata-total-size-calculating = साइट डेटा और कैश आ
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = आपकी संग्रहीत कुकीज़, साइट डेटा और कैश वर्तमान में डिस्क स्थान के { $value } { $unit } का उपयोग कर रहे हैं।
 sitedata-learn-more = अधिक जानें
-sitedata-accept-cookies-option =
-    .label = वेबसाइट से कूकीज और साइट डाटा स्वीकार करें (अनुशंसित)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = कुकीज़ और साइट डेटा को ब्लॉक करें (इसके कारण वेबसाइट टूट सकती है)
-    .accesskey = B
 sitedata-keep-until = तब तक रखें जब तक
     .accesskey = u
 sitedata-keep-until-expire =
     .label = उनकी समय सीमा समाप्त
 sitedata-keep-until-closed =
     .label = { -brand-short-name } बंद हो चूका है
-sitedata-accept-third-party-desc = तृतीय पक्ष कूकीज और साइट डाटा स्वीकार करें
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = हमेशा
-sitedata-accept-third-party-visited-option =
-    .label = भ्रमण किए हुए से
-sitedata-accept-third-party-never-option =
-    .label = कभी नहीं
 sitedata-allow-cookies-option =
     .label = कुकीज़ और साइट डेटा स्वीकार करें
     .accesskey = A
@@ -667,6 +654,9 @@ content-blocking-toggle-label-on = चालू
 content-blocking-toggle-label-off = बंद
     .accesskey = O
 content-blocking-category-label = चुनें कि क्या ब्लॉक करना है
+content-blocking-tracking-protection-trackers-label =
+    .label = ट्रैकर
+    .accesskey = T
 content-blocking-tracking-protection-option-always =
     .label = हमेशा
     .accesskey = A
@@ -705,10 +695,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = कभी नहीं
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = निजी ब्राउज़िंग में ज्ञात ट्रैकर्स को ब्लॉक करने के लिए ट्रैकिंग प्रोटैक्शन का उपयोग करें
-    .accesskey = v
 tracking-exceptions =
     .label = अपवाद…
     .accesskey = x
