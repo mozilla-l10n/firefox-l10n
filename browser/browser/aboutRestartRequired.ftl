@@ -5,5 +5,5 @@
 restart-required-title = Zahtevan je ponoven zagon
 restart-required-header = Oprostite. Za nadaljevanje moramo nekaj malega postoriti.
 restart-required-intro = Pravkar smo v ozadju namestili posodobitev. Kliknite Ponovno zaženi { -brand-short-name } za dokončanje.
-restart-required-description = Obnovili bomo vse vaše strani, okna in zavihke, tako da boste hitro spet na želeni poti.
+restart-required-description = Obnovili bomo vse vaše strani, okna in zavihke, tako da boste kmalu nazaj na želeni poti.
 restart-button-label = Ponovno zaženi { -brand-short-name }
