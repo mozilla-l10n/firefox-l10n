@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Atrás">
 <!ENTITY returnToPreviousPage1.label "Retroceder (recomendado)">
 <!ENTITY advanced.label "Avanzadas">
-
 <!ENTITY continue2.label "Más…">
 <!ENTITY moreInformation.label "Más información">
+
+<!ENTITY viewCertificate.label "Ver certificado">
 
 <!-- Specific error messages -->
 
@@ -148,14 +149,16 @@
 
 <!ENTITY certerror.longpagetitle1 "La conexión no es segura">
 <!ENTITY certerror.longpagetitle2 "Advertencia: Potencial riesgo de seguridad próximo">
+<!ENTITY certerror.sts.longpagetitle  "No se conectó: Posible problema de seguridad">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "El dueño de <span class='hostname'/> ha configurado mal el sitio web.  Para proteger la información contra robos, &brandShortName; no ha conectado a este sitio web.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; detectó una potencial amenaza de seguridad y no continuó a <span class='hostname'/>. Si visita este sitio, los atacantes podrían intentar robar su información tal como sus contraseñas, correo electrónico o datos de su tarjeta de crédito.">
 
+
 <!ENTITY certerror.expiredCert.secondPara "Este problema seguramente se debe a que la hora del el reloj de su computadora es incorrecta, lo que impediría que &brandShortName; se conecte de forma segura.">
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "¿Qué puede hacer al respecto?">
 
@@ -191,7 +194,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Agregar excepción">
-
 <!ENTITY securityOverride.exceptionButton1Label "Aceptar el riesgo y continuar">
 
 <!ENTITY errorReporting.automatic2 "Informar errores como este para ayudar a Mozilla a identificarlo y bloquear sitios maliciosos">
@@ -213,6 +215,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Conexión insegura">
 <!ENTITY certerror.pagetitle2  "Advertencia: Riesgo potencial de seguridad a continuación">
+<!ENTITY certerror.sts.pagetitle  "No se conectó: Posible problema de seguridad">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa HTTP
 Strict Transport Security (HSTS) para especificar que &brandShortName; solamente se conecte
 de forma segura. Como resultado, no es posible agregar una excepción para este
