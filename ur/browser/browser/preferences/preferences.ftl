@@ -238,6 +238,8 @@ performance-settings-learn-more = مزید سیکھیں
 performance-allow-hw-accel =
     .label = جب دستیاب ہو تو ہارڈ ویئر سرعت کاری استعمال کریں
     .accesskey = r
+performance-limit-content-process-option = مواد کی عمل کی حد
+    .accesskey = I
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -499,6 +501,10 @@ sitedata-allow-cookies-option =
 sitedata-disallow-cookies-option =
     .label = کوکیز اور سائٹ کا ڈیٹا روکیں
     .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = بلاک کی ہوئی مواد
+    .accesskey = T
 sitedata-block-trackers-option-recommended =
     .label = تیسری تنظیم کے ٹریکرس (سفارش شدا)
 sitedata-block-trackers-option =

@@ -22,6 +22,7 @@ policy-DisableDeveloperTools = تخلیق کار ٹول تک رسائی کو ر�
 policy-DisableForgetButton = فارگیٹ بٹن تک رسائی کو روکیں۔
 policy-DisableFormHistory = تلاش اور فارم کی تاریخ یاد نا رکھیں۔
 policy-DisableMasterPasswordCreation = اگر سچ ہے تو، ایک ماسٹر پاس ورڈ بنائی نہی جا سکتی۔
+policy-DisablePocket = ویب صفحات کو Pocket مے محفوظ کرنے کی خصوصیات سے روکیں۔
 policy-DisablePrivateBrowsing = نجی براؤزنگ غیر فعال کریں
 policy-DisableTelemetry = ٹیلی میٹری بند کریں۔
 policy-DisplayBookmarksToolbar = بک مارک ٹولبار طے شدہ طور پر ظاہر کریں۔

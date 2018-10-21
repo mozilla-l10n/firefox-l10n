@@ -18,6 +18,7 @@
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
 
 
+<!ENTITY safeb.blocked.malwarePage.title2 "اس ویب سائٹ کا دورہ آپ کے کمپیوٹر کو نقصان پہنچا سکتا ہے">
 
 <!-- Localization note (safeb.blocked.malwarePage.errorDesc.override, safeb.blocked.malwarePage.errorDesc.noOverride, safeb.blocked.malwarePage.learnMore) - All <span> and <a> tags are replaced by the appropriate links and text during runtime. -->
 
