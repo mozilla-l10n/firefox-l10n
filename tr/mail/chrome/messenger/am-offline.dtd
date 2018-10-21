@@ -5,11 +5,9 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Disk alanı tasarrufu için şunları indirme:">
 <!ENTITY doNotDownloadNntp.label "Disk alanı tasarrufu için şunları çevrimdışı kullanılmak üzere indirme:">
 <!ENTITY doNotDownloadImap.label "Disk alanından tasarruf etmek için sunucudaki iletilerin indirilmesini ve çevrimdışı kullanım amacıyla yerel kopyalarının tutulmasını boyut veya yaşla sınırlandırabilirsiniz.">
-<!ENTITY allFoldersOffline.label "Hesaba ait iletileri bu bilgisayarda tut">
-<!ENTITY allFoldersOffline.accesskey "H">
 <!ENTITY allFoldersOffline2.label "Bu hesaba ait tüm dizinlerdeki iletileri bu bilgisayarda tut">
 <!ENTITY allFoldersOffline2.accesskey "u">
-<!ENTITY allFoldersOfflineNote.label "Not: Bu ayar, bu hesaptaki tüm dizinleri etkiler. Dizinleri ayrı ayrı ayarlamak isterseniz Gelişmiş… düğmesine tıklayın.">
+<!ENTITY allFoldersOfflineNote.label "Not: Bu ayar, bu hesaptaki tüm dizinleri etkiler. Dizinleri ayrı ayrı ayarlamak isterseniz “Gelişmiş…” düğmesine tıklayın.">
 <!ENTITY offlineNotDownload.label "İleti">
 <!ENTITY offlineNotDownload.accesskey "t">
 <!ENTITY autosyncNotDownload.label "İleti">
