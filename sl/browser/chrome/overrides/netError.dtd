@@ -159,6 +159,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "Težava je morda nastala zaradi napačne nastavitve ure vašega računalnika, zaradi česar se &brandShortName; ne more varno povezati.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; je zaznal težavo in ni nadaljeval na <span class='hostname'/>. Spletna stran je nepravilno nastavljena ali pa je ura računalnika nastavljena na napačen čas.">
 <!ENTITY certerror.expiredCert.secondPara2 "Digitalno potrdilo spletne strani je najverjetneje poteklo, kar &brandShortName;u preprečuje varno povezovanje. Če obiščete to stran, bi napadalci lahko poskušali ukrasti vaše podatke, kot so gesla, e-poštna sporočila ali podatki o kreditni kartici.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Digitalno potrdilo spletne strani je najverjetneje poteklo, kar &brandShortName;u preprečuje varno povezovanje.">
 

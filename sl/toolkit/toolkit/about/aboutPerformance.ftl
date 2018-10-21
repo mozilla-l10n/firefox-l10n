@@ -9,6 +9,7 @@ about-performance-title = Upravitelj opravil
 
 column-name = Ime
 column-type = Vrsta
+column-energy-impact = Vpliv na energijo
 
 ## Special values for the Name column
 
@@ -33,9 +34,9 @@ type-other = Drugo
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
-energy-impact-high = Visoka ({ $value })
-energy-impact-medium = Srednja ({ $value })
-energy-impact-low = Nizka ({ $value })
+energy-impact-high = velik ({ $value })
+energy-impact-medium = srednji ({ $value })
+energy-impact-low = majhen ({ $value })
 
 ## Tooltips for the action buttons
 
