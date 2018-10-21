@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = 例外 - 跟踪保护
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = 您已对下列网站停用跟踪保护功能。
+permissions-exceptions-content-blocking-window =
+    .title = 例外 - 内容拦截
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = 您在这些网站上已禁用内容拦截。
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = 您可以指定哪些网站可以安装附�
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = 有特殊权限的网站 - 自动播放
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = 您可以指定哪些网站可以自动播放媒体元素。请输入要指定网站的完整网址，然后点击“允许”。
 permissions-exceptions-autoplay-media-window2 =
     .title = 例外 - 自动播放
     .style = { permissions-window.style }
