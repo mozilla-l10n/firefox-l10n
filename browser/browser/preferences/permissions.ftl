@@ -57,6 +57,7 @@ permissions-exceptions-tracking-protection-desc = 您已對下列網站停用追
 permissions-exceptions-content-blocking-window =
     .title = 例外 - 內容封鎖
     .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = 您已針對這些網站停用內容封鎖功能。
 
 ## Exceptions - Cookies
 

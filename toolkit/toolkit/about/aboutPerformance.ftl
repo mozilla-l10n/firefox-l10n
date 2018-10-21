@@ -44,3 +44,11 @@ close-tab =
     .title = 關閉分頁
 show-addon =
     .title = 在附加元件管理員中顯示
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title = 載入後的調度: { $totalDispatches }（{ $totalDuration }ms）最後幾秒的調度: { $dispatchesSincePrevious }（{ $durationSincePrevious }ms）
