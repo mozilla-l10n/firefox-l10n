@@ -309,6 +309,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = ค้นหาข้อความเมื่อคุณเริ่มพิมพ์
     .accesskey = ว
+browsing-cfr-recommendations-learn-more = เรียนรู้เพิ่มเติม
 
 ## General Section - Proxy
 
