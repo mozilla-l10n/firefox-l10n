@@ -147,6 +147,8 @@ was trying to connect. -->
 <!ENTITY certerror.expiredCert.secondPara "這個問題最有可能是因為您的系統時間不準，造成 &brandShortName; 無法安全地連線到該網站。">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; 偵測到潛在的安全性威脅，並未連線到 <span class='hostname'/>。此網站可能有設定問題，或您的電腦上的時間不正確。">
+<!ENTITY certerror.expiredCert.secondPara2 "可能是網站的憑證已經過期，讓 &brandShortName; 無法安全地連線。若您造訪此網站，攻擊者可能嘗試偷走您的密碼、電子郵件、信用卡資料等個人資訊。">
+<!ENTITY certerror.expiredCert.sts.secondPara "可能是網站的憑證已經過期，讓 &brandShortName; 無法安全地連線。">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "您可以做什麼？">
 
