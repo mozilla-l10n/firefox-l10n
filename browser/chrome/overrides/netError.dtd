@@ -109,9 +109,13 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "O proprietário de <span class='hostname'/> configurou o website incorretamente.  Para impedir que a sua informação fosse furtada, o &brandShortName; não se ligou a este website.">
 <!ENTITY certerror.introPara2 "O &brandShortName; detetou um potencial risco de segurança e não continuou para <span class='hostname'/>. Se visitar este site, atacantes podem tentar furtar informação como palavras-passe, emails, ou detalhes de cartão de crédito.">
 
+<!ENTITY certerror.sts.introPara "O &brandShortName; detetou uma potencial ameaça de segurança e não continuou para <span class='hostname'/> porque este website requer uma ligação segura.">
 
 <!ENTITY certerror.expiredCert.secondPara "Este problema é mais provável porque o seu relógio do computador está definido para a hora errada, o que pode impedir o &brandShortName; de se ligar em segurança.">
 
+<!ENTITY certerror.expiredCert.introPara "O &brandShortName; detetou um problema e não continuou para <span class='hostname'/>. O website está mal configurado ou o relógio do computador está definido para a hora errada.">
+<!ENTITY certerror.expiredCert.secondPara2 "É provável que o certificado do website tenha expirado, o que impede o &brandShortName; de se ligar com segurança. Se visitar este site, atacantes podem tentar furtar informação como as suas palavras-passe, emails, ou detalhes de cartões de crédito.">
+<!ENTITY certerror.expiredCert.sts.secondPara "É provável que o certificado do website tenha expirado, o que impede o &brandShortName; de se ligar com segurança.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "O que pode fazer quanto a isto?">
 
