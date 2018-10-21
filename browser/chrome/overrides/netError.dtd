@@ -162,6 +162,8 @@ was trying to connect. -->
 <!ENTITY certerror.expiredCert.secondPara "ამ ხარვეზს უმეტესად იწვევს კომპიუტერის საათის არევა, რომელიც ხელს უშლის &brandShortName;-ს დაუკავშირდეს საიტებს უსაფრთხოდ.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName;-მა აღმოაჩინა ხარვეზი და შეწყვიტა <span class='hostname'/> გვერდის ჩატვირთვა. საიტი ან გაუმართავია, ან თქვენი კომპიუტერის საათია გასასწორებელი.">
+<!ENTITY certerror.expiredCert.secondPara2 "როგორც ჩანს, საიტის სერტიფიკატი ვადაგასულია, რაც ხელს უშლის brandShortName;-ს უსაფრთხო კავშირის დამყარებაში. თუ ამ საიტს ეწვევით, შემტევებმა შეიძლება სცადონ თქვენი მონაცემების ხელყოფა, მათ შორის პაროლების, ელფოსტისა და საკრედიტო ბარათის ინფორმაციის.">
+<!ENTITY certerror.expiredCert.sts.secondPara "როგორც ჩანს, საიტის სერტიფიკატი ვადაგასულია, რაც ხელს უშლის brandShortName;-ს უსაფრთხო კავშირის დამყარებაში.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "რისი გაკეთება შეგიძლიათ?">
 
@@ -219,6 +221,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "დაუცველი კავშირი">
 <!ENTITY certerror.pagetitle2  "ფრთხილად: საფრთხის შემცველია">
+<!ENTITY certerror.sts.pagetitle  "ვერ დაუკავშირდა: სავარაუდოდ უსაფრთხოების ხარვეზის გამო">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ეს საიტი იყენებს HTTP
 Strict Transport Security (HSTS) შეერთებას, რომ &brandShortName; მხოლოდ დაცულად
 დაუკავშირდეს. ამის გამო, შეუძლებელია მოცემული სერტიფიკატისთვის გამონაკლისის 
