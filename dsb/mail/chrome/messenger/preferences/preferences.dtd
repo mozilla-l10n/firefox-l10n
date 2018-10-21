@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Rozšyrjone">
 <!ENTITY paneAccount.title        "Konta">
 
+<!ENTITY addonsButton.label       "Rozšyrjenja a drastwy">
+
 <!ENTITY okButton.title           "W pórěźe">
 <!ENTITY okButton.accesskey       "r">
