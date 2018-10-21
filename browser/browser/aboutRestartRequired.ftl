@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Potrebno ponovno pokretanje
+restart-button-label = Ponovno pokreni { -brand-short-name }
