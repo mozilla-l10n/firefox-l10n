@@ -134,6 +134,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "N">
 <!ENTITY printCmd.commandkey "p">
 
+
 <!ENTITY goOfflineCmd.label "Kapcsolat nélküli munka">
 <!ENTITY goOfflineCmd.accesskey "p">
 
@@ -148,7 +149,25 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "r">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Minden lap könyvjelzőbe…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "M">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Kiválasztott lap újratöltése">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Kiválasztott lapok újratöltése">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Kijelölt lap könyvjelzőbe…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Kijelölt lapok könyvjelzőbe…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "l">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Összes lap kiválasztása">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "e">
@@ -596,9 +615,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Keret frissítése">
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Kijelölés forrásának megtekintése">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML forrás megtekintése">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "M">
 <!ENTITY viewPageSourceCmd.label      "Oldal forrása">
 <!ENTITY viewPageSourceCmd.accesskey  "f">
@@ -815,7 +831,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Kész">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Szerkesztő megjelenítése mentéskor">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "e">
 
@@ -966,9 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "A lapról származó hang meg lesz osztva.">
 <!ENTITY getUserMedia.allWindowsShared.message "A képernyő minden látható ablaka meg lesz osztva.">
 
-<!ENTITY trackingProtection.on "Követés elleni védelem: BE">
-<!ENTITY trackingProtection.off "Követés elleni védelem: KI">
-
 <!ENTITY contentBlocking.title "Tartalomblokkolás">
 <!ENTITY contentBlocking.detected "Blokkolható tartalom észlelve ezen az oldalon.">
 <!ENTITY contentBlocking.notDetected "Nincs blokkolható tartalom észlelve ezen az oldalon.">
@@ -983,6 +995,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.fastBlock.blocked.label "Blokkolva">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
+     "Firefox is blocking Slow-Loading Trackers"-->
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -997,6 +1013,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Blokkolva">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Trackers"-->
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1010,6 +1030,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
 <!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokkolva">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Third-Party Cookies"-->
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1027,28 +1051,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Védelem követés ellen">
 <!ENTITY trackingProtection.tooltip "Követés elleni védelem beállításainak megnyitása">
-<!ENTITY trackingProtection.detectedBlocked4 "A &brandShortName; blokkolja az oldal azon részeit, amelyek követhetik a böngészését.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "A &brandShortName; olyan elemeket talált, amelyek követhetik az Ön böngészését.">
-<!ENTITY trackingProtection.detectedException "A &brandShortName; olyan elemeket talált, amelyek követhetik az Ön böngészését. A védelmet kikapcsolta ezen az oldalon.">
-<!ENTITY trackingProtection.notDetected5 "Az oldalon nem találhatók követő elemek.">
-<!ENTITY trackingProtection.notDetectedException "Az oldalon nem találhatók követő elemek. A védelmet kikapcsolta ezen az oldalon.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Engedélyezte a követés elleni védelmet. Töltse újra az oldalt a követők letiltásához.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Letiltás ezen az oldalon">
-<!ENTITY trackingProtection.unblock3.accesskey "L">
 <!ENTITY trackingProtection.unblock4.label "Blokkolás letiltása ezen az oldalon">
 <!ENTITY trackingProtection.unblock4.accesskey "t">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Letiltás ebben a munkamenetben">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "L">
-<!ENTITY trackingProtection.block4.label "Engedélyezés ezen az oldalon">
-<!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.unblockPrivate4.label "Blokkolás ideiglenes letiltása">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "t">
 <!ENTITY trackingProtection.block5.label "Blokkolás engedélyezése ezen az oldalon">
@@ -1158,7 +1169,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Eszközök szinkronizálása…">
 
 <!ENTITY pageAction.shareUrl.label "Megosztás">
-
 <!ENTITY pageAction.shareMore.label "Továbbiak…">
 
 <!ENTITY libraryButton.tooltip "Előzmények, mentett könyvjelzők megtekintése">

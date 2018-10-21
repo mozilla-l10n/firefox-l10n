@@ -53,6 +53,7 @@ pane-sync-title = Firefox fiók
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } támogatás
+addons-button-label = Kiegészítők és témák
 focus-search =
     .key = f
 close-button =
@@ -326,7 +327,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Hálózati proxy
 network-settings-title = Hálózati beállítások
 network-proxy-connection-description = Állítsa be hogy a { -brand-short-name } hogyan kapcsolódik az internethez.
 network-proxy-connection-learn-more = További tudnivalók
@@ -592,26 +592,12 @@ sitedata-total-size-calculating = Az oldaladatok és a gyorsítótár méreténe
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = A tárolt sütik, oldaladatok és a gyorsítótár jelenleg { $value } { $unit } területet foglalnak el a lemezen.
 sitedata-learn-more = További tudnivalók
-sitedata-accept-cookies-option =
-    .label = Sütik és oldaladatok elfogadása a webhelyektől (ajánlott)
-    .accesskey = e
-sitedata-block-cookies-option =
-    .label = Sütik és oldaladatok blokkolása (a weboldalak hibáját okozhatja)
-    .accesskey = b
 sitedata-keep-until = Sütik megtartása
     .accesskey = m
 sitedata-keep-until-expire =
     .label = Amíg le nem járnak
 sitedata-keep-until-closed =
     .label = A { -brand-short-name } bezárásáig
-sitedata-accept-third-party-desc = Harmadik féltől származó sütik és oldaladatok elfogadása
-    .accesskey = f
-sitedata-accept-third-party-always-option =
-    .label = Mindig
-sitedata-accept-third-party-visited-option =
-    .label = Meglátogatottól
-sitedata-accept-third-party-never-option =
-    .label = Soha
 sitedata-allow-cookies-option =
     .label = Sütik és oldaladatok elfogadása
     .accesskey = e
@@ -735,10 +721,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Soha
     .accesskey = o
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Követésvédelem használata privát böngészésben, az ismert követők blokkolására
-    .accesskey = v
 tracking-exceptions =
     .label = Kivételek…
     .accesskey = K
