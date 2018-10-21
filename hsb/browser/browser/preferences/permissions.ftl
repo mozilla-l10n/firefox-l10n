@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Wuwzaća - Slědowanski škit
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Sće slědowanski škit na tutych sydłach znjemóžnił.
+permissions-exceptions-content-blocking-window =
+    .title = Wuwzaća - Blokowanje wobsaha
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Sće blokowanje wobsaha na tutych websydłach znjemóžnił.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Móžeće podać, kotre websydła smědźa 
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Dowolene sydła - awtomatiske wothraće
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Móžeće podać, kotre websydła smědźa medijowe elementy awtomatisce wothrać. Zapodajće eksaktnu adresu sydła, kotremuž chceće to dowolić a klikńće potom na Dowolić.
 permissions-exceptions-autoplay-media-window2 =
     .title = Wuwzaća - awtomatiske wothraće
     .style = { permissions-window.style }
