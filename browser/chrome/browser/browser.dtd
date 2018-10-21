@@ -134,6 +134,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "ч">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "Диспетчер задач">
+
 <!ENTITY goOfflineCmd.label "Работать автономно">
 <!ENTITY goOfflineCmd.accesskey "б">
 
@@ -148,7 +150,26 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "о">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Добавить все вкладки в закладки…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "а">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Обновить выделенную вкладку">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "и">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Обновить выделенные вкладки">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "и">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Добавить выделенные вкладки в закладки…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "а">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Добавить выделенные вкладки в закладки…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "а">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Выбрать все вкладки">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "л">
@@ -596,9 +617,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Обновить фрейм">
 <!ENTITY reloadFrameCmd.accesskey     "и">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Исходный код выделенного фрагмента">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Исходный код MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "д">
 <!ENTITY viewPageSourceCmd.label      "Исходный код страницы">
 <!ENTITY viewPageSourceCmd.accesskey  "о">
@@ -815,7 +833,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Готово">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Показывать редактор при сохранении">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "ы">
 
@@ -966,9 +983,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Будет предоставлен доступ к аудио из вкладки.">
 <!ENTITY getUserMedia.allWindowsShared.message "Будет предоставлен доступ ко всем видимым окнам на вашем экране.">
 
-<!ENTITY trackingProtection.on "Защита от отслеживания: ВКЛЮЧЕНА">
-<!ENTITY trackingProtection.off "Защита от отслеживания: ОТКЛЮЧЕНА">
-
 <!ENTITY contentBlocking.title "Блокировка содержимого">
 <!ENTITY contentBlocking.detected "На этом сайте обнаружено содержимое для блокировки.">
 <!ENTITY contentBlocking.notDetected "На этой странице не обнаружено содержимого для блокировки.">
@@ -983,6 +997,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.fastBlock.blocked.label "Заблокированы">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
+     "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "Блокирует">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -997,6 +1016,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Заблокированы">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "Блокирует">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1004,12 +1028,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection.add.label "Добавить блокировку…">
 
 <!ENTITY contentBlocking.3rdPartyCookies.label "Сторонние куки">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Отслеживающие куки">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
 <!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Заблокированы">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Блокирует">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1027,28 +1057,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Защита от отслеживания">
 <!ENTITY trackingProtection.tooltip "Открыть настройки Защиты от отслеживания">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; блокирует части этой страницы, которые могут отслеживать ваше поведение в Интернете.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; определил элементы, которые могут отслеживать ваше поведение в Интернете.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; определил элементы, которые могут отслеживать ваше поведение в Интернете. Вы отключили защиту для этого сайта.">
-<!ENTITY trackingProtection.notDetected5 "На этой странице не обнаружено ни одного отслеживающего элемента.">
-<!ENTITY trackingProtection.notDetectedException "На этой странице не обнаружено ни одного отслеживающего элемента. Вы отключили защиту для этого сайта.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Вы включили Защиту от отслеживания. Перезагрузите эту страницу, чтобы заблокировать все трекеры.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Отключить для этого сайта">
-<!ENTITY trackingProtection.unblock3.accesskey "ю">
 <!ENTITY trackingProtection.unblock4.label "Отключить блокировку для этого сайта">
 <!ENTITY trackingProtection.unblock4.accesskey "ю">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Отключить на эту сессию">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "ю">
-<!ENTITY trackingProtection.block4.label "Включить для этого сайта">
-<!ENTITY trackingProtection.block4.accesskey "л">
 <!ENTITY trackingProtection.unblockPrivate4.label "Временно отключить блокировку">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "ю">
 <!ENTITY trackingProtection.block5.label "Включить блокировку для этого сайта">
@@ -1158,7 +1175,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Синхронизация устройств…">
 
 <!ENTITY pageAction.shareUrl.label "Поделиться">
-
 <!ENTITY pageAction.shareMore.label "Ещё…">
 
 <!ENTITY libraryButton.tooltip "Просмотр истории, сохранённых закладок и многого другого">
