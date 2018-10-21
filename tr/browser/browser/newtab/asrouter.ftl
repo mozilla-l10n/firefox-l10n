@@ -9,6 +9,8 @@ cfr-doorhanger-extension-cancel-button = Daha sonra
     .accesskey = D
 cfr-doorhanger-extension-ok-button = Hemen ekle
     .accesskey = H
+cfr-doorhanger-extension-manage-settings-button = Öneri ayarlarını yönet
+    .accesskey = Ö
 cfr-doorhanger-extension-learn-more-link = Daha fazla bilgi al
 # This string is used on a new line below the add-on name
 # Variables:

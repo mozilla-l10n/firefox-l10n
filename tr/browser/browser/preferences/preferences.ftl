@@ -84,6 +84,9 @@ extension-controlled-homepage-override = Giriş sayfanızı <img data-l10n-name=
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Yeni Sekme sayfanızı <img data-l10n-name="icon"/> { $name } adlı eklenti yönetiyor.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Bu ayarı <img data-l10n-name="icon"/> { $name } adlı eklenti kontrol ediyor.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } eklentisi varsayılan arama motorunuzu değiştirdi.
@@ -324,6 +327,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Yazmaya başlar başlamaz arama yap
     .accesskey = z
+browsing-cfr-recommendations =
+    .label = Gezinirken yeni eklentiler öner
+    .accesskey = G
+browsing-cfr-recommendations-learn-more = Daha fazla bilgi al
 
 ## General Section - Proxy
 
