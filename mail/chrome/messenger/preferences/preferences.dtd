@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Дополнительные">
 <!ENTITY paneAccount.title        "Учётные записи">
 
+<!ENTITY addonsButton.label       "Расширения и темы">
+
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">
