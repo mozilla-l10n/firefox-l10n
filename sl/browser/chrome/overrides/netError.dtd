@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Nazaj">
 <!ENTITY returnToPreviousPage1.label "Pojdi nazaj (priporočeno)">
 <!ENTITY advanced.label "Napredno">
-
 <!ENTITY continue2.label "Več …">
 <!ENTITY moreInformation.label "Več informacij">
+
+<!ENTITY viewCertificate.label "Ogled digitalnega potrdila">
 
 <!-- Specific error messages -->
 
@@ -147,14 +148,19 @@
 
 <!ENTITY certerror.longpagetitle1 "Vaša povezava ni varna">
 <!ENTITY certerror.longpagetitle2 "Pozor: možno varnostno tveganje">
+<!ENTITY certerror.sts.longpagetitle  "Povezava ni bila vzpostavljena: morebitna varnostna težava">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Lastnik <span class='hostname'/> je neustrezno nastavil svojo spletno stran. &brandShortName; se ni povezal s to spletno stranjo, da bi preprečil krajo vaših podatkov.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; je zaznal morebitno varnostno grožnjo in ni nadaljeval na <span class='hostname'/>. Če obiščete to stran, bodo napadalci morda poskušali ukrasti vaše podatke, kot so gesla, e-poštni naslovi ali podrobnosti kreditnih kartic.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; je zaznal morebitno varnostno grožnjo in ni nadaljeval na <span class='hostname'/>, ker ta spletna stran zahteva varno povezavo.">
+
 <!ENTITY certerror.expiredCert.secondPara "Težava je morda nastala zaradi napačne nastavitve ure vašega računalnika, zaradi česar se &brandShortName; ne more varno povezati.">
+
+<!ENTITY certerror.expiredCert.secondPara2 "Digitalno potrdilo spletne strani je najverjetneje poteklo, kar &brandShortName;u preprečuje varno povezovanje. Če obiščete to stran, bi napadalci lahko poskušali ukrasti vaše podatke, kot so gesla, e-poštna sporočila ali podatki o kreditni kartici.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Digitalno potrdilo spletne strani je najverjetneje poteklo, kar &brandShortName;u preprečuje varno povezovanje.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Kaj lahko storite?">
 
@@ -191,7 +197,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo …">
-
 <!ENTITY securityOverride.exceptionButton1Label "Sprejmi tveganje in nadaljuj">
 
 <!ENTITY errorReporting.automatic2 "S prijavo podobnih napak pomagajte Mozilli prepoznati in zavračati zlonamerne strani">
@@ -213,6 +218,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Povezava ni varna">
 <!ENTITY certerror.pagetitle2  "Pozor: možno varnostno tveganje">
+<!ENTITY certerror.sts.pagetitle  "Povezava ni bila vzpostavljena: morebitna varnostna težava">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ta stran uporablja HTTP
 Strict Transport Security (HSTS), ki določa, da se lahko &brandShortName; nanjo
 poveže zgolj varno. Posledično za to digitalno potrdilo ni mogoče dodati izjeme.">

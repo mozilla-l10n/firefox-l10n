@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Zavrni dostop do strani about:profiles.
 policy-BlockAboutSupport = Zavrni dostop do strani about:support.
 policy-Bookmarks = Ustvarjaj zaznamke v orodni vrstici, meniju zaznamkov ali v določeni mapi.
 policy-Certificates = Ali naj se uporablja vgrajena digitalna potrdila ali ne. Ta pravilnik trenutno deluje le v sistemu Windows.
+policy-CertificatesDescription = Dodajte digitalna potrdila ali uporabite vgrajena potrdila.
 policy-Cookies = Spletnim stranem dovoli ali zavrni nastavljanje piškotkov.
 policy-DisableAppUpdate = Prepreči posodabljanje brskalnika.
 policy-DisableBuiltinPDFViewer = Onemogoči PDF.js, pregledovalnik PDF brskalnika { -brand-short-name }.

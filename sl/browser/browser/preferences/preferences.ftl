@@ -84,6 +84,9 @@ extension-controlled-homepage-override = Razširitev <img data-l10n-name="icon"/
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Razširitev <img data-l10n-name="icon"/> { $name } nadzira vašo stran novega zavihka.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Razširitev <img data-l10n-name="icon"/> { $name } nadzoruje to nastavitev.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Razširitev <img data-l10n-name="icon"/> { $name } je nastavila privzeti iskalnik.
@@ -330,6 +333,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Začni iskati ob začetku tipkanja
     .accesskey = k
+browsing-cfr-recommendations =
+    .label = Med brskanjem priporoči razširitve
+    .accesskey = r
 browsing-cfr-recommendations-learn-more = Več o tem
 
 ## General Section - Proxy
