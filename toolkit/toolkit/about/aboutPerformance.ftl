@@ -9,14 +9,19 @@ about-performance-title = Zrjadowak nadawkow
 
 column-name = Mjeno
 column-type = Typ
+column-energy-impact = Energijowa ćeža
 
 ## Special values for the Name column
 
 ghost-windows = Runje začinjene rajtarki
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Dočasa začitany: { $title }
 
 ## Values for the Type column
 
 type-tab = Rajtark
+type-subframe = Podwobłuk
 type-tracker = Přesćěhowak
 type-addon = Přidatk
 type-browser = Wobhladowak
