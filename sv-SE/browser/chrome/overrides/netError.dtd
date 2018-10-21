@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Gå bakåt">
 <!ENTITY returnToPreviousPage1.label "Gå tillbaka (rekommenderas)">
 <!ENTITY advanced.label "Avancerat">
-
 <!ENTITY continue2.label "Mer…">
 <!ENTITY moreInformation.label "Mer information">
+
+<!ENTITY viewCertificate.label "Visa certifikat">
 
 <!-- Specific error messages -->
 
@@ -99,10 +100,11 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Ägaren av <span class='hostname'/> har konfigurerat sin webbplats felaktigt.  För att skydda din information från att bli stulen, har &brandShortName; inte anslutit till denna webbplats.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; upptäckte ett potentiellt säkerhetshot och fortsatte inte till <span class='hostname'/>. Om du besöker den här webbplatsen kan angripare försöka stjäla information som lösenord, e-post eller kreditkortsuppgifter.">
 
+
 <!ENTITY certerror.expiredCert.secondPara "Problemet beror sannolikt på att datorns klocka är inställd på fel tid, vilket hindrar &brandShortName; från att ansluta säkert.">
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Vad kan du göra åt det?">
 
@@ -130,7 +132,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Lägg till undantag…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Acceptera risken och fortsätt">
 
 <!ENTITY errorReporting.automatic2 "Rapportera fel som detta för att hjälpa Mozilla identifiera och blockera skadliga webbplatser">

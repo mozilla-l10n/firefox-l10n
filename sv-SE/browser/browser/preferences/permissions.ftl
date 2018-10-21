@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Undantag - Spårningsskydd
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Du har stängt av spårningsskydd på dessa webbplatser.
+permissions-exceptions-content-blocking-window =
+    .title = Undantag - Innehållsblockering
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Du har inaktiverat innehållsblockering på dessa webbplatser.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Du kan ange vilka webbplatser som får inst
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Tillåtna Hemsidor - Automatisk uppspelning
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Du kan specificera vilka webbplatser som får spela upp media automatiskt. Fyll i den exakta adressen till den plats du vill tillåta och klicka sedan på Tillåt.
 permissions-exceptions-autoplay-media-window2 =
     .title = Undantag - Automatisk uppspelning
     .style = { permissions-window.style }
