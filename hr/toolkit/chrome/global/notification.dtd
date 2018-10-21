@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "U redu!">
 <!ENTITY defaultButton.accesskey "U">
+
+<!ENTITY moreActionsButton.accessibleLabel "Više radnji">
