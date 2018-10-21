@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Exceções - Proteção contra monitorização
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Desativou a Proteção contra monitorização nestes websites.
+permissions-exceptions-content-blocking-window =
+    .title = Exceções - Bloqueio de conteúdo
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Desativou o bloqueio de conteúdo nestes websites.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Pode especificar quais os websites que têm
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Websites permitidos - Reprodução automática
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Pode especificar quais os websites estão permitidos de reproduzir automaticamente elementos multimédia. Escreva o endereço exato do site que pretende permitir e depois clique Permitir.
 permissions-exceptions-autoplay-media-window2 =
     .title = Exceções - Reprodução automática
     .style = { permissions-window.style }
