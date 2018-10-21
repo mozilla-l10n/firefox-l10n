@@ -17,8 +17,11 @@ policy-BlockAboutConfig = about:config صفحے پر رسائی کو روکیں�
 policy-BlockAboutProfiles = about:profiles صفحے پر رسائی کو روکیں۔
 policy-BlockAboutSupport = about:support صفحے پر رسائی کو روکیں۔
 policy-Cookies = کوکیز سیٹ کرنے کیلئے ویب سائٹس کو اجازت دیں یا انکار کریں۔
+policy-DisableAppUpdate = براؤزر کو اپڈیٹ ہونے سے روکیں۔
 policy-DisableDeveloperTools = تخلیق کار ٹول تک رسائی کو روکیں۔
 policy-DisableForgetButton = فارگیٹ بٹن تک رسائی کو روکیں۔
+policy-DisableFormHistory = تلاش اور فارم کی تاریخ یاد نا رکھیں۔
+policy-DisableMasterPasswordCreation = اگر سچ ہے تو، ایک ماسٹر پاس ورڈ بنائی نہی جا سکتی۔
 policy-DisablePrivateBrowsing = نجی براؤزنگ غیر فعال کریں
 policy-DisableTelemetry = ٹیلی میٹری بند کریں۔
 policy-DisplayBookmarksToolbar = بک مارک ٹولبار طے شدہ طور پر ظاہر کریں۔
@@ -26,3 +29,5 @@ policy-DisplayMenuBar = مینوبار طے شدہ طور پر ظاہر کریں
 policy-DNSOverHTTPS = HTTPS پرDNS ترتیب کریں۔
 policy-Proxy = پراکسی ترتیبات ترتیب کریں۔
 policy-SanitizeOnShutdown = بند کرنے پر تمام نیویگیشن ڈیٹا صاف کریں۔
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = PKCS #11 ماڈیول انسٹال کریں۔

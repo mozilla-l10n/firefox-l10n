@@ -227,6 +227,9 @@ update-application-manual =
 update-application-use-service =
     .label = تازہ کاریاں تنصیب کرنے کے لیے پس منظر سروس استعمال کریں
     .accesskey = b
+update-enable-search-update =
+    .label = تلاش کے انجن کو خود بخود اپڈیٹ  کریں
+    .accesskey = e
 
 ## General Section - Performance
 
