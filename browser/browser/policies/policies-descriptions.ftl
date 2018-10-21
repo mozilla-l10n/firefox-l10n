@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Bloquear acceso a la página about:profiles.
 policy-BlockAboutSupport = Bloquear acceso a la página about:support.
 policy-Bookmarks = Crear marcadores en la barra de herramientas Marcadores, menú Marcadores o una carpeta específica dentro de ellos.
 policy-Certificates = Si usar o no los certificados integrados. Esta política es Windows solo en este momento.
+policy-CertificatesDescription = Agregar certificados o usar certificados incorporados.
 policy-Cookies = Permitir o denegar sitios web para establecer cookies.
 policy-DisableAppUpdate = Evitar que el navegador se actualice.
 policy-DisableBuiltinPDFViewer = Deshabilitar PDF.js, el lector de PDF integrado en { -brand-short-name }.
@@ -42,6 +43,7 @@ policy-DisableSystemAddonUpdate = Evitar que el navegador instale y actualice lo
 policy-DisableTelemetry = Desactivar la telemetría.
 policy-DisplayBookmarksToolbar = Mostrar la barra de herramientas de marcadores de forma predeterminada.
 policy-DisplayMenuBar = Mostrar la barra de menú de manera predeterminada.
+policy-DNSOverHTTPS = Configurar DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Deshabilitar la comprobación del navegador predeterminado al inicio.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Habilitar o deshabilitar el bloqueo de contenido y bloquearlo opcionalmente.
