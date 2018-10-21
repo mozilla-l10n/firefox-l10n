@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Eiti atgal">
 <!ENTITY returnToPreviousPage1.label "Grįžti (rekomenduojama)">
 <!ENTITY advanced.label "Išsamiau">
-
 <!ENTITY continue2.label "Daugiau…">
 <!ENTITY moreInformation.label "Daugiau informacijos">
+
+<!ENTITY viewCertificate.label "Rodyti liudijimą">
 
 <!-- Specific error messages -->
 
@@ -93,14 +94,16 @@
 
 <!ENTITY certerror.longpagetitle1 "Jūsų ryšys nėra saugus">
 <!ENTITY certerror.longpagetitle2 "Dėmesio: galima saugumo rizika">
+<!ENTITY certerror.sts.longpagetitle  "Neprisijungta: galima saugumo problema">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> savininkas netinkamai sukonfigūravo savo svetainę.  Kad apsaugotų jūsų duomenis, „&brandShortName;“ prie šios svetainės nesijungė.">
-
 <!ENTITY certerror.introPara2 "„&brandShortName;“ aptiko galimą saugumo grėsmę ir neįkėlė <span class='hostname'/>. Jei apsilankysite šioje svetainėje, piktavaliai gali bandyti pavogti jūsų slaptažodžius, el. laiškus, bankininkystės duomenis.">
 
+
 <!ENTITY certerror.expiredCert.secondPara "Ši problema greičiausiai kilo dėl to, kad jūsų kompiuterio laikrodis yra netinkamai nustatytas, o tai neleidžia „&brandShortName;“ užmegzti saugaus ryšio.">
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ką dėl to galima padaryti?">
 
@@ -121,7 +124,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Sukurti išimtį…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Priimti riziką ir tęsti">
 
 <!ENTITY errorReporting.automatic2 "Pranešdami apie tokias klaidas kaip ši, padėsite „Mozillai“ nustatyti ir užblokuoti kenksmingas svetaines">

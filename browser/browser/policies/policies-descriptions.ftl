@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Blokuoti prieigą prie about:profiles puslapio.
 policy-BlockAboutSupport = Blokuoti prieigą prie about:support puslapio.
 policy-Bookmarks = Kurti įrašus adresyno juostoje, adresyno meniu, arba nurodytame aplanke jų viduje.
 policy-Certificates = Naudoti ar ne integruotus liudijimus. Ši strategija kol kas skirta tik „Windows“ aplinkai.
+policy-CertificatesDescription = Pridėti liudijimus, arba naudoti integruotus.
 policy-Cookies = Leisti ar drausti svetainėms įrašyti slapukus.
 policy-DisableAppUpdate = Neleisti naršyklei diegti naujinimų.
 policy-DisableBuiltinPDFViewer = Išjungti „PDF.js“, į „{ -brand-short-name }“ integruotą PDF failų žiūryklę.

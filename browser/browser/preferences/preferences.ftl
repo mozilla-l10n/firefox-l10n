@@ -53,6 +53,7 @@ pane-sync-title = „Firefox“ paskyra
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = „{ -brand-short-name }“ pagalba
+addons-button-label = Priedai ir grafiniai apvalkalai
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,9 @@ extension-controlled-homepage-override = Priedas „<img data-l10n-name="icon"/>
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Priedas „<img data-l10n-name="icon"/> { $name }“ valdo jūsų naujos kortelės tinklalapį.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Šią nuostatą valdo priedas <img data-l10n-name="icon"/> „{ $name }“.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Priedas „<img data-l10n-name="icon"/> { $name }“ pakeitė jūsų numatytąją ieškyklę.
@@ -326,10 +330,13 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Pradėti paiešką pradėjus rinkti tekstą
     .accesskey = P
+browsing-cfr-recommendations =
+    .label = Rekomenduoti priedus naršant
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = Sužinoti daugiau
 
 ## General Section - Proxy
 
-network-proxy-title = Tinklo įgaliotasis serveris
 network-settings-title = Tinklo nuostatos
 network-proxy-connection-description = Nustatykite, kaip „{ -brand-short-name }“ jungiasi prie interneto.
 network-proxy-connection-learn-more = Sužinoti daugiau
@@ -595,26 +602,12 @@ sitedata-total-size-calculating = Skaičiuojamas svetainių duomenų ir podėlio
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Saugomi slapukai, svetainių duomenys ir podėlis šiuo metu užima { $value } { $unit } disko vietos.
 sitedata-learn-more = Sužinoti daugiau
-sitedata-accept-cookies-option =
-    .label = Leisti įrašyti slapukus ir svetainių duomenis (rekomenduojama)
-    .accesskey = L
-sitedata-block-cookies-option =
-    .label = Neleisti įrašyti slapukų ir svetainių duomenų (gali sutrikti svetainių veikimas)
-    .accesskey = N
 sitedata-keep-until = Laikyti iki
     .accesskey = y
 sitedata-keep-until-expire =
     .label = jie baigia galioti
 sitedata-keep-until-closed =
     .label = „{ -brand-short-name }“ yra uždaroma
-sitedata-accept-third-party-desc = Leisti trečiųjų šalių slapukus ir svetainių duomenis
-    .accesskey = j
-sitedata-accept-third-party-always-option =
-    .label = Visada
-sitedata-accept-third-party-visited-option =
-    .label = tik lankytoms svetainėms
-sitedata-accept-third-party-never-option =
-    .label = niekada
 sitedata-allow-cookies-option =
     .label = Priimti slapukus ir svetainių duomenis
     .accesskey = P
@@ -738,10 +731,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Niekada
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Naudokite apsaugą nuo stebėjimo privačiojo naršymo veiksenoje, norėdami užblokuoti žinomus stebėjimo elementus
-    .accesskey = v
 tracking-exceptions =
     .label = Išimtys…
     .accesskey = I

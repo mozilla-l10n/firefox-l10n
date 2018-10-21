@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Ne dabar
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Pridėti dabar
     .accesskey = P
+cfr-doorhanger-extension-manage-settings-button = Tvarkyti rekomendacijų nuostatas
+    .accesskey = T
+cfr-doorhanger-extension-never-show-recommendation = Nerodyti man šios rekomendacijos
+    .accesskey = N
 cfr-doorhanger-extension-learn-more-link = Sužinoti daugiau
 # This string is used on a new line below the add-on name
 # Variables:
