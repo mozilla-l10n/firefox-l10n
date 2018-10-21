@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "高级">
 <!ENTITY paneAccount.title        "账户">
 
+<!ENTITY addonsButton.label       "扩展和主题">
+
 <!ENTITY okButton.title           "确定">
 <!ENTITY okButton.accesskey       "O">
