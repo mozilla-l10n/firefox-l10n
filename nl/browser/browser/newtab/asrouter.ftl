@@ -13,7 +13,11 @@ cfr-doorhanger-extension-cancel-button = Niet nu
 cfr-doorhanger-extension-ok-button = Nu toevoegen
   .accesskey = t
 
-cfr-doorhanger-extension-mange-settings-button = Instellingen voor aanbevelingen beheren
+cfr-doorhanger-extension-manage-settings-button = Instellingen voor aanbevelingen beheren
+  .accesskey = I
+
+cfr-doorhanger-extension-never-show-recommendation = Deze aanbeveling niet tonen
+  .accesskey = D
 
 cfr-doorhanger-extension-learn-more-link = Meer info
 

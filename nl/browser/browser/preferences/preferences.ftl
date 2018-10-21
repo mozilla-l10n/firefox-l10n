@@ -418,6 +418,12 @@ browsing-search-on-start-typing =
     .label = Naar tekst zoeken wanneer u begint met typen
     .accesskey = t
 
+browsing-cfr-recommendations =
+    .label = Extensies aanbevelen terwijl u surft
+    .accesskey = a
+
+browsing-cfr-recommendations-learn-more = Meer info
+
 ## General Section - Proxy
 
 network-settings-title = Netwerkinstellingen
