@@ -102,6 +102,8 @@ was trying to connect. -->
 <!ENTITY certerror.expiredCert.secondPara "Tutón problem so najskerje zawinuje, dokelž časnik wašeho ličaka wopačny čas wužiwa, štož &brandShortName; při wěstym zwjazowanju haći.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; je problem wotkrył a přetorhny zwisk z <span class='hostname'/>. Websydło je pak wopak skonfigurowane abo časnik wašeho ličaka je na wopačny čas nastajeny.">
+<!ENTITY certerror.expiredCert.secondPara2 "Najskerje je certifikat websydła spadnjeny, kotryž &brandShortName; při wěstym zwjazowanju haći. Jeli tute sydło wopytujeće, móža nadpadnicy daty kaž waše hesła, e-mejlki abo daty kreditneje karty kradnyć.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Najskerje je certifikat websydła spadnjeny, kotryž &brandShortName; při wěstym zwjazowanju haći.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Što móžeće přećiwo tomu činić?">
 
