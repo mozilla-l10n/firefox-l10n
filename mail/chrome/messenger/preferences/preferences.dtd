@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Napredno">
 <!ENTITY paneAccount.title        "Računi">
 
+<!ENTITY addonsButton.label       "Razširitve in teme">
+
 <!ENTITY okButton.title           "V redu">
 <!ENTITY okButton.accesskey       "V">
