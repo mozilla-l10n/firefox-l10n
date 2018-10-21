@@ -101,9 +101,13 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> savininkas netinkamai sukonfigūravo savo svetainę.  Kad apsaugotų jūsų duomenis, „&brandShortName;“ prie šios svetainės nesijungė.">
 <!ENTITY certerror.introPara2 "„&brandShortName;“ aptiko galimą saugumo grėsmę ir neįkėlė <span class='hostname'/>. Jei apsilankysite šioje svetainėje, piktavaliai gali bandyti pavogti jūsų slaptažodžius, el. laiškus, bankininkystės duomenis.">
 
+<!ENTITY certerror.sts.introPara "„&brandShortName;“ aptiko galimą saugumo grėsmę ir neįkėlė <span class='hostname'/>, nes ši svetainė reikalauja saugaus ryšio.">
 
 <!ENTITY certerror.expiredCert.secondPara "Ši problema greičiausiai kilo dėl to, kad jūsų kompiuterio laikrodis yra netinkamai nustatytas, o tai neleidžia „&brandShortName;“ užmegzti saugaus ryšio.">
 
+<!ENTITY certerror.expiredCert.introPara "„&brandShortName;“ aptiko problemą ir neįkėlė <span class='hostname'/>. Ši svetainė gali būti netinkamai sukonfigūruota, arba jūsų kompiuterio laikrodis yra netinkamai nustatytas.">
+<!ENTITY certerror.expiredCert.secondPara2 "Tikėtina, kad svetainės liudijimas baigė galioti, todėl „&brandShortName;“ negali užmegzti saugaus ryšio. Jei apsilankysite šioje svetainėje, piktavaliai gali bandyti pavogti jūsų slaptažodžius, el. laiškus, bankininkystės duomenis.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Tikėtina, kad svetainės liudijimas baigė galioti, todėl „&brandShortName;“ negali užmegzti saugaus ryšio.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ką dėl to galima padaryti?">
 
@@ -145,6 +149,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Nesaugus ryšys">
 <!ENTITY certerror.pagetitle2  "Dėmesio: galima saugumo rizika">
+<!ENTITY certerror.sts.pagetitle  "Neprisijungta: galima saugumo problema">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ši svetainė „HTTP Strict Transport Security“ (HSTS) pagalba nurodė, kad „&brandShortName;“ prie jos jungtųsi tik saugiu ryšiu. Dėl to šiam liudijimui negalima sukurti išimties.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> turi saugumo nuostatą, kuri vadinasi „HTTP Strict Transport Security“ (HSTS), ir reiškia, kad „&brandShortName;“ gali jungtis tik saugiu ryšiu. Jūs negalite sukurti išimties, kad aplankytumėte šią svetainę.">
 <!ENTITY certerror.copyToClipboard.label "Kopijuoti tekstą į iškarpinę">
