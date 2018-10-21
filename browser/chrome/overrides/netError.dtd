@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "返回">
 <!ENTITY returnToPreviousPage1.label "返回上一頁（建議）">
 <!ENTITY advanced.label "進階">
-
 <!ENTITY continue2.label "更多…">
 <!ENTITY moreInformation.label "更多資訊">
+
+<!ENTITY viewCertificate.label "檢視憑證">
 
 <!-- Specific error messages -->
 
@@ -138,10 +139,11 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> 的網站管理員未正確設定好網站。為了確保您的資訊不會被盜走，&brandShortName; 並未連線至該網站。">
-
 <!ENTITY certerror.introPara2 "&brandShortName; 偵測到可能有安全性風險，並未連線至 <span class='hostname'/>。若您要造訪此網站，攻擊者可能會嘗試偷走您的密碼、電子郵件或信用卡資料等個資。">
 
+
 <!ENTITY certerror.expiredCert.secondPara "這個問題最有可能是因為您的系統時間不準，造成 &brandShortName; 無法安全地連線到該網站。">
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "您可以做什麼？">
 
@@ -170,7 +172,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "新增例外網站…">
-
 <!ENTITY securityOverride.exceptionButton1Label "接受風險並繼續">
 
 <!ENTITY errorReporting.automatic2 "回報這類的錯誤，幫助 Mozilla 找出並封鎖惡意網站">
