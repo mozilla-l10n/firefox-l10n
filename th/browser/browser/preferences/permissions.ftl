@@ -57,6 +57,7 @@ permissions-exceptions-tracking-protection-desc = คุณได้ปิดใ
 permissions-exceptions-content-blocking-window =
     .title = ข้อยกเว้น - การปิดกั้นเนื้อหา
     .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = คุณได้ปิดใช้งานการปิดกั้นเนื้อหาในเว็บไซต์เหล่านี้
 
 ## Exceptions - Cookies
 
