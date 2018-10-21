@@ -2,12 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-performance-title = 工作管理員
 
 ## Column headers
 
+column-name = 名稱
+column-type = 類型
+column-energy-impact = 能源影響
 
 ## Special values for the Name column
 
+ghost-windows = 最近關閉的分頁
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = 預先載入: { $title }
 
 ## Values for the Type column
 
@@ -33,3 +42,5 @@ energy-impact-low = 低（{ $value }）
 
 close-tab =
     .title = 關閉分頁
+show-addon =
+    .title = 在附加元件管理員中顯示
