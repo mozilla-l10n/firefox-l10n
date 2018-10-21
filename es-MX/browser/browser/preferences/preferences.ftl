@@ -323,10 +323,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Buscar el texto cuando empiezas a escribir
     .accesskey = x
+browsing-cfr-recommendations-learn-more = Aprender más
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy de red
 network-settings-title = Configuración de conexión
 network-proxy-connection-description = Configurar como { -brand-short-name } se conecta a internet.
 network-proxy-connection-learn-more = Saber más
@@ -591,26 +591,12 @@ sitedata-total-size-calculating = Calculando tamaño de los datos del sitio y el
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tus cookies, datos del sitio y caché almacenados ocupan actualmente un { $value } { $unit } del espacio en disco.
 sitedata-learn-more = Aprender más
-sitedata-accept-cookies-option =
-    .label = Aceptar cookies y datos de los sitios web (recomendado)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Bloquear cookies y datos del sitio (puede que algunos sitios no funcionen)
-    .accesskey = B
 sitedata-keep-until = Mantener hasta
     .accesskey = u
 sitedata-keep-until-expire =
     .label = expiran
 sitedata-keep-until-closed =
     .label = { -brand-short-name } está cerrado
-sitedata-accept-third-party-desc = Aceptar cookies de terceros y datos del sitio
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = Siempre
-sitedata-accept-third-party-visited-option =
-    .label = Visitado
-sitedata-accept-third-party-never-option =
-    .label = Nunca
 sitedata-allow-cookies-option =
     .label = Aceptar cookies y datos del sitio
     .accesskey = A
@@ -627,10 +613,6 @@ sitedata-block-trackers-option =
     .label = Rastreadores de terceros
 sitedata-block-unvisited-option =
     .label = Cookies de sitios web no visitados
-sitedata-block-all-third-parties-option =
-    .label = Todas las cookies de terceros
-sitedata-block-always-option =
-    .label = Todas las cookies (pueden causar errores en los sitios web)
 sitedata-block-all-third-party-option =
     .label = Todas las cookies de terceros (puede causar errores en los sitios web)
 sitedata-block-all-option =
@@ -684,30 +666,13 @@ content-blocking-category-label = Elegir que bloquear
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Elementos de rastreo lentos
-    .accesskey = E
-content-blocking-fastblock-description = Bloquear el contenido de terceros que tardan más de 5 segundos en cargarse.
-content-blocking-fastblock-option-enabled =
-    .label = Siempre bloquear
-content-blocking-fastblock-option-disabled =
-    .label = Nunca bloquear
-content-blocking-tracking-protection-label = Rastreadores
-    .accesskey = R
-content-blocking-tracking-protection-description = Bloquear todos los rastreadores conocidos (Nota: puede también prevenir algunas páginas al cargar).
-content-blocking-tracking-protection-option-enabled =
-    .label = Siempre bloquear
-content-blocking-tracking-protection-option-pbm =
-    .label = Bloquear solo en ventanas privadas
-content-blocking-tracking-protection-option-disabled =
-    .label = Siempre bloquear
-content-blocking-tracking-protection-change-blocklist = Cambiar lista de bloqueo...
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Rastreadores de carga lenta
     .accesskey = S
 content-blocking-fastblock-new-description = Bloquear sólo los rastreadores que impidan a las páginas cargar rápidamente.
+content-blocking-tracking-protection-trackers-label =
+    .label = Rastreadores
+    .accesskey = R
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Todos los rastreadores detectados
     .accesskey = T
@@ -755,10 +720,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nunca
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Usar Protección de Rastreo en la navegación privada para bloquear rastreadores conocidos
-    .accesskey = v
 tracking-exceptions =
     .label = Excepciones…
     .accesskey = x
