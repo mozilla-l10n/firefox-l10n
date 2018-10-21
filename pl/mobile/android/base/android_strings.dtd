@@ -210,6 +210,8 @@
 <!ENTITY pref_feature_tips_notification "Porady o programie i funkcjach">
 <!ENTITY pref_feature_tips_notification_summary "Więcej informacji o przeglądarce &brandShortName; i innych programach od organizacji &vendorShortName;">
 
+<!ENTITY pref_feature_tips_notification_enabling_hint "Włącz">
+
 <!ENTITY pref_category_experimental "Funkcje eksperymentalne">
 
 <!ENTITY pref_custom_tabs2 "Niestandardowe karty">
