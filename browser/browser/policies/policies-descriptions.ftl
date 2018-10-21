@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Pśistup k bokoju about:profiles blokěrowaś.
 policy-BlockAboutSupport = Pśistup k bokoju about:support blokěrowaś.
 policy-Bookmarks = Cytańske znamjenja w symbolowej rědce cytańskich znamjenjow, w meniju cytańskich znamjenjow abo w pódanem zastojniku w nima napóraś.
 policy-Certificates = Lěc se zatwarjone certifikaty wužywaju abo nic. Toś te pšawidła tuchylu jano za Windows płaśe.
+policy-CertificatesDescription = Certifikaty pśidaś abo zatwarjone certifikaty wužywaś.
 policy-Cookies = Websedłam dowóliś abo zakazaś, cookieje składowaś.
 policy-DisableAppUpdate = Wobglědowakoju aktualizěrowanje zakazaś.
 policy-DisableBuiltinPDFViewer = PDF.js znjemóžniś, zatwarjony PDF-wobglědowak w { -brand-short-name }.

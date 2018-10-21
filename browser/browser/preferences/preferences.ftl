@@ -84,6 +84,9 @@ extension-controlled-homepage-override = Rozšyrjenje <img data-l10n-name="icon"
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Rozšyrjenje <img data-l10n-name="icon"/> { $name } waš bok nowego rejtarka wóźi.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, toś to nastajenje wóźi.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, jo wašu standardnu pytnicu nastajiło.
@@ -330,6 +333,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Pśi pisanju tekst pytaś
     .accesskey = P
+browsing-cfr-recommendations =
+    .label = Rozšyrjenja dopórucyś, gaž pśeglědujośo
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = Dalšne informacije
 
 ## General Section - Proxy
 

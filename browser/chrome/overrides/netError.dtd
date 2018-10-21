@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Slědk hyś">
 <!ENTITY returnToPreviousPage1.label "Slědk (dopórucony)">
 <!ENTITY advanced.label "Rozšyrjone">
-
 <!ENTITY continue2.label "Wěcej…">
 <!ENTITY moreInformation.label "Dalšne informacije">
+
+<!ENTITY viewCertificate.label "Certifikat pokazaś">
 
 <!-- Specific error messages -->
 
@@ -89,14 +90,20 @@
 
 <!ENTITY certerror.longpagetitle1 "Waš zwisk njejo wěsty">
 <!ENTITY certerror.longpagetitle2 "Warnowanje: Potencielne wěstotne riziko prědku">
+<!ENTITY certerror.sts.longpagetitle  "Njejo se zwězało: Potencielny wěstotny problem">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Mějaŕ <span class='hostname'/> jo swójo websedło wopak konfigurěrował. Aby swóje informacije pśeśiwo tomu šćitał, až se kšadnu, njejo &brandShortName; z toś tym websedłom zwězało.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; jo namakał potencielne wobgrozenje wěstoty a njejo togodla zwězał z <span class='hostname'/>. Jolic se k toś tomu sedłoju woglědujośo, mógli napadowarje wopytaś, daty ako waše gronidło, e-mailowe adrese abo drobnostki kreditowych kórtow kšadnuś.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; jo namakał potencielne wěstotne wobgrozenje a jo pśetergnuł zwisk z <span class='hostname'/>, dokulaž se toś to websedło wěsty zwisk pomina.">
+
 <!ENTITY certerror.expiredCert.secondPara "Toś ten problem se nejskerjej zawinujo, dokulaž zeger wašogo licadła wopacny cas wužywa, což &brandShortName; pśi wěstem zwězowanju zajźujo.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; jo namakał problem a jo pśetergnuł zwisk z <span class='hostname'/>. Websedło jo pak wopak skonfigurěrowane abo zeger wašogo licadła jo nastajony na wopacny cas.">
+<!ENTITY certerror.expiredCert.secondPara2 "Nejskerjej jo certifikat websedła spadnjony, kótaryž &brandShortName; wěste zwězowanje zawoborujo. Jolic k toś tomu sedłoju woglědujośo, mógu napadowarje daty ako waše gronidła, mejlki abo daty kreditoweje kórty kšadnuś.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Nejskerjej jo certifikat websedła spadnjony, kótaryž &brandShortName; wěste zwězowanje zawoborujo.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Co móžośo pśeśiwo tomu cyniś?">
 
@@ -119,7 +126,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Wuwześe pśidaś…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Riziko akceptěrowaś a pókšacowaś">
 
 <!ENTITY errorReporting.automatic2 "Dajśo zmólki ako toś te k wěsći, aby Mozilla pomagał, złosne sedła identificěrował a blokěrował">
@@ -141,6 +147,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Njewěsty zwisk">
 <!ENTITY certerror.pagetitle2  "Warnowanje: Potencielne wěstotne riziko prědku">
+<!ENTITY certerror.sts.pagetitle  "Njejo se zwězało: Potencielny wěstotny problem">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Toś to sedło wužywa HTTP Strict Transport Security (HSTS), aby pódało, až &brandShortName; ma jano wěsćej z nim zwězaś. Pótakem njejo móžno, wuwześe za toś ten certifikat pśidaś.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ma wěstotne pšawidło z mjenim HTTP Strict Transport Security (HSTS), kótarež wóznamjenijo, až &brandShortName; móžo se jano wěsće zwězaś. Njamóžośo wuwześe pśidaś, aby se toś tomu sydłoju woglědał.">
 <!ENTITY certerror.copyToClipboard.label "Tekst do mjazywótkłada kopěrowaś">

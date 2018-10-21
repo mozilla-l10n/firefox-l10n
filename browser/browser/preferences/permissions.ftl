@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Wuwześa - Slědowański šćit
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Sćo slědowański šćit na toś tych sedłach znjemóžnił.
+permissions-exceptions-content-blocking-window =
+    .title = Wuwześa - Blokěrowanje wopśimjeśa
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Sćo znjemóžnił blokěrowanje wopśimjeśa na toś tych websedłach.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Móžośo pódaś, kótare websedła směju
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Dowólone sedła - awtomatiske wótgraśe
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Móžośo pódaś, kótare websedła směju medijowe elementy awtomatiski wótgraś. Zapódajśo eksaktnu adresu sedła, kótaremuž cośo to dowóliś a klikniśo pótom na Dowóliś.
 permissions-exceptions-autoplay-media-window2 =
     .title = Wuwześe - awtomatiske wótgraśe
     .style = { permissions-window.style }
