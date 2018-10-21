@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = წვდომის შეზღუდვა about
 policy-BlockAboutSupport = წვდომის შეზღუდვა about:support გვერდთან.
 policy-Bookmarks = სანიშნის შექმნა სანიშნების ზოლზე, სანიშნების მენიუში ან მათ განსაზღვრულ საქაღალდეში.
 policy-Certificates = იყოს თუ არა გამოყენებული ჩაშენებული სერტიფიკატები. ეს დებულება, ამჟამად მხოლოდ Windows-ზე მუშაობს.
+policy-CertificatesDescription = სერტიფიკატების დამატება ან ჩაშენებული სერტიფიკატების გამოყენება.
 policy-Cookies = საიტებისთვის ფუნთუშების დაშვება ან აკრძალვა
 policy-DisableAppUpdate = ბრაუზერის განახლების შეზღუდვა.
 policy-DisableBuiltinPDFViewer = PDF.js-ის გათიშვა, { -brand-short-name }-ის ჩაშენებული PDF-გამხსნელის.
