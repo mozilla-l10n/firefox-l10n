@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Zpátky">
 <!ENTITY returnToPreviousPage1.label "Zpátky (doporučeno)">
 <!ENTITY advanced.label "Rozšířené">
-
 <!ENTITY continue2.label "Více…">
 <!ENTITY moreInformation.label "Více informací">
+
+<!ENTITY viewCertificate.label "Zobrazit certifikát">
 
 <!-- Specific error messages -->
 
@@ -146,14 +147,20 @@ Personal Security Manager.</li>
 
 <!ENTITY certerror.longpagetitle1 "Vaše připojení není zabezpečené">
 <!ENTITY certerror.longpagetitle2 "Varování: možné riziko nebezpečí">
+<!ENTITY certerror.sts.longpagetitle  "Nepřipojeno: Možný bezpečnostní problém">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Majitel serveru <span class='hostname'/> nakonfiguroval své webové stránky nesprávně. Abychom chránili vaše informace před odcizením, &brandShortName; se k této webové stránce nepřipojil.">
-
 <!ENTITY certerror.introPara2 "Aplikace &brandShortName; rozpoznala potenciální bezpečnostní riziko a stránku <span class='hostname'/> nenačetla. Pokud se přesto rozhodnete stránku navštívit, útočníci mohou získat vaše informace, jako hesla, e-mailovou adresu nebo číslo platební karty.">
 
+<!ENTITY certerror.sts.introPara "Aplikace &brandShortName; rozpoznala potenciální bezpečnostní riziko a stránku <span class='hostname'/> nenačetla, protože tato stránka vyžaduje zabezpečené spojení.">
+
 <!ENTITY certerror.expiredCert.secondPara "Tento problém je pravděpodobně způsobem špatným nastavením času na vašem počítači, které brání aplikaci &brandShortName; v navázání zabezpečeného spojení.">
+
+<!ENTITY certerror.expiredCert.introPara "Aplikace &brandShortName; rozpoznala problém a stránku <span class='hostname'/> nenačetla. Server je buď špatně nastaven a nebo hodiny na vašem počítači nejdou správně.">
+<!ENTITY certerror.expiredCert.secondPara2 "Pravděpodobně stránce vypršela platnost certifikátu, což brání aplikaci &brandShortName; v bezpečném připojení. Pokud se přesto rozhodnete stránku navštívit, útočníci mohou získat vaše informace, jako hesla, e-mailovou adresu nebo číslo platební karty.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Pravděpodobně stránce vypršela platnost certifikátu, což brání aplikaci &brandShortName; v bezpečném připojení.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Co můžete udělat?">
 
@@ -190,7 +197,6 @@ za chvíli.</li>
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Beru na vědomí a chci pokračovat">
 
 <!ENTITY errorReporting.automatic2 "Hlásit chyby jako je tato a pomoci tak organizaci Mozilla identifikovat a blokovat škodlivé stránky">
@@ -212,6 +218,7 @@ za chvíli.</li>
 
 <!ENTITY certerror.pagetitle1  "Nezabezpečené spojení">
 <!ENTITY certerror.pagetitle2  "Varování: možné riziko nebezpečí">
+<!ENTITY certerror.sts.pagetitle  "Nepřipojeno: Možný bezpečnostní problém">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tento server používá HTTP
 Strict Transport Security (HSTS), čímž určuje, že se má &brandShortName; připojovat
 pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifikát výjimku.">

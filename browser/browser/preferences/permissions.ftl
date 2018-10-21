@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Výjimky pro používání ochrany proti sledování
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Na těchto serverech jste ochranu proti sledování zakázali.
+permissions-exceptions-content-blocking-window =
+    .title = Výjimky z blokování obsahu
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Na následujících serverech jste vypnuli funkci blokování obsahu.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Zde můžete určit, které servery mohou i
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Servery, které mohou automaticky přehrávat média
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Zde můžete určit, které servery mohou automaticky spouštět přehrávání mediálních prvků. Zadejte přesnou adresu stránky, které chcete přehrávání povolit, a klepněte na tlačítko Povolit.
 permissions-exceptions-autoplay-media-window2 =
     .title = Servery, které mohou automaticky přehrávat média
     .style = { permissions-window.style }

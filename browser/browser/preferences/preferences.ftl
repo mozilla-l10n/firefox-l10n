@@ -84,6 +84,9 @@ extension-controlled-homepage-override = Vaši domovskou stránku spravuje rozš
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Stránku v novém panelu spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Toto nastavení spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Rozšíření <img data-l10n-name="icon"/> { $name } vám nastavilo nový výchozí vyhledávací modul.
@@ -327,6 +330,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Psaním vyhledávat text na stránce
     .accesskey = x
+browsing-cfr-recommendations-learn-more = Zjistit více
 
 ## General Section - Proxy
 

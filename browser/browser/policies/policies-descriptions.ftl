@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Zablokování přístupu do správce profilů (about
 policy-BlockAboutSupport = Zablokování přístupu na stránku s technickými informacemi (about:support).
 policy-Bookmarks = Vytvoření záložek na liště, v nabídce nebo vybrané složce.
 policy-Certificates = Nastavení použití systémového úložiště certifikátů. V současnosti podporováno pouze pro systém Windows.
+policy-CertificatesDescription = Přidat certifikáty nebo použít vestavěné certifikáty.
 policy-Cookies = Pravidla pro ukládání nebo blokování cookies.
 policy-DisableAppUpdate = Blokování aktualizací prohlížeče.
 policy-DisableBuiltinPDFViewer = Zablokování PDF prohlížeče PDF.js vestavěného v aplikaci { -brand-short-name }.
