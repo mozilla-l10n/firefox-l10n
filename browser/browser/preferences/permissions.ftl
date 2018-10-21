@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Izjeme – Zaščita pred sledenjem
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Na teh spletnih straneh ste onemogočili zaščito pred sledenjem.
+permissions-exceptions-content-blocking-window =
+    .title = Izjeme – Zavračanje vsebine
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Zavračanje vsebine na teh spletnih straneh je onemogočeno.
 
 ## Exceptions - Cookies
 
