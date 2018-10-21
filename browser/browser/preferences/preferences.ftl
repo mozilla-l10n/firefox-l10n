@@ -330,6 +330,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Psaním vyhledávat text na stránce
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Doporučovat vhodná rozšíření pro navštívené stránky
+    .accesskey = r
 browsing-cfr-recommendations-learn-more = Zjistit více
 
 ## General Section - Proxy
