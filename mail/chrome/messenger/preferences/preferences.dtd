@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Avancerat">
 <!ENTITY paneAccount.title        "Konton">
 
+<!ENTITY addonsButton.label       "Tillägg &amp; teman">
+
 <!ENTITY okButton.title           "Ok">
 <!ENTITY okButton.accesskey       "O">
