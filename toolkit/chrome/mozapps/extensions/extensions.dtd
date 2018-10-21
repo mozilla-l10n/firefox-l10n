@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Priedų tvarkytuvė">
 
-<!ENTITY search.placeholder                   "Ieškoti priedų">
-
 <!ENTITY search.placeholder2                  "Ieškoti per addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Ieškoti per addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Paieška">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +16,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Naujinimų nerasta">
 <!ENTITY listEmpty.recentUpdates.label        "Pastaruoju metu nesate atnaujinę jokių priedų">
 <!ENTITY listEmpty.findUpdates.label          "Tikrinti, ar yra naujinimų">
-<!ENTITY listEmpty.search.label               "Paiešką atitinkančių priedų nerasta">
 <!ENTITY listEmpty.button.label               "Sužinokite apie priedus daugiau">
 <!ENTITY installAddonFromFile.label           "Įdiegti priedą iš failo…">
 <!ENTITY installAddonFromFile.accesskey       "d">
@@ -24,9 +23,6 @@
 
 <!ENTITY getThemes.description                "Norite suasmeninti savo naršyklę?">
 <!ENTITY getThemes.learnMore                  "Rinkitės iš tūkstančių grafinių apvalkalų.">
-
-<!ENTITY cmd.back.tooltip                     "Vienu tinklalapiu atgal">
-<!ENTITY cmd.forward.tooltip                  "Vienu tinklalapiu pirmyn">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Kai kurių plėtinių patikrinti nepavyko">
@@ -44,10 +40,13 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Įjungti priedų naujinimų saugumo tikrinimą">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Paieška">
 <!ENTITY view.discover.label                  "Parsisiųsti priedų">
 <!ENTITY view.recentUpdates.label             "Paskiausiai atnaujinti">
 <!ENTITY view.availableUpdates.label          "Galimi naujinimai">
+
+<!ENTITY helpButton.label                      "Priedų pagalba">
+<!ENTITY preferencesWin.label                  "„&brandShortName;“ nuostatos">
+<!ENTITY preferencesUnix.label                 "„&brandShortName;“ nuostatos">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Tikrinti, ar yra naujinimų">
@@ -87,8 +86,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "N">
 <!ENTITY cmd.preferencesUnix.label            "Nuostatos">
 <!ENTITY cmd.preferencesUnix.accesskey        "N">
-<!ENTITY cmd.about.label                      "Apie">
-<!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "Įjungti">
 <!ENTITY cmd.enableAddon.accesskey            "u">
@@ -135,7 +132,6 @@
 <!ENTITY detail.lastupdated.label             "Paskiausiai atnaujintas">
 <!ENTITY detail.creator.label                 "Autorius">
 <!ENTITY detail.homepage.label                "Svetainė">
-<!ENTITY detail.numberOfDownloads.label       "Parsisiuntimų">
 
 <!ENTITY detail.contributions.description     "Šio priedo autorius prašo paremti tolesnį jo kūrimą nedideliu finansiniu įnašu.">
 
@@ -167,23 +163,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pristabdyti">
 <!ENTITY progress.cancel.tooltip              "Atsisakyti">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Pavadinimas">
-<!ENTITY sort.name.tooltip                    "Rikiuoti pagal pavadinimą">
-<!ENTITY sort.dateUpdated.label               "Atnaujinimo data">
-<!ENTITY sort.dateUpdated.tooltip             "Rikiuoti pagal paskiausio atnaujinimo datą">
-<!ENTITY sort.relevance.label                 "Atitikimas">
-<!ENTITY sort.relevance.tooltip               "Rikiuoti pagal atitikimą paieškos kriterijams">
-<!ENTITY sort.price.label                     "Kaina">
-<!ENTITY sort.price.tooltip                   "Rikiuoti pagal kainą">
-
-<!ENTITY search.filter2.label                 "Ieškoti:">
-<!ENTITY search.filter2.installed.label       "įdiegtų priedų">
-<!ENTITY search.filter2.installed.tooltip     "Rodyti jau įdiegtus priedus">
-<!ENTITY search.filter2.available.label       "prieinamų priedų">
-<!ENTITY search.filter2.available.tooltip     "Rodyti galimus įdiegti priedus">
 
 <!ENTITY addon.homepage                       "Svetainė">
 <!ENTITY addon.details.label                  "Išsamiau">
@@ -226,17 +205,6 @@
 <!ENTITY eula.accept                          "Sutikti su licencija ir įdiegti priedą…">
 
 <!ENTITY settings.path.button.label           "Parinkti…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Kas tai? Eksperimentai retkarčiais gali būti įdiegiami ir sužadinami telemetrijos būdu.">
-<!ENTITY experiment.info.learnmore "Sužinoti daugiau">
-<!ENTITY experiment.info.learnmore.accesskey "d">
-<!ENTITY experiment.info.changetelemetry "Telemetrijos nuostatos">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Sužinoti daugiau…">
 
