@@ -13,6 +13,12 @@ cfr-doorhanger-extension-cancel-button = Ikke nu
 cfr-doorhanger-extension-ok-button = Tilføj nu
   .accesskey = T
 
+cfr-doorhanger-extension-manage-settings-button = Håndter indstillinger for anbefalinger
+  .accesskey = H
+
+cfr-doorhanger-extension-never-show-recommendation = Vis ikke denne anbefaling
+  .accesskey = V
+
 cfr-doorhanger-extension-learn-more-link = Læs mere
 
 # This string is used on a new line below the add-on name
