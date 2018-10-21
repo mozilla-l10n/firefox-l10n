@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Blockera tillgång till sidan about:profiles.
 policy-BlockAboutSupport = Blockera tillgång till sidan about:support.
 policy-Bookmarks = Skapa bokmärken i bokmärkesfältet, bokmärkesmenyn eller en angiven mapp inuti dem.
 policy-Certificates = Huruvida du ska använda inbyggda certifikat eller inte. Denna policy är endast för Windows just nu.
+policy-CertificatesDescription = Lägg till certifikat eller använd inbyggda certifikat.
 policy-Cookies = Tillåt eller neka webbplatser att lagra kakor
 policy-DisableAppUpdate = Förhindra att webbläsaren uppdateras.
 policy-DisableBuiltinPDFViewer = Inaktivera PDF.js, den inbyggda PDF-visaren i { -brand-short-name }.
