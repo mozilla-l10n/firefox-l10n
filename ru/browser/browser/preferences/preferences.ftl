@@ -53,6 +53,7 @@ pane-sync-title = Аккаунт Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Поддержка { -brand-short-name }
+addons-button-label = Расширения и темы
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,9 @@ extension-controlled-homepage-override = Расширение <img data-l10n-nam
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Расширение <img data-l10n-name="icon"/> { $name } контролирует вашу страницу новой вкладки.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Расширение <img data-l10n-name="icon"/> { $name } контролирует этот параметр.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Расширение <img data-l10n-name="icon"/> { $name } установило вашу поисковую систему по умолчанию.
@@ -326,10 +330,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Искать текст на странице по мере его набора
     .accesskey = а
+browsing-cfr-recommendations-learn-more = Подробнее
 
 ## General Section - Proxy
 
-network-proxy-title = Прокси-сервер
 network-settings-title = Параметры сети
 network-proxy-connection-description = Настроить, как { -brand-short-name } соединяется с Интернетом.
 network-proxy-connection-learn-more = Подробнее
@@ -595,26 +599,12 @@ sitedata-total-size-calculating = Вычисление объема данных
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ваши сохранённые куки, данные сайтов и кэш сейчас занимают на диске { $value } { $unit }.
 sitedata-learn-more = Подробнее
-sitedata-accept-cookies-option =
-    .label = Принимать куки и данные сайтов с веб-сайтов (рекомендуется)
-    .accesskey = и
-sitedata-block-cookies-option =
-    .label = Блокировать куки и данные сайтов (может нарушить работу веб-сайтов)
-    .accesskey = л
 sitedata-keep-until = Хранить их
     .accesskey = ь
 sitedata-keep-until-expire =
     .label = до истечения срока их действия
 sitedata-keep-until-closed =
     .label = до закрытия { -brand-short-name }
-sitedata-accept-third-party-desc = Принимать куки и данные сайтов со сторонних веб-сайтов
-    .accesskey = н
-sitedata-accept-third-party-always-option =
-    .label = Всегда
-sitedata-accept-third-party-visited-option =
-    .label = С посещённых
-sitedata-accept-third-party-never-option =
-    .label = Никогда
 sitedata-allow-cookies-option =
     .label = Принимать куки и данные сайтов
     .accesskey = и
@@ -738,10 +728,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Никогда
     .accesskey = а
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Использовать защиту от отслеживания в приватном просмотре для блокировки известных трекеров
-    .accesskey = о
 tracking-exceptions =
     .label = Исключения…
     .accesskey = л

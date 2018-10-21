@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Блокирует доступ к странице 
 policy-BlockAboutSupport = Блокирует доступ к странице about:support.
 policy-Bookmarks = Создаёт закладки в панели закладок, меню закладок, или в отдельной папке внутри них.
 policy-Certificates = Решает, использовать или нет встроенные сертификаты. Эта политика пока касается только Windows.
+policy-CertificatesDescription = Добавляет сертификаты или использует встроенные сертификаты.
 policy-Cookies = Разрешает или запрещает веб-сайтам устанавливать куки.
 policy-DisableAppUpdate = Запрещает обновление браузера.
 policy-DisableBuiltinPDFViewer = Отключает PDF.js, встроенный просмотрщик PDF в { -brand-short-name }.
