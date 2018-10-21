@@ -328,6 +328,12 @@ browsing-search-on-start-typing =
     .label = Cerca nel testo quando si digita qualcosa
     .accesskey = e
 
+browsing-cfr-recommendations =
+    .label = Suggerisci estensioni durante la navigazione
+    .accesskey = S
+
+browsing-cfr-recommendations-learn-more = Ulteriori informazioni
+
 ## General Section - Proxy
 
 network-settings-title = Impostazioni di rete
