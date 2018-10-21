@@ -10,13 +10,13 @@
 <!ENTITY lightning.toolbar.sync.label "სინქრონიზაცია">
 <!ENTITY lightning.toolbar.sync.tooltip "კალენდრის ხელახლა ჩატვირთვა და ცვლილებების დასინქრონება">
 <!ENTITY lightning.toolbar.delete.label "წაშლა">
-<!ENTITY lightning.toolbar.delete.tooltip "შერჩეული ღონისძიებების, ან დავალებების წაშლა">
+<!ENTITY lightning.toolbar.delete.tooltip "შერჩეული ღონისძიებების ან დავალებების წაშლა">
 <!ENTITY lightning.toolbar.edit.label "ჩასწორება">
-<!ENTITY lightning.toolbar.edit.tooltip "შერჩეული ღონისძიებების, ან დავალებების ჩასწორება">
+<!ENTITY lightning.toolbar.edit.tooltip "შერჩეული ღონისძიებების ან დავალებების ჩასწორება">
 <!ENTITY lightning.toolbar.gototoday.label "დღევანდელზე გადასვლა">
 <!ENTITY lightning.toolbar.gototoday.tooltip "დღევანდელზე გადასვლა">
 <!ENTITY lightning.toolbar.print.label "ამობეჭდვა">
-<!ENTITY lightning.toolbar.print.tooltip "ღონისძიებების, ან დავალებების ამობეჭდვა">
+<!ENTITY lightning.toolbar.print.tooltip "ღონისძიებების ან დავალებების ამობეჭდვა">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "კალენდარი">
