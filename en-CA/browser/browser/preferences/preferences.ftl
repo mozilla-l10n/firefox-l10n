@@ -84,6 +84,9 @@ extension-controlled-homepage-override = An extension, <img data-l10n-name="icon
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = An extension, <img data-l10n-name="icon"/> { $name }, is controlling your New Tab page.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = An extension, <img data-l10n-name="icon"/> { $name }, is controlling this setting.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = An extension, <img data-l10n-name="icon"/> { $name }, has set your default search engine.
@@ -324,6 +327,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Search for text when you start typing
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Recommend extensions as you browse
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = Learn More
 
 ## General Section - Proxy
 
