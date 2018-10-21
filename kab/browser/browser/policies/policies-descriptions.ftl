@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Sewḥel anekcum ɣer usebter n about:profiles.
 policy-BlockAboutSupport = Sewḥel anekcum ɣer usebter n about:support.
 policy-Bookmarks = Rnu ticraḍ n isebtar deg ufeggag n tecraḍ, Umuɣ n tecraḍ n yisebtar, neɣ deg akaram yellan deg-sen.
 policy-Certificates = Ma yella ad tesqedceḍ iselkinen usliɣen neɣ ala. Akka tura tasertit-agi n Windows.
+policy-CertificatesDescription = Rnu iselkinen neɣ seqdec iselkinen usliɣen.
 policy-Cookies = Sireg neɣ gdel asbadu n inagan n tuqqna i yisebtar.
 policy-DisableAppUpdate = Sewḥel aleqqem n yiminig.
 policy-DisableBuiltinPDFViewer = Sens PDF.js, ameskan PDF usliɣ deg { -brand-short-name }.

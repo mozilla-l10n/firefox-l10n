@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Mačči tura
     .accesskey = T
 cfr-doorhanger-extension-ok-button = Rnu Tura
     .accesskey = N
+cfr-doorhanger-extension-manage-settings-button = Sefrek Iɣewwaṛen n wahul
+    .accesskey = S
+cfr-doorhanger-extension-never-show-recommendation = Ur yid-skan ara Ahul Agi
+    .accesskey = U
 cfr-doorhanger-extension-learn-more-link = Issin ugar
 # This string is used on a new line below the add-on name
 # Variables:
