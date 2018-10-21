@@ -50,3 +50,20 @@ browser-languages-window =
     .style = width: 40em
 
 browser-languages-description = { -brand-short-name } vil som standard vise det første sprog, og vil om nødvendigt vise alternative sprog i den valgte rækkefølge.
+
+browser-languages-search = Søg efter flere sprog…
+
+browser-languages-searching =
+    .label = Søger efter sprog…
+
+browser-languages-downloading =
+    .label = Henter…
+
+browser-languages-select-language =
+    .label = Vælg det sprog du ønsker at tilføje…
+    .placeholder = Vælg det sprog du ønsker at tilføje…
+
+browser-languages-installed-label = Installerede sprog
+browser-languages-available-label = Tilgængelige sprog
+
+browser-languages-error = { -brand-short-name } kan ikke opdatere dine sproge lige nu. Undersøg din internetforbindelse eller prøv igen.

@@ -25,6 +25,8 @@ policy-Bookmarks = Opret bogmærker i Bogmærkelinjen, i menuen Bogmærker eller
 
 policy-Certificates = Om indbyggede certifikater skal anvendes eller ikke. Denne politik gælder kun for Windows på nuværende tidspunkt.
 
+policy-CertificatesDescription = Tilføj certifikater eller brug indbyggede certifikater.
+
 policy-Cookies = Tillad eller nægt websteder at sætte cookies.
 
 policy-DisableAppUpdate = Deaktiver opdatering af browseren.
@@ -72,6 +74,8 @@ policy-DisplayBookmarksToolbar = Vis bogmærkelinjen som standard.
 
 policy-DisplayMenuBar = Vis menulinjen som standard.
 
+policy-DNSOverHTTPS = Opsæt DNS via HTTPS.
+
 policy-DontCheckDefaultBrowser = Deaktiver check om standard-browser ved opstart.
 
 # “lock” means that the user won’t be able to change this setting
@@ -106,11 +110,16 @@ policy-PopupBlocking = Tillad bestemte websteder at vise pop op-vinduer som stan
 
 policy-Proxy = Opsæt proxy-indstillinger.
 
+policy-RequestedLocales = Indstil listen med forespurgte sprog for programmet i den rækkefølge, du ønsker at de skal anvendes.
+
 policy-SanitizeOnShutdown = Ryd al browsing-data ved lukning.
 
 policy-SearchBar = Indstil standard-placering af søgefeltet. Brugeren kan stadig tilpasse feltet. 
 
 policy-SearchEngines = Opsæt indstillinger for søgetjenester. Denne politik er kun tilgængelig for Extended Support Release (ESR).
+
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Installer PKCS #11 modules.
 
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only

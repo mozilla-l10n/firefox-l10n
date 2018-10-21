@@ -55,6 +55,11 @@ permissions-exceptions-tracking-protection-window =
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Du har deaktiveret beskyttelse mod sporing på disse websteder.
 
+permissions-exceptions-content-blocking-window =
+    .title = Undtagelser - blokering af indhold
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Du har deaktiveret blokering af indhold på disse websteder.
+
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =

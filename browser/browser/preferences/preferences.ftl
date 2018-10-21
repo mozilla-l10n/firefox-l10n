@@ -63,6 +63,8 @@ category-sync =
 
 help-button-label = Hjælp til { -brand-short-name }
 
+addons-button-label = Udvidelser og temaer
+
 focus-search =
     .key = f
 
@@ -95,6 +97,10 @@ extension-controlled-homepage-override = Udvidelsen <img data-l10n-name="icon"/>
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Udvidelsen <img data-l10n-name="icon"/> { $name } kontrollerer siden Nyt faneblad.
+
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications= Udvidelsen <img data-l10n-name="icon"/> { $name } kontrollerer denne indstilling.
 
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
@@ -412,6 +418,12 @@ browsing-search-on-start-typing =
     .label = Begynd søgning mens du taster
     .accesskey = s
 
+browsing-cfr-recommendations =
+    .label = Anbefal udvidelser mens jeg browser
+    .accesskey = u
+
+browsing-cfr-recommendations-learn-more = Læs mere
+
 ## General Section - Proxy
 
 network-proxy-title = Netværks-proxy
@@ -665,6 +677,8 @@ privacy-header = Beskyttelse af privatliv
 ## Privacy Section - Forms
 
 forms-header = Formularer & adgangskoder
+
+logins-header = Logins og adgangskoder
 forms-ask-to-save-logins =
     .label = Spørg om at gemme logins og adgangskoder til websteder
     .accesskey = l
@@ -858,6 +872,9 @@ content-blocking-category-label = Vælg hvad der skal blokeres
 content-blocking-fastblock-slow-loading-trackers-label =
   .label = Langsomme sporings-elementer
   .accesskey = L
+content-blocking-tracking-protection-trackers-label =
+  .label = Sporings-elementer
+  .accesskey = S
 content-blocking-fastblock-new-description = Bloker kun de sporings-elementer, der får sider til at blive indlæst langsommere.
 content-blocking-tracking-protection-all-detected-trackers-label =
   .label = Alle fundne sporings-elementer
