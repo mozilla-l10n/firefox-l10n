@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Nic něnto
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Něnto pśidaś
     .accesskey = d
+cfr-doorhanger-extension-manage-settings-button = Dopóruceńske nastajenja zastojaś
+    .accesskey = D
+cfr-doorhanger-extension-never-show-recommendation = Toś to dopórucenje njepokazaś
+    .accesskey = T
 cfr-doorhanger-extension-learn-more-link = Dalšne informacije
 # This string is used on a new line below the add-on name
 # Variables:
