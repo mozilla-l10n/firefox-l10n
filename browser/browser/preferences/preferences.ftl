@@ -312,6 +312,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = 打字時直接搜尋頁面文字（隨打即找）
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = 隨您上網推薦擴充套件
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = 了解更多
 
 ## General Section - Proxy

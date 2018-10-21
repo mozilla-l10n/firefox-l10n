@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = 防止開啟 about:profiles 頁面。
 policy-BlockAboutSupport = 防止開啟 about:support 頁面。
 policy-Bookmarks = 在書籤工具列、選單或當中的資料夾建立書籤。
 policy-Certificates = 是否使用內建憑證信任清單。目前此政策僅於 Windows 有效。
+policy-CertificatesDescription = 新增憑證，或使用內建憑證。
 policy-Cookies = 允許或拒絕網站設定 Cookie。
 policy-DisableAppUpdate = 防止瀏覽器更新。
 policy-DisableBuiltinPDFViewer = 停用 { -brand-short-name } 內建的 PDF 閱讀器 PDF.js。
