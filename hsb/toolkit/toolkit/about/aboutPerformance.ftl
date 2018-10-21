@@ -44,3 +44,11 @@ close-tab =
     .title = Rajtark začinić
 show-addon =
     .title = W zrjadowaku přidatkow pokazać
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title = Rozpósłanja wot začitanja: { $totalDispatches } ({ $totalDuration } ms) Rozpósłanja za zańdźene sekundy: { $dispatchesSincePrevious } ({ $durationSincePrevious } ms)
