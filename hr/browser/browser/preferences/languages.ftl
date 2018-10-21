@@ -2,12 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Jezici
-    .style = width: 30em
+webpage-languages-window =
+    .title = Postavke jezika web stranice
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Web stranice su ponekad dostupne na više jezika. Odaberite jezike za prikaz tih web stranica prema preferiranom redoslijedu
+languages-customize-spoof-english =
+    .label = Zatražite engleske verzije web stranica radi poboljšane privatnosti
 languages-customize-moveup =
     .label = Pomakni gore
     .accesskey = g
@@ -34,3 +36,11 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+languages-active-code-format =
+    .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } postavke jezika
+    .style = width: 40em
+browser-languages-search = Pretraži više jezika...
+browser-languages-searching =
+    .label = Pretraživanje jezika...
