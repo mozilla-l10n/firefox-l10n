@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Ahora no
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Agregar ahora
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Administrar opciones de recomendaciones
+    .accesskey = m
+cfr-doorhanger-extension-never-show-recommendation = No mostrarme esta recomendación
+    .accesskey = s
 cfr-doorhanger-extension-learn-more-link = Conocer más
 # This string is used on a new line below the add-on name
 # Variables:
