@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "დეტალები">
 <!ENTITY paneAccount.title        "ანგარიშები">
 
+<!ENTITY addonsButton.label       "გაფართოებები და თემები">
+
 <!ENTITY okButton.title           "კარგი">
 <!ENTITY okButton.accesskey       "კ">
