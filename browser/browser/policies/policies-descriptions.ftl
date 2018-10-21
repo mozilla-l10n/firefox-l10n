@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Sekat akses ke halaman about:profiles.
 policy-BlockAboutSupport = Sekat akses ke halaman about:support.
 policy-Bookmarks = Cipta tandabuku dalam bar alatan Tandabuku, menu Tandabuku atau folder khusus di dalamnya.
 policy-Certificates = Sama ada menggunakan atau tidak sijil terbina dalam. Polisi ini hanya untuk Windows buat masa ini.
+policy-CertificatesDescription = Tambah sijil atau gunakan sijil terbina dalam.
 policy-Cookies = Izinkan atau tidak laman web menetapkan kuki.
 policy-DisableAppUpdate = Halang pelayar daripada mengemaskini.
 policy-DisableBuiltinPDFViewer = Nyahdayakan PDF.js, pemapar PDF terbina-dalam { -brand-short-name }.

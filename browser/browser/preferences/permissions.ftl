@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Pengecualian - Perlindungan Penjejakan
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Anda telah dinyahdayakan Perlindungan Penjejakan di laman web ini.
+permissions-exceptions-content-blocking-window =
+    .title = Pengecualian - Sekatan Kandungan
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Anda telah menyahdayakan sekatan kandungan dalam laman web ini.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Anda boleh tentukan laman web yang diizinka
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Laman Web Diizinkan - Auto-main
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Anda boleh tentukan laman web yang diizinkan secara automatik memainkan elemen media. Taip alamat tepat laman yang anda izinkan dan klik Izinkan.
 permissions-exceptions-autoplay-media-window2 =
     .title = Pengecualian - Automain
     .style = { permissions-window.style }
