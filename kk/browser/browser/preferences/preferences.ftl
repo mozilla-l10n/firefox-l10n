@@ -324,6 +324,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Мәтін терілген кезде оны парақтан іздей бастау
     .accesskey = т
+browsing-cfr-recommendations-learn-more = Көбірек білу
 
 ## General Section - Proxy
 
