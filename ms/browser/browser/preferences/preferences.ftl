@@ -84,6 +84,9 @@ extension-controlled-homepage-override = Ekstensi, <img data-l10n-name="icon"/> 
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Ekstensi, <img data-l10n-name="icon"/> { $name }, mengawal halaman Tab Baru anda.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Ekstensi, <img data-l10n-name="icon"/> { $name } mengawal tetapan ini.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Ekstensi, <img data-l10n-name="icon"/> { $name }, telah menetapkan enjin carian piawai anda.
@@ -312,6 +315,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Cari teks sebaik sahaja anda mula menaip
     .accesskey = e
+browsing-cfr-recommendations =
+    .label = Cadangkan ekstensi semasa melayar
+    .accesskey = C
+browsing-cfr-recommendations-learn-more = Ketahui Selanjutnya
 
 ## General Section - Proxy
 

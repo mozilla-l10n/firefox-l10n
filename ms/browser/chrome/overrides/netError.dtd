@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Undur">
 <!ENTITY returnToPreviousPage1.label "Undur (Disyorkan)">
 <!ENTITY advanced.label "Lanjutan">
-
 <!ENTITY continue2.label "Selanjutnya…">
 <!ENTITY moreInformation.label "Maklumat Lanjut">
+
+<!ENTITY viewCertificate.label "Papar Sijil">
 
 <!-- Specific error messages -->
 
@@ -149,14 +150,17 @@
 
 <!ENTITY certerror.longpagetitle1 "Sambungan internet anda tidak selamat">
 <!ENTITY certerror.longpagetitle2 "Amaran: Mungkin Ada Risiko Keselamatan">
+<!ENTITY certerror.sts.longpagetitle  "Jangan Sambung: Potensi Isu Sekuriti">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Pemilik <span class='hostname'/> telah mengkonfigurasi laman web mereka dengan tidak betul.  Untuk meliindungi maklumat anda daripada dicuri, &brandShortName; tidak membuat sambungan dengan laman web ini.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; mengesan ada potensi ancaman keselamatan dan tidak meneruskan ke <span class='hostname'/>. Jika anda lawat laman web ini, penyerang boleh cuba untuk mencuri maklumat seperti kata laluan, e-mel atau butiran kad kredit anda.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; mengesan potensi ancaman keselamatan dan tidak terus <span class='hostname'/> kerana laman web ini memerlukan sambungan yang selamat.">
+
 <!ENTITY certerror.expiredCert.secondPara "Isu ini mungkin disebabkan jam komputer anda ditetapkan kepada masa yang salah, yang akan menghalang &brandShortName; daripada menyambung dengan selamat.">
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Apa yang anda boleh lakukan tentangnya?">
 
@@ -192,7 +196,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Tambah Pengecualian…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Terima Risiko dan Teruskan">
 
 <!ENTITY errorReporting.automatic2 "Laporkan ralat seperti ini untuk membantu Mozilla mengenal pasti dan menyekat laman berbahaya">
