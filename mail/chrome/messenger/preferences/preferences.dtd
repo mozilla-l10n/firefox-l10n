@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Lanjutan">
 <!ENTITY paneAccount.title        "Akaun">
 
+<!ENTITY addonsButton.label       "Ekstensi &amp; Tema">
+
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">
