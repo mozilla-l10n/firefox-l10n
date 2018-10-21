@@ -330,6 +330,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Začni iskati ob začetku tipkanja
     .accesskey = k
+browsing-cfr-recommendations-learn-more = Več o tem
 
 ## General Section - Proxy
 
