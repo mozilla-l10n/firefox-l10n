@@ -54,6 +54,9 @@ permissions-exceptions-tracking-protection-window =
     .title = ข้อยกเว้น - การป้องกันการติดตาม
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = คุณได้ปิดใช้งานการป้องกันการติดตามในเว็บไซต์เหล่านี้
+permissions-exceptions-content-blocking-window =
+    .title = ข้อยกเว้น - การปิดกั้นเนื้อหา
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -85,10 +88,6 @@ permissions-exceptions-addons-desc = คุณสามารถระบุเ�
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = เว็บไซต์ที่อนุญาต - การเล่นอัตโนมัติ
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = คุณสามารถระบุเว็บไซต์ที่อนุญาตให้เล่นองค์ประกอบสื่อโดยอัตโนมัติ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการอนุญาตแล้วคลิก อนุญาต
 permissions-exceptions-autoplay-media-window2 =
     .title = ข้อยกเว้น - การเล่นอัตโนมัติ
     .style = { permissions-window.style }
