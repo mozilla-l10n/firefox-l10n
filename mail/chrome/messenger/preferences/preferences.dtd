@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "進階">
 <!ENTITY paneAccount.title        "帳號">
 
+<!ENTITY addonsButton.label       "擴充套件和佈景主題">
+
 <!ENTITY okButton.title           "確定">
 <!ENTITY okButton.accesskey       "O">
