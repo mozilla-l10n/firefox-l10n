@@ -161,6 +161,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "Isu ini mungkin disebabkan jam komputer anda ditetapkan kepada masa yang salah, yang akan menghalang &brandShortName; daripada menyambung dengan selamat.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; mengesan isu dan tidak terus <span class='hostname'/>. Laman web sama ada salah konfigurasi atau jam komputer ditetapkan mengikut masa yang salah.">
+<!ENTITY certerror.expiredCert.secondPara2 "Kemungkinan sijil laman web tamat tempoh, yang menghalang &brandShortName; menyambung dengan selamat. Jika anda melawat laman web ini, penyerang boleh cuba mencuri maklumat seperti kata laluan, emel atau butiran kad kredit anda.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Kemungkinan sijil laman web tamat tempoh, yang menghalang &brandShortName; menyambung dengan selamat.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Apa yang anda boleh lakukan tentangnya?">
 
@@ -217,6 +220,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Sambungan Tidak selamat">
 <!ENTITY certerror.pagetitle2  "Amaran: Mungkin Ada Risiko Keselamatan">
+<!ENTITY certerror.sts.pagetitle  "Jangan Sambung: Potensi Isu Sekuriti">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Laman ini menggunakan HTTP
 Strict Transport Security (HSTS) untuk menetapkan bahawa &brandShortName; boleh disambung
 kepadanya dengan selamat. Hasilnya, tidak mungkin boleh menambah pengecualian bagi
