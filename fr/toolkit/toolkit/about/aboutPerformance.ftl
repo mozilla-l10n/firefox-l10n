@@ -9,6 +9,7 @@ about-performance-title = Gestionnaire de tâches
 
 column-name = Nom
 column-type = Type
+column-energy-impact = Impact énergétique
 
 ## Special values for the Name column
 
@@ -31,6 +32,9 @@ type-other = Autre
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
+energy-impact-high = Élevé ({ $value })
+energy-impact-medium = Moyen ({ $value })
+energy-impact-low = Bas ({ $value })
 
 ## Tooltips for the action buttons
 
