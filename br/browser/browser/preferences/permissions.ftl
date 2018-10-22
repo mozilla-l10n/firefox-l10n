@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Nemedennoù - Gwarez heuliañ
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Diweredekaet ho peus ar gwarez heuliañ war al lec'hiennoù-mañ.
+permissions-exceptions-content-blocking-window =
+    .title = Nemedennoù - stankadur endalc'had
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Diweredekaet ho peus ar stankadur endalc'had war al lec'hiennoù-mañ.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Posupl eo deoc'h erspizañ pe lec'hiennoù 
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Lec'hiennoù internet aotreet - Lenn emgefreek
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Gellout a rit despizañ peseurt lec'hiennoù a zo aotreet evit lenn elfennoù media ent emgefreek. Biziatait chomlec'h rik al lec'hienn ho peus c'hoant da aotren ha klikit war Aotren.
 permissions-exceptions-autoplay-media-window2 =
     .title = Nemedennoù - Lenn emgefreek
     .style = { permissions-window.style }

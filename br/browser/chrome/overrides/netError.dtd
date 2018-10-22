@@ -13,6 +13,8 @@
 <!ENTITY continue2.label "Muioc'h...">
 <!ENTITY moreInformation.label "Muioc'h a ditouroù">
 
+<!ENTITY viewCertificate.label "Gwelout an testeni">
+
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "N'haller ket kennaskañ">
@@ -95,13 +97,20 @@
 
 <!ENTITY certerror.longpagetitle1 "N'eo ket diarvar ho kennask">
 <!ENTITY certerror.longpagetitle2 "Diwallit: gallout a ra bezañ un arvar diogelroez">
+<!ENTITY certerror.sts.longpagetitle  "N'eo ket kennasket: kudenn diogelroez posupl">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Direizh eo ket bet kefluniet o lec'hienn wiad gant perc'henned <span class='hostname'/>. Kuit na vefe laeret ho stlennoù n'oc'h ket bet kennasket ouzh al lec'hienn-mañ gant &brandShortName;.">
 <!ENTITY certerror.introPara2 "Dinoet eo bet gant &brandShortName; ur arvar diogelroez ha n'eus ket kendalc'het etrezek <span class='hostname'/>. Ma weladennit al lec'hienn-mañ e c'hallo tagerien klask laerez ho titouroù evel gerioù-tremen, chomlec'hioù postel pe munudoù kartennoù kred.">
 
+<!ENTITY certerror.sts.introPara "Dinoet ez eus bet gant &brandShortName; un arvar diogelroez posupl ha n'en deus ket kendalc'het etrezek <span class='hostname'/> dre ma azgoulenn al lec'hienn-mañ ur c'hennask diogel.">
+
 <!ENTITY certerror.expiredCert.secondPara "Gallout a ra bezañ liammet ar gudenn-mañ gant eurier hoc'h urzhiataer. Un eur direizh a c'hall mirout &brandShortName; da genderc'hel en un doare diogel.">
+
+<!ENTITY certerror.expiredCert.introPara "Dinoet ez eus bet ur gudenn gant &brandShortName; ha n'en deus ket kendalc'het etrezek <span class='hostname'/>. Kefluniet eo fall al lec'hienn pe direizh eo eur hoc'h urzhiataer.">
+<!ENTITY certerror.expiredCert.secondPara2 "Moarvat eo diamzeret testeni al lec'hienn, ar pezh a vir &brandShortName; da gennaskañ en un doare diogel. Ma weladennit al lec'hienn e c'hallfe tagerien laerez titouroù evel ho kerioù-tremen, ho chomlec'hioù postel pe munudoù ho kartenn gred.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Moarvat eo diamzeret testeni al lec'hienn, ar pezh a vir &brandShortName; da gennaskañ en un doare diogel.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Petra a c'hallit ober?">
 
@@ -148,6 +157,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Kennask arvarus">
 <!ENTITY certerror.pagetitle2  "Diwallit: ur riskl surentez bennak 'zo">
+<!ENTITY certerror.sts.pagetitle  "N'eo ket kennasket: kudenn diogelroez posupl">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Al lec'hienn-mañ a arver HTTP Strict Transport Security (HSTS) evit erspizañ e rank &brandShortName; kennaskañ outi gant un doare diogel. N'haller ket ouzhpennañ un nemedenn evit an testeni-mañ eta.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> a zo gantañ ur politikerezh surentez anvet HTTP Strict Transport Security (HSTS), ar pezh a dalvez &brandShortName; a c'hall kennaskañ outañ en un doare sur. N'hallit ket ouzhpennañ un nemedenn ebet evit gweladenniñ al lec'hienn-mañ.">
 <!ENTITY certerror.copyToClipboard.label "Eilañ an destenn er golver">

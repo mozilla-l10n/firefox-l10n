@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Stankañ ar bajenn about:profiles.
 policy-BlockAboutSupport = Stankañ ar bajenn about:support.
 policy-Bookmarks = Krouiñ sinedoù e barrenn ostilhoù ar sinedoù, lañser ar sinedoù, pe un teuliad resis eno.
 policy-Certificates = Arverañ pe get testenioù enkorfet. Ar reolenn-mañ n'eo nemet war Windows evit ar mare.
+policy-CertificatesDescription = Ouzhpennañ testenioù pe arverañ testenioù enkorfet
 policy-Cookies = Aotren pe difenn al lec'hiennoù da zespizañ toupinoù.
 policy-DisableAppUpdate = Mirout ar merdeer da hizivaat.
 policy-DisableBuiltinPDFViewer = Diweredekaat PDF.js, gweler PDF enkorfet { -brand-short-name }.

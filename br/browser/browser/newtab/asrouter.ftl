@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Ket bremañ
     .accesskey = K
 cfr-doorhanger-extension-ok-button = Ouzhpennañ bremañ
     .accesskey = O
+cfr-doorhanger-extension-manage-settings-button = Merañ an arventennoù erbediñ
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = Na ziskouez din an erbedadenn-mañ
+    .accesskey = N
 cfr-doorhanger-extension-learn-more-link = Gouzout hiroc'h
 # This string is used on a new line below the add-on name
 # Variables:
