@@ -6,7 +6,7 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle2    "Beklagar. Vi har problem med å få sidene dine tilbake.">
+<!ENTITY restorepage.errorTitle2    "Orsak. Vi har problem med å få sidene dine tilbake.">
 <!ENTITY restorepage.problemDesc2   "Vi har problem med å byggje oppatt den siste nettlesarøkta di. Vel Bygg oppatt programøkta for å prøve på nytt.">
 <!ENTITY restorepage.tryThis2       "Kan du framleis ikkje byggje oppatt programøkta di? Nokre gongar er ei fane årsak til problemet. Sjå over tidlegare faner, fjern merket frå fanene du ikkje treng å byggje oppatt, og bygg oppatt deretter.">
 
