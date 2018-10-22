@@ -312,7 +312,7 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL copiat">
 
-<!ENTITY pref_pwa "Aplicaţii web progresive">
+<!ENTITY pref_pwa "Aplicații web progresive">
 <!ENTITY pref_pwa_summary "Permite aplicațiilor web să fie adăugate în ecranul principal">
 
 <!ENTITY tracking_protection_prompt_title "Acum cu protecție împotriva urmăririi">
@@ -407,7 +407,7 @@
 <!ENTITY pref_dialog_set_default "Setează ca implicit">
 <!ENTITY pref_dialog_default "Implicit">
 <!ENTITY pref_dialog_remove "Elimină">
-<!ENTITY pref_dialog_activitystream_header_content "Conţinut adițional">
+<!ENTITY pref_dialog_activitystream_header_content "Conținut adițional">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "Marcaje recente">
 <!ENTITY pref_dialog_activitystream_visited "Vizitate">
 
