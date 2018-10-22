@@ -36,12 +36,13 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "จ">
 <!ENTITY runtimeMenu_showDetails_label "ข้อมูล Runtime">
 <!ENTITY runtimeMenu_showDetails_accesskey "ข">
-<!ENTITY runtimeMenu_showMonitor_label "ตัวเฝ้าสังเกต">
-<!ENTITY runtimeMenu_showMonitor_accesskey "ว">
 <!ENTITY runtimeMenu_showDevicePrefs_label "ค่ากำหนดอุปกรณ์">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "ค">
 <!ENTITY runtimeMenu_showSettings_label "การตั้งค่าอุปกรณ์">
 <!ENTITY runtimeMenu_showSettings_accesskey "ก">
+
+<!ENTITY runtimeMenu_showPerformancePanel_label "ประสิทธิภาพ">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "ป">
 
 <!ENTITY viewMenu_label "มุมมอง">
 <!ENTITY viewMenu_accesskey "ม">
@@ -136,9 +137,6 @@
 <!ENTITY devicesetting_newname "ชื่อการตั้งค่าใหม่">
 <!ENTITY devicesetting_newtext "ค่าการตั้งค่า">
 <!ENTITY devicesetting_addnew "เพิ่มการตั้งค่าใหม่">
-
-<!-- Monitor -->
-<!ENTITY monitor_help "ช่วยเหลือ">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
