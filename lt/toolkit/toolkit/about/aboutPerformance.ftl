@@ -51,4 +51,6 @@ show-addon =
 #   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
 #   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
 item =
-    .title = Išsiuntimai nuo įkėlimo: { $totalDispatches } ({ $totalDuration }ms) Išsiuntimai per paskutines sekundes: { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)
+    .title =
+        Išsiuntimai nuo įkėlimo: { $totalDispatches } ({ $totalDuration }ms)
+        Išsiuntimai per paskutines sekundes: { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)
