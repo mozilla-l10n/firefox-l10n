@@ -291,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Faigh barrachd fiosrachaidh mu chleachdadh &brandShortName; is bathar &vendorShortName; eile">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "Cuir air">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Gleusan deuchainneach">
@@ -363,7 +368,6 @@
 <!ENTITY pref_use_system_font_size_summary "Sgèilich susbaint-lìn a-rèir meud cruth-clò an t-siostaim">
 
 <!ENTITY pref_media_autoplay_enabled "Ceadaich fèin-chluich">
-<!ENTITY pref_media_autoplay_enabled_summary "Cum smachd air dè na làraichean aig a bheil videothan is meadhanan eile a chluich gu fèin-obrachail">
 <!ENTITY pref_media_autoplay_allow "Ceadaich fèin-chluich">
 <!ENTITY pref_media_autoplay_block "Bac fèin-chluich">
 <!ENTITY pref_zoom_force_enabled "Cuir an sùmadh an comas an-còmhnaidh">
@@ -828,9 +832,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Cha b’ urrainn dhuinn &brandShortName; fhosgladh. Ath-stàlaich e is feuch ris a-rithist.">
 
-<!ENTITY eol_notification_title2 "Cha dèid &brandShortName; ùrachadh tuilleadh">
-<!ENTITY eol_notification_summary "Thoir gnogag airson barrachd fiosrachaidh">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "Tha &brandShortName; cho ùr \&apos;s a ghabhas">
@@ -904,3 +905,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "Brathan push &brandShortName;">
 <!ENTITY updater_notification_channel "Ùrachadh aplacaidean">
 <!ENTITY synced_tabs_notification_channel "Tabaichean sioncronaichte">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Brathan na làraich">
