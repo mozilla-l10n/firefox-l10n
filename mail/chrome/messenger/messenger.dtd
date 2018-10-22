@@ -443,6 +443,7 @@
 <!ENTITY openConversationCmd.label "Otvori kao razgovor">
 <!ENTITY openConversationCmd.accesskey "k">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openInConversationCmd.label "Otvori kao razgovor">
 <!ENTITY openAttachmentListCmd.label "Privitci">
 <!ENTITY openAttachmentListCmd.accesskey "i">
 <!ENTITY openFeedMessage1.label "Prilikom otvaranja poruka iz kanala">
