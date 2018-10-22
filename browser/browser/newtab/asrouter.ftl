@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Nid Nawr
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Ychwanegu Nawr
     .accesskey = Y
+cfr-doorhanger-extension-manage-settings-button = Gosodiadau Argymell Rheoli
+    .accesskey = R
+cfr-doorhanger-extension-never-show-recommendation = Peidio Dangos yr Argymhelliad i Mi
+    .accesskey = P
 cfr-doorhanger-extension-learn-more-link = Dysgu rhagor
 # This string is used on a new line below the add-on name
 # Variables:

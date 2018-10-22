@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Eithriadau - Diogelu Rhag Tracio
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Rydych wedi analluogi Diogelu Rhag Tracio ar y gwefannau hyn.
+permissions-exceptions-content-blocking-window =
+    .title = Eithriadau - Rhwystro Cynnwys
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Rydych wedi analluogi rhwystro cynnwys ar y gwefannau hyn.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Gallwch enwi pa wefannau sy'n cael gosod yc
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Gwefannau'n Cael eu Caniatáu - Awtochwarae
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Gallwch bennu pa wefannau sy'n cael chwarae elfennau cyfrwng yn awtomatig. Teipiwch union gyfeiriad y wefan rydych am ei chaniatáu ac yna clicio Caniatáu.
 permissions-exceptions-autoplay-media-window2 =
     .title = Eithriadau - Awtochwarae
     .style = { permissions-window.style }
