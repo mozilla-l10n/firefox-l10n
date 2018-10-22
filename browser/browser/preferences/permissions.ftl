@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Exceptions - Protection contre le pistage
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Vous avez désactivé la protection contre le pistage sur ces sites.
+permissions-exceptions-content-blocking-window =
+    .title = Exceptions - Blocage de contenu
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Vous avez désactivé le blocage de contenu sur ces sites.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Vous pouvez indiquer les sites web autoris�
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Sites autorisés - Lecture automatique
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Il vous est possible de préciser quels sites web vous autorisez à lire automatiquement du contenu multimédia. Saisissez l’adresse exacte du site que vous souhaitez autoriser puis cliquez sur Autoriser.
 permissions-exceptions-autoplay-media-window2 =
     .title = Exceptions - Lecture automatique
     .style = { permissions-window.style }
