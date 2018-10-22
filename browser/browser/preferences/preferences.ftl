@@ -84,6 +84,9 @@ extension-controlled-homepage-override = <img data-l10n-name="icon"/> { $name } 
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } 확장기능이 새 탭 페이지를 제어하고 있습니다.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = <img data-l10n-name="icon"/> { $name } 확장기능이 이 설정을 제어하고 있습니다.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } 확장기능이 기본 검색 엔진을 설정했습니다.
@@ -312,6 +315,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = 타이핑을 시작하면 검색
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = 탐색시 확장 기능 추천
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = 더 알아보기
 
 ## General Section - Proxy
 

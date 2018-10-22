@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = about:profiles 페이지 접근을 차단합니다.
 policy-BlockAboutSupport = about:support 페이지 접근을 차단합니다.
 policy-Bookmarks = 북마크 도구 막대나 북마크 메뉴, 안의 특정 폴더에 북마크를 생성합니다.
 policy-Certificates = 기본 탑재 인증서 사용 여부입니다. 지금은 윈도우에만 적용됩니다.
+policy-CertificatesDescription = 인증서를 추가하거나 기본 제공 인증서를 사용합니다.
 policy-Cookies = 웹사이트의 쿠키 설정을 허용하거나 거부합니다.
 policy-DisableAppUpdate = 브라우저가 업데이트 되지 않게 합니다.
 policy-DisableBuiltinPDFViewer = { -brand-short-name }에 탑재된 PDF 뷰어인 PDF.js를 비활성화 합니다.
