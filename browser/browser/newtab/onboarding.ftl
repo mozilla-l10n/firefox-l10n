@@ -19,4 +19,5 @@ onboarding-start-browsing-button-label = Fuɗɗo wanngaade
 onboarding-private-browsing-title = Banngogol Suturo
 onboarding-private-browsing-text = Wanngano hoore maa. Banngagol sutura paddotoongol ina faddoo rewindo e ceŋol rewindiiɗi ma nder geese.
 onboarding-screenshots-title = Leƴƴanɗe kuurga
+onboarding-screenshots-text = Ƴettu, kisnaa, lollinaa natte yaynirde - tawa a yaltaani { -brand-short-name }. Natto diiwaan walla hello huurngo so aɗa wanngoo. Caggal ɗuum hisnu nder geese ngam newnude gartol e lollingol.
 onboarding-addons-title = ɓeyditte
