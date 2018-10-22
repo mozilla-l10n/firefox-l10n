@@ -58,7 +58,7 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "Opne mappa med fila">
+<!ENTITY cmd.show.label                   "Opne innhaldsmappe">
 <!ENTITY cmd.show.accesskey               "O">
 <!ENTITY cmd.showMac.label                "Vis i Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
