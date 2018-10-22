@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Extendì">
 <!ENTITY paneAccount.title        "Contos">
 
+<!ENTITY addonsButton.label       "Extensiuns &amp; designs">
+
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">
