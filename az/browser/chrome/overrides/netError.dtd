@@ -103,9 +103,13 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> sahibi web saytı düzgün quraşdırmayıb. Məlumatlarınızın oğurlanmasının qarşısın almaq üçün &brandShortName; bu web sayta qoşulmadı.">
 <!ENTITY certerror.introPara2 "&brandShortName; <span class='hostname'/> saytında potensial təhlükə tapdı və davam etmədi. Əgər bu saytı ziyarət etsəniz hücumçular parol, e-poçt, kredit kartı kimi məlumatlarınızı oğurlaya bilərlər.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; potensial güvənlik təhlükəsi aşkarladı və <span class='hostname'/> saytına davam etmədi çünki, bu sayt təhlükəsiz əlaqə tələb edir.">
 
 <!ENTITY certerror.expiredCert.secondPara "Ola bilsin kompüterinizin saatı səhv qurulduğu üçün &brandShortName; səyyahı təhlükəsiz əlaqə qura bilmir.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; xəta aşkarladı və <span class='hostname'/> saytına davam etmədi. Ya bu sayt səhv konfiqurasiya edilib və ya kompüterinizin saatı səhvdir.">
+<!ENTITY certerror.expiredCert.secondPara2 "Görünür saytın sertifikatının vaxtı çıxıb, buna görə də &brandShortName; ona təhlükəsiz qoşula bilmir. Əgər bu saytı ziyarət etsəniz, hücum edənlər parol, e-poçt və kredit-kartı kimi məlumatlarınızı oğurlaya bilərlər.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Görünür saytın sertifikatının vaxtı çıxıb, buna görə də &brandShortName; ona təhlükəsiz qoşula bilmir.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Bununla bağlı nə edə bilərsiz?">
 
@@ -154,6 +158,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Qorumasız Bağlantı">
 <!ENTITY certerror.pagetitle2  "Diqqət: Qabaqda potensial təhlükə riski var">
+<!ENTITY certerror.sts.pagetitle  "Qoşulmadı: Potensial Güvənlik Təhlükəsi">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Bu sayt, &brandShortName; səyyahının özünə ancaq təhlükəsiz şəkildə qoşula biləcəyini bidirmək üçün HTTP Qəti Transfer Təhlükəsizliyi (HTTS) istifadə edir. Bu səbəbdən, bu sertifikat üçün istisna əlavə etmək mümkün deyil.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> saytının HTTP Strict Transport Security (HSTS) adlı təhlükəsizlik siyasəti var, bu deməkdir ki, &brandShortName; bununla ancaq təhlükəsiz əlaqə qura bilər. Bu sayta istisna verə bilməzsiz.">
 <!ENTITY certerror.copyToClipboard.label "Mətni buferə köçür">
