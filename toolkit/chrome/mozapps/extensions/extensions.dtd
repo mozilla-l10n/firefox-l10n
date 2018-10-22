@@ -43,6 +43,7 @@
 <!ENTITY view.recentUpdates.label             "Соңғы жаңартулар">
 <!ENTITY view.availableUpdates.label          "Қолжетерлік жаңартулар">
 
+<!ENTITY helpButton.label                      "Қосымшаларды қолдау">
 <!ENTITY preferencesWin.label                  "&brandShortName; опциялары">
 <!ENTITY preferencesUnix.label                 "&brandShortName; баптаулары">
 
