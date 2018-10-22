@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = about:profiles səhifəsinə girişi əngəllə.
 policy-BlockAboutSupport = about:support səhifəsinə girişi əngəllə.
 policy-Bookmarks = Əlfəcinləri Əlfəcinlər alət sətrində, Əlfəcinlər menyusunda və ya bunların içindəki qovluqlarda yarada bilərsiz.
 policy-Certificates = Daxili sertifikatların işlədib-işlədilməməsi. Bu siyasət hələlik ancaq Windows üçündür.
+policy-CertificatesDescription = Sertifikat əlavə et və ya daxili sertifikatları idarə et.
 policy-Cookies = Saytların çərəz qurmalarını qəbul və ya rədd et.
 policy-DisableAppUpdate = Səyyahın yenilənməsinin qarşısını al.
 policy-DisableBuiltinPDFViewer = { -brand-short-name } üçün PDF göstəricisi olan PDF.js-i söndür.

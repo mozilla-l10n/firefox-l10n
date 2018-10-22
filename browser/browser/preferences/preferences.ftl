@@ -84,6 +84,9 @@ extension-controlled-homepage-override = Uzantı, <img data-l10n-name="icon"/> {
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Uzantı, <img data-l10n-name="icon"/> { $name }, Yeni Vərəq səhifənizi idarə edir.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = <img data-l10n-name="icon"/> { $name } adlı uzantı bu tənzimləməni idarə edir.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } uzantısı əsas axtarış mühərriyinizi dəyişdirdi.
@@ -324,6 +327,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Yazmağa başladığınız zaman söz axtarılsın
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Gəzərkən uzantıları məsləhət gör
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = Ətraflı Öyrən
 
 ## General Section - Proxy
 

@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = İstisnalar - İzlənmə Qoruması
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Bu saytlarda İzlənmə Qorumasını söndürmüsünüz.
+permissions-exceptions-content-blocking-window =
+    .title = İstisnalar - Məzmun Əngəlləmə
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Məzmun Əngəlləməni bu saytlarda söndürmüsünüz.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Hansı saytların əlavə yükləyə biləc
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = İcazə verilən saytlar - Avto Oxutma
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Hansı saytların avtomatik media oxuda biləcəyini dəqiqləşdirə bilərsiz. İcazə vermək istədiyiniz saytın ünvanını yaxın və İcazə Ver-ə klikləyin.
 permissions-exceptions-autoplay-media-window2 =
     .title = İstisna - Avto Oxutma
     .style = { permissions-window.style }
