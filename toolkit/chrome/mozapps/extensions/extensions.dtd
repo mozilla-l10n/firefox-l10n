@@ -5,6 +5,7 @@
 
 <!ENTITY search.placeholder2                  "addons.mozilla.org-ға іздеу">
 
+<!ENTITY search.placeholder3                  "addons.mozilla.org-ға іздеу">
 <!ENTITY search.buttonlabel                   "Іздеу">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
