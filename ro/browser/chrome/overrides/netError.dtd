@@ -100,6 +100,7 @@
 
 <!ENTITY certerror.longpagetitle1 "Conexiunea nu este securizată">
 <!ENTITY certerror.longpagetitle2 "Avertisment: Urmează un posibil risc de securitate">
+<!ENTITY certerror.sts.longpagetitle  "Nu s-a realizat conectarea: Posibilă problemă de securitate">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -119,9 +120,8 @@ was trying to connect. -->
 ">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
-<p>Ceasul calculatorului este fixat pe <span id='wrongSystemTime_systemDate2'/>. Asigură-te că ai calculatorul fixat pe data, ora și fusul orar corecte. Intră în setările sistemului și apoi reîmprospătează <span class='hostname'/>.</p>
-<p>Dacă ceasul e fixat pe ora corectă, atunci, cel mai probabil, site-ul web nu este configurat corect și nu poți face nimic. Poți notifica administratorul site-ului web asupra problemei.</p>
-">
+<p>Ceasul calculatorului este setat la <span id='wrongSystemTime_systemDate2'/>. Asigură-te că ai calculatorul setat pe data, ora și fusul orar corecte în setările sistemului, apoi reîmprospătează <span class='hostname'/>.</p>
+<p>Dacă ceasul este deja setat la ora corectă, site-ul web este probabil configurat greșit și nu poți face nimic pentru a rezolva problema. Poți notifica administratorul site-ului web cu privire la problemă.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
 <p>Problema a apărut cel mai probabil din cauza site-ului web și nu poți face nimic. Poți notifica administratorul site-ului web.</p>
@@ -153,11 +153,12 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; nu s-a conectat la <span id='wrongSystemTime_URL'/> deoarece ceasul calculatorului tău pare că arată ora greșită, iar aceasta împiedică o conexiune securizată.</p> <p>Ceasul calculatorului tău este <span id='wrongSystemTime_systemDate'/>, dar ar trebui să fie <span id='wrongSystemTime_actualDate'/>. Pentru a rezolva această problemă ar trebui să schimbi data și ora de sistem pentru a se potrivi cu cele corecte.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; nu s-a conectat la <span id='wrongSystemTimeWithoutReference_URL'/> deoarece ceasul calculatorului tău pare că arată ora greșită, iar aceasta previne o conexiune securizată.</p> <p>Ceasul calculatorului tău arată ora <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pentru a rezolva această problemă ar trebui să schimbi data și ora de sistem pentru a se potrivi cu cele corecte.</p>">
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; nu s-a conectat la <span id='wrongSystemTime_URL'/> deoarece ceasul calculatorului tău pare că afișează ora greșită, iar aceasta împiedică o conexiune securizată.</p> <p>Ceasul calculatorului este setat la <span id='wrongSystemTime_systemDate'/>, deși ar trebui să fie <span id='wrongSystemTime_actualDate'/>. Pentru a rezolva această problemă, schimbă setările privind data și ora pentru a se potrivi cu cele corecte.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; nu s-a conectat la <span id='wrongSystemTimeWithoutReference_URL'/> deoarece ceasul calculatorului tău pare că afișează ora greșită, iar aceasta împiedică o conexiune securizată.</p> <p>Ceasul calculatorului este setat la <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pentru a rezolva această problemă, schimbă setările privind data și ora pentru a se potrivi cu cele corecte.</p>">
 
 <!ENTITY certerror.pagetitle1  "Conexiune nesigură">
 <!ENTITY certerror.pagetitle2  "Avertisment: Urmează un posibil risc de securitate">
+<!ENTITY certerror.sts.pagetitle  "Nu s-a realizat conectarea: Posibilă problemă de securitate">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Acest site folosește HTTP Strict Transport Security (HSTS) pentru a specifica că &brandShortName; se poate conecta doar în mod securizat la el. Drept rezultat, nu este posibil să adaugi o excepție acestui certificat.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> are o politică de securitate numită HTTP Strict Transport Security (HSTS), ceea ce înseamnă că &brandShortName; se poate conecta la acesta numai în mod securizat. Nu poți adăuga o excepție pentru a vizita acest site.">
 <!ENTITY certerror.copyToClipboard.label "Copiază textul în clipboard">
@@ -170,7 +171,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Pagină blocată">
 
 <!ENTITY clockSkewError.title "Ceasul calculatorului este fixat greșit">
-<!ENTITY clockSkewError.longDesc "Calculatorul crede că este <span id='wrongSystemTime_systemDate1'/>, ceea ce împiedică o conectare securizată &brandShortName;. Ca să intri pe <span class='hostname'></span>, actualizează ceasul calculatorului în setările de sistem și adu-l la data, ora și fusul orar curente, apoi reîmprospătează <span class='hostname'></span>.">
+<!ENTITY clockSkewError.longDesc "Calculatorul crede că este <span id='wrongSystemTime_systemDate1'/>, ceea ce împiedică o conectare securizată &brandShortName;. Pentru a vizita <span class='hostname'></span>, actualizează ceasul calculatorului în setările de sistem la data, ora și fusul orar curente, apoi reîmprospătează <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Se pare că setările de securitate a rețelei sunt de vină. Vrei restaurarea setărilor implicite?">
 <!ENTITY prefReset.label "Restaurează setările implicite">
