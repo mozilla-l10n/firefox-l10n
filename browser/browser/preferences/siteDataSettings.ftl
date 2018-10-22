@@ -10,8 +10,12 @@ site-data-search-textbox =
     .accesskey = s
 site-data-column-host =
     .label = Stranica
+site-data-column-cookies =
+    .label = Kolačići
 site-data-column-storage =
     .label = Pohrana
+site-data-column-last-used =
+    .label = Posljednji put korišteno
 site-data-remove-selected =
     .label = Ukloni odabrano
     .accesskey = r
@@ -34,8 +38,6 @@ site-data-remove-shown =
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Ukloni
