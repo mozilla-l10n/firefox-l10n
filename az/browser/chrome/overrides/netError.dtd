@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Geri Get">
 <!ENTITY returnToPreviousPage1.label "Geri get (Məsləhətlidir)">
 <!ENTITY advanced.label "Təkmilləşmiş">
-
 <!ENTITY continue2.label "Ətraflı…">
 <!ENTITY moreInformation.label "Daha çox məlumat">
+
+<!ENTITY viewCertificate.label "Sertifikatı Gör">
 
 <!-- Specific error messages -->
 
@@ -99,10 +100,11 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> sahibi web saytı düzgün quraşdırmayıb. Məlumatlarınızın oğurlanmasının qarşısın almaq üçün &brandShortName; bu web sayta qoşulmadı.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; <span class='hostname'/> saytında potensial təhlükə tapdı və davam etmədi. Əgər bu saytı ziyarət etsəniz hücumçular parol, e-poçt, kredit kartı kimi məlumatlarınızı oğurlaya bilərlər.">
 
+
 <!ENTITY certerror.expiredCert.secondPara "Ola bilsin kompüterinizin saatı səhv qurulduğu üçün &brandShortName; səyyahı təhlükəsiz əlaqə qura bilmir.">
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Bununla bağlı nə edə bilərsiz?">
 
@@ -130,7 +132,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "İstisnalıq ver…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Riski qəbul et və davam et">
 
 <!ENTITY errorReporting.automatic2 "Bu kimi xətaları Mozillaya xəbər edərək təhlükəli saytları təyin edib bloklamaya kömək edə bilərsiz.">
