@@ -324,6 +324,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Søk etter tekst når eg byrjar å skrive
     .accesskey = k
+browsing-cfr-recommendations-learn-more = Les meir
 
 ## General Section - Proxy
 
