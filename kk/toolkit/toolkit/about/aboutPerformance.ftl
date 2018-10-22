@@ -21,6 +21,11 @@ preloaded-tab = Алдын ала жүктелген: { $title }
 ## Values for the Type column
 
 type-tab = Бет
+type-tracker = Трекер
+type-addon = Қосымша
+type-browser = Браузер
+type-worker = Жұмыс үрдісі
+type-other = Басқа
 
 ## Values for the Energy Impact column
 ##
@@ -28,6 +33,9 @@ type-tab = Бет
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
+energy-impact-high = Жоғары ({ $value })
+energy-impact-medium = Орташа ({ $value })
+energy-impact-low = Төмен ({ $value })
 
 ## Tooltips for the action buttons
 
