@@ -290,7 +290,7 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Mrežni proxy
+network-proxy-connection-learn-more = Saznajte više
 network-proxy-connection-settings =
     .label = Postavke...
     .accesskey = e
@@ -300,6 +300,9 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = Nove kartice
+home-mode-choice-blank =
+    .label = Prazna stranica
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -428,6 +431,7 @@ privacy-header = Privatnost preglednika
 ## Privacy Section - Forms
 
 forms-header = Obrasci i lozinke
+logins-header = Prijave i lozinke
 forms-exceptions =
     .label = Iznimke...
     .accesskey = m
@@ -480,12 +484,6 @@ history-clear-on-close-settings =
 sitedata-learn-more = Saznajte više
 sitedata-keep-until = Zadrži do
     .accesskey = ž
-sitedata-accept-third-party-always-option =
-    .label = Uvijek
-sitedata-accept-third-party-visited-option =
-    .label = Od posjećenih
-sitedata-accept-third-party-never-option =
-    .label = Nikad
 sitedata-cookies-exceptions =
     .label = Iznimke...
     .accesskey = m
@@ -507,6 +505,7 @@ addressbar-suggestions-settings = Promijenite postavke za prijedloge tražilica
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = Saznajte više
 
 ## Privacy Section - Tracking
 
@@ -520,10 +519,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nikad
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Koristite zaštitu od praćenja u Privatnom pretraživanju kako biste blokirali poznate alate za praćenje
-    .accesskey = v
 tracking-exceptions =
     .label = Iznimke…
     .accesskey = z
@@ -554,6 +549,9 @@ permissions-notification-link = Saznajte više
 permissions-notification-pause =
     .label = Pauziraj obavijesti dok se { -brand-short-name } ponovno ne pokrene
     .accesskey = n
+autoplay-option-ask =
+    .label = Uvijek pitaj
+permissions-autoplay-link = Saznajte više
 permissions-block-popups =
     .label = Blokiraj skočne prozore
     .accesskey = s
@@ -583,6 +581,7 @@ collection-health-report-link = Saznajte više
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji s podacima su onemogućeni za konfiguraciju
+collection-browser-errors-link = Saznajte više
 collection-backlogged-crash-reports-link = Saznajte više
 
 ## Privacy Section - Security
