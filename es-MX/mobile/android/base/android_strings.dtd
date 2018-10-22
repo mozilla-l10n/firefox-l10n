@@ -188,7 +188,7 @@
 <!ENTITY pref_category_privacy_summary4 "Rastreo, inicios de sesión, selección de datos">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Acerca de &brandShortName;, preguntas frecuentes, retroalimentación">
-<!ENTITY pref_category_datareporting "Elección de datos">
+<!ENTITY pref_category_datareporting "Selección de datos">
 <!ENTITY pref_category_logins "Inicios de sesión">
 <!ENTITY pref_learn_more "Saber más">
 <!ENTITY pref_category_installed_search_engines "Motores de búsqueda instalados">
