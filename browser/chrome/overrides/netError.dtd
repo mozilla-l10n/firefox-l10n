@@ -137,6 +137,7 @@
 
 <!ENTITY certerror.longpagetitle1 "La connexion n’est pas sécurisée">
 <!ENTITY certerror.longpagetitle2 "Attention : risque probable de sécurité">
+<!ENTITY certerror.sts.longpagetitle  "Connexion bloquée : problème de sécurité potentiel">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -146,6 +147,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "Ce problème est probablement dû au fait que l’horloge de votre ordinateur est déréglée, ce qui empêche &brandShortName; de se connecter de façon sécurisée.">
 
+<!ENTITY certerror.expiredCert.secondPara2 "Le certificat du site a probablement expiré, ce qui empêche &brandShortName; d’établir une connexion sécurisée. Si vous visitez ce site, des attaquants pourraient dérober des informations telles que vos mots de passe, vos adresses électroniques ou vos informations de carte bancaire.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Le certificat du site a probablement expiré, ce qui empêche &brandShortName; d’établir une connexion sécurisée.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Que pouvez-vous faire ?">
