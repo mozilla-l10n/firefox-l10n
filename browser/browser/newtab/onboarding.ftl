@@ -17,5 +17,6 @@ onboarding-start-browsing-button-label = Fuɗɗo wanngaade
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Banngogol Suturo
+onboarding-private-browsing-text = Wanngano hoore maa. Banngagol sutura paddotoongol ina faddoo rewindo e ceŋol rewindiiɗi ma nder geese.
 onboarding-screenshots-title = Leƴƴanɗe kuurga
 onboarding-addons-title = ɓeyditte

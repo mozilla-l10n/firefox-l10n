@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Wonaa jooni
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Ɓeydu jooni
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Toppito teelte baggingol
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = Hoto hollu am ndee wagginoore
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = Jokku taro
 # This string is used on a new line below the add-on name
 # Variables:
