@@ -69,7 +69,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Procese pentru conținut web">
 
-<!ENTITY aboutSupport.enterprisePolicies "Politici afacerilor">
+<!ENTITY aboutSupport.enterprisePolicies "Politici dedicate întreprinderilor">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Cheie Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Cheie pentru serviciul de localizare Mozilla">
@@ -156,11 +156,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceLatency "Latență">
 
 <!ENTITY aboutSupport.intlTitle "Internaționalizare și localizare">
-<!ENTITY aboutSupport.intlAppTitle "Setări aplicație">
+<!ENTITY aboutSupport.intlAppTitle "Setări privind aplicația">
 <!ENTITY aboutSupport.intlLocalesRequested "Limbile solicitate">
 <!ENTITY aboutSupport.intlLocalesAvailable "Limbile disponibile">
-<!ENTITY aboutSupport.intlLocalesSupported "Limbile de aplicație">
+<!ENTITY aboutSupport.intlLocalesSupported "Limbile aplicației">
 <!ENTITY aboutSupport.intlLocalesDefault "Limba implicită">
 <!ENTITY aboutSupport.intlOSTitle "Sistem de operare">
-<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Limbi de sistem">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Limbile sistemului">
 <!ENTITY aboutSupport.intlRegionalPrefs "Preferințe regionale">
