@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = İndi deyil
     .accesskey = N
 cfr-doorhanger-extension-ok-button = İndi əlavə et
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Tövsiyyə tənzimləmələrini idarə et
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = Mənə bu tövsiyyəni göstərmə
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = Ətraflı öyrən
 # This string is used on a new line below the add-on name
 # Variables:

@@ -96,6 +96,7 @@
 
 <!ENTITY certerror.longpagetitle1 "Bağlantınız qorumalı deyil">
 <!ENTITY certerror.longpagetitle2 "Diqqət: Qabaqda potensial təhlükə riski var">
+<!ENTITY certerror.sts.longpagetitle  "Qoşulmadı: Potensial Güvənlik Təhlükəsi">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
