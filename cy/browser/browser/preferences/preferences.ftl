@@ -84,6 +84,9 @@ extension-controlled-homepage-override = Mae estyniad, <img data-l10n-name="icon
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Mae estyniad, <img data-l10n-name="icon"/> { $name }, yn rheoli eich tudalen Tab Newydd.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Mae estyniad, <img data-l10n-name="icon"/> { $name }, yn rheoli'r gosodiad hwn.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Mae'r estyniad, <img data-l10n-name="icon"/> { $name }, wedi gosod eich peiriant chwilio ragosodedig.
@@ -336,6 +339,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Chwilio am destun wrth i mi gychwyn teipio
     .accesskey = d
+browsing-cfr-recommendations =
+    .label = Argymell estyniadau wrth i chi bori
+    .accesskey = A
+browsing-cfr-recommendations-learn-more = Dysgu Rhagor
 
 ## General Section - Proxy
 

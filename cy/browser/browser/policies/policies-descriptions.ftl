@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Rhwystro mynediad i'r dudalen about:profiles.
 policy-BlockAboutSupport = Rhwystro mynediad i'r dudalen about:support.
 policy-Bookmarks = Creu nodau tudalen yn y bar offer Nodau Tudalen, dewislen Nodau Tudalen neu ffolder penodol o'u mewn.
 policy-Certificates = P'un ai ddefnyddio tystysgrifau mewnol. Polisi ar gyfer Windows yw hyn ar hyn o bryd.
+policy-CertificatesDescription = Ychwanegu tystysgrifau neu ddefnyddio tystysgrifau mewnol.
 policy-Cookies = Caniatáu neu wrthod i wefannau osod cwcis.
 policy-DisableAppUpdate = Rhwystro'r wefan rhag diweddaru.
 policy-DisableBuiltinPDFViewer = Analluogi PDF.js, y dangosydd PDF mewnol yn { -brand-short-name }.
