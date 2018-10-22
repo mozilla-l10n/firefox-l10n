@@ -97,7 +97,7 @@ These two items have the same accesskey but will never be visible at the same ti
 <!ENTITY  moveToStart.label                  "Перанесці ў пачатак">
 <!ENTITY  moveToStart.accesskey              "ч">
 <!ENTITY  moveToEnd.label                    "Перанесці ў канец">
-<!ENTITY  moveToEnd.accesskey                "у">
+<!ENTITY  moveToEnd.accesskey                "ц">
 <!ENTITY  moveToNewWindow.label              "Перанесці ў новае акно">
 <!ENTITY  moveToNewWindow.accesskey          "а">
 <!ENTITY  reopenInContainer.label            "Пераадкрыць у кантэйнеры">
