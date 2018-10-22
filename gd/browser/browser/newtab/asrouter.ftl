@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Chan ann an-dràsta
     .accesskey = d
 cfr-doorhanger-extension-ok-button = Cuir ris an-dràsta
     .accesskey = C
+cfr-doorhanger-extension-manage-settings-button = Stiùirich roghainnean nam molaidhean
+    .accesskey = m
+cfr-doorhanger-extension-never-show-recommendation = Na seall am moladh seo dhomh
+    .accesskey = s
 cfr-doorhanger-extension-learn-more-link = Barrachd fiosrachaidh
 # This string is used on a new line below the add-on name
 # Variables:
