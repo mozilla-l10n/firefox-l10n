@@ -324,7 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchItem.title             "Caută">
 
 <!-- Toolbar items -->
-<!ENTITY homeButton.label             "Pagina de start">
+<!ENTITY homeButton.label             "Pagină de start">
 <!ENTITY homeButton.defaultPage.tooltip "Pagina de start &brandShortName;">
 
 <!ENTITY bookmarksButton.label          "Marcaje">
@@ -393,7 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.label     "Fereastră privată nouă">
 <!ENTITY newPrivateWindow.accesskey "W">
 
-<!ENTITY editMenu.label         "Editează">
+<!ENTITY editMenu.label         "Editare">
 <!ENTITY editMenu.accesskey       "E">
 <!ENTITY undoCmd.label            "Anulează">
 <!ENTITY undoCmd.key            "Z">
@@ -425,7 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Vizualizează">
+<!ENTITY viewMenu.label         "Vizualizare">
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY viewToolbarsMenu.label       "Bare de instrumente">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
