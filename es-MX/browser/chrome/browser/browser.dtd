@@ -87,12 +87,17 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Mover pestaña">
+<!ENTITY  moveSelectedTabOptions.label       "Mover pestañas">
+<!ENTITY  moveToStart.label                  "Mover al inicio">
+<!ENTITY  moveToEnd.label                    "Mover al final">
 <!ENTITY  moveToNewWindow.label              "Mover a una nueva ventana">
 <!ENTITY  moveToNewWindow.accesskey          "v">
 <!ENTITY  reopenInContainer.label            "Reabrir en Contenedor">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Agregar pestañas a marcadores…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
+<!ENTITY  bookmarkTab.label                  "Marcar pestaña">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "Deshacer el cierre de la última pestaña">
@@ -121,6 +126,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "Administrador de tareas">
 
 <!ENTITY goOfflineCmd.label "Trabajar sin conexión">
 <!ENTITY goOfflineCmd.accesskey "x">
@@ -149,6 +155,7 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Seleccionar todas las pestañas">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Deshacer el cierre de la última pestaña">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "D">
 
