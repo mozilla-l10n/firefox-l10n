@@ -146,6 +146,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "Ce problème est probablement dû au fait que l’horloge de votre ordinateur est déréglée, ce qui empêche &brandShortName; de se connecter de façon sécurisée.">
 
+<!ENTITY certerror.expiredCert.sts.secondPara "Le certificat du site a probablement expiré, ce qui empêche &brandShortName; d’établir une connexion sécurisée.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Que pouvez-vous faire ?">
 
@@ -197,6 +198,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Connexion non sécurisée">
 <!ENTITY certerror.pagetitle2  "Attention : risque probable de sécurité">
+<!ENTITY certerror.sts.pagetitle  "Connexion bloquée : problème de sécurité potentiel">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ce site a recours à HTTP Strict Transport Security (HSTS) pour indiquer à &brandShortName; de n’établir qu’une connexion sécurisée. Ainsi il n’est pas possible d’ajouter d’exception pour ce certificat.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> a recours à une stratégie de sécurité HTTP Strict Transport Security (HSTS), une connexion sécurisée est obligatoire pour y accéder. Vous ne pouvez pas ajouter d’exception pour visiter ce site.">
 <!ENTITY certerror.copyToClipboard.label "Copier le texte dans le presse-papiers">

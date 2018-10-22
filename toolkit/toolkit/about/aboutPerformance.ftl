@@ -13,6 +13,9 @@ column-type = Type
 ## Special values for the Name column
 
 ghost-windows = Onglets récemment fermés
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Préchargé : { $title }
 
 ## Values for the Type column
 
