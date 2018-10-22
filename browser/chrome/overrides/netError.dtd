@@ -106,6 +106,8 @@ was trying to connect. -->
 <!ENTITY certerror.expiredCert.secondPara "Mae'n fwyaf tebygol fod hyn o oherwydd bod cloc eich cyfrifiadur wedi'i osod i'r amser anghywir, sy'n atal &brandShortName; rhag gysylltu'r ddiogel.">
 
 <!ENTITY certerror.expiredCert.introPara "Mae &brandShortName; wedi canfod bygythiad diogelwch posib ac nid yw wedi mynd i <span class='hostname'/>. Un ai mae'r wefan wedi ei gam ffurfweddu neu mae cloc eich cyfrifiadur wedi ei osod i'r amser anghywir.">
+<!ENTITY certerror.expiredCert.secondPara2 "Mae'n debyg fod tystysgrif y wefan wedi dod i ben, sy'n atal &brandShortName; rhag cysylltu'n ddiogell. Os ewch chi i'r wefan hon gall ymosodwyr geisio dwy gwybodaeth fel eich cyfrineiriau, e-byst neu fanylion cerdyn credyd.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Mae'n debyg fod tystysgrif y wefan wedi dod i ben, sy'n atal &brandShortName; rhag cysylltu'n ddiogell.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Beth allwch chi wneud am hyn?">
 
@@ -148,6 +150,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Cysylltiad Anniogel">
 <!ENTITY certerror.pagetitle2  "Rhybudd: Risg Diogelwch Posibl o'ch Blaen">
+<!ENTITY certerror.sts.pagetitle  "Peidiwch cysylltu: Mater Diogelwch Posib">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Mae'r wefan hon yn defnyddio HTTP Strict Transport Security (HSTS) i bennu fod &brandShortName; yn unig yn cysylltu iddo'n ddiogel. O ganlyniad, nid yw'n bosib ychwanegu eithriad ar gyfer y dystysgrif hon.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Mae gan <span class='hostname'></span> bolisi diogelwch o'r enw HTTP Strict Transport Security (HSTS), sy'n golygu mai dim ond yn ddiogel mae modd i &brandShortName; gysylltu. Nid oes modd gosod eithriad er mwyn ymweld â'r wefan.">
 <!ENTITY certerror.copyToClipboard.label "Copïo testun i'r clipfwrdd">
