@@ -13,6 +13,7 @@
 <!ENTITY continue2.label "Mai multe…">
 <!ENTITY moreInformation.label "Mai multe informații">
 
+
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nu se poate conecta">
@@ -105,7 +106,10 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "Proprietarul <span class='hostname'/> și-a configurat site-ul web necorespunzător.  Pentru a proteja informațiile împotriva furtului, &brandShortName; nu s-a conectat la acest site web.">
 <!ENTITY certerror.introPara2 "&brandShortName; a detectat o posibilă amenințare de securitate și nu a continuat la <span class='hostname'/>. Dacă vizitezi acest site, atacatorii ar putea încerca să fure informații cum ar fi parolele, e-mailurile sau detaliile cardului de credit.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; a detectat o posibilă amenințare de securitate și nu a continuat la <span class='hostname'/>, deoarece acest site web necesită o conexiune securizată.">
+
 <!ENTITY certerror.expiredCert.secondPara "Problema a apărut cel mai probabil pentru că ceasul calculatorului nu e fixat corect, ceea ce ar împiedica o conectare securizată &brandShortName;.">
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ce poți face?">
 
