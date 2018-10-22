@@ -51,4 +51,6 @@ show-addon =
 #   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
 #   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
 item =
-    .title = 載入後的調度: { $totalDispatches }（{ $totalDuration }ms）最後幾秒的調度: { $dispatchesSincePrevious }（{ $durationSincePrevious }ms）
+    .title =
+        載入後的調度: { $totalDispatches }（{ $totalDuration }ms)
+        最後幾秒的調度: { $dispatchesSincePrevious }（{ $durationSincePrevious }ms）
