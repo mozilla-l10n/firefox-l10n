@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Uwch">
 <!ENTITY paneAccount.title        "Cyfrifon">
 
+<!ENTITY addonsButton.label       "Estyniadau a Themâu">
+
 <!ENTITY okButton.title           "Iawn">
 <!ENTITY okButton.accesskey       "I">
