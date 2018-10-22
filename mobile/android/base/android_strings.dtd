@@ -19,7 +19,7 @@
 <!ENTITY firstrun_data_subtext2 "Oprește imaginile pentru a consuma mai puțin trafic de date pe fiecare site pe care îl vizitezi.">
 <!ENTITY firstrun_sync_title "Sincronizare">
 <!ENTITY firstrun_sync_message2 "Continuă de unde ai rămas.">
-<!ENTITY firstrun_sync_subtext2 "Folosește Sync pentru a găsi pe toate dispozitivele tale marcajele, parolele şi celelalte lucruri pe care le salvezi în &brandShortName;.">
+<!ENTITY firstrun_sync_subtext2 "Folosește Sync pentru a găsi pe toate dispozitivele tale marcajele, parolele și celelalte lucruri pe care le salvezi în &brandShortName;.">
 <!ENTITY firstrun_signin_message "Conectează-te și începe">
 <!ENTITY firstrun_signin_button "Autentifică-te la Sync">
 <!ENTITY  onboard_start_button_browser "Începe navigarea">
@@ -291,6 +291,10 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Află mai multe despre folosirea &brandShortName; și alte produse &vendorShortName;">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Funcționalități experimentale">
@@ -363,7 +367,6 @@
 <!ENTITY pref_use_system_font_size_summary "Scalează conținutul web în funcție de mărimea fontului sistemului">
 
 <!ENTITY pref_media_autoplay_enabled "Permite redarea automată">
-<!ENTITY pref_media_autoplay_enabled_summary "Controlează dacă site-urile web pot rula automat videoclipuri și alt conținut media">
 <!ENTITY pref_media_autoplay_allow "Permite redarea automată">
 <!ENTITY pref_media_autoplay_block "Blochează redarea automată">
 <!ENTITY pref_zoom_force_enabled "Activează întotdeauna zoomul">
@@ -828,9 +831,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Nu se poate deschide &brandShortName;. Te rugăm să reinstalezi programul și să încerci din nou.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; nu se va mai actualiza">
-<!ENTITY eol_notification_summary "Atinge pentru a afla mai multe">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; este actualizat">
@@ -863,7 +863,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "În tendințe">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
-<!ENTITY activity_stream_highlights_empty "Începe navigarea şi îţi vom arăta câteva articole, videoclipuri nemaipomenite şi alte pagini pe care le-ai vizitat recent sau au fost marcate aici.">
+<!ENTITY activity_stream_highlights_empty "Începe navigarea și îți vom arăta câteva articole, videoclipuri nemaipomenite și alte pagini pe care le-ai vizitat recent sau au fost marcate aici.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -904,3 +904,5 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "Notificări push &brandShortName;">
 <!ENTITY updater_notification_channel "Actualizări aplicație">
 <!ENTITY synced_tabs_notification_channel "File sincronizate">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
