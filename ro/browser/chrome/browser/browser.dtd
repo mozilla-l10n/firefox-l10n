@@ -123,7 +123,7 @@ These items have the same accesskey but will never be visible at the same time. 
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Deschide locația…">
-<!ENTITY openFileCmd.label "Deschide fișierul…">
+<!ENTITY openFileCmd.label "Deschide un fișier…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Aranjare în pagină…">
@@ -140,8 +140,8 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Bară de meniu">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Bara de navigare">
-<!ENTITY personalbarCmd.label "Bara de marcaje">
+<!ENTITY navbarCmd.label "Bară de navigare">
+<!ENTITY personalbarCmd.label "Bară de marcaje">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elemente pe bara de marcaje">
 
@@ -185,7 +185,7 @@ shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
 
-<!ENTITY pageInfoCmd.label "Informații despre pagină">
+<!ENTITY pageInfoCmd.label "Informații privind pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Depanator de așezare în pagină">
@@ -621,7 +621,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "Vezi sursa cadrului">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "Vezi informații despre pagină">
+<!ENTITY viewPageInfoCmd.label        "Vezi informații privind pagina">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
 <!ENTITY viewFrameInfoCmd.label       "Vezi informații despre cadru">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
