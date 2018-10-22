@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Кеңейтілген">
 <!ENTITY paneAccount.title        "Тіркелгілер">
 
+<!ENTITY addonsButton.label       "Кеңейтімдер мен тақырыптар">
+
 <!ENTITY okButton.title           "ОК">
 <!ENTITY okButton.accesskey       "О">
