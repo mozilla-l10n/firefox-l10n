@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Bac inntrigeadh dhan duilleag about:profiles.
 policy-BlockAboutSupport = Bac inntrigeadh dhan duilleag about:support.
 policy-Bookmarks = Cruthaich comharran-lìn air bàr-inneal nan comharran-lìn, ann an clàr-taice nan comharran-lìn no ann am pasgan sònraichte ’nam broinn.
 policy-Certificates = An dèid teisteanasan built-in a chleachdadh gus nach dèid. ’S ann air Windows a-mhàin a gheibhear am poileasaidh seo aig an àm seo.
+policy-CertificatesDescription = Cuir teisteanasan ris no cleachd teisteanasan a tha ’na bhroinn o thùs.
 policy-Cookies = Thoir cead do làraichean-lìn briosgaidean a shuidheachadh no bac iad.
 policy-DisableAppUpdate = Bac ùrachadh a’ bhrabhsair.
 policy-DisableBuiltinPDFViewer = Cuir PDF.js à comas, an sealladair PDF a tha am broinn { -brand-short-name } o thùs.
