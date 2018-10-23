@@ -21,6 +21,8 @@ preloaded-tab = Precargado: { $title }
 ## Values for the Type column
 
 type-tab = Pestaña
+type-subframe = Subframe
+type-tracker = Rastreador
 type-addon = Complemento
 type-browser = Navegador
 type-worker = Worker
@@ -42,3 +44,11 @@ close-tab =
     .title = Cerrar pestaña
 show-addon =
     .title = Mostrar en administrador de complementos
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title = Despachos desde la carga: { $totalDispatches } ({ $totalDuration }ms) Despachos en los últimos segundos: { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)
