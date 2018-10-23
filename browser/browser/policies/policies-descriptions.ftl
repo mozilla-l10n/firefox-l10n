@@ -110,7 +110,7 @@ policy-PopupBlocking = Tillad bestemte websteder at vise pop op-vinduer som stan
 
 policy-Proxy = Opsæt proxy-indstillinger.
 
-policy-RequestedLocales = Indstil listen med forespurgte sprog for programmet i den rækkefølge, du ønsker at de skal anvendes.
+policy-RequestedLocales = Vælg rækkefølgen af sprog, der skal anvendes i programmet.
 
 policy-SanitizeOnShutdown = Ryd al browsing-data ved lukning.
 
@@ -119,7 +119,7 @@ policy-SearchBar = Indstil standard-placering af søgefeltet. Brugeren kan stadi
 policy-SearchEngines = Opsæt indstillinger for søgetjenester. Denne politik er kun tilgængelig for Extended Support Release (ESR).
 
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
-policy-SecurityDevices = Installer PKCS #11 modules.
+policy-SecurityDevices = Installer PKCS #11 moduler.
 
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
