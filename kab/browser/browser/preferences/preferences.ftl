@@ -324,6 +324,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Nadi aḍris ticki tebda tira
     .accesskey = N
+browsing-cfr-recommendations-learn-more = Issin ugar
 
 ## General Section - Proxy
 
