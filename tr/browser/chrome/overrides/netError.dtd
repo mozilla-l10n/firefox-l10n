@@ -13,6 +13,8 @@
 <!ENTITY continue2.label "Daha fazla…">
 <!ENTITY moreInformation.label "Daha fazla bilgi">
 
+<!ENTITY viewCertificate.label "Sertifikayı göster">
+
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Bağlanılamadı">
@@ -107,13 +109,16 @@
 
 <!ENTITY certerror.longpagetitle1 "Bağlantınız güvenli değil">
 <!ENTITY certerror.longpagetitle2 "Uyarı: Güvenlik riskiyle karşılaşabilirsiniz">
+<!ENTITY certerror.sts.longpagetitle  "Bağlanılmadı: Olası Güvenlik Sorunu">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> web sitesinin sahibi siteyi hatalı yapılandırmış.  Bilgilerinizin çalınmasını önlemek için &brandShortName; bu web sitesine bağlanmadı.">
 <!ENTITY certerror.introPara2 "&brandShortName; olası bir güvenlik tehdidiyle karşılaştığı için <span class='hostname'/> adresine girmedi. Bu siteyi ziyaret ederseniz saldırganlar parola, e-posta ve kredi kartı gibi bilgilerinizi çalmaya çalışabilir.">
 
+
 <!ENTITY certerror.expiredCert.secondPara "Bu sorun büyük olasılıkla bilgisayarınızın saatinin yanlış ayarlanmasından kaynaklanır. Saat veya tarih yanlışsa &brandShortName; güvenli bağlantı kuramayabilir.">
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ne yapabilirsiniz?">
 
