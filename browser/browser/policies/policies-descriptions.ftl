@@ -45,3 +45,18 @@ policy-DisplayBookmarksToolbar = Seall bàr-inneal nan comharran-lìn a ghnàth.
 policy-DisplayMenuBar = Seall bàr a’ chlàir-thaice a ghnàth.
 policy-DNSOverHTTPS = Rèitich DNS slighe HTTPS.
 policy-DontCheckDefaultBrowser = Na sgrùd an e seo am brabsair bunaiteach aig àm tòiseachaidh.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Cuir bacadh susbaint an comas no à comas no glais e.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Stàlaich, dì-stàlaich no glais leudachain. Gabhaidh an stàladh ri URLaichean is slighean mar pharamadairean. Gabhaidh an dì-stàladh no glasadh ri IDan leudachan.
+policy-FlashPlugin = Ceadaich no diùlt cleachdadh a’ phlugain Flash.
+policy-HardwareAcceleration = Ma tha seo false, cuiridh seo dheth luathachadh a’ bhathair-chruaidh.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Suidhich an duilleag-dhachaigh agus, ma throgras tu, glais e.
+policy-InstallAddonsPermission = Thoir cead do làraichean-lìn àraidh tuilleadan a stàladh.
+policy-NoDefaultBookmarks = Cuir à comas cruthachadh nan comharran-lìn bunaiteach a thig le { -brand-short-name } agus nan comharran-lìn tapaidh (Na thadhail thu air, Tagaichean o chionn goirid). An Aire: Cha bhi am poileasadh seo an sàs ach ma thèid a chleachdadh mus ruith a’ phròifil a’ chiad turas.
+policy-OfferToSaveLogins = Sparr an roghainn air daoine airson comas a thoirt dha { -brand-short-name } clàradh a-steach agus facal-faire a chuimhneachadh. Tha an dà chuid true agus false ceadaiche mar luach.
+policy-OverrideFirstRunPage = Tar-àithn duilleag na ciad ruith. Fàg am poileasaidh seo bàn ma tha thu airson duilleag na ciad ruith a chur à comas.
