@@ -10,9 +10,9 @@
 <!ENTITY returnToPreviousPage.label "मागे जा">
 <!ENTITY returnToPreviousPage1.label "मागे जा (शिफारसीय)">
 <!ENTITY advanced.label "प्रगत">
-
 <!ENTITY continue2.label "अधिक…">
 <!ENTITY moreInformation.label "अधिक माहिती">
+
 
 <!-- Specific error messages -->
 
@@ -90,10 +90,12 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>प्राप्त माहितीची अधिप्रमाणता तपासता न आल्यामुळे आपणास इच्छिक पृष्ठ पाहता येणार नाही.</li> <li>कृपया संकेतस्थळाच्या मालकाला या अडचणी विषयी अवगत करा.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "आपली जोडणी सुरक्षीत नाही">
+<!ENTITY certerror.longpagetitle2 "चेतावणी: पुढे संभाव्य सुरक्षा धोका आहे">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> च्या मालकाने त्यांची वेबसाइट अयोग्य प्रकारे कॉन्फिगर केली आहे. आपली माहिती चोरीला जाऊ नये यासाठी, &brandShortName; ने या संकेतस्थळाशी जोडणी केली नाही.">
+
 
 
 
@@ -112,7 +114,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोडा…">
-
+<!ENTITY securityOverride.exceptionButton1Label "जोखिम स्वीकारा आणि पुढे चालू ठेवा">
 
 <!ENTITY errorReporting.automatic2 "Mozilla ला दुर्भावनायुक्त साईट्स ओळखता यावे साठी व त्यांना अवरोधीत करता यावे यासाठी अश्या प्रकारच्या त्रुटी सादर करा">
 <!ENTITY errorReporting.learnMore "अधिक जाणा…">
@@ -142,6 +144,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "अवरोधित पृष्ठ">
 
+<!ENTITY clockSkewError.title "आपले संगणक घड्याळ चुकीचे आहे">
 
 <!ENTITY prefReset.longDesc "असे दिसते की आपल्या नेटवर्क सुरक्षा सेटिंग्ज या साठी कारणीभूत असू शकते.आपण पूर्वनिर्धारित सेटिंग्ज पुनर्संचयित करू इच्छिता का?">
 <!ENTITY prefReset.label "पूर्वनिर्धारीत सेटिंग पुनर्स्थापित करा">
