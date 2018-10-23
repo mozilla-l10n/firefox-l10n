@@ -23,3 +23,4 @@ onboarding-screenshots-text = Ƴettu, kisnaa, lollinaa natte yaynirde - tawa a y
 onboarding-addons-title = ɓeyditte
 onboarding-addons-text = Ɓeydu kadi gollirɗe goɗɗe mbele { -brand-short-name } ina gollano maa no moƴƴi. Yerondir coodguuli, humpito meteyoo walla hollitir neɗɗaagu maa kettol neɗɗinangol.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Huutoro njokkon mbaakon no Ghostery ngam banngagol ɓurngol yaawde, ɓurngol ƴoƴde walla siirde, sibu ekon paddoo jeeyle kaljinooje.
