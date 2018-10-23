@@ -159,9 +159,13 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/>의 소유자가 웹사이트를 적절히 설정하지 않았습니다. 정보가 도난당하는 것을 막기 위해서 &brandShortName;가 웹사이트에 연결하지 않았습니다.">
 <!ENTITY certerror.introPara2 "&brandShortName;가 잠재적인 보안 위협을 감지하고 <span class='hostname'/>로 진행하지 않았습니다. 사이트를 방문하면 공격자가 비밀번호나 이메일, 신용카드와 같은 정보를 탈취할 수 있습니다.">
 
+<!ENTITY certerror.sts.introPara "이 웹사이트가 보안 접속을 필요로 하지만 &brandShortName;가 잠재적인 보안 위협을 감지하고 <span class='hostname'/>로 진행하지 않았습니다.">
 
 <!ENTITY certerror.expiredCert.secondPara "많은 경우에 컴퓨터의 시각이 잘 못 설정되어 있어서 &brandShortName;가 보안 연결을 하지 못해서 이런 현상이 생깁니다.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName;가 문제를 감지하여 <span class='hostname'/>로 진행하지 않았습니다. 웹사이트가 잘 못 설정되어 있거나 컴퓨터의 시각이 잘 못 되어 있습니다.">
+<!ENTITY certerror.expiredCert.secondPara2 "웹사이트의 인증서가 만료되어서 &brandShortName;가 안전하게 연결할 수가 없습니다. 사이트를 방문하면 공격자가 비밀번호나 이메일, 신용카드와 같은 정보를 탈취할 수 있습니다.">
+<!ENTITY certerror.expiredCert.sts.secondPara "웹사이트의 인증서가 만료되어서 &brandShortName;가 안전하게 연결할 수가 없습니다.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "어떠한 처리를 해야 하나요?">
 
