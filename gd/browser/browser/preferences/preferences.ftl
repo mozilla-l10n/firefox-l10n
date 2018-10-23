@@ -6,6 +6,8 @@ do-not-track-description = Cuir sanas “Na dèan tracadh orm” gu làraichean-
 do-not-track-learn-more = Barrachd fiosrachaidh
 do-not-track-option-default =
     .label = Dìreach nuair a chleachdar dìon o thracadh
+do-not-track-option-default-content-blocking =
+    .label = Dìreach ma chaidh suidheachadh gum bac { -brand-short-name } tracaichean ris an do mhothaich sinn
 do-not-track-option-always =
     .label = An-còmhnaidh
 pref-page =
@@ -51,6 +53,7 @@ pane-sync-title = Cunntas Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Taic le { -brand-short-name }
+addons-button-label = Leudachain ⁊ ùrlaran
 focus-search =
     .key = f
 close-button =
@@ -81,6 +84,9 @@ extension-controlled-homepage-override = Tha smachd aig leudachan, <img data-l10
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Tha smachd aig leudachan, <img data-l10n-name="icon"/> { $name }, air duilleag an taba ùir agad.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Tha smachd aig leudachan, <img data-l10n-name="icon"/> { $name }, air an roghainn seo.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Shuidhich leudachan, <img data-l10n-name="icon"/> { $name }, an t-einnsean-luirg bunaiteach agad.
@@ -90,6 +96,9 @@ extension-controlled-privacy-containers = Tha feum air leudachan, <img data-l10n
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Tha leudachan, <img data-l10n-name="icon"/> { $name }, a’ stiùireadh an dìon o thracadh.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Tha smachd aig leudachan, <img data-l10n-name="icon"/> { $name }, air an roghainn seo.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Tha smachd aig leudachan, <img data-l10n-name="icon"/> { $name }, mar a cheanglas { -brand-short-name } ris an eadar-lìon.
@@ -208,6 +217,10 @@ choose-language-description = Tagh an cànan as fhearr leat anns a nochdar dhut 
 choose-button =
     .label = Tagh…
     .accesskey = a
+choose-browser-language-description = Tagh na cànain anns an dèid clàran-taice, teachdaireachdan is brathan o { -brand-short-name } a shealltainn.
+manage-browser-languages-button =
+    .label = Suidhich roghainn eile...
+    .accesskey = l
 translate-web-pages =
     .label = Eadar-theangaich susbaint-lìn
     .accesskey = t
@@ -321,7 +334,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Progsaidh lìonraidh
 network-proxy-connection-description = Rèitich mar a cheanglas { -brand-short-name } ris an eadar-lìon.
 network-proxy-connection-learn-more = Barrachd fiosrachaidh
 network-proxy-connection-settings =
@@ -585,26 +597,12 @@ sitedata-total-size-calculating = Ag àireamhachadh meud dàta na làraich is an
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tha na tha de bhriosgaidean, dàta làraichean is an tasgadan a’ cleachdadh { $value } { $unit } de dh’àite air an diosg an-dràsta.
 sitedata-learn-more = Barrachd fiosrachaidh
-sitedata-accept-cookies-option =
-    .label = Gabh ri briosgaidean is dàta làraich o làraichean-lìn (mholamaid seo)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Bac briosgaidean is dàta làraich (dh’fhaoidte nach obraich cuid a làraichean ma nì thu seo)
-    .accesskey = B
 sitedata-keep-until = Cum gus
     .accesskey = u
 sitedata-keep-until-expire =
     .label = Falbhaidh an ùine orra
 sitedata-keep-until-closed =
     .label = Tha { -brand-short-name } dùinte
-sitedata-accept-third-party-desc = Gabh ri briosgaidean is dàta làraich o threas-phàrtaidhean
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = An-còmhnaidh
-sitedata-accept-third-party-visited-option =
-    .label = O fheadhainn air an deach tadhal
-sitedata-accept-third-party-never-option =
-    .label = Chan ann idir
 sitedata-clear =
     .label = Falamhaich an dàta...
     .accesskey = l
@@ -647,10 +645,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Chan ann idir
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Cleachd dìon o thracadh sa bhrabhsadh phrìobhaideach airson casg a chur air tracaichean aithnichte
-    .accesskey = p
 tracking-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
