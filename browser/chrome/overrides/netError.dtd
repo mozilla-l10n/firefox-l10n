@@ -223,6 +223,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "안전하지 않은 연결">
 <!ENTITY certerror.pagetitle2  "경고: 보안 위험 가능성">
+<!ENTITY certerror.sts.pagetitle  "연결하지 않음 : 잠재적인 보안 문제">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "이 사이트는 &brandShortName;가 안전한 경우에만 
 연결함을 명시하기 위해서 HTTP Strict Transport Security (HSTS)를 사용합니다.
 그래서 이 인증서에 예외를 추가할 수 없습니다.">
