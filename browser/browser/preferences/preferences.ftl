@@ -64,7 +64,7 @@ startup-header = ආරම්භය
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = { -brand-short-name } හා Firefox එකම මොහොතේ ධාවනය වීමට ඉඩ දෙන්න
-use-firefox-sync = ඉඟිය: මෙය වෙනස් පැතිකඩ භාවිත කරයි. ඒවා අතර දත්ත බෙදාගැනීමට සම්මුහුර්ත භාවිත කරන්න.
+use-firefox-sync = ඉඟිය: මෙය වෙන් වූ පැතිකඩ භාවිත කරයි. ඒවා අතර දත්ත බෙදාගැනීමට { -sync-brand-short-name } භාවිත කරන්න.
 get-started-not-logged-in = { -sync-brand-short-name } වෙත පිවිසෙන්න…
 get-started-configured = { -sync-brand-short-name } අභිප්‍රේත විවෘත කරන්න
 always-check-default =
@@ -393,9 +393,6 @@ history-dontremember-description = { -brand-short-name } එම සැකසු�
 history-private-browsing-permanent =
     .label = සෑම විටම පෞද්ගලික ගවේෂණය භාවිතා කරන්න
     .accesskey = p
-history-remember-option =
-    .label = මගේ ගවේෂණ ඉතිහාසය සහ බාගැනීම් මතක තබාගන්න
-    .accesskey = b
 history-remember-search-option =
     .label = සෙවීම් සහ පෝරම අතීතයන් මතක තබාගන්න
     .accesskey = f
@@ -414,12 +411,6 @@ history-clear-button =
 sitedata-learn-more = තවත් දැනගන්න
 sitedata-keep-until-closed =
     .label = { -brand-short-name } වසා අැත
-sitedata-accept-third-party-always-option =
-    .label = සැමවිටම
-sitedata-accept-third-party-visited-option =
-    .label = පිවිසි වෙතින්
-sitedata-accept-third-party-never-option =
-    .label = Never
 sitedata-clear =
     .label = දත්ත මකන්න...
     .accesskey = l
@@ -443,6 +434,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = ටැබ් විවෘත කරන්න
     .accesskey = O
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
