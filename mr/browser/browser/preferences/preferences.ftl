@@ -118,7 +118,7 @@ startup-header = प्रारंभीकरण
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = { -brand-short-name } आणि Firefox एकाच वेळी चालविण्याची परवानगी द्यावी
-use-firefox-sync = टीप: हे स्वतंत्र प्रोफाइलचा वापर करते. त्यांच्या दरम्यान डाटा शेअर करण्यासाठी सींक वापरा.
+use-firefox-sync = टीप: हे स्वतंत्र प्रोफाइल वापते. त्यांच्या दरम्यान डाटा शेअर करण्यासाठी { -sync-brand-short-name } वापरा.
 get-started-not-logged-in = { -sync-brand-short-name } मध्ये साईन इन करा...
 get-started-configured = { -sync-brand-short-name } प्राधान्यता उघडा
 always-check-default =
@@ -321,7 +321,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = नेटवर्क प्रॉक्सी
 network-settings-title = नेटवर्क सेटिंग
 network-proxy-connection-description = { -brand-short-name } इंटरनेटशी जोडणी कशी करतो ते संरचीत करा.
 network-proxy-connection-learn-more = अधिक जाणा
@@ -586,26 +585,12 @@ sitedata-total-size-calculating = कॅश आणि साईट माहि�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = आपण साठवलेल्या कुकीज, साईट माहिती आणि कॅश सध्या { $value } { $unit } इतकी जागा डिस्कवर व्याप्त करत आहेत
 sitedata-learn-more = अधिक जाणा
-sitedata-accept-cookies-option =
-    .label = संकेतस्थळावरून कुकीज आणि साईट डेटा स्वीकारा (शिफारस).
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = कुकीज आणि साईट माहिती अवरोधित करा(संकेतस्थळ खंडित होऊ शकते)
-    .accesskey = B
 sitedata-keep-until = पर्यंत ठेवा
     .accesskey = u
 sitedata-keep-until-expire =
     .label = ते कालबाह्य होतात
 sitedata-keep-until-closed =
     .label = { -brand-short-name } बंद आहे
-sitedata-accept-third-party-desc = तृतीय-पक्ष कुकीज आणि साईट माहिती स्वीकारा.
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = नेहमी
-sitedata-accept-third-party-visited-option =
-    .label = भेट दिलेल्यांमधून
-sitedata-accept-third-party-never-option =
-    .label = कधीच नाही
 sitedata-allow-cookies-option =
     .label = कुकीज आणि साईट डेटा स्वीकारा
     .accesskey = A
@@ -617,8 +602,6 @@ sitedata-block-trackers-option-recommended =
     .label = तिसरे-पक्षीय मागोवा घेणारे (शिफारसीय)
 sitedata-block-trackers-option =
     .label = तृतीय-पक्षीय ट्रॅकर
-sitedata-block-all-third-parties-option =
-    .label = सर्व तृतीय-पक्ष कुकीज
 sitedata-clear =
     .label = माहिती पुसा...
     .accesskey = l
@@ -661,40 +644,12 @@ content-blocking-toggle-label-on = सुरु
 content-blocking-toggle-label-off = बंद
     .accesskey = O
 content-blocking-category-label = काय अडवायचे ते निवडा
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = मागोवा घटक मंद करा
-    .accesskey = S
-content-blocking-fastblock-description = लोड होण्यास 5 सेकंदाहून अधिक वेळ घेणारा त्रयस्थ मजकूर अवरोधित करा.
-content-blocking-fastblock-option-enabled =
-    .label = नेहमी आडवा
-content-blocking-fastblock-option-disabled =
-    .label = कधीच अडवू नका
-content-blocking-tracking-protection-label = मागोवा घेणारे
-    .accesskey = T
-content-blocking-tracking-protection-all-label = सर्व आढळलेले ट्रॅकर्स
-    .accesskey = T
-content-blocking-tracking-protection-description = सर्व ज्ञात मागोवा घेणारे घटक अडवते(टीप: काही पृष्ठ लोड होणार नाहीत).
-content-blocking-tracking-protection-option-enabled =
-    .label = नेहमी आडवा
-content-blocking-tracking-protection-option-pbm =
-    .label = फक्त खाजगी पटलामध्ये आडवा
-content-blocking-tracking-protection-option-disabled =
-    .label = कधीच अडवू नका
 content-blocking-tracking-protection-option-always =
     .label = नेहमी
     .accesskey = A
 content-blocking-tracking-protection-option-private =
     .label = फक्त खाजगी पटलामध्ये
     .accesskey = p
-content-blocking-tracking-protection-change-blocklist = अवरोधित सूची बदला…
-content-blocking-reject-trackers-label = तृतीय-पक्ष कुकीज
-    .accesskey = C
-# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
-# of the Content Blocking UI in Preferences has been disabled due to the "All cookies" option
-# being selected in the Cookies and Site Data section of the UI.
-content-blocking-reject-trackers-warning-all-cookies-blocked = सर्व कुकीज सध्या अवरोधित आहेत.
 content-blocking-change-cookie-settings =
     .label = कुकी सेटिंग बदला
     .accesskey = S
@@ -719,10 +674,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = कधीच नाही
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = माहित असलेले ट्रॅकर अडवण्यावासाठी प्रायव्हेट ब्राऊझिंग मध्ये मागोवा संरक्षण वापरा
-    .accesskey = v
 tracking-exceptions =
     .label = अपवाद…
     .accesskey = x
