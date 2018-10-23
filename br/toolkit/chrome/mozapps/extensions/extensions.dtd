@@ -4,8 +4,10 @@
 <!ENTITY addons.windowTitle                   "Ardoer an askouezhioù">
 
 <!ENTITY search.placeholder2                  "Klask war addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Klask war addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Klask">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -41,6 +43,10 @@
 <!ENTITY view.discover.label                  "Kaout askouezhioù">
 <!ENTITY view.recentUpdates.label             "Hizivadurioù nevesañ">
 <!ENTITY view.availableUpdates.label          "Hizivadurioù hegerz">
+
+<!ENTITY helpButton.label                      " Skor an askouezhioù">
+<!ENTITY preferencesWin.label                  "Dibarzhioù &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Gwellvezioù &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Gwiriañ mar bez hizivadurioù d'ober">
@@ -80,8 +86,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "o">
 <!ENTITY cmd.preferencesUnix.label            "Gwellvezioù">
 <!ENTITY cmd.preferencesUnix.accesskey        "G">
-<!ENTITY cmd.about.label                      "A-zivout">
-<!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "Gweredekaat">
 <!ENTITY cmd.enableAddon.accesskey            "e">
@@ -128,7 +132,6 @@
 <!ENTITY detail.lastupdated.label             "Hizivadur diwezhañ">
 <!ENTITY detail.creator.label                 "Diorroer">
 <!ENTITY detail.homepage.label                "Pennbajenn">
-<!ENTITY detail.numberOfDownloads.label       "Pellgargadurioù">
 
 <!ENTITY detail.contributions.description     "Goulenn a ra paotr an diorren ma vefe skoazellet diorrenadur an askouezh-mañ ganeoc'h dre ur berzhadenn-arc'hant vihan.">
 
@@ -160,13 +163,6 @@
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Ehan">
 <!ENTITY progress.cancel.tooltip              "Nullañ">
-
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Anv ">
-<!ENTITY sort.name.tooltip                    "Rummañ dre anv">
-<!ENTITY sort.dateUpdated.label               "Hizivadur diwezhañ">
-<!ENTITY sort.dateUpdated.tooltip             "Rummañ dre an deiziad hizivadur">
 
 <!ENTITY addon.homepage                       "Pennbajenn">
 <!ENTITY addon.details.label                  "Muioc'h">
@@ -209,17 +205,6 @@
 <!ENTITY eula.accept                          "Asantiñ ha Staliañ…">
 
 <!ENTITY settings.path.button.label           "Furchal…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Petra eo an dra-se ? Telemetry a c'hell staliañ hag erounit arnodoù ur wech an amzer.">
-<!ENTITY experiment.info.learnmore "Gouzout hiroc'h">
-<!ENTITY experiment.info.learnmore.accesskey "G">
-<!ENTITY experiment.info.changetelemetry "Arventennoù Telemetry">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Gouzout hiroc'h...">
 
