@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Výnimky - Ochrana pred sledovaním
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Na týchto stránkach ste vypli Ochranu pred sledovaním.
+permissions-exceptions-content-blocking-window =
+    .title = Výnimky - Blokovanie obsahu
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Na týchto stránkach ste vypli blokovanie obsahu.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Na tomto mieste môžete určiť, ktoré st
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Povolené stránky - Automatické prehrávanie
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Na tomto mieste môžete určiť, ktoré stránky môžu automaticky prehrávať médiá. Zadajte presnú adresu stránky, ktorej chcete povoliť prehrávanie médií a potom kliknite na tlačidlo Povoliť.
 permissions-exceptions-autoplay-media-window2 =
     .title = Výnimky - Automatické prehrávanie
     .style = { permissions-window.style }
