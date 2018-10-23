@@ -84,6 +84,9 @@ extension-controlled-homepage-override = Peteĩ jepysokue, <img data-l10n-name="
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma'ẽag̃ui kuatiarogue rendayke pyahúre.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Peteĩ jepysokue, <img data-l10n-name="icon"/> { $name }, oma’ẽag̃ui ko ñemboheko rehe.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Peteĩ moĩmbaha, <img data-l10n-name="icon"/> { $name }, omoambue Heka ku'eha reipurúva.
@@ -324,6 +327,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Eheka moñe'ẽrã ehaikuévo
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Eñe’eporã jepysokue rehe eikumdaha aja
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = Kuaave
 
 ## General Section - Proxy
 

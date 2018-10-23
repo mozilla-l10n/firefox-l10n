@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Ko'ág̃a nahániri
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Embojuaju ko'ág̃a
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Eñangareko je’eporã ñemboheko rehe
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = Ani ehechauka ko je’eporã
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = Kuaave
 # This string is used on a new line below the add-on name
 # Variables:

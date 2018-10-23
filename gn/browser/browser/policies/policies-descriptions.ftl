@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Ejoko about:profiles-pe jeike.
 policy-BlockAboutSupport = Ejoko about:support kuatiaroguépe jeike.
 policy-Bookmarks = Emoheñói techaukaha tembipuru renda rechaukahápe, pe techaukaha poravorãme térã peteĩ ñongatuhaitépe oĩva hyepýpe voi.
 policy-Certificates = Eipurusépa umi mboajepyre oñemoingeva'ekue. Ko purureko Windows mba’e añoite ko’ág̃a rupi.
+policy-CertificatesDescription = Embojuaju mboajepyre térã eipuru mboajepyre moingepyre.
 policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
 policy-DisableAppUpdate = Ani eheja oñembohekopyahu kundahára.
 policy-DisableBuiltinPDFViewer = Eipe’aite PDF.js, PDF jehechaha oĩva { -brand-short-name } ndive.
