@@ -30,3 +30,5 @@
 <!ENTITY trackingProtection.title                        "Zaštita od praćenja">
 <!ENTITY trackingProtection.description2                 "Neke web stranice koriste lokatore koji mogu pratiti vašu aktivnost na Internetu. S zaštitom od praćenja Firefox će blokirati mnoge lokatore koji mogu skupljati informacije o vašem pretraživanju.">
 <!ENTITY trackingProtection.startTour1                   "Pogledajte kako ovo funkcionira">
+
+<!ENTITY contentBlocking.title                           "Blokiranje sadržaja">
