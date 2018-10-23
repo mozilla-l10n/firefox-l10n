@@ -12,3 +12,14 @@
 
 policy-AppUpdateURL = Rokku URL kesɗitingol jaaɓnde neɗɗinaande ndee
 policy-Authentication = Teelto goongɗingol ndernderol wonande lowe geese tammbotooɗe ngol
+policy-BlockAboutAddons = Faddo tammbol gulle timminooje (ko faati e:addons)
+policy-BlockAboutConfig = Faddo about:config hello
+policy-BlockAboutProfiles = Faddo about:profiles hello
+policy-BlockAboutSupport = Faddo about:support hello.
+policy-Bookmarks = Sos maantore nder palal Maante, nder cuɓirgol Maante walla nder doosiyee toɗɗaaɗo.
+policy-Certificates = Ina foti walla fotaani huutoraade sartifikaaji ndernderi. E oo sahaa ko feere Windows tan.
+policy-CertificatesDescription = Ɓeydu sartifikaaji walla kuutoro-ɗaa sartifikaaji ndernderi.
+policy-Cookies = Yamir walla haɗ lowe suɓaade kuukiije.
+policy-DisableAppUpdate = Haɗ wanngorde ndee hesɗitde
+policy-DisableBuiltinPDFViewer = Ñif PDF.js, kollitoowel PDF mahdangel e { -brand-short-name }.
+policy-DisableDeveloperTools = Haɗ jettagol kuutorɗe topotooɓe.
