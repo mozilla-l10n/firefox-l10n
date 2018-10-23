@@ -16,3 +16,4 @@ policy-BlockAboutConfig = دسترسی به صفحه about:config را مسدو�
 policy-BlockAboutProfiles = دسترسی به صفحه about:profiles را مسدود کنید.
 policy-BlockAboutSupport = دسترسی به صفحه about:support را مسدود کنید.
 policy-DisableDeveloperTools = دسترسی به ابزارهای توسعه‌دهندگان را مسدود کنید.
+policy-DisableFormHistory = جستجو وتاریخچه فرم را به خاطر نسپار.
