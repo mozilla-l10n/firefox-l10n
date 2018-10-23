@@ -84,6 +84,9 @@ extension-controlled-homepage-override = Розширення <img data-l10n-nam
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Розширення <img data-l10n-name="icon"/> { $name } контролює вашу сторінку нової вкладки.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Розширення <img data-l10n-name="icon"/> { $name } контролює це налаштування.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Розширення <img data-l10n-name="icon"/> { $name } встановило ваш типовий засіб пошуку.
@@ -327,6 +330,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Шукати текст під час його введення
     .accesskey = й
+browsing-cfr-recommendations =
+    .label = Рекомендувати розширення при перегляді
+    .accesskey = Р
+browsing-cfr-recommendations-learn-more = Докладніше
 
 ## General Section - Proxy
 

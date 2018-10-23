@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Не зараз
     .accesskey = е
 cfr-doorhanger-extension-ok-button = Додати
     .accesskey = т
+cfr-doorhanger-extension-manage-settings-button = Керувати налаштуваннями рекомендацій
+    .accesskey = К
+cfr-doorhanger-extension-never-show-recommendation = Не показувати цю рекомендацію
+    .accesskey = Н
 cfr-doorhanger-extension-learn-more-link = Докладніше
 # This string is used on a new line below the add-on name
 # Variables:

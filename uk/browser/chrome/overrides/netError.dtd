@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Повернутися назад">
 <!ENTITY returnToPreviousPage1.label "Назад (Рекомендовано)">
 <!ENTITY advanced.label "Додатково">
-
 <!ENTITY continue2.label "Більше…">
 <!ENTITY moreInformation.label "Докладніше">
+
+<!ENTITY viewCertificate.label "Переглянути сертифікат">
 
 <!-- Specific error messages -->
 
@@ -151,14 +152,20 @@
 
 <!ENTITY certerror.longpagetitle1 "Ваше з'єднання незахищене">
 <!ENTITY certerror.longpagetitle2 "Попередження: Попереду ймовірна загроза безпеки">
+<!ENTITY certerror.sts.longpagetitle  "З'єднання не встановлено: Потенційна загроза безпеки">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Власник <span class='hostname'/> налаштував свій веб-сайт неналежним чином. Для захисту вашої інформації від викрадання, &brandShortName; не з'єднався з цим веб-сайтом.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; виявив ймовірну загрозу безпеки і не продовжив перехід на <span class='hostname'/>. Якщо ви відвідаєте цей сайт, зловмисники можуть спробувати викрасти вашу інформацію, наприклад, паролі, електронні адреси, або дані платіжних карток.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; виявив потенційну вразливість безпеки і не продовжив встановлення з'єднання з <span class='hostname'/>, тому що цей веб-сайт вимагає захищене з'єднання.">
+
 <!ENTITY certerror.expiredCert.secondPara "Ця проблема, найімовірніше, пов'язана з неправильним налаштуванням часу вашого комп'ютера, що може перешкоджати &brandShortName; встановленню захищеного з'єднання.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; виявив проблему і не встановив з'єднання з <span class='hostname'/>. Веб-сайт має неправильну конфігурацію, або годинник вашого комп'ютера має неправильний час.">
+<!ENTITY certerror.expiredCert.secondPara2 "Схоже, що термін дії сертифіката веб-сайту завершився, що не дозволяє &brandShortName; встановити безпечне з'єднання. Якщо ви відвідаєте цей сайт, зловмисники можуть викрасти інформацію, наприклад, паролі, адреси електронної пошти чи дані кредитних карток.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Схоже, що термін дії сертифіката веб-сайту завершився, що не дозволяє &brandShortName; встановити безпечне з'єднання.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Як ви можете це виправити?">
 
@@ -195,7 +202,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Додати виняток…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Погодитись на ризик і продовжити">
 
 <!ENTITY errorReporting.automatic2 "Звітувати про подібні помилки, щоб допомогти Mozilla виявляти й блокувати зловмисні сайти">
@@ -217,6 +223,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Незахищене з’єднання">
 <!ENTITY certerror.pagetitle2  "Попередження: Попереду ймовірна загроза безпеки">
+<!ENTITY certerror.sts.pagetitle  "З'єднання не встановлено: Потенційна загроза безпеки">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Цей сайт використовує HTTP
 Strict Transport Security (HSTS), щоб вказати, що &brandShortName; повинен підключатися до нього
 лише через захищене з'єднання. Як результат, неможливо додати виняток для цього
