@@ -8,7 +8,6 @@
 <!ENTITY certmgr.tab.others2                  "ব্যক্তি">
 <!ENTITY certmgr.tab.websites3                "সার্ভার">
 <!ENTITY certmgr.tab.ca                       "কর্তৃপক্ষ">
-<!ENTITY certmgr.tab.orphan2                  "অন্যান্য">
 
 <!ENTITY certmgr.mine2                        "উল্লেখিত প্রতিষ্ঠানগুলি থেকে সনাক্তকারী সার্টিফিকেট বিদ্যমান">
 <!ENTITY certmgr.others2                      "উল্লেখিত ব্যক্তিদের সনাক্ত করতে ব্যবহৃত সার্টিফিকেট আপনার ফাইলে বিদ্যমান">
@@ -60,7 +59,7 @@
 <!ENTITY certmgr.delete2.accesskey            "D">
 <!ENTITY certmgr.delete_builtin.label         "অপসারন অথবা অবিশ্বস্ত (D)…">
 <!ENTITY certmgr.delete_builtin.accesskey     "D">
-<!ENTITY certmgr.backup2.label                "ব্যাকআপ… (B)">
+<!ENTITY certmgr.backup2.label                "ব্যাকআপ…">
 <!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "সব ব্যাকআপ রাখা হবে… (k)">
 <!ENTITY certmgr.backupall2.accesskey         "k">

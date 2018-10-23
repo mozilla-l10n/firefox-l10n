@@ -9,7 +9,7 @@
 <!ENTITY  button-finish-mac.label      "সম্পন্ন">
 <!ENTITY  button-cancel-mac.label      "বাতিল">
 
-<!ENTITY  button-back-unix.label       "পূর্ববর্তী (B)">
+<!ENTITY  button-back-unix.label       "পূর্ববর্তী">
 <!ENTITY  button-back-unix.accesskey   "B">
 <!ENTITY  button-next-unix.label       "পরবর্তী (N)">
 <!ENTITY  button-next-unix.accesskey   "N">
