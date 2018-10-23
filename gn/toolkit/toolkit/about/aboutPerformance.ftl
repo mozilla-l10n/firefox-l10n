@@ -34,6 +34,21 @@ type-other = Ambue
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
+energy-impact-high = Epyta ({ $value })
+energy-impact-medium = Mbyte ({ $value })
+energy-impact-low = Karape ({ $value })
 
 ## Tooltips for the action buttons
 
+close-tab =
+    .title = Emboty tendayke
+show-addon =
+    .title = Ehechauka moimbaha ñangarekohápe
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title = Ñemondo myenyhẽha guive: { $totalDispatches } ({ $totalDuration } ms) Ñemondo aravo’iete pahávapa: { $dispatchesSincePrevious } ({ $durationSincePrevious }} ms)
