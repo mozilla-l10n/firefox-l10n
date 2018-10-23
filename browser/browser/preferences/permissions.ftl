@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Eisgeachdan - Dìon o thracadh
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Chuir thu an dìon o thracadh à comas air na làraichean-lìn seo.
+permissions-exceptions-content-blocking-window =
+    .title = Eisgeachdan – Bacadh susbaint
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Chuir thu bacadh susbaint à comas air na làraichean-lìn seo.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,10 @@ permissions-exceptions-addons-desc = 'S urrainn dhut sònrachadh dè na làraich
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Làraichean-lìn le cead - Fèin-chluich
+permissions-exceptions-autoplay-media-window2 =
+    .title = Eisgeachdan – Fèin-chluich
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = ’S urrainn dhut sònrachadh dè na làraichean-lìn aig a bheil cead meadhanan a chluich gu fèin-obrachail. Sgrìobh seòladh na làraich a tha thu airson ceadachadh is briog air “Ceadaich” an uairsin.
+permissions-exceptions-autoplay-media-desc2 = ’S urrainn dhut sònrachadh dè na làraichean-lìn aig a bheil cead meadhanan le fuaim a chluich no an fheadhainn nach eil cead. Cuir a-steach seòladh na làraich a tha thu airson stiùireadh is briog air “Bac” no “Ceadaich”.
 
 ## Site Permissions - Notifications
 

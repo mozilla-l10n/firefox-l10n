@@ -60,3 +60,16 @@ policy-InstallAddonsPermission = Thoir cead do làraichean-lìn àraidh tuillead
 policy-NoDefaultBookmarks = Cuir à comas cruthachadh nan comharran-lìn bunaiteach a thig le { -brand-short-name } agus nan comharran-lìn tapaidh (Na thadhail thu air, Tagaichean o chionn goirid). An Aire: Cha bhi am poileasadh seo an sàs ach ma thèid a chleachdadh mus ruith a’ phròifil a’ chiad turas.
 policy-OfferToSaveLogins = Sparr an roghainn air daoine airson comas a thoirt dha { -brand-short-name } clàradh a-steach agus facal-faire a chuimhneachadh. Tha an dà chuid true agus false ceadaiche mar luach.
 policy-OverrideFirstRunPage = Tar-àithn duilleag na ciad ruith. Fàg am poileasaidh seo bàn ma tha thu airson duilleag na ciad ruith a chur à comas.
+policy-OverridePostUpdatePage = Tar-àithn an duilleag “Na tha ùr” a nochdas an cois ùrachaidh. Fàg am poileasaidh seo bàn ma tha thu airson an duilleag sin a chur à comas.
+policy-Permissions = Rèitich ceadan a’ chamara, a’ mhicreofon, an ionaid agus nam brathan.
+policy-PopupBlocking = Leig le làraichean-lìn àraidh priob-uinneagan a nochdadh a ghnàth.
+policy-Proxy = Rèitich roghainnean a’ phrogsaidh.
+policy-RequestedLocales = Suidhich liosta nan cànan a tha ’gan iarraidh san aplacaid san òrdugh sa bheilear ’gan iarraidh.
+policy-SanitizeOnShutdown = Falamhaich dàta air fad na seòladaireachd nuair a dhùinear an aplacaid.
+policy-SearchBar = Suidhich ionad bunaiteach bàr nan lorg. ’S urrainn do chleachdaichean a ghnàthachadh fhathast.
+policy-SearchEngines = Rèitich roghainnean an einnsein-luirg. Chan eil am poileasaidh seo ri fhaighinn ach san tionndadh Extended Support Release (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Stàlaich mòidealan PKCS #11.
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Bac làraichean-lìn àraidh. Faic an docamaideadh airson barrachd fiosrachaidh mun fhòrmat.
