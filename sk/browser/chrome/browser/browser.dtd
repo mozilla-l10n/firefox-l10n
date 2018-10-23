@@ -38,19 +38,27 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Zavrieť označené karty">
 <!ENTITY  closeSelectedTabs.accesskey        "Z">
 
+<!ENTITY  closeTabs.label                    "Zavrieť karty">
+<!ENTITY  closeTabs.accesskey                "Z">
 <!ENTITY  pinSelectedTabs.label              "Pripnúť karty">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "P">
 <!ENTITY  unpinSelectedTabs.label            "Zrušiť pripnutie kariet">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "r">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Obnoviť vybrané karty">
 <!ENTITY  reloadSelectedTabs.accesskey       "r">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.label         "Pridať karty medzi záložky…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,8 +67,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Pripnúť kartu">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "r">
 <!ENTITY  unpinTab.label                     "Zrušiť pripnutie karty">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "r">
 <!ENTITY  sendTabToDevice.label              "Odoslať kartu do zariadenia">
 <!ENTITY  sendTabToDevice.accesskey          "a">
@@ -68,12 +82,16 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "a">
 <!ENTITY  sendLinkToDevice.label             "Odoslať odkaz do zariadenia">
 <!ENTITY  sendLinkToDevice.accesskey         "a">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  moveToNewWindow.label              "Presunúť do nového okna">
 <!ENTITY  moveToNewWindow.accesskey          "k">
 <!ENTITY  reopenInContainer.label            "Otvoriť v kontajneri">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Pridať všetky karty medzi záložky…">
 <!ENTITY  bookmarkAllTabs.accesskey          "v">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "Obnoviť zatvorenú kartu">
 <!ENTITY  undoCloseTab.accesskey             "a">
 <!ENTITY  closeTab.label                     "Zavrieť kartu">
@@ -100,6 +118,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.commandkey "p">
 
+
 <!ENTITY goOfflineCmd.label "Pracovať offline">
 <!ENTITY goOfflineCmd.accesskey "f">
 
@@ -114,6 +133,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "O">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Pridať všetky karty medzi záložky……">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "d">
+
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Obnoviť zatvorenú kartu">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "b">
 
@@ -558,9 +590,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Obnoviť rámec">
 <!ENTITY reloadFrameCmd.accesskey     "b">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Zobraziť zdrojový kód výberu">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Zobraziť zdrojový kód MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "r">
 <!ENTITY viewPageSourceCmd.label      "Zobraziť zdrojový kód stránky">
 <!ENTITY viewPageSourceCmd.accesskey  "k">
@@ -777,7 +806,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Hotovo">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Pri ukladaní zobrazovať editor">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "u">
 
@@ -927,9 +955,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Zvuk z karty bude zdieľaný.">
 <!ENTITY getUserMedia.allWindowsShared.message "Všetky okná viditeľné na vašej obrazovke budú zdieľané.">
 
-<!ENTITY trackingProtection.on "Ochrana pred sledovaním je zapnutá">
-<!ENTITY trackingProtection.off "Ochrana pred sledovaním je vypnutá">
-
 <!ENTITY contentBlocking.title "Blokovanie obsahu">
 <!ENTITY contentBlocking.detected "Na tejto stránke bol nájdený blokovateľný obsah.">
 <!ENTITY contentBlocking.notDetected "Na tejto stránke nebol nájdený blokovateľný obsah.">
@@ -944,6 +969,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.fastBlock.blocked.label "Blokované">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
+     "Firefox is blocking Slow-Loading Trackers"-->
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -957,6 +986,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Blokované">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Trackers"-->
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -970,6 +1003,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
 <!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokované">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Third-Party Cookies"-->
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -987,28 +1024,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Ochrana pred sledovaním">
 <!ENTITY trackingProtection.tooltip "Otvorí nastavenia ochrany pred sledovaním">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokuje časti stránky, ktoré môžu sledovať vaše prehliadanie.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "Aplikácia &brandShortName; objavila prvky, ktoré môžu sledovať vaše prehliadanie.">
-<!ENTITY trackingProtection.detectedException "Aplikácia &brandShortName; objavila prvky, ktoré môžu sledovať vaše prehliadanie. Ochranu pred sledovaním ste pre túto stránku ale vypli.">
-<!ENTITY trackingProtection.notDetected5 "Na tejto stránke neboli zistené žiadne sledovacie prvky.">
-<!ENTITY trackingProtection.notDetectedException "Na tejto stránke neboli zistené žiadne sledovacie prvky. Ochranu pred sledovaním ste na tejto stránke vypli.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Ochrana pred sledovaním bola zapnutá. Pre zablokovanie všetkých sledovacích prvkov obnovte túto stránku.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Vypnúť pre túto stránku">
-<!ENTITY trackingProtection.unblock3.accesskey "V">
 <!ENTITY trackingProtection.unblock4.label "Vypnúť blokovanie pre túto stránku">
 <!ENTITY trackingProtection.unblock4.accesskey "V">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Vypnúť pre túto reláciu">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "V">
-<!ENTITY trackingProtection.block4.label "Zapnúť pre túto stránku">
-<!ENTITY trackingProtection.block4.accesskey "Z">
 <!ENTITY trackingProtection.unblockPrivate4.label "Dočasne vypnúť blokovanie">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Zapnúť blokovanie pre túto stránku">
@@ -1118,7 +1142,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Synchronizovanie zariadení…">
 
 <!ENTITY pageAction.shareUrl.label "Zdieľať">
-
 <!ENTITY pageAction.shareMore.label "Viac…">
 
 <!ENTITY libraryButton.tooltip "Zobrazí históriu, uložené záložky a ďalšie">

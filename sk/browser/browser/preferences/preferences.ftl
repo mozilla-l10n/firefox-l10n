@@ -53,6 +53,7 @@ pane-sync-title = Účet Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Podpora aplikácie { -brand-short-name }
+addons-button-label = Rozšírenia a témy vzhľadu
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,9 @@ extension-controlled-homepage-override = Vašu domovskú stránku kontroluje roz
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Vašu stránku novej karty kontroluje rozšírenie <img data-l10n-name="icon"/> { $name }.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Toto nastavenie spravuje rozšírenie <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Rozšírenie <img data-l10n-name="icon"/> { $name } vám nastavilo nový predvolený vyhľadávací modul.
@@ -326,10 +330,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Povoliť vyhľadávanie textu počas písania
     .accesskey = x
+browsing-cfr-recommendations-learn-more = Ďalšie informácie
 
 ## General Section - Proxy
 
-network-proxy-title = Nastavenie pripojenia
 network-settings-title = Nastavenia siete
 network-proxy-connection-description = Konfigurovať, ako sa aplikácia { -brand-short-name } pripája k internetu.
 network-proxy-connection-learn-more = Ďalšie informácie
@@ -595,26 +599,12 @@ sitedata-total-size-calculating = Výpočet veľkosti údajov stránky a vyrovn�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Uložené cookies, údaje stránok a vyrovnávacia pamäť zaberajú { $value } { $unit } priestoru na disku.
 sitedata-learn-more = Ďalšie informácie
-sitedata-accept-cookies-option =
-    .label = Povoliť stránkam ukladať cookies a údaje stránok (odporúčané)
-    .accesskey = a
-sitedata-block-cookies-option =
-    .label = Blokovať ukladanie cookies a údajov stránok (stránky nemusia správne fungovať)
-    .accesskey = B
 sitedata-keep-until = Uchovávať cookies do
     .accesskey = U
 sitedata-keep-until-expire =
     .label = vypršania platnosti
 sitedata-keep-until-closed =
     .label = ukončenia aplikácie { -brand-short-name }
-sitedata-accept-third-party-desc = Povoliť cookies a údaje stránok
-    .accesskey = k
-sitedata-accept-third-party-always-option =
-    .label = vždy
-sitedata-accept-third-party-visited-option =
-    .label = len pre navštívené
-sitedata-accept-third-party-never-option =
-    .label = nikdy
 sitedata-allow-cookies-option =
     .label = Ukladať cookies a údaje stránok
     .accesskey = U
@@ -738,10 +728,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nikdy
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Používať Ochranu pred sledovaním na blokovanie sledovacích prvkov v režime Súkromné prehliadanie
-    .accesskey = v
 tracking-exceptions =
     .label = Výnimky…
     .accesskey = m
