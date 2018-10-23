@@ -813,6 +813,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Zabezpečenie stránky">
 
+<!ENTITY identity.connection "Pripojenie">
 <!ENTITY identity.connectionSecure "Zabezpečené pripojenie">
 <!ENTITY identity.connectionNotSecure "Pripojenie nie je zabezpečené">
 <!ENTITY identity.connectionFile "Táto stránka je uložená vo vašom počítači.">
