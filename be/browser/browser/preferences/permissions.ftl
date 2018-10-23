@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Выключэнні - Ахова ад сачэння
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Вы адключылі ахову ад сачэння на гэтых вэб-сайтах.
+permissions-exceptions-content-blocking-window =
+    .title = Выключэнні - Блакаванне змесціва
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Вы адключылі блакаванне змесціва на гэтых сайтах.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Вы можаце вызначыць, як�
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Дазволеныя вэб-сайты - Аўтапрайграванне
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Вы можаце пазначыць, якім вэб-сайтам дазволена прайграваць медыя-элементы аўтаматычна. Упішыце дакладны адрас сайта, якому вы дазваляеце, і націсніце Дазволіць.
 permissions-exceptions-autoplay-media-window2 =
     .title = Выключэнні - Аўтапрайграванне
     .style = { permissions-window.style }
