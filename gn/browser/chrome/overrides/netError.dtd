@@ -149,6 +149,7 @@ Pe arapapaha ne mohendaha rehegua oĩporã <span id='wrongSystemTime_systemDate2
 
 <!ENTITY certerror.pagetitle1  "Jeikekatu'ỹ">
 <!ENTITY certerror.pagetitle2  "Jesarekorã: Imarãkuaáva tekorosã tenondeve">
+<!ENTITY certerror.sts.pagetitle  "Ndoikéi: Ikatu iñapañuãi tekorosãrã">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ko tenda oipuru HTTP Strict Transport Security (HSTS) ha omoha'eño &brandShortName; oike hag̃ua pype tekorosãme. Tembiapokuéramo, ndaikatúi embojoaju peteĩ oĩ'ỹva ko mboajepyrépe g̃uarã.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> oguereko tekorosã purureko hérava HTTP Strict transporte Security (HSTS), he’iséva &brandShortName; oiketaha hendive tekorosãme. Ndaikatúi embojuaju oĩ’ỹva eike hag̃ua ko tendápe.">
 <!ENTITY certerror.copyToClipboard.label "Moñe'ẽrã mbohasa kuatiajokohápe">
