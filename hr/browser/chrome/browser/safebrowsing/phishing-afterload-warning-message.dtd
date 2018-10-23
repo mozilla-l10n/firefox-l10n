@@ -16,6 +16,7 @@
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
 
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc2 "Savjetovanje pruža <a id='advisory_provider'/>.">
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "Posjećivanje ove stranice može naštetiti vašem računalu">
