@@ -676,7 +676,7 @@ privacy-header = Beskyttelse af privatliv
 
 ## Privacy Section - Forms
 
-forms-header = Formularer & adgangskoder
+forms-header = Formularer og adgangskoder
 
 logins-header = Logins og adgangskoder
 forms-ask-to-save-logins =
