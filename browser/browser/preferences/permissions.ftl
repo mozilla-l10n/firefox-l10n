@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Винятки - захист від стеження
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Ви вимкнули захист від стеження на цих веб-сайтах.
+permissions-exceptions-content-blocking-window =
+    .title = Винятки - Блокування вмісту
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Ви вимкнули блокування вмісту на цих веб-сайтах.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Ви можете вказати, яким 
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Дозволені веб-сайти - Автовідтворення
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Ви можете вказати, яким веб-сайтам дозволяється автоматично відтворювати медіа елементи. Введіть точну адресу сайту для дозволу і натисніть Дозволити.
 permissions-exceptions-autoplay-media-window2 =
     .title = Винятки - Автовідтворення
     .style = { permissions-window.style }
