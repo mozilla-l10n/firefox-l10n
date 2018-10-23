@@ -16,6 +16,8 @@
 <!ENTITY continue2.label "Mere…">
 <!ENTITY moreInformation.label "Mere information">
 
+<!ENTITY viewCertificate.label "Vis certifikat">
+
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ude af stand til at oprette forbindelse">
@@ -154,6 +156,7 @@
 
 <!ENTITY certerror.longpagetitle1 "Din forbindelse er ikke sikker">
 <!ENTITY certerror.longpagetitle2 "Advarsel: Mulig sikkerhedsrisiko">
+<!ENTITY certerror.sts.longpagetitle  "Oprettede ikke forbindelse: Muligt sikkerhedsproblem">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -163,7 +166,13 @@ was trying to connect. -->
 
 <!ENTITY certerror.introPara2 "&brandShortName; har opdaget en mulig sikkerhedstrussel og fortsatte ikke til <span class='hostname'/>. Hvis du besøger webstedet, kan angribere forsøge at stjæle informationer, som fx dine adgangskoder, mails eller oplysninger om dine betalingskort.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; har opdaget en mulig sikkerhedstrussel og fortsatte ikke til <span class='hostname'/>, fordi webstedet kræver en sikker forbindelse.">
+
 <!ENTITY certerror.expiredCert.secondPara "Problemet skyldes sandsynligvis, at uret i din computer er forkert indstillet. Dette kan forhindre &brandShortName; i at oprette en sikker forbindelse.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; har opdaget et problem og fortsatte ikke til <span class='hostname'/>. Webstedet er enten opsat forkert, eller også er uret i din computer indstillet forkert.">
+<!ENTITY certerror.expiredCert.secondPara2 "Webstedets certifikat er sandsynligvis forældet, hvilket forhindrer &brandShortName; i at oprette en sikker forbindelse. Hvis du besøger webstedet, kan angribere forsøge at stjæle informationer, som fx dine adgangskoder, mails eller oplysninger om dine betalingskort.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Webstedets certifikat er sandsynligvis forældet, hvilket forhindrer &brandShortName; i at oprette en sikker forbindelse.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Hvad kan du gøre?">
 
@@ -226,6 +235,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Usikker forbindelse">
 <!ENTITY certerror.pagetitle2  "Advarsel: Mulig sikkerhedsrisiko">
+<!ENTITY certerror.sts.pagetitle  "Oprettede ikke forbindelse: Muligt sikkerhedsproblem">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Webstedet bruger HTTP
 Strict Transport Security (HSTS) til at angive at &brandShortName; kun
 kan oprette en sikker forbindelse til det. Derfor er det ikke muligt at
