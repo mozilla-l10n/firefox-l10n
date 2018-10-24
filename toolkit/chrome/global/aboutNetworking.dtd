@@ -43,16 +43,4 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP adrese">
 <!ENTITY aboutNetworking.rcwn                  "RCWN statistika">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN status">
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Otvori">

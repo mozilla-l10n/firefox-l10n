@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Informacije rješavanja problema">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Ova stranica sadrži tehničke informacije koje vam mogu biti korisne kada pokušavate riješiti problem. Ako tražite odgovore na česta pitanja o &brandShortName;u, posjetite našu <a id='supportLink'>web stranicu podrške</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Izvještaji o rušenju">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "ID izvještaja">
 <!ENTITY aboutSupport.crashes.sendDate "Poslano">
 <!ENTITY aboutSupport.crashes.allReports "Svi izvještaji o rušenju">
@@ -21,27 +21,21 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Inačica">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareType "Vrsta">
+<!ENTITY aboutSupport.securitySoftwareName "Naziv">
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; mogućnosti">
 <!ENTITY aboutSupport.featureName "Naziv">
 <!ENTITY aboutSupport.featureVersion "Inačica">
 <!ENTITY aboutSupport.featureId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "Eksperimentalne značajke">
-<!ENTITY aboutSupport.experimentName "Naziv">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Opis">
-<!ENTITY aboutSupport.experimentActive "Aktivno">
-<!ENTITY aboutSupport.experimentEndDate "Datum završetka">
-<!ENTITY aboutSupport.experimentHomepage "Početna stranica">
-<!ENTITY aboutSupport.experimentBranch "Grana">
-
 <!ENTITY aboutSupport.appBasicsTitle "Osnove aplikacije">
 <!ENTITY aboutSupport.appBasicsName "Naziv">
 <!ENTITY aboutSupport.appBasicsVersion "Inačica">
 <!ENTITY aboutSupport.appBasicsBuildID "Build ID">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Kanal ažuriranja">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Povijest ažuriranja">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Prikaži povijest ažuriranja">
@@ -58,8 +52,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Zauzeće memorije">
 <!ENTITY aboutSupport.appBasicsPerformance "Performanse">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registrirani service workeri">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Profili">
@@ -67,6 +61,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Više procesni prozori">
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Procesi web sadržaja">
+
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
@@ -85,8 +80,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Važne izmijenjene osobitosti">
 <!ENTITY aboutSupport.modifiedPrefsName "Naziv">
 <!ENTITY aboutSupport.modifiedPrefsValue "Vrijednost">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js osobitosti">
 <!ENTITY aboutSupport.userJSDescription "Vaš profil sadrži <a id='prefs-user-js-link'>user.js datoteku</a>, koja uključuje osobitosti koje nije stvorio &brandShortName;.">
 
@@ -150,3 +145,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Kanali">
 <!ENTITY aboutSupport.mediaDeviceRate "Stopa">
 <!ENTITY aboutSupport.mediaDeviceLatency "Latencija">
+
