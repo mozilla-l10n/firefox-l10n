@@ -153,7 +153,7 @@
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-<!ENTITY locale_system_default "Zadani sistemski">
+<!ENTITY locale_system_default "Zadani jezik sustava">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
@@ -291,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Saznajte više o korištenju &brandShortName; i drugih &vendorShortName; proizvoda">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "Uključi">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eksperimentalne značajke">
@@ -359,11 +364,10 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
-<!ENTITY pref_use_system_font_size "Koristi sistemski određenu veličinu fonta">
-<!ENTITY pref_use_system_font_size_summary "Prilagodi sadržaj prema sistemski određenoj veličini fonta">
+<!ENTITY pref_use_system_font_size "Koristi veličinu fonta određenu u sustavu">
+<!ENTITY pref_use_system_font_size_summary "Prilagodi sadržaj prema veličini fonta određenoj u sustavu">
 
 <!ENTITY pref_media_autoplay_enabled "Dozvoli automatsku reprodukciju">
-<!ENTITY pref_media_autoplay_enabled_summary "Upravljajte da li web stranice mogu automatski reproducirati video i drugi medijski sadržaj">
 <!ENTITY pref_media_autoplay_allow "Dozvoli automatsku reprodukciju">
 <!ENTITY pref_media_autoplay_block "Blokiraj automatsku reprodukciju">
 <!ENTITY pref_zoom_force_enabled "Uvijek omogući uvećanje">
@@ -511,7 +515,7 @@
 <!ENTITY contextmenu_subscribe "Pretplati se na stranicu">
 <!ENTITY contextmenu_site_settings "Uredi postavke stranice">
 <!ENTITY contextmenu_top_sites_edit "Uredi">
-<!ENTITY contextmenu_top_sites_pin "Prikači stranicu">
+<!ENTITY contextmenu_top_sites_pin "Zakači stranicu">
 <!ENTITY contextmenu_top_sites_unpin "Otkači stranicu">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
@@ -828,9 +832,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Nije moguće otvoriti &brandShortName;. Molimo ponovo instalirajte i pokušajte ponovo.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; se više neće ažurirati">
-<!ENTITY eol_notification_summary "Pritisnite kako biste saznali više">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; je ažuriran">
@@ -904,3 +905,5 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; push obavijesti">
 <!ENTITY updater_notification_channel "Ažuriranja aplikacija">
 <!ENTITY synced_tabs_notification_channel "Sinkronizirane kartice">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
