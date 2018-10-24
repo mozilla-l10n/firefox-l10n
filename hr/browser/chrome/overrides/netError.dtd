@@ -9,6 +9,8 @@
 <!ENTITY retry.label "Pokušaj ponovno">
 <!ENTITY returnToPreviousPage.label "Idi natrag">
 <!ENTITY advanced.label "Napredno">
+<!ENTITY moreInformation.label "Više informacija">
+
 
 <!-- Specific error messages -->
 
@@ -21,6 +23,14 @@
 <!ENTITY dnsNotFound.pageTitle "Poslužitelj nije pronađen">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Imamo poteškoća u pronalaženju te stranice.">
+<!ENTITY dnsNotFound.longDesc1 "
+<strong>Ako je ta adresa ispravna, evo još tri stvari koje možete pokušati:</strong>
+<ul>
+  <li>Pokušajte ponovno kasnije.</li>
+  <li>Provjerite mrežne postavke.</li>
+  <li>Ako ste spojeni ali ste iza vatrozida, provjerite da &brandShortName; ima dopuštenje pristupa na Web.</li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Provjerite naziv datoteke, te postoji li pravopisna ili tipografska greška.</li> <li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li> </ul>">
@@ -80,10 +90,17 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Stranica koju pokušavate otvoriti ne može biti prikazana jer autentičnost primljenih podataka nije moguće provjeriti.</li> <li>Kontaktirajte vlasnike stranice, te ih obavijestite o ovom problemu.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Vaša veza nije sigurna">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Vlasnik <span class='hostname'/> je pogrešno podesio svoju stranicu.  Da bismo spriječili krađu informacija, &brandShortName; se nije povezao na ovu stranicu.">
+
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>Ova je stranica privremeno nedostupna ili prezauzeta. Pokušajte ponovno za nekoliko trenutaka.</li> <li>Ako ne možete učitati niti jednu stranicu, provjerite mrežne postavke vašeg računala.</li> <li>Ako je vaše računalo ili mreža zaštićena vatrozidom ili proxyem, provjerite ima li &brandShortName; dozvolu pristupiti Internetu.</li> </ul>">
 
@@ -121,6 +138,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje ste smatrali da su sigurne. Administrator web stranice će trebati popraviti poslužitelj prije nego možete posjetiti stranicu.</p><p>Kod greške: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+
 
 <!ENTITY prefReset.longDesc "Izgleda da vaše postavke sigurnosti mreže možda uzrokuju ovo. Želite li vratiti na početne postavke?">
 <!ENTITY prefReset.label "Vrati početne postavke">

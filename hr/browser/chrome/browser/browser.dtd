@@ -906,7 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera za dijeljenje:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
-<!ENTITY getUserMedia.selectMicrophone.label "Mikrofor za dijeljenje:">
+<!ENTITY getUserMedia.selectMicrophone.label "Mikrofon za dijeljenje:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "Zvuk iz kartice će biti dijeljen.">
 <!ENTITY getUserMedia.allWindowsShared.message "Svi vidljivi prozori na vašem ekranu će biti dijeljeni.">

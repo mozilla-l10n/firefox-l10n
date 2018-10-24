@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sync-disconnect-remove-other-caption = Ukloni ostale privatne podatke
+sync-disconnect-cancel =
+    .label = Otkaži
+    .accesskey = O
 
 ## Disconnect confirm Button
 ##

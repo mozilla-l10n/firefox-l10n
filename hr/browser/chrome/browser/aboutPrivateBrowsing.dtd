@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
 <!ENTITY privateBrowsing.title                           "Privatno pretraživanje">
-<!ENTITY privateBrowsing.title.tracking                  "Privatno pretraživanje s zaštitom od praćenja">
+<!ENTITY privateBrowsing.title.tracking                  "Privatno pretraživanje sa zaštitom od praćenja">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Kada pretražujete u privatnom prozoru, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ne sprema">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
