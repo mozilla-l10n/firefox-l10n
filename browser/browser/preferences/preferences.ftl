@@ -524,6 +524,7 @@ privacy-header = Browser-Datenschutz
 ## Privacy Section - Forms
 
 forms-header = Formulare & Passwörter
+logins-header = Zugangsdaten & Passwörter
 forms-ask-to-save-logins =
     .label = Fragen, ob Zugangsdaten und Passwörter für Websites gespeichert werden sollen
     .accesskey = Z
