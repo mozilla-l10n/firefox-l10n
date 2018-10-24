@@ -61,6 +61,7 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Hapus dari kalender">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detail…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Tampilkan detail acara">
+<!ENTITY lightning.imipbar.btnMore.label                                    "Lebih lanjut">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klik untuk menampilkan lebih banyak pilihan">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Konfirmasi ulang">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Kirim konfirmasi ulang kepada penyelenggara">
@@ -70,6 +71,7 @@
 <!ENTITY lightning.imipbar.btnTentative.label                               "Tentatif">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Terima undangan acara secara tentatif">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Tentatif seluruhnya">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Menerima undangan acara secara tentatif untuk semua kejadian terkait acara">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Perbarui">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Perbarui acara di kalender">
 <!ENTITY lightning.imipbar.description                                      "Pesan in berisi undangan sebuah acara.">

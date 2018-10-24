@@ -32,16 +32,25 @@
 <!ENTITY calendar.unifinder.tree.done.label                "Selesai">
 <!ENTITY calendar.unifinder.tree.done.tooltip2             "Urut berdasarkan penyelesaian">
 <!ENTITY calendar.unifinder.tree.priority.label            "Prioritas">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Urutkan berdasarkan prioritas">
 <!ENTITY calendar.unifinder.tree.title.label               "Judul">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Urutkan berdasarkan judul">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037;">
 <!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Urut berdasarkan &#37; selesai">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Mulai">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Urutkan berdasarkan tanggal mulai">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Selesai">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Urutkan berdasarkan tanggal berakhir">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Jatuh Tempo">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Urutkan berdasarkan tanggal jatuh tempo">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Selesai">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Urutkan berdasarkan tanggal penyelesaian">
 <!ENTITY calendar.unifinder.tree.categories.label          "Kategori">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Urutkan berdasarkan kategori">
 <!ENTITY calendar.unifinder.tree.location.label            "Lokasi">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Urutkan berdasarkan lokasi">
 <!ENTITY calendar.unifinder.tree.status.label              "Status">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Urutkan berdasarkan status">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Nama Kalender">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Urut berdasarkan nama kalender">
 <!ENTITY calendar.unifinder.tree.duration.label            "Jatuh tempo dalam">
@@ -369,3 +378,5 @@
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "Tambahkan sebagai acara">
 <!ENTITY calendar.extract.task.button          "Tambahkan sebagai tugas">
+<!ENTITY calendar.extract.event.button.tooltip "Mengekstrak informasi kalender dari pesan dan menambahkannya ke dalam kalender Anda sebagai acara">
+<!ENTITY calendar.extract.task.button.tooltip  "Mengekstrak informasi kalender dari pesan dan menambahkannya ke dalam kalender Anda sebagai tugas">
