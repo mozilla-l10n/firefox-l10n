@@ -14,7 +14,7 @@
 <!ENTITY projectMenu_importHostedApp_accesskey "ด">
 <!ENTITY projectMenu_selectApp_label "เปิดแอป…">
 <!ENTITY projectMenu_selectApp_accesskey "อ">
-<!ENTITY projectMenu_play_label "ติดตั้งและทำงาน">
+<!ENTITY projectMenu_play_label "ติดตั้งแล้วเรียกใช้">
 <!ENTITY projectMenu_play_accesskey "ต">
 <!ENTITY projectMenu_stop_label "หยุดแอป">
 <!ENTITY projectMenu_stop_accesskey "ย">
