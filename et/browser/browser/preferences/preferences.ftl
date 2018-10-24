@@ -264,7 +264,7 @@ play-drm-content =
 play-drm-content-learn-more = Rohkem teavet
 update-application-title = { -brand-short-name }i uuendused
 update-application-description = Hoia { -brand-short-name } värske, et saada osa parimast võimekusest, stabiilsusest ja turvalisusest.
-update-application-version = Versioon { $version } <a data-l10n-name="learn-more">Mis on uut?</a>
+update-application-version = Versioon { $version } <a data-l10n-name="learn-more">Uuendused</a>
 update-history =
     .label = Näita uuenduste ajalugu…
     .accesskey = N
@@ -326,7 +326,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Võrgu puhverserver
 network-settings-title = Võrgusätted
 network-proxy-connection-description = { -brand-short-name }i internetiga ühendumise häälestamine.
 network-proxy-connection-learn-more = Rohkem teavet
@@ -592,26 +591,12 @@ sitedata-total-size-calculating = Saidi andmete ja vahemälu suuruse arvutamine�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Salvestatud küpsised, saitide andmed ja vahemälu kasutavad praegu { $value } { $unit } salvestuspinda.
 sitedata-learn-more = Rohkem teavet
-sitedata-accept-cookies-option =
-    .label = Küpsised ja saitide andmed võetakse veebilehtedelt vastu (soovitatav)
-    .accesskey = ü
-sitedata-block-cookies-option =
-    .label = Küpsised ja saitide andmed blokitakse (võib põhjustada probleeme saitide töötamises)
-    .accesskey = ö
 sitedata-keep-until = Säilitatakse kuni
     .accesskey = n
 sitedata-keep-until-expire =
     .label = nad aeguvad
 sitedata-keep-until-closed =
     .label = { -brand-short-name } suletakse
-sitedata-accept-third-party-desc = Kolmanda osapoole saitide küpsised ja saitide andmed võetakse vastu
-    .accesskey = õ
-sitedata-accept-third-party-always-option =
-    .label = alati
-sitedata-accept-third-party-visited-option =
-    .label = varem külastatud saitidelt
-sitedata-accept-third-party-never-option =
-    .label = mitte kunagi
 sitedata-allow-cookies-option =
     .label = Küpsised ja saitide andmed lubatakse
     .accesskey = K
@@ -732,10 +717,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = mitte kunagi
     .accesskey = g
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Privaatse veebilehitsemise režiimis blokitakse teadaolevad jälitajad
-    .accesskey = v
 tracking-exceptions =
     .label = Erandid…
     .accesskey = d

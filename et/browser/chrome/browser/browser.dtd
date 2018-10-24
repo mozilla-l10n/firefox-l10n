@@ -132,6 +132,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
+
 <!ENTITY goOfflineCmd.label "Tööta võrguta">
 <!ENTITY goOfflineCmd.accesskey "T">
 
@@ -146,7 +147,20 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "L">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Lisa kõik kaardid järjehoidjatesse…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "i">
+
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Lisa valitud kaardid järjehoidjatesse…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "v">
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Vali kõik kaardid">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "k">
@@ -594,9 +608,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Laadi paneeli sisu uuesti">
 <!ENTITY reloadFrameCmd.accesskey     "L">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vaata valiku lähtekoodi">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Vaata MathML lähtekoodi">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Vaata veebilehe lähtekoodi">
 <!ENTITY viewPageSourceCmd.accesskey  "t">
@@ -813,7 +824,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Sobib">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Lisamisel kuvatakse seda dialoogi">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "d">
 
@@ -964,9 +974,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Kaardi heli jagatakse välja.">
 <!ENTITY getUserMedia.allWindowsShared.message "Jagatakse kõiki nähtavaid aknaid sinu ekraanil.">
 
-<!ENTITY trackingProtection.on "Jälitamisvastane kaitse: SEES">
-<!ENTITY trackingProtection.off "Jälitamisvastane kaitse: VÄLJAS">
-
 <!ENTITY contentBlocking.title "Sisu blokkimine">
 <!ENTITY contentBlocking.detected "Sellelt saidilt leiti blokitavat sisu.">
 <!ENTITY contentBlocking.notDetected "Sellel lehel ei tuvastatud blokitavat sisu.">
@@ -981,6 +988,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.fastBlock.blocked.label "Blokitud">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
+     "Firefox is blocking Slow-Loading Trackers"-->
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -994,6 +1005,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Blokitud">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Trackers"-->
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1007,6 +1022,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
 <!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokitud">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Third-Party Cookies"-->
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1024,28 +1043,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Jälitamisvastane kaitse">
 <!ENTITY trackingProtection.tooltip "Ava jälitamisvastase kaitse sätted">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokib selle lehe osasid, mis võivad sinu tegevust jälitada.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; tuvastas elemente, mis võivad jälitada sinu tegevust.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; tuvastas elemente, mis võivad jälitada sinu tegevust. Sa oled sellel saidil jälitamisvastase kaitse keelanud.">
-<!ENTITY trackingProtection.notDetected5 "Sellel lehel ei tuvastatud jälitavaid elemente.">
-<!ENTITY trackingProtection.notDetectedException "Sellel lehel ei tuvastatud jälitavaid elemente. Sa oled sellel saidil jälitamisvastase kaitse keelanud.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Sa lubasid jälitamisvastase kaitse. Kõigi jälitajate blokkimiseks laadi leht uuesti.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Keela sellel saidil">
-<!ENTITY trackingProtection.unblock3.accesskey "K">
 <!ENTITY trackingProtection.unblock4.label "Keela blokkimine sellel saidil">
 <!ENTITY trackingProtection.unblock4.accesskey "K">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Keela selles seansis">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "K">
-<!ENTITY trackingProtection.block4.label "Luba sellel saidil">
-<!ENTITY trackingProtection.block4.accesskey "L">
 <!ENTITY trackingProtection.unblockPrivate4.label "Keela blokkimine ajutiselt">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "A">
 <!ENTITY trackingProtection.block5.label "Luba blokkimine sellel saidil">
@@ -1099,7 +1105,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.message "Uuenda oma &brandShorterName;, et saada osa paremast kiirusest ja privaatsusest.">
-<!ENTITY updateAvailable.whatsnew.label "Vaata, mis on uut.">
+<!ENTITY updateAvailable.whatsnew.label "Vaata uuendusi.">
 <!ENTITY updateAvailable.header.message "&brandShorterName;ile on saadaval uuendus.">
 <!ENTITY updateAvailable.acceptButton.label "Laadi uuendus alla">
 <!ENTITY updateAvailable.acceptButton.accesskey "L">
@@ -1108,7 +1114,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.panelUI.label "Laadi alla &brandShorterName;i uuendus">
 
 <!ENTITY updateManual.message "Laadi alla &brandShorterName;i värske versioon ja me aitame sul selle paigaldada.">
-<!ENTITY updateManual.whatsnew.label "Vaata, mis on uut.">
+<!ENTITY updateManual.whatsnew.label "Vaata uuendusi.">
 <!ENTITY updateManual.header.message "&brandShorterName;il pole võimalik uuendada uusima versiooni peale.">
 <!ENTITY updateManual.acceptButton.label "Laadi alla &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "d">
@@ -1155,7 +1161,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Seadmeid sünkroniseeritakse…">
 
 <!ENTITY pageAction.shareUrl.label "Jaga">
-
 <!ENTITY pageAction.shareMore.label "Veel…">
 
 <!ENTITY libraryButton.tooltip "Vaata ajalugu, salvestatud järjehoidjaid ja muid asju">
