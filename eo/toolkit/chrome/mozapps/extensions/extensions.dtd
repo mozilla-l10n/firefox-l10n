@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Administrilo de aldonaĵoj">
 
 <!ENTITY search.placeholder2                  "Serĉi en addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Serĉi en addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Serĉi">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +43,10 @@
 <!ENTITY view.discover.label                  "Elŝuti aldonaĵojn">
 <!ENTITY view.recentUpdates.label             "Ĵusaj ĝisdatigoj">
 <!ENTITY view.availableUpdates.label          "Haveblaj ĝisdatigoj">
+
+<!ENTITY helpButton.label                      "Helpo pri aldonaĵoj">
+<!ENTITY preferencesWin.label                  "Elektebloj de &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Preferoj de &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Kontroli ĉu estas ĝisdatigoj">
