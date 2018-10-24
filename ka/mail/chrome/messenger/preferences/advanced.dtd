@@ -38,7 +38,7 @@
 <!ENTITY configEdit.accesskey          "C">
 <!ENTITY returnReceiptsInfo.label      "როგორ მოეპყრას &brandShortName; მიღების დასტურებს">
 <!ENTITY showReturnReceipts.label      "მიღების დასტურები…">
-<!ENTITY showReturnReceipts.accesskey  "R">
+<!ENTITY showReturnReceipts.accesskey  "რ">
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "მონაცემთა აღრიცხვა">
