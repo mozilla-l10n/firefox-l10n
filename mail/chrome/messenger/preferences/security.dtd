@@ -15,7 +15,7 @@
 <!ENTITY manualMarkModeMove.accesskey "გ">
 <!ENTITY manualMarkModeDelete.label "მათი წაშლა">
 <!ENTITY manualMarkModeDelete.accesskey "წ">
-<!ENTITY markAsReadOnSpam.label "მათი მონიშვნა წაკითხულად">
+<!ENTITY markAsReadOnSpam.label "ჯართად მიჩნეული წერილების წაკითხულად მონიშვნა">
 <!ENTITY markAsReadOnSpam.accesskey "კ">
 <!ENTITY enableAdaptiveJunkLogging.label "ჯართის მოქნილი ფილტრის აღრიცხვის ჩართვა">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "ღ">
