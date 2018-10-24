@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Avansat">
 <!ENTITY paneAccount.title        "Conturi">
 
+<!ENTITY addonsButton.label       "Extensii și teme">
+
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">
