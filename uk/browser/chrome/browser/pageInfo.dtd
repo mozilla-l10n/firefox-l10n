@@ -9,7 +9,7 @@
 <!ENTITY  copy.label            "Копіювати">
 <!ENTITY  copy.accesskey        "о">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Виділити все">
+<!ENTITY  selectall.label       "Вибрати все">
 <!ENTITY  selectall.accesskey   "и">
 <!ENTITY  closeWindow.key       "w">
 
@@ -46,19 +46,10 @@
 
 <!ENTITY  feedTab               "Стрічки">
 <!ENTITY  feedTab.accesskey     "С">
-<!ENTITY  feedSubscribe         "Підписатись">
-<!ENTITY  feedSubscribe.accesskey "П">
 
 <!ENTITY  permTab               "Дозволи">
 <!ENTITY  permTab.accesskey     "Д">
-<!ENTITY  permUseDefault        "Типово">
-<!ENTITY  permAskAlways         "Завжди питати">
-<!ENTITY  permAllow             "Дозволити">
-<!ENTITY  permAllowSession      "Дозволити на сеанс">
-<!ENTITY  permHide              "Приховати">
-<!ENTITY  permBlock             "Заблокувати">
 <!ENTITY  permissionsFor        "Дозволи для:">
-<!ENTITY  permPlugins           "Активувати плагіни">
 
 <!ENTITY  securityTab           "Безпека">
 <!ENTITY  securityTab.accesskey "з">
@@ -75,9 +66,6 @@
 
 <!ENTITY  securityView.privacy.header                   "Конфіденційність та історія">
 <!ENTITY  securityView.privacy.history                  "Чи відвідувався цей сайт раніше?">
-<!ENTITY  securityView.privacy.cookies                  "Чи зберігає цей сайт інформацію (куки) на моєму комп’ютері?">
-<!ENTITY  securityView.privacy.viewCookies              "Переглянути куки">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "к">
 <!ENTITY  securityView.privacy.siteData                 "Чи зберігає цей веб-сайт інформацію на моєму комп’ютері?">
 <!ENTITY  securityView.privacy.clearSiteData            "Стерти куки і дані сайтів">
 <!ENTITY  securityView.privacy.clearSiteData.accessKey  "т">
