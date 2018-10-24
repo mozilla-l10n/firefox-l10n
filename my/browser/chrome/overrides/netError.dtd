@@ -10,6 +10,7 @@
 <!ENTITY returnToPreviousPage.label "နောက်သို့ သွားရန်">
 <!ENTITY advanced.label "အဆင့်မြင့်">
 
+
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "မချိတ်ဆက်နိုင်ပါ">
@@ -18,16 +19,14 @@
 <!ENTITY deniedPortAccess.title "ယခုလိပ်စာကို တားမြစ်ထားသည်">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "ဆာဗာကို မတွေ့ပါ">
-<!ENTITY dnsNotFound.longDesc "
+<!ENTITY dnsNotFound.pageTitle "ဆာဗာကို မတွေ့ပါ">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "အို့။ ထိုဝဘ်ဆိုက်ကို ရှာမတွေ့ပါ။">
+<!ENTITY dnsNotFound.longDesc1 "<strong>လိပ်စာမှန်ကန်နေပါက၊ အောက်ပါအချက်များကို စမ်းကြည့်နိုင်သည်။</strong>
 <ul>
-  <li>စာလုံးပေါင်းမှားခြင်း စသည် ဖြစ်နိုင်သည့်အတွက် လိပ်စာကို စစ်ဆေးပါ
-  <strong>www</strong>.example.com ဖြစ်ရမည့်အစား
-  <strong>ww</strong>.example.com ဟု မှားရိုက်ထားခြင်း</li>
-  <li>မည်သည့်စာမျက်နှာမျှ မကြည့်ရှုနိုင်ပါက ကွန်ပျူတာတွင် ချိတ်ထားသော
-  ကွန်ယက်ချိတ်ဆက်မှုကို စစ်ဆေးပါ။</li>
-  <li>ကွန်ပျူတာ သို့မဟုတ် ကွန်ယက်ကို မီးနံရံ သို့မဟုတ် ကြားခံဆာဗာဖြင့် ကာကွယ်ထားပါက
-  ထို &brandShortName; သည် ဝက်ဘ်ကို အသုံးပြုနိုင်မှု ရှိ/မရှိ စစ်ဆေးပါ။</li>
+  <li>နောက်မှပြန်ဖွင့်ရန်။</li>
+  <li>ကွန်ယက်ချိတ်ဆက်မှုကိုစစ်ဆေးရန်။</li>
+  <li>ကွန်ယက်ကို ချိတ်ဆက်ထားသော်လည်း မီးနံရံနောက်တွင် ရှိနေပါက &brandShortName; သည် ဝဘ်သို့ချိတ်ဆက်ခွင့်ရှိ၊ မရှိ စစ်ဆေးပါ။</li>
 </ul>">
 
 <!ENTITY fileNotFound.title "ဖိုင် မတွေ့ရပါ">
@@ -49,15 +48,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "ကွန်ယက်သို့ လက်မှတ်ထိုးဝင်ရန် စာမျက်နှာကို ဖွင့်ပါ">
 
-<!ENTITY malformedURI.title "လိပ်စာ မှားယွင်းနေသည်">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>ဝဘ်လိပ်စာများကို အောက်ပါအတိုင်း ရေးလေ့ရှိကြသည်
-    <strong>http://www.example.com/</strong></li>
-  <li>ရှေ့ယိုင်မျဉ်းစောင်းကို အသုံးပြုထားခြင်း ဟုတ်/မဟုတ် စစ်ဆေးပါ (i.e.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "ချိတ်ဆက်မှု ပြတ်တောက်သွားခဲ့သည်">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -135,10 +126,17 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>လက်ခံရရှိလိုက်သော ခွင့်ပြုချက်အား အတည်မပြုနိုင်သဖြင့် ဝတ်စာမျက်နှာအား မပြနိုင်ပါ</li> <li>ယခု ပြသာနာအတွက် ဝတ်ဆိုဒ် ပိုင်ရှင်အား ဆက်သွယ်ပါ</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/>၏ ပိုင်ရှင်သည် သူတို့၏ ဒီဝဘ်ဆိုက်ကို သင့်လျော်မှန်ကန်စွာ ချိန်ညှိထားခြင်း မရှိပါ။ သင့်အချက်အလက်များ ခိုးယူခံရခြင်းမှ ကာကွယ်ရန် &brandShortName; သည် ဒီဝဘ်ဆိုက်ကို မချိတ်ဆက်ထားပါ။">
+
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>သင်ကြည့်ရှုလိုသောဝတ်ဆိုက်သည်လောလောဆယ်ကြည့်ရှူမရနိုင်ပါ။ အလွန်အလုပ်များနေသောကြောင့်ဖြစ်ပါလိမ့်မည်။</li> <li>အကယ်လိုပြန်လည်ကြည့်ရှူမရပါကသင်၏ကွန်ပျူတာနက်ဝပ် ချိတ်ဆက်မှူကိုစစ်ကြည့်ပါ။.</li> <li>အကယ်လို့သင့်ကွန်ပျူတာအား ဖိုင်းယားဝေါလ်တစ်ခုခုဖြင့်ကာကွယ်တာပါက &brandShortName; အားအင်တာနက်သို့ဆက်သွယ်မှူ ပါမစ်ခွင့်ပြုပေးထားလားစစ်ပါ။</li> </ul>">
 
@@ -176,6 +174,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>သည် အိုဟောင်းပြီး တိုက်ခိုက်ရန်လွယ်ကူသည့် လုံခြုံရေးနည်းပညာကို အသုံးပြုထားသည်။ တိုက်ခိုက်သူသည် သင်လုံခြုံသည်ဟုထင်သည့် အချက်အလက်များကို လွယ်ကူစွာ ဖော်ထုတ်နိုင်ပါလိမ့်မည်။ သင်လာရောက်မလည်ပတ်မီ ဝဘ်ဆိုဒ်စီမံခန့်ခွဲသူသည် ဆာဗာကို အရင်ဆုံး ပြုပြင်ဖြေရှင်းရန် လိုအပ်သည်။</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+
 
 <!ENTITY prefReset.longDesc "သင့်ကွန်ယက်လုံခြုံရေးအပြင်အဆင်များတွင် ဒီပြဿနာဖြစ်နေသည်ဟု ထင်မြင်ရပါသည်။ သင်သည် မူလအပြင်အဆင်များအတိုင်း ပြန်လည်သတ်မှတ်လိုပါသလား။">
 <!ENTITY prefReset.label "မူလသတ်မှတ်ထားသည့်အတိုင်း ပြန်ထားပါ">
