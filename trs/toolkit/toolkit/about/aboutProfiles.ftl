@@ -20,3 +20,33 @@ profiles-rootdir = Direktoriô sinii
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Direktoriô nichrùn'un
+profiles-current-profile = Sa arâj sunt huin perfîl na ni si ga'ue narè'ej
+profiles-in-use-profile = Hua a'ngô riña aplikasiûn hua ni'nïnj perfil nan ni si ga'ue narè'ej
+profiles-rename = Nachrun nakà si yugui
+profiles-remove = Guxūn
+profiles-set-as-default = Nachrun man gahuin man perfil ginù yitïnj ïn
+profiles-launch-profile = Nachrun perfil riña nabegador nakàa
+profiles-yes = ga'ue
+profiles-no = si ga'ue
+profiles-rename-profile-title = Naduna si yugui perfîl
+# Variables:
+#   $name (String) - Name of the profile
+profiles-rename-profile = Naduna si yugui perfîl { $name }
+profiles-invalid-profile-name-title = Na'ue nada'aj si yugui perfîl
+# Variables:
+#   $name (String) - Name of the profile
+profiles-invalid-profile-name = Si yugui perfil “%S” nu a'nïn ginun.
+profiles-delete-profile-title = Nadure' Perfil
+# Variables:
+#   $dir (String) - Path to be displayed
+profiles-delete-profile-confirm = Si nadurê't 'ngo perfîl riña dukuàn 'na' nej perfîl ni si ga'ue nahuin sà' ñunj ngà'.  Si ruhuât ni ga'ue nadurê't nej archibô 'na' nej si nuguàn' perfîl, si configurasiônj, sertificado ni a'ngô gà' nuguan hua riña yi'ij. Opsiôn na nadure' karpetâ "{ $dir }" ni si ga'ue nahuin sà'aj ngà'. Ruhuât nadurê't nej archibô 'na' nej si nuguàn' perfîl aj.
+profiles-delete-files = Nadure' nej archîbo
+profiles-dont-delete-files = Si nadurê't nej archîbo
+profiles-delete-profile-failed-title = Gahui a'nanj
+profiles-delete-profile-failed-message = Hua 'ngo sa gahui a'nan' nga gayi'ìt nadurê't perfîl nan.
+profiles-opendir =
+    { PLATFORM() ->
+        [macos] Digan riña Finder
+        [windows] Na'nïn karpeta
+       *[other] Direktorio hua ni'nïnj ïn
+    }
