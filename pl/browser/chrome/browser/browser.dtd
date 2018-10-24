@@ -17,6 +17,8 @@
 <!ENTITY reloadAllTabs.accesskey             "w" >
 <!ENTITY duplicateTab.label "Duplikuj kartę">
 <!ENTITY duplicateTab.accesskey "D">
+<!ENTITY closeTabOptions.label "Zamknij ustawienia kart">
+<!ENTITY closeTabOptions.accesskey "Z">
 <!ENTITY closeTabsToTheEnd.label "Zamknij karty po prawej stronie">
 <!ENTITY closeTabsToTheEnd.accesskey "p">
 <!ENTITY closeOtherTabs.label                "Zamknij inne karty" >
