@@ -8,13 +8,11 @@
 <!ENTITY certmgr.tab.others2                  "Люди">
 <!ENTITY certmgr.tab.websites3                "Сервери">
 <!ENTITY certmgr.tab.ca                       "Центри сертифікації">
-<!ENTITY certmgr.tab.orphan2                  "Інші">
 
 <!ENTITY certmgr.mine2                        "У вас є сертифікати від цих організацій, що ідентифікують вас">
 <!ENTITY certmgr.others2                      "У вас є сертифікати, що ідентифікують цих людей">
 <!ENTITY certmgr.websites3                    "У вас є сертифікати, що ідентифікують ці сервери">
 <!ENTITY certmgr.cas2                         "У вас є сертифікати, що ідентифікують ці центри сертифікації">
-<!ENTITY certmgr.orphans2                     "У вас є сертифікати, що не підходять до жодної з інших категорій">
 
 <!ENTITY certmgr.detail.general_tab.title     "Основне">
 <!ENTITY certmgr.detail.general_tab.accesskey "в">
@@ -23,7 +21,7 @@
 
 <!ENTITY certmgr.pending.label                "Триває перевірка сертифіката…">
 <!ENTITY certmgr.subjectinfo.label            "Кому видано">
-<!ENTITY certmgr.issuerinfo.label             "Ким видано">
+<!ENTITY certmgr.issuerinfo.label             "Видавець">
 <!ENTITY certmgr.periodofvalidity.label       "Термін дії" >
 <!ENTITY certmgr.fingerprints.label           "Відбитки">
 <!ENTITY certmgr.certdetail.title             "Подробиці сертифіката">
@@ -38,7 +36,6 @@
 <!ENTITY certmgr.editcert.edittrust           "Змінити ступінь довіри:">
 <!ENTITY certmgr.editcert.trustssl            "Цей сертифікат може ідентифікувати сайти.">
 <!ENTITY certmgr.editcert.trustemail          "Цей сертифікат може ідентифікувати користувачів ел. пошти.">
-<!ENTITY certmgr.editcert.trustobjsign        "Цей сертифікат може ідентифікувати програмне забезпечення.">
 
 <!ENTITY certmgr.deletecert.title             "Вилучення сертифіката">
 
