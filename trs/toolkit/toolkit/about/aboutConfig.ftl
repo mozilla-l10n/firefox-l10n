@@ -38,6 +38,46 @@ config-value-column =
 
 config-pref-column-header =
     .tooltip = ga'uì' kilik da' ga'ue
+config-column-chooser =
+    .tooltip = Ga'uì' klik da' naguit nej dukuán ruhuât ni'iajt
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Guxun
+    .accesskey = C
+config-copy-name =
+    .label = Guxun si yugui ni nachrunt a'ngô hiuj u
+    .accesskey = N
+config-copy-value =
+    .label = Guxun sa du'uee ni nachrunt a'ngô hiuj u
+    .accesskey = V
+config-modify =
+    .label = Naduna da' huaj
+    .accesskey = M
+config-toggle =
+    .label = Sa dugu'nïn'
+    .accesskey = T
+config-reset =
+    .label = Nagi'iaj ñun
+    .accesskey = R
+config-new =
+    .label = Notîsia
+    .accesskey = W
+config-string =
+    .label = Sa nanikò' dugui'i
+    .accesskey = S
+config-integer =
+    .label = Hua chre' ma
+    .accesskey = I
+config-boolean =
+    .label = Boolean
+    .accesskey = B
+config-default = Sa ngà' 'na' niñaan
+config-modified = Ngà nadunaj:
+config-locked = Hua blokeadoj
+config-property-string = Sa nanikò' dugui'i
+config-property-int = Hua chre' ma
+config-property-bool = Boolean
+config-new-prompt = Gachrun si yugui huin ruhuât
