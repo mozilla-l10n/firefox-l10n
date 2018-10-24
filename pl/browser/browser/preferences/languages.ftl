@@ -48,5 +48,4 @@ browser-languages-select-language=
   .placeholder=Wybierz język do dodania…
 browser-languages-installed-label=Zainstalowane języki
 browser-languages-available-label=Dostępne języki
-browser-languages-error=
-  .value=Wystąpił błąd.
+browser-languages-error=Obecnie nie można uaktualnić listy języków. Sprawdź połączenie z Internetem lub spróbuj ponownie.
