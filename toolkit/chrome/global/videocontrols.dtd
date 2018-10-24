@@ -11,6 +11,10 @@
 <!ENTITY castingButton.castingLabel "Sendi al ekrano">
 <!ENTITY closedCaption.off "Malŝaltita">
 
+<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
+     accessibility software to clarify what the slider is for. -->
+<!ENTITY volumeScrubber.label "Regilo de laŭteco">
+
 <!ENTITY stats.media "Komunikrimedoj">
 <!ENTITY stats.size "Grandeco">
 <!ENTITY stats.activity "Aktiveco">
@@ -47,3 +51,4 @@ unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
 <!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
+

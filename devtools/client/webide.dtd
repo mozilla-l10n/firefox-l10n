@@ -41,6 +41,9 @@
 <!ENTITY runtimeMenu_showSettings_label "Agordoj de aparato">
 <!ENTITY runtimeMenu_showSettings_accesskey "a">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "Efikeco">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "E">
+
 <!ENTITY viewMenu_label "Vidi">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_zoomin_label "Grandigi">

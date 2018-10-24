@@ -53,6 +53,7 @@ pane-sync-title = Konto de Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Helpo pri { -brand-short-name }
+addons-button-label = Etendaĵoj kaj etosoj
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,9 @@ extension-controlled-homepage-override = La etendaĵo <img data-l10n-name="icon"
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = La etendaĵo <img data-l10n-name="icon"/> { $name } nuntempe regas vian paĝon por novaj langetoj.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = La etendaĵo <img data-l10n-name="icon"/>{ $name } nuntempe regas tiun ĉi agordon.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = La etendaĵo <img data-l10n-name="icon"/> { $name } difinis vian norman serĉilon.
@@ -323,10 +327,13 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Serĉi tekston kiam vi ektajpas
     .accesskey = t
+browsing-cfr-recommendations =
+    .label = Sugesti etendaĵojn dum retumo
+    .accesskey = S
+browsing-cfr-recommendations-learn-more = Pli da informo
 
 ## General Section - Proxy
 
-network-proxy-title = Retperanto
 network-settings-title = Retaj agordoj
 network-proxy-connection-description = Agordi la manieron, kiel { -brand-short-name } konektiĝas al la reto.
 network-proxy-connection-learn-more = Pli da informo
@@ -525,6 +532,7 @@ privacy-header = Retumila privateco
 ## Privacy Section - Forms
 
 forms-header = Formularoj kaj pasvortoj
+logins-header = Akreditiloj kaj pasvortoj
 forms-ask-to-save-logins =
     .label = Demandi ĉu konservi akreditilojn kaj pasvortojn por retejoj
     .accesskey = D
@@ -591,26 +599,12 @@ sitedata-total-size-calculating = Kalkulo de datuma kaj stapla grando de retejo�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Viaj konservitaj kuketoj, retejaj datumoj kaj staplo uzas nuntempe { $value } { $unit } da diska spaco.
 sitedata-learn-more = Pli da informo
-sitedata-accept-cookies-option =
-    .label = Akcepti kuketojn kaj retejajn datumon de retejoj (rekomendita)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Bloki kuketojn kaj retejajn datumojn (tio povus misfunkciigi retejojn)
-    .accesskey = B
 sitedata-keep-until = Konservi ĝis
     .accesskey = K
 sitedata-keep-until-expire =
     .label = ilia senvalidiĝo
 sitedata-keep-until-closed =
     .label = la fermo de { -brand-short-name }
-sitedata-accept-third-party-desc = Akcepti nerektajn kuketojn kaj retejajn datumojn
-    .accesskey = n
-sitedata-accept-third-party-always-option =
-    .label = Ĉiam
-sitedata-accept-third-party-visited-option =
-    .label = El vizititaj retejoj
-sitedata-accept-third-party-never-option =
-    .label = Neniam
 sitedata-allow-cookies-option =
     .label = Akcepti kuketojn kaj retejajn datumojn
     .accesskey = A
@@ -684,6 +678,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Spuriloj, kiuj ŝargiĝas malrapide
     .accesskey = m
 content-blocking-fastblock-new-description = Bloki nur spurilojn, kiuj malrapidigas la rapidan ŝargadon de paĝoj.
+content-blocking-tracking-protection-trackers-label =
+    .label = Spuriloj
+    .accesskey = S
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Ĉiujn trovitajn spurilojn
     .accesskey = t
@@ -731,10 +728,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Neniam
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Uzi protekton kontraŭ spurado dum privata retumo por bloki konatajn spurilojn
-    .accesskey = U
 tracking-exceptions =
     .label = Esceptoj…
     .accesskey = E
