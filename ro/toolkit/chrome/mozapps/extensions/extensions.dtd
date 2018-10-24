@@ -17,7 +17,7 @@
 <!ENTITY listEmpty.recentUpdates.label        "Nu ați actualizat recent niciun supliment">
 <!ENTITY listEmpty.findUpdates.label          "Caută actualizări">
 <!ENTITY listEmpty.button.label               "Află mai multe despre suplimente">
-<!ENTITY installAddonFromFile.label           "Instalează supliment dintr-un fișier…">
+<!ENTITY installAddonFromFile.label           "Instalează un supliment dintr-un fișier…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Instrumente pentru toate suplimentele">
 
