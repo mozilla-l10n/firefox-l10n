@@ -291,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; နှင့် အခြား &vendorShortName; ထုတ်ကုန်များ အသုံးပြုခြင်းအကြောင်း ပိုမိုလေ့လာပါ">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "ဖွင့်ပါ">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "စမ်းသပ်နေဆဲ လုပ်ဆောင်ချက်များ">
@@ -363,7 +368,6 @@
 <!ENTITY pref_use_system_font_size_summary "ဝတ်ဘ်မျက်နှာပြင်အား စနစ် ၏ဖောင့်အရွယ်အစားအရပြောင်းလဲမည်">
 
 <!ENTITY pref_media_autoplay_enabled "အလိုအလျောက်ပြသခြင်း ခွင့်ပြုပါ">
-<!ENTITY pref_media_autoplay_enabled_summary "ဝဘ်ဆိုဒ်များက မီဒီယာ သို့မဟုတ် ရုပ်ရှင်များကို အလိုအလျောက်ပြသခွင့်ရှိမရှိ သတ်မှတ်ပါ">
 <!ENTITY pref_media_autoplay_allow "အလိုအလျောက် ဖွင့်ခြင်းကို ခွင့်ပြုရန်">
 <!ENTITY pref_media_autoplay_block "အလိုအလျောက် ဖွင့်ခြင်းကို တားဆီးရန်">
 <!ENTITY pref_zoom_force_enabled "မြင်ကွင်းချုံ့ချဲ့ ကို အမြဲတမ်း ဖွင့်ထားရန်">
@@ -828,9 +832,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "&brandShortName; အား မဖွင့်နိုင်ပါ  ကျေးဇူးပြုပြီး ပြန်လည်တပ်ဆင်ပါ">
 
-<!ENTITY eol_notification_title2 "&brandShortName; ကို အဆင့်မြှင့်လိမ့်မည် မဟုတ်ပါ">
-<!ENTITY eol_notification_summary "ဆက်လက်လေ့လာရန် ထိပါ">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; သည် နောက်ဆုံးပေါ် ဖြစ်သည်">
@@ -904,3 +905,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; တွန်းပို့အသိပေးချက်များ">
 <!ENTITY updater_notification_channel "အက်ပ်နောက်ဆုံးရမွမ်းမံချက်">
 <!ENTITY synced_tabs_notification_channel "တစ်ပြေးညီပြုလုပ်ထားသော တပ်ဗ်များ">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "ဝဘ်ဆိုက်အသိပေးချက်များ">
