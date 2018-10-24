@@ -327,6 +327,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Caută textul când încep să tastez
     .accesskey = x
+browsing-cfr-recommendations-learn-more = Află mai multe
 
 ## General Section - Proxy
 
@@ -612,15 +613,15 @@ sitedata-disallow-cookies-option =
 sitedata-block-desc = Tipul conținutului blocat
     .accesskey = T
 sitedata-block-trackers-option-recommended =
-    .label = Urmăritori de la terți (recomandat)
+    .label = Urmăritorii de la terți (recomandat)
 sitedata-block-trackers-option =
-    .label = Urmăritori de la terți
+    .label = Urmăritorii de la terți
 sitedata-block-unvisited-option =
-    .label = Cookie-uri de la site-urile web nevizitate
+    .label = Cookie-urile de la site-urile web nevizitate
 sitedata-block-all-third-party-option =
-    .label = Toate cookie-urile de la terți (poate împiedica funcționarea site-urilor web)
+    .label = Toate cookie-urile de la terți (poate împiedica funcționarea corectă a site-urilor web)
 sitedata-block-all-option =
-    .label = Toate cookie-urile (va împiedica funcționarea site-urilor web)
+    .label = Toate cookie-urile (va împiedica funcționarea corectă a site-urilor web)
 sitedata-clear =
     .label = Șterge datele…
     .accesskey = l
@@ -707,7 +708,7 @@ content-blocking-reject-trackers-block-trackers-option =
     .label = Urmăritori
     .accesskey = k
 content-blocking-reject-trackers-all-third-parties-option =
-    .label = Toate cookie-urile de la terți (poate împiedica funcționarea site-urilor web)
+    .label = Toate cookie-urile de la terți (poate împiedica funcționarea corectă a site-urilor web)
     .accesskey = A
 
 ## Privacy Section - Tracking

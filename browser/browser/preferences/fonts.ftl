@@ -94,7 +94,7 @@ fonts-minsize = Mărimea minimă a fontului
 fonts-minsize-none =
     .label = Fără
 fonts-allow-own =
-    .label = Permite paginilor să își aleagă propriile fonturi în locul opțiunilor mele de mai sus
+    .label = Permite paginilor să își aleagă propriile fonturi, în locul opțiunilor tale de mai sus
     .accesskey = a
 
 ## Text Encodings
