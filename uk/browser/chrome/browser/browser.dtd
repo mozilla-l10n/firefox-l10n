@@ -39,8 +39,8 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Закрити інші вкладки">
 <!ENTITY  closeOtherTabs.accesskey           "З">
 
-<!ENTITY  closeSelectedTabs.label            "Закрити обрані вкладки">
-<!ENTITY  closeSelectedTabs.accesskey        "о">
+<!ENTITY  closeSelectedTabs.label            "Закрити вибрані вкладки">
+<!ENTITY  closeSelectedTabs.accesskey        "и">
 
 <!ENTITY  closeTabs.label                    "Закрити вкладки">
 <!ENTITY  closeTabs.accesskey                "к">
