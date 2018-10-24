@@ -289,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "เปิดแผงคำขอตำแหน่งที่ตั้ง">
 <!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "เปิดแผงการเล่นอัตโนมัติ">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "เปิดแผงข้อความการติดตั้งส่วนเสริม">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "จัดการการอนุญาตการส่งออกผืนผ้าใบ">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "เปิดแผงข้อความที่เก็บข้อมูลออฟไลน์">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "เปิดแผงข้อความบันทึกรหัสผ่าน">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "จัดการการใช้ปลั๊กอิน">
