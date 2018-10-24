@@ -46,5 +46,7 @@ browser-languages-downloading=
 browser-languages-select-language=
   .label=Wybierz język do dodania…
   .placeholder=Wybierz język do dodania…
+browser-languages-installed-label=Zainstalowane języki
+browser-languages-available-label=Dostępne języki
 browser-languages-error=
   .value=Wystąpił błąd.
