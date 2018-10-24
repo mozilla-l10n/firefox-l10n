@@ -6,7 +6,7 @@
 <!ENTITY pref.receipts.title          "მიღების დასტური">
 <!ENTITY prefReceipts.caption         "მიღების დასტური">
 <!ENTITY requestReceipt.label         "გაგზავნილ წერილზე მიღების დასტურის ყოველთვის მოთხოვნა">
-<!ENTITY requestReceipt.accesskey     "W">
+<!ENTITY requestReceipt.accesskey     "წ">
 <!ENTITY receiptArrive.label          "დასტურის მოსვლისას:">
 <!ENTITY leaveIt.label                "მიღებულ წერილებში დატოვება">
 <!ENTITY leaveIt.accesskey            "L">
