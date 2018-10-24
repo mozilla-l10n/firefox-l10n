@@ -37,4 +37,7 @@
 <!ENTITY calendartype.label "Jenis Kalender:">
 <!ENTITY location.label "Lokasi:">
 
+<!ENTITY network.loading.description "Mohon tunggu sembari menemukan kalender.">
+<!ENTITY network.notfound.description "Kalender tidak ditemukan di lokasi ini. Mohon periksa pengaturan Anda.">
 
+<!ENTITY network.subscribe.single.description "Pilih kalender yang ingin Anda langgani.">
