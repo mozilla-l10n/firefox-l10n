@@ -15,7 +15,7 @@
 <!ENTITY helpSafeMode.accesskey "T">
 <!ENTITY releaseCmd2.label "Väljalasketeade">
 <!ENTITY releaseCmd2.accesskey "V">
-<!ENTITY whatsNewCmd.label "Mis on uut">
+<!ENTITY whatsNewCmd.label "Uuendused">
 <!ENTITY whatsNewCmd.accesskey "M">
 <!ENTITY openHelp.label "Abi sisukord">
 <!ENTITY openHelp.accesskey "A">
