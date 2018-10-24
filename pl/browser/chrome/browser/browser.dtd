@@ -45,6 +45,8 @@
 <!ENTITY reopenInContainer.accesskey "k">
 <!ENTITY bookmarkAllTabs.label               "Dodaj zakładki do wszystkich kart…">
 <!ENTITY bookmarkAllTabs.accesskey           "k">
+<!ENTITY bookmarkTab.label "Dodaj zakładkę do karty">
+<!ENTITY bookmarkTab.accesskey "D">
 <!ENTITY bookmarkSelectedTabs.label "Dodaj zakładki do zaznaczonych kart…">
 <!ENTITY bookmarkSelectedTabs.accesskey "D">
 <!ENTITY undoCloseTab.label                  "Przywróć zamkniętą kartę">
@@ -79,6 +81,8 @@
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "O">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Dodaj zakładki do wszystkich kart…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "D">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Dodaj zakładki do zaznaczonych kart…">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "D">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Przywróć zamkniętą kartę">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "P">
 
