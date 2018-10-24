@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "Вирішення проблем">
+<!ENTITY aboutSupport.pageTitle "Інформація для вирішення проблем">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
@@ -13,7 +13,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Звіти про збої">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "ID звіту">
 <!ENTITY aboutSupport.crashes.sendDate "Надіслано">
 <!ENTITY aboutSupport.crashes.allReports "Всі звіти про збої">
@@ -36,15 +36,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureName "Назва">
 <!ENTITY aboutSupport.featureVersion "Версія">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "Експериментальні можливості">
-<!ENTITY aboutSupport.experimentName "Назва">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Опис">
-<!ENTITY aboutSupport.experimentActive "Активна">
-<!ENTITY aboutSupport.experimentEndDate "Дата завершення">
-<!ENTITY aboutSupport.experimentHomepage "Домівка">
-<!ENTITY aboutSupport.experimentBranch "Гілка">
 
 <!ENTITY aboutSupport.appBasicsTitle "Інформація про програму">
 <!ENTITY aboutSupport.appBasicsName "Назва">

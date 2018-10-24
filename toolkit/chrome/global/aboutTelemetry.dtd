@@ -2,39 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pingDataSource "
-Джерело даних пінга:
-">
-<!ENTITY aboutTelemetry.showCurrentPingData "
-Дані поточного пінга
-">
-<!ENTITY aboutTelemetry.showArchivedPingData "
-Дані архівованого пінга
-">
-<!ENTITY aboutTelemetry.showSubsessionData "
-Показувати дані підсеансу
-">
-<!ENTITY aboutTelemetry.choosePing "
-Вибрати пінг:
-">
-<!ENTITY aboutTelemetry.archivePingType "
-Тип пінгу
-">
-<!ENTITY aboutTelemetry.archivePingHeader "
-Пінг
-">
-<!ENTITY aboutTelemetry.optionGroupToday "
-Сьогодні
-">
-<!ENTITY aboutTelemetry.optionGroupYesterday "
-Вчора
-">
-<!ENTITY aboutTelemetry.optionGroupOlder "
-Раніше
-">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Корисне навантаження
-">
+<!ENTITY aboutTelemetry.pingDataSource "Джерело даних пінгу:">
+<!ENTITY aboutTelemetry.showCurrentPingData "Дані поточного пінгу">
+<!ENTITY aboutTelemetry.showArchivedPingData "Дані архівованого пінгу">
+<!ENTITY aboutTelemetry.showSubsessionData "Показувати дані підсеансу">
+<!ENTITY aboutTelemetry.choosePing "Оберіть пінг:">
+<!ENTITY aboutTelemetry.archivePingType "Тип пінгу">
+<!ENTITY aboutTelemetry.archivePingHeader "Пінг">
+<!ENTITY aboutTelemetry.optionGroupToday "Сьогодні">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Вчора">
+<!ENTITY aboutTelemetry.optionGroupOlder "Раніше">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -42,78 +19,30 @@
 <!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
 <!ENTITY aboutTelemetry.pageTitle "Данні телеметрії">
-<!ENTITY aboutTelemetry.moreInformations "
-Шукаєте додаткову інформацію?
-">
-<!ENTITY aboutTelemetry.firefoxDataDoc "
-<a>Документація даних Firefox</a> містить настанови про те, як працювати з нашими інструментами даних.
-">
-<!ENTITY aboutTelemetry.telemetryClientDoc "
-<a>Документація клієнта телеметрії Firefox</a> містить визначення для концептів, документацію API та посилання на дані.
-">
-<!ENTITY aboutTelemetry.telemetryDashboard "
-<a>Панелі огляду телеметрії</a> дозволяють вам візуалізувати дані, які Mozilla отримує через телеметрію.
-">
+<!ENTITY aboutTelemetry.moreInformations "Шукаєте додаткову інформацію?">
+<!ENTITY aboutTelemetry.firefoxDataDoc "<a>Документація даних Firefox</a> містить настанови про те, як працювати з нашими інструментами даних.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "<a>Документація клієнта телеметрії Firefox</a> містить визначення для концептів, документацію API та посилання на дані.">
+<!ENTITY aboutTelemetry.telemetryDashboard "<a>Панелі огляду телеметрії</a> дозволяють вам візуалізувати дані, які Mozilla отримує через телеметрію.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Відкрити в засобі перегляду JSON">
 
 <!ENTITY aboutTelemetry.homeSection "Домівка">
-<!ENTITY aboutTelemetry.generalDataSection "
-  Загальні дані
-">
-<!ENTITY aboutTelemetry.environmentDataSection "
-  Дані оточення
-">
-<!ENTITY aboutTelemetry.sessionInfoSection "
-  Інформація про сеанс
-">
-<!ENTITY aboutTelemetry.scalarsSection "
-  Величини
-">
-<!ENTITY aboutTelemetry.keyedScalarsSection "
-  Ключові величини
-">
-<!ENTITY aboutTelemetry.histogramsSection "
-  Гістограми
-">
-<!ENTITY aboutTelemetry.keyedHistogramsSection "
-  Гістограми з ключами
-">
-<!ENTITY aboutTelemetry.eventsSection "
-  Події
-">
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Прості вимірювання
-">
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Журнал телеметрії
-">
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Повільні SQL запити
-">
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Зависання браузера
-">
-<!ENTITY aboutTelemetry.addonDetailsSection "
-  Відомості про додатки
-">
-<!ENTITY aboutTelemetry.capturedStacksSection "
-  Захоплених стеків
-">
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Пізні записи
-">
-<!ENTITY aboutTelemetry.rawPayloadSection "
-Необроблене навантаження
-">
+<!ENTITY aboutTelemetry.generalDataSection "Загальні дані">
+<!ENTITY aboutTelemetry.environmentDataSection "Дані оточення">
+<!ENTITY aboutTelemetry.sessionInfoSection "Інформація про сеанс">
+<!ENTITY aboutTelemetry.scalarsSection "Величини">
+<!ENTITY aboutTelemetry.keyedScalarsSection "Ключові величини">
+<!ENTITY aboutTelemetry.histogramsSection "Гістограми">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "Гістограми з ключами">
+<!ENTITY aboutTelemetry.eventsSection "Події">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "Прості вимірювання">
+<!ENTITY aboutTelemetry.slowSqlSection "Повільні SQL-запити">
+<!ENTITY aboutTelemetry.addonDetailsSection "Подробиці про додатки">
+<!ENTITY aboutTelemetry.capturedStacksSection "Захоплені стеки">
+<!ENTITY aboutTelemetry.lateWritesSection "Пізні записи">
+<!ENTITY aboutTelemetry.rawPayloadSection "Необроблене навантаження">
 <!ENTITY aboutTelemetry.raw "Необроблений JSON">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  Нотатка: Увімкнено повільний режим зневадження SQL. Внизу можуть бути показані повні рядки SQL, але в телеметрію вони відправлені не будуть.
-">
-<!ENTITY aboutTelemetry.fetchStackSymbols "
-  Отримати імена функцій для стеків
-">
-<!ENTITY aboutTelemetry.hideStackSymbols "
-  Показати необроблені дані стеку
-">
+<!ENTITY aboutTelemetry.fullSqlWarning "ПРИМІТКА: Увімкнено повільний режим зневадження SQL. Внизу можуть бути показані повні рядки SQL, але в телеметрію вони відправлені не будуть.">
+<!ENTITY aboutTelemetry.fetchStackSymbols "Отримати назви функцій для стеків">
+<!ENTITY aboutTelemetry.hideStackSymbols "Показати необроблені дані стеку">
