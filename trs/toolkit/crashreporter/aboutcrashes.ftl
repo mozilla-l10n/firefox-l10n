@@ -4,6 +4,7 @@
 
 crash-reports-title = Sa nata' rayi'î nej sa gire'e
 clear-all-reports-label = Guyun daran reporte
+delete-button-label = Na'nïn' daran'anj
 delete-confirm-title = ¿ Hua nika rua raj?
 delete-confirm-description = Sa gi'iat na ni dure'ej daran sa nga ga'nin ni si ga'ue narit ma.
 crashes-unsubmitted-label = Nga ga'anj sa nata' rayi'i sa gire'e

@@ -81,3 +81,11 @@ config-property-string = Sa nanikò' dugui'i
 config-property-int = Hua chre' ma
 config-property-bool = Boolean
 config-new-prompt = Gachrun si yugui huin ruhuât
+config-nan-title = Nitaj si ni'ñanj man
+config-nan-text = Sê nûmero huin nuguan' gachrûnt
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Sa du'ue { $type } nakàa
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Gachrun { $type } sa du'uee
