@@ -16,12 +16,12 @@ policy-BlockAboutConfig = ปิดกั้นการเข้าถึงห
 policy-BlockAboutProfiles = ปิดกั้นการเข้าถึงหน้า about:profiles
 policy-BlockAboutSupport = ปิดกั้นการเข้าถึงหน้า about:support
 policy-Cookies = ยอมรับหรือปฏิเสธเว็บไซต์ให้ตั้งค่าคุกกี้
-policy-DisableAppUpdate = ป้องกันเบราว์เซอร์จากการอัปเดต
+policy-DisableAppUpdate = ป้องกันไม่ให้เบราว์เซอร์อัปเดต
 policy-DisableBuiltinPDFViewer = ปิดใช้งาน PDF.js ตัวดู PDF ในตัวใน { -brand-short-name }
 policy-DisableDeveloperTools = ปิดกั้นการเข้าถึงเครื่องมือนักพัฒนา
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = ปิดใช้งานคุณลักษณะ Firefox Screenshots
-policy-DisableFirefoxStudies = ป้องกัน { -brand-short-name } จากการเรียกใช้การศึกษา
+policy-DisableFirefoxStudies = ป้องกันไม่ให้ { -brand-short-name } เรียกใช้การศึกษา
 policy-DisableForgetButton = ป้องกันการเข้าถึงปุ่ม ลืม
 policy-DisableFormHistory = ไม่จดจำประวัติการค้นหาและแบบฟอร์ม
 policy-DisablePocket = ปิดใช้งานคุณลักษณะในการบันทึกหน้าเว็บไปยัง Pocket
