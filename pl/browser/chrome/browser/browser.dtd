@@ -39,6 +39,14 @@
 <!ENTITY sendPageToDevice.accesskey "P">
 <!ENTITY sendLinkToDevice.label "Prześlij odnośnik do">
 <!ENTITY sendLinkToDevice.accesskey "P">
+<!ENTITY moveTabOptions.label "Przenieś kartę">
+<!ENTITY moveTabOptions.accesskey "P">
+<!ENTITY moveSelectedTabOptions.label "Przenieś karty">
+<!ENTITY moveSelectedTabOptions.accesskey "k">
+<!ENTITY moveToStart.label "Przenieś na początek">
+<!ENTITY moveToStart.accesskey "P">
+<!ENTITY moveToEnd.label "Przenieś na koniec">
+<!ENTITY moveToEnd.accesskey "k">
 <!ENTITY sendToDeviceFeedback.label "Przesłano!">
 <!ENTITY sendToDeviceOfflineFeedback.label "W kolejce (tryb offline)">
 <!ENTITY moveToNewWindow.label "Przenieś do nowego okna">
