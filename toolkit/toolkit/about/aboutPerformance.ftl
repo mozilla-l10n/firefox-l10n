@@ -21,9 +21,11 @@ preloaded-tab = Préchargé : { $title }
 ## Values for the Type column
 
 type-tab = Onglet
+type-subframe = Subframe
 type-tracker = Traqueur
 type-addon = Module
 type-browser = Navigateur
+type-worker = Worker
 type-other = Autre
 
 ## Values for the Energy Impact column
@@ -42,3 +44,13 @@ close-tab =
     .title = Fermer l’onglet
 show-addon =
     .title = Afficher dans le gestionnaire des modules complémentaires
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        Rapports depuis le chargement : { $totalDispatches } ({ $totalDuration }ms)
+        Rapports au cours des dernières secondes : { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)

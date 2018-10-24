@@ -1028,6 +1028,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection.add.label "Ajouter un blocage…">
 
 <!ENTITY contentBlocking.3rdPartyCookies.label "Cookies tiers">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Cookies utilisés pour le pistage">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
