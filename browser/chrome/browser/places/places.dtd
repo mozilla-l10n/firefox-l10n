@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
-<!ENTITY places.library.title  "Архів">
+<!ENTITY places.library.title  "Бібліотека">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Керування">
@@ -16,7 +16,7 @@
 <!ENTITY views.label                    "Вигляд">
 <!ENTITY views.accesskey                "В">
 <!ENTITY views.tooltip                  "Зміна вигляду">
-<!ENTITY view.columns.label             "Показати колонки">
+<!ENTITY view.columns.label             "Показати стовпчики">
 <!ENTITY view.columns.accesskey         "к">
 <!ENTITY view.sort.label                "Впорядкувати">
 <!ENTITY view.sort.accesskey            "п">
@@ -73,15 +73,11 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Оновити живу закладку">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "О">
 
-<!ENTITY cmd.moveBookmarks.label                  "Перенести…">
-<!ENTITY cmd.moveBookmarks.accesskey              "П">
-
 <!ENTITY col.name.label          "Назва">
 <!ENTITY col.tags.label          "Мітки">
 <!ENTITY col.url.label           "Адреса">
 <!ENTITY col.mostrecentvisit.label "Останнє відвідування">
 <!ENTITY col.visitcount.label    "Відвідувань">
-<!ENTITY col.description.label   "Опис">
 <!ENTITY col.dateadded.label     "Додано">
 <!ENTITY col.lastmodified.label  "Остання зміна">
 
@@ -98,10 +94,6 @@
 
 <!ENTITY forwardButton.tooltip  "Перейти вперед">
 
-<!ENTITY detailsPane.more.label "Більше">
-<!ENTITY detailsPane.more.accesskey "Б">
-<!ENTITY detailsPane.less.label "Менше">
-<!ENTITY detailsPane.less.accesskey "М">
 <!ENTITY detailsPane.selectAnItemText.description "Додати елемент до перегляду та редагувати його властивості">
 
 <!ENTITY view.label               "Перегляд">
