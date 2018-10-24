@@ -52,3 +52,4 @@ browser-languages-select-language =
     .placeholder = زبان شامل کرنے کے لئے منتخب کریں...
 browser-languages-installed-label = تنصیب زبانیں
 browser-languages-available-label = دستیاب زبانیں
+browser-languages-error = { -brand-short-name } آپکے زبانیں اس وقت تازہ نہیں کر سکتا۔ جانچ پڑتال کریں کہ آپ انٹرنیٹ سے جڑے ہوئے ہیں یا دوبارہ کوشش کریں۔

@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = استثنیات - سراغ کاری سے حفاظت
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = آپ نے ان ویب سائٹس پر ٹریکنگ کے تحفظ کو غیر فعال کردیا ہے۔
+permissions-exceptions-content-blocking-window =
+    .title = استثنیات - مواد روکنا
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = آپنے مواد روکنا غیر فعال کر دی ہے  ان ویبسیٹس کے لئے۔
 
 ## Exceptions - Cookies
 
