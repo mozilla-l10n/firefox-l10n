@@ -2,13 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-cfr-doorhanger-extension-heading = სასურველი გაფართოება
+cfr-doorhanger-extension-heading = შემოთავაზებული გაფართოება
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = რატომ ვხედავ ამას
 cfr-doorhanger-extension-cancel-button = ახლა არა
     .accesskey = რ
 cfr-doorhanger-extension-ok-button = დამატება ახლავე
     .accesskey = ხ
+cfr-doorhanger-extension-manage-settings-button = შემოთავაზებების პარამეტრების მართვა
+    .accesskey = შ
+cfr-doorhanger-extension-never-show-recommendation = ამ შემოთავაზების ჩვენების შეწყვეტა
+    .accesskey = წ
 cfr-doorhanger-extension-learn-more-link = იხილეთ ვრცლად
 # This string is used on a new line below the add-on name
 # Variables:
@@ -16,7 +20,7 @@ cfr-doorhanger-extension-learn-more-link = იხილეთ ვრცლად
 cfr-doorhanger-extension-author = შემქმნელი: { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
-cfr-doorhanger-extension-notification = რჩევა
+cfr-doorhanger-extension-notification = შემოთავაზება
 
 ## Add-on statistics
 ## These strings are used to display the total number of
