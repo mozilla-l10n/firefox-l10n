@@ -106,6 +106,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "Upravitelj zadataka">
 
 <!ENTITY goOfflineCmd.label "Izvanmrežni rad">
 <!ENTITY goOfflineCmd.accesskey "v">
@@ -150,6 +151,8 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Informacije o stranici">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Debugger rasporeda">
+<!ENTITY ldbCmd.accesskey "r">
 <!ENTITY mirrorTabCmd.label "Odrazi karticu">
 <!ENTITY mirrorTabCmd.accesskey "O">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -226,13 +229,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži više zabilješki">
 
 <!ENTITY backCmd.label                "Natrag">
+<!ENTITY backCmd.accesskey            "N">
 <!ENTITY backButton.tooltip           "Natrag za jednu stranicu">
 <!ENTITY forwardCmd.label             "Naprijed">
+<!ENTITY forwardCmd.accesskey         "a">
 <!ENTITY forwardButton.tooltip        "Naprijed za jednu stranicu">
 <!ENTITY backForwardButtonMenu.tooltip "Za prikaz povijesti pritisnite desnu tipku miša, ili pritisnite lijevu i povucite prema dolje">
 <!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
 <!ENTITY reloadCmd.label              "Osvježi">
+<!ENTITY reloadCmd.accesskey          "O">
 <!ENTITY stopCmd.label                "Zaustavi">
+<!ENTITY stopCmd.accesskey            "s">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Idi na adresu iz lokacijske trake">
 <!ENTITY printButton.label            "Ispis">
@@ -576,6 +583,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "Postavi kao podlogu radne površine...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Zabilježi ovu stranicu">
+<!ENTITY bookmarkPageCmd2.accesskey   "Z">
 <!ENTITY bookmarkThisLinkCmd.label      "Zabilježi ovu poveznicu">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Zabilježi ovaj okvir">
