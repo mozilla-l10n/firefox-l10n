@@ -9,6 +9,7 @@
 <!ENTITY  preferencesCloseButton.accesskey "Z">
 
 <!ENTITY  prefWindow.titleWin     "Možnosti">
+<!ENTITY  prefWindow.titleGNOME   "Možnosti aplikácie &brandShortName;">
 <!ENTITY  prefWindow.titleMAC     "Možnosti">
 
 <!ENTITY paneGeneral.title        "Všeobecné">
@@ -22,6 +23,7 @@
 <!ENTITY paneAdvanced.title       "Spresnenie">
 <!ENTITY paneAccount.title        "Účty">
 
+<!ENTITY addonsButton.label       "Rozšírenia a témy vzhľadu">
 
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">
