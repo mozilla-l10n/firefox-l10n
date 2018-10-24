@@ -15,14 +15,14 @@
 <!ENTITY deleteButton.accesskey "t">
 <!ENTITY reorderTopButton "Mută în partea de sus">
 <!ENTITY reorderTopButton.accessKey "s">
-<!ENTITY reorderTopButton.toolTip "Rearrange filter so it executes before all others">
+<!ENTITY reorderTopButton.toolTip "Reordonează filtrul ca să fie executat înaintea tuturor celorlalte">
 <!ENTITY reorderUpButton.label "Mută sus">
 <!ENTITY reorderUpButton.accesskey "s">
 <!ENTITY reorderDownButton.label "Mută jos">
 <!ENTITY reorderDownButton.accesskey "j">
 <!ENTITY reorderBottomButton "Mută în partea de jos">
 <!ENTITY reorderBottomButton.accessKey "j">
-<!ENTITY reorderBottomButton.toolTip "Rearrange filter so it executes after all others">
+<!ENTITY reorderBottomButton.toolTip "Reordonează filtrul ca să fie executat după toate celelalte">
 <!ENTITY filterHeader.label "Filtrele active vor fi rulate automat în ordinea de mai jos.">
 <!ENTITY filtersForPrefix.label "Filtre pentru:">
 <!ENTITY filtersForPrefix.accesskey "F">
