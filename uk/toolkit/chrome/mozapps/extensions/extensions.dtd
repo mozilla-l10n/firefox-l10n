@@ -12,12 +12,12 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Завантаження…">
-<!ENTITY listEmpty.installed.label            "У вас не встановлено жодного додатку цього типу">
+<!ENTITY listEmpty.installed.label            "У вас не встановлено жодного додатка цього типу">
 <!ENTITY listEmpty.availableUpdates.label     "Оновлень не знайдено">
 <!ENTITY listEmpty.recentUpdates.label        "Ви не оновлювали додатків останнім часом.">
 <!ENTITY listEmpty.findUpdates.label          "Перевірити оновлення">
 <!ENTITY listEmpty.button.label               "Дізнайтесь більше про додатки">
-<!ENTITY installAddonFromFile.label           "Встановити додаток з файла…">
+<!ENTITY installAddonFromFile.label           "Встановити додаток з файлу…">
 <!ENTITY installAddonFromFile.accesskey       "В">
 <!ENTITY toolsMenu.tooltip                    "Інструменти для всіх додатків">
 

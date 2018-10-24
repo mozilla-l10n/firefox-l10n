@@ -5,7 +5,7 @@
 crash-reports-title = Звіти про збої
 clear-all-reports-label = Вилучити всі звіти
 delete-button-label = Очистити все
-delete-confirm-title = Ви певні?
+delete-confirm-title = Ви впевнені?
 delete-confirm-description = Ця дія знищить назавжди всі ваші звіти про аварії
 delete-unsubmitted-description = Ця дія видалить усі не відправлені звіти про збої. Це неможливо скасувати.
 delete-submitted-description = Ця дія вилучить список відправлених звітів про збої, але не вплине на відправлені дані. Це неможливо скасувати.
