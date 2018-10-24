@@ -22,7 +22,7 @@ policy-DisableDeveloperTools = ปิดกั้นการเข้าถึ�
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = ปิดใช้งานคุณลักษณะ Firefox Screenshots
 policy-DisableFirefoxStudies = ป้องกันไม่ให้ { -brand-short-name } เรียกใช้การศึกษา
-policy-DisableForgetButton = ป้องกันการเข้าถึงปุ่ม ลืม
+policy-DisableForgetButton = ป้องกันไม่ให้เข้าถึงปุ่ม ลืม
 policy-DisableFormHistory = ไม่จดจำประวัติการค้นหาและแบบฟอร์ม
 policy-DisablePocket = ปิดใช้งานคุณลักษณะในการบันทึกหน้าเว็บไปยัง Pocket
 policy-DisablePrivateBrowsing = ปิดใช้งานการท่องเว็บแบบส่วนตัว
