@@ -13,6 +13,8 @@
 <!ENTITY reloadTab.accesskey                 "d" >
 <!ENTITY reloadSelectedTabs.label "Odśwież zaznaczone karty">
 <!ENTITY reloadSelectedTabs.accesskey "d">
+<!ENTITY reloadTabs.label "Odśwież karty">
+<!ENTITY reloadTabs.accesskey "O">
 <!ENTITY reloadAllTabs.label                 "Odśwież wszystkie karty" >
 <!ENTITY reloadAllTabs.accesskey             "w" >
 <!ENTITY duplicateTab.label "Duplikuj kartę">
@@ -25,6 +27,8 @@
 <!ENTITY closeOtherTabs.accesskey            "i" >
 <!ENTITY closeSelectedTabs.label "Zamknij zaznaczone karty">
 <!ENTITY closeSelectedTabs.accesskey "Z">
+<!ENTITY closeTabs.label "Zamknij karty">
+<!ENTITY closeTabs.accesskey "Z">
 <!ENTITY pinSelectedTabs.label "Przypnij karty">
 <!ENTITY pinSelectedTabs.accesskey "k">
 <!ENTITY unpinSelectedTabs.label "Odepnij karty">
