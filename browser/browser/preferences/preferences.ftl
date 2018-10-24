@@ -312,6 +312,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = ค้นหาข้อความเมื่อคุณเริ่มพิมพ์
     .accesskey = ว
+browsing-cfr-recommendations =
+    .label = แนะนำส่วนขยายขณะที่คุณท่องเว็บ
+    .accesskey = น
 browsing-cfr-recommendations-learn-more = เรียนรู้เพิ่มเติม
 
 ## General Section - Proxy
@@ -655,6 +658,7 @@ content-blocking-category-label = เลือกสิ่งที่จะป�
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = ตัวติดตามที่โหลดช้า
     .accesskey = ด
+content-blocking-fastblock-new-description = ปิดกั้นแค่ตัวติดตามที่ทำให้หน้าไม่สามารถโหลดได้อย่างรวดเร็ว
 content-blocking-tracking-protection-trackers-label =
     .label = ตัวติดตาม
     .accesskey = ต
