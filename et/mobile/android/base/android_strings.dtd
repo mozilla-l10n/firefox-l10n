@@ -281,7 +281,7 @@
 <!ENTITY pref_tracking_protection_enabled_pb "lubatud privaatse veebilehitsemise ajal">
 <!ENTITY pref_tracking_protection_disabled "keelatud">
 
-<!ENTITY pref_whats_new_notification "Mis on uut &brandShortName;is?">
+<!ENTITY pref_whats_new_notification "Vaata, mida uut &brandShortName; pakub">
 <!ENTITY pref_whats_new_notification_summary "uuendamisjärgsed teavitused uue funktsionaalsuse kohta">
 
 <!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
@@ -290,6 +290,10 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "rohkem teavet &brandShortName;i ja teiste &vendorShortName; toodete kasutamise kohta">
+
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -362,7 +366,6 @@
 <!ENTITY pref_use_system_font_size_summary "Veebisisu skaleeritakse vastavalt süsteemi fondi suurusele">
 
 <!ENTITY pref_media_autoplay_enabled "Automaatne esitamine">
-<!ENTITY pref_media_autoplay_enabled_summary "kas veebilehed tohivad videoid ja muud meediat automaatselt esitada?">
 <!ENTITY pref_media_autoplay_allow "Luba automaatne esitamine">
 <!ENTITY pref_media_autoplay_block "Bloki automaatne esitamine">
 <!ENTITY pref_zoom_force_enabled "Suurendamine lubatakse alati">
@@ -830,13 +833,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "&brandShortName;i avamine pole võimalik. Palun paigalda ja proovi uuesti.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; ei saa rohkem uuendusi">
-<!ENTITY eol_notification_summary "Rohkema teabe saamiseks puuduta">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName;i on uuendatud">
-<!ENTITY whatsnew_notification_summary "Vaata, mis on uut selles versioonis">
+<!ENTITY whatsnew_notification_summary "Vaata uuendusi selles versioonis">
 
 <!ENTITY promotion_add_page_shortcut "Lisa otsetee lehele">
 
@@ -906,3 +906,5 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName;i teavitused">
 <!ENTITY updater_notification_channel "Rakenduse uuendused">
 <!ENTITY synced_tabs_notification_channel "Sünkroniseeritud kaardid">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
