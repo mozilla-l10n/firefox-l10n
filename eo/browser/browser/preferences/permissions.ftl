@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Esceptoj - Protekto kontraŭ spurado
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Vi malaktivigis la protekton kontraŭ spurado en tiuj ĉi retejoj.
+permissions-exceptions-content-blocking-window =
+    .title = Esceptoj - Blokado de enhavo
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Vi malaktvigis la blokadon de enhavo por tiuj ĉi retejoj.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Vi povas difini, kiuj retejoj havos la perm
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Permesitaj retejoj - aŭtomata ludado
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Vi povas difini kiujn retejojn rajtas aŭtomate ludi aŭdvidaĵojn. Entajpu la ekzaktan adreson de retejo, kiun vi volas rajtigi kaj sekve alklaku “permesi”.
 permissions-exceptions-autoplay-media-window2 =
     .title = Esceptoj - Aŭtomata ludado
     .style = { permissions-window.style }
