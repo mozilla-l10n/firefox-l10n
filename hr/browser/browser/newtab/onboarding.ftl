@@ -5,6 +5,7 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-welcome-header = Dobro došli u { -brand-short-name }
 onboarding-start-browsing-button-label = Započni pregledavanje
 
 ## These strings belong to the individual onboarding messages.
@@ -18,3 +19,4 @@ onboarding-private-browsing-title = Privatno pretraživanje
 onboarding-screenshots-title = Snimke ekrana
 onboarding-screenshots-text = Snimite, spremite i dijelite snimke ekrana - bez napuštanja { -brand-short-name }a. Snimite dio ili cijelu stranicu dok pretražujete. Onda spremite na internet za brzi pristup i dijeljenje.
 onboarding-addons-title = Dodaci
+onboarding-ghostery-title = Ghostery
