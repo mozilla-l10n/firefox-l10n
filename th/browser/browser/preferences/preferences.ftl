@@ -84,6 +84,9 @@ extension-controlled-homepage-override = ส่วนขยาย <img data-l10n
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = ส่วนขยาย <img data-l10n-name="icon"/> { $name } กำลังควบคุมหน้าแท็บใหม่ของคุณ
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = ส่วนขยาย <img data-l10n-name="icon"/> { $name } กำลังควบคุมการตั้งค่านี้
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = ส่วนขยาย <img data-l10n-name="icon"/> { $name } ได้ตั้งเครื่องมือค้นหาเริ่มต้นของคุณ
