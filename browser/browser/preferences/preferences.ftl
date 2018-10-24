@@ -757,7 +757,7 @@ permissions-addon-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = ข
 permissions-a11y-privacy-checkbox =
-    .label = ป้องกันบริการการช่วยการเข้าถึงจากการเข้าถึงเบราว์เซอร์ของคุณ
+    .label = ป้องกันไม่ให้บริการการช่วยการเข้าถึงเข้าถึงเบราว์เซอร์ของคุณ
     .accesskey = อ
 permissions-a11y-privacy-link = เรียนรู้เพิ่มเติม
 
