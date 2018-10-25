@@ -23,6 +23,13 @@ install-addon-from-file =
     .accesskey = I
 tools-menu =
     .tooltiptext = සියළු ඇඩෝන සඳහා මෙවලම්
+show-unsigned-extensions-button =
+    .label = ඇතැම් දිගු තහවුරු කළ නොහැක
+show-all-extensions-button =
+    .label = සියළු දිගු පෙන්වන්න
+debug-addons =
+    .label = ඇඩෝන දෝශ නිරාකරණය
+    .accesskey = B
 cmd-show-details =
     .label = තවත් තොරතුරු පෙන්වන්න
     .accesskey = S
@@ -109,3 +116,8 @@ detail-rating =
     .value = ඇගැයුම (Rating)
 addon-restart-now =
     .label = දැන් ප්‍රත්‍යාරම්භ (Restart) කරන්න
+disabled-unsigned-heading =
+    .value = ඇතැම් ඇඩෝන අක්‍රීය කර ඇත
+disabled-unsigned-description = පහත ඇඩෝන { -brand-short-name } හි භාවිතයට තහවුරු කර නොමැත. ඔබට හැක්කේ <label data-l10n-name="find-addons">ප්‍රතිස්ථාපනයන් සොයන්න</label> හෝ තහවුරු කිරීම සඳහා සංවර්දකයාගෙන් විමසන්න.
+disabled-unsigned-learn-more = ඔබව මාර්ගගතව ආරක්ෂිතව තැබීම සඳහා අපගේ උත්සාහයන් පිළිබඳ දැනගන්න.
+disabled-unsigned-devinfo = මෙය කියවීම මගින් තම ඇඩෝන තහවුරු කරගැනීමට කැමති සංවර්ධකයන් ඉදිරියට යන්න <label data-l10n-name="learn-more">ශ්‍රමික</label>.
