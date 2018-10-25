@@ -2,9 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+addons-window =
+    .title = 부가 기능 관리자
 search-header =
     .placeholder = addons.mozilla.org 검색
     .searchbuttonlabel = 검색
+search-header-shortcut =
+    .key = f
 loading-label =
     .value = 읽는 중…
 list-empty-installed =
@@ -109,6 +113,8 @@ detail-show-preferences =
             [windows] 부가 기능 설정 변경
            *[other] 부가 기능 환경 설정 변경
         }
+detail-rating =
+    .value = 평가
 addon-restart-now =
     .label = 다시 시작
 disabled-unsigned-heading =
