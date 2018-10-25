@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Управление дополнениями
+search-header =
+    .placeholder = Поиск на addons.mozilla.org
+    .searchbuttonlabel = Поиск
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Установить дополнение из файла…
     .accesskey = а
+help-button = Поддержка дополнений
+preferences =
+    { PLATFORM() ->
+        [windows] Настройки { -brand-short-name }
+       *[other] Настройки { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Инструменты для всех дополнений
 show-unsigned-extensions-button =
@@ -117,3 +126,7 @@ disabled-unsigned-description = Работа следующих дополнен
 disabled-unsigned-learn-more = Узнайте больше о наших усилиях по обеспечению вашей безопасности в Интернете.
 disabled-unsigned-devinfo = Разработчики, заинтересованные в проверке своих дополнений, могут прочесть наше <label data-l10n-name="learn-more">руководство</label>.
 plugin-deprecation-description = Что-то отсутствует? { -brand-short-name } больше не поддерживает некоторые плагины. <label data-l10n-name="learn-more">Подробнее.</label>
+legacy-warning-show-legacy = Показать устаревшие расширения
+legacy-extensions =
+    .value = Устаревшие расширения
+legacy-extensions-description = Эти расширения не соответствуют текущим стандартам { -brand-short-name }, поэтому они были отключены. <label data-l10n-name="legacy-learn-more">Узнайте об изменениях в дополнениях</label>
