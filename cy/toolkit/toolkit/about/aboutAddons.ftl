@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Rheolwr Ychwanegion
+search-header =
+    .placeholder = Search addons.mozilla.org
+    .searchbuttonlabel = Chwilio
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Gosod Ychwanegyn o Ffeil…
     .accesskey = G
+help-button = Cefnogaeth Ychwanegion
+preferences =
+    { PLATFORM() ->
+        [windows] Dewisiadau { -brand-short-name }
+       *[other] Dewisiadau { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Offer ar gyfer pob ychwanegyn
 show-unsigned-extensions-button =
