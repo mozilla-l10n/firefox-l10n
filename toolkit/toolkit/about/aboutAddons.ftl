@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Priedų tvarkytuvė
+search-header =
+    .placeholder = Ieškoti per addons.mozilla.org
+    .searchbuttonlabel = Paieška
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Įdiegti priedą iš failo…
     .accesskey = d
+help-button = Priedų pagalba
+preferences =
+    { PLATFORM() ->
+        [windows] „{ -brand-short-name }“ nuostatos
+       *[other] „{ -brand-short-name }“ nuostatos
+    }
 tools-menu =
     .tooltiptext = Visiems priedams taikomos priemonės
 show-unsigned-extensions-button =
