@@ -117,7 +117,9 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = Desactiváronse dellos complementos
 disabled-unsigned-description = Nun se verificaron los complementos de darréu pa usase en { -brand-short-name }. Pues <label data-l10n-name="find-addons">alcontrar troqueos</label> o entrugar al desendolcador pa que los verifique.
+disabled-unsigned-learn-more = Deprendi más tocante a los nuesos esfuercios p'ayudar a caltenete seguru en llinia.
 disabled-unsigned-devinfo = Los desendolcadores interesaos en tener los complementos verificaos puen siguir lleendo'l nuesu <label data-l10n-name="learn-more">manual</label>.
+plugin-deprecation-description = ¿Fáltate daqué? Dalgunos complementos yá nun tienen sofitu de { -brand-short-name }. <label data-l10n-name="learn-more">Deprendi más</label>
 legacy-warning-show-legacy = Amosar estensiones heredaes
 legacy-extensions =
     .value = Estensiones heredaes
