@@ -23,6 +23,8 @@ install-addon-from-file =
     .accesskey = Y
 tools-menu =
     .tooltiptext = Ark foar alle add-ons
+show-unsigned-extensions-button =
+    .label = Guon útwreidingen koene net ferifiearre wurde
 show-all-extensions-button =
     .label = Alle útwreidingen toane
 debug-addons =
@@ -110,7 +112,17 @@ detail-show-preferences =
             [windows] Opsjes fan dizze add-ons wizigje
            *[other] Foarkarren fan dizze add-ons wizigje
         }
+detail-rating =
+    .value = Wurdearring:
+addon-restart-now =
+    .label = No opnij starte
 disabled-unsigned-heading =
     .value = Guon add-ons binne útskeakele
 disabled-unsigned-description = De folgjende add-ons binne net ferifiearre foar gebrûk yn { -brand-short-name }. Jo kinne <label data-l10n-name="find-addons">nei ferfangingen sykje</label> of de ûntwikkeler freegje dizze ferifiearje te litten.
+disabled-unsigned-learn-more = Mear ynfo oer ús besykjen om jo online feilich te hâlden.
 disabled-unsigned-devinfo = Untwikkelers dy't ynteresse hawwe yn it ferifiearjen litten fan harren add-ons kinne fierdergean troch ús <label data-l10n-name="learn-more">hantlieding</label> te lêzen.
+plugin-deprecation-description = Misse jo wat? Guon ynstekkers wurde net langer stipe troch { -brand-short-name }. <label data-l10n-name="learn-more">Mear ynfo.</label>
+legacy-warning-show-legacy = Ferâldere útwreidingen toane
+legacy-extensions =
+    .value = Ferâldere útwreidingen
+legacy-extensions-description = Dizze útwreidingen foldogge op dit stuit net oan de { -brand-short-name }-standerts binne dêrom de-aktivearre. <label data-l10n-name="legacy-learn-more">Lear mear oer de wizigingen oan add-ons</label>
