@@ -115,4 +115,5 @@ disabled-unsigned-heading =
     .value = Kijuko med-ikome mogo woko
 disabled-unsigned-description = Med-ikome magi pe kimoko ada gi me tic i { -brand-short-name }. Itwero <label data-l10n-name="find-addons">nong lale kakagi</label> onyo peny layub wek omoko ada gi.
 disabled-unsigned-learn-more = Nong ngec mapol ikom tute wa me gwoki ma ber i wiyamo.
+disabled-unsigned-devinfo = Luyub ma mito moko ada pa med-ikome gi twero mede ki kwano <label data-l10n-name="learn-more">ki cing</label>.
 plugin-deprecation-description = Gino mo orem? { -brand-short-name } pe dong cwako larwak mogo. <label data-l10n-name="learn-more">Nong ngec mapol.</label>
