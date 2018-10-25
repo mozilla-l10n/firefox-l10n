@@ -61,6 +61,13 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = Contribute to the development of this add-on
 discover-title = What are Add-ons?
+discover-description =
+    Add-ons are applications that let you personalise { -brand-short-name } with
+    extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make { -brand-short-name }
+    your own.
+discover-footer =
+    When you're connected to the internet, this pane will feature
+    some of the best and most popular add-ons for you to try out.
 detail-version =
     .label = Version
 detail-last-updated =
@@ -85,6 +92,10 @@ detail-repository =
     .label = Add-on Profile
 detail-repository-value =
     .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = Check for Updates
+    .accesskey = f
+    .tooltiptext = Check for updates for this add-on
 detail-show-preferences =
     .label =
         { PLATFORM() ->
