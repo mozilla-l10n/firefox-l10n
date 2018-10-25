@@ -61,6 +61,7 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = Contribuer au développement de ce module complémentaire
 discover-title = Que sont les modules complémentaires ?
+discover-description = Les modules complémentaires sont des applications permettant de personnaliser { -brand-short-name } avec des fonctionnalités ou des styles supplémentaires. Gagnez du temps avec un panneau latéral, surveillez la météo ou changez l’apparence de { -brand-short-name } à votre guise.
 discover-footer =
     Lorsque votre connexion Internet sera active, ce panneau vous permettra de découvrir
     certains des meilleurs modules complémentaires ainsi que les plus populaires.
@@ -118,3 +119,7 @@ disabled-unsigned-description = Les modules complémentaires suivants n’ont pa
 disabled-unsigned-learn-more = En savoir plus sur nos efforts pour vous apporter plus de sécurité en ligne.
 disabled-unsigned-devinfo = Les développeurs souhaitant faire vérifier leurs modules complémentaires peuvent obtenir davantage d’informations en lisant notre <label data-l10n-name="learn-more">manuel</label>.
 plugin-deprecation-description = Quelque chose semble manquer ? Certains plugins ne sont plus pris en charge par { -brand-short-name }. <label data-l10n-name="learn-more">En savoir plus.</label>
+legacy-warning-show-legacy = Afficher les extensions obsolètes
+legacy-extensions =
+    .value = Extensions obsolètes
+legacy-extensions-description = Ces extensions ne répondent pas aux exigences actuelles de { -brand-short-name }. Elles ont été désactivées. <label data-l10n-name="legacy-learn-more">En savoir plus sur les changements apportés aux modules</label>
