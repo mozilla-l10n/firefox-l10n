@@ -24,6 +24,13 @@ install-addon-from-file =
     .accesskey = I
 tools-menu =
     .tooltiptext = Angæsi pe tutti i conponenti azonti
+show-unsigned-extensions-button =
+    .label = No ò posciuo verificâ quarche estenscion
+show-all-extensions-button =
+    .label = Amia tutte e estenscioin
+debug-addons =
+    .label = Debug di Conponenti azonti
+    .accesskey = B
 cmd-show-details =
     .label = Fanni vedde ciù informaçioin
     .accesskey = F
@@ -115,3 +122,4 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Sti conponenti no en verificæ pe deuviali in { -brand-short-name }. L'é poscibile <label data-l10n-name="find-addons">çercâ de alternative</label> ò domandâ a-o svilupatô de fali verificâ.
 disabled-unsigned-learn-more = Descovri atre informaçoin in sciô nòstro inpegno pe garantî a seguessa di utenti in linia.
 disabled-unsigned-devinfo = I svilupatoî interesæ a-o processo de verifica di conponenti azonti peuan amiâ o segoente <label data-l10n-name="learn-more">manuâ</label>.
+plugin-deprecation-description = Te manca quarcösa? Quarche plugin o no l'é ciù soportou da { -brand-short-name }. <label data-l10n-name="learn-more">Ciù informaçioin.</label>
