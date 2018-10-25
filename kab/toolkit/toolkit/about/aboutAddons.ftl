@@ -115,3 +115,4 @@ plugin-deprecation-description = Tettut kra? Kra nizegrar ur ttwasefranken ara t
 legacy-warning-show-legacy = Sken akk iseɣzaf iqburen
 legacy-extensions =
     .value = Iseγzaf iqburen
+legacy-extensions-description = Iseγzaf-agi ur sεin ara ilugan n { -brand-short-name } imiranen γef aya ittwasensen. <label data-l10n-name="legacy-learn-more">Issin ugar ɣef usnifel ɣer izegrar</label>
