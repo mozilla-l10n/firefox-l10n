@@ -27,11 +27,11 @@
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Întâmpinăm dificultăți în găsirea acestui site.">
 <!ENTITY dnsNotFound.longDesc1 "
-<strong>Dacă adresa este corectă, poți încerca următoarele trei acțiuni:</strong>
+<strong>Dacă adresa este corectă, iată alte trei lucruri pe care le poți încerca:</strong>
 <ul>
-  <li>Încerci din nou mai târziu.</li>
-  <li>Verifici conexiunea la rețea.</li>
-  <li>Dacă ești conectat, însă în spatele unui firewall, verifici dacă &brandShortName; are permisiunea de a accesa webul.</li>
+  <li>Încearcă din nou mai târziu.</li>
+  <li>Verifică conexiunea la rețea.</li>
+  <li>Dacă ești conectat, însă în spatele unui firewall, verifică dacă &brandShortName; are permisiunea de a accesa webul.</li>
 </ul>
 ">
 
@@ -108,9 +108,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "Proprietarul <span class='hostname'/> și-a configurat site-ul web necorespunzător.  Pentru a proteja informațiile împotriva furtului, &brandShortName; nu s-a conectat la acest site web.">
 <!ENTITY certerror.introPara2 "&brandShortName; a detectat o posibilă amenințare de securitate și nu a continuat la <span class='hostname'/>. Dacă vizitezi acest site, atacatorii ar putea încerca să fure informații precum parolele, e-mailurile sau detaliile cardului de credit.">
 
-<!ENTITY certerror.sts.introPara "&brandShortName; a detectat o posibilă amenințare de securitate și nu a continuat la <span class='hostname'/>, deoarece acest site web necesită o conexiune securizată.">
-
 <!ENTITY certerror.expiredCert.secondPara "Problema a apărut cel mai probabil deoarece ceasul calculatorului este setat pe o oră greșită, ceea ce împiedică &brandShortName; să stabilească o conexiune securizată.">
+
+<!ENTITY certerror.sts.introPara "&brandShortName; a detectat o posibilă amenințare de securitate și nu a continuat la <span class='hostname'/>, deoarece acest site web necesită o conexiune securizată.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; a detectat o problemă și nu a continuat la <span class='hostname'/>. Site-ul web este fie configurat greșit, fie ceasul calculatorului este setat pe o oră greșită.">
 <!ENTITY certerror.expiredCert.secondPara2 "Probabil că certificatul site-ului web a expirat, ceea ce împiedică &brandShortName; să stabilească o conexiune securizată. Dacă vizitezi acest site, atacatorii ar putea încerca să fure informații precum parolele, e-mailurile sau detaliile cardului de credit.">
