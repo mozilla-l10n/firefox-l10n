@@ -4,12 +4,17 @@
 
 addons-window =
     .title = Upravitelj dodatkov
+search-header =
+    .placeholder = Iskanje po addons.mozilla.org
+    .searchbuttonlabel = Išči
 search-header-shortcut =
     .key = f
 loading-label =
     .value = Nalaganje …
 list-empty-installed =
     .value = Nimate nameščenega nobenega dodatka te vrste.
+list-empty-available-updates =
+    .value = Ni novih posodobitev
 list-empty-recent-updates =
     .value = Nedavno niste posodobili nobenih dodatkov
 list-empty-find-updates =
@@ -117,4 +122,6 @@ disabled-unsigned-learn-more = Več o naših prizadevanjih za večjo varnost na 
 disabled-unsigned-devinfo = Razvijalcem, ki želijo potrditi svoje dodatke, priporočamo branje našega <label data-l10n-name="learn-more">priročnika</label>.
 plugin-deprecation-description = Pogrešate kaj? Nekateri vtičniki niso več podprti v { -brand-short-name }u. <label data-l10n-name="learn-more">Več o tem.</label>
 legacy-warning-show-legacy = Prikaži zastarele razširitve
+legacy-extensions =
+    .value = Zastarele razširitve
 legacy-extensions-description = Te razširitve ne ustrezajo trenutnim standardom { -brand-short-name }a, zato so bile onemogočene. <label data-l10n-name="legacy-learn-more">Več o spremembah dodatkov</label>
