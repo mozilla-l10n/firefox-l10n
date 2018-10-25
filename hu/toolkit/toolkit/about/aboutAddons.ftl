@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Kiegészítőkezelő
+search-header =
+    .placeholder = Keresés itt: addons.mozilla.org
+    .searchbuttonlabel = Keresés
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Kiegészítő telepítése fájlból…
     .accesskey = f
+help-button = Kiegészítő támogatás
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } beállítások
+       *[other] { -brand-short-name } beállítások
+    }
 tools-menu =
     .tooltiptext = Eszközök minden kiegészítőhöz
 show-unsigned-extensions-button =
@@ -113,7 +122,11 @@ addon-restart-now =
     .label = Újraindítás most
 disabled-unsigned-heading =
     .value = Néhány kiterjesztés letiltásra került
+disabled-unsigned-description = A következő kiegészítők nem lettek ellenőrizve a { -brand-short-name } böngészőben való használatra. Lehetősége van <label data-l10n-name="find-addons">helyettesítőket keresni</label> vagy megkérni a fejlesztőt az ellenőriztetésre.
 disabled-unsigned-learn-more = Tudjon meg többet erőfeszítéseinkről az online biztonsága fenntartásáért.
 disabled-unsigned-devinfo = A kiegészítőik ellenőriztetése iránt érdeklődő fejlesztők folytathatják a <label data-l10n-name="learn-more">kézikönyv</label> elolvasásával.
 plugin-deprecation-description = Hiányzik valami? Néhány bővítményt már nem támogat a { -brand-short-name }. <label data-l10n-name="learn-more">További tudnivalók.</label>
+legacy-warning-show-legacy = Hagyományos kiegészítők megjelenítése
+legacy-extensions =
+    .value = Hagyományos kiegészítők
 legacy-extensions-description = Ezek a kiegészítők nem felelnek meg a { -brand-short-name } aktuális elvárásainak, emiatt le lettek tiltva. <label data-l10n-name="legacy-learn-more">További tudnivalók a kiegészítők módosulásáról</label>
