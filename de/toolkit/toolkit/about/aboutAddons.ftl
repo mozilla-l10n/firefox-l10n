@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+addons-window =
+    .title = Add-ons-Verwaltung
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +23,13 @@ install-addon-from-file =
     .accesskey = A
 tools-menu =
     .tooltiptext = Tools für alle Add-ons
+show-unsigned-extensions-button =
+    .label = Einige Erweiterungen konnten nicht verifiziert werden.
+show-all-extensions-button =
+    .label = Alle Erweiterungen anzeigen
+debug-addons =
+    .label = Add-ons debuggen
+    .accesskey = b
 cmd-show-details =
     .label = Weitere Informationen anzeigen
     .accesskey = W
@@ -63,6 +72,7 @@ detail-version =
     .label = Version
 detail-last-updated =
     .label = Zuletzt aktualisiert
+detail-contributions-description = Der Entwickler dieses Add-ons bittet Sie, dass Sie die Entwicklung unterstützen, indem Sie einen kleinen Betrag spenden.
 detail-update-type =
     .value = Automatische Updates
 detail-update-automatic =
@@ -101,3 +111,13 @@ detail-show-preferences =
         }
 addon-restart-now =
     .label = Jetzt neu starten
+disabled-unsigned-heading =
+    .value = Einige Add-ons wurden deaktiviert
+disabled-unsigned-description = Die folgenden Add-ons wurden nicht für die Verwendung in { -brand-short-name } verifiziert. Sie können <label data-l10n-name="find-addons">nach Alternativen suchen</label> oder die Entwickler bitten, sie verifizieren zu lassen.
+disabled-unsigned-learn-more = Erfahren Sie mehr über unsere Aktivitäten, um Ihre Sicherheit online zu erhalten.
+disabled-unsigned-devinfo = An der Verifizierung ihrer Add-ons interessierte Entwickler können mehr dazu in unserer <label data-l10n-name="learn-more">Anleitung</label> erfahren.
+plugin-deprecation-description = Fehlt etwas? Einige Plugins werden nicht mehr von { -brand-short-name } unterstützt. <label data-l10n-name="learn-more">Weitere Informationen</label>
+legacy-warning-show-legacy = Erweiterungen des alten Add-on-Typs anzeigen
+legacy-extensions =
+    .value = Alter Add-on-Typ
+legacy-extensions-description = Diese Erweiterungen erfüllen nicht die Firefox-Standards und wurden deshalb deaktiviert. <label data-l10n-name="legacy-learn-more">Weitere Informationen über Änderungen bei der Unterstützung von Add-ons für Firefox</label>
