@@ -4,6 +4,8 @@
 
 addons-window =
     .title = Add-ons Manager
+search-header-shortcut =
+    .key = f
 loading-label =
     .value = ပွင့်လာနေတယ်...
 list-empty-installed =
