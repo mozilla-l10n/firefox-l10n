@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Қосымшалар басқарушысы
+search-header =
+    .placeholder = addons.mozilla.org-ға іздеу
+    .searchbuttonlabel = Іздеу
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,7 @@ list-empty-button =
 install-addon-from-file =
     .label = Файлдан қосымшаны орнату…
     .accesskey = Ф
+help-button = Қосымшаларды қолдау
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } опциялары
