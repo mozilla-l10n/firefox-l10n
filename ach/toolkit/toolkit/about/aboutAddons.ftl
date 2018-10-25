@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+search-header-shortcut =
+    .key = f
 list-empty-available-updates =
     .value = Ngec manyen pe ononge
 cmd-show-details =
@@ -16,6 +18,10 @@ cmd-disable-theme =
 cmd-install-addon =
     .label = Keti
     .accesskey = K
+detail-version =
+    .label = Kite
+detail-home =
+    .label = Pot buk me acaki
 detail-home-value =
     .value = { detail-home.label }
 detail-repository-value =
