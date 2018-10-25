@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Менеджар дадаткаў
+search-header =
+    .placeholder = Пошук на addons.mozilla.org
+    .searchbuttonlabel = Пошук
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Усталяваць дадатак з файла…
     .accesskey = У
+help-button = Падтрымка дадаткаў
+preferences =
+    { PLATFORM() ->
+        [windows] Налады { -brand-short-name }
+       *[other] Параметры { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Прылады для ўсіх дадаткаў
 show-unsigned-extensions-button =
