@@ -4,6 +4,8 @@
 
 addons-window =
     .title = सहयुक्तियाँ प्रबंधक
+search-header-shortcut =
+    .key = f
 loading-label =
     .value = लोड कर रहा है…
 list-empty-available-updates =
