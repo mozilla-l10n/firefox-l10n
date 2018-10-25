@@ -8,8 +8,12 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = ল'ড কৰা হৈছে…
+list-empty-installed =
+    .value = ইনস্টল হোৱা এই ধৰণৰ বাবে আপোনাৰ কোনো এড-অন নাই
 list-empty-available-updates =
     .value = কোনো আপডেইট পোৱা নগল
+list-empty-recent-updates =
+    .value = আপুনি শেহতীয়াভাৱে কোনো এড-অন আপডেইট কৰা নাই
 list-empty-find-updates =
     .label = আপডেইটসমূহৰ কাৰণে নীৰিক্ষণ কৰক
 list-empty-button =
@@ -50,6 +54,8 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = এই এড-অনৰ উন্নয়নৰ বাবে অৱদান কৰক
 discover-title = এড-অনসমূহ কি?
+discover-description = এড-অনসমূহ হল কিছুমান এপ্লিকেচন যিবোৰে আপোনাক { -brand-short-name } ক অতিৰিক্ত কাৰ্য্যকৰীতা অথবা শৈলীৰ হৈতে ব্যক্তিগত ৰূপ দিয়াৰ অনুমতি দিয়ে। { -brand-short-name } ক আপোনাৰ নিজাববিয়া বনাবলে এটা সময়-সঞ্চয়ী কাষবাৰ, বতৰ সংকেতক অথবা এটা থীম ৰূপ প্ৰয়োগ কৰি চাওক।
+discover-footer = যেতিয়া আপুনি ইন্টাৰনেটৰ লগত সংযোগিত থাকিব, এই পেইনে আপুনি প্ৰয়োগ কৰিবলে কিছুমান শ্ৰেষ্ট আৰু লোকপ্ৰিয় এড-অন দেখাব।
 detail-version =
     .label = সংস্কৰণ
 detail-last-updated =
@@ -57,9 +63,15 @@ detail-last-updated =
 detail-contributions-description = এই এড-অনৰ উন্নয়কে বিচাৰে যে আপুনি সৰু এটা বৰঙনি আগবঢ়াই ইয়াৰ উন্নয়ন কাৰ্য্য সমৰ্থন কৰে।
 detail-update-type =
     .value = স্বচালিত আপডেইটসমূহ
+detail-update-default =
+    .label = অবিকল্পিত
+    .tooltiptext = আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল কৰিব যদিহে সেইটো অবিকল্পিত হয়
 detail-update-automatic =
     .label = অন
     .tooltiptext = আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল কৰক
+detail-update-manual =
+    .label = অফ
+    .tooltiptext = আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল নকৰিব
 detail-home =
     .label = ঘৰপৃষ্ঠা
 detail-home-value =
@@ -72,6 +84,22 @@ detail-check-for-updates =
     .label = আপডেইটসমূহৰ কাৰণে নীৰিক্ষণ কৰক
     .accesskey = f
     .tooltiptext = এই এড-অনৰ কাৰণে আপডেইটসমূহ নীৰিক্ষণ কৰক
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] বিকল্পসমূহ
+           *[other] পছন্দসমূহ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] এই এড-অনৰ বিকল্পসমূহ পৰিৱৰ্তন কৰক
+           *[other] এই এড-অনৰ পছন্দসমূহ পৰিৱৰ্তন কৰক
+        }
 detail-rating =
     .value = হাৰাংক
 addon-restart-now =
