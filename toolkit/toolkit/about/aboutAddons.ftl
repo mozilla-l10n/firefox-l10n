@@ -107,3 +107,5 @@ detail-rating =
     .value = Αξιολόγηση
 addon-restart-now =
     .label = Επανεκκίνηση τώρα
+disabled-unsigned-heading =
+    .value = Κάποια πρόσθετα έχουν απενεργοποιηθεί
