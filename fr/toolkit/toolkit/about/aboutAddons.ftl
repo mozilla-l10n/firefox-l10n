@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Gestionnaire de modules complémentaires
+search-header =
+    .placeholder = Rechercher sur addons.mozilla.org
+    .searchbuttonlabel = Rechercher
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Installer un module depuis un fichier…
     .accesskey = I
+help-button = Assistance des modules
+preferences =
+    { PLATFORM() ->
+        [windows] Options de { -brand-short-name }
+       *[other] Préférences de { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Outils pour tous les modules
 show-unsigned-extensions-button =
