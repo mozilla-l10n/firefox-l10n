@@ -120,3 +120,4 @@ plugin-deprecation-description = Ena ŋakki huunde? Won ceŋe nattuɗe tammiteed
 legacy-warning-show-legacy = Hollu Jokke donaaɗe
 legacy-extensions =
     .value = Timmite gaadanteeje
+legacy-extensions-description = Ɗee timmitte ɗooftaaki nanondiraaɗe { -brand-short-name } wadde ɗe ndaaƴaama. <label data-l10n-name="legacy-learn-more">Ɓeydu humpito baɗte waylooji ɓeyditte</label>
