@@ -6,6 +6,8 @@ addons-window =
     .title = Gestionari de moduls complementaris
 search-header-shortcut =
     .key = f
+loading-label =
+    .value = Cargament…
 list-empty-installed =
     .value = Avètz pas cap de modul d'aqueste tipe d'installat
 list-empty-available-updates =
@@ -16,10 +18,18 @@ list-empty-find-updates =
     .label = Recèrca las mesas a jorn
 list-empty-button =
     .label = N'aprene mai suls moduls complementaris
+install-addon-from-file =
+    .label = Installar un modul dins d’un fichièr…
+    .accesskey = I
 tools-menu =
     .tooltiptext = Aisinas per totes los moduls
+show-unsigned-extensions-button =
+    .label = Unas extensions an pas pogut èsser verificadas
 show-all-extensions-button =
     .label = Afichar totas las transicions
+debug-addons =
+    .label = Desbugar los moduls
+    .accesskey = B
 cmd-show-details =
     .label = Afichar mai d'entresenhas
     .accesskey = f
@@ -103,5 +113,11 @@ addon-restart-now =
     .label = Reaviar ara
 disabled-unsigned-heading =
     .value = De moduls son estats desactivats
+disabled-unsigned-description = Los moduls seguents podèron pas èsser verificats per lor utilizacion dins { -brand-short-name }. Podètz <label data-l10n-name="find-addons">cercar de moduls equivalents</label> o demandar a l'autor que los verifique.
+disabled-unsigned-learn-more = Ne saber mai sus nòstres esfòrces per garantir vòstra seguretat en linha.
+disabled-unsigned-devinfo = Los desvelopaires interesats per far verificar los moduls complementaris pòdon tenir de legir nòstre <label data-l10n-name="learn-more">manual</label>.
+plugin-deprecation-description = Quicòm manca ? De moduls extèrnes son pas mai preses en caraga per { -brand-short-name }. <label data-l10n-name="learn-more">Ne saber mai.</label>
+legacy-warning-show-legacy = Afichar las extensions obsolètas
 legacy-extensions =
     .value = Extensions obsolètas
+legacy-extensions-description = Aquestas extensions respèctan pas los estandards actuals de { -brand-short-name } e son estadas desactivadas. <label data-l10n-name="legacy-learn-more">Ne saber mai suls cambiaments dels moduls</label>
