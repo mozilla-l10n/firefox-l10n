@@ -75,6 +75,9 @@ detail-last-updated =
 detail-contributions-description = Der Entwickler dieses Add-ons bittet Sie, dass Sie die Entwicklung unterstützen, indem Sie einen kleinen Betrag spenden.
 detail-update-type =
     .value = Automatische Updates
+detail-update-default =
+    .label = Standard
+    .tooltiptext = Updates nur dann automatisch installieren, wenn das der Standard ist
 detail-update-automatic =
     .label = Ein
     .tooltiptext = Updates automatisch installieren
@@ -109,6 +112,8 @@ detail-show-preferences =
             [windows] Die Einstellungen dieses Add-ons ändern
            *[other] Die Einstellungen dieses Add-ons ändern
         }
+detail-rating =
+    .value = Bewertung
 addon-restart-now =
     .label = Jetzt neu starten
 disabled-unsigned-heading =
