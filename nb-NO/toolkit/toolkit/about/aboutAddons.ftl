@@ -8,8 +8,12 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = Laster …
+list-empty-installed =
+    .value = Du har ikke installert noen utvidelser av denne typen
 list-empty-available-updates =
     .value = Ingen oppdateringer funnet
+list-empty-recent-updates =
+    .value = Du har ikke nylig oppdatert noen utvidelser
 list-empty-find-updates =
     .label = Søk etter oppdateringer
 list-empty-button =
@@ -57,6 +61,8 @@ cmd-contribute =
     .accesskey = B
     .tooltiptext = Bidra til utviklingen av denne utvidelsen
 discover-title = Hva er utvidelser?
+discover-description = Utvidelser er programmer som lar deg tilpasse { -brand-short-name } med ekstra funksjonalitet eller annen stil. Prøv en sidestolpe som sparer deg tid, værvarsling, eller et tema som får { -brand-short-name } til å se ut akkurat som din.
+discover-footer = Når du er koblet til nettet vil dette vinduet inneholde noen av de beste og mest populære utvidelsene som du kan prøve ut.
 detail-version =
     .label = Versjon
 detail-last-updated =
@@ -64,9 +70,15 @@ detail-last-updated =
 detail-contributions-description = Utvikleren av denne utvidelsen ber om at du hjelper å støtte videre utvikling ved å gjøre en liten donasjon.
 detail-update-type =
     .value = Automatiske oppdateringer
+detail-update-default =
+    .label = Standard
+    .tooltiptext = Installer oppdateringer automatisk bare hvis det er standard oppførsel
 detail-update-automatic =
     .label = På
     .tooltiptext = Automatisk installer utvidelser
+detail-update-manual =
+    .label = Av
+    .tooltiptext = Ikke automatisk installer oppdateringer
 detail-home =
     .label = Hjemmeside
 detail-home-value =
@@ -79,6 +91,22 @@ detail-check-for-updates =
     .label = Søk etter oppdateringer
     .accesskey = S
     .tooltiptext = Søker etter oppdateringer til denne utvidelsen
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Innstillinger
+           *[other] Innstillinger
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Endre denne utvidelsens innstillinger
+           *[other] Endre denne utvidelsens innstillinger
+        }
 detail-rating =
     .value = Vurdering
 addon-restart-now =
@@ -88,3 +116,4 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Disse utvidelsene har ikke blitt kontrollert for bruk i { -brand-short-name }. Du kan <label data-l10n-name="find-addons">finne erstatninger</label> eller spørre utvikleren om å få de bekreftet.
 disabled-unsigned-learn-more = Les mer om våre tiltak for å holde deg trygg på nettet.
 disabled-unsigned-devinfo = Utviklere som er interessert i å få sine utvidelser bekreftet kan fortsette ved å lese vår <label data-l10n-name="learn-more">manual</label>.
+plugin-deprecation-description = Savner du noe? Noen programtillegg støttes ikke lenger av { -brand-short-name }. <label data-l10n-name="learn-more">Les mer</label>
