@@ -58,6 +58,7 @@ cmd-contribute =
     .label = Ţekki
     .accesskey = k
     .tooltiptext = Ţekki di tneflit n uzegrir
+discover-footer = Ticki tuqqna-inek ɣer Internet termed, agalis-a ad k-d-isken kra n izegrar ifazen d wid yettwassnen aṭas.
 detail-version =
     .label = Lqem
 detail-last-updated =
