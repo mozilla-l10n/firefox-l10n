@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Add-onbeheerder
+search-header =
+    .placeholder = addons.mozilla.org doorzoeken
+    .searchbuttonlabel = Zoeken
 search-header-shortcut =
     .key = f
 loading-label =
