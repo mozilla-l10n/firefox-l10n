@@ -12,6 +12,8 @@ list-empty-installed =
     .value = Du har ikke nogen tilføjelser af denne type installeret
 list-empty-available-updates =
     .value = Ingen opdateringer fundet
+list-empty-recent-updates =
+    .value = Du har ikke opdateret nogen tilføjelser for nyligt
 list-empty-find-updates =
     .label = Søg efter opdateringer
 list-empty-button =
@@ -71,6 +73,8 @@ detail-version =
 detail-last-updated =
     .label = Senest opdateret
 detail-contributions-description = Udvikleren af denne tilføjelse forespøger om du vil hjælpe dens videre udvikling ved at bidrage med en lille donation.
+detail-update-type =
+    .value = Automatiske opdateringer
 detail-update-default =
     .label = Standard
     .tooltiptext = Installer kun opdateringer automatisk hvis det er standardindstillingen
@@ -118,3 +122,7 @@ disabled-unsigned-description = De følgende tilføjelser er ikke bekræftet til
 disabled-unsigned-learn-more = Læs mere om vores indsats for at hjælpe dig med at være sikker på nettet.
 disabled-unsigned-devinfo = Udviklere, som vil have deres tilføjelser bekræftet, kan starte med at læse vores <label data-l10n-name="learn-more">manual</label>.
 plugin-deprecation-description = Mangler du noget? Nogle plugins er ikke længere understøttet af { -brand-short-name }. <label data-l10n-name="learn-more">Læs mere.</label>
+legacy-warning-show-legacy = Vis forældede udvidelser
+legacy-extensions =
+    .value = Forældede udvidelser
+legacy-extensions-description = Disse udvidelser møder ikke de nuværende { -brand-short-name }- standarder, så de er blevet deaktiveret. <label data-l10n-name="legacy-learn-more">Læs mere om ændringerne af tilføjelser</label>
