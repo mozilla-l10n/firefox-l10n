@@ -2,13 +2,117 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+addons-window =
+    .title = অতিরিক্ত সামগ্রী পরিচালন ব্যবস্থা
 search-header-shortcut =
     .key = f
 loading-label =
     .value = লোড করা হচ্ছে…
+list-empty-installed =
+    .value = এই ধরনের কোনো অতিরিক্ত সামগ্রী ইনস্টল করা হয়নি
+list-empty-available-updates =
+    .value = কোনো আপডেট পাওয়া যায়নি
+list-empty-recent-updates =
+    .value = কোনো অতিরিক্ত সামগ্রী সম্প্রতি আপডেট করা হয়নি
+list-empty-find-updates =
+    .label = আপডেটের উপস্থিতি পরীক্ষা করুন
+list-empty-button =
+    .label = অতিরিক্ত সামগ্রী সম্বন্ধে অধিক তথ্য প্রাপ্ত করুন
+install-addon-from-file =
+    .label = ফাইল থেকে অতিরিক্ত সামগ্রী ইনস্টল করুন…
+    .accesskey = I
+tools-menu =
+    .tooltiptext = সকল অতিরিক্ত সামগ্রীর জন্য সরঞ্জাম
+show-unsigned-extensions-button =
+    .label = কিছু এক্সটেনশন যাচাই করা যায়নি
+show-all-extensions-button =
+    .label = সব এক্সটেনশন প্রদর্শন করুন
+debug-addons =
+    .label = অ্যাড-অন ডিবাগ
+    .accesskey = b
+cmd-show-details =
+    .label = অতিরিক্ত তথ্য প্রদর্শন
+    .accesskey = S
+cmd-find-updates =
+    .label = আপডেট অনুসন্ধান করুন
+    .accesskey = F
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] বিকল্প
+           *[other] পছন্দ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+cmd-enable-theme =
+    .label = থিম প্রয়োগ করা হবে
+    .accesskey = W
+cmd-disable-theme =
+    .label = থিম প্রয়োগ করা হবে না
+    .accesskey = W
+cmd-install-addon =
+    .label = ইনস্টল
+    .accesskey = I
+cmd-contribute =
+    .label = যোগদান করুন
+    .accesskey = C
+    .tooltiptext = এই অতিরিক্ত সামগ্রী নির্মাণের কাজে যোগদান করুন
+discover-title = অতিরিক্ত সামগ্রী কী?
+discover-description = অতিরিক্ত বৈশিষ্ট্য অথবা বিন্যাসের সাহায্যে { -brand-short-name }-কে ব্যবহারকারীর প্রয়োজন অনুযায়ী স্বনির্ধারণের জন্য ব্যবহারযোগ্য অ্যাপ্লিকেশনগুলি অতিরিক্ত সামগ্রী রূপে উপলব্ধ করা হয়। যেমন, সময়-সংরক্ষণকারী সাইড-বার, আবহাওয়ার সূচনাব্যবস্থা অথবা নিজের পছন্দ অনুযায়ী  { -brand-short-name }-এ থিমের ব্যবহার।
+discover-footer = ইন্টারনেটের সাথে সংযোগ স্থাপন করা হলে, সর্বোত্তম ও জনপ্রিয় অতিরিক্ত সামগ্রীগুলি  আপনার পরীক্ষার জন্য এই পেইনের মধ্যে প্রদর্শন করা হবে।
 detail-version =
     .label = সংস্করণ
+detail-last-updated =
+    .label = সর্বশেষ আপডেট
+detail-contributions-description = এই অতিরিক্ত সামগ্রীর নির্মাণকার্য বজায় রাখার জন্য, এটির নির্মাতার পক্ষ থেকে আপনাকে কিছু পরিমাণ দান করার অনুরোধ জানানো হয়েছে।
+detail-update-type =
+    .value = স্বয়ংক্রিয় আপডেট
+detail-update-default =
+    .label = ডিফল্ট
+    .tooltiptext = শুধুমাত্র ডিফল্ট মান হিসাবে চিহ্নিত হলে, স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করা হবে
+detail-update-automatic =
+    .label = চালু
+    .tooltiptext = স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করুন
+detail-update-manual =
+    .label = বন্ধ করুন
+    .tooltiptext = স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করা হবে না
+detail-home =
+    .label = হোম-পেজ
 detail-home-value =
     .value = { detail-home.label }
+detail-repository =
+    .label = অতিরিক্ত সামগ্রীর প্রোফাইল
 detail-repository-value =
     .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = আপডেটের উপস্থিতি পরীক্ষা করুন
+    .accesskey = আ
+    .tooltiptext = চিহ্নিত অতিরিক্ত সামগ্রীর আপডেট পরীক্ষা করুন
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] বিকল্প
+           *[other] পছন্দ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] চিহ্নিত অতিরিক্ত সামগ্রীর বিকল্প মান পরিবর্তন করুন
+           *[other] চিহ্নিত অতিরিক্ত সামগ্রীর পছন্দসই মান পরিবর্তন করুন
+        }
+detail-rating =
+    .value = মাত্রা
+addon-restart-now =
+    .label = অবিলম্বে পুনরারম্ভ করুন
+disabled-unsigned-heading =
+    .value = কিছু অ্যাড-অন অক্ষম করা হয়েছে
+disabled-unsigned-description = নিম্নলিখিত অ্যাড অন { -brand-short-name } ব্যবহারের জন্য যাচাই করা হয় নি। আপনি পারেন <label data-l10n-name="find-addons">প্রতিস্থাপন খুঁজে বের করুন</label> বা তাদের যাচাই করার জন্যে ডেভেলপার দের জিজ্ঞাসা করুন।
+disabled-unsigned-learn-more = আপনাকে নিরাপদ রাখার জন্য আমাদের সাহায্য করতে আমাদের প্রচেষ্টা সম্পর্কে আরও জানুন।
+disabled-unsigned-devinfo = উৎসাহী ডেভেলপার রা যারা তাদের অ্যাড অন ভেরিফাই করাতে চান তারা পড়তে পারেন আমাদের <label data-l10n-name="learn-more">ব্যবহারকারীর দ্বারা</label>।
