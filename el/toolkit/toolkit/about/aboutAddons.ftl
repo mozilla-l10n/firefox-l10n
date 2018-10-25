@@ -4,6 +4,8 @@
 
 addons-window =
     .title = Διαχείριση προσθέτων
+search-header-shortcut =
+    .key = f
 loading-label =
     .value = Φόρτωση…
 list-empty-installed =
@@ -21,6 +23,11 @@ install-addon-from-file =
     .accesskey = γ
 tools-menu =
     .tooltiptext = Εργαλεία για όλα τα πρόσθετα
+show-unsigned-extensions-button =
+    .label = Δεν ήταν δυνατή η επαλήθευση ορισμένων πρόσθετων
+debug-addons =
+    .label = Αποσφαλμάτωση πρόσθετων
+    .accesskey = θ
 cmd-show-details =
     .label = Προβολή περισσότερων πληροφοριών
     .accesskey = β
@@ -109,3 +116,6 @@ addon-restart-now =
     .label = Επανεκκίνηση τώρα
 disabled-unsigned-heading =
     .value = Κάποια πρόσθετα έχουν απενεργοποιηθεί
+disabled-unsigned-description = Τα ακόλουθα πρόσθετα δεν έχουν επαληθευτεί για χρήση στο { -brand-short-name }. Μπορείτε να <label data-l10n-name="find-addons">βρείτε υποκατάστατα</label> ή ζητήστε από τους προγραμματιστές να επαληθεύσουν την εφαρμογή.
+disabled-unsigned-learn-more = Μάθετε περισσότερα σχετικά με τις προσπάθειές μας να είστε ασφαλείς στο διαδίκτυο.
+disabled-unsigned-devinfo = Οι προγραμματιστές που ενδιαφέρονται να επαληθεύσουν τα πρόσθετά τους, μπορούν να απευθυνθούν στο <label data-l10n-name="learn-more">εγχειρίδιο</label>.
