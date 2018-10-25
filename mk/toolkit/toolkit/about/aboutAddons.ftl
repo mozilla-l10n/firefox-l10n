@@ -23,12 +23,30 @@ install-addon-from-file =
     .accesskey = И
 tools-menu =
     .tooltiptext = Алатки за сите додатоци
+show-unsigned-extensions-button =
+    .label = Некои додатоци не може да се верификуваат
+show-all-extensions-button =
+    .label = Прикажи ги сите додатоци
+debug-addons =
+    .label = Дебагирање на додатоци
+    .accesskey = B
 cmd-show-details =
     .label = Прикажи информации
     .accesskey = П
 cmd-find-updates =
     .label = Најди надградби
     .accesskey = Н
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Опции
+           *[other] Поставки
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] О
+           *[other] р
+        }
 cmd-enable-theme =
     .label = Користи тема
     .accesskey = т
@@ -43,6 +61,10 @@ cmd-contribute =
     .accesskey = П
     .tooltiptext = Придонеси за развојот на овој додаток
 discover-title = Што се додатоци?
+discover-description =
+    Додатоците се апликации што ви овозможуваат да го персонализирате { -brand-short-name }
+    со дополнителни функционалности или стил. Пробајте алатки што штедат време, известувачи за временска прогноза
+    или тема за изгледот за да го направите { -brand-short-name } ваш.
 discover-footer = Кога сте поврзани на интернет овој панел ќе прикажува некои од најдобрите и најпопуларни додатоци што може да ги пробате.
 detail-version =
     .label = Верзија
@@ -72,7 +94,33 @@ detail-check-for-updates =
     .label = Провери за надградби
     .accesskey = н
     .tooltiptext = Провери за надградби на овој додаток
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Опции
+           *[other] Поставки
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] О
+           *[other] р
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Промени ги опциите на овој додаток
+           *[other] Промени ги параметрите на овој додаток
+        }
 detail-rating =
     .value = Рејтинг
 addon-restart-now =
     .label = Рестартирај сега
+disabled-unsigned-heading =
+    .value = Некои додатоци беа оневозможени
+disabled-unsigned-description = Следниве додатоци не се верифицирани за користење во { -brand-short-name }. Можете да <label data-l10n-name="find-addons">најдете замени</label> или да побарате од програмерите да ги верифицираат.
+disabled-unsigned-learn-more = Дознајте повеќе за нашите напори да Ви помогнеме да останете безбедни на Интернет.
+disabled-unsigned-devinfo = Програмерите што се заинтересирани да ги верифицираат нивните додатоци можат да продолжат со читање на нашиот <label data-l10n-name="learn-more">рачно</label>.
+plugin-deprecation-description = Ви недостасува нешто? Некои приклучоци повеќе не се поддржани во { -brand-short-name }. <label data-l10n-name="learn-more">Дознајте повеќе.</label>
+legacy-warning-show-legacy = Прикажи застарени проширувања
+legacy-extensions =
+    .value = Застарени проширувања
+legacy-extensions-description = Овие проширувања не се во согласност со сегашните стандарди на { -brand-short-name } па, беа исклучени. <label data-l10n-name="legacy-learn-more">Дознајте повеќе за измените на додатоците</label>
