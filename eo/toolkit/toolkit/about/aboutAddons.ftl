@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+addons-window =
+    .title = Administrilo de aldonaĵoj
 search-header =
     .placeholder = Serĉi en addons.mozilla.org
     .searchbuttonlabel = Serĉi
@@ -127,3 +129,4 @@ plugin-deprecation-description = Ĉu io mankas? Kelkaj kromprogramoj ne plu esta
 legacy-warning-show-legacy = Montri kadukajn etendaĵojn
 legacy-extensions =
     .value = Kadukaj etendaĵoj
+legacy-extensions-description = Tiuj ĉi etendaĵoj ne kongruas kun la nunaj normoj de { -brand-short-name }, tial ili estis malaktivigitaj. <label data-l10n-name="legacy-learn-more">Pli da informo pri la ŝanĝoj en aldonaĵoj</label>
