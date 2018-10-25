@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Gehigarrien kudeatzailea
+search-header =
+    .placeholder = Bilatu addons.mozilla.org gunean
+    .searchbuttonlabel = Bilaketa
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Instalatu gehigarria fitxategitik…
     .accesskey = I
+help-button = Gehigarrien laguntza
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } aukerak
+       *[other] { -brand-short-name } hobespenak
+    }
 tools-menu =
     .tooltiptext = Tresnak gehigarri guztientzat
 show-unsigned-extensions-button =
