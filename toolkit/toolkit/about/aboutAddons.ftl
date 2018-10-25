@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-window =
-    .title = கூடுதல் இணைப்பு மேலாளர்{ " " }
+    .title = கூடுதல் இணைப்பு மேலாளர்
 search-header-shortcut =
     .key = f
 loading-label =
