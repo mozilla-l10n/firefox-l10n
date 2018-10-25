@@ -568,10 +568,14 @@ history-remember-option-never =
     .label = neće nikada zapamtiti povijest
 history-remember-option-custom =
     .label = koristiti prilagođene postavke za povijest
+history-remember-description = { -brand-short-name } će zapamtiti vašu povijest pregledavanja, preuzimanja, obrazaca i pretraživanja.
 history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao i za privatno pretraživanje, te neće pamtiti povijest pretraživanja.
 history-private-browsing-permanent =
     .label = Uvijek koristi privatni način pretraživanja
     .accesskey = v
+history-remember-browser-option =
+    .label = Zapamti povijest pretraživanja i preuzimanja
+    .accesskey = p
 history-remember-search-option =
     .label = Zapamti povijest traženja i formi
     .accesskey = f
@@ -581,6 +585,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = Postavke…
     .accesskey = t
+history-clear-button =
+    .label = Izbriši povijest
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
