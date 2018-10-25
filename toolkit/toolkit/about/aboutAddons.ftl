@@ -4,10 +4,17 @@
 
 addons-window =
     .title = এড-অনসমূহৰ ব্যৱস্থাপক
+search-header-shortcut =
+    .key = f
 list-empty-available-updates =
     .value = কোনো আপডেইট পোৱা নগল
+list-empty-find-updates =
+    .label = আপডেইটসমূহৰ কাৰণে নীৰিক্ষণ কৰক
 list-empty-button =
     .label = এড-অন সমূহুৰ বিষয়ে অধিক জানক
+install-addon-from-file =
+    .label = ফাইলৰ পৰা এড-অন ইনস্টল কৰক…
+    .accesskey = I
 tools-menu =
     .tooltiptext = সকলো এড-অনৰ পৰা সঁজুলিসমূহ
 discover-title = এড-অনসমূহ কি?
