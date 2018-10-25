@@ -4,6 +4,8 @@
 
 addons-window =
     .title = Gestor de complements
+search-header-shortcut =
+    .key = f
 loading-label =
     .value = S'està carregant…
 list-empty-available-updates =
@@ -46,6 +48,7 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = Col·labora en el desenvolupament del complement
 discover-title = Què són els complements?
+discover-description = Els complements són aplicacions que us permeten personalitzar el { -brand-short-name } amb una funcionalitat o estil addicional. Proveu una barra lateral per estalviar temps, un servei meteorològic o un tema perquè el { -brand-short-name } sembli més personal.
 detail-version =
     .label = Versió
 detail-last-updated =
