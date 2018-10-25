@@ -24,7 +24,7 @@ list-empty-button =
 install-addon-from-file =
     .label = Staliañ askouezhioù diouzh ar restr...
     .accesskey = i
-help-button = { " " }Skor an askouezhioù
+help-button = Skor an askouezhioù
 preferences =
     { PLATFORM() ->
         [windows] Dibarzhioù { -brand-short-name }
