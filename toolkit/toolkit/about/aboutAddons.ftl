@@ -87,6 +87,10 @@ detail-repository =
     .label = सहयुक्ति प्रोफ़ाइल
 detail-repository-value =
     .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = अद्यतनों के लिए जाँचें
+    .accesskey = f
+    .tooltiptext = इस सहयुक्ति के लिए अद्यतन के लिए जाँच करें
 detail-show-preferences =
     .label =
         { PLATFORM() ->
