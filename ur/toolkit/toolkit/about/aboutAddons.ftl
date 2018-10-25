@@ -4,6 +4,9 @@
 
 addons-window =
     .title = ایڈ اون مینیجر
+search-header =
+    .placeholder = addons.mozilla.org تلاش کریں
+    .searchbuttonlabel = تلاش
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,11 @@ list-empty-button =
 install-addon-from-file =
     .label = ایڈ اون مسل سے تنصیب کریں...
     .accesskey = ت
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } اختیارات
+       *[other] { -brand-short-name } ترجیحات
+    }
 tools-menu =
     .tooltiptext = تمام ایڈ اون کے لیے ٹول
 show-unsigned-extensions-button =
@@ -116,4 +124,7 @@ disabled-unsigned-heading =
 disabled-unsigned-description = مندرجہ ذیل ایڈ اون { -brand-short-name } میں استعمال کے لیے تصدیق نہیں کیئے گئے۔ آپ <label data-l10n-name="find-addons">تبدیلیاں ڈھونڈیں</label> یا پھر ان کی تصدیق کروانے کے لیے تخلیق کار سے کہیں۔
 disabled-unsigned-learn-more = آپ کو آن لائن محفوظ رکھنے کے لیئے ہماری کوششوں کے بارے میں مزید سیکھیں۔
 disabled-unsigned-devinfo = وہ ڈیولپر جو اپنے ایڈ اون تصدیق کروانا چاہتے ہیں آگے بڑھنے کے لیے یہ پڑھ سکتے ہیں <label data-l10n-name="learn-more">دستورالعمل</label>.
+plugin-deprecation-description = کسی شہ کی کمی ہے؟ { -brand-short-name }. کی جانب سے کچھ بلگ ان میں تعاون اب نہیں رہا  <label data-l10n-name="learn-more">مزید سیکھیں۔</label>
 legacy-warning-show-legacy = میراث توسیعات دکھائیں
+legacy-extensions =
+    .value = میراث ایکسٹینشن
