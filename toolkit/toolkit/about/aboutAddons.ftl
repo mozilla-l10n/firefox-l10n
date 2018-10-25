@@ -36,6 +36,12 @@ cmd-preferences =
             [windows] C
            *[other] C
         }
+cmd-enable-theme =
+    .label = Jammin Siŋkoore
+    .accesskey = J
+cmd-disable-theme =
+    .label = Dartin Jammingol Siŋkoore
+    .accesskey = J
 cmd-install-addon =
     .label = Aaf
     .accesskey = A
