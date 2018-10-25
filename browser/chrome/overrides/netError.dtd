@@ -156,13 +156,13 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "El dueño de <span class='hostname'/> ha configurado mal el sitio web.  Para proteger la información contra robos, &brandShortName; no ha conectado a este sitio web.">
 <!ENTITY certerror.introPara2 "&brandShortName; detectó una potencial amenaza de seguridad y no continuó a <span class='hostname'/>. Si visita este sitio, los atacantes podrían intentar robar su información tal como sus contraseñas, correo electrónico o datos de su tarjeta de crédito.">
 
-<!ENTITY certerror.sts.introPara "&brandShortName; detectó una amenaza de seguridad potencial y no continuó a <span class='hostname'/> porque este sitio web requiere una conexión segura.">
-
 <!ENTITY certerror.expiredCert.secondPara "Este problema seguramente se debe a que la hora del el reloj de su computadora es incorrecta, lo que impediría que &brandShortName; se conecte de forma segura.">
 
-<!ENTITY certerror.expiredCert.introPara "brandShortName; detectó un problema y no continuó a <span class='hostname'/>. El sitio web está mal configurado o el reloj de su computadora está configurado en una hora incorrecta.">
+<!ENTITY certerror.sts.introPara "&brandShortName; detectó una amenaza de seguridad potencial y no continuó a <span class='hostname'/> porque este sitio web requiere una conexión segura.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; detectó un problema y no continuó a <span class='hostname'/>. El sitio web está mal configurado o el reloj de su computadora está configurado en una hora incorrecta.">
 <!ENTITY certerror.expiredCert.secondPara2 "Es probable que el certificado del sitio web haya caducado, lo que impide que &brandShortName; se conecte de forma segura. Si visita este sitio, los atacantes podrían intentar robar información como sus contraseñas, correos electrónicos o detalles de tarjetas de crédito.">
-<!ENTITY certerror.expiredCert.sts.secondPara "Es probable que el certificado del sitio web haya caducado, lo que impide que brandShortName; se conecte de forma segura.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Es probable que el certificado del sitio web haya caducado, lo que impide que &brandShortName; se conecte de forma segura.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "¿Qué puede hacer al respecto?">
 
