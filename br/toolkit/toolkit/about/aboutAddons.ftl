@@ -8,8 +8,12 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = O kargañ…
+list-empty-installed =
+    .value = N'eus askouezh ebet eus ar rizh-mañ staliet
 list-empty-available-updates =
     .value = Hizivadenn ebet kavet
+list-empty-recent-updates =
+    .value = N'hoc'h eus ket hizivaet askouezh ebet nevez zo
 list-empty-find-updates =
     .label = Klask hizivadennoù
 list-empty-button =
@@ -19,6 +23,13 @@ install-addon-from-file =
     .accesskey = i
 tools-menu =
     .tooltiptext = Ostilhoù evit an holl askouezhioù
+show-unsigned-extensions-button =
+    .label = N'haller ket gwiriekaat lod eus an askouezhioù
+show-all-extensions-button =
+    .label = Diskouez an holl askouezhioù
+debug-addons =
+    .label = Diveugañ an askouezhioù
+    .accesskey = v
 cmd-show-details =
     .label = Diskouez muioc'h a stlennoù
     .accesskey = s
@@ -50,6 +61,8 @@ cmd-contribute =
     .accesskey = K
     .tooltiptext = Kenoberiañ da ziorren an askouezh-mañ
 discover-title = Petra eo an askouezhioù ?
+discover-description = Arloadoù a ro tro deoc'h da bersonelaat { -brand-short-name } gant keweriusterioù pe stiloù ouzhpenn eo an askouezhioù. Amprouit ur varrenn gostez pe un arload evit an hinad, pe un neuz da lakaat { -brand-short-name } da vezañ evel ma plijo deoc'h.
+discover-footer = Pa viot kennasket ouzh internet e tiskouezo ar penel-mañ un darn eus an askouezhioù gwellañ ha brudetañ da brouadiñ.
 detail-version =
     .label = Handelv
 detail-last-updated =
@@ -57,9 +70,15 @@ detail-last-updated =
 detail-contributions-description = Goulenn a ra paotr an diorren ma vefe skoazellet diorrenadur an askouezh-mañ ganeoc'h dre ur berzhadenn-arc'hant vihan.
 detail-update-type =
     .value = Hizivadurioù emgefreek
+detail-update-default =
+    .label = Diouer
+    .tooltiptext = Staliañ emgefreek an hizivadennoù mar bez an arventenn dre ziouer
 detail-update-automatic =
     .label = Gweredekaet
     .tooltiptext = Staliañ an hizivadurioù ent emgefreek
+detail-update-manual =
+    .label = Diweredekaet
+    .tooltiptext = Arabat staliañ an hizivadennoù ent emgefreek
 detail-home =
     .label = Pennbajenn
 detail-home-value =
@@ -72,7 +91,29 @@ detail-check-for-updates =
     .label = Gwiriañ mar bez hizivadurioù d'ober
     .accesskey = G
     .tooltiptext = Gwiriañ hag-eñ ez eus hizivadennoù hegerz evit an askouezh-mañ
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Dibarzhioù
+           *[other] Gwellvezioù
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
+           *[other] G
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Kemmañ dibarzhioù an askouezh-mañ
+           *[other] Kemmañ gwellvezioù an askouezh-mañ
+        }
 detail-rating =
     .value = Prizadur
 addon-restart-now =
     .label = Adloc'hañ bremañ
+disabled-unsigned-heading =
+    .value = Askouezhioù 'zo a zo bet diweredekaet
+disabled-unsigned-description = N'eo ket bet gwiriet arver an askouezhioù da zont evit { -brand-short-name }. Gallout a rit  <label data-l10n-name="find-addons">kavout eillec'hiadennoù</label> pe goulenn gant an diorroer gwiriekaat anezho
+disabled-unsigned-learn-more = Deskiñ hiroc'h a-zivout hor strivoù evit skoazell ac'hanoc'h da vezañ diarvar enlinenn.
+disabled-unsigned-devinfo = Diorroerien dedennet evit gwiriekaat o askouezhioù a c'hell kenderc'hel en ul lenn hor <label data-l10n-name="learn-more">dornlevr</label>.
+plugin-deprecation-description = Mankout 'ra un dra bennak? Ul lodenn eus an enlugelladoù n'int ket skoret gant { -brand-short-name } ken. <label data-l10n-name="learn-more">Gouzout hiroc'h.</label>
