@@ -16,6 +16,8 @@ list-empty-recent-updates =
     .value = તમે તાજેતરમાં કોઇપણ ઍડ-ઓનને સુધારેલ નથી
 list-empty-find-updates =
     .label = સુધારાઓ માટે ચકાસો
+list-empty-button =
+    .label = ઍડ-ઓન વિશે વધુ શીખો
 install-addon-from-file =
     .label = ફાઇલમાંથી ઍડ-ઓનને સ્થાપિત કરો…
     .accesskey = I
@@ -112,8 +114,10 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = કેટલાક ઍડ-ઑન્સ અક્ષમ કરવામાં આવ્યા છે
 disabled-unsigned-description = નીચેના ઍડ-ઑન્સને { -brand-short-name } માં ઉપયોગ કરવા માટે ચકાસણી કરવામાં આવી નથી. તમે કરી શકો છો <label data-l10n-name="find-addons">ફેરબદલી શોધો</label> અથવા ડેવલપરને તેમને ચકાસવા માટે પૂછો.
+disabled-unsigned-learn-more = તમને ઓનલાઇન સુરક્ષિત રાખવામાં સહાય કરવાના અમારા પ્રયત્નો વિશે વધુ શીખો.
 disabled-unsigned-devinfo = તેમના ઍડ-ઑન્સ ચકાસવામાં રસ ધરાવતા ડેવલપર્સ ચાલુ રાખી શકે છે વાંચીને અમારી <label data-l10n-name="learn-more">મેન્યુઅલ</label>.
 plugin-deprecation-description = કંઈક ખૂટે છે? કેટલાક પ્લગિન્સ હવે { -brand-short-name } દ્વારા આધારભૂત નથી. <label data-l10n-name="learn-more">વધુ શીખો.</label>
 legacy-warning-show-legacy = જૂના એક્સ્ટેન્શન્સ બતાવો
 legacy-extensions =
     .value = જૂના એક્સ્ટેન્શન્સ
+legacy-extensions-description = આ એક્સ્ટેન્શન્સ વર્તમાન { -brand-short-name } ધોરણો મળતા નથી જેથી તેઓ નિષ્ક્રિય કરવામાં આવેલ છે. <label data-l10n-name="legacy-learn-more">ઍડ-ઑન્સમાં ફેરફારો વધુ શીખો</label>
