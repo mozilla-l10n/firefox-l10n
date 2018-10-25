@@ -8,6 +8,8 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = లోడవుచున్నది…
+list-empty-installed =
+    .value = మీ వద్ద ఈ రకమైన పొడిగింతలేమీ స్థాపించి లేవు
 list-empty-available-updates =
     .value = ఏ నవీకరణలు కనుగొనలేదు
 list-empty-recent-updates =
@@ -16,6 +18,9 @@ list-empty-find-updates =
     .label = నవీకరణల కొరకు పరిశీలించు
 list-empty-button =
     .label = పొడిగింతలు గురించి మరింత తెలుసుకొనండి
+install-addon-from-file =
+    .label = ఫైలు నుండి పొడిగింతను స్థాపించు…
+    .accesskey = I
 tools-menu =
     .tooltiptext = అన్ని పొడిగింతలు కొరకు సాధనములు
 show-unsigned-extensions-button =
@@ -31,12 +36,26 @@ cmd-show-details =
 cmd-find-updates =
     .label = నవీకరణలను కనుగొను
     .accesskey = F
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] ఎంపికలు
+           *[other] అభిరుచులు
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
 cmd-enable-theme =
     .label = ఐచ్ఛిక ధీముని దరించు
     .accesskey = W
 cmd-disable-theme =
     .label = ఎంపిక శైలిని దరించుటను ఆపు
     .accesskey = W
+cmd-install-addon =
+    .label = స్థాపించు
+    .accesskey = I
 cmd-contribute =
     .label = తోడ్పడండి
     .accesskey = C
@@ -51,6 +70,17 @@ detail-last-updated =
 detail-contributions-description = ఈ పొడిగింతను అభివృద్దికారి దాని తదుపరి అభివృద్ది కొనసాగింపు కొరకు మీ నుండి కొద్ది మొత్తంలో సహాయంను కోరుచున్నారు.
 detail-update-type =
     .value = స్వయంచాలక నవీకరణలు
+detail-update-default =
+    .label = అప్రమేయం
+    .tooltiptext = తాజాకరణలను స్థాపిచడం అప్రమేయమైతే వాటిని స్వయంచాలంకగా స్థాపించు
+detail-update-automatic =
+    .label = ఆన్ చేయి
+    .tooltiptext = తాజాకరణలను స్వయంచాలకంగా స్థాపించు
+detail-update-manual =
+    .label = ఆఫ్ చేయి
+    .tooltiptext = తాజాకరణలను స్వయంచాలకంగా స్థాపించవద్దు
+detail-home =
+    .label = ముంగిలిపేజీ
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
@@ -61,10 +91,30 @@ detail-check-for-updates =
     .label = నవీకరణల కొరకు పరిశీలించు
     .accesskey = F
     .tooltiptext = ఈ పొడిగింత కొరకు నవీకరణలను పరిశీలించు
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] ఎంపికలు
+           *[other] అభిరుచులు
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] ఈ పొడిగింత యొక్క ఎంపికలను మార్చు
+           *[other] ఈ పొడిగింత యొక్క అభీష్టాలను మార్చు
+        }
 detail-rating =
     .value = శ్రేష్టత
+addon-restart-now =
+    .label = ఇప్పుడే పునఃప్రారంభించు
 disabled-unsigned-heading =
     .value = కొన్ని పొడిగింతలు అచేతనించబడ్డాయి
 disabled-unsigned-description = { -brand-short-name }‌లో వాడటానికి ఈ కింది పొడిగింతలు తనిఖీ చేయబడలేదు. మీరు <label data-l10n-name="find-addons">ప్రత్యామ్నాయాలు కనుగొను</label> లేదా డెవలపర్లను వాటిని తనిఖీ చేయించమని అడగవచ్చు.
 disabled-unsigned-learn-more = ఆన్‌లైన్లో మిమ్మల్ని సురక్షితంగా ఉంచడానికి మేం చేసే కృషి గురించి తెలుసుకోండి.
 disabled-unsigned-devinfo = తమ పొడిగింతలను తనిఖీ చేయించుకోవాలనుకునే డెవలపర్లు మా  చదివి కొనసాగించవచ్చు<label data-l10n-name="learn-more">మానవీయం</label>.
+legacy-extensions =
+    .value = పాత పొడగింతలు
