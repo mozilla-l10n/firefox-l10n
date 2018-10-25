@@ -11,6 +11,8 @@ install-addon-from-file =
     .accesskey = I
 tools-menu =
     .tooltiptext = Ferramentas para todos os complementos
+show-unsigned-extensions-button =
+    .label = Algumas extensões não puderam ser verificadas
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -54,3 +56,4 @@ detail-rating =
     .value = Classificação
 addon-restart-now =
     .label = Reiniciar agora
+disabled-unsigned-devinfo = Os desenvolvedores interessados que seus complementos sejam verificados, devem ler o nosso <label data-l10n-name="learn-more">manual</label>.
