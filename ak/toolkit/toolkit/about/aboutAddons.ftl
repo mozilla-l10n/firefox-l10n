@@ -8,8 +8,12 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = Relood…
+list-empty-installed =
+    .value = Wo nninstɔl nkaho a wɔte sɛ yi.
 list-empty-available-updates =
     .value = Ennhu ntoso biara
+list-empty-recent-updates =
+    .value = Wo nntoo nkaho biara so ndansa yi mu
 list-empty-find-updates =
     .label = Hwehwɛ Ntoso
 list-empty-button =
@@ -50,6 +54,8 @@ cmd-contribute =
     .accesskey = K
     .tooltiptext = Kyɛn wo nsa fa boa kaho yi ne mpontu
 discover-title = Nkaho no ne nea ɛwohe?
+discover-description = Nkaho yɛ aplekehyɛn a ɛmawo yɛ ankorankorɛ mmradin tiawa; ne fankhyɛnaliti anaa stael mmorosoɔ. Sɔ bere-sieyɛ saedbaa, wimu Kaeɛ, anaa tiim nhwɛ ma mmradin tiawa;  ɛnyɛ wo dea.
+discover-footer = Sɛ woasiani Intanɛte,abɛɛfo  kwantenpɔn a, saa paane yi bɛ fekya nkaho papa ne tseetsee no ama woasɔ ahwɛ.
 detail-version =
     .label = vɛɛhyen
 detail-last-updated =
@@ -57,9 +63,15 @@ detail-last-updated =
 detail-contributions-description = Sɔftwɛɛ adebɔfo ma kaho yi bisa wo sɛ wo bɛto wo nsa mu aboa no ama wɔetumi akɔ so etu kaho no mpon.
 detail-update-type =
     .value = Ntoso otomatik
+detail-update-default =
+    .label = Difɔlt
+    .tooltiptext = Instɔl ntosoɔ no sɛ ɛno ne dadaw noa
 detail-update-automatic =
     .label = Asɔ
     .tooltiptext = Instɔl ntoso otomatikmu
+detail-update-manual =
+    .label = Edum
+    .tooltiptext = Mma wo enninstɔl ntoso otomatikmu
 detail-home =
     .label = Fie-krataafa
 detail-home-value =
@@ -72,6 +84,22 @@ detail-check-for-updates =
     .label = Hwehwɛ ntoso
     .accesskey = e
     .tooltiptext = Hwehwɛ ntoso ma kaho yi
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Nɔphyɛn
+           *[other] Apɛde
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] p
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Sesa kaho yi ne nɔphyɛn
+           *[other] Sesa kaho yi ne apɛde
+        }
 detail-rating =
     .value = Gyina-bea:
 addon-restart-now =
