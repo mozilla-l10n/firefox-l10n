@@ -2,10 +2,120 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+addons-window =
+    .title = Eklentiler İdarecisi
+search-header-shortcut =
+    .key = f
+loading-label =
+    .value = Yüklene…
+list-empty-installed =
+    .value = Bu türden qurulğan eklentileriñiz iç yoq
+list-empty-available-updates =
+    .value = Tapılğan yañartmalar yoq
+list-empty-recent-updates =
+    .value = Demin er angi eklentilerni yañartqan degilsiñiz
+list-empty-find-updates =
+    .label = Yañartmalar İçün Teşker
+list-empty-button =
+    .label = Eklentiler aqqında daa çoq ögreniñiz
+install-addon-from-file =
+    .label = Dosyeden Eklenti Qur…
+    .accesskey = Q
+tools-menu =
+    .tooltiptext = Episi eklentiler içün aletler
+show-unsigned-extensions-button =
+    .label = Bazı uzantılar doğrulanamadı
+show-all-extensions-button =
+    .label = Episi uzantılarnı köster
+debug-addons =
+    .label = Eklentilerni İlletsizleştir
+    .accesskey = s
+cmd-show-details =
+    .label = Daa Çoq Malümatnı Köster
+    .accesskey = K
+cmd-find-updates =
+    .label = Yañartmalarnı Tap
+    .accesskey = T
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] İhtiyariyat
+           *[other] Tercihler
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] h
+           *[other] T
+        }
+cmd-enable-theme =
+    .label = Temanı Kiy
+    .accesskey = T
+cmd-disable-theme =
+    .label = Tema Kiyüvni Toqtat
+    .accesskey = T
+cmd-install-addon =
+    .label = Qur
+    .accesskey = Q
+cmd-contribute =
+    .label = İsse qoş
+    .accesskey = i
+    .tooltiptext = Bu eklentiniñ inkişafına isse qoş
+discover-title = Eklentiler Nedir?
+discover-description =
+    Eklentiler, ziyade funksionallik yaki uslûp ile { -brand-short-name } uygulamañıznı
+    şahsiyleştirüviñizge imkân bergen uyğulamalardır. { -brand-short-name } uyğulamasını siziñ öz uyğulamañız yasamaq üzre bir zaman
+    tasarrufı yan çubuğı, bir ava tebliğcisi yaki bir temalı körünişni deñeñiz.
+discover-footer =
+    İnternet’ke bağlanğan olğanıñızda, bu terezede deñemeñiz içün
+    eñ yahşı ve eñ halqçan eklentilerniñ bazıları ögge çıqarılacaq.
+detail-version =
+    .label = Sürüm
+detail-last-updated =
+    .label = Soñki Yañartma
+detail-contributions-description = Bu eklentiniñ inkişafçısı, kiçik bir bağış yaparaq onıñ devamlı inkişafını desteklemege yardım etüviñizni rica ete.
+detail-update-type =
+    .value = Avtomatik Yañartmalar
+detail-update-default =
+    .label = Ögbelgilengen
+    .tooltiptext = Yañartmalarnı faqat ögbelgilengeni o ise öz-özünden qur
+detail-update-automatic =
+    .label = Açıq
+    .tooltiptext = Yañartmalarnı öz-özünden qur
+detail-update-manual =
+    .label = Qapalı
+    .tooltiptext = Yañartmalarnı öz-özünden qurma
+detail-home =
+    .label = Ev saifesi
 detail-home-value =
     .value = { detail-home.label }
+detail-repository =
+    .label = Eklenti Profili
 detail-repository-value =
     .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = Yañartmalar içün Teşker
+    .accesskey = i
+    .tooltiptext = Bu eklenti içün yañartmalar içün teşker
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] İhtiyariyat
+           *[other] Tercihler
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] h
+           *[other] T
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Bu eklentiniñ ihtiyariyatını deñiştir
+           *[other] Bu eklentiniñ tercihlerini deñiştir
+        }
+detail-rating =
+    .value = Derecelendirme
+addon-restart-now =
+    .label = Şimdi kene başlat
 disabled-unsigned-heading =
     .value = Bazı eklentiler naqabilleştirilgendir
 disabled-unsigned-description = Aşağıdaki eklentiler { -brand-short-name } üzerinde qullanım içün doğrulanmağandır. <label data-l10n-name="find-addons">Yerlerine ivazlarnı tapabilirsiñiz</label> yaki keliştiriciden olarnı doğrulatmasını soraybilirsiñiz.
