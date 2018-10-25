@@ -4,10 +4,15 @@
 
 addons-window =
     .title = Додатки
+search-header =
+    .placeholder = Пошук на addons.mozilla.org
+    .searchbuttonlabel = Пошук
 search-header-shortcut =
     .key = f
 loading-label =
     .value = Завантаження…
+list-empty-installed =
+    .value = У вас не встановлено жодного додатка цього типу
 list-empty-available-updates =
     .value = Оновлень не знайдено
 list-empty-recent-updates =
@@ -16,6 +21,15 @@ list-empty-find-updates =
     .label = Перевірити оновлення
 list-empty-button =
     .label = Дізнайтесь більше про додатки
+install-addon-from-file =
+    .label = Встановити додаток з файлу…
+    .accesskey = В
+help-button = Підтримка додатків
+preferences =
+    { PLATFORM() ->
+        [windows] Налаштування { -brand-short-name }
+       *[other] Налаштування { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Інструменти для всіх додатків
 show-unsigned-extensions-button =
