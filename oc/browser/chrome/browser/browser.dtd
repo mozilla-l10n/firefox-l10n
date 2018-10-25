@@ -42,6 +42,8 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Tampar los onglets seleccionats">
 <!ENTITY  closeSelectedTabs.accesskey        "T">
 
+<!ENTITY  closeTabs.label                    "Tampar los onglets">
+<!ENTITY  closeTabs.accesskey                "T">
 <!ENTITY  pinSelectedTabs.label              "Penjar los onglets">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
@@ -58,6 +60,8 @@ but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Actualizar los onglets">
+<!ENTITY  reloadTabs.accesskey               "A">
 <!ENTITY  bookmarkSelectedTabs.label         "Marcar aquestes onglets…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -86,14 +90,24 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Desplaçar l’onglet">
+<!ENTITY  moveTabOptions.accesskey           "p">
+<!ENTITY  moveSelectedTabOptions.label       "Desplaçar los onglets">
+<!ENTITY  moveSelectedTabOptions.accesskey   "p">
+<!ENTITY  moveToStart.label                  "Desplaçar a la debuta">
+<!ENTITY  moveToStart.accesskey              "d">
+<!ENTITY  moveToEnd.label                    "Desplaçar a la fin">
+<!ENTITY  moveToEnd.accesskey                "f">
 <!ENTITY  moveToNewWindow.label              "Desplaçar cap a una fenèstra novèla">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  reopenInContainer.label            "Tornar dobrir dins un onglet isolat">
 <!ENTITY  reopenInContainer.accesskey        "d">
 <!ENTITY  bookmarkAllTabs.label              "Marcar totes los onglets…">
 <!ENTITY  bookmarkAllTabs.accesskey          "M">
+<!ENTITY  bookmarkTab.label                  "Apondre l’onglet als marcapaginas">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "m">
 <!ENTITY  undoCloseTab.label                 "Anullar la tampadura de l'onglet">
 <!ENTITY  undoCloseTab.accesskey             "u">
 <!ENTITY  closeTab.label                     "Tampar l'onglet">
@@ -120,6 +134,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "Gestionari de tascas">
 
 <!ENTITY goOfflineCmd.label "Apercebut abans impression">
 <!ENTITY goOfflineCmd.accesskey "b">
@@ -142,12 +157,16 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Apondre als marcapaginas l’onglet seleccionat…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "m">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Apondre als marcapaginas los onglets seleccionats…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "m">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Anullar la tampadura de l'onglet">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
 

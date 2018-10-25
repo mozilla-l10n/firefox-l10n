@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Lengas
-    .style = width: 30em
 webpage-languages-window =
     .title = Paramètres de lenga de la pagina
     .style = width: 40em
@@ -44,3 +41,15 @@ languages-active-code-format =
 browser-languages-window =
     .title = Paramètres de lenga de { -brand-short-name }
     .style = width: 40em
+browser-languages-description = { -brand-short-name } utilizarà la primièra lenga per defaut e se cal utilizarà las lengas alternativas dins l’òrdre qu’apareisson.
+browser-languages-search = Recercar mai de lengas…
+browser-languages-searching =
+    .label = Recèrca de lengas…
+browser-languages-downloading =
+    .label = Telecargament…
+browser-languages-select-language =
+    .label = Seleccionatz una lenga d’apondre…
+    .placeholder = Seleccionatz una lenga d’apondre…
+browser-languages-installed-label = Lengas installadas
+browser-languages-available-label = Lengas disponiblas
+browser-languages-error = { -brand-short-name } pòt pas actualizar las lengas pel moment. Verificatz la connexion Internet e tornatz ensajar.
