@@ -27,6 +27,9 @@ show-unsigned-extensions-button =
     .label = ផ្នែក​បន្ថែម​ខ្លះ​មិន​អាច​បញ្ជាក់​បាន​ទេ
 show-all-extensions-button =
     .label = បង្ហាញ​ផ្នែក​បន្ថែម​ទាំងអស់
+debug-addons =
+    .label = បំបាត់​កំហុស​ផ្នែក​បន្ថែម
+    .accesskey = B
 cmd-show-details =
     .label = បង្ហាញ​ព័ត៌មាន​បន្ថែម
     .accesskey = S
@@ -113,3 +116,4 @@ disabled-unsigned-heading =
 disabled-unsigned-description = កម្មវិធី​ផ្នែក​បន្ថែម​ខាងក្រោម​មិន​ទាន់​បាន​បញ្ជាក់​​ឲ្យ​ប្រើប្រាស់​នៅ​ក្នុង { -brand-short-name } នៅ​ឡើយ​ទេ។ អ្នក​អាច <label data-l10n-name="find-addons">រក​កម្មវិធី​ជំនួស</label> ឬ​សួរ​​អ្នក​អភិវឌ្ឍ​ដើម្បី​ឲ្យ​ពួកគេ​បញ្ជាក់​វា។
 disabled-unsigned-learn-more = ស្វែងយល់​បន្ថែម​អំពី​ការ​ព្យាយាម​របស់​យើង​ដើម្បី​ជួយ​រក្សា​សុវត្ថិភាព​របស់​អ្នក​នៅ​លើ​អ៊ីនធឺណិត។
 disabled-unsigned-devinfo = អ្នក​អភិវឌ្ឍ​ដែល​ចាប់អារម្មណ៍​​ដើម្បី​​បញ្ជាក់​កម្មវិធី​​ផ្នែក​បន្ថែម​របស់​ពួកគេ​អាច​បន្ត​ដោយ​អាន <label data-l10n-name="learn-more">ដោយដៃ</label>.
+plugin-deprecation-description = មាន​បាត់​អ្វី​មែន​ទេ? ផ្នែក​បន្ថែម​មួយ​ចំនួន​មិន​គាំទ្រ​ដោយ { -brand-short-name } ទៀត​ទេ។ <label data-l10n-name="learn-more">ស្វែងយល់បន្ថែម</label>
