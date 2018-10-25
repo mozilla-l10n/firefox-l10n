@@ -2,7 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+show-unsigned-extensions-button =
+    .label = Některá rozšíření nemohla být ověřena
 detail-home-value =
     .value = { detail-home.label }
 detail-repository-value =
     .value = { detail-repository.label }
+disabled-unsigned-heading =
+    .value = Některé doplňky byly zablokovány
+disabled-unsigned-learn-more = Zjistěte více o naší snaze o vaši bezpečnost.
+disabled-unsigned-devinfo = Vývojáři, kteří mají zájem o ověření svých rozšíření, mohou pokračovat přečtením <label data-l10n-name="learn-more">našeho manuálu</label>.
