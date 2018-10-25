@@ -8,6 +8,14 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = در حال بار کردن…
+list-empty-installed =
+    .value = هیچ افزودنی‌ای از این نوع نصب نشده است
+list-empty-available-updates =
+    .value = هیچ بروزرسانی‌ای پیدا نشد
+list-empty-recent-updates =
+    .value = اخیراً هیچ افزودنی‌ای به‌هنگام نشده است
+list-empty-find-updates =
+    .label = بررسی برای بروزرسانی‌ها
 list-empty-button =
     .label = دربارهٔ افزودنی‌ها بیشتر بدانید
 install-addon-from-file =
@@ -15,9 +23,19 @@ install-addon-from-file =
     .accesskey = ن
 tools-menu =
     .tooltiptext = ابزارهای مخصوص همهٔ افزودنی‌ها
+show-unsigned-extensions-button =
+    .label = برخی از توسعه‌ها را نمی‌توان تایید کرد
+show-all-extensions-button =
+    .label = نمایش تمام توسعه‌ها
+debug-addons =
+    .label = اشکال‌زدایی افزودنی‌ها
+    .accesskey = ی
 cmd-show-details =
     .label = نمایش اطلاعات بیشتر
     .accesskey = ط
+cmd-find-updates =
+    .label = یافتن بروزرسانی‌ها
+    .accesskey = ب
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -43,9 +61,24 @@ cmd-contribute =
     .accesskey = م
     .tooltiptext = مشارکت در توسعهٔ این افزودنی
 discover-title = افزودنی‌ها به چه کار می‌آیند؟
+discover-description = افزودنی‌ها برنامه‌هایی هستند که به شما امکان شخصی‌سازی { -brand-short-name } را با افزودن قابلیت‌های جدید یا تغییر ظاهر آن می‌دهند. برای داشتن { -brand-short-name } شخصی، افزودن نوار کناری برای صرفه‌جویی در زمان، یک افزودنی اطلاع از وضعیت هوا، یا یک ظاهر جدید را امتحان کنید.
+discover-footer = زمانی که به اینترنت متصل باشید، این ناحیه برخی از بهترین و پرطرفدارترین افزودنی‌هایی که می‌توانید آزمایش کنید را نشان می‌دهد.
 detail-version =
     .label = نسخه
+detail-last-updated =
+    .label = آخرین بروزرسانی
 detail-contributions-description = توسعه‌دهندهٔ این افزودنی از شما برای توسعهٔ متداوم این افزودنی کمک مالی کوچکی درخواست کرده است.
+detail-update-type =
+    .value = بروزرسانی‌های خودکار
+detail-update-default =
+    .label = پیش‌فرض
+    .tooltiptext = تنها در صورت اینکه گزینه نصب خودکار بروزرسانی‌ها گزینه پیش‌فرض باشد این اتفاق بیافتد
+detail-update-automatic =
+    .label = فعال
+    .tooltiptext = بروزرسانی‌های جدید به صورت خودکار نصب شوند
+detail-update-manual =
+    .label = غیر فعال
+    .tooltiptext = بروزرسانی‌های جدید به صورت خودکار نصب نشوند
 detail-home =
     .label = صفحهٔ افزودنی
 detail-home-value =
@@ -54,7 +87,37 @@ detail-repository =
     .label = نمایهٔ افزودنی
 detail-repository-value =
     .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = بررسی برای بروزرسانی‌ها
+    .accesskey = ب
+    .tooltiptext = بررسی بروزرسانی‌های این افزودنی
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] گزینه‌ها
+           *[other] ترجیحات
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] گ
+           *[other] ت
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] تغییر گزینه‌های این افزودنی
+           *[other] تغییر ترجیحات این افزودنی
+        }
 detail-rating =
     .value = رتبه‌بندی
 addon-restart-now =
     .label = راه‌اندازی مجدد
+disabled-unsigned-heading =
+    .value = برخی افزودنی‌ها غیر فعال شده‌اند
+disabled-unsigned-description = افزودنی‌های زیر برای استفاده در { -brand-short-name } تایید نشده‌اند. شما میتوانید <label data-l10n-name="find-addons">یافتن جایگزین</label> یا از توسعه‌دهنده بخواهید تا آنها را تایید نماید.
+disabled-unsigned-learn-more = در مورد تلاش های ما برای کمک به حفظ امنیت آنلاین شما بیشتر بیاموزید.
+disabled-unsigned-devinfo = توسعه‌دهندگانی که علاقه‌مند به دریافت تاییدیهٔ افزودنی‌های خود هستند می‌توانند ادامه دهند با خواندنِ <label data-l10n-name="learn-more">کتابچهٔ راهنما</label>.
+plugin-deprecation-description = چیزی گم کرده‌اید؟ بعضی از افزونه‌ها دیگر توسط{ -brand-short-name } پشتیبانی نمی‌شود. <label data-l10n-name="learn-more">بیشتر بدانید.</label>
+legacy-warning-show-legacy = نمایش ضمیمه‌های قدیمی
+legacy-extensions =
+    .value = ضمیمه‌های قدیمی
+legacy-extensions-description = این ضمیمه‌ها استاندارهای لازم { -brand-short-name } را ندارند و به همین دلیل غیرفعال شده‌اند. <label data-l10n-name="legacy-learn-more">در مورد تغییرات در افزودنی‌ها بیشتر بدانید</label>
