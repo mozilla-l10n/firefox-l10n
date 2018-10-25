@@ -14,5 +14,6 @@
 <!ENTITY restoreDefaultSet.label  "Standard wobnowić">
 <!ENTITY addNewToolbar.label      "Nowu symbolowu lajstu přidać">
 <!ENTITY showTitlebar.label       "Titulnu lajstu pokazać">
+<!ENTITY extraDragSpace.label     "Ćehnity rum přidać">
 <!ENTITY saveChanges.label        "Hotowo">
 <!ENTITY undoChanges.label        "Změny cofnyć">
