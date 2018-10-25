@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Upravitelj dodacima
+search-header =
+    .placeholder = Pretraži addons.mozilla.org
+    .searchbuttonlabel = Traži
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Instaliraj dodatak iz datoteke…
     .accesskey = I
+help-button = Podrška za dodatke
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } Mogućnosti
+       *[other] { -brand-short-name } Postavke
+    }
 tools-menu =
     .tooltiptext = Alati za sve dodatke
 show-unsigned-extensions-button =
@@ -107,6 +116,8 @@ detail-show-preferences =
             [windows] Promijeni mogućnosti ovog dodatka
            *[other] Promijeni osobitosti ovog dodatka
         }
+detail-rating =
+    .value = Ocjena
 addon-restart-now =
     .label = Ponovno pokreni sada
 disabled-unsigned-heading =
