@@ -24,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Asenna lisäosa tiedostosta…
     .accesskey = A
+help-button = Lisäosien tuki
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name }-asetukset
+       *[other] { -brand-short-name }-asetukset
+    }
 tools-menu =
     .tooltiptext = Työkaluja kaikille lisäosille
 show-unsigned-extensions-button =
