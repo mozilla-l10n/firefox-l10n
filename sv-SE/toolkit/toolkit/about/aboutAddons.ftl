@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Hantera tillägg
+search-header =
+    .placeholder = Sök på addons.mozilla.org
+    .searchbuttonlabel = Sök
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Installera tillägg från fil…
     .accesskey = I
+help-button = Support för tillägg
+preferences =
+    { PLATFORM() ->
+        [windows] Inställningar för { -brand-short-name }
+       *[other] Inställningar för { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Verktyg för alla tillägg
 show-unsigned-extensions-button =
@@ -117,3 +126,7 @@ disabled-unsigned-description = Följande tillägg har inte verifierats för anv
 disabled-unsigned-learn-more = Läs mer om vår strävan för att hjälpa till att hålla dig säker på nätet.
 disabled-unsigned-devinfo = Utvecklare som är intresserade av att få sina tillägg verifierade kan fortsätta genom att läsa vår <label data-l10n-name="learn-more">handbok</label>.
 plugin-deprecation-description = Saknar du något? Vissa insticksmoduler stöds inte längre av { -brand-short-name }. <label data-l10n-name="learn-more">Läs mer.</label>
+legacy-warning-show-legacy = Visa äldre tillägg
+legacy-extensions =
+    .value = Äldre tillägg
+legacy-extensions-description = Dessa tillägg uppfyller inte nuvarande standarder i { -brand-short-name } så de har inaktiverats. <label data-l10n-name="legacy-learn-more">Läs mer om ändringar av tillägg</label>
