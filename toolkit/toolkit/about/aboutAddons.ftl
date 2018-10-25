@@ -21,12 +21,26 @@ install-addon-from-file =
     .accesskey = I
 tools-menu =
     .tooltiptext = Indstillinger for alle tilføjelser
+debug-addons =
+    .label = Debug udvidelser
+    .accesskey = e
 cmd-show-details =
     .label = Vis flere detaljer
     .accesskey = V
 cmd-find-updates =
     .label = Find opdateringer
     .accesskey = F
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Indstillinger
+           *[other] Indstillinger
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
+        }
 cmd-enable-theme =
     .label = Brug tema
     .accesskey = t
@@ -41,6 +55,10 @@ cmd-contribute =
     .accesskey = B
     .tooltiptext = Bidrag til udviklingen af denne tilføjelse
 discover-title = Hvad er tilføjelser?
+discover-description =
+    Tilføjelser er små programmer som du kan bruge til at tilpasse { -brand-short-name } med
+    ekstra funktioner eller andet udseende. Prøv et tidsbesparende sidepanel, bliv gjort opmærksom på vejret, eller prøv et nyt look og gør
+    dermed  { -brand-short-name } til din helt egen.
 discover-footer =
     Når du er koblet til nettet vil denne oversigt
     vise nogle af de bedste og mest populære tilføjelser, som du kan prøve af.
@@ -58,6 +76,8 @@ detail-update-automatic =
 detail-update-manual =
     .label = Fra
     .tooltiptext = Installer ikke opdateringer automatisk
+detail-home =
+    .label = Webside
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
@@ -68,7 +88,24 @@ detail-check-for-updates =
     .label = Søg efter opdateringer
     .accesskey = T
     .tooltiptext = Søg efter tilgængelige opdateringer til denne tilføjelse
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Indstillinger
+           *[other] Indstillinger
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Rediger indstillinger for denne tilføjelse
+           *[other] Rediger indstillinger for denne tilføjelse
+        }
 detail-rating =
     .value = Vurdering
 addon-restart-now =
     .label = Genstart nu
+plugin-deprecation-description = Mangler du noget? Nogle plugins er ikke længere understøttet af { -brand-short-name }. <label data-l10n-name="learn-more">Læs mere.</label>
