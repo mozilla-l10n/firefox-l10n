@@ -40,6 +40,7 @@ cmd-install-addon =
     .label = התקנה
     .accesskey = ה
 discover-title = מה הן תוספות?
+discover-description = תוספות הן יישומים המאפשרים לך להתאים אישית את { -brand-short-name } עם סגנון  או פונקציונליות נוספים. נסה סרגל־צד חוסך זמן, מדווח מזג אוויר, או מראה שונה כדי להפוך את { -brand-short-name }  לשלך.
 detail-version =
     .label = גרסה
 detail-last-updated =
