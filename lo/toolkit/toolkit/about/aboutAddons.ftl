@@ -55,3 +55,5 @@ detail-check-for-updates =
     .tooltiptext = ກວດເບິ່ງການອັບເດດນີ້ສຳລັບ add-on
 detail-rating =
     .value = ຄະແນນ
+addon-restart-now =
+    .label = ເລີ່ມລະບົບໃໝ່ດຽວນີ້
