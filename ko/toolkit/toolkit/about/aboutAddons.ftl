@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+search-header =
+    .placeholder = addons.mozilla.org 검색
+    .searchbuttonlabel = 검색
 loading-label =
     .value = 읽는 중…
 list-empty-installed =
@@ -17,8 +20,18 @@ list-empty-button =
 install-addon-from-file =
     .label = 파일에서 부가 기능 설치…
     .accesskey = I
+help-button = 부가 기능 지원
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } 옵션
+       *[other] { -brand-short-name } 환경 설정
+    }
 tools-menu =
     .tooltiptext = 부가 기능 도구
+show-unsigned-extensions-button =
+    .label = 몇몇 확장기능은 확인을 할 수 없음
+show-all-extensions-button =
+    .label = 모든 확장기능 보기
 cmd-show-details =
     .label = 자세히 보기
     .accesskey = S
@@ -98,3 +111,13 @@ detail-show-preferences =
         }
 addon-restart-now =
     .label = 다시 시작
+disabled-unsigned-heading =
+    .value = 몇몇 부가 기능이 비활성화 됨
+disabled-unsigned-description = 다음 부가기능은 { -brand-short-name }에서의 사용이 확인되지 않았습니다. <label data-l10n-name="find-addons">대체제를 검색</label>하거나 개발자가 확인을 받도록 요청할 수 있습니다.
+disabled-unsigned-learn-more = 사용자가 온라인에서 안전할 수 있게 노력하는 내용에 대해서 더 알아보세요.
+disabled-unsigned-devinfo = 부가기능을 확인하는데 관심이 있는 개발자는 <label data-l10n-name="learn-more">메뉴얼</label>을 읽어보세요.
+plugin-deprecation-description = 빠진게 있나요? 어떤 플러그인은 { -brand-short-name }에서 더이상 지원하지 않습니다. <label data-l10n-name="learn-more">더 알아보기.</label>
+legacy-warning-show-legacy = 오래된 확장 기능 보기
+legacy-extensions =
+    .value = 오래된 확장 기능
+legacy-extensions-description = 이 확장 기능들은 현재 { -brand-short-name } 표준에 맞지 않으므로 비활성화되었습니다. <label data-l10n-name="legacy-learn-more">부가 기능의 변경 내용 알아보기</label>
