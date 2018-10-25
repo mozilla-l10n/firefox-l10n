@@ -13,9 +13,9 @@ list-empty-installed =
 list-empty-available-updates =
     .value = Uyya' ewumeeta' yu'pthẽnxisa's.
 list-empty-recent-updates =
-    .value = Yu'pthẽnxi' txaçxhme' maa juhtxpa kãajãhna{ " " }
+    .value = Yu'pthẽnxi' txaçxhme' maa juhtxpa kãajãhna
 list-empty-find-updates =
-    .label = { " " }Yu'pthẽwa'ja's pakwen
+    .label = Yu'pthẽwa'ja's pakwen
 list-empty-button =
     .label = Piyana jweiçxaa pta'sxnakwekweju kãajãhna.
 install-addon-from-file =
@@ -26,12 +26,12 @@ tools-menu =
 show-unsigned-extensions-button =
     .label = Maaĩtxi' nuyjxujan thẽgya' ewumee ũsa'.
 show-all-extensions-button =
-    .label = Nuyjxujanxisa's jxuka kthẽgun{ " " }
+    .label = Nuyjxujanxisa's jxuka kthẽgun
 debug-addons =
     .label = Yatenxi's kãajãhna
     .accesskey = Y
 cmd-show-details =
-    .label = Kthẽgun jweiçxaa pta'sxna{ " " }
+    .label = Kthẽgun jweiçxaa pta'sxna
     .accesskey = K
 cmd-find-updates =
     .label = & Yu'pthẽwa'ja's pakwen
@@ -40,7 +40,7 @@ cmd-preferences =
     .label =
         { PLATFORM() ->
             [windows] Kuh jwed
-           *[other] Txhitxwa'j{ " " }
+           *[other] Txhitxwa'j
         }
     .accesskey =
         { PLATFORM() ->
@@ -48,7 +48,7 @@ cmd-preferences =
            *[other] T
         }
 cmd-enable-theme =
-    .label = Kseelpihna puutxwe'wen{ " " }
+    .label = Kseelpihna puutxwe'wen
     .accesskey = K
 cmd-disable-theme =
     .label = Nvxithna & kçxhaçxhan vxisna
@@ -67,18 +67,18 @@ detail-version =
     .label = Yu'pthẽhn fxiy fxiy kthẽgun
 detail-last-updated =
     .label = Nmehtewe'sxa's yu'pthẽhna
-detail-contributions-description = Mjĩna naa kãajã'ñxisa's pẽyna ki'h mpu'çx jĩna takhna idx mjĩnxi's vxithna le'çkweçxapa puutx pu'çxna.{ " " }
+detail-contributions-description = Mjĩna naa kãajã'ñxisa's pẽyna ki'h mpu'çx jĩna takhna idx mjĩnxi's vxithna le'çkweçxapa puutx pu'çxna.
 detail-update-type =
     .value = Txãaiçxhaa yu'pthẽhna
 detail-update-default =
     .label = Nyafxtewe'sx
     .tooltiptext = Txãaiçxha yu'pthẽhn çxkitxan nasaa ãçxaak pẽy
 detail-update-automatic =
-    .label = Ki'htan{ " " }
+    .label = Ki'htan
     .tooltiptext = Txãaiçxaa çxkitxan ki'h yu'pthẽhna.
 detail-update-manual =
     .label = Spahkxna
-    .tooltiptext = Txãaiçxaa çxktxãya'mee yu'pthẽwa'ja's{ " " }
+    .tooltiptext = Txãaiçxaa çxktxãya'mee yu'pthẽwa'ja's
 detail-home =
     .label = Ajte jxã'j  pu'txna
 detail-home-value =
@@ -88,7 +88,7 @@ detail-repository =
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
-    .label = Yu'pthẽwa'ja's pakwen{ " " }
+    .label = Yu'pthẽwa'ja's pakwen
     .accesskey = Y
     .tooltiptext = Pakwen yu'pthẽwa'ja's na's kãajãhna
 detail-show-preferences =
