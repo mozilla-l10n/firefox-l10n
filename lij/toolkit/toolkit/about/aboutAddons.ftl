@@ -12,8 +12,7 @@ search-header-shortcut =
 loading-label =
     .value = Carego…
 list-empty-installed =
-    .value = Ti no gh'æ di conponenti azonti de sto tipo instalæ{ "
-    " }
+    .value = Ti no gh'æ di conponenti azonti de sto tipo instalæ
 list-empty-available-updates =
     .value = Nisciun agiornamento trovou
 list-empty-recent-updates =
