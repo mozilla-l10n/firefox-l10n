@@ -4,6 +4,9 @@
 
 search-header-shortcut =
     .key = f
+cmd-find-updates =
+    .label = GòzăɁl ko kùb
+    .accesskey = F
 cmd-preferences =
     .label =
         { PLATFORM() ->
