@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Ardoer an askouezhioù
+search-header =
+    .placeholder = Klask war addons.mozilla.org
+    .searchbuttonlabel = Klask
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Staliañ askouezhioù diouzh ar restr...
     .accesskey = i
+help-button = { " " }Skor an askouezhioù
+preferences =
+    { PLATFORM() ->
+        [windows] Dibarzhioù { -brand-short-name }
+       *[other] Gwellvezioù { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Ostilhoù evit an holl askouezhioù
 show-unsigned-extensions-button =
@@ -117,3 +126,7 @@ disabled-unsigned-description = N'eo ket bet gwiriet arver an askouezhioù da zo
 disabled-unsigned-learn-more = Deskiñ hiroc'h a-zivout hor strivoù evit skoazell ac'hanoc'h da vezañ diarvar enlinenn.
 disabled-unsigned-devinfo = Diorroerien dedennet evit gwiriekaat o askouezhioù a c'hell kenderc'hel en ul lenn hor <label data-l10n-name="learn-more">dornlevr</label>.
 plugin-deprecation-description = Mankout 'ra un dra bennak? Ul lodenn eus an enlugelladoù n'int ket skoret gant { -brand-short-name } ken. <label data-l10n-name="learn-more">Gouzout hiroc'h.</label>
+legacy-warning-show-legacy = Diskouez an askouezhioù diamzeret
+legacy-extensions =
+    .value = Askouezhioù diamzeret
+legacy-extensions-description = An askouezhioù-mañ ne glotont ket kenn gant skouerioù { -brand-short-name } ha diweredekaet int bet. <label data-l10n-name="legacy-learn-more">Gouzout hiroc'h a-zivout ar c'hemmoù en askouezhioù</label>
