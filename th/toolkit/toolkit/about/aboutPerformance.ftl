@@ -13,6 +13,7 @@ column-energy-impact = ผลกระทบด้านพลังงาน
 
 ## Special values for the Name column
 
+ghost-windows = แท็บที่ปิดล่าสุด
 
 ## Values for the Type column
 
@@ -29,8 +30,13 @@ type-other = อื่น ๆ
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
+energy-impact-high = สูง ({ $value })
+energy-impact-medium = ปานกลาง ({ $value })
+energy-impact-low = ต่ำ ({ $value })
 
 ## Tooltips for the action buttons
 
 close-tab =
     .title = ปิดแท็บ
+show-addon =
+    .title = แสดงในตัวจัดการส่วนเสริม
