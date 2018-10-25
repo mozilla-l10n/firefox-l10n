@@ -114,6 +114,7 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = 一部のアドオンが無効化されています
 disabled-unsigned-description = 次のアドオンは { -brand-short-name } での使用が検証されていません。<label data-l10n-name="find-addons">代わりのアドオンを見つける</label>か、検証されたアドオンを入手できるように開発者に依頼してください。
+disabled-unsigned-learn-more = ユーザーのオンライン上の安全を保つ私たちの活動について学んでください。
 disabled-unsigned-devinfo = アドオンの検証に興味のある開発者の方は<label data-l10n-name="learn-more">マニュアル</label>をお読みください。
 plugin-deprecation-description = { -brand-short-name } によるサポートが終了したプラグインは表示されません。 <label data-l10n-name="learn-more">詳細</label>
 legacy-warning-show-legacy = 旧式の拡張機能を表示
