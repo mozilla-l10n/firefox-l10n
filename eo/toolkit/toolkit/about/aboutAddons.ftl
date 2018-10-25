@@ -124,3 +124,6 @@ disabled-unsigned-description = La jenaj aldonaĵoj ne estis kontrolitaj por uzo
 disabled-unsigned-learn-more = Pli da informo pri niaj penoj helpi vin plu esti sekura en la reto.
 disabled-unsigned-devinfo = Programistoj, kiuj volas ke iliaj aldonaĵoj estu kontrolitaj povas komenci per legado de nia <label data-l10n-name="learn-more">manlibro</label>.
 plugin-deprecation-description = Ĉu io mankas? Kelkaj kromprogramoj ne plu estas subtenataj de { -brand-short-name }. <label data-l10n-name="learn-more">Pli da informo.</label>
+legacy-warning-show-legacy = Montri kadukajn etendaĵojn
+legacy-extensions =
+    .value = Kadukaj etendaĵoj
