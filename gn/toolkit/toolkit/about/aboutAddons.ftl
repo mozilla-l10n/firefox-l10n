@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Moĩmbaha ñangarekohára
+search-header =
+    .placeholder = Eheka addons.mozilla.org
+    .searchbuttonlabel = Heka
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Emohenda moĩmbaha marandurenda guive…
     .accesskey = I
+help-button = Moimbaha jokoha
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } Poravopyrã
+       *[other] { -brand-short-name } Jerohoryvéva
+    }
 tools-menu =
     .tooltiptext = Tembipuru opaite moimbahápe g̃uarã
 show-unsigned-extensions-button =
