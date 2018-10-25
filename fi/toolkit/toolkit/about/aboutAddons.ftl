@@ -8,6 +8,8 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = Ladataan…
+list-empty-installed =
+    .value = Tämäntyyppisiä lisäosia ei ole asennettuna
 list-empty-available-updates =
     .value = Päivityksiä ei löytynyt
 list-empty-recent-updates =
@@ -25,6 +27,9 @@ show-unsigned-extensions-button =
     .label = Joitain laajennuksia ei voitu varmentaa
 show-all-extensions-button =
     .label = Näytä kaikki laajennukset
+debug-addons =
+    .label = Jäljitä lisäosien virheitä
+    .accesskey = J
 cmd-show-details =
     .label = Näytä lisätietoja
     .accesskey = N
@@ -113,3 +118,9 @@ disabled-unsigned-heading =
     .value = Jotkin lisäosat on otettu pois päältä
 disabled-unsigned-description = Seuraavia lisäosia ei ole varmennettu käytettäväksi { -brand-short-name }issa. Voit <label data-l10n-name="find-addons">etsiä korvaavia lisäosia</label> tai pyytää kehittäjää varmentamaan ne.
 disabled-unsigned-learn-more = Lue lisää tavoista, joilla yritämme auttaa sinua pysymään turvassa verkossa.
+disabled-unsigned-devinfo = Kehittäjät, joita kiinnostaa lisäosansa varmentaminen, voivat lukea <label data-l10n-name="learn-more">käsikirjamme</label>.
+plugin-deprecation-description = Puuttuuko jotain? { -brand-short-name } ei enää tue joitain liitännäisiä. <label data-l10n-name="learn-more">Lue lisää.</label>
+legacy-warning-show-legacy = Näytä perinteiset laajennukset
+legacy-extensions =
+    .value = Perinteiset laajennukset
+legacy-extensions-description = Nämä laajennukset eivät täytä { -brand-short-name }in nykyisiä vaatimuksia, joten ne on poistettu käytöstä. <label data-l10n-name="legacy-learn-more">Lue lisää muutoksista lisäosiin</label>
