@@ -27,4 +27,4 @@ blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-name = การปกป้องแบบพื้นฐานของ Disconnect.me (แนะนำ)
 blocklist-item-moz-std-desc = อนุญาตตัวติดตามบางส่วนเพื่อให้เว็บไซต์ทำงานได้ถูกต้อง
 blocklist-item-moz-full-name = การปกป้องแบบเข้มงวดของ Disconnect.me
-blocklist-item-moz-full-desc = ปิดกั้นตัวติดตามที่รู้จัก เว็บไซต์บางแห่งอาจทำงานได้ไม่ถูกต้อง
+blocklist-item-moz-full-desc = ปิดกั้นตัวติดตามที่รู้จัก เว็บไซต์บางส่วนอาจทำงานได้ไม่ถูกต้อง
