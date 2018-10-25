@@ -8,8 +8,12 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = Tê barkirin…
+list-empty-installed =
+    .value = Tu add-onên te yên sazkirî yên ji vê cureyê nîn in
 list-empty-available-updates =
     .value = Tu rojanekirin nehat dîtin
+list-empty-recent-updates =
+    .value = Di demeke nêz de te tu add-on rojane nekiriye
 list-empty-find-updates =
     .label = Ji bo Rojanekirinan Kontrol Bike
 list-empty-button =
@@ -50,6 +54,8 @@ cmd-contribute =
     .accesskey = H
     .tooltiptext = Ji bo pêşdebirina vê add-onê hevkariyê bike
 discover-title = Add-on çi ne?
+discover-description = Add-on sepan in û bi wan dikarî { -brand-short-name }ê taybet bikî. Dikarî taybetî û şêwazên cuda bi kar bînî. Dikarî kara-ji-demê, hişyarkiirna seqayê, an jî dirbên xuyakirinê bi kar bînî û { -brand-short-name }a xwe xweşiktir bikî.
+discover-footer = Dema ku tu bikevî înternetê, ev pencerok dê ji bo ceribandina te bikeve hin add-onên herî baş û nas.
 detail-version =
     .label = Guherto
 detail-last-updated =
@@ -57,9 +63,15 @@ detail-last-updated =
 detail-contributions-description = Pêşdebira vê add-onê daxwaza alîkariya piştgiriyê ji te dike da ku piştgirî bidome.
 detail-update-type =
     .value = Rojanekirinên Xweber
+detail-update-default =
+    .label = Standard
+    .tooltiptext = Eger tenê ev standard be, rojanekirinan xweber saz bike
 detail-update-automatic =
     .label = Çalak
     .tooltiptext = Rojanekirinan xweber saz bike
+detail-update-manual =
+    .label = Neçalak
+    .tooltiptext = Rojanekirinan xweber saz neke
 detail-home =
     .label = Serûpel
 detail-home-value =
@@ -72,6 +84,22 @@ detail-check-for-updates =
     .label = Li rojanekirinan bigere
     .accesskey = L
     .tooltiptext = Ji bo vê add-onê rojanekirinan kontrol bike
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Vebijêrk
+           *[other] Vebijêrk
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] V
+           *[other] V
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Vebijêrkên vê add-onê biguherîne
+           *[other] Vebijêrkên vê add-onê biguherîne
+        }
 detail-rating =
     .value = Dengdan
 addon-restart-now =
