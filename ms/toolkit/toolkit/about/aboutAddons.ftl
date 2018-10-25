@@ -4,9 +4,12 @@
 
 search-header-shortcut =
     .key = f
+list-empty-recent-updates =
+    .value = Anda tidak ada mengemaskini sebarang add-on baru-baru ini
 tools-menu =
     .tooltiptext = Alatan untuk semua add-on
 discover-title = Apakah Add-ons?
+discover-footer = Apabila anda telah disambungkan ke internet, anak tetingkap ini akan  memaparkan beberapa aplikasi tambahan yang menarik dan popular untuk anda cuba.
 detail-version =
     .label = Versi
 detail-contributions-description = Pembangun aplikasi tambahan ini meminta anda bantuan untuk menyokong pembangunan yang berterusan dengan memberikan sedikit sumbangan.
