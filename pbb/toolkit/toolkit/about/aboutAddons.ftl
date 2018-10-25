@@ -1,0 +1,117 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+addons-window =
+    .title = Jxkaan kãajãwa'ja's
+search-header-shortcut =
+    .key = f
+loading-label =
+    .value = Akhya'..
+list-empty-installed =
+    .value = Çxkitxãnximee ji'pha maitxi' kãajãhna naatx kthẽguhna.
+list-empty-available-updates =
+    .value = Uyya' ewumeeta' yu'pthẽnxisa's.
+list-empty-recent-updates =
+    .value = Yu'pthẽnxi' txaçxhme' maa juhtxpa kãajãhna{ " " }
+list-empty-find-updates =
+    .label = { " " }Yu'pthẽwa'ja's pakwen
+list-empty-button =
+    .label = Piyana jweiçxaa pta'sxnakwekweju kãajãhna.
+install-addon-from-file =
+    .label = Çxkitxãn manentey eç jxawnisa's kãajãhna...
+    .accesskey = Ç
+tools-menu =
+    .tooltiptext = Vxisnxisa' jxuka kãjãxiya'tha'
+show-unsigned-extensions-button =
+    .label = Maaĩtxi' nuyjxujan thẽgya' ewumee ũsa'.
+show-all-extensions-button =
+    .label = Nuyjxujanxisa's jxuka kthẽgun{ " " }
+debug-addons =
+    .label = Yatenxi's kãajãhna
+    .accesskey = Y
+cmd-show-details =
+    .label = Kthẽgun jweiçxaa pta'sxna{ " " }
+    .accesskey = K
+cmd-find-updates =
+    .label = & Yu'pthẽwa'ja's pakwen
+    .accesskey = F
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Kuh jwed
+           *[other] Txhitxwa'j{ " " }
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] K
+           *[other] T
+        }
+cmd-enable-theme =
+    .label = Kseelpihna puutxwe'wen{ " " }
+    .accesskey = K
+cmd-disable-theme =
+    .label = Nvxithna & kçxhaçxhan vxisna
+    .accesskey = W
+cmd-install-addon =
+    .label = Çxkitxãna
+    .accesskey = Ç
+cmd-contribute =
+    .label = & Pu'çxna
+    .accesskey = C
+    .tooltiptext = Pu'çxya txãa kãjanxisa's pheu'nu'khan
+discover-title = ¿Kãajãnxisa' kĩhtxna?
+discover-description = Kãajãnxisa' vxiswa'tha' peekxjĩçxa's ki'h kthegujxa' { -brand-short-name } mjĩya' meeçxa' tudtewe'sxa's.Ki'h kaayakin teeçx panel puçkhẽ ki'h eenpa' ji'phuna, eenaspa ma'h ũstepa kthẽguhna meeçxa'teexçx pisanxi ũstepa vxithya' { -brand-short-name }  idxjĩ's isatewe'sxa's.
+discover-footer = Ma'wẽn çxkitxãçxah Internet-te, naa panela's nuywalaana maĩ ewsa vxite nmeh jxthuthẽsa's kãajãhna ki'k jiyuya'.
+detail-version =
+    .label = Yu'pthẽhn fxiy fxiy kthẽgun
+detail-last-updated =
+    .label = Nmehtewe'sxa's yu'pthẽhna
+detail-contributions-description = Mjĩna naa kãajã'ñxisa's pẽyna ki'h mpu'çx jĩna takhna idx mjĩnxi's vxithna le'çkweçxapa puutx pu'çxna.{ " " }
+detail-update-type =
+    .value = Txãaiçxhaa yu'pthẽhna
+detail-update-default =
+    .label = Nyafxtewe'sx
+    .tooltiptext = Txãaiçxha yu'pthẽhn çxkitxan nasaa ãçxaak pẽy
+detail-update-automatic =
+    .label = Ki'htan{ " " }
+    .tooltiptext = Txãaiçxaa çxkitxan ki'h yu'pthẽhna.
+detail-update-manual =
+    .label = Spahkxna
+    .tooltiptext = Txãaiçxaa çxktxãya'mee yu'pthẽwa'ja's{ " " }
+detail-home =
+    .label = Ajte jxã'j  pu'txna
+detail-home-value =
+    .value = { detail-home.label }
+detail-repository =
+    .label = Eçx jiyunisa's kãjã'na
+detail-repository-value =
+    .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = Yu'pthẽwa'ja's pakwen{ " " }
+    .accesskey = Y
+    .tooltiptext = Pakwen yu'pthẽwa'ja's na's kãajãhna
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] & Kuh jwedsaa
+           *[other] Txhitxwa'j
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] T
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Kuh jwed yu'pthẽhn naa kãajãnxisatx
+           *[other] Yu'pthẽn txhitxna  na's kãajãhya'
+        }
+detail-rating =
+    .value = Ma'wẽ piyatepa jiyuya'
+addon-restart-now =
+    .label = Ãçxh ki'ki'n takhya'.
+disabled-unsigned-heading =
+    .value = Maai kãajãhnxisa' kçxhaçxanimeek neyũu.
+disabled-unsigned-description = Yaçkawe'sxa's kãajanxisa' ki'h thẽgnximee neyũutxna idx vxisnxisa' { -brand-short-name }.Ewuma'kh.<label data-l10n-name="find-addons">Uyna yu'pthẽhna</label>meeçxa' papẽhyna mjĩsa's ki'h thẽgya'.
+disabled-unsigned-learn-more = Thakwe jiyuya kwesx çxaçxa yatxnxisatx pu'çxjxa phuphwaja's txa dxi'the.
