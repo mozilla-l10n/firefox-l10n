@@ -6,6 +6,8 @@ do-not-track-description = Šalji “Ne prati me” signal web stranicama (stran
 do-not-track-learn-more = Saznajte više
 do-not-track-option-default =
     .label = Samo kada koristim zaštitu od praćenja
+do-not-track-option-default-content-blocking =
+    .label = Jedino kada je { -brand-short-name } postavljen da blokira otkrivene pratitelje.
 do-not-track-option-always =
     .label = Uvijek
 pref-page =
@@ -51,6 +53,7 @@ pane-sync-title = Firefox račun
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } podrška
+addons-button-label = Proširenja i Teme
 focus-search =
     .key = f
 close-button =
@@ -75,9 +78,24 @@ restart-later = Ponovno pokreni poslije
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira vašu početnu stranicu.
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira vašu početnu stranicu nove kartice.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira ovu postavku.
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = Dodatak, <img data-l10n-name="icon"/> { $name }, je postavio vašu zadanu tražilicu.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = Dodatak, <img data-l10n-name="icon"/> { $name }, zahtijeva sadržajne kartice.
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira zaštitu od praćenja.
 
 ## Preferences UI Search Results
 

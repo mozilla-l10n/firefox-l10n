@@ -54,9 +54,17 @@ permissions-exceptions-tracking-protection-window =
     .title = Iznimke - zaštita od praćenja
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Na ovim stranicama ste isključili zaštitu od praćenja.
+permissions-exceptions-content-blocking-window =
+    .title = Iznimke - blokiranje sadržaja
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Onemogućili ste blokiranje sadržaja za ove stranice.
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Iznimke - kolačići i podaci web stranice
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Možete navesti koje web stranice smiju uvijek ili nikad koristiti kolačiće i podatke web stranice. Unesite točnu adresu stranice koju želite podesiti, te kliknite Blokiraj, Dopusti za sesiju ili Dopusti.
 
 ## Exceptions - Pop-ups
 
@@ -79,11 +87,21 @@ permissions-exceptions-addons-window =
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Možete odabrati koje web stranice smiju instalirati dodatke. Upišite točnu adresu web stranice kojoj to želite dopustiti, te kliknite na Dopusti.
 
+## Exceptions - Autoplay Media
+
+permissions-exceptions-autoplay-media-window2 =
+    .title = Iznimke - automatska reprodukcija
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc2 = Možete navesti koje web stranice smiju uvijek ili nikad automatski reproducirati medij sa zvukom. Unesite točnu adresu stranice koju želite podesiti, te kliknite Blokiraj ili Dopusti.
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
     .title = Postavke - dozvole za obavijesti
     .style = { permissions-window.style }
+permissions-site-notification-desc = Sljedeće web stranice su vas zatražile slanje obavijesti. Možete navesti koje su vam web stranice dopuštene slati obavijesti. Također možete blokirati nove zahtjeve za slanje obavijesti.
+permissions-site-notification-disable-label =
+    .label = Blokiraj nove zahtjeve koji traže dozvolu za obavijesti
 
 ## Site Permissions - Location
 
