@@ -115,4 +115,5 @@ disabled-unsigned-heading =
     .value = I na tontoni fooyaŋ kayandi
 disabled-unsigned-description = Tontoney wey mana hin ka tabatandi ka goy nda { -brand-short-name }. War ga hin ka <label data-l10n-name="find-addons">duu barmay hayey</label> wala wa cinakaa hãa k'i tabatandi.
 disabled-unsigned-learn-more = Bay ka tonton kaŋ ir ga durkutu ka war saajaw interneti ra.
+disabled-unsigned-devinfo = Cinakey kaŋ ga boona ngi tontoney ma korosandi ma gaabandi ka caw ir <label data-l10n-name="learn-more">fahamandi tiira ra</label>.
 plugin-deprecation-description = Haya foo ga kuma? Sukari fooyaŋ ši kanbandi koyne { -brand-short-name } ga. <label data-l10n-name="learn-more">Bay ka tonton.</label>
