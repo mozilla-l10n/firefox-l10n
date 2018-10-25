@@ -4,12 +4,16 @@
 
 addons-window =
     .title = Tilføjelser
+search-header-shortcut =
+    .key = f
 loading-label =
     .value = Henter…
 list-empty-installed =
     .value = Du har ikke nogen tilføjelser af denne type installeret
 list-empty-available-updates =
     .value = Ingen opdateringer fundet
+list-empty-find-updates =
+    .label = Søg efter opdateringer
 list-empty-button =
     .label = Lær mere om tilføjelser
 install-addon-from-file =
@@ -60,6 +64,10 @@ detail-repository =
     .label = Profil af tilføjelse
 detail-repository-value =
     .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = Søg efter opdateringer
+    .accesskey = T
+    .tooltiptext = Søg efter tilgængelige opdateringer til denne tilføjelse
 detail-rating =
     .value = Vurdering
 addon-restart-now =
