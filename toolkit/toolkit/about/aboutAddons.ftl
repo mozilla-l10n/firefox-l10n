@@ -33,6 +33,20 @@ debug-addons =
 cmd-show-details =
     .label = আরও তথ্য প্রদর্শন করা হবে S
     .accesskey = S
+cmd-find-updates =
+    .label = হালনাগাদ অনুসন্ধান
+    .accesskey = F
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] অপশন
+           *[other] পছন্দসমূহ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
 cmd-enable-theme =
     .label = থীম যোগ W
     .accesskey = W
@@ -56,18 +70,43 @@ detail-last-updated =
 detail-contributions-description = এ অ্যাড-অন ডেভেলপার বলে যে, আপনি আপনার যে কোনো ছোট অবদান দিয়েও এই অ্যাড-অনের উন্নয়নে সহায়তা করতে পারেন।
 detail-update-type =
     .value = স্বয়ংক্রিয় হালনাগাদ
+detail-update-default =
+    .label = ডিফল্ট
+    .tooltiptext = ডিফল্ট হলেই কেবল স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে
 detail-update-automatic =
     .label = সচল
     .tooltiptext = স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে
 detail-update-manual =
     .label = বন্ধ
     .tooltiptext = স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে না
+detail-home =
+    .label = নীড়পাতা
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
     .label = অ্যাড-অন প্রোফাইল
 detail-repository-value =
     .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = হালনাগাদের জন্য পরীক্ষা
+    .accesskey = f
+    .tooltiptext = এই অ্যাড-অনের জন্য হালনাগাদ পরীক্ষা
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] অপশন
+           *[other] পছন্দসমূহ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] এই অ্যাড-অন এর অপশন পরিবর্তন করুন
+           *[other] এই অ্যাড-অন এর পছন্দসমূহ পরিবর্তন করুন
+        }
 detail-rating =
     .value = রেটিং
 addon-restart-now =
