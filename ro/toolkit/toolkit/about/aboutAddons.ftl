@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+search-header =
+    .placeholder = Caută pe addons.mozilla.org
+    .searchbuttonlabel = Căutare
 search-header-shortcut =
     .key = f
 loading-label =
@@ -16,6 +19,15 @@ list-empty-find-updates =
     .label = Caută actualizări
 list-empty-button =
     .label = Află mai multe despre suplimente
+install-addon-from-file =
+    .label = Instalează un supliment dintr-un fișier…
+    .accesskey = I
+help-button = Suport pentru suplimente
+preferences =
+    { PLATFORM() ->
+        [windows] Opțiuni { -brand-short-name }
+       *[other] Preferințe { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Instrumente pentru toate suplimentele
 show-unsigned-extensions-button =
@@ -25,6 +37,9 @@ show-all-extensions-button =
 debug-addons =
     .label = Depanează suplimente
     .accesskey = b
+cmd-show-details =
+    .label = Afișează mai multe informații
+    .accesskey = A
 cmd-find-updates =
     .label = Caută actualizări
     .accesskey = F
@@ -54,6 +69,7 @@ cmd-contribute =
     .tooltiptext = Contribuie la dezvoltarea acestui supliment
 discover-title = Ce sunt suplimentele?
 discover-description = Suplimentele sunt aplicații care îți permit să personalizezi { -brand-short-name } cu funcții sau stiluri suplimentare. Încearcă o bară laterală care economisește timp, un notificator pentru vreme sau o temă pentru a face din { -brand-short-name } o experiență unică.
+discover-footer = Când ești conectat la internet, acest panou va afișa cele mai utilizate și populare extensii pentru a-ți permite să le încerci.
 detail-version =
     .label = Versiune
 detail-last-updated =
@@ -105,4 +121,7 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Următoarele suplimente nu au fost verificate pentru a fi folosite în { -brand-short-name }. Poți <label data-l10n-name="find-addons">să găsești înlocuitoare</label> sau să întrebi dezvoltatorii pentru a fi verificate.
 disabled-unsigned-learn-more = Află mai multe despre eforturile noastre de a te ține în siguranță online.
 plugin-deprecation-description = Lipsește ceva? Unele pluginuri nu mai sunt suportate de { -brand-short-name }. <label data-l10n-name="learn-more">Află mai multe</label>
+legacy-warning-show-legacy = Afișează extensiile obsolete
+legacy-extensions =
+    .value = Extensii obsolete
 legacy-extensions-description = Aceste extensii nu îndeplinesc standardele actuale ale { -brand-short-name } astfel încât au fost dezactivate. <label data-l10n-name="legacy-learn-more">Află despre schimbările aduse suplimentelor</label>
