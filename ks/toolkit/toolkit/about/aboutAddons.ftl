@@ -32,8 +32,8 @@ cmd-find-updates =
 cmd-preferences =
     .label =
         { PLATFORM() ->
-            [windows] آپشنس{ "  " }
-           *[other] ترجیح{ " " }
+            [windows] آپشنس
+           *[other] ترجیح
         }
     .accesskey =
         { PLATFORM() ->
@@ -59,7 +59,7 @@ discover-footer = ییلہ توہیہ اِنٹرنیٹس سْیت کنیکٹْہ
 detail-version =
     .label = ترجمہ
 detail-last-updated =
-    .label = ٱخری اپڈیٹ{ " " }
+    .label = ٱخری اپڈیٹ
 detail-contributions-description = ییمہ ایڈ۔آنُک ڈیولپر  چُھ توہیہ منگان امدأدی تعاون امہ کِس لگاتار بڑھنس باپت اکھ لوکُٹ کنٹریبیوشن کرنْہ سْیت۔
 detail-update-type =
     .value = پانٲی اپڈیٹس
@@ -88,7 +88,7 @@ detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] آپشنس{ "  " }
-           *[other] ترجیح{ " " }
+           *[other] ترجیح
         }
     .accesskey =
         { PLATFORM() ->
