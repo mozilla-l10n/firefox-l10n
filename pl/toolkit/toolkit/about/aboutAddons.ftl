@@ -31,6 +31,12 @@ install-addon-from-file=
 
 help-button=Wsparcie dla dodatków
 
+preferences=
+  { PLATFORM() ->
+    [windows] Opcje programu
+    *[other] Preferencje programu
+  }
+
 tools-menu=
   .tooltiptext=Narzędzia dla wszystkich dodatków
 
