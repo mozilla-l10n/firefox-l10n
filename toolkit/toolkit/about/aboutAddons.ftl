@@ -8,8 +8,12 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = Se ye cargando…
+list-empty-installed =
+    .value = No tiene instalau garra complemento d'ista mena
 list-empty-available-updates =
     .value = No s'ha trobau garra actualización
+list-empty-recent-updates =
+    .value = No ha actualizau recientment garra complemento
 list-empty-find-updates =
     .label = Mirar si i hai actualizacions
 list-empty-button =
@@ -23,6 +27,9 @@ show-unsigned-extensions-button =
     .label = No s'ha puesto verificar bellas extensions
 show-all-extensions-button =
     .label = Amostrar todas as extensions
+debug-addons =
+    .label = Depurar complementos
+    .accesskey = p
 cmd-show-details =
     .label = Amostrar mas información
     .accesskey = A
@@ -54,6 +61,8 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = Colaborar en o desembolique d'iste complemento
 discover-title = Qué son os complementos?
+discover-description = Os complementos son aplicacions que le permiten personalizar { -brand-short-name } con funcionalidatz u estilos adicionals. Prebe un panel lateral ta cabidar tiempo, un notificador d'orache u un tema ta fer { -brand-short-name } mas personal.
+discover-footer = Quan siga connectau a Internet, ista finestra l'amostrará beluns d'os millors y mas populars complementos ta que los prebe.
 detail-version =
     .label = Versión
 detail-last-updated =
@@ -61,9 +70,15 @@ detail-last-updated =
 detail-contributions-description = O desembolicador d'iste complemento solicita que le aduyes a continar con o suyo desembolique fendo una chicota donación.
 detail-update-type =
     .value = Actualizacions automaticas
+detail-update-default =
+    .label = Por defecto
+    .tooltiptext = Instalar automaticament as actualizacions nomás si ixe ye o comportamiento por defecto
 detail-update-automatic =
     .label = Enchegadas
     .tooltiptext = Instalar as actualizacions automaticament
+detail-update-manual =
+    .label = Desenchegadas
+    .tooltiptext = No instalar as actualizacions automaticament
 detail-home =
     .label = Pachina d'inicio
 detail-home-value =
@@ -76,6 +91,22 @@ detail-check-for-updates =
     .label = Mirar si i hai actualizacions
     .accesskey = M
     .tooltiptext = Mirar si i hai actualizacions d'este complemento
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opcions
+           *[other] Preferencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Cambiar as opciones d'iste complemento
+           *[other] Cambiar as preferencias d'iste complemento
+        }
 detail-rating =
     .value = Puntuación
 addon-restart-now =
@@ -84,3 +115,5 @@ disabled-unsigned-heading =
     .value = Bells complementos s'han desactivau
 disabled-unsigned-description = Os siguients complementos no s'han puesto verificar pa o suyo uso en { -brand-short-name }. Puetz <label data-l10n-name="find-addons">trobar alternativas</label> u demandar a o desenrollador que las faiga verificar.
 disabled-unsigned-learn-more = Aprender mas sobre os nuestros esfuerzos ta aduyar-le a estar seguro en linia.
+disabled-unsigned-devinfo = Os desenrolladors interesaus en fer verificar os suyos complementos pueden seguir leyendo o nuestro <label data-l10n-name="learn-more">manual</label>.
+plugin-deprecation-description = Falta cosa? { -brand-short-name } ha deixau de soportar bells plugins. <label data-l10n-name="learn-more">Aprende-ne mas.</label>
