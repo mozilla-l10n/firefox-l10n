@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+addons-window =
+    .title = Manager de suplimente
 search-header =
     .placeholder = Caută pe addons.mozilla.org
     .searchbuttonlabel = Căutare
@@ -86,6 +88,8 @@ detail-update-automatic =
 detail-update-manual =
     .label = Dezactivate
     .tooltiptext = Nu instala actualizările automat
+detail-home =
+    .label = Pagină de start
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
@@ -120,6 +124,7 @@ disabled-unsigned-heading =
     .value = Unele suplimente au fost dezactivate
 disabled-unsigned-description = Următoarele suplimente nu au fost verificate pentru a fi folosite în { -brand-short-name }. Poți <label data-l10n-name="find-addons">să găsești înlocuitoare</label> sau să întrebi dezvoltatorii pentru a fi verificate.
 disabled-unsigned-learn-more = Află mai multe despre eforturile noastre de a te ține în siguranță online.
+disabled-unsigned-devinfo = Dezvoltatorii interesați în verificarea suplimentelor pot continua cu citirea <label data-l10n-name="learn-more">manual</label>.
 plugin-deprecation-description = Lipsește ceva? Unele pluginuri nu mai sunt suportate de { -brand-short-name }. <label data-l10n-name="learn-more">Află mai multe</label>
 legacy-warning-show-legacy = Afișează extensiile obsolete
 legacy-extensions =
