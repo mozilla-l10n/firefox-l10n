@@ -4,6 +4,8 @@
 
 addons-window =
     .title = Saytukatu modili mottali yi
+search-header-shortcut =
+    .key = f
 loading-label =
     .value = Yeb mi…
 list-empty-installed =
