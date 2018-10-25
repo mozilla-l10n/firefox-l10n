@@ -101,9 +101,13 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "A(z) <span class='hostname'/> tulajdonosa a weboldalát helytelenül állította be. Az Ön adatainak ellopását megakadályozandó a &brandShortName; nem csatlakozott ehhez a weboldalhoz.">
 <!ENTITY certerror.introPara2 "A &brandShortName; egy lehetséges biztonsági kockázatot észlelt, és nem lépett tovább a(z) <span class='hostname'/> oldalra. Ha felkeresi ezt az oldalt, akkor támadók megpróbálhatják ellopni a jelszavait, e-mailjeit vagy bankkártyaadatait.">
 
-
 <!ENTITY certerror.expiredCert.secondPara "Ennek a problémának a legvalószínűbb oka, hogy hibás a számítógép órabeállítása, amely megakadályozza a &brandShortName; biztonságos kapcsolódósát.">
 
+<!ENTITY certerror.sts.introPara "A &brandShortName; egy lehetséges biztonsági kockázatot észlelt, és nem lépett tovább a(z) <span class='hostname'/> oldalra, mert ez a webhely biztonságos kapcsolatot igényel.">
+
+<!ENTITY certerror.expiredCert.introPara "A &brandShortName; egy problémát észlelt, és nem lépett tovább a(z) <span class='hostname'/> oldalra. Lehet, hogy a webhely van rosszul beállítva vagy hibás az Ön számítógépének órabeállítása.">
+<!ENTITY certerror.expiredCert.secondPara2 "A webhely tanúsítványa valószínűleg lejárt, ami megakadályozza a &brandShortName; biztonságos csatlakozását. Ha meglátogatja ezt a webhelyet, támadók megpróbálhatnak ellopni olyan információkat, mint jelszavak, e-mailek vagy hitelkártyaadatok.">
+<!ENTITY certerror.expiredCert.sts.secondPara "A webhely tanúsítványa valószínűleg lejárt, ami megakadályozza a &brandShortName; biztonságos csatlakozását.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Mit tehet?">
 
