@@ -4,12 +4,19 @@
 
 addons-window =
     .title = Topitorde Ɓeyditte
+search-header-shortcut =
+    .key = f
+loading-label =
+    .value = Nana loowa…
 list-empty-available-updates =
     .value = Alaa kesɗitine njiytaa
 list-empty-find-updates =
     .label = Yuurno Kesɗitine
 list-empty-button =
     .label = Ɓeydu humpito e ɓeyditte
+install-addon-from-file =
+    .label = Aaf Ɓeyditte Iwde e Fiilde…
+    .accesskey = A
 tools-menu =
     .tooltiptext = Kuutorɗe ɓeyditte fof
 cmd-show-details =
@@ -29,6 +36,9 @@ cmd-preferences =
             [windows] C
            *[other] C
         }
+cmd-install-addon =
+    .label = Aaf
+    .accesskey = A
 cmd-contribute =
     .label = Addu ballal
     .accesskey = A
@@ -41,6 +51,9 @@ detail-last-updated =
 detail-contributions-description = Tototooɗo ngal ɓeydital ena naamnii yo a wallit ɗum tambaade topagol ñiiɓngol so addude dokkal hay so seeɗa.
 detail-update-type =
     .value = Kesɗitine Jaajol
+detail-update-automatic =
+    .label = Kuɓɓol
+    .tooltiptext = Aaf kesɗitine e jaajol
 detail-home =
     .label = Hello jaɓɓorgo
 detail-home-value =
