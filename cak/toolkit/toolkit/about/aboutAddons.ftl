@@ -4,6 +4,8 @@
 
 addons-window =
     .title = Kinuk'samajel taq tz'aqat
+search-header-shortcut =
+    .key = f
 loading-label =
     .value = Tajin nusamajib'ej…
 list-empty-installed =
@@ -65,6 +67,7 @@ detail-version =
     .label = Ruwäch
 detail-last-updated =
     .label = Ruk'isib'äl k'exoj
+detail-contributions-description = Ri runuk'unel re tz'aqat re', nuk'utuj chawe chi tato' rik'in rub'anik, rik'in naya' jun ko'öl ato'ik.
 detail-update-type =
     .value = K'exoj pa kiyonil
 detail-update-default =
@@ -115,4 +118,6 @@ disabled-unsigned-learn-more = Tetamäx ch'aqa' chik pa ruwi' ri qarayib'al rich
 disabled-unsigned-devinfo = Nuk'unela' nikajo' yekinik'oj ri taq kitz'aqat, tikirel tikisik'ij ri qichin <label data-l10n-name="learn-more">etamawuj</label>.
 plugin-deprecation-description = ¿La k'o nanataj? Jujun taq nak'ab'äl man nikixïm ta chik ki' ruma { -brand-short-name }. <label data-l10n-name="learn-more">Tetamäx ch'aqa' chik.</label>
 legacy-warning-show-legacy = Kek'ut pe ri kochin taq k'amal
+legacy-extensions =
+    .value = Kochin taq K'amal
 legacy-extensions-description = Re taq k'amal re' man nikik'äm ta ki' rik'in current { -brand-short-name } taq rub'eyal richin chi xechuputäj. <label data-l10n-name="legacy-learn-more">Tetamäx chi kij ri kijaloj taq tzaqät</label>
