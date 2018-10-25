@@ -4,12 +4,19 @@
 
 addons-window =
     .title = Eklenti Yöneticisi
+search-header =
+    .placeholder = addons.mozilla.org’da ara
+    .searchbuttonlabel = Ara
 search-header-shortcut =
     .key = f
 loading-label =
     .value = Yükleniyor…
+list-empty-installed =
+    .value = Bu türden kurulmuş bir eklentiniz yok
 list-empty-available-updates =
     .value = Güncelleme bulunamadı
+list-empty-recent-updates =
+    .value = Yakın zamanda herhangi bir eklenti güncellemediniz
 list-empty-find-updates =
     .label = Güncellemeleri denetle
 list-empty-button =
@@ -29,6 +36,9 @@ show-unsigned-extensions-button =
     .label = Bazı eklentiler doğrulanamadı
 show-all-extensions-button =
     .label = Tüm eklentileri göster
+debug-addons =
+    .label = Eklentilerde hata ayıkla
+    .accesskey = h
 cmd-show-details =
     .label = Daha fazla bilgi ver
     .accesskey = v
@@ -60,6 +70,8 @@ cmd-contribute =
     .accesskey = u
     .tooltiptext = Bu eklentinin geliştirilmesine katkıda bulun
 discover-title = Eklenti nedir?
+discover-description = Eklentiler ek işlev ve biçimlerle { -brand-short-name } uygulamanızı kişiselleştirmenizi sağlayan uygulamalardır. Size zaman kazandıracak bir araç çubuğunu, hava durumu habercisini veya { -brand-short-name } uygulamasının istediğiniz gibi görünmesini sağlayacak bir temayı deneyin.
+discover-footer = İnternete bağlı olduğunuzda bu bölümde denemeniz için en iyi ve en popüler eklentilerden bazıları öne çıkarılacak.
 detail-version =
     .label = Sürüm
 detail-last-updated =
@@ -67,23 +79,53 @@ detail-last-updated =
 detail-contributions-description = Bu eklentinin geliştiricisi, sizden ufak bir katkıda bulunarak süregelen geliştirme faaliyetlerini desteklemenizi istiyor.
 detail-update-type =
     .value = Otomatik güncellemeler
+detail-update-default =
+    .label = Varsayılan
+    .tooltiptext = Güncellemeleri sadece varsayılan ayar buysa kendiliğinden kur
 detail-update-automatic =
     .label = Açık
     .tooltiptext = Güncellemeleri kendiliğinden kur
+detail-update-manual =
+    .label = Kapalı
+    .tooltiptext = Güncellemeleri kendiliğinden kurma
 detail-home =
     .label = Ana sayfa
 detail-home-value =
     .value = { detail-home.label }
+detail-repository =
+    .label = Eklenti profili
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Güncellemeleri denetle
     .accesskey = m
     .tooltiptext = Bu eklentinin güncellemelerini denetle
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Seçenekler
+           *[other] Tercihler
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] T
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Bu eklentinin seçeneklerini değiştir
+           *[other] Bu eklentinin tercihlerini değiştir
+        }
 detail-rating =
     .value = Beğeni
 addon-restart-now =
     .label = Şimdi yeniden başlat
+disabled-unsigned-heading =
+    .value = Bazı eklentiler etkisizleştirildi
+disabled-unsigned-description = Aşağıdaki eklentiler { -brand-short-name } üzerinde kullanılmak üzere doğrulanmamıştır. <label data-l10n-name="find-addons">Yerlerine başkalarını bulabilir</label> veya geliştiriciden eklentilerini doğrulamasını isteyebilirsiniz.
+disabled-unsigned-learn-more = Sizi internette daha güvende tutma çabalarımız hakkında bilgi alın.
+disabled-unsigned-devinfo = Eklentilerini doğrulamak için isteyen geliştiriciler <label data-l10n-name="learn-more">rehberimizi</label> okuyabilir.
+plugin-deprecation-description = Bir şeyler mi eksik? Bazı yan uygulamalar artık { -brand-short-name } tarafından desteklenmiyor. <label data-l10n-name="learn-more">Daha fazla bilgi alın.</label>
 legacy-warning-show-legacy = Eski teknoloji eklentileri göster
 legacy-extensions =
     .value = Eski teknoloji eklentiler
