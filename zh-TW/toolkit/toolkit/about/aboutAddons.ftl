@@ -4,6 +4,9 @@
 
 addons-window =
     .title = 附加元件管理員
+search-header =
+    .placeholder = 在 addons.mozilla.org 搜尋
+    .searchbuttonlabel = 搜尋
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,12 +24,21 @@ list-empty-button =
 install-addon-from-file =
     .label = 從檔案安裝附加元件…
     .accesskey = I
+help-button = 附加元件支援
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } 選項
+       *[other] { -brand-short-name } 偏好設定
+    }
 tools-menu =
     .tooltiptext = 所有附加元件的工具
 show-unsigned-extensions-button =
     .label = 無法驗證某些擴充套件
 show-all-extensions-button =
     .label = 顯示所有擴充套件
+debug-addons =
+    .label = 對附加元件除錯
+    .accesskey = B
 cmd-show-details =
     .label = 顯示更多資訊
     .accesskey = S
@@ -112,6 +124,13 @@ detail-rating =
     .value = 評分
 addon-restart-now =
     .label = 立刻重新啟動
+disabled-unsigned-heading =
+    .value = 已停用某些附加元件
 disabled-unsigned-description = 以下原件尚未經過驗證，無法在 { -brand-short-name } 使用。您可以<label data-l10n-name="find-addons">看看有沒有其他的替代方案</label>或是請開發者申請驗證。
 disabled-unsigned-learn-more = 了解我們為了保護您的線上安全作了哪些努力。
 disabled-unsigned-devinfo = 有興趣想要驗證附加元件的開發者可繼續閱讀我們的<label data-l10n-name="learn-more">驗證指南</label>。
+plugin-deprecation-description = 少了點東西嗎？{ -brand-short-name } 已不再支援某些外掛程式。 <label data-l10n-name="learn-more">了解更多。</label>
+legacy-warning-show-legacy = 顯示傳統擴充套件
+legacy-extensions =
+    .value = 傳統擴充套件
+legacy-extensions-description = 這些擴充套件不符合 { -brand-short-name } 目前的標準，已被停用。 <label data-l10n-name="legacy-learn-more">了解附加元件有什麼變動</label>
