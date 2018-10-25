@@ -1,0 +1,51 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+search-header-shortcut =
+    .key = f
+loading-label =
+    .value = Բեռնում...
+list-empty-available-updates =
+    .value = Թարմացում չի գտնվել
+list-empty-find-updates =
+    .label = Ստուգվում է թարմացումները
+list-empty-button =
+    .label = Կարդալ հավելումների մասին
+install-addon-from-file =
+    .label = Տեղակայեք հավելումը Ֆայլից...
+    .accesskey = Տ
+tools-menu =
+    .tooltiptext = Գործիքներ բոլոր հավելումների համար
+cmd-show-details =
+    .label = Ցուցադրել մանրամասն տեղեկություն
+    .accesskey = Ց
+cmd-find-updates =
+    .label = Գտնել թարմացումներ
+    .accesskey = Գ
+cmd-enable-theme =
+    .label = Հագնել թեմա
+    .accesskey = Հ
+cmd-contribute =
+    .label = Ներդրում
+    .accesskey = Ն
+    .tooltiptext = Օգնել այս հավելման զարգացմանը
+discover-title = Ի՞նչ են իրենցից ներկայացնում հավելումները:
+detail-version =
+    .label = Տարբերակ
+detail-last-updated =
+    .label = Վերջին Թարմացումը
+detail-home-value =
+    .value = { detail-home.label }
+detail-repository =
+    .label = Հավելումների պռոֆիլ
+detail-repository-value =
+    .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = Ստուգել թարմացումները
+    .accesskey = Ս
+    .tooltiptext = Ստուգել այս հավելման թարմացումների առկայությունը
+detail-rating =
+    .value = Վարկանիշ
+addon-restart-now =
+    .label = Վերամեկնարկել հիմա
