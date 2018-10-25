@@ -529,6 +529,7 @@ privacy-header = Navegación privada
 ## Privacy Section - Forms
 
 forms-header = Contraseñas de los formularios &
+logins-header = Inicios de sesión y contraseñas
 forms-ask-to-save-logins =
     .label = Preguntar para guardar inicios de sesión y contraseñas para los sitios web
     .accesskey = r
