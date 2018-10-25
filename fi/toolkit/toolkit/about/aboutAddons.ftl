@@ -112,6 +112,8 @@ detail-show-preferences =
             [windows] Muokkaa tämän lisäosan asetuksia
            *[other] Muokkaa tämän lisäosan asetuksia
         }
+detail-rating =
+    .value = Arvosana:
 addon-restart-now =
     .label = Käynnistä uudelleen
 disabled-unsigned-heading =
