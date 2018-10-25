@@ -8,8 +8,12 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = Yuklanmoqda...
+list-empty-installed =
+    .value = Ushbu turdagi oʻrnatilgan birorta ham qoʻshimcha dasturingiz yoʻq
 list-empty-available-updates =
     .value = Yangilanishlar topilmadi
+list-empty-recent-updates =
+    .value = Yaqinda birorta ham qoʻshimcha dasturlarni yangilamagansiz
 list-empty-find-updates =
     .label = Yangilanishlar uchun tekshirish
 list-empty-button =
@@ -19,6 +23,13 @@ install-addon-from-file =
     .accesskey = o
 tools-menu =
     .tooltiptext = Barcha qoʻshimcha dasturlar uchun asboblar
+show-unsigned-extensions-button =
+    .label = Ba’zi kengaytmalar tasdiqlanmadi
+show-all-extensions-button =
+    .label = Barcha kengaytmalarni ko‘rsatish
+debug-addons =
+    .label = Qo‘shimcha dasturlarni tuzatish
+    .accesskey = t
 cmd-show-details =
     .label = Koʻproq ma`lumotlarni koʻrsatish
     .accesskey = k
@@ -50,6 +61,8 @@ cmd-contribute =
     .accesskey = H
     .tooltiptext = Ushbu qoʻshimcha dasturni rivojlantirishga hissa qoʻshish
 discover-title = Qoʻshimcha dasturlar nima?
+discover-description = Qoʻshimcha dasturlar { -brand-short-name }ni keng imkoniyatlaridan foydalanib, moslash imkonini beradi. { -brand-short-name }ni didingiz boʻyicha moslash uchun vaqtni tejash yon paneli, ob-havo ma`lumoti yoki mavzulardan foydalaning.
+discover-footer = Siz internetga ulanganingizda, ushbu panel ba`zi mashhur va eng zoʻz qoʻshimcha dasturlarni sinab koʻrishni takli qiladi.
 detail-version =
     .label = Versiyasi
 detail-last-updated =
@@ -57,9 +70,15 @@ detail-last-updated =
 detail-contributions-description = Ushbu qoʻshimcha dastur muallifi sizdan dasturni rivojlantirish uchun ozroq hissangizni qoʻshishni soʻramoqda.
 detail-update-type =
     .value = Avtomatik yangilanishlar
+detail-update-default =
+    .label = Standart
+    .tooltiptext = Agar faqat ular standart boʻlsa avtomatik yangilanishlar oʻrnatilsin
 detail-update-automatic =
     .label = Yoqilgan
     .tooltiptext = Yangilanishlarni avtomatik oʻrnatish
+detail-update-manual =
+    .label = Oʻchirilgan
+    .tooltiptext = Yangilanishlar avtomatik oʻrnatilmasin
 detail-home =
     .label = Uy sahifasi
 detail-home-value =
@@ -72,7 +91,28 @@ detail-check-for-updates =
     .label = Yangilanishlar uchun tekshirish
     .accesskey = Y
     .tooltiptext = Ushbu qoʻshimcha dastur uchun yangilanishlarni tekshirish
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Moslamalar
+           *[other] Moslamalar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] M
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Ushbu qoʻshimcha dastur moslamalarini oʻzgartirish
+           *[other] Ushbu qoʻshimcha dastur moslamalarini oʻzgartirish
+        }
 detail-rating =
     .value = Reyting
 addon-restart-now =
     .label = Hozir qayta ishga tushirish
+disabled-unsigned-heading =
+    .value = Ba’zi qo‘shimcha dasturlar o‘chirib qo‘yildi
+disabled-unsigned-description = Quyidagi qo‘shimcha dasturlar { -brand-short-name } brauzerida foydalanish uchun tasdiqdan o‘tmagan. Siz <label data-l10n-name="find-addons">almashtiriladiganlarini topishingiz</label> yoki dasturchidan ularni tasdiqlashini so‘rashingiz mumkin.
+disabled-unsigned-learn-more = Onlayn xavfsizligingizni ta’minlash uchun qilayotgan harakatlarimiz haqida batafsil ma’lumot oling.
+disabled-unsigned-devinfo = Dasturchilar qo‘shimcha dasturlarini bizning qo‘llanmamizni o‘qib, tasdiqdan o‘tkazishga <label data-l10n-name="learn-more">qiziqishadi</label>.
