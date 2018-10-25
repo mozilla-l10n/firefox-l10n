@@ -21,6 +21,13 @@ list-empty-button =
 install-addon-from-file =
     .label = Файлдан қосымшаны орнату…
     .accesskey = Ф
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } опциялары
+       *[other] { -brand-short-name } баптаулары
+    }
+tools-menu =
+    .tooltiptext = Барлық қосымшалар үшін құралдар
 show-unsigned-extensions-button =
     .label = Кейбір кеңейтулерді растау мүмкін емес
 show-all-extensions-button =
@@ -65,6 +72,7 @@ detail-version =
     .label = Нұсқасы
 detail-last-updated =
     .label = Соңғы жаңартылған
+detail-contributions-description = Бұл кеңейтудің әзірлеушісі сізден шағын ғана демеушілік етіп, оның жұмысын қолдау көрсетуді сұраған.
 detail-update-type =
     .value = Автожаңартулар
 detail-update-default =
@@ -110,7 +118,9 @@ addon-restart-now =
     .label = Қазір қайта қосу
 disabled-unsigned-heading =
     .value = Кейбір қосымшалар сөндірілген
+disabled-unsigned-description = Келесі қосымшалар { -brand-short-name } ішінде қолданылуға расталмаған. Сіз <label data-l10n-name="find-addons">баламаларын таба аласыз</label> немесе әзірлеушіден оларды растаудан өткізуді сұрай аласыз.
 disabled-unsigned-learn-more = Сіздің онлайн қауіпсіздігін сақтауға арналған біздің әрекеттер жөнінде біліңіз.
+disabled-unsigned-devinfo = Өз қосымшаларын растау үрдісінен өткізгісі келетін әзірлеушілер біздің келесі құжатты оқи алады: <label data-l10n-name="learn-more">нұсқама</label>.
 plugin-deprecation-description = Бірнәрсе жетіспей ма? Кейбір плагиндерді { -brand-short-name } енді қолдамайды. <label data-l10n-name="learn-more">Көбірек білу.</label>
 legacy-warning-show-legacy = Ескірген кеңейтулерді көрсету
 legacy-extensions =
