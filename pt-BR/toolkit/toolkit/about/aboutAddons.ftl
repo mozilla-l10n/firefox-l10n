@@ -16,6 +16,8 @@ list-empty-recent-updates =
     .value = Você não atualizou recentemente nenhuma extensão
 list-empty-find-updates =
     .label = Verificar se há atualizações
+list-empty-button =
+    .label = Saiba mais sobre extensões
 install-addon-from-file =
     .label = Instalar de um arquivo…
     .accesskey = I
@@ -117,7 +119,9 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = Algumas extensões foram desabilitadas
 disabled-unsigned-description = As seguintes extensões não foram verificadas para uso no { -brand-short-name }. Você pode <label data-l10n-name="find-addons">localizar substitutos</label> ou solicitar que o desenvolvedor peça a sua verificação.
+disabled-unsigned-learn-more = Saiba mais sobre nossos esforços para ajudar a manter os usuários seguros.
 disabled-unsigned-devinfo = Os desenvolvedores interessados que seus complementos sejam verificados, devem ler o nosso <label data-l10n-name="learn-more">manual</label>.
+plugin-deprecation-description = Faltando alguma coisa? Alguns plugins não são mais suportados pelo { -brand-short-name }. <label data-l10n-name="learn-more">Saiba mais.</label>
 legacy-warning-show-legacy = Mostrar extensões legadas
 legacy-extensions =
     .value = Extensões legadas
