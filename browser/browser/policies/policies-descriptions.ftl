@@ -30,3 +30,7 @@ policy-DisableFirefoxScreenshots = Ñif ƴettirgal natte yaynirde e Firefox.
 policy-DisableFirefoxStudies = Haɗ { -brand-short-name } waɗde wiɗtooji.
 policy-DisableForgetButton = Haɗ jettagol butoŋ Forget
 policy-DisableFormHistory = Hoto tesko kewol njiylawu kam e ɗaɓɓirɗe.
+policy-DisableMasterPasswordCreation = So wonii goonga, finnde rowrowre waawaa soseede.
+policy-DisablePocket = Ñif gollirde kisnugol kelle geese nder Pocket.
+policy-DisablePrivateBrowsing = Ñif banngagol keeringol
+policy-DisableProfileImport = Ñif yamirirde cuɓirgol faggorde keɓe ummoraade e wanngorde woɗnde.
