@@ -116,3 +116,4 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Pengaya berikut belum diverifikasi untuk digunakan di { -brand-short-name }. Anda dapat <label data-l10n-name="find-addons">temukan pengganti</label> atau minta pengembangnya untuk memverifikasi.
 disabled-unsigned-learn-more = Pelajari tentang usaha kami untuk menjaga keselamatan daring Anda.
 disabled-unsigned-devinfo = Pengembang yang tertarik untuk memverifikasi pengayanya dapat terus melanjutkan membaca <label data-l10n-name="learn-more">manual</label> kami.
+plugin-deprecation-description = Kehilangan sesuatu? Beberapa plugin tidak didukung lagi oleh { -brand-short-name }. <label data-l10n-name="learn-more">Pelajari Lebih Lanjut.</label>
