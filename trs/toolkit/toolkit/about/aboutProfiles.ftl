@@ -35,7 +35,7 @@ profiles-rename-profile = Naduna si yugui perfîl { $name }
 profiles-invalid-profile-name-title = Na'ue nada'aj si yugui perfîl
 # Variables:
 #   $name (String) - Name of the profile
-profiles-invalid-profile-name = Si yugui perfil “%S” nu a'nïn ginun.
+profiles-invalid-profile-name = Si yugui perfil “{ $name }” nu a'nïn ginun.
 profiles-delete-profile-title = Nadure' Perfil
 # Variables:
 #   $dir (String) - Path to be displayed

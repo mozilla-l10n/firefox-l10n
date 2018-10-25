@@ -44,11 +44,3 @@ close-tab =
     .title = Narán rakïj ñanj
 show-addon =
     .title = Ni¿iaj riña si administrado nej extensiûn
-# Tooltip when hovering an item of the about:performance table
-# Variables:
-#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
-#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
-#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
-#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
-item =
-    .title = Gida'a asìj riña nachra:{ $totalDispatches } ({ $totalDuration }ms)
