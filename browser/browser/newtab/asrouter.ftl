@@ -2,10 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+cfr-doorhanger-extension-heading = Extension recomanda
+cfr-doorhanger-extension-sumo-link =
+    .tooltiptext = Perqué aquò se bota aquí ?
 cfr-doorhanger-extension-cancel-button = Pas ara
     .accesskey = P
 cfr-doorhanger-extension-ok-button = Apondre ara
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Gerir los paramètres de recomandacion
+    .accesskey = G
+cfr-doorhanger-extension-never-show-recommendation = Me mostrar pas aquela recomandacion
+    .accesskey = M
 cfr-doorhanger-extension-learn-more-link = Ne saber mai
 # This string is used on a new line below the add-on name
 # Variables:
