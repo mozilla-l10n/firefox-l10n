@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Lisäosien hallinta
+search-header =
+    .placeholder = Etsi addons.mozilla.orgista
+    .searchbuttonlabel = Hae
 search-header-shortcut =
     .key = f
 loading-label =
