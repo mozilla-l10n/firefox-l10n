@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Əlavə idarəçisi
+search-header =
+    .placeholder = addons.mozilla.org saytında axtar
+    .searchbuttonlabel = Axtar
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Fayldan əlavə qur...
     .accesskey = I
+help-button = Əlavə Dəstəyi
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } Seçimləri
+       *[other] { -brand-short-name } Nizamlamaları
+    }
 tools-menu =
     .tooltiptext = Bütün əlavələr üçün alətlər
 show-unsigned-extensions-button =
@@ -116,3 +125,8 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Bu əlavələr { -brand-short-name } səyyahında işlətmək üçün təsdiqlənməyiblər. Siz <label data-l10n-name="find-addons">yerinə başqasını tapa</label> və ya tərtibatçıdan onları təsdiqləməsini istəyə bilərsiz.
 disabled-unsigned-learn-more = Sizi onlayn təhlükəsiz tutmaq üçün etdiklərimiz haqqında ətraflı öyrənin.
 disabled-unsigned-devinfo = Əlavələrinin təsdiqlənməsini istəyən tərtibatçılar <label data-l10n-name="learn-more">təlimatları</label> oxumaqla başlaya bilərlər.
+plugin-deprecation-description = Nəsə çatışmır? Bəzi qoşmalar artıq { -brand-short-name } tərəfindən dəstəklənmir. <label data-l10n-name="learn-more">Ətraflı Öyrən.</label>
+legacy-warning-show-legacy = Köhnəlmiş qoşmaları göstər
+legacy-extensions =
+    .value = Köhnəlmiş Qoşmalar
+legacy-extensions-description = Bu qoşmalar hazırkı { -brand-short-name } standartlarına cavab vermirlər və bu səbəbdən söndürüldülər. <label data-l10n-name="legacy-learn-more">Əlavələrə olan dəyişikliklər haqqında öyrən</label>
