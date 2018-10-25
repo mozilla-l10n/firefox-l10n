@@ -116,3 +116,8 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Itūs papyldynuojums navar puorbaudeit izmontuošonai ar { -brand-short-name }. Jius varot <label data-l10n-name="find-addons">find replacements</label> or ask the developer to get them verified.
 disabled-unsigned-learn-more = Learn more about our efforts to help keep you safe online.
 disabled-unsigned-devinfo = Developers interested in getting their add-ons verified can continue by reading our <label data-l10n-name="learn-more">pamuoceibu</label>.
+plugin-deprecation-description = Koč kas pītryukst? Dažus spraudņus { -brand-short-name } vairs naatbolsta. <label data-l10n-name="learn-more">Uzzynojit vairuok.</label>
+legacy-warning-show-legacy = Show legacy extensions
+legacy-extensions =
+    .value = Legacy Extensions
+legacy-extensions-description = These extensions do not meet current { -brand-short-name } standards so they have been deactivated. <label data-l10n-name="legacy-learn-more">Learn about the changes to add-ons</label>
