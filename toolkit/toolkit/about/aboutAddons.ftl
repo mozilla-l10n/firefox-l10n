@@ -115,7 +115,7 @@ detail-rating =
 addon-restart-now =
     .label = अहिले पुनः सुरु गर्नुहोस्
 disabled-unsigned-heading =
-    .value = केही एड-अन निस्क्रिय गरिएका छन्{ " " }
+    .value = केही एड-अन निस्क्रिय गरिएका छन्
 disabled-unsigned-description = निम्न एड-अनहरू { -brand-short-name } मा प्रयोग गर्न प्रमाणित भएको छैन। तपाईँ सक्नुहुन्छ <label data-l10n-name="find-addons">प्रतिस्थापन खोज्नुहोस्</label> वा विकासकर्तालाई तिनीहरू प्रमाणित गर्न भन्नुहोस्।
 disabled-unsigned-learn-more = तपाईँलाई अनलाइनमा सुरक्षित राख्ने हाम्रो प्रयासमा बारे अधिक जान्नुहोस्।
 disabled-unsigned-devinfo = आफ्नो एड-अनहरू प्रमाणित गर्न रुचि भएका विकासकर्ताहरू यो पढ्नु होला <label data-l10n-name="learn-more">म्यानुअल</label>।
