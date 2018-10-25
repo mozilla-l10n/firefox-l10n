@@ -117,3 +117,7 @@ disabled-unsigned-description = Os siguients complementos no s'han puesto verifi
 disabled-unsigned-learn-more = Aprender mas sobre os nuestros esfuerzos ta aduyar-le a estar seguro en linia.
 disabled-unsigned-devinfo = Os desenrolladors interesaus en fer verificar os suyos complementos pueden seguir leyendo o nuestro <label data-l10n-name="learn-more">manual</label>.
 plugin-deprecation-description = Falta cosa? { -brand-short-name } ha deixau de soportar bells plugins. <label data-l10n-name="learn-more">Aprende-ne mas.</label>
+legacy-warning-show-legacy = Amostrar las extensions obsoletas
+legacy-extensions =
+    .value = Extensions obsoletas
+legacy-extensions-description = Estas extensions no respondern a las exichencias actuals de { -brand-short-name }, pero lo qual s'han desactivau. <label data-l10n-name="legacy-learn-more">Saber mas sobre los cambios en as extensions</label>
