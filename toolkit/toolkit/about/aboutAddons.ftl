@@ -8,8 +8,12 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = Memuat…
+list-empty-installed =
+    .value = Anda tidak memiliki pengaya terpasang jenis ini
 list-empty-available-updates =
     .value = Tidak ada versi baru ditemukan
+list-empty-recent-updates =
+    .value = Anda masih belum memasang versi baru pengaya
 list-empty-find-updates =
     .label = Periksa Versi Baru
 list-empty-button =
@@ -19,6 +23,16 @@ install-addon-from-file =
     .accesskey = B
 tools-menu =
     .tooltiptext = Alat untuk semua pengaya
+show-unsigned-extensions-button =
+    .label = Beberapa ekstensi tidak dapat diverifikasi
+show-all-extensions-button =
+    .label = Tampilkan semua ekstensi
+debug-addons =
+    .label = Debug Pengaya
+    .accesskey = b
+cmd-show-details =
+    .label = Tampilkan Informasi Lebih Lanjut
+    .accesskey = i
 cmd-find-updates =
     .label = Temukan Versi Baru
     .accesskey = B
@@ -47,6 +61,8 @@ cmd-contribute =
     .accesskey = k
     .tooltiptext = Ikut berkontribusi pengembangan pengaya ini
 discover-title = Apa itu Pengaya?
+discover-description = Pengaya adalah aplikasi dapat Anda tambahkan pada { -brand-short-name } untuk menambahkan fungsionalitas atau tampilan ekstra yang berbeda. Coba gunakan bilah samping hemat waktu, pemberi kabar cuaca, atau tema yang sama sekali berbeda untuk { -brand-short-name } Anda.
+discover-footer = Jika Anda tersambung ke Internet, panel ini akan menampilkan pengaya unggulan dan populer yang dapat Anda coba.
 detail-version =
     .label = Versi
 detail-last-updated =
@@ -54,9 +70,15 @@ detail-last-updated =
 detail-contributions-description = Pengembang pengaya ini memohon bantuan dukungan Anda untuk membantu kesinambungan pengembangan pengaya dengan memberikan kontribusi kecil.
 detail-update-type =
     .value = Pemutakhiran Otomatis
+detail-update-default =
+    .label = Bawaan
+    .tooltiptext = Otomatis pasang pemutakhiran hanya jika pengaturan bawaan diatur demikian
 detail-update-automatic =
     .label = Aktif
     .tooltiptext = Otomatis memasang pemutakhiran
+detail-update-manual =
+    .label = Mati
+    .tooltiptext = Jangan otomatis memasang pemutakhiran
 detail-home =
     .label = Beranda
 detail-home-value =
@@ -69,7 +91,28 @@ detail-check-for-updates =
     .label = Periksa versi baru
     .accesskey = v
     .tooltiptext = Periksa versi baru pengaya ini
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Pengaturan
+           *[other] Pengaturan
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] P
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Ubah pengaturan pengaya ini
+           *[other] Ubah pengaturan pengaya ini
+        }
 detail-rating =
     .value = Peringkat
 addon-restart-now =
     .label = Mulai ulang sekarang
+disabled-unsigned-heading =
+    .value = Beberapa pengaya telah dinonaktifkan
+disabled-unsigned-description = Pengaya berikut belum diverifikasi untuk digunakan di { -brand-short-name }. Anda dapat <label data-l10n-name="find-addons">temukan pengganti</label> atau minta pengembangnya untuk memverifikasi.
+disabled-unsigned-learn-more = Pelajari tentang usaha kami untuk menjaga keselamatan daring Anda.
+disabled-unsigned-devinfo = Pengembang yang tertarik untuk memverifikasi pengayanya dapat terus melanjutkan membaca <label data-l10n-name="learn-more">manual</label> kami.
