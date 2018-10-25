@@ -103,9 +103,13 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "Ägaren av <span class='hostname'/> har konfigurerat sin webbplats felaktigt.  För att skydda din information från att bli stulen, har &brandShortName; inte anslutit till denna webbplats.">
 <!ENTITY certerror.introPara2 "&brandShortName; upptäckte ett potentiellt säkerhetshot och fortsatte inte till <span class='hostname'/>. Om du besöker den här webbplatsen kan angripare försöka stjäla information som lösenord, e-post eller kreditkortsuppgifter.">
 
-
 <!ENTITY certerror.expiredCert.secondPara "Problemet beror sannolikt på att datorns klocka är inställd på fel tid, vilket hindrar &brandShortName; från att ansluta säkert.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; upptäckte ett potentiellt säkerhetshot och fortsatte inte <span class='hostname'/> eftersom den här webbplatsen kräver en säker anslutning.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; upptäckte ett problem och fortsatte inte till <span class='hostname'/>. Webbplatsen är antingen felkonfigurerad eller din klocka är inställd på fel tid.">
+<!ENTITY certerror.expiredCert.secondPara2 "Det är troligt att webbplatsens certifikat har upphört, vilket förhindrar &brandShortName; från att ansluta säkert. Om du besöker den här webbplatsen kan angripare försöka stjäla information som lösenord, e-post eller kreditkortsuppgifter.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Det är troligt att webbplatsens certifikat har upphört, vilket förhindrar &brandShortName; från att ansluta säkert.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Vad kan du göra åt det?">
 

@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-window =
-    .title = Hantera tillägg
+    .title = Tilläggshanterare
 search-header =
     .placeholder = Sök på addons.mozilla.org
     .searchbuttonlabel = Sök
