@@ -4,6 +4,8 @@
 
 addons-window =
     .title = ایڈ اون مینیجر
+search-header-shortcut =
+    .key = f
 loading-label =
     .value = لوڈ کر رہا ہے...
 list-empty-installed =
