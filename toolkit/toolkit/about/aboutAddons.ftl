@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+addons-window =
+    .title = Հավելումների կառավարում
 search-header-shortcut =
     .key = f
 loading-label =
@@ -26,6 +28,9 @@ cmd-find-updates =
 cmd-enable-theme =
     .label = Հագնել թեմա
     .accesskey = Հ
+cmd-disable-theme =
+    .label = Դադարեցնել թեմայի օգտագործումը
+    .accesskey = թ
 cmd-contribute =
     .label = Ներդրում
     .accesskey = Ն
@@ -35,6 +40,8 @@ detail-version =
     .label = Տարբերակ
 detail-last-updated =
     .label = Վերջին Թարմացումը
+detail-home =
+    .label = Կայքէջը
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
