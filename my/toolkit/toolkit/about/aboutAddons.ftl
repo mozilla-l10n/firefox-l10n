@@ -116,3 +116,4 @@ disabled-unsigned-heading =
 disabled-unsigned-description = { -brand-short-name } တွင် အသုံးပြုရန်အတွက် အောက်ပါ အတ်အွန်များကို အတည်မပြုရသေးပါ။<label data-l10n-name="find-addons">သင်သည် အစားထိုးမှု ပြုလုပ်နိုင်သည်</label>သို့မဟုတ် အတ်အွန်များကို အတည်ပြုပြီးဖြစ်စေရန် ဖန်တီးသူကို တောင်းဆိုနိုင်သည်။
 disabled-unsigned-learn-more = သင့်ကို အွန်လိုင်းတွင် အမြဲလုံခြုံစေရန် ကျွန်တော်တို့၏ အားထုတ်မှုများကို ပိုမို လေ့လာနိုင်ပါသည်။
 disabled-unsigned-devinfo = ဖန်တီးသူများသည် သူတို့၏ အတ်အွန်များ အတည်ပြုပြီးခြင်းကို လိုလားသည်။ ကျွန်တော်တို့၏<label data-l10n-name="learn-more">အသုံးပြုသူလက်စွဲကို ဖတ်ခြင်းဖြင့် ဆက်လက်ဆောင်ရွက်နိုင်သည်။</label>.
+plugin-deprecation-description = တစ်စုံတစ်ရာကို မတွေ့မိဘူးလား။ အချို့သောပလက်အင်များကို { -brand-short-name } က မထောက်ပံ့တော့ပါ။ <label data-l10n-name="learn-more">ပိုမိုလေ့လာရန်။</label>
