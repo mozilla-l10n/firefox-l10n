@@ -4,6 +4,8 @@
 
 addons-window =
     .title = Manaidsear nan tuilleadan
+search-header-shortcut =
+    .key = f
 loading-label =
     .value = A' luchdadh…
 list-empty-available-updates =
