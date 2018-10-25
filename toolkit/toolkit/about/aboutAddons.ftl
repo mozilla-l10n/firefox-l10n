@@ -4,6 +4,9 @@
 
 addons-window =
     .title = 附加组件管理器
+search-header =
+    .placeholder = 在 addons.mozilla.org 搜索
+    .searchbuttonlabel = 搜索
 search-header-shortcut =
     .key = f
 loading-label =
