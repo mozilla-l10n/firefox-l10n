@@ -117,3 +117,7 @@ disabled-unsigned-description = { -brand-short-name } के उपयोग क
 disabled-unsigned-learn-more = आपको ऑनलाइन सुरक्षित रखने के मदद के लिए हमारे प्रयासो के बारे में और अधिक जानें.
 disabled-unsigned-devinfo = डेवलपर्स जो कि अपने add-ons को सत्यापित करने मैं रुचि रखते हैं वे जारी कर सकते हैं<label data-l10n-name="learn-more">मैनुअल</label>.
 plugin-deprecation-description = कुछ भूल रहे हैं? कुछ प्लगइन { -brand-short-name } द्वारा समर्थित नही हैं <label data-l10n-name="learn-more">अधिक जानें.</label>
+legacy-warning-show-legacy = पुराने हो चुके एक्सटेंशन दिखाएं
+legacy-extensions =
+    .value = पुराने एक्सटेंशन
+legacy-extensions-description = ये एक्सटेंशन मौजूदा { -brand-short-name } मानकों को पूरा नहीं करते, सो उन्हें निष्क्रिय कर दिया गया हैं. <label data-l10n-name="legacy-learn-more">ऐड-ऑन में हुए बदलावों के बारे में जानें</label>
