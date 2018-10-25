@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Zastojnik dodankow
+search-header =
+    .placeholder = Na addons.mozilla.org pytaś
+    .searchbuttonlabel = Pytaś
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Dodank z dataje instalěrowaś…
     .accesskey = D
+help-button = Pomoc za dodanki
+preferences =
+    { PLATFORM() ->
+        [windows] Nastajenja { -brand-short-name }
+       *[other] Nastajenja { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Rědy za wšykne dodanki
 show-unsigned-extensions-button =
