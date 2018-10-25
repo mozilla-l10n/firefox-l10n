@@ -19,21 +19,21 @@ list-empty-find-updates =
 list-empty-button =
     .label = खोंजा-आदेर बाबोत् बाड़ती चेद मे
 install-addon-from-file =
-    .label = रेत् खोन एड-ऑन बो़हाल मे… (I)
+    .label = रेत् खोन एड-ऑन बो़हाल मे…
     .accesskey = I
 tools-menu =
     .tooltiptext = जोतो एड-ऑनस ला़गित् टुल्स को
 cmd-show-details =
-    .label = ढेर ला़य सोदोर को उदुग मे (S)
+    .label = ढेर ला़य सोदोर को उदुग मे
     .accesskey = S
 cmd-find-updates =
-    .label = हा़लिया़क् बाछाव (F)
+    .label = हा़लिया़क् बाछाव
     .accesskey = F
 cmd-preferences =
     .label =
         { PLATFORM() ->
-            [windows] आपनार मोने तेयाक् को (O)
-           *[other] { " " }कुसियाक् को (P)
+            [windows] आपनार मोने तेयाक् को
+           *[other] कुसियाक् को
         }
     .accesskey =
         { PLATFORM() ->
@@ -41,18 +41,18 @@ cmd-preferences =
            *[other] P
         }
 cmd-enable-theme =
-    .label = उनुयहा़र होडोक् (W)
+    .label = उनुयहा़र होडोक्
     .accesskey = W
 cmd-disable-theme =
-    .label = उनुयहा़र होरोक् तिंगु (W)
+    .label = उनुयहा़र होरोक् तिंगु
     .accesskey = W
 cmd-install-addon =
-    .label = बोहाल मे (I)
+    .label = बोहाल मे
     .accesskey = I
 cmd-contribute =
-    .label = एनेम (C)
+    .label = एनेम
     .accesskey = C
-    .tooltiptext = नोवा एड-ऑन रेयाक् लाहा़नती रे एनेम{ " " }
+    .tooltiptext = नोवा एड-ऑन रेयाक् लाहा़नती रे एनेम
 discover-title = एड-ऑन दो चेत् काना ?
 discover-description = एड -ऑन दो एपलिकेसोन काना ओका आम  निजेराक् ए तेयार होचो आमा  { -brand-short-name } सांव  बाड़तीयाक् का़मी तेत् आर हुना़र. मित् ओकतो-सांचाव धारे बार कुरुमुटु मे, मित् होय हिसित् उदुगाक्, आर बाङ मित् उनुयहा़र तेयार लेका ञेलोक्  { -brand-short-name } आमाक् निजेर.
 discover-footer = तिन रे आम इन्टारनेट रेम जोड़ाव कोक् आ, नोवा फांक दो गुन  तिना़क् गान बेस आर आम कुरुमुटु होचो ला़गित् आ़डी ञुतुमाक् एड-ऑन ताहेंना .
@@ -77,18 +77,18 @@ detail-home =
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
-    .label = एड-ऑन प्रोफाइल{ " " }
+    .label = एड-ऑन प्रोफाइल
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
-    .label = हा़ली को ला़गित् तेंघान (f)
+    .label = हा़ली को ला़गित् तेंघान
     .accesskey = f
-    .tooltiptext = नोवा एड-ऑन ला़गित् हा़ली को तेंघान{ " " }
+    .tooltiptext = नोवा एड-ऑन ला़गित् हा़ली को तेंघान
 detail-show-preferences =
     .label =
         { PLATFORM() ->
-            [windows] आपनार मोने तेयाक् को (O)
-           *[other] { " " }कुसियाक् को (P)
+            [windows] आपनार मोने तेयाक् को
+           *[other] कुसियाक् को
         }
     .accesskey =
         { PLATFORM() ->
@@ -97,8 +97,8 @@ detail-show-preferences =
         }
     .tooltiptext =
         { PLATFORM() ->
-            [windows] नोवा एड-ऑन आपनार मोने तेयाक् को बोदोल में{ " " }
-           *[other] नोवा एड-ऑनस रेयाक् कुसियाक् को{ " " }
+            [windows] नोवा एड-ऑन आपनार मोने तेयाक् को बोदोल में
+           *[other] नोवा एड-ऑनस रेयाक् कुसियाक् को
         }
 detail-rating =
     .value = दोर ठा़वका़
