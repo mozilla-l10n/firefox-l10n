@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Zrjadowak přidatkow
+search-header =
+    .placeholder = Na addons.mozilla.org pytać
+    .searchbuttonlabel = Pytać
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Přidatk z dataje instalować…
     .accesskey = P
+help-button = Pomoc za přidatki
+preferences =
+    { PLATFORM() ->
+        [windows] Nastajenja { -brand-short-name }
+       *[other] Nastajenja { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Nastroje za wšě přidatki
 show-unsigned-extensions-button =
