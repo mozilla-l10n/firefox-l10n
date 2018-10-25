@@ -58,6 +58,9 @@ discover-description =
     Add-ons are applications that let you personalize { -brand-short-name } with
     extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make { -brand-short-name }
     your own.
+discover-footer =
+    ඔබ අන්තර්ජාලයට සම්බන්ධව සිටින විට, මෙය වඩාත් ජනප්‍රිය සහ ප්‍රයෝජනවත්
+    ඇඩෝන ඔබට උත්සාහ කර බැලීම පිණිස මෙහි දක්වනු ඇත.
 detail-version =
     .label = න්කුතුව
 detail-last-updated =
@@ -82,6 +85,10 @@ detail-repository =
     .label = Add-on Profile
 detail-repository-value =
     .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = යාවත්කාලීන සඳහා පරීක්ෂා කරන්න
+    .accesskey = f
+    .tooltiptext = මෙම ඇඩෝනය සඳහා යාවත්කාලීන පරීක්ෂා කරන්න
 detail-show-preferences =
     .label =
         { PLATFORM() ->
