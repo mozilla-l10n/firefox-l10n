@@ -23,3 +23,10 @@ policy-Cookies = Yamir walla haɗ lowe suɓaade kuukiije.
 policy-DisableAppUpdate = Haɗ wanngorde ndee hesɗitde
 policy-DisableBuiltinPDFViewer = Ñif PDF.js, kollitoowel PDF mahdangel e { -brand-short-name }.
 policy-DisableDeveloperTools = Haɗ jettagol kuutorɗe topotooɓe.
+policy-DisableFeedbackCommands = Ñif jamirooje neldgol jowe ummoraade e cuɓirgol Ballal (Hollit jowe, tintinaa lowe fuunti).
+policy-DisableFirefoxAccounts = Ñif { -fxaccount-brand-name }tuugiiɗe e sarwiis, hay Sync.
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Ñif ƴettirgal natte yaynirde e Firefox.
+policy-DisableFirefoxStudies = Haɗ { -brand-short-name } waɗde wiɗtooji.
+policy-DisableForgetButton = Haɗ jettagol butoŋ Forget
+policy-DisableFormHistory = Hoto tesko kewol njiylawu kam e ɗaɓɓirɗe.
