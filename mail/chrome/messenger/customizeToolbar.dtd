@@ -14,5 +14,6 @@
 <!ENTITY restoreDefaultSet.label  "Standard wótnowiś">
 <!ENTITY addNewToolbar.label      "Nowu symbolowu rědku pśidaś">
 <!ENTITY showTitlebar.label       "Titelowu rědku pokazaś">
+<!ENTITY extraDragSpace.label     "Śěgaty rum pśidaś">
 <!ENTITY saveChanges.label        "Gótowo">
 <!ENTITY undoChanges.label        "Změny anulěrowaś">
