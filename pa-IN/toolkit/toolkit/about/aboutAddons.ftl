@@ -116,3 +116,8 @@ disabled-unsigned-heading =
 disabled-unsigned-description = ਅੱਗੇ ਦਿੱਤੀਆਂ ਐਡ-ਆਨ ਨੂੰ { -brand-short-name } ਨਾਲ ਵਰਤਣ ਲਈ ਜਾਂਚਿਆ ਨਹੀਂ ਗਿਆ। ਤੁਸੀਂ <label data-l10n-name="find-addons">ਬਦਲ ਲਈ ਲੱਭ ਸਕਦੇ ਹੋ</label> ਜਾਂਚ ਡਿਵੈਲਪਰ ਨੂੰ ਉਹਨਾਂ ਦੀ ਜਾਂਚ ਕਰਵਾਉਣ ਲਈ ਕਹਿ ਸਕਦੇ ਹੋ।
 disabled-unsigned-learn-more = ਸਾਡੇ ਵਲੋਂ ਤੁਹਾਨੂੰ ਆਨਲਾਈਨ ਸੁਰੱਖਿਆ ਰੱਖਣ ਲਈ ਕੀਤੇ ਜਾਂਦੇ ਜਤਨਾਂ ਦੇ ਬਾਰੇ ਹੋਰ ਸਮਝੋ।
 disabled-unsigned-devinfo = ਡਿਵੈਲਪਰ, ਜੋ ਆਪਣੀਆਂ ਐਡ-ਆਨ ਨੂੰ ਤਸਦੀਕ ਕਰਵਾਉਣਾ ਚਾਹੁੰਦੇ ਹਨ, ਸਾਡੇ <label data-l10n-name="learn-more">ਦਸਤੀ</label> ਨੂੰ ਪੜ੍ਹਨਾ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹਨ।
+plugin-deprecation-description = ਕੁਝ ਗੁਆਚ ਗਿਆ? ਕੁਝ ਪਲੱਗਇਨਾਂ { -brand-short-name } ਵਲੋਂ ਸਹਾਇਤਾ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹਨ। <label data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ।</label>
+legacy-warning-show-legacy = ਪੁਰਾਣੀਆਂ ਇਕਸਟੈਸ਼ਨਾਂ ਵੇਖਾਓ
+legacy-extensions =
+    .value = ਪੁਰਾਣੀਆਂ ਇਕਟੈਨਸ਼ਨਾਂ
+legacy-extensions-description = ਇਹ ਇਕਟੈਸ਼ਨਾਂ ਮੌਜੂਦਾ { -brand-short-name } ਸਟੈਂਡਰਡਾਂ ਨੂੰ ਪੂਰਾ ਨਹੀਂ ਕਰਦੀਆਂ ਹਨ ਇਸਕਰਕੇ ਇਹਨਾਂ ਨੂੰ ਨਾ-ਸਰਗਰਮ ਕੀਤਾ ਗਿਆ ਹੈ। <label data-l10n-name="legacy-learn-more">ਐਡ-ਆਨ 'ਚ ਤਬਦੀਲੀਆਂ ਬਾਰੇ ਜਾਣੋ</label>
