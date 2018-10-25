@@ -21,6 +21,10 @@ install-addon-from-file =
     .accesskey = I
 tools-menu =
     .tooltiptext = Indstillinger for alle tilføjelser
+show-unsigned-extensions-button =
+    .label = Nogle udvidelser kunne ikke bekræftes
+show-all-extensions-button =
+    .label = Vis alle udvidelser
 debug-addons =
     .label = Debug udvidelser
     .accesskey = e
@@ -108,4 +112,9 @@ detail-rating =
     .value = Vurdering
 addon-restart-now =
     .label = Genstart nu
+disabled-unsigned-heading =
+    .value = Nogle tilføjelser er blevet deaktiveret
+disabled-unsigned-description = De følgende tilføjelser er ikke bekræftet til brug i { -brand-short-name }. Du kan <label data-l10n-name="find-addons">finde alternative tilføjelser</label> eller du kan bede udvikleren om at få dem bekræftet.
+disabled-unsigned-learn-more = Læs mere om vores indsats for at hjælpe dig med at være sikker på nettet.
+disabled-unsigned-devinfo = Udviklere, som vil have deres tilføjelser bekræftet, kan starte med at læse vores <label data-l10n-name="learn-more">manual</label>.
 plugin-deprecation-description = Mangler du noget? Nogle plugins er ikke længere understøttet af { -brand-short-name }. <label data-l10n-name="learn-more">Læs mere.</label>
