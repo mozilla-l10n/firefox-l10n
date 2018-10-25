@@ -103,3 +103,4 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Следећи додаци нису могли бити потврђени за коришћење у { -brand-short-name }-у. Можете <label data-l10n-name="find-addons">наћи замене</label> или питати програмере да их потврде.
 disabled-unsigned-learn-more = Сазнајте више како да помогнете да Вас одржимо сигурним на мрежи.
 disabled-unsigned-devinfo = Програмери који желе да потврде њихове додатке могу да прочитају наша <label data-l10n-name="learn-more">упутства</label>.
+plugin-deprecation-description = Нешто недостаје? { -brand-short-name } више не подржава неке прикључке. <label data-l10n-name="learn-more">Сазнајте више.</label>
