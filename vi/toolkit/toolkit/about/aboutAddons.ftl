@@ -27,6 +27,9 @@ show-unsigned-extensions-button =
     .label = Không thể xác thực một số tiện ích
 show-all-extensions-button =
     .label = Hiện tất cả các tiện ích
+debug-addons =
+    .label = Gỡ lỗi tiện ích
+    .accesskey = B
 cmd-show-details =
     .label = Hiện thêm thông tin
     .accesskey = H
@@ -113,3 +116,8 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Những tiện ích sau chưa được kiểm tra tương thích với { -brand-short-name }. Bạn có thể <label data-l10n-name="find-addons">tìm tiện ích thay thế</label> hoặc chờ nhà phát triển cập nhật bản mới.
 disabled-unsigned-learn-more = Tìm hiểu về nỗ lực đảm bảo an toàn trên mạng cho bạn của chúng tôi.
 disabled-unsigned-devinfo = Nếu bạn là lập trình viên và muốn tiện ích của mình được kiểm tra thì có thể đọc <label data-l10n-name="learn-more">tài liệu hướng dẫn</label> của chúng tôi.
+plugin-deprecation-description = Bạn đang thấy thiếu gì đó? Một số phần bổ trợ không còn được hỗ trợ bởi { -brand-short-name }. <label data-l10n-name="learn-more">Tìm hiểu thêm.</label>
+legacy-warning-show-legacy = Hiển thị các phần mở rộng kế thừa
+legacy-extensions =
+    .value = Phần mở rộng kế thừa
+legacy-extensions-description = Các phần mở rộng này không đáp ứng tiêu chuẩn hiện tại của { -brand-short-name } do đó chúng đã bị ngừng hoạt động. <label data-l10n-name="legacy-learn-more">Tìm hiểu về các thay đổi tiện ích</label>
