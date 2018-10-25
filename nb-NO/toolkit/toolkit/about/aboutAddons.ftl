@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Utvidelser
+search-header =
+    .placeholder = Søk på addons.mozilla.org
+    .searchbuttonlabel = Søk
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Installer utvidelse fra fil …
     .accesskey = I
+help-button = Brukerstøtte for utvidelser
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name }-innstillinger
+       *[other] { -brand-short-name }-innstillinger
+    }
 tools-menu =
     .tooltiptext = Verktøy for alle utvidelser
 show-unsigned-extensions-button =
@@ -117,3 +126,7 @@ disabled-unsigned-description = Disse utvidelsene har ikke blitt kontrollert for
 disabled-unsigned-learn-more = Les mer om våre tiltak for å holde deg trygg på nettet.
 disabled-unsigned-devinfo = Utviklere som er interessert i å få sine utvidelser bekreftet kan fortsette ved å lese vår <label data-l10n-name="learn-more">manual</label>.
 plugin-deprecation-description = Savner du noe? Noen programtillegg støttes ikke lenger av { -brand-short-name }. <label data-l10n-name="learn-more">Les mer</label>
+legacy-warning-show-legacy = Vis foreldete utvidelser
+legacy-extensions =
+    .value = Foreldete utvidelser
+legacy-extensions-description = Disse utvidelsene oppfyller ikke gjeldende standarder i { -brand-short-name } og er derfor slått av. <label data-l10n-name="legacy-learn-more">Les mer om endringer av utvidelser</label>
