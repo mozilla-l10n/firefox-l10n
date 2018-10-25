@@ -8,8 +8,12 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = Laai tans…
+list-empty-installed =
+    .value = Daar is geen byvoegings van hierdie tipe geïnstalleer nie
 list-empty-available-updates =
     .value = Geen bywerkings gevind nie
+list-empty-recent-updates =
+    .value = Geen byvoegings is onlangs bygewerk nie
 list-empty-find-updates =
     .label = Kontroleer vir bywerkings
 list-empty-button =
@@ -19,6 +23,13 @@ install-addon-from-file =
     .accesskey = I
 tools-menu =
     .tooltiptext = Nutsgoed vir alle byvoegings
+show-unsigned-extensions-button =
+    .label = Sommige uitbreidings kon nie geverifieer word nie
+show-all-extensions-button =
+    .label = Wys alle uitbreidings
+debug-addons =
+    .label = Ontfout byvoegings
+    .accesskey = b
 cmd-show-details =
     .label = Wys meer inligting
     .accesskey = W
@@ -50,14 +61,24 @@ cmd-contribute =
     .accesskey = D
     .tooltiptext = Dra by tot die ontwikkeling van hierdie byvoeging
 discover-title = Wat is byvoegings?
+discover-description = Byvoegings is toepassings waarmee jy { -brand-short-name } kan pasmaak met ekstra funksionaliteit of styl. Daar is byvoorbeeld 'n kantbalk wat jou tyd spaar, 'n weerberig, of 'n tema wat { -brand-short-name } meer laat lyk soos jy daarvan hou.
+discover-footer = Wanneer jy aan die internet gekoppel is, sal hierdie paneel van die beste en gewildste byvoegings bevat wat jy kan probeer.
 detail-version =
     .label = Weergawe
+detail-last-updated =
+    .label = Laas bygewerk
 detail-contributions-description = Die ontwikkelaar van hierdie byvoeging vra dat jy die volgehoue ontwikkeling daarvan steun deur 'n klein bydrae te lewer.
 detail-update-type =
     .value = Outobywerkings
+detail-update-default =
+    .label = Verstek
+    .tooltiptext = Installeer bywerkings outomaties net as dit die verstek is
 detail-update-automatic =
     .label = Aan
     .tooltiptext = Installeer bywerkings outomaties
+detail-update-manual =
+    .label = Af
+    .tooltiptext = Moenie bywerkings outomaties installeer nie
 detail-home =
     .label = Tuisblad
 detail-home-value =
@@ -70,7 +91,33 @@ detail-check-for-updates =
     .label = Kontroleer vir bywerkings
     .accesskey = v
     .tooltiptext = Kontroleer vir bywerking vir hierdie byvoeging
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opsies
+           *[other] Voorkeure
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] V
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Verander hierdie byvoeging se opsies
+           *[other] Verander hierdie byvoeging se voorkeure
+        }
 detail-rating =
     .value = Gradering
 addon-restart-now =
     .label = Herbegin nou
+disabled-unsigned-heading =
+    .value = Sommige byvoegings is gedeaktiveer
+disabled-unsigned-description = Die volgende byvoegings is nie geverifieer vir gebruik in { -brand-short-name } nie. U kan <label data-l10n-name="find-addons">plaasvervangers soek</label> of die ontwikkelaar vra om hulle te laat verifieer.
+disabled-unsigned-learn-more = Meer inligting oor ons pogings om elkeen veilig te hou aanlyn.
+disabled-unsigned-devinfo = Ontwikkelaars wat hulle byvoegings wil laat verifieer kan gerus ons <label data-l10n-name="learn-more">handleiding</label> lees.
+plugin-deprecation-description = Kort iets? Sommige inproppe word nie meer ondersteun deur { -brand-short-name } nie. <label data-l10n-name="learn-more">Meer inligting.</label>
+legacy-warning-show-legacy = Wys verouderde uitbreidings
+legacy-extensions =
+    .value = Verouderde uitbreidings
+legacy-extensions-description = Dié uitbreidings voldoen nie aan { -brand-short-name } se huidige standaarde nie, en is dus gedeaktiveer. <label data-l10n-name="legacy-learn-more">Lees meer oor veranderinge aan byvoegings</label>
