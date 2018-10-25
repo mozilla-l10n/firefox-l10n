@@ -50,6 +50,7 @@ cmd-contribute =
     .accesskey = К
     .tooltiptext = Бу эбиискэни тупсарарга кыттыс
 discover-title = Эбиискэ диэн тугуй?
+discover-description = Эбиискэлэр — { -brand-short-name } бырагыраамманы бэйэҕэр табыгастаах гына уларытан биэрэр эбии олордуллар тэриллэр. Холобур, ойоҕос хапталы туттан халлаан туругун куруук көрө сылдьыаххын сөп, эбэтэр { -brand-short-name } тас көрүҥүн бэйэҥ баҕараргынан уларытан биэриэххин сөп.
 detail-version =
     .label = Барыл
 detail-last-updated =
