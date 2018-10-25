@@ -8,8 +8,12 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = ലഭ്യമാക്കുന്നു…
+list-empty-installed =
+    .value = ഈ രീതിയിലുള്ള ആഡ്-ഓണുകള്‍ നിങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്തിട്ടില്ല
 list-empty-available-updates =
     .value = പരിഷ്കരണങ്ങള്‍ ലഭ്യമല്ല
+list-empty-recent-updates =
+    .value = അടുത്തിടയ്ക്കു് ആഡ്-ഓണുകള്‍ പരിഷ്കരിച്ചിട്ടില്ല
 list-empty-find-updates =
     .label = പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക
 list-empty-button =
@@ -19,6 +23,10 @@ install-addon-from-file =
     .accesskey = I
 tools-menu =
     .tooltiptext = എല്ലാ ആഡ്-ഓണുകള്‍ക്കുമുള്ള പ്രയോഗങ്ങള്‍
+show-unsigned-extensions-button =
+    .label = ചില എക്റ്റെന്‍ഷനുകള്‍ പരിശോധിക്കാന്‍ പറ്റുന്നില്ല
+show-all-extensions-button =
+    .label = എല്ലാ എക്സ്റ്റെന്‍ഷനും കാണിക്കുക
 cmd-show-details =
     .label = കൂടുതല്‍ വിവരങ്ങള്‍ കാണിയ്ക്കുക
     .accesskey = S
@@ -50,6 +58,8 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = ഈ ആഡ്-ഓണിന്റെ പുരോഗതിയ്ക്കായി സംഭാവന ചെയ്യുക
 discover-title = എന്താണു് ആഡ്-ഓണുകള്‍?
+discover-description = നിങ്ങളുടെ ഇഷ്ടാനുസൃതം { -brand-short-name } -നു് കൂടുതല്‍ പ്രവര്‍ത്തനശേഷിയും ശൈലിയും ലഭ്യമാക്കുന്ന പ്രയോഗങ്ങളാണു് ആഡ്-ഓണുകള്‍. { -brand-short-name } നിങ്ങളുടെ ഇഷ്ടമുള്ളത് പോലെ ആക്കാന്‍ ഒരു കാലാവസ്ഥാ അറിയിപ്പോ, തീം മാറ്റുകയോ ചെയ്ത് നോക്കു.
+discover-footer = ഇന്റര്‍നെറ്റ് കണക്ഷനുള്ളപ്പോള്‍, ഈ പെയിനില്‍ ഏറ്റവും  ഉത്തമമായ ആഡ്-ഓണുകള്‍ നിങ്ങള്‍ക്കു് കാണാം.
 detail-version =
     .label = പതിപ്പു്
 detail-last-updated =
@@ -57,9 +67,15 @@ detail-last-updated =
 detail-contributions-description = ചെറിയ സംഭാവനകള്‍ നല്‍കി ഈ ആഡ്-ഓണിനുള്ള പുരോഗമനത്തിനായി സഹായിയ്ക്കുവാന്‍ ഡവലപ്പര്‍ അഭ്യര്‍ത്ഥിയ്ക്കുന്നു.
 detail-update-type =
     .value = ഓട്ടോമാറ്റിക്ക് പരിഷ്കരണങ്ങള്‍
+detail-update-default =
+    .label = സ്വതവേ
+    .tooltiptext = സ്വതവേയുള്ളതാണെങ്കില്‍ മാത്രം പരിഷ്കരണങ്ങള്‍ ഓട്ടോമാറ്റിക്കായി ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
 detail-update-automatic =
     .label = ഓണ്‍
     .tooltiptext = പരിഷ്കരണങ്ങള്‍ ഓട്ടോമാറ്റിക്കായി ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
+detail-update-manual =
+    .label = ഓഫ്
+    .tooltiptext = പരിഷ്കരണങ്ങള്‍ ഓട്ടോമാറ്റിക്കായി ഇന്‍സ്റ്റോള്‍ ചെയ്യരുതു്
 detail-home =
     .label = ആസ്ഥാനതാള്‍
 detail-home-value =
@@ -68,7 +84,32 @@ detail-repository =
     .label = ആഡ്-ഓണ്‍ പ്രൊഫൈല്‍
 detail-repository-value =
     .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക
+    .accesskey = f
+    .tooltiptext = ഈ ആഡ്-ഓണിനുള്ള പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] ഐച്ഛികങ്ങള്‍
+           *[other] മുന്‍ഗണനകള്‍
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] ഈ ആഡ്-ഓണിനുള്ള ഐച്ഛികങ്ങള്‍ മാറ്റുക
+           *[other] ഈ ആഡ്-ഓണിനുള്ള മുന്‍ഗണനകള്‍ മാറ്റുക
+        }
 detail-rating =
     .value = റേറ്റിങ്
 addon-restart-now =
     .label = ഉടന്‍ വീണ്ടും ആരംഭിയ്ക്കുക
+disabled-unsigned-heading =
+    .value = ചില ആഡോണുകള്‍ പ്രവര്‍ത്തനരഹിതമാക്കി
+disabled-unsigned-description = ഈ ആഡോണുകൾ { -brand-short-name } ൽ ഉപയോഗിക്കാമെന്ന് ഇതുവരെ ഉറപ്പുവരുത്തിയിട്ടില്ല. നിങ്ങൾക്ക് <label data-l10n-name="find-addons">പകരം വെക്കാനാവുന്നവ കണ്ടെത്താം</label> അല്ലെങ്കിൽ ഡെവലപ്പറോട് അവ വെരിഫൈ ചെയ്യാൻ ആവശ്യപ്പെടാം.
+disabled-unsigned-learn-more = ഓൺലൈനിൽ താങ്കൾ കൂടുതൽ സുരക്ഷിതനായിരിക്കാൻ സഹായിക്കുന്നതിനായുള്ള ഞങ്ങളുടെ ശ്രമങ്ങളെക്കുറിച്ച് കൂടുതൽ മനസിലാക്കുക.
+disabled-unsigned-devinfo = തങ്ങളുടെ ആഡോണുകൾ വെരിഫൈ ചെയ്യുന്നതിൽ തല്പരരായ ഡെവലപ്പർമാർക്ക് ഞങ്ങളുടെ<label data-l10n-name="learn-more">മാന്വൽ വായിക്കുന്നത് തുടരാവുന്നതാണ്</label>.
