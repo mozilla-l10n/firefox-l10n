@@ -29,6 +29,8 @@ install-addon-from-file=
   .label=Zainstaluj dodatek z pliku…
   .accesskey=Z
 
+help-button=Wsparcie dla dodatków
+
 tools-menu=
   .tooltiptext=Narzędzia dla wszystkich dodatków
 
