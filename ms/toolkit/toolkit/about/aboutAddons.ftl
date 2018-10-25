@@ -53,8 +53,8 @@ cmd-preferences =
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] p
-           *[other] m
+            [windows] P
+           *[other] K
         }
 cmd-enable-theme =
     .label = Tema Digunakan
@@ -111,8 +111,8 @@ detail-show-preferences =
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] h
-           *[other] a
+            [windows] P
+           *[other] K
         }
     .tooltiptext =
         { PLATFORM() ->
