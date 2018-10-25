@@ -14,6 +14,10 @@ list-empty-available-updates =
     .value = לא נמצאו עדכונים
 list-empty-recent-updates =
     .value = לא עדכנת תוספות כלשהן לאחרונה
+list-empty-find-updates =
+    .label = בדיקת עדכונים
+list-empty-button =
+    .label = מידע נוסף על תוספות
 install-addon-from-file =
     .label = התקנת תוספת מקובץ…
     .accesskey = ה
@@ -23,9 +27,15 @@ show-unsigned-extensions-button =
     .label = אין אפשרות לאמת חלק מההרחבות
 show-all-extensions-button =
     .label = הצגת כל ההרחבות
+debug-addons =
+    .label = ניפוי שגיאות של תוספות
+    .accesskey = נ
 cmd-show-details =
     .label = הצגת מידע נוסף
     .accesskey = ה
+cmd-find-updates =
+    .label = בדיקת עדכונים
+    .accesskey = מ
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -98,11 +108,14 @@ detail-show-preferences =
         }
 detail-rating =
     .value = דירוג
+addon-restart-now =
+    .label = הפעלה מחדש כעת
 disabled-unsigned-heading =
     .value = חלק מהתוספות נוטרלו
 disabled-unsigned-description = התוספות הבאות לא אומתו לשימוש ב־{ -brand-short-name }. באפשרותך <label data-l10n-name="find-addons">לחפש חלופות</label> או לפנות למפתחים בדרישה לאמת אותן.
 disabled-unsigned-learn-more = מידע נוסף על המאמצים שלנו לשמור על המשתמשים שלנו בטוחים ברשת.
 disabled-unsigned-devinfo = מפתחים המעוניינים לאמת את התוספות שלהם מתבקשים לעיין <label data-l10n-name="learn-more">במדריך</label> שלנו.
+plugin-deprecation-description = חסר כאן משהו? חלק מהתוספים החיצוניים אינם נתמכים עוד ב־{ -brand-short-name }. <label data-l10n-name="learn-more">למידע נוסף.</label>
 legacy-warning-show-legacy = הצגת הרחבות דור קודם
 legacy-extensions =
     .value = הרחבות מדור קודם
