@@ -8,8 +8,12 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = Iyalayisha…
+list-empty-installed =
+    .value = Awunakho okungezwayo kwalolu hlobo okakiwe
 list-empty-available-updates =
     .value = Akukho ukuvuselela okutholakele
+list-empty-recent-updates =
+    .value = Okwamanje awuvuselelanga okungezwayo
 list-empty-find-updates =
     .label = Ihlola Okufakwe Muva
 list-empty-button =
@@ -50,6 +54,8 @@ cmd-contribute =
     .accesskey = B
     .tooltiptext = Bamba iqhaza ekukukhuleni kwalokho okwengezwayo
 discover-title = Yini okwengezwayo?
+discover-description = Okwengezwayo mahlelo kisebenza akuvumela ukuba wenza kube ngokwakho i-{ -brand-short-name } ngokwenzeka okungaphezulu noma isitayela. Zana umugqa oseceleni wokonga isikhathi, isazisi ngesimo sezulu, noma ukubuka ngendikimba ukuze wenze i-{ -brand-short-name } kube ngeyakho.
+discover-footer = Uma uxhunyiwe kwi-inthanethi, leli windi lizofaka okwengezwayo okuhle kakhulu futhi nokwaziwayo ukuze ukuzame.
 detail-version =
     .label = Inguqulo
 detail-last-updated =
@@ -57,9 +63,15 @@ detail-last-updated =
 detail-contributions-description = Unjiniyela walokhu okwengezwayo ucela ukuba usize usekele ukukhula kwakho okuqhubekayo ngokubanmba iqhaza nje kancane.
 detail-update-type =
     .value = Ukuvuselela okuzenzakalelayo
+detail-update-default =
+    .label = Okwakhona
+    .tooltiptext = Faka ukuvuselela ngokuzenzakalela uma kuphela lokho kungokwakhona
 detail-update-automatic =
     .label = Khanya
     .tooltiptext = Faka ukuvuselela ngokuzenzakalela
+detail-update-manual =
+    .label = Cima
+    .tooltiptext = Ungafaki ukuvuselela ngokuzenzakalela
 detail-home =
     .label = Ikhasi eliyisiqalo
 detail-home-value =
@@ -72,6 +84,22 @@ detail-check-for-updates =
     .label = Hlola ukuvuselela
     .accesskey = u
     .tooltiptext = Hlola ukuvuselela kwalokhu okwengezwayo
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Izinketho
+           *[other] Okuthandwayo
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] O
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Shintasha izinketho zokwengezwayo
+           *[other] Shintsha lokhu okuthandwayo kokungezwayo
+        }
 detail-rating =
     .value = Ukala
 addon-restart-now =
