@@ -101,3 +101,7 @@ detail-rating =
     .value = Apreciacion
 addon-restart-now =
     .label = Reaviar ara
+disabled-unsigned-heading =
+    .value = De moduls son estats desactivats
+legacy-extensions =
+    .value = Extensions obsolètas
