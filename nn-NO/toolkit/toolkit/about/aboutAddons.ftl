@@ -38,6 +38,12 @@ detail-last-updated =
     .label = Sist oppdatert
 detail-update-type =
     .value = Automatiske oppdateringar
+detail-update-default =
+    .label = Standard
+    .tooltiptext = Installer oppdateringar automatisk berre om det er standard
+detail-update-manual =
+    .label = Av
+    .tooltiptext = Ikkje installer oppdateringar automatisk
 detail-home =
     .label = Heimeside
 detail-home-value =
@@ -48,3 +54,4 @@ detail-rating =
     .value = Vurdering
 addon-restart-now =
     .label = Start på nytt no
+plugin-deprecation-description = Saknar du noko? Nokre programtillegg er ikkje lenger støtta av { -brand-short-name }. <label data-l10n-name="learn-more">Les meir.</label>
