@@ -34,6 +34,17 @@ cmd-show-details =
 cmd-find-updates =
     .label = Nadi ileqman
     .accesskey = N
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Iγewwaṛen
+           *[other] Ismenyifen
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
+        }
 cmd-enable-theme =
     .label = Snes asentel
     .accesskey = S
@@ -74,6 +85,22 @@ detail-check-for-updates =
     .label = Senqed ma llan ileqman imaynuten
     .accesskey = S
     .tooltiptext = senqed ileqman n uzegrir-agi
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Iγewwaṛen
+           *[other] Ismenyifen
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] w
+           *[other] I
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Snifel iɣewwaṛen n uzegrir-agi
+           *[other] Snifel ismenyaf n uzegrir-agi
+        }
 detail-rating =
     .value = Adakaḍ
 addon-restart-now =
@@ -84,3 +111,6 @@ disabled-unsigned-description = Izegrar-agi ur ttwasneqden ara i useqdec n { -br
 disabled-unsigned-learn-more = Issin ugar ɣef ayen n mahel akken ak-d-mudd ugar n tɣellist s srid.
 disabled-unsigned-devinfo = ineflayen yebɣan ad sneqden izegrar nsen zemren ad d-awin ugar n telɣut ma ɣṛan <label data-l10n-name="learn-more">s ufus</label>.
 plugin-deprecation-description = Tettut kra? Kra nizegrar ur ttwasefranken ara tura di { -brand-short-name }. <label data-l10n-name="learn-more">Issin ugar</label>
+legacy-warning-show-legacy = Sken akk iseɣzaf iqburen
+legacy-extensions =
+    .value = Iseγzaf iqburen
