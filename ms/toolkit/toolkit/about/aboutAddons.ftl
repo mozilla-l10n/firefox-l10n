@@ -36,6 +36,39 @@ show-unsigned-extensions-button =
     .label = Beberapa ekstensi tidak dapat disahkan
 show-all-extensions-button =
     .label = Papar semua ekstensi
+debug-addons =
+    .label = Add-ons Nyahpepijat
+    .accesskey = s
+cmd-show-details =
+    .label = Papar Maklumat Tambahan
+    .accesskey = p
+cmd-find-updates =
+    .label = Cari Kemaskini
+    .accesskey = k
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Pilihan
+           *[other] Keutamaan
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] p
+           *[other] m
+        }
+cmd-enable-theme =
+    .label = Tema Digunakan
+    .accesskey = i
+cmd-disable-theme =
+    .label = Berhenti Menggunakan Tema
+    .accesskey = r
+cmd-install-addon =
+    .label = Pasang
+    .accesskey = g
+cmd-contribute =
+    .label = Menyumbang
+    .accesskey = a
+    .tooltiptext = Sumbang untuk pembangunan add-on ini
 discover-title = Apakah Add-ons?
 discover-description =
     Add-ons ialah aplikasi yang membolehkan anda menyesuaikan { -brand-short-name } dengan
@@ -66,6 +99,26 @@ detail-repository =
     .label = Profil add-on
 detail-repository-value =
     .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = Semak Kemaskini
+    .accesskey = n
+    .tooltiptext = Semak kemaskini add-on ini
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Pilihan
+           *[other] Keutamaan
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] h
+           *[other] a
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Tukar pilihan add-on ini
+           *[other] Tukar keutamaan add-on ini
+        }
 detail-rating =
     .value = Kadaran
 addon-restart-now =
