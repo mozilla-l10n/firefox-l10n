@@ -21,6 +21,13 @@ install-addon-from-file =
     .accesskey = I
 tools-menu =
     .tooltiptext = બધા ઍડ-ઓન માટે સાધનો
+show-unsigned-extensions-button =
+    .label = કેટલાક એક્સ્ટેન્શન્સની ચકાસણી કરી શકાઈ નથી
+show-all-extensions-button =
+    .label = બધા એક્સ્ટેન્શન્સ બતાવો
+debug-addons =
+    .label = ઍડ-ઑન્સ ડીબગ કરો
+    .accesskey = B
 cmd-show-details =
     .label = વધારે જાણકારીને બતાવો
     .accesskey = S
@@ -100,3 +107,11 @@ detail-rating =
     .value = મૂલ્યાંકન
 addon-restart-now =
     .label = હવે પુન:શરૂ કરો
+disabled-unsigned-heading =
+    .value = કેટલાક ઍડ-ઑન્સ અક્ષમ કરવામાં આવ્યા છે
+disabled-unsigned-description = નીચેના ઍડ-ઑન્સને { -brand-short-name } માં ઉપયોગ કરવા માટે ચકાસણી કરવામાં આવી નથી. તમે કરી શકો છો <label data-l10n-name="find-addons">ફેરબદલી શોધો</label> અથવા ડેવલપરને તેમને ચકાસવા માટે પૂછો.
+disabled-unsigned-devinfo = તેમના ઍડ-ઑન્સ ચકાસવામાં રસ ધરાવતા ડેવલપર્સ ચાલુ રાખી શકે છે વાંચીને અમારી <label data-l10n-name="learn-more">મેન્યુઅલ</label>.
+plugin-deprecation-description = કંઈક ખૂટે છે? કેટલાક પ્લગિન્સ હવે { -brand-short-name } દ્વારા આધારભૂત નથી. <label data-l10n-name="learn-more">વધુ શીખો.</label>
+legacy-warning-show-legacy = જૂના એક્સ્ટેન્શન્સ બતાવો
+legacy-extensions =
+    .value = જૂના એક્સ્ટેન્શન્સ
