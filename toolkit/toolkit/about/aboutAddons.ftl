@@ -8,10 +8,16 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = 载入中…
+list-empty-installed =
+    .value = 您没有安装任何此类型的附加组件
+list-empty-available-updates =
+    .value = 没有找到可用的更新
 list-empty-recent-updates =
     .value = 您最近没有更新任何附加组件
 list-empty-find-updates =
     .label = 检查更新
+list-empty-button =
+    .label = 进一步了解附加组件
 install-addon-from-file =
     .label = 从文件安装附加组件…
     .accesskey = I
@@ -51,6 +57,7 @@ detail-version =
     .label = 版本
 detail-last-updated =
     .label = 上次更新
+detail-contributions-description = 此附加组件的开发者希望通过您的小额捐款，帮助支持其持续开发。
 detail-update-type =
     .value = 自动更新
 detail-update-default =
@@ -74,6 +81,22 @@ detail-check-for-updates =
     .label = 检查更新
     .accesskey = f
     .tooltiptext = 检查此附加组件的更新
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] 选项
+           *[other] 首选项
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] 更改此附加组件的选项
+           *[other] 更改此附加组件的首选项
+        }
 detail-rating =
     .value = 评分
 disabled-unsigned-heading =
