@@ -4,6 +4,8 @@
 
 addons-window =
     .title = مدير الإضافات
+search-header-shortcut =
+    .key = f
 loading-label =
     .value = يحمّل…
 list-empty-available-updates =
