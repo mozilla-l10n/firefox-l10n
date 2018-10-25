@@ -25,6 +25,8 @@ tools-menu =
     .tooltiptext = Εργαλεία για όλα τα πρόσθετα
 show-unsigned-extensions-button =
     .label = Δεν ήταν δυνατή η επαλήθευση ορισμένων πρόσθετων
+show-all-extensions-button =
+    .label = Προβολή όλων των επεκτάσεων
 debug-addons =
     .label = Αποσφαλμάτωση πρόσθετων
     .accesskey = θ
@@ -119,3 +121,8 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Τα ακόλουθα πρόσθετα δεν έχουν επαληθευτεί για χρήση στο { -brand-short-name }. Μπορείτε να <label data-l10n-name="find-addons">βρείτε υποκατάστατα</label> ή ζητήστε από τους προγραμματιστές να επαληθεύσουν την εφαρμογή.
 disabled-unsigned-learn-more = Μάθετε περισσότερα σχετικά με τις προσπάθειές μας να είστε ασφαλείς στο διαδίκτυο.
 disabled-unsigned-devinfo = Οι προγραμματιστές που ενδιαφέρονται να επαληθεύσουν τα πρόσθετά τους, μπορούν να απευθυνθούν στο <label data-l10n-name="learn-more">εγχειρίδιο</label>.
+plugin-deprecation-description = Λείπει τίποτα; Ορισμένα αρθρώματα δεν υποστηρίζονται πλέον από το { -brand-short-name }. <label data-l10n-name="learn-more">Μάθετε περισσότερα.</label>
+legacy-warning-show-legacy = Εμφάνιση επεκτάσεων παλαιού τύπου
+legacy-extensions =
+    .value = Επεκτάσεις παλαιού τύπου
+legacy-extensions-description = Αυτές οι επεκτάσεις δεν πληρούν τα τρέχοντα κριτήρια του { -brand-short-name }, επομένως έχουν απενεργοποιηθεί. <label data-l10n-name="legacy-learn-more">Μάθετε σχετικά με τις αλλαγές στα πρόσθετα</label>
