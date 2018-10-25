@@ -21,3 +21,4 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-rating =
     .value = Kadaran
+disabled-unsigned-devinfo = Pembangun yang berminat untuk mengesahkan add-on mereka boleh meneruskan dengan membaca <label data-l10n-name="learn-more">manual</label>.
