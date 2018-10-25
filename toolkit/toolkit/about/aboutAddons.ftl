@@ -21,11 +21,27 @@ list-empty-button =
 install-addon-from-file =
     .label = Add-on installeren via bestand…
     .accesskey = s
+help-button = Add-on-ondersteuning
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name }-opties
+       *[other] { -brand-short-name }-voorkeuren
+    }
 tools-menu =
     .tooltiptext = Hulpmiddelen voor alle add-ons
+show-unsigned-extensions-button =
+    .label = Sommige extensies konden niet worden geverifieerd
+show-all-extensions-button =
+    .label = Alle extensies tonen
+debug-addons =
+    .label = Add-ons debuggen
+    .accesskey = b
 cmd-show-details =
     .label = Meer informatie tonen
     .accesskey = M
+cmd-find-updates =
+    .label = Updates zoeken
+    .accesskey = z
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -106,3 +122,13 @@ detail-rating =
     .value = Beoordeling
 addon-restart-now =
     .label = Nu herstarten
+disabled-unsigned-heading =
+    .value = Sommige add-ons zijn uitgeschakeld
+disabled-unsigned-description = De volgende add-ons zijn niet geverifieerd voor gebruik in { -brand-short-name }. U kunt <label data-l10n-name="find-addons">naar vervangingen zoeken</label> of de ontwikkelaar vragen deze te laten verifiëren.
+disabled-unsigned-learn-more = Lees meer over onze pogingen om u online veilig te houden.
+disabled-unsigned-devinfo = Ontwikkelaars die interesse hebben in het laten verifiëren van hun add-ons, kunnen verdergaan door onze <label data-l10n-name="learn-more">handleiding</label> te lezen.
+plugin-deprecation-description = Mist u iets? Sommige plug-ins worden niet meer door { -brand-short-name } ondersteund. <label data-l10n-name="learn-more">Meer info.</label>
+legacy-warning-show-legacy = Verouderde extensies tonen
+legacy-extensions =
+    .value = Verouderde extensies
+legacy-extensions-description = Deze extensies voldoen niet aan huidige { -brand-short-name }-standaarden en zijn daarom gedeactiveerd. <label data-l10n-name="legacy-learn-more">Meer info over de wijzigingen omtrent add-ons</label>
