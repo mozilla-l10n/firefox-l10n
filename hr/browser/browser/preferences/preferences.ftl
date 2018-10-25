@@ -96,6 +96,18 @@ extension-controlled-privacy-containers = Dodatak, <img data-l10n-name="icon"/> 
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira zaštitu od praćenja.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira ovu postavku.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = Dodatak, <img data-l10n-name="icon"/> { $name }, kontrolira kako se { -brand-short-name } povezuje na internet.
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = Da biste omogućili dodatak idite na <img data-l10n-name="addons-icon"/> Dodaci u <img data-l10n-name="menu-icon"/> izborniku.
 
 ## Preferences UI Search Results
 
@@ -106,6 +118,7 @@ search-results-empty-message =
         [windows] Žao nam je! Nema rezultata u Mogućnostima za “<span data-l10n-name="query"></span>”.
        *[other] Žao nam je! Nema rezultata u Postavkama za “<span data-l10n-name="query"></span>”.
     }
+search-results-help-link = Trebate pomoć? Posjetite <a data-l10n-name="url">{ -brand-short-name } podršku</a>
 
 ## General Section
 
@@ -125,12 +138,18 @@ is-not-default = { -brand-short-name } trenutno nije vaš zadani preglednik
 set-as-my-default-browser =
     .label = Postavi kao zadano…
     .accesskey = d
+startup-restore-previous-session =
+    .label = Vrati prijašnju sesiju
+    .accesskey = s
 disable-extension =
     .label = Onemogući dodatak
 tabs-group-header = Kartice
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab kruži kroz kartice redosljedom zadnje korištenih
     .accesskey = T
+open-new-link-as-tabs =
+    .label = Otvori poveznice u karticama umjesto novih prozora
+    .accesskey = p
 warn-on-close-multiple-tabs =
     .label = Upozorava vas pri zatvaranju više kartica
     .accesskey = v
@@ -195,6 +214,12 @@ choose-language-description = Odaberite jezik za prikazivanje stranica
 choose-button =
     .label = Odabir…
     .accesskey = d
+choose-browser-language-description = Odaberite jezik koji će se koristiti za prikaz izbornika, poruka i obavijesti od { -brand-short-name }-a.
+manage-browser-languages-button =
+    .label = Postavi alternative…
+    .accesskey = l
+confirm-browser-language-change-description = Ponovno pokrenite { -brand-short-name } da biste primijenili ove izmjene
+confirm-browser-language-change-button = Primjeni i ponovno pokreni
 translate-web-pages =
     .label = Prevedi web sadržaj
     .accesskey = P
@@ -305,9 +330,12 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Traženje teksta već prilikom upisivanja
     .accesskey = k
+browsing-cfr-recommendations-learn-more = Saznajte više
 
 ## General Section - Proxy
 
+network-settings-title = Postavke mreže
+network-proxy-connection-description = Postavi kako se { -brand-short-name } spaja na Internet.
 network-proxy-connection-learn-more = Saznajte više
 network-proxy-connection-settings =
     .label = Postavke...
@@ -315,12 +343,25 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Novi prozori i kartice
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Početna stranica i novi prozori
 home-newtabs-mode-label = Nove kartice
+home-restore-defaults =
+    .label = Vrati zadano
+    .accesskey = r
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox Home (zadano)
+home-mode-choice-custom =
+    .label = Prilagođeni URL-ovi…
 home-mode-choice-blank =
     .label = Prazna stranica
+home-homepage-custom-url =
+    .placeholder = Zalijepite URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -351,6 +392,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Prikaži prijedloge pretraživanja među rezultatima adresne trake
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Prikažite prijedloge za pretraživanje ispred povijesti pregledavanja u rezultatima adresne trake
 search-suggestions-cant-show = Sugestije pretraživanja neće biti prikazane u lokacijskoj traci jer ste podesili { -brand-short-name } da ne pamti povijest.
 search-one-click-header = Pretraživači na jedan klik
 search-one-click-desc = Odaberite alternativne pretraživače koji će se pojaviti ispod adresne trake i trake pretraživanja kada započmete upisivati pojmove.
@@ -416,6 +464,12 @@ sync-manage-account = Upravljanje računom
     .accesskey = u
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Za ponovno povezivanje, pokušajte se ponovno prijaviti { $email }
+sync-resend-verification =
+    .label = Ponovno pošalji potvrdu
+    .accesskey = d
+sync-remove-account =
+    .label = Ukloni račun
+    .accesskey = r
 sync-sign-in =
     .label = Prijava
     .accesskey = P
@@ -427,6 +481,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Povijest
     .accesskey = j
+sync-engine-tabs =
+    .label = Otvorene kartice
+    .tooltiptext = Popis otvorenog na svim sinkroniziranim uređajima
+    .accesskey = t
+sync-engine-logins =
+    .label = Prijave
+    .tooltiptext = Korisnička imena i lozinke koje ste spremili.
+    .accesskey = P
+sync-engine-addresses =
+    .label = Adrese
+    .tooltiptext = Poštanske adrese koje ste spremili (samo radna površina)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Kreditne kartice
+    .tooltiptext = Nazivi, brojevi i rok trajanja (samo radna površina)
+    .accesskey = c
+sync-engine-addons =
+    .label = Dodaci
+    .tooltiptext = Dodaci i teme za Firefox na radnoj površini
+    .accesskey = a
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Postavke
+           *[other] Osobitosti
+        }
+    .tooltiptext = Općenite, privatne i sigurnosne postavke koje ste promijenili
+    .accesskey = s
 sync-device-name-header = Naziv uređaja
 sync-device-name-change =
     .label = Promijeni naziv uređaja…
@@ -450,6 +532,9 @@ privacy-header = Privatnost preglednika
 
 forms-header = Obrasci i lozinke
 logins-header = Prijave i lozinke
+forms-ask-to-save-logins =
+    .label = Pitaj za spremanje prijava i lozinka za web stranice
+    .accesskey = r
 forms-exceptions =
     .label = Iznimke...
     .accesskey = m
