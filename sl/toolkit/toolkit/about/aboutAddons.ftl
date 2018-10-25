@@ -24,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Namesti dodatek iz datoteke …
     .accesskey = I
+help-button = Podpora za dodatke
+preferences =
+    { PLATFORM() ->
+        [windows] Možnosti { -brand-short-name }a
+       *[other] Nastavitve { -brand-short-name }a
+    }
 tools-menu =
     .tooltiptext = Orodja za vse dodatke
 show-unsigned-extensions-button =
@@ -67,6 +73,9 @@ discover-title = Kaj so dodatki?
 discover-description =
     Dodatki so programi, ki omogočajo prilagajanje brskalnika { -brand-short-name } vašim potrebam
     z dodajanjem zmogljivosti in spreminjanjem videza. Poskusite stranske vrstice, prikaz vremena ali tematsko obarvan { -brand-short-name }.
+discover-footer =
+    Ko ste povezani z internetom, vam ta odsek ponuja
+    nekatere izbrane in najbolj priljubljene dodatke.
 detail-version =
     .label = Različica
 detail-last-updated =
