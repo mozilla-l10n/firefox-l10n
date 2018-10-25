@@ -117,3 +117,7 @@ disabled-unsigned-description = Pengaya berikut belum diverifikasi untuk digunak
 disabled-unsigned-learn-more = Pelajari tentang usaha kami untuk menjaga keselamatan daring Anda.
 disabled-unsigned-devinfo = Pengembang yang tertarik untuk memverifikasi pengayanya dapat terus melanjutkan membaca <label data-l10n-name="learn-more">manual</label> kami.
 plugin-deprecation-description = Kehilangan sesuatu? Beberapa plugin tidak didukung lagi oleh { -brand-short-name }. <label data-l10n-name="learn-more">Pelajari Lebih Lanjut.</label>
+legacy-warning-show-legacy = Tampilkan ekstensi peninggalan
+legacy-extensions =
+    .value = Ekstensi Peninggalan
+legacy-extensions-description = Ekstensi ini tidak memenuhi standar { -brand-short-name } saat ini sehingga telah dinonaktifkan. <label data-l10n-name="legacy-learn-more">Pelajari tentang perubahan terhadap pengaya</label>
