@@ -14,5 +14,6 @@
 <!ENTITY restoreDefaultSet.label  "Återställ standardvärden">
 <!ENTITY addNewToolbar.label      "Lägg till nytt verktygsfält">
 <!ENTITY showTitlebar.label       "Visa titelfältet">
+<!ENTITY extraDragSpace.label     "Lägg till extra utrymme">
 <!ENTITY saveChanges.label        "Klar">
 <!ENTITY undoChanges.label        "Ångra ändringar">
