@@ -23,6 +23,13 @@ install-addon-from-file =
     .accesskey = N
 tools-menu =
     .tooltiptext = Nástroje pre všetky doplnky
+show-unsigned-extensions-button =
+    .label = Niektoré rozšírenia nemohli byť overené
+show-all-extensions-button =
+    .label = Zobraziť všetky rozšírenia
+debug-addons =
+    .label = Ladiť doplnky
+    .accesskey = L
 cmd-show-details =
     .label = Zobraziť ďalšie informácie
     .accesskey = Z
@@ -109,3 +116,8 @@ detail-rating =
     .value = Hodnotenie
 addon-restart-now =
     .label = Reštartovať teraz
+disabled-unsigned-heading =
+    .value = Niektoré doplnky boli zakázané
+disabled-unsigned-description = Nasledujúce doplnky neboli overené pre používanie v aplikácii { -brand-short-name }. Môžete si skúsiť <label data-l10n-name="find-addons">vyhľadať náhradu</label> alebo požiadať vývojára o overenie doplnku.
+disabled-unsigned-learn-more = Ďalšie informácie o našej snahe udržať vás v bezpečí online.
+disabled-unsigned-devinfo = Vývojári, ktorí si chcú nechať overiť svoje doplnky, si môžu prečítať náš <label data-l10n-name="learn-more">manuál</label>.
