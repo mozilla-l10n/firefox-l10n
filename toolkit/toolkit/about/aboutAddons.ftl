@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Gestô di Conponenti azonti
+search-header =
+    .placeholder = Çerca in addons.mozilla.org
+    .searchbuttonlabel = Çerca
 search-header-shortcut =
     .key = f
 loading-label =
