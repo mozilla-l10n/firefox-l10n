@@ -4,6 +4,8 @@
 
 addons-window =
     .title = Add-ons Manager
+search-header-shortcut =
+    .key = f
 loading-label =
     .value = Loading…
 list-empty-available-updates =
@@ -17,6 +19,13 @@ install-addon-from-file =
     .accesskey = I
 tools-menu =
     .tooltiptext = Tools for all add-ons
+show-unsigned-extensions-button =
+    .label = Some extensions could not be verified
+show-all-extensions-button =
+    .label = Show all extensions
+debug-addons =
+    .label = Debug Add-ons
+    .accesskey = b
 cmd-show-details =
     .label = Show More Information
     .accesskey = S
@@ -70,3 +79,13 @@ detail-rating =
     .value = Rating
 addon-restart-now =
     .label = Restart now
+disabled-unsigned-heading =
+    .value = Some add-ons have been disabled
+disabled-unsigned-description = The following add-ons have not been verified for use in { -brand-short-name }. You can <label data-l10n-name="find-addons">find replacements</label> or ask the developer to get them verified.
+disabled-unsigned-learn-more = Learn more about our efforts to help keep you safe online.
+disabled-unsigned-devinfo = Developers interested in getting their add-ons verified can continue by reading our <label data-l10n-name="learn-more">manual</label>.
+plugin-deprecation-description = Missing something? Some plugins are no longer supported by { -brand-short-name }. <label data-l10n-name="learn-more">Learn More.</label>
+legacy-warning-show-legacy = Show legacy extensions
+legacy-extensions =
+    .value = Legacy Extensions
+legacy-extensions-description = These extensions do not meet current { -brand-short-name } standards so they have been deactivated. <label data-l10n-name="legacy-learn-more">Learn about the changes to add-ons</label>
