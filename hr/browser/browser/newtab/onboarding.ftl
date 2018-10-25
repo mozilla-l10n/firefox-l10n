@@ -5,6 +5,7 @@
 
 ## UI strings for the simplified onboarding modal
 
+onboarding-button-label-try-now = Isprobajte odmah
 onboarding-welcome-header = Dobro došli u { -brand-short-name }
 onboarding-start-browsing-button-label = Započni pregledavanje
 
