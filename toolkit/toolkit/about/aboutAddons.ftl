@@ -15,6 +15,27 @@ install-addon-from-file =
     .accesskey = И
 tools-menu =
     .tooltiptext = Алатке за све додатке
+show-unsigned-extensions-button =
+    .label = Неке екстензије нису могле бити потврђене
+show-all-extensions-button =
+    .label = Прикажи све екстензије
+debug-addons =
+    .label = Испитај додатке
+    .accesskey = д
+cmd-show-details =
+    .label = Прикажи више информација
+    .accesskey = в
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Поставке
+           *[other] Поставке
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] П
+           *[other] П
+        }
 cmd-enable-theme =
     .label = Укључи тему
     .accesskey = У
@@ -28,10 +49,19 @@ cmd-contribute =
     .label = Допринеси
     .accesskey = Д
     .tooltiptext = Дајте прилог аутору овог додатка
+discover-title = Шта су додаци?
+discover-description =
+    Додаци су апликације које омогућавају да прилагодите { -brand-short-name } и
+    додате му нове могућности или стил. Испробајте бочну палету, временску прогнозу или теме за { -brand-short-name },
+    које ће га лепшим.
+discover-footer =
+    Када сте повезани на интернет, овај панел ће приказивати
+    неке од најбољих и најпопуларнијих додатака које можете да испробате.
 detail-version =
     .label = Издање
 detail-last-updated =
     .label = Последњи пут ажурирано
+detail-contributions-description = Програмер овог додатка моли да подржите његов непрекидан развој, тако што ћете дати мали допринос.
 detail-update-type =
     .value = Аутоматска ажурирања
 detail-update-automatic =
@@ -40,6 +70,8 @@ detail-update-automatic =
 detail-update-manual =
     .label = Искључено
     .tooltiptext = Немој да аутоматски инсталираш додатке
+detail-home =
+    .label = Почетна страница
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
@@ -64,3 +96,10 @@ detail-show-preferences =
         }
 detail-rating =
     .value = Оцена
+addon-restart-now =
+    .label = Поново покрени
+disabled-unsigned-heading =
+    .value = Неки додаци су онемогућени
+disabled-unsigned-description = Следећи додаци нису могли бити потврђени за коришћење у { -brand-short-name }-у. Можете <label data-l10n-name="find-addons">наћи замене</label> или питати програмере да их потврде.
+disabled-unsigned-learn-more = Сазнајте више како да помогнете да Вас одржимо сигурним на мрежи.
+disabled-unsigned-devinfo = Програмери који желе да потврде њихове додатке могу да прочитају наша <label data-l10n-name="learn-more">упутства</label>.
