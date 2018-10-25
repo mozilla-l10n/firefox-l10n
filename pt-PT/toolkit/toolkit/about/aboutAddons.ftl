@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Gestor de extras
+search-header =
+    .placeholder = Pesquisar addons.mozilla.org
+    .searchbuttonlabel = Pesquisar
 search-header-shortcut =
     .key = f
 loading-label =
@@ -12,6 +15,8 @@ list-empty-installed =
     .value = Não tem instalado qualquer extra deste tipo
 list-empty-available-updates =
     .value = Nenhuma atualização encontrada
+list-empty-recent-updates =
+    .value = Não atualizou quaisquer extras recentemente
 list-empty-find-updates =
     .label = Procurar atualizações
 list-empty-button =
@@ -19,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Instalar extra a partir de ficheiro…
     .accesskey = I
+help-button = Apoio dos extras
+preferences =
+    { PLATFORM() ->
+        [windows] Opções do { -brand-short-name }
+       *[other] Preferências do { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Ferramentas para todos os extras
 show-unsigned-extensions-button =
@@ -60,6 +71,9 @@ cmd-contribute =
     .tooltiptext = Participar no desenvolvimento deste extra
 discover-title = O que são extras?
 discover-description = Os extras são aplicações que permitem personalizar o { -brand-short-name } com funcionalidades ou estilos. Experimente uma barra lateral, um notificador meteorológico ou um tema para ajustar o { -brand-short-name } ao seu gosto.
+discover-footer =
+    Quando estiver ligado(a) à Internet, este painel irá mostrar
+    alguns dos melhores e mais populares extras para que os possa experimentar.
 detail-version =
     .label = Versão
 detail-last-updated =
