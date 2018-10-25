@@ -118,3 +118,5 @@ disabled-unsigned-learn-more = Ɓeydu humpito baɗte darnde amen e wallude ma hi
 disabled-unsigned-devinfo = Topayɓe hatojinɓe e ƴeewtaade ɓeyditte mum'en ena mbaawi jokkude tarde <label data-l10n-name="learn-more">famminorde</label>amen.
 plugin-deprecation-description = Ena ŋakki huunde? Won ceŋe nattuɗe tammiteede e { -brand-short-name }. <label data-l10n-name="learn-more">Ɓeydu Humpito.</label>
 legacy-warning-show-legacy = Hollu Jokke donaaɗe
+legacy-extensions =
+    .value = Timmite gaadanteeje
