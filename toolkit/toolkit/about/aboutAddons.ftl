@@ -21,6 +21,12 @@ list-empty-button =
 install-addon-from-file =
     .label = 从文件安装附加组件…
     .accesskey = I
+help-button = 附加组件帮助
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } 选项
+       *[other] { -brand-short-name } 首选项
+    }
 tools-menu =
     .tooltiptext = 用于所有附加组件的工具
 show-unsigned-extensions-button =
@@ -116,6 +122,8 @@ disabled-unsigned-heading =
 disabled-unsigned-description = 下列附加组件未通过针对是否适用于 { -brand-short-name } 的验证。您可以<label data-l10n-name="find-addons">找找有无替代品</label>或者请开发者申请验证。
 disabled-unsigned-learn-more = 了解我们为保障您的网上安全做了哪些努力。
 disabled-unsigned-devinfo = 想要自己的附加组件获得验证的开发者可继续阅读我们的<label data-l10n-name="learn-more">相关手册</label>。
+plugin-deprecation-description = 少些东西？某些插件已不再被 { -brand-short-name } 支持。 <label data-l10n-name="learn-more">详细了解。</label>
 legacy-warning-show-legacy = 显示旧式扩展
 legacy-extensions =
     .value = 旧式扩展
+legacy-extensions-description = 这些扩展不符合现今的 { -brand-short-name } 标准，因此已被停用。 <label data-l10n-name="legacy-learn-more">了解附加组件的变化</label>
