@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Lisäasetukset">
 <!ENTITY paneAccount.title        "Tilit">
 
+<!ENTITY addonsButton.label       "Laajennukset ja teemat">
+
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">
