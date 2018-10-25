@@ -315,10 +315,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Començar la recèrca en picar lo tèxte
     .accesskey = x
+browsing-cfr-recommendations-learn-more = Ne saber mai
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy de ret
 network-settings-title = Paramètres ret
 network-proxy-connection-description = Configurar la biais de { -brand-short-name } de se connectar a Internet.
 network-proxy-connection-learn-more = Ne saber mai
@@ -517,6 +517,7 @@ privacy-header = Confidencialitat del navegador
 ## Privacy Section - Forms
 
 forms-header = Formularis e senhals
+logins-header = Identificants e senhals
 forms-ask-to-save-logins =
     .label = Demandar per salvar los identificants e senhals dels sites
     .accesskey = r
@@ -583,26 +584,12 @@ sitedata-total-size-calculating = Calcul del pès de las donadas dels sites e de
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Los cookies, lo cache e las donadas dels sites utilizan actualament { $value } { $unit } d’espaci disc.
 sitedata-learn-more = Ne saber mai
-sitedata-accept-cookies-option =
-    .label = Acceptar los cookies e las donadas de sites (recomandat)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Blocar los cookies e las donadas de sites (pòt far que de sites foncionen pas)
-    .accesskey = B
 sitedata-keep-until = Las conservar fins a
     .accesskey = f
 sitedata-keep-until-expire =
     .label = Expiran
 sitedata-keep-until-closed =
     .label = { -brand-short-name } es tampat
-sitedata-accept-third-party-desc = Acceptar los cookies tèrces e las donadas de site
-    .accesskey = a
-sitedata-accept-third-party-always-option =
-    .label = Totjorn
-sitedata-accept-third-party-visited-option =
-    .label = Dels sites visitats
-sitedata-accept-third-party-never-option =
-    .label = Pas jamai
 sitedata-allow-cookies-option =
     .label = Acceptar los cookies e dondas de site
     .accesskey = A
@@ -661,6 +648,12 @@ content-blocking-toggle-label-on = ACTIU
 content-blocking-toggle-label-off = INACTIU
     .accesskey = I
 content-blocking-category-label = Seleccionar lo contengut de blocar
+content-blocking-tracking-protection-trackers-label =
+    .label = Traçadors
+    .accesskey = T
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Totes los traçadors detectats
+    .accesskey = T
 content-blocking-tracking-protection-option-always =
     .label = Totjorn
     .accesskey = T
@@ -682,10 +675,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Jamai
     .accesskey = j
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Utilizar la proteccion contra lo seguiment dins la navegacion privada per blocar los traçadors coneguts
-    .accesskey = v
 tracking-exceptions =
     .label = Excepcions…
     .accesskey = E

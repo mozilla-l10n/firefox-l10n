@@ -4,3 +4,4 @@
 
 restart-required-title = Reaviada necessària
 restart-required-header = O planhèm, manca pas gaire per poder contunhar.
+restart-button-label = Reavir { -brand-short-name }

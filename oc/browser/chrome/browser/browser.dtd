@@ -23,10 +23,14 @@
 <!ENTITY  reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Tornar cargar totes los onglets">
 <!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  selectAllTabs.label                "Seleccionar totes los onglets">
+<!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Duplicar l'onglet">
 <!ENTITY  duplicateTab.accesskey             "D">
+<!ENTITY  closeTabOptions.label              "Tampar totes los onglets">
+<!ENTITY  closeTabOptions.accesskey          "T">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -39,18 +43,24 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.accesskey        "T">
 
 <!ENTITY  pinSelectedTabs.label              "Penjar los onglets">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "P">
 <!ENTITY  unpinSelectedTabs.label            "Despenjar los onglets">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "j">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Recargar los onglets seleccionats">
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.label         "Marcar aquestes onglets…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "c">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,8 +69,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Penjar l’onglets">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Despenjar l’onglet">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "p">
 <!ENTITY  sendTabToDevice.label              "Enviar l'onglet al periferic">
 <!ENTITY  sendTabToDevice.accesskey          "D">
@@ -68,12 +84,16 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Enviar lo ligam al periferic">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  moveToNewWindow.label              "Desplaçar cap a una fenèstra novèla">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  reopenInContainer.label            "Tornar dobrir dins un onglet isolat">
 <!ENTITY  reopenInContainer.accesskey        "d">
 <!ENTITY  bookmarkAllTabs.label              "Marcar totes los onglets…">
 <!ENTITY  bookmarkAllTabs.accesskey          "M">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "Anullar la tampadura de l'onglet">
 <!ENTITY  undoCloseTab.accesskey             "u">
 <!ENTITY  closeTab.label                     "Tampar l'onglet">
@@ -100,6 +120,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
+
 <!ENTITY goOfflineCmd.label "Apercebut abans impression">
 <!ENTITY goOfflineCmd.accesskey "b">
 
@@ -114,6 +135,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Marcar totes los onglets…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "M">
+
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Anullar la tampadura de l'onglet">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
 
@@ -199,6 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "S'abonar a aquesta pagina">
 <!ENTITY subscribeToPageMenuitem.label "S'abonar a aquesta pagina…">
+
 <!ENTITY addCurPagesCmd.label "Marcar totes los onglets…">
 <!ENTITY showAllBookmarks2.label "Afichar totes los marcapaginas">
 <!ENTITY recentBookmarks.label "Marcats recentament">
@@ -553,9 +588,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Actualizar lo quadre">
 <!ENTITY reloadFrameCmd.accesskey     "c">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Còdi font de la seleccion">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Còdi MathML de la seleccion">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Còdi font de la pagina">
 <!ENTITY viewPageSourceCmd.accesskey  "f">
@@ -772,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "26em">
 <!ENTITY editBookmark.done.label                     "Acabar">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Mostrar l’editor en enregistrant">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "M">
 
@@ -780,6 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Seguretat del site">
 
+<!ENTITY identity.connection "Connexion">
 <!ENTITY identity.connectionSecure "Connexion securizada">
 <!ENTITY identity.connectionNotSecure "La connexion es pas securizada">
 <!ENTITY identity.connectionFile "Aquela pagina es enregistrada dins vòstre ordinador.">
@@ -922,9 +954,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "L’àudio de l’onglet serà partejat.">
 <!ENTITY getUserMedia.allWindowsShared.message "L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.">
 
-<!ENTITY trackingProtection.on "Proteccion contra lo seguiment : ACTIVADA">
-<!ENTITY trackingProtection.off "Proteccion contra lo seguiment : DESACTIVADA">
-
 <!ENTITY contentBlocking.title "Blocatge de contengut">
 <!ENTITY contentBlocking.detected "Contengut blocable detectat sus aqueste site.">
 <!ENTITY contentBlocking.notDetected "Cap de contengut blocable detectat sus aquesta pagina.">
@@ -939,34 +968,56 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.fastBlock.blocked.label "Blocats">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
+     "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "Blocats">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Apondre un blocatge…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Totes los traçadors detectats">
+<!ENTITY contentBlocking.trackingProtection3.label "Traçadors">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Blocats">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "Blocats">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Apondre un blocatge…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Cookies tèrces">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Cookies traçadors">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blocats">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Blocats">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Apondre un blocatge…">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Senhalar un problèma">
 <!ENTITY contentBlocking.breakageReportView.label "Senhalar de problèmas">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Ne saber mai">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
@@ -976,28 +1027,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Proteccion contra lo seguiment">
 <!ENTITY trackingProtection.tooltip "Dobrir las preferéncias de proteccion contra lo seguiment">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; bloca d’elements d’aquesta pagina que poirián pistar vòstra navigacion.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; a detectat d’elements que poirián pistar vòstra navigacion.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; bloca d’elements d’aquesta pagina que poirián pistar vòstra navigacion. Avètz desactivat la proteccion per aqueste site.">
-<!ENTITY trackingProtection.notDetected5 "Pas cap d'element de seguiment es estat detectat sus aquela pagina.">
-<!ENTITY trackingProtection.notDetectedException "Pas cap d'element de seguiment es estat detectat sus aquela pagina. Avètz desactivat la proteccion per aqueste site.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Avètz activat la proteccion contra lo seguiment. Actualizatz la pagina per blocar totes los traçadors.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Desactivar per aqueste site">
-<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!ENTITY trackingProtection.unblock4.label "Desactivar lo blocatge per aqueste site">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Desactivar per aquesta session">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "Activar per aqueste site">
-<!ENTITY trackingProtection.block4.accesskey "A">
 <!ENTITY trackingProtection.unblockPrivate4.label "Desactivar temporàriament lo blocatge">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Activar lo blocatge per aqueste site">
@@ -1107,7 +1145,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Sincronisacion dels periferics…">
 
 <!ENTITY pageAction.shareUrl.label "Partejar">
-
 <!ENTITY pageAction.shareMore.label "Mai…">
 
 <!ENTITY libraryButton.tooltip "Veire l'istoric, salvar los marcapaginas, e mai">
