@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Ldi amsefrak n izegrar
+search-header =
+    .placeholder = Nadi addons.mozilla.org
+    .searchbuttonlabel = Nadi
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Sebded azegrir seg ufaylu…
     .accesskey = S
+help-button = Tallalt izegrar
+preferences =
+    { PLATFORM() ->
+        [windows] Iɣewwaren n { -brand-short-name }
+       *[other] Ismenyifen n { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Ifecka i yizegrar imaṛṛa
 show-unsigned-extensions-button =
