@@ -8,8 +8,12 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = Llwytho…
+list-empty-installed =
+    .value = Nid oes gennych ychwanegion o'r math yma wedi eu gosod
 list-empty-available-updates =
     .value = Heb ganfod diweddariadau
+list-empty-recent-updates =
+    .value = Nid ydych wedi diweddaru eich ychwanegion yn ddiweddar
 list-empty-find-updates =
     .label = Gwirio am Ddiweddariadau
 list-empty-button =
@@ -19,6 +23,13 @@ install-addon-from-file =
     .accesskey = G
 tools-menu =
     .tooltiptext = Offer ar gyfer pob ychwanegyn
+show-unsigned-extensions-button =
+    .label = Nid oedd modd dilysu rhai estyniadau
+show-all-extensions-button =
+    .label = Dangos pob estyniad
+debug-addons =
+    .label = Dadfygio Ychwanegion
+    .accesskey = Y
 cmd-show-details =
     .label = Dangos Rhagor o Wybodaeth
     .accesskey = D
@@ -50,6 +61,8 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = Cyfrannu i ddatblygiad yr ychwanegyn
 discover-title = Beth yw Ychwanegion?
+discover-description = Mae Ychwanegion yn raglenni sy'n caniatáu i chi bersenoleiddio { -brand-short-name } gyda swyddogaethau neu steil ychwanegol. Defnyddiwch y bar ochr, hysbysydd tywydd, neu thema i'ch gwneud yn gysurus gyda { -brand-short-name }.
+discover-footer = Pan fyddwch wedi cysylltu â'r rhyngrwyd, bydd y paen yn cynnwys rhai o'r ychwanegion gorau a mwyaf poblogaidd i chi eu dewis.
 detail-version =
     .label = Fersiwn
 detail-last-updated =
@@ -57,9 +70,15 @@ detail-last-updated =
 detail-contributions-description = Mae datblygwr yr ychwanegyn yn gofyn eich bod yn cynorthwyo i gefnogi datblygiad drwy wneud cyfraniad bychan.
 detail-update-type =
     .value = Diweddariadau Awtomatig
+detail-update-default =
+    .label = Rhagosodedig
+    .tooltiptext = Gosod diweddariadau'n awtomatig os mai dyna yw'r rhagosodedig
 detail-update-automatic =
     .label = Ymlaen
     .tooltiptext = Gosod diweddariadau'n awtomatig
+detail-update-manual =
+    .label = Diffodd
+    .tooltiptext = Peidio gosod diweddariadau'n awtomatig
 detail-home =
     .label = Tudalen Cartref
 detail-home-value =
@@ -72,7 +91,28 @@ detail-check-for-updates =
     .label = Gwirio am Ddiweddariadau
     .accesskey = G
     .tooltiptext = Gwirio am ddiweddariad i'r ychwanegyn
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Dewisiadau
+           *[other] Dewisiadau
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] D
+           *[other] e
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Newid dewisiadau'r ychwanegyn
+           *[other] Newid dewisiadau'r ychwanegyn
+        }
 detail-rating =
     .value = Graddio
 addon-restart-now =
     .label = Ailgychwyn nawr
+disabled-unsigned-heading =
+    .value = Mae rhai ychwanegion wedi eu hanalluogi
+disabled-unsigned-description = Mae'r ychwanegion canlynol wedi eu dilysu i'w defnyddio yn { -brand-short-name }. Gallwch <label data-l10n-name="find-addons">canfod newidiadau</label> neu ofyn i'r datblygwr iddynt gael eu dilysu.
+disabled-unsigned-learn-more = Dysgu rhagor am ein hymdrechion i'ch cadw'n ddiogel ar-lein.
+disabled-unsigned-devinfo = Gall ddatblygwyr sydd â diddordeb mewn dilysu eu hychwanegion barhau drwy ddarllen ein <label data-l10n-name="learn-more">canllawiau</label>.
