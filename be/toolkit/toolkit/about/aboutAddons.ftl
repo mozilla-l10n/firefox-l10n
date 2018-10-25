@@ -65,6 +65,9 @@ discover-description =
     Дадаткі – гэта праграмы, якія дазваляюць вам дадаць { -brand-short-name } іншую
     функцыянальнасць або стыль. Паспрабуйце бакавую палічку, якая зберажэ ваш час, паказальнік надвор'я або новую тэму выгляду, каб пабудаваць ваш асабісты { -brand-short-name }
     .
+discover-footer =
+    Калі вы злучаны з інтэрнэтам, гэта панэль будзе паказваць
+    лепшыя і найбольш папулярныя дадаткі, якімі вы можаце карыстацца.
 detail-version =
     .label = Версія
 detail-last-updated =
@@ -118,3 +121,8 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Праца наступных дадаткаў у { -brand-short-name } не была праверана. Вы можаце <label data-l10n-name="find-addons">знайсці ім замену</label> або папрасіць распрацоўшчыка правесці іх праверку.
 disabled-unsigned-learn-more = Даведайцеся больш пра нашы намаганні ў забеспячэнні вашай бяспекі ў інтэрнэце.
 disabled-unsigned-devinfo = Распрацоўшчыкі, зацікаўленыя ў праверцы сваіх дадаткаў, могуць прачытаць наш <label data-l10n-name="learn-more">дапаможнік</label>.
+plugin-deprecation-description = Нешта адсутнічае? { -brand-short-name } больш не падтрымлівае некаторыя плагіны. <label data-l10n-name="learn-more">Падрабязней.</label>
+legacy-warning-show-legacy = Паказаць састарэлыя пашырэнні
+legacy-extensions =
+    .value = Састарэлыя пашырэнні
+legacy-extensions-description = Гэтыя пашырэнні не адпавядаюць бягучым стандартам { -brand-short-name }, таму яны былі выключаны. <label data-l10n-name="legacy-learn-more">Даведацца аб зменах у дадатках</label>
