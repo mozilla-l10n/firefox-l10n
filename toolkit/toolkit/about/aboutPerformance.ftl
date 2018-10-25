@@ -30,7 +30,7 @@ type-other = ‏‏سایر
 
 energy-impact-high = بلندی ({ $value })
 energy-impact-medium = متوسط ({ $value })
-energy-impact-low = کم ({{ $value }})
+energy-impact-low = کم ({ $value })
 
 ## Tooltips for the action buttons
 
