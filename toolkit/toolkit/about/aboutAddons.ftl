@@ -8,8 +8,12 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = लोड कर रहा है…
+list-empty-installed =
+    .value = आपके इस प्रकार की कोई सहयुक्तियाँ संस्थापित नहीं हैं
 list-empty-available-updates =
     .value = कोई अद्यतन नहीं मिला
+list-empty-recent-updates =
+    .value = आपने हाल में कोई सहयुक्तियाँ अद्यतन नहीं की हैं
 list-empty-find-updates =
     .label = अद्यतन के लिए जाँचें
 list-empty-button =
@@ -19,6 +23,13 @@ install-addon-from-file =
     .accesskey = I
 tools-menu =
     .tooltiptext = सभी सहयुक्तियों के लिए औज़ार
+show-unsigned-extensions-button =
+    .label = कुछ विस्तार सत्यापित नही किया जा सका
+show-all-extensions-button =
+    .label = सभी विस्तार दिखाएँ
+debug-addons =
+    .label = सहयुक्ति दोषसुधार
+    .accesskey = b
 cmd-show-details =
     .label = अधिक सूचना दिखाएँ
     .accesskey = S
@@ -50,6 +61,8 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = इस सहयुक्ति के विकास में अपना योगदान दें
 discover-title = सहयुक्तियाँ क्या हैं?
+discover-description = सहयुक्तियाँ ऐसे अनुप्रयोग हैं जो आपको { -brand-short-name } को अतिरिक्त प्रकार्यात्मकता या शैली से व्यक्तिगत रूचि के अनुसार ढालने में मदद करते हैं. समय बचाने वाली बाजूपट्टी, मौसम सूचक या एक ऐसे प्रसंग जो आपका अपना { -brand-short-name } बनाने वाले प्रसंग आजमाएँ.
+discover-footer = जब आप इंटरनेट से कनेक्टेड होते हैं, यह पट्टी आपके लिए सबसे बेहतरीन और लोकप्रिय सहयुक्तियाँ प्रस्तुत करता है जिसे आप आजमा सकें.
 detail-version =
     .label = संस्करण
 detail-last-updated =
@@ -57,9 +70,15 @@ detail-last-updated =
 detail-contributions-description = इस सहयुक्ति के डेवलेपर ने आग्रह किया है कि आप अपने छोटे योगदान से इसके लगातार विकास में अपना समर्थन दें.
 detail-update-type =
     .value = स्वचालित अद्यतन
+detail-update-default =
+    .label = तयशुदा
+    .tooltiptext = स्वतः अद्यतन संस्थापित करता है यदि वह तयशुदा है
 detail-update-automatic =
     .label = चालू
     .tooltiptext = स्वतः अद्यतन संस्थापित करता है
+detail-update-manual =
+    .label = बंद
+    .tooltiptext = स्वतः अद्यतनों को संस्थापित मत करें
 detail-home =
     .label = होमपेज
 detail-home-value =
@@ -68,7 +87,29 @@ detail-repository =
     .label = सहयुक्ति प्रोफ़ाइल
 detail-repository-value =
     .value = { detail-repository.label }
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] विकल्प
+           *[other] वरीयताएँ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] इस सहयुक्ति के विकल्पों को बदलें
+           *[other] इस सहयुक्ति की वरीयताएँ बदलें
+        }
 detail-rating =
     .value = दर
 addon-restart-now =
     .label = अब फिर आरंभ करें
+disabled-unsigned-heading =
+    .value = कुछ ऐड-ऑन निष्क्रिय किया गया हैं
+disabled-unsigned-description = { -brand-short-name } के उपयोग के लिए निम्न ऐड-ऑनस सत्यापित नहीं किया गया हैं. आप कर सकते हैं<label data-l10n-name="find-addons">बदलाव ढूँढें</label>या उनको सत्यापित पाने के लिए डेवलपर से पूछें.
+disabled-unsigned-learn-more = आपको ऑनलाइन सुरक्षित रखने के मदद के लिए हमारे प्रयासो के बारे में और अधिक जानें.
+disabled-unsigned-devinfo = डेवलपर्स जो कि अपने add-ons को सत्यापित करने मैं रुचि रखते हैं वे जारी कर सकते हैं<label data-l10n-name="learn-more">मैनुअल</label>.
+plugin-deprecation-description = कुछ भूल रहे हैं? कुछ प्लगइन { -brand-short-name } द्वारा समर्थित नही हैं <label data-l10n-name="learn-more">अधिक जानें.</label>
