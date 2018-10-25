@@ -4,12 +4,19 @@
 
 addons-window =
     .title = Add-ons Manager
+search-header =
+    .placeholder = Search addons.mozilla.org
+    .searchbuttonlabel = Search
 search-header-shortcut =
     .key = f
 loading-label =
     .value = Loading…
+list-empty-installed =
+    .value = You don’t have any add-ons of this type installed
 list-empty-available-updates =
     .value = No updates found
+list-empty-recent-updates =
+    .value = You haven’t recently updated any add-ons
 list-empty-find-updates =
     .label = Check For Updates
 list-empty-button =
@@ -17,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Install Add-on From File…
     .accesskey = I
+help-button = Add-ons Support
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } Options
+       *[other] { -brand-short-name } Preferences
+    }
 tools-menu =
     .tooltiptext = Tools for all add-ons
 show-unsigned-extensions-button =
@@ -57,6 +70,13 @@ cmd-contribute =
     .accesskey = C
     .tooltiptext = Contribute to the development of this add-on
 discover-title = What are Add-ons?
+discover-description =
+    Add-ons are applications that let you personalize { -brand-short-name } with
+    extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make { -brand-short-name }
+    your own.
+discover-footer =
+    When you’re connected to the internet, this pane will feature
+    some of the best and most popular add-ons for you to try out.
 detail-version =
     .label = Version
 detail-last-updated =
@@ -64,9 +84,15 @@ detail-last-updated =
 detail-contributions-description = The developer of this add-on asks that you help support its continued development by making a small contribution.
 detail-update-type =
     .value = Automatic Updates
+detail-update-default =
+    .label = Default
+    .tooltiptext = Automatically install updates only if that’s the default
 detail-update-automatic =
     .label = On
     .tooltiptext = Automatically install updates
+detail-update-manual =
+    .label = Off
+    .tooltiptext = Don’t automatically install updates
 detail-home =
     .label = Homepage
 detail-home-value =
@@ -79,6 +105,22 @@ detail-check-for-updates =
     .label = Check for Updates
     .accesskey = f
     .tooltiptext = Check for updates for this add-on
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Options
+           *[other] Preferences
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Change this add-on’s options
+           *[other] Change this add-on’s preferences
+        }
 detail-rating =
     .value = Rating
 addon-restart-now =
