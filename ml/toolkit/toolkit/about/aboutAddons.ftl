@@ -27,6 +27,9 @@ show-unsigned-extensions-button =
     .label = ചില എക്റ്റെന്‍ഷനുകള്‍ പരിശോധിക്കാന്‍ പറ്റുന്നില്ല
 show-all-extensions-button =
     .label = എല്ലാ എക്സ്റ്റെന്‍ഷനും കാണിക്കുക
+debug-addons =
+    .label = ആഡ്-ഓണുകള്‍ ഡീബഗ് ചെയ്യുക
+    .accesskey = B
 cmd-show-details =
     .label = കൂടുതല്‍ വിവരങ്ങള്‍ കാണിയ്ക്കുക
     .accesskey = S
@@ -113,3 +116,6 @@ disabled-unsigned-heading =
 disabled-unsigned-description = ഈ ആഡോണുകൾ { -brand-short-name } ൽ ഉപയോഗിക്കാമെന്ന് ഇതുവരെ ഉറപ്പുവരുത്തിയിട്ടില്ല. നിങ്ങൾക്ക് <label data-l10n-name="find-addons">പകരം വെക്കാനാവുന്നവ കണ്ടെത്താം</label> അല്ലെങ്കിൽ ഡെവലപ്പറോട് അവ വെരിഫൈ ചെയ്യാൻ ആവശ്യപ്പെടാം.
 disabled-unsigned-learn-more = ഓൺലൈനിൽ താങ്കൾ കൂടുതൽ സുരക്ഷിതനായിരിക്കാൻ സഹായിക്കുന്നതിനായുള്ള ഞങ്ങളുടെ ശ്രമങ്ങളെക്കുറിച്ച് കൂടുതൽ മനസിലാക്കുക.
 disabled-unsigned-devinfo = തങ്ങളുടെ ആഡോണുകൾ വെരിഫൈ ചെയ്യുന്നതിൽ തല്പരരായ ഡെവലപ്പർമാർക്ക് ഞങ്ങളുടെ<label data-l10n-name="learn-more">മാന്വൽ വായിക്കുന്നത് തുടരാവുന്നതാണ്</label>.
+plugin-deprecation-description = എന്തെങ്കിലും നഷ്ടമായോ? ചില പ്ലഗിന്നുകൾ ഇനിമുതൽ { -brand-short-name } പിന്തുണയ്ക്കില്ല. <label data-l10n-name="learn-more">കൂടുതല്‍ അറിയുക.</label>
+legacy-warning-show-legacy = പഴയ എക്സ്റ്റെന്‍ഷനും കാണിക്കുക
+legacy-extensions-description = ഈ എക്സ്റ്റൻഷെനുകൾ നിലവിലെ { -brand-short-name } മാനദണ്ഡങ്ങൾ പാലിക്കുന്നുല്ല, ആയതിനാൽ അവ നിർജ്ജീവമാക്കിയിട്ടുണ്ട്. <label data-l10n-name="legacy-learn-more">ആഡ്-ഓണുകളിലെ മാറ്റങ്ങളെക്കുറിച്ച് അറിയുക</label>
