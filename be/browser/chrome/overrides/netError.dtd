@@ -131,14 +131,16 @@
 
 <!ENTITY certerror.longpagetitle1 "Вашае злучэнне не бяспечнае">
 <!ENTITY certerror.longpagetitle2 "Папярэджанне: наперадзе патэнцыяльная пагроза бяспецы">
+<!ENTITY certerror.sts.longpagetitle  "Не злучаны: Патэнцыяльная праблема бяспекі">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Уладальнік <span class='hostname'/> наладзіў свой вэб-сайт няправільна.  Каб абараніць вашы звесткі ад крадзяжу, &brandShortName; не злучаўся з сайтам.">
 <!ENTITY certerror.introPara2 "&brandShortName; выявіў патэнцыяльную пагрозу бяспецы і не перайшоў да <span class='hostname'/>. Калі вы наведаеце гэты сайт, зламыснікі могуць паспрабаваць скрасці вашу інфармацыю, такую як паролі, адрасы электроннай пошты або дадзеныя крэдытных карт.">
 
-
 <!ENTITY certerror.expiredCert.secondPara "Гэтая праблема хутчэй за ўсё звязана з няправільна настаўленым часам на вашым камп'ютары, што можа перашкаджаць &brandShortName; злучыцца бяспечна.">
+
+<!ENTITY certerror.sts.introPara "&brandShortName; выявіў патэнцыяльную пагрозу бяспецы і не перайшоў да <span class='hostname'/>, таму што гэты сайт патрабуе абароненае злучэнне.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Як вы можаце гэта паправіць?">
@@ -197,6 +199,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Небяспечнае злучэнне">
 <!ENTITY certerror.pagetitle2  "Папярэджанне: наперадзе патэнцыяльная пагроза бяспецы">
+<!ENTITY certerror.sts.pagetitle  "Не злучаны: Патэнцыяльная праблема бяспекі">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Гэты сайт выкарыстоўвае HTTP
 Строгая бяспека транспарту (HSTS) прадугледжвае, што &brandShortName; можа злучацца з ім толькі бяспечна. Як следства, немагчыма дадаць выключэнне для гэтага сертыфіката.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> мае палітыку бяспекі, што называецца HTTP Strict Transport Security (HSTS), і гэта азначае, што &brandShortName; можа звязвацца з ім толькі абароненым злучэннем. Вы не можаце дадаць выключэнне для наведвання гэтага сайта.">
