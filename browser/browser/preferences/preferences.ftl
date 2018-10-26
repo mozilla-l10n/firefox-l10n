@@ -591,9 +591,17 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Kolačići i podaci web stranice
+sitedata-total-size-calculating = Izračunavanje veličine podataka web stranice i privremene memorije…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Vaši spremljeni kolačići, podaci web stranica i privremena memorija trenutno zauzimaju { $value } { $unit } prostora na disku.
 sitedata-learn-more = Saznajte više
 sitedata-keep-until = Zadrži do
     .accesskey = ž
+sitedata-keep-until-expire =
+    .label = isteka roka
 sitedata-cookies-exceptions =
     .label = Iznimke...
     .accesskey = m
