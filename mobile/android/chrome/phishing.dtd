@@ -23,5 +23,5 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Pagina web de la <span id='unwanted_sitename'/> a fost raportată ca având programe nedorite și a fost blocată în baza preferințelor de securitate.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Paginile cu programe nedorite încearcă să instaleze programe care pot fi înșelătoare și îți afectează sistemul în moduri neașteptate.">
 
-<!ENTITY safeb.blocked.harmfulPage.title "Site-ul pe care urmează să intri poate conține programe rău intenționate">
+<!ENTITY safeb.blocked.harmfulPage.title "Site-ul pe care urmează să îl accesezi poate conține programe rău intenționate">
 <!ENTITY safeb.blocked.harmfulPage.shortDesc "&brandShortName; a blocat această pagină deoarece ar putea să încerce să instaleze programe periculoase care fură sau șterg informațiile tale (de exemplu, fotografii, parole, mesaje și carduri de credit).">
