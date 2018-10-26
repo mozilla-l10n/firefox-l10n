@@ -17,7 +17,7 @@ policy-BlockAboutConfig = Blokir akses ke laman about:config.
 policy-BlockAboutProfiles = Blokir akses ke laman about:profiles.
 policy-BlockAboutSupport = Blokir akses ke laman about:support.
 policy-Bookmarks = Buat markah pada bilah alat Markah, menu Markah, atau folder tertentu yang ada di dalamnya.
-policy-Certificates = Menggunakan sertifikat bawaan maupun tidak. Saat ini kebijakan tersebut hanya berlaku untuk Windows saja.
+policy-Certificates = Apakah menggunakan sertifikat bawaan atau tidak. Hanya berlaku untuk Windows saja saat ini.
 policy-CertificatesDescription = Tambahkan sertifikat atau gunakan sertifikat bawaan.
 policy-Cookies = Izinkan atau tolak situs untuk menyetel kuki.
 policy-DisableAppUpdate = Cegah peramban untuk memperbarui.
@@ -34,7 +34,7 @@ policy-DisableMasterPasswordCreation = Jika ya, sandi utama tidak bisa dibuat.
 policy-DisablePocket = Nonaktifkan fitur untuk menyimpan laman web ke Pocket.
 policy-DisablePrivateBrowsing = Nonaktifkan Penjelajahan Pribadi.
 policy-DisableProfileImport = Nonaktifkan perintah menu untuk mengimpor data dari peramban lainnya.
-policy-DisableProfileRefresh = Nonaktifkan tombol Muat Ulang { -brand-short-name } di laman about:support.
+policy-DisableProfileRefresh = Nonaktifkan tombol Segarkan { -brand-short-name } di laman about:support.
 policy-DisableSafeMode = Nonaktifkan fitur untuk memulai ulang di Mode Aman. Catatan: Tombol Shift untuk masuk ke Mode Aman hanya dapat dinonaktifkan pada Windows menggunakan Kebijakan Grup.
 policy-DisableSecurityBypass = Mencegah pengguna melewati peringatan keamanan tertentu.
 policy-DisableSetDesktopBackground = Nonaktifkan perintah menu Jadikan Gambar sebagai Latar Belakang Desktop.
@@ -48,7 +48,7 @@ policy-DontCheckDefaultBrowser = Nonaktifkan pemeriksaan untuk peramban bawaan s
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktifkan atau nonaktifkan Pemblokiran Konten dan kunci ia secara opsional.
 policy-FlashPlugin = Izinkan atau tolak penggunaan plugin Flash.
-policy-HardwareAcceleration = Jika salah, matikan akselerasi perangkat keras.
+policy-HardwareAcceleration = Jika bernilai false, menonaktifkan akselerasi perangkat keras.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Mengatur dan mengunci halaman beranda secara opsional.
 policy-InstallAddonsPermission = Izinkan situs tertentu untuk memasang pengaya.
