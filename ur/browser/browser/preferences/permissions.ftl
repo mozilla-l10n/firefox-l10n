@@ -99,6 +99,8 @@ permissions-exceptions-autoplay-media-desc2 = آپ اس بات کی وضاحت �
 permissions-site-notification-window =
     .title = ترتیبات - نوٹیفکیشن اجازات
     .style = { permissions-window.style }
+permissions-site-notification-disable-label =
+    .label = اطلاعات کی اجازت دینے کا مطالبہ کرتی نئی درخواست کو روکیں۔
 
 ## Site Permissions - Location
 
