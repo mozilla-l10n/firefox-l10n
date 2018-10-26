@@ -65,4 +65,4 @@ connection-proxy-autologin =
     .tooltip = Esta opción identifícate de mou silenciosu énte los proxys cuando guardasti les credenciales pa ellos. Va entrugásete si falla la identificación.
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS al usar SOCKS v5
-    .accesskey = { "" }
+    .accesskey = D
