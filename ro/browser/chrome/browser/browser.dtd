@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizează">
-<!ENTITY fullScreenRestore.tooltip "Restabilește">
+<!ENTITY fullScreenRestore.tooltip "Restaurează">
 <!ENTITY fullScreenClose.tooltip "Închide">
 <!ENTITY fullScreenAutohide.label "Ascunde barele de instrumente">
 <!ENTITY fullScreenAutohide.accesskey "H">
@@ -1134,7 +1134,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateRestart.message2 "După o repornire rapidă, &brandShorterName; va restaura toate filele tale deschise și ferestrele care nu sunt în modul de navigare privată.">
 <!ENTITY updateRestart.header.message2 "Repornește pentru a actualiza &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "Repornește și restabilește">
+<!ENTITY updateRestart.acceptButton.label "Repornește și restaurează">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Nu acum">
 <!ENTITY updateRestart.cancelButton.accesskey "N">

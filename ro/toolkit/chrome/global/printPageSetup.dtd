@@ -45,7 +45,7 @@
 <!ENTITY headerFooter.label  "Antete și subsoluri">
 
 <!ENTITY hfLeft.label        "Stânga:">
-<!ENTITY hfCenter.label      "Centru:">
+<!ENTITY hfCenter.label      "Mijloc:">
 <!ENTITY hfRight.label       "Dreapta:">
 <!ENTITY headerLeft.tip      "Antet stânga">
 <!ENTITY headerCenter.tip    "Antet mijloc">
@@ -54,13 +54,13 @@
 <!ENTITY footerCenter.tip    "Subsol mijloc">
 <!ENTITY footerRight.tip     "Subsol dreapta">
 
-<!ENTITY hfTitle             "Titlu">
-<!ENTITY hfURL               "URL">
+<!ENTITY hfTitle             "Titlul">
+<!ENTITY hfURL               "URL-ul">
 <!ENTITY hfDateAndTime       "Data/ora">
 <!ENTITY hfPage              "Pagina #">
 <!ENTITY hfPageAndTotal      "Pagina # din #">
 <!ENTITY hfBlank             "--nimic--">
-<!ENTITY hfCustom            "Personalizat…">
+<!ENTITY hfCustom            "Personalizează…">
 
 <!ENTITY customPrompt.title  "Personalizare…">
 <!ENTITY customPrompt.prompt "Introdu textul personalizat pentru antet/subsol">
