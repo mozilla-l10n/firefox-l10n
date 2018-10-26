@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Správca doplnkov
+search-header =
+    .placeholder = Hľadať na addons.mozilla.org
+    .searchbuttonlabel = Hľadať
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Nainštalovať doplnok zo súboru…
     .accesskey = N
+help-button = Podpora doplnkov
+preferences =
+    { PLATFORM() ->
+        [windows] Možnosti aplikácie
+       *[other] Možnosti aplikácie
+    }
 tools-menu =
     .tooltiptext = Nástroje pre všetky doplnky
 show-unsigned-extensions-button =

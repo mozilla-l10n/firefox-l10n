@@ -36,12 +36,13 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Informácie režimu Runtime">
 <!ENTITY runtimeMenu_showDetails_accesskey "I">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Nastavenia zariadenia">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "z">
 <!ENTITY runtimeMenu_showSettings_label "Nastavenia zariadenia">
 <!ENTITY runtimeMenu_showSettings_accesskey "z">
+
+<!ENTITY runtimeMenu_showPerformancePanel_label "Výkon">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "V">
 
 <!ENTITY viewMenu_label "Zobraziť">
 <!ENTITY viewMenu_accesskey "Z">
@@ -75,9 +76,7 @@
 <!ENTITY projectPanel_tabs "Karty">
 <!ENTITY runtimePanel_usb "Zariadenia USB">
 <!ENTITY runtimePanel_wifi "Zariadenia Wi-Fi">
-<!ENTITY runtimePanel_simulator "Simulátory">
 <!ENTITY runtimePanel_other "Iné">
-<!ENTITY runtimePanel_installsimulator "Nainštalovať simulátor">
 <!ENTITY runtimePanel_noadbhelper "Nainštalovať doplnok ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Nevidíte svoje zariadenie?">
 <!ENTITY runtimePanel_refreshDevices_label "Obnoviť zariadenia">
@@ -90,7 +89,6 @@
 <!ENTITY details_location "Umiestnenie">
 <!ENTITY details_manifestURL "Identifikátor aplikácie">
 <!ENTITY details_removeProject_button "Odstrániť projekt">
-<!ENTITY details_showPrepackageLog_button "Zobraziť záznamy pre Pre-package">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nová aplikácia">
@@ -150,10 +148,6 @@
 <!ENTITY devicesetting_newtext "Hodnota predvoľby">
 <!ENTITY devicesetting_addnew "Pridať novú predvoľbu">
 
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Pomocník">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -175,19 +169,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Záznamy príkazu Pre-packaging">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Nastavenia simulátora">
-<!ENTITY simulator_remove "Odstrániť simulátor">
-<!ENTITY simulator_reset "Obnoviť predvolené">
-<!ENTITY simulator_name "Názov">
-<!ENTITY simulator_software "Softvér">
-<!ENTITY simulator_version "Verzia">
-<!ENTITY simulator_profile "Profil">
-<!ENTITY simulator_hardware "Hardvér">
-<!ENTITY simulator_device "Zariadenie">
-<!ENTITY simulator_screenSize "Obrazovka">
-<!ENTITY simulator_pixelRatio "Pomer bodov">
-<!ENTITY simulator_tv_data "Simulácia TV">
-<!ENTITY simulator_tv_data_open "Údaje configu">
-<!ENTITY simulator_tv_data_open_button "Otvorí priečinok configu">
