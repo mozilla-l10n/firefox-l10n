@@ -76,6 +76,12 @@ extension-controlled-homepage-override = ایک توسیع، <img data-l10n-name
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = ایک توسیع، <img data-l10n-name="icon"/>{ $name }، آپ کے نئے ٹیب کا صفحہ کنٹرول کر رہی ہیں۔
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = ایک ایکسٹینشن، <img data-l10n-name="icon"/> { $name } نے، آپکے پہلے سے طے شدہ سرچ انجن کو سیٹ کیا ہے۔
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = ایک ایکسٹینشن , <img data-l10n-name="icon"/> { $name }, کو کنٹینر ٹیب کی ضرورت ہے۔
 
 ## Preferences UI Search Results
 

@@ -16,6 +16,7 @@
 <!ENTITY safeb.palm.notdeceptive.accesskey "ف">
 
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
+<!ENTITY safeb.palm.advisory.desc2 "<a id='advisory_provider'/>کی طرف سے فراہم کرد مشاورتی۔">
 
 
 <!ENTITY safeb.blocked.malwarePage.title2 "اس ویب سائٹ کا دورہ آپ کے کمپیوٹر کو نقصان پہنچا سکتا ہے">
