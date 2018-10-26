@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-performance-title = Administrador de tareas
 
 ## Column headers
 
@@ -15,6 +17,7 @@ ghost-windows = Pestañas recientemente cerradas
 ## Values for the Type column
 
 type-tab = Pestaña
+type-addon = Complemento
 type-browser = Navegador
 type-other = Otro
 
