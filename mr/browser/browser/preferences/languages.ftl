@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = भाषा
-    .style = width: 30em
 webpage-languages-window =
     .title = वेबपृष्ठ भाषा सेटिंग
     .style = width: 40em
@@ -44,3 +41,6 @@ languages-active-code-format =
 browser-languages-window =
     .title = { -brand-short-name } भाषा सेटिंग
     .style = width: 40em
+browser-languages-downloading =
+    .label = डाउनलोड करत आहे...
+browser-languages-available-label = उपलब्ध भाषा

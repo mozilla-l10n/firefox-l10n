@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "ठीक आहे!">
 <!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "अधिक कृती">

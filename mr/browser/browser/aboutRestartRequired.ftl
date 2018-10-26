@@ -4,3 +4,4 @@
 
 restart-required-title = पुन्हा सुरु करणे आवश्यक आहे
 restart-required-header = क्षमस्व. चालू ठेवण्यासाठी आम्हाला एक छोटी गोष्ट करायची आहे.
+restart-button-label = { -brand-short-name } पुन्हा सुरू करा
