@@ -14,5 +14,6 @@
 <!ENTITY restoreDefaultSet.label  "Obnoviť predvolenú sadu">
 <!ENTITY addNewToolbar.label      "Pridať nový panel">
 <!ENTITY showTitlebar.label       "Zobraziť panel s titulkom okna">
+<!ENTITY extraDragSpace.label     "Pridať priestor na presunutie">
 <!ENTITY saveChanges.label        "Hotovo">
 <!ENTITY undoChanges.label        "Zrušiť zmeny">
