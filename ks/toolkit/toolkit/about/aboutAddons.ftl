@@ -87,7 +87,7 @@ detail-check-for-updates =
 detail-show-preferences =
     .label =
         { PLATFORM() ->
-            [windows] آپشنس{ "  " }
+            [windows] آپشنس
            *[other] ترجیح
         }
     .accesskey =

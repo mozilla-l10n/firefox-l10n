@@ -22,5 +22,5 @@ translation-sites-button-remove-all =
     .label = سارے  سایٹئ ہٹٲویو
     .accesskey = س
 translation-button-close =
-    .label = بند{ "  " }
+    .label = بند
     .accesskey = C
