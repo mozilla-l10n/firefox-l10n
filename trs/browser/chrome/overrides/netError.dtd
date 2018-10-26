@@ -13,6 +13,7 @@
 <!ENTITY continue2.label "Doj…">
 <!ENTITY moreInformation.label "Doj nuguan' a'min rayi'î nan">
 
+<!ENTITY viewCertificate.label "Ni'io' sertifikado">
 
 <!-- Specific error messages -->
 
@@ -109,6 +110,8 @@
 </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Nitaj si gua hue'e si conexion re'">
+<!ENTITY certerror.longpagetitle2 "Gadadut: Nū 'ngò yi'ì nukuaj">
+<!ENTITY certerror.sts.longpagetitle  "Nu ga'ue gida'aj: Siruaj ni hua ahī ma">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -144,6 +147,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.pagetitle1  "Konexiôn nitaj si gua yitinj">
+<!ENTITY certerror.pagetitle2  "Gadadut: Nū 'ngò yi'ì nukuaj">
 <!ENTITY certerror.sts.pagetitle  "Nu ga'ue gida'aj: Siruaj ni hua ahī ma">
 <!ENTITY certerror.copyToClipboard.label "Guyun' nej nuguan'">
 
@@ -155,3 +160,4 @@ was trying to connect. -->
 
 <!ENTITY clockSkewError.title "Nitaj si nū hue'ê hora riña si aga't">
 
+<!ENTITY prefReset.label "Nagi'iaj run' hua nianj">
