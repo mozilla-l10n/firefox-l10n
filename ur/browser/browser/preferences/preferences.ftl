@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = ان ویبسائٹس پر ٹریک نہ کریں سگنل بھیجیں جس سے آپ ٹریک نہ ہو سکے
 do-not-track-learn-more = مزید سیکھیں
 do-not-track-option-default =
     .label = صرف جب سراغ کاری حفاظت استعمال کر رہے ہوں

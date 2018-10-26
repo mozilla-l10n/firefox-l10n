@@ -23,6 +23,7 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromChromeBeta.label     "Chrome Beta">
 <!ENTITY importFromChromeBeta.accesskey "B">
+<!ENTITY importFromChromeDev.label      "Chrome ڈیو">
 <!ENTITY importFromChromeDev.accesskey  "D">
 <!ENTITY importFromChromium.label       "کرومیم">
 <!ENTITY importFromChromium.accesskey   "م">
