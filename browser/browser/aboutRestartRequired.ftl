@@ -4,6 +4,6 @@
 
 restart-required-title = Perlu Memulai Ulang
 restart-required-header = Maaf. Kami hanya perlu sedikit perbaikan sebelum melanjutkan.
-restart-required-intro = Kami baru saja memasang sebuah pembaruan. Klik mulai ulang { -brand-short-name } untuk menyelesaikannya pengaplikasiannya.
+restart-required-intro = Kami baru saja memasang pembaruan. Klik Mulai Ulang { -brand-short-name } untuk menerapkannya.
 restart-required-description = Setelah itu kami akan memulihkan seluruh laman, jendela, dan tab agar Anda dapat segera kembali melanjutkan.
 restart-button-label = Mulai ulang { -brand-short-name }
