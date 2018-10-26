@@ -35,7 +35,7 @@ config-value-column =
 config-pref-column-header =
     .tooltip = वर्गीकरणाखातीर क्लिक करा.
 config-column-chooser =
-    .tooltip = स्तंभाची निवड करपाखातीर क्लिक करा.{ "  " }
+    .tooltip = स्तंभाची निवड करपाखातीर क्लिक करा.
 
 ## These strings are used for the context menu
 
