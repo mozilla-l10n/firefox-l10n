@@ -221,6 +221,8 @@ choose-browser-language-description = Tagh na cànain anns an dèid clàran-taic
 manage-browser-languages-button =
     .label = Suidhich roghainn eile...
     .accesskey = l
+confirm-browser-language-change-description = Ath-thòisich { -brand-short-name } gus na h-atharraichean seo a chur an comas
+confirm-browser-language-change-button = Cuir an sàs is ath-thòisich
 translate-web-pages =
     .label = Eadar-theangaich susbaint-lìn
     .accesskey = t
@@ -331,9 +333,14 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Lorg teacsa cho luath ’s a thòisicheas tu air sgrìobhadh
     .accesskey = L
+browsing-cfr-recommendations =
+    .label = Mol leudachain fhad ’s a bhios mi ri brabhsadh
+    .accesskey = r
+browsing-cfr-recommendations-learn-more = Barrachd fiosrachaidh
 
 ## General Section - Proxy
 
+network-settings-title = Roghainnean an lìonraidh
 network-proxy-connection-description = Rèitich mar a cheanglas { -brand-short-name } ris an eadar-lìon.
 network-proxy-connection-learn-more = Barrachd fiosrachaidh
 network-proxy-connection-settings =
@@ -531,6 +538,7 @@ privacy-header = Prìobhaideachd a’ bhrabhsair
 ## Privacy Section - Forms
 
 forms-header = Foirmean ⁊ faclan-faire
+logins-header = Clàraidhean a-steach ⁊ faclan-faire
 forms-ask-to-save-logins =
     .label = Faighnich an dèid clàraidhean a-steach is faclan-faire làraichean-lìn a shàbhaladh
     .accesskey = r
@@ -603,6 +611,26 @@ sitedata-keep-until-expire =
     .label = Falbhaidh an ùine orra
 sitedata-keep-until-closed =
     .label = Tha { -brand-short-name } dùinte
+sitedata-allow-cookies-option =
+    .label = Gabh ri briosgaidean is dàta làraichean
+    .accesskey = a
+sitedata-disallow-cookies-option =
+    .label = Bac briosgaidean is dàta làraichean
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Seòrsa bacte
+    .accesskey = t
+sitedata-block-trackers-option-recommended =
+    .label = Tracaichean le treas-phàrtaidhean (mholamaid seo)
+sitedata-block-trackers-option =
+    .label = Tracaichean le treas-phàrtaidhean
+sitedata-block-unvisited-option =
+    .label = Briosgaidean o làraichean air nach do thadhail mi
+sitedata-block-all-third-party-option =
+    .label = Gach briosgaid le treas-phàrtaidh (dh’fhaoidte nach obraich cuid a làraichean ri linn)
+sitedata-block-all-option =
+    .label = Briosgaid sam bith (chan obraich cuid a làraichean ri linn)
 sitedata-clear =
     .label = Falamhaich an dàta...
     .accesskey = l
@@ -612,6 +640,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Tha na roghainnean agad san earrann “Bacadh susbaint” a’ bacadh atharraichean air roghainnean nam briosgaidean is dàta làraichean.
 
 ## Privacy Section - Address Bar
 
@@ -630,6 +662,7 @@ addressbar-suggestions-settings = Atharraich na roghainnean a thaobh mholaidhean
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Bacadh susbaint
 
 ## Privacy Section - Tracking
 
