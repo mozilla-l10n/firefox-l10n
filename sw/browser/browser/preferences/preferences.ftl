@@ -205,7 +205,7 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-accept-third-party-visited-option =
-    .label = Kutoka kulikotembelewa{ "                " }
+    .label = Kutoka kulikotembelewa
 sitedata-accept-third-party-never-option =
     .label = Kamwe
 sitedata-cookies-exceptions =
