@@ -92,6 +92,7 @@ permissions-exceptions-addons-desc = آپ اختصاص کر سکتے ہیں کہ
 permissions-exceptions-autoplay-media-window2 =
     .title = استثنیات - اوٹوپلے
     .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc2 = آپ اس بات کی وضاحت کر سکتے ہے کہ کون سے ویب سائٹ کو اواز کے ساتھ میڈیا خودبخد چلانے کی اجازت ہمیشہ یا کبھی بھی نھی ہے۔ آپ جس سائٹ کو منظم کرنا چاہتے ہے اس کا پتہ درج کریں اور پھر روکیں یا اجازت پر کلک کریں۔
 
 ## Site Permissions - Notifications
 
