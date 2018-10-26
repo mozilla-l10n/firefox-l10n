@@ -13,6 +13,7 @@
 <!ENTITY continue2.label "Doj…">
 <!ENTITY moreInformation.label "Doj nuguan' a'min rayi'î nan">
 
+
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Na'ue gatu riña internet ma">
@@ -120,8 +121,15 @@ was trying to connect. -->
 
 
 
+<!ENTITY cspBlocked.title "'Ngo narán aga' na riña sitiô na yi'ì sa mà riñaj">
+
+<!ENTITY corruptedContentErrorv2.title "Gire'ej dadin' sa nun riñan hua a'nan'">
 
 
+<!ENTITY securityOverride.exceptionButtonLabel "Nitaj ama na'nìn' na ma...">
+<!ENTITY securityOverride.exceptionButton1Label "Garayino' si ahī hua ma nī gun' ne'ñaan">
+
+<!ENTITY errorReporting.automatic2 "Ga'ninj nugua'an ga'anj riña Mozilla da' gini'in' nej sitio hua yi'ī.">
 <!ENTITY errorReporting.learnMore "Gahuin chrūn doj...">
 
 <!ENTITY remoteXUL.title "XUL nagi'iaj mun'ûn'">
@@ -136,9 +144,14 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.sts.pagetitle  "Nu ga'ue gida'aj: Siruaj ni hua ahī ma">
+<!ENTITY certerror.copyToClipboard.label "Guyun' nej nuguan'">
 
+<!ENTITY inadequateSecurityError.title "Nitaj si gua hue'e si conexion re'">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY blockedByPolicy.title "Hua blokeado pagina">
 
+<!ENTITY clockSkewError.title "Nitaj si nū hue'ê hora riña si aga't">
 
