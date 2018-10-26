@@ -23,7 +23,7 @@
 <!ENTITY deniedPortAccess.title "Adresa este restricționată">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.pageTitle "Serverul nu a fost găsit">
+<!ENTITY dnsNotFound.pageTitle "Server negăsit">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. Întâmpinăm dificultăți în găsirea acestui site.">
 <!ENTITY dnsNotFound.longDesc1 "
@@ -160,7 +160,7 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; nu s-a conectat la <span id='wrongSystemTime_URL'/> deoarece ceasul calculatorului tău pare că afișează ora greșită, iar aceasta împiedică o conexiune securizată.</p> <p>Ceasul calculatorului este setat la <span id='wrongSystemTime_systemDate'/>, deși ar trebui să fie <span id='wrongSystemTime_actualDate'/>. Pentru a rezolva această problemă, schimbă setările privind data și ora pentru a se potrivi cu cele corecte.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; nu s-a conectat la <span id='wrongSystemTimeWithoutReference_URL'/> deoarece ceasul calculatorului tău pare că afișează ora greșită, iar aceasta împiedică o conexiune securizată.</p> <p>Ceasul calculatorului este setat la <span id='wrongSystemTimeWithoutReference_systemDate'/>. Pentru a rezolva această problemă, schimbă setările privind data și ora pentru a se potrivi cu cele corecte.</p>">
 
-<!ENTITY certerror.pagetitle1  "Conexiune nesigură">
+<!ENTITY certerror.pagetitle1  "Conexiune nesecurizată">
 <!ENTITY certerror.pagetitle2  "Avertisment: Urmează un posibil risc de securitate">
 <!ENTITY certerror.sts.pagetitle  "Nu s-a realizat conectarea: Posibilă problemă de securitate">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Acest site folosește HTTP Strict Transport Security (HSTS) pentru a specifica că &brandShortName; se poate conecta doar în mod securizat la el. Drept rezultat, nu este posibil să adaugi o excepție acestui certificat.">

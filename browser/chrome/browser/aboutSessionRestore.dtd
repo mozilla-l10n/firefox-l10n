@@ -18,7 +18,7 @@
 <!ENTITY restorepage.closeButton2    "Începe o sesiune nouă">
 <!ENTITY restorepage.close.access2   "N">
 
-<!ENTITY restorepage.restoreHeader  "Restabilește">
+<!ENTITY restorepage.restoreHeader  "Restaurează">
 <!ENTITY restorepage.listHeader     "Ferestre și file">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Fereastra &#037;S">
@@ -35,8 +35,8 @@
 <!ENTITY welcomeback2.pageTitle     "Succes!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; este pregătit de funcționare.">
 
-<!ENTITY welcomeback2.restoreAll.label  "Restabilește toate ferestrele și filele">
-<!ENTITY welcomeback2.restoreSome.label "Restabilește numai filele dorite">
+<!ENTITY welcomeback2.restoreAll.label  "Restaurează toate ferestrele și filele">
+<!ENTITY welcomeback2.restoreSome.label "Restaurează numai pe cele care le dorești">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,

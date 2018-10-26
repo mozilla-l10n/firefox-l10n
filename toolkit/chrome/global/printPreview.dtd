@@ -4,7 +4,7 @@
 
 <!ENTITY print.label          "Tipărește…">
 <!ENTITY print.accesskey      "p">
-<!ENTITY pageSetup.label      "Configurarea paginii…">
+<!ENTITY pageSetup.label      "Aranjare în pagină…">
 <!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "Pagina:">
 <!ENTITY page.accesskey       "a">

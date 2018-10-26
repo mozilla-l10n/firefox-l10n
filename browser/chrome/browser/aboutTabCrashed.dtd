@@ -5,8 +5,8 @@
 <!ENTITY tabCrashed.title "Raportor de închidere neașteptată a filelor">
 
 <!ENTITY tabCrashed.closeTab2  "Închide fila">
-<!ENTITY tabCrashed.restoreTab "Restabilește această filă">
-<!ENTITY tabCrashed.restoreAll "Restabilește toate filele închise care s-au închis neașteptat">
+<!ENTITY tabCrashed.restoreTab "Restaurează această filă">
+<!ENTITY tabCrashed.restoreAll "Restaurează toate filele închise care s-au închis neașteptat">
 
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We

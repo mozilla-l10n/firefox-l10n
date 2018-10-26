@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchreset.tabtitle       "Restabilește setările de căutare">
+<!ENTITY searchreset.tabtitle       "Restaurează setările de căutare">
 
-<!ENTITY searchreset.pageTitle      "Restabilești setările de căutare?">
+<!ENTITY searchreset.pageTitle      "Restaurezi setările de căutare?">
 
 <!ENTITY searchreset.pageInfo1      "Setările tale de căutare ar putea fi învechite. &brandShortName; te poate ajuta să restaurezi setările de căutare implicite.">
 

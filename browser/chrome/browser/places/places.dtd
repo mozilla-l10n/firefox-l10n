@@ -36,7 +36,7 @@
 
 <!ENTITY cmd.backup.label               "Copie de siguranță…">
 <!ENTITY cmd.backup.accesskey           "g">
-<!ENTITY cmd.restore2.label             "Restabilește">
+<!ENTITY cmd.restore2.label             "Restaurează">
 <!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Alege fișierul…">
 <!ENTITY cmd.restoreFromFile.accesskey  "l">
