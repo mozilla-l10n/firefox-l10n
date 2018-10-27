@@ -102,6 +102,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = Sljedeće web stranice su vas zatražile slanje obavijesti. Možete navesti koje su vam web stranice dopuštene slati obavijesti. Također možete blokirati nove zahtjeve za slanje obavijesti.
 permissions-site-notification-disable-label =
     .label = Blokiraj nove zahtjeve koji traže dozvolu za obavijesti
+permissions-site-notification-disable-desc = Ovo će spriječiti traženje dopuštenja za slanje obavijesti za svaku stranicu koja nije navedena. Blokiranje obavijesti može slomiti neke značajke web stranica.
 
 ## Site Permissions - Location
 

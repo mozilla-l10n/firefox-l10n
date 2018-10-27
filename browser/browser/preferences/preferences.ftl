@@ -330,6 +330,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Traženje teksta već prilikom upisivanja
     .accesskey = k
+browsing-cfr-recommendations =
+    .label = Preporučuj dodatke dok pretražujem
+    .accesskey = r
 browsing-cfr-recommendations-learn-more = Saznajte više
 
 ## General Section - Proxy
@@ -344,6 +347,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Novi prozori i kartice
+home-new-windows-tabs-description2 = Odaberite što vidite kada otvorite vašu početnu stranicu, nove prozore i nove kartice.
 
 ## Home Section - Home Page Customization
 
