@@ -291,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "‍‍&brandShortName; ಮತ್ತು ಇತರೆ &vendorShortName; ಉತ್ಪನ್ನಗಳನ್ನು ಬಳಸುವ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "ಆನ್ ಮಾಡಿ">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "ಪ್ರಯೋಗಾತ್ಮಕ ವೈಶಿಷ್ಟ್ಯಗಳು">
@@ -363,7 +368,6 @@
 <!ENTITY pref_use_system_font_size_summary "ಗಣಕ ವ್ಯವಸ್ಥೆಯ ಅಕ್ಷರ ಶೈಲಿ ಪ್ರಕಾರ ಜಾಲಪುಟದ  ಹಿಗ್ಗಿಸು ಅಥವಾ ಕುಗ್ಗಿಸು">
 
 <!ENTITY pref_media_autoplay_enabled "ಆಟೋ ಪ್ಲೇ ಅನುಮತಿಸು">
-<!ENTITY pref_media_autoplay_enabled_summary "ಜಾಲತಾಣಗಳು ಸ್ವಯಂ ವೀಡಿಯೊ ಮತ್ತು ಇತರೆ ಮೀಡಿಯಾ ವಿಷಯಗಳನ್ನು ಪ್ಲೇ ಮಾಡುತ್ತಿದ್ದಲ್ಲಿ ನಿಯಂತ್ರಿಸಿ">
 <!ENTITY pref_media_autoplay_allow "ಆಟೋ ಪ್ಲೇ ಅನುಮತಿಸು">
 <!ENTITY pref_media_autoplay_block "ಆಟೋ ಪ್ಲೇ ನಿರ್ಬಂಧಿಸು">
 <!ENTITY pref_zoom_force_enabled "ಜೂಮ್‌ ಅನ್ನು ಯಾವಾಗಲೂ ಸಕ್ರಿಯವಾಗಿರಿಸು">
@@ -828,9 +832,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "&brandShortName; ಅನ್ನು ತೆರೆಯಲು ಆಗುತ್ತಿಲ್ಲ. ದಯವಿಟ್ಟು ಮರು-ಸ್ಥಾಪಿಸಿ ಮತ್ತು ಮರಳಿ ಪ್ರಯತ್ನಿಸಿ.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; ಇನ್ಮುಂದೆ ಪರಿಷ್ಕರಣೆಗೊಳ್ಳುವುದಿಲ್ಲ">
-<!ENTITY eol_notification_summary "ಹೆಚ್ಚು ಕಲಿಯಲು ಮೆಲ್ಲನೆ ತಟ್ಟಿ">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ನವೀಕರಣಗೊಂಡಿದೆ">
@@ -904,3 +905,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; ನೂಕಿದ ಸೂಚನೆಗಳು">
 <!ENTITY updater_notification_channel "ಅನ್ವಯ ಪರಿಷ್ಕರಣೆಗಳು">
 <!ENTITY synced_tabs_notification_channel "ಸಿಂಕ್ ಮಾಡಿದ ಹಾಳೆಗಳು">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "ತಾಣದ ಸೂಚನೆಗಳು">
