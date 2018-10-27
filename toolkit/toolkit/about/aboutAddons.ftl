@@ -4,47 +4,65 @@
 
 addons-window =
     .title = Add-onbeheerder
+
 search-header =
     .placeholder = addons.mozilla.org doorzoeken
     .searchbuttonlabel = Zoeken
+
 search-header-shortcut =
     .key = f
+
 loading-label =
     .value = Laden…
+
 list-empty-installed =
     .value = U hebt geen add-ons van dit type geïnstalleerd
+
 list-empty-available-updates =
     .value = Geen updates gevonden
+
 list-empty-recent-updates =
     .value = U hebt uw add-ons niet recentelijk bijgewerkt
+
 list-empty-find-updates =
     .label = Controleren op updates
+
 list-empty-button =
     .label = Meer info over add-ons
+
 install-addon-from-file =
     .label = Add-on installeren via bestand…
     .accesskey = s
+
 help-button = Add-on-ondersteuning
+
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name }-opties
        *[other] { -brand-short-name }-voorkeuren
     }
+
 tools-menu =
     .tooltiptext = Hulpmiddelen voor alle add-ons
+
 show-unsigned-extensions-button =
     .label = Sommige extensies konden niet worden geverifieerd
+
 show-all-extensions-button =
     .label = Alle extensies tonen
+
 debug-addons =
     .label = Add-ons debuggen
     .accesskey = b
+
 cmd-show-details =
     .label = Meer informatie tonen
     .accesskey = M
+
 cmd-find-updates =
     .label = Updates zoeken
     .accesskey = z
+
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -56,55 +74,75 @@ cmd-preferences =
             [windows] O
            *[other] V
         }
+
 cmd-enable-theme =
     .label = Thema gebruiken
     .accesskey = T
+
 cmd-disable-theme =
     .label = Gebruik van thema stoppen
     .accesskey = t
+
 cmd-install-addon =
     .label = Installeren
     .accesskey = I
+
 cmd-contribute =
     .label = Bijdragen
     .accesskey = r
     .tooltiptext = Bijdragen aan de ontwikkeling van deze add-on
+
 discover-title = Wat zijn add-ons?
+
 discover-description =
     Add-ons zijn toepassingen waarmee u { -brand-short-name } kunt personaliseren
     met extra functionaliteit of stijl. Probeer een tijdbesparende zijbalk, een weerbericht of een thema om { -brand-short-name }
     aan uw wensen aan te passen.
+
 discover-footer =
     Wanneer u met het internet bent verbonden, toont dit paneel u een aantal
     van de beste en meest populaire add-ons die u kunt uitproberen.
+
 detail-version =
     .label = Versie
+
 detail-last-updated =
     .label = Laatst bijgewerkt
+
 detail-contributions-description = De ontwikkelaar van deze add-on vraagt uw steun voor verdere ontwikkeling door middel van een kleine bijdrage.
+
 detail-update-type =
     .value = Automatische updates
+
 detail-update-default =
     .label = Standaard
     .tooltiptext = Updates alleen automatisch installeren als dat standaardinstelling is
+
 detail-update-automatic =
     .label = Aan
     .tooltiptext = Updates automatisch installeren
+
 detail-update-manual =
     .label = Uit
     .tooltiptext = Updates niet automatisch installeren
+
 detail-home =
     .label = Homepage
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Add-onprofiel
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Controleren op updates
     .accesskey = C
     .tooltiptext = Controleren op updates voor deze add-on
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -121,17 +159,33 @@ detail-show-preferences =
             [windows] Opties van deze add-on wijzigen
            *[other] Voorkeuren van deze add-on wijzigen
         }
+
 detail-rating =
     .value = Beoordeling
+
 addon-restart-now =
     .label = Nu herstarten
+
 disabled-unsigned-heading =
     .value = Sommige add-ons zijn uitgeschakeld
-disabled-unsigned-description = De volgende add-ons zijn niet geverifieerd voor gebruik in { -brand-short-name }. U kunt <label data-l10n-name="find-addons">naar vervangingen zoeken</label> of de ontwikkelaar vragen deze te laten verifiëren.
+
+disabled-unsigned-description =
+    De volgende add-ons zijn niet geverifieerd voor gebruik in { -brand-short-name }. U kunt
+    <label data-l10n-name="find-addons">naar vervangingen zoeken</label> of de ontwikkelaar vragen deze te laten verifiëren.
+
 disabled-unsigned-learn-more = Lees meer over onze pogingen om u online veilig te houden.
-disabled-unsigned-devinfo = Ontwikkelaars die interesse hebben in het laten verifiëren van hun add-ons, kunnen verdergaan door onze <label data-l10n-name="learn-more">handleiding</label> te lezen.
-plugin-deprecation-description = Mist u iets? Sommige plug-ins worden niet meer door { -brand-short-name } ondersteund. <label data-l10n-name="learn-more">Meer info.</label>
+
+disabled-unsigned-devinfo =
+    Ontwikkelaars die interesse hebben in het laten verifiëren van hun add-ons, kunnen verdergaan door onze
+    <label data-l10n-name="learn-more">handleiding</label> te lezen.
+
+plugin-deprecation-description =
+    Mist u iets? Sommige plug-ins worden niet meer door { -brand-short-name } ondersteund. <label data-l10n-name="learn-more">Meer info.</label>
+
 legacy-warning-show-legacy = Verouderde extensies tonen
+
 legacy-extensions =
     .value = Verouderde extensies
-legacy-extensions-description = Deze extensies voldoen niet aan huidige { -brand-short-name }-standaarden en zijn daarom gedeactiveerd. <label data-l10n-name="legacy-learn-more">Meer info over de wijzigingen omtrent add-ons</label>
+
+legacy-extensions-description =
+    Deze extensies voldoen niet aan huidige { -brand-short-name }-standaarden en zijn daarom gedeactiveerd. <label data-l10n-name="legacy-learn-more">Meer info over de wijzigingen omtrent add-ons</label>
