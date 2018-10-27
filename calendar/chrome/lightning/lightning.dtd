@@ -83,6 +83,7 @@
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Hemen yanıt gönder">
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Organizatöre yanıt gönder">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Dizinin tamamı için düzenleyiciye yanıt gönder">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Yanıt gönderme">
 
 <!-- Lightning specific keybindings -->
