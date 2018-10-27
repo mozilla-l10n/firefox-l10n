@@ -16,7 +16,7 @@
 <!ENTITY views.label                    "Vizualizări">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Schimbă vizualizarea">
-<!ENTITY view.columns.label             "Arată coloane">
+<!ENTITY view.columns.label             "Afișează coloane">
 <!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sort.label                "Sortează">
 <!ENTITY view.sort.accesskey            "S">
