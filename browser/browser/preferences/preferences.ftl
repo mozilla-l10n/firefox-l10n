@@ -679,6 +679,7 @@ content-blocking-tracking-protection-trackers-label =
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Svi otkriveni pratitelji
     .accesskey = t
+content-blocking-tracking-protection-new-description = Blokiraj sve poznate pratitelje. (Može spriječiti učitavanje stranica.)
 content-blocking-tracking-protection-option-always =
     .label = Uvijek
     .accesskey = U
@@ -689,16 +690,28 @@ content-blocking-tracking-protection-change-block-list = Promijenite popis bloki
 content-blocking-third-party-cookies-label =
     .label = Kolačići treće strane
     .accesskey = K
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Vaše postavke kolačića i podatka web stranica sprječavaju promjene postavki kolačića treće strane.
+content-blocking-change-cookie-settings =
+    .label = Promijeni postavke kolačića
+    .accesskey = P
 content-blocking-reject-trackers-block-trackers-option-recommended =
     .label = Pratitelji (preporučeno)
     .accesskey = P
 content-blocking-reject-trackers-block-trackers-option =
     .label = Pratitelji
     .accesskey = P
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Svi kolačići treće strane (može dovesti do sloma web stranice)
+    .accesskey = a
 
 ## Privacy Section - Tracking
 
 tracking-header = Zaštita od praćenja
+tracking-mode-label = Koristi zaštitu od praćenja kako biste blokirali poznate pratitelje
 tracking-mode-always =
     .label = Uvijek
     .accesskey = j
@@ -778,6 +791,9 @@ collection-health-report =
     .label = Dozvolite da { -brand-short-name } šalje tehničke podatke i podatke interakcije { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Saznajte više
+collection-studies =
+    .label = Dopusti { -brand-short-name }u da instalira i pokreće  studije
+collection-studies-link = Pregledajte { -brand-short-name } studije
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji s podacima su onemogućeni za konfiguraciju
