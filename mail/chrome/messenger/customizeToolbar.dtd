@@ -14,5 +14,6 @@
 <!ENTITY restoreDefaultSet.label  "Restaurează elementele implicite">
 <!ENTITY addNewToolbar.label      "Adaugă o nouă bară de instrumente">
 <!ENTITY showTitlebar.label       "Arată bara de titlu">
+<!ENTITY extraDragSpace.label     "Adaugă spațiu de tragere">
 <!ENTITY saveChanges.label        "Terminat">
 <!ENTITY undoChanges.label        "Anulează schimbările">
