@@ -61,3 +61,12 @@ policy-NoDefaultBookmarks = Ñif cosgol maantore garduɗe e { -brand-short-name 
 policy-OfferToSaveLogins = Teeŋtin ñaawirgel gaddanoowel{ -brand-short-name } yamirde huutorɓe siftorde baccooje e pinle kisnaaɗe. Njaruuji goonga walla fenaande ina njaɓee.
 policy-OverrideFirstRunPage = Faalkiso hello ciynugol adanngo ngoo. Toɗɗo feere ndee e mehum so aɗa yiɗi ñifde hello adanngo ciynugol ngol.
 policy-OverridePostUpdatePage = Faalkiso hello "Hol ko hesɗi" hesɗitinaango ngoo. Toɗɗo feere ndee e mehum so aɗa yiɗi ñifde hello caggal kesɗitingol ngoo.
+policy-Permissions = Teelto jamirooje wonande kamera, mikroo e nokku kam e tintine.
+policy-PopupBlocking = Yamir huunde e lowe geese ɗisde kenorɗe pawiiɗe e ngonkaaji tafdaaɗe.
+policy-Proxy = Teelto ñaawirɗe proxy.
+policy-RequestedLocales = Toɗɗo doggol ñaawirɗe diiwaneeje ɗe jaaɓngal ngal ɗaɓɓi ɗee fawaade e ɓurɗe yiɗeede.
+policy-SanitizeOnShutdown = Momtu denndaangal keɓe banngagol so dartaama.
+policy-SearchBar = Toɗɗo nokku ɗo palal njiylawu foti wonde. Kuutoro ina yamiraa neɗɗinde ngal.
+policy-SearchEngines = Teelto ñaawirɗe yiylorde ndee. Ndee feere heɓii tan ko tuggude e yamre ESR (Extended Support Release)
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Aaf wulnde PKCS#11.
