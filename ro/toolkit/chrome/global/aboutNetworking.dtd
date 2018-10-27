@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "Despre rețea">
-<!ENTITY aboutNetworking.warning               "Acesta este foarte experimental. Nu folosi fără supravegherea unui specialist.">
-<!ENTITY aboutNetworking.showNextTime          "Arată acest avertisment data viitoare">
+<!ENTITY aboutNetworking.warning               "Această funcție este foarte experimentală. Nu folosi fără supravegherea unui specialist.">
+<!ENTITY aboutNetworking.showNextTime          "Afișează acest avertisment data viitoare">
 <!ENTITY aboutNetworking.ok                    "Ok">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "Socketuri">
