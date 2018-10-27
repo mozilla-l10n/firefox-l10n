@@ -663,6 +663,41 @@ addressbar-suggestions-settings = Atharraich na roghainnean a thaobh mholaidhean
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bacadh susbaint
+content-blocking-desc = Bac susbaint le treas-phàrtaidhean, mar shanasachd no còd, a chuireadh dàil air a’ bhrabhsadh agus a thracaicheadh tu air feadh an lìn. Gnàthaich na roghainnean agad airson deagh-chothromachadh eadar dìon is dèanadas.
+content-blocking-learn-more = Barrachd fiosrachaidh
+content-blocking-restore-defaults =
+    .label = Aisig na bun-roghainnean
+    .accesskey = r
+content-blocking-toggle-on =
+    .tooltiptext = Cuir dheth am bacadh susbaint
+content-blocking-toggle-off =
+    .tooltiptext = Cuir air am bacadh susbaint
+content-blocking-toggle-label-on = AIR
+    .accesskey = A
+content-blocking-toggle-label-off = DHETH
+    .accesskey = D
+content-blocking-category-label = Tagh na tha thu airson bacadh
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Tracaichean a tha slaodach ’gan luchdadh
+    .accesskey = s
+content-blocking-fastblock-new-description = Bac dìreach na tracaichean a chuireadh maille air luchdadh dhuilleagan.
+content-blocking-tracking-protection-trackers-label =
+    .label = Tracaichean
+    .accesskey = T
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Gach tracaiche ris an do mhothaicheadh
+    .accesskey = t
+content-blocking-tracking-protection-new-description = Bac gach tracaiche air a bheil sinn eòlach. (Dh’fhaoidte gun cum seo cuid a dhuilleagan o luchdadh.)
+content-blocking-tracking-protection-option-always =
+    .label = An-còmhnaidh
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Ann an uinneagan prìobhaideach a-mhàin
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Atharraich an liosta bacaidh
 
 ## Privacy Section - Tracking
 
