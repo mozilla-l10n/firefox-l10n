@@ -853,6 +853,7 @@ content-blocking-fastblock-slow-loading-trackers-label =
   .label = Traag ladende trackers
   .accesskey = T
 content-blocking-fastblock-new-description = Alleen de trackers blokkeren die snel laden van pagina’s tegengaan.
+
 content-blocking-tracking-protection-trackers-label =
   .label = Trackers
     .accesskey = T
@@ -1063,3 +1064,8 @@ certs-view =
 certs-devices =
     .label = Beveiligingsapparaten…
     .accesskey = B
+
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Bestanden opslaan naar { $service-name }
