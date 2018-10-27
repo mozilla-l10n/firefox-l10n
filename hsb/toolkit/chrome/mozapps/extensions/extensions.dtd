@@ -42,7 +42,7 @@
 <!-- categories / views -->
 <!ENTITY view.discover.label                  "Přidatki wobstarać">
 <!ENTITY view.recentUpdates.label             "Nowe aktualizacije">
-<!ENTITY view.availableUpdates.label          "K dispoziciji stejace aktualizacije">
+<!ENTITY view.availableUpdates.label          "Aktualizacije">
 
 <!ENTITY helpButton.label                      "Pomoc za přidatki">
 <!ENTITY preferencesWin.label                  "Nastajenja &brandShortName;">
@@ -87,6 +87,14 @@
 <!ENTITY cmd.preferencesUnix.label            "Nastajenja">
 <!ENTITY cmd.preferencesUnix.accesskey        "N">
 
+
+
+
+
+
+
+
+
 <!ENTITY cmd.enableAddon.label                "Zmóžnić">
 <!ENTITY cmd.enableAddon.accesskey            "Z">
 <!ENTITY cmd.disableAddon.label               "Znjemóžnić">
@@ -95,6 +103,10 @@
 <!ENTITY cmd.enableTheme.accesskey            "D">
 <!ENTITY cmd.disableTheme.label               "Drastu wjace njewužiwać">
 <!ENTITY cmd.disableTheme.accesskey           "w">
+
+
+
+
 <!ENTITY cmd.askToActivate.label              "Za aktiwizowanje so prašeć">
 <!ENTITY cmd.askToActivate.tooltip            "Prašeć so, hač ma so tutón přidatk kóždy čas wužiwać">
 <!ENTITY cmd.alwaysActivate.label             "Přeco aktiwizować">
@@ -104,6 +116,8 @@
 <!ENTITY cmd.stateMenu.tooltip                "Změnić, hdyž tutón přidatk běži">
 <!ENTITY cmd.installAddon.label               "Instalować">
 <!ENTITY cmd.installAddon.accesskey           "I">
+
+
 <!ENTITY cmd.uninstallAddon.label             "Wotstronić">
 <!ENTITY cmd.uninstallAddon.accesskey         "s">
 <!ENTITY cmd.showPreferencesWin.label         "Nastajenja">
@@ -113,6 +127,9 @@
 <!ENTITY cmd.contribute.label                 "Přinošować">
 <!ENTITY cmd.contribute.accesskey             "P">
 <!ENTITY cmd.contribute.tooltip               "K wuwiću tutoho přidatka přinošować">
+
+
+
 
 <!ENTITY cmd.showReleaseNotes.label           "Wersijowe informacije pokazać">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Wersijowe informacije za tutu aktualizaciju pokazać">
@@ -160,11 +177,15 @@
 <!-- ratings -->
 <!ENTITY rating2.label                        "Pohódnoćenje">
 
+
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Zastajić">
+
 <!ENTITY progress.cancel.tooltip              "Přetorhnyć">
 
 <!ENTITY addon.homepage                       "Startowa strona">
+
+
 <!ENTITY addon.details.label                  "Wjace">
 <!ENTITY addon.details.tooltip                "Dalše podrobnosće wo tutym přidatku pokazać">
 <!ENTITY addon.unknownDate                    "Njeznaty">
@@ -186,6 +207,7 @@
 <!ENTITY addon.undoRemove.label               "Cofnyć">
 <!ENTITY addon.undoRemove.tooltip             "Tutón přidatk instalowany wostajić">
 <!ENTITY addon.restartNow.label               "Nětko znowa startować">
+
 <!ENTITY addon.install.label                  "Instalować">
 <!ENTITY addon.install.tooltip                "Tutón přidatk instalować">
 <!ENTITY addon.updateNow.label                "Nětko aktualizować">
