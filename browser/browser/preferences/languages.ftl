@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = ಭಾಷೆಗಳು
-    .style = width: 30em
 languages-close-key =
     .key = w
 languages-description = ಜಾಲ ಪುಟಗಳು ಕೆಲವೊಮ್ಮೆ ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಭಾಷೆಯಲ್ಲಿ ನೀಡಲ್ಪಡುತ್ತದೆ. ಈ ಜಾಲ ಪುಟಗಳನ್ನು ತೋರಿಸಲು ಭಾಷೆಯನ್ನು ಆದ್ಯತೆಯ ಕ್ರಮದಲ್ಲಿ ಆರಿಸಿ
@@ -36,3 +33,7 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-downloading =
+    .label = ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ...
+browser-languages-installed-label = ಅನುಸ್ಥಾಪಿತ ಭಾಷೆಗಳು
+browser-languages-available-label = ಲಭ್ಯವಿರುವ ಭಾಷೆಗಳು
