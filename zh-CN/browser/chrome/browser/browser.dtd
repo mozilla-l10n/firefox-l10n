@@ -847,7 +847,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified2 "您已安全连接至此网站。网站所有者：">
 <!ENTITY identity.connectionInternal "这是安全的 &brandShortName; 页面。">
 <!ENTITY identity.extensionPage "此页面加载自一个扩展。">
-<!ENTITY identity.insecureLoginForms2 "在此网页上输入的登录信息可能会泄漏。">
+<!ENTITY identity.insecureLoginForms2 "在此网页上输入的登录信息可能会泄露。">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; 已拦截此页面上不安全的内容。">
@@ -857,7 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "您至此网站的连接非私密。您提交的信息可能被其他人看到（例如密码、邮件、信用卡等）。">
-<!ENTITY identity.description.insecureLoginForms "在此页面输入您的登录信息并不安全，可能会泄漏。">
+<!ENTITY identity.description.insecureLoginForms "在此页面输入您的登录信息并不安全，可能会泄露。">
 <!ENTITY identity.description.weakCipher "您与此网站的连接使用了较弱的加密，并不私密。">
 <!ENTITY identity.description.weakCipher2 "其他人可能查看您的信息或修改该网站的行为。">
 <!ENTITY identity.description.activeBlocked "&brandShortName; 已拦截此页面上不安全的内容。">
