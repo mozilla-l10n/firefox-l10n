@@ -34,3 +34,6 @@ policy-DisableMasterPasswordCreation = So wonii goonga, finnde rowrowre waawaa s
 policy-DisablePocket = Ñif gollirde kisnugol kelle geese nder Pocket.
 policy-DisablePrivateBrowsing = Ñif banngagol keeringol
 policy-DisableProfileImport = Ñif yamirirde cuɓirgol faggorde keɓe ummoraade e wanngorde woɗnde.
+policy-DisableProfileRefresh = Ñif butoŋ Hesɗitin { -brand-short-name } nder hello about:support.
+policy-DisableSafeMode = Ñif gollirde ndee ngam huɓɓitirde e mbaadi ndi gallataa. Tesko : dobirde Maj ngam naatde e mbaadi ndi gallataa waawi ñifeede tan ko e Windows e ballal feere dental.
+policy-DisableSecurityBypass = Haɗ kuutoro oo wappaade huunde e jeertinooje kisal.
