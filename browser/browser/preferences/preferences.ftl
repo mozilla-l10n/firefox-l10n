@@ -327,6 +327,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Caută textul când încep să tastez
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Recomandă extensii pe măsură ce navighezi
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = Află mai multe
 
 ## General Section - Proxy
