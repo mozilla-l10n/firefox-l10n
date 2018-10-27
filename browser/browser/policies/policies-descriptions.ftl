@@ -53,3 +53,11 @@ policy-EnableTrackingProtection = Hurmin walla ñif paddagol loowdi, so ina moti
 # https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Aaf, aafto, walla sok jokke. Cuɓal Aaf jaggirta URL walla boli ko no ñaawirɗe nii. Cuɓe Aafto e Sok ina njaɓa ID-iiji jokke.
 policy-FlashPlugin = Yamir walla haɗ kuutoragol jokkel Flash.
+policy-HardwareAcceleration = So tawii wonaa goonga, ñif hartaango kaɓirgal.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = So ina hatojini, toɗɗo cokaa hello jaɓɓorgo ngoo.
+policy-InstallAddonsPermission = Yamir won ɗeen lowe aafde gulɗe timmitooje.
+policy-NoDefaultBookmarks = Ñif cosgol maantore garduɗe e { -brand-short-name }, kam e maatore peeleeje (jele ɓurɗe yilleede, ɗe ɓooyaani). Tesko : ndee feere yuumtata tan ko nde huutoraa ko adii ciynugol gadanol sifoode ndee.
+policy-OfferToSaveLogins = Teeŋtin ñaawirgel gaddanoowel{ -brand-short-name } yamirde huutorɓe siftorde baccooje e pinle kisnaaɗe. Njaruuji goonga walla fenaande ina njaɓee.
+policy-OverrideFirstRunPage = Faalkiso hello ciynugol adanngo ngoo. Toɗɗo feere ndee e mehum so aɗa yiɗi ñifde hello adanngo ciynugol ngol.
+policy-OverridePostUpdatePage = Faalkiso hello "Hol ko hesɗi" hesɗitinaango ngoo. Toɗɗo feere ndee e mehum so aɗa yiɗi ñifde hello caggal kesɗitingol ngoo.
