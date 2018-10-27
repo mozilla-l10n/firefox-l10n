@@ -43,3 +43,13 @@ policy-DisableSystemAddonUpdate = Haɗ wanngorde ndee aafde e hesɗitinde gulɗe
 policy-DisableTelemetry = Ñif Telemetiri.
 policy-DisplayBookmarksToolbar = Ɗis palal kuutorɗe Maantore gardaaɗe.
 policy-DisplayMenuBar = Ɗis palal cuɓirɗe gardangal.
+policy-DNSOverHTTPS = Teelto DNS to HTTPS.
+policy-DontCheckDefaultBrowser = Ñif ƴeewndagol wanngorde gardangol e fokkito.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Hurmin walla ñif paddagol loowdi, so ina moti cokaa ɗum.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Aaf, aafto, walla sok jokke. Cuɓal Aaf jaggirta URL walla boli ko no ñaawirɗe nii. Cuɓe Aafto e Sok ina njaɓa ID-iiji jokke.
+policy-FlashPlugin = Yamir walla haɗ kuutoragol jokkel Flash.
