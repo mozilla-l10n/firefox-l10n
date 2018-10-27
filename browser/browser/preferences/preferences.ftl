@@ -53,6 +53,7 @@ pane-sync-title = Conto da Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Agid da { -brand-short-name }
+addons-button-label = Extensiuns & designs
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,9 @@ extension-controlled-homepage-override = Ina extensiun, <img data-l10n-name="ico
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Ina extensiun, <img data-l10n-name="icon"/> { $name }, administrescha la pagina da partenza da novs tabs.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Ina extensiun, <img data-l10n-name="icon"/> { $name } administrescha quest parameter.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = In supplement, <img data-l10n-name="icon"/> { $name }, ha definì tia maschina da tschertgar da standard.
@@ -323,6 +327,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Retschertgar il text cura che ti cumenzas a tippar
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Recumandar extensiuns durant la navigaziun
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = Ulteriuras infurmaziuns
 
 ## General Section - Proxy
 

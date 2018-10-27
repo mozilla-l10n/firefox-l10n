@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Administraziun dals supplements">
 
-<!ENTITY search.placeholder                   "Tschertgar en ils supplements">
-
 <!ENTITY search.placeholder2                  "Tschertgar sin addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Tschertgar sin addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Tschertgar">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +16,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Chattà naginas actualisaziuns">
 <!ENTITY listEmpty.recentUpdates.label        "Ti n'has actualisà nagins supplements l'ultim temp">
 <!ENTITY listEmpty.findUpdates.label          "Tschertgar actualisaziuns">
-<!ENTITY listEmpty.search.label               "Betg chattà supplements correspundents">
 <!ENTITY listEmpty.button.label               "Emprenda dapli davart supplements">
 <!ENTITY installAddonFromFile.label           "Installar in supplement a basa dad ina datoteca…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -24,9 +23,6 @@
 
 <!ENTITY getThemes.description                "Vuls ti persunalisar tes navigatur?">
 <!ENTITY getThemes.learnMore                  "Tscherna da millis designs.">
-
-<!ENTITY cmd.back.tooltip                     "Ir enavos ina pagina">
-<!ENTITY cmd.forward.tooltip                  "Ir anavant ina pagina">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Impussibel da verifitgar tschertas extensiuns">
@@ -44,10 +40,13 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activar il test da segirezza per l'actualisaziun da supplements">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Tschertgar">
 <!ENTITY view.discover.label                  "Catalog">
 <!ENTITY view.recentUpdates.label             "Ultimas actualisaziuns">
 <!ENTITY view.availableUpdates.label          "Actualisaziuns disponiblas">
+
+<!ENTITY helpButton.label                      "Agid cun supplements">
+<!ENTITY preferencesWin.label                  "Preferenzas da &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Preferenzas da &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Tschertgar actualisaziuns">
@@ -87,8 +86,14 @@
 <!ENTITY cmd.preferencesWin.accesskey         "P">
 <!ENTITY cmd.preferencesUnix.label            "Preferenzas">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "Davart">
-<!ENTITY cmd.about.accesskey                  "A">
+
+
+
+
+
+
+
+
 
 <!ENTITY cmd.enableAddon.label                "Activar">
 <!ENTITY cmd.enableAddon.accesskey            "A">
@@ -98,6 +103,10 @@
 <!ENTITY cmd.enableTheme.accesskey            "M">
 <!ENTITY cmd.disableTheme.label               "Demontar il design">
 <!ENTITY cmd.disableTheme.accesskey           "D">
+
+
+
+
 <!ENTITY cmd.askToActivate.label              "Dumandar per activar">
 <!ENTITY cmd.askToActivate.tooltip            "Dumandar tar mintga utilisaziun da quest supplement">
 <!ENTITY cmd.alwaysActivate.label             "Adina activar">
@@ -107,6 +116,8 @@
 <!ENTITY cmd.stateMenu.tooltip                "Midar cura che quest supplement vegn exequì">
 <!ENTITY cmd.installAddon.label               "Installar">
 <!ENTITY cmd.installAddon.accesskey           "I">
+
+
 <!ENTITY cmd.uninstallAddon.label             "Allontanar">
 <!ENTITY cmd.uninstallAddon.accesskey         "A">
 <!ENTITY cmd.showPreferencesWin.label         "Preferenzas">
@@ -116,6 +127,9 @@
 <!ENTITY cmd.contribute.label                 "Contribuir">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuir al svilup da quest supplement">
+
+
+
 
 <!ENTITY cmd.showReleaseNotes.label           "Mussar las notizias da publicaziun">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mussar las notizias da publicaziun per questa actualisaziun">
@@ -138,7 +152,6 @@
 <!ENTITY detail.lastupdated.label             "Ultima actualisaziun">
 <!ENTITY detail.creator.label                 "Sviluppader">
 <!ENTITY detail.homepage.label                "Website">
-<!ENTITY detail.numberOfDownloads.label       "Telechargiadas">
 
 <!ENTITY detail.contributions.description     "Il sviluppader da quest supplement ta dumonda da sustegnair il svilup dal supplement cun ina pitschna contribuziun finanziala.">
 
@@ -167,28 +180,15 @@
 <!-- ratings -->
 <!ENTITY rating2.label                        "Valitaziun">
 
+
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
+
 <!ENTITY progress.cancel.tooltip              "Interrumper">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Num">
-<!ENTITY sort.name.tooltip                    "Zavrar tenor num">
-<!ENTITY sort.dateUpdated.label               "Ultima actualisaziun">
-<!ENTITY sort.dateUpdated.tooltip             "Zavrar tenor l'ultima actualisaziun">
-<!ENTITY sort.relevance.label                 "Relevanza">
-<!ENTITY sort.relevance.tooltip               "Zavrar tenor la pli auta relevanza">
-<!ENTITY sort.price.label                     "Pretsch">
-<!ENTITY sort.price.tooltip                   "Zavrar tenor il pretsch">
-
-<!ENTITY search.filter2.label                 "Tschertgar:">
-<!ENTITY search.filter2.installed.label       "Supplements installads">
-<!ENTITY search.filter2.installed.tooltip     "Mussar ils supplements installads">
-<!ENTITY search.filter2.available.label       "Supplements disponibels">
-<!ENTITY search.filter2.available.tooltip     "Mussar ils supplements disponibels per installar">
-
 <!ENTITY addon.homepage                       "Website">
+
+
 <!ENTITY addon.details.label                  "Dapli">
 <!ENTITY addon.details.tooltip                "Mussar dapli detagls davart quest supplement">
 <!ENTITY addon.unknownDate                    "Nunenconuschent">
@@ -210,6 +210,7 @@
 <!ENTITY addon.undoRemove.label               "Revocar">
 <!ENTITY addon.undoRemove.tooltip             "Laschar installà quest supplement">
 <!ENTITY addon.restartNow.label               "Reaviar ussa">
+
 <!ENTITY addon.install.label                  "Installar">
 <!ENTITY addon.install.tooltip                "Installar quest supplement">
 <!ENTITY addon.updateNow.label                "Actualisar ussa">
@@ -229,17 +230,6 @@
 <!ENTITY eula.accept                          "Acceptar ed installar…">
 
 <!ENTITY settings.path.button.label           "Tschertgar en…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Tge è quai? La funcziun da telemetria po installar ed exequir experiments da temp en temp.">
-<!ENTITY experiment.info.learnmore "Ulteriuras infurmaziuns">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Parameters da la funcziun da telemetria">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Ulteriuras infurmaziuns…">
 

@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Turnar">
 <!ENTITY returnToPreviousPage1.label "Turnar (recumandà)">
 <!ENTITY advanced.label "Extendì">
-
 <!ENTITY continue2.label "Dapli…">
 <!ENTITY moreInformation.label "Ulteriuras infurmaziuns">
+
+<!ENTITY viewCertificate.label "Mussar il certificat">
 
 <!-- Specific error messages -->
 
@@ -130,14 +131,20 @@
 
 <!ENTITY certerror.longpagetitle1 "Tia connexiun n'è betg segira">
 <!ENTITY certerror.longpagetitle2 "Attenziun: Eventual ristg per la segirezza en vista">
+<!ENTITY certerror.sts.longpagetitle  "Bloccà la connexiun: Eventual problem da segirezza">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Il possessur da <span class='hostname'/> ha configurà malamain sia website.  Per proteger tias infurmaziuns dad enguladitschs n'ha &brandShortName; betg stabilì ina connexiun cun questa website.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; ha chattà in eventual ristg per la segirezza ed ha perquai interrut la connexiun cun <span class='hostname'/>. Sche ti visitas la pagina, pudessan attatgaders empruvar dad engular infurmaziuns sco tes pleds-clav, e-mails u datas da la carta da credit.">
 
 <!ENTITY certerror.expiredCert.secondPara "Il problem è probablamain che l'ura da tes computer n'è betg drizzada endretg. Quai po impedir che &brandShortName; connecteschia a moda segirada.">
+
+<!ENTITY certerror.sts.introPara "&brandShortName; ha chattà in eventual ristg per la segirezza ed ha bloccà la connexiun cun <span class='hostname'/> perquai che questa website pretenda ina connexiun segira.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; ha chattà in problem ed ha bloccà la connexiun cun <span class='hostname'/>. U che la website è configurada a moda nuncorrecta u che l'ura da tes computer na va betg endretg.">
+<!ENTITY certerror.expiredCert.secondPara2 "Il certificat da la website è probablamain scrudà. Quai impedescha che &brandShortName; connecteschia a moda segira. Sche ti visitas la pagina, pudessan attatgaders empruvar dad engular infurmaziuns sco tes pleds-clav, e-mails u datas da la carta da credit.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Il certificat da la website è probablamain scrudà. Quai impedescha che &brandShortName; connecteschia a moda segira.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Tge pos ti far en vista al problem?">
 
@@ -169,7 +176,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Agiuntar in'excepziun…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Acceptar la ristga e cuntinuar">
 
 <!ENTITY errorReporting.automatic2 "Rapportar talas errurs per gidar a Mozilla dad identifitgar e bloccar paginas che pon donnegiar tes computer">
@@ -191,6 +197,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Connexiun betg segirada">
 <!ENTITY certerror.pagetitle2  "Attenziun: Eventual ristg per la segirezza en vista">
+<!ENTITY certerror.sts.pagetitle  "Bloccà la connexiun: Eventual problem da segirezza">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Questa website utilisescha HTTP
 Strict Transport Security (HSTS) per inditgar che &brandShortName; dastgia mo connectar a moda segirada. Damain èsi impussibel dad agiuntar ina excepziun per quest certificat.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ha ina directiva da segirezza che sa numna HTTP Strict Transport Security (HSTS). Quai munta che &brandShortName; po mo connectar a moda segirada. Igl è impussibel dad agiuntar ina excepziun per visitar questa website.">
