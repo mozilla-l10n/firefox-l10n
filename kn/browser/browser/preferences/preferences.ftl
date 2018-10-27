@@ -92,6 +92,9 @@ is-not-default = { -brand-short-name } ಪ್ರಸ್ತುತ ನಿಮ್ಮ 
 set-as-my-default-browser =
     .label = ಪೂರ್ವನಿಯೋಜಿತವನ್ನಾಗಿ ಮಾಡು…
     .accesskey = D
+startup-restore-previous-session =
+    .label = ಹಿಂದಿನ ಅಧಿವೇಶನವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು
+    .accesskey = s
 disable-extension =
     .label = ಎಕ್ಸ್‌ಟೆನ್ಶನ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು
 tabs-group-header = ಟ್ಯಾಬ್‌ಗಳು
@@ -227,10 +230,11 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = ಪುಟದಲ್ಲಿ ಸಂಚರಿಸಲು ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ತೆರೆಸೂಚಕ ಕೀಲಿಗಳನ್ನು ಬಳಸು
     .accesskey = c
+browsing-cfr-recommendations-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 
 ## General Section - Proxy
 
-network-proxy-title = ಜಾಲಬಂಧ ಪ್ರಾಕ್ಸಿ
+network-settings-title = ನೆಟ್ವರ್ಕ್ ಸಿದ್ಧತೆಗಳು
 network-proxy-connection-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 network-proxy-connection-settings =
     .label = ಸಿದ್ಧತೆಗಳು...
@@ -426,12 +430,6 @@ sitedata-header = ಕುಕ್ಕಿಗಳು ಮತ್ತು ತಾಣ ದತ�
 sitedata-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 sitedata-keep-until = ಈವರೆಗೆ ಇರಿಸಿಕೋ
     .accesskey = u
-sitedata-accept-third-party-always-option =
-    .label = ಯಾವಾಗಲೂ
-sitedata-accept-third-party-visited-option =
-    .label = ಭೇಟಿ ಮಾಡಿದವುಗಳಿಂದ
-sitedata-accept-third-party-never-option =
-    .label = ಎಂದಿಗೂ ಬೇಡ
 sitedata-clear =
     .label = ದತ್ತಾಂಶ ಬರಿದುಮಾಡು…
     .accesskey = l
@@ -459,6 +457,13 @@ addressbar-suggestions-settings = ಹುಡುಕು ಯಂತ್ರಗಳ ಸ�
 
 ## Privacy Section - Content Blocking
 
+content-blocking-toggle-label-on = ಆನ್‌
+    .accesskey = O
+content-blocking-toggle-label-off = ಆಫ್‌
+    .accesskey = O
+content-blocking-tracking-protection-option-always =
+    .label = ಯಾವಾಗಲೂ
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
