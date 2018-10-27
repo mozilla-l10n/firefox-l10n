@@ -624,6 +624,10 @@ sitedata-block-trackers-option =
     .label = Pratitelji treće strane
 sitedata-block-unvisited-option =
     .label = Kolačići s neposječenih stranica
+sitedata-block-all-third-party-option =
+    .label = Svi kolačići treće strane (može dovesti do sloma stranice)
+sitedata-block-all-option =
+    .label = Svi kolačići (može dovesti do sloma stranice)
 sitedata-clear =
     .label = Obriši podatke…
     .accesskey = O
@@ -633,6 +637,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Iznimke...
     .accesskey = m
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Vaše postavke u blokiranju sadržaja sprječavaju promjene postavki kolačića i podataka web stranica.
 
 ## Privacy Section - Address Bar
 
@@ -665,6 +673,28 @@ content-blocking-toggle-label-on = UKLJUČENO
 content-blocking-toggle-label-off = ISKLJUČENO
     .accesskey = O
 content-blocking-category-label = Odaberite što ćete blokirati
+content-blocking-tracking-protection-trackers-label =
+    .label = Pratitelji
+    .accesskey = t
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Svi otkriveni pratitelji
+    .accesskey = t
+content-blocking-tracking-protection-option-always =
+    .label = Uvijek
+    .accesskey = U
+content-blocking-tracking-protection-option-private =
+    .label = Samo u privatnim prozorima
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Promijenite popis blokiranih
+content-blocking-third-party-cookies-label =
+    .label = Kolačići treće strane
+    .accesskey = K
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Pratitelji (preporučeno)
+    .accesskey = P
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Pratitelji
+    .accesskey = P
 
 ## Privacy Section - Tracking
 
