@@ -14,5 +14,6 @@
 <!ENTITY restoreDefaultSet.label  "Restaurar il standard">
 <!ENTITY addNewToolbar.label      "Nova trav d'utensils">
 <!ENTITY showTitlebar.label       "Mussar la trav dal titel">
+<!ENTITY extraDragSpace.label     "Agiuntar spazi per trair">
 <!ENTITY saveChanges.label        "Finì">
 <!ENTITY undoChanges.label        "Annullar las midadas">
