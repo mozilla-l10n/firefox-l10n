@@ -17,7 +17,7 @@
 <!ENTITY availableTabs "File la distanță disponibile:">
 <!ENTITY availableProcesses "Procese la distanță disponibile:">
 <!ENTITY connectionError "Eroare:">
-<!ENTITY errorTimeout "Eroare: conexiunea a expirat.">
+<!ENTITY errorTimeout "Eroare: timpul de conectare a expirat.">
 <!ENTITY errorRefused "Eroare: conexiune refuzată.">
 <!ENTITY errorUnexpected "Eroare neașteptată.">
 
