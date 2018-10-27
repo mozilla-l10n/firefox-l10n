@@ -20,5 +20,6 @@ onboarding-private-browsing-title = Privatno pretraživanje
 onboarding-screenshots-title = Snimke ekrana
 onboarding-screenshots-text = Snimite, spremite i dijelite snimke ekrana - bez napuštanja { -brand-short-name }a. Snimite dio ili cijelu stranicu dok pretražujete. Onda spremite na internet za brzi pristup i dijeljenje.
 onboarding-addons-title = Dodaci
+onboarding-addons-text = Dodajte još više značajki tako da { -brand-short-name } radi bolje za vas. Usporedite cijene, provjerite vremensku prognozu ili se izrazite kroz poseban izgled pretraživača.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Pretražujte brže, pametnije i sigurnije s dodacima kao Ghostery, što vam omogućuje blokiranje dosadnih oglasa.
