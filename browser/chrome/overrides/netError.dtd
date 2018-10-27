@@ -159,9 +159,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "De eigenaar van <span class='hostname'/> heeft zijn of haar website niet juist geconfigureerd. Om uw gegevens tegen diefstal te beschermen, heeft &brandShortName; geen verbinding met deze website gemaakt.">
 <!ENTITY certerror.introPara2 "&brandShortName; heeft een mogelijk beveiligingsrisico gedetecteerd en is niet doorgegaan naar <span class='hostname'/>. Als u deze website bezoekt, zouden aanvallers gegevens kunnen proberen te stelen, zoals uw wachtwoorden, e-mailadressen of creditcardgegevens.">
 
-<!ENTITY certerror.sts.introPara "&brandShortName; heeft een mogelijk beveiligingsrisico gedetecteerd en is niet doorgegaan naar <span class='hostname'/>, omdat deze website een beveiligde verbinding vereist.">
-
 <!ENTITY certerror.expiredCert.secondPara "Dit probleem komt zeer waarschijnlijk doordat uw computerklok op de verkeerde tijd is ingesteld, waardoor &brandShortName; geen beveiligde verbinding kan maken.">
+
+<!ENTITY certerror.sts.introPara "&brandShortName; heeft een mogelijk beveiligingsrisico gedetecteerd en is niet doorgegaan naar <span class='hostname'/>, omdat deze website een beveiligde verbinding vereist.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; heeft een probleem gedetecteerd en is niet doorgegaan naar <span class='hostname'/>. Of de website is onjuist geconfigureerd, of uw computerklok is op de verkeerde tijd ingesteld.">
 <!ENTITY certerror.expiredCert.secondPara2 "Waarschijnlijk is het certificaat van de website verlopen, waardoor &brandShortName; geen beveiligde verbinding kan maken. Als u deze website bezoekt, zouden aanvallers gegevens kunnen proberen te stelen, zoals uw wachtwoorden, e-mailadressen of creditcardgegevens.">
@@ -243,3 +243,6 @@ uitzondering voor dit certificaat toe te voegen.">
 
 <!ENTITY prefReset.longDesc "Het lijkt erop dat dit door uw netwerkbeveiligingsinstellingen wordt veroorzaakt. Wilt u de standaardinstellingen herstellen?">
 <!ENTITY prefReset.label "Standaardinstellingen herstellen">
+
+<!ENTITY networkProtocolError.title "Netwerkprotocolfout">
+<!ENTITY networkProtocolError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat een fout in het netwerkprotocol is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul>">
