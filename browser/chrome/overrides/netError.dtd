@@ -142,6 +142,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle2  "Jeertino: Ina soomi tanaa yeeso">
 <!ENTITY certerror.sts.pagetitle  "Hoto seŋo: soomi saɗeende kisal">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ndee lowre huutortoo ko HTTP Strict Transport Security (HSTS) ngam joopaade &brandShortName; seŋotoo e mayre tan ko e mbaydi kisndi. Ɗuum jibinta ko horaade ɓeydude heen paltol nguu seedamfaagu.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ina jogii politik kisal biyeteengal HSTS (HTTP Strict Transport Security), ɗum firti ko &brandShortName; seŋortoo tan ko e kisal. A waawaa ɓeydude luulndal ngam yillaade ndee lowre.">
 <!ENTITY certerror.copyToClipboard.label "Natto binndol to ɗakkitorde">
 
 <!ENTITY inadequateSecurityError.title "Ceŋagol maa hisaani">
@@ -152,6 +153,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Hello Daaƴaango">
 
 <!ENTITY clockSkewError.title "Montoor ordinateer maa goongɗaani">
+<!ENTITY clockSkewError.longDesc "Ordinateer maa ina sikki ko <span id='wrongSystemTime_systemDate1'/> haɗata &brandShortName; seŋoraade e kisal. Ngam yillaade <span class='hostname'></span>, waɗ montoor ordinateer maa e waktu to teelte yuɓɓo haa yahda e ñalngu e waktu jurol waktu gonangol ngol, caggal ɗuum kesɗitinaa <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Ena wayi hono teelte kisal laylaytol maa gaddata ɗee caɗe. Aɗa yiɗi artirde teelte goowaaɗe ɗee?">
 <!ENTITY prefReset.label "Artir teelte goowaaɗe">
