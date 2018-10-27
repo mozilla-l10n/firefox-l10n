@@ -108,15 +108,27 @@ permissions-site-notification-disable-label =
 permissions-site-location-window =
     .title = Postavke - lokacijske dozvole
     .style = { permissions-window.style }
+permissions-site-location-desc = Sljedeće stranice su zatražile pristup vašoj lokaciji. Možete navesti koje web stranice imaju pristup vašoj lokaciji. Također možete blokirati nove zahtjeve koji traže pristup vašoj lokaciji.
+permissions-site-location-disable-label =
+    .label = Blokiraj nove zahtjeve za pristup vašoj lokaciji
+permissions-site-location-disable-desc = Ovo će spriječiti traženje pristupa vašoj lokaciji za svaku stranicu koja nije navedena. Blokiranje pristupa vašoj lokaciji može slomiti neke značajke web stranica.
 
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
     .title = Postavke - dozvole pristupa kameri
     .style = { permissions-window.style }
+permissions-site-camera-desc = Sljedeće stranice su zatražile pristup vašoj kameri. Možete navesti koje web stranice imaju pristup vašoj kameri. Također možete blokirati nove zahtjeve koji traže pristup vašoj kameri.
+permissions-site-camera-disable-label =
+    .label = Blokiraj nove zahtjeve za pristup vašoj kameri
+permissions-site-camera-disable-desc = Ovo će spriječiti traženje pristupa vašoj kameri za svaku stranicu koja nije navedena. Blokiranje pristupa vašoj kameri može slomiti neke značajke web stranica.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Postavke - dozvole pristupa mikrofonu
     .style = { permissions-window.style }
+permissions-site-microphone-desc = Sljedeće stranice su zatražile pristup vašem mikrofonu. Možete navesti koje web stranice imaju pristup vašem mikrofonu. Također možete blokirati nove zahtjeve koji traže pristup vašem mikrofonu.
+permissions-site-microphone-disable-label =
+    .label = Blokiraj nove zahtjeve za pristup vašem mikrofonu
+permissions-site-microphone-disable-desc = Ovo će spriječiti traženje pristupa vašem mikrofonu za svaku stranicu koja nije navedena. Blokiranje pristupa vašem mikrofonu može slomiti neke značajke web stranica.
