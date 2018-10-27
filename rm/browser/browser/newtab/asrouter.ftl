@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Betg ussa
     .accesskey = B
 cfr-doorhanger-extension-ok-button = Agiuntar ussa
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Administrar ils parameters da recumandaziun
+    .accesskey = A
+cfr-doorhanger-extension-never-show-recommendation = Betg ma mussar questa recumandaziun
+    .accesskey = B
 cfr-doorhanger-extension-learn-more-link = Ulteriuras infurmaziuns
 # This string is used on a new line below the add-on name
 # Variables:

@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Excepziuns - Protecziun cunter il fastizar
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Ti has deactivà la protecziun cunter il fastizar sin questas websites.
+permissions-exceptions-content-blocking-window =
+    .title = Excepziuns - Bloccada da cuntegn
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Ti has deactivà la bloccada da cuntegn sin questas websites.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Ti pos definir a tge websites che ti permet
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Websites autorisadas - Reproducziun automatica
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Ti pos definir per mintga website schebain ella dastga far ir automaticamain elements da multimedia. Tippa l'adressa exacta da la website e clicca lura sin «Permetter».
 permissions-exceptions-autoplay-media-window2 =
     .title = Excepziuns - Reproducziun automatica
     .style = { permissions-window.style }

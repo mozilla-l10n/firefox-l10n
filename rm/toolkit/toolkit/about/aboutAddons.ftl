@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Administraziun dals supplements
+search-header =
+    .placeholder = Tschertgar sin addons.mozilla.org
+    .searchbuttonlabel = Tschertgar
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Installar in supplement a basa dad ina datoteca…
     .accesskey = I
+help-button = Agid cun supplements
+preferences =
+    { PLATFORM() ->
+        [windows] Preferenzas da { -brand-short-name }
+       *[other] Preferenzas da { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Utensils per tut ils supplements
 show-unsigned-extensions-button =

@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Bloccar l'access a la pagina about:profiles.
 policy-BlockAboutSupport = Bloccar l'access a la pagina about:support.
 policy-Bookmarks = Crear segnapaginas en la trav da segnapaginas, en il menu da segnapaginas u en in da lur sutordinaturs.
 policy-Certificates = Utilisar u betg utilisar certificats integrads. Questa directiva è per il mument mo disponibla per Windows.
+policy-CertificatesDescription = Agiuntar certificats u utilisar certificats predefinids.
 policy-Cookies = Permetter u scumandar a websites da definir cookies.
 policy-DisableAppUpdate = Impedir l'actualisaziun dal navigatur.
 policy-DisableBuiltinPDFViewer = Deactivar PDF.js, il lectur per PDFs integrà en { -brand-short-name }.
