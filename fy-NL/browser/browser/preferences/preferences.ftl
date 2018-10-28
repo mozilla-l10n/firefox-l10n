@@ -53,6 +53,7 @@ pane-sync-title = Firefox-account
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name }-stipe
+addons-button-label = Utwreidingen & Tema’s
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,9 @@ extension-controlled-homepage-override = In útwreiding, <img data-l10n-name="ic
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = In útwreiding, <img data-l10n-name="icon"/> { $name }, beheart jo Nij-ljepblêd-side.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = In útwreiding, <img data-l10n-name="icon"/> { $name }, hat behear oer dizze ynstelling.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = In útwreiding, <img data-l10n-name="icon"/> { $name }, hat jo standertsykmasine ynsteld.
@@ -323,10 +327,13 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Nei tekst sykje as ik begjin mei typen
     .accesskey = N
+browsing-cfr-recommendations =
+    .label = Utwreidingen oanrekommandearje wylst jo sneupe
+    .accesskey = a
+browsing-cfr-recommendations-learn-more = Mear ynfo
 
 ## General Section - Proxy
 
-network-proxy-title = Netwurkproxy
 network-settings-title = Netwurkynstellingen
 network-proxy-connection-description = Konfigurearje hoe { -brand-short-name } ferbining makket mei it ynternet.
 network-proxy-connection-learn-more = Mear ynfo
@@ -525,6 +532,7 @@ privacy-header = Browserprivacy
 ## Privacy Section - Forms
 
 forms-header = Formulieren en wachtwurden
+logins-header = Oanmeldingen & Wachtwurden
 forms-ask-to-save-logins =
     .label = Freegje om oanmeldingen en wachtwurden foar websites te ûnthâlden
     .accesskey = F
@@ -591,26 +599,12 @@ sitedata-total-size-calculating = Grutte fan websitegegevens en buffer berekkenj
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Jo bewarre cookies, websitegegevens en buffer brûke op dit stuit { $value } { $unit } oan skiifromte.
 sitedata-learn-more = Mear ynfo
-sitedata-accept-cookies-option =
-    .label = Cookies en websitegegevens fan websites akseptearje (oanrekommandearre)
-    .accesskey = C
-sitedata-block-cookies-option =
-    .label = Cookies en websitegegevens blokkearje (kin derfoar soargje dat websites net goed wurkje)
-    .accesskey = b
 sitedata-keep-until = Bewarje oant
     .accesskey = o
 sitedata-keep-until-expire =
     .label = Se ferrinne
 sitedata-keep-until-closed =
     .label = { -brand-short-name } sluten wurdt
-sitedata-accept-third-party-desc = Cookies fan tredden en websitegegevens akseptearje
-    .accesskey = d
-sitedata-accept-third-party-always-option =
-    .label = Altyd
-sitedata-accept-third-party-visited-option =
-    .label = Fan besochte
-sitedata-accept-third-party-never-option =
-    .label = Nea
 sitedata-allow-cookies-option =
     .label = Cookies en websitegegevens akseptearje
     .accesskey = a
@@ -627,10 +621,6 @@ sitedata-block-trackers-option =
     .label = Trackers fan tredden
 sitedata-block-unvisited-option =
     .label = Cookies fan net-besochte websites
-sitedata-block-all-third-parties-option =
-    .label = Alle cookies fan tredden
-sitedata-block-always-option =
-    .label = Alle cookies (kin derfoar soargje dat websites net goed wurkje)
 sitedata-block-all-third-party-option =
     .label = Alle cookies fan tredden (kin derfoar soargje dat websites net goed wurkje)
 sitedata-block-all-option =
@@ -684,30 +674,13 @@ content-blocking-category-label = Kieze wat der blokkearre wurdt
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Trage tracking-eleminten
-    .accesskey = T
-content-blocking-fastblock-description = Blokkearret ynhâld fan tredden dy't langer as 5 sekonden docht oer it laden.
-content-blocking-fastblock-option-enabled =
-    .label = Altyd blokkearje
-content-blocking-fastblock-option-disabled =
-    .label = Nea blokkearje
-content-blocking-tracking-protection-label = Trackers
-    .accesskey = T
-content-blocking-tracking-protection-description = Blokkearret alle bekende trackers (Let op: kin ek it laden fan bepaalde siden tsjingean).
-content-blocking-tracking-protection-option-enabled =
-    .label = Altyd blokkearje
-content-blocking-tracking-protection-option-pbm =
-    .label = Allinnich blokkearje yn priveefinsters
-content-blocking-tracking-protection-option-disabled =
-    .label = Nea blokkearje
-content-blocking-tracking-protection-change-blocklist = Blokkearlist wizigje…
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Stadich ladende trackers
     .accesskey = S
 content-blocking-fastblock-new-description = Allinnich de trackers blokkearje dy't fluch laden fan siden tsjingean.
+content-blocking-tracking-protection-trackers-label =
+    .label = Trackers
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Alle detektearre trackers
     .accesskey = t
@@ -755,10 +728,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nea
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Beskerming tsjin folgjen brûke yn Priveenavigaasje om bekende folgers te blokkearjen
-    .accesskey = f
 tracking-exceptions =
     .label = Utsûnderingen…
     .accesskey = i
