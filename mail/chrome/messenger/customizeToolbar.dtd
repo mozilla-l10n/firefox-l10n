@@ -14,5 +14,6 @@
 <!ENTITY restoreDefaultSet.label  "Standertynstellingen werstelle">
 <!ENTITY addNewToolbar.label      "Nije arkbalke tafoegje">
 <!ENTITY showTitlebar.label       "Titelbalke toane">
+<!ENTITY extraDragSpace.label     "Romte slepe tafoegje">
 <!ENTITY saveChanges.label        "Dien">
 <!ENTITY undoChanges.label        "Wizigingen ûngedien meitsje">
