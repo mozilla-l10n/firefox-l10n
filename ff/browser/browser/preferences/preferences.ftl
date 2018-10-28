@@ -605,6 +605,26 @@ sitedata-keep-until-expire =
     .label = Ɗe mbuntii
 sitedata-keep-until-closed =
     .label = { -brand-short-name } uddaama
+sitedata-allow-cookies-option =
+    .label = Jaɓ kuukiiji e loowdi lowre ndee
+    .accesskey = J
+sitedata-disallow-cookies-option =
+    .label = Faddo kuukiiji e loowdi lowre ndee
+    .accesskey = F
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Sifaa paddaaɗo
+    .accesskey = S
+sitedata-block-trackers-option-recommended =
+    .label = Dewindiiɗi goɗɗi (basiyaaɗi)
+sitedata-block-trackers-option =
+    .label = Dewindiiɗi goɗɗi
+sitedata-block-unvisited-option =
+    .label = Kuukiiji lowe geese ɗe njillaaka
+sitedata-block-all-third-party-option =
+    .label = Kuukiiji goɗɗi ɗii kala (ina mbaawi saabaade taƴondiral e lowe geese)
+sitedata-block-all-option =
+    .label = Kuukiiji ɗii kala (ina mbaawi saabaade taƴondiral e lowe geese)
 sitedata-clear =
     .label = Momtu Keɓe…
     .accesskey = l
@@ -614,6 +634,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Palooje…
     .accesskey = P
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Teelte maa to paddagol loowdi ina kaɗa kala waylo teelte kuukiiji e keɓe lowre ndee.
 
 ## Privacy Section - Address Bar
 
@@ -632,6 +656,45 @@ addressbar-suggestions-settings = Waylu cuɓe wonande cakkitte yiylorde
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Paddagol loowdi
+content-blocking-desc = Faddo loowɗeele goɗɗe, ko wayi no jeeyle walla kod baawɗe leeltinde banngagol maa walla rewindaade ma e nder geese. Neɗɗin teelte maa ngam jerondiral moƴƴal hakkunde ndeenka e yuumteende.
+content-blocking-learn-more = Ɓeydu humpito
+content-blocking-restore-defaults =
+    .label = Waɗtu no ardunoo
+    .accesskey = W
+content-blocking-toggle-on =
+    .tooltiptext = Ñif paddagol loowdi
+content-blocking-toggle-off =
+    .tooltiptext = Hurmin paddagol loowdi
+content-blocking-toggle-label-on = ON
+    .accesskey = O
+content-blocking-toggle-label-off = OFF
+    .accesskey = O
+content-blocking-category-label = Suɓo ko faddetee
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Dewindiiɗe loowngo-leelngo
+    .accesskey = D
+content-blocking-fastblock-new-description = Faddo tan dewinde kaɗooje loowgol jaawngol kelle.
+content-blocking-tracking-protection-trackers-label =
+    .label = Dewindiiɗe
+    .accesskey = D
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Dewindiiɗe jiytaaɗe ɗee fof
+    .accesskey = D
+content-blocking-tracking-protection-new-description = Faddo dewindiiɗe ganndaaɗe ɗee kala. (Ngam haɗde loowgol won ɗeen kelle.)
+content-blocking-tracking-protection-option-always =
+    .label = Sahaa kala
+    .accesskey = S
+content-blocking-tracking-protection-option-private =
+    .label = Nder kenorɗe keeriiɗe tan
+    .accesskey = N
+content-blocking-tracking-protection-change-block-list = Waylo doggol padde
+content-blocking-third-party-cookies-label =
+    .label = Kuukiiji goɗɗi
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
