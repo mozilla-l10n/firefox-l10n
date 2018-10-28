@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Қазір емес
     .accesskey = м
 cfr-doorhanger-extension-ok-button = Қазір қосу
     .accesskey = а
+cfr-doorhanger-extension-manage-settings-button = Ұсыныстар параметрлерін басқару
+    .accesskey = б
+cfr-doorhanger-extension-never-show-recommendation = Бұл ұсынысты маған көрсетпеу
+    .accesskey = к
 cfr-doorhanger-extension-learn-more-link = Көбірек білу
 # This string is used on a new line below the add-on name
 # Variables:
