@@ -291,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Сазнајте више о коришћењу &brandShortName;-а и других &vendorShortName; производа">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "Укључите">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Експерименталне могућности">
@@ -363,7 +368,6 @@
 <!ENTITY pref_use_system_font_size_summary "Прилагодите веб садржај према величини фонта система">
 
 <!ENTITY pref_media_autoplay_enabled "Аутоматска репродукција">
-<!ENTITY pref_media_autoplay_enabled_summary "Контролишите да ли веб сајтови могу да аутоматски репродукују видео или други медијски садржај">
 <!ENTITY pref_media_autoplay_allow "Аутоматска репродукција">
 <!ENTITY pref_media_autoplay_block "Блокирај аутоматску репродукцију">
 <!ENTITY pref_zoom_force_enabled "Увек увеличај">
@@ -831,9 +835,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Не могу да отворим &brandShortName;. Поново инсталирајте апликацију и пробајте онда.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; се више неће ажурирати">
-<!ENTITY eol_notification_summary "Сазнајте више">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; је актуелан">
@@ -907,3 +908,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; Push обавештења">
 <!ENTITY updater_notification_channel "Ажурирања апликација">
 <!ENTITY synced_tabs_notification_channel "Синхронизовани јежичци">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Обавештења сајта">
