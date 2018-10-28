@@ -116,9 +116,11 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> web sitesinin sahibi siteyi hatalı yapılandırmış.  Bilgilerinizin çalınmasını önlemek için &brandShortName; bu web sitesine bağlanmadı.">
 <!ENTITY certerror.introPara2 "&brandShortName; olası bir güvenlik tehdidiyle karşılaştığı için <span class='hostname'/> adresine girmedi. Bu siteyi ziyaret ederseniz saldırganlar parola, e-posta ve kredi kartı gibi bilgilerinizi çalmaya çalışabilir.">
 
-
 <!ENTITY certerror.expiredCert.secondPara "Bu sorun büyük olasılıkla bilgisayarınızın saatinin yanlış ayarlanmasından kaynaklanır. Saat veya tarih yanlışsa &brandShortName; güvenli bağlantı kuramayabilir.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; olası bir güvenlik tehdidi algıladı ve <span class='hostname'/> sitesi güvenli bir bağlantı gerektirdiği için bu siteye bağlanmadı.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; olası bir güvenlik tehdidi algıladı ve <span class='hostname'/> sitesine bağlanmadı. Site yanlış yapılandırılmış veya bilgisayarınızın saati yanlış ayarlanmış olabilir.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ne yapabilirsiniz?">
 
