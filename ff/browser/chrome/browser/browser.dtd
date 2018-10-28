@@ -1039,11 +1039,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Paddagol">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Ɓeydu paddagol…">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Tintin saɗre">
+<!ENTITY contentBlocking.breakageReportView.label "Tintin caɗe">
+<!ENTITY contentBlocking.breakageReportView2.description "Paddagol loowdi ina waawi addande won ɗeen lowe geese caɗeele. So a tintinii caɗeele, aɗa wallita cosgol &brandShortName; e nafoore yimɓe fof. (Ɗuum maa neldu ñiiɓirde URL kam e kabaruuji teelte wanngorde maa to Mozilla.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Jokku taro">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hol caɗeele maa? (waɗɗaaki)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Neldu ciimtol">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Haaytu">
 
 <!ENTITY trackingProtection.title "Ndeenka dewindol">
 <!ENTITY trackingProtection.tooltip "Uddit ɓurɗine ndeenka rewindo">
@@ -1051,9 +1061,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock4.label "Ñif paddagol wonande ndee lowre">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate4.label "Ñif paddagol e mudda">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Hurmin paddagol wonande ndee lowre">
+<!ENTITY trackingProtection.block5.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "Loowto hello">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
@@ -1134,12 +1150,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "Daaƴ Timmitol">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "Jokkel waylii hello maa jaɓɓorgo. Aɗa waawi artirde teelte maa so a yiɗaa waylo.">
 <!ENTITY homepageControlled.header.message "Jaɓɓorgo maa wayliima.">
 <!ENTITY homepageControlled.keepButton.label "Jaɓ bayle">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "Ñif jokkel">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "Yetto e tabbe maa cuuɗiiɗe">
+<!ENTITY tabHideControlled.keepButton.label "Woppu tabbe ɗee cuuɗoo">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "Ñif jokkel">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "Baɗe hello">
 <!ENTITY pageAction.addToUrlbar.label "Ɓeydu to Palal Ñiiɓirɗe">
@@ -1152,6 +1174,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.syncNotReady.label "Jahdingol masiŋon...">
 
+<!ENTITY pageAction.shareUrl.label "Lollin">
+<!ENTITY pageAction.shareMore.label "Goɗɗum…">
 
 <!ENTITY libraryButton.tooltip "Yiy aslol, maantore danndaaɗe, e goɗɗe">
 
