@@ -36,12 +36,13 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Runtime-ynfo">
 <!ENTITY runtimeMenu_showDetails_accesskey "e">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Apparaatfoarkarren">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "A">
 <!ENTITY runtimeMenu_showSettings_label "Apparaatynstellingen">
 <!ENTITY runtimeMenu_showSettings_accesskey "n">
+
+<!ENTITY runtimeMenu_showPerformancePanel_label "Prestaasjes">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "P">
 
 <!ENTITY viewMenu_label "Byld">
 <!ENTITY viewMenu_accesskey "l">
@@ -146,10 +147,6 @@
 <!ENTITY devicesetting_newname "Namme fan nije ynstelling">
 <!ENTITY devicesetting_newtext "Ynstellingwearde">
 <!ENTITY devicesetting_addnew "Nije ynstelling tafoegje">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Help">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
