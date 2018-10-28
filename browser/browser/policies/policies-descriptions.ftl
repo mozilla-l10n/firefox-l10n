@@ -64,6 +64,7 @@ policy-OverridePostUpdatePage = Åsidosätt sidan "Vad är nytt" efter uppdateri
 policy-Permissions = Ställ in behörigheter för kamera, mikrofon, plats och notifieringar.
 policy-PopupBlocking = Tillåt vissa webbplatser att visa popup-fönster som standard.
 policy-Proxy = Ange inställningar för proxy.
+policy-RequestedLocales = Ange listan över begärda språk för programmet efter ordning i inställningar.
 policy-SanitizeOnShutdown = Rensa all navigeringsdata vid avstängning.
 policy-SearchBar = Ange standardplacering av sökfältet. Användaren kan fortfarande flytta det.
 policy-SearchEngines = Ange sökmotorinställningar. Denna policy finns bara på Extended Support Release (ESR)-versionen.
