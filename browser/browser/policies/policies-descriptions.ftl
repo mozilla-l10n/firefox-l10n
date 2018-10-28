@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Tagong ta de about:profiles-side blokkearje.
 policy-BlockAboutSupport = Tagong ta de about:support-side blokkearje.
 policy-Bookmarks = Blêdwizers meitsje yn de Blêdwizerakbalke, it menu Blêdwizers, of in hjirbinnen opjûne map.
 policy-Certificates = Of ynboude sertifikaten wol of net brûkt wurde. Dizze beliedsregel jildt op dit stuit allinnich foar Windows.
+policy-CertificatesDescription = Sertifikaten tafoegje of ynboude sertifikaten brûke.
 policy-Cookies = Tastean of wegerje dat websites cookies ynstelle.
 policy-DisableAppUpdate = Foarkomme dat de browser fernijd wurdt.
 policy-DisableBuiltinPDFViewer = PDF.js útskeakelje, de ynboude PDF-viewer yn { -brand-short-name }.
@@ -42,6 +43,7 @@ policy-DisableSystemAddonUpdate = Foarkomme dat de browser systeemadd-ons ynstal
 policy-DisableTelemetry = Telemetry útskeakelje.
 policy-DisplayBookmarksToolbar = Standert de Blêdwizerarkbalke werjaan.
 policy-DisplayMenuBar = Standert de Menubalke werjaan.
+policy-DNSOverHTTPS = DNS oer HTTPS konfigurearje.
 policy-DontCheckDefaultBrowser = Kontrole op standertbrowser by opstarten útskeakelje.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ynhâldsblokkearring ynskeakelje of útskeakelje en opsjoneel beskoattelje.
@@ -62,9 +64,12 @@ policy-OverridePostUpdatePage = De side ‘Wat is der nij’ nei in fernijing fe
 policy-Permissions = Tastimmingen foar kamera, mikrofoan, lokaasje en notifikaasjes konfigurearje.
 policy-PopupBlocking = Tastean dat bepaalde websites standert pop-ups werjaan.
 policy-Proxy = Proxyynstellingen konfigurearje.
+policy-RequestedLocales = De list fan frege locales foar de tapassing ynstelle, op folchoarder fan foarkar.
 policy-SanitizeOnShutdown = Alle navigaasjegegevens wiskje by ôfsluten.
 policy-SearchBar = De standertlokaasje fan de sykbalke ynstelle. De brûker mei dizze noch hieltyd oanpasse.
 policy-SearchEngines = Ynstellingen foar sykmasinen konfigurearje. Dizze beliedsregel is allinnich beskikber yn de Extended Support Release (ESR)-ferzje.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = PKCS #11-modules ynstallearje.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = It besykjen fan websites blokkearje. Sjoch de dokumintaasje foar mear ynformaasje oer de notaasje.

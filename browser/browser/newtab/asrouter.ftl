@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = No net
     .accesskey = N
 cfr-doorhanger-extension-ok-button = No tafoegje
     .accesskey = t
+cfr-doorhanger-extension-manage-settings-button = Ynstellingen foar oanrekommandaasjes beheare
+    .accesskey = o
+cfr-doorhanger-extension-never-show-recommendation = Dizze oanrekommandaasje net toane
+    .accesskey = D
 cfr-doorhanger-extension-learn-more-link = Mear ynfo
 # This string is used on a new line below the add-on name
 # Variables:
