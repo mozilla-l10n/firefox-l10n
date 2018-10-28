@@ -23,10 +23,14 @@
 <!ENTITY  reloadTab.accesskey                "H">
 <!ENTITY  reloadAllTabs.label                "Loowtu Tabbe Fof">
 <!ENTITY  reloadAllTabs.accesskey            "F">
+<!ENTITY  selectAllTabs.label                "Suɓo tabbe ɗee fof">
+<!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Tummbito Tabbere">
 <!ENTITY  duplicateTab.accesskey             "T">
+<!ENTITY  closeTabOptions.label              "Uddu cuɓe tabbe">
+<!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -38,19 +42,29 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Uddu cegene cuɓaaɗe ɗee">
 <!ENTITY  closeSelectedTabs.accesskey        "S">
 
+<!ENTITY  closeTabs.label                    "Uddu tabbe">
+<!ENTITY  closeTabs.accesskey                "S">
 <!ENTITY  pinSelectedTabs.label              "Cegenon">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "P">
 <!ENTITY  unpinSelectedTabs.label            "Mumtu cegenon">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "b">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Loowtu cegenon cuɓakon kon">
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Loowto tabbe">
+<!ENTITY  reloadTabs.accesskey               "R">
 <!ENTITY  bookmarkSelectedTabs.label         "Maanto cegenon…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "k">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,8 +73,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Ñippu Tabbere">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "Ñ">
 <!ENTITY  unpinTab.label                     "Yowtu Tabbere">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "Neldu Tabbere to Kaɓirgol">
 <!ENTITY  sendTabToDevice.accesskey          "K">
@@ -68,14 +88,26 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "K">
 <!ENTITY  sendLinkToDevice.label             "Neldu Jokkol to Kaɓirgol">
 <!ENTITY  sendLinkToDevice.accesskey         "K">
-<!ENTITY  sendToDeviceFeedback.label         "Neldaama!">
-<!ENTITY  sendToDeviceOfflineFeedback.label  "Reggondirii (ceŋtol)">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Dirtin tabbe">
+<!ENTITY  moveTabOptions.accesskey           "v">
+<!ENTITY  moveSelectedTabOptions.label       "Dirtin tabbe">
+<!ENTITY  moveSelectedTabOptions.accesskey   "v">
+<!ENTITY  moveToStart.label                  "Dirtin to fokkit">
+<!ENTITY  moveToStart.accesskey              "S">
+<!ENTITY  moveToEnd.label                    "Dirtin to Joofirde">
+<!ENTITY  moveToEnd.accesskey                "E">
 <!ENTITY  moveToNewWindow.label              "Dirtin to Henorde Hesere">
 <!ENTITY  moveToNewWindow.accesskey          "H">
 <!ENTITY  reopenInContainer.label            "Udditgol goɗngol nder mbootu">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Maantoto Tabbe Kala…">
 <!ENTITY  bookmarkAllTabs.accesskey          "K">
+<!ENTITY  bookmarkTab.label                  "Tabbere maantol">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "B">
 <!ENTITY  undoCloseTab.label                 "Firtu Uddol Tabbere">
 <!ENTITY  undoCloseTab.accesskey             "F">
 <!ENTITY  closeTab.label                     "Uddu Tabbere">
@@ -102,6 +134,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "W">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "Yiilorde golle">
+
 <!ENTITY goOfflineCmd.label "Golle e Ceŋtol">
 <!ENTITY goOfflineCmd.accesskey "l">
 
@@ -116,6 +150,25 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "F">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Maantoto Tabbe Kala…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "K">
+
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Loowto tabbere suɓaande ndee">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Loowto tabbe cuɓaaɗe ɗee">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Maante tabbe cuɓaaɗe…">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Firtu Uddol Tabbere">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "F">
 
@@ -201,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY subscribeToPageMenupopup.label "Lulno e ngoo Hello">
 <!ENTITY subscribeToPageMenuitem.label "Lulno e ngoo Hello…">
+
 <!ENTITY addCurPagesCmd.label "Maantoro Tabbe Fof…">
 <!ENTITY showAllBookmarks2.label "Hollu Maantore Fof">
 <!ENTITY recentBookmarks.label "Maantoraaɗe ko Ɓooyaani">
@@ -268,7 +322,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Jaɓɓorgo">
-
 <!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Jaɓɓorgo">
 
 <!ENTITY bookmarksButton.label          "Maantore">
@@ -315,6 +368,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY webDeveloperMenu.label       "Topagol Geese">
 <!ENTITY webDeveloperMenu.accesskey   "T">
+
 
 <!ENTITY inspectContextMenu.label     "Ƴeewto Geɗel">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -424,23 +478,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Ɓeydu e palal kuutorɗe">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Ɓ">
-<!ENTITY customizeMenu.addToPanel.label "Ɓeeydu to Loowdi">
-<!ENTITY customizeMenu.addToPanel.accesskey "L">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Ɓeydu e Overflow Cuɓirgol">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "C">
-<!ENTITY customizeMenu.moveToToolbar.label "Dirtin to palal kuutorɗe">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "D">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Dirtin to cuɓirgol">
-<!ENTITY customizeMenu.moveToPanel.accesskey "D">
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
@@ -450,15 +493,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.removeFromToolbar.label "Ittu e  palal kuutorɗe">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "I">
-<!ENTITY customizeMenu.removeFromMenu.label "Ittu e cuɓirgel">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "I">
 <!ENTITY customizeMenu.addMoreItems.label "Ɓeeydu ngeɗon ngoɗkon…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Ɓ">
-
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Suuɗ hoore mum e palal kuutorɗe">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Toppito Jokkel">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
+
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -567,9 +608,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Loowtu Kaarewol">
 <!ENTITY reloadFrameCmd.accesskey     "L">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Hollu Ɗaɗi Labannde">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Hollu Ɗadol MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Hollu Ɗaɗi Hello">
 <!ENTITY viewPageSourceCmd.accesskey  "H">
@@ -600,7 +638,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Maantoro Ngol Kaarewol">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "o">
 <!ENTITY pageAction.copyLink.label    "Natto Jokkol">
-<!ENTITY copyURLFeedback.label        "Nattaama!">
 <!ENTITY emailPageCmd.label           "Jokkol Iimeel…">
 <!ENTITY emailPageCmd.accesskey       "J">
 <!ENTITY savePageCmd.label            "Danndu Hello e Innde…">
@@ -631,6 +668,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Suuɗ ndee seŋre">
 <!ENTITY hidePluginCmd.accesskey      "S">
 <!ENTITY copyLinkCmd.label            "Natto Nokkuure Jokkol">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "u">
 <!ENTITY copyImageCmd.label           "Natto Nokkuure Natal">
 <!ENTITY copyImageCmd.accesskey       "a">
@@ -641,6 +681,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Natto Nokkuure Ojoo">
 <!ENTITY copyAudioURLCmd.accesskey    "a">
 <!ENTITY copyEmailCmd.label           "Natto Ñiiɓirde Iimeel">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "I">
 <!ENTITY thisFrameMenu.label              "Ngol Kaarewol">
 <!ENTITY thisFrameMenu.accesskey          "o">
@@ -781,8 +824,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Gasii">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Hollu taƴtorde kisnugol">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "5">
 
@@ -832,7 +873,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Jamirooje">
 <!ENTITY identity.permissionsEmpty "A hokkaani ndee lowre hay yamiroore heeriinde.">
 <!ENTITY identity.permissionsReloadHint "Ena waawi coaklaa loowtude hello ngoo ngam bayle ɗee njaaɓa.">
-
 <!ENTITY identity.permissionsPreferences.tooltip "Uddit jamirooje ɓurɗine">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -933,45 +973,59 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Ojoo e ndee tabbere maa lolline.">
 <!ENTITY getUserMedia.allWindowsShared.message "Kala henorde yiyotonde e yaynirde maaɗa maa lolline.">
 
-<!ENTITY trackingProtection.on "Ndeenka rewindo: ON">
-<!ENTITY trackingProtection.off "Ndeenka rewindo: OFF">
+
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking malicious/slow content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Slow-Loading Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
+     "Firefox is blocking Slow-Loading Trackers"-->
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking tracker content, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Trackers [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Trackers"-->
+<!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
+     This label signals that this type of content blocking is turned
+     ON and is successfully blocking third-party cookies, so this is
+     a positive thing. It forms the end of the (imaginary) sentence
+     "Third-Party Cookies [are] Blocked"-->
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Third-Party Cookies"-->
+<!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
+     This is displayed as a link to preferences, where the user can add
+     this specific type of content blocking. When this text is shown
+     the type of content blocking is currently not enabled. -->
+
+
 <!ENTITY trackingProtection.title "Ndeenka dewindol">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; daaƴii geɗe e ngoo hello baawɗe rewindaade peeragol maa.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Ndee lowre ena loowi geɗe baawɗe rewindaade peeragol maa. Ko a daaƴɗo ndeenka.">
-<!ENTITY trackingProtection.notDetected3 "Alaa geɗe dewindol ejtaa e ngoo hello.">
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Daaƴ kisnugol e ndee lowre">
-<!ENTITY trackingProtection.unblock.accesskey "D">
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
-     The associated button with this label and accesskey is only shown when opening the control
-     center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Daaƴ kisnugol e ndee naatannde">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "Hurmin kisnugol">
-<!ENTITY trackingProtection.block2.accesskey "H">
-
 <!ENTITY trackingProtection.tooltip "Uddit ɓurɗine ndeenka rewindo">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; ina faddii huunde e banngeeji ngoo hello baawɗi rewindaade banngagol maa.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; yiytii geɗe baawɗe rewindaade banngagol maa.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; yiytii geɗe baawɗe rewindaade banngagol maa. Ko a ñifɗo ndeenka ndee lowre.">
-<!ENTITY trackingProtection.notDetected5 "Alaa geɗel rewindo yiytaa e ngoo hello.">
-<!ENTITY trackingProtection.notDetectedException "Alaa geɗel rewindo yiytaa e ngoo hello. Ko a ñifɗo ndeenka ndee lowre.">
 
-<!ENTITY trackingProtection.reloadRequired2 "A softinii ndeenka rewindo. Loowto hello ngoo hello ngam faddaade dewindiiɗe ɗee kala.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Ñif wonande ndee lowre">
-<!ENTITY trackingProtection.unblock3.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Ñif wonande ndee rogere">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "D">
-<!ENTITY trackingProtection.block4.label "Softin wonande ndee lowre">
-<!ENTITY trackingProtection.block4.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "Loowto hello">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
@@ -1067,8 +1121,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.manageExtension.label "Yiil Timmitere…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Neldu Tabbere to Kaɓirgol">
-<!ENTITY sendToDevice.syncNotReady.label "Jahdingol masiŋon...">
 
+<!ENTITY sendToDevice.syncNotReady.label "Jahdingol masiŋon...">
 
 
 <!ENTITY libraryButton.tooltip "Yiy aslol, maantore danndaaɗe, e goɗɗe">
