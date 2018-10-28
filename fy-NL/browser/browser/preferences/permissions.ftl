@@ -54,6 +54,9 @@ permissions-exceptions-tracking-protection-window =
     .title = Utsûnderingen - Beskerming tsjin folgjen
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Jo hawwe Net folgje útskeakele op dizze websites.
+permissions-exceptions-content-blocking-window =
+    .title = Utsûnderingen - Ynhâldsblokkearring
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -85,10 +88,6 @@ permissions-exceptions-addons-desc = Jo kinne oanjaan hokker siden add-ons ynsta
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Tastiene websites - Automatysk ôfspylje
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Jo kinne opjaan hokker websites tastimming hawwe om automatysk media-eleminten ôf te spyljen. Typ it eksakte adres fan de website dy't jo tastimming jaan wolle en klik ferfolgens op Tastean.
 permissions-exceptions-autoplay-media-window2 =
     .title = Utsûnderingen - Automatysk ôfspylje
     .style = { permissions-window.style }

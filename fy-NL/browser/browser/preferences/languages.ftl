@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Talen
-    .style = width: 34em
 webpage-languages-window =
     .title = Taalynstellingen website
     .style = width: 40em
@@ -45,3 +42,14 @@ browser-languages-window =
     .title = { -brand-short-name }-taalynstellingen
     .style = width: 40em
 browser-languages-description = { -brand-short-name } sil de earste taal as jo standerttaal werjaan en sa nedich alternative talen werjaan yn de folchoarder wêryn se fershine.
+browser-languages-search = Mear talen sykje…
+browser-languages-searching =
+    .label = Sykje nei talen…
+browser-languages-downloading =
+    .label = Downloade…
+browser-languages-select-language =
+    .label = Selektearje in taal om ta te foegjen…
+    .placeholder = Selektearje in taal om ta te foegjen…
+browser-languages-installed-label = Ynstallearre talen
+browser-languages-available-label = Beskikbere talen
+browser-languages-error = { -brand-short-name } kin jo talen op dit stuit net bywurkje. Kontrolearje oft jo mei it ynternet ferbûn binne of probearje it opnij.
