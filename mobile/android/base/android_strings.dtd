@@ -291,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Pelajari lebih lanjut tentang &brandShortName; dan produk &vendorShortName; lainnya">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "Aktifkan">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Fitur eksperimental">
@@ -363,7 +368,6 @@
 <!ENTITY pref_use_system_font_size_summary "Skalakan konten web dengan ukuran font sistem">
 
 <!ENTITY pref_media_autoplay_enabled "Izinkan putar otomatis">
-<!ENTITY pref_media_autoplay_enabled_summary "Kendalikan apakah situs web dapat memutar video dan konten media lainnya secara otomatis">
 <!ENTITY pref_media_autoplay_allow "Izinkan putar otomatis">
 <!ENTITY pref_media_autoplay_block "Blokir putar otomatis">
 <!ENTITY pref_zoom_force_enabled "Selalu aktifkan perbesaran">
@@ -828,9 +832,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Tidak dapat membuka &brandShortName;. Silakan pasang ulang dan coba lagi.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; tidak lagi akan diperbarui">
-<!ENTITY eol_notification_summary "Ketuk untuk mempelajari lebih lanjut">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; sudah dalam versi terbaru">
@@ -904,3 +905,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "Notifikasi &brandShortName;">
 <!ENTITY updater_notification_channel "Pembaruan aplikasi">
 <!ENTITY synced_tabs_notification_channel "Tab tersinkron">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Notifikasi situs">
