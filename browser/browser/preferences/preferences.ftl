@@ -695,6 +695,24 @@ content-blocking-tracking-protection-change-block-list = Waylo doggol padde
 content-blocking-third-party-cookies-label =
     .label = Kuukiiji goɗɗi
     .accesskey = K
+content-blocking-reject-trackers-description = Faddo kuukiiji goɗɗi ɗii kala walla ɗi dewindiiɗi ɗii toɗɗii ɗii.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Teelte maa nder kuukiiji e keɓe lowre ndee ina kaɗa kala baylugol teelte kuukiiji goɗɗi.
+content-blocking-change-cookie-settings =
+    .label = Waylu teelte kuukiiji
+    .accesskey = W
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Dewindiiɗi (basiyaaɗi)
+    .accesskey = D
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Dewindiiɗi
+    .accesskey = D
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Kuukiiji goɗɗi ɗii kala (ina mbaawi saabaade taƴondiral e lowe geese)
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
@@ -751,6 +769,9 @@ autoplay-option-ask =
     .label = Naamno e sahaa kala
 autoplay-option-allow =
     .label = Yamir janngol ɗoon e ɗoon
+autoplay-option-dont =
+    .label = Woto tar e jaajol
+permissions-autoplay-link = Ɓeydu humpito
 permissions-block-popups =
     .label = Falo kenorɗe cuppitte
     .accesskey = B

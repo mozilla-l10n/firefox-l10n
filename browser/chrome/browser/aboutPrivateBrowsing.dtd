@@ -2,11 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.title):
-     Please ensure this exactly matches tabs.emptyPrivateTabTitle in tabbrowser.properties -->
-<!ENTITY aboutPrivateBrowsing.title                      "Banngagol Keeringol">
-<!ENTITY aboutPrivateBrowsing.notPrivate.title           "Uddit e henorde suuriinde?">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "A wonaani e henorde suuriinde e oo sahaa.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "Uddit Henorde Suuriinde">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "S">
@@ -25,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " ɗee geɗe:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "gaawte">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "maantore">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "natto binndi">
 <!ENTITY aboutPrivateBrowsing.note.before                "Banngagol Suturo ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "waɗataama cuuɗiiɗo">
 <!ENTITY aboutPrivateBrowsing.note.after                 " e enternet. Gollinoowo-ma e Carwinoowo Enternet maa ena njiya haa jooni kelle ɗe njilloto-ɗaa.">
@@ -35,3 +31,5 @@
 <!ENTITY trackingProtection.title                        "Ndeenka Dewindol">
 <!ENTITY trackingProtection.description2                 "Won e lowe kuutortoo ko dewindorɗe baawɗe ñukkindaade dille maa e nder enternet. So a waɗii ndeenka Dewindol Firefox maa falo keewɗe e majje baawɗe roɓindaande humpito baɗte sifaa peeragol maa.">
 <!ENTITY trackingProtection.startTour1                   "Yiy no yahrata">
+
+<!ENTITY contentBlocking.title                           "Paddagol loowdi">
