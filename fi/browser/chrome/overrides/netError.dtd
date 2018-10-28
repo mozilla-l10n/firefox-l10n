@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Palaa">
 <!ENTITY returnToPreviousPage1.label "Palaa (suositellaan)">
 <!ENTITY advanced.label "Yksityiskohdat">
-
 <!ENTITY continue2.label "Lisää…">
 <!ENTITY moreInformation.label "Lisätietoja">
+
+<!ENTITY viewCertificate.label "Näytä varmenne">
 
 <!-- Specific error messages -->
 
@@ -153,10 +154,11 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Sivuston <span class='hostname'/> omistaja on määrittänyt sivustonsa asetukset väärin. &brandShortName; ei muodostanut yhteyttä sivustoon suojellakseen tietojasi varkaudelta.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; havaitsi mahdollisen turvallisuusuhan, eikä jatkanut sivustolle <span class='hostname'/>. Jos käyt tällä sivustolla, henkilökohtaisia tietojasi kuten salasanoja, sähköpostiviestejä tai luottokorttitietoja saatetaan yrittää varastaa.">
 
 <!ENTITY certerror.expiredCert.secondPara "Ongelman syynä on todennäköisesti se, että tietokoneesi kello on väärässä ajassa, minkä takia &brandShortName; ei voi muodostaa suojattua yhteyttä.">
+
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Mitä voit tehdä?">
 
@@ -193,7 +195,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Lisää poikkeus…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Ota riski ja jatka">
 
 <!ENTITY errorReporting.automatic2 "Auta Mozillaa tunnistamaan ja estämään haitallisia sivustoja ilmoittamalla tällaisista virheistä">

@@ -84,6 +84,9 @@ extension-controlled-homepage-override = Laajennus, <img data-l10n-name="icon"/>
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Laajennus, <img data-l10n-name="icon"/> { $name }, hallitsee Uusi välilehti -sivua.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Laajennus, <img data-l10n-name="icon"/> { $name }, hallitsee tätä asetusta.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Laajennus, <img data-l10n-name="icon"/> { $name }, on asettanut oletushakukoneen.
@@ -324,6 +327,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Ala etsiä tekstistä heti kirjoitettaessa
     .accesskey = A
+browsing-cfr-recommendations-learn-more = Lue lisää
 
 ## General Section - Proxy
 
