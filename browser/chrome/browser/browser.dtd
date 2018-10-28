@@ -984,40 +984,57 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Kala henorde yiyotonde e yaynirde maaɗa maa lolline.">
 
 <!ENTITY contentBlocking.title "Paddagol loowdi">
+<!ENTITY contentBlocking.detected "Loowdi paddotoondi yiytaama e ndee lowre.">
+<!ENTITY contentBlocking.notDetected "Loowdi ndi faddotaako yiytaama e ndee lowre.">
+<!ENTITY contentBlocking.disabled.label "Ñifaama">
+<!ENTITY contentBlocking.disabled.tooltip "A ñifii paddagol loowdi.">
+<!ENTITY contentBlocking.exception.tooltip "A ñifii paddagol lowwdi e ndee lowre.">
 
+<!ENTITY contentBlocking.fastBlock.label "Rewindiiɓe leelɓe loowagol">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Faddaama">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
      "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "Paddagol">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Ɓeydu paddagol…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Rewindiiɓe yiytaaɓe ɓee fof">
+<!ENTITY contentBlocking.trackingProtection3.label "Rewindiiɓe">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Faddaama">
 <!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "Paddagol">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Ɓeydu paddagol…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Kuukiiji goɗɗi ɗii">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Dewindagol kuukiiji">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Faddaama">
 <!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
