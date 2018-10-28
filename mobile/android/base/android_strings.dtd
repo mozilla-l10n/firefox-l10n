@@ -291,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Tìm hiểu về cách sử dụng &brandShortName; và các sản phẩm của &vendorShortName;">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "Bật">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Các tính năng thử nghiệm">
@@ -363,7 +368,6 @@
 <!ENTITY pref_use_system_font_size_summary "Co giãn nội dung trang web dựa vào kích thước phông chữ hệ thống">
 
 <!ENTITY pref_media_autoplay_enabled "Cho phép tự động phát">
-<!ENTITY pref_media_autoplay_enabled_summary "Kiểm soát nếu trang web có thể tự động phát video và nội dung đa phương tiện khác">
 <!ENTITY pref_media_autoplay_allow "Cho phép tự động phát">
 <!ENTITY pref_media_autoplay_block "Không cho phép tự động phát">
 <!ENTITY pref_zoom_force_enabled "Luôn bật chế độ thu phóng">
@@ -444,6 +448,7 @@
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
+<!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Dịch vụ vị trí đang chạy">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -827,9 +832,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Không thể mở &brandShortName;. Hãy cài lại và thử lại.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; sẽ không còn được cập nhật">
-<!ENTITY eol_notification_summary "Chạm để tìm hiểu thêm">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; đã được cập nhật">
@@ -896,9 +898,13 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY mls_notification_channel "&vendorShortName; Dịch vụ vị trí">
 <!ENTITY download_notification_channel "Tải xuống">
 <!ENTITY media_notification_channel "Phát lại">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; Thông báo đẩy">
 <!ENTITY updater_notification_channel "Cập nhật ứng dụng">
 <!ENTITY synced_tabs_notification_channel "Thẻ đã đồng bộ">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Các thông báo trang">
