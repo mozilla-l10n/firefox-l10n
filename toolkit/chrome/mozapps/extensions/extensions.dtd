@@ -4,8 +4,10 @@
 <!ENTITY addons.windowTitle                   "Add-onbehearder">
 
 <!ENTITY search.placeholder2                  "Sykje op addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "addons.mozilla.org trochsykje">
 <!ENTITY search.buttonlabel                   "Sykje">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -41,6 +43,10 @@
 <!ENTITY view.discover.label                  "Add-ons krije">
 <!ENTITY view.recentUpdates.label             "Resinte fernijingen">
 <!ENTITY view.availableUpdates.label          "Beskikbere fernijingen">
+
+<!ENTITY helpButton.label                      "Add-on-stipe">
+<!ENTITY preferencesWin.label                  "&brandShortName;-opsjes">
+<!ENTITY preferencesUnix.label                 "&brandShortName;-foarkarren">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Kontrolearje op fernijingen">
@@ -80,8 +86,14 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Foarkarren">
 <!ENTITY cmd.preferencesUnix.accesskey        "F">
-<!ENTITY cmd.about.label                      "Oer">
-<!ENTITY cmd.about.accesskey                  "e">
+
+
+
+
+
+
+
+
 
 <!ENTITY cmd.enableAddon.label                "Ynskeakelje">
 <!ENTITY cmd.enableAddon.accesskey            "Y">
@@ -91,6 +103,10 @@
 <!ENTITY cmd.enableTheme.accesskey            "B">
 <!ENTITY cmd.disableTheme.label               "Brûk tema net mear">
 <!ENTITY cmd.disableTheme.accesskey           "B">
+
+
+
+
 <!ENTITY cmd.askToActivate.label              "Freegje om te aktivearjen">
 <!ENTITY cmd.askToActivate.tooltip            "Gebrûk fan dizze add-on elke kear freegje">
 <!ENTITY cmd.alwaysActivate.label             "Altyd aktivearje">
@@ -100,6 +116,8 @@
 <!ENTITY cmd.stateMenu.tooltip                "wizigje as dizze add-on brûkt wurdt">
 <!ENTITY cmd.installAddon.label               "Ynstallearje">
 <!ENTITY cmd.installAddon.accesskey           "Y">
+
+
 <!ENTITY cmd.uninstallAddon.label             "Fuortsmite">
 <!ENTITY cmd.uninstallAddon.accesskey         "F">
 <!ENTITY cmd.showPreferencesWin.label         "Opsjes">
@@ -109,6 +127,9 @@
 <!ENTITY cmd.contribute.label                 "Bydrage">
 <!ENTITY cmd.contribute.accesskey             "B">
 <!ENTITY cmd.contribute.tooltip               "Bydrage oan de ûntwikkeling fan dizze add-on">
+
+
+
 
 <!ENTITY cmd.showReleaseNotes.label           "Utjefte-opmerkingen toane">
 <!ENTITY cmd.showReleaseNotes.tooltip         "De útjefte-opmerkingen foar dizze fernijing toane">
@@ -131,7 +152,6 @@
 <!ENTITY detail.lastupdated.label             "Lêst bywurke">
 <!ENTITY detail.creator.label                 "Untwikkeler">
 <!ENTITY detail.homepage.label                "Thússide">
-<!ENTITY detail.numberOfDownloads.label       "Downloads">
 
 <!ENTITY detail.contributions.description     "De ûnwikkeler fan dizze add-on freget om stipe foar de trochgeande ûntwikkeling troch it meitsjen fan in lytse bydrage.">
 
@@ -160,18 +180,15 @@
 <!-- ratings -->
 <!ENTITY rating2.label                        "Wurdearring:">
 
+
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pauze">
+
 <!ENTITY progress.cancel.tooltip              "Annulearje">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Namme">
-<!ENTITY sort.name.tooltip                    "Sortearje op namme">
-<!ENTITY sort.dateUpdated.label               "Lêst bywurke">
-<!ENTITY sort.dateUpdated.tooltip             "Sortearje op fernijingsdatum">
-
 <!ENTITY addon.homepage                       "Thússide">
+
+
 <!ENTITY addon.details.label                  "Mear">
 <!ENTITY addon.details.tooltip                "Mear details oer dizze add-on toane">
 <!ENTITY addon.unknownDate                    "Unbekend">
@@ -193,6 +210,7 @@
 <!ENTITY addon.undoRemove.label               "Ungedien meitsje">
 <!ENTITY addon.undoRemove.tooltip             "hâld dizze add-on ynstallearre">
 <!ENTITY addon.restartNow.label               "No opnij starte">
+
 <!ENTITY addon.install.label                  "Ynstallearje">
 <!ENTITY addon.install.tooltip                "Dizze add-on ynstallearje">
 <!ENTITY addon.updateNow.label                "Fernij no">
@@ -212,17 +230,6 @@
 <!ENTITY eula.accept                          "Akseptearje en ynstallearje…">
 
 <!ENTITY settings.path.button.label           "Blêdzje…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Wat is dit? Telemetry kin sa no en dan eksperiminten ynstallearje en útfiere.">
-<!ENTITY experiment.info.learnmore "Mear ynfo">
-<!ENTITY experiment.info.learnmore.accesskey "M">
-<!ENTITY experiment.info.changetelemetry "Telemetry-ynstellingen">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Mear ynfo…">
 
