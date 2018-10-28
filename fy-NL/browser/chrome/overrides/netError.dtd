@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Tebek">
 <!ENTITY returnToPreviousPage1.label "Gean werom (oanrekommandearre)">
 <!ENTITY advanced.label "Avansearre">
-
 <!ENTITY continue2.label "Mear…">
 <!ENTITY moreInformation.label "Mear ynformaasje">
+
+<!ENTITY viewCertificate.label "Sertifikaat besjen">
 
 <!-- Specific error messages -->
 
@@ -151,14 +152,20 @@
 
 <!ENTITY certerror.longpagetitle1 "Jo ferbining is net befeilige">
 <!ENTITY certerror.longpagetitle2 "Warskôging: mooglik befeiligingsrisiko">
+<!ENTITY certerror.sts.longpagetitle  "Gjin ferbining makke: mooglik befeiligingsprobleem">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "De eigener fan <span class='hostname'/> hat syn of har website net krekt konfigurearre. Om jo gegevens tsjin stellerij te beskermjen, hat &brandShortName; gjin ferbining mei dizze website makke.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; hat in mooglik befeiligingsrisiko detektearre en is net trochgien nei <span class='hostname'/>. As jo dizze website besykje, soene hackers kinne probearje gegevens te stellen, lykas jo wachtwurden, e-mailadressen of creditcardgegevens.">
 
 <!ENTITY certerror.expiredCert.secondPara "Dit probleem komt hiel wierskynlik trochdat jo kompjûterklok op de ferkearde tiid ynsteld is, wêrtroch &brandShortName; gjin befeilige ferbining meitsje kin.">
+
+<!ENTITY certerror.sts.introPara "&brandShortName; hat in mooglik befeiligingsrisiko detektearre en is net trochgien nei <span class='hostname'/>, omdat dizze website in befeilige ferbining fereasket.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; hat in probleem detektearre en is net trochgien nei <span class='hostname'/>. Of de website is net krekt konfigurearre, of jo kompjûterklok is op de ferkearde tiid ynsteld.">
+<!ENTITY certerror.expiredCert.secondPara2 "Wierskynlik is it sertifikaat fan de website ferrûn, wêrtroch &brandShortName; gjin befeilige ferbining meitsje kin. As jo dizze website besykje, soene oanfallers probearje kinne gegevens te stellen, lykas jo wachtwurden, e-mailadressen of creditcardgegevens.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Wierskynlik is it sertifikaat fan de website ferrûn, wêrtroch &brandShortName; gjin befeilige ferbining meitsje kin.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Wat kinne jo hjir oan dwaan?">
 
@@ -195,7 +202,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Utsûndering tafoegje…">
-
 <!ENTITY securityOverride.exceptionButton1Label "It risiko oanfurdigje en trochgean">
 
 <!ENTITY errorReporting.automatic2 "Flaters as dizze rapportearje om Mozilla te helpen kweawollende websites te werkennen en te blokkearjen">
@@ -217,6 +223,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Net-befeilige ferbining">
 <!ENTITY certerror.pagetitle2  "Warskôging: mooglik befeiligingsrisiko">
+<!ENTITY certerror.sts.pagetitle  "Gjin ferbining makke: mooglik befeiligingsprobleem">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dizze website makket gebrûk
 fan HTTP Strict Transport Security (HSTS) om oan te jaan dat &brandShortName;
 allinnich in befeilige ferbining meitsje mei. Hjirtroch is it net mooglik om in
