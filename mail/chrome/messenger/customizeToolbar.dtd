@@ -14,5 +14,6 @@
 <!ENTITY restoreDefaultSet.label  "Бастапқы түрге келтіру">
 <!ENTITY addNewToolbar.label      "Жаңа саймандар панелін қосу">
 <!ENTITY showTitlebar.label       "Атау жолағын көрсету">
+<!ENTITY extraDragSpace.label     "Тартып апару орнын қосу">
 <!ENTITY saveChanges.label        "Дайын">
 <!ENTITY undoChanges.label        "Өзгерістерді қайтару">
