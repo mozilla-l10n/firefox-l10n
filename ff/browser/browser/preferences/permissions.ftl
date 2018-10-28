@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Paltooje - Ndeenka Dewindol
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = A daaƴii Ndeenka Dewindol e ɗee kelle geese.
+permissions-exceptions-content-blocking-window =
+    .title = Luulnde - Paddagol loowdi
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = A ñifii paddagol loowdi e ɗee lowe.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,10 @@ permissions-exceptions-addons-desc = Aɗa waawi joopaade hol lowe geese njamiraa
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Lowe Jamiraaɗe - Tarol Jaajol
+permissions-exceptions-autoplay-media-window2 =
+    .title = Luulnde - Jaŋde otomatik
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Aɗa waawi joopaade hol lowe geese njamiraa tarde jaajol geɗon mejaa. Tappu ñiiɓirde laaɓtunde lowre nde njiɗɗaa yamirde ndee tee dobo Yamir.
+permissions-exceptions-autoplay-media-desc2 = Aɗa waawi hollitde hol lowe mbaawi walla mbaawataa janngude mejaa ɗoon e ɗoon wondude e hito. Tappu ñiiɓirde lowre njiɗ-ɗaa yiilde ndee, caggal ɗuum ndobo-ɗaa e Faddo walla Yamir.
 
 ## Site Permissions - Notifications
 

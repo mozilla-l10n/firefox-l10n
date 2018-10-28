@@ -6,6 +6,8 @@ do-not-track-description = Neldu lowe internet siñaal "Hoto rewindo" so a yiɗa
 do-not-track-learn-more = Ɓeydu humpito
 do-not-track-option-default =
     .label = E sahaa ndeenka rewindo tan
+do-not-track-option-default-content-blocking =
+    .label = So wonaa nde { -brand-short-name } suɓaa yo faddo dewinde teskaaɗe
 do-not-track-option-always =
     .label = Sahaa kala
 pref-page =
@@ -51,6 +53,7 @@ pane-sync-title = Konte Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Wallitorde { -brand-short-name }
+addons-button-label = Jokke & Kettule
 focus-search =
     .key = f
 close-button =
@@ -81,6 +84,9 @@ extension-controlled-homepage-override = Timmitere, <img data-l10n-name="icon"/>
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Timmitere, <img data-l10n-name="icon"/> { $name }, nana ɗowa hello Tabbere maa Hesere.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Jokkel, <img data-l10n-name="icon"/>{ $name }, jogii ndee ñaawirde
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Timmitere, <img data-l10n-name="icon"/> { $name }, teeltiima masiŋ maa njiilaw goowaaɗo.
@@ -90,6 +96,9 @@ extension-controlled-privacy-containers = Timmitere, <img data-l10n-name="icon"/
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Timmitere, <img data-l10n-name="icon"/> { $name }, nana ɗowa ndeenka dewindol.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Jokkel, <img data-l10n-name="icon"/>{ $name }, jogii ndee ñaawirde.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Timmitere, <img data-l10n-name="icon"/> { $name }, nana ɗowa hol no { -brand-short-name } seŋortoo e enternet oo.
@@ -202,6 +211,12 @@ choose-language-description = Suɓo ɗemngal njiɗ-ɗaa ngam jaytinde kelle
 choose-button =
     .label = Suɓo…
     .accesskey = u
+choose-browser-language-description = Suɓo ɗemɗe kuutoraaɗe ngam ɗisde cuɓirɗe, mesasuuji e tintine nder { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Suɓo lomte...
+    .accesskey = l
+confirm-browser-language-change-description = Fokkit { -brand-short-name } ngam teeŋtinde bayle ɗee.
+confirm-browser-language-change-button = Teeŋtin pokkitaa
 translate-web-pages =
     .label = Fir loowdi geese
     .accesskey = F
@@ -276,7 +291,7 @@ update-enable-search-update =
 
 ## General Section - Performance
 
-performance-title = Jaawgol golle 
+performance-title = Jaawgol golle
 performance-use-recommended-settings-checkbox =
     .label = Huutoro teelte jaawgol golle basiyaaɗe ɗee
     .accesskey = H
@@ -312,10 +327,14 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Yiylo binndi so mi fuɗɗiima tappude
     .accesskey = n
+browsing-cfr-recommendations =
+    .label = Wasiyo jokke so aɗa wanngoo
+    .accesskey = y
+browsing-cfr-recommendations-learn-more = Jokku taro
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy Laylaytol
+network-settings-title = Teelte geese
 network-proxy-connection-description = Teelto hol no { -brand-short-name } seŋortoo e enternet oo.
 network-proxy-connection-learn-more = Ɓeydu humpito
 network-proxy-connection-settings =
@@ -513,6 +532,7 @@ privacy-header = Suturo Wanngorde
 ## Privacy Section - Forms
 
 forms-header = Formileeruuji & pinle
+logins-header = Ceŋorɗe & Pinle
 forms-ask-to-save-logins =
     .label = Laaɓndo mbele a hisnat baccooje e pinle lowe
     .accesskey = r
@@ -554,9 +574,6 @@ history-dontremember-description = { -brand-short-name } maa huutoro teelte bann
 history-private-browsing-permanent =
     .label = Huutoro peeragol suturo sahaa kala
     .accesskey = o
-history-remember-option =
-    .label = Siiftor peeragol am tee aawto aslol
-    .accesskey = t
 history-remember-browser-option =
     .label = Siiftor aslol banngogol kam e gaawtogol
     .accesskey = b
@@ -582,26 +599,12 @@ sitedata-total-size-calculating = Nana hiisoo keɓe lowre kam e ɓetol moggon…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = A mooftii kuukiije, lowre kañum moggel kuutortoo jooni ko { $value } { $unit } boowal mbeɗu nguu.
 sitedata-learn-more = Jokku taro
-sitedata-accept-cookies-option =
-    .label = Jaɓ kuukiije kañum e keɓe lowre iwɗe e lowe geese (ina wasiyaa)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Daaƴ kuukiije kam e keɓe lowre (ina waawi taƴde lowe geese)
-    .accesskey = B
 sitedata-keep-until = Mooftu haa
     .accesskey = u
 sitedata-keep-until-expire =
     .label = Ɗe mbuntii
 sitedata-keep-until-closed =
     .label = { -brand-short-name } uddaama
-sitedata-accept-third-party-desc = Jaɓ kuukiije jiggaaɗe kam e keɓe lowre
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = Sahaa kala
-sitedata-accept-third-party-visited-option =
-    .label = Iwɗi e jillaaɗe
-sitedata-accept-third-party-never-option =
-    .label = Hay sahaa
 sitedata-clear =
     .label = Momtu Keɓe…
     .accesskey = l
@@ -627,6 +630,9 @@ addressbar-locbar-openpage-option =
     .accesskey = T
 addressbar-suggestions-settings = Waylu cuɓe wonande cakkitte yiylorde
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 tracking-header = Huutoro Ndeenka Dewindol
@@ -641,10 +647,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Hay sahaa
     .accesskey = H
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Huutoro ndeenka dewindagol nder banngagol sutura ngam faddaade ñukkintooɓe anndaaɓe
-    .accesskey = v
 tracking-exceptions =
     .label = Paltooje…
     .accesskey = a
@@ -686,8 +688,6 @@ autoplay-option-ask =
     .label = Naamno e sahaa kala
 autoplay-option-allow =
     .label = Yamir janngol ɗoon e ɗoon
-autoplay-option-block =
-    .label = Faddo janngol ɗoon e ɗoon
 permissions-block-popups =
     .label = Falo kenorɗe cuppitte
     .accesskey = B
@@ -715,7 +715,7 @@ collection-health-report =
     .accesskey = r
 collection-health-report-link = Jokku Taro
 collection-studies =
-    .label = Yamir { -brand-short-name } aafgol kam e ɗowgol jaŋdeeji 
+    .label = Yamir { -brand-short-name } aafgol kam e ɗowgol jaŋdeeji
 collection-studies-link = Yiy jaŋdeeji { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
