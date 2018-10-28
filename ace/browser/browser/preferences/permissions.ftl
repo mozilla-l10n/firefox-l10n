@@ -85,10 +85,9 @@ permissions-exceptions-addons-desc = Droëneuh jeuët neupeuteuntèë toh situih
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Peuidin Situihwèb - Puta Otomatis (Autoplay)
+permissions-exceptions-autoplay-media-window2 =
+    .title = Keucuwali - Puta otomatis
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Droëneuh jeuët neupeuteuntèë toh situihwèb nyang meupeuidin udép otomatis keu èlèmèn mèdia. Tuléh beubeutôi alamat situih nyang neukeuneuk peuidin öh lheuëhnyan klik Peuidin (Allow).
 permissions-exceptions-autoplay-media-desc2 = Droeneuh jeuet neupeuteuntèe situs wèb töh nyang sabé atawa han töm neupeuidin keu jiputa keudroe mèdia nyang na su. Neukeutik alamat situs nyang meuh'eut neuatô, lheueh nyan neuteugön Blokir atawa Peuidin.
 
 ## Site Permissions - Notifications

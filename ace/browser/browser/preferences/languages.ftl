@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Bahsa
-    .style = width: 30em
+webpage-languages-window =
+    .title = Setel basa laman web
+    .style = luah: 40em
 languages-close-key =
     .key = w
 languages-description = Ônwèb nyoë meujan-jan dipeutaba leubèh dari saboh basa. Piléh basa untôk peuleumah nibak ônwèb nyoë, nyang meu-urôt seusuwai deungon préfèren
@@ -41,3 +41,13 @@ languages-active-code-format =
 browser-languages-window =
     .title = Peuatô Bahsa { -brand-short-name }
     .style = width: 40em
+browser-languages-search = mita lam basa laen
+browser-languages-searching =
+    .label = Teungöh mita basa…
+browser-languages-downloading =
+    .label = Teungöh cok keubah…
+browser-languages-select-language =
+    .label = Piléh basa keu neutamah…
+    .placeholder = Piléh basa keu neutamah…
+browser-languages-installed-label = basa yang kana
+browser-languages-available-label = basa yang na
