@@ -57,6 +57,7 @@ permissions-exceptions-tracking-protection-desc = Jo hawwe Net folgje útskeakel
 permissions-exceptions-content-blocking-window =
     .title = Utsûnderingen - Ynhâldsblokkearring
     .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Jo hawwe ynhâldsblokkearring útskeakele op dizze websites.
 
 ## Exceptions - Cookies
 
