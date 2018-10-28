@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Add-onbehearder
+search-header =
+    .placeholder = addons.mozilla.org trochsykje
+    .searchbuttonlabel = Sykje
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Ynstallearje add-on út bestân…
     .accesskey = Y
+help-button = Add-on-stipe
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name }-opsjes
+       *[other] { -brand-short-name }-foarkarren
+    }
 tools-menu =
     .tooltiptext = Ark foar alle add-ons
 show-unsigned-extensions-button =
