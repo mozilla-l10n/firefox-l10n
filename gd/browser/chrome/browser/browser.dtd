@@ -56,10 +56,16 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "p">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadSelectedTabs.label           "Ath-luchdaich na tabaichean a thagh thu">
+<!ENTITY  reloadSelectedTabs.accesskey       "R">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Ath-luchdaich na tabaichean">
+<!ENTITY  reloadTabs.accesskey               "R">
+<!ENTITY  bookmarkSelectedTabs.label         "Dèan comharran-lìn dhe na tabaichean…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkSelectedTabs.accesskey     "B">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -84,14 +90,24 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Gluais an taba">
+<!ENTITY  moveTabOptions.accesskey           "v">
+<!ENTITY  moveSelectedTabOptions.label       "Gluais na tabaichean">
+<!ENTITY  moveSelectedTabOptions.accesskey   "v">
+<!ENTITY  moveToStart.label                  "Gluais gun toiseach">
+<!ENTITY  moveToStart.accesskey              "S">
+<!ENTITY  moveToEnd.label                    "Gluais gun deireadh">
+<!ENTITY  moveToEnd.accesskey                "E">
 <!ENTITY  moveToNewWindow.label              "Gluais gu uinneag ùr">
 <!ENTITY  moveToNewWindow.accesskey          "G">
 <!ENTITY  reopenInContainer.label            "Ath-fhosgail san t-soitheach">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Dèan comharra-lìn de gach taba…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
+<!ENTITY  bookmarkTab.label                  "Dèan comharra-lìn dhen taba">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "B">
 <!ENTITY  undoCloseTab.label                 "Neo-dhèan dùnadh an taba">
 <!ENTITY  undoCloseTab.accesskey             "N">
 <!ENTITY  closeTab.label                     "Dùin an taba">
@@ -118,6 +134,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "C">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "Manaidsear nan saothair">
 
 <!ENTITY goOfflineCmd.label "Obraich far loidhne">
 <!ENTITY goOfflineCmd.accesskey "O">
@@ -134,18 +151,28 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Dèan comharra-lìn de gach taba…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
 
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Ath-luchdaich an taba a thagh thu">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Ath-luchdaich na tabaichean a thagh thu">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Dèan comharra-lìn dhen taba a thagh thu…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Dèan comharran-lìn dhe na tabaichean a thagh thu…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Tagh gach taba">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Neo-dhèan dùnadh an taba">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "N">
 
@@ -260,6 +287,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Fosgail panail nan teachdaireachdan">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Fosgail panail iarrtasan an ionaid">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Fosgail panail na fèin-chluich">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Fosgail panail teachdaireachdan stàladh thuilleadan">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Stiùirich cead às-tharraing a’ chanabhais">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Fosgail panail teachdaireachdan an stòrais far loidhne">
@@ -287,6 +315,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bhac thu brathan air an làrach-lìn seo.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Bhac thu stòras dàta buan mu choinneamh na làraich-lìn seo.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Bhac thu priob-uinneagan air an làrach-lìn seo.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Bhac thu fèin-chluich de mheadhanan aig a bheil fuaim air an làrach-lìn seo.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bhac thu às-tharraing dàta canabhais air an làrach-lìn seo.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bhac thu an làrach-lìn seo o bhith a’ cleachdadh plugan Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bhac thu inntrigeadh MIDI air an làrach-lìn seo.">
@@ -344,6 +373,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Leasaichear-lìn">
 <!ENTITY webDeveloperMenu.accesskey   "L">
 
+<!ENTITY devtoolsRecordExecution.label "Clàraich an gnìomhachadh">
+<!ENTITY devtoolsSaveRecording.label "Sàbhail an clàradh">
+<!ENTITY devtoolsReplayExecution.label "Ath-chluich an gnìomhachadh">
 
 <!ENTITY inspectContextMenu.label     "Sgrùd an eileamaid">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -354,6 +386,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Taba soithich ùr">
 <!ENTITY newUserContext.accesskey         "b">
+<!ENTITY manageUserContext.label          "Stiùirich na soithichean">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Uinneag ùr">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -473,6 +507,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Stiùirich an leudachan">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 
+<!ENTITY customizeMenu.removeExtension.label "Thoir an leudachan air falbh">
+<!ENTITY customizeMenu.removeExtension.accesskey "v">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -795,6 +831,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Dèanta">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
