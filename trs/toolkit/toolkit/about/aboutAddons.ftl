@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Sa dugumîn nej extensiûn
+search-header =
+    .placeholder = Nana'uì' addons.mozilla.org
+    .searchbuttonlabel = Nana'uì'
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Ga'nïnj Komplemênto asij riña archibô…
     .accesskey = I
+help-button = Nej sa hua doj riña sopôrte
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } Sa huaa
+       *[other] { -brand-short-name } Sa arâj sun yitïnjt
+    }
 tools-menu =
     .tooltiptext = Rasuun gini'ñanj daran' nej komplemênto
 show-unsigned-extensions-button =
