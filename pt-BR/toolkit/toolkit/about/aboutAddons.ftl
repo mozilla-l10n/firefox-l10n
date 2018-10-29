@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Gerenciador de extensões
+search-header =
+    .placeholder = Pesquisar addons.mozilla.org
+    .searchbuttonlabel = Pesquisar
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Instalar de um arquivo…
     .accesskey = I
+help-button = Suporte para Extensões
+preferences =
+    { PLATFORM() ->
+        [windows] Opções do { -brand-short-name }
+       *[other] Preferências do { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Ferramentas para todos os complementos
 show-unsigned-extensions-button =
