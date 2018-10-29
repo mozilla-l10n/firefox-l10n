@@ -53,6 +53,7 @@ pane-sync-title = Conta Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Suporte { -brand-short-name }
+addons-button-label = Extensões e Temas
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,9 @@ extension-controlled-homepage-override = Uma extensão, <img data-l10n-name="ico
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Uma extensão, <img data-l10n-name="icon"/> { $name }, está controlando a sua página de nova aba.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Uma extensão, <img data-l10n-name="icon"/> { $name }, está controlando esta configuração.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Uma extensão, <img data-l10n-name="icon"/> { $name }, definiu o seu mecanismo de pesquisa padrão.
@@ -323,10 +327,13 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Procurar texto quando começar a digitar
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Recomendar extensões enquanto você navega
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = Saiba mais
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy de Rede
 network-settings-title = Configurações de rede
 network-proxy-connection-description = Configure como o { -brand-short-name } se conecta à Internet.
 network-proxy-connection-learn-more = Saiba mais
@@ -592,26 +599,12 @@ sitedata-total-size-calculating = Calculando o tamanho dos dados de sites e cach
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Seus cookies, dados de sites e cache armazenados estão atualmente usando { $value } { $unit } do espaço em disco.
 sitedata-learn-more = Saiba mais
-sitedata-accept-cookies-option =
-    .label = Aceitar cookies e dados de sites (recomendado)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Bloquear cookies e dados de sites (pode quebrar páginas)
-    .accesskey = B
 sitedata-keep-until = Manter até
     .accesskey = m
 sitedata-keep-until-expire =
     .label = Expirarem
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ser fechado
-sitedata-accept-third-party-desc = Aceitar cookies e dados de site de terceiros
-    .accesskey = t
-sitedata-accept-third-party-always-option =
-    .label = Sempre
-sitedata-accept-third-party-visited-option =
-    .label = De sites visitados
-sitedata-accept-third-party-never-option =
-    .label = Nunca
 sitedata-allow-cookies-option =
     .label = Aceitar cookies e dados de sites
     .accesskey = A
@@ -735,10 +728,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nunca
     .accesskey = n
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Usar a proteção contra rastreamento na navegação privativa para bloquear rastreadores conhecidos
-    .accesskey = v
 tracking-exceptions =
     .label = Exceções…
     .accesskey = x
