@@ -11,9 +11,6 @@
 <!ENTITY  prefWindow.titleWin     "Mundësi">
 <!ENTITY  prefWindow.titleGNOME   "Parapëlqime &brandShortName;-i">
 <!ENTITY  prefWindow.titleMAC     "Parapëlqime">
-<!ENTITY  prefWindow.styleWindows "width: 60em; min-height: 38.5em;">
-<!ENTITY  prefWindow.styleMac     "width: 60em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 60em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Të përgjithshme">
 <!ENTITY paneDisplay.title        "Paraqitje">
@@ -22,8 +19,11 @@
 <!ENTITY paneAttachments.title    "Bashkëngjitje">
 <!ENTITY panePrivacy.title        "Privatësi">
 <!ENTITY paneSecurity.title       "Siguri">
+<!ENTITY paneLightning.title      "Kalendar">
 <!ENTITY paneAdvanced.title       "Të mëtejshme">
 <!ENTITY paneAccount.title        "Llogari">
+
+<!ENTITY addonsButton.label       "Zgjerimet &amp; Tema">
 
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">
