@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Sa dugumîn nej extensiûn">
 
-<!ENTITY search.placeholder                   "Nana'uì' daran nej komplemênto">
-
 <!ENTITY search.placeholder2                  "Nana'uì' riña addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Nana'uì' addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Nana'uì'">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +16,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Nu nari'ìj nej sa nahui nakàa">
 <!ENTITY listEmpty.recentUpdates.label        "Ngà si 'ngo komplemento nu nahuin nakàa ra'ñanj">
 <!ENTITY listEmpty.findUpdates.label          "Nana'uì' nej sanagi'iaj nakàa">
-<!ENTITY listEmpty.search.label               "Nu nari'ij nej komplementô nikaj dugui' ngà sa nana'uî't">
 <!ENTITY listEmpty.button.label               "Gahuin chrūn doj rayi’î nej komplemênto">
 <!ENTITY installAddonFromFile.label           "Ga'nïnj Komplemênto asij riña archibô…">
 <!ENTITY installAddonFromFile.accesskey       "I">
@@ -41,10 +40,13 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Nachrun sa dugumîn si hua hue'ê nej sa nahuin nakà riña aga' nan">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Nanà'uì'">
 <!ENTITY view.discover.label                  "Nadunïnj nej komplemênto">
 <!ENTITY view.recentUpdates.label             "Nej sa hìaj nahuin nakà">
 <!ENTITY view.availableUpdates.label          "Nej sa ga'ue nahuin nakà">
+
+<!ENTITY helpButton.label                      "Sa ga'ue natà' doj riña sopôrte">
+<!ENTITY preferencesWin.label                  "&brandShortName; Doj sa huaa">
+<!ENTITY preferencesUnix.label                 "&brandShortName; Sa nihià' ruhuât foj">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Nana'uì' sa Nahuin nakà doj">
@@ -84,8 +86,14 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Sa arajsunt doj">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "Rayi'î">
-<!ENTITY cmd.about.accesskey                  "A">
+
+
+
+
+
+
+
+
 
 <!ENTITY cmd.enableAddon.label                "Dugi'iaj sun' ma">
 <!ENTITY cmd.enableAddon.accesskey            "E">
@@ -95,6 +103,10 @@
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "Ga'nïn' ruhuâ si garasunt têma">
 <!ENTITY cmd.disableTheme.accesskey           "W">
+
+
+
+
 <!ENTITY cmd.askToActivate.label              "Gachinj ni'iaj dugi'iaj sunt man">
 <!ENTITY cmd.askToActivate.tooltip            "Gachin ni'iaj garasunt komplementô nan daran' diû">
 <!ENTITY cmd.alwaysActivate.label             "Dugi'iaj sun yitïnj man">
@@ -104,6 +116,8 @@
 <!ENTITY cmd.stateMenu.tooltip                "Naduna nga ayi'ì komplementô nan íaj sunj">
 <!ENTITY cmd.installAddon.label               "Ga'nìn'">
 <!ENTITY cmd.installAddon.accesskey           "I">
+
+
 <!ENTITY cmd.uninstallAddon.label             "Guxūn">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Sa huā gi'iát">
@@ -113,6 +127,9 @@
 <!ENTITY cmd.contribute.label                 "Rugûñu'unj">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Rugûñu'unj da' nahuin hue'ê doj komplementô nan">
+
+
+
 
 <!ENTITY cmd.showReleaseNotes.label           "Gini'iaj nuguan' hua rayi'î versiôn nan">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Gini'iaj nuguan' hua rayi'î versiôn nahuin nakà nan">
@@ -132,7 +149,6 @@
 <!ENTITY detail.lastupdated.label             "Sa nagi'iaj nakà rukù nïn't">
 <!ENTITY detail.creator.label                 "Desarroyadô">
 <!ENTITY detail.homepage.label                "Riña ayi'ì'">
-<!ENTITY detail.numberOfDownloads.label       "Nadunínj">
 
 <!ENTITY detail.contributions.description     "Dugui' narirà complementô nan ni achín ni'iaj si da' rugûñu'unjt doj san'anj si da' gi'iaj sun si guendâ nahuin hue'ej doj.">
 
@@ -161,28 +177,15 @@
 <!-- ratings -->
 <!ENTITY rating2.label                        "Antaj nikò guìi araj sun man">
 
+
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Duyichin' akuan'">
+
 <!ENTITY progress.cancel.tooltip              "Dure'">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Si yugui">
-<!ENTITY sort.name.tooltip                    "Nagi'iaj chre' daj hua ma'an si yugui">
-<!ENTITY sort.dateUpdated.label               "Sa nagi'iaj nakà rukù nïn't">
-<!ENTITY sort.dateUpdated.tooltip             "Nagi'iaj chre' da' diû gahui man">
-<!ENTITY sort.relevance.label                 "Sa 'iaj sun hue'ê doj">
-<!ENTITY sort.relevance.tooltip               "Nagi'iaj chre' daj hua ña'an man doj">
-<!ENTITY sort.price.label                     "Sa du'ue">
-<!ENTITY sort.price.tooltip                   "Nagi'iaj chre' da' du'ue ma'an man">
-
-<!ENTITY search.filter2.label                 "Nanà'uì':">
-<!ENTITY search.filter2.installed.label       "Nej si komplementôj">
-<!ENTITY search.filter2.installed.tooltip     "Gini'iaj nej komplementô natuj nakà">
-<!ENTITY search.filter2.available.label       "Nej komplementô huaa">
-<!ENTITY search.filter2.available.tooltip     "Gi'ni'iaj nej komplementô ga'ue ga'nïnjt">
-
 <!ENTITY addon.homepage                       "Ñanj ayi'ì'">
+
+
 <!ENTITY addon.details.label                  "Doj">
 <!ENTITY addon.details.tooltip                "Gini'iaj doj sa hua rayi'î komplementô nan">
 <!ENTITY addon.unknownDate                    "Sê sa ni'în' huin">
@@ -204,6 +207,7 @@
 <!ENTITY addon.undoRemove.label               "Nadurê'">
 <!ENTITY addon.undoRemove.tooltip             "Dunaj ginun komplemênto na gi'iaj sunj">
 <!ENTITY addon.restartNow.label               "Dunayi'ì nakà akuan' nïn">
+
 <!ENTITY addon.install.label                  "Ga'nïnj">
 <!ENTITY addon.install.tooltip                "Ga'nïnj komplementô nan">
 <!ENTITY addon.updateNow.label                "Nagi'aj nakà hìaj">
@@ -223,17 +227,6 @@
 <!ENTITY eula.accept                          "Araj yinaj ni ga'nïn man…">
 
 <!ENTITY settings.path.button.label           "Natsij ni'iajt…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "¿Nuhuin si huin nan nanj? Telemetria ni ga'ue gatu ni garauej nda nasinùnj chre.">
-<!ENTITY experiment.info.learnmore "Gahuin chrūn doj">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Sa nikaj Telemetria">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Gahuin chrūn doj…">
 

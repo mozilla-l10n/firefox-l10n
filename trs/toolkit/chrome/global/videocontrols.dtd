@@ -11,6 +11,10 @@
 <!ENTITY castingButton.castingLabel "Duguachîn' riña aga' sikà' ràa ané">
 <!ENTITY closedCaption.off "Duna'àj">
 
+<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
+     accessibility software to clarify what the slider is for. -->
+<!ENTITY volumeScrubber.label "Sa natsij nanèj">
+
 <!ENTITY stats.media "Sa ni'io'">
 <!ENTITY stats.size "Dàj yachìj man">
 <!ENTITY stats.activity "Sa hua 'iaj sunj">
@@ -47,3 +51,4 @@ unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
 <!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
+

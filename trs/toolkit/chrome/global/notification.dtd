@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "Ga'ue!">
 <!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "Doj suun huaa">
