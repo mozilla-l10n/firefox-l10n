@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Përjashtime - Mbrojtje Nga Gjurmimet
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = E keni çaktivizuar Mbrojtjen Nga Gjurmimet në këto sajte.
+permissions-exceptions-content-blocking-window =
+    .title = Përjashtime - Bllokim Lënde
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = E keni çaktivizuar bllokimin e lëndës në këto sajte.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Mund të përcaktoni cilëve sajte u lejohe
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Sajte të Lejuar - Vetëluajtje
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Mund të përcaktoni cilëve sajte u lejohet të luajnë vetvetiu elemente media. Shkruani adresën e përpiktë të sajtit që doni të lejohet dhe mandej klikoni mbi Lejoje.
 permissions-exceptions-autoplay-media-window2 =
     .title = Përjashtime - Vetëluajtje
     .style = { permissions-window.style }

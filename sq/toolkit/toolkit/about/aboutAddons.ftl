@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Përgjegjësi i Shtesave
+search-header =
+    .placeholder = Kërkoni te addons.mozilla.org
+    .searchbuttonlabel = Kërko
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Instaloni Shtesë Prej Kartele…
     .accesskey = I
+help-button = Asistencë Shtesash
+preferences =
+    { PLATFORM() ->
+        [windows] Mundësi { -brand-short-name }-i
+       *[other] Parapëlqime { -brand-short-name }-i
+    }
 tools-menu =
     .tooltiptext = Mjete për krejt shtesat
 show-unsigned-extensions-button =

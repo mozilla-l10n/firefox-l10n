@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Kthehuni Mbrapsht">
 <!ENTITY returnToPreviousPage1.label "Shko Mbrapsht (E këshilluar)">
 <!ENTITY advanced.label "Të mëtejshme">
-
 <!ENTITY continue2.label "Më tepër…">
 <!ENTITY moreInformation.label "Më Tepër të Dhëna">
+
+<!ENTITY viewCertificate.label "Shihni Dëshmi">
 
 <!-- Specific error messages -->
 
@@ -141,14 +142,20 @@
 
 <!ENTITY certerror.longpagetitle1 "Lidhja juaj s&apos;është e sigurt">
 <!ENTITY certerror.longpagetitle2 "Kujdes: Rrezik Potencial Sigurie Përpara">
+<!ENTITY certerror.sts.longpagetitle  "Nuk U Lidh: Çështje Potenciale Sigurie">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "I zoti i <span class='hostname'/> e ka formësuar sajtin e vet jo siç duhet.  Që të mbrohen të dhënat tuaja nga vjedhja, &brandShortName;-i nuk u lidh me këtë sajt.">
-
 <!ENTITY certerror.introPara2 "&brandShortName;-i pikasi një kërcënim potencial sigurie dhe nuk vazhdoi për te <span class='hostname'/>. Nëse e vizitoni këtë sajt, gjurmuesit mund të provojnë të vjedhin të dhëna tuajat të tilla si fjalëkalime, email-e, ose hollësi kartash krediti.">
 
 <!ENTITY certerror.expiredCert.secondPara "Kjo ka shumë gjasa të vijë ngaqë ora e kompjuterit tuaj është caktuar gabim, gjë që e pengon lidhjen në mënyrë të sigurt të &brandShortName;-it.">
+
+<!ENTITY certerror.sts.introPara "&brandShortName;-i pikasi një kërcënim potencial sigurie dhe nuk vazhdoi te <span class='hostname'/>, ngaqë ky sajt lyp lidhje të sigurt.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName;-i pikasi një problem dhe nuk vazhdoi te <span class='hostname'/>. Ose sajti është i formësuar gabim, ose ora e kompjuterit tuaj është gabim.">
+<!ENTITY certerror.expiredCert.secondPara2 "Gjasat janë që të ketë skaduar dëshmia e sajtit, gjë që e pengon lidhjen e sigurt të &brandShortName;-it. Nëse vizitoni këtë sajt, agresorët mund të rreken të vjedhin të dhëna të tilla si fjalëkalime, email-e, ose hollësi kartash krediti.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Gjasat janë që të ketë skaduar dëshmia e sajtit, gjë që e pengon lidhjen e sigurt të &brandShortName;-it.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ç’mund të bëni për të?">
 
@@ -183,7 +190,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Shtoni Përjashtim…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Pranoje Rrezikun dhe Vazhdo">
 
 <!ENTITY errorReporting.automatic2 "Raportoni gabime si ky, që të ndihmoni Mozilla-n të identifikojë dhe bllokojë sajte dashakeqë">
@@ -205,6 +211,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Lidhje e Pasigurt">
 <!ENTITY certerror.pagetitle2  "Kujdes: Rrezik Potencial Sigurie Përpara">
+<!ENTITY certerror.sts.pagetitle  "Nuk U Lidh: Çështje Potenciale Sigurie">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ky sajt përdor HTTP
 Strict Transport Security (HSTS) që të tregojë se &brandShortName;-i mund të lidhet
 me të vetëm në mënyrë të sigurt. Si pasojë, s&apos;është e mundur të shtohet një përjashtim për këtë
