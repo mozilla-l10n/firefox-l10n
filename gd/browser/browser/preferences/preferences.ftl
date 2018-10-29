@@ -698,6 +698,27 @@ content-blocking-tracking-protection-option-private =
     .label = Ann an uinneagan prìobhaideach a-mhàin
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Atharraich an liosta bacaidh
+content-blocking-third-party-cookies-label =
+    .label = Briosgaidean threas-phàrtaidhean
+    .accesskey = B
+content-blocking-reject-trackers-description = Bac gach briosgaid le treas-phàrtaidh no dìreach an fheadhainn a chaidh a shuidheachadh le tracaiche.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Tha na roghainnean a shuidhich thu ann an earrann nam briosgaidean is dàta làraichean a’ bacadh atharraichean air roghainnean briosgaidean threas-phàrtaidhean.
+content-blocking-change-cookie-settings =
+    .label = Atharraich roghainnean na briosgaid
+    .accesskey = s
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Tracaichean (mholamaid seo)
+    .accesskey = T
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Tracaichean
+    .accesskey = T
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Gach briosgaid le treas-phàrtaidh (dh’fhaoidte nach obraich làraichean ri linn)
+    .accesskey = G
 
 ## Privacy Section - Tracking
 
