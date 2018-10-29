@@ -129,6 +129,7 @@ instalado.</li>
 
 <!ENTITY certerror.longpagetitle1 "Sua conexão não é segura">
 <!ENTITY certerror.longpagetitle2 "Alerta: Potencial risco de segurança à frente">
+<!ENTITY certerror.sts.longpagetitle  "Não Conectou: Potencial Problema de Segurança">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -197,6 +198,7 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 
 <!ENTITY certerror.pagetitle1  "Conexão insegura">
 <!ENTITY certerror.pagetitle2  "Alerta: Potencial risco de segurança à frente">
+<!ENTITY certerror.sts.pagetitle  "Não Conectou: Potencial Problema de Segurança">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este site usa HTTP
 Strict Transport Security (HSTS) para especificar que o &brandShortName; só pode se conectar
 a ele com segurança. Como resultado, não é possível adicionar uma exceção para este
