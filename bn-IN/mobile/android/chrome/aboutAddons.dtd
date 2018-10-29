@@ -4,12 +4,12 @@
 
 <!ENTITY aboutAddons.title2                     "অ্যাড-অনসমূহ">
 <!ENTITY aboutAddons.header2                    "আপনার Add-ons">
-<!ENTITY aboutAddons.options                    "বিকল্প">
 
 <!ENTITY addonAction.enable                     "সক্রিয় করুন">
 <!ENTITY addonAction.disable                    "নিষ্ক্রিয় করুন">
 <!ENTITY addonAction.uninstall                  "আন-ইনস্টল করুন">
 <!ENTITY addonAction.undo                       "পূর্বাবস্থা">
+<!ENTITY addonAction.update                     "আপডেট">
 
 <!ENTITY addonUnsigned.message                  "&brandShortName;. দ্বারা এই অ্যাড অন টি কে যাচাই করা যায় নি">
 <!ENTITY addonUnsigned.learnMore                "আরও জানুন">
