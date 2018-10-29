@@ -41,6 +41,9 @@
 <!ENTITY runtimeMenu_showSettings_label "Rregullime mbi Pajisjen">
 <!ENTITY runtimeMenu_showSettings_accesskey "R">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "Punim">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
+
 <!ENTITY viewMenu_label "Pamje">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_zoomin_label "Zmadhojeni">
@@ -75,7 +78,6 @@
 <!ENTITY runtimePanel_wifi "Pajisje Wi-Fi">
 <!ENTITY runtimePanel_other "Tjetër">
 <!ENTITY runtimePanel_noadbhelper "Instaloni ADB Helper">
-<!ENTITY runtimePanel_noadbextension "Instalo Zgjerimin ADB">
 <!ENTITY runtimePanel_nousbdevice "Nuk e shihni pajisjen tuaj?">
 <!ENTITY runtimePanel_refreshDevices_label "Rifresko Pajisjet">
 
