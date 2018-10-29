@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " na leanas:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "na luchdaicheas tu a-nuas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "comharran-lìn">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "lethbhreac teacsa">
 <!ENTITY aboutPrivateBrowsing.note.before                "Cha dèan brabhsadh prìobhaideach ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "do-fhaicsinneach thu">
 <!ENTITY aboutPrivateBrowsing.note.after                 " air an eadar-lìon. Chì an solaraiche-lìn no am fastaiche agad fhathast na duilleagan air an tadhail thu.">
@@ -30,3 +31,6 @@
 <!ENTITY trackingProtection.title                        "Dìon o thracadh">
 <!ENTITY trackingProtection.description2                 "Cleachdaidh cuid a làraichean-lìn tracaichean a chumas sùil air na nì thu air an eadar-lìon. Ma chleachdas tu an dìon o thracadh, bacaidh Firefox mòran thracaichean a chruinneachadh dàta mun ghiùlan bhrabhsaidh agad.">
 <!ENTITY trackingProtection.startTour1                   "Seo mar a dh’obraicheas e">
+
+<!ENTITY contentBlocking.title                           "Bacadh susbaint">
+<!ENTITY contentBlocking.description                     "Cleachdaidh cuid a làraichean-lìn tracaichean a chumas sùil air do ghnìomhachd air feadh an eadar-lìn. Ann an uinneagan prìobhaideach, bacaidh an gleus bacadh susbaint aig Firefox tracaichean gu fèin-obrachail a chruinnicheas fiosrachadh mun bhrabhsadh a nì thu.">
