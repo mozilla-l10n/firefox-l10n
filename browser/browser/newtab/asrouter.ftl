@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Jo Tani
     .accesskey = J
 cfr-doorhanger-extension-ok-button = Shtoje Tani
     .accesskey = S
+cfr-doorhanger-extension-manage-settings-button = Administroni Rregullimet Mbi Rekomandimet
+    .accesskey = A
+cfr-doorhanger-extension-never-show-recommendation = Mos Ma Shfaq Këtë Rekomandim
+    .accesskey = o
 cfr-doorhanger-extension-learn-more-link = Mësoni më tepër
 # This string is used on a new line below the add-on name
 # Variables:

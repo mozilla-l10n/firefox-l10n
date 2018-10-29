@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Gjuhë
-    .style = width: 30em
 webpage-languages-window =
     .title = Rregullime Gjuhe Faqeje
     .style = width: 40em
@@ -45,3 +42,14 @@ browser-languages-window =
     .title = Rregullime Gjuhe { -brand-short-name }-i
     .style = width: 40em
 browser-languages-description = Si parazgjedhjen tuaj, { -brand-short-name }-i do të shfaqë gjuhën e parë dhe do të shfaqë gjuhë alternative, në u dashtë, sipas radhës që duken.
+browser-languages-search = Kërkoni për më tepër gjuhë…
+browser-languages-searching =
+    .label = Po kërkohet për gjuhë…
+browser-languages-downloading =
+    .label = Po shkarkohet…
+browser-languages-select-language =
+    .label = Përzgjidhni gjuhë për t’u shtuar…
+    .placeholder = Përzgjidhni gjuhë për t’u shtuar…
+browser-languages-installed-label = Gjuhë të instaluara
+browser-languages-available-label = Gjuhë të Mundshme
+browser-languages-error = { -brand-short-name } nuk mund të përditësojë gjuhët tuaja tani. Kontrolloni se jeni të lidhur në internet ose riprovoni.
