@@ -4,8 +4,10 @@
 <!ENTITY addons.windowTitle                   "Përgjegjësi i Shtesave">
 
 <!ENTITY search.placeholder2                  "Kërkoni te addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Kërkoni te addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Kërko">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -41,6 +43,10 @@
 <!ENTITY view.discover.label                  "Merrni Shtesa">
 <!ENTITY view.recentUpdates.label             "Përditësime Së Fundi">
 <!ENTITY view.availableUpdates.label          "Përditësime të Passhme">
+
+<!ENTITY helpButton.label                      "Asistencë Shtesash">
+<!ENTITY preferencesWin.label                  "Mundësi &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Parapëlqime &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Kontrollo për Përditësime">
@@ -80,8 +86,14 @@
 <!ENTITY cmd.preferencesWin.accesskey         "M">
 <!ENTITY cmd.preferencesUnix.label            "Parapëlqime">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "Rreth">
-<!ENTITY cmd.about.accesskey                  "R">
+
+
+
+
+
+
+
+
 
 <!ENTITY cmd.enableAddon.label                "Aktivizoje">
 <!ENTITY cmd.enableAddon.accesskey            "A">
@@ -91,6 +103,10 @@
 <!ENTITY cmd.enableTheme.accesskey            "V">
 <!ENTITY cmd.disableTheme.label               "Hiqja Temën">
 <!ENTITY cmd.disableTheme.accesskey           "H">
+
+
+
+
 <!ENTITY cmd.askToActivate.label              "Pyet për Aktivizim">
 <!ENTITY cmd.askToActivate.tooltip            "Pyet çdo herë për përdorimin e kësaj shtese">
 <!ENTITY cmd.alwaysActivate.label             "Aktivizoje Përherë">
@@ -100,6 +116,8 @@
 <!ENTITY cmd.stateMenu.tooltip                "Ndryshoje kur xhiron kjo shtesë">
 <!ENTITY cmd.installAddon.label               "Instaloje">
 <!ENTITY cmd.installAddon.accesskey           "I">
+
+
 <!ENTITY cmd.uninstallAddon.label             "Hiqe">
 <!ENTITY cmd.uninstallAddon.accesskey         "H">
 <!ENTITY cmd.showPreferencesWin.label         "Mundësi">
@@ -109,6 +127,9 @@
 <!ENTITY cmd.contribute.label                 "Kontribuoni">
 <!ENTITY cmd.contribute.accesskey             "K">
 <!ENTITY cmd.contribute.tooltip               "Kontribuoni në zhvillimin e kësaj shtese">
+
+
+
 
 <!ENTITY cmd.showReleaseNotes.label           "Shfaq Shënime Versioni">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Shfaqni shënimet e versionit për këtë përditësim">
@@ -128,7 +149,6 @@
 <!ENTITY detail.lastupdated.label             "Përditësuar Së Fundi Më">
 <!ENTITY detail.creator.label                 "Zhvillues">
 <!ENTITY detail.homepage.label                "Kreu">
-<!ENTITY detail.numberOfDownloads.label       "Shkarkime">
 
 <!ENTITY detail.contributions.description     "Zhvilluesi i kësaj shtese do të dëshironte që përmes një kontributi të vogël të ndihmonit zhvillimin e saj në vazhdimësi.">
 
@@ -157,18 +177,15 @@
 <!-- ratings -->
 <!ENTITY rating2.label                        "Vlerësim">
 
+
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Ndalesë">
+
 <!ENTITY progress.cancel.tooltip              "Anulim">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Emër">
-<!ENTITY sort.name.tooltip                    "Renditini sipas emrave">
-<!ENTITY sort.dateUpdated.label               "Përditësuar Së Fundi Më">
-<!ENTITY sort.dateUpdated.tooltip             "Renditini sipas datës së përditësimit">
-
 <!ENTITY addon.homepage                       "Kreu">
+
+
 <!ENTITY addon.details.label                  "Më Tepër">
 <!ENTITY addon.details.tooltip                "Shfaqni më tepër hollësi mbi këtë shtesë">
 <!ENTITY addon.unknownDate                    "E panjohur">
@@ -190,6 +207,7 @@
 <!ENTITY addon.undoRemove.label               "Zhbëje">
 <!ENTITY addon.undoRemove.tooltip             "Mbajeni të instaluar këtë shtesë">
 <!ENTITY addon.restartNow.label               "Rinise tani">
+
 <!ENTITY addon.install.label                  "Instaloje">
 <!ENTITY addon.install.tooltip                "Instalojeni këtë shtesë">
 <!ENTITY addon.updateNow.label                "Përditësoje Tani">
@@ -209,17 +227,6 @@
 <!ENTITY eula.accept                          "Pranoje dhe Instaloje…">
 
 <!ENTITY settings.path.button.label           "Shfletoni…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Po kjo ç'është? Telemetry-a mund të instalojë dhe kryejë herë pas here eksperimente.">
-<!ENTITY experiment.info.learnmore "Mësoni Më Tepër">
-<!ENTITY experiment.info.learnmore.accesskey "M">
-<!ENTITY experiment.info.changetelemetry "Rregullime Telemetry-e">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Mësoni Më Tepër…">
 

@@ -53,6 +53,7 @@ pane-sync-title = Llogari Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Asistencë { -brand-short-name }-i
+addons-button-label = Zgjerime &amp; Tema
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,9 @@ extension-controlled-homepage-override = Faqen tuaj hyrëse e kontrollon një zg
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Faqen tuaj Skedë e Re e kontrollon një zgjerim, <img data-l10n-name="icon"/> { $name }.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Një zgjerim, <img data-l10n-name="icon"/> { $name }, po kontrollon këtë rregullim.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Motorin tuaj parazgjedhje për kërkime e ka caktuar një zgjerim, <img data-l10n-name="icon"/> { $name }.
@@ -323,10 +327,13 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Kërko për tekst kur niset të shtypet
     .accesskey = t
+browsing-cfr-recommendations =
+    .label = Rekomandoni zgjerime teksa shfletoni
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = Mësoni Më Tepër
 
 ## General Section - Proxy
 
-network-proxy-title = Ndërmjetës Rrjeti
 network-settings-title = Rregullime Rrjeti
 network-proxy-connection-description = Formësoni se si lidhet në internet { -brand-short-name }-i.
 network-proxy-connection-learn-more = Mësoni Më Tepër
@@ -525,6 +532,7 @@ privacy-header = Privatësi Shfletuesi
 ## Privacy Section - Forms
 
 forms-header = Formularë & Fjalëkalime
+logins-header = Kredenciale Hyrjesh & Fjalëkalime
 forms-ask-to-save-logins =
     .label = Pyet të ruhen apo jo kredenciale hyrjesh dhe fjalëkalime për sajte
     .accesskey = P
@@ -591,26 +599,12 @@ sitedata-total-size-calculating = Po njehsohet madhësi të dhënash sajtesh dhe
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cookie-t, të dhënat tuaja të sajteve dhe fshehtina përdorin deri sot { $value } { $unit } hapësirë disku.
 sitedata-learn-more = Mësoni më tepër
-sitedata-accept-cookies-option =
-    .label = Prano nga sajte cookies dhe të dhëna sajtesh (e këshilluar)
-    .accesskey = P
-sitedata-block-cookies-option =
-    .label = Blloko cookies dhe të dhëna sajtesh (mund të shkaktojë mosfunksionim sajtesh)
-    .accesskey = B
 sitedata-keep-until = Mbaji
     .accesskey = M
 sitedata-keep-until-expire =
     .label = Deri sa të skadojnë
 sitedata-keep-until-closed =
     .label = { -brand-short-name } të mbyllet
-sitedata-accept-third-party-desc = Prano cookies palësh të treta dhe të dhëna sajtesh
-    .accesskey = l
-sitedata-accept-third-party-always-option =
-    .label = Përherë
-sitedata-accept-third-party-visited-option =
-    .label = Nga të vizituarit
-sitedata-accept-third-party-never-option =
-    .label = Kurrë
 sitedata-allow-cookies-option =
     .label = Prano të dhëna cookie-sh dhe sajti
     .accesskey = P
@@ -684,6 +678,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Gjurmues Ngadalësues
     .accesskey = G
 content-blocking-fastblock-new-description = Blloko vetëm gjurmuesit që pengojnë ngarkimin e shpejtë të faqeve.
+content-blocking-tracking-protection-trackers-label =
+    .label = Gjurmues
+    .accesskey = G
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Krejt Gjurmuesit e Pikasur
     .accesskey = K
@@ -731,10 +728,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Kurrë
     .accesskey = u
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Përdore Mbrojtjen Nga Gjurmimet gjatë Shfletimesh Private për bllokim të gjurmuesve të ditur
-    .accesskey = v
 tracking-exceptions =
     .label = Përjashtime…
     .accesskey = a
