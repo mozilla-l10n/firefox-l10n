@@ -37,3 +37,5 @@ energy-impact-low = Baixo (($value))
 
 close-tab =
     .title = Fechar aba
+show-addon =
+    .title = Mostrar no Gerenciador de Extensões
