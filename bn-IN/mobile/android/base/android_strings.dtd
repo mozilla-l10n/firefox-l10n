@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "পরবর্তী">
 
 <!ENTITY firstrun_tabqueue_title "লিংকসমূহ">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "ট্যাব সারিগুলি চালু করুন">
-<!ENTITY firstrun_tabqueue_subtext_off "&brandShortName; লিংকগুলিকে পরের জন্য সংরক্ষণ করুন যখন তাদের অন্যান্য অ্যাপ্লিকেশনে ট্যাপ করছেন।">
-
-<!ENTITY firstrun_tabqueue_message_on "সফল!">
-<!ENTITY firstrun_tabqueue_subtext_on "আপনি সবসময় এগুলিকে &pref_category_general; নীচে &settings; এ বন্ধ করতে পারেন।">
 
 <!ENTITY firstrun_readerview_title "প্রবন্ধগুলি">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,6 +63,14 @@
 <!ENTITY  crash_restart_label "&brandShortName; পুনরায় চালু করুন">
 
 <!ENTITY url_bar_default_text2 "ঠিকানা অনুসন্ধান করুন অথবা দিন">
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "ঠিকানা অনুসন্ধান করতে বা লিখতে আপনার QR রিডার ব্যবহার করুন">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "ঠিকানা অনুসন্ধান করতে বা লিখতে আপনার মাইক্রোফোন ব্যবহার করুন">
 
 <!ENTITY bookmark "বুকমার্ক">
 <!ENTITY bookmark_remove "বুকমার্ক মুছে ফেলুন">
@@ -206,7 +208,7 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ট্যাব, তথ্য সেভার নির্বাচন করে, ডেভেলপার টুলস পুনরুদ্ধার করুন">
 <!ENTITY pref_category_notifications "সূচনাবার্তা">
-<!ENTITY pref_category_notifications_summary "নতুন বৈশিষ্ট্যগুলি, ওয়েবসাইট আপডেটগুলি">
+<!ENTITY pref_category_notifications_summary2 "নতুন বৈশিষ্ট্য, পণ্যের টিপগুলি">
 <!ENTITY pref_developer_remotedebugging_usb "USB- এর মাধ্যমে দূরবর্তী ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi- এর মাধ্যমে দূরবর্তী ডিবাগিং">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ডিবাগিং -র জন্য একটি QR কোড রিডার অ্যাপ্লিকেশন ইনস্টল করা ডিভাইসের প্রয়োজন।">
@@ -282,6 +284,17 @@
 <!ENTITY pref_whats_new_notification "&brandShortName; তে নতুন কি আছে">
 <!ENTITY pref_whats_new_notification_summary "আপডেটের পরে নতুন বৈশিষ্ট্যগুলির ব্যাপারে শিখুন">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "পণ্য এবং বৈশিষ্ট্যের টিপগুলি">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "&brandShortName; এবং অন্যান্য &vendorShortName; -র পণ্যের ব্যবহার সম্পর্কে আরও জানুন">
+
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "পরীক্ষামূলক বৈশিষ্ট্য">
@@ -354,7 +367,6 @@
 <!ENTITY pref_use_system_font_size_summary "সিস্টেম ফন্ট সাইজ অনুযায়ী ওয়েব সামগ্রী স্কেল করুন">
 
 <!ENTITY pref_media_autoplay_enabled "নিজে থেকে চালু হওয়ার অনুমতি দিন">
-<!ENTITY pref_media_autoplay_enabled_summary "ওয়েবসাইট গুলি ভিডিও এবং অন্যান্য মিডিয়া নিজে থেকে চালু করবে নাকি তা নিয়ন্ত্রণ করুন">
 <!ENTITY pref_zoom_force_enabled "সর্বদা জুম সক্রিয় রাখুন">
 <!ENTITY pref_zoom_force_enabled_summary "ওভাররাইডকে জোর করুন যাতে আপনি সমস্ত পাতা জুম করতে পারেন">
 <!ENTITY pref_voice_input "Voice ইনপুট">
@@ -422,7 +434,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; স্বাস্থ্য প্রতিবেদক">
 <!ENTITY datareporting_fhr_summary2 "আপনার ব্রাউসারের স্বাস্থ্য সম্বন্ধে &vendorShortName; এর সাথে ডেটা শেয়ার করে  এবং আপনাকে সাহায্য করে আপনার ব্রাউসারের কার্যকারিতা অনুধাবন করতে">
-<!ENTITY datareporting_abouthr_title "আমার স্বাস্থ্য প্রতিবেদনটি দেখি">
 <!ENTITY datareporting_telemetry_title "টেলিমেট্রি">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; কে আরও ভাল করে তুলতে আমাদের সাহায্য করার জন্য আপনার ব্রাউজারের কর্মক্ষমতা, ব্যবহার, হার্ডওয়্যার এবং স্বনির্ধারণ সম্পর্কিত তথ্য &vendorShortName; কে জানায়">
 <!ENTITY datareporting_crashreporter_summary "আপনার ব্রাউজারকে আরও স্থিতিশীল এবং নিরাপদ করতে সাহায্য করার জন্য &brandShortName; &vendorShortName; কে ক্র্যাশ রিপোর্ট পাঠাচ্ছে">
@@ -431,6 +442,10 @@
 <!ENTITY datareporting_crashreporter_title_short "বিপর্যয় প্রতিবেদক">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; অবস্থান পরিষেবা">
 <!ENTITY datareporting_wifi_geolocation_summary4 "সাহায্য করুন &vendorShortName; পৃথিবীকে ম্যাপ করুন! আপনার ডিভাইসের Wi-Fi এবং সেলুলার অবস্থান শেয়ার করুন আমাদের ভৈগোলিক অবস্থানের সার্ভিসকে সাহায্য করার জন্য।">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -454,6 +469,7 @@
 <!ENTITY share_image_failed "এই ছবিটি শেয়ার করা যাচ্ছে না">
 <!ENTITY save_as_pdf "PDF আকারে সংরক্ষণ করুন">
 <!ENTITY print "মুদ্রণ">
+<!ENTITY view_page_source "পৃষ্ঠার সোর্স দেখুন">
 <!ENTITY find_in_page "পেজে খুঁজুন">
 <!ENTITY desktop_mode "ডেস্কটপ সাইটের জন্য অনুরোধ করুন">
 <!ENTITY page "পেজ">
@@ -485,7 +501,6 @@
 <!ENTITY contextmenu_open_new_tab "নতুন ট্যাবের মধ্যে খুলুন">
 <!ENTITY contextmenu_open_private_tab "ব্যাক্তিগত ট্যাবে খুলুন">
 <!ENTITY contextmenu_remove "মুছে ফেলুন">
-<!ENTITY contextmenu_add_to_launcher "হোম স্ক্রিনে যুক্ত করুন">
 <!ENTITY contextmenu_add_page_shortcut "পাতার সর্টকাট যোগ করুন">
 <!ENTITY contextmenu_set_as_homepage "হোমপেজ সেট করুন">
 <!ENTITY contextmenu_share "শেয়ার">
@@ -537,10 +552,9 @@
 <!ENTITY pref_compact_tabs_summary2 "প্রতিকৃতি মোডে দুই কলাম অনুসারে ট্যাব সুসজ্জিত করুন">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "পৃষ্ঠা সরিয়ে দেওয়া হয়েছে">
-
 <!ENTITY folder_removed "ফোল্ডার মুছে ফেলা হয়েছে">
 
 <!ENTITY bookmark_edit_title "বুকমার্ক সম্পাদনা করুন">
@@ -753,7 +767,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "সর্বশেষ বার সিঙ্ক হয়েছে: &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "শেষ সিঙ্কসমূহ: কখনই না">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -811,15 +825,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "ক্ষমা চাইছি! এই &brandShortName; এই ডিভাইসে কাজ করবে না (&formatS1;, &formatS2;)। দয়া করে সঠিক সংস্করণ ডাউনলোড করুন ।">
 
-<!ENTITY eol_notification_title2 "&brandShortName; আপডেট করবে না">
-<!ENTITY eol_notification_summary "আরো জানতে টোকা দিন?">
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
+<!ENTITY corrupt_apk "&brandShortName; খোলা যাচ্ছে না। অনুগ্রহ করে পুনরায় ইনস্টল করে আবার চেষ্টা করুন।">
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; আপডেট করা অবস্থায় রয়েছে">
 <!ENTITY whatsnew_notification_summary "এই সংস্করণে নতুন কি আছে তা অনুসন্ধান করুন">
-
-<!ENTITY promotion_add_to_homescreen "হোম স্ক্রিনে যুক্ত করুন">
 
 <!ENTITY promotion_add_page_shortcut "পাতার সর্টকাট যোগ করুন">
 
@@ -837,6 +849,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_highlights "হাইলাইটস">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
+<!ENTITY activity_stream_link_more1 "আরো">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -871,3 +884,11 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "হোম স্ক্রিনে যুক্ত করুন">
 <!ENTITY pwa_continue_to_website "ওয়েবসাইটে যান">
 <!ENTITY pwa_onboarding_sumo "তাৎক্ষিণক ব্যবহার ও অ্যাপের মত দ্রুত ব্রাউজিং অভিজ্ঞতা নিতে আপনি সহজেই এই ওয়েবসাইট আপনার হোম স্ক্রিনে যোগ করতে পারেন।">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+
+<!-- Notification channels names -->
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
