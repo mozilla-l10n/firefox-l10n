@@ -29,9 +29,9 @@ type-other = Outro
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
-energy-impact-high = Alto (($value))
-energy-impact-medium = Médio (($value))
-energy-impact-low = Baixo (($value))
+energy-impact-high = Alto ({ $value })
+energy-impact-medium = Médio ({ $value })
+energy-impact-low = Baixo ({ $value })
 
 ## Tooltips for the action buttons
 
