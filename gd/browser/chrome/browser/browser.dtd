@@ -1015,29 +1015,39 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "Bacte">
 <!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "’Gam bacadh">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "Cuir bacadh ris…">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Briosgaidean threas-phàrtaidhean">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Briosgaidean tracaidh">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Bacte">
 <!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "’Gam bacadh">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Cuir bacadh ris…">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Dèan aithris air duilgheadas">
+<!ENTITY contentBlocking.breakageReportView.label "Dèan aithris air duilgheadasan">
 
 <!ENTITY trackingProtection.title "Dìon o thracadh">
 <!ENTITY trackingProtection.tooltip "Fosgail roghainnean an dìon o thracadh">
