@@ -33,3 +33,4 @@
 <!ENTITY trackingProtection.startTour1                   "دیکھیں کہ یہ کیسے کام کرتا ہے">
 
 <!ENTITY contentBlocking.title                           "مواد روکنا">
+<!ENTITY contentBlocking.description                     "کچھ ویب سائٹ ٹریکر کا استعمال کرتے ہے جو انٹرنیٹ پر آپ کے حرکت کی نگرانی کرتے ہے۔ نجی ونڈوز میں، Firefox کے مواد روکنے کی خصوصیات خودبخود بہت سے ٹریکر کو روکتا ہے جو آپ کے براؤزنگ کے معلومات جمع کر سکتے ہے۔">
