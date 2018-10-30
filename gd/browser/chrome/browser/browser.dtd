@@ -1048,6 +1048,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Dèan aithris air duilgheadas">
 <!ENTITY contentBlocking.breakageReportView.label "Dèan aithris air duilgheadasan">
+<!ENTITY contentBlocking.breakageReportView2.description "Adhbharaichidh bacadh susbaint duilgheadasan air cuid a làraichean-lìn. Ma nì thu aithris air duilgheadas, fàsaidh &brandShortName; nas fhearr airson a h-uile duine. (Cuiridh seo URL gu Mozilla agus fiosrachadh mu roghainnean a’ bhrabhsair agad.)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Barrachd fiosrachaidh">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Dè na duilgheadasan a bha agad? (Roghainneil)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Cuir an aithisg">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Sguir dheth">
 
 <!ENTITY trackingProtection.title "Dìon o thracadh">
 <!ENTITY trackingProtection.tooltip "Fosgail roghainnean an dìon o thracadh">
@@ -1055,9 +1061,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock4.label "Cuir à comas bacadh air an làrach seo">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate4.label "Cuir am bacadh à comas rè seal">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 
 <!ENTITY pluginNotification.showAll.label "Seall na h-uile">
 <!ENTITY pluginNotification.showAll.accesskey "S">
