@@ -607,6 +607,9 @@ sitedata-keep-until-expire =
     .label = alla loro scadenza
 sitedata-keep-until-closed =
     .label = alla chiusura di { -brand-short-name }
+sitedata-delete-on-close =
+    .label = Elimina cookie e dati dei siti web alla chiusura di { -brand-short-name }
+    .accesskey = c
 
 sitedata-allow-cookies-option =
     .label = Accetta cookie e dati dei siti web
