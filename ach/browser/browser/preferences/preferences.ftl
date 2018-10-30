@@ -504,6 +504,7 @@ privacy-header = Mung pa layeny
 ## Privacy Section - Forms
 
 forms-header = Pwom ki mung me donyo
+logins-header = Donyo iyie ki mung me donyo
 forms-ask-to-save-logins =
     .label = Peny me gwoko donyo iyie ki mung me donyo pi kakube
     .accesskey = k
@@ -571,6 +572,14 @@ sitedata-keep-until-expire =
     .label = Kare gitum ii
 sitedata-keep-until-closed =
     .label = { -brand-short-name } olore oko
+sitedata-allow-cookies-option =
+    .label = Yee angija ki data me kakube
+    .accesskey = Y
+sitedata-disallow-cookies-option =
+    .label = Geng angija ki data me kakube
+    .accesskey = G
+sitedata-block-unvisited-option =
+    .label = Angija ki ii kakube mape kilimo
 sitedata-clear =
     .label = Jwa data…
     .accesskey = j
