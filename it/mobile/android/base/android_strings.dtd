@@ -177,6 +177,8 @@
 <!ENTITY pref_feature_tips_notification "Suggerimenti relativi a prodotti e caratteristiche">
 <!ENTITY pref_feature_tips_notification_summary "Informazioni relative all’utilizzo di &brandShortName; e altri prodotti di &vendorShortName;">
 <!ENTITY pref_feature_tips_notification_enabling_hint "Attiva">
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "Attiva in &pref_feature_tips_notification_enabling_path;">
 <!ENTITY pref_category_experimental "Caratteristiche sperimentali">
 <!ENTITY pref_custom_tabs2 "Schede personalizzate">
 <!ENTITY pref_custom_tabs_summary4 "Consenti alle app di aprire contenuti web in schede personalizzate">
