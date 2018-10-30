@@ -30,13 +30,13 @@
 <!ENTITY closeTabs.label "Zamknij karty">
 <!ENTITY closeTabs.accesskey "Z">
 <!ENTITY pinSelectedTabs.label "Przypnij karty">
-<!ENTITY pinSelectedTabs.accesskey "k">
+<!ENTITY pinSelectedTabs.accesskey "P">
 <!ENTITY unpinSelectedTabs.label "Odepnij karty">
-<!ENTITY unpinSelectedTabs.accesskey "k">
+<!ENTITY unpinSelectedTabs.accesskey "O">
 <!ENTITY pinTab.label "Przypnij kartę">
-<!ENTITY pinTab.accesskey "n">
+<!ENTITY pinTab.accesskey "P">
 <!ENTITY unpinTab.label "Odepnij kartę">
-<!ENTITY unpinTab.accesskey "n">
+<!ENTITY unpinTab.accesskey "O">
 <!ENTITY sendTabToDevice.label "Prześlij kartę do">
 <!ENTITY sendTabToDevice.accesskey "P">
 <!ENTITY sendPageToDevice.label "Prześlij stronę do">
