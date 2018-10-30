@@ -101,7 +101,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "Jeyɗo <span class='hostname'/> oo koko teeltii lowre mum no feewraani.  Ngam reende humpito maa hade wujjeede, &brandShortName; seŋaaki e lowre ndee.">
 <!ENTITY certerror.introPara2 "&brandShortName; tinii tanaa cooaaɗo wonande kisal, tee jokkaani haa <span class='hostname'/>. So aɗa yilloo ndee lowre, taƴooɓe ina mbaawi etaade wujjude kabaruuji baaɗi no pinle, iimeeluuji walla kabaruuji kartal keredi.">
 
+<!ENTITY certerror.expiredCert.secondPara "Ina gasa saabii ndee saɗeende ko montoor ordinateer maa reegleede e waktu mo moƴƴaani, ko ɗuum haɗata &brandShortName; seŋoraade kisal.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; yiytii huunde nde moƴƴaani e kisal, waɗde jokkaani haa <span class='hostname'/> sibu ndee lowre geese ina ɗaɓɓi ceŋol kisngol.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ko mbaaw-ɗaa heen?">
