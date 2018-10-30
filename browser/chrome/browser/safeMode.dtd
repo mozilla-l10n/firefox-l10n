@@ -11,7 +11,9 @@
 <!ENTITY safeModeDescription3.label   "Mbayka Kisal ko mbayka keeriika &brandShortName; mbaawka huutoreede ngam ñawndude caɗeele.">
 <!ENTITY safeModeDescription4.label   "Ɓeyditte maa e teelte maa peŋtore maa ndaaƴe dumunnaa seeɗa.">
 
-<!ENTITY refreshProfileInstead.label  "Aɗa waawi kadi diwde njiilaw caɗe kisa eto-ɗaa hesɗitinde &brandShortName;.">
-<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY safeModeDescription5.label   "Ɓeydon maa e teelte neɗɗinaaɗe maa ñife e mudda, tee &brandShortName;; gollirɗe ɗee no ngollirta jooni nii feewaani.">
 
+<!ENTITY refreshProfileInstead.label  "Aɗa waawi kadi diwde njiilaw caɗe kisa eto-ɗaa hesɗitinde &brandShortName;.">
+
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 <!ENTITY autoSafeModeDescription3.label "&brandShortName; uddirii bettere tuma nde hurmata. Ɗum ena waawi wonde caɗe ɓeyditte walla goɗɗe. Aɗa waawi etaade peeje ngam ñawndude caɗeele ɗee so ñawndugol e Mbayka Kisal.">
