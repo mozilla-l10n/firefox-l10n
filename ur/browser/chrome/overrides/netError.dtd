@@ -10,6 +10,8 @@
 <!ENTITY returnToPreviousPage.label "واپس جائیں">
 <!ENTITY advanced.label "اعلٰی">
 <!ENTITY continue2.label "مزید…">
+<!ENTITY moreInformation.label "مزید معلومات">
+
 
 <!-- Specific error messages -->
 
@@ -83,6 +85,8 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> کے مالک نے انکی ویب سائٹ نامناسب طرحہ سے تشکیل کی ہیں۔ آپکی معلومات کو چوری ہونے سے حفاظت کے لئے، &brandShortName; اس ویب سائٹ سے نہیں جڑا ہے۔">
+
+
 
 
 

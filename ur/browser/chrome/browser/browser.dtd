@@ -1032,8 +1032,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "بلاک کرنا شامل کریں…">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "ایک نقص رپورٹ کریں">
+<!ENTITY contentBlocking.breakageReportView.label "مسائل رپورٹ کریں">
 <!ENTITY contentBlocking.breakageReportView.learnMore "مزید سیکھیں">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "رپورٹ ارسال کریں">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "منسوخ کریں">
 
 <!ENTITY trackingProtection.title "سراغ کاری حفاظت">
