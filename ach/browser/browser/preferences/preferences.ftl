@@ -304,10 +304,11 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Yeny coc ka acako coyo coc
     .accesskey = c
+browsing-cfr-recommendations-learn-more = Nong ngec mapol
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy me netwak
+network-settings-title = Ter me Netwak
 network-proxy-connection-description = Ter kit ma { -brand-short-name } kube ki intanet.
 network-proxy-connection-learn-more = Nong ngec mapol
 network-proxy-connection-settings =
@@ -317,6 +318,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Dirica ki dirica matino manyen
+home-new-windows-tabs-description2 = Yer ngo ma ineno ka iyabo potbuk me acakki mamegi, dirica manyen, ki dirica matino manyen.
 
 ## Home Section - Home Page Customization
 
@@ -563,24 +565,12 @@ history-clear-button =
 
 sitedata-header = Angija ki Data me kakube
 sitedata-learn-more = Nong ngec mapol
-sitedata-accept-cookies-option =
-    .label = Yee angija ki data me kakube ki ii kakube (kicwako)
-    .accesskey = Y
-sitedata-block-cookies-option =
-    .label = Geng angija ki data me kakube (twero weko kakube bale)
-    .accesskey = G
 sitedata-keep-until = Gwok wang ma
     .accesskey = a
 sitedata-keep-until-expire =
     .label = Kare gitum ii
 sitedata-keep-until-closed =
     .label = { -brand-short-name } olore oko
-sitedata-accept-third-party-always-option =
-    .label = Jwijwi
-sitedata-accept-third-party-visited-option =
-    .label = Ki i ma kilimo
-sitedata-accept-third-party-never-option =
-    .label = Pe matwal
 sitedata-clear =
     .label = Jwa data…
     .accesskey = j
@@ -628,10 +618,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Pe matwal
     .accesskey = a
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Tii ki Gwokke ikom lubo kor ii Yeny me mung me gengo lulub kor ma ngene
-    .accesskey = v
 tracking-exceptions =
     .label = Ma kiweko woko…
     .accesskey = M

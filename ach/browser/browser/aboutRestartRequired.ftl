@@ -4,3 +4,6 @@
 
 restart-required-title = Mite me nwoyo cako
 restart-required-header = Tim kica. Wa mito timo gin acel matidi me mede ki wot.
+restart-required-intro = Watyeko keto ngec manyen ki ii ngec. Dii Nwo cako { -brand-short-name } me tyeko keto ne.
+restart-required-description = Wabi dwoko potbuk ni weng, dirica ki dirica matino ingeye, wek i wot i yoo ni oyot.
+restart-button-label = Nwo cako { -brand-short-name }

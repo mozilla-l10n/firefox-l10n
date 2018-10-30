@@ -23,3 +23,4 @@ policy-DisablePocket = Juk jami me gwoko potbuk me kakube i Pocket.
 policy-DisablePrivateBrowsing = Juk Yeny i mung
 policy-DisableProfileImport = Juk twero me gin ayera me kelo data ki ii layeny mukene.
 policy-DisableSecurityBypass = Geng latic kwede pe me kalo ciko mogo me ber bedo.
+policy-InstallAddonsPermission = Yee ki kakube mogo me keto med-ikome.

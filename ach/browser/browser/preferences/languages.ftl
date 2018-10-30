@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Leb
-    .style = width: 30em
 languages-close-key =
     .key = w
 languages-description = Potbuk me kakube kare mogo kikelo i leb makato acel. Yer leb me yaro potbuk magi, kit ma imito
@@ -36,3 +33,14 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+browser-languages-search = Yeny leb mukene mapol...
+browser-languages-searching =
+    .label = Tye  ka yenyo leb...
+browser-languages-downloading =
+    .label = Tye ka gamo...
+browser-languages-select-language =
+    .label = Yer leb me ameda...
+    .placeholder = Yer leb me ameda...
+browser-languages-installed-label = Leb ma kiketo
+browser-languages-available-label = Leb ma tye
+browser-languages-error = { -brand-short-name } pe twero keto leb manyen kombedi. Rot ni meno itye ma ikube ii intanet onyo tem doki.
