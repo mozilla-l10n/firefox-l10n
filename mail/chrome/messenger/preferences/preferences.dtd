@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Додатково">
 <!ENTITY paneAccount.title        "Облікові записи">
 
+<!ENTITY addonsButton.label       "Розширення і теми">
+
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">
