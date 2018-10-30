@@ -270,6 +270,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = میرے ٹائپ کرنے پر متن کے لیے تلاش شروع کریں
     .accesskey = x
+browsing-cfr-recommendations-learn-more = مزید سیکھیں
 
 ## General Section - Proxy
 
