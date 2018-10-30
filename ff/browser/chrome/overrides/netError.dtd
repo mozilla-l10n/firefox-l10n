@@ -116,6 +116,7 @@ was trying to connect. -->
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Montoor ordinateer maa tuugii ko e <span id='wrongSystemTime_systemDate2'/>. Yenane ñalngu, waktu e jurol waktu ordinateer ina teeltiraa no moƴƴi to teelte yuɓɓo too, caggal ɗuum loowtaa <span class='hostname'/></p>.
 <p>So tawii montoor maa reglaa ko e waktu moƴƴo oo, ina gasa tawa ko lowre geese ndee woni nde feewaani, ndeen noon a waawaa safrude saɗeende ndee. Aɗa waawi humptide jiiloowo lowre ndee saɗeende ndee.</p>">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Ellee saɗeende ndee jotondiri ko e lowre geese ndee tee a waawaa safrude nde. Aɗa waawi humpitde jiiloowo lowre geese ndee saɗeende ndee.</p>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Ndee lowre ena waawi tawo heɓotaako walla ko nde haljunde. Eto kadi ɗoo e ɓooyde.</li> <li>So a horiima loowde hay so hello, ƴeewto laylaytol ordinateer maa so ena seŋii.</li> <li>So tawii ordinateer walla laylaytol maa koko suraa caggal ɓalal-jaynge, yuurno so &brandShortName; ena yamiraa naatde e geese.</li> </ul>">
 
