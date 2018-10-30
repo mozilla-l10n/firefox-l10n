@@ -105,10 +105,16 @@ was trying to connect. -->
 
 <!ENTITY certerror.sts.introPara "&brandShortName; yiytii huunde nde moƴƴaani e kisal, waɗde jokkaani haa <span class='hostname'/> sibu ndee lowre geese ina ɗaɓɓi ceŋol kisngol.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; yiytii saɗeende, waɗde jokkaani haa <span class='hostname'/>. Lowre geese ndee teeltiraaka no feewi walla montoor ordinateer maa reeglaaka e waktu moƴƴo.">
+<!ENTITY certerror.expiredCert.secondPara2 "Ina gasa tawa sartifikaa lowre geese ndee ko buntuɗo, ko ɗuum haɗata &brandShortName; seŋoraade kisal. So aɗa yilloo ndee lowre, yanooɓe ina mbaawi etaade wujjude kabaruuji baaɗi no pinle, iimeeluuji walla kabaruuji karal keredi.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Ina gasa tawa sartifikaa lowre geese ndee ko buntuɗo, ko ɗuum haɗata &brandShortName; seŋoraade kisal.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ko mbaaw-ɗaa heen?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Ina gasa tawa saɗeende ndee jotondiri ko e lowre geese ndee, alaa ko mbaaw-ɗaa waɗde ngam safrude ɗum.</p><p>So tawii ngon-ɗaa ko e laylaytol antampiris walla so tawii aɗa huutoroo lidduwiris, aɗa waawi jokkondirde e kippuuji tammbol ngam heɓde ballal. Aɗa waawi kadi humpitde jiiloowo lowre geese ndee saɗeende ndee.</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Montoor ordinateer maa tuugii ko e <span id='wrongSystemTime_systemDate2'/>. Yenane ñalngu, waktu e jurol waktu ordinateer ina teeltiraa no moƴƴi to teelte yuɓɓo too, caggal ɗuum loowtaa <span class='hostname'/></p>.
+<p>So tawii montoor maa reglaa ko e waktu moƴƴo oo, ina gasa tawa ko lowre geese ndee woni nde feewaani, ndeen noon a waawaa safrude saɗeende ndee. Aɗa waawi humptide jiiloowo lowre ndee saɗeende ndee.</p>">
 
 
 <!ENTITY sharedLongDesc "<ul> <li>Ndee lowre ena waawi tawo heɓotaako walla ko nde haljunde. Eto kadi ɗoo e ɓooyde.</li> <li>So a horiima loowde hay so hello, ƴeewto laylaytol ordinateer maa so ena seŋii.</li> <li>So tawii ordinateer walla laylaytol maa koko suraa caggal ɓalal-jaynge, yuurno so &brandShortName; ena yamiraa naatde e geese.</li> </ul>">
