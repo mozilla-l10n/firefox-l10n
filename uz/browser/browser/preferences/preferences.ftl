@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -73,6 +65,17 @@ should-restart-ok = { -brand-short-name }ni hozir qayta ishga tushirish
 cancel-no-restart-button = Bekor qilish
 restart-later = Keyinroq qayta ishga tushirish
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Qidiruv natijalari
@@ -102,17 +105,8 @@ is-not-default = { -brand-short-name } - standart brauzeringiz emas
 set-as-my-default-browser =
     .label = Asosiy sifatida o‘rnatish
     .accesskey = A
-startup-page = { -brand-short-name } ishga tushirilganda:
-    .accesskey = i
-startup-user-homepage =
-    .label = Bosh sahifa ko‘rsatilsin
-startup-blank-page =
-    .label = Bo‘sh sahifa ko‘rsatilsin
-startup-prev-session =
-    .label = So‘nggi marta ochilgan barcha oynalar ko‘rsatilsin
 disable-extension =
     .label = Kengaytmani o‘chirib qo‘yish
-home-page-header = Bosh sahifa ko‘rsatilsin
 tabs-group-header = Ichki oynalar
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab yordamida ichki oynalarga so‘nggi foydalanish tartibida o‘tish mumkin
@@ -231,7 +225,6 @@ play-drm-content =
 play-drm-content-learn-more = Batafsil ma’lumot
 update-application-title = { -brand-short-name } yangilanishlari
 update-application-description = { -brand-short-name } tez, barqaror va xavfsiz bo‘lishi uchun muntazam yangilab turing.
-update-application-info = Versiyasi{ $version } <a>Yangi xususiyatlar</a>
 update-application-version = Versiyasi{ $version } <a data-l10n-name="learn-more">Yangi xususiyatlar</a>
 update-history =
     .label = Yangilash tarixini koʻrsatish…
@@ -267,7 +260,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Kontent jarayoni cheklovi
     .accesskey = c
 performance-limit-content-process-enabled-desc = Bir nechta ichki oynalardan foydalanilganda qo‘shimcha kontent jarayoni samaradorlikni oshiradi, ammo ko‘proq xotiradan foydalanadi.
-performance-limit-content-process-disabled-desc = Kontent jarayoni miqdorini o‘zgartirish faqatgina { -brand-short-name } multijarayonlari bilan mavjud.  <a>Multijarayonlar yoqilganda tekshirish usuli</a>
 performance-limit-content-process-blocked-desc = Kontent jarayoni miqdorini o‘zgartirish faqatgina { -brand-short-name } multijarayonlari bilan mavjud.  <a data-l10n-name="learn-more">Multijarayonlar yoqilganda tekshirish usuli</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -287,7 +279,7 @@ browsing-use-onscreen-keyboard =
     .label = Kerak bo‘lganda terish uchun klaviaturani ko‘rsatish
     .accesskey = k
 browsing-use-cursor-navigation =
-    .label = Doimo koʻrsatkich tugmalaridan sahifani kuzatish uchun foydalanish 
+    .label = Doimo koʻrsatkich tugmalaridan sahifani kuzatish uchun foydalanish
     .accesskey = k
 browsing-search-on-start-typing =
     .label = Yozishni boshlaganimda, matn izlansin
@@ -295,7 +287,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Tarmoq proksisi
 network-proxy-connection-learn-more = Batafsil ma’lumot
 network-proxy-connection-settings =
     .label = Sozlamalar…
@@ -337,9 +328,6 @@ use-current-pages =
 choose-bookmark =
     .label = Xatcho‘pdan foydalanish
     .accesskey = X
-restore-default =
-    .label = Asliga tiklash
-    .accesskey = t
 
 ## Search Section
 
@@ -536,9 +524,6 @@ history-dontremember-description = { -brand-short-name } xuddi shu moslamalardan
 history-private-browsing-permanent =
     .label = Doimo maxfiy ko‘rish usulidan foydalanish
     .accesskey = m
-history-remember-option =
-    .label = Kirgan saytlarim va yuklab olish tarixini eslab qolinsin
-    .accesskey = e
 history-remember-search-option =
     .label = Izlash va tarix shakli eslab qolinsin
     .accesskey = s
@@ -556,26 +541,12 @@ history-clear-button =
 
 sitedata-header = Kuki va sayt ma’lumotlari
 sitedata-learn-more = Batafsil ma’lumot
-sitedata-accept-cookies-option =
-    .label = Sayt ma’lumot va kukilariga ruxsat bering (tavsiya qilinadi)
-    .accesskey = a
-sitedata-block-cookies-option =
-    .label = Sayt ma’lumotlari va kukilarni bloklash (saytlarning buzilishiga sabab bo‘lishi mumkin)
-    .accesskey = S
 sitedata-keep-until = Saqlash muddati
     .accesskey = u
 sitedata-keep-until-expire =
     .label = Eskirish muddati
 sitedata-keep-until-closed =
     .label = { -brand-short-name } yopildi
-sitedata-accept-third-party-desc = Uchinchi tomon sayt ma’lumotlari va kukilariga rozi bo‘lish
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = Doimo
-sitedata-accept-third-party-visited-option =
-    .label = Kirilganlardan
-sitedata-accept-third-party-never-option =
-    .label = Hech qachon
 sitedata-clear =
     .label = Ma’lumotlarni tozalash
     .accesskey = l
@@ -601,6 +572,9 @@ addressbar-locbar-openpage-option =
     .accesskey = o
 addressbar-suggestions-settings = Qidiruv tizimi tavsiyalari uchun sozlamalarni o‘zgartirish
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 tracking-header = Kuzatuvdan himoyalanish
@@ -615,10 +589,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Hech qachon
     .accesskey = H
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Ma’lum bo‘lgan kuzatuvchilardani bloklash uchun "Maxfiy ko‘rish" rejimida "Kuzatishdan himoyalanish" funksiyasidan foydalaning.
-    .accesskey = m
 tracking-exceptions =
     .label = Istisnolar…
     .accesskey = I
