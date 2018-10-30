@@ -1068,6 +1068,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate4.label "Cuir am bacadh à comas rè seal">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "Cuir an comas bacadh air an làrach seo">
+<!ENTITY trackingProtection.block5.accesskey "E">
+<!ENTITY trackingProtection.reload2.label "Ath-luchdaich an duilleag">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "Seall na h-uile">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -1171,6 +1175,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "A’ sioncronachadh nan uidheam...">
 
 <!ENTITY pageAction.shareUrl.label "Co-roinn">
+<!ENTITY pageAction.shareMore.label "Barrachd…">
 
 <!ENTITY libraryButton.tooltip "Seall air an eachdraidh, comharran-lìn a shàbhail thu ’s mòran a bharrachd">
 
