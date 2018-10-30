@@ -291,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Mësoni më tepër rreth përdorimit të &brandShortName;-it dhe të tjerë produktesh &vendorShortName;">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "Aktivizojeni">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Veçori eksperimentale">
@@ -364,7 +369,6 @@
 <!ENTITY pref_use_system_font_size_summary "Ripërmasoje lëndën web sipas madhësisë së shkronjave të sistemit">
 
 <!ENTITY pref_media_autoplay_enabled "Lejo vetëluajtje">
-<!ENTITY pref_media_autoplay_enabled_summary "Kontrollo nëse sajtet mund të vetëluajnë video dhe tjetër lëndë media">
 <!ENTITY pref_media_autoplay_allow "Lejo vetëluajtje">
 <!ENTITY pref_media_autoplay_block "Bllokoje vetëluajtjen">
 <!ENTITY pref_zoom_force_enabled "Aktivizoje përherë zoom-in">
@@ -829,9 +833,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "S’arrihet të hapet &brandShortName;-i. Ju lutemi, ri-instalojeni dhe riprovoni.">
 
-<!ENTITY eol_notification_title2 "&brandShortName;-i nuk do të përditësohet më">
-<!ENTITY eol_notification_summary "Prekeni që të mësoni më tepër">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName;-i është i përditësuar">
@@ -905,3 +906,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "Njoftime Push &brandShortName;">
 <!ENTITY updater_notification_channel "Përditësime aplikacioni">
 <!ENTITY synced_tabs_notification_channel "Skeda të njëkohësuara">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Njoftime sajti">
