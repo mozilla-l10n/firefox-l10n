@@ -983,21 +983,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Thèid fuaim on taba a cho-roinneadh.">
 <!ENTITY getUserMedia.allWindowsShared.message "Thèid gach uinneag a tha ri fhaicinn air an sgrìn agad a cho-roinneadh.">
 
+<!ENTITY contentBlocking.title "Bacadh susbaint">
+<!ENTITY contentBlocking.detected "Mhothaich sinn gu bheil susbaint air an làrach seo as urrainn dhuinn bacadh.">
+<!ENTITY contentBlocking.notDetected "Chan eil susbaint as urrainn dhuinn bacadh air an duilleag seo.">
+<!ENTITY contentBlocking.disabled.label "À comas">
+<!ENTITY contentBlocking.disabled.tooltip "Chuir thu bacadh susbaint à comas.">
+<!ENTITY contentBlocking.exception.tooltip "Chuir thu bacadh susbaint à comas air an làrach seo.">
 
+<!ENTITY contentBlocking.fastBlock.label "Tracaichean a tha slaodach ’gan luchdadh">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Bacte">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
      "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "’Gam bacadh">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "Cuir bacadh ris…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Gach tracaiche ris am mothaich sinn">
+<!ENTITY contentBlocking.trackingProtection3.label "Tracaichean">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
