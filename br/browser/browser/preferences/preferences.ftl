@@ -672,13 +672,13 @@ content-blocking-restore-defaults =
     .label = Assav dre ziouer
     .accesskey = A
 content-blocking-toggle-on =
-    .tooltiptext = Diweredekaat stankañ an endalc'hadoù
+    .tooltiptext = Diweredekaat ar stankadur endalc'had
 content-blocking-toggle-off =
-    .tooltiptext = Gweredekaat stankañ an endalc'hadoù
-content-blocking-toggle-label-on = ON
-    .accesskey = O
-content-blocking-toggle-label-off = DIWEREDEKAET
-    .accesskey = D
+    .tooltiptext = Gweredekaat ar stankadur endalc'had
+content-blocking-toggle-label-on = YA
+    .accesskey = Y
+content-blocking-toggle-label-off = KET
+    .accesskey = K
 content-blocking-category-label = Dibabit petra stankañ
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they

@@ -6,7 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Amprouit bremañ
-onboarding-welcome-header = Degemer mat war { -brand-short-name }
+onboarding-welcome-header = Donemat war { -brand-short-name }
 onboarding-start-browsing-button-label = Stagañ da verdeiñ
 
 ## These strings belong to the individual onboarding messages.

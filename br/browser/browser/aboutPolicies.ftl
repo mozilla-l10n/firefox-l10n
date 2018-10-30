@@ -6,7 +6,7 @@ about-policies-title = Reolennoù embregerezh
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Oberiant
 errors-tab = Fazioù
-documentation-tab = Titouroù
+documentation-tab = Teuliadur
 policy-name = Anv ar reolenn
 policy-value = Gwerzh ar reolenn
 policy-errors = Fazioù ar reolenn
