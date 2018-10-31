@@ -91,17 +91,37 @@
 <!ENTITY nssFailure2.longDesc2 "<ul><li>Không thể hiển thị trang bạn muốn xem vì không thể kiểm tra tính xác thực của dữ liệu nhận được.</li><li>Vui lòng liên hệ chủ trang web để báo với họ vấn đề này.</li></ul>">
 
 <!ENTITY certerror.longpagetitle1 "Kết nối của bạn không an toàn">
+<!ENTITY certerror.longpagetitle2 "Cảnh báo: Rủi ro bảo mật tiềm ẩn">
+<!ENTITY certerror.sts.longpagetitle  "Không kết nối: Sự cố bảo mật tiềm ẩn">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Người chủ của <span class='hostname'/> đã cấu hình trang của họ không đúng.  Để tránh mất cắp thông tin của bạn, &brandShortName; đã không kết nối tới trang này.">
+<!ENTITY certerror.introPara2 "&brandShortName; phát hiện một mối đe dọa bảo mật và không tiếp tục đến <span class='hostname'/>. Nếu bạn truy cập trang web này, kẻ tấn công có thể cố gắng lấy cắp thông tin như mật khẩu, email hoặc chi tiết thẻ tín dụng của bạn.">
 
+<!ENTITY certerror.expiredCert.secondPara "Vấn đề này rất có thể do đồng hồ máy tính của bạn không đúng, điều này sẽ ngăn chặn &brandShortName; từ kết nối an toàn.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; phát hiện một mối đe dọa bảo mật tiềm năng và không tiếp tục đến <span class='hostname'/> vì trang web này yêu cầu kết nối an toàn.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; đã phát hiện sự cố và không tiếp tục đến <span class='hostname'/>. Trang web định cấu hình sai hoặc đồng hồ máy tính của bạn không đúng.">
+<!ENTITY certerror.expiredCert.secondPara2 "Có vẻ như chứng chỉ của trang web đã hết hạn, việc này sẽ ngăn chặn &brandShortName; từ kết nối an toàn. Nếu bạn truy cập trang này, kẻ tấn công có thể cố gắng lấy cắp thông tin như mật khẩu, email hoặc chi tiết thẻ tín dụng của bạn.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Có vẻ như chứng chỉ của trang web đã hết hạn, việc này sẽ ngăn chặn &brandShortName; từ kết nối an toàn.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Bạn có thể làm gì về nó?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Vấn đề rất có thể xảy ra với trang web và bạn không thể làm gì để giải quyết nó.</p>
+<p>Nếu bạn đang sử dụng mạng công ty hoặc sử dụng phần mềm chống vi-rút, bạn có thể liên hệ với nhóm hỗ trợ để được trợ giúp. Bạn cũng có thể thông báo cho quản trị viên của trang web về sự cố.</p>
+">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>Đồng hồ máy tính của bạn được đặt thành <span id='wrongSystemTime_systemDate2'/>. Đảm bảo máy tính của bạn được đặt đúng ngày, giờ và múi giờ trong cài đặt hệ thống của bạn, sau đó làm mới <span class='hostname'/>.</p>
+<p>Nếu đồng hồ của bạn đã được đặt đúng thời điểm, trang web có thể bị định cấu hình sai và bạn không thể làm gì để giải quyết vấn đề. Bạn có thể thông báo cho quản trị viên của trang web về sự cố.</p>
+">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
+<p>Vấn đề rất có thể xảy ra với trang web và bạn không thể làm gì để giải quyết vấn đề này. Bạn có thể thông báo cho quản trị viên của trang web về sự cố.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>Trang web này có thể bị gián đoạn tạm thời hoặc do quá tải. Hãy thử lại trong chốc lát.</li> <li>Nếu bạn không thể mở bất kì trang nào, hãy kiểm tra kết nối mạng.</li> <li>Nếu máy tính hoặc mạng của bạn được bảo vệ bởi tường lửa hoặc proxy, hãy chắc chắn rằng &brandShortName; được phép truy cập Web.</li> </ul>">
 
@@ -113,6 +133,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Thêm ngoại Lệ…">
+<!ENTITY securityOverride.exceptionButton1Label "Chấp nhận rủi ro và tiếp tục">
 
 <!ENTITY errorReporting.automatic2 "Báo cáo những lỗi như thế này để giúp Mozilla nhận diện và chặn những trang độc hại">
 <!ENTITY errorReporting.learnMore "Tìm hiểu thêm…">
@@ -132,7 +153,10 @@ was trying to connect. -->
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; không thẻ kết nối đến <span id='wrongSystemTimeWithoutReference_URL'/> vì đồng hồ máy tính của bạn có vẻ như hiển thị sai thời gian và điều này ngăn chặn kết nối an toàn. </p> <p>Máy tính của bạn đang cài đặt là <span id='wrongSystemTimeWithoutReference_systemDate'/>. Để khắc phục, hãy thay đổi cài đặt ngày giờ cho đúng.</p>">
 
 <!ENTITY certerror.pagetitle1  "Kết nối không bảo mật">
+<!ENTITY certerror.pagetitle2  "Cảnh báo: Rủi ro bảo mật tiềm ẩn">
+<!ENTITY certerror.sts.pagetitle  "Không kết nối: Sự cố bảo mật tiềm ẩn">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Trang này dùng HTTP Strict Transport Security (HSTS) để chỉ định &brandShortName; chỉ được kết nối với nó một cách bảo mật. Cho nên, không khả thi để thêm ngoại lệ cho chứng chỉ này.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> có chính sách bảo mật được gọi là HTTP Strict Transport Security (HSTS), có nghĩa là &brandShortName; chỉ có thể kết nối với nó một cách an toàn. Bạn không thể thêm ngoại lệ để truy cập trang web này.">
 <!ENTITY certerror.copyToClipboard.label "Chép văn bản vào bảng ghi tạm">
 
 <!ENTITY inadequateSecurityError.title "Kết nối của bạn không an toàn">
