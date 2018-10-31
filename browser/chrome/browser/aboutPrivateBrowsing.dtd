@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " vaša:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "preuzimanja">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "zabilješke">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "kopirani tekst">
 <!ENTITY aboutPrivateBrowsing.note.before                "Privatno pretraživanje ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "vas ne čini anonimnim">
 <!ENTITY aboutPrivateBrowsing.note.after                 " na Internetu. Vaš poslodavac ili pružatelj Internet usluga svejedno može pratiti koje stranice posjećujete.">
@@ -32,3 +33,4 @@
 <!ENTITY trackingProtection.startTour1                   "Pogledajte kako ovo funkcionira">
 
 <!ENTITY contentBlocking.title                           "Blokiranje sadržaja">
+<!ENTITY contentBlocking.description                     "Neke web stranice koriste skripte za praćenje koje nadgledaju vašu aktivnost diljem Interneta. U privatnom načinu, Firefox blokiranje sadržaja automatski blokira mnoge skripte za praćenje koje bi mogle prikupljati informacije o vašem pregledavanju.">

@@ -46,21 +46,10 @@
 
 <!ENTITY  feedTab               "Kanali">
 <!ENTITY  feedTab.accesskey     "K">
-<!ENTITY  feedSubscribe         "Odjavi">
-<!ENTITY  feedSubscribe.accesskey "d">
 
 <!ENTITY  permTab               "Dozvole">
 <!ENTITY  permTab.accesskey     "D">
-<!ENTITY  permUseDefault        "Koristi uobičajene">
-<!ENTITY  permAskAlways         "Uvijek upitaj">
-<!ENTITY  permAllow             "Dozvoli">
-<!ENTITY  permAllowSession      "Dozvoli za sesiju">
-<!ENTITY  permBlock             "Blokiraj">
 <!ENTITY  permissionsFor        "Dozvole za:">
-<!ENTITY  permPlugins           "Aktiviraj priključke">
-
-<!ENTITY  permClearStorage           "Obriši izvanmrežnu arhivu">
-<!ENTITY  permClearStorage.accesskey "i">
 
 <!ENTITY  securityTab           "Sigurnost">
 <!ENTITY  securityTab.accesskey "S">
@@ -77,9 +66,9 @@
 
 <!ENTITY  securityView.privacy.header                   "Privatnost i povijest">
 <!ENTITY  securityView.privacy.history                  "Jesam li posjetio ovu stranicu prije današnjeg dana?">
-<!ENTITY  securityView.privacy.cookies                  "Sprema li ova stranica informacije (kolačiće) na moje računalo?">
-<!ENTITY  securityView.privacy.viewCookies              "Pregled kolačića">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "Sprema li ova web stranica podatke na mojem računalu?">
+<!ENTITY  securityView.privacy.clearSiteData            "Obriši kolačiće i podatke stranice">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "O">
 <!ENTITY  securityView.privacy.passwords                "Jesam li spremao zaporke za ovu web stranicu?">
 <!ENTITY  securityView.privacy.viewPasswords            "Pregled spremljenih zaporki">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "z">
