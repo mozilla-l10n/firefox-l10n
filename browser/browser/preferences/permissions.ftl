@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Ngoại lệ - Chống theo dõi
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Bạn đã tắt chế độ chống theo dõi ở các trang web này.
+permissions-exceptions-content-blocking-window =
+    .title = Ngoại lệ - Chặn nội dung
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Bạn đã tắt tính năng chặn nội dung trên các trang web này.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Bạn có thể chỉ định trang web nà
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Trang web được cho phép - Tự động phát
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Bạn có thể chỉ định trang web nào được phép tự động phát các phần tử phương tiện. Nhập địa chỉ chính xác của trang web bạn muốn cho phép và sau đó nhấp vào Cho phép.
 permissions-exceptions-autoplay-media-window2 =
     .title = Ngoại lệ - Tự động phát
     .style = { permissions-window.style }
