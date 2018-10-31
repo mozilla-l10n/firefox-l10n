@@ -660,6 +660,7 @@ addressbar-suggestions-settings = Promijenite postavke za prijedloge tražilica
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokiranje sadržaja
+content-blocking-desc = Blokirajte sadržaje trećih strana, kao što su reklame ili kod, koji bi mogli usporiti vaše pregledavanje ili vas pratiti po internetu. Prilagodite svoje postavke za najbolji omjer zaštite i performansi.
 content-blocking-learn-more = Saznajte više
 content-blocking-restore-defaults =
     .label = Vrati zadano
@@ -673,6 +674,13 @@ content-blocking-toggle-label-on = UKLJUČENO
 content-blocking-toggle-label-off = ISKLJUČENO
     .accesskey = O
 content-blocking-category-label = Odaberite što ćete blokirati
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Skripte za praćenje koje se sporo učitavaju
+    .accesskey = S
+content-blocking-fastblock-new-description = Blokiraj samo skripte za praćenje koje usporavaju učitavanje stranica.
 content-blocking-tracking-protection-trackers-label =
     .label = Pratitelji
     .accesskey = t
@@ -690,6 +698,7 @@ content-blocking-tracking-protection-change-block-list = Promijenite popis bloki
 content-blocking-third-party-cookies-label =
     .label = Kolačići treće strane
     .accesskey = K
+content-blocking-reject-trackers-description = Blokiraj sve kolačiće trećih strana ili samo one postavljene od skripi za praćenje.
 # This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
 # of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
 # or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
@@ -711,6 +720,7 @@ content-blocking-reject-trackers-all-third-parties-option =
 ## Privacy Section - Tracking
 
 tracking-header = Zaštita od praćenja
+tracking-desc = Zaštita od praćenja blokira skripte za praćenje koje skupljaju vaše podatke o pregledavanju diljem različitih stranica. <a data-l10n-name="learn-more">Saznajte više o Zaštiti od praćenja i vašoj privatnosti</a>
 tracking-mode-label = Koristi zaštitu od praćenja kako biste blokirali poznate pratitelje
 tracking-mode-always =
     .label = Uvijek
@@ -797,7 +807,13 @@ collection-studies-link = Pregledajte { -brand-short-name } studije
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Izvještaji s podacima su onemogućeni za konfiguraciju
+collection-browser-errors =
+    .label = Dozvolite { -brand-short-name } da šalje izvještaje o greškama preglednika (uključujući poruke o greškama) prema { -vendor-short-name }
+    .accesskey = D
 collection-browser-errors-link = Saznajte više
+collection-backlogged-crash-reports =
+    .label = Dozvolite { -brand-short-name } da šalje zapise o rušenju u vaše ime
+    .accesskey = o
 collection-backlogged-crash-reports-link = Saznajte više
 
 ## Privacy Section - Security
