@@ -52,3 +52,4 @@ browser-languages-select-language =
     .placeholder = Выбраць мову для дадання…
 browser-languages-installed-label = Усталяваныя мовы
 browser-languages-available-label = Даступныя мовы
+browser-languages-error = { -brand-short-name } не можа абнавіць вашы мовы прама зараз. Праверце сваё злучэнне з інтэрнэтам або паспрабуйце ізноў.

@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-performance-title = Менеджар задач
 
 ## Column headers
 
@@ -14,6 +16,7 @@ column-type = Тып
 ## Values for the Type column
 
 type-tab = Картка
+type-tracker = Трэкер
 type-addon = Дадатак
 type-browser = Браўзер
 type-worker = Worker
@@ -30,3 +33,5 @@ type-other = Іншае
 
 close-tab =
     .title = Закрыць картку
+show-addon =
+    .title = Паказаць у менеджары дадаткаў

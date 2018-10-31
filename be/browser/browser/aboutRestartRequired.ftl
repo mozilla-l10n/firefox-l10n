@@ -4,3 +4,4 @@
 
 restart-required-title = Патрабуецца перазапуск
 restart-required-header = Прабачце. Нам трэба зрабіць адну невялікую рэч, каб працягнуць працу.
+restart-button-label = Перазапусціць { -brand-short-name }
