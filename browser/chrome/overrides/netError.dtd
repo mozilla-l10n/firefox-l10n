@@ -5,14 +5,15 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Gặp vấn đề khi tải trang">
+<!ENTITY loadError.label "Sự cố khi tải trang">
 <!ENTITY retry.label "Thử lại">
-<!ENTITY returnToPreviousPage.label "Trở lại">
+<!ENTITY returnToPreviousPage.label "Quay lại">
 <!ENTITY returnToPreviousPage1.label "Quay lại (Khuyến nghị)">
 <!ENTITY advanced.label "Nâng cao">
-
 <!ENTITY continue2.label "Thêm…">
 <!ENTITY moreInformation.label "Thông tin Chi tiết">
+
+<!ENTITY viewCertificate.label "Xem chứng chỉ">
 
 <!-- Specific error messages -->
 
@@ -24,7 +25,7 @@
 
 <!ENTITY dnsNotFound.pageTitle "Không tìm thấy máy chủ">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Chúng tôi gặp khó khăn khi tìm trang web đó.">
+<!ENTITY dnsNotFound.title1 "Hmm. Chúng tôi gặp khó khăn khi tìm trang web đó.">
 <!ENTITY dnsNotFound.longDesc1 "<strong>Nếu địa chỉ đúng, có ba việc bạn có thể thử:</strong> <ul>
   <li>Thử lại sau.</li>
   <li>Kiểm tra kết nối mạng của bạn.</li>
@@ -101,6 +102,7 @@ was trying to connect. -->
 
 
 
+
 <!ENTITY sharedLongDesc "<ul> <li>Trang web này có thể bị gián đoạn tạm thời hoặc do quá tải. Hãy thử lại trong chốc lát.</li> <li>Nếu bạn không thể mở bất kì trang nào, hãy kiểm tra kết nối mạng.</li> <li>Nếu máy tính hoặc mạng của bạn được bảo vệ bởi tường lửa hoặc proxy, hãy chắc chắn rằng &brandShortName; được phép truy cập Web.</li> </ul>">
 
 <!ENTITY cspBlocked.title "Bị chặn bởi Chính sách bảo mật nội dung">
@@ -111,7 +113,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Thêm ngoại Lệ…">
-
 
 <!ENTITY errorReporting.automatic2 "Báo cáo những lỗi như thế này để giúp Mozilla nhận diện và chặn những trang độc hại">
 <!ENTITY errorReporting.learnMore "Tìm hiểu thêm…">

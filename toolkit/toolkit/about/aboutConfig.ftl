@@ -60,13 +60,13 @@ config-toggle =
     .label = Bật-Tắt
     .accesskey = B
 config-reset =
-    .label = Mặc định
+    .label = Đặt về mặc định
     .accesskey = M
 config-new =
     .label = Mới
     .accesskey = i
 config-string =
-    .label = Chuỗi
+    .label = Chuỗi kí tự
     .accesskey = C
 config-integer =
     .label = Số nguyên
@@ -77,15 +77,15 @@ config-boolean =
 config-default = mặc định
 config-modified = đã sửa
 config-locked = bị khóa
-config-property-string = chuỗi
+config-property-string = chuỗi kí tự
 config-property-int = số nguyên
 config-property-bool = luận lí
 config-new-prompt = Nhập tên Tùy chọn
-config-nan-title = Giá trị bất hợp lệ
+config-nan-title = Giá trị không hợp lệ
 config-nan-text = Văn bản bạn điền vào không phải là số.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
-config-new-title = Giá trị { $type } mới
+config-new-title = Giá trị mới { $type }
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Nhập giá trị { $type }
