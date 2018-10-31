@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Quản lí tiện ích">
 
-<!ENTITY search.placeholder                   "Tìm tất cả các tiện ích">
-
 <!ENTITY search.placeholder2                  "Tìm kiếm trên addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Tìm kiếm addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Tìm kiếm">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +16,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Không tìm thấy cập nhật">
 <!ENTITY listEmpty.recentUpdates.label        "Bạn chưa cập nhật tiện ích nào gần đây">
 <!ENTITY listEmpty.findUpdates.label          "Kiểm tra cập nhật">
-<!ENTITY listEmpty.search.label               "Không thể tìm thấy tiện ích phù hợp">
 <!ENTITY listEmpty.button.label               "Tìm hiểu thêm về tiện ích">
 <!ENTITY installAddonFromFile.label           "Cài đặt tiện ích từ tập tin…">
 <!ENTITY installAddonFromFile.accesskey       "i">
@@ -24,9 +23,6 @@
 
 <!ENTITY getThemes.description                "Bạn đang tìm cách để cá nhân hóa trình duyệt của bạn?">
 <!ENTITY getThemes.learnMore                  "Lựa chọn từ hàng ngàn diện mạo khác nhau.">
-
-<!ENTITY cmd.back.tooltip                     "Trở lại trang trước">
-<!ENTITY cmd.forward.tooltip                  "Tiến tới trang sau">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "Không thể xác thực một số tiện ích">
@@ -44,10 +40,13 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Kích hoạt kiểm tra tính bảo mật của cập nhật cho tiện ích">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Tìm kiếm">
 <!ENTITY view.discover.label                  "Tải thêm tiện ích">
 <!ENTITY view.recentUpdates.label             "Cập nhật gần đây">
 <!ENTITY view.availableUpdates.label          "Có thể cập nhật">
+
+<!ENTITY helpButton.label                      "Hỗ trợ Tiện ích">
+<!ENTITY preferencesWin.label                  "&brandShortName; Tùy chọn">
+<!ENTITY preferencesUnix.label                 "&brandShortName; Tùy chỉnh">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Kiểm tra cập nhật">
@@ -87,8 +86,14 @@
 <!ENTITY cmd.preferencesWin.accesskey         "y">
 <!ENTITY cmd.preferencesUnix.label            "Tùy chỉnh">
 <!ENTITY cmd.preferencesUnix.accesskey        "y">
-<!ENTITY cmd.about.label                      "Giới thiệu">
-<!ENTITY cmd.about.accesskey                  "G">
+
+
+
+
+
+
+
+
 
 <!ENTITY cmd.enableAddon.label                "Bật">
 <!ENTITY cmd.enableAddon.accesskey            "B">
@@ -98,6 +103,10 @@
 <!ENTITY cmd.enableTheme.accesskey            "S">
 <!ENTITY cmd.disableTheme.label               "Dừng sử dụng giao diện">
 <!ENTITY cmd.disableTheme.accesskey           "D">
+
+
+
+
 <!ENTITY cmd.askToActivate.label              "Hỏi trước khi kích hoạt">
 <!ENTITY cmd.askToActivate.tooltip            "Hỏi mỗi khi dùng tiện ích này">
 <!ENTITY cmd.alwaysActivate.label             "Luôn kích hoạt">
@@ -107,6 +116,8 @@
 <!ENTITY cmd.stateMenu.tooltip                "Thay đổi khi tiện ích này chạy">
 <!ENTITY cmd.installAddon.label               "Cài đặt">
 <!ENTITY cmd.installAddon.accesskey           "i">
+
+
 <!ENTITY cmd.uninstallAddon.label             "Xóa">
 <!ENTITY cmd.uninstallAddon.accesskey         "X">
 <!ENTITY cmd.showPreferencesWin.label         "Tùy chọn">
@@ -116,6 +127,9 @@
 <!ENTITY cmd.contribute.label                 "Đóng góp">
 <!ENTITY cmd.contribute.accesskey             "g">
 <!ENTITY cmd.contribute.tooltip               "Đóng góp vào sự phát triển của tiện ích này">
+
+
+
 
 <!ENTITY cmd.showReleaseNotes.label           "Hiển thị ghi chú phát hành">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Hiển thị ghi chú phát hành của cập nhật này">
@@ -135,7 +149,6 @@
 <!ENTITY detail.lastupdated.label             "Cập nhật cuối">
 <!ENTITY detail.creator.label                 "Nhà phát triển">
 <!ENTITY detail.homepage.label                "Trang chủ">
-<!ENTITY detail.numberOfDownloads.label       "Lượt tải">
 
 <!ENTITY detail.contributions.description     "Nhà phát triển tiện ích này đề nghị bạn hỗ trợ một khoản tài chính nhỏ cho việc phát triển.">
 
@@ -164,28 +177,15 @@
 <!-- ratings -->
 <!ENTITY rating2.label                        "Xếp hạng">
 
+
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Tạm dừng">
+
 <!ENTITY progress.cancel.tooltip              "Hủy bỏ">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Tên">
-<!ENTITY sort.name.tooltip                    "Sắp xếp theo tên">
-<!ENTITY sort.dateUpdated.label               "Cập nhật cuối">
-<!ENTITY sort.dateUpdated.tooltip             "Sắp xếp theo ngày cập nhật">
-<!ENTITY sort.relevance.label                 "Phù hợp nhất">
-<!ENTITY sort.relevance.tooltip               "Sắp xếp theo tính phù hợp">
-<!ENTITY sort.price.label                     "Giá">
-<!ENTITY sort.price.tooltip                   "Sắp xếp theo giá">
-
-<!ENTITY search.filter2.label                 "Tìm:">
-<!ENTITY search.filter2.installed.label       "Tiện ích của tôi">
-<!ENTITY search.filter2.installed.tooltip     "Hiển thị tiện ích đã cài">
-<!ENTITY search.filter2.available.label       "Tiện ích có thể cài thêm">
-<!ENTITY search.filter2.available.tooltip     "Hiển thị các tiện ích hiện có để cài đặt">
-
 <!ENTITY addon.homepage                       "Trang chủ">
+
+
 <!ENTITY addon.details.label                  "Chi tiết thêm">
 <!ENTITY addon.details.tooltip                "Hiện thêm chi tiết về tiện ích này">
 <!ENTITY addon.unknownDate                    "Không rõ">
@@ -207,6 +207,7 @@
 <!ENTITY addon.undoRemove.label               "Hoàn tác">
 <!ENTITY addon.undoRemove.tooltip             "Giữ nguyên tiện ích này">
 <!ENTITY addon.restartNow.label               "Khởi động lại ngay">
+
 <!ENTITY addon.install.label                  "Cài đặt">
 <!ENTITY addon.install.tooltip                "Cài đặt tiện ích này">
 <!ENTITY addon.updateNow.label                "Cập nhật ngay">
@@ -226,17 +227,6 @@
 <!ENTITY eula.accept                          "Đồng ý và cài đặt…">
 
 <!ENTITY settings.path.button.label           "Chọn…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Đây là gì? Thỉnh thoảng, Telemetry có thể sẽ cài đặt và chạy một số thử nghiệm.">
-<!ENTITY experiment.info.learnmore "Tìm hiểu thêm">
-<!ENTITY experiment.info.learnmore.accesskey "T">
-<!ENTITY experiment.info.changetelemetry "Thiết lập Telemetry">
-<!ENTITY experiment.info.changetelemetry.accesskey "L">
 
 <!ENTITY setting.learnmore "Tìm hiểu thêm…">
 
