@@ -125,4 +125,4 @@ plugin-deprecation-description = Fehlt etwas? Einige Plugins werden nicht mehr v
 legacy-warning-show-legacy = Erweiterungen des alten Add-on-Typs anzeigen
 legacy-extensions =
     .value = Alter Add-on-Typ
-legacy-extensions-description = Diese Erweiterungen erfüllen nicht die Firefox-Standards und wurden deshalb deaktiviert. <label data-l10n-name="legacy-learn-more">Weitere Informationen über Änderungen bei der Unterstützung von Add-ons für Firefox</label>
+legacy-extensions-description = Diese Erweiterungen erfüllen nicht die aktuellen Standards von { -brand-short-name } und wurden deshalb deaktiviert. <label data-l10n-name="legacy-learn-more">Weitere Informationen über Änderungen bei der Unterstützung von Add-ons für Firefox</label>
