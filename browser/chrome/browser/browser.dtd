@@ -82,11 +82,11 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "Trimite fila pe dispozitiv">
+<!ENTITY  sendTabToDevice.label              "Trimite fila unui dispozitiv">
 <!ENTITY  sendTabToDevice.accesskey          "n">
-<!ENTITY  sendPageToDevice.label             "Trimite pagina pe dispozitiv">
+<!ENTITY  sendPageToDevice.label             "Trimite pagina unui dispozitiv">
 <!ENTITY  sendPageToDevice.accesskey         "n">
-<!ENTITY  sendLinkToDevice.label             "Trimite linkul pe dispozitiv">
+<!ENTITY  sendLinkToDevice.label             "Trimite linkul unui dispozitiv">
 <!ENTITY  sendLinkToDevice.accesskey         "n">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
@@ -1166,7 +1166,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageAction.disallowInUrlbar.label "Nu arăta în bara de adrese">
 <!ENTITY pageAction.manageExtension.label "Gestionează extensia…">
 
-<!ENTITY pageAction.sendTabToDevice.label "Trimite fila pe dispozitiv">
+<!ENTITY pageAction.sendTabToDevice.label "Trimite fila unui dispozitiv">
 
 <!ENTITY sendToDevice.syncNotReady.label "Se sincronizează dispozitivele…">
 
