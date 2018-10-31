@@ -10,3 +10,10 @@
 <!ENTITY findCloseButton.tooltip "Narrán riña taj nanà'uì' bârra">
 <!ENTITY highlightAll.label "Nagi'aj rangà' daran'anj">
 <!ENTITY highlightAll.accesskey "l">
+<!ENTITY highlightAll.tooltiptext "Nagi'iaj rangà' daran' riña gahui frâse">
+<!ENTITY caseSensitive.label "Sa hua riña suun na">
+<!ENTITY caseSensitive.accesskey "c">
+<!ENTITY caseSensitive.tooltiptext "Nanà'uì' ngà lechrâ mayûskula">
+<!ENTITY entireWord.label "Nuguan' hua chre'e">
+<!ENTITY entireWord.accesskey "w">
+<!ENTITY entireWord.tooltiptext "Màn nuguan' hua chre'e nana'uì't">
