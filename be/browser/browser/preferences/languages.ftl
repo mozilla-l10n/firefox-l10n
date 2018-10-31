@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Мовы
-    .style = width: 30em
 webpage-languages-window =
     .title = Налады мовы вэб-старонак
     .style = width: 40em
@@ -45,3 +42,13 @@ browser-languages-window =
     .title = Налады мовы { -brand-short-name }
     .style = width: 40em
 browser-languages-description = { -brand-short-name } тыпова будзе паказваць старонкі першай мовай у спісе, а іншыя мовы, калі спатрэбіцца, у азначаным парадку.
+browser-languages-search = Пошук іншых моў ...
+browser-languages-searching =
+    .label = Пошук моў ...
+browser-languages-downloading =
+    .label = Сцягванне…
+browser-languages-select-language =
+    .label = Выбраць мову для дадання…
+    .placeholder = Выбраць мову для дадання…
+browser-languages-installed-label = Усталяваныя мовы
+browser-languages-available-label = Даступныя мовы
