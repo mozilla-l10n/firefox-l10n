@@ -326,7 +326,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy de rete
 network-settings-title = Parametros de rete
 network-proxy-connection-description = Configura como { -brand-short-name } se connecte a internet.
 network-proxy-connection-learn-more = Saper plus
@@ -592,26 +591,12 @@ sitedata-total-size-calculating = Calculo del dimension de datos de sito e de me
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tu cookies, datos de sito e memoria tampon immagazinate usa actualmente { $value } { $unit } de spatio de disco.
 sitedata-learn-more = Saper plus
-sitedata-accept-cookies-option =
-    .label = Acceptar cookies e datos de sito ab sitos web (recommendate)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Blocar cookies e datos de sito (pote causar al sitos web de collaber)
-    .accesskey = B
 sitedata-keep-until = Conservar usque
     .accesskey = u
 sitedata-keep-until-expire =
     .label = Illos expira
 sitedata-keep-until-closed =
     .label = { -brand-short-name } es claudite
-sitedata-accept-third-party-desc = Acceptar cookies e datos de sito de tertie-parte
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = Sempre
-sitedata-accept-third-party-visited-option =
-    .label = Del visitates
-sitedata-accept-third-party-never-option =
-    .label = Nunquam
 sitedata-allow-cookies-option =
     .label = Acceptar le cookies e le datos de sito
     .accesskey = A
@@ -644,7 +629,7 @@ sitedata-cookies-exceptions =
 # This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Tu configurationes in Bloco de contentos impedi cambiamentos al configurationes del cookies e al datos del sito.
+sitedata-warning-your-settings-prevent-changes = Tu parametros de Blocage de contentos impedi cambiamentos al configurationes del cookies e al datos del sito.
 
 ## Privacy Section - Address Bar
 
@@ -735,10 +720,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nunquam
     .accesskey = n
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Usar le protection contra le traciamento in navigation private pro blocar traciatores cognoscite
-    .accesskey = v
 tracking-exceptions =
     .label = Exceptiones…
     .accesskey = x
