@@ -32,5 +32,5 @@
 <!ENTITY trackingProtection.description2                 "Alcun sitos web usa traciatores que pote surveliar tu activitate per Internet. Con le protection contra le traciamento, Firefox blocara multe traciatores que poterea colliger informationes de tu comportamento al navigar.">
 <!ENTITY trackingProtection.startTour1                   "Vider como functiona">
 
-<!ENTITY contentBlocking.title                           "Bloco del contentos">
+<!ENTITY contentBlocking.title                           "Blocage de contentos">
 <!ENTITY contentBlocking.description                     "Alcun sitos web usa traciatores que pote controlar tu activitate trans internet. In le fenestras private Firefox Content Blocking bloca automaticamente plure traciatores que pote coliger informationes re tu comportamento in navigation.">

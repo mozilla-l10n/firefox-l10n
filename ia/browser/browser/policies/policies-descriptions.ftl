@@ -44,7 +44,7 @@ policy-DisplayBookmarksToolbar = Monstrar le Barra del marcapaginas de ordinario
 policy-DisplayMenuBar = Monstrar le Barra del menu de ordinario.
 policy-DontCheckDefaultBrowser = Disactivar le controlo Navigator predefinite al lanceamento initial.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = Activar o disactivar le Bloco de contentos e optionalmente blocar illo.
+policy-EnableTrackingProtection = Activar o disactivar le Blocage de contentos e optionalmente serrar lo.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs. See also:
