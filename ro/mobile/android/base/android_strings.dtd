@@ -165,14 +165,14 @@
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Marchează">
 <!ENTITY overlay_share_bookmark_btn_label_already "Marcat deja">
-<!ENTITY overlay_share_send_other "Trimite către alte dispozitive">
+<!ENTITY overlay_share_send_other "Trimite altor dispozitive">
 
 <!ENTITY overlay_share_open_browser_btn_label "Deschide în &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "Trimite către un alt dispozitiv">
+<!ENTITY overlay_share_send_tab_btn_label "Trimite unui alt dispozitiv">
 <!ENTITY overlay_share_no_url "Niciun link nu a fost găsit în această partajare">
 <!ENTITY overlay_share_select_device "Selectează un dispozitiv">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
