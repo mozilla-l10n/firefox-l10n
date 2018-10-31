@@ -36,12 +36,13 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "ы">
 <!ENTITY runtimeMenu_showDetails_label "Звесткі пра асяроддзе">
 <!ENTITY runtimeMenu_showDetails_accesskey "і">
-<!ENTITY runtimeMenu_showMonitor_label "Манітор">
-<!ENTITY runtimeMenu_showMonitor_accesskey "М">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Перавагі прылады">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "п">
 <!ENTITY runtimeMenu_showSettings_label "Налады прылады">
 <!ENTITY runtimeMenu_showSettings_accesskey "ы">
+
+<!ENTITY runtimeMenu_showPerformancePanel_label "Прадукцыйнасць">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "а">
 
 <!ENTITY viewMenu_label "Прагляд">
 <!ENTITY viewMenu_accesskey "П">
@@ -75,9 +76,7 @@
 <!ENTITY projectPanel_tabs "Карткі">
 <!ENTITY runtimePanel_usb "Прылады USB">
 <!ENTITY runtimePanel_wifi "Прылады Wi-Fi">
-<!ENTITY runtimePanel_simulator "Сімулятары">
 <!ENTITY runtimePanel_other "Іншае">
-<!ENTITY runtimePanel_installsimulator "Усталяваць сімулятар">
 <!ENTITY runtimePanel_noadbhelper "Усталяваць дапаможнік ADB">
 <!ENTITY runtimePanel_nousbdevice "Не бачыце сваю прыладу?">
 <!ENTITY runtimePanel_refreshDevices_label "Абнавіць прылады">
@@ -90,7 +89,6 @@
 <!ENTITY details_location "Месцазнаходжанне">
 <!ENTITY details_manifestURL "Ідэнтыфікатар">
 <!ENTITY details_removeProject_button "Сцерці праект">
-<!ENTITY details_showPrepackageLog_button "Паказаць журнал перадпакавання">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Новы">
@@ -150,10 +148,6 @@
 <!ENTITY devicesetting_newtext "Значэнне параметра">
 <!ENTITY devicesetting_addnew "Дадаць новы параметр">
 
-<!-- Monitor -->
-<!ENTITY monitor_title "Манітор">
-<!ENTITY monitor_help "Даведка">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -175,19 +169,3 @@
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Журнал каманд перад-пакавання">
-
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Налады сімулятара">
-<!ENTITY simulator_remove "Выдаліць сімулятар">
-<!ENTITY simulator_reset "Узнавіць сімулятар">
-<!ENTITY simulator_name "Назва">
-<!ENTITY simulator_software "Праграма">
-<!ENTITY simulator_version "Версія">
-<!ENTITY simulator_profile "Профіль">
-<!ENTITY simulator_hardware "Апаратура">
-<!ENTITY simulator_device "Прылада">
-<!ENTITY simulator_screenSize "Экран">
-<!ENTITY simulator_pixelRatio "Суадносіны пікселяў">
-<!ENTITY simulator_tv_data "Сімуляцыя ТБ">
-<!ENTITY simulator_tv_data_open "Звесткі канфігурацыі">
-<!ENTITY simulator_tv_data_open_button "Адкрыць каталог канфігурацыі…">
