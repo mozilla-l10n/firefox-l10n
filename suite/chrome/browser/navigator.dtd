@@ -84,3 +84,6 @@
 <!ENTITY viewCertificate.accesskey   "S">
 <!ENTITY viewCertManager.label       "Buka Pengurus Sijil">
 <!ENTITY viewCertManager.accesskey   "B">
+
+<!ENTITY zoomIn.tooltiptext          "Lebih besar">
+<!ENTITY zoomOut.tooltiptext         "Lebih kecil">
