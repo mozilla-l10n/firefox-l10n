@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Emprova ussa
+onboarding-button-label-get-started = Cumenzar
 onboarding-welcome-header = Bainvegni a { -brand-short-name }
 onboarding-start-browsing-button-label = Cumenzar a navigar
 
@@ -24,3 +25,5 @@ onboarding-addons-title = Supplements
 onboarding-addons-text = Supplements ta permettan dad agiuntar funcziuns a { -brand-short-name } uschia che tes navigatur funcziuna tenor tes giavischs. Cumpareglia pretschs, consultescha l'aura u adattescha l'interfatscha cun in design adattà.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Navighescha pli spert, pli intelligent e pli segir cun extensiuns sco Ghostery che ta lascha bloccar reclamas mulestusas.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sincronisar
