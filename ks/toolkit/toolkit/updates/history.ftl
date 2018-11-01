@@ -8,7 +8,7 @@ close-button-label =
     .title = اپڈیٹ ہیسٹری
 no-updates-label = كہین ڈاٹا بیس  چھئنئ  انسٹال۔
 name-header = اپ ڈيٹ ناو
-date-header = تٲریخ كریو انسٹال{ " " }
+date-header = تٲریخ كریو انسٹال
 type-header = ٹائپ
 state-header = ریاست
 # Used to display update history
