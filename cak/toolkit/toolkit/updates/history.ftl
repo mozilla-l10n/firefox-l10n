@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Kinatab'al taq k'exoj ruwäch
+history-intro = Xeyak re taq k'exoj re'
 close-button-label =
     .buttonlabelcancel = Titz'apïx
     .title = Kinatab'al taq k'exoj ruwäch
