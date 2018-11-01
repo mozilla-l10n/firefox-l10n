@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+history-title = Историја на надградби
+close-button-label =
+    .buttonlabelcancel = Затвори
+    .title = Историја на надградби
+no-updates-label = Сè уште не се инсталирани никакви надградби
+name-header = Име на надградба
+date-header = Дата на инсталација
+type-header = Тип
+state-header = Состојба
 # Used to display update history
 #
 # Variables:
