@@ -192,3 +192,6 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûntdekke wêrfan jo tochten dat dizze feilich wiene. De websitebehearder moat earst de server yn oarder meitsje eardat jo de website besykje kinne.</p><p>Flaterkoade: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokkearre side">
+
+<!ENTITY networkProtocolError.title "Netwurkprotokol-flater">
+<!ENTITY networkProtocolError.longDesc "<p>De side dy't jo probearje te besjen kin net toand wurde, omdat der in flater yn it netwurkprotokol detektearre is.</p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul>">
