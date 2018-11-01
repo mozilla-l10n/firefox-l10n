@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = হালনাগাদ ইতিহাস
+history-intro = নিম্নোক্ত হালনাগাদগুলো ইন্সটল করা হয়েছে
 close-button-label =
     .buttonlabelcancel = বন্ধ
     .title = হালনাগাদ ইতিহাস
