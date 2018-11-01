@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = સુધારા ઇતિહાસ
+history-intro = નીચેના અપડેટ્સ ઇન્સ્ટોલ કરવામાં આવ્યા છે
 close-button-label =
     .buttonlabelcancel = બંધ કરો
     .title = સુધારા ઇતિહાસ
