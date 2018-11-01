@@ -175,3 +175,6 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Det ser ut som nätverkets säkerhetsinställningar kan orsaka detta. Vill du att standardinställningarna ska återställas?">
 <!ENTITY prefReset.label "Återställ standardinställningar">
+
+<!ENTITY networkProtocolError.title "Nätverksprotokollfel">
+<!ENTITY networkProtocolError.longDesc "<p>Sidan du försöker visa kan inte visas eftersom ett fel i nätverksprotokollet upptäcktes.</p><ul><li>Vänligen kontakta webbplatsens ägare för att informera dem om detta problem.</li></ul>">

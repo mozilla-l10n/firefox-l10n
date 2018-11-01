@@ -605,6 +605,9 @@ sitedata-keep-until-expire =
     .label = De förfaller
 sitedata-keep-until-closed =
     .label = { -brand-short-name } stängs
+sitedata-delete-on-close =
+    .label = Ta bort kakor och webbplatsdata när { -brand-short-name } stängs
+    .accesskey = k
 sitedata-allow-cookies-option =
     .label = Tillåt kakor och webbplatsdata
     .accesskey = T
@@ -850,3 +853,7 @@ certs-view =
 certs-devices =
     .label = Säkerhetsenheter…
     .accesskey = e
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Spara filer till { $service-name }
