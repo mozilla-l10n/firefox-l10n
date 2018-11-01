@@ -6,6 +6,7 @@ history-title = Fernijingsskiednis
 close-button-label =
     .buttonlabelcancel = Slute
     .title = Fernijingsskiednis
+no-updates-label = Der binne noch gjin fernijingen ynstallearre
 name-header = Fernijingsnamme
 date-header = Ynstallaasjedatum
 type-header = Type
