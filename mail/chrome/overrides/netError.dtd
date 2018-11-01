@@ -175,3 +175,5 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uporablja varnostno tehnologijo, ki je zastarela in ranljiva na napade. Napadalec lahko enostavno razkrije podatke, ki naj bi bili zaščiteni. Skrbnik spletne strani bo moral najprej popraviti strežnik, preden lahko obiščete stran.</p><p>Koda napake: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Zavrnjena stran">
+
+<!ENTITY networkProtocolError.title "Napaka omrežnega protokola">
