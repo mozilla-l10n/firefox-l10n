@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+history-title = ntoso abakɔsɛm
+close-button-label =
+    .buttonlabelcancel = ka tum
+    .title = ntoso abakɔsɛm
+no-updates-label = Wɔn instɔɔle ntoso biara
+name-header = ntoso din
+date-header = instɔlehyen afeda
+type-header = Bɔ
+state-header = Tebea
 # Used to display update history
 #
 # Variables:
