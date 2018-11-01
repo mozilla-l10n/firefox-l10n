@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Ιστορικό ενημερώσεων
+history-intro = Οι ακόλουθες ενημερώσεις εγκαταστάθηκαν
 close-button-label =
     .buttonlabelcancel = Κλείσιμο
     .title = Ιστορικό ενημερώσεων
@@ -10,3 +11,10 @@ no-updates-label = Δεν έχουν εγκατασταθεί ενημερώσε
 name-header = Όνομα ενημέρωσης
 date-header = Ημερομηνία εγκατάστασης
 state-header = Κατάσταση
+# Used to display update history
+#
+# Variables:
+#   $name (String): name of the update
+#   $buildID (String): build identifier from the local updates.xml
+update-full-name =
+    .name = { $name } ({ $buildID })
