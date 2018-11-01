@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Aslol Kesɗitine
+history-intro = Ɗee kesɗitine ko gaafaaɗe
 close-button-label =
     .buttonlabelcancel = Uddu
     .title = Aslol Kesɗitine
