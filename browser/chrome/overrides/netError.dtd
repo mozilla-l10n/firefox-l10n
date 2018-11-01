@@ -166,3 +166,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Ena wayi hono teelte kisal laylaytol maa gaddata ɗee caɗe. Aɗa yiɗi artirde teelte goowaaɗe ɗee?">
 <!ENTITY prefReset.label "Artir teelte goowaaɗe">
+
+<!ENTITY networkProtocolError.title "Juumre jaɓɓitorde geese">
