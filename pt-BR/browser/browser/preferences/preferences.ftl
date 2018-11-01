@@ -605,6 +605,9 @@ sitedata-keep-until-expire =
     .label = Expirarem
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ser fechado
+sitedata-delete-on-close =
+    .label = Apagar cookies e dados de sites quando o { -brand-short-name } for fechado
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Aceitar cookies e dados de sites
     .accesskey = A
@@ -850,3 +853,7 @@ certs-view =
 certs-devices =
     .label = Dispositivos de Segurança…
     .accesskey = D
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Salvar arquivos no { $service-name }

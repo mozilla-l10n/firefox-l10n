@@ -218,3 +218,6 @@ certificado.">
 
 <!ENTITY prefReset.longDesc "Parece que suas configurações de segurança de rede podem estar causando isso. Você quer restaurar as configurações padrão?">
 <!ENTITY prefReset.label "Restaurar configurações padrão">
+
+<!ENTITY networkProtocolError.title "Erro de protocolo de rede">
+<!ENTITY networkProtocolError.longDesc "<p>A página que você está tentando ver não pode ser exibida porque foi detectado um erro no protocolo de rede.</p><ul><li>Entre em contato com o dono do site para informar este problema.</li></ul>">
