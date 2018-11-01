@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Журнал оновлень
+history-intro = Були встановлені наступні оновлення
 close-button-label =
     .buttonlabelcancel = Закрити
     .title = Журнал оновлень
