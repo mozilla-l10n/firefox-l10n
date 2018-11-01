@@ -6,6 +6,7 @@ history-title = Hanes Diweddaru
 close-button-label =
     .buttonlabelcancel = Cau
     .title = Hanes Diweddaru
+no-updates-label = Dim diweddariadau wedi eu gosod eto
 name-header = Enw'r Diweddariad
 date-header = Dyddiad Gosod
 type-header = Math
