@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Atjaunynuošonys viesture
+history-intro = Ir instaleiti itaidi atjaunynuojumi
 close-button-label =
     .buttonlabelcancel = Aiztaiseit
     .title = Atjaunynuošonys viesture
