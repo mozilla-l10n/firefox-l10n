@@ -6,6 +6,8 @@ do-not-track-description = যে ওয়েবসাইট থেকে আপ�
 do-not-track-learn-more = আরও জানুন
 do-not-track-option-default =
     .label = যখন শুধুমাত্র ট্র্যাকিং সুরক্ষার সঙ্গে
+do-not-track-option-default-content-blocking =
+    .label = শুধুমাত্র যখন { -brand-short-name } সনাক্ত করা ট্র্যাকারগুলিকে ব্লক করতে সেট করা হয়
 do-not-track-option-always =
     .label = সর্বদা
 pref-page =
@@ -14,14 +16,6 @@ pref-page =
             [windows] বিকল্প
            *[other] পছন্দ
         }
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -37,9 +31,17 @@ search-input-box =
             [windows] বিকল্পগুলিতে খুঁজে বার করুন
            *[other] প্রেফারেন্সে খুঁজে বার করুন
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] আপনার প্রতিষ্ঠান অপশনের কিছু পরিবর্তনের সক্ষমতা নিষ্ক্রিয় করেছে।
+       *[other] আপনার প্রতিষ্ঠান অপশনের কিছু পরিবর্তনের সক্ষমতা নিষ্ক্রিয় করেছে।
+    }
 pane-general-title = সাধারণ
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = হোম
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = অনুসন্ধান
 category-search =
     .tooltiptext = { pane-search-title }
@@ -51,6 +53,7 @@ pane-sync-title = Firefox অ্যাকাউন্ট
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } সহায়তা
+addons-button-label = এক্সটেনশন এবং থিমগুলি
 focus-search =
     .key = f
 close-button =
@@ -62,6 +65,7 @@ feature-enable-requires-restart = এই বৈশিষ্ট্যটি স�
 feature-disable-requires-restart = এই বৈশিষ্ট্যটি নিষ্ক্রিয় করতে { -brand-short-name } কে পুনরারম্ভ করা আবশ্যক.
 should-restart-title = { -brand-short-name } পুনরারম্ভ করুন
 should-restart-ok = { -brand-short-name } এখনই পুনরায় শুরু করুন
+cancel-no-restart-button = বাতিল
 restart-later = পরে পুনরারম্ভ করুন
 
 ## Extension Control Notifications
@@ -74,9 +78,36 @@ restart-later = পরে পুনরারম্ভ করুন
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = একটি এক্সটেনশান, <img data-l10n-name="icon"/> { $name }, আপনার হোম পৃষ্ঠাটিকে নিয়ন্ত্রণ করছে।
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = একটি এক্সটেনশান, <img data-l10n-name="icon"/> { $name }, আপনার নতুন ট্যাব পৃষ্ঠাটিকে নিয়ন্ত্রণ করছে।
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = একটি এক্সটেনশান, <img data-l10n-name="icon"/> { $name }, এই সেটিংকে নিয়ন্ত্রণ করছে।
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = একটি এক্সটেনশান, <img data-l10n-name="icon"/> { $name }, আপনার ডিফল্ট অনুসন্ধান ইঞ্জিনকে সেট করেছে।
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = এক্সটেনশন <img data-l10n-name="icon"/> { $name } যার কন্টেইনার ট্যাব প্রয়োজন।
+# This string is shown to notify the user that their tracking protection preferences
+# are being controlled by an extension.
+extension-controlled-websites-tracking-protection-mode = একটি এক্সটেনশান, <img data-l10n-name="icon"/> { $name }, ট্র্যাকিং সুরক্ষাকে নিয়ন্ত্রণ করছে।
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = একটি এক্সটেনশান, <img data-l10n-name="icon"/> { $name }, এই সেটিংটিকে নিয়ন্ত্রণ করছে।
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = একটি এক্সটেনশান,<img data-l10n-name="icon"/> { $name }, { -brand-short-name } কিভাবে ইন্টারনেটে সংযুক্ত হয় তা নিয়ন্ত্রণ করছে।
+# This string is shown after the user disables an extension to notify the user
+# how to enable an extension that they disabled.
+#
+# <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
+# <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
+extension-controlled-enable = এক্সটেনশানটি সক্ষম করতে <img data-l10n-name="menu-icon"/> মেনুর <img data-l10n-name="addons-icon"/> অ্যাড-অন এ যান।
 
 ## Preferences UI Search Results
 
@@ -87,6 +118,7 @@ search-results-empty-message =
         [windows] দুঃখিত! “<span data-l10n-name="query"></span>”-র জন্য অপশনে কোন ফলাফল নেই।
        *[other] দুঃখিত! “<span data-l10n-name="query"></span>”-র জন্য পছন্দসমূহে কোন ফলাফল নেই।
     }
+search-results-help-link = সাহায্য প্রয়োজন? <a data-l10n-name="url">{ -brand-short-name } সহায়তা</a> দেখুন
 
 ## General Section
 
@@ -106,21 +138,18 @@ is-not-default = { -brand-short-name } বর্তমানে আপনার 
 set-as-my-default-browser =
     .label = ডিফল্ট বানান…
     .accesskey = D
-startup-page = { -brand-short-name } আরম্ভের সময়
+startup-restore-previous-session =
+    .label = পূর্ববর্তী সেশন পুনরুদ্ধার করুন
     .accesskey = s
-startup-user-homepage =
-    .label = আপনার হোমপেজ দেখান
-startup-blank-page =
-    .label = ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে
-startup-prev-session =
-    .label = সর্বশেষ ব্যবহারের সময় উপস্থিত উইন্ডো ও ট্যাব প্রদর্শন করা হবে
 disable-extension =
     .label = এক্সটেনশনটি নিষ্ক্রিয় করুন
-home-page-header = হোম পেজ
 tabs-group-header = ট্যাব
 ctrl-tab-recently-used-order =
-    .label = ট্যাবের মধ্যে দিয়ে Ctrl+Tab সাইকেল করে সম্প্রতি ব্যবহৃত সারিতে 
+    .label = ট্যাবের মধ্যে দিয়ে Ctrl+Tab সাইকেল করে সম্প্রতি ব্যবহৃত সারিতে
     .accesskey = T
+open-new-link-as-tabs =
+    .label = নতুন উইন্ডোর পরিবর্তে নতুন ট্যাবে লিঙ্ক খুলুন
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = একাধিক ট্যাব বন্ধ করার প্রচেষ্টা করা হলে সতর্কবাণী প্রদর্শিত হবে
     .accesskey = m
@@ -182,6 +211,12 @@ choose-language-description = পৃষ্ঠা প্রদর্শনের 
 choose-button =
     .label = নির্বাচন করুন…
     .accesskey = o
+choose-browser-language-description = { -brand-short-name } থেকে মেনু, বার্তা এবং বিজ্ঞপ্তি প্রদর্শন করতে ব্যবহৃত ভাষা সমূহকে চয়ন করুন।
+manage-browser-languages-button =
+    .label = বিকল্প সেট করুন...
+    .accesskey = l
+confirm-browser-language-change-description = এই পরিবর্তনগুলি প্রয়োগ করতে { -brand-short-name } কে পুনরায় আরম্ভ করুন
+confirm-browser-language-change-button = প্রয়োগ করুন এবং পুনরায় আরম্ভ করুন
 translate-web-pages =
     .label = এবং ওয়েব বিষয়বস্তু অনুবাদ করুন
     .accesskey = T
@@ -233,7 +268,6 @@ play-drm-content =
 play-drm-content-learn-more = আরও জানুন
 update-application-title = { -brand-short-name } আপডেট
 update-application-description = সেরা কর্মক্ষমতা, স্থায়িত্ব এবং নিরাপত্তার জন্য { -brand-short-name } আপ টু ডেট রাখুন।
-update-application-info = সংস্করণ { $version } <a>নতুন কি</a>
 update-application-version = সংস্করণ { $version } <a data-l10n-name="learn-more">নতুন কি</a>
 update-history =
     .label = আপডেটের ইতিহাস দেখাও…
@@ -269,7 +303,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = কন্টেন্ট প্রসেসের সীমা
     .accesskey = L
 performance-limit-content-process-enabled-desc = একাধিক ট্যাব ব্যবহার করার সময় অতিরিক্ত কন্টেন্ট প্রসেসের কার্য সম্পাদন করতে পারে, কিন্তু এটি আরো মেমরি ব্যবহার করবে।
-performance-limit-content-process-disabled-desc = কন্টেন্ট প্রসেসের সংখ্যা পরিবর্তন শুধুমাত্র মাল্টিপ্রসেস { -brand-short-name }-র সাথে সম্ভব। <a>মাল্টিপ্রসেস সক্ষম আছে কিনা তা পরীক্ষা করা শিখুন</a>
 performance-limit-content-process-blocked-desc = কন্টেন্ট প্রসেসের সংখ্যা পরিবর্তন শুধুমাত্র মাল্টিপ্রসেস { -brand-short-name }-র সাথে সম্ভব। <a data-l10n-name="learn-more">মাল্টিপ্রসেস সক্ষম আছে কিনা তা পরীক্ষা করা শিখুন</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -294,21 +327,42 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = টাইপ শুরু করার সময় টেক্সট খুঁজুন
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = আপনি ব্রাউজ করেন এমন প্রস্তাবিত এক্সটেনশন
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = আরো জানুন
 
 ## General Section - Proxy
 
-network-proxy-title = নেটওয়ার্ক প্রক্সি
+network-settings-title = নেটওয়ার্ক সেটিংস
+network-proxy-connection-description = কিভাবে { -brand-short-name } ইন্টারেনেটে সংযোগ করে তা কনফিগার করুন।
+network-proxy-connection-learn-more = আরো জানুন
 network-proxy-connection-settings =
     .label = বৈশিষ্ট্যাবলী...
     .accesskey = ব
 
 ## Home Section
 
+home-new-windows-tabs-header = নতুন উইন্ডো এবং ট্যাবগুলি
+home-new-windows-tabs-description2 = হোমপেজ, নতুন ইউন্ডো এবং নতুন ট্যাব খুলে আপনি যা দেখতে চান তা নির্বাচন করুন।
 
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = হোম পেজ এবং নতুন উইন্ডোজ
 home-newtabs-mode-label = নতুন ট্যাবগুলি
+home-restore-defaults =
+    .label = ডিফল্টে পুনরায় স্থাপন করুন
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox হোম (ডিফল্ট)
+home-mode-choice-custom =
+    .label = কাস্টম URLs…
+home-mode-choice-blank =
+    .label = ফাঁকা পাতা
+home-homepage-custom-url =
+    .placeholder = URL পেস্ট করুন…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -323,9 +377,6 @@ use-current-pages =
 choose-bookmark =
     .label = বুকমার্ক প্রয়োগ করা হবে…
     .accesskey = B
-restore-default =
-    .label = ডিফল্ট মান পুনরায় স্থাপন করা হবে
-    .accesskey = R
 
 ## Search Section
 
@@ -342,6 +393,13 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ঠিকানা বার ফলাফলগুলিতে অনুসন্ধানের পরামর্শগুলি দেখান
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = ঠিকানা বার ফলাফলে ব্রাউজিং ইতিহাসের আগে অনুসন্ধান পরামর্শ দেখাও
 search-suggestions-cant-show = অনুসন্ধানের পরামর্শগুলি লোকেশান বারে দেখানো হবেনা কারণ আপনি { -brand-short-name } কনফিগার করেছেন হিস্ট্রিতে মনে না রাখার জন্য।
 search-one-click-header = একক-ক্লিক সার্চ ইঞ্জিন
 search-one-click-desc = আপনি কীওয়ার্ড লিখতে শুরু করার সময় ঠিকানা বার এবং অনুসন্ধান বারের নীচে প্রদর্শিত বিকল্প অনুসন্ধান ইঞ্জিনগুলি নির্বাচন করুন।
@@ -407,6 +465,12 @@ sync-manage-account = অ্যাকাউন্ট পরিচালনা
     .accesskey = o
 sync-signedin-unverified = { $email } যাঁচাই করা হয়নি।
 sync-signedin-login-failure = পুনঃসংযোগের জন্য সাইন ইন করুন { $email }
+sync-resend-verification =
+    .label = যাচাইকরণকে পুনরায় পাঠান
+    .accesskey = d
+sync-remove-account =
+    .label = অ্যাকাউন্ট মুছুন
+    .accesskey = p
 sync-sign-in =
     .label = সাইন-ইন করুন
     .accesskey = g
@@ -418,6 +482,34 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = পূর্ববর্তী তথ্য
     .accesskey = প
+sync-engine-tabs =
+    .label = ট্যাব খুলুন
+    .tooltiptext = সিঙ্ক করা ডিভাইসগুলোতে যা যা খোলা তার তালিকা
+    .accesskey = T
+sync-engine-logins =
+    .label = লগইন
+    .tooltiptext = আপনার সংরক্ষিত ব্যবহারকারী নাম ও পাসওয়ার্ড
+    .accesskey = L
+sync-engine-addresses =
+    .label = ঠিকানা
+    .tooltiptext = আপনার সংরক্ষিত ঠিকানা (কেবলমাত্র ডেস্কটপে)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = ক্রেডিট কার্ড
+    .tooltiptext = নাম, সংখ্যা এবং মেয়াদোত্তীর্ণের তারিখ ( কেবলমাত্র ডেস্কটপে)
+    .accesskey = C
+sync-engine-addons =
+    .label = অ্যাড-অন
+    .tooltiptext = Firefox ডেস্কটপের জন্য এক্সটেনশন ও থিম
+    .accesskey = A
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] অপশন
+           *[other] পছন্দসমূহ
+        }
+    .tooltiptext = সাধারণ, গোপনীয়তা এবং নিরাপত্তা সেটিং এ আপনি যা পরিবর্তন করেছেন
+    .accesskey = s
 sync-device-name-header = ডিভাইস নাম
 sync-device-name-change =
     .label = ডিভাইস নাম পরিবর্তন করুন…
@@ -428,6 +520,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = সংরক্ষণ করুন
     .accesskey = v
+sync-mobilepromo-single = অন্য ডিভাইস সংযুক্ত করুন
+sync-mobilepromo-multi = ডিভাইসের ব্যবস্থাপনা
 sync-tos-link = পরিসেবার নিয়মাবলী
 sync-fxa-privacy-notice = গোপনীয়তা সংক্রান্ত নীতি
 
@@ -438,6 +532,10 @@ privacy-header = ব্রাউজারের গোপনীয়তা
 ## Privacy Section - Forms
 
 forms-header = ফর্মগুলি & পাসওয়ার্ডগুলি
+logins-header = লগইন এবং পাসওয়ার্ড
+forms-ask-to-save-logins =
+    .label = ওয়েবসাইটের জন্য লগইন এবং পাসওয়ার্ড সংরক্ষণ করতে জিজ্ঞাসা করুন
+    .accesskey = r
 forms-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = ব
@@ -471,13 +569,14 @@ history-remember-option-never =
     .label = পূর্ববর্তী তথ্য কখনো মনে রাখা হবে না
 history-remember-option-custom =
     .label = পূর্ববর্তী তথ্য সম্বন্ধীয় স্বনির্ধারিত বৈশিষ্ট্য ব্যবহার করা হবে
+history-remember-description = { -brand-short-name } আপনার ব্রাউজিং, ডাউনলোড, ফর্ম এবং অনুসন্ধানের ইতিহাস মনে রাখবে।
 history-dontremember-description = ব্যক্তিগত ব্রাউজিংয়ের জন্য ব্যবহৃত বৈশিষ্ট্যগুলি { -brand-short-name } দ্বারা ব্যবহার করা হবে, ও ওয়েব ব্রাউজ করার সময়কার কোনো পূর্ববর্তী তথ্য সংরক্ষণ করা হবে না।
 history-private-browsing-permanent =
     .label = ব্যক্তিগত ব্রাউজিং মোড সর্বদা ব্যবহার করা হবে
     .accesskey = ব
-history-remember-option =
+history-remember-browser-option =
     .label = ব্রাউজিং ও ডাউনলোড সংক্রান্ত পূর্ববর্তী তথ্য মনে রাখা হবে
-    .accesskey = ব
+    .accesskey = b
 history-remember-search-option =
     .label = অনুসন্ধান ও ফর্ম সংক্রান্ত পূর্ববর্তী তথ্য মনে রাখা হবে
     .accesskey = অ
@@ -487,18 +586,41 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = বিবিধ বৈশিষ্ট্য…
     .accesskey = ব
+history-clear-button =
+    .label = ইতিহাস মুছে ফেলুন…
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = কুকি এবং সাইটের তথ্য
+sitedata-total-size-calculating = সাইটের তথ্য এবং ক্যাশের পরিমান গণনা করা হচ্ছে...
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = আপনার সংরক্ষিত কুকি, সাইটের তথ্য এবং ক্যাশ বর্তমানে ডিস্ক স্পেসের { $value } { $unit } ব্যবহার করছে।
 sitedata-learn-more = আরো শিখুন
 sitedata-keep-until = সংরক্ষণের সময়কাল
     .accesskey = u
-sitedata-accept-third-party-always-option =
-    .label = সর্বদা
-sitedata-accept-third-party-visited-option =
-    .label = পরিদর্শিত থেকে
-sitedata-accept-third-party-never-option =
-    .label = কখনই নয়
+sitedata-keep-until-expire =
+    .label = তাদের মেয়াদ উত্তীর্ণ হয়
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } বন্ধ হয়ে গেছে
+sitedata-allow-cookies-option =
+    .label = কুকি এবং সাইটের তথ্য গ্রহণ করুন
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = কুকি এবং সাইটের তথ্য ব্লক করুন
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = ধরণ ব্লক করা হয়েছে
+    .accesskey = T
+sitedata-clear =
+    .label = তথ্য পরিষ্কার করুন…
+    .accesskey = l
+sitedata-settings =
+    .label = তথ্যের ব্যবস্থাপনা…
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = E
@@ -518,9 +640,14 @@ addressbar-locbar-openpage-option =
     .accesskey = O
 addressbar-suggestions-settings = সার্চ ইঞ্জিনের পরিবর্তনের পছন্দসমূহ পরামর্শের জন্য
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 tracking-header = ট্র্যাকিং সুরক্ষা
+tracking-desc = ট্র্যাকিং সুরক্ষা অনলাইন ট্র্যাকারকে ব্লক করে, যারা বিভিন্ন সাইটে আপনার ব্রাউজিং তথ্য সংগ্রহ করে। <a data-l10n-name="learn-more">ট্রাকিং সুরক্ষা এবং আপনার গোপনীয়তা সম্পর্কে আরও জানুন</a>
+tracking-mode-label = জানা ট্রাকারগুলি ব্লক করতে ট্রাকিং সুরক্ষা ব্যবহার করুন
 tracking-mode-always =
     .label = সর্বদা
     .accesskey = y
@@ -530,10 +657,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = কখনই নয়
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = ব্যক্তিগত ব্রাউজিং এ জানা ট্র্যাকার ব্লক করতে ট্র্যাকিং সুরক্ষা ব্যবহার করুন
-    .accesskey = v
 tracking-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = x
@@ -590,9 +713,18 @@ collection-health-report =
     .label = { -brand-short-name } কে { -vendor-short-name } তে কারিগরী এবং ইন্টার‍্যাক্সান তথ্য পাঠাতে অনুমতি দিন
     .accesskey = r
 collection-health-report-link = আরও জানুন
+collection-studies =
+    .label = ইনস্টল করতে { -brand-short-name } কে অনুমতি দিন এবং অধ্যয়ন চালান
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে তথ্য রিপোর্ট করা নিস্ক্রিয় করা হয়েছে
+collection-browser-errors =
+    .label = { -vendor-short-name } এর কাছে ব্রাউজারের ত্রুটি রিপোর্ট (ত্রুটি বার্তাসহ) পাঠাতে { -brand-short-name } কে অনুমোদন দিন
+    .accesskey = b
+collection-browser-errors-link = আরও জানুন
+collection-backlogged-crash-reports =
+    .label = আপনার পক্ষে থেকে ব্যাকলগকৃত ক্রাশ রিপোর্টগুলি পাঠাতে { -brand-short-name } কে অনুমোদন করুন
+    .accesskey = c
 collection-backlogged-crash-reports-link = আরও জানুন
 
 ## Privacy Section - Security
