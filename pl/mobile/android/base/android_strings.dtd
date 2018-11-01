@@ -212,6 +212,9 @@
 
 <!ENTITY pref_feature_tips_notification_enabling_hint "Włącz">
 
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; → &pref_category_datareporting; → &datareporting_fhr_title;">
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "Włącz &pref_feature_tips_notification_enabling_path;">
+
 <!ENTITY pref_category_experimental "Funkcje eksperymentalne">
 
 <!ENTITY pref_custom_tabs2 "Niestandardowe karty">
