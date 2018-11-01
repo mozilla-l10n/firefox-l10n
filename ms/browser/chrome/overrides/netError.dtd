@@ -157,9 +157,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "Pemilik <span class='hostname'/> telah mengkonfigurasi laman web mereka dengan tidak betul.  Untuk meliindungi maklumat anda daripada dicuri, &brandShortName; tidak membuat sambungan dengan laman web ini.">
 <!ENTITY certerror.introPara2 "&brandShortName; mengesan ada potensi ancaman keselamatan dan tidak meneruskan ke <span class='hostname'/>. Jika anda lawat laman web ini, penyerang boleh cuba untuk mencuri maklumat seperti kata laluan, e-mel atau butiran kad kredit anda.">
 
-<!ENTITY certerror.sts.introPara "&brandShortName; mengesan potensi ancaman keselamatan dan tidak terus <span class='hostname'/> kerana laman web ini memerlukan sambungan yang selamat.">
-
 <!ENTITY certerror.expiredCert.secondPara "Isu ini mungkin disebabkan jam komputer anda ditetapkan kepada masa yang salah, yang akan menghalang &brandShortName; daripada menyambung dengan selamat.">
+
+<!ENTITY certerror.sts.introPara "&brandShortName; mengesan potensi ancaman keselamatan dan tidak terus <span class='hostname'/> kerana laman web ini memerlukan sambungan yang selamat.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; mengesan isu dan tidak terus <span class='hostname'/>. Laman web sama ada salah konfigurasi atau jam komputer ditetapkan mengikut masa yang salah.">
 <!ENTITY certerror.expiredCert.secondPara2 "Kemungkinan sijil laman web tamat tempoh, yang menghalang &brandShortName; menyambung dengan selamat. Jika anda melawat laman web ini, penyerang boleh cuba mencuri maklumat seperti kata laluan, emel atau butiran kad kredit anda.">
@@ -240,3 +240,5 @@ sijil ini.">
 
 <!ENTITY prefReset.longDesc "Tetapan keselamatan rangkaian anda mungkin menyebabkan masalah ini. Adakah anda mahu tetapan piawai anda dipulihkan?">
 <!ENTITY prefReset.label "Pulih tetapan piawai">
+
+<!ENTITY networkProtocolError.title "Ralat Protokol Rangkaian">
