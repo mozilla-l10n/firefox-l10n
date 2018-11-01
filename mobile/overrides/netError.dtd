@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Zmylk při čitanju strony">
 <!ENTITY retry.label "Hišće raz spytać">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Zwisk móžny njeje">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -80,25 +80,25 @@
 
 <!ENTITY nssBadCert.title "Wěsty zwisk móžny njeje">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>To móhło problem z konfiguraciju serwera być, abo móhło być, zo něchtó pospytuje serwer imitować.</li> <li>Jeli sće ze serwerom w zańdźenosći wuspěšnje zwjazany był, móhł zmylk snano nachwilny być a móžeće pozdźišo hišće raz spytać.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Sydło njesteji snano nachwilu k dispoziciji abo je přećežene. Spytajće za mało wokomikow hišće raz.</li> <li>Jeli njemóžeće strony začitać, přepruwujće datowy abo WLAN-zwisk wašeho mobilneho grata. <button id='wifi'>WLAN zmóžnić</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Přez wěstotne prawidła za wobsah zablokowany">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je začitanju tuteje strony na tute wašnje zadźěwał, dokelž strona ma wěstotne prawidła za wobsah, kotrež to njedowoleja.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Zmylk - wobškodźeny wobsah">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Strona, kotruž chceće sej wobhladać, njeda so pokazać, dokelž je so zmylk při přenošowanju datow namakał.</p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Strona, kotruž pospytujeće sej wobhladać, njeda so pokazać, dokelž je so zmylk při přenošowanju datow namakał.</p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Abo móžeće wuwzaće přidać…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Chcu tu won!">
 <!ENTITY securityOverride.exceptionButtonLabel "Wuwzaće přidać…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Njebyšće měł wuwzaće přidać, jeli internetny zwisk wužiwaće, kotremuž cyle njedowěrjeće abo jeli njewidźiće warnowanje za tutón serwer.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> wužiwa wěstotnu technologiju, kotraž je zestarjena a sensibelna za nadpady. Nadpadowar móhł informacije lochko wotkryć, kotrež za wěste maće. Websydłowy administrator dyrbi problem na serwerje rozrisać, prjedy hač móžeće sydło wopytać.</p><p>Zmylkowy kode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Zmylk syćoweho protokola">
+<!ENTITY networkProtocolError.longDesc "<p>Strona, kotruž pospytujeće sej wohladać, njeda so pokazać, dokelž je so zmylk w syćowym protokolu namakał.</p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li></ul>">
