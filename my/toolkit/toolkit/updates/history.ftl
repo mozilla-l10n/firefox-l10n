@@ -4,7 +4,7 @@
 
 history-title = မွမ်းမံချက် မှတ်တမ်း
 close-button-label =
-    .buttonlabelcancel = ပိတ်ပါ{ " " }
+    .buttonlabelcancel = ပိတ်ပါ
     .title = မွမ်းမံချက် မှတ်တမ်း
 no-updates-label = မွမ်းမံချက်များကို မတပ်ဆင်ရသေးဘူး
 name-header = မွမ်းမံချက် အမည်
