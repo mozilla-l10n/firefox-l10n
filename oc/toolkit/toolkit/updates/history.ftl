@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Istoric de las mesas a jorn
+history-intro = Las mesas a jorn seguentas son estadas installadas
 close-button-label =
     .buttonlabelcancel = Tampar
     .title = Istoric de las mesas a jorn
