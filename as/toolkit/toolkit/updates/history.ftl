@@ -3,9 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = ইতিহাস আপডেইট কৰক
+close-button-label =
+    .buttonlabelcancel = বন্ধ কৰক
+    .title = ইতিহাস আপডেইট কৰক
 no-updates-label = কোনো আপডেইট ইনস্টল কৰা হোৱা নাই
 name-header = আপডেইটৰ নাম
+date-header = ইনস্টলৰ তাৰিখ
 type-header = ধৰণ
+state-header = অবস্থা
 # Used to display update history
 #
 # Variables:
