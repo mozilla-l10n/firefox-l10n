@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Ɛreḍ-it tura
+onboarding-button-label-get-started = Bdu
 onboarding-welcome-header = Ansuf γer { -brand-short-name }
 onboarding-start-browsing-button-label = Bdu tunigin
 
@@ -24,3 +25,5 @@ onboarding-addons-title = Izegrar
 onboarding-addons-text = Rnu ugar n tmahilin iwakken { -brand-short-name } ad yeqdec akken i wen-iwata. Snemhel atigen, wali addad n tegnawt neɣ sken-d taweggiṭ-ik s usentel udmawan.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Inig s wudem arurad, uḥric, neɣ aɣelsan s isiɣzaf am Ghostery, ara k-yeǧǧen ad tesweḥleḍ adellel ur nemɛin ara.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sync
