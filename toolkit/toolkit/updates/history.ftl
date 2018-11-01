@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Riwayat Pemutakhiran
+history-intro = Pembaruan berikut ini telah dipasang
 close-button-label =
     .buttonlabelcancel = Tutup
     .title = Riwayat Pemutakhiran
