@@ -11,3 +11,10 @@ name-header = Шинэчлэлийн нэр
 date-header = Суулгасан огноо
 type-header = Төрөл
 state-header = Төлөв
+# Used to display update history
+#
+# Variables:
+#   $name (String): name of the update
+#   $buildID (String): build identifier from the local updates.xml
+update-full-name =
+    .name = { $name } ({ $buildID })
