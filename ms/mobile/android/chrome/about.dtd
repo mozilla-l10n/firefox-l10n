@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Perihal &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; masih dalam percubaan dan mungkin tidak stabil.">
-<!ENTITY aboutPage.telemetryStart               " Menghantar maklumat prestasi, perkakasan, penggunaan dan penyesuaian secara automatik kembali ke ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " untuk membantu menjadikan &brandShortName; lebih baik.">
 <!ENTITY aboutPage.checkForUpdates.link         "Semak Kemaskini »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Mencari kemaskini…">
 <!ENTITY aboutPage.checkForUpdates.none         "Tiada kemaskini tersedia">
@@ -21,4 +18,4 @@
 <!ENTITY aboutPage.license.label                "Maklumat Perlesenan">
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
-<!ENTITY aboutPage.logoTrademark                "Firefox dan logo Firefox adalah cap dagangan Yayasan Mozilla.">
+<!ENTITY aboutPage.logoTrademark                "Firefox dan logo Firefox adalah cap dagangan Mozilla Foundation.">
