@@ -593,6 +593,9 @@ sitedata-keep-until-expire =
     .label = Sudah luput
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ditutup
+sitedata-delete-on-close =
+    .label = Buang kuki dan data laman apabila { -brand-short-name } ditutup
+    .accesskey = k
 sitedata-allow-cookies-option =
     .label = Terima kuki dan data laman
     .accesskey = T
@@ -838,3 +841,7 @@ certs-view =
 certs-devices =
     .label = Peranti Keselamatan…
     .accesskey = P
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Simpan fail ke { $service-name }
