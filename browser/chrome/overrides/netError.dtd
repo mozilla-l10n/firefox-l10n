@@ -97,9 +97,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "Mějaŕ <span class='hostname'/> jo swójo websedło wopak konfigurěrował. Aby swóje informacije pśeśiwo tomu šćitał, až se kšadnu, njejo &brandShortName; z toś tym websedłom zwězało.">
 <!ENTITY certerror.introPara2 "&brandShortName; jo namakał potencielne wobgrozenje wěstoty a njejo togodla zwězał z <span class='hostname'/>. Jolic se k toś tomu sedłoju woglědujośo, mógli napadowarje wopytaś, daty ako waše gronidło, e-mailowe adrese abo drobnostki kreditowych kórtow kšadnuś.">
 
-<!ENTITY certerror.sts.introPara "&brandShortName; jo namakał potencielne wěstotne wobgrozenje a jo pśetergnuł zwisk z <span class='hostname'/>, dokulaž se toś to websedło wěsty zwisk pomina.">
-
 <!ENTITY certerror.expiredCert.secondPara "Toś ten problem se nejskerjej zawinujo, dokulaž zeger wašogo licadła wopacny cas wužywa, což &brandShortName; pśi wěstem zwězowanju zajźujo.">
+
+<!ENTITY certerror.sts.introPara "&brandShortName; jo namakał potencielne wěstotne wobgrozenje a jo pśetergnuł zwisk z <span class='hostname'/>, dokulaž se toś to websedło wěsty zwisk pomina.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; jo namakał problem a jo pśetergnuł zwisk z <span class='hostname'/>. Websedło jo pak wopak skonfigurěrowane abo zeger wašogo licadła jo nastajony na wopacny cas.">
 <!ENTITY certerror.expiredCert.secondPara2 "Nejskerjej jo certifikat websedła spadnjony, kótaryž &brandShortName; wěste zwězowanje zawoborujo. Jolic k toś tomu sedłoju woglědujośo, mógu napadowarje daty ako waše gronidła, mejlki abo daty kreditoweje kórty kšadnuś.">
@@ -164,3 +164,6 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Zda se, až waše nastajenja seśoweje wěstoty by mógli to zawinowaś. Cośo standardne nastajenja wótnowiś?">
 <!ENTITY prefReset.label "Standardne nastajenja wótnowiś">
+
+<!ENTITY networkProtocolError.title "Zmólka seśowego protokola">
+<!ENTITY networkProtocolError.longDesc "<p>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž jo se zmólka w seśowem protokolu namakała.</p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li></ul>">

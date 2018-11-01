@@ -611,6 +611,9 @@ sitedata-keep-until-expire =
     .label = až njepśepadnu
 sitedata-keep-until-closed =
     .label = { -brand-short-name } se njezacynijo
+sitedata-delete-on-close =
+    .label = Cookieje a sedłowe daty wulašowaś, gaž se { -brand-short-name } zacynja
+    .accesskey = s
 sitedata-allow-cookies-option =
     .label = Cookieje a sedłowe daty akceptěrowaś
     .accesskey = C
@@ -856,3 +859,7 @@ certs-view =
 certs-devices =
     .label = Wěstotne rědy…
     .accesskey = t
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Dataje do { $service-name } składowaś
