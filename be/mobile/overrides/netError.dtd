@@ -219,3 +219,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> выкарыстоўвае тэхналогію бяспекі, якая з'яўляецца састарэлай і ўразлівай да нападаў. Нападаючы можа з лёгкасцю раскрыць інфармацыю, якая, на вашу думку, з'яўляецца абароненай. Для наведвання сайта, адміністратар сайта павінен выправіць гэта на сэрверы.</p><p>Код памылкі: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Памылка сеткавага пратаколу">
+<!ENTITY networkProtocolError.longDesc "<p>Старонка, якую вы спрабуеце прагледзець, не можа быць паказана, бо была выяўленая памылка ў сеткавым пратаколе.</p><ul><li>Калі ласка, звяжыцеся з уладальнікамі вэб-сайта, каб паведаміць ім аб гэтай праблеме.</li></ul>">
