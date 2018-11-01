@@ -2,9 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+history-title = I-update ang Kasaysayan
+history-intro = Ang mga sumusunod na update ay na install na
+close-button-label =
+    .buttonlabelcancel = Isara
+    .title = I-update ang Kasaysayan
 no-updates-label = Wala pang updates na naka-install
 name-header = Pangalan ng Update
 date-header = Petsa ng pag-Install
+type-header = Tepo
 state-header = Estado
 # Used to display update history
 #
