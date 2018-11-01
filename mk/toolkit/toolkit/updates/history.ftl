@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Историја на надградби
+history-intro = Инсталирани се следниве надградби
 close-button-label =
     .buttonlabelcancel = Затвори
     .title = Историја на надградби
