@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Atnaujinimo žurnalas
+history-intro = Buvo įdiegti šie atnaujinimai
 close-button-label =
     .buttonlabelcancel = Užverti
     .title = Atnaujinimo žurnalas
