@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Atjaunināšanas vēsture
+history-intro = Ir instalēti šādi atjauninājumi
 close-button-label =
     .buttonlabelcancel = Aizvērt
     .title = Atjaunināšanas vēsture
