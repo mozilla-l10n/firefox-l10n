@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Թարմացման Մատյան
+history-intro = Հետևյալ թարմացումները տեղադրվել են
 close-button-label =
     .buttonlabelcancel = Փակել
     .title = Թարմացման Մատյան
