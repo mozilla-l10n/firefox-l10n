@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Enndu ɗum jooni
+onboarding-button-label-get-started = Fuɗɗo
 onboarding-welcome-header = A jaɓɓaama e { -brand-short-name }
 onboarding-start-browsing-button-label = Fuɗɗo wanngaade
 
@@ -24,3 +25,6 @@ onboarding-addons-title = ɓeyditte
 onboarding-addons-text = Ɓeydu kadi gollirɗe goɗɗe mbele { -brand-short-name } ina gollano maa no moƴƴi. Yerondir coodguuli, humpito meteyoo walla hollitir neɗɗaagu maa kettol neɗɗinangol.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Huutoro njokkon mbaakon no Ghostery ngam banngagol ɓurngol yaawde, ɓurngol ƴoƴde walla siirde, sibu ekon paddoo jeeyle kaljinooje.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sync
+onboarding-fxa-text = Winndito ngam { -fxaccount-brand-name } njahdinaa maante maa, pinle maa kam e tabbe udditiiɗe kala ɗo kuutorto-ɗaa { -brand-short-name }.

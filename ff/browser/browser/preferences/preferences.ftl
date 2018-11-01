@@ -605,6 +605,9 @@ sitedata-keep-until-expire =
     .label = Ɗe mbuntii
 sitedata-keep-until-closed =
     .label = { -brand-short-name } uddaama
+sitedata-delete-on-close =
+    .label = Momtu kuukiiji e keɓe lowre ndee so { -brand-short-name } uddiima
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Jaɓ kuukiiji e loowdi lowre ndee
     .accesskey = J
@@ -850,3 +853,7 @@ certs-view =
 certs-devices =
     .label = Masiŋon Kisal…
     .accesskey = D
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Daɗndu piille to { $service-name }
