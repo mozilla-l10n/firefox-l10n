@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+history-title = Kinatab'al taq k'exoj ruwäch
+close-button-label =
+    .buttonlabelcancel = Titz'apïx
+    .title = Kinatab'al taq k'exoj ruwäch
 no-updates-label = Majun taq k'exoj ruwäch eyakon
 name-header = Rub'i' ri k'exoj ruwäch
 date-header = Ruq'ijul yakoj
