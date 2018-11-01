@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Yenilənmə Tarixçəsi
+history-intro = Bu yeniləmələr quruldu
 close-button-label =
     .buttonlabelcancel = Qapat
     .title = Yenilənmə Tarixçəsi
@@ -10,6 +11,7 @@ no-updates-label = Heç bir yeniləmə yüklənməyib
 name-header = Yeniləmənin Adı
 date-header = Quraşdırma tarixi
 type-header = Format
+state-header = Vəziyyət
 # Used to display update history
 #
 # Variables:
