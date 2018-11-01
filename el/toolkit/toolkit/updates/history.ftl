@@ -10,6 +10,7 @@ close-button-label =
 no-updates-label = Δεν έχουν εγκατασταθεί ενημερώσεις
 name-header = Όνομα ενημέρωσης
 date-header = Ημερομηνία εγκατάστασης
+type-header = Τύπος
 state-header = Κατάσταση
 # Used to display update history
 #
