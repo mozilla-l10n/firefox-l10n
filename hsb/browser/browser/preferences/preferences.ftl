@@ -611,6 +611,9 @@ sitedata-keep-until-expire =
     .label = njespadnu
 sitedata-keep-until-closed =
     .label = { -brand-short-name } so njezačini
+sitedata-delete-on-close =
+    .label = Placki a sydłowe daty zhašeć, hdyž so { -brand-short-name } začinja
+    .accesskey = s
 sitedata-allow-cookies-option =
     .label = Placki a sydłowe daty akceptować
     .accesskey = P
@@ -856,3 +859,7 @@ certs-view =
 certs-devices =
     .label = Wěstotne graty…
     .accesskey = t
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Dataje do { $service-name } składować

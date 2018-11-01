@@ -97,9 +97,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "Mějićel <span class='hostname'/> je swoje websydło wopak konfigurował. Zo byšće swoje informacije přećiwo tomu škitał, zo so kradnu, njeje &brandShortName; z tutym websydłom zwjazał.">
 <!ENTITY certerror.introPara2 "&brandShortName; je potencielne wohroženje wěstoty a njeje tohodla zwjazał z <span class='hostname'/>. Jeli so tute sydło wopytujeće, móhli nadpadnicy spytać, daty kaž waše hesło, e-mejlowe adresy abo podrobnosće kreditnych kartow kradnyć.">
 
-<!ENTITY certerror.sts.introPara "&brandShortName; je potencielne wěstotne wohroženje wotkrył a přetorhny zwisk z <span class='hostname'/>, dokelž sej tute websydło wěsty zwisk wužaduje.">
-
 <!ENTITY certerror.expiredCert.secondPara "Tutón problem so najskerje zawinuje, dokelž časnik wašeho ličaka wopačny čas wužiwa, štož &brandShortName; při wěstym zwjazowanju haći.">
+
+<!ENTITY certerror.sts.introPara "&brandShortName; je potencielne wěstotne wohroženje wotkrył a přetorhny zwisk z <span class='hostname'/>, dokelž sej tute websydło wěsty zwisk wužaduje.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; je problem wotkrył a přetorhny zwisk z <span class='hostname'/>. Websydło je pak wopak skonfigurowane abo časnik wašeho ličaka je na wopačny čas nastajeny.">
 <!ENTITY certerror.expiredCert.secondPara2 "Najskerje je certifikat websydła spadnjeny, kotryž &brandShortName; při wěstym zwjazowanju haći. Jeli tute sydło wopytujeće, móža nadpadnicy daty kaž waše hesła, e-mejlki abo daty kreditneje karty kradnyć.">
@@ -164,3 +164,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Zda so, zo waše nastajenja syćoweje wěstoty móhli to zawinować. Chceće standardne nastajenja wobnowić?">
 <!ENTITY prefReset.label "Standardne nastajenja wobnowić">
+
+<!ENTITY networkProtocolError.title "Zmylk syćoweho protokola">
