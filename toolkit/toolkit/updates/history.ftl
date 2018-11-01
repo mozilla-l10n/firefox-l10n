@@ -1,0 +1,20 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+history-title = Lược sử Cập nhật
+close-button-label =
+    .buttonlabelcancel = Đóng
+    .title = Lược sử Cập nhật
+no-updates-label = Chưa cài bản cập nhật nào
+name-header = Tên bản Cập nhật
+date-header = Ngày Cài
+type-header = Loại
+state-header = Tình trạng
+# Used to display update history
+#
+# Variables:
+#   $name (String): name of the update
+#   $buildID (String): build identifier from the local updates.xml
+update-full-name =
+    .name = { $name } ({ $buildID })
