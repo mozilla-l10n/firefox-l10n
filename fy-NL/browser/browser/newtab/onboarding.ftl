@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = No probearje
+onboarding-button-label-get-started = Begjinne
 onboarding-welcome-header = Wolkom by { -brand-short-name }
 onboarding-start-browsing-button-label = Begjinne mei sneupen
 
@@ -24,3 +25,6 @@ onboarding-addons-title = Add-ons
 onboarding-addons-text = Foegje sels mear funksjes ta dy't { -brand-short-name } hurder foar jo wurkje lit. Fergelykje prizen, besjoch it waarberjocht of druk jo persoanlikheid út mei in oanpast tema.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Sneup flugger, tûker of feiliger mei útwreidingen lykas Ghostery, wêrmei't jo ferfelende advertinsjes blokkearje kinne.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Syngronisearje
+onboarding-fxa-text = Meitsje in { -fxaccount-brand-name } oan en syngronisearje jo blêdwizers, wachtwurden en iepen ljepblêden, oeral wêr't jo { -brand-short-name } brûke.

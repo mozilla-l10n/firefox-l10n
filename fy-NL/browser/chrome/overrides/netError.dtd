@@ -243,3 +243,6 @@ allinnich in befeilige ferbining meitsje mei. Hjirtroch is it net mooglik om in
 
 <!ENTITY prefReset.longDesc "It liket derop dat dit troch jo netwurkbefeiligingsynstellingen feroarsake wurdt. Wolle jo de standertynstellingen werom bringe?">
 <!ENTITY prefReset.label "Standertynstellingen werom bringe">
+
+<!ENTITY networkProtocolError.title "Netwurkprotokolflater">
+<!ENTITY networkProtocolError.longDesc "<p>De side dy't jo besjen wolle kin net werjûn wurde, omdat der in flater yn it netwurkprotokol detektearre is.</p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul>">
