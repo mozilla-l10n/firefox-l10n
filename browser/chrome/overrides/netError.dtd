@@ -142,9 +142,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> 的網站管理員未正確設定好網站。為了確保您的資訊不會被盜走，&brandShortName; 並未連線至該網站。">
 <!ENTITY certerror.introPara2 "&brandShortName; 偵測到可能有安全性風險，並未連線至 <span class='hostname'/>。若您要造訪此網站，攻擊者可能會嘗試偷走您的密碼、電子郵件或信用卡資料等個資。">
 
-<!ENTITY certerror.sts.introPara "&brandShortName; 偵測到潛在的安全性威脅，並未連線到 <span class='hostname'/>。此網站必須使用安全性連線。">
-
 <!ENTITY certerror.expiredCert.secondPara "這個問題最有可能是因為您的系統時間不準，造成 &brandShortName; 無法安全地連線到該網站。">
+
+<!ENTITY certerror.sts.introPara "&brandShortName; 偵測到潛在的安全性威脅，並未連線到 <span class='hostname'/>。此網站必須使用安全性連線。">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; 偵測到潛在的安全性威脅，並未連線到 <span class='hostname'/>。此網站可能有設定問題，或您的電腦上的時間不正確。">
 <!ENTITY certerror.expiredCert.secondPara2 "可能是網站的憑證已經過期，讓 &brandShortName; 無法安全地連線。若您造訪此網站，攻擊者可能嘗試偷走您的密碼、電子郵件、信用卡資料等個人資訊。">
@@ -215,3 +215,6 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "看來可能是您的網路安全設定造成此問題，您是否要恢復預設設定值？">
 <!ENTITY prefReset.label "還原預設設定">
+
+<!ENTITY networkProtocolError.title "網路通訊協定錯誤">
+<!ENTITY networkProtocolError.longDesc "<p>因為偵測到網路通訊協定中的問題，無法顯示您嘗試檢視的頁面。</p><ul><li>請聯絡網站管理員來解決這個問題。</li></ul>">
