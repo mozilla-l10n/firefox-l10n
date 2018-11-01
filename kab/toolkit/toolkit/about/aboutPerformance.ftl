@@ -10,6 +10,7 @@ column-type = Tawsit
 
 ## Special values for the Name column
 
+ghost-windows = Iccaren imedlen melmi kan
 
 ## Values for the Type column
 

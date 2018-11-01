@@ -98,6 +98,7 @@
 
 <!ENTITY certerror.longpagetitle1 "Tuqqna-inek d taraɣelsant">
 <!ENTITY certerror.longpagetitle2 "Ɣur-k: izmer ad yili ugur n teɣlist">
+<!ENTITY certerror.sts.longpagetitle  "Ur yeqqin ara: Yezmer ad yili ugur n teɣlist">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -106,6 +107,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "Ugur-agi ad yili iḍra-d imi akud n uselkim-inek mačči d ameɣtu, aya issewḥel tuqna n &brandShortName; s tɣellist.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; yufa-d dakken izmer ad yili ugur n teɣlist u ur ikemmel ara ɣer <span class='hostname'/> acku asmel-agi isra tuqqna tɣelsant.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "D acu i tzemreḍ ad txedmeḍ i waya?">
@@ -149,6 +151,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Tuqqna taraɣelsant">
 <!ENTITY certerror.pagetitle2  "Ɣur-k: izmer ad yili ugur n teɣlist">
+<!ENTITY certerror.sts.pagetitle  "Ur yeqqin ara: Yezmer ad yili ugur n teɣlist">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Asmel-agi iseqdac HTTP n tɣellist n umesni ufrin (HSTS) iwakken ad yebgen i &brandShortName; akken ad yeqqen kan s tɣeliist. Ihi, d awezɣi timerna n tsureft i uselkin-agi.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ɣur-s tasertit n tɣellist HTTP Strict Transport Security (HSTS), ay-agi yemmal-d d akken &brandShortName; izmer kan ad iqqen ɣur-s s tɣellist. Ur tezmireḍ ara ad ternuḍ tasureft akken ad twaliḍ asmel-agi.">
 <!ENTITY certerror.copyToClipboard.label "Nɣel aḍris ɣef affus">
@@ -166,3 +169,4 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Akken nettwali, d iɣewwaṛen n tɣellist n uzeṭṭa-inek i d-yewwin ugur-a. Tebɣiḍ ad terreḍ iɣewwaṛen imezwar?">
 <!ENTITY prefReset.label "Err-d iɣewwaṛen imezwar">
 
+<!ENTITY networkProtocolError.title "Tuccḍa deg uneggaf n uẓeṭṭa">
