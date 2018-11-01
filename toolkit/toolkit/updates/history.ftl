@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = வரலாற்றைப் புதுப்பி
+history-intro = பின்வரும் மேம்படுத்தல்கள் நிறுவப்பட்டுவிட்டன
 close-button-label =
     .buttonlabelcancel = மூடு
     .title = வரலாற்றைப் புதுப்பி
