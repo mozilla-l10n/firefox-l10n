@@ -605,6 +605,9 @@ sitedata-keep-until-expire =
     .label = তাদের মেয়াদ উত্তীর্ণ হয়
 sitedata-keep-until-closed =
     .label = { -brand-short-name } বন্ধ হয়ে গেছে
+sitedata-delete-on-close =
+    .label = { -brand-short-name } বন্ধ থাকলে কুকি এবং সাইট ডেটা মুছুন
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = কুকি এবং সাইটের তথ্য গ্রহণ করুন
     .accesskey = A
@@ -615,6 +618,16 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = ধরণ ব্লক করা হয়েছে
     .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = তৃতীয় পক্ষের ট্র্যাকারগুলি (প্রস্তাবিত)
+sitedata-block-trackers-option =
+    .label = তৃতীয় পক্ষের ট্র্যাকারগুলি
+sitedata-block-unvisited-option =
+    .label = পরিদর্শন করা নয় এমন ওয়েবসাইটের কুকি
+sitedata-block-all-third-party-option =
+    .label = সমস্ত তৃতীয় পক্ষের কুকি (ওয়েবসাইটকে অচল করতে পারে)
+sitedata-block-all-option =
+    .label = সমস্ত কুকি (ওয়েবসাইটকে অচল করবে)
 sitedata-clear =
     .label = তথ্য পরিষ্কার করুন…
     .accesskey = l
@@ -624,6 +637,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = ব্যতিক্রম...
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = সামগ্রী ব্লকিংয়ের আপনার সেটিংস কুকি এবং সাইটের তথ্যের সেটিংসগুলির পরিবর্তনগুলিকে আটকেছে।
 
 ## Privacy Section - Address Bar
 
@@ -642,6 +659,45 @@ addressbar-suggestions-settings = সার্চ ইঞ্জিনের প�
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = বিষয়বস্তুর ব্লকিং
+content-blocking-desc = বিজ্ঞাপন অথবা কোডের মত তৃতীয় পক্ষের বিষয়বস্তু ব্লক করুন, যা আপনার ব্রাউজিংকে ধীরগতি সম্পন্ন করে দেয় এবং ওয়েবে আপনাকে ট্র্যাক করতে পারে। সুরক্ষা এবং কর্মক্ষমতা সেরা ব্যালেন্সের জন্য আপনার সেটিংসকে কাস্টমাইজ করুন।
+content-blocking-learn-more = আরো জানুন
+content-blocking-restore-defaults =
+    .label = ডিফল্ট রিস্টোর করুন
+    .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = বিষয়বস্তুর ব্লকিং বন্ধ করুন
+content-blocking-toggle-off =
+    .tooltiptext = বিষয়বস্তুর ব্লক করা চালু করুন
+content-blocking-toggle-label-on = চালু করুন
+    .accesskey = O
+content-blocking-toggle-label-off = বন্ধ
+    .accesskey = O
+content-blocking-category-label = কি ব্লক করতে তা চয়ন করুন
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = ধীরে লোড হওয়া ট্র্যাকারগুলি
+    .accesskey = S
+content-blocking-fastblock-new-description = দ্রুত লোড হওয়া থেকে পৃষ্ঠাকে আটকায় এমন ট্র্যাকারগুলিকে ব্লক করুন।
+content-blocking-tracking-protection-trackers-label =
+    .label = ট্র্যাকারগুলি
+    .accesskey = T
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = সমস্ত সনাক্তকারী ট্র্যাকারগুলি
+    .accesskey = T
+content-blocking-tracking-protection-new-description = সব পরিচিত ট্র্যাকারগুলিকে ব্লক করুন। (লোড হতে কিছু পৃষ্ঠা প্রতিরোধ করতে পারে।)
+content-blocking-tracking-protection-option-always =
+    .label = সর্বদা
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = শুধুমাত্র ব্যাক্তিগত উইন্ডোতে
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = ব্লক তালিকা পরিবর্তন করুন
+content-blocking-third-party-cookies-label =
+    .label = তৃতীয় পক্ষের কুকি
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
@@ -723,7 +779,7 @@ collection-browser-errors =
     .accesskey = b
 collection-browser-errors-link = আরও জানুন
 collection-backlogged-crash-reports =
-    .label = আপনার পক্ষে থেকে ব্যাকলগকৃত ক্রাশ রিপোর্টগুলি পাঠাতে { -brand-short-name } কে অনুমোদন করুন
+    .label = আপনার পক্ষ থেকে ব্যাকলগকৃত ক্রাশ রিপোর্টগুলি পাঠাতে { -brand-short-name } কে অনুমোদন করুন
     .accesskey = c
 collection-backlogged-crash-reports-link = আরও জানুন
 
