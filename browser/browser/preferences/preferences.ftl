@@ -605,6 +605,9 @@ sitedata-keep-until-expire =
     .label = Se ferrinne
 sitedata-keep-until-closed =
     .label = { -brand-short-name } sluten wurdt
+sitedata-delete-on-close =
+    .label = Cookies en websitegegevens fuortsmite sa gau as { -brand-short-name } sluten wurdt
+    .accesskey = C
 sitedata-allow-cookies-option =
     .label = Cookies en websitegegevens akseptearje
     .accesskey = a
@@ -850,3 +853,7 @@ certs-view =
 certs-devices =
     .label = Feilichheidsapparaten…
     .accesskey = F
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Bestannen bewarje nei { $service-name }
