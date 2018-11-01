@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Spytajće nětko
+onboarding-button-label-get-started = Prěnje kroki
 onboarding-welcome-header = Witajće k { -brand-short-name }
 onboarding-start-browsing-button-label = Přehladowanje startować
 
@@ -24,3 +25,5 @@ onboarding-addons-title = Přidatki
 onboarding-addons-text = Přidajće dalše funkcije, zo by { -brand-short-name } ćešo za was dźěłał. Přirunajće płaćizny, wobhońće so za wjedrom abo zwurazńće swoju wosobinu ze swójskej drastu.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Přehladujće spěšnišo, bóle inteligentnje abo wěsćišo z rozšěrjenjemi kaž Ghostery, kotrež wam zmóžnja, wobćežne wabjenje blokować.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Synchronizować
