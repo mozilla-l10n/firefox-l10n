@@ -593,6 +593,9 @@ sitedata-keep-until-expire =
     .label = Cookie 過期
 sitedata-keep-until-closed =
     .label = 關閉 { -brand-short-name }
+sitedata-delete-on-close =
+    .label = 關閉 { -brand-short-name } 時清除 Cookie 與網站資料
+    .accesskey = C
 sitedata-allow-cookies-option =
     .label = 允許網站設定 Cookie 與網站資料
     .accesskey = A
@@ -838,3 +841,7 @@ certs-view =
 certs-devices =
     .label = 安全性裝置…
     .accesskey = D
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = 儲存檔案到 { $service-name }
