@@ -291,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Μάθετε περισσότερα σχετικά με τη χρήση του &brandShortName; και άλλων προϊόντων της &vendorShortName;">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "Ενεργοποίηση">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Πειραματικές λειτουργίες">
@@ -363,7 +368,6 @@
 <!ENTITY pref_use_system_font_size_summary "Κλιμάκωση περιεχομένου ιστού σύμφωνα με το μέγεθος γραμματοσειράς του συστήματος">
 
 <!ENTITY pref_media_autoplay_enabled "Αποδοχή αυτόματης αναπαραγωγής">
-<!ENTITY pref_media_autoplay_enabled_summary "Καθορίστε αν οι ιστοσελίδες θα αναπαράγουν αυτόματα βίντεο και άλλο περιεχόμενο πολυμέσων">
 <!ENTITY pref_media_autoplay_allow "Αποδοχή αυτόμ. αναπαραγωγής">
 <!ENTITY pref_media_autoplay_block "Φραγή αυτόμ. αναπαραγωγής">
 <!ENTITY pref_zoom_force_enabled "Ενεργοποίηση μεγέθυνσης πάντα">
@@ -831,9 +835,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Αδυναμία έναρξης του &brandShortName;. Παρακαλούμε κάνετε νέα εγκατάσταση και δοκιμάστε ξανά.">
 
-<!ENTITY eol_notification_title2 "Το &brandShortName; δεν θα λαμβάνει πλέον ενημερώσεις">
-<!ENTITY eol_notification_summary "Πατήστε για να μάθετε περισσότερα">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "Το &brandShortName; είναι ενημερωμένο">
@@ -907,3 +908,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "Ειδοποιήσεις push του &brandShortName;">
 <!ENTITY updater_notification_channel "Ενημερώσεις εφαρμογής">
 <!ENTITY synced_tabs_notification_channel "Συγχρονισμένες καρτέλες">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Ειδοποιήσεις ιστοσελίδας">

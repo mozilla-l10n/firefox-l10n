@@ -215,3 +215,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p>Το <span class='hostname'></span> χρησιμοποιεί τεχνολογίες ασφάλειας οι οποίες είναι παρωχημένες και ευάλωτες σε επιθέσεις. Ένας εισβολέας θα μπορούσε εύκολα να αποκτήσει πληροφορίες που θεωρούσατε ότι είναι ασφαλείς. Ο διαχειριστής της ιστοσελίδας πρέπει να επιδιορθώσει τον διακομιστή προτού μπορέσετε να επισκεφθείτε τη σελίδα.</p><p>Κωδικός σφάλματος: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Σφάλμα πρωτοκόλλου δικτύου">
+<!ENTITY networkProtocolError.longDesc "<p>Η σελίδα που προσπαθείτε να δείτε δεν μπορεί να προβληθεί, επειδή ανιχνεύθηκε ένα σφάλμα στο πρωτόκολλο δικτύου.</p><ul><li>Παρακαλούμε επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους ενημερώσετε σχετικά με αυτό το πρόβλημα.</li></ul>">
