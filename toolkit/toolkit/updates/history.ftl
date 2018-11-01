@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Oppdateringshistorikk
+history-intro = Følgjande oppdateringar er installerte
+close-button-label =
+    .buttonlabelcancel = Lat att
+    .title = Oppdateringshistorikk
 no-updates-label = Ingen oppdateringar er installerte enno
 name-header = Oppdateringsnamn
 date-header = Installeringsdato
