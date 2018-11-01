@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = 업데이트 기록
+history-intro = 다음 업데이트들이 설치됨
 close-button-label =
     .buttonlabelcancel = 닫기
     .title = 업데이트 기록
