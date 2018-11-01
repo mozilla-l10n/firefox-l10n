@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+history-title = Atjaunināšanas vēsture
+close-button-label =
+    .buttonlabelcancel = Aizvērt
+    .title = Atjaunināšanas vēsture
+no-updates-label = Vēl nav instalēts neviens atjauninājums
+name-header = Atjauninājuma nosaukums
+date-header = Instalēšanas datums
+type-header = Tips
+state-header = Stāvoklis
 # Used to display update history
 #
 # Variables:
