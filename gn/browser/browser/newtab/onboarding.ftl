@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Eipuru ko’ág̃a
+onboarding-button-label-get-started = Ñepyrũ
 onboarding-welcome-header = Eg̃uahẽporãite { -brand-short-name }-pe
 onboarding-start-browsing-button-label = Eñepyrũ eikundaha
 
@@ -24,3 +25,6 @@ onboarding-addons-title = Moimbaha
 onboarding-addons-text = Embojuaju tembiapoiteve emonba’apo hag̃ua { -brand-short-name } ndéve g̃uarã. Emoñondive tepy, ema’ẽ árare térã ehechauka reikuaáva peteĩ téma ñemomba’epyre rupi.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Eikundaha pya’eve, katupyry ha tekorosãme Ghostery moimbaha ndive ikatúva ojoko maranduñemurã nemoñeko’õiva.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Mbojuehe
+onboarding-fxa-text = Eñemboheraguapy eguereko hag̃ua { -fxaccount-brand-name } ha embojuehe nde rechaukaha, ñe’ẽñemi ha tendayke ijurujáva eipuruhápe { -brand-short-name }.

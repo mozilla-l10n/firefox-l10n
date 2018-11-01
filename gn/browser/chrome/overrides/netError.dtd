@@ -99,8 +99,8 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> jára ombohekóma iñanduti kuatiarogue ndoikoiete hag̃uáicha. Anive hag̃ua nemarandu oñemonda, &brandShortName; ndaikatúi oike ko ñanduti rendápe.">
 <!ENTITY certerror.introPara2 "&brandShortName; ojuhu tekorosã ombyaikuaáva ha upévare opytáma <span class='hostname'/>. Eikéramo ko tendápe, ikatu umi mba’evai omondase ndehegui marandu ha’éva ñe’ẽñemi, ñanduti veve térã kuatia'atã ñemurãva.">
 
-
 <!ENTITY certerror.expiredCert.secondPara "Ko apañuãi ikatuhína pe aravo oĩvai rupi ne mohendahápe, oñatõiva &brandShortName;-pe oikekatu hag̃ua.">
+
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "¿Mba’épa ikatu ejapo upéicharamo?">
@@ -166,3 +166,5 @@ Pe arapapaha ne mohendaha rehegua oĩporã <span id='wrongSystemTime_systemDate2
 
 <!ENTITY prefReset.longDesc "Ne ñemboheko ñanduti rekorosãrã rehegua ikatu hína ojapo kóva. Emoĩporãsépa ñemboheko ijypyguáva rupi?">
 <!ENTITY prefReset.label "Embojevy ñemboheko ijypykuépe">
+
+<!ENTITY networkProtocolError.title "Jejavy guasu ñandutípe">

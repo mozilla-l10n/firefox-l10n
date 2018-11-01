@@ -605,6 +605,9 @@ sitedata-keep-until-expire =
     .label = opátama
 sitedata-keep-until-closed =
     .label = { -brand-short-name } oñembotýma
+sitedata-delete-on-close =
+    .label = Embogue kookie ha mba'ekuaarã tenda pegua oñemboty vove { -brand-short-name }
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Emoneĩ kookie ha tenda mba’ekuaarã
     .accesskey = A
@@ -850,3 +853,7 @@ certs-view =
 certs-devices =
     .label = Tekorosã mba'e'oka rehegua…
     .accesskey = m
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Eñongatu marandurenda { $service-name }
