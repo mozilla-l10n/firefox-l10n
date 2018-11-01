@@ -42,6 +42,12 @@
      -->
 <!ENTITY downloadsSummary.minWidth2       "21ch">
 
+<!-- LOCALIZATION NOTE (downloads.width):
+     Width of the Downloads Panel expressed using a CSS unit. The longest labels
+     that should fit are usually those of in-progress and blocked downloads.
+     -->
+<!ENTITY downloads.width                  "70ch">
+
 <!ENTITY cmd.pause.label                  "থামান">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "পুনরারম্ভ">
@@ -77,13 +83,13 @@
      This is the tooltip of the action button shown when malware is blocked.
      -->
 <!ENTITY cmd.removeFile.label             "ফাইল সরিয়ে ফেলুন">
-<!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
+<!-- LOCALIZATION NOTE (cmd.chooseUnblock.label):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
 <!ENTITY cmd.chooseUnblock.label          "ফাইল মুছে ফেলুন বা ডাউনলোডের অনুমতি দিন">
-<!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
+<!-- LOCALIZATION NOTE (cmd.chooseOpen.label):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
