@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = سابقات اپڈیٹ کریں
+history-intro = مندرجہ ذیل تازہ کاریاں تنصیب ہو گئی ہیں
 close-button-label =
     .buttonlabelcancel = بند کریں
     .title = سابقات اپڈیٹ کریں
