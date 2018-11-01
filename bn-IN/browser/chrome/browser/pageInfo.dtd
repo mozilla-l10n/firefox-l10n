@@ -46,21 +46,10 @@
 
 <!ENTITY  feedTab               "ফিড">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "সাবস্ক্রাইব করুন">
-<!ENTITY  feedSubscribe.accesskey "u">
 
 <!ENTITY  permTab               "অনুমতি">
 <!ENTITY  permTab.accesskey     "P">
-<!ENTITY  permUseDefault        "ডিফল্ট ব্যবহার করা হবে">
-<!ENTITY  permAskAlways         "সর্বদা জিজ্ঞাসা করা হবে">
-<!ENTITY  permAllow             "অনুমোদন করুন">
-<!ENTITY  permAllowSession      "সেশানের জন্য অনুমোদন করুন">
-<!ENTITY  permBlock             "প্রতিরোধ করুন">
 <!ENTITY  permissionsFor        "চিহ্নিত বিষয় সংক্রান্ত অনুমতি:">
-<!ENTITY  permPlugins           "সক্রিয় প্লাগ-ইন">
-
-<!ENTITY  permClearStorage           "সংগ্রহস্থলের তথ্য মুছে পরিশ্রুত করুন">
-<!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "নিরাপত্তা">
 <!ENTITY  securityTab.accesskey "S">
@@ -77,9 +66,9 @@
 
 <!ENTITY  securityView.privacy.header                   "গোপনীয়তা এবং পূর্ববর্তী তথ্য">
 <!ENTITY  securityView.privacy.history                  "আজকের আগে কোনো সময় এই ওয়েব-সাইট আমি পরিদর্শন করেছি কি?">
-<!ENTITY  securityView.privacy.cookies                  "এই ওয়েব-সাইট দ্বারা আমার কম্পিউটারের মধ্যে তথ্য (কুকি) সংরক্ষণ করা হচ্ছে কি?">
-<!ENTITY  securityView.privacy.viewCookies              "কুকি পরিদর্শন করুন">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
+<!ENTITY  securityView.privacy.siteData                 "এই ওয়েবসাইটি কি আমার কম্পিউটারে তথ্য সংরক্ষণ করছে?">
+<!ENTITY  securityView.privacy.clearSiteData            "কুকি এবং সাইটের ডেটা পরিষ্কার করুন">
+<!ENTITY  securityView.privacy.clearSiteData.accessKey  "C">
 <!ENTITY  securityView.privacy.passwords                "এই ওয়েব-সাইটের জন্য কোনো পাসওয়ার্ড আমি সংরক্ষণ করেছি কি?">
 <!ENTITY  securityView.privacy.viewPasswords            "সংরক্ষিত পাসওয়ার্ড দেখুন">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
