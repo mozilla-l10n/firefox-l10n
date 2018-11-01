@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Gin mukato me ngec manyen
+history-intro = Ki keto ngec manyen magi
 close-button-label =
     .buttonlabelcancel = Lor
     .title = Gin mukato me ngec manyen
