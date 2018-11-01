@@ -242,3 +242,4 @@ sijil ini.">
 <!ENTITY prefReset.label "Pulih tetapan piawai">
 
 <!ENTITY networkProtocolError.title "Ralat Protokol Rangkaian">
+<!ENTITY networkProtocolError.longDesc "<p>Halaman yang anda cuba papar tidak dapat ditunjukkan kerana ada ralat dalam protokol rangkaian.</p><ul><li>Sila hubungi pemilik laman web untuk memaklumkan masalah ini.</li></ul>">
