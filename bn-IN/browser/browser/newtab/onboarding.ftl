@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = এখনই চেষ্টা করুন
+onboarding-button-label-get-started = শুরু করে দিন
 onboarding-welcome-header = { -brand-short-name } এ স্বাগতম
 onboarding-start-browsing-button-label = ব্রাউজিং শুরু করুন
 
@@ -24,3 +25,6 @@ onboarding-addons-title = অ্যাড-অনগুলি
 onboarding-addons-text = মন আরও বৈশিষ্ট্য যোগ করুন যা { -brand-short-name } কে আপনার জন্য আরো কঠিন কাজ করতে সক্ষম করে। দাম তুলনা করুন, আবহাওয়া পরীক্ষা করুন অথবা আপনার ব্যক্তিত্বকে একটি কাস্টম থিম দিয়ে প্রকাশ করুন।
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Ghostery এর মতো এক্সটেনশানগুলির সাথে দ্রুত, আরও স্মার্ট বা নিরাপত্তার সাথে ব্রাউজ করুন, যা আপনাকে বিরক্তিকর বিজ্ঞাপনগুলিকে ব্লক করতে দেয়।
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = সিঙ্ক
+onboarding-fxa-text = { -fxaccount-brand-name } এর জন্য সাইন আপ করুন এবং { -brand-short-name } তে যেকোনো জায়গায় আপনার বুকমার্কস, পাসওয়ার্ডগুলি এবং খোলা ট্যাবগুলিকে ব্যবহার করতে সিঙ্ক করুন।

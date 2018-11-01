@@ -699,6 +699,23 @@ content-blocking-third-party-cookies-label =
     .label = তৃতীয় পক্ষের কুকি
     .accesskey = C
 content-blocking-reject-trackers-description = সমস্ত তৃতীয় পক্ষের কুকি বা শুধুমাত্র ট্র্যাকার দ্বারা সেট করা গুলিকে ব্লক করুন।
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = কুকি এবং সাইটের ডেটাতে আপনার সেটিংস তৃতীয় পক্ষের কুকি সেটিংসে পরিবর্তনগুলিকে আটকাচ্ছে।
+content-blocking-change-cookie-settings =
+    .label = কুকি সেটিংস বদল করুন
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = ট্র্যাকারগুলি (প্রস্তাবিত)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = ট্র্যাকারগুলি
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = সমস্ত তৃতীয় পক্ষের কুকি (ওয়েবসাইট অচল করতে পারে)
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
@@ -744,6 +761,20 @@ permissions-notification-link = আরো জানুন
 permissions-notification-pause =
     .label = বিজ্ঞপ্তি বন্ধ রাখো যতক্ষণ না { -brand-short-name } পুনরায় শুরু হয়
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = স্বয়ংক্রিয়ভাবে শব্দের সঙ্গে মিডিয়া বাজানো থেকে ওয়েবসাইটকে ব্লক করুন
+    .accesskey = B
+permissions-block-autoplay-media-menu = যেসব ওয়েবসাইট শব্দকে নিজে থেকে চালায়
+permissions-block-autoplay-media-exceptions =
+    .label = ব্যতিক্রম…
+    .accesskey = E
+autoplay-option-ask =
+    .label = সব সময় জিজ্ঞাসা করবে
+autoplay-option-allow =
+    .label = নিজে থেকে চালু হওয়াকে অনুমতি দিন
+autoplay-option-dont =
+    .label = নিজে থেকে চালু হবে না
+permissions-autoplay-link = আরো জানুন
 permissions-block-popups =
     .label = পপ-আপ উইন্ডো প্রদর্শন প্রতিরোধ করা হবে
     .accesskey = B
@@ -772,6 +803,7 @@ collection-health-report =
 collection-health-report-link = আরও জানুন
 collection-studies =
     .label = ইনস্টল করতে { -brand-short-name } কে অনুমতি দিন এবং অধ্যয়ন চালান
+collection-studies-link = { -brand-short-name } -র অধ্যয়ন দেখুন
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে তথ্য রিপোর্ট করা নিস্ক্রিয় করা হয়েছে
@@ -821,3 +853,7 @@ certs-view =
 certs-devices =
     .label = নিরাপত্তা ডিভাইস…
     .accesskey = D
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = { $service-name } এ ফাইল সংরক্ষণ করুন
