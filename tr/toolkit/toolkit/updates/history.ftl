@@ -10,6 +10,7 @@ close-button-label =
 no-updates-label = Henüz hiçbir güncelleme yüklenmemiş
 name-header = Güncellemenin Adı
 date-header = Kurulum Tarihi
+type-header = Türü
 state-header = Durumu
 # Used to display update history
 #
