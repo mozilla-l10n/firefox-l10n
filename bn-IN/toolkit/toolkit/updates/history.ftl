@@ -2,7 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+history-title = আপডেট কর্ম সংক্রান্ত পূর্ববর্তী তথ্য
+close-button-label =
+    .buttonlabelcancel = বন্ধ করুন
+    .title = আপডেট কর্ম সংক্রান্ত পূর্ববর্তী তথ্য
+no-updates-label = কোনো আপডেট এখন অবধি ইনস্টল করা হয়নি
+name-header = আপডেটের নাম
 date-header = ইনস্টল করার তারিখ
+type-header = প্রকৃতি
 state-header = অবস্থা
 # Used to display update history
 #
