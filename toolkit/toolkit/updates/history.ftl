@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Жаңарту тарихы
+history-intro = Келесі жаңартулар орнатылған
 close-button-label =
     .buttonlabelcancel = Жабу
     .title = Жаңарту тарихы
