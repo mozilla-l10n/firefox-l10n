@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+history-title = Historial d'actualitzacions
+close-button-label =
+    .buttonlabelcancel = Tanca
+    .title = Historial d'actualitzacions
 no-updates-label = Encara no s'ha instal·lat cap actualització
 name-header = Nom de l'actualització
 date-header = Data de la instal·lació
