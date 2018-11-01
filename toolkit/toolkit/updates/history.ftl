@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Eachdraidh nan ùrachaidhean
+history-intro = Chaidh na h-ùrachaidhean a leanas a stàladh
 close-button-label =
     .buttonlabelcancel = Dùin
     .title = Eachdraidh nan ùrachaidhean
