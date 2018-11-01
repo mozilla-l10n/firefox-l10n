@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Ĝisdatigi historion
+history-intro = La jenaj ĝisdatigoj estis instalitaj
 close-button-label =
     .buttonlabelcancel = Fermi
     .title = Ĝisdatigi historion
@@ -10,6 +11,7 @@ no-updates-label = Neniu ĝisdatigo instalita ĝis nun
 name-header = Nomo de ĝisdatigo
 date-header = Dato de ĝisdatigo
 type-header = Tipo
+state-header = Stato
 # Used to display update history
 #
 # Variables:
