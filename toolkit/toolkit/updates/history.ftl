@@ -6,7 +6,9 @@ history-title = Historique des mises à jour
 close-button-label =
     .buttonlabelcancel = Fermer
     .title = Historique des mises à jour
+no-updates-label = Aucune mise à jour n’a encore été installée
 name-header = Nom de la mise à jour
+date-header = Date d’installation
 type-header = Type
 state-header = État
 # Used to display update history
