@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+no-updates-label = Geen bywerkings is nog geïnstalleer nie
+name-header = Bywerkingnaam
+date-header = Installeringdatum
+type-header = Soort
+state-header = Status
 # Used to display update history
 #
 # Variables:
