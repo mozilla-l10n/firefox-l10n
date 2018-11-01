@@ -9,3 +9,10 @@ close-button-label =
 name-header = Nom de la mise à jour
 type-header = Type
 state-header = État
+# Used to display update history
+#
+# Variables:
+#   $name (String): name of the update
+#   $buildID (String): build identifier from the local updates.xml
+update-full-name =
+    .name = { $name } ({ $buildID })
