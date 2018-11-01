@@ -20,6 +20,8 @@
 <!ENTITY font.accesskey                       "п">
 <!ENTITY size.label                           "Өлшемі:">
 <!ENTITY size.accesskey                       "ш">
+<!ENTITY fontSize.label                       "Өлшемі:">
+<!ENTITY fontSize.accesskey                   "м">
 <!ENTITY fontColor.label                      "Мәтін түсі:">
 <!ENTITY fontColor.accesskey                  "т">
 <!ENTITY bgColor.label                        "Фон түсі:">
