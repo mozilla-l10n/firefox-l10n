@@ -6,7 +6,9 @@ history-title = Aslol Kesɗitine
 close-button-label =
     .buttonlabelcancel = Uddu
     .title = Aslol Kesɗitine
+no-updates-label = Alaa kesɗitine aafaa tawo
 name-header = Innde Kesɗitinal
+date-header = Ñalngu Aafgol
 type-header = Fannu
 state-header = Ngonka
 # Used to display update history
