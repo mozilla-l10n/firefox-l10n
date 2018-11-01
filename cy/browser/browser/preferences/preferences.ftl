@@ -617,6 +617,9 @@ sitedata-keep-until-expire =
     .label = Yn dod i ben
 sitedata-keep-until-closed =
     .label = Mae { -brand-short-name } wedi cau
+sitedata-delete-on-close =
+    .label = Dileu cwcis a data'r wefan pan fydd { -brand-short-name } ar gau
+    .accesskey = D
 sitedata-allow-cookies-option =
     .label = Derbyn cwcis a data gan wefannau
     .accesskey = D
@@ -862,3 +865,7 @@ certs-view =
 certs-devices =
     .label = Dyfeisiau Diogelwch…
     .accesskey = y
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Cadw ffeiliau i { $service-name }

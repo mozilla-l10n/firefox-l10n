@@ -101,9 +101,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "Mae perchennog <span class='hostname'/> wedi ffurfweddu ei wefan yn anghywir.  I rwystro eich manylion rhag cael eu dwyn, nid yw &brandShortName; wedi cysylltu â'r wefan.">
 <!ENTITY certerror.introPara2 "Mae &brandShortName; wedi canfod bygythiad diogelwch posib ac nid yw wedi mynd i <span class='hostname'/>. Os ewch i'r gwefan yma, gall ymosodwyr geisio dwyn gwybodaeth fel eich cyfrineiriau, e-byst neu fanylion cardiau credyd.">
 
-<!ENTITY certerror.sts.introPara "Mae &brandShortName; wedi canfod bygythiad diogelwch posib ac nid yw wedi mynd i <span class='hostname'/> gan fod y wefan angen cysylltiad diogel.">
-
 <!ENTITY certerror.expiredCert.secondPara "Mae'n fwyaf tebygol fod hyn o oherwydd bod cloc eich cyfrifiadur wedi'i osod i'r amser anghywir, sy'n atal &brandShortName; rhag gysylltu'r ddiogel.">
+
+<!ENTITY certerror.sts.introPara "Mae &brandShortName; wedi canfod bygythiad diogelwch posib ac nid yw wedi mynd i <span class='hostname'/> gan fod y wefan angen cysylltiad diogel.">
 
 <!ENTITY certerror.expiredCert.introPara "Mae &brandShortName; wedi canfod bygythiad diogelwch posib ac nid yw wedi mynd i <span class='hostname'/>. Un ai mae'r wefan wedi ei gam ffurfweddu neu mae cloc eich cyfrifiadur wedi ei osod i'r amser anghywir.">
 <!ENTITY certerror.expiredCert.secondPara2 "Mae'n debyg fod tystysgrif y wefan wedi dod i ben, sy'n atal &brandShortName; rhag cysylltu'n ddiogell. Os ewch chi i'r wefan hon gall ymosodwyr geisio dwy gwybodaeth fel eich cyfrineiriau, e-byst neu fanylion cerdyn credyd.">
@@ -167,3 +167,6 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Mae'n edrych fel mai eich gosodiadau diogelwch rhwydwaith sy'n achosi hyn. Hoffech chi adfer y gosodiadau rhagosodedig?">
 <!ENTITY prefReset.label "Adfer y gosodiadau rhagosodedig">
+
+<!ENTITY networkProtocolError.title "Gwall Protocol Rhwydwaith">
+<!ENTITY networkProtocolError.longDesc "<p>Nid oes modd dangos y dudalen rydych chi'n ceisio'i gweld oherwydd cafwyd gwall yn y protocol rhwydwaith.</p><ul><li> Cysylltwch â pherchenogion y wefan i roi gwybod iddynt am y broblem hon.</li></ul>">
