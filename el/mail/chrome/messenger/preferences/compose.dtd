@@ -20,6 +20,9 @@
 <!ENTITY font.accesskey                       "ρ">
 <!ENTITY size.label                           "Μέγεθος:">
 <!ENTITY size.accesskey                       "θ">
+<!ENTITY fontSize.label                       "Μέγεθος:">
+<!ENTITY fontSize.accesskey                   "γ">
+<!ENTITY useReaderDefaults.accesskey          "π">
 <!ENTITY fontColor.label                      "Χρώμα κειμένου:">
 <!ENTITY fontColor.accesskey                  "Χ">
 <!ENTITY bgColor.label                        "Χρώμα φόντου:">
