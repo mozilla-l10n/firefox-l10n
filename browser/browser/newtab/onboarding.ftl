@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Rhowch brawf arno nawr
+onboarding-button-label-get-started = Cychwyn Arni
 onboarding-welcome-header = Croeso i { -brand-short-name }
 onboarding-start-browsing-button-label = Cychwyn Pori
 
@@ -24,3 +25,6 @@ onboarding-addons-title = Ychwanegion
 onboarding-addons-text = Ychwnaegwch ragor o nodweddion sy'n gwneud i { -brand-short-name } weithio'n galetach ar eich cyfer. Cymharu prisiau, gwybod am y tywydd neu mynegu eich hun gyda thema gyfaddas.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Porwch yn gynt, yn glyfrach neu yn fwy diogel gydag estyniadau fel Ghostery, cyn gadael i chi rwystro hysbysebion trafferthus.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sync
+onboarding-fxa-text = Cofrestrwch am { -fxaccount-brand-name } a chydweddu eich nodau tudalen, cyfrineiriau a thabiau agored ymhob man lle rydych yn defnyddio { -brand-short-name }.
