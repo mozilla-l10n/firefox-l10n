@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Roll istor an hizivaat
+history-intro = Staliet eo bet an hizivadennoù da-heul
 close-button-label =
     .buttonlabelcancel = Serriñ
     .title = Roll istor an hizivaat
