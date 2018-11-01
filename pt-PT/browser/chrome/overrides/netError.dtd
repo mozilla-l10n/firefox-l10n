@@ -98,7 +98,11 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Verifique se o seu sistema tem o Personal Security Manager instalado.</li> <li>Isto pode ser causado por uma configuração não comum no servidor.</li> </ul>">
 
 <!ENTITY nssFailure2.title "A ligação segura falhou">
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>A página que está a tentar ver não pode ser mostrada porque não foi possível verificar a autenticidade dos dados recebidos.</li> <li>Por favor, reporte o problema aos proprietários do website.</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>A página que está a tentar ver não pode ser mostrada porque não foi possível verificar a autenticidade dos dados recebidos.</li>
+  <li>Por favor contacte os proprietários do website para os informar deste problema.</li>
+</ul>">
 
 <!ENTITY certerror.longpagetitle1 "A sua ligação não é segura">
 <!ENTITY certerror.longpagetitle2 "Aviso: Potencial risco de segurança à frente">
@@ -138,7 +142,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>O &brandShortName; impediu o carregamento desta página desta forma porque a página tem uma política de segurança de conteúdo que não o permite.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Conteúdo corrompido">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>A página que está a tentar ver não pode ser exibida porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor reporte o problema aos proprietário do website.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>A página que está a tentar ver não pode ser mostrada porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor contacte os proprietários do website para os informar deste problema.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
