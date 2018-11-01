@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+history-title = வரலாற்றைப் புதுப்பி
+close-button-label =
+    .buttonlabelcancel = மூடு
+    .title = வரலாற்றைப் புதுப்பி
+no-updates-label = எந்த மேம்படுத்தலும் நிறுவப்படவில்லை
+name-header = மேம்படுத்தல் பெயர்
+date-header = நிறுவல் தேதி
+type-header = வகை
+state-header = நிலை
 # Used to display update history
 #
 # Variables:
