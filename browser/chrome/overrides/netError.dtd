@@ -109,9 +109,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "O proprietário de <span class='hostname'/> configurou o website incorretamente.  Para impedir que a sua informação fosse furtada, o &brandShortName; não se ligou a este website.">
 <!ENTITY certerror.introPara2 "O &brandShortName; detetou um potencial risco de segurança e não continuou para <span class='hostname'/>. Se visitar este site, atacantes podem tentar furtar informação como palavras-passe, emails, ou detalhes de cartão de crédito.">
 
-<!ENTITY certerror.sts.introPara "O &brandShortName; detetou uma potencial ameaça de segurança e não continuou para <span class='hostname'/> porque este website requer uma ligação segura.">
-
 <!ENTITY certerror.expiredCert.secondPara "Este problema é mais provável porque o seu relógio do computador está definido para a hora errada, o que pode impedir o &brandShortName; de se ligar em segurança.">
+
+<!ENTITY certerror.sts.introPara "O &brandShortName; detetou uma potencial ameaça de segurança e não continuou para <span class='hostname'/> porque este website requer uma ligação segura.">
 
 <!ENTITY certerror.expiredCert.introPara "O &brandShortName; detetou um problema e não continuou para <span class='hostname'/>. O website está mal configurado ou o relógio do computador está definido para a hora errada.">
 <!ENTITY certerror.expiredCert.secondPara2 "É provável que o certificado do website tenha expirado, o que impede o &brandShortName; de se ligar com segurança. Se visitar este site, atacantes podem tentar furtar informação como as suas palavras-passe, emails, ou detalhes de cartões de crédito.">
@@ -180,3 +180,6 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Parece que as suas definições de segurança de rede podem estar a causar isto. Pretende que as definições predefinidas sejam restauradas?">
 <!ENTITY prefReset.label "Restaurar definições predefinidas">
+
+<!ENTITY networkProtocolError.title "Erro de protocolo de rede">
+<!ENTITY networkProtocolError.longDesc "<p>A página que está a tentar ver não pode ser mostrada porque um erro de protocolo de rede foi detetado.</p><ul><li>Por favor contacte os proprietários do website para os informar deste problema.</li></ul>">
