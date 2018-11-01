@@ -11,3 +11,10 @@ name-header = Update-Name
 date-header = Installationsdatum
 type-header = Typ
 state-header = Status
+# Used to display update history
+#
+# Variables:
+#   $name (String): name of the update
+#   $buildID (String): build identifier from the local updates.xml
+update-full-name =
+    .name = { $name } ({ $buildID })
