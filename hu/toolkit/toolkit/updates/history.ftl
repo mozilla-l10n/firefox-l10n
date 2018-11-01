@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Frissítési előzmények
+history-intro = A következő frissítések lettek telepítve
 close-button-label =
     .buttonlabelcancel = Bezárás
     .title = Frissítési előzmények
