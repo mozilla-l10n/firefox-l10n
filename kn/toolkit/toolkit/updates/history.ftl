@@ -11,3 +11,10 @@ name-header = ನವೀಕರಣದ ಹೆಸರು
 date-header = ಅನುಸ್ಥಾಪನಾ ದಿನಾಂಕ
 type-header = ಪ್ರಕಾರ
 state-header = ಸ್ಥಿತಿ
+# Used to display update history
+#
+# Variables:
+#   $name (String): name of the update
+#   $buildID (String): build identifier from the local updates.xml
+update-full-name =
+    .name = { $name } ({ $buildID })
