@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = تاریخچهٔ بروزرسانی
+history-intro = بروزرسانی‌های زیر نصب شده است
 close-button-label =
     .buttonlabelcancel = بستن
     .title = تاریخچهٔ بروزرسانی
