@@ -9,3 +9,10 @@ close-button-label =
 no-updates-label = განახლებები ჯერ არ ჩადგმულა
 name-header = განახლების სახელი
 date-header = ჩადგმის თარიღი
+# Used to display update history
+#
+# Variables:
+#   $name (String): name of the update
+#   $buildID (String): build identifier from the local updates.xml
+update-full-name =
+    .name = { $name } ({ $buildID })
