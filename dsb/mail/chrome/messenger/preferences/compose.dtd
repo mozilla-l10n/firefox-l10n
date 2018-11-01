@@ -20,6 +20,10 @@
 <!ENTITY font.accesskey                       "P">
 <!ENTITY size.label                           "Wjelikosć:">
 <!ENTITY size.accesskey                       "W">
+<!ENTITY fontSize.label                       "Wjelikosć:">
+<!ENTITY fontSize.accesskey                   "l">
+<!ENTITY useReaderDefaults.label              "Standardne barwy cytaka wužywaś">
+<!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "Tekstowa barwa:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Slězynowa barwa:">
