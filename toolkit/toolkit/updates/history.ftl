@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = განახლების ისტორია
+history-intro = ჩაიდგა შემდეგი განახლებები
 close-button-label =
     .buttonlabelcancel = დახურვა
     .title = განახლების ისტორია
 no-updates-label = განახლებები ჯერ არ ჩადგმულა
 name-header = განახლების სახელი
 date-header = ჩადგმის თარიღი
+type-header = სახეობა
+state-header = მდგომარეობა
 # Used to display update history
 #
 # Variables:
