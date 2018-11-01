@@ -6,7 +6,15 @@ history-title = Oppdateringshistorikk
 close-button-label =
     .buttonlabelcancel = Lukk
     .title = Oppdateringshistorikk
+no-updates-label = Ingen oppdateringer er installert ennå
 name-header = Oppdateringsnavn
 date-header = Installeringsdato
 type-header = Type
 state-header = Status
+# Used to display update history
+#
+# Variables:
+#   $name (String): name of the update
+#   $buildID (String): build identifier from the local updates.xml
+update-full-name =
+    .name = { $name } ({ $buildID })
