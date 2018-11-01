@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = ഹിസ്റ്ററി പുതുക്കുക
+history-intro = ഈ പുതുക്കലുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്തു
 close-button-label =
     .buttonlabelcancel = അടയ്ക്കുക{ " " }
     .title = ഹിസ്റ്ററി പുതുക്കുക
