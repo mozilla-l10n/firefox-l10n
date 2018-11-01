@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = ປະຫວັດການອັບເດດ
+history-intro = ການອັບເດດຄັ້ງຕໍ່ໄປນີ້ໄດ້ຮັບການຕິດຕັ້ງແລ້ວ
 close-button-label =
     .buttonlabelcancel = ອອກ
     .title = ປະຫວັດການອັບເດດ
