@@ -103,3 +103,4 @@ functionality specific to thunderbird. -->
 <!ENTITY blockedByPolicy.title "Zablokowana strona">
 
 <!ENTITY networkProtocolError.title "Zmylk syćoweho protokola">
+<!ENTITY networkProtocolError.longDesc "<p>Strona, kotruž pospytujeće sej wobhladać, njeda so pokazać, dokelž je so zmylk w syćowym protokolu namakał.</p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li></ul>">
