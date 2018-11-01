@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Hanes Diweddaru
+history-intro = Mae'r diweddariadau canlynol wedi eu gosod
 close-button-label =
     .buttonlabelcancel = Cau
     .title = Hanes Diweddaru
