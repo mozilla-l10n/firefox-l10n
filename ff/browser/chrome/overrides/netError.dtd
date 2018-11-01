@@ -168,3 +168,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Artir teelte goowaaɗe">
 
 <!ENTITY networkProtocolError.title "Juumre jaɓɓitorde geese">
+<!ENTITY networkProtocolError.longDesc "<p>Hello ngo etoto-ɗaa ɗisde ngoo waawaa ɗiseede sibu juumre yiytaande nder jaɓɓitorde geese.</p><ul><li>Tiiɗno jokkondir e joom en lowe geese ɗee ngam habrude ɗum en saɗeende ndee.</li></ul>">
