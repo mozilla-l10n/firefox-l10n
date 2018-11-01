@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Istoricul actualizărilor
+close-button-label =
+    .buttonlabelcancel = Închide
+    .title = Istoricul actualizărilor
 no-updates-label = Nu s-a instalat nicio actualizare până acum
 name-header = Nume actualizare
 date-header = Data instalării
