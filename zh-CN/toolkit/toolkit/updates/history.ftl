@@ -6,6 +6,7 @@ history-title = 更新历史
 close-button-label =
     .buttonlabelcancel = 关闭
     .title = 更新历史
+no-updates-label = 还没有安装过更新
 name-header = 更新名称
 date-header = 安装日期
 type-header = 类型
