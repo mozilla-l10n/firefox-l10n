@@ -54,6 +54,9 @@ permissions-exceptions-tracking-protection-window =
     .title = Tasureft - Ammesten n usfuɣel
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Treremdeḍ ammesten n usfuɣel ɣef isebtar-agi.
+permissions-exceptions-content-blocking-window =
+    .title = Tisuraf - Asewḥel n ugbur
+    .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Tsenseḍ asewḥel n ugbur i yesmal-agi.
 
 ## Exceptions - Cookies
