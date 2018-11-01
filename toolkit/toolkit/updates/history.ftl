@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = इतिहास अद्यतन करें
+history-intro = निम्न अद्यतन संस्थापित किए गए हैं
 close-button-label =
     .buttonlabelcancel = बंद करें
     .title = इतिहास अद्यतन करें
