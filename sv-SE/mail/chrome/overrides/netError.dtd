@@ -195,3 +195,6 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> använder en säkerhetsteknologi som är föråldrad och sårbar för angrepp. En angripare kan lätt avslöja information som du tänkt ska vara säker. Webbplatsens administratör måste rätta till servern innan du kan besöka webbplatsen.</p><p>Felkod: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blockerad sida">
+
+<!ENTITY networkProtocolError.title "Nätverksprotokollfel">
+<!ENTITY networkProtocolError.longDesc "<p>Sidan du försöker visa kan inte visas eftersom ett fel i nätverksprotokollet upptäcktes.</p><ul><li>Vänligen kontakta webbplatsens ägare för att informera dem om detta problem.</li></ul>">
