@@ -20,6 +20,10 @@
 <!ENTITY font.accesskey                       "L">
 <!ENTITY size.label                           "Grutte:">
 <!ENTITY size.accesskey                       "G">
+<!ENTITY fontSize.label                       "Grutte:">
+<!ENTITY fontSize.accesskey                   "t">
+<!ENTITY useReaderDefaults.label              "Brûk de standert kleuren fan lêzers">
+<!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "Tekstkleur:">
 <!ENTITY fontColor.accesskey                  "k">
 <!ENTITY bgColor.label                        "Eftergrûnkleur:">
