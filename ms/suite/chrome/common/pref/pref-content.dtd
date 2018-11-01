@@ -41,3 +41,5 @@
 <!ENTITY allowHWAccel.accesskey                 "e">
 <!ENTITY blockAutoRefresh.label                 "Beri amaran apabila laman web cuba untuk mengalih semula atau memuat semula halaman">
 <!ENTITY blockAutoRefresh.accesskey             "B">
+
+<!ENTITY showZoomStatusPanel.label              "Papar kawalan zum dalam bar status">
