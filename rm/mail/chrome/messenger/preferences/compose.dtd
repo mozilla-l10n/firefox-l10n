@@ -20,6 +20,10 @@
 <!ENTITY font.accesskey                       "s">
 <!ENTITY size.label                           "Grondezza">
 <!ENTITY size.accesskey                       "z">
+<!ENTITY fontSize.label                       "Grondezza:">
+<!ENTITY fontSize.accesskey                   "z">
+<!ENTITY useReaderDefaults.label              "Utilisar las colurs predefinidas dal lectur">
+<!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "Colur dal text:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Colur dal fund:">
