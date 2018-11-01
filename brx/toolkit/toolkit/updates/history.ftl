@@ -17,4 +17,4 @@ state-header = रायजो
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-name =
-    .name = { $name } ({ $buildID }){ " " }
+    .name = { $name } ({ $buildID })
