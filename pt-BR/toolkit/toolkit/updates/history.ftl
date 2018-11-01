@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Histórico de atualizações
+history-intro = As seguintes atualizações foram instaladas
 close-button-label =
     .buttonlabelcancel = Fechar
     .title = Histórico de atualizações
