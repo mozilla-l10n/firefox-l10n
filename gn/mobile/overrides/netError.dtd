@@ -121,3 +121,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> oipuru tembipuru pyahu rekorosãrã ndoikovéimava ha oimeraẽva ombyaikuaáva. Peteĩ hekoñañáva ikatu ohechauka marandu hekorosã gua'uha. Pe ñanduti renda ñangarekohára omyatãraẽva'erã pe mohendahavusu oike mboyve tendápe.</p><p>Ayvu jejavy: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY networkProtocolError.title "Jejavy guasu ñandutípe">
+<!ENTITY networkProtocolError.longDesc "<p>Pe kuatiarogue oñeha’ãhína mba’éichapa ohechaukáta jejavy guasu ñanduti pegua. </p><ul><li>Eñe’ẽ umi tenda jára ndive emomarandu hag̃ua chupekuéra ko apañuãi rehegua.</li></ul>">
