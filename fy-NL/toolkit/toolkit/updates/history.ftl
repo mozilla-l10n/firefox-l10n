@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Fernijingsskiednis
+history-intro = De folgjende fernijingen binne ynstallearre
 close-button-label =
     .buttonlabelcancel = Slute
     .title = Fernijingsskiednis
