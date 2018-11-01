@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Stöia di agiornamenti
+history-intro = Sti agiornamenti en stæti instalæ
 close-button-label =
     .buttonlabelcancel = Særa
     .title = Stöia di agiornamenti
