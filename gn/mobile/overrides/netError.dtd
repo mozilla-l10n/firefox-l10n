@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Apañuái henyhẽnguévo kuatiarogue">
 <!ENTITY retry.label "Ha'ãjey">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ndaikatúi eike">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "Jeikekatu ojavýva">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Kóva ikatukuaa peteĩ apañuãi mohendahavusu ñemboheko ndive, térã oimeraẽva ohasasehína mohendahavusúramo.</li> <li>Eikéramo apañuãi'ỹ rehe ára ohasaramóva gotyo ko mohendahavusúpe, pe jejavy ikatu sapy'aguávante, ha eha'ãjeykuaa ag̃amieve.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Pe tenda ikatu ndojepurukuaái sapy'ami térã ojepuruetereihína. Eha'ãjey ag̃amieve.</li> <li>Ndaikatúiramo emyanyhẽ mba'evéichagua kuatiarogue, ehechajey mba'ekuaarã ne mba'e'oka oku'éva térã emyandy Wi-Fi. <button id='wifi'>Eipuru Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Ojejoko hetepy rekorosãrã purureko rupi">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Térã ikatu embojoapy oĩ'ỹva…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Cheguenohẽmína ko'águi!">
 <!ENTITY securityOverride.exceptionButtonLabel "Embojuaju oĩ'ỹva…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Ani embojuapy peteĩ oĩ'ỹva eipuru jave ñanduti nderejeroviaiha térã ejepokuaa'ỹha ehechávo kyhyjerã ko mohendahavusu rehegua.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -119,3 +119,5 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> oipuru tembipuru pyahu rekorosãrã ndoikovéimava ha oimeraẽva ombyaikuaáva. Peteĩ hekoñañáva ikatu ohechauka marandu hekorosã gua'uha. Pe ñanduti renda ñangarekohára omyatãraẽva'erã pe mohendahavusu oike mboyve tendápe.</p><p>Ayvu jejavy: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Jejavy guasu ñandutípe">
