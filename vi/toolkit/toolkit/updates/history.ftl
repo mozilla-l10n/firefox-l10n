@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Lược sử Cập nhật
+history-intro = Các bản cập nhật sau đã được cài đặt
 close-button-label =
     .buttonlabelcancel = Đóng
     .title = Lược sử Cập nhật
