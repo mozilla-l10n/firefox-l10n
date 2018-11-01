@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Eguneraketen historia
+history-intro = Ondorengo eguneraketak instalatu dira
 close-button-label =
     .buttonlabelcancel = Itxi
     .title = Eguneraketen historia
