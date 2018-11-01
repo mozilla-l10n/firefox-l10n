@@ -20,6 +20,9 @@
 <!ENTITY font.accesskey                       "n">
 <!ENTITY size.label                           "大小：">
 <!ENTITY size.accesskey                       "z">
+<!ENTITY fontSize.label                       "大小：">
+<!ENTITY fontSize.accesskey                   "z">
+<!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "文本颜色：">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "背景色：">
