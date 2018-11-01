@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+history-title = Stair na Nuashonruithe
+close-button-label =
+    .buttonlabelcancel = Dún
+    .title = Stair na Nuashonruithe
+no-updates-label = Níor suiteáladh nuashonrú ar bith fós
+name-header = Ainm an Nuashonraithe
+date-header = Dáta Suiteála
+type-header = Cineál
+state-header = Staid
 # Used to display update history
 #
 # Variables:
