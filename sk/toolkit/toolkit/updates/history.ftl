@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = História aktualizácií
+history-intro = Nainštalované boli nasledujúce aktualizácie
 close-button-label =
     .buttonlabelcancel = Zavrieť
     .title = História aktualizácií
