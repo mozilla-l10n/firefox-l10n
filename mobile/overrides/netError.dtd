@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>सुरक्षा तकनीक उपयोग करता है जो आपेक्ष के लिए पुराना और भेद्य है. एक भेदी आसानी से वो सूचना प्रत्यक्ष कर सकता है. जिसे आप सुरक्षित समझते हैं.वेबसाइट प्रशासक को आपके साईट देखने से पहले सर्वर ठीक करन होगा.</p><p>त्रुटि कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "नेटवर्क प्रोटोकॉल त्रुटि">
+<!ENTITY networkProtocolError.longDesc "<p>जिस पृष्ठ को आप देखने का प्रयास कर रहे हैं उसे दिखाया नहीं जा सकता है क्योंकि नेटवर्क प्रोटोकॉल में एक त्रुटि का पता चला था।</p> <ul> <li>कृपया इस समस्या के बारे में सूचित करने के लिए वेबसाइट मालिकों से संपर्क करें।</li> </ul>">
