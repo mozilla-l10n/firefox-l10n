@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = היסטוריית עדכונים
+history-intro = העדכונים הבאים הותקנו
+close-button-label =
+    .buttonlabelcancel = סגירה
+    .title = היסטוריית עדכונים
 no-updates-label = עדיין לא הותקנו עדכונים
 name-header = שם עדכון
 date-header = תאריך התקנה
