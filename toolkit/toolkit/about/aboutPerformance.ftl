@@ -9,6 +9,7 @@ about-performance-title = Gerenciador de Tarefas
 
 column-name = Nome
 column-type = Tipo
+column-energy-impact = Impacto energético
 
 ## Special values for the Name column
 
@@ -20,7 +21,11 @@ preloaded-tab = Pré-carregado: { $title }
 ## Values for the Type column
 
 type-tab = Aba
+type-subframe = Subframe
+type-tracker = Tracker
 type-addon = Extensão
+type-browser = Browser
+type-worker = Worker
 type-other = Outro
 
 ## Values for the Energy Impact column
@@ -39,3 +44,13 @@ close-tab =
     .title = Fechar aba
 show-addon =
     .title = Mostrar no Gerenciador de Extensões
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        Despachos desde o carregamento: { $totalDispatches } ({ $totalDuration }ms)
+        Despachos nos últimos segundos: { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)
