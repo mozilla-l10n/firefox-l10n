@@ -9,6 +9,7 @@ close-button-label =
 no-updates-label = 尚未安裝任何更新
 name-header = 更新名稱
 date-header = 安裝日期
+type-header = 類型
 state-header = 狀態
 # Used to display update history
 #
