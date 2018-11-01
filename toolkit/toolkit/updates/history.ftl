@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Гісторыя абнаўленняў
+history-intro = Усталяваны наступныя абнаўленні
+close-button-label =
+    .buttonlabelcancel = Закрыць
+    .title = Гісторыя абнаўленняў
 no-updates-label = Абнаўленні яшчэ не ўсталяваны
 name-header = Назва абнаўлення
 date-header = Дата ўсталявання
