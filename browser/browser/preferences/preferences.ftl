@@ -601,6 +601,9 @@ sitedata-keep-until-expire =
     .label = 它们过期
 sitedata-keep-until-closed =
     .label = { -brand-short-name } 关闭
+sitedata-delete-on-close =
+    .label = 关闭 { -brand-short-name } 时删除 Cookie 与网站数据
+    .accesskey = C
 sitedata-allow-cookies-option =
     .label = 接受 Cookie 和网站数据
     .accesskey = A
@@ -846,3 +849,7 @@ certs-view =
 certs-devices =
     .label = 安全设备…
     .accesskey = D
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = 保存文件至 { $service-name }

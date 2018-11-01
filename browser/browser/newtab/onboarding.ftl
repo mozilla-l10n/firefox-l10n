@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = 立即尝鲜
+onboarding-button-label-get-started = 开始使用
 onboarding-welcome-header = 欢迎使用 { -brand-short-name }
 onboarding-start-browsing-button-label = 开始浏览
 
@@ -26,3 +27,4 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = 使用 Ghostery 等扩展拦截恼人的广告，让您上网更快、更智能、更安全。
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = 同步
+onboarding-fxa-text = 注册 { -fxaccount-brand-name } 之后，您可在任何使用 { -brand-short-name } 的任何地方同步您的书签、密码和打开的标签页。
