@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+date-header = วันที่ติดตั้ง
+type-header = ชนิด
+state-header = สถานะ
 # Used to display update history
 #
 # Variables:
