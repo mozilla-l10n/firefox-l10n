@@ -9,6 +9,7 @@ close-button-label =
 no-updates-label = Առայժմ թարմացումներ չեն տեղադրվել
 name-header = Թարմացման Անվանումը
 date-header = Տեղադրման Ամսաթիվը
+type-header = Տեսակը
 state-header = Վիճակը
 # Used to display update history
 #
