@@ -29,7 +29,7 @@
 <!ENTITY sync.default.client.name '&formatS1; pe &formatS2;'>
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Meniu pentru marcaje'>
+<!ENTITY bookmarks.folder.menu.label 'Meniu de marcaje'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Etichete'>
 <!ENTITY bookmarks.folder.toolbar.label 'Bara de marcaje'>
