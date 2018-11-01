@@ -698,6 +698,7 @@ content-blocking-tracking-protection-change-block-list = ব্লক তাল�
 content-blocking-third-party-cookies-label =
     .label = তৃতীয় পক্ষের কুকি
     .accesskey = C
+content-blocking-reject-trackers-description = সমস্ত তৃতীয় পক্ষের কুকি বা শুধুমাত্র ট্র্যাকার দ্বারা সেট করা গুলিকে ব্লক করুন।
 
 ## Privacy Section - Tracking
 
