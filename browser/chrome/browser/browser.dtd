@@ -1070,6 +1070,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "u">
 <!ENTITY trackingProtection.block5.label "Blokkering voor deze website inschakelen">
 <!ENTITY trackingProtection.block5.accesskey "c">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Blokkering voor deze website uitschakelen">
+<!ENTITY trackingProtection.unblock5.accesskey "u">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Blokkering tijdelijk uitschakelen">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "u">
+<!ENTITY trackingProtection.block6.label "Blokkering voor deze website inschakelen">
+<!ENTITY trackingProtection.block6.accesskey "c">
 <!ENTITY trackingProtection.reload2.label "Pagina vernieuwen">
 <!ENTITY trackingProtection.reload2.accesskey "r">
 
