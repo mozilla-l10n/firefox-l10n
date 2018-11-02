@@ -611,6 +611,9 @@ sitedata-keep-until-expire =
     .label = Falbhaidh an ùine orra
 sitedata-keep-until-closed =
     .label = Tha { -brand-short-name } dùinte
+sitedata-delete-on-close =
+    .label = Sguab às briosgaidean is dàta làraichean nuair a thèid { -brand-short-name } a dhùnadh
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Gabh ri briosgaidean is dàta làraichean
     .accesskey = a
@@ -856,3 +859,7 @@ certs-view =
 certs-devices =
     .label = Uidheaman tèarainteachd...
     .accesskey = n
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Sàbhail faidhlichean air { $service-name }
