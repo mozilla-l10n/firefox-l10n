@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Estä pääsy about:profiles-sivulle.
 policy-BlockAboutSupport = Estä pääsy about:support-sivulle.
 policy-Bookmarks = Luo kirjanmerkkejä kirjanmerkkipalkkiin, Kirjanmerkit-valikkoon tai tiettyyn kansioon niiden sisälle.
 policy-Certificates = Käytetäänkö sisäänrakennettuja varmenteita vaiko ei. Tämä käytäntö on tällä hetkellä käytettävissä vain Windowsissa.
+policy-CertificatesDescription = Lisää varmenteita tai käytä sisäänrakennettuja varmenteita.
 policy-Cookies = Salli tai estä, että sivustot asettavat evästeitä.
 policy-DisableAppUpdate = Estä selainta päivittymästä.
 policy-DisableBuiltinPDFViewer = Poista käytöstä PDF.js, { -brand-short-name }in sisäänrakennettu PDF-katselin.
