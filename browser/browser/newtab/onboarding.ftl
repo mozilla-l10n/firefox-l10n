@@ -24,3 +24,6 @@ onboarding-addons-title = Modules complémentaires
 onboarding-addons-text = Ajoutez encore plus de fonctionnalités pour que { -brand-short-name } en fasse davantage pour vous. Comparez les prix, consultez la météo ou affirmez-vous avec un thème personnalisé.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Naviguez plus vite, plus intelligemment ou avec plus de sécurité avec des extensions comme Ghostery qui vous permet de bloquer les publicités envahissantes.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Synchroniser
+onboarding-fxa-text = Créez votre { -fxaccount-brand-name[lowercase] } et synchronisez vos marque-pages, vos mots de passe et onglets ouverts partout où vous utilisez { -brand-short-name }.

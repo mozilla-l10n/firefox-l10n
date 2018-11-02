@@ -853,3 +853,7 @@ certs-view =
 certs-devices =
     .label = Périphériques de sécurité…
     .accesskey = P
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Enregistrer les fichiers dans { $service-name }
