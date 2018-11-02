@@ -154,7 +154,11 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "Iste problema occurre probabilemente perque le horologio de tu computator es adjustate con le hora incorrecte, le qual impedi &brandShortName; de connecter se securmente.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; disvelava un menacia potential de securitate e interrumpeva le connexion a <span class='hostname'/> pois que iste sito web require un connexion secur.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; disvelava un problema e interrumpeva le connexion a <span class='hostname'/>. Le sito web o es mal configurate o le horologio de tu computator es definite a un tempore errate.">
+<!ENTITY certerror.expiredCert.secondPara2 "Il pare que le certificato del sito es expirate, isto impedi a &brandShortName; de connecter se in modo secur. Si tu visita iste sito, alicuno pote attaccar e tentar de robar informationes como tu contrasignos, emails, o detalios de cartas de credito.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Il pare que le certificato del sito es expirate, isto impedi a &brandShortName; de connecter se in modo secur.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Que pote tu facer concernente a isto?">
 
