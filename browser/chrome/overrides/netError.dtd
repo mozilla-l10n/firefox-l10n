@@ -150,6 +150,7 @@
 
 <!ENTITY certerror.longpagetitle1 "Yhteys ei ole suojattu">
 <!ENTITY certerror.longpagetitle2 "Varoitus: mahdollinen tietoturvariski">
+<!ENTITY certerror.sts.longpagetitle  "Ei yhdistetty: mahdollinen turvallisuusongelma">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -158,7 +159,11 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "Ongelman syynä on todennäköisesti se, että tietokoneesi kello on väärässä ajassa, minkä takia &brandShortName; ei voi muodostaa suojattua yhteyttä.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; havaitsi mahdollisen turvallisuusuhan, eikä jatkanut sivustolle <span class='hostname'/>, koska tämä sivusto vaatii salatun yhteyden.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; havaitsi ongelman, eikä jatkanut sivustolle <span class='hostname'/>. Verkkosivuston asetukset on määritetty väärin tai tietokoneesi kello on asetettu väärään aikaan.">
+<!ENTITY certerror.expiredCert.secondPara2 "On todennäköistä, että verkkosivuston varmenne on vanhentunut, mikä estää &brandShortName;ia muodostamasta turvallista yhteyttä. Jos vierailet tällä sivustolla, hyökkääjät voivat yrittää varastaa esimerkiksi salasanoihin, sähköposteihin ja luottokortteihin liittyviä tietoja.">
+<!ENTITY certerror.expiredCert.sts.secondPara "On todennäköistä, että verkkosivuston varmenne on vanhentunut, mikä estää &brandShortName;ia muodostamasta turvallista  yhteyttä.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Mitä voit tehdä?">
 
@@ -216,6 +221,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Suojaamaton yhteys">
 <!ENTITY certerror.pagetitle2  "Varoitus: mahdollinen tietoturvariski">
+<!ENTITY certerror.sts.pagetitle  "Ei yhdistetty: mahdollinen turvallisuusongelma">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tämä sivusto määrää
 käyttäen HTTP Strict Transport Security (HSTS) -ominaisuutta, että
 &brandShortName; saa muodostaa siihen vain suojatun yhteyden. Tämän takia
@@ -235,3 +241,4 @@ tälle varmenteelle ei voi luoda poikkeusta.">
 
 <!ENTITY prefReset.longDesc "Vaikuttaa siltä, että verkon turvallisuusasetukset aiheuttavat tämän. Haluatko palauttaa oletusasetukset?">
 <!ENTITY prefReset.label "Palauta oletusasetukset">
+
