@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Linguas
-    .style = width: 30em
 webpage-languages-window =
     .title = Configurationes del linguas del pagina web
     .style = width: 40em
@@ -45,7 +42,14 @@ browser-languages-window =
     .title = { -brand-short-name } Configurationes del linguas
     .style = width: 40em
 browser-languages-description = { -brand-short-name } monstrara le prime lingua como tu predefiniva e monstrara altere linguas si illos es necesse in le ordine de apparition.
+browser-languages-search = Cercar altere linguas...
+browser-languages-searching =
+    .label = Recerca de linguas...
 browser-languages-downloading =
     .label = Discarga...
+browser-languages-select-language =
+    .label = Seliger un lingua a adder…
+    .placeholder = Seliger un lingua a adder…
 browser-languages-installed-label = Lingiuas installate
 browser-languages-available-label = Linguas disponibile
+browser-languages-error = { -brand-short-name } non pote actualisar tu linguas justo ora. Verifica tu connexion a internet o retenta.
