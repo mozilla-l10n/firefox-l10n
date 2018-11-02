@@ -109,6 +109,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.sts.introPara "&brandShortName; yufa-d dakken izmer ad yili ugur n teɣlist u ur ikemmel ara ɣer <span class='hostname'/> acku asmel-agi isra tuqqna tɣelsant.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; Yufa-d ugur u ur ikemmel ara ɣer <span class='hostname'/>. Asmel web atan ur ittwasbadu ara neɣ tamrilt n uselkim-ik/im ur tettwasbadu ara ɣer wakud iwatan.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "D acu i tzemreḍ ad txedmeḍ i waya?">
 
