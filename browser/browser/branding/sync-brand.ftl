@@ -34,14 +34,14 @@
 # and kept in English.
 -fxaccount-brand-name =
     {
-       *[nom] Обліковий запис Firefox
+        [nom] Обліковий запис Firefox
         [nom-lower] обліковий запис Firefox
         [gen] Облікового запису Firefox
         [gen-lower] облікового запису Firefox
-        [dat] Обліковому запису Firefox
-        [dat-lower] обліковому запису Firefox
+        [dat] Обліковому записі Firefox
+        [dat-lower] обліковому записі Firefox
         [acc] Обліковий запис Firefox
         [acc-lower] обліковий запис Firefox
         [abl] Обліковим записом Firefox
-        [abl-lower] обліковим записом Firefox
+       *[abl-lower] обліковим записом Firefox
     }
