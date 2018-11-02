@@ -8,7 +8,12 @@
 <!ENTITY loadError.label "Duilgheadas le luchdadh na duilleige">
 <!ENTITY retry.label "Feuch ris a-rithist">
 <!ENTITY returnToPreviousPage.label "Air ais">
+<!ENTITY returnToPreviousPage1.label "Air ais (Mholamaid seo)">
 <!ENTITY advanced.label "Adhartach">
+<!ENTITY continue2.label "Barrachd…">
+<!ENTITY moreInformation.label "Barrachd fiosrachaidh">
+
+<!ENTITY viewCertificate.label "Seall an teisteanas">
 
 <!-- Specific error messages -->
 
@@ -88,10 +93,17 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Cha ghabh an duilleag a bha thu airson faicinn a shealltainn a chionn 's nach do ghabh fìrinneachd an dàta a fhuaradh a dhearbhadh.</li> <li>Leig fios gu na daoine aig a bheil an làrach mun duilgheadas seo.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "Chan eil an ceangal agad tèarainte">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Chaidh an làrach <span class='hostname'/> a dhroch-rèiteachadh. Cha do rinn &brandShortName; ceangal ris an làrach seo air eagal ’s gun rachadh dàta a ghoid ort.">
+
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>Dh’fhaodadh nach eil an làrach seo ri faighinn rè seal no gu bheil e ro thrang. Feuch ris a-rithist an ceann tamaill.</li> <li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal a’ choimpiutair agad ris an lìonra.</li> <li>Ma tha an coimpiutair no an lìonra agad ’ga dhìon le chachaileith-theine no progsaidh, dèan cinnteach gu bheil cead aig &brandShortName; ceangal ris an lìon.</li> </ul>">
 
@@ -132,5 +144,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Duilleag bhacte">
 
+
 <!ENTITY prefReset.longDesc "Tha coltas gur e roghainnean tèarainteachd an lìonraidh agad ag adhbharachadh seo. A bheil thu airson na roghainnean bunaiteach a thilleadh?">
 <!ENTITY prefReset.label "Aisig na roghainnean bunaiteach">
+
