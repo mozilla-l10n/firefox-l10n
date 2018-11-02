@@ -90,3 +90,4 @@
 <!ENTITY blockedByPolicy.title "Əngəllənmiş Səhifə">
 
 <!ENTITY networkProtocolError.title "Şəbəkə Protokolu Xətası">
+<!ENTITY networkProtocolError.longDesc "<p>Görmək istədiyiniz sayt göstərilə bilmir, çünki, şəbəkə protokolunda xəta aşkarlandı.</p><ul><li>Lütfən sayt administrasiyası ilə əlaqə saxlayaraq xətadan xəbərdar edin.</li></ul>">

@@ -103,9 +103,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> sahibi web saytı düzgün quraşdırmayıb. Məlumatlarınızın oğurlanmasının qarşısın almaq üçün &brandShortName; bu web sayta qoşulmadı.">
 <!ENTITY certerror.introPara2 "&brandShortName; <span class='hostname'/> saytında potensial təhlükə tapdı və davam etmədi. Əgər bu saytı ziyarət etsəniz hücumçular parol, e-poçt, kredit kartı kimi məlumatlarınızı oğurlaya bilərlər.">
 
-<!ENTITY certerror.sts.introPara "&brandShortName; potensial güvənlik təhlükəsi aşkarladı və <span class='hostname'/> saytına davam etmədi çünki, bu sayt təhlükəsiz əlaqə tələb edir.">
-
 <!ENTITY certerror.expiredCert.secondPara "Ola bilsin kompüterinizin saatı səhv qurulduğu üçün &brandShortName; səyyahı təhlükəsiz əlaqə qura bilmir.">
+
+<!ENTITY certerror.sts.introPara "&brandShortName; potensial güvənlik təhlükəsi aşkarladı və <span class='hostname'/> saytına davam etmədi çünki, bu sayt təhlükəsiz əlaqə tələb edir.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; xəta aşkarladı və <span class='hostname'/> saytına davam etmədi. Ya bu sayt səhv konfiqurasiya edilib və ya kompüterinizin saatı səhvdir.">
 <!ENTITY certerror.expiredCert.secondPara2 "Görünür saytın sertifikatının vaxtı çıxıb, buna görə də &brandShortName; ona təhlükəsiz qoşula bilmir. Əgər bu saytı ziyarət etsəniz, hücum edənlər parol, e-poçt və kredit-kartı kimi məlumatlarınızı oğurlaya bilərlər.">
@@ -175,3 +175,6 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Şəbəkə təhlükəsizliyi tənzimləmələri buna səbəb ola bilər. Standart tənzimləməri geri yükləmək istəyirsinizmi?">
 <!ENTITY prefReset.label "Ön tənzimləmələri bərpa et">
+
+<!ENTITY networkProtocolError.title "Şəbəkə Protokolu Xətası">
+<!ENTITY networkProtocolError.longDesc "<p>Görmək istədiyiniz sayt göstərilə bilmir, çünki, şəbəkə protokolunda xəta aşkarlandı.</p><ul><li>Lütfən sayt administrasiyası ilə əlaqə saxlayaraq xətadan xəbərdar edin.</li></ul>">
