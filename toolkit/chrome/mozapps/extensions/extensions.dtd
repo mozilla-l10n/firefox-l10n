@@ -95,6 +95,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "T">
 <!ENTITY cmd.disableTheme.label               "Gebruik van thema stoppen">
 <!ENTITY cmd.disableTheme.accesskey           "t">
+
 <!ENTITY cmd.askToActivate.label              "Vragen om te activeren">
 <!ENTITY cmd.askToActivate.tooltip            "Telkens vragen deze add-on te gebruiken">
 <!ENTITY cmd.alwaysActivate.label             "Altijd activeren">
@@ -104,6 +105,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "Wijzigen wanneer deze add-on wordt uitgevoerd">
 <!ENTITY cmd.installAddon.label               "Installeren">
 <!ENTITY cmd.installAddon.accesskey           "I">
+
 <!ENTITY cmd.uninstallAddon.label             "Verwijderen">
 <!ENTITY cmd.uninstallAddon.accesskey         "V">
 <!ENTITY cmd.showPreferencesWin.label         "Opties">
@@ -168,6 +170,7 @@
 <!ENTITY progress.cancel.tooltip              "Annuleren">
 
 <!ENTITY addon.homepage                       "Homepage">
+
 <!ENTITY addon.details.label                  "Meer">
 <!ENTITY addon.details.tooltip                "Meer details over deze add-on tonen">
 <!ENTITY addon.unknownDate                    "Onbekend">
@@ -189,6 +192,7 @@
 <!ENTITY addon.undoRemove.label               "Ongedaan maken">
 <!ENTITY addon.undoRemove.tooltip             "Deze add-on geïnstalleerd laten">
 <!ENTITY addon.restartNow.label               "Nu herstarten">
+
 <!ENTITY addon.install.label                  "Installeren">
 <!ENTITY addon.install.tooltip                "Deze add-on installeren">
 <!ENTITY addon.updateNow.label                "Nu bijwerken">

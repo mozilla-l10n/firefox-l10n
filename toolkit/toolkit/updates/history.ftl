@@ -7,11 +7,13 @@ history-intro = De volgende updates zijn geïnstalleerd
 close-button-label =
     .buttonlabelcancel = Sluiten
     .title = Updategeschiedenis
+
 no-updates-label = Er zijn nog geen updates geïnstalleerd
 name-header = Updatenaam
 date-header = Installatiedatum
 type-header = Type
 state-header = Staat
+
 # Used to display update history
 #
 # Variables:
