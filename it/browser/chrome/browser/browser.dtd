@@ -707,10 +707,16 @@
 <!ENTITY trackingProtection.tooltip "Apri impostazioni per la protezione antitracciamento">
 <!ENTITY trackingProtection.unblock4.label "Disattiva blocco per questo sito">
 <!ENTITY trackingProtection.unblock4.accesskey "s">
+<!ENTITY trackingProtection.unblock5.label "Disattiva blocco per questo sito">
+<!ENTITY trackingProtection.unblock5.accesskey "D">
 <!ENTITY trackingProtection.unblockPrivate4.label "Disattiva blocco temporaneamente">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Attiva blocco per questo sito">
 <!ENTITY trackingProtection.block5.accesskey "A">
+<!ENTITY trackingProtection.unblockPrivate5.label "Disattiva blocco temporaneamente">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "D">
+<!ENTITY trackingProtection.block6.label "Attiva blocco per questo sito">
+<!ENTITY trackingProtection.block6.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Ricarica la pagina">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 <!ENTITY pluginNotification.showAll.label "Mostra tutti">
