@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "அடுத்தது">
 
 <!ENTITY firstrun_tabqueue_title "இணைப்புகள்">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "கீற்று வரிசையை செயல்படுத்து">
-<!ENTITY firstrun_tabqueue_subtext_off "பிற பயன்பாடுகளில் தொடுப்புகளை தட்டி பின்னர் பார்க்க &brandShortName; என்பதில் சேமி.">
-
-<!ENTITY firstrun_tabqueue_message_on "வெற்றி!">
-<!ENTITY firstrun_tabqueue_subtext_on "&pref_category_general; கீழ் &settings; இல் இதனை அணைக்கலாம்.">
 
 <!ENTITY firstrun_readerview_title "கட்டுரைகள்">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "&brandShortName;ஐ மறுதுவக்கவும்">
 
 <!ENTITY url_bar_default_text2 "தேடு/முகவரியை உள்ளிடு">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "கீற்றுகளை மீட்டமை, தரவு சேமி, உருவாக்குநர் கருவிகள்">
 <!ENTITY pref_category_notifications "அறிவிப்புகள்">
-<!ENTITY pref_category_notifications_summary "புதிய வசதிகள், வலைத்தள புதுப்பிப்புகள்">
 <!ENTITY pref_category_notifications_summary2 "புதிய அம்சங்கள், தயாரிப்பு குறிப்புகள்">
 <!ENTITY pref_developer_remotedebugging_usb "USB மூலமாக தொலைநிலை வழுநீக்கல்">
 <!ENTITY pref_developer_remotedebugging_wifi "அருகலை வழி வழுநீக்கம்">
@@ -299,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; மற்றும் பிற &vendorShortName; தயாரிப்புகளைப் பயன்படுத்துவது பற்றி மேலும் அறிய">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "செயல்படுத்து">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "பரிசோதனையிலுள்ள வசதிகள்">
@@ -371,7 +368,6 @@
 <!ENTITY pref_use_system_font_size_summary "இணைய உள்ளடக்கத்தை கணினி எழுத்துரு அளவிற்கு அமை">
 
 <!ENTITY pref_media_autoplay_enabled "தானியக்கத்தை அனுமதி">
-<!ENTITY pref_media_autoplay_enabled_summary "வலைத்தளங்கள் தானாக காணொளிகளையும் பிற ஊடங்களையும் இயக்கினால் கட்டுப்படுத்தவும்">
 <!ENTITY pref_media_autoplay_allow "தானியக்கத்தை அனுமதி">
 <!ENTITY pref_media_autoplay_block "தானியக்கத்தை தடு">
 <!ENTITY pref_zoom_force_enabled "அளவுமாற்றதை எப்பொழுதும் செயல்படுத்து">
@@ -836,9 +832,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "&brandShortName; உலாவியைத் திறக்க முடியவில்லை. மீண்டும் நிறுவி முயற்சிக்கவும்.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; இனி புதுப்பிக்காது">
-<!ENTITY eol_notification_summary "மேலும் அறிய தட்டுங்கள்">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; இற்றைப்படுத்தப்பட்டுள்ளது">
@@ -907,3 +900,11 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 <!ENTITY mls_notification_channel "&vendorShortName; இடமறியும் சேவை">
 <!ENTITY download_notification_channel "பதிவிறக்கங்கள்">
+<!ENTITY media_notification_channel "ஊடக இயக்கம்">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "&brandShortName; அனுப்பும் அறிவிப்புகள்">
+<!ENTITY updater_notification_channel "செயலியின் புதுப்பிப்புகள்">
+<!ENTITY synced_tabs_notification_channel "ஒத்திசைவு கீற்றுகள்">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "தள அறிவிப்புகள்">
