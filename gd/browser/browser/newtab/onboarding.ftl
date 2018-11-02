@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Feuch e an-dràsta
+onboarding-button-label-get-started = Dèan toiseach tòiseachaidh
 onboarding-welcome-header = Fàilte gu { -brand-short-name }
 onboarding-start-browsing-button-label = Tòisich air brabhsadh
 
@@ -24,3 +25,6 @@ onboarding-addons-title = Tuilleadain
 onboarding-addons-text = Cuir barrachd ghleusan ris agus nì { -brand-short-name } barrachd dhut. Dèan coimeas eadar prìsean, thoir sùil air aithris na h-aimsire, ceartaich an litreachadh Gàidhlig agad no cuir dreach pearsanta air.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Dèan brabhsadh nas luaithe, nas tapaidhe no nas sàbhailte le leudachain mar Ghostery a bhacas sanasachd dhòrainneach.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sioncronaich
+onboarding-fxa-text = Clàraich airson { -fxaccount-brand-name } agus sioncronaich na comharran-lìn, faclan-faire is tabaichean fosgailte o àite sam bith far an cleachd thu { -brand-short-name }.
