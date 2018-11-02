@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Gestor de additivos
+search-header =
+    .placeholder = Cercar sur addons.mozilla.org
+    .searchbuttonlabel = Cercar
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Installar additivo ab un file…
     .accesskey = I
+help-button = Assistentia del additivos
+preferences =
+    { PLATFORM() ->
+        [windows] Optiones de { -brand-short-name }
+       *[other] Preferentias de { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Instrumentos pro tote le additivos
 show-unsigned-extensions-button =
