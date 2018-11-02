@@ -605,6 +605,9 @@ sitedata-keep-until-expire =
     .label = Vaxtı bitənə qədər
 sitedata-keep-until-closed =
     .label = { -brand-short-name } qapatılana qədər
+sitedata-delete-on-close =
+    .label = { -brand-short-name } qapatıldığında çərəzləri və sayt məlumatlarını sil
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Çərəz və sayt məlumatlarını qəbul et
     .accesskey = A
@@ -850,3 +853,7 @@ certs-view =
 certs-devices =
     .label = Təhlükəsizlik cihazları…
     .accesskey = D
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Faylları { $service-name } xidmətində saxla
