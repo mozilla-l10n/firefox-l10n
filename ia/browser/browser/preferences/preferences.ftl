@@ -327,6 +327,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Cercar le texto quando tu comencia a scriber
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Extensiones recommendate quando tu naviga
+    .accesskey = r
 browsing-cfr-recommendations-learn-more = Saper plus
 
 ## General Section - Proxy
@@ -602,6 +605,9 @@ sitedata-keep-until-expire =
     .label = Illos expira
 sitedata-keep-until-closed =
     .label = { -brand-short-name } es claudite
+sitedata-delete-on-close =
+    .label = Deler datos de cookies e sitos quando { -brand-short-name } es claudite
+    .accesskey = D
 sitedata-allow-cookies-option =
     .label = Acceptar le cookies e le datos de sito
     .accesskey = A
@@ -847,3 +853,7 @@ certs-view =
 certs-devices =
     .label = Dispositivos de securitate…
     .accesskey = D
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Salvar files in { $service-name }

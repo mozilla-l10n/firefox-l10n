@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Exceptiones - Protection contra le tractiamento
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Tu ha inactivate le protection contra le traciamento in iste sitos web.
+permissions-exceptions-content-blocking-window =
+    .title = Exceptiones -Bloco del contento
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Tu ha disactivate le bloco de contento pro iste sito web.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Tu pote specificar que sitos web es permitt
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Sitos web permittite - Presentation automatic
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Tu pote specificar qual sitos web potera presentar automaticamente elementos de media. Insere le adresse exacte que tu vole autorisar e clicca Permitter.
 permissions-exceptions-autoplay-media-window2 =
     .title = Exceptiones - Reproduction automatic
     .style = { permissions-window.style }
