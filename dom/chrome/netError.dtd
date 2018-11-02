@@ -88,3 +88,5 @@
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> vaxtı keçmiş texnologiya işlədir və hücumlara açıqdır. Hücumçu güvənilir olduğunu düşündüyünüz məlumatı əldə edə bilər. Saytın administratoru problemi həll etdikdən sonra təkrar daxil ola bilərsiz.</p><p>Xəta kodu: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Əngəllənmiş Səhifə">
+
+<!ENTITY networkProtocolError.title "Şəbəkə Protokolu Xətası">
