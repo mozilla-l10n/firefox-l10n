@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Ei nyt
     .accesskey = E
 cfr-doorhanger-extension-ok-button = Lisää nyt
     .accesskey = L
+cfr-doorhanger-extension-manage-settings-button = Hallitse suositteluasetuksia
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = Älä näytä minulle tätä suositusta
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = Lue lisää
 # This string is used on a new line below the add-on name
 # Variables:
