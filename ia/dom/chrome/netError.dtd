@@ -105,3 +105,6 @@
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa technologia de securitate que es obsolete e vulnerabile a attaccos. Un attaccante pote facilemente revelar informationes que tu pensa esser secur. Le administrator del sito web debera reparar le servitor ante que tu pote visitar le sito.</p><p>Codice de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagina bloccate">
+
+<!ENTITY networkProtocolError.title "Error de protocollo de rete">
+<!ENTITY networkProtocolError.longDesc "<p>Le pagina que tu tentava de vider non pote esser monstrate perque un error in le protocollo de rete esseva disvelate.</p><ul><li>Per favor contacta le proprietarios del sito web pro les informar de iste problema.</li></ul>">

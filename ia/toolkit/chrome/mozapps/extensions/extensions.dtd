@@ -4,6 +4,8 @@
 <!ENTITY addons.windowTitle                   "Gestor de additivos">
 
 <!ENTITY search.placeholder2                  "Cercar sur addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Cercar sur addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Cercar">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +43,10 @@
 <!ENTITY view.discover.label                  "Obtener additivos">
 <!ENTITY view.recentUpdates.label             "Actualisationes recente">
 <!ENTITY view.availableUpdates.label          "Actualisationes disponibile">
+
+<!ENTITY helpButton.label                      "Assistentia del additivos">
+<!ENTITY preferencesWin.label                  "&brandShortName; optiones">
+<!ENTITY preferencesUnix.label                 "&brandShortName; preferentias">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Cercar actualisationes">
@@ -81,6 +87,14 @@
 <!ENTITY cmd.preferencesUnix.label            "Preferentias">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 
+
+
+
+
+
+
+
+
 <!ENTITY cmd.enableAddon.label                "Activar">
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Inactivar">
@@ -89,6 +103,10 @@
 <!ENTITY cmd.enableTheme.accesskey            "A">
 <!ENTITY cmd.disableTheme.label               "Cessar le uso del thema">
 <!ENTITY cmd.disableTheme.accesskey           "C">
+
+
+
+
 <!ENTITY cmd.askToActivate.label              "Demandar pro activar">
 <!ENTITY cmd.askToActivate.tooltip            "Demandar cata vice si usar iste additivo">
 <!ENTITY cmd.alwaysActivate.label             "Sempre activar">
@@ -98,6 +116,8 @@
 <!ENTITY cmd.stateMenu.tooltip                "Cambiar quando iste additivo es activate">
 <!ENTITY cmd.installAddon.label               "Installar">
 <!ENTITY cmd.installAddon.accesskey           "I">
+
+
 <!ENTITY cmd.uninstallAddon.label             "Remover">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Optiones">
@@ -107,6 +127,9 @@
 <!ENTITY cmd.contribute.label                 "Contribuer">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuer al developpamento de iste additivo">
+
+
+
 
 <!ENTITY cmd.showReleaseNotes.label           "notas del revision">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Monstrar le notas de revision de iste actualisation">
@@ -157,11 +180,15 @@
 <!-- ratings -->
 <!ENTITY rating2.label                        "Valutation">
 
+
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausar">
+
 <!ENTITY progress.cancel.tooltip              "Cancellar">
 
 <!ENTITY addon.homepage                       "Pagina initial">
+
+
 <!ENTITY addon.details.label                  "Plus">
 <!ENTITY addon.details.tooltip                "Monstrar plus detalios concernente iste additivo">
 <!ENTITY addon.unknownDate                    "Incognite">
@@ -183,6 +210,7 @@
 <!ENTITY addon.undoRemove.label               "Disfacer">
 <!ENTITY addon.undoRemove.tooltip             "Mantener iste additivo installate">
 <!ENTITY addon.restartNow.label               "Reinitiar ora">
+
 <!ENTITY addon.install.label                  "Installar">
 <!ENTITY addon.install.tooltip                "Installar iste additivo">
 <!ENTITY addon.updateNow.label                "Actualisar ora">
