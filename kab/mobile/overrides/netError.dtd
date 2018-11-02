@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> iseqdac tatiknulujit taqbuṛt ur nezmir ad terr ẓẓedmat. Aẓeddam yezmer ad yaker s wudem fessusen talɣut i tɣileḍ d taɣelsant.  Anedbal n usmel yesra di tazwara ad iseggem aqeddac send ad tizmireḍ ad terzuḍ ɣer usmel.</p><p>Tangalt n tuccḍa: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Tuccḍa deg uneggaf n uẓeṭṭa">
+<!ENTITY networkProtocolError.longDesc "<p>Ur nezmir ara ad d-sken asebter i tebɣiḍ ad twaliḍ acku teḍra-d tuccḍa deg uneggaf n uẓeṭṭa.</p><ul><li>Ttxil nermes bab n usmel akken ad as-tinniḍ ɣef ugur-a.</li></ul>">
