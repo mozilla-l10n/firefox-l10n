@@ -53,6 +53,7 @@ pane-sync-title = Conto Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Assistentia de { -brand-short-name }
+addons-button-label = Extensiones & themas
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,9 @@ extension-controlled-homepage-override = Un extension, <img data-l10n-name="icon
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Un extension, <img data-l10n-name="icon"/> { $name }, controla tu pagina de Nove scheda.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Un extension, <img data-l10n-name="icon"/> { $name }, controla iste configuration.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Un extension, <img data-l10n-name="icon"/> { $name }, ha definite le motor de recerca ordinari.
@@ -323,6 +327,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Cercar le texto quando tu comencia a scriber
     .accesskey = x
+browsing-cfr-recommendations-learn-more = Saper plus
 
 ## General Section - Proxy
 
