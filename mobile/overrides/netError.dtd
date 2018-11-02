@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> பழமையான பாதுகாப்பு தொழில்நுட்பத்தை கொண்டிருப்பதால் பாதிப்பு ஏற்படம். இணைய திருடர்கள் பாதுகாப்பற்ற தரவுகளை வெளியாக்கலாம். நீங்கள் தளத்தை பார்வையிடும் முன் இந்த சேவகனை நிர்வகிப்பவர் தளத்தை சரி செய்தல் வேணடும்.</p><p>பிழைக் குறியீடு: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "பிணைய நெறிமுறை பிழை">
+<!ENTITY networkProtocolError.longDesc "<p>பிணைய நெறிமுறையில் பிழை ஏற்பட்டதால் நீங்கள் பார்க்க விரும்பும் பக்கத்தைக் காண்பிக்க முடியவில்லை.</p><ul><li>இந்த சிக்கலைத் தெரிவிக்க வலைத்தள உரிமையாளர்களை தொடர்பு கொள்ளவும்.</li></ul>">
