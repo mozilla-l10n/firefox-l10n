@@ -195,3 +195,6 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> використовує технологію безпеки, яка є застарілою і вразливою до атак. Нападник може з легкістю розкрити інформацію, яка, на вашу думку, знаходиться в безпеці. Перед тим, як ви зможете відвідати сайт, його адміністратор повинен виправити це на сервері.</p><p>Код помилки: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Заблокована сторінка">
+
+<!ENTITY networkProtocolError.title "Помилка мережевого протоколу">
+<!ENTITY networkProtocolError.longDesc "<p>Неможливо відобразити сторінку, яку ви намагаєтесь переглянути, тому що виявлено помилку мережевого протоколу.</p><ul><li>Зв'яжіться з власниками веб-сайту, щоб повідомити їх про цю проблему.</li></ul>">

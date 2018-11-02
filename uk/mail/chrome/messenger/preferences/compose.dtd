@@ -20,6 +20,10 @@
 <!ENTITY font.accesskey                       "Ш">
 <!ENTITY size.label                           "Розмір:">
 <!ENTITY size.accesskey                       "Р">
+<!ENTITY fontSize.label                       "Розмір:">
+<!ENTITY fontSize.accesskey                   "з">
+<!ENTITY useReaderDefaults.label              "Використовувати типові кольори читача">
+<!ENTITY useReaderDefaults.accesskey          "п">
 <!ENTITY fontColor.label                      "Колір тексту:">
 <!ENTITY fontColor.accesskey                  "т">
 <!ENTITY bgColor.label                        "Колір тла:">
