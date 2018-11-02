@@ -236,3 +236,4 @@ certificato non es possibile.">
 <!ENTITY prefReset.label "Restaurar le parametros predefinite">
 
 <!ENTITY networkProtocolError.title "Error de protocollo de rete">
+<!ENTITY networkProtocolError.longDesc "<p>Le pagina que tu tenta de vider non pote esser monstrate perque esseva disvelate un error in le protocollo de rete </p><ul><li>Per favor contacta le proprietarios del sito web.</li></ul>">
