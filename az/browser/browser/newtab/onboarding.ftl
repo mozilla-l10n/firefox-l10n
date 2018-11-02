@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = İndi Yoxlayın
+onboarding-button-label-get-started = Başla
 onboarding-welcome-header = { -brand-short-name } səyyahına xoş gəlmisiniz
 onboarding-start-browsing-button-label = Səyahətə Başla
 
@@ -24,3 +25,6 @@ onboarding-addons-title = Əlavələr
 onboarding-addons-text = { -brand-short-name } səyyahınızı daha məhsuldar etmək üçün əlavə özəlliklər əlavə edin. Qiymətləri qarşılaşdırın, hava məlumatını yoxlayın və ya fərdi məzmunlarla zövqünüzə görə bəzəyin.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Ghostery kimi bezdirən reklamları əngəlləyən əlavələrlə daha sürətli, rahat və təhlükəsiz gəzin.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sinxronlaşdır
+onboarding-fxa-text = { -fxaccount-brand-name } üçün qeyd olun və əlfəcinlərinizi, parollarınızı və açıq vərəqlərinizi { -brand-short-name } işlətdiyiniz hər yerdə sinxronlaşdırın.
