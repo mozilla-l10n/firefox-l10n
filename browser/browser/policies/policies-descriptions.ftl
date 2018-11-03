@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Bloquear acceso a la página about:profiles.
 policy-BlockAboutSupport = Bloquear acceso a la página about:support.
 policy-Bookmarks = Crear marcadores en la barra de herramientas de marcadores, en el menú de marcadores o en una carpeta específica dentro de los mismos.
 policy-Certificates = Usar o no los certificados integrados. Esta política es solo para Windows en este momento.
+policy-CertificatesDescription = Añade certificados o usa los certificados integrados.
 policy-Cookies = Permitir o negar a los sitios web establecer cookies.
 policy-DisableAppUpdate = Evitar que el navegador se actualice.
 policy-DisableBuiltinPDFViewer = Deshabilitar PDF.js, el visor de PDF integrado en { -brand-short-name }.
