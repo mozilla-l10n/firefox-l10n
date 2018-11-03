@@ -124,7 +124,7 @@ was trying to connect. -->
 ">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
-<p>Ceasul calculatorului este setat la <span id='wrongSystemTime_systemDate2'/>. Asigură-te că ai calculatorul setat pe data, ora și fusul orar corecte în setările sistemului, apoi reîmprospătează <span class='hostname'/>.</p>
+<p>Ceasul calculatorului este setat pe <span id='wrongSystemTime_systemDate2'/>. Asigură-te că ai calculatorul setat pe data, ora și fusul orar corecte în setările sistemului, apoi reîmprospătează <span class='hostname'/>.</p>
 <p>Dacă ceasul este deja setat la ora corectă, site-ul web este probabil configurat greșit și nu poți face nimic pentru a rezolva problema. Poți notifica administratorul site-ului web cu privire la problemă.</p>">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
