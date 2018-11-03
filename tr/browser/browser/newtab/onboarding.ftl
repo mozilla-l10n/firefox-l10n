@@ -24,3 +24,5 @@ onboarding-addons-title = Eklentiler
 onboarding-addons-text = { -brand-short-name } tarayıcınıza daha da fazla özellik ekleyebilirsiniz. Çeviri yapın, hava durumuna bakın ya da yeni bir temayla kişiliğinizi yansıtın.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Sinir bozucu reklamları engellemenize izin veren Ghostery gibi eklentilerle daha hızlı, daha akıllı ve daha güvenli gezinebilirsiniz.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Eşitle
