@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Net elo
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Elo dobäisetzen
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Recommandatioun Astellungen upassen
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = Dës Recommandatioun net uweisen
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = Fir méi ze wëssen
 # This string is used on a new line below the add-on name
 # Variables:
