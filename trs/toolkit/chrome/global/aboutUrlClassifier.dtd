@@ -8,3 +8,26 @@
 <!ENTITY aboutUrlClassifier.provider                    "Sa du'uej e">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Diû hiaj nahuin nàkaj">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Aman nahuin nàkaj">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Diû gahuin ranj">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Dàj hua sa nahuin nàkaj rukì nïn'ïn">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Nagi'iaj nakà">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Kache">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Nagi'iaj nakà">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Na'nïn'">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Si yugui chrúun">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Antaj nikò nej Kachê ninj gatuj">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Antaj nikò nej kachê hue'ê gatûj">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Ni'iaj nej sa gatûj">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Nej kechê gatûj">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefîjo">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Gire' nej kachê ninj in">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Hash hua ngèe">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Gire' nej kachê sà'a">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Nagi'iaj hue'e'">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Nutò' riña Nachra Sò'">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Nachrun archibô dugûmi">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Nachrun JS Log">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Riña màn sinuguàn' nabegasiûn hue'ê">
+<!ENTITY aboutUrlClassifier.debugModules                "Riña màn sa nakà doj">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "NItaj si ahî huaj gaché nun JS log">
+<!ENTITY aboutUrlClassifier.debugFile                   "Riña màn sa nakà doj">
