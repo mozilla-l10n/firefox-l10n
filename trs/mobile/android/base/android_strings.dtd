@@ -291,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Gini\&apos;in doj dàj hua rayi\&apos;î &brandShortName; asi a\&apos;ngô &vendorShortName; nej sa huaa">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "Nachrun">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Sa hiáj raj hue\&apos;">
@@ -363,7 +368,6 @@
 <!ENTITY pref_use_system_font_size_summary "Si fuendê sistêma nikaj web">
 
 <!ENTITY pref_media_autoplay_enabled "Duguchrá ma\&apos;an aga\&apos; nan">
-<!ENTITY pref_media_autoplay_enabled_summary "Dugumî sisi nej riña web atujt ga\&apos;ue nadigân man\&apos;an sa nihià\&apos; ni\&apos;io\&apos; nga a\&apos;ngô ne sa siki\&apos; ni\&apos;io\&apos;">
 <!ENTITY pref_media_autoplay_allow "Ga\&apos;nïn gayi\&apos;ì man\&apos;an gi\&apos;iaj sunj">
 <!ENTITY pref_media_autoplay_block "Si ga\&apos;nïnt gayi\&apos;ì man\&apos;an gi\&apos;iaj sunj">
 <!ENTITY pref_zoom_force_enabled "Hua yugui nigànj sa nagi\&apos;iaj nichrùn\&apos;un">
@@ -828,9 +832,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Na\&apos;ue na\&apos;nin &brandShortName;. Garahue ñu.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; si ganahuin naka man">
-<!ENTITY eol_notification_summary "Ga\&apos;ui\&apos; da\&apos; guiri\&apos; doj nuguan\&apos;anj">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; nga ganahuin naka">
@@ -904,3 +905,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; Nuguan push huaa">
 <!ENTITY updater_notification_channel "Sa hua nahuin nakà riña na">
 <!ENTITY synced_tabs_notification_channel "Nej rakïj ñaj guña huaa">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Sa ataj na\&apos;anj daj hua sîtio">

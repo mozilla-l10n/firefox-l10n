@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> raj sun ngo sa' ga'ue gui'iaj tu a'ngo dugui. Sí rua gui'iaj tu ni ga'ue nata' si rayi'i. Sa 'nïnj ra'a sitio nan ni ga'ue nagui'iaj asij gachin garasun' sitio </p><p> Código guire'ej: NS_ERROR_NET_INADEQUATE_SECURITY </p>">
+
+<!ENTITY networkProtocolError.title "Gire' si protokolô red">
+<!ENTITY networkProtocolError.longDesc "<p>Pajinâ ni'iajt ruhuât ni na'ue nayi'nïn dadin' hua a'nan' si protokolô red.</p><ul><li>Gi'iaj 'ngo sununj ni natà' na'anj' riña nej duguî' si'iaj huin pajinâ nan.</li></ul>">
