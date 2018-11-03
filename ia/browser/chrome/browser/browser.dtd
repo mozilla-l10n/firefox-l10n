@@ -29,7 +29,7 @@
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Duplicar le scheda">
 <!ENTITY  duplicateTab.accesskey             "D">
-<!ENTITY  closeTabOptions.label              "Clauder le optiones de scheda">
+<!ENTITY  closeTabOptions.label              "Optiones pro clauder schedas">
 <!ENTITY  closeTabOptions.accesskey          "o">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
