@@ -20,6 +20,10 @@
 <!ENTITY font.accesskey                       "n">
 <!ENTITY size.label                           "Koko:">
 <!ENTITY size.accesskey                       "o">
+<!ENTITY fontSize.label                       "Koko:">
+<!ENTITY fontSize.accesskey                   "K">
+<!ENTITY useReaderDefaults.label              "Käytä lukijan oletusvärejä">
+<!ENTITY useReaderDefaults.accesskey          "o">
 <!ENTITY fontColor.label                      "Tekstin väri:">
 <!ENTITY fontColor.accesskey                  "s">
 <!ENTITY bgColor.label                        "Taustaväri:">
