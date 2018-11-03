@@ -41,3 +41,5 @@
 <!ENTITY allowHWAccel.accesskey                 "k">
 <!ENTITY blockAutoRefresh.label                 "Advar når nettsider forsøker å omdirigere eller laste siden på nytt">
 <!ENTITY blockAutoRefresh.accesskey             "d">
+
+<!ENTITY showZoomStatusPanel.label              "Vis skaleringskontroller i statuslinjen">
