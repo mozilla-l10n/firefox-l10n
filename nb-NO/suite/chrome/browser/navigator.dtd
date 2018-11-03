@@ -84,3 +84,6 @@
 <!ENTITY viewCertificate.accesskey   "s">
 <!ENTITY viewCertManager.label       "Åpne sertifikatbehandler">
 <!ENTITY viewCertManager.accesskey   "n">
+
+<!ENTITY zoomIn.tooltiptext          "Større">
+<!ENTITY zoomOut.tooltiptext         "Mindre">
