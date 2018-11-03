@@ -55,7 +55,7 @@
 <!ENTITY cmd.open_all_in_tabs.label      "Uddit Fof e Tabbe">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "U">
 
-<!ENTITY cmd.properties.label      "Keeroeaaɗi">
+<!ENTITY cmd.properties.label      "Keeroraaɗi">
 <!ENTITY cmd.properties.accesskey  "a">
 
 <!ENTITY cmd.sortby_name.label              "Leemtir Innde">
@@ -73,15 +73,11 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Loowtu Maantore Tolbecce">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "L">
 
-<!ENTITY cmd.moveBookmarks.label                  "Dirtin…">
-<!ENTITY cmd.moveBookmarks.accesskey              "D">
-
 <!ENTITY col.name.label          "Innde">
 <!ENTITY col.tags.label          "Tage">
 <!ENTITY col.url.label           "Nokkuure">
 <!ENTITY col.mostrecentvisit.label "Njillu Cakkitiingu">
 <!ENTITY col.visitcount.label    "Limoore Njillu">
-<!ENTITY col.description.label   "Cifagol">
 <!ENTITY col.dateadded.label     "Ɓeydaa">
 <!ENTITY col.lastmodified.label  "Waylaa Sakket">
 
@@ -98,10 +94,6 @@
 
 <!ENTITY forwardButton.tooltip  "Ɓennu">
 
-<!ENTITY detailsPane.more.label "Ɓeydu">
-<!ENTITY detailsPane.more.accesskey "u">
-<!ENTITY detailsPane.less.label "Ustu">
-<!ENTITY detailsPane.less.accesskey "s">
 <!ENTITY detailsPane.selectAnItemText.description "Labo temre ngam yiyde e taƴtaade keeroraaɗi mum">
 
 <!ENTITY view.label               "Hollir">
