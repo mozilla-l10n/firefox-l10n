@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY devmgr.title                           "Sa dugumî nej aga'a">
+<!-- LOCALIZATION NOTE (devmgr.style2): This is CSS style for Device Manager
+     window size. Don't translate "width" nor "height". Adjust the numbers
+     to make window contents fit. -->
+<!ENTITY devmgr.style2                          "width: 67em; height: 32em;">
+
+<!ENTITY devmgr.devlist.label                   "Sa dugûmi ni nej aga'a">
+<!ENTITY devmgr.details.title                   "A'ngô nej sa nika">
+<!ENTITY devmgr.details.title2                  "Dàj du'ue man">
+
+<!ENTITY devmgr.button.login.label              "Gayi'ì sesiûn">
+<!ENTITY devmgr.button.login.accesskey          "n">
+<!ENTITY devmgr.button.logout.label             "Narán sesiûn">
+<!ENTITY devmgr.button.logout.accesskey         "O">
+<!ENTITY devmgr.button.changepw.label           "Naduna da'nga' huìi">
+<!ENTITY devmgr.button.changepw.accesskey       "P">
+<!ENTITY devmgr.button.load.label               "Gayi'ì">
+<!ENTITY devmgr.button.load.accesskey           "L">
+<!ENTITY devmgr.button.unload.label             "Naduninj">
+<!ENTITY devmgr.button.unload.accesskey         "U">
+<!ENTITY devmgr.button.fips.accesskey           "F">
+
+<!ENTITY loaddevice.info                        "Gachrun nuguan' rayi'î modulô ruhuât gachrit.">
+<!ENTITY loaddevice.modname2                    "Si yugui môdulo">
+<!ENTITY loaddevice.modname2.accesskey          "M">
+<!ENTITY loaddevice.modname.default             "Notîsia PKCS#11 Môdulo">
+<!ENTITY loaddevice.filename2                   "Modulô si yugui archîbo">
+<!ENTITY loaddevice.filename2.accesskey         "f">
+<!ENTITY loaddevice.browse                      "Natsij ni'iajt…">
+<!ENTITY loaddevice.browse.accesskey            "B">
+
+<!ENTITY loaddevice.title2                      "Gayi'ì PKCS#11 Sa nikaj ñu'unj aga'a">
