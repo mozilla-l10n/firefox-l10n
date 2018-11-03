@@ -116,6 +116,10 @@ was trying to connect. -->
 <p>Mas ann air lìonra corporra a tha thu no ma tha thu a’ cleachdadh bathar-bog an aghaidh bhìorasan, ’s urrainn dhut fios a leigeil gu na sgiobannan-taice airson cobhair. ’S urrainn dhut fios a leigeil do rianaire na làraich cuideachd.</p>
 ">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
+<p>’S e <span id='wrongSystemTime_systemDate2'/> an t-àm a-rèir a’ choimpiutair agad. Dèan cinnteach gu bheil an t-àm, ceann-là agus roinn-tìde cheart ann an roghainnean an t-siostaim agad is ath-nuadhaich <span class='hostname'/> an uairsin.</p>
+<p>Ma tha an cleoc agad ceart, tha teans gu bheil an làrach-lìn air a dhroch-rèiteachadh agus nach eil dad ann as urrainn dhut-sa a dhèanamh airson a chur ceart. ’S urrainn dhut fios a chur gu rianaire na làraich-lìn mun duilgheadas ge-tà.</p>
+">
 
 
 <!ENTITY sharedLongDesc "<ul> <li>Dh’fhaodadh nach eil an làrach seo ri faighinn rè seal no gu bheil e ro thrang. Feuch ris a-rithist an ceann tamaill.</li> <li>Mur urrainn dhut duilleag sam bith a ruigsinn, cuir sùil air ceangal a’ choimpiutair agad ris an lìonra.</li> <li>Ma tha an coimpiutair no an lìonra agad ’ga dhìon le chachaileith-theine no progsaidh, dèan cinnteach gu bheil cead aig &brandShortName; ceangal ris an lìon.</li> </ul>">
