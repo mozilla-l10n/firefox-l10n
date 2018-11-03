@@ -88,3 +88,6 @@
 <!ENTITY inadequateSecurityError.longDesc "<p>Tha <span class='hostname'></span> a’ cleachdadh seann-teicneolas tèarainteachd a tha so-leònte. Cha bhiodh e doirbh do chuideigin dàta a leigeil ris a bha tèarainte ’nad bheachd. Bidh aig rianaire na làraich am frithealaiche a chàradh mus urrainn dhut tadhal air an làrach.</p><p>Còd na mearachd: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Duilleag bhacte">
+
+<!ENTITY networkProtocolError.title "Mearachd pròtacal an lìonraidh">
+<!ENTITY networkProtocolError.longDesc "<p>Chan urrainn dhuinn an duilleag a tha a dhìth ort a shealltainn dhut a chionn ’s gun do mhothaich sinn ri mearachd ann am pròtacal an lìonraidh.</p><ul><li>Cuir fios dha na daoine aig a bheil an làrach-lìn is innis dhaibh mun duilgheadas.</li></ul>">
