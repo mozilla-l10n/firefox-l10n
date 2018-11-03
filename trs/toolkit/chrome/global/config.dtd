@@ -24,6 +24,27 @@
 
 <!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Ga'uì' klik da' gachìnjt"> 
- 
+<!ENTITY columnChooser.tooltip "Ga'uì' klik da' naguit dukuán ruhuât digânt"> 
 
 <!-- Context Menu -->
+<!ENTITY copyPref.key "C">
+<!ENTITY copyPref.label "Guxun' ni nachrun' a'ngô hiuj u">
+<!ENTITY copyPref.accesskey "C">
+<!ENTITY copyName.label "Guxun si yugui ni nachrunt a'ngô hiuj u">
+<!ENTITY copyName.accesskey "N">
+<!ENTITY copyValue.label "Guxun sa du'uee ni nachrunt a'ngô hiuj u">
+<!ENTITY copyValue.accesskey "V">
+<!ENTITY modify.label "Naduna da' huaj">
+<!ENTITY modify.accesskey "M">
+<!ENTITY toggle.label "Toogle">
+<!ENTITY toggle.accesskey "T">
+<!ENTITY reset.label "Nagi'iaj ñû">
+<!ENTITY reset.accesskey "R">
+<!ENTITY new.label "Notîsia">
+<!ENTITY new.accesskey "w">
+<!ENTITY string.label "Sa nanikò' dugui'i">
+<!ENTITY string.accesskey "S">
+<!ENTITY integer.label "Hua chre' man">
+<!ENTITY integer.accesskey "I">
+<!ENTITY boolean.label "Boolean">
+<!ENTITY boolean.accesskey "B">
