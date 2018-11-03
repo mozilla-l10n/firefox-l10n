@@ -8,6 +8,9 @@
 <!ENTITY setColor1.label "Trykk på en farge eller">
 <!ENTITY setColor2.label "skriv inn en HTML-fargekode">
 <!ENTITY setColor2.accessKey "s">
+<!ENTITY chooseColor1.label "Velg en farge:">
+<!ENTITY chooseColor2.label "Skriv inn en HTML-fargekode">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(f.eks.: «#0000ff» eller «blue»):">
 <!ENTITY default.label "Forvalg">
 <!ENTITY default.accessKey "F">
