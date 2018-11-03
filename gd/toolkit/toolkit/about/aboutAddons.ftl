@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Manaidsear nan tuilleadan
+search-header =
+    .placeholder = Lorg air addons.mozilla.org
+    .searchbuttonlabel = Lorg
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Stàlaich tuilleadan o fhaidhle…
     .accesskey = i
+help-button = Taic nan tuilleadan
+preferences =
+    { PLATFORM() ->
+        [windows] Roghainnean { -brand-short-name }
+       *[other] Roghainnean { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Innealan airson a h-uile tuilleadan
 show-unsigned-extensions-button =

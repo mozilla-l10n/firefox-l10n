@@ -103,9 +103,18 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "Mar is trice, tachraidh seo ma tha an t-àm cearr aig cleoc a’ choimpiutair agad agus chan urrainn dha &brandShortName; ceangal tèarainte a dhèanamh ri linn sin.">
 
+<!ENTITY certerror.sts.introPara "Mhothaich &brandShortName; dha rud a dh’fhaodadh a bhith ’na chunnart tèarainteachd agus cha do thadhail e air <span class='hostname'/> a chionn ’s gu bheil an làrach-lìn seo feumach air ceangal tèarainte.">
 
+<!ENTITY certerror.expiredCert.introPara "Mhothaich &brandShortName; dha rud a dh’fhaodadh a bhith ’na chunnart tèarainteachd agus cha do thadhail e air <span class='hostname'/>. Tha an làrach-lìn air a dhroch-rèiteachadh no tha an t-àm cearr aig cleoc a’ choimpiutair agad.">
+<!ENTITY certerror.expiredCert.secondPara2 "Dh’fhaoidte gun do dh’fhalbh an ùine air teisteanas na làraich-lìn agus chan urrainn dha &brandShortName; ceangal tèarainte a dhèanamh ri linn sin. Ma thadhlas tu air an làrach seo, dh’fhaoidte gun dèid rudan mar fhaclan-faire, puist-d is cairtean-creideis a ghoid ort.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Dh’fhaoidte gun do dh’fhalbh an ùine air teisteanas na làraich-lìn agus chan urrainn dha &brandShortName; ceangal tèarainte a dhèanamh ri linn sin.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Dè nì mi mu dhèidhinn?">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
+<p>Tha teans mòr gu bheil rudeigin cearr san làrach-lìn fhèin agus nach eil dad ann as urrainn dhut-sa dèanamh.</p>
+<p>Mas ann air lìonra corporra a tha thu no ma tha thu a’ cleachdadh bathar-bog an aghaidh bhìorasan, ’s urrainn dhut fios a leigeil gu na sgiobannan-taice airson cobhair. ’S urrainn dhut fios a leigeil do rianaire na làraich cuideachd.</p>
+">
 
 
 
