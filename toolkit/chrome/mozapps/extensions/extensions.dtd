@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "Manaidsear nan tuilleadan">
 
-<!ENTITY search.placeholder                   "Rannsaich a h-uile tuilleadan">
-
 <!ENTITY search.placeholder2                  "Lorg air addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Lorg air addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Lorg">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -16,7 +16,6 @@
 <!ENTITY listEmpty.availableUpdates.label     "Cha deach ùrachadh a lorg">
 <!ENTITY listEmpty.recentUpdates.label        "Cha do dh'ùraich thu tuilleadan sam bith o chionn ghoirid">
 <!ENTITY listEmpty.findUpdates.label          "Lorg ùrachaidhean">
-<!ENTITY listEmpty.search.label               "Cha deach tuilleadan freagarrach a lorg">
 <!ENTITY listEmpty.button.label               "Faigh barrachd fiosrachaidh mu thuilleadain">
 <!ENTITY installAddonFromFile.label           "Stàlaich tuilleadan o fhaidhle…">
 <!ENTITY installAddonFromFile.accesskey       "i">
@@ -41,10 +40,13 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Cuir an comas sgrùdadh tèarainteachd nan tuilleadan">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "Lorg">
 <!ENTITY view.discover.label                  "Faigh tuilleadain">
 <!ENTITY view.recentUpdates.label             "Ùrachaidhean a rinn thu o chionn goirid">
 <!ENTITY view.availableUpdates.label          "Ùrachaidhean a tha ri am faighinn">
+
+<!ENTITY helpButton.label                      "Taic nan tuilleadan">
+<!ENTITY preferencesWin.label                  "Roghainnean &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Roghainnean &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Lorg ùrachaidhean">
@@ -84,8 +86,14 @@
 <!ENTITY cmd.preferencesWin.accesskey         "o">
 <!ENTITY cmd.preferencesUnix.label            "Roghainnean">
 <!ENTITY cmd.preferencesUnix.accesskey        "R">
-<!ENTITY cmd.about.label                      "Mu dhèidhinn">
-<!ENTITY cmd.about.accesskey                  "M">
+
+
+
+
+
+
+
+
 
 <!ENTITY cmd.enableAddon.label                "Cuir an comas">
 <!ENTITY cmd.enableAddon.accesskey            "C">
@@ -95,6 +103,10 @@
 <!ENTITY cmd.enableTheme.accesskey            "C">
 <!ENTITY cmd.disableTheme.label               "Na cleachd an t-ùrlar seo tuilleadh">
 <!ENTITY cmd.disableTheme.accesskey           "N">
+
+
+
+
 <!ENTITY cmd.askToActivate.label              "Faighnich mus cuirear an gnìomh">
 <!ENTITY cmd.askToActivate.tooltip            "Faighnich gach turas mus cleachdar an tuilleadan seo">
 <!ENTITY cmd.alwaysActivate.label             "Cuir an gnìomh an-còmhnaidh">
@@ -104,6 +116,8 @@
 <!ENTITY cmd.stateMenu.tooltip                "Atharraich nuair a ruitheas an tuilleadan seo">
 <!ENTITY cmd.installAddon.label               "Stàlaich">
 <!ENTITY cmd.installAddon.accesskey           "i">
+
+
 <!ENTITY cmd.uninstallAddon.label             "Thoir air falbh">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Roghainnean">
@@ -113,6 +127,9 @@
 <!ENTITY cmd.contribute.label                 "Gabh pàirt ann">
 <!ENTITY cmd.contribute.accesskey             "G">
 <!ENTITY cmd.contribute.tooltip               "Gabh pàirt ann an leasachadh an tuilleadain seo">
+
+
+
 
 <!ENTITY cmd.showReleaseNotes.label           "Seall na nòtaichean sgaoilidh">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Seall nòtaichean sgaoilidh an ùrachaidh seo">
@@ -132,7 +149,6 @@
 <!ENTITY detail.lastupdated.label             "Ùrachadh mu dheireadh">
 <!ENTITY detail.creator.label                 "Leasaichear">
 <!ENTITY detail.homepage.label                "Duilleag-dhachaigh">
-<!ENTITY detail.numberOfDownloads.label       "Luchdaidhean a-nuas">
 
 <!ENTITY detail.contributions.description     "Dh'iarr leasaichear an tuilleadain seo gun cuir thu taic ri shìor-leasachadh tro thabhartas beag.">
 
@@ -161,28 +177,15 @@
 <!-- ratings -->
 <!ENTITY rating2.label                        "Rangachadh">
 
+
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Cuir 'na stad">
+
 <!ENTITY progress.cancel.tooltip              "Sguir dheth">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Ainm">
-<!ENTITY sort.name.tooltip                    "Seòrsaich a-rèir ainm">
-<!ENTITY sort.dateUpdated.label               "Ùrachadh mu dheireadh">
-<!ENTITY sort.dateUpdated.tooltip             "Seòrsaich a-rèir ceann-là an ùrachaidh">
-<!ENTITY sort.relevance.label                 "A' mhaids as fhearr">
-<!ENTITY sort.relevance.tooltip               "Seòrsaich a-rèir buinteanais">
-<!ENTITY sort.price.label                     "Prìs">
-<!ENTITY sort.price.tooltip                   "Seòrsaich a-rèir na prìse">
-
-<!ENTITY search.filter2.label                 "Lorg:">
-<!ENTITY search.filter2.installed.label       "Na tuilleadan agam">
-<!ENTITY search.filter2.installed.tooltip     "Seall na tuilleadan a tha air an stàladh">
-<!ENTITY search.filter2.available.label       "Tuilleadain a tha ri am faighinn">
-<!ENTITY search.filter2.available.tooltip     "Seall na tuilleadain a tha ri am faighinn airson stàladh">
-
 <!ENTITY addon.homepage                       "Duilleag-dhachaigh">
+
+
 <!ENTITY addon.details.label                  "Barrachd">
 <!ENTITY addon.details.tooltip                "Seall barrachd fiosrachaidh mun tuilleadan seo">
 <!ENTITY addon.unknownDate                    "Neo-aithnichte">
@@ -204,6 +207,7 @@
 <!ENTITY addon.undoRemove.label               "Neo-dhèan">
 <!ENTITY addon.undoRemove.tooltip             "Cum an tuilleadan seo">
 <!ENTITY addon.restartNow.label               "Ath-thòisich an-dràsta">
+
 <!ENTITY addon.install.label                  "Stàlaich">
 <!ENTITY addon.install.tooltip                "Stàlaich an tuilleadan seo">
 <!ENTITY addon.updateNow.label                "Ùraich an-dràsta">
@@ -223,17 +227,6 @@
 <!ENTITY eula.accept                          "Gabh ris is stàlaich e…">
 
 <!ENTITY settings.path.button.label           "Brabhsaich…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Dè tha seo? Faodaidh gun stàlaich 's gun ruith telemeatraidh deuchainnean o àm gu àm.">
-<!ENTITY experiment.info.learnmore "Barrachd fiosrachaidh">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Roghainnean an telemeatraidh">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Barrachd fiosrachaidh…">
 
