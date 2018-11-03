@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Tatojtob'ej Wakami
+onboarding-button-label-get-started = Titikirisäx
 onboarding-welcome-header = Ütz apetik pa { -brand-short-name }
 onboarding-start-browsing-button-label = Tichap Okem Pa K'amaya'l
 
@@ -24,3 +25,5 @@ onboarding-addons-title = Taq tz'aqat
 onboarding-addons-text = Ke'atz'aqatisaj ch'aqa' chik taq samaj richin nib'an chi ri { -brand-short-name } anin nisamäj chawäch. Ke'ajunamaj taq ajil, tatz'eta' ri meq'tewal o tak'utu' ri ab'anikil rik'in jun ichinan wachinel.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Katok pa k'amaya'l aninäq, na'owinäq rub'anikil o yalan ütz kik'in taq tz'aqat achi'el Ghostery, ri nuya' q'ij chawe richin ye'aq'ät ri itzel taq rutzijol.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Tixim

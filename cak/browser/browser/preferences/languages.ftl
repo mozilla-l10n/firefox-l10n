@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Taq ch'ab'äl
-    .style = width: 30em
 webpage-languages-window =
     .title = Runuk'ulem Ruch'ab'äl Ajk'amaya'l Ruxaq
     .style = width: 40em
@@ -45,3 +42,6 @@ browser-languages-window =
     .title = { -brand-short-name } Runuk'ulem Ch'ab'äl
     .style = width: 40em
 browser-languages-description = { -brand-short-name } xtuk'üt ri nab'ey ch'ab'äl achi'el ri k'o wi chuqa' xkeruk'üt pe ch'aqa' chik ch'ab'äl we k'atzinel pa ri rucholajem e k'o.
+browser-languages-downloading =
+    .label = Niqasäx…
+browser-languages-available-label = Wachel taq ch'ab'äl

@@ -323,10 +323,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Tikanöx taq rucholajem tzij toq tajin yatz'ib'an
     .accesskey = t
+browsing-cfr-recommendations-learn-more = Tetamäx Ch'aqa' chik
 
 ## General Section - Proxy
 
-network-proxy-title = Ruproxi K'amab'ey
 network-settings-title = Runuk'ulem Okem
 network-proxy-connection-description = Tib'an runuk'ulem rub'eyal { -brand-short-name } nok pa k'amaya'l.
 network-proxy-connection-learn-more = Tetamäx ch'aqa' chik
@@ -591,26 +591,12 @@ sitedata-total-size-calculating = Tajin nipaj kinimilem taq rutzij chuqa' rujume
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ri yakon taq kaxlanwey, rutzij ruxaq chuqa' ri rutzatzq'or taq jumejyak nikokisaj { $value } { $unit } chi re ri rupam nimayakb'äl.
 sitedata-learn-more = Tetamäx ch'aqa' chik
-sitedata-accept-cookies-option =
-    .label = Kek'ul taq kaxlanwey chuqa' kitzij ruxaq kichin ajk'amaya'l taq ruxaq (chilab'en)
-    .accesskey = K
-sitedata-block-cookies-option =
-    .label = Keq'at taq kaxlanewy chuqa' kitzij ruxaq (nitikïr nub'än chi yek'ojpïx ri ajk'amya'l taq ruxaq)
-    .accesskey = K
 sitedata-keep-until = Tik'oje' k'a
     .accesskey = s
 sitedata-keep-until-expire =
     .label = Tik'o iq'ij
 sitedata-keep-until-closed =
     .label = { -brand-short-name } tz'apäl
-sitedata-accept-third-party-desc = Kek'ul konojel ri taq kaxlanwey kichin aj rox winäq chuqa' taq ruxaq tzij
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = Junelïk
-sitedata-accept-third-party-visited-option =
-    .label = Etz'eton
-sitedata-accept-third-party-never-option =
-    .label = Majub'ey
 sitedata-allow-cookies-option =
     .label = Kek'ulutäj taq rukaxlanway chuqa' taq rutzij k'amaya'l
     .accesskey = K
@@ -684,6 +670,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Eqal-Yesamajib'ëx Ojqanela'
     .accesskey = E
 content-blocking-fastblock-new-description = Xa xe keq'at ri ojqanela' eqal nikib'än richin yesamajib'ëx ri taq ruxaq.
+content-blocking-tracking-protection-trackers-label =
+    .label = Ojqanela'
+    .accesskey = O
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Ronojel taq Ojqanela' Xe'ilitäj
     .accesskey = O
@@ -731,10 +720,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Majub'ey
     .accesskey = M
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Tokisäx ri Chajinïk chuwäch Ojqanïk pan ichinan okem pa k'amaya'l richin yeq'at ri kanonela' etaman kiwäch
-    .accesskey = v
 tracking-exceptions =
     .label = Taq man relik ta…
     .accesskey = e
