@@ -156,6 +156,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle2  "Rabhadh: Tha rud romhad a dh’fhaodadh a bhith ’na chunnart tèarainteachd">
 <!ENTITY certerror.sts.pagetitle  "Cha deach ceangal a dhèanamh: Rud a dh’fhaodadh a bhith ’na chunnart tèarainteachd">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tha an làrach seo a’ cleachdadh HTTP Strict Transport Security (HSTS) gus a chur an cèill nach urrainn dha &brandShortName; ceangal ris ach gu tèarainte. Ri linn sin, chan urrainnear eisgeachd a chur ris airson an teisteanais seo.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Tha poileasaidh tèarainteachd aig <span class='hostname'></span> air a bheil HTTP Strict Transport Security (HSTS), agus is ciall dha sin nach urrainn dha &brandShortName; ach ceangal tèarainte a dhèanamh. Chan urrainn dhut eisgeachd a chur ris a thadhal air an làrach seo.">
 <!ENTITY certerror.copyToClipboard.label "Cuir lethbhreac dhen teacsa air an stòr-bhòrd">
 
 <!ENTITY inadequateSecurityError.title "Chan eil an ceangal agad tèarainte">
@@ -166,8 +167,10 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Duilleag bhacte">
 
 <!ENTITY clockSkewError.title "Tha cleoc a’ choimpiutair agad cearr">
+<!ENTITY clockSkewError.longDesc "Tha an coimpiutair agad dhen bheachd gu bheil e <span id='wrongSystemTime_systemDate1'/> agus chan urrainn dha &brandShortName; ceangal tèarainte a dhèanamh ri linn sin. Airson tadhal air <span class='hostname'></span>, ùraich cleoc a’ choimpiutair agad ann an roghainnean an t-siostaom is dèan cinnteach gu bheil an t-àm, ceann-là agus roinn-tìde cheart ann is ath-nuadhaich <span class='hostname'></span> an uairsin.">
 
 <!ENTITY prefReset.longDesc "Tha coltas gur e roghainnean tèarainteachd an lìonraidh agad ag adhbharachadh seo. A bheil thu airson na roghainnean bunaiteach a thilleadh?">
 <!ENTITY prefReset.label "Aisig na roghainnean bunaiteach">
 
 <!ENTITY networkProtocolError.title "Mearachd pròtacal an lìonraidh">
+<!ENTITY networkProtocolError.longDesc "<p>Chan urrainn dhuinn an duilleag a tha a dhìth ort a shealltainn dhut a chionn ’s gun do mhothaich sinn ri mearachd ann am pròtacal an lìonraidh.</p><ul><li>Cuir fios dha na daoine aig a bheil an làrach-lìn is innis dhaibh mun duilgheadas.</li></ul>">
