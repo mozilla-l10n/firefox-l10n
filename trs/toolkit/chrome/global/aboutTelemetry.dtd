@@ -2,70 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Nej sa ma Telemetry">
-
 <!ENTITY aboutTelemetry.pingDataSource "Riña ahui nej datos ping:">
-
 <!ENTITY aboutTelemetry.showCurrentPingData "Nej ping hua nakà doj">
-
 <!ENTITY aboutTelemetry.showArchivedPingData "Datos nachro' riña ping">
+<!ENTITY aboutTelemetry.showSubsessionData "Nadigun nej datos 'na'">
+<!ENTITY aboutTelemetry.choosePing "Nahui' ping:">
+<!ENTITY aboutTelemetry.archivePingType "Dugui' ping">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+<!ENTITY aboutTelemetry.optionGroupToday "Gui Hiáj">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Guki">
+<!ENTITY aboutTelemetry.optionGroupOlder "Sa nâ doj">
+<!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
+	These strings are displayed when selecting Archived pings, and they’re
+	used to move to the next or previous ping. -->
+<!ENTITY aboutTelemetry.previousPing "&lt;&lt;">
+<!ENTITY aboutTelemetry.nextPing "&gt;&gt;">
 
+<!ENTITY aboutTelemetry.pageTitle "Nej sa ma Telemetry">
+<!ENTITY aboutTelemetry.moreInformations "Hua nuguan' nana'uî't doj aj.">
+<!ENTITY aboutTelemetry.firefoxDataDoc "Sa nagi'iaj chre' si nuguà' Firefox <a> gu'nàj </a> nikaj chrej ganikò' da' nachrun' daran' si nuguàn'anj.">
+
+<!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Na'nín riña JSON ni'io'">
+
+<!ENTITY aboutTelemetry.homeSection "Hue'e">
+<!ENTITY aboutTelemetry.generalDataSection "  Datos nikó">
+<!ENTITY aboutTelemetry.environmentDataSection "  Ganikaj du'ua datos">
+<!ENTITY aboutTelemetry.sessionInfoSection "  Daj hua sesión">
+<!ENTITY aboutTelemetry.scalarsSection "  Gisi'">
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Gisij hui'">
+<!ENTITY aboutTelemetry.histogramsSection "  Sa gahuin">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "   Sa nga gachin">
+<!ENTITY aboutTelemetry.eventsSection "  Suun">
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Daj ye'e ma">
+<!ENTITY aboutTelemetry.slowSqlSection "  Sa 'iaj naj SQL">
+<!ENTITY aboutTelemetry.addonDetailsSection "  Daj hua sa nuto'">
+<!ENTITY aboutTelemetry.capturedStacksSection "  Captured Stacks">
+<!ENTITY aboutTelemetry.lateWritesSection "  nitaj si hua hue'e sa gachun'">
+<!ENTITY aboutTelemetry.rawPayloadSection "Sa nachra ma'an">
 <!ENTITY aboutTelemetry.raw "JSON nitaj si 'iaj sun">
 
-<!ENTITY aboutTelemetry.showSubsessionData "Nadigun nej datos 'na'">
-
-<!ENTITY aboutTelemetry.choosePing "Nahui' ping:">
-
-<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping naká doj">
-
-<!ENTITY aboutTelemetry.showOlderPing "Ping ná doj &gt;&gt;">
-
-<!ENTITY aboutTelemetry.archiveWeekHeader "Semana">
-
-
-<!ENTITY aboutTelemetry.archivePingHeader "Ping">
-
-
-
-
-<!ENTITY aboutTelemetry.generalDataSection "  Datos nikó">
-
-<!ENTITY aboutTelemetry.environmentDataSection "  Ganikaj du'ua datos">
-
-<!ENTITY aboutTelemetry.telemetryLogSection "  Nuto' Telemetry">
-
-<!ENTITY aboutTelemetry.slowSqlSection "  Sa 'iaj naj SQL">
-
-<!ENTITY aboutTelemetry.chromeHangsSection "  Na'ue gi'iaj sun navegador">
-
-<!ENTITY aboutTelemetry.threadHangStatsSection "  Naniko' 'uej e">
-
-<!ENTITY aboutTelemetry.capturedStacksSection "  Captured Stacks">
-
-<!ENTITY aboutTelemetry.scalarsSection "  Gisi'">
-
-<!ENTITY aboutTelemetry.keyedScalarsSection "  Gisij hui'">
-
-<!ENTITY aboutTelemetry.histogramsSection "  Sa gahuin">
-
-<!ENTITY aboutTelemetry.keyedHistogramsSection "   Sa nga gachin">
-
-<!ENTITY aboutTelemetry.eventsSection "  Suun">
-
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Daj ye'e ma">
-
-<!ENTITY aboutTelemetry.addonDetailsSection "  Daj hua sa nuto'">
-
-<!ENTITY aboutTelemetry.lateWritesSection "  nitaj si hua hue'e sa gachun'">
-
-<!ENTITY aboutTelemetry.sessionInfoSection "  Daj hua sesión">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NI'IAJ: sa nagi'iaj niñun SQL 'iaj sun. Ga'ue ni'iaj da'ua gê sa 'na SQL sani ni ga'an riña Telemetry.">
-
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Nana'ui' si yugui sa 'iaj sun nga sa niko'">
-
 <!ENTITY aboutTelemetry.hideStackSymbols "  Digân nej datos hua ni' gachin gi'iaj sun">
-
-<!ENTITY aboutTelemetry.filterText "  Gatu' (cadenas o /regexp/)">
-
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Sa ma">
