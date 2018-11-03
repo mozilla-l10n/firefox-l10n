@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title "about:config">
+
+<!-- about:config warning page -->
+<!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
+<!ENTITY aboutWarningTitle.label "¡Ga'ue dure' nan si garantiât!">
+<!ENTITY aboutWarningText.label "Si ruhuât nadunat sa hua nan ni ga'ue gi'iaj yi'ìj dàj 'iaj sun si agâ't, sa dugumî ni rugûñu'unj da' 'iaj sun hue'ê aplikasiûn nan. Sisi ni'in sa 'iát nin ga'ue gan'anjt ne' ñaan.">
+<!ENTITY aboutWarningButton2.label "¡Hua nika ruhuâj!">
+<!ENTITY aboutWarningCheckbox.label "Diganj niko' huaj sa hua ahii.">
+
+<!ENTITY searchPrefs.label "Nanà'uì':">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
+<!ENTITY focusSearch2.key "f">
+
+<!-- Columns -->
+<!ENTITY prefColumn.label "Si yugui garan' ruhuât doj">
+<!ENTITY lockColumn.label "Dàj hua riñaj">
+<!ENTITY typeColumn.label "Dugui'">
+<!ENTITY valueColumn.label "Dàj du'ue man">
+
+<!-- Tooltips -->
+<!ENTITY prefColumnHeader.tooltip "Ga'uì' klik da' gachìnjt"> 
+ 
+
+<!-- Context Menu -->
