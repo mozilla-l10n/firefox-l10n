@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 app-manager-window =
-    .title = Detaliile aplicației
+    .title = Detalii privind aplicația
     .style = width: 30em; min-height: 20em;
 app-manager-remove =
     .label = Elimină
     .accesskey = R
-app-manager-handle-webfeeds = Următoarele aplicații pot fi folosite pentru fișiere fluxuri web.
+app-manager-handle-webfeeds = Următoarele aplicații pot fi folosite pentru gestionarea fluxurilor web.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Următoarele aplicații pot fi folosite pentru gestionarea linkurilor de tip { $type }.
