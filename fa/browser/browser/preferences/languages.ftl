@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = زبان‌ها
-    .style = width: 30em
 webpage-languages-window =
     .title = تنظیمات زبان صفحه وب
     .style = width: 40em
@@ -44,3 +41,13 @@ languages-active-code-format =
 browser-languages-window =
     .title = تنظیمات زبان { -brand-short-name }
     .style = width: 40em
+browser-languages-search = جستجو برای زبان‌های بیشتر…
+browser-languages-searching =
+    .label = در حال جستجو برای زبان‌ها…
+browser-languages-downloading =
+    .label = در حال دریافت…
+browser-languages-select-language =
+    .label = انتخاب زبان برای افزودن…
+    .placeholder = انتخاب زبان برای افزودن…
+browser-languages-installed-label = زبان‌های نصب شده
+browser-languages-available-label = زبان‌های موجود
