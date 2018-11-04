@@ -5,6 +5,7 @@
 
 <!ENTITY search.placeholder2                  "Buscar en addons.mozilla.org">
 
+<!ENTITY search.placeholder3                  "Buscar en addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Buscar">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -86,6 +87,14 @@
 <!ENTITY cmd.preferencesUnix.label            "Preferencias">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 
+
+
+
+
+
+
+
+
 <!ENTITY cmd.enableAddon.label                "Habilitar">
 <!ENTITY cmd.enableAddon.accesskey            "H">
 <!ENTITY cmd.disableAddon.label               "Deshabilitar">
@@ -94,6 +103,10 @@
 <!ENTITY cmd.enableTheme.accesskey            "U">
 <!ENTITY cmd.disableTheme.label               "Dejar de usar tema">
 <!ENTITY cmd.disableTheme.accesskey           "u">
+
+
+
+
 <!ENTITY cmd.askToActivate.label              "Preguntar para activar">
 <!ENTITY cmd.askToActivate.tooltip            "Preguntar cada vez para usar este complemento">
 <!ENTITY cmd.alwaysActivate.label             "Siempre activar">
@@ -103,6 +116,8 @@
 <!ENTITY cmd.stateMenu.tooltip                "Cambiar cuando se ejecute este complemento">
 <!ENTITY cmd.installAddon.label               "Instalar">
 <!ENTITY cmd.installAddon.accesskey           "I">
+
+
 <!ENTITY cmd.uninstallAddon.label             "Eliminar">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Opciones">
@@ -112,6 +127,9 @@
 <!ENTITY cmd.contribute.label                 "Contribuir">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuir al desarrollo de este complemento">
+
+
+
 
 <!ENTITY cmd.showReleaseNotes.label           "Mostrar notas de la versión">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mostrar las notas de la versión para esta actualización">
@@ -159,11 +177,15 @@
 <!-- ratings -->
 <!ENTITY rating2.label                        "Puntuación">
 
+
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
+
 <!ENTITY progress.cancel.tooltip              "Cancelar">
 
 <!ENTITY addon.homepage                       "Sitio web">
+
+
 <!ENTITY addon.details.label                  "Más">
 <!ENTITY addon.details.tooltip                "Mostrar más detalles sobre este complemento">
 <!ENTITY addon.unknownDate                    "Desconocida">
@@ -185,6 +207,7 @@
 <!ENTITY addon.undoRemove.label               "Deshacer">
 <!ENTITY addon.undoRemove.tooltip             "Mantener este complemento instalado">
 <!ENTITY addon.restartNow.label               "Reiniciar ahora">
+
 <!ENTITY addon.install.label                  "Instalar">
 <!ENTITY addon.install.tooltip                "Instalar este complemento">
 <!ENTITY addon.updateNow.label                "Actualizar ahora">
