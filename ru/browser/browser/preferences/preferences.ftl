@@ -330,6 +330,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Искать текст на странице по мере его набора
     .accesskey = а
+browsing-cfr-recommendations =
+    .label = Рекомендовать расширения при просмотре
+    .accesskey = к
 browsing-cfr-recommendations-learn-more = Подробнее
 
 ## General Section - Proxy
@@ -605,6 +608,9 @@ sitedata-keep-until-expire =
     .label = до истечения срока их действия
 sitedata-keep-until-closed =
     .label = до закрытия { -brand-short-name }
+sitedata-delete-on-close =
+    .label = Удалять куки и данные сайтов при закрытии { -brand-short-name }
+    .accesskey = д
 sitedata-allow-cookies-option =
     .label = Принимать куки и данные сайтов
     .accesskey = и
@@ -850,3 +856,7 @@ certs-view =
 certs-devices =
     .label = Устройства защиты…
     .accesskey = т
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Сохранять файлы в { $service-name }
