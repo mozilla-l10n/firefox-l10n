@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Proovi kohe
+onboarding-button-label-get-started = Tee algust
 onboarding-welcome-header = Tere tulemast { -brand-short-name }i
 onboarding-start-browsing-button-label = Alusta veebilehitsemist
 
@@ -24,3 +25,6 @@ onboarding-addons-title = Lisad
 onboarding-addons-text = Lisa { -brand-short-name }ile rohkem funktsionaalsust, et ta töötaks sinu jaoks efektiivsemalt. Võrdle hindu, kontrolli ilma või väljenda oma isiksust kohandatud teemaga.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Lehitse veebi kiiremini, targemini või ohutumalt laiendustega nagu Ghostery, mis lubavad sul blokkida tüütuid reklaame.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sync
+onboarding-fxa-text = Loo { -fxaccount-brand-name } konto ja sünkroniseeri oma järjehoidjad, paroolid ning avatud kaardid kõikjale, kus kasutad { -brand-short-name }i.
