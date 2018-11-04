@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Personalizare antete">
+<!ENTITY window.title "Personalizează anteturile">
 <!ENTITY addButton.label "Adaugă">
 <!ENTITY addButton.accesskey "A">
 <!ENTITY removeButton.label "Șterge">
