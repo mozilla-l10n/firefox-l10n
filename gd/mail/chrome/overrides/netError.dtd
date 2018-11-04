@@ -103,3 +103,4 @@ functionality specific to thunderbird. -->
 <!ENTITY blockedByPolicy.title "Duilleag bhacte">
 
 <!ENTITY networkProtocolError.title "Mearachd pròtacal an lìonraidh">
+<!ENTITY networkProtocolError.longDesc "<p>Cha ghabh an duilleag a dh’iarr thu a shealltainn a chionn ’s gun deach mearachd a lorg pròtacal an lìonraidh.</p><ul><li>Cuir fios do sheilbheadairean na làraich-lìn mun duilgheadas seo.</li></ul>">
