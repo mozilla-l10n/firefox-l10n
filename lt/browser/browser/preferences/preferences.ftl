@@ -608,6 +608,9 @@ sitedata-keep-until-expire =
     .label = jie baigia galioti
 sitedata-keep-until-closed =
     .label = „{ -brand-short-name }“ yra uždaroma
+sitedata-delete-on-close =
+    .label = Ištrinti slapukus ir svetainių duomenis uždarant „{ -brand-short-name }“
+    .accesskey = s
 sitedata-allow-cookies-option =
     .label = Priimti slapukus ir svetainių duomenis
     .accesskey = P
@@ -853,3 +856,7 @@ certs-view =
 certs-devices =
     .label = Saugumo priemonės…
     .accesskey = S
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Įrašyti failus į „{ $service-name }“
