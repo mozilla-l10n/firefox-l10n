@@ -62,6 +62,8 @@
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Seòladh:">
 <!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
 <!ENTITY HomeCity.label                 "Baile:">
 <!ENTITY HomeCity.accesskey             "y">
 <!ENTITY HomeState.label                "Siorrachd/Còigeamh/Stàit:">
@@ -74,9 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Co-là breith:">
 <!ENTITY Birthday.accesskey             "B">
+<!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Bliadhna">
 <!ENTITY Or.value                       "no">
 <!ENTITY Age.placeholder                "Aois">
+<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Obair">
 <!ENTITY Work.accesskey                 "W">
@@ -88,6 +92,8 @@
 <!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "Seòladh:">
 <!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
 <!ENTITY WorkCity.label                 "Baile:">
 <!ENTITY WorkCity.accesskey             "y">
 <!ENTITY WorkState.label                "Siorrachd/Còigeamh/Stàit:">
@@ -135,7 +141,6 @@
 
 <!ENTITY Photo.tab                      "Dealbh">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Tagh aon dhe na leanas:">
 <!ENTITY GenericPhoto.label             "Fotograf gnèitheach">
 <!ENTITY GenericPhoto.accesskey         "G">
 <!ENTITY DefaultPhoto.label             "Bun-roghainn">

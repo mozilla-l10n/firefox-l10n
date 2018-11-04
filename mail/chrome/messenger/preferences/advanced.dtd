@@ -7,11 +7,12 @@
 <!ENTITY itemUpdate.label        "Ùraich">
 <!ENTITY itemNetworking.label    "An lìonra ⁊ àite air an diosg">
 <!ENTITY itemCertificates.label  "Teisteanasan">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Cuir an lorg is an clàr-innsiche uile-choitcheann an comas">
 <!ENTITY enableGlodaSearch.accesskey   "e">
 <!ENTITY dateTimeFormatting.label      "Fòrmatadh a’ chinn-là ’s an ama">
+<!ENTITY languageSelector.label        "Cànan">
 <!ENTITY allowHWAccel.label            "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
 <!ENTITY allowHWAccel.accesskey        "m">
 <!ENTITY storeType.label               "Seòrsa stòras nan teachdaireachdan airson cunntasan ùra:">
@@ -38,8 +39,8 @@
 <!ENTITY returnReceiptsInfo.label      "Suidhich mar a làimhsicheas &brandShortName; na bannan-cuidhteis">
 <!ENTITY showReturnReceipts.label      "Bannan-cuidhteis…">
 <!ENTITY showReturnReceipts.accesskey  "B">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemeatraidh">
 <!ENTITY telemetryDesc.label             "Cuiridh seo dàta air dèanadas, cleachdadh, bathar-cruaidh agus gnàthachadh a' phrògraim phuist-d agad dha &vendorShortName; ach an urrainn dhuinn &brandShortName; a dhèanamh nas fhearr">
 <!ENTITY enableTelemetry.label           "Cuir an telemeatraidh an comas">
@@ -51,12 +52,12 @@
 <!ENTITY enableCrashReporter.label       "Cuir an comas aithrisiche nan tuislidhean">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Barrachd fiosrachaidh">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-
 <!ENTITY updateApp2.label                "Ùrachaidhean &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
@@ -70,15 +71,13 @@
 <!ENTITY updateAuto.accesskey            "S">
 <!ENTITY updateCheck.label               "Thoir sùil ach a bheil ùrachadh ann ach cuiridh mi fhìn romham a bheil mi airson an stàladh">
 <!ENTITY updateCheck.accesskey           "b">
-<!ENTITY updateManual.label              "Na thoir sùil airson ùrachaidhean idir (cha mholamaid seo oir adhbharaichidh seo cunnartan tèarainteachd)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Seall eachdraidh nan ùrachaidhean">
 <!ENTITY updateHistory.accesskey         "S">
 
 <!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas ùrachaidhean sa chùlaibh">
 <!ENTITY useService.accesskey            "b">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Roghainnean…">
 <!ENTITY showSettings.accesskey        "R">
 <!ENTITY proxiesConfigure.label        "Rèitich mar a cheanglas &brandShortName; ris an lìon">
@@ -92,13 +91,13 @@
 <!ENTITY offlineCompactFolders.label     "CDùmhlaich na pasgain nan sàbhaladh seo barrachd air">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "MB uile gu lèir">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Cleachd suas gu">
 <!ENTITY useCacheBefore.accesskey        "u">
 <!ENTITY useCacheAfter.label             "MB a dh'àite airson an tasgadan">
@@ -106,8 +105,8 @@
 <!ENTITY overrideSmartCacheSize.accesskey "f">
 <!ENTITY clearCacheNow.label             "Falmhaich e an-dràsta">
 <!ENTITY clearCacheNow.accesskey         "c">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Nuair a dh'iarras frithealaiche an teisteanas pearsanta agam:">
 <!ENTITY certs.auto                      "Taghar fear leis fhèin">
 <!ENTITY certs.auto.accesskey            "S">

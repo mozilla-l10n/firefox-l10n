@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xul -->
 
 <!ENTITY addressing.label          "Sgrìobhadh ⁊ seòlachadh">
 <!ENTITY addressingGroupTitle.label "Seòlachadh">
@@ -16,8 +16,8 @@
 <!ENTITY directories.label         "Cleachd frithealaiche LDAP eile:">
 <!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "Chan eil gin">
-<!-- am-addressing.xul -->
 
+<!-- am-addressing.xul -->
 
 <!ENTITY compositionGroupTitle.label          "Sgrìobhadh">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -25,9 +25,9 @@
 <!ENTITY useHtml.accesskey                    "c">
 <!ENTITY autoQuote.label                      "Thoir luaidh air an teachdaireachd thùsail a ghnàth nuair a sgrìobhas tu freagairt">
 <!ENTITY autoQuote.accesskey                  "T">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Agus an uairsin,">
-<!ENTITY then.accesskey                       "A">
+<!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY quoting.label                        "Nuair a nithear iomradh,">
+<!ENTITY quoting.accesskey                    "q">
 <!ENTITY aboveQuote.label                     "tòisich air mo fhreagairt os cionn an luaidh">
 <!ENTITY belowQuote.label                     "tòisich air mo fhreagairt fon luaidh">
 <!ENTITY selectAndQuote.label                 "tagh an luaidh">

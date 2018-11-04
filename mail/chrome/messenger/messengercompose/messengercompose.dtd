@@ -88,9 +88,19 @@
 <!ENTITY reorderAttachmentsCmd.label "Cuir òrdugh eile air na ceanglachain…">
 <!ENTITY reorderAttachmentsCmd.accesskey "u">
 <!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Leòsan nan ceanglachan">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "m">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Tagh a h-uile">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Lorg...">
 <!ENTITY findBarCmd.accesskey "L">
 <!ENTITY findBarCmd.key "F">
@@ -109,26 +119,10 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Òrdugh nan ceanglachan">
 <!ENTITY moveAttachmentTopPanelBtn.label "Gluais gun bharr">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "b">
 <!ENTITY moveAttachmentUpPanelBtn.label "Gluais suas">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "u">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Gluais còmhla">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "c">
 <!ENTITY moveAttachmentDownPanelBtn.label "Gluais sìos">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "s">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Gluais gun bhonn">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "n">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Seòrsaich an taghadh: A - Z">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "a">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Seòrsaich an taghadh: Z - A">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "a">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
@@ -252,7 +246,7 @@
 <!ENTITY sendlaterButton.tooltip "Cuir an teachdaireachd seo uaireigin eile">
 <!ENTITY quoteButton.tooltip "Thoir luaidh air an teachdaireachd roimhe">
 <!ENTITY addressButton.tooltip "Tagh faightear o leabhar nan seòladh">
-<!ENTITY attachButton.tooltip "Cuir ceanglachan ris">
+<!ENTITY attachButton.tooltip2 "Cuir ceanglachan ris">
 <!ENTITY spellingButton.tooltip "Ceartaich an litreachadh san taghadh no san teachdaireachd air fad">
 <!ENTITY saveButton.tooltip "Sàbhail an teachdaireachd seo">
 <!ENTITY cutButton.tooltip              "Gearr às">
@@ -274,9 +268,15 @@
 <!ENTITY followupAddr.label "Post leanmhainneach gu:">
 <!ENTITY subject.label "Cuspair:">
 <!ENTITY subject.accesskey "s">
-<!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
-     to the strings in attachmentCount in composeMsgs.properties -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "c">
+<!ENTITY attachmentBucketHeader.tooltip "Leòsan nan ceanglachan">
+<!ENTITY attachmentBucketCloseButton.tooltip "Falaich leòsan nan ceanglachan">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Cuir samhla-gnùis ann">
@@ -314,6 +314,7 @@
 <!ENTITY pasteQuote.label "Cuir ann mar luaidh">
 <!ENTITY pasteQuote.accesskey "C">
 
+<!-- Attachment Item and List Context Menus -->
 <!ENTITY openAttachment.label "Fosgail">
 <!ENTITY openAttachment.accesskey "o">
 <!ENTITY delete.label "Sguab às">
@@ -324,6 +325,8 @@
 <!ENTITY renameAttachment.accesskey "r">
 <!ENTITY reorderAttachments.label "Cuir òrdugh eile air na ceanglachain…">
 <!ENTITY reorderAttachments.accesskey "u">
+<!ENTITY removeAllAttachments.label "Thoir air falbh a h-uile ceanglachan">
+<!ENTITY removeAllAttachments.accesskey "v">
 <!ENTITY selectAll.label "Tagh a h-uile">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Cuir faidhle/faidhlichean ris…">
@@ -339,6 +342,13 @@
 <!ENTITY attachPage.label "Cuir duilleag-lìn ris…">
 <!ENTITY attachPage.accesskey "C">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Seall leòsan a’ cheanglachain an toiseach">
+<!ENTITY initiallyShowAttachmentPane.accesskey "S">
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Cuir faclairean ris…">
 <!ENTITY spellAddDictionaries.accesskey "a">
@@ -349,6 +359,9 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Gnàthaich an seòladh “O”…">
 <!ENTITY customizeFromAddress.accesskey "a">
+
+<!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Bodhaig na teachdaireachd">
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "Cànan an dearbhadh-litreachaidh">
