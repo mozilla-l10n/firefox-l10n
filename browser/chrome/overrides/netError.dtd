@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Mine tagasi">
 <!ENTITY returnToPreviousPage1.label "Mine tagasi (soovitatav)">
 <!ENTITY advanced.label "Edasijõudnuile">
-
 <!ENTITY continue2.label "Veel…">
 <!ENTITY moreInformation.label "Rohkem teavet">
+
+<!ENTITY viewCertificate.label "Vaata sertifikaati">
 
 <!-- Specific error messages -->
 
@@ -153,10 +154,11 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Saidi <span class='hostname'/> omanik on oma veebilehe valesti häälestanud.  Sinu andmete kaitsmiseks varastamise eest ei loonud &brandShortName; selle veebilehega ühendust.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; tuvastas võimaliku turvaohu ja ei jätkanud saidi <span class='hostname'/> laadimist. Selle saidi külastamisel võivad ründajad varastada infot nagu sinu paroolid, e-posti aadress või krediitkaardi andmed.">
 
 <!ENTITY certerror.expiredCert.secondPara "Selle probleemi peamiseks põhjuseks on tõenäoliselt see, et sinu arvuti kellaaeg on vale, mis takistab &brandShortName;il turvalise ühenduse loomist.">
+
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Mida on võimalik probleemi lahendamiseks teha?">
 
@@ -193,7 +195,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Lisa erand…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Nõustu riskiga ja jätka">
 
 <!ENTITY errorReporting.automatic2 "Raporteeri taolistest vigadest, et Mozilla saaks tuvastada ja blokkida ohtlikud veebilehed">
@@ -234,3 +235,4 @@ võimalik.">
 
 <!ENTITY prefReset.longDesc "Paistab, et seda probleemi võivad põhjustada sinu võrguturvalisuse sätted. Kas soovid taastada vaikesätted?">
 <!ENTITY prefReset.label "Taasta vaikesätted">
+
