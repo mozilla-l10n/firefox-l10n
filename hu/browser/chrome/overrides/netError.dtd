@@ -172,3 +172,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Úgy tűnik, ezt a hálózat biztonsági beállításai okozhatják. Szeretné helyreállítani az alapbeállításokat?">
 <!ENTITY prefReset.label "Alap beállítások visszaállítása">
+
+<!ENTITY networkProtocolError.title "Hálózati protokoll hiba">
