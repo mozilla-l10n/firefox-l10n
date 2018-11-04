@@ -605,6 +605,9 @@ sitedata-keep-until-expire =
     .label = nad aeguvad
 sitedata-keep-until-closed =
     .label = { -brand-short-name } suletakse
+sitedata-delete-on-close =
+    .label = { -brand-short-name }i sulgemisel kustutatakse küpsised ja saitide andmed
+    .accesskey = u
 sitedata-allow-cookies-option =
     .label = Küpsised ja saitide andmed lubatakse
     .accesskey = K
@@ -678,6 +681,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Aeglaselt laadivad jälitajad
     .accesskey = A
 content-blocking-fastblock-new-description = Blokitakse ainult lehtede kiiret avanemist takistavad jälitajad.
+content-blocking-tracking-protection-trackers-label =
+    .label = Jälitajad
+    .accesskey = l
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Kõik tuvastatud jälitajad
     .accesskey = K
@@ -847,3 +853,7 @@ certs-view =
 certs-devices =
     .label = Turvaseadmed…
     .accesskey = T
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Salvesta failid teenusesse { $service-name }
