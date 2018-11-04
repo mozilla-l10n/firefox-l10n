@@ -103,3 +103,4 @@ functionality specific to thunderbird. -->
 <!ENTITY blockedByPolicy.title "Бұғатталған бет">
 
 <!ENTITY networkProtocolError.title "Желілік хаттама қатесі">
+<!ENTITY networkProtocolError.longDesc "<p>Сіз көруге тырысатын бет көрсетілмейді, себебі желі хаттамасында қате анықталды.</p><ul><li>Осы мәселе туралы хабарлау үшін веб-сайт иелеріне хабарласыңыз.</li></ul>">

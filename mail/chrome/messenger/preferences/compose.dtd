@@ -22,6 +22,8 @@
 <!ENTITY size.accesskey                       "ш">
 <!ENTITY fontSize.label                       "Өлшемі:">
 <!ENTITY fontSize.accesskey                   "м">
+<!ENTITY useReaderDefaults.label              "Пайдаланушының үнсіз келісім түстерін қолдану">
+<!ENTITY useReaderDefaults.accesskey          "д">
 <!ENTITY fontColor.label                      "Мәтін түсі:">
 <!ENTITY fontColor.accesskey                  "т">
 <!ENTITY bgColor.label                        "Фон түсі:">
