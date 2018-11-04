@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutProfiles.title "Rayi'î nej perfîl">
+<!ENTITY aboutProfiles.subtitle "Pajinâ na ruguñu'unj da' ga'ue girit si perfîlt. Da' go'ngo perfîl huin 'ngo yumiguìi, 'ngo nuguan'an, 'ngo markador, ni a'ngô nga nej sa huaa.">
+<!ENTITY aboutProfiles.create "Giri 'ngo perfîl nakàa">
+<!ENTITY aboutProfiles.restart.title "Nayi'ì ñun">
+<!ENTITY aboutProfiles.restart.inSafeMode "Nayi'ì ñûn ngà nej sa nitaj si 'iaj sun…">
+<!ENTITY aboutProfiles.restart.normal "Nayi'ì dà' rû' nayi'ì yitïnjt…">

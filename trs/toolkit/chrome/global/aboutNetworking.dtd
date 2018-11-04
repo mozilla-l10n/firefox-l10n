@@ -23,6 +23,7 @@
 <!ENTITY aboutNetworking.sent                  "Ga'nìnj gan'an">
 <!ENTITY aboutNetworking.received              "Nahuin ra'á">
 <!ENTITY aboutNetworking.family                "Dugui'">
+<!ENTITY aboutNetworking.trr                   "TRR">
 <!ENTITY aboutNetworking.addresses             "Hiuj gun'">
 <!ENTITY aboutNetworking.expires               "Gire'ej (Segundos)">
 <!ENTITY aboutNetworking.messagesSent          "Nga ga'anj nuguan'an">
@@ -46,13 +47,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Cache gi'iaj gana guenda na">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Gi'iaj ganaj guênda">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Daran' sa achín red na">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwnOperation         "Sa 'iaj Kachê">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Na'nïn">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Gahia">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Gachrun">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Hua ni'nïn rahue'e">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Mediâ ru'u">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Mediâ ye'èe">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Desbiasiûn hua niña ye'èe">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Sa nahia naj kachê">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Sa nitaj si nahia naj kachê">
