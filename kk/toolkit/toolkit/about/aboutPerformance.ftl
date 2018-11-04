@@ -21,6 +21,7 @@ preloaded-tab = Алдын ала жүктелген: { $title }
 ## Values for the Type column
 
 type-tab = Бет
+type-subframe = Субфрейм
 type-tracker = Трекер
 type-addon = Қосымша
 type-browser = Браузер
@@ -41,3 +42,5 @@ energy-impact-low = Төмен ({ $value })
 
 close-tab =
     .title = Бетті жабу
+show-addon =
+    .title = Қосымшалар басқарушысында көрсету
