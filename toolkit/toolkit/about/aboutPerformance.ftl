@@ -26,7 +26,7 @@ type-tracker = Rastreador
 type-addon = Complemento
 type-browser = Navegador
 type-worker = Worker
-type-other = Otro:
+type-other = Otro
 
 ## Values for the Energy Impact column
 ##
