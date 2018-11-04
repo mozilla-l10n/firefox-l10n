@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Nataj sa gire'e">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "ID nata'">
 <!ENTITY aboutSupport.crashes.sendDate "Nga ga'an">
 <!ENTITY aboutSupport.crashes.allReports "nataj daran' sa guire'e">
@@ -21,19 +21,17 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versión">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Softwarê nakaj rayi'î'">
+<!ENTITY aboutSupport.securitySoftwareType "Dugui'">
+<!ENTITY aboutSupport.securitySoftwareName "Si yugui">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Sa ri yi'ìi">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Sa nará riña sa naga'naj a">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Sa duna'aj ña'aan">
+
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; danaj huaj">
 <!ENTITY aboutSupport.featureName "Si yuguit">
 <!ENTITY aboutSupport.featureVersion "Versión">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "Da'nga' ranj hué ma">
-<!ENTITY aboutSupport.experimentName "Si yuguit">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Daj huaj">
-<!ENTITY aboutSupport.experimentActive "Ngà' 'iaj sunj">
-<!ENTITY aboutSupport.experimentEndDate "Diu ganahuij ma">
-<!ENTITY aboutSupport.experimentHomepage "Riña ayi'ì'">
-<!ENTITY aboutSupport.experimentBranch "Achij ra'a ma">
 
 <!ENTITY aboutSupport.appBasicsTitle "Daj nagui'io' aplicación na">
 <!ENTITY aboutSupport.appBasicsName "Si yuguit">
@@ -67,6 +65,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ga'i ventana 'iaj sun">
 
 <!ENTITY aboutSupport.appBasicsProcessCount "Sa ma riña Web">
+
+<!ENTITY aboutSupport.enterprisePolicies "Nuguan' nikaj nej emprêsa">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Si da'nga' Google">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
@@ -151,3 +151,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.mediaDeviceChannels "Nej kanal">
 <!ENTITY aboutSupport.mediaDeviceRate "Sa du'ue">
 <!ENTITY aboutSupport.mediaDeviceLatency "'Iaj sunj">
+
+<!ENTITY aboutSupport.intlTitle "Nagi'iô guendâ yumiguìi &amp; Narì' man">
+<!ENTITY aboutSupport.intlAppTitle "Sa nikaj aplikasiûn">
+<!ENTITY aboutSupport.intlLocalesRequested "Sa dukuà nana'ui' si doj">
+<!ENTITY aboutSupport.intlLocalesAvailable "Sa dukuà huaa">
+<!ENTITY aboutSupport.intlLocalesSupported "Nej aplikasiûn dukuàa">
+<!ENTITY aboutSupport.intlLocalesDefault "Sa dukuà 'na' niñaa">
+<!ENTITY aboutSupport.intlOSTitle "Sistêma Operatîbo">
+<!ENTITY aboutSupport.intlOSPrefsSystemLocales "Nej sistema dukuàa">
+<!ENTITY aboutSupport.intlRegionalPrefs "Sa nana'uî' doj màn nichrùn'un">

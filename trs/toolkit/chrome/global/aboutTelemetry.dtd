@@ -21,6 +21,8 @@
 <!ENTITY aboutTelemetry.pageTitle "Nej sa ma Telemetry">
 <!ENTITY aboutTelemetry.moreInformations "Hua nuguan' nana'uî't doj aj.">
 <!ENTITY aboutTelemetry.firefoxDataDoc "Sa nagi'iaj chre' si nuguà' Firefox <a> gu'nàj </a> nikaj chrej ganikò' da' nachrun' daran' si nuguàn'anj.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "Si <a>Firefox Telemetrîa riña nachra chrej nuguan'an</a> nika daj gataj go'ngo nuguan'an ruhuaj, si nuguàn API ni ñanj màn chre' guendâ nej dâto.">
+<!ENTITY aboutTelemetry.telemetryDashboard "Si <a>Panel Telemetrîa</a> ni a'nïn ni'io' daran' chre ne nuguan' nahuin ra'a Mozilla narikî Telemetrîa.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Na'nín riña JSON ni'io'">
 
