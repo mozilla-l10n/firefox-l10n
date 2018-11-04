@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "اشکال در هنگام بارگیری">
 <!ENTITY retry.label "سعی دوباره">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "قادر به اتصال نیست">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "برقراری اتصال ایمن شکست خورد">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>علت می‌تواند اشکالی در تنظیم کارگزار، یا تلاش فردی برای وانمود کردن خود به جای این کارگزار باشد.</li> <li>اگر در گذشته با موفقیت به این کارگزار متصل شده‌اید، امکان دارد این اشکال موقتی باشد، و می‌توانید بعداً دوباره تلاش کنید.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>سایت می‌تواند موقتا در دسترس نباشد یا خیلی شلوغ باشد. چند لحظه دیگر مجددا تلاش کنید.</li> <li>اگر شما نمی‌توانید هیچ صفحه‌ای را باز کنید، اتصال داده یا Wi-Fi دستگاه خود را بررسی کنید. <button id='wifi'>فعال‌سازی Wi-Fi</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "بلوکه شده بنا بر سیاست امنیتی محتوا">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "یا می‌توانید یک استثنا اضافه کنید…">
 <!ENTITY securityOverride.getMeOutOfHereButton "ترک این مکان!">
 <!ENTITY securityOverride.exceptionButtonLabel "افزودن استثنا…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>اگر از اتصال اینترنتی استفاده می‌کنید که کاملاً به آن اطمینان ندارید، یا اگر معمولاً در هنگام بازدید از این وب‌گاه اخطاری دریافت نمی‌کنید، نباید استثنائی اضافه کنید.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> استفاده از تکنولوژی های امنیتی که تاریخ‌ آن‌ها گذشته است در برابر حملات آسیب پذیراست. و حمله کننده می ‌تواند به راحتی اطلاعاتی که شما تصویر می‌کنید امن است را فاش کند. مدیریت پایگاه وب نیاز دارد تا نخست کارگزار را قبل از بازدید پایگاه وب درست کند.</p><p> کد خطا: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "خطای پروتکل شبکه">
+<!ENTITY networkProtocolError.longDesc "<p>صفحه‌ای که می‌خواهید مشاهده کنید به خاطر خطایی که در پروتکل شبکه شناسایی شده قابل نمایش نیست.</p><ul><li>لطفا با صاحبان وب سایت تماس بگیرید تا آنها را درباره این مشکل مطلع سازید.</li></ul>">
