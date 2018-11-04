@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Administrador de complementos
+search-header =
+    .placeholder = Buscar en addons.mozilla.org
+    .searchbuttonlabel = Buscar
 search-header-shortcut =
     .key = f
 loading-label =
