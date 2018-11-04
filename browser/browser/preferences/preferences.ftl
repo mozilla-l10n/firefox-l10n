@@ -84,6 +84,9 @@ extension-controlled-homepage-override = <img data-l10n-name="icon"/> { $name } 
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = <img data-l10n-name="icon"/> { $name } кеңейтуі Жаңа бетті басқарып тұр.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = <img data-l10n-name="icon"/> { $name } кеңейтуі бұл параметрді басқарады.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = <img data-l10n-name="icon"/> { $name } кеңейтуі сіздің негізгі іздеу жүйеңізді орнатты.
@@ -324,6 +327,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Мәтін терілген кезде оны парақтан іздей бастау
     .accesskey = т
+browsing-cfr-recommendations =
+    .label = Шолу кезінде кеңейтулерді ұсыну
+    .accesskey = с
 browsing-cfr-recommendations-learn-more = Көбірек білу
 
 ## General Section - Proxy

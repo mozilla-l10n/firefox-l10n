@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Артқа">
 <!ENTITY returnToPreviousPage1.label "Артқа оралу (ұсынылады)">
 <!ENTITY advanced.label "Кеңейтілген">
-
 <!ENTITY continue2.label "Көбірек…">
 <!ENTITY moreInformation.label "Көбірек ақпарат">
+
+<!ENTITY viewCertificate.label "Сертификатты қарау">
 
 <!-- Specific error messages -->
 
@@ -93,14 +94,16 @@
 
 <!ENTITY certerror.longpagetitle1 "Сіздің байланысыңыз қауіпсіз емес">
 <!ENTITY certerror.longpagetitle2 "Назарыңызға: алдыңызда тәуекел бар сияқты">
+<!ENTITY certerror.sts.longpagetitle  "Байланыс орнатылмады: мүмкін қауіпсіздік мәселесі">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> иесі өз сайтын дұрыс емес баптаған. Ақпаратыңызды ұрланудан қорғау үшін, &brandShortName; бұл веб сайтпен байланыспады.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; мүмкін қауіпсіздік қауіп-қатерін анықтап, <span class='hostname'/> сайтына өтуді жалғастырмады. Бұл сайтты шолсаңыз, шабуылшылар сіздің парольдер, эл. пошта адрестері немесе несие карта сияқты ақпаратын ұрлау талабын жасауы мүмкін.">
 
 <!ENTITY certerror.expiredCert.secondPara "Бұл мәселе компьютеріңіздің сағаты қате уақыт көрсетіп тұрғаны салдарынан болып тұрған сияқты, нәтижесінде &brandShortName; қауіпсіз түрде байланыса алмады.">
+
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Оған не жасауыңызға болады?">
 
@@ -129,7 +132,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ерекше ережені қосу…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Тәуекелді қабылдап, жалғастыру">
 
 <!ENTITY errorReporting.automatic2 "Осындай қателер туралы хабарлап, Mozilla-ға зиянды сайттарды анықтауға және блоктауға көмектесу">
@@ -151,6 +153,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Қауіпсіз емес байланыс">
 <!ENTITY certerror.pagetitle2  "Назарыңызға: алдыңызда қауіпсіздік тәуекелі бар сияқты">
+<!ENTITY certerror.sts.pagetitle  "Байланыс орнатылмады: мүмкін қауіпсіздік мәселесі">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Бұл сайт &brandShortName; оған тек қауіпсіз түрде қосылу алатынын көрсету үшін HTTP Strict Transport Security (HSTS) қолданады. Нәтижесінде, бұл сертификатты ережеден тыс қосу мүмкін емес.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> сайтының HTTP Strict Transport Security (HSTS) деп аталатын қауіпсіздік саясаты бар, бұл дегеніміз, &brandShortName; оған тек қауіпсіз түрде байланыса алады. Бұл веб-сайт үшін ережеден тыс жағдайды қоса алмайсыз.">
 <!ENTITY certerror.copyToClipboard.label "Мәтінді алмасу буферіне көшіру">
@@ -167,3 +170,4 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Сіздің желілік қауіпсіздік баптаулар осыны туғызатын сияқты. Бастапқы баптауларды қалпына келтіруді қалайсыз ба?">
 <!ENTITY prefReset.label "Бастапқы баптауларды қалпына келтіру">
+
