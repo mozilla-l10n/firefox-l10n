@@ -174,3 +174,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> използва остаряла технология за сигурност, уязвима към атаки. Такива атаки могат лесно да разкрият информация, която мислите, че е защитена. Администраторът на сайта трябва да поправи сървъра преди да може да използвате сайта.</p><p>Код на грешка: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Нарушение на мрежовия протокол">
+<!ENTITY networkProtocolError.longDesc "<p>Страницата, която искате да прегледате, не може да бъде показана заради открито нарушение на мрежовия протоколо.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за този проблем.</li></ul>">
