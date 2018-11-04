@@ -285,10 +285,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Yiy humpito lowre ndee">
 
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Uddit alluwal ɓatakuuje">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Uddit alluwal ɗaɓɓitanɗe nokkuuje">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Uddit tammborde janngol ɗoon e ɗoon">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Uddit alluwal vatakuure aafirgal ɓeyditte">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Uddit ɗaldugal ɓatakuuje">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Uddit ɗaldugal ɗaɓɓitanɗe nokkuuje">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Uddit ɗaldugal janngol ɗoon e ɗoon">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Uddit ɗaldugal ɓatakuure aafirgal ɓeyditte">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Toppito jamirooje jaltingol canvas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Uddit alluwal ɓatakuuje ndesgu ceŋtol">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Uddit alluwal ɓatakuuje danndugol finnde">
@@ -306,7 +306,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Fir ngoo hello">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Toppito pirgol hello">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Toppito kuutoragol topirde DRM">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Uddit alluwal MIDI">
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Uddit ɗaldugal MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "A daaƴii kameraa maa e ndee lowre.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "A daaƴii mikoroo maa e ndee lowre.">
