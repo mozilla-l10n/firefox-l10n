@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Mitte praegu
     .accesskey = M
 cfr-doorhanger-extension-ok-button = Paigalda
     .accesskey = P
+cfr-doorhanger-extension-manage-settings-button = Halda soovituste sätteid
+    .accesskey = H
+cfr-doorhanger-extension-never-show-recommendation = Rohkem seda soovitust ei kuvata
+    .accesskey = R
 cfr-doorhanger-extension-learn-more-link = Rohkem teavet
 # This string is used on a new line below the add-on name
 # Variables:

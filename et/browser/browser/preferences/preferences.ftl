@@ -53,6 +53,7 @@ pane-sync-title = Firefoxi konto
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name }i abi
+addons-button-label = Laiendused ja teemad
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,9 @@ extension-controlled-homepage-override = Avalehe sisu haldab laiendus <img data-
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Uue kaardi sisu haldab laiendus <img data-l10n-name="icon"/> { $name }.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Seda sätet haldab laiendus <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Vaikeotsingumootori on määranud laiendus <img data-l10n-name="icon"/> { $name }.
@@ -323,6 +327,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Sisestamise alustamisel otsitakse teksti
     .accesskey = e
+browsing-cfr-recommendations =
+    .label = Sirvimise ajal soovitatakse laiendusi
+    .accesskey = S
+browsing-cfr-recommendations-learn-more = Rohkem teavet
 
 ## General Section - Proxy
 
