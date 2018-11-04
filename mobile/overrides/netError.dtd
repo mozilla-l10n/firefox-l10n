@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Парақты жүктегенде қате кетті">
 <!ENTITY retry.label "Қайталап көріңіз">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Байланысты орнату сәтсіз аяқталды">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "Қорғалған байланысты орнату сәтсіз аяқталды">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Бұл сервердің қатесі болуы мүмкін, немесе біреу сізге керек серверді басқасымен ауыстырғысы келеді.</li> <li>Осыған дейін осы серверге сәтті қосылған болсаңыз, осы қате уақытша болуы мүмкін. Біраздан кейін қайталап көріңіз.</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>Сайт уақытша қолжетерсіз немесе тым жүктелген болуы мүмкін. Біраздан кейін қайталап көріңіз.</li> <li>Құрылғыңыздың мобильді не Wi-Fi желісімен байланысын тексеріңіз. <button id='wifi'>Wi-Fi іске қосу</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Құрамасының қауіпсіздік саясатымен блокталған">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "Немесе ерекше ереже енгізуіңіз мүмкін…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Осыдан кеткім келеді!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ерекше ережені қосу…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Егер Интернетпен байланысыңызға толығымен сенбесеңіз, немесе бұл сайтпен қосылғанда хабарландыру шықпаса, онда ерекше ережені қоспауыңыз керек.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ескірген және шабуылдарға әлсіз қауіпсіздік технологиясын қолдануда. Шабуылшы сіз қауіпсіз деп ойлаған ақпаратты оңай анықтай алады. Сіз сайтты шолғанға дейін оның әкімшісі серверді ретке келтіруі тиіс.</p><p>Қате коды: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Желілік хаттама қатесі">
+<!ENTITY networkProtocolError.longDesc "<p>Сіз көруге тырысатын бет көрсетілмейді, себебі желі хаттамасында қате анықталды.</p><ul><li>Осы мәселе туралы хабарлау үшін веб-сайт иелеріне хабарласыңыз.</li></ul>">
