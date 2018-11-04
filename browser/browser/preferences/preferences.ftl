@@ -605,6 +605,9 @@ sitedata-keep-until-expire =
     .label = Amíg le nem járnak
 sitedata-keep-until-closed =
     .label = A { -brand-short-name } bezárásáig
+sitedata-delete-on-close =
+    .label = Sütik és oldaladatok törlése a { -brand-short-name } bezárásakor
+    .accesskey = S
 sitedata-allow-cookies-option =
     .label = Sütik és oldaladatok elfogadása
     .accesskey = e
@@ -850,3 +853,7 @@ certs-view =
 certs-devices =
     .label = Adatvédelmi eszközök…
     .accesskey = e
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Fájlok mentése ide: { $service-name }
