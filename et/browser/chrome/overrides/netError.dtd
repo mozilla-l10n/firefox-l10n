@@ -150,6 +150,7 @@
 
 <!ENTITY certerror.longpagetitle1 "Ühendus pole turvaline">
 <!ENTITY certerror.longpagetitle2 "Hoiatus: ees on ootamas võimalik turvarisk">
+<!ENTITY certerror.sts.longpagetitle  "Ühendust ei loodud: võimalik turvarisk">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
