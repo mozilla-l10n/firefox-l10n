@@ -99,3 +99,6 @@
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> kasutab turvatehnoloogiat, mis on aegunud ja ei paku rünnete eest kaitset. Ründaja võib suurema vaevata pääseda ligi teabele, mis sinu arvates on kaitstud. Saidi külastamiseks peab saidi administraator selle serveri kõigepealt ära parandama.</p><p>Veakood: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokitud leht">
+
+<!ENTITY networkProtocolError.title "Võrguprotokolli viga">
+<!ENTITY networkProtocolError.longDesc "<p>Veebilehte, mida üritad vaadata, pole võimalik kuvada, kuna võrguprotokollis tuvastati viga.</p><ul><li>Palun võta ühendust saidi omanikuga, et teavitada teda sellest probleemist.</li></ul>">
