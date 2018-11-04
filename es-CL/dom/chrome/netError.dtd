@@ -99,3 +99,4 @@
 <!ENTITY blockedByPolicy.title "Página bloqueada">
 
 <!ENTITY networkProtocolError.title "Error de protocolo de red">
+<!ENTITY networkProtocolError.longDesc "<p>La página que estás intentando ver no puede ser mostrada debido a un error detectado en el protocolo de red.</p><ul><li>Por favor, contacta al propietario del sitio para informarle de este problema.</li></ul>">
