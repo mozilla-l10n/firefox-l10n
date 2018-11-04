@@ -315,6 +315,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "আপনি এই ওয়েবসাইটের ক্ষেত্রে নোটিফিকেশন ব্লক করেছেন।">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "আপনি এই ওয়েবসাইটের ক্ষেত্রে স্থায়ী স্টোরেজ ব্লক করেছেন।">
 <!ENTITY urlbar.popupBlocked.tooltip             "আপনি এই ওয়েবসাইটের জন্য পপ-আপ ব্লক করেছেন।">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "আপনি এই ওয়েবসাইটের ক্ষেত্রে সাউন্ডের সাথে অটোপ্লে ব্লক করেছেন।">
 <!ENTITY urlbar.canvasBlocked.tooltip            "আপনি এই ওয়েবসাইটের জন্য ক্যানভাস ডেটা নিষ্কাশন ব্লক করেছেন।">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "আপনি এই ওয়েবসাইটটিকে Adobe Flash প্লাগইনের ব্যবহার থেকে ব্লক করেছেন।">
 <!ENTITY urlbar.midiBlocked.tooltip              "আপনি ওয়েবসাইটটির জন্য MIDI এর প্রবেশ ব্লক করেছেন।">
@@ -987,7 +988,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.notDetected "এই পৃষ্ঠায় কোন ব্লকযোগ্য বিষয়বস্তু সনাক্ত হয়নি।">
 <!ENTITY contentBlocking.disabled.label "নিষ্ক্রিয়">
 <!ENTITY contentBlocking.disabled.tooltip "আপনি বিষয়বস্তুর ব্লকিং নিষ্ক্রিয় করেছেন।">
+<!ENTITY contentBlocking.exception.tooltip "আপনি এই সাইটের জন্য বিষয়বস্তুর ব্লক করা নিষ্ক্রিয় করেছেন।">
 
+<!ENTITY contentBlocking.fastBlock.label "ধীর গতিতে লোড হওয়া ট্র্যাকার">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
@@ -998,11 +1001,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
      "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "ব্লক করা হচ্ছে">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "ব্লক করা যুক্ত করুন...">
 
+<!ENTITY contentBlocking.trackingProtection2.label "সমস্ত সনাক্ত হওয়া ট্র্যাকার">
+<!ENTITY contentBlocking.trackingProtection3.label "ট্র্যাকারগুলি">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1013,6 +1020,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "ব্লক করা হচ্ছে">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1044,6 +1052,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.accesskey "E">
+<!ENTITY trackingProtection.reload2.label "পৃষ্ঠাটি পুনরায় লোড করুন">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "সব প্রদর্শন">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -1116,17 +1126,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; আপডেট করতে পুনরায় চালু করুন">
 
+<!ENTITY newTabControlled.header.message "আপনার নতুন ট্যাব পরিবর্তিত হয়েছে।">
+<!ENTITY newTabControlled.keepButton.label "পরিবর্তনগুলো রাখুন">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.disableButton.label "এক্সটেনসন নিষ্ক্রিয় করুন">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.header.message "আপনার হোম পেজ পরিবর্তন হয়েছে।">
+<!ENTITY homepageControlled.keepButton.label "পরিবর্তনগুলিকে রাখুন">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "এক্সটেনশনটিকে নিষ্ক্রিয় করুন">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "আপনার লুকানো ট্যাবে অ্যাক্সেস করুন">
+<!ENTITY tabHideControlled.keepButton.label "ট্যাবগুলিকে গোপন রাখুন">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "এক্সটেনশনটি নিষ্ক্রিয় করুন">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "পৃষ্ঠার ক্রিয়াকলাপগুলি">
 <!ENTITY pageAction.addToUrlbar.label "ঠিকানা বারে যোগ করুন">
 <!ENTITY pageAction.removeFromUrlbar.label "ঠিকানা বার থেকে অপসারণ করুন">
+<!ENTITY pageAction.allowInUrlbar.label "ঠিকানা বারে দেখুন">
+<!ENTITY pageAction.disallowInUrlbar.label "ঠিকানা বারে দেখিও না">
+<!ENTITY pageAction.manageExtension.label "এক্সট্রেনশান ম্যানেজ করুন…">
 
 <!ENTITY pageAction.sendTabToDevice.label "ডিভাইসে ট্যাব পাঠান">
 
 <!ENTITY sendToDevice.syncNotReady.label "ডিভাইসগুলিকে সিঙ্ক করা হচ্ছে…">
 
+<!ENTITY pageAction.shareUrl.label "শেয়ার">
+<!ENTITY pageAction.shareMore.label "আরো…">
 
 <!ENTITY libraryButton.tooltip "দেখুন ইতিহাস, সংরক্ষিত বুকমার্ক এবং আরও">
 
@@ -1139,3 +1169,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "আপনার অ্যাড-অন পরিচালনা করতে <image class='addon-addon-icon'/> মেনুতে <image class='addon-toolbar-icon'/> ক্লিক করুন।">
