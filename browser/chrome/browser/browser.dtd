@@ -1025,32 +1025,50 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "ব্লক করা যুক্ত করুন...">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "তৃতীয় পক্ষের কুকি">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "ট্র্যাকিং কুকি">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "ব্লক করা আছে">
 <!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "ব্লক করা হচ্ছে">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "ব্লক করা যুক্ত করুন...">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "একটি সমস্যা রিপোর্ট করুন">
+<!ENTITY contentBlocking.breakageReportView.label "সমস্যাগুলিকে রিপোর্ট করুন">
+<!ENTITY contentBlocking.breakageReportView2.description "বিষয়বস্তু ব্লক করা নিয়ে কিছু ওয়েবসাইটের সঙ্গে সমস্যা হতে পারে। যখন আপনি সমস্যা রিপোর্ট করেন, তখন আপনি &brandShortName; তৈরি করতে সহায়তা করবেন; সবার জন্য ভাল। (এটি একটি URL এবং আপনার ব্রাউজার সেটিংস সম্পর্কিত Mozilla সম্পর্কিত তথ্য পাঠাবে।)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "আরো জানুন">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "আপনার কোন সমস্যা ছিল? (ঐচ্ছিক)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "প্রতিবেদন পাঠান">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "বাতিল">
 
 <!ENTITY trackingProtection.title "ট্র্যাকিং সুরক্ষা">
+<!ENTITY trackingProtection.tooltip "ট্র্যাকিং সুরক্ষা পছন্দসমূহ খুলুন">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock4.label "এই সাইটের জন্য ব্লকিং করা নিষ্ক্রিয় করুন">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate4.label "অস্থায়ীভাবে ব্লক করাকে অক্ষম করুন">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "এই সাইটের জন্য ব্লকিং করা সক্রিয় করুন">
 <!ENTITY trackingProtection.block5.accesskey "E">
 <!ENTITY trackingProtection.reload2.label "পৃষ্ঠাটি পুনরায় লোড করুন">
 <!ENTITY trackingProtection.reload2.accesskey "R">
@@ -1132,6 +1150,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "এক্সটেনসন নিষ্ক্রিয় করুন">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.message "অাপনি আপনার হোম পেজে যা দেখেন তা একটি এক্সটেনশন পরিবর্তন করতে পারে। আপনি আপনার সেটিংসকে পুনঃস্থাপন করতে পারে যদি এই 
+পরিবর্তন না চান।">
 <!ENTITY homepageControlled.header.message "আপনার হোম পেজ পরিবর্তন হয়েছে।">
 <!ENTITY homepageControlled.keepButton.label "পরিবর্তনগুলিকে রাখুন">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
