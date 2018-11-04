@@ -25,3 +25,6 @@ onboarding-addons-title = Priedai
 onboarding-addons-text = Priedai leidžia pridėti funkcionalumo į „{ -brand-short-name }“, kad naršyklė dirbtų daugiau jūsų labui. Palyginkite kainas, patikrinkite orus arba išreikškite savo asmenybę su pasirinktu grafiniu apvalkalu.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Naršykite greičiau, protingiau, ar saugiau su tokiais priedais kaip „Ghostery“, kuris leidžia blokuoti erzinančias reklamas.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sinchronizavimas
+onboarding-fxa-text = Susikurkite „{ -fxaccount-brand-name }“ ir sinchronizuokite savo adresyną, slaptažodžius, ir atvertas korteles visur, kur naudojate „{ -brand-short-name }“.
