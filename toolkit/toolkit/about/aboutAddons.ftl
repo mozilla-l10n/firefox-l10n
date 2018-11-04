@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Lisade haldur
+search-header =
+    .placeholder = Otsi saidilt addons.mozilla.org
+    .searchbuttonlabel = Otsi
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Paigalda lisa failist…
     .accesskey = P
+help-button = Lisade kasutajatugi
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name }i sätted
+       *[other] { -brand-short-name }i eelistused
+    }
 tools-menu =
     .tooltiptext = Tööriistad kõigile lisadele
 show-unsigned-extensions-button =
