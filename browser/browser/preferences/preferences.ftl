@@ -51,6 +51,7 @@ pane-sync-title = حساب فایرفاکس
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = پشتیبانی { -brand-short-name }
+addons-button-label = افزونه‌ها و پوسته‌ها
 focus-search =
     .key = f
 close-button =
@@ -317,10 +318,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = هنگامی که شروع به وارد کردن حروف می‌کنم، به دنبال متن جست‌وجو شود
     .accesskey = ج
+browsing-cfr-recommendations-learn-more = بیشتر بدانید
 
 ## General Section - Proxy
 
-network-proxy-title = شبکه پراکسی
 network-settings-title = تنظیمات شبکه
 network-proxy-connection-description = نحوهٔ اتصال { -brand-short-name } به اینترنت را پیکربندی کنید.
 network-proxy-connection-learn-more = اطلاعات بیشتر
@@ -519,6 +520,7 @@ privacy-header = حریم خصوصی مرورگر
 ## Privacy Section - Forms
 
 forms-header = فرم‌ها و گذرواژه‌ها
+logins-header = ورودها و گذرواژه‌ها
 forms-ask-to-save-logins =
     .label = در مورد ذخیره کردن نام‌کاربری و گذرواژه‌ها برای پایگاه‌ها سوال کن
     .accesskey = r
@@ -585,26 +587,12 @@ sitedata-total-size-calculating = در حال محاسبهٔ اطلاعات پا
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = کوکی‌ها، اطلاعات پایگاه‌ها و حافظهٔ نهانِ ذخیره شده در حال حاضر { $value } { $unit } از فضای دیسک شما استفاده می‌کنند.
 sitedata-learn-more = بیشتر بدانید
-sitedata-accept-cookies-option =
-    .label = پذیرفتن کوکی‌ها و اطلاعات از پایگاه‌ها (توصیه شده)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = مسدود کردن کوکی‌ها و اطلاعات پایگاه‌ها (ممکن است باعث کار نکردن پایگاه‌ها بشود)
-    .accesskey = B
 sitedata-keep-until = نگهداری شوند تا
     .accesskey = ن
 sitedata-keep-until-expire =
     .label = منقضی می‌شوند
 sitedata-keep-until-closed =
     .label = { -brand-short-name } بسته است
-sitedata-accept-third-party-desc = پذیرفتن کوکی‌ها و اطلاعات پایگاه‌های ثالث
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = همیشه
-sitedata-accept-third-party-visited-option =
-    .label = از بازدید
-sitedata-accept-third-party-never-option =
-    .label = هرگز
 sitedata-block-trackers-option =
     .label = ردیاب‌های شخص ثالث
 sitedata-block-unvisited-option =
@@ -652,6 +640,9 @@ content-blocking-toggle-label-on = روشن
 content-blocking-toggle-label-off = خاموش
     .accesskey = O
 content-blocking-category-label = انتخاب کنید چه چیزهایی مسدود شوند
+content-blocking-tracking-protection-trackers-label =
+    .label = ردیاب‌ها
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = تمام ریدیاب‌های شناسایی شده
     .accesskey = T
@@ -687,10 +678,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = هرگز
     .accesskey = ه
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = استفاده از محافظ دنبال کننده در مرورگر خصوصی جهت مسدود کردن دنبال کننده های ناشناس
-    .accesskey = خ
 tracking-exceptions =
     .label = استثناها…
     .accesskey = ت
@@ -813,3 +800,7 @@ certs-view =
 certs-devices =
     .label = امنیت دستگاه‌ها…
     .accesskey = د
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = ذخیره فایل‌ها در { $service-name }
