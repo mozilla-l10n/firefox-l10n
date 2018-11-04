@@ -127,7 +127,7 @@ startup-header = প্রারম্ভ
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = অনুমতি দিন { -brand-short-name } আর ফায়ারফক্সকে একই সময়ে চলার জন্য
-use-firefox-sync = টিপ: এটি অন্য প্রোফাইল ব্যাবহার করে। এদের মধেয় তথ্য শেয়ার করার জন্য সিঙ্ক ব্যাবহার করুন।
+use-firefox-sync = টিপ: এটি অন্য প্রোফাইল ব্যবহার করে। এদের মধেয় তথ্য শেয়ার করার জন্য { -sync-brand-short-name } ব্যবহার করুন।
 get-started-not-logged-in = { -sync-brand-short-name } তে সাইন ইন করুন…
 get-started-configured = { -sync-brand-short-name } -র পছন্দসমূহ খুলুন
 always-check-default =
