@@ -4,8 +4,10 @@
 <!ENTITY addons.windowTitle                   "Lisade haldur">
 
 <!ENTITY search.placeholder2                  "Otsi saidilt addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "Otsi saidilt addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Otsi">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -41,6 +43,10 @@
 <!ENTITY view.discover.label                  "Hangi lisasid">
 <!ENTITY view.recentUpdates.label             "Hiljutised uuendused">
 <!ENTITY view.availableUpdates.label          "Saadaolevad uuendused">
+
+<!ENTITY helpButton.label                      "Lisade kasutajatugi">
+<!ENTITY preferencesWin.label                  "&brandShortName;i sätted">
+<!ENTITY preferencesUnix.label                 "&brandShortName;i eelistused">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Kontrolli uuendusi">
@@ -80,8 +86,14 @@
 <!ENTITY cmd.preferencesWin.accesskey         "t">
 <!ENTITY cmd.preferencesUnix.label            "Eelistused">
 <!ENTITY cmd.preferencesUnix.accesskey        "E">
-<!ENTITY cmd.about.label                      "Sellest lisast">
-<!ENTITY cmd.about.accesskey                  "S">
+
+
+
+
+
+
+
+
 
 <!ENTITY cmd.enableAddon.label                "Luba">
 <!ENTITY cmd.enableAddon.accesskey            "L">
@@ -91,6 +103,10 @@
 <!ENTITY cmd.enableTheme.accesskey            "K">
 <!ENTITY cmd.disableTheme.label               "Lõpeta teema kasutamine">
 <!ENTITY cmd.disableTheme.accesskey           "p">
+
+
+
+
 <!ENTITY cmd.askToActivate.label              "Aktiveerimiseks küsitakse luba">
 <!ENTITY cmd.askToActivate.tooltip            "Selle lisa aktiveerimiseks küsitakse luba iga kord">
 <!ENTITY cmd.alwaysActivate.label             "Alati aktiivne">
@@ -100,6 +116,8 @@
 <!ENTITY cmd.stateMenu.tooltip                "Määra selle lisa aktiveerumine">
 <!ENTITY cmd.installAddon.label               "Paigalda">
 <!ENTITY cmd.installAddon.accesskey           "P">
+
+
 <!ENTITY cmd.uninstallAddon.label             "Eemalda">
 <!ENTITY cmd.uninstallAddon.accesskey         "m">
 <!ENTITY cmd.showPreferencesWin.label         "Sätted">
@@ -109,6 +127,9 @@
 <!ENTITY cmd.contribute.label                 "Aita kaasa">
 <!ENTITY cmd.contribute.accesskey             "i">
 <!ENTITY cmd.contribute.tooltip               "Panusta selle lisa arendusse">
+
+
+
 
 <!ENTITY cmd.showReleaseNotes.label           "Kuva väljalasketeadet">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Vaata selle uuenduse väljalasketeadet">
@@ -131,7 +152,6 @@
 <!ENTITY detail.lastupdated.label             "Viimati uuendatud">
 <!ENTITY detail.creator.label                 "Arendaja">
 <!ENTITY detail.homepage.label                "Koduleht">
-<!ENTITY detail.numberOfDownloads.label       "Allalaadimisi">
 
 <!ENTITY detail.contributions.description     "Selle lisa arendaja palub sult väikse annetuse kujul abi arenduse jätkamiseks.">
 
@@ -160,18 +180,15 @@
 <!-- ratings -->
 <!ENTITY rating2.label                        "Hinnang">
 
+
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Paus">
+
 <!ENTITY progress.cancel.tooltip              "Loobu">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Nimi">
-<!ENTITY sort.name.tooltip                    "Sordi nime järgi">
-<!ENTITY sort.dateUpdated.label               "Viimati uuendatud">
-<!ENTITY sort.dateUpdated.tooltip             "Sordi uuendatuse järgi">
-
 <!ENTITY addon.homepage                       "Koduleht">
+
+
 <!ENTITY addon.details.label                  "Veel">
 <!ENTITY addon.details.tooltip                "Kuva veel infot selle lisa kohta">
 <!ENTITY addon.unknownDate                    "pole teada">
@@ -193,6 +210,7 @@
 <!ENTITY addon.undoRemove.label               "Võta tagasi">
 <!ENTITY addon.undoRemove.tooltip             "Jäta see lisa paigaldatuks">
 <!ENTITY addon.restartNow.label               "Taaskäivita kohe">
+
 <!ENTITY addon.install.label                  "Paigalda">
 <!ENTITY addon.install.tooltip                "Paigalda see lisa">
 <!ENTITY addon.updateNow.label                "Uuenda kohe">
@@ -212,17 +230,6 @@
 <!ENTITY eula.accept                          "Nõustu ja paigalda…">
 
 <!ENTITY settings.path.button.label           "Sirvi…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "Mis see on? Telemeetria võib aeg-ajalt paigaldada ja jooksutada eksperimente.">
-<!ENTITY experiment.info.learnmore "Rohkem teavet">
-<!ENTITY experiment.info.learnmore.accesskey "R">
-<!ENTITY experiment.info.changetelemetry "Telemeetria seaded">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Rohkem teavet…">
 
