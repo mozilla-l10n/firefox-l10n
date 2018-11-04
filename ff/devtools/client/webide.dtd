@@ -41,6 +41,8 @@
 <!ENTITY runtimeMenu_showSettings_label "Teelte Masiŋel">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
+<!ENTITY runtimeMenu_showPerformancePanel_label "Yuumto">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "P">
 
 <!ENTITY viewMenu_label "Hollir">
 <!ENTITY viewMenu_accesskey "V">
