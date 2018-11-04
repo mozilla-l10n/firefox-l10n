@@ -101,9 +101,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> savininkas netinkamai sukonfigūravo savo svetainę.  Kad apsaugotų jūsų duomenis, „&brandShortName;“ prie šios svetainės nesijungė.">
 <!ENTITY certerror.introPara2 "„&brandShortName;“ aptiko galimą saugumo grėsmę ir neįkėlė <span class='hostname'/>. Jei apsilankysite šioje svetainėje, piktavaliai gali bandyti pavogti jūsų slaptažodžius, el. laiškus, bankininkystės duomenis.">
 
-<!ENTITY certerror.sts.introPara "„&brandShortName;“ aptiko galimą saugumo grėsmę ir neįkėlė <span class='hostname'/>, nes ši svetainė reikalauja saugaus ryšio.">
-
 <!ENTITY certerror.expiredCert.secondPara "Ši problema greičiausiai kilo dėl to, kad jūsų kompiuterio laikrodis yra netinkamai nustatytas, o tai neleidžia „&brandShortName;“ užmegzti saugaus ryšio.">
+
+<!ENTITY certerror.sts.introPara "„&brandShortName;“ aptiko galimą saugumo grėsmę ir neįkėlė <span class='hostname'/>, nes ši svetainė reikalauja saugaus ryšio.">
 
 <!ENTITY certerror.expiredCert.introPara "„&brandShortName;“ aptiko problemą ir neįkėlė <span class='hostname'/>. Ši svetainė gali būti netinkamai sukonfigūruota, arba jūsų kompiuterio laikrodis yra netinkamai nustatytas.">
 <!ENTITY certerror.expiredCert.secondPara2 "Tikėtina, kad svetainės liudijimas baigė galioti, todėl „&brandShortName;“ negali užmegzti saugaus ryšio. Jei apsilankysite šioje svetainėje, piktavaliai gali bandyti pavogti jūsų slaptažodžius, el. laiškus, bankininkystės duomenis.">
@@ -166,3 +166,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Panašu, kad taip galėjo nutikti dėl jūsų tinklo saugumo nuostatų. Ar norite atstatyti numatytąsias reikšmes?">
 <!ENTITY prefReset.label "Atstatyti numatytąsias nuostatas">
+
+<!ENTITY networkProtocolError.title "Tinklo protokolo klaida">
