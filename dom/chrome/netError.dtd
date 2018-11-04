@@ -89,4 +89,5 @@
 
 <!ENTITY blockedByPolicy.title "Uždraustas puslapis">
 
+<!ENTITY networkProtocolError.title "Tinklo protokolo klaida">
 <!ENTITY networkProtocolError.longDesc "<p>Tinklalapis, kurį bandote atverti, negali būti įkeltas dėl tinklo protokole aptiktos klaidos.</p><ul><li>Susisiekite su svetainės prižiūrėtojais ir praneškite apie šią problemą.</li></ul>">
