@@ -101,3 +101,5 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p>Tha <span class='hostname'></span> a’ cleachdadh seann-teicneolas tèarainteachd a tha so-leònte. Cha bhiodh e doirbh do chuideigin dàta a leigeil ris a bha tèarainte ’nad bheachd. Bidh aig rianaire na làraich am frithealaiche a chàradh mus urrainn dhut tadhal air an làrach.</p><p>Còd na mearachd: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Duilleag bhacte">
+
+<!ENTITY networkProtocolError.title "Mearachd pròtacal an lìonraidh">

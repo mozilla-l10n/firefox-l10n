@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  windowClose.key                  "w">
+<!ENTITY  preferencesDefaultTitleMac.title "Roghainnean">
+<!ENTITY  preferencesDefaultTitleWin.title "Roghainnean">
+<!ENTITY  preferencesCloseButton.label     "Dùin">
+<!ENTITY  preferencesCloseButton.accesskey "C">
+
 <!ENTITY  prefWindow.titleWin     "Roghainnean">
 <!ENTITY  prefWindow.titleGNOME   "Roghainnean &brandShortName;">
 <!ENTITY  prefWindow.titleMAC     "Roghainnean">
-<!ENTITY  prefWindow.styleWindows "width: 55em; min-height: 45em;">
-<!ENTITY  prefWindow.styleMac     "width: 65em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 65em; min-height: 45em;">
 
 <!ENTITY paneGeneral.title        "Coitcheann">
 <!ENTITY paneDisplay.title        "Taisbeanadh">
@@ -16,8 +19,11 @@
 <!ENTITY paneAttachments.title    "Ceanglachain">
 <!ENTITY panePrivacy.title        "Prìobhaideachd">
 <!ENTITY paneSecurity.title       "Tèarainteachd">
+<!ENTITY paneLightning.title      "Am mìosachan">
 <!ENTITY paneAdvanced.title       "Adhartach">
 <!ENTITY paneAccount.title        "Cunntasan">
+
+<!ENTITY addonsButton.label       "Leudachain ⁊ ùrlaran">
 
 <!ENTITY okButton.title           "Ceart ma-thà">
 <!ENTITY okButton.accesskey       "C">

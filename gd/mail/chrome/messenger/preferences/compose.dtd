@@ -20,6 +20,10 @@
 <!ENTITY font.accesskey                       "C">
 <!ENTITY size.label                           "Meud:">
 <!ENTITY size.accesskey                       "M">
+<!ENTITY fontSize.label                       "Meud:">
+<!ENTITY fontSize.accesskey                   "z">
+<!ENTITY useReaderDefaults.label              "Cleachd dathan bunaiteach an leughadair">
+<!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "Dath an teacsa:">
 <!ENTITY fontColor.accesskey                  "t">
 <!ENTITY bgColor.label                        "Dath a' chùlaibh:">

@@ -36,6 +36,12 @@
 <!ENTITY newFeedAccountCmd.accesskey "b">
 <!ENTITY newIMContactCmd.label "Neach-aithne cabadaich…">
 <!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Teachdaireachd">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Neach-aithne ann an leabhar nan seòladh…">
+<!ENTITY  newContactCmd.accesskey "C">
 <!ENTITY openMessageFileCmd.label "Fosgail teachdaireachd a chaidh a shàbhaladh…">
 <!ENTITY openMessageFileCmd.accesskey "o">
 <!ENTITY saveAsMenu.label "Sàbhail mar">
@@ -437,6 +443,9 @@
 <!ENTITY openConversationCmd.label "Fosgail ann an còmhradh">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY openConversationCmd.key "o">
+<!ENTITY openInConversationCmd.label "Fosgail ann an còmhradh">
+<!ENTITY openInConversationCmd.accesskey "s">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Ceanglachain">
 <!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "Nuair a dh'fhosglar teachdaireachd inbhir">
@@ -509,8 +518,6 @@
 <!ENTITY devToolboxCmd.label "Acainnean an luchd-leasachaidh">
 <!ENTITY devToolboxCmd.accesskey "l">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Dì-bhugadair nan tuilleadan">
-<!ENTITY addonDebugCmd.accesskey "a">
 <!ENTITY debugAddonsCmd.label "Dì-bhugaich na tuilleadain">
 <!ENTITY debugAddonsCmd.accesskey "a">
 <!ENTITY tabsDebugCmd.label "Dì-bhugadair frèam na susbaint">
@@ -645,6 +652,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Faigh teachdaireachdan">
 <!ENTITY folderContextGetMessages.accesskey "g">
+<!ENTITY folderContextMarkAllFoldersRead.label "Cuir comharra gun deach a h-uile pasgan a leughadh">
 <!ENTITY folderContextPauseAllUpdates.label "Cuir gach ùrachadh ’na stad">
 <!ENTITY folderContextPauseUpdates.label "Cuir na h-ùrachaidhean ’na stad">
 <!ENTITY folderContextPauseUpdates.accesskey "u">
@@ -870,7 +878,7 @@
   -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
-      This is the base of the empty text for the global search box. We replace
+     This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
      platform.
      The goal is to convey to the user that typing in the box will allow them
