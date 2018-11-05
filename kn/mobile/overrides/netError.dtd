@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>ಹಳತಾದ ಮತ್ತು ಆಕ್ರಮಣಕ್ಕೆ ಸಿಲುಕಬಹುದಾದ ಸುರಕ್ಷತಾ ತಂತ್ರಜ್ಞಾನವನ್ನು ಬಳಸುತ್ತಿದೆ. ಆಕ್ರಮಣಕಾರ ನಿಮಗೆ ಸುರಕ್ಷಿತ ಎನಿಸಬಹುದಾದ ಮಾಹಿತಿಯನ್ನು ಸುಲಭವಾಗಿ ಬಹಿರಂಗಪಡಿಸಬಲ್ಲ. ಜಾಲತಾಣದ ನಿರ್ವಾಹಕ ಈ ಸರ್ವರ್ ಅನ್ನು ನೀವು ಭೇಟಿ ನೀಡುವುದಕ್ಕಿಂತ ಮುಂಚೆ ಸರಿಪಡಿಸಬೇಕಿದೆ.</p><p>ದೋಷದ ಸಂಕೇತ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "ನೆಟ್ವರ್ಕ್ ಪ್ರೋಟೋಕಾಲ್ ದೋಷ">
+<!ENTITY networkProtocolError.longDesc "<p>ನೆಟ್ವರ್ಕ್ ಪ್ರೋಟೋಕಾಲ್ನಲ್ಲಿ ದೋಷ ಕಂಡುಬಂದ ಕಾರಣ ನೀವು ವೀಕ್ಷಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವ ಪುಟವನ್ನು ತೋರಿಸಲಾಗುವುದಿಲ್ಲ.</p><ul><li>ದಯವಿಟ್ಟು ಈ ಸಮಸ್ಯೆಯ ಬಗ್ಗೆ ತಿಳಿಸಲು ವೆಬ್ಸೈಟ್ ಮಾಲೀಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.</li></ul>">
