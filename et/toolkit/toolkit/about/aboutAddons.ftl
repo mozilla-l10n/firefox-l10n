@@ -130,7 +130,7 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Järgnevad lisad pole { -brand-short-name }is kasutamiseks verifitseeritud. Sa võid <label data-l10n-name="find-addons">otsida asendusi</label> või paluda arendajatel lasta need ära verifitseerida.
 disabled-unsigned-learn-more = Rohkem teavet meie püüdluste kohta muuta sinu võrgusolek ohutumaks.
 disabled-unsigned-devinfo = Arendajad, kes on huvitatud oma lisade verifitseerimisest, võivad jätkata juhise lugemist <label data-l10n-name="learn-more">siit</label>.
-plugin-deprecation-description = Tunned millestki puudust? Mõned pluginad ei ole enam { -brand-short-name }i poolt toetatud. <label data-l10n-name="learn-more">Rohkem teavet.</label>
+plugin-deprecation-description = Tunned millestki puudust? { -brand-short-name } ei toeta enam mõnda pluginat. <label data-l10n-name="learn-more">Rohkem teavet.</label>
 legacy-warning-show-legacy = Kuva aegunud laiendusi
 legacy-extensions =
     .value = Aegunud laiendused

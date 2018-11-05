@@ -248,7 +248,7 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "siit">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-<!ENTITY pluginDeprecation.description "Tunned millestki puudust? Mõned pluginad ei ole enam &brandShortName;i poolt toetatud.">
+<!ENTITY pluginDeprecation.description "Tunned millestki puudust? &brandShortName; ei toeta enam mõnda pluginat.">
 <!ENTITY pluginDeprecation.learnMore "Rohkem teavet.">
 
 <!ENTITY legacyWarning.showLegacy "Kuva aegunud laiendusi">
