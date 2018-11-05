@@ -608,6 +608,9 @@ sitedata-keep-until-expire =
     .label = Тэрмін канчаецца
 sitedata-keep-until-closed =
     .label = да закрыцця { -brand-short-name }
+sitedata-delete-on-close =
+    .label = Выдаляць кукі і звесткі сайтаў па закрыцці { -brand-short-name }
+    .accesskey = с
 sitedata-allow-cookies-option =
     .label = Прымаць кукі і звесткі сайтаў
     .accesskey = П
@@ -853,3 +856,7 @@ certs-view =
 certs-devices =
     .label = Прылады бяспекі…
     .accesskey = б
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Захаваць файлы ў { $service-name }
