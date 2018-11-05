@@ -215,3 +215,5 @@ Strict Transport Security (HSTS) per inditgar che &brandShortName; dastgia mo co
 
 <!ENTITY prefReset.longDesc "I para ch'ils parameters da segirezza da tia rait chaschunian quest problem. Vuls ti restaurar ils parameters da standard?">
 <!ENTITY prefReset.label "Restaurar il standard">
+
+<!ENTITY networkProtocolError.title "Errur dal protocol da rait">
