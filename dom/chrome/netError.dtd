@@ -94,3 +94,4 @@
 <!ENTITY blockedByPolicy.title "Pagina bloccada">
 
 <!ENTITY networkProtocolError.title "Errur dal protocol da rait">
+<!ENTITY networkProtocolError.longDesc "<p>Impussibel da mussar la pagina che ti emprovas da chargiar perquai ch'igl è succedida ina errur en il protocol da rait.</p><ul><li>Contactescha per plaschair il possessur da la website per al infurmar davart quest problem.</li></ul>">
