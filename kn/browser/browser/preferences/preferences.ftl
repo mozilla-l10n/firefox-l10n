@@ -33,6 +33,8 @@ pane-general-title = ಸಾಮಾನ್ಯ
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = ಮನೆ
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = ಹುಡುಕು
 category-search =
     .tooltiptext = { pane-search-title }
@@ -147,6 +149,9 @@ choose-language-description = ಪುಟಗಳನ್ನು ತೋರಿಸಲು 
 choose-button =
     .label = ಆರಿಸಿ…
     .accesskey = o
+manage-browser-languages-button =
+    .label = ಪರ್ಯಾಯಗಳನ್ನು ಹೊಂದಿಸಿ...
+    .accesskey = l
 translate-web-pages =
     .label = ಜಾಲದಲ್ಲಿನ ಕಂಟೆಂಟ್ ಅನ್ನು ಅನುವಾದಿಸು
     .accesskey = T
@@ -457,6 +462,7 @@ addressbar-suggestions-settings = ಹುಡುಕು ಯಂತ್ರಗಳ ಸ�
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 content-blocking-toggle-label-on = ಆನ್‌
     .accesskey = O
 content-blocking-toggle-label-off = ಆಫ್‌

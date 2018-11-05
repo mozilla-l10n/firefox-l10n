@@ -149,15 +149,20 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "ಆಯ್ದ ಟ್ಯಾಬ್‍ಗಳನ್ನು ರೀಲೋಡ್ ಮಾಡು">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Undo ಟ್ಯಾಬ್ ಮುಚ್ಚು">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
@@ -1068,6 +1073,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.label "ಎಕ್ಸ್‌ಟೆನ್ಶನ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
+<!ENTITY homepageControlled.keepButton.label "ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸು">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
 
 
 <!ENTITY pageActionButton.tooltip "ಪುಟದ ಕಾರ್ಯಗಳು">
@@ -1081,6 +1088,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.syncNotReady.label "ಸಾಧನಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಲಾಗುತ್ತಿದೆ…">
 
+<!ENTITY pageAction.shareUrl.label "ಹಂಚು">
+<!ENTITY pageAction.shareMore.label "ಇನ್ನಷ್ಟು…">
 
 <!ENTITY libraryButton.tooltip "ಇತಿಹಾಸ, ಉಳಿಸಿದ ಬುಕ್‍ಮಾರ್ಕ್‌ಗಳು ಮತ್ತು ಹೆಚ್ಚಿದುದನ್ನು ನೋಡಿ">
 
