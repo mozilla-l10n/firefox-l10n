@@ -9,6 +9,9 @@
 <!ENTITY retry.label "ಮರಳಿ ಪ್ರಯತ್ನಿಸು">
 <!ENTITY returnToPreviousPage.label "ಹಿಂದೆ ಹೋಗು">
 <!ENTITY advanced.label "ಸುಧಾರಿತ">
+<!ENTITY continue2.label "ಮತ್ತಷ್ಟು…">
+<!ENTITY moreInformation.label "ಹೆಚ್ಚಿನ ಮಾಹಿತಿ">
+
 
 <!-- Specific error messages -->
 
@@ -77,10 +80,17 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>ನೀವು ನೋಡಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವ ಪುಟವನ್ನು ತೋರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ ಏಕೆಂದರೆ ಪಡೆಯಲಾದ ಮಾಹಿತಿಯ ವಿಶ್ವಾಸಾರ್ಹತೆಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿಲ್ಲ .</li> <li>ದಯವಿಟ್ಟು ಈ ತೊಂದರೆಯ ಬಗ್ಗೆ ಜಾಲತಾಣದ ಮಾಲಿಕರಿಗೆ ತಿಳಿಸಿ.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle1 "ನಿಮ್ಮ ಸಂಪರ್ಕವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ‍">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "ಈ ಜಾಲತಾಣದ ಮಾಲಿಕ <span class='hostname'/>  ಅದನ್ನು ‍ಸರಿಯಾಗಿ ಸಂರಚಿಸಿಲ್ಲ. ನಿಮ್ಮ ಮಾಹಿತಿಯನ್ನು ಕಳ್ಳತನದಿಂದ ಸುರಕ್ಷಿತವಾಗಿರಿಸಲು, &brandShortName; ಈ ಜಾಲತಾಣದೊಂದಿಗೆ ಸಂಪರ್ಕವನ್ನು ಹೊಂದಿಲ್ಲ.">
+
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "<ul> <li>ತಾಣವು ತಾತ್ಕಾಲಿಕವಾಗಿ ಅಲಭ್ಯವಾಗಿದೆ ಅಥವ ಬಹುವಾಗಿ ಬಳಸಲ್ಪಡುತ್ತಿದೆ. ಕೆಲವು ಕ್ಷಣಗಳನಂತರ ಮರಳಿ ಪ್ರಯತ್ನಿಸಿ.</li> <li>ನಿಮಗೆ ಯಾವುದೆ ಪುಟವನ್ನು ಲೋಡ್‍ ಮಾಡಲುಆಗದೇ ಹೋದರೆ, ನಿಮ್ಮ ಗಣಕದ ಜಾಲ ಸಂಪರ್ಕವನ್ನು ಪರೀಕ್ಷಿಸಿ.</li> <li>ನಿಮ್ಮ ಗಣಕ ಅಥವ ಜಾಲಬಂಧವು ಒಂದು ಫೈರ್ವಾಲ್ ಅಥವ ಪ್ರಾಕ್ಸಿ ಇಂದ ಸಂರಕ್ಷಿತಗೊಂಡಿದ್ದೆ, &brandShortName; ವುಜಾಲವನ್ನು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ಅನುಮತಿ ಇದೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.</li> </ul>">
 
@@ -117,5 +127,9 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>ಹಳತಾದ ಮತ್ತು ಆಕ್ರಮಣಕ್ಕೆ ಸಿಲುಕಬಹುದಾದ ಸುರಕ್ಷತಾ ತಂತ್ರಜ್ಞಾನವನ್ನು ಬಳಸುತ್ತಿದೆ. ಆಕ್ರಮಣಕಾರ ನಿಮಗೆ ಸುರಕ್ಷಿತ ಎನಿಸಬಹುದಾದ ಮಾಹಿತಿಯನ್ನು ಸುಲಭವಾಗಿ ಬಹಿರಂಗಪಡಿಸಬಲ್ಲ. ಜಾಲತಾಣದ ನಿರ್ವಾಹಕ ಈ ಸರ್ವರ್ ಅನ್ನು ನೀವು ಭೇಟಿ ನೀಡುವುದಕ್ಕಿಂತ ಮುಂಚೆ ಸರಿಪಡಿಸಬೇಕಿದೆ.</p><p>ದೋಷದ ಸಂಕೇತ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "ನಿರ್ಬಂಧಿಸಿದ ಪುಟ">
+
+
 <!ENTITY prefReset.longDesc "ನಿಮ್ಮ ನೆಟ್‍‍ವರ್ಕ್ ಸುರಕ್ಷತೆ ಸಿದ್ಧತೆಗಳಿಂದಾಗಿ ಇದು ಸಂಭವಿಸುತ್ತಿರಬೇಕು. ನೀವು ಪೂರ್ವನಿಯೋಜಿತ ಸಿದ್ಧತೆಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಬಯಸುವಿರಾ?">
 <!ENTITY prefReset.label "ಪೂರ್ವನಿಯೋಜಿತ ಸಿದ್ಧತೆಗಳನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
+
