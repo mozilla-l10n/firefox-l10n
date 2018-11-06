@@ -17,6 +17,7 @@ update-applying = Đang cài đặt cập nhật…
 update-failed = Cập nhật thất bại. <label data-l10n-name="failed-link">Tải phiên bản mới nhất</label>
 update-failed-main = Cập nhật thất bại. <a data-l10n-name="failed-link-main">Tải phiên bản mới nhất</a>
 update-adminDisabled = Cập nhật bị vô hiệu hóa bởi quản trị hệ thống
+update-noUpdatesFound = { -brand-short-name } đã được cập nhật
 update-otherInstanceHandlingUpdates = { -brand-short-name } đang được cập nhật bởi tiến trình khác
 update-manual = Cập nhật có tại <label data-l10n-name="manual-link"/>
 update-unsupported = Bạn không thể cập nhật thêm trên hệ thống này nữa. <label data-l10n-name="unsupported-link">Tìm hiểu thêm</label>
