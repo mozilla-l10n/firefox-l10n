@@ -24,6 +24,7 @@ update-unsupported = Nid oes modd i chi ddiweddaru'r system hon ymhellach. <labe
 update-restarting = Ailgychwyn…
 channel-description = Rydych ar sianel diweddaru <label data-l10n-name="current-channel"></label>.
 warningDesc-version = Mae { -brand-short-name } yn arbrofol a gall fod yn ansad.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">Mae { -vendor-short-name }</label> yn <label data-l10n-name="community-exp-creditsLink">gymuned fyd-eang</label> sy'n cydweithio i gadw'r We yn agored, cyhoeddus ac ar gael i bawb.
 community-2 = Cynlluniwyd { -brand-short-name } gan <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">cymuned fyd-eang</label> sy'n cydweithio i gadw'r We yn agored, cyhoeddus ac ar gael i bawb.
 helpus = Eisiau helpu? <label data-l10n-name="helpus-donateLink">Gallwch wneud rhodd</label> neu <label data-l10n-name="helpus-getInvolvedLink">ymuno â ni!</label>
 bottomLinks-license = Manylion Trwyddedu
