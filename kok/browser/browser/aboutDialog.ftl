@@ -5,7 +5,7 @@
 aboutDialog-title =
     .title = { -brand-full-name } बद्दल
 update-checkForUpdatesButton =
-    .label = सुदारांखातीर Check{ " " }
+    .label = सुदारांखातीर Check
     .accesskey = C
 update-checkingForUpdates = अपडेटांखातीर तपासतात...
 update-downloading = <img data-l10n-name="icon"/>अद्यावत डावनलोडींग करता-<label data-l10n-name="download-status"/>
