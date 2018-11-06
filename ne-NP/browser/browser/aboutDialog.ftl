@@ -23,4 +23,5 @@ community-2 = { -brand-short-name } द्वारा बनाईयको<lab
 bottomLinks-license = इजाजतपत्रबारे जानकारी
 bottomLinks-rights = प्रयोगकर्ता अधिकारहरू
 bottomLinks-privacy = गोपनीयता नीति
+aboutDialog-architecture-sixtyFourBit = 64-बिट
 aboutDialog-architecture-thirtyTwoBit = ३२-bit
