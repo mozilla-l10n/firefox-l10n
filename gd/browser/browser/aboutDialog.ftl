@@ -15,6 +15,7 @@ update-manual = Ùrachaidhean a tha ri am faighinn aig <label data-l10n-name="ma
 update-unsupported = Chan urrainn dhut dad eile ùrachadh air an t-siostam seo. <label data-l10n-name="unsupported-link">Barrachd fiosrachaidh</label>
 channel-description = Tha thu san t-seanail ùrachaidh <label data-l10n-name="current-channel"></label> an-dràsta.{ " " }
 warningDesc-version = Thathar ag obair air { -brand-short-name } fhathast agus faodaidh nach bi iad buileach seasmhach.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">Tha { -vendor-short-name }</label> 'na <label data-l10n-name="community-exp-creditsLink">choimhearsnachd an t-saoghail</label> a tha ag obair còmhla gus an lìon a chumail fosgailte, poblach is so-ruigsinneach dhan a h-uile duine.
 bottomLinks-license = Fiosrachadh ceadachais
 bottomLinks-rights = Còraichean a' chleachdaiche dheireannaich
 bottomLinks-privacy = Poileasaidh prìobhaideachd
