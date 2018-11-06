@@ -8,7 +8,11 @@ releaseNotes-link = Beth sy'n newydd
 update-checkForUpdatesButton =
     .label = Gwirio am ddiweddariadau
     .accesskey = G
+update-updateButton =
+    .label = Ailgychwyn i ddiweddaru { -brand-shorter-name }
+    .accesskey = A
 update-checkingForUpdates = Gwirio am ddiweddariadau…
+update-downloading = <img data-l10n-name="icon"/>Llwytho'r diweddariad i lawr — <label data-l10n-name="download-status"/>
 update-applying = Gosod y diweddariad…
 update-failed = Methodd y diweddaru. <label data-l10n-name="failed-link">Llwythwch y fersiwn diweddaraf i lawr</label>
 update-failed-main = Methodd y diweddaru. <a data-l10n-name="failed-link-main">Llwythwch y fersiwn diweddaraf i lawr</a>
