@@ -291,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Zjistěte více o používání aplikace &brandShortName; a dalších produktech společnosti &vendorShortName;">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "Zapnout">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Experimentální funkce">
@@ -363,7 +368,6 @@
 <!ENTITY pref_use_system_font_size_summary "Upravit měřítko webového obsahu na základě systémové velikosti písma">
 
 <!ENTITY pref_media_autoplay_enabled "Povolit automatické přehrávání">
-<!ENTITY pref_media_autoplay_enabled_summary "Určuje, zda webová stránka může automaticky přehrávat videa či jiný multimediální obsah">
 <!ENTITY pref_media_autoplay_allow "Povolit automatické přehrávání">
 <!ENTITY pref_media_autoplay_block "Blokovat automatické přehrávání">
 <!ENTITY pref_zoom_force_enabled "Vždy povolit lupu">
@@ -828,9 +832,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Aplikaci &brandShortName; nelze otevřít. Přeinstalujte ji a zkuste to znovu.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; již nebude aktualizovaný">
-<!ENTITY eol_notification_summary "Pro další informace klepněte zde">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; je aktuální">
@@ -904,3 +905,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "Oznámení z aplikace &brandShortName;">
 <!ENTITY updater_notification_channel "Aktualizace aplikace">
 <!ENTITY synced_tabs_notification_channel "Synchronizované panely">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Oznámení stránky">
