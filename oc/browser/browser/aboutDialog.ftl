@@ -7,10 +7,14 @@ aboutDialog-title =
 releaseNotes-link = Novetats
 update-downloading = <img data-l10n-name="icon"/>Telecargament de mesa a jorn — <label data-l10n-name="download-status"/>
 update-applying = Aplicacion de la mesa a jorn…
+update-failed = La mesa a jorn a fracassat. <label data-l10n-name="failed-link">Telecargar la darrièra version</label>
+update-failed-main = La mesa a jorn a fracassat. <a data-l10n-name="failed-link-main">Telecargar la darrièra version</a>
 update-adminDisabled = Las mesas a jorn son desactivadas per vòstre administrator del sistèma
 update-noUpdatesFound = { -brand-short-name } es a jorn
 update-otherInstanceHandlingUpdates = { -brand-short-name } es mes a jorn per una autra instància
 update-manual = Mesas a jorn disponiblas a <label data-l10n-name="manual-link"/>
+update-unsupported = La darrièra version es pas disponibla per vòstre sistèma. <label data-l10n-name="unsupported-link">Ne saber mai</label>
+update-restarting = Reaviada…
 channel-description = Actualament, utilizatz lo canal de mesa a jorn <label data-l10n-name="current-channel"></label> per metre a jorn.{ " " }
 warningDesc-version = { -brand-short-name } es experimental e pòt èsser instable.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> es una <label data-l10n-name="community-exp-creditsLink">comunautat mondiala</label> de contributors que trabalhan amassa per gardar Internet dobèrt, public e accessible a totes.
