@@ -25,6 +25,7 @@ update-restarting = កំពុង​ចាប់ផ្ដើម​ឡើង​
 channel-description = បច្ចុប្បន្ន​អ្នក​កំពុង​ស្ថិត​នៅ​លើ​ <label data-l10n-name="current-channel"></label> ធ្វើ​បច្ចុប្បន្នភាព​ឆានែល។{ " " }
 warningDesc-version = { -brand-short-name } ជា​ការ​ពិសោធន៍ និង​មិន​មាន​​ស្ថិរ​ភាព​ទេ។
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ជា <label data-l10n-name="community-exp-creditsLink">សហគមន៍​សកល</label> ដែល​ធ្វើការ​ជាមួយ​​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហ សាធារណៈ និង​អាច​ចូល​ដំណើរ​ការ​បាន​គ្រប់គ្នា ។
+community-2 = { -brand-short-name } ត្រូវ​បាន​រចនា​ដោយ <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label><label data-l10n-name="community-creditsLink">សហគមន៍​សកល</label> ដែល​ធ្វើការ​ជាមួយ​​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហ សាធារណៈ និង​អាច​ចូល​ដំណើរ​ការ​បាន​គ្រប់គ្នា។
 helpus = ចង់​ជួយ?<label data-l10n-name="helpus-donateLink">ជួយ​ឧបត្ថម្ភ</label> ឬ <label data-l10n-name="helpus-getInvolvedLink">ចូលរួម​ចំណែក!</label>
 bottomLinks-license = ព័ត៌មាន​អាជ្ញាប័ណ្ណ
 bottomLinks-rights = សិទ្ធិ​អ្នកប្រើ
