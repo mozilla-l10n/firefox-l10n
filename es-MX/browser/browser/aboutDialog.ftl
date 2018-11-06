@@ -8,6 +8,9 @@ releaseNotes-link = Qué hay de nuevo
 update-checkForUpdatesButton =
     .label = Buscar actualizaciones
     .accesskey = B
+update-updateButton =
+    .label = Reiniciar para actualizar { -brand-shorter-name }
+    .accesskey = R
 update-checkingForUpdates = Buscando actualizaciones…
 update-downloading = <img data-l10n-name="icon"/>Descargando actualización — <label data-l10n-name="download-status"/>
 update-applying = Aplicando actualización…
