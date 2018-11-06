@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Setări pentru mesaje nesolicitate">
-<!ENTITY trainingDescription.label "Dacă este activată, trebuie să înveți &brandShortName; să identifice mesajele nesolicitate prin folosirea butonului Mesaje nesolicitate din bara de unelte pentru marcarea mesajelor ca nesolicitate sau nu. Trebuie să identifici și mesajele nesolicitate. și pe cele care nu sunt nesolicitate. După aceea, &brandShortName; va putea să marcheze automat mesajele nesolicitate.">
+<!ENTITY trainingDescription.label "Dacă este activată, trebuie să înveți &brandShortName; să identifice mesajele nesolicitate prin folosirea butonului Mesaje nesolicitate din bara de unelte pentru marcarea mesajelor ca nesolicitate sau nu. Trebuie să identifici și mesajele nesolicitate, și pe cele care nu sunt nesolicitate. După aceea, &brandShortName; va putea marca automat mesajele nesolicitate.">
 <!ENTITY level.label "Activați controalele adaptive de mesaje nesolicitate pentru acest cont">
 <!ENTITY level.accesskey "e">
 
