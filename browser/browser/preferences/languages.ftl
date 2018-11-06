@@ -2,9 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = ভাষা
-    .style = width: 30em
+webpage-languages-window =
+    .title = ওয়েবপেজ ভাষা সেটিং
+    .style = প্রস্থ: 40em
 languages-close-key =
     .key = w
 languages-description = অনেক ক্ষেত্রে ওয়েবপেজ একাধিক ভাষা সমর্থন করে। আপনার পছন্দ অনুসারে, ওয়েবপেজ প্রদর্শনের ভাষা নির্বাচন করুন
