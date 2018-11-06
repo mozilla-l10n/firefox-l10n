@@ -8,6 +8,9 @@ releaseNotes-link = Vad är nytt
 update-checkForUpdatesButton =
     .label = Sök efter uppdateringar
     .accesskey = ö
+update-updateButton =
+    .label = Starta om för att uppdatera { -brand-shorter-name }
+    .accesskey = S
 update-checkingForUpdates = Söker efter uppdateringar…
 update-downloading = <img data-l10n-name="icon"/>Hämtar uppdatering — <label data-l10n-name="download-status"/>
 update-applying = Utför uppdatering…
