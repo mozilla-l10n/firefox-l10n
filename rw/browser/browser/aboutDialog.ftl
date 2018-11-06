@@ -4,3 +4,9 @@
 
 aboutDialog-title =
     .title = Ibyerekeye { -brand-full-name }
+update-checkForUpdatesButton =
+    .label = Kugenzura niba ari ibihuzigihe
+    .accesskey = K
+update-checkingForUpdates = Kugenzura niba hari ibigezweho
+update-noUpdatesFound = igezweho
+helpus = Urashaka gufasha?<label data-l10n-name="helpus-donateLink">Tanga ubufasha</label> cyangwa<label data-l10n-name="helpus-getInvolvedLink">Jyamo nawe!</label>
