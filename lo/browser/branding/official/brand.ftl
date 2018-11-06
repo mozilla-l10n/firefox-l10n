@@ -17,3 +17,4 @@
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
 -brand-shorter-name = Firefox
+trademarkInfo = Firefox ແລະໂລໂກ້ຂອງ Firefox ແມ່ນເຄື່ອງຫມາຍທາງການຄ້າຂອງມູນນິທິ Mozilla.
