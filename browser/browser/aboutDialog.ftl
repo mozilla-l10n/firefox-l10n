@@ -20,6 +20,7 @@ update-manual = Абнаўленні даступныя на <label data-l10n-na
 update-unsupported = Вы не можаце працягнуць абнаўленне на гэтай сістэме. <label data-l10n-name="unsupported-link">Падрабязней</label>
 update-restarting = Перазапуск...
 channel-description = Зараз вы на <label data-l10n-name="current-channel"></label> канале абнаўленняў.{ " " }
+warningDesc-version = { -brand-short-name } з'яўляецца эксперыментальным і можа быць няўстойлівым.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> — <label data-l10n-name="community-exp-creditsLink">сусветнае згуртаванне</label>, якое працуе разам, каб захаваць Сеціва адкрытым, публічным і даступным кожнаму.
 community-2 = { -brand-short-name } распрацаваны <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">сусветным згуртаваннем</label>, якое працуе разам, каб захаваць Сеціва адкрытым, публічным і даступным кожнаму.
 helpus = Хочаце дапамагчы? <label data-l10n-name="helpus-donateLink">Зрабіце ахвяраванне</label> або <label data-l10n-name="helpus-getInvolvedLink">далучайцеся да нас!</label>
