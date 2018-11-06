@@ -21,3 +21,5 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } es concebut per <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">contributors</label> que trabalhan amassa per gardar Internet dobèrt, public e accessible a totes.
 bottomLinks-license = Entresenhas sus la licéncia
 bottomLinks-privacy = Politica de confidencialitat
+aboutDialog-architecture-sixtyFourBit = 64-bit
+aboutDialog-architecture-thirtyTwoBit = 32-bit
