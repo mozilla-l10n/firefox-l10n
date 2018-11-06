@@ -186,6 +186,10 @@ warn-on-close-multiple-tabs =
     .label = Waarschuwen bij het sluiten van meerdere tabbladen
     .accesskey = m
 
+warn-on-quit-close-multiple-tabs =
+    .label = Waarschuwen bij het afsluiten en sluiten van meerdere tabbladen
+    .accesskey = m
+
 warn-on-open-many-tabs =
     .label = Waarschuwen als het openen van meerdere tabbladen { -brand-short-name } zou kunnen vertragen
     .accesskey = o
