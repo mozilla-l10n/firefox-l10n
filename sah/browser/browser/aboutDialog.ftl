@@ -4,6 +4,9 @@
 
 aboutDialog-title =
     .title = { -brand-full-name } туһунан
+update-checkForUpdatesButton =
+    .label = Саҥардыыны көрүү
+    .accesskey = к
 update-checkingForUpdates = Саҥардыыны көрүү...
 update-downloading = <img data-l10n-name="icon"/>Саҥардыы хаамыыта — <label data-l10n-name="download-status"/>
 update-applying = Саҥардыыны туһаныы...
