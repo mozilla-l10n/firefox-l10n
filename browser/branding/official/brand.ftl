@@ -15,3 +15,4 @@
 
 -brand-short-name = فایرفاکس
 -vendor-short-name = موزیلا
+-brand-full-name = موزیلا فایرفاکس
