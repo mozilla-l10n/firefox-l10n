@@ -51,6 +51,7 @@ pane-sync-title = Firefox Account
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } সাপোর্ট
+addons-button-label = এক্সটেনশন ও থিম
 focus-search =
     .key = f
 close-button =
@@ -81,6 +82,9 @@ extension-controlled-homepage-override = একটি এক্সটেনস�
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = একটি এক্সটেনসন, <img data-l10n-name="icon"/> { $name }, আপনার নতুন ট্যাব পাতা নিয়ন্ত্রণ করছে।
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = এক্সটেনশন, <img data-l10n-name="icon"/> { $name }, এই সেটিং নিয়ন্ত্রণ করছে।
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = একটি এক্সটেনশন, <img data-l10n-name="icon"/> { $name }, আপনার ডিফল্ট সার্চ ইঞ্জিন সেট করে দিয়েছে।
@@ -90,6 +94,9 @@ extension-controlled-privacy-containers = এক্সটেনশন <img data-
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = একটি এক্সটেনসন, <img data-l10n-name="icon"/> { $name }, ট্রাকিং সুরক্ষা নিয়ন্ত্রণ করে।
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = এক্সটেনশন, <img data-l10n-name="icon"/> { $name }, এই সেটিং নিয়ন্ত্রণ করছে।
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = একটি এক্সটেনসন, <img data-l10n-name="icon"/> { $name }, কিভাবে { -brand-short-name } ইন্টারনেটের সাথে সংযোগ করে তা নিয়ন্ত্রণ করছে।
@@ -203,6 +210,9 @@ choose-button =
     .label = নির্বাচন…
     .accesskey = o
 choose-browser-language-description = { -brand-short-name } থেকে মেনু, বার্তা এবং বিজ্ঞপ্তি প্রদর্শন করতে ব্যবহৃত ভাষা সমূহ চয়ন করুন।
+manage-browser-languages-button =
+    .label = বিকল্প সেট করুন...
+    .accesskey = l
 confirm-browser-language-change-description = পরিবর্তন প্রয়োগ করতে { -brand-short-name } রিস্টার্ট করুন
 confirm-browser-language-change-button = আবেদন করুন এবং পুনঃশুরু করুন
 translate-web-pages =
@@ -315,9 +325,14 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = টাইপ আরম্ভ করলে তৎক্ষণাৎ অনুসন্ধান শুরু করা হবে
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = আপনার ব্রাউজ হিসাবে প্রস্তাবিত এক্সটেনশন
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = আরও জানুন
 
 ## General Section - Proxy
 
+network-settings-title = নেটওয়ার্ক সেটিং
 network-proxy-connection-description = কিভাবে { -brand-short-name } ইন্টারেনেটে সংযোগ করে তা কনফিগার করুন।
 network-proxy-connection-learn-more = আরও জানুন
 network-proxy-connection-settings =
@@ -515,6 +530,7 @@ privacy-header = ব্রাউজার গোপনীয়তা
 ## Privacy Section - Forms
 
 forms-header = ফরম ও পাসওয়ার্ড
+logins-header = লগইন এবং পাসওয়ার্ড
 forms-ask-to-save-logins =
     .label = ওয়েবসাইটে লগইন ও পাসওয়ার্ড সংরক্ষণে জিজ্ঞাসা কর
     .accesskey = r
@@ -587,6 +603,26 @@ sitedata-keep-until-expire =
     .label = তাদের মেয়াদ উত্তীর্ণ
 sitedata-keep-until-closed =
     .label = { -brand-short-name } বন্ধ হয়ে গেছে
+sitedata-allow-cookies-option =
+    .label = কুকি ও সাইট তথ্য গ্রহণ করুন
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = কুকি ও সাইট তথ্য ব্লক করুন
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = টাইপ ব্লক করা হয়েছে
+    .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = তৃতীয় পক্ষের ট্র্যাকার (প্রস্তাবিত)
+sitedata-block-trackers-option =
+    .label = তৃতীয় পক্ষের ট্র্যাকার
+sitedata-block-unvisited-option =
+    .label = অদেখা ওয়েবসাইট থেকে কুকি
+sitedata-block-all-third-party-option =
+    .label = সমস্ত তৃতীয় পক্ষের কুকি (ওয়েবসাইট ভাঙতে পারে)
+sitedata-block-all-option =
+    .label = সমস্ত কুকি (ওয়েবসাইট ভাঙতে পারে)
 sitedata-clear =
     .label = ডাটা পরিষ্কার করুন…
     .accesskey = l
@@ -629,9 +665,31 @@ content-blocking-toggle-label-on = চালু করুন
 content-blocking-toggle-label-off = বন্ধ
     .accesskey = O
 content-blocking-category-label = কি ব্লক করতে চান বলুন
+content-blocking-tracking-protection-trackers-label =
+    .label = ট্রাকারসমূহ
+    .accesskey = T
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = সমস্ত সনাক্তকৃত ট্র্যাকার
+    .accesskey = T
 content-blocking-tracking-protection-option-always =
     .label = সর্বদা
     .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = শুধুমাত্র ব্যক্তিগত ব্রাউজিং উইন্ডোতে
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = ব্লক তালিকা পরিবর্তন করুন
+content-blocking-third-party-cookies-label =
+    .label = তৃতীয় পক্ষের কুকি
+    .accesskey = C
+content-blocking-change-cookie-settings =
+    .label = কুকি সেটিং পরিবর্তন করুন
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = ট্র্যাকারসমূহ (প্রস্তাবিত)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = ট্রাকারসমূহ
+    .accesskey = k
 
 ## Privacy Section - Tracking
 
