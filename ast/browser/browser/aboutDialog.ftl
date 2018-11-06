@@ -4,3 +4,10 @@
 
 aboutDialog-title =
     .title = Tocante a { -brand-full-name }
+releaseNotes-link = Qué hai nuevo
+update-checkingForUpdates = Comprobando anovamientos…
+update-applying = Aplicando anovamientu…
+update-noUpdatesFound = { -brand-short-name } ta anováu
+update-restarting = Reaniciando…
+bottomLinks-license = Información de llicencia
+bottomLinks-privacy = Política de privacidá
