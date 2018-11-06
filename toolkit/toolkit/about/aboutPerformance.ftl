@@ -14,6 +14,9 @@ column-energy-impact = Enerji etkisi
 ## Special values for the Name column
 
 ghost-windows = Son kapatılan sekmeler
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Ön yüklenen: { $title }
 
 ## Values for the Type column
 
@@ -41,3 +44,13 @@ close-tab =
     .title = Sekmeyi kapat
 show-addon =
     .title = Eklenti yöneticisinde göster
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        Yüklemeden sonraki sevk: { $totalDispatches } ({ $totalDuration } ms)
+        Son saniyelerdeki sevk: { $dispatchesSincePrevious } ({ $durationSincePrevious } ms)
