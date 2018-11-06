@@ -8,6 +8,9 @@ releaseNotes-link = Notes de version
 update-checkForUpdatesButton =
     .label = Rechercher des mises à jour
     .accesskey = R
+update-updateButton =
+    .label = Redémarrer pour mettre à jour { -brand-shorter-name }
+    .accesskey = R
 update-checkingForUpdates = Recherche de mises à jour…
 update-downloading = <img data-l10n-name="icon"/>Téléchargement de la mise à jour — <label data-l10n-name="download-status"/>
 update-applying = Application de la mise à jour…
