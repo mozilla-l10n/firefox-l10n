@@ -15,3 +15,6 @@
 
 -brand-short-name = Firefox
 -vendor-short-name = Mozilla
+-brand-full-name = Mozilla Firefox{ " " }
+-brand-shorter-name = Firefox
+trademarkInfo = Si da'nga Firefox dugumin yi'ni' gunaj Mozilla
