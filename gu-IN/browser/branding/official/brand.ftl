@@ -15,3 +15,4 @@
 
 -brand-short-name = Firefox
 -vendor-short-name = Mozilla
+-brand-shorter-name = Firefox
