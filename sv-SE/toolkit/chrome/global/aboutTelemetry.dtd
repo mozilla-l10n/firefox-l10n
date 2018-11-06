@@ -12,7 +12,6 @@
 <!ENTITY aboutTelemetry.optionGroupToday "Idag">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Igår">
 <!ENTITY aboutTelemetry.optionGroupOlder "Äldre">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "Nyttolast">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -24,6 +23,8 @@
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox datadokumentation</a> innehåller guider om hur du arbetar med våra datainställningar.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox Telemetry klientdokumentation</a> innehåller definitioner för begrepp, API-dokumentation och datareferenser.">
 <!ENTITY aboutTelemetry.telemetryDashboard "Med <a>Telemetry översikter</a> kan du visualisera de data som Mozilla tar emot via telemetri.">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Probe Dictionary</a> innehåller detaljer och beskrivningar för de sonder som samlats in av Telemetry.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Öppna i JSON-visaren">
 
@@ -39,9 +40,7 @@
   Händelser
 ">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Enkla mätningar">
-<!ENTITY aboutTelemetry.telemetryLogSection "  Telemetri-logg">
 <!ENTITY aboutTelemetry.slowSqlSection "  Långsamma SQL-satser">
-<!ENTITY aboutTelemetry.chromeHangsSection "  Hängningar i webbläsaren">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Tilläggsdetaljer">
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Fångade stackar
