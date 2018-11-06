@@ -4,9 +4,13 @@
 
 aboutDialog-title =
     .title = Sobre o { -brand-full-name }
+releaseNotes-link = Novidades
 update-checkForUpdatesButton =
     .label = Buscar actualizacións
     .accesskey = c
+update-updateButton =
+    .label = Reiniciar para actualizar { -brand-shorter-name }
+    .accesskey = R
 update-checkingForUpdates = Comprobando actualizacións…
 update-downloading = <img data-l10n-name="icon"/>Descargando actualización — <label data-l10n-name="download-status"/>
 update-applying = Aplicando actualización…
@@ -17,6 +21,7 @@ update-noUpdatesFound = { -brand-short-name } está actualizado
 update-otherInstanceHandlingUpdates = { -brand-short-name } está sendo actualizado por outra instancia
 update-manual = Actualizacións dispoñíbeis en <label data-l10n-name="manual-link"/>
 update-unsupported = Non é posíbel efectuar máis actualizacións neste sistema.<label data-l10n-name="unsupported-link">Obter máis información </label>
+update-restarting = Reiniciando…
 channel-description = Actualmente está usando a canle de actualización <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } é experimental e pode ser inestábel.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> é unha <label data-l10n-name="community-exp-creditsLink">comunidade global</label> traballando unida para manter a Web aberta, pública e accesíbel para todos.
