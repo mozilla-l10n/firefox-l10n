@@ -16,3 +16,5 @@
 -brand-short-name = Firefox
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
+-brand-shorter-name = Firefox
+trademarkInfo = Firefox le Matshwaomoono a yone ke matshwaokgwebo a Setlamo sa Mozilla.
