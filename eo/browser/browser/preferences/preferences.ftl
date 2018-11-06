@@ -605,6 +605,9 @@ sitedata-keep-until-expire =
     .label = ilia senvalidiĝo
 sitedata-keep-until-closed =
     .label = la fermo de { -brand-short-name }
+sitedata-delete-on-close =
+    .label = Forigi kuketojn kaj retejajn datumojn je fermo de { -brand-short-name }
+    .accesskey = F
 sitedata-allow-cookies-option =
     .label = Akcepti kuketojn kaj retejajn datumojn
     .accesskey = A
@@ -850,3 +853,7 @@ certs-view =
 certs-devices =
     .label = Sekurecaj aparatoj…
     .accesskey = S
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Konservi dosierojn en { $service-name }
