@@ -52,3 +52,4 @@ policy-DontCheckDefaultBrowser = শুরুতে ডিফল্ট ব্র
 policy-Extensions = ইনস্টল, আনইনস্টল বা এক্সটেনশন লক করুন। ইনস্টল অপশনটি প্যারামিটার হিসাবে URLs বা কোন পাথ নেয়। আনইনস্টল এবং লক অপশন এক্সটেনশান IDs নেয়।
 policy-FlashPlugin = Flash প্লাগইন ব্যবহারের অনুমতি দিন বা প্রত্যাখান করুন।
 policy-HardwareAcceleration = যদি মিথ্যা হয়, হার্ডওয়্যারের ত্বরণ বন্ধ করুন।
+policy-InstallAddonsPermission = নির্দিষ্ট কিছু ওয়েবসাইটকে অ্যাড-অন ইনস্টল করার অনুমতি দিন।
