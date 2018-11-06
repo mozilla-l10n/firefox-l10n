@@ -15,5 +15,9 @@ update-failed-main = Güncelleme başarısız. <a data-l10n-name="failed-link-ma
 update-adminDisabled = Güncellemeler sistem yöneticiniz tarafından devre dışı bırakılmış
 update-noUpdatesFound = { -brand-short-name } güncel
 update-manual = Güncelleme adresi: <label data-l10n-name="manual-link"/>
+update-unsupported = Bu sistemde yeni güncellemeleri kullanamazsınız.<label data-l10n-name="unsupported-link">Daha fazla bilgi al</label>
 channel-description = Şu anda <label data-l10n-name="current-channel"></label> güncelleme kanalındasınız.{ " " }
 warningDesc-version = { -brand-short-name } deneyseldir ve kararsız olabilir.
+bottomLinks-license = Lisans Bilgileri
+bottomLinks-rights = Son Kullanıcı Hakları
+bottomLinks-privacy = Gizlilik İlkesi
