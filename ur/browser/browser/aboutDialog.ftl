@@ -6,4 +6,5 @@ update-applying = تازہ کاری لگائیں ...
 update-failed = تازہ کاری ناکام ہو گئی۔<label data-l10n-name="failed-link">تازہ ترین ورژن ڈاؤن لوڈ کریں</label>
 update-failed-main = تازہ کاری ناکام ہو گئی۔<a data-l10n-name="failed-link-main">تازہ ترین ورژن ڈاؤن لوڈ کریں</a>
 update-adminDisabled = تازہ کاریاں آپ کے نظام کے منتظم کی طرف سے نااہل شدہ ہیں
+update-otherInstanceHandlingUpdates = { -brand-short-name } ایک اور صورت سے تازہ ہو رہا ہے
 warningDesc-version = { -brand-short-name } تجرباتی ہے اور غیر مستحکم ہو سکتا ہے۔
