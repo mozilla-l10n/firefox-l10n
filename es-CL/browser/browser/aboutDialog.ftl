@@ -8,6 +8,9 @@ releaseNotes-link = Qué hay de nuevo
 update-checkForUpdatesButton =
     .label = Buscar actualizaciones
     .accesskey = C
+update-updateButton =
+    .label = Reiniciar para actualizar { -brand-shorter-name }
+    .accesskey = R
 update-checkingForUpdates = Buscando actualizaciones…
 update-downloading = <img data-l10n-name="icon"/>Bajando actualización — <label data-l10n-name="download-status"/>
 update-applying = Aplicando actualización
@@ -17,8 +20,15 @@ update-adminDisabled = Actualizaciones deshabilitadas por el administrador del s
 update-noUpdatesFound = { -brand-short-name } está actualizado
 update-otherInstanceHandlingUpdates = { -brand-short-name } esta siendo actualizado por otra instancia
 update-manual = Actualización disponible en <label data-l10n-name="manual-link"/>
+update-unsupported = Ya no puedes seguir actualizando en este sistema.<label data-l10n-name="unsupported-link">Aprender más</label>
+update-restarting = Reiniciando…
 channel-description = Estás en el canal de actualizaciones <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } es experimental y puede ser inestable.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> es una <label data-l10n-name="community-exp-creditsLink">comunidad mundial</label> que trabaja para mantener la web abierta, pública y accesible para todos.
+community-2 = { -brand-short-name } es diseñado por <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">comunidad mundial</label> que trabaja para mantener la web abierta, pública y accesible para todos.
+helpus = ¿Quieres ayudar? <label data-l10n-name="helpus-donateLink">¡Haz una donación</label> o <label data-l10n-name="helpus-getInvolvedLink">participa!</label>
 bottomLinks-license = Información de licencia
 bottomLinks-rights = Derechos del usuario final
 bottomLinks-privacy = Política de privacidad
+aboutDialog-architecture-sixtyFourBit = 64-bit
+aboutDialog-architecture-thirtyTwoBit = 32-bit
