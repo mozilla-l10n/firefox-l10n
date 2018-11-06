@@ -24,5 +24,8 @@ channel-description = Kasutusel on uuendustekanal <label data-l10n-name="current
 warningDesc-version = { -brand-short-name } on katsetamiseks ja võib olla ebastabiilne.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> on <label data-l10n-name="community-exp-creditsLink">üleilmne kogukond</label>, kes töötab koos, et hoida internet avatuna, avalikuna ja ilma igasuguste piiranguteta ligipääsetavana kõigile.
 helpus = Soovid aidata? <label data-l10n-name="helpus-donateLink">Tee annetus</label> või <label data-l10n-name="helpus-getInvolvedLink">löö kaasa!</label>
+bottomLinks-license = Litsentsist
 bottomLinks-rights = Kasutaja õigustest
 bottomLinks-privacy = Privaatsusreeglid
+aboutDialog-architecture-sixtyFourBit = 64-bitine
+aboutDialog-architecture-thirtyTwoBit = 32-bitine
