@@ -21,6 +21,7 @@ update-noUpdatesFound = { -brand-short-name } යාවත්කාලීනය�
 update-otherInstanceHandlingUpdates = බාහිරව ක්‍රියාකාරිත්වයක් මඟින් { -brand-short-name } යාවත් වී ඇත.
 update-manual = මෙහි යාවත්කාලීන තිබේ <label data-l10n-name="manual-link"/>
 update-unsupported = ඔබට මෙම පද්ධතිය මත තවත් යාවත් කිරීම් සිදු කළ නොහැක. <label data-l10n-name="unsupported-link">තවත් දැනගන්න</label>
+update-restarting = නැවත අරඹමින්…
 channel-description = You are currently on the <label data-l10n-name="current-channel"></label> update channel.{ " " }
 warningDesc-version = { -brand-short-name } පරීක්ෂාත්මක සහ ඇතැම් විට අස්ථායි තත්වයෙන් පවතී.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> යනු <label data-l10n-name="community-exp-creditsLink">ගෝලීය ප්‍රජාවකි</label> එය අන්තර්ජාලය විවෘත, පොදු, සහ සියල්ලන්ටම ප්‍රවේශ වීමට හැකි ලෙස පවත්වා ගැනීමට එක්ව වැඩ කරයි.
