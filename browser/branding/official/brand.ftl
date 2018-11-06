@@ -17,3 +17,4 @@
 -vendor-short-name = موزیلا
 -brand-full-name = موزیلا فایرفاکس
 -brand-shorter-name = فایرفاکس
+trademarkInfo = فایرفاکس و نشان‌های فایرفاکس، علائم تجاری بنیاد موزیلا محسوب می‌شوند.
