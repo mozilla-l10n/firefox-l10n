@@ -8,6 +8,9 @@ releaseNotes-link = Hva er nytt
 update-checkForUpdatesButton =
     .label = Søk etter oppdateringer
     .accesskey = S
+update-updateButton =
+    .label = Start på nytt for å oppdatere { -brand-shorter-name }
+    .accesskey = S
 update-checkingForUpdates = Søker etter oppdateringer …
 update-downloading = <img data-l10n-name="icon"/>Laster ned oppdatering — <label data-l10n-name="download-status"/>
 update-applying = Installerer oppdatering …
@@ -19,7 +22,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } blir oppdatert av en
 update-manual = Oppdateringer er tilgjengelig på <label data-l10n-name="manual-link"/>
 update-unsupported = Du kan ikke utføre flere oppdateringer på dette systemet. <label data-l10n-name="unsupported-link">Les mer</label>
 update-restarting = Starter på nytt…
+channel-description = Du bruker nå oppdateringskanalen <label data-l10n-name="current-channel"></label>.{ " " }
 warningDesc-version = { -brand-short-name } er eksperimentell, og kan være ustabil.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> er et <label data-l10n-name="community-exp-creditsLink">globalt samfunn</label> som jobber sammen for å holde nettet åpent, allment og tilgjengelig for alle.
+community-2 = { -brand-short-name } er utviklet av <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, et <label data-l10n-name="community-creditsLink">globalt samfunn</label> som arbeider sammen for å holde nettet åpent, allment og tilgjengelig for alle.
 helpus = Vil du hjelpe til? <label data-l10n-name="helpus-donateLink">Gi en donasjon</label> eller <label data-l10n-name="helpus-getInvolvedLink">involver deg!</label>
 bottomLinks-license = Lisensinfo
 bottomLinks-rights = Rettigheter for sluttbrukere
