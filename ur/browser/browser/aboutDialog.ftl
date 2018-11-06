@@ -5,6 +5,9 @@
 aboutDialog-title =
     .title = { -brand-full-name } کے متعلق
 releaseNotes-link = نیا کیا ہے
+update-checkForUpdatesButton =
+    .label = تازہ کاریوں کے لیے پڑتال کریں
+    .accesskey = C
 update-updateButton =
     .label = { -brand-shorter-name } کی تازہ کاری کرنے کے لیئے دوبارہ شروع کریں
     .accesskey = R
