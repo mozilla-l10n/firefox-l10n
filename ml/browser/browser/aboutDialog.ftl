@@ -30,3 +30,5 @@ helpus = സഹായം?<label data-l10n-name="helpus-donateLink">സംഭാ�
 bottomLinks-license = അനുമതി വിവരങ്ങള്‍
 bottomLinks-rights = ഉപയോക്തൃ അവകാശങ്ങള്‍
 bottomLinks-privacy = സ്വകാര്യതാ നയം
+aboutDialog-architecture-sixtyFourBit = 64-ബിറ്റ്
+aboutDialog-architecture-thirtyTwoBit = 32-ബിറ്റ്
