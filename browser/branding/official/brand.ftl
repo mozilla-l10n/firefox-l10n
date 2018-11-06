@@ -16,3 +16,5 @@
 -brand-short-name = Firefox
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
+-brand-shorter-name = Firefox
+trademarkInfo = Firefox și logourile Firefox sunt mărci înregistrate ale Mozilla Foundation.
