@@ -23,6 +23,8 @@ policy-Cookies = ওয়েবসাইট কুকি গ্রহণ বা �
 policy-DisableAppUpdate = ব্রাউজার আপডেট প্রতিরোধ করুন।
 policy-DisableBuiltinPDFViewer = { -brand-short-name } এর ডিফল্ট পিডিএফ ভিউয়ার, PDF.js নিস্ক্রিয় করুন।
 policy-DisableDeveloperTools = ডেভেলপার টুলের জন্য নিয়ন্ত্রন বন্ধ করুন।
+# Firefox Screenshots is the name of the feature, and should not be translated.
+policy-DisableFirefoxScreenshots = Firefox Screenshots এর ফিচার নিস্ক্রিয় করুন।
 policy-DisablePrivateBrowsing = ব্যক্তিগত ব্রাউজিং নিস্ক্রিয় করুন।
 policy-DisableTelemetry = Telemetry বন্ধ করুন।
 policy-DisplayBookmarksToolbar = ডিফল্টভাবে বুকমার্ক টুলবার দেখাও।

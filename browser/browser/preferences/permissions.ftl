@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = ব্যতিক্রমসমূহ - ট্রাকিং সুরক্ষা
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = এই সমস্ত ওয়েবসাইটে আপনি ট্র্যাকিং সুরক্ষা নিষ্ক্রিয় করে রেখেছেন।
+permissions-exceptions-content-blocking-window =
+    .title = ব্যতিক্রম - কন্টেন্ট ব্লকিং
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = আপনি এই ওয়েবসাইটগুলোতে কন্টেন্ট ব্লকিং নিস্ক্রিয় করেছেন।
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,9 @@ permissions-exceptions-addons-desc = কোন ওয়েবসাইটগুল
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = অনুমোদিত ওয়েবসাইট - স্বয়ংচালিত
+permissions-exceptions-autoplay-media-window2 =
+    .title = ব্যতিক্রম - অটোপ্লে
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = কোন ওয়েবসাইটে মাল্টিমিডিয়া স্বয়ংচালিত হবে, সেটি আপনি নির্দিষ্ট করে দিতে পারেন।  ওয়েব সাইটের সঠিক ঠিকানা টাইপ করুন এবং তারপরে ব্লক করুন, সেশনের জন্য অনুমতি দিন, বা অনুমতি দিন।
 permissions-exceptions-autoplay-media-desc2 = কোন ওয়েবসাইট সবসময় মাল্টিমিডিয়া সাউন্ড স্বয়ংচালনা করবে অথবা কোনটি কখনই করবে না তা আপনি নির্দিষ্ট করতে পারেন। ওয়েব সাইটের সঠিক ঠিকানা টাইপ করুন এবং তারপরে ব্লক করুন, সেশনের জন্য অনুমতি দিন, বা অনুমতি দিন।
 
 ## Site Permissions - Notifications
