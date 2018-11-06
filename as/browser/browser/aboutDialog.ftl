@@ -4,6 +4,9 @@
 
 aboutDialog-title =
     .title = { -brand-full-name } ৰ বিষয়ে
+update-checkForUpdatesButton =
+    .label = আপডেইটসমূহৰ বাবে নিৰীক্ষণ কৰক
+    .accesskey = C
 update-checkingForUpdates = আপডেইটসমূহৰ বাবে নীৰিক্ষণ কৰা হৈছে…
 update-downloading = <img data-l10n-name="icon"/>আপডেইট ডাউনল'ড কৰা হৈছে — <label data-l10n-name="download-status"/>
 update-applying = আপডেইট প্ৰয়োগ কৰা হৈছে…
@@ -18,6 +21,7 @@ channel-description = আপুনি বৰ্তমানে <label data-l10n-
 warningDesc-version = { -brand-short-name } পৰিক্ষামূলক আৰু অস্থিৰ হব পাৰে।
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> এটা <label data-l10n-name="community-exp-creditsLink">বিশ্বব্যাপী সম্প্ৰদায়</label> যি ৱেবক মুক্ত, ৰাজহুৱা আৰু সকলোৱে অভিগম কৰিব পৰা বনাবলে একেলগে কাম কৰি আছে।
 community-2 = { -brand-short-name } ৰূপাংকণ কৰিছে <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, এটা <label data-l10n-name="community-creditsLink">বিশ্বব্যাপী সম্প্ৰদায়</label> যি ৱেবক মুক্ত, ৰাজহুৱা আৰু সকলোৱে অভিগম কৰিব পৰা বনাবলে একেলগে কাম কৰি আছে।
+helpus = সহায় কৰিব বিচাৰে? <label data-l10n-name="helpus-donateLink">এটা বৰঙণি দিয়ক</label> অথবা <label data-l10n-name="helpus-getInvolvedLink">জড়িত হওক!</label>
 bottomLinks-license = অনুজ্ঞা তথ্য
 bottomLinks-rights = অন্ত-ব্যৱহাৰকাৰী অধিকাৰসমূহ
 bottomLinks-privacy = গোপনীয়তা নীতি
