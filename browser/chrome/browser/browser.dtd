@@ -952,7 +952,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "További témák letöltése">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
 <!ENTITY customizeMode.overflowList.title2 "Túlcsorduló menü">
-<!ENTITY customizeMode.overflowList.description "Húzzon és ejtsen ide elemeket, hogy az eszköztártól távol, de mégis kéznél legyenek…">
+<!ENTITY customizeMode.overflowList.description "Fogjon és vigyen ide elemeket, hogy az eszköztártól távol, de mégis kéznél legyenek…">
 <!ENTITY customizeMode.uidensity "Sűrűség">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -1070,6 +1070,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "t">
 <!ENTITY trackingProtection.block5.label "Blokkolás engedélyezése ezen az oldalon">
 <!ENTITY trackingProtection.block5.accesskey "e">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.reload2.label "Lap újratöltése">
 <!ENTITY trackingProtection.reload2.accesskey "r">
 
