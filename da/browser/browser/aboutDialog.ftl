@@ -8,6 +8,9 @@ releaseNotes-link = Nyheder
 update-checkForUpdatesButton =
     .label = Søg efter opdateringer
     .accesskey = S
+update-updateButton =
+    .label = Genstart for at opdatere { -brand-shorter-name }
+    .accesskey = G
 update-checkingForUpdates = Søger efter opdateringer…
 update-downloading = <img data-l10n-name="icon"/>Henter opdatering — <label data-l10n-name="download-status"/>
 update-applying = Installerer opdatering…
