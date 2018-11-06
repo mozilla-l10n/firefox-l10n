@@ -4,6 +4,8 @@
 
 aboutDialog-title =
     .title = Sobre o { -brand-full-name }
+update-applying = Aplicando atualização…
+warningDesc-version = O { -brand-short-name } é experimental e pode ser instável.
 bottomLinks-license = Informações de licenciamento
 bottomLinks-rights = Direitos do usuário final
 bottomLinks-privacy = Política de privacidade
