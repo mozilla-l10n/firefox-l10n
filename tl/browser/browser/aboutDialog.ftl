@@ -24,3 +24,4 @@ bottomLinks-license = Pinagtitibay ang Impormasyon
 bottomLinks-rights = Mga Karapatan ng Gumagamit
 bottomLinks-privacy = Patakarang Pangpribasiya
 aboutDialog-architecture-sixtyFourBit = 64-bit
+aboutDialog-architecture-thirtyTwoBit = 32-bit
