@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = ਬੋਲੀਆਂ
-    .style = width: 30em
 webpage-languages-window =
     .title = ਵੈੱਬਪੇਜ ਭਾਸ਼ਾ ਸੈਟਿੰਗਜ਼
     .style = width: 40em
@@ -45,3 +42,13 @@ browser-languages-window =
     .title = { -brand-short-name } ਭਾਸ਼ਾ ਸੈਟਿੰਗਜ਼
     .style = width: 40em
 browser-languages-description = { -brand-short-name } ਤੁਹਾਡੀ ਡਿਫਾਲਟ ਵਾਂਗ ਪਹਿਲੀ ਭਾਸ਼ਾ ਨੂੰ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰੇਗਾ ਅਤੇ ਜੇਕਰ ਲੋੜ ਹੋਈ ਤਾਂ ਕ੍ਰਮ ਵਿੱਚ ਬਦਲਵੀਂਆਂ ਭਾਸ਼ਾਵਾਂ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨਗੇ।
+browser-languages-search = ...ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਲਈ ਖੋਜੋ
+browser-languages-searching =
+    .label = ...ਭਾਸ਼ਾਵਾਂ ਲਈ ਖੋਜ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
+browser-languages-downloading =
+    .label = ...ਡਾਊਨੋਲਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+browser-languages-select-language =
+    .label = ...ਜੋੜਨ ਲਈ ਭਾਸ਼ਾ ਚੁਣੋ
+    .placeholder = ...ਜੋੜਨ ਲਈ ਭਾਸ਼ਾ ਚੁਣੋ
+browser-languages-installed-label = ਇੰਸਟਾਲ ਹੋਈਆਂ ਭਾਸ਼ਾਵਾਂ
+browser-languages-available-label = ਮੌਜੂਦ ਭਾਸ਼ਾਵਾਂ
