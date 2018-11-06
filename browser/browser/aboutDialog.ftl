@@ -7,6 +7,9 @@ aboutDialog-title =
 update-checkForUpdatesButton =
     .label = ソフトウェアの更新を確認
     .accesskey = C
+update-updateButton =
+    .label = 再起動して { -brand-shorter-name } を更新
+    .accesskey = R
 update-checkingForUpdates = ソフトウェアの更新を確認...
 update-downloading = <img data-l10n-name="icon"/>更新をダウンロード中 — <label data-l10n-name="download-status"/>
 update-applying = 更新を適用中...
@@ -23,3 +26,5 @@ helpus = 参加しませんか？ <label data-l10n-name="helpus-donateLink">寄�
 bottomLinks-license = ライセンス情報
 bottomLinks-rights = あなたの権利について
 bottomLinks-privacy = プライバシーポリシー
+aboutDialog-architecture-sixtyFourBit = 64 ビット
+aboutDialog-architecture-thirtyTwoBit = 32 ビット
