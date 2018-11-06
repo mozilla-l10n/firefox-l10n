@@ -8,6 +8,9 @@ releaseNotes-link = Novosti
 update-checkForUpdatesButton =
     .label = Preveri posodobitve
     .accesskey = P
+update-updateButton =
+    .label = Ponovno zaženi za posodobitev { -brand-shorter-name }a
+    .accesskey = Z
 update-checkingForUpdates = Preverjanje posodobitev …
 update-downloading = <img data-l10n-name="icon"/>Prenašanje posodobitev — <label data-l10n-name="download-status"/>
 update-applying = Nameščanje posodobitev …
@@ -15,6 +18,7 @@ update-failed = Posodobitev ni uspela. <label data-l10n-name="failed-link">Prene
 update-failed-main = Posodobitev ni uspela. <a data-l10n-name="failed-link-main">Prenesite najnovejšo različico</a>
 update-adminDisabled = Vaš sistemski skrbnik je onemogočil posodabljanje
 update-noUpdatesFound = { -brand-short-name } je posodobljen
+update-otherInstanceHandlingUpdates = { -brand-short-name } se posodablja v drugem primerku
 update-manual = Posodobitve so na voljo na <label data-l10n-name="manual-link"/>
 update-unsupported = Nadaljnje posodobitve niso več mogoče. <label data-l10n-name="unsupported-link">Več o tem</label>
 update-restarting = Ponovni zagon …
