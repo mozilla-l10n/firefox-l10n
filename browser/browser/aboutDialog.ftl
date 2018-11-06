@@ -26,6 +26,7 @@ channel-description = Folosești în prezent <label data-l10n-name="current-chan
 warningDesc-version = { -brand-short-name } este experimental și poate fi instabil.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> este o <label data-l10n-name="community-exp-creditsLink">comunitate globală</label> care lucrează împreună pentru a păstra webul deschis, public și accesibil tuturor.
 community-2 = { -brand-short-name } este conceput de <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, o <label data-l10n-name="community-creditsLink">comunitate globală</label> care lucrează împreună pentru a păstra webul deschis, public și accesibil tuturor.
+helpus = Vrei să ajuți? <label data-l10n-name="helpus-donateLink">Fă o donație</label> sau <label data-l10n-name="helpus-getInvolvedLink">implică-te!</label>
 bottomLinks-license = Informații privind licențierea
 bottomLinks-rights = Drepturile utilizatorului final
 bottomLinks-privacy = Politica de confidențialitate
