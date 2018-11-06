@@ -14,3 +14,5 @@
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
 -vendor-short-name = मजिला
+-brand-full-name = मजिला फायारफक्स
+trademarkInfo = फायारफक्स आरो फायारफक्स ल'ग'फोरा मजिला फाउन्डेसननि ट्रेडमार्क।

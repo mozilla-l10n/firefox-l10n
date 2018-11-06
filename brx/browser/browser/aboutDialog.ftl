@@ -1,0 +1,27 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+aboutDialog-title =
+    .title = { -brand-full-name } नि सोमोन्दै
+update-checkForUpdatesButton =
+    .label = आपडेटखौ आनजाद खालाम
+    .accesskey = C
+update-checkingForUpdates = आपडेटफोरनि थाखाय आनजाद खालाम
+update-downloading = <img data-l10n-name="icon"/>आपडेटखौ डाउनल'ड खालाम गासिनो दं — <label data-l10n-name="download-status"/>
+update-applying = आपडेटखौ बाहायगासिनो दं...
+update-failed = आपडेट खालामनाया फेलें जाबाय।<label data-l10n-name="failed-link">गोदानथार लिरस्लायनायखौ डाउनल'ड खालाम</label>
+update-failed-main = आपडेट खालामनाया फेलें जाबाय।<a data-l10n-name="failed-link-main">गोदानथार लिरस्लायनायखौ डाउनल'ड खालाम</a>
+update-adminDisabled = आपडेटफोरखौ नोंथांनि सिस्टेम खुंगिरिजों लोरबां खालामनाय जाबाय
+update-noUpdatesFound = { -brand-short-name } आ गोदान
+update-otherInstanceHandlingUpdates = { -brand-short-name } आ गुबुन मोनसे बिदिन्थिजों आपडेट खालामजागासिनो दं।
+update-manual = ..आव आपडेटफोर दं<label data-l10n-name="manual-link"/>
+update-unsupported = नोंथाङा बे सिस्टेमआव आरोबाव आपडेट खालामनो हाया।<label data-l10n-name="unsupported-link">गोबां सोलों</label>
+channel-description = नोंथाङा दासान्दि दं<label data-l10n-name="current-channel"></label>सेनेलखौ आपडेट खालाम।
+warningDesc-version = { -brand-short-name } आ आनजादलु आरो दिदोमनङै जानो हागौ।
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>आ मोनसे<label data-l10n-name="community-exp-creditsLink">बुहुमनां माहारि</label>वेबखौ खेवनानै दोननो, राइजो-राजा आरो बयबो हाबहो हाथाव खालामनो जयै खामानि मावगासिनो दं
+community-2 = ..जों { -brand-short-name } खौ डिजाइन खालामनाय जाबाय<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">बुहुमनां माहारि</label>वेबखौ खेवनानै दोननो, राइजो-राजा आरो बयबो हाबहो हाथाव खालामनो जयै खामानि मावगासिनो दं
+helpus = मदद खालामनो लुबैयो? <label data-l10n-name="helpus-donateLink">दान खालाम</label>एबा<label data-l10n-name="helpus-getInvolvedLink">थाफादेर!</label>
+bottomLinks-license = लाइसेन्सिं फोरमायथिहोग्रा
+bottomLinks-rights = जोबथा-बाहायग्रा मोनथाइ
+bottomLinks-privacy = गुमुरगोनां पलिसि
