@@ -16,6 +16,7 @@ update-failed-main = La actualización falló. <a data-l10n-name="failed-link-m
 update-noUpdatesFound = { -brand-short-name } está actualizado
 update-otherInstanceHandlingUpdates = { -brand-short-name } está actualizándose desde otra instancia
 update-manual = Actualizaciones disponibles en <label data-l10n-name="manual-link"/>
+update-restarting = Reiniciando…
 warningDesc-version = { -brand-short-name } es experimental y podría ser inestable.
 bottomLinks-license = Información de licencia
 bottomLinks-rights = Derechos del usuario final
