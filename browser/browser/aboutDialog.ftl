@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+releaseNotes-link = ਨਵਾਂ ਕੀ ਹੈ
 update-checkingForUpdates = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
 update-downloading = <img data-l10n-name="icon"/>ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ — <label data-l10n-name="download-status"/>
 update-applying = …ਅੱਪਡੇਟ ਲਾਗੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
@@ -16,4 +17,9 @@ channel-description = ਇਸ ਸਮੇਂ ਤੁਸੀਂ <label data-l10n-name=
 warningDesc-version = { -brand-short-name } ਤਜਰਬੇ ਅਧੀਨ ਹੈ ਅਤੇ ਅਸਥਿਰ ਹੋ ਸਕਦਾ ਹੈ।
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ਇੱਕ <label data-l10n-name="community-exp-creditsLink">ਗਲੋਬਲ ਕਮਿਊਨਟੀ</label> ਹੈ ਜੋ ਰਲ ਕੇ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਖੁੱਲ੍ਹਾ, ਪਬਲਿਕ ਅਤੇ ਵਰਤੋਂ ਯੋਗ ਰੱਖਣ ਲਈ ਜਤਨਸ਼ੀਲ ਹੈ।
 community-2 = { -brand-short-name } ਨੂੰ ਤਿਆਰ ਕੀਤਾ ਹੈ <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> ਨੇ, ਜੋ ਇੱਕ <label data-l10n-name="community-creditsLink">ਗਲੋਬਲ ਕਮਿਊਨਟੀ ਹੈ,</label> ਜੋ ਰਲ ਕੇ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਖੁੱਲ੍ਹਾ, ਪਬਲਿਕ ਅਤੇ ਵਰਤੋਂ ਯੋਗ ਰੱਖਣ ਲਈ ਜਤਨਸ਼ੀਲ ਹੈ।
+helpus = ਮਦਦ ਚਾਹੀਦੀ ਹੈ? <label data-l10n-name="helpus-donateLink">ਦਾਨ ਦਿਉ</label> ਜਾਂ <label data-l10n-name="helpus-getInvolvedLink">ਭਾਗ ਲਵੋ!</label>
 bottomLinks-license = ਕਾਨੂੰਨੀ ਜਾਣਕਾਰੀ
+bottomLinks-rights = ਅੰਤਮ ਵਰਤੋਂਕਾਰ ਦੇ ਹੱਕ
+bottomLinks-privacy = ਪਰਦੇਦਾਰੀ ਨੀਤੀ
+aboutDialog-architecture-sixtyFourBit = 64-ਬਿੱਟ
+aboutDialog-architecture-thirtyTwoBit = 32-ਬਿੱਟ
