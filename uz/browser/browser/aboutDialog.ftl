@@ -25,6 +25,7 @@ update-restarting = Qayta ishga tushirilmoqda…
 channel-description = Siz hozirda <label data-l10n-name="current-channel"></label> yangilash kanalidasiz.
 warningDesc-version = { -brand-short-name } sinovdagi versiya, shuning uchun yaxshi ishlamasligi mumkin.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> -      <label data-l10n-name="community-exp-creditsLink">global jamoasi tomonidan tuzilgan.</label> Ushbu jamoa internetga har qanday inson kira olishini osonlashtirish uchun hamkorlikda ishlaydi.
+community-2 = { -brand-short-name } –  <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">global jamoasii tomonidan tuzilgan. </label> Ular internetga har qanday inson kira olishini osonlashtirish uchun hamorlikda ishlashadi.
 helpus = Yordam bermoqchimisiz? <label data-l10n-name="helpus-donateLink">Xayriya qiling</label> yoki <label data-l10n-name="helpus-getInvolvedLink">jamoaga qo‘shiling!</label>
 bottomLinks-license = Litsenziya ma’lumotlari
 bottomLinks-rights = Foydalanish shartlari
