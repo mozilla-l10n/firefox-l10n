@@ -13,5 +13,6 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-short-name = Firefox 
+-brand-short-name = Firefox
 -vendor-short-name = Mozilla
+trademarkInfo = Firefox ne'bipapi byayo bye bituunda Mozilla Foundation.
