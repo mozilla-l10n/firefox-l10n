@@ -8,6 +8,9 @@ releaseNotes-link = Kas jauns
 update-checkForUpdatesButton =
     .label = Pārbaudīt atjauninājumus
     .accesskey = P
+update-updateButton =
+    .label = Pārstartēt { -brand-shorter-name }, lai atjauninātu
+    .accesskey = R
 update-checkingForUpdates = Meklē atjauninājumus…
 update-downloading = <img data-l10n-name="icon"/>Lejupielādē atjauninājumu — <label data-l10n-name="download-status"/>
 update-applying = Instalē atjauninājumu…
@@ -18,6 +21,7 @@ update-noUpdatesFound = { -brand-short-name } nav atjauninājumu
 update-otherInstanceHandlingUpdates = { -brand-short-name } šobrīd atjaunina cita instance
 update-manual = Atjauninājumi ir pieejami te<label data-l10n-name="manual-link"/>
 update-unsupported = Papildus atjauninājumi šajā sistēmā nav iespējami. <label data-l10n-name="unsupported-link">Uzzināt vairāk</label>
+update-restarting = Notiek pārstartēšana…
 channel-description = Šobrīd jūs izmantojat <label data-l10n-name="current-channel"></label> atjauninājumu kanālu.{ " " }
 warningDesc-version = { -brand-short-name } atrodas izstrādes procesā un var būt ar nepilnībām.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ir <label data-l10n-name="community-exp-creditsLink">globāla kopiena</label> , kas strādā, lai internets būtu atvērts, publisks un visiem pieejams.
@@ -26,3 +30,5 @@ helpus = Gribi palīdzēt? <label data-l10n-name="helpus-donateLink">Ziedojiet</
 bottomLinks-license = Licencēšanas informācija
 bottomLinks-rights = Gala lietotāja tiesības
 bottomLinks-privacy = Privātuma politika
+aboutDialog-architecture-sixtyFourBit = 64-bitu
+aboutDialog-architecture-thirtyTwoBit = 32-bitu
