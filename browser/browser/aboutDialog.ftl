@@ -30,3 +30,5 @@ helpus = උදව් දීමට කැමති ද? <label data-l10n-name="
 bottomLinks-license = බලපත්‍ර තොරතුරු
 bottomLinks-rights = පරිශීලක අයිතීන්
 bottomLinks-privacy = පෞද්ගලිකත්ව ප්‍රතිපත්තිය
+aboutDialog-architecture-sixtyFourBit = 64-bit
+aboutDialog-architecture-thirtyTwoBit = 32-bit
