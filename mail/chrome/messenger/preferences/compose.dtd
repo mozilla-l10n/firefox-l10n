@@ -20,6 +20,10 @@
 <!ENTITY font.accesskey                       "n">
 <!ENTITY size.label                           "Mărime:">
 <!ENTITY size.accesskey                       "M">
+<!ENTITY fontSize.label                       "Mărime:">
+<!ENTITY fontSize.accesskey                   "z">
+<!ENTITY useReaderDefaults.label              "Folosește culorile implicite ale cititorului">
+<!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "Culoare text:">
 <!ENTITY fontColor.accesskey                  "x">
 <!ENTITY bgColor.label                        "Culoare fundal:">

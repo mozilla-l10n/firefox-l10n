@@ -107,3 +107,6 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește o tehnologie de securitate depășită și vulnerabilă la atacuri. Un atacator ar putea dezvălui cu ușurință informații pe care le credeați în siguranță. Administratorul site-ului web va trebui să repare mai întâi serverul ca să puteți intra pe site.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagină blocată">
+
+<!ENTITY networkProtocolError.title "Eroare protocol de rețea">
+<!ENTITY networkProtocolError.longDesc "<p>Pagina pe care încerci să o vizualizezi nu poate fi afișată deoarece a fost detectată o eroare la protocolul de rețea. </p><ul><li>Te rugăm să contactezi proprietarii site-ului și informează-i despre această problemă.</li></ul>">
