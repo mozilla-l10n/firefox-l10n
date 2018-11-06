@@ -8,6 +8,9 @@ releaseNotes-link = 有什麼新鮮事
 update-checkForUpdatesButton =
     .label = 檢查更新
     .accesskey = C
+update-updateButton =
+    .label = 重新啟動以更新 { -brand-shorter-name }
+    .accesskey = R
 update-checkingForUpdates = 正在檢查更新…
 update-downloading = <img data-l10n-name="icon"/>正在下載更新 — <label data-l10n-name="download-status"/>
 update-applying = 正在套用更新…
@@ -27,3 +30,5 @@ helpus = 想幫忙嗎？<label data-l10n-name="helpus-donateLink">捐款給我�
 bottomLinks-license = 授權資訊
 bottomLinks-rights = 使用者權利
 bottomLinks-privacy = 隱私權保護政策
+aboutDialog-architecture-sixtyFourBit = 64 位元
+aboutDialog-architecture-thirtyTwoBit = 32 位元
