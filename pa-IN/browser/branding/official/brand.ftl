@@ -17,3 +17,4 @@
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
 -brand-shorter-name = Firefox
+trademarkInfo = ਫਾਇਰਫਾਕਸ ਅਤੇ ਫਾਇਰਫਾਕਸ ਲੋੋਗੋ ਮੌਜ਼ੀਲਾ ਫਾਊਂਡੇਸ਼ਨ ਦੇ ਮਾਰਕੇ ਹਨ।
