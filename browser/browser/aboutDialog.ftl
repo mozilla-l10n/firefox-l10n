@@ -4,13 +4,20 @@
 
 aboutDialog-title =
     .title = Informaçioin rigoardo { -brand-full-name }
+releaseNotes-link = Novitæ
+update-checkForUpdatesButton =
+    .label = Contròlla agiornamenti
+    .accesskey = C
 update-checkingForUpdates = Çerco i agiornamenti…
 update-downloading = <img data-l10n-name="icon"/>Descarego agiornamenti — <label data-l10n-name="download-status"/>
+update-applying = Instalaçion de l'agiornamento…
 update-failed = Agiornamento no ariescio. <label data-l10n-name="failed-link">Descarega l'urtima verscion</label>
 update-failed-main = Agiornamento no ariescio. <a data-l10n-name="failed-link-main">Descarega l'urtima verscion</a>
 update-adminDisabled = I agiornamenti en dizabilitæ da-o teu aministratô do scistema
 update-noUpdatesFound = { -brand-short-name } o l'é agiornou
+update-otherInstanceHandlingUpdates = Agiornamento de { -brand-short-name } inte n'atra istansa
 update-manual = I agiornamenti en in <label data-l10n-name="manual-link"/>
+update-unsupported = No l'é poscibile instalâ atri agiornamenti in sce sto scistema.<label data-l10n-name="unsupported-link">Atre informaçioin</label>
 channel-description = Oua ti ê into canâ de agiornamento <label data-l10n-name="current-channel"></label>.{ " " }
 warningDesc-version = { -brand-short-name } o l'é sperimentale e o peu ese instabile.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> a l'é 'na <label data-l10n-name="community-exp-creditsLink">comunitæ globale</label> ch'a travaggia insemme pe mantegnî a Ræ averta, pubrica e acesibile a tutti.
