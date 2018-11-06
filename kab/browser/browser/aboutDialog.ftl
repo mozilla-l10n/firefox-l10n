@@ -8,6 +8,7 @@ update-checkForUpdatesButton =
 update-downloading = <img data-l10n-name="icon"/>Asider n lqem—  <label data-l10n-name="download-status"/>
 update-applying = Asnas n uleqqem..{ " " }
 update-noUpdatesFound = { -brand-short-name } yettwaleqqem
+update-manual = Ileqman llan deg  <label data-l10n-name="manual-link"/>
 warningDesc-version = { -brand-short-name } d armitan yerna ur yerkid.
 aboutDialog-architecture-sixtyFourBit = 64-ibiten
 aboutDialog-architecture-thirtyTwoBit = 32-ibiten
