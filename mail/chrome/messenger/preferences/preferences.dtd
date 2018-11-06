@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Speciális">
 <!ENTITY paneAccount.title        "Postafiókok">
 
+<!ENTITY addonsButton.label       "Bővítmények és témák">
+
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">
