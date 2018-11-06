@@ -5,3 +5,4 @@
 aboutDialog-title =
     .title = { -brand-full-name } നെ കുറിച്ചു്
 update-noUpdatesFound = { -brand-short-name } ഏറ്റവും പുതിയതാണു്
+warningDesc-version = { -brand-short-name } പരീക്ഷണാര്‍ത്ഥമുള്ളതാകുന്നു, അതിനാല്‍ അസ്ഥിരവുമാകുന്നു.
