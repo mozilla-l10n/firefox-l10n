@@ -23,4 +23,5 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } תוכנן על־ידי <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">קהילה עולמית</label> שמשימתה היא להשאיר את הרשת פתוחה, ציבורית ונגישה לכולם.
 helpus = מעוניינים לסייע? <label data-l10n-name="helpus-donateLink">תרמו לנו</label> או <label data-l10n-name="helpus-getInvolvedLink">הצטרפו אלינו!</label>
 bottomLinks-license = מידע רישוי
+bottomLinks-rights = זכויות משתמש קצה
 bottomLinks-privacy = מדיניות פרטיות
