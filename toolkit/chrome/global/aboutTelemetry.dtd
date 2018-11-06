@@ -32,9 +32,6 @@ Juster
 <!ENTITY aboutTelemetry.optionGroupOlder "
 Alder
 ">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Nettolading
-">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -52,6 +49,8 @@ De <a>Firefox Telemetry-clientdokumintaasje</a> befettet definysjes foar konsept
 <!ENTITY aboutTelemetry.telemetryDashboard "
 Mei de <a>Telemetry-dashboerds</a> kinne jo de gegevens fisualisearje dy't Mozilla fia Telemetry ûntfangt.
 ">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "De <a>Probe Dictionary</a> biedt details en beskriuwingen foar de probes dy't troch Telemetry sammele wurde.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 Iepenje yn de JSON-viewer
@@ -85,14 +84,8 @@ Iepenje yn de JSON-viewer
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Ienfâldige mjittingen
 ">
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Telemetry-lochboek
-">
 <!ENTITY aboutTelemetry.slowSqlSection "
   Trage SQL Statements
-">
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Browser fêstrinners
 ">
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Add-on-details
