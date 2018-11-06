@@ -8,6 +8,9 @@ releaseNotes-link = નવું શું છે
 update-checkForUpdatesButton =
     .label = સુધારા માટે ચકાસો
     .accesskey = સી
+update-updateButton =
+    .label = અપડેટ કરવા માટે પુનઃપ્રારંભ કરો { -brand-shorter-name }
+    .accesskey = આર
 update-checkingForUpdates = સુધારાઓને ચકાસી રહ્યા છે…
 update-downloading = <img data-l10n-name="icon"/>સુધારાને ડાઉનલોડ કરી રહ્યા છે — <label data-l10n-name="download-status"/>
 update-applying = સુધારા લાગુ કરી રહ્યા છે…
@@ -27,3 +30,5 @@ helpus = મદદ કરવા માંગો છો?<label data-l10n-name="he
 bottomLinks-license = પરવાના માહિતી
 bottomLinks-rights = અંતિમ વપરાશકર્તા હકો
 bottomLinks-privacy = ગોપનીયતા નીતિ
+aboutDialog-architecture-sixtyFourBit = 64-બીટ
+aboutDialog-architecture-thirtyTwoBit = 32-બીટ
