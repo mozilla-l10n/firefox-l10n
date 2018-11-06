@@ -5,6 +5,9 @@
 aboutDialog-title =
     .title = Пра { -brand-full-name }
 releaseNotes-link = Што новага
+update-updateButton =
+    .label = Перазапуск для абнаўлення { -brand-shorter-name }
+    .accesskey = П
 update-checkingForUpdates = Праверка існавання абнаўленняў…
 update-downloading = <img data-l10n-name="icon"/>Сцягванне абнаўлення — <label data-l10n-name="download-status"/>
 update-failed = Няўдача абнаўлення. <label data-l10n-name="failed-link">Сцягнуць апошнюю версію</label>
@@ -20,3 +23,5 @@ helpus = Хочаце дапамагчы? <label data-l10n-name="helpus-donateLi
 bottomLinks-license = Звесткі пра ліцэнзію
 bottomLinks-rights = Правы канчатковага карыстальніка
 bottomLinks-privacy = Палітыка прыватнасці
+aboutDialog-architecture-sixtyFourBit = 64-біт
+aboutDialog-architecture-thirtyTwoBit = 32-біт
