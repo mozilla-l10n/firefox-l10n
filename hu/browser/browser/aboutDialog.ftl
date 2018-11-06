@@ -4,9 +4,13 @@
 
 aboutDialog-title =
     .title = A { -brand-full-name } névjegye
+releaseNotes-link = Újdonságok
 update-checkForUpdatesButton =
     .label = Frissítések keresése
     .accesskey = F
+update-updateButton =
+    .label = Újraindítás a { -brand-shorter-name } frissítéséhez
+    .accesskey = R
 update-checkingForUpdates = Frissítések keresése…
 update-downloading = <img data-l10n-name="icon"/>Frissítés letöltése — <label data-l10n-name="download-status"/>
 update-applying = Frissítés alkalmazása…
@@ -16,6 +20,14 @@ update-adminDisabled = A frissítéseket a rendszergazda letiltotta
 update-noUpdatesFound = A { -brand-short-name } naprakész
 update-otherInstanceHandlingUpdates = A { -brand-short-name } frissítése folyamatban egy másik példány által
 update-manual = Frissítés elérhető: <label data-l10n-name="manual-link"/>
+update-unsupported = Nem végezhet további frissítéseket ezen a rendszeren.<label data-l10n-name="unsupported-link">További tudnivalók</label>
+update-restarting = Újraindítás…
 channel-description = Jelenleg a(z) <label data-l10n-name="current-channel"></label> frissítési csatornát használja.
 warningDesc-version = A { -brand-short-name } kísérleti és esetleg instabil.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> egy <label data-l10n-name="community-exp-creditsLink">nemzetközi közösség</label>, amely a nyílt, nyilvános és mindenki számára elérhető világhálóért dolgozik.
+helpus = Szeretne segíteni? <label data-l10n-name="helpus-donateLink">Támogasson,</label> vagy <label data-l10n-name="helpus-getInvolvedLink">vegyen részt a munkánkban!</label>
+bottomLinks-license = Licencinformációk
 bottomLinks-rights = Végfelhasználói jogok
+bottomLinks-privacy = Adatvédelmi irányelvek
+aboutDialog-architecture-sixtyFourBit = 64 bites
+aboutDialog-architecture-thirtyTwoBit = 32 bites
