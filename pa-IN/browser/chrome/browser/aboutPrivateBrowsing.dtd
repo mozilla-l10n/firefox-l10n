@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " ਤੁਹਾਡੇ:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "ਡਾਊਨਲੋਡ">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "ਬੁੱਕਮਾਰਕ">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "ਲਿਖਤ ਕਾਪੀ ਕੀਤੀ">
 <!ENTITY aboutPrivateBrowsing.note.before                "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਰਿੰਗ ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ਤੁਹਾਨੂੰ ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਅਣਪਛਾਤਾ ਨਹੀਂ ">
 <!ENTITY aboutPrivateBrowsing.note.after                 " ਬਣਾਉਂਦੀ ਹੈ। ਤੁਹਾਡੀ ਕੰਪਨੀ ਜਾਂ ਇੰਟਰਨੈੱਟ ਸੇਵਾ ਦੇਣ ਵਾਲੇ ਫਿਰ ਵੀ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼ਿਆਂ ਬਾਰੇ ਜਾਣ ਸਕਦੇ ਹਨ।">
@@ -29,4 +30,7 @@
 
 <!ENTITY trackingProtection.title                        "ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ">
 <!ENTITY trackingProtection.description2                 "ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਟਰੈਕਰਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦੀਆਂ ਹਨ, ਜੋ ਕਿ ਇੰਟਰਨੈੱਟ ਉੱਤੇ ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖ ਸਕਦੇ ਹਨ। ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ ਨਾਲ ਫਾਇਰਫਾਕਸ ਕਈ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦਾ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਰਵੱਈਏ ਬਾਰੇ ਜਾਣਕਾਰੀ ਇਕੱਤਰ ਕਰ ਸਕਦੇ ਹਨ।">
+
 <!ENTITY trackingProtection.startTour1                   "ਵੇਖੋ ਕਿ ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ">
+
+<!ENTITY contentBlocking.title                           "ਸਮੱਗਰੀ ਪਾਬੰਦੀ">
