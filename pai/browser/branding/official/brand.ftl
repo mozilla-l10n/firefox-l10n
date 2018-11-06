@@ -16,4 +16,5 @@
 -brand-short-name = Firefox
 -vendor-short-name = Mozil
 -brand-full-name = Mozil Firefox
+-brand-shorter-name = Firefox
 trademarkInfo = Firefox e logotip firefox wiha paytum fundacion Mozilha wihan
