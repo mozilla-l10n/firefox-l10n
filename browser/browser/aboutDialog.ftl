@@ -20,3 +20,5 @@ warningDesc-version = { -brand-short-name } es experimental y podría ser inesta
 bottomLinks-license = Información de licencia
 bottomLinks-rights = Derechos del usuario final
 bottomLinks-privacy = Política de privacidad
+aboutDialog-architecture-sixtyFourBit = 64-bits
+aboutDialog-architecture-thirtyTwoBit = 32-bits
