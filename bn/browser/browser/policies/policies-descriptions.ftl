@@ -21,3 +21,6 @@ policy-Certificates = অভ্যন্তরীণ সার্টিফিক
 policy-Cookies = ওয়েবসাইট কুকি গ্রহণ বা প্রত্যাখ্যান।
 policy-DisableAppUpdate = ব্রাউজার আপডেট প্রতিরোধ করুন।
 policy-DisableBuiltinPDFViewer = { -brand-short-name } এর ডিফল্ট পিডিএফ ভিউয়ার, PDF.js নিস্ক্রিয় করুন।
+policy-DisablePrivateBrowsing = ব্যক্তিগত ব্রাউজিং নিস্ক্রিয় করুন।
+policy-DisableTelemetry = Telemetry বন্ধ করুন।
+policy-DisplayBookmarksToolbar = ডিফল্টভাবে বুকমার্ক টুলবার দেখাও।
