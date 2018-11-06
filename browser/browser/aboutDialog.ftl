@@ -19,6 +19,7 @@ update-failed-main = सुधारणा अपयशी. <a data-l10n-name="f
 update-adminDisabled = प्रणाली प्रशासकाद्वारे सुधारणा बंद केल्या आहेत
 update-noUpdatesFound = { -brand-short-name } अद्ययावत आहे
 update-otherInstanceHandlingUpdates = { -brand-short-name } यावेळी वेगळ्या ठिकाणाहून सुधारित होत आहे
+update-manual = सुधारणा येथे उपलब्ध आहेत <label data-l10n-name="manual-link"/>
 update-restarting = पुनःसुरु होत आहे…
 channel-description = आपण सध्या <label data-l10n-name="current-channel"></label> सुधारणा वाहिनीवर आहात.{ " " }
 warningDesc-version = { -brand-short-name } प्रायोगिक आहे व अस्थिर असू शकते.
