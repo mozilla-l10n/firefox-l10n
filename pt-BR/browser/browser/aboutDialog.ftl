@@ -4,3 +4,6 @@
 
 aboutDialog-title =
     .title = Sobre o { -brand-full-name }
+bottomLinks-license = Informações de licenciamento
+bottomLinks-rights = Direitos do usuário final
+bottomLinks-privacy = Política de privacidade
