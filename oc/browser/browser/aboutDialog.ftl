@@ -4,9 +4,12 @@
 
 aboutDialog-title =
     .title = A prepaus de { -brand-full-name }
+update-downloading = <img data-l10n-name="icon"/>Telecargament de mesa a jorn — <label data-l10n-name="download-status"/>
 update-applying = Aplicacion de la mesa a jorn…
 update-adminDisabled = Las mesas a jorn son desactivadas per vòstre administrator del sistèma
 update-noUpdatesFound = { -brand-short-name } es a jorn
+update-manual = Mesas a jorn disponiblas a <label data-l10n-name="manual-link"/>
+channel-description = Actualament, utilizatz lo canal de mesa a jorn <label data-l10n-name="current-channel"></label> per metre a jorn.{ " " }
 warningDesc-version = { -brand-short-name } es experimental e pòt èsser instable.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> es una <label data-l10n-name="community-exp-creditsLink">comunautat mondiala</label> de contributors que trabalhan amassa per gardar Internet dobèrt, public e accessible a totes.
 community-2 = { -brand-short-name } es concebut per <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">contributors</label> que trabalhan amassa per gardar Internet dobèrt, public e accessible a totes.
