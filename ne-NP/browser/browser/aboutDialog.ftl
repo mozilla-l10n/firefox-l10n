@@ -16,6 +16,7 @@ update-failed-main = अद्यावधिक असफल भयो। <a da
 update-adminDisabled = तपाईँको प्रणाली प्रशासकद्वारा अद्यावधिकहरू असक्षम पारिएको छ
 update-noUpdatesFound = { -brand-short-name } नयाँ संस्करणमा छ
 update-otherInstanceHandlingUpdates = { -brand-short-name } लाई अर्को सत्रले अद्यावधिक गर्दैछ
+update-manual = अद्यावधिकहरू यहाँ उपलब्ध छन् <label data-l10n-name="manual-link"/>
 update-unsupported = यो सिस्टममा तपाईँले अरू अद्यावधिकहरू गर्न सक्नुहुन्न।<label data-l10n-name="unsupported-link">अझ जान्नुहोस्</label>
 channel-description = तपाईँ अहिले भएको स्थान <label data-l10n-name="current-channel"></label> अद्यावधिक प्रणालीमा हुनुहुन्छ।
 warningDesc-version = { -brand-short-name } परीक्षणकालमा छ त्यसैले अलि अस्थिर हुन सक्छ।
