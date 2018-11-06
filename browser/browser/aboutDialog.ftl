@@ -4,6 +4,7 @@
 
 aboutDialog-title =
     .title = { -brand-full-name } 정보
+releaseNotes-link = 새로운 기능
 update-checkForUpdatesButton =
     .label = 업데이트 확인
     .accesskey = C
