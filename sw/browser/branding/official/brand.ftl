@@ -15,3 +15,5 @@
 
 -brand-short-name = Firefox
 -vendor-short-name = Mozilla
+-brand-full-name = Mozilla Firefox
+trademarkInfo = Firefox na nembo za Firefox ni alama za biashara za Wakfu wa Mozilla.
