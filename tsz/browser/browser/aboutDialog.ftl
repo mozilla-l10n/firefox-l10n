@@ -4,6 +4,9 @@
 
 aboutDialog-title =
     .title = Ampeeski i { -brand-full-name }
+update-checkForUpdatesButton =
+    .label = Jimpanki ampe jirhinhant'ani
+    .accesskey = J
 update-checkingForUpdates = Jimpanhe ampe jirhinhantaxati…
 update-downloading = <img data-l10n-name="icon"/>Jatsirantaxati jimpanhe ma — <label data-l10n-name="download-status"/>
 update-applying = Iasi anapu ampe úrani jarhani…
