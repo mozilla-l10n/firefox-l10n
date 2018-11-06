@@ -8,6 +8,9 @@ releaseNotes-link = Yang baru
 update-checkForUpdatesButton =
     .label = Periksa versi baru
     .accesskey = P
+update-updateButton =
+    .label = Mulai ulang untuk memutakhirkan { -brand-shorter-name }
+    .accesskey = U
 update-checkingForUpdates = Memeriksa versi baru…
 update-downloading = <img data-l10n-name="icon"/>Mengunduh versi baru — <label data-l10n-name="download-status"/>
 update-applying = Menerapkan pemutakhiran…
