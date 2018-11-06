@@ -17,6 +17,7 @@ update-noUpdatesFound = { -brand-short-name } עדכני
 update-otherInstanceHandlingUpdates = { -brand-short-name } מתעדכן ברגעים אלו באמצעות תהליך אחר
 update-manual = עדכונים זמינים ב־<label data-l10n-name="manual-link"/>
 update-unsupported = לא ניתן לבצע עדכונים נוספים במערכת זו.<label data-l10n-name="unsupported-link">מידע נוסף</label>
+update-restarting = מתבצעת הפעלה מחדש…
 channel-description = כרגע על ערוץ העדכונים <label data-l10n-name="current-channel"></label>.{ "  " }
 warningDesc-version = תוכנת { -brand-short-name } היא נסיונית וייתכן שלא תהיה יציבה.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> היא <label data-l10n-name="community-exp-creditsLink">קהילה עולמית</label> שמשימתה היא להשאיר את הרשת פתוחה, ציבורית ונגישה לכולם.
@@ -25,3 +26,5 @@ helpus = מעוניינים לסייע? <label data-l10n-name="helpus-donateLink
 bottomLinks-license = מידע רישוי
 bottomLinks-rights = זכויות משתמש קצה
 bottomLinks-privacy = מדיניות פרטיות
+aboutDialog-architecture-sixtyFourBit = 64 סיביות
+aboutDialog-architecture-thirtyTwoBit = 32 סיביות
