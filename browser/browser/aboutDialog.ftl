@@ -10,9 +10,13 @@ update-failed = Bywerking het misluk. <label data-l10n-name="failed-link">Laai d
 update-failed-main = Bywerking het misluk. <a data-l10n-name="failed-link-main">Laai die jongste weergawe af</a>
 update-adminDisabled = Bywerking deur die stelseladministrateur gedeaktiveer
 update-noUpdatesFound = { -brand-short-name } is op datum
+update-otherInstanceHandlingUpdates = { -brand-short-name } word tans bygewerk deur 'n ander programkopie
 update-manual = Bywerkings beskikbaar by <label data-l10n-name="manual-link"/>
+update-unsupported = U kan nie verdere bywerkings op dié stelsel doen nie. <label data-l10n-name="unsupported-link">Meer inligting</label>
 channel-description = U is tans op die <label data-l10n-name="current-channel"></label>-bywerkkanaal.{ " " }
 warningDesc-version = { -brand-short-name } is eksperimenteel en moontlik onstabiel.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> is 'n <label data-l10n-name="community-exp-creditsLink">wêreldwye gemeenskap</label> wat saamwerk om die Web oop, publiek en toeganklik vir almal te hou.
+community-2 = { -brand-short-name } word ontwerp deur <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, 'n <label data-l10n-name="community-creditsLink">wêreldwye gemeenskap</label> wat saamwerk om die Web oop, publiek en toeganklik vir almal te hou.
 bottomLinks-license = Lisensiëringinligting
 bottomLinks-rights = Eindgebruikerregte
 bottomLinks-privacy = Privaatheidbeleid
