@@ -16,3 +16,4 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = ki defar { -brand-short-name } moodi <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, mbootaay bu wër aduna bu<label data-l10n-name="community-creditsLink">jàppalekat yi</label> di liggéeyandoo ngir Internet nekk lu ubbeeku ku nekk mën cee jot.
 bottomLinks-license = Xibaar ci yaatal gi
 bottomLinks-rights = Sañ sañi jëfandikookat bi
+bottomLinks-privacy = Poltigu dundu biir
