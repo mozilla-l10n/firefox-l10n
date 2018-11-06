@@ -8,6 +8,9 @@ releaseNotes-link = Yeniliklər
 update-checkForUpdatesButton =
     .label = Yeniləmələri yoxla
     .accesskey = y
+update-updateButton =
+    .label = { -brand-shorter-name } yeniləmək üçün yenidən başladın
+    .accesskey = R
 update-checkingForUpdates = Yeniləmələr yoxlanılır…
 update-downloading = <img data-l10n-name="icon"/>Yeniləmə endirilir — <label data-l10n-name="download-status"/>
 update-applying = Yeniləmə tətbiq edilir…
@@ -22,6 +25,7 @@ update-restarting = Yenidən başladılır…
 channel-description = Hal-hazırda <label data-l10n-name="current-channel"></label> yeniləmə kanalındasınız.{ " " }
 warningDesc-version = { -brand-short-name } eksperimentaldır və qərarsız ola bilər.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> Web-i açıq, ictimai və hərkəsə əl çatan etmək üçün bir yerdə çalışan <label data-l10n-name="community-exp-creditsLink">qlobal cəmiyyətdir</label>.
+community-2 = { -brand-short-name } <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, Web-i açıq, ictimai və hərkəsə əl çatan etmək üçün bir yerdə çalışan <label data-l10n-name="community-creditsLink">qlobal icma tərəfindən</label> hazırlanıb.
 helpus = Kömək etmək istərdinizmi? <label data-l10n-name="helpus-donateLink">İanə verin</label> və ya <label data-l10n-name="helpus-getInvolvedLink">bizə qoşulun!</label>
 bottomLinks-license = Lisenziya məlumatları
 bottomLinks-rights = Son İstifadəçi Hüquqları
