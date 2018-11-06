@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+aboutDialog-title =
+    .title = { -brand-full-name } ho Nsɛm
 update-checkingForUpdates = Rehwehwɛ ntoso…
 update-applying = Rehyɛ ntoso no…
 warningDesc-version = Yɛ resɔ { -brand-short-name } ahwɛ nti ɛbɛtumi aba no sɛ ɔnngyina pintinn.
