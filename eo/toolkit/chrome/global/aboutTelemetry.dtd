@@ -30,9 +30,6 @@ Hieraŭ
 <!ENTITY aboutTelemetry.optionGroupOlder "
 Antaŭe
 ">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Utilŝarĝo
-">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -41,15 +38,11 @@ Antaŭe
 
 <!ENTITY aboutTelemetry.pageTitle "Datumoj de telemezuro">
 <!ENTITY aboutTelemetry.moreInformations "Ĉu vi serĉas pli da informo?">
-<!ENTITY aboutTelemetry.firefoxDataDoc "
-La <a>dokumentaro pri datumoj de Firefox</a> enhavas gvidilojn pri la maniero labori per niaj datumaj iloj.
-">
-<!ENTITY aboutTelemetry.telemetryClientDoc "
-La <a>dokumentaro pri klientoj de telemezuro de Firefox</a> enhavas difinojn por konceptoj, dokumentaron de API kaj datumaj referencoj.
-">
-<!ENTITY aboutTelemetry.telemetryDashboard "
-La <a>paneloj de telemezuro</a> permesas al vi vidi la datumojn, kiujn Mozilla ricevas pere de telemezuro.
-">
+<!ENTITY aboutTelemetry.firefoxDataDoc "La <a>dokumentaro pri datumoj de Firefox</a> enhavas gvidilojn pri la maniero labori per niaj datumaj iloj.">
+<!ENTITY aboutTelemetry.telemetryClientDoc "La <a>dokumentaro pri klientoj de Telemezuro de Firefox</a> enhavas difinojn por konceptoj, dokumentaron de API kaj datumaj referencoj.">
+<!ENTITY aboutTelemetry.telemetryDashboard "La <a>paneloj de Telemezuro</a> permesas al vi vidi la datumojn, kiujn Mozilla ricevas pere de Telemezuro.">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "La <a>sonda vortaro</a> provizas detalojn kaj priskribojn de la sondiloj uzataj de Telemezuro.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Malfermi per la vidigilo de JSON">
 
@@ -81,14 +74,8 @@ La <a>paneloj de telemezuro</a> permesas al vi vidi la datumojn, kiujn Mozilla r
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Simplaj mezuroj
 ">
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Registro de telemezuro
-">
 <!ENTITY aboutTelemetry.slowSqlSection "
   Montri instrukciojn de SQL
-">
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Paneoj de retumilo
 ">
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Detaloj de aldonaĵo
