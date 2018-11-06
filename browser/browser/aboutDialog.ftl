@@ -12,5 +12,6 @@ update-failed-main = La mise à jour a échoué. <a data-l10n-name="failed-link-
 update-adminDisabled = Les mises à jour sont désactivées par votre administrateur système
 update-noUpdatesFound = { -brand-short-name } est à jour
 update-manual = Mises à jour disponibles à <label data-l10n-name="manual-link"/>
+warningDesc-version = { -brand-short-name } est expérimental et peut être instable.
 bottomLinks-license = Informations de licence
 bottomLinks-privacy = Politique de confidentialité
