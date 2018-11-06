@@ -14,6 +14,8 @@ update-updateButton =
 update-checkingForUpdates = Meklej atjaunynuojumus…
 update-downloading = <img data-l10n-name="icon"/>Lejupīluodē atjaunynuojumu — <label data-l10n-name="download-status"/>
 update-applying = Instalej atjaunynuojumu…
+update-failed = Atjaunynuošona naizadeve. <label data-l10n-name="failed-link">Lejupīlōdej jaunōkū verseju</label>
+update-failed-main = Atjaunynuošona naizadeve. <a data-l10n-name="failed-link-main">Lejupīlōdej jaunōkū verseju</a>
 update-adminDisabled = Jiusu sistemys administrators ir deaktiviejs atjaunynuojumus
 update-noUpdatesFound = { -brand-short-name } nav atjaunynuojumu
 update-otherInstanceHandlingUpdates = { -brand-short-name } itūbreid atjaunynoj cyta instance
@@ -24,6 +26,7 @@ channel-description = Itūbreid jius izmontojit <label data-l10n-name="current-c
 warningDesc-version = { -brand-short-name } atsarūn izstruodes procesā i var byut ar napilneibom.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ir <label data-l10n-name="community-exp-creditsLink">globala kūpīna</label> , kas struodoj, kab šķārsteikls byutu attaiseits, publisks i vysim pīejams.
 community-2 = { -brand-short-name } veidoj <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, kurys <label data-l10n-name="community-creditsLink">globala kūpīna</label>, kas struodoj, kab šķārsteikls byutu attaiseits, publisks i vysim pīejams.
+helpus = Gribi īt paleigā? <label data-l10n-name="helpus-donateLink">Zīdoj</label> voi <label data-l10n-name="helpus-getInvolvedLink">īzasaisti!</label>
 bottomLinks-license = Licenciešona informaceja
 bottomLinks-rights = Gola lītuotuoja tīseibys
 bottomLinks-privacy = Privatuma politika
