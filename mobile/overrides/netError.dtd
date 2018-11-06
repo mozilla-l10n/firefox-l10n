@@ -204,3 +204,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> o deuvia 'na tecnòlogia de seguessa vegia ch'a l'é debole . Un mascarson o peu pigiâ con façiliæ e teu informaçioin che ti pensi segian a-o seguo. L'aministratô do scito o deve dâ recatto a-o server primma che ti ti posse vixitâ sto scito.</p><p>Còdice d'erô: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Erô de Protocòllo de ræ">
+<!ENTITY networkProtocolError.longDesc "<p>A pagina che ti voeivi vedde a no peu ese mostrâ perché gh'é 'n erô into protocòllo de ræ.</p><ul><li>Pe piaxei senti o propietaio do scito pe informalo do problema.</li></ul>">
