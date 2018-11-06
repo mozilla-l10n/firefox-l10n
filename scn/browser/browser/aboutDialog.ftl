@@ -2,7 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+aboutDialog-title =
+    .title = Supra a { -brand-full-name }
 releaseNotes-link = Nuvitati
+update-checkForUpdatesButton =
+    .label = Talìa si cci sunnu agghiurnamenti
+    .accesskey = V
+update-updateButton =
+    .label = Accumincia arreri p'agghiurnari { -brand-shorter-name }
+    .accesskey = A
 update-checkingForUpdates = Staiu cuntrullannu si cci sunnu agghiurnamenti…
 update-downloading = <img data-l10n-name="icon"/>Staiu scarricannu l'agghiurnamentu — <label data-l10n-name="download-status"/>
 update-applying = Staiu appricannu l'agghiurnamentu…
@@ -15,6 +23,7 @@ update-manual = L'agghiurnamenti sunnu scarricàbbili nni <label data-l10n-name=
 update-unsupported = Nun poi fari cchiú agghiurnamenti nna stu sistema. <label data-l10n-name="unsupported-link">Cchiú nfurmazzioni</label>
 update-restarting = Staiu accuminzannu arredi…
 channel-description = P'accamora sí nô canali d'agghiornamentu <label data-l10n-name="current-channel"></label> .{ " " }
+warningDesc-version = { -brand-short-name } e' sprimintali e putissi farsiari.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> e' na <label data-l10n-name="community-exp-creditsLink">cumunitati munniali</label> chi travagghia 'nzèmmula pi lassari lu Web líbbiru, púbbricu e unni cci ponnu tràsiri tutti.
 community-2 = { -brand-short-name } fu pruggittatu di <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, na <label data-l10n-name="community-creditsLink">cumunitati munniali</label> chi travagghia 'nzèmmula pi lassari lu Web líbbiru, púbbricu e unni cci ponnu tràsiri tutti.
 helpus = Ni voi ajutari? <label data-l10n-name="helpus-donateLink">Lassa na ufferta</label> o <label data-l10n-name="helpus-getInvolvedLink">júnciti cu nuàutri!</label>
