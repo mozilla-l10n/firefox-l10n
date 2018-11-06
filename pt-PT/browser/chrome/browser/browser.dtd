@@ -592,12 +592,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.button  "Alterar definições de pesquisa">
 <!ENTITY changeSearchSettings.tooltip "Alterar definições de pesquisa">
 
-<!ENTITY searchInNewTab.label         "Pesquisar em novo separador">
+<!ENTITY searchInNewTab.label         "Pesquisar num novo separador">
 <!ENTITY searchInNewTab.accesskey     "P">
 <!ENTITY searchSetAsDefault.label     "Definir como motor de pesquisa predefinido">
 <!ENTITY searchSetAsDefault.accesskey "d">
 
-<!ENTITY openLinkCmdInTab.label       "Abrir ligação em novo separador">
+<!ENTITY openLinkCmdInTab.label       "Abrir ligação num novo separador">
 <!ENTITY openLinkCmdInTab.accesskey   "s">
 <!ENTITY openLinkCmd.label            "Abrir ligação numa nova janela">
 <!ENTITY openLinkCmd.accesskey        "j">
@@ -605,7 +605,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Abrir ligação">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
-<!ENTITY openFrameCmdInTab.label      "Abrir frame em novo separador">
+<!ENTITY openFrameCmdInTab.label      "Abrir frame num novo separador">
 <!ENTITY openFrameCmdInTab.accesskey  "s">
 <!ENTITY openFrameCmd.label           "Abrir frame em nova janela">
 <!ENTITY openFrameCmd.accesskey       "j">
@@ -1070,6 +1070,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Ativar bloqueio para este site">
 <!ENTITY trackingProtection.block5.accesskey "e">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Desligar bloqueio para este site">
+<!ENTITY trackingProtection.unblock5.accesskey "t">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Desligar bloqueio temporariamente">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "t">
+<!ENTITY trackingProtection.block6.label "Ligar bloqueio para este site">
+<!ENTITY trackingProtection.block6.accesskey "t">
 <!ENTITY trackingProtection.reload2.label "Recarregar página">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
