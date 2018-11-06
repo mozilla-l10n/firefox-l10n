@@ -4,6 +4,7 @@
 
 update-checkingForUpdates = Okukebera ku bituusaganya…
 update-downloading = <img data-l10n-name="icon"/>Okuwannula Ekituusaganya— <label data-l10n-name="download-status"/>
+update-applying = Okuteekamu ekituusa…
 update-failed = Okutuusa kuganye. <label data-l10n-name="failed-link">Ttikkula ekika ekippya</label>
 update-failed-main = Okutuusa kuganye. <a data-l10n-name="failed-link-main">Ttikkula ekika ekippya</a>
 update-adminDisabled = Okwetuukana kwanafuyizibwa omukulu w'ebyuma byo
