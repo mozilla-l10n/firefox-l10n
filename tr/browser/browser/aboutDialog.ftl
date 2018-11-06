@@ -4,8 +4,12 @@
 
 aboutDialog-title =
     .title = { -brand-full-name } hakkında
+releaseNotes-link = Yeni neler var?
 update-checkForUpdatesButton =
     .label = Güncellemeleri denetle
+    .accesskey = G
+update-updateButton =
+    .label = { -brand-shorter-name } tarayıcısını güncellemek için yeniden başlat
     .accesskey = G
 update-checkingForUpdates = Güncellemeler denetleniyor…
 update-downloading = <img data-l10n-name="icon"/>Güncelleme indiriliyor — <label data-l10n-name="download-status"/>
@@ -14,10 +18,17 @@ update-failed = Güncelleme başarısız. <label data-l10n-name="failed-link">So
 update-failed-main = Güncelleme başarısız. <a data-l10n-name="failed-link-main">Son sürümü indirin</a>
 update-adminDisabled = Güncellemeler sistem yöneticiniz tarafından devre dışı bırakılmış
 update-noUpdatesFound = { -brand-short-name } güncel
+update-otherInstanceHandlingUpdates = { -brand-short-name } başka bir kopyası tarafından şu an güncelleniyor
 update-manual = Güncelleme adresi: <label data-l10n-name="manual-link"/>
 update-unsupported = Bu sistemde yeni güncellemeleri kullanamazsınız.<label data-l10n-name="unsupported-link">Daha fazla bilgi al</label>
+update-restarting = Yeniden başlatılıyor…
 channel-description = Şu anda <label data-l10n-name="current-channel"></label> güncelleme kanalındasınız.{ " " }
 warningDesc-version = { -brand-short-name } deneyseldir ve kararsız olabilir.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> Web’i açık, kamusal ve herkesçe erişilebilir kılmak için birlikte çalışan <label data-l10n-name="community-exp-creditsLink">küresel bir topluluktur</label>.
+community-2 = { -brand-short-name }, <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> tarafından tasarlanmıştır. &vendorShortName;, interneti daha iyiye taşımak için birlikte çalışan <label data-l10n-name="community-creditsLink">küresel bir topluluktur</label>.
+helpus = Yardım etmek ister misiniz? <label data-l10n-name="helpus-donateLink">Bağış yapın</label> veya <label data-l10n-name="helpus-getInvolvedLink">aramıza katılın!</label>
 bottomLinks-license = Lisans Bilgileri
 bottomLinks-rights = Son Kullanıcı Hakları
 bottomLinks-privacy = Gizlilik İlkesi
+aboutDialog-architecture-sixtyFourBit = 64 bit
+aboutDialog-architecture-thirtyTwoBit = 32-bit
