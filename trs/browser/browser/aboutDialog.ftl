@@ -25,6 +25,7 @@ update-restarting = Nayi'ì ñûn
 channel-description = Riñan man sa naka doj huin <label data-l10n-name="current-channel"></label> nan.{ " " }
 warningDesc-version = { -brand-short-name } ma si arajhuè si ngàj ni ga'ue si gi'iaj sun hue'ej
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> 'ngo <label data-l10n-name="community-exp-creditsLink">yi’ni’ niko</label> hiaj sun nugua’an da’ ga’ué gara sun daran nej dugui’ man riki yumin guii.
+community-2 = { -brand-short-name } guiri rá...<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ngo <label data-l10n-name="community-creditsLink">yi’ni’ niko</label> hiaj sun nugua’an da’ ga’ué gara sun daran nej dugui’ man riki yumin guii.
 helpus = ¿ruguñu'unjt ruhuâ raj?<label data-l10n-name="helpus-donateLink">Gà'uì' 'ngo nriû</label>asi<label data-l10n-name="helpus-getInvolvedLink">Gatu siganïnj ïn</label>
 bottomLinks-license = Nuguan’ da’ui guini’in
 bottomLinks-rights = { " " }Si suntuj ne’ araj sun
