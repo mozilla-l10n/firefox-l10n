@@ -6,5 +6,6 @@ update-checkingForUpdates = Yeniləmələr yoxlanılır…
 update-applying = Yeniləmə tətbiq edilir…
 update-adminDisabled = Yeniləmələr sistem idarəçiniz tərəfindən söndürülmüşdür
 update-noUpdatesFound = { -brand-short-name } aktualdır
+update-otherInstanceHandlingUpdates = { -brand-short-name } başqa nümunədən yenilənir
 warningDesc-version = { -brand-short-name } eksperimentaldır və qərarsız ola bilər.
 bottomLinks-license = Lisenziya məlumatları

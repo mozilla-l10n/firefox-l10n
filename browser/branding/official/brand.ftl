@@ -16,3 +16,4 @@
 -brand-short-name = Firefox
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
+trademarkInfo = Firefox və Firefox loqosu, Mozilla Fondunun qeydə alınmış əmtəə nişanlarıdır.
