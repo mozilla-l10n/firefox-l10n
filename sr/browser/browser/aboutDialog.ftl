@@ -17,6 +17,7 @@ update-applying = Примењујем надоградњу…
 update-failed = Ажурирање није успело. <label data-l10n-name="failed-link">Преузми најновије издање</label>
 update-failed-main = Ажурирање није успело. <a data-l10n-name="failed-link-main">Преузми најновије издање</a>
 update-adminDisabled = Системски администратор је онемогућио ажурирања
+update-noUpdatesFound = { -brand-short-name } је ажуран
 update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира{ " " }
 update-manual = Ажурирања су доступна на <label data-l10n-name="manual-link"/>
 update-unsupported = Не можете да извршите ажурирања на овом систему. <label data-l10n-name="unsupported-link">Сазнајте више</label>
