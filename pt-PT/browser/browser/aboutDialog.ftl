@@ -8,11 +8,16 @@ releaseNotes-link = Novidades
 update-updateButton =
     .label = Reiniciar para atualizar o { -brand-shorter-name }
     .accesskey = R
+update-checkingForUpdates = A procurar atualizações…
+update-downloading = <img data-l10n-name="icon"/>A transferir atualização — <label data-l10n-name="download-status"/>
 update-applying = A aplicar atualização…
+update-failed = A atualização falhou. <label data-l10n-name="failed-link">Transferir a versão mais recente</label>
+update-failed-main = A atualização falhou. <a data-l10n-name="failed-link-main">Transferir a versão mais recente</a>
 update-adminDisabled = Atualizações desativadas pelo seu administrador do sistema
 update-noUpdatesFound = O { -brand-short-name } está atualizado
 update-otherInstanceHandlingUpdates = O { -brand-short-name } já está a ser atualizado por outra instância
 update-manual = Atualizações disponíveis em <label data-l10n-name="manual-link"/>
+update-unsupported = Não pode realizar mais atualizações neste sistema. <label data-l10n-name="unsupported-link">Saber mais</label>
 update-restarting = A reiniciar…
 channel-description = Atualmente, está no canal de atualização <label data-l10n-name="current-channel"></label>.{ " " }
 warningDesc-version = O { -brand-short-name } é experimental e poderá ser instável.
