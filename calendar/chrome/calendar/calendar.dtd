@@ -44,7 +44,7 @@
 <!ENTITY calendar.unifinder.tree.duedate.label             "Sfârșit">
 <!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Sortează după data expirării">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Îndeplinită">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Sortează după data completării">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Sortează după data finalizării">
 <!ENTITY calendar.unifinder.tree.categories.label          "Categorie">
 <!ENTITY calendar.unifinder.tree.categories.tooltip2       "Sortează după categorie">
 <!ENTITY calendar.unifinder.tree.location.label            "Locație">
@@ -60,10 +60,10 @@
 <!ENTITY calendar.today.button.tooltip          "Mergi la ziua de azi" >
 <!ENTITY calendar.todaypane.button.tooltip      "Arată panoul cu ziua de azi" >
 
-<!ENTITY calendar.day.button.tooltip            "Comută la vizualizarea zilei" >
-<!ENTITY calendar.week.button.tooltip           "Comută la vizualizarea săptămânii" >
-<!ENTITY calendar.month.button.tooltip          "Comută la vizualizarea lunii" >
-<!ENTITY calendar.multiweek.button.tooltip      "Comută la vizualizarea săptămânilor" >
+<!ENTITY calendar.day.button.tooltip            "Comută pe vizualizarea zilei" >
+<!ENTITY calendar.week.button.tooltip           "Comută pe vizualizarea săptămânii" >
+<!ENTITY calendar.month.button.tooltip          "Comută pe vizualizarea lunii" >
+<!ENTITY calendar.multiweek.button.tooltip      "Comută pe vizualizare pe săptămâni" >
 
 <!ENTITY calendar.nextday.label                 "Ziua următoare" >
 <!ENTITY calendar.prevday.label                 "Ziua trecută" >
@@ -334,8 +334,8 @@
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 minute" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 minute" >
 <!ENTITY calendar.alarm.snooze.15minutes.label      "15 minute" >
-<!ENTITY calendar.alarm.snooze.30minutes.label      "30 minute" >
-<!ENTITY calendar.alarm.snooze.45minutes.label      "45 minute" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 de minute" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 de minute" >
 <!ENTITY calendar.alarm.snooze.1hour.label          "1 oră" >
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 ore" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 zi" >

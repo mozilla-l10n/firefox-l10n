@@ -15,7 +15,7 @@
 <!ENTITY locationpage.username.label      "Utilizator:" >
 <!ENTITY locationpage.password.label      "Parolă:" >
 
-<!ENTITY custompage.shortdescription  "Personalizați calendarul" >
+<!ENTITY custompage.shortdescription  "Personalizează calendarul" >
 <!ENTITY custompage.longdescription   "Puteți da un pseudonim calendarului și să colorați evenimentele din el." >
 
 <!ENTITY finishpage.shortdescription  "Calendar creat" >
