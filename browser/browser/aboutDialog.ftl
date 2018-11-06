@@ -11,7 +11,9 @@ update-failed = Ukuvuselelwa kuhlulekile. <label data-l10n-name="failed-link">La
 update-failed-main = Ukuvuselelwa kuhlulekile. <a data-l10n-name="failed-link-main">Layisha ubuyekezo lwakamuva</a>
 update-adminDisabled = Ukuvuselelwa kukhutshazelwe umphathi wohlelo lwakho
 update-noUpdatesFound = { -brand-short-name } isesikhathini
+update-otherInstanceHandlingUpdates = I-{ -brand-short-name } ifakwe ukwaziswa kwamuva ngenye indlela
 update-manual = Ukuvuselelwa kutholakala ku-<label data-l10n-name="manual-link"/>
+update-unsupported = Awukwazi ukwenza ukufaka ukwaziswa kwamuva okuthuthukile kulolu hlelo. <label data-l10n-name="unsupported-link">Funda kabanzi</label>
 channel-description = Okwamanje uku <label data-l10n-name="current-channel"></label> vuselela isiteshi.{ " " }
 warningDesc-version = { -brand-short-name } ingukuhlola futhi ayimile ndawonye
 community-exp = <label data-l10n-name="community-exp-mozillaLink">I-{ -vendor-short-name }</label> iyi <label data-l10n-name="community-exp-creditsLink">umphakathi womhlaba</label> ukusebenzisana ekugcineni iwebhu ivulekile, ingeyomphakathi futhi ifinyeleleka kubo bonke abantu.
