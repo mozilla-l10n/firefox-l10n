@@ -4,3 +4,5 @@
 
 aboutDialog-title =
     .title = Thông tin về { -brand-full-name }
+update-checkingForUpdates = Đang kiểm tra cập nhật…
+update-downloading = <img data-l10n-name="icon"/>Đang tải cập nhật — <label data-l10n-name="download-status"/>
