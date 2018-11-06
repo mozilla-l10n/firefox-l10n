@@ -4,9 +4,12 @@
 
 aboutDialog-title =
     .title = Acerca de { -brand-full-name }
+releaseNotes-link = Qué hay de nuevo
 update-checkingForUpdates = Buscando actualizaciones…
 update-downloading = <img data-l10n-name="icon"/>Descargando actualización — <label data-l10n-name="download-status"/>
 update-applying = Aplicando actualización…
+update-failed = La actualización falló. <label data-l10n-name="failed-link">Descarga la versión más reciente</label>
+update-failed-main = La actualización falló. <a data-l10n-name="failed-link-main">Descarga la versión más reciente</a>
 update-noUpdatesFound = { -brand-short-name } está actualizado
 update-otherInstanceHandlingUpdates = { -brand-short-name } está actualizándose desde otra instancia
 update-manual = Actualizaciones disponibles en <label data-l10n-name="manual-link"/>
