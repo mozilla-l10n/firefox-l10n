@@ -17,3 +17,4 @@
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
 -brand-shorter-name = Firefox
+trademarkInfo = Firefox e li loghi Firefox sunnu marchi arriggistrati dâ Funnazzioni Mozilla.
