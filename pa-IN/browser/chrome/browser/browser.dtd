@@ -977,49 +977,67 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.title "ਸਮੱਗਰੀ ਪਾਬੰਦੀ">
 <!ENTITY contentBlocking.detected "ਇਸ ਸਾਈਟ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਯੋਗ ਸਮੱਗਰੀ ਖੋਜੀ ਗਈ।">
+<!ENTITY contentBlocking.notDetected "ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਕੋਈ ਪਾਬੰਦੀ ਲਗਾਉਣ ਯੋਗ ਸਮੱਗਰੀ ਨਹੀਂ ਖੋਜੀ ਗਈ।">
+<!ENTITY contentBlocking.disabled.label "ਅਸਮਰੱਥ ਹੈ">
+<!ENTITY contentBlocking.disabled.tooltip "ਤੁਸੀਂ ਸਮੱਗਰੀ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾ ਚੁੱਕੇ ਹੋ।">
+<!ENTITY contentBlocking.exception.tooltip "ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਸਮੱਗਰੀ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾ ਚੁੱਕੇ ਹੋ।">
 
+<!ENTITY contentBlocking.fastBlock.label "ਹੌਲੀ-ਲੋਡ ਕਰਨ ਵਾਲੇ ਟਰੈਕਰ">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "ਪਾਬੰਦੀ ਲਗਾਈ">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
      "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "ਪਾਬੰਦੀ ਲਗਾਈ ਜਾ ਰਹੀ ਹੈ">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.fastBlock.add.label "…ਪਾਬੰਦੀ ਜੋੜੋ">
 
+<!ENTITY contentBlocking.trackingProtection2.label "ਸਾਰੇ ਖੋਜੇ ਗਏ ਟਰੈਕਰ">
+<!ENTITY contentBlocking.trackingProtection3.label "ਟਰੈਕਰ">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.trackingProtection.blocked.label "ਪਾਬੰਦੀ ਲਗਾਈ">
 <!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "ਪਾਬੰਦੀ ਲਗਾਏ">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.trackingProtection.add.label "…ਪਾਬੰਦੀ ਜੋੜੋ">
 
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "ਪਾਬੰਦੀ ਲਗਾਈ">
 <!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "ਪਾਬੰਦੀ ਲਗਾਏ">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 
+<!ENTITY contentBlocking.breakageReportView.learnMore "ਹੋਰ ਜਾਣੋ">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "ਰੱਦ ਕਰੋ">
 
 <!ENTITY trackingProtection.title "ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ">
 <!ENTITY trackingProtection.tooltip "ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਪਸੰਦਾਂ ਨੂੰ ਖੋਲ੍ਹੋ">
@@ -1027,9 +1045,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock4.label "ਇਸ ਸਾਈਟ ਲਈ ਪਾਬੰਦੀ ਲਗਾਉਣਾ ਅਸਮਰੱਥ ਕਰੋ">
+<!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate4.label "ਪਾਬੰਦੀ ਲਗਾਉਣੀ ਆਰਜ਼ੀ ਤੌਰ 'ਤੇ ਅਸਮਰੱਥ ਕਰੋ">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
+<!ENTITY trackingProtection.block5.label "ਇਸ ਸਾਈਟ ਲਈ ਪਾਬੰਦੀ ਸਮਰੱਥ ਕਰੋ">
+<!ENTITY trackingProtection.block5.accesskey "E">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.reload2.label "ਸਫ਼ਾ ਮੁੜ-ਲੋਡ ਕਰੋ">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "ਸਭ ਨੂੰ ਵੇਖਾਓ">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -1132,6 +1165,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "…ਡਿਵਾਈਸ ਸਿੰਕ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ">
 
 <!ENTITY pageAction.shareUrl.label "ਸਾਂਝਾ ਕਰੋ">
+<!ENTITY pageAction.shareMore.label "…ਹੋਰ">
 
 <!ENTITY libraryButton.tooltip "ਅਤੀਤ, ਸੰਭਾਲੇ ਬੁੱਕਮਾਰਕ ਅਤੇ ਹੋਰ ਨੂੰ ਵੇਖੋ">
 

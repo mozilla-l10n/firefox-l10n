@@ -9,6 +9,10 @@
 <!ENTITY retry.label "ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ">
 <!ENTITY returnToPreviousPage.label "ਪਿੱਛੇ ਜਾਓ">
 <!ENTITY advanced.label "ਤਕਨੀਕੀ">
+<!ENTITY continue2.label "…ਹੋਰ">
+<!ENTITY moreInformation.label "ਹੋਰ ਜਾਣਕਾਰੀ">
+
+<!ENTITY viewCertificate.label "ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਵੇਖੋ">
 
 <!-- Specific error messages -->
 
@@ -142,10 +146,17 @@
 ">
 
 <!ENTITY certerror.longpagetitle1 "ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ">
-<!-- Localization note (certerror.introPara) - The text content of the span tag
+<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> ਦੇ ਮਾਲਕ ਨੇ ਆਪਣੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਗਲਤ ਢੰਗ ਨਾਲ ਸੰਰਚਿਤ ਕੀਤਾ ਹੈ। ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਚੋਰੀ ਹੋਣ ਤੋਂ ਰੋਕਣ ਲਈ &brandShortName; ਇਸ ਵੈੱਬਸਾਈਟ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੈ।">
+
+
+
+
+
+
+
 
 <!ENTITY sharedLongDesc "
 <ul>
@@ -193,5 +204,9 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "ਪਾਬੰਦੀ ਲਗਾਇਆ ਸਫ਼ਾ">
 
+<!ENTITY clockSkewError.title "ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੀ ਘੜੀ ਗਲਤ ਹੈ">
+
 <!ENTITY prefReset.longDesc "ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਹਾਡੀ ਨੈੱਟਵਰਕ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਇਸ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੀਆਂ ਹਨ। ਕੀ ਤੁਸੀਂ ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਹਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY prefReset.label "ਡਿਫਾਲਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਮੁੜ-ਬਹਾਲ ਕਰੋ">
+
+<!ENTITY networkProtocolError.title "ਨੈੱਟਵਰਕ ਪਰੋਟੋਕਾਲ ਗ਼ਲਤੀ">
