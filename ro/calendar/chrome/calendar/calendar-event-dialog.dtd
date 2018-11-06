@@ -113,7 +113,7 @@
 
 <!ENTITY  event.menu.view.label                           "Vizualizare">
 <!ENTITY  event.menu.view.accesskey                       "V">
-<!ENTITY  event.menu.view.toolbars.label                  "Bare de instrumente">
+<!ENTITY  event.menu.view.toolbars.label                  "Bare de unelte">
 <!ENTITY  event.menu.view.toolbars.accesskey              "t">
 <!ENTITY  event.menu.view.toolbars.event.label            "Bară de evenimente">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "e">
@@ -388,7 +388,7 @@
 <!ENTITY event.attendee.usertype.individual     "Individual">
 <!ENTITY event.attendee.usertype.group          "Grup">
 <!ENTITY event.attendee.usertype.resource       "Resursă">
-<!ENTITY event.attendee.usertype.room           "Cameră">
+<!ENTITY event.attendee.usertype.room           "Sală">
 <!ENTITY event.attendee.usertype.unknown        "Necunoscut">
 
 <!-- Timezone dialog -->
