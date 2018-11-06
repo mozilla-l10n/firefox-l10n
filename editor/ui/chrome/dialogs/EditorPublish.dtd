@@ -12,7 +12,7 @@
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "Numele site-ului:">
 <!ENTITY siteList.accesskey           "e">
-<!ENTITY siteList.tooltip             "Alegeți site-ul pe care doriți să publicați">
+<!ENTITY siteList.tooltip             "Alege site-ul pe care vrei să publici">
 <!ENTITY newSiteButton.label          "Site nou">
 <!ENTITY newSiteButton.accesskey      "n">
 <!ENTITY docDirList.label             "Subdirectorul site-ului pentru această pagină:">
@@ -21,9 +21,9 @@
 <!ENTITY publishImgCheckbox.label     "Include imaginile și celelalte fișiere">
 <!ENTITY publishImgCheckbox.accesskey "I">
 <!ENTITY publishImgCheckbox.tooltip   "Publică imaginile și celelalte fișiere de care are nevoie această pagină">
-<!ENTITY sameLocationRadio.label      "Utilizează aceeași locație ca și pentru pagină">
+<!ENTITY sameLocationRadio.label      "Utilizează aceeași locație ca pentru pagină">
 <!ENTITY sameLocationRadio.accesskey  "U">
-<!ENTITY sameLocationRadio.tooltip    "Publică fișierele la aceeași locație ca și pagina">
+<!ENTITY sameLocationRadio.tooltip    "Publică fișierele în aceeași locație cu pagina">
 <!ENTITY useSubdirRadio.label         "Folosește acest subdirector de pe site:">
 <!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Publică fișierele în directorul de la distanță selectat">
@@ -56,7 +56,7 @@
 <!ENTITY browseUrl.tooltip            "Adresa HTTP:// a directorului personal (a nu se include și numele de fișier)">
 <!ENTITY username.label               "Nume de utilizator:">
 <!ENTITY username.accesskey           "u">
-<!ENTITY username.tooltip             "Numele de utilizator cu care vă autentificați la ISP sau la serviciul de găzduire web">
+<!ENTITY username.tooltip             "Numele de utilizator pentru autentificarea la ISP sau la serviciul de găzduire web">
 <!ENTITY password.label               "Parolă:">
 <!ENTITY password.accesskey           "P">
 <!ENTITY password.tooltip             "Parola asociată numelui de utilizator">

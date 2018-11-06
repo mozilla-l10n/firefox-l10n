@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Modificări">
+<!ENTITY windowTitle.label "Selectare modificări de editare">
 <!ENTITY conflictWarning.label "Pagina a fost modificată cu un alt program și aveți modificări nesalvate în Composer.">
 <!ENTITY conflictResolve.label "Selectează versiunea de păstrat">
 <!ENTITY keepCurrentPageButton.label "Păstrează-mi modificările actuale">

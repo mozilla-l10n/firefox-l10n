@@ -27,7 +27,7 @@
 <!ENTITY tablePxBetwBrdrCellContent.label "pixeli între marginea și conținutul celulei">
 <!ENTITY tableAlignment.label             "Aliniamentul tabelului:">
 <!ENTITY tableAlignment.accessKey         "A">
-<!ENTITY tableCaption.label               "Explicație:">
+<!ENTITY tableCaption.label               "Legendă:">
 <!ENTITY tableCaption.accessKey           "x">
 <!ENTITY tableCaptionAbove.label          "Deasupra tabelului">
 <!ENTITY tableCaptionBelow.label          "Sub tabel">
