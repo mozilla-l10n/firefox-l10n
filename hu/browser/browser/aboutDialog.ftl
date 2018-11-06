@@ -4,6 +4,9 @@
 
 aboutDialog-title =
     .title = A { -brand-full-name } névjegye
+update-checkForUpdatesButton =
+    .label = Frissítések keresése
+    .accesskey = F
 update-checkingForUpdates = Frissítések keresése…
 update-downloading = <img data-l10n-name="icon"/>Frissítés letöltése — <label data-l10n-name="download-status"/>
 update-applying = Frissítés alkalmazása…
