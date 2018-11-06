@@ -8,6 +8,9 @@ releaseNotes-link = Што е ново?
 update-checkForUpdatesButton =
     .label = Провери за ажурирања
     .accesskey = П
+update-updateButton =
+    .label = Рестартирај за да се надгради { -brand-shorter-name }
+    .accesskey = Р
 update-checkingForUpdates = Проверувам за надградби…
 update-downloading = <img data-l10n-name="icon"/>Преземам надградба — <label data-l10n-name="download-status"/>
 update-applying = Надградбата се применува...
