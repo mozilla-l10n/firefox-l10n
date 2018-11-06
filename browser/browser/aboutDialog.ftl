@@ -8,6 +8,9 @@ releaseNotes-link = নতুন কি
 update-checkForUpdatesButton =
     .label = আপডেটের উপস্থিতি পরীক্ষা করুন
     .accesskey = C
+update-updateButton =
+    .label = { -brand-shorter-name } আপডেট করতে পুনরায় চালু করুন
+    .accesskey = R
 update-checkingForUpdates = আপডেটের উপস্থিতি পরীক্ষা করা হচ্ছে…
 update-downloading = <img data-l10n-name="icon"/>আপডেট ডাউনলোড করা হচ্ছে — <label data-l10n-name="download-status"/>
 update-applying = আপডেট প্রয়োগ করা হচ্ছে…
