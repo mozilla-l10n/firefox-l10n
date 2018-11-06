@@ -4,3 +4,4 @@
 
 restart-required-title = ਮੁੜ-ਸ਼ੁਰੂ ਕਰਨਾ ਜਰੂਰੀ ਹੈ
 restart-required-header = ਅਫ਼ਸੋਸ ਹੈ। ਸਾਨੂੰ ਜਾਰੀ ਰੱਖਣ ਵਾਸਤੇ ਇੱਕ ਨਿੱਕਾ ਜਿਹਾ ਕੰਮ ਕਰਨਾ ਪਵੇਗਾ।
+restart-button-label = { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਕਰੋ
