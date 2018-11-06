@@ -8,6 +8,9 @@ releaseNotes-link = Šta je novo
 update-checkForUpdatesButton =
     .label = Provjeri dostupnost nadogradnji
     .accesskey = C
+update-updateButton =
+    .label = Restartujte za nadogradnju { -brand-shorter-name }a
+    .accesskey = R
 update-noUpdatesFound = Koristite posljednju verziju { -brand-short-name }a
 update-otherInstanceHandlingUpdates = { -brand-short-name } biva nadograđen od strane druge instance
 update-unsupported = Ne možete vršiti dodatne nadogradnje na ovom sistemu. <label data-l10n-name="unsupported-link">Saznajte više</label>
