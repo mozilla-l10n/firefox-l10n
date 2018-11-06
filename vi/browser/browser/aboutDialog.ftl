@@ -5,6 +5,9 @@
 aboutDialog-title =
     .title = Thông tin về { -brand-full-name }
 releaseNotes-link = Có gì mới
+update-updateButton =
+    .label = Khởi động lại để cập nhật { -brand-shorter-name }
+    .accesskey = R
 update-checkingForUpdates = Đang kiểm tra cập nhật…
 update-downloading = <img data-l10n-name="icon"/>Đang tải cập nhật — <label data-l10n-name="download-status"/>
 update-applying = Đang cài đặt cập nhật…
@@ -19,4 +22,5 @@ community-2 = { -brand-short-name } được thiết kế bởi <label data-l10n
 helpus = Bạn muốn giúp đỡ? <label data-l10n-name="helpus-donateLink">Quyên góp tài chính</label>, hoặc <label data-l10n-name="helpus-getInvolvedLink">tham gia đóng góp!</label>
 bottomLinks-rights = Quyền hạn người dùng cuối
 bottomLinks-privacy = Chính sách riêng tư
+aboutDialog-architecture-sixtyFourBit = 64-bit
 aboutDialog-architecture-thirtyTwoBit = 32-bit
