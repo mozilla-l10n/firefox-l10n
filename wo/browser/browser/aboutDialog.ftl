@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+aboutDialog-title =
+    .title = Ci mbiri { -brand-full-name }
+update-checkForUpdatesButton =
+    .label = Seeti yeesal
+    .accesskey = C
+update-updateButton =
+    .label = Tàmbaliwaatal ngir yeesal { -brand-shorter-name }
+    .accesskey = R
 update-checkingForUpdates = Wut ay yeesal…
 update-downloading = <img data-l10n-name="icon"/>Yebum yeesal bi —<label data-l10n-name="download-status"/>
 update-applying = Def yeesal bi…
