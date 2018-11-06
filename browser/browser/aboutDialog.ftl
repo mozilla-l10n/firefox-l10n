@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+releaseNotes-link = Čo je nové
+update-checkForUpdatesButton =
+    .label = Vyhľadať aktualizácie
+    .accesskey = h
 update-checkingForUpdates = Vyhľadávajú sa aktualizácie…
 update-downloading = <img data-l10n-name="icon"/>Preberá sa aktualizácia — <label data-l10n-name="download-status"/>
 update-applying = Aktualizácia sa inštaluje…
