@@ -12,7 +12,6 @@
 <!ENTITY aboutTelemetry.optionGroupToday "Hari ini">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Semalam">
 <!ENTITY aboutTelemetry.optionGroupOlder "Lebih lama">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "Muatan">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -24,6 +23,8 @@
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Dokumentasi Data Firefox</a> mengandungkan panduan perihal cara menggunakan alatan data kami.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox Telemetry klien dokumentasi</a> menjelaskan takrif konsep, dokumentasi API dan rujukan data.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Papan pemuka Telemetri</a> membolehkan anda menggambarkan data yang diterima oleh Mozilla melalui Telemetri.">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Probe Dictionary</a> menyediakan butiran dan penjelasan untuk masalah yang dikumpulkan oleh Telemetry.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Buka dalam pemapar JSON">
 
@@ -37,9 +38,7 @@
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Histogram Dikunci">
 <!ENTITY aboutTelemetry.eventsSection "Acara">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Pengukuran Mudah">
-<!ENTITY aboutTelemetry.telemetryLogSection "Log Telemetri">
 <!ENTITY aboutTelemetry.slowSqlSection "Penyata SQL Perlahan">
-<!ENTITY aboutTelemetry.chromeHangsSection "Pelayar Tersekat">
 <!ENTITY aboutTelemetry.addonDetailsSection "Butiran Add-on">
 <!ENTITY aboutTelemetry.capturedStacksSection "Tangkapan Stacks">
 <!ENTITY aboutTelemetry.lateWritesSection "Penulisan Lewat">
