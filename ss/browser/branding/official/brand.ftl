@@ -17,4 +17,4 @@
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
 -brand-shorter-name = Firefox
-trademarkInfo = { " " }Banikati baleleligama netimphawu te Firefox yi Mozilla Foundation.
+trademarkInfo = Banikati baleleligama netimphawu te Firefox yi Mozilla Foundation.
