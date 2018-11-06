@@ -5,6 +5,9 @@
 aboutDialog-title =
     .title = Despre { -brand-full-name }
 releaseNotes-link = Ce este nou
+update-checkForUpdatesButton =
+    .label = Caută actualizări
+    .accesskey = C
 update-updateButton =
     .label = Repornește pentru a actualiza { -brand-shorter-name }
     .accesskey = R
