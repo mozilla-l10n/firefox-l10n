@@ -15,3 +15,6 @@
 
 -brand-short-name = Firefox
 -vendor-short-name = Mozilla
+-brand-full-name = Mozilla Firefox
+-brand-shorter-name = Firefox
+trademarkInfo = பயர்பாக்சு மற்றும் அதன் சின்னங்கள் மொசில்லா அறக்கட்டளையின் வர்த்தக முத்திரைகளாகும்.
