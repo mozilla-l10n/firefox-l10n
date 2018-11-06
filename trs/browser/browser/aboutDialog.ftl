@@ -30,3 +30,5 @@ helpus = ¿ruguñu'unjt ruhuâ raj?<label data-l10n-name="helpus-donateLink">Gà
 bottomLinks-license = Nuguan’ da’ui guini’in
 bottomLinks-rights = { " " }Si suntuj ne’ araj sun
 bottomLinks-privacy = { " " }Sa gara yino’
+aboutDialog-architecture-sixtyFourBit = 64-bit
+aboutDialog-architecture-thirtyTwoBit = 32-bit
