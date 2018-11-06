@@ -20,6 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " আপনার:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "ডাউনলোড">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "বুকমার্ক">
+<!ENTITY aboutPrivateBrowsing.info.clipboard             "অনুলিপি করা টেক্সট">
 <!ENTITY aboutPrivateBrowsing.note.before                "ব্যাক্তিগত ব্রাউজিং ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "আপনাকে নামহীন করবে না">
 <!ENTITY aboutPrivateBrowsing.note.after                 " ইন্টারনেটে আপনার নিয়োগকর্তা কিংবা ইন্টারনেট সেবা প্রদানকারী এখনও জানতে পারবে, আপনি কোন পাতায় গিয়েছিলেন।">
@@ -29,4 +30,7 @@
 
 <!ENTITY trackingProtection.title                        "ট্র্যাকিং সুরক্ষা">
 <!ENTITY trackingProtection.description2                 "কিছু ওয়েবসাইট ট্র্যাকার ব্যবহার করে যেটা ইন্টারনেটের সাহায্যে আপনার কার্যকলাপ পর্যবেক্ষণ করতে পারে। ট্র্যাকিং প্রোটেকশন ব্যবহার করে Firefox এমন অনেক ট্র্যাক্যার ব্লক করবে যারা আপনার ব্রাউজিং আচরণ সম্পর্কে তথ্য সংগ্রহ করে।">
+
 <!ENTITY trackingProtection.startTour1                   "দেখুন এটা কিভাবে কাজ করে">
+
+<!ENTITY contentBlocking.title                           "কনটেন্ট ব্লকিং">
