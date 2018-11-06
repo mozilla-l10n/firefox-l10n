@@ -15,3 +15,6 @@
 
 -brand-short-name = Firefox
 -vendor-short-name = Mozilla
+-brand-full-name = Mozilla Firefox
+-brand-shorter-name = Firefox
+trademarkInfo = Firefox an d'Logoe vu Firefox si Markenzeeche vun der Mozilla Foundation.
