@@ -5,6 +5,9 @@
 aboutDialog-title =
     .title = Tungkol sa { -brand-full-name }{ " " }
 releaseNotes-link = Ano ang bago?
+update-updateButton =
+    .label = I-restart upang i-update ang { -brand-shorter-name }
+    .accesskey = R
 update-checkingForUpdates = Naghahanap ng updates...{ " " }
 update-downloading = <img data-l10n-name="icon"/>Nagda-download ng update<label data-l10n-name="download-status"/>
 update-applying = Ina-apply ang update...
