@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = ਹੁਣੇ ਕੋਸ਼ਿਸ਼ ਕਰੋ
+onboarding-button-label-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 onboarding-welcome-header = { -brand-short-name } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
 onboarding-start-browsing-button-label = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ
 
@@ -19,3 +20,5 @@ onboarding-start-browsing-button-label = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰ�
 onboarding-private-browsing-title = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ
 onboarding-screenshots-title = ਸਕਰੀਨਸ਼ਾਟ
 onboarding-addons-title = ਐਡ-ਆਨ
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = ਸਿੰਕ ਕਰੋ

@@ -10,4 +10,9 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-BlockAboutConfig = about:config ਸਫ਼ੇ ਲਈ ਪਹੁੰਚ ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।
+policy-BlockAboutProfiles = about:profiles ਸਫ਼ੇ ਲਈ ਪਹੁੰਚ ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।
+policy-CertificatesDescription = ਸਰਟੀਫਿਕੇਟ ਜੋੜੋ ਜਾਂ ਵਿਚੇ ਮੌਜੂਦ ਸਰਟੀਫਿਕੇਟ ਵਰਤੋਂ।
+policy-Cookies = ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਕੂਕੀਜ਼ ਸੈੱਟ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ ਜਾਂ ਪਾਬੰਦੀ ਲਗਾਓ।
+policy-DisableAppUpdate = ਬਰਾਊਜ਼ਰ ਨੂੰ ਅੱਪਡੇਟ ਹੋਣ ਤੋਂ ਰੋਕੋ।
 policy-DisableTelemetry = ਟੈਲੀਮੈਂਟਰੀ ਬੰਦ ਕਰੋ।
