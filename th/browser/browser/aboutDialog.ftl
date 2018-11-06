@@ -8,6 +8,9 @@ releaseNotes-link = มีอะไรใหม่
 update-checkForUpdatesButton =
     .label = ตรวจสอบการอัปเดต
     .accesskey = ต
+update-updateButton =
+    .label = เริ่มการทำงานใหม่เพื่ออัปเดต { -brand-shorter-name }
+    .accesskey = ร
 update-checkingForUpdates = กำลังตรวจสอบการอัปเดต…
 update-downloading = <img data-l10n-name="icon"/>กำลังดาวน์โหลดการอัปเดต — <label data-l10n-name="download-status"/>
 update-applying = กำลังใช้การอัปเดต…
