@@ -4,6 +4,7 @@
 
 aboutDialog-title =
     .title = A proposito de { -brand-full-name }
+releaseNotes-link = Novas
 update-checkForUpdatesButton =
     .label = Cercar actualisationes
     .accesskey = C
@@ -11,6 +12,8 @@ update-updateButton =
     .label = Reinitiar pro actualisar { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Cercante actualisationes…
+update-downloading = <img data-l10n-name="icon"/>Discarga de actualisation — <label data-l10n-name="download-status"/>
+update-applying = Application de actualisation…
 update-failed = Le actualisation ha fallite. <label data-l10n-name="failed-link">Discargar le ultime version</label>
 update-failed-main = Le actualisation ha fallite. <a data-l10n-name="failed-link-main">Discargar le ultime version</a>
 update-adminDisabled = Actualisationes inactivate per le administrator de tu systema
