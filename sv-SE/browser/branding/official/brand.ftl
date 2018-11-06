@@ -16,4 +16,5 @@
 -brand-short-name = Firefox
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
+-brand-shorter-name = Firefox
 trademarkInfo = Firefox och Firefox-logotyper är varumärken som tillhör Mozilla Foundation.
