@@ -4,6 +4,9 @@
 
 aboutDialog-title =
     .title = Derbarê { -brand-full-name }'ê de
+update-checkForUpdatesButton =
+    .label = Li nûkirinan bigere
+    .accesskey = L
 update-checkingForUpdates = Nûkirinan tên kontrolkirin…
 update-downloading = <img data-l10n-name="icon"/>Nûkirin tê daxistin — <label data-l10n-name="download-status"/>
 update-applying = Nûkirin tê sepandin…
