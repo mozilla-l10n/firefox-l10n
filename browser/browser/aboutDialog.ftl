@@ -6,6 +6,7 @@ aboutDialog-title =
     .title = Om { -brand-full-name }
 update-checkingForUpdates = Søger efter opdateringer…
 update-downloading = <img data-l10n-name="icon"/>Henter opdatering — <label data-l10n-name="download-status"/>
+update-applying = Installerer opdatering…
 update-failed = Opdatering mislykkedes. <label data-l10n-name="failed-link">Hent den seneste version</label>
 update-failed-main = Opdatering mislykkedes. <a data-l10n-name="failed-link-main">Hent den seneste version</a>
 update-adminDisabled = Opdateringer er deaktiveret af din systemadministrator
