@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+aboutDialog-title =
+    .title = { -brand-full-name } ਬਾਰੇ
 releaseNotes-link = ਨਵਾਂ ਕੀ ਹੈ
 update-checkingForUpdates = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
 update-downloading = <img data-l10n-name="icon"/>ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ — <label data-l10n-name="download-status"/>
@@ -13,6 +15,7 @@ update-noUpdatesFound = { -brand-short-name } ਅੱਪ-ਟੂ-ਡੇਟ ਹੈ
 update-otherInstanceHandlingUpdates = { -brand-short-name } ਨੂੰ ਕਿਸੇ ਹੋਰ ਮੌਕੇ ਰਾਹੀਂ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 update-manual = ਅੱਪਡੇਟ ਉਪਲੱਬਧ ਹੈ <label data-l10n-name="manual-link"/>
 update-unsupported = ਤੁਸੀਂ ਇਹ ਸਿਸਟਮ ਲਈ ਹੋਰ ਅੱਪਡੇਟ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ।<label data-l10n-name="unsupported-link">ਹੋਰ ਜਾਣੋ</label>
+update-restarting = ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
 channel-description = ਇਸ ਸਮੇਂ ਤੁਸੀਂ <label data-l10n-name="current-channel"></label> ਅੱਪਡੇਟ ਚੈਨਲ ਵਰਤ ਰਹੇ ਹੋ।{ " " }
 warningDesc-version = { -brand-short-name } ਤਜਰਬੇ ਅਧੀਨ ਹੈ ਅਤੇ ਅਸਥਿਰ ਹੋ ਸਕਦਾ ਹੈ।
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ਇੱਕ <label data-l10n-name="community-exp-creditsLink">ਗਲੋਬਲ ਕਮਿਊਨਟੀ</label> ਹੈ ਜੋ ਰਲ ਕੇ ਵੈੱਬ ਨੂੰ ਸਭ ਲਈ ਖੁੱਲ੍ਹਾ, ਪਬਲਿਕ ਅਤੇ ਵਰਤੋਂ ਯੋਗ ਰੱਖਣ ਲਈ ਜਤਨਸ਼ੀਲ ਹੈ।
