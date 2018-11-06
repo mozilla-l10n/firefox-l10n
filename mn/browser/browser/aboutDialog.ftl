@@ -13,6 +13,8 @@ update-adminDisabled = Шинэчлэлүүд захирагчаар хаагд�
 update-noUpdatesFound = { -brand-short-name } нэн шинэ
 update-manual = Шинэчлэл боломжтой байна<label data-l10n-name="manual-link"/>
 channel-description = Та яг одоо <label data-l10n-name="current-channel"></label>шинэчлэлийн сувагт байна.
+warningDesc-version = { " " }{ -brand-short-name } нь туршилтын хувилбар бөгөөд зарим тохиолдолд тогтворгүй байх магадлалтай.
+community-2 = { -brand-short-name }-ийн загварийг <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>— <label data-l10n-name="community-creditsLink">Глобал нийгэмлэг</label> вэбийг нээлттэй, олон нийтийн, бүгдэд хүртээмжтэй байлгахын тулд хамтдаа ажиллацгаая.
 bottomLinks-license = Лицензийн мэдээлэл
 bottomLinks-rights = Эцсийн хэрэглэгчийн эрх
 bottomLinks-privacy = Хуулийн нөхцөл
