@@ -8,6 +8,9 @@ releaseNotes-link = Что нового
 update-checkForUpdatesButton =
     .label = Проверить на обновления
     .accesskey = о
+update-updateButton =
+    .label = Перезапустить { -brand-shorter-name } для обновления
+    .accesskey = е
 update-checkingForUpdates = Проверка наличия обновлений…
 update-downloading = <img data-l10n-name="icon"/>Загрузка обновления — <label data-l10n-name="download-status"/>
 update-applying = Применение обновления…
