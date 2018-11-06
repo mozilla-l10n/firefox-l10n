@@ -5,6 +5,9 @@
 aboutDialog-title =
     .title = Acerca de { -brand-full-name }
 releaseNotes-link = Qué hay de nuevo
+update-checkForUpdatesButton =
+    .label = Buscar actualizaciones
+    .accesskey = B
 update-checkingForUpdates = Buscando actualizaciones…
 update-downloading = <img data-l10n-name="icon"/>Descargando actualización — <label data-l10n-name="download-status"/>
 update-applying = Aplicando actualización…
