@@ -4,7 +4,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Conversie la tabel">
+<!ENTITY windowTitle.label "Convertire în tabel">
 <!ENTITY instructions1.label   "Composer va crea un nou rând de tabel pentru fiecare paragraf din selecție.">
 <!ENTITY instructions2.label   "Alegeți caracterul folosit la separarea coloanelor în textul selectat:">
 <!ENTITY commaRadio.label      "Virgulă">

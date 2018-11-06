@@ -4,7 +4,7 @@
 
 <!-- Entities for AccountWizard -->
 
-<!ENTITY windowTitle.label "Asistent de creat conturi">
+<!ENTITY windowTitle.label "Asistent creare conturi">
 <!ENTITY accountWizard.size "width: 45em; height: 38em;">
 
 <!-- Entities for Account Type page -->
