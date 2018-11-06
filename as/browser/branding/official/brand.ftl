@@ -15,3 +15,4 @@
 
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
+trademarkInfo = Firefox আৰু Firefox লগোসমূহ Mozilla সংঘঠনৰ প্ৰতিকচিহ্ন।
