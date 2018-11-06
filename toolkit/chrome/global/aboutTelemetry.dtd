@@ -20,7 +20,6 @@ Dün
 <!ENTITY aboutTelemetry.optionGroupOlder "
 Daha eski
 ">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Yük">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -32,6 +31,8 @@ Daha eski
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox Veri Belgeleri</a>, veri araçlarlarımızla nasıl çalışabileceğinize dair rehberleri içerir.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Firefox Telemetri istemcisi belgeleri</a> kavram tanımlarını, API belgeleribi ve veri referanslarını içerir.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Telemetri panoları</a> Mozilla'nın Telemetri aracılığıyla aldığı verileri görselleştirmenize olanak tanır.">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Sonda sözlüğü</a> Telemetri’nin topladığı sondalarla ilgili ayrıntıları ve açıklamaları içerir.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 JSON görüntüleyicide aç
@@ -48,9 +49,7 @@ JSON görüntüleyicide aç
 <!ENTITY aboutTelemetry.eventsSection "
   Olaylar">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "   Basit Ölçümler ">
-<!ENTITY aboutTelemetry.telemetryLogSection "  Temeletri günlüğü">
 <!ENTITY aboutTelemetry.slowSqlSection "   Yavaş SQL Deyimleri ">
-<!ENTITY aboutTelemetry.chromeHangsSection "   Tarayıcı Takılmaları ">
 <!ENTITY aboutTelemetry.addonDetailsSection "Eklenti Ayrıntıları">
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Yakalanan Yığınlar">

@@ -121,6 +121,8 @@ was trying to connect. -->
 <!ENTITY certerror.sts.introPara "&brandShortName; olası bir güvenlik tehdidi algıladı ve <span class='hostname'/> sitesi güvenli bir bağlantı gerektirdiği için bu siteye bağlanmadı.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; olası bir güvenlik tehdidi algıladı ve <span class='hostname'/> sitesine bağlanmadı. Site yanlış yapılandırılmış veya bilgisayarınızın saati yanlış ayarlanmış olabilir.">
+<!ENTITY certerror.expiredCert.secondPara2 "Büyük olasılıkla web sitesinin sertifikasının süresi dolmuş ve bu yüzden &brandShortName; güvenli bağlantı kuramıyor. Bu siteye girerseniz saldırganlar parola, e-posta ve kredi kartı gibi bilgilerinizi çalmaya çalışabilir.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Büyük olasılıkla web sitesinin sertifikasının süresi dolmuş ve bu yüzden &brandShortName; güvenli bağlantı kuramıyor.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ne yapabilirsiniz?">
 
