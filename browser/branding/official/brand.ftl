@@ -17,3 +17,4 @@
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
 -brand-shorter-name = Firefox
+trademarkInfo = Firefox và logo Firefox là thương hiệu của Tổ chức Mozilla.
