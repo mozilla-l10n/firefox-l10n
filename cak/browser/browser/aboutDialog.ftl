@@ -1,0 +1,31 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+aboutDialog-title =
+    .title = Rutzijol { -brand-full-name }
+releaseNotes-link = Achike natzijoj
+update-checkForUpdatesButton =
+    .label = Kekanöx taq k'exoj
+    .accesskey = K
+update-updateButton =
+    .label = Titikirisäx chik richin nik'ex { -brand-shorter-name }
+    .accesskey = T
+update-checkingForUpdates = Tajin yekanöx taq k'exoj ruwäch…
+update-downloading = <img data-l10n-name="icon"/>Tajin niqasäx k'exoj ruwäch — <label data-l10n-name="download-status"/>
+update-applying = Rokisaxik k'exoj ruwäch…
+update-failed = Man xuchäp ta ri k'exoj ruwäch. <label data-l10n-name="failed-link">Taqasaj ri k'ak'a' ruwäch</label>
+update-failed-main = Man xuchäp ta ri k'exoj ruwäch. <a data-l10n-name="failed-link-main">Taqasaj ri k'ak'a' ruwäch</a>
+update-adminDisabled = Xechup ri taq k'exoj ruwäch ruma ri runuk'samajel aq'inoj
+update-noUpdatesFound = { -brand-short-name } jalon chik
+update-otherInstanceHandlingUpdates = { -brand-short-name } tajin nik'ex pa jun chik molaj
+update-manual = Wachel taq k'exoj ruwäch pa <label data-l10n-name="manual-link"/>
+update-unsupported = Man tikirel ta chik nab'an taq k'exoj pa re q'inoj re'. <label data-l10n-name="unsupported-link">Tetamäx ch'aqa' chik</label>
+update-restarting = Tajin nitikirisäx chik…
+channel-description = Tajin nawokisaj ri q'axab'äl <label data-l10n-name="current-channel"></label> kiq'axab'al taq k'exoj ruwäch.{ " " }
+warningDesc-version = { -brand-short-name } choj ok nitojtob'ëx, rik’in jub'a' man pa rub'eyal ta.
+helpus = ¿La nawajo' yato'on? <label data-l10n-name="helpus-donateLink">Taya' jun sipanïk</label> o <label data-l10n-name="helpus-getInvolvedLink">¡kato'on!</label>
+bottomLinks-license = Na'oj chi rij ya'öl q’ij
+bottomLinks-privacy = Runa'ojil ichinanem
+aboutDialog-architecture-sixtyFourBit = 64-bit
+aboutDialog-architecture-thirtyTwoBit = 32-bit
