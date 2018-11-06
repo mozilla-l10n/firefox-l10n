@@ -7,4 +7,5 @@ aboutDialog-title =
 update-adminDisabled = Mae'r diweddariad wedi ei analluogi gan eich gweinyddwr
 update-noUpdatesFound = Mae { -brand-short-name } yn gyfredol
 update-manual = Diweddariadau ar gael yn <label data-l10n-name="manual-link"/>
+warningDesc-version = Mae { -brand-short-name } yn arbrofol a gall fod yn ansad.
 bottomLinks-privacy = Polisi Preifatrwydd
