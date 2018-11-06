@@ -635,12 +635,47 @@ content-blocking-restore-defaults =
     .accesskey = R
 content-blocking-toggle-on =
     .tooltiptext = ਸਮੱਗਰੀ ਪਾਬੰਦੀ ਨੂੰ ਬੰਦ ਕਰੋ
+content-blocking-toggle-off =
+    .tooltiptext = ਸਮੱਗਰੀ ਪਾਬੰਦੀ ਨੂੰ ਚਾਲੂ ਕਰੋ
 content-blocking-toggle-label-on = ਚਾਲੂ
     .accesskey = O
 content-blocking-toggle-label-off = ਬੰਦ
     .accesskey = O
+content-blocking-category-label = ਪਾਬੰਦੀ ਲਾਉਣ ਲਈ ਚੋਣ ਕਰੋ
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = ਹੌਲੀ-ਲੋਡਿੰਗ ਟਰੈਕਰ
+    .accesskey = S
+content-blocking-tracking-protection-trackers-label =
+    .label = ਟਰੈਕਰ
+    .accesskey = T
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = ਸਾਰੇ ਖੋਜੇ ਗਏ ਟਰੈਕਰ
+    .accesskey = T
+content-blocking-tracking-protection-new-description = ਸਾਰੇ ਜਾਣੇ-ਪਛਾਣੇ ਟਰੈਕਰਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ। (ਕੁਝ ਸਫ਼ਿਆਂ ਨੂੰ ਲੋਡ ਹੋਣ 'ਤੇ ਰੋਕ ਲੱਗ ਸਕਦੀ ਹੈ।)
 content-blocking-tracking-protection-option-always =
     .label = ਹਮੇਸ਼ਾ
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = ਕੇਵਲ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = ਪਾਬੰਦੀ ਸੂਚੀ ਬਦਲੋ
+content-blocking-third-party-cookies-label =
+    .label = ਤੀਜੀ-ਧਿਰ ਕੂਕੀਜ਼
+    .accesskey = C
+content-blocking-change-cookie-settings =
+    .label = ਕੂਕੀਜ਼ ਸੈਟਿੰਗਾਂ ਬਦਲੋ
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = ਟਰੈਕਰ (ਸਿਫਾਰਸ਼ੀ)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = ਟਰੈਕਰ
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = ਸਾਰੇ ਤੀਜੀ-ਧਿਰ ਕੂਕੀਜ਼ (ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਕੰਮ ਨਾ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ)
     .accesskey = A
 
 ## Privacy Section - Tracking
@@ -687,9 +722,20 @@ permissions-notification-link = ਹੋਰ ਜਾਣੋ
 permissions-notification-pause =
     .label = { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਹੋਣ ਤੱਕ ਸੂਚਨਾਵਾਂ ਨੂੰ ਰੋਕੋ
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = ਵੈੱਬਸਾਈਟਾਂ ਆਵਾਜ਼ ਵਾਲੇ ਮੀਡਿਏ ਨੂੰ ਆਪਣੇ ਆਪ ਚਲਾਉਣ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
+    .accesskey = B
+permissions-block-autoplay-media-menu = ਵੈੱਬਸਾਈਟਾਂ, ਜੋ ਕਿ ਆਪਣੇ-ਆਪ ਆਵਾਜ਼ ਚਲਾਉਂਦੀਆਂ ਹਨ, ਲਈ
 permissions-block-autoplay-media-exceptions =
     .label = ਛੋਟਾਂ…
     .accesskey = E
+autoplay-option-ask =
+    .label = ਹਮੇਸ਼ਾਂ ਪੁੱਛੋ
+autoplay-option-allow =
+    .label = ਆਪੇ-ਚਲਾਉਣ ਦੀ ਆਗਿਆ
+autoplay-option-dont =
+    .label = ਆਪਣੇ-ਆਪ ਨਾ ਚਲਾਓ
+permissions-autoplay-link = ਹੋਰ ਜਾਣੋ
 permissions-block-popups =
     .label = ਪੋਪਅੱਪ ਵਿੰਡੋ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ
     .accesskey = B
@@ -764,3 +810,7 @@ certs-view =
 certs-devices =
     .label = …ਸੁਰੱਖਿਆ ਡਿਵਾਈਸ
     .accesskey = D
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = ਫ਼ਾਈਲਾਂ { $service-name } 'ਤੇ ਸੰਭਾਲੋ
