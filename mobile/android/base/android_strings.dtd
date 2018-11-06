@@ -291,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; ਅਤੇ &vendorShortName; ਉਤਪਾਦਂ ਦੀ ਵਰਤੋਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "ਚਾਲੂ ਕਰੋ">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "ਤਜਰਬੇ ਅਧੀਨ ਫੀਚਰ">
@@ -363,7 +368,6 @@
 <!ENTITY pref_use_system_font_size_summary "ਵੈੱਬ ਸਮੱਗਰੀ ਨੂੰ ਸਿਸਟਮ ਫ਼ੋਂਟ ਆਕਾਰ ਮੁਤਾਬਕ ਬਣਾਓ">
 
 <!ENTITY pref_media_autoplay_enabled "ਆਪਣੇ-ਆਪ ਚੱਲਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
-<!ENTITY pref_media_autoplay_enabled_summary "ਕੰਟਰੋਲ ਕਰੋ ਕਿ ਕੀ ਵੈੱਬਸਾਈਟਾਂ ਆਪਣੇ-ਆਪ ਵੀਡੀਓ ਅਤੇ ਹੋਰ ਮੀਡੀਆ ਸਮੱਗਰੀ ਨੂੰ ਚਲਾ ਸਕਦੀਆਂ ਹਨ">
 <!ENTITY pref_media_autoplay_allow "ਆਪਣੇ-ਆਪ ਚਲਾਓਣ ਦੀ ਇਜਾਜ਼ਤ">
 <!ENTITY pref_media_autoplay_block "ਆਪਣੇ-ਆਪ ਚਲਾਓਣ \&apos;ਤੇ ਪਾਬੰਦੀ">
 <!ENTITY pref_zoom_force_enabled "ਜ਼ੂਮ ਨੂੰ ਹਮੇਸ਼ਾ ਸਮਰੱਥ ਕਰੋ">
@@ -831,9 +835,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "&brandShortName; ਖੋਲ੍ਹਣ ਲਈ ਅਸਮਰੱਥ। ਮੁੜ ਇੰਸਟਾਲ ਕਰਕੇ ਫਿਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।">
 
-<!ENTITY eol_notification_title2 "&brandShortName; ਹੁਣ ਅੱਪਡੇਟ ਨਹੀਂ ਹੋਵੇਗਾ">
-<!ENTITY eol_notification_summary "ਹੋਰ ਸਿੱਖਣ ਲਈ ਛੂਹੋ">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ਅੱਪਡੇਟ ਹੈ">
@@ -907,3 +908,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; ਪੁਸ਼ ਨੋਟੀਫਿਕੇਸ਼ਨ">
 <!ENTITY updater_notification_channel "ਐਪ ਅੱਪਡੇਟ">
 <!ENTITY synced_tabs_notification_channel "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "ਸਾਈਟ ਸੂਚਨਾਵਾਂ">
