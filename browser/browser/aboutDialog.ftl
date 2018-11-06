@@ -8,6 +8,9 @@ releaseNotes-link = អ្វី​ដែល​ថ្មី
 update-checkForUpdatesButton =
     .label = ពិនិត្យរក​មើល​បច្ចុប្បន្នភាព
     .accesskey = C
+update-updateButton =
+    .label = ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព { -brand-shorter-name }
+    .accesskey = R
 update-checkingForUpdates = កំពុង​ពិនិត្យរកមើល​បច្ចុប្បន្នភាព...
 update-downloading = <img data-l10n-name="icon"/>កំពុង​ទាញ​យក​បច្ចុប្បន្នភាព—  <label data-l10n-name="download-status"/>
 update-applying = កំពុង​អនុវត្ត​បច្ចុប្បន្នភាព...
@@ -26,3 +29,5 @@ helpus = ចង់​ជួយ?<label data-l10n-name="helpus-donateLink">ជួ�
 bottomLinks-license = ព័ត៌មាន​អាជ្ញាប័ណ្ណ
 bottomLinks-rights = សិទ្ធិ​អ្នកប្រើ
 bottomLinks-privacy = គោលនយោបាយ​ភាព​ឯកជន
+aboutDialog-architecture-sixtyFourBit = 64-bit
+aboutDialog-architecture-thirtyTwoBit = 32-bit
