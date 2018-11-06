@@ -11,6 +11,7 @@ update-failed = ಅಪ್‌ಡೇಟ್ ವಿಫಲಗೊಂಡಿದೆ. <lab
 update-failed-main = ಅಪ್‌ಡೇಟ್ ವಿಫಲಗೊಂಡಿದೆ. <a data-l10n-name="failed-link-main">ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಡೌನ್‌ಲೋಡ ಮಾಡಿಕೊಳ್ಳಿ</a>
 update-adminDisabled = ನಿಮ್ಮ ವ್ಯವಸ್ಥೆಯ ನಿರ್ವಾಹಕರಿಂದ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ
 update-noUpdatesFound = { -brand-short-name } ಅಪ್‌ಟುಡೇಟ್ ಆಗಿದೆ
+update-otherInstanceHandlingUpdates = { -brand-short-name } ಅನ್ನು ಇನ್ನೊಂದು ನಿದರ್ಶನದಿಂದ ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ
 channel-description = ನೀವು ಈಗ <label data-l10n-name="current-channel"></label> ಅಪ್‌ಡೇಟ್ ಚಾನಲ್‌ನಲ್ಲಿದ್ದೀರಿ.{ " " }
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ಎನ್ನುವುದು <label data-l10n-name="community-exp-creditsLink">ಜಾಗತಿಕ ಸಮುದಾಯ</label> ಅಂತರಜಾಲವು ಮುಕ್ತ, ಸಾರ್ವಜನಿಕ, ಮತ್ತು ಎಲ್ಲರಿಗೂ ಎಟಕುವಂತಿರಬೇಕು ಎಂದು ಒಂದುಗೂಡಿ ಕೆಲಸ ಮಾಡುತ್ತಿದೆ.
 community-2 = { -brand-short-name } ಅನ್ನು ವಿನ್ಯಾಸಗೊಳಿಸಿದವರು <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ಒಂದು <label data-l10n-name="community-creditsLink">ಜಾಗತಿಕ ಸಮುದಾಯ</label> ಅಂತರಜಾಲವು ಮುಕ್ತ, ಸಾರ್ವಜನಿಕ, ಮತ್ತು ಎಲ್ಲರಿಗೂ ಎಟಕುವಂತಿರಬೇಕು ಎಂದು ಒಂದುಗೂಡಿ ಕೆಲಸ ಮಾಡುತ್ತಿದೆ.
