@@ -90,3 +90,4 @@
 <!ENTITY blockedByPolicy.title "Kuatiarogue jokopyre">
 
 <!ENTITY networkProtocolError.title "Ñanduti raperekoite jejavy">
+<!ENTITY networkProtocolError.longDesc "<p>Ko kuatiarogue ehechasevahína ndaikatúi ehecha oĩ rupi jejavy ñanduti raperekoitépe. </p><ul><li>Eñe’ẽ ñanduti renda jára ndive emomarandu hag̃ua ko apañuãi.</li></ul>">

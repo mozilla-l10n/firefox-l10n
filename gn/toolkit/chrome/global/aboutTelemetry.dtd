@@ -12,7 +12,6 @@
 <!ENTITY aboutTelemetry.optionGroupToday "Ko'árape">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Kuehe">
 <!ENTITY aboutTelemetry.optionGroupOlder "Tuichave">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "Ñemyenyhẽ oikóva">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -24,6 +23,8 @@
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Firefox mba'ekuaarã kuatia</a> oguereko guataha mba'éichapa emba'apova'erã mba'ekuaarã rembipuru rehegua.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Telemetry Firefox mba'éva kuatiatee</a> ogueroike mba'e ñemyesakã, API kuatiatee ha mba'ekuaarã rehegua.">
 <!ENTITY aboutTelemetry.telemetryDashboard "Umi <a>Telemetry rechaha</a> ohechauka ndéve Mozilla mba'ekuaarã og̃uahẽva Telemetry rupive.">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "Pe <a>Probe Dictionary</a> ome’ẽ mba’emimi ha ñemoha’anga Telemetry ombyatyva’ekue sónda.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Eike JSON hechahápe">
 
@@ -37,9 +38,7 @@
 <!ENTITY aboutTelemetry.keyedHistogramsSection " Histograma ñemiguáva">
 <!ENTITY aboutTelemetry.eventsSection "  Tembiaporã">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection " Ha'ãha hypy'ũ'ỹva">
-<!ENTITY aboutTelemetry.telemetryLogSection " Telemetry-pe jeike">
 <!ENTITY aboutTelemetry.slowSqlSection " Je'etepyre SQL imbegue">
-<!ENTITY aboutTelemetry.chromeHangsSection " Kundaha opytaite">
 <!ENTITY aboutTelemetry.addonDetailsSection " Moimbaha mba'emimi">
 <!ENTITY aboutTelemetry.capturedStacksSection "  Japyhypyre mbojo'a">
 <!ENTITY aboutTelemetry.lateWritesSection " Jehaipy mbotapykuéva">
