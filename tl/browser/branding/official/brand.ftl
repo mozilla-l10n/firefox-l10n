@@ -15,6 +15,6 @@
 
 -brand-short-name = Firefox
 -vendor-short-name = Mozilla
--brand-full-name = Mozilla Firefox{ " " }
+-brand-full-name = Mozilla Firefox
 -brand-shorter-name = Firefox
 trademarkInfo = Ang Firefox at ang mga logo nito ay mga trademark ng Mozilla Foundation.
