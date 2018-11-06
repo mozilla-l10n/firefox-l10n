@@ -28,6 +28,7 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } ŋeñtii ɗum ko <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ko <label data-l10n-name="community-creditsLink">renndo adunayaŋkeewo</label>gollodaade ngam ñiiɓnude Geese peeñcu udditiiɗe, keɓaniiɗo yimɓe fof.
 helpus = Aɗa yiɗi wallude?<label data-l10n-name="helpus-donateLink">Addu dokkal maa</label> walla <label data-l10n-name="helpus-getInvolvedLink">addu ballal maa!</label>
 bottomLinks-license = Humpito yamiroore
+bottomLinks-rights = Jojjanɗe Kuutoro
 bottomLinks-privacy = Dawirgol Suturo
 aboutDialog-architecture-sixtyFourBit = 64-bit
 aboutDialog-architecture-thirtyTwoBit = 32-bit
