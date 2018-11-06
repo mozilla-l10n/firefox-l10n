@@ -25,6 +25,7 @@ update-restarting = Újraindítás…
 channel-description = Jelenleg a(z) <label data-l10n-name="current-channel"></label> frissítési csatornát használja.
 warningDesc-version = A { -brand-short-name } kísérleti és esetleg instabil.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> egy <label data-l10n-name="community-exp-creditsLink">nemzetközi közösség</label>, amely a nyílt, nyilvános és mindenki számára elérhető világhálóért dolgozik.
+community-2 = A { -brand-short-name } böngészőt a <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> tervezte, egy <label data-l10n-name="community-creditsLink">nemzetközi közösség</label>, amely a nyílt, nyilvános és mindenki számára elérhető világhálóért dolgozik.
 helpus = Szeretne segíteni? <label data-l10n-name="helpus-donateLink">Támogasson,</label> vagy <label data-l10n-name="helpus-getInvolvedLink">vegyen részt a munkánkban!</label>
 bottomLinks-license = Licencinformációk
 bottomLinks-rights = Végfelhasználói jogok
