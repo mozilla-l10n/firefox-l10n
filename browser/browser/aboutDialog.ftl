@@ -4,9 +4,13 @@
 
 aboutDialog-title =
     .title = Tietoja { -brand-full-name }ista
+releaseNotes-link = Mitä uutta
 update-checkForUpdatesButton =
     .label = Hae päivityksiä
     .accesskey = H
+update-updateButton =
+    .label = Päivitä käynnistämällä { -brand-shorter-name } uudestaan
+    .accesskey = P
 update-checkingForUpdates = Haetaan päivityksiä…
 update-downloading = <img data-l10n-name="icon"/>Ladataan päivitystä — <label data-l10n-name="download-status"/>
 update-applying = Päivitetään…
@@ -17,6 +21,7 @@ update-noUpdatesFound = { -brand-short-name }in uusin versio käytössä
 update-otherInstanceHandlingUpdates = { -brand-short-name }in päivitys on jo käynnissä
 update-manual = Lataa päivitys: <label data-l10n-name="manual-link"/>
 update-unsupported = Tälle järjestelmälle ei enää tarjota päivityksiä. <label data-l10n-name="unsupported-link">Lue lisätietoja</label>
+update-restarting = Käynnistetään uudestaan…
 channel-description = Ohjelman päivitykset ovat tyyppiä <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } on kokeellinen versio ja voi olla epävakaa.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> on <label data-l10n-name="community-exp-creditsLink">kansainvälinen yhteisö</label>, joka pyrkii kehittämään avointa, julkista ja kaikkien käytettävissä olevaa Internetiä.
@@ -25,3 +30,5 @@ helpus = Haluatko auttaa? <label data-l10n-name="helpus-donateLink">Tee lahjoitu
 bottomLinks-license = Lisenssitiedot
 bottomLinks-rights = Loppukäyttäjän oikeudet
 bottomLinks-privacy = Tietosuojakäytäntö
+aboutDialog-architecture-sixtyFourBit = 64-bittinen
+aboutDialog-architecture-thirtyTwoBit = 32-bittinen
