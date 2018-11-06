@@ -4,6 +4,9 @@
 
 aboutDialog-title =
     .title = { -brand-full-name } ho Nsɛm
+update-checkForUpdatesButton =
+    .label = Hwehwɛ Ntoso
+    .accesskey = H
 update-checkingForUpdates = Rehwehwɛ ntoso…
 update-downloading = <img data-l10n-name="icon"/>Retwe ntoso — <label data-l10n-name="download-status"/>
 update-applying = Rehyɛ ntoso no…
