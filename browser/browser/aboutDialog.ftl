@@ -7,6 +7,9 @@ aboutDialog-title =
 update-checkForUpdatesButton =
     .label = Aktualizacije pytaś
     .accesskey = A
+update-updateButton =
+    .label = Startujśo znowego, aby { -brand-shorter-name } aktualizěrował
+    .accesskey = z
 update-checkingForUpdates = Aktualizacije se pytaju…
 update-downloading = <img data-l10n-name="icon"/>Aktualizacija se ześěgujo — <label data-l10n-name="download-status"/>
 update-applying = Aktualizacija se nałožujo…
@@ -17,9 +20,14 @@ update-noUpdatesFound = { -brand-short-name } jo aktualny
 update-otherInstanceHandlingUpdates = { -brand-short-name } aktualizěrujo se pśez drugu instancu
 update-manual = Aktualizacije k dispoziciji na <label data-l10n-name="manual-link"/>
 update-unsupported = Njamóžośo dalšne aktualizacije na toś tom systemje pśewjasć. <label data-l10n-name="unsupported-link">Dalšne informacije</label>
+update-restarting = Startujo se…
 channel-description = Sćo tuchylu na aktualizaciskem kanalu <label data-l10n-name="current-channel"></label>.{ " " }
 warningDesc-version = { -brand-short-name } jo eksperimentalny a by mógał njestabilny byś.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> jo <label data-l10n-name="community-exp-creditsLink">globalne zgromaźeństwo,</label> kótarež zgromadnje źěła, aby web wótwórjony, zjawny a za wšykne pśistupny wobchował.
+community-2 = { -brand-short-name } jo se wuwił wót <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">globalnego zgromaźeństwa,</label> kótarež zgromadnje źěła, aby web wótwórjony, zjawny a za wšykne pśistupny wobchował.
+helpus = Cośo pomagaś? <label data-l10n-name="helpus-donateLink">Pósććo</label> abo <label data-l10n-name="helpus-getInvolvedLink">cyńśo sobu!</label>
 bottomLinks-license = Licencne informacije
 bottomLinks-rights = Pšawa kóńcnego wužywarja
 bottomLinks-privacy = Pšawidła priwatnosći
+aboutDialog-architecture-sixtyFourBit = 64-bitowy
+aboutDialog-architecture-thirtyTwoBit = 32-bitowy
