@@ -4,5 +4,6 @@
 
 update-checkingForUpdates = Provjera dopuna…
 update-manual = Dopune su dostupne na <label data-l10n-name="manual-link"/>
+update-unsupported = Na ovom sustavu više ne možete izvršavati dodatne nadogradnje. <label data-l10n-name="unsupported-link">Saznajte više</label>
 warningDesc-version = { -brand-short-name } je eksperimentalna inačica i može biti nestabilna.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> je <label data-l10n-name="community-exp-creditsLink">globalna zajednica</label> koja nastoji zadržati Web otvorenim, javnim i dostupnim svima.
