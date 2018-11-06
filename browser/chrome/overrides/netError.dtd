@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Malantaŭen">
 <!ENTITY returnToPreviousPage1.label "Reen (rekomendita)">
 <!ENTITY advanced.label "Spertula">
-
 <!ENTITY continue2.label "Pli…">
 <!ENTITY moreInformation.label "Pli da informo">
+
+<!ENTITY viewCertificate.label "Vidi atestilon">
 
 <!-- Specific error messages -->
 
@@ -135,10 +136,11 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "La posedanto de <span class='hostname'/> malĝuste agordis sian retejon. Por protekti viajn datumojn kontraŭ ŝtelo, &brandShortName; ne konektiĝis al tiu ĉi retejo.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; trovis eblan sekurecan riskon kaj ne konektiĝis al <span class='hostname'/>. Se vi tamen vizitas tiun ĉi retejon, atakantoj povus klopodi ŝteli informojn, kiel ezkemple viajn pasvortojn, retpoŝtajn mesaĝojn aŭ detalojn de via kreditkarto.">
 
 <!ENTITY certerror.expiredCert.secondPara "Tiu problemo okazas tre verŝajne pro tio ke la horloĝo de via komputilo ne estas ĝusta, kio malpermesus al &brandShortName; sekure konektiĝi.">
+
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Kion vi povas fari pri tio?">
 
@@ -165,7 +167,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Aldoni escepton…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Akcepti la riskon kaj daŭrigi">
 
 <!ENTITY errorReporting.automatic2 "Raporti erarojn kiel tiu ĉi por helpi Mozillan identigi kaj bloki malicajn retejojn">
@@ -204,3 +205,4 @@ Strict Transport Security (HSTS) por specifi ke &brandShortName; nur povas konek
 
 <!ENTITY prefReset.longDesc "Ŝajne viaj retaj sekurecaj agordoj povus esti la kaŭzo. Ĉu vi volas restarigi la normajn agordojn?">
 <!ENTITY prefReset.label "Restarigi normajn agordojn">
+

@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Poste
     .accesskey = P
 cfr-doorhanger-extension-ok-button = Aldoni nun
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Administri agordojn de rekomendoj
+    .accesskey = A
+cfr-doorhanger-extension-never-show-recommendation = Ne montri al mi tiun ĉi rekomendon
+    .accesskey = N
 cfr-doorhanger-extension-learn-more-link = Pli da informo
 # This string is used on a new line below the add-on name
 # Variables:

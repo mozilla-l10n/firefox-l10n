@@ -2,19 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY certmgr.title                       "Atestila administrilo">
+<!ENTITY certmgr.title                       "Administrilo de atestiloj">
 
 <!ENTITY certmgr.tab.mine                     "Viaj atestiloj">
 <!ENTITY certmgr.tab.others2                  "Personoj">
 <!ENTITY certmgr.tab.websites3                "Serviloj">
 <!ENTITY certmgr.tab.ca                       "Aŭtoritatoj">
-<!ENTITY certmgr.tab.orphan2                  "Aliaj">
 
 <!ENTITY certmgr.mine2                        "Vi havas atestilojn de tiuj ĉi organizoj, kiuj identigas vin">
 <!ENTITY certmgr.others2                      "Vi havas konservitajn atestilojn, kiuj identigas tiujn ĉi personojn">
 <!ENTITY certmgr.websites3                    "Vi havas konservitajn atestilojn, kiu identigas tiujn ĉi servilojn">
 <!ENTITY certmgr.cas2                         "Vi havas konservitajn atestilojn, kiuj identigas tiujn ĉi atestilaj aŭtoritatoj">
-<!ENTITY certmgr.orphans2                     "Vi havas konservitajn atestilojn, kiuj ne apartenas al iu el la aliaj kategorioj">
 
 <!ENTITY certmgr.detail.general_tab.title     "Ĝenerala">
 <!ENTITY certmgr.detail.general_tab.accesskey "Ĝ">
@@ -38,7 +36,6 @@
 <!ENTITY certmgr.editcert.edittrust           "Modifi fidajn agordojn:">
 <!ENTITY certmgr.editcert.trustssl            "Tiu ĉi atestilo povas identigi retejojn.">
 <!ENTITY certmgr.editcert.trustemail          "Tiu ĉi atestilo povas identigi retpoŝtajn uzantojn.">
-<!ENTITY certmgr.editcert.trustobjsign        "Tiu ĉi atestilo povas identigi produktantojn de programoj.">
 
 <!ENTITY certmgr.deletecert.title             "Forigi atestilon">
 

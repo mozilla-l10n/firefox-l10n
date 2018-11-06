@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Bloki aliron al la paĝo about:profiles.
 policy-BlockAboutSupport = Bloki aliron al la paĝo about:support.
 policy-Bookmarks = Krei legosignojn en la ilaro de legosignoj, en la menuo de legosignoj, aŭ en dosierujo sub ili.
 policy-Certificates = Ĉu uzi aŭ ne uzi inkluzivitajn atestilojn. Tiu ĉi politiko nune funkcias nur en Windows.
+policy-CertificatesDescription = Aldoni atestilojn aŭ uzi inkluzivitajn atestilojn.
 policy-Cookies = Permesi aŭ bloki al retejoj konservi kuketojn.
 policy-DisableAppUpdate = Malpermesi al retumilo ĝisdatigiĝi.
 policy-DisableBuiltinPDFViewer = Malaktivigi PDF.js (PDF-legilo inkluzivita en { -brand-short-name }).
