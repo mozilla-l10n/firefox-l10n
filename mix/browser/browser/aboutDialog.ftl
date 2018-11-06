@@ -8,6 +8,9 @@ releaseNotes-link = Nchi yee ña tsaa
 update-checkForUpdatesButton =
     .label = Nda nduku ña tsaá
     .accesskey = N
+update-updateButton =
+    .label = Ndakitsa tava na ntutsai{ -brand-shorter-name }
+    .accesskey = R
 update-downloading = <img data-l10n-name="icon"/>Snuì ña tsaá—<label data-l10n-name="download-status"/>
 update-failed = Mani kuu ntu tsai<label data-l10n-name="failed-link">Snuù version saa ntii</label>
 update-failed-main = Mani kuu ntu tsai<a data-l10n-name="failed-link-main">Snuù version saa ntii</a>
@@ -20,3 +23,5 @@ community-2 = { -brand-short-name } ña saá <label data-l10n-name="community-mo
 helpus = ¿Kuniyu chinchee?<label data-l10n-name="helpus-donateLink">Saa in donacion</label> ña <label data-l10n-name="helpus-getInvolvedLink">chinchee!</label>
 bottomLinks-license = Tu'un ña licencia
 bottomLinks-privacy = Nixi inka vaa tutu'ku
+aboutDialog-architecture-sixtyFourBit = 64-bit
+aboutDialog-architecture-thirtyTwoBit = 32-bit
