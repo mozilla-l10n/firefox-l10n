@@ -5,3 +5,4 @@
 aboutDialog-title =
     .title = { -brand-full-name } గురించి
 bottomLinks-license = లైసెన్సింగ్ సమాచారం
+bottomLinks-privacy = గోప్యతా విధానం
