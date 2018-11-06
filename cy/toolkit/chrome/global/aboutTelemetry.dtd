@@ -12,7 +12,6 @@
 <!ENTITY aboutTelemetry.optionGroupToday "Heddiw">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Ddoe">
 <!ENTITY aboutTelemetry.optionGroupOlder "Hŷn">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Llwyth">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -29,6 +28,8 @@ Mae <a>dogfennaeth cleient Firefox Telemetry</a> yn cynnwys diffiniadau o gysyni
 <!ENTITY aboutTelemetry.telemetryDashboard "
 Mae <a>byrddau gwaith Telemetreg</a> yn caniatáu i chi weld y data mae Mozilla yn ei dderbyn drwy'r Delemetreg.">
 
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "Mae'r <a>Geiriadur Archwilio</a> yn darparu manylion a disgrifiadau ar gyfer y chwilio gasglwyd gan Delemetreg.">
+
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Agor yn y darllenydd JSON">
 
 <!ENTITY aboutTelemetry.homeSection "Cartref">
@@ -41,9 +42,7 @@ Mae <a>byrddau gwaith Telemetreg</a> yn caniatáu i chi weld y data mae Mozilla 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogramau Allweddol">
 <!ENTITY aboutTelemetry.eventsSection "  Digwyddiadau">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Mesuriadau Syml">
-<!ENTITY aboutTelemetry.telemetryLogSection " Cofnod Telemetreg">
 <!ENTITY aboutTelemetry.slowSqlSection "  Datganiadau SQL Araf">
-<!ENTITY aboutTelemetry.chromeHangsSection "  Oedi Porwr">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Manylion Ychwanegyn">
 <!ENTITY aboutTelemetry.capturedStacksSection "  Staciau wedi eu Cipio">
 <!ENTITY aboutTelemetry.lateWritesSection "  Ysgrifennu Hwyr">
