@@ -8,6 +8,9 @@ releaseNotes-link = Kas jauns
 update-checkForUpdatesButton =
     .label = Puorbaudeit atjaunynuojumus
     .accesskey = P
+update-updateButton =
+    .label = Puorstarteit { -brand-shorter-name }, kab atjaunynuotu
+    .accesskey = R
 update-checkingForUpdates = Meklej atjaunynuojumus…
 update-downloading = <img data-l10n-name="icon"/>Lejupīluodē atjaunynuojumu — <label data-l10n-name="download-status"/>
 update-applying = Instalej atjaunynuojumu…
@@ -24,3 +27,5 @@ community-2 = { -brand-short-name } veidoj <label data-l10n-name="community-mozi
 bottomLinks-license = Licenciešona informaceja
 bottomLinks-rights = Gola lītuotuoja tīseibys
 bottomLinks-privacy = Privatuma politika
+aboutDialog-architecture-sixtyFourBit = 64-bit
+aboutDialog-architecture-thirtyTwoBit = 32-bit
