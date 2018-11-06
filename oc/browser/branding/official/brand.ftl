@@ -16,4 +16,5 @@
 -brand-short-name = Firefox
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
+-brand-shorter-name = Firefox
 trademarkInfo = Firefox e los lògos de Firefox son de marcas depausadas de la fondacion Mozilla.

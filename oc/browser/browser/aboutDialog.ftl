@@ -4,10 +4,12 @@
 
 aboutDialog-title =
     .title = A prepaus de { -brand-full-name }
+releaseNotes-link = Novetats
 update-downloading = <img data-l10n-name="icon"/>Telecargament de mesa a jorn — <label data-l10n-name="download-status"/>
 update-applying = Aplicacion de la mesa a jorn…
 update-adminDisabled = Las mesas a jorn son desactivadas per vòstre administrator del sistèma
 update-noUpdatesFound = { -brand-short-name } es a jorn
+update-otherInstanceHandlingUpdates = { -brand-short-name } es mes a jorn per una autra instància
 update-manual = Mesas a jorn disponiblas a <label data-l10n-name="manual-link"/>
 channel-description = Actualament, utilizatz lo canal de mesa a jorn <label data-l10n-name="current-channel"></label> per metre a jorn.{ " " }
 warningDesc-version = { -brand-short-name } es experimental e pòt èsser instable.
