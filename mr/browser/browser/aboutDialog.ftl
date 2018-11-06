@@ -2,7 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+aboutDialog-title =
+    .title = { -brand-full-name } बद्दल
 update-checkingForUpdates = सुधारणांकरीता तपासणी करत आहे…
 update-downloading = <img data-l10n-name="icon"/>सुधारणा डाउनलोड करत आहे — <label data-l10n-name="download-status"/>
+update-applying = सुधारणा लागू करत आहे…
+update-otherInstanceHandlingUpdates = { -brand-short-name } यावेळी वेगळ्या ठिकाणाहून सुधारित होत आहे
 bottomLinks-license = परवाना माहिती
 bottomLinks-rights = वापरकर्त्याचे अधिकार
