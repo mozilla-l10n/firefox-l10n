@@ -4,3 +4,15 @@
 
 aboutDialog-title =
     .title = Om { -brand-full-name }
+releaseNotes-link = Kva er nytt
+update-checkForUpdatesButton =
+    .label = Sjå etter oppdateringar
+    .accesskey = S
+update-downloading = <img data-l10n-name="icon"/>Lastar ned oppdatering — <label data-l10n-name="download-status"/>
+update-adminDisabled = Oppdateringar er avslått av systemansvarleg
+update-noUpdatesFound = { -brand-short-name } er oppdatert
+update-otherInstanceHandlingUpdates = { -brand-short-name } vert oppdatert av ein annan instans
+update-manual = Oppdateringar er tilgjengelege på <label data-l10n-name="manual-link"/>
+bottomLinks-license = Lisensinfo
+bottomLinks-rights = Rettar for sluttbrukarar
+bottomLinks-privacy = Personvern
