@@ -17,3 +17,4 @@
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
 -brand-shorter-name = Firefox
+trademarkInfo = Firefox akked yiluguten n Firefox d ticraḍ n Mozilla Foundation.
