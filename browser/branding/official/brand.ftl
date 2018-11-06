@@ -15,3 +15,5 @@
 
 -brand-short-name = فَيَرفُكس
 -vendor-short-name = موزيلا
+-brand-full-name = موزيلا فَيَرفُكس
+trademarkInfo = فَيَرفُكس وشعاراته علامات تجارية لمؤسسة موزيلا.
