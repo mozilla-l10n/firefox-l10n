@@ -16,5 +16,6 @@ update-adminDisabled = 更新已被系统管理员禁用
 update-noUpdatesFound = { -brand-short-name } 已是最新
 update-otherInstanceHandlingUpdates = { -brand-short-name } 正在由其他实例更新
 channel-description = 您目前在 <label data-l10n-name="current-channel"></label> 更新通道。{ " " }
+warningDesc-version = { -brand-short-name } 是实验性的测试版本，可能不够稳定。
 bottomLinks-license = 授权信息
 bottomLinks-rights = 最终用户权利
