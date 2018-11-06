@@ -101,7 +101,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "Ko apañuãi ikatuhína pe aravo oĩvai rupi ne mohendahápe, oñatõiva &brandShortName;-pe oikekatu hag̃ua.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; ohechakuaa tekorosã imarãkuaaha ha upévare ndoku’evéi <span class='hostname'/> gotyo ko ñanduti renda oikotevẽ jeike katu rehe.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; ohechakuaa peteĩ apañuãi ha upévare ndoku’evéi <span class='hostname'/> gotyo. Ko ñanduti renda noñembohekoporãi térã ne mohendaha aravopapaha noñembohekói aravo añetévape.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "¿Mba’épa ikatu ejapo upéicharamo?">
 
