@@ -4,6 +4,7 @@
 
 aboutDialog-title =
     .title = 关于 { -brand-full-name }
+releaseNotes-link = 新版变化
 update-checkForUpdatesButton =
     .label = 检查更新
     .accesskey = C
@@ -29,3 +30,5 @@ helpus = 想帮忙吗？<label data-l10n-name="helpus-donateLink">向我们捐�
 bottomLinks-license = 授权信息
 bottomLinks-rights = 最终用户权利
 bottomLinks-privacy = 隐私政策
+aboutDialog-architecture-sixtyFourBit = 64 位
+aboutDialog-architecture-thirtyTwoBit = 32 位
