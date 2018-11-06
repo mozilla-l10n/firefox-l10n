@@ -19,3 +19,4 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } ña saá <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>in <label data-l10n-name="community-creditsLink">ñani ña yivii</label> sachu'un ntio taba na koo in web nuna, ña ntio cha nu nti'ina na kuu kuachui.
 helpus = ¿Kuniyu chinchee?<label data-l10n-name="helpus-donateLink">Saa in donacion</label> ña <label data-l10n-name="helpus-getInvolvedLink">chinchee!</label>
 bottomLinks-license = Tu'un ña licencia
+bottomLinks-privacy = Nixi inka vaa tutu'ku
