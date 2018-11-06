@@ -20,8 +20,11 @@ update-adminDisabled = Mae'r diweddariad wedi ei analluogi gan eich gweinyddwr
 update-noUpdatesFound = Mae { -brand-short-name } yn gyfredol
 update-otherInstanceHandlingUpdates = Mae { -brand-short-name } yn cael ei ddiweddaru gan enghraifft arall
 update-manual = Diweddariadau ar gael yn <label data-l10n-name="manual-link"/>
+update-unsupported = Nid oes modd i chi ddiweddaru'r system hon ymhellach. <label data-l10n-name="unsupported-link">Dysgu rhagor</label>
 update-restarting = Ailgychwyn…
+channel-description = Rydych ar sianel diweddaru <label data-l10n-name="current-channel"></label>.
 warningDesc-version = Mae { -brand-short-name } yn arbrofol a gall fod yn ansad.
+community-2 = Cynlluniwyd { -brand-short-name } gan <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">cymuned fyd-eang</label> sy'n cydweithio i gadw'r We yn agored, cyhoeddus ac ar gael i bawb.
 helpus = Eisiau helpu? <label data-l10n-name="helpus-donateLink">Gallwch wneud rhodd</label> neu <label data-l10n-name="helpus-getInvolvedLink">ymuno â ni!</label>
 bottomLinks-license = Manylion Trwyddedu
 bottomLinks-rights = Hawliau'r Defnyddiwr
