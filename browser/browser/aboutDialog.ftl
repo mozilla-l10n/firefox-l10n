@@ -4,6 +4,7 @@
 
 aboutDialog-title =
     .title = Wo { -brand-full-name }
+releaseNotes-link = Nowe funkcije a změny
 update-checkForUpdatesButton =
     .label = Aktualizacije pytać
     .accesskey = A
