@@ -16,3 +16,5 @@
 -brand-short-name = Firefox
 -vendor-short-name = Mozira
 -brand-full-name = Mozilla Firefox
+-brand-shorter-name = Fayafoxi
+trademarkInfo = Firefox nibirango byayo ni umutungo w' ifatizo rya Mozilla.
