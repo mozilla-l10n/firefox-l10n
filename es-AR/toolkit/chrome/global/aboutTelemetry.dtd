@@ -32,9 +32,6 @@ Ayer
 <!ENTITY aboutTelemetry.optionGroupOlder "
 Antiguo
 ">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Payload
-">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -52,6 +49,8 @@ La <a>documentación de datos de Firefox</a> contiene guías sobre como trabajar
 La <a>documentación del cliente Telemetry de Firefox</a> incluye definiciones para conceptos, documentación de API y referencias de datos.
 ">
 <!ENTITY aboutTelemetry.telemetryDashboard "Los <a>tableros de Telemetría</a> le permiten visualizar los datos de Telemetría que recibe Mozilla.">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "El <a>Probe Dictionary</a> proporciona detalles y descripciones de los rastreos recopilados por Telemetry.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 Abrir en el visor de JSON
@@ -84,14 +83,8 @@ Abrir en el visor de JSON
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Medidas simples
 ">
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Registro de Telemetry
-">
 <!ENTITY aboutTelemetry.slowSqlSection "
   Sentencias SQL lentas
-">
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Colgadas del navegador
 ">
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Detalles de complementos
