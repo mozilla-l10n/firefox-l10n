@@ -7,4 +7,6 @@ aboutDialog-title =
 update-checkingForUpdates = Đang kiểm tra cập nhật…
 update-downloading = <img data-l10n-name="icon"/>Đang tải cập nhật — <label data-l10n-name="download-status"/>
 update-otherInstanceHandlingUpdates = { -brand-short-name } đang được cập nhật bởi tiến trình khác
+update-manual = Cập nhật có tại <label data-l10n-name="manual-link"/>
 update-unsupported = Bạn không thể cập nhật thêm trên hệ thống này nữa. <label data-l10n-name="unsupported-link">Tìm hiểu thêm</label>
+warningDesc-version = { -brand-short-name } đang được thử nghiệm và có thể không ổn định.
