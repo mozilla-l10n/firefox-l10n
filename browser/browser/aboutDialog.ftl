@@ -11,6 +11,7 @@ update-checkForUpdatesButton =
 update-updateButton =
     .label = { -brand-shorter-name } 업데이트를 위해 재시작
     .accesskey = R
+update-checkingForUpdates = 업데이트를 확인하고 있습니다…
 update-downloading = <img data-l10n-name="icon"/>업데이트 다운로드 중 — <label data-l10n-name="download-status"/>
 update-applying = 업데이트 적용 중…
 update-failed = 업데이트를 실패했습니다. <label data-l10n-name="failed-link">최신 버전 다운로드</label>
