@@ -15,3 +15,6 @@
 
 -brand-short-name = فایرفاکس
 -vendor-short-name = موزیلا
+-brand-full-name = موزیلا فایرفاکس
+-brand-shorter-name = فایرفاکس
+trademarkInfo = فایرفاکس تہِ فائر فاکس لوگو چھہِ موزیلا فاؤنڈیشنِک ٹریڈ مارک.
