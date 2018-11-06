@@ -6,6 +6,7 @@ aboutDialog-title =
     .title = Ngokuphathelene ne-{ -brand-full-name }
 update-checkingForUpdates = Kuhlolwa ukuvuselelwa…
 update-downloading = <img data-l10n-name="icon"/>Kulayishwa ukuvuselelwa — <label data-l10n-name="download-status"/>
+update-applying = Kusetshenziswa ukuvuselelwa...
 update-failed = Ukuvuselelwa kuhlulekile. <label data-l10n-name="failed-link">Layisha ubuyekezo lwakamuva</label>
 update-failed-main = Ukuvuselelwa kuhlulekile. <a data-l10n-name="failed-link-main">Layisha ubuyekezo lwakamuva</a>
 update-adminDisabled = Ukuvuselelwa kukhutshazelwe umphathi wohlelo lwakho
