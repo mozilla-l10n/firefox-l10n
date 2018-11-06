@@ -11,6 +11,8 @@ update-downloading = <img data-l10n-name="icon"/>Asider n lqem—  <label data-l
 update-applying = Asnas n uleqqem..{ " " }
 update-noUpdatesFound = { -brand-short-name } yettwaleqqem
 update-manual = Ileqman llan deg  <label data-l10n-name="manual-link"/>
+update-unsupported = Ur tezmireḍ ara ad tleqmeḍ ugar ɣef unagraw-agi. <label data-l10n-name="unsupported-link">Issin ugar </label>
 warningDesc-version = { -brand-short-name } d armitan yerna ur yerkid.
+bottomLinks-license = Talɣut n turagt
 aboutDialog-architecture-sixtyFourBit = 64-ibiten
 aboutDialog-architecture-thirtyTwoBit = 32-ibiten
