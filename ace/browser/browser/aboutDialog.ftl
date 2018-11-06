@@ -13,6 +13,7 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Paréksa peuë nyang barô…
 update-downloading = <img data-l10n-name="icon"/>Neu-unduh beunarô — <label data-l10n-name="download-status"/>
+update-applying = Neupeuja peubarô…
 update-failed = Peubarô hana wasé. <label data-l10n-name="failed-link">Unduh versi paléng barô</label>
 update-failed-main = Peubarô hana wasé. <a data-l10n-name="failed-link-main">Unduh versi paléng barô</a>
 update-adminDisabled = Peubarô geupeumaté lé ureueng urôih sistem droëneuh
@@ -29,3 +30,5 @@ helpus = Peureulèë beunantu? <label data-l10n-name="helpus-donateLink">Meurip�
 bottomLinks-license = Informasi Idin
 bottomLinks-rights = Hak Ureuëng Ngui-Keuchet
 bottomLinks-privacy = Keumiet Rahsia
+aboutDialog-architecture-sixtyFourBit = 64-bit
+aboutDialog-architecture-thirtyTwoBit = 32-bit
