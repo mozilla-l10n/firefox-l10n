@@ -19,6 +19,7 @@ update-adminDisabled = Uuendused on süsteemiadministraatori poolt keelatud
 update-noUpdatesFound = Kasutusel on { -brand-short-name }i uusim versioon
 update-otherInstanceHandlingUpdates = { -brand-short-name }i uuendatakse teise protsessi poolt
 update-manual = Uuendused on saadaval aadressil <label data-l10n-name="manual-link"/>
+update-unsupported = Edasised uuendused selle süsteemi peal pole võimalikud. <label data-l10n-name="unsupported-link">Rohkem teavet</label>
 update-restarting = Taaskäivitamine…
 channel-description = Kasutusel on uuendustekanal <label data-l10n-name="current-channel"></label>.{ " " }
 warningDesc-version = { -brand-short-name } on katsetamiseks ja võib olla ebastabiilne.
