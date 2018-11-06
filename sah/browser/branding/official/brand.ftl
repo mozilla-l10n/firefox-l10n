@@ -14,3 +14,5 @@
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
 -vendor-short-name = Mozilla
+-brand-full-name = Mozilla Firefox
+trademarkInfo = Firefox уонна Firefox логотииптара Mozilla Foundation бас билиитэ буолаллар.
