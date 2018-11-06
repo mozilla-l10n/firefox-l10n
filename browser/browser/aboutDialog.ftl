@@ -22,6 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } басқа экзе�
 update-manual = Жаңартулар қолжетерлік жері: <label data-l10n-name="manual-link"/>
 update-unsupported = Бұл жүйе үшін болашақ жаңартуларды орната алмайсыз. <label data-l10n-name="unsupported-link">Көбірек білу</label>
 update-restarting = Қайта қосылуда…
+channel-description = Сіз <label data-l10n-name="current-channel"></label> жаңарту арнасындасыз.{ " " }
 warningDesc-version = { -brand-short-name } сынама түрі және тұрақсыз болуы мүмкін.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> бұл <label data-l10n-name="community-exp-creditsLink">глобалды қоғамдастық,</label> Интернетті ашық, ортақ және қолжетерлік қылуға бірге жұмыс істейді.
 community-2 = { -brand-short-name } жасаған <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ол <label data-l10n-name="community-creditsLink">глобалды қоғамдастық,</label> Интернетті ашық, ортақ және қолжетерлік қылуға бірге жұмыс істейді.
