@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+aboutDialog-title =
+    .title = &brandFullName பற்றி;
 update-checkingForUpdates = இற்றைப்படுத்தப்படுகிறது…
 update-downloading = <img data-l10n-name="icon"/>இற்றைப்படுத்தல்கள் பதிவிறக்கப்படுகிறது...<label data-l10n-name="download-status"/>
 update-applying = இற்றைப்படுத்தல்கள் செயல்படுத்துகிறது...
