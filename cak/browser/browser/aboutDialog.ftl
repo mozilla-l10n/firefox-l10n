@@ -24,8 +24,11 @@ update-unsupported = Man tikirel ta chik nab'an taq k'exoj pa re q'inoj re'. <la
 update-restarting = Tajin nitikirisäx chik…
 channel-description = Tajin nawokisaj ri q'axab'äl <label data-l10n-name="current-channel"></label> kiq'axab'al taq k'exoj ruwäch.{ " " }
 warningDesc-version = { -brand-short-name } choj ok nitojtob'ëx, rik’in jub'a' man pa rub'eyal ta.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> jun <label data-l10n-name="community-exp-creditsLink">chijun ach'ala'il</label> yojsamäj pa q'u'ch richin jantape' jaqäl chuqa' okel nisamajïx ri k'amaya'l.
+community-2 = { -brand-short-name } wachib'en ruma <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, jun <label data-l10n-name="community-creditsLink">chijun ach'ala'il</label> yojsamäj junam richin jantape' jaqäl chuqa' okel nisamajïx ri k’amaya'l.
 helpus = ¿La nawajo' yato'on? <label data-l10n-name="helpus-donateLink">Taya' jun sipanïk</label> o <label data-l10n-name="helpus-getInvolvedLink">¡kato'on!</label>
 bottomLinks-license = Na'oj chi rij ya'öl q’ij
+bottomLinks-rights = Kich'ojib'al K'isib'äl-Okisanel
 bottomLinks-privacy = Runa'ojil ichinanem
 aboutDialog-architecture-sixtyFourBit = 64-bit
 aboutDialog-architecture-thirtyTwoBit = 32-bit
