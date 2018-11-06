@@ -4,6 +4,7 @@
 
 aboutDialog-title =
     .title = About { -brand-full-name }
+releaseNotes-link = What’s new
 update-checkForUpdatesButton =
     .label = Check for updates
     .accesskey = C
