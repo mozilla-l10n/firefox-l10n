@@ -5,6 +5,12 @@
 aboutDialog-title =
     .title = { -brand-full-name } ਬਾਰੇ
 releaseNotes-link = ਨਵਾਂ ਕੀ ਹੈ
+update-checkForUpdatesButton =
+    .label = ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰੋ
+    .accesskey = C
+update-updateButton =
+    .label = { -brand-shorter-name } ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਮੁੜ ਚਾਲੂ ਕਰੋ
+    .accesskey = R
 update-checkingForUpdates = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
 update-downloading = <img data-l10n-name="icon"/>ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ — <label data-l10n-name="download-status"/>
 update-applying = …ਅੱਪਡੇਟ ਲਾਗੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
