@@ -5,6 +5,9 @@
 aboutDialog-title =
     .title = Пра { -brand-full-name }
 releaseNotes-link = Што новага
+update-checkForUpdatesButton =
+    .label = Праверыць наяўнасць абнаўленняў
+    .accesskey = П
 update-updateButton =
     .label = Перазапуск для абнаўлення { -brand-shorter-name }
     .accesskey = П
