@@ -1070,6 +1070,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "启用对此网站的拦截">
 <!ENTITY trackingProtection.block5.accesskey "E">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "对此网站关闭拦截">
+<!ENTITY trackingProtection.unblock5.accesskey "T">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "暂时关闭拦截">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.label "对此网站开启拦截">
+<!ENTITY trackingProtection.block6.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "重新载入页面">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
