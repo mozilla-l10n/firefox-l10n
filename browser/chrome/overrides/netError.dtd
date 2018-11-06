@@ -154,9 +154,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "Majitel serveru <span class='hostname'/> nakonfiguroval své webové stránky nesprávně. Abychom chránili vaše informace před odcizením, &brandShortName; se k této webové stránce nepřipojil.">
 <!ENTITY certerror.introPara2 "Aplikace &brandShortName; rozpoznala potenciální bezpečnostní riziko a stránku <span class='hostname'/> nenačetla. Pokud se přesto rozhodnete stránku navštívit, útočníci mohou získat vaše informace, jako hesla, e-mailovou adresu nebo číslo platební karty.">
 
-<!ENTITY certerror.sts.introPara "Aplikace &brandShortName; rozpoznala potenciální bezpečnostní riziko a stránku <span class='hostname'/> nenačetla, protože tato stránka vyžaduje zabezpečené spojení.">
-
 <!ENTITY certerror.expiredCert.secondPara "Tento problém je pravděpodobně způsobem špatným nastavením času na vašem počítači, které brání aplikaci &brandShortName; v navázání zabezpečeného spojení.">
+
+<!ENTITY certerror.sts.introPara "Aplikace &brandShortName; rozpoznala potenciální bezpečnostní riziko a stránku <span class='hostname'/> nenačetla, protože tato stránka vyžaduje zabezpečené spojení.">
 
 <!ENTITY certerror.expiredCert.introPara "Aplikace &brandShortName; rozpoznala problém a stránku <span class='hostname'/> nenačetla. Server je buď špatně nastaven a nebo hodiny na vašem počítači nejdou správně.">
 <!ENTITY certerror.expiredCert.secondPara2 "Pravděpodobně stránce vypršela platnost certifikátu, což brání aplikaci &brandShortName; v bezpečném připojení. Pokud se přesto rozhodnete stránku navštívit, útočníci mohou získat vaše informace, jako hesla, e-mailovou adresu nebo číslo platební karty.">
@@ -237,3 +237,6 @@ pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifiká
 
 <!ENTITY prefReset.longDesc "Zdá se, že příčinou může být vaše nastavení zabezpečení. Chcete obnovit výchozí nastavení?">
 <!ENTITY prefReset.label "Obnovit výchozí nastavení">
+
+<!ENTITY networkProtocolError.title "Chyba síťového protokolu">
+<!ENTITY networkProtocolError.longDesc "<p>Požadovanou stránku nelze zobrazit, protože došlo k chybě v síťovém protokolu.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">

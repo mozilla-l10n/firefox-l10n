@@ -612,6 +612,9 @@ sitedata-keep-until-expire =
     .label = konce doby platnosti
 sitedata-keep-until-closed =
     .label = ukončení aplikace { -brand-short-name }
+sitedata-delete-on-close =
+    .label = Vymazat cookies a data stránek při zavření aplikace { -brand-short-name }
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Ukládat všechny cookies a data stránek
     .accesskey = a
@@ -857,3 +860,7 @@ certs-view =
 certs-devices =
     .label = Bezpečnostní zařízení…
     .accesskey = B
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Uložit soubory na { $service-name }

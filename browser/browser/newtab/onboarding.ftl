@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Vyzkoušet
+onboarding-button-label-get-started = Začínáme
 onboarding-welcome-header = Vítá vás { -brand-short-name }
 onboarding-start-browsing-button-label = Začít prohlížet
 
@@ -24,3 +25,6 @@ onboarding-addons-title = Doplňky
 onboarding-addons-text = Přidejte si do aplikace { -brand-short-name } další funkce. Porovnávání cen v e-shopech, předpověď počasí nebo vlastní vzhled prohlížeče.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Ještě rychlejší, chytřejší a bezpečnější prohlížení vám umožní např. rozšíření Ghostery, které blokuje otravné reklamy.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Synchronizace
+onboarding-fxa-text = Přihlaste se k účtu Firefoxu a synchronizuje své záložky, hesla a otevřené panely kdekoliv používáte aplikaci { -brand-short-name }.
