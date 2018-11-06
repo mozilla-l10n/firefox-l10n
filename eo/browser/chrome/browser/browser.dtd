@@ -23,10 +23,14 @@
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "Reŝargi ĉiujn langetojn">
 <!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  selectAllTabs.label                "Elekti ĉiujn langetojn">
+<!ENTITY  selectAllTabs.accesskey            "E">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Duobligi langeton">
 <!ENTITY  duplicateTab.accesskey             "D">
+<!ENTITY  closeTabOptions.label              "Elektebloj por fermo de langeto">
+<!ENTITY  closeTabOptions.accesskey          "E">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -38,19 +42,29 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Fermi elektitajn langetojn">
 <!ENTITY  closeSelectedTabs.accesskey        "e">
 
+<!ENTITY  closeTabs.label                    "Fermi langetojn">
+<!ENTITY  closeTabs.accesskey                "F">
 <!ENTITY  pinSelectedTabs.label              "Alpingli langetojn">
-<!-- Pin Tab and Pin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinSelectedTabs.accesskey          "l">
 <!ENTITY  unpinSelectedTabs.label            "Depingli langetojn">
-<!-- Unpin Tab and Unpin Selected Tabs have the same accesskey
-but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinSelectedTabs.accesskey        "D">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.label           "Reŝargi elektitajn langetojn">
 <!ENTITY  reloadSelectedTabs.accesskey       "R">
+<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
+but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Reŝargi langetojn">
+<!ENTITY  reloadTabs.accesskey               "R">
 <!ENTITY  bookmarkSelectedTabs.label         "Aldoni langetojn al legosignoj…">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  bookmarkSelectedTabs.accesskey     "A">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -59,8 +73,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Alpingli langeton">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "l">
 <!ENTITY  unpinTab.label                     "Depingli langeton">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "D">
 <!ENTITY  sendTabToDevice.label              "Sendi langeton al aparato">
 <!ENTITY  sendTabToDevice.accesskey          "a">
@@ -68,12 +88,20 @@ can reach it easily. -->
 <!ENTITY  sendPageToDevice.accesskey         "a">
 <!ENTITY  sendLinkToDevice.label             "Sendi ligilon al aparato">
 <!ENTITY  sendLinkToDevice.accesskey         "a">
+<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
+These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Movi langeton">
+<!ENTITY  moveTabOptions.accesskey           "M">
+<!ENTITY  moveSelectedTabOptions.label       "Movi langetojn">
+<!ENTITY  moveSelectedTabOptions.accesskey   "M">
 <!ENTITY  moveToNewWindow.label              "Movi al nova fenestro">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  reopenInContainer.label            "Remalfermi en ingo">
 <!ENTITY  reopenInContainer.accesskey        "i">
 <!ENTITY  bookmarkAllTabs.label              "Aldoni legosignon por ĉiuj langetoj…">
 <!ENTITY  bookmarkAllTabs.accesskey          "l">
+<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "Malfari fermadon de langeto">
 <!ENTITY  undoCloseTab.accesskey             "M">
 <!ENTITY  closeTab.label                     "Fermi langeton">
@@ -100,6 +128,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
+
 <!ENTITY goOfflineCmd.label "Labori malkonektite">
 <!ENTITY goOfflineCmd.accesskey "L">
 
@@ -114,6 +143,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "R">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Aldoni legosignon por ĉiuj langetoj…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "l">
+
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Malfermi fermitan langeton">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "M">
 
@@ -558,9 +600,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Reŝargi kadron">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Vidi fonton de selekto">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Vidi fonton de MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Vidi fonton de paĝo">
 <!ENTITY viewPageSourceCmd.accesskey  "f">
@@ -777,7 +816,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "24em">
 <!ENTITY editBookmark.done.label                     "Preta">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Montri redaktilon dum konservo">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "M">
 
@@ -927,9 +965,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "La sono el tiu ĉi langeto estos dividita.">
 <!ENTITY getUserMedia.allWindowsShared.message "Ĉiuj videblaj fenestroj en via ekrano estos dividitaj.">
 
-<!ENTITY trackingProtection.on "Kontraŭspura protekto: ŜALTITA">
-<!ENTITY trackingProtection.off "Kontraŭspura protekto: MALŜALTITA">
-
 <!ENTITY contentBlocking.title "Blokado de enhavo">
 <!ENTITY contentBlocking.detected "Blokebla enhavo trovita en tiu ĉi retejo.">
 <!ENTITY contentBlocking.notDetected "Neniu blokebla enhavo estis trovita en tiu ĉi paĝo.">
@@ -944,6 +979,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.fastBlock.blocked.label "Blokitaj">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
+     "Firefox is blocking Slow-Loading Trackers"-->
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -957,6 +996,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Blokitaj">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Trackers"-->
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -970,6 +1013,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
 <!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokitaj">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Third-Party Cookies"-->
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -987,32 +1034,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Protekto kontraŭ spurado">
 <!ENTITY trackingProtection.tooltip "Malfermi preferojn de protekto kontraŭ spurado">
-<!ENTITY trackingProtection.detectedBlocked4 "&brandShortName; blokas partojn de tiu ĉi paĝo, kiuj povus spuri vian retumon.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "&brandShortName; eltrovis elementojn, kiuj povas spuri vian retumon.">
-<!ENTITY trackingProtection.detectedException "&brandShortName; eltrovis elementojn, kiuj povas spuri vian retumadon. Vi malaktivigis protekton por tiu ĉi retejo.">
-<!ENTITY trackingProtection.notDetected5 "Neniu spura elemento en tiu ĉi paĝo.">
-<!ENTITY trackingProtection.notDetectedException "Neniu spura elemento eltrovita en tiu ĉi paĝo. Vi malaktivigis protekton por tiu ĉi retejo.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Vi aktivigis protekton kontraŭ spurado. Reŝargu tiun ĉi paĝon por bloki ĉiujn spurilojn.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Malaktivigi por tiu ĉi retejo">
-<!ENTITY trackingProtection.unblock3.accesskey "M">
 <!ENTITY trackingProtection.unblock4.label "Malaktivigi blokadon por tiu ĉi retejo">
 <!ENTITY trackingProtection.unblock4.accesskey "M">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Malaktivigi dum tiu ĉi seanco">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "s">
-<!ENTITY trackingProtection.block4.label "Aktivigi por tiu ĉi retejo">
-<!ENTITY trackingProtection.block4.accesskey "A">
 <!ENTITY trackingProtection.unblockPrivate4.label "Provizore malaktivigi blokadon">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "P">
 <!ENTITY trackingProtection.block5.label "Aktivigi blokadon por tiu ĉi retejo">
 <!ENTITY trackingProtection.block5.accesskey "A">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.reload2.label "Reŝargi paĝon">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
@@ -1118,7 +1159,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Aparatoj spegulataj…">
 
 <!ENTITY pageAction.shareUrl.label "Dividi">
-
 <!ENTITY pageAction.shareMore.label "Pli…">
 
 <!ENTITY libraryButton.tooltip "Vidi historion, konservitajn legosignojn kaj pli">
