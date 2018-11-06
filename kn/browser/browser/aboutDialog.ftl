@@ -19,6 +19,7 @@ update-failed-main = ಅಪ್‌ಡೇಟ್ ವಿಫಲಗೊಂಡಿದೆ.
 update-adminDisabled = ನಿಮ್ಮ ವ್ಯವಸ್ಥೆಯ ನಿರ್ವಾಹಕರಿಂದ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ
 update-noUpdatesFound = { -brand-short-name } ಅಪ್‌ಟುಡೇಟ್ ಆಗಿದೆ
 update-otherInstanceHandlingUpdates = { -brand-short-name } ಅನ್ನು ಇನ್ನೊಂದು ನಿದರ್ಶನದಿಂದ ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ
+update-manual = ಅಪ್‌ಡೇಟ್‌ಗಳು ಇಲ್ಲಿ ಲಭ್ಯವಿವೆ <label data-l10n-name="manual-link"/>
 update-unsupported = ಈ ವ್ಯವಸ್ಥೆಗೆ ಇನ್ನು ಮುಂದಿನ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. <label data-l10n-name="unsupported-link">ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</label>
 update-restarting = ಮರಳಿಆರಂಭಿಸಲಾಗುತ್ತಿದೆ…
 channel-description = ನೀವು ಈಗ <label data-l10n-name="current-channel"></label> ಅಪ್‌ಡೇಟ್ ಚಾನಲ್‌ನಲ್ಲಿದ್ದೀರಿ.{ " " }
