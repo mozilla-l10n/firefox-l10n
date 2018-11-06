@@ -4,12 +4,23 @@
 
 aboutDialog-title =
     .title = Ynghylch { -brand-full-name }
+releaseNotes-link = Beth sy'n newydd
+update-checkForUpdatesButton =
+    .label = Gwirio am ddiweddariadau
+    .accesskey = G
 update-checkingForUpdates = Gwirio am ddiweddariadau…
 update-applying = Gosod y diweddariad…
+update-failed = Methodd y diweddaru. <label data-l10n-name="failed-link">Llwythwch y fersiwn diweddaraf i lawr</label>
+update-failed-main = Methodd y diweddaru. <a data-l10n-name="failed-link-main">Llwythwch y fersiwn diweddaraf i lawr</a>
 update-adminDisabled = Mae'r diweddariad wedi ei analluogi gan eich gweinyddwr
 update-noUpdatesFound = Mae { -brand-short-name } yn gyfredol
 update-otherInstanceHandlingUpdates = Mae { -brand-short-name } yn cael ei ddiweddaru gan enghraifft arall
 update-manual = Diweddariadau ar gael yn <label data-l10n-name="manual-link"/>
+update-restarting = Ailgychwyn…
 warningDesc-version = Mae { -brand-short-name } yn arbrofol a gall fod yn ansad.
+helpus = Eisiau helpu? <label data-l10n-name="helpus-donateLink">Gallwch wneud rhodd</label> neu <label data-l10n-name="helpus-getInvolvedLink">ymuno â ni!</label>
+bottomLinks-license = Manylion Trwyddedu
 bottomLinks-rights = Hawliau'r Defnyddiwr
 bottomLinks-privacy = Polisi Preifatrwydd
+aboutDialog-architecture-sixtyFourBit = 64 did
+aboutDialog-architecture-thirtyTwoBit = 32 did
