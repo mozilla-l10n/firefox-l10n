@@ -1008,6 +1008,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "ব্লকিং যুক্ত করুন...">
 
+<!ENTITY contentBlocking.trackingProtection2.label "সব সনাক্তকৃত ট্র্যাকার">
 <!ENTITY contentBlocking.trackingProtection3.label "ট্রাকারসমূহ">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
@@ -1045,7 +1046,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "ব্লকিং যোগ করুন…">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "সমস্যা রিপোর্ট করুন">
+<!ENTITY contentBlocking.breakageReportView.label "সমস্যা রিপোর্ট করুন">
+<!ENTITY contentBlocking.breakageReportView.learnMore "আরও জানুন">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "আপনার কি সমস্যা ছিল? (ঐচ্ছিক)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "রিপোর্ট পাঠান">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "বাতিল">
 
 <!ENTITY trackingProtection.title "ট্রাকিং সুরক্ষা">
@@ -1067,9 +1073,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "এই সাইটের জন্য ব্লকিং বন্ধ করুন">
+<!ENTITY trackingProtection.unblock5.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "সাময়িকভাবে ব্লক বন্ধ করুন">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.label "এই সাইটের জন্য ব্লকিং চালু করুন">
+<!ENTITY trackingProtection.block6.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "পেজ রিলোড">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
