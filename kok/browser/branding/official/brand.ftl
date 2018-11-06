@@ -14,3 +14,5 @@
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
 -vendor-short-name = मोझीला
+-brand-full-name = मॉझिला फायरफॉक्स
+trademarkInfo = फायरफॉक्स आनी फायरफॉक्स चीं बोधचिन्नां  मोझिला फावंडेशनाची वेपारी कुरू आसा.
