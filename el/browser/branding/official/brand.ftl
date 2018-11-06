@@ -17,3 +17,4 @@
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
 -brand-shorter-name = Firefox
+trademarkInfo = Το Firefox και τα λογότυπα του Firefox αποτελούν εμπορικά σήματα του Ιδρύματος Mozilla.
