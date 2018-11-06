@@ -4,6 +4,7 @@
 
 aboutDialog-title =
     .title = O { -brand-full-name }u
+releaseNotes-link = Novosti
 update-checkForUpdatesButton =
     .label = Preveri posodobitve
     .accesskey = P
@@ -25,3 +26,5 @@ helpus = Želite pomagati? <label data-l10n-name="helpus-donateLink">Donirajte</
 bottomLinks-license = Dovoljenja
 bottomLinks-rights = Vaše pravice
 bottomLinks-privacy = Politika zasebnosti
+aboutDialog-architecture-sixtyFourBit = 64-bitni
+aboutDialog-architecture-thirtyTwoBit = 32-bitni
