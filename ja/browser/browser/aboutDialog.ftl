@@ -4,6 +4,7 @@
 
 aboutDialog-title =
     .title = { -brand-full-name } について
+releaseNotes-link = 更新情報
 update-checkForUpdatesButton =
     .label = ソフトウェアの更新を確認
     .accesskey = C
@@ -20,8 +21,11 @@ update-noUpdatesFound = { -brand-short-name } は最新バージョンです
 update-otherInstanceHandlingUpdates = { -brand-short-name } は別のプロセスで更新中です
 update-manual = 更新が利用可能です <label data-l10n-name="manual-link"/>
 update-unsupported = 最新バージョンはご使用のシステムに対応していません。<label data-l10n-name="unsupported-link">詳細</label>
+update-restarting = 再起動中です...
 channel-description = 現在のアップデートチャンネルは <label data-l10n-name="current-channel"></label> です。{ " " }
 warningDesc-version = { -brand-short-name } は実験的であり、不安定な可能性があります。
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> はウェブの公開性、公衆性、制限のないアクセス性を保つために共に活動している <label data-l10n-name="community-exp-creditsLink">グローバルなコミュニティ</label> です。
+community-2 = { -brand-short-name } をデザインしている <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> は、ウェブの公開性、公衆性、制限のないアクセス性を保つために共に活動している <label data-l10n-name="community-creditsLink">グローバルなコミュニティ</label> です。
 helpus = 参加しませんか？ <label data-l10n-name="helpus-donateLink">寄付</label> または <label data-l10n-name="helpus-getInvolvedLink">コミュニティへようこそ！</label>
 bottomLinks-license = ライセンス情報
 bottomLinks-rights = あなたの権利について
