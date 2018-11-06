@@ -12,5 +12,6 @@ update-adminDisabled = Chuir rianaire an t-siostaim agad casg air ùrachaidhean
 update-noUpdatesFound = Tha { -brand-short-name } cho ùr 's a ghabhas
 update-manual = Ùrachaidhean a tha ri am faighinn aig <label data-l10n-name="manual-link"/>
 channel-description = Tha thu san t-seanail ùrachaidh <label data-l10n-name="current-channel"></label> an-dràsta.{ " " }
+warningDesc-version = Thathar ag obair air { -brand-short-name } fhathast agus faodaidh nach bi iad buileach seasmhach.
 bottomLinks-license = Fiosrachadh ceadachais
 bottomLinks-privacy = Poileasaidh prìobhaideachd
