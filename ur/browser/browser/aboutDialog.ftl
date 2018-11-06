@@ -27,8 +27,8 @@ warningDesc-version = { -brand-short-name } تجرباتی ہے اور غیر م
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>ہے ایک<label data-l10n-name="community-exp-creditsLink">عالمی گروه</label>  آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ-
 community-2 = { -brand-short-name } کے ڈیزائنر ہیں<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>، آ<label data-l10n-name="community-creditsLink">عالمہ گروہ</label>   آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ-
 helpus = مدد کرنا چاہیں گے؟ <label data-l10n-name="helpus-donateLink">ڈونیشن دیں</label> یا <label data-l10n-name="helpus-getInvolvedLink">شامل ہوں!</label>
-bottomLinks-license = لائسنس کرنے کی معلومات{ " " }
-bottomLinks-rights = صارف کے حقوق{ " " }
+bottomLinks-license = لائسنس کرنے کی معلومات
+bottomLinks-rights = صارف کے حقوق
 bottomLinks-privacy = رازداری پالیسی
 aboutDialog-architecture-sixtyFourBit = 64-بٹ
 aboutDialog-architecture-thirtyTwoBit = 32-بٹ
