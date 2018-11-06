@@ -12,7 +12,6 @@
 <!ENTITY aboutTelemetry.optionGroupToday "Dźensa">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Wčera">
 <!ENTITY aboutTelemetry.optionGroupOlder "Starši">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Wužitna ćeža">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -24,6 +23,8 @@
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Datowa dokumentacija Firefox</a> nawody wo dźěłanju z našimi datowymi nastrojemi wobsahuje.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Klientowa dokumentacija za telemetriju Firefox</a> definicije za koncepty, API-dokumentaciju a datowe referency wobsahuje.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Telemetrijowy přehlad</a> wam zmóžnja, daty wizualizować, kotrež Mozilla přez telemetriju dóstawa.">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Probe Dictionary</a> staja podrobnosće a wopisanja za proby k dispoziciji, kotrež su so z telemetriju nahromadźili.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "W JSON-wobhladowaku wočinić">
 
@@ -37,9 +38,7 @@
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Kodowane histogramy">
 <!ENTITY aboutTelemetry.eventsSection "  Podawki">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Jednore měrjenja">
-<!ENTITY aboutTelemetry.telemetryLogSection "  Telemetrijowy protokol">
 <!ENTITY aboutTelemetry.slowSqlSection "  Pomałe SQL-přikazy">
-<!ENTITY aboutTelemetry.chromeHangsSection "  Wisanja wobhladowaka">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Podrobnosće přidatka">
 <!ENTITY aboutTelemetry.capturedStacksSection "  Natočene štaple">
 <!ENTITY aboutTelemetry.lateWritesSection "  Pózdnje pisanske procesy">
