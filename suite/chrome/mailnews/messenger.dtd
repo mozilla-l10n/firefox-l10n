@@ -457,7 +457,7 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Abrir mensagem em nova janela">
 <!ENTITY contextOpenNewWindow.accesskey "A">
-<!ENTITY contextOpenNewTab.label "Abrir mensagem em novo separador">
+<!ENTITY contextOpenNewTab.label "Abrir mensagem num novo separador">
 <!ENTITY contextOpenNewTab.accesskey "s">
 <!ENTITY contextEditAsNew.label "Editar como nova...">
 <!ENTITY contextEditAsNew.accesskey "d">
