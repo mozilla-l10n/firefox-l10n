@@ -15,3 +15,4 @@
 
 -brand-short-name = Firefox
 -vendor-short-name = Mozilla
+trademarkInfo = I-Firefox neelogo ze-Firefox ziimpawu ze-Mozilla Foundation.
