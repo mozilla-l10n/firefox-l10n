@@ -8,6 +8,10 @@ releaseNotes-link = מה חדש
 update-checkForUpdatesButton =
     .label = בדיקת עדכונים
     .accesskey = ב
+update-updateButton =
+    .label = הפעלה מחדש לעדכון { -brand-shorter-name }
+    .accesskey = מ
+update-checkingForUpdates = בדיקת עדכונים חדשים…
 update-downloading = <img data-l10n-name="icon"/>העדכון בהורדה — <label data-l10n-name="download-status"/>
 update-applying = מחיל עדכון…
 update-failed = העדכון נכשל. <label data-l10n-name="failed-link">הורדת הגרסה האחרונה</label>
