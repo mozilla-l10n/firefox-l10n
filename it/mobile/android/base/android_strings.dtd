@@ -511,10 +511,13 @@
 <!ENTITY pip_pause_button_title "Pausa">
 <!ENTITY pip_pause_button_description "Metti in pausa riproduzione">
 <!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY default_notification_channel2 "Browser">
 <!ENTITY mls_notification_channel "Georilevazione di &vendorShortName;">
 <!ENTITY download_notification_channel "Download">
 <!ENTITY media_notification_channel "Riproduzione file multimediali">
+<!ENTITY media_notification_channel2 "Audio e video">
 <!ENTITY leanplum_default_notifications_channel "Notifiche push di &brandShortName;">
+<!ENTITY leanplum_default_notifications_channel2 "Consigli e suggerimenti da &vendorShortName;">
 <!ENTITY updater_notification_channel "Aggiornamenti app">
 <!ENTITY synced_tabs_notification_channel "Schede sincronizzate">
 <!ENTITY site_notifications_channel "Notifiche siti">
