@@ -19,3 +19,5 @@ helpus = Желите да помогнете? <label data-l10n-name="helpus-don
 bottomLinks-license = Информације о лиценцирању
 bottomLinks-rights = Права крајњег корисника
 bottomLinks-privacy = Полиса приватности
+aboutDialog-architecture-sixtyFourBit = 64-bit
+aboutDialog-architecture-thirtyTwoBit = 32-bit
