@@ -8,6 +8,9 @@ releaseNotes-link = പുതിയതെന്തെല്ലാം
 update-checkForUpdatesButton =
     .label = പുതുക്കലുകള്‍ക്കായി പരിശോധിക്കൂ
     .accesskey = പ
+update-updateButton =
+    .label = ഫയലുകള്‍ വേണ്ടവിധത്തില്‍ നവീകരിക്കൻ വീണ്ടും പുനരാരംഭിക്കുക { -brand-shorter-name }
+    .accesskey = R
 update-checkingForUpdates = പുതുക്കലുകള്‍ക്കായി പരിശോധിക്കുന്നു...
 update-downloading = <img data-l10n-name="icon"/>പുതുക്കല്‍ ഡൌണ്‍ലോഡ് ചെയ്യുന്നു — <label data-l10n-name="download-status"/>
 update-applying = പുതുക്കല്‍ നടപ്പാക്കുന്നു…
@@ -18,6 +21,7 @@ update-noUpdatesFound = { -brand-short-name } ഏറ്റവും പുതി
 update-otherInstanceHandlingUpdates = മറ്റൊരു ഇന്‍സ്റ്റന്‍സ് { -brand-short-name } പുതുക്കുന്നു
 update-manual = പുതുക്കലുകള്‍ ലഭ്യമാവാന്‍ <label data-l10n-name="manual-link"/>
 update-unsupported = ഈ സിസ്റ്റത്തില്‍ നിങ്ങള്‍ക്കു് കൂടുതൽ പുതുക്കലുകള്‍ നടത്താന്‍ കഴിയില്ല.<label data-l10n-name="unsupported-link">കൂടുതലറിയാന്‍</label>
+update-restarting = വീണ്ടും പുനരാരംഭിക്കുന്നു…
 channel-description = നിങ്ങളിപ്പോള്‍ പുതുക്കിയ<label data-l10n-name="current-channel"></label> ചാനലിലാണു്.{ " " }
 warningDesc-version = { -brand-short-name } പരീക്ഷണാര്‍ത്ഥമുള്ളതാകുന്നു, അതിനാല്‍ അസ്ഥിരവുമാകുന്നു.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>ഒരു<label data-l10n-name="community-exp-creditsLink">ആഗോള കൂട്ടായ്മ</label> വെബ് തുറന്നതും പൊതുവും ഏവര്‍ക്കും ലഭ്യമായതും ആക്കിമാറ്റുന്നതിനു് കൂട്ടായി പ്രയത്നിക്കുന്നു .
