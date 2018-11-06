@@ -14,3 +14,5 @@
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
 -vendor-short-name = मोजिला
+-brand-full-name = मोजिला फायारफॉक्स
+trademarkInfo = फायारफॉक्स आर फायार फॉक्स चिता़र चिनहा़ दो मोजिला फाउण्डेसान रेयाक् बेपार चिनहा़ काना.
