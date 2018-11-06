@@ -96,3 +96,6 @@
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>  uzas sekurecan teĥnologion, kiu estas kaduka kaj sendefenda.  uzas sekurecan teĥnologion, kiu estas kaduka kaj sendefenda. La administranto de la retejo devos ripari la servilon antaŭ ol vi povos viziti la retejon.</p><p>Erarkodo: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokita paĝo">
+
+<!ENTITY networkProtocolError.title "Eraro pri reta protokolo">
+<!ENTITY networkProtocolError.longDesc "<p>La paĝo – kiun vi provis vidi – ne povis esti montrata, ĉar okazis eraro pri reta protokolo.</p><ul><li>Bonvolu kontakti posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li></ul>">

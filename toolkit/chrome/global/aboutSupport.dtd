@@ -11,7 +11,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Raportoj pri paneoj">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "Identigilo de raporto">
 <!ENTITY aboutSupport.crashes.sendDate "Sendita">
 <!ENTITY aboutSupport.crashes.allReports "Ĉiuj raportoj pri paneo">
@@ -34,15 +34,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureName "Nomo">
 <!ENTITY aboutSupport.featureVersion "Versio">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "Eksperimentaj trajtoj">
-<!ENTITY aboutSupport.experimentName "Nomo">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Priskribo">
-<!ENTITY aboutSupport.experimentActive "Aktiva">
-<!ENTITY aboutSupport.experimentEndDate "Fina dato">
-<!ENTITY aboutSupport.experimentHomepage "Ĉefpaĝo">
-<!ENTITY aboutSupport.experimentBranch "Branĉo">
 
 <!ENTITY aboutSupport.appBasicsTitle "Bazaj programaj informoj">
 <!ENTITY aboutSupport.appBasicsName "Nomo">
@@ -118,7 +109,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Aktiva">
 <!ENTITY aboutSupport.a11yForceDisabled "Eviti alireblon">
 <!ENTITY aboutSupport.a11yHandlerUsed "Alirebleca pelilo uzita">
-<!ENTITY aboutSupport.a11yInstantiator "Produkti alireblon">
+<!ENTITY aboutSupport.a11yInstantiator "Alirebleca kreanto">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Versioj de bibliotekoj">
 
