@@ -17,3 +17,4 @@
 -vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
 -brand-shorter-name = Firefox
+trademarkInfo = ഫയര്‍ഫോക്സും ഫയര്‍ഫോക്സ് ലോഗോകളും മോസില്ലാ ഫൌണ്ടേഷന്റെ ട്രേഡ്മാർക്കുകൾ ആണ്.
