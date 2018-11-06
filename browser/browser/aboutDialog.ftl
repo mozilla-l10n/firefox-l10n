@@ -25,6 +25,7 @@ update-restarting = Reiniciando…
 channel-description = Estás usando el canal de actualizaciones <label data-l10n-name="current-channel"></label> . 
 warningDesc-version = { -brand-short-name } es experimental y podría ser inestable.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> es una <label data-l10n-name="community-exp-creditsLink">comunidad global</label> trabajando unida para mantener la Web abierta, pública y accesible para todos.
+community-2 = { -brand-short-name } es diseñado por <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, una <label data-l10n-name="community-creditsLink">comunidad global</label> trabajando unida para mantener la Web abierta, pública y accesible para todos.
 helpus = ¿Quieres ayudar? <label data-l10n-name="helpus-donateLink">¡Haz una donación</label> o <label data-l10n-name="helpus-getInvolvedLink">participa!</label>
 bottomLinks-license = Información de licencia
 bottomLinks-rights = Derechos del usuario final
