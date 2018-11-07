@@ -34,7 +34,7 @@
 <!ENTITY pageTitleExample.label       "ex.: „Pagina mea de web”">
 <!ENTITY filename.label               "Nume fișier:">
 <!ENTITY filename.accesskey           "N">
-<!ENTITY filename.tooltip             "Introduceți un nume pentru acest fișier, adăugând '.html' în cazul unei pagini web">
+<!ENTITY filename.tooltip             "Introdu un nume pentru acest fișier, adăugând '.html' în cazul unei pagini web">
 <!ENTITY filenameExample.label        "ex.: „pagina mea.html”">
 <!ENTITY setDefaultButton.label       "Implicit">
 <!ENTITY setDefaultButton.accesskey   "I">

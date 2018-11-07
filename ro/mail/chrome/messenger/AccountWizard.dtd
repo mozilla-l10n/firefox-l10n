@@ -11,7 +11,7 @@
 
 <!ENTITY accountSetupInfo2.label "Trebuie să configurați un cont pentru a putea primi mesaje.">
 <!ENTITY accountTypeTitle.label "Configurare cont nou">
-<!ENTITY accountTypeDesc2.label "Asistentul va colecta informațiile necesare configurării unui cont. Dacă nu cunoașteți informațiile solicitate, contactați administratorul de sistem sau furnizorul de servicii de internet.">
+<!ENTITY accountTypeDesc2.label "Asistentul va colecta informațiile necesare configurării unui cont. Dacă nu cunoști informațiile solicitate, contactează administratorul de sistem sau furnizorul de servicii de internet.">
 <!ENTITY accountTypeDirections.label "Selectați tipul de cont pe care doriți să îl configurați:">
 <!ENTITY accountTypeMail.label "Cont de e-mail">
 <!ENTITY accountTypeMail.accesskey "m">
@@ -106,7 +106,7 @@
 
 <!ENTITY accnameTitle.label "Numele contului">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Introduceți un nume de referință pentru acest cont (de exemplu, „Cont de serviciu”, „Cont de acasă” sau „Cont de știri”).">
+<!ENTITY accnameDesc.label "Introdu un nume de referință pentru acest cont (de exemplu, „Cont de serviciu”, „Cont de acasă” sau „Cont de știri”).">
 <!ENTITY accnameLabel.label "Numele contului:">
 <!ENTITY accnameLabel.accesskey "a">
 
@@ -120,7 +120,7 @@
 <!ENTITY newsServerNamePrefix.label "Numele serverului de știri (NNTP):">
 <!ENTITY downloadOnLogin.label "Descarcă mesajele acum">
 <!ENTITY downloadOnLogin.accesskey "D">
-<!ENTITY deferStorageDesc.label "Debifați caseta de validare pentru stocarea mesajelor din cont într-un director propriu. Contul va apărea drept cont de cel mai înalt nivel. În caz contrar, mesajele vor fi incluse în căsuța poștală globală din dosarele locale.">
+<!ENTITY deferStorageDesc.label "Debifează caseta de validare pentru stocarea mesajelor din cont într-un director propriu. Contul va apărea drept cont de cel mai înalt nivel. În caz contrar, mesajele vor fi incluse în căsuța poștală globală din dosarele locale.">
 <!ENTITY deferStorage.label "Folosește căsuța poștală globală (stochează mesajele în dosarele locale)">
 <!ENTITY deferStorage.accesskey "F">
 <!ENTITY clickFinish.label "Dă clic pe Termină pentru salvarea setărilor și ieșirea din asistentul de creat conturi.">
