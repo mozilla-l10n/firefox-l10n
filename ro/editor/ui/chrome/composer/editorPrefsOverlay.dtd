@@ -8,6 +8,6 @@
 <!ENTITY editorCheck.accesskey "c">
 
 <!ENTITY compose.label "Composer">
-<!ENTITY editing.label "Setări pentru pagini noi">
-<!ENTITY toolbars.label "Bare de instrumente">
+<!ENTITY editing.label "Setări pagini noi">
+<!ENTITY toolbars.label "Bare de unelte">
 <!ENTITY publish.label "Publicare">
