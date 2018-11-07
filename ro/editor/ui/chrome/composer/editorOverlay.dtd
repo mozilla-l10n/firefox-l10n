@@ -54,7 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "t">
 
 <!-- Font Face SubMenu -->
-<!ENTITY FontFaceSelect.tooltip "Alegeți un font">
+<!ENTITY FontFaceSelect.tooltip "Alege un font">
 <!ENTITY fontfaceMenu.label "Font">
 <!ENTITY fontfaceMenu.accesskey "F">
 <!ENTITY fontVarWidth.label "Lățime variabilă">
@@ -70,7 +70,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "Alegeți mărimea fontului">
+<!ENTITY FontSizeSelect.tooltip "Alege mărimea fontului">
 <!ENTITY decreaseFontSize.label "Mai mică">
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decrementFontSize.key "&lt;">
@@ -200,8 +200,8 @@
 <!ENTITY alignRight.label "Dreapta">
 <!ENTITY alignRight.accesskey "D">
 <!ENTITY alignRight.tooltip "Aliniază la dreapta">
-<!ENTITY alignJustify.label "Distribuit stânga/dreapta">
-<!ENTITY alignJustify.accesskey "D">
+<!ENTITY alignJustify.label "Stânga/dreapta">
+<!ENTITY alignJustify.accesskey "S">
 <!ENTITY alignJustify.tooltip "Aliniază la stânga și dreapta">
 
 <!-- Layer toolbar items -->
@@ -283,11 +283,11 @@
 <!ENTITY tableProperties.accesskey "o">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Bara cu meniul">
-<!ENTITY formatToolbar.tooltip "Bară formatare">
+<!ENTITY menuBar.tooltip "Bara de meniu">
+<!ENTITY formatToolbar.tooltip "Bară de formatare">
 <!ENTITY cutToolbarCmd.tooltip "Decupează">
 <!ENTITY copyToolbarCmd.tooltip "Copiază">
-<!ENTITY pasteToolbarCmd.tooltip "Inserează">
+<!ENTITY pasteToolbarCmd.tooltip "Lipește">
 <!ENTITY printToolbarCmd.label "Tipărește">
 <!ENTITY printToolbarCmd.tooltip "Tipărește această pagină">
 <!ENTITY findToolbarCmd.label "Găsește">
@@ -304,13 +304,13 @@
 <!ENTITY linkToolbarCmd.tooltip "Inserează un nou link sau editează proprietățile linkului selectat">
 <!ENTITY anchorToolbarCmd.label "Ancoră">
 <!ENTITY anchorToolbarCmd.tooltip "Inserează o nouă ancoră cu nume sau editează proprietățile ancorei selectate">
-<!ENTITY TextColorButton.tooltip "Alege culoarea textului">
-<!ENTITY BackgroundColorButton.tooltip "Alege culoarea de fundal">
-<!ENTITY throbber.tooltip "Deschide pagina principală &vendorShortName;">
+<!ENTITY TextColorButton.tooltip "Alege culoarea pentru text">
+<!ENTITY BackgroundColorButton.tooltip "Alege culoarea pentru fundal">
+<!ENTITY throbber.tooltip "Pagina principală &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Alege culoarea de evidențiere pentru text">
 
 <!-- Editor toolbar -->
-<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Definește mărimea fontului">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Stabilire mărime font">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Font mai mic">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Font mai mare">
 <!ENTITY boldToolbarCmd.tooltip "Aldin">
@@ -318,22 +318,22 @@
 <!ENTITY underlineToolbarCmd.tooltip "Subliniat">
 <!ENTITY bulletListToolbarCmd.tooltip "Aplică sau elimină listă cu buline">
 <!ENTITY numberListToolbarCmd.tooltip "Aplică sau elimină listă numerotată">
-<!ENTITY outdentToolbarCmd.tooltip "Micșorează indentarea textului (mută la stânga)">
-<!ENTITY indentToolbarCmd.tooltip "Mărește indentarea textului (mută la dreapta)">
+<!ENTITY outdentToolbarCmd.tooltip "Scade indentarea textului (mută la stânga)">
+<!ENTITY indentToolbarCmd.tooltip "Crește indentarea textului (mută la dreapta)">
 <!ENTITY AlignPopupButton.tooltip "Alege aliniamentul textului">
-<!ENTITY InsertPopupButton.tooltip "Inserează un link, o ancoră, o imagine, o linie orizontală sau un tabel">
-<!ENTITY alignLeftButton.tooltip "Aliniază textul la marginea din stânga">
+<!ENTITY InsertPopupButton.tooltip "Inserează un link, ancoră, imagine, linie orizontală sau tabel">
+<!ENTITY alignLeftButton.tooltip "Aliniază textul la stânga">
 <!ENTITY alignCenterButton.tooltip "Centrează textul">
-<!ENTITY alignRightButton.tooltip "Aliniază textul la marginea din dreapta">
-<!ENTITY alignJustifyButton.tooltip "Aliniază textul la margini stânga/dreapta">
+<!ENTITY alignRightButton.tooltip "Aliniază textul la dreapta">
+<!ENTITY alignJustifyButton.tooltip "Aliniază textul la stânga și la dreapta">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Selectează">
-<!ENTITY structSelect.accesskey     "s">
+<!ENTITY structSelect.accesskey     "S">
 <!ENTITY structRemoveTag.label      "Elimină eticheta">
-<!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structRemoveTag.accesskey  "R">
 <!ENTITY structChangeTag.label      "Modifică eticheta">
-<!ENTITY structChangeTag.accesskey  "m">
+<!ENTITY structChangeTag.accesskey  "M">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Inserează">
@@ -343,4 +343,4 @@
 <!ENTITY removeTOC.label          "Elimină">
 <!ENTITY removeTOC.accesskey      "R">
 <!ENTITY tocMenu.label            "Cuprins…">
-<!ENTITY tocMenu.accesskey        "c">
+<!ENTITY tocMenu.accesskey        "C">
