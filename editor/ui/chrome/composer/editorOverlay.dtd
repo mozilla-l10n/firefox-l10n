@@ -16,8 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Lipește ca citat">
 <!ENTITY pasteAsQuotationCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Găsește…">
-<!ENTITY findReplaceCmd.label "Găsește și înlocuiește…">
+<!ENTITY findBarCmd.label "Caută…">
+<!ENTITY findReplaceCmd.label "Caută și înlocuiește…">
 <!ENTITY enableInlineSpellChecker.label "Corectare ortografică în timpul scrierii">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Verifică ortografia…">
@@ -318,22 +318,22 @@
 <!ENTITY underlineToolbarCmd.tooltip "Subliniat">
 <!ENTITY bulletListToolbarCmd.tooltip "Aplică sau elimină listă cu buline">
 <!ENTITY numberListToolbarCmd.tooltip "Aplică sau elimină listă numerotată">
-<!ENTITY outdentToolbarCmd.tooltip "Scade indentarea textului (mută la stânga)">
-<!ENTITY indentToolbarCmd.tooltip "Crește indentarea textului (mută la dreapta)">
+<!ENTITY outdentToolbarCmd.tooltip "Micșorează indentarea textului (mută la stânga)">
+<!ENTITY indentToolbarCmd.tooltip "Mărește indentarea textului (mută la dreapta)">
 <!ENTITY AlignPopupButton.tooltip "Alege aliniamentul textului">
-<!ENTITY InsertPopupButton.tooltip "Inserează un link, ancoră, imagine, linie orizontală sau tabel">
-<!ENTITY alignLeftButton.tooltip "Aliniază textul la stânga">
+<!ENTITY InsertPopupButton.tooltip "Inserează un link, o ancoră, o imagine, o linie orizontală sau un tabel">
+<!ENTITY alignLeftButton.tooltip "Aliniază textul la marginea din stânga">
 <!ENTITY alignCenterButton.tooltip "Centrează textul">
-<!ENTITY alignRightButton.tooltip "Aliniază textul la dreapta">
-<!ENTITY alignJustifyButton.tooltip "Aliniază textul la stânga și la dreapta">
+<!ENTITY alignRightButton.tooltip "Aliniază textul la marginea din dreapta">
+<!ENTITY alignJustifyButton.tooltip "Aliniază textul la margini stânga/dreapta">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Selectează">
-<!ENTITY structSelect.accesskey     "S">
-<!ENTITY structRemoveTag.label      "Elimină tag">
-<!ENTITY structRemoveTag.accesskey  "R">
-<!ENTITY structChangeTag.label      "Modifică tag">
-<!ENTITY structChangeTag.accesskey  "M">
+<!ENTITY structSelect.accesskey     "s">
+<!ENTITY structRemoveTag.label      "Elimină eticheta">
+<!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structChangeTag.label      "Modifică eticheta">
+<!ENTITY structChangeTag.accesskey  "m">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Inserează">
@@ -343,4 +343,4 @@
 <!ENTITY removeTOC.label          "Elimină">
 <!ENTITY removeTOC.accesskey      "R">
 <!ENTITY tocMenu.label            "Cuprins…">
-<!ENTITY tocMenu.accesskey        "C">
+<!ENTITY tocMenu.accesskey        "c">
