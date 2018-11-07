@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Isprobajte odmah
+onboarding-button-label-get-started = Započnite
 onboarding-welcome-header = Dobro došli u { -brand-short-name }
 onboarding-start-browsing-button-label = Započni pregledavanje
 
@@ -24,3 +25,5 @@ onboarding-addons-title = Dodaci
 onboarding-addons-text = Dodajte još više značajki tako da { -brand-short-name } radi bolje za vas. Usporedite cijene, provjerite vremensku prognozu ili se izrazite kroz poseban izgled pretraživača.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Pretražujte brže, pametnije i sigurnije s dodacima kao Ghostery, što vam omogućuje blokiranje dosadnih oglasa.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sinkronizacija
