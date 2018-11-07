@@ -192,6 +192,8 @@ extensions-updates-reset-updates-to-manual =
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-installed =
+    .value = Dodatki zostały uaktualnione.
 extensions-updates-downloaded =
     .value = Pobrano aktualizacje dodatków.
 extensions-updates-restart =
@@ -200,3 +202,6 @@ extensions-updates-none-found =
     .value = Nie znaleziono aktualizacji
 extensions-updates-manual-updates-found =
     .label = Wyświetl dostępne aktualizacje
+extensions-updates-update-selected =
+    .label = Zainstaluj aktualizacje
+    .tooltiptext = Zainstaluj aktualizacje z tej listy
