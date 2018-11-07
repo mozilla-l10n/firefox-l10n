@@ -129,6 +129,9 @@ legacy-extensions-description = Disse udvidelser møder ikke de nuværende { -br
 extensions-view-discover =
     .name = Find tilføjelser
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Seneste opdateringer
+    .tooltiptext = { extensions-view-recent-updates.name }
 extensions-view-available-updates =
     .name = Tilgængelige opdateringer
     .tooltiptext = { extensions-view-available-updates.name }
@@ -146,6 +149,8 @@ extensions-warning-check-compatibility-container =
 extensions-warning-check-compatibility-enable =
     .label = Aktiver
     .tooltiptext = Aktiver kompatibilitetstjek for tilføjelser
+extensions-warning-update-security-label =
+    .value = Sikkerhedstjek ved opdatering af tilføjelser er deaktiveret. Du kan blive kompromiteret ved opdateringer.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 extensions-warning-update-security-enable =
@@ -157,6 +162,9 @@ extensions-warning-update-security-enable =
 extensions-updates-check-for-updates =
     .label = Søg efter opdateringer
     .accesskey = T
+extensions-updates-view-updates =
+    .label = Vis seneste opdateringer
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
