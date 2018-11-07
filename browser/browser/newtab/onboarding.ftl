@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Izmēģiniet tagad
+onboarding-button-label-get-started = Ar ko sākt
 onboarding-welcome-header = Laipni lūgti { -brand-short-name };
 onboarding-start-browsing-button-label = Sākt pārlūkošanu
 
@@ -24,3 +25,6 @@ onboarding-addons-title = Papildinājumi
 onboarding-addons-text = Papildinājumi ļauj pievienot { -brand-short-name } papildu funkcionalitāti, lai pārlūks darbotos kā jums tas ir nepieciešams. Salīdziniet cenas, uzziniet par laika apstākļiem vai izpaudiet savu personību pielāgotu izskatu.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Sērfojiet ātrāk, gudrāk un drošāk ar tādiem papildinājumiem kā Ghostery, kas bloķē kaitinošās interneta reklāmas.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sync
+onboarding-fxa-text = Pierakstieties { -fxaccount-brand-name } un sinhronizējiet grāmatzīmes, paroles un atveriet cilnes visur, kur izmantojat { -brand-short-name }.

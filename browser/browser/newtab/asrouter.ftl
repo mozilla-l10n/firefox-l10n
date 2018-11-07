@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Ne tagad
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Pievienot
     .accesskey = P
+cfr-doorhanger-extension-manage-settings-button = Parvaldit ieteikumu iestatījumus
+    .accesskey = m
+cfr-doorhanger-extension-never-show-recommendation = Neuzrādīt man šo ieteikumu
+    .accesskey = N
 cfr-doorhanger-extension-learn-more-link = Uzzināt vairāk
 # This string is used on a new line below the add-on name
 # Variables:

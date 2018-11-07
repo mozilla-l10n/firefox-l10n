@@ -134,6 +134,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "D">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "Uzdevumu pārvaldnieks">
+
 <!ENTITY goOfflineCmd.label "Strādāt nesaistē">
 <!ENTITY goOfflineCmd.accesskey "r">
 
@@ -995,6 +997,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.fastBlock.blocked.label "Bloķēts">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
+     "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "Bloķēšana">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1009,6 +1016,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Bloķēts">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "Bloķēšana">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1016,12 +1028,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection.add.label "Pievienot bloķēšanu…">
 
 <!ENTITY contentBlocking.3rdPartyCookies.label "Trešo pušu sīkdatnes">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Izsekošanas sīkfaili">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
 <!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Bloķēts">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Bloķēšana">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1052,6 +1070,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Aktivēt bloķēšanu šai lapai">
 <!ENTITY trackingProtection.block5.accesskey "A">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Atslēgt šīs vietnes bloķēšanu">
+<!ENTITY trackingProtection.unblock5.accesskey "T">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Izslēgt bloķēšanu uz laiku">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "Pārlādēt lapu">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
