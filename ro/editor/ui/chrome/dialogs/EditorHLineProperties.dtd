@@ -4,7 +4,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Proprietăți linie orizontală">
+<!ENTITY windowTitle.label "Proprietățile liniei orizontale">
 
 <!ENTITY dimensionsBox.label "Dimensiuni">
 <!ENTITY heightEditField.label "Înălțime:">
