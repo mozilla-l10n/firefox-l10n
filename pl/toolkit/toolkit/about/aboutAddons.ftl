@@ -163,6 +163,9 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Znajdź aktualizacje
+    .accesskey = n
 extensions-updates-view-updates =
     .label = Wyświetl ostatnie aktualizacje
     .accesskey = W
@@ -180,6 +183,12 @@ extensions-updates-update-addons-automatically =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Przestaw wszystkie dodatki na automatyczną aktualizację
+    .accesskey = P
+extensions-updates-reset-updates-to-manual =
+    .label = Przestaw wszystkie dodatki na ręczną aktualizację
+    .accesskey = P
 
 ## Status messages displayed when updating add-ons
 
