@@ -192,6 +192,8 @@ extensions-updates-reset-updates-to-manual =
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Aktualizowanie dodatków…
 extensions-updates-installed =
     .value = Dodatki zostały uaktualnione.
 extensions-updates-downloaded =
