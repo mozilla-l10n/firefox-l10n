@@ -126,3 +126,69 @@ legacy-warning-show-legacy = Vis forældede udvidelser
 legacy-extensions =
     .value = Forældede udvidelser
 legacy-extensions-description = Disse udvidelser møder ikke de nuværende { -brand-short-name }- standarder, så de er blevet deaktiveret. <label data-l10n-name="legacy-learn-more">Læs mere om ændringerne af tilføjelser</label>
+extensions-view-discover =
+    .name = Find tilføjelser
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-available-updates =
+    .name = Tilgængelige opdateringer
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Alle tilføjelser er blevet deaktiveret i fejlsikker tilstand.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Kompatibilitetstjek for tilføjelser er deaktiverert. Du kan have inkompatible tilføjelser.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Aktiver
+    .tooltiptext = Aktiver kompatibilitetstjek for tilføjelser
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Aktiver
+    .tooltiptext = Aktiver sikkerhedstjek ved opdatering af tilføjelser
+
+## Strings connected to add-on updates
+
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Opdater tilføjelser automatisk
+    .accesskey = a
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Nulstil alle tilføjelser til automatisk opdatering
+    .accesskey = N
+extensions-updates-reset-updates-to-manual =
+    .label = Nulstil alle tilføjelser til manuel opdatering
+    .accesskey = N
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Opdaterer tilføjelser
+extensions-updates-installed =
+    .value = Dine tilføjelser er blevet opdateret.
+extensions-updates-downloaded =
+    .value = Dine opdateringer til tilføjelser er blevet hentet.
+extensions-updates-restart =
+    .label = Genstart nu for at færdiggøre installationen
+extensions-updates-none-found =
+    .value = Ingen opdateringer blev fundet
+extensions-updates-manual-updates-found =
+    .label = Vis tilgængelige opdateringer
+extensions-updates-update-selected =
+    .label = Installer opdateringer
+    .tooltiptext = Installer tilgængelige opdateringer i denne oversigt
