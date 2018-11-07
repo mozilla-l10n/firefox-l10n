@@ -162,8 +162,13 @@ extensions-warning-check-compatibility-container =
 extensions-warning-check-compatibility-enable =
     .label = Inschakelen
     .tooltiptext = Add-on-compatibiliteitscontrole inschakelen
+extensions-warning-update-security-label =
+    .value = Beveiligingscontrole voor add-on-updates is uitgeschakeld. Mogelijk loopt u een beveiligingsrisico door updates.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Inschakelen
+    .tooltiptext = Beveiligingscontrole voor add-on-updates inschakelen
 
 ## Strings connected to add-on updates
 
@@ -200,6 +205,8 @@ extensions-updates-updating =
     .value = Add-ons worden bijgewerkt
 extensions-updates-installed =
     .value = Uw add-ons zijn bijgewerkt.
+extensions-updates-downloaded =
+    .value = Uw add-on-updates zijn gedownload.
 extensions-updates-restart =
     .label = Herstart nu om de installatie te voltooien.
 extensions-updates-none-found =
