@@ -150,7 +150,7 @@
 <!ENTITY BrowsePhoto.accesskey          "s">
 <!ENTITY PhotoURL.label                 "De pe web">
 <!ENTITY PhotoURL.accesskey             "w">
-<!ENTITY PhotoURL.placeholder           "Inserați sau tastați adresa web a pozei">
+<!ENTITY PhotoURL.placeholder           "Lipește sau tastează adresa web a unei fotografii">
 <!ENTITY UpdatePhoto.label              "Actualizează">
 <!ENTITY UpdatePhoto.accesskey          "z">
 <!ENTITY PhotoDropTarget.label          "Trageți noua fotografie aici">

@@ -9,7 +9,7 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                            "Deschide dosarul conținător">
+<!ENTITY cmd.show.label                            "Deschide dosarul în care se află">
 <!ENTITY cmd.show.accesskey                        "F">
 <!ENTITY cmd.showMac.label                         "Afișează în instrumentul de căutare">
 <!ENTITY cmd.showMac.accesskey                     "F">

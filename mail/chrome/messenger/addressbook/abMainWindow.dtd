@@ -242,5 +242,5 @@ because displayed names don't have the comma in between. -->
 <!ENTITY windowMenu.label                               "Fereastră">
 <!ENTITY minimizeWindow.label                           "Minimizează">
 <!ENTITY minimizeWindow.key                             "M">
-<!ENTITY bringAllToFront.label                          "Adu-le pe toate în față">
+<!ENTITY bringAllToFront.label                          "Adu-le pe toate în prim-plan">
 <!ENTITY zoomWindow.label                               "Lupă">

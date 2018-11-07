@@ -228,7 +228,7 @@
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY minimizeWindow.label "Minimizează">
-<!ENTITY bringAllToFront.label "Adu-le pe toate în față">
+<!ENTITY bringAllToFront.label "Adu-le pe toate în prim-plan">
 <!ENTITY zoomWindow.label "Lupă">
 <!ENTITY windowMenu.label "Fereastră">
 

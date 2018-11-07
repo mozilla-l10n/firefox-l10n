@@ -764,7 +764,7 @@
 <!ENTITY contextOpenNewTab.accesskey "t">
 <!ENTITY contextOpenConversation.label "Deschide mesajul în conversație">
 <!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY contextOpenContainingFolder.label "Deschide mesajul în dosarul conținător">
+<!ENTITY contextOpenContainingFolder.label "Deschide mesajul în dosarul în care se află">
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Editare ca mesaj nou">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
@@ -956,7 +956,7 @@
 <!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimizează">
 <!ENTITY minimizeWindow.key "M">
-<!ENTITY bringAllToFront.label "Adu-le pe toate în față">
+<!ENTITY bringAllToFront.label "Adu-le pe toate în prim-plan">
 <!ENTITY zoomWindow.label "Lupă">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
