@@ -154,6 +154,9 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Søg efter opdateringer
+    .accesskey = T
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
