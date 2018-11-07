@@ -62,4 +62,4 @@
 <!ENTITY password.tooltip             "Parola asociată numelui de utilizator">
 <!ENTITY savePassword.label           "Salvează parola">
 <!ENTITY savePassword.accesskey       "S">
-<!ENTITY savePassword.tooltip         "Selectează această opțiune pentru a salva parola securizat folosind managerul de parole">
+<!ENTITY savePassword.tooltip         "Selectează opțiunea pentru a salva parola securizat folosind managerul de parole">

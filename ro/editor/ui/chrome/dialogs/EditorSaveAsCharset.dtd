@@ -7,7 +7,7 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle2.label "Salvează și schimbă codarea de text">
+<!ENTITY windowTitle2.label "Salvează și schimbă codarea textului">
 <!ENTITY documentTitleTitle.label "Titlu pagină">
 <!ENTITY documentCharsetTitle2.label "Codare de text">
 <!ENTITY documentCharsetDesc2.label "Selectează codarea de text cu care să fie salvat documentul:">
