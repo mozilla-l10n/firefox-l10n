@@ -36,12 +36,13 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Izpildlaika informācija">
 <!ENTITY runtimeMenu_showDetails_accesskey "z">
-<!ENTITY runtimeMenu_showMonitor_label "Pārraugs">
-<!ENTITY runtimeMenu_showMonitor_accesskey "P">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Ierīces iestatījumi">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "I">
 <!ENTITY runtimeMenu_showSettings_label "Ierīces iestatījumi">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+
+<!ENTITY runtimeMenu_showPerformancePanel_label "Veiktspēja">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
 <!ENTITY viewMenu_label "Skats">
 <!ENTITY viewMenu_accesskey "S">
@@ -146,10 +147,6 @@
 <!ENTITY devicesetting_newname "Jaunā iestatījuma nosaukums">
 <!ENTITY devicesetting_newtext "Iestatījuma vērtība">
 <!ENTITY devicesetting_addnew "Pievienot iestatījumu">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "Pārraugs">
-<!ENTITY monitor_help "Palīdzība">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
