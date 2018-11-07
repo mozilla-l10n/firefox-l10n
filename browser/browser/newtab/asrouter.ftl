@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Nu acum
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Adaugă acum
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Gestionează setările pentru recomandări
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = Nu-mi afișa această recomandare
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = Află mai multe
 # This string is used on a new line below the add-on name
 # Variables:
