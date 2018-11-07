@@ -12,7 +12,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Bară de redactare">
 <!ENTITY previewToolbarCmd.label "Răsfoiește">
-<!ENTITY previewToolbarCmd.tooltip "Încarcă această pagină în browser">
+<!ENTITY previewToolbarCmd.tooltip "Încarcă pagina în browser">
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Exportă ca text…">
@@ -20,7 +20,7 @@
 <!ENTITY previewCmd.label "Vizualizează pagina">
 <!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "Trimite pagina…">
-<!ENTITY sendPageCmd.accesskey "T">
+<!ENTITY sendPageCmd.accesskey "t">
 
 <!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Bară de redactare">
@@ -32,9 +32,9 @@
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatare">
-<!ENTITY formatMenu.accesskey "F">
+<!ENTITY formatMenu.accesskey "f">
 <!ENTITY grid.label "Grilă de poziționare">
-<!ENTITY grid.accesskey "G">
+<!ENTITY grid.accesskey "g">
 <!ENTITY pageProperties.label "Titlul și proprietățile paginii…">
 <!ENTITY pageProperties.accesskey "g">
 
@@ -45,8 +45,8 @@
 <!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Mod de editare normal">
-<!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Afișează bordurile tabelelor și ancorele cu nume">
+<!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Afișează bordurile tabelelor și ancorele denumite">
 <!ENTITY AllTagsModeTab.label "Etichete HTML">
 <!ENTITY AllTagsMode.label "Etichete HTML">
 <!ENTITY AllTagsMode.accesskey "E">
