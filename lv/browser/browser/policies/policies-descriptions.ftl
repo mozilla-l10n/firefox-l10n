@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Bloķēt pieeju about:profiles lapai.
 policy-BlockAboutSupport = Bloķēt pieeju about:support lapai.
 policy-Bookmarks = Izveidojiet grāmatzīmes grāmatzīmju rīkjoslā, grāmatzīmju izvēlnē vai konkrētā mapē kādā no šīm vietām.
 policy-Certificates = Nosaka, vai tiks izmantoti iebūvētie sertifikāti. Šobrīd šī politika darbojas vienīgi Windows sistēmās.
+policy-CertificatesDescription = Pievienojiet sertifikātus vai izmantojiet iebūvētos sertifikātus.
 policy-Cookies = Atļaujiet vai aizliedziet vietnēm iestatīt sīkdatnes.
 policy-DisableAppUpdate = Neļaut pārlūkam atjaunināties.
 policy-DisableBuiltinPDFViewer = Deaktivēt PDF.js, { -brand-short-name } iebūvēto PDF lasītāju.

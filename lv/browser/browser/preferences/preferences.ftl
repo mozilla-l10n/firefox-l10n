@@ -84,6 +84,9 @@ extension-controlled-homepage-override = Paplašinājums <img data-l10n-name="ic
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Paplašinājums <img data-l10n-name="icon"/> { $name } kontrolē jūsu jaunas cilnes lapu.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Šo iestatījumu kontrolē paplašinājums <img data-l10n-name = "icon" /> { $name }.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Paplašinājums <img data-l10n-name="icon"/> { $name } ir nomainījis noklusēto meklētāju.
@@ -327,6 +330,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Meklēt rakstīto tekstu, kolīdz es sāku rakstīt
     .accesskey = m
+browsing-cfr-recommendations =
+    .label = Ieteikt papildinājumus pārlūkojot
+    .accesskey = r
+browsing-cfr-recommendations-learn-more = Uzzināt vairāk
 
 ## General Section - Proxy
 
@@ -601,6 +608,9 @@ sitedata-keep-until-expire =
     .label = Derīguma termiņš
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ir aizvērta
+sitedata-delete-on-close =
+    .label = Dzēst sīkfailus un vietnes datus, kad { -brand-short-name } ir aizvērts
+    .accesskey = D
 sitedata-allow-cookies-option =
     .label = Pieņemt sīkdatnes un lapu datus
     .accesskey = a
@@ -846,3 +856,7 @@ certs-view =
 certs-devices =
     .label = Drošības ierīces…
     .accesskey = D
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Saglabāt failus { $service-name }
