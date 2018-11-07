@@ -292,6 +292,12 @@ update-enable-search-update =
     .label = Aggiorna automaticamente i motori di ricerca
     .accesskey = M
 
+update-pref-write-failure-title = Errore di scrittura
+
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Errore durante il salvataggio della preferenza. Impossibile scrivere il file: { $path }
+
 ## General Section - Performance
 
 performance-title = Prestazioni
