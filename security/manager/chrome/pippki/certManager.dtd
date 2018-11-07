@@ -8,13 +8,11 @@
 <!ENTITY certmgr.tab.others2                  "Ale altora">
 <!ENTITY certmgr.tab.websites3                "Servere">
 <!ENTITY certmgr.tab.ca                       "Autorități">
-<!ENTITY certmgr.tab.orphan2                  "Extra">
 
 <!ENTITY certmgr.mine2                        "Ai certificate de la aceste organizații care te identifică">
 <!ENTITY certmgr.others2                      "Ai stocate certificate care identifică aceste persoane">
 <!ENTITY certmgr.websites3                    "Ai stocate certificate care identifică aceste servere">
 <!ENTITY certmgr.cas2                         "Ai stocate certificate care identifică aceste autorități de certificare">
-<!ENTITY certmgr.orphans2                     "Ai stocate certificate care nu se încadrează în niciuna dintre celelalte categorii">
 
 <!ENTITY certmgr.detail.general_tab.title     "General">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -38,7 +36,6 @@
 <!ENTITY certmgr.editcert.edittrust           "Editează setările de acreditare:">
 <!ENTITY certmgr.editcert.trustssl            "Acest certificat poate identifica site-uri web.">
 <!ENTITY certmgr.editcert.trustemail          "Acest certificat poate identifica utilizatori de e-mail.">
-<!ENTITY certmgr.editcert.trustobjsign        "Acest certificat poate identifica creatori de software.">
 
 <!ENTITY certmgr.deletecert.title             "Șterge certificatul">
 
@@ -81,7 +78,7 @@
 <!ENTITY exceptionMgr.title                   "Adaugă excepție de la securitate">
 <!ENTITY exceptionMgr.exceptionButton.label   "Confirmă excepția de la securitate">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
-<!ENTITY exceptionMgr.supplementalWarning     "Băncile autorizate, magazinele și alte site-uri publice nu vă vor cere să faceți asta.">
+<!ENTITY exceptionMgr.supplementalWarning     "Băncile autorizate, magazinele și alte site-uri publice nu îți vor cere să faci asta.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Adresă:">
 <!ENTITY exceptionMgr.certlocation.download   "Ia certificatul">
