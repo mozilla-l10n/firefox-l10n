@@ -105,8 +105,8 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "El dueño de <span class='hostname'/> configuró incorrectamente su sitio Web.  Para evitar que tu información sea robada, &brandShortName; no estableció la conexión con el sitio.">
 <!ENTITY certerror.introPara2 "&brandShortName; ha detectado una potencial amenaza y no ha continuado a <span class='hostname'/>. Si visitas este sitio, los atacantes podrían intentar robar tu información como tus contraseñas, correo o datos de tu tarjeta de crédito.">
 
-
 <!ENTITY certerror.expiredCert.secondPara "Este problema seguramente se deba a que el reloj de tu computadora está configurado con una hora incorrecta, lo que prevendría a &brandShortName; conectarse de forma segura.">
+
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "¿Qué puedes hacer al respecto?">
@@ -174,3 +174,5 @@ certificado.">
 
 <!ENTITY prefReset.longDesc "Parece que la configuración de seguridad de la red podría estar provocando esto. ¿Quieres la configuración predeterminada para restaurar?">
 <!ENTITY prefReset.label "Restaurar ajustes predeterminados">
+
+<!ENTITY networkProtocolError.title "Error de protocolo de red">
