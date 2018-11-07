@@ -14,8 +14,8 @@
 <!ENTITY loading.label                        "Ladataan…">
 <!ENTITY listEmpty.installed.label            "Tämäntyyppisiä lisäosia ei ole asennettuna">
 <!ENTITY listEmpty.availableUpdates.label     "Päivityksiä ei löytynyt">
-<!ENTITY listEmpty.recentUpdates.label        "Et ole viime aikoina hakenut päivityksiä lisäosiin">
-<!ENTITY listEmpty.findUpdates.label          "Etsi päivityksiä">
+<!ENTITY listEmpty.recentUpdates.label        "Lisäosia ei ole päivitetty viime aikoina">
+<!ENTITY listEmpty.findUpdates.label          "Hae päivityksiä">
 <!ENTITY listEmpty.button.label               "Lue lisää lisäosista">
 <!ENTITY installAddonFromFile.label           "Asenna lisäosa tiedostosta…">
 <!ENTITY installAddonFromFile.accesskey       "A">
@@ -51,7 +51,7 @@
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Hae päivityksiä">
 <!ENTITY updates.checkForUpdates.accesskey    "H">
-<!ENTITY updates.viewUpdates.label            "Näytä viimeiset päivitykset">
+<!ENTITY updates.viewUpdates.label            "Näytä tuoreet päivitykset">
 <!ENTITY updates.viewUpdates.accesskey        "N">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
@@ -95,6 +95,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "t">
 <!ENTITY cmd.disableTheme.label               "Lopeta teeman käyttö">
 <!ENTITY cmd.disableTheme.accesskey           "l">
+
 <!ENTITY cmd.askToActivate.label              "Kysy käynnistetäänkö">
 <!ENTITY cmd.askToActivate.tooltip            "Kysy aina käytetäänkö liitännäistä">
 <!ENTITY cmd.alwaysActivate.label             "Käynnistä aina">
@@ -104,6 +105,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "Muokkaa liitännäisen käynnistysasetuksia">
 <!ENTITY cmd.installAddon.label               "Asenna">
 <!ENTITY cmd.installAddon.accesskey           "A">
+
 <!ENTITY cmd.uninstallAddon.label             "Poista">
 <!ENTITY cmd.uninstallAddon.accesskey         "o">
 <!ENTITY cmd.showPreferencesWin.label         "Asetukset">
@@ -140,7 +142,7 @@
 
 <!ENTITY detail.updateType                    "Automaattinen päivitys">
 <!ENTITY detail.updateDefault.label           "Oletus">
-<!ENTITY detail.updateDefault.tooltip         "Asenna päivitykset automaattisesti vain jos se on oletusasetus">
+<!ENTITY detail.updateDefault.tooltip         "Asenna päivitykset automaattisesti vain, jos se on oletusasetus">
 <!ENTITY detail.updateAutomatic.label         "Päällä">
 <!ENTITY detail.updateAutomatic.tooltip       "Asenna päivitykset automaattisesti">
 <!ENTITY detail.updateManual.label            "Pois päältä">
@@ -168,6 +170,7 @@
 <!ENTITY progress.cancel.tooltip              "Peruuta">
 
 <!ENTITY addon.homepage                       "Kotisivu">
+
 <!ENTITY addon.details.label                  "Lisää">
 <!ENTITY addon.details.tooltip                "Näytä lisätietoja lisäosasta">
 <!ENTITY addon.unknownDate                    "Tuntematon">
@@ -189,6 +192,7 @@
 <!ENTITY addon.undoRemove.label               "Kumoa">
 <!ENTITY addon.undoRemove.tooltip             "Säilytä tämä lisäosa asennettuna">
 <!ENTITY addon.restartNow.label               "Käynnistä uudelleen">
+
 <!ENTITY addon.install.label                  "Asenna">
 <!ENTITY addon.install.tooltip                "Asenna lisäosa">
 <!ENTITY addon.updateNow.label                "Päivitä">

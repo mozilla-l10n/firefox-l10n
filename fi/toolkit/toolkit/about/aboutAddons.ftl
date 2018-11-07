@@ -6,7 +6,7 @@ addons-window =
     .title = Lisäosien hallinta
 search-header =
     .placeholder = Etsi addons.mozilla.orgista
-    .searchbuttonlabel = Hae
+    .searchbuttonlabel = Etsi
 search-header-shortcut =
     .key = f
 loading-label =
@@ -16,9 +16,9 @@ list-empty-installed =
 list-empty-available-updates =
     .value = Päivityksiä ei löytynyt
 list-empty-recent-updates =
-    .value = Et ole viime aikoina hakenut päivityksiä lisäosiin
+    .value = Lisäosia ei ole päivitetty viime aikoina.
 list-empty-find-updates =
-    .label = Etsi päivityksiä
+    .label = Hae päivityksiä
 list-empty-button =
     .label = Lue lisää lisäosista
 install-addon-from-file =
@@ -43,8 +43,8 @@ cmd-show-details =
     .label = Näytä lisätietoja
     .accesskey = N
 cmd-find-updates =
-    .label = Etsi päivityksiä
-    .accesskey = E
+    .label = Hae päivityksiä
+    .accesskey = H
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -74,9 +74,7 @@ discover-description =
     Lisäosat ovat ohjelmia, joiden avulla voit lisätä { -brand-short-name }iin
     kaipaamiasi toimintoja tai muuttaa ohjelman ulkonäköä. Kokeile vaikka aikaa säästävää sivupaneelia, säätilan kertovaa lisäosaa tai tuoretta
     ulkonäköä muuttavaa teemaa ja tee { -brand-short-name }ista omasi.
-discover-footer =
-    Kun verkkoyhteys on muodostettu voit kokeilla tällä paneelilla esiteltäviä suosituimpia
-    ja parhaimpia lisäosia.
+discover-footer = Kun verkkoyhteys on muodostettu, voit kokeilla tässä paneelissa esiteltyjä suosittuja ja hyviä lisäosia.
 detail-version =
     .label = Versio
 detail-last-updated =
@@ -88,10 +86,10 @@ detail-update-default =
     .label = Oletus
     .tooltiptext = Asenna päivitykset automaattisesti vain jos se on oletusasetus
 detail-update-automatic =
-    .label = Päällä
+    .label = Käytössä
     .tooltiptext = Asenna päivitykset automaattisesti
 detail-update-manual =
-    .label = Pois päältä
+    .label = Pois käytöstä
     .tooltiptext = Älä asenna päivityksiä automaattisesti
 detail-home =
     .label = Kotisivu
@@ -126,10 +124,10 @@ detail-rating =
 addon-restart-now =
     .label = Käynnistä uudelleen
 disabled-unsigned-heading =
-    .value = Jotkin lisäosat on otettu pois päältä
+    .value = Jotkin lisäosat on poistettu käytöstä
 disabled-unsigned-description = Seuraavia lisäosia ei ole varmennettu käytettäväksi { -brand-short-name }issa. Voit <label data-l10n-name="find-addons">etsiä korvaavia lisäosia</label> tai pyytää kehittäjää varmentamaan ne.
 disabled-unsigned-learn-more = Lue lisää tavoista, joilla yritämme auttaa sinua pysymään turvassa verkossa.
-disabled-unsigned-devinfo = Kehittäjät, joita kiinnostaa lisäosansa varmentaminen, voivat lukea <label data-l10n-name="learn-more">käsikirjamme</label>.
+disabled-unsigned-devinfo = Kehittäjät, joita kiinnostaa lisäosansa varmentaminen, voivat lukea siitä <label data-l10n-name="learn-more">käsikirjastamme</label>.
 plugin-deprecation-description = Puuttuuko jotain? { -brand-short-name } ei enää tue joitain liitännäisiä. <label data-l10n-name="learn-more">Lue lisää.</label>
 legacy-warning-show-legacy = Näytä perinteiset laajennukset
 legacy-extensions =
