@@ -32,9 +32,6 @@ Ier
 <!ENTITY aboutTelemetry.optionGroupOlder "
 Pli vegl
 ">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Cuntegn
-">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -48,6 +45,8 @@ Tschertgas ti ulteriuras infurmaziuns?
 <!ENTITY aboutTelemetry.firefoxDataDoc "La <a>Documentaziun datas da Firefox</a> cuntegna manuals davart la lavur cun noss utensils da datas.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "La <a>documentaziun client da telemetria da Firefox</a> includa definiziuns per concepts, documentaziuns dad API e referenzas a datas.">
 <!ENTITY aboutTelemetry.telemetryDashboard "Las <a>panelas da telemetria</a> ta permettan da visualisar las datas che Mozilla retschaiva via telemetria.">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "Il <a>dicziunari da provas</a> cuntegna detagls e descripziuns per las provas rimnadas via telemetria.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 Avrir en il visualisader da JSON
@@ -81,14 +80,8 @@ Avrir en il visualisader da JSON
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Mesiraziuns simplas
 ">
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Protocol da telemetria
-">
 <!ENTITY aboutTelemetry.slowSqlSection "
   Statements da SQL plauns
-">
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Bloccadas dal navigatur
 ">
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Detagls dal supplement
