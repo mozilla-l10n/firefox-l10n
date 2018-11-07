@@ -327,6 +327,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Ala etsiä tekstistä heti kirjoitettaessa
     .accesskey = A
+browsing-cfr-recommendations =
+    .label = Suosittele laajennuksia selaamisen yhteydessä
+    .accesskey = S
 browsing-cfr-recommendations-learn-more = Lue lisää
 
 ## General Section - Proxy
@@ -602,6 +605,9 @@ sitedata-keep-until-expire =
     .label = kunnes ne vanhenevat
 sitedata-keep-until-closed =
     .label = kunnes { -brand-short-name } suljetaan
+sitedata-delete-on-close =
+    .label = Poista evästeet ja sivustotiedot, kun { -brand-short-name } suljetaan
+    .accesskey = s
 sitedata-allow-cookies-option =
     .label = Hyväksy evästeet ja sivustotiedot
     .accesskey = H
