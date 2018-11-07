@@ -10,6 +10,6 @@
 <!ENTITY later           "Puteți reveni oricând asupra deciziei accesând 
                           Managerul de suplimente.">
 <!ENTITY continue        "Continuă">
-<!ENTITY restartMessage  "Trebuie să reporniți &brandShortName; pentru a finaliza instalarea acestui supliment.">
+<!ENTITY restartMessage  "Trebuie să repornești &brandShortName; pentru a finaliza instalarea suplimentului.">
 <!ENTITY restartButton   "Repornește &brandShortName;">
 <!ENTITY cancelButton    "Renunță">

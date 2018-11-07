@@ -123,5 +123,5 @@
 <!ENTITY deferStorageDesc.label "Debifați caseta de validare pentru stocarea mesajelor din cont într-un director propriu. Contul va apărea drept cont de cel mai înalt nivel. În caz contrar, mesajele vor fi incluse în căsuța poștală globală din dosarele locale.">
 <!ENTITY deferStorage.label "Folosește căsuța poștală globală (stochează mesajele în dosarele locale)">
 <!ENTITY deferStorage.accesskey "F">
-<!ENTITY clickFinish.label "Da clic pe Finalizează pentru salvarea setărilor și ieșirea din asistentul de creat conturi.">
-<!ENTITY clickFinish.labelMac "Dați clic pe Terminat pentru salvarea setărilor și ieșirea din asistentul de creat conturi.">
+<!ENTITY clickFinish.label "Dă clic pe Termină pentru salvarea setărilor și ieșirea din asistentul de creat conturi.">
+<!ENTITY clickFinish.labelMac "Dă clic pe Terminat pentru salvarea setărilor și ieșirea din asistentul de creat conturi.">

@@ -26,5 +26,5 @@
 <!ENTITY selectProfile.title            "Selectați profilul">
 <!ENTITY selectProfile.label            "Puteți importa din următoarele profiluri:">
 
-<!ENTITY done.title                     "Import încheiat">
+<!ENTITY done.title                     "Import finalizat">
 <!ENTITY done.label                     "Următoarele elemente au fost importate cu succes:">
