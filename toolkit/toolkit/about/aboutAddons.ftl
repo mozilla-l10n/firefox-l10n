@@ -130,3 +130,80 @@ legacy-warning-show-legacy = Mostra le estensioni obsolete
 legacy-extensions =
     .value = Estensioni obsolete
 legacy-extensions-description = Queste estensioni non soddisfano gli standard attualmente richiesti da { -brand-short-name } e sono state disattivate. <label data-l10n-name="legacy-learn-more">Ulteriori informazioni sui cambiamenti riguardanti le estensioni in &brandShortName;</label>
+extensions-view-discover =
+    .name = Esplora
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Aggiornamenti recenti
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Aggiornamenti disponibili
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Tutti i componenti aggiuntivi sono stati disattivati dalla modalità provvisoria.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Il controllo di compatibilità dei componenti aggiuntivi è disattivato. Potrebbero essere presenti dei componenti aggiuntivi non compatibili.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Attiva
+    .tooltiptext = Attiva il controllo di compatibilità dei componenti aggiuntivi
+extensions-warning-update-security-label =
+    .value = Il controllo sulla sicurezza degli aggiornamenti dei componenti aggiuntivi è disattivato. Il sistema potrebbe essere danneggiato da un aggiornamento.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Attiva
+    .tooltiptext = Attiva il controllo sulla sicurezza degli aggiornamenti dei componenti aggiuntivi
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Controlla aggiornamenti
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = Visualizza aggiornamenti recenti
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Aggiorna automaticamente i componenti aggiuntivi
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Ripristina l’aggiornamento automatico per tutti i componenti aggiuntivi
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = Ripristina l’aggiornamento manuale per tutti i componenti aggiuntivi
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Aggiornamento dei componenti aggiuntivi in corso
+extensions-updates-installed =
+    .value = I componenti aggiuntivi sono stati aggiornati.
+extensions-updates-downloaded =
+    .value = Gli aggiornamenti sono stati scaricati.
+extensions-updates-restart =
+    .label = Riavvia adesso per completare l’installazione
+extensions-updates-none-found =
+    .value = Nessun aggiornamento disponibile
+extensions-updates-manual-updates-found =
+    .label = Visualizza aggiornamenti disponibili
+extensions-updates-update-selected =
+    .label = Installa aggiornamenti
+    .tooltiptext = Installa gli aggiornamenti disponibili in questo elenco
