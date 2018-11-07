@@ -84,6 +84,9 @@ extension-controlled-homepage-override = O extensie, <img data-l10n-name="icon"/
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = O extensie, <img data-l10n-name="icon"/> { $name }, controlează pagina ta de filă nouă.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = O extensie, <img data-l10n-name="icon"/> { $name }, controlează această setare.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = O extensie, <img data-l10n-name="icon"/> { $name }, a schimbat motorul de căutare implicit.
@@ -605,6 +608,9 @@ sitedata-keep-until-expire =
     .label = Expiră
 sitedata-keep-until-closed =
     .label = { -brand-short-name } este închis
+sitedata-delete-on-close =
+    .label = Șterge cookie-urile și datele site-ului când { -brand-short-name } este închis
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Acceptă cookie-uri și datele site-urilor
     .accesskey = A
@@ -850,3 +856,7 @@ certs-view =
 certs-devices =
     .label = Dispozitive de securitate…
     .accesskey = D
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Salvează fișierele în { $service-name }
