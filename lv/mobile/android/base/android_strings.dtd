@@ -291,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Uzziniet vairāk par &brandShortName; un &vendorShortName; produktu izmantošanu">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "Ieslēgt">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eksperimentāla iespēja">
@@ -363,7 +368,6 @@
 <!ENTITY pref_use_system_font_size_summary "Mērogo tīmekļa saturu atbilstoši sistēmas fontu lielumam">
 
 <!ENTITY pref_media_autoplay_enabled "Atļaut video palaišanu">
-<!ENTITY pref_media_autoplay_enabled_summary "Vai ļaut mājas lapām automātiski palaist video un citu mēdiju saturu">
 <!ENTITY pref_media_autoplay_allow "Atļaut automātisko atskaņošanu">
 <!ENTITY pref_media_autoplay_block "Bloķēt automātisko atskaņošanu">
 <!ENTITY pref_zoom_force_enabled "Vienmēr aktivēt palielinājumu">
@@ -828,9 +832,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Nevar atvērt &brandShortName;. Lūdzu, pārinstalējiet un mēģiniet vēlreiz.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; vairs neatjaunināsies">
-<!ENTITY eol_notification_summary "Gribat zināt vairāk">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ir jaunākā versija">
@@ -904,3 +905,6 @@ Picture-in-picture mini window -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; push paziņojumi">
 <!ENTITY updater_notification_channel "Atjauninājums">
 <!ENTITY synced_tabs_notification_channel "Sinhronizētās cilnes">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Vietnes paziņojumi">
