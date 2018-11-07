@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utiliza tecnología de seguridad que es obsoleta y vulnerable a ataques. Un atacante podría revelar fácilmente información que pienses que es segura. El administrador del sitio web tendrá que corregir el problema antes de que puedas visitar el sitio.</p><p>Código de error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Error de protocolo de red">
+<!ENTITY networkProtocolError.longDesc "<p>La página que estás tratando de ver, no se puede mostrar porque un error en el protocolo de red fue detectado.</p><ul><li>Por favor, contacta con los dueños del sitio web para informarles de este problema.</li></ul>">
