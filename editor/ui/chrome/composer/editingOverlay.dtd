@@ -10,28 +10,28 @@
 <!ENTITY openRemoteCmd.accesskey "D">
 <!ENTITY openRemoteCmd.key "D">
 <!ENTITY fileRecentMenu.label "Pagini recente">
-<!ENTITY fileRecentMenu.accesskey "R">
+<!ENTITY fileRecentMenu.accesskey "r">
 <!ENTITY saveCmd.label "Salvează">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Salvează ca…">
 <!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsChangeEncodingCmd2.label "Salvează și schimbă codarea textului">
-<!ENTITY saveAsChangeEncodingCmd2.accesskey "E">
+<!ENTITY saveAsChangeEncodingCmd2.label "Salvează și schimbă codarea de caractere">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "e">
 <!ENTITY publishCmd.label "Publică">
 <!ENTITY publishCmd.accesskey "b">
 <!ENTITY publishCmd.key "P">
 <!ENTITY publishAsCmd.label "Publică ca…">
 <!ENTITY publishAsCmd.accesskey "P">
-<!ENTITY fileRevert.label "Revino">
-<!ENTITY fileRevert.accesskey "r">
+<!ENTITY fileRevert.label "Revenire">
+<!ENTITY fileRevert.accesskey "R">
 
 <!-- Edit menu items -->
-<!ENTITY publishSettings.label "Setări de publicare site-uri…">
+<!ENTITY publishSettings.label "Opțiuni pentru publicarea pe site…">
 <!ENTITY publishSettings.accesskey "b">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nou">
-<!ENTITY newToolbarCmd.tooltip "Creează o pagină nouă în Composer">
+<!ENTITY newToolbarCmd.tooltip "Creează o nouă pagină Composer">
 <!ENTITY openToolbarCmd.label "Deschide">
 <!ENTITY openToolbarCmd.tooltip "Deschide un fișier local">
 <!ENTITY saveToolbarCmd.tooltip "Salvează local fișierul">
