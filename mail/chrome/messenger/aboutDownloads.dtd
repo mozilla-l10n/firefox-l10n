@@ -11,7 +11,7 @@
      -->
 <!ENTITY cmd.show.label                            "Deschide dosarul în care se află">
 <!ENTITY cmd.show.accesskey                        "F">
-<!ENTITY cmd.showMac.label                         "Afișează în instrumentul de căutare">
+<!ENTITY cmd.showMac.label                         "Afișează în Finder">
 <!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Deschide">
 <!ENTITY cmd.open.accesskey                        "D">
