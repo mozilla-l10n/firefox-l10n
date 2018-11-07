@@ -27,9 +27,9 @@
                                            Nu vei mai vedea această notă, dar poți">
 <!ENTITY  unsupportedLink.label           "afla mai multe.">
 
-<!ENTITY  clickHere.label                 "Mai multe informații despre această actualizare">
+<!ENTITY  clickHere.label                 "Vezi mai multe informații despre această actualizare">
 
-<!ENTITY  evangelism.desc                 "Se recomandă insistent ca să aplici această
+<!ENTITY  evangelism.desc                 "Se recomandă insistent să aplici această
                                            actualizare pentru &brandShortName; cât mai curând posibil.">
 
 <!ENTITY  downloadPage.title              "Se descarcă &brandShortName;">
