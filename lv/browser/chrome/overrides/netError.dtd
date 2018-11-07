@@ -13,6 +13,8 @@
 <!ENTITY continue2.label "Vairāk…">
 <!ENTITY moreInformation.label "Vairāk informācijas">
 
+<!ENTITY viewCertificate.label "Aplūkot sertifikātu">
+
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nevar pieslēgties">
@@ -92,6 +94,7 @@
 
 <!ENTITY certerror.longpagetitle1 "Savienojums nav drošs">
 <!ENTITY certerror.longpagetitle2 "Brīdinājums: Potenciāls drošības risks">
+<!ENTITY certerror.sts.longpagetitle  "Netika izveidots savienojums: potenciāla drošības problēma">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -99,6 +102,12 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; atklāja potenciālus draudus drošībai un nepārgāja uz <span class='hostname'/>. Ja apmeklējat šo vietni, uzbrucēji varētu mēģināt nozagt informāciju, piemēram, jūsu paroles, e-pastus vai kredītkartes datus.">
 
 <!ENTITY certerror.expiredCert.secondPara "Šī iemesls visdrīzāk ir nepareizi nokonfigurēts jūsu datora pulkstenis, kas liedza &brandShortName; izveidot drošu savienojumu.">
+
+<!ENTITY certerror.sts.introPara "&brandShortName; konstatēja potenciālus drošības draudus un nedevās uz <span class='hostname'/>, jo šai vietnei vajadzīgs drošs savienojums.">
+
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; konstatēja problēmu un nedevās uz <span class='hostname'/>. Mājas lapa ir nepareizi konfigurēta vai datora pulkstenis ir iestatīts nepareizā laikā.">
+<!ENTITY certerror.expiredCert.secondPara2 "Iespējams, ka vietnes sertifikāta derīguma termiņš ir beidzies, un tas neļauj &brandShortName; droši savienoties. Ja apmeklēsiet šo vietni, uzbrucēji varētu mēģināt nozagt informāciju, piemēram, jūsu paroles, epastus vai kredītkartes datus.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Iespējams, ka vietnes sertifikāta derīguma termiņš ir beidzies, un tas neļauj &brandShortName; droši savienoties.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Ko jūs varat darīt?">
 
@@ -142,6 +151,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Nedrošs savienojums">
 <!ENTITY certerror.pagetitle2  "Brīdinājums: Potenciāls drošības risks">
+<!ENTITY certerror.sts.pagetitle  "Netika izveidots savienojums: potenciāla drošības problēma">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Šī lapa izmanto HTTP Strict Transport Security (HSTS), lai norādītu, ka &brandShortName; pieslēdzas tai tikai drošā režīmā. Šī iemesla dēļ, nav iespējams pievienot sertifikāta izņēmumu šai lapai.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> izmanto drošības politiku, ko sauc HTTP Strict Transport Security (HSTS), kas nozīmē, ka &brandShortName; var lapai pieslēgties lapai tikai drošajā režīmā. Jūs nevarat pievienot izņēmumu, lai apmeklētu šo lapu.">
 <!ENTITY certerror.copyToClipboard.label "Kopēt tekstu atmiņā">
@@ -158,3 +168,6 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Izskatās, ka jūsu tīkla drošības iestatījumi varētu bū pie vainas. Vai vēlaties atjaunot noklusētos iestatījumus?">
 <!ENTITY prefReset.label "Atjaunot noklusētos iestatījumus">
+
+<!ENTITY networkProtocolError.title "Tīkla protokola kļūda">
+<!ENTITY networkProtocolError.longDesc "<p>Lapu, kuru mēģināt skatīt, nevar tikt parādīta, jo tika konstatēta tīkla protokola kļūda.</p><ul><li>Lūdzu, sazinieties ar vietņu īpašniekiem, lai informētu viņus par šo problēmu.</li></ul>">

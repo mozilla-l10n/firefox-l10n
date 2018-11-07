@@ -1081,6 +1081,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate5.label "Izslēgt bloķēšanu uz laiku">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.label "Ieslēgt šīs vietnes bloķēšanu">
+<!ENTITY trackingProtection.block6.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "Pārlādēt lapu">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
