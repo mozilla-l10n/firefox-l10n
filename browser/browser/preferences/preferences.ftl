@@ -371,6 +371,12 @@ update-enable-search-update =
     .label = Zoekmachines automatisch bijwerken
     .accesskey = Z
 
+update-pref-write-failure-title = Schrijffout
+
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Kan voorkeur niet opslaan. Kon niet schrijven naar bestand: { $path }
+
 ## General Section - Performance
 
 performance-title = Prestaties
