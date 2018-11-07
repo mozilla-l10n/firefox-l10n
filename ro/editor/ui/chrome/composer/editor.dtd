@@ -49,7 +49,7 @@
 <!ENTITY NormalMode.tooltip "Afișează bordurile tabelelor și ancorele denumite">
 <!ENTITY AllTagsModeTab.label "Etichete HTML">
 <!ENTITY AllTagsMode.label "Etichete HTML">
-<!ENTITY AllTagsMode.accesskey "E">
+<!ENTITY AllTagsMode.accesskey "e">
 <!ENTITY AllTagsMode.tooltip "Afișează pictograme pentru toate etichetele HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
@@ -64,4 +64,4 @@
 <!ENTITY PreviewModeTab.label "Previzualizează">
 <!ENTITY PreviewMode.label "Previzualizează">
 <!ENTITY PreviewMode.accesskey "P">
-<!ENTITY PreviewMode.tooltip "Afișează vizual (WYSIWYG, ca în browser)">
+<!ENTITY PreviewMode.tooltip "Afișează ca WYSIWYG (ca în browser)">
