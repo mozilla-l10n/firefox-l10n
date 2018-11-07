@@ -754,7 +754,7 @@
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Nova mensagem de modelo">
-<!ENTITY contextOpenNewWindow.label "Abrir mensagem em nova janela">
+<!ENTITY contextOpenNewWindow.label "Abrir mensagem numa nova janela">
 <!ENTITY contextOpenNewWindow.accesskey "j">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
