@@ -614,6 +614,9 @@ sitedata-keep-until-expire =
     .label = ez echuont
 sitedata-keep-until-closed =
     .label = zo serret { -brand-short-name }
+sitedata-delete-on-close =
+    .label = Dilemel an toupinoù hag al lec'hiennoù pa vez serret { -brand-short-name }
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Asantiñ an toupinoù hag ar roadennoù lec'hienn
     .accesskey = A
@@ -859,3 +862,7 @@ certs-view =
 certs-devices =
     .label = Trevnadoù diogelroez…
     .accesskey = T
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Enrollañ ar restroù e-barzh { $service-name }
