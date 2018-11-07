@@ -20,9 +20,9 @@
 <!ENTITY accountManager.noAccount.description "Dă clic pe butonul &accountManager.newAccount.label; pentru a lăsa &brandShortName; să te ghideze prin procesul configurării unui cont.">
 <!ENTITY account.autoSignOn.label     "Autentificare la pornire">
 <!ENTITY account.autoSignOn.accesskey "S">
-<!ENTITY account.connect.label        "Conectare">
+<!ENTITY account.connect.label        "Conectează">
 <!ENTITY account.connect.accesskey    "o">
-<!ENTITY account.disconnect.label     "Deconectare">
+<!ENTITY account.disconnect.label     "Deconectează">
 <!ENTITY account.disconnect.accesskey "i">
 <!ENTITY account.delete.label         "Șterge">
 <!ENTITY account.delete.accesskey     "D">
