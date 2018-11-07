@@ -2,5 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-restart-required-title = Необходимо рестартиране
+restart-required-title = Необходимо е рестартиране
 restart-required-header = Извинете. За да продължим работа е необходимо да свършим нещо дребно.
+restart-required-intro = Инсталиране на обновяване на заден план е приключило. Изберете Рестартиране на { -brand-short-name } за прилагането му.
+restart-button-label = Рестартиране на { -brand-short-name }
