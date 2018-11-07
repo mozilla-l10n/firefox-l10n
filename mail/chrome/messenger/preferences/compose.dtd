@@ -50,7 +50,7 @@
 <!ENTITY emailCollectionPicker.label           "Adaugă automat adresele de e-mail din mesajele trimise la:">
 <!ENTITY emailCollectionPicker.accesskey       "a">
 <!ENTITY addressingTitle.label                 "Completarea automată a adresei">
-<!ENTITY autocompleteText.label                "Când se scrie destinatarul, caută potriviri în:">
+<!ENTITY autocompleteText.label                "La introducerea adresei destinatarului, caută rezultate corespondente în:">
 <!ENTITY addressingEnable.label                "Agende locale de contacte">
 <!ENTITY addressingEnable.accesskey            "A">
 <!ENTITY directories.label                     "Server de directoare:">

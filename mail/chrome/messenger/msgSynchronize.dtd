@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
 
 <!ENTITY MsgSynchronize.label "Descărcare și sincronizare mesaje">
 <!ENTITY MsgSelect.label "Ce se utilizează în utilizare offline">
@@ -14,7 +14,7 @@
 <!ENTITY syncTypeNews.accesskey "j">
 <!ENTITY sendMessage.label "Trimite mesajele neexpediate">
 <!ENTITY sendMessage.accesskey "T">
-<!ENTITY workOffline.label "Lucrează offline imediat ce se termină descărcarea și sincronizarea">
+<!ENTITY workOffline.label "Treci în modul offline imediat ce se termină descărcarea și/sau sincronizarea">
 <!ENTITY workOffline.accesskey "e">
 <!ENTITY selectButton.label "Selectează…">
 <!ENTITY selectButton.accesskey "e">
