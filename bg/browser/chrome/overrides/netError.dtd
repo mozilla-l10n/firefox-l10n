@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Връщане назад">
 <!ENTITY returnToPreviousPage1.label "Връщане назад (препоръчително)">
 <!ENTITY advanced.label "Подробности">
-
 <!ENTITY continue2.label "Подробности…">
 <!ENTITY moreInformation.label "Повече информация">
+
+<!ENTITY viewCertificate.label "Преглед на сертификата">
 
 <!-- Specific error messages -->
 
@@ -108,14 +109,16 @@
 
 <!ENTITY certerror.longpagetitle1 "Връзката е незащитена">
 <!ENTITY certerror.longpagetitle2 "Внимание: Вероятен риск за сигурността">
+<!ENTITY certerror.sts.longpagetitle  "Неуспешно свързване: Евентуален проблем със сигурността">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Собственикът на <span class='hostname'/> е настроил страницата неправилно. За да ви защити от кражба на информация, &brandShortName; отказа връзката с тази страница.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; забеляза възможна заплаха за сигурността и не продължи към <span class='hostname'/>. Ако посетите страницата атакуващ може да опита да открадне информация като ваши пароли, електронни писма или данни за банкови карти.">
 
 <!ENTITY certerror.expiredCert.secondPara "Проблемът, най-вероятно, е причинен от неверен часовник на компютъра, което би могло да попречи на &brandShortName; да осъществи защитена връзка.">
+
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Какво да направите в тази ситуация?">
 
@@ -141,7 +144,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Добавяне на изключение…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Продължаване въпреки риска">
 
 <!ENTITY errorReporting.automatic2 "Докладване на такива грешки, за да може Mozilla да идентифицира и ограничи злонамерени сайтове">
@@ -163,6 +165,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Незащитена връзка">
 <!ENTITY certerror.pagetitle2  "Внимание: Вероятен риск за сигурността">
+<!ENTITY certerror.sts.pagetitle  "Неуспешно свързване: Евентуален проблем със сигурността">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Сайтът използва HTTP Strict Transport Security (HSTS), за да укаже на &brandShortName; да се свързва само по сигурен начин. В резултат на това не може да се добави изключение за този сертификат.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'/> използва политика за сигурност наречена HTTP Strict Transport Security (HSTS), което означава. че &brandShortName; може да използва само сигурни връзки. Не може да добавяте изключение при посещение на тази страница.">
 <!ENTITY certerror.copyToClipboard.label "Копиране на текста в системния буфер">
@@ -179,3 +182,9 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Изглежда вашите настройките на сигурността може да са предизвикали това. Искате ли да възстановите оригиналните настройки?">
 <!ENTITY prefReset.label "Възстановяване на оригиналните настройки">
+
+<!ENTITY networkProtocolError.title "Нарушение на мрежовия протокол">
+<!ENTITY networkProtocolError.longDesc "<p>Страницата която се опитвате да отворите не може да бъде показана, защото е открита грешка в мрежовия протокол.</p>
+<ul>
+  <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li>
+</ul>">
