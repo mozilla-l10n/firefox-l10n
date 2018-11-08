@@ -295,6 +295,9 @@ update-enable-search-update =
     .label = Аўтаматычна абнаўляць пашукавікі
     .accesskey = а
 update-pref-write-failure-title = Збой запісу
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Немагчыма захаваць налады. Не ўдалося запісаць у файл: { $path }
 
 ## General Section - Performance
 
