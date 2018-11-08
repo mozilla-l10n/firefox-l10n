@@ -121,3 +121,74 @@ disabled-unsigned-heading =
 disabled-unsigned-description = පහත ඇඩෝන { -brand-short-name } හි භාවිතයට තහවුරු කර නොමැත. ඔබට හැක්කේ <label data-l10n-name="find-addons">ප්‍රතිස්ථාපනයන් සොයන්න</label> හෝ තහවුරු කිරීම සඳහා සංවර්දකයාගෙන් විමසන්න.
 disabled-unsigned-learn-more = ඔබව මාර්ගගතව ආරක්ෂිතව තැබීම සඳහා අපගේ උත්සාහයන් පිළිබඳ දැනගන්න.
 disabled-unsigned-devinfo = මෙය කියවීම මගින් තම ඇඩෝන තහවුරු කරගැනීමට කැමති සංවර්ධකයන් ඉදිරියට යන්න <label data-l10n-name="learn-more">ශ්‍රමික</label>.
+extensions-view-discover =
+    .name = ඇඩෝන ලබා ගන්න
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = මෑතකාලීන යාවත්කාලීන
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = පවතින යාවත්කාලීන
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = ආරක්ෂිත මාදිලිය (safe mode) විසින් සියළු ඇඩෝන කර ඇත.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = ඇඩෝන අනුකූලතා පරීක්ෂාව අබල (disable) කර ඇත. මෙහි අනුකූල නොවන ඇඩෝන තිබිය හැකිය.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = බලැති (Enable) කරන්න
+    .tooltiptext = ඇඩෝන අනුකූලතා පරීක්ෂාව බලැති (Enable) කරන්න
+extensions-warning-update-security-label =
+    .value = Add-on update security checking is disabled. You may be compromised by updates.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = බලැති (Enable) කරන්න
+    .tooltiptext = ඇඩෝන යාවත්කාලීන කිරීමේ ආරක්ෂක සැකසුම් බලැතා (Enable) කරන්න
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = යාවත්කාලීන සඳහා පරීක්ෂා කරන්න
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = මෑතකාලීන යාවත්කාලීන පෙන්වන්න
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = ස්වයංක්‍රීයව ඇඩෝන යාවත්කාලීන කරන්න
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = ඇඩෝන යාවත්කාලීන කිරීම
+extensions-updates-installed =
+    .value = ඔබගේ ඇඩෝන යාවත්කාලීන නර ඇත.
+extensions-updates-downloaded =
+    .value = ඔබගේ ඇඩෝන යාවත්කාලීන බාගත කර ඇත.
+extensions-updates-restart =
+    .label = ස්ථාපනය සම්පූර්ණ වීමට දැන් යළි-ආරම්භ කරන්න
+extensions-updates-none-found =
+    .value = යාවත්කාලීන හමු නොවීය
+extensions-updates-manual-updates-found =
+    .label = පවතින යාවත්කාලීන පෙන්වන්න
+extensions-updates-update-selected =
+    .label = යාවත්කාලීන ස්ථාපනය කරන්න
+    .tooltiptext = මෙම ලැයිස්තුවේ පවතින යාවත්කාලීන ස්ථාපනය කරන්න
