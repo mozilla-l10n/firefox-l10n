@@ -153,10 +153,16 @@ extensions-warning-update-security-enable =
 extensions-updates-check-for-updates =
     .label = ពិនិត្យមើល​បច្ចុប្បន្នភាព
     .accesskey = ព
+extensions-updates-view-updates =
+    .label = មើល​បច្ចុប្បន្នភាព​ថ្មីៗ
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​បន្ថែម​ដោយ​ស្វ័យប្រវត្តិ
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -164,6 +170,12 @@ extensions-updates-check-for-updates =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = កំណត់​កម្មវិធី​បន្ថែម​ទាំងអស់​ឡើង​វិញ ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = កំណត់​កម្មវិធី​បន្ថែម​ទាំងអស់​ឡើង​វិញ ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​ដៃ
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
