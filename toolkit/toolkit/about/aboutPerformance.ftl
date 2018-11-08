@@ -20,6 +20,8 @@ preloaded-tab = Esiladattu: { $title }
 ## Values for the Type column
 
 type-tab = Välilehti
+type-subframe = Alikehys
+type-tracker = Seurain
 type-addon = Lisäosa
 type-browser = Selain
 type-other = Muu
@@ -38,3 +40,5 @@ energy-impact-low = Pieni ({ $value })
 
 close-tab =
     .title = Sulje välilehti
+show-addon =
+    .title = Näytä lisäosien hallinnassa
