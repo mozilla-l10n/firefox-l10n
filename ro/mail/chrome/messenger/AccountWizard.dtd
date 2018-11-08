@@ -11,7 +11,7 @@
 
 <!ENTITY accountSetupInfo2.label "Trebuie să configurați un cont pentru a putea primi mesaje.">
 <!ENTITY accountTypeTitle.label "Configurare cont nou">
-<!ENTITY accountTypeDesc2.label "Asistentul va colecta informațiile necesare configurării unui cont. Dacă nu cunoști informațiile solicitate, contactează administratorul de sistem sau furnizorul de servicii de internet.">
+<!ENTITY accountTypeDesc2.label "Acest asistent va colecta informațiile necesare configurării unui cont. Dacă nu cunoști informațiile necesare, te rugăm să contactezi administratorul de sistem sau furnizorul de servicii internet.">
 <!ENTITY accountTypeDirections.label "Selectați tipul de cont pe care doriți să îl configurați:">
 <!ENTITY accountTypeMail.label "Cont de e-mail">
 <!ENTITY accountTypeMail.accesskey "m">
@@ -27,7 +27,7 @@
 <!ENTITY identityDesc.label "Fiecare cont are asociată o identitate, adică datele prin care vă identificați față de cei care vă primesc mesajele.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Introduceți numele care doriți să apară în câmpul „From” („De la”) al mesajelor pe care le trimiteți">
+<!ENTITY fullnameDesc.label "Introdu numele care dorești să apară în câmpul „From” („De la”) al mesajelor pe care le trimiți">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
@@ -56,15 +56,15 @@
 <!ENTITY defaultPortLabel.label "Implicit:">
 <!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServer.description "Introduceți numele serverului de primire (de exemplu, „mail.exemplu.net”).">
+<!ENTITY incomingServer.description "Introdu numele serverului de primire (de exemplu, „mail.example.net”).">
 <!ENTITY incomingServer.label "Server de primire:">
 <!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY incomingUsername.description "Introduceți numele de utilizator pentru primire alocat de furnizorul de servicii de e-mail (de exemplu, „ipopescu”).">
+<!ENTITY incomingUsername.description "Introdu numele de utilizator pentru primire oferit de furnizorul de servicii de e-mail (de exemplu, „ipopescu”).">
 <!ENTITY incomingUsername.label "Nume de utilizator:">
 <!ENTITY incomingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Introduceți numele serverului de știri (NNTP) (de exemplu, „news.exemplu.net”).">
+<!ENTITY newsServerNameDesc.label "Introdu numele serverului de știri (NNTP) (de exemplu, „news.example.net”).">
 <!ENTITY newsServerLabel.label "Server grup de discuții:">
 <!ENTITY newsServerLabel.accesskey "S">
 
@@ -72,10 +72,10 @@
 
 <!ENTITY outgoingTitle.label "Informații server de trimitere">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY outgoingServer.description "Introduceți numele serverului de trimitere (SMTP) (de exemplu, „smtp.exemplu.net”).">
+<!ENTITY outgoingServer.description "Introdu numele serverului de trimitere (SMTP) (de exemplu, „smtp.example.net”).">
 <!ENTITY outgoingServer.label "Server de trimitere:">
 <!ENTITY outgoingServer.accesskey "S">
-<!ENTITY outgoingUsername.description "Introduceți numele de utilizator pentru trimitere, dat de furnizorul de e-mail (de obicei este același cu numele de utilizator pentru primire).">
+<!ENTITY outgoingUsername.description "Introdu numele de utilizator pentru trimitere, dat de furnizorul de e-mail (de obicei este același cu numele de utilizator pentru primire).">
 <!ENTITY outgoingUsername.label "Nume de utilizator pentru trimitere:">
 <!ENTITY outgoingUsername.accesskey "u">
 
@@ -106,14 +106,14 @@
 
 <!ENTITY accnameTitle.label "Numele contului">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Introdu un nume de referință pentru acest cont (de exemplu, „Cont de serviciu”, „Cont de acasă” sau „Cont de știri”).">
+<!ENTITY accnameDesc.label "Introdu un nume pe care dorești să-l acorzi acestui cont (de exemplu, „Cont de la serviciu”, „Cont de acasă” sau „Cont pentru știri”).">
 <!ENTITY accnameLabel.label "Numele contului:">
 <!ENTITY accnameLabel.accesskey "a">
 
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Felicitări!">
-<!ENTITY completionText.label "Vă rugăm să verificați datele de mai jos pentru corectitudine.">
+<!ENTITY completionText.label "Te rugăm să verifici ca datele de mai jos să fie corecte.">
 <!ENTITY serverTypePrefix.label "Tipul serverului de primire:">
 <!ENTITY serverNamePrefix.label "Numele serverului de primire:">
 <!ENTITY smtpServerNamePrefix.label "Numele serverului de trimitere (SMTP):">
