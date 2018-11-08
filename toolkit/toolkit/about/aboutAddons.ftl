@@ -133,3 +133,77 @@ legacy-warning-show-legacy = Näytä perinteiset laajennukset
 legacy-extensions =
     .value = Perinteiset laajennukset
 legacy-extensions-description = Nämä laajennukset eivät täytä { -brand-short-name }in nykyisiä vaatimuksia, joten ne on poistettu käytöstä. <label data-l10n-name="legacy-learn-more">Lue lisää muutoksista lisäosiin</label>
+extensions-view-discover =
+    .name = Lataa lisäosia
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Tuoreet päivitykset
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Saatavilla olevat päivitykset
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Kaikki lisäosat on poistettu käytöstä vikasietotilassa.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Lisäosien yhteensopivuuden tarkistus on otettu pois päältä. Osa lisäosista voi olla epäyhteensopivia.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Ota käyttöön
+    .tooltiptext = Ota lisäosien yhteensopivuuden tarkistus käyttöön
+extensions-warning-update-security-label =
+    .value = Lisäosien päivitysten turvallisuustarkistus ei ole käytössä. Päivitykset voivat saastuttaa koneesi.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Ota käyttöön
+    .tooltiptext = Ota lisäosien päivitysten turvallisuustarkistus käyttöön
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Hae päivityksiä
+    .accesskey = H
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Päivitä lisäosat automaattisesti
+    .accesskey = u
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Aseta kaikki lisäosat päivittymään automaattisesti
+    .accesskey = P
+extensions-updates-reset-updates-to-manual =
+    .label = Aseta kaikki lisäosat päivittymään vain käsin
+    .accesskey = k
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Päivitetään lisäosia
+extensions-updates-installed =
+    .value = Lisäosat on päivitetty.
+extensions-updates-downloaded =
+    .value = Lisäosien päivitykset on ladattu.
+extensions-updates-restart =
+    .label = Käynnistä uudestaan viimeistelläksesi asennuksen
+extensions-updates-none-found =
+    .value = Päivityksiä ei löytynyt
+extensions-updates-manual-updates-found =
+    .label = Näytä saatavilla olevat päivitykset
+extensions-updates-update-selected =
+    .label = Asenna päivitykset
+    .tooltiptext = Asenna tämän listan saatavilla olevat päivitykset
