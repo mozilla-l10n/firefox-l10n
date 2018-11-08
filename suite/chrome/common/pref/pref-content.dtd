@@ -41,3 +41,5 @@
 <!ENTITY allowHWAccel.accesskey                 "h">
 <!ENTITY blockAutoRefresh.label                 "Upozorniť, ak sa webová stránka pokúša o presmerovanie alebo obnovenie">
 <!ENTITY blockAutoRefresh.accesskey             "U">
+
+<!ENTITY showZoomStatusPanel.label              "Zobraziť nastavenie priblíženia v stavovom riadku">
