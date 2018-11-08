@@ -104,3 +104,80 @@ detail-rating =
     .value = Рейтинг
 addon-restart-now =
     .label = Билигин хос холбоо
+extensions-view-discover =
+    .name = Эбиискэлэри хачайдан
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Соторутааҥы саҥардыылар
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Туттуллар кыахтаах саҥардыылар
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Куттала суох үлэлиир эрэсиимҥэ эбиискэлэр араарыллаллар.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Эбиискэлэр сөп түбэһэллэрин тургутуу араарыллыбыт. Сөп түбэспэт эбиискэлэр баар буолуохтарны сөп.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Холбоо
+    .tooltiptext = Эбиискэлэр сөп түбэһэллэрин тургутууну холбоо
+extensions-warning-update-security-label =
+    .value = Эбиискэлэри саҥардарга арчылыыр сулууспа араарыллыбыт. Онон саҥартаххына ол бу буолуон сөп.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Холбоо
+    .tooltiptext = Саҥардыы кэмигэр арчылыыр сулууспаны холбоо
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Саҥардыы баарын көрүү
+    .accesskey = д
+extensions-updates-view-updates =
+    .label = Соторутааҥҥы саҥардыылары көрүү
+    .accesskey = С
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Эбиискэлэри аптамаатынан саҥарт
+    .accesskey = а
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Туох баар эбиискэлэргэ аптамаатынан саҥардыыны холбоо
+    .accesskey = э
+extensions-updates-reset-updates-to-manual =
+    .label = Туох баар эбиискэлэргэ илииннэн саҥардыыны холбоо
+    .accesskey = э
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Эбиискэлэри саҥардыы
+extensions-updates-installed =
+    .value = Эбиискэлэриҥ саҥардылыннылар.
+extensions-updates-downloaded =
+    .value = Саҥардыылар хачайданнылар.
+extensions-updates-restart =
+    .label = Түмүктүүргэ көмпүүтэргин хос ыыт
+extensions-updates-none-found =
+    .value = Саҥардыы көстүбэтэ
+extensions-updates-manual-updates-found =
+    .label = Туттуллар кыахтаах саҥардыылары көрдөр
+extensions-updates-update-selected =
+    .label = Саҥардыылары туруор
+    .tooltiptext = Бу тиһиктэн туруоруллар кыахтаах саҥардыылары туруор
