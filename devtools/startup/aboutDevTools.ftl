@@ -45,5 +45,10 @@ features-performance-desc = Tıkanmaların önüne geçin, işlemleri izleyin, v
 features-memory-title = Bellek
 features-memory-desc = Bellek sızıntılarını bularak uygulamanızı daha akıcı yapın. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Abonelik isteği başarısız oldu ({ $errorDescription }).
+newsletter-error-unknown = Beklenmeyen bir hata oluştu.
+newsletter-error-timeout = Abonelik isteği zaman aşımına uğradı.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Geliştirici Araçları’nı başarıyla etkinleştirdiniz! Başlamak için Web geliştirici menüsünü inceleyin veya { $shortcut } kısayoluyla araçları açın.
