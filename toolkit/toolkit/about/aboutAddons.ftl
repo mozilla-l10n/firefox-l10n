@@ -121,3 +121,75 @@ legacy-warning-show-legacy = Afichar las extensions obsolètas
 legacy-extensions =
     .value = Extensions obsolètas
 legacy-extensions-description = Aquestas extensions respèctan pas los estandards actuals de { -brand-short-name } e son estadas desactivadas. <label data-l10n-name="legacy-learn-more">Ne saber mai suls cambiaments dels moduls</label>
+extensions-view-discover =
+    .name = Obténer de moduls complementaris
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Mes a jorn
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = De metre a jorn
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Totes los moduls complementaris son estats desactivats pel mòde sens fracàs.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = La verificacion de compatibilitat pels moduls complementaris es desactivada. Es possible que d'unes moduls sián incompatibles.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Activar
+    .tooltiptext = Activar la verificacion de compatibilitat
+extensions-warning-update-security-label =
+    .value = La verificacion de compatibilitat pels moduls complementaris es desactivada. Es possible que d'unas mesas a jorn sián problematicas.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Activar
+    .tooltiptext = Activar la verificacion de mesas a jorn de seguretat pels moduls complementaris
+
+## Strings connected to add-on updates
+
+extensions-updates-view-updates =
+    .label = Afichar las mesas a jorn recentas
+    .accesskey = A
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Metre a jorn los moduls automaticament
+    .accesskey = M
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Activar la mesa a jorn automatica per totes los moduls
+    .accesskey = c
+extensions-updates-reset-updates-to-manual =
+    .label = Desactivar la mesa a jorn automatica per totes los moduls
+    .accesskey = D
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Mesa a jorn dels moduls
+extensions-updates-installed =
+    .value = Vòstres moduls son estats meses a jorn.
+extensions-updates-downloaded =
+    .value = Las mesas a jorn de vòstres moduls son estats telecargadas.
+extensions-updates-none-found =
+    .value = Cap de mesa a jorn pas trobada
+extensions-updates-manual-updates-found =
+    .label = Afichar las mesas a jorn disponiblas
+extensions-updates-update-selected =
+    .label = Installar las mesas a jorn
+    .tooltiptext = Installar las mesas a jorn disponiblas dins aquesta lista
