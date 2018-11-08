@@ -194,8 +194,12 @@ extensions-updates-reset-updates-to-manual =
 
 extensions-updates-updating =
     .value = 正在更新附加组件
+extensions-updates-installed =
+    .value = 您的附加组件更新完毕。
 extensions-updates-downloaded =
     .value = 您的附加组件更新已经下载。
+extensions-updates-restart =
+    .label = 立即重开以完成安装
 extensions-updates-none-found =
     .value = 没有找到可用的更新
 extensions-updates-manual-updates-found =
