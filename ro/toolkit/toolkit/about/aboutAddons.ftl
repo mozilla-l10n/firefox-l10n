@@ -186,6 +186,12 @@ extensions-updates-reset-updates-to-manual =
 
 extensions-updates-updating =
     .value = Se actualizează suplimentele
+extensions-updates-installed =
+    .value = Suplimentele tale au fost actualizate.
+extensions-updates-downloaded =
+    .value = S-au descărcat actualizările pentru suplimentele tale.
+extensions-updates-restart =
+    .label = Repornește acum pentru a încheia instalarea
 extensions-updates-none-found =
     .value = Nicio actualizare găsită
 extensions-updates-manual-updates-found =
