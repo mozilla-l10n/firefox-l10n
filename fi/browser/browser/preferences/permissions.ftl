@@ -55,9 +55,9 @@ permissions-exceptions-tracking-protection-window =
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Olet poistanut seurannan suojauksen näiltä sivustoilta.
 permissions-exceptions-content-blocking-window =
-    .title = Poikkeukset - Sisällön estäminen
+    .title = Poikkeukset - Sisällön esto
     .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Olet poistanut käytöstä sisällön estämisen näillä verkkosivustoilla.
+permissions-exceptions-content-blocking-desc = Olet poistanut käytöstä sisällön eston näillä sivustoilla.
 
 ## Exceptions - Cookies
 
