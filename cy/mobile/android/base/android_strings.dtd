@@ -898,11 +898,14 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY default_notification_channel2 "Porwr">
 <!ENTITY mls_notification_channel "Gwasanaeth Lleoli &vendorShortName;">
 <!ENTITY download_notification_channel "Llwythau">
 <!ENTITY media_notification_channel "Chwarae cyfwng">
+<!ENTITY media_notification_channel2 "Sain a fideo">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "Hysbysiadau gwthio &brandShortName;">
+<!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; awgrymiadau a thriciau">
 <!ENTITY updater_notification_channel "Diweddaru apiau">
 <!ENTITY synced_tabs_notification_channel "Tabiau wedi\&apos;u cydweddu">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
