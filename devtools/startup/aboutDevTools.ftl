@@ -27,3 +27,8 @@ features-responsive-title = রিসপনসিভ ডিজাইন মো�
 features-visual-editing-title = ভিজ্যুয়াল এডিটিং
 features-performance-title = কার্যকারিতা
 features-memory-title = মেমরি
+# Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = সাবস্ক্রিপশন অনুরোধ ব্যর্থ হয়েছে ({ $errorDescription })।
+newsletter-error-unknown = একটি অপ্রত্যাশিত ত্রুটি ঘটেছে।
+newsletter-error-timeout = সাবস্ক্রিপশন অনুরোধ মেয়াদোত্তীর্ণ হয়েছে।
