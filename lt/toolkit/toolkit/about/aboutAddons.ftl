@@ -130,3 +130,80 @@ legacy-warning-show-legacy = Rodyti pasenusius plėtinius
 legacy-extensions =
     .value = Pasenę plėtiniai
 legacy-extensions-description = Šie plėtiniai neatitinka esamų „{ -brand-short-name }“ standartų, tad buvo išjungti. <label data-l10n-name="legacy-learn-more">Sužinokite apie priedų pokyčius</label>
+extensions-view-discover =
+    .name = Parsisiųsti priedų
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Paskiausiai atnaujinti
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Galimi naujinimai
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Ribotojoje veiksenoje visi priedai išjungti.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Priedų suderinamumas netikrinamas. Gali būti, kad turite nesuderinamų priedų.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Tikrinti
+    .tooltiptext = Įjungti priedų suderinamumo tikrinimą
+extensions-warning-update-security-label =
+    .value = Priedų naujinimų saugumas netikrinamas. Priedų naujinimai gali pakenkti jūsų saugumui.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Tikrinti
+    .tooltiptext = Įjungti priedų naujinimų saugumo tikrinimą
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Tikrinti, ar yra naujinimų
+    .accesskey = T
+extensions-updates-view-updates =
+    .label = Rodyti paskiausiai atnaujintus priedus
+    .accesskey = p
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Naujinti priedus automatiškai
+    .accesskey = N
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Visus priedus naujinti automatiškai
+    .accesskey = V
+extensions-updates-reset-updates-to-manual =
+    .label = Visus priedus naujinti rankiniu būdu
+    .accesskey = V
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Priedai naujinami
+extensions-updates-installed =
+    .value = Turimi priedai atnaujinti.
+extensions-updates-downloaded =
+    .value = Parsiųsti turimų priedų naujinimai.
+extensions-updates-restart =
+    .label = Paleiskite programą iš naujo, kad diegimas būtų užbaigtas
+extensions-updates-none-found =
+    .value = Naujinimų nerasta
+extensions-updates-manual-updates-found =
+    .label = Rodyti galimus atnaujinti priedus
+extensions-updates-update-selected =
+    .label = Įdiegti naujinimus
+    .tooltiptext = Įdiegti šiame sąraše esančių priedų naujinimus
