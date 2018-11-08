@@ -45,5 +45,10 @@ features-performance-desc = Απελευθέρωση σημείων συμφόρ
 features-memory-title = Μνήμη
 features-memory-desc = Εύρεση διαρροών μνήμης και βελτίωση της λειτουργίας της εφαρμογής σας. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Αποτυχία αιτήματος εγγραφής ({ $errorDescription }).
+newsletter-error-unknown = Προέκυψε απρόσμενο σφάλμα.
+newsletter-error-timeout = Έληξε ο χρόνος αίτησης για εγγραφή.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Έχετε ενεργοποιήσει επιτυχώς τα εργαλεία προγραμματιστή! Για να ξεκινήστε, εξερευνήστε το μενού Web Developer ή να ανοίξτε τα εργαλεία με { $shortcut }.
