@@ -45,5 +45,10 @@ features-performance-desc = Atrodiet vājās vietas, optimizējiet procesus un l
 features-memory-title = Atmiņa
 features-memory-desc = Atrodiet atmiņas noplūdes un padariet savu lietotni zibenīgu. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Abonementa pieprasījums neizdevās ({ $errorDescription }).
+newsletter-error-unknown = Radās neparedzēta kļūda.
+newsletter-error-timeout = Abonementa pieprasījumam iestājās noildze.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Esam veiksmīgi aktivējuši izstrādātāju rīkus! Lai sāktu darbu, apskatiet izstrādātāju izvēlni vai atveriet rīkus ar { $shortcut }.
