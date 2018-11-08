@@ -121,3 +121,73 @@ legacy-warning-show-legacy = Hollu Jokke donaaɗe
 legacy-extensions =
     .value = Timmite gaadanteeje
 legacy-extensions-description = Ɗee timmitte ɗooftaaki nanondiraaɗe { -brand-short-name } wadde ɗe ndaaƴaama. <label data-l10n-name="legacy-learn-more">Ɓeydu humpito baɗte waylooji ɓeyditte</label>
+extensions-view-discover =
+    .name = Ɗaɓɓu Ɓeyditte
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Kesɗitine Cakkitiiɗe
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Kesɗitine Goodaaɗe
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Mbayka kisnal daaƴii ɓeyditte fof.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Ƴeewtagol jaaɓdugol ɓeyditte koko daaƴaa. Aɗa waawi jogaade ɓeyditte ɗe njaaɓaani.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Daaƴtu
+    .tooltiptext = Daaƴtu ƴeewtagol jaaɓdugol ɓeyditte
+extensions-warning-update-security-label =
+    .value = Ƴeewtagol kisnal ɓeyditte koko daaƴaa. Aɗa waawi heɓde caɗe e kesɗitine.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Daaƴtu
+    .tooltiptext = Daaƴtu ƴeewtagol kisnal ɓeyditte
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Yuurno kesɗitine
+    .accesskey = Y
+extensions-updates-view-updates =
+    .label = Hollir Kesɗitine Cakkitiiɗe
+    .accesskey = H
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Hesɗitin Ɓeyditte e Jaajol
+    .accesskey = Ɓ
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Waklit Ɓeyditte Fof yoo Kesɗitino e Jaajol
+    .accesskey = W
+extensions-updates-reset-updates-to-manual =
+    .label = Waklit Ɓeyditte Fof yoo Kesɗitino e Junngol
+    .accesskey = W
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-installed =
+    .value = Ɓeyditte maa kesɗitinaama.
+extensions-updates-downloaded =
+    .value = Kesɗitine ɓeyditte maa ngaawtaama.
+extensions-updates-none-found =
+    .value = Alaa kesɗitine njiytaa
+extensions-updates-manual-updates-found =
+    .label = Hollir Kesɗitine Goodaaɗe
