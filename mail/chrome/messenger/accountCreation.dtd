@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Utilizează un cont de mail existent">
+<!ENTITY autoconfigWizard2.title         "Configurează un cont de e-mail existent">
 <!ENTITY name.label                      "Numele tău:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.placeholder                "Prenume Nume">
@@ -11,7 +11,7 @@
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "tu@example.com">
-<!ENTITY email.text                      "Adresa de mail existentă">
+<!ENTITY email.text                      "Adresa de e-mail existentă">
 <!ENTITY password.label                  "Parola:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Parolă">
@@ -20,7 +20,7 @@
 <!ENTITY rememberPassword.accesskey      "M">
 
 <!ENTITY imapLong.label                  "IMAP (dosare la distanță)">
-<!ENTITY pop3Long.label                  "POP3 (stochează mesajele pe calculatorul propriu)">
+<!ENTITY pop3Long.label                  "POP3 (păstrează mesajele pe calculator)">
 
 <!ENTITY incoming.label                  "Primire:">
 <!ENTITY outgoing.label                  "Trimitere:">
@@ -32,7 +32,7 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                       "POP3">
 <!ENTITY smtp.label                      "SMTP">
-<!ENTITY autodetect.label                "Detecție automată">
+<!ENTITY autodetect.label                "Detectează automat">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Fără">

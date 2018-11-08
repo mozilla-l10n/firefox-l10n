@@ -51,7 +51,7 @@
 <!ENTITY saveAsFileCmd.key "S">
 <!ENTITY saveAsTemplateCmd.label "Șablon">
 <!ENTITY saveAsTemplateCmd.accesskey "l">
-<!ENTITY getNewMsgForCmd.label "Adu mesajele noi pentru">
+<!ENTITY getNewMsgForCmd.label "Obține mesajele noi pentru">
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Toate conturile">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
@@ -80,9 +80,9 @@
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd2.label "Setări pentru lucrul offline">
 <!ENTITY settingsOfflineCmd2.accesskey "e">
-<!ENTITY downloadSelectedCmd.label "Adu mesajele selectate">
+<!ENTITY downloadSelectedCmd.label "Obține mesajele selectate">
 <!ENTITY downloadSelectedCmd.accesskey "l">
-<!ENTITY downloadStarredCmd.label "Adu mesajele cu steluță">
+<!ENTITY downloadStarredCmd.label "Obține mesajele cu steluță">
 <!ENTITY downloadStarredCmd.accesskey "A">
 <!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.accesskey "p">
@@ -538,7 +538,7 @@
 <!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton1.label "Adu mesajele">
+<!ENTITY getMsgButton1.label "Obține mesajele">
 <!ENTITY newMsgButton.label "Scrie">
 <!ENTITY replyButton.label "Răspunde">
 <!ENTITY replyAllButton.label "Răspunde tuturor">
@@ -650,7 +650,7 @@
 <!ENTITY folderSizeColumn.label "Dimensiune">
 
 <!-- Folder Pane Context Menu -->
-<!ENTITY folderContextGetMessages.label "Adu mesajele">
+<!ENTITY folderContextGetMessages.label "Obține mesajele">
 <!ENTITY folderContextGetMessages.accesskey "A">
 <!ENTITY folderContextMarkAllFoldersRead.label "Marchează toate dosarele ca fiind citite">
 <!ENTITY folderContextPauseAllUpdates.label "Pune pe pauză toate actualizările">

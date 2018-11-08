@@ -180,7 +180,7 @@
 <!ENTITY listPropsCmd.label "Proprietăți listă…">
 <!ENTITY listPropsCmd.accesskey "l">
 
-<!ENTITY ParagraphSelect.tooltip "Alegeți o formatare pentru paragraf">
+<!ENTITY ParagraphSelect.tooltip "Alege un format pentru paragraf">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Corp text">
 <!ENTITY bodyTextCmd.accesskey "C">
