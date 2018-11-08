@@ -131,7 +131,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchAddressesCmd.accesskey                   "s">
 <!ENTITY importCmd.label                                "Import…">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Exportă…">
+<!ENTITY exportCmd.label                                "Export…">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd2.label                          "Opțiuni">
 <!ENTITY preferencesCmd2.accesskey                      "O">
@@ -242,5 +242,5 @@ because displayed names don't have the comma in between. -->
 <!ENTITY windowMenu.label                               "Fereastră">
 <!ENTITY minimizeWindow.label                           "Minimizează">
 <!ENTITY minimizeWindow.key                             "M">
-<!ENTITY bringAllToFront.label                          "Adu-le pe toate în prim-plan">
+<!ENTITY bringAllToFront.label                          "Adu-le pe toate în față">
 <!ENTITY zoomWindow.label                               "Lupă">
