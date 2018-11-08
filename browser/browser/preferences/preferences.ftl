@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Avertir, sch'ina fanestra cun plirs tabs vegn serrada
     .accesskey = f
+warn-on-quit-close-multiple-tabs =
+    .label = Avertir cun terminar il navigatur sche plirs tabs vegnan serrads
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Avertir, sche { -brand-short-name } vegniss retardà cun avrir plirs tabs
     .accesskey = s
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Actualisar automaticamain maschinas da tschertgar
     .accesskey = t
+update-pref-write-failure-title = Errur cun memorisar
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Errur durant memorisar la preferenza. Impussibel da scriver en la datoteca: { $path }
 
 ## General Section - Performance
 
