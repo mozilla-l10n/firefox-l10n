@@ -135,15 +135,27 @@ extensions-view-available-updates =
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Сви додаци су онемогућени у безбедном начину рада.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Провера усклађености додатака је искључена. Можда имате некомпатибилне додатке.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-label =
+    .value = Безбедносна провера додатака је искључена. Неисправни додаци могу да наруше безбедност система.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Омогући
+    .tooltiptext = Омогући проверавање безбедности додатка
 
 ## Strings connected to add-on updates
 
+extensions-updates-view-updates =
+    .label = Погледај недавна ажурирања
+    .accesskey = н
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -155,6 +167,9 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-manual =
+    .label = Све додатке мануелно надогради
+    .accesskey = м
 
 ## Status messages displayed when updating add-ons
 
