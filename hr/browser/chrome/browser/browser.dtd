@@ -379,6 +379,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Nova sadržajna kartica">
 <!ENTITY newUserContext.accesskey         "d">
+<!ENTITY manageUserContext.label          "Upravljanje spremnicima">
+<!ENTITY manageUserContext.accesskey      "s">
 <!ENTITY newNavigatorCmd.label        "Novi prozor">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -464,6 +466,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Želite li vidjeti vaše kartice s drugih uređaja ovdje?">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Otvori Sync postavke">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavite se da biste vidjeli kartice s vaših ostalih uređaja.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Vaš račun mora biti potvrđen.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se u Sync">
@@ -492,7 +495,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Dodaj više stavki...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
+<!ENTITY customizeMenu.manageExtension.label "Upravljanje dodatkom">
+<!ENTITY customizeMenu.manageExtension.accesskey "e">
 
+<!ENTITY customizeMenu.removeExtension.label "Ukloni dodatak">
+<!ENTITY customizeMenu.removeExtension.accesskey "U">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -821,6 +828,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Sigurnost stranice">
 
+<!ENTITY identity.connection "Veza">
 <!ENTITY identity.connectionSecure "Sigurna veza">
 <!ENTITY identity.connectionNotSecure "Veza nije sigurna">
 <!ENTITY identity.connectionFile "Ova stranica je spremljena na vaše računalo.">
@@ -858,10 +866,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Više informacija">
 
+<!ENTITY identity.clearSiteData "Obriši kolačiće i podatke stranice…">
 
 <!ENTITY identity.permissions "Ovlasti">
 <!ENTITY identity.permissionsEmpty "Ovoj stranici niste dali nikakva posebna dopuštenja.">
 <!ENTITY identity.permissionsReloadHint "Trebali biste ponovno osvježiti stranicu radi primjene izmjena.">
+<!ENTITY identity.permissionsPreferences.tooltip "Otvori postavke dopuštenja">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -1020,20 +1030,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Otkaži">
 
 <!ENTITY trackingProtection.title "Zaštita od praćenja">
+<!ENTITY trackingProtection.tooltip "Otvori postavke zaštite od praćenja">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock4.label "Onemogući blokiranje za ovu stranicu">
+<!ENTITY trackingProtection.unblock4.accesskey "O">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate4.label "Privremeno onemogući blokiranje">
+<!ENTITY trackingProtection.unblockPrivate4.accesskey "o">
+<!ENTITY trackingProtection.block5.label "Omogući blokiranje za ovu stranicu">
+<!ENTITY trackingProtection.block5.accesskey "e">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Isključi blokiranje za ovu stranicu">
+<!ENTITY trackingProtection.unblock5.accesskey "I">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Privremeno isključi blokiranje">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "U">
+<!ENTITY trackingProtection.block6.label "Uključi blokiranje za ovu stranicu">
+<!ENTITY trackingProtection.block6.accesskey "U">
+<!ENTITY trackingProtection.reload2.label "Ponovno učitaj stranicu">
+<!ENTITY trackingProtection.reload2.accesskey "r">
 
 <!ENTITY pluginNotification.showAll.label "Prikaži sve">
 <!ENTITY pluginNotification.showAll.accesskey "s">
@@ -1108,13 +1133,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabControlled.header.message "Vaša nova kartica je promijenjena.">
 <!ENTITY newTabControlled.keepButton.label "Zadrži promjene">
+<!ENTITY newTabControlled.keepButton.accesskey "Z">
+<!ENTITY newTabControlled.disableButton.label "Onemogući dodatak">
+<!ENTITY newTabControlled.disableButton.accesskey "d">
 
+<!ENTITY homepageControlled.message "Dodatak je promijenio što vidite kao svoju početnu stranicu. Ako ne želite ovu promjenu, možete vratiti svoje postavke.">
+<!ENTITY homepageControlled.header.message "Vaša početna stranica je promijenjena.">
+<!ENTITY homepageControlled.keepButton.label "Zadrži promjene">
+<!ENTITY homepageControlled.keepButton.accesskey "Z">
+<!ENTITY homepageControlled.disableButton.label "Onemogući dodatak">
+<!ENTITY homepageControlled.disableButton.accesskey "d">
 
+<!ENTITY tabHideControlled.header.message "Pristupite svojim skrivenim karticama">
+<!ENTITY tabHideControlled.keepButton.label "Drži kartice skrivenim">
+<!ENTITY tabHideControlled.keepButton.accesskey "k">
+<!ENTITY tabHideControlled.disableButton.label "Onemogući dodatak">
+<!ENTITY tabHideControlled.disableButton.accesskey "d">
 
 <!ENTITY pageActionButton.tooltip "Radnje na stranici">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj u adresnu traku">
 <!ENTITY pageAction.removeFromUrlbar.label "Ukloni iz adresne trake">
 <!ENTITY pageAction.allowInUrlbar.label "Prikaži u adresnoj traci">
+<!ENTITY pageAction.disallowInUrlbar.label "Ne prikazuj u adresnoj traci">
 <!ENTITY pageAction.manageExtension.label "Upravljanje dodatkom…">
 
 <!ENTITY pageAction.sendTabToDevice.label "Pošalji karticu na uređaj">
@@ -1122,6 +1162,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Sinkronizacija uređaja…">
 
 <!ENTITY pageAction.shareUrl.label "Dijeli">
+<!ENTITY pageAction.shareMore.label "Više…">
 
 <!ENTITY libraryButton.tooltip "Prikaz povijesti, spremljenih zabilješki i više">
 
@@ -1134,3 +1175,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+<!ENTITY addonPostInstallMessage.label "Upravljajte svojim dodacima klikom na <image class='addon-addon-icon'/> u <image class='addon-toolbar-icon'/> izborniku.">
