@@ -45,5 +45,10 @@ features-performance-desc = Atraskite ir pašalinkite našumo problemas, sustygu
 features-memory-title = Atmintis
 features-memory-desc = Raskite atminties protėkius ir paspartinkite savo programą. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Prenumeratos užklausa nepavyko ({ $errorDescription }).
+newsletter-error-unknown = Įvyko netikėta klaida.
+newsletter-error-timeout = Baigėsi prenumeratos užklausai skirtas laikas.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Sėkmingai įjungėte saityno kūrėjų priemones! Norėdami pradėti, patyrinėkite meniu punktą „Saityno kūrėjams“, arba atverkite įrankius su { $shortcut }.
