@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Warnować, hdyž so wjacore rajtarki začinjeja
     .accesskey = W
+warn-on-quit-close-multiple-tabs =
+    .label = Warnować, hdyž so wjacore rajtarki kónča a začinjeja
+    .accesskey = c
 warn-on-open-many-tabs =
     .label = Warnować, hdyž móhło wočinjenje wjacorych rajtarkow { -brand-short-name } spomalić
     .accesskey = o
@@ -294,6 +297,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Pytawy awtomatisce aktualizować
     .accesskey = k
+update-pref-write-failure-title = Pisanski zmylk
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Nastajenje njeda so składować. Njebě móžno, do dataje pisać: { $path }
 
 ## General Section - Performance
 
