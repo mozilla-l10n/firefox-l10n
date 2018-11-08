@@ -141,7 +141,7 @@
 <!ENTITY viewMenu.accesskey "V">
 <!ENTITY viewToolbarsMenuNew.label "Bare de unelte">
 <!ENTITY viewToolbarsMenuNew.accesskey "t">
-<!ENTITY menubarCmd.label "Bara cu meniul">
+<!ENTITY menubarCmd.label "Bară de meniu">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Bară de redactare">
 <!ENTITY showCompositionToolbarCmd.accesskey "B">

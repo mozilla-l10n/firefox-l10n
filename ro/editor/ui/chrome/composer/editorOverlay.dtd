@@ -283,7 +283,7 @@
 <!ENTITY tableProperties.accesskey "o">
 
 <!-- Toolbar-only items -->
-<!ENTITY menuBar.tooltip "Bara de meniu">
+<!ENTITY menuBar.tooltip "Bară de meniu">
 <!ENTITY formatToolbar.tooltip "Bară de formatare">
 <!ENTITY cutToolbarCmd.tooltip "Decupează">
 <!ENTITY copyToolbarCmd.tooltip "Copiază">
