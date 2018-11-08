@@ -174,6 +174,12 @@ extensions-updates-update-addons-automatically =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Stel alle byvoegings om outomaties by te werk
+    .accesskey = S
+extensions-updates-reset-updates-to-manual =
+    .label = Stel alle byvoegings om handmatig by te werk
+    .accesskey = S
 
 ## Status messages displayed when updating add-ons
 
