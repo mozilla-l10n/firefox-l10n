@@ -130,6 +130,9 @@ legacy-warning-show-legacy = Vis forelda utvidingar
 legacy-extensions =
     .value = Forelda utvidingar
 legacy-extensions-description = Desse utvidingane oppfyller ikkje gjeldande standardar i { -brand-short-name } og er difor slått av. <label data-l10n-name="legacy-learn-more">Les meir om endringar av tillegg</label>
+extensions-view-discover =
+    .name = Last ned tillegg
+    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Nyleg oppdatert
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -139,15 +142,24 @@ extensions-view-available-updates =
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Alle tillegg er avslegne av trygg-modus.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Kompatiblitetskonroll er avslegen. Du har kanskje ikkje-kompatible tillegg.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
 extensions-warning-check-compatibility-enable =
     .label = Slå på
     .tooltiptext = Slå på kompatibilitetskontroll
+extensions-warning-update-security-label =
+    .value = Tryggingskontroll av tilleggsoppdateringar er slått av. Du er sårbar for skadelege oppdateringar.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Slå på
+    .tooltiptext = Slå på tryggingskontroll av tilleggsoppdateringar
 
 ## Strings connected to add-on updates
 
@@ -161,6 +173,9 @@ extensions-updates-view-updates =
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Oppdater tillegga automatisk
+    .accesskey = O
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -168,9 +183,23 @@ extensions-updates-view-updates =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Tilbakestill alle tillegga til å oppdatere automatisk
+    .accesskey = T
+extensions-updates-reset-updates-to-manual =
+    .label = Tilbakestill alle tillegga til å oppdatere manuelt
+    .accesskey = T
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Oppdaterer tillegga
+extensions-updates-installed =
+    .value = Tillegga dine er oppdaterte.
+extensions-updates-downloaded =
+    .value = Oppdateringar for tillegga dine er lasta ned.
+extensions-updates-restart =
+    .label = Start på nytt no for å fullføre installeringa
 extensions-updates-none-found =
     .value = Fann ingen oppdateringar
 extensions-updates-manual-updates-found =
