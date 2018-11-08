@@ -135,6 +135,12 @@ legacy-warning-show-legacy = Ferâldere útwreidingen toane
 legacy-extensions =
     .value = Ferâldere útwreidingen
 legacy-extensions-description = Dizze útwreidingen foldogge op dit stuit net oan de { -brand-short-name }-standerts binne dêrom de-aktivearre. <label data-l10n-name="legacy-learn-more">Lear mear oer de wizigingen oan add-ons</label>
+extensions-view-recent-updates =
+    .name = Resinte fernijingen
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Beskikbere fernijingen
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
@@ -147,6 +153,9 @@ extensions-warning-update-security-container =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Kontrolearje op fernijingen
+    .accesskey = K
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -163,3 +172,8 @@ extensions-warning-update-security-container =
 
 extensions-updates-restart =
     .label = Werstart no om de ynstallaasje te foltôgjen.
+extensions-updates-none-found =
+    .value = Gjin fernijingen fûn
+extensions-updates-update-selected =
+    .label = Ynstallearje fernijingen
+    .tooltiptext = Ynstallearje beskikbere fernijingen op dize list
