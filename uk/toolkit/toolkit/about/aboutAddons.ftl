@@ -135,3 +135,75 @@ legacy-warning-show-legacy = Показати застарілі розшире�
 legacy-extensions =
     .value = Застарілі розширення
 legacy-extensions-description = Ці розширення не відповідають поточним стандартам { -brand-short-name }, тому вони були вимкнені. <label data-l10n-name="legacy-learn-more">Дізнайтеся про зміни, що стосуються додатків</label>
+extensions-view-discover =
+    .name = Додати ще
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Недавні оновлення
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Доступні оновлення
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = В безпечному режимі всі додатки вимкнено.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Перевірка сумісності додатків вимкнена. У вас можуть бути несумісні додатки.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Увімкнути
+    .tooltiptext = Увімкнути перевірку сумісності додатків
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Перевірити оновлення
+    .accesskey = П
+extensions-updates-view-updates =
+    .label = Показати недавні оновлення
+    .accesskey = н
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Оновлювати додатки автоматично
+    .accesskey = а
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Перемкнути всі додатки на автоматичне оновлення
+    .accesskey = к
+extensions-updates-reset-updates-to-manual =
+    .label = Перемкнути всі додатки на ручне оновлення
+    .accesskey = к
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Оновлення додатків
+extensions-updates-installed =
+    .value = Ваші додатки були оновлені.
+extensions-updates-downloaded =
+    .value = Оновлення до ваших додатків завантажені.
+extensions-updates-restart =
+    .label = Перезапустити зараз, щоб завершити встановлення
+extensions-updates-none-found =
+    .value = Оновлень не знайдено
+extensions-updates-manual-updates-found =
+    .label = Переглянути доступні оновлення
+extensions-updates-update-selected =
+    .label = Встановити оновлення
+    .tooltiptext = Встановити доступні у цьому списку оновлення
