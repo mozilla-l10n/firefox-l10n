@@ -134,3 +134,78 @@ legacy-warning-show-legacy = 顯示傳統擴充套件
 legacy-extensions =
     .value = 傳統擴充套件
 legacy-extensions-description = 這些擴充套件不符合 { -brand-short-name } 目前的標準，已被停用。 <label data-l10n-name="legacy-learn-more">了解附加元件有什麼變動</label>
+extensions-view-discover =
+    .name = 取得元件
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = 最近的更新
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = 可用的更新
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = 所有附加元件於安全模式中都已停用。
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = 已停止檢查附加元件相容性，您可能有不相容的附加元件。
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = 啟用
+    .tooltiptext = 啟用附加元件相容性檢查
+extensions-warning-update-security-label =
+    .value = 已停止檢查附加元件安全性，更新程式可能不安全。
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = 啟用
+    .tooltiptext = 啟用附加元件更新安全檢查
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = 檢查更新
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = 檢視最近的更新
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = 自動更新附加元件
+    .accesskey = a
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = 重設所有附加元件的自動更新設定
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = 將所有附加元件設定成手動更新
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = 正在更新附加元件
+extensions-updates-downloaded =
+    .value = 已下載您的附加元件更新。
+extensions-updates-restart =
+    .label = 立刻重新啟動以完成安裝
+extensions-updates-none-found =
+    .value = 找不到更新
+extensions-updates-manual-updates-found =
+    .label = 檢視可用的更新
+extensions-updates-update-selected =
+    .label = 安裝更新
+    .tooltiptext = 安裝此清單中可用的更新
