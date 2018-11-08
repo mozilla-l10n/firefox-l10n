@@ -126,3 +126,39 @@ legacy-warning-show-legacy = Erweiterungen des alten Add-on-Typs anzeigen
 legacy-extensions =
     .value = Alter Add-on-Typ
 legacy-extensions-description = Diese Erweiterungen erfüllen nicht die aktuellen Standards von { -brand-short-name } und wurden deshalb deaktiviert. <label data-l10n-name="legacy-learn-more">Weitere Informationen über Änderungen bei der Unterstützung von Add-ons für Firefox</label>
+
+## These are global warnings
+
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Add-ons werden aktualisiert
+extensions-updates-installed =
+    .value = Ihre Add-ons wurden aktualisiert.
+extensions-updates-downloaded =
+    .value = Ihre Add-ons wurden heruntergeladen.
+extensions-updates-restart =
+    .label = Jetzt neu starten, um die Installation abzuschließen
+extensions-updates-none-found =
+    .value = Keine Updates gefunden
