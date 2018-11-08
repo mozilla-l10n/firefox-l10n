@@ -135,6 +135,9 @@ legacy-warning-show-legacy = Ferâldere útwreidingen toane
 legacy-extensions =
     .value = Ferâldere útwreidingen
 legacy-extensions-description = Dizze útwreidingen foldogge op dit stuit net oan de { -brand-short-name }-standerts binne dêrom de-aktivearre. <label data-l10n-name="legacy-learn-more">Lear mear oer de wizigingen oan add-ons</label>
+extensions-view-discover =
+    .name = Add-ons krije
+    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Resinte fernijingen
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -146,10 +149,18 @@ extensions-view-available-updates =
 
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Kontrole op kompatibileit foar add-ons is útskeakele. Jo kinne ynkompatibele add-ons hawwe.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Ynskeakelje
+    .tooltiptext = Skeakelje kontrole fan kompatibileit foar add-ons yn
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Ynskeakelje
+    .tooltiptext = Skeakelje feilichheidskontrole foar add-onsfernijingen yn
 
 ## Strings connected to add-on updates
 
@@ -167,9 +178,19 @@ extensions-updates-check-for-updates =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Stel automatysk fernije yn foar alle add-ons
+    .accesskey = S
+extensions-updates-reset-updates-to-manual =
+    .label = Stel hânmjittich fernije yn foar alle add-ons
+    .accesskey = S
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Add-ons oan it bywurkjen
+extensions-updates-installed =
+    .value = Jo add-ons binne bywurke.
 extensions-updates-restart =
     .label = Werstart no om de ynstallaasje te foltôgjen.
 extensions-updates-none-found =
