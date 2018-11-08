@@ -124,22 +124,52 @@ legacy-warning-show-legacy = Прикажи застарени проширув�
 legacy-extensions =
     .value = Застарени проширувања
 legacy-extensions-description = Овие проширувања не се во согласност со сегашните стандарди на { -brand-short-name } па, беа исклучени. <label data-l10n-name="legacy-learn-more">Дознајте повеќе за измените на додатоците</label>
+extensions-view-discover =
+    .name = Земи додатоци
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Скорешни надградби
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Достапни надградби
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Сите додатоци се оневозможени од безбедниот режим.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Проверката за компатибилност на додатоците е оневозможена. Можеби имате некомпатибилни додатоци.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Овозможи
+    .tooltiptext = Овозможи проверување на компатибилноста на додатоците
+extensions-warning-update-security-label =
+    .value = Проверката за безбедност при надградба на додатоци е оневозможена. Надградбите може да Ви наштетат.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Овозможи
+    .tooltiptext = Овозможи проверување на безбедноста при надградба на додаток
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Провери за надградби
+    .accesskey = П
+extensions-updates-view-updates =
+    .label = Прегледај неодамнешни надградби
+    .accesskey = н
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Автоматски надградувај ги додатоците
+    .accesskey = А
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -147,6 +177,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Постави сите додатоци да се надградуваат автоматски
+    .accesskey = с
+extensions-updates-reset-updates-to-manual =
+    .label = Постави сите додатоци да се надградуваат рачно
+    .accesskey = с
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Надградување на додатоци
+extensions-updates-installed =
+    .value = Вашиот додаток е надграден
+extensions-updates-downloaded =
+    .value = Вашите надградби за додатоци се преземени
+extensions-updates-restart =
+    .label = Рестартирајте за да заврши инсталацијата.
+extensions-updates-none-found =
+    .value = Не се пронајдени надградби
+extensions-updates-manual-updates-found =
+    .label = Прегледај достапни надградби
+extensions-updates-update-selected =
+    .label = Инсталирање на надградбите
+    .tooltiptext = Инсталирај ги достапните надградби од оваа листа
