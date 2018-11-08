@@ -154,6 +154,9 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Recercar de mesas a jorn
+    .accesskey = R
 extensions-updates-view-updates =
     .label = Afichar las mesas a jorn recentas
     .accesskey = A
