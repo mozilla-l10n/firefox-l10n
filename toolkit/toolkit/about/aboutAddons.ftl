@@ -175,6 +175,12 @@ extensions-updates-view-updates =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Resetează toate suplimentele să se actualizeze automat
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = Resetează toate suplimentele să se actualizeze manual
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
