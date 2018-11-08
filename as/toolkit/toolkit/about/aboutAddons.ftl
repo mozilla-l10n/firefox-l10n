@@ -104,3 +104,46 @@ detail-rating =
     .value = হাৰাংক
 addon-restart-now =
     .label = এতিয়া পুনৰাম্ভ কৰক
+extensions-view-discover =
+    .name = এড-অনসমূহ প্ৰাপ্ত কৰক
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-available-updates =
+    .name = উপলব্ধ আপডেইটসমূহ
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-installed =
+    .value = আপোনাৰ এড-অনসমূহ আপডেইট কৰা হল।
+extensions-updates-restart =
+    .label = ইনস্টল সম্পূৰ্ণ কৰিবলে পুনৰাম্ভ কৰক
+extensions-updates-none-found =
+    .value = কোনো আপডেইট পোৱা নগল
+extensions-updates-manual-updates-found =
+    .label = উপলব্ধ আপডেইটসমূহ দৰ্শন কৰক
+extensions-updates-update-selected =
+    .label = আপডেইটসমূহ ইনস্টল কৰক
+    .tooltiptext = এই তালিকাত থকা উপলব্ধ আপডেইটসমূহ ইনস্টল কৰক
