@@ -104,3 +104,77 @@ detail-rating =
     .value = Ukala
 addon-restart-now =
     .label = Qala kabusha manje
+extensions-view-discover =
+    .name = Thola okungezwayo
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Ukuvuselela kwamanje
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Ukuvuselela okukona
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Konke okwengezwayo kukhutshaziwe ngesimo sokuvikela.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Ukuhlolwa kokusebenzisana kokungezwayo kukhutshaziwe. Ungaba nokungezwayo okungasebenzisani.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Nika amandla
+    .tooltiptext = Nika amandla ukuhlola okusebenzisanayo kokungezwayo
+extensions-warning-update-security-label =
+    .value = Ukuvikeleka kokuhlola okungeziwe kukhutshaziwe. Unganikwa ukuvuselela.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Nika amandla
+    .tooltiptext = Nika amandla ukuhlola kokuvikeleka kokuvuselela
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Hlola ukuvuselela
+    .accesskey = H
+extensions-updates-view-updates =
+    .label = Binisa ukuvuselela kwamanje
+    .accesskey = B
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Vuselela okwengezwayo ngokuzenzakalela
+    .accesskey = o
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Hlela kabusha konke okwengezwayo ukuze kuvuselele kuzenzakalele
+    .accesskey = H
+extensions-updates-reset-updates-to-manual =
+    .label = Hlela kabusha konke okwengezwayo ukuze kuviselelwe nguwe
+    .accesskey = H
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Ukuvuselela kokwengezwayo
+extensions-updates-installed =
+    .value = Okwengeziwe kwakho kuvuselelwe.
+extensions-updates-downloaded =
+    .value = Ukuvuselelwa kwakho kokwengeziwe kulayishwa kwafakwa.
+extensions-updates-restart =
+    .label = Qala kabusha manje ukuze uqedele ukufakwa
+extensions-updates-none-found =
+    .value = Akukho ukuvuselela okutholakele
+extensions-updates-manual-updates-found =
+    .label = Bonisa ukuvuselela okukhona
