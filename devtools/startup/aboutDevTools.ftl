@@ -18,6 +18,7 @@ newsletter-title = Zpravodaj Mozilly pro vývojáře
 newsletter-message = Nechte si posílat vývojářské novinky, triky a zdroje přímo do vaší schránky.
 newsletter-email-placeholder =
     .placeholder = E-mail
+newsletter-privacy-label = Souhlasím s tím, aby Mozilla zpracovávala mé informace tak, jak je popsáno v <a data-l10n-name="privacy-policy">zásadách ochrany osobních údajů</a>.
 newsletter-subscribe-button = Odebírat
 newsletter-thanks-title = Děkujeme!
 newsletter-thanks-message = Pokud jste dříve nepotvrdili odběr zpravodaje Mozilly, budete tak muset učinit nyní. Podívejte se prosím do vaší e-mailové schránky a případně i nevyžádané pošty, jestli tam není e-mail od nás.
