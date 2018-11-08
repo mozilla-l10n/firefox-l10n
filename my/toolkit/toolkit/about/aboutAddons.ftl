@@ -123,6 +123,9 @@ extensions-view-discover =
 extensions-view-recent-updates =
     .name = လက်ရှိ အသစ်
     .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = ရရှိနိုင်သော အဆင့်မြင်တင်မှု
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
@@ -182,6 +185,8 @@ extensions-updates-installed =
     .value = သင့်၏အက်အွန်အား အဆင့်မြင့်တင်ပြီးပါပြီ
 extensions-updates-downloaded =
     .value = သင်၏ အက်အွန် အဆင့်မြင်တင်မှုအား download ချထားပြီးပါပြီ။
+extensions-updates-restart =
+    .label = တပ်ဆင်ခြင်းပြီးမြောက်သွားအောင် Restart လုပ်လိုက်ပါ
 extensions-updates-none-found =
     .value = အသစ်မတွေ့ပါ
 extensions-updates-manual-updates-found =
