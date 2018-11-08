@@ -1070,6 +1070,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "а">
 <!ENTITY trackingProtection.block5.label "Уключыць блакаванне для гэтага сайта">
 <!ENTITY trackingProtection.block5.accesskey "У">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Адключыць блакаванне на гэтым сайце">
+<!ENTITY trackingProtection.unblock5.accesskey "е">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Часова выключыць блакаванне">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "е">
+<!ENTITY trackingProtection.block6.label "Уключыць блакаванне на гэтым сайце">
+<!ENTITY trackingProtection.block6.accesskey "е">
 <!ENTITY trackingProtection.reload2.label "Абнавіць старонку">
 <!ENTITY trackingProtection.reload2.accesskey "к">
 

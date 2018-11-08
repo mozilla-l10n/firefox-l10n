@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Папярэджваць пры закрыцці некалькіх картак
     .accesskey = ь
+warn-on-quit-close-multiple-tabs =
+    .label = Папярэджваць пры закрыцці некалькіх картак пры выхадзе
+    .accesskey = ь
 warn-on-open-many-tabs =
     .label = Папярэджваць, калі адкрыццё некалькіх картак можа запаволіць { -brand-short-name }
     .accesskey = в
@@ -291,6 +294,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = Аўтаматычна абнаўляць пашукавікі
     .accesskey = а
+update-pref-write-failure-title = Збой запісу
 
 ## General Section - Performance
 
