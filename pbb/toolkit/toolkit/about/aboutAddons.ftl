@@ -116,10 +116,10 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Yaçkawe'sxa's kãajanxisa' ki'h thẽgnximee neyũutxna idx vxisnxisa' { -brand-short-name }.Ewuma'kh.<label data-l10n-name="find-addons">Uyna yu'pthẽhna</label>meeçxa' papẽhyna mjĩsa's ki'h thẽgya'.
 disabled-unsigned-learn-more = Thakwe jiyuya kwesx çxaçxa yatxnxisatx pu'çxjxa phuphwaja's txa dxi'the.
 extensions-view-discover =
-    .name = Ji'phunxi's kãajã'na{ " " }
+    .name = Ji'phunxi's kãajã'na
     .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
-    .name = Ãçxhtewe'sxa's yu'pthẽhna{ " " }
+    .name = Ãçxhtewe'sxa's yu'pthẽhna
     .tooltiptext = { extensions-view-recent-updates.name }
 extensions-view-available-updates =
     .name = Een ji'phsa's yu'pthẽhna
@@ -139,7 +139,7 @@ extensions-warning-check-compatibility-enable =
     .label = Mki'ta
     .tooltiptext = Kẽse'hna we'wen katxhuden ki'h kãajãhna.
 extensions-warning-update-security-label =
-    .value = { " " }Kthegun ãan isa dxi'htepa' pa'yakx kãajãhna ũsa' fxiçxhanxitepa'.Idxa' pa'ya'kx thẽgya' ewune'ga nmeh ũukhũkhsa' napkaçxha' yu'thẽwẽete'.
+    .value = Kthegun ãan isa dxi'htepa' pa'yakx kãajãhna ũsa' fxiçxhanxitepa'.Idxa' pa'ya'kx thẽgya' ewune'ga nmeh ũukhũkhsa' napkaçxha' yu'thẽwẽete'.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 extensions-warning-update-security-enable =
@@ -149,7 +149,7 @@ extensions-warning-update-security-enable =
 ## Strings connected to add-on updates
 
 extensions-updates-check-for-updates =
-    .label = Yu'pthẽwa'ja's pakwen{ " " }
+    .label = Yu'pthẽwa'ja's pakwen
     .accesskey = Y
 extensions-updates-view-updates =
     .label = U'sesatx thehgwa'ja's yu'thẽhna
