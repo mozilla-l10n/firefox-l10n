@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Nastaví vlastnú URL adresu pre aktualizáciu aplikácie.
+policy-BlockAboutAddons = Zablokuje prístup ku správcovi doplnkov (about:addons).
 policy-BlockAboutConfig = Zablokuje prístup na stránku about:config.
 policy-BlockAboutProfiles = Zablokuje prístup na stránku about:profiles.
 policy-BlockAboutSupport = Zablokuje prístup na stránku about:support.
@@ -21,7 +22,16 @@ policy-DisableFirefoxAccounts = Vypne funkcie súvisiace s účtom { -fxaccount-
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Vypne funkciu Firefox Screenshots.
 policy-DisableFirefoxStudies = Zabráni aplikácii { -brand-short-name } spúšťať štúdie.
+policy-DisableForgetButton = Zablokuje prístup ku tlačidlu Zabudnúť
+policy-DisableFormHistory = Vypne ukladanie histórie vyhľadávania a formulárov.
+policy-DisableMasterPasswordCreation = Hodnota true znemožní nastavenie hlavného hesla.
+policy-DisablePocket = Vypne funkciu pre ukladanie stránok do služby Pocket.
+policy-DisablePrivateBrowsing = Zablokuje súkromné prehliadanie
+policy-DisableSecurityBypass = Zabráni používateľovi v obchádzaní niektorých bezpečnostných varovaní.
+policy-DisableSystemAddonUpdate = Zablokuje inštaláciu a aktualizáciu systémových doplnkov prehliadača.
 policy-DisableTelemetry = Vypne telemetriu.
+policy-DisplayBookmarksToolbar = Zobrazí panel záložiek v predvolenom nastavení.
+policy-DisplayMenuBar = Zobrazí hlavnú ponuku v predvolenom nastavení.
 policy-FlashPlugin = Povolí alebo zakáže používanie zásuvného modulu Flash.
 policy-HardwareAcceleration = Ak je nastavená hodnota false, vypne hardvérové urýchľovanie.
 # “lock” means that the user won’t be able to change this setting
