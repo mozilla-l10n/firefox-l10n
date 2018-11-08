@@ -6,6 +6,7 @@ head-title = O razvojnih orodjih
 enable-title = Omogoči razvojna orodja za Firefox
 enable-inspect-element-title = Omogočite Firefoxova razvojna orodja za uporabo pregledovalnika
 enable-inspect-element-message = Preiščite in uredite HTML ter CSS s pregledovalnikom iz razvojnih orodij.
+enable-about-debugging-message = Razvoj in razhroščevanje razširitev, web workerjev, service workerjev in druge programske opreme s Firefoxovimi razvojnimi orodji.
 enable-key-shortcut-message = Uporabili ste bližnjico razvojnih orodij. Če ste to storili ponesreči, lahko zaprete ta zavihek.
 enable-menu-message = Izpopolnite HTML, CSS in JavaScript svoje spletne strani z orodji, kot sta pregledovalnik in razhroščevalnik.
 enable-common-message = Firefoxova razvojna orodja smo privzeto onemogočili, da bi vam dali več nadzora nad brskalnikom.
