@@ -57,6 +57,9 @@ detail-rating =
     .value = ຄະແນນ
 addon-restart-now =
     .label = ເລີ່ມລະບົບໃໝ່ດຽວນີ້
+extensions-view-available-updates =
+    .name = ອັບເດດທີ່ມີຢູ່
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
@@ -71,10 +74,16 @@ extensions-warning-update-security-container =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = ກວດສອບການອັບເດດ
+    .accesskey = C
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = ອັບເດດ Add-ons ໂດຍອັດຕະໂນມັດ
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -85,3 +94,7 @@ extensions-warning-update-security-container =
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = ກຳລັງອັບເດດ add-ons
+extensions-updates-manual-updates-found =
+    .label = ເບິ່ງການອັບເດດທີ່ມີຢູ່
