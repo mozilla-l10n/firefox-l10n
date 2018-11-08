@@ -129,22 +129,52 @@ plugin-deprecation-description = มีบางอย่างขาดหา�
 legacy-warning-show-legacy = แสดงส่วนขยายแบบเก่า
 legacy-extensions =
     .value = ส่วนขยายแบบเก่า
+extensions-view-discover =
+    .name = รับส่วนเสริม
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = การอัปเดตล่าสุด
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = การอัปเดตที่มี
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = ส่วนเสริมทั้งหมดถูกปิดใช้งานโดยโหมดปลอดภัย
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = การตรวจสอบความเข้ากันได้ของส่วนเสริมถูกปิดใช้งาน คุณอาจมีส่วนเสริมที่เข้ากันไม่ได้
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = เปิดใช้งาน
+    .tooltiptext = เปิดใช้งานการตรวจสอบความเข้ากันได้ของส่วนเสริม
+extensions-warning-update-security-label =
+    .value = การตรวจสอบความปลอดภัยของการอัปเดตส่วนเสริมถูกปิดใช้งาน คุณอาจถูกบุกรุกโดยการอัปเดต
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = เปิดใช้งาน
+    .tooltiptext = เปิดใช้งานการตรวจสอบความปลอดภัยของการอัปเดตส่วนเสริม
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = ตรวจสอบการอัปเดต
+    .accesskey = ต
+extensions-updates-view-updates =
+    .label = ดูการอัปเดตล่าสุด
+    .accesskey = ด
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = อัปเดตส่วนเสริมโดยอัตโนมัติ
+    .accesskey = อ
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -152,8 +182,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = กลับค่าเดิมของส่วนเสริมทั้งหมดเป็นอัปเดตโดยอัตโนมัติ
+    .accesskey = ก
+extensions-updates-reset-updates-to-manual =
+    .label = กลับค่าเดิมของส่วนเสริมทั้งหมดเป็นอัปเดตด้วยตนเอง
+    .accesskey = ก
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = กำลังอัปเดตส่วนเสริม
+extensions-updates-installed =
+    .value = อัปเดตส่วนเสริมของคุณแล้ว
+extensions-updates-downloaded =
+    .value = ดาวน์โหลดการอัปเดตสำหรับส่วนเสริมของคุณแล้ว
 extensions-updates-restart =
     .label = เริ่มการทำงานใหม่ตอนนี้เพื่อให้การติดตั้งเสร็จสมบูรณ์
+extensions-updates-none-found =
+    .value = ไม่พบการอัปเดต
+extensions-updates-manual-updates-found =
+    .label = ดูการอัปเดตที่มี
+extensions-updates-update-selected =
+    .label = ติดตั้งการอัปเดต
+    .tooltiptext = ติดตั้งการอัปเดตที่มีในรายการนี้
