@@ -60,6 +60,8 @@ addon-restart-now =
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Add-on ທັງຫມົດໄດ້ຖືກປິດນຳໃຊ້ໂດຍໂຫມດປອດໄພ.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-container =
