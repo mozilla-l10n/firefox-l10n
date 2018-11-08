@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Rhybuddio wrth gau mwy nag un tab
     .accesskey = g
+warn-on-quit-close-multiple-tabs =
+    .label = Eich rhybuddio wrth adael a chau tabiau lluosog
+    .accesskey = E
 warn-on-open-many-tabs =
     .label = Rhybuddio y gall agor mwy nag un tab arafu { -brand-short-name }
     .accesskey = a
@@ -300,6 +303,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Diweddaru peiriannau chwilio yn awtomatig
     .accesskey = p
+update-pref-write-failure-title = Methiant Ysgrifennu
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Methu cadw'r dewisiadau. Methu ysgrifnenu i ffeil: { $path }
 
 ## General Section - Performance
 
