@@ -147,6 +147,9 @@ extensions-warning-update-security-container =
 
 ## Strings connected to add-on updates
 
+extensions-updates-view-updates =
+    .label = הצגת עדכונים אחרונים
+    .accesskey = ה
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
