@@ -130,3 +130,80 @@ legacy-warning-show-legacy = Erakutsi legatu-hedapenak
 legacy-extensions =
     .value = Legatu-hedapenak
 legacy-extensions-description = Hedapen hauek ez dira { -brand-short-name }(r)en gutxieneko kalitatera heltzen eta desaktibatu egin dira. <label data-l10n-name="legacy-learn-more">Gehigarrien aldaketei buruzko argibide gehiago</label>
+extensions-view-discover =
+    .name = Eskuratu gehigarriak
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Azken eguneraketak
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Eguneraketak eskura
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Modu seguruak gehigarri guztiak desgaitu ditu.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Gehigarrien bateragarritasuna egiaztatzea desgaituta dago. Gehigarri bateraezinak izan ditzakezu.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Gaitu
+    .tooltiptext = Gaitu gehigarrien bateragarritasuna egiaztatzea
+extensions-warning-update-security-label =
+    .value = Gehigarrien eguneraketa-segurtasuna egiaztatzea desgaituta dago. Eguneraketek arriskuan jar zaitzakete.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Gaitu
+    .tooltiptext = Gaitu gehigarrien eguneraketa-segurtasuna egiaztatzea
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Bilatu eguneraketak
+    .accesskey = B
+extensions-updates-view-updates =
+    .label = Ikusi azken eguneraketak
+    .accesskey = I
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Eguneratu gehigarriak automatikoki
+    .accesskey = g
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Berrezarri gehigarri guztiak automatikoki egunera daitezen
+    .accesskey = B
+extensions-updates-reset-updates-to-manual =
+    .label = Berrezarri gehigarri guztiak eskuz egunera daitezen
+    .accesskey = B
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Gehigarriak eguneratzen
+extensions-updates-installed =
+    .value = Gehigarriak eguneratu egin dira.
+extensions-updates-downloaded =
+    .value = Gehigarrien eguneraketak deskargatu egin dira.
+extensions-updates-restart =
+    .label = Berrabiarazi orain instalazioa osatzeko
+extensions-updates-none-found =
+    .value = Ez da eguneraketarik aurkitu
+extensions-updates-manual-updates-found =
+    .label = Ikusi eskura dauden eguneraketak
+extensions-updates-update-selected =
+    .label = Instalatu eguneraketak
+    .tooltiptext = Instalatu zerrenda honetan eskura dauden eguneraketak
