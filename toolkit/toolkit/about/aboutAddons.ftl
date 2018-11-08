@@ -121,22 +121,52 @@ legacy-warning-show-legacy = Sýna allar gamlar viðbætur
 legacy-extensions =
     .value = Gamlar viðbætur
 legacy-extensions-description = Þessar viðbætur standast ekki núverandi staðla í { -brand-short-name } þannig að þær hafa verið gerðar óvirkar. <label data-l10n-name="legacy-learn-more">Fræðast um breytingar á viðbótum</label>
+extensions-view-discover =
+    .name = Ná í viðbætur
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Nýlegar uppfærslur
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Fáanlegar uppfærslur
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Allar viðbætur hafa verið gerðar óvirkar vegna öryggishams.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Samhæfnisathugun viðbóta er óvirk. Hugsanlegt er að þú sért með ósamhæfðar viðbætur.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Virkja
+    .tooltiptext = Virkja samhæfnisathugun viðbóta
+extensions-warning-update-security-label =
+    .value = Öryggisuppfærslur fyrir viðbætur eru óvirkar. Þú gætir verið í hættu vegna uppfærslu.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Virkja
+    .tooltiptext = Virkja öryggisuppfærslur fyrir viðbætur
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Leita að uppfærslum
+    .accesskey = L
+extensions-updates-view-updates =
+    .label = Skoða nýlegar uppfærslur
+    .accesskey = S
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Uppfæra viðbætur sjálfvirkt
+    .accesskey = a
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -144,6 +174,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Endurstilla allar viðbætur á sjálfvirka uppfærslu
+    .accesskey = r
+extensions-updates-reset-updates-to-manual =
+    .label = Endurstilla allar viðbætur á handvirka uppfærslu
+    .accesskey = r
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Uppfæri viðbætur
+extensions-updates-installed =
+    .value = Búið er að uppfæra viðbætur.
+extensions-updates-downloaded =
+    .value = Búið er að niðurhala viðbótum.
+extensions-updates-restart =
+    .label = Endurræstu núna til að ljúka uppsetningu
+extensions-updates-none-found =
+    .value = Engar uppfærslur fundust
+extensions-updates-manual-updates-found =
+    .label = Skoða fáanlegar uppfærslur
+extensions-updates-update-selected =
+    .label = Setja inn uppfærslur
+    .tooltiptext = Setja inn allar uppfærslur í þessum lista
