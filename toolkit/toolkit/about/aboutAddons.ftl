@@ -147,8 +147,12 @@ extensions-view-available-updates =
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Todos as extensões foram desabilitadas pelo modo seguro.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = A verificação de compatibilidade está desabilitada. Pode ter complementos incompatíveis.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
 extensions-warning-update-security-label =
@@ -158,6 +162,12 @@ extensions-warning-update-security-container =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Verificar se há atualizações
+    .accesskey = V
+extensions-updates-view-updates =
+    .label = Ver atualizações recentes
+    .accesskey = E
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -181,10 +191,18 @@ extensions-updates-reset-updates-to-manual =
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Atualizando as extensões
+extensions-updates-installed =
+    .value = Suas extensões foram atualizadas.
+extensions-updates-downloaded =
+    .value = As atualizações de suas extensões foram baixadas.
 extensions-updates-restart =
     .label = Reinicie agora para concluir a instalação
 extensions-updates-none-found =
     .value = Nenhuma atualização encontrada
+extensions-updates-manual-updates-found =
+    .label = Ver atualizações disponíveis
 extensions-updates-update-selected =
     .label = Instalar atualizações
     .tooltiptext = Instalar as atualizações disponíveis desta lista
