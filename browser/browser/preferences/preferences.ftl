@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Попереджати при закритті декількох вкладок
     .accesskey = і
+warn-on-quit-close-multiple-tabs =
+    .label = Попереджати при закритті декількох вкладок при виході
+    .accesskey = П
 warn-on-open-many-tabs =
     .label = Попереджати, коли відкриття великої кількості вкладок може сповільнити роботу { -brand-short-name }
     .accesskey = л
@@ -291,6 +294,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Автоматично оновлювати засоби пошуку
     .accesskey = з
+update-pref-write-failure-title = Записати збій
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Не вдалося зберегти налаштування. Неможливо записати в файл: { $path }
 
 ## General Section - Performance
 
