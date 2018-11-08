@@ -8,6 +8,7 @@ enable-inspect-element-title = Enable Firefox Developer Tools to use Inspect Ele
 enable-inspect-element-message = Examine and edit HTML and CSS with the Developer Tools’ Inspector.
 enable-about-debugging-message = Develop and debug WebExtensions, web workers, service workers and more with Firefox Developer Tools.
 enable-key-shortcut-message = You activated a Developer Tools shortcut. If that was a mistake, you can close this Tab.
+enable-menu-message = Perfect your website’s HTML, CSS, and JavaScript with tools like Inspector and Debugger.
 enable-common-message = Firefox Developer Tools are disabled by default to give you more control over your browser.
 enable-learn-more-link = Learn more about Developer Tools
 enable-enable-button = Enable Developer Tools
