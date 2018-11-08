@@ -126,6 +126,12 @@ legacy-warning-show-legacy = Εμφάνιση επεκτάσεων παλαιο�
 legacy-extensions =
     .value = Επεκτάσεις παλαιού τύπου
 legacy-extensions-description = Αυτές οι επεκτάσεις δεν πληρούν τα τρέχοντα κριτήρια του { -brand-short-name }, επομένως έχουν απενεργοποιηθεί. <label data-l10n-name="legacy-learn-more">Μάθετε σχετικά με τις αλλαγές στα πρόσθετα</label>
+extensions-view-recent-updates =
+    .name = Πρόσφατες ενημερώσεις
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Διαθέσιμες ενημερώσεις
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
@@ -153,6 +159,9 @@ extensions-warning-update-security-enable =
 extensions-updates-check-for-updates =
     .label = Έλεγχος για ενημερώσεις
     .accesskey = χ
+extensions-updates-view-updates =
+    .label = Εμφάνιση πρόσφατων ενημερώσεων
+    .accesskey = φ
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -176,3 +185,18 @@ extensions-updates-reset-updates-to-manual =
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Γίνεται ενημέρωση προσθέτων
+extensions-updates-installed =
+    .value = Τα πρόσθετα σας ενημερώθηκαν.
+extensions-updates-downloaded =
+    .value = Έχει ολοκληρωθεί η λήψη των ενημερώσεων των προσθέτων σας.
+extensions-updates-restart =
+    .label = Επανεκκίνηση για να ολοκληρωθεί η εγκατάσταση
+extensions-updates-none-found =
+    .value = Δεν βρέθηκαν ενημερώσεις
+extensions-updates-manual-updates-found =
+    .label = Εμφάνιση διαθέσιμων ενημερώσεων
+extensions-updates-update-selected =
+    .label = Εγκατάσταση ενημερώσεων
+    .tooltiptext = Εγκατάσταση των διαθέσιμων ενημερώσεων σε αυτή τη λίστα
