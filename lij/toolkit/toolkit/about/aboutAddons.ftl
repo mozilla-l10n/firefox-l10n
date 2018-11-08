@@ -129,22 +129,52 @@ legacy-warning-show-legacy = Amia estenscioin legacy
 legacy-extensions =
     .value = Estenscioin Legacy
 legacy-extensions-description = Ste estenscioin no va ben co-i corenti standard de { -brand-short-name } coscì en stæti dizativæ. <label data-l10n-name="legacy-learn-more">Pe saveine de ciù in sci conponenti azonti</label>
+extensions-view-discover =
+    .name = Scarega i Conponenti azonti
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Urtimi agiornamenti
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Agiornamenti disponibili
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Tutti i conponenti azonti son stæti dizabilitæ da o moddo seguo.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = O contròllo de conpatibilitæ di conponenti azonti l'é dizabilita. Ti peu avei di conponenti azonti no conpatibili.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Abilita
+    .tooltiptext = Abilita o contròllo a conpatibilitæ di conponenti azonti
+extensions-warning-update-security-label =
+    .value = O contròllo de seguessa in sci agiornamenti di conponenti azonti o l'é dizabilitou. Te peu capitâ de ese aroinou da i agiornamenti.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Abilita
+    .tooltiptext = Abilita o contròllo de seguessa in sci agiornamenti di conponenti azonti
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Çerca agiornamenti
+    .accesskey = c
+extensions-updates-view-updates =
+    .label = Fanni vedde i urtimi agiornamenti
+    .accesskey = v
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Agiorna i conponenti azonti in aotomatico
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -152,6 +182,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Reinpòsta tutti i conponenti azonti pe agiornali in aotomatico
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = Reinpòsta tutti i conponenti azonti pe agiornali a man
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Agiorno i conponenti azonti
+extensions-updates-installed =
+    .value = I teu conponenti azonti son stæti agiornæ.
+extensions-updates-downloaded =
+    .value = I teu conponenti azonti son stæti descaregæ.
+extensions-updates-restart =
+    .label = Arvi torna oua pe finî l'instalaçion
+extensions-updates-none-found =
+    .value = Nisciun agiornamento trovou
+extensions-updates-manual-updates-found =
+    .label = Fanni vedde i agiornamenti disponibili
+extensions-updates-update-selected =
+    .label = Installa Agiornamento
+    .tooltiptext = Installa i Agiornamenti da lista
