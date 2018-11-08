@@ -5,17 +5,21 @@
 head-title = عن أدوات المطورين
 enable-title = فعّل أدوات فَيَرفُكس للمطورين
 enable-inspect-element-title = فعّل أدوات فَيَرفُكس للمطورين لاستخدام خاصية فحص العناصر
+enable-inspect-element-message = افحص وحرّر HTML و CSS باستخدام مدّقق أدوات المطوّرين.
 enable-about-debugging-message = طوّر ونقّح امتدادات الوِب (WebExtensions) وعمّال الوِب وعمّال الخدمات وغيرها مستخدمًا أدوات فَيَرفُكس للمطوّرين.
 enable-key-shortcut-message = لقد فعّلت أحد اختصارات أدوات المطورين. إن لم ترد ذلك وكان عن طريق الخطأ، فأغلِق هذا اللسان.
+enable-menu-message = يمكنك تحسين ميزات HTML، CSS، وJavaScript لموقعك باستخدام أدوات مثل المدقق ومصحح الأخطاء.
 enable-common-message = أدوات فَيَرفُكس للمطوّرين معطّلة مبدئيًا ذلك لتتحكّم بمتصفّحك أكثر.
 enable-learn-more-link = اطّلع على المزيد عن أدوات المطورين
 enable-enable-button = فعّل أدوات المطورين
 enable-close-button = أغلق هذا اللسان
 welcome-title = مرحبًا في أدوات فَيَرفُكس للمطورين!
+newsletter-title = نشرة موزيلا البريدية للمطوّرين
 newsletter-message = استلم أخبار المطورين والخدع والموارد من صندوق بريدك مباشرة.
 newsletter-email-placeholder =
     .placeholder = البريد الإلكتروني
 newsletter-privacy-label = لا أمانع بأن تستخدم موزيلا معلوماتي كما هو موضح في <a data-l10n-name="privacy-policy">سياسة الخصوصية</a>.
+newsletter-subscribe-button = اشترك
 newsletter-thanks-title = شكرًا!
 newsletter-thanks-message = إن لم يسبق لك تأكيد اشتراكك في إحدى نشرات موزيلا البريدية فقد تحتاج فعل ذلك. رجاءً افحص صندوق الوارد لديك أو مرشّح السخام بحثا عن الرسالة التي أرسلناها.
 footer-title = إصدار فَيَرفٌكس للمطورين
