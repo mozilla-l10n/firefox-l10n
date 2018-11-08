@@ -104,3 +104,80 @@ detail-rating =
     .value = Kadirio
 addon-restart-now =
     .label = Anza upya sasa
+extensions-view-discover =
+    .name = Pata Vifaa vya nyongeza
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Visasaisho vya hivi karibuni
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Visasaisho Vinavyopatikana
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Vifaa vyote vya nyongeza vimelemazwa na hali tumizi ya usalama.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Ukaguzi wa utangamanifu wa kifaa cha nyongeza umelemazwa. Waweza kuwa na vifaa vya nyongeza sitangamanifu.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Wezesha
+    .tooltiptext = Wezesha ukaguzi wa utangamanifu wa kifaa cha nyongeza
+extensions-warning-update-security-label =
+    .value = Ukaguzi wa usalama wa kisasaisho cha vifaa vya nyongeza. Waweza kuwa umeafikiwa na visasaisho.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Wezesha
+    .tooltiptext = Wezesha ukaguzi wa usalama wa visasaisho vya vifaa vya nyongeza
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Kagua Visasaisho
+    .accesskey = K
+extensions-updates-view-updates =
+    .label = Angalia Visasaisho vya Hivi Karibuni
+    .accesskey = A
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Sasaisha Vifaa vya nyongeza Kiotomatiki
+    .accesskey = V
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Weka upya Vifaa vyote va nyongeza Visasaishe Kiotomatiki
+    .accesskey = W
+extensions-updates-reset-updates-to-manual =
+    .label = Weka upya Vifaa vyote vya nyongeza Visasaishe kwa Mikono
+    .accesskey = W
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Kusasaisha vifaa vya nyongeza
+extensions-updates-installed =
+    .value = Vifaa vyako vya nyongeza vimesasaishwa.
+extensions-updates-downloaded =
+    .value = Visasaisho vyako vya vifaa vya nyongeza vimepakuliwa.
+extensions-updates-restart =
+    .label = Anzisha upya sasa kukamilisha usakinisho
+extensions-updates-none-found =
+    .value = Hakuna visasaisho vimepatikana
+extensions-updates-manual-updates-found =
+    .label = Angalia Visasaisho Vinavyopatikana
+extensions-updates-update-selected =
+    .label = Sakinisha Visasaisho
+    .tooltiptext = Sakinisha visasaisho vinavyopatikana katika orodha hii
