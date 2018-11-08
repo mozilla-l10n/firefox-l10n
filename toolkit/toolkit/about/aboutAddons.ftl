@@ -121,3 +121,71 @@ legacy-warning-show-legacy = पुराने हो चुके एक्स
 legacy-extensions =
     .value = पुराने एक्सटेंशन
 legacy-extensions-description = ये एक्सटेंशन मौजूदा { -brand-short-name } मानकों को पूरा नहीं करते, सो उन्हें निष्क्रिय कर दिया गया हैं. <label data-l10n-name="legacy-learn-more">ऐड-ऑन में हुए बदलावों के बारे में जानें</label>
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = सभी सहयुक्तियाँ सुरक्षित विधि के द्वारा निष्क्रिय की गई हैं.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = सहयुक्ति सुसंगतता जाँच निष्क्रिय है. आपके पास असंगत सहयुक्तियाँ हो सकती हैं.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = सक्रिय करें
+    .tooltiptext = सहयुक्ति सुसंगतता जाँच सक्रिय करें
+extensions-warning-update-security-label =
+    .value = सहयुक्ति अद्यतन सुरक्षा जाँच निष्क्रिय है. आपकी सुरक्षा अद्यतन के द्वारा संदिग्ध हो सकती है.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = सक्रिय करें
+    .tooltiptext = सहयुक्ति अद्यतन सुरक्षा जाँच सक्रिय करें
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = अद्यतन की जाँच करें
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = हालिया अद्यतन देखें
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = सहयुक्तियाँ स्वतः अद्यतन करें
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = अद्यतन स्वतः करने के लिए सभी सहयुक्तियाँ फिर सेट करें
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = दस्ती रूप से अद्यतन करने के लिए सभी सहयुक्तियाँ फिर सेट करें
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = सहयुक्तियाँ अद्यतन कर रहा है
+extensions-updates-installed =
+    .value = आपकी सहयुक्तियाँ अद्यतन की जा चुकी हैं.
+extensions-updates-downloaded =
+    .value = आपकी सहयुक्तियाँ अद्यतन डाउनलोड की जा रही हैं.
+extensions-updates-restart =
+    .label = संस्थापन पूरा करने के लिए अब फिर आरंभ करें
+extensions-updates-none-found =
+    .value = कोई अद्यतन नहीं मिला
+extensions-updates-manual-updates-found =
+    .label = उपलब्ध अद्यतन देखें
+extensions-updates-update-selected =
+    .label = अद्यतन संस्थापित करें
+    .tooltiptext = इस सूची में उपलब्ध अद्यतन संस्थापित करें
