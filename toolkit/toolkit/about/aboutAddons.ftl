@@ -166,6 +166,9 @@ extensions-warning-update-security-enable =
 extensions-updates-check-for-updates =
     .label = Güncellemeleri denetle
     .accesskey = G
+extensions-updates-view-updates =
+    .label = En son güncellemelere bak
+    .accesskey = b
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
