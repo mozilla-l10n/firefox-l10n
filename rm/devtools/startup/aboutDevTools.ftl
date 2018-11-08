@@ -45,5 +45,10 @@ features-performance-desc = Debloccar stretgas, simplifitgar process ed optimar 
 features-memory-title = Memoria
 features-memory-desc = Chattar largias en la memoria e meglierar la performanza da tia applicaziun. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = La dumonda dad abunar n'è betg reussida ({ $errorDescription }).
+newsletter-error-unknown = Ina errur nunspetgada è succedida.
+newsletter-error-timeout = La dumonda dad abunar è scrudada.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Ti has activà cun success ils utensils per sviluppaders dal web! Per cumenzar, explorescha il menu dals utensils per sviluppaders u avra ils utensils cun { $shortcut }.
