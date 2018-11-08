@@ -121,3 +121,72 @@ legacy-warning-show-legacy = ਪੁਰਾਣੀਆਂ ਇਕਸਟੈਸ਼ਨਾ�
 legacy-extensions =
     .value = ਪੁਰਾਣੀਆਂ ਇਕਟੈਨਸ਼ਨਾਂ
 legacy-extensions-description = ਇਹ ਇਕਟੈਸ਼ਨਾਂ ਮੌਜੂਦਾ { -brand-short-name } ਸਟੈਂਡਰਡਾਂ ਨੂੰ ਪੂਰਾ ਨਹੀਂ ਕਰਦੀਆਂ ਹਨ ਇਸਕਰਕੇ ਇਹਨਾਂ ਨੂੰ ਨਾ-ਸਰਗਰਮ ਕੀਤਾ ਗਿਆ ਹੈ। <label data-l10n-name="legacy-learn-more">ਐਡ-ਆਨ 'ਚ ਤਬਦੀਲੀਆਂ ਬਾਰੇ ਜਾਣੋ</label>
+extensions-view-discover =
+    .name = ਐਡ-ਆਨ ਲਵੋ
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = ਤਾਜ਼ਾ ਅੱਪਡੇਟ
+    .tooltiptext = { extensions-view-recent-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ ਗ਼ੈਰ-ਅਨੁਕੂਲ ਐਡ-ਆਨ ਹੋ ਸਕਦੀਆਂ ਹਨ।
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-label =
+    .value = ਐਡ-ਆਨ ਅੱਪਡੇਟ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਰਾਹੀਂ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = ਚਾਲੂ
+    .tooltiptext = ਐਡ-ਆਨ ਉੱਤੇ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = ਤਾਜ਼ਾ ਅੱਪਡੇਟ ਵੇਖੋ
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = ਐਡ-ਆਨ ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ ਕਰੋ
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = ਸਭ ਐਡ-ਆਨ ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = ਸਭ ਐਡ-ਆਨ ਖੁਦ ਅੱਪਡੇਟ ਕਰਨ ਕਰਨ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ
+extensions-updates-installed =
+    .value = ਤੁਹਾਡੀ ਐਡ-ਆਨ ਅੱਪਡੇਟ ਕੀਤੀ ਜਾ ਚੁੱਕੀ ਹੈ।
+extensions-updates-downloaded =
+    .value = ਤੁਹਾਡੇ ਐਡ-ਆਨ ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤੇ ਜਾ ਚੁੱਕੇ ਹਨ।
+extensions-updates-restart =
+    .label = ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਕਰਨ ਲਈ ਹੁਣੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+extensions-updates-none-found =
+    .value = ਕੋਈ ਅੱਪਡੇਟ ਨਹੀਂ ਮਿਲਿਆ
+extensions-updates-manual-updates-found =
+    .label = ਉਪਲੱਬਧ ਅੱਪਡੇਟ ਵੇਖੋ
+extensions-updates-update-selected =
+    .label = ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ
+    .tooltiptext = ਇਸ ਲਿਸਟ ਵਿੱਚ ਉਪਲੱਬਧ ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰੋ
