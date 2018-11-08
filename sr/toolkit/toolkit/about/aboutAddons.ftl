@@ -126,6 +126,9 @@ legacy-warning-show-legacy = Прикажи застареле екстензи�
 legacy-extensions =
     .value = Застареле екстензије
 legacy-extensions-description = Ове екстензије не подржавају тренутни { -brand-short-name } стандард тако да су онемогућене. <label data-l10n-name="legacy-learn-more">Сазнајте више о променама додатака</label>
+extensions-view-discover =
+    .name = Додаци
+    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Недавна ажурирања
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -143,6 +146,9 @@ extensions-warning-check-compatibility-label =
     .value = Провера усклађености додатака је искључена. Можда имате некомпатибилне додатке.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Укључи
+    .tooltiptext = Омогући проверавање компатибилности додатка
 extensions-warning-update-security-label =
     .value = Безбедносна провера додатака је искључена. Неисправни додаци могу да наруше безбедност система.
 extensions-warning-update-security-container =
@@ -153,6 +159,9 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Провери да ли постоје ажурирања
+    .accesskey = П
 extensions-updates-view-updates =
     .label = Погледај недавна ажурирања
     .accesskey = н
@@ -160,6 +169,9 @@ extensions-updates-view-updates =
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Аутоматски ажурирај додатке
+    .accesskey = А
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -167,13 +179,27 @@ extensions-updates-view-updates =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Све додатке аутоматски ажурирај
+    .accesskey = С
 extensions-updates-reset-updates-to-manual =
     .label = Све додатке мануелно надогради
     .accesskey = м
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Ажурирам додатке
+extensions-updates-installed =
+    .value = Ваши додаци су ажурирани.
 extensions-updates-downloaded =
     .value = Ваши додаци су преузети.
 extensions-updates-restart =
     .label = Поново покрените да бисте довршили инсталацију
+extensions-updates-none-found =
+    .value = Нема ажурирања
+extensions-updates-manual-updates-found =
+    .label = Погледај доступна ажурирања
+extensions-updates-update-selected =
+    .label = Инсталирај ажурирања
+    .tooltiptext = Инсталирајте доступна ажурирања са овог списка
