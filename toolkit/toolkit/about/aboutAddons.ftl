@@ -126,6 +126,9 @@ legacy-warning-show-legacy = Erweiterungen des alten Add-on-Typs anzeigen
 legacy-extensions =
     .value = Alter Add-on-Typ
 legacy-extensions-description = Diese Erweiterungen erfüllen nicht die aktuellen Standards von { -brand-short-name } und wurden deshalb deaktiviert. <label data-l10n-name="legacy-learn-more">Weitere Informationen über Änderungen bei der Unterstützung von Add-ons für Firefox</label>
+extensions-view-discover =
+    .name = Add-ons entdecken
+    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Zuletzt durchgeführte Updates
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -135,6 +138,8 @@ extensions-view-available-updates =
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Alle Add-ons wurden durch den Abgesicherten Modus deaktiviert.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-label =
