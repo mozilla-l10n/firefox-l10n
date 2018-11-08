@@ -83,7 +83,7 @@
 <!ENTITY deleteCmd.accesskey "t">
 <!ENTITY editRewrapCmd.label "Înfășoară rândurile">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY renameAttachmentCmd.label "Redenumire atașament…">
+<!ENTITY renameAttachmentCmd.label "Redenumește un atașament…">
 <!ENTITY renameAttachmentCmd.accesskey "R">
 <!ENTITY reorderAttachmentsCmd.label "Rearanjează atașamentele…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">

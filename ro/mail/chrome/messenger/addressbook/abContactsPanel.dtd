@@ -41,7 +41,7 @@
 <!ENTITY newListAbContext.label             "Listă nouă">
 <!ENTITY newListAbContext.accesskey         "L">
 
-<!ENTITY toButton.label                     "Adaugă la To:">
+<!ENTITY toButton.label                     "Adaugă la Către:">
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "Adaugă la Cc:">
 <!ENTITY ccButton.accesskey                 "C">

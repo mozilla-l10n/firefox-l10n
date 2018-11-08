@@ -40,7 +40,7 @@
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertMathCmd.label "Matematic…">
+<!ENTITY insertMathCmd.label "Formulă matematică…">
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Caractere și simboluri…">
 <!ENTITY insertCharsCmd.accesskey "C">
@@ -180,7 +180,7 @@
 <!ENTITY listPropsCmd.label "Proprietăți listă…">
 <!ENTITY listPropsCmd.accesskey "l">
 
-<!ENTITY ParagraphSelect.tooltip "Alege un format pentru paragraf">
+<!ENTITY ParagraphSelect.tooltip "Alege o formatare pentru paragraf">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Corp text">
 <!ENTITY bodyTextCmd.accesskey "C">
@@ -310,7 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Alege culoarea de evidențiere pentru text">
 
 <!-- Editor toolbar -->
-<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Stabilire mărime font">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Setează mărimea fontului">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Font mai mic">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Font mai mare">
 <!ENTITY boldToolbarCmd.tooltip "Aldin">
