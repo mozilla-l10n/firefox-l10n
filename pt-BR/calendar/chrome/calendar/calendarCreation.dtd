@@ -47,5 +47,5 @@
 <!ENTITY network.notfound.description "Não foi possível encontrar agendas neste local. Verifique suas configurações.">
 <!ENTITY network.authfail.description "As credenciais que você inseriu não foram aceitas. Verifique suas configurações.">
 
-<!ENTITY network.subscribe.single.description "Selecione os calendários que você gostaria de inscrever-se.">
-<!ENTITY network.subscribe.multiple.description "Múltiplos tipos de calendários estão disponíveis neste endereço. Selecione o tipo e depois marque os calendários que você gostaria de inscrever-se.">
+<!ENTITY network.subscribe.single.description "Selecione as agendas que deseja se inscrever.">
+<!ENTITY network.subscribe.multiple.description "Vários tipos de agenda estão disponíveis neste local. Selecione um tipo, depois marque as agendas que deseja se inscrever.">
