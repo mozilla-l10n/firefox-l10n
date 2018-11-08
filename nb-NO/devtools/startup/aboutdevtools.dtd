@@ -38,11 +38,6 @@
 <!ENTITY  aboutDevtools.enable.keyShortcutMessage
           "You activated a Developer Tools shortcut. If that was a mistake, you can close this Tab.">
 
-<!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage): Message displayed when users
-  -  clicked on a "Enable Developer Tools" menu item. -->
-<!ENTITY  aboutDevtools.enable.menuMessage
-          "Examine, edit and debug HTML, CSS, and JavaScript with tools like Inspector and Debugger.">
-
 <!-- LOCALIZATION NOTE (aboutDevtools.enable.menuMessage2): Message displayed when users
   -  clicked on a "Enable Developer Tools" menu item. -->
 <!ENTITY  aboutDevtools.enable.menuMessage2
@@ -59,8 +54,6 @@
 <!ENTITY  aboutDevtools.enable.learnMoreLink "Learn more about Developer Tools">
 
 <!ENTITY  aboutDevtools.enable.enableButton "Enable Developer Tools">
-<!ENTITY  aboutDevtools.enable.closeButton "Close this page">
-
 <!ENTITY  aboutDevtools.enable.closeButton2 "Close this Tab">
 
 <!ENTITY  aboutDevtools.welcome.title "Welcome to Firefox Developer Tools!">
@@ -72,7 +65,6 @@
 <!ENTITY  aboutDevtools.newsletter.message "Get developer news, tricks and resources sent straight to your inbox.">
 <!ENTITY  aboutDevtools.newsletter.email.placeholder "Email">
 <!ENTITY  aboutDevtools.newsletter.privacy.label "I’m okay with Mozilla handling my info as explained in this <a class='external' href='https://www.mozilla.org/privacy/'>Privacy Policy</a>.">
-<!ENTITY  aboutDevtools.newsletter.subscribeButton "">
 <!ENTITY  aboutDevtools.newsletter.thanks.title "Thanks!">
 <!ENTITY  aboutDevtools.newsletter.thanks.message "If you haven’t previously confirmed a subscription to a Mozilla-related newsletter you may have to do so. Please check your inbox or your spam filter for an email from us.">
 
