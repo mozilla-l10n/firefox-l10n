@@ -104,3 +104,60 @@ detail-rating =
     .value = ମୂଲ୍ୟାଙ୍କନ
 addon-restart-now =
     .label = ବର୍ତ୍ତମାନ ପୁନଃଚାଳନ କରନ୍ତୁ
+extensions-view-discover =
+    .name = ଏଡ-ଅନଗୁଡ଼ିକୁ ଗ୍ରହଣ କରନ୍ତୁ
+    .tooltiptext = { extensions-view-discover.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = ସମସ୍ତ ଏଡ-ଅନଗୁଡ଼ିକୁ ସୁରକ୍ଷିତ ଭାବରେ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି।
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = ଏଡ-ଅନ ସୁସଙ୍ଗତତା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି। ଆପଣଙ୍କ ପାଖରେ ହୁଏତଃ ଅସଙ୍ଗତ ଏଡ-ଅନ ଅଛି।
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = ସକ୍ରିୟ
+    .tooltiptext = ଏଡ-ଅନ ସୁସଙ୍ଗତତା ଯାଞ୍ଚକୁ ସକ୍ରିୟ କରନ୍ତୁ
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଅଦ୍ୟତନ କରିବା ପାଇଁ ସମସ୍ତ ଏଡ-ଅନଗୁଡ଼ିକୁ  ପୁନଃସ୍ଥାପନ କରନ୍ତୁ
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = ହସ୍ତକୃତ ଭାବରେ ଅଦ୍ୟତନ କରିବା ପାଇଁ ସମସ୍ତ ଏଡ-ଅନଗୁଡ଼ିକୁ  ପୁନଃସ୍ଥାପନ କରନ୍ତୁ
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = ଏଡ-ଅନଗୁଡ଼ିକୁ ଅଦ୍ୟତନ କରୁଅଛି
+extensions-updates-installed =
+    .value = ଆପଣଙ୍କର ଏଡ-ଅନଗୁଡ଼ିକ ଅଦ୍ୟତିତ ହୋଇଛି।
+extensions-updates-downloaded =
+    .value = ଆପଣଙ୍କର ଏଡ-ଅନ ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଆହରଣ କରାଯାଇଛି।
+extensions-updates-restart =
+    .label = ସ୍ଥାପନ କ୍ରିୟାକୁ ସମ୍ପୂର୍ଣ୍ଣ କରିବା ପାଇଁ ବର୍ତ୍ତମାନ ପୁନଃଚାଳନ କରନ୍ତୁ
+extensions-updates-none-found =
+    .value = କୌଣସି ଅଦ୍ୟତନ ମିଳିଲା ନାହିଁ
+extensions-updates-manual-updates-found =
+    .label = ଉପଲବ୍ଧ ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ
+extensions-updates-update-selected =
+    .label = ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ
+    .tooltiptext = ଏହି ତାଲିକାରେ ଉପଲବ୍ଧ ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ
