@@ -130,3 +130,80 @@ legacy-warning-show-legacy = Shfaq zgjerime të dikurshme
 legacy-extensions =
     .value = Zgjerime të Dikurshme
 legacy-extensions-description = Këto zgjerime nuk i plotësojnë standardet e tanishme të { -brand-short-name }-it, ndaj janë çaktivizuar. <label data-l10n-name="legacy-learn-more">Mësoni mbi ndryshimet te shtesat</label>
+extensions-view-discover =
+    .name = Merrni Shtesa
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Përditësime Së Fundi
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Përditësime të Passhme
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Mënyra e Parrezik ka çaktivizuar krejt shtesat.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Kontrolli i përputhshmërisë së shtesave është i çaktivizuar. Keni shtesa të papërputhshme.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Aktivizoje
+    .tooltiptext = Aktivizoni kontrollin e përputhshmërisë së shtesave
+extensions-warning-update-security-label =
+    .value = Kontrolli i përditësimit të shtesave është i çaktivizuar. Përditësimet mund t'ju hapin punë.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Aktivizoje
+    .tooltiptext = Aktivizoni kontrollin e përditësimit të shtesave
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Kontrollo për Përditësime
+    .accesskey = K
+extensions-updates-view-updates =
+    .label = Shihni Përditësimet e Fundit
+    .accesskey = S
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Përditësoji Shtesat Vetvetiu
+    .accesskey = P
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Bëji Krejt Shtesat të Përditësohen Vetvetiu
+    .accesskey = V
+extensions-updates-reset-updates-to-manual =
+    .label = Bëji Krejt Shtesat të Përditësohen Dorazi
+    .accesskey = D
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Shtesat po përditësohen
+extensions-updates-installed =
+    .value = Shtesat tuaja u përditësuan.
+extensions-updates-downloaded =
+    .value = Përditësimet për shtesat tuaja u shkarkuan.
+extensions-updates-restart =
+    .label = Që të plotësohet instalimi, riniseni tani
+extensions-updates-none-found =
+    .value = Nuk u gjetën përditësime
+extensions-updates-manual-updates-found =
+    .label = Shihni Përditësimet e Gatshme
+extensions-updates-update-selected =
+    .label = Nuk u gjetën përditësime
+    .tooltiptext = Instaloni përditësimet e mundshme prej kësaj liste
