@@ -28,3 +28,4 @@ features-responsive-title = Mode de disseny responsiu
 features-visual-editing-title = Edició visual
 features-performance-title = Rendiment
 features-memory-title = Memòria
+newsletter-error-unknown = S'ha produït un error inesperat.
