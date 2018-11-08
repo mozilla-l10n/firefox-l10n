@@ -93,6 +93,10 @@
 <!ENTITY bookmarksToolbarItem.label "Elementy paska zakładek" >
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Odśwież wszystkie karty">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "O">
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Odśwież kartę">
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "O">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Odśwież zaznaczone karty">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "O">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Dodaj zakładkę do karty…">
 <!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "D">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Dodaj zakładki do wszystkich kart…">
