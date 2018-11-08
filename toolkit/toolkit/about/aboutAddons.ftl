@@ -121,3 +121,72 @@ legacy-warning-show-legacy = மரபு நீட்சிகளைக் க�
 legacy-extensions =
     .value = மரபு நீட்சிகள்
 legacy-extensions-description = தற்போதைய { -brand-short-name } தரத்துடன் இல்லாததால் இந்த நீட்சிகள் முடக்கி வைக்கப்படும். <label data-l10n-name="legacy-learn-more">துணை நிரல்களுக்கான மாற்றங்களை அறியுங்கள்</label>
+extensions-view-recent-updates =
+    .name = சமீபத்திய புதுப்பித்தல்கள்
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = இருக்கும் புதுப்பித்தல்கள்
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = பாதுகாப்பு முறைமையால் அனைத்து கூடுதல் இணைப்புகளும் செயல்நீக்கப்பட்டன.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = கூடுதல் இணைப்பு ஒத்தியல்பு சரிபார்த்தல் செயல்நீக்கப்பட்டுள்ளது. நீங்கள் ஒத்தியல்பில்லாத கூடுதல் இணைப்புகளை கொண்டிருக்கலாம்.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = செயல்படுத்து
+    .tooltiptext = கூடுதல் இணைப்பு ஒத்தியல்பு சரிபார்த்தலை செயல்படுத்து
+extensions-warning-update-security-label =
+    .value = கூடுதல் இணைப்பு புதுப்பித்தல் பாதுகாப்பு சரிபார்த்தல் செயல்நீக்கப்பட்டுள்ளது.நீங்கள் புதுப்பித்தல்களால் திருப்தியடையலாம்.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = செயல்படுத்து
+    .tooltiptext = கூடுதல் இணைப்பு மேம்படுத்தல் பாதுகாப்பு சரிபார்த்தலை செயல்படுத்து
+
+## Strings connected to add-on updates
+
+extensions-updates-view-updates =
+    .label = சமீபத்திய மேம்படுத்தல்களை பார்
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = கூடுதல் இணைப்புகளை தானாக புதுப்பி
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = தானாக புதுப்பிக்க அனைத்து கூடுதல் இணைப்புகளையும் மறுஅமை
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = கைமுறையாக புதுப்பிக்க அனைத்து கூடுதல் இணைப்புகளையும் மறுஅமை
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = கூடுதல் இணைப்புகளை புதுப்பிக்கிறது
+extensions-updates-downloaded =
+    .value = உங்கள் கூடுதல் இணைப்பு பதிவிறக்கப்பட்டன.
+extensions-updates-restart =
+    .label = நிறுவலை முடிக்க மறுதுவக்கவும்
+extensions-updates-none-found =
+    .value = புதுப்பித்தல்கள் எதுவும் காணப்படவில்லை
+extensions-updates-manual-updates-found =
+    .label = இருக்கும் புதுப்பித்தல்களை பார்
+extensions-updates-update-selected =
+    .label = புதுப்பித்தல்களை நிறுவு
+    .tooltiptext = இந்த பட்டியலில் இருக்கும் புதுப்பித்தல்களை நிறுவவும்
