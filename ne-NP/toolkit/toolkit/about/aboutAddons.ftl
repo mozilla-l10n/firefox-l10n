@@ -124,3 +124,80 @@ legacy-warning-show-legacy = बिरासत एक्सटेन्सन�
 legacy-extensions =
     .value = बिरासत एक्सटेन्सनहरू
 legacy-extensions-description = यी एक्सटेन्सनहरूले { -brand-short-name } को हालको मानकहरू पुरा गर्दैनन् त्यसैले तिनीहरु निष्क्रिय गरिएका छन् । <label data-l10n-name="legacy-learn-more">एड-अनहरू मा भएको परिवर्तनहरू बारे जान्नुहोस्</label>
+extensions-view-discover =
+    .name = एड-अनहरू प्राप्त गर्नुहोस्
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = हालका अद्यावधिकहरू
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = उपलब्ध अद्यावधिहरू
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = सबै एडअनहरू सुरक्षित मोडद्वारा असक्षम गरिएको छ।
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = एडअन अनुकूलता जाँच अक्षम पारिएको छ। तपाईँसँग अमिल्दो एडअनहरू हुन सक्छन्।
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = सक्षम पार्नुहोस्
+    .tooltiptext = एडअन समर्थन जाँच सक्षम पार्नुहोस्
+extensions-warning-update-security-label =
+    .value = एडअनमा अद्यावधिक सुरक्षा जाँच असक्षम छ। तपाईँ अद्यावधिकसँग सम्झौता गरिरहनुभएको छ।
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = सक्षम पार्नुहोस्
+    .tooltiptext = एड-अन अद्यावधिक सुरक्षा जाँच सक्षम पार्नुहोस्
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = अद्यावधिकहरूका लागि जाँच गर्नुहोस्
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = हालका अद्यावधिहरू हेर्नुहोस्
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = सबै एड-अनहरू स्वतः अद्यावधि गर्नुहोस्
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = सबै एड-अनहरू स्वतः अद्यावधि हुन पूर्व निर्धारित गर्नुहोस्
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = सबै एड-अनहरू चाहेको बेला अद्यावधि हुन पूर्व निर्धारित गर्नुहोस्
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = एड-अनहरू अद्यावधि गर्दै
+extensions-updates-installed =
+    .value = तपाईँका एड-अनहरू अद्यावधि गरिएका छन् ।
+extensions-updates-downloaded =
+    .value = तपाईँका एड-अन अद्यावधिहरू डाउनलोड गरिएका छन् ।
+extensions-updates-restart =
+    .label = स्थापना सकिए पछि पुनः सुरु गर्नुहोस्
+extensions-updates-none-found =
+    .value = कुनै अद्यावधि फेला परेन
+extensions-updates-manual-updates-found =
+    .label = उपलब्ध अद्यावधिहरू हेर्नुहोस्
+extensions-updates-update-selected =
+    .label = अद्यावधिहरू स्थापना गर्नुहोस्
+    .tooltiptext = यो सूचीमा रहेका सबै अद्यावधीहरू स्थापना गर्नुहोस्
