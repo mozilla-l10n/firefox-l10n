@@ -134,22 +134,52 @@ legacy-warning-show-legacy = Prikaži zastarele razširitve
 legacy-extensions =
     .value = Zastarele razširitve
 legacy-extensions-description = Te razširitve ne ustrezajo trenutnim standardom { -brand-short-name }a, zato so bile onemogočene. <label data-l10n-name="legacy-learn-more">Več o spremembah dodatkov</label>
+extensions-view-discover =
+    .name = Prenesi dodatke
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Nedavne posodobitve
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Nove posodobitve
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Zaradi dela v varnem načinu so vsi dodatki onemogočeni.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Preverjanje združljivosti dodatkov je onemogočeno. Mogoče imate nameščene dodatke, ki niso združljivi.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Omogoči
+    .tooltiptext = Omogoči preverjanje združljivosti dodatkov
+extensions-warning-update-security-label =
+    .value = Preverjanje, ali je posodobitev dodatkov varna, je onemogočeno. Posodobitve lahko ogrozijo vaš sistem.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Omogoči
+    .tooltiptext = Omogoči preverjanje, ali je posodobitev dodatka varna
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Poišči posodobitve
+    .accesskey = P
+extensions-updates-view-updates =
+    .label = Pokaži nedavne posodobitve
+    .accesskey = n
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Samodejno posodobi dodatke
+    .accesskey = d
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -157,6 +187,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Ponastavi vse dodatke na samodejno posodabljanje
+    .accesskey = S
+extensions-updates-reset-updates-to-manual =
+    .label = Ponastavi vse dodatke na ročno posodabljanje
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Posodabljanje dodatkov
+extensions-updates-installed =
+    .value = Vaši dodatki so posodobljeni.
+extensions-updates-downloaded =
+    .value = Posodobitve vaših dodatkov so prenesene.
+extensions-updates-restart =
+    .label = Za dokončanje namestitve ponovno zaženite brskalnik.
+extensions-updates-none-found =
+    .value = Ni novih posodobitev
+extensions-updates-manual-updates-found =
+    .label = Preglej vse posodobitve
+extensions-updates-update-selected =
+    .label = Namesti posodobitve
+    .tooltiptext = Namesti posodobitve, ki so na voljo v seznamu
