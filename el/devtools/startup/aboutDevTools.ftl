@@ -2,8 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+enable-close-button = Κλείσιμο της Καρτέλας
 newsletter-email-placeholder =
     .placeholder = E-mail
+newsletter-subscribe-button = Εγγραφή
+newsletter-thanks-title = Ευχαριστούμε!
+footer-learn-more-link = Μάθετε περισσότερα
 features-network-title = Δίκτυο
 features-storage-title = Αποθήκευση
 features-performance-title = Επιδόσεις
