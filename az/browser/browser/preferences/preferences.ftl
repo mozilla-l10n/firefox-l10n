@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Birdən çox vərəq bağlarkən xəbərdar olun
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Birdən çox vərəq qapatarkən və çıxarkən xəbərdar olun
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Çoxlu vərəq açmağın { -brand-short-name } səyyahını yavaşlada biləcəyindən xəbərdar olun
     .accesskey = d
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Axtarış mühərriklərini avtomatik yenilə
     .accesskey = e
+update-pref-write-failure-title = Yazma Xətası
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Nizamlamalar saxlana bilmir. Bu fayla yazmaq mümkün deyil: { $path }
 
 ## General Section - Performance
 
