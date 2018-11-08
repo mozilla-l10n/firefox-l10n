@@ -4,7 +4,7 @@
 
 <!ENTITY window.title "Bine ați venit la &brandShortName;">
 <!ENTITY header2.label "Doriți o adresă de e-mail nouă?">
-<!ENTITY other.languages "Afișăm doar furnizorii care oferă adrese în zona dumneavoastră. Clic aici pentru toți furnizorii.">
+<!ENTITY other.languages "Afișăm doar furnizorii care oferă adrese în zona ta. Clic aici pentru a afișa toți furnizorii.">
 <!ENTITY error.line1 "Ne pare rău, nu am putut găsi nicio sugestie de adresă de e-mail.">
 <!ENTITY error.line2 "Puteți căuta și pseudonime sau orice alt termen pentru a găsi mai multe e-mailuri.">
 
