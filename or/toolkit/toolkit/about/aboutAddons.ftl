@@ -107,6 +107,12 @@ addon-restart-now =
 extensions-view-discover =
     .name = ଏଡ-ଅନଗୁଡ଼ିକୁ ଗ୍ରହଣ କରନ୍ତୁ
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = ନିକଟର ଅପଡେଟଗୁଡ଼ିକ
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = ଉପଲବ୍ଧ ଅପଡେଟଗୁଡ଼ିକ
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
@@ -121,15 +127,29 @@ extensions-warning-check-compatibility-container =
 extensions-warning-check-compatibility-enable =
     .label = ସକ୍ରିୟ
     .tooltiptext = ଏଡ-ଅନ ସୁସଙ୍ଗତତା ଯାଞ୍ଚକୁ ସକ୍ରିୟ କରନ୍ତୁ
+extensions-warning-update-security-label =
+    .value = ଆଡ଼-ଅନ ଅପଡେଟ ସୁରକ୍ଷା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି । ଆପଣ ହୁଏତ ଅପଡେଟଗୁଡ଼ିକ ସହିତ ବୁଝାମଣା କରିଛନ୍ତି ।
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = ସକ୍ରିୟ
+    .tooltiptext = ଆଡ଼-ଅନ ଅପଡେଟ ସୁରକ୍ଷା ଯାଞ୍ଚକୁ ସକ୍ରିୟ କରନ୍ତୁ
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = ଅପଡେଟଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚକରନ୍ତୁ
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = ନିକଟର ଅପଡେଟଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = ସ୍ୱୟଂଚାଳିତ ଭାବେ ଅଡ଼-ଅନଗୁଡ଼ିକୁ ଅପଡେଟ କରନ୍ତୁ
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
