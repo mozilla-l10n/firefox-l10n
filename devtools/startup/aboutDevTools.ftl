@@ -45,5 +45,10 @@ features-performance-desc = Wotstrońce blešowe šije, starajće so wo prudojte
 features-memory-title = Skład
 features-memory-desc = Namakajće składowe dźěry, zo by waše nałoženje hładce běžało. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Požadanje wo abonement je so nimokuliło ({ $errorDescription }).
+newsletter-error-unknown = Njewočakowany zmylk je wustupił.
+newsletter-error-timeout = Požadanje wo abonement je čas překročiło.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Sće wuwiwarske nastroje wuspěšnje zmóžnił! Zo byšće započał, přehladujće meni Webwuwiwar abo wočińće nastroje z pomocu tastoweje skrótšenki { $shortcut }.
