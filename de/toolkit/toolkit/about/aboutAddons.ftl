@@ -149,6 +149,8 @@ extensions-warning-check-compatibility-container =
 extensions-warning-check-compatibility-enable =
     .label = Aktivieren
     .tooltiptext = Addon-Kompatibilitäts-Prüfung aktivieren
+extensions-warning-update-security-label =
+    .value = Die Überprüfung der Sicherheit von Add-on-Updates ist deaktiviert. Ihre Sicherheit könnte durch Updates kompromittiert worden sein.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 extensions-warning-update-security-enable =
@@ -157,6 +159,9 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Auf Updates überprüfen
+    .accesskey = A
 extensions-updates-view-updates =
     .label = Kürzlich durchgeführte Updates anzeigen
     .accesskey = K
