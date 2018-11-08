@@ -10,6 +10,7 @@ enable-close-button = Đóng thẻ này
 welcome-title = Chào mừng đến với công cụ nhà phát triển Firefox!
 newsletter-email-placeholder =
     .placeholder = Thư điện tử
+newsletter-subscribe-button = Đăng ký
 newsletter-thanks-title = Cảm ơn!
 footer-title = Phiên bản Firefox cho nhà phát triển
 footer-learn-more-link = Xem thêm
