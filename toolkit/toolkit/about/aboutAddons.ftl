@@ -130,22 +130,52 @@ legacy-warning-show-legacy = Mostrar extensiones heredadas
 legacy-extensions =
     .value = Extensiones heredadas
 legacy-extensions-description = Estas extensiones no cumplen con los estándares actuales de { -brand-short-name } por lo que han sido desactivadas. <label data-l10n-name="legacy-learn-more">Aprender más acerca de los cambios a los complementos</label>
+extensions-view-discover =
+    .name = Obtener complementos
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Actualizaciones recientes
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Actualizaciones disponibles
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Todos los complementos fueron deshabilitados por el modo seguro.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = La verificación de compatibilidad de complementos está deshabilitada. Puedes tener complementos incompatibles.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Habilitar
+    .tooltiptext = Habilitar verificación de compatibilidad de complementos
+extensions-warning-update-security-label =
+    .value = La verificación de actualizaciones de seguridad de complementos está deshabilitada. Puedes estar en peligro por las actualizaciones.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Habilitar
+    .tooltiptext = Habilitar la verificación de actualizaciones de seguridad
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Buscar actualizaciones
+    .accesskey = c
+extensions-updates-view-updates =
+    .label = Ver actualizaciones recientes
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Actualizar complementos automáticamente
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -153,6 +183,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Reiniciar todos los complementos a actualización automática
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = Reiniciar todos los complementos a actualización manual
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Actualizando complementos
+extensions-updates-installed =
+    .value = Sus complementos han sido actualizados.
+extensions-updates-downloaded =
+    .value = Sus actualizaciones a los complementos han sido bajadas.
+extensions-updates-restart =
+    .label = Reiniciar ahora para completar la instalación
+extensions-updates-none-found =
+    .value = No se encontraron actualizaciones
+extensions-updates-manual-updates-found =
+    .label = Ver actualizaciones disponibles
+extensions-updates-update-selected =
+    .label = Instalar actualizaciones
+    .tooltiptext = Instalar actualizaciones disponibles en esta lista
