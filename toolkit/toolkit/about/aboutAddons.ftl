@@ -121,6 +121,9 @@ legacy-warning-show-legacy = மரபு நீட்சிகளைக் க�
 legacy-extensions =
     .value = மரபு நீட்சிகள்
 legacy-extensions-description = தற்போதைய { -brand-short-name } தரத்துடன் இல்லாததால் இந்த நீட்சிகள் முடக்கி வைக்கப்படும். <label data-l10n-name="legacy-learn-more">துணை நிரல்களுக்கான மாற்றங்களை அறியுங்கள்</label>
+extensions-view-discover =
+    .name = துணை நிரல்களைப் பெறு
+    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = சமீபத்திய புதுப்பித்தல்கள்
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -151,6 +154,9 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = புதியவை உள்ளதா எனப்பார்
+    .accesskey = C
 extensions-updates-view-updates =
     .label = சமீபத்திய மேம்படுத்தல்களை பார்
     .accesskey = V
@@ -179,6 +185,8 @@ extensions-updates-reset-updates-to-manual =
 
 extensions-updates-updating =
     .value = கூடுதல் இணைப்புகளை புதுப்பிக்கிறது
+extensions-updates-installed =
+    .value = உங்களின் துணை நிரல்கள் புதுப்பிக்கப்பட்டன.
 extensions-updates-downloaded =
     .value = உங்கள் கூடுதல் இணைப்பு பதிவிறக்கப்பட்டன.
 extensions-updates-restart =
