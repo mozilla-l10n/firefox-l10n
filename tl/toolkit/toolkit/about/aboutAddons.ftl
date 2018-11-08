@@ -141,10 +141,16 @@ extensions-warning-check-compatibility-label =
     .value = Naka-disable ang add-on compatibility checking. Posibleng may incompatible add-on ka.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = I-enable
+    .tooltiptext = I-enable ang add-on compatibility checking
 extensions-warning-update-security-label =
     .value = Naka-disable ang update security checking. Posibleng ma-compromise ka ng updates.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = I-enable
+    .tooltiptext = I-enable ang add-on security checking
 
 ## Strings connected to add-on updates
 
@@ -158,6 +164,9 @@ extensions-updates-view-updates =
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = I-update ang Add-ons nang kusa
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
