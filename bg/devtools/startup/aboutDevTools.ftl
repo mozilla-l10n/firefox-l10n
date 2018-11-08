@@ -27,13 +27,23 @@ footer-message = Търсите нещо повече от развойни ин
 footer-learn-more-link = Научете повече
 features-learn-more = Научете повече
 features-inspector-title = Инспектор
+features-inspector-desc = Проверка и усъвършенстване на кода на перфектни до пиксела дизайни. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = Конзола
+features-console-desc = Преглеждане на CSS, JavaScript, сигурността и мрежата. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Дебъгер
 features-debugger-desc = Мощен дебъгер на JavaScript с поддръжка на вашата софтуерна рамка. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Мрежа
+features-network-desc = Преглеждане на заявки по мрежата, които биха забавили или блокирали страницата ви. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Хранилище
+features-storage-desc = Добавяне, промяна и премахване на буфера, бисквитки, банките от данни и сесийните данни. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Режим за адаптивен дизайн
+features-responsive-desc = Изпитване на страници на емулирани от четеца устройства. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Нагледно редактиране
 features-visual-editing-desc = Фино настройване на анимации, подравняване и отстъп. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Производителност
+features-performance-desc = Отстраняване на стеснения, опростяване на процеси, оптимизиране. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Памет
+features-memory-desc = Откриване на загуби на памет и повишаване на отзивчивост. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+# Variables:
+#   $shortcut (String) - The keyboard shortcut used for the tool
+welcome-message = Развойните инструменти са успешно включени! За начало разгледайте менюто „Разработчик“ или отворете инструментите с натискане на { $shortcut }.
