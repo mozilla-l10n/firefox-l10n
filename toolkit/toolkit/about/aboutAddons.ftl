@@ -130,22 +130,47 @@ legacy-warning-show-legacy = Eski teknoloji eklentileri göster
 legacy-extensions =
     .value = Eski teknoloji eklentiler
 legacy-extensions-description = Bu eklentiler yeni { -brand-short-name } standartlarını karşılamadığı için etkisiz hale getirilmiştir. <label data-l10n-name="legacy-learn-more">Eklentilerde yaptığımız değişiklikler hakkında bilgi alın</label>
+extensions-view-discover =
+    .name = Eklentileri edinin
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Yakın zamandaki güncellemeler
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Mevcut güncellemeler
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Tüm eklentiler güvenli kipte devre dışı bırakıldı.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Etkinleştir
+    .tooltiptext = Eklenti uyumluluk denetimini devreye sok
+extensions-warning-update-security-label =
+    .value = Eklenti güncelleme güvenliği denetimi devre dışı. Güncellemelerle tehlikeye düşebilirsiniz.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Etkinleştir
+    .tooltiptext = Eklenti güncelleme güvenliği denetimini devreye sok
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Güncellemeleri denetle
+    .accesskey = G
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Eklentileri kendiliğinden güncelle
+    .accesskey = n
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -153,6 +178,20 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Tüm eklentileri kendiliğinden güncellenecek şekilde ayarla
+    .accesskey = a
+extensions-updates-reset-updates-to-manual =
+    .label = Tüm eklentileri elle güncellenecek şekilde ayarla
+    .accesskey = a
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Eklentiler güncelleniyor
+extensions-updates-installed =
+    .value = Eklentileriniz güncellendi.
+extensions-updates-downloaded =
+    .value = Eklenti güncellemeleriniz indirildi.
+extensions-updates-none-found =
+    .value = Güncelleme bulunamadı
