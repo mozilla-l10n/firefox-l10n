@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Warn you when closing multiple tabs
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Warn you when quitting and closing multiple tabs
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Warn you when opening multiple tabs might slow down { -brand-short-name }
     .accesskey = d
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Automatically update search engines
     .accesskey = e
+update-pref-write-failure-title = Write Failure
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Unable to save preference. Could not write to file: { $path }
 
 ## General Section - Performance
 
