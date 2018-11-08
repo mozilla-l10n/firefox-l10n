@@ -130,3 +130,50 @@ legacy-warning-show-legacy = Dangos hen estyniadau
 legacy-extensions =
     .value = Hen Estyniadau
 legacy-extensions-description = Nid yw'r estyniadau hyn yn cyrraedd safonau cyfredol { -brand-short-name } ac mae nhw wedi cael eu diffodd. <label data-l10n-name="legacy-learn-more">Dysgu am y newidiadau i ychwanegion</label>
+extensions-view-discover =
+    .name = Estyn Ychwanegion
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Diweddariadau Diweddar
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Diweddariadau ar Gael
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Gwirio am Ddiweddariadau
+    .accesskey = G
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-restart =
+    .label = Ailgychwyn i gwblhau'r gosod
+extensions-updates-none-found =
+    .value = Heb ganfod diweddariadau
+extensions-updates-manual-updates-found =
+    .label = Gweld Diweddariadau ar Gael
+extensions-updates-update-selected =
+    .label = Gosod Diweddariadau
+    .tooltiptext = Gosod diweddariadau sydd ar gael o'r rhestr
