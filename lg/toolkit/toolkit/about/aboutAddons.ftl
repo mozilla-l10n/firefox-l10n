@@ -104,3 +104,80 @@ detail-rating =
     .value = kupima
 addon-restart-now =
     .label = Tandika nate kati
+extensions-view-discover =
+    .name = Funa Ebigattibwako
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Ebituusa ebbipya
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Eby'okutuukanya ebiriwo
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Ebyongerebwako byonna binafuyiziddwa n'enkola ennungamu
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Obusobozi obukebera ebyongerwako ebitatukagana kujjiddwako. Osobola okubanga ebyongerwako ebetatuukagana.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Sobozesa
+    .tooltiptext = Sobozesa ebikebera entuukaganya y'ebyongerwako
+extensions-warning-update-security-label =
+    .value = Ebyongerwako okutuukanya eby'okwerinda binafuyiziddwa. Oyinza obutafuna kutuukanya
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Sobozesa
+    .tooltiptext = Sobozesa ebyongerebwako okukebera eby'okwerinda
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Kebera Ebitusaganya Ebipya
+    .accesskey = e
+extensions-updates-view-updates =
+    .label = Laba okutuukanya okukoleddwa emabegako
+    .accesskey = L
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Tuukanya Ebyongerwako wekka
+    .accesskey = E
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Tegeka ebyokwongerako byonna byetuukanye byokka
+    .accesskey = T
+extensions-updates-reset-updates-to-manual =
+    .label = Tegeka ebyokwongerako byonna bituusaganyizibwe
+    .accesskey = T
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Kutuukanya byongerwako
+extensions-updates-installed =
+    .value = Ebyongerwako byo bituukanyiziddwa
+extensions-updates-downloaded =
+    .value = Ebyokutuukanya ebyongerwako byo biwanuliddwa
+extensions-updates-restart =
+    .label = Tandika butto kompyuta yo okumaliliza okuteekamu
+extensions-updates-none-found =
+    .value = Tewali bituusa bizuuliddwa
+extensions-updates-manual-updates-found =
+    .label = Laba ebyokutuukanya ebiriwo
+extensions-updates-update-selected =
+    .label = Teekamu Ebitusaganya
+    .tooltiptext = Teeka ebyokutuukanya ebiriwo mu lukalala luno
