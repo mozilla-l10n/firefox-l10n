@@ -15,9 +15,9 @@
 <!ENTITY newevent.eventStatus.none.label          "Nespecificată" >
 <!ENTITY newevent.eventStatus.none.accesskey      "N" >
 <!ENTITY newevent.todoStatus.none.label           "Nespecificată" >
-<!ENTITY newevent.eventStatus.cancelled.label     "Anulat" >
+<!ENTITY newevent.eventStatus.cancelled.label     "Anulată" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "n" >
-<!ENTITY newevent.todoStatus.cancelled.label      "Anulat" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Anulată" >
 <!ENTITY newevent.status.tentative.label          "Programată" >
 <!ENTITY newevent.status.tentative.accesskey      "P" >
 <!ENTITY newevent.status.confirmed.label          "Confirmată" >
@@ -126,7 +126,7 @@
 <!ENTITY  event.menu.options.accesskey                        "O">
 <!ENTITY  event.menu.options.attendees.label                  "Invită participanți…">
 <!ENTITY  event.menu.options.attendees.accesskey              "I">
-<!ENTITY  event.menu.options.timezone2.label                  "Afișare fusuri orare">
+<!ENTITY  event.menu.options.timezone2.label                  "Afișează fusuri orare">
 <!ENTITY  event.menu.options.timezone2.accesskey              "f">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritate">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
@@ -169,7 +169,7 @@
 <!ENTITY  event.toolbar.saveandclose.label                "Salvează și închide">
 <!ENTITY  event.toolbar.delete.label                      "Șterge">
 <!ENTITY  event.toolbar.attendees.label                   "Invită participanți">
-<!ENTITY  event.toolbar.privacy.label                     "Intimitate">
+<!ENTITY  event.toolbar.privacy.label                     "Confidențialitate">
 
 <!ENTITY  event.toolbar.save.tooltip2                     "Salvează">
 <!ENTITY  event.toolbar.saveandclose.tooltip              "Salvează și închide">
@@ -215,7 +215,7 @@
 <!ENTITY task.from.accesskey                              "s">
 <!ENTITY event.to.label                                   "Se termină:" >
 <!ENTITY event.to.accesskey                               "u">
-<!ENTITY task.to.label                                    "Dată de sfârșit:" >
+<!ENTITY task.to.label                                    "Dată scadentă:" >
 <!ENTITY task.to.accesskey                                "D">
 <!ENTITY task.status.label                                "Stare:" >
 <!ENTITY task.status.accesskey                            "a">
@@ -245,16 +245,16 @@
 <!ENTITY event.priority2.label                            "Prioritate:">
 
 <!ENTITY event.reminder.none.label                        "Fără memento " >
-<!ENTITY event.reminder.0minutes.before.label             "0 minute înainte" >
+<!ENTITY event.reminder.0minutes.before.label             "cu 0 minute înainte" >
 <!ENTITY event.reminder.5minutes.before.label             "cu 5 minute înainte" >
 <!ENTITY event.reminder.15minutes.before.label            "cu 15 minute înainte" >
 <!ENTITY event.reminder.30minutes.before.label            "cu 30 de minute înainte" >
 <!ENTITY event.reminder.1hour.before.label                "cu o oră înainte" >
 <!ENTITY event.reminder.2hours.before.label               "cu 2 ore înainte" >
-<!ENTITY event.reminder.12hours.before.label              "12 ore înainte" >
-<!ENTITY event.reminder.1day.before.label                 "cu o zi înainte" >
+<!ENTITY event.reminder.12hours.before.label              "cu 12 ore înainte" >
+<!ENTITY event.reminder.1day.before.label                 "cu 1 zi înainte" >
 <!ENTITY event.reminder.2days.before.label                "cu 2 zile înainte" >
-<!ENTITY event.reminder.1week.before.label                "cu o săptămână înainte" >
+<!ENTITY event.reminder.1week.before.label                "cu 1 săptămână înainte" >
 <!ENTITY event.reminder.custom.label                      "Personalizat…" >
 
 <!ENTITY event.reminder.multiple.label                    "Memento multiple…" >
@@ -263,7 +263,7 @@
 <!ENTITY event.statusbarpanel.privacy.label               "Confidențialitate:">
 
 <!-- Recurrence dialog -->
-<!ENTITY recurrence.title.label                         "Editare repetiție">
+<!ENTITY recurrence.title.label                         "Editează repetarea">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Nu se repetă">
 <!ENTITY event.repeat.daily.label                       "Zilnic">
@@ -402,7 +402,7 @@
 <!ENTITY read.only.event.start.label     "Data de început:">
 <!ENTITY read.only.task.start.label      "Data de început:">
 <!ENTITY read.only.event.end.label       "Dată de sfârșit:">
-<!ENTITY read.only.task.due.label        "Dată de sfârșit:">
+<!ENTITY read.only.task.due.label        "Dată scadentă:">
 <!ENTITY read.only.repeat.label          "Repetă:">
 <!ENTITY read.only.location.label        "Locație:">
 <!ENTITY read.only.category.label        "Categorie:">

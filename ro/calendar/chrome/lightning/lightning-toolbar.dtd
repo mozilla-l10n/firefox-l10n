@@ -20,10 +20,10 @@
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Calendar">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Comutare la fila calendar">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Comută pe fila calendar">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label         "Sarcini">
-<!ENTITY lightning.toolbar.task.tooltip       "Comutare la fila sarcini">
+<!ENTITY lightning.toolbar.task.tooltip       "Comută pe fila sarcini">
 <!ENTITY lightning.toolbar.task.accesskey     "S">
 
 <!-- Toolbar write button -->
