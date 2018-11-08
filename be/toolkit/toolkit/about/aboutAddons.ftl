@@ -172,6 +172,9 @@ extensions-updates-view-updates =
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Аўтаматычна абнаўляць дадаткі
+    .accesskey = А
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
