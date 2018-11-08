@@ -151,6 +151,8 @@ extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-label =
+    .value = A verificação de segurança da conexão está desativada. Atualizações de complementos podem comprometer seu computador.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 
@@ -160,6 +162,9 @@ extensions-warning-update-security-container =
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Atualizar automaticamente
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -167,6 +172,12 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Definir atualização automática para todos
+    .accesskey = D
+extensions-updates-reset-updates-to-manual =
+    .label = Definir atualização manual para todos
+    .accesskey = D
 
 ## Status messages displayed when updating add-ons
 
@@ -174,3 +185,6 @@ extensions-updates-restart =
     .label = Reinicie agora para concluir a instalação
 extensions-updates-none-found =
     .value = Nenhuma atualização encontrada
+extensions-updates-update-selected =
+    .label = Instalar atualizações
+    .tooltiptext = Instalar as atualizações disponíveis desta lista
