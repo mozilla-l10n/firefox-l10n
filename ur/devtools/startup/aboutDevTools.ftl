@@ -5,7 +5,9 @@
 enable-close-button = یہ ٹیب بند کریں
 newsletter-email-placeholder =
     .placeholder = ای میل
+newsletter-subscribe-button = رکن بنیں
 newsletter-thanks-title = شکریہ!
+newsletter-thanks-message = اگر آپ نے پہلے Mozilla-related نیوز لیٹر کی رکنیت کی تصدیق نھیں کی تو ھو سکتا ھے اپکو کرنی پڑے۔ براہ مہربانی اپنے آمد خانہ کی پڑتال کریں یا ھماری طرف سے ایک ای میل کو اپنے سپیم فلٹر میں۔
 footer-learn-more-link = مزید سیکھیں
 features-learn-more = مزید سیکھیں
 features-console-title = کنسول
