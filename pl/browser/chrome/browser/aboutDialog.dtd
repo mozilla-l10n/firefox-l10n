@@ -42,7 +42,7 @@
 <!ENTITY update.otherInstanceHandlingUpdates "Inna instancja właśnie aktualizuje program &brandShortName;">
 <!ENTITY update.restarting "Ponowne uruchamianie…">
 
-<!ENTITY update.failed.start        "Aktualizacja się nie powiodła. ">
+<!ENTITY update.failed.start "Aktualizacja nie powiodła się.">
 <!ENTITY update.failed.linkText     "Pobierz najnowszą wersję">
 <!ENTITY update.failed.end          "">
 
