@@ -116,3 +116,80 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Quyidagi qo‘shimcha dasturlar { -brand-short-name } brauzerida foydalanish uchun tasdiqdan o‘tmagan. Siz <label data-l10n-name="find-addons">almashtiriladiganlarini topishingiz</label> yoki dasturchidan ularni tasdiqlashini so‘rashingiz mumkin.
 disabled-unsigned-learn-more = Onlayn xavfsizligingizni ta’minlash uchun qilayotgan harakatlarimiz haqida batafsil ma’lumot oling.
 disabled-unsigned-devinfo = Dasturchilar qo‘shimcha dasturlarini bizning qo‘llanmamizni o‘qib, tasdiqdan o‘tkazishga <label data-l10n-name="learn-more">qiziqishadi</label>.
+extensions-view-discover =
+    .name = Qoʻshimcha dasturlarni olish
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Soʻnggi yangilanishlar
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Mavjud yangilanishlar
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = "Xavfsiz usuli" tomonidan  barcha qoʻshimcha dasturlar oʻchirilgan
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Qoʻshimcha dasturning mosligini tekshirish oʻchirilgan. Sizda tugallanmagan qoʻshimcha dasturlar boʻlishi mumkin.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Yoqish
+    .tooltiptext = Qoʻshimcha dasturning mosligini tekshirishni yoqish
+extensions-warning-update-security-label =
+    .value = Qoʻshimcha dasturlarni xavfsiz yangilash oʻchirilgan. Yangilanishlar uchun xavf ostida boʻlishi mumkin.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Yoqish
+    .tooltiptext = Qoʻshimcha dasturni xavfsiz yangilashni tekshirishni yoqish
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Yangilanishlar uchun tekshirish
+    .accesskey = t
+extensions-updates-view-updates =
+    .label = Soʻnggi yangilanishlarni koʻrish
+    .accesskey = k
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Qoʻshimcha dasturlarni avtomatik yangilash
+    .accesskey = Q
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Barcha qoʻshimcha dasturlarni avtomatik yangilash uchun tiklash
+    .accesskey = t
+extensions-updates-reset-updates-to-manual =
+    .label = Qoʻlbola yangilash uchun barcha qoʻshimcha dasturlarni tiklash
+    .accesskey = t
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Qoʻshimcha dasturlarni yangilash
+extensions-updates-installed =
+    .value = Qoʻshimcha dasturingiz yangilandi.
+extensions-updates-downloaded =
+    .value = Qoʻshimcha dastur yangilanishlari yuklab olindi.
+extensions-updates-restart =
+    .label = Oʻrnatishni tugatish uchun hozir qayta ishga tushirish
+extensions-updates-none-found =
+    .value = Yangilanishlar topilmadi
+extensions-updates-manual-updates-found =
+    .label = Mavjud yangilanishlarni koʻrish
+extensions-updates-update-selected =
+    .label = Yangilanishlarni oʻrnatish
+    .tooltiptext = Ushbu roʻyxatdagi mavjud yangilanishlarni oʻrnatish
