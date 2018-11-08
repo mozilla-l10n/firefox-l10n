@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 head-title = Sobre o Developer Tools
+enable-title = Ativar o Firefox Developer Tools
+enable-inspect-element-title = Ative o Firefox Developer Tools para usar o Inspect Element
 enable-inspect-element-message = Examine and edit HTML and CSS with the Developer Tools’ Inspector.
 enable-about-debugging-message = Develop and debug WebExtensions, web workers, service workers and more with Firefox Developer Tools.
 enable-key-shortcut-message = You activated a Developer Tools shortcut. If that was a mistake, you can close this Tab.
 enable-menu-message = Perfect your website’s HTML, CSS, and JavaScript with tools like Inspector and Debugger.
 enable-common-message = Firefox Developer Tools are disabled by default to give you more control over your browser.
 enable-learn-more-link = Saber mais sobre o Developer Tools
+enable-enable-button = Ativar Developer Tools
 enable-close-button = Fechar esta aba
 welcome-title = Bem-vindo ao Firefox Developer Tools!
 newsletter-title = Mozilla Developer Newsletter
