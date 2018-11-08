@@ -45,5 +45,10 @@ features-performance-desc = Odblokuj zatory, usprawnij procesy, optymalizuj zaso
 features-memory-title = Pamięć
 features-memory-desc = Znajdź problemy ze zużyciem pamięci i przyspiesz swoją aplikację. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Żądanie subskrypcji się nie powiodło ({ $errorDescription }).
+newsletter-error-unknown = Wystąpił nieoczekiwany błąd.
+newsletter-error-timeout = Żądanie subskrypcji przekroczyło czas oczekiwania.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Pomyślnie włączono narzędzia dla programistów. Aby zacząć, otwórz menu „Dla twórców witryn” lub otwórz narzędzia za pomocą skrótu { $shortcut }.
