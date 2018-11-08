@@ -120,15 +120,36 @@ plugin-deprecation-description = কোন কিছু পাওয়া যা�
 legacy-warning-show-legacy = সব পুরাতন এক্সটেনশন দেখাও
 legacy-extensions =
     .value = লিগ্যাসি এক্সটেনশন
+extensions-view-discover =
+    .name = অ্যাড-অন নিন
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = সাম্প্রতিক হালনাগাদ
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = বিদ্যমান হালনাগাদ
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = নিরাপদ মোড এর সাহায্যে সব অ্যাড-অন নিস্ক্রিয়।
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = অ্যাড-অনের উপযুক্ততা পরীক্ষা নিস্ক্রিয়। আপনার অ্যাড-অন অনুপোযুক্ত হতে পারে।
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = সক্রিয়
+    .tooltiptext = অ্যাড-অনের উপযুক্ততা পরীক্ষা সক্রিয়
+extensions-warning-update-security-label =
+    .value = অ্যাড-অন হালনাগাদকরন পরীক্ষা নিস্ক্রিয়। আপনি সম্ভবত হালনাগাদকরনের সাথে আপোষ করে নিয়েছেন।
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = সক্রিয়
+    .tooltiptext = অ্যাড-অন হালনাগাদকরন নিরাপত্তা পরীক্ষা করা সক্রিয়
 
 ## Strings connected to add-on updates
 
@@ -143,6 +164,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = সব অ্যাড-অন স্বয়ংক্রিয়ভাবে হালনাগাদ করার জন্য পুন:নির্ধারন করা হবে R
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = সব অ্যাড-অন নিজ হাতে হালনাগাদ করার জন্য পুন:নির্ধারন করা হবে R
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = অ্যাড-অন হালনাগাদ করা হচ্ছে
+extensions-updates-installed =
+    .value = আপনার সকল অ্যাড-অন হালনাগাদ করা হয়েছে।
+extensions-updates-downloaded =
+    .value = আপনার অ্যাড-অনের হালনাগাদ ডাউনলোড করা হয়েছে।
+extensions-updates-restart =
+    .label = ইনস্টল প্রক্রিয়া সম্পন্ন করার জন্য পুনরায় শুরু করুন
+extensions-updates-none-found =
+    .value = কোনো হালনাগাদ পাওয়া যায়নি
+extensions-updates-manual-updates-found =
+    .label = বিদ্যমান হালনাগাদ প্রদর্শিত হবে
+extensions-updates-update-selected =
+    .label = হালনাগাদ ইনস্টল করুন
+    .tooltiptext = তালিকায় বিদ্যমান হালনাগাদ ইনস্টল করুন
