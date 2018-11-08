@@ -12,12 +12,14 @@ enable-menu-message = Müfettiş ve İlletsizleştirici kibi aletler ile ağ-say
 enable-common-message = Keziciñiz içün daa çoq muraqabeni sizge bermek içün Firefox İnkişafçı Aletleri ögbelgilengen olaraq naqabilleştirilgendir.
 enable-learn-more-link = İnkişafçı Aletleri aqqında daa çoq ögren
 enable-enable-button = İnkişafçı Aletleri'ni Qabilleştir
+enable-close-button = Bu İlmekni qapat
 welcome-title = Firefox İnkişafçı Aletleri'ne Hoş Keldiñiz!
 newsletter-title = Firefox İnkişafçı Haber-mektübi
 newsletter-message = İnkişafçı haberleri, marifetleri ve qaynaqlarını doğrudan Kelgen qutuñızğa yibertiñiz.
 newsletter-email-placeholder =
     .placeholder = E-poçta
 newsletter-privacy-label = Mozilla'nıñ malümatımnı bu <a data-l10n-name="privacy-policy">Hususiyat Siyaseti</a>nde añlatılğanı kibi qollamasına icazet berem.
+newsletter-subscribe-button = Abune Ol
 newsletter-thanks-title = Teşekkürler!
 newsletter-thanks-message = Daa evvel bir Mozilla haber-mektübine abune olmadı iseñiz abuneligiñizni belki teyit etmeñiz kerekir. Lütfen Kelgen qutuñıznı yaki Abur-çubur süzgüzçiñizni bizden bir e-poçta içün teşkeriñiz.
 footer-title = Firefox İnkişafçı Tariri
