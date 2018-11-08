@@ -45,5 +45,10 @@ features-performance-desc = અવરોધોને અનાવરોધિત
 features-memory-title = મેમરી
 features-memory-desc = મેમરી લિક શોધો અને તમારી એપ્લિકેશન જીવંત કરો. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = ઉમેદવારી વિનંતી નિષ્ફળ ({ $errorDescription }).
+newsletter-error-unknown = એક અનપેક્ષિત ભૂલ આવી.
+newsletter-error-timeout = ઉમેદવારી વિનંતીનો સમય સમાપ્ત થયો.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = તમે વિકાસકર્તા સાધનો સફળતાપૂર્વક સક્ષમ કર્યું છે! પ્રારંભ કરવા માટે, વેબ ડેવલપર મેનૂનું અન્વેષણ કરો અથવા { $shortcut }સાથે સાધનો ખોલો.
