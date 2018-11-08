@@ -135,15 +135,30 @@ legacy-extensions-description = Ces extensions ne répondent pas aux exigences a
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Tous les modules complémentaires ont été désactivés par le mode sans échec.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = La vérification de compatibilité des modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires incompatibles.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Activer
+    .tooltiptext = Activer la vérification de compatibilité
+extensions-warning-update-security-label =
+    .value = La vérification de mises à jour de sécurité pour les modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires non sûrs.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Activer
+    .tooltiptext = Activer la vérification de mises à jour de sécurité pour les modules complémentaires
 
 ## Strings connected to add-on updates
 
+extensions-updates-view-updates =
+    .label = Afficher les mises à jour récentes
+    .accesskey = A
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
