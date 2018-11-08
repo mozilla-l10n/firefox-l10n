@@ -31,3 +31,7 @@ features-visual-editing-desc = تنظیم دقیق پویانمایی‌ها، �
 features-performance-title = کارایی
 features-memory-title = حافظه
 features-memory-desc = نشت‌های حافظه را پیدا و برنامه‌تان را چابک کنید. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+# Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = درخواست اشتراک ناموفق بود ({ $errorDescription }).
+newsletter-error-unknown = یک خطای غیر منتظره رخ داده است.
