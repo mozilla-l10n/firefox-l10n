@@ -24,3 +24,8 @@ features-console-desc = Gwok peki me CSS, JavaScript, ber bedo ki netwak. <a dat
 features-debugger-title = Gin nongo bal
 features-network-title = Netwak
 features-network-desc = Nen kwac me netwak ma twero dwoko dwiro onyo gengo kakube mamegi. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+# Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Kwac me coone pe olare ({ $errorDescription }).
+newsletter-error-unknown = Bal mape ki byeko otime.
+newsletter-error-timeout = Kare me kwac me coone otum woko.
