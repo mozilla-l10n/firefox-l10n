@@ -7,6 +7,7 @@ enable-title = Activar le Utensiles de disveloppamento de Firefox
 enable-inspect-element-title = Activar le Utensiles de disveloppamento de Firefox pro usar Inspicer elemento
 enable-inspect-element-message = Examina e redige HTML e CSS le Inspector del utensiles de disveloppamento.
 enable-about-debugging-message = Disveloppa e depura WebExtensions, web workers, service workers e plus per le Utensiles de disveloppamento de Firefox.
+enable-key-shortcut-message = Tu ha activate un accesso directe al instrumentos de developpator. Si isto esseva un error, tu pote clauder iste scheda.
 enable-menu-message = Perfectiona le HTML, CSS, e JavaScript de tu sito web per utensiles como Inspector e Depurator.
 enable-common-message = Le Utensiles de disveloppamento de Firefox es disactivate normalmente pro dar te major controlo de tu navigator.
 enable-learn-more-link = Apprende plus re le Utensiles del disveloppamento
@@ -30,12 +31,14 @@ features-inspector-desc = Inspice e optimisa le codification pro producer dispos
 features-console-title = Consola
 features-console-desc = Attrappa errores in le CSS, de JavaScript, de securitate e in rete. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Depurator
+features-debugger-desc = Depurator JavaScript potente compatibile con tu framework. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Rete
 features-network-desc = Controla le requestas de rete que pote relentar o blocar tu sito. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Immagazinage
 features-storage-desc = Adde, modifica e remove cache, cookies, bases de datos e datos de session. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Modo de designo responsive
 features-responsive-desc = Testa le sitos sur apparatos simulate in tu navigator. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-visual-editing-title = Edition visual
 features-visual-editing-desc = Optimisa le animationes, le alineamento e le margines. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Rendimento
 features-performance-desc = Disbloca le collos de bottilia, simplifica le processos, optimisa le ressources. <a data-l10n-name="learn-more">{ features-learn-more }</a>
