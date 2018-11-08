@@ -109,3 +109,80 @@ detail-rating =
     .value = Òbsądë
 addon-restart-now =
     .label = Zrëszë znowa
+extensions-view-discover =
+    .name = Dobëjë dodôwczi
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Slédné zaktualnienia
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Przistãpné aktualizacje
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Wszëtczé dodôwczi òstałé wëłączoné przez awariowi trib.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Sprôwdzanié kòmpatibilnotë dodôwków je wëłączoné. Jaczés dodôwczi mògą bëc niekòmpatibilne.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Włączë
+    .tooltiptext = Włączë sprôwdzanié kòmpatibilnotë dodôwków
+extensions-warning-update-security-label =
+    .value = Sprôwdzanié bezpiekù aktualizacje je wëłączoné. Aktualizacje mògą bëc zagrożenim.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Włączë
+    .tooltiptext = Włączë sprôwdzanié bezpiekù aktualizacje dodôwków
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Sprôwdzë zaktualnienia
+    .accesskey = S
+extensions-updates-view-updates =
+    .label = Wëskrzëni slédné zaktualnienia
+    .accesskey = W
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Aùtomatno aktualizëje dodôwczi
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Włączë aùtomatną aktualizacjã dodôwków
+    .accesskey = a
+extensions-updates-reset-updates-to-manual =
+    .label = Włączë rãczną aktualizacjã dodôwków
+    .accesskey = r
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Aktualizacjô dodôwków
+extensions-updates-installed =
+    .value = Dodôwczi òstałé zaktualnioné.
+extensions-updates-downloaded =
+    .value = Dodôwczi òstałe zladowóné.
+extensions-updates-restart =
+    .label = Zrëszë znowa bë skùńczëc instalacjã
+extensions-updates-none-found =
+    .value = Nie nalôzł aktualizacjów
+extensions-updates-manual-updates-found =
+    .label = Wëskrzëni przistãpné aktualizacje
+extensions-updates-update-selected =
+    .label = Winstalëjë aktualizacje
+    .tooltiptext = Winstalëje przistãpné aktualizacje z ti lëstë
