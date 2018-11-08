@@ -119,22 +119,52 @@ disabled-unsigned-devinfo = തങ്ങളുടെ ആഡോണുകൾ വ�
 plugin-deprecation-description = എന്തെങ്കിലും നഷ്ടമായോ? ചില പ്ലഗിന്നുകൾ ഇനിമുതൽ { -brand-short-name } പിന്തുണയ്ക്കില്ല. <label data-l10n-name="learn-more">കൂടുതല്‍ അറിയുക.</label>
 legacy-warning-show-legacy = പഴയ എക്സ്റ്റെന്‍ഷനും കാണിക്കുക
 legacy-extensions-description = ഈ എക്സ്റ്റൻഷെനുകൾ നിലവിലെ { -brand-short-name } മാനദണ്ഡങ്ങൾ പാലിക്കുന്നുല്ല, ആയതിനാൽ അവ നിർജ്ജീവമാക്കിയിട്ടുണ്ട്. <label data-l10n-name="legacy-learn-more">ആഡ്-ഓണുകളിലെ മാറ്റങ്ങളെക്കുറിച്ച് അറിയുക</label>
+extensions-view-discover =
+    .name = ആഡ്-ഓണുകള്‍ ലഭ്യമാകുക
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = ഏറ്റവും പുതിയ പരിഷ്കരണങ്ങള്‍
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = ലഭ്യമായ പരിഷ്കരണങ്ങള്‍
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = എല്ലാ ആഡ്-ഓണുകളും സേഫ് മോഡില്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = ആഡ്-ഓണ്‍ പൊരുത്തം പരിശോധന പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു. പൊരുത്തപ്പെടാത്ത ആഡ്-ഓണുകളുണ്ടാവാം.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = പ്രവര്‍ത്തന സജ്ജം
+    .tooltiptext = ആഡ്-ഓണ്‍ പൊരുത്തം പരിശോധന പ്രവര്‍ത്തന സജ്ജമാക്കുക
+extensions-warning-update-security-label =
+    .value = ആഡ്-ഓണ്‍ പരിഷ്കരണ സുരക്ഷാ പരിശോധന പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു. ഉചിതമായ പരിഷ്കരണങ്ങള്‍ ലഭ്യമായില്ല.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = പ്രവര്‍ത്തന സജ്ജം
+    .tooltiptext = ആഡ്-ഓണ്‍ പരിഷ്കരണ സുരക്ഷാ പരിശോധന പ്രവര്‍ത്തന സജ്ജമാക്കുക
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = ഏറ്റവും പുതിയ പരിഷ്കരങ്ങള്‍ കാണുക
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = ഓട്ടോമാറ്റിക്കായി ആഡ്-ഓണുകള്‍ പരിഷ്കരിയ്ക്കുക
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -142,6 +172,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = ഓട്ടോമാറ്റിക്കായി പരിഷ്കരിയ്ക്കുന്നതിനു് എല്ലാ ആഡ്-ഓണുകളും വീണ്ടും സജ്ജമാക്കുക
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = മാനുവലായി പരിഷ്കരിയ്ക്കുന്നതിനായി എല്ലാ ആഡ്-ഓണുകളും വീണ്ടും സജ്ജമാക്കുക
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = ആഡ്-ഓണുകള്‍ പരിഷ്കരിയ്ക്കുന്നു
+extensions-updates-installed =
+    .value = നിങ്ങളുടെ ആഡ്-ഓണുകള്‍ പരിഷ്കരിച്ചിരിയ്ക്കുന്നു.
+extensions-updates-downloaded =
+    .value = നിങ്ങളുടെ ആഡ്-ഓണുകള്‍ക്കുള്ള പരിഷ്കരണം ഡൌണ്‍ലോഡ് ചെയ്തിരിയ്ക്കുന്നു.
+extensions-updates-restart =
+    .label = ഇന്‍സ്റ്റലേഷന്‍ പൂര്‍ത്തിയാക്കുന്നതിനായി വീണ്ടും ആരംഭിയ്ക്കുക
+extensions-updates-none-found =
+    .value = പരിഷ്കരണങ്ങള്‍ ലഭ്യമല്ല
+extensions-updates-manual-updates-found =
+    .label = ലഭ്യമായ പരിഷ്കരണങ്ങള്‍ കാണുക
+extensions-updates-update-selected =
+    .label = പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
+    .tooltiptext = പട്ടികയില്‍ ലഭ്യമായ പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
