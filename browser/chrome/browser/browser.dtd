@@ -315,7 +315,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ai blocat notificările pentru acest site web.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ai blocat stocarea persistentă de date pentru acest site web.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Ai blocat ferestrele pop-up pe acest site.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ai blocat redarea automată a elementelor media cu sunet pe acest site web.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ai blocat redarea automată a conținutului media cu sunet pe acest site web.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Ai blocat extragerea de date canvas pentru acest site.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ai blocat acest site web să folosească pluginul Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ai blocat accesul MIDI pentru acest site web.">
@@ -1066,6 +1066,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
 <!ENTITY trackingProtection.block5.label "Activează blocarea pentru acest site">
 <!ENTITY trackingProtection.block5.accesskey "E">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.reload2.label "Reîncarcă pagina">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
