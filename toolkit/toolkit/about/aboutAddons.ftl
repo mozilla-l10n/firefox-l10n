@@ -121,3 +121,74 @@ legacy-warning-show-legacy = Wys verouderde uitbreidings
 legacy-extensions =
     .value = Verouderde uitbreidings
 legacy-extensions-description = Dié uitbreidings voldoen nie aan { -brand-short-name } se huidige standaarde nie, en is dus gedeaktiveer. <label data-l10n-name="legacy-learn-more">Lees meer oor veranderinge aan byvoegings</label>
+extensions-view-discover =
+    .name = Kry byvoegings
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Onlangse bywerkings
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Beskikbare bywerkings
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Alle byvoegings is deur veilige modus gedeaktiveer.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Kontrolering of byvoegings versoenbaar is, is gedeaktiveer. U het moontlik onversoenbare byvoegings.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Aktiveer
+    .tooltiptext = Aktiveer byvoeging-versoenbaarheidkontrole
+extensions-warning-update-security-label =
+    .value = Kontrolering vir bywerkings vir byvoegings is gedeaktiveer. U kan dalk deur bywerkings gekompromitteer word.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Aktiveer
+    .tooltiptext = Aktiveer byvoegingsbywerking-beveiliging-kontrole
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Kontroleer vir bywerkings
+    .accesskey = K
+extensions-updates-view-updates =
+    .label = Bekyk onlangse bywerkings
+    .accesskey = B
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Werk byvoegings outomaties by
+    .accesskey = W
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Byvoegings word bygewerk
+extensions-updates-installed =
+    .value = Die byvoegings is bygewerk.
+extensions-updates-downloaded =
+    .value = Die byvoeging-bywerkings is afgelaai.
+extensions-updates-restart =
+    .label = Herbegin nou vir volledige installering
+extensions-updates-none-found =
+    .value = Geen bywerkings gevind nie
+extensions-updates-manual-updates-found =
+    .label = Bekyk beskikbare bywerkings
+extensions-updates-update-selected =
+    .label = Installeer bywerkings
+    .tooltiptext = Installeer beskikbare bywerkings in hierdie lys
