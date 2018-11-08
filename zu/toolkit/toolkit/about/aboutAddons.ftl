@@ -178,3 +178,6 @@ extensions-updates-none-found =
     .value = Akukho ukuvuselela okutholakele
 extensions-updates-manual-updates-found =
     .label = Bonisa ukuvuselela okukhona
+extensions-updates-update-selected =
+    .label = Ifaka ukuvuselela
+    .tooltiptext = Faka ukuvuselela okukhona kulolu hlu
