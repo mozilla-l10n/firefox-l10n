@@ -5,4 +5,4 @@
 <!ENTITY windowTitle.label "Proprietăți ancoră denumită">
 <!ENTITY anchorNameEditField.label "Nume ancoră:">
 <!ENTITY anchorNameEditField.accessKey "N">
-<!ENTITY nameInput.tooltip "Introduceți un nume unic pentru această ancoră (țintă)">
+<!ENTITY nameInput.tooltip "Introdu un nume unic pentru această ancoră (țintă)">

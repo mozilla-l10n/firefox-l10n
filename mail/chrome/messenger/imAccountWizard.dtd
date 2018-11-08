@@ -5,7 +5,7 @@
 <!ENTITY windowTitle.label            "Asistent conturi de chat">
 
 <!ENTITY accountProtocolTitle.label   "Rețea de chat">
-<!ENTITY accountProtocolInfo.label    "Vă rugăm să vă alegeți rețeaua contului de chat.">
+<!ENTITY accountProtocolInfo.label    "Te rugăm să îți alegi rețeaua contului de chat.">
 <!ENTITY accountProtocolField.label   "Rețea:">
 <!ENTITY accountProtocolGetMore.label "Mai multe…">
 
@@ -13,7 +13,7 @@
 <!ENTITY accountUsernameDuplicate.label "Acest cont este deja configurat!">
 
 <!ENTITY accountPasswordTitle.label   "Parola">
-<!ENTITY accountPasswordInfo.label    "Vă rugăm să vă introduceți parola în căsuța de mai jos.">
+<!ENTITY accountPasswordInfo.label    "Te rugăm să îți introduci parola în căsuța de mai jos.">
 <!ENTITY accountPasswordField.label   "Parola:">
 <!ENTITY accountPasswordManager.label "Parola introdusă aici va fi stocată în managerul de parole. Lăsați căsuța goală dacă vreți să vi se ceară parola de fiecare dată când vă conectați la acest cont.">
 
@@ -28,5 +28,5 @@
 <!ENTITY accountProxySettings.change.accessKey "c">
 
 <!ENTITY accountSummaryTitle.label   "Rezumatul">
-<!ENTITY accountSummaryInfo.label    "Mai jos puteți vedea un rezumat al informațiilor introduse. Vă rugăm să o verificați înainte de a crea contul.">
+<!ENTITY accountSummaryInfo.label    "Mai jos poți vedea un rezumat al informațiilor introduse. Te rugăm să le verifici înainte de a crea contul.">
 <!ENTITY accountSummary.connectNow.label "Conectează acest cont acum.">
