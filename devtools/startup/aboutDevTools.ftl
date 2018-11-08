@@ -45,5 +45,10 @@ features-performance-desc = פתיחת צווארי בקבוק, ייעול תה�
 features-memory-title = זיכרון
 features-memory-desc = איתור דליפות זיכרון כדי לגרום ליישום שלך לטוס. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = בקשת ההרשמה נכשלה ({ $errorDescription }).
+newsletter-error-unknown = אירעה שגיאה בלתי צפויה.
+newsletter-error-timeout = תם הזמן שהוקצב לבקשת ההרשמה.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = הפעלת בהצלחה את כלי הפיתוח! כדי להתחיל, יש לסייר בתפריט כלי הפיתוח או לפתוח את הכלים עם { $shortcut }.
