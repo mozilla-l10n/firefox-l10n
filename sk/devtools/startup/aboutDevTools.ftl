@@ -45,5 +45,10 @@ features-performance-desc = Odhaľte problematické miesta, zjednodušte procesy
 features-memory-title = Pamäť
 features-memory-desc = Preskúmajte spotrebu pamäte svojej aplikácie a vylaďte ju. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Požiadavka o prihlásenie sa na odber zlyhala ({ $errorDescription }).
+newsletter-error-unknown = Nastala neočakávaná chyba.
+newsletter-error-timeout = Časový limit požiadavky o prihlásenie sa na odber vypršal.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Úspešne ste povolili vývojárske nástroje! Pre začiatok preskúmajte ponuku Webový vývojár alebo otvorte nástroje pomocou skratky { $shortcut }.
