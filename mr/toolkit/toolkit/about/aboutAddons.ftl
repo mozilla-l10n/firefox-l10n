@@ -121,6 +121,9 @@ legacy-warning-show-legacy = सर्व वारसा विस्तार 
 legacy-extensions =
     .value = वारसा विस्तार
 legacy-extensions-description = हे विस्तार सध्याच्या { -brand-short-name } मानकांमध्ये बसत नाही म्हणून ते निष्क्रिय करण्यात आले आहेत. <label data-l10n-name="legacy-learn-more">ॲड-ऑन्सबद्दल बदल जाणा</label>
+extensions-view-discover =
+    .name = ॲड-ऑन्स् प्राप्त करा
+    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = नुकतीच सुधारणा
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -130,12 +133,24 @@ extensions-view-available-updates =
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = सेफ मोडद्वारे सर्व ॲड-ऑन्स् बंद केले आहे.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = ॲड-ऑन सहत्वता तपासणी बंद केली आहे. आपल्याकडे असहत्व ॲड-ऑन्स् असू शकतात.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = सुरू करा
+    .tooltiptext = ॲड-ऑन सहत्वता तपासणी सुरू करा
+extensions-warning-update-security-label =
+    .value = ॲड-ऑन सुधारणा सुरक्षा तपासणी बंद केले आहे. सुधारणा करतेवेळी सतर्क रहा.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = सुरू करा
+    .tooltiptext = ॲड-ऑन सुधारणा सुरक्षा तपासणी सुरू करा
 
 ## Strings connected to add-on updates
 
@@ -149,6 +164,9 @@ extensions-updates-view-updates =
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = ॲड-ऑन्स् स्वयं सुधारित करा
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -156,9 +174,21 @@ extensions-updates-view-updates =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = स्वयं सुधारणा करण्यासाठी सर्व ॲड-ऑन्स् मूळस्थितीत आणा
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = सुधारणा स्वहस्ते करण्यासाठी सर्व ॲड-ऑन्स् मूळस्थितीत आणा
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = ॲड-ऑन्स् सुधारीत करत आहे
+extensions-updates-installed =
+    .value = आपले ॲड-ऑन्स् सुधारीत केले.
+extensions-updates-downloaded =
+    .value = आपले ॲड-ऑन सुधारणा डाउनलोड केले आहे.
 extensions-updates-restart =
     .label = प्रतिष्ठापन पूर्ण करण्यासाठी आत्ता पुनःचालू करा
 extensions-updates-none-found =
