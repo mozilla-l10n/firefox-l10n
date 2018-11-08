@@ -130,3 +130,29 @@ legacy-warning-show-legacy = Ni'iaj nej extensiûn hua nika hia
 legacy-extensions =
     .value = Nej extensiûn hua nikaa
 legacy-extensions-description = Nitaj si digahuin nej extensiûn nan ngà nej chrej { -brand-short-name } huaa yi'ì dan giyichin' nej man. <label data-l10n-name="legacy-learn-more">Gini'in doj rayi'î nuguan' hua ngà nadunô' 'ngo komplemênto</label>
+
+## These are global warnings
+
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
