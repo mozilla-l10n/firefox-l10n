@@ -121,6 +121,15 @@ legacy-warning-show-legacy = पुराने हो चुके एक्स
 legacy-extensions =
     .value = पुराने एक्सटेंशन
 legacy-extensions-description = ये एक्सटेंशन मौजूदा { -brand-short-name } मानकों को पूरा नहीं करते, सो उन्हें निष्क्रिय कर दिया गया हैं. <label data-l10n-name="legacy-learn-more">ऐड-ऑन में हुए बदलावों के बारे में जानें</label>
+extensions-view-discover =
+    .name = सहयुक्तियाँ पाएँ
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = हालिया अद्यतन
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = उपलब्ध अद्यतन
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
