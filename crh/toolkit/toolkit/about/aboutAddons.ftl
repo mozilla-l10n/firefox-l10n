@@ -126,22 +126,52 @@ legacy-warning-show-legacy = Qadimiy uzantılarnı köster
 legacy-extensions =
     .value = Qadimiy Uzantılar
 legacy-extensions-description = Bu uzantılar cari { -brand-short-name } standartlarını qarşılamay ve ondan dolayı ğayrıfaalleştirilgenlerdir. <label data-l10n-name="legacy-learn-more">Eklentilerge deñişiklikler aqqında ögreniñiz.</label>
+extensions-view-discover =
+    .name = Eklentilerni Elde Et
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Deminki Yañartmalar
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Faydalanışlı Yañartmalar
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Episi eklentiler emin tarz tarafından ğayrıqabilleştirilgendir.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Eklenti telif qabiliyeti teşkerüvi qabil degildir. Belki ğayrı-qabili-telif eklentileriñiz bar.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Qabilleştir
+    .tooltiptext = Eklenti telif qabiliyeti teşkerüvini qabilleştir
+extensions-warning-update-security-label =
+    .value = Eklenti yañartması emniyet teşkerüvi qabil degildir. Yañartmalar tarafından tehlükege atılabilirsiñiz.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Qabilleştir
+    .tooltiptext = Eklenti yañartması emniyet teşkerüvini qabilleştir
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Yañartmalar içün Teşker
+    .accesskey = T
+extensions-updates-view-updates =
+    .label = Deminki Yañartmalarğa Baq
+    .accesskey = B
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Eklentilerni Öz-özünden Yañart
+    .accesskey = z
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -149,6 +179,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Episi Eklentilerni Öz-özünden Yañartılmaq Üzre Sıfırla
+    .accesskey = S
+extensions-updates-reset-updates-to-manual =
+    .label = Episi Eklentilerni Elnen Yañartılmaq Üzre Sıfırla
+    .accesskey = S
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Eklentiler yañartıla
+extensions-updates-installed =
+    .value = Eklentileriñiz yañartılğandır.
+extensions-updates-downloaded =
+    .value = Eklenti yañartmalarıñız endirilgendir.
+extensions-updates-restart =
+    .label = Qurulımnı tamamlamaq içün şimdi kene başlat
+extensions-updates-none-found =
+    .value = Tapılğan yañartmalar yoq
+extensions-updates-manual-updates-found =
+    .label = Faydalanışlı Yañartmalarğa Baq
+extensions-updates-update-selected =
+    .label = Yañartmalarnı Qur
+    .tooltiptext = Bu listedeki faydalanışlı yañartmalarnı qur
