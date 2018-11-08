@@ -155,3 +155,5 @@ extensions-warning-update-security-container =
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-restart =
+    .label = เริ่มการทำงานใหม่ตอนนี้เพื่อให้การติดตั้งเสร็จสมบูรณ์
