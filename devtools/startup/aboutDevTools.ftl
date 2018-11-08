@@ -44,5 +44,10 @@ features-performance-title = الأداء
 features-memory-title = الذاكرة
 features-memory-desc = اكتشف كل تسرّب للذاكرة لتعمل تطبيقاتك بسلاسة أكبر. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = فشل طلب الاشتراك ({ $errorDescription }).
+newsletter-error-unknown = حدث خطأ غير متوقع.
+newsletter-error-timeout = انتهت مهلة طلب الاشتراك.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = فعّلت أدوات المطورين بنجاح! لتبدأ العمل افتح قائمة ”مطوّري الوب“ أو افتح الأدوات مستخدما { $shortcut }.
