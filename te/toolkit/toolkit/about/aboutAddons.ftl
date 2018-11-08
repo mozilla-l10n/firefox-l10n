@@ -123,6 +123,12 @@ legacy-warning-show-legacy = లెగసీ పొడగింతలను చ�
 legacy-extensions =
     .value = పాత పొడగింతలు
 legacy-extensions-description = ఈ పొడిగింతలు ప్రస్తుత { -brand-short-name } ప్రమాణాలను చేరుకోవు కాబట్టి అవి క్రియారహితం చేయబడ్డాయి. <label data-l10n-name="legacy-learn-more">పొడిగింతల మార్పుల గురించి తెలుసుకోండి</label>
+extensions-view-recent-updates =
+    .name = ఇటీవలి నవీకరణలు
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = అందుబాటులోని నవీకరణలు
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
@@ -130,8 +136,14 @@ extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = చేతనపరచు
+    .tooltiptext = పొడిగింత సారూప్యతా పరిశీలనను చేతనపరచు
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = చేతనపరచు
+    .tooltiptext = పొడిగింత నవీకరణ రక్షణ పరిశీలనను చేతనముచేయి
 
 ## Strings connected to add-on updates
 
@@ -149,3 +161,5 @@ extensions-warning-update-security-container =
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-downloaded =
+    .value = మీ పొడిగింత నవీకరణలు డౌన్‌లోడైనవి.
