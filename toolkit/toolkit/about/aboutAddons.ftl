@@ -153,10 +153,19 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = হালনাগাদের জন্য পরীক্ষা
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = সাম্প্রতিক হালনাগাদ দেখাও
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = স্বয়ংক্রিয়ভাবে অ্যাড-অন হালনাগাদ
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
