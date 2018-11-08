@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Beri amaran apabila menutup berbilang tab
     .accesskey = B
+warn-on-quit-close-multiple-tabs =
+    .label = Beri amaran apabila keluar dan menutup bebilang tab
+    .accesskey = B
 warn-on-open-many-tabs =
     .label = Beri amaran apabila membuka berbilang tab yang mungkin memperlahankan { -brand-short-name }
     .accesskey = p
@@ -276,6 +279,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Kemaskini enjin carian secara automatik
     .accesskey = e
+update-pref-write-failure-title = Gagal Menulis
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Tidak dapat menyimpan keutamaan. Tidak dapat menulis ke fail: { $path }
 
 ## General Section - Performance
 
