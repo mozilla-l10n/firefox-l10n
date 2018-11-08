@@ -133,6 +133,12 @@ legacy-extensions-description = Tute rozšěrjenja su so znjemóžnili, dokelž 
 extensions-view-discover =
     .name = Přidatki wobstarać
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Nowe aktualizacije
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Aktualizacije
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
@@ -160,6 +166,9 @@ extensions-warning-update-security-enable =
 extensions-updates-check-for-updates =
     .label = Za aktualizacijemi pytać
     .accesskey = p
+extensions-updates-view-updates =
+    .label = Nowe aktualizacije sej wobhladać
+    .accesskey = N
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
