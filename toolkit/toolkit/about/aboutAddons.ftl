@@ -121,3 +121,43 @@ legacy-warning-show-legacy = Hiển thị các phần mở rộng kế thừa
 legacy-extensions =
     .value = Phần mở rộng kế thừa
 legacy-extensions-description = Các phần mở rộng này không đáp ứng tiêu chuẩn hiện tại của { -brand-short-name } do đó chúng đã bị ngừng hoạt động. <label data-l10n-name="legacy-learn-more">Tìm hiểu về các thay đổi tiện ích</label>
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Tất cả tiện ích đã bị vô hiệu hóa bởi chế độ an toàn.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Việc kiểm tra tính tương thích của tiện ích đã bị vô hiệu hóa. Có thể bạn đang dùng các tiện ích không còn tương thích nữa.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Bật
+    .tooltiptext = Kích hoạt kiểm tra tính tương thích của tiện ích
+extensions-warning-update-security-label =
+    .value = Việc kiểm tra tính an toàn của các cập nhật tiện ích đã bị vô hiệu hóa. Bạn có thể bị tổn hại nếu cập nhật.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Bật
+    .tooltiptext = Kích hoạt kiểm tra tính bảo mật của cập nhật cho tiện ích
+
+## Strings connected to add-on updates
+
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-none-found =
+    .value = Không tìm thấy cập nhật
