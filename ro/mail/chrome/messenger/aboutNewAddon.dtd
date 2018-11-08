@@ -7,7 +7,7 @@
                           &brandShortName; cu următorul supliment:">
 <!ENTITY warning         "Instalează suplimente doar de la autori în care ai încredere.">
 <!ENTITY allow           "Permite această instalare">
-<!ENTITY later           "Poți reveni oricând accesând 
+<!ENTITY later           "Poți să revii oricând accesând 
                           Managerul de suplimente.">
 <!ENTITY continue        "Continuă">
 <!ENTITY restartMessage  "Trebuie să repornești &brandShortName; pentru a finaliza instalarea acestui supliment.">
