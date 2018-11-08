@@ -135,3 +135,80 @@ legacy-warning-show-legacy = Mussar las extensiuns obsoletas
 legacy-extensions =
     .value = Extensiuns obsoletas
 legacy-extensions-description = Questas extensiuns na correspundan betg als standards actuals da { -brand-short-name } ed èn perquai deactivadas. <label data-l10n-name="legacy-learn-more">Vegnir a savair dapli davart las midadas per supplements</label>
+extensions-view-discover =
+    .name = Catalog
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Ultimas actualisaziuns
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Actualisaziuns disponiblas
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Tut ils supplements èn vegnids deactivads dal modus segirà.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Il test da cumpatibilitad per supplements è deactivà. I po esser che supplements incumpatibels èn installads.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Activar
+    .tooltiptext = Activar il test da cumpatibilitad dals supplements
+extensions-warning-update-security-label =
+    .value = Il test da segirezza per l'actualisaziun da supplements è deactivà. Eventualmain pon actualisaziuns donnegiar tes computer.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Activar
+    .tooltiptext = Activar il test da segirezza per l'actualisaziun da supplements
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Tschertgar actualisaziuns
+    .accesskey = T
+extensions-updates-view-updates =
+    .label = Mussar las ultimas actualisaziuns
+    .accesskey = a
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Actualisar automaticamain ils supplements
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Midar tut ils supplements sin l'actualisaziun automatica
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = Midar tut ils supplements sin l'actualisaziun manuala
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Ils supplements vegnan actualisads
+extensions-updates-installed =
+    .value = Tes supplements èn vegnids actualisads.
+extensions-updates-downloaded =
+    .value = Las actualisaziuns dals supplements èn vegnidas telechargiadas.
+extensions-updates-restart =
+    .label = Reaviar ussa per terminar l'installaziun
+extensions-updates-none-found =
+    .value = Chattà naginas actualisaziuns
+extensions-updates-manual-updates-found =
+    .label = Mussar las actualisaziuns disponiblas
+extensions-updates-update-selected =
+    .label = Installar las actualisaziuns
+    .tooltiptext = Installar las actualisaziuns disponiblas en questa glista
