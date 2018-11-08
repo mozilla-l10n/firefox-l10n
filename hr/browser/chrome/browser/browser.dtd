@@ -23,10 +23,14 @@
 <!ENTITY  reloadTab.accesskey                "v">
 <!ENTITY  reloadAllTabs.label                "Osvježi sve kartice">
 <!ENTITY  reloadAllTabs.accesskey            "v">
+<!ENTITY  selectAllTabs.label                "Odaberi sve kartice">
+<!ENTITY  selectAllTabs.accesskey            "s">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Dupliciraj karticu">
 <!ENTITY  duplicateTab.accesskey             "D">
+<!ENTITY  closeTabOptions.label              "Opcije zatvaranja kartica">
+<!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -35,22 +39,33 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Zatvori ostale kartice">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+<!ENTITY  closeSelectedTabs.label            "Zatvori odabrane kartice">
+<!ENTITY  closeSelectedTabs.accesskey        "d">
 
 <!ENTITY  closeTabs.label                    "Zatvori kartice">
+<!ENTITY  closeTabs.accesskey                "Z">
 <!ENTITY  pinSelectedTabs.label              "Zakači kartice">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY  pinSelectedTabs.accesskey          "a">
 <!ENTITY  unpinSelectedTabs.label            "Otkači kartice">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY  unpinSelectedTabs.accesskey        "t">
 <!-- Reload Tab and Reload Selected Tabs have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadSelectedTabs.label           "Osvježi odabrane kartice">
+<!ENTITY  reloadSelectedTabs.accesskey       "r">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Osvježi kartice">
+<!ENTITY  reloadTabs.accesskey               "r">
+<!ENTITY  bookmarkSelectedTabs.label         "Zabilježi kartice…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkSelectedTabs.accesskey     "b">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -75,16 +90,29 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "u">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Pomakni karticu">
+<!ENTITY  moveTabOptions.accesskey           "m">
+<!ENTITY  moveSelectedTabOptions.label       "Pomakni kartice">
+<!ENTITY  moveSelectedTabOptions.accesskey   "m">
+<!ENTITY  moveToStart.label                  "Pomakni na početak">
+<!ENTITY  moveToStart.accesskey              "p">
+<!ENTITY  moveToEnd.label                    "Pomakni na kraj">
+<!ENTITY  moveToEnd.accesskey                "k">
 <!ENTITY  moveToNewWindow.label              "Premjesti u novi prozor">
 <!ENTITY  moveToNewWindow.accesskey          "z">
+<!ENTITY  reopenInContainer.label            "Ponovno otvori u spremniku">
+<!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Zabilježi sve kartice…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
+<!ENTITY  bookmarkTab.label                  "Zabilježi karticu">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "b">
 <!ENTITY  undoCloseTab.label                 "Poništi zatvaranje kartice">
 <!ENTITY  undoCloseTab.accesskey             "P">
 <!ENTITY  closeTab.label                     "Zatvori karticu">
 <!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  hiddenTabs.label                   "Skrivene kartice">
 
 <!ENTITY  listAllTabs.label      "Popis svih tabova">
 
@@ -123,18 +151,28 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Zabilježi sve kartice…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
 
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Osvježi odabranu karticu">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "r">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Osvježi odabrane kartice">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "r">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Zabilježi odabranu karticu…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "t">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Zabilježi odabrane kartice…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "t">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Odaberi sve kartice">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "s">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Poništi zatvaranje kartice">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "P">
 
@@ -249,6 +287,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Otvori ploču s porukama">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Otvori ploču sa zahtjevima lokacije">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Otvori ploču za automatsku reprodukciju">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Otvori ploču s informacijama o instaliranim dodacima">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Upravljanje dozvolama za ekstrakciju canvasa">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Otvori ploču s informacijama o lokalnom pohranjivanju">
@@ -274,7 +313,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ovoj ste stranici zabranili slanje obavijesti.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Ovoj ste stranici zabranili mogućnost trajne pohrane podataka.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Blokirali ste pop-up prozore za ovu web stranicu.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Ovoj ste stranici zabranili automatsko reproduciranje medija sa zvukom.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Blokirali ste izvoz canvas podataka za ovu web stranicu.">
+<!ENTITY urlbar.flashPluginBlocked.tooltip       "Ovoj ste stranici zabranili korištenje Adobe Flash dodatka.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži povijest">
 
@@ -282,6 +323,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Početna stranica">
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; početna stranica">
 
 <!ENTITY bookmarksButton.label          "Zabilješke">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -983,6 +1025,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
