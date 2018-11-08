@@ -45,5 +45,10 @@ features-performance-desc = 병목 현상을 제거하고, 프로세스를 간�
 features-memory-title = 메모리
 features-memory-desc = 메모리 누수를 찾아 응용 프로그램을 빠르게 만듭니다. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = 구독 요청을 실패하였습니다({ $errorDescription }).
+newsletter-error-unknown = 예상치못한 오류가 발생했습니다.
+newsletter-error-timeout = 구독 요청이 시간 초과되었습니다.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = 개발자 도구가 성공적으로 활성화되었습니다! 시작하려면, 웹 개발자 메뉴를 탐색하거나 { $shortcut }를 사용하여 도구를 여세요.
