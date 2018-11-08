@@ -130,22 +130,52 @@ legacy-warning-show-legacy = Opaite mba'ejoapyrã jehecha
 legacy-extensions =
     .value = Opaite mba'ejoapyrã
 legacy-extensions-description = Ko'ã jepysokue ndoguerekói { -brand-short-name } tekoguatarã oñembogue hag̃ua. <label data-l10n-name="legacy-learn-more">Maranduve moĩmbaha moambue rehegua</label>
+extensions-view-discover =
+    .name = Moĩmbaha rupity
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Ñembohekopyahu ramovéva
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Ñembohekopyahu eipurukuaáva
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Opaite moĩmbaha oñemongepáma teko jerovia rupi.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Ojueheguáva jehechajey moĩmbaha reheguáva oñemongéma. Ikatu oguereko heta juehegua'ỹva.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Myandy
+    .tooltiptext = Ojueheguáva jehechajey moimbaha reheguáva myandy.
+extensions-warning-update-security-label =
+    .value = Tekorosãrã jehechajey moĩmbaha rehegua oñemongéma. Ikatu ehecha nde rekorosãrã oñembyaikuaáva embohekopyahu aja.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Myandy
+    .tooltiptext = Emyandy jehechajey moimbaha rekorosãrã reheguáva
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Ñembohekopyahu jeheka
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = Ñembohekopyahu ramovéva jehecha
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Moĩmbaha ijeheguietéva mbohekopyahu
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -153,6 +183,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Emboheko opaite umi moimbaha oñembohekopyahu hag̃ua ijeheguiete
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = Emboheko opaite moĩmbaha oñembohekopyahu hag̃uáicha pópe
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Moimbaha hekopyahuhína
+extensions-updates-installed =
+    .value = Oñembohekopyahúma nemoimbaha.
+extensions-updates-downloaded =
+    .value = Ne moĩmbaha rehegua ñembohekopyahu oñemboguejypáma.
+extensions-updates-restart =
+    .label = Emoñepyrujey ko'ág̃a emohenda hag̃ua
+extensions-updates-none-found =
+    .value = Ndojejuhúi ñembohekopyahu
+extensions-updates-manual-updates-found =
+    .label = Ehecha ñembohekopyahu eipurukuaáva
+extensions-updates-update-selected =
+    .label = Ñembohekopyahu mohenda
+    .tooltiptext = Ñembohekopyahu eipurukuaáva ko tysýi pegua mohenda
