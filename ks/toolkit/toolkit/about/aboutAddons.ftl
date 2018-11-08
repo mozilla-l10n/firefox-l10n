@@ -104,3 +104,80 @@ detail-rating =
     .value = ریٹینگ
 addon-restart-now =
     .label = وئن كریو دوبارئ شروع
+extensions-view-discover =
+    .name = یڈ آنس انیو
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = حالئك اپڈیٹس
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = دستیاب اپڈیٹس
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = سٲری ایڈ آنس چھَ ناممكن بناونئ آمِت سیف موڈ كئ زریع
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = ایڈ۔آن کمپیٹیبیلٹی چکینگ چھ ڈیسیبلْڈ۔ توہیہ ما آسن اِن کمپیٹیبْل ایڈ۔آن۔
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = مجاز
+    .tooltiptext = ایڈ آں رلُن جانچ بنٲویو ممكن
+extensions-warning-update-security-label =
+    .value = ایڈ۔آن اپڈیٹ حفاظت چکینگ چھ ڈیسیبْل کرنْہ آمْژ۔ توہیہ ما أسیو کمپرومایز کورمُت اپڈیٹو ذریعہ۔
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = مجاز
+    .tooltiptext = ایڈ آن اپ ڈیٹ حفٲظتی جانچ بنٲویو ممكن
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = اپڈیٹس خٲطرئ ركیو جانچ
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = حالئك اپڈیٹس وچھیو
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = ایڈ آنس كریو اپ ڈیٹ پانٲی
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = ری سیٹ كریو سٲری اپڈیٹس پانٲی اپڈیٹ كرنئ خٲطر
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = ری سیٹ كریو سٲری اپڈیٹس ٳَتھ سٲتھ اپڈیٹ كرنئ خٲطر
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = ایڈ آنس اپڈيٹ كران
+extensions-updates-installed =
+    .value = تُہِند ایڈ آنس چھَ اپ ڈیٹ آمِت كرنئ
+extensions-updates-downloaded =
+    .value = تُہِند ایڈ آنس چھَ ڈاونلون  آمِت كرنئ
+extensions-updates-restart =
+    .label = اِنسٹالیشن مكمل كرنئ خٲطرئ كریو دوبارئ شروع
+extensions-updates-none-found =
+    .value = كہین اپڈیٹ آی نئ اتھی
+extensions-updates-manual-updates-found =
+    .label = دستیاب اپ ڈيٹس وچھیو
+extensions-updates-update-selected =
+    .label = اپڈیٹس كریو اِنسٹال
+    .tooltiptext = یَتھ فہرستس منز دستیاب  اپڈیٹس كریو  اِنسٹال
