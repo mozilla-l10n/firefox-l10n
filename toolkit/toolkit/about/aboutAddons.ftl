@@ -183,11 +183,18 @@ extensions-updates-reset-updates-to-manual =
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Nana hesɗitina ɓeyditte
 extensions-updates-installed =
     .value = Ɓeyditte maa kesɗitinaama.
 extensions-updates-downloaded =
     .value = Kesɗitine ɓeyditte maa ngaawtaama.
+extensions-updates-restart =
+    .label = Hurmitin jooni ngam jokkitde aafgol
 extensions-updates-none-found =
     .value = Alaa kesɗitine njiytaa
 extensions-updates-manual-updates-found =
     .label = Hollir Kesɗitine Goodaaɗe
+extensions-updates-update-selected =
+    .label = Aaf Kesɗitine
+    .tooltiptext = Aaf kesɗitine goodaaɗe e ngol doggol
