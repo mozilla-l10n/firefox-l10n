@@ -133,15 +133,36 @@ legacy-warning-show-legacy = Pamerkan ekstensi legasi
 legacy-extensions =
     .value = Ekstensi Legasi
 legacy-extensions-description = Ekstensi berikut tidak memenuhi piawai { -brand-short-name } oleh itu dinyahaktifkan. <label data-l10n-name="legacy-learn-more">Ketahui lanjut perubahan add-ons</label>
+extensions-view-discover =
+    .name = Dapatkan Add-ons
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Kemaskini Terkini
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Kemaskini Tersedia
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Semua add-ons telah dinyahdayakan oleh mod selamat.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Pemeriksaan kesesuaian add-on telah dinyahdayakan. Anda mungkin mempunyai add-on yang tidak sesuai.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Dayakan
+    .tooltiptext = Dayakan semakan kesesuaian add-on
+extensions-warning-update-security-label =
+    .value = Semakan keselamatan kemaskini add-on telah dinyahdayakan. Anda mungkin terdedah kepada bahaya ketika mengemaskini.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Dayakan
+    .tooltiptext = Dayakan semakan keselamatan kemaskini add-on
 
 ## Strings connected to add-on updates
 
@@ -149,6 +170,9 @@ extensions-warning-update-security-container =
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Kemaskini Add-ons secara Automatik
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -161,5 +185,16 @@ extensions-warning-update-security-container =
 
 extensions-updates-updating =
     .value = Mengemaskini add-on
+extensions-updates-installed =
+    .value = Add-ons anda telah dikemaskini.
+extensions-updates-downloaded =
+    .value = Kemaskini add-on anda telah dimuat turun.
 extensions-updates-restart =
     .label = Mulakan semula sekarang untuk melengkapkan pemasangan
+extensions-updates-none-found =
+    .value = Tiada kemaskini ditemui
+extensions-updates-manual-updates-found =
+    .label = Papar Kemaskini Tersedia
+extensions-updates-update-selected =
+    .label = Pasang Kemaskini
+    .tooltiptext = Pasang kemaskini yang tersedia di dalam senarai ini
