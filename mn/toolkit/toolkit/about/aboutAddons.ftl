@@ -11,13 +11,22 @@ detail-home-value =
     .value = { detail-home.label }
 detail-repository-value =
     .value = { detail-repository.label }
+extensions-view-discover =
+    .name = Нэмэгдлүүд авах
+    .tooltiptext = { extensions-view-discover.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Бүх нэмэгдлүүд хамгаалалтын горимд хоригдсон.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Нэмэгдлүүдийн тохиромжтой эсэхийг шалгах нь хоригдсон. Танд тохиромжгүй нэмэгдлүүд байж магадгүй.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-label =
+    .value = Нэмэгдлийн аюулгүйн нууцлалын шинэчлэл тохиргоо хоригдсон байна. Шинэчлэх явцад танд анхааруулах болно.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 
