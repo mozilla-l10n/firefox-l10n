@@ -166,6 +166,12 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Semak Kemaskini
+    .accesskey = e
+extensions-updates-view-updates =
+    .label = Papar Kemaskini Terbaru
+    .accesskey = P
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -180,6 +186,12 @@ extensions-updates-update-addons-automatically =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Set semula Semua Add-ons untuk Kemaskini Automatik
+    .accesskey = u
+extensions-updates-reset-updates-to-manual =
+    .label = Set semula Semua Add-ons Untuk Kemaskini Manual
+    .accesskey = n
 
 ## Status messages displayed when updating add-ons
 
