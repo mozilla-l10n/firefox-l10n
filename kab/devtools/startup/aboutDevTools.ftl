@@ -45,5 +45,10 @@ features-performance-desc = Kkes tineqqiḍin isewḥalen, ṣeggem ikalan akked
 features-memory-title = Takatut
 features-memory-desc = Af-d takatut itef̣f̣ɣen udiɣ snerni timellit n usnas-ik. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Tuttra n ujerred tecceḍ ({ $errorDescription }).
+newsletter-error-unknown = Teḍra-d tuccḍa.
+newsletter-error-timeout = Tuttra n ujerred tfat.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Tremdeḍ akken iwata ifecka n uneflay! akken ad tebduḍ, snirem umuγ n uneflay web neγ ldi ifecka s { $shortcut }.
