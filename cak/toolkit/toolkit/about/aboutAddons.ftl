@@ -121,22 +121,52 @@ legacy-warning-show-legacy = Kek'ut pe ri kochin taq k'amal
 legacy-extensions =
     .value = Kochin taq K'amal
 legacy-extensions-description = Re taq k'amal re' man nikik'äm ta ki' rik'in current { -brand-short-name } taq rub'eyal richin chi xechuputäj. <label data-l10n-name="legacy-learn-more">Tetamäx chi kij ri kijaloj taq tzaqät</label>
+extensions-view-discover =
+    .name = Kek'ulutäj ri taq tz'aqat
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = K'ak'a' taq k'exoj
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Taq k'exoj e k'o
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Konojel ri taq tz'aqat xechup pa ri ütz rub'eyal.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Chupül ri runuk'oxik richin we nikik'äm ki' ri taq tz'aqat. Rik'in jub'a' k'o jujun taq tz'aqat, ri man nikik'äm ta ki'.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Titzij
+    .tooltiptext = Titzij ri runik'oxik richin chi nikik'äm ki' ri taq tz'aqat.
+extensions-warning-update-security-label =
+    .value = Chupül ri runik'oxik chajinïk richin kik'exoj taq tz'aqat. Rik'in jub'a' k'o pa k'ayewal ri awokik'amaya'l kuma ri taq k'exoj.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Titzij
+    .tooltiptext = Titzij ri ya'öl retal chajinïk richin nik'ex ri tz'aqat
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Kekanöx taq k'exoj
+    .accesskey = K
+extensions-updates-view-updates =
+    .label = Ketz'et k'ak'a' taq k'exoj
+    .accesskey = K
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = kek'ex taq tz'aqat pa kiyonil
+    .accesskey = k
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -144,6 +174,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Titzolïx chi kij konojel ri taq tz'aqat richin kek'ex pa kiyonil
+    .accesskey = T
+extensions-updates-reset-updates-to-manual =
+    .label = Titzolïx chi kij konojel ri taq tz'aqat richin kek'ex pa chi q'ab'aj.
+    .accesskey = T
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Tajin yek'ex ri taq tz'aqat
+extensions-updates-installed =
+    .value = Xek'extäj re taq atz'aqat re'.
+extensions-updates-downloaded =
+    .value = Xeq'at ri kik'exoj ri taq atz'aqat.
+extensions-updates-restart =
+    .label = Tatikirisaj chik wakami richin natz'aqatisaj ri yakoj
+extensions-updates-none-found =
+    .value = Majun taq k'exoj ruwäch xe'ilitäj{ " " }
+extensions-updates-manual-updates-found =
+    .label = Ketz'et ri taq k'exoj e k'o
+extensions-updates-update-selected =
+    .label = Keyak taq k'exoj
+    .tooltiptext = Keyak ri taq k'exoj e k'o pa re rucholajem re'
