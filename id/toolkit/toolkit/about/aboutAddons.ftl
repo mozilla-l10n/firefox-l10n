@@ -157,6 +157,9 @@ extensions-warning-update-security-enable =
 extensions-updates-check-for-updates =
     .label = Periksa Versi Baru
     .accesskey = P
+extensions-updates-view-updates =
+    .label = Tampilkan Versi Baru
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
