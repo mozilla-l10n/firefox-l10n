@@ -45,5 +45,10 @@ features-performance-desc = Разблакуйце вузкія месцы, сп
 features-memory-title = Памяць
 features-memory-desc = Знаходзьце ўцечкі памяці і змяншайце яе спажыванне вашым дадаткам. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Збой запыту падпіскі ({ $errorDescription }).
+newsletter-error-unknown = Адбылася нечаканая памылка.
+newsletter-error-timeout = Час чакання падпіскі выйшаў.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Вы паспяхова ўключылі Інструменты распрацоўшчыка! Для пачатку, паглядзіце ў меню Распрацоўшчык Сеціва або адкрыйце прылады праз { $shortcut }.
