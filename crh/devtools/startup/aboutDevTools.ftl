@@ -45,5 +45,10 @@ features-performance-desc = Şişe-boyunlarnı bloksızlaştırıñız, süreçl
 features-memory-title = Hafiza
 features-memory-desc = Hafiza sızmalarını tapıp uyğulamañıznı areketçen yapıñız. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Abunelik istemi muvaffaqiyetsiz ({ $errorDescription }).
+newsletter-error-unknown = Beklenmegen hata asıl oldı.
+newsletter-error-timeout = Abunelik istemi zaman aşımına oğradı.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = İnkişafçı Aletlerini muvaffaqiyet ile qabilleştirgen olasıñız! Başlamaq içün, Ağ İnkişafçısı menüsini keşfetiñiz yaki aletlerni { $shortcut } ile açıñız.
