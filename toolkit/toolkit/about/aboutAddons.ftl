@@ -130,22 +130,52 @@ legacy-warning-show-legacy = Показать устаревшие расшир�
 legacy-extensions =
     .value = Устаревшие расширения
 legacy-extensions-description = Эти расширения не соответствуют текущим стандартам { -brand-short-name }, поэтому они были отключены. <label data-l10n-name="legacy-learn-more">Узнайте об изменениях в дополнениях</label>
+extensions-view-discover =
+    .name = Получить дополнения
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Недавние обновления
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Доступные обновления
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = В безопасном режиме все дополнения отключены.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Проверка совместимости дополнений отключена. У вас могут иметься несовместимые дополнения.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Включить
+    .tooltiptext = Включить проверку совместимости дополнений
+extensions-warning-update-security-label =
+    .value = Проверка безопасного обновления дополнений отключена. Обновления могут поставить вас под угрозу.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Включить
+    .tooltiptext = Включить проверку безопасного обновления дополнений
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Проверить наличие обновлений
+    .accesskey = о
+extensions-updates-view-updates =
+    .label = Показать недавние обновления
+    .accesskey = к
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Автоматически обновлять дополнения
+    .accesskey = в
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -153,6 +183,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Установить для всех дополнений режим автоматического обновления
+    .accesskey = с
+extensions-updates-reset-updates-to-manual =
+    .label = Установить для всех дополнений режим ручного обновления
+    .accesskey = с
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Обновление дополнений
+extensions-updates-installed =
+    .value = Ваши дополнения были обновлены.
+extensions-updates-downloaded =
+    .value = Обновления дополнений загружены.
+extensions-updates-restart =
+    .label = Перезапустить для завершения установки
+extensions-updates-none-found =
+    .value = Обновлений не найдено
+extensions-updates-manual-updates-found =
+    .label = Показать доступные обновления
+extensions-updates-update-selected =
+    .label = Установить обновления
+    .tooltiptext = Установить доступные обновления из этого списка
