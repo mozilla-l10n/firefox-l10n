@@ -17,7 +17,7 @@
 <!ENTITY newSiteButton.accesskey      "n">
 <!ENTITY docDirList.label             "Subdirectorul site-ului pentru această pagină:">
 <!ENTITY docDirList.accesskey         "s">
-<!ENTITY docDirList.tooltip           "Alegeți sau introduceți numele directorului aflat la distanță pentru această pagină">
+<!ENTITY docDirList.tooltip           "Alege sau introdu numele directorului aflat la distanță pentru această pagină">
 <!ENTITY publishImgCheckbox.label     "Include imaginile și celelalte fișiere">
 <!ENTITY publishImgCheckbox.accesskey "I">
 <!ENTITY publishImgCheckbox.tooltip   "Publică imaginile și celelalte fișiere de care are nevoie această pagină">
@@ -27,10 +27,10 @@
 <!ENTITY useSubdirRadio.label         "Folosește acest subdirector de pe site:">
 <!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Publică fișierele în directorul de la distanță selectat">
-<!ENTITY otherDirList.tooltip         "Alegeți sau introduceți numele unui subdirector la distanță unde se vor publica fișierele">
+<!ENTITY otherDirList.tooltip         "Alege sau introdu numele unui subdirector la distanță unde se vor publica fișierele">
 <!ENTITY pageTitle.label              "Titlu pagină:">
 <!ENTITY pageTitle.accesskey          "T">
-<!ENTITY pageTitle.tooltip            "Introduceți un titlu care să identifice pagina în fereastră și în marcaje">
+<!ENTITY pageTitle.tooltip            "Introdu un titlu care să identifice pagina în fereastră și în marcaje">
 <!ENTITY pageTitleExample.label       "ex.: „Pagina mea de web”">
 <!ENTITY filename.label               "Nume fișier:">
 <!ENTITY filename.accesskey           "N">

@@ -10,13 +10,13 @@
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "Trimite">
 <!ENTITY reset.value "Resetează">
-<!ENTITY button.value "buton">
+<!ENTITY button.value "Buton">
 
 <!ENTITY ButtonName.label "Nume:">
 <!ENTITY ButtonName.accesskey "N">
 <!ENTITY ButtonValue.label "Valoare:">
 <!ENTITY ButtonValue.accesskey "V">
-<!ENTITY tabIndex.label "Index tab:">
+<!ENTITY tabIndex.label "Index file:">
 <!ENTITY tabIndex.accesskey "I">
 <!ENTITY ButtonDisabled.label "Dezactivat">
 <!ENTITY ButtonDisabled.accesskey "D">
