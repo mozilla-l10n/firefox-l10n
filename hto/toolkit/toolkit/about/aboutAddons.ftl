@@ -42,3 +42,5 @@ extensions-warning-update-security-container =
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-none-found =
+    .value = Báñeika fɨnofɨnoga
