@@ -22,3 +22,4 @@ features-network-title = నెట్‌వర్కు
 features-storage-title = నిల్వ
 features-performance-title = పనితనం
 features-memory-title = మెమొరీ
+newsletter-error-unknown = అనుకోని లోపం సంభవించింది.
