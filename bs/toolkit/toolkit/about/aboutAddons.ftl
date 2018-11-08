@@ -121,13 +121,23 @@ legacy-warning-show-legacy = Prikaže zastarjele ekstenzije
 legacy-extensions =
     .value = Zastarjele ekstenzije
 legacy-extensions-description = Ove ekstenzije ne zadovoljavaju trenutne { -brand-short-name } standarde i stoga su deaktivirane. <label data-l10n-name="legacy-learn-more">Saznajte više o promjenama na add-onima</label>
+extensions-view-discover =
+    .name = Dobavi Add-one
+    .tooltiptext = { extensions-view-discover.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Svi add-oni su onemogućeni od strane sigurnog režima.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Provjera kompatibilnosti add-ona je onemogućena. Možda imate nekompatibilnih add-ona.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Omogući
+    .tooltiptext = Omogući provjeravanje kompatibilnosti add-ona
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 
@@ -147,3 +157,5 @@ extensions-warning-update-security-container =
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-restart =
+    .label = Restartuj odmah radi kompletiranja instalacije
