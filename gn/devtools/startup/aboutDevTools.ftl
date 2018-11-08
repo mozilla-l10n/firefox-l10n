@@ -45,5 +45,10 @@ features-performance-desc = Embojera pa'ã renda, emyatyrõ mba'eapo ha eipuruku
 features-memory-title = Mandu'arenda
 features-memory-desc = Ejuhu mandu'arenda kañymby ha eguerekóta tembipuru'i ipya'éva. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Ne mba'e jerure ojavy ({ $errorDescription }).
+newsletter-error-unknown = Oiko jejavy ñeha'arõ'ỹva
+newsletter-error-timeout = Opáma ndehegui aravo eñemboheraguapy hag̃ua.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = ¡Emyandy hendaitépe mboguatahára rembipuru! Eñepyrũvo, ehapykueho ñanduti mboguatahára menu térã eike { $shortcut } rembipurúpe.
