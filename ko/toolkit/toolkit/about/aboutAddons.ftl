@@ -130,3 +130,77 @@ legacy-warning-show-legacy = 오래된 확장 기능 보기
 legacy-extensions =
     .value = 오래된 확장 기능
 legacy-extensions-description = 이 확장 기능들은 현재 { -brand-short-name } 표준에 맞지 않으므로 비활성화되었습니다. <label data-l10n-name="legacy-learn-more">부가 기능의 변경 내용 알아보기</label>
+extensions-view-discover =
+    .name = 추천
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = 최근 항목 보기
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = 업데이트 가능 항목
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = 안전 모드에서 부가 기능 전체를 사용할 수 없습니다.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = 부가 기능 호환성 확인 기능을 중단 합니다. 호환성이 맞지 않을 수 있습니다.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-label =
+    .value = 부가 기능 업데이트 보안 확인 기능을 중단 합니다. 업데이트가 보안 문제를 일으킬 수 있습니다.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = 취소
+    .tooltiptext = 부가 기능 업데이트 보안 확인 기능 사용
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = 업데이트 확인하기
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = 최신 업데이트 보기
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = 자동 업데이트 하기
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = 자동 업데이트 설정
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = 자동 업데이트 설정 해제
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = 업데이트 확인 중
+extensions-updates-installed =
+    .value = 업데이트가 완료되었습니다.
+extensions-updates-downloaded =
+    .value = 부가 기능 업데이트를 다운로드 완료 했습니다.
+extensions-updates-restart =
+    .label = 설치를 완료하려면 다시 시작 하십시오.
+extensions-updates-none-found =
+    .value = 최신 업데이트 없음
+extensions-updates-manual-updates-found =
+    .label = 업데이트 가능 항목 보기
+extensions-updates-update-selected =
+    .label = 업데이트 설치
+    .tooltiptext = 현재 목록 내 업데이트 설치하기
