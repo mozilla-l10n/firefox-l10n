@@ -128,3 +128,80 @@ plugin-deprecation-description = کسی شہ کی کمی ہے؟ { -brand-short-n
 legacy-warning-show-legacy = میراث توسیعات دکھائیں
 legacy-extensions =
     .value = میراث ایکسٹینشن
+extensions-view-discover =
+    .name = ایڈ اون لائیں
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = حالیہ تازہ کاریاں
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = دستیاب تازہ کاریاں
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = محفوظ موڈ کے تحت تمام ایڈ اون نا اہل ہیں۔
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = ایڈ اون موازنت کی پڑتال نا اہل ہے۔ آپ کے پاس غیر موازن ایڈ اون ہو سکتے ہیں۔
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = اہل بنائیں
+    .tooltiptext = ایڈ اون موازنت پڑتال اہل بنائیں
+extensions-warning-update-security-label =
+    .value = ایڈ اون سلامتی پڑتال نا اہل ہے۔ آپ کو تازہ کاریوں سے مسلہ ہو سکتا ہے۔
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = اہل بنائیں
+    .tooltiptext = ایڈ اون تازہ کاری سلامتی پڑتال کو اہل بنائیں
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = تازہ کاریوں کے لیے پڑتال کریں
+    .accesskey = پ
+extensions-updates-view-updates =
+    .label = حالیہ تازہ کاریاں نظارہ کریں
+    .accesskey = ن
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = ایڈ اون خود بخود تازہ کریں
+    .accesskey = ا
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = تما ایڈ اون کو خود بخود تازہ ہونے کے لیے پھر سیٹ کریں
+    .accesskey = پ
+extensions-updates-reset-updates-to-manual =
+    .label = تما ایڈ اون کو دستی بہ تازہ ہونے کے لیے پھر سیٹ کریں
+    .accesskey = پ
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = ایڈ اون تازہ کر رہا ہے
+extensions-updates-installed =
+    .value = آپ کے ایڈ اون تازہ ہو گئے ہیں۔
+extensions-updates-downloaded =
+    .value = آپ کے ایڈ اون ڈاؤن لوڈ ہو گئے ہیں۔
+extensions-updates-restart =
+    .label = تنصیب مکمل کرنے کے لیے ابھی دوباره شروع کریں
+extensions-updates-none-found =
+    .value = کوئی تازہ کاریاں نہیں ملیں
+extensions-updates-manual-updates-found =
+    .label = دستیاب تازہ کاریاں نظارہ کریں
+extensions-updates-update-selected =
+    .label = تازہ کاریاں تنصیب کریں
+    .tooltiptext = اس فہرست میں دستیاب تازہ کاریاں تنصیب کریں
