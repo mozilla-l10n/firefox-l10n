@@ -121,3 +121,80 @@ legacy-warning-show-legacy = Amostrar las extensions obsoletas
 legacy-extensions =
     .value = Extensions obsoletas
 legacy-extensions-description = Estas extensions no respondern a las exichencias actuals de { -brand-short-name }, pero lo qual s'han desactivau. <label data-l10n-name="legacy-learn-more">Saber mas sobre los cambios en as extensions</label>
+extensions-view-discover =
+    .name = Mas complementos
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Actualizacions recients
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Actualizacions disponibles
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = O modo seguro ha desactivau totz os complementos.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = A comprebación de compatibilidad d'os complementos ye desactivada. Puestar tienga complementos incompatibles.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Activar
+    .tooltiptext = Activar a comprebación de compatibilidad d'os complementos
+extensions-warning-update-security-label =
+    .value = A comprebación de seguranza d'os complementos ye desactivada. As actualizacions podrían meter-le en risque.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Activar
+    .tooltiptext = Activar a comprebación de seguranza d'os complementos
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Mirar si i hai actualizacions
+    .accesskey = M
+extensions-updates-view-updates =
+    .label = Veyer as actualizacions recients
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Esviellar os complementos automaticament
+    .accesskey = E
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Reiniciar totz os complementos ta que s'esviellen automaticament
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = Reiniciar totz os complementos ta que s'esviellen manualment
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Se son actualizando os complementos
+extensions-updates-installed =
+    .value = S'han actualizau os suyos complementos.
+extensions-updates-downloaded =
+    .value = S'han descargau as actualizacions d'os suyos complementos.
+extensions-updates-restart =
+    .label = Reiniciar agora ta completar l'instalación
+extensions-updates-none-found =
+    .value = No s'ha trobau garra actualización
+extensions-updates-manual-updates-found =
+    .label = Veyer as actualizacions disponibles
+extensions-updates-update-selected =
+    .label = Instalar as actualizacions
+    .tooltiptext = Instalar as actualizacions disponibles en ista lista
