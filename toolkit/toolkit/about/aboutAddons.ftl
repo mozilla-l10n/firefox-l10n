@@ -123,6 +123,9 @@ legacy-warning-show-legacy = הצגת הרחבות דור קודם
 legacy-extensions =
     .value = הרחבות מדור קודם
 legacy-extensions-description = הרחבות אלו לא עומדות בתקנים הנוכחיים של { -brand-short-name } ולכן כובו. <label data-l10n-name="legacy-learn-more">מידע נוסף על השינויים בתוספות</label>
+extensions-view-discover =
+    .name = קבלת תוספות
+    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = עדכונים אחרונים
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -140,13 +143,22 @@ extensions-warning-check-compatibility-label =
     .value = בדיקת תאימות תוספות מנוטלת. ייתכן וברשותך הרחבות לא תואמות.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = הפעלה
+    .tooltiptext = הפעלת בדיקת תאימות תוספות
 extensions-warning-update-security-label =
     .value = בדיקת האבטחה של התוספות כרגע מנוטרלת. עדכונים לתוספות עלולים לסכן אותך.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = הפעלה
+    .tooltiptext = הפעלת בדיקות אבטחה לעדכוני תוספות
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = בדיקת עדכונים
+    .accesskey = ב
 extensions-updates-view-updates =
     .label = הצגת עדכונים אחרונים
     .accesskey = ה
@@ -164,6 +176,12 @@ extensions-updates-update-addons-automatically =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = איפוס כל התוספות לעדכון אוטומטי
+    .accesskey = א
+extensions-updates-reset-updates-to-manual =
+    .label = איפוס כל התוספות לעדכון ידני
+    .accesskey = א
 
 ## Status messages displayed when updating add-ons
 
@@ -173,5 +191,12 @@ extensions-updates-installed =
     .value = התוספות שלך עודכנו.
 extensions-updates-downloaded =
     .value = עדכוני התוספות שלך הורדו.
+extensions-updates-restart =
+    .label = הפעלה מחדש כעת להשלמת ההתקנה
 extensions-updates-none-found =
     .value = לא נמצאו עדכונים
+extensions-updates-manual-updates-found =
+    .label = הצגת עדכונים זמינים
+extensions-updates-update-selected =
+    .label = התקנת עדכונים
+    .tooltiptext = התקנת העדכונים הזמינים ברשימה זו
