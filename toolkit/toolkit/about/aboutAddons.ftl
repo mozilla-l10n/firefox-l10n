@@ -126,6 +126,9 @@ legacy-warning-show-legacy = Εμφάνιση επεκτάσεων παλαιο�
 legacy-extensions =
     .value = Επεκτάσεις παλαιού τύπου
 legacy-extensions-description = Αυτές οι επεκτάσεις δεν πληρούν τα τρέχοντα κριτήρια του { -brand-short-name }, επομένως έχουν απενεργοποιηθεί. <label data-l10n-name="legacy-learn-more">Μάθετε σχετικά με τις αλλαγές στα πρόσθετα</label>
+extensions-view-discover =
+    .name = Λήψη προσθέτων
+    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Πρόσφατες ενημερώσεις
     .tooltiptext = { extensions-view-recent-updates.name }
