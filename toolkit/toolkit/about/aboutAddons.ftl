@@ -130,22 +130,52 @@ legacy-warning-show-legacy = Prikaži zastarjele dodatke
 legacy-extensions =
     .value = Zastarjeli dodaci
 legacy-extensions-description = Ovi dodaci ne zadovoljavaju trenutne { -brand-short-name } standarde te se isključeni. <label data-l10n-name="legacy-learn-more">Saznajte o promjenama u dodacima</label>
+extensions-view-discover =
+    .name = Pronađi dopune
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Nedavne dopune
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Dostupne dopune
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Sve je dodatke onemogućio sigurnosni način rada.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Provjera kompatibilnosti dodataka je isključena. Možda imate nekompatibilne dodatke.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Omogući
+    .tooltiptext = Omogući provjeru kompatibilnosti dodataka
+extensions-warning-update-security-label =
+    .value = Provjera dostupnosti sigurnosnih dopuna za dodatke je onemogućena. Dodacima možda nedostaju sigurnosne dopune.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Omogući
+    .tooltiptext = Omogući provjeru dostupnosti sigurnosnih dopuna za dodatke
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Provjeri dostupnost dopuna
+    .accesskey = d
+extensions-updates-view-updates =
+    .label = Prikaži nedavne dopune
+    .accesskey = v
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Automatski ažuriraj dodatke
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -153,6 +183,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Postavi automatsko ažuriranje za sve dodatke
+    .accesskey = r
+extensions-updates-reset-updates-to-manual =
+    .label = Postavi ručno ažuriranje za sve dodatke
+    .accesskey = r
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Ažuriranje dodataka
+extensions-updates-installed =
+    .value = Vaši su dodaci ažurirani.
+extensions-updates-downloaded =
+    .value = Dopune za vaše dodatke su preuzete.
+extensions-updates-restart =
+    .label = Ponovno pokreni odmah za dovršetak instalacije
+extensions-updates-none-found =
+    .value = Nisu pronađene dopune
+extensions-updates-manual-updates-found =
+    .label = Prikaži dostupne dopune
+extensions-updates-update-selected =
+    .label = Instaliraj dopune
+    .tooltiptext = Instaliraj dostupne dopune s ovog popisa
