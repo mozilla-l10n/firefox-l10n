@@ -121,3 +121,50 @@ legacy-warning-show-legacy = सर्व वारसा विस्तार 
 legacy-extensions =
     .value = वारसा विस्तार
 legacy-extensions-description = हे विस्तार सध्याच्या { -brand-short-name } मानकांमध्ये बसत नाही म्हणून ते निष्क्रिय करण्यात आले आहेत. <label data-l10n-name="legacy-learn-more">ॲड-ऑन्सबद्दल बदल जाणा</label>
+extensions-view-recent-updates =
+    .name = नुकतीच सुधारणा
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = उपलब्ध सुधारणा
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = सुधारणांकरीता तपासणी करा
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = नुकत्याच सुधारणांचे दृष्य
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-restart =
+    .label = प्रतिष्ठापन पूर्ण करण्यासाठी आत्ता पुनःचालू करा
+extensions-updates-none-found =
+    .value = सुधारणा आढळले नाही
+extensions-updates-manual-updates-found =
+    .label = उपलब्ध सुधारणांचे दृष्य
+extensions-updates-update-selected =
+    .label = सुधारणा प्रतिष्ठापीत करा
+    .tooltiptext = या सूचीतील उपलब्ध सुधारणा प्रतिष्ठापीत करा
