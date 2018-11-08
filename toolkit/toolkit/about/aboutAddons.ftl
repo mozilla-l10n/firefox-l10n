@@ -121,22 +121,52 @@ legacy-warning-show-legacy = જૂના એક્સ્ટેન્શન્�
 legacy-extensions =
     .value = જૂના એક્સ્ટેન્શન્સ
 legacy-extensions-description = આ એક્સ્ટેન્શન્સ વર્તમાન { -brand-short-name } ધોરણો મળતા નથી જેથી તેઓ નિષ્ક્રિય કરવામાં આવેલ છે. <label data-l10n-name="legacy-learn-more">ઍડ-ઑન્સમાં ફેરફારો વધુ શીખો</label>
+extensions-view-discover =
+    .name = ઍડ-ઓનને મેળવો
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = તાજેતરનાં સુધારાઓ
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = ઉપલબ્ધ સુધારાઓ
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = બધા ઍડ-ઓન સલામત સ્થિતિ દ્દારા નિષ્ક્રિય કરી દેવામાં આવ્યા છે.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = ઍડ-ઓન સુસંગતતા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારી પાસે અસુસંગત ઍડ-ઓન હોઇ શકે છે.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = સક્રિય
+    .tooltiptext = ઍડ-ઓન સુસંગતતા ચકાસણીને સક્રિય કરો
+extensions-warning-update-security-label =
+    .value = ઍડ-ઓન સુધારા સુરક્ષા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારે સુધારાઓ વડે સમાધાન કરી શકો છો.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = સક્રિય
+    .tooltiptext = ઍડ-ઓન સુધારા સુરક્ષા ચકાસણીને સક્રિય કરો
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = સુધારાઓ માટે ચકાસો
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = તાજેતરનાં સુધારાઓને દર્શાવો
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = આપમેળે ઍડ-ઓનને સુધારો
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -144,6 +174,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = આપમેળે સુધારવા માટે બધા ઍડ-ઓનને પુન:સુયોજિત કરો
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = પોતાની જાતે સુધારવા માટે બધા ઍડ-ઓનને પુન:સુયોજિત કરો
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = ઍડ-ઓનને સુધારી રહ્યા છે
+extensions-updates-installed =
+    .value = તમારા ઍડ-ઓનને સુધારી દેવામાં આવ્યા છે.
+extensions-updates-downloaded =
+    .value = તમારા ઍડ-ઓન સુધારાઓને ડાઉનલોડ કરી દેવામાં આવ્યા છે.
+extensions-updates-restart =
+    .label = સ્થાપનને સમાપ્ત કરવા માટે હવે પુન:શરૂ કરો
+extensions-updates-none-found =
+    .value = સુધારાઓ મળ્યા નથી
+extensions-updates-manual-updates-found =
+    .label = ઉપલબ્ધ સુધારાઓને દર્શાવો
+extensions-updates-update-selected =
+    .label = સુધારાઓને સ્થાપિત કરો
+    .tooltiptext = આ યાદીમાં ઉપલબ્ધ સુધારાઓને સ્થાપિત કરો
