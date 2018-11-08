@@ -45,5 +45,10 @@ features-performance-desc = Desbloqueie atrasos, simplifique processos, otimize 
 features-memory-title = Memória
 features-memory-desc = Encontre fugas de memória e torne a sua aplicação estanque. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = A solicitação de subscrição falhou ({ $errorDescription }).
+newsletter-error-unknown = Ocorreu um erro inesperado.
+newsletter-error-timeout = A solicitação de subscrição expirou.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Ativou as ferramentas de programador com sucesso! Para começar, explore o menu de Programador Web ou abra as ferramentas com { $shortcut }.
