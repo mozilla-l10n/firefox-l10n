@@ -130,6 +130,9 @@ legacy-warning-show-legacy = Afișează extensiile obsolete
 legacy-extensions =
     .value = Extensii obsolete
 legacy-extensions-description = Aceste extensii nu îndeplinesc standardele actuale ale { -brand-short-name } astfel încât au fost dezactivate. <label data-l10n-name="legacy-learn-more">Află despre schimbările aduse suplimentelor</label>
+extensions-view-discover =
+    .name = Descarcă suplimente
+    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Actualizări recente
     .tooltiptext = { extensions-view-recent-updates.name }
