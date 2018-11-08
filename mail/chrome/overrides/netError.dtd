@@ -38,31 +38,31 @@
 <!ENTITY notCached.longDesc "<p>Documentul cerut nu este disponibil în cache.</p><ul><li>Ca o măsură de securitate, &brandShortName; nu cere din nou automat documente confidențiale.</li><li>Clic pe „Încearcă din nou” pentru a cere din nou documentul de la site-ul web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
-<!ENTITY netOffline.longDesc2 "<ul> <li>Apăsați pe „Încearcă din nou” pentru comutarea pe modul online și reîncărcați pagina.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Apasă pe „Încearcă din nou” pentru a comuta la modul online și a reîncărca pagina.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Eroare de codare a conținutului">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Vă rugăm să contactați proprietarii site-ului web și informați-i despre această problemă.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Tip de fișier nesigur">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Vă rugăm să contactați proprietarii site-ului web și informați-i despre această problemă.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li> </ul>">
 
-<!ENTITY netReset.title "Conexiunea a fost resetată">
+<!ENTITY netReset.title "Conexiunea a fost reinițializată">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Conexiunea a expirat">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Adresa nu a fost înțeleasă">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>S-ar putea să fie necesară instalarea altui program pentru a deschide adresa.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>S-ar putea să fie nevoie să instalezi alt program pentru a deschide această adresă.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Verificați setările proxy pentru asigurarea că sunt corecte.</li> <li>Contactați administratorul rețelei pentru a vă asigura că serverul proxy funcționează.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Verifică setările proxy pentru a te asigura că sunt corecte.</li> <li>Contactează administratorul rețelei pentru a te asigura că serverul proxy funcționează.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Nu se poate găsi serverul proxy">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Verificați setările proxy pentru asigurarea că sunt corecte.</li> <li>Verificați și calculatorul pentru o conexiune funcțională la rețea.</li> <li>În cazul în care calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigurați-vă că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Verifică setările proxy pentru a te asigura că sunt corecte.</li> <li>Asigură-te că calculatorul are o conexiune funcțională la rețea.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea uneori dacă dezactivați sau refuzați să acceptați cookie-uri.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivezi sau refuzi să accepți cookie-uri.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Verificați dacă sistemul are instalat Managerul personal de securitate.</li> <li>Se poate întâmpla și din cauza unei configurații atipice pe server.</li> </ul>">

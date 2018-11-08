@@ -3,5 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Limita de stocare atinsă">
-<!ENTITY fileExceedsQuota.description "Ai atins limita de stocare a contului de 2GB.">
+<!ENTITY fileExceedsQuota.description "Ai atins limita ta de stocare a contului de 2GB.">
 <!ENTITY fileExceedsQuota.description1 "Utilizarea actuală a spațiului de stocare este de #XXX GB.">
