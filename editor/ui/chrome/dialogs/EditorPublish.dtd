@@ -53,13 +53,13 @@
 <!ENTITY siteUrl.tooltip              "Adresa FTP:// sau HTTP:// furnizată de ISP sau de serviciul de găzduire web">
 <!ENTITY browseUrl.label              "Adresa HTTP a paginii de start (ex.: „http://www.isp.ro/numelemeu”):">
 <!ENTITY browseUrl.accesskey          "A">
-<!ENTITY browseUrl.tooltip            "Adresa HTTP:// a directorului personal (nu include nume de fișier)">
+<!ENTITY browseUrl.tooltip            "Adresa HTTP:// a directorului tău personal (nu include nume de fișier)">
 <!ENTITY username.label               "Nume de utilizator:">
 <!ENTITY username.accesskey           "u">
 <!ENTITY username.tooltip             "Numele de utilizator cu care te autentifici la ISP sau la serviciul de găzduire web">
 <!ENTITY password.label               "Parolă:">
 <!ENTITY password.accesskey           "P">
-<!ENTITY password.tooltip             "Parola asociată numelui de utilizator">
+<!ENTITY password.tooltip             "Parola asociată numelui tău de utilizator">
 <!ENTITY savePassword.label           "Salvează parola">
 <!ENTITY savePassword.accesskey       "S">
 <!ENTITY savePassword.tooltip         "Selectează această opțiune pentru a salva parola securizat folosind managerul de parole">

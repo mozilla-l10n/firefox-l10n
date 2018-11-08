@@ -29,12 +29,12 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; nu poate încărca pagina din motive necunoscute.</p>">
 
 <!ENTITY malformedURI.title "Adresa nu este validă">
-<!ENTITY malformedURI.longDesc "<ul> <li>Adresele web se scriu de obicei așa: <strong>http://www.exemplu.ro/</strong></li> <li>Asigurați-vă că folosiți slash-uri orientate spre dreapta (de ex., <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Adresele web se scriu de obicei așa: <strong>http://www.exemplu.ro/</strong></li> <li>Asigură-te că folosești slash-uri orientate spre dreapta (de ex., <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "Documentul a expirat">
+<!ENTITY notCached.title "Document expirat">
 <!ENTITY notCached.longDesc "<p>Documentul cerut nu este disponibil în cache.</p><ul><li>Ca o măsură de securitate, &brandShortName; nu cere din nou automat documente confidențiale.</li><li>Clic pe „Încearcă din nou” pentru a cere din nou documentul de la site-ul web.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
@@ -65,10 +65,10 @@
 <!ENTITY redirectLoop.longDesc "<ul> <li>Problema poate apărea dacă dezactivezi sau refuzi să accepți cookie-uri.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Răspuns neașteptat de la server">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Verificați dacă sistemul are instalat Managerul personal de securitate.</li> <li>Se poate întâmpla și din cauza unei configurații atipice pe server.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Verifică ca sistemul tău să aibă instalat Personal Security Manager.</li> <li>Aceasta se poate întâmpla și datorită unei configurații nestandard a serverului.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Conexiunea securizată a eșuat">
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>Pagina pe care încercați să o vedeți nu poate fi afișată deoarece autenticitatea datelor primite nu a putut fi verificată.</li> <li>Vă rugăm să contactați proprietarii site-ului web și informați-i despre această problemă.</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Pagina pe care încerci să o vezi nu poate fi afișată deoarece autenticitatea datelor primite nu poate fi verificată.</li> <li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Conexiunea securizată a eșuat">
 <!ENTITY nssBadCert.longDesc2 "
@@ -79,39 +79,34 @@ ar putea să fie cineva care încearcă să uzurpeze identitatea serverului.</li
 temporară și poți încerca din nou mai târziu.</li>
 </ul>">
 
-<!ENTITY sharedLongDesc "<ul> <li>Site-ul poate fi temporar indisponibil sau prea ocupat. Încercați din nou în câteva minute.</li> <li>Dacă nu puteți încărca nicio pagină, verificați conexiunea calculatorului la rețea.</li> <li>În cazul în care calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigurați-vă că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Site-ul ar putea fi indisponibil temporar sau prea ocupat. Încearcă din nou în câteva momente.</li> <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea la rețea a calculatorului.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Blocat de politica de securitate privind conținuturile">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; a împiedicat încărcarea paginii în acest mod deoarece politica de securitate privind conținutul nu o permite.</p>">
+<!ENTITY cspBlocked.title "Blocat de politica de securitate asupra conținutului">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Eroare cauzată de conținut corupt">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Conținutul pe care încercați să îl vedeți nu poate fi afișat deoarece a fost detectată o eroare în transmisia de date.</p><ul><li>Vă rugăm să contactați proprietarii site-ului web și informați-i despre această problemă.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Conținutul pe care încerci să-l vezi nu poate fi afișat deoarece a fost detectată o eroare în transmisia de date.</p><ul><li>Te rugăm să contactezi proprietarii site-ului pentru a-i informa despre această problemă.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Sau, puteți adăuga o excepție…">
+<!ENTITY securityOverride.linkText "Sau, poți adăuga o excepție…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Du-mă de aici!">
-<!ENTITY securityOverride.exceptionButtonLabel "Adaugă o excepție…">
+<!ENTITY securityOverride.exceptionButtonLabel "Adaugă excepție…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>Nu trebuie să adaugi o excepție dacă folosești o conexiune la internet în care nu ai încredere completă sau dacă nu primești frecvent avertismente legate de acest server.</p>
-
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adaugi o excepție dacă folosești o conexiune la internet în care nu ai încredere în totalitate sau dacă nu ești obișnuit să vezi un avertisment pentru acest server.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL la distanță">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Vă rugăm să contactați proprietarii site-ului web și informați-i despre această problemă.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Conexiunea nu este securizată">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește o tehnologie de securitate depășită și vulnerabilă la atacuri. Un atacator ar putea dezvălui cu ușurință informații pe care le credeați în siguranță. Administratorul site-ului web va trebui să repare mai întâi serverul ca să puteți intra pe site.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește tehnologie de securitate învechită și vulnerabilă la atac. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai a fi în siguranță. Administratorul site-ului web va trebui să repare serverul înainte de a putea vizita site-ul.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagină blocată">
 
 <!ENTITY networkProtocolError.title "Eroare protocol de rețea">
-<!ENTITY networkProtocolError.longDesc "<p>Pagina pe care încerci să o vizualizezi nu poate fi afișată deoarece a fost detectată o eroare la protocolul de rețea. </p><ul><li>Te rugăm să contactezi proprietarii site-ului și informează-i despre această problemă.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Pagina pe care încerci să o vizualizezi nu poate fi afișată deoarece a fost detectată o eroare la protocolul de rețea. </p><ul><li>Te rugăm să contactezi proprietarii site-ului web pentru a-i informa despre această problemă.</li></ul>">
