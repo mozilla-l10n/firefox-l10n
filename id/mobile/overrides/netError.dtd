@@ -152,3 +152,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>menggunakan teknologi keamanan yang sudah usang dan rentan terhadap serangan. Penyerang bisa dengan mudah mengungkapkan informasi yang Anda anggap aman. Administrator situs web akan perlu memperbaiki peladen terlebih dahulu sebelum Anda dapat mengunjungi situs.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Protokol Jaringan Bermasalah">
+<!ENTITY networkProtocolError.longDesc "<p>Laman yang Anda coba untuk lihat tidak dapat ditampilkan karena terdeteksi ada masalah pada protokol jaringan.</p><ul><li>Mohon hubungi pemilik situs web untuk mengabarkan masalah ini kepada mereka.</li></ul>">
