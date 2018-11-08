@@ -40,6 +40,7 @@ features-responsive-desc = Test sites on emulated devices in your browser. <a da
 features-visual-editing-title = Visual Editing
 features-visual-editing-desc = Fine-tune animations, alignment and padding. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Performance
+features-performance-desc = Unblock bottlenecks, streamline processes, optimize assets. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Memory
 features-memory-desc = Find memory leaks and make your application zippy. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
