@@ -45,5 +45,10 @@ features-performance-desc = Разблокируйте узкие места, о
 features-memory-title = Память
 features-memory-desc = Находите утечки памяти и уменьшите её потребление вашим приложением. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Не удалось сделать запрос на подписку ({ $errorDescription }).
+newsletter-error-unknown = Произошла непредвиденная ошибка.
+newsletter-error-timeout = Время ожидания ответа на запрос на подписку истекло.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Вы успешно включили Инструменты разработчика! Чтобы начать работу, откройте меню Веб-разработки или откройте инструменты через { $shortcut }.
