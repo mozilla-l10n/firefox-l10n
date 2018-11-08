@@ -45,5 +45,10 @@ features-performance-desc = Timeq'at taq juyuwaxïk, keb'an aninäq ri taq tajin
 features-memory-title = Rupam rujolom
 features-memory-desc = Kekanöx taq rujul tzatzq'ob'äl richin nib'an ruchokoy zippy. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Man ütz ta xub'än ri k'utunïk richin tz'ib'anïk b'i'aj ({ $errorDescription }).
+newsletter-error-unknown = Man oyob'en ta re sachoj xk'ulwachitäj.
+newsletter-error-timeout = Xk'is ri ruramaj ri k'utunïk richin tz'ib'anïk b'i'aj.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = ¡Ütz xub'än toq xe'atzïj ri taq Kisamajib'al B'anonela'! Richin nitikirisäx, tinik'öx ri ruk'utsamaj Ajk'amaya'l B'anonel o ke'ajaqa' ri taq samajib'äl rik'in { $shortcut }.
