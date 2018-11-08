@@ -105,7 +105,7 @@ detail-rating =
 addon-restart-now =
     .label = नित दोहड़ा एहोब मे
 extensions-view-discover =
-    .name = एड-ऑनस ञाम में{ " " }
+    .name = एड-ऑनस ञाम में
     .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = नितोक् हा़लियाक् को
@@ -133,22 +133,22 @@ extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 extensions-warning-update-security-enable =
     .label = हुय होचो
-    .tooltiptext = एड-ऑन हा़ली ञेंल हुय होचो तेयार में{ " " }
+    .tooltiptext = एड-ऑन हा़ली ञेंल हुय होचो तेयार में
 
 ## Strings connected to add-on updates
 
 extensions-updates-check-for-updates =
-    .label = हा़लियाक् को ला़गित् तेंघान (C)
+    .label = हा़लियाक् को ला़गित् तेंघान
     .accesskey = C
 extensions-updates-view-updates =
-    .label = नितोक् हा़लियाक् को ञेल मे (V)
+    .label = नितोक् हा़लियाक् को ञेल मे
     .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
-    .label = एड-ऑनस आच् आच् ते हा़ली मे (A)
+    .label = एड-ऑनस आच् आच् ते हा़ली मे
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -158,10 +158,10 @@ extensions-updates-update-addons-automatically =
 ## extensions-updates-update-addons-automatically.label menu item).
 
 extensions-updates-reset-updates-to-automatic =
-    .label = { " " }एड-ऑनस आच् आच् लेकाते ते हा़ली होचो दोहड़ा साजाव में  (R)
+    .label = एड-ऑनस आच् आच् लेकाते ते हा़ली होचो दोहड़ा साजाव में
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
-    .label = जोतो एड-ऑनस आच् आच् लेका ते हा़ली होचो दोहड़ा साजाव मे (R)
+    .label = जोतो एड-ऑनस आच् आच् लेका ते हा़ली होचो दोहड़ा साजाव मे
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -171,7 +171,7 @@ extensions-updates-updating =
 extensions-updates-installed =
     .value = आमाक् सहा़ली आकाना.
 extensions-updates-downloaded =
-    .value = आमाक् एड-ऑन हा़लियाक् को आ़तुर आंड़गो होचो आकाना.{ " " }
+    .value = आमाक् एड-ऑन हा़लियाक् को आ़तुर आंड़गो होचो आकाना.
 extensions-updates-restart =
     .label = बो़हाल पुरा़व ला़गित् नितोक् दोहड़ा एहोब मे{ " " }
 extensions-updates-none-found =
