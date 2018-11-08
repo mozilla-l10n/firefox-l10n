@@ -121,22 +121,52 @@ legacy-warning-show-legacy = Show legacy extensions
 legacy-extensions =
     .value = Legacy Extensions
 legacy-extensions-description = These extensions do not meet current { -brand-short-name } standards so they have been deactivated. <label data-l10n-name="legacy-learn-more">Learn about the changes to add-ons</label>
+extensions-view-discover =
+    .name = Īgiut papyldynuojums
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Nasenī atjaunynuojumi
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Pīejamī atjaunynuojumi
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Drūsais režyms ir deaktiviejs vysus papyldynuojumu.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Papyldynuojumu savītuojameibys puorbaude ir deaktiveita. Īspiejams jiusim ir nasavītuojami papyldynuojumu.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Aktivēt
+    .tooltiptext = Aktivēt papyldynuojumu savītuojameibys puorbaudi
+extensions-warning-update-security-label =
+    .value = Papyldynuojumu drūseibys puorbaude ir deaktiveita. Īspiejams jiusim ir nadrūsi papyldynuojumu.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Aktivēt
+    .tooltiptext = Aktivēt papyldynuojumu drūseibys puorbaudi
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Mekleit atjaunynuojumus
+    .accesskey = M
+extensions-updates-view-updates =
+    .label = Apsavērt nasenūs atjaunynuojumus
+    .accesskey = n
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Atjaunynuot papyldynuojums automatiski
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -144,6 +174,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Atjaunynuot vysus papyldynuojums automatiski
+    .accesskey = l
+extensions-updates-reset-updates-to-manual =
+    .label = Atjaunynuot vysus papyldynuojums manuali
+    .accesskey = m
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Atjaunynoj papyldynuojums
+extensions-updates-installed =
+    .value = Jiusu papyldynuojumi ir atjaunynuoti.
+extensions-updates-downloaded =
+    .value = Jiusu papyldynuojumu atjaunynuojumi ir lejupīluodeiti.
+extensions-updates-restart =
+    .label = Puorstartejit, kab pabeigtu atjaunynuošonu
+extensions-updates-none-found =
+    .value = Atjaunynuojumi nav atrosti
+extensions-updates-manual-updates-found =
+    .label = Apsavērt pīejamūs atjaunynuojumus
+extensions-updates-update-selected =
+    .label = Instaleit atjaunynuojumus
+    .tooltiptext = Instaleit vysus itymā sarokstā pīejamūs atjaunynuojumus
