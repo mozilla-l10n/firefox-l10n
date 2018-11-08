@@ -135,3 +135,80 @@ legacy-warning-show-legacy = Zobraziť zastarané rozšírenia
 legacy-extensions =
     .value = Zastarané rozšírenia
 legacy-extensions-description = Tieto rozšírenia nespĺňajú súčasné kritériá prehliadača { -brand-short-name } a boli preto deaktivované. <label data-l10n-name="legacy-learn-more">Ďalšie informácie o zmenách ohľadom doplnkov</label>
+extensions-view-discover =
+    .name = Získať doplnky
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Nedávno aktualizované
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Dostupné aktualizácie
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Všetky doplnky boli zakázané núdzovým režimom.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Kontrola kompatibility doplnkov je vypnutá. Môžete mať nekompatibilné doplnky.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Zapnúť
+    .tooltiptext = Povoliť kontrolu kompatibility doplnkov
+extensions-warning-update-security-label =
+    .value = Kontrola bezpečnosti aktualizácií doplnkov je vypnutá. Aktualizácie vás môžu ohroziť.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Zapnúť
+    .tooltiptext = Povoliť kontrolu bezpečnosti aktualizácií doplnkov
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Vyhľadať aktualizácie
+    .accesskey = V
+extensions-updates-view-updates =
+    .label = Zobraziť nedávno aktualizované
+    .accesskey = Z
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Automaticky aktualizovať doplnky
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Nastaviť všetky doplnky na automatické aktualizovanie
+    .accesskey = s
+extensions-updates-reset-updates-to-manual =
+    .label = Nastaviť všetky doplnky na manuálne aktualizovanie
+    .accesskey = s
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Aktualizujú sa doplnky
+extensions-updates-installed =
+    .value = Vaše doplnky boli aktualizované.
+extensions-updates-downloaded =
+    .value = Aktualizácie pre vaše doplnky boli prevzaté.
+extensions-updates-restart =
+    .label = Zmeny sa prejavia až po reštartovaní
+extensions-updates-none-found =
+    .value = Neboli nájdené žiadne aktualizácie
+extensions-updates-manual-updates-found =
+    .label = Zobraziť dostupné aktualizácie
+extensions-updates-update-selected =
+    .label = Nainštalovať aktualizácie
+    .tooltiptext = Nainštalovať aktualizácie dostupné v zozname
