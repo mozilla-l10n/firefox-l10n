@@ -119,3 +119,29 @@ disabled-unsigned-devinfo = തങ്ങളുടെ ആഡോണുകൾ വ�
 plugin-deprecation-description = എന്തെങ്കിലും നഷ്ടമായോ? ചില പ്ലഗിന്നുകൾ ഇനിമുതൽ { -brand-short-name } പിന്തുണയ്ക്കില്ല. <label data-l10n-name="learn-more">കൂടുതല്‍ അറിയുക.</label>
 legacy-warning-show-legacy = പഴയ എക്സ്റ്റെന്‍ഷനും കാണിക്കുക
 legacy-extensions-description = ഈ എക്സ്റ്റൻഷെനുകൾ നിലവിലെ { -brand-short-name } മാനദണ്ഡങ്ങൾ പാലിക്കുന്നുല്ല, ആയതിനാൽ അവ നിർജ്ജീവമാക്കിയിട്ടുണ്ട്. <label data-l10n-name="legacy-learn-more">ആഡ്-ഓണുകളിലെ മാറ്റങ്ങളെക്കുറിച്ച് അറിയുക</label>
+
+## These are global warnings
+
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
