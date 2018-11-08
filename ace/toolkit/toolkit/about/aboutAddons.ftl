@@ -24,6 +24,9 @@ extensions-warning-update-security-container =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Paréksa Vèrsi Barô
+    .accesskey = P
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
