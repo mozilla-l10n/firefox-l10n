@@ -280,6 +280,9 @@ update-enable-search-update =
     .label = 自動更新搜尋引擎
     .accesskey = e
 update-pref-write-failure-title = 寫入失敗
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = 無法儲存偏好設定。無法寫入檔案: { $path }
 
 ## General Section - Performance
 
