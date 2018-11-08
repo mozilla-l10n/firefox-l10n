@@ -45,5 +45,10 @@ features-performance-desc = Performanzengpässe finden, Prozesse anpassen, Resso
 features-memory-title = Speicher
 features-memory-desc = Speicherleaks finden und Anwendungen schnell und schlank machen <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Abonnieren schlug fehl ({ $errorDescription }).
+newsletter-error-unknown = Es trat ein unerwarteter Fehler auf.
+newsletter-error-timeout = Zeitüberschreitung während des Abonnierens.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Sie haben die Entwicklerwerkzeuge erfolgreich aktiviert. Legen Sie los, indem Sie das Menü "Web-Entwickler" verwenden oder die Werkzeuge mit { $shortcut } öffnen.
