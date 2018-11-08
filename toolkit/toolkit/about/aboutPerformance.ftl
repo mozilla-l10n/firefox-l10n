@@ -30,9 +30,9 @@ type-other = Muu
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
-energy-impact-high = Korkea ({ $value })
-energy-impact-medium = Keskitaso ({ $value })
-energy-impact-low = Matala ({ $value })
+energy-impact-high = Suuri ({ $value })
+energy-impact-medium = Kohtalainen ({ $value })
+energy-impact-low = Pieni ({ $value })
 
 ## Tooltips for the action buttons
 

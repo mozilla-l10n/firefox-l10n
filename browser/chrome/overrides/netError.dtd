@@ -161,9 +161,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.sts.introPara "&brandShortName; havaitsi mahdollisen turvallisuusuhan, eikä jatkanut sivustolle <span class='hostname'/>, koska tämä sivusto vaatii salatun yhteyden.">
 
-<!ENTITY certerror.expiredCert.introPara "&brandShortName; havaitsi ongelman, eikä jatkanut sivustolle <span class='hostname'/>. Verkkosivuston asetukset on määritetty väärin tai tietokoneesi kello on asetettu väärään aikaan.">
-<!ENTITY certerror.expiredCert.secondPara2 "On todennäköistä, että verkkosivuston varmenne on vanhentunut, mikä estää &brandShortName;ia muodostamasta turvallista yhteyttä. Jos vierailet tällä sivustolla, hyökkääjät voivat yrittää varastaa esimerkiksi salasanoihin, sähköposteihin ja luottokortteihin liittyviä tietoja.">
-<!ENTITY certerror.expiredCert.sts.secondPara "On todennäköistä, että verkkosivuston varmenne on vanhentunut, mikä estää &brandShortName;ia muodostamasta turvallista  yhteyttä.">
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; havaitsi ongelman, eikä jatkanut sivustolle <span class='hostname'/>. Sivuston asetukset on määritetty väärin tai tietokoneesi kello on asetettu väärään aikaan.">
+<!ENTITY certerror.expiredCert.secondPara2 "On todennäköistä, että verkkosivuston varmenne on vanhentunut, mikä estää &brandShortName;ia muodostamasta suojattua yhteyttä. Jos vierailet tällä sivustolla, hyökkääjät voivat yrittää varastaa esimerkiksi salasanoja, sähköposteja tai luottokorttitietoja.">
+<!ENTITY certerror.expiredCert.sts.secondPara "On todennäköistä, että verkkosivuston varmenne on vanhentunut, mikä estää &brandShortName;ia muodostamasta suojattua yhteyttä.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Mitä voit tehdä?">
 
