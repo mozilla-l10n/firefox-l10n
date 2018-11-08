@@ -130,3 +130,77 @@ legacy-warning-show-legacy = Seall leudachain dhìleabach
 legacy-extensions =
     .value = Leudachain dhìleabach
 legacy-extensions-description = Chan eil na leudachain seo a’ coileanadh stannardan { -brand-short-name } agus chaidh an cur às comas ri linn sin. <label data-l10n-name="legacy-learn-more">Fiosraich na tha ùr a thaobh leudachan</label>
+extensions-view-discover =
+    .name = Faigh tuilleadain
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-available-updates =
+    .name = Ùrachaidhean a tha ri am faighinn
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Chaidh a h-uile tuilleadan a chur à comas leis a' mhodh sàbhailte.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Chaidh an sgrùdadh air co-chòrdalachd nan tuilleadain a chur à comas. Dh'fhaodadh gu bheil tuilleadan agad nach eil co-chòrdail.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Cuir an comas
+    .tooltiptext = Cuir an comas sgrùdadh co-chòrdalachd nan tuilleadan
+extensions-warning-update-security-label =
+    .value = Chaidh an sgrùdadh tèarainteachd air ùrachadh nan tuilleadain a chur à comas. Dh'fhaodadh gun cuir ùrachaidhean cron ort.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Cuir an comas
+    .tooltiptext = Cuir an comas sgrùdadh tèarainteachd nan tuilleadan
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Lorg ùrachaidhean
+    .accesskey = c
+extensions-updates-view-updates =
+    .label = Seall na h-ùrachaidhean faisg orm
+    .accesskey = S
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Ùraich na tuilleadain gu fèin-obrachail
+    .accesskey = a
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Ath-shuidhich gach tuilleadan airson 's gun ùraich iad gu fèin-obrachail
+    .accesskey = r
+extensions-updates-reset-updates-to-manual =
+    .label = Ath-shuidhich gach tuilleadan airson 's gun ùraich iad de làimh
+    .accesskey = r
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Ag ùrachadh nan tuilleadan
+extensions-updates-installed =
+    .value = Chaidh na tuilleadain agad ùrachadh.
+extensions-updates-downloaded =
+    .value = Chaidh ùrachaidhean nan tuilleadan agad a luchdadh a-nuas.
+extensions-updates-restart =
+    .label = Ath-thòisich an-dràsta gus an stàladh a thoirt gu buil
+extensions-updates-none-found =
+    .value = Cha deach ùrachadh a lorg
+extensions-updates-manual-updates-found =
+    .label = Seall na h-ùrachaidhean a tha ri am faighinn
+extensions-updates-update-selected =
+    .label = Stàlaich na h-ùrachaidhean
+    .tooltiptext = Stàlaich na h-ùrachaidhean san liosta seo a tha ri am faighinn
