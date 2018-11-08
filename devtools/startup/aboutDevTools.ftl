@@ -45,5 +45,10 @@ features-performance-desc = Oldja meg a szűk keresztmetszeteket, egyszerűsíts
 features-memory-title = Memória
 features-memory-desc = Találja meg a memóriaszivárgásokat, és tegye lendületessé az alkalmazását. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = A feliratkozási kérés sikertelen ({ $errorDescription }).
+newsletter-error-unknown = Váratlan hiba történt.
+newsletter-error-timeout = A feliratkozási kérés túllépte az időkorlátot.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Sikeresen engedélyezte a fejlesztői eszközöket! Az induláshoz fedezze fel a Webfejlesztő menüt vagy nyissa meg az eszközöket ezzel: { $shortcut }.
