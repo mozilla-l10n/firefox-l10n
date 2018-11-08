@@ -135,9 +135,17 @@ legacy-extensions-description = Estas extensões não atendem aos padrões atuai
 extensions-view-discover =
     .name = Obter extras
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Atualizações recentes
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Atualizações disponíveis
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Todos os extras foram desativados pelo modo de segurança.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-container =
@@ -150,10 +158,19 @@ extensions-warning-update-security-container =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Procurar atualizações
+    .accesskey = c
+extensions-updates-view-updates =
+    .label = Ver atualizações recentes
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Atualizar extras automaticamente
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -164,3 +181,14 @@ extensions-warning-update-security-container =
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = A atualizar extras
+extensions-updates-installed =
+    .value = Os seus extras foram atualizados.
+extensions-updates-none-found =
+    .value = Nenhuma atualização encontrada
+extensions-updates-manual-updates-found =
+    .label = Ver atualizações disponíveis
+extensions-updates-update-selected =
+    .label = Instalar atualizações
+    .tooltiptext = Instalar atualizações disponíveis nesta lista
