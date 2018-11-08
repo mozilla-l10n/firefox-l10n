@@ -154,6 +154,9 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Cerca actualitzacions
+    .accesskey = C
 extensions-updates-view-updates =
     .label = Visualitza les actualitzacions recents
     .accesskey = V
