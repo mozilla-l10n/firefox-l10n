@@ -50,3 +50,65 @@ detail-rating =
     .value = Judizi
 addon-restart-now =
     .label = Torne a inviâ cumò
+extensions-view-discover =
+    .name = Cjate zontis
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Ultins inzornaments
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Inzornaments disponibii
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Dutis lis zontis a son stadis disativadis pal Mût sigûr.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Il control di compatibilitât des zontis al è disativât. Tu podaressis vê zontis incompatibilis.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-label =
+    .value = Il control de sigurece dai inzornaments des zontis al è disativât. Tu podaressis vê problemis di sigurece par vie dai inzornaments.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Cîr inzornaments
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = Viôt i ultins inzornaments
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Inzorne in automatic lis zontis
+    .accesskey = a
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Daûr a inzornâ lis zontis
+extensions-updates-installed =
+    .value = Lis tôs zontis a son stadis inzornadis.
+extensions-updates-downloaded =
+    .value = I inzornaments pes tôs zontis a son stâts discjamâts.
+extensions-updates-restart =
+    .label = Torne a inviâ cumò par finî la instalazion
+extensions-updates-none-found =
+    .value = Nissun inzornament cjatât
+extensions-updates-manual-updates-found =
+    .label = Viôt i inzornaments disponibii
