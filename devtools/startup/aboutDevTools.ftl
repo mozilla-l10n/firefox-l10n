@@ -45,5 +45,10 @@ features-performance-desc = Løs flaskehalsproblemer, strømlin processer, optim
 features-memory-title = Hukommelse
 features-memory-desc = Find memory-leaks, og gør din applikation hurtigere. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Der opstod en fejl med at melde dig til nyhedsbrevet ({ $errorDescription }).
+newsletter-error-unknown = Der opstod en uventet fejl.
+newsletter-error-timeout = Tidsfristen for anmodningen udløb.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Du har nu aktiveret Udviklerværktøj! Kig på Udvikler-menuen (under Funktioner), eller åbn værktøjerne med { $shortcut } for at komme i gang.
