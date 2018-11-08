@@ -6,7 +6,9 @@ head-title = Pri la iloj por programistoj
 enable-title = Aktivigi la ilojn de Firefox por programistoj
 enable-inspect-element-title = Aktivigi la ilojn de Firefox por programistoj por uzi «Inspekti elementon»
 enable-inspect-element-message = Esplori kaj redakti HTML kaj CSS per la inspektilo de la iloj por programistoj.
+enable-about-debugging-message = Programi kaj senerarigi WebExtensions, web workers, service workers kaj pli, per la iloj por programistoj de Firefox.
 enable-key-shortcut-message = Vi aktivigis ŝparvojon de la iloj por programistoj. Se tio estis eraro, vi povas fermi tiun ĉi langeton.
+enable-menu-message = Perfektigi la HTML, CSS kaj JavaScript de via retejo per iloj kiel Inspektilo kaj Erarserĉilo.
 enable-common-message = La iloj por programistoj de Firefox estas norme malaktivaj por doni al vi pli da regado super via retumilo.
 enable-learn-more-link = Pli da informo pri la iloj por programistoj
 enable-enable-button = Aktivigi la ilojn por programistoj
@@ -28,6 +30,8 @@ features-inspector-title = Inspektilo
 features-inspector-desc = Inspekti kaj rafini kodon por krei aranĝojn precizegajn. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = Konzolo
 features-console-desc = Spuri problemojn kun CSS, JavaScript, sekureco kaj reto. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-debugger-title = Erarserĉilo
+features-debugger-desc = Potenca erarserĉilo de JavaScript, kun subteno por via substrukturo. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Reto
 features-network-desc = Kontroli la retajn petojn, kiuj povus malrapidigi aŭ bloki vian retejon. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Konservejo
