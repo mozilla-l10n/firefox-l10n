@@ -155,15 +155,32 @@ extensions-warning-check-compatibility-label =
     .value = დამატებების თავსებადობის შემოწმება გამორთულია. შესაძლოა არათავსებადი დამატებები გქონდეთ.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = ჩართვა
+    .tooltiptext = დამატებების თავსებადობის შემოწმების ჩართვა
+extensions-warning-update-security-label =
+    .value = დამატების განახლების უსაფრთხოების შემოწმება გამორთულია. განახლებამ შესაძლოა ზიანი მოგაყენოთ.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = ჩართვა
+    .tooltiptext = დამატებების განახლების უსაფრთხოების შემოწმების ჩართვა
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = განახლებების შემოწმება
+    .accesskey = შ
+extensions-updates-view-updates =
+    .label = ბოლო განახლებების ნახვა
+    .accesskey = ბ
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = დამატებების თვითგანახლება
+    .accesskey = ვ
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -171,6 +188,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = ყველა დამატების, ავტომატურ განახლებაზე დაბრუნება
+    .accesskey = დ
+extensions-updates-reset-updates-to-manual =
+    .label = ყველა დამატებაზე, ხელით განახლების მითითება
+    .accesskey = ხ
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = დამატებების განახლება
+extensions-updates-installed =
+    .value = დამატებები განახლებულია.
+extensions-updates-downloaded =
+    .value = დამატებების განახლებები ჩამოტვირთულია.
+extensions-updates-restart =
+    .label = ხელახლა გაუშვით დაყენების დასასრულებლად
+extensions-updates-none-found =
+    .value = განახლებები ვერ მოიძებნა
+extensions-updates-manual-updates-found =
+    .label = ხელმისაწვდომი განახლებების ნახვა
+extensions-updates-update-selected =
+    .label = განახლებების დაყენება
+    .tooltiptext = ხელმისაწვდომი განახლებების დაყენება ამ სიიდან
