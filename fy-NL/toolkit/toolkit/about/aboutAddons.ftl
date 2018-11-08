@@ -147,6 +147,8 @@ extensions-view-available-updates =
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Alle add-ons binne útskeakele troch feilige modus.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-label =
@@ -156,6 +158,8 @@ extensions-warning-check-compatibility-container =
 extensions-warning-check-compatibility-enable =
     .label = Ynskeakelje
     .tooltiptext = Skeakelje kontrole fan kompatibileit foar add-ons yn
+extensions-warning-update-security-label =
+    .value = Feilichheidskontrole foar add-onsfernijingen is útskeakele. Jo kinne efterrinne mei fernijingen.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 extensions-warning-update-security-enable =
@@ -167,10 +171,16 @@ extensions-warning-update-security-enable =
 extensions-updates-check-for-updates =
     .label = Kontrolearje op fernijingen
     .accesskey = K
+extensions-updates-view-updates =
+    .label = Resinte fernijingen toane
+    .accesskey = T
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Add-ons automatysk fernije
+    .accesskey = a
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -191,10 +201,14 @@ extensions-updates-updating =
     .value = Add-ons oan it bywurkjen
 extensions-updates-installed =
     .value = Jo add-ons binne bywurke.
+extensions-updates-downloaded =
+    .value = Jo add-onsfernijingen binne download.
 extensions-updates-restart =
     .label = Werstart no om de ynstallaasje te foltôgjen.
 extensions-updates-none-found =
     .value = Gjin fernijingen fûn
+extensions-updates-manual-updates-found =
+    .label = Beskikbere fernijingen toane
 extensions-updates-update-selected =
     .label = Ynstallearje fernijingen
     .tooltiptext = Ynstallearje beskikbere fernijingen op dize list
