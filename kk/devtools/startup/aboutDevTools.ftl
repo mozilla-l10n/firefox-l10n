@@ -45,5 +45,10 @@ features-performance-desc = Тар жерлерді босатып, үрдіст
 features-memory-title = Жады
 features-memory-desc = Жады жоғалуын тауып, қолданбаңызды жылдам қылыңыз. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Жазылуға сұраным сәтсіз аяқталды ({ $errorDescription }).
+newsletter-error-unknown = Күтілмеген қате орын алған.
+newsletter-error-timeout = Жазылуға сұранымның мерзімі аяқталды.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Сіз Әзірлеуші құралдарын сәтті белсендірдіңіз! Бастау үшін, Веб әзірлеуші мәзірін шолыңыз, немесе { $shortcut } арқылы құралдарды ашыңыз.
