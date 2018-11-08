@@ -126,3 +126,53 @@ legacy-warning-show-legacy = Εμφάνιση επεκτάσεων παλαιο�
 legacy-extensions =
     .value = Επεκτάσεις παλαιού τύπου
 legacy-extensions-description = Αυτές οι επεκτάσεις δεν πληρούν τα τρέχοντα κριτήρια του { -brand-short-name }, επομένως έχουν απενεργοποιηθεί. <label data-l10n-name="legacy-learn-more">Μάθετε σχετικά με τις αλλαγές στα πρόσθετα</label>
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Όλα τα πρόσθετα έχουν απενεργοποιηθεί στην ασφαλή λειτουργία.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Ο έλεγχος συμβατότητας προσθέτων είναι ανενεργός. Μπορεί να έχετε ασύμβατα πρόσθετα.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Ενεργοποίηση
+    .tooltiptext = Ενεργοποίηση ελέγχου συμβατότητας προσθέτων
+extensions-warning-update-security-label =
+    .value = Ο έλεγχος ασφαλείας ενημερώσεων  προσθέτων είναι ανενεργός. Μπορεί να κινδυνέψετε.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Ενεργοποίηση
+    .tooltiptext = Ενεργοποίηση ελέγχου ασφαλείας ενημερώσεων προσθέτων
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Έλεγχος για ενημερώσεις
+    .accesskey = χ
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Αυτόματη ενημέρωση προσθέτων
+    .accesskey = Α
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Ρύθμιση όλων των προσθέτων σε αυτόματη ενημέρωση
+    .accesskey = Ρ
+extensions-updates-reset-updates-to-manual =
+    .label = Ρύθμιση όλων των προσθέτων σε χειροκίνητη ενημέρωση
+    .accesskey = χ
+
+## Status messages displayed when updating add-ons
+
