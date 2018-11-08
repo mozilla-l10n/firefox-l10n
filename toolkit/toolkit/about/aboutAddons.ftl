@@ -169,6 +169,9 @@ extensions-warning-update-security-enable =
 extensions-updates-check-for-updates =
     .label = Hae päivityksiä
     .accesskey = H
+extensions-updates-view-updates =
+    .label = Näytä tuoreet päivitykset
+    .accesskey = N
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
