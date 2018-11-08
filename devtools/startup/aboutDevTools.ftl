@@ -27,6 +27,7 @@ footer-message = מעניין אותך לחקור לא רק את כלי הפית
 footer-learn-more-link = מידע נוסף
 features-learn-more = מידע נוסף
 features-inspector-title = מפקח
+features-inspector-desc = חקירה וליטוש קוד לבניית פריסות מושלמות עד רמת הפיקסל. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = מסוף
 features-console-desc = מעקב אחר תקלות ב־CSS,‏ JavaScript, אבטחה ורשת. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = מנפה שגיאות
