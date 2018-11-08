@@ -45,5 +45,10 @@ features-performance-desc = Forigi blokadpunktojn, optimumigi procezojn kaj rime
 features-memory-title = Memoro
 features-memory-desc = Trovi perdojn de memoro kaj plibonigi la efikecon de via programo. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Malsukcesa abona peto ({ $errorDescription }).
+newsletter-error-unknown = Okazis neatendita eraro.
+newsletter-error-timeout = Elĉerpiĝis la tempo por abona peto.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Vi sukcese aktivigis la ilojn por programistoj! Por komenci, esploru la menuon «Teksaĵa programisto» aŭ malfermu la ilojn per { $shortcut }.
