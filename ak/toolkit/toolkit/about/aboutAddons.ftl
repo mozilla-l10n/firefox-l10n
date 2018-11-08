@@ -104,3 +104,80 @@ detail-rating =
     .value = Gyina-bea:
 addon-restart-now =
     .label = San hyɛ ase seisei ara
+extensions-view-discover =
+    .name = Gye Nkaho
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Ntoso a nsa aka no ndansa yi
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Ntoso a wɔaba
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Ahotew mu edum nkaho nyinara.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Kaho wɔn nsɛ ne nhwehwɛmu edum. Etumi ba no sɛ wo nni nkaho a wɔfa.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Sɔ
+    .tooltiptext = Sɔ fidie a ɛkyerɛ sɛ nkaho no fa anaaso ɛmmfa a
+extensions-warning-update-security-label =
+    .value = Kaho sikuriti ntoso wɔn nhwehwɛmu edum. Etumi ba no sɛ ntoso bɛma wo ho ada hɔ.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Sɔ
+    .tooltiptext = Sɔ fidie a ɛbɔ wo ho ban firi ntoso ma nkaho a wɔnndi mu
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Hwehwɛ Ntoso
+    .accesskey = H
+extensions-updates-view-updates =
+    .label = Hwɛ ndansa yi mu ntoso
+    .accesskey = w
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = To nkaho so otomatikmu
+    .accesskey = k
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = San-hyɛ nkaho nyinara ama wɔenya wɔn ntoso otomatikmu
+    .accesskey = h
+extensions-updates-reset-updates-to-manual =
+    .label = San-hyɛ nkaho nyinara ama wɔenya wɔn ntoso manoal kwan so
+    .accesskey = h
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Reto nkaho so
+extensions-updates-installed =
+    .value = Wɔato wo nkaho wɔn so.
+extensions-updates-downloaded =
+    .value = Wɔatwe wo nkaho ntoso.
+extensions-updates-restart =
+    .label = San hyɛ ase fa wie instɔlehyɛn no
+extensions-updates-none-found =
+    .value = Ennhu ntoso biara
+extensions-updates-manual-updates-found =
+    .label = Hwɛ ntoso a wɔwɔ hɔ
+extensions-updates-update-selected =
+    .label = Instɔl ntoso
+    .tooltiptext = Instɔl ntoso a wɔda-hɔ
