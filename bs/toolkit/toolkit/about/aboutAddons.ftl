@@ -124,6 +124,12 @@ legacy-extensions-description = Ove ekstenzije ne zadovoljavaju trenutne { -bran
 extensions-view-discover =
     .name = Dobavi Add-one
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Nedavne nadogradnje
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Dostupne nadogradnje
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
@@ -138,15 +144,29 @@ extensions-warning-check-compatibility-container =
 extensions-warning-check-compatibility-enable =
     .label = Omogući
     .tooltiptext = Omogući provjeravanje kompatibilnosti add-ona
+extensions-warning-update-security-label =
+    .value = Sigurnosna provjera nadogradnje za add-one je onemogućena. Možete biti kompromitovani putem nadogradnje.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Omogući
+    .tooltiptext = Omogući provjeravanje sigurnosti nadogradnje add-ona
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Provjeri za nadogradnje
+    .accesskey = P
+extensions-updates-view-updates =
+    .label = Prikaži nedavne nadogradnje
+    .accesskey = v
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Automatski nadograđuj add-one
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -154,8 +174,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Postavi sve add-one da se automatski nadograđuju
+    .accesskey = r
+extensions-updates-reset-updates-to-manual =
+    .label = Postavi sve add-one da se ručno nadograđuju
+    .accesskey = r
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Nadograđujem add-one
+extensions-updates-installed =
+    .value = Vaši add-oni su nadograđeni.
+extensions-updates-downloaded =
+    .value = Nadogradnje za vaše add-one su preuzete.
 extensions-updates-restart =
     .label = Restartuj odmah radi kompletiranja instalacije
+extensions-updates-none-found =
+    .value = Nijedna nadogradnja nije pronađena
+extensions-updates-manual-updates-found =
+    .label = Prikaži dostupne nadogradnje
+extensions-updates-update-selected =
+    .label = Nadogradi
+    .tooltiptext = Instaliraj dostupne nadogradnje na ovoj listi
