@@ -4,11 +4,13 @@
 
 head-title = વિકાસકર્તા સાધનો વિશે
 enable-title = Firefox વિકાસકર્તા સાધનોને સક્ષમ કરો
+enable-inspect-element-title = એલિમેન્ટ તપાસ કરવા માટે Firefox ડેવલપર Tools સક્ષમ કરો
 enable-inspect-element-message = વિકાસકર્તા સાધનોના નિરીક્ષક સાથે HTML અને CSS ને પરીક્ષણ અને સંપાદિત કરો.
 enable-about-debugging-message = Firefox ડેવલપર ટૂલ્સ સાથે WebExtensions, વેબ વર્કર્સ, સર્વિસ વર્કર અને વધુ વિકાસ અને ડીબગ કરો.
 enable-key-shortcut-message = તમે વિકાસકર્તા સાધનો શોર્ટકટને સક્રિય કર્યું છે. જો તે ભૂલ હતી, તો તમે આ ટૅબને બંધ કરી શકો છો.
 enable-menu-message = ઇન્સ્પેક્ટર અને ડિબગર જેવા સાધનો સાથે તમારી વેબસાઇટનું HTML, CSS, અને JavaScript પૂર્ણ કરો.
 enable-common-message = Firefox ડેવલોપર ટૂલ્સ તમારા બ્રાઉઝર પર વધુ નિયંત્રણ આપવા માટે ડિફૉલ્ટ રૂપે અક્ષમ કરેલ છે.
+enable-learn-more-link = વિકાસકર્તા સાધનો વિશે વધુ શીખો
 enable-enable-button = વિકાસકર્તા સાધનોને સક્ષમ કરો
 enable-close-button = આ ટૅબ બંધ કરો
 welcome-title = Firefox ડેવલોપર સાધનોમાં આપનું સ્વાગત છે!
@@ -22,6 +24,8 @@ newsletter-thanks-title = આભાર!
 newsletter-thanks-message = જો તમે અગાઉ કોઈ Mozilla-સંબંધિત ન્યૂઝલેટરમાં ઉમેદવારીની પુષ્ટિ કરી નથી, તો તમારે આમ કરવું પડશે. કૃપા કરીને અમારા તરફથી ઇમેઇલ માટે તમારા ઇનબૉક્સ અથવા તમારા સ્પામ ફિલ્ટરની તપાસ કરો.
 footer-title = Firefox વિકાસકર્તા આવૃત્તિ
 footer-message = ફક્ત વિકાસકર્તા સાધનો કરતાં વધુ જોઈએ છીએ? Firefox બ્રાઉઝર તપાસો જે ખાસ કરીને વિકાસકર્તાઓ અને આધુનિક કાર્ય પ્રવાહ માટે બનાવવામાં આવેલ છે.
+footer-learn-more-link = વધુ શીખો
+features-learn-more = વધુ શીખો
 features-inspector-title = નિરીક્ષક
 features-inspector-desc = પિક્સેલ-સંપૂર્ણ લેઆઉટ બનાવવા માટે કોડનું નિરીક્ષણ કરો અને શુદ્ધ કરો. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = કોન્સોલ
