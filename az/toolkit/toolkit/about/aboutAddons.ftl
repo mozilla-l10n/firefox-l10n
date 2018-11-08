@@ -130,6 +130,9 @@ legacy-warning-show-legacy = Köhnəlmiş qoşmaları göstər
 legacy-extensions =
     .value = Köhnəlmiş Qoşmalar
 legacy-extensions-description = Bu qoşmalar hazırkı { -brand-short-name } standartlarına cavab vermirlər və bu səbəbdən söndürüldülər. <label data-l10n-name="legacy-learn-more">Əlavələrə olan dəyişikliklər haqqında öyrən</label>
+extensions-view-discover =
+    .name = Əlavə Endirin
+    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Yaxın vaxtlardakı yeniləmələr
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -147,10 +150,16 @@ extensions-warning-check-compatibility-label =
     .value = Əlavə uyğunluq nəzarəti söndürülüb. Uyğun olmayan əlavələriniz ola bilər.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Aktiv et
+    .tooltiptext = Əlavə uyğunluq nəzarətini aktivləşdir
 extensions-warning-update-security-label =
     .value = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti söndürülüb. Yeniləmələr təhlükəli ola bilər.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Aktiv et
+    .tooltiptext = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti aktivləşdir
 
 ## Strings connected to add-on updates
 
@@ -174,9 +183,17 @@ extensions-updates-update-addons-automatically =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Bütün əlavələri avtomatik yeniləyəcək şəkildə nizamla
+    .accesskey = a
+extensions-updates-reset-updates-to-manual =
+    .label = Bütün əlavələri əllə yeniləyəcək şəkildə nizamla
+    .accesskey = a
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Əlavələr yenilənir
 extensions-updates-installed =
     .value = Əlavələriniz yenilənir.
 extensions-updates-downloaded =
