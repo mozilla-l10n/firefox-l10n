@@ -24,4 +24,4 @@
 <!ENTITY threeDShading.accessKey "U">
 <!ENTITY saveSettings.label "Folosește ca implicit">
 <!ENTITY saveSettings.accessKey "i">
-<!ENTITY saveSettings.tooltip "Salvează aceste setări pentru utilizare la inserarea de linii orizontale noi">
+<!ENTITY saveSettings.tooltip "Salvează aceste setări pentru a fi folosite când introduci linii orizontale">

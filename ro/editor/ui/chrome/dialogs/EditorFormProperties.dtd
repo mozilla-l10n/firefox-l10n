@@ -14,7 +14,7 @@
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Codare:">
 <!ENTITY FormEncType.accesskey "C">
-<!ENTITY FormTarget.label "Cadru-țintă:">
+<!ENTITY FormTarget.label "Frame destinație:">
 <!ENTITY FormTarget.accesskey "F">
 
 <!ENTITY RemoveForm.label "Elimină formular">

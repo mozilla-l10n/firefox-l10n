@@ -4,15 +4,15 @@
 
 <!ENTITY AdvancedEditButton.label "Editare avansată…">
 <!ENTITY AdvancedEditButton.accessKey "E">
-<!ENTITY AdvancedEditButton.tooltip "Adaugă sau modifică atribute HTML, atribute de stiluri și cod JavaScript">
+<!ENTITY AdvancedEditButton.tooltip "Adăugă sau modifică atribute HTML, stiluri, precum și cod JavaScript">
 <!ENTITY chooseFileButton.label "Alege fișier…">
 <!ENTITY chooseFileButton.accessKey "f">
 <!ENTITY chooseFileLinkButton.label "Alege fișier…">
 <!ENTITY chooseFileLinkButton.accessKey "f">
-<!ENTITY makeUrlRelative.label "URL relativ la locația paginii">
+<!ENTITY makeUrlRelative.label "URL-ul este relativ la locația paginii">
 <!ENTITY makeUrlRelative.accessKey "r">
-<!ENTITY makeUrlRelative.tooltip "Comută între URL relativ și absolut. Trebuie să salvezi mai întâi pagina înainte de modificare.">
+<!ENTITY makeUrlRelative.tooltip "Comută între URL-ul relativ și absolut. Trebuie să salvezi pagina înainte de a face această modificare.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField2.label "Introdu o locație de pagină web, un fișier local sau selectează o ancoră denumită sau un antet din meniul contextual al câmpului:">
+<!ENTITY LinkURLEditField2.label "Introdu o locație de pagină web, un fișier local, sau selectează o ancoră cu nume sau antet din meniul contextual al câmpului:">
 <!ENTITY LinkURLEditField2.accessKey "w">
