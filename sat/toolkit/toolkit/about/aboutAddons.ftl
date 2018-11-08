@@ -104,3 +104,80 @@ detail-rating =
     .value = दोर ठा़वका़
 addon-restart-now =
     .label = नित दोहड़ा एहोब मे
+extensions-view-discover =
+    .name = एड-ऑनस ञाम में{ " " }
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = नितोक् हा़लियाक् को
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = हा़लियाक् को ञामोक् आ
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = जोतो एड-ऑनस जा़पती ओबोसता दाराय ते बाङ हुय होचो आकाना.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = एड- ऑन सोंगोताक् ञेल ञेल दो बाय हुय होचो आकाना.आम एड -ऑन बाङ सोंगगोत हुय दाड़ेयाक् .
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = हुय होचो
+    .tooltiptext = हुय होचो तेयार एड-ऑन सोंगोत ए ञेलेत् आ
+extensions-warning-update-security-label =
+    .value = एड-ऑन आ़पती ञेल दो बाङ हुय होचो बाकाना . आम हा़ली को दाराय ते सुला़नामा दाड़ेयाक् आ .
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = हुय होचो
+    .tooltiptext = एड-ऑन हा़ली ञेंल हुय होचो तेयार में{ " " }
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = हा़लियाक् को ला़गित् तेंघान (C)
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = नितोक् हा़लियाक् को ञेल मे (V)
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = एड-ऑनस आच् आच् ते हा़ली मे (A)
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = { " " }एड-ऑनस आच् आच् लेकाते ते हा़ली होचो दोहड़ा साजाव में  (R)
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = जोतो एड-ऑनस आच् आच् लेका ते हा़ली होचो दोहड़ा साजाव मे (R)
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = एड ऑन को हा़ली येत् आ.
+extensions-updates-installed =
+    .value = आमाक् सहा़ली आकाना.
+extensions-updates-downloaded =
+    .value = आमाक् एड-ऑन हा़लियाक् को आ़तुर आंड़गो होचो आकाना.{ " " }
+extensions-updates-restart =
+    .label = बो़हाल पुरा़व ला़गित् नितोक् दोहड़ा एहोब मे{ " " }
+extensions-updates-none-found =
+    .value = जाहान हा़लियाक् को बाय ञाम लेना
+extensions-updates-manual-updates-found =
+    .label = ञामोक् हा़लियाक् को ञेंल मे
+extensions-updates-update-selected =
+    .label = हा़लियाक् को बो़हाल मे
+    .tooltiptext = नोवा लिसटी रे ञामोक् हा़लियाक् को बो़हाल मे
