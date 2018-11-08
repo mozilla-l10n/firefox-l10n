@@ -45,5 +45,10 @@ features-performance-desc = Agor rhwystrau, llyfnhau prosesau a gwneud y mwyaf o
 features-memory-title = Cof
 features-memory-desc = Canfod colli cof a gwneud eich rhaglenni'n chwim. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Methodd cais am danysgrifiad ({ $errorDescription }).
+newsletter-error-unknown = Digwyddodd gwall annisgwyl.
+newsletter-error-timeout = Daeth y cais am danysgrifiad i ben.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Rydych wedi galluogi Developer Tools yn llwyddiannus! I gychwyn arni, edrychwch ar ddewislen y Datblygwr Gwe neu agor yr offer gyda { $shortcut }.
