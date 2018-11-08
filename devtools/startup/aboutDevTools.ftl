@@ -45,5 +45,10 @@ features-performance-desc = Nyahsekat kesesakan, memperkemaskan proses, mengopti
 features-memory-title = Memori
 features-memory-desc = Cari kebocoran memori dan jadikan aplikasi anda pantas. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Gagal melengkapkan langganan ({ $errorDescription }).
+newsletter-error-unknown = Ada ralat tidak dijangka.
+newsletter-error-timeout = Tamat tempoh melengkapkan langganan.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Anda telah berjaya mengaktifkan Alatan Pembangun! Untuk memulakan, teroka menu Pembangun Web atau buka alatan dalam { $shortcut }.
