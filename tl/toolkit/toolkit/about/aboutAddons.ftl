@@ -121,3 +121,71 @@ legacy-warning-show-legacy = Ipakita ang mga extension ng legacy
 legacy-extensions =
     .value = Mga Extension ng Legacy
 legacy-extensions-description = Ang mga extension na ito ay hindi nakakatugon sa kasalukuyang { -brand-short-name } Mga pamantayan upang ma-deactivate ang mga ito. <label data-l10n-name="legacy-learn-more">Alamin ang tungkol sa mga pagbabago sa mga add-on</label>
+extensions-view-discover =
+    .name = Kumuha ng Add-ons
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Mga Bagong Updates
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Mga Available na Update
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Naka-disable lahat ng add-ons ng safe mode.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Naka-disable ang add-on compatibility checking. Posibleng may incompatible add-on ka.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-label =
+    .value = Naka-disable ang update security checking. Posibleng ma-compromise ka ng updates.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Maghanap ng mga Update
+    .accesskey = M
+extensions-updates-view-updates =
+    .label = Tingnan ang mga Bagong Updates
+    .accesskey = T
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = I-reset lahat ng add-ons upang awtomatikong ma-update
+    .accesskey = r
+extensions-updates-reset-updates-to-manual =
+    .label = Ibalik ang lahat ng Add-ons upang mabago nang mano-mano
+    .accesskey = I
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Inuupdate ang mga add-ons
+extensions-updates-installed =
+    .value = Na-update na ang add-ons mo.
+extensions-updates-downloaded =
+    .value = Na-download na ang updates sa add-ons mo.
+extensions-updates-restart =
+    .label = Mag-restart ngayon para makumpleto ang installation
+extensions-updates-none-found =
+    .value = Walang updates na nakita
+extensions-updates-manual-updates-found =
+    .label = Tingnan Lahat ng mga Update
+extensions-updates-update-selected =
+    .label = I-install ang mga Update
+    .tooltiptext = I-install ang mga update na nasa listahan
