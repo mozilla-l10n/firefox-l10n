@@ -45,5 +45,10 @@ features-performance-desc = Tıxacları açın, prosesləri sadələşdirin, mü
 features-memory-title = Yaddaş
 features-memory-desc = Yaddaş sızıntılarını tapın və tətbiqetmənizi axıcı edin. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Abunə istəyi uğursuz oldu ({ $errorDescription }).
+newsletter-error-unknown = Gözlənilməz xəta baş verdi.
+newsletter-error-timeout = Abunə istəyinin vaxtı çıxdı.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Tərtibatçı Alətlərini uğurla aktiv etdiniz! Başlamaq üçün Web Tərtibatçısı menyusunu incələyin və ya alətləri { $shortcut } ilə açın.
