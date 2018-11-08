@@ -15,6 +15,7 @@ enable-enable-button = Ativar ferramentas de programador
 enable-close-button = Fechar este separador
 welcome-title = Bem-vindo(a) às ferramentas de programador do Firefox!
 newsletter-title = Newsletter Mozilla Developer
+newsletter-message = Obtenha noticias de programador, truques e recursos enviados diretamente para a sua caixa de entrada.
 newsletter-email-placeholder =
     .placeholder = Email
 newsletter-privacy-label = Estou bem com a Mozilla manusear a minha informação como explicado nesta <a data-l10n-name="privacy-policy">Política de privacidade</a>.
