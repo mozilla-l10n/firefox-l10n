@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = 關閉多個分頁前警告您
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = 在離開或關閉多個分頁前警告您
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = 開啟多個分頁時，警告我可能會拖慢 { -brand-short-name }
     .accesskey = d
@@ -276,6 +279,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = 自動更新搜尋引擎
     .accesskey = e
+update-pref-write-failure-title = 寫入失敗
 
 ## General Section - Performance
 

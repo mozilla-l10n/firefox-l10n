@@ -135,7 +135,7 @@ legacy-extensions =
     .value = 傳統擴充套件
 legacy-extensions-description = 這些擴充套件不符合 { -brand-short-name } 目前的標準，已被停用。 <label data-l10n-name="legacy-learn-more">了解附加元件有什麼變動</label>
 extensions-view-discover =
-    .name = 取得元件
+    .name = 安裝附加元件
     .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = 最近的更新
@@ -155,15 +155,15 @@ extensions-warning-check-compatibility-label =
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
 extensions-warning-check-compatibility-enable =
-    .label = 啟用
-    .tooltiptext = 啟用附加元件相容性檢查
+    .label = 開啟
+    .tooltiptext = 開啟附加元件相容性檢查
 extensions-warning-update-security-label =
     .value = 已停止檢查附加元件安全性，更新程式可能不安全。
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 extensions-warning-update-security-enable =
-    .label = 啟用
-    .tooltiptext = 啟用附加元件更新安全檢查
+    .label = 開啟
+    .tooltiptext = 開啟附加元件更新安全性檢查
 
 ## Strings connected to add-on updates
 
@@ -179,7 +179,7 @@ extensions-updates-view-updates =
 
 extensions-updates-update-addons-automatically =
     .label = 自動更新附加元件
-    .accesskey = a
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
