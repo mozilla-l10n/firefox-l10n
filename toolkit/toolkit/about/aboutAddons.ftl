@@ -127,9 +127,14 @@ extensions-view-discover =
 extensions-view-recent-updates =
     .name = Վերջին Թարմացումները
     .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Առկա Թարմացումներ
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Ապահով կերպը պասիվացրել է բոլոր հավելումները:
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-label =
@@ -169,6 +174,12 @@ extensions-updates-update-addons-automatically =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Վերակայել բոլոր հավելումները՝ ինքնաշխատ թարմացնելու համար
+    .accesskey = Վ
+extensions-updates-reset-updates-to-manual =
+    .label = Վերակայել հավելումները՝ դրանք ձեռքով թարմացնելու համար
+    .accesskey = վ
 
 ## Status messages displayed when updating add-ons
 
@@ -178,7 +189,12 @@ extensions-updates-installed =
     .value = Ձեր հավելումը թարմացվեց:
 extensions-updates-downloaded =
     .value = Ձեր հավելումների թարմացումները բեռնվել են:
+extensions-updates-restart =
+    .label = Վերամեկնարկեք` տեղադրումը ավարտելու համար
 extensions-updates-none-found =
     .value = Թարմացում չի գտնվել
 extensions-updates-manual-updates-found =
     .label = Տեսնել Առկա Թարմացումները
+extensions-updates-update-selected =
+    .label = Տեղադրել Թարմացումները
+    .tooltiptext = Տեղադրում է այս ցանկում առկա թարմացումները:
