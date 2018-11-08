@@ -45,5 +45,10 @@ features-performance-desc = Zhbllokoni bllokimet, thjeshtoni proceset, optimizon
 features-memory-title = Kujtesë
 features-memory-desc = Gjeni rrjedhje të kujtesës dhe bëjeni aplikacionin tuaj të shpejtë. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Kërkesa për pajtim dështoi ({ $errorDescription }).
+newsletter-error-unknown = Ndodhi një gabim i papritur.
+newsletter-error-timeout = Kërkesës për pajtim i mbaroi koha.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = I aktivizuat me sukses Mjetet e Zhvilluesit! Që t’ia filloni, eksploroni menunë e Zhvilluesit Web ose hapni mjetet me { $shortcut }.
