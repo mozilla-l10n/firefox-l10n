@@ -117,3 +117,80 @@ disabled-unsigned-description = Tontoney wey mana hin ka tabatandi ka goy nda { 
 disabled-unsigned-learn-more = Bay ka tonton kaŋ ir ga durkutu ka war saajaw interneti ra.
 disabled-unsigned-devinfo = Cinakey kaŋ ga boona ngi tontoney ma korosandi ma gaabandi ka caw ir <label data-l10n-name="learn-more">fahamandi tiira ra</label>.
 plugin-deprecation-description = Haya foo ga kuma? Sukari fooyaŋ ši kanbandi koyne { -brand-short-name } ga. <label data-l10n-name="learn-more">Bay ka tonton.</label>
+extensions-view-discover =
+    .name = Tontoney zaa
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Taagandiri kokorantey
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Taagandiri barantey
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Saajaw alhaalooo na tontoney kul kayandi.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Tontoni cerekanbeyan koroširoo kayandi. I ga hima tontoniyaŋ kaŋ ši cerekanbe.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Tunandi
+    .tooltiptext = Tontoni cerekanbeyan korošiyan tunandi
+extensions-warning-update-security-label =
+    .value = Tontoni saajaw taagandiri koroširoo kayandi. A ga hima taagandirey ga šendayyaŋ kate.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Tunandi
+    .tooltiptext = Tontoni saajaw taagandiri koroširoo tunandi
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Taagandirey ceeci
+    .accesskey = c
+extensions-updates-view-updates =
+    .label = Taagandiri kokorantey guna
+    .accesskey = g
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Tontoni boŋ-taagandiri
+    .accesskey = T
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Tontoney kul willi boŋ-taagandiri bande
+    .accesskey = w
+extensions-updates-reset-updates-to-manual =
+    .label = Tontoney kul willi boŋ-taagandiri nda kanbe
+    .accesskey = w
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Goo ma tontoney taagandi
+extensions-updates-installed =
+    .value = War tontoney n' ka taagandi.
+extensions-updates-downloaded =
+    .value = War tontoney n' ka zumandi.
+extensions-updates-restart =
+    .label = Tunandi taaga ka sinjiyanoo timmandi.
+extensions-updates-none-found =
+    .value = Taagandiri kul mana duwandi
+extensions-updates-manual-updates-found =
+    .label = Taagandiri barantey guna
+extensions-updates-update-selected =
+    .label = Taagandirey sinji
+    .tooltiptext = Taagandiri barantey sinji maašeedaa woo ra
