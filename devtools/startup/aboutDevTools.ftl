@@ -26,3 +26,8 @@ features-network-title = شبکه
 features-network-desc = درخواست‌های شبکه‌ای که می‌توانند سایت شما را کند یا مسدود کنند را پایش کنید. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = فضای ذخیره‌سازی
 features-responsive-title = نمای طراحی واکنش‌گرا
+features-visual-editing-title = ویرایش دیداری
+features-visual-editing-desc = تنظیم دقیق پویانمایی‌ها، هم‌ترازی و حاشیه‌گذاری. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-performance-title = کارایی
+features-memory-title = حافظه
+features-memory-desc = نشت‌های حافظه را پیدا و برنامه‌تان را چابک کنید. <a data-l10n-name="learn-more">{ features-learn-more }</a>
