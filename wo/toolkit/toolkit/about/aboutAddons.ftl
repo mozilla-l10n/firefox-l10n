@@ -109,3 +109,80 @@ detail-rating =
     .value = Yëgg
 addon-restart-now =
     .label = Tambaliwaatal léegi
+extensions-view-discover =
+    .name = Katalog
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Yeesal
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Yeesal yi féex
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Anamu ñakk lajj suuxal na modili yokk yépp.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Wóorliku andu modili mottali yi dafa suux. Xëyna dafa am ay modil yu mënula and.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Suqali
+    .tooltiptext = Suqali seetlu yi ànd
+extensions-warning-update-security-label =
+    .value = Wóoralu yeesali kaarange modili mottali yi dafa suux. Xëyna da nga am ay modili mottali yu wóorul.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Suqali
+    .tooltiptext = Suqali wóoralu yeesali kaaraange yu modili mottali yi
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Wut ay yeesal
+    .accesskey = W
+extensions-updates-view-updates =
+    .label = Wone yeesal yi bees
+    .accesskey = W
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Yeesal boppam modil yi
+    .accesskey = Y
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Suqali yeesalu boppam bu bépp modil
+    .accesskey = S
+extensions-updates-reset-updates-to-manual =
+    .label = Suuxal yeesalu boppam bu bépp modil
+    .accesskey = S
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Yeesal modil yi
+extensions-updates-installed =
+    .value = Say modil yees nañu.
+extensions-updates-downloaded =
+    .value = Say yeesali modil yebu nañu.
+extensions-updates-restart =
+    .label = Tambaliwaatal ngir sottal samp wi.
+extensions-updates-none-found =
+    .value = Amul benn yeesal bu féex
+extensions-updates-manual-updates-found =
+    .label = Wone yeesal yi féex
+extensions-updates-update-selected =
+    .label = Samp yeesal yi
+    .tooltiptext = Samp yeesal yi féex ci lim bii
