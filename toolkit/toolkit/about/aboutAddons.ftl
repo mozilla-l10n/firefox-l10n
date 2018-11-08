@@ -149,10 +149,19 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ Check
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = ಇತ್ತೀಚಿನ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು View
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Add-ons ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್‌ಡೇಟ್‌ ಮಾಡು
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -160,6 +169,12 @@ extensions-warning-update-security-enable =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = ಎಲ್ಲಾ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್‌ಡೇಟ್‌ಗೆ Reset
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = ಎಲ್ಲಾ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಕೈಯಾರೆ ಅಪ್‌ಡೇಟ್‌ಗೆ Reset
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
