@@ -148,13 +148,20 @@ extensions-warning-safe-mode-label =
     .value = Todos os extras foram desativados pelo modo de segurança.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = A verificação de compatibilidade de extras está desativada. Poderá ter extras incompatíveis.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
 extensions-warning-check-compatibility-enable =
     .label = Ativar
     .tooltiptext = Ativar verificação de compatibilidade de extras
+extensions-warning-update-security-label =
+    .value = A verificação de compatibilidade de extras está desativada. Poderá estar comprometido com atualizações.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Ativar
+    .tooltiptext = Ativar verificação de segurança de atualização do extra
 
 ## Strings connected to add-on updates
 
@@ -178,6 +185,12 @@ extensions-updates-update-addons-automatically =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Repor atualização automática para todos os extras
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = Repor atualização manual para todos os extras
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
