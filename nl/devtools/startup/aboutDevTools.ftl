@@ -45,5 +45,10 @@ features-performance-desc = Verwijder knelpunten, stroomlijn processen, optimali
 features-memory-title = Geheugen
 features-memory-desc = Vind geheugenlekken en maak uw toepassing supersnel. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Verzoek tot inschrijving mislukt ({ $errorDescription }).
+newsletter-error-unknown = Er is een onverwachte fout opgetreden.
+newsletter-error-timeout = Time-out bij inschrijvingsverzoek.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = U hebt de ontwikkelaarshulpmiddelen met succes ingeschakeld! Bekijk het menu Webontwikkelaar of open de hulpmiddelen met { $shortcut } om te beginnen.
