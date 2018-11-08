@@ -45,5 +45,10 @@ features-performance-desc = Отстраняване на стеснения, о
 features-memory-title = Памет
 features-memory-desc = Откриване на загуби на памет и повишаване на отзивчивост. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Грешка в заявката за абонамент ({ $errorDescription }).
+newsletter-error-unknown = Възникна неочаквана грешка.
+newsletter-error-timeout = Изчакването на заявката за абонамент изтече.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Развойните инструменти са успешно включени! За начало разгледайте менюто „Разработчик“ или отворете инструментите с натискане на { $shortcut }.
