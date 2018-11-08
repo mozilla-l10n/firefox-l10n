@@ -19,9 +19,10 @@
 <!ENTITY paneAttachments.title    "Anexos">
 <!ENTITY panePrivacy.title        "Privacidade">
 <!ENTITY paneSecurity.title       "Segurança">
-<!ENTITY paneLightning.title      "Calendário">
+<!ENTITY paneLightning.title      "Agenda">
 <!ENTITY paneAdvanced.title       "Avançado">
 <!ENTITY paneAccount.title        "Contas">
+
 
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">
