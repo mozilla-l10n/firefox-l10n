@@ -215,3 +215,5 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> používa technológiu zabezpečenia, ktorá je zastaralá a zraniteľná voči útokom. Útočník by mohol ľahko získať informácie, o ktorých si myslíte, že sú zabezpečené. Administrátor webovej stránky ju musí najprv opraviť a až potom ju budete môcť navštíviť.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Chyba sieťového protokolu">
