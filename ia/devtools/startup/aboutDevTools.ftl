@@ -45,5 +45,10 @@ features-performance-desc = Disbloca le collos de bottilia, simplifica le proces
 features-memory-title = Memoria
 features-memory-desc = Trova le perditas de memoria e rende fulminee tu application. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Le demanda de abonamento es fallite ({ $errorDescription }).
+newsletter-error-unknown = Un error non attendite occurreva.
+newsletter-error-timeout = Le demanda de abonamento es expirate.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Tu ha activate con successo Utensiles de disveloppamento! Pro comenciar, explora le menu de Disveloppator de web o aperi le utensiles per { $shortcut }.
