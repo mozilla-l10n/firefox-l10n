@@ -38,3 +38,5 @@ features-memory-desc = मेमरी गळती शोधा आणि आ�
 # Variables:
 #   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
 newsletter-error-common = सदस्यता विनंती अयशस्वी ({ $errorDescription }).
+newsletter-error-unknown = एक अनपेक्षित त्रुटी आली.
+newsletter-error-timeout = सदस्यता विनंती कालबाह्य झाली.
