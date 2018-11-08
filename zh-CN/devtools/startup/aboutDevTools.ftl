@@ -43,6 +43,7 @@ features-visual-editing-desc = 微调动画、对齐和填充。 <a data-l10n-na
 features-performance-title = 性能
 features-performance-desc = 解除瓶颈、简化流程、优化资源加载。 <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = 内存
+features-memory-desc = 找出内存泄漏，使您的应用更快一步。 <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = 您已成功启用开发者工具！请使用 Web 开发者菜单或者 { $shortcut } 快捷键打开工具。
