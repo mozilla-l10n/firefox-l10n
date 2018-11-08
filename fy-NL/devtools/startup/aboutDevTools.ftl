@@ -45,5 +45,10 @@ features-performance-desc = Iepenje fûken, streamlynje prosessen, optimalisearj
 features-memory-title = Unthâld
 features-memory-desc = Fyn ûnthâldlekken en meitsje jo applikaasje pittich. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Oanmeldfersyk mislearre ({ $errorDescription }).
+newsletter-error-unknown = Der is in ûnferwachte flater bard.
+newsletter-error-timeout = Oanmeldfersyk ferrûn.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Jo hawwe mei sukses ûntwikkelersark ynskeakele! Untdek it Webûntwikkelmenu of iepenje it ark mei { $shortcut } om te starten.
