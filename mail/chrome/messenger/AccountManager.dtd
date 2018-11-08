@@ -8,17 +8,17 @@
 
 <!ENTITY accountActionsButton.label "Acțiuni legate de cont">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Adaugă un cont de poștă electronică…">
+<!ENTITY addMailAccountButton.label "Adaugă un cont de corespondență…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addIMAccountButton.label "Adaugă un cont de chat…">
+<!ENTITY addIMAccountButton.label "Adăugare cont de chat…">
 <!ENTITY addIMAccountButton.accesskey "t">
-<!ENTITY addFeedAccountButton.label "Adaugă un cont pentru fluxuri…">
+<!ENTITY addFeedAccountButton.label "Adaugă cont pentru fluxuri…">
 <!ENTITY addFeedAccountButton.accesskey "f">
 <!ENTITY addOtherAccountButton.label "Adaugă un alt cont…">
 <!ENTITY addOtherAccountButton.accesskey "o">
-<!ENTITY setDefaultButton.label "Setează ca implicit">
+<!ENTITY setDefaultButton.label "Marchează ca implicit">
 <!ENTITY setDefaultButton.accesskey "M">
-<!ENTITY removeButton.label "Șterge contul">
+<!ENTITY removeButton.label "Șterge cont">
 <!ENTITY removeButton.accesskey "t">
 
 <!-- AccountManager.xul -->

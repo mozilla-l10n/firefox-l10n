@@ -29,7 +29,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Curăță lista">
-<!ENTITY cmd.clearList.tooltip            "Elimină din listă elementele finalizate, anulate și eșuate">
+<!ENTITY cmd.clearList.tooltip            "Elimină din listă elementele completate, anulate și cele eșuate">
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
