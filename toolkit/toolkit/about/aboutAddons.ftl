@@ -130,3 +130,80 @@ legacy-warning-show-legacy = Ескірген кеңейтулерді көрс�
 legacy-extensions =
     .value = Ескірген кеңейтулер
 legacy-extensions-description = Бұл кеңейтулер { -brand-short-name } өнімінің ағымдағы стандартқа сай емес, сондықтан сөндірілді. <label data-l10n-name="legacy-learn-more">Қосымшалар өзгерістері туралы көбірек білу</label>
+extensions-view-discover =
+    .name = Қосымшаларды алу
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Соңғы жаңартулар
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Қолжетерлік жаңартулар
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Барлық кеңейтулер қауіпсіз режимімен сөндірілген.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Кеңейтулер үйлесімдігін тексеруді сөндіру. Сізде үйлесімсіз кеңейтулер бар болуы мүмкін.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Іске қосу
+    .tooltiptext = Кеңейтулер үйлесімдігін тексеруді іске қосу
+extensions-warning-update-security-label =
+    .value = Кеңейтулер жаңартуларын қауісіздікке тексеру сөндірулі. Жаңартулармен қор болуыңыз мүмкін.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Іске қосу
+    .tooltiptext = Кеңейтулер жаңартуларын қауісіздікке тексеруді іске қосу
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Жаңартуларды тексеру
+    .accesskey = к
+extensions-updates-view-updates =
+    .label = Соңғы жаңартуларды қарау
+    .accesskey = о
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Кеңейтулерді автожаңарту
+    .accesskey = е
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Барлық кеңейтулерді автожаңартылатындай етіп қылу
+    .accesskey = а
+extensions-updates-reset-updates-to-manual =
+    .label = Барлық кеңейтулерді тек қолмен жаңартылатындай етіп қылу
+    .accesskey = о
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Қосымшалар жаңартылуда
+extensions-updates-installed =
+    .value = Қосымшаларыңыз жаңартылды.
+extensions-updates-downloaded =
+    .value = Қосымшаларыңыз жаңартулары жүктеліп алынды.
+extensions-updates-restart =
+    .label = Орнатуды аяқтау үшін қазір қайта қосу
+extensions-updates-none-found =
+    .value = Жаңартулар табылмады
+extensions-updates-manual-updates-found =
+    .label = Қолжетерлік жаңартуларды көрсету
+extensions-updates-update-selected =
+    .label = Жаңартуларды орнату
+    .tooltiptext = Бұл тізімдегі қолжетерлік жаңартуларды орнату
