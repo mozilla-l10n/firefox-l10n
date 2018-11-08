@@ -130,3 +130,60 @@ legacy-warning-show-legacy = Afișează extensiile obsolete
 legacy-extensions =
     .value = Extensii obsolete
 legacy-extensions-description = Aceste extensii nu îndeplinesc standardele actuale ale { -brand-short-name } astfel încât au fost dezactivate. <label data-l10n-name="legacy-learn-more">Află despre schimbările aduse suplimentelor</label>
+extensions-view-recent-updates =
+    .name = Actualizări recente
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Actualizări disponibile
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Verificarea compatibilității suplimentelor este dezactivată. Ați putea avea suplimente incompatibile.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Activează
+    .tooltiptext = Activează verificarea compatibilității suplimentelor
+extensions-warning-update-security-label =
+    .value = Verificarea securității actualizărilor de suplimente este dezactivată. Ați putea primi actualizări compromise.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Activează
+    .tooltiptext = Activează verificarea securității actualizărilor suplimentelor
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Caută actualizări
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = Vezi actualizările recente
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Se actualizează suplimentele
+extensions-updates-none-found =
+    .value = Nicio actualizare găsită
+extensions-updates-manual-updates-found =
+    .label = Vezi actualizările disponibile
+extensions-updates-update-selected =
+    .label = Instalează actualizările
+    .tooltiptext = Instalează actualizările disponibile în această listă
