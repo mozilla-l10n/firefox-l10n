@@ -22,4 +22,8 @@ features-network-title = నెట్‌వర్కు
 features-storage-title = నిల్వ
 features-performance-title = పనితనం
 features-memory-title = మెమొరీ
+# Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = చందా అభ్యర్థన విఫలమైంది ({ $errorDescription }).
 newsletter-error-unknown = అనుకోని లోపం సంభవించింది.
+newsletter-error-timeout = చందా అభ్యర్థన కాలం చెల్లింది.
