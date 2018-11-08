@@ -155,10 +155,16 @@ extensions-warning-check-compatibility-label =
     .value = A verificação de compatibilidade está desabilitada. Pode ter complementos incompatíveis.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Ativar
+    .tooltiptext = Ativar verificação de compatibilidade de extensões
 extensions-warning-update-security-label =
     .value = A verificação de segurança da conexão está desativada. Atualizações de complementos podem comprometer seu computador.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Ativar
+    .tooltiptext = Ativar verificação de segurança da atualização de extensões
 
 ## Strings connected to add-on updates
 
