@@ -167,6 +167,9 @@ extensions-updates-view-updates =
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Diweddaru Ychwanegion yn Awtomatig
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -174,6 +177,12 @@ extensions-updates-view-updates =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Ailosod Pob Ychwanegyn i'w Diweddaru'n Awtomatig
+    .accesskey = P
+extensions-updates-reset-updates-to-manual =
+    .label = Ailosod Pob Ychwanegyn i Ddiweddaru gyda Llaw
+    .accesskey = L
 
 ## Status messages displayed when updating add-ons
 
