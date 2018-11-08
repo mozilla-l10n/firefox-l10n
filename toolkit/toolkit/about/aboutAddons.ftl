@@ -130,3 +130,72 @@ legacy-warning-show-legacy = Показване на остарелите раз
 legacy-extensions =
     .value = Остарели добавки
 legacy-extensions-description = Тези разширения не отговарят на текущите стандарти на { -brand-short-name } и затова са изключени. <label data-l10n-name="legacy-learn-more">Научете повече за промените при добавките</label>
+extensions-view-recent-updates =
+    .name = Скорошни обновявания
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Налични обновявания
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Всички добавки са изключени от Надеждния режим.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Проверката за съвместимост на добавките е изключена. Възможно е да имате несъвместими добавки.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Включване
+    .tooltiptext = Включване на проверка за съвместимост на добавки
+extensions-warning-update-security-label =
+    .value = Проверката за безопасност на обновяването на добавки е изключена. Възможно е системата да се компрометира от добавки.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Включване
+    .tooltiptext = Включване на проверка за безопасност на обновяването на добавки
+
+## Strings connected to add-on updates
+
+extensions-updates-view-updates =
+    .label = Последни обновявания
+    .accesskey = о
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Автоматично обновяване на добавките
+    .accesskey = А
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Нулиране на всички добавки, за да бъдат автоматично обновявани
+    .accesskey = Н
+extensions-updates-reset-updates-to-manual =
+    .label = Нулиране на всички добавки, за да бъдат ръчно обновявани
+    .accesskey = у
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Обновяване на добавките
+extensions-updates-downloaded =
+    .value = Обновяването за вашите добавки е изтеглено.
+extensions-updates-restart =
+    .label = Рестартирайте, за да завършите инсталацията сега
+extensions-updates-none-found =
+    .value = Не бяха намерени обновявания
+extensions-updates-manual-updates-found =
+    .label = Показване на наличните обновявания
+extensions-updates-update-selected =
+    .label = Инсталиране на обновявания
+    .tooltiptext = Инсталиране на наличните обновявания от този списък
