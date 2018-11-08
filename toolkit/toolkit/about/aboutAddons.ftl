@@ -130,3 +130,71 @@ legacy-warning-show-legacy = Zestarjene rozšěrjenja pokazać
 legacy-extensions =
     .value = Zestarjene rozšěrjenja
 legacy-extensions-description = Tute rozšěrjenja su so znjemóžnili, dokelž standardam { -brand-short-name } njewotpowěduja. <label data-l10n-name="legacy-learn-more">Dalše informacije wo změnach tutych přidatkow</label>
+extensions-view-discover =
+    .name = Přidatki wobstarać
+    .tooltiptext = { extensions-view-discover.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Wšě přidatki su so přez wěsty modus znjemóžnili.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Přepruwowanje přidatkoweje kompatibelnosće je znjemóžnjene. Je móžno, zo maće njekompatibelne přidatki.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Zmóžnić
+    .tooltiptext = Přepruwowanje přidatkoweje kompatibelnosće zmóžnić
+extensions-warning-update-security-label =
+    .value = Přepruwowanje wěstoty aktualizacije je znjemóžnjene. Je móžno, zo aktualizacije wam wohrožuja.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Zmóžnić
+    .tooltiptext = Přepruwowanje wěstoty aktualizacije zmóžnić
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Za aktualizacijemi pytać
+    .accesskey = p
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Přidatki awtomatisce aktualizować
+    .accesskey = a
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Wšě přidatki zaso awtomatisce aktualizować
+    .accesskey = z
+extensions-updates-reset-updates-to-manual =
+    .label = Wšě přidatki manuelnje aktualizować
+    .accesskey = m
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Aktualizowanje přidatkow
+extensions-updates-installed =
+    .value = Waše přidatki su so zaktualizowali.
+extensions-updates-downloaded =
+    .value = Waše přidatkowe aktualizacije su so sćahnyli.
+extensions-updates-restart =
+    .label = Znowa startować, zo by so instalacija zakónčiła
+extensions-updates-none-found =
+    .value = Žane aktualizacije namakane
+extensions-updates-manual-updates-found =
+    .label = K dispoziciji stejace aktualizacije sej wobhladać
+extensions-updates-update-selected =
+    .label = Aktualizacije instalować
+    .tooltiptext = K dispoziciji stejace aktualizacije z lisćiny instalować
