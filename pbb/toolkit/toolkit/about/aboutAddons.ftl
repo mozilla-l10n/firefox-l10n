@@ -115,3 +115,80 @@ disabled-unsigned-heading =
     .value = Maai kãajãhnxisa' kçxhaçxanimeek neyũu.
 disabled-unsigned-description = Yaçkawe'sxa's kãajanxisa' ki'h thẽgnximee neyũutxna idx vxisnxisa' { -brand-short-name }.Ewuma'kh.<label data-l10n-name="find-addons">Uyna yu'pthẽhna</label>meeçxa' papẽhyna mjĩsa's ki'h thẽgya'.
 disabled-unsigned-learn-more = Thakwe jiyuya kwesx çxaçxa yatxnxisatx pu'çxjxa phuphwaja's txa dxi'the.
+extensions-view-discover =
+    .name = Ji'phunxi's kãajã'na{ " " }
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Ãçxhtewe'sxa's yu'pthẽhna{ " " }
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Een ji'phsa's yu'pthẽhna
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Jxuka kãajãhnxisa fxiçxhanxiya' neyũutxna tud tud isa.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Puutx jadasa's thẽhgna kãajãhna naa fxiçxanxisa's. Idxa' puutx jada kãajãnxisa's ji'phuya' ewune'ga.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Mki'ta
+    .tooltiptext = Kẽse'hna we'wen katxhuden ki'h kãajãhna.
+extensions-warning-update-security-label =
+    .value = { " " }Kthegun ãan isa dxi'htepa' pa'yakx kãajãhna ũsa' fxiçxhanxitepa'.Idxa' pa'ya'kx thẽgya' ewune'ga nmeh ũukhũkhsa' napkaçxha' yu'thẽwẽete'.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Mki'ta
+    .tooltiptext = Ki'tan ãahn isa dxi'htepa' phuphna kãajãhwa'j
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Yu'pthẽwa'ja's pakwen{ " " }
+    .accesskey = Y
+extensions-updates-view-updates =
+    .label = U'sesatx thehgwa'ja's yu'thẽhna
+    .accesskey = U
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Yu'pthẽhna kãajãwa'ja's txãaiçxa's
+    .accesskey = Y
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Phewu'hn jxuka kãajãhnxisaatx ki´h txãaiçxaa yu'pthẽhn.
+    .accesskey = P
+extensions-updates-reset-updates-to-manual =
+    .label = Phewuhn jxuka kãajãnxisatx ki'ki'n yu'pthẽhn kuse vxinxisatx
+    .accesskey = P
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Kãajã'hna ki'h yu'pthẽwa'ja's
+extensions-updates-installed =
+    .value = Idx kãajãnxisa' yu'thẽnxiya' ũsa'.
+extensions-updates-downloaded =
+    .value = Idx yu'pthẽnxisa' kãajãnxiy'ata' ki'h spahkxya'.
+extensions-updates-restart =
+    .label = Ãçxh ki'h takhna kãajãhn çxkitxaya'
+extensions-updates-none-found =
+    .value = Yu´pthẽwa'ja's uymeeta'
+extensions-updates-manual-updates-found =
+    .label = Thẽgna yu'pthẽwa'ja's een ji'phsa's
+extensions-updates-update-selected =
+    .label = Çxkitxan yu'pthẽwa'ja's
+    .tooltiptext = Çxkitxan yu'pthẽhn een jipthu na's kãajãdaya'
