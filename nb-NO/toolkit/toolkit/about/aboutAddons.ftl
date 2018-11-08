@@ -130,3 +130,80 @@ legacy-warning-show-legacy = Vis foreldete utvidelser
 legacy-extensions =
     .value = Foreldete utvidelser
 legacy-extensions-description = Disse utvidelsene oppfyller ikke gjeldende standarder i { -brand-short-name } og er derfor slått av. <label data-l10n-name="legacy-learn-more">Les mer om endringer av utvidelser</label>
+extensions-view-discover =
+    .name = Last ned utvidelser
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Nylig oppdatert
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Tilgjengelige oppdateringer
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Alle utvidelser er avslått av sikker modus.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Kompatibilitetskontroll er avslått. Du har kanskje ukompatible utvidelser.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Slå på
+    .tooltiptext = Slå på kompatibilitetskontroll
+extensions-warning-update-security-label =
+    .value = Sikkerhetskontroll av utvidelsesoppdateringer er avslått. Sikkerheten din kan bli satt i fare av oppdateringer.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Slå på
+    .tooltiptext = Slå på sikkerhetskontroll av utvidelsesoppdateringer
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Søk etter oppdateringer nå
+    .accesskey = S
+extensions-updates-view-updates =
+    .label = Vis nylig oppdaterte
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Oppdater utvidelser automatisk
+    .accesskey = O
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Tilbakestill alle utvidelser til å oppdatere automatisk
+    .accesskey = T
+extensions-updates-reset-updates-to-manual =
+    .label = Tilbakestill alle utvidelser til å oppdatere manuelt
+    .accesskey = T
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Oppdaterer utvidelser
+extensions-updates-installed =
+    .value = Utvidelsene er oppdatert.
+extensions-updates-downloaded =
+    .value = Oppdateringer til utvidelsene er lastet ned.
+extensions-updates-restart =
+    .label = Start på nytt nå for å fullføre installeringen
+extensions-updates-none-found =
+    .value = Fant ingen oppdateringer
+extensions-updates-manual-updates-found =
+    .label = Vis tilgjengelige oppdateringer
+extensions-updates-update-selected =
+    .label = Installer oppdateringer
+    .tooltiptext = Installer tilgjengelige oppdateringer i denne listen
