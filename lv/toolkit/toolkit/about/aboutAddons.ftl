@@ -121,25 +121,52 @@ legacy-warning-show-legacy = Rādīt vēsturiskos papildinājumus
 legacy-extensions =
     .value = Vēsturiskie papildinājumi
 legacy-extensions-description = Šie paplašinājumi neatbilst pašreizējiem { -brand-short-name } standartiem, tāpēc tie tika deaktivizēti. <label data-l10n-name="legacy-learn-more">Uzzināt vairāk par papildinājumu izmaiņām</label>
+extensions-view-discover =
+    .name = Iegūt papildinājumus
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Nesenie atjauninājumi
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Pieejamie atjauninājumi
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Drošais režīms ir deaktivējis visus papildinājumu.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Papildinājumu savietojamības pārbaude ir deaktivēta. Iespējams jums ir nesavietojami papildinājumu.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Aktivēt
+    .tooltiptext = Aktivēt papildinājumu savietojamības pārbaudi
+extensions-warning-update-security-label =
+    .value = Papildinājumu drošības pārbaude ir deaktivēta. Iespējams jums ir nedroši papildinājumu.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Aktivēt
+    .tooltiptext = Aktivēt papildinājumu drošības pārbaudi
 
 ## Strings connected to add-on updates
 
 extensions-updates-check-for-updates =
     .label = Meklēt atjauninājumus
     .accesskey = M
+extensions-updates-view-updates =
+    .label = Aplūkot nesenos atjauninājumus
+    .accesskey = n
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Atjaunināt papildinājumus automātiski
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -147,6 +174,27 @@ extensions-updates-check-for-updates =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Atjaunināt visus papildinājumus automātiski
+    .accesskey = l
+extensions-updates-reset-updates-to-manual =
+    .label = Atjaunināt visus papildinājumus manuāli
+    .accesskey = m
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Atjaunina papildinājumus
+extensions-updates-installed =
+    .value = Jūsu papildinājumi ir atjaunināti.
+extensions-updates-downloaded =
+    .value = Jūsu papildinājumu atjauninājumi ir lejupielādēti.
+extensions-updates-restart =
+    .label = Pārstartējiet, lai pabeigtu atjaunināšanu
+extensions-updates-none-found =
+    .value = Atjauninājumi nav atrasti
+extensions-updates-manual-updates-found =
+    .label = Aplūkot pieejamos atjauninājumus
+extensions-updates-update-selected =
+    .label = Instalēt atjauninājumus
+    .tooltiptext = Instalēt visus šajā sarakstā pieejamos atjauninājumus
