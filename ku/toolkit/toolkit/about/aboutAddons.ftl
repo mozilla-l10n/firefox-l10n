@@ -104,3 +104,80 @@ detail-rating =
     .value = Dengdan
 addon-restart-now =
     .label = Niha ji nû ve bide destpêkirin
+extensions-view-discover =
+    .name = Add-onan bistîne
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Rojanekirin Nêz
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Rojankirinên Amade
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Hemû add-on ji hêla moda ewle ve hatin neçalakirin.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Kontrolkirina hevgirtina add-onan hat neçalakirin. Dibe ku add-onên te yên hev nagirin hene.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Çalakkirin
+    .tooltiptext = Destûrê bide kontrolkirina hevgirtina add-onan
+extensions-warning-update-security-label =
+    .value = Di rojanekirina add-onan de kontrolkirina ewlekariyê girtî ye. Dibe ku rojanekirin ne ewle bin.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Çalakkirin
+    .tooltiptext = Destûrê bide kontrolkirina ewlekariyê ya rojanekirina add-onan
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Li rojanekirinan bigere
+    .accesskey = L
+extensions-updates-view-updates =
+    .label = Rojanekirinên Nêz Nîşan Bide
+    .accesskey = R
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Add-onan xweber rojane bike
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Ji bo rojanekirina xweber hemû add-onan vesaz bike
+    .accesskey = r
+extensions-updates-reset-updates-to-manual =
+    .label = Ji bo rojanekirina bi destan hemû add-onan vesaz bike
+    .accesskey = r
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Add-onan rojane dıke
+extensions-updates-installed =
+    .value = Add-onön te hatın rojanekırın.
+extensions-updates-downloaded =
+    .value = Rojanekirinên add-onên te hatin daxistin.
+extensions-updates-restart =
+    .label = Ji bo bidawîkirina sazkirinê, niha ji nû ve bide destpêkirin
+extensions-updates-none-found =
+    .value = Tu rojanekirin nehat dîtin
+extensions-updates-manual-updates-found =
+    .label = Rojanekirinên Amade Nîşan Bide
+extensions-updates-update-selected =
+    .label = Rojanekirinan saz bike
+    .tooltiptext = Rpjanekirinê di vê lîsteyê de saz bike
