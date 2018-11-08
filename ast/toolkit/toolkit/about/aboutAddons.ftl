@@ -124,22 +124,52 @@ legacy-warning-show-legacy = Amosar estensiones heredaes
 legacy-extensions =
     .value = Estensiones heredaes
 legacy-extensions-description = Estes estensiones nun cumplen colos estándares actuales de { -brand-short-name } polo que tán desactivaes. <label data-l10n-name="legacy-learn-more">Deprendi tocante al cambéu nos complementos</label>
+extensions-view-discover =
+    .name = Consiguir complementos
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Anovamientos recientes
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Anovamientos disponibles
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = El mou seguru desactivó tolos complementos.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = La comprobación de compatibilidá de complementos ta desactivada. Pue que tengas complementos incompatibles.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Activar
+    .tooltiptext = Activar comprobación de compatibilidá de complementos
+extensions-warning-update-security-label =
+    .value = La comprobación de seguranza de complementos ta desactivada. Los anovamientos podríen ser un riesgu.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Activar
+    .tooltiptext = Activar comprobación de seguranza de complementos
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Comprobar anovamientos
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = Ver anovamientos recientes
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Anovar complementos automáticamente
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -147,6 +177,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Reafitar tolos complementos p'anovalos automáticamente
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = Reafitar tolos complementos p'anovalos a mano
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Anovando complementos
+extensions-updates-installed =
+    .value = Anováronse los complementos.
+extensions-updates-downloaded =
+    .value = Baxáronse los anovamientos de los complementos.
+extensions-updates-restart =
+    .label = Reaniciar agora pa completar la instalación
+extensions-updates-none-found =
+    .value = Nun s'alcontraron anovamientos
+extensions-updates-manual-updates-found =
+    .label = Ver anovamientos disponibles
+extensions-updates-update-selected =
+    .label = Instalar anovamientos
+    .tooltiptext = Instalar los anovamientos disponibles nesti llistáu
