@@ -107,18 +107,33 @@ addon-restart-now =
 extensions-view-discover =
     .name = এড-অনসমূহ প্ৰাপ্ত কৰক
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = শেহতীয়া আপডেইটসমূহ
+    .tooltiptext = { extensions-view-recent-updates.name }
 extensions-view-available-updates =
     .name = উপলব্ধ আপডেইটসমূহ
     .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = সকলো এড-অন সুৰক্ষিত অৱস্থা দ্বাৰা অসামৰ্থবান
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = এড-অন খাপ খোৱা নীৰিক্ষণ অসামৰ্থবান কৰা আছে। আপোনাৰ খুব সম্ভব খাপ নোখোৱা এড-অনসমূহ আছে
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = সামৰ্থবান কৰক
+    .tooltiptext = এড-অন খাপ খোৱা নীৰিক্ষণ সামৰ্থবান কৰক
+extensions-warning-update-security-label =
+    .value = এড-অন আপডেইট সুৰক্ষা নীৰিক্ষণ অসামৰ্থবান কৰা আছে। আপুনি আপডেইটসমূহৰে আপোচ কৰিব লগিয়া হব পাৰে।
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = সামৰ্থবান কৰক
+    .tooltiptext = এড-অন আপডেইট সুৰক্ষা নীৰিক্ষণ সামৰ্থবান কৰক
 
 ## Strings connected to add-on updates
 
@@ -138,6 +153,8 @@ extensions-warning-update-security-container =
 
 extensions-updates-installed =
     .value = আপোনাৰ এড-অনসমূহ আপডেইট কৰা হল।
+extensions-updates-downloaded =
+    .value = আপোনাৰ এড-অন আপডেইটসমূহ ডাউনল'ড কৰা হল।
 extensions-updates-restart =
     .label = ইনস্টল সম্পূৰ্ণ কৰিবলে পুনৰাম্ভ কৰক
 extensions-updates-none-found =
