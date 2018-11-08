@@ -124,6 +124,12 @@ legacy-extensions-description = این ضمیمه‌ها استاندارهای 
 extensions-view-discover =
     .name = دریافت افزودنی‌ها
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = بروزرسانی‌های اخیر
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = بروزرسانی‌های موجود
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
@@ -138,15 +144,29 @@ extensions-warning-check-compatibility-container =
 extensions-warning-check-compatibility-enable =
     .label = فعال کردن
     .tooltiptext = فعال کردن کنترل سازگاری افزودنی‌ها
+extensions-warning-update-security-label =
+    .value = بررسی امنیتی بروزرسانی افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های‌تان به صورت ناامن بروزرسانی شوند.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = فعال کردن
+    .tooltiptext = فعال کردن بررسی امنیتی بروزرسانی افزودنی‌ها
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = بررسی برای بروزرسانی‌ها
+    .accesskey = ب
+extensions-updates-view-updates =
+    .label = مشاهده بروزرسانی‌های اخیر
+    .accesskey = م
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = بروزرسانی خودکار همهٔ افزودنی‌ها
+    .accesskey = ب
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -154,10 +174,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = تنظیم مجدد همهٔ افزودنی‌ها برای انجام بروزرسانی بصورت خودکار
+    .accesskey = خ
+extensions-updates-reset-updates-to-manual =
+    .label = تنظیم مجدد همهٔ افزودنی‌ها برای انجام بروزرسانی بصورت دستی
+    .accesskey = ت
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = در حال بروزرسانی افزودنی‌ها
 extensions-updates-installed =
     .value = افزودنی‌های شما به‌هنگام شدند.
+extensions-updates-downloaded =
+    .value = بروزرسانی‌های افزودنی‌های شما دریافت گردیدند.
 extensions-updates-restart =
     .label = را‌ه‌اندازی مجدد به منظور اتمام نصب
+extensions-updates-none-found =
+    .value = هیچ بروزرسانی‌ای پیدا نشد
+extensions-updates-manual-updates-found =
+    .label = مشاهدهٔ بروزرسانی‌های موجود
+extensions-updates-update-selected =
+    .label = نصب بروزرسانی
+    .tooltiptext = نصب بروزرسانی‌های موجود در این فهرست
