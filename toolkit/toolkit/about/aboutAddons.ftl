@@ -165,6 +165,9 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Праверыць наяўнасць абнаўленняў
+    .accesskey = с
 extensions-updates-view-updates =
     .label = Пабачыць нядаўнія абнаўленні
     .accesskey = б
