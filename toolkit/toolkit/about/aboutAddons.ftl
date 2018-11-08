@@ -135,11 +135,24 @@ legacy-warning-show-legacy = მოძველებული გაფარ�
 legacy-extensions =
     .value = მოძველებული გაფართოებები
 legacy-extensions-description = ეს გაფართოებები არ შეესაბამება { -brand-short-name }-ის არსებულ სტანდარტებს და შესაბამისად ამორთულია. <label data-l10n-name="legacy-learn-more">ვრცლად, დამატებებთან დაკავშირებული ცვლილებების შესახებ</label>
+extensions-view-discover =
+    .name = კატალოგი
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = ბოლო განახლებები
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = ხელმისწვდომი განახლებები
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = ყველა დამატება გამორთულია უსაფრთხო რეჟიმის მიერ.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = დამატებების თავსებადობის შემოწმება გამორთულია. შესაძლოა არათავსებადი დამატებები გქონდეთ.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
 extensions-warning-update-security-container =
