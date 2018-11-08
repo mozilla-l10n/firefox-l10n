@@ -45,5 +45,10 @@ features-performance-desc = Deblokirajte uska grla, optimizujte procese i assete
 features-memory-title = Memorija
 features-memory-desc = Pronađite curenja memorije i ubrzajte vašu aplikaciju. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Neuspješan zahtjev za pretplatu ({ $errorDescription }).
+newsletter-error-unknown = Desila se neočekivana greška.
+newsletter-error-timeout = Zahtjev za pretplatu je istekao.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Uspješno ste omogućili Razvojne alate! Da započnete, istražite Web Developer meni ili otvorite alate sa { $shortcut }.
