@@ -121,3 +121,80 @@ legacy-warning-show-legacy = Bonisa izongezelelo ezizizikhokelo
 legacy-extensions =
     .value = IZongezelelo zeziKhokelo
 legacy-extensions-description = Ezi zongezelelo azidibani nemilinganiselo ye{ -brand-short-name } ekhoyo ngoko iye yayekiswa. <label data-l10n-name="legacy-learn-more">Funda ngotshintsho kwizongezelelo</label>
+extensions-view-discover =
+    .name = Fumana izongezelelo
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Uhlaziyo lwakutshanje
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Uhlaziyo olufumanekayo
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Zonke izongezelelo ziqhwalelisiwe ngemo ekhuselekileyo.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Isongezelelo sokukhangela uhambelwanosiqhwalelisiwe. Usenokuba nezongezelelo ezingahambelaniyo.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Vumela
+    .tooltiptext = Vumela isongezelelo sokukhangela uhambelwano
+extensions-warning-update-security-label =
+    .value = Uhlaziyo lwesongezelelo sokukhangela ukhuseleko luqhwalelisiwe. Ungahlangatyezwa luhlaziyo.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Vumela
+    .tooltiptext = Vumela uhlaziyo lwesongezelelo sokukhangela ukhuseleko
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Khangela iZihlaziyi
+    .accesskey = K
+extensions-updates-view-updates =
+    .label = Jonga uhlaziyo lwakutshanje
+    .accesskey = J
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Uhlaziyo nezongezelelo ngokuzenzekelayo
+    .accesskey = n
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Seta kwakhona zonke izongezelelo zihlaziye ngokuzenzekelayo
+    .accesskey = S
+extensions-updates-reset-updates-to-manual =
+    .label = Seta kwakhona zonke izongezelelo zihlaziywe ngesandla
+    .accesskey = S
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Ihlaziya izongezelelo
+extensions-updates-installed =
+    .value = Izongezelelo zakho zihlaziyiwe.
+extensions-updates-downloaded =
+    .value = Uhlaziyo lwezongezelelo zakho zikhutshelwe.
+extensions-updates-restart =
+    .label = Qalisa kwakhona ukugqibezela ufakelo
+extensions-updates-none-found =
+    .value = Akukho zihlaziyi zifumanekayo
+extensions-updates-manual-updates-found =
+    .label = Jonga uhlaziyo olufumanekayo
+extensions-updates-update-selected =
+    .label = Fakela iZihlaziyi
+    .tooltiptext = Fakela uhlaziyo olufumanekayo kolu ludwe
