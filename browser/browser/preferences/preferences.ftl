@@ -856,3 +856,7 @@ certs-view =
 certs-devices =
     .label = Sigurnosni uređaji…
     .accesskey = S
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Spremi datoteke u { $service-name }
