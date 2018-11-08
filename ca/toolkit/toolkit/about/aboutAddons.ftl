@@ -121,3 +121,73 @@ legacy-warning-show-legacy = Mostra les extensions antigues
 legacy-extensions =
     .value = Extensions antigues
 legacy-extensions-description = Aquestes extensions no compleixen els estàndards actuals del { -brand-short-name } i s'han desactivat. <label data-l10n-name="legacy-learn-more">Més informació sobre els canvis en els complements</label>
+extensions-view-discover =
+    .name = Més complements
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Actualitzacions recents
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Actualitzacions disponibles
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = El mode segur ha inhabilitat tots els complements.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = La comprovació de compatibilitat dels complements no està habilitada. Pot ser que tingueu complements incompatibles.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Habilita
+    .tooltiptext = Habilita la comprovació de compatibilitat dels complements
+extensions-warning-update-security-label =
+    .value = La comprovació de seguretat dels complements no està habilitada. Les actualitzacions podrien posar-vos en risc.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Habilita
+    .tooltiptext = Habilita la comprovació de seguretat dels complements
+
+## Strings connected to add-on updates
+
+extensions-updates-view-updates =
+    .label = Visualitza les actualitzacions recents
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Actualitza els complements automàticament
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Reinicia tots els complements perquè s'actualitzin automàticament
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = Reinicia tots els complements perquè s'actualitzin manualment
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = S'estan actualitzant els complements
+extensions-updates-installed =
+    .value = S'han actualitzat els vostres complements.
+extensions-updates-restart =
+    .label = Reinicia ara per completar la instal·lació
+extensions-updates-none-found =
+    .value = No s'ha trobat cap actualització
+extensions-updates-update-selected =
+    .label = Instal·la les actualitzacions
+    .tooltiptext = Instal·la les actualitzacions disponibles en aquesta llista
