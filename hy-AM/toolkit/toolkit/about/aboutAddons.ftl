@@ -121,3 +121,64 @@ legacy-warning-show-legacy = Ցուցադրել հնացած ընդլայնու�
 legacy-extensions =
     .value = Հնացած ընդլայնումներ
 legacy-extensions-description = Այս ընդլայնումները չեն համապատասխանում { -brand-short-name }-ի պահանջներին և ապաակտիվացվել են: <label data-l10n-name="legacy-learn-more">Իմանալ ավելին հավելումների փոփոխությունների մասին</label>
+extensions-view-discover =
+    .name = Ձեռք բերել հավելումներ
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Վերջին Թարմացումները
+    .tooltiptext = { extensions-view-recent-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Հավելումների համատեղելիության ստուգումը պասիվ է: Դուք կարող էք ունենալ անհամատեղելի հավելումներ:
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Միացնել
+    .tooltiptext = Միացնել հավելման համատեղելիության ստուգումը
+extensions-warning-update-security-label =
+    .value = Հավելումների թարմացման անվտանգության ստուգումը պասիվացված է: Թարմացումները կարող են վտանգավոր լինել ձեր համար:
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Միացնել
+    .tooltiptext = Միացնել հավելման թարմացման անվտանգության ստուգումը
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Ստուգել թարմացումները
+    .accesskey = Ս
+extensions-updates-view-updates =
+    .label = Տեսնել Վերջին Թարմացումները
+    .accesskey = Տ
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Թարմացնել հավելումները ինքնաբերաբար
+    .accesskey = Թ
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Հավելումները թարմացվում են
+extensions-updates-installed =
+    .value = Ձեր հավելումը թարմացվեց:
+extensions-updates-downloaded =
+    .value = Ձեր հավելումների թարմացումները բեռնվել են:
+extensions-updates-none-found =
+    .value = Թարմացում չի գտնվել
+extensions-updates-manual-updates-found =
+    .label = Տեսնել Առկա Թարմացումները
