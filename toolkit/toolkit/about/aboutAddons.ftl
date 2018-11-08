@@ -132,6 +132,15 @@ legacy-warning-show-legacy = Afficher les extensions obsolètes
 legacy-extensions =
     .value = Extensions obsolètes
 legacy-extensions-description = Ces extensions ne répondent pas aux exigences actuelles de { -brand-short-name }. Elles ont été désactivées. <label data-l10n-name="legacy-learn-more">En savoir plus sur les changements apportés aux modules</label>
+extensions-view-discover =
+    .name = Catalogue
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Mis à jour
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = À mettre à jour
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
@@ -156,6 +165,9 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Rechercher des mises à jour
+    .accesskey = R
 extensions-updates-view-updates =
     .label = Afficher les mises à jour récentes
     .accesskey = A
@@ -163,6 +175,9 @@ extensions-updates-view-updates =
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Mettre à jour les modules automatiquement
+    .accesskey = M
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -170,6 +185,25 @@ extensions-updates-view-updates =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Activer la mise à jour automatique pour tous les modules
+    .accesskey = c
+extensions-updates-reset-updates-to-manual =
+    .label = Désactiver la mise à jour automatique pour tous les modules
+    .accesskey = D
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Mise à jour des modules
+extensions-updates-installed =
+    .value = Vos modules ont été mis à jour.
+extensions-updates-downloaded =
+    .value = Les mises à jour de vos modules ont été téléchargées.
+extensions-updates-none-found =
+    .value = Aucune mise à jour disponible
+extensions-updates-manual-updates-found =
+    .label = Afficher les mises à jour disponibles
+extensions-updates-update-selected =
+    .label = Installer les mises à jour
+    .tooltiptext = Installer les mises à jour disponibles dans cette liste
