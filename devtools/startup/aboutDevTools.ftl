@@ -4,10 +4,16 @@
 
 head-title = O razvojnih orodjih
 enable-title = Omogoči razvojna orodja za Firefox
+enable-inspect-element-title = Omogočite Firefoxova razvojna orodja za uporabo pregledovalnika
+enable-inspect-element-message = Preiščite in uredite HTML ter CSS s pregledovalnikom iz razvojnih orodij.
+enable-key-shortcut-message = Uporabili ste bližnjico razvojnih orodij. Če ste to storili ponesreči, lahko zaprete ta zavihek.
+enable-menu-message = Izpopolnite HTML, CSS in JavaScript svoje spletne strani z orodji, kot sta pregledovalnik in razhroščevalnik.
+enable-common-message = Firefoxova razvojna orodja smo privzeto onemogočili, da bi vam dali več nadzora nad brskalnikom.
 enable-learn-more-link = Več o razvojnih orodjih
 enable-enable-button = Omogoči razvojna orodja
 enable-close-button = Zapri zavihek
 welcome-title = Dobrodošli v razvojnih orodjih za Firefox!
+newsletter-title = Mozillina okrožnica za razvijalce
 newsletter-message = Prejemajte novice, zvijače in vire za razvijalce naravnost v svoj e-poštni predal.
 newsletter-email-placeholder =
     .placeholder = E-pošta
@@ -16,6 +22,7 @@ newsletter-subscribe-button = Naroči se
 newsletter-thanks-title = Hvala!
 newsletter-thanks-message = Če v preteklosti še niste potrdili naročnine na Mozillino okrožnico, boste morda to morali storiti zdaj. Poiščite našo pošto v poštnem predalu ali mapi z neželeno pošto.
 footer-title = Firefox Developer Edition
+footer-message = Želite več kot zgolj razvojna orodja? Preskusite brskalnik Firefox, izdelan posebej za razvijalce in sodobne delovne metode.
 footer-learn-more-link = Več o tem
 features-learn-more = Več o tem
 features-inspector-title = Pregledovalnik
