@@ -45,5 +45,10 @@ features-performance-desc = Desblokeatu buxadurak, sinplifikatu prozesuak, optim
 features-memory-title = Memoria
 features-memory-desc = Bilatu memoria-galerak eta bizkortu zure aplikazioa. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Harpidetzaren eskaerak huts egin du ({ $errorDescription }).
+newsletter-error-unknown = Ustekabeko errore bat gertatu da.
+newsletter-error-timeout = Harpidetzaren eskaera denboraz kanpo gelditu da.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Garatzaile-tresnak ondo gaitu dituzu! Hasteko, arakatu 'Web garapena' menua edo ireki tresnak { $shortcut } lasterbidea erabiliz.
