@@ -130,3 +130,80 @@ legacy-warning-show-legacy = Montri kadukajn etendaĵojn
 legacy-extensions =
     .value = Kadukaj etendaĵoj
 legacy-extensions-description = Tiuj ĉi etendaĵoj ne kongruas kun la nunaj normoj de { -brand-short-name }, tial ili estis malaktivigitaj. <label data-l10n-name="legacy-learn-more">Pli da informo pri la ŝanĝoj en aldonaĵoj</label>
+extensions-view-discover =
+    .name = Elŝuti aldonaĵojn
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Ĵusaj ĝisdatigoj
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Haveblaj ĝisdatigoj
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Ĉiuj aldonaĵoj estis malaktivigitaj de la sekura reĝimo.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = La kontrolado de kongrueco de aldonaĵoj estas malaktiva.  Vi povus havi nekongruajn aldonaĵojn.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Aktivigi
+    .tooltiptext = Aktivigi la kontroladon de kongrueco de aldonaĵoj
+extensions-warning-update-security-label =
+    .value = La kontrolado de sekurecaj ĝisdatigoj de aldonaĵoj ne estas aktiva.  Vi povus esti kompromitita de ĝisdatigoj.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Aktivigi
+    .tooltiptext = Aktivigi la kontroladon de sekurecaj ĝisdatigoj de aldonaĵoj
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Kontroli ĉu estas ĝisdatigoj
+    .accesskey = K
+extensions-updates-view-updates =
+    .label = Vidi ĵusajn ĝisdatigojn
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Aŭtomate ĝisdatigi aldonaĵojn
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Igi ĉiujn aldonaĵojn ĝisdatiĝi aŭtomate
+    .accesskey = I
+extensions-updates-reset-updates-to-manual =
+    .label = Igi ĉiujn aldonaĵojn ĝisdatiĝi malaŭtomate
+    .accesskey = I
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Ĝisdatigado de aldonaĵoj
+extensions-updates-installed =
+    .value = Viaj aldonaĵoj estis ĝisdatigitaj.
+extensions-updates-downloaded =
+    .value = Viaj aldonaĵoj estis elŝutitaj.
+extensions-updates-restart =
+    .label = Restartigi por kompletigi la instaladon
+extensions-updates-none-found =
+    .value = Neniu ĝisdatigo trovita
+extensions-updates-manual-updates-found =
+    .label = Vidi haveblajn ĝisdatigojn
+extensions-updates-update-selected =
+    .label = Instali ĝisdatigojn
+    .tooltiptext = Instali haveblajn ĝisdatigojn en tiu ĉi listo
