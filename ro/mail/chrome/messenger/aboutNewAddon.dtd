@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY title           "Instalează suplimentul">
-<!ENTITY intro           "Un alt program de pe calculator vrea să modifice
+<!ENTITY intro           "Un alt program de pe calculatorul tău ar dori să modifice
                           &brandShortName; cu următorul supliment:">
 <!ENTITY warning         "Instalează suplimente doar de la autori în care ai încredere.">
 <!ENTITY allow           "Permite această instalare">
-<!ENTITY later           "Puteți reveni oricând asupra deciziei accesând 
+<!ENTITY later           "Poți reveni oricând accesând 
                           Managerul de suplimente.">
 <!ENTITY continue        "Continuă">
-<!ENTITY restartMessage  "Trebuie să repornești &brandShortName; pentru a finaliza instalarea suplimentului.">
+<!ENTITY restartMessage  "Trebuie să repornești &brandShortName; pentru a finaliza instalarea acestui supliment.">
 <!ENTITY restartButton   "Repornește &brandShortName;">
 <!ENTITY cancelButton    "Renunță">
