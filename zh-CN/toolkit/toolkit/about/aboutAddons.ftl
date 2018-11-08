@@ -142,6 +142,8 @@ extensions-view-available-updates =
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = 所有附加组件都已被安全模式暂时禁用。
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-label =
@@ -194,6 +196,8 @@ extensions-updates-updating =
     .value = 正在更新附加组件
 extensions-updates-downloaded =
     .value = 您的附加组件更新已经下载。
+extensions-updates-none-found =
+    .value = 没有找到可用的更新
 extensions-updates-manual-updates-found =
     .label = 查看可用更新
 extensions-updates-update-selected =
