@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
-
-<!ENTITY title.label "Securitate mesaj">
-<!ENTITY subject.plaintextWarning "Vă rugăm să rețineți: Subiectele mesajelor nu sunt niciodată criptate.">
+<!ENTITY title.label "Securitatea mesajului">
+<!ENTITY subject.plaintextWarning "Te rugăm să reții: Subiectele mesajelor nu sunt niciodată criptate.">
 <!ENTITY status.heading "Conținutul mesajului va fi expediat în următorul mod:">
 <!ENTITY status.signed "Semnat digital:">
 <!ENTITY status.encrypted "Criptat:">
