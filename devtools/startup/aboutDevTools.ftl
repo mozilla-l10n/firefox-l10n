@@ -35,3 +35,6 @@ features-performance-title = कार्यक्षमता
 features-performance-desc = अडथळे काढून टाका, प्रक्रिया सुलभ करा, मालमत्ता ऑप्टीमाइझ करा. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = मेमरी
 features-memory-desc = मेमरी गळती शोधा आणि आपल अॅपलिकेशन जलद करा. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+# Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = सदस्यता विनंती अयशस्वी ({ $errorDescription }).
