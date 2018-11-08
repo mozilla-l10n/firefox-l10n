@@ -10,6 +10,7 @@ enable-about-debugging-message = Twórz i debuguj rozszerzenia WebExtensions, w
 enable-key-shortcut-message = Użyto skrótu narzędzi dla programistów. Jeśli zrobiono to przez pomyłkę, to można zamknąć tę kartę.
 enable-menu-message = Udoskonalaj kod HTML, CSS i JavaScript strony za pomocą takich narzędzi, jak inspektor i debuger.
 enable-common-message = Narzędzia dla programistów Firefoksa są domyślnie wyłączone, aby użytkownik miał więcej kontroli nad przeglądarką.
+enable-learn-more-link = Więcej informacji o narzędziach dla programistów
 enable-enable-button = Włącz narzędzia dla programistów
 enable-close-button = Zamknij tę kartę
 welcome-title = Witamy w narzędziach dla programistów Firefoksa!
@@ -23,6 +24,8 @@ newsletter-thanks-title = Dziękujemy!
 newsletter-thanks-message = Jeśli jeszcze nigdy nie potwierdzono subskrypcji newslettera Mozilli, to możesz musieć to zrobić. Sprawdź, czy w skrzynce odbiorczej lub niechcianych jest wiadomość od nas.
 footer-title = Firefox Developer Edition
 footer-message = Szukasz czegoś więcej niż same narzędzia dla programistów? Wypróbuj przeglądarkę Firefox zbudowaną z myślą o programistach i nowoczesnych narzędziach.
+footer-learn-more-link = Więcej informacji
+features-learn-more = Więcej informacji
 features-inspector-title = Inspektor
 features-inspector-desc = Uzyskaj pełny wgląd w kod strony i twórz doskonałe projekty. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = Konsola
