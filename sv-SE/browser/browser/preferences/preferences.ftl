@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Varna när jag stänger flera flikar
     .accesskey = f
+warn-on-quit-close-multiple-tabs =
+    .label = Varna när du avslutar och stänger flera flikar
+    .accesskey = f
 warn-on-open-many-tabs =
     .label = Varna när du öppnar flera flikar kan göra { -brand-short-name } långsam
     .accesskey = n
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Uppdatera automatiskt sökmotorer
     .accesskey = m
+update-pref-write-failure-title = Skrivfel
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Det gick inte att spara inställningen. Kunde inte skriva till fil: { $path }
 
 ## General Section - Performance
 
