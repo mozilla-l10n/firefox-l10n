@@ -155,9 +155,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "Lastnik <span class='hostname'/> je neustrezno nastavil svojo spletno stran. &brandShortName; se ni povezal s to spletno stranjo, da bi preprečil krajo vaših podatkov.">
 <!ENTITY certerror.introPara2 "&brandShortName; je zaznal morebitno varnostno grožnjo in ni nadaljeval na <span class='hostname'/>. Če obiščete to stran, bodo napadalci morda poskušali ukrasti vaše podatke, kot so gesla, e-poštni naslovi ali podrobnosti kreditnih kartic.">
 
-<!ENTITY certerror.sts.introPara "&brandShortName; je zaznal morebitno varnostno grožnjo in ni nadaljeval na <span class='hostname'/>, ker ta spletna stran zahteva varno povezavo.">
-
 <!ENTITY certerror.expiredCert.secondPara "Težava je morda nastala zaradi napačne nastavitve ure vašega računalnika, zaradi česar se &brandShortName; ne more varno povezati.">
+
+<!ENTITY certerror.sts.introPara "&brandShortName; je zaznal morebitno varnostno grožnjo in ni nadaljeval na <span class='hostname'/>, ker ta spletna stran zahteva varno povezavo.">
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; je zaznal težavo in ni nadaljeval na <span class='hostname'/>. Spletna stran je nepravilno nastavljena ali pa je ura računalnika nastavljena na napačen čas.">
 <!ENTITY certerror.expiredCert.secondPara2 "Digitalno potrdilo spletne strani je najverjetneje poteklo, kar &brandShortName;u preprečuje varno povezovanje. Če obiščete to stran, bi napadalci lahko poskušali ukrasti vaše podatke, kot so gesla, e-poštna sporočila ali podatki o kreditni kartici.">
@@ -238,3 +238,5 @@ poveže zgolj varno. Posledično za to digitalno potrdilo ni mogoče dodati izje
 
 <!ENTITY prefReset.longDesc "Videti je, da to povzročajo omrežne nastavitve. Ali želite obnoviti privzete nastavitve?">
 <!ENTITY prefReset.label "Obnovi privzete nastavitve">
+
+<!ENTITY networkProtocolError.title "Napaka omrežnega protokola">

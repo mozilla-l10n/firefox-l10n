@@ -1070,6 +1070,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "Z">
 <!ENTITY trackingProtection.block5.label "Omogoči zavračanje za to stran">
 <!ENTITY trackingProtection.block5.accesskey "M">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Izklopi zavračanje za to stran">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Začasno izklopi zavračanje">
+<!ENTITY trackingProtection.block6.label "Vklopi zavračanje za to stran">
 <!ENTITY trackingProtection.reload2.label "Ponovno naloži stran">
 <!ENTITY trackingProtection.reload2.accesskey "n">
 

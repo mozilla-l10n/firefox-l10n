@@ -611,6 +611,9 @@ sitedata-keep-until-expire =
     .label = dokler ne pretečejo
 sitedata-keep-until-closed =
     .label = dokler se { -brand-short-name } ne zapre
+sitedata-delete-on-close =
+    .label = Izbriši piškotke in podatke strani, ko se { -brand-short-name } zapre
+    .accesskey = z
 sitedata-allow-cookies-option =
     .label = Sprejemaj piškotke in podatke strani
     .accesskey = S
@@ -856,3 +859,7 @@ certs-view =
 certs-devices =
     .label = Varnostne naprave …
     .accesskey = V
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Shrani datoteke v { $service-name }
