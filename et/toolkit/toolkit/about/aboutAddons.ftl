@@ -135,3 +135,80 @@ legacy-warning-show-legacy = Kuva aegunud laiendusi
 legacy-extensions =
     .value = Aegunud laiendused
 legacy-extensions-description = Need laiendused ei vasta tänapäevastele { -brand-short-name }i standarditele ja need keelati. <label data-l10n-name="legacy-learn-more">Vaata rohkem teavet lisadega toimunud muudatuste kohta</label>
+extensions-view-discover =
+    .name = Hangi lisasid
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Hiljutised uuendused
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Saadaolevad uuendused
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Kõik lisad on ohutu režiimi poolt keelatud.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Lisade ühilduvuse kontrollimine on keelatud. Kasutusel võib olla mitteühilduvaid lisasid.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Luba
+    .tooltiptext = Luba lisade ühilduvuse kontrollimine
+extensions-warning-update-security-label =
+    .value = Lisade uuendamise turvalisuse kontrollimine on keelatud. Sinu turvalisus võib uuenduste tõttu ohus olla.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Luba
+    .tooltiptext = Luba lisade uuendamise turvalisuse kontrollimine
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Kontrolli uuendusi
+    .accesskey = o
+extensions-updates-view-updates =
+    .label = Vaata hiljutisi uuendusi
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Lisasid uuendatakse automaatselt
+    .accesskey = L
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Määra kõik lisad uuendama automaatselt
+    .accesskey = M
+extensions-updates-reset-updates-to-manual =
+    .label = Määra kõik lisad käsitsi uuendamisele
+    .accesskey = M
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Lisade uuendamine
+extensions-updates-installed =
+    .value = Lisad on uuendatud.
+extensions-updates-downloaded =
+    .value = Lisade uuendused on alla laaditud.
+extensions-updates-restart =
+    .label = Paigalduse lõpetamiseks taaskäivita kohe
+extensions-updates-none-found =
+    .value = Uuendusi ei leitud
+extensions-updates-manual-updates-found =
+    .label = Vaata saadaolevaid uuendusi
+extensions-updates-update-selected =
+    .label = Paigalda uuendused
+    .tooltiptext = Paigalda saadaolevad uuendused sellest nimekirjast
