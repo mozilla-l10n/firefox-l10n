@@ -18,6 +18,7 @@ newsletter-title = Mozilla Developer Newsletter
 newsletter-message = Saa kehittäjille suunnattuja uutisia, vinkkejä ja resursseja sähköpostiisi englanniksi.
 newsletter-email-placeholder =
     .placeholder = Sähköposti
+newsletter-privacy-label = Minulle sopii, että Mozilla käsittelee tietojani <a data-l10n-name="privacy-policy">tietosuojaselosteen</a> mukaisesti.
 newsletter-subscribe-button = Tilaa
 newsletter-thanks-title = Kiitos!
 newsletter-thanks-message = Voit joutua vahvistamaan tilauksen, jos et ole aiemmin vahvistanut Mozillaan liittyvän uutiskirjeen tilausta. Tarkista sähköpostisi ja roskapostisuodattimesi viestimme varalta.
