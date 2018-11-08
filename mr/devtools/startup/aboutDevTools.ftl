@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+head-title = डेव्हलपर साधनांबद्दल
 enable-title = Firefox डेव्हलपर साधने कार्यान्वयीत करा
 enable-learn-more-link = विकसक साधनांनबद्दल अधिक जाणून घ्या
 enable-enable-button = डेव्हलपर साधने कार्यान्वयीत करा
