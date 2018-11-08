@@ -198,6 +198,8 @@ extensions-updates-reset-updates-to-manual =
 
 extensions-updates-updating =
     .value = 正在更新附加元件
+extensions-updates-installed =
+    .value = 已更新您的附加元件。
 extensions-updates-downloaded =
     .value = 已下載您的附加元件更新。
 extensions-updates-restart =
