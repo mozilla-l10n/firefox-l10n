@@ -113,3 +113,42 @@ disabled-unsigned-heading =
 disabled-unsigned-description = { -brand-short-name } निम्नलिखित एड-ऑन उपयोग मे जाँचल नहि गेल अछि. अहाँ जाँचि सकैत छी<label data-l10n-name="find-addons">प्रतिस्थापन पाबू</label>अथवा डेवलपर सँ कहियो कि ओकरा जाँचि लिअ.
 disabled-unsigned-learn-more = अहाँ अपना केँ ऑनलाइन सुरक्षित राखब लेल हमर आओर अनेक प्रयासक बारे मे जानकारी पाउ.
 disabled-unsigned-devinfo = डेवलपर रुचि देखाबत हुए अपन एड-ऑन केँ जाँचनाय जारी राखत पढ़ि कए<label data-l10n-name="learn-more">मैनुअल</label>.
+
+## These are global warnings
+
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = सक्रिय  करू{ " " }
+    .tooltiptext = सहयुक्ति सुसंगतता जाँच सक्रिय  करू{ " " }
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+extensions-updates-view-updates =
+    .label = हालिया अद्यतन देखू
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-restart =
+    .label = संस्थापन पूरा करब क लेल आब फेर आरंभ  करू{ " " }
+extensions-updates-manual-updates-found =
+    .label = उपलब्ध अद्यतन देखू
+extensions-updates-update-selected =
+    .label = अद्यतन संस्थापित  करू{ " " }
+    .tooltiptext = ई सूची मे उपलब्ध अद्यतन संस्थापित  करू{ " " }
