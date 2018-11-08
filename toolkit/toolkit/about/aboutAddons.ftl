@@ -132,6 +132,15 @@ legacy-warning-show-legacy = Паказаць састарэлыя пашырэ�
 legacy-extensions =
     .value = Састарэлыя пашырэнні
 legacy-extensions-description = Гэтыя пашырэнні не адпавядаюць бягучым стандартам { -brand-short-name }, таму яны былі выключаны. <label data-l10n-name="legacy-learn-more">Даведацца аб зменах у дадатках</label>
+extensions-view-discover =
+    .name = Атрымаць дадаткі
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Нядаўнія абнаўленні
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Даступныя абнаўленні
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
@@ -144,6 +153,9 @@ extensions-warning-update-security-container =
 
 ## Strings connected to add-on updates
 
+extensions-updates-view-updates =
+    .label = Пабачыць нядаўнія абнаўленні
+    .accesskey = б
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -155,6 +167,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Наладзіць усе дадаткі абнаўляцца самастойна
+    .accesskey = Н
+extensions-updates-reset-updates-to-manual =
+    .label = Наладзіць усе дадаткі на ручное абнаўленне
+    .accesskey = Н
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Абнаўленне дадаткаў
+extensions-updates-installed =
+    .value = Вашы дадаткі абноўленыя.
+extensions-updates-downloaded =
+    .value = Вашы дадаткі загружаны.
+extensions-updates-restart =
+    .label = Перазапусціць зараз, каб скончыць усталяванне
+extensions-updates-none-found =
+    .value = Абнаўленні не знойдзеныя
+extensions-updates-manual-updates-found =
+    .label = Пабачыць даступныя абнаўленні
+extensions-updates-update-selected =
+    .label = Усталяваць абнаўленні
+    .tooltiptext = Усталяваць даступныя абнаўленні з гэтага спісу
