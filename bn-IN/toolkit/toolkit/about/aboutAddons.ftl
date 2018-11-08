@@ -116,22 +116,52 @@ disabled-unsigned-heading =
 disabled-unsigned-description = নিম্নলিখিত অ্যাড অন { -brand-short-name } ব্যবহারের জন্য যাচাই করা হয় নি। আপনি পারেন <label data-l10n-name="find-addons">প্রতিস্থাপন খুঁজে বের করুন</label> বা তাদের যাচাই করার জন্যে ডেভেলপার দের জিজ্ঞাসা করুন।
 disabled-unsigned-learn-more = আপনাকে নিরাপদ রাখার জন্য আমাদের সাহায্য করতে আমাদের প্রচেষ্টা সম্পর্কে আরও জানুন।
 disabled-unsigned-devinfo = উৎসাহী ডেভেলপার রা যারা তাদের অ্যাড অন ভেরিফাই করাতে চান তারা পড়তে পারেন আমাদের <label data-l10n-name="learn-more">ব্যবহারকারীর দ্বারা</label>।
+extensions-view-discover =
+    .name = অতিরিক্ত সামগ্রী প্রাপ্ত করুন
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = সর্বশেষ আপডেট
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = উপলব্ধ আপডেট
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = নিরাপদ মোডে সকল অতিরিক্ত সামগ্রী নিষ্ক্রিয় করা হয়েছে।
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = অতিরিক্ত সামগ্রীর সুসংগতি পরীক্ষা নিষ্ক্রিয় করা হয়েছে। বিসংগত অতিরিক্ত সামগ্রী উপস্থিত থাকতে পারে।
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = সক্রিয় করুন
+    .tooltiptext = অতিরিক্ত সামগ্রীর সুসংগতি পরীক্ষার ব্যবস্থা সক্রিয় করা হবে
+extensions-warning-update-security-label =
+    .value = অতিরিক্ত সামগ্রীর নিরাপত্তা পরীক্ষা নিষ্ক্রিয় করা হয়েছে। আপডেটের ফলে বিপদ দেখা দিতে পারে।
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = সক্রিয় করুন
+    .tooltiptext = অতিরিক্ত সামগ্রীর আপডেটের নিরাপত্তা পরীক্ষা ব্যবস্থা সক্রিয় করা হবে
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = আপডেটের উপস্থিতি পরীক্ষা করুন
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = সর্বশেষ আপডেটগুলি দেখুন
+    .accesskey = স
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = স্বয়ংক্রিয়ভাবে অতিরিক্ত সামগ্রী আপডেট করা হবে
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -139,6 +169,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = স্বয়ংক্রিয়ভাবে আপডেট করার উদ্দেশ্যে চিহ্নিত সকল অতিরিক্ত সামগ্রী পুনরায় নির্ধারণ করা হবে
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = ব্যবহারকারী দ্বারা আপডেট করার উদ্দেশ্যে চিহ্নিত সকল অতিরিক্ত সামগ্রী পুনরায় নির্ধারণ করা হবে
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = অতিরিক্ত সামগ্রী আপডেট করুন
+extensions-updates-installed =
+    .value = অতিরিক্ত সামগ্রীগুলি আপডেট করা হয়েছে।
+extensions-updates-downloaded =
+    .value = অতিরিক্ত সামগ্রীর আপডেটগুলি ডাউনলোড করা হয়েছে।
+extensions-updates-restart =
+    .label = ইনস্টলেশন সমাপ্ত করার জন্য পুনরায় আরম্ভ করুন
+extensions-updates-none-found =
+    .value = কোনো আপডেট পাওয়া যায়নি
+extensions-updates-manual-updates-found =
+    .label = উপলব্ধ সকল আপডেট প্রদর্শন
+extensions-updates-update-selected =
+    .label = আপডেট ইনস্টল করুন
+    .tooltiptext = এই তালিকায় উপলব্ধ আপডেটগুলি ইনস্টল করুন
