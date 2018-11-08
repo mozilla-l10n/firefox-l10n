@@ -132,13 +132,19 @@ extensions-view-available-updates =
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = అన్ని పొడిగింతలు సేఫ్ మోడ్ చేత అచేతనపరచబడినవి.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = పొడిగింత సారూప్యతా పరిశీలన అచేతనమైంది. మీరు సారూప్యతలేని పొడిగింతలు కలిగివుండవచ్చును.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
 extensions-warning-check-compatibility-enable =
     .label = చేతనపరచు
     .tooltiptext = పొడిగింత సారూప్యతా పరిశీలనను చేతనపరచు
+extensions-warning-update-security-label =
+    .value = పొడిగింత నవీకరణ రక్షణ పరిశీలన అచేతనమైంది. మీ జోక్యం లేకుండా నవీకరణలు జరుగవచ్చు.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 extensions-warning-update-security-enable =
@@ -147,10 +153,16 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = నవీకరణల కొరకు పరిశీలించు
+    .accesskey = C
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = పొడిగింతలను స్వయంచాలకంగా నవీకరించు
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -158,8 +170,16 @@ extensions-warning-update-security-enable =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = స్వయంచాలకంగా నవీకరించుటకు అన్ని పొడిగింతలును రీసెట్ చేయు
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = మనవీయంగా నవీకరించుటకు అన్ని పొడిగింతలను తిరిగివుంచు
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = పొడిగింతలను నవీకరిస్తున్నది
 extensions-updates-downloaded =
     .value = మీ పొడిగింత నవీకరణలు డౌన్‌లోడైనవి.
