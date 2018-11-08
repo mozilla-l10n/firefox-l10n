@@ -130,3 +130,78 @@ legacy-warning-show-legacy = Sken akk iseɣzaf iqburen
 legacy-extensions =
     .value = Iseγzaf iqburen
 legacy-extensions-description = Iseγzaf-agi ur sεin ara ilugan n { -brand-short-name } imiranen γef aya ittwasensen. <label data-l10n-name="legacy-learn-more">Issin ugar ɣef usnifel ɣer izegrar</label>
+extensions-view-discover =
+    .name = Awi-d izegrar
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Ileqman n melmi kan
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Ileqman yellan
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Armad n izegrar yekkes-it uskar aɣalsan.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Rmed
+    .tooltiptext = Rmed asenqed n tisiḍent
+extensions-warning-update-security-label =
+    .value = Asenqed n ileqman n tɣellist n izegrar ur yermid ara. Yezmer ad tesɛuḍ yir izegrar.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Rmed
+    .tooltiptext = Rmed asenqed n ileqman n tɣellist i yezgrar isemmadanen
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Nadi ileqman
+    .accesskey = N
+extensions-updates-view-updates =
+    .label = Sken ileqman n melmi kan
+    .accesskey = S
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Leqqem s wudem awurman izegrar
+    .accesskey = L
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Rmed aleqqem awurman i yizegrar meṛṛa
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = Tukksa n urmad n uleqqem awurman n izegrar meṛṛa
+    .accesskey = T
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Aleqqem n izegrar
+extensions-updates-installed =
+    .value = Izegrar-inek ttwaleqqmen.
+extensions-updates-downloaded =
+    .value = Ileqman n izegrar-inek ttusidren-d.
+extensions-updates-restart =
+    .label = Ales asenker tura akken ad tfakeḍ asebded
+extensions-updates-none-found =
+    .value = ulac ileqman yettwafen
+extensions-updates-manual-updates-found =
+    .label = Sken ileqman yellan
+extensions-updates-update-selected =
+    .label = Sebded ileqman
+    .tooltiptext = Sebded ileqman yellan di tebdart-agi
