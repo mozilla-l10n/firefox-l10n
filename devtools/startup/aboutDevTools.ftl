@@ -45,5 +45,10 @@ features-performance-desc = Sbòcca còlli de botiggia, degordisci processi, òt
 features-memory-title = Memöia
 features-memory-desc = Treuve perdite de memöia e rendi a teu aplicaçion scciassa. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Domanda de abonamento falia ({ $errorDescription }).
+newsletter-error-unknown = L'é sucesso quarcösa che miga me l'aspetavo.
+newsletter-error-timeout = Domanda de abonamento oltre o tenpo mascimo.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = T'æ abilitou i Strumenti do svilopatô! Pe inçiâ, amia o menû Svilopatô Web ò arvi i atressi con { $shortcut }.
