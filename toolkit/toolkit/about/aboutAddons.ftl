@@ -121,6 +121,15 @@ legacy-warning-show-legacy = Hiển thị các phần mở rộng kế thừa
 legacy-extensions =
     .value = Phần mở rộng kế thừa
 legacy-extensions-description = Các phần mở rộng này không đáp ứng tiêu chuẩn hiện tại của { -brand-short-name } do đó chúng đã bị ngừng hoạt động. <label data-l10n-name="legacy-learn-more">Tìm hiểu về các thay đổi tiện ích</label>
+extensions-view-discover =
+    .name = Tải thêm tiện ích
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Cập nhật gần đây
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Có thể cập nhật
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
@@ -145,10 +154,19 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Kiểm tra cập nhật
+    .accesskey = c
+extensions-updates-view-updates =
+    .label = Xem các cập nhật gần đây
+    .accesskey = X
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Tự động cập nhật tiện ích
+    .accesskey = c
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -156,8 +174,27 @@ extensions-warning-update-security-enable =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Thiết lập cập nhật tự động tất cả các tiện ích
+    .accesskey = t
+extensions-updates-reset-updates-to-manual =
+    .label = Thiết lập cập nhật thủ công tất cả các tiện ích
+    .accesskey = c
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Đang cập nhật tiện ích
+extensions-updates-installed =
+    .value = Các tiện ích đã được cập nhật.
+extensions-updates-downloaded =
+    .value = Các cập nhật tiện ích đã được tải xuống.
+extensions-updates-restart =
+    .label = Khởi động lại ngay để hoàn tất cài đặt
 extensions-updates-none-found =
     .value = Không tìm thấy cập nhật
+extensions-updates-manual-updates-found =
+    .label = Xem các cập nhật hiện có
+extensions-updates-update-selected =
+    .label = Cài đặt cập nhật
+    .tooltiptext = Cài đặt các cập nhật trong danh sách này
