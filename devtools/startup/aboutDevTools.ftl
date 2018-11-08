@@ -45,5 +45,10 @@ features-performance-desc = Éliminez les goulots d’étranglement, optimisez l
 features-memory-title = Mémoire
 features-memory-desc = Détectez les fuites de mémoire et améliorez les performances de votre application. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Échec de la demande d’abonnement ({ $errorDescription }).
+newsletter-error-unknown = Une erreur inattendue s’est produite.
+newsletter-error-timeout = La demande d’abonnement a expiré.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Vous avez correctement activé les outils de développement. Pour débuter, explorez le menu Développement web ou ouvrez les outils via { $shortcut }.
