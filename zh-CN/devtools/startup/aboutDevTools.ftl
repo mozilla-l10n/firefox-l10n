@@ -45,5 +45,10 @@ features-performance-desc = 解除瓶颈、简化流程、优化资源加载。 
 features-memory-title = 内存
 features-memory-desc = 找出内存泄漏，使您的应用更快一步。 <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = 订阅请求失败 ({ $errorDescription })。
+newsletter-error-unknown = 发生未知错误。
+newsletter-error-timeout = 订阅请求超时。
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = 您已成功启用开发者工具！请使用 Web 开发者菜单或者 { $shortcut } 快捷键打开工具。
