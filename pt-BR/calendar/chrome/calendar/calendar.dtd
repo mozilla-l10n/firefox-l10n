@@ -277,12 +277,12 @@
 <!ENTITY calendar.context.removeserver.label           "Remover agenda…">
 <!ENTITY calendar.context.removeserver.accesskey       "R">
 <!ENTITY calendar.context.unsubscribeserver.label      "Cancelar inscrição em agenda…">
-<!ENTITY calendar.context.unsubscribeserver.accesskey  "u">
-<!ENTITY calendar.context.synccalendars.label          "Sincronizar calendários">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "n">
+<!ENTITY calendar.context.synccalendars.label          "Sincronizar agendas">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
-<!ENTITY calendar.context.publish.label                "Publicar calendário…">
+<!ENTITY calendar.context.publish.label                "Publicar agenda…">
 <!ENTITY calendar.context.publish.accesskey            "u">
-<!ENTITY calendar.context.export.label                 "Exportar calendário…">
+<!ENTITY calendar.context.export.label                 "Exportar agenda…">
 <!ENTITY calendar.context.export.accesskey             "E">
 <!ENTITY calendar.context.properties.label             "Propriedades">
 <!ENTITY calendar.context.properties.accesskey         "P">
@@ -298,7 +298,7 @@
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
 <!ENTITY calendar.context.showonly.accesskey           "O">
-<!ENTITY calendar.context.showall.label                "Mostrar todos calendários">
+<!ENTITY calendar.context.showall.label                "Mostrar todas agendas">
 <!ENTITY calendar.context.showall.accesskey            "a">
 
 <!ENTITY calendar.context.convertmenu.label              "Converter para">
@@ -314,7 +314,7 @@
 <!ENTITY calendar.tasks.view.minimonth.label           "Minimês">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "i">
 
-<!ENTITY calendar.tasks.view.calendarlist.label        "Lista de calendários">
+<!ENTITY calendar.tasks.view.calendarlist.label        "Lista de agendas">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey    "L">
 
 <!ENTITY calendar.tasks.view.filtertasks.label           "Filtrar tarefas">
@@ -325,17 +325,17 @@
 <!ENTITY calendar.alarm.location.label              "Local:" >
 <!ENTITY calendar.alarm.details.label               "Detalhes…" >
 
-<!ENTITY calendar.alarm.snoozefor.label             "Adiar por" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "Adiar todos por" >
-<!ENTITY calendar.alarm.title.label                 "Alarme do Calendar" >
+<!ENTITY calendar.alarm.snoozefor.label             "Silenciar por" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Silenciar tudo por" >
+<!ENTITY calendar.alarm.title.label                 "Lembretes da agenda" >
 <!ENTITY calendar.alarm.dismiss.label               "Descartar" >
 <!ENTITY calendar.alarm.dismissall.label            "Descartar todos" >
 
-<!ENTITY calendar.alarm.snooze.5minutes.label       "5 Minutos" >
-<!ENTITY calendar.alarm.snooze.10minutes.label      "10 Minutos" >
-<!ENTITY calendar.alarm.snooze.15minutes.label      "15 Minutos" >
-<!ENTITY calendar.alarm.snooze.30minutes.label      "30 Minutos" >
-<!ENTITY calendar.alarm.snooze.45minutes.label      "45 Minutos" >
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 minutos" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 minutos" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 minutos" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 minutos" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 minutos" >
 <!ENTITY calendar.alarm.snooze.1hour.label          "1 hora" >
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 horas" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 dia" >
@@ -347,8 +347,8 @@
 <!ENTITY calendar.alarm.snooze.cancel               "Cancelar soneca">
 
 <!-- Calendar Server Dialog -->
-<!ENTITY calendar.server.dialog.title.edit          "Editar calendário">
-<!ENTITY calendar.server.dialog.name.label          "Nome do calendário:">
+<!ENTITY calendar.server.dialog.title.edit          "Editar agenda">
+<!ENTITY calendar.server.dialog.name.label          "Nome da agenda:">
 
 <!-- Calendar Properties -->
 <!ENTITY calendarproperties.color.label                    "Cor:">
@@ -357,19 +357,19 @@
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Formato:">
 <!ENTITY calendarproperties.location.label                 "Local:">
-<!ENTITY calendarproperties.refreshInterval.label          "Atualizar calendário:">
+<!ENTITY calendarproperties.refreshInterval.label          "Atualizar agenda:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Manualmente">
 <!ENTITY calendarproperties.name.label                     "Nome:">
 <!ENTITY calendarproperties.readonly.label                 "Somente leitura">
-<!ENTITY calendarproperties.firealarms.label               "Exibir alarmes">
+<!ENTITY calendarproperties.firealarms.label               "Exibir lembretes">
 <!ENTITY calendarproperties.cache3.label                   "Suporte off-line">
-<!ENTITY calendarproperties.enabled.label                  "Habilitar este calendário">
-<!ENTITY calendarproperties.forceDisabled.label            "O provedor deste calendário não foi encontrado. Isto normalmente ocorre se você desabilitou ou desinstalou alguns complementos.">
+<!ENTITY calendarproperties.enabled.label                  "Ativar esta agenda">
+<!ENTITY calendarproperties.forceDisabled.label            "O provedor desta agenda não foi encontrado. Isto normalmente ocorre quando você desativa ou desinstala certas extensões.">
 <!ENTITY calendarproperties.unsubscribe.label              "Cancelar inscrição">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "C">
 
 <!-- Calendar Publish Dialog -->
-<!ENTITY calendar.publish.dialog.title              "Publicar Calendário">
+<!ENTITY calendar.publish.dialog.title              "Publicar agenda">
 <!ENTITY calendar.publish.url.label                 "URL para publicação">
 <!ENTITY calendar.publish.publish.button      "Publicar">
 <!ENTITY calendar.publish.close.button      "Fechar">
@@ -377,20 +377,20 @@
 <!ENTITY calendar.publish.example.url.description   "Algo como http://www.meuservidor.com/webdav/teste.ics">
 
 <!-- Select Calendar Dialog -->
-<!ENTITY calendar.select.dialog.title    "Selecione Calendário">
+<!ENTITY calendar.select.dialog.title    "Selecionar agenda">
 
 <!-- Calendar Printing -->
-<!ENTITY calendar.print.window.title "Imprimir um calendário">
+<!ENTITY calendar.print.window.title "Imprimir uma agenda">
 <!ENTITY calendar.print.title.label "Título:">
-<!ENTITY calendar.print.layout.label "Layout:">
-<!ENTITY calendar.print.range.label "Imprimir">
+<!ENTITY calendar.print.layout.label "Modelo:">
+<!ENTITY calendar.print.range.label "O que imprimir">
 <!ENTITY calendar.print.currentView2.label "Visualização atual">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Eventos/tarefas selecionados">
 <!ENTITY calendar.print.tasks.label "Tarefas">
 <!ENTITY calendar.print.events.label "Eventos">
 <!ENTITY calendar.print.custom.label "Período personalizado:">
 <!ENTITY calendar.print.from.label "De:">
-<!ENTITY calendar.print.to.label "A:">
+<!ENTITY calendar.print.to.label "Até:">
 <!ENTITY calendar.print.settingsGroup.label "Configurações de impressão">
 <!ENTITY calendar.print.optionsGroup.label "Opções">
 <!ENTITY calendar.print.taskswithnoduedate.label "Tarefas sem data de vencimento">
@@ -398,12 +398,12 @@
 
 <!-- Error reporting -->
 <!ENTITY calendar.error.detail "Detalhes…">
-<!ENTITY calendar.error.code "Código do erro:">
+<!ENTITY calendar.error.code "Código de erro:">
 <!ENTITY calendar.error.description "Descrição:">
-<!ENTITY calendar.error.title "Erro">
+<!ENTITY calendar.error.title "Ocorreu um erro">
 
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "Adicionar como evento">
 <!ENTITY calendar.extract.task.button          "Adicionar como tarefa">
-<!ENTITY calendar.extract.event.button.tooltip "Extrair informações do calendário a partir da mensagem e adicioná-la ao seu calendário como um evento">
-<!ENTITY calendar.extract.task.button.tooltip  "Extrair informações de calendário a partir da mensagem e adicioná-la ao seu calendário como uma tarefa">
+<!ENTITY calendar.extract.event.button.tooltip "Extrair informações de agenda a partir da mensagem e adicionar à sua agenda como um evento">
+<!ENTITY calendar.extract.task.button.tooltip  "Extrair informações de agenda a partir da mensagem e adicionar à sua agenda como uma tarefa">
