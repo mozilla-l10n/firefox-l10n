@@ -130,6 +130,9 @@ legacy-warning-show-legacy = Показване на остарелите раз
 legacy-extensions =
     .value = Остарели добавки
 legacy-extensions-description = Тези разширения не отговарят на текущите стандарти на { -brand-short-name } и затова са изключени. <label data-l10n-name="legacy-learn-more">Научете повече за промените при добавките</label>
+extensions-view-discover =
+    .name = Повече добавки
+    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Скорошни обновявания
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -160,6 +163,9 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Проверка за обновяване
+    .accesskey = П
 extensions-updates-view-updates =
     .label = Последни обновявания
     .accesskey = о
@@ -188,6 +194,8 @@ extensions-updates-reset-updates-to-manual =
 
 extensions-updates-updating =
     .value = Обновяване на добавките
+extensions-updates-installed =
+    .value = Добавките са обновени.
 extensions-updates-downloaded =
     .value = Обновяването за вашите добавки е изтеглено.
 extensions-updates-restart =
