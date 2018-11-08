@@ -134,20 +134,20 @@ extensions-warning-check-compatibility-label =
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
 extensions-warning-check-compatibility-enable =
-    .label = सक्रिय  करू{ " " }
-    .tooltiptext = सहयुक्ति सुसंगतता जाँच सक्रिय  करू{ " " }
+    .label = सक्रिय  करू
+    .tooltiptext = सहयुक्ति सुसंगतता जाँच सक्रिय  करू
 extensions-warning-update-security-label =
     .value = सहयुक्ति अद्यतन सुरक्षा जाँच निष्क्रिय अछि. अहाँक सुरक्षा अद्यतनक द्वारा संदिग्ध भए सकैत अछि.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
 extensions-warning-update-security-enable =
-    .label = सक्रिय  करू{ " " }
+    .label = सक्रिय  करू
     .tooltiptext = सहयुक्ति अद्यतन सुरक्षा जाँच सक्रिय करू
 
 ## Strings connected to add-on updates
 
 extensions-updates-check-for-updates =
-    .label = अद्यतनकएल जाएँच  करू{ " " }
+    .label = अद्यतनकएल जाएँच  करू
     .accesskey = C
 extensions-updates-view-updates =
     .label = हालिया अद्यतन देखू
@@ -157,7 +157,7 @@ extensions-updates-view-updates =
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
-    .label = सहयुक्ति स्वतः अद्यतन  करू{ " " }
+    .label = सहयुक्ति स्वतः अद्यतन  करू
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -167,10 +167,10 @@ extensions-updates-update-addons-automatically =
 ## extensions-updates-update-addons-automatically.label menu item).
 
 extensions-updates-reset-updates-to-automatic =
-    .label = अद्यतन स्वतः करबाक लेल सबहि सहयुक्ति फेर सेट  करू{ " " }
+    .label = अद्यतन स्वतः करबाक लेल सबहि सहयुक्ति फेर सेट  करू
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
-    .label = दस्ती रूप सँ अद्यतन करब क लेल सबहि सहयुक्ति फेर सेट  करू{ " " }
+    .label = दस्ती रूप सँ अद्यतन करब क लेल सबहि सहयुक्ति फेर सेट  करू
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -182,11 +182,11 @@ extensions-updates-installed =
 extensions-updates-downloaded =
     .value = अहाँक सहयुक्ति अद्यतन डाउनलोड कएल जाए रही अछि.
 extensions-updates-restart =
-    .label = संस्थापन पूरा करब क लेल आब फेर आरंभ  करू{ " " }
+    .label = संस्थापन पूरा करब क लेल आब फेर आरंभ  करू
 extensions-updates-none-found =
     .value = कोनो अद्यतन नहि भेटल
 extensions-updates-manual-updates-found =
     .label = उपलब्ध अद्यतन देखू
 extensions-updates-update-selected =
-    .label = अद्यतन संस्थापित  करू{ " " }
-    .tooltiptext = ई सूची मे उपलब्ध अद्यतन संस्थापित  करू{ " " }
+    .label = अद्यतन संस्थापित  करू
+    .tooltiptext = ई सूची मे उपलब्ध अद्यतन संस्थापित  करू
