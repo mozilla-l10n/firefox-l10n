@@ -127,6 +127,9 @@ extensions-view-discover =
 extensions-view-recent-updates =
     .name = ਤਾਜ਼ਾ ਅੱਪਡੇਟ
     .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹਨ
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
@@ -138,6 +141,9 @@ extensions-warning-check-compatibility-label =
     .value = ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ ਗ਼ੈਰ-ਅਨੁਕੂਲ ਐਡ-ਆਨ ਹੋ ਸਕਦੀਆਂ ਹਨ।
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = ਸਮਰੱਥ
+    .tooltiptext = ਐਡ-ਆਨ ਦੇ ਢੁੱਕਵੇਂਪਣ ਦੀ ਜਾਂਚ ਕਰਨ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
 extensions-warning-update-security-label =
     .value = ਐਡ-ਆਨ ਅੱਪਡੇਟ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਰਾਹੀਂ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
 extensions-warning-update-security-container =
