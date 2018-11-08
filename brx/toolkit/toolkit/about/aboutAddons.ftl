@@ -104,3 +104,80 @@ detail-rating =
     .value = थाखो फारि
 addon-restart-now =
     .label = दानो फिन जागाय
+extensions-view-discover =
+    .name = Add-ons खौ मोन
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = दानि आपडेट
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = थानाय आपडेटफोर
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = गासै add-ons खौ रैखाथि म'डजों लोरबां खालामबाय।
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Add-on गोरोबनायखौ आनजाद खालामनायखौ लोरबां खालामनाय जायो। नोंथांहा गोरोबै add-ons दं जानो हागौ।
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = हाहोनाय खालाम
+    .tooltiptext = add-on गोरोबथिगोनां आनजाद खालामनायखौ हाहोनाय खालाम
+extensions-warning-update-security-label =
+    .value = Add-on आपडेटखौ आनजाद खालामनायखौ लोरबां खालामनाय जायो। नोंथाङा आपडेटजों गोरोबना दं जानो हागौ।
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = हाहोनाय खालाम
+    .tooltiptext = Add-on आपडेट रैखाथि आनजाद आनजाद खालामनायखौ हाहोनाय खालाम
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = आपडेटफोरनि थाखाय आवजाद खालाम (C)
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = दानि आपडेटफोरखौ नाइ (V)
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Add-ons खौ गावनो गाव महरै आपडेट खालाम (A)
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = गावनो गाव महरै आपडेट खालामनो गासै Add-ons खौ फिन फज (R)
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = आखायजों आपडेट खालामनो गासै Add-ons खौ फिन फज (R)
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = add-ons खौ आपडेट खालाम गासिनो दं
+extensions-updates-installed =
+    .value = नोंथांनि add-ons खौ आपडेट खालामबाय।
+extensions-updates-downloaded =
+    .value = नोंथांनि add-ons आपडेटखौ डाउनल'ड खालामबाय।
+extensions-updates-restart =
+    .label = इनष्टलेसनखौ फोजोबनो दानो फिन जागाय
+extensions-updates-none-found =
+    .value = जेबो आपडेट मोनाखै
+extensions-updates-manual-updates-found =
+    .label = थानाय आपडेटखौ नाइ
+extensions-updates-update-selected =
+    .label = आपडेटफोरखौ इनष्टल खालाम
+    .tooltiptext = बे लिस्टयाव थानाय आपडेटखौ इनष्टल खालाम
