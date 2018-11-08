@@ -121,3 +121,72 @@ legacy-warning-show-legacy = اعرض الامتدادات العتيقة
 legacy-extensions =
     .value = امتدادات عتيقة
 legacy-extensions-description = لا تحقق هذه الامتدادات معايير { -brand-short-name } الحالية، لذا عُطّلت. <label data-l10n-name="legacy-learn-more">تعرّف على التغييرات على الإضافات</label>
+extensions-view-discover =
+    .name = احصل على الإضافات
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = التحديثات الأخيرة
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = التحديثات المتاحة
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = النمط الآمن عطّل جميع الإضافات.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = التحقق من توافقية الإضافات قد عُطّل. قد يكون لديك إضافات غير متوافقة.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = فعّل
+    .tooltiptext = فعّل التحقق من توافقية الإضافات
+extensions-warning-update-security-label =
+    .value = التحقق من أمن التحديثات قد عُطّل. قد تشكل التهديدات عليك خطرًا.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = فعّل
+    .tooltiptext = فعّل التحقق من أمن تحديثات الإضافات
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = التمس التحديثات
+    .accesskey = ت
+extensions-updates-view-updates =
+    .label = اعرض التحديثات الأخيرة
+    .accesskey = ض
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = اجعل تحديث كل الإضافات تلقائيًا
+    .accesskey = ف
+extensions-updates-reset-updates-to-manual =
+    .label = اجعل تحديث كل الإضافات يدويًا
+    .accesskey = ف
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = يحدّث الإضافات
+extensions-updates-installed =
+    .value = حُدّثت إضافاتك.
+extensions-updates-downloaded =
+    .value = انتهى تنزيل تحديثات إضافاتك.
+extensions-updates-none-found =
+    .value = لا يوجد تحديثات
+extensions-updates-manual-updates-found =
+    .label = اعرض التحديثات المتاحة
