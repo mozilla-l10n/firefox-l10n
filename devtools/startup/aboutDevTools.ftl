@@ -45,5 +45,10 @@ features-performance-desc = მოხსენით საცობები, �
 features-memory-title = მეხსიერება
 features-memory-desc = დაადგინეთ მეხსიერების გადატვირთულობის მიზეზები და შეამსუბუქეთ თქვენი პროგრამა. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = გამოწერის მოთხოვნა ვერ გაიგზავნა ({ $errorDescription }).
+newsletter-error-unknown = მოულოდნელი შეცდომა.
+newsletter-error-timeout = გამოწერის მოთხოვნის ვადა ამოიწურა.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = შემმუშავებლის ხელსაწყოები წარმატებით ჩაირთო! დასაწყისისთვის, გადახედეთ ვებშემმუშავებლის მენიუს, ან გახსენით ხელსაწყოები { $shortcut } მალსახმობით.
