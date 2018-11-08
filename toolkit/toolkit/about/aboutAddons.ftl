@@ -121,3 +121,43 @@ legacy-warning-show-legacy = نمایش ضمیمه‌های قدیمی
 legacy-extensions =
     .value = ضمیمه‌های قدیمی
 legacy-extensions-description = این ضمیمه‌ها استاندارهای لازم { -brand-short-name } را ندارند و به همین دلیل غیرفعال شده‌اند. <label data-l10n-name="legacy-learn-more">در مورد تغییرات در افزودنی‌ها بیشتر بدانید</label>
+extensions-view-discover =
+    .name = دریافت افزودنی‌ها
+    .tooltiptext = { extensions-view-discover.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = همهٔ افزودنی‌ها به دلیل مرور در حالت امن غیر فعال شده‌اند.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = کنترل سازگاری افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های ناسازگاری داشته باشید.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = فعال کردن
+    .tooltiptext = فعال کردن کنترل سازگاری افزودنی‌ها
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-installed =
+    .value = افزودنی‌های شما به‌هنگام شدند.
+extensions-updates-restart =
+    .label = را‌ه‌اندازی مجدد به منظور اتمام نصب
