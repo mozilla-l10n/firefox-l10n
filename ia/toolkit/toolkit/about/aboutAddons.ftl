@@ -135,3 +135,80 @@ legacy-warning-show-legacy = Monstrar le extensiones obsolete
 legacy-extensions =
     .value = Extensiones obsolete
 legacy-extensions-description = Ille extensiones non concorda le standardos currente de { -brand-short-name } assi illos esseva disactivate. <label data-l10n-name="legacy-learn-more">Sape lo que cambiava al additivos</label>
+extensions-view-discover =
+    .name = Obtener additivos
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Actualisationes recente
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Actualisationes disponibile
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Tote le additivos ha essite inactivate per le modo secur.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Le verification de compatibilitate de additivos es inactive. Tu pote haber additivos incompatibile.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Activar
+    .tooltiptext = Activar le verification de compatibilitate de additivos
+extensions-warning-update-security-label =
+    .value = Le verification de securitate pro le actualisation del additivos es inactive. Tu pote esser compromittite per actualisationes.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Activar
+    .tooltiptext = Activar le verification de securitate pro le actualisation del additivos
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Cercar actualisationes
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = Vider le actualisationes recente
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Actualisar le additivos automaticamente
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Redefinir tote le additivos faciente los actualisar automaticamente
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = Redefinir tote le additivos faciente los actualisar manualmente
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Actualisante additivos
+extensions-updates-installed =
+    .value = Tu additivos ha essite actualisate.
+extensions-updates-downloaded =
+    .value = Le actualisationes de tu additivos ha essite discargate.
+extensions-updates-restart =
+    .label = Reinitiar pro completar le installation
+extensions-updates-none-found =
+    .value = Nulle actualisationes trovate
+extensions-updates-manual-updates-found =
+    .label = Vider le actualisationes disponibile
+extensions-updates-update-selected =
+    .label = Installar le actualisationes
+    .tooltiptext = Installar le actualisationes disponibile de iste lista
