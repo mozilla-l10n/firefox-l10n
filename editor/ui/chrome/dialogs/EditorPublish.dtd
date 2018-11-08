@@ -23,7 +23,7 @@
 <!ENTITY publishImgCheckbox.tooltip   "Publică imaginile și celelalte fișiere de care are nevoie această pagină">
 <!ENTITY sameLocationRadio.label      "Utilizează aceeași locație ca și pentru pagină">
 <!ENTITY sameLocationRadio.accesskey  "U">
-<!ENTITY sameLocationRadio.tooltip    "Publică fișierele în aceeași locație cu pagina">
+<!ENTITY sameLocationRadio.tooltip    "Publică fișierele la aceeași locație ca și pagina">
 <!ENTITY useSubdirRadio.label         "Folosește acest subdirector de pe site:">
 <!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Publică fișierele în directorul de la distanță selectat">
