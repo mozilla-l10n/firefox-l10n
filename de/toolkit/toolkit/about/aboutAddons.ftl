@@ -126,22 +126,42 @@ legacy-warning-show-legacy = Erweiterungen des alten Add-on-Typs anzeigen
 legacy-extensions =
     .value = Alter Add-on-Typ
 legacy-extensions-description = Diese Erweiterungen erfüllen nicht die aktuellen Standards von { -brand-short-name } und wurden deshalb deaktiviert. <label data-l10n-name="legacy-learn-more">Weitere Informationen über Änderungen bei der Unterstützung von Add-ons für Firefox</label>
+extensions-view-recent-updates =
+    .name = Zuletzt durchgeführte Updates
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Verfügbare Updates
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Die Addon-Kompatibilitäts-Prüfung ist deaktiviert. Sie könnten inkompatible Add-ons haben.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Aktivieren
+    .tooltiptext = Addon-Kompatibilitäts-Prüfung aktivieren
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Aktivieren
+    .tooltiptext = Überprüfung auf Sicherheitsupdates für Add-ons aktivieren
 
 ## Strings connected to add-on updates
 
+extensions-updates-view-updates =
+    .label = Kürzlich durchgeführte Updates anzeigen
+    .accesskey = K
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Add-ons automatisch aktualisieren
+    .accesskey = a
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -149,6 +169,12 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Alle Add-ons umstellen auf automatische Aktualisierung
+    .accesskey = u
+extensions-updates-reset-updates-to-manual =
+    .label = Alle Add-ons umstellen auf manuelle Aktualisierung
+    .accesskey = u
 
 ## Status messages displayed when updating add-ons
 
@@ -162,3 +188,8 @@ extensions-updates-restart =
     .label = Jetzt neu starten, um die Installation abzuschließen
 extensions-updates-none-found =
     .value = Keine Updates gefunden
+extensions-updates-manual-updates-found =
+    .label = Verfügbare Updates anzeigen
+extensions-updates-update-selected =
+    .label = Updates installieren
+    .tooltiptext = In dieser Liste verfügbare Updates installieren
