@@ -174,6 +174,9 @@ extensions-updates-update-addons-automatically =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-manual =
+    .label = Reset All Add-ons to Update Manually
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
