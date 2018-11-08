@@ -104,3 +104,80 @@ detail-rating =
     .value = रेटींग
 addon-restart-now =
     .label = आता परत चालू करात
+extensions-view-discover =
+    .name = अँड-ऑन मेळयात
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = हालींचे अपडेट
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = उपलब्ध अपडेट
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = सुरक्षित शैलीन सगले अँड-ऑन असमर्थ केल्यात
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = अॅड-ऑन सुसंगतताय तपासणी अक्षम केल्या. तुमचेकडेन असुसंगत अॅड-ऑन आसू येतात.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = सक्षम
+    .tooltiptext = अँड-ऑन अनुरूपताय तपासणी समर्थ करा
+extensions-warning-update-security-label =
+    .value = अॅड-ऑन सुदार सुरक्षा तपासणी अक्षम केल्या. तुमच्या सुदारांनी तडजोड केल्ली आसू येता.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = सक्षम
+    .tooltiptext = अँड-ऑन अपडेट सुरक्षा तपासणी समर्थ करा
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = आनी अपडेटांखातीर तपासात
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = आनी हालींचे अपडेट पळयात
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = अपडेट आनी अँड-ऑन आपसूक
+    .accesskey = A
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = आनी आपसूक अपडेट जावपाक सगले अँड-ऑन परत स्थापीत करात
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = आनी हातान अपडेट जावपाक सगले अँड-ऑन परत स्थापीत करात
+    .accesskey = R
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = अँड-ऑन अपडेट करतात
+extensions-updates-installed =
+    .value = तुमचे अँड-ऑन अपडेट केल्यात
+extensions-updates-downloaded =
+    .value = तुमचे अँड-ऑन अपडेट डाऊनलोड केल्यात.
+extensions-updates-restart =
+    .label = स्थापप पूराय करपाक आता परत चालू करात
+extensions-updates-none-found =
+    .value = सुदार उपलबाद ना
+extensions-updates-manual-updates-found =
+    .label = उपलब्ध अपडेट पळयात
+extensions-updates-update-selected =
+    .label = अपडेट स्थापीत करात
+    .tooltiptext = वळेरीत उपलब्ध अपडेट स्थापीत करात
