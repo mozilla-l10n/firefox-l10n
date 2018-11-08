@@ -45,5 +45,10 @@ features-performance-desc = Desblocatz los còls de botelhas, optimizatz los pro
 features-memory-title = Memòria
 features-memory-desc = Detectatz las pèrdas e melhoratz las performanças de vòstra aplicacion. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Fracàs de la demanda d’abonament ({ $errorDescription }).
+newsletter-error-unknown = Una error imprevista se’s producha.
+newsletter-error-timeout = La demanda d’abonament a expirada.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Avètz corrèctament activat las aisinas de desvolopament. Per començar, exploratz lo menú Desvolopament web o dobrissètz las aisinas via { $shortcut }.
