@@ -135,3 +135,42 @@ legacy-warning-show-legacy = Mostrar extensões legadas
 legacy-extensions =
     .value = Extensões legadas
 legacy-extensions-description = Estas extensões não cumprem os padrões atuais do { -brand-short-name }, então eles foram desativados. <label data-l10n-name="legacy-learn-more">Saiba mais sobre as alterações das extensões</label>
+extensions-view-discover =
+    .name = Adicionar
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Atualizações recentes
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Atualizações disponíveis
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-restart =
+    .label = Reinicie agora para concluir a instalação
+extensions-updates-none-found =
+    .value = Nenhuma atualização encontrada
