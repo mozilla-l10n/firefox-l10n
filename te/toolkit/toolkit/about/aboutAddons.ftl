@@ -123,6 +123,9 @@ legacy-warning-show-legacy = లెగసీ పొడగింతలను చ�
 legacy-extensions =
     .value = పాత పొడగింతలు
 legacy-extensions-description = ఈ పొడిగింతలు ప్రస్తుత { -brand-short-name } ప్రమాణాలను చేరుకోవు కాబట్టి అవి క్రియారహితం చేయబడ్డాయి. <label data-l10n-name="legacy-learn-more">పొడిగింతల మార్పుల గురించి తెలుసుకోండి</label>
+extensions-view-discover =
+    .name = పొడిగింతలు పొందండి
+    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = ఇటీవలి నవీకరణలు
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -156,6 +159,9 @@ extensions-warning-update-security-enable =
 extensions-updates-check-for-updates =
     .label = నవీకరణల కొరకు పరిశీలించు
     .accesskey = C
+extensions-updates-view-updates =
+    .label = ఇటీవలి తాజాకరణలను చూడండి
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -181,5 +187,16 @@ extensions-updates-reset-updates-to-manual =
 
 extensions-updates-updating =
     .value = పొడిగింతలను నవీకరిస్తున్నది
+extensions-updates-installed =
+    .value = మీ పొడిగింతలు తాజాకరించబడ్డాయి.
 extensions-updates-downloaded =
     .value = మీ పొడిగింత నవీకరణలు డౌన్‌లోడైనవి.
+extensions-updates-restart =
+    .label = స్థాపనను పూర్తిచేయడానికి ఇప్పుడే పునఃప్రారంభించు
+extensions-updates-none-found =
+    .value = తాజాకరణలు ఏమీ లేవు
+extensions-updates-manual-updates-found =
+    .label = అందుబాటులోని తాజాకరణలను చూడండి
+extensions-updates-update-selected =
+    .label = తాజాకరణలను స్థాపించు
+    .tooltiptext = ఈ జాబితాలోని తాజాకరణలను స్థాపించు
