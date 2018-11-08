@@ -45,5 +45,10 @@ features-performance-desc = Atrūn švakōs vītys, optimizej procesus un lopys 
 features-memory-title = Atmiņa
 features-memory-desc = Atrūn atmiņas nūplyudes un padori sovu aplikaceji zibineigu. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Aboniešonys pīprasiejums naizadeve ({ $errorDescription }).
+newsletter-error-unknown = Nūtyka naparadzāta klaida.
+newsletter-error-timeout = Aboniešonys pīprasiejuma ilgums porsnāgts.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Asom veiksmeigi īslāguši izsrtrōdōtōju reikus! Kab sōkt dorbu, attaisi izstrōdōtōju izvēlni voi attaisi reiku ar { $shortcut }.
