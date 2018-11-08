@@ -49,3 +49,50 @@ detail-check-for-updates =
     .tooltiptext = Palutputen ti pananarimaan kadaytoy a raman
 addon-restart-now =
     .label = Irugi manen itan
+extensions-view-discover =
+    .name = Biroken ti Raman
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-available-updates =
+    .name = Maal-ala a Pannanarimaan
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Palutputen ti Pannanarimaan
+    .accesskey = C
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Tartarimnen ti raman
+extensions-updates-installed =
+    .value = Natarimaan ti raman.
+extensions-updates-downloaded =
+    .value = Naiyulogen dagiti pannarimaan ti raman.
+extensions-updates-restart =
+    .label = Irugi manen tapno malpas ti panaginstala
+extensions-updates-none-found =
+    .value = Awan ti nabirokan a pannarimaan
+extensions-updates-manual-updates-found =
+    .label = Ipakita ti Maal-ala a Pannanarimaan
