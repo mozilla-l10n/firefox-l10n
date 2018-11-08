@@ -31,6 +31,7 @@ features-inspector-desc = Inspeksi dan perbaiki kode untuk membangun tata letak 
 features-console-title = Konsol
 features-console-desc = Melacak masalah-masalah CSS, JavaScript, keamanan, dan jaringan. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Debugger
+features-debugger-desc = Debugger JavaScript yang hebat dengan dukungan untuk framework Anda. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Jaringan
 features-network-desc = Pantau permintaan jaringan yang dapat memperlambat atau memblokir situs Anda. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Penyimpanan
@@ -38,7 +39,9 @@ features-storage-desc = Tambah, ubah, dan hapus tembolok, kuki, pangkalan data, 
 features-responsive-title = Mode Desain Responsif
 features-responsive-desc = Uji situs pada peranti emulasi di peramban Anda. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Edit Visual
+features-visual-editing-desc = Animasi, perataan, dan padding yang disempurnakan. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Kinerja
+features-performance-desc = Bebaskan kemacetan, selesaikan proses, optimalkan aset. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Memori
 features-memory-desc = Temukan kebocoran memori dan buat aplikasi Anda semakin cepat. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
