@@ -45,5 +45,10 @@ features-performance-desc = Ratkaise pullonkauloja, kevennä prosesseja ja optim
 features-memory-title = Memory
 features-memory-desc = Etsi muistivuotoja ja tee sovelluksestasi vikkelämpi. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Tilauspyyntö epäonnistui ({ $errorDescription }).
+newsletter-error-unknown = Tapahtui odottamaton virhe.
+newsletter-error-timeout = Tilauspyyntö aikakatkaistiin.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Olet ottanut englanninkieliset web-työkalut käyttöön! Aloita selaamalla Web-työkalut-valikkoa tai avaamalla työkalut painamalla { $shortcut }.
