@@ -20,6 +20,8 @@
 <!ENTITY font.accesskey                       "P">
 <!ENTITY size.label                           "Veľkosť:">
 <!ENTITY size.accesskey                       "e">
+<!ENTITY fontSize.label                       "Veľkosť:">
+<!ENTITY fontSize.accesskey                   "s">
 <!ENTITY fontColor.label                      "Farba textu:">
 <!ENTITY fontColor.accesskey                  "F">
 <!ENTITY bgColor.label                        "Farba pozadia:">
