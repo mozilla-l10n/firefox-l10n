@@ -52,6 +52,9 @@ addon-restart-now =
 extensions-view-discover =
     .name = Biroken ti Raman
     .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Nabiit a Pannanarimaan
+    .tooltiptext = { extensions-view-recent-updates.name }
 extensions-view-available-updates =
     .name = Maal-ala a Pannanarimaan
     .tooltiptext = { extensions-view-available-updates.name }
@@ -70,6 +73,9 @@ extensions-warning-update-security-container =
 extensions-updates-check-for-updates =
     .label = Palutputen ti Pannanarimaan
     .accesskey = C
+extensions-updates-view-updates =
+    .label = Ipadlaw ti Nabiit a Pannanarimaan
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
