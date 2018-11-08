@@ -130,3 +130,80 @@ legacy-warning-show-legacy = Diskouez an askouezhioù diamzeret
 legacy-extensions =
     .value = Askouezhioù diamzeret
 legacy-extensions-description = An askouezhioù-mañ ne glotont ket kenn gant skouerioù { -brand-short-name } ha diweredekaet int bet. <label data-l10n-name="legacy-learn-more">Gouzout hiroc'h a-zivout ar c'hemmoù en askouezhioù</label>
+extensions-view-discover =
+    .name = Kaout askouezhioù
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Hizivadurioù nevesañ
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Hizivadurioù hegerz
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = An holl askouezhioù zo bet diweredekaet gant ar mod diogelroez.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Gwiriañ keverlec'hded an askouezhioù zo dizaotreet. Posupl eo deoc'h kaout askouezhioù nad int ket keverlec'h.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Gweredekaat
+    .tooltiptext = Gweredekaat ar gwiriadur evit keverlec'hded an askouezh
+extensions-warning-update-security-label =
+    .value = Diweredekaet eo ar gwiriañ evit hizivaat an askouezhioù. Marteze e viot lakaet en arvar gant hizivadurioù.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Gweredekaat
+    .tooltiptext = Gweredekaat ar gwiriadur a-fet diogelroez hizivadur an askouezh
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Gwiriañ mar bez hizivadurioù d'ober
+    .accesskey = G
+extensions-updates-view-updates =
+    .label = Gwelout an hizivadurioù nevesañ
+    .accesskey = v
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Hizivaat an askouezhioù gant un doare emgefreek
+    .accesskey = a
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Adderaouekaat an holl askouezhioù a-benn ma vint hizivaet ent emgefreek
+    .accesskey = r
+extensions-updates-reset-updates-to-manual =
+    .label = Adderaouekaat an holl askouezhioù a-benn ma vint hizivaet gant an dorn
+    .accesskey = r
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Hizivadur an askouezhioù
+extensions-updates-installed =
+    .value = Hoc'h askouezhioù zo bet hizivaet.
+extensions-updates-downloaded =
+    .value = Hizivadurioù hoc'h askouezhioù zo bet pellgarget.
+extensions-updates-restart =
+    .label = Adloc'hañ bremañ evit peurechuiñ ar staliañ
+extensions-updates-none-found =
+    .value = Hizivadenn ebet kavet
+extensions-updates-manual-updates-found =
+    .label = Gwelout an hizivadurioù hegerz
+extensions-updates-update-selected =
+    .label = Staliañ Hizivadurioù
+    .tooltiptext = Staliañ an hizivadennoù hegerz war ar roll-mañ
