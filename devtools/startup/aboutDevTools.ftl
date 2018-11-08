@@ -8,6 +8,7 @@ enable-inspect-element-title = Activar ils utensils per sviluppaders da Firefox 
 enable-inspect-element-message = Examinar e modifitgar HTML e CSS cun l'inspectur dals utensils per sviluppaders.
 enable-about-debugging-message = Sviluppar e debugar WebExtensions, web workers, service workers e dapli cun ils utensils per sviluppaders da Firefox.
 enable-key-shortcut-message = Ti has activà ina scursanida da tasta dals utensils per sviluppaders. Sche quai è capità per sbagl, pos ti serrar quest tab.
+enable-menu-message = Perfecziunescha HTML, CSS e JavaScript da tia website cun utensils sco l'inspectur u il debugadi.
 enable-common-message = Ils utensils per sviluppaders da Firefox èn deactivads tenor standard per che ti possias controllar meglier tes navigatur.
 enable-learn-more-link = Vegnir a savair dapli davart ils utensils per sviluppaders
 enable-enable-button = Activar ils utensils per sviluppaders
@@ -29,10 +30,13 @@ features-inspector-title = Inspectur
 features-inspector-desc = Inspectar e perfecziunar code per crear impaginaziuns cun la precisiun dad in pixel. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = Consola
 features-console-desc = Identifitgar problems da CSS, JavaScript, segirezza e rait. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-debugger-title = Debugadi
+features-debugger-desc = In debugadi da JavaScript potent che sustegna tes framework. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Rait
 features-network-desc = Chattar dumondas da rait che pon ralentar u bloccar tia website. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Arcun
 features-storage-desc = Agiuntar, modifitgar ed allontanar il cache, cookies, bancas da datas e datas da sesida. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-responsive-title = Vista da responsive design
 features-responsive-desc = Testar paginas sin apparats emulads en il navigatur. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Modificaziun visuala
 features-visual-editing-desc = Perfecziunar animaziuns, alingiament ed urs. <a data-l10n-name="learn-more">{ features-learn-more }</a>
