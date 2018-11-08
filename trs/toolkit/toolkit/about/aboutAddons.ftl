@@ -130,22 +130,52 @@ legacy-warning-show-legacy = Ni'iaj nej extensiûn hua nika hia
 legacy-extensions =
     .value = Nej extensiûn hua nikaa
 legacy-extensions-description = Nitaj si digahuin nej extensiûn nan ngà nej chrej { -brand-short-name } huaa yi'ì dan giyichin' nej man. <label data-l10n-name="legacy-learn-more">Gini'in doj rayi'î nuguan' hua ngà nadunô' 'ngo komplemênto</label>
+extensions-view-discover =
+    .name = Nadunïnj nej komplemênto
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Nej sa hìaj nahuin nakà
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Nej sa ga'ue nahuin nakà
+    .tooltiptext = { extensions-view-available-updates.name }
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Giyichin' hue'ê daran' nej komplemênto.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Nej sa natsij nej komplemênto nitaj si 'iaj sun. Ga'ue ginu komplemênto nitaj si ara' ngà aga' nan.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Dugi'iaj sun' man
+    .tooltiptext = Nachrun sa natsij si aran' nej komplemênto ngà nej aga' nan
+extensions-warning-update-security-label =
+    .value = Giyichin' sa natsij si hua nïn 'iaj sun nej komplemênto. Ga'ue ni nahuin nakà 'ngo sa nu garan' ruhuât.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Dugi'iaj sun' man
+    .tooltiptext = Nachrun sa dugumîn si hua hue'ê nej sa nahuin nakà riña aga' nan
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Nana'uì' sa Nahuin nakà doj
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = Ni'iaj nej sa hìaj nahuin nakà
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Dunaj nahuin nakà ma'an nej komplemênto
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -153,6 +183,27 @@ extensions-warning-update-security-container =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Na'nïnj ñû daran' nej komplemênto da' ga'ue nahuin nakà ma'an nej man
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = Na'nïnj ñû daran' nej komplemênto da' ga'ue nagi'iaj nakà nej man
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Sa nagi'iaj nakà nej komplemênto
+extensions-updates-installed =
+    .value = Ngà nahuin nakà nej si komplementôt.
+extensions-updates-downloaded =
+    .value = Ngà nahuij nanïnj nej si komplementôt.
+extensions-updates-restart =
+    .label = Dunayi'ì nakà si aga't da' ga'ue nanu sa ga'nïnt
+extensions-updates-none-found =
+    .value = Nu nari'ìj nej sa nahuin nakàa
+extensions-updates-manual-updates-found =
+    .label = Ni'iaj nej sa ga'ue nahuin nakà
+extensions-updates-update-selected =
+    .label = Ga'nïnj nej sa nakà doj
+    .tooltiptext = Ga'nïn nej sa ga'ue nahuin nakà nu riña lsita nan
