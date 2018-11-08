@@ -146,14 +146,23 @@ extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Galluogi
+    .tooltiptext = Galluogi gwirio cydnawsedd ychwanegion
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Galluogi
+    .tooltiptext = Galluogi gwirio diogelwch diweddariad ychwanegyn
 
 ## Strings connected to add-on updates
 
 extensions-updates-check-for-updates =
     .label = Gwirio am Ddiweddariadau
     .accesskey = G
+extensions-updates-view-updates =
+    .label = Gweld Diweddariadau Diweddar
+    .accesskey = D
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -168,6 +177,12 @@ extensions-updates-check-for-updates =
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Diweddaru ychwanegion
+extensions-updates-installed =
+    .value = Mae eich ychwanegion wedi eu diweddaru.
+extensions-updates-downloaded =
+    .value = Mae diweddariadau eich ychwanegion wedi eu llwytho i law.
 extensions-updates-restart =
     .label = Ailgychwyn i gwblhau'r gosod
 extensions-updates-none-found =
