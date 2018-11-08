@@ -130,3 +130,51 @@ legacy-warning-show-legacy = Vis forelda utvidingar
 legacy-extensions =
     .value = Forelda utvidingar
 legacy-extensions-description = Desse utvidingane oppfyller ikkje gjeldande standardar i { -brand-short-name } og er difor slått av. <label data-l10n-name="legacy-learn-more">Les meir om endringar av tillegg</label>
+extensions-view-recent-updates =
+    .name = Nyleg oppdatert
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Tilgjengelege oppdateringar
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Slå på
+    .tooltiptext = Slå på kompatibilitetskontroll
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Sjå etter oppdateringar no
+    .accesskey = S
+extensions-updates-view-updates =
+    .label = Vis nyleg oppdaterte
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-none-found =
+    .value = Fann ingen oppdateringar
+extensions-updates-manual-updates-found =
+    .label = Vis tilgjengelege oppdateringar
+extensions-updates-update-selected =
+    .label = Installer oppdateringane
+    .tooltiptext = Installer tilgjengelege oppdateringar i denne lista
