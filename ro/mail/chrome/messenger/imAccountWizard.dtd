@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label            "Asistent conturi de chat">
+<!ENTITY windowTitle.label            "Asistent pentru contul de chat">
 
 <!ENTITY accountProtocolTitle.label   "Rețea de chat">
 <!ENTITY accountProtocolInfo.label    "Te rugăm să îți alegi rețeaua contului de chat.">
