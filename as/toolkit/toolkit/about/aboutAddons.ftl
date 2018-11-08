@@ -137,10 +137,19 @@ extensions-warning-update-security-enable =
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = আপডেইটসমূহৰ বাবে নীৰিক্ষণ কৰক
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = শেহতীয়া আপডেইটসমূহ দৰ্শন কৰক
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = স্বচালিতভাৱে এড-অনসমূহ আপডেইট কৰক
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -148,9 +157,17 @@ extensions-warning-update-security-enable =
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = সকলো এড-অন স্বচালিতভাৱে আপডেইট হবলে পুনৰ সংহতি কৰক
+    .accesskey = R
+extensions-updates-reset-updates-to-manual =
+    .label = সকলো এড-অন হস্তচালিতভাৱে আপডেইট হবলে পুনৰ সংহতি কৰক
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = এড-অনসমূহ আপডেইট কৰা হৈছে
 extensions-updates-installed =
     .value = আপোনাৰ এড-অনসমূহ আপডেইট কৰা হল।
 extensions-updates-downloaded =
