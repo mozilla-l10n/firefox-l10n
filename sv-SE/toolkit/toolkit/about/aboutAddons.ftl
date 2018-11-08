@@ -130,3 +130,80 @@ legacy-warning-show-legacy = Visa äldre tillägg
 legacy-extensions =
     .value = Äldre tillägg
 legacy-extensions-description = Dessa tillägg uppfyller inte nuvarande standarder i { -brand-short-name } så de har inaktiverats. <label data-l10n-name="legacy-learn-more">Läs mer om ändringar av tillägg</label>
+extensions-view-discover =
+    .name = Hämta tillägg
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Nyligen uppdaterade
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Tillgängliga uppdateringar
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Alla tillägg är inaktiverade i felsäkert läge.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Kompatibilitetskontroll av tillägg är inaktiverat. Du kan ha inkompatibla tillägg.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Aktivera
+    .tooltiptext = Aktiverar kompatibilitetskontroll av tillägg
+extensions-warning-update-security-label =
+    .value = Säkerhetskontroll av tilläggsuppdateringar är inaktiverat. Du är sårbar för skadliga uppdateringar.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Aktivera
+    .tooltiptext = Aktiverar säkerhetskontroll av tilläggsuppdateringar
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Sök efter uppdateringar
+    .accesskey = u
+extensions-updates-view-updates =
+    .label = Visa nyligen uppdaterade
+    .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Installera uppdateringar automatiskt
+    .accesskey = t
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Ställ om alla tillägg till automatisk uppdatering
+    .accesskey = S
+extensions-updates-reset-updates-to-manual =
+    .label = Ställ om alla tillägg till manuell uppdatering
+    .accesskey = S
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Uppdaterar tillägg
+extensions-updates-installed =
+    .value = Dina tillägg har uppdaterats.
+extensions-updates-downloaded =
+    .value = Uppdateringarna till tilläggen har hämtats.
+extensions-updates-restart =
+    .label = Starta om nu för att slutföra installationen
+extensions-updates-none-found =
+    .value = Inga uppdateringar hittades
+extensions-updates-manual-updates-found =
+    .label = Se tillgängliga uppdateringar
+extensions-updates-update-selected =
+    .label = Installera uppdateringar
+    .tooltiptext = Installerar tillgängliga uppdateringar från listan
