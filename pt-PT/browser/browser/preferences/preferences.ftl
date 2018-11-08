@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Avisar-lhe ao fechar múltiplos separadores
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Avisar-lhe ao sair e fechar múltiplos separadores
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Avisar-lhe se a abertura de múltiplos separadores puder tornar o { -brand-short-name } lento
     .accesskey = d
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Atualizar motores de pesquisa automaticamente
     .accesskey = e
+update-pref-write-failure-title = Falha na escrita
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Não foi possível guardar a preferência. Não foi possível escrever no ficheiro: { $path }
 
 ## General Section - Performance
 
