@@ -130,3 +130,63 @@ legacy-warning-show-legacy = Köhnəlmiş qoşmaları göstər
 legacy-extensions =
     .value = Köhnəlmiş Qoşmalar
 legacy-extensions-description = Bu qoşmalar hazırkı { -brand-short-name } standartlarına cavab vermirlər və bu səbəbdən söndürüldülər. <label data-l10n-name="legacy-learn-more">Əlavələrə olan dəyişikliklər haqqında öyrən</label>
+extensions-view-recent-updates =
+    .name = Yaxın vaxtlardakı yeniləmələr
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Mövcud yeniləmələr
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Bütün əlavələr təhlükəsizlik rejimdə söndürüldü.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Əlavə uyğunluq nəzarəti söndürülüb. Uyğun olmayan əlavələriniz ola bilər.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-update-security-label =
+    .value = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti söndürülüb. Yeniləmələr təhlükəli ola bilər.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Yeniləmələrə bax…
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = Yaxın vaxtdakı yeniləmələrə bax
+    .accesskey = b
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Əlavələri avtomatik yenilə
+    .accesskey = n
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-installed =
+    .value = Əlavələriniz yenilənir.
+extensions-updates-downloaded =
+    .value = Əlavələrçün yeniləmələr yükləndi.
+extensions-updates-restart =
+    .label = Quraşdırmanı tamamlamaq üçün indi yenidən başladın
+extensions-updates-none-found =
+    .value = Yenilənmə tapılmadı
+extensions-updates-manual-updates-found =
+    .label = Quraşdırıla biləcək yeniləmələrə bax
+extensions-updates-update-selected =
+    .label = Yeniləmələri quraşdır
+    .tooltiptext = Bu siyahıdakı yeniləmələri quraşdır
