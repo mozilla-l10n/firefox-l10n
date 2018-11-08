@@ -158,8 +158,13 @@ extensions-warning-check-compatibility-container =
 extensions-warning-check-compatibility-enable =
     .label = Увімкнути
     .tooltiptext = Увімкнути перевірку сумісності додатків
+extensions-warning-update-security-label =
+    .value = Перевірка безпечного оновлення додатків вимкнена. У процесі оновлення зловмисник може спробувати підмінити їх.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Увімкнути
+    .tooltiptext = Увімкнути перевірку безпечного оновлення додатків
 
 ## Strings connected to add-on updates
 
