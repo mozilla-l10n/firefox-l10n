@@ -121,3 +121,77 @@ legacy-warning-show-legacy = Tampilkan ekstensi peninggalan
 legacy-extensions =
     .value = Ekstensi Peninggalan
 legacy-extensions-description = Ekstensi ini tidak memenuhi standar { -brand-short-name } saat ini sehingga telah dinonaktifkan. <label data-l10n-name="legacy-learn-more">Pelajari tentang perubahan terhadap pengaya</label>
+extensions-view-discover =
+    .name = Unduh Pengaya
+    .tooltiptext = { extensions-view-discover.name }
+extensions-view-recent-updates =
+    .name = Versi Baru
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = Versi Baru yang Tersedia
+    .tooltiptext = { extensions-view-available-updates.name }
+
+## These are global warnings
+
+extensions-warning-safe-mode-label =
+    .value = Semua pengaya telah dinonaktifkan dalam mode aman.
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Pemeriksaan kompatibilitas pengaya telah dinonaktifkan. Anda mungkin menggunakan pengaya yang tidak kompatibel.
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Aktifkan
+    .tooltiptext = Aktifkan pemeriksaan kompatibilitas pengaya
+extensions-warning-update-security-label =
+    .value = Pemeriksaan keamanan pemutakhiran pengaya telah dinonaktifkan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Aktifkan
+    .tooltiptext = Aktifkan pemeriksaan keamanan pemutakhiran pengaya
+
+## Strings connected to add-on updates
+
+extensions-updates-check-for-updates =
+    .label = Periksa Versi Baru
+    .accesskey = P
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
+extensions-updates-update-addons-automatically =
+    .label = Otomatis Perbarui Pengaya
+    .accesskey = O
+
+## Specific add-ons can have custom update checking behaviors ("Manually",
+## "Automatically", "Use default global behavior"). These menu items reset the
+## update checking behavior for all add-ons to the default global behavior
+## (which itself is either "Automatically" or "Manually", controlled by the
+## extensions-updates-update-addons-automatically.label menu item).
+
+extensions-updates-reset-updates-to-automatic =
+    .label = Setel Ulang Semua Pengaya agar Diperbarui Otomatis
+    .accesskey = S
+extensions-updates-reset-updates-to-manual =
+    .label = Setel Ulang Semua Pengaya agar Hanya Diperbarui Manual
+    .accesskey = M
+
+## Status messages displayed when updating add-ons
+
+extensions-updates-updating =
+    .value = Memperbarui pengaya
+extensions-updates-installed =
+    .value = Pengaya Anda telah diperbarui.
+extensions-updates-downloaded =
+    .value = Versi baru pengaya Anda telah diunduh.
+extensions-updates-restart =
+    .label = Mulai ulang sekarang untuk menyelesaikan pemasangan
+extensions-updates-none-found =
+    .value = Tidak ada versi baru ditemukan
+extensions-updates-manual-updates-found =
+    .label = Tampilkan Versi Baru yang Tersedia
+extensions-updates-update-selected =
+    .label = Pasang Versi Baru
+    .tooltiptext = Pasang versi baru yang ada pada daftar ini
