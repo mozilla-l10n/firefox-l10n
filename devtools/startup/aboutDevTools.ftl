@@ -45,5 +45,10 @@ features-performance-desc = Ta bort flaskhalsar, effektivisera processer, optime
 features-memory-title = Minne
 features-memory-desc = Hitta minnesläckor och gör ditt program snabbare. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Prenumerationsförfrågan misslyckades ({ $errorDescription }).
+newsletter-error-unknown = Ett oväntat fel har uppstått.
+newsletter-error-timeout = Prenumerationsförfrågan avbröts.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Du har lyckats aktivera utvecklingsverktyg! För att komma igång, utforska menyn Webbutvecklare eller öppna verktygen med { $shortcut }.
