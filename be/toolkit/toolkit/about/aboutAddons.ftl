@@ -144,12 +144,24 @@ extensions-view-available-updates =
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Усе дадаткі адключаны бяспечным рэжымам.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Праверка сумяшчальнасці дадаткаў адключана. Вы можаце мець несумяшчальныя дадаткі.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Уключыць
+    .tooltiptext = Уключыць праверку сумяшчальнасці дадаткаў
+extensions-warning-update-security-label =
+    .value = Праверка бяспечнасці дадаткаў адключана. Вы можаце быць падведзены пад рызыку абнаўленнямі.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Уключыць
+    .tooltiptext = Уключыць праверку бяспечнасці абнаўленняў дадаткаў
 
 ## Strings connected to add-on updates
 
