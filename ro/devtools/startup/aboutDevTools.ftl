@@ -45,5 +45,10 @@ features-performance-desc = Elimină problemele de performanță, eficientizeaz�
 features-memory-title = Memorie
 features-memory-desc = Găsește scurgerile de memorie și fă-ți aplicația mai rapidă. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = A eșuat solicitarea de abonare ({ $errorDescription }).
+newsletter-error-unknown = S-a produs o eroare neașteptată.
+newsletter-error-timeout = A expirat solicitarea de abonare.
+# Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Ai activat cu succes instrumentele de dezvoltare! Pentru a începe, explorează meniul Dezvoltator web sau deschide instrumentele cu { $shortcut }.
