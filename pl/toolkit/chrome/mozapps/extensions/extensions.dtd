@@ -37,6 +37,7 @@
 <!ENTITY view.recentUpdates.label             "Ostatnie aktualizacje">
 <!ENTITY view.availableUpdates.label          "Dostępne aktualizacje">
 
+<!ENTITY helpButton.label "Wsparcie dla dodatków">
 <!ENTITY preferencesWin.label "Opcje programu">
 <!ENTITY preferencesUnix.label "Preferencje programu">
 
