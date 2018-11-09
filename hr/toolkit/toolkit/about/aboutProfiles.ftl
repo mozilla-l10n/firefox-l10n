@@ -46,6 +46,7 @@ profiles-delete-profile-confirm =
 profiles-delete-files = Obriši datoteke
 profiles-dont-delete-files = Nemoj obrisati datoteke
 profiles-delete-profile-failed-title = Greška
+profiles-delete-profile-failed-message = Došlo je do pogreške za vrijeme brisanja ovog profila.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Prikaži u Finderu
