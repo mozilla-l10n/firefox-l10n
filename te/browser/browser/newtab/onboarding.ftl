@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = ఇప్పుడే ప్రయత్నించండి
+onboarding-button-label-get-started = మొదలుపెట్టండి
 
 ## These strings belong to the individual onboarding messages.
 
@@ -16,3 +17,4 @@ onboarding-button-label-try-now = ఇప్పుడే ప్రయత్ని
 
 onboarding-private-browsing-title = అంతరంగిక విహారణ
 onboarding-screenshots-title = తెరపట్లు
+onboarding-addons-title = పొడగింతలు

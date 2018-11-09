@@ -4,3 +4,4 @@
 
 restart-required-title = పునఃప్రారంభం అవసరం
 restart-required-header = క్షమించండి. ఇదిలాగే పనిచేయాలంటే మనమొక చిన్న పని చేస్తే చాలు.
+restart-button-label = { -brand-short-name }‌ను పునఃప్రారంభించు
