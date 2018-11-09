@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = ابھی استعمال کریں
+onboarding-button-label-get-started = شروع کریں
 onboarding-welcome-header = { -brand-short-name } میں خوش آمدید
 onboarding-start-browsing-button-label = براؤزنگ شروع کریں
 
