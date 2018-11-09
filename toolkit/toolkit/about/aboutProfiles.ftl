@@ -21,6 +21,7 @@ profiles-rootdir = Korijenski direktorij
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Lokalni direktorij
 profiles-current-profile = Ovaj se profil trenutno koristi i ne može se obrisati.
+profiles-in-use-profile = Ovaj profil upotrebljava druga aplikacija i ne može se izbrisati.
 profiles-rename = Preimenuj
 profiles-remove = Ukloni
 profiles-set-as-default = Postavi kao zadani profil
@@ -44,6 +45,7 @@ profiles-delete-profile-confirm =
     Želite li obrisati datoteke profila?
 profiles-delete-files = Obriši datoteke
 profiles-dont-delete-files = Nemoj obrisati datoteke
+profiles-delete-profile-failed-title = Greška
 profiles-opendir =
     { PLATFORM() ->
         [macos] Prikaži u Finderu
