@@ -80,7 +80,7 @@
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Todos provisórios">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "Aceitar convite do evento provisoriamente para todas as ocorrências do evento">
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Atualizar">
-<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Atualizar o evento no calendário">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Atualizar o evento na agenda">
 <!ENTITY lightning.imipbar.description                                      "Esta mensagem contém um convite para um evento.">
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Enviar uma resposta agora">
@@ -97,7 +97,7 @@
 <!ENTITY lightning.keys.todo.new "D">
 
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Criar novo calendário">
+<!ENTITY lightning.acctCentral.newCalendar.label "Criar nova agenda">
 
 <!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "Exibir minimês">
