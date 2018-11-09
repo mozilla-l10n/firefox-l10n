@@ -8,14 +8,14 @@
   -->
 
 <!-- Tools menu -->
-<!ENTITY lightning.preferencesLabel "Calendário">
+<!ENTITY lightning.preferencesLabel "Agenda">
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Evento…">
 <!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "Tarefa…">
 <!ENTITY lightning.menupopup.new.task.accesskey "T">
-<!ENTITY lightning.menupopup.new.calendar.label "Calendário…">
+<!ENTITY lightning.menupopup.new.calendar.label "Agenda…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
 <!-- Open menu popup in File menu -->
@@ -23,11 +23,11 @@
 <!ENTITY lightning.menupopup.open.accesskey           "A">
 <!ENTITY lightning.menupopup.open.message.label       "Mensagem salva…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
-<!ENTITY lightning.menupopup.open.calendar.label      "Arquivo de calendário…">
+<!ENTITY lightning.menupopup.open.calendar.label      "Arquivo de agenda…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "A">
 
 <!-- View Menu -->
-<!ENTITY lightning.menu.view.calendar.label            "Calendário">
+<!ENTITY lightning.menu.view.calendar.label            "Agenda">
 <!ENTITY lightning.menu.view.calendar.accesskey        "n">
 <!ENTITY lightning.menu.view.tasks.label               "Tarefas">
 <!ENTITY lightning.menu.view.tasks.accesskey           "r">
@@ -48,7 +48,7 @@
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
      - tooltiptext2 is used in the calendar properties dialog for caldav calendars -->
 <!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext1     "Por enquanto, você só pode ativar isso depois de configurar esta agenda em sua caixa de diálogo de propriedades se o servidor da agenda se encarregar do agendamento.">
-<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Esta opção apenas está disponível se o servidor do calendário lidar com o agendamento. Ativar isto irá permitir retroceder para o agendamento baseado no e-mail padrão em vez de o deixar para o servidor.">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.tooltiptext2     "Esta opção só está disponível se o servidor de agenda lidar com agendamento. Ativar isto permitirá retroceder para o agendamento padrão baseado em emails, em vez de deixar por conta do servidor.">
 
 <!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Aceitar">
@@ -56,7 +56,7 @@
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Aceitar todos">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Aceitar convite do evento para todas as ocorrências do evento">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Adicionar">
-<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Adicionar o evento ao calendário">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Adicionar o evento à agenda">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "Recusar">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Recusar convite para evento">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Recusar todos">
@@ -64,7 +64,7 @@
 <!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Recusar">
 <!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Recusar a sugestão">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Excluir">
-<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Excluir do calendário">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Excluir da agenda">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detalhes…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Exibir detalhes do evento">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Mais">
