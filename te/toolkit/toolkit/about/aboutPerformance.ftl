@@ -1,0 +1,32 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Column headers
+
+column-name = పేరు
+column-type = రకం
+
+## Special values for the Name column
+
+
+## Values for the Type column
+
+type-tracker = ట్రాకరు
+type-addon = పొడగింత
+type-browser = విహారిణి
+type-other = ఇతరాలు
+
+## Values for the Energy Impact column
+##
+## Variables:
+##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
+##                     5.38 (medium), 105.38 (high)
+
+energy-impact-medium = మధ్యస్థం ({ $value })
+
+## Tooltips for the action buttons
+
+close-tab =
+    .title = ట్యాబును మూసివేయి

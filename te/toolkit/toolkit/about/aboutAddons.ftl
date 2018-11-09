@@ -21,6 +21,11 @@ list-empty-button =
 install-addon-from-file =
     .label = ఫైలు నుండి పొడిగింతను స్థాపించు…
     .accesskey = I
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } ఎంపికలు
+       *[other] { -brand-short-name } అభిరుచులు
+    }
 tools-menu =
     .tooltiptext = అన్ని పొడిగింతలు కొరకు సాధనములు
 show-unsigned-extensions-button =
@@ -180,7 +185,7 @@ extensions-updates-reset-updates-to-automatic =
     .label = స్వయంచాలకంగా నవీకరించుటకు అన్ని పొడిగింతలును రీసెట్ చేయు
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
-    .label = మనవీయంగా నవీకరించుటకు అన్ని పొడిగింతలను తిరిగివుంచు
+    .label = పొడగింతలన్నీ మానవీయంగా తాజాపరచుకునేలా మార్చు
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
