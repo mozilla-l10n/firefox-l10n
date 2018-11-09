@@ -193,3 +193,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Varsayılan ayarları geri yükle">
 
 <!ENTITY networkProtocolError.title "Ağ Protokolü Hatası">
+<!ENTITY networkProtocolError.longDesc "<p>Ağ protokolünde bir hata bulunduğu için, görüntülemeye çalıştığınız sayfa gösterilemiyor.</p><ul><li>Web sitesinin sahipleriyle iletişim kurarak bu sorunu bildirmeyi deneyebilirsiniz.</li></ul>">
