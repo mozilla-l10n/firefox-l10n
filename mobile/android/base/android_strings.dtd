@@ -900,11 +900,13 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY default_notification_channel2 "విహారిణి">
 <!ENTITY mls_notification_channel "&vendorShortName; స్థాన సేవ">
 <!ENTITY download_notification_channel "దింపుకోళ్ళు">
 <!ENTITY media_notification_channel "మీడియా ప్లేబ్యాక్">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; పుష్ గమనింపులు">
+<!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; చిట్కాలు, మెళకువలు">
 <!ENTITY updater_notification_channel "అనువర్తన తాజాకరణలు">
 <!ENTITY synced_tabs_notification_channel "సింకైన ట్యాబులు">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
