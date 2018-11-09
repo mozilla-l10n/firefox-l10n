@@ -23,5 +23,7 @@
 <!ENTITY paneAdvanced.title       "Gelişmiş">
 <!ENTITY paneAccount.title        "Hesaplar">
 
+<!ENTITY addonsButton.label       "Eklentiler ve temalar">
+
 <!ENTITY okButton.title           "Tamam">
 <!ENTITY okButton.accesskey       "T">
