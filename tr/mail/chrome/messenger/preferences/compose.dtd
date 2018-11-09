@@ -20,6 +20,10 @@
 <!ENTITY font.accesskey                       "Y">
 <!ENTITY size.label                           "Boyut:">
 <!ENTITY size.accesskey                       "B">
+<!ENTITY fontSize.label                       "Boyut:">
+<!ENTITY fontSize.accesskey                   "B">
+<!ENTITY useReaderDefaults.label              "Okuyucunun varsayılan renklerini kullan">
+<!ENTITY useReaderDefaults.accesskey          "O">
 <!ENTITY fontColor.label                      "Metin rengi:">
 <!ENTITY fontColor.accesskey                  "t">
 <!ENTITY bgColor.label                        "Arka plan rengi:">
