@@ -40,7 +40,7 @@
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Esta opção envia um email de convite por participante. Cada convite contém apenas o participante destinatário para que as identidades dos participantes não sejam divulgadas.">
 <!ENTITY event.attendees.disallowcounter.label       "Anular o contador">
 <!ENTITY event.attendees.disallowcounter.accesskey   "a">
-<!ENTITY event.attendees.disallowcounter.tooltip     "Indicar que você não aceitará sugestões">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Indica que você não aceitará contrapropostas">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -424,5 +424,5 @@
 <!ENTITY summary.dialog.decline.tooltiptext     "Recusar o convite">
 <!ENTITY summary.dialog.dontsend.label          "Não enviar uma resposta">
 <!ENTITY summary.dialog.dontsend.tooltiptext    "Altere o seu estado de participação sem enviar uma resposta ao organizador e fechar a janela">
-<!ENTITY summary.dialog.send.label              "Enviar a resposta agora">
+<!ENTITY summary.dialog.send.label              "Enviar uma resposta agora">
 <!ENTITY summary.dialog.send.tooltiptext        "Envia uma resposta ao organizador e fecha a janela">

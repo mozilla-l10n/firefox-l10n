@@ -85,7 +85,7 @@
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Enviar uma resposta agora">
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Enviar uma resposta para o organizador">
-<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Enviar uma resposta para todas as séries do organizador">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Enviar uma resposta da série inteira para o organizador">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Não enviar uma resposta">
 <!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Alterar o seu estado de participação sem enviar uma resposta ao organizador">
 <!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Alterar o seu estado de participação para as séries sem enviar uma resposta ao organizador">
