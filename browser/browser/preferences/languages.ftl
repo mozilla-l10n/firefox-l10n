@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = భాషలు
-    .style = width: 30em
 webpage-languages-window =
     .title = వెబ్‌పేజీ భాష అమరికలు
     .style = width: 40em
@@ -44,3 +41,13 @@ languages-active-code-format =
 browser-languages-window =
     .title = { -brand-short-name } భాష అమరికలు
     .style = width: 40em
+browser-languages-search = మరిన్ని భాషలకోసం వెతకండి…
+browser-languages-searching =
+    .label = భాషల కోసం వెతుకుతున్నది…
+browser-languages-downloading =
+    .label = దింపుకుంటున్నది…
+browser-languages-select-language =
+    .label = చేర్చాల్సిన భాషను ఎంచుకోండి…
+    .placeholder = చేర్చాల్సిన భాషను ఎంచుకోండి…
+browser-languages-installed-label = స్థాపితమైన భాషలు
+browser-languages-available-label = అందుబాటులో ఉన్న భాషలు
