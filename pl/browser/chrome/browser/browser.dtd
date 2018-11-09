@@ -734,14 +734,17 @@
 <!ENTITY contentBlocking.exception.tooltip "Blokowanie treści jest wyłączone dla tej witryny.">
 <!ENTITY contentBlocking.fastBlock.label "Powolne elementy śledzące">
 <!ENTITY contentBlocking.fastBlock.blocked.label "Zablokowano">
+<!ENTITY contentBlocking.fastBlock.blocking.label "Zablokowano">
 <!ENTITY contentBlocking.fastBlock.add.label "Włącz blokowanie…">
 <!ENTITY contentBlocking.trackingProtection.label "Elementy śledzące">
 <!ENTITY contentBlocking.trackingProtection2.label "Wszystkie wykryte elementy śledzące">
 <!ENTITY contentBlocking.trackingProtection3.label "Elementy śledzące">
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Zablokowano">
+<!ENTITY contentBlocking.trackingProtection.blocking.label "Zablokowano">
 <!ENTITY contentBlocking.trackingProtection.add.label "Włącz blokowanie…">
 <!ENTITY contentBlocking.3rdPartyCookies.label "Ciasteczka zewnętrznych witryn">
 <!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Zablokowano">
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Zablokowano">
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Włącz blokowanie…">
 <!ENTITY contentBlocking.openBreakageReportView.label "Zgłoś problem">
 <!ENTITY contentBlocking.openBreakageReportView2.label "Zgłoś problem">
