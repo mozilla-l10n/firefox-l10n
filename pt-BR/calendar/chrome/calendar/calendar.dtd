@@ -175,8 +175,8 @@
 <!ENTITY calendar.context.button.label                "Painel hoje">
 <!ENTITY calendar.context.button.accesskey            "h">
 
-<!ENTITY calendar.context.attendance.menu.label                 "Comparecer">
-<!ENTITY calendar.context.attendance.menu.accesskey             "C">
+<!ENTITY calendar.context.attendance.menu.label                 "Participação">
+<!ENTITY calendar.context.attendance.menu.accesskey             "P">
 <!ENTITY calendar.context.attendance.occurrence.label           "Esta ocorrência">
 <!ENTITY calendar.context.attendance.all2.label                 "Série completa">
 <!ENTITY calendar.context.attendance.send.label                 "Enviar uma notificação agora">
