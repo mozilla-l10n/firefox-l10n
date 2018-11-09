@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Advertir te quando tu claude multiple schedas
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Advertir te quando tu claude plure schedas
+    .accesskey = p
 warn-on-open-many-tabs =
     .label = Advertir te quando tu aperi multiple schedas que illo pote facer { -brand-short-name } devenir lente
     .accesskey = d
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Actualisar automaticamente le motores de recerca
     .accesskey = e
+update-pref-write-failure-title = Error de scriptura
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Incapace a salvar le option. Impossibile scriber al file: { $path }
 
 ## General Section - Performance
 
