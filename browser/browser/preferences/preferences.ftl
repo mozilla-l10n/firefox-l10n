@@ -291,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Sykmasines automatysk bywurkje
     .accesskey = y
+update-pref-write-failure-title = Skriuwflater
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Kin foarkar net bewarje. Koe net skriuwe nei bestân: { $path }
 
 ## General Section - Performance
 
