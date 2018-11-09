@@ -4,18 +4,18 @@
 
 head-title=O narzędziach dla programistów
 
-enable-title=Włączanie narzędzi dla programistów Firefoksa
-enable-inspect-element-title=Włącz narzędzia dla programistów Firefoksa, aby używać opcji „Zbadaj element”
+enable-title=Narzędzia dla programistów
+enable-inspect-element-title=Włącz narzędzia dla programistów przeglądarki, aby używać opcji „Zbadaj element”.
 enable-inspect-element-message=Badaj i redaguj kod HTML i CSS za pomocą inspektora narzędzi dla programistów.
-enable-about-debugging-message=Twórz i debuguj rozszerzenia WebExtensions, wątki sieciowe, wątki usługowe i wiele więcej za pomocą narzędzi dla programistów Firefoksa.
+enable-about-debugging-message=Twórz i debuguj rozszerzenia WebExtensions, wątki sieciowe, wątki usługowe i wiele więcej za pomocą narzędzi dla programistów.
 enable-key-shortcut-message=Użyto skrótu narzędzi dla programistów. Jeśli zrobiono to przez pomyłkę, to można zamknąć tę kartę.
 enable-menu-message=Udoskonalaj kod HTML, CSS i JavaScript strony za pomocą takich narzędzi, jak inspektor i debuger.
-enable-common-message=Narzędzia dla programistów Firefoksa są domyślnie wyłączone, aby użytkownik miał więcej kontroli nad przeglądarką.
+enable-common-message=Narzędzia dla programistów są domyślnie wyłączone, aby użytkownik miał więcej kontroli nad przeglądarką.
 enable-learn-more-link=Więcej informacji o narzędziach dla programistów
-enable-enable-button=Włącz narzędzia dla programistów
+enable-enable-button=Włącz narzędzia
 enable-close-button=Zamknij tę kartę
 
-welcome-title=Witamy w narzędziach dla programistów Firefoksa!
+welcome-title=Witamy w narzędziach dla programistów!
 
 newsletter-title=Newsletter Mozilli dla programistów
 newsletter-message=Aktualności, wskazówki i inne materiały dla programistów prosto do Twojej skrzynki.
