@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> notast við öryggistækni sem er úreld og ekki lengur örugg. Árásaraðili gæti auðveldlega komist í upplýsingar sem þú telur vera öruggar. Vefumsjónaraðilinn verður að laga miðlarann áður en þú getur heimsótt vefsvæðið .</p><p>Villu kóði: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Netvilla">
+<!ENTITY networkProtocolError.longDesc "<p>Ekki er hægt að birta síðuna sem þú ert að reyna að skoða vegna þess að villa í netkerfisreglunni fannst.</p><ul><li>Hafðu samband við eigendur vefsvæðisins til að upplýsa þá um þetta vandamál.</li></ul>">

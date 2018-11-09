@@ -898,11 +898,14 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY default_notification_channel2 "Vafri">
 <!ENTITY mls_notification_channel "&vendorShortName; staðsetningarþjónusta">
 <!ENTITY download_notification_channel "Niðurhal">
 <!ENTITY media_notification_channel "Miðlunarafspilun">
+<!ENTITY media_notification_channel2 "Hljóð og myndskeið">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; Tilkynningar">
+<!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; ráð og brellur">
 <!ENTITY updater_notification_channel "Uppfærslur fyrir smáforrit">
 <!ENTITY synced_tabs_notification_channel "Samstilltir flipar">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
