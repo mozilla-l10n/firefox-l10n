@@ -36,6 +36,10 @@
 <!ENTITY view.discover.label                  "Pobierz dodatki">
 <!ENTITY view.recentUpdates.label             "Ostatnie aktualizacje">
 <!ENTITY view.availableUpdates.label          "Dostępne aktualizacje">
+
+<!ENTITY preferencesWin.label "Opcje programu">
+<!ENTITY preferencesUnix.label "Preferencje programu">
+
 <!ENTITY updates.checkForUpdates.label        "Znajdź aktualizacje">
 <!ENTITY updates.checkForUpdates.accesskey    "n">
 <!ENTITY updates.viewUpdates.label            "Wyświetl ostatnie aktualizacje">

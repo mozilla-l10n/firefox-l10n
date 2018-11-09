@@ -37,7 +37,10 @@ category-privacy =
 pane-sync-title = Konto Firefoksa
 category-sync =
     .tooltiptext = { pane-sync-title }
-help-button-label = Wsparcie programu { -brand-short-name }
+
+help-button-label=Wsparcie programu { -brand-short-name }
+addons-button-label=Dodatki i motywy
+
 focus-search =
     .key = f
 close-button =
