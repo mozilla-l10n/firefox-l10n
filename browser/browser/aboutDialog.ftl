@@ -25,7 +25,7 @@ update-restarting = Berrabiarazten…
 channel-description = Une honetan <label data-l10n-name="current-channel"></label> eguneraketa-kanalean zaude.
 warningDesc-version = { -brand-short-name } esperimentala da eta ezegonkorra izan liteke.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> weba ireki, publiko eta guztiontzat atzigarri mantentzeko lanean dabilen <label data-l10n-name="community-exp-creditsLink">komunitate globala</label> da.
-community-2 = ‌‌<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>k diseinatzen du &brandShortName;, weba ireki, publiko eta guztiontzat atzigarri mantentzeko lanean dabilen <label data-l10n-name="community-creditsLink">komunitate globalak</label>.
+community-2 = ‌‌<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>k diseinatzen du { -brand-short-name }, weba ireki, publiko eta guztiontzat atzigarri mantentzeko lanean dabilen <label data-l10n-name="community-creditsLink">komunitate globalak</label>.
 helpus = Lagundu nahi duzu? <label data-l10n-name="helpus-donateLink">Egin dohaintza</label> edo <label data-l10n-name="helpus-getInvolvedLink">hartu parte!</label>
 bottomLinks-license = Lizentziaren informazioa
 bottomLinks-rights = Erabiltzailearen eskubideak
