@@ -11,7 +11,7 @@
 <!ENTITY aboutWarningButton2.label "నేను ఈ ప్రమాదమును అంగీకరిస్తున్నాను!">
 <!ENTITY aboutWarningCheckbox.label "తరువాతసారి ఈ హెచ్చరికను చూపు">
 
-<!ENTITY searchPrefs.label "అన్వేషించు:">
+<!ENTITY searchPrefs.label "వెతకడం:">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
@@ -38,7 +38,7 @@
 <!ENTITY modify.accesskey "M">
 <!ENTITY toggle.label "అటుదిటుచేయు">
 <!ENTITY toggle.accesskey "T">
-<!ENTITY reset.label "తిరిగివుంచు">
+<!ENTITY reset.label "పునరుద్ధరించు">
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "కొత్త">
 <!ENTITY new.accesskey "w">

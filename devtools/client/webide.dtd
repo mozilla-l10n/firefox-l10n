@@ -36,12 +36,12 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "రన్‌టైమ్ సమాచారం">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "మానిటర్">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "పరికర అభిరుచులు">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "పరికరపు అమరికలు">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+
+<!ENTITY runtimeMenu_showPerformancePanel_label "పనితనం">
 
 <!ENTITY viewMenu_label "దర్శించు">
 <!ENTITY viewMenu_accesskey "V">
@@ -113,7 +113,7 @@
 <!ENTITY prefs_options_autoconnectruntime "మునుపటి రన్ టైమ్ కు తిరిగి కనెక్ట్ అవ్వండి">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "WebIDE మొదలగునప్పుడు మునుపటి రన్ టైమ్ కు తిరిగి కనెక్ట్ అవ్వండి">
 <!ENTITY prefs_options_rememberlastproject "ఆఖరి ప్రోజెక్ట్ గుర్తుంచుకో">
-<!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE మొదలవునప్పుడు మునుపటి ప్రోజెక్ట్‌ను తిరిగివుంచు">
+<!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE మొదలవునప్పుడు మునుపటి ప్రాజెక్టును పునరుద్ధరించు">
 <!ENTITY prefs_options_templatesurl "టెంప్లేట్ల URL">
 <!ENTITY prefs_options_templatesurl_tooltip "అందుబాటులోని టెంప్లేట్ల సూచిక">
 
@@ -146,10 +146,6 @@
 <!ENTITY devicesetting_newname "కొత్త అమరిక పేరు">
 <!ENTITY devicesetting_newtext "అమరిక విలువ">
 <!ENTITY devicesetting_addnew "కొత్త అమరికను చేర్చు">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "మానిటర్">
-<!ENTITY monitor_help "సహాయం">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog

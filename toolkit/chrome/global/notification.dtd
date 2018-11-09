@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "సరే!">
 <!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "మరిన్ని చర్యలు">

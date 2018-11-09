@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "పొడిగింతల నిర్వాహకి">
 
 <!ENTITY search.placeholder2                  "addons.mozilla.orgలో వెతకండి">
+
 <!ENTITY search.buttonlabel                   "వెతుకు">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -42,6 +43,9 @@
 <!ENTITY view.recentUpdates.label             "ఇటీవలి నవీకరణలు">
 <!ENTITY view.availableUpdates.label          "అందుబాటులోని నవీకరణలు">
 
+<!ENTITY preferencesWin.label                  "&brandShortName; ఎంపికలు">
+<!ENTITY preferencesUnix.label                 "&brandShortName; అభిరుచులు">
+
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "నవీకరణల కొరకు పరిశీలించు">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
@@ -60,7 +64,7 @@
      updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "స్వయంచాలకంగా నవీకరించుటకు అన్ని పొడిగింతలును రీసెట్ చేయు">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "మనవీయంగా నవీకరించుటకు అన్ని పొడిగింతలను తిరిగివుంచు">
+<!ENTITY updates.resetUpdatesToManual.label          "పొడగింతలన్నీ మానవీయంగా తాజాపరచుకునేలా మార్చు">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "పొడిగింతలను నవీకరిస్తున్నది">
 <!ENTITY updates.installed.label              "మీ పొడిగింతలు తాజాకరించబడ్డాయి.">
@@ -89,6 +93,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "ఎంపిక శైలిని దరించుటను ఆపు">
 <!ENTITY cmd.disableTheme.accesskey           "W">
+
 <!ENTITY cmd.askToActivate.label              "క్రియాశీలపరచుటకు అడుగు">
 <!ENTITY cmd.askToActivate.tooltip            "ప్రతిసారి ఈ పొడిగింత ఉపయోగించుటకు అడుగు">
 <!ENTITY cmd.alwaysActivate.label             "ఎల్లప్పుడూ క్రియాశీలపరుచు">
@@ -98,6 +103,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "ఈ పొడగింత ఎప్పుడు నడవాలో మార్చండి">
 <!ENTITY cmd.installAddon.label               "స్థాపించు">
 <!ENTITY cmd.installAddon.accesskey           "I">
+
 <!ENTITY cmd.uninstallAddon.label             "తీసివేయి">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "ఎంపికలు">
@@ -160,6 +166,7 @@
 <!ENTITY progress.cancel.tooltip              "రద్దుచేయి">
 
 <!ENTITY addon.homepage                       "ముంగిలిపేజీ">
+
 <!ENTITY addon.details.label                  "ఇంకా">
 <!ENTITY addon.details.tooltip                "ఈ పొడిగింత గురించి మరిన్ని వివరములను చూపు">
 <!ENTITY addon.unknownDate                    "తెలియని">
@@ -181,6 +188,7 @@
 <!ENTITY addon.undoRemove.label               "చర్యరద్దు">
 <!ENTITY addon.undoRemove.tooltip             "ఈ పొడిగింతను స్థాపించబడి ఉండనివ్వు">
 <!ENTITY addon.restartNow.label               "ఇప్పుడే పునఃప్రారంభించు">
+
 <!ENTITY addon.install.label                  "స్థాపించు">
 <!ENTITY addon.install.tooltip                "ఈ పొడిగింతను స్థాపించు">
 <!ENTITY addon.updateNow.label                "ఇప్పుడు నవీకరించు">
