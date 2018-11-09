@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "صفحہ لوڈ کرنے میں مسلہ">
 <!ENTITY retry.label "دوبارہ کوشش کریں">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "جڑنے میں ناکام">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "قابل بھروسا کنکشن ناکام">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>یہ پیسکار کی تشکیل کے ساتھ کچھ مسلہ ہو سکتا ہے، یا پھر کوئی پیش کار کی نقل کرے کی کوشش کر رہا ہو سکتا ہے۔</li> <li>اگر آپ پہلے کامیابی سے اس پیش کار سے جڑ چکے ہیں تو نقص عارظی ہو سکتا ہے اور آپ کچھ دیر میں پھر کوشش کر سکتے ہیں۔</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>سائٹ عارضی طور پر عدم دستیاب ہوسکتی ہے یا بہت مصروف۔ کچھ لمحوں میں پھر کوشش کریں۔</li> <li>اگر آپ صفحات لوڈ کرنے میں ناکام ہیں، تو اپنے موبائل آلہ کے کوائف یا وائی فائی کنکشن کی پڑتال کریں۔ <button id='wifi'>وائی فائی اہل بنائیں</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "مواد سیکیورٹی پالسی کے تحت بلاک">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "یا آپ ایک استثنا کا اضافہ کر سکتے ہیں…">
 <!ENTITY securityOverride.getMeOutOfHereButton "مجھے یہاں سے نکالیں!">
 <!ENTITY securityOverride.exceptionButtonLabel "استثنا اضافہ کریں…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>آپ کو اکسیپشن نہیں ڈالنی چاہیے اگر آپ ایسا انٹرنیٹ کنکشن استعمال کر رہیں ہیں جس پر آپ کو پوری طرح سے بھروسا نہیں ہے یا اگر آپ کو اس پیش کار کے لیے تنبیہ دیکھنے کی عادت نہیں ہے۔</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -119,3 +119,5 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> سیکورٹی ٹیکنالوجی کا استعمال کرتا ہے جو کی فرسودہ اور حملے کا شکار ہے۔ حملہ آور آسانی سے اس معلومات کو ظاہر کر سکتا یے جسے آپ محفوظ سمجھ رہے ہے۔ آپکی سائٹ دورہ کرنے سے پہلے ویب سائٹ منتظمکار کو پیش کار ٹھک کرنا ہوگا۔</p><p> خرابی کا کوڈ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "نیٹ ورک پروٹوکول کی خرابی">
