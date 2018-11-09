@@ -6,3 +6,4 @@ restart-required-title = Neustart erforderlich
 restart-required-header = Entschuldigung für die Störung
 restart-required-intro = Wir haben gerade ein Update im Hintergrund installiert. Klicken Sie auf { -brand-short-name } neu starten, um es abzuschließen.
 restart-required-description = Wir werden danach all Ihre Seiten, Fenster und Tabs wiederherstellen, damit Sie schnell weitermachen können.
+restart-button-label = { -brand-short-name } neu starten
