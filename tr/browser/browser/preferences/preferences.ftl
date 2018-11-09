@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Birden fazla sekmeyi kapatırken beni uyar
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Çıkarken ve birden fazla sekmeyi kapatırken beni uyar
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Birden çok sekme açmanın { -brand-short-name } uygulamasını yavaşlatabileceği durumlarda beni uyar
     .accesskey = k
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Arama motorlarını otomatik olarak güncelle
     .accesskey = e
+update-pref-write-failure-title = Yazma Hatası
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Tercih kaydedilemiyor. Dosyaya yazılamadı: { $path }
 
 ## General Section - Performance
 
