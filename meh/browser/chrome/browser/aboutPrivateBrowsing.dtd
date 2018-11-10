@@ -16,16 +16,7 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Daa archivos temporales">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 
 

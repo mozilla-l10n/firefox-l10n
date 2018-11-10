@@ -26,3 +26,5 @@ community-2 = { -brand-short-name } nsá´á <label data-l10n-name="community-mo
 bottomLinks-license = Tutu nákani saa kuatiñunu-u ya´a
 bottomLinks-rights = Nichi saa no´o kuvi kuatiñunu-u ya´a
 bottomLinks-privacy = Tu´un xitu a nejika kumi-o
+aboutDialog-architecture-sixtyFourBit = 64-bit
+aboutDialog-architecture-thirtyTwoBit = 32-bit
