@@ -1070,6 +1070,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "ط">
 <!ENTITY trackingProtection.block5.label "فعّل الحجب في هذا الموقع">
 <!ENTITY trackingProtection.block5.accesskey "ف">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "عطّل الحجب لهذا الموقع">
+<!ENTITY trackingProtection.unblock5.accesskey "ع">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "عطّل الحجب مؤقتا">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "ع">
+<!ENTITY trackingProtection.block6.label "فعّل الحجب على هذا الموقع">
+<!ENTITY trackingProtection.block6.accesskey "ع">
 <!ENTITY trackingProtection.reload2.label "أعِد تحميل الصفحة">
 <!ENTITY trackingProtection.reload2.accesskey "ع">
 
