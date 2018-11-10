@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Warnowaś, gaž někotare rejtarki se zacynjaju
     .accesskey = W
+warn-on-quit-close-multiple-tabs =
+    .label = Warnowaś, gaž se někotare rejtarki kóńce a zacynjaju
+    .accesskey = k
 warn-on-open-many-tabs =
     .label = Warnowaś, gaby wócynjanje někotarych rejtarkow mógło { -brand-short-name } spomałšyś
     .accesskey = k
@@ -294,6 +297,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Pytnice awtomatiski aktualizěrowaś
     .accesskey = k
+update-pref-write-failure-title = Pisańska zmólka
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Nastajenje njedajo se składowaś. Njejo było móžno, do dataje pisaś: { $path }
 
 ## General Section - Performance
 
