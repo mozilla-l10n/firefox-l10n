@@ -83,6 +83,9 @@
 <!ENTITY printCmd.label "Drukuj…" >
 <!ENTITY printCmd.accesskey "D" >
 <!ENTITY printCmd.commandkey "p" >
+
+<!ENTITY taskManagerCmd.label "Menedżer zadań">
+
 <!ENTITY goOfflineCmd.label "Pracuj w trybie offline" >
 <!ENTITY goOfflineCmd.accesskey "c" >
 <!ENTITY menubarCmd.label "Pasek menu">
