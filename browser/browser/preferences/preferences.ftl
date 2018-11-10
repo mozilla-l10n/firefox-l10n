@@ -324,6 +324,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = જ્યારે તમે ટાઇપ કરવાનું શરૂ કરો ત્યારે ટેક્સ્ટ માટે શોધો
     .accesskey = x
+browsing-cfr-recommendations-learn-more = વધુ શીખો
 
 ## General Section - Proxy
 
