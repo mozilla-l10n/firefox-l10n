@@ -134,6 +134,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "Sa nikaj ñu'unj nej suun">
 
 <!ENTITY goOfflineCmd.label "Gi'iaj sun nùnj si nitaj koneksiôn hua">
 <!ENTITY goOfflineCmd.accesskey "k">
@@ -150,18 +151,28 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Nuto' a'ngo rakïj ñanj...">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Nachra ñun' riña rakïj ñaj">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Nachra ñun' riña rakïj ñaj">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Na'ninj so' nej rakïj ñanj nu dukuán markador...">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Na'ninj so' nej rakïj ñanj nu nej dukuán markador...">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Nahui' da'ua gè rakïj ñanj">
+<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Tanikaj ñûn' rakïj ñanj">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
@@ -496,6 +507,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.label "Dugumin' ra'a ma">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
 
+<!ENTITY customizeMenu.removeExtension.label "Dure' sa taj a">
+<!ENTITY customizeMenu.removeExtension.accesskey "v">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -827,6 +840,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Sa dugumi'">
 
+<!ENTITY identity.connection "Koneksiôn">
 <!ENTITY identity.connectionSecure "Konexiôn yitinj in">
 <!ENTITY identity.connectionNotSecure "Nitaj si yitïnj hua coneksion na">
 <!ENTITY identity.connectionFile "'Ngà nu sa' pajinâ na riña si aga't.">
@@ -987,12 +1001,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
      "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "Garun'">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Nuto' sa arrán...">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Daran sa naga'naj a">
+<!ENTITY contentBlocking.trackingProtection3.label "Sa naga'naj">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1003,26 +1020,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "Garun'">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.trackingProtection.add.label "Nuto' sa arrán...">
 
+<!ENTITY contentBlocking.3rdPartyCookies.label "Si kookies a'ngò dugui'">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Kookies naga'naj">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Hua blokeadoj">
 <!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
      "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Garun'">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
      the type of content blocking is currently not enabled. -->
+<!ENTITY contentBlocking.3rdPartyCookies.add.label "Nuto' sa arán...">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Nato' sa gire'e">
 <!ENTITY contentBlocking.breakageReportView.label "Nato' sa gire'e">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Gahuin chrūn doj">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
@@ -1049,9 +1073,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Guxun' sa arán riña sitio na">
+<!ENTITY trackingProtection.unblock5.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Guxun akuon' sa arán">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "Na'nī ñu' pajinâ">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
