@@ -743,6 +743,7 @@
 <!ENTITY contentBlocking.trackingProtection.blocking.label "Zablokowano">
 <!ENTITY contentBlocking.trackingProtection.add.label "Włącz blokowanie…">
 <!ENTITY contentBlocking.3rdPartyCookies.label "Ciasteczka zewnętrznych witryn">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Ciasteczka używane do śledzenia">
 <!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Zablokowano">
 <!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Zablokowano">
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Włącz blokowanie…">
