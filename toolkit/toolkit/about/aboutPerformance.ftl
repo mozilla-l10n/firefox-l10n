@@ -9,6 +9,7 @@ about-performance-title = Tehtävienhallinta
 
 column-name = Nimi
 column-type = Tyyppi
+column-energy-impact = Energiavaikutus
 
 ## Special values for the Name column
 

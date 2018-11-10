@@ -29,6 +29,8 @@
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Monista välilehti">
 <!ENTITY  duplicateTab.accesskey             "n">
+<!ENTITY  closeTabOptions.label              "Välilehtien sulkeminen">
+<!ENTITY  closeTabOptions.accesskey          "h">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -1065,6 +1067,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "P">
 <!ENTITY trackingProtection.block5.label "Ota esto käyttöön tälle sivustolle">
 <!ENTITY trackingProtection.block5.accesskey "O">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Poista esto käytöstä tältä sivustolta">
+<!ENTITY trackingProtection.unblock5.accesskey "e">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Poista esto käytöstä väliaikaisesti">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "e">
+<!ENTITY trackingProtection.block6.label "Ota esto käyttöön tälle sivustolle">
+<!ENTITY trackingProtection.block6.accesskey "e">
 <!ENTITY trackingProtection.reload2.label "Lataa sivu uudelleen">
 <!ENTITY trackingProtection.reload2.accesskey "L">
 
