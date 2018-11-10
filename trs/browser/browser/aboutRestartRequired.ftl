@@ -4,3 +4,6 @@
 
 restart-required-title = Da'ui nayi'ì ñunj
 restart-required-header = Si gamma ruat. A'kuan'ni nayi'ì ñunj.
+restart-required-intro = Hiaj ga'nïn ñûnj 'ngo sa nahuin nakà se sa ña'an nìko huaa. Ga'ui' klik riña nayi'ìt { -brand-short-name } da' nanun hue'ej.
+restart-required-description = Nagi'iaj ñûnj daran' nej si pajinât, bentâna ni rakïj ñanj, da' ga'ue ga hue'ê doj gache nunt.
+restart-button-label = Nayi'ì nakà { -brand-short-name }

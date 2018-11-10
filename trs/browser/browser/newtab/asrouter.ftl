@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Si ga'ue akuan'ni
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Nuto' hiaj
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Dugumî dàj hua chrej nikaj nej nuguan' narikî nej si
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = Si nadigant riña nuguan' hua nan
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = Gahuin chrūn doj
 # This string is used on a new line below the add-on name
 # Variables:
