@@ -20,3 +20,9 @@ onboarding-start-browsing-button-label = Fara að vafra
 onboarding-private-browsing-title = Vafra í huliðsglugga
 onboarding-screenshots-title = Skjámyndir
 onboarding-screenshots-text = Taktu, vistaðu og deildu skjámyndum án þess að yfirgefa { -brand-short-name }. Taktu skjámynd af hlut af svæði eða allri síðunni á meðan þú vafrar. Vista síðan í skýið svo auðvelt sé að nálgast myndina og deila henni.
+onboarding-addons-title = Viðbætur
+onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Vafra hraðar, betur eða á öruggari máta með viðbótum eins og Ghostery, sem gerir þér kleift að loka á pirrandi auglýsingar.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Samstilla
+onboarding-fxa-text = Skráðu þig fyrir { -fxaccount-brand-name } og samstilltu bókamerki, lykilorð og opna flipa hvar sem þú notar { -brand-short-name }.
