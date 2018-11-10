@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Varoita, kun olen sulkemassa useita välilehtiä
     .accesskey = V
+warn-on-quit-close-multiple-tabs =
+    .label = Varoita, kun olen sulkemassa ohjelman tai useita välilehtiä
+    .accesskey = V
 warn-on-open-many-tabs =
     .label = Varoita, kun useiden välilehtien avaaminen voi hidastaa { -brand-short-name }ia
     .accesskey = r
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Päivitä hakukoneet automaattisesti
     .accesskey = k
+update-pref-write-failure-title = Kirjoittaminen epäonnistui
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Asetuksen tallentaminen epäonnistui. Ei voitu kirjoittaa tiedostoon: { $path }
 
 ## General Section - Performance
 
