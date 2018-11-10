@@ -24,6 +24,8 @@
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>„Firefox“ telemetrijos kliento dokumentacijoje</a> rasite sąvokų apibrėžimus, API dokumentaciją bei duomenų rodyklę.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Telemetrijos skydeliai</a> leidžia jums aiškiai matyti „Mozillai“ siunčiamus duomenis.">
 
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Zondų žodynas</a> pateikia telemetrijos surinktų zondų informaciją ir aprašus.">
+
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Atverti JSON žiūrykle">
 
 <!ENTITY aboutTelemetry.homeSection "Pradžia">
