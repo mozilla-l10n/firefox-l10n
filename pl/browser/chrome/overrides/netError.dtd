@@ -14,6 +14,7 @@
 <!ENTITY continue1.label "Kontynuuj…">
 <!ENTITY continue2.label "Więcej…">
 <!ENTITY moreInformation.label "Więcej informacji">
+<!ENTITY viewCertificate.label "Wyświetl certyfikat">
 
 <!ENTITY connectionFailure.title "Nie udało się nawiązać połączenia">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">

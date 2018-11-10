@@ -51,6 +51,11 @@ permissions-exceptions-tracking-protection-window =
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Ochrona przed śledzeniem została wyłączona dla następujących witryn.
 
+permissions-exceptions-content-blocking-window=
+  .title=Wyjątki – Blokowanie treści
+  .style={ permissions-window.style }
+permissions-exceptions-content-blocking-desc=Blokowanie treści zostało wyłączone dla następujących witryn.
+
 permissions-exceptions-cookie-window =
     .title = Wyjątki – Ciasteczka i dane stron
     .style = { permissions-window.style }
