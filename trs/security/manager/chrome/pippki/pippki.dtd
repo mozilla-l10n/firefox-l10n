@@ -6,8 +6,13 @@
 <!ENTITY setPassword.title  "Nadunā Da’nga’ Huì A’nïn’ïn">
 <!ENTITY setPassword.tokenName.label "Sa dugumîn sò'">
 <!ENTITY setPassword.oldPassword.label "Da’nga’ huì nikājt akuan’ nïn:">
+<!ENTITY setPassword.newPassword.label "Da'nga' huì nakàa:">
+<!ENTITY setPassword.reenterPassword.label "Da'nga' huìi (gachrun ñû):">
+<!ENTITY setPassword.meter.label "Sa ni’iāj si huā hue’ê da’nga’ huìi">
 
 <!-- Values for resetpassword.xul -->
+<!ENTITY resetPasswordButtonLabel "Nagi'iaj ñû">
+<!ENTITY resetPassword.title  "Nagi'iaj da'nga' huì ñaa">
 
 <!-- Downloading a cert -->
 
