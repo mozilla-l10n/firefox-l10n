@@ -12,7 +12,6 @@
 <!ENTITY aboutTelemetry.optionGroupToday "An-diugh">
 <!ENTITY aboutTelemetry.optionGroupYesterday "An-dè">
 <!ENTITY aboutTelemetry.optionGroupOlder "Nas sine">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -24,6 +23,8 @@
 <!ENTITY aboutTelemetry.firefoxDataDoc "Tha treòirean ann am <a>Firefox Data Documentation</a> a dh’innseas dhut mar a dh’obraicheas tu leis na h-innealan dàta againn.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "Gheibh thu deifiniseanan choincheapan, docamaideadh API agus reifreansan dàta san docamaidean <a>Firefox Telemetry Client</a>.">
 <!ENTITY aboutTelemetry.telemetryDashboard "Bheir <a>deas-bhùird an telemeatraidh</a> comas dhut dealbh a dhèanamh dhen dàta a gheibh Mozilla slighe gleus an telemeatraidh.">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "Tha am <a>Probe Dictionary</a> a’ toirt dhut mion-fhiosrachadh is tuairisgeulan mun fhiosrachadh a chruinnich an telemeatraidh.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Fosgail san t-sealladair JSON">
 
@@ -37,9 +38,7 @@
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
 <!ENTITY aboutTelemetry.eventsSection "  Tachartasan">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Tomhaisean simplidh">
-<!ENTITY aboutTelemetry.telemetryLogSection " Loga telemeatraidh">
 <!ENTITY aboutTelemetry.slowSqlSection "  SQL Statements slaodach">
-<!ENTITY aboutTelemetry.chromeHangsSection "  Brabhsair reòite">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Mion-fhiosrachadh an tuilleadain">
 <!ENTITY aboutTelemetry.capturedStacksSection "  Stacan glacte">
 <!ENTITY aboutTelemetry.lateWritesSection "  Sgrìobhaidhean fadalach">
