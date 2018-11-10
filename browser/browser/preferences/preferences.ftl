@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Thoir rabhadh mus dùin mi iomadh taba còmhla
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Thoir rabhadh mus fhàg is mus dùin mi iomadh taba còmhla
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Ma tha cunnart gun cuir cus thabaichean maille air { -brand-short-name }, thoir rabhadh
     .accesskey = d
@@ -294,6 +297,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = na h-einnseanan-luirg ùrachadh gu fèin-obrachail
     .accesskey = e
+update-pref-write-failure-title = Fàilligeadh sgrìobhaidh
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Chan urrainn dhuinn an roghainn a shàbhaladh. Cha b’ urrainn dhuinn sgrìobhadh san fhaidhle “{ $path }”
 
 ## General Section - Performance
 
