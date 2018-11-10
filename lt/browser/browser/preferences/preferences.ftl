@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Įspėti prieš užveriant daugiau kaip vieną kortelę
     .accesskey = d
+warn-on-quit-close-multiple-tabs =
+    .label = Perspėti prieš išjungiant ir uždarant keletą kortelių
+    .accesskey = t
 warn-on-open-many-tabs =
     .label = Įspėti prieš atveriant daug kortelių, kurios gali sulėtinti „{ -brand-short-name }“ darbą
     .accesskey = s
@@ -291,6 +294,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = automatiškai naujinti ieškykles
     .accesskey = e
+update-pref-write-failure-title = Įrašymo klaida
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Nepavyko įrašyti nuostatos. Negalima įrašyti į failą: { $path }
 
 ## General Section - Performance
 
