@@ -284,6 +284,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = 自动更新搜索引擎
     .accesskey = e
+update-pref-write-failure-title = 写入失败
 
 ## General Section - Performance
 
