@@ -20,6 +20,7 @@
 <!ENTITY font.accesskey                       "P">
 <!ENTITY size.label                           "Taille :">
 <!ENTITY size.accesskey                       "e">
+<!ENTITY useReaderDefaults.label              "Utiliser les couleurs par défaut du lecteur">
 <!ENTITY fontColor.label                      "Couleur du texte :">
 <!ENTITY fontColor.accesskey                  "C">
 <!ENTITY bgColor.label                        "Couleur de l’arrière-plan :">
