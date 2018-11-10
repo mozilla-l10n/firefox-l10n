@@ -898,11 +898,14 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY default_notification_channel2 "Natsij ni\&apos;iajt">
 <!ENTITY mls_notification_channel "&vendorShortName; Sa rugujñu\&apos;unj nana\&apos;ui\&apos; \&apos;ngo sa huin ruhuô\&apos;">
 <!ENTITY download_notification_channel "Nadunïnj">
 <!ENTITY media_notification_channel "Sa duguachráa ni narii">
+<!ENTITY media_notification_channel2 "Sa gunïn\&apos; ngà sa ni\&apos;io\&apos;">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; Nuguan push huaa">
+<!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; nuguan\&apos; rugûñu\&apos;unj dàj natsít">
 <!ENTITY updater_notification_channel "Sa hua nahuin nakà riña na">
 <!ENTITY synced_tabs_notification_channel "Nej rakïj ñaj guña huaa">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
