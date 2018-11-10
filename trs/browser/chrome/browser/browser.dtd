@@ -1080,6 +1080,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate5.label "Guxun akuon' sa arán">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.label "Nachrun' sa arán riña sitio na">
+<!ENTITY trackingProtection.block6.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "Na'nī ñu' pajinâ">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
