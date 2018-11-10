@@ -291,6 +291,11 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "اطّلع على المزيد حول &brandShortName; ومنتجات &vendorShortName; الأخرى">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "شغّل">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "المزايا التجريبية">
@@ -363,7 +368,6 @@
 <!ENTITY pref_use_system_font_size_summary "غيّر حجم محتوى الوِب بناء على حجم خط النظام">
 
 <!ENTITY pref_media_autoplay_enabled "اسمح بالتشغيل التلقائي">
-<!ENTITY pref_media_autoplay_enabled_summary "تحكم في السماح للمواقع بتشغيل الڤديو و غيره من الوسائط تلقائيا">
 <!ENTITY pref_media_autoplay_allow "اسمح بالتشغيل التلقائي">
 <!ENTITY pref_media_autoplay_block "امنع التشغيل التلقائي">
 <!ENTITY pref_zoom_force_enabled "فعّل التقريب دائمًا">
@@ -828,9 +832,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "تعذّر فتح &brandShortName;. رجاء أعِد تنصيبه ثم جرب مرة أخرى.">
 
-<!ENTITY eol_notification_title2 "لن يُحدث &brandShortName; بعد الآن">
-<!ENTITY eol_notification_summary "انقر لتطلع على المزيد">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; مُحدَّث">
@@ -903,3 +904,6 @@ Picture-in-picture mini window -->
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY updater_notification_channel "تحديثات التطبيق">
 <!ENTITY synced_tabs_notification_channel "الألسنة المُزامنة">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "تنبيهات المواقع">
