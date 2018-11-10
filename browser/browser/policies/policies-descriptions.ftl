@@ -10,4 +10,8 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = Stilla sérsniðna smáforrits uppfærslu slóð.
+policy-Authentication = Stilla samþætta auðkenningu fyrir vefsíður sem styðja slíkt.
+policy-BlockAboutAddons = Lokaðu aðgangi við viðbótareftirlitið (um: viðbætur).
+policy-BlockAboutConfig = Lokaðu aðgangi að um: config síðu.
 policy-DisableForgetButton = Hamla aðgang að Gleyma hnappnum.
