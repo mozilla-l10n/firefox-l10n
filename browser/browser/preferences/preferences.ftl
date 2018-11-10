@@ -150,6 +150,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = نبّهني عند محاولة إغلاق عدّة ألسنة
     .accesskey = ة
+warn-on-quit-close-multiple-tabs =
+    .label = نبّهني عند محاولة الإنهاء وإغلاق عدّة ألسنة
+    .accesskey = ن
 warn-on-open-many-tabs =
     .label = نبّهني عند فتح عدة ألسنة أن هذا قد يبطئ { -brand-short-name }
     .accesskey = ف
@@ -294,6 +297,9 @@ update-application-use-service =
 update-enable-search-update =
     .label = حدّث محركات البحث تلقائيًا
     .accesskey = ك
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = تعذّر حفظ التفضيلات. تعذّرت الكتابة في الملف: { $path }
 
 ## General Section - Performance
 
@@ -608,6 +614,9 @@ sitedata-keep-until-expire =
     .label = تنتهي صلاحيتها
 sitedata-keep-until-closed =
     .label = إغلاق { -brand-short-name }
+sitedata-delete-on-close =
+    .label = احذف الكعكات وبيانات المواقع عندما ينغلق { -brand-short-name }
+    .accesskey = ذ
 sitedata-allow-cookies-option =
     .label = اقبل الكعكات و بيانات المواقع
     .accesskey = ق
