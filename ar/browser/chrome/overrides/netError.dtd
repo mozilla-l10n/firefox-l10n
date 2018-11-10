@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "عُد للخلف">
 <!ENTITY returnToPreviousPage1.label "عُد للخلف (يُنصح به)">
 <!ENTITY advanced.label "متقدم">
-
 <!ENTITY continue2.label "أكثر…">
 <!ENTITY moreInformation.label "المزيد من المعلومات">
+
+<!ENTITY viewCertificate.label "اعرض الشهادة">
 
 <!-- Specific error messages -->
 
@@ -95,10 +96,11 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "لم يضبط مالك <span class='hostname'/> موقعه عل نحو سليم.  لحماية معلوماتك من السرقة، لم يتصل &brandShortName; بهذا الموقع.">
-
 <!ENTITY certerror.introPara2 "اكتشف &brandShortName; خطرًا أمنيًا محتملًا ولم يُتابع نحو <span class='hostname'/>. إن زرت هذا الموقع فقد يحاول المهاجمون سرقة المعلومات منك مثل كلمات السر أو البُرد الإلكترونية أو تفاصيل بطاقات الائتمان.">
 
 <!ENTITY certerror.expiredCert.secondPara "أغلب الظن أن سبب هذه المشكلة هو أن ساعة الحاسوب ليست صحيحة، ما يمنع &brandShortName; من الاتصال كما ينبغي.">
+
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "إليك ما تستطيع فعله حيال هذا">
 
@@ -126,7 +128,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "أضِف استثناءً…">
-
 <!ENTITY securityOverride.exceptionButton1Label "أقبلُ المخاطرة فتابِع">
 
 <!ENTITY errorReporting.automatic2 "أبلغ عن مثل هذه الأعطال لمساعدة موزيلا في التعرف على المواقع الخبيثة و حجبها">
@@ -164,3 +165,4 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "يبدو أن إعدادات أمان الشبكة قد تكون السبب وراء هذا. أتريد استعادة الإعدادات المبدئية؟">
 <!ENTITY prefReset.label "استرجع الإعدادات الأصلية">
+
