@@ -128,7 +128,7 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "TREC\&apos;HAOLER">
+<!ENTITY switch_button_message "MONT">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -898,11 +898,14 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY default_notification_channel2 "Merdeer">
 <!ENTITY mls_notification_channel "&vendorShortName; Servij lec\&apos;heladur">
 <!ENTITY download_notification_channel "Pellgargadennoù">
 <!ENTITY media_notification_channel "Lennadur media">
+<!ENTITY media_notification_channel2 "Son ha video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "Rebuzadurioù Push &brandShortName;">
+<!ENTITY leanplum_default_notifications_channel2 "Tunioù &vendorShortName;">
 <!ENTITY updater_notification_channel "Hizivadennoù an arload">
 <!ENTITY synced_tabs_notification_channel "Ivinelloù goubredet">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
