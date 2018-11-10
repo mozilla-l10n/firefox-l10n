@@ -237,6 +237,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = تلاش کے انجن کو خود بخود اپڈیٹ  کریں
     .accesskey = e
+update-pref-write-failure-title = لکھیں مے ناکام
 
 ## General Section - Performance
 
