@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Yakaj da'nga'
+onboarding-button-label-get-started = Gayi'í
 onboarding-welcome-header = Guruhuât gunumânt riña { -brand-short-name }
 onboarding-start-browsing-button-label = Gayi'i gache nunt
 
@@ -23,3 +24,5 @@ onboarding-screenshots-text = Gida'à, na'anïnj sa' nej ña du'ua si pantayâ n
 onboarding-addons-title = Sa ga'ue nutò'
 onboarding-addons-text = Nuta' doj sa huin ruat garasunt da' gi'iât { -brand-short-name }'ngò sa 'iaj sun hio doj. Ni'iaj daj du'ue ma, ni nagi'iaj daj anin ruat.
 onboarding-ghostery-title = Ghostery
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sync
