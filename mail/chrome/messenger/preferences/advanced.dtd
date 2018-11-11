@@ -42,13 +42,13 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetrie">
-<!ENTITY telemetryDesc.label             "Partajează date despre performanță, utilizare, hardware și datele de personalizare a clientului de e-mail cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
+<!ENTITY telemetryDesc.label             "Împărtășește date privind performanța, consumul, hardware-ul și personalizările browserului tău cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
 <!ENTITY enableTelemetry.label           "Activează telemetria">
 <!ENTITY enableTelemetry.accesskey       "t">
 <!ENTITY telemetryLearnMore.label        "Află mai multe">
 
 <!ENTITY crashReporterSection.label      "Raportor de defecțiuni">
-<!ENTITY crashReporterDesc.label         "&brandShortName; trimite rapoarte de defecțiuni pentru a ajuta &vendorShortName; să facă mai stabil și să securizeze clientul de e-mail">
+<!ENTITY crashReporterDesc.label         "&brandShortName; trimite rapoarte de probleme pentru a ajuta &vendorShortName; să facă clientul tău de e-mail mai stabil și sigur">
 <!ENTITY enableCrashReporter.label       "Activează raportorul de defecțiuni">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Află mai multe">

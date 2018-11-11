@@ -611,7 +611,7 @@
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Redirecționează intercalat">
-<!ENTITY buttonMenuForwardAsAttachment.label "Redirecționați ca atașament">
+<!ENTITY buttonMenuForwardAsAttachment.label "Redirecționează ca atașament">
 
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Afișează conținutul de la distanță în acest mesaj">
@@ -789,7 +789,7 @@
 <!ENTITY contextForwardAsInline.accesskey "i">
 <!ENTITY contextForwardAsAttachmentItem.label "Atașament">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "A">
-<!ENTITY contextMultiForwardAsAttachment.label "Redirecționați ca atașamente">
+<!ENTITY contextMultiForwardAsAttachment.label "Redirecționează ca atașamente">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Mută în">
 <!ENTITY contextMoveMsgMenu.accesskey "M">

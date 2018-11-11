@@ -45,7 +45,7 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
-         "Păstrează filtrele aplicate când schimbați dosarul">
+         "Păstrează filtrele aplicate când schimbi dosarul">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
@@ -273,4 +273,4 @@
      This line will have #1 replaced with what the user has typed so far.
      -->
 <!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent
-         "Apăsați „Enter” din nou pentru a continua căutarea după #1">
+         "Apasă „Enter” din nou pentru a continua căutarea după #1">
