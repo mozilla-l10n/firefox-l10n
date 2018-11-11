@@ -145,7 +145,7 @@
 <!ENTITY calendar.task-details.start.label           "data de începere">
 <!ENTITY calendar.task-details.due.label             "data de sfârșit">
 
-<!ENTITY calendar.task.category.button.tooltip  "Categorisiți sarcinile">
+<!ENTITY calendar.task.category.button.tooltip  "Categorisește sarcinile">
 <!ENTITY calendar.task.complete.button.tooltip  "Marchează sarcinile selectate ca îndeplinite">
 <!ENTITY calendar.task.priority.button.tooltip  "Schimbă prioritatea">
 
