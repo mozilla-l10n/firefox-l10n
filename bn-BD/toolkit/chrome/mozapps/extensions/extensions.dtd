@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "অ্যাড-অন ব্যবস্থাপক">
 
 <!ENTITY search.placeholder2                  "addons.mozilla.org এ অনুসন্ধান করুন">
+
 <!ENTITY search.buttonlabel                   "অনুসন্ধান">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +42,8 @@
 <!ENTITY view.discover.label                  "অ্যাড-অন নিন">
 <!ENTITY view.recentUpdates.label             "সাম্প্রতিক হালনাগাদ">
 <!ENTITY view.availableUpdates.label          "বিদ্যমান হালনাগাদ">
+
+<!ENTITY preferencesUnix.label                 "&brandShortName; পছন্দসমূহ">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "হালনাগাদের জন্য পরীক্ষা">
@@ -80,8 +83,6 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "পছন্দসমূহ">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "সম্পর্কিত A">
-<!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "সক্রিয় E">
 <!ENTITY cmd.enableAddon.accesskey            "E">
@@ -91,6 +92,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "থীম যোগ বন্ধ W">
 <!ENTITY cmd.disableTheme.accesskey           "W">
+
 <!ENTITY cmd.askToActivate.label              "সক্রিয় করতে বলুন">
 <!ENTITY cmd.askToActivate.tooltip            "প্রতিবার এই এড-অন ব্যবহার এর সময় জিজ্ঞাসা করুন">
 <!ENTITY cmd.alwaysActivate.label             "সবসময় সক্রিয়">
@@ -100,6 +102,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "যখন এই এড-অনটি চালু হয় তখন পরিবর্তন করুন">
 <!ENTITY cmd.installAddon.label               "ইনস্টল করুন I">
 <!ENTITY cmd.installAddon.accesskey           "I">
+
 <!ENTITY cmd.uninstallAddon.label             "অপসারন করুন R">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "অপশন">
@@ -128,7 +131,6 @@
 <!ENTITY detail.lastupdated.label             "সর্বশেষ হালনাগাদ">
 <!ENTITY detail.creator.label                 "ডেভেলপার">
 <!ENTITY detail.homepage.label                "নীড়পাতা">
-<!ENTITY detail.numberOfDownloads.label       "ডাউনলোড">
 
 <!ENTITY detail.contributions.description     "এ অ্যাড-অন ডেভেলপার বলে যে, আপনি আপনার যে কোনো ছোট অবদান দিয়েও এই অ্যাড-অনের উন্নয়নে সহায়তা করতে পারেন।">
 
@@ -161,14 +163,8 @@
 <!ENTITY progress.pause.tooltip               "বিরতি">
 <!ENTITY progress.cancel.tooltip              "বাতিল">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "নাম">
-<!ENTITY sort.name.tooltip                    "নামানুসারে সাজান">
-<!ENTITY sort.dateUpdated.label               "সর্বশেষ হালনাগাদকৃত">
-<!ENTITY sort.dateUpdated.tooltip             "তারিখের হালনাগাদ অনুযায়ী সাজান">
-
 <!ENTITY addon.homepage                       "নীড়পাতা">
+
 <!ENTITY addon.details.label                  "আরও">
 <!ENTITY addon.details.tooltip                "এই অ্যাড-অন সম্পর্কে আরও বিস্তারিত তথ্য প্রদর্শন">
 <!ENTITY addon.unknownDate                    "অজানা">
@@ -190,6 +186,7 @@
 <!ENTITY addon.undoRemove.label               "পূর্বাবস্থায় আনা">
 <!ENTITY addon.undoRemove.tooltip             "এই অ্যাড-অন ইনস্টলকৃত অবস্থায় রেখে দেয়া হবে">
 <!ENTITY addon.restartNow.label               "এখন পুনরায় শুরু করুন">
+
 <!ENTITY addon.install.label                  "ইনস্টল">
 <!ENTITY addon.install.tooltip                "এ অ্যাড-অন ইনস্টল">
 <!ENTITY addon.updateNow.label                "এখন হালনাগাদ">
@@ -209,17 +206,6 @@
 <!ENTITY eula.accept                          "অনুমোদন এবং ইনস্টল…">
 
 <!ENTITY settings.path.button.label           "ব্রাউজ…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "এটা কি? হয়তো টেলিমেট্রি ইন্সটল এবং পরীক্ষানিরীক্ষা চালাতে পারে।">
-<!ENTITY experiment.info.learnmore "আরও জানুন…">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "টেলেমেট্রি সেটিং">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "আরও জানুন…">
 
