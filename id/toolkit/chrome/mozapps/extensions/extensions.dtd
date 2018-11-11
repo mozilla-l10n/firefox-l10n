@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Pengelola Pengaya">
 
 <!ENTITY search.placeholder2                  "Cari di addons.mozilla.org">
+
 <!ENTITY search.buttonlabel                   "Cari">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -41,6 +42,8 @@
 <!ENTITY view.discover.label                  "Unduh Pengaya">
 <!ENTITY view.recentUpdates.label             "Versi Baru">
 <!ENTITY view.availableUpdates.label          "Versi Baru yang Tersedia">
+
+<!ENTITY preferencesUnix.label                 "&brandShortName; Preferensi">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Periksa Versi Baru">
@@ -89,6 +92,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "G">
 <!ENTITY cmd.disableTheme.label               "Berhenti Menggunakan Tema">
 <!ENTITY cmd.disableTheme.accesskey           "B">
+
 <!ENTITY cmd.askToActivate.label              "Tanyakan untuk Mengaktifkan">
 <!ENTITY cmd.askToActivate.tooltip            "Tanya setiap kali akan menggunakan pengaya ini">
 <!ENTITY cmd.alwaysActivate.label             "Selalu Aktif">
@@ -98,6 +102,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "Ubah saat pengaya ini dijalankan">
 <!ENTITY cmd.installAddon.label               "Pasang">
 <!ENTITY cmd.installAddon.accesskey           "P">
+
 <!ENTITY cmd.uninstallAddon.label             "Hapus">
 <!ENTITY cmd.uninstallAddon.accesskey         "H">
 <!ENTITY cmd.showPreferencesWin.label         "Pengaturan">
@@ -159,6 +164,7 @@
 <!ENTITY progress.cancel.tooltip              "Batalkan">
 
 <!ENTITY addon.homepage                       "Beranda">
+
 <!ENTITY addon.details.label                  "Lebih Lanjut">
 <!ENTITY addon.details.tooltip                "Tampilkan detail lainnya tentang pengaya ini">
 <!ENTITY addon.unknownDate                    "Tidak dikenali">
@@ -180,6 +186,7 @@
 <!ENTITY addon.undoRemove.label               "Urungkan">
 <!ENTITY addon.undoRemove.tooltip             "Biarkan pengaya ini tetap terpasang">
 <!ENTITY addon.restartNow.label               "Mulai ulang sekarang">
+
 <!ENTITY addon.install.label                  "Pasang">
 <!ENTITY addon.install.tooltip                "Pasang pengaya ini">
 <!ENTITY addon.updateNow.label                "Perbarui Sekarang">
