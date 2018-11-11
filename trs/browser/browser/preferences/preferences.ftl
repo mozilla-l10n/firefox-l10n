@@ -315,10 +315,11 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Nana'ui' nugua'an 'ngà gayi'i' gachun'
     .accesskey = x
+browsing-cfr-recommendations-learn-more = Gahuin chrūn doj
 
 ## General Section - Proxy
 
-network-proxy-title = Si proxy red
+network-settings-title = Dàj ga Red ruhuât
 network-proxy-connection-description = Nagi'io' { -brand-short-name } gate' riña internet.
 network-proxy-connection-learn-more = Gahuin chrūn doj
 network-proxy-connection-settings =
@@ -516,6 +517,7 @@ privacy-header = Daj da'ui navegador gi'iaj sunj
 ## Privacy Section - Forms
 
 forms-header = Nej da'nga' huìd &
+logins-header = Gayi'ìt gatut ni Da'nga' huìi
 forms-ask-to-save-logins =
     .label = Da'ui nachi' na'ān si na'ninj sa'aj sa gayi'i nī da'nga' huìi guenda nej sitio na
     .accesskey = r
@@ -557,9 +559,6 @@ history-dontremember-description = { -brand-short-name } garusunj ru'ua riña ga
 history-private-browsing-permanent =
     .label = Yitïnj chre garasun' sa aché nu hui'
     .accesskey = p
-history-remember-option =
-    .label = Tanunj ruhuo' riña gaché nu' 'ngà sa naduni'
-    .accesskey = b
 history-remember-browser-option =
     .label = Tanunj ruhuo' riña gaché nu' nī sa naduni'
     .accesskey = b
@@ -585,26 +584,12 @@ sitedata-total-size-calculating = Si riña ma daj yachij nej sa ma riña sitio n
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Si kookies, sa rajsun sitio nī kaché ma sa' ni raj sun ma { $value }{ $unit } riña na'ní sat.
 sitedata-learn-more = Gahuin chrūn doj
-sitedata-accept-cookies-option =
-    .label = Garayino' cookies nī sa rajsun sitio na (dânj da'ui gaj)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Garun' riña kookies nī sa rajsun sitio (ga'ue si gi'iaj sun da'aj sitio)
-    .accesskey = B
 sitedata-keep-until = Hue dan gaj
     .accesskey = u
 sitedata-keep-until-expire =
     .label = 'Ngà gire'j
 sitedata-keep-until-closed =
     .label = { -brand-short-name } 'ngà arán ma
-sitedata-accept-third-party-desc = Gido'o' nej kookie nī sa rajsun sitio
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = Nigànj chre
-sitedata-accept-third-party-visited-option =
-    .label = Riña gun'
-sitedata-accept-third-party-never-option =
-    .label = Nitaj ama
 sitedata-clear =
     .label = Nadurê' nuguan'an
     .accesskey = N
@@ -647,26 +632,12 @@ content-blocking-toggle-label-on = ON
 content-blocking-toggle-label-off = OFF
     .accesskey = O
 content-blocking-category-label = Nagui sa ruhuât garánt
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Ûta naj 'maj sun nej sa nana'ui'
-    .accesskey = S
-content-blocking-fastblock-description = Garun' riña nej sa huin ran na'nin
-content-blocking-fastblock-option-enabled =
-    .label = Yitïnj chre garun'
-content-blocking-fastblock-option-disabled =
-    .label = Nitaj ama garun'
-content-blocking-tracking-protection-label = Sa nana'ui'
-    .accesskey = T
-content-blocking-tracking-protection-description = Garun' riña daran' nej sa nana'ui (Ga'ue dugumit 'ngà na'nit da'aj pagina).
-content-blocking-tracking-protection-option-enabled =
-    .label = Yitinj chre garun'
-content-blocking-tracking-protection-option-pbm =
-    .label = Garun' riña ventana huìi
-content-blocking-tracking-protection-option-disabled =
-    .label = Nitaj ama garun'
-content-blocking-tracking-protection-change-blocklist = Naduno' nej sa gare'...
+content-blocking-tracking-protection-option-always =
+    .label = Nigànj chre
+    .accesskey = A
+content-blocking-tracking-protection-option-private =
+    .label = Mà roña Windows huìi
+    .accesskey = p
 
 ## Privacy Section - Tracking
 
@@ -682,10 +653,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nitaj ama
     .accesskey = t
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Garasun' arrán riña nej sa naga'naj daj garrun' riña nej sa nana'ui'
-    .accesskey = v
 tracking-exceptions =
     .label = Sa taj a
     .accesskey = x
@@ -729,6 +696,7 @@ autoplay-option-allow =
     .label = Duguchrá ma'an aga' nan
 autoplay-option-dont =
     .label = Si duguhrá ma'an ma
+permissions-autoplay-link = Gahuin chrūn doj
 permissions-block-popups =
     .label = Garrun riña nej ventana ahui ma'an
     .accesskey = B
@@ -807,3 +775,7 @@ certs-view =
 certs-devices =
     .label = Nej sa dugumi...
     .accesskey = N
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Na'nïnj sà' archîbo riña { $service-name }
