@@ -171,3 +171,4 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Сіздің желілік қауіпсіздік баптаулар осыны туғызатын сияқты. Бастапқы баптауларды қалпына келтіруді қалайсыз ба?">
 <!ENTITY prefReset.label "Бастапқы баптауларды қалпына келтіру">
 
+<!ENTITY networkProtocolError.title "Желілік хаттама қатесі">
