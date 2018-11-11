@@ -2,9 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-performance-title = કાર્ય વ્યવસ્થાપક
 
 ## Column headers
 
+column-name = નામ
+column-type = પ્રકાર
 
 ## Special values for the Name column
 
