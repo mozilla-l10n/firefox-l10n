@@ -165,3 +165,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> સુરક્ષા ટેકનોલોજીનો ઉપયોગ કરે છે જે જૂની અને હુમલો કરવા માટે સંવેદનશીલ છે. કોઈ હુમલાખોર સરળતાથી એવી માહિતી ઉઘાડી શકે છે જે તમે સુરક્ષિત હોવાનું માનતા હતા. વેબસાઇટ સંચાલકને તમારે સાઇટની મુલાકાત લઈને પહેલાં સર્વરને ઠીક કરવાની જરૂર પડશે.</p><p>ભૂલ કોડ: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY networkProtocolError.title "નેટવર્ક પ્રોટોકોલ ભૂલ">
+<!ENTITY networkProtocolError.longDesc "<p>તમે જે પૃષ્ઠને જોવાનો પ્રયાસ કરી રહ્યા છો તે બતાવી શકાતું નથી કારણ કે નેટવર્ક પ્રોટોકોલમાં ભૂલ આવી હતી.</p><ul><li>કૃપા કરીને આ સમસ્યાની જાણ કરવા માટે વેબસાઇટ માલિકોનો સંપર્ક કરો.</li></ul>">
