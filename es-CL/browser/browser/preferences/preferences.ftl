@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Advertir cuando se cierren múltiples pestañas
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Advertir al salir y cerrar múltiples pestañas
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Advertir cuando la apertura de múltiples pestañas pueda poner lento { -brand-short-name }
     .accesskey = d
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Actualizar motores de búsqueda automáticamente
     .accesskey = e
+update-pref-write-failure-title = Error de escritura
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = No se pudo guardar la preferencia. No se pudo escribir al archivo: { $path }
 
 ## General Section - Performance
 
