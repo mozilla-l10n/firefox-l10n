@@ -17,7 +17,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; este disponibil sub termenii ">
 <!ENTITY rights.intro-point1b "Licenței Publice Mozilla">
-<!ENTITY rights.intro-point1c ". Acest lucru înseamnă că puteți folosi, copia și distribui &brandShortName; altora. Sunteți, de asemenea, binevenit să modificați codul sursă al &brandShortName;, cum doriți, pentru a răspunde nevoilor dumneavoastră. Licența publică Mozilla vă oferă și dreptul de a vă distribui versiunile modificate.">
+<!ENTITY rights.intro-point1c ". Acest lucru înseamnă că poți folosi, copia și distribui &brandShortName; altora. Ești, de asemenea, binevenit să modifici codul sursă al &brandShortName;, cum dorești, pentru a răspunde nevoilor tale. Licența publică Mozilla îți oferă și dreptul de a distribui versiunile modificate de tine.">
 
 <!ENTITY rights.intro-point2a "Mozilla nu vă oferă drepturi asupra logourilor și mărcilor comerciale Mozilla și Thunderbird. Informații adiționale privind mărcile comerciale pot fi găsite ">
 <!ENTITY rights.intro-point2b "aici">
@@ -48,7 +48,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; oferă servicii opționale („Servicii”), cum este serviciul de actualizare al suplimentelor, care vă sunt disponibile pentru utilizare împreună cu această versiune binară de &brandShortName; precum este descris mai jos. Dacă nu doriți să folosiți serviciile sau termenii de mai jos vă sunt inacceptabili, puteți dezactiva serviciul de actualizare al extensiilor deschizând preferințele aplicației și selectând secțiunea ">
+<!ENTITY rights.webservices-a "&brandFullName; oferă servicii opționale („Servicii”), cum este serviciul de actualizare al suplimentelor, care îți sunt disponibile pentru utilizare împreună cu această versiune binară de &brandShortName; precum este descris mai jos. Dacă nu dorești să folosești serviciile sau termenii de mai jos îți sunt inacceptabili, poți dezactiva serviciul de actualizare al extensiilor deschizând preferințele aplicației și selectând secțiunea ">
 <!ENTITY rights.webservices-b "Avansat">
 <!ENTITY rights.webservices-c ", urmată de fila">
 <!ENTITY rights.webservices-d "Actualizare">
