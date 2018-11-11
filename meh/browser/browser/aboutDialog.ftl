@@ -23,8 +23,8 @@ channel-description = Nii-inu nasun<label data-l10n-name="current-channel"></lab
 warningDesc-version = { -brand-short-name } ya´a vii iin a jiia jee kuvi nkotiñu.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> iin <label data-l10n-name="community-exp-creditsLink">ñuu ñu´un</label> ké´io saa koo kaa nántu´un ne jika, nuu kuaiyo daa no´o.
 community-2 = { -brand-short-name } nsá´á <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, iin <label data-l10n-name="community-creditsLink">ñuu ñu´un</label> ké´io saa koo kaa nántu´un ne jika, nuu kuaiyo daa no´o.
-bottomLinks-license = Tutu nákani saa kuatiñunu-u ya´a
-bottomLinks-rights = Nichi saa no´o kuvi kuatiñunu-u ya´a
-bottomLinks-privacy = Tu´un xitu a nejika kumi-o
+bottomLinks-license = Tutu nákani saa kuatiñunu ya´a
+bottomLinks-rights = Nichi saa noo´o kuvi kuantiñunu ya´a
+bottomLinks-privacy = Tu´un xitu a nejika kumio
 aboutDialog-architecture-sixtyFourBit = 64-bit
 aboutDialog-architecture-thirtyTwoBit = 32-bit
