@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Pengelola Pengaya
+search-header =
+    .placeholder = Cari addons.mozilla.org
+    .searchbuttonlabel = Cari
 search-header-shortcut =
     .key = f
 loading-label =
