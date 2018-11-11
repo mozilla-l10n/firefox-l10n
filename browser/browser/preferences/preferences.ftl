@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Avertizează la închiderea filelor multiple
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Avertizează la ieșirea și închiderea mai multor file
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Te avertizează atunci când deschiderea mai multor file ar putea încetini { -brand-short-name }
     .accesskey = d
@@ -172,9 +175,9 @@ browser-containers-settings =
 containers-disable-alert-title = Închizi toate filele container?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Dacă dezactivezi containerele de file, { $tabCount } container de file se va închide. Sigur vrei să dezactivezi containerele de file?
-        [few] Dacă dezactivezi containerele de file, { $tabCount } containere de file se vor închide. Sigur vrei să dezactivezi containerele de file?
-       *[other] Dacă dezactivezi containerele de file, { $tabCount } de containere de file se vor închide. Sigur vrei să dezactivezi containerele de file?
+        [one] Dacă dezactivezi filele container acum, { $tabCount } filă container se va închide. Sigur vrei să dezactivezi filele container?
+        [few] Dacă dezactivezi filele container acum, { $tabCount } file container se va închide. Sigur vrei să dezactivezi filele container?
+       *[other] Dacă dezactivezi filele container acum, { $tabCount } de file container se va închide. Sigur vrei să dezactivezi filele container?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
@@ -609,7 +612,7 @@ sitedata-keep-until-expire =
 sitedata-keep-until-closed =
     .label = { -brand-short-name } este închis
 sitedata-delete-on-close =
-    .label = Șterge cookie-urile și datele site-ului când { -brand-short-name } este închis
+    .label = Șterge cookie-urile și datele site-urilor când { -brand-short-name } este închis
     .accesskey = c
 sitedata-allow-cookies-option =
     .label = Acceptă cookie-uri și datele site-urilor

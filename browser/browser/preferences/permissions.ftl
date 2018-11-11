@@ -78,7 +78,7 @@ permissions-exceptions-popup-desc = Poți specifica ce site-uri web au permisiun
 permissions-exceptions-saved-logins-window =
     .title = Excepții - Autentificări salvate
     .style = { permissions-window.style }
-permissions-exceptions-saved-logins-desc = Autentificările pentru următoarele site-uri web nu vor fi salvate
+permissions-exceptions-saved-logins-desc = Nu vor fi salvate autentificările pentru următoarele site-uri web
 
 ## Exceptions - Add-ons
 
