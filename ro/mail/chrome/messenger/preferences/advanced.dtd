@@ -36,7 +36,7 @@
 <!ENTITY configEditDesc.label          "Configurare avansată">
 <!ENTITY configEdit.label              "Editor de configurație…">
 <!ENTITY configEdit.accesskey          "g">
-<!ENTITY returnReceiptsInfo.label      "Configurați cum gestionează &brandShortName; confirmările de primire">
+<!ENTITY returnReceiptsInfo.label      "Configurează cum gestionează &brandShortName; confirmările de primire">
 <!ENTITY showReturnReceipts.label      "Confirmări de primire…">
 <!ENTITY showReturnReceipts.accesskey  "r">
 
@@ -71,8 +71,6 @@
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Caută actualizări, dar lasă-mă pe mine să decid dacă să le instalez">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Nu căuta niciodată actualizări (nerecomandat: risc de securitate)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Afișează istoricul actualizărilor">
 <!ENTITY updateHistory.accesskey         "p">
 

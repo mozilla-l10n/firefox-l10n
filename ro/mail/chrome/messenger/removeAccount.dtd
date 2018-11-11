@@ -12,7 +12,7 @@
 <!ENTITY removeData.accesskey         "m">
 <!ENTITY removeDataChat.label         "Șterge datele despre conversații">
 <!ENTITY removeDataChat.accesskey     "c">
-<!ENTITY removeDataLocalAccount.desc  "Toate mesajele, dosarele și filtrele asociate acestui cont vor fi șterse de pe discul local. Acest lucru nu afectează anumite mesaje care pot fi păstrate în continuare pe server. Nu alegeți această opțiune dacă aveți de gând să arhivați datele locale sau să le refolosiți în &brandShortName; mai târziu.">
+<!ENTITY removeDataLocalAccount.desc  "Toate mesajele, dosarele și filtrele asociate acestui cont vor fi șterse de pe discul local. Acest lucru nu afectează anumite mesaje care pot fi păstrate în continuare pe server. Nu alege această opțiune dacă ai de gând să arhivezi datele locale sau să le refolosești în &brandShortName; mai târziu.">
 <!ENTITY removeDataServerAccount.desc "Toate mesajele, dosarele și filtrele asociate acestui cont vor fi șterse de pe discul local. Mesajele și dosarele vor fi în continuare păstrate pe server.">
 <!ENTITY removeDataChatAccount.desc   "Toate jurnalele de conversații stocate pentru acest cont de pe discul local vor fi șterse.">
 <!ENTITY showData.label               "Arată locația datelor">

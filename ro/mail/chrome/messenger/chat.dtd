@@ -7,7 +7,7 @@
 <!ENTITY conversationsHeader.label     "Conversații">
 <!ENTITY searchResultConversation.label "Rezultat căutare">
 <!ENTITY chat.noConv.title             "Conversația va fi afișată aici.">
-<!ENTITY chat.noConv.description       "Folosiți lista de prieteni din panoul din stânga pentru a începe o conversație.">
+<!ENTITY chat.noConv.description       "Folosește lista de prieteni din panoul din stânga pentru a începe o conversație.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; nu are în prezent vreo conversație anterioară stocată pentru acest contact.">
 <!ENTITY chat.noAccount.title             "Încă nu ai configurat un cont de chat.">
 <!ENTITY chat.noAccount.description       "Permite lui &brandShortName; să te ghideze prin procesul de configurare al contului de chat.">

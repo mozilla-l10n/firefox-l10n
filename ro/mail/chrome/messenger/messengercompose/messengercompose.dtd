@@ -245,7 +245,7 @@
 <!ENTITY sendButton.tooltip "Trimite acum acest mesaj">
 <!ENTITY sendlaterButton.tooltip "Trimite acest mesaj mai târziu">
 <!ENTITY quoteButton.tooltip "Citează din mesajul anterior">
-<!ENTITY addressButton.tooltip "Selectați destinatarul din agenda de contacte">
+<!ENTITY addressButton.tooltip "Selectează destinatarul din agenda de contacte">
 <!ENTITY attachButton.tooltip2 "Adaugă un atașament">
 <!ENTITY spellingButton.tooltip "Verifică ortografia pentru zona selectată sau pentru întregul mesaj">
 <!ENTITY saveButton.tooltip "Salvează acest mesaj">

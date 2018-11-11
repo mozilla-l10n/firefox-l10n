@@ -12,7 +12,7 @@
 <!ENTITY newsgroups.label "Grupuri de discuții">
 <!ENTITY feeds.label "Fluxuri">
 
-<!ENTITY unsetDefault.tooltip "Nu este posibil să deselectați &brandShortName; ca clientul implicit în cadrul opțiunilor din &brandShortName;. Pentru a face un program ca și client implicit trebuie să folosiți dialogul său „Setați ca implicit”.">
+<!ENTITY unsetDefault.tooltip "Nu este posibil să deselectezi &brandShortName; ca clientul implicit în cadrul opțiunilor din &brandShortName;. Pentru a face un program ca și client implicit trebuie să folosești dialogul său „Setează ca implicit”.">
 
 <!ENTITY checkOnStartup.label "Verifică întotdeauna la pornirea &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "a">
