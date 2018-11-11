@@ -7,7 +7,7 @@
 <!ENTITY doNotDownloadImap.label "Pentru a câștiga spațiu pe disc, descărcarea mesajelor de pe server și păstrarea copiilor locale pentru utilizare offline poate fi restricționată după vechime sau mărime.">
 <!ENTITY allFoldersOffline2.label "Stochează local mesajele din toate dosarele acestui cont">
 <!ENTITY allFoldersOffline2.accesskey "o">
-<!ENTITY allFoldersOfflineNote.label "Notă: Această opțiune se aplică tuturor dosarelor din acest cont. Pentru a stoca mesaje doar din anumite dosare, utilizați butonul Avansat… asociat.">
+<!ENTITY allFoldersOfflineNote.label "Notă: Această opțiune se aplică tuturor dosarelor din acest cont. Pentru a stoca mesaje doar din anumite dosare, utilizează butonul Avansat… asociat.">
 <!ENTITY offlineNotDownload.label "Mesaje mai mari de">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Nu descărca mesaje mai mari de">
