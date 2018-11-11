@@ -14,7 +14,7 @@
 <!ENTITY menu_securityStatus.accesskey "o">
 
 <!ENTITY securityButton.label "Securitate">
-<!ENTITY securityButton.tooltip "Vedeți sau schimbați setările de securitate">
+<!ENTITY securityButton.tooltip "Vezi sau schimbă setările de securitate">
 
 <!ENTITY menu_viewSecurityStatus.label "Informații privind securitatea mesajului">
 <!ENTITY menu_viewSecurityStatus.accesskey "I">
