@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = გაფრთხილება რამდენიმე ჩანართის ერთბაშად დახურვისას
     .accesskey = ე
+warn-on-quit-close-multiple-tabs =
+    .label = გაფრთხილება რამდენიმე ჩანართის ერთბაშად დახურვისას
+    .accesskey = ფ
 warn-on-open-many-tabs =
     .label = გაფრთხილება, როცა ბევრი ჩანართის გახსნამ შესაძლოა შეანელოს { -brand-short-name }
     .accesskey = ე
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = საძიებო სისტემების თვითგანახლება
     .accesskey = ს
+update-pref-write-failure-title = ჩაწერის ხარვეზი
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = პარამეტრების შენახვა შეუძლებელია. ვერ ხერხდება ჩაწერა ფაილში: { $path }
 
 ## General Section - Performance
 
@@ -605,6 +612,9 @@ sitedata-keep-until-expire =
     .label = ვადა გაუვა
 sitedata-keep-until-closed =
     .label = { -brand-short-name } დაიხურება
+sitedata-delete-on-close =
+    .label = ფუნთუშებისა და საიტის მონაცემების წაშლა { -brand-short-name }-ის დახურვისას
+    .accesskey = ხ
 sitedata-allow-cookies-option =
     .label = ფუნთუშებისა და საიტის მონაცემები მიღება
     .accesskey = ღ
@@ -850,3 +860,7 @@ certs-view =
 certs-devices =
     .label = უსაფრთხოების მოწყობილობები…
     .accesskey = მ
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = ფაილების შენახვა { $service-name }-ის საცავში
