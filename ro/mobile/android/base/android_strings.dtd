@@ -294,6 +294,7 @@
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference
      Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "Activează">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -906,3 +907,4 @@ Picture-in-picture mini window -->
 <!ENTITY synced_tabs_notification_channel "File sincronizate">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "Notificări site">
