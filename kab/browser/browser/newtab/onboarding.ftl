@@ -27,3 +27,4 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Inig s wudem arurad, uḥric, neɣ aɣelsan s isiɣzaf am Ghostery, ara k-yeǧǧen ad tesweḥleḍ adellel ur nemɛin ara.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
+onboarding-fxa-text = Rnu { -fxaccount-brand-name[lowercase] } sakin mtawi ticraḍ-ik n yisebtar, awalen-ik uffiren akked yiccaren yeldin deg yal amdiq anida i tesseqdaceḍ { -brand-short-name }.

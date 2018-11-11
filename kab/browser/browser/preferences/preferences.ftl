@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Lɣu ticki medlen deqs n yiccaren
     .accesskey = L
+warn-on-quit-close-multiple-tabs =
+    .label = Lqu-yi-d ticki ɛerḍeɣ ad fakeɣ neɣ ad medleɣ ddeqs n yiccaren.
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Lɣu-yid ticki ilukkez { -brand-short-name } ma ldin aṭas n yiccaren
     .accesskey = L
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Lqem awurman n umsedday n unadi
     .accesskey = Ẓ
+update-pref-write-failure-title = Tuccḍa deg tira
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = UR yezmir ara ad yessekles ismenyifen.Ur yezmir ad yaru de ufaylu: { $path }
 
 ## General Section - Performance
 
@@ -327,6 +334,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Nadi aḍris ticki tebda tira
     .accesskey = N
+browsing-cfr-recommendations =
+    .label = Welleh isizaf ticki tettiniged
+    .accesskey = W
 browsing-cfr-recommendations-learn-more = Issin ugar
 
 ## General Section - Proxy
