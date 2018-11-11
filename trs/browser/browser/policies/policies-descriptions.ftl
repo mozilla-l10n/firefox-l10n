@@ -34,3 +34,4 @@ policy-DisableMasterPasswordCreation = Si yangà' ni, si ga'ue girit 'ngo dan'ga
 policy-DisablePocket = Duyichin' sun guendâ na'nínj sà't nej pâjina riña Pocket.
 policy-DisablePrivateBrowsing = Duyichin' si sun nabegadôr huìi.
 policy-DisableProfileImport = Duyichin' si sun komandô nikaj menû guendâ duguachinj nuguan' riña a'ngô nabegadôr.
+policy-DisableProfileRefresh = Duyichin' si sun sa Nagi'iaj nakà { -brand-short-name } riña pajinâ about:support.
