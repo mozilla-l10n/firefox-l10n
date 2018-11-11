@@ -292,6 +292,9 @@ update-enable-search-update =
     .label = Nagi'aj nakà ma'ān ma nej sa nana'ui'
     .accesskey = e
 update-pref-write-failure-title = Gire' sa âchrun
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Na'ue na'nïnj sà'aj sa ni'hiajt doj. Nu ga'ue gachrunj riña archibô: { $path }
 
 ## General Section - Performance
 
@@ -331,6 +334,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Nana'ui' nugua'an 'ngà gayi'i' gachun'
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Duguane' 'ngo ekstensiûn hìaj aché nunt
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = Gahuin chrūn doj
 
 ## General Section - Proxy
@@ -606,6 +612,25 @@ sitedata-keep-until-expire =
     .label = 'Ngà gire'j
 sitedata-keep-until-closed =
     .label = { -brand-short-name } 'ngà arán ma
+sitedata-delete-on-close =
+    .label = Nadure' nej koki ni nej si nuguàn sitiô nga gahuit riña { -brand-short-name }
+    .accesskey = c
+sitedata-allow-cookies-option =
+    .label = Garayina koki ni nej si nuguàn' sîtio
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Narán riña nej koki ni si nuguàn' nej sîtio
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Sa naràn riña
+    .accesskey = T
+sitedata-block-trackers-option-recommended =
+    .label = Sa naga'naj guìi (garasun man)
+sitedata-block-trackers-option =
+    .label = Sa naga'naj guìi
+sitedata-block-unvisited-option =
+    .label = Si koki nej sitiô nu gatut ni'iajt
 sitedata-clear =
     .label = Nadurê' nuguan'an
     .accesskey = N
