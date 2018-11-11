@@ -167,9 +167,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Creează un contact nou în agendă">
 <!ENTITY newlistButton.tooltip                          "Creează o nouă listă">
 <!ENTITY editPropertiesButton.tooltip                   "Editează elementul selectat">
-<!ENTITY editAbPropertiesButton.tooltip                 "Editați proprietățile agendei de contacte selectată">
-<!ENTITY editContactPropertiesButton.tooltip            "Editați contactul selectat">
-<!ENTITY editMailingListPropertiesButton.tooltip        "Editați lista de mail selectată">
+<!ENTITY editAbPropertiesButton.tooltip                 "Editează proprietățile agendei de contacte selectată">
+<!ENTITY editContactPropertiesButton.tooltip            "Editează contactul selectat">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Editează lista de mail selectată">
 <!ENTITY newmsgButton.tooltip                           "Trimite un mesaj e-mail">
 <!ENTITY newIM.tooltip                                  "Trimite un mesaj instantaneu sau conversează prin chat">
 <!ENTITY deleteButton2.tooltip                          "Șterge elementul selectat">
