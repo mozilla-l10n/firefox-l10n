@@ -21,7 +21,7 @@
 <!ENTITY whitelistHeader.accesskey "d">
 
 <!ENTITY ispHeadersWarning.label "Dacă este activată, &brandShortName; va considera automat mesajele marcate de clasificarea externă ca și spam.">
-<!ENTITY ispHeaders.label "Aveți încredere în marcările de nesolicitare făcute de: ">
+<!ENTITY ispHeaders.label "Ai încredere în marcările de nesolicitare făcute de: ">
 <!ENTITY ispHeaders.accesskey "t">
 
 <!ENTITY junkClassification.label "Selecție">
