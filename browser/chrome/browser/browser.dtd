@@ -134,6 +134,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
+
 <!ENTITY goOfflineCmd.label "ઓફલાઈન કામ કરો">
 <!ENTITY goOfflineCmd.accesskey "k">
 
@@ -985,8 +986,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.detected "આ સાઇટ પર અવરોધનીય સામગ્રી મળી.">
 <!ENTITY contentBlocking.notDetected "આ પૃષ્ઠ પર કોઈ અવરોધનીય સામગ્રી મળી નથી.">
 <!ENTITY contentBlocking.disabled.label "નિષ્ક્રિય">
-<!ENTITY contentBlocking.disabled.tooltip "તમે સામગ્રી અવરોધને અક્ષમ કર્યું છે.">
-<!ENTITY contentBlocking.exception.tooltip "તમે આ સાઇટ માટે સામગ્રી અવરોધને અક્ષમ કર્યું છે.">
+<!ENTITY contentBlocking.disabled.tooltip "તમે સામગ્રી અવરોધને નિષ્ક્રીય કર્યું છે.">
+<!ENTITY contentBlocking.exception.tooltip "તમે આ સાઇટ માટે સામગ્રી અવરોધને નિષ્ક્રીય કર્યું છે.">
 
 <!ENTITY contentBlocking.fastBlock.label "ધીમો-લોડિંગ ટ્રેકર">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
@@ -995,6 +996,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.fastBlock.blocked.label "અવરોધિત">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
+     "Firefox is blocking Slow-Loading Trackers"-->
+<!ENTITY contentBlocking.fastBlock.blocking.label "અવરોધ કરવું">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1009,6 +1015,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "અવરોધિત">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Trackers"-->
+<!ENTITY contentBlocking.trackingProtection.blocking.label "અવરોધ કરવું">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1016,12 +1027,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection.add.label "અવરોધ ઉમેરો…">
 
 <!ENTITY contentBlocking.3rdPartyCookies.label "તૃતીય પક્ષ કૂકીઝ">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "કૂકીઝ ટ્રેક કરવું">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
 <!ENTITY contentBlocking.3rdPartyCookies.blocked.label "અવરોધિત">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Third-Party Cookies"-->
+<!ENTITY contentBlocking.3rdPartyCookies.blocking.label "અવરોધ કરવું">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1043,15 +1060,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock4.label "આ સાઇટ માટે અવરોધ અક્ષમ કરો">
+<!ENTITY trackingProtection.unblock4.label "આ સાઇટ માટે અવરોધ નિષ્ક્રીય કરો">
 <!ENTITY trackingProtection.unblock4.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate4.label "થોડા સમય માટે અવરોધ અક્ષમ કરો">
+<!ENTITY trackingProtection.unblockPrivate4.label "થોડા સમય માટે અવરોધ નિષ્ક્રીય કરો">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "D">
-<!ENTITY trackingProtection.block5.label "આ સાઇટ માટે અવરોધ સક્ષમ કરો">
+<!ENTITY trackingProtection.block5.label "આ સાઇટ માટે અવરોધ સક્રીય કરો">
 <!ENTITY trackingProtection.block5.accesskey "E">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "આ સાઇટ માટે અવરોધિત કરવાનું બંધ કરો">
+<!ENTITY trackingProtection.unblock5.accesskey "T">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "અસ્થાયી રૂપે અવરોધિત કરવાનું બંધ કરો">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.label "આ સાઇટ માટે અવરોધિત કરવાનું શરુ કરો">
+<!ENTITY trackingProtection.block6.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "પૃષ્ઠ ફરીથી લોડ કરો">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 

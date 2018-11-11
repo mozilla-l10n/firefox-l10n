@@ -21,6 +21,11 @@ list-empty-button =
 install-addon-from-file =
     .label = ફાઇલમાંથી ઍડ-ઓનને સ્થાપિત કરો…
     .accesskey = I
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } વિકલ્પો
+       *[other] { -brand-short-name } પસંદગીઓ
+    }
 tools-menu =
     .tooltiptext = બધા ઍડ-ઓન માટે સાધનો
 show-unsigned-extensions-button =
