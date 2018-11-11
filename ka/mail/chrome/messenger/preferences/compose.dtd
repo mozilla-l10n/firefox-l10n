@@ -20,6 +20,10 @@
 <!ENTITY font.accesskey                       "შ">
 <!ENTITY size.label                           "ზომა:">
 <!ENTITY size.accesskey                       "ზ">
+<!ENTITY fontSize.label                       "ზომა:">
+<!ENTITY fontSize.accesskey                   "ზ">
+<!ENTITY useReaderDefaults.label              "წამკითხველის ნაგულისხმევი ფერების გამოყენება">
+<!ENTITY useReaderDefaults.accesskey          "წ">
 <!ENTITY fontColor.label                      "ტექსტის ფერი:">
 <!ENTITY fontColor.accesskey                  "ტ">
 <!ENTITY bgColor.label                        "ფონის ფერი:">
