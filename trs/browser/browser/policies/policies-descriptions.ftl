@@ -52,3 +52,9 @@ policy-EnableTrackingProtection = Nachrun asi duyichîn't Sa narán riña sa mà
 # English or translate them as verbs. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
 policy-Extensions = Ga'nïnj, si ga'nïnt asi garánt riña nej sa nata'a. Riña taj Ga'nïnj arâj sun man URLs . Riña taj Nadure' asi Narán da'a man'an man si IDs man.
+policy-FlashPlugin = Ga'nïn asi si ga'nïnjt gi'iaj sun sa nata' riña Flash.
+policy-HardwareAcceleration = Si sê sa yangà'a huin, duyichin' sa nagi'iaj hìo hardware.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Nachrun asi narrán akuan' riña pajinâ gayi'ìt.
+policy-InstallAddonsPermission = Ga'nïn riña da'aj pâjina gà'nïn sa nata'a.
+policy-NoDefaultBookmarks = Duyichin' si sun sa ri markadôr daj rû' riña { -brand-short-name }, ni nej markadôr chruun (Nej sa ni'iaj nìkot doj). Nuguan' huaa: sisi asîj gachin girit perfîl sinïin ni ga'ue garasunt nan.
