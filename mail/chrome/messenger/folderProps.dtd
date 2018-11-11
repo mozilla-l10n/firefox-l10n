@@ -55,7 +55,7 @@
 <!ENTITY folderSharingTab.label                  "Partajare">
 <!ENTITY privileges.button.label                 "Privilegii…">
 <!ENTITY privileges.button.accesskey             "P">
-<!ENTITY permissionsDesc.label                   "Aveți următoarele drepturi:">
+<!ENTITY permissionsDesc.label                   "Ai următoarele drepturi:">
 <!ENTITY folderType.label                        "Tip dosar:">
 
 <!ENTITY folderQuotaTab.label                    "Cotă">

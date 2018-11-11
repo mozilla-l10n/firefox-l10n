@@ -18,6 +18,6 @@
 <!ENTITY workOffline.accesskey "e">
 <!ENTITY selectButton.label "Selectează…">
 <!ENTITY selectButton.accesskey "e">
-<!ENTITY MsgSelectDesc.label "Alegeți dosarele de e-mail și grupurile de discuții pentru utilizare offline.">
+<!ENTITY MsgSelectDesc.label "Alegi dosarele de e-mail și grupurile de discuții pentru utilizare offline.">
 <!ENTITY MsgSelectInd.label "Descarcă">
 <!ENTITY MsgSelectItems.label "Dosare și grupuri de discuții">

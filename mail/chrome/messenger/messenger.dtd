@@ -350,7 +350,7 @@
 <!ENTITY replyMsgCmd.key "R">
 <!ENTITY replySenderCmd.label "Răspunde doar expeditorului">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd2.label "Răspundeți la grupul de discuții">
+<!ENTITY replyNewsgroupCmd2.label "Răspunzi la grupul de discuții">
 <!ENTITY replyNewsgroupCmd2.accesskey "g">
 <!ENTITY replyToAllMsgCmd.label "Răspunde tuturor">
 <!ENTITY replyToAllMsgCmd.accesskey "p">
@@ -448,7 +448,7 @@
 <!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Atașamente">
 <!ENTITY openAttachmentListCmd.accesskey "t">
-<!ENTITY openFeedMessage1.label "Când deschideți mesajele fluxului">
+<!ENTITY openFeedMessage1.label "Când deschizi mesajele fluxului">
 <!ENTITY openFeedMessage1.accesskey "h">
 <!ENTITY openFeedWebPage.label "Deschide ca pagină web">
 <!ENTITY openFeedWebPage.accesskey "w">
@@ -775,7 +775,7 @@
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Răspunde doar expeditorului">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup2.label "Răspundeți la grupul de discuții">
+<!ENTITY contextReplyNewsgroup2.label "Răspunzi la grupul de discuții">
 <!ENTITY contextReplyNewsgroup2.accesskey "g">
 <!ENTITY contextReplyAll.label "Răspunde tuturor">
 <!ENTITY contextReplyAll.accesskey "s">

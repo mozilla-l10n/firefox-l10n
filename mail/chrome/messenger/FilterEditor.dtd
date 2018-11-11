@@ -32,7 +32,7 @@
 <!ENTITY filterActionDesc.accesskey "E">
 
 <!ENTITY filterActionOrderWarning.label "Notă: Acțiunile filtrului vor fi executate într-o ordine diferită.">
-<!ENTITY filterActionOrder.label "Vedeți ordinea de execuție">
+<!ENTITY filterActionOrder.label "Vezi ordinea de execuție">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Mută mesajul în">
