@@ -67,3 +67,9 @@ policy-Proxy = Naduna dàj nagi'iát riña proxy.
 policy-RequestedLocales = Nachrun dukuànj nej lokâl gachîn aplikasiûn nan dàj huin ruhuât.
 policy-SanitizeOnShutdown = Nadure' daran' chre nuguan' hua ngà gaché nunt ngà gisîj dunà'ajt.
 policy-SearchBar = Nachrun sa ruhuât ga yitïnj riña dukuán na'na'uî' sa nana'uî'. Hua nïn hua diû guendâ nagi'iát.
+policy-SearchEngines = Nagi'iaj dàj hua riña sa rugûñu'unj nana'uî'. Màn riña Extended Support Release (ESR) ga'ue naduno' sa ruhuô' nan.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Ga'nïnj nej modulô PKCS #11.
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Narán nej sitiô nga gisij gatujt riñanj. Ganatsij doj ni'iajt dàj hua rayi'î sun nan.

@@ -6,6 +6,8 @@ do-not-track-description = Ga'nin' 'ngo nuguan'an riña nej sitio “Si naga'naj
 do-not-track-learn-more = Gahuin chrūn doj
 do-not-track-option-default =
     .label = ma 'ngà rajsun' sa duyichin' da' si naga'naj ma
+do-not-track-option-default-content-blocking =
+    .label = Màn nga { -brand-short-name } hua guendâ naran riña nej sa naga'naj nari'ij
 do-not-track-option-always =
     .label = Nigànj chre
 pref-page =
@@ -51,6 +53,7 @@ pane-sync-title = Nej si kuendâ Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Sa nikaj ñu'ūnj { -brand-short-name }
+addons-button-label = Ekstensiûn ni Têma
 focus-search =
     .key = f
 close-button =
@@ -81,6 +84,9 @@ extension-controlled-homepage-override = 'Ngo extensión, <img data-l10n-name="i
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = 'Ngo extension, <img data-l10n-name="icon"/> { $name }, dugumi guenda girit a'ngò rakïj ñanj.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = 'Ngo ekstensiûn, <img data-l10n-name="icon"/> { $name }, nikaj ñu'unj sa nahuin nan.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = 'Ngo extensión, <img data-l10n-name="icon"/> { $name }, huin sa nana'ui' sa huin ruhuat.
@@ -90,6 +96,9 @@ extension-controlled-privacy-containers = 'Ngo extensión, <img data-l10n-name="
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = 'Ngo extensión, <img data-l10n-name="icon"/> { $name }, gatuj ma'an 'jaj sa gu'naj rastreo.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = 'Ngo ekstensiûn, <img data-l10n-name="icon"/> { $name }, nikaj ñu'unj sa nahuin nan.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = 'Ngo extensión, <img data-l10n-name="icon"/> { $name }, dugumin { -brand-short-name } se daj gatut riña internet.
@@ -143,6 +152,9 @@ open-new-link-as-tabs =
     .accesskey = w
 warn-on-close-multiple-tabs =
     .label = Gataj ma guní 'ngà narán ga'ì rakïj ñanj
+    .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Gataj na'an nga gahuit asi naránt riña ga'ì rakïj ñanj
     .accesskey = m
 warn-on-open-many-tabs =
     .label = Gataj guní 'ngà nayi'nin ga'ì rakïj ñanj{ -brand-short-name } { -brand-short-name } dadin' ga'ue gi'iaj sun nananj ma
@@ -203,6 +215,9 @@ choose-button =
     .label = Naguī.
     .accesskey = N
 choose-browser-language-description = Ganahui ahuin nanj garasun't 'ngà { -brand-short-name }
+manage-browser-languages-button =
+    .label = Nachrun a'ngo nej sa ga'ue gi'iô'
+    .accesskey = I
 confirm-browser-language-change-description = Duno'o' ni nachrun ñun' { -brand-short-name } da' naduna ma
 confirm-browser-language-change-button = Garayinat, ni dunâ'ajt ni nayi'ī ñut
 translate-web-pages =
@@ -276,6 +291,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = Nagi'aj nakà ma'ān ma nej sa nana'ui'
     .accesskey = e
+update-pref-write-failure-title = Gire' sa âchrun
 
 ## General Section - Performance
 
