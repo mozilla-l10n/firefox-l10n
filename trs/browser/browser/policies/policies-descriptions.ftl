@@ -45,3 +45,10 @@ policy-DisplayBookmarksToolbar = Nadiganj dukuàn ma si rasuun nej sa arâj sun 
 policy-DisplayMenuBar = Nadiganj man'an dukuán 'na' menû.
 policy-DNSOverHTTPS = Nagi'iaj DNS riña HTTPS.
 policy-DontCheckDefaultBrowser = Duyichin' sa natsij nabegadôr hua niña riña gayi'ìj.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Nachrun asi duyichîn't Sa narán riña sa mà riña Web.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+policy-Extensions = Ga'nïnj, si ga'nïnt asi garánt riña nej sa nata'a. Riña taj Ga'nïnj arâj sun man URLs . Riña taj Nadure' asi Narán da'a man'an man si IDs man.
