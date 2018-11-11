@@ -6,7 +6,7 @@
 <!ENTITY window.width                     "40em">
 
 <!ENTITY safeModeDescription.label        "&brandShortName; rulează acum în modul sigur, ceea ce înseamnă că sunt dezactivate temporar setările personalizate, temele și extensiile tale.">
-<!ENTITY safeModeDescription2.label       "Puteți face permanente una sau mai multe din aceste schimbări:">
+<!ENTITY safeModeDescription2.label       "Poți face permanente una sau mai multe din aceste schimbări:">
 
 <!ENTITY disableAddons.label              "Dezactivează toate extensiile">
 <!ENTITY disableAddons.accesskey          "D">

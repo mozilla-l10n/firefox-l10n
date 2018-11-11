@@ -4,7 +4,7 @@
 
 <!ENTITY systemIntegration.title  "Integrare cu sistemul">
 <!ENTITY acceptIntegration.label  "Setează ca implicit">
-<!ENTITY cancelIntegration.label  "Omiteți integrarea">
+<!ENTITY cancelIntegration.label  "Omite integrarea">
 <!ENTITY cancelIntegration2.label  "Renunțare">
 <!ENTITY defaultClient.intro  "Folosește &brandShortName; ca și client implicit pentru:">
 
