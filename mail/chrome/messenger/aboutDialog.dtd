@@ -37,7 +37,7 @@
 <!ENTITY community.creditsLink      "comunitate globală">
 <!ENTITY community.end3             " care lucrează împreună pentru a păstra webul deschis, public și accesibil tuturor.">
 
-<!ENTITY helpus.start               "Vrei să ajuți? ">
+<!ENTITY helpus.start               "Dorești să ajuți? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Fă o donație">
 <!ENTITY helpus.middle              " sau ">
