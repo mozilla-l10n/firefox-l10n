@@ -24,3 +24,5 @@ onboarding-addons-title = ઍડ-ઑન્સ
 onboarding-addons-text = { -brand-short-name } તમારી માટે વધું સારી રીતે કામ કરે તેનાં માટે હજું વધારે લક્ષણો ઉમેરો. વિવિધ થીમનો ઉપયોગ કરીને કિંમતો સરખાવો, હવામાન તપાસો અથવા તમારું વ્યક્તિત્વ દર્શાવો.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Ghostery જેવાં વિસ્તરણ સાથે ઝડપી, વધું બુધ્ધિપૂર્વકનું, અથવા સલામતીભર્યુ બ્રાઉઝ કરો, જે તમને અણગમતી જાહેરાતોને અવરોધવાં દેશે.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = સમન્વય

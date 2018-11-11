@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "પાછા જાવ">
 <!ENTITY returnToPreviousPage1.label "પાછા જાઓ (ભલામણ કરેલ)">
 <!ENTITY advanced.label "અદ્યતન">
-
 <!ENTITY continue2.label "વધુ…">
 <!ENTITY moreInformation.label "વધુ મહિતી">
+
+<!ENTITY viewCertificate.label "પ્રમાણપત્ર જુઓ">
 
 <!-- Specific error messages -->
 
@@ -98,10 +99,11 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> ના માલિકે તેમની વેબસાઇટ અયોગ્ય રીતે ગોઠવેલી છે.   તમારી માહિતીને ચોરાઇ જવાથી સુરક્ષિત કરવા માટે, &brandShortName; આ વેબસાઇટથી જોડાણ કરેલ નથી.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; એ સંભવિત સુરક્ષા ધમકી શોધી જેથી <span class='hostname'/>મુલાકાત લેવાનું બંધ કર્યું. જો તમે આ સાઇટની મુલાકાત લો છો, તો હુમલાખોરો તમારા પાસવર્ડ્સ, ઇમેઇલ્સ અથવા ક્રેડિટ કાર્ડ વિગતો જેવી માહિતી ચોરી કરવાનો પ્રયાસ કરી શકે છે.">
 
 <!ENTITY certerror.expiredCert.secondPara "આ સમસ્યા તમારાં કમ્પ્યુટરની ઘડિયાળ ખોટા સમય પર રાખેલી છે એટલે થઇ રહી છે, જે &brandShortName; ને સુરક્ષિત રીતે જોડતાં રોકી રહી છે.">
+
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "તમે તેના વિશે શું કરી શકો?">
 
@@ -124,7 +126,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "અપવાદ એડ-ઓન">
-
 <!ENTITY securityOverride.exceptionButton1Label "જોખમ સ્વીકારો અને ચાલુ રાખો">
 
 <!ENTITY errorReporting.automatic2 "Mozilla ને દૂષિત સાઇટ્સ ઓળખવા અને બ્લૉક કરવા માટે આની જેવી ભૂલોની જાણ કરો">
@@ -162,3 +163,4 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "એવું લાગી રહ્યું છે કે તમારાં નેટવર્કની સુરક્ષા વ્યવસ્થા ને કારણે આમ થઇ રહ્યુ છે. શું આપ મૂળભૂત વ્યવસ્થા પાછી લાવવાં ઈચ્છો છો?">
 <!ENTITY prefReset.label "મૂળભુત સેટિંગ પાછા લાવો">
+
