@@ -58,7 +58,7 @@
 <!ENTITY idColumn.label "Ordine de primire">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser2.tooltip "Selectați coloanele de afișat">
+<!ENTITY columnChooser2.tooltip "Selectează coloanele de afișat">
 <!ENTITY threadColumn2.tooltip "Afișează firele de conversație">
 <!ENTITY fromColumn2.tooltip "Sortează după expeditor">
 <!ENTITY recipientColumn2.tooltip "Sortează după destinatar">
