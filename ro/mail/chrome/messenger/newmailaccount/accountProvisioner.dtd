@@ -22,7 +22,7 @@
 <!ENTITY success.title.before "Salut ">
 <!ENTITY success.title.after ", sunt disponibile următoarele adrese de e-mail:">
 <!ENTITY success.tip "(Puteți căuta și pseudonime sau orice alt termen pentru a găsi mai multe e-mailuri)">
-<!ENTITY partnership.description "În parteneriat cu diverși furnizori, &brandShortName; îți poate oferi un cont nou de e-mail. Pentru început, completează prenumele și numele de familie sau orice alte cuvinte dorești în câmpurile de mai sus.">
+<!ENTITY partnership.description "În parteneriat cu diverși furnizori, &brandShortName; poate să îți ofere un cont nou de e-mail. Completează numele și prenumele sau orice alte cuvinte dorești în câmpul de mai sus pentru a începe.">
 <!ENTITY existing.header "Aveți deja o adresă pe care doriți să o folosiți?">
 <!ENTITY tinyheader.title "Aveți o adresă?">
 <!ENTITY tinyheader.existing "Sări peste și folosește adresa mea de e-mail">
@@ -32,12 +32,12 @@
 <!ENTITY successful.write "Scrieți câteva mesaje">
 <!ENTITY successful.write.desc "Dați-le prietenilor și familiei noua adresă.<br/> Doar de aceea v-ați făcut un cont nou, nu?">
 <!ENTITY successful.customize "Personalizați &brandShortName; cu suplimente interesante">
-<!ENTITY successful.customize.desc "Sunt mii de suplimente care permit personalizarea &brandShortName; pentru adecvarea la nevoile dvs. specifice.">
+<!ENTITY successful.customize.desc "Sunt mii de suplimente ce îți permit să personalizezi &brandShortName; pentru a-l face mai potrivit pentru nevoi specifice.">
 <!ENTITY successful.attach "Adaugă o semnătură personală mesajelor mele">
 <!ENTITY successful.attach.desc "Puteți adăuga automat un citat sau câteva informații despre dumneavoastră la sfârșitul fiecărui mesaj trimis.">
 <!ENTITY successful.close "Închideți fereastra.">
 <!ENTITY input.namePlaceholder "Numele sau pseudonimul dumneavoastră">
 <!ENTITY input.search "Căutare">
-<!ENTITY search_engine.title "Personalizați motorul de căutare">
-<!ENTITY search_engine.message "Furnizorul de e-mail poate oferi și capabilități de căutare pe web.">
+<!ENTITY search_engine.title "Personalizează-ți motorul de căutare">
+<!ENTITY search_engine.message "Furnizorul tău de e-mail poate oferi și căutare pe web.">
 <!ENTITY search_engine.button "Termină">

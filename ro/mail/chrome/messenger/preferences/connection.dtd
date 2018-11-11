@@ -42,7 +42,7 @@
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "Nu solicita autentificarea dacă parola este salvată">
 <!ENTITY  autologinproxy.accesskey      "i">
-<!ENTITY  autologinproxy.tooltip        "Această opțiune vă autentifică automat la proxy-urile pentru care aveți salvate date de autentificare. Vi se va cere o parolă dacă autentificarea eșuează.">
+<!ENTITY  autologinproxy.tooltip        "Această opțiune te autentifică automat la proxy-urile pentru care ai salvate date de autentificare. Ți se va cere o parolă dacă autentificarea eșuează.">
 <!ENTITY  socksRemoteDNS.label          "Proxează DNS când se folosește SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Activează DNS prin HTTPS">
