@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "Inka">
 
 <!ENTITY firstrun_tabqueue_title "Links">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Activar cola de pestaña">
-<!ENTITY firstrun_tabqueue_subtext_off "Chuva´a enlaces íchu nuu jii &brandShortName; saa ke´inu daa inka-ka daa aplicaciones.">
-
-<!ENTITY firstrun_tabqueue_message_on "Nkuneí!">
-<!ENTITY firstrun_tabqueue_subtext_on "Ntaka íchi kuvi chiyu´u ya´a nuu &settings; jie´e &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Artículo">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,6 +63,12 @@
 <!ENTITY  crash_restart_label "Nakajie´e &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Nánuku a xíín chu´un iin nuun">
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
 
 <!ENTITY bookmark "Daa a ta´a inininu">
 <!ENTITY bookmark_remove "Náxitá a ta´a ini noo´o ya´a">
@@ -206,7 +206,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Na tee tuku pestañas, a kumi datos, ka̱a̱ sá´á sofware">
 <!ENTITY pref_category_notifications "Notificaciones">
-<!ENTITY pref_category_notifications_summary "A jíía, a jíía nuu web">
 <!ENTITY pref_category_notifications_summary2 "A jíía, a jíía ka̱a̱ ya´a">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración jíká USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración jíká Wi-Fi">
@@ -290,6 +289,10 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Kutu´va-ka naja ni´inu &brandShortName; jii daa inka &vendorShortName; ka̱a̱">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Características experimentales">
@@ -362,7 +365,6 @@
 <!ENTITY pref_use_system_font_size_summary "Sa´a ka´nu tu´un web kua vaji nuu tu´un ka̱a̱">
 
 <!ENTITY pref_media_autoplay_enabled "Kuvi kajie´e ntu´un">
-<!ENTITY pref_media_autoplay_enabled_summary "Kumi dee kuvi daa sitios web kajie´e ntu´un daa videos a xiin daa inka-ka contenidos a xiin multimedia.">
 <!ENTITY pref_zoom_force_enabled "Ntaka íchi saa habilitar enfoque">
 <!ENTITY pref_zoom_force_enabled_summary "Tetuvi sobrescritura saa kuvi sama na̱saa ka´nu koo iin página">
 <!ENTITY pref_voice_input "Nuu kivɨ nasun yu´u">
@@ -438,6 +440,10 @@
 <!ENTITY datareporting_crashreporter_title_short "Agente daa fallos">
 <!ENTITY datareporting_wifi_title2 "Servicio nani´í &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "¡Chinei &vendorShortName; saa mapear ñuu ñu̱´u̱n! Kua´a nuu íñɨ Wi.Fi jii móvil ka̱a̱ noo´o saa kuvi sá´á va´adáni servicio nani´í.">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -820,9 +826,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "Ntu nkuvi sine &brandShortName;. Nachu\&apos;un tuku jee nakajie´e.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; nsa actualizar-ka">
-<!ENTITY eol_notification_summary "Kɨ´ɨ saa kuvi nɨ´ɨnu kue´e-ka kuninu">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; iyo actualizado">
@@ -879,3 +882,12 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 <!ENTITY pwa_add_to_launcher_badge2 "Chisó nuu kajie´e">
 <!ENTITY pwa_continue_to_website "Kaka nuu web">
 <!ENTITY pwa_onboarding_sumo "Kuvi tee noo´o nuu web ya´a nuu kajie´e saa kuv,i kivinu ñama jee nanukunu ñama.">
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+
+<!-- Notification channels names -->
+<!ENTITY download_notification_channel "Daa nxinú">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
