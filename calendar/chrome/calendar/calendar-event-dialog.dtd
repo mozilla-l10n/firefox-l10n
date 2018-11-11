@@ -388,11 +388,11 @@
 <!ENTITY event.attendee.usertype.individual     "Individual">
 <!ENTITY event.attendee.usertype.group          "Grup">
 <!ENTITY event.attendee.usertype.resource       "Resursă">
-<!ENTITY event.attendee.usertype.room           "Sală">
+<!ENTITY event.attendee.usertype.room           "Cameră">
 <!ENTITY event.attendee.usertype.unknown        "Necunoscut">
 
 <!-- Timezone dialog -->
-<!ENTITY timezone.title.label            "Te rugăm să specifici fusul orar">
+<!ENTITY timezone.title.label            "Vă rugăm să specificați fusul orar">
 <!ENTITY event.timezone.custom.label     "Mai multe fusuri orare…">
 
 <!-- Read-Only dialog -->
