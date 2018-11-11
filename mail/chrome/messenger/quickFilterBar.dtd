@@ -89,7 +89,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.tooltip
-         "Arată doar mesaje de la persoanele din agenda de contacte">
+         "Arată doar mesajele de la persoane din agenda ta de contacte">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
@@ -204,7 +204,7 @@
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
-<!ENTITY quickFilterBar.booleanModeAll.tooltip "Toate criteriile din eticheta selectată trebuie să se potrivească">
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Trebuie să corespundă toate criteriile de etichete selectate">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
