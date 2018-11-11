@@ -1078,7 +1078,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Sens asewḥel kra n wakud kan">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "Ḥ">
 <!ENTITY trackingProtection.block6.label "Rmed asewḥel n ugbur i yesmal-agi">
+<!ENTITY trackingProtection.block6.accesskey "Ḥ">
 <!ENTITY trackingProtection.reload2.label "Smiren asebter">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
