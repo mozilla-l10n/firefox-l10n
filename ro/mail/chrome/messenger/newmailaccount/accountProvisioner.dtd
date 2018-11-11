@@ -30,13 +30,13 @@
 <!ENTITY successful.title "Felicitări!">
 <!ENTITY successful.successMessage "V-ați setat cu succes contul.">
 <!ENTITY successful.write "Scrieți câteva mesaje">
-<!ENTITY successful.write.desc "Dați-le prietenilor și familiei noua adresă.<br/> Doar de aceea v-ați făcut un cont nou, nu?">
+<!ENTITY successful.write.desc "Spune-le prietenilor și familiei despre noua ta adresă.<br/> Doar de aceea ți-ai făcut un cont nou, nu?">
 <!ENTITY successful.customize "Personalizează &brandShortName; cu niște suplimente interesante">
 <!ENTITY successful.customize.desc "Sunt mii de suplimente ce îți permit să personalizezi &brandShortName; pentru a-l face mai potrivit pentru nevoi specifice.">
 <!ENTITY successful.attach "Adaugă o semnătură personală mesajelor mele">
 <!ENTITY successful.attach.desc "Poți adăuga automat un citat sau informații despre tine la sfârșitul fiecărui mesaj pe care-l trimiți.">
 <!ENTITY successful.close "Închideți fereastra.">
-<!ENTITY input.namePlaceholder "Numele sau pseudonimul dumneavoastră">
+<!ENTITY input.namePlaceholder "Numele sau pseudonimul tău">
 <!ENTITY input.search "Căutare">
 <!ENTITY search_engine.title "Personalizează-ți motorul de căutare">
 <!ENTITY search_engine.message "Furnizorul tău de e-mail poate oferi și căutare pe web.">

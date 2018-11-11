@@ -25,7 +25,7 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Trimite notificări de tastare în conversații">
 <!ENTITY  sendTyping.accesskey          "t">
 
-<!ENTITY  chatNotifications.label             "Când sosesc mesajele care v-a fost trimise:">
+<!ENTITY  chatNotifications.label             "Când mesajele direcționate spre tine ajung:">
 <!ENTITY  desktopChatNotifications.label      "Arată o notificare:">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
 <!ENTITY  completeNotification.label          "cu numele expeditorului și previzualizarea mesajului">

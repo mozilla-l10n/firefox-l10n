@@ -6,7 +6,7 @@
 <!ENTITY sendMail.title               "Formatare text">
 <!ENTITY autoDowngrade.label          "Trimite mesaje ca text simplu când este posibil">
 <!ENTITY autoDowngrade.accesskey      "t">
-<!ENTITY sendMaildesc.label           "Când trimiteți mesaje în format HTML și unul sau mai mulți destinatari nu sunt marcați ca fiind capabili să accepte HTML:">
+<!ENTITY sendMaildesc.label           "Când trimiți mesaje în format HTML și unul sau mai mulți destinatari nu sunt marcați ca fiind capabili să accepte HTML:">
 <!ENTITY askMe.label                  "Întreabă-mă ce să fac">
 <!ENTITY askMe.accesskey              "n">
 <!ENTITY convertPlain.label           "Convertește mesajul la text simplu">
@@ -17,7 +17,7 @@
 <!ENTITY sendBoth.accesskey           "e">
 <!ENTITY override.label               "Sfat: Folosește agenda de contacte pentru a specifica formatul preferat de destinatari.">
 
-<!ENTITY domaindesc.label             "Când trimiteți un mesaj la o adresă cu unul din numele domeniului afișat mai jos, &brandShortName; va trimite automat mesajul în formatul corect.">
+<!ENTITY domaindesc.label             "Când trimiți un mesaj la o adresă cu unul din numele domeniului afișat mai jos, &brandShortName; va trimite automat mesajul în formatul corect.">
 <!ENTITY HTMLTab.label                "Domenii cu HTML">
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Domenii cu text simplu">
