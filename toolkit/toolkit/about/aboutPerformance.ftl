@@ -7,6 +7,7 @@
 
 column-name = Nama
 column-type = Tipe
+column-energy-impact = Dampak Energi
 
 ## Special values for the Name column
 
