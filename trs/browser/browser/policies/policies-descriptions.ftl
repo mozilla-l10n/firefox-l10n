@@ -14,3 +14,5 @@ policy-AppUpdateURL = Gachrun URL gi'iaj nahuin nakà aplikasiûn ruhuât.
 policy-Authentication = Nagi'iaj hue'ê autentikasiûn ngà 'na'a riña ne sitiô ga'ue gunùkuaj nej man.
 policy-BlockAboutAddons = Narán riña sa dugumîn nej sa ga'ue nutò' doj (about:addons).
 policy-BlockAboutConfig = Narán riña ga'ue gatu' riña pajinâ about:config.
+policy-BlockAboutProfiles = Narán guenda gatut riña pajinâ about:profiles
+policy-BlockAboutSupport = Narán guendâ gatut riña pajinâ about:support
