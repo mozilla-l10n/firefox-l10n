@@ -29,8 +29,6 @@
 <!ENTITY aboutTelemetry.optionGroupOlder "
 უფრო ძველი
 ">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  მარგი დატვირთვა">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -50,6 +48,8 @@
 <!ENTITY aboutTelemetry.telemetryDashboard "
 <a>ტელემეტრიის გვერდი</a>, Mozilla-ს მიერ აღრიცხული მონაცემების ვიზუალურად წარმოდგენის საშუალებას იძლევა.
 ">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>კვლევის ლექსიკონში</a> მოცემულია დაწვრილებითი ინფორმაცია და აღწერილობა ტელემეტრიით ჩატარებული კვლევების.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 JSON მნახველში გახსნა
@@ -77,13 +77,7 @@ JSON მნახველში გახსნა
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   მარტივი განსაზღვრებები
 ">
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  ტელემეტრიის ჟურნალი
-">
 <!ENTITY aboutTelemetry.slowSqlSection "ნელი SQL-ს ბრძანებები">
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  ბრაუზერის გაშეშებები
-">
 <!ENTITY aboutTelemetry.addonDetailsSection "
   დამატების მონაცემები
 ">
