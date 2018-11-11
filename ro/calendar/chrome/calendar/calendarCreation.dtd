@@ -4,9 +4,9 @@
 
 <!ENTITY wizard.title             "Creare calendar nou" >
 <!ENTITY wizard.label             "Creează un calendar nou" >
-<!ENTITY wizard.description       "Localizați calendarul" >
+<!ENTITY wizard.description       "Localizează-ți calendarul" >
 
-<!ENTITY initialpage.description    "Calendarul poate fi stocat pe calculatorul dumneavoastră sau pe un server pentru a-l accesa de la distanță sau pentru a-l împărtăși cu prietenii sau colegii." >
+<!ENTITY initialpage.description    "Calendarul poate fi stocat pe calculatorul tău sau pe un server pentru a-l accesa de la distanță sau pentru a-l împărtăși cu prietenii sau colegii." >
 <!ENTITY initialpage.computer.label  "Pe calculatorul meu">
 <!ENTITY initialpage.network.label  "În rețea">
 
@@ -16,7 +16,7 @@
 <!ENTITY locationpage.password.label      "Parolă:" >
 
 <!ENTITY custompage.shortdescription  "Personalizează calendarul" >
-<!ENTITY custompage.longdescription   "Puteți da un pseudonim calendarului și să colorați evenimentele din el." >
+<!ENTITY custompage.longdescription   "Poți da un pseudonim calendarului și să colorezi evenimentele din el." >
 
 <!ENTITY finishpage.shortdescription  "Calendar creat" >
 <!ENTITY finishpage.longdescription   "Calendarul tău a fost creat." >
