@@ -153,4 +153,4 @@
 <!ENTITY PhotoURL.placeholder           "Inserează sau tastează adresa web a pozei">
 <!ENTITY UpdatePhoto.label              "Actualizează">
 <!ENTITY UpdatePhoto.accesskey          "z">
-<!ENTITY PhotoDropTarget.label          "Trageți noua fotografie aici">
+<!ENTITY PhotoDropTarget.label          "Trage noua fotografie aici">
