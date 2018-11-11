@@ -1028,6 +1028,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection.add.label "Бұғаттауды қосу…">
 
 <!ENTITY contentBlocking.3rdPartyCookies.label "Үшінші жақты cookies файлдары">
+<!ENTITY contentBlocking.3rdPartyCookies.trackers.label "Бақылайтын cookies файлдары">
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking third-party cookies, so this is
@@ -1069,6 +1070,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "д">
 <!ENTITY trackingProtection.block5.label "Бұл сайт үшін бұғаттауды іске қосу">
 <!ENTITY trackingProtection.block5.accesskey "е">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Бұл сайт үшін бұғаттауды сөндіру">
+<!ENTITY trackingProtection.unblock5.accesskey "д">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Бұғаттауды уақытша сөндіру">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "д">
+<!ENTITY trackingProtection.block6.label "Бұл сайт үшін бұғаттауды іске қосу">
+<!ENTITY trackingProtection.block6.accesskey "д">
 <!ENTITY trackingProtection.reload2.label "Бетті қайта жүктеу">
 <!ENTITY trackingProtection.reload2.accesskey "й">
 
