@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Предупреждать при закрытии нескольких вкладок
     .accesskey = д
+warn-on-quit-close-multiple-tabs =
+    .label = Предупреждать при выходе и закрытии нескольких вкладок
+    .accesskey = ж
 warn-on-open-many-tabs =
     .label = Предупреждать, когда открытие нескольких вкладок может замедлить { -brand-short-name }
     .accesskey = р
@@ -291,6 +294,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Автоматически обновлять поисковые системы
     .accesskey = л
+update-pref-write-failure-title = Ошибка записи
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Не удалось сохранить настройку. Не удалось произвести запись в файл: { $path }
 
 ## General Section - Performance
 
