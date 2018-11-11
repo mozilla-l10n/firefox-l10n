@@ -41,3 +41,5 @@
 <!ENTITY allowHWAccel.accesskey                 "ლ">
 <!ENTITY blockAutoRefresh.label                 "გაფრთხილება საიტის მიერ გადამისამართების ან გვერდის განახლების მცდელობისას">
 <!ENTITY blockAutoRefresh.accesskey             "ფ">
+
+<!ENTITY showZoomStatusPanel.label              "ზომის სამართავის ჩვენება მდგომარეობის ზოლში">

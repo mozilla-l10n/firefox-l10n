@@ -84,3 +84,6 @@
 <!ENTITY viewCertificate.accesskey   "ს">
 <!ENTITY viewCertManager.label       "სერტიფიკატების მმართველი">
 <!ENTITY viewCertManager.accesskey   "მ">
+
+<!ENTITY zoomIn.tooltiptext          "უფრო დიდი">
+<!ENTITY zoomOut.tooltiptext         "ურფო პატარა">
