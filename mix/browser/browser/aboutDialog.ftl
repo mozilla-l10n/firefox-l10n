@@ -11,6 +11,7 @@ update-checkForUpdatesButton =
 update-updateButton =
     .label = Ndakitsa tava na ntutsai{ -brand-shorter-name }
     .accesskey = R
+update-checkingForUpdates = Nduki tu'un tsaá
 update-downloading = <img data-l10n-name="icon"/>Snuì ña tsaá—<label data-l10n-name="download-status"/>
 update-failed = Mani kuu ntu tsai<label data-l10n-name="failed-link">Snuù version saa ntii</label>
 update-failed-main = Mani kuu ntu tsai<a data-l10n-name="failed-link-main">Snuù version saa ntii</a>
