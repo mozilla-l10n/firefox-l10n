@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Configurează un cont de e-mail existent">
+<!ENTITY autoconfigWizard2.title         "Utilizează un cont de mail existent">
 <!ENTITY name.label                      "Numele tău:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.placeholder                "Prenume Nume">
@@ -20,7 +20,7 @@
 <!ENTITY rememberPassword.accesskey      "M">
 
 <!ENTITY imapLong.label                  "IMAP (dosare la distanță)">
-<!ENTITY pop3Long.label                  "POP3 (păstrează mesajele pe calculator)">
+<!ENTITY pop3Long.label                  "POP3 (stochează mesajele pe calculatorul propriu)">
 
 <!ENTITY incoming.label                  "Primire:">
 <!ENTITY outgoing.label                  "Trimitere:">
