@@ -13,20 +13,20 @@
 <!ENTITY connectionFailure.title "Nu se poate conecta">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Adresa este restricționată">
+<!ENTITY deniedPortAccess.title "Această adresă este restricționată">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server negăsit">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>Verifică adresa de erori de tastare cum ar fi <strong>ww</strong>.exemplu.ro în loc de <strong>www</strong>.exemplu.ro</li> <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea la rețea a calculatorului.</li> <li>Dacă calculatorul sau rețeaua este protejat(ă) de un firewall sau proxy, asigură-te că &brandShortName; are permisiunea de a accesa webul.</li> </ul>">
 
-<!ENTITY fileNotFound.title "Fișierul nu a fost găsit">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Verificați ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verificați ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
+<!ENTITY fileNotFound.title "Fișier negăsit">
+<!ENTITY fileNotFound.longDesc "<ul> <li>Verifică ca numele fișierului să nu aibă erori de majuscule/minuscule sau alte erori de tastare.</li> <li>Verifică ca fișierul să nu fi fost mutat, redenumit sau șters.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Accesul la fișier a fost refuzat">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Este posibil să fi fost eliminat, mutat sau permisiunile fișierului pot împiedica accesul.</li> </ul>">
 
 <!ENTITY generic.title "Auu.">
-<!ENTITY generic.longDesc "<p>&brandShortName; nu poate încărca pagina din motive necunoscute.</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName; nu poate încărca pagina dintr-un motiv oarecare.</p>">
 
 <!ENTITY malformedURI.title "Adresa nu este validă">
 <!ENTITY malformedURI.longDesc "<ul> <li>Adresele web se scriu de obicei așa: <strong>http://www.exemplu.ro/</strong></li> <li>Asigură-te că folosești slash-uri orientate spre dreapta (de ex., <strong>/</strong>).</li> </ul>">
