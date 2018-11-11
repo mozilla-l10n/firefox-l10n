@@ -100,4 +100,5 @@
 
 <!ENTITY blockedByPolicy.title "გვერდი შეზღუდულია">
 
+<!ENTITY networkProtocolError.title "ქსელის ოქმის შეცდომა">
 <!ENTITY networkProtocolError.longDesc "<p>გვერდი რომლის მონახულებასაც ცდილობთ ვერ გამოჩნდება, ვინაიდან ქსელის ოქმში აღმოჩენილია შეცდომა.</p><ul><li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.</li></ul>">

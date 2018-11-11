@@ -1070,6 +1070,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "გ">
 <!ENTITY trackingProtection.block5.label "შეზღუდვის ჩართვა ამ საიტისთვის">
 <!ENTITY trackingProtection.block5.accesskey "ჩ">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "შეზღუდვის გამორთვა ამ საიტისთვის">
+<!ENTITY trackingProtection.unblock5.accesskey "ო">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "შეზღუდვის დროებით გამორთვა">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "ო">
+<!ENTITY trackingProtection.block6.label "შეზღუდვის ჩართვა ამ საიტისთვის">
+<!ENTITY trackingProtection.block6.accesskey "თ">
 <!ENTITY trackingProtection.reload2.label "გვერდის ხელახლა გახსნა">
 <!ENTITY trackingProtection.reload2.accesskey "ხ">
 
