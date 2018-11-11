@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Bine ați venit la &brandShortName;">
+<!ENTITY window.title "Bine ai venit la &brandShortName;">
 <!ENTITY header2.label "Doriți o adresă de e-mail nouă?">
 <!ENTITY other.languages "Afișăm doar furnizorii care oferă adrese în zona ta. Clic aici pentru a afișa toți furnizorii.">
 <!ENTITY error.line1 "Ne pare rău, nu am putut găsi nicio sugestie de adresă de e-mail.">
@@ -28,7 +28,7 @@
 <!ENTITY tinyheader.existing "Sări peste și folosește adresa mea de e-mail">
 <!ENTITY content.close "Cred că îmi voi configura contul mai târziu.">
 <!ENTITY successful.title "Felicitări!">
-<!ENTITY successful.successMessage "V-ați setat cu succes contul.">
+<!ENTITY successful.successMessage "Ți-ai setat cu succes contul.">
 <!ENTITY successful.write "Scrie câteva mesaje">
 <!ENTITY successful.write.desc "Spune-le prietenilor și familiei despre noua ta adresă.<br/> Doar de aceea ți-ai făcut un cont nou, nu?">
 <!ENTITY successful.customize "Personalizează &brandShortName; cu niște suplimente interesante">
