@@ -334,8 +334,8 @@
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 minute" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 minute" >
 <!ENTITY calendar.alarm.snooze.15minutes.label      "15 minute" >
-<!ENTITY calendar.alarm.snooze.30minutes.label      "30 minute" >
-<!ENTITY calendar.alarm.snooze.45minutes.label      "45 minute" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 de minute" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 de minute" >
 <!ENTITY calendar.alarm.snooze.1hour.label          "1 oră" >
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 ore" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 zi" >

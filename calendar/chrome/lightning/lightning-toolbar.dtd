@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY lightning.toolbar.calendar.name "Bară de instrumente pentru calendar">
+<!ENTITY lightning.toolbar.calendar.name "Bară de unelte pentru calendar">
 <!ENTITY lightning.toolbar.calendar.name.accesskey "C">
-<!ENTITY lightning.toolbar.task.name "Bară de instrumente pentru sarcini">
+<!ENTITY lightning.toolbar.task.name "Bara de unelte pentru sarcini">
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sincronizare">
