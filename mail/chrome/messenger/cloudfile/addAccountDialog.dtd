@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY addAccountDialog.title   "Configurare Filelink">
-<!ENTITY addAccountDialog.menuTitle "Selectați un serviciu de stocare online">
+<!ENTITY addAccountDialog.menuTitle "Selectează un serviciu de stocare online">
 <!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
 <!ENTITY addAccountDialog.accountName.label "Nume cont:">
 <!ENTITY addAccountDialog.noAccountText "Ne pare rău, însă versiunea actuală a &brandShortName; permite numai un cont de la fiecare serviciu de stocare online.">
@@ -10,4 +10,4 @@
 <!ENTITY addAccountDialog.authorizing "Se verifică autorizația...">
 <!ENTITY addAccountDialog.error "A apărut o eroare la configurarea contului!">
 <!ENTITY addAccountDialog.acceptButton.label "Configurare cont">
-<!ENTITY addAccountDialog.learnMore "Aflați mai multe…">
+<!ENTITY addAccountDialog.learnMore "Află mai multe…">

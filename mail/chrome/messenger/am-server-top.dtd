@@ -70,7 +70,7 @@
 <!ENTITY alwaysAuthenticate.label "Solicită întotdeauna autentificare la conectarea la acest server">
 <!ENTITY alwaysAuthenticate.accesskey "a">
 <!ENTITY newsrcFilePath.label "Fișier newsrc:">
-<!ENTITY newsrcPicker.label "Selectați fișierul newsrc">
+<!ENTITY newsrcPicker.label "Selectează fișierul newsrc">
 <!ENTITY abbreviate.label "Arată numele grupurilor de discuții în panoul cu dosare ca:">
 <!ENTITY abbreviateOn.label "Nume complete (ex: „netscape.public.mozilla.mail-news”)">
 <!ENTITY abbreviateOff.label "Nume abreviate (ex: „n.p.m.mail-news”)">
@@ -78,7 +78,7 @@
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Codarea implicită pentru text:">
 <!ENTITY localPath.label "Director local:">
-<!ENTITY localFolderPicker.label "Selectați directorul local">
+<!ENTITY localFolderPicker.label "Selectează directorul local">
 <!ENTITY browseFolder.label "Răsfoiește…">
 <!ENTITY browseFolder.accesskey "f">
 <!ENTITY browseNewsrc.label "Răsfoiește…">

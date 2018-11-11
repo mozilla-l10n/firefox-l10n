@@ -13,11 +13,11 @@
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
 <!ENTITY ccAddress.label "Cc aceste adrese de e-mail:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.placeholder "Separați adresele prin virgulă">
+<!ENTITY ccAddressList.placeholder "Separă adresele prin virgulă">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc la următoarele adrese:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.placeholder "Separați adresele prin virgulă">
+<!ENTITY bccAddressList.placeholder "Separă adresele prin virgulă">
 <!ENTITY saveMessageDlg.label "Afișează caseta de dialog pentru confirmare la salvarea mesajelor">
 <!ENTITY saveMessageDlg.accesskey "s">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
