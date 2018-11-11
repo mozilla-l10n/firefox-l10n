@@ -52,7 +52,7 @@
 <!ENTITY rights.webservices-b "Avansat">
 <!ENTITY rights.webservices-c ", urmată de fila">
 <!ENTITY rights.webservices-d "Actualizare">
-<!ENTITY rights.webservices-e ", unde trebuie să nu bifați opțiunile din secțiunea „Caută automat actualizări pentru”.">
+<!ENTITY rights.webservices-e ", unde trebuie să nu bifezi opțiunile din secțiunea „Caută automat actualizări pentru”.">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "O privire de ansamblu a serviciilor de informare asupra site-urilor pe care acest produs le include împreună cu instrucțiuni cum pot fi dezactivate, dacă e cazul, ar trebui incluse aici.">
