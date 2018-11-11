@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Varovat při zavírání více panelů
     .accesskey = v
+warn-on-quit-close-multiple-tabs =
+    .label = Varovat při ukončování prohlížeče a zavírání více panelů
+    .accesskey = v
 warn-on-open-many-tabs =
     .label = Varovat, pokud by mohlo otevírání více panelů aplikaci { -brand-short-name } zpomalit
     .accesskey = d
@@ -291,6 +294,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Automaticky aktualizovat vyhledávací moduly
     .accesskey = e
+update-pref-write-failure-title = Chyba při zápisu
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Vaše předvolby se nepodařilo uložit. Není možný zápis do souboru: { $path }
 
 ## General Section - Performance
 
