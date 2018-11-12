@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Trimite site-urilor web un semnal „Nu urmări” prin care nu vrei să fii urmărit
+do-not-track-description = Trimite site-urilor web un semnal „Nu urmări” pentru a indica faptul că nu vrei să fii urmărit
 do-not-track-learn-more = Află mai multe
 do-not-track-option-default =
     .label = Doar când se folosește protecția împotriva urmăririi
@@ -804,7 +804,7 @@ collection-header = Colectarea și utilizarea de date din { -brand-short-name }
 collection-description = Ne străduim să îți oferim posibilitatea de a face alegeri și colectăm doar ceea ce avem nevoie ca să furnizăm și să îmbunătățim { -brand-short-name } pentru toată lumea. Întotdeauna solicităm permisiunea înainte de a primi informații cu caracter personal.
 collection-privacy-notice = Politica de confidențialitate
 collection-health-report =
-    .label = Permite-i lui { -brand-short-name } să trimită informații tehnice și interactive către { -vendor-short-name }
+    .label = Permite ca { -brand-short-name } să trimită informații tehnice și interactive către { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Află mai multe
 collection-studies =
@@ -814,11 +814,11 @@ collection-studies-link = Vezi studiile { -brand-short-name }
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Raportarea datelor este dezactivată în configurația folosită
 collection-browser-errors =
-    .label = Permite-i lui { -brand-short-name } să trimită rapoarte de eroare ale browserului (inclusiv mesajele erorilor) către { -vendor-short-name }
+    .label = Permite ca { -brand-short-name } să trimită rapoarte de eroare ale browserului (inclusiv mesajele erorilor) către { -vendor-short-name }
     .accesskey = b
 collection-browser-errors-link = Află mai multe
 collection-backlogged-crash-reports =
-    .label = Permite-i lui { -brand-short-name } să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal
+    .label = Permite ca { -brand-short-name } să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal
     .accesskey = c
 collection-backlogged-crash-reports-link = Află mai multe
 
