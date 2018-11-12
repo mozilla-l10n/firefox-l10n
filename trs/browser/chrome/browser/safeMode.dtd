@@ -11,6 +11,8 @@
 <!ENTITY safeModeDescription3.label   "Modo seguro huin 'ngò sa yitïnj si'iaj &brandShortName; ga'ue ruguñu'unj ma da' nagi'ìa sa gire'e.">
 <!ENTITY safeModeDescription4.label   "Si komplemento 'ngà nej sa nagi'iât ni ganikin' akan' ma si gi'iaj sunj.">
 
+<!ENTITY safeModeDescription5.label   "Nej sa nutâ't ni nej sa nagi'iát ni giyichìn akuan' nej man akuan' nïn, nïn &brandShortName; ga'ue sisi sa nikaj na ni si ga'ue gi'iaj sun dàj rû' 'ia 'naj.">
+
 <!ENTITY refreshProfileInstead.label  "Ga'ue si garajsun't sa nagi'iaj nej sa gire'e ni nagi'iât &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
