@@ -370,7 +370,7 @@
 <!ENTITY editAsNewMsgCmd.label "Editar como nova mensagem">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
-<!ENTITY editDraftMsgCmd.label "Editar Rascunho de mensagem">
+<!ENTITY editDraftMsgCmd.label "Editar o rascunho de mensagem">
 <!ENTITY editDraftMsgCmd.accesskey "D">
 <!ENTITY editTemplateMsgCmd.label "Editar modelo">
 <!ENTITY editTemplateMsgCmd.accesskey "M">
@@ -765,7 +765,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Editar como uma nova mensagem">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
-<!ENTITY contextEditDraftMsg.label "Editar Rascunho de mensagem">
+<!ENTITY contextEditDraftMsg.label "Editar rascunho de mensagem">
 <!ENTITY contextEditTemplate.label "Editar modelo">
 <!ENTITY contextEditTemplate.accesskey "M">
 <!ENTITY contextArchive.label "Arquivar">
