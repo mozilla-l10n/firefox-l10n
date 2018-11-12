@@ -36,7 +36,7 @@
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avansat…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
-<!ENTITY syncGroupTitle.label "Sincronizare mesaje">
+<!ENTITY syncGroupTitle.label "Sincronizarea mesajelor">
 <!ENTITY diskspaceGroupTitle.label "Spațiu pe disc">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "Conținutul mesajelor">
 
 <!ENTITY acceptRemoteContent.label "Permite conținutul de la distanță în mesaje">
@@ -10,15 +10,15 @@
 <!ENTITY remoteContentExceptions.label "Excepții…">
 <!ENTITY remoteContentExceptions.accesskey "x">
 <!ENTITY acceptRemoteContentInfo.label "Află mai multe despre problemele de confidențialitate ale conținutului de la distanță">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Conținut web">
 
 <!ENTITY keepHistory.label "Reține site-urile și linkurile pe care le-am vizitat">
 <!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "Acceptă cookie-uri de la site-uri">
 <!ENTITY acceptCookies.accesskey "c">
-<!ENTITY acceptThirdParty.pre.label "Acceptă cookie-uri terțe:">
+<!ENTITY acceptThirdParty.pre.label "Acceptă cookie-uri de la terți:">
 <!ENTITY acceptThirdParty.pre.accesskey "c">
 <!ENTITY acceptThirdParty.always.label "Întotdeauna">
 <!ENTITY acceptThirdParty.never.label "Niciodată">
