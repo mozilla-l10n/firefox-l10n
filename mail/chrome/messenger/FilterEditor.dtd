@@ -16,9 +16,9 @@
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highestPriorityCmd.label "Altíssima">
 
-<!ENTITY contextDesc.label "Aplicar filtro ao:">
+<!ENTITY contextDesc.label "Aplicar filtro:">
 <!ENTITY contextIncomingMail.label "Ao receber novas mensagens:">
-<!ENTITY contextIncomingMail.accesskey "g">
+<!ENTITY contextIncomingMail.accesskey "r">
 <!ENTITY contextManual.label "Aplicar manualmente">
 <!ENTITY contextManual.accesskey "A">
 <!ENTITY contextBeforeCls.label "Filtrar antes de aplicar o Antispam">
@@ -57,9 +57,10 @@
 <!ENTITY removeAction.tooltip "Remover esta ação">
 
 <!-- LOCALIZATION NOTE
-  The values below are used to control the widths of the filter action widgets.
-  Change the values only when the localized strings in the popup menus
-  are truncated in the widgets.
- -->
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
