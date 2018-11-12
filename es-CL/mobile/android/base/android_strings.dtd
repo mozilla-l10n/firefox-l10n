@@ -473,7 +473,7 @@
 <!ENTITY share_image_failed "No se puede compartir esta imagen">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY print "Imprimir">
-<!ENTITY view_page_source "Ver código fuente de la página">
+<!ENTITY view_page_source "Ver código fuente">
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Solicitar sitio de escritorio">
 <!ENTITY page "Página">
@@ -505,7 +505,7 @@
 <!ENTITY contextmenu_open_new_tab "Abrir en una nueva pestaña">
 <!ENTITY contextmenu_open_private_tab "Abrir en una nueva pestaña privada">
 <!ENTITY contextmenu_remove "Remover">
-<!ENTITY contextmenu_add_page_shortcut "Añadir acceso directo a la página">
+<!ENTITY contextmenu_add_page_shortcut "Crear acceso directo">
 <!ENTITY contextmenu_set_as_homepage "Establecer como página de inicio">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Pegar e ir">
