@@ -53,6 +53,7 @@ pane-sync-title = Firefox-konto
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } brukerstøtte
+addons-button-label = Utvidelser og tema
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,9 @@ extension-controlled-homepage-override = En utvidelse, <img data-l10n-name="icon
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = En utvidelse, <img data-l10n-name="icon"/> { $name }, styrer din ny fane-side.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = En utvidelse, <img data-l10n-name="icon"/> { $name }, kontrollerer denne innstillingen.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = En utvidelse, <img data-l10n-name="icon"/> { $name }, har endret din standardsøkemotor.
@@ -149,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Advar ved lukking av flere faner
     .accesskey = A
+warn-on-quit-close-multiple-tabs =
+    .label = Advarer ved avslutting og lukking av flere faner
+    .accesskey = d
 warn-on-open-many-tabs =
     .label = Advar når åpning av mange faner samtidig kan gjøre { -brand-short-name } treg
     .accesskey = d
@@ -284,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Oppdater søkemotorer automatisk
     .accesskey = e
+update-pref-write-failure-title = Skrivfeil
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Kan ikke lagre innstillinger. Kunne ikke skrive til filen: { $path }
 
 ## General Section - Performance
 
@@ -323,10 +334,13 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Søk etter tekst når jeg begynner å skrive
     .accesskey = k
+browsing-cfr-recommendations =
+    .label = Anbefal utvidelser mens du surfer
+    .accesskey = r
+browsing-cfr-recommendations-learn-more = Les mer
 
 ## General Section - Proxy
 
-network-proxy-title = Nettverksproxy
 network-settings-title = Nettverksinnstillinger
 network-proxy-connection-description = Konfigurer hvordan { -brand-short-name } kobler seg til internett.
 network-proxy-connection-learn-more = Les mer
@@ -525,6 +539,7 @@ privacy-header = Nettleserpersonvern
 ## Privacy Section - Forms
 
 forms-header = Skjema og passord
+logins-header = Innlogginger og passord
 forms-ask-to-save-logins =
     .label = Spør om å lagre brukernavn og passord for nettsteder
     .accesskey = r
@@ -591,26 +606,12 @@ sitedata-total-size-calculating = Regner ut størrelse på nettstedsdata og hurt
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Dine lagrede infokapsler, nettstedsdata og hurtiglager bruker for øyeblikket { $value } { $unit } diskplass.
 sitedata-learn-more = Les mer
-sitedata-accept-cookies-option =
-    .label = Tillat infokapsler og nettsidedata fra nettsteder (anbefalt)
-    .accesskey = a
-sitedata-block-cookies-option =
-    .label = Blokker infokapsler og nettstedsdata fra nettsteder
-    .accesskey = B
 sitedata-keep-until = Behold inntil
     .accesskey = e
 sitedata-keep-until-expire =
     .label = De utgår
 sitedata-keep-until-closed =
     .label = { -brand-short-name } er lukket
-sitedata-accept-third-party-desc = Tillat tredjeparts infokapsler og nettstedsdata fra nettsteder
-    .accesskey = e
-sitedata-accept-third-party-always-option =
-    .label = Alltid
-sitedata-accept-third-party-visited-option =
-    .label = Fra besøkte
-sitedata-accept-third-party-never-option =
-    .label = Aldri
 sitedata-allow-cookies-option =
     .label = Tillat infokapsler og nettstedsdata
     .accesskey = a
@@ -734,10 +735,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Aldri
     .accesskey = A
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Bruk sporingsbeskyttelse i privat nettlesing for å blokkere kjente sporere
-    .accesskey = v
 tracking-exceptions =
     .label = Unntak …
     .accesskey = U
