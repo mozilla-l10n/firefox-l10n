@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Avisarme al cerrar varias pestañas
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Advertir al salir y cerrar varias pestañas
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Avisarme si al abrir muchas pestañas { -brand-short-name } se pueda poner lento
     .accesskey = d
@@ -289,6 +292,9 @@ update-enable-search-update =
     .label = Actualice automáticamente los motores de búsqueda
     .accesskey = e
 update-pref-write-failure-title = Error de escritura
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = No se pudo guardar la preferencia. No se pudo escribir al archivo: { $path }
 
 ## General Section - Performance
 
@@ -606,6 +612,9 @@ sitedata-keep-until-expire =
     .label = expiran
 sitedata-keep-until-closed =
     .label = { -brand-short-name } está cerrado
+sitedata-delete-on-close =
+    .label = Eliminar cookies y datos del sitio cuando se cierra { -brand-short-name }
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Aceptar cookies y datos del sitio
     .accesskey = A
