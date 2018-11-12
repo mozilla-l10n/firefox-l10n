@@ -52,7 +52,7 @@
 <!ENTITY sendLaterCmd.accesskey "r">
 <!ENTITY printSetupCmd.label "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey "j">
-<!ENTITY printPreviewCmd.label "Previzualizează tipărirea">
+<!ENTITY printPreviewCmd.label "Previzualizează pentru tipărire">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.key "P">

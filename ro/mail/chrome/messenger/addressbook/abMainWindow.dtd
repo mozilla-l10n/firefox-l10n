@@ -31,7 +31,7 @@
 <!ENTITY closeCmd.accesskey                             "h">
 <!ENTITY printSetupCmd.label                            "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey                        "j">
-<!ENTITY printPreviewContactCmd.label                   "Previzualizare tipărire contact">
+<!ENTITY printPreviewContactCmd.label                   "Previzualizează tipărirea contactului">
 <!ENTITY printPreviewContactCmd.accesskey               "v">
 <!ENTITY printPreviewAddressBook.label                  "Previzualizează tipărirea agendei de contacte">
 <!ENTITY printPreviewAddressBook.accesskey              "P">

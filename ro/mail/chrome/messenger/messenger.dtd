@@ -87,7 +87,7 @@
 <!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.key "P">
-<!ENTITY printPreviewCmd.label "Previzualizează tipărirea">
+<!ENTITY printPreviewCmd.label "Previzualizează pentru tipărire">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey "j">
@@ -811,7 +811,7 @@
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Tipărește…">
 <!ENTITY contextPrint.accesskey "p">
-<!ENTITY contextPrintPreview.label "Previzualizare tipărire">
+<!ENTITY contextPrintPreview.label "Previzualizează pentru tipărire">
 <!ENTITY contextPrintPreview.accesskey "v">
 
 <!-- Thread Pane Column Picker -->
