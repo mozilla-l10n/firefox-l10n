@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Avisar quando fechar múltiplas abas
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Avisar quando sair e fechar várias abas
+    .accesskey = v
 warn-on-open-many-tabs =
     .label = Avisar que quando abrir muitas abas, o { -brand-short-name } pode ficar lento
     .accesskey = d
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Atualizar automaticamente os mecanismos de pesquisa
     .accesskey = e
+update-pref-write-failure-title = Erro de gravação
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Não foi possível salvar preferências. Não conseguiu escrever no arquivo: { $path }
 
 ## General Section - Performance
 
