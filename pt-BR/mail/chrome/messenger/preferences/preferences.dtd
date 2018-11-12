@@ -23,6 +23,7 @@
 <!ENTITY paneAdvanced.title       "Avançado">
 <!ENTITY paneAccount.title        "Contas">
 
+<!ENTITY addonsButton.label       "Extensões e Temas">
 
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">
