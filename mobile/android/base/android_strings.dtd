@@ -898,11 +898,14 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY default_notification_channel2 "Դիտարկիչ">
 <!ENTITY mls_notification_channel "&vendorShortName;-ի տեղադրության ծառայություն">
 <!ENTITY download_notification_channel "Ներբեռնումներ">
 <!ENTITY media_notification_channel "Մեդիայի նվագարկում">
+<!ENTITY media_notification_channel2 "Ձայն և տեսանյութ">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; Push ծանուցումներ">
+<!ENTITY leanplum_default_notifications_channel2 "&vendorShortName;-ի խորհուրդներ և հնարքներ">
 <!ENTITY updater_notification_channel "Թարմացումներ">
 <!ENTITY synced_tabs_notification_channel "Համաժամեցված ներդիրներ">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
