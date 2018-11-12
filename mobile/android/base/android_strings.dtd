@@ -212,7 +212,7 @@
 <!ENTITY pref_developer_remotedebugging_usb "Depanare de la distanță via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depanare de la distanță via Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Depanarea via Wi-Fi necesită ca dispozitivul să aibă o aplicație care scanează coduri QR.">
-<!ENTITY pref_remember_signons2 "Reține autentificările">
+<!ENTITY pref_remember_signons2 "Ține minte autentificările">
 <!ENTITY pref_manage_logins "Gestionează autentificările">
 
 <!ENTITY pref_category_home "Pagină de start">
