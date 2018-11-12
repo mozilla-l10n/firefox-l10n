@@ -43,7 +43,7 @@
 <!ENTITY view.recentUpdates.label             "Versi Baru">
 <!ENTITY view.availableUpdates.label          "Versi Baru yang Tersedia">
 
-<!ENTITY preferencesUnix.label                 "&brandShortName; Preferensi">
+<!ENTITY preferencesUnix.label                 "Pengaturan &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Periksa Versi Baru">
