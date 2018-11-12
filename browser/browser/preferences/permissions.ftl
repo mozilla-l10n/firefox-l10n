@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Unntak - sporingsbeskyttelse
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Du har slått av sporingsbeskyttelse på disse nettstedene.
+permissions-exceptions-content-blocking-window =
+    .title = Unntak - innholdsblokkering
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Du har slått av innholdsblokkering på disse nettstedene.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Du kan oppgi hvilke nettsted som har tillat
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Tillatte nettsteder - automatisk avspilling
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Du kan spesifisere hvilke nettsider som automatisk har lov til å spille av mediaelement. Skriver inn eksakt adresse for nettsiden du vil tillate og trykk så Tillat.
 permissions-exceptions-autoplay-media-window2 =
     .title = Unntak - autoavspilling
     .style = { permissions-window.style }
