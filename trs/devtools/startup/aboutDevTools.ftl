@@ -6,4 +6,5 @@ newsletter-email-placeholder =
     .placeholder = Korrêo
 newsletter-subscribe-button = Gi'iaj suskribiendô ma'ânt
 newsletter-thanks-title = ¡Guruat!
+footer-learn-more-link = Gahuin chrūn doj
 features-learn-more = Gahuin chrūn doj

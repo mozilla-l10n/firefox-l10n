@@ -705,6 +705,24 @@ content-blocking-tracking-protection-change-block-list = Naduna lista sa narán
 content-blocking-third-party-cookies-label =
     .label = Si kookies a'ngô dugui'
     .accesskey = C
+content-blocking-reject-trackers-description = Narán riña daran' kôki ânej e asi nej sa na'nïn nej sa naga'naj a.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Sa nagi'iát riña nej Kôki ni riña dej si datî sîtio nu a'nïnj guendâ naduna sa ga riña nej kokî ânej e.
+content-blocking-change-cookie-settings =
+    .label = Naduna sa hua riña Kôki
+    .accesskey = S
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Nej sa Naga'naj a (dugunàj huaj)
+    .accesskey = k
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Sa naga'naj
+    .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Daran' nej kokî ânej e (ga'ue gi'iaj sun a'nan' web gi'ia)
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
