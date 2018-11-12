@@ -14,5 +14,6 @@
 <!ENTITY restoreDefaultSet.label  "Varsayılanları geri yükle">
 <!ENTITY addNewToolbar.label      "Yeni araç çubuğu ekle">
 <!ENTITY showTitlebar.label       "Başlık çubuğunu göster">
+<!ENTITY extraDragSpace.label     "Sürükleme alanı ekle">
 <!ENTITY saveChanges.label        "Tamam">
 <!ENTITY undoChanges.label        "Değişiklikleri geri al">
