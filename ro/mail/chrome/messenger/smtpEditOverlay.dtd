@@ -4,13 +4,13 @@
 
 <!ENTITY settings.caption "Setări">
 <!ENTITY security.caption "Securitate și autentificare">
-<!ENTITY serverName.label "Nume server:">
+<!ENTITY serverName.label "Numele serverului:">
 <!ENTITY serverName.accesskey "s">
 <!ENTITY serverDescription.label "Descriere:">
 <!ENTITY serverDescription.accesskey "D">
 <!ENTITY serverPort.label "Port:">
 <!ENTITY serverPort.accesskey "P">
-<!ENTITY userName.label "Nume utilizator:">
+<!ENTITY userName.label "Nume de utilizator:">
 <!ENTITY userName.accesskey "u">
 <!ENTITY connectionSecurity.label "Securitatea conexiunii:">
 <!ENTITY connectionSecurity.accesskey "n">
