@@ -644,6 +644,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Se yakaj guindo'...
     .accesskey = E
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Sa nagi'iát guendâ naránt riña nej sa huaa nu a'nïnj guendâ nadunat riña nej koki ni nej si datô sîtio.
 
 ## Privacy Section - Address Bar
 
@@ -677,12 +681,30 @@ content-blocking-toggle-label-on = ON
 content-blocking-toggle-label-off = OFF
     .accesskey = O
 content-blocking-category-label = Nagui sa ruhuât garánt
+# "Slow" in this instance means "slow to load on the network".
+# FastBlock is a feature that blocks requests to tracking sites if they
+# have not finished loading after a certain threshold of seconds.
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Sa naga'naj sa 'iaj sun naj
+    .accesskey = S
+content-blocking-fastblock-new-description = Narán màn riña nej Sa naga'naj nu a'nïnj gayi'ì hìo 'ngo pâjina.
+content-blocking-tracking-protection-trackers-label =
+    .label = Sa naga'naj
+    .accesskey = T
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Daran' nej sa naga'naj ngà' nani'în'
+    .accesskey = T
+content-blocking-tracking-protection-new-description = Narán riña daran' sa naga'naj ni'înt. (dadin ga'ue gara'ñu'un da' si gi'iaj sun hìo pâjina)
 content-blocking-tracking-protection-option-always =
     .label = Nigànj chre
     .accesskey = A
 content-blocking-tracking-protection-option-private =
     .label = Mà roña Windows huìi
     .accesskey = p
+content-blocking-tracking-protection-change-block-list = Naduna lista sa narán
+content-blocking-third-party-cookies-label =
+    .label = Si kookies a'ngô dugui'
+    .accesskey = C
 
 ## Privacy Section - Tracking
 
