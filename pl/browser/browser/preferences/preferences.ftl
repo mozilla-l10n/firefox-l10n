@@ -53,6 +53,7 @@ cancel-no-restart-button = Anuluj
 restart-later = Później
 extension-controlled-homepage-override=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę startową.
 extension-controlled-new-tab-url=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę nowej karty.
+extension-controlled-web-notifications=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje to ustawienie.
 extension-controlled-default-search=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> zmieniło domyślną wyszukiwarkę.
 extension-controlled-privacy-containers=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> wymaga włączonych „Kart z kontekstem”.
 extension-controlled-websites-tracking-protection-mode=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje ochronę przed śledzeniem.
