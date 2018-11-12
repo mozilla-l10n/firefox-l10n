@@ -6,16 +6,16 @@
 
 <!ENTITY messageStorage.label "Armazenamento de mensagens">
 <!ENTITY securitySettings.label "Configurações de segurança">
-<!ENTITY serverSettings.label "Receber mensagens">
-<!ENTITY serverType.label "Tipo:">
-<!ENTITY serverName.label "Servidor:">
-<!ENTITY serverName.accesskey "S">
+<!ENTITY serverSettings.label "Configurações do servidor">
+<!ENTITY serverType.label "Tipo de servidor:">
+<!ENTITY serverName.label "Nome do servidor:">
+<!ENTITY serverName.accesskey "s">
 <!ENTITY userName.label "Usuário:">
 <!ENTITY userName.accesskey "U">
 <!ENTITY port.label "Porta:">
 <!ENTITY port.accesskey "t">
 <!ENTITY serverPortDefault.label "Padrão:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -61,7 +61,7 @@
 <!ENTITY loginAtStartup.accesskey "f">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Perguntar antes de receber mais de">
 <!ENTITY maxMessagesStart.accesskey "e">
