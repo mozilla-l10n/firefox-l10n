@@ -32,7 +32,7 @@
 <!ENTITY play.accesskey                   "R">
 <!ENTITY systemsound.label                "Sunetul de sistem implicit pentru mesaj nou">
 <!ENTITY systemsound.accesskey            "S">
-<!ENTITY customsound.label                "Utilizează următorul fișier de sunet">
+<!ENTITY customsound.label                "Folosește următorul fișier de sunet">
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Răsfoiește…">
 <!ENTITY browse.accesskey                 "f">
