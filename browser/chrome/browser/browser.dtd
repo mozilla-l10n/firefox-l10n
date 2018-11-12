@@ -29,6 +29,8 @@
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Dupliser fane">
 <!ENTITY  duplicateTab.accesskey             "D">
+<!ENTITY  closeTabOptions.label              "Innstillinger for lukking av faner">
+<!ENTITY  closeTabOptions.accesskey          "a">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -40,6 +42,8 @@ left instead of right. -->
 <!ENTITY  closeSelectedTabs.label            "Lukk valgte faner">
 <!ENTITY  closeSelectedTabs.accesskey        "v">
 
+<!ENTITY  closeTabs.label                    "Lukk faner">
+<!ENTITY  closeTabs.accesskey                "k">
 <!ENTITY  pinSelectedTabs.label              "Fest faner">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
@@ -56,6 +60,8 @@ but will never be visible at the same time. -->
 <!ENTITY  reloadSelectedTabs.accesskey       "O">
 <!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
 but will never be visible at the same time. -->
+<!ENTITY  reloadTabs.label                   "Oppdater faner">
+<!ENTITY  reloadTabs.accesskey               "r">
 <!ENTITY  bookmarkSelectedTabs.label         "Bokmerk faner…">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
@@ -84,14 +90,24 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "e">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Flytt fane">
+<!ENTITY  moveTabOptions.accesskey           "y">
+<!ENTITY  moveSelectedTabOptions.label       "Flytt faner">
+<!ENTITY  moveSelectedTabOptions.accesskey   "y">
+<!ENTITY  moveToStart.label                  "Flytt til begynnelsen">
+<!ENTITY  moveToStart.accesskey              "b">
+<!ENTITY  moveToEnd.label                    "Flytt til slutten">
+<!ENTITY  moveToEnd.accesskey                "t">
 <!ENTITY  moveToNewWindow.label              "Flytt til et nytt vindu">
 <!ENTITY  moveToNewWindow.accesskey          "t">
 <!ENTITY  reopenInContainer.label            "Åpne på nytt i innholdsfane">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "Bokmerk alle faner …">
 <!ENTITY  bookmarkAllTabs.accesskey          "o">
+<!ENTITY  bookmarkTab.label                  "Bokmerk fane">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  bookmarkTab.accesskey              "B">
 <!ENTITY  undoCloseTab.label                 "Angre lukking av fane">
 <!ENTITY  undoCloseTab.accesskey             "A">
 <!ENTITY  closeTab.label                     "Lukk fane">
@@ -117,6 +133,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Skriv ut …">
 <!ENTITY printCmd.accesskey "u">
 <!ENTITY printCmd.commandkey "p">
+
 
 <!ENTITY goOfflineCmd.label "Arbeid frakoblet">
 <!ENTITY goOfflineCmd.accesskey "r">
@@ -975,6 +992,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.fastBlock.blocked.label "Blokkert">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
+     "Firefox is blocking Slow-Loading Trackers"-->
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -989,6 +1010,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Blokkert">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Trackers"-->
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1002,6 +1027,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
 <!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Blokkert">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Third-Party Cookies"-->
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1032,6 +1061,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "d">
 <!ENTITY trackingProtection.block5.label "Slå på blokkering for dette nettstedet">
 <!ENTITY trackingProtection.block5.accesskey "e">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.reload2.label "Oppdater siden">
 <!ENTITY trackingProtection.reload2.accesskey "r">
 
