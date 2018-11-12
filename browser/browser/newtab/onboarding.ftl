@@ -26,4 +26,4 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Jelajahi lebih cepat, lebih cerdas, atau lebih aman dengan ekstensi seperti Ghostery, yang memungkinkan Anda memblokir iklan-iklan yang menjengkelkan.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinkronkan
-onboarding-fxa-text = Daftar untuk sebuah { -fxaccount-brand-name } dan sinkronkan markah, kata sandi Anda dan buka tab di mana pun Anda menggunakan { -brand-short-name }.
+onboarding-fxa-text = Daftar { -fxaccount-brand-name } dan sinkronkan markah, kata sandi Anda, dan buka tab di mana pun Anda menggunakan { -brand-short-name }.
