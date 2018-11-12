@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -121,12 +113,12 @@ search-results-help-link = Օգնությու՞ն է պետք: Այցելեք <a
 
 ## General Section
 
-startup-header = Մեկնարկը                
+startup-header = Մեկնարկը
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Թույլատրել, որ { -brand-short-name }-ը և Firefox-ը մեկնարկեն միաժամանակ
-use-firefox-sync = Հուշում. Օգտագործում են առանձին պրոֆիլներ: Սինքի միջոցով կարող եք համօգտագործել տվյալները:
+use-firefox-sync = Tip: This uses separate profiles. Use { -sync-brand-short-name } to share data between them.
 get-started-not-logged-in = Մուտք գործել { -sync-brand-short-name }...
 get-started-configured = Բացել { -sync-brand-short-name }-ի կարգավորումները
 always-check-default =
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name }-ը այժմ ձեր հիմնական դի�
 set-as-my-default-browser =
     .label = Դարձնել լռելյայն...
     .accesskey = D
-startup-page = Երբ { -brand-short-name }-ը մեկնարկում է
-    .accesskey = մ
-startup-user-homepage =
-    .label = Ցուցադրել տնային էջը
-startup-blank-page =
-    .label = Ցուցադրել դատարկ էջ
-startup-prev-session =
-    .label = Ցուցադրել ձեր նախորդ պատուհանները և ներդիրները
 startup-restore-previous-session =
     .label = Վերականգնել նախորդ աշխատաշրջանը
     .accesskey = s
 disable-extension =
     .label = Անջատել ընդլայնումը
-home-page-header = Տնային էջ
 tabs-group-header = Ներդիրներ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab՝ պտտվում է ներդիրների միջև՝ ըստ վերջին օգտագործածի
@@ -270,7 +253,6 @@ play-drm-content =
 play-drm-content-learn-more = Իմանալ ավելին
 update-application-title = { -brand-short-name }-ի թարմացումներ
 update-application-description = Պահեք { -brand-short-name }-ը թարմացված՝ լավագույն արտադրողականության, կայունության և անվտանգության համար:
-update-application-info = Տարբերակ { $version } <a>Ինչն է նոր</a>
 update-application-version = Տարբերակ { $version } <a data-l10n-name="learn-more">Ինչն է նոր</a>
 update-history =
     .label = Ցուցադրել Թարմացումների Պատմությունը...
@@ -301,12 +283,11 @@ performance-use-recommended-settings-checkbox =
 performance-use-recommended-settings-desc = Այս կարգավորումները հարմարեցված են ձեր համակարգչի սարքաշարին և օպերացիոն համակարգին:
 performance-settings-learn-more = Իմանալ ավելին
 performance-allow-hw-accel =
-    .label = Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը 
+    .label = Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը
     .accesskey = ր
 performance-limit-content-process-option = Բովանդակության ընթացքի սահմանափակում
     .accesskey = ս
 performance-limit-content-process-enabled-desc = Բովանդակության լրացուցիչ ընթացքները կարող են լավարկել արտադրողականությունը, երբ օգտագործվում են բազմակի ներդիրներ, բայց միևնույն ժամանակ՝ դրանք ավելի շատ հիշողություն կխլեն:
-performance-limit-content-process-disabled-desc = Հնարավոր է փոփոխել բովանդակության ընթացքները միայն բազմամշակիչ { -brand-short-name }-ի դեպքում: <a>Կարդալ, թե ինչպես ստուգել՝ արդյոք բազմամշակիչը միացված է:</a>
 performance-limit-content-process-blocked-desc = Հնարավոր է փոփոխել բովանդակության ընթացքները միայն բազմամշակիչ { -brand-short-name }-ի դեպքում: <a data-l10n-name="learn-more">Կարդալ, թե ինչպես ստուգել՝ արդյոք բազմամշակիչը միացված է:</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -334,7 +315,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Ցանցի պրոքսի
 network-proxy-connection-description = Կազմաձևեք, թե ինչպես { -brand-short-name }-ը կապակցվի համացանցին:
 network-proxy-connection-learn-more = Իմանալ ավելին
 network-proxy-connection-settings =
@@ -375,11 +355,8 @@ use-current-pages =
         }
     .accesskey = ը
 choose-bookmark =
-    .label = Օգտագործել էջանիշ...                
+    .label = Օգտագործել էջանիշ...
     .accesskey = է
-restore-default =
-    .label = Վերականգնել լռելայնը
-    .accesskey = Վ
 
 ## Search Section
 
@@ -576,9 +553,6 @@ history-dontremember-description = { -brand-short-name }ը կօգտագործի 
 history-private-browsing-permanent =
     .label = Միշտ օգտագործել Գաղտնի Դիտարկումը
     .accesskey = Գ
-history-remember-option =
-    .label = Հիշել իմ դիտարկումների և ներբեռնումների պատմությունը
-    .accesskey = ե
 history-remember-search-option =
     .label = Հիշել որոնման և ձևերի պատմությունը
     .accesskey = ձ
@@ -601,26 +575,12 @@ sitedata-total-size-calculating = Հաշվում է կայքի տվյալներ�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ձեր cookie-ները, կայքի տվյալները և շտեմը այժմ զբաղեցնում են { $value } { $unit } տեղ:
 sitedata-learn-more = Իմանալ ավելին
-sitedata-accept-cookies-option =
-    .label = Ընդունել cookie-ներ և կայքի տվյալներ կայքերից (հանձնարարելի)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Արգելափակել cookie-ները և կայքի տվյալները (կարող է հանգեցնել կայքերի ընդհատմանը)
-    .accesskey = B
 sitedata-keep-until = Պահել մինչև՝
     .accesskey = u
 sitedata-keep-until-expire =
     .label = Դրանք սպառվել են
 sitedata-keep-until-closed =
     .label = { -brand-short-name }-ը փակ է
-sitedata-accept-third-party-desc = Ընդունել երրորդ կողմի cookie-ները և կայքի տվյալները
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = Միշտ
-sitedata-accept-third-party-visited-option =
-    .label = Այցելածներից
-sitedata-accept-third-party-never-option =
-    .label = Երբեք
 sitedata-clear =
     .label = Մաքրել տվյալները…
     .accesskey = l
@@ -646,6 +606,9 @@ addressbar-locbar-openpage-option =
     .accesskey = Բ
 addressbar-suggestions-settings = Փոխել որոնիչների նախապատվությունները
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 tracking-header = Հետագծման պաշտպանություն
@@ -660,10 +623,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Երբեք
     .accesskey = Ե
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Օգտագործել հետագծման պաշտպանությունը՝ հայտնի հետագծիչները արգելափակելու համար
-    .accesskey = v
 tracking-exceptions =
     .label = Բացառություններ…
     .accesskey = ա
