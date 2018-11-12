@@ -21,8 +21,8 @@
 
 <!ENTITY serverDetails.label "Detaliile serverului selectat:">
 <!ENTITY serverDescription.label "Descriere: ">
-<!ENTITY serverName.label "Nume server: ">
+<!ENTITY serverName.label "Numele serverului: ">
 <!ENTITY serverPort.label "Port: ">
-<!ENTITY userName.label   "Nume utilizator: ">
+<!ENTITY userName.label   "Nume de utilizator: ">
 <!ENTITY connectionSecurity.label "Securitatea conexiunii: ">
 <!ENTITY authMethod.label   "Metodă de autentificare: ">

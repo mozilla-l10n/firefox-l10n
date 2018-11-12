@@ -4,7 +4,7 @@
 
 <!ENTITY doNotDownloadPop3Movemail.label "Pentru a economisi spațiul pe disc, nu descărca:">
 <!ENTITY doNotDownloadNntp.label "Pentru a economisi spațiu pe disc, nu descărca pentru utilizare offline:">
-<!ENTITY doNotDownloadImap.label "Pentru a câștiga spațiu pe disc, descărcarea mesajelor de pe server și păstrarea copiilor locale pentru utilizare offline poate fi restricționată după vechime sau mărime.">
+<!ENTITY doNotDownloadImap.label "Pentru a economisi spațiu pe disc, descărcarea mesajelor de pe server și păstrarea copiilor locale pentru utilizare offline poate fi restricționată după vechime sau mărime.">
 <!ENTITY allFoldersOffline2.label "Stochează local mesajele din toate dosarele acestui cont">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Notă: Această opțiune se aplică tuturor dosarelor din acest cont. Pentru a stoca mesaje doar din anumite dosare, utilizează butonul Avansat… asociat.">
@@ -19,12 +19,12 @@
 <!ENTITY nntpNotDownloadRead.accesskey "c">
 <!ENTITY nntpDownloadMsg.label "Mesaje mai vechi de">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Pentru a câștiga spațiu pe disc, mesajele vechi pot fi șterse definitiv.">
-<!ENTITY retentionCleanupImap.label "Pentru a câștiga spațiu pe disc, mesajele vechi pot fi șterse definitiv, atât copia locală cât și originalul de pe serverul de la distanță.">
-<!ENTITY retentionCleanupPop.label "Pentru a câștiga spațiu pe disc, mesajele vechi pot fi șterse definitiv, inclusiv originalele de pe server.">
+<!ENTITY retentionCleanup.label "Pentru a economisi spațiu pe disc, mesajele vechi pot fi șterse definitiv.">
+<!ENTITY retentionCleanupImap.label "Pentru a economisi spațiu pe disc, mesajele vechi pot fi șterse definitiv, atât copiile locale cât și cele originale de pe serverul de la distanță.">
+<!ENTITY retentionCleanupPop.label "Pentru a economisi spațiu pe disc, mesajele vechi pot fi șterse definitiv, inclusiv originalele de pe server.">
 <!ENTITY retentionKeepMsg.label "Șterge mesajele mai vechi de">
 <!ENTITY retentionKeepMsg.accesskey "g">
-<!ENTITY retentionKeepAll.label "Nu șterge nici un mesaj">
+<!ENTITY retentionKeepAll.label "Nu șterge niciun mesaj">
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Șterge tot cu excepția celor mai recente">
 <!ENTITY retentionKeepRecent.accesskey "t">

@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Reguli filtrare">
+<!ENTITY window.title "Reguli pentru filtrare">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-<!ENTITY filterName.label "Nume filtru:">
+<!ENTITY filterName.label "Numele filtrului:">
 <!ENTITY filterName.accesskey "i">
 
 <!ENTITY junk.label "Nesolicitat">
@@ -16,16 +16,16 @@
 <!ENTITY highPriorityCmd.label "Mare">
 <!ENTITY highestPriorityCmd.label "Cea mai mare">
 
-<!ENTITY contextDesc.label "Aplică filtrul când:">
-<!ENTITY contextIncomingMail.label "Obține mail nou:">
+<!ENTITY contextDesc.label "Aplică filtrul:">
+<!ENTITY contextIncomingMail.label "La obținerea unui mail nou:">
 <!ENTITY contextIncomingMail.accesskey "m">
-<!ENTITY contextManual.label "Rulează manual">
+<!ENTITY contextManual.label "La rularea manuală">
 <!ENTITY contextManual.accesskey "R">
-<!ENTITY contextBeforeCls.label "Se filtrează înainte de clasificarea ca mesaj nesolicitat">
-<!ENTITY contextAfterCls.label "Se filtrează după clasificarea ca mesaj nesolicitat">
+<!ENTITY contextBeforeCls.label "Filtrează înainte de clasificarea ca mesaj nesolicitat">
+<!ENTITY contextAfterCls.label "Filtrează după clasificarea ca mesaj nesolicitat">
 <!ENTITY contextOutgoing.label "După trimitere">
 <!ENTITY contextOutgoing.accesskey "u">
-<!ENTITY contextArchive.label "Arhivare">
+<!ENTITY contextArchive.label "La arhivare">
 <!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Efectuează următoarele acțiuni:">

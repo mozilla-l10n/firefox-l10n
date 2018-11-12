@@ -488,7 +488,7 @@
 <!ENTITY savedFiles.label "Fișiere salvate">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
-<!ENTITY filtersCmd2.label "Filtre de mesaje">
+<!ENTITY filtersCmd2.label "Filtre pentru mesaje">
 <!ENTITY filtersCmd2.accesskey "F">
 <!ENTITY filtersApply.label "Filtrează dosarul">
 <!ENTITY filtersApply.accesskey "r">

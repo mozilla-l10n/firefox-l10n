@@ -21,12 +21,12 @@
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "zile">
 <!ENTITY message.label "mesaje">
-<!ENTITY retentionCleanup.label "Pentru a câștiga spațiu pe disc, mesajele vechi pot fi șterse definitiv.">
-<!ENTITY retentionCleanupImap.label "Pentru a câștiga spațiu pe disc, mesajele vechi pot fi șterse definitiv, atât copia locală cât și originalul de pe serverul de la distanță.">
-<!ENTITY retentionCleanupPop.label "Pentru a câștiga spațiu pe disc, mesajele vechi pot fi șterse definitiv, inclusiv originalele de pe server.">
+<!ENTITY retentionCleanup.label "Pentru a economisi spațiu pe disc, mesajele vechi pot fi șterse definitiv.">
+<!ENTITY retentionCleanupImap.label "Pentru a economisi spațiu pe disc, mesajele vechi pot fi șterse definitiv, atât copiile locale cât și cele originale de pe serverul de la distanță.">
+<!ENTITY retentionCleanupPop.label "Pentru a economisi spațiu pe disc, mesajele vechi pot fi șterse definitiv, inclusiv originalele de pe server.">
 <!ENTITY retentionDeleteMsg.label "Șterge mesajele mai vechi de">
 <!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Nu șterge nici un mesaj">
+<!ENTITY retentionKeepAll.label "Nu șterge niciun mesaj">
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Șterge tot cu excepția celor mai recente">
 <!ENTITY retentionKeepRecent.accesskey "l">

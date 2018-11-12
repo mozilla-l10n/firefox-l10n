@@ -4,13 +4,13 @@
 
 <!-- extracted from am-server-top.xul -->
 
-<!ENTITY messageStorage.label "Stocare mesaje">
+<!ENTITY messageStorage.label "Stocare de mesaje">
 <!ENTITY securitySettings.label "Setări de securitate">
 <!ENTITY serverSettings.label "Setările serverului">
 <!ENTITY serverType.label "Tip server:">
-<!ENTITY serverName.label "Nume server:">
+<!ENTITY serverName.label "Numele serverului:">
 <!ENTITY serverName.accesskey "s">
-<!ENTITY userName.label "Nume utilizator:">
+<!ENTITY userName.label "Nume de utilizator:">
 <!ENTITY userName.accesskey "u">
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">

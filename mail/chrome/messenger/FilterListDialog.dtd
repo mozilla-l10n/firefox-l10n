@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Filtre mesaje">
-<!ENTITY nameColumn.label "Nume filtru">
+<!ENTITY window.title "Filtre pentru mesaje">
+<!ENTITY nameColumn.label "Numele filtrului">
 <!ENTITY activeColumn.label "Activat">
 <!ENTITY newButton.label "Nou…">
 <!ENTITY newButton.accesskey "N">
@@ -26,7 +26,7 @@
 <!ENTITY filterHeader.label "Filtrele active vor fi rulate automat în ordinea de mai jos.">
 <!ENTITY filtersForPrefix.label "Filtre pentru:">
 <!ENTITY filtersForPrefix.accesskey "F">
-<!ENTITY viewLogButton.label "Jurnal filtre">
+<!ENTITY viewLogButton.label "Jurnal pentru filtre">
 <!ENTITY viewLogButton.accesskey "J">
 <!ENTITY runFilters.label "Rulează acum">
 <!ENTITY runFilters.accesskey "R">
