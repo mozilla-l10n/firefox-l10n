@@ -118,7 +118,6 @@ startup-header = Մեկնարկը
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Թույլատրել, որ { -brand-short-name }-ը և Firefox-ը մեկնարկեն միաժամանակ
-use-firefox-sync = Tip: This uses separate profiles. Use { -sync-brand-short-name } to share data between them.
 get-started-not-logged-in = Մուտք գործել { -sync-brand-short-name }...
 get-started-configured = Բացել { -sync-brand-short-name }-ի կարգավորումները
 always-check-default =
