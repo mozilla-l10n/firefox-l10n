@@ -7,11 +7,10 @@
 
 <!ENTITY loadError.label "nósesi jatanharhintatixati">
 <!ENTITY retry.label "menterhu uenani">
+
 <!-- Specific error messages -->
 
-
 <!ENTITY connectionFailure.title "No ústi kúparhatani">
-
 
 <!ENTITY deniedPortAccess.title " No ne wéjki usinti ixu inchani  ">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -24,34 +23,26 @@
 <!ENTITY fileNotFound.longDesc "exentsi menterhu enka jakankurhikua jatakua no nu sesi jaka  ">
 
 
-
 <!ENTITY generic.title "¡Inng! ¡Aaa!">
-
 
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title " I ixerakwa uarhukuarhisti">
 
-
 <!ENTITY notCached.title "i karakata noterhu marhuasïnia">
-
 
 <!ENTITY netOffline.title "no jarhasti nena enka kutúparantaaka">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "no sési karakata jarhasti">
-<!ENTITY contentEncodingError.longDesc "<ul> Jinpuetaku t'u, incha web paruri ayankwani i wani eratsikuechaniata énka no marhoani jaka. .</li> </ul>">
 
 <!ENTITY unsafeContentType.title "patsaratakua no mintsinharhikua">
-<!ENTITY unsafeContentType.longDesc "<ul> Eyankwa sani íni eratsikuechani ampe énka no terhu marhoani jaka.</li> </ul>">
 
 <!ENTITY netReset.title "anchikuarita usti wenakuarintani">
 
-
 <!ENTITY netTimeout.title "anchitarhakua noterhu marhoasïni  ">
-
 
 <!ENTITY unknownProtocolFound.longDesc "<ul><li>upinkari urani pari jatsikuni materu software parikari mitaaka ix´u.</li></ul>">
 
@@ -65,17 +56,13 @@
 <!ENTITY redirectLoop.longDesc "<ul><li>i uantanhiakua jintesti énka no sési ampe ukuarijk´a énka jinteka pari pikurhukuntani o k´uanskuntani ini jaiapenhantakuani énka jinteka cookies.</li></ul>">
 
 <!ENTITY unknownSocketType.title "terhujtsukurhi materhu ampe kurhankusti">
-<!ENTITY unknownSocketType.longDesc "<ul><li>ex´e je éski ari anchikwarita jatsï ari juramukwa énka jinteka ari  jaruap´erikueka jatsikuk´a.</li>ari isï upirinti wetsatakueri ma sési ukwaritakwa ma ex´eratakueri eyanpetateri.</li></ul>">
 
 <!ENTITY nssFailure2.title "no usti sesi exentani ">
-
 
 <!ENTITY nssBadCert.title "I kutúparhantskua énka jintepka nóteru utia">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
-
 
 
 
@@ -96,3 +83,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
