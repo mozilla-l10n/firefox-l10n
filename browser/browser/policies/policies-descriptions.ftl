@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Blokker tilgang til about:profiles-siden.
 policy-BlockAboutSupport = Blokker tilgang til about:support-siden.
 policy-Bookmarks = Opprett bokmerker i bokmerkeverktøylinjen, i bokmerkermenyen eller en nærmere angitt mappe i dem.
 policy-Certificates = Om innebygde sertifikat skal brukes eller ikke. Denne policy gjelder kun for Windows på nåværende tidspunkt.
+policy-CertificatesDescription = Legg til sertifikater eller bruk innebygde sertifikater.
 policy-Cookies = Tillat eller nekt nettsteder å lagre infokapsler.
 policy-DisableAppUpdate = Forhindre oppdatering av nettleseren.
 policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, det innebygde PDF-visningsprogrammet i { -brand-short-name }
@@ -42,6 +43,7 @@ policy-DisableSystemAddonUpdate = Forhindre at nettleseren installerer og oppdat
 policy-DisableTelemetry = Slå av av telemetri.
 policy-DisplayBookmarksToolbar = Vise bokmerkeverktøylinjen som standard.
 policy-DisplayMenuBar = Vise menylinjen som standard.
+policy-DNSOverHTTPS = Konfigurer DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettleser ved oppstart.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktiver eller deaktiver innholdsblokkering med mulighet til å låse valget.
@@ -62,9 +64,12 @@ policy-OverridePostUpdatePage = Bytt ut «Hva er nytt»-siden som blir vist ette
 policy-Permissions = Stille inn tillatelser for kamera, mikrofon, plassering og varsler.
 policy-PopupBlocking = Tillat at visse nettsteder skal kunne vise sprettoppvinduer som standard.
 policy-Proxy = Konfigurer proxy-innstillinger.
+policy-RequestedLocales = Velg rekkefølgen av språk, som skal brukes i programmet.
 policy-SanitizeOnShutdown = Fjern alle nettlesingsdata ved avslutning.
 policy-SearchBar = Angi standardplassering for søkefeltet. Brukeren kan fortsatt tilpasse den.
 policy-SearchEngines = Konfigurer søkemotorinnstillinger. Denne policyen er kun tilgjengelig for Extended Support Release (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Installer PKCS #11-moduler.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Blokker besøk på nettsteder. Les dokumentasjonen for detaljer om formatet.

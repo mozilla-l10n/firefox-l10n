@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Ikke nå
     .accesskey = n
 cfr-doorhanger-extension-ok-button = Legg til nå
     .accesskey = e
+cfr-doorhanger-extension-manage-settings-button = Behandle anbefalingsinnstillinger
+    .accesskey = B
+cfr-doorhanger-extension-never-show-recommendation = Ikke vis meg denne anbefalingen
+    .accesskey = s
 cfr-doorhanger-extension-learn-more-link = Les mer
 # This string is used on a new line below the add-on name
 # Variables:
