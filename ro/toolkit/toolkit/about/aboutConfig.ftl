@@ -9,8 +9,8 @@ config-window =
 
 # This text should be attention grabbing and playful
 config-about-warning-title =
-    .value = Aceasta ți-ar putea nevalida garanția!
-config-about-warning-text = Schimbarea valorilor acestor setări avansate poate dăuna stabilității, securității și performanței acestei aplicații. Ar trebui să continui doar dacă știi ce faci.
+    .value = Aceasta ți-ar putea invalida garanția!
+config-about-warning-text = Schimbarea setărilor avansate poate dăuna stabilității, securității și performanței acestei aplicații. Ar trebui să continui numai dacă ești sigur de ceea ce faci.
 config-about-warning-button =
     .label = Accept riscul!
 config-about-warning-checkbox =
