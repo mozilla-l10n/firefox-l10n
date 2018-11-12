@@ -4,6 +4,7 @@
 
 crash-reports-title = Absturzberichte
 clear-all-reports-label = Alle Berichte entfernen
+delete-button-label = Alle löschen
 delete-confirm-title = Sind Sie sicher?
 delete-confirm-description = Dies löscht alle Berichte und kann nicht rückgängig gemacht werden.
 crashes-unsubmitted-label = Nicht gesendete Absturzberichte
@@ -11,5 +12,6 @@ id-heading = Meldungs-ID
 date-crashed-heading = Absturzdatum
 crashes-submitted-label = Gesendete Absturzberichte
 date-submitted-heading = Sendedatum
+view-crash-button-label = Anzeigen
 no-reports-label = Es wurden noch keine Absturzberichte versendet.
 no-config-label = Diese Anwendung wurde nicht für die Anzeige von Absturzberichten konfiguriert. Die Einstellung <code>breakpad.reportURL</code> muss gesetzt werden.
