@@ -89,3 +89,15 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL voor het omzetten van DNS over HTTPS
+
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Standaard gebruiken ({ $url })
+    .accesskey = S
+    .tooltiptext = De standaard-URL voor het omzetten van DNS over HTTPS gebruiken
+
+connection-dns-over-https-url-custom =
+    .label = Aangepast
+    .accesskey = A
+    .tooltiptext = Een URL van uw voorkeur voor het omzetten van DNS over HTTPS invoeren
