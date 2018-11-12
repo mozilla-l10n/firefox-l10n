@@ -288,6 +288,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = Actualice automáticamente los motores de búsqueda
     .accesskey = e
+update-pref-write-failure-title = Error de escritura
 
 ## General Section - Performance
 
@@ -327,6 +328,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Buscar el texto cuando empiezas a escribir
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Recomendar extensiones mientras se navega
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = Aprender más
 
 ## General Section - Proxy
@@ -847,3 +851,7 @@ certs-view =
 certs-devices =
     .label = Dispositivos de seguridad…
     .accesskey = D
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Guardar archivos en { $service-name }
