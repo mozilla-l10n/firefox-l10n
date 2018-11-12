@@ -6,8 +6,8 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Aceasta ți-ar putea nevalida garanția!">
-<!ENTITY aboutWarningText.label "Schimbarea valorilor acestor setări avansate poate dăuna stabilității, securității și performanței acestei aplicații. Ar trebui să continui doar dacă știi ce faci.">
+<!ENTITY aboutWarningTitle.label "Aceasta ți-ar putea invalida garanția!">
+<!ENTITY aboutWarningText.label "Schimbarea setărilor avansate poate dăuna stabilității, securității și performanței acestei aplicații. Ar trebui să continui numai dacă ești sigur de ceea ce faci.">
 <!ENTITY aboutWarningButton2.label "Accept riscul!">
 <!ENTITY aboutWarningCheckbox.label "Afișează această avertizare data viitoare">
 
