@@ -10,6 +10,7 @@ delete-confirm-description = Dies löscht alle Berichte und kann nicht rückgän
 crashes-unsubmitted-label = Nicht gesendete Absturzberichte
 id-heading = Meldungs-ID
 date-crashed-heading = Absturzdatum
+submit-crash-button-label = Absenden
 crashes-submitted-label = Gesendete Absturzberichte
 date-submitted-heading = Sendedatum
 view-crash-button-label = Anzeigen
