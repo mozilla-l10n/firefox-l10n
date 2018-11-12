@@ -191,8 +191,8 @@
 <!ENTITY sortBySizeCmd.accesskey "h">
 <!ENTITY sortByStatusCmd.label "Status">
 <!ENTITY sortByStatusCmd.accesskey "t">
-<!ENTITY sortByTagsCmd.label "Tags">
-<!ENTITY sortByTagsCmd.accesskey "g">
+<!ENTITY sortByTagsCmd.label "Etiquetas">
+<!ENTITY sortByTagsCmd.accesskey "q">
 <!ENTITY sortByJunkStatusCmd.label "Spam">
 <!ENTITY sortByJunkStatusCmd.accesskey "m">
 <!ENTITY sortBySubjectCmd.label "Assunto">
@@ -398,7 +398,7 @@
 <!ENTITY watchThreadMenu.label "Monitorar tópico">
 <!ENTITY watchThreadMenu.accesskey "p">
 <!ENTITY watchThreadMenu.key "W">
-<!ENTITY tagMenu.label "Aplicar tag">
+<!ENTITY tagMenu.label "Aplicar etiqueta">
 <!ENTITY tagMenu.accesskey "l">
 <!ENTITY tagCmd0.key "0">
 <!ENTITY tagCmd1.key "1">
@@ -605,7 +605,7 @@
 <!ENTITY notJunkButton.tooltip "Marcar mensagens selecionadas como não spam">
 <!ENTITY addressBookButton.tooltip "Catálogo de endereços">
 <!ENTITY chatButton.tooltip "Mostrar a aba de bate-papo">
-<!ENTITY tagButton.tooltip "Aplicar tag em mensagens">
+<!ENTITY tagButton.tooltip "Aplicar etiquetas em mensagens">
 <!ENTITY compactButton.tooltip "Remover as mensagens excluídas da pasta selecionada">
 <!ENTITY appmenuButton1.tooltip "Exibir o menu &brandShortName;">
 
@@ -638,9 +638,9 @@
 <!ENTITY appmenuSelectFlagged.label "Selecionar mensagens com estrela">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "Nova tag…">
+<!ENTITY addNewTag.label "Nova etiqueta…">
 <!ENTITY addNewTag.accesskey "N">
-<!ENTITY manageTags.label "Gerenciar tags…">
+<!ENTITY manageTags.label "Gerenciar etiquetas…">
 <!ENTITY manageTags.accesskey "G">
 
 <!-- Folder Pane -->
@@ -715,7 +715,7 @@
 <!ENTITY subjectColumn.label "Assunto">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Prioridade">
-<!ENTITY tagsColumn.label "Tags">
+<!ENTITY tagsColumn.label "Etiqueta">
 <!ENTITY accountColumn.label "Conta">
 <!ENTITY statusColumn.label "Status">
 <!ENTITY sizeColumn.label "Tamanho">
@@ -738,7 +738,7 @@
 <!ENTITY subjectColumn2.tooltip "Ordenar por assunto">
 <!ENTITY dateColumn2.tooltip "Ordenar por data">
 <!ENTITY priorityColumn2.tooltip "Ordenar por prioridade">
-<!ENTITY tagsColumn2.tooltip "Ordenar por tags">
+<!ENTITY tagsColumn2.tooltip "Ordenar por etiquetas">
 <!ENTITY accountColumn2.tooltip "Ordenar por conta">
 <!ENTITY statusColumn2.tooltip "Ordenar por status">
 <!ENTITY sizeColumn2.tooltip "Ordenar por tamanho">
