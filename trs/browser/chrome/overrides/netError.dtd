@@ -61,6 +61,7 @@
 <!ENTITY notCached.longDesc "<p>Nitaj si nu ñaj nana'ui't riña cache &brandShortName;.</p><ul><li>Guenda ga yitiïnj, &brandShortName; ni si gachín da' nana'ui' ma'an ma ñaj hua ahi</li><li>Ga'ui' riña taj garahue ñu' da' gachinjt ñaj na riña sitio web.</li></ul>">
 
 <!ENTITY netOffline.title "Si gida'aj internet">
+<!ENTITY netOffline.longDesc2 "<ul><li>prênsa &quot;Narì' nukuaj ñû&quot; da' natut riña lînia ni ga'ue nayi'nïn pâjina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Gire' 'ngo chrej nana'uij sa gachrûnt">
 <!ENTITY contentEncodingError.longDesc "<ul>
@@ -90,6 +91,7 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Na'ue nari'ìj proxy ma">
+<!ENTITY proxyResolveFailure.longDesc "<ul><li>Natsij ni'iaj dàj nahuin Proxy da' gini'înt si hua hue'ê man.</li><li>Ni'iaj sisi 'iaj sun red ngà si aga't aga' sikà' ràa.</li><li> sisi hua sa tna'uej rayi'î si agâ't rû' huaj nin &brandShortName; a'nïn gatut riña web.</li></ul>">
 
 <!ENTITY redirectLoop.title "Nitaj si 'iaj redireksionando hue'ê pajinâ nan">
 <!ENTITY redirectLoop.longDesc "<ul>
@@ -116,6 +118,7 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Sa gu'nàj <span class='hostname'/> ni nu na'nïn hue'ej si sitiôt ma. Da' ga'ue dugumîj nej nuguan' a'min rayi'ît ni, &brandShortName; nu na'nïn riña sitiô naj.">
+<!ENTITY certerror.introPara2 "&brandShortName; Nari'ij 'ngo sa yi'ì hia ni nu gan'an ne' ñaan ngà' <span class='hostname'/>. Si gatut riña sitiô nan ni, nej sa yi'ì dan ga'ue girij da'nga huì hua 'iát, si korreôt, asi si da'nga' si tarjetât sa nu san'anj an.">
 
 
 
