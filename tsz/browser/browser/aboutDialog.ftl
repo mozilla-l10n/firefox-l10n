@@ -13,7 +13,6 @@ update-applying = Iasi anapu ampe úrani jarhani…
 update-failed = No jatanhentasti. <label data-l10n-name="failed-link">Sánteru jimpanhe ma jirinhantsï</label>
 update-failed-main = No jatanhentasti. <a data-l10n-name="failed-link-main">Sánteru jimpanhe ma jirinhantsï</a>
 update-adminDisabled = Iasi anapu ampe enka no tsinharhitini jaka xanhatatirini jimpo
-update-noUpdatesFound = &brandSorthname; iasi anapu únskata jarhajti
 update-otherInstanceHandlingUpdates = { -brand-short-name } iasi anapu 'ukuatsati materu jasî anapu jimpo
 update-manual = Ixuri exeantauaka sánteru jimpanhechani <label data-l10n-name="manual-link"/>
 update-unsupported = Noteru úatiksi úkauni santeru iasi anapu ampeecha arini miiunharhitakuani jimpo. <label data-l10n-name="unsupported-link">Sánteru mítini</label>
