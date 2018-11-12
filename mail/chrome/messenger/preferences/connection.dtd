@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  connectionsDialog.title       "Setări pentru conexiune">
+<!ENTITY  connectionsDialog.title       "Setări privind conexiunea">
 <!ENTITY  window.width                  "49em">
 <!ENTITY  window.macWidth               "44em">
 
-<!ENTITY  proxyTitle.label              "Configurare de servere proxy pentru acces la internet">
+<!ENTITY  proxyTitle.label              "Configurează proxy-uri pentru accesul la internet">
 <!ENTITY  noProxyTypeRadio.label        "Fără proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "Folosește setările proxy ale sistemului">
@@ -42,8 +42,8 @@
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "Nu solicita autentificarea dacă parola este salvată">
 <!ENTITY  autologinproxy.accesskey      "i">
-<!ENTITY  autologinproxy.tooltip        "Această opțiune te autentifică automat la proxy-urile pentru care ai salvate date de autentificare. Ți se va cere o parolă dacă autentificarea eșuează.">
-<!ENTITY  socksRemoteDNS.label          "Proxează DNS când se folosește SOCKS v5">
+<!ENTITY  autologinproxy.tooltip        "Această opțiune te autentifică silențios la proxy-urile pentru care ai salvate date de autentificare. Îți va fi solicitată autentificarea dacă aceasta eșuează.">
+<!ENTITY  socksRemoteDNS.label          "Proxy DNS când folosești SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Activează DNS prin HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "z">
