@@ -297,6 +297,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Hizivaat al luskerioù enklask ent emgefreek
     .accesskey = H
+update-pref-write-failure-title = Fazi skrivañ
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = N'haller ket enrollañ ho kwellvezioù. N'haller ket skrivañ er restr: { $path }
 
 ## General Section - Performance
 

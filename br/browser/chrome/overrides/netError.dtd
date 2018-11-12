@@ -104,9 +104,9 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "Direizh eo ket bet kefluniet o lec'hienn wiad gant perc'henned <span class='hostname'/>. Kuit na vefe laeret ho stlennoù n'oc'h ket bet kennasket ouzh al lec'hienn-mañ gant &brandShortName;.">
 <!ENTITY certerror.introPara2 "Dinoet eo bet gant &brandShortName; ur arvar diogelroez ha n'eus ket kendalc'het etrezek <span class='hostname'/>. Ma weladennit al lec'hienn-mañ e c'hallo tagerien klask laerez ho titouroù evel gerioù-tremen, chomlec'hioù postel pe munudoù kartennoù kred.">
 
-<!ENTITY certerror.sts.introPara "Dinoet ez eus bet gant &brandShortName; un arvar diogelroez posupl ha n'en deus ket kendalc'het etrezek <span class='hostname'/> dre ma azgoulenn al lec'hienn-mañ ur c'hennask diogel.">
-
 <!ENTITY certerror.expiredCert.secondPara "Gallout a ra bezañ liammet ar gudenn-mañ gant eurier hoc'h urzhiataer. Un eur direizh a c'hall mirout &brandShortName; da genderc'hel en un doare diogel.">
+
+<!ENTITY certerror.sts.introPara "Dinoet ez eus bet gant &brandShortName; un arvar diogelroez posupl ha n'en deus ket kendalc'het etrezek <span class='hostname'/> dre ma azgoulenn al lec'hienn-mañ ur c'hennask diogel.">
 
 <!ENTITY certerror.expiredCert.introPara "Dinoet ez eus bet ur gudenn gant &brandShortName; ha n'en deus ket kendalc'het etrezek <span class='hostname'/>. Kefluniet eo fall al lec'hienn pe direizh eo eur hoc'h urzhiataer.">
 <!ENTITY certerror.expiredCert.secondPara2 "Moarvat eo diamzeret testeni al lec'hienn, ar pezh a vir &brandShortName; da gennaskañ en un doare diogel. Ma weladennit al lec'hienn e c'hallfe tagerien laerez titouroù evel ho kerioù-tremen, ho chomlec'hioù postel pe munudoù ho kartenn gred.">
@@ -174,3 +174,6 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Gallout a ra hoc'h arventennoù rouedad bezañ kaoz eus kement-se. Fellout a ra deoc'h assav an arventennoù dre ziouer?">
 <!ENTITY prefReset.label "Assav an arventennoù dre ziouer">
+
+<!ENTITY networkProtocolError.title "Fazi komenad rouedad">
+<!ENTITY networkProtocolError.longDesc "<p>N'haller ket dikouez ar pajennoù a glaskit sellet abalamour m'eo bet dinoet ur fazi er c'homenad rouedad.</p><ul><li>Kit e darempred gant perc'henned al lec'hienn evit o zitouriñ eus ar gudenn-mañ.</li></ul>">
