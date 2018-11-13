@@ -54,6 +54,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Excepcións - Protección contra o seguimento
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Desactivou a protección contra seguimentos nestes sitios web.
+permissions-exceptions-content-blocking-window =
+    .title = Excepcións - Bloqueo de contido
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Desactivou o bloqueo de contido nestes sitios web.
 
 ## Exceptions - Cookies
 
@@ -85,10 +89,10 @@ permissions-exceptions-addons-desc = Pode especificar que sitios web teñen perm
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Sitios web permitidos - Reprodución automática
+permissions-exceptions-autoplay-media-window2 =
+    .title = Excepcións - Reprodución automática
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Vostede pode especificar que sitios web teñen permiso para reproducir automaticamente elementos multimedia. Escriba o enderezo exacto do sitio que desexa autorizar e prema Permitir.
+permissions-exceptions-autoplay-media-desc2 = Pode especificar que sitios web teñen permiso para a reprodución automática e cales non. Escriba o enderezo do sitio que quere xestionar e prema Bloquear ou Permitir.
 
 ## Site Permissions - Notifications
 
@@ -98,7 +102,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = Os seguintes sitios web solicitaron enviarlle notificacións. Pode especificar que sitios teñen permiso para enviarlle notificacións. Tamén pode bloquear novas peticións de envío de notificacións.
 permissions-site-notification-disable-label =
     .label = Bloquear novas peticións de envío de notificacións
-permissions-site-notification-disable-desc = Isto evitará que os sitios web non listados arriba soliciten enviar notificacións. O bloqueo das notificacións pode impedir algunhas características das páxinas web. 
+permissions-site-notification-disable-desc = Isto evitará que os sitios web non listados arriba soliciten enviar notificacións. O bloqueo das notificacións pode impedir algunhas características das páxinas web.
 
 ## Site Permissions - Location
 
