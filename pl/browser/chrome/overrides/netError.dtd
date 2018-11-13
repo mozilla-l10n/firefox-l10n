@@ -70,6 +70,10 @@
 <!ENTITY certerror.sts.introPara "&brandShortName; wykrył potencjalne zagrożenie bezpieczeństwa i nie wczytał „<span class='hostname'/>”, ponieważ strona wymaga bezpiecznego połączenia.">
 
 <!ENTITY certerror.expiredCert.secondPara "Jest to prawdopodobnie spowodowane złym czasem zegara systemowego, co uniemożliwiałoby nawiązanie bezpiecznego połączenia.">
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; wykrył problem i nie wczytał „<span class='hostname'/>”. Witryna jest źle skonfigurowana lub zegar systemowy ma ustawioną nieprawidłową datę.">
+<!ENTITY certerror.expiredCert.secondPara2 "Certyfikat witryny prawdopodobnie wygasł, co uniemożliwia nawiązanie bezpiecznego połączenia. Jeśli otworzysz tę stronę, atakujący będą mogli przechwycić informacje takie jak hasła, wiadomości czy dane kart płatniczych.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Certyfikat witryny prawdopodobnie wygasł, co uniemożliwia nawiązanie bezpiecznego połączenia.">
+
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Co zrobić w takim przypadku?">
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania.</p><p>Jeśli połączono poprzez sieć korporacyjną lub używasz oprogramowania antywirusowego, możesz spróbować skontaktować się z zespołem wsparcia. Możesz również powiadomić administratora strony o problemie.</p>">
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt "<p>Zegar systemowy jest ustawiony na <span id='wrongSystemTime_systemDate'/>. Upewnij się, że urządzenie ma ustawioną prawidłową datę, czas i strefę czasową w ustawieniach systemowych. Następnie spróbuj otworzyć witrynę „<span class='hostname'/>” ponownie.</p><p>Jeśli wskazania zegara systemowego są prawidłowe, to problem leży prawdopodobnie po stronie witryny i nie masz możliwości jego rozwiązania. Możesz powiadomić administratora strony o problemie.</p>">
