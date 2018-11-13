@@ -174,3 +174,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Alap beállítások visszaállítása">
 
 <!ENTITY networkProtocolError.title "Hálózati protokoll hiba">
+<!ENTITY networkProtocolError.longDesc "<p>A megtekinteni kívánt oldal nem jeleníthető meg, mert hiba észlelhető a hálózati protokollban.</p><ul><li>Lépjen kapcsolatba a webhely tulajdonosaival, hogy tájékoztassa őket a problémáról.</li></ul>">
