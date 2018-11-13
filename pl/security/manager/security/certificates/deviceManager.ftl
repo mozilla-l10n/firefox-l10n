@@ -26,6 +26,9 @@ devmgr-button-changepw =
 devmgr-button-load =
     .label = Wczytaj
     .accesskey = c
+devmgr-button-unload =
+    .label = Usuń z pamięci
+    .accesskey = U
 devmgr-button-enable-fips =
     .label = Włącz FIPS
     .accesskey = F
@@ -46,6 +49,9 @@ load-device-modname-default =
 load-device-filename =
     .value = Nazwa pliku modułu:
     .accesskey = N
+load-device-browse =
+    .label = Przeglądaj…
+    .accesskey = P
 
 ## Token Manager
 
