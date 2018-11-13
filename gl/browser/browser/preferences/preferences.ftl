@@ -51,6 +51,7 @@ pane-sync-title = Conta Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Asistencia do { -brand-short-name }
+addons-button-label = Extensións e temas
 focus-search =
     .key = f
 close-button =
@@ -81,6 +82,9 @@ extension-controlled-homepage-override = Unha extensión, <img data-l10n-name="i
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Unha extensión, <img data-l10n-name="icon"/> { $name }, controla a páxina «Nova lapela».
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Unha extensión, <img data-l10n-name="icon"/> { $name }, controla esta configuración.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Unha extensión, <img data-l10n-name="icon"/> { $name }, estabeleceu o buscador predeterminado.
@@ -90,6 +94,9 @@ extension-controlled-privacy-containers = Unha extensión, <img data-l10n-name="
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Unha extesnión, <img data-l10n-name="icon"/> { $name }, controla a protección contra seguimento.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Unha extensión, <img data-l10n-name="icon"/> { $name }, controla esta configuración.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Unha extensión, <img data-l10n-name="icon"/> { $name }, controla como { -brand-short-name } se conecta a Internet.
@@ -315,7 +322,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy de rede
 network-proxy-connection-description = Configurar o modo en que { -brand-short-name } se conecta á Internet.
 network-proxy-connection-learn-more = Obter máis información
 network-proxy-connection-settings =
@@ -554,9 +560,6 @@ history-dontremember-description = { -brand-short-name } usará a mesma configur
 history-private-browsing-permanent =
     .label = Usar sempre o modo de navegación privada
     .accesskey = p
-history-remember-option =
-    .label = Lembrar o meu historial de navegación e descargas
-    .accesskey = b
 history-remember-browser-option =
     .label = Lembrar o historial de navegación e descargas
     .accesskey = b
@@ -582,26 +585,12 @@ sitedata-total-size-calculating = Calculando o tamaño dos datos do sitio e da c
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = As cookies, datos dos sitios e a caché almacenados usan actualmente { $value }{ $unit } de espazo no disco.
 sitedata-learn-more = Máis información
-sitedata-accept-cookies-option =
-    .label = Aceptar as cookies e os datos dos sitios web (recomendado)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Bloquear as cookies e os datos dos sitios web (pode facer que non funcionen)
-    .accesskey = B
 sitedata-keep-until = Manter ata
     .accesskey = t
 sitedata-keep-until-expire =
     .label = Que caduquen
 sitedata-keep-until-closed =
     .label = Pechar { -brand-short-name }
-sitedata-accept-third-party-desc = Aceptar as cookies de terceiros e os datos  do sitio
-    .accesskey = k
-sitedata-accept-third-party-always-option =
-    .label = Sempre
-sitedata-accept-third-party-visited-option =
-    .label = Dos visitados
-sitedata-accept-third-party-never-option =
-    .label = Nunca
 sitedata-clear =
     .label = Borrar datos...
     .accesskey = B
@@ -627,6 +616,9 @@ addressbar-locbar-openpage-option =
     .accesskey = b
 addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxestións do buscador
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 tracking-header = Protección contra o seguimento
@@ -641,10 +633,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nunca
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Usar a protección contra o seguimento na navegación privada para bloquear os elementos de seguimento coñecidos
-    .accesskey = v
 tracking-exceptions =
     .label = Excepcións...
     .accesskey = x
