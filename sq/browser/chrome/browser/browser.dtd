@@ -1070,6 +1070,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "b">
 <!ENTITY trackingProtection.block5.label "Aktivizoje Bllokimin Për Këtë Sajt">
 <!ENTITY trackingProtection.block5.accesskey "A">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Çaktivizoje bllokimin për këtë sajt">
+<!ENTITY trackingProtection.unblock5.accesskey "Ç">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Çaktivizo përkohësisht bllokimin">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "Ç">
+<!ENTITY trackingProtection.block6.label "Aktivizoje bllokimin për këtë sajt">
+<!ENTITY trackingProtection.block6.accesskey "Ç">
 <!ENTITY trackingProtection.reload2.label "Ringarkoje Faqen">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 

@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Provojeni Që Tani
+onboarding-button-label-get-started = Fillojani
 onboarding-welcome-header = Mirë se vini te { -brand-short-name }
 onboarding-start-browsing-button-label = Filloni të Shfletoni
 
@@ -24,3 +25,6 @@ onboarding-addons-title = Shtesa
 onboarding-addons-text = Shtojini madje edhe më tepër veçori që e bëjnë { -brand-short-name } të punojë më fort për ju. Krahasoni çmime, shihni motin ose shprehni personalitetin tuaj me një temë grafike të përshtatur.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Shfletoni më shpejt, me më mençuri, ose me më siguri, përmes zgjerimesh të tillë si Ghostery, që ju lejon të bllokoni reklama të bezdishme.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Njëkohësoni
+onboarding-fxa-text = Regjistrohuni për një  { -fxaccount-brand-name } dhe njëkohësoni fjalëkalimet tuaj, faqerojtësit dhe skedat e hapura nga kudo që përdorni { -brand-short-name }.

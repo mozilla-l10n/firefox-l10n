@@ -850,3 +850,7 @@ certs-view =
 certs-devices =
     .label = Pajisje Sigurie…
     .accesskey = P
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Ruaji kartelat te { $service-name }
