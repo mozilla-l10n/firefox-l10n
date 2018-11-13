@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = 语言和字符编码
-    .style = width: 30em
 webpage-languages-window =
     .title = 网页语言设置
     .style = width: 40em
@@ -51,8 +48,8 @@ browser-languages-searching =
 browser-languages-downloading =
     .label = 正在下载…
 browser-languages-select-language =
-    .label = 选择一个要添加的语言…
-    .placeholder = 选择一个要添加的语言…
+    .label = 选择要添加的语言…
+    .placeholder = 选择要添加的语言…
 browser-languages-installed-label = 已安装的语言
 browser-languages-available-label = 可用的语言
 browser-languages-error = { -brand-short-name } 目前无法更新您的语言。请检查您是否已连接到互联网，然后重试。
