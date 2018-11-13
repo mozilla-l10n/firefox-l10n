@@ -30,3 +30,5 @@ helpus = Quere axudar?<label data-l10n-name="helpus-donateLink">Faga unha doazó
 bottomLinks-license = Información de licenciamento
 bottomLinks-rights = Dereitos do usuario final
 bottomLinks-privacy = Política de privacidade
+aboutDialog-architecture-sixtyFourBit = 64 bits
+aboutDialog-architecture-thirtyTwoBit = 32 bits

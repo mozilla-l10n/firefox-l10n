@@ -4,3 +4,6 @@
 
 restart-required-title = Precisa reiniciar
 restart-required-header = Desculpe. Precisamos facer unha pequena cousa para continuar.
+restart-required-intro = Instalamos unha actualización en segundo plano. Prema reiniciar { -brand-short-name } para que se aplique.
+restart-required-description = Despois restabeleceremos todas as súas páxinas, xanelas e lapelas para que poida continuar co seu axiña.
+restart-button-label = Reiniciar { -brand-short-name }
