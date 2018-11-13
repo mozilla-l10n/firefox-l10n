@@ -1075,6 +1075,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock5.label "Sens asewḥel n ugbur i yesmal-agi">
+<!ENTITY trackingProtection.unblock5.accesskey "Y">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->

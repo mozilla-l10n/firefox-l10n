@@ -173,3 +173,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Err-d iɣewwaṛen imezwar">
 
 <!ENTITY networkProtocolError.title "Tuccḍa deg uneggaf n uẓeṭṭa">
+<!ENTITY networkProtocolError.longDesc "<p>Asebter amiran aniɣer i tetteɛraḍeḍ ad tkecmeḍ ur yezmir ara ad d-iban, acku tuccḍa n uneggaf n uẓeṭṭa teḍra-d.</p><ul><li>Nermes bab n usmel web akken ad iẓeṛ ugur-a.</li></ul>">
