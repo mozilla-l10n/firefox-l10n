@@ -1074,9 +1074,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Blokkolás kikapcsolása ezen a webhelyen">
+<!ENTITY trackingProtection.unblock5.accesskey "B">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Blokkolás ideiglenes kikapcsolása">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "B">
+<!ENTITY trackingProtection.block6.label "Blokkolás bekapcsolása ezen a webhelyen">
+<!ENTITY trackingProtection.block6.accesskey "B">
 <!ENTITY trackingProtection.reload2.label "Lap újratöltése">
 <!ENTITY trackingProtection.reload2.accesskey "r">
 
