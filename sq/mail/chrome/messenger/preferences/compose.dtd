@@ -20,6 +20,10 @@
 <!ENTITY font.accesskey                       "S">
 <!ENTITY size.label                           "Madhësi:">
 <!ENTITY size.accesskey                       "a">
+<!ENTITY fontSize.label                       "Madhësi:">
+<!ENTITY fontSize.accesskey                   "M">
+<!ENTITY useReaderDefaults.label              "Përdor ngjyrat parazgjedhje të lexuesit">
+<!ENTITY useReaderDefaults.accesskey          "p">
 <!ENTITY fontColor.label                      "Ngjyrë Teksti:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Ngjyrë Sfondi:">
