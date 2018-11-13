@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Figyelmeztetés több lap bezárása előtt
     .accesskey = t
+warn-on-quit-close-multiple-tabs =
+    .label = Figyelmeztetés kilépéskor és több lap bezárása előtt
+    .accesskey = t
 warn-on-open-many-tabs =
     .label = Figyelmeztetés, hogy több lap megnyitása lelassíthatja a { -brand-short-name } programot
     .accesskey = F
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Keresőszolgáltatások automatikus frissítése
     .accesskey = u
+update-pref-write-failure-title = Írási hiba
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Nem lehet menteni a beállításokat. Nem lehet a fájlba írni: { $path }
 
 ## General Section - Performance
 
