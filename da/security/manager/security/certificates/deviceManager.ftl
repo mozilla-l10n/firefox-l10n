@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Enhedsadministration
+    .style = width: 57em; height: 25em;
 devmgr-button-enable-fips =
     .label = Aktiver FIPS
     .accesskey = F
@@ -49,4 +52,5 @@ devinfo-serialnum =
 fips-nonempty-password-required = FIPS-tilstand kræver at der er angivet en hovedadgangskode for hver sikkerhedsenhed. Opret en adgangskode før du skifter til FIPS-tilstand.
 unable-to-toggle-fips = Kunne ikke skifte FIPS-tilstand med sikkerhedsenheden. Det anbefales at du afslutter og genstarter dette program.
 add-module-failure = Kunne ikke tilføje modulet
+del-module-warning = Er du sikker på, at du vil slette dette sikkerhedsmodul?
 del-module-error = Kunne ikke slette modulet
