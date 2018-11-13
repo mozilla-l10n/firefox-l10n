@@ -64,3 +64,6 @@ devinfo-label =
     .label = Etykieta
 devinfo-serialnum =
     .label = Numer seryjny
+add-module-failure = Nie można dodać modułu
+del-module-warning = Czy na pewno usunąć wybrany moduł szyfrujący?
+del-module-error = Nie można usunąć modułu
