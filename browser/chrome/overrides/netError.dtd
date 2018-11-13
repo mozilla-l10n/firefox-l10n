@@ -217,3 +217,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Выглядае, што выклікаць гэта маглі вашы налады сеткавай бяспекі. Хочаце скінуць налады да прадвызначаных?">
 <!ENTITY prefReset.label "Скінуць да прадвызначаных">
+
+<!ENTITY networkProtocolError.title "Памылка сеткавага пратаколу">
