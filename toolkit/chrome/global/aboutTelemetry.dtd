@@ -24,9 +24,6 @@ Ping
 <!ENTITY aboutTelemetry.optionGroupToday "Sot">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Dje">
 <!ENTITY aboutTelemetry.optionGroupOlder "Më të vjetër">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Ngarkesë
-">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -38,6 +35,8 @@ Ping
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Dokumentimi i të Dhënave të Firefox-it</a> përmban udhërrëfyes se si të punohet me mjetet tona për të dhënat.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Dokumentimi i klientit të Firefox Telemetry-së</a> përfshin përkufizime për koncepte, dokumentim të API-t dhe referenca të dhënash.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Pultet e Telemetry-së</a> ju lejojnë të vizualizoni të dhënat që Mozilla merr përmes Telemetry-së.">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Fjalori i Mostrave</a> furnizon hollësi dhe përshkrime të mostrave të grumbulluara nga Telemetry-a.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Hape në parësin JSON">
 
@@ -69,14 +68,8 @@ Ping
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Matje të Thjeshta
 ">
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Regjistër Telemetry-e
-">
 <!ENTITY aboutTelemetry.slowSqlSection "
   Deklarime SQL të Ngadalta
-">
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Ngecje Shfletuesi
 ">
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Hollësi Shtese
