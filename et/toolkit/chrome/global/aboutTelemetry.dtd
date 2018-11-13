@@ -32,9 +32,6 @@ Eile
 <!ENTITY aboutTelemetry.optionGroupOlder "
 Vanem
 ">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "
-  Last
-">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -54,6 +51,8 @@ Soovid näha rohkem teavet?
 <!ENTITY aboutTelemetry.telemetryDashboard "
 <a>Telemeetria koondpaneelid</a> võimaldavad sul visualiseerida neid andmeid, mida Mozilla telemeetria kaudu vastu võtab.
 ">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "The <a>Probe Dictionary</a> provides details and descriptions for the probes collected by Telemetry.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "
 Ava JSONi vaatajas
@@ -87,14 +86,8 @@ Ava JSONi vaatajas
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Lihtsad mõõdistused
 ">
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Telemeetria logi
-">
 <!ENTITY aboutTelemetry.slowSqlSection "
   Aeglased SQL-päringud
-">
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Brauseri hangumised
 ">
 <!ENTITY aboutTelemetry.addonDetailsSection "
   Lisade üksikasjad
