@@ -1070,6 +1070,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "A">
 <!ENTITY trackingProtection.block5.label "Luba blokkimine sellel saidil">
 <!ENTITY trackingProtection.block5.accesskey "L">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Lülita blokkimine sellel saidil välja">
+<!ENTITY trackingProtection.unblock5.accesskey "b">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Lülita blokkimine ajutiselt välja">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "b">
+<!ENTITY trackingProtection.block6.label "Lülita blokkimine sellel saidil sisse">
+<!ENTITY trackingProtection.block6.accesskey "b">
 <!ENTITY trackingProtection.reload2.label "Laadi leht uuesti">
 <!ENTITY trackingProtection.reload2.accesskey "u">
 

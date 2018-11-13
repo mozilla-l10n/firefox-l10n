@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Hoiatus, kui suletakse mitu kaarti korraga
     .accesskey = H
+warn-on-quit-close-multiple-tabs =
+    .label = Hoiatus, kui rakendusest väljumisel suletakse mitu kaarti
+    .accesskey = H
 warn-on-open-many-tabs =
     .label = Hoiatus, kui mitme kaardi avamine võib aeglustada { -brand-short-name }i tööd
     .accesskey = i
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Otsingumootoreid uuendatakse automaatselt
     .accesskey = O
+update-pref-write-failure-title = Viga kirjutamisel
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Sätete salvestamine polnud võimalik. Järgmisse faili polnud võimalik kirjutada: { $path }
 
 ## General Section - Performance
 
