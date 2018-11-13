@@ -106,3 +106,6 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utilitza una tecnologia de seguretat obsoleta i vulnerable a atacs. Un atacant podria veure fàcilment la informació que altrament pensaríeu que és segura. Per tal que pugueu visitar el lloc, abans l'administrador del lloc web haurà d'arreglar el servidor.</p><p>Codi d'error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pàgina blocada">
+
+<!ENTITY networkProtocolError.title "Error del protocol de xarxa">
+<!ENTITY networkProtocolError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error en el protocol de xarxa.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">

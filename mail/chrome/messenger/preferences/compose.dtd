@@ -20,6 +20,8 @@
 <!ENTITY font.accesskey                       "l">
 <!ENTITY size.label                           "Mida:">
 <!ENTITY size.accesskey                       "M">
+<!ENTITY fontSize.label                       "Mida:">
+<!ENTITY fontSize.accesskey                   "M">
 <!ENTITY fontColor.label                      "Color del text:">
 <!ENTITY fontColor.accesskey                  "x">
 <!ENTITY bgColor.label                        "Color del fons:">
