@@ -11,6 +11,7 @@ cfr-doorhanger-extension-cancel-button=Nie teraz
   .accesskey=N
 cfr-doorhanger-extension-ok-button=Dodaj
   .accesskey=D
+cfr-doorhanger-extension-mange-settings-button=Ustawienia polecania
 cfr-doorhanger-extension-learn-more-link=Więcej informacji
 
 cfr-doorhanger-extension-author=Autor: { $name }
@@ -20,15 +21,15 @@ cfr-doorhanger-extension-notification=Polecenie
 cfr-doorhanger-extension-rating=
   .tooltiptext=
     { $total ->
-       [one] { $total } gwiazdka
-       [few] { $total } gwiazdki
-       [many] { $total } gwiazdek
+      [one] { $total } gwiazdka
+      [few] { $total } gwiazdki
+      [many] { $total } gwiazdek
       *[other] { $total } gwiazdki
     }
 cfr-doorhanger-extension-total-users=
   { $total ->
-     [one] { $total } użytkownik
-     [few] { $total } użytkowników
-     [many] { $total } użytkowników
+    [one] { $total } użytkownik
+    [few] { $total } użytkowników
+    [many] { $total } użytkowników
     *[other] { $total } użytkowników
   }
