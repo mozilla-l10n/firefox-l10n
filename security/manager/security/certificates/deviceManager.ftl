@@ -13,6 +13,8 @@
 
 devinfo-status =
     .label = Estado
+devinfo-status-disabled =
+    .label = Desativado
 devinfo-status-not-present =
     .label = Não presente
 devinfo-status-uninitialized =
@@ -35,6 +37,7 @@ devinfo-modname =
     .label = Módulo
 devinfo-modpath =
     .label = Caminho
+login-failed = Falha de autenticação
 devinfo-label =
     .label = Etiqueta
 devinfo-serialnum =
