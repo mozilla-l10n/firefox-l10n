@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Ierīču pārvaldnieks
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Drošības moduļi un ierīces
 devmgr-header-details =
@@ -35,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Ielādēt PKCS#11 ierīci
 load-device-info = Ievadiet informāciju par moduli, ko vēlaties pievienot.
+load-device-modname =
+    .value = Moduļa nosaukums
+    .accesskey = M
 load-device-modname-default =
     .value = Jauns PKCS#11 modulis
+load-device-filename =
+    .value = Moduļa faila nosaukums
+    .accesskey = f
 load-device-browse =
     .label = Pārlūkot...
     .accesskey = P
@@ -77,6 +88,13 @@ devinfo-serialnum =
     .label = Sērijas numurs
 fips-nonempty-password-required = FIPS režīms pieprasa, ka katrai drošības ierīcei ir iestatīta galvenā parole. Pirms ieslēgt FIPS režīmu, lūdzu, iestatiet paroli.
 unable-to-toggle-fips = Nevar pārslēgt FIPS režīmu drošības ierīcei. Iesakām aizvērt un pārstartēt programmu.
+load-pk11-module-file-picker-title = Izvēlieties ielādējamo PKCS#11 ierīci
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Moduļa nosaukums nevar būt tukšs.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ ir rezervēts vārds un nevar tikt izmantots kā moduļa nosaukums.
 add-module-failure = Nevar pievienot moduli
 del-module-warning = Vai jūs esat pārliecināts, ka vēlaties izdzēst šo drošības moduli?
 del-module-error = Nevar izdzēst moduli
