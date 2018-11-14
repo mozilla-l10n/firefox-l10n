@@ -68,6 +68,8 @@ item-offline-apps =
     .label = Oflayn Websayt Məlumatları
     .accesskey = O
 sanitize-everything-undo-warning = Bu əməliyyat geri qaytrıla bilməz.
+window-close =
+    .key = w
 sanitize-button-ok =
     .label = İndi təmizlə
 # The label for the default button between the user clicking it and the window
