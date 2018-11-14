@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = မှတ်တမ်း ရှင်းလင်းရန် အပြင်အဆင်များ
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -31,9 +36,15 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = မှတ်တမ်း
+item-history-and-downloads =
+    .label = B​ အင်တာနက်ရှာဖွေသုံးဆွဲခြင်း နှင့် ဒေါင်းလုဒ်ရယူခြင်းမှတ်တမ်း
+    .accesskey = B
 item-cookies =
     .label = Cကွတ်ကီးများ
     .accesskey = C
+item-form-search-history =
+    .label = (F)ဖြည့်စွတ်ပုံစံ & ရှာဖွေရေး မှတ်တမ်း
+    .accesskey = F
 data-section-label = အချက်အလက်ကြမ်း
 item-site-preferences =
     .label = ကွန်ရက် ဦးစားပေးအချက်များ
