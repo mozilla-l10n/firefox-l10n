@@ -11,6 +11,14 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-value-last-hour =
+    .label = క్రిందటి గంట
+clear-time-duration-value-last-2-hours =
+    .label = క్రిందటి రెండు గంటలు
+clear-time-duration-value-last-4-hours =
+    .label = క్రిందటి నాలుగు గంటలు
+clear-time-duration-value-everything =
+    .label = అన్నీ
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
