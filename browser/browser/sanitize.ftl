@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Обриши сав историјат
     .style = width: 34em
+clear-data-settings-label = Када се затвори, { -brand-short-name } би требало аутоматски да обрише све
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
