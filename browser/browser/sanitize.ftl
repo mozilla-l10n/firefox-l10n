@@ -17,3 +17,13 @@
 
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = Vymazat
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Celá historie bude vymazána.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = Zvolené položky budou vymazány.
