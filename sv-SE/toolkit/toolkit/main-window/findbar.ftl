@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Markera alla
     .accesskey = M
     .tooltiptext = Markera alla förekomster av frasen
+findbar-highlight-all2 =
+    .label = Markera alla
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = Markera alla förekomster av frasen
 findbar-case-sensitive =
     .label = Matcha VERSALER/gemener
     .accesskey = c
