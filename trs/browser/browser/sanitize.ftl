@@ -17,3 +17,5 @@ clear-time-duration-suffix =
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+window-close =
+    .key = w
