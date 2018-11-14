@@ -89,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = FIPS режимі сізде әр қауіпсіздік құрылғысына мастер-парольді орнатуды керек етеді. FIPS режимін қосі алдында парольдерді орнатыңыз.
 unable-to-toggle-fips = Қауіпсіздік құрылғысы үшін FIPS режимін өзгерту мүмкін емес. Бұл қолданба жұмысын аяқтап, оны қайта қосу ұсынылады.
 load-pk11-module-file-picker-title = Жүктеу үшін PKCS#11 құрылғы драйверін таңдау
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Модуль аты бос болмауы тиіс.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = "Root Certs" резервтелген және оны модуль аты ретінде қолдану мүмкін емес.
 add-module-failure = Модуль қосқанда қате кетті
 del-module-warning = Осы қорғаныс модулін өшіруді шынымен қалайсыз ба?
 del-module-error = Модульді өшіру мүмкін емес
