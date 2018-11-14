@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Upravitelj naprav
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Varnostni moduli in naprave
 devmgr-header-details =
