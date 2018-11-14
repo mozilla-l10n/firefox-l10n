@@ -30,3 +30,9 @@ item-cookies =
     .label = Kuki
     .accesskey = C
 data-section-label = Data
+sanitize-button-ok =
+    .label = Peugléh Jinoë
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = Meupeugléh
