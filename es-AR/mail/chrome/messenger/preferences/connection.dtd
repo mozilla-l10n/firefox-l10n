@@ -52,3 +52,7 @@
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL para resolver DNS por sobre HTTPS">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "Usar la predeterminada">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Usar la URL predeterminada para resolver que DNS tiene prioridad sobre HTTPS">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Personalizada">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Ingrese su URL preferida para resolver que DNS tiene prioridad sobre HTTPS">
