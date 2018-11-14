@@ -44,9 +44,15 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Stair
+item-history-and-downloads =
+    .label = Stair Bhrabhsála agus Íoslódála
+    .accesskey = B
 item-cookies =
     .label = Fianáin
     .accesskey = F
+item-active-logins =
+    .label = Seisiúin Ghníomhacha
+    .accesskey = S
 item-cache =
     .label = Taisce
     .accesskey = a
