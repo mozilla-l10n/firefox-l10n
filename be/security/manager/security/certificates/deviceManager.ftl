@@ -5,6 +5,11 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Дыспетчар прылад
+    .style = width: 67em; height: 32em;
+devmgr-devlist =
+    .label = Модулі і прылады бяспекі
 devmgr-header-details =
     .label = Падрабязнасці
 devmgr-header-value =
@@ -30,6 +35,8 @@ devmgr-button-enable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Загрузка драйвера прылады PKCS#11
 load-device-info = Увядзіце звесткі пра модуль, які вы хочаце дадаць.
 load-device-modname-default =
     .value = Новы модуль PKCS#11
@@ -70,6 +77,9 @@ devinfo-label =
     .label = Метка
 devinfo-serialnum =
     .label = Серыйны нумар
+fips-nonempty-password-required = У рэжыме FIPS патрабуецца, каб галоўны пароль быў прызначаны для кожнай прылады бяспекі. Прызначце, калі ласка, пароль, перш чым уключыць рэжым FIPS.
+unable-to-toggle-fips = Немагчыма змяніць рэжым FIPS для прылады бяспекі. Вам рэкамендуецца выйсці і перазапусціць гэту праграму.
+load-pk11-module-file-picker-title = Выберыце драйвер прылады PKCS#11 для загрузкі
 add-module-failure = Немагчыма дадаць модуль
 del-module-warning = Вы сапраўды хочаце выдаліць гэты модуль бяспекі?
 del-module-error = Немагчыма выдаліць модуль
