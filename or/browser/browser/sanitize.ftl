@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs-style =
+    .style = width: 17em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -31,6 +33,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = ପୁରୁଣା ତଥ୍ୟ
+item-history-and-downloads =
+    .label = ବ୍ରାଉଜିଙ୍ଗ ଏବଂ ଆହରଣ ପୁରୁଣା ତଥ୍ୟ
+    .accesskey = B
 item-cookies =
     .label = କୁକିଗୁଡ଼ିକ (C)
     .accesskey = C
@@ -40,6 +45,9 @@ item-active-logins =
 item-cache =
     .label = କ୍ୟାଶେ (a)
     .accesskey = a
+item-form-search-history =
+    .label = ଫର୍ମ  ଏବଂ ସନ୍ଧାନ ପୁରୁଣା ତଥ୍ୟ
+    .accesskey = F
 data-section-label = ତଥ୍ୟ
 item-site-preferences =
     .label = ସାଇଟ ପସନ୍ଦଗୁଡ଼ିକ
