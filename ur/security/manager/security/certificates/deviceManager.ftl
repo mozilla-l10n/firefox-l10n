@@ -38,6 +38,9 @@ devmgr-button-disable-fips =
 load-device-info = ماڈیول کے لئے جو معلومات آپ شامل کرنا چاہتے ہیں، داخل کریں۔
 load-device-modname-default =
     .value = نیا PKCS#11 ماڈیول
+load-device-browse =
+    .label = براؤز کریں…
+    .accesskey = B
 
 ## Token Manager
 
