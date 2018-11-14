@@ -23,15 +23,32 @@ devmgr-button-logout =
 devmgr-button-changepw =
     .label = שינוי ססמה
     .accesskey = ס
+devmgr-button-load =
+    .label = טעינה
+    .accesskey = ט
 devmgr-button-unload =
     .label = פריקה
     .accesskey = פ
+devmgr-button-enable-fips =
+    .label = הפעלת FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = השבתת FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device =
+    .title = טעינת מנהל התקן PKCS#11
 load-device-info = נא להכניס את המידע עבור המודול שברצונך להוסיף.
+load-device-modname =
+    .value = שם המודול
+    .accesskey = ש
 load-device-modname-default =
     .value = מודול PKCS#11 חדש
+load-device-filename =
+    .value = שם קובץ המודול
+    .accesskey = ק
 load-device-browse =
     .label = עיון…
     .accesskey = ע
@@ -69,6 +86,15 @@ devinfo-label =
     .label = תווית
 devinfo-serialnum =
     .label = מספר סידורי
+fips-nonempty-password-required = מצב FIPS דורש שתהיה לך ססמה ראשית עבור כל התקן אבטחה. נא להגדיר ססמה לפני ניסיון הפעלת מצב FIPS.
+unable-to-toggle-fips = לא ניתן לשנות את מצב ה־FIPS עבור התקן האבטחה. מומלץ לצאת ולהפעיל יישום זה מחדש.
+load-pk11-module-file-picker-title = נא לבחור במנהל התקן PKCS#11 לטעינה
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = שם המודול לא יכול להיות ריק.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ הוא שם שמור ואין אפשרות להשתמש בו בתור שם המודול.
 add-module-failure = לא ניתן להוסיף מודול
 del-module-warning = האם ברצונך למחוק מודול אבטחה זה?
 del-module-error = לא ניתן למחוק מודול
