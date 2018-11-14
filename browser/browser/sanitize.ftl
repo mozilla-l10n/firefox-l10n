@@ -44,6 +44,10 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = இப்போது துடை
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = அழிக்கிறது
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
