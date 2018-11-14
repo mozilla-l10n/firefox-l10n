@@ -29,8 +29,26 @@ clear-time-duration-value-everything =
 ## to select the items to remove
 
 history-section-label = வரலாறு
+item-active-logins =
+    .label = செயலிலுள்ள புகுபதிவுகள்
+    .accesskey = L
 data-section-label = தரவு
 item-site-preferences =
     .label = இணைய தள முன்னுரிமைகள்
     .accesskey = S
+item-offline-apps =
+    .label = இணைப்பில்லாத இணையதள தரவு
+    .accesskey = O
 sanitize-everything-undo-warning = இந்த செயல் மறைக்க முடியாது.
+window-close =
+    .key = w
+sanitize-button-ok =
+    .label = இப்போது துடை
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = அனைத்து வரலாறும் துடைக்கப்படும்.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = அனைத்து தேர்ந்தெடுக்கப்பட்ட உருப்படிகளும் துடைக்கப்படும்.
