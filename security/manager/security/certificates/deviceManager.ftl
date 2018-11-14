@@ -5,9 +5,39 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = பாதுகாப்பு பகுதிகள் மற்றும் சாதனங்கள்
+devmgr-header-details =
+    .label = விளக்கங்கள்
+devmgr-header-value =
+    .label = மதிப்பு
+devmgr-button-logout =
+    .label = வெளியேறு
+    .accesskey = O
+devmgr-button-changepw =
+    .label = கடவுச்சொல்லை மாற்று
+    .accesskey = P
+devmgr-button-load =
+    .label = ஏற்று
+    .accesskey = L
+devmgr-button-unload =
+    .label = இறக்கு
+    .accesskey = U
+devmgr-button-enable-fips =
+    .label = FIPSஐ செயல்படுத்து
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = FIPSஐ செயல்நீக்கு
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-info = சேர்க்க விரும்பும் பகுதி பற்றிய தகவலை உள்ளிடவும்.
+load-device-modname-default =
+    .value = புதிய PKCS#11 பகுதி
+load-device-browse =
+    .label = உலாவு...
+    .accesskey = B
 
 ## Token Manager
 
@@ -43,5 +73,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = வரிசை எண்
 fips-nonempty-password-required = FIPS mode requires that you have a Master Password set for  each security device. Please set the password before trying to enable FIPS mode.
+unable-to-toggle-fips = Unable to change the FIPS mode for the security device.  It is recommended that you exit and restart this application.
 add-module-failure = தொகுதியை சேர்க்க முடியவில்லை
+del-module-warning = இந்த பாதுகாப்பு தொகுதியை அழிக்க வேண்டுமா?
 del-module-error = தொகுதியை அழிக்க முடியவில்லை
