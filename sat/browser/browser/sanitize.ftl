@@ -1,0 +1,58 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## clear-time-duration-prefix is followed by a dropdown list, with
+## values localized using clear-time-duration-value-* messages.
+## clear-time-duration-suffix is left empty in English, but can be
+## used in other languages to change the structure of the message.
+##
+## This results in English:
+## Time range to clear: (Last Hour, Today, etc.)
+
+clear-time-duration-prefix =
+    .value = फा़रचा ला़गित् ओकतो पासनाव: (T){ " " }
+    .accesskey = T
+clear-time-duration-value-last-hour =
+    .label = मुचा़त् पुन टाड़ाङ
+clear-time-duration-value-last-2-hours =
+    .label = मुचा़त्  बार टाड़ाङ
+clear-time-duration-value-last-4-hours =
+    .label = मुचा़त् पुन टाड़ाङ
+clear-time-duration-value-today =
+    .label = तेहेञ
+clear-time-duration-value-everything =
+    .label = जोतोवाक्
+clear-time-duration-suffix =
+    .value = { "" }
+
+## These strings are used as section comments and checkboxes
+## to select the items to remove
+
+history-section-label = हिता़ल
+item-history-and-downloads =
+    .label = ब्राउजिंग हिता़ल आ़तुर आंड़गो  (B)
+    .accesskey = B
+item-cookies =
+    .label = { " " }कुकी को (C)
+    .accesskey = C
+item-active-logins =
+    .label = चोगोड़ लोगिन को (L)
+    .accesskey = L
+item-cache =
+    .label = साब (a)
+    .accesskey = a
+item-form-search-history =
+    .label = { " " }फोर्म पानते हिता़ल (F)
+    .accesskey = F
+data-section-label = डाटा
+item-site-preferences =
+    .label = साइट कुसियाक् को  (S)
+    .accesskey = S
+item-offline-apps =
+    .label = ऑफलाइन वेबसाइट डाटा (O)
+    .accesskey = O
+sanitize-everything-undo-warning = नोवा का़मी सा़त बाङ दाड़ेयाक् आ .
+window-close =
+    .key = w
