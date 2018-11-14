@@ -20,6 +20,9 @@ clear-time-duration-value-everything =
 ## to select the items to remove
 
 history-section-label = Hanes
+item-history-and-downloads =
+    .label = Hanes Pori a Llwytho i Lawr
+    .accesskey = H
 item-cookies =
     .label = Cwcis
     .accesskey = w
@@ -33,6 +36,9 @@ item-form-search-history =
     .label = Hanes Ffurflenni a Chwilio
     .accesskey = F
 data-section-label = Data
+item-site-preferences =
+    .label = Dewisiadau'r Wefan
+    .accesskey = D
 sanitize-everything-undo-warning = Nid oes modd dadwneud y weithred.
 window-close =
     .key = w
