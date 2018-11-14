@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Supprimer tout l’historique
     .style = width: 34em
+clear-data-settings-label = À la fermeture de { -brand-short-name }, supprimer automatiquement les éléments suivants
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -63,6 +64,9 @@ data-section-label = Données
 item-site-preferences =
     .label = Préférences de site
     .accesskey = P
+item-offline-apps =
+    .label = Données de sites web hors connexion
+    .accesskey = W
 sanitize-everything-undo-warning = Cette action est irréversible.
 window-close =
     .key = w
