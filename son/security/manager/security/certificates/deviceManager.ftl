@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Jinay juwalkaw
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Saajaw nda jinay dunbey
 devmgr-header-details =
