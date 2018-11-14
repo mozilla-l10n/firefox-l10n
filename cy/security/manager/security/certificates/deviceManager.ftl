@@ -5,9 +5,38 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = Modiwlau a Dyfeisiadau Diogelwch
+devmgr-header-details =
+    .label = Manylion
+devmgr-header-value =
+    .label = Gwerth
+devmgr-button-login =
+    .label = Mewngofnodi
+    .accesskey = M
+devmgr-button-logout =
+    .label = Allgofnodi
+    .accesskey = A
+devmgr-button-changepw =
+    .label = Newid Cyfrinair
+    .accesskey = N
+devmgr-button-load =
+    .label = Llwytho
+    .accesskey = L
+devmgr-button-unload =
+    .label = Dadlwytho
+    .accesskey = D
+devmgr-button-enable-fips =
+    .label = Galluogi FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Analluogi FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-modname-default =
+    .value = Modiwl newydd PKCS#11
 
 ## Token Manager
 
