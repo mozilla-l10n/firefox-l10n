@@ -28,9 +28,20 @@ clear-time-duration-value-everything =
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = ಇತಿಹಾಸ
+item-cookies =
+    .label = ಕುಕಿಗಳು
+    .accesskey = C
+item-active-logins =
+    .label = ಸಕ್ರಿಯ ಲಾಗಿನ್‌ಗಳು
+    .accesskey = L
+data-section-label = ಮಾಹಿತಿ
 item-site-preferences =
     .label = ತಾಣದ ಆದ್ಯತೆಗಳು
     .accesskey = S
+item-offline-apps =
+    .label = ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಜಾಲತಾಣದ ಮಾಹಿತಿ
+    .accesskey = O
 sanitize-everything-undo-warning = ಈ ಕಾರ್ಯವನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿರುವುದಿಲ್ಲ.
 window-close =
     .key = w
