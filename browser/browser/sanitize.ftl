@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Cyłu historiju wuprózdnić
     .style = width: 34em
+clear-data-settings-label = Při začinjenju měł { -brand-short-name } wšitko awtomatisce zhašeć
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
