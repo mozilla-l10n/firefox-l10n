@@ -10,6 +10,11 @@ sanitize-prefs-style =
 dialog-title =
     .title = Xóa các Lược sử Gần đây
     .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Xóa toàn bộ lịch sử
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -70,6 +75,10 @@ sanitize-button-ok =
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Đang xóa
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Toàn bộ lịch sử sẽ bị xóa.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
