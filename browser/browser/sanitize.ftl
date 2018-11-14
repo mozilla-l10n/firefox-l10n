@@ -11,9 +11,23 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = नष्ट करण्यासाठी वेळ क्षेत्र:{ " " }
+    .accesskey = T
+clear-time-duration-value-last-hour =
+    .label = शेवटचा तास
+clear-time-duration-value-last-2-hours =
+    .label = शेवटचे दोन तास
+clear-time-duration-value-last-4-hours =
+    .label = शेवटचे चार तास
+clear-time-duration-value-today =
+    .label = आज
+clear-time-duration-value-everything =
+    .label = सगळं काही
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+sanitize-everything-undo-warning = ही कृती रद्द करणे अशक्य.
 window-close =
     .key = w
