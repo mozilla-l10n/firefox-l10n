@@ -5,6 +5,8 @@
 
 ## Strings used for device manager
 
+devmgr-header-details =
+    .label = Detalles
 devmgr-header-value =
     .label = Valor
 devmgr-button-changepw =
