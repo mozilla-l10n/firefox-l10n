@@ -8,6 +8,8 @@
 
 ## Strings used for load device
 
+load-device =
+    .title = Cargar controlador de dispositivo PKCS#11
 
 ## Token Manager
 
@@ -44,6 +46,13 @@ devinfo-serialnum =
     .label = Número De Serie
 fips-nonempty-password-required = El modo FIPS requiere que se ingrese una Contraseña Maestra para cada dispositivo de seguridad. Ingrese una contraseña antes de intentar habilitar el modo FIPS.
 unable-to-toggle-fips = No se puede cambiar el modo FIPS para el dispositivo de seguridad. Se recomienda que salga y reinicie esta aplicación.
+load-pk11-module-file-picker-title = Seleccionar un controlador de dispositivo PKCS#11 para cargar
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = El nombre de módulo no puede estar vacío.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ está reservado y no puede usarse como nombre de módulo.
 add-module-failure = No se puede agregar el módulo
 del-module-warning = ¿Está seguro de querer borrar este módulo de seguridad?
 del-module-error = No se puede borrar el módulo
