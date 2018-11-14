@@ -5,9 +5,18 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = Iimodyuli Zokhuseleko Nezixhobo
+devmgr-header-details =
+    .label = Iinkcukacha
+devmgr-header-value =
+    .label = Ixabiso
 
 ## Strings used for load device
 
+load-device-info = Ngenisa ulwazi lwemodyuli ofuna ukuyifakela.
+load-device-modname-default =
+    .value = Imodyuli Entsha ye-PKCS#11
 
 ## Token Manager
 
