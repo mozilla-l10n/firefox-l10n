@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Očisti svu povijest
     .style = width: 34em
+clear-data-settings-label = Kada je zatvoren, { -brand-short-name } bi automatski trebao očistiti sve
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
