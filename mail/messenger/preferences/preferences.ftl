@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = A
 confirm-messenger-language-change-description = Starta om { -brand-short-name } för att tillämpa ändringarna
 confirm-messenger-language-change-button = Tillämpa och starta om
+update-pref-write-failure-title = Skrivfel
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Det gick inte att spara inställning. Kunde inte skriva till fil: { $path }
