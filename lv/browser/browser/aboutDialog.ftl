@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } šobrīd atjaunina c
 update-manual = Atjauninājumi ir pieejami te<label data-l10n-name="manual-link"/>
 update-unsupported = Papildus atjauninājumi šajā sistēmā nav iespējami. <label data-l10n-name="unsupported-link">Uzzināt vairāk</label>
 update-restarting = Notiek pārstartēšana…
-channel-description = Šobrīd jūs izmantojat <label data-l10n-name="current-channel"></label> atjauninājumu kanālu.{ " " }
+channel-description = Šobrīd jūs izmantojat <label data-l10n-name="current-channel"></label> atjauninājumu kanālu.
 warningDesc-version = { -brand-short-name } atrodas izstrādes procesā un var būt ar nepilnībām.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ir <label data-l10n-name="community-exp-creditsLink">globāla kopiena</label> , kas strādā, lai internets būtu atvērts, publisks un visiem pieejams.
 community-2 = { -brand-short-name } veido <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, kuras <label data-l10n-name="community-creditsLink">globāla kopiena</label>, kas strādā, lai internets būtu atvērts, publisks un visiem pieejams.
