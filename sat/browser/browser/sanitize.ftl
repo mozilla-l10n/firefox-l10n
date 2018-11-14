@@ -14,7 +14,7 @@ sanitize-prefs-style =
 ## Time range to clear: (Last Hour, Today, etc.)
 
 clear-time-duration-prefix =
-    .value = फा़रचा ला़गित् ओकतो पासनाव: (T){ " " }
+    .value = फा़रचा ला़गित् ओकतो पासनाव: 
     .accesskey = T
 clear-time-duration-value-last-hour =
     .label = मुचा़त् पुन टाड़ाङ
@@ -34,32 +34,32 @@ clear-time-duration-suffix =
 
 history-section-label = हिता़ल
 item-history-and-downloads =
-    .label = ब्राउजिंग हिता़ल आ़तुर आंड़गो  (B)
+    .label = ब्राउजिंग हिता़ल आ़तुर आंड़गो
     .accesskey = B
 item-cookies =
-    .label = { " " }कुकी को (C)
+    .label = कुकी को
     .accesskey = C
 item-active-logins =
-    .label = चोगोड़ लोगिन को (L)
+    .label = चोगोड़ लोगिन को
     .accesskey = L
 item-cache =
-    .label = साब (a)
+    .label = साब
     .accesskey = a
 item-form-search-history =
-    .label = { " " }फोर्म पानते हिता़ल (F)
+    .label = फोर्म पानते हिता़ल
     .accesskey = F
 data-section-label = डाटा
 item-site-preferences =
-    .label = साइट कुसियाक् को  (S)
+    .label = साइट कुसियाक् को
     .accesskey = S
 item-offline-apps =
-    .label = ऑफलाइन वेबसाइट डाटा (O)
+    .label = ऑफलाइन वेबसाइट डाटा
     .accesskey = O
 sanitize-everything-undo-warning = नोवा का़मी सा़त बाङ दाड़ेयाक् आ .
 window-close =
     .key = w
 sanitize-button-ok =
-    .label = नित मेटाव मे{ " " }
+    .label = नित मेटाव मे
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

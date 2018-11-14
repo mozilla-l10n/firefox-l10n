@@ -37,7 +37,7 @@ devmgr-button-disable-fips =
 
 load-device-info = आम सेलेद सानाम कान ना़मुना ला़गित् ला़य सोदोर आदेर मे.
 load-device-modname-default =
-    .value = नावा  PKCS#11 ना़मुना{ " " }
+    .value = नावा  PKCS#11 ना़मुना
 load-device-browse =
     .label = पानते…
     .accesskey = B
@@ -45,11 +45,11 @@ load-device-browse =
 ## Token Manager
 
 devinfo-status =
-    .label = दोसा{ " " }
+    .label = दोसा
 devinfo-status-disabled =
     .label = बाङ हुय होचो
 devinfo-status-not-present =
-    .label = बाङ हा़जिर{ " " }
+    .label = बाङ हा़जिर
 devinfo-status-uninitialized =
     .label = बाङ एतोहोब आकान
 devinfo-status-not-logged-in =
@@ -79,4 +79,4 @@ fips-nonempty-password-required = FIPS ओबोसता ला़गित् 
 unable-to-toggle-fips = जा़पती साधोन ला़गित्  FIPS ओबोसता बोदोल बाङ हुय दाड़ेयाक् आ. नोवा बाताव एमाकाना जे आम बाहरे ओडोकोक् मे आर नोवा एपलिकेसोन दोहड़ा एहोब मे.
 add-module-failure = ना़मुना सेलेद बाय दाड़ेयाक् आ .
 del-module-warning = चेत् गोटा आकात् आ आम नोवा जा़पती ञेल तेयार मेटाव सानाम काना?
-del-module-error = ना़मुना बाङ मेटाव दाड़ेयाक् आ{ " " }
+del-module-error = ना़मुना बाङ मेटाव दाड़ेयाक् आ
