@@ -7,6 +7,11 @@ sanitize-prefs =
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = မှတ်တမ်းအားလုံးကို ရှင်းပါမည်
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -50,7 +55,17 @@ item-site-preferences =
     .label = ကွန်ရက် ဦးစားပေးအချက်များ
     .accesskey = က
 sanitize-everything-undo-warning = ဒီလုပ်ဆောင်ချက်ကို ပြန်ဖြေလို့ မရနိုင်ဘူး။
+sanitize-button-ok =
+    .label = ယခု ရှင်းလင်းပါ
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = ရှင်းလင်းနေသည်
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = မှတ်တမ်းအားလုံးကို ရှင်းလင်းပါမည်။
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = ရွေးထားသည့်မှတ်တမ်းများကို ရှင်းလင်းပါမည်။
