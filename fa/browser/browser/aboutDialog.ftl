@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } در بخش دیگر
 update-manual = به‌روزرسانی‌ها در این‌جا قابل دسترسی هستند:<label data-l10n-name="manual-link"/>
 update-unsupported = شما نمی‌توانید به‌روزرسانی‌های بیشتری را بر روی این سیستم انجام بدهید.<label data-l10n-name="unsupported-link">بیشتر بدانید</label>
 update-restarting = در حال راه‌اندازی مجدد...
-channel-description = در حال حاضر در کانل بروزرسانی <label data-l10n-name="current-channel"></label> هستید.{ " " }
+channel-description = در حال حاضر در کانل بروزرسانی <label data-l10n-name="current-channel"></label> هستید.
 warningDesc-version = { -brand-short-name } آزمایشی است و ممکن است ناپایدار باشد.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> یک <label data-l10n-name="community-exp-creditsLink">جامعه‌ی جهانی</label> است که با یکدیگر همکاری می‌کنند تا وب را باز، عمومی و برای همه قابل دسترس نگه دارند.
 community-2 = { -brand-short-name } طراحی شده توسط <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>، یک <label data-l10n-name="community-creditsLink">جامعه‌ی جهانی</label> با یکدیگر همکاری می‌کنند تا وب را باز، عمومی و قابل‌ دسترس برای همگان نگاه‌ دارند.
