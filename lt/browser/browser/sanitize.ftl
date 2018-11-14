@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Žurnalo valymo nuostatos
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
+dialog-title =
+    .title = Žurnalo valymas
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Visiškas žurnalo išvalymas
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -30,6 +43,30 @@ clear-time-duration-suffix =
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Žurnalas
+item-history-and-downloads =
+    .label = Naršymo ir atsiuntimų žurnalas
+    .accesskey = N
+item-cookies =
+    .label = Slapukai
+    .accesskey = a
+item-active-logins =
+    .label = Esami prisijungimai
+    .accesskey = E
+item-cache =
+    .label = Podėlis
+    .accesskey = P
+item-form-search-history =
+    .label = Formų ir paieškos laukų reikšmės
+    .accesskey = F
+data-section-label = Kita
+item-site-preferences =
+    .label = Svetainių nuostatos
+    .accesskey = v
+item-offline-apps =
+    .label = Duomenys darbui neprisijungus
+    .accesskey = D
+sanitize-everything-undo-warning = Atlikus šį veiksmą, jo atšaukti neįmanoma.
 window-close =
     .key = w
 sanitize-button-ok =
