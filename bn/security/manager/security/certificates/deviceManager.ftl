@@ -38,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = PKCS#11 ডিভাইস ড্রাইভার লোড করুন
 load-device-info = আপনি যে মডিউলটি যোগ করতে ইচ্ছুক সেটি সম্পর্কে তথ্য দিন।
+load-device-modname =
+    .value = মডিউলের নাম
+    .accesskey = M
 load-device-modname-default =
     .value = নতুন PKCS#11 মডিউল
+load-device-filename =
+    .value = মডিউল ফাইলের নাম
+    .accesskey = f
 
 ## Token Manager
 
@@ -77,6 +85,10 @@ devinfo-serialnum =
     .label = ক্রমিক সংখ্যা
 fips-nonempty-password-required = FIPS মোডের ক্ষেত্রে প্রতিটি নিরাপত্তা ডিভাইসের জন্য একটি মাস্টার পাসওয়ার্ড নির্ধারণ করা আবশ্যক। FIPS মোড সক্রিয় করার পূর্বে অনুগ্রহ করে পাসওয়ার্ড নির্ধারণ করুন।
 unable-to-toggle-fips = নিরাপত্তা যন্ত্রের FIPS মোড পরিবর্তন করা সম্ভব হয় নাই। আপনাকে এপ্লিকেশন টি বন্ধ করে পুনরায় চালু করতে সুপারিশ করা হচ্ছে।
+load-pk11-module-file-picker-title = লোড করার জন্য PKCS #11 ডিভাইস ড্রাইভার নির্বাচন করুন
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = মডিউল নাম খালি থাকতে পারে না।
 add-module-failure = মডিউল যোগ করতে ব্যর্থ
 del-module-warning = আপনি কি নিশ্চিতভাবে এই নিরাপত্তা মডিউলটি মুছে ফেলতে ইচ্ছুক?
 del-module-error = মডিউল মুছে ফেলতে ব্যর্থ
