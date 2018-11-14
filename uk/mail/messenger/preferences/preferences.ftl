@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = м
 confirm-messenger-language-change-description = Перезапустіть { -brand-short-name } для застосування змін
 confirm-messenger-language-change-button = Застосувати й перезапустити
+update-pref-write-failure-title = Записати звіт про збій
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Не вдалося зберегти налаштування. Неможливо записати в файл: { $path }
