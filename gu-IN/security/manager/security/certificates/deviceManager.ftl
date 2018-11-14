@@ -26,6 +26,12 @@ devmgr-button-load =
 devmgr-button-unload =
     .label = લાવો નહિં
     .accesskey = U
+devmgr-button-enable-fips =
+    .label = FIPS સક્રિય કરો
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = FIPS નિષ્ક્રીય કરો
+    .accesskey = F
 
 ## Strings used for load device
 
@@ -38,6 +44,39 @@ load-device-browse =
 
 ## Token Manager
 
+devinfo-status =
+    .label = સ્થિતિ
+devinfo-status-disabled =
+    .label = નિષ્ક્રિય
+devinfo-status-not-present =
+    .label = હાજર નહિ
+devinfo-status-uninitialized =
+    .label = શરુઆત ન કરેલ
+devinfo-status-not-logged-in =
+    .label = દાખલ ન થયેલ
+devinfo-status-logged-in =
+    .label = દાખલ થયેલ
+devinfo-status-ready =
+    .label = તૈયાર
+devinfo-desc =
+    .label = વર્ણન
+devinfo-man-id =
+    .label = ઉત્પાદક
+devinfo-hwversion =
+    .label = HW આવૃતિ
+devinfo-fwversion =
+    .label = FW આવૃતિ
+devinfo-modname =
+    .label = મોડ્યુલ
+devinfo-modpath =
+    .label = પથ
+login-failed = દાખલ થવામાં નિષ્ફળ
+devinfo-label =
+    .label = લેબલ
+devinfo-serialnum =
+    .label = સિરીયલ નંબર
+fips-nonempty-password-required = FIPS સ્થીતીને બધા સુરક્ષા સાધન માટે મુખ્ય પાસવર્ડની જરુર છે. FIPS સ્થીતીને અમલમા લાવા માટે મહેરબાની કરીને પાસવર્ડ દાખલકરો.
+unable-to-toggle-fips = સુરક્ષા ઉપકરણ માટે FIPS સ્થિતિને બદલવાનું અસમર્થ. તે અગ્રહણીય છે કે તમે બહાર નીકળો અને આ કાર્યક્રમને પુન:શરૂ કરો.
 add-module-failure = મોડ્યુલ ઉમેરવામાં અસમર્થ
 del-module-warning = શું તમે ખરેખર આ સુરક્ષા મોડ્યુલ કાઢી નાંખવા માંગો છો?
 del-module-error = મોડ્યુલ કાઢી નાંખવામાં અસમર્થ
