@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Parametros pro vacuar le chronologia
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -14,6 +17,16 @@
 clear-time-duration-prefix =
     .value = Intervallo de tempore a vacuar:{ " " }
     .accesskey = T
+clear-time-duration-value-last-hour =
+    .label = Ultime hora
+clear-time-duration-value-last-2-hours =
+    .label = Ultime duo horas
+clear-time-duration-value-last-4-hours =
+    .label = Ultime quatro horas
+clear-time-duration-value-today =
+    .label = Hodie
+clear-time-duration-value-everything =
+    .label = Toto
 clear-time-duration-suffix =
     .value = { "" }
 
