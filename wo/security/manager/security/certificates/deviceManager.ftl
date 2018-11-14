@@ -7,11 +7,26 @@
 
 devmgr-header-details =
     .label = Benn bennal yi
+devmgr-header-value =
+    .label = Solo
+devmgr-button-enable-fips =
+    .label = Suqali FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Suuxal FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-browse =
+    .label = Seet…
+    .accesskey = B
 
 ## Token Manager
 
+devinfo-status =
+    .label = Nekkin
 devinfo-desc =
     .label = Tektal :
+devinfo-label =
+    .label = Etiket
