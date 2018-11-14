@@ -31,6 +31,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Ebyafaayo
+item-history-and-downloads =
+    .label = Ebifudeyo byo ku'Noonya no'kuwanula
+    .accesskey = N
 item-cookies =
     .label = Kkuki
     .accesskey = K
@@ -40,6 +43,9 @@ item-active-logins =
 item-cache =
     .label = Eteresi yo kupii
     .accesskey = t
+item-form-search-history =
+    .label = Ebifudeyo bya Fomu no'kunoonya
+    .accesskey = F
 data-section-label = Bwiino
 item-site-preferences =
     .label = Eby'okweroboza ku Kibanja
