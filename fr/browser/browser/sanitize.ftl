@@ -11,9 +11,36 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-value-last-hour =
+    .label = la dernière heure
+clear-time-duration-value-last-2-hours =
+    .label = les deux dernières heures
+clear-time-duration-value-last-4-hours =
+    .label = les quatre dernières heures
+clear-time-duration-value-everything =
+    .label = tout
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Historique
+item-cookies =
+    .label = Cookies
+    .accesskey = C
+item-active-logins =
+    .label = Connexions actives
+    .accesskey = x
+item-cache =
+    .label = Cache
+    .accesskey = a
+data-section-label = Données
+item-site-preferences =
+    .label = Préférences de site
+    .accesskey = P
+sanitize-everything-undo-warning = Cette action est irréversible.
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = Effacer maintenant
