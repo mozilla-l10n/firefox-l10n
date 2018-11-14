@@ -5,9 +5,42 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = Безбедносни модули и уреди
+devmgr-header-details =
+    .label = Детали
+devmgr-header-value =
+    .label = Вредност
+devmgr-button-login =
+    .label = Пријави се
+    .accesskey = и
+devmgr-button-logout =
+    .label = Одјави се
+    .accesskey = О
+devmgr-button-changepw =
+    .label = Промени лозинка
+    .accesskey = П
+devmgr-button-load =
+    .label = Вчитај
+    .accesskey = В
+devmgr-button-unload =
+    .label = Испразни
+    .accesskey = И
+devmgr-button-enable-fips =
+    .label = Овозможи FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Оневозможи FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-info = Внеси информации за модулот што сакате да го додадете.
+load-device-modname-default =
+    .value = Нов PKCS#11 модул
+load-device-browse =
+    .label = Разгледај…
+    .accesskey = Р
 
 ## Token Manager
 
