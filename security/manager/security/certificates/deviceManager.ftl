@@ -5,9 +5,38 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = Modúil agus Gléasanna Slándála
+devmgr-header-details =
+    .label = Mionsonraí
+devmgr-header-value =
+    .label = Luach
+devmgr-button-login =
+    .label = Logáil Isteach
+    .accesskey = g
+devmgr-button-logout =
+    .label = Logáil Amach
+    .accesskey = m
+devmgr-button-changepw =
+    .label = Athraigh an Focal Faire
+    .accesskey = F
+devmgr-button-load =
+    .label = Luchtaigh
+    .accesskey = L
+devmgr-button-enable-fips =
+    .label = Cumasaigh FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Díchumasaigh FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-modname-default =
+    .value = Modúl PKCS#11 Nua
+load-device-browse =
+    .label = Brabhsáil…
+    .accesskey = B
 
 ## Token Manager
 
