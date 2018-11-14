@@ -41,8 +41,14 @@ devmgr-button-disable-fips =
 load-device =
     .title = PKCS#11-Gerätetreiber laden
 load-device-info = Geben Sie die Informationen für das Modul an, das hinzugefügt werden soll.
+load-device-modname =
+    .value = Modulname:
+    .accesskey = M
 load-device-modname-default =
     .value = Neues PKCS#11 Modul
+load-device-filename =
+    .value = Modul-Dateiname:
+    .accesskey = o
 load-device-browse =
     .label = Durchsuchen…
     .accesskey = D
@@ -83,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = FIPS-Modus benötigt ein Master-Passwort für jedes Kryptographie-Modul. Bitte legen Sie das Passwort fest, bevor Sie versuchen, den FIPS-Modus zu aktivieren.
 unable-to-toggle-fips = Der FIPS-Modus für das Kryptographie-Modul konnte nicht geändert werden. Es wird empfohlen, dass Sie diese Anwendung benden und neu starten.
 load-pk11-module-file-picker-title = Wählen Sie einen PKCS#11-Gerätetreiber zum Laden aus
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Der Modulname darf nicht leer sein.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = "Root Certs" ist ein reservierter Name und darf daher nicht als Modulname verwendet werden.
 add-module-failure = Konnte Modul nicht laden
 del-module-warning = Soll dieses Sicherheitsmodul wirklich gelöscht werden?
 del-module-error = Konnte Modul nicht löschen
