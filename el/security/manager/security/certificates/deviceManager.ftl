@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Διαχείριση συσκευών
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Μονάδες ασφάλειας και συσκευές
 devmgr-header-details =
