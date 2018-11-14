@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = ការ​កំណត់​សម្រាប់​ជម្រះ​ប្រវត្តិ
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
+dialog-title =
+    .title = សម្អាត​​ប្រវត្តិ​ថ្មីៗ
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = សម្អាត​ប្រវត្តិ​ទាំង​អស់
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -11,6 +24,9 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = ពេលវេលា​ត្រូវ​សម្អាត ៖
+    .accesskey = ព
 clear-time-duration-value-last-hour =
     .label = ម៉ោង​ចុងក្រោយ
 clear-time-duration-value-last-2-hours =
@@ -29,10 +45,25 @@ history-section-label = ប្រវត្តិ
 item-history-and-downloads =
     .label = រកមើល & ប្រវត្តិ​ទាញ​យក
     .accesskey = B
+item-cookies =
+    .label = ខូគី
+    .accesskey = ខ
+item-active-logins =
+    .label = ការ​ចូល​សកម្ម
+    .accesskey = ក
+item-cache =
+    .label = ឃ្លាំង​សម្ងាត់
+    .accesskey = ឃ
 item-form-search-history =
     .label = ទម្រង់ & ប្រវត្តិ​ស្វែងរក
     .accesskey = F
 data-section-label = ទិន្នន័យ
+item-site-preferences =
+    .label = ចំណូល​ចិត្ត​តំបន់​បណ្ដាញ
+    .accesskey = ច
+item-offline-apps =
+    .label = ទិន្នន័យ​តំបន់​បណ្ដាញ​ក្រៅ​បណ្ដាញ
+    .accesskey = ទ
 sanitize-everything-undo-warning = សកម្មភាព​នេះ​មិន​អាច​មិន​ធ្វើ​ឡើងវិញ​បាន​ទេ ។
 window-close =
     .key = w
@@ -42,3 +73,11 @@ sanitize-button-ok =
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = សម្អាត
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = ប្រវត្តិ​ទាំងអស់​នឹង​ត្រូវ​បាន​សម្អាត។
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = ធាតុ​ដែល​បាន​ជ្រើស​ទាំងអស់​នឹង​ត្រូវ​បាន​សម្អាត។
