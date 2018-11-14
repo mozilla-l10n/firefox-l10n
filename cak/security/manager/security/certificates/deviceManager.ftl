@@ -89,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = Ri FIPS b'anikil k'o chi k'o jun ajtij ewan rutzij chi kijujunal ri okisaxel richin jikomal. Tajikib'a' ri ewan tzij chuwäch natzïj re rub'anikil re'.
 unable-to-toggle-fips = Man tikirel ta nijal ri FIPS rub'eyal ri okisaxel richin jikomal. Nichiab'ëx chawe chi katel chuqa' tatikirisaj chik ri chokoy.
 load-pk11-module-file-picker-title = Tacha' jun PKCS#11 okisaxel chajinel richin nisamajib'ëx
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Man tikirel ta nikowe' kan ri rub'i' juperaj.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ q'aton ruma ri', toq man tikirel ta nokisäx richin rub'i' ri juperaj.
 add-module-failure = Man tikirel ta nitz'aqatisäx ri juperaj
 del-module-warning = ¿La kan nawajo' nayüj el re rujuperaj jikomal re'?
 del-module-error = Man tikirel ta niyuj el ri juperaj
