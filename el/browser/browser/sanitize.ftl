@@ -11,9 +11,38 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Χρονικό διάστημα εκκαθάρισης:{ " " }
+    .accesskey = τ
+clear-time-duration-value-last-hour =
+    .label = Τελευταία ώρα
+clear-time-duration-value-last-2-hours =
+    .label = Τελευταίες δύο ώρες
+clear-time-duration-value-last-4-hours =
+    .label = Τελευταίες τέσσερις ώρες
+clear-time-duration-value-today =
+    .label = Σήμερα
+clear-time-duration-value-everything =
+    .label = Όλα
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
 history-section-label = Ιστορικό
+item-active-logins =
+    .label = Ενεργές συνδέσεις
+    .accesskey = υ
+item-cache =
+    .label = Προσωρινή μνήμη
+    .accesskey = ω
+item-form-search-history =
+    .label = Ιστορικό αναζήτησης & φορμών
+    .accesskey = φ
 data-section-label = Δεδομένα
+item-site-preferences =
+    .label = Προτιμήσεις σελίδων
+    .accesskey = Π
+item-offline-apps =
+    .label = Δεδομένα ιστοσελίδων
+    .accesskey = δ
+sanitize-everything-undo-warning = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
