@@ -41,6 +41,9 @@ devmgr-button-disable-fips =
 load-device-info = Vnesite podatke za modul, ki ga želite dodati.
 load-device-modname-default =
     .value = Nov modul PKCS#11
+load-device-browse =
+    .label = Prebrskaj …
+    .accesskey = B
 
 ## Token Manager
 
@@ -77,4 +80,6 @@ devinfo-serialnum =
     .label = Serijska številka
 fips-nonempty-password-required = Način FIPS zahteva, da imate nastavljeno glavno geslo za vsako varnostno napravo. Prosim, nastavite geslo, preden omogočite način FIPS.
 unable-to-toggle-fips = Sprememba načina FIPS za varnostno napravo ni mogoče. Priporočamo vam, da zaključite in ponovno začenete program.
+add-module-failure = Modula ni bilo mogoče dodati
 del-module-warning = Ste prepričani, da želite zbrisati ta varnostni modul?
+del-module-error = Modula ni mogoče izbrisati
