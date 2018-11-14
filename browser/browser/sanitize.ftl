@@ -11,9 +11,18 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Amateka
+item-cookies =
+    .label = Dosiyenyibutsa
+    .accesskey = y
+item-cache =
+    .label = Ubwihisho
+    .accesskey = U
 window-close =
     .key = w
