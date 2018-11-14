@@ -47,6 +47,7 @@ item-site-preferences =
 item-offline-apps =
     .label = Daneyên Malperên Negirêdayî
     .accesskey = D
+sanitize-everything-undo-warning = Ev çalakî şûnde nayê anîn.
 window-close =
     .key = W
 sanitize-button-ok =
