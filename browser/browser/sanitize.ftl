@@ -30,12 +30,17 @@ clear-time-duration-suffix =
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Зорчсон түүх
+item-cookies =
+    .label = Күүки
+    .accesskey = К
 item-active-logins =
     .label = Нэвтрэлт хийж орсон идэвхитэй хэсэг
     .accesskey = х
 item-cache =
     .label = Вэб түр хадгалалт
     .accesskey = т
+data-section-label = Өгөгдлүүд
 item-site-preferences =
     .label = Вэб хуудасны тохиргоо
     .accesskey = т
@@ -43,3 +48,11 @@ item-offline-apps =
     .label = Салангид хуудасны өгөгдөл
     .accesskey = ө
 sanitize-everything-undo-warning = Энэ үйлдлийг буцаах боломжгүйг анхаарна уу.
+window-close =
+    .key = w
+sanitize-button-ok =
+    .label = Одоо цэвэрлэ
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Зорчсон бүх түүх цэвэрлэгдэх болно.
