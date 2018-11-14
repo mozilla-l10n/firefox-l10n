@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = 履歴の消去設定
+    .style = width: 32em
+sanitize-prefs-style =
+    .style = width: 14em
+dialog-title =
+    .title = 最近の履歴を消去
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = すべての履歴を消去
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -51,3 +64,17 @@ item-site-preferences =
     .label = サイトの設定
     .accesskey = S
 sanitize-everything-undo-warning = この操作は取り消せません。
+sanitize-button-ok =
+    .label = 今すぐ消去
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = 消去中
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = すべての履歴が消去されます。
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = 選択した項目の履歴がすべて消去されます。
