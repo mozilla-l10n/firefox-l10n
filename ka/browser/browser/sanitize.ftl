@@ -25,12 +25,17 @@ clear-data-settings-label = როცა { -brand-short-name } დაიხუ�
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = გასასუფთავებელი დროის შუალედი:
+    .accesskey = გ
 clear-time-duration-value-last-hour =
     .label = ბოლო საათი
 clear-time-duration-value-last-2-hours =
     .label = ბოლო 2 საათი
 clear-time-duration-value-last-4-hours =
     .label = ბოლო 4 საათი
+clear-time-duration-value-today =
+    .label = დღევანდელი
 clear-time-duration-value-everything =
     .label = ყველაფერი
 clear-time-duration-suffix =
@@ -43,6 +48,9 @@ history-section-label = ისტორია
 item-history-and-downloads =
     .label = საიტებისა და ჩამოტვირთვების ისტორია
     .accesskey = ს
+item-cookies =
+    .label = ფუნთუშები
+    .accesskey = ფ
 item-active-logins =
     .label = მოქმედი ანგარიშები
     .accesskey = შ
