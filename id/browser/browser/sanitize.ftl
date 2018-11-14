@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Bersihkan Semua Riwayat
     .style = width: 36em
+clear-data-settings-label = Saat ditutup, secara otomatis { -brand-short-name } akan membersihkan semua data
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
