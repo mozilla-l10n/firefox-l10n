@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = امسح كل التأريخ
     .style = width: 34em
+clear-data-settings-label = على { -brand-short-name } مسح كل شيء تلقائيا عندما إغلاقه
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
