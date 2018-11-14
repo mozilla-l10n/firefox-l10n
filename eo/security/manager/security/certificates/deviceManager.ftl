@@ -35,8 +35,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Ŝargi aparatan pelilon de PKCS#11
+load-device-info = Tajpu la informon pri la modulo kiun vi volas aldoni.
+load-device-modname =
+    .value = Nomo de modulo
+    .accesskey = M
 load-device-modname-default =
     .value = Nova PKCS#11 programono
+load-device-filename =
+    .value = Dosiero de modulo
+    .accesskey = d
 load-device-browse =
     .label = Esplori…
     .accesskey = E
@@ -65,6 +74,8 @@ devinfo-hwversion =
     .label = Aparata versio
 devinfo-fwversion =
     .label = Firmprograma versio
+devinfo-modname =
+    .label = Modulo
 devinfo-modpath =
     .label = Vojo
 login-failed = Malsukcesa akreditado.
@@ -74,5 +85,13 @@ devinfo-serialnum =
     .label = Seria numero
 fips-nonempty-password-required = La reĝimo FIPS postulas ke vi havu Ĉefan pasvorton por ĉiu sekureca aparato. Bonvolu difini la pasvorton antaŭ ol klopodi aktivigi la reĝimon FIPS.
 unable-to-toggle-fips = Unable to change the FIPS mode for the security device. It is recommended that you exit and restart this application.
+load-pk11-module-file-picker-title = Elekti ŝargotan PKCS#11 aparatan pelilon
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = La nomo de modulo ne povas esti malplena.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = La nomo ‘Root Certs‘ estas rezervita kaj ne povas esti uzita kiel nomo de modulo.
 add-module-failure = Ne eblas aldoni la programonon
 del-module-warning = Ĉu vi certe volas forviŝi tiun ĉi sekurecan programonon?
+del-module-error = Ne eblas forigi modulon
