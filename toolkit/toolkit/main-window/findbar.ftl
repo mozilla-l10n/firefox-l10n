@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = ყველას მონიშვნა
     .accesskey = ყ
     .tooltiptext = ფრაზის ყველა კონტექსტის გამოკვეთა
+findbar-highlight-all2 =
+    .label = ყველას გამორჩევა
+    .accesskey =
+        { PLATFORM() ->
+            [macos] ი
+           *[other] ყ
+        }
+    .tooltiptext = ყველა თანხვედრის გამორჩევა
 findbar-case-sensitive =
     .label = მთავრულის გათვალისწინებით
     .accesskey = რ
