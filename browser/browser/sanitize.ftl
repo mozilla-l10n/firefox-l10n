@@ -31,6 +31,12 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Povijest
+item-cookies =
+    .label = Kolačići
+    .accesskey = K
+item-active-logins =
+    .label = Aktivne prijave
+    .accesskey = A
 item-cache =
     .label = Međuspremnik
     .accesskey = s
@@ -38,6 +44,9 @@ data-section-label = Podaci
 item-site-preferences =
     .label = Postavke stranice
     .accesskey = s
+item-offline-apps =
+    .label = Podaci izvanmreženih stranica
+    .accesskey = n
 sanitize-everything-undo-warning = Ovaj se potez neće moći poništiti.
 window-close =
     .key = w
@@ -47,3 +56,11 @@ sanitize-button-ok =
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Čišćenje
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Sva će povijest biti očišćena.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = Sve će odabrane stavke biti očišćene.
