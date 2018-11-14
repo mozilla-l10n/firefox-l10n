@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Ardoer trevnad
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Molladoù ha trevnadoù diogelroez
 devmgr-header-details =
