@@ -38,6 +38,8 @@ load-device-modname-default =
 
 ## Token Manager
 
+devinfo-status =
+    .label = Trạng thái
 devinfo-status-disabled =
     .label = Bị Vô Hiệu
 devinfo-status-not-present =
