@@ -5,12 +5,24 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Gerenciador de dispositivos
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Dispositivos e módulos de segurança
 devmgr-header-details =
     .label = Detalhes
 devmgr-header-value =
     .label = Valor
+devmgr-button-login =
+    .label = Entrar
+    .accesskey = L
+devmgr-button-logout =
+    .label = Sair
+    .accesskey = D
+devmgr-button-changepw =
+    .label = Alterar senha
+    .accesskey = M
 devmgr-button-load =
     .label = Carregar
     .accesskey = C
@@ -23,6 +35,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Carregar driver de dispositivo PKCS#11
 load-device-info = Forneça a informação para o módulo que você deseja adicionar.
 load-device-modname-default =
     .value = Novo módulo PKCS#11
@@ -34,6 +48,8 @@ load-device-browse =
 
 devinfo-status =
     .label = Status
+devinfo-status-disabled =
+    .label = Desabilitado
 devinfo-status-not-present =
     .label = Ausente
 devinfo-status-uninitialized =
@@ -63,6 +79,7 @@ devinfo-serialnum =
     .label = Número de série
 fips-nonempty-password-required = O modo FIPS necessita que você possua uma senha mestra para cada dispositivo de segurança. Por favor, defina uma senha antes de tentar ativar o modo FIPS.
 unable-to-toggle-fips = Não foi possível alterar o modo FIPS para o dispositivo de segurança. É recomendado que você reinicie o aplicativo.
+load-pk11-module-file-picker-title = Escolha um driver PKCS#11 para carregar
 add-module-failure = Não foi possível adicionar o módulo
 del-module-warning = Tem certeza que deseja excluir este módulo de segurança?
 del-module-error = Não foi possível excluir módulo
