@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Eszközkezelő
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Biztonsági modulok és szolgáltatások
 devmgr-header-details =
@@ -35,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = PKCS#11 eszközillesztő betöltése
 load-device-info = Adja meg a kívánt modulinformációkat
+load-device-modname =
+    .value = Modulnév
+    .accesskey = M
 load-device-modname-default =
     .value = Új PKCS#11 modul
+load-device-filename =
+    .value = Modul fájlneve
+    .accesskey = f
 load-device-browse =
     .label = Tallózás…
     .accesskey = T
@@ -77,6 +88,7 @@ devinfo-serialnum =
     .label = Sorozatszám
 fips-nonempty-password-required = A FIPS-módhoz szükséges, hogy minden adatvédelmi eszközhöz legyen mesterjelszó beállítva. Állítsa be a jelszót a FIPS-mód engedélyezése előtt.
 unable-to-toggle-fips = Nem sikerült módosítani a biztonsági eszköz FIPS-módját. Javasoljuk, hogy lépjen ki az alkalmazásból, és indítsa újra.
+load-pk11-module-file-picker-title = Válassza ki a betöltendő PKCS#11 eszközillesztőt
 add-module-failure = A modul hozzáadása sikertelen.
 del-module-warning = Biztosan törölni kívánja ezt a biztonsági modult?
 del-module-error = A modul törlése sikertelen.
