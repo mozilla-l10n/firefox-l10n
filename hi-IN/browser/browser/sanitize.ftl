@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = { " " }सभी इतिहास साफ करें
     .style = width: 34em
+clear-data-settings-label = जब बंद हो, { -brand-short-name } को सभी चीजें मिटा देनी चाहिए
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
