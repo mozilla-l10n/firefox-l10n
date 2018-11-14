@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Paràmetres de neteja de l'historial
+    .style = width: 36em
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
@@ -12,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Neteja tot l'historial
     .style = width: 34em
+clear-data-settings-label = En tancar el { -brand-short-name }, esborra automàticament
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -41,13 +45,28 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historial
+item-history-and-downloads =
+    .label = Historial de navegació i de baixades
+    .accesskey = H
 item-cookies =
     .label = Galetes
     .accesskey = G
 item-active-logins =
     .label = Sessions actives
     .accesskey = S
+item-cache =
+    .label = Memòria cau
+    .accesskey = M
+item-form-search-history =
+    .label = Historial de formularis i de cerques
+    .accesskey = F
 data-section-label = Dades
+item-site-preferences =
+    .label = Preferències dels llocs
+    .accesskey = P
+item-offline-apps =
+    .label = Dades de llocs web fora de línia
+    .accesskey = D
 sanitize-everything-undo-warning = Aquesta acció no es pot desfer.
 window-close =
     .key = w
