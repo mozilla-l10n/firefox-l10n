@@ -42,5 +42,6 @@ devinfo-label =
     .label = Étiquette
 devinfo-serialnum =
     .label = Numéro de série
+unable-to-toggle-fips = Impossible de modifier le mode FIPS pour le périphérique de sécurité. Nous vous recommandons de quitter et de redémarrer cette application.
 del-module-warning = Voulez-vous vraiment supprimer ce module de sécurité ?
 del-module-error = Impossible de supprimer le module
