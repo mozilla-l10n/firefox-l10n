@@ -76,6 +76,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = क्रम संख्या
 fips-nonempty-password-required = FIPS मोडक लेल जरूरी अछि जे अहाँक पास एकटा मुख्य गुड़किल्ली रहनाइ चाही हर सुरक्षा युक्तिक लेल  सेट. कृप्या गुड़किल्ली सेट करू FIPS मोड सक्रिय करबाक पहिने.
+unable-to-toggle-fips = Unable to change the FIPS mode for the security device. It is recommended that you exit and restart this application.
 add-module-failure = माड्यूल जोड़ने मे असमर्थ
 del-module-warning = की अहँ एहि सुरक्षा मौड्यूल केँ मेटायने  कलेल  निश्चित  अछि ?
 del-module-error = माड्यूल मेटायने मे असमर्थ
