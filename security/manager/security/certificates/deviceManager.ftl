@@ -89,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = FIPS पध्दती आपले मुख्य पासवर्ड सुरक्षा साधनाकरीता निश्चित करण्यास सांगते. FIPS पध्दती कार्यान्वीत करण्यापूर्वी पासवर्ड कृपया निश्चित करण्याचा प्रयत्न करा.
 unable-to-toggle-fips = सुरक्षा साधनकरीता FIPS मोड बदलणे अशक्य करा. आपण बाहेर पडल्यावर ॲप्लिकेशन पुनःसुरू करणे शिफारसीय आहे.
 load-pk11-module-file-picker-title = दाखल करण्याकरीता PKCS#11 साधन ड्राइव्हर निवडा
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = मोड्यूल निनावी असू शकत नाही.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ राखीव आहे आणि मोड्यूलचे नाव म्हणून वापरू शकत नाही.
 add-module-failure = घटक समाविष्ट करण्यास अपयशी
 del-module-warning = आपल्याला हे सुरक्षा घटक नक्की काढून टाकायचे?
 del-module-error = घटक काढून टाकाण्यास अपयशी
