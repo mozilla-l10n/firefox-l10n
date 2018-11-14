@@ -5,9 +5,45 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Gestionnaire de périphériques
+    .style = width: 67em; height: 32em;
+devmgr-devlist =
+    .label = Modules et périphériques de sécurité
+devmgr-header-details =
+    .label = Détails
+devmgr-header-value =
+    .label = Valeur
+devmgr-button-login =
+    .label = Connexion
+    .accesskey = n
+devmgr-button-logout =
+    .label = Déconnexion
+    .accesskey = D
+devmgr-button-changepw =
+    .label = Changer le mot de passe
+    .accesskey = m
+devmgr-button-load =
+    .label = Charger
+    .accesskey = g
+devmgr-button-unload =
+    .label = Décharger
+    .accesskey = h
+devmgr-button-enable-fips =
+    .label = Activer FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Désactiver FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-info = Saisissez les informations sur le module que vous voulez ajouter.
+load-device-modname-default =
+    .value = Nouveau module PKCS#11
+load-device-browse =
+    .label = Parcourir…
+    .accesskey = P
 
 ## Token Manager
 
