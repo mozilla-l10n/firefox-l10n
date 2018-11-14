@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = მოწყობილობის მმართველი
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = უსაფრთხოების მოდულები და მოწყობილობები
 devmgr-header-value =
@@ -40,6 +43,8 @@ devinfo-fwversion =
     .label = FW ვერსია
 devinfo-modname =
     .label = მოდული
+devinfo-modpath =
+    .label = მდებარეობა
 devinfo-label =
     .label = იარლიყი
 devinfo-serialnum =
