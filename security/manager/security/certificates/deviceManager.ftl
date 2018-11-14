@@ -38,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Aktiver PKCS#11 enhets-driver
 load-device-info = Skriv inn informasjonen for modulen du vil legge til.
+load-device-modname =
+    .value = Modulnavn
+    .accesskey = M
 load-device-modname-default =
     .value = Ny PKCS#11-modul
+load-device-filename =
+    .value = Modulfilnavn
+    .accesskey = f
 load-device-browse =
     .label = Bla gjennom …
     .accesskey = B
@@ -80,6 +88,13 @@ devinfo-serialnum =
     .label = Serienummer
 fips-nonempty-password-required = FIPS-modus krever at du har et hovedpassord for hver sikkerhetsenhet. Sett et hovedpassord før du slår på FIPS-modus.
 unable-to-toggle-fips = Klarte ikke å endre FIPS-modusen for sikkerhetsenheten. Det anbefales at du avslutter og starter dette programmet på nytt.
+load-pk11-module-file-picker-title = Velg en PKCS #11-enhetsdriver å laste
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Modulnavnet kan ikke være tomt.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ er reservert og kan ikke brukes som modulnavn.
 add-module-failure = Klarte ikke legge til modul
 del-module-warning = Er du sikker på at du vil slette denne sikkerhetsmodulen?
 del-module-error = Klarte ikke slette modul
