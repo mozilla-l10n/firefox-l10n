@@ -44,3 +44,7 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = Effacer maintenant
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = Tous les éléments sélectionnés seront effacés.
