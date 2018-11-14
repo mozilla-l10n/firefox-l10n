@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = 关闭多个标签页时警告您
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = 退出浏览器或关闭多个标签页时警告您
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = 打开多个标签页可能致使 { -brand-short-name } 缓慢时警告
     .accesskey = d
@@ -285,6 +288,9 @@ update-enable-search-update =
     .label = 自动更新搜索引擎
     .accesskey = e
 update-pref-write-failure-title = 写入失败
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = 无法保存首选项。未能写入文件：{ $path }
 
 ## General Section - Performance
 
