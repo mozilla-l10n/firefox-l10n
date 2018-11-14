@@ -38,8 +38,16 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Carregar controlador do dispositivo PKCS#11
+load-device-modname =
+    .value = Nome do módulo
+    .accesskey = m
 load-device-modname-default =
     .value = Novo módulo PKCS#11
+load-device-filename =
+    .value = Nome do ficheiro do módulo
+    .accesskey = f
 load-device-browse =
     .label = Procurar…
     .accesskey = P
@@ -79,6 +87,13 @@ devinfo-serialnum =
     .label = Número de série
 fips-nonempty-password-required = O modo FIPS requer uma palavra-passe mestra definida para cada dispositivo de segurança. Por favor defina a palavra-passe antes de tentar ativar o modo FIPS.
 unable-to-toggle-fips = Não foi possível alterar o modo FIPS para o dispositivo de segurança. É recomendado que saia e reinicie esta aplicação.
+load-pk11-module-file-picker-title = Escolha um controlador do dispositivo PKCS#11 para carregar
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = O nome do módulo não pode estar vazio.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ está reservado e não pode ser utilizado como nome de módulo.
 add-module-failure = Não é possível adicionar módulo
 del-module-warning = Tem a certeza de que pretende apagar este módulo de segurança?
 del-module-error = Não foi possível apagar o módulo
