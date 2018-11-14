@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Gosodiadau Clirio Hanes
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
+dialog-title =
+    .title = Clirio'r Hanes Diweddar
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Clirio'r Holl Hanes
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -11,6 +24,15 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Cyfnod i'w glirio:{ " " }
+    .accesskey = C
+clear-time-duration-value-last-hour =
+    .label = Awr Diwethaf
+clear-time-duration-value-last-2-hours =
+    .label = Dwy Awr Diwethaf
+clear-time-duration-value-last-4-hours =
+    .label = Pedair Awr Diwethaf
 clear-time-duration-value-today =
     .label = Heddiw
 clear-time-duration-value-everything =
