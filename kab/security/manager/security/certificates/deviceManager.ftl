@@ -35,9 +35,17 @@ devmgr-button-enable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Sali-d PKCS#11 anuḍaf n ibenk
 load-device-info = Sekcem talɣut ɣef uzegrir i tebɣiḍ aţernuḍ.
+load-device-modname =
+    .value = Isem n uzegrir
+    .accesskey = F
 load-device-modname-default =
     .value = Azegrir amaynut PKCS#11
+load-device-filename =
+    .value = Isem n ufaylu n uzegrir
+    .accesskey = a
 load-device-browse =
     .label = ɛiwed nadi ...
     .accesskey = B
@@ -75,6 +83,13 @@ devinfo-serialnum =
     .label = Uṭṭun n umazrar
 fips-nonempty-password-required = Askar FIPS isra d aken ad tesbaduḍ awal uffir agejdan i yal ibenk n tɣellist. Ma ulac aɣilif, sbadu awal uffir agejdan send ad tremdeḍ askar FIPS.
 unable-to-toggle-fips = Asnifel n uskar FIPS i yibenk n tɣellist d awezɣi. Ihul limmer ad teffɣeḍ, sakin ad talseḍ asenker i usnas-agi.
+load-pk11-module-file-picker-title = Fren anuḍaf n ibenk PKCS#11 atsaliḍ
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Isem n uzegrir ur yezmir ara ad yili d ilem.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ yettwaḥeṛṛa ihi ur tezmireḍ ara ad tesqedceḍ-t am yisem n uzegrir.
 add-module-failure = Timerna n uzegrir ţawezɣit
 del-module-warning = Tebɣiḍ ad tekseḍ azegrir-agi n tɣellist?
 del-module-error = D-awezɣi tukksa n uzegrir
