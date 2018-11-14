@@ -15,5 +15,16 @@
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+sanitize-everything-undo-warning = Dizze aksje kin net ûngedien makke wurde.
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = No wiskje
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Alle skiednis sil wiske wurde.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = Alle selektearre items sille wiske wurde.
