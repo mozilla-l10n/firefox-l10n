@@ -898,11 +898,17 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel2 "Navegatô">
 <!ENTITY mls_notification_channel "Serviçio de localizaçion de &vendorShortName;">
 <!ENTITY download_notification_channel "Descaregamenti">
 <!ENTITY media_notification_channel "Riproduçion media">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "Notifiche push de &brandShortName;">
+<!ENTITY media_notification_channel2 "Son e video">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel2 "Conseggi e dritonaie de &vendorShortName;">
 <!ENTITY updater_notification_channel "Agiornamenti app">
 <!ENTITY synced_tabs_notification_channel "Feuggi scincronizæ">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
