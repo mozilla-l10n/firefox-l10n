@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Glan an eachdraidh gu lèir
     .style = width: 45em
+clear-data-settings-label = Nuair a thèid a dhùnadh, bu chòir dha { -brand-short-name } na leanas a ghlanadh gu fèin-obrachail:
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
