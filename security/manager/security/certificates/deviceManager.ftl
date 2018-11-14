@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Manaidsear nan uidheaman
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Mòidealan is uidheaman tèarainteachd
 devmgr-header-details =
@@ -35,6 +38,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Load PKCS#11 Device Driver
 load-device-info = Cuir a-steach fiosrachadh mun mhòideal a bu toigh leat a chur ris.
 load-device-modname-default =
     .value = Mòideal PKCS#11 ùr
@@ -77,6 +82,7 @@ devinfo-serialnum =
     .label = Àireamh shreathach
 fips-nonempty-password-required = Tha e riatanach sa mhodh FIPS gu bheil prìomh fhacal-faire agad airson gach uidheam tèarainteachd. Suidhich am facal-faire mus feuch thu ris a' mhodh FIPS a chur an comas.
 unable-to-toggle-fips = Cha ghabh am modh FIPS airson an uidheim tèarainteachd atharrachadh. Mholar dhut gum fàg thu an-seo 's gun tòisich thu an aplacaid seo a-rithist.
+load-pk11-module-file-picker-title = Choose a PKCS#11 device driver to load
 add-module-failure = Cha ghabh am mòideal a chur ris
 del-module-warning = A bheil thu cinnteach gu bheil thu airson am mòideal tèarainteachd seo a sguabadh às?
 del-module-error = Cha ghabh am mòideal a sguabadh às
