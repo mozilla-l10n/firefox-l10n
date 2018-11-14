@@ -26,6 +26,12 @@ devmgr-button-load =
 devmgr-button-unload =
     .label = Уклони
     .accesskey = к
+devmgr-button-enable-fips =
+    .label = Омогући FIPS
+    .accesskey = г
+devmgr-button-disable-fips =
+    .label = Онемогући FIPS
+    .accesskey = г
 
 ## Strings used for load device
 
@@ -64,10 +70,12 @@ devinfo-modname =
     .label = Модул
 devinfo-modpath =
     .label = Путања
+login-failed = Грешка при пријави на систем
 devinfo-label =
     .label = Ознака
 devinfo-serialnum =
     .label = Серијски број
+fips-nonempty-password-required = За рад у режиму одговарања FIPS неопходно је унети главну лозинку за сваку врсту заштите. Подесите главну лозинке пре преласка у дати режим.
 add-module-failure = Немогуће је додати модул
 del-module-warning = Да ли заиста желите да уклоните овај модул заштите?
 del-module-error = Неуспешно брисање модула
