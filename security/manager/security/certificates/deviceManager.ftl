@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = מנהל התקנים
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = מודולי והתקני אבטחה
 devmgr-header-details =
