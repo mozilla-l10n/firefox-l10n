@@ -15,6 +15,8 @@ clear-time-duration-value-last-hour =
     .label = la darrièra ora
 clear-time-duration-value-last-2-hours =
     .label = las 2 darrièras oras
+clear-time-duration-value-last-4-hours =
+    .label = las quatre darrièras oras
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -22,4 +24,26 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Istoric
+item-cookies =
+    .label = Cookies
+    .accesskey = C
+item-active-logins =
+    .label = Connexions activas
+    .accesskey = a
+item-cache =
+    .label = Escondedor
+    .accesskey = n
+data-section-label = Donadas
+item-site-preferences =
+    .label = Preferéncias del site
+    .accesskey = s
+item-offline-apps =
+    .label = Donadas de sitz web fòra connexion
+    .accesskey = s
 sanitize-everything-undo-warning = Impossible d'anullar aquesta accion.
+window-close =
+    .key = w
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Tot l'istoric serà escafat.
