@@ -23,6 +23,15 @@ clear-time-duration-value-everything =
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+item-cookies =
+    .label = కుకీలు
+    .accesskey = C
+item-active-logins =
+    .label = చేతన లాగ్ ఇన్లు
+    .accesskey = L
 data-section-label = దత్తాంశము
+item-offline-apps =
+    .label = ఆఫ్‌లైన్ వెబ్‌సైటు డాటా
+    .accesskey = O
 window-close =
     .key = w
