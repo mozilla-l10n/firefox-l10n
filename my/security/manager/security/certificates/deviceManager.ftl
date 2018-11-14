@@ -38,6 +38,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = PKCS#11 ဒရိုင်ဘာကို ဖွင့်ပါ
 load-device-info = သင် ထည့်သွင်းလိုတဲ့ အစိတ်အပိုင်းရဲ့ အချက်အလက်ကို ရေးထည့်ပါ။
 load-device-modname-default =
     .value = PKCS#11 အစိတ်အပိုင်းသစ်
@@ -80,6 +82,7 @@ devinfo-serialnum =
     .label = အစဉ်လိုက် အမှတ်စဉ်
 fips-nonempty-password-required = FIPS စနစ်က လုံခြုံရေး ကိရိယာတိုင်းအတွက် ပင်မ စကားဝှက် အစုတခု သင်ထားရှိဖို့ တောင်းဆိုတယ်။ FIPS စနစ်ကို ဖွင့်ဖို့ မကြိုးစားခင် စကားဝှက်ကို ထားရှိပါ။
 unable-to-toggle-fips = လုံခြုံရေးပစ္စည်းအတွက် FIPS အပြင်အဆင်သို့မပြောင်းလဲနိုင်ပါ။အက်ပလီကေးရှင်းအား ထွက်(သို့)ပြန်စလိုက်တာအကောင်းဆုံးဖြစ်သည်။
+load-pk11-module-file-picker-title = ဖွင့်ရန် PKCS#11 ကိရိယာတစ်ခုကို ရွေးချယ်ပါ
 add-module-failure = အစိတ်အပိုင်းကို မထည့်သွင်းနိုင်ဘူး
 del-module-warning = ဒီလုံခြုံရေး အစိတ်အပိုင်းကို ပယ်ဖျက်ဖို့ သင် သေချာသလား။
 del-module-error = အစိတ်အပိုင်းကို မပယ်ဖျက်နိုင်ဘူး
