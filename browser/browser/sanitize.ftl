@@ -17,3 +17,7 @@
 
 window-close =
     .key = w
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = সকলো ইতিহাস মচি পেলোৱা হব।
