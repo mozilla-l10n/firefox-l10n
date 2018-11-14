@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = HTTPS üzerinden DNS çözümleme adresi
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Varsayılanı kullan ({ $url })
+    .accesskey = V
+    .tooltiptext = HTTPS üzerinden DNS’i çözümlemek için varsayılan adresi kullan
+connection-dns-over-https-url-custom =
+    .label = Özel
+    .accesskey = Ö
+    .tooltiptext = HTTPS üzerinden DNS’i çözümlemek için tercih ettiğiniz adresi girin
