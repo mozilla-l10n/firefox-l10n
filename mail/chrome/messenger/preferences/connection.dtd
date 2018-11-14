@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL za rješavanje DNS preko HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Koristi zadano">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "n">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Koristi zadani URL za rješavanje DNS preko HTTPS">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Prilagođeno">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "g">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Unesite željeni URL za rješavanje DNS preko HTTPS">
