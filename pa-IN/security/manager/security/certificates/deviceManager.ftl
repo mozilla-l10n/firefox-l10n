@@ -47,6 +47,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = ਸੀਰੀਅਲ ਨੰਬਰ
 fips-nonempty-password-required = FIPS ਮੋਡ ਲਈ ਤੁਹਾਨੂੰ ਹਰ ਸੁਰੱਖਿਆ ਜੰਤਰ ਲਈ ਇੱਕ ਮਾਸਟਰ ਪਾਸਵਰਡ ਸੈੱਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। FIPS ਮੋਡ ਯੋਗ ਕਰਨ ਤੋ ਪਹਿਲਾਂ ਮਾਸਟਰ ਪਾਸਵਰਡ ਸੈੱਟ ਕਰੋ ਜੀ।
+unable-to-toggle-fips = ਸੁਰੱਖਿਆ ਜੰਤਰ ਲਈ FIPS ਮੋਡ ਬਦਲਣ ਲਈ ਅਸਮਰੱਥ ਹੈ। ਇਹ ਸਿਫਾਰਸ਼ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ।
 add-module-failure = ਮੋਡੀਊਲ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ।
 del-module-warning = ਕੀ ਤੁਸੀਂ ਇਹ ਸੁਰੱਖਿਆ ਮੋਡੀਊਲ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 del-module-error = ਮੋਡੀਊਲ ਹਟਾਉਣ ਲਈ ਅਸਮਰੱਥ
