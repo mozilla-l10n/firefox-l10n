@@ -17,7 +17,7 @@ update-noUpdatesFound = { -brand-short-name } چھُ تازئ ترین
 update-otherInstanceHandlingUpdates = دویمِہ مثألِہ ذریعہ چُھ  اپڈیٹ کرنْہ یوان { -brand-short-name }
 update-manual = اپڈیٹس چھَ دستیاب پ۪یٹھ<label data-l10n-name="manual-link"/>
 update-unsupported = توہیہ ہیکیو نْہ یتھ سسٹمس پیٹھ مزید اپڈیٹ کْرتھ۔<label data-l10n-name="unsupported-link">مزید ہیچھیو</label>
-channel-description = تُہئ چھَو حالس  پ۪یٹھ <label data-l10n-name="current-channel"></label>  چینل كریو اپڈیٹ.{ "  " }
+channel-description = تُہئ چھَو حالس  پ۪یٹھ <label data-l10n-name="current-channel"></label>  چینل كریو اپڈیٹ.
 warningDesc-version = { -brand-short-name } چھُ تجرُبئ تئ ما آس۪ی نئ مستَقِل.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>چھُ<label data-l10n-name="community-exp-creditsLink">گلوبل كمیونیٹی</label>اكوۄٹئ كٲم كر۪ین ویب یلئ تھاونئ خٲطرئ، لوُكَن ہِند۪ی خٲطرئ تئ سارنی استیمال كرنئ خٲطرئ
 community-2 = { -brand-short-name } چھُ آمُت بناونئ<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a  <label data-l10n-name="community-creditsLink">گلوبل كمیونیٹی</label>اكوۄٹئ كٲم كر۪ین ویب یلئ تھاونئ خٲطرئ، لوُكَن ہِند۪ی خٲطرئ تئ سارنی استیمال كرنئ خٲطرئ.
