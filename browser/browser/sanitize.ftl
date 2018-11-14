@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Borrar todo el historial
     .style = width: 34em
+clear-data-settings-label = Al cerrarlo, { -brand-short-name } debería eliminar todo automáticamente
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
