@@ -31,6 +31,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = မှတ်တမ်း
+item-cookies =
+    .label = Cကွတ်ကီးများ
+    .accesskey = C
 data-section-label = အချက်အလက်ကြမ်း
 item-site-preferences =
     .label = ကွန်ရက် ဦးစားပေးအချက်များ
