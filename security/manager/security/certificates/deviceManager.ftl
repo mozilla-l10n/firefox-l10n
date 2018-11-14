@@ -89,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = FIPS moduak zuk pasahitz nagusi bat ezartzea beharrezkoa du. Mesedez, FIPS modua abiarazi baino lehen pasahitza ezarri.
 unable-to-toggle-fips = Ezin izan da segurtasun-gailuaren FIPS modua aldatu. Aplikazio honetatik irten eta berrabiaratzea gomendatzen da.
 load-pk11-module-file-picker-title = Aukeratu kargatu beharreko PKCS#11 gailuaren kontrolatzailea
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Modulu-izenak ezin du hutsik egon.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = 'Root Certs' erreserbatuta dago eta ezin da modulu-izen gisa erabili.
 add-module-failure = Ezin da modulua gehitu
 del-module-warning = Ziur zaude segurtasun-modulu hau ezabatu nahi duzula?
 del-module-error = Ezin da modulua ezabatu
