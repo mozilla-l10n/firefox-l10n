@@ -44,4 +44,5 @@ devinfo-label =
     .label = Label
 devinfo-serialnum =
     .label = Nombor Siri
+unable-to-toggle-fips = Tidak boleh untuk menukarkan mod FIPS untuk sekuriti peranti. Ini disyorkan kepada anda untuk dan mulakan semula aplikasi ini.
 add-module-failure = Tidak dapat menambah modul
