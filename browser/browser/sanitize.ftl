@@ -7,11 +7,15 @@ sanitize-prefs =
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
+dialog-title =
+    .title = ล้างประวัติล่าสุด
+    .style = width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
     .title = ล้างประวัติทั้งหมด
     .style = width: 34em
+clear-data-settings-label = เมื่อปิด { -brand-short-name } ควรล้างทั้งหมดโดยอัตโนมัติ
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -21,6 +25,9 @@ dialog-title-everything =
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = ช่วงเวลาที่จะล้าง:{ " " }
+    .accesskey = ช
 clear-time-duration-value-last-hour =
     .label = ชั่วโมงที่แล้ว
 clear-time-duration-value-last-2-hours =
@@ -38,16 +45,33 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = ประวัติ
+item-history-and-downloads =
+    .label = ประวัติการท่องเว็บและการดาวน์โหลด
+    .accesskey = ป
+item-cookies =
+    .label = คุกกี้
+    .accesskey = ค
+item-active-logins =
+    .label = การเข้าสู่ระบบที่ใช้งานอยู่
+    .accesskey = ก
 item-cache =
     .label = แคช
     .accesskey = ช
+item-form-search-history =
+    .label = ประวัติแบบฟอร์มและการค้นหา
+    .accesskey = ว
 data-section-label = ข้อมูล
+item-site-preferences =
+    .label = ค่ากำหนดไซต์
+    .accesskey = ห
 item-offline-apps =
     .label = ข้อมูลเว็บไซต์ออฟไลน์
     .accesskey = ข
 sanitize-everything-undo-warning = การกระทำนี้ไม่สามารถเลิกทำได้
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = ล้างตอนนี้
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
