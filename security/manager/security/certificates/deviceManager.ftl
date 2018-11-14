@@ -38,6 +38,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Load PKCS#11 Device Driver
 load-device-info = तपाईँले थप्न चाहनुभएको मोड्युलका लागि जानकारी प्रविष्ट गर्नुहोस्।
 load-device-modname =
     .value = मोड्युल नाम
