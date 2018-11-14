@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL för att lösa DNS över HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Använd standard">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "s">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Använd standard-URL för att lösa DNS över HTTPS">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Anpassad">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "p">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Ange önskad URL för att lösa DNS över HTTPS">
