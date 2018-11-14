@@ -41,8 +41,14 @@ devmgr-button-disable-fips =
 load-device =
     .title = Загрузка драйвера прылады PKCS#11
 load-device-info = Увядзіце звесткі пра модуль, які вы хочаце дадаць.
+load-device-modname =
+    .value = Назва модуля
+    .accesskey = Н
 load-device-modname-default =
     .value = Новы модуль PKCS#11
+load-device-filename =
+    .value = Назва файла модуля
+    .accesskey = ф
 load-device-browse =
     .label = Агляд…
     .accesskey = А
@@ -83,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = У рэжыме FIPS патрабуецца, каб галоўны пароль быў прызначаны для кожнай прылады бяспекі. Прызначце, калі ласка, пароль, перш чым уключыць рэжым FIPS.
 unable-to-toggle-fips = Немагчыма змяніць рэжым FIPS для прылады бяспекі. Вам рэкамендуецца выйсці і перазапусціць гэту праграму.
 load-pk11-module-file-picker-title = Выберыце драйвер прылады PKCS#11 для загрузкі
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Імя модуля не можа быць пустым.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ зарэзервавана і не можа выкарыстоўвацца ў якасці імя модуля.
 add-module-failure = Немагчыма дадаць модуль
 del-module-warning = Вы сапраўды хочаце выдаліць гэты модуль бяспекі?
 del-module-error = Немагчыма выдаліць модуль
