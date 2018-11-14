@@ -6,7 +6,7 @@
 <!ENTITY enableStartPage.label            "Показувати початкову сторінку в області перегляду листа при запуску &brandShortName;">
 <!ENTITY enableStartPage.accesskey        "с">
 <!ENTITY location.label                   "Розташування:">
-<!ENTITY location1.accesskey               "д">
+<!ENTITY location1.accesskey               "Р">
 <!ENTITY useDefault.label                 "Відновити">
 <!ENTITY useDefault.accesskey             "н">
 
