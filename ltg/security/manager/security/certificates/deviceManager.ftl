@@ -38,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Īluodeit PKCS#11 īreici
 load-device-info = Īvodit informaceju par moduli, kū vālotīs pīvīnuot.
+load-device-modname =
+    .value = Moduļa nūsaukums
+    .accesskey = M
 load-device-modname-default =
     .value = Jauns PKCS#11 moduls
+load-device-filename =
+    .value = Moduļa faila nūsaukums
+    .accesskey = f
 load-device-browse =
     .label = Puorsavērt...
     .accesskey = P
@@ -80,6 +88,7 @@ devinfo-serialnum =
     .label = Serejis numurs
 fips-nonempty-password-required = FIPS režyms pīprosa, ka kotrai drūseibys īrīcei ir īstateita golvonuo parole. Pyrms īslēgt FIPS režymu, lyudzu, īstotit paroli.
 unable-to-toggle-fips = Navar puorslēgt FIPS režymu drūseibys īrīcei. Īsokom aiztaiseit i puorstarteit programu.
+load-pk11-module-file-picker-title = Izavielit īluodiejamū PKCS#11 īreici
 add-module-failure = Navar pīvīnuot moduli
 del-module-warning = Voi jius asot puorlīcynuots, ka vālotīs izdzēst itū drūseibys moduli?
 del-module-error = Navar izdzēst moduli
