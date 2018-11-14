@@ -18,3 +18,7 @@
 data-section-label = তথ্য
 window-close =
     .key = w
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = পরিষ্কার করা হচ্ছে
