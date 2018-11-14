@@ -66,6 +66,7 @@ item-site-preferences =
 item-offline-apps =
     .label = Дані автономних веб-сайтів
     .accesskey = а
+sanitize-everything-undo-warning = Цю дію неможливо скасувати.
 window-close =
     .key = w
 sanitize-button-ok =
