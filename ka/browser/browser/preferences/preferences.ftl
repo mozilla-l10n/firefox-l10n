@@ -294,7 +294,7 @@ update-enable-search-update =
 update-pref-write-failure-title = ჩაწერის ხარვეზი
 # Variables:
 #   $path (String) - Path to the configuration file
-update-pref-write-failure-message = პარამეტრების შენახვა შეუძლებელია. ვერ ხერხდება ჩაწერა ფაილში: { $path }
+update-pref-write-failure-message = პარამეტრის შენახვა შეუძლებელია. ვერ ხერხდება ჩაწერა ფაილში: { $path }
 
 ## General Section - Performance
 
