@@ -21,3 +21,7 @@ sanitize-button-ok =
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Allir ferlar verða hreinsaðir.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = Allt sem er valið verður hreinsað.
