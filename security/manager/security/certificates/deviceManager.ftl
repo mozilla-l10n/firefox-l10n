@@ -89,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = A FIPS-módhoz szükséges, hogy minden adatvédelmi eszközhöz legyen mesterjelszó beállítva. Állítsa be a jelszót a FIPS-mód engedélyezése előtt.
 unable-to-toggle-fips = Nem sikerült módosítani a biztonsági eszköz FIPS-módját. Javasoljuk, hogy lépjen ki az alkalmazásból, és indítsa újra.
 load-pk11-module-file-picker-title = Válassza ki a betöltendő PKCS#11 eszközillesztőt
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = A modulnév nem lehet üres.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = A „Root Certs” fenntartott név, nem használható modulnévként.
 add-module-failure = A modul hozzáadása sikertelen.
 del-module-warning = Biztosan törölni kívánja ezt a biztonsági modult?
 del-module-error = A modul törlése sikertelen.
