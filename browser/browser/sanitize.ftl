@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Limpiar tot l'historial
     .style = width: 34em
+clear-data-settings-label = Quan se zarre, { -brand-short-name } habría de borrar-lo tot automaticament
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
