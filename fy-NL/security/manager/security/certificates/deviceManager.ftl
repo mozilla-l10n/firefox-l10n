@@ -29,17 +29,25 @@ devmgr-button-unload =
 devmgr-button-enable-fips =
     .label = FIPS ynskeakelje
     .accesskey = F
+devmgr-button-disable-fips =
+    .label = FIPS útskeakelje
+    .accesskey = F
 
 ## Strings used for load device
 
 load-device-info = Fier de ynformaasje yn foar de module dy't jo tafoegje wolle.
 load-device-modname-default =
     .value = Nije PKCS #11-module
+load-device-browse =
+    .label = Blêdzje…
+    .accesskey = B
 
 ## Token Manager
 
 devinfo-status =
     .label = Steat
+devinfo-status-not-present =
+    .label = Net oanwêzich
 devinfo-status-ready =
     .label = Klear
 devinfo-desc =
@@ -56,6 +64,8 @@ devinfo-modpath =
     .label = Paad
 devinfo-label =
     .label = Label
+devinfo-serialnum =
+    .label = Searjenûmer
 add-module-failure = Net yn steat module ta te foegjen
 del-module-warning = Binne jo wis dat jo dizze feilichheidsmodule fuortsmite wolle?
 del-module-error = Net yn steat module fuort te smiten
