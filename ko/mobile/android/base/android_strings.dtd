@@ -898,11 +898,14 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY default_notification_channel2 "브라우저">
 <!ENTITY mls_notification_channel "&vendorShortName; 위치 기반 서비스">
 <!ENTITY download_notification_channel "다운로드">
 <!ENTITY media_notification_channel "미디어 재생">
+<!ENTITY media_notification_channel2 "사운드와 비디오">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; 푸시 알림">
+<!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; 팁과 트릭">
 <!ENTITY updater_notification_channel "앱 업데이트">
 <!ENTITY synced_tabs_notification_channel "동기화된 탭">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
