@@ -89,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = Pe FIPS reko oikotevẽ peteĩ ñe'ẽñemi ha'etéva oñemoheñóiva peteĩteĩva mba'e'oka tekorosãrãme g̃uarã. Emopyenda pe ñe'ẽñemi eñeha'ã mboyve emyandy pe FIPS reko.
 unable-to-toggle-fips = Ndaikatúi emoambue pe FIPS reko mba'e'oka rekorosãrãme g̃uarã. Ikatúramo esẽ ha upéi emoñepyrũjey ko tembipuru'i.
 load-pk11-module-file-picker-title = Eiporavo peteĩ mba'e'oka PKCS#11 emyenyhẽ hag̃ua
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Ha'ãha réra ndaikatúi opyta nandi.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ oñeñongatúma ha ndojepurukuaái ta'ãha réra rupi.
 add-module-failure = Ndaikatúi embojuapy pe ha'ãha
 del-module-warning = Añetehápepa remboguese ko tekorosãrã ra'ãha?
 del-module-error = Ndaikatúi emboguete pe ha'ãha
