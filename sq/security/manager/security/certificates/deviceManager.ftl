@@ -5,17 +5,53 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Administrues Pajisjesh
+    .style = width: 67em; height: 32em;
+devmgr-devlist =
+    .label = Pajisje dhe Module Sigurie
+devmgr-header-details =
+    .label = Hollësi
+devmgr-header-value =
+    .label = Vlerë
+devmgr-button-login =
+    .label = Hyr
+    .accesskey = H
+devmgr-button-logout =
+    .label = Dilni
+    .accesskey = D
+devmgr-button-changepw =
+    .label = Ndryshoni Fjalëkalimin
+    .accesskey = l
+devmgr-button-load =
+    .label = Ngarko
+    .accesskey = N
+devmgr-button-unload =
+    .label = Fshije
+    .accesskey = F
+devmgr-button-enable-fips =
+    .label = Aktivizo FIPS
+    .accesskey = A
+devmgr-button-disable-fips =
+    .label = Çaktivizo FIPS
+    .accesskey = A
 
 ## Strings used for load device
 
 load-device =
     .title = Ngarko Përudhës Pajisjeje PKCS#11
+load-device-info = Jepni të dhëna rreth modulit që doni të shtoni.
 load-device-modname =
     .value = Emër Moduli
     .accesskey = M
+load-device-modname-default =
+    .value = Modul i Ri PKCS#11{ " " }
 load-device-filename =
     .value = Emër kartele moduli
     .accesskey = k
+load-device-browse =
+    .label = Shfletoni…
+    .accesskey = S
 
 ## Token Manager
 
