@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = ইতিহাস অপসারণের সেটিং
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
+dialog-title =
+    .title = সাম্প্রতিক ইতিহাস অপসারণ
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = সব ইতিহাস অপসারণ
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -11,6 +24,9 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = ইতিহাস অপসারণের সময়ের পরিসর:{ " " }
+    .accesskey = T
 clear-time-duration-value-last-hour =
     .label = গত ১ ঘন্টা
 clear-time-duration-value-last-2-hours =
@@ -26,6 +42,9 @@ clear-time-duration-value-everything =
 ## to select the items to remove
 
 history-section-label = ইতিহাস
+item-history-and-downloads =
+    .label = ব্রাউজিং B এবং ডাউনলোড ইতিহাস
+    .accesskey = B
 item-cookies =
     .label = কুকি (C)
     .accesskey = C
@@ -35,6 +54,9 @@ item-active-logins =
 item-cache =
     .label = ক্যাশ (a)
     .accesskey = a
+item-form-search-history =
+    .label = ফর্ম ও অনুসন্ধানের ইতিহাস F
+    .accesskey = F
 data-section-label = তথ্য
 item-site-preferences =
     .label = সাইট সংক্রান্ত পছন্দসমূহ (S)
