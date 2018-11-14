@@ -14,11 +14,27 @@ devmgr-header-details =
     .label = פרטים
 devmgr-header-value =
     .label = ערך
+devmgr-button-login =
+    .label = התחברות
+    .accesskey = ח
+devmgr-button-logout =
+    .label = התנתקות
+    .accesskey = נ
+devmgr-button-changepw =
+    .label = שינוי ססמה
+    .accesskey = ס
+devmgr-button-unload =
+    .label = פריקה
+    .accesskey = פ
 
 ## Strings used for load device
 
+load-device-info = נא להכניס את המידע עבור המודול שברצונך להוסיף.
 load-device-modname-default =
     .value = מודול PKCS#11 חדש
+load-device-browse =
+    .label = עיון…
+    .accesskey = ע
 
 ## Token Manager
 
@@ -54,4 +70,5 @@ devinfo-label =
 devinfo-serialnum =
     .label = מספר סידורי
 add-module-failure = לא ניתן להוסיף מודול
+del-module-warning = האם ברצונך למחוק מודול אבטחה זה?
 del-module-error = לא ניתן למחוק מודול
