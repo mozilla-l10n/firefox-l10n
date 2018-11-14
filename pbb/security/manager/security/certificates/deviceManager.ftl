@@ -12,4 +12,4 @@
 ## Token Manager
 
 devinfo-status-logged-in =
-    .label = Pkakhen takhnxisaa{ " " }
+    .label = Pkakhen takhnxisaa
