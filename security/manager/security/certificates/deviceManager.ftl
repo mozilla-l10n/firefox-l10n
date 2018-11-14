@@ -26,6 +26,12 @@ devmgr-button-load =
 devmgr-button-unload =
     .label = अनलोड  करू{ " " }
     .accesskey = U
+devmgr-button-enable-fips =
+    .label = FIPS सक्रिय  करू{ " " }
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = FIPS निष्क्रिय  करू{ " " }
+    .accesskey = F
 
 ## Strings used for load device
 
@@ -42,6 +48,8 @@ devinfo-status =
     .label = स्थिति
 devinfo-status-disabled =
     .label = निष्क्रिय
+devinfo-status-not-present =
+    .label = गैर मोजुद{ " " }
 devinfo-status-uninitialized =
     .label = गैर आरंभीकृत
 devinfo-status-not-logged-in =
