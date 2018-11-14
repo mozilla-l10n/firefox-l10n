@@ -5,16 +5,27 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Aygıt yöneticisi
+    .style = width: 67em; height: 32em;
+devmgr-devlist =
+    .label = Güvenlik Modülleri ve Aygıtları
 devmgr-header-details =
     .label = Ayrıntılar
 devmgr-header-value =
     .label = Değer
+devmgr-button-login =
+    .label = Giriş yap
+    .accesskey = G
 devmgr-button-logout =
     .label = Oturumu kapat
     .accesskey = O
 devmgr-button-changepw =
     .label = Parola değiştir
     .accesskey = P
+devmgr-button-load =
+    .label = Yükle
+    .accesskey = Y
 devmgr-button-unload =
     .label = Boşalt
     .accesskey = B
@@ -46,24 +57,37 @@ load-device-browse =
 
 devinfo-status =
     .label = Durum
+devinfo-status-disabled =
+    .label = Devre dışı
 devinfo-status-not-present =
     .label = Mevcut değil
 devinfo-status-uninitialized =
     .label = Ayarsız
 devinfo-status-not-logged-in =
     .label = Giriş yapılmadı
+devinfo-status-logged-in =
+    .label = Giriş yapıldı
 devinfo-status-ready =
     .label = Hazır
 devinfo-desc =
     .label = Açıklama
 devinfo-man-id =
     .label = Üretici
+devinfo-hwversion =
+    .label = HW Sürümü
+devinfo-fwversion =
+    .label = FW Sürümü
+devinfo-modname =
+    .label = Modül
 devinfo-modpath =
     .label = Yol
 login-failed = Giriş başarısız
 devinfo-label =
     .label = Etiket
+devinfo-serialnum =
+    .label = Seri numarası
 fips-nonempty-password-required = FIPS kipi, bütün güvenlik ayarlamaları için bir ana parola ihtiyaç duyar. Gerekli parolayı yerleştirin ve FIPS kipi etkinleştirmek için tekrar deneyin.
+unable-to-toggle-fips = FIPS kipi güvenlik aygıtı için değiştirilemiyor. Bu uygulamadan çıkıp uygulamayı yeniden başlatmanız tavsiye edilir.
 load-pk11-module-file-picker-title = Yüklemek için bir PKCS#11 aygıt sürücüsü seçin
 # Load Module Dialog
 load-module-help-empty-module-name =
