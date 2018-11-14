@@ -89,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = Il modus FIPS utilisescha in pled-clav universal per mintga modul da criptografia. Definescha per plaschair il pled-clav, avant che empruvar d'activar il modus FIPS.
 unable-to-toggle-fips = Impussibel da midar il modus FIPS da quest modul da criptografia. Igl è recumandà da terminar e reaviar questa applicaziun.
 load-pk11-module-file-picker-title = Tscherner in driver per l'indriz PKCS#11 per chargiar
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Il num dal modul na dastga betg esser vid.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = «Root Certs» è reservà e na dastga betg vegnir duvrà sco num dal modul.
 add-module-failure = Impussibel da chargiar il modul.
 del-module-warning = Duai quest modul da segirezza propi vegnir stizzà?
 del-module-error = Impussibel da stizzar il modul
