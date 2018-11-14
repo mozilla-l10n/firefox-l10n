@@ -38,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = PKCS #11 ਯੰਤਰ ਡਰਾਇਵਰ ਲੋਡ ਕਰੋ
 load-device-info = ਜੋ ਮੋਡੀਊਲ ਤੁਸੀਂ ਸ਼ਾਮਿਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਉਸ ਦੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ
+load-device-modname =
+    .value = ਮੋਡਿਊਲ ਨਾਂ
+    .accesskey = M
 load-device-modname-default =
     .value = ਨਵਾਂ PKCS#11 ਮੋਡੀਊਲ
+load-device-filename =
+    .value = ਮੋਡਿਊਲ ਫ਼ਾਈਲ-ਨਾਂ
+    .accesskey = f
 load-device-browse =
     .label = ...ਝਲਕ
     .accesskey = B
@@ -80,6 +88,13 @@ devinfo-serialnum =
     .label = ਸੀਰੀਅਲ ਨੰਬਰ
 fips-nonempty-password-required = FIPS ਮੋਡ ਲਈ ਤੁਹਾਨੂੰ ਹਰ ਸੁਰੱਖਿਆ ਜੰਤਰ ਲਈ ਇੱਕ ਮਾਸਟਰ ਪਾਸਵਰਡ ਸੈੱਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। FIPS ਮੋਡ ਯੋਗ ਕਰਨ ਤੋ ਪਹਿਲਾਂ ਮਾਸਟਰ ਪਾਸਵਰਡ ਸੈੱਟ ਕਰੋ ਜੀ।
 unable-to-toggle-fips = ਸੁਰੱਖਿਆ ਜੰਤਰ ਲਈ FIPS ਮੋਡ ਬਦਲਣ ਲਈ ਅਸਮਰੱਥ ਹੈ। ਇਹ ਸਿਫਾਰਸ਼ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ।
+load-pk11-module-file-picker-title = ਲੋਡ ਕਰਨ ਵਾਸਤੇ PKCS #11 ਡਿਵਾਈਸ ਡਰਾਇਵਰ ਚੁਣੋ
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = ਮੋਡੀਊਲ ਨਾਂ ਖਾਲੀ ਨਹੀਂ ਹੋ ਸਕਦਾ ਹੈ।
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘ਰੂਟ ਸਰਟ‘ ਰਾਖਵਾਂ ਹੈ ਅਤੇ ਮੋਡੀਊਲ ਨਾਂ ਵਜੋਂ ਵਰਤਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ।
 add-module-failure = ਮੋਡੀਊਲ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ।
 del-module-warning = ਕੀ ਤੁਸੀਂ ਇਹ ਸੁਰੱਖਿਆ ਮੋਡੀਊਲ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 del-module-error = ਮੋਡੀਊਲ ਹਟਾਉਣ ਲਈ ਅਸਮਰੱਥ
