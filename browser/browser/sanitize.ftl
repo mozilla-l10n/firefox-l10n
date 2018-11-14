@@ -24,6 +24,9 @@ dialog-title-everything =
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = 삭제할 기간:{ " " }
+    .accesskey = T
 clear-time-duration-value-last-hour =
     .label = 최근 1시간
 clear-time-duration-value-last-2-hours =
@@ -64,6 +67,8 @@ item-offline-apps =
     .label = 오프라인 웹 데이터
     .accesskey = O
 sanitize-everything-undo-warning = 이 작업을 취소할 수 없습니다.
+window-close =
+    .key = w
 sanitize-button-ok =
     .label = 지금 삭제
 # The label for the default button between the user clicking it and the window
