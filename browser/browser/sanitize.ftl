@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Slett all historikk
     .style = width: 34em
+clear-data-settings-label = Når { -brand-short-name } avslutter, skal følgende slettes automatisk
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -63,6 +64,9 @@ data-section-label = Data
 item-site-preferences =
     .label = Nettstedsinnstillinger
     .accesskey = N
+item-offline-apps =
+    .label = Frakoblet nettstedsdata
+    .accesskey = F
 sanitize-everything-undo-warning = Denne handlingen kan ikke angres.
 window-close =
     .key = w
