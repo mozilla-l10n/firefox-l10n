@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Менаџер уређаја
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Безбедносни модули и уређаји
 devmgr-header-details =
@@ -35,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Учитај драјвер PKCS#11 уређаја
 load-device-info = Унесите податке о модулу који желите да додате.
+load-device-modname =
+    .value = Име модула
+    .accesskey = И
 load-device-modname-default =
     .value = Нови модул PKCS#11
+load-device-filename =
+    .value = Назив модула
+    .accesskey = Н
 load-device-browse =
     .label = Преглед…
     .accesskey = П
@@ -77,6 +88,13 @@ devinfo-serialnum =
     .label = Серијски број
 fips-nonempty-password-required = За рад у режиму одговарања FIPS неопходно је унети главну лозинку за сваку врсту заштите. Подесите главну лозинке пре преласка у дати режим.
 unable-to-toggle-fips = Није могуће променити FIPS начин за безбедносни уређај. Препоручљиво је да изађете и поново покренете апликацију.
+load-pk11-module-file-picker-title = Изаберите драјвер PKCS#11 уређаја за учитавање
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Име модуле не може бити празно
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ је резервисано и не може се искористити као име модула.
 add-module-failure = Немогуће је додати модул
 del-module-warning = Да ли заиста желите да уклоните овај модул заштите?
 del-module-error = Неуспешно брисање модула
