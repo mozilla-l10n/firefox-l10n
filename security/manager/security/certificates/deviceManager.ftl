@@ -89,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = Modus FIPS sej žada, zo hłowne hesło za kóždy wěstotny grat nastajeće. Prošu nastajće hesło, prjedy hač spytaće modus FIPS zmóžniće.
 unable-to-toggle-fips = Njeje móžno, FIPS-modus za wěstotny grat změnić. Poruča so, zo tute nałoženje kónčiće a znowa startujeće.
 load-pk11-module-file-picker-title = Wubjerće gratowy ćěrjak PKCS#11, kotryž ma so začitać
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Modulowe mjeno njesmě falować.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = „Root Certs“ je rezerwowane mjeno a njeda so jako modulowe mjeno wužiwać.
 add-module-failure = Modul njeda so přidać
 del-module-warning = Chceće woprawdźe tutón wěstotny modul zhašeć?
 del-module-error = Njeje móžno, modul zhašeć
