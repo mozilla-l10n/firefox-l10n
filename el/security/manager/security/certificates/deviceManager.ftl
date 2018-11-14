@@ -26,12 +26,26 @@ devmgr-button-load =
 devmgr-button-unload =
     .label = Εκφόρτωση
     .accesskey = κ
+devmgr-button-enable-fips =
+    .label = Ενεργοποίηση FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Απενεργοποίηση FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device =
+    .title = Φόρτωση προγράμματος οδήγησης συσκευής PKCS#11
 load-device-info = Εισάγετε τις πληροφορίες για τη μονάδα που θέλετε να προσθέσετε.
+load-device-modname =
+    .value = Όνομα μονάδας
+    .accesskey = Μ
 load-device-modname-default =
     .value = Νέα μονάδα  PKCS#11
+load-device-filename =
+    .value = Όνομα αρχείου μονάδας
+    .accesskey = α
 load-device-browse =
     .label = Αναζήτηση...
     .accesskey = ζ
@@ -60,6 +74,8 @@ devinfo-hwversion =
     .label = Έκδοση HW
 devinfo-fwversion =
     .label = Έκδοση FW
+devinfo-modname =
+    .label = Μονάδα
 devinfo-modpath =
     .label = Διαδρομή
 login-failed = Αποτυχία σύνδεσης
@@ -69,6 +85,7 @@ devinfo-serialnum =
     .label = Σειριακός αριθμός
 fips-nonempty-password-required = Η κατάσταση FIPS απαιτεί να έχετε έναν κύριο κωδικό για κάθε συσκευή ασφαλείας. Ορίστε τον κωδικό πριν να ενεργοποιήσετε τη λειτουργία FIPS.
 unable-to-toggle-fips = Δεν ήταν δυνατή η αλλαγή κατάστασης λειτουργίας FIPS για την συσκευή ασφαλείας. Προτείνεται να κάνετε έξοδο και επανεκκίνηση της εφαρμογής.
+load-pk11-module-file-picker-title = Επιλέξτε ένα πρόγραμμα οδήγησης συσκευής PKCS#11 για φόρτωση
 # Load Module Dialog
 load-module-help-empty-module-name =
     .value = Το όνομα αρθρώματος δεν μπορεί να είναι κενό.
