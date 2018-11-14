@@ -76,3 +76,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = Serienummer
 fips-nonempty-password-required = FIPS-läge kräver ett giltigt huvudlösenord för varje säkerhetsenhet. Ange ett lösenord innan du aktiverar FIPS-läge.
+unable-to-toggle-fips = Kunde inte ändra FIPS-läget för säkerhetsenheten. Du rekommenderas att avsluta och starta om det här programmet.
+add-module-failure = Kan inte lägga till modulen
+del-module-warning = Är du säker på att du vill ta bort säkerhetsmodulen?
+del-module-error = Kan inte ta bort modul
