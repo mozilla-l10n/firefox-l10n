@@ -11,11 +11,32 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-value-last-hour =
+    .label = ბოლო საათი
+clear-time-duration-value-last-2-hours =
+    .label = ბოლო 2 საათი
+clear-time-duration-value-last-4-hours =
+    .label = ბოლო 4 საათი
+clear-time-duration-value-everything =
+    .label = ყველაფერი
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
 history-section-label = ისტორია
 data-section-label = მონაცემები
+sanitize-everything-undo-warning = ეს ქმედება შეუქცევადია.
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = გასუფთავება ახლავე
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = ისტორია სრულად გასუფთავდება.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = ყველა მონიშნული ელემენტი გასუფთავდება.
