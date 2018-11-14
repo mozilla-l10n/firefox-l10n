@@ -46,6 +46,8 @@ load-device-browse =
 
 devinfo-status =
     .label = Statws
+devinfo-status-disabled =
+    .label = Analluogwyd
 devinfo-status-not-present =
     .label = Ddim yn Bresennol
 devinfo-status-uninitialized =
