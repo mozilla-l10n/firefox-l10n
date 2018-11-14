@@ -56,3 +56,6 @@ devinfo-modpath =
     .label = Paad
 devinfo-label =
     .label = Label
+add-module-failure = Net yn steat module ta te foegjen
+del-module-warning = Binne jo wis dat jo dizze feilichheidsmodule fuortsmite wolle?
+del-module-error = Net yn steat module fuort te smiten
