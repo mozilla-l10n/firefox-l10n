@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Bütün Tarixçəni Sil
     .style = width: 34em
+clear-data-settings-label = Qapatıldığında { -brand-short-name } hər şeyi avtomatik silməlidir
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -37,6 +38,8 @@ clear-time-duration-value-today =
     .label = Bugün
 clear-time-duration-value-everything =
     .label = Hər şey
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
@@ -51,10 +54,16 @@ item-cookies =
 item-active-logins =
     .label = Aktiv girişlər
     .accesskey = l
+item-cache =
+    .label = Keş
+    .accesskey = n
 item-form-search-history =
     .label = Forma və Axtarış Tarixçəsi
     .accesskey = F
 data-section-label = Verilən
+item-site-preferences =
+    .label = Sayt Nizamlamaları
+    .accesskey = e
 item-offline-apps =
     .label = Oflayn Websayt Məlumatları
     .accesskey = O
