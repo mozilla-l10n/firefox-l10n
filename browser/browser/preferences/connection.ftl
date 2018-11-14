@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL для вирішення DNS через HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Використовувати типовий ({ $url })
+    .accesskey = т
+    .tooltiptext = Використовувати типовий URL для вирішення DNS через HTTPS
+connection-dns-over-https-url-custom =
+    .label = Власний
+    .accesskey = л
+    .tooltiptext = Введіть власний URL для вирішення DNS через HTTPS
