@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Manager de dispozitive
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Module și dispozitive de securitate
 devmgr-header-details =
@@ -31,6 +34,9 @@ devmgr-button-disable-fips =
 
 load-device-modname-default =
     .value = Modul PKCS#11 nou
+load-device-browse =
+    .label = Răsfoiește…
+    .accesskey = R
 
 ## Token Manager
 
@@ -59,5 +65,8 @@ devinfo-modpath =
 login-failed = Login eșuat
 devinfo-label =
     .label = Etichetă
+devinfo-serialnum =
+    .label = Număr de serie
+unable-to-toggle-fips = Imposibil de schimbat modul FIPS pentru dispozitivul de securitate. Este recomandat să ieși și să repornești această aplicație.
 add-module-failure = Nu s-a putut adăuga modulul
 del-module-error = Nu s-a putut elimina modulul
