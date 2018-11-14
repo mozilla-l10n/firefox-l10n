@@ -2,11 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = ភាសា
-    .style = width: 30em
 languages-close-key =
     .key = w
+languages-description = ពេល​ខ្លះ ទំព័របណ្តាញត្រូវបានផ្តល់ជូន​​ច្រើន​ជាង​មួយភាសា។ ជ្រើសរើសភាសា ដើម្បីបង្ហាញទំព័របណ្ដាញទាំងនេះតាមលំដាប់ដែលអ្នកពេញចិត្ត
+languages-customize-spoof-english =
+    .label = ស្នើសុំកំណែគេហទំព័រជាភាសាអង់គ្លេស ដើម្បីបង្កើនឯកជនភាព
 languages-customize-moveup =
     .label = ​ផ្លាស់ទី​ឡើង​លើ
     .accesskey = ង

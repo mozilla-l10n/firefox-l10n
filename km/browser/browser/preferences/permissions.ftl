@@ -40,6 +40,8 @@ permissions-capabilities-allow =
     .label = អនុញ្ញាត
 permissions-capabilities-block =
     .label = ទប់ស្កាត់
+permissions-capabilities-prompt =
+    .label = សួរ​ជានិច្ច
 
 ## Invalid Hostname Dialog
 
@@ -58,6 +60,9 @@ permissions-exceptions-tracking-protection-desc = អ្នកបានបិទ
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = វេបសាយដែលអនុញ្ញាត - ការលេចឡើង
+    .style = { permissions-window.style }
 permissions-exceptions-popup-desc = អ្នក​អាច​បញ្ជាក់​តំបន់បណ្ដាញ​ណាមួយ​ដែល​អនុញ្ញាត​ឲ្យ​បើក​បង្អួច​លេចឡើង ។ វាយ​អាសយដ្ឋាន​ជាក់លាក់​របស់​តំបន់បណ្ដាញ​ដែល​អ្នក​ចង់​អនុញ្ញាត បន្ទាប់មក ចុច​អនុញ្ញាត ។
 
 ## Exceptions - Saved Logins
