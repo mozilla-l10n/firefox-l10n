@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Evidentiar toto
     .accesskey = E
     .tooltiptext = Evidentiar le occurrentia successive del phrase
+findbar-highlight-all2 =
+    .label = Evidentiar toto
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] t
+        }
+    .tooltiptext = Evidentia tote le occurrentias del phrase
 findbar-case-sensitive =
     .label = Distinger majusculas/minusculas
     .accesskey = D
