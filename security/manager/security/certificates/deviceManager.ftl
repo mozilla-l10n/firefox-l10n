@@ -76,6 +76,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = क्रम संख्या
 fips-nonempty-password-required = FIPS मोड के लिये जरूरी है कि आपके पास एक मुख्य कूटशब्द रहना चाहिये हर सुरक्षा युक्ति के लिये सेट. कृपया कूटशब्द सेट करें FIPS मोड सक्रिय करने के पहले.
+unable-to-toggle-fips = Unable to change the FIPS mode for the security device. It is recommended that you exit and restart this application.
 add-module-failure = माड्यूल जोड़ने में असमर्थ
 del-module-warning = क्या आप इस सुरक्षा मौड्यूल को मिटाने के लिये निश्चित हैं?
 del-module-error = मॉड्यूल मिटाने में असमर्थ
