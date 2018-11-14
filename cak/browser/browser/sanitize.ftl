@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Tiyuj el ronojel ri natab'äl
     .style = width: 34em
+clear-data-settings-label = Toq xtitz'apïx, { -brand-short-name } k'o ta chi ruyonil nuyüj ronojel
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
