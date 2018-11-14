@@ -898,11 +898,14 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+<!ENTITY default_notification_channel2 "مرورگر">
 <!ENTITY mls_notification_channel "&vendorShortName; خدمات بر اساس موقعیت">
 <!ENTITY download_notification_channel "دریافت‌ها">
 <!ENTITY media_notification_channel "بازپخش رسانه">
+<!ENTITY media_notification_channel2 "صدا و تصویر">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "پرتاب هشدار&brandShortName;">
+<!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; نکات و ترفندها">
 <!ENTITY updater_notification_channel "بروزرسانی برنامه">
 <!ENTITY synced_tabs_notification_channel "زبانه‌های همگام‌سازی شده">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
