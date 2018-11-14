@@ -5,9 +5,39 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = Модулі і пристрої захисту
+devmgr-header-details =
+    .label = Подробиці
+devmgr-header-value =
+    .label = Значення
+devmgr-button-login =
+    .label = Почати сеанс
+    .accesskey = о
+devmgr-button-changepw =
+    .label = Змінити пароль
+    .accesskey = і
+devmgr-button-load =
+    .label = Завантажити
+    .accesskey = З
+devmgr-button-unload =
+    .label = Вивантажити
+    .accesskey = и
+devmgr-button-enable-fips =
+    .label = Використовувати FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Вимкнути FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-info = Введіть інформацію про модуль, який хочете додати.
+load-device-modname-default =
+    .value = Новий модуль PKCS#11
+load-device-browse =
+    .label = Перегляд…
+    .accesskey = я
 
 ## Token Manager
 
@@ -43,5 +73,6 @@ devinfo-label =
 devinfo-serialnum =
     .label = Серійний номер
 fips-nonempty-password-required = Для роботи в режимі відповідності FIPS потрібно вказати головний пароль для кожного пристрою захисту. Вкажіть ці паролі до перемикання в цей режим.
+unable-to-toggle-fips = Неможливо змінити режим FIPS для пристрою захисту. Рекомендується вийти і перезапустити програму.
 del-module-warning = Ви дійсно хочете вилучити цей модуль захисту?
 del-module-error = Неможливо вилучити модуль
