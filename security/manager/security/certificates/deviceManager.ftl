@@ -45,6 +45,8 @@ load-device-browse =
 
 devinfo-status =
     .label = Състояние
+devinfo-status-disabled =
+    .label = Изключен
 devinfo-status-not-present =
     .label = Липсва
 devinfo-status-uninitialized =
