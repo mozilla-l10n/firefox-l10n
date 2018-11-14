@@ -48,6 +48,10 @@ window-close =
     .key = W
 sanitize-button-ok =
     .label = Limpar agora
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = Limpando
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
