@@ -43,3 +43,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = Sériové číslo
 fips-nonempty-password-required = Režim FIPS vyžaduje, aby ste mali nastavené hlavné heslo pre každé bezpečnostné zariadenie. Zadajte toto heslo a potom skúste povoliť režim FIPS.
+unable-to-toggle-fips = Pre bezpečnostné zariadenie nebolo možné zmeniť režim FIPS. Odporúčame ukončenie a reštartovanie aplikácie.
+add-module-failure = Nepodarilo sa pridať modul
+del-module-warning = Naozaj chcete odstrániť tento bezpečnostný modul?
+del-module-error = Nepodarilo sa odstrániť modul
