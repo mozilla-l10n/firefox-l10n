@@ -11,9 +11,38 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-value-today =
+    .label = Heddiw
+clear-time-duration-value-everything =
+    .label = Popeth
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Hanes
+item-cookies =
+    .label = Cwcis
+    .accesskey = w
+item-active-logins =
+    .label = Mewngofnodion Gweithredol
+    .accesskey = M
+item-cache =
+    .label = Storfa
+    .accesskey = S
+item-form-search-history =
+    .label = Hanes Ffurflenni a Chwilio
+    .accesskey = F
+data-section-label = Data
+sanitize-everything-undo-warning = Nid oes modd dadwneud y weithred.
+window-close =
+    .key = w
 sanitize-button-ok =
     .label = Clirio Nawr
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Bydd yr holl hanes yn cael ei glirio.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = Bydd yr holl eitemau a ddewiswyd yn cael eu clirio.
