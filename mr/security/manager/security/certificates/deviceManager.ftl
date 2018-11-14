@@ -5,9 +5,22 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = सुरक्षा घटक व साधन
+devmgr-header-details =
+    .label = तपशील
+devmgr-header-value =
+    .label = मूल्य
+devmgr-button-enable-fips =
+    .label = FIPS कार्यान्वीत करा
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = FIPS कार्यान्वीत करा
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-info = आपल्याला हव्या असलेल्या घटकाकरता माहिती प्रविष्ट करा.
 
 ## Token Manager
 
@@ -35,6 +48,8 @@ devinfo-fwversion =
     .label = FW आवृत्ती
 devinfo-modname =
     .label = घटक
+devinfo-modpath =
+    .label = मार्ग
 login-failed = दाखल होण्यास अपयशी
 devinfo-label =
     .label = लेबल
@@ -42,3 +57,4 @@ devinfo-serialnum =
     .label = क्रमांक
 add-module-failure = घटक समाविष्ट करण्यास अपयशी
 del-module-warning = आपल्याला हे सुरक्षा घटक नक्की काढून टाकायचे?
+del-module-error = घटक काढून टाकाण्यास अपयशी
