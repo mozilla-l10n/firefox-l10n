@@ -14,6 +14,9 @@ devmgr-header-value =
 devmgr-button-login =
     .label = লগিন কৰক
     .accesskey = n
+devmgr-button-logout =
+    .label = লগ আউট কৰক
+    .accesskey = O
 devmgr-button-changepw =
     .label = পাছৱাৰ্ড সলনি কৰক
     .accesskey = P
@@ -35,6 +38,9 @@ devmgr-button-disable-fips =
 load-device-info = আপুনি যোগ দিব খোজা মডিউলৰ তথ্য দিয়ক।
 load-device-modname-default =
     .value = নতুন PKCS#11 মডিউল
+load-device-browse =
+    .label = ব্ৰাউছ কৰক…
+    .accesskey = B
 
 ## Token Manager
 
