@@ -31,6 +31,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Историја
+item-history-and-downloads =
+    .label = Историја на прелистување и преземања
+    .accesskey = И
 item-cookies =
     .label = Колачињата
     .accesskey = К
