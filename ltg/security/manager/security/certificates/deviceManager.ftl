@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Īreiču puorvaļdnīks
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Drūseibys moduļi i īrīces
 devmgr-header-details =
