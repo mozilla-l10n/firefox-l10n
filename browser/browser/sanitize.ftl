@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Slett all historikk
     .style = width: 34em
+clear-data-settings-label = Når { -brand-short-name } avsluttar, skal følgjande slettast automatisk
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -24,6 +25,15 @@ dialog-title-everything =
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Tidsperiode å slette:{ " " }
+    .accesskey = T
+clear-time-duration-value-last-hour =
+    .label = Den siste timen
+clear-time-duration-value-last-2-hours =
+    .label = Dei siste to timane
+clear-time-duration-value-last-4-hours =
+    .label = Dei siste 4 timane
 clear-time-duration-value-today =
     .label = I dag
 clear-time-duration-value-everything =
@@ -44,6 +54,12 @@ item-cookies =
 item-active-logins =
     .label = Aktive innloggingar
     .accesskey = A
+item-cache =
+    .label = Snøgglager (Cache) for nettsider
+    .accesskey = S
+item-form-search-history =
+    .label = Skjema og søkjehistorikk
+    .accesskey = S
 data-section-label = Data
 item-site-preferences =
     .label = Nettsideinnstillingar
@@ -51,6 +67,7 @@ item-site-preferences =
 item-offline-apps =
     .label = Fråkopla nettsidedata
     .accesskey = F
+sanitize-everything-undo-warning = Denne handlinga kan ikkje angrast.
 window-close =
     .key = w
 sanitize-button-ok =
