@@ -5,9 +5,39 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = নিরাপত্তা মডিউল ও ডিভাইস
+devmgr-header-details =
+    .label = বিবরণ
+devmgr-header-value =
+    .label = মান
+devmgr-button-login =
+    .label = লগইন (n)
+    .accesskey = n
+devmgr-button-logout =
+    .label = লগআউট (O)
+    .accesskey = O
+devmgr-button-changepw =
+    .label = পাসওয়ার্ড পরিবর্তন করুন (P)
+    .accesskey = P
+devmgr-button-load =
+    .label = লোড (L)
+    .accesskey = L
+devmgr-button-unload =
+    .label = আনলোড (U)
+    .accesskey = U
+devmgr-button-enable-fips =
+    .label = FIPS সক্রিয় করা হবে
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = FIPS নিষ্ক্রিয় করা হবে
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-info = আপনি যে মডিউলটি যোগ করতে ইচ্ছুক সেটি সম্পর্কে তথ্য দিন।
+load-device-modname-default =
+    .value = নতুন PKCS#11 মডিউল
 
 ## Token Manager
 
@@ -43,6 +73,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = ক্রমিক সংখ্যা
 fips-nonempty-password-required = FIPS মোডের ক্ষেত্রে প্রতিটি নিরাপত্তা ডিভাইসের জন্য একটি মাস্টার পাসওয়ার্ড নির্ধারণ করা আবশ্যক। FIPS মোড সক্রিয় করার পূর্বে অনুগ্রহ করে পাসওয়ার্ড নির্ধারণ করুন।
+unable-to-toggle-fips = নিরাপত্তা যন্ত্রের FIPS মোড পরিবর্তন করা সম্ভব হয় নাই। আপনাকে এপ্লিকেশন টি বন্ধ করে পুনরায় চালু করতে সুপারিশ করা হচ্ছে।
 add-module-failure = মডিউল যোগ করতে ব্যর্থ
 del-module-warning = আপনি কি নিশ্চিতভাবে এই নিরাপত্তা মডিউলটি মুছে ফেলতে ইচ্ছুক?
 del-module-error = মডিউল মুছে ফেলতে ব্যর্থ
