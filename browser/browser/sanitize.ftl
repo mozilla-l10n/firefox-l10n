@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Εκκαθάριση όλου του ιστορικού
     .style = width: 34em
+clear-data-settings-label = Όταν κλείνει, το { -brand-short-name } να κάνει αυτόματη εκκαθάριση των παρακάτω
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
