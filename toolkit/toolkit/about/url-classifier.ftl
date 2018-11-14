@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+url-classifier-provider-update-btn = Ažuriraj
+url-classifier-cache-refresh-btn = Osvježi
+url-classifier-cache-clear-btn = Očisti
 url-classifier-trigger-update = Pokreni nadogradnju
 url-classifier-not-available = Ništa
 url-classifier-disable-sbjs-log = Onemogući JS zapis sigurnog pretraživanja

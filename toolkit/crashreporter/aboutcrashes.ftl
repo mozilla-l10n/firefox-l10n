@@ -4,6 +4,7 @@
 
 crash-reports-title = Izvještaji rušenja
 clear-all-reports-label = Ukloni sve izvještaje
+delete-button-label = Očisti sve
 delete-confirm-title = Jeste li sigurni?
 delete-confirm-description = Ovo će obrisati sve izvještaje i oni više neće biti dostupni.
 crashes-unsubmitted-label = Neposlani izvještaji rušenja
