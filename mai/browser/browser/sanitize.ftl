@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = इतिहास साफ करब क लेल सेटिंग
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
+dialog-title =
+    .title = हाल क इतिहास साफ करू{ " " }
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -40,6 +48,12 @@ item-cookies =
 item-active-logins =
     .label = सक्रिय लागिन
     .accesskey = L
+item-cache =
+    .label = कैश
+    .accesskey = a
+item-form-search-history =
+    .label = फार्म & खोज इतिहास
+    .accesskey = फ
 data-section-label = आंकड़ा
 item-site-preferences =
     .label = साइट वरीयता
