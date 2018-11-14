@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Avertir lors de la fermeture de plusieurs onglets
     .accesskey = A
+warn-on-quit-close-multiple-tabs =
+    .label = Avertir lorsque vous quittez et fermez plusieurs onglets
+    .accesskey = r
 warn-on-open-many-tabs =
     .label = Prévenir lors de l’ouverture de multiples onglets d’un ralentissement possible de { -brand-short-name }
     .accesskey = P
@@ -288,6 +291,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = Mettre à jour automatiquement les moteurs de recherche
     .accesskey = r
+update-pref-write-failure-title = Échec d’écriture
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Impossible d’enregistrer les préférences. Impossible d’écrire dans le fichier : { $path }
