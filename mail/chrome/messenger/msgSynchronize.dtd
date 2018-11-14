@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
 
 <!ENTITY MsgSynchronize.label "Завантажити і синхронізувати листи">
 <!ENTITY MsgSelect.label "Елементи для автономної роботи">
@@ -12,7 +12,7 @@
 <!ENTITY syncTypeMail.accesskey "ш">
 <!ENTITY syncTypeNews.label "Листи груп новин">
 <!ENTITY syncTypeNews.accesskey "г">
-<!ENTITY sendMessage.label "Відіслати невідіслані листи">
+<!ENTITY sendMessage.label "Надіслати ненадіслані повідомлення">
 <!ENTITY sendMessage.accesskey "с">
 <!ENTITY workOffline.label "Перейти в автономний режим після закінчення завантаження і/або синхронізації">
 <!ENTITY workOffline.accesskey "а">

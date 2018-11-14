@@ -44,10 +44,10 @@
 <!ENTITY saveAsDraftCmd.accesskey "Ч">
 <!ENTITY saveAsTemplateCmd.label "Шаблон">
 <!ENTITY saveAsTemplateCmd.accesskey "Ш">
-<!ENTITY sendNowCmd.label "Відіслати">
+<!ENTITY sendNowCmd.label "Надіслати">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "д">
-<!ENTITY sendLaterCmd.label "Відіслати пізніше">
+<!ENTITY sendLaterCmd.label "Надіслати пізніше">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "з">
 <!ENTITY printSetupCmd.label "Параметри сторінки…">
@@ -94,14 +94,13 @@
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "в">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Виділити все">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "с">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Знайти…">
 <!ENTITY findBarCmd.accesskey "З">
 <!ENTITY findBarCmd.key "F">
@@ -205,7 +204,7 @@
 <!ENTITY highPriorityCmd.accesskey "в">
 <!ENTITY highestPriorityCmd.label "Найвища">
 <!ENTITY highestPriorityCmd.accesskey "а">
-<!ENTITY fileCarbonCopyCmd.label "Відіслати копію">
+<!ENTITY fileCarbonCopyCmd.label "Надіслати копію">
 <!ENTITY fileCarbonCopyCmd.accesskey "к">
 <!ENTITY fileHereMenu.label "Помістити сюди">
 
@@ -234,7 +233,7 @@
 <!ENTITY windowMenu.label "Вікно">
 
 <!-- Mail Toolbar -->
-<!ENTITY sendButton.label "Відіслати">
+<!ENTITY sendButton.label "Надіслати">
 <!ENTITY quoteButton.label "Цитата">
 <!ENTITY addressButton.label "Адреса">
 <!ENTITY attachButton.label "Вкладення">
@@ -243,8 +242,8 @@
 <!ENTITY printButton.label "Друк">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Відіслати цього листа зараз">
-<!ENTITY sendlaterButton.tooltip "Відіслати цей лист пізніше">
+<!ENTITY sendButton.tooltip "Надіслати це повідомлення зараз">
+<!ENTITY sendlaterButton.tooltip "Надіслати це повідомлення пізніше">
 <!ENTITY quoteButton.tooltip "Цитувати попереднй лист">
 <!ENTITY addressButton.tooltip "Вибрати адресата з адресної книги">
 <!ENTITY attachButton.tooltip2 "Додати вкладення">
@@ -270,9 +269,11 @@
 <!ENTITY subject.label "Тема:">
 <!ENTITY subject.accesskey "Т">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "В">
 <!ENTITY attachmentBucketHeader.tooltip "Панель вкладень">
 <!ENTITY attachmentBucketCloseButton.tooltip "Сховати панель вкладень">
