@@ -49,3 +49,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = Numeris
 fips-nonempty-password-required = Norint dirbti FIPS veiksenoje, reikia turėti tiek pagrindinių slaptažodžių, kiek turite saugumo priemonių. Prašom sukurti pagrindinius slaptažodžius prieš įjungiant FIPS veikseną.
+unable-to-toggle-fips = Nepavyko pakeisti su saugumo priemone naudojamos FIPS veiksenos. Patariame užbaigti šios programos darbą, o tada paleisti ją iš naujo.
+add-module-failure = Nepavyko įdiegti modulio
+del-module-warning = Ar tikrai norite pašalinti šį saugumo modulį?
+del-module-error = Modulio pašalinti nepavyko
