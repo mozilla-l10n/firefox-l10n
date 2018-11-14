@@ -10,6 +10,12 @@ sanitize-prefs-style =
 dialog-title =
     .title = Limpiar historial reciente
     .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Limpiar todo el historial
+    .style = width: 34em
+clear-data-settings-label = Al ser cerrado, { -brand-short-name } debiera borrar automáticamente todo
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -64,3 +70,17 @@ item-offline-apps =
 sanitize-everything-undo-warning = Esta acción no puede revertirse.
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = Limpiar ahora
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = Limpiando
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Todo el historial será limpiado.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = Todos los elementos seleccionados serán limpiados.
