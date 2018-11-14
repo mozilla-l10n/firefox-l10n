@@ -40,6 +40,7 @@ devmgr-button-disable-fips =
 
 load-device =
     .title = Carregar controlador do dispositivo PKCS#11
+load-device-info = Introduza a informação para o módulo que pretende adicionar.
 load-device-modname =
     .value = Nome do módulo
     .accesskey = m
