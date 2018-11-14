@@ -38,6 +38,9 @@ devmgr-button-disable-fips =
 load-device-info = Adja meg a kívánt modulinformációkat
 load-device-modname-default =
     .value = Új PKCS#11 modul
+load-device-browse =
+    .label = Tallózás…
+    .accesskey = T
 
 ## Token Manager
 
