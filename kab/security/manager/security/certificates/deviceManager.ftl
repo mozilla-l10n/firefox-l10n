@@ -32,6 +32,9 @@ devmgr-button-unload =
 devmgr-button-enable-fips =
     .label = Rmed FIPS
     .accesskey = F
+devmgr-button-disable-fips =
+    .label = Sens FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
