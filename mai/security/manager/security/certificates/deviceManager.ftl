@@ -5,6 +5,8 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = सुरक्षा मौड्यूल आओर युक्ति
 devmgr-header-details =
     .label = विवरण
 devmgr-header-value =
@@ -15,6 +17,9 @@ devmgr-button-login =
 devmgr-button-logout =
     .label = लाग आउट
     .accesskey = O
+devmgr-button-changepw =
+    .label = गुड़किल्ली बदलू
+    .accesskey = P
 devmgr-button-load =
     .label = लोड  करू{ " " }
     .accesskey = L
@@ -24,6 +29,7 @@ devmgr-button-unload =
 
 ## Strings used for load device
 
+load-device-info = मौड्यूल  कलेल  सूचना जकरा अहँ जोड़नाइ चाहैत  अछि .
 load-device-modname-default =
     .value = नव PKCS#11 मौड्यूल
 load-device-browse =
@@ -61,6 +67,7 @@ devinfo-label =
     .label = स्तर
 devinfo-serialnum =
     .label = क्रम संख्या
+fips-nonempty-password-required = FIPS मोडक लेल जरूरी अछि जे अहाँक पास एकटा मुख्य गुड़किल्ली रहनाइ चाही हर सुरक्षा युक्तिक लेल  सेट. कृप्या गुड़किल्ली सेट करू FIPS मोड सक्रिय करबाक पहिने.
 add-module-failure = माड्यूल जोड़ने मे असमर्थ
 del-module-warning = की अहँ एहि सुरक्षा मौड्यूल केँ मेटायने  कलेल  निश्चित  अछि ?
 del-module-error = माड्यूल मेटायने मे असमर्थ
