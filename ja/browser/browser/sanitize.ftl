@@ -15,6 +15,11 @@
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = 履歴
 item-cookies =
     .label = Cookie
     .accesskey = C
+item-active-logins =
+    .label = 現在のログイン情報
+    .accesskey = L
+data-section-label = データ
