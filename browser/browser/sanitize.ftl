@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Roghainnean a chum glanadh na h-eachdraidh
+    .style = width: 45em
+sanitize-prefs-style =
+    .style = width: 30em
+dialog-title =
+    .title = Glan an eachdraidh faisg ort
+    .style = width: 45em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Glan an eachdraidh gu lèir
+    .style = width: 45em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -31,6 +44,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Eachdraidh
+item-history-and-downloads =
+    .label = An eachdraidh brabhsaidh ⁊ na chaidh a luchdadh a-nuas
+    .accesskey = b
 item-cookies =
     .label = Na briosgaidean
     .accesskey = b
@@ -44,6 +60,9 @@ item-form-search-history =
     .label = Eachdraidh nam foirmean ⁊ nan lorg
     .accesskey = f
 data-section-label = Dàta
+item-offline-apps =
+    .label = Dàta làraichean far loidhne
+    .accesskey = o
 sanitize-everything-undo-warning = Chan urrainn dhut an gnìomh seo a neo-dhèanamh.
 window-close =
     .key = w
