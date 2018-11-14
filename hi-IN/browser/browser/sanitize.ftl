@@ -13,7 +13,7 @@ dialog-title =
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
-    .title = { " " }सभी इतिहास साफ करें
+    .title = सभी इतिहास साफ करें
     .style = width: 34em
 clear-data-settings-label = जब बंद हो, { -brand-short-name } को सभी चीजें मिटा देनी चाहिए
 
@@ -71,16 +71,16 @@ sanitize-everything-undo-warning = इस क्रिया को पहले
 window-close =
     .key = w
 sanitize-button-ok =
-    .label = { " " }अब साफ करें
+    .label = अब साफ करें
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
-    .label = { " " }साफ किया जा रहा है
+    .label = साफ किया जा रहा है
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = { " " }सभी इतिहास साफ किए जाएँगे.
+sanitize-everything-warning = सभी इतिहास साफ किए जाएँगे.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = { " " }सभी चुने गए मद साफ किए जाएँगे.
+sanitize-selected-warning = सभी चुने गए मद साफ किए जाएँगे.
