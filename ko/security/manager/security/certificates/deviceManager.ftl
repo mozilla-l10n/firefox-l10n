@@ -8,6 +8,12 @@
 
 ## Strings used for load device
 
+load-device-modname =
+    .value = 모듈 이름
+    .accesskey = M
+load-device-filename =
+    .value = 모듈 파일 이름
+    .accesskey = f
 
 ## Token Manager
 
@@ -44,3 +50,9 @@ devinfo-serialnum =
     .label = 일련 번호
 fips-nonempty-password-required = FIPS 모드는 각 보안 장치에 적용할 하나로 통합된 기본 암호 설정이 필요합니다. FIPS 모드를 사용하기 전에 먼저 기본 암호를 설정하십시오.
 unable-to-toggle-fips = 보안 장치에 대해 FIPS 모드를 변경할 수 없습니다. 애플리케이션을 닫고 다시 시작해 보시기 바랍니다.
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = 모듈 이름은 필수입니다.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘는 예약어이기 때문에 모듈 이름으로 사용할 수 없습니다.
