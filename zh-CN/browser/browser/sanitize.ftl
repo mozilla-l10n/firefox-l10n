@@ -66,6 +66,7 @@ item-site-preferences =
 item-offline-apps =
     .label = 脱机网站数据
     .accesskey = O
+sanitize-everything-undo-warning = 此操作不可撤销。
 window-close =
     .key = w
 sanitize-button-ok =
