@@ -7,6 +7,9 @@ sanitize-prefs =
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
+dialog-title =
+    .title = 清除最近的历史记录
+    .style = width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
@@ -21,6 +24,9 @@ dialog-title-everything =
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = 要清除的时间范围：
+    .accesskey = T
 clear-time-duration-value-last-hour =
     .label = 最近一小时
 clear-time-duration-value-last-2-hours =
@@ -38,6 +44,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = 历史记录
+item-history-and-downloads =
+    .label = 浏览和下载历史
+    .accesskey = B
 item-cookies =
     .label = Cookie
     .accesskey = C
@@ -47,6 +56,9 @@ item-active-logins =
 item-cache =
     .label = 缓存
     .accesskey = a
+item-form-search-history =
+    .label = 表单和搜索历史
+    .accesskey = F
 data-section-label = 数据
 item-site-preferences =
     .label = 站点设置
