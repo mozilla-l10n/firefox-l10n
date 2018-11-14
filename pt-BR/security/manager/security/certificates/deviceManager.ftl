@@ -34,6 +34,8 @@ load-device-browse =
 
 devinfo-status =
     .label = Status
+devinfo-status-not-present =
+    .label = Ausente
 devinfo-status-uninitialized =
     .label = Não inicializado
 devinfo-status-not-logged-in =
