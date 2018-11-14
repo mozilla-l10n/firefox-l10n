@@ -28,4 +28,5 @@ devinfo-man-id =
 login-failed = Giriş başarısız
 devinfo-label =
     .label = Etiket
+fips-nonempty-password-required = FIPS kipi, bütün güvenlik ayarlamaları için bir ana parola ihtiyaç duyar. Gerekli parolayı yerleştirin ve FIPS kipi etkinleştirmek için tekrar deneyin.
 del-module-warning = Bu güvenlik modülünü silmek istediğinizden emin misiniz?
