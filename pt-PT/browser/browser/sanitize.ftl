@@ -11,9 +11,20 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
 history-section-label = Histórico
+item-form-search-history =
+    .label = Histórico de pesquisa
+    .accesskey = q
 data-section-label = Dados
+sanitize-button-ok =
+    .label = Limpar agora
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Todo o histórico será limpo.
