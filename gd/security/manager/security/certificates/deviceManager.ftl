@@ -41,8 +41,14 @@ devmgr-button-disable-fips =
 load-device =
     .title = Load PKCS#11 Device Driver
 load-device-info = Cuir a-steach fiosrachadh mun mhòideal a bu toigh leat a chur ris.
+load-device-modname =
+    .value = Ainm a’ mhòideil
+    .accesskey = M
 load-device-modname-default =
     .value = Mòideal PKCS#11 ùr
+load-device-filename =
+    .value = Ainm faidhle a’ mhòideil
+    .accesskey = f
 load-device-browse =
     .label = Brabhsaich…
     .accesskey = B
@@ -83,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = Tha e riatanach sa mhodh FIPS gu bheil prìomh fhacal-faire agad airson gach uidheam tèarainteachd. Suidhich am facal-faire mus feuch thu ris a' mhodh FIPS a chur an comas.
 unable-to-toggle-fips = Cha ghabh am modh FIPS airson an uidheim tèarainteachd atharrachadh. Mholar dhut gum fàg thu an-seo 's gun tòisich thu an aplacaid seo a-rithist.
 load-pk11-module-file-picker-title = Choose a PKCS#11 device driver to load
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Chan fhaod ainm a’ mhòideil a bhith bàn.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = Tha “Root Certs” glèidhte is cha ghabh a chleachdadh mar ainm mòideil.
 add-module-failure = Cha ghabh am mòideal a chur ris
 del-module-warning = A bheil thu cinnteach gu bheil thu airson am mòideal tèarainteachd seo a sguabadh às?
 del-module-error = Cha ghabh am mòideal a sguabadh às
