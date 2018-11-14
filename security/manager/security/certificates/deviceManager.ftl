@@ -42,6 +42,8 @@ devinfo-status =
     .label = Κατάσταση
 devinfo-status-disabled =
     .label = Απενεργοποίηση
+devinfo-status-not-present =
+    .label = Δεν υπάρχει
 devinfo-status-uninitialized =
     .label = Δεν έχει αρχικοποιηθεί
 devinfo-status-not-logged-in =
@@ -66,5 +68,12 @@ devinfo-label =
 devinfo-serialnum =
     .label = Σειριακός αριθμός
 fips-nonempty-password-required = Η κατάσταση FIPS απαιτεί να έχετε έναν κύριο κωδικό για κάθε συσκευή ασφαλείας. Ορίστε τον κωδικό πριν να ενεργοποιήσετε τη λειτουργία FIPS.
+unable-to-toggle-fips = Δεν ήταν δυνατή η αλλαγή κατάστασης λειτουργίας FIPS για την συσκευή ασφαλείας. Προτείνεται να κάνετε έξοδο και επανεκκίνηση της εφαρμογής.
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Το όνομα αρθρώματος δεν μπορεί να είναι κενό.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = Το ‘Πιστοποιητικά Ρίζας‘ είναι δεσμευμένο και δεν μπορεί να χρησιμοποιηθεί ως όνομα αρθρώματος.
 add-module-failure = Αδυναμία προσθήκης λειτουργικής μονάδας
 del-module-error = Αδυναμία διαγραφής λειτουργικής μονάδας
