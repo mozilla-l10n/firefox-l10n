@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Ta bort all historik
     .style = width: 34em
+clear-data-settings-label = När { -brand-short-name } stängs, ska följande tas bort automatiskt
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
