@@ -40,10 +40,15 @@ item-active-logins =
 item-cache =
     .label = An tasgadan
     .accesskey = a
+item-form-search-history =
+    .label = Eachdraidh nam foirmean ⁊ nan lorg
+    .accesskey = f
 data-section-label = Dàta
 sanitize-everything-undo-warning = Chan urrainn dhut an gnìomh seo a neo-dhèanamh.
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = Falamhaich e an-dràsta
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
