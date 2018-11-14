@@ -32,6 +32,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Încarcă driver dispozitiv PKCS#11
 load-device-modname-default =
     .value = Modul PKCS#11 nou
 load-device-browse =
@@ -68,5 +70,11 @@ devinfo-label =
 devinfo-serialnum =
     .label = Număr de serie
 unable-to-toggle-fips = Imposibil de schimbat modul FIPS pentru dispozitivul de securitate. Este recomandat să ieși și să repornești această aplicație.
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Este necesar numele modulului.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = „Root Certs” este rezervat și nu poate fi folosit ca nume de modul.
 add-module-failure = Nu s-a putut adăuga modulul
 del-module-error = Nu s-a putut elimina modulul
