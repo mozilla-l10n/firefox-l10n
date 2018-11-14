@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Vymazanie celej histórie
     .style = width: 34em
+clear-data-settings-label = Pri zatvorení aplikácie { -brand-short-name } automaticky vymazať
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -69,6 +70,8 @@ item-offline-apps =
 sanitize-everything-undo-warning = Túto akciu nie je možné vrátiť späť.
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = Vymazať teraz
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
