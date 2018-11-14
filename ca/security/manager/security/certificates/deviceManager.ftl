@@ -92,6 +92,9 @@ load-pk11-module-file-picker-title = Trieu un controlador de dispositiu PKCS#11 
 # Load Module Dialog
 load-module-help-empty-module-name =
     .value = El nom del mòdul no pot estar buit.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = «Root Certs» és reservat i no es pot usar com a nom de mòdul.
 add-module-failure = No s'ha pogut afegir el mòdul
 del-module-warning = Esteu segur que voleu suprimir aquest mòdul de seguretat?
 del-module-error = No s'ha pogut suprimir el mòdul
