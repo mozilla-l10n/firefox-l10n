@@ -11,9 +11,59 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Te wissen tijdsperiode:{ " " }
+    .accesskey = T
+clear-time-duration-value-last-hour =
+    .label = Laatste uur
+clear-time-duration-value-last-2-hours =
+    .label = Laatste twee uur
+clear-time-duration-value-last-4-hours =
+    .label = Laatste vier uur
+clear-time-duration-value-today =
+    .label = Vandaag
+clear-time-duration-value-everything =
+    .label = Alles
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Geschiedenis
+item-cookies =
+    .label = Cookies
+    .accesskey = C
+item-active-logins =
+    .label = Actieve aanmeldingen
+    .accesskey = A
+item-cache =
+    .label = Buffer
+    .accesskey = B
+item-form-search-history =
+    .label = Formulier- & zoekgeschiedenis
+    .accesskey = F
+data-section-label = Gegevens
+item-site-preferences =
+    .label = Websitevoorkeuren
+    .accesskey = v
+item-offline-apps =
+    .label = Offlinewebsitegegevens
+    .accesskey = O
+sanitize-everything-undo-warning = Deze actie kan niet ongedaan worden gemaakt.
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = Nu wissen
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = Wissen
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Alle geschiedenis zal worden gewist.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = Alle geselecteerde items zullen worden gewist.
