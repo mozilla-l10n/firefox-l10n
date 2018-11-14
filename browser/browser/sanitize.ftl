@@ -14,6 +14,12 @@
 clear-time-duration-prefix =
     .value = পৰিষ্কাৰ কৰিবলৈ সময়ৰ সীমা:{ " " }
     .accesskey = T
+clear-time-duration-value-last-hour =
+    .label = সৰ্বশেষ ঘন্টা
+clear-time-duration-value-last-2-hours =
+    .label = যোৱা দুই ঘন্টা
+clear-time-duration-value-last-4-hours =
+    .label = যোৱা চাৰি ঘন্টা
 clear-time-duration-value-today =
     .label = আজি
 clear-time-duration-value-everything =
@@ -25,10 +31,20 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = ইতিহাস
+item-cookies =
+    .label = কুকিসমূহ
+    .accesskey = C
+item-active-logins =
+    .label = সক্ৰিয় লগিনসমূহ
+    .accesskey = L
 data-section-label = তথ্য
 item-site-preferences =
     .label = ছাইটৰ পছন্দ
     .accesskey = S
+item-offline-apps =
+    .label = অফ-লাইন ৱেব ছাইটৰ তথ্য
+    .accesskey = O
+sanitize-everything-undo-warning = এই কাৰ্য্য পিছত নোহোৱা কৰিব নোৱাৰি।
 window-close =
     .key = w
 sanitize-button-ok =
