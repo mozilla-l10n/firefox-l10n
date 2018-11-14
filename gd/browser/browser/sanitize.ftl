@@ -31,6 +31,15 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Eachdraidh
+item-cookies =
+    .label = Na briosgaidean
+    .accesskey = b
+item-active-logins =
+    .label = Logadh a-steach beò sam bith
+    .accesskey = L
+item-cache =
+    .label = An tasgadan
+    .accesskey = a
 data-section-label = Dàta
 sanitize-everything-undo-warning = Chan urrainn dhut an gnìomh seo a neo-dhèanamh.
 window-close =
