@@ -29,6 +29,12 @@ devmgr-button-load =
 devmgr-button-unload =
     .label = Uပြန်မလုပ်
     .accesskey = U
+devmgr-button-enable-fips =
+    .label = FIPS ကို ဖွင့်ထားပါ
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = FIPS ကို ပိတ်ထားပါ
+    .accesskey = F
 
 ## Strings used for load device
 
