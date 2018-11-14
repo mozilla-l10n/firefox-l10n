@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = すべての履歴を消去
     .style = width: 34em
+clear-data-settings-label = { -brand-short-name } の終了時には次のデータを自動消去する
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -63,7 +64,12 @@ data-section-label = データ
 item-site-preferences =
     .label = サイトの設定
     .accesskey = S
+item-offline-apps =
+    .label = ウェブサイトのオフライン作業用データ
+    .accesskey = O
 sanitize-everything-undo-warning = この操作は取り消せません。
+window-close =
+    .key = w
 sanitize-button-ok =
     .label = 今すぐ消去
 # The label for the default button between the user clicking it and the window
