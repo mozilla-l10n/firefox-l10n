@@ -11,6 +11,9 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = ସଫା କରିବା ପାଇଁ ସମୟ ସୀମା (T):{ " " }
+    .accesskey = T
 clear-time-duration-value-last-hour =
     .label = ଅନ୍ତିମ ଘଡ଼ି
 clear-time-duration-value-last-2-hours =
@@ -28,10 +31,36 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = ପୁରୁଣା ତଥ୍ୟ
+item-cookies =
+    .label = କୁକିଗୁଡ଼ିକ (C)
+    .accesskey = C
+item-active-logins =
+    .label = ସକ୍ରିୟ ଲଗଇନଗୁଡ଼ିକ
+    .accesskey = L
+item-cache =
+    .label = କ୍ୟାଶେ (a)
+    .accesskey = a
 data-section-label = ତଥ୍ୟ
 item-site-preferences =
     .label = ସାଇଟ ପସନ୍ଦଗୁଡ଼ିକ
     .accesskey = S
+item-offline-apps =
+    .label = ଅଫ ଲାଇନ ୱେବସାଇଟ ତଥ୍ୟ (O)
+    .accesskey = O
 sanitize-everything-undo-warning = ଏହି କାର୍ଯ୍ୟର ପଦକ୍ଷେପ ବାତିଲ କରିପାରିବେ ନାହିଁ।
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = ବର୍ତ୍ତମାନ ସଫାକରନ୍ତୁ
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = ସଫା କରୁଅଛି
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = ସମସ୍ତ ପୁରୁଣା ତଥ୍ୟ ସଫାହୋଇଯିବ।
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = ସମସ୍ତ ବଚ୍ଛିତ ବସ୍ତୁଗୁଡ଼ିକ ସଫାହୋଇଯିବ।
