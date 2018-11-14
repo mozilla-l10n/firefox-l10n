@@ -69,4 +69,5 @@ devinfo-serialnum =
     .label = 序號
 fips-nonempty-password-required = FIPS 模式需要設定主控密碼。請先設定主控密碼。
 add-module-failure = 無法新增模組
+del-module-warning = 您確定要刪除此模組？
 del-module-error = 無法刪除模組
