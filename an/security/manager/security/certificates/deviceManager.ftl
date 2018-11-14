@@ -41,8 +41,14 @@ devmgr-button-disable-fips =
 load-device =
     .title = Cargar lo Driver de Dispositivo PKCS#11
 load-device-info = Introduzca la información d'o modulo que quiere adhibir.
+load-device-modname =
+    .value = Nombre d'o modulo
+    .accesskey = M
 load-device-modname-default =
     .value = Nuevo modulo PKCS#11
+load-device-filename =
+    .value = Nombre de fichero d'o modulo
+    .accesskey = f
 load-device-browse =
     .label = Navegar…
     .accesskey = N
@@ -83,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = O modo FIPS requiere que tienga una clau mayestra establida ta cada dispositivo de seguranza. Estableixca a clau antes de tractar d'activar o modo FIPS.
 unable-to-toggle-fips = No s'ha puesto cambiar o modo FIPS d'o dispositivo de seguranza. Se recomienda que salga y reinicie ista aplicación.
 load-pk11-module-file-picker-title = Trigue un driver de dispositivo PKCS#11 a cargar
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Lo nombre de modulo no puede quedar vuedo.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ ye reservau y no puet usar-se como lo nombre de modulo.
 add-module-failure = No s'ha puesto adhibir o modulo
 del-module-warning = Ye seguro que quiere eliminar iste modulo de seguranza?
 del-module-error = No s'ha puesto eliminar o modulo
