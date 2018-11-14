@@ -10,6 +10,8 @@ devmgr =
     .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = రక్షణ మాడ్యూళ్ళు మరియు సాధనాలు
+devmgr-header-details =
+    .label = వివరాలు
 devmgr-header-value =
     .label = విలువ
 devmgr-button-changepw =
@@ -30,6 +32,9 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = PKCS#11 పరికర డ్రైవరువు లోడుచెయ్యండి
+load-device-info = మీరు చేర్చాలనుకుంటున్న మాడ్యూలు కొరకు సమాచారాన్ని ఇవ్వండి.
 load-device-modname-default =
     .value = కొత్త PKCS#11 మాడ్యూల్
 load-device-browse =
@@ -70,6 +75,11 @@ devinfo-label =
 devinfo-serialnum =
     .label = వరుస సంఖ్య
 fips-nonempty-password-required = FIPS రీతికి మీరు ప్రతిభద్రతా సాదనానికి అమర్చిన ముఖ్యసంకేతపదం అవసరం.FIPS రీతిని చేతనంచేయుటకు మునుపే దయచేసి సంకేతపదాన్ని అమర్చండి.
+unable-to-toggle-fips = రక్షణ పరికరమునకు FIPS రీతిని మార్చలేక పోయింది. మీరు ఈ అనువర్తనం నుండి నిష్క్రమించి పునఃప్రారంభించడం మంచిది.
+load-pk11-module-file-picker-title = లోడుచేయాల్సిన PKCS#11 పరికర డ్రైవరును ఎంచుకోండి
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = మాడ్యూల్ పేరు ఖాళీగా ఉండకూడదు.
 add-module-failure = మాడ్యూల్‌ను  కలుపలేము
 del-module-warning = మీరు  ఖచ్చితంగా  ఈ సెక్యూరిటీ  మాడ్యూల్‌ను తొలగిద్దామనుకుంటున్నారా?
 del-module-error = ఈ మాడ్యూల్‌ను  తొలగించుట సాద్యంకాదు
