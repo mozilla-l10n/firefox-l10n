@@ -36,6 +36,9 @@ devmgr-button-disable-fips =
 ## Strings used for load device
 
 load-device-info = ನೀವು ಸೇರಿಸಲು ಬಯಸುವ ಘಟಕಕ್ಕೆ ಮಾಹಿತಿಯನ್ನು ದಾಖಲಿಸಿ.
+load-device-modname =
+    .value = ಘಟಕದ ಹೆಸರು
+    .accesskey = M
 load-device-modname-default =
     .value = ಹೊಸ PKCS#11 ಘಟಕ
 load-device-filename =
