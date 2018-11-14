@@ -26,6 +26,12 @@ devmgr-button-load =
 devmgr-button-unload =
     .label = Luchdaich
     .accesskey = u
+devmgr-button-enable-fips =
+    .label = Cuir FIPS an comas
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Cuir FIPS à comas
+    .accesskey = F
 
 ## Strings used for load device
 
