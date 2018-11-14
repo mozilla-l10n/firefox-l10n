@@ -35,6 +35,7 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device-info = Rhoi gwybodaeth am y modiwl rydych eisiau ei ychwanegu.
 load-device-modname-default =
     .value = Modiwl newydd PKCS#11
 
@@ -70,6 +71,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = Rhif Cyfresol
 fips-nonempty-password-required = Mae modd FIPS yn gofyn i chi gael Prif Gyfrinair wedi ei osod ar gyfer pob dyfais diogelwch. Rhowch gyfrinair cyn ceisio cychwyn modd FIPS.
+unable-to-toggle-fips = Methu newid modd FIPS ar gyfer y ddyfais diogelwch. Argymhellir eich bod yn gadael y rhaglen a'i hailgychwyn.
 add-module-failure = Methu ychwanegu modiwl
 del-module-warning = Ydych chi'n siŵr eich bod eisiau dileu'r modiwl diogelwch?
 del-module-error = Methu dileu modiwl
