@@ -59,7 +59,7 @@
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "П">
 <!ENTITY getNextNMsgCmd2.label "Отримати наступні листи">
 <!ENTITY getNextNMsgCmd2.accesskey "т">
-<!ENTITY sendUnsentCmd.label "Відіслати невідіслані листи">
+<!ENTITY sendUnsentCmd.label "Надіслати ненадіслані повідомлення">
 <!ENTITY sendUnsentCmd.accesskey "л">
 <!ENTITY subscribeCmd.label "Підписатися…">
 <!ENTITY subscribeCmd.accesskey "д">
@@ -672,7 +672,7 @@
 <!ENTITY folderContextEmptyTrash.accesskey "ч">
 <!ENTITY folderContextEmptyJunk.label "Очистити теку зі спамом">
 <!ENTITY folderContextEmptyJunk.accesskey "ч">
-<!ENTITY folderContextSendUnsentMessages.label "Відіслати невідіслані листи…">
+<!ENTITY folderContextSendUnsentMessages.label "Надіслати ненадіслані повідомлення">
 <!ENTITY folderContextSendUnsentMessages.accesskey "і">
 <!ENTITY folderContextUnsubscribe.label "Відписатися">
 <!ENTITY folderContextUnsubscribe.accesskey "д">

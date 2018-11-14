@@ -35,5 +35,5 @@
 <!ENTITY underline.label        "Підкреслення">
 
 <!ENTITY absolutePosition.label "Абсолютна позиція">
-<!ENTITY decreaseZIndex.label   "Відіслати на задній план">
+<!ENTITY decreaseZIndex.label   "Помістити на задній план">
 <!ENTITY increaseZIndex.label   "Піднести на передній план">

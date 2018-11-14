@@ -7,14 +7,14 @@
 
 <!ENTITY recipient.label "Деякі з адресатів не можуть одержувати листа у форматі HTML.">
 
-<!ENTITY question.label "Перетворити лист у текстовий чи відіслати в HTML?">
+<!ENTITY question.label "Перетворити повідомлення у простий текст чи надіслати в HTML?">
 
-<!ENTITY plainTextAndHtml.label "Відіслати в текстовому форматі і в HTML">
+<!ENTITY plainTextAndHtml.label "Надіслати у вигляді простого тексту і в HTML">
 <!ENTITY plainTextAndHtml.accesskey "і">
-<!ENTITY plainTextOnly.label "Відіслати тільки в текстовому форматі">
+<!ENTITY plainTextOnly.label "Надіслати тільки у вигляді простого тексту">
 <!ENTITY plainTextOnly.accesskey "т">
-<!ENTITY htmlOnly.label "Відіслати тільки в HTML">
+<!ENTITY htmlOnly.label "Надіслати тільки в HTML">
 <!ENTITY htmlOnly.accesskey "л">
 
-<!ENTITY send.label "Відіслати">
+<!ENTITY send.label "Надіслати">
 <!ENTITY send.accesskey "В">

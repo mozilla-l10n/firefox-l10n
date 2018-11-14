@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY attachmentReminderDialog.title   "Ключові слова Вкладень">
-<!ENTITY attachKeywordText.label          "&brandShortName; буде попереджати вас про відсутні вкладення, якщо у листі що ви збираєтесь відіслати є одне з цих ключових слів.">
+<!ENTITY attachKeywordText.label          "&brandShortName; буде попереджати вас про відсутні вкладення, якщо у листі, який ви збираєтесь надіслати, є одне з цих ключових слів.">
 <!ENTITY newKeywordButton.label           "Нова…">
 <!ENTITY newKeywordButton.accesskey       "Н">
 <!ENTITY editKeywordButton1.label         "Змінити…">
