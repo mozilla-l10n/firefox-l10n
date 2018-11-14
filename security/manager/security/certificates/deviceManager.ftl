@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Gailu kudeatzailea
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Segurtasun-modulu eta -gailuak
 devmgr-header-details =
@@ -35,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Kargatu PKCS#11 gailuaren kontrolatzailea
 load-device-info = Idatzi gehitu nahi duzun moduluaren informazioa.
+load-device-modname =
+    .value = Modulu-izena
+    .accesskey = M
 load-device-modname-default =
     .value = PKCS#11 modulu berria
+load-device-filename =
+    .value = Moduluaren fitxategi-izena
+    .accesskey = f
 load-device-browse =
     .label = Arakatu...
     .accesskey = A
@@ -77,6 +88,7 @@ devinfo-serialnum =
     .label = Serie-zenbakia:
 fips-nonempty-password-required = FIPS moduak zuk pasahitz nagusi bat ezartzea beharrezkoa du. Mesedez, FIPS modua abiarazi baino lehen pasahitza ezarri.
 unable-to-toggle-fips = Ezin izan da segurtasun-gailuaren FIPS modua aldatu. Aplikazio honetatik irten eta berrabiaratzea gomendatzen da.
+load-pk11-module-file-picker-title = Aukeratu kargatu beharreko PKCS#11 gailuaren kontrolatzailea
 add-module-failure = Ezin da modulua gehitu
 del-module-warning = Ziur zaude segurtasun-modulu hau ezabatu nahi duzula?
 del-module-error = Ezin da modulua ezabatu
