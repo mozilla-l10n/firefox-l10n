@@ -14,6 +14,14 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Lataa PKCS#11-laiteajuri
+load-device-modname =
+    .value = Moduulin nimi
+    .accesskey = M
+load-device-filename =
+    .value = Moduulin tiedostonimi
+    .accesskey = d
 
 ## Token Manager
 
@@ -50,6 +58,13 @@ devinfo-serialnum =
     .label = Sarjanumero
 fips-nonempty-password-required = FIPS-tila vaatii, että jokaiselle turvalaitteelle on asetettu pääsalasana. Aseta salasana ennen kuin yrität ottaa FIPS-tilaa käyttöön.
 unable-to-toggle-fips = FIPS-tilan vaihto turvalaitteelle ei onnistu. On suositeltavaa sulkea ja käynnistää tämä ohjelma uudelleen.
+load-pk11-module-file-picker-title = Valitse ladattava PKCS#11-laiteajuri
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Moduulin nimi ei voi olla tyhjä.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ”Root Certs” on varattu nimi eikä sitä voi käyttää moduulin nimenä.
 add-module-failure = Moduulin lisääminen ei onnistunut
 del-module-warning = Poistetaanko tämä turvallisuusmoduuli?
 del-module-error = Moduulin poistaminen ei onnistu
