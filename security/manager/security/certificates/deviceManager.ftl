@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Rheolwr Dyfeisiadau
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Modiwlau a Dyfeisiadau Diogelwch
 devmgr-header-details =
