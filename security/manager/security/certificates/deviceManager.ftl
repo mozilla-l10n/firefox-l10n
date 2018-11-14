@@ -42,5 +42,6 @@ devinfo-label =
     .label = லேபிள்
 devinfo-serialnum =
     .label = வரிசை எண்
+fips-nonempty-password-required = FIPS mode requires that you have a Master Password set for  each security device. Please set the password before trying to enable FIPS mode.
 add-module-failure = தொகுதியை சேர்க்க முடியவில்லை
 del-module-error = தொகுதியை அழிக்க முடியவில்லை
