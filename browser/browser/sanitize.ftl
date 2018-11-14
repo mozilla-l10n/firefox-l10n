@@ -15,5 +15,7 @@
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = ისტორია
+data-section-label = მონაცემები
 window-close =
     .key = w
