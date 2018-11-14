@@ -21,6 +21,8 @@ clear-time-duration-value-today =
     .label = التأريخ لهذا اليوم
 clear-time-duration-value-everything =
     .label = التأريخ كله
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
