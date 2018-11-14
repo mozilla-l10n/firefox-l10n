@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = നാള്‍വഴി വെടിപ്പാക്കുന്നതിനുള്ള ക്രമീകരണങ്ങള്‍
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
+dialog-title =
+    .title = ഏറ്റവും ഒടുവിലുള്ള നാള്‍വഴി വെടിപ്പാക്കുക
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = എല്ലാ ഹിസ്റ്ററിയും മായ്ക്കുക
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -29,12 +42,21 @@ clear-time-duration-value-everything =
 ## to select the items to remove
 
 history-section-label = നാള്‍വഴി
+item-history-and-downloads =
+    .label = ബ്രൗ&സിങ്ങും ഡൗണ്‍ലോഡ് നാള്‍വഴിയും
+    .accesskey = ഡ
 item-cookies =
     .label = കുക്കികള്‍{ " " }
     .accesskey = C
 item-active-logins =
     .label = സജീവമായ ലോഗിനുകള്‍
     .accesskey = L
+item-cache =
+    .label = കാഷ്
+    .accesskey = a
+item-form-search-history =
+    .label = &ഫോമും തെരച്ചില്‍ നാള്‍വഴിയും
+    .accesskey = ര
 data-section-label = ഡേറ്റാ
 item-site-preferences =
     .label = സൈറ്റ് മുന്‍ഗണനകള്‍
