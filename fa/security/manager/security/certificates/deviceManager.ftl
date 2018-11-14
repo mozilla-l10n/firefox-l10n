@@ -89,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = برای حالت FIPS لازم است شما برای هر دستگاه امنیتی یک گذرواژهٔ اصلی داشته باشید. لطفاً قبل از تلاش برای به کار انداختن حالت FIPS گذرواژه‌ها را تنظیم کنید.
 unable-to-toggle-fips = قادر به تغییر حالت FIPS برای دستگاه امنیتی نبود. پیشنهاد می‌شود که از برنامه خارج شوید و آن را دوباره اجرا کنید.
 load-pk11-module-file-picker-title = یک راه‌انداز دستگاه PKCS#11 برای بار شدن انتخاب کنید
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = نام ماژول نمی‌توناد خالی باشد.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ از قبل گرفته شده است و نمی‌تواند به عنوان اسم ماژول استفاده شود.
 add-module-failure = قادر به افزودن واحد نبود
 del-module-warning = آیا مطمئنید که می‌خواهید این واحد امنیتی را حذف کنید؟
 del-module-error = قادر به حذف واحد نبود
