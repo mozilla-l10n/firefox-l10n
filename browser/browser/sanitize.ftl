@@ -44,12 +44,21 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = इतिहास
+item-history-and-downloads =
+    .label = ब्राउज़िंग और डाउनलोड इतिहास
+    .accesskey = B
 item-cookies =
     .label = कुकीज़
     .accesskey = C
 item-active-logins =
     .label = सक्रिय लॉगिन
     .accesskey = L
+item-cache =
+    .label = कैश
+    .accesskey = a
+item-form-search-history =
+    .label = खोज इतिहास से
+    .accesskey = F
 data-section-label = आँकड़ा
 item-site-preferences =
     .label = साइट वरीयताएँ
