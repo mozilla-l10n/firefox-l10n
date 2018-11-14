@@ -5,9 +5,42 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = Segurtasun-modulu eta -gailuak
+devmgr-header-details =
+    .label = Xehetasunak
+devmgr-header-value =
+    .label = Balioa
+devmgr-button-login =
+    .label = Hasi saioa
+    .accesskey = s
+devmgr-button-logout =
+    .label = Amaitu saioa
+    .accesskey = u
+devmgr-button-changepw =
+    .label = Aldatu pasahitza
+    .accesskey = p
+devmgr-button-load =
+    .label = Kargatu
+    .accesskey = K
+devmgr-button-unload =
+    .label = Deskargatu
+    .accesskey = D
+devmgr-button-enable-fips =
+    .label = Gaitu FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Ezgaitu FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-info = Idatzi gehitu nahi duzun moduluaren informazioa.
+load-device-modname-default =
+    .value = PKCS#11 modulu berria
+load-device-browse =
+    .label = Arakatu...
+    .accesskey = A
 
 ## Token Manager
 
@@ -40,7 +73,10 @@ devinfo-modpath =
 login-failed = Huts egin du saioa hastean
 devinfo-label =
     .label = Etiketa
+devinfo-serialnum =
+    .label = Serie-zenbakia:
 fips-nonempty-password-required = FIPS moduak zuk pasahitz nagusi bat ezartzea beharrezkoa du. Mesedez, FIPS modua abiarazi baino lehen pasahitza ezarri.
+unable-to-toggle-fips = Ezin izan da segurtasun-gailuaren FIPS modua aldatu. Aplikazio honetatik irten eta berrabiaratzea gomendatzen da.
 add-module-failure = Ezin da modulua gehitu
 del-module-warning = Ziur zaude segurtasun-modulu hau ezabatu nahi duzula?
 del-module-error = Ezin da modulua ezabatu
