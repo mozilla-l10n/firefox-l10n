@@ -38,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = சாதன இயக்கி PKS#11 கோப்பை ஏற்று
 load-device-info = சேர்க்க விரும்பும் பகுதி பற்றிய தகவலை உள்ளிடவும்.
+load-device-modname =
+    .value = பகுதியின் பெயர்
+    .accesskey = M
 load-device-modname-default =
     .value = புதிய PKCS#11 பகுதி
+load-device-filename =
+    .value = பகுதி கோப்பு பெயர்
+    .accesskey = F
 load-device-browse =
     .label = உலாவு...
     .accesskey = B
