@@ -5,6 +5,8 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = Mòidealan is uidheaman tèarainteachd
 devmgr-header-details =
     .label = Mion-fhiosrachadh
 devmgr-header-value =
@@ -67,6 +69,8 @@ devinfo-label =
     .label = Leubail
 devinfo-serialnum =
     .label = Àireamh shreathach
+fips-nonempty-password-required = Tha e riatanach sa mhodh FIPS gu bheil prìomh fhacal-faire agad airson gach uidheam tèarainteachd. Suidhich am facal-faire mus feuch thu ris a' mhodh FIPS a chur an comas.
+unable-to-toggle-fips = Cha ghabh am modh FIPS airson an uidheim tèarainteachd atharrachadh. Mholar dhut gum fàg thu an-seo 's gun tòisich thu an aplacaid seo a-rithist.
 add-module-failure = Cha ghabh am mòideal a chur ris
 del-module-warning = A bheil thu cinnteach gu bheil thu airson am mòideal tèarainteachd seo a sguabadh às?
 del-module-error = Cha ghabh am mòideal a sguabadh às
