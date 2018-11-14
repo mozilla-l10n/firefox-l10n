@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = ကိရိယာ စီမံခန့်ခွဲသူ
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = လုံခြုံရေး အစိတ်အပိုင်းများနဲ့ ကိရိယာများ
 devmgr-header-details =
