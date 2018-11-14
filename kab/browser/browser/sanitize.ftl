@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Iɣewwaṛen i usfaḍ n umazray
+    .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
@@ -22,6 +25,9 @@ clear-data-settings-label = Ticki yemdel, { -brand-short-name } ad yekkes s wude
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Azilal ara tsefḍeḍ:{ " " }
+    .accesskey = A
 clear-time-duration-value-last-hour =
     .label = Asrag aneggaru
 clear-time-duration-value-last-2-hours =
