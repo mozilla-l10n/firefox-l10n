@@ -89,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = Le mode FIPS exige que vous ayez défini un mot de passe principal pour chaque périphérique de sécurité. Veuillez définir le mot de passe principal avant d’activer le mode FIPS.
 unable-to-toggle-fips = Impossible de modifier le mode FIPS pour le périphérique de sécurité. Nous vous recommandons de quitter et de redémarrer cette application.
 load-pk11-module-file-picker-title = Sélectionner un pilote de périphérique PKCS#11 à charger
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Le nom du module ne peut pas être vide.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = « Root Certs » est réservé et ne peut pas être utilisé comme nom de module.
 add-module-failure = Impossible d’ajouter le module
 del-module-warning = Voulez-vous vraiment supprimer ce module de sécurité ?
 del-module-error = Impossible de supprimer le module
