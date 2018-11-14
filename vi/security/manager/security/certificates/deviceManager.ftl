@@ -11,6 +11,9 @@ devmgr-header-details =
     .label = Chi tiết
 devmgr-header-value =
     .label = Giá trị
+devmgr-button-login =
+    .label = Đăng Nhập
+    .accesskey = N
 devmgr-button-logout =
     .label = Đăng Xuất
     .accesskey = X
@@ -35,14 +38,22 @@ load-device-modname-default =
 
 ## Token Manager
 
+devinfo-status-disabled =
+    .label = Bị Vô Hiệu
 devinfo-status-not-present =
     .label = Không Có
 devinfo-status-uninitialized =
     .label = Chưa được Nhận diện
+devinfo-status-not-logged-in =
+    .label = Chưa Đăng Nhập
+devinfo-status-logged-in =
+    .label = Đã Đăng Nhập
 devinfo-status-ready =
     .label = Sẵn sàng
 devinfo-desc =
     .label = Mô tả
+devinfo-man-id =
+    .label = Nhà Sản Xuất
 devinfo-hwversion =
     .label = Phiên bản HW
 devinfo-fwversion =
