@@ -27,6 +27,7 @@ clear-time-duration-suffix =
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Navegação
 item-cookies =
     .label = Cookies
     .accesskey = o
@@ -37,7 +38,17 @@ item-form-search-history =
     .label = Campos memorizados de páginas e da pesquisa
     .accesskey = C
 data-section-label = Dados
+item-site-preferences =
+    .label = Preferências de sites
+    .accesskey = P
+item-offline-apps =
+    .label = Dados offline de sites
+    .accesskey = f
 window-close =
     .key = W
 sanitize-button-ok =
     .label = Limpar agora
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = Todos os itens selecionados serão limpos.
