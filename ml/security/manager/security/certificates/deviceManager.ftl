@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = ഡിവൈസ് മാനേജറ്‍
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = സെക്യൂരിറ്റി ഘടകങ്ങളും ഡിവൈസുകളും
 devmgr-header-details =
