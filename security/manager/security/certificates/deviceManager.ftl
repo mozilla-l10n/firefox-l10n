@@ -5,17 +5,53 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Správce bezpečnostních zařízení
+    .style = width: 67em; height: 32em;
+devmgr-devlist =
+    .label = Bezpečnostní moduly a zařízení
+devmgr-header-details =
+    .label = Podrobnosti
+devmgr-header-value =
+    .label = Hodnota
+devmgr-button-login =
+    .label = Přihlásit
+    .accesskey = P
+devmgr-button-logout =
+    .label = Odhlásit
+    .accesskey = O
+devmgr-button-changepw =
+    .label = Změnit heslo
+    .accesskey = h
+devmgr-button-load =
+    .label = Načíst
+    .accesskey = N
+devmgr-button-unload =
+    .label = Uvolnit
+    .accesskey = U
+devmgr-button-enable-fips =
+    .label = Povolit FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Zakázat FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
 load-device =
     .title = Načíst ovladač PKCS#11 zařízení
+load-device-info = Zadejte informace o modulu, který chcete přidat.
 load-device-modname =
     .value = Název modulu
     .accesskey = m
+load-device-modname-default =
+    .value = Nový modul PKCS#11
 load-device-filename =
     .value = Název souboru modulu
     .accesskey = N
+load-device-browse =
+    .label = Procházet…
+    .accesskey = P
 
 ## Token Manager
 
