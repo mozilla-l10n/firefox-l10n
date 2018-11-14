@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = 여러 개의 탭을 동시에 닫으려고 할 때 알려주기
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = 여러 개의 탭을 동시에 종료할 때 알려주기
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = 여러개의 탭을 열어서 { -brand-short-name }가 느려질 수 있으면 알려주기
     .accesskey = d
@@ -276,6 +279,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = 검색 엔진 자동 업데이트
     .accesskey = e
+update-pref-write-failure-title = 쓰기 실패
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = 환경 설정을 저장할 수 없습니다. 파일에 쓸 수 없습니다: { $path }
 
 ## General Section - Performance
 
