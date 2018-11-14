@@ -15,6 +15,8 @@ clear-time-duration-value-today =
     .label = Tin
 clear-time-duration-value-everything =
     .label = Jami weng
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
