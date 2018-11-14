@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Șterge tot istoricul
     .style = width: 34em
+clear-data-settings-label = Când este închis, { -brand-short-name } ar trebui să șteargă automat totul
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -24,6 +25,9 @@ dialog-title-everything =
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Perioadă de șters:{ " " }
+    .accesskey = T
 clear-time-duration-value-last-hour =
     .label = Ultima oră
 clear-time-duration-value-last-2-hours =
@@ -41,13 +45,29 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Istoric
+item-history-and-downloads =
+    .label = Istoricul navigării și al descărcărilor
+    .accesskey = B
 item-cookies =
     .label = Cookie-urile
     .accesskey = C
+item-active-logins =
+    .label = Autentificările active
+    .accesskey = L
 item-cache =
     .label = Cache-ul
     .accesskey = a
+item-form-search-history =
+    .label = Istoricul formularelor și al căutărilor
+    .accesskey = F
 data-section-label = Date
+item-site-preferences =
+    .label = Preferințele pentru site-uri
+    .accesskey = S
+item-offline-apps =
+    .label = Datele offline ale site-urilor web
+    .accesskey = O
+sanitize-everything-undo-warning = Această acțiune este ireversibilă.
 window-close =
     .key = w
 sanitize-button-ok =
