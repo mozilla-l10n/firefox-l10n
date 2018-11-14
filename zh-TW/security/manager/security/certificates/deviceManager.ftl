@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = 裝置管理員
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = 安全模組與裝置
 devmgr-header-details =
@@ -35,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = 載入 PKCS#11 裝置驅動程式
 load-device-info = 輸入要新增的模組資訊。
+load-device-modname =
+    .value = 模組名稱
+    .accesskey = M
 load-device-modname-default =
     .value = 新 PKCS#11 模組
+load-device-filename =
+    .value = 模組檔案名稱
+    .accesskey = f
 load-device-browse =
     .label = 瀏覽…
     .accesskey = B
@@ -77,6 +88,13 @@ devinfo-serialnum =
     .label = 序號
 fips-nonempty-password-required = FIPS 模式需要設定主控密碼。請先設定主控密碼。
 unable-to-toggle-fips = 無法修改安全裝置的 FIPS 模式。建議您重新啟動此應用程式。
+load-pk11-module-file-picker-title = 選擇要載入的 PKCS#11 裝置驅動程式
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = 模組名稱不能空白。
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = 「Root Certs」已被保留，無法用作模組名稱。
 add-module-failure = 無法新增模組
 del-module-warning = 您確定要刪除此模組？
 del-module-error = 無法刪除模組
