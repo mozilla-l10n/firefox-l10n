@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Administrador de dispositivos
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Módulos de seguridad y dispositivos
 devmgr-header-details =
@@ -35,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Cargar controlador de dispositivo PKCS#11
 load-device-info = Introduzca la información para el módulo que quiere añadir.
+load-device-modname =
+    .value = Nombre del módulo
+    .accesskey = m
 load-device-modname-default =
     .value = Nuevo módulo PKCS#11
+load-device-filename =
+    .value = Nombre del archivo del módulo
+    .accesskey = a
 load-device-browse =
     .label = Examinar…
     .accesskey = x
@@ -75,3 +86,12 @@ devinfo-label =
     .label = Etiqueta
 devinfo-serialnum =
     .label = Número de serie
+fips-nonempty-password-required = El modo FIPS requiere que tenga una contraseña maestra establecida para cada dispositivo de seguridad. Establezca la contraseña antes de tratar de activar el modo FIPS.
+unable-to-toggle-fips = No se puede cambiar el modo FIPS para el dispositivo de seguridad. Se recomienda que salga y reinicie esta aplicación.
+load-pk11-module-file-picker-title = Elija un controlador de dispositivo PKCS#11 para cargar
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = El nombre del módulo no puede estar vacío.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = 'Root Certs' está reservado y no puede usarse como nombre del módulo.
