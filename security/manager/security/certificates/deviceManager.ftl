@@ -5,6 +5,8 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = Tryggingsmodular og -einingar
 devmgr-header-details =
     .label = Detaljar
 devmgr-header-value =
@@ -15,6 +17,9 @@ devmgr-button-login =
 devmgr-button-logout =
     .label = Logg ut
     .accesskey = o
+devmgr-button-changepw =
+    .label = Endra passord
+    .accesskey = n
 devmgr-button-load =
     .label = Last inn
     .accesskey = L
@@ -30,6 +35,7 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device-info = Skriv inn informasjonen for modulen du vil leggja til.
 load-device-modname-default =
     .value = Ny PKCS#11-modul
 load-device-browse =
@@ -40,12 +46,20 @@ load-device-browse =
 
 devinfo-status =
     .label = Status
+devinfo-status-disabled =
+    .label = Avslått
+devinfo-status-not-present =
+    .label = Ikkje spesifisert
+devinfo-status-uninitialized =
+    .label = Uinitialisert
 devinfo-status-not-logged-in =
     .label = Ikkje innlogga
 devinfo-status-logged-in =
     .label = Innlogga
 devinfo-status-ready =
     .label = Klar
+devinfo-desc =
+    .label = Skildring
 devinfo-man-id =
     .label = Produsent
 devinfo-hwversion =
@@ -56,5 +70,11 @@ devinfo-modname =
     .label = Modul
 devinfo-modpath =
     .label = Sti
+login-failed = Klarte ikkje å logga inn
 devinfo-serialnum =
     .label = Serienummer
+fips-nonempty-password-required = FIPS-modus krev at du har eit hovudpassord for kvar tryggingseining. Vel eit hovudpassord før du slår på FIPS-moduset.
+unable-to-toggle-fips = Klarte ikkje å endra FIPS-modusen for tryggingseininga. Det er tilrådd at du avsluttar og startar denne applikasjonen på nytt.
+add-module-failure = Klarte ikkje å leggja til modul
+del-module-warning = Er du viss på at du vil sletta denne tryggingsmodulen?
+del-module-error = Klarte ikkje å sletta modul
