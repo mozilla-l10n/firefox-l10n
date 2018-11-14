@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = o
 confirm-messenger-language-change-description = Ponovno pokrenite { -brand-short-name } kako biste primjenili ove izmjene
 confirm-messenger-language-change-button = Primjeni i ponovno pokreni
+update-pref-write-failure-title = Greška pisanja
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Nije moguće spremiti postavku. Nije bilo moguće pisati u datoteku: { $path }
