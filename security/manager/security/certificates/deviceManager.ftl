@@ -37,7 +37,7 @@ devmgr-button-disable-fips =
 
 load-device-info = Agahiyên derbarê modula ku dixwazî lê zê de bikî, têkevê.
 load-device-modname-default =
-    .value = Modula nû ya PKCS#11{ " " }
+    .value = Modula nû ya PKCS#11
 load-device-browse =
     .label = Bigere...
     .accesskey = B
