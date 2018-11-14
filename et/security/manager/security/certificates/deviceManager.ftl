@@ -5,17 +5,53 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Seadmehaldur
+    .style = width: 67em; height: 32em;
+devmgr-devlist =
+    .label = Turvamoodulid ja -seadmed
+devmgr-header-details =
+    .label = Üksikasjad
+devmgr-header-value =
+    .label = Väärtus
+devmgr-button-login =
+    .label = Logi sisse
+    .accesskey = i
+devmgr-button-logout =
+    .label = Logi välja
+    .accesskey = O
+devmgr-button-changepw =
+    .label = Muuda parooli
+    .accesskey = P
+devmgr-button-load =
+    .label = Laadi
+    .accesskey = L
+devmgr-button-unload =
+    .label = Eemalda
+    .accesskey = E
+devmgr-button-enable-fips =
+    .label = Luba FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Keela FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
 load-device =
     .title = PKCS#11 seadme draiveri laadimine
+load-device-info = Sisesta lisatava mooduli teave.
 load-device-modname =
     .value = Mooduli nimi
     .accesskey = M
+load-device-modname-default =
+    .value = Uus PKCS#11 moodul
 load-device-filename =
     .value = Mooduli failinimi
     .accesskey = f
+load-device-browse =
+    .label = Lehitse...
+    .accesskey = L
 
 ## Token Manager
 
