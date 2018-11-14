@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = साधन व्यवस्थापक
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = सुरक्षा घटक व साधन
 devmgr-header-details =
@@ -17,6 +20,9 @@ devmgr-button-login =
 devmgr-button-logout =
     .label = बाहेर पडा
     .accesskey = O
+devmgr-button-changepw =
+    .label = पासवर्ड बदला
+    .accesskey = P
 devmgr-button-load =
     .label = लोड करा
     .accesskey = L
@@ -32,7 +38,14 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = PKCS#11 साधन ड्राइव्हर दाखल करा
 load-device-info = आपल्याला हव्या असलेल्या घटकाकरता माहिती प्रविष्ट करा.
+load-device-modname-default =
+    .value = नवीन PKCS#11 घटक
+load-device-browse =
+    .label = ब्राउझ करा…
+    .accesskey = B
 
 ## Token Manager
 
@@ -67,6 +80,9 @@ devinfo-label =
     .label = लेबल
 devinfo-serialnum =
     .label = क्रमांक
+fips-nonempty-password-required = FIPS पध्दती आपले मुख्य पासवर्ड सुरक्षा साधनाकरीता निश्चित करण्यास सांगते. FIPS पध्दती कार्यान्वीत करण्यापूर्वी पासवर्ड कृपया निश्चित करण्याचा प्रयत्न करा.
+unable-to-toggle-fips = सुरक्षा साधनकरीता FIPS मोड बदलणे अशक्य करा. आपण बाहेर पडल्यावर ॲप्लिकेशन पुनःसुरू करणे शिफारसीय आहे.
+load-pk11-module-file-picker-title = दाखल करण्याकरीता PKCS#11 साधन ड्राइव्हर निवडा
 add-module-failure = घटक समाविष्ट करण्यास अपयशी
 del-module-warning = आपल्याला हे सुरक्षा घटक नक्की काढून टाकायचे?
 del-module-error = घटक काढून टाकाण्यास अपयशी
