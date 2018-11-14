@@ -2,6 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = ისტორიის გასუფთავების პარამეტრები
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
+dialog-title =
+    .title = უახლესი ისტორიის გასუფთავება
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = ისტორიის სრულად გასუფთავება
+    .style = width: 34em
+clear-data-settings-label = როცა { -brand-short-name } დაიხურება, სრულად წაიშლება
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -26,7 +40,25 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = ისტორია
+item-history-and-downloads =
+    .label = საიტებისა და ჩამოტვირთვების ისტორია
+    .accesskey = ს
+item-active-logins =
+    .label = მოქმედი ანგარიშები
+    .accesskey = შ
+item-cache =
+    .label = კეში
+    .accesskey = კ
+item-form-search-history =
+    .label = შევსებული ველებისა და ძიების ისტორია
+    .accesskey = შ
 data-section-label = მონაცემები
+item-site-preferences =
+    .label = საიტის პარამეტრები
+    .accesskey = პ
+item-offline-apps =
+    .label = ვებსაიტის შენახული მონაცემები
+    .accesskey = მ
 sanitize-everything-undo-warning = ეს ქმედება შეუქცევადია.
 window-close =
     .key = w
