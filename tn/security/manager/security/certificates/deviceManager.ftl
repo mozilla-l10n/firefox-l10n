@@ -22,6 +22,8 @@ load-device-modname-default =
 
 devinfo-status =
     .label = Maemo
+devinfo-status-disabled =
+    .label = Ga e dire
 devinfo-status-not-present =
     .label = Ga e gona
 devinfo-status-uninitialized =
