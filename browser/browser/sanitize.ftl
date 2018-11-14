@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Poista kaikki historiatiedot
     .style = width: 34em
+clear-data-settings-label = Kun { -brand-short-name } suljetaan, seuraavat tiedot poistetaan:
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
