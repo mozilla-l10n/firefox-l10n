@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Clirio'r Holl Hanes
     .style = width: 34em
+clear-data-settings-label = Pan fyddai'n gadael { -brand-short-name } dylai glirio popeth yn awtomatig
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
