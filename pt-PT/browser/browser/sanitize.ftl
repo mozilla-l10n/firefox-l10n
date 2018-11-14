@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Definições para limpar o histórico
+    .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
+dialog-title =
+    .title = Limpar histórico
+    .style = width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
@@ -18,6 +24,19 @@ dialog-title-everything =
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Limpar histórico:{ " " }
+    .accesskey = L
+clear-time-duration-value-last-hour =
+    .label = da última hora
+clear-time-duration-value-last-2-hours =
+    .label = das últimas 2 horas
+clear-time-duration-value-last-4-hours =
+    .label = das últimas 4 horas
+clear-time-duration-value-today =
+    .label = de hoje
+clear-time-duration-value-everything =
+    .label = Tudo
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -25,10 +44,25 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Histórico
+item-cookies =
+    .label = Cookies
+    .accesskey = C
+item-active-logins =
+    .label = Inícios de sessão ativos
+    .accesskey = I
+item-cache =
+    .label = Cache
+    .accesskey = a
 item-form-search-history =
     .label = Histórico de pesquisa
     .accesskey = q
 data-section-label = Dados
+item-site-preferences =
+    .label = Preferências de sites
+    .accesskey = s
+sanitize-everything-undo-warning = Esta ação não pode ser desfeita.
+window-close =
+    .key = w
 sanitize-button-ok =
     .label = Limpar agora
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
