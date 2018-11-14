@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL для вирішення конфліктів DNS через HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Використовувати типовий">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "т">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Використовувати типовий URL для вирішення DNS через HTTPS">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Власний">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "л">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Введіть власний URL для вирішення DNS через HTTPS">
