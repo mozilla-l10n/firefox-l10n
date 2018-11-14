@@ -26,6 +26,12 @@ clear-time-duration-value-everything =
 ## to select the items to remove
 
 history-section-label = ប្រវត្តិ
+item-history-and-downloads =
+    .label = រកមើល & ប្រវត្តិ​ទាញ​យក
+    .accesskey = B
+item-form-search-history =
+    .label = ទម្រង់ & ប្រវត្តិ​ស្វែងរក
+    .accesskey = F
 data-section-label = ទិន្នន័យ
 sanitize-everything-undo-warning = សកម្មភាព​នេះ​មិន​អាច​មិន​ធ្វើ​ឡើងវិញ​បាន​ទេ ។
 window-close =
