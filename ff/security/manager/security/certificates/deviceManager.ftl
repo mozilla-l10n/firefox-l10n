@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Toppitorde kaɓirgol
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Gulɗe Kisal e Kaɓirɗe
 devmgr-header-details =
