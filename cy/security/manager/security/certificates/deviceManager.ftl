@@ -38,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Llwytho Gyrrwr Dyfais PKCS#11
 load-device-info = Rhoi gwybodaeth am y modiwl rydych eisiau ei ychwanegu.
+load-device-modname =
+    .value = Enw Modiwl
+    .accesskey = M
 load-device-modname-default =
     .value = Modiwl newydd PKCS#11
+load-device-filename =
+    .value = Enw ffeil modiwl
+    .accesskey = E
 load-device-browse =
     .label = Pori…
     .accesskey = P
@@ -80,6 +88,7 @@ devinfo-serialnum =
     .label = Rhif Cyfresol
 fips-nonempty-password-required = Mae modd FIPS yn gofyn i chi gael Prif Gyfrinair wedi ei osod ar gyfer pob dyfais diogelwch. Rhowch gyfrinair cyn ceisio cychwyn modd FIPS.
 unable-to-toggle-fips = Methu newid modd FIPS ar gyfer y ddyfais diogelwch. Argymhellir eich bod yn gadael y rhaglen a'i hailgychwyn.
+load-pk11-module-file-picker-title = Dewis gyrrwr dyfais PKCS#11 i'w lwytho
 # Load Module Dialog
 load-module-help-empty-module-name =
     .value = Nid oes modd i'r enw modiwl fod yn wag.
