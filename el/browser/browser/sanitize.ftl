@@ -51,5 +51,7 @@ item-offline-apps =
     .label = Δεδομένα ιστοσελίδων
     .accesskey = δ
 sanitize-everything-undo-warning = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
+window-close =
+    .key = w
 sanitize-button-ok =
     .label = Εκκαθάριση τώρα
