@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Tüm geçmişi sil
     .style = width: 34em
+clear-data-settings-label = { -brand-short-name } kapatıldığında tümünü kendiliğinden temizlemeli
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
