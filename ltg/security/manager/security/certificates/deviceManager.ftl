@@ -89,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = FIPS režyms pīprosa, ka kotrai drūseibys īrīcei ir īstateita golvonuo parole. Pyrms īslēgt FIPS režymu, lyudzu, īstotit paroli.
 unable-to-toggle-fips = Navar puorslēgt FIPS režymu drūseibys īrīcei. Īsokom aiztaiseit i puorstarteit programu.
 load-pk11-module-file-picker-title = Izavielit īluodiejamū PKCS#11 īreici
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Moduļa nūsaukums navar byut tukšs.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ ir aizlīgts vōrds un navar byut izmontōts kai moduļa nūsaukums.
 add-module-failure = Navar pīvīnuot moduli
 del-module-warning = Voi jius asot puorlīcynuots, ka vālotīs izdzēst itū drūseibys moduli?
 del-module-error = Navar izdzēst moduli
