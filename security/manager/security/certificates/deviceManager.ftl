@@ -38,6 +38,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Загрузить драйвер устройства PKCS#11
 load-device-info = Введите информацию о модуле, который вы хотите добавить.
 load-device-modname-default =
     .value = New PKCS#11 Module
@@ -80,6 +82,13 @@ devinfo-serialnum =
     .label = Серийный номер
 fips-nonempty-password-required = Для работы в режиме соответствия FIPS необходимо для каждого устройства защиты установить мастер-пароль. Установите этот пароль перед переключением в данный режим.
 unable-to-toggle-fips = Не удалось сменить режим соответствия FIPS для устройства защиты. Мы рекомендуем вам закрыть и перезапустить это приложение.
+load-pk11-module-file-picker-title = Выберите для загрузки драйвер устройства PKCS#11
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Имя модуля не может быть пустым.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ зарезервировано и не может использоваться как имя модуля.
 add-module-failure = Не удалось добавить модуль
 del-module-warning = Вы действительно хотите удалить этот модуль защиты?
 del-module-error = Не удалось удалить модуль
