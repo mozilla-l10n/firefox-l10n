@@ -44,9 +44,15 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historial
+item-history-and-downloads =
+    .label = Historial de descargas y navegación
+    .accesskey = H
 item-cookies =
     .label = Cookies
     .accesskey = C
+item-active-logins =
+    .label = Sesiones activas
+    .accesskey = o
 item-cache =
     .label = Caché
     .accesskey = A
