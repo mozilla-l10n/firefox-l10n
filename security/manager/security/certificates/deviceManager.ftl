@@ -5,6 +5,30 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Turvalaitteiden hallinta
+    .style = width: 67em; height: 32em;
+devmgr-devlist =
+    .label = Turvallisuusmoduulit ja laitteet
+devmgr-header-details =
+    .label = Yksityiskohdat
+devmgr-header-value =
+    .label = Arvo
+devmgr-button-login =
+    .label = Kirjaudu sisään
+    .accesskey = K
+devmgr-button-logout =
+    .label = Kirjaudu ulos
+    .accesskey = i
+devmgr-button-changepw =
+    .label = Vaihda salasanaa
+    .accesskey = a
+devmgr-button-load =
+    .label = Lataa
+    .accesskey = L
+devmgr-button-unload =
+    .label = Poista
+    .accesskey = P
 devmgr-button-enable-fips =
     .label = Ota FIPS käyttöön
     .accesskey = F
@@ -16,12 +40,18 @@ devmgr-button-disable-fips =
 
 load-device =
     .title = Lataa PKCS#11-laiteajuri
+load-device-info = Kirjoita tiedot lisättävälle moduulille.
 load-device-modname =
     .value = Moduulin nimi
     .accesskey = M
+load-device-modname-default =
+    .value = Uusi PKCS#11-moduuli
 load-device-filename =
     .value = Moduulin tiedostonimi
     .accesskey = d
+load-device-browse =
+    .label = Selaa…
+    .accesskey = S
 
 ## Token Manager
 
