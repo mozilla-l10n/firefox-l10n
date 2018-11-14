@@ -38,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Muat PKCS#11 Device Driver
 load-device-info = Masukkan informasi tentang modul yang ingin ditambahkan.
+load-device-modname =
+    .value = Nama Modul
+    .accesskey = M
 load-device-modname-default =
     .value = Modul baru PKCS#11
+load-device-filename =
+    .value = Nama berkas modul
+    .accesskey = b
 load-device-browse =
     .label = Telusuri…
     .accesskey = T
@@ -80,6 +88,13 @@ devinfo-serialnum =
     .label = Nomor Seri
 fips-nonempty-password-required = Mode FIPS mewajibkan Anda untuk memiliki Sandi Utama yang digunakan untuk tiap perangkat keamanan. Silakan aktifkan sandi sebelum mengaktifkan mode FIPS.
 unable-to-toggle-fips = Gagal mengubah mode FIPS pada perangkat keamanan. Anda disarankan untuk keluar dan memulai ulang aplikasi ini.
+load-pk11-module-file-picker-title = Pilih penggerak peranti PKCS#11 untuk memuat
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Nama modul tidak bisa kosong.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ sudah dicadangkan dan tidak dapat dipakai sebagai nama modul.
 add-module-failure = Gagal menambah modul
 del-module-warning = Yakin akan menghapus modul keamanan ini?
 del-module-error = Gagal menghapus modul.
