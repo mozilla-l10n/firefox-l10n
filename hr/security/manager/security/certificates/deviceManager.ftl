@@ -76,6 +76,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = Serijski broj
 fips-nonempty-password-required = FIPS način rada zahtijeva da postavite glavnu lozinku za svaki sigurnosni uređaj. Molim postavite lozinku prije no što pokušate omogućiti FIPS način rada.
+unable-to-toggle-fips = Promjena FIPS načina rada za sigurnosni uređaj nije moguća. Preporuka je da zatvorite ili ponovno pokrenete ovu aplikaciju.
 add-module-failure = Modul nije moguće dodati
 del-module-warning = Jeste li sigurni da želite ukloniti ovaj sigurnosni modul?
 del-module-error = Modul nije moguće ukloniti
