@@ -40,6 +40,9 @@ item-cookies =
 item-active-logins =
     .label = સક્રિય પ્રવેશો
     .accesskey = L
+item-cache =
+    .label = કેશ
+    .accesskey = a
 item-form-search-history =
     .label = ફોર્મ & શોધ ઇતિહાસ
     .accesskey = F
@@ -53,3 +56,17 @@ item-offline-apps =
 sanitize-everything-undo-warning = આ ક્રિયા રદ કરી શકાતી નથી.
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = હમણાં સાફ કરો
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = સાફ કરી રહ્યા છે
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = બધા ઇતિહાસને સાફ કરેલ હશે.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = બધી પસંદ થયેલ વસ્તુઓને સાફ કરેલ હશે.
