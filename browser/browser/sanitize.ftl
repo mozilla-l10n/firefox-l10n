@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = इतिहास साफ करने के लिए सेटिंग
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
+dialog-title =
+    .title = हालिया इतिहास साफ करें
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = { " " }सभी इतिहास साफ करें
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -11,6 +24,9 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = साफ करने लिए समय दायरा:{ " " }
+    .accesskey = T
 clear-time-duration-value-last-hour =
     .label = पिछला एक घंटा
 clear-time-duration-value-last-2-hours =
@@ -44,3 +60,17 @@ item-offline-apps =
 sanitize-everything-undo-warning = इस क्रिया को पहले जैसा नहीं किया जा सकता है.
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = { " " }अब साफ करें
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = { " " }साफ किया जा रहा है
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = { " " }सभी इतिहास साफ किए जाएँगे.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = { " " }सभी चुने गए मद साफ किए जाएँगे.
