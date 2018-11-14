@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+clear-data-settings-label = Wenn { -brand-short-name } beendet wird, folgende Daten automatisch löschen:
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -50,11 +51,18 @@ data-section-label = Daten
 item-site-preferences =
     .label = Website-Einstellungen
     .accesskey = W
+item-offline-apps =
+    .label = Offline-Website-Daten
+    .accesskey = O
 sanitize-everything-undo-warning = Diese Aktion kann nicht rückgängig gemacht werden.
 window-close =
     .key = w
 sanitize-button-ok =
     .label = Jetzt löschen
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = Wird gelöscht…
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
