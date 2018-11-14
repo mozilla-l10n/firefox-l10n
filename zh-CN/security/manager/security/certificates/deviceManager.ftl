@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = 设备管理器
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = 安全模块和设备
 devmgr-header-details =
@@ -32,6 +35,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = 加载 PKCS#11 设备驱动程序
 load-device-info = 输入您要添加的模块的信息。
 load-device-modname-default =
     .value = 新建PKCS#11模块
@@ -73,6 +78,13 @@ devinfo-label =
 devinfo-serialnum =
     .label = 序列号
 fips-nonempty-password-required = FIPS 需要您为各个安全设备设置一个主密码。请在启用 FIPS 模式之前设置主密码。
+load-pk11-module-file-picker-title = 选择要加载的 PKCS#11 设备驱动程序
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = 模块名称不能为空。
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ”Root Certs“已被保留，不能用作模块名称。
 add-module-failure = 无法添加模块
 del-module-warning = 您确定要删除此安全模块吗？
 del-module-error = 无法删除模块
