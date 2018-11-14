@@ -89,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = Modus FIPS se pomina, až nastajaśo głowne gronidło za kuždy wěstotny rěd. Pšosym nastajśo gronidło, pjerwjej až wopytajośo, modus FIPS zmóžniś.
 unable-to-toggle-fips = Njejo móžno, FIPS-modus za wěstotny rěd změniś. Pśiraźujo se, až kóńcyśo toś to nałozenje a startujośo jo znowego.
 load-pk11-module-file-picker-title = Wubjeŕśo rědowy gónjak PKCS#11, kótaryž ma se zacytaś
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Mě modula njesmějo felowaś.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = „Root Certs“ jo rezerwěrowane mě a njedajo se ako mě modula wužywaś.
 add-module-failure = Modul njedajo se pśidaś
 del-module-warning = Cośo napšawdu toś tón wěstotny modul lašowaś?
 del-module-error = Njejo móžno, modul lašowaś
