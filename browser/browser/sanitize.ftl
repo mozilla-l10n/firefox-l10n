@@ -43,3 +43,7 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = Očisti sad
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = Čišćenje
