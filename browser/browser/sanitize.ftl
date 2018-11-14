@@ -37,6 +37,8 @@ clear-time-duration-value-today =
     .label = ថ្ងៃ​នេះ
 clear-time-duration-value-everything =
     .label = អ្វី​ទាំងអស់
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
