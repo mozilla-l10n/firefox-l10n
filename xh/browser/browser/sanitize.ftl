@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Iisethingi zokususa imbali
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
+dialog-title =
+    .title = Susa iMbali Yakutshanje
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Susa yonke imbali
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -29,6 +42,9 @@ clear-time-duration-value-everything =
 ## to select the items to remove
 
 history-section-label = Imbali
+item-history-and-downloads =
+    .label = Ukubhrawuza nembali yokukhuphela
+    .accesskey = U
 item-cookies =
     .label = Iikhukhi
     .accesskey = k
@@ -38,6 +54,10 @@ item-active-logins =
 item-cache =
     .label = Uvimba wethutyana
     .accesskey = m
+item-form-search-history =
+    .label = Ifom nembali yokukhangela
+    .accesskey = I
+data-section-label = Iingcombolo
 item-site-preferences =
     .label = Iipriferensi zesayithi
     .accesskey = z
