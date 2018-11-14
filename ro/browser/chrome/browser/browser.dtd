@@ -476,7 +476,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Deschide preferințele de sincronizare">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Autentifică-te pentru a vedea o listă cu file de pe celelalte dispozitive.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Contul tău trebuie verificat.">
-<!ENTITY appMenuRemoteTabs.signin.label "Autentifică-te în Sync">
+<!ENTITY appMenuRemoteTabs.signin.label "Autentifică-te la Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestionează dispozitivele…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vezi bara laterală cu file sincronizate">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Conectează alt dispozitiv">
