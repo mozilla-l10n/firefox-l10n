@@ -5,9 +5,27 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = AmaMojuli Nemishini Yokuvikela
+devmgr-header-details =
+    .label = Imininingwane
+devmgr-header-value =
+    .label = Inani
+devmgr-button-enable-fips =
+    .label = Yenza kusebenze i-FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Yenza ingasebenzi i-FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-info = Faka ukwaziswa kweMojuli ofuna ukuyenezela.
+load-device-modname-default =
+    .value = Imojuli Entsha i-PKCS#11
+load-device-browse =
+    .label = Bheka…
+    .accesskey = B
 
 ## Token Manager
 
