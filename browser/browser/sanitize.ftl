@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Налады ачышчэння гісторыі
+    .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
@@ -41,12 +44,28 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Гісторыю
+item-history-and-downloads =
+    .label = Гісторыя аглядання і сцягванняў
+    .accesskey = а
+item-cookies =
+    .label = Кукі
+    .accesskey = К
 item-active-logins =
     .label = Дзейныя ўваходы
     .accesskey = ў
+item-cache =
+    .label = Кэш
+    .accesskey = К
 item-form-search-history =
     .label = Гісторыя пошуку і запаўнення формаў
     .accesskey = ф
+data-section-label = Дадзеныя
+item-site-preferences =
+    .label = Налады сайтаў
+    .accesskey = Н
+item-offline-apps =
+    .label = Пазасеткавыя дадзеныя вэб-сайтаў
+    .accesskey = П
 sanitize-everything-undo-warning = Гэтае дзеянне немагчыма скасаваць.
 window-close =
     .key = w
