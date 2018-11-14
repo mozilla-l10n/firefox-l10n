@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Ачышчэнне ўсёй гісторыі
     .style = width: 34em
+clear-data-settings-label = Пры закрыцці { -brand-short-name } павінен аўтаматычна ачышчаць усё
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
