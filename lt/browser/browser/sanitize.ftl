@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Visiškas žurnalo išvalymas
     .style = width: 34em
+clear-data-settings-label = Baigiant darbą su „{ -brand-short-name }“, turi būti išvaloma:
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
