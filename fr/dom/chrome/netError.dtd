@@ -203,3 +203,4 @@ refusé la connexion.</p>
 <!ENTITY blockedByPolicy.title "Page bloquée">
 
 <!ENTITY networkProtocolError.title "Erreur de protocole réseau">
+<!ENTITY networkProtocolError.longDesc "<p>La page à laquelle vous essayez d’accéder ne peut pas être affichée, car une erreur du protocole réseau a été détectée.</p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul>">
