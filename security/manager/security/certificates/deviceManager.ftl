@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Administrilo de aparatoj
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Sekurecaj programonoj kaj aparatoj
 devmgr-header-details =
