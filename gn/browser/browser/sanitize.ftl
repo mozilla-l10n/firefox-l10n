@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Opa tembiasakue ñemopotĩ
     .style = width: 34em
+clear-data-settings-label = Oñembotývo, { -brand-short-name } omboguepaiteva’erã ijehegui
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
