@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Stizzar l'entira cronologia
     .style = width: 38em
+clear-data-settings-label = Stizzar automaticamain las suandantas datas cura { -brand-short-name } vegn terminà
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
