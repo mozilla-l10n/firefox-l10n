@@ -5,9 +5,42 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = Dimotšule le Ditlabakelo tša Tšhireletšo
+devmgr-header-details =
+    .label = Tshedimošo
+devmgr-header-value =
+    .label = Boleng
+devmgr-button-login =
+    .label = Tsena
+    .accesskey = n
+devmgr-button-logout =
+    .label = E-tšwa
+    .accesskey = E
+devmgr-button-changepw =
+    .label = Fetoša lentšuphetišo
+    .accesskey = p
+devmgr-button-load =
+    .label = Hlahlela
+    .accesskey = l
+devmgr-button-unload =
+    .label = Se hlahlele
+    .accesskey = h
+devmgr-button-enable-fips =
+    .label = Kgontšha FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Palediša FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-info = Tsenya tshedimošo ya motšule wo o nyakago go o lokela.
+load-device-modname-default =
+    .value = Motšule o Mofsa wa PKCS#11
+load-device-browse =
+    .label = Fetleka…
+    .accesskey = B
 
 ## Token Manager
 
