@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Gestionari de periferics
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Moduls e periferics de seguretat
 devmgr-header-details =
