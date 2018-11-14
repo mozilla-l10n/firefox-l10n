@@ -38,6 +38,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Cargar el driver de dispositivo PKCS#11
 load-device-info = Introduce la información para el módulo que quieres añadir.
 load-device-modname =
     .value = Nombre del módulo
@@ -86,6 +88,7 @@ devinfo-serialnum =
     .label = Número de serie
 fips-nonempty-password-required = El modo FIPS requiere tener una contraseña maestra establecida para cada dispositivo de seguridad. Establece la contraseña antes de activar este modo.
 unable-to-toggle-fips = No se puede cambiar el modo FIPS para el dispositivo de seguridad.Te recomiend salir y reiniciar la aplicación.
+load-pk11-module-file-picker-title = Escoger un dispositivo driver PKCS#11 para cargar
 # Load Module Dialog
 load-module-help-empty-module-name =
     .value = El nombre del módulo no se puede quedar vacío.
