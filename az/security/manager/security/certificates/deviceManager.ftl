@@ -5,13 +5,21 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Cihaz idarəçisi
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Təhlükəsizlik Parçaları və Cihazları
 devmgr-header-details =
     .label = Ətraflı məlumat
+devmgr-header-value =
+    .label = Dəyər
 devmgr-button-login =
     .label = Giriş yap
     .accesskey = p
+devmgr-button-logout =
+    .label = Hesabdan çıx
+    .accesskey = x
 devmgr-button-load =
     .label = Yükle
     .accesskey = l
@@ -63,7 +71,11 @@ devinfo-modname =
 devinfo-modpath =
     .label = Qısayol
 login-failed = Giriş uğursuz oldu
+devinfo-label =
+    .label = Etiket
 devinfo-serialnum =
     .label = Seriya nömrəsi
 unable-to-toggle-fips = FIPSrejimi təhlükəsizlik cihazı üçün dəyişdirilə bilmir. Bu proqramdan çıxıb yenidən başlatmağınız tövsiyyə olunur.
+add-module-failure = Modul əlavə edilə bilmir
 del-module-warning = Bu təhlükəsizlik modulunu silmək istədiyinizə əminsiniz?
+del-module-error = Modul silinə bilmir
