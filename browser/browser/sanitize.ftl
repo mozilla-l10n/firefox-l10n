@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Geçmiş temizleme ayarları
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
+dialog-title =
+    .title = Yakın geçmişi temizle
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Tüm geçmişi sil
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -50,6 +63,9 @@ data-section-label = Veri
 item-site-preferences =
     .label = Site tercihleri
     .accesskey = e
+item-offline-apps =
+    .label = Çevrimdışı site verileri
+    .accesskey = s
 sanitize-everything-undo-warning = Bu işlem geri alınamaz.
 window-close =
     .key = w
