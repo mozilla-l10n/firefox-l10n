@@ -19,6 +19,8 @@ clear-time-duration-value-last-4-hours =
     .label = క్రిందటి నాలుగు గంటలు
 clear-time-duration-value-everything =
     .label = అన్నీ
+clear-time-duration-suffix =
+    .value = అన్నీ
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
@@ -35,3 +37,7 @@ item-offline-apps =
     .accesskey = O
 window-close =
     .key = w
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = తుడిచివేయుచున్నది
