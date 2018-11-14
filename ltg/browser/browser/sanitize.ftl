@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Clear All History
     .style = width: 40em
+clear-data-settings-label = Kad es aizveru { -brand-short-name } dzēst vysu
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
