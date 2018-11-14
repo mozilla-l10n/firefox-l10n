@@ -11,10 +11,43 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = 消去する履歴の期間:
+    .accesskey = T
+clear-time-duration-value-last-hour =
+    .label = 1 時間以内の履歴
+clear-time-duration-value-last-2-hours =
+    .label = 2 時間以内の履歴
+clear-time-duration-value-last-4-hours =
+    .label = 4 時間以内の履歴
+clear-time-duration-value-today =
+    .label = 今日の履歴
+clear-time-duration-value-everything =
+    .label = すべての履歴
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = 履歴
+item-history-and-downloads =
+    .label = 表示したページとダウンロードの履歴
+    .accesskey = B
 item-cookies =
     .label = Cookie
     .accesskey = C
+item-active-logins =
+    .label = 現在のログイン情報
+    .accesskey = L
+item-cache =
+    .label = キャッシュ
+    .accesskey = A
+item-form-search-history =
+    .label = 検索やフォームの入力履歴
+    .accesskey = F
+data-section-label = データ
+item-site-preferences =
+    .label = サイトの設定
+    .accesskey = S
+sanitize-everything-undo-warning = この操作は取り消せません。
