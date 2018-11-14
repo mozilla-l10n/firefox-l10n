@@ -2,8 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Settings for Clearing History
+    .style = width: 40em
 sanitize-prefs-style =
     .style = width: 19em
+dialog-title =
+    .title = Dzēst puorlūkuošonys viesturi
+    .style = width: 40em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Clear All History
+    .style = width: 40em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -58,3 +69,17 @@ item-offline-apps =
 sanitize-everything-undo-warning = Itei ir naatgrīzeniska darbeiba.
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = Clear Now
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = Clearing
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = All history will be cleared.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = All selected items will be cleared.
