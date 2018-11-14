@@ -66,3 +66,5 @@ login-failed = Falló el inicio de sesión
 devinfo-label =
     .label = Etiqueta
 unable-to-toggle-fips = No se puede cambiar el modo FIPS para el dispositivo de seguridad. Se recomienda que salga y reinicie esta aplicación.
+del-module-warning = ¿Está seguro que desea eliminar este módulo de seguridad?
+del-module-error = Incapaz de eliminar módulo
