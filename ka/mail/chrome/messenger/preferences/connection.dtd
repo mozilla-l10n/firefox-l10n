@@ -52,3 +52,7 @@
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL-მისამართი DNS-გადაყვანებისთვის HTTPS-ით">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "ნაგულისხმევის გამოყენება">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "ნ">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "ნაგულისხმევი URL-ს გამოყენება DNS-გადაყვანებისთვის HTTPS-ით">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "ნაგულისხმევი">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "ლ">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "შეიყვანეთ სასურველი URL-მისამართი DNS-გადაყვანებისთვის HTTPS-ით">

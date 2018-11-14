@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = დ
 confirm-messenger-language-change-description = გაუშვით { -brand-short-name } ხელახლა, ცვლილებების ასახვისთვის
 confirm-messenger-language-change-button = მიღება და ხელახლა გაშვება
+update-pref-write-failure-title = ჩაწერის ხარვეზი
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = პარამეტრის შენახვა შეუძლებელია. ვერ ხერხდება ჩაწერა ფაილში: { $path }
