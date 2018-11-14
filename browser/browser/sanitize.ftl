@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = બધો ઇતિહાસ સાફ કરો
     .style = width: 34em
+clear-data-settings-label = યારે બંધ હોય, { -brand-short-name } આપમેળે બધાને સાફ કરવું જોઈએ
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
