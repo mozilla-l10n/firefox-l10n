@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Skarzhañ ar roll istor a-bezh
     .style = width: 34em
+clear-data-settings-label = Pa vez serret, { -brand-short-name } a skarzho an holl ent emgefreek
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
