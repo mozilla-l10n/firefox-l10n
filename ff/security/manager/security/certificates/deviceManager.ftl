@@ -38,6 +38,9 @@ devmgr-button-disable-fips =
 load-device-info = Naatnu humpito wulnde nde njiɗ-ɗaa ɓeydude ndee.
 load-device-modname-default =
     .value = Wulnde PKCS#11 Hesere
+load-device-browse =
+    .label = Weɗɗit…
+    .accesskey = W
 
 ## Token Manager
 
@@ -51,6 +54,8 @@ devinfo-status-uninitialized =
     .label = Fuɗɗinaaka
 devinfo-status-not-logged-in =
     .label = Seŋaaki
+devinfo-status-logged-in =
+    .label = Seŋiima
 devinfo-status-ready =
     .label = Hebiima
 devinfo-desc =
