@@ -31,9 +31,9 @@ clear-time-duration-prefix =
 clear-time-duration-value-last-hour =
     .label = Aravo paha
 clear-time-duration-value-last-2-hours =
-    .label = Mokõi aravóntema{ " " }
+    .label = Mokõi aravóntema
 clear-time-duration-value-last-4-hours =
-    .label = Irundy aravóntema{ " " }
+    .label = Irundy aravóntema
 clear-time-duration-value-today =
     .label = Ko árape
 clear-time-duration-value-everything =
@@ -83,4 +83,4 @@ sanitize-everything-warning = Opa tembiasakue oñemboguéta.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = Opavave temimoĩ isa'ypyréva oñemboguepáta.{ " " }
+sanitize-selected-warning = Opavave temimoĩ isa'ypyréva oñemboguepáta.
