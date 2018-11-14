@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Тарихты тазартуды баптау
+    .style = width: 40em
+sanitize-prefs-style =
+    .style = width: 17em
+dialog-title =
+    .title = Жуырдағы тарихты өшіру
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Бүкіл тарихты тазарту
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -11,8 +24,19 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Жойылатын деректер мерзімі:{ " " }
+    .accesskey = Ж
+clear-time-duration-value-last-hour =
+    .label = Соңғы сағат
+clear-time-duration-value-last-2-hours =
+    .label = Соңғы 2 сағат
+clear-time-duration-value-last-4-hours =
+    .label = Соңғы 4 сағат
 clear-time-duration-value-today =
     .label = бүгінгі тарихымды
+clear-time-duration-value-everything =
+    .label = Барлығы
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -23,7 +47,23 @@ history-section-label = Тарихы
 item-history-and-downloads =
     .label = Қарап шығу және жүктемелер тарихы
     .accesskey = ш
+item-active-logins =
+    .label = Белсенді сеанстар
+    .accesskey = Б
+item-cache =
+    .label = Кэш
+    .accesskey = К
+item-form-search-history =
+    .label = Формалар және іздеу тарихы
+    .accesskey = Ф
 data-section-label = Мәліметтер
+item-site-preferences =
+    .label = Сайттар баптаулары
+    .accesskey = С
+item-offline-apps =
+    .label = Дербес веб-сайттар деректері
+    .accesskey = Д
+sanitize-everything-undo-warning = Бұл әрекетті болдырмау мүмкін емес болады.
 window-close =
     .key = w
 sanitize-button-ok =
