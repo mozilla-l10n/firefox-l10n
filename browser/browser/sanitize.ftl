@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Изчистване на цялата история
     .style = width: 34em
+clear-data-settings-label = При затваряне на { -brand-short-name } автоматично да бъдат изчиствани
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -44,12 +45,18 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = История
+item-history-and-downloads =
+    .label = История на разглеждане и изтегляния
+    .accesskey = с
 item-cookies =
     .label = Бисквитки
     .accesskey = Б
 item-active-logins =
     .label = Вписвания в сайтове
     .accesskey = В
+item-cache =
+    .label = Буфер
+    .accesskey = б
 item-form-search-history =
     .label = История на формуляри и търсения
     .accesskey = ф
@@ -60,6 +67,7 @@ item-site-preferences =
 item-offline-apps =
     .label = Данни за сайтове без мрежа
     .accesskey = м
+sanitize-everything-undo-warning = Действието е необратимо.
 window-close =
     .key = w
 sanitize-button-ok =
