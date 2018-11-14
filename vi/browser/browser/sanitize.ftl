@@ -30,6 +30,7 @@ clear-time-duration-suffix =
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Lịch sử
 item-cookies =
     .label = Cookie
     .accesskey = C
