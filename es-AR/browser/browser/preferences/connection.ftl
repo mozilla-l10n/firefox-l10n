@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL para decidir DNS por sobre HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Usar predeterminada ({ $url })
+    .accesskey = U
+    .tooltiptext = Usar la URL predeterminada para resolver que DNS tiene prioridad sobre HTTPS
+connection-dns-over-https-url-custom =
+    .label = Personalizada
+    .accesskey = C
+    .tooltiptext = Ingrese su URL preferida para resolver que DNS tiene prioridad sobre HTTPS
