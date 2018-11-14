@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Limpar todo o histórico
     .style = width: 34em
+clear-data-settings-label = Quando fechado, o { -brand-short-name } deve limpar automaticamente todos(as)
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -44,6 +45,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Histórico
+item-history-and-downloads =
+    .label = Histórico de navegação e de transferências
+    .accesskey = H
 item-cookies =
     .label = Cookies
     .accesskey = C
