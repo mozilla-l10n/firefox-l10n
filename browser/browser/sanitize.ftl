@@ -19,12 +19,15 @@ clear-time-duration-value-last-4-hours =
     .label = Caberes cuatro hores
 clear-time-duration-value-today =
     .label = Güei
+clear-time-duration-value-everything =
+    .label = Too
 clear-time-duration-suffix =
     .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Historial
 item-cookies =
     .label = Cookies
     .accesskey = C
@@ -39,6 +42,10 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = Llimpiar agora
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Llimpiaráse tol historial.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
