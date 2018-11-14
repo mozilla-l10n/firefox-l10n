@@ -5,12 +5,30 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = ডিভাইস পরিচালন ব্যবস্থা
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = নিরাপত্তা মডিউল ও ডিভাইস
 devmgr-header-details =
     .label = বিবরণ
 devmgr-header-value =
     .label = মান
+devmgr-button-login =
+    .label = লগ-ইন
+    .accesskey = ল
+devmgr-button-logout =
+    .label = লগ আউট
+    .accesskey = O
+devmgr-button-changepw =
+    .label = পাসওয়ার্ড পরিবর্তন
+    .accesskey = P
+devmgr-button-load =
+    .label = লোড করুন
+    .accesskey = L
+devmgr-button-unload =
+    .label = আন-লোড করুন
+    .accesskey = U
 devmgr-button-enable-fips =
     .label = FIPS সক্রিয় করা হবে
     .accesskey = F
@@ -20,6 +38,7 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device-info = আপনি যে মডিউলটি যোগ করতে ইচ্ছুক সেটি সম্পর্কে তথ্য জ্ঞাপন করুন।
 load-device-modname-default =
     .value = নতুন PKCS#11 মডিউল
 load-device-browse =
@@ -36,6 +55,10 @@ devinfo-status-not-present =
     .label = উপস্থিত নেই
 devinfo-status-uninitialized =
     .label = প্রারম্ভ করা হয়নি
+devinfo-status-not-logged-in =
+    .label = লগ-ইন করা হয়নি
+devinfo-status-logged-in =
+    .label = লগ-ইন করা হয়েছে
 devinfo-status-ready =
     .label = প্রস্তুত
 devinfo-desc =
@@ -50,9 +73,13 @@ devinfo-modname =
     .label = মডিউল
 devinfo-modpath =
     .label = পাথ
+login-failed = লগ-ইন করতে ব্যর্থ
 devinfo-label =
     .label = লেবেল
 devinfo-serialnum =
     .label = ক্রমিক সংখ্যা
+fips-nonempty-password-required = FIPS মোডের ক্ষেত্রে প্রতিটি নিরাপত্তা ডিভাইসের জন্য একটি প্রধান পাসওয়ার্ড নির্ধারণ করা আবশ্যক। FIPS মোড সক্রিয় করার পূর্বে অনুগ্রহ করে পাসওয়ার্ড নির্ধারণ করুন।
+unable-to-toggle-fips = নিরাপত্তা ডিভাইসের FIPS মোড পরিবর্তন করতে ব্যর্থ। প্রস্থান করে অ্যাপ্লিকেশনটি পুনরায় আরম্ভ করুন।
 add-module-failure = মডিউল যোগ করতে ব্যর্থ
+del-module-warning = আপনি কি নিশ্চিতরূপে এই নিরাপত্তা মডিউলটি মুছে ফেলতে ইচ্ছুক?
 del-module-error = মডিউল মুছে ফেলতে ব্যর্থ
