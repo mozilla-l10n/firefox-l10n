@@ -10,6 +10,12 @@ devmgr-header-value =
 devmgr-button-load =
     .label = లోడ్‌చేయి
     .accesskey = L
+devmgr-button-enable-fips =
+    .label = FIPS చేతనంచేయి
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = FIPS అచేతనంచేయి
+    .accesskey = F
 
 ## Strings used for load device
 
