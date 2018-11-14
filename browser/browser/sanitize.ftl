@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = చరిత్ర అంతటినీ చెరిపివేయండి
     .style = width: 34em
+clear-data-settings-label = మూసివేసినప్పుడు, { -brand-short-name } ఆటోమెటిగ్గా వీటిని చెరిపివేస్తుంది
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -44,12 +45,21 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = చరిత్ర
+item-history-and-downloads =
+    .label = విహారణ & దింపుకోలు చరిత్ర
+    .accesskey = B
 item-cookies =
     .label = కుకీలు
     .accesskey = C
 item-active-logins =
     .label = చేతన లాగ్ ఇన్లు
     .accesskey = L
+item-cache =
+    .label = క్యాషె
+    .accesskey = a
+item-form-search-history =
+    .label = ఫారాలు & వెతుకుడు చరిత్ర
+    .accesskey = F
 data-section-label = దత్తాంశము
 item-site-preferences =
     .label = సైటు అభిరుచులు
