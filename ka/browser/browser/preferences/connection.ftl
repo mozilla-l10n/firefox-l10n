@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL-ბმული DNS-სთან HTTPS-კავშირისთვის
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = ნაგულისხმევის გამოყენება ({ $url })
+    .accesskey = ნ
+    .tooltiptext = ნაგულისხმევი URL-ს გამოყენება DNS-გადაყვანებისთვის HTTPS-ით
+connection-dns-over-https-url-custom =
+    .label = მითითებული
+    .accesskey = მ
+    .tooltiptext = შეიყვანეთ სასურველი URL-მისამართი DNS-გადაყვანებისთვის HTTPS-ით
