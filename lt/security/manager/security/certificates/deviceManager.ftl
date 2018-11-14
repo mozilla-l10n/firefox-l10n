@@ -41,8 +41,14 @@ devmgr-button-disable-fips =
 load-device =
     .title = Įkelti PKCS#11 įrenginio tvarkyklę
 load-device-info = Surinkite informaciją apie pridedamą modulį.
+load-device-modname =
+    .value = Modulio pavadinimas
+    .accesskey = M
 load-device-modname-default =
     .value = Naujas PKCS Nr. 11 modulis
+load-device-filename =
+    .value = Modulio failo pavadinimas
+    .accesskey = f
 load-device-browse =
     .label = Parinkti failą…
     .accesskey = r
@@ -83,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = Norint dirbti FIPS veiksenoje, reikia turėti tiek pagrindinių slaptažodžių, kiek turite saugumo priemonių. Prašom sukurti pagrindinius slaptažodžius prieš įjungiant FIPS veikseną.
 unable-to-toggle-fips = Nepavyko pakeisti su saugumo priemone naudojamos FIPS veiksenos. Patariame užbaigti šios programos darbą, o tada paleisti ją iš naujo.
 load-pk11-module-file-picker-title = Pasirinkite norimą įkelti PKCS#11 įrenginio tvarkyklę
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Modulio pavadinimas negali būti tuščias.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = „Root Certs“ yra rezervuotas ir negali būti naudojamas modulio pavadinimui.
 add-module-failure = Nepavyko įdiegti modulio
 del-module-warning = Ar tikrai norite pašalinti šį saugumo modulį?
 del-module-error = Modulio pašalinti nepavyko
