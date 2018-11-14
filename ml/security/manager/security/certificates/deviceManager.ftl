@@ -80,6 +80,12 @@ devinfo-serialnum =
     .label = സീരിയല്‍ നമ്പര്‍
 fips-nonempty-password-required = FIPS മോഡില്‍ നിങ്ങള്‍ക്കു് ഓരോ സുരക്ഷ ഡിവൈസിനും  പ്രധാന പാസ്‌വേര്‍ഡ് മാറ്റേണ്ടതാകുന്നു. ദയവായി FIPS സജ്ജമാക്കുന്നതിനു് മുമ്പു് പാസ്‌വേര്‍ഡ് നല്‍കുക.
 unable-to-toggle-fips = സുരക്ഷാ ഡിവൈസിനുള്ള എഫ്ഐപിഎസ് മോഡ് മാറ്റുവാന്‍ സാധ്യമല്ല. അതിനാല്‍, ഈ പ്രയോഗത്തില്‍ നിന്നും പുറത്തു് കടന്നു്, വിണ്ടും ആരംഭിയ്ക്കുക.
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = മൊഡ്യൂളിന്റെ പേര് ശൂന്യമായിരിക്കരുത്.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ റിസർവ് ചെയ്തതിനാൽ മൊഡ്യൂളിൻറെ പേരായി ഉപയോഗിക്കാൻ കഴിയില്ല.
 add-module-failure = മൊഡ്യൂള്‍ ചേര്‍ക്കാന്‍ കഴിയുന്നില്ല
 del-module-warning = ഈ സുരക്ഷാ മോഡ്യൂള്‍ മായിക്കണം എന്ന്‌ ഉറപ്പാണോ??{ "  " }
 del-module-error = മൊഡ്യൂള്‍ നീക്കം ചെയ്യുവാന്‍ കഴിയുന്നില്ല
