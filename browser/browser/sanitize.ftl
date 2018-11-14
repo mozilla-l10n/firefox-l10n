@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Suprimir tot l'istoric
     .style = width: 34em
+clear-data-settings-label = En tampar { -brand-short-name }, escafar automaticament los elements seguents
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -24,6 +25,9 @@ dialog-title-everything =
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Periòde de suprimir :{ " " }
+    .accesskey = s
 clear-time-duration-value-last-hour =
     .label = la darrièra ora
 clear-time-duration-value-last-2-hours =
