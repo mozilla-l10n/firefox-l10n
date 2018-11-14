@@ -2,6 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = การตั้งค่าการล้างประวัติ
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = ล้างประวัติทั้งหมด
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -35,6 +45,7 @@ data-section-label = ข้อมูล
 item-offline-apps =
     .label = ข้อมูลเว็บไซต์ออฟไลน์
     .accesskey = ข
+sanitize-everything-undo-warning = การกระทำนี้ไม่สามารถเลิกทำได้
 window-close =
     .key = w
 # The label for the default button between the user clicking it and the window
@@ -45,3 +56,7 @@ sanitize-button-clearing =
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = ประวัติทั้งหมดจะถูกล้าง
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = รายการที่เลือกทั้งหมดจะถูกล้าง
