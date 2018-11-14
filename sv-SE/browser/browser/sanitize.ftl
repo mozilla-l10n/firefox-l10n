@@ -11,9 +11,62 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Tidsintervall att ta bort:{ " " }
+    .accesskey = T
+clear-time-duration-value-last-hour =
+    .label = Senaste timmen
+clear-time-duration-value-last-2-hours =
+    .label = Senaste 2 timmarna
+clear-time-duration-value-last-4-hours =
+    .label = Senaste 4 timmarna
+clear-time-duration-value-today =
+    .label = Idag
+clear-time-duration-value-everything =
+    .label = All historik
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Historik
+item-history-and-downloads =
+    .label = Besökta sidor och filhämtningshistorik
+    .accesskey = B
+item-cookies =
+    .label = Kakor
+    .accesskey = K
+item-active-logins =
+    .label = Aktiva inloggningar
+    .accesskey = A
+item-cache =
+    .label = Cache
+    .accesskey = C
+item-form-search-history =
+    .label = Formulär- och sökhistorik
+    .accesskey = F
+data-section-label = Data
+item-site-preferences =
+    .label = Platsspecifika inställningar
+    .accesskey = P
+item-offline-apps =
+    .label = Nedkopplad webbplatsdata
+    .accesskey = N
+sanitize-everything-undo-warning = Den här åtgärden kan inte ångras.
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = Ta bort
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = Tar bort
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = All historik kommer att tas bort.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = Alla markerade poster kommer att tas bort.
