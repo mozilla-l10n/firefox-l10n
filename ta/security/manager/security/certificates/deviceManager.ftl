@@ -5,12 +5,18 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = சாதன மேலாளர்
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = பாதுகாப்பு பகுதிகள் மற்றும் சாதனங்கள்
 devmgr-header-details =
     .label = விளக்கங்கள்
 devmgr-header-value =
     .label = மதிப்பு
+devmgr-button-login =
+    .label = புகுப்பதிகை
+    .accesskey = n
 devmgr-button-logout =
     .label = வெளியேறு
     .accesskey = O
@@ -74,6 +80,7 @@ devinfo-serialnum =
     .label = வரிசை எண்
 fips-nonempty-password-required = FIPS mode requires that you have a Master Password set for  each security device. Please set the password before trying to enable FIPS mode.
 unable-to-toggle-fips = Unable to change the FIPS mode for the security device.  It is recommended that you exit and restart this application.
+load-pk11-module-file-picker-title = ஏற்றுவதற்கு ஒரு PKCS#11 சாதன இயக்கியைத் தேர்ந்தெடுக்கவும்
 add-module-failure = தொகுதியை சேர்க்க முடியவில்லை
 del-module-warning = இந்த பாதுகாப்பு தொகுதியை அழிக்க வேண்டுமா?
 del-module-error = தொகுதியை அழிக்க முடியவில்லை
