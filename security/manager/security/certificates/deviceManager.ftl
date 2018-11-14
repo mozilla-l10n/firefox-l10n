@@ -39,3 +39,4 @@ devinfo-label =
     .label = Etiqueta
 devinfo-serialnum =
     .label = Número de série
+add-module-failure = Não é possível adicionar módulo
