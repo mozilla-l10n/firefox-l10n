@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Xóa toàn bộ lịch sử
     .style = width: 34em
+clear-data-settings-label = Khi đóng, { -brand-short-name } sẽ xóa tất cả một cách tự động
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
