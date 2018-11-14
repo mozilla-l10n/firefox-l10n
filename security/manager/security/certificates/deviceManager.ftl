@@ -11,4 +11,21 @@
 
 ## Token Manager
 
+devinfo-status =
+    .label = Durum
+devinfo-status-not-present =
+    .label = Mevcut değil
+devinfo-status-uninitialized =
+    .label = Ayarsız
+devinfo-status-not-logged-in =
+    .label = Giriş yapılmadı
+devinfo-status-ready =
+    .label = Hazır
+devinfo-desc =
+    .label = Açıklama
+devinfo-man-id =
+    .label = Üretici
+login-failed = Giriş başarısız
+devinfo-label =
+    .label = Etiket
 del-module-warning = Bu güvenlik modülünü silmek istediğinizden emin misiniz?
