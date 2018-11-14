@@ -12,3 +12,6 @@ sync-disconnect-cancel =
 ## The 2 labels which may be shown on the single "Disconnect" button, depending
 ## on the state of the checkboxes.
 
+sync-disconnect-confirm-disconnect-delete =
+    .label = Prekini vezu i izbriši
+    .accesskey = P

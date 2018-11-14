@@ -9,8 +9,10 @@
 <!ENTITY retry.label "Pokušaj ponovno">
 <!ENTITY returnToPreviousPage.label "Idi natrag">
 <!ENTITY advanced.label "Napredno">
+<!ENTITY continue2.label "Više…">
 <!ENTITY moreInformation.label "Više informacija">
 
+<!ENTITY viewCertificate.label "Pregled certifikata">
 
 <!-- Specific error messages -->
 
@@ -98,6 +100,7 @@ was trying to connect. -->
 
 
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Što možete učiniti?">
 
 
 
@@ -112,6 +115,7 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj iznimku…">
+<!ENTITY securityOverride.exceptionButton1Label "Prihvati rizik i nastavi">
 
 <!ENTITY errorReporting.automatic2 "Prijavite greške poput ove da biste pomogli Mozilli identificirati i blokirati maliciozne stranice">
 <!ENTITY errorReporting.learnMore "Saznajte više…">
@@ -139,7 +143,10 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje ste smatrali da su sigurne. Administrator web stranice će trebati popraviti poslužitelj prije nego možete posjetiti stranicu.</p><p>Kod greške: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY blockedByPolicy.title "Blokirana stranica">
 
+<!ENTITY clockSkewError.title "Sat na računalu je pogrešan">
 
 <!ENTITY prefReset.longDesc "Izgleda da vaše postavke sigurnosti mreže možda uzrokuju ovo. Želite li vratiti na početne postavke?">
 <!ENTITY prefReset.label "Vrati početne postavke">
+
