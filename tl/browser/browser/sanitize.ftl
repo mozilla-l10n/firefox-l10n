@@ -2,8 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Mga pagtatakda para sa Pagbura ng Kasaysayan
+    .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
+dialog-title =
+    .title = Burahin ang Kasalukuyang Kasaysayan
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Burahin ang Lahat ng Nakaraan
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -13,6 +24,9 @@ sanitize-prefs-style =
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Saklaw ng oras upang i-clear:{ " " }
+    .accesskey = T
 clear-time-duration-value-last-hour =
     .label = Huling Oras
 clear-time-duration-value-last-2-hours =
@@ -29,11 +43,34 @@ clear-time-duration-suffix =
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Kasaysayan
+item-history-and-downloads =
+    .label = Pag-browse & I-download ang Kasaysayan
+    .accesskey = B
 item-cookies =
     .label = Cookies
     .accesskey = C
+item-active-logins =
+    .label = Mga Login na Aktibo
+    .accesskey = L
+item-cache =
+    .label = Cache
+    .accesskey = A
+item-form-search-history =
+    .label = Form & Kasaysayan ng Paghahanap
+    .accesskey = F
+data-section-label = Data
+item-site-preferences =
+    .label = Mga Gusto sa Site
+    .accesskey = S
+item-offline-apps =
+    .label = Data ng Offline na Website
+    .accesskey = O
+sanitize-everything-undo-warning = Ang ginawa ay hindi na mababalik sa dati.
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = Burahin Ngayon
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
