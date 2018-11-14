@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = مدير الأجهزة
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = وحدات الأمن وأجهزته
 devmgr-header-details =
@@ -35,6 +38,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = حمِّل مشغّل جهاز PKCS#11
 load-device-info = أدخل معلومات الوحدة التي تريد إضافتها.
 load-device-modname-default =
     .value = وحدة PKCS#11 جديدة
@@ -76,6 +81,8 @@ devinfo-label =
 devinfo-serialnum =
     .label = الرّقم التّسلسلي
 fips-nonempty-password-required = يتطلّب وضع FIPS وجود كلمة سر رئيسيّة لكلّ جهاز أمن. رجاءً ضع كلمة سر قبل تمكين وضع FIPS.
+unable-to-toggle-fips = تعذر تغيير نمط FIPS للجهاز الأمني. ننصحك بالخروج من هذا البرنامج و إعادة تشغيله.
+load-pk11-module-file-picker-title = اختر مشغّل جهاز PKCS#11 ليحمّل
 # Load Module Dialog
 load-module-help-empty-module-name =
     .value = لا يمكن أن يكون اسم الوحدة خاليًا.
