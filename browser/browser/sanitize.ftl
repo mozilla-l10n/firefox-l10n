@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = इतिहास पूसण्याकरीता संयोजना
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
+dialog-title =
+    .title = अलिकडील इतिहास नष्ट करा
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = सर्व इतिहास पूसा
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -29,13 +42,22 @@ clear-time-duration-value-everything =
 ## to select the items to remove
 
 history-section-label = इतिहास
+item-history-and-downloads =
+    .label = ब्राऊज आणि डाऊनलोड इतिहास
+    .accesskey = B
 item-cookies =
     .label = कुकीज
     .accesskey = C
 item-active-logins =
     .label = सक्रिय प्रवेश
     .accesskey = L
+item-form-search-history =
+    .label = फॉर्म आणि शोध इतिहास
+    .accesskey = F
 data-section-label = माहिती
+item-site-preferences =
+    .label = साईट प्राधान्यक्रम
+    .accesskey = S
 item-offline-apps =
     .label = ऑफलाइन संकेतस्थळ माहिती
     .accesskey = O
