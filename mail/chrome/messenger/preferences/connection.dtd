@@ -50,3 +50,7 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "通过 HTTPS 解析 DNS 的 URL">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "使用默认值">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "自定义">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
