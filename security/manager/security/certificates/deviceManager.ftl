@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = ਜੰਤਰ ਮੈਨੇਜਰ
+    .style = width: 67em; height: 32em;
 devmgr-button-enable-fips =
     .label = FIPS ਯੋਗ
     .accesskey = F
@@ -31,6 +34,8 @@ devinfo-status-logged-in =
     .label = ਲਾਗਇਨ ਹੈ
 devinfo-status-ready =
     .label = ਤਿਆਰ
+devinfo-desc =
+    .label = ਵੇਰਵੇ
 devinfo-man-id =
     .label = ਨਿਰਮਾਤਾ
 devinfo-hwversion =
