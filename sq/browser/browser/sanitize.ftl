@@ -7,6 +7,14 @@ sanitize-prefs =
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
+dialog-title =
+    .title = Pastro Historikun Së Fundi
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Pastro Krejt Historikun
+    .style = width: 34em
 clear-data-settings-label = Kur mbyllet, { -brand-short-name }-i duhet t'i pastrojë të tëra automatikisht
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
@@ -36,6 +44,29 @@ clear-time-duration-suffix =
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Historik
+item-history-and-downloads =
+    .label = Historik Shfletimesh dhe Shkarkimesh
+    .accesskey = H
+item-cookies =
+    .label = Cookie
+    .accesskey = C
+item-active-logins =
+    .label = Hyrje Aktive
+    .accesskey = A
+item-cache =
+    .label = Fshehtinë
+    .accesskey = e
+item-form-search-history =
+    .label = Historik Formularësh & Kërkimesh
+    .accesskey = F
+data-section-label = Të dhëna
+item-site-preferences =
+    .label = Parapëlqime Për Sajtin
+    .accesskey = P
+item-offline-apps =
+    .label = Të dhëna Sajti Jashtë Linje
+    .accesskey = T
 sanitize-everything-undo-warning = Ky veprim nuk mund të zhbëhet.
 window-close =
     .key = w
