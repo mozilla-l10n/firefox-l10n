@@ -156,3 +156,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> sử dụng công nghệ bảo mật là lỗi thời và dễ bị tấn công. Một kẻ tấn công có thể dễ dàng tiết lộ thông tin mà bạn nghĩ là an toàn. Quản trị trang web sẽ cần phải sửa chữa các máy chủ đầu tiên trước khi bạn có thể truy cập vào các trang web.</p><p>Mã lỗi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Lỗi giao thức mạng">
+<!ENTITY networkProtocolError.longDesc "<p>Trang bạn đang cố xem không thể hiển thị vì lỗi trong giao thức mạng đã được phát hiện.</p><ul><li>Vui lòng liên hệ với chủ sở hữu trang web để thông báo cho họ về sự cố này.</li></ul>">
