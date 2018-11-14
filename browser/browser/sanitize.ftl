@@ -31,6 +31,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = इतिहास
+item-history-and-downloads =
+    .label = ब्राउजिंग आओर डाउनलोड इतिहास
+    .accesskey = B
 item-cookies =
     .label = कुकीज़
     .accesskey = C
