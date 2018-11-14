@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Upravitelj uređaja
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Sigurnosni moduli i uređaji
 devmgr-header-details =
@@ -35,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Učitaj PKCS#11 upravljački program uređaja
 load-device-info = Upišite informacije za modul kojeg želite dodati.
+load-device-modname =
+    .value = Naziv modula
+    .accesskey = M
 load-device-modname-default =
     .value = Novi PKCS#11 modul
+load-device-filename =
+    .value = Naziv datoteke modula
+    .accesskey = d
 load-device-browse =
     .label = Pretraži...
     .accesskey = P
@@ -77,6 +88,7 @@ devinfo-serialnum =
     .label = Serijski broj
 fips-nonempty-password-required = FIPS način rada zahtijeva da postavite glavnu lozinku za svaki sigurnosni uređaj. Molim postavite lozinku prije no što pokušate omogućiti FIPS način rada.
 unable-to-toggle-fips = Promjena FIPS načina rada za sigurnosni uređaj nije moguća. Preporuka je da zatvorite ili ponovno pokrenete ovu aplikaciju.
+load-pk11-module-file-picker-title = Odaberite upravljački program PKCS#11 uređaja za učitavanje
 add-module-failure = Modul nije moguće dodati
 del-module-warning = Jeste li sigurni da želite ukloniti ovaj sigurnosni modul?
 del-module-error = Modul nije moguće ukloniti
