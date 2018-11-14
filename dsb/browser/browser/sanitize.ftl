@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Cełu historiju wuprozniś
     .style = width: 34em
+clear-data-settings-label = Gaž { -brand-short-name } se kóńcy, by měło se wšykno awtomatiski wulašowaś
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
