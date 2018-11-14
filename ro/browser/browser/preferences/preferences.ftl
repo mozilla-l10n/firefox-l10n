@@ -294,6 +294,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Actualizează automat motoarele de căutare
     .accesskey = e
+update-pref-write-failure-title = Eșec la scriere
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Nu se poate salva preferința. Nu s-a putut scrie în fișier: { $path }
 
 ## General Section - Performance
 
@@ -570,21 +574,21 @@ history-header = Istoric
 history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
-    .label = Va memora istoricul
+    .label = Va ține minte istoricul
 history-remember-option-never =
-    .label = Nu va memora istoricul niciodată
+    .label = Nu va ține minte istoricul niciodată
 history-remember-option-custom =
     .label = Va folosi setări personalizate pentru istoric
-history-remember-description = { -brand-short-name } îți va memora istoricul navigării, descărcărilor, formularelor și căutărilor.
-history-dontremember-description = { -brand-short-name } va folosi aceleași setări ca navigarea privată și nu va memora istoricul în timp ce navighezi pe web.
+history-remember-description = { -brand-short-name } va ține minte istoricul navigării, descărcărilor, formularelor și căutărilor.
+history-dontremember-description = { -brand-short-name } va folosi aceleași setări ca navigarea privată și nu va ține minte istoricul în timp ce navighezi pe web.
 history-private-browsing-permanent =
     .label = Folosește mereu modul de navigare privată
     .accesskey = m
 history-remember-browser-option =
-    .label = Memorează istoricul navigării și al descărcărilor
+    .label = Ține minte istoricul navigării și al descărcărilor
     .accesskey = b
 history-remember-search-option =
-    .label = Memorează istoricul formularelor și al căutărilor
+    .label = Ține minte istoricul formularelor și al căutărilor
     .accesskey = f
 history-clear-on-close-option =
     .label = Șterge istoricul atunci când { -brand-short-name } este închis
@@ -688,7 +692,7 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .accesskey = S
 content-blocking-fastblock-new-description = Blochează numai urmăritorii care împiedică încărcarea rapidă a paginilor.
 content-blocking-tracking-protection-trackers-label =
-    .label = Mecanisme de urmărire
+    .label = Urmăritori
     .accesskey = U
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Toți urmăritorii detectați
