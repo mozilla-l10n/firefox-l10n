@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = مدیر دستگاه‌ها
+    .style = width: 52em; height: 32em;
 devmgr-devlist =
     .label = واحد‌ها و دستگاه‌های امنیتی
 devmgr-header-details =
@@ -35,6 +38,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = بار کردن راه‌انداز دستگاه PKCS#11
 load-device-info = اطلاعات پیمانه‌ای را که می‌خواهید اضافه شود وارد کنید.
 load-device-modname-default =
     .value = واحد PKCS#11 جدید
@@ -77,6 +82,7 @@ devinfo-serialnum =
     .label = شمارهٔ سریال
 fips-nonempty-password-required = برای حالت FIPS لازم است شما برای هر دستگاه امنیتی یک گذرواژهٔ اصلی داشته باشید. لطفاً قبل از تلاش برای به کار انداختن حالت FIPS گذرواژه‌ها را تنظیم کنید.
 unable-to-toggle-fips = قادر به تغییر حالت FIPS برای دستگاه امنیتی نبود. پیشنهاد می‌شود که از برنامه خارج شوید و آن را دوباره اجرا کنید.
+load-pk11-module-file-picker-title = یک راه‌انداز دستگاه PKCS#11 برای بار شدن انتخاب کنید
 add-module-failure = قادر به افزودن واحد نبود
 del-module-warning = آیا مطمئنید که می‌خواهید این واحد امنیتی را حذف کنید؟
 del-module-error = قادر به حذف واحد نبود
