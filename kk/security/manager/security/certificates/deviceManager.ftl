@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Құрылғылар менеджері
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Қауіпсіздік модульдері мен құрылғылар
 devmgr-header-details =
@@ -35,9 +38,20 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = PKCS#11 құрылғы драйверін жүктеу
 load-device-info = Модуль туралы қосқыңыз келетін ақпаратты енгізіңіз.
+load-device-modname =
+    .value = Модуль аты
+    .accesskey = м
 load-device-modname-default =
     .value = Жаңа PKCS#11 модулі
+load-device-filename =
+    .value = Модуль файлының аты
+    .accesskey = ф
+load-device-browse =
+    .label = Қарап шығу…
+    .accesskey = ш
 
 ## Token Manager
 
@@ -74,5 +88,7 @@ devinfo-serialnum =
     .label = Сериялық нөмірі
 fips-nonempty-password-required = FIPS режимі сізде әр қауіпсіздік құрылғысына мастер-парольді орнатуды керек етеді. FIPS режимін қосі алдында парольдерді орнатыңыз.
 unable-to-toggle-fips = Қауіпсіздік құрылғысы үшін FIPS режимін өзгерту мүмкін емес. Бұл қолданба жұмысын аяқтап, оны қайта қосу ұсынылады.
+load-pk11-module-file-picker-title = Жүктеу үшін PKCS#11 құрылғы драйверін таңдау
 add-module-failure = Модуль қосқанда қате кетті
 del-module-warning = Осы қорғаныс модулін өшіруді шынымен қалайсыз ба?
+del-module-error = Модульді өшіру мүмкін емес
