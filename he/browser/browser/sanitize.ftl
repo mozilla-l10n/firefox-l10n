@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = מחיקת כל ההיסטוריה
     .style = width: 34em
+clear-data-settings-label = עם הסגירה, { -brand-short-name } אמור לפנות את כל אלה אוטומטית
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -50,6 +51,9 @@ item-history-and-downloads =
 item-cookies =
     .label = עוגיות
     .accesskey = ע
+item-active-logins =
+    .label = כניסות פעילות
+    .accesskey = כ
 item-cache =
     .label = מטמון
     .accesskey = מ
