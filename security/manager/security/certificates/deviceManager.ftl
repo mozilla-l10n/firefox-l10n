@@ -5,6 +5,12 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = নিরাপত্তা মডিউল ও ডিভাইস
+devmgr-header-details =
+    .label = বিবরণ
+devmgr-header-value =
+    .label = মান
 devmgr-button-enable-fips =
     .label = FIPS সক্রিয় করা হবে
     .accesskey = F
@@ -14,6 +20,11 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device-modname-default =
+    .value = নতুন PKCS#11 মডিউল
+load-device-browse =
+    .label = ব্রাউজ করুন...
+    .accesskey = B
 
 ## Token Manager
 
