@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = युक्ति प्रबंधक
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = सुरक्षा मौड्यूल और युक्तियां
 devmgr-header-details =
@@ -35,6 +38,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = PKCS#11 युक्ति लोड करें
 load-device-info = मौड्यूल के लिये सूचना जिसे आप जोड़ना चाहते हैं.
 load-device-modname-default =
     .value = नया PKCS#11 मौड्यूल
