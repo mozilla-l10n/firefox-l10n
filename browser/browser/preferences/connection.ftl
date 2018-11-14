@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL adresa pro DNS přes HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Použít výchozí ({ $url })
+    .accesskey = u
+    .tooltiptext = Použít výchozí URL adresu pro DNS přes HTTPS
+connection-dns-over-https-url-custom =
+    .label = Vlastní
+    .accesskey = n
+    .tooltiptext = Zadejte vlastní URL adresu pro DNS přes HTTPS
