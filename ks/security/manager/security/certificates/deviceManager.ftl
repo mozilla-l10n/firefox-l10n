@@ -6,7 +6,7 @@
 ## Strings used for device manager
 
 devmgr-devlist =
-    .label = تحفظی ماڈیولس تئ ڈیوایسز ڈیوائسیس{ " " }
+    .label = تحفظی ماڈیولس تئ ڈیوایسز ڈیوائسیس
 devmgr-header-details =
     .label = تفصیلات
 devmgr-header-value =
@@ -24,7 +24,7 @@ devmgr-button-load =
     .label = لوڈ
     .accesskey = L
 devmgr-button-unload =
-    .label = ان لوڈ{ " " }
+    .label = ان لوڈ
     .accesskey = U
 devmgr-button-enable-fips =
     .label = FIPS  بنٲویو ممكن
@@ -35,7 +35,7 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
-load-device-info = { " " }ماڈیول خئطرئ كریو مولومات  دئخل یوْس تہئ جمع چھئوئ یژھان كر۪ین۔
+load-device-info = ماڈیول خئطرئ كریو مولومات  دئخل یوْس تہئ جمع چھئوئ یژھان كر۪ین۔
 load-device-modname-default =
     .value = نئو  PKCS#11 ماڈیول
 load-device-browse =
@@ -45,7 +45,7 @@ load-device-browse =
 ## Token Manager
 
 devinfo-status =
-    .label = سٹیٹس{ " " }
+    .label = سٹیٹس
 devinfo-status-disabled =
     .label = ‎غٲرمجاز كرمت
 devinfo-status-not-present =
@@ -55,15 +55,15 @@ devinfo-status-uninitialized =
 devinfo-status-not-logged-in =
     .label = لاگڈ ان چھُنئ
 devinfo-status-logged-in =
-    .label = لاگڈ ان چھُ{ " " }
+    .label = لاگڈ ان چھُ
 devinfo-status-ready =
     .label = تیار
 devinfo-desc =
-    .label = وضاحت{ " " }
+    .label = وضاحت
 devinfo-man-id =
     .label = بناو ن وۄل
 devinfo-hwversion =
-    .label = { " " }HW  ترجمہ
+    .label = HW  ترجمہ
 devinfo-fwversion =
     .label = FW ترجمہ
 devinfo-modname =
