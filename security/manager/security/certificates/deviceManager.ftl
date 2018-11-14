@@ -49,6 +49,9 @@ load-device-modname-default =
 load-device-filename =
     .value = মডিউল ফাইলের নাম
     .accesskey = f
+load-device-browse =
+    .label = ব্রাউজ...
+    .accesskey = B
 
 ## Token Manager
 
