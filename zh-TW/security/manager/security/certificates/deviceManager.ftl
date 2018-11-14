@@ -5,9 +5,38 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = 安全模組與裝置
+devmgr-button-login =
+    .label = 登入
+    .accesskey = n
+devmgr-button-logout =
+    .label = 登出
+    .accesskey = o
+devmgr-button-changepw =
+    .label = 變更密碼
+    .accesskey = P
+devmgr-button-load =
+    .label = 載入
+    .accesskey = L
+devmgr-button-unload =
+    .label = 卸載
+    .accesskey = U
+devmgr-button-enable-fips =
+    .label = 啟用 FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = 停用 FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-info = 輸入要新增的模組資訊。
+load-device-modname-default =
+    .value = 新 PKCS#11 模組
+load-device-browse =
+    .label = 瀏覽…
+    .accesskey = B
 
 ## Token Manager
 
