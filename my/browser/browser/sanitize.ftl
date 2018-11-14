@@ -39,3 +39,7 @@ item-site-preferences =
     .label = ကွန်ရက် ဦးစားပေးအချက်များ
     .accesskey = က
 sanitize-everything-undo-warning = ဒီလုပ်ဆောင်ချက်ကို ပြန်ဖြေလို့ မရနိုင်ဘူး။
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = ရှင်းလင်းနေသည်
