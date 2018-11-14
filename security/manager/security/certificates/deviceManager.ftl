@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Enhetshanteraren
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Säkerhetsmoduler och enheter
 devmgr-header-details =
