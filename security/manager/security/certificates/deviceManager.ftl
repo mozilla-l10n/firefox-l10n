@@ -44,4 +44,5 @@ devinfo-serialnum =
     .label = Sērijas numurs
 fips-nonempty-password-required = FIPS režīms pieprasa, ka katrai drošības ierīcei ir iestatīta galvenā parole. Pirms ieslēgt FIPS režīmu, lūdzu, iestatiet paroli.
 add-module-failure = Nevar pievienot moduli
+del-module-warning = Vai jūs esat pārliecināts, ka vēlaties izdzēst šo drošības moduli?
 del-module-error = Nevar izdzēst moduli
