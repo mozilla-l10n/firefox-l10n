@@ -288,6 +288,9 @@ update-application-use-service =
 update-enable-search-update =
     .label = Mettre à jour automatiquement les moteurs de recherche
     .accesskey = r
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Impossible d’enregistrer les préférences. Impossible d’écrire dans le fichier : { $path }
 
 ## General Section - Performance
 
