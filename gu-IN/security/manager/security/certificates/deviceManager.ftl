@@ -38,6 +38,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = ઉપકરણ-ચાલક PKCS#11 લોડ કરો
 load-device-info = તમે જે મોડ્યુલ ઉમેરવા માંગો તેના માટે જાણકારી દાખલ કરો.
 load-device-modname =
     .value = મોડ્યુલનું નામ
@@ -86,6 +88,13 @@ devinfo-serialnum =
     .label = સિરીયલ નંબર
 fips-nonempty-password-required = FIPS સ્થીતીને બધા સુરક્ષા સાધન માટે મુખ્ય પાસવર્ડની જરુર છે. FIPS સ્થીતીને અમલમા લાવા માટે મહેરબાની કરીને પાસવર્ડ દાખલકરો.
 unable-to-toggle-fips = સુરક્ષા ઉપકરણ માટે FIPS સ્થિતિને બદલવાનું અસમર્થ. તે અગ્રહણીય છે કે તમે બહાર નીકળો અને આ કાર્યક્રમને પુન:શરૂ કરો.
+load-pk11-module-file-picker-title = લોડ કરવા માટે PKCS#11 ઉપકરણ ડ્રાઈવર પસંદ કરો
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = મોડ્યુલ નામ ખાલી હોઈ શકતું નથી.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ આરક્ષિત છે અને મોડ્યુલ નામ તરીકે ઉપયોગ કરી શકાતો નથી.
 add-module-failure = મોડ્યુલ ઉમેરવામાં અસમર્થ
 del-module-warning = શું તમે ખરેખર આ સુરક્ષા મોડ્યુલ કાઢી નાંખવા માંગો છો?
 del-module-error = મોડ્યુલ કાઢી નાંખવામાં અસમર્થ
