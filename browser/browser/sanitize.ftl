@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Nastavení mazání historie
+    .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
@@ -22,6 +25,21 @@ clear-data-settings-label = Při ukončení má { -brand-short-name } automatick
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Časové období mazání:{ " " }
+    .accesskey = o
+clear-time-duration-value-last-hour =
+    .label = Poslední hodina
+clear-time-duration-value-last-2-hours =
+    .label = Poslední dvě hodiny
+clear-time-duration-value-last-4-hours =
+    .label = Poslední čtyři hodiny
+clear-time-duration-value-today =
+    .label = Dnes
+clear-time-duration-value-everything =
+    .label = Vše
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
@@ -30,6 +48,26 @@ history-section-label = Historii
 item-history-and-downloads =
     .label = Historii prohlížení a stahování
     .accesskey = H
+item-cookies =
+    .label = Cookies
+    .accesskey = C
+item-active-logins =
+    .label = Aktivní přihlášení
+    .accesskey = l
+item-cache =
+    .label = Mezipaměť
+    .accesskey = a
+item-form-search-history =
+    .label = Historii formulářů a hledání
+    .accesskey = f
+data-section-label = Data
+item-site-preferences =
+    .label = Nastavení pro daný server
+    .accesskey = s
+item-offline-apps =
+    .label = Offline obsah
+    .accesskey = O
+sanitize-everything-undo-warning = Tuto akci nelze vzít zpět.
 window-close =
     .key = w
 sanitize-button-ok =
