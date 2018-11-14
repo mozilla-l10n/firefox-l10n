@@ -31,6 +31,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Jaar jaar
+item-cookies =
+    .label = Kuki yi
+    .accesskey = K
 item-active-logins =
     .label = Jokkoo yiy dox
     .accesskey = o
