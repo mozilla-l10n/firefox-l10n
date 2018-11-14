@@ -11,10 +11,45 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = દૂર કરો{ " " }
+    .accesskey = T
+clear-time-duration-value-last-hour =
+    .label = છેલ્લો કલાક
+clear-time-duration-value-last-2-hours =
+    .label = છેલ્લા ૨ કલાકો
+clear-time-duration-value-last-4-hours =
+    .label = છેલ્લા ૪ કલાકો
+clear-time-duration-value-today =
+    .label = મારો આજનો ઇતિહાસ
+clear-time-duration-value-everything =
+    .label = મારો આખો ઇતિહાસ
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = ઇતિહાસ
+item-history-and-downloads =
+    .label = બ્રાઉઝીંગ અને ડાઉનલોડ ઇતિહાસ
+    .accesskey = B
+item-cookies =
+    .label = કુકીઓ
+    .accesskey = C
+item-active-logins =
+    .label = સક્રિય પ્રવેશો
+    .accesskey = L
+item-form-search-history =
+    .label = ફોર્મ & શોધ ઇતિહાસ
+    .accesskey = F
 data-section-label = માહિતી
+item-site-preferences =
+    .label = સાઈટ પસંદગીઓ
+    .accesskey = S
+item-offline-apps =
+    .label = ઓફલાઈન વેબસાઈટ માહિતી
+    .accesskey = O
+sanitize-everything-undo-warning = આ ક્રિયા રદ કરી શકાતી નથી.
 window-close =
     .key = w
