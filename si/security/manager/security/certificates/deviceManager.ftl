@@ -29,6 +29,9 @@ devmgr-button-unload =
 devmgr-button-enable-fips =
     .label = සක්‍රීය FIPS
     .accesskey = F
+devmgr-button-disable-fips =
+    .label = FIPS  අක්‍රීය කරන්න
+    .accesskey = F
 
 ## Strings used for load device
 
@@ -73,6 +76,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = අනුක්‍රමික අංකය
 fips-nonempty-password-required = FIPS මාදිලියේදී සෑම ආරක්ෂක උපාංගයකටම ඔබ ප්‍රධාන රහස්පදයක් යොදා තිබීම අවශ්‍යය. FIPS මාදිලිය සක්‍රීය කිරීමට පළමු රහස්පද‍ය ඇතුළත් කරන්න.
+unable-to-toggle-fips = Unable to change the FIPS mode for the security device. It is recommended that you exit and restart this application.
 add-module-failure = මොඩියුලය එක් කළ නොහැක
 del-module-warning = ආරක්ෂක මොඩියුලය මැකීම ඔබට විශ්වාසද?
 del-module-error = මොඩියුලය මැකිය නොහැක
