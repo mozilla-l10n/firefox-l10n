@@ -15,5 +15,10 @@
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Historik
+item-cache =
+    .label = Cache
+    .accesskey = h
+data-section-label = Data
 window-close =
     .key = w
