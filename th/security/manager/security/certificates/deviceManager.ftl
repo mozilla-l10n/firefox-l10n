@@ -5,25 +5,50 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = ตัวจัดการอุปกรณ์
+    .style = width: 67em; height: 32em;
+devmgr-devlist =
+    .label = โมดูลและอุปกรณ์ความปลอดภัย
 devmgr-header-details =
     .label = รายละเอียด
 devmgr-header-value =
     .label = ค่า
+devmgr-button-login =
+    .label = เข้าสู่ระบบ
+    .accesskey = ข
 devmgr-button-logout =
     .label = ออกจากระบบ
     .accesskey = อ
 devmgr-button-changepw =
     .label = เปลี่ยนรหัสผ่าน
     .accesskey = ป
+devmgr-button-load =
+    .label = โหลด
+    .accesskey = ห
+devmgr-button-unload =
+    .label = เลิกโหลด
+    .accesskey = ล
+devmgr-button-enable-fips =
+    .label = เปิดใช้งาน FIPS
+    .accesskey = F
 devmgr-button-disable-fips =
     .label = ปิดใช้งาน FIPS
     .accesskey = F
 
 ## Strings used for load device
 
+load-device =
+    .title = โหลดไดรเวอร์อุปกรณ์ PKCS#11
 load-device-info = ใส่ข้อมูลโมดูลที่ต้องการ
+load-device-modname =
+    .value = ชื่อโมดูล
+    .accesskey = ช
 load-device-modname-default =
     .value = สร้างโมดูล PKCS#11
+load-device-filename =
+    .value = ชื่อไฟล์โมดูล
+    .accesskey = อ
 load-device-browse =
     .label = เรียกดู…
     .accesskey = ร
@@ -32,6 +57,8 @@ load-device-browse =
 
 devinfo-status =
     .label = สถานะ
+devinfo-status-disabled =
+    .label = ถูกปิดใช้งาน
 devinfo-status-not-present =
     .label = ไม่ระบุ
 devinfo-status-uninitialized =
@@ -62,4 +89,5 @@ devinfo-serialnum =
 fips-nonempty-password-required = รูปแบบ FIPS จำเป็นต้องใช้รหัสผ่านหลักที่ตั้งไว้กับอุปกรณ์รักษาความปลอดภัยแต่ละตัว กรุณาตั้งรหัสผ่านก่อนการเปิดใช้งานรูปแบบ FIPS
 unable-to-toggle-fips = ไม่สามารถเปลี่ยนโหมด FIPS ให้เข้ากับอุปกรณ์รักษาความปลอดภัย แนะนำให้คุณออกและเริ่มโปรแกรมใหม่
 add-module-failure = ไม่สามารถเพิ่มโมดูล
+del-module-warning = คุณแน่ใจหรือไม่ว่าต้องการลบโมดูลความปลอดภัยนี้?
 del-module-error = ไม่สามารถลบโมดูล
