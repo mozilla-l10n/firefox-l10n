@@ -44,9 +44,15 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Navegação
+item-history-and-downloads =
+    .label = Histórico de navegação e downloads
+    .accesskey = H
 item-cookies =
     .label = Cookies
     .accesskey = o
+item-active-logins =
+    .label = Contas de acesso ativas
+    .accesskey = L
 item-cache =
     .label = Cache
     .accesskey = a
@@ -60,6 +66,7 @@ item-site-preferences =
 item-offline-apps =
     .label = Dados offline de sites
     .accesskey = f
+sanitize-everything-undo-warning = Esta ação não pode ser desfeita.
 window-close =
     .key = W
 sanitize-button-ok =
