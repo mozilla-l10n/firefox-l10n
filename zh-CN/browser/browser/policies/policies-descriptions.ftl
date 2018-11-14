@@ -43,7 +43,7 @@ policy-DisableSystemAddonUpdate = 阻止浏览器安装或更新“系统附加�
 policy-DisableTelemetry = 关闭“遥测”组件。
 policy-DisplayBookmarksToolbar = 默认显示书签工具栏。
 policy-DisplayMenuBar = 默认显示菜单栏。
-policy-DNSOverHTTPS = 配置 DNS over HTTPS。
+policy-DNSOverHTTPS = 配置基于 HTTPS 的 DNS。
 policy-DontCheckDefaultBrowser = 禁用启动时的默认浏览器检查。
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = 启用或禁用内容拦截，并可选择锁定该功能。
