@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Pengaturan untuk Menghapus Riwayat
+    .style = width: 36em
+sanitize-prefs-style =
+    .style = width: 18em
+dialog-title =
+    .title = Bersihkan Riwayat Terakhir
+    .style = width: 36em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Bersihkan Semua Riwayat
+    .style = width: 36em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -31,12 +44,18 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Riwayat
+item-history-and-downloads =
+    .label = Riwayat Penjelajahan dan Unduhan
+    .accesskey = R
 item-cookies =
     .label = Kuki
     .accesskey = K
 item-cache =
     .label = Tembolok
     .accesskey = T
+item-form-search-history =
+    .label = Riwayat Pencarian dan Isian Form
+    .accesskey = F
 data-section-label = Data
 item-site-preferences =
     .label = Pengaturan Situs Tertentu
