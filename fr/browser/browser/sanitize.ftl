@@ -11,6 +11,9 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Intervalle à effacer :{ " " }
+    .accesskey = I
 clear-time-duration-value-last-hour =
     .label = la dernière heure
 clear-time-duration-value-last-2-hours =
