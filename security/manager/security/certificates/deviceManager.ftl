@@ -14,6 +14,9 @@ devmgr-header-value =
 devmgr-button-login =
     .label = Meld aan
     .accesskey = a
+devmgr-button-logout =
+    .label = Meld af
+    .accesskey = M
 devmgr-button-changepw =
     .label = Verander wagwoord
     .accesskey = w
@@ -32,6 +35,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Laai PKCS#11-toestelaandrywer
 load-device-info = Tik die inligting in vir die module wat u wil byvoeg.
 load-device-modname-default =
     .value = Nuwe PKCS#11-module
@@ -74,5 +79,7 @@ devinfo-serialnum =
     .label = Reeksnommer
 fips-nonempty-password-required = FIPS-modus vereis dat u 'n meesterwagwoord vir elke sekuriteitstoestel opstel. Stel die wagwoord op voor u probeer om FIPS-modus te aktiveer.
 unable-to-toggle-fips = Kon nie die FIPS-modus vir die sekuriteittoestel verander nie. Ons stel voor dat jy hierdie toepassing verlaat en herbegin.
+load-pk11-module-file-picker-title = Kies ’n PKCS#11-toestelaandrywer om te laai
 add-module-failure = Kon nie module byvoeg nie
+del-module-warning = Wil u definitief hierdie sekuriteitsmodule skrap?
 del-module-error = Kon nie module skrap nie
