@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Minden előzmény törlése
     .style = width: 34em
+clear-data-settings-label = Bezáráskor a { -brand-short-name } mindent távolítson el automatikusan
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
