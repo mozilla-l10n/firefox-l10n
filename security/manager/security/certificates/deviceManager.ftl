@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Սարքերի Կառավարիչ
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Անվտանգության Բաղադիրներ և Սարքեր
 devmgr-header-details =
@@ -35,6 +38,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Բեռնել PKCS#11 սարքի սարքավարը
 load-device-info = Մուտքագրեք ավելացվող բաղադրի վերաբերվող տվյալները
 load-device-modname-default =
     .value = Նոր PKCS#11 Բաղադիր
@@ -46,6 +51,8 @@ load-device-browse =
 
 devinfo-status =
     .label = Կարգավիճակ
+devinfo-status-disabled =
+    .label = Անջատած
 devinfo-status-not-present =
     .label = Առկա Չէ
 devinfo-status-uninitialized =
@@ -73,6 +80,8 @@ devinfo-label =
     .label = Պիտակը
 devinfo-serialnum =
     .label = Հերթ. Համարը
+unable-to-toggle-fips = Հնարավոր չէ փոխել FIPS եղանակը՝ անվտանգության սարքի համար: Խորհուրդ ենք տալիս դուրս գալ և վերամեկնարկել ծրագիրը:
+load-pk11-module-file-picker-title = Ընտրեք PKCS#11 սարքի սարքավարը՝ բեռնելու համար
 add-module-failure = Չստացվեց ավելացնել մոդուլը
 del-module-warning = Իրո՞ք ցանկանում եք անվտանգության այս բաղադրիչը հեռացնել:
 del-module-error = Չստացվեց ջնջել մոդուլը
