@@ -5,6 +5,7 @@
 
 <!ENTITY search.placeholder2                  "Buscar en addons.mozilla.org">
 
+<!ENTITY search.placeholder3                  "Buscar en addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "Buscar">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -84,14 +85,7 @@
 <!ENTITY cmd.preferencesUnix.label            "Preferencias">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 
-
-
-
-
-
-
-
-
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Habilitar">
 <!ENTITY cmd.enableAddon.accesskey            "H">
 <!ENTITY cmd.disableAddon.label               "Desactivar">
@@ -100,9 +94,6 @@
 <!ENTITY cmd.enableTheme.accesskey            "U">
 <!ENTITY cmd.disableTheme.label               "Dejar de usar tema">
 <!ENTITY cmd.disableTheme.accesskey           "u">
-
-
-
 
 <!ENTITY cmd.askToActivate.label              "Preguntar para activar">
 <!ENTITY cmd.askToActivate.tooltip            "Preguntar para usar este complemento cada vez">
@@ -114,7 +105,6 @@
 <!ENTITY cmd.installAddon.label               "Instalar">
 <!ENTITY cmd.installAddon.accesskey           "I">
 
-
 <!ENTITY cmd.uninstallAddon.label             "Quitar">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
 <!ENTITY cmd.showPreferencesWin.label         "Opciones">
@@ -124,9 +114,6 @@
 <!ENTITY cmd.contribute.label                 "Contribuir">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuir al desarrollo de este complemento">
-
-
-
 
 <!ENTITY cmd.showReleaseNotes.label           "Mstrar notas de la versión">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mostrar notas de la versión para este complemento">
@@ -174,14 +161,13 @@
 <!-- ratings -->
 <!ENTITY rating2.label                        "Clasificación">
 
-
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pausa">
 
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Cancelar">
 
 <!ENTITY addon.homepage                       "Página de inicio">
-
 
 <!ENTITY addon.details.label                  "Más">
 <!ENTITY addon.details.tooltip                "Ver más detalles acerca de este complemento">
