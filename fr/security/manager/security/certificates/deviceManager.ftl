@@ -42,3 +42,4 @@ devinfo-label =
     .label = Étiquette
 devinfo-serialnum =
     .label = Numéro de série
+del-module-error = Impossible de supprimer le module
