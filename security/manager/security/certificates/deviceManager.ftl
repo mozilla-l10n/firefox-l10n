@@ -89,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = FIPS hamur þarfnast þess að aðallykilorð sé skilgreint fyrir hvert öryggistæki. Settu upp lykilorðið áður en þú reynir að virkja FIPS ham.
 unable-to-toggle-fips = Get ekki breytt FIPS ham fyrir öryggistæki. Mælt er með að þú hættir og endurræsir þetta forrit.
 load-pk11-module-file-picker-title = Veldu PKCS#11 rekil til að hlaða inn
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Nafn einingar má ekki vera tómt.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ er frátekið og er ekki hægt að nota sem nafn á einingu.
 add-module-failure = Get ekki sett upp einingu
 del-module-warning = Ertu viss um að þú viljir eyða þessari öryggiseiningu?
 del-module-error = Get ekki eytt öryggiseiningu
