@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Lalo Nyonyo
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Dul me Gwoko kuc ki Nyonyo
 devmgr-header-details =
@@ -75,6 +78,7 @@ devinfo-label =
     .label = Alama
 devinfo-serialnum =
     .label = Nying Namba
+fips-nonempty-password-required = Kit FTPS mito ni ibed ki mung me donyo Madit pi nyonyo me gwoko kuc acelacel. Tim ber ter mung me donyo mapwod pe itemo me miyo kit tic me FIPS.
 unable-to-toggle-fips = Pe romo loko kit FIPS pi nyonyo me gwoko kuc. Kimoko ni i wek gi i cak tic man me acel.
 add-module-failure = Pe romo medo dul
 del-module-warning = I moko ada ni imito kwanyo dul man me gwoko kuc?
