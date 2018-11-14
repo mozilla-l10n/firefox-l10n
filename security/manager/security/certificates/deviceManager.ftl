@@ -89,6 +89,12 @@ devinfo-serialnum =
 fips-nonempty-password-required = Для роботи в режимі відповідності FIPS потрібно вказати головний пароль для кожного пристрою захисту. Вкажіть ці паролі до перемикання в цей режим.
 unable-to-toggle-fips = Неможливо змінити режим FIPS для пристрою захисту. Рекомендується вийти і перезапустити програму.
 load-pk11-module-file-picker-title = Оберіть драйвер пристрою PKCS#11 для завантаження
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Назва модуля не може бути порожньою.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ зарезервовано і не може використовуватись для назви модуля.
 add-module-failure = Не вдалося додати модуль
 del-module-warning = Ви дійсно хочете вилучити цей модуль захисту?
 del-module-error = Неможливо вилучити модуль
