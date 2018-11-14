@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Бүкіл тарихты тазарту
     .style = width: 34em
+clear-data-settings-label = { -brand-short-name } жабылған кезде, келесілерді автоөшіруі тиіс
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -47,6 +48,9 @@ history-section-label = Тарихы
 item-history-and-downloads =
     .label = Қарап шығу және жүктемелер тарихы
     .accesskey = ш
+item-cookies =
+    .label = Cookies файлдары
+    .accesskey = ф
 item-active-logins =
     .label = Белсенді сеанстар
     .accesskey = Б
