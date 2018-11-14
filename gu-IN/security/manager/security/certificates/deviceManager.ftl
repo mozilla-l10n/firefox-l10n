@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = ઉપકરણ વ્યવસ્થાપક
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = સુરક્ષા મોડ્યુલો અને ઉપકરણો
 devmgr-header-details =
