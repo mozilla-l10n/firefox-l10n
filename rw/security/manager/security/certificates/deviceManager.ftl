@@ -5,9 +5,42 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = Ibice na Apareye z'Umutekano
+devmgr-header-details =
+    .label = Ibisobanuro
+devmgr-header-value =
+    .label = Agaciro
+devmgr-button-login =
+    .label = Kwinjira
+    .accesskey = n
+devmgr-button-logout =
+    .label = Kuvamo
+    .accesskey = v
+devmgr-button-changepw =
+    .label = Guhindura Ijambobanga
+    .accesskey = j
+devmgr-button-load =
+    .label = Gutangiza
+    .accesskey = t
+devmgr-button-unload =
+    .label = Kureka Gutangiza
+    .accesskey = r
+devmgr-button-enable-fips =
+    .label = Gukoresha FIPS
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = Guhagarika FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-info = Kwinjiza amakuru arebana n'igice ushaka kongeraho.
+load-device-modname-default =
+    .value = Igice cya PKCS#11 gishya
+load-device-browse =
+    .label = Gushakisha...
+    .accesskey = s
 
 ## Token Manager
 
