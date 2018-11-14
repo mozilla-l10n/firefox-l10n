@@ -11,17 +11,47 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = വെടിപ്പാക്കുന്നതിനുള്ള സമയക്രമം:{ " " }
+    .accesskey = T
 clear-time-duration-value-last-hour =
     .label = കഴിഞ്ഞ മണിക്കൂര്‍
 clear-time-duration-value-last-2-hours =
     .label = കഴിഞ്ഞ രണ്ടു മണിക്കൂര്‍
 clear-time-duration-value-last-4-hours =
     .label = കഴിഞ്ഞ നാലു മണിക്കൂര്‍
+clear-time-duration-value-today =
+    .label = ഇന്നു്
+clear-time-duration-value-everything =
+    .label = എല്ലാം
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
 history-section-label = നാള്‍വഴി
+item-cookies =
+    .label = കുക്കികള്‍{ " " }
+    .accesskey = C
+item-active-logins =
+    .label = സജീവമായ ലോഗിനുകള്‍
+    .accesskey = L
+data-section-label = ഡേറ്റാ
+item-site-preferences =
+    .label = സൈറ്റ് മുന്‍ഗണനകള്‍
+    .accesskey = S
+item-offline-apps =
+    .label = ഓഫ്‌ലൈന്‍ ആയ വെബ്സൈറ്റിനുള്ള ഡേറ്റാ
+    .accesskey = O
 sanitize-everything-undo-warning = ഈ പ്രവര്‍ത്തനം ചെയ്തു കഴിഞ്ഞാല്‍ പിന്നെ മാറ്റാന്‍ സാദ്ധ്യമല്ല.
+window-close =
+    .key = w
 sanitize-button-ok =
     .label = ഇപ്പോള്‍ മായ്ക്കുക
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = എല്ലാ നാള്‍വഴിയും വെടിപ്പാക്കുന്നു.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = തെരഞ്ഞെടുത്ത എല്ലാ വസ്തുക്കളും വെടിപ്പാക്കുന്നു.
