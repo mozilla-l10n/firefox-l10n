@@ -5,9 +5,42 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = وحدات الأمن وأجهزته
+devmgr-header-details =
+    .label = التفاصيل
+devmgr-header-value =
+    .label = القيمة
+devmgr-button-login =
+    .label = لُج
+    .accesskey = ل
+devmgr-button-logout =
+    .label = اخرج
+    .accesskey = خ
+devmgr-button-changepw =
+    .label = غيّر كلمة السرّ
+    .accesskey = غ
+devmgr-button-load =
+    .label = حمِّل
+    .accesskey = ح
+devmgr-button-unload =
+    .label = ألغِ التّحميل
+    .accesskey = غ
+devmgr-button-enable-fips =
+    .label = مكّن FIPS
+    .accesskey = م
+devmgr-button-disable-fips =
+    .label = عطّل FIPS
+    .accesskey = م
 
 ## Strings used for load device
 
+load-device-info = أدخل معلومات الوحدة التي تريد إضافتها.
+load-device-modname-default =
+    .value = وحدة PKCS#11 جديدة
+load-device-browse =
+    .label = تصفّح…
+    .accesskey = ص
 
 ## Token Manager
 
@@ -43,3 +76,4 @@ devinfo-label =
 devinfo-serialnum =
     .label = الرّقم التّسلسلي
 fips-nonempty-password-required = يتطلّب وضع FIPS وجود كلمة سر رئيسيّة لكلّ جهاز أمن. رجاءً ضع كلمة سر قبل تمكين وضع FIPS.
+del-module-warning = أمتأكد أنك تريد حذف هذه الوحدة الأمنية؟
