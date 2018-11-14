@@ -34,6 +34,9 @@ history-section-label = Előzmények
 item-history-and-downloads =
     .label = Böngészési és letöltési előzmények
     .accesskey = B
+item-cookies =
+    .label = Sütik
+    .accesskey = t
 item-active-logins =
     .label = Aktív bejelentkezések
     .accesskey = A
@@ -47,10 +50,19 @@ data-section-label = Adatok
 item-site-preferences =
     .label = Webhely beállításai
     .accesskey = W
+sanitize-everything-undo-warning = Ez a művelet nem vonható vissza.
 window-close =
     .key = w
 sanitize-button-ok =
     .label = Törlés most
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = Törlés
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Minden előzmény törölve lesz.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
