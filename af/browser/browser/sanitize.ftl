@@ -31,6 +31,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Geskiedenis
+item-history-and-downloads =
+    .label = Blaai- en aflaaigeskiedenis
+    .accesskey = B
 item-cookies =
     .label = Koekies
     .accesskey = K
@@ -40,6 +43,9 @@ item-active-logins =
 item-cache =
     .label = Kas
     .accesskey = a
+item-form-search-history =
+    .label = Vorm- en soekgeskiedenis
+    .accesskey = V
 data-section-label = Data
 item-site-preferences =
     .label = Werfvoorkeure
