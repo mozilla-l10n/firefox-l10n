@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Kryptographie-Modul-Verwaltung
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Sicherheitsmodule und -einrichtungen
 devmgr-header-details =
@@ -35,6 +38,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = PKCS#11-Gerätetreiber laden
 load-device-info = Geben Sie die Informationen für das Modul an, das hinzugefügt werden soll.
 load-device-modname-default =
     .value = Neues PKCS#11 Modul
@@ -76,3 +81,8 @@ devinfo-label =
 devinfo-serialnum =
     .label = Seriennummer
 fips-nonempty-password-required = FIPS-Modus benötigt ein Master-Passwort für jedes Kryptographie-Modul. Bitte legen Sie das Passwort fest, bevor Sie versuchen, den FIPS-Modus zu aktivieren.
+unable-to-toggle-fips = Der FIPS-Modus für das Kryptographie-Modul konnte nicht geändert werden. Es wird empfohlen, dass Sie diese Anwendung benden und neu starten.
+load-pk11-module-file-picker-title = Wählen Sie einen PKCS#11-Gerätetreiber zum Laden aus
+add-module-failure = Konnte Modul nicht laden
+del-module-warning = Soll dieses Sicherheitsmodul wirklich gelöscht werden?
+del-module-error = Konnte Modul nicht löschen
