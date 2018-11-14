@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Падфарбаваць усе
     .accesskey = ф
     .tooltiptext = Падфарбаваць усе знойденныя выпадкі выразу
+findbar-highlight-all2 =
+    .label = Падфарбаваць усе
+    .accesskey =
+        { PLATFORM() ->
+            [macos] д
+           *[other] ф
+        }
+    .tooltiptext = Падфарбаваць усе уваходжанні фразы
 findbar-case-sensitive =
     .label = Адрозніваць вялікія/малыя літары
     .accesskey = р
