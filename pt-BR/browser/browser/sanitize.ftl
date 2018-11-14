@@ -15,5 +15,6 @@
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+data-section-label = Dados
 window-close =
     .key = W
