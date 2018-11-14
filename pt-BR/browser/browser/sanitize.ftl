@@ -11,10 +11,33 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-value-last-hour =
+    .label = Última hora
+clear-time-duration-value-last-2-hours =
+    .label = Últimas duas horas
+clear-time-duration-value-last-4-hours =
+    .label = Últimas quatro horas
+clear-time-duration-value-today =
+    .label = Hoje
+clear-time-duration-value-everything =
+    .label = Tudo
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+item-cookies =
+    .label = Cookies
+    .accesskey = o
+item-cache =
+    .label = Cache
+    .accesskey = a
+item-form-search-history =
+    .label = Campos memorizados de páginas e da pesquisa
+    .accesskey = C
 data-section-label = Dados
 window-close =
     .key = W
+sanitize-button-ok =
+    .label = Limpar agora
