@@ -20,5 +20,20 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Hisetori
+sanitize-everything-undo-warning = Tiro e ga e kake ya dirololwa.
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = Phimola gone jaana
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = Phimolo
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Motlhala otlhe o tla phimolwa.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = Dilwana tsotlhe tse di tlhophilweng di tla phimolwa.
