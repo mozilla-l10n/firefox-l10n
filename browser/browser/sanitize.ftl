@@ -31,6 +31,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historik
+item-history-and-downloads =
+    .label = Browser- og filhentningshistorik
+    .accesskey = B
 item-cookies =
     .label = Cookies
     .accesskey = C
