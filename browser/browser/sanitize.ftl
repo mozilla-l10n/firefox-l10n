@@ -28,7 +28,15 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = ประวัติ
+item-cache =
+    .label = แคช
+    .accesskey = ช
 data-section-label = ข้อมูล
+item-offline-apps =
+    .label = ข้อมูลเว็บไซต์ออฟไลน์
+    .accesskey = ข
+window-close =
+    .key = w
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
