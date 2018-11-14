@@ -26,7 +26,7 @@
 <!ENTITY itemCookies.accesskey "o">
 <!ENTITY itemCache.label "Cache">
 <!ENTITY itemCache.accesskey "h">
-<!ENTITY itemOfflineApps.label "Dati non in linea dei siti web ">
+<!ENTITY itemOfflineApps.label "Dati non in linea dei siti web">
 <!ENTITY itemOfflineApps.accesskey "w">
 <!ENTITY itemActiveLogins.label "Accessi effettuati">
 <!ENTITY itemActiveLogins.accesskey "A">
