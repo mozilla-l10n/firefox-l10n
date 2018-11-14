@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = 清除所有歷史記錄
     .style = width: 34em
+clear-data-settings-label = 關閉 { -brand-short-name } 時，應該自動清除全部
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
