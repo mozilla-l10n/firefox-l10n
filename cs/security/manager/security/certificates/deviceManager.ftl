@@ -34,3 +34,6 @@ devinfo-label =
     .label = Označení
 devinfo-serialnum =
     .label = Sériové číslo
+add-module-failure = Nepodařilo se přidat modul
+del-module-warning = Opravdu chcete smazat tento bezpečnostní modul?
+del-module-error = Nepodařilo se smazat modul
