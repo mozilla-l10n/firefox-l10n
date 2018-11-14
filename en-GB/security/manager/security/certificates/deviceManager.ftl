@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Device Manager
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Security Modules and Devices
 devmgr-header-details =
@@ -35,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Load PKCS#11 Device Driver
 load-device-info = Enter the information for the module you want to add.
+load-device-modname =
+    .value = Module Name
+    .accesskey = M
 load-device-modname-default =
     .value = New PKCS#11 Module
+load-device-filename =
+    .value = Module filename
+    .accesskey = f
 load-device-browse =
     .label = Browse…
     .accesskey = B
@@ -77,6 +88,13 @@ devinfo-serialnum =
     .label = Serial Number
 fips-nonempty-password-required = FIPS mode requires that you have a Master Password set for each security device. Please set the password before trying to enable FIPS mode.
 unable-to-toggle-fips = Unable to change the FIPS mode for the security device. It is recommended that you exit and restart this application.
+load-pk11-module-file-picker-title = Choose a PKCS#11 device driver to load
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = The module name cannot be empty.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ is reserved and cannot be used as the module name.
 add-module-failure = Unable to add module
 del-module-warning = Are you sure you want to delete this security module?
 del-module-error = Unable to delete module
