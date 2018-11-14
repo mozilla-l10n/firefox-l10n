@@ -38,6 +38,7 @@ devinfo-label =
     .label = Merki
 devinfo-serialnum =
     .label = Raðnúmer
+fips-nonempty-password-required = FIPS hamur þarfnast þess að aðallykilorð sé skilgreint fyrir hvert öryggistæki. Settu upp lykilorðið áður en þú reynir að virkja FIPS ham.
 add-module-failure = Get ekki sett upp einingu
 del-module-warning = Ertu viss um að þú viljir eyða þessari öryggiseiningu?
 del-module-error = Get ekki eytt öryggiseiningu
