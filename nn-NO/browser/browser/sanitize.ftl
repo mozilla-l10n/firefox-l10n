@@ -11,9 +11,31 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-value-today =
+    .label = I dag
+clear-time-duration-value-everything =
+    .label = Alt
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Historikk
+item-history-and-downloads =
+    .label = Nettlesing- og nedlastingshistorikk
+    .accesskey = e
+item-cookies =
+    .label = Infokapslar
+    .accesskey = I
+item-active-logins =
+    .label = Aktive innloggingar
+    .accesskey = A
+data-section-label = Data
+item-offline-apps =
+    .label = Fråkopla nettsidedata
+    .accesskey = F
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = Slett no
