@@ -67,6 +67,8 @@ item-offline-apps =
     .label = ချိတ်ဆက်မဲ့သုံးအချက်အလက်
     .accesskey = O
 sanitize-everything-undo-warning = ဒီလုပ်ဆောင်ချက်ကို ပြန်ဖြေလို့ မရနိုင်ဘူး။
+window-close =
+    .key = w
 sanitize-button-ok =
     .label = ယခု ရှင်းလင်းပါ
 # The label for the default button between the user clicking it and the window
