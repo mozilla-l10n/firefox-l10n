@@ -11,10 +11,48 @@
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = Временски опсег за чистење:{ " " }
+    .accesskey = В
+clear-time-duration-value-last-hour =
+    .label = последниот час
+clear-time-duration-value-last-2-hours =
+    .label = последните 2 часа
+clear-time-duration-value-last-4-hours =
+    .label = последните 4 часа
+clear-time-duration-value-today =
+    .label = денес
+clear-time-duration-value-everything =
+    .label = Сѐ
+clear-time-duration-suffix =
+    .value = { "" }
 
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Историја
+item-cookies =
+    .label = Колачињата
+    .accesskey = К
+item-active-logins =
+    .label = Активни пријави
+    .accesskey = А
+item-cache =
+    .label = Кеш
+    .accesskey = К
+item-form-search-history =
+    .label = Запамтените форми и пребарувања
+    .accesskey = З
+data-section-label = Податоци
+item-site-preferences =
+    .label = Поставки на местата
+    .accesskey = с
+item-offline-apps =
+    .label = Локалните податоци за мрежни места
+    .accesskey = о
+sanitize-everything-undo-warning = Ова дејство не може да се одврати.
+window-close =
+    .key = w
 sanitize-button-ok =
     .label = Исчисти веднаш
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
