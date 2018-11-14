@@ -15,3 +15,27 @@ devmgr-header-value =
 
 ## Token Manager
 
+devinfo-status =
+    .label = অৱস্থা
+devinfo-status-not-present =
+    .label = নাই
+devinfo-status-uninitialized =
+    .label = আৰম্ভ হোৱা নাই
+devinfo-status-ready =
+    .label = সাজু
+devinfo-desc =
+    .label = বিৱৰণ
+devinfo-man-id =
+    .label = উৎপাদক
+devinfo-hwversion =
+    .label = HW সংস্কৰণ
+devinfo-fwversion =
+    .label = FW সংস্কৰণ
+devinfo-modname =
+    .label = অংশ
+devinfo-modpath =
+    .label = পথ
+devinfo-label =
+    .label = লেবেল
+add-module-failure = অংশ যোগ কৰিব নোৱাৰি
+del-module-error = অংশ আঁতৰাব নোৱাৰি
