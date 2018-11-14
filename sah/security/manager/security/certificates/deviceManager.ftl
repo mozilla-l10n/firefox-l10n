@@ -5,8 +5,13 @@
 
 ## Strings used for device manager
 
+devmgr-header-details =
+    .label = Сиһилии
 devmgr-header-value =
     .label = Суолта
+devmgr-button-changepw =
+    .label = Киирии тылы уларыт
+    .accesskey = а
 
 ## Strings used for load device
 
@@ -15,5 +20,7 @@ devmgr-header-value =
 
 devinfo-status =
     .label = Стаатуһа
+devinfo-status-disabled =
+    .label = Арахсыбыт
 devinfo-desc =
     .label = Сиһилии
