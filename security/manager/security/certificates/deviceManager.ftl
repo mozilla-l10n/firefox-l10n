@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = यन्त्र प्रबन्धक
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = सुरक्षा मोड्युलहरू र यन्त्रहरू
 devmgr-header-details =
@@ -36,8 +39,14 @@ devmgr-button-disable-fips =
 ## Strings used for load device
 
 load-device-info = तपाईँले थप्न चाहनुभएको मोड्युलका लागि जानकारी प्रविष्ट गर्नुहोस्।
+load-device-modname =
+    .value = मोड्युल नाम
+    .accesskey = M
 load-device-modname-default =
     .value = नयाँ PKCS#11 मोड्युल
+load-device-filename =
+    .value = मोड्युल फाइलनाम
+    .accesskey = f
 load-device-browse =
     .label = ब्राउज गर्नुहोस्…
     .accesskey = B
