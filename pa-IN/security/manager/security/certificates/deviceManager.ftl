@@ -8,6 +8,27 @@
 devmgr =
     .title = ਜੰਤਰ ਮੈਨੇਜਰ
     .style = width: 67em; height: 32em;
+devmgr-devlist =
+    .label = ਸੁਰੱਖਿਆ ਮੋਡੀਊਲ ਅਤੇ ਜੰਤਰ
+devmgr-header-details =
+    .label = ਵੇਰਵੇ
+devmgr-header-value =
+    .label = ਮੁੱਲ
+devmgr-button-login =
+    .label = ਲਾਗਇਨ
+    .accesskey = n
+devmgr-button-logout =
+    .label = ਲਾਗ ਆਉਟ
+    .accesskey = O
+devmgr-button-changepw =
+    .label = ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ
+    .accesskey = P
+devmgr-button-load =
+    .label = ਲੋਡ ਕਰੋ
+    .accesskey = L
+devmgr-button-unload =
+    .label = ਅਣ-ਲੋਡ ਕਰੋ
+    .accesskey = U
 devmgr-button-enable-fips =
     .label = FIPS ਯੋਗ
     .accesskey = F
@@ -17,6 +38,12 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device-info = ਜੋ ਮੋਡੀਊਲ ਤੁਸੀਂ ਸ਼ਾਮਿਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਉਸ ਦੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ
+load-device-modname-default =
+    .value = ਨਵਾਂ PKCS#11 ਮੋਡੀਊਲ
+load-device-browse =
+    .label = ...ਝਲਕ
+    .accesskey = B
 
 ## Token Manager
 
