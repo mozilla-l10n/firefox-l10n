@@ -95,3 +95,6 @@ load-module-help-empty-module-name =
 # Do not translate 'Root Certs'
 load-module-help-root-certs-module-name =
     .value = ‘Root Certs‘ reservlengendir ve modül ismi olaraq qullanılalmaz.
+add-module-failure = Modül eklenmesi olanaksız
+del-module-warning = Bu güvenlik modülünü silmek istediğinizden emin misiniz?
+del-module-error = Modül silme başarısız
