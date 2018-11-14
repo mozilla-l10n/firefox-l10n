@@ -95,3 +95,6 @@ load-module-help-empty-module-name =
 # Do not translate 'Root Certs'
 load-module-help-root-certs-module-name =
     .value = 'Root Certs' está reservado y no puede usarse como nombre del módulo.
+add-module-failure = No es posible añadir el módulo
+del-module-warning = ¿Seguro que quiere eliminar este módulo de seguridad?
+del-module-error = No es posible eliminar el módulo
