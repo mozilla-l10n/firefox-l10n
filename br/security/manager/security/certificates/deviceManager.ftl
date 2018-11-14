@@ -38,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Kargañ sturier an trevnad PKCS#11
 load-device-info = Roit ar stlennoù evit ar mollad a fell deoc'h ouzhpennañ.
+load-device-modname =
+    .value = Anv mollad
+    .accesskey = m
 load-device-modname-default =
     .value = Mollad Nevez PKCS#11
+load-device-filename =
+    .value = Anv restr ar mollad
+    .accesskey = r
 load-device-browse =
     .label = Furchal…
     .accesskey = r
@@ -80,6 +88,13 @@ devinfo-serialnum =
     .label = Steudriñv
 fips-nonempty-password-required = Azgoulennet eo gant ar mod FIPS ma vo ur ger-tremen mestr ganeoc'h, kefluniet evit an holl drevnadoù diogelroez. Kefluniañ ar ger-tremen kent klask gweredekaat ar mod FIPS.
 unable-to-toggle-fips = N'haller ket kemmañ ar mod FIPS evit an trevnad diogelroez. Erbedet eo kuitaat hag adloc'hañ an arload-mañ.
+load-pk11-module-file-picker-title = Dibabit ur sturier trevnad PKCS#11 da gargañ
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Anv ar mollad n'hall ket bezañ goullo.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = Miret eo an anv ‘Root Certs‘ ha n'hall ket bezañ implijet evit ur mollad.
 add-module-failure = Divarrek da ouzhpennañ ar mollad
 del-module-warning = Sur oc'h e fell deoc'h dilemel ar mollad diogelroez-mañ ?
 del-module-error = N'eo ket gouest da zilemel ar mollad
