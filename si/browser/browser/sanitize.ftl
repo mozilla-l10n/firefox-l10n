@@ -44,6 +44,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = අතීතය
+item-history-and-downloads =
+    .label = පිරික්සුම් සහ බාගත ඉතිහාසය
+    .accesskey = B
 item-cookies =
     .label = කුකී
     .accesskey = C
@@ -53,6 +56,9 @@ item-active-logins =
 item-cache =
     .label = කෑෂ්
     .accesskey = a
+item-form-search-history =
+    .label = පෝරම සහ සෙවුම් ඉතිහාසය
+    .accesskey = F
 data-section-label = දත්ත
 item-site-preferences =
     .label = අඩවි මනාපයන්
