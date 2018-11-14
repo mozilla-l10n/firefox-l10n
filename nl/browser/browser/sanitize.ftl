@@ -31,6 +31,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Geschiedenis
+item-history-and-downloads =
+    .label = Navigatie- & downloadgeschiedenis
+    .accesskey = N
 item-cookies =
     .label = Cookies
     .accesskey = C
