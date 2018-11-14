@@ -38,9 +38,20 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Cargar lo pilòt de periferic PKCS#11
 load-device-info = Picar las entresenhas sul modul que volètz apondre.
+load-device-modname =
+    .value = Nom del modul
+    .accesskey = M
 load-device-modname-default =
     .value = Modul PKCS#11 novèl
+load-device-filename =
+    .value = Nom de fichièr del modul
+    .accesskey = f
+load-device-browse =
+    .label = Percórrer…
+    .accesskey = P
 
 ## Token Manager
 
@@ -77,6 +88,13 @@ devinfo-serialnum =
     .label = Numèro de seria
 fips-nonempty-password-required = Lo mòde FIPS exigís qu'ajatz definit un senhal principal per cada periferic de seguretat. Definissètz lo senhal principal abans d'activar lo mòde FIPS.
 unable-to-toggle-fips = Impossible de modificar lo mode FIPS pel periferic de seguretat. Vos recomandam de quitar e de reaviar aquesta aplicacion.
+load-pk11-module-file-picker-title = Causir un pilòt de periferic PKCS#11 de cargar
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Lo nom del modul pòt pas èsser void.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = « Root Certs » es reservat e pòt pas èsser utilizat coma nom de modul.
 add-module-failure = Impossible d'apondre lo modul
 del-module-warning = Sètz segur que volètz suprimir aqueste modul de seguretat?
 del-module-error = Impossible de suprimir lo modul
