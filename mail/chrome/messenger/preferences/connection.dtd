@@ -49,4 +49,6 @@
 <!ENTITY  dnsOverHttps.accesskey        "ვ">
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL-მისამართი DNS-ის HTTPS-ით გადასაცემად">
+<!ENTITY  dnsOverHttpsUrl.tooltip       "URL-მისამართი DNS-გადაყვანებისთვის HTTPS-ით">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "ნაგულისხმევის გამოყენება">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "ნ">
