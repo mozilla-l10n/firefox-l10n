@@ -38,9 +38,17 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Naloži gonilnik naprave PKCS#11
 load-device-info = Vnesite podatke za modul, ki ga želite dodati.
+load-device-modname =
+    .value = Ime modula
+    .accesskey = M
 load-device-modname-default =
     .value = Nov modul PKCS#11
+load-device-filename =
+    .value = Ime datoteke modula
+    .accesskey = d
 load-device-browse =
     .label = Prebrskaj …
     .accesskey = B
@@ -80,6 +88,13 @@ devinfo-serialnum =
     .label = Serijska številka
 fips-nonempty-password-required = Način FIPS zahteva, da imate nastavljeno glavno geslo za vsako varnostno napravo. Prosim, nastavite geslo, preden omogočite način FIPS.
 unable-to-toggle-fips = Sprememba načina FIPS za varnostno napravo ni mogoče. Priporočamo vam, da zaključite in ponovno začenete program.
+load-pk11-module-file-picker-title = Izberite gonilnik naprave PKCS#11 za nalaganje
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = Ime modula ne sme biti prazno.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘ je pridržano ime in se ga ne sme uporabiti kot ime modula.
 add-module-failure = Modula ni bilo mogoče dodati
 del-module-warning = Ste prepričani, da želite zbrisati ta varnostni modul?
 del-module-error = Modula ni mogoče izbrisati
