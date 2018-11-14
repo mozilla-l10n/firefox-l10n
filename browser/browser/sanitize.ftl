@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Настройки за изчистване на историята
+    .style = width: 40em
+sanitize-prefs-style =
+    .style = width: 20em
+dialog-title =
+    .title = Изчистване на скорошната история
+    .style = width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
@@ -39,6 +47,12 @@ history-section-label = История
 item-cookies =
     .label = Бисквитки
     .accesskey = Б
+item-active-logins =
+    .label = Вписвания в сайтове
+    .accesskey = В
+item-form-search-history =
+    .label = История на формуляри и търсения
+    .accesskey = ф
 data-section-label = Данни
 item-site-preferences =
     .label = Предпочитания за сайтове
