@@ -38,6 +38,9 @@ devmgr-button-disable-fips =
 load-device-info = Nhập thông tin cho module bạn muốn thêm.
 load-device-modname-default =
     .value = Module PKCS#11 Mới
+load-device-browse =
+    .label = Duyệt…
+    .accesskey = B
 
 ## Token Manager
 
