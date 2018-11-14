@@ -5,9 +5,28 @@
 
 ## Strings used for device manager
 
+devmgr-header-details =
+    .label = รายละเอียด
+devmgr-header-value =
+    .label = ค่า
+devmgr-button-logout =
+    .label = ออกจากระบบ
+    .accesskey = อ
+devmgr-button-changepw =
+    .label = เปลี่ยนรหัสผ่าน
+    .accesskey = ป
+devmgr-button-disable-fips =
+    .label = ปิดใช้งาน FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-info = ใส่ข้อมูลโมดูลที่ต้องการ
+load-device-modname-default =
+    .value = สร้างโมดูล PKCS#11
+load-device-browse =
+    .label = เรียกดู…
+    .accesskey = ร
 
 ## Token Manager
 
