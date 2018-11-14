@@ -32,6 +32,9 @@ devmgr-button-unload =
 devmgr-button-enable-fips =
     .label = Дазволіць FIPS
     .accesskey = F
+devmgr-button-disable-fips =
+    .label = Выключыць FIPS
+    .accesskey = F
 
 ## Strings used for load device
 
