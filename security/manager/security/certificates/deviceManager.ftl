@@ -5,15 +5,51 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = 장치 관리자
+    .style = width: 67em; height: 32em;
+devmgr-devlist =
+    .label = 보안 모듈 및 장치
+devmgr-header-details =
+    .label = 상세 정보
+devmgr-header-value =
+    .label = 값
+devmgr-button-login =
+    .label = 로그인
+    .accesskey = n
+devmgr-button-logout =
+    .label = 로그아웃
+    .accesskey = O
+devmgr-button-changepw =
+    .label = 암호 변경
+    .accesskey = P
+devmgr-button-load =
+    .label = 장착하기
+    .accesskey = L
+devmgr-button-unload =
+    .label = 분리하기
+    .accesskey = U
+devmgr-button-enable-fips =
+    .label = FIPS 사용
+    .accesskey = F
+devmgr-button-disable-fips =
+    .label = FIPS 사용 안 함
+    .accesskey = F
 
 ## Strings used for load device
 
+load-device-info = 추가하고자 하는 모듈에 대한 정보를 입력하십시오.
 load-device-modname =
     .value = 모듈 이름
     .accesskey = M
+load-device-modname-default =
+    .value = 새 PKCS #11 모듈
 load-device-filename =
     .value = 모듈 파일 이름
     .accesskey = f
+load-device-browse =
+    .label = 찾아보기…
+    .accesskey = B
 
 ## Token Manager
 
@@ -56,3 +92,6 @@ load-module-help-empty-module-name =
 # Do not translate 'Root Certs'
 load-module-help-root-certs-module-name =
     .value = ‘Root Certs‘는 예약어이기 때문에 모듈 이름으로 사용할 수 없습니다.
+add-module-failure = 모듈을 추가할 수 없음
+del-module-warning = 정말로 이 보안 모듈을 삭제하시겠습니까?
+del-module-error = 모듈을 삭제할 수 없음
