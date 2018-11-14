@@ -50,3 +50,5 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL para resolver DNS por sobre HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Usar la predeterminada">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
