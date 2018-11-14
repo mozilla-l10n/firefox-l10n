@@ -5,6 +5,9 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Gestor de dispositius
+    .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Mòduls i dispositius de seguretat
 devmgr-header-details =
@@ -35,6 +38,8 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = Carrega el controlador de dispositiu PKCS#11
 load-device-info = Introduïu la informació del mòdul que voleu afegir.
 load-device-modname-default =
     .value = Nou mòdul PKCS#11
@@ -76,6 +81,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = Número de sèrie
 unable-to-toggle-fips = No s'ha pogut canviar el mode FIPS del dispositiu de seguretat. Es recomana que sortiu i reinicieu l'aplicació.
+load-pk11-module-file-picker-title = Trieu un controlador de dispositiu PKCS#11 per carregar
 add-module-failure = No s'ha pogut afegir el mòdul
 del-module-warning = Esteu segur que voleu suprimir aquest mòdul de seguretat?
 del-module-error = No s'ha pogut suprimir el mòdul
