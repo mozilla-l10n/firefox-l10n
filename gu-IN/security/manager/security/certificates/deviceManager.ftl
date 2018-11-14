@@ -36,8 +36,14 @@ devmgr-button-disable-fips =
 ## Strings used for load device
 
 load-device-info = તમે જે મોડ્યુલ ઉમેરવા માંગો તેના માટે જાણકારી દાખલ કરો.
+load-device-modname =
+    .value = મોડ્યુલનું નામ
+    .accesskey = M
 load-device-modname-default =
     .value = નવું PKCS#11 મોડ્યુલ
+load-device-filename =
+    .value = મોડ્યુલ ફાઇલનું નામ
+    .accesskey = f
 load-device-browse =
     .label = બ્રાઉઝ કરો...
     .accesskey = B
