@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = Jwa gin mukato weng
     .style = width: 34em
+clear-data-settings-label = Ka kiloro woko { -brand-short-name } myero ojwa weng pire kene
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
