@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs =
+    .title = Налаштування стирання історії
+    .style = width: 34em
+sanitize-prefs-style =
+    .style = width: 17em
+dialog-title =
+    .title = Стерти недавню історію
+    .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Стерти всю історію
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -20,6 +33,8 @@ clear-time-duration-value-last-2-hours =
     .label = останні 2 години
 clear-time-duration-value-last-4-hours =
     .label = останні 4 години
+clear-time-duration-value-today =
+    .label = за сьогодні
 clear-time-duration-value-everything =
     .label = Усю
 clear-time-duration-suffix =
@@ -28,6 +43,7 @@ clear-time-duration-suffix =
 ## These strings are used as section comments and checkboxes
 ## to select the items to remove
 
+history-section-label = Історія
 item-history-and-downloads =
     .label = Історію переглядів та завантажень
     .accesskey = г
@@ -47,5 +63,22 @@ data-section-label = Дані
 item-site-preferences =
     .label = Налаштування сайтів
     .accesskey = с
+item-offline-apps =
+    .label = Дані автономних веб-сайтів
+    .accesskey = а
 window-close =
     .key = w
+sanitize-button-ok =
+    .label = Стерти зараз
+# The label for the default button between the user clicking it and the window
+# closing.  Indicates the items are being cleared.
+sanitize-button-clearing =
+    .label = Стирання
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Вся історія буде стерта.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = Всі вибрані елементи будуть стерті.
