@@ -15,6 +15,7 @@ dialog-title =
 dialog-title-everything =
     .title = அனைத்து வரலாற்றையும் துடை
     .style = width: 34em
+clear-data-settings-label = நான் { -brand-short-name }, மூடும் போது தானாக அனைத்தையும் துடைக்க வேண்டும்
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
