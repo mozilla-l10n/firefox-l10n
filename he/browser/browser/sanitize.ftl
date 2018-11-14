@@ -24,6 +24,9 @@ dialog-title-everything =
 ## This results in English:
 ## Time range to clear: (Last Hour, Today, etc.)
 
+clear-time-duration-prefix =
+    .value = טווח זמן למחיקה:{ " " }
+    .accesskey = ז
 clear-time-duration-value-last-hour =
     .label = שעה אחרונה
 clear-time-duration-value-last-2-hours =
