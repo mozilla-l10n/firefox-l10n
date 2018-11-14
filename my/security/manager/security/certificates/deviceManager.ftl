@@ -11,6 +11,21 @@ devmgr-header-details =
     .label = အသေးစိတ်များ
 devmgr-header-value =
     .label = တန်ဖိုး
+devmgr-button-login =
+    .label = အဝင်n
+    .accesskey = n
+devmgr-button-logout =
+    .label = အထွက်O
+    .accesskey = O
+devmgr-button-changepw =
+    .label = Pစကားဝှက်ပြောင်း
+    .accesskey = P
+devmgr-button-load =
+    .label = Lပြန်ဖွင့်
+    .accesskey = L
+devmgr-button-unload =
+    .label = Uပြန်မလုပ်
+    .accesskey = U
 
 ## Strings used for load device
 
