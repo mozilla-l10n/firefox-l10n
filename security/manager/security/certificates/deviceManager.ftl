@@ -76,4 +76,12 @@ devinfo-label =
 devinfo-serialnum =
     .label = الرّقم التّسلسلي
 fips-nonempty-password-required = يتطلّب وضع FIPS وجود كلمة سر رئيسيّة لكلّ جهاز أمن. رجاءً ضع كلمة سر قبل تمكين وضع FIPS.
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = لا يمكن أن يكون اسم الوحدة خاليًا.
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = الاسم ’Root Certs‘ محجوز و لا يمكن استخدامه اسمًا للوحدة.
+add-module-failure = تعذّر إضافة الوحدة
 del-module-warning = أمتأكد أنك تريد حذف هذه الوحدة الأمنية؟
+del-module-error = تعذّر حذف الوحدة
