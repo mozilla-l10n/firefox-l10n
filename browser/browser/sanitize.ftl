@@ -31,10 +31,23 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Պատմություն
+item-cookies =
+    .label = Cookie-ները
+    .accesskey = C
+item-active-logins =
+    .label = Ակտիվ Մուտքեր
+    .accesskey = Մ
+item-cache =
+    .label = Պահոցը
+    .accesskey = ա
 data-section-label = Տվյալներ
 item-site-preferences =
     .label = Կայքի նախըտրանքներ
     .accesskey = Կ
+item-offline-apps =
+    .label = Վեբ կայքերի անցանց տվյալներ
+    .accesskey = Վ
+sanitize-everything-undo-warning = Այս գործողությունը չի կարող ետարկվել:
 window-close =
     .key = w
 sanitize-button-ok =
