@@ -5,9 +5,18 @@
 
 ## Strings used for device manager
 
+devmgr-devlist =
+    .label = Dimmojule le Didiriswa tsa Pabalesego
+devmgr-header-details =
+    .label = Dintlha
+devmgr-header-value =
+    .label = Boleng
 
 ## Strings used for load device
 
+load-device-info = Tsenya tshedimosetso ya mmojule o o batlang go o tsenya.
+load-device-modname-default =
+    .value = Mmojule o Montšhwa wa PKCS#11
 
 ## Token Manager
 
