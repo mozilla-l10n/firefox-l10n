@@ -42,4 +42,5 @@ devinfo-label =
     .label = Étiquette
 devinfo-serialnum =
     .label = Numéro de série
+del-module-warning = Voulez-vous vraiment supprimer ce module de sécurité ?
 del-module-error = Impossible de supprimer le module
