@@ -34,6 +34,8 @@ permissions-capabilities-listitem-block =
     .value = Gagay
 permissions-capabilities-listitem-allow-first-party =
     .value = Ceewaani de noo fondo
+permissions-capabilities-listitem-allow-session =
+    .value = Noo fondo goywaati se
 
 ## Invalid Hostname Dialog
 

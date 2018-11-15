@@ -456,4 +456,5 @@ certs-enable-ocsp =
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Goytaabal
+downloads-folder-name = Zumandey
 choose-download-folder-title = Zumandi foolo suuba:
