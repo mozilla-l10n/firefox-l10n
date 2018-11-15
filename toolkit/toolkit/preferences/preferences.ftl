@@ -7,6 +7,7 @@ password-not-set =
 failed-pw-change = Gagal mengubah Sandi Utama.
 incorrect-pw = Anda tidak memasukkan Sandi Utama dengan benar. Silakan coba lagi.
 pw-change-ok = Sandi Utama berhasil diubah. { pw-empty-warning }
+pw-empty-warning = Simpanan sandi web dan surel, data form, serta kunci pribadi Anda tidak akan dilindungi.
 pw-erased-ok = Anda telah menghapus Sandi Utama Anda.  { pw-empty-warning }
 pw-not-wanted = Peringatan! Anda memutuskan untuk tidak menggunakan Sandi Utama.
 pw-change2empty-in-fips-mode = Anda sedang dalam mode FIPS. Mode ini mewajibkan Sandi Utama harus diisi.
