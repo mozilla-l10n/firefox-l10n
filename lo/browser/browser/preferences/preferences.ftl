@@ -665,3 +665,4 @@ certs-devices =
 
 ## The following strings are used in the Download section of settings
 
+downloads-folder-name = ດາວໂຫລດ
