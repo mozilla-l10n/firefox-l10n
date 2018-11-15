@@ -38,6 +38,8 @@ permissions-searchbox =
     .placeholder = Internetsite sichen
 permissions-capabilities-allow =
     .label = Erlaben
+permissions-capabilities-listitem-allow =
+    .value = Erlaben
 
 ## Invalid Hostname Dialog
 
@@ -55,6 +57,9 @@ permissions-capabilities-allow =
 
 
 ## Exceptions - Add-ons
+
+
+## Exceptions - Autoplay Media
 
 
 ## Site Permissions - Notifications

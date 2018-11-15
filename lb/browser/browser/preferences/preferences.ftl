@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -39,8 +31,8 @@ search-input-box =
         }
 policies-notice =
     { PLATFORM() ->
-        [windows] Deng Organisatioun huet d'Ännere vu verschidden Optiounen desaktivéiert. 
-       *[other] Deng Organisatioun huet d'Ännere vu verschidden Astellungen desaktivéiert. 
+        [windows] Deng Organisatioun huet d'Ännere vu verschidden Optiounen desaktivéiert.
+       *[other] Deng Organisatioun huet d'Ännere vu verschidden Astellungen desaktivéiert.
     }
 pane-general-title = Allgemeng
 category-general =
@@ -137,20 +129,11 @@ is-not-default = { -brand-short-name } ass net de Standard-Browser
 set-as-my-default-browser =
     .label = Als Standard festleeën
     .accesskey = S
-startup-page = Wa { -brand-short-name } gestart gëtt
-    .accesskey = s
-startup-user-homepage =
-    .label = Deng Startsäit weisen
-startup-blank-page =
-    .label = Eng eidel Säit weisen
-startup-prev-session =
-    .label = Deng Fënsteren an Tabs vu leschter Kéier uweisen
 startup-restore-previous-session =
     .label = Vireg Sessioun restauréieren
     .accesskey = s
 disable-extension =
     .label = Erweiderung desaktivéieren
-home-page-header = Startsäit
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab geet duerch Tabs a lescht benotzter Reiefolleg
@@ -231,7 +214,6 @@ applications-action-column =
     .accesskey = A
 play-drm-content-learn-more = Fir méi ze wëssen
 update-application-title = { -brand-short-name }-Updates
-update-application-info = Versioun { $version }<a>Wat nei ass</a>
 update-application-allow-description = { -brand-short-name } erlaben
 update-application-auto =
     .label = Updaten automatesch installéieren (recommandéiert)
@@ -285,9 +267,6 @@ use-current-pages =
 choose-bookmark =
     .label = Lieszeeche benotzen...
     .accesskey = B
-restore-default =
-    .label = Standard restauréieren
-    .accesskey = R
 
 ## Search Section
 
@@ -318,7 +297,7 @@ sync-engine-addresses =
     .tooltiptext = Post-Adressen déi dir gespäichert hutt (nëmmen Desktop)
     .accesskey = e
 sync-engine-creditcards =
-    .label = Kreditkaarten 
+    .label = Kreditkaarten
     .tooltiptext = Nimm, Nummeren an Oflafsatum
     .accesskey = C
 sync-device-name-header = Numm vum Apparat
@@ -341,14 +320,15 @@ sync-device-name-save =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Fir méi ze wëssen
-sitedata-accept-third-party-always-option =
-    .label = Ëmmer
 
 ## Privacy Section - Address Bar
 
 addressbar-locbar-bookmarks-option =
     .label = Lieszeechen
     .accesskey = k
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
@@ -390,3 +370,6 @@ security-enable-safe-browsing-link = Fir méi ze wëssen
 certs-select-ask-option =
     .label = Ëmmer froen
     .accesskey = A
+
+## The following strings are used in the Download section of settings
+
