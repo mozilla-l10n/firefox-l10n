@@ -42,6 +42,8 @@ permissions-capabilities-block =
     .label = Արգելել
 permissions-capabilities-prompt =
     .label = Միշտ հարցնել
+permissions-capabilities-listitem-block =
+    .value = Արգելել
 
 ## Invalid Hostname Dialog
 
@@ -85,9 +87,6 @@ permissions-exceptions-addons-desc = Դուք կարող էք նշել այն վ
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Թույլատրված կայքեր՝ ինքնանվագարկում
-    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
