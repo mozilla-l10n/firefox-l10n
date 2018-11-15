@@ -315,7 +315,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy de ret
 network-proxy-connection-description = Configurar cómo { -brand-short-name } se connecta con internet.
 network-proxy-connection-learn-more = Saber-ne mas
 network-proxy-connection-settings =
@@ -554,9 +553,6 @@ history-dontremember-description = O { -brand-short-name } ferá servir a mesma 
 history-private-browsing-permanent =
     .label = Emplegar siempre o modo de navegación privada
     .accesskey = p
-history-remember-option =
-    .label = Remerar o mío historial de navegación y descargas
-    .accesskey = m
 history-remember-browser-option =
     .label = Fer acordanza de l'historial de navegación y descargas
     .accesskey = r
@@ -582,26 +578,12 @@ sitedata-total-size-calculating = Calculando los datos d'o puesto y la grandaria
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Las tuyas cookies, datos d'o puesto y caché son usando per agora { $value } { $unit } d'o espacio de disco
 sitedata-learn-more = Saber-ne mas
-sitedata-accept-cookies-option =
-    .label = Acceptar las cookies y datos d'o puesto dende pachinas web (recomendau)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Blocar cookies y datos d'o puest (puede fer que bellas webs no funcionen)
-    .accesskey = B
 sitedata-keep-until = Alzar dica
     .accesskey = u
 sitedata-keep-until-expire =
     .label = Vencen
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ye zarrau
-sitedata-accept-third-party-desc = Acceptar cookies de tercers y datos d'o puesto
-    .accesskey = t
-sitedata-accept-third-party-always-option =
-    .label = Siempre
-sitedata-accept-third-party-visited-option =
-    .label = D'as visitadas
-sitedata-accept-third-party-never-option =
-    .label = Nunca
 sitedata-clear =
     .label = Borrar los datos…
     .accesskey = r
@@ -627,6 +609,9 @@ addressbar-locbar-openpage-option =
     .accesskey = O
 addressbar-suggestions-settings = Cam&biar las preferencias de sucherencias en motors de busca…
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 tracking-header = Protección contra Seguimiento
@@ -641,10 +626,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nunca
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Usa la Protección contra Seguimiento en a Navegación Privada pa blocar programas de seguimiento conoixius
-    .accesskey = v
 tracking-exceptions =
     .label = Excepcions…
     .accesskey = x
@@ -759,3 +740,9 @@ certs-view =
 certs-devices =
     .label = Dispositivos de seguranza…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Escritorio
+downloads-folder-name = Descargas
+choose-download-folder-title = Trigar a carpeta de descargas:
