@@ -866,6 +866,30 @@ certs-view =
 certs-devices =
     .label = Wěstotne graty…
     .accesskey = t
+space-alert-learn-more-button =
+    .label = Dalše informacije
+    .accesskey = D
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Nastajenja wočinić
+           *[other] Nastajenja wočinić
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
+        }
+space-alert-under-5gb-ok-button =
+    .label = W porjadku, sym zrozumił
+    .accesskey = r
+space-alert-under-5gb-message = { -brand-short-name } hižo dosć składowanskeho ruma nima. Wobsah websydła so snano korektnje njezwobrazni. Móžeće na “Dalše informacije” kliknyć, zo byšće swój składowe wužiće za lěpše přehladowanske dožiwjenje opiměrował.
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Desktop
+downloads-folder-name = Sćehnjenja
+choose-download-folder-title = Rjadowak sćehnjenjow wubrać:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
