@@ -42,6 +42,10 @@ permissions-capabilities-block =
     .label = Blokker
 permissions-capabilities-prompt =
     .label = Spør alltid
+permissions-capabilities-listitem-allow =
+    .value = Tillat
+permissions-capabilities-listitem-block =
+    .value = Blokker
 
 ## Invalid Hostname Dialog
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Du kan velje kva for nettstadar som har lø
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Tillatne nettsider - automatisk avspeling
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Du kan spesifisere kva for nettsider som automatisk har lov til å spele mediaelement. Skriv inn eksakt adresse for nettsida du vil tillate og trykk så Tillat.
 permissions-exceptions-autoplay-media-window2 =
     .title = Unntak - autoavspeling
     .style = { permissions-window.style }
