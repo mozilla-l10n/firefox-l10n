@@ -13,6 +13,7 @@ enable-common-message = Firefox-ontwikkelaarshulpmiddelen zijn standaard uitgesc
 enable-learn-more-link = Meer info over ontwikkelaarshulpmiddelen
 enable-enable-button = Ontwikkelaarshulpmiddelen inschakelen
 enable-close-button = Dit tabblad sluiten
+
 welcome-title = Welkom bij de Firefox-ontwikkelaarshulpmiddelen!
 newsletter-title = Mozilla Developer-nieuwsbrief
 newsletter-message = Ontvang ontwikkelaarsnieuws, trucs en hulpbronnen rechtstreeks in uw Postvak IN.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Ik ga akkoord met het gebruik van mijn gegevens door 
 newsletter-subscribe-button = Inschrijven
 newsletter-thanks-title = Bedankt!
 newsletter-thanks-message = Als u nog niet eerder een inschrijving voor een Mozilla-gerelateerde nieuwsbrief hebt bevestigd, dient u dit mogelijk te doen. Controleer uw Postvak IN of uw spamfilter voor een e-mail van ons.
+
 footer-title = Firefox Developer Edition
 footer-message = Zoekt u meer dan alleen ontwikkelaarshulpmiddelen? Probeer de Firefox-browser die specifiek gebouwd is voor ontwikkelaars en moderne werkstromen.
 footer-learn-more-link = Meer info
+
 features-learn-more = Meer info
 features-inspector-title = Inspector
 features-inspector-desc = Inspecteer en verfijn code voor pixel-perfecte vormgevingen. <a data-l10n-name="learn-more">{ features-learn-more }</a>
