@@ -721,6 +721,24 @@ certs-view =
 certs-devices =
     .label = Öryggistæki…
     .accesskey = y
+space-alert-learn-more-button =
+    .label = Fræðast meira
+    .accesskey = F
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opna stillingar
+           *[other] Opna stillingar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-under-5gb-ok-button =
+    .label = Í lagi, ég skil
+    .accesskey = l
+space-alert-under-5gb-message = { -brand-short-name } er verða búið með diskaplássið. Hugsanlega birtist innihald vefsvæði ekki rétt. Kíktu á “Fræðast meira” til að lagfæra disk notkun til að vafra betur.
 
 ## The following strings are used in the Download section of settings
 
