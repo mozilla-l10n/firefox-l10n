@@ -2,14 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = Informuj witryny o preferencjach względem śledzenia (wysyłanie nagłówka „Do Not Track”):
+do-not-track-learn-more = Więcej informacji
+do-not-track-option-default =
+    .label = tylko podczas używania ochrony przed śledzeniem
+do-not-track-option-default-content-blocking =
+    .label = gdy { -brand-short-name } blokuje wykryte elementy śledzące
+do-not-track-option-always =
+    .label = zawsze
 pref-page =
     .title =
         { PLATFORM() ->
             [windows] Opcje
            *[other] Preferencje
         }
-search-input =
-    .style = width: 15.4em
 search-input-box =
     .style = width: 15.4em
     .placeholder =
@@ -37,29 +43,43 @@ category-privacy =
 pane-sync-title = Konto Firefoksa
 category-sync =
     .tooltiptext = { pane-sync-title }
-
-help-button-label=Wsparcie programu { -brand-short-name }
-addons-button-label=Dodatki i motywy
-
+help-button-label = Wsparcie programu { -brand-short-name }
+addons-button-label = Dodatki i motywy
 focus-search =
     .key = f
 close-button =
     .aria-label = Zamknij
+
+## Browser Restart Dialog
+
 feature-enable-requires-restart = Konieczne jest ponowne uruchomienie programu { -brand-short-name }, aby włączyć tę funkcję.
 feature-disable-requires-restart = Konieczne jest ponowne uruchomienie programu { -brand-short-name }, aby wyłączyć tę funkcję.
 should-restart-title = Ponowne uruchamianie programu { -brand-short-name }
 should-restart-ok = Uruchom ponownie
 cancel-no-restart-button = Anuluj
 restart-later = Później
-extension-controlled-homepage-override=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę startową.
-extension-controlled-new-tab-url=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę nowej karty.
-extension-controlled-web-notifications=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje to ustawienie.
-extension-controlled-default-search=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> zmieniło domyślną wyszukiwarkę.
-extension-controlled-privacy-containers=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> wymaga włączonych „Kart z kontekstem”.
-extension-controlled-websites-tracking-protection-mode=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje ochronę przed śledzeniem.
-extension-controlled-websites-content-blocking-all-trackers=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje to ustawienie.
-extension-controlled-proxy-config=Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje, jak przeglądarka łączy się z Internetem.
-extension-controlled-enable=Aby włączyć rozszerzenie, przejdź do sekcji dodatki <img data-l10n-name="addons-icon"/> w menu <img data-l10n-name="menu-icon"/>.
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+extension-controlled-homepage-override = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę startową.
+extension-controlled-new-tab-url = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje stronę nowej karty.
+extension-controlled-web-notifications = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje to ustawienie.
+extension-controlled-default-search = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> zmieniło domyślną wyszukiwarkę.
+extension-controlled-privacy-containers = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> wymaga włączonych „Kart z kontekstem”.
+extension-controlled-websites-tracking-protection-mode = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje ochronę przed śledzeniem.
+extension-controlled-websites-content-blocking-all-trackers = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje to ustawienie.
+extension-controlled-proxy-config = Rozszerzenie „{ $name }” <img data-l10n-name="icon"/> kontroluje, jak przeglądarka łączy się z Internetem.
+extension-controlled-enable = Aby włączyć rozszerzenie, przejdź do sekcji dodatki <img data-l10n-name="addons-icon"/> w menu <img data-l10n-name="menu-icon"/>.
+
+## Preferences UI Search Results
 
 search-results-header = Wyniki wyszukiwania
 search-results-empty-message =
@@ -68,6 +88,8 @@ search-results-empty-message =
        *[other] Niestety! W preferencjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Potrzebujesz pomocy? Odwiedź witrynę <a data-l10n-name="url">wsparcia programu { -brand-short-name }</a>.
+
+## General Section
 
 startup-header = Uruchamianie
 separate-profile-mode =
@@ -83,20 +105,11 @@ is-not-default = { -brand-short-name } nie jest obecnie domyślną przeglądark�
 set-as-my-default-browser =
     .label = Ustaw jako domyślną…
     .accesskey = U
-startup-page = Po uruchomieniu programu { -brand-short-name }:
+startup-restore-previous-session =
+    .label = Przywracanie poprzedniej sesji
     .accesskey = P
-startup-user-homepage =
-    .label = wyświetl stronę startową
-startup-blank-page =
-    .label = wyświetl pustą stronę
-startup-prev-session =
-    .label = wyświetl okna i karty z poprzedniej sesji
-startup-restore-previous-session=
-  .label=Przywracanie poprzedniej sesji
-  .accesskey=P
 disable-extension =
     .label = Wyłącz rozszerzenie
-home-page-header = Strona startowa:
 tabs-group-header = Karty
 ctrl-tab-recently-used-order =
     .label = Przełączanie kart za pomocą Ctrl+Tab w kolejności ostatnich wyświetleń
@@ -116,10 +129,10 @@ switch-links-to-new-tabs =
 show-tabs-in-taskbar =
     .label = Podgląd kart na pasku zadań Windows
     .accesskey = W
-browser-containers-enabled=
-  .label=Karty z kontekstem.
-  .accesskey=K
-browser-containers-learn-more=Więcej informacji
+browser-containers-enabled =
+    .label = Karty z kontekstem.
+    .accesskey = K
+browser-containers-learn-more = Więcej informacji
 browser-containers-settings =
     .label = Dostosuj…
     .accesskey = D
@@ -146,6 +159,9 @@ containers-remove-alert-msg =
     }
 containers-remove-ok-button = Usuń
 containers-remove-cancel-button = Nie usuwaj
+
+## General Section - Language & Appearance
+
 language-and-appearance-header = Język i wygląd
 fonts-and-colors-header = Czcionki i kolory
 default-font = Domyślna czcionka:
@@ -158,22 +174,17 @@ advanced-fonts =
 colors-settings =
     .label = Kolory…
     .accesskey = K
-
 language-header = Język
-choose-browser-language-description=Wybierz język używany do wyświetlania interfejsu użytkownika programu (menu, wiadomości, powiadomienia itp.).
-manage-browser-languages-button=
-  .label=Wybierz alternatywne…
-  .accesskey=W
-confirm-browser-language-change-description=Uruchom przeglądarkę ponownie, aby zastosować zmiany.
-confirm-browser-language-change-button=Uruchom ponownie
 choose-language-description = Wybierz preferowany język, w jakim mają być wyświetlane strony
 choose-button =
     .label = Wybierz…
     .accesskey = e
-check-user-spelling=
-  .label=Sprawdzanie pisowni podczas wprowadzania tekstu
-  .accesskey=S
-
+choose-browser-language-description = Wybierz język używany do wyświetlania interfejsu użytkownika programu (menu, wiadomości, powiadomienia itp.).
+manage-browser-languages-button =
+    .label = Wybierz alternatywne…
+    .accesskey = W
+confirm-browser-language-change-description = Uruchom przeglądarkę ponownie, aby zastosować zmiany.
+confirm-browser-language-change-button = Uruchom ponownie
 translate-web-pages =
     .label = Tłumaczenie stron WWW
     .accesskey = T
@@ -181,6 +192,11 @@ translate-attribution = Tłumaczeń dostarcza <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Wyjątki…
     .accesskey = i
+check-user-spelling =
+    .label = Sprawdzanie pisowni podczas wprowadzania tekstu
+    .accesskey = S
+
+## General Section - Files and Applications
 
 files-and-applications-title = Pliki i aplikacje
 download-header = Pobieranie
@@ -215,47 +231,50 @@ drm-content-header = Treści DRM (Digital Rights Management)
 play-drm-content =
     .label = Odtwarzanie treści chronionych przez DRM.
     .accesskey = O
-play-drm-content-learn-more=Więcej informacji
-
+play-drm-content-learn-more = Więcej informacji
 update-application-title = Aktualizacje programu { -brand-short-name }
 update-application-description = Utrzymuj program { -brand-short-name } aktualnym dla najlepszej wydajności, stabilności i bezpieczeństwa.
-update-application-info=Wersja: { $version }. <a>Informacje o wydaniu</a>.
-update-application-version=Wersja: { $version }. <a data-l10n-name="learn-more">Informacje o wydaniu</a>.
+update-application-version = Wersja: { $version }. <a data-l10n-name="learn-more">Informacje o wydaniu</a>.
 update-history =
     .label = Wyświetl historię aktualizacji…
     .accesskey = W
 update-application-allow-description = Zezwalaj programowi { -brand-short-name } na:
-update-application-auto=
-  .label=automatyczne instalowanie aktualizacji (zalecane)
-  .accesskey=a
-update-application-check-choose=
-  .label=sprawdzanie dostępności aktualizacji i pytania o ich instalację
-  .accesskey=s
-update-application-manual=
-  .label=niesprawdzanie dostępności aktualizacji (niezalecane)
-  .accesskey=n
+update-application-auto =
+    .label = automatyczne instalowanie aktualizacji (zalecane)
+    .accesskey = a
+update-application-check-choose =
+    .label = sprawdzanie dostępności aktualizacji i pytania o ich instalację
+    .accesskey = s
+update-application-manual =
+    .label = niesprawdzanie dostępności aktualizacji (niezalecane)
+    .accesskey = n
 update-application-use-service =
     .label = Używaj usługi instalowania aktualizacji działającej w tle
     .accesskey = U
 update-enable-search-update =
     .label = Automatyczne aktualizacje wyszukiwarek
     .accesskey = z
+
+## General Section - Performance
+
 performance-title = Wydajność
 performance-use-recommended-settings-checkbox =
     .label = Zalecane ustawienia wydajności.
     .accesskey = w
 performance-use-recommended-settings-desc = Ustawienia te są specjalnie dostosowane do specyfikacji tego komputera i systemu operacyjnego.
-performance-settings-learn-more=Więcej informacji
+performance-settings-learn-more = Więcej informacji
 performance-allow-hw-accel =
     .label = Korzystaj ze sprzętowego przyspieszania, jeśli jest dostępne
     .accesskey = s
 performance-limit-content-process-option = Limit liczby procesów treści:
     .accesskey = o
 performance-limit-content-process-enabled-desc = Więcej procesów treści może poprawić wydajność przy wielu otwartych kartach, ale zwiększy też zapotrzebowanie na pamięć.
-performance-limit-content-process-disabled-desc = Zmiana liczby procesów jest możliwa, jeśli { -brand-short-name } został uruchomiony z obsługą wielu procesów. <a>Jak sprawdzić, czy obsługa wielu procesów jest włączona</a>?
 performance-limit-content-process-blocked-desc = Zmiana liczby procesów jest możliwa, jeśli { -brand-short-name } został uruchomiony z obsługą wielu procesów. <a data-l10n-name="learn-more">Jak sprawdzić, czy obsługa wielu procesów jest włączona</a>?
 performance-default-content-process-count =
     .label = { $num } (domyślnie)
+
+## General Section - Browsing
+
 browsing-title = Przeglądanie
 browsing-use-autoscroll =
     .label = Używaj automatycznego przewijania
@@ -272,29 +291,36 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Rozpoczynaj wyszukiwanie podczas wpisywania tekstu
     .accesskey = R
-network-proxy-title = Proxy sieciowe
-network-settings-title=Sieć
+
+## General Section - Proxy
+
+network-settings-title = Sieć
 network-proxy-connection-description = Konfiguruj, jak { -brand-short-name } ma się łączyć z Internetem.
-network-proxy-connection-learn-more=Więcej informacji
+network-proxy-connection-learn-more = Więcej informacji
 network-proxy-connection-settings =
     .label = Ustawienia…
     .accesskey = U
+
+## Home Section
+
 home-new-windows-tabs-header = Nowe okna i karty
 home-new-windows-tabs-description2 = Wybierz, co ma być wyświetlane przy otwieraniu strony startowej, nowych okien i kart.
+
+## Home Section - Home Page Customization
 
 home-homepage-mode-label = Strona startowa i nowe okna:
 home-newtabs-mode-label = Nowa karta:
 home-restore-defaults =
     .label = Przywróć domyślne
     .accesskey = P
-home-mode-choice-default=
-  .label=strona startowa programu Firefox (domyślnie)
-home-mode-choice-custom=
-   .label=inne strony
-home-mode-choice-blank=
-   .label=pusta strona
-home-homepage-custom-url=
-   .placeholder=Adres URL
+home-mode-choice-default =
+    .label = strona startowa programu Firefox (domyślnie)
+home-mode-choice-custom =
+    .label = inne strony
+home-mode-choice-blank =
+    .label = pusta strona
+home-homepage-custom-url =
+    .placeholder = Adres URL
 use-current-pages =
     .label =
         { $tabCount ->
@@ -305,9 +331,8 @@ use-current-pages =
 choose-bookmark =
     .label = Użyj zakładki…
     .accesskey = z
-restore-default =
-    .label = Przywróć domyślną
-    .accesskey = d
+
+## Search Section
 
 search-bar-header = Pasek wyszukiwania
 search-bar-hidden =
@@ -342,6 +367,8 @@ search-keyword-warning-title = Słowo kluczowe już istnieje
 search-keyword-warning-engine = Wybrano słowo kluczowe używane obecnie przez wyszukiwarkę { $name }. Należy wybrać inne.
 search-keyword-warning-bookmark = Wybrano słowo kluczowe używane obecnie przez zakładkę. Należy wybrać inne.
 
+## Containers Section
+
 containers-back-link = « Powrót
 containers-header = Karty z kontekstem
 containers-add-button =
@@ -352,6 +379,8 @@ containers-preferences-button =
 containers-remove-button =
     .label = Usuń
 
+## Sync Section - Signed out
+
 sync-signedout-caption = Zabierz swoją sieć ze sobą
 sync-signedout-description = Synchronizuj zakładki, historię, karty, hasła, dodatki i ustawienia między wszystkimi swoimi urządzeniami.
 sync-signedout-account-title = { -fxaccount-brand-name }
@@ -360,7 +389,9 @@ sync-signedout-account-create = Nie masz konta? Utwórz je…
 sync-signedout-account-signin =
     .label = Zaloguj się
     .accesskey = Z
-sync-mobile-promo=Pobierz Firefoksa na <a data-l10n-name="android-link">Androida</a> <img data-l10n-name="android-icon"/> lub <a data-l10n-name="ios-link">iOSa</a> <img data-l10n-name="ios-icon"/>, aby synchronizować ze swoim urządzeniem przenośnym.
+sync-mobile-promo = Pobierz Firefoksa na <a data-l10n-name="android-link">Androida</a> <img data-l10n-name="android-icon"/> lub <a data-l10n-name="ios-link">iOSa</a> <img data-l10n-name="ios-icon"/>, aby synchronizować ze swoim urządzeniem przenośnym.
+
+## Sync Section - Signed in
 
 sync-profile-picture =
     .tooltiptext = Zmień obraz przypisany do konta
@@ -431,13 +462,17 @@ sync-mobilepromo-multi = Zarządzaj urządzeniami
 sync-tos-link = Warunki korzystania z usługi
 sync-fxa-privacy-notice = Uwagi dotyczące prywatności
 
+## Privacy Section
+
 privacy-header = Prywatność
 
+## Privacy Section - Forms
+
 forms-header = Formularze i hasła
-logins-header=Dane logowania i hasła
-forms-ask-to-save-logins=
-  .label=Pytanie o zachowywanie danych logowania do witryn
-  .accesskey=P
+logins-header = Dane logowania i hasła
+forms-ask-to-save-logins =
+    .label = Pytanie o zachowywanie danych logowania do witryn
+    .accesskey = P
 forms-exceptions =
     .label = Wyjątki…
     .accesskey = i
@@ -447,9 +482,11 @@ forms-saved-logins =
 forms-master-pw-use =
     .label = Hasło główne
     .accesskey = H
-forms-master-pw-change=
-  .label=Zmień hasło główne…
-  .accesskey=Z
+forms-master-pw-change =
+    .label = Zmień hasło główne…
+    .accesskey = Z
+
+## Privacy Section - History
 
 history-header = Historia
 history-remember-label = Program { -brand-short-name }:
@@ -465,15 +502,12 @@ history-dontremember-description = { -brand-short-name } będzie używał tych s
 history-private-browsing-permanent =
     .label = Zawsze aktywny tryb przeglądania prywatnego
     .accesskey = t
-history-remember-option =
+history-remember-browser-option =
     .label = Historia przeglądania i pobierania plików
-    .accesskey = s
-history-remember-browser-option=
-  .label=Historia przeglądania i pobierania plików
-  .accesskey=H
-history-remember-search-option=
-  .label=Historia pola wyszukiwania i formularzy
-  .accesskey=H
+    .accesskey = H
+history-remember-search-option =
+    .label = Historia pola wyszukiwania i formularzy
+    .accesskey = H
 history-clear-on-close-option =
     .label = Czyszczenie historii podczas zamykania programu { -brand-short-name }
     .accesskey = z
@@ -484,52 +518,36 @@ history-clear-button =
     .label = Wyczyść historię…
     .accesskey = W
 
+## Privacy Section - Site Data
+
 sitedata-header = Ciasteczka i dane stron
 sitedata-total-size-calculating = Obliczanie rozmiaru danych i pamięci podręcznej stron…
 sitedata-total-size = Przechowywane ciasteczka, dane i pamięć podręczna stron zajmują { $value } { $unit } na dysku.
-sitedata-learn-more=Więcej informacji
-sitedata-accept-cookies-option =
-    .label = Akceptowanie ciasteczek i danych stron (zalecane)
-    .accesskey = k
-sitedata-block-cookies-option =
-    .label = Blokowanie ciasteczek i danych stron (może powodować problemy)
+sitedata-learn-more = Więcej informacji
+sitedata-keep-until = Przechowywanie ciasteczek:
+    .accesskey = P
+sitedata-keep-until-expire =
+    .label = do ich wygaśnięcia
+sitedata-keep-until-closed =
+    .label = do zamknięcia programu
+sitedata-allow-cookies-option =
+    .label = Akceptowanie ciasteczek i danych stron
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Blokowanie ciasteczek i danych stron
     .accesskey = B
-sitedata-keep-until=Przechowywanie ciasteczek:
-  .accesskey=P
-sitedata-keep-until-expire=
-  .label=do ich wygaśnięcia
-sitedata-keep-until-closed=
-  .label=do zamknięcia programu
-sitedata-accept-third-party-desc=Akceptowanie ciasteczek i danych stron zewnętrznych witryn:
-  .accesskey=A
-sitedata-accept-third-party-always-option =
-    .label = zawsze
-sitedata-accept-third-party-visited-option =
-    .label = z odwiedzonych
-sitedata-accept-third-party-never-option =
-    .label = nigdy
-sitedata-allow-cookies-option=
-  .label=Akceptowanie ciasteczek i danych stron
-  .accesskey=A
-sitedata-disallow-cookies-option=
-  .label=Blokowanie ciasteczek i danych stron
-  .accesskey=B
-sitedata-block-desc=Blokowanie:
-  .accesskey=B
-sitedata-block-trackers-option-recommended=
-  .label=elementów śledzących zewnętrznych witryn (zalecane)
-sitedata-block-trackers-option=
-  .label=elementów śledzących
-sitedata-block-unvisited-option=
-  .label=ciasteczek nieodwiedzonych witryn
-sitedata-block-all-third-parties-option=
-  .label=wszystkich ciasteczek zewnętrznych witryn
-sitedata-block-all-third-party-option=
-  .label=wszystkich ciasteczek zewnętrznych witryn (może powodować problemy)
-sitedata-block-always-option=
-  .label=wszystkich ciasteczek (może powodować problemy)
-sitedata-block-all-option=
-  .label=wszystkich ciasteczek (powoduje problemy)
+sitedata-block-desc = Blokowanie:
+    .accesskey = B
+sitedata-block-trackers-option-recommended =
+    .label = elementów śledzących zewnętrznych witryn (zalecane)
+sitedata-block-trackers-option =
+    .label = elementów śledzących
+sitedata-block-unvisited-option =
+    .label = ciasteczek nieodwiedzonych witryn
+sitedata-block-all-third-party-option =
+    .label = wszystkich ciasteczek zewnętrznych witryn (może powodować problemy)
+sitedata-block-all-option =
+    .label = wszystkich ciasteczek (powoduje problemy)
 sitedata-clear =
     .label = Wyczyść dane
     .accesskey = a
@@ -539,7 +557,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Wyjątki…
     .accesskey = W
-sitedata-warning-your-settings-prevent-changes=Ustawienia blokowania treści uniemożliwiają zmiany w ustawieniach przechowywania ciasteczek i danych stron.
+sitedata-warning-your-settings-prevent-changes = Ustawienia blokowania treści uniemożliwiają zmiany w ustawieniach przechowywania ciasteczek i danych stron.
+
+## Privacy Section - Address Bar
 
 addressbar-header = Pasek adresu
 addressbar-suggest = Podpowiedzi w pasku adresu opieraj na:
@@ -554,111 +574,81 @@ addressbar-locbar-openpage-option =
     .accesskey = k
 addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych przez wyszukiwarki
 
-content-blocking-header=Blokowanie treści
-content-blocking-desc=Blokowane elementów zewnętrznych witryn (jak reklamy i skrypty) mogących spowolnić przeglądanie i śledzić aktywność w sieci. Ustawienia poniżej ułatwiają optymalne dostrojenie poziomu ochrony i szybkości wczytywania witryn.
-content-blocking-learn-more=Więcej informacji
+## Privacy Section - Content Blocking
+
+content-blocking-header = Blokowanie treści
+content-blocking-desc = Blokowane elementów zewnętrznych witryn (jak reklamy i skrypty) mogących spowolnić przeglądanie i śledzić aktywność w sieci. Ustawienia poniżej ułatwiają optymalne dostrojenie poziomu ochrony i szybkości wczytywania witryn.
+content-blocking-learn-more = Więcej informacji
 content-blocking-restore-defaults =
-  .label=Przywróć domyślne
-  .accesskey=P
-content-blocking-toggle-on=
-  .tooltiptext=Wyłącz blokowanie treści
-content-blocking-toggle-off=
-  .tooltiptext=Włącz blokowanie treści
-content-blocking-toggle-label-on=Włączone
-  .accesskey=W
-content-blocking-toggle-label-off=Wyłączone
-  .accesskey=W
-content-blocking-category-label=Blokowane elementy
-content-blocking-fastblock-label=Wolno wczytywane elementy śledzące
-  .accesskey=W
-content-blocking-fastblock-slow-loading-label=Wolno wczytywane elementy śledzące
-  .accesskey=W
-content-blocking-fastblock-slow-loading-trackers-label=
-  .label=Wolno wczytywane elementy śledzące
-  .accesskey=W
-content-blocking-fastblock-description=Blokowanie elementów zewnętrznych witryn, których wczytanie zajmuje ponad 5 sekund.
-content-blocking-fastblock-new-description=Blokowanie elementów śledzących uniemożliwiających szybkie wczytywanie stron.
-content-blocking-tracking-protection-trackers-label=
-  .label=Elementy śledzące
-  .accesskey=E
-content-blocking-fastblock-option-enabled=
-  .label=Obligatoryjne blokowanie
-content-blocking-fastblock-option-disabled=
-  .label=Brak blokowania
-content-blocking-tracking-protection-label=Elementy śledzące
-  .accesskey=E
-content-blocking-tracking-protection-all-label=Wszystkie wykryte elementy śledzące
-  .accesskey=W
-content-blocking-tracking-protection-all-detected-trackers-label=
-  .label=Wszystkie wykryte elementy śledzące
-  .accesskey=W
-content-blocking-tracking-protection-description=Blokowanie wszystkich znanych elementów śledzących. Niektóre strony mogą nie działać prawidłowo.
-content-blocking-tracking-protection-new-description=Blokowanie wszystkich znanych elementów śledzących (niektóre strony mogą nie działać prawidłowo).
-content-blocking-tracking-protection-option-enabled=
-  .label=Obligatoryjne blokowanie
-content-blocking-tracking-protection-option-pbm=
-  .label=Blokowanie w oknach prywatnych
-content-blocking-tracking-protection-option-disabled=
-  .label=Brak blokowania
-content-blocking-tracking-protection-option-always=
-  .label=Obligatoryjne blokowanie
-  .accesskey=e
-content-blocking-tracking-protection-option-private=
-  .label=Blokowanie w oknach prywatnych
-  .accesskey=B
-content-blocking-tracking-protection-change-blocklist=Zmień listę blokowanych…
-content-blocking-tracking-protection-change-block-list=Zmień listę blokowanych
-content-blocking-reject-trackers-label=Ciasteczka zewnętrznych witryn
-  .accesskey=C
-content-blocking-third-party-cookies-label=
-  .label=Ciasteczka zewnętrznych witryn
-  .accesskey=C
-content-blocking-reject-trackers-description=Blokowanie wszystkich ciasteczek zewnętrznych witryn lub tylko ustawianych przez elementy śledzące.
-content-blocking-reject-trackers-warning-all-cookies-blocked=Wszystkie ciasteczka są obecnie blokowane.
-content-blocking-reject-trackers-warning-from-unvisited-cookies-blocked=Ciasteczka nieodwiedzonych witryn są obecnie blokowane.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes=Ustawienia przechowywania ciasteczek i danych stron uniemożliwiają zmiany w ustawieniach ciasteczek zewnętrznych witryn.
-content-blocking-change-cookie-settings=
-  .label=Ustawienia dotyczące ciasteczek i danych stron
-  .accesskey=Z
-content-blocking-reject-trackers-block-trackers-option-recommended=
-  .label=Elementy śledzące (zalecane)
-  .accesskey=E
-content-blocking-reject-trackers-block-trackers-option=
-  .label=Elementy śledzące
-  .accesskey=E
-content-blocking-reject-trackers-all-third-parties-option=
-  .label=Wszystkie ciasteczka zewnętrznych witryn (może powodować problemy)
-  .accesskey=W
+    .label = Przywróć domyślne
+    .accesskey = P
+content-blocking-toggle-on =
+    .tooltiptext = Wyłącz blokowanie treści
+content-blocking-toggle-off =
+    .tooltiptext = Włącz blokowanie treści
+content-blocking-toggle-label-on = Włączone
+    .accesskey = W
+content-blocking-toggle-label-off = Wyłączone
+    .accesskey = W
+content-blocking-category-label = Blokowane elementy
+content-blocking-fastblock-slow-loading-trackers-label =
+    .label = Wolno wczytywane elementy śledzące
+    .accesskey = W
+content-blocking-fastblock-new-description = Blokowanie elementów śledzących uniemożliwiających szybkie wczytywanie stron.
+content-blocking-tracking-protection-trackers-label =
+    .label = Elementy śledzące
+    .accesskey = E
+content-blocking-tracking-protection-all-detected-trackers-label =
+    .label = Wszystkie wykryte elementy śledzące
+    .accesskey = W
+content-blocking-tracking-protection-new-description = Blokowanie wszystkich znanych elementów śledzących (niektóre strony mogą nie działać prawidłowo).
+content-blocking-tracking-protection-option-always =
+    .label = Obligatoryjne blokowanie
+    .accesskey = e
+content-blocking-tracking-protection-option-private =
+    .label = Blokowanie w oknach prywatnych
+    .accesskey = B
+content-blocking-tracking-protection-change-block-list = Zmień listę blokowanych
+content-blocking-third-party-cookies-label =
+    .label = Ciasteczka zewnętrznych witryn
+    .accesskey = C
+content-blocking-reject-trackers-description = Blokowanie wszystkich ciasteczek zewnętrznych witryn lub tylko ustawianych przez elementy śledzące.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Ustawienia przechowywania ciasteczek i danych stron uniemożliwiają zmiany w ustawieniach ciasteczek zewnętrznych witryn.
+content-blocking-change-cookie-settings =
+    .label = Ustawienia dotyczące ciasteczek i danych stron
+    .accesskey = Z
+content-blocking-reject-trackers-block-trackers-option-recommended =
+    .label = Elementy śledzące (zalecane)
+    .accesskey = E
+content-blocking-reject-trackers-block-trackers-option =
+    .label = Elementy śledzące
+    .accesskey = E
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Wszystkie ciasteczka zewnętrznych witryn (może powodować problemy)
+    .accesskey = W
 
-tracking-header=Ochrona przed śledzeniem
-tracking-desc=Ochrona przed śledzeniem blokuje elementy, które zbierają informacje o przeglądaniu na wielu różnych stronach. <a data-l10n-name="learn-more">Więcej informacji o ochronie przed śledzeniem i prywatności</a>.
-tracking-mode-label=Chroń przed śledzeniem przez znane elementy śledzące:
-tracking-mode-always=
-  .label=zawsze
-  .accesskey=z
-tracking-mode-private=
-  .label=w oknach prywatnych
-  .accesskey=w
-tracking-mode-never=
-  .label=nigdy
-  .accesskey=n
-tracking-pbm-label=Ochrona przed śledzeniem przez znane elementy śledzące w oknach prywatnych.
-  .accesskey=O
+## Privacy Section - Tracking
+
+tracking-header = Ochrona przed śledzeniem
+tracking-desc = Ochrona przed śledzeniem blokuje elementy, które zbierają informacje o przeglądaniu na wielu różnych stronach. <a data-l10n-name="learn-more">Więcej informacji o ochronie przed śledzeniem i prywatności</a>.
+tracking-mode-label = Chroń przed śledzeniem przez znane elementy śledzące:
+tracking-mode-always =
+    .label = zawsze
+    .accesskey = z
+tracking-mode-private =
+    .label = w oknach prywatnych
+    .accesskey = w
+tracking-mode-never =
+    .label = nigdy
+    .accesskey = n
 tracking-exceptions =
-  .label=Wyjątki…
-  .accesskey=W
-tracking-change-block-list=
-  .label=Zmień listę blokowanych…
-  .accesskey=Z
+    .label = Wyjątki…
+    .accesskey = W
+tracking-change-block-list =
+    .label = Zmień listę blokowanych…
+    .accesskey = Z
 
-do-not-track-description=Informuj witryny o preferencjach względem śledzenia (wysyłanie nagłówka „Do Not Track”):
-do-not-track-learn-more=Więcej informacji
-do-not-track-option-default=
-  .label=tylko podczas używania ochrony przed śledzeniem
-do-not-track-option-default-content-blocking=
-  .label=gdy { -brand-short-name } blokuje wykryte elementy śledzące
-do-not-track-option-always=
-  .label=zawsze
+## Privacy Section - Permissions
 
 permissions-header = Uprawnienia
 permissions-location = Położenie
@@ -677,28 +667,24 @@ permissions-notification = Powiadomienia.
 permissions-notification-settings =
     .label = Ustawienia…
     .accesskey = s
-permissions-notification-link=Więcej informacji
+permissions-notification-link = Więcej informacji
 permissions-notification-pause =
     .label = Wstrzymaj powiadomienia do czasu ponownego uruchomienia Firefoksa
     .accesskey = W
-
-permissions-block-autoplay-media=
-  .label=Blokowanie automatycznego odtwarzania treści z dźwiękiem przez strony
-  .accesskey=B
-permissions-block-autoplay-media-menu=Gdy witryny próbują automatycznie odtwarzać dźwięki:
-autoplay-option-ask=
-  .label=pytaj
-autoplay-option-allow=
-  .label=odtwarzaj
-autoplay-option-block=
-  .label=blokuj odtwarzanie
-autoplay-option-dont=
-  .label=nie odtwarzaj
-permissions-autoplay-link=Więcej informacji
-permissions-block-autoplay-media-exceptions=
-  .label=Wyjątki…
-  .accesskey=W
-
+permissions-block-autoplay-media =
+    .label = Blokowanie automatycznego odtwarzania treści z dźwiękiem przez strony
+    .accesskey = B
+permissions-block-autoplay-media-menu = Gdy witryny próbują automatycznie odtwarzać dźwięki:
+permissions-block-autoplay-media-exceptions =
+    .label = Wyjątki…
+    .accesskey = W
+autoplay-option-ask =
+    .label = pytaj
+autoplay-option-allow =
+    .label = odtwarzaj
+autoplay-option-dont =
+    .label = nie odtwarzaj
+permissions-autoplay-link = Więcej informacji
 permissions-block-popups =
     .label = Blokowanie wyskakujących okien
     .accesskey = B
@@ -714,7 +700,9 @@ permissions-addon-exceptions =
 permissions-a11y-privacy-checkbox =
     .label = Blokowanie dostępu do przeglądarki usługom ułatwień dostępu.
     .accesskey = u
-permissions-a11y-privacy-link=Więcej informacji
+permissions-a11y-privacy-link = Więcej informacji
+
+## Privacy Section - Data Collection
 
 collection-header = Dane zbierane przez program { -brand-short-name }
 collection-description = Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić program { -brand-short-name } dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem danych osobistych.
@@ -722,32 +710,39 @@ collection-privacy-notice = Uwagi dotyczące prywatności
 collection-health-report =
     .label = Przesyłanie do Mozilli danych technicznych i o interakcjach z programem.
     .accesskey = z
-collection-health-report-link=Więcej informacji
-collection-studies=
-  .label=Instalowanie i przeprowadzanie badań.
-collection-studies-link=Wyświetl badania
+collection-health-report-link = Więcej informacji
+collection-studies =
+    .label = Instalowanie i przeprowadzanie badań.
+collection-studies-link = Wyświetl badania
 collection-health-report-disabled = Przesyłanie danych jest wyłączone przy tej konfiguracji programu
 collection-browser-errors =
     .label = Przesyłanie raportów z błędów przeglądarki (razem z treścią błędów) do Mozilli.
     .accesskey = z
-collection-browser-errors-link=Więcej informacji
+collection-browser-errors-link = Więcej informacji
 collection-backlogged-crash-reports =
     .label = Przesyłanie zgromadzonych raportów z awarii.
     .accesskey = o
-collection-backlogged-crash-reports-link=Więcej informacji
+collection-backlogged-crash-reports-link = Więcej informacji
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Bezpieczeństwo
 security-browsing-protection = Ochrona przed oszustwami i niebezpiecznym oprogramowaniem
 security-enable-safe-browsing =
     .label = Blokowanie niebezpiecznych i podejrzanych treści.
     .accesskey = B
-security-enable-safe-browsing-link=Więcej informacji
+security-enable-safe-browsing-link = Więcej informacji
 security-block-downloads =
     .label = Blokowanie możliwości pobierania niebezpiecznych plików
     .accesskey = e
 security-block-uncommon-software =
     .label = Ostrzeganie przed niepożądanym i nietypowym oprogramowaniem
     .accesskey = n
+
+## Privacy Section - Certificates
 
 certs-header = Certyfikaty
 certs-personal-label = Kiedy serwer żąda osobistego certyfikatu użytkownika:
@@ -766,3 +761,8 @@ certs-view =
 certs-devices =
     .label = Urządzenia zabezpieczające…
     .accesskey = U
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Pulpit
+choose-download-folder-title = Wybór folderu dla pobieranych plików
