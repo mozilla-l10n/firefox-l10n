@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquiar
+permissions-capabilities-listitem-allow-first-party =
+    .value = Permitir namái les de primeres partes
 permissions-capabilities-listitem-allow-session =
     .value = Permitir pa la sesión
 

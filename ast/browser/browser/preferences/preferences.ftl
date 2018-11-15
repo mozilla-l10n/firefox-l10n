@@ -511,6 +511,20 @@ certs-view =
 certs-devices =
     .label = Preseos de seguridá…
     .accesskey = D
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Abrir opciones
+           *[other] Abrir preferencies
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] b
+           *[other] A
+        }
+space-alert-under-5gb-ok-button =
+    .label = Val, píllolo
+    .accesskey = a
 
 ## The following strings are used in the Download section of settings
 
