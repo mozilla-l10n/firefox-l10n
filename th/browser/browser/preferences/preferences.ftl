@@ -826,7 +826,32 @@ certs-view =
 certs-devices =
     .label = อุปกรณ์ความปลอดภัย…
     .accesskey = ค
+space-alert-learn-more-button =
+    .label = เรียนรู้เพิ่มเติม
+    .accesskey = ร
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] เปิดตัวเลือก
+           *[other] เปิดค่ากำหนด
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ป
+           *[other] ป
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] พื้นที่ดิสก์ของ { -brand-short-name } กำลังจะเต็ม เนื้อหาเว็บไซต์อาจแสดงผลไม่ถูกต้อง คุณสามารถล้างข้อมูลที่ถูกจัดเก็บไว้ได้ใน ตัวเลือก > ความเป็นส่วนตัวและความปลอดภัย > คุกกี้และข้อมูลไซต์
+       *[other] พื้นที่ดิสก์ของ { -brand-short-name } กำลังจะเต็ม เนื้อหาเว็บไซต์อาจแสดงผลไม่ถูกต้อง คุณสามารถล้างข้อมูลที่ถูกจัดเก็บไว้ได้ใน ค่ากำหนด > ความเป็นส่วนตัวและความปลอดภัย > คุกกี้และข้อมูลไซต์
+    }
+space-alert-under-5gb-ok-button =
+    .label = ตกลง เข้าใจแล้ว
+    .accesskey = ต
+space-alert-under-5gb-message = พื้นที่ดิสก์ของ { -brand-short-name } กำลังจะเต็ม เนื้อหาเว็บไซต์อาจแสดงผลไม่ถูกต้อง เยี่ยมชม “เรียนรู้เพิ่มเติม” เพื่อเพิ่มประสิทธิภาพการใช้งานดิสก์ของคุณสำหรับประสบการณ์การท่องเว็บที่ดีขึ้น
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = เดสก์ท็อป
+downloads-folder-name = การดาวน์โหลด
+choose-download-folder-title = เลือกโฟลเดอร์การดาวน์โหลด:
