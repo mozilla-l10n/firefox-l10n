@@ -23,14 +23,23 @@ close-button =
 ## Browser Restart Dialog
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
 ## General Section
 
 startup-header = Uénakua
-startup-blank-page =
-    .label = Xarhanharhita jimpanhi eranharhitakuani
 tabs-group-header = Arhukutarakua
 
 ## General Section - Language & Appearance
@@ -91,9 +100,6 @@ use-current-pages =
 choose-bookmark =
     .label = Kuirunharhikata Úrani…
     .accesskey = K
-restore-default =
-    .label = Péntani eska na jápka eranharhikua
-    .accesskey = P
 
 ## Search Section
 
@@ -137,9 +143,6 @@ history-dontremember-description = { -brand-short-name } ánchitarakuantku marhu
 history-private-browsing-permanent =
     .label = Juchiti ánchitarakuantku marhuata mentkisï
     .accesskey = J
-history-remember-option =
-    .label = Miatantakarini ampesïni xáni exe
-    .accesskey = M
 history-remember-search-option =
     .label = Miatantakarini nénasïni xéntapi
     .accesskey = M
@@ -152,15 +155,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = P’urhengorheni uératini
-sitedata-accept-third-party-never-option =
-    .label = Nóteru uétarhiakia
 sitedata-cookies-exceptions =
     .label = Ariichani nómpe…
     .accesskey = A
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -189,3 +191,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+
+## The following strings are used in the Download section of settings
+
+downloads-folder-name = Anchitarakua keskukuecha

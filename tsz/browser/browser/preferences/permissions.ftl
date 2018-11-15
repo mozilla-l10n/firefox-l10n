@@ -14,6 +14,10 @@ permissions-capabilities-allow =
     .label = Jierata
 permissions-capabilities-block =
     .label = Uraperantani
+permissions-capabilities-listitem-allow =
+    .value = Jierata
+permissions-capabilities-listitem-block =
+    .value = Uraperantani
 
 ## Invalid Hostname Dialog
 
@@ -31,6 +35,9 @@ permissions-capabilities-block =
 
 
 ## Exceptions - Add-ons
+
+
+## Exceptions - Autoplay Media
 
 
 ## Site Permissions - Notifications
