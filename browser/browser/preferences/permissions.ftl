@@ -44,6 +44,8 @@ permissions-capabilities-prompt =
     .label = Sentiasa Tanya
 permissions-capabilities-listitem-block =
     .value = Sekat
+permissions-capabilities-listitem-allow-first-party =
+    .value = Izinkan pihak pertama sahaja
 
 ## Invalid Hostname Dialog
 
