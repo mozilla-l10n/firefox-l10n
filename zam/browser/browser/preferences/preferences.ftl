@@ -27,14 +27,23 @@ should-restart-title = Bí~&rè là kíy { -brand-short-name }
 should-restart-ok = Bí~rè là kíy { -brand-short-name } nál
 restart-later = Bí~rè là kíy sé rá
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
 ## General Section
 
 startup-header = Tòlô
-startup-blank-page =
-    .label = Mb-lòɁ lô nakìs
 tabs-group-header = Loo yib
 
 ## General Section - Language & Appearance
@@ -105,9 +114,6 @@ use-current-pages =
 choose-bookmark =
     .label = Mxhen ko ka dohs do lahs na...
     .accesskey = k
-restore-default =
-    .label = Veré mte tetel
-    .accesskey = V
 
 ## Search Section
 
@@ -151,9 +157,6 @@ history-remember-option-custom =
 history-private-browsing-permanent =
     .label = Lii xhin navegación privada
     .accesskey = i
-history-remember-option =
-    .label = Ne loot kuan güiy ner kuan blaan
-    .accesskey = e
 history-remember-search-option =
     .label = Ne loot kuan güin ner mko key lo yets
     .accesskey = m
@@ -166,10 +169,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = Pa güin
-sitedata-accept-third-party-never-option =
-    .label = Yent ta
 sitedata-cookies-exceptions =
     .label = Koo tak toob luu...
     .accesskey = K
@@ -179,6 +178,9 @@ sitedata-cookies-exceptions =
 addressbar-locbar-bookmarks-option =
     .label = Ndó~làz=ná
     .accesskey = z
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
@@ -206,3 +208,7 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
+
+## The following strings are used in the Download section of settings
+
+downloads-folder-name = Re koo blaál

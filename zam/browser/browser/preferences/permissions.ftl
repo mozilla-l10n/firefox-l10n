@@ -22,6 +22,12 @@ permissions-capabilities-allow =
     .label = Lay
 permissions-capabilities-block =
     .label = Naa xhal luuy
+permissions-capabilities-listitem-allow =
+    .value = Lay
+permissions-capabilities-listitem-block =
+    .value = Naa xhal luuy
+permissions-capabilities-listitem-allow-session =
+    .value = Toob loo kue
 
 ## Invalid Hostname Dialog
 
@@ -39,6 +45,9 @@ permissions-capabilities-block =
 
 
 ## Exceptions - Add-ons
+
+
+## Exceptions - Autoplay Media
 
 
 ## Site Permissions - Notifications
