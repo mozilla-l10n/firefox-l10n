@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL za rozpušćenje DNS přez HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Standard wužiwać">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "t">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Za rozpušćenje DNS přez HTTPS standardny URL wužiwać">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Swójski">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "k">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Zapodajće swój preferowany URL za rozpušćenje DNS přez HTTPS">
