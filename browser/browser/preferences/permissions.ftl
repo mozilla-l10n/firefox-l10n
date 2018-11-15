@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Tillåt
 permissions-capabilities-listitem-block =
     .value = Blockera
+permissions-capabilities-listitem-allow-first-party =
+    .value = Tillåt endast första part
 permissions-capabilities-listitem-allow-session =
     .value = Tillåt för sessionen
 
