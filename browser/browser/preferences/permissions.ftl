@@ -23,6 +23,8 @@ permissions-capabilities-listitem-allow =
     .value = ଅନୁମତି ଦିଅନ୍ତୁ
 permissions-capabilities-listitem-block =
     .value = Block
+permissions-capabilities-listitem-allow-first-party =
+    .value = କେବଳ ପ୍ରଥମ ପକ୍ଷକୁ ଅନୁମତି ଦିଅନ୍ତୁ
 permissions-capabilities-listitem-allow-session =
     .value = ଅଧିବେଶନ ପାଇଁ ଅନୁମତି ଦିଅନ୍ତୁ
 
