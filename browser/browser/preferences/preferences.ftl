@@ -22,14 +22,23 @@ feature-enable-requires-restart = { -brand-short-name } zrëszë znowa bë włą
 feature-disable-requires-restart = { -brand-short-name } zrëszë znowa bë wëłączëc nã fùnkcjã.
 should-restart-title = Zrëszë { -brand-short-name } znowa.
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
 ## General Section
 
 startup-header = Zrëszanié
-startup-blank-page =
-    .label = wëskrzeni pùstą stronã
 tabs-group-header = Kôrtë
 show-tabs-in-taskbar =
     .label = Przeniesë kôrtë na lëstwã dzejaniô Windowsa
@@ -120,9 +129,6 @@ use-current-pages =
 choose-bookmark =
     .label = Ùżëjë załóżka…
     .accesskey = ż
-restore-default =
-    .label = Doprowadzë nazôd
-    .accesskey = n
 
 ## Search Section
 
@@ -178,9 +184,6 @@ history-dontremember-description = Program { -brand-short-name } bãdze brëkòw
 history-private-browsing-permanent =
     .label = Wiedno ùżëwôj tribu priwatnégò przezéraniô sécë
     .accesskey = Ù
-history-remember-option =
-    .label = Pamiãtôj historiã zladënków
-    .accesskey = z
 history-remember-search-option =
     .label = Spamiãtiwôj historiã szëkbë i fòrmùlarzów
     .accesskey = f
@@ -193,17 +196,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-always-option =
-    .label = Wiedno
-sitedata-accept-third-party-visited-option =
-    .label = Z òdwiedzanëch
-sitedata-accept-third-party-never-option =
-    .label = Nigdë
 sitedata-cookies-exceptions =
     .label = Wëjimczi…
     .accesskey = W
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -235,3 +235,9 @@ collection-backlogged-crash-reports-link = Wëdowiedzë sã wicy
 ## Privacy Section - Certificates
 
 certs-header = Certifikatë
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Pùlt
+downloads-folder-name = Zladënczi
+choose-download-folder-title = Wëbierzë katalog dlô zladënków:

@@ -22,6 +22,14 @@ permissions-capabilities-allow =
     .label = Zezwòlë
 permissions-capabilities-block =
     .label = Blokùjë
+permissions-capabilities-listitem-allow =
+    .value = Zezwòlë
+permissions-capabilities-listitem-block =
+    .value = Blokùjë
+permissions-capabilities-listitem-allow-first-party =
+    .value = Nie przijmùjë kùszków òd trzecëch firmów
+permissions-capabilities-listitem-allow-session =
+    .value = Zezwòlë dlô sesje
 
 ## Invalid Hostname Dialog
 
@@ -44,6 +52,9 @@ permissions-exceptions-popup-desc = Mòżesz wëbrac, chtërne stronë mògą ò
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Mòżesz wëbrac, chtërne stronë mògą instalowac dodôwczi. Wpiszë akùratny adres stronë, chtërny chcesz na to dac zgòdã, i klëkni na Zezwòlë.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
