@@ -27,6 +27,17 @@ close-button =
 
 should-restart-title = Ddamu otandike { -brand-short-name }
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -34,8 +45,6 @@ should-restart-title = Ddamu otandike { -brand-short-name }
 
 startup-header = Entandika
 is-default = { -brand-short-name } ye'nonyeso yo eyenkalakalira kakati
-startup-blank-page =
-    .label = Laga omuko omweerere
 tabs-group-header = Awaddirira
 show-tabs-in-taskbar =
     .label = Laga okunnoza awaddirira ku kabawo ke ebikola
@@ -129,9 +138,6 @@ use-current-pages =
 choose-bookmark =
     .label = Kozesa Akalambe…
     .accesskey = e
-restore-default =
-    .label = Zaawo Ebyenkalakalira
-    .accesskey = Z
 
 ## Search Section
 
@@ -188,9 +194,6 @@ history-dontremember-description = { -brand-short-name } ejja kkozesa entegekka 
 history-private-browsing-permanent =
     .label = Kozesanga okunonya okutongozeddwa ebiseera byoona
     .accesskey = u
-history-remember-option =
-    .label = Jjukira ebifudeyo mu kunoonya no okutikula kwange
-    .accesskey = u
 history-remember-search-option =
     .label = Jjukira enonyeddwa nebi genze mu fomu
     .accesskey = f
@@ -203,13 +206,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-never-option =
-    .label = Tekibanga
 sitedata-cookies-exceptions =
     .label = Okujjako…
     .accesskey = j
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -239,3 +243,9 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Zasatifiketi
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Sikulini
+downloads-folder-name = Ebiwanundwa
+choose-download-folder-title = Londako okuwanula ebasa:
