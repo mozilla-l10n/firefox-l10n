@@ -10,6 +10,7 @@ pw-change-ok = Haadwachtwurd suksesfol wizige. { pw-empty-warning }
 pw-empty-warning = Jo bewarre web- en e-mailwachtwurden, formuliergegevens en priveetoetskombinaasjes sille net beskermd wurde.
 pw-erased-ok = Jo ha jo haadwachtwurd fuortsmiten. { pw-empty-warning }
 pw-not-wanted = Warskôging! Jo ha besletten gjin haadwachtwurd te brûken.
+pw-change2empty-in-fips-mode = Jo binne no yn FIPS-modus. FIPS easket dat it haadwachtwurd net leech is.
 pw-change-success-title = Wachtwurdwiziging suksesfol
 pw-change-failed-title = Wachtwurdwiziging mislearre
 pw-remove-button =

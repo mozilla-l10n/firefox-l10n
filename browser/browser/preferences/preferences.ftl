@@ -860,11 +860,35 @@ certs-view =
 certs-devices =
     .label = Feilichheidsapparaten…
     .accesskey = F
+space-alert-learn-more-button =
+    .label = Mear ynfo
+    .accesskey = M
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opsjes iepenje
+           *[other] Foarkarren iepenje
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] F
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } hat hast gjin skiifromte mear. Ynhâld fan websites wurdt mooglik net goed werjûn. Jo kinne bewarre gegevens wiskje yn Opsjes > Privacy & Befeiliging > Cookies en websitegegevens.
+       *[other] { -brand-short-name } hat hast gjin skiifromte mear. Ynhâld fan websites wurdt mooglik net goed werjûn. Jo kinne bewarre gegevens wiskje yn Foarkarren > Privacy & Befeiliging > Cookies en websitegegevens.
+    }
+space-alert-under-5gb-ok-button =
+    .label = Ok, begrepen
+    .accesskey = k
+space-alert-under-5gb-message = { -brand-short-name } hat hast gjin skiifromte mear. Ynhâld fan websites wurdt mooglik net goed werjûn. Besykje ‘Mear ynfo’ om jo skiifgebrûk te optimalisearjen foar bettere prestaasjes.
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Búroblêd
 downloads-folder-name = Myn downloads
+choose-download-folder-title = Downloadmap kieze:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
