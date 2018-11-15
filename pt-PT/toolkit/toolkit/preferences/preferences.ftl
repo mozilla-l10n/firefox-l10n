@@ -12,5 +12,6 @@ pw-erased-ok = Apagou a sua palavra-passe mestra.  { pw-empty-warning }
 pw-not-wanted = Aviso! Decidiu não utilizar uma palavra-passe mestra.
 pw-change2empty-in-fips-mode = Atualmente, está no modo FIPS. Este modo requer uma palavra-passe mestra não vazia.
 pw-change-success-title = Palavra-passe alterada com sucesso
+pw-change-failed-title = Falha ao alterar a palavra-passe
 pw-remove-button =
     .label = Remover
