@@ -84,9 +84,6 @@ permissions-exceptions-addons-desc = எந்த இணையதளங்கள
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = தானியக்கம் - அனுமதியுள்ள தளங்கள்
-    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
