@@ -860,6 +860,12 @@ certs-view =
 certs-devices =
     .label = Turvallisuuslaitteet…
     .accesskey = T
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Työpöytä
+downloads-folder-name = Lataukset
+choose-download-folder-title = Valitse tallennuskansio
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
