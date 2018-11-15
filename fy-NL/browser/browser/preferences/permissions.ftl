@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Tastean
 permissions-capabilities-listitem-block =
     .value = Blokkearje
+permissions-capabilities-listitem-allow-first-party =
+    .value = Fan tredden blokkearje
 
 ## Invalid Hostname Dialog
 
