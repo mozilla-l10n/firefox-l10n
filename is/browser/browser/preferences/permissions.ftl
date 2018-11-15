@@ -48,6 +48,8 @@ permissions-capabilities-listitem-block =
     .value = Loka á
 permissions-capabilities-listitem-allow-first-party =
     .value = Leyfa aðeins fyrsta aðila
+permissions-capabilities-listitem-allow-session =
+    .value = Leyfa í þessari vafralotu
 
 ## Invalid Hostname Dialog
 
