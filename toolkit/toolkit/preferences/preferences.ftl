@@ -13,3 +13,5 @@ pw-not-wanted = Προειδοποίηση! Αποφασίσατε να μη χ�
 pw-change2empty-in-fips-mode = Αυτή τη στιγμή είστε σε λειτουργία FIPS. Το FIPS απαιτεί ένα μη-κενό κύριο κωδικό.
 pw-change-success-title = Επιτυχής αλλαγή κωδικού
 pw-change-failed-title = Αποτυχία αλλαγής κωδικού
+pw-remove-button =
+    .label = Αφαίρεση

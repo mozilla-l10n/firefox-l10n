@@ -823,6 +823,24 @@ certs-view =
 certs-devices =
     .label = Συσκευές ασφαλείας…
     .accesskey = Σ
+space-alert-learn-more-button =
+    .label = Μάθετε περισσότερα
+    .accesskey = Μ
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Άνοιγμα επιλογών
+           *[other] Άνοιγμα προτιμήσεων
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Π
+           *[other] Π
+        }
+space-alert-under-5gb-ok-button =
+    .label = OK, το 'πιασα
+    .accesskey = K
+space-alert-under-5gb-message = Το { -brand-short-name } δεν έχει επαρκή χώρο δίσκου. Το περιεχόμενο των ιστοσελίδων ενδέχεται να μην εμφανίζεται σωστά. Επισκεφθείτε το “Μάθετε περισσότερα” για να βελτιστοποιήσετε τη χρήση δίσκου σας για καλύτερη εμπειρία περιήγησης.
 
 ## The following strings are used in the Download section of settings
 
