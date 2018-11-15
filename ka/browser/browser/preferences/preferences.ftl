@@ -860,10 +860,35 @@ certs-view =
 certs-devices =
     .label = უსაფრთხოების მოწყობილობები…
     .accesskey = მ
+space-alert-learn-more-button =
+    .label = იხილეთ ვრცლად
+    .accesskey = მ
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] პარამეტრების გახსნა
+           *[other] პარამეტრების გახსნა
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] პ
+           *[other] პ
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name }-ს ეწურება სივრცის მარაგი დისკზე. საიტების შიგთავსი, შეიძლება არ გამოჩნდეს სათანადოდ. შენახული მონაცემების წაშლა და ადგილის გამოთავისუფლება შეგიძლიათ მენიუდან – პარამეტრები > პირადულობა და უსაფრთხოება > ფუნთუშები და საიტის მონაცემები.
+       *[other] { -brand-short-name }-ს ეწურება სივრცის მარაგი დისკზე. საიტების შიგთავსი, შეიძლება არ გამოჩნდეს სათანადოდ. შენახული მონაცემების წაშლა და ადგილის გამოთავისუფლება შეგიძლიათ მენიუდან – პარამეტრები > პირადულობა და უსაფრთხოება > ფუნთუშები და საიტის მონაცემები.
+    }
+space-alert-under-5gb-ok-button =
+    .label = კარგი, გასაგებია
+    .accesskey = კ
+space-alert-under-5gb-message = { -brand-short-name }-ს ეწურება სივრცის მარაგი დისკზე. საიტების შიგთავსი, შეიძლება არ გამოჩნდეს სათანადოდ. “შეიტყვეთ მეტი”, თუ როგორ გამოათავისუფლოთ ადგილი დისკზე რომ გაუმჯობესდეს გვერდების მონახულების პროცესი.
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = სამუშაო ეკრანი
 downloads-folder-name = ჩამოტვირთვები
+choose-download-folder-title = ჩამოტვირთვების საქაღალდის არჩევა:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
