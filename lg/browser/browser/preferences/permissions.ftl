@@ -37,6 +37,12 @@ permissions-capabilities-block =
     .label = Zibikkira
 permissions-capabilities-prompt =
     .label = Buuza bulikasera
+permissions-capabilities-listitem-allow =
+    .value = Kkiriza
+permissions-capabilities-listitem-block =
+    .value = Zibikkira
+permissions-capabilities-listitem-allow-session =
+    .value = Kkiriza kurwa Ekiseera
 
 ## Invalid Hostname Dialog
 
