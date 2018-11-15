@@ -5,6 +5,13 @@
 password-not-set =
     .value = (не встановлено)
 failed-pw-change = Неможливо змінити головний пароль.
+incorrect-pw = Ви ввели неправильний поточний головний пароль. Спробуйте ще раз.
+pw-change-ok = Головний пароль успішно змінено. { pw-empty-warning }
+pw-empty-warning = Ваші збережені паролі інтернету та електронної пошти, дані форм і закриті ключі не будуть захищені.
+pw-erased-ok = Ви вилучили свій головний пароль. { pw-empty-warning }
 pw-not-wanted = Попередження! Ви вирішили не використовувати головний пароль.
+pw-change2empty-in-fips-mode = Зараз ви в режимі FIPS. Для цього режиму необхідний головний пароль.
 pw-change-success-title = Пароль змінено
 pw-change-failed-title = Помилка зміни пароля
+pw-remove-button =
+    .label = Вилучити
