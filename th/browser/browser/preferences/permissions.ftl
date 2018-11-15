@@ -42,6 +42,8 @@ permissions-capabilities-block =
     .label = ปิดกั้น
 permissions-capabilities-prompt =
     .label = ถามเสมอ
+permissions-capabilities-listitem-allow =
+    .value = อนุญาต
 
 ## Invalid Hostname Dialog
 
