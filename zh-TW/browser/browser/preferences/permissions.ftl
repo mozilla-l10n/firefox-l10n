@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = 允許
 permissions-capabilities-listitem-block =
     .value = 阻擋
+permissions-capabilities-listitem-allow-first-party =
+    .value = 僅允許第一方
 
 ## Invalid Hostname Dialog
 
