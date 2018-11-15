@@ -843,6 +843,24 @@ certs-view =
 certs-devices =
     .label = Segurtasun-gailuak…
     .accesskey = S
+space-alert-learn-more-button =
+    .label = Argibide gehiago
+    .accesskey = A
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Ireki aukerak
+           *[other] Ireki hobespenak
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] I
+           *[other] I
+        }
+space-alert-under-5gb-ok-button =
+    .label = Ados, ulertu dut
+    .accesskey = A
+space-alert-under-5gb-message = { -brand-short-name } leku erabilgarririk gabe gelditzen ari da diskoan. Webgunearen edukiak agian ez dira ondo bistaratuko. Bisitatu "Argibide gehiago" diskoaren erabilpena optimizatu eta nabigatze-esperientzia hobetzeko.
 
 ## The following strings are used in the Download section of settings
 
