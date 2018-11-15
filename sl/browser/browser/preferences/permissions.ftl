@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Prepovej
 permissions-capabilities-prompt =
     .label = Vedno vprašaj
+permissions-capabilities-listitem-allow =
+    .value = Dovoli
+permissions-capabilities-listitem-block =
+    .value = Prepovej
+permissions-capabilities-listitem-allow-first-party =
+    .value = Dovoli samo lastne
+permissions-capabilities-listitem-allow-session =
+    .value = Dovoli v tej seji
 
 ## Invalid Hostname Dialog
 
