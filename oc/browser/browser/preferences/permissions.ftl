@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Autorizar
 permissions-capabilities-listitem-block =
     .value = Blocar
+permissions-capabilities-listitem-allow-first-party =
+    .value = Domeni principal sol
 
 ## Invalid Hostname Dialog
 
