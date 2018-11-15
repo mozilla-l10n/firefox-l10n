@@ -796,6 +796,9 @@ certs-view =
 certs-devices =
     .label = सुरक्षा साधने
     .accesskey = D
+space-alert-learn-more-button =
+    .label = अधिक जाणा
+    .accesskey = L
 space-alert-over-5gb-pref-button =
     .label =
         { PLATFORM() ->
