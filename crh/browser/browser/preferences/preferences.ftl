@@ -318,7 +318,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Şebeke Proksisi
 network-proxy-connection-description = { -brand-short-name } kezicisiniñ İnternet'ke nasıl bağlanacağını endamlandırıñız.
 network-proxy-connection-learn-more = Daa Çoq Ögren
 network-proxy-connection-settings =
@@ -582,26 +581,12 @@ sitedata-total-size-calculating = Sayt verileri ve zula ölçüsi esaplana…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Saqlanğan çörekler, sayt verileri ve zulañız al-azırda { $value } { $unit } disk fezası qullana.
 sitedata-learn-more = Daha çoq ögren
-sitedata-accept-cookies-option =
-    .label = Ağ saytlarından çöreklerni ve sayt verilerini qabul et (tevsiye etilir)
-    .accesskey = k
-sitedata-block-cookies-option =
-    .label = Çöreklerni ve sayt verilerini blokla (ağ-saytlarınıñ sınmasına sebebiyet berebilir)
-    .accesskey = b
 sitedata-keep-until = Tutuş zamanı
     .accesskey = u
 sitedata-keep-until-expire =
     .label = Olar eskirgence
 sitedata-keep-until-closed =
     .label = { -brand-short-name } qapatılğance
-sitedata-accept-third-party-desc = Üçünci-taraf çöreklerini ve sayt verilerini qabul et
-    .accesskey = n
-sitedata-accept-third-party-always-option =
-    .label = Er zaman
-sitedata-accept-third-party-visited-option =
-    .label = Ziyaret etilgenlerden
-sitedata-accept-third-party-never-option =
-    .label = Asla
 sitedata-clear =
     .label = Verilerni Temizle…
     .accesskey = l
@@ -644,26 +629,6 @@ content-blocking-toggle-label-on = AÇIQ
 content-blocking-toggle-label-off = SÖNÜK
     .accesskey = K
 content-blocking-category-label = Nelerniñ bloklanacağını saylañız
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Yavaş İzleyici Unsurlar
-    .accesskey = Y
-content-blocking-fastblock-description = Yüklenmesi 5 saniyeden uzun sürgen üçünci taraf muhtevasını bloklar.
-content-blocking-fastblock-option-enabled =
-    .label = Er zaman blokla
-content-blocking-fastblock-option-disabled =
-    .label = Asla bloklama
-content-blocking-tracking-protection-label = İzleyiciler
-    .accesskey = z
-content-blocking-tracking-protection-description = Bilingen episi izleyicilerni bloklar (Not: Bazı saifelerniñ yüklenmesini de öñleybilir.)
-content-blocking-tracking-protection-option-enabled =
-    .label = Er zaman blokla
-content-blocking-tracking-protection-option-pbm =
-    .label = Faqat hususiy pencerelerde blokla
-content-blocking-tracking-protection-option-disabled =
-    .label = Asla bloklama
-content-blocking-tracking-protection-change-blocklist = Bloklama listesini deñiştir…
 
 ## Privacy Section - Tracking
 
@@ -679,10 +644,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Asla
     .accesskey = A
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Gizli Gezinti’de bilinen takipçileri engellemek için İzlenme Koruması’nı kullan
-    .accesskey = G
 tracking-exceptions =
     .label = İstisnalar…
     .accesskey = r
@@ -804,3 +765,6 @@ certs-view =
 certs-devices =
     .label = Emniyet Cihazları…
     .accesskey = C
+
+## The following strings are used in the Download section of settings
+

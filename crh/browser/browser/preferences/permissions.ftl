@@ -85,10 +85,6 @@ permissions-exceptions-addons-desc = Qaysı ağ-saytlarına eklentiler qurmağa 
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = İzin Berilgen Saytlar - Avtomatik Oynatma
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Angi saytlarğa vasat unsurlarını avtomatik oynatmağa caiz olğanını belirtebilirsiñiz. İzin bermege istgeniñiz saytnıñ tam adresini yazıp “İzin Ber”ge çertiñiz.
 permissions-exceptions-autoplay-media-window2 =
     .title = İstisnalar - Avtooynatma
     .style = { permissions-window.style }
