@@ -48,6 +48,8 @@ permissions-capabilities-listitem-block =
     .value = Bloquear
 permissions-capabilities-listitem-allow-first-party =
     .value = Permitir apenas primeiros
+permissions-capabilities-listitem-allow-session =
+    .value = Permitir para a sessão
 
 ## Invalid Hostname Dialog
 

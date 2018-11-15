@@ -874,6 +874,11 @@ space-alert-over-5gb-pref-button =
             [windows] A
            *[other] A
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] O { -brand-short-name } está a ficar sem espaço em disco. Os conteúdos de websites podem não ser mostrados corretamente. Pode limpar os dados armazenados em Opções > Privacidade e Segurança > Cookies e dados de sites.
+       *[other] O { -brand-short-name } está a ficar sem espaço em disco. Os conteúdos de websites podem não ser mostrados corretamente. Pode limpar os dados armazenados em Preferências > Privacidade e Segurança > Cookies e dados de sites.
+    }
 space-alert-under-5gb-ok-button =
     .label = OK, entendi
     .accesskey = K
@@ -882,6 +887,8 @@ space-alert-under-5gb-message = O { -brand-short-name } está a ficar sem espaç
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Ambiente de trabalho
+downloads-folder-name = Transferências
+choose-download-folder-title = Escolha a pasta de transferências:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
