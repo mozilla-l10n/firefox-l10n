@@ -12,6 +12,10 @@ cfr-doorhanger-extension-cancel-button=Nie teraz
 cfr-doorhanger-extension-ok-button=Dodaj
   .accesskey=D
 cfr-doorhanger-extension-mange-settings-button=Ustawienia polecania
+cfr-doorhanger-extension-manage-settings-button=Ustawienia polecania
+  .accesskey=U
+cfr-doorhanger-extension-never-show-recommendation=Nie pokazuj więcej polecenia tego rozszerzenia
+  .accesskey=e
 cfr-doorhanger-extension-learn-more-link=Więcej informacji
 
 cfr-doorhanger-extension-author=Autor: { $name }
