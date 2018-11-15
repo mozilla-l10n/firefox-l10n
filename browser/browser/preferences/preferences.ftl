@@ -24,14 +24,23 @@ close-button =
 ## Browser Restart Dialog
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
 ## General Section
 
 startup-header = Ntangiriro
-startup-blank-page =
-    .label = Kwerekana paji itanditsweho
 tabs-group-header = Udufishi
 
 ## General Section - Language & Appearance
@@ -102,9 +111,6 @@ use-current-pages =
            *[other] Koresha Paji Ziriho
         }
     .accesskey = I
-restore-default =
-    .label = Kugaruraho ku Mburabuzi
-    .accesskey = g
 
 ## Search Section
 
@@ -146,6 +152,9 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 
@@ -173,3 +182,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Ibyemezo
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Ibiro
+choose-download-folder-title = Guhitamo Ububiko bw'Iyimura:
