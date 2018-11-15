@@ -853,6 +853,30 @@ certs-view =
 certs-devices =
     .label = Tekorosã mba'e'oka rehegua…
     .accesskey = m
+space-alert-learn-more-button =
+    .label = Kuaave
+    .accesskey = K
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Jeporavorãme jeike
+           *[other] Jerohoryvéva juruja
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] J
+           *[other] J
+        }
+space-alert-under-5gb-ok-button =
+    .label = OK, arekóma
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } opyta hína disco pa'ũ'ỹre. Ikatu hína ñanduti renda retepy ndojehechaukái hekopete. Eike “Kuaave” eipuru porã hag̃ua disco ne kundaha hekoresãi hag̃ua avei.
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Mba'erechaha
+downloads-folder-name = Ñemboguejy
+choose-download-folder-title = Ñemboguejy ñongatuha poravo:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =

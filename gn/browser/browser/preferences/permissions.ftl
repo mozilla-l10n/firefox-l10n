@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Jokoha
 permissions-capabilities-prompt =
     .label = Porandu Tapia
+permissions-capabilities-listitem-allow =
+    .value = Moneĩ
+permissions-capabilities-listitem-block =
+    .value = Jokoha
+permissions-capabilities-listitem-allow-first-party =
+    .value = Ñepyrũguáva año ñemoneĩ
+permissions-capabilities-listitem-allow-session =
+    .value = Tembiapópe g̃uarã moneĩ
 
 ## Invalid Hostname Dialog
 
