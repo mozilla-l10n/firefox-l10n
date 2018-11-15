@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = ਮਨਜ਼ੂਰ
 permissions-capabilities-listitem-block =
     .value = ਪਾਬੰਦੀ
+permissions-capabilities-listitem-allow-first-party =
+    .value = ਕੇਵਲ ਪਹਿਲੀ-ਧਿਰ ਹੀ ਮਨਜ਼ੂਰ ਕਰੋ
 permissions-capabilities-listitem-allow-session =
     .value = ਸ਼ੈਸ਼ਨ ਲਈ ਸਵੀਕਾਰ
 
