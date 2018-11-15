@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Blokiraj
 permissions-capabilities-prompt =
     .label = Uvijek pitaj
+permissions-capabilities-listitem-allow =
+    .value = Dopusti
+permissions-capabilities-listitem-block =
+    .value = Blokiraj
+permissions-capabilities-listitem-allow-session =
+    .value = Dopusti za sesiju
 
 ## Invalid Hostname Dialog
 
