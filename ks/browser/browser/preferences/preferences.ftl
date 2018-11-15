@@ -5,8 +5,8 @@
 pref-page =
     .title =
         { PLATFORM() ->
-            [windows] آپشنس  
-           *[other] ترجیح 
+            [windows] آپشنس
+           *[other] ترجیح
         }
 pane-general-title = عام
 category-general =
@@ -19,13 +19,24 @@ category-privacy =
 category-sync =
     .tooltiptext = { pane-sync-title }
 close-button =
-    .aria-label = بند  
+    .aria-label = بند
 
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = گْژھ ضرور  دوبار شروع گژھُن یہ فیچر اینیبْل کرنْہ باپت۔{ -brand-short-name }
 feature-disable-requires-restart = گْژھ ضرور  دوبار شروع گژھُن یہ فییچر  ڈیسیبْل کرنْہ باپت۔{ -brand-short-name }
 should-restart-title = { -brand-short-name }  كریو وئن شروع
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -40,8 +51,6 @@ separate-profile-mode =
 use-firefox-sync = ٹِپ:  یہ چُھ استعمال کران الگ پروفایل۔ استعمال کْریو سینک شییر ڈاٹا کرنْہ باپت تمن منز۔
 is-default = برینڈ لكُٹ ناو چھُ حالس تُہند ڈیفالٹ براوزر
 is-not-default = برانڈ شاٹ ناو چھُ حالس تُہند ڈیفالٹ براوزر&
-startup-blank-page =
-    .label = خٲلی صفحئ ہٲویو
 tabs-group-header = ٹیبس
 show-tabs-in-taskbar =
     .label = ٹیب پیْ منظر ہٲویو وِندوز تاسك بارس منز
@@ -141,9 +150,6 @@ use-current-pages =
 choose-bookmark =
     .label = نشان زد كریو استیمال
     .accesskey = B
-restore-default =
-    .label = ڈیفالٹ كریو ری سٹور
-    .accesskey = R
 
 ## Search Section
 
@@ -216,9 +222,6 @@ history-dontremember-description = &برانڈ شاٹ ناو؛ کرِ استعم
 history-private-browsing-permanent =
     .label = ہمیشئ كریو پوشیدئ براوزینگ موڈ
     .accesskey = p
-history-remember-option =
-    .label = میٖن براوزِگ تئ ڈاونلوڈ تٲریخ تھٲویو یاد
-    .accesskey = b
 history-remember-search-option =
     .label = ژھانڈ تئ فارم تٲريخ تھٲویو یاد
     .accesskey = f
@@ -231,10 +234,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = سْیر کرنْہ آمتِہ پیٹھ
-sitedata-accept-third-party-never-option =
-    .label = زانہہ نْہ
 sitedata-cookies-exceptions =
     .label = غٲر مومول...
     .accesskey = E
@@ -247,6 +246,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = ٹیب  كھولیو
     .accesskey = ٹ
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
@@ -278,3 +280,9 @@ certs-header = سرٹیفیکٹس
 certs-enable-ocsp =
     .label = کیوری او سی ایس پی ریسپانڈر سْرور تصدیق کرنْہ باپت موجود ویلیڈیٹی سرٹیفیکٹن ہْنز
     .accesskey = ک
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = ڈیسك ٹاپ
+downloads-folder-name = ڈاونلوڈس
+choose-download-folder-title = ڈاونلوڈس فولڈر ژٲریو
