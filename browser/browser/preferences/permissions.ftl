@@ -42,6 +42,8 @@ permissions-capabilities-block =
     .label = Blokeatu
 permissions-capabilities-prompt =
     .label = Galdetu beti
+permissions-capabilities-listitem-block =
+    .value = Blokeatu
 
 ## Invalid Hostname Dialog
 
@@ -85,10 +87,6 @@ permissions-exceptions-addons-desc = Gehigarriak instalatzeko baimena duten webg
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Baimendutako webguneak - Erreprodukzio automatikoa
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Multimedia elementuak automatikoki erreproduzitzeko baimena duten webguneak zehatz ditzakezu. Idatzi baimendu nahi duzun gunearen helbide zehatza eta egin klik 'Baimendu' botoian.
 permissions-exceptions-autoplay-media-window2 =
     .title = Salbuespenak - Auto-erreprodukzioa
     .style = { permissions-window.style }

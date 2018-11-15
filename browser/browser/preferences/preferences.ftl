@@ -843,3 +843,7 @@ certs-view =
 certs-devices =
     .label = Segurtasun-gailuak…
     .accesskey = S
+
+## The following strings are used in the Download section of settings
+
+downloads-folder-name = Deskargak
