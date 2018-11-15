@@ -48,6 +48,8 @@ permissions-capabilities-listitem-block =
     .value = Engelle
 permissions-capabilities-listitem-allow-first-party =
     .value = Yalnızca ilk partiye izin ver
+permissions-capabilities-listitem-allow-session =
+    .value = Oturum boyunca izin ver
 
 ## Invalid Hostname Dialog
 

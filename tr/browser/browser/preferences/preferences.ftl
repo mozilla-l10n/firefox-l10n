@@ -888,6 +888,7 @@ space-alert-under-5gb-message = { -brand-short-name } tarafından kulllanılabil
 
 desktop-folder-name = Masaüstü
 downloads-folder-name = İndirilenler
+choose-download-folder-title = İndirme klasörünü seçin:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
