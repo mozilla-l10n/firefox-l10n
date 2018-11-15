@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-not-set =
+    .value = (ayarlanmadı)
 failed-pw-change = Ana parola değiştirilemedi.
 incorrect-pw = Ana parolanızı doğru şekilde girmediniz. Lütfen tekrar deneyin.
 pw-change-ok = Ana parola başarılı bir şekilde değiştirildi. { pw-empty-warning }
