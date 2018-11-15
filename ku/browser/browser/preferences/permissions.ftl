@@ -22,8 +22,12 @@ permissions-capabilities-allow =
     .label = Destûrê bide
 permissions-capabilities-block =
     .label = Asteng Bike
+permissions-capabilities-listitem-allow =
+    .value = Destûrê bide
 permissions-capabilities-listitem-block =
     .value = Asteng Bike
+permissions-capabilities-listitem-allow-session =
+    .value = Ji bo daniştinê destûrê bidê
 
 ## Invalid Hostname Dialog
 
