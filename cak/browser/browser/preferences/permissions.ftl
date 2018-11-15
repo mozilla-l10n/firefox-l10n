@@ -42,6 +42,8 @@ permissions-capabilities-block =
     .label = Tiq'eleb'ëx
 permissions-capabilities-prompt =
     .label = Junelïk tik'utüx pe
+permissions-capabilities-listitem-block =
+    .value = Tiq'eleb'ëx
 
 ## Invalid Hostname Dialog
 
@@ -85,10 +87,6 @@ permissions-exceptions-addons-desc = Yatikïr naya' retal pan achike ruxaq k'ama
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Ajk'amaya'l Ruxaq Ya'on q'ij - Ruyon Nitzijtäj
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Tikirel niya' ketal ri ajk'amaya'l taq ruxaq ya'on q'ij chi ke richin ruyon yekitzïj taq kich'akulal tob'äl. Tikirel nitz'ib'äx ri rochochib'al ruxaq naya' q'ij chi re k'a ri' tapitz'a' Tiya' Q'ij.
 permissions-exceptions-autoplay-media-window2 =
     .title = Taq Merelik - Titzij Ruyon
     .style = { permissions-window.style }
