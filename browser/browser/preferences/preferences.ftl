@@ -565,3 +565,9 @@ certs-view =
 certs-devices =
     .label = ಸುರಕ್ಷತಾ ಸಾಧನಗಳು…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = ಗಣಕತೆರೆ
+downloads-folder-name = ಡೌನ್‌ಲೋಡ್‌ಗಳು
+choose-download-folder-title = ಡೌನ್‌ಲೋಡ್‌ ಕಡತಕೋಶವನ್ನು ಆರಿಸು:
