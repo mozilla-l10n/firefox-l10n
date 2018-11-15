@@ -700,3 +700,9 @@ certs-view =
 certs-devices =
     .label = سلامتی آلات
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = ڈیسک ٹاپ
+downloads-folder-name = ڈاؤن لوڈ
+choose-download-folder-title = ڈاؤن لوڈ پوشہ انتخاب کریں:

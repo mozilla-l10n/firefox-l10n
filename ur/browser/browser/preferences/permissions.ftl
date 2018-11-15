@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = بلاک کریں
 permissions-capabilities-prompt =
     .label = ہمیشہ پوچھیں
+permissions-capabilities-listitem-allow =
+    .value = ہونے دیں
+permissions-capabilities-listitem-block =
+    .value = بلاک کریں
+permissions-capabilities-listitem-allow-session =
+    .value = سیشن کے لیے اجازت دیں
 
 ## Invalid Hostname Dialog
 
