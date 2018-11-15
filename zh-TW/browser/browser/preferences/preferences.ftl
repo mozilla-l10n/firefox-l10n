@@ -848,6 +848,29 @@ certs-view =
 certs-devices =
     .label = 安全性裝置…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = 了解更多
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] 開啟選項
+           *[other] 開啟偏好設定
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } 的磁碟空間不足，網站內容可能無法正確顯示。您可以到選項 > 隱私權與安全性 > Cookie 與網站資料清除目前已儲存的網站資料。
+       *[other] { -brand-short-name } 的磁碟空間不足，網站內容可能無法正確顯示。您可以到偏好設定 > 隱私權與安全性 > Cookie 與網站資料清除目前已儲存的網站資料。
+    }
+space-alert-under-5gb-ok-button =
+    .label = 好，知道了
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } 的磁碟空間不足，網站內容可能無法正確顯示。請點擊「瞭解更多」清理磁碟空間，讓您有更好的瀏覽體驗。
 
 ## The following strings are used in the Download section of settings
 
