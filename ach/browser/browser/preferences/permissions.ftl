@@ -42,6 +42,8 @@ permissions-capabilities-block =
     .label = Geng
 permissions-capabilities-prompt =
     .label = Peny jwijwi
+permissions-capabilities-listitem-allow =
+    .value = Ye
 
 ## Invalid Hostname Dialog
 
@@ -78,9 +80,6 @@ permissions-exceptions-addons-desc = I twero cimo kakube mene ma kiye me keto me
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Kakube ma ki yee - Tuko pire kene
-    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
