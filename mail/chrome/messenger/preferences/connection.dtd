@@ -50,3 +50,7 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL για επίλυση DNS αντί HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Χρήση προεπιλογής">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "λ">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Προσαρμοσμένο">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "μ">
