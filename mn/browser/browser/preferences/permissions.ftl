@@ -24,6 +24,8 @@ permissions-capabilities-block =
     .label = Хорих
 permissions-capabilities-listitem-allow =
     .value = Зөвшөөр
+permissions-capabilities-listitem-block =
+    .value = Хорих
 permissions-capabilities-listitem-allow-session =
     .value = Тухайн хэсэгт зөвшөөр
 
