@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = ನಿರ್ಬಂಧಿಸು
 permissions-capabilities-prompt =
     .label = ಯಾವಾಗಲೂ ಕೇಳು
+permissions-capabilities-listitem-allow =
+    .value = ಅನುಮತಿಸು
+permissions-capabilities-listitem-block =
+    .value = ನಿರ್ಬಂಧಿಸು
+permissions-capabilities-listitem-allow-session =
+    .value = ಅಧಿವೇಶನಕ್ಕೆ ಅನುಮತಿಸು
 
 ## Invalid Hostname Dialog
 
