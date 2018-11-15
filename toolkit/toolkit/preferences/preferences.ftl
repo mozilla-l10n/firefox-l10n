@@ -8,6 +8,7 @@ failed-pw-change = Byanze guhindura Ijambobanga Ngenga.
 incorrect-pw = Ntabwo winjije neza Ijambobanga Ngenga igezweho. Usabwe gusubiramo.
 pw-change-ok = Ijambobanga Ngenga yahinduwe neza. { pw-empty-warning }
 pw-empty-warning = Imeli na za webu wabitse, ama fishi y'ibyibanze, n'infunguzo zigenga ntibizacungwa.
+pw-erased-ok = Wasibye Ijambobanga Ngenga yawe.  { pw-empty-warning }
 pw-not-wanted = Iburira! Wahisemo kutakoresha Ijambobanga Ngenga.
 pw-change2empty-in-fips-mode = Uri ubungubu mu buryo bwa FIPS. FIPS ikeneye Ijambobanga Ngenga itarimo ubusa.
 pw-change-success-title = Guhindura ijambobanga byakunze
