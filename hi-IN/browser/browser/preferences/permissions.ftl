@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = रोकें
 permissions-capabilities-prompt =
     .label = हमेशा पूछें
+permissions-capabilities-listitem-allow =
+    .value = अनुमति दें
+permissions-capabilities-listitem-block =
+    .value = रोकें
+permissions-capabilities-listitem-allow-session =
+    .value = सत्र के लिये अनुमति दें
 
 ## Invalid Hostname Dialog
 
@@ -85,10 +91,6 @@ permissions-exceptions-addons-desc = कौन-सी वेबसाइटे�
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = अनुमत वेबसाइट - स्वत: प्ले
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = आप निर्दिष्ट कर सकते हैं कि किन वेबसाइटों को स्वचालित रूप से मीडिया तत्वों को चलने की अनुमति है. उस साइट का सटीक पता लिखें जिसे आप अनुमति देना चाहते हैं और फिर अनुमति दें पर क्लिक करें.
 permissions-exceptions-autoplay-media-window2 =
     .title = अपवाद - ऑटोप्ले
     .style = { permissions-window.style }

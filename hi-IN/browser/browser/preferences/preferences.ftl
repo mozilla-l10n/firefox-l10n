@@ -814,3 +814,9 @@ certs-view =
 certs-devices =
     .label = सुरक्षा उपकरण…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = डेस्कटॉप
+downloads-folder-name = डाउनलोड
+choose-download-folder-title = डाउनलोड फोल्डर चुनें:
