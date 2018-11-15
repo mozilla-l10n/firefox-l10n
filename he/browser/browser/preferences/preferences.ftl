@@ -866,3 +866,4 @@ space-alert-under-5gb-message = ל־{ -brand-short-name } אוזל שטח הדי
 
 desktop-folder-name = שולחן עבודה
 downloads-folder-name = הורדות
+choose-download-folder-title = בחירת תיקייה להורדה:
