@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = अडवा
 permissions-capabilities-prompt =
     .label = नेहमी विचारा
+permissions-capabilities-listitem-allow =
+    .value = परवानगी द्या
+permissions-capabilities-listitem-block =
+    .value = अडवा
+permissions-capabilities-listitem-allow-session =
+    .value = कार्यकाळापूरती परवानगी द्या
 
 ## Invalid Hostname Dialog
 
@@ -85,10 +91,6 @@ permissions-exceptions-addons-desc = कुठल्या संकेतस्
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = अनुमती दिलेल्या साइट - स्वयंचलित
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = कुठल्या संकेतस्थाळांना स्वायत्तपणे मीडिया चालवू द्यायचा हे आपण निश्चित करू शकता. त्याकरता हव्या असलेल्या स्थळाचा पत्ता लिहा व परवानगी आहे वर क्लिक करा.
 permissions-exceptions-autoplay-media-desc2 = कुठल्या संकेतस्थाळांना स्वायत्तपणे ध्वनीसह मीडिया चालवू द्यायचा हे आपण निश्चित करू शकता. त्याकरता हव्या असलेल्या स्थळाचा पत्ता लिहा व आडवा किंवा परवानगी आहे वर क्लिक करा.
 
 ## Site Permissions - Notifications
