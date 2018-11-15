@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Herzel
 permissions-capabilities-prompt =
     .label = Goulenn bewech
+permissions-capabilities-listitem-allow =
+    .value = Aotren
+permissions-capabilities-listitem-block =
+    .value = Herzel
+permissions-capabilities-listitem-allow-first-party =
+    .value = Aotren evit an domani pennañ nemetken
+permissions-capabilities-listitem-allow-session =
+    .value = Aotren evit an estez
 
 ## Invalid Hostname Dialog
 

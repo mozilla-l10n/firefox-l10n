@@ -866,6 +866,12 @@ certs-view =
 certs-devices =
     .label = Trevnadoù diogelroez…
     .accesskey = T
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Burev
+downloads-folder-name = Pellgargadurioù
+choose-download-folder-title = Dibab un teuliad pellgargañ
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
