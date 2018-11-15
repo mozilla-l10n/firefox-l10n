@@ -844,6 +844,28 @@ certs-view =
 certs-devices =
     .label = સુરક્ષા ઉપકરણો…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = વધુ શીખો
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] વિકલ્પો ખોલો
+           *[other] પસંદગીઓને ખોલો
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } ડિસ્ક જગ્યામાંથી બહાર ચાલી રહ્યું છે. વેબસાઈટની વિષયવસ્તુ કદાચ યોગ્ય રીતે દર્શાશે નહીં. તમે સંગ્રહિત સાઇટ ડેટાને સાફ કરી શકો છો વિકલ્પો > ગોપનીયતા અને સુરક્ષા > કૂકીઝ અને સાઈટ ડેટા.
+       *[other] { -brand-short-name } ડિસ્ક જગ્યામાંથી બહાર ચાલી રહ્યું છે. વેબસાઈટની વિષયવસ્તુ કદાચ યોગ્ય રીતે દર્શાશે નહીં. તમે સંગ્રહિત સાઇટ ડેટાને સાફ કરી શકો છો પસંદગીઓ > ગોપનીયતા અને સુરક્ષા > કૂકીઝ અને સાઈટ ડેટા.
+    }
+space-alert-under-5gb-ok-button =
+    .label = OK, સમજાઇ ગયું
+    .accesskey = K
 
 ## The following strings are used in the Download section of settings
 
