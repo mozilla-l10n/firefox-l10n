@@ -42,8 +42,12 @@ permissions-capabilities-block =
     .label = Blokla
 permissions-capabilities-prompt =
     .label = Həmişə soruş
+permissions-capabilities-listitem-allow =
+    .value = İcazə ver
 permissions-capabilities-listitem-block =
     .value = Blokla
+permissions-capabilities-listitem-allow-first-party =
+    .value = Yalnız birinci partiyaya icazə ver
 permissions-capabilities-listitem-allow-session =
     .value = Bu seans üçün icazə ver
 
