@@ -22,6 +22,12 @@ permissions-capabilities-allow =
     .label = Pfumelela
 permissions-capabilities-block =
     .label = Siva
+permissions-capabilities-listitem-allow =
+    .value = Pfumelela
+permissions-capabilities-listitem-block =
+    .value = Siva
+permissions-capabilities-listitem-allow-session =
+    .value = Pfumelela sexini
 
 ## Invalid Hostname Dialog
 
@@ -44,6 +50,9 @@ permissions-exceptions-popup-desc = U nga boxa masayiti ya web lama faneleke ku 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
