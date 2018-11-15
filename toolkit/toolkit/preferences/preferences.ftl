@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-not-set =
+    .value = (غير مضبوط)
 failed-pw-change = تعذّر تغيير كلمة السر الرئيسيّة.
 incorrect-pw = لم تدخل كلمة السر الرئيسيّة الصّحيحة. الرّجاء المحاولة مرّة ثانية.
 pw-change-ok = غُيّرت كلمة السر الرئيسيّة بنجاح. { pw-empty-warning }
