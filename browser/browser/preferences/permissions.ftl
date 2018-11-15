@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Blochează
 permissions-capabilities-prompt =
     .label = Întreabă întotdeauna
+permissions-capabilities-listitem-allow =
+    .value = Permite
+permissions-capabilities-listitem-block =
+    .value = Blochează
+permissions-capabilities-listitem-allow-session =
+    .value = Permite pentru sesiune
 
 ## Invalid Hostname Dialog
 
