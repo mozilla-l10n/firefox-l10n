@@ -623,6 +623,24 @@ certs-view =
 certs-devices =
     .label = സുരക്ഷാ ഉപകരണങ്ങള്‍…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = കൂടുതലറിയുക
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] ഓപ്ഷന്‍സ് തുറക്കുക
+           *[other] പ്രഫറന്‍സ് തുറക്കുക
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-under-5gb-ok-button =
+    .label = മനസ്സിലായി
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } ല്‍ ഡിസ്ക് സ്പേസ് കുറവാണ്. വെബ്സൈറ്റ് ഉള്ളടക്കം ശരിയായി ദൃശ്യമാകില്ല. മികച്ച ബ്രൗസിംഗ് അനുഭവത്തിനായി നിങ്ങളുടെ ഡിസ്ക് ഉപയോഗം ഒപ്റ്റിമൈസുചെയ്യുന്നതിന് “കൂടുതലറിയുക” എന്നത് സന്ദർശിക്കുക.
 
 ## The following strings are used in the Download section of settings
 
