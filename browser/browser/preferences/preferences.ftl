@@ -850,6 +850,24 @@ certs-view =
 certs-devices =
     .label = Қауіпсіздік құрылғылары…
     .accesskey = ы
+space-alert-learn-more-button =
+    .label = Көбірек білу
+    .accesskey = л
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Баптауларды ашу
+           *[other] Баптауларды ашу
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ш
+           *[other] ш
+        }
+space-alert-under-5gb-ok-button =
+    .label = ОК, түсіндім
+    .accesskey = О
+space-alert-under-5gb-message = { -brand-short-name } үшін бос орын аяқталуда. Вебсайттар құрамасы дұрыс көрсетілмеуі мүмкін. "Көбірек білу" сілтемесін ашып, интернетті ыңғайлы шолу үшін диск қолданылуын қалай баптау керек екенін білуіңізге болады.
 
 ## The following strings are used in the Download section of settings
 
