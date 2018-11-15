@@ -40,6 +40,14 @@ permissions-capabilities-allow =
     .label = Ruxsat berish
 permissions-capabilities-block =
     .label = Bloklash
+permissions-capabilities-listitem-allow =
+    .value = Ruxsat berish
+permissions-capabilities-listitem-block =
+    .value = Bloklash
+permissions-capabilities-listitem-allow-first-party =
+    .value = Faqat birinchi qismga ruxsat berish
+permissions-capabilities-listitem-allow-session =
+    .value = Seans uchun ruxsat berish
 
 ## Invalid Hostname Dialog
 
@@ -68,6 +76,9 @@ permissions-exceptions-saved-logins-window =
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Siz xohlagan vebsaytingizga qoʻshimcha dasturlarni oʻrnatishga ruxsat berishingiz mumkin. Ruxsat bermoqchi boʻlgan saytingiz nomini yozing va "Ruxsat berish"ni bosing.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 

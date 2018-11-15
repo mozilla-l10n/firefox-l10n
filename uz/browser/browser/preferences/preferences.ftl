@@ -689,3 +689,9 @@ certs-view =
 certs-devices =
     .label = Xavfsizlik qurilmalari
     .accesskey = X
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Ish stoli
+downloads-folder-name = Yuklab olishlar
+choose-download-folder-title = Yuklanish jildini tanlang:
