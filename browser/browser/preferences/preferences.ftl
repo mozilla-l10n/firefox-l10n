@@ -885,6 +885,8 @@ space-alert-under-5gb-message = У { -brand-short-name } сканчаецца м
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Працоўны стол
+downloads-folder-name = Сцягванні
+choose-download-folder-title = Выбар папкі сцягванняў:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
