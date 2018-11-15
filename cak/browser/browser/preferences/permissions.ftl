@@ -42,8 +42,14 @@ permissions-capabilities-block =
     .label = Tiq'eleb'ëx
 permissions-capabilities-prompt =
     .label = Junelïk tik'utüx pe
+permissions-capabilities-listitem-allow =
+    .value = Tiya' q'ij
 permissions-capabilities-listitem-block =
     .value = Tiq'eleb'ëx
+permissions-capabilities-listitem-allow-first-party =
+    .value = Tiya' q'ij xa xe chi ke ri nab'ey taq peraj
+permissions-capabilities-listitem-allow-session =
+    .value = Tiya' q'ij pa re molojri'ïl re'
 
 ## Invalid Hostname Dialog
 

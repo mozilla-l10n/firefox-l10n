@@ -842,3 +842,26 @@ certs-view =
 certs-devices =
     .label = Kokisaxel taq jikomal…
     .accesskey = K
+space-alert-learn-more-button =
+    .label = Tetamäx ch'aqa' chik
+    .accesskey = T
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Kejaq taq cha'oj
+           *[other] Kejaq taq ajowab'äl
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] K
+           *[other] K
+        }
+space-alert-under-5gb-ok-button =
+    .label = ÜTZ, Wetaman chik
+    .accesskey = T
+space-alert-under-5gb-message = { -brand-short-name } tajin majun rupam nikanaj kan pa rujolom. Rik'in jub'a' man ütz ta nik'ut pe ri rupam ruxaq k'amaya'l. Tab'etz'eta' “Tetamäx ch'aqa' chik” richin nutziläx toq nokisäx rujolom richin tik'asäs nawokisaj awetamab'al rik'in ri okem pa k'amaya'l.
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Kematz'ib'ab'äl
+choose-download-folder-title = Ticha' yakwuj, ri xkeruyäk taq qasanïk:
