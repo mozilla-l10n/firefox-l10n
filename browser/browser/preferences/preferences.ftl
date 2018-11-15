@@ -880,6 +880,11 @@ space-alert-over-5gb-pref-button =
             [windows] N
            *[other] N
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } hižo dosć składowanskeho ruma nima. Wobsah websydła so snano korektnje njezwobrazni. Móžeće składowane daty w Nastajenja > Priwatnosć a wěstota > Placki a sydłowe daty zhašeć.
+       *[other] { -brand-short-name } hižo dosć składowanskeho ruma nima. Wobsah websydła so snano korektnje njezwobrazni. Móžeće składowane daty w Nastajenja > Priwatnosć a wěstota > Placki a sydłowe daty zhašeć.
+    }
 space-alert-under-5gb-ok-button =
     .label = W porjadku, sym zrozumił
     .accesskey = r
