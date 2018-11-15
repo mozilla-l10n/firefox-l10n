@@ -28,6 +28,8 @@ permissions-capabilities-allow =
     .label = अनुमति दिअ
 permissions-capabilities-block =
     .label = रोकू
+permissions-capabilities-listitem-allow =
+    .value = अनुमति दिअ
 permissions-capabilities-listitem-block =
     .value = रोकू
 
