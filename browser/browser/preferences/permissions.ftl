@@ -42,8 +42,12 @@ permissions-capabilities-block =
     .label = Blòcco
 permissions-capabilities-prompt =
     .label = Domanda de longo
+permissions-capabilities-listitem-allow =
+    .value = Permetti
 permissions-capabilities-listitem-block =
     .value = Blòcco
+permissions-capabilities-listitem-allow-session =
+    .value = Permetti pe sta sescion
 
 ## Invalid Hostname Dialog
 
