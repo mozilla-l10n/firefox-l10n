@@ -19,6 +19,12 @@ permissions-capabilities-allow =
     .label = আজ্ঞা দিয়ক
 permissions-capabilities-block =
     .label = ৰোধ কৰক
+permissions-capabilities-listitem-allow =
+    .value = আজ্ঞা দিয়ক
+permissions-capabilities-listitem-block =
+    .value = ৰোধ কৰক
+permissions-capabilities-listitem-allow-session =
+    .value = অধিবেশনৰ বাবে আজ্ঞা দিয়ক
 
 ## Invalid Hostname Dialog
 
@@ -41,6 +47,9 @@ permissions-exceptions-popup-desc = কোনবোৰ ৱেব ছাইটে
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = কোনবোৰ ৱেব ছাইটে এড-অন ইনস্টল কৰিব পাৰে আপুনি সেইটো নিৰ্ধাৰিত কৰিব পাৰে। আপুনি আজ্ঞা দিব খোজা ছাইটৰ সঠিক ঠিকনা দিয়ক আৰু আজ্ঞা দিয়কত টিপক।
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 

@@ -29,6 +29,17 @@ feature-enable-requires-restart = এই বৈশিষ্ট্য সাম�
 feature-disable-requires-restart = এই বৈশিষ্ট্য অসামৰ্থবান কৰিবলে { -brand-short-name } পুনাৰম্ভ কৰিব লাগিব।
 should-restart-title = { -brand-short-name } পুনাৰম্ভ কৰক
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -37,8 +48,6 @@ should-restart-title = { -brand-short-name } পুনাৰম্ভ কৰক
 startup-header = আৰম্ভণি
 is-default = { -brand-short-name } বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ
 is-not-default = { -brand-short-name } বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ নহয়
-startup-blank-page =
-    .label = ৰিক্ত পৃষ্ঠা দেখুৱাওক
 tabs-group-header = টেবসমূহ
 show-tabs-in-taskbar =
     .label = টেবৰ পুৰ্বদৰ্শনসমূহ উইন্ডোসমূহৰ কাৰ্য্যবাৰত দেখুৱাওক
@@ -138,9 +147,6 @@ use-current-pages =
 choose-bookmark =
     .label = পত্ৰচিহ্ন ব্যৱহাৰ কৰক…
     .accesskey = B
-restore-default =
-    .label = অবিকল্পিতলৈ পুনঃ স্থাপন কৰক
-    .accesskey = R
 
 ## Search Section
 
@@ -212,9 +218,6 @@ history-dontremember-description = { -brand-short-name } এ ব্যক্ত�
 history-private-browsing-permanent =
     .label = সদায় ব্যক্তিগত ব্ৰাউছিং অৱস্থা ব্যৱহাৰ কৰিব
     .accesskey = p
-history-remember-option =
-    .label = মোৰ ব্ৰাউছিং আৰু ডাউনল'ড ইতিহাস মনত ৰাখিব
-    .accesskey = b
 history-remember-search-option =
     .label = সন্ধান আৰু বিন্যাস ইতিহাস মনত ৰাখিব
     .accesskey = f
@@ -227,15 +230,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = ভ্ৰমণ কৰা ছাইটসমূহৰ পৰা
-sitedata-accept-third-party-never-option =
-    .label = কেতিয়াও নহয়
 sitedata-cookies-exceptions =
     .label = ব্যতিক্ৰমসমূহ…
     .accesskey = E
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -268,3 +270,6 @@ certs-header = প্ৰমাণপত্ৰসমূহ
 certs-enable-ocsp =
     .label = প্ৰমাণপত্ৰসমূহৰ বৰ্তমান বৈধতা সুনিশ্চিত কৰিবলে OCSP ৰেস্পণ্ডাৰক প্ৰশ্ন কৰক
     .accesskey = Q
+
+## The following strings are used in the Download section of settings
+
