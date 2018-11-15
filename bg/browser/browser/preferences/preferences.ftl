@@ -842,8 +842,32 @@ certs-view =
 certs-devices =
     .label = Устройства по безопасността…
     .accesskey = у
+space-alert-learn-more-button =
+    .label = Научете повече
+    .accesskey = н
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Настройки
+           *[other] Настройки
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] н
+           *[other] н
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] Дисковото пространство достъпно за { -brand-short-name } е на свършване. Съдържанието на страницата може да не се показва правилно. Може да изчистите текущите данни от Настройки > Поверителност и защита > Бисквитки и данни на страници.
+       *[other] Дисковото пространство достъпно за { -brand-short-name } е на свършване. Съдържанието на страницата може да не се показва правилно. Може да изчистите текущите данни от Настройки > Поверителност и защита > Бисквитки и данни на страници.
+    }
+space-alert-under-5gb-ok-button =
+    .label = Добре
+    .accesskey = д
+space-alert-under-5gb-message = Дисковото пространство достъпно за { -brand-short-name } е на свършване. Съдържанието на страницата може да не се показва правилно. За да оптимално използване на дисковото пространство при сърфиране посетете „Научете повече“.
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Плот
 downloads-folder-name = Изтегляния
 choose-download-folder-title = Избиране на папка за изтегляне:
