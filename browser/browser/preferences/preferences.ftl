@@ -863,6 +863,23 @@ certs-view =
 certs-devices =
     .label = Пристрої захисту…
     .accesskey = и
+space-alert-learn-more-button =
+    .label = Докладніше
+    .accesskey = к
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Відкрити налаштування
+           *[other] Відкрити налаштування
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] л
+           *[other] н
+        }
+space-alert-under-5gb-ok-button =
+    .label = Гаразд, зрозуміло
+    .accesskey = Г
 space-alert-under-5gb-message = У { -brand-short-name } закінчується місце на диску. Вміст веб-сайтів може показуватись неправильно. Натисніть “Докладніше”, щоб оптимізувати використання вашого диска для кращої роботи.
 
 ## The following strings are used in the Download section of settings
