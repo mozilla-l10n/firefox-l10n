@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Bloķēt
 permissions-capabilities-prompt =
     .label = Vienmēr jautāt
+permissions-capabilities-listitem-allow =
+    .value = Atļaut
+permissions-capabilities-listitem-block =
+    .value = Bloķēt
+permissions-capabilities-listitem-allow-session =
+    .value = Atļaut uz šo sesiju
 
 ## Invalid Hostname Dialog
 
