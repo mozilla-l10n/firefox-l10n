@@ -25,8 +25,14 @@ permissions-capabilities-allow =
     .label = Laat toe
 permissions-capabilities-block =
     .label = Blokkeer
+permissions-capabilities-listitem-allow =
+    .value = Laat toe
 permissions-capabilities-listitem-block =
     .value = Blokkeer
+permissions-capabilities-listitem-allow-first-party =
+    .value = Laat slegs die eerste party toe
+permissions-capabilities-listitem-allow-session =
+    .value = Laat toe vir sessie
 
 ## Invalid Hostname Dialog
 
