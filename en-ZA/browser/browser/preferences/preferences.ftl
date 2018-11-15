@@ -30,6 +30,17 @@ feature-disable-requires-restart = { -brand-short-name } must restart to disable
 should-restart-title = Restart { -brand-short-name }
 restart-later = Restart Later
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -46,8 +57,6 @@ always-check-default =
     .accesskey = y
 is-default = { -brand-short-name } is currently your default browser
 is-not-default = { -brand-short-name } is not your default browser
-startup-blank-page =
-    .label = Show a blank page
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles through tabs in recently used order
@@ -158,9 +167,6 @@ use-current-pages =
 choose-bookmark =
     .label = Use Bookmark…
     .accesskey = B
-restore-default =
-    .label = Restore to Default
-    .accesskey = R
 
 ## Search Section
 
@@ -251,9 +257,6 @@ history-dontremember-description = { -brand-short-name } will use the same setti
 history-private-browsing-permanent =
     .label = Always use private browsing mode
     .accesskey = p
-history-remember-option =
-    .label = Remember my browsing and download history
-    .accesskey = b
 history-remember-search-option =
     .label = Remember search and form history
     .accesskey = f
@@ -266,10 +269,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = From visited
-sitedata-accept-third-party-never-option =
-    .label = Never
 sitedata-cookies-exceptions =
     .label = Exceptions…
     .accesskey = E
@@ -282,6 +281,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Open tabs
     .accesskey = O
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
@@ -332,3 +334,9 @@ certs-header = Certificates
 certs-enable-ocsp =
     .label = Query OCSP responder servers to confirm the current validity of certificates
     .accesskey = Q
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Desktop
+downloads-folder-name = Downloads
+choose-download-folder-title = Choose Download Folder:
