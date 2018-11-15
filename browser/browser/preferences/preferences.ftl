@@ -796,6 +796,21 @@ certs-view =
 certs-devices =
     .label = सुरक्षा साधने
     .accesskey = D
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] पर्याय उघडा
+           *[other] प्राधान्यता उघडा
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-under-5gb-ok-button =
+    .label = ठीक आहे, समजले
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } ला डिस्क वरील जागा कमी पडत आहे. वेबसाईट चा मजकूर कदाचित व्यवस्थित दिसणार नाही. सुधारित ब्राऊझिंग अनुभवासाठी डिस्क चा वापर सुधारण्यासाठी "आणखी जाणा" वर भेट द्या.
 
 ## The following strings are used in the Download section of settings
 
