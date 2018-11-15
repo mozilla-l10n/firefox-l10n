@@ -275,3 +275,4 @@ certs-enable-ocsp =
 
 desktop-folder-name = ডেস্কটপ
 downloads-folder-name = ডাউনল'ডসমূহ
+choose-download-folder-title = ডাউনল'ডৰ ফ'ল্ডাৰ বাছক:
