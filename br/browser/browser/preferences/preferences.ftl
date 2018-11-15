@@ -880,6 +880,11 @@ space-alert-over-5gb-pref-button =
             [windows] D
            *[other] D
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] Ne chom ket kalz a blas evit { -brand-short-name }. Gallout a ra al lec'hiennoù bezañ skrammet en un doare fall. Gallout a rit skarzhañ ar roadennoù kadavet e Dibarzhioù > Buhez prevez ha diogelroez  > Toupinoù ha roadennoù lec'hienn.
+       *[other] Ne chom ket kalz a blas evit { -brand-short-name }. Gallout a ra al lec'hiennoù bezañ skrammet en un doare fall. Gallout a rit skarzhañ ar roadennoù kadavet e Gwellvezioù > Buhez prevez ha diogelroez  > Toupinoù ha roadennoù lec'hienn.
+    }
 space-alert-under-5gb-ok-button =
     .label = Mat, komprenet 'm eus.
     .accesskey = M
