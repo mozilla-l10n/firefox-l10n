@@ -42,10 +42,14 @@ permissions-capabilities-block =
     .label = Sekat
 permissions-capabilities-prompt =
     .label = Sentiasa Tanya
+permissions-capabilities-listitem-allow =
+    .value = Izinkan
 permissions-capabilities-listitem-block =
     .value = Sekat
 permissions-capabilities-listitem-allow-first-party =
     .value = Izinkan pihak pertama sahaja
+permissions-capabilities-listitem-allow-session =
+    .value = Izinkan untuk Sesi
 
 ## Invalid Hostname Dialog
 
