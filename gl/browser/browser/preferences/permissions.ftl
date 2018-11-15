@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
+permissions-capabilities-listitem-allow-first-party =
+    .value = Permitir só as primeiras
 permissions-capabilities-listitem-allow-session =
     .value = Permitir nesta sesión
 
