@@ -765,6 +765,32 @@ certs-view =
 certs-devices =
     .label = Emniyet Cihazları…
     .accesskey = C
+space-alert-learn-more-button =
+    .label = Daa Çoq Ögren
+    .accesskey = r
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Seçeneklerni Aç
+           *[other] Tercihlerni Aç
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] A
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } disk fezası tükene. Ağ-saytı muhtevaları münasip körüntilenmeybilir. Mağazlanğan verilerni İhtiyariyat > Hususiyat ve Emniyet > Çörekler ve Sayt Verileri'nden temizleybilirsiñiz.
+       *[other] { -brand-short-name } disk fezası tükene. Ağ-saytı muhtevaları münasip körüntilenmeybilir. Mağazlanğan verilerni Tercihler > Hususiyat ve Emniyet > Çörekler ve Sayt Verileri'nden temizleybilirsiñiz.
+    }
+space-alert-under-5gb-ok-button =
+    .label = Tamam, Qaptım
+    .accesskey = T
+space-alert-under-5gb-message = { -brand-short-name } tarafından qulllanılabilgen disk fezası bitmek üzre. Daa eyi bir kezinti deñeyimi içün disk qullanımıñıznı optimalleştirmege isteseñiz “Daha Çoq Ögren”ni ziyaret etiñiz.
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Masaüstü
+downloads-folder-name = Endirmeler
+choose-download-folder-title = Endirme Cilbentini Saylañız:

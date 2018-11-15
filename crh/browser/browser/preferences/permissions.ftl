@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Blokla
 permissions-capabilities-prompt =
     .label = Er Zaman Sora
+permissions-capabilities-listitem-allow =
+    .value = İzin Ber
+permissions-capabilities-listitem-block =
+    .value = Blokla
+permissions-capabilities-listitem-allow-first-party =
+    .value = Faqat birinci tarafqa izin ber
+permissions-capabilities-listitem-allow-session =
+    .value = Oturım içün İzin Ber
 
 ## Invalid Hostname Dialog
 
