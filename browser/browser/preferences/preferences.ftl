@@ -651,3 +651,4 @@ certs-devices =
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = डेस्कटप
+choose-download-folder-title = डाउनलोड फोल्डर रोज्नुहोस्:

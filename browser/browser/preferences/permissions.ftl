@@ -44,6 +44,10 @@ permissions-capabilities-prompt =
     .label = सधैँ सोध्नुहोस्
 permissions-capabilities-listitem-allow =
     .value = अनुमति दिनुहोस्
+permissions-capabilities-listitem-block =
+    .value = छेक्नुहोस्
+permissions-capabilities-listitem-allow-first-party =
+    .value = पहिलो पार्टीलाई मात्र अनुमति दिनुहोस्
 
 ## Invalid Hostname Dialog
 
