@@ -22,6 +22,12 @@ permissions-capabilities-allow =
     .label = Dumella
 permissions-capabilities-block =
     .label = Thibela
+permissions-capabilities-listitem-allow =
+    .value = Dumella
+permissions-capabilities-listitem-block =
+    .value = Thibela
+permissions-capabilities-listitem-allow-session =
+    .value = Dumella bakeng sa Seshene
 
 ## Invalid Hostname Dialog
 
@@ -44,6 +50,9 @@ permissions-exceptions-popup-desc = O ka hlalosa hore ke ditsha tsa inthanete di
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
