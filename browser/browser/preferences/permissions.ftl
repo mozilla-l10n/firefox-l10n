@@ -48,6 +48,8 @@ permissions-capabilities-listitem-block =
     .value = Blokkearje
 permissions-capabilities-listitem-allow-first-party =
     .value = Fan tredden blokkearje
+permissions-capabilities-listitem-allow-session =
+    .value = Tastean foar sesje
 
 ## Invalid Hostname Dialog
 
