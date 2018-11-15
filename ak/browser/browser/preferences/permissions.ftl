@@ -22,6 +22,12 @@ permissions-capabilities-allow =
     .label = Ma kwan
 permissions-capabilities-block =
     .label = Blɔk
+permissions-capabilities-listitem-allow =
+    .value = Ma kwan
+permissions-capabilities-listitem-block =
+    .value = Blɔk
+permissions-capabilities-listitem-allow-session =
+    .value = Ma sɛhyen ho kwan
 
 ## Invalid Hostname Dialog
 
@@ -44,6 +50,9 @@ permissions-exceptions-popup-desc = Wobetumi apaw awɛbsaet titiriw a wɔwɔ kwa
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Wobetumi apaw awɛb saet a wɔwɔ kwan sɛ wɔbɛ instɔɔle nkaho. Bɔ saet koro no a wopɛ sɛ woma no kwan no adrɛs na klike Ma kwan.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 

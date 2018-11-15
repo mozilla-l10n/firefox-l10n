@@ -29,6 +29,17 @@ feature-enable-requires-restart = Ɛwɔ sɛ { -brand-short-name } san hyɛ ase d
 feature-disable-requires-restart = Ɛwɔ sɛ { -brand-short-name } san hyɛ ase de dum adeyɛ yi.
 should-restart-title = San hyɛ { -brand-short-name } ase
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -36,8 +47,6 @@ should-restart-title = San hyɛ { -brand-short-name } ase
 
 startup-header = Nhyɛase
 is-default = { -brand-short-name } yɛ wo brawsa a ɛyɛ difɔlt seisei
-startup-blank-page =
-    .label = Kyerɛ krataafa pan
 tabs-group-header = Ntab
 show-tabs-in-taskbar =
     .label = Kyerɛ ntab priviw wɔ Windows taskbaa ne so
@@ -130,9 +139,6 @@ use-current-pages =
 choose-bookmark =
     .label = Fa Bukmaak di dwuma…
     .accesskey = B
-restore-default =
-    .label = San fa kɔ Difɔlt
-    .accesskey = S
 
 ## Search Section
 
@@ -190,9 +196,6 @@ history-dontremember-description = { -brand-short-name } de nhyehyɛe te sɛ bra
 history-private-browsing-permanent =
     .label = Fa tebea praevet a wɔde brawse di dwuma abere biara
     .accesskey = p
-history-remember-option =
-    .label = Kae m'abrawse ne atwe ho abakɔsɛm
-    .accesskey = K
 history-remember-search-option =
     .label = Kae abakɔsɛm fa nhwehwɛ ne fɔɔm ho
     .accesskey = f
@@ -205,15 +208,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = Firi bea a wɔasra
-sitedata-accept-third-party-never-option =
-    .label = Daabi da
 sitedata-cookies-exceptions =
     .label = Ngyegye…
     .accesskey = e
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -243,3 +245,9 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Abasobɔde nkrataa
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Dɛsktɔp
+downloads-folder-name = Atwe siane
+choose-download-folder-title = Paw atwe folda:
