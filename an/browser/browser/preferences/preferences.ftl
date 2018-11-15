@@ -740,6 +740,24 @@ certs-view =
 certs-devices =
     .label = Dispositivos de seguranza…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Saber-ne mas
+    .accesskey = S
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Ubrir las opcions
+           *[other] Ubrir las preferencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] U
+           *[other] U
+        }
+space-alert-under-5gb-ok-button =
+    .label = Entendiu
+    .accesskey = d
+space-alert-under-5gb-message = { -brand-short-name } se ye quedando sin espacio de disco. Los contenius d'os webs puede que no s'amuestren como cal. Vesite “Saber-ne mas” ta optimizar lo suyos uso de disco, pa tener una millor experiencia de navegación.
 
 ## The following strings are used in the Download section of settings
 
