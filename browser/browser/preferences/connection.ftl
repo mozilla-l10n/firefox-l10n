@@ -37,7 +37,7 @@ connection-proxy-http-port = Poort
     .accesskey = P
 connection-proxy-http-share =
     .label = Deze proxyserver voor alle protocollen gebruiken
-    .accesskey = s
+    .accesskey = z
 
 connection-proxy-ssl = SSL-proxy
     .accesskey = L
