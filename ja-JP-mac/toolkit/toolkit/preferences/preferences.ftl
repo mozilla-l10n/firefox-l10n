@@ -7,6 +7,7 @@ password-not-set =
 failed-pw-change = マスターパスワードを変更できませんでした。
 incorrect-pw = 入力された現在のマスターパスワードが正しくありません。入力し直してください。
 pw-change-ok = マスターパスワードが正常に変更されました。 { pw-empty-warning }
+pw-empty-warning = ウェブとメールのパスワード、フォームデータや秘密鍵は保護されません。
 pw-erased-ok = マスターパスワードを削除しました。 { pw-empty-warning }
 pw-not-wanted = 警告: マスターパスワードを使用しないように設定しました。
 pw-change2empty-in-fips-mode = 現在 FIPS モードです。FIPS モードではマスターパスワードを空にすることができません。
