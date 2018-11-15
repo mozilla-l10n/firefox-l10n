@@ -9,6 +9,7 @@ incorrect-pw = Nasnavê ku têketiyê çewt e. Ji kerema xwe ji nû ve biceribî
 pw-change-ok = Şîfreya bingehîn bi awayekî serketî hat guherandin.
 pw-empty-warning = Şîfreyên Web û E-Peyam û kilîta te ya kesane bêparastin in.
 pw-erased-ok = Te Nasnavê xwe yê Rêvebiriyê jê bir.  { pw-empty-warning }
+pw-not-wanted = Hişyarî! Te biryara bikarneanîna nasnavê xwe yê bingehîn girt. { pw-empty-warning }
 pw-change2empty-in-fips-mode = Tu di moda FIPS de yî. Ji bo FIPS Nasnavê Rêvebiriyê vala çênabe.
 pw-change-success-title = Guherandina Nasnavê bi ser ket
 pw-change-failed-title = Guherandina Nasnavê bi ser neket
