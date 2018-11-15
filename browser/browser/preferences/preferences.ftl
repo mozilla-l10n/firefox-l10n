@@ -760,3 +760,7 @@ certs-view =
 certs-devices =
     .label = రక్షణ పరికరాలు…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = డెస్కుటాప్
