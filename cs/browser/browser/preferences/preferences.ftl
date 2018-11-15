@@ -867,6 +867,15 @@ certs-view =
 certs-devices =
     .label = Bezpečnostní zařízení…
     .accesskey = B
+space-alert-learn-more-button =
+    .label = Zjistit více
+    .accesskey = Z
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] Aplikaci { -brand-short-name } dochází místo na disku. Obsah webové stránky se nemusí zobrazit správně. Uložená data stránky můžete vymazat v Nastavení > Soukromí a zabezpečení > Cookies a data stránek.
+       *[other] Aplikaci { -brand-short-name } dochází místo na disku. Obsah webové stránky se nemusí zobrazit správně. Uložená data stránky můžete vymazat v Předvolbách > Soukromí a zabezpečení > Cookies a data stránek.
+    }
+space-alert-under-5gb-message = Aplikaci { -brand-short-name } dochází místo na disku. Obsah webové stránky se nemusí zobrazit správně. Klepněte na „Dozvědět se více“ o optimalizaci využití disku k lepšímu prohlížení webu.
 
 ## The following strings are used in the Download section of settings
 
