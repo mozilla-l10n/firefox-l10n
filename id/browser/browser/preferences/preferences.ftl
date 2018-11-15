@@ -834,6 +834,28 @@ certs-view =
 certs-devices =
     .label = Peranti Keamanan…
     .accesskey = P
+space-alert-learn-more-button =
+    .label = Pelajari Lebih Lanjut
+    .accesskey = P
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Buka Opsi
+           *[other] Buka Pengaturan
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] B
+           *[other] B
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } kehabisan ruang diska. Konten situs web mungkin tidak dapat tampil secara tepat. Anda dapat membersihkan data tersimpan dalam Pengaturan > Privasi & Keamanan > Kuki dan Data Situs.
+       *[other] { -brand-short-name } kehabisan ruang diska. Konten situs web mungkin tidak dapat tampil secara tepat. Anda dapat membersihkan data tersimpan dalam Pengaturan > Privasi & Keamanan > Kuki dan Data Situs.
+    }
+space-alert-under-5gb-ok-button =
+    .label = Oke, Beres
+    .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } kehabisan ruang disk. Konten situs barangkali tidak dapat ditampilkan dengan tepat. Kunjungi “Pelajari Lebih Lanjut” untuk mengoptimalkan penggunaan disk Anda untuk pengalaman penjelajahan yang lebih baik.
 
 ## The following strings are used in the Download section of settings
