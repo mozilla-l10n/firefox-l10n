@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Rhwystro
 permissions-capabilities-prompt =
     .label = Gofyn bob Tro
+permissions-capabilities-listitem-allow =
+    .value = Caniatáu
+permissions-capabilities-listitem-block =
+    .value = Rhwystro
+permissions-capabilities-listitem-allow-session =
+    .value = Caniatáu ar gyfer y Sesiwn
 
 ## Invalid Hostname Dialog
 

@@ -872,6 +872,10 @@ certs-view =
 certs-devices =
     .label = Dyfeisiau Diogelwch…
     .accesskey = y
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Bwrdd Gwaith
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
