@@ -28,16 +28,25 @@ feature-enable-requires-restart = { -brand-short-name } नोवा गुन �
 feature-disable-requires-restart = { -brand-short-name } नोवा गुन को बाङ हुय  होचो ला़गित् दोहड़ा एहोब ला़कती .
 should-restart-title = दोहड़ा एहोब { -brand-short-name }
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
 ## General Section
 
 startup-header = नावा का़मी एहोब
-is-default = { -brand-short-name } दो नितोक् आमाक हुड़ाक् पानते काना 
+is-default = { -brand-short-name } दो नितोक् आमाक हुड़ाक् पानते काना
 is-not-default = { -brand-short-name }दो  आमाक् हुड़ा़क् ब्राउजार  बाङ काना
-startup-blank-page =
-    .label = मित् एकेनाक् साहटा उदुग मे
 tabs-group-header = टेब को
 show-tabs-in-taskbar =
     .label = विंडो टास्क बार रे टेब माड़ाङ तेयाक् ञेंल उदुग मे.
@@ -137,9 +146,6 @@ use-current-pages =
 choose-bookmark =
     .label = पुथी चिनहा़ को बेभार मे…
     .accesskey = B
-restore-default =
-    .label = हुड़ा़क् रे जोगाव आ़रु
-    .accesskey = R
 
 ## Search Section
 
@@ -201,9 +207,6 @@ history-dontremember-description = { -brand-short-name } निजेराक�
 history-private-browsing-permanent =
     .label = निजेराक् ब्राउजिंग ओबोसता जावगे बेभार मे.
     .accesskey = p
-history-remember-option =
-    .label = इंञाक् ब्राउजिंग आर आ़तुर आंड़गो हिता़ल उयहा़र दोहोय मे.
-    .accesskey = b
 history-remember-search-option =
     .label = पानते आर तेयार हिता़ल उयहा़र दोहोय मे.
     .accesskey = f
@@ -216,15 +219,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = ञेलाक् खोन
-sitedata-accept-third-party-never-option =
-    .label = तिसहों बाङ
 sitedata-cookies-exceptions =
     .label = बाद आक् को…
     .accesskey = E
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -257,3 +259,9 @@ certs-header = पोरमान साकाम को
 certs-enable-ocsp =
     .label = पोरमान साकाम रेयाक् नितोगाक् बाताव एम निसेटाय ला़गित् कुकाली OCSP रोड़रुवा़ड़यिजाक् सार्बार
     .accesskey = Q
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = डेस्कटॉप
+downloads-folder-name = आ़तुर आंड़गो को
+choose-download-folder-title = आ़तुर आंड़गो पोटोम बाछाव मे:

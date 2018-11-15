@@ -22,6 +22,14 @@ permissions-capabilities-allow =
     .label = बाताव एम
 permissions-capabilities-block =
     .label = आकोट
+permissions-capabilities-listitem-allow =
+    .value = बाताव एम
+permissions-capabilities-listitem-block =
+    .value = आकोट
+permissions-capabilities-listitem-allow-first-party =
+    .value = एकेन पा़हिल दोल को बाताव एम
+permissions-capabilities-listitem-allow-session =
+    .value = का़मी ओकतो ला़गित् बाताव एम
 
 ## Invalid Hostname Dialog
 
@@ -44,6 +52,9 @@ permissions-exceptions-popup-desc = आम गोटा दाड़ेयाक
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = आम गोटा दाड़ेयाक् आ ओका वेब साइट को दो एड-ऑन बोहाल ला़गित् बातावे एमा. आम बाताव एम सानाम कान साइट रेयाक् ओना उता़र ठिका़ना टाइप मे आर इना़ तायोम बाताव एम ओताय मे.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
