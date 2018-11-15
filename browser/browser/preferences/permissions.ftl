@@ -46,6 +46,10 @@ permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
+permissions-capabilities-listitem-allow-first-party =
+    .value = Só permitir cookies pertencentes ao site atual
+permissions-capabilities-listitem-allow-session =
+    .value = Permitir nesta sessão
 
 ## Invalid Hostname Dialog
 
