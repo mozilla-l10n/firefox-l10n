@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = অবরুদ্ধ করুন
 permissions-capabilities-prompt =
     .label = সর্বদা জিজ্ঞাসা করা হবে
+permissions-capabilities-listitem-allow =
+    .value = অনুমতি প্রদান করা হবে
+permissions-capabilities-listitem-block =
+    .value = অবরুদ্ধ করুন
+permissions-capabilities-listitem-allow-first-party =
+    .value = শুধুমাত্র প্রথম পক্ষকে অনুমতি প্রদান করুন
+permissions-capabilities-listitem-allow-session =
+    .value = সেশানের জন্য অনুমতি প্রদান করা হবে
 
 ## Invalid Hostname Dialog
 

@@ -856,6 +856,8 @@ certs-devices =
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Desktop
+downloads-folder-name = Downloads
 choose-download-folder-title = ডাউনলোড ফোল্ডার নির্বাচন করুন:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
