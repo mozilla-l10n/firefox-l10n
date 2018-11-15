@@ -15,11 +15,28 @@
 <!ENTITY resetPassword.title  "Nagi'iaj da'nga' huì ñaa">
 
 <!-- Downloading a cert -->
+<!ENTITY downloadCert.title "si naduninj ma sertifikado">
+<!ENTITY downloadCert.message1 "Gachin ni'io' da' gida'aj si nuguan' 'ngò Dukuâ sun 'iaj sertifikando (CA).">
+<!ENTITY downloadCert.trustSSL "Ga'nin' da' ni CA nani'ìn da'ngà' daj hua sitio web.">
+<!ENTITY downloadCert.trustEmail "Garasun CA na da' nani'in da'ngaj nej duguî' araj sun correo">
+<!ENTITY downloadCert.viewCert.label "Gini'iaj">
+<!ENTITY downloadCert.viewCert.text "Natsi' CA sertifikado">
 
 <!-- Strings for the SSL client auth ask dialog -->
+<!ENTITY clientAuthAsk.title "Achín nì'ia nadigânt ahuînt">
+<!ENTITY clientAuthAsk.message1 "Achín ni'iaj sitiô na sisi nadigânt ahuînt ngà 'ngo certificado:">
+<!ENTITY clientAuthAsk.message2 "Nagui 'ngo certificado da' nadigânt ahuînt:">
+<!ENTITY clientAuthAsk.message3 "Nej sa nikaj certificado gida'at:">
 
+<!ENTITY pkcs12.setpassword.title  "Gachrun' 'ngò da'ngà huìi guenda sertifikado na">
+<!ENTITY pkcs12.setpassword.label1 "Da'ngà' huìi guenda sertifikado na:">
+<!ENTITY pkcs12.setpassword.label2 "Da'ngà' huìi guenda sertifikado na (gi'iaj hìo'):">
+<!ENTITY pkcs12.setpassword.reminder "Sa ña'āanj: Si sā gini'ñunt si da'ngà' huì si sertifikadot nī si ga'ue nari' ñut'. Na'nïnj sa' hue'e.">
 
+<!ENTITY chooseToken.message1 "Ganahui 'ngò rasuun.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
+<!ENTITY createCertInfo.title "Si ri ma 'ngò da'ngà' huìi">
 
 <!-- Strings for protectedAuth dialog -->
+<!ENTITY protectedAuth.tokenName.label "Token:">

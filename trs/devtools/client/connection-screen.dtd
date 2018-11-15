@@ -7,6 +7,13 @@
   - in the Web Developer menu.
   - -->
 
+<!ENTITY title      "Gatu'">
+<!ENTITY host       "Servidor:">
+<!ENTITY port       "Puerto:">
+<!ENTITY connect    "Gatu'">
+<!ENTITY connecting "Hìaj atuj ma...">
+<!ENTITY availableAddons "Hua nej komplemento:">
+<!ENTITY availableTabs "Hua nej rakïj ñanj:">
 
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
