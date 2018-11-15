@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = બ્લોક
 permissions-capabilities-prompt =
     .label = હંમેશા પૂછો
+permissions-capabilities-listitem-allow =
+    .value = માન્યતા આપો
+permissions-capabilities-listitem-block =
+    .value = બ્લોક
+permissions-capabilities-listitem-allow-first-party =
+    .value = ફક્ત પ્રથમ પાર્ટીને પરવાનગી આપો
+permissions-capabilities-listitem-allow-session =
+    .value = સત્ર માટે માન્યતા આપો
 
 ## Invalid Hostname Dialog
 
