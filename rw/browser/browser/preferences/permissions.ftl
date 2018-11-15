@@ -19,6 +19,12 @@ permissions-capabilities-allow =
     .label = Emera
 permissions-capabilities-block =
     .label = Funga
+permissions-capabilities-listitem-allow =
+    .value = Emera
+permissions-capabilities-listitem-block =
+    .value = Funga
+permissions-capabilities-listitem-allow-session =
+    .value = Emeza umukoro
 
 ## Invalid Hostname Dialog
 
@@ -41,6 +47,9 @@ permissions-exceptions-popup-desc = Ushobora kuvuga ayahe ma webu yemerewe gufun
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Ushobora kuvuga ayahe mbuga zemerewe kwinjiza imigereka. Injiza aderesi nyayo ya webu ushaka kwemerera maze ukande Emera.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
