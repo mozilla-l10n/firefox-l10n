@@ -283,6 +283,6 @@ certs-enable-ocsp =
 
 ## The following strings are used in the Download section of settings
 
-desktop-folder-name = डेस्कटॉप{ " " }
+desktop-folder-name = डेस्कटॉप
 downloads-folder-name = डाऊनलोड
 choose-download-folder-title = डावनलोड धारक निवडात:
