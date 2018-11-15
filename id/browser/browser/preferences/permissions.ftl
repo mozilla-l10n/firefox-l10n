@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Izinkan
 permissions-capabilities-listitem-block =
     .value = Blokir
+permissions-capabilities-listitem-allow-first-party =
+    .value = Izinkan hanya dari pihak pertama
 permissions-capabilities-listitem-allow-session =
     .value = Izinkan untuk Sesi ini
 
