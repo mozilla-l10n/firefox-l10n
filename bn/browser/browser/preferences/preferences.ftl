@@ -832,3 +832,4 @@ certs-devices =
 
 desktop-folder-name = ডেস্কটপ
 downloads-folder-name = ডাউনলোড
+choose-download-folder-title = ডাউনলোড ফোল্ডার নির্বাচন করুন:
