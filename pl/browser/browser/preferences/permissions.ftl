@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Zezwalaj
 permissions-capabilities-listitem-block =
     .value = Blokuj
+permissions-capabilities-listitem-allow-first-party =
+    .value = Tylko z odwiedzanej witryny
 permissions-capabilities-listitem-allow-session =
     .value = Zezwalaj na czas sesji
 

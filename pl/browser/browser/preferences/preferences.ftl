@@ -761,8 +761,15 @@ certs-view =
 certs-devices =
     .label = Urządzenia zabezpieczające…
     .accesskey = U
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] Zaczyna brakować miejsca na dysku dla programu { -brand-short-name }. Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Opcje → Prywatność i bezpieczeństwo → Ciasteczka i dane stron.
+       *[other] Zaczyna brakować miejsca na dysku dla programu { -brand-short-name }. Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Preferencje → Prywatność i bezpieczeństwo → Ciasteczka i dane stron.
+    }
+space-alert-under-5gb-message = Zaczyna brakować miejsca na dysku dla programu { -brand-short-name }. Zawartość stron może być wyświetlana niepoprawnie. Skorzystaj z odnośnika „Więcej informacji”, aby zoptymalizować użycie dysku dla lepszego przeglądania.
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Pulpit
+downloads-folder-name = Pobrane
 choose-download-folder-title = Wybór folderu dla pobieranych plików
