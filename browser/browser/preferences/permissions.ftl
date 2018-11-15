@@ -13,6 +13,12 @@ permissions-capabilities-allow =
     .label = Letlelela
 permissions-capabilities-block =
     .label = Kgoreletsa
+permissions-capabilities-listitem-allow =
+    .value = Letlelela
+permissions-capabilities-listitem-block =
+    .value = Kgoreletsa
+permissions-capabilities-listitem-allow-session =
+    .value = Letlelela mo pakeng
 
 ## Invalid Hostname Dialog
 
@@ -33,6 +39,9 @@ permissions-exceptions-popup-desc = O ka totobatsa gore ke di webosaete dife tse
 
 
 ## Exceptions - Add-ons
+
+
+## Exceptions - Autoplay Media
 
 
 ## Site Permissions - Notifications
