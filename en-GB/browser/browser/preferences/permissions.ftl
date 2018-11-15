@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Block
 permissions-capabilities-prompt =
     .label = Always Ask
+permissions-capabilities-listitem-allow =
+    .value = Allow
+permissions-capabilities-listitem-block =
+    .value = Block
+permissions-capabilities-listitem-allow-session =
+    .value = Allow for Session
 
 ## Invalid Hostname Dialog
 
@@ -82,6 +88,9 @@ permissions-exceptions-addons-window =
     .title = Allowed Web Sites - Add-ons Installation
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 

@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -137,17 +129,8 @@ is-not-default = { -brand-short-name } is not your default browser
 set-as-my-default-browser =
     .label = Make Default…
     .accesskey = D
-startup-page = When { -brand-short-name } starts
-    .accesskey = s
-startup-user-homepage =
-    .label = Show your home page
-startup-blank-page =
-    .label = Show a blank page
-startup-prev-session =
-    .label = Show your windows and tabs from last time
 disable-extension =
     .label = Disable Extension
-home-page-header = Home Page
 tabs-group-header = Tabs
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab cycles through tabs in recently used order
@@ -267,7 +250,6 @@ play-drm-content =
 play-drm-content-learn-more = Learn more
 update-application-title = { -brand-short-name } Updates
 update-application-description = Keep { -brand-short-name } up to date for the best performance, stability, and security.
-update-application-info = Version { $version } <a>What's new</a>
 update-application-version = Version { $version } <a data-l10n-name="learn-more">What's new</a>
 update-history =
     .label = Show Update History…
@@ -303,7 +285,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Content process limit
     .accesskey = L
 performance-limit-content-process-enabled-desc = Additional content processes can improve performance when using multiple tabs, but will also use more memory.
-performance-limit-content-process-disabled-desc = Modifying the number of content processes is only possible with multiprocess { -brand-short-name }. <a>Learn how to check if multiprocess is enabled</a>
 performance-limit-content-process-blocked-desc = Modifying the number of content processes is only possible with multiprocess { -brand-short-name }. <a data-l10n-name="learn-more">Learn how to check if multiprocess is enabled</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -331,7 +312,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Network Proxy
 network-proxy-connection-description = Configure how { -brand-short-name } connects to the internet.
 network-proxy-connection-learn-more = Learn More
 network-proxy-connection-settings =
@@ -373,9 +353,6 @@ use-current-pages =
 choose-bookmark =
     .label = Use Bookmark…
     .accesskey = B
-restore-default =
-    .label = Restore to Default
-    .accesskey = R
 
 ## Search Section
 
@@ -569,9 +546,6 @@ history-dontremember-description = { -brand-short-name } will use the same setti
 history-private-browsing-permanent =
     .label = Always use private browsing mode
     .accesskey = p
-history-remember-option =
-    .label = Remember my browsing and download history
-    .accesskey = b
 history-remember-search-option =
     .label = Remember search and form history
     .accesskey = f
@@ -594,22 +568,8 @@ sitedata-total-size-calculating = Calculating site data and cache size…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Your stored cookies, site data and cache are currently using { $value } { $unit } of disc space.
 sitedata-learn-more = Learn more
-sitedata-accept-cookies-option =
-    .label = Accept cookies and site data from web sites (recommended)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Block cookies and site data (may cause web sites to break)
-    .accesskey = B
 sitedata-keep-until = Keep until
     .accesskey = u
-sitedata-accept-third-party-desc = Accept third-party cookies and site data
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = Always
-sitedata-accept-third-party-visited-option =
-    .label = From visited
-sitedata-accept-third-party-never-option =
-    .label = Never
 sitedata-clear =
     .label = Clear Data…
     .accesskey = l
@@ -635,6 +595,9 @@ addressbar-locbar-openpage-option =
     .accesskey = O
 addressbar-suggestions-settings = Change preferences for search engine suggestions
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 tracking-header = Tracking Protection
@@ -649,10 +612,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Never
     .accesskey = n
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Use Tracking Protection in Private Browsing to block known trackers
-    .accesskey = v
 tracking-exceptions =
     .label = Exceptions…
     .accesskey = x
@@ -758,3 +717,9 @@ certs-view =
 certs-devices =
     .label = Security Devices…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Desktop
+downloads-folder-name = Downloads
+choose-download-folder-title = Choose Download Folder:
