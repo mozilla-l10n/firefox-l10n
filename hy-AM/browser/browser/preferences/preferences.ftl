@@ -730,3 +730,7 @@ certs-view =
 certs-devices =
     .label = Անվտանգության սարքեր...
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Աշխատասեղան
