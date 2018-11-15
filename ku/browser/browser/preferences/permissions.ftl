@@ -22,6 +22,8 @@ permissions-capabilities-allow =
     .label = Destûrê bide
 permissions-capabilities-block =
     .label = Asteng Bike
+permissions-capabilities-listitem-block =
+    .value = Asteng Bike
 
 ## Invalid Hostname Dialog
 
@@ -44,6 +46,9 @@ permissions-exceptions-popup-desc = Dikarî diyar bikî ka kîjan malper ji bo v
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Dikarî diyar bikî ka kîjan malper sazkirina ji bo add-onan bidestûr in. Navnîşana malpera ku dixwazî bi rê ve bibî têkevê û Destûrê Bide bitikîne.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 

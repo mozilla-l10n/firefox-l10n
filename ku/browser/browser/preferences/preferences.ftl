@@ -29,6 +29,17 @@ feature-enable-requires-restart = Ji bo ku ev taybetî çalak bibe pêwîst e { 
 feature-disable-requires-restart = Ji bo ku ev taybetî neçalak bibe pêwîst e { -brand-short-name } ji nû ve bê destpêkirin.
 should-restart-title = Nûdestpêkirina { -brand-short-name }
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -36,8 +47,6 @@ should-restart-title = Nûdestpêkirina { -brand-short-name }
 
 startup-header = Destpêk
 is-default = { -brand-short-name } jixwe geroka te ya standard e
-startup-blank-page =
-    .label = Rûpeleke vala nîşan bide
 tabs-group-header = Hilpekîn
 show-tabs-in-taskbar =
     .label = Di darikê amûran a Windowsê de pêşdîtina hilpekînê nîşan bide
@@ -128,9 +137,6 @@ use-current-pages =
 choose-bookmark =
     .label = Bijareyê bi kar bîne...
     .accesskey = B
-restore-default =
-    .label = Vegêrîna Pêşsalixbûyî
-    .accesskey = V
 
 ## Search Section
 
@@ -190,9 +196,6 @@ history-dontremember-description = { -brand-short-name } dê heman mîhengê ji 
 history-private-browsing-permanent =
     .label = Her tim moda gera nepen bi kar bîne
     .accesskey = n
-history-remember-option =
-    .label = Raboriya ger û jêbarkirinên min bi bîr bîne
-    .accesskey = b
 history-remember-search-option =
     .label = Mêjûya lêgerîn û forman bi bîr bîne
     .accesskey = f
@@ -205,15 +208,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = Ji yên serdankirî
-sitedata-accept-third-party-never-option =
-    .label = Qet
 sitedata-cookies-exceptions =
     .label = Rewşên Taybet...
     .accesskey = y
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -243,3 +245,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Sertîfîka
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Sermase
