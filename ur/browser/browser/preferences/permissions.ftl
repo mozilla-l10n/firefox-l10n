@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = ہونے دیں
 permissions-capabilities-listitem-block =
     .value = بلاک کریں
+permissions-capabilities-listitem-allow-first-party =
+    .value = صرف پہلے فریق کو اجازت دیں
 permissions-capabilities-listitem-allow-session =
     .value = سیشن کے لیے اجازت دیں
 
