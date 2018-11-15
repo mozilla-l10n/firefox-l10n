@@ -296,6 +296,13 @@
      Will be used in the context "<Turn on> ... to enable this feature" -->
 <!ENTITY pref_feature_tips_notification_enabling_hint "Activar">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(Para activar esta opción, &pref_feature_tips_notification_enabling_path; debe ya estar activada.)">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Funciones experimentales">
@@ -898,13 +905,16 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Navegador">
 <!ENTITY mls_notification_channel "Servicio de Localización de &vendorShortName;">
 <!ENTITY download_notification_channel "Descargas">
 <!ENTITY media_notification_channel "Reproducción multimedia">
-<!ENTITY media_notification_channel2 "Sonido y video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "Notificaciones Push de &brandShortName;">
+<!ENTITY media_notification_channel2 "Sonido y video">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "Consejos y trucos de &vendorShortName;">
 <!ENTITY updater_notification_channel "Actualizaciones de la aplicación">
 <!ENTITY synced_tabs_notification_channel "Pestañas sincronizadas">
