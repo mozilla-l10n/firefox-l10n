@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Preguntar siempre
+permissions-capabilities-listitem-allow =
+    .value = Habilitar
+permissions-capabilities-listitem-block =
+    .value = Bloquear
+permissions-capabilities-listitem-allow-session =
+    .value = Habilitar durante Sesión
 
 ## Invalid Hostname Dialog
 
