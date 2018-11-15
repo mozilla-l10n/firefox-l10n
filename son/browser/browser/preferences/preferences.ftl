@@ -35,6 +35,17 @@ should-restart-title = { -brand-short-name } tunandi taaga
 should-restart-ok = { -brand-short-name } tunandi taaga sohõ
 restart-later = Tunandi taaga nd'a too kayna
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Ceeci duurawey
@@ -54,15 +65,6 @@ always-check-default =
     .accesskey = w
 is-default = { -brand-short-name } ti war tilasu ceecikaa sohõda.
 is-not-default = { -brand-short-name } manti war tilasu ceecikaa sohõda
-startup-page = Waati kaŋ { -brand-short-name } ga tun
-    .accesskey = t
-startup-user-homepage =
-    .label = War šintin moɲoo cebe
-startup-blank-page =
-    .label = Moo koonu cebe
-startup-prev-session =
-    .label = War zanfuney nda cee koraa kanjey cebe
-home-page-header = War šintin moɲoo cebe
 tabs-group-header = Kanjey
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab willandey kanjey game goyyan kanandi koraw ra
@@ -233,9 +235,6 @@ use-current-pages =
 choose-bookmark =
     .label = Doo-šilbay goyandi...
     .accesskey = D
-restore-default =
-    .label = Bere tilasu alhaali ga
-    .accesskey = B
 
 ## Search Section
 
@@ -363,9 +362,6 @@ history-dontremember-description = { -brand-short-name } ga goy nda kayandiyan f
 history-private-browsing-permanent =
     .label = Wa goy sutura naarumi alhaali ra waati kul
     .accesskey = s
-history-remember-option =
-    .label = Ay naaruyan nda zumandiyan taarikoo gaabu
-    .accesskey = b
 history-remember-search-option =
     .label = Honga ceeci nda takari taariku
     .accesskey = t
@@ -378,10 +374,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = Kaŋ gunandi
-sitedata-accept-third-party-never-option =
-    .label = Abada
 sitedata-cookies-exceptions =
     .label = Hasarawey…
     .accesskey = H
@@ -395,6 +387,9 @@ addressbar-locbar-openpage-option =
     .label = Nor lokey feeri
     .accesskey = f
 addressbar-suggestions-settings = Ibaa&ey barmay ceecijinay honnandiyaney se
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
@@ -457,3 +452,8 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Hayyan OCSP zaabi feršikey ka sohõda tabatandi tiira booriyanoo cimandi.
     .accesskey = H
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Goytaabal
+choose-download-folder-title = Zumandi foolo suuba:
