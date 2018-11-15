@@ -857,4 +857,5 @@ certs-devices =
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Pracovná plocha
+downloads-folder-name = Prevzaté súbory
 choose-download-folder-title = Vyberte priečinok pre prevzaté súbory:

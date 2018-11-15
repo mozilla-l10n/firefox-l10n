@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Povoliť
 permissions-capabilities-listitem-block =
     .value = Zakázať
+permissions-capabilities-listitem-allow-first-party =
+    .value = Povoliť len pre rovnaký server
 permissions-capabilities-listitem-allow-session =
     .value = Povoliť pre reláciu
 
