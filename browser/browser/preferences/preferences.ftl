@@ -850,3 +850,9 @@ certs-view =
 certs-devices =
     .label = Қауіпсіздік құрылғылары…
     .accesskey = ы
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Жұмыс үстелі
+downloads-folder-name = Жүктемелер
+choose-download-folder-title = Жүктемелер сақталатын буманы таңдаңыз:
