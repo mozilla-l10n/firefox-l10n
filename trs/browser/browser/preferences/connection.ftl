@@ -73,3 +73,9 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL da' nagi'io' DNS riña HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Sa 'na' niñaa ({ $url })
+    .accesskey = U
+    .tooltiptext = Garasun URL ngà hua niñaa da' nagi'iát DNS riña HTTPS
