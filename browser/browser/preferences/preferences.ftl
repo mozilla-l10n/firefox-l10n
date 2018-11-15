@@ -874,9 +874,15 @@ space-alert-over-5gb-pref-button =
             [windows] O
            *[other] O
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } n’a plus assez d’espace disque. Le contenu des sites web pourrait ne pas s’afficher correctement. Vous pouvez effacer les données de sites enregistrées depuis Options > Avancé > Cookies et données de sites.
+       *[other] { -brand-short-name } n’a plus assez d’espace disque. Le contenu des sites web pourrait ne pas s’afficher correctement. Vous pouvez effacer les données de sites enregistrées depuis Préférences > Avancé > Cookies et données de sites.
+    }
 space-alert-under-5gb-ok-button =
     .label = OK
     .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } n’a plus assez d’espace disque. Le contenu des sites web pourrait ne pas s’afficher correctement. Cliquez sur « En savoir plus » pour optimiser l’utilisation de votre disque et ainsi améliorer votre navigation.
 
 ## The following strings are used in the Download section of settings
 
