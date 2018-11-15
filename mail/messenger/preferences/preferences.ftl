@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = T
 confirm-messenger-language-change-description = Mula semula { -brand-short-name } untuk melaksanakan perubahan ini
 confirm-messenger-language-change-button = Terap dan Mula semula
+update-pref-write-failure-title = Gagal Menulis
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Tidak dapat menyimpan keutamaan. Tidak dapat menulis ke fail: { $path }

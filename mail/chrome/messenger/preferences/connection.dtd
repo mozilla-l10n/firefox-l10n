@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL untuk menyelesaikan semula DNS mengatasi HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Guna piawai">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "p">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Guna URL piawai untuk menyelesaikan DNS ke atas HTTPS">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Penyesuaian">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "s">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Masukkan URL keutamaan untuk menyelesaikan DNS ke atas HTTPS">
