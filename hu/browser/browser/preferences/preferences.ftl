@@ -874,6 +874,11 @@ space-alert-over-5gb-pref-button =
             [windows] m
            *[other] m
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] A { -brand-short-name } kezd kifogyni a lemezhelyből. A weboldalak tartalma nem feltétlenül jelenik meg helyesen. Az oldalak tárolt adatait a Beállítások > Adatvédelem és biztonság > Sütik és oldaladatok alatt törölheti.
+       *[other] A { -brand-short-name } kezd kifogyni a lemezhelyből. A weboldalak tartalma nem feltétlenül jelenik meg helyesen. Az oldalak tárolt adatait a Beállítások > Adatvédelem és biztonság > Sütik és oldaladatok alatt törölheti.
+    }
 space-alert-under-5gb-ok-button =
     .label = Rendben, értem
     .accesskey = R
