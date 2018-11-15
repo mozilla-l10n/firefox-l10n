@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = l
 confirm-messenger-language-change-description = Reaviar { -brand-short-name } per applitgar questas midadas
 confirm-messenger-language-change-button = Applitgar e reaviar
+update-pref-write-failure-title = Errur cun scriver
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Errur durant memorisar la preferenza. Impussibel da scriver en la datoteca: { $path }
