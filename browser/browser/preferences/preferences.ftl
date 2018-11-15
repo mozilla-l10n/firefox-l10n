@@ -831,6 +831,7 @@ space-alert-over-5gb-pref-button =
 space-alert-under-5gb-ok-button =
     .label = अच्छा, समझ गया
     .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } के लिए डिस्क में जगह कम हो रही है. वेबसाइट सामग्री संभवत: ढंग से प्रदर्शित ना हो पाए. आपके डिस्क उपयोग को बेहतर ब्राउज़िंग अनुभव हेतु अनुकूलित करने के लिए “और जानें” पर जाएं.
 
 ## The following strings are used in the Download section of settings
 
