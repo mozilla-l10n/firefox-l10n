@@ -838,6 +838,28 @@ certs-view =
 certs-devices =
     .label = התקני אבטחה…
     .accesskey = א
+space-alert-learn-more-button =
+    .label = מידע נוסף
+    .accesskey = מ
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] פתיחת אפשרויות
+           *[other] פתיחת העדפות
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] א
+           *[other] ה
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] ל־{ -brand-short-name } אוזל שטח הדיסק. יתכן שתכני אתרים לא יוצגו כשורה. ניתן למחוק נתונים שמורים באפשרויות > פרטיות ואבטחה > עוגיות ונתוני אתרים.
+       *[other] ל־{ -brand-short-name } אוזל שטח הדיסק. יתכן שתכני אתרים לא יוצגו כשורה. ניתן למחוק נתונים שמורים בהעדפות > פרטיות ואבטחה > עוגיות ונתוני אתרים.
+    }
+space-alert-under-5gb-ok-button =
+    .label = בסדר, הבנתי
+    .accesskey = ב
 space-alert-under-5gb-message = ל־{ -brand-short-name } אוזל שטח הדיסק. יתכן שנתוני אתרים לא יוצגו כשורה. ניתן לבקר בקישור של “מידע נוסף” כדי לייעל את אופן השימוש בדיסק לחוויית גלישה טובה יותר.
 
 ## The following strings are used in the Download section of settings
