@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = অনুমোদন করা হবে
 permissions-capabilities-listitem-block =
     .value = প্রতিরোধ করা হবে
+permissions-capabilities-listitem-allow-first-party =
+    .value = শুধুমাত্র প্রথম পক্ষকে অনুমোদন করা হবে
 permissions-capabilities-listitem-allow-session =
     .value = সেশনের জন্য অনুমোদন করা হবে
 
