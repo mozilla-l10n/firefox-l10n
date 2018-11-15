@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = İzin ver
 permissions-capabilities-listitem-block =
     .value = Engelle
+permissions-capabilities-listitem-allow-first-party =
+    .value = Yalnızca ilk partiye izin ver
 
 ## Invalid Hostname Dialog
 
