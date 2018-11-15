@@ -7,6 +7,7 @@ password-not-set =
 failed-pw-change = Não foi possível alterar a palavra-passe mestra.
 incorrect-pw = A palavra-passe que digitou não corresponde com a palavra-passe mestra atual. Por favor tente novamente.
 pw-change-ok = Palavra-passe mestra alterada com sucesso. { pw-empty-warning }
+pw-empty-warning = As suas palavras-passe da web e de email, dados de formulários, e chaves privadas armazenadas não serão protegidas.
 pw-erased-ok = Apagou a sua palavra-passe mestra.  { pw-empty-warning }
 pw-not-wanted = Aviso! Decidiu não utilizar uma palavra-passe mestra.
 pw-change2empty-in-fips-mode = Atualmente, está no modo FIPS. Este modo requer uma palavra-passe mestra não vazia.
