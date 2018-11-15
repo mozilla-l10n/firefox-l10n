@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Tiltás
 permissions-capabilities-prompt =
     .label = Rákérdezés mindig
+permissions-capabilities-listitem-allow =
+    .value = Engedélyezés
+permissions-capabilities-listitem-block =
+    .value = Tiltás
+permissions-capabilities-listitem-allow-session =
+    .value = Engedélyezés a munkamenetben
 
 ## Invalid Hostname Dialog
 

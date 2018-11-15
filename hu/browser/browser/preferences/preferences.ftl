@@ -860,6 +860,12 @@ certs-view =
 certs-devices =
     .label = Adatvédelmi eszközök…
     .accesskey = e
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Asztal
+downloads-folder-name = Letöltések
+choose-download-folder-title = Letöltési mappa kiválasztása:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
