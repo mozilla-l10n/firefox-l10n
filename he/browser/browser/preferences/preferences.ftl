@@ -841,3 +841,5 @@ certs-devices =
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = שולחן עבודה
+downloads-folder-name = הורדות

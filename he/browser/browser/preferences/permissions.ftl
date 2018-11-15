@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = חסום
 permissions-capabilities-prompt =
     .label = לשאול תמיד
+permissions-capabilities-listitem-allow =
+    .value = הרשה
+permissions-capabilities-listitem-block =
+    .value = חסום
+permissions-capabilities-listitem-allow-first-party =
+    .value = הרשאה לצד ראשון בלבד
+permissions-capabilities-listitem-allow-session =
+    .value = הרשה למשך ההפעלה
 
 ## Invalid Hostname Dialog
 
