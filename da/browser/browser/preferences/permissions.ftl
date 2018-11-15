@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Tillad
 permissions-capabilities-listitem-block =
     .value = Bloker
+permissions-capabilities-listitem-allow-first-party =
+    .value = Tillad kun for det oprindelige websted
 permissions-capabilities-listitem-allow-session =
     .value = Tillad for session
 

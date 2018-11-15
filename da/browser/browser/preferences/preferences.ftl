@@ -850,6 +850,29 @@ certs-view =
 certs-devices =
     .label = Sikkerhedsmoduler…
     .accesskey = S
+space-alert-learn-more-button =
+    .label = Læs mere
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Åbn indstillinger
+           *[other] Åbn indstillinger
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] i
+           *[other] i
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } er ved at løbe tør for diskplads. Websteds-indhold bliver muligvis ikke vist korrekt. Du kan rydde gemte websteds-data i Indstillinger > Privatliv & sikkerhed > Cookies og websteds-data.
+       *[other] { -brand-short-name } er ved at løbe tør for diskplads. Websteds-indhold bliver muligvis ikke vist korrekt. Du kan rydde gemte websteds-data i Indstillinger > Privatliv & sikkerhed > Cookies og websteds-data.
+    }
+space-alert-under-5gb-ok-button =
+    .label = OK
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } er ved at løbe tør for diskplads. Websteds-indhold bliver muligvis ikke vist korrekt. Klik på "Læs mere" og lær, hvordan du kan få en bedre browsing-oplevelse ved at optimere diskforbrug.
 
 ## The following strings are used in the Download section of settings
 
