@@ -212,7 +212,6 @@ browsing-use-smooth-scrolling =
 
 ## General Section - Proxy
 
-network-proxy-title = ພຣັອກຊີເຄືອຂ່າຍ
 network-settings-title = ຕັ້ງຄ່າເຄື່ອຂ່າຍ
 network-proxy-connection-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 network-proxy-connection-settings =
@@ -467,26 +466,12 @@ sitedata-total-size-calculating = ກຳລັງຄຳນວນຂໍ້ມູ�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = ຄຸກກີ້, ຂໍ້ມູນເວັບໄຊ ແລະແຄຊທີ່ຖືກຈັດເກັບໄວ້ຂອງທ່ານໃຊ້ພື້ນທີ່ດິສກ໌ { $value } { $unit }.
 sitedata-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
-sitedata-accept-cookies-option =
-    .label = ຍອມຮັບຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊຈາກເວັບໄຊ (ແນະນຳ)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = ບັອກຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊ (ອາດສົ່ງຜົນໃຫ້ເວັບໄຊບໍ່ສົມບູນ)
-    .accesskey = B
 sitedata-keep-until = ເກັບຈົນກວ່າ
     .accesskey = u
 sitedata-keep-until-expire =
     .label = ພວກມັນໝົດອາຍຸ
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ຖືກປິດ
-sitedata-accept-third-party-desc = ຍອມຮັບຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊຈາກບຸກຄົນທີ່ສາມ
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = ຕະຫລອດເວລາ
-sitedata-accept-third-party-visited-option =
-    .label = ຈາກການຢ້ຽມຊົມ
-sitedata-accept-third-party-never-option =
-    .label = ບໍ່ເຄີຍ
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = ປະເພດທີ່ຖືກປິດກັ້ນ
@@ -568,10 +553,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = ບໍ່ເຄີຍ
     .accesskey = ບ
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = ໃຊ້ການປ້ອງກັນການຕິດຕາມໃນການທ່ອງເວັບແບບສ່ວນຕົວເພື່ອບັອກຕົວຕິດຕາມທີ່ຮູ້ຈັກ
-    .accesskey = v
 tracking-exceptions =
     .label = ຂໍ້ຍົກເວັ້ນ…
     .accesskey = x
@@ -681,3 +662,6 @@ certs-view =
 certs-devices =
     .label = ອຸປະກອນຄວາມປອດໄພ…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+

@@ -42,6 +42,8 @@ permissions-capabilities-block =
     .label = ບັອກ
 permissions-capabilities-prompt =
     .label = ຖາມທຸກຄັ້ງ
+permissions-capabilities-listitem-allow =
+    .value = ອະນຸຍາດ
 
 ## Invalid Hostname Dialog
 
@@ -85,10 +87,6 @@ permissions-exceptions-addons-desc = ທ່ານສາມາດກຳນົດ�
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = ອະນຸຍາດເວັບໄຊ - ຫຼິ້ນອັດຕະໂນມັດ
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = ທ່ານສາມາດລະບຸເວັບໄຊທີ່ອະນູຍາດໃຫ້ຫຼິ້ນອົງປະກອບສື່ໂດຍອັດຕະໂນມັດ. ພິມທີ່ຢູ່ຂອງໄຊທີ່ທ່ານຕ້ອງການອະນຸຍາດແລ້ວຄິກ ອະນຸຍາດ.
 permissions-exceptions-autoplay-media-window2 =
     .title = ຂໍ້ຍົກເວັ້ນ - ຫຼິ້ນແບບອັດຕະໂນມັດ
     .style = { permissions-window.style }
