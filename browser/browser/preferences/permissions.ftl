@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = അനുവദിക്കുക{ " " }
 permissions-capabilities-listitem-block =
     .value = തടയുക{ " " }
+permissions-capabilities-listitem-allow-first-party =
+    .value = ആദ്യത്തെ പാര്‍ട്ടിയെ മാത്രം അനുവദിയ്ക്കുക
 permissions-capabilities-listitem-allow-session =
     .value = ഈ സെഷന്‌ അനുവദിക്കുക
 
