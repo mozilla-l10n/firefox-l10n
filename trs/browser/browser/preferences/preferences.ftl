@@ -860,6 +860,10 @@ certs-view =
 certs-devices =
     .label = Nej sa dugumi...
     .accesskey = N
+
+## The following strings are used in the Download section of settings
+
+downloads-folder-name = Nadunínj
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
