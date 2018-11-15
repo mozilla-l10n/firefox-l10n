@@ -46,6 +46,10 @@ permissions-capabilities-listitem-allow =
     .value = Tillat
 permissions-capabilities-listitem-block =
     .value = Blokker
+permissions-capabilities-listitem-allow-first-party =
+    .value = Tillat berre frå eiga kjelde
+permissions-capabilities-listitem-allow-session =
+    .value = Tillat for programøkta
 
 ## Invalid Hostname Dialog
 
