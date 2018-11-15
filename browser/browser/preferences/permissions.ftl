@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Leyfa
 permissions-capabilities-listitem-block =
     .value = Loka á
+permissions-capabilities-listitem-allow-first-party =
+    .value = Leyfa aðeins fyrsta aðila
 
 ## Invalid Hostname Dialog
 
