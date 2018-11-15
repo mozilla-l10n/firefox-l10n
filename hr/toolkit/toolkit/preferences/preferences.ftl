@@ -8,6 +8,7 @@ failed-pw-change = Nije moguće promijeniti glavnu lozinku.
 incorrect-pw = Niste točno upisali trenutnu glavnu lozinku. Molim pokušajte ponovno.
 pw-change-ok = Glavna lozinka je uspješno promijenjena. { pw-empty-warning }
 pw-empty-warning = Vaše web i lozinke e-pošte, podaci formulara i privatni ključevi neće biti zaštićeni.
+pw-erased-ok = Obrisali ste svoju glavnu lozinku.  { pw-empty-warning }
 pw-not-wanted = Upozorenje! Odabrali ste ne koristiti glavnu lozinku.
 pw-change2empty-in-fips-mode = Trenutačno ste u FIPS modu. FIPS ne dopušta praznu glavnu lozinku.
 pw-change-success-title = Promjena lozinke je uspjela
