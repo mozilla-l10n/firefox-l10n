@@ -22,6 +22,14 @@ permissions-capabilities-allow =
     .label = अनुमती दियात
 permissions-capabilities-block =
     .label = आडावचें
+permissions-capabilities-listitem-allow =
+    .value = अनुमती दियात
+permissions-capabilities-listitem-block =
+    .value = आडावचें
+permissions-capabilities-listitem-allow-first-party =
+    .value = पयल्या पार्टीकूच परवानगी दियात
+permissions-capabilities-listitem-allow-session =
+    .value = सत्राक मेकळीक दिवची
 
 ## Invalid Hostname Dialog
 
@@ -44,6 +52,9 @@ permissions-exceptions-popup-desc = खंयच्या वेबसायट�
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = खंयच्या वेबसायटींक अॅड-ऑन्स प्रतिष्ठापित करपाक मेळटा ते तुमी स्पश्ट करपाक शकता. तुमका परवानगी दिवपाक जाय त्या सायटीचो सारको नामो दियात आनी मागीर परवानगी दियात चेर क्लीक करात.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 

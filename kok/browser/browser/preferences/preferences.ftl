@@ -27,6 +27,17 @@ feature-enable-requires-restart = हे वैशिष्ट्य सक्�
 feature-disable-requires-restart = हे वैशिष्ट्य निष्क्रिय करपाक { -brand-short-name } न परत चालू जावपाक जाय.
 should-restart-title = { -brand-short-name } परतून सुरू करचें
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -40,8 +51,6 @@ separate-profile-mode =
 use-firefox-sync = टीप: ही वेगळी प्रोफायला वापरता. तांचेभीतर डेटा वाटपाक सिंक वापरात.
 is-default = { -brand-short-name } तुमचो सद्याचो मूळ ब्रावजर
 is-not-default = { -brand-short-name } हे तुमचे मुळावे ब्रावजर न्ही
-startup-blank-page =
-    .label = रिकामे पान दाखयात
 tabs-group-header = टॅब्जा
 show-tabs-in-taskbar =
     .label = विंडोस कार्यपट्टींत टॅब पूर्वदेखाव दाखोवचो
@@ -141,9 +150,6 @@ use-current-pages =
 choose-bookmark =
     .label = बुकमार्क वापरात…
     .accesskey = B
-restore-default =
-    .label = मुळावो परतून हाडात
-    .accesskey = R
 
 ## Search Section
 
@@ -216,9 +222,6 @@ history-dontremember-description = { -brand-short-name } खाजगी ब्�
 history-private-browsing-permanent =
     .label = सदाच खाजगी ब्रावजींग स्थिती वापरात
     .accesskey = p
-history-remember-option =
-    .label = म्हजी ब्रावजींग आनि डावनलोड इतिहास याद दवरात
-    .accesskey = b
 history-remember-search-option =
     .label = सोद आनी फॉर्म इतिहास उगडास धरचो
     .accesskey = फ
@@ -231,10 +234,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = भेट दिल्ल्या कडल्यान
-sitedata-accept-third-party-never-option =
-    .label = केन्नाच ना
 sitedata-cookies-exceptions =
     .label = अपवाद...
     .accesskey = E
@@ -247,6 +246,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = टॅबां उगडात
     .accesskey = उ
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
@@ -278,3 +280,9 @@ certs-header = प्रमाणपत्रां
 certs-enable-ocsp =
     .label = प्रमाणपत्रांची सद्याची वैधता विचारपाक OCSP प्रतिसाद दिवपी सर्वरांक प्रस्न विचारात
     .accesskey = प
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = डेस्कटॉप{ " " }
+downloads-folder-name = डाऊनलोड
+choose-download-folder-title = डावनलोड धारक निवडात:
