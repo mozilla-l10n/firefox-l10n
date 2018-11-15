@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Erlauben
 permissions-capabilities-listitem-block =
     .value = Blockieren
+permissions-capabilities-listitem-allow-first-party =
+    .value = Nur als aufgerufene Seite erlauben
 permissions-capabilities-listitem-allow-session =
     .value = Für diese Sitzung erlauben
 
