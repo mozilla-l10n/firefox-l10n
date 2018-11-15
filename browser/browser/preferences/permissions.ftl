@@ -48,6 +48,8 @@ permissions-capabilities-listitem-block =
     .value = 阻止
 permissions-capabilities-listitem-allow-first-party =
     .value = 只允许第一方
+permissions-capabilities-listitem-allow-session =
+    .value = 在这次浏览期间允许
 
 ## Invalid Hostname Dialog
 
