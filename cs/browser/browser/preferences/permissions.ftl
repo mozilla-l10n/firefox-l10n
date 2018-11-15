@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Blokovat
 permissions-capabilities-prompt =
     .label = Vždy se zeptat
+permissions-capabilities-listitem-allow =
+    .value = Povolit
+permissions-capabilities-listitem-block =
+    .value = Blokovat
+permissions-capabilities-listitem-allow-session =
+    .value = Povolit pro relaci
 
 ## Invalid Hostname Dialog
 

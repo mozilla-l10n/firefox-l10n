@@ -867,6 +867,12 @@ certs-view =
 certs-devices =
     .label = Bezpečnostní zařízení…
     .accesskey = B
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Plocha
+downloads-folder-name = Stažené soubory
+choose-download-folder-title = Vyberte složku pro stahování souborů
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =

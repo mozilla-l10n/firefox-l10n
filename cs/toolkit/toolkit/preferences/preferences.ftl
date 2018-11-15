@@ -1,0 +1,12 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+password-not-set =
+    .value = (není nastaveno)
+failed-pw-change = Nelze změnit hlavní heslo.
+incorrect-pw = Nezadali jste správné hlavní heslo. Zkuste to prosím znovu.
+pw-change-ok = Hlavní heslo bylo úspěšně změněno. { pw-empty-warning }
+pw-not-wanted = Varování! Přestali jste používat své hlavní heslo.
+pw-change-success-title = Úspěšná změna hesla
+pw-change-failed-title = Neúspěšná změna hesla
