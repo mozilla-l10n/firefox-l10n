@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Блакаваць
 permissions-capabilities-prompt =
     .label = Заўсёды пытаць
+permissions-capabilities-listitem-allow =
+    .value = Дазволіць
+permissions-capabilities-listitem-block =
+    .value = Блакаваць
+permissions-capabilities-listitem-allow-first-party =
+    .value = Дазволіць толькі першапачатковаму боку
+permissions-capabilities-listitem-allow-session =
+    .value = Дазволіць на час сэсіі
 
 ## Invalid Hostname Dialog
 
