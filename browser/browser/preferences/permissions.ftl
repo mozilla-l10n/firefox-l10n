@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Salli
 permissions-capabilities-listitem-block =
     .value = Estä
+permissions-capabilities-listitem-allow-first-party =
+    .value = Salli vain ensimmäisen osapuolen
 permissions-capabilities-listitem-allow-session =
     .value = Salli istunnon ajaksi
 
