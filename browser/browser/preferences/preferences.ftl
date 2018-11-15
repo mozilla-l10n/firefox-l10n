@@ -862,3 +862,9 @@ certs-view =
 certs-devices =
     .label = أجهزة الأمن…
     .accesskey = ج
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = سطح المكتب
+downloads-folder-name = التّنزيلات
+choose-download-folder-title = اختر مجلّد التّنزيلات:

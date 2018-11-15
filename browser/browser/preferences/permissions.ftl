@@ -42,6 +42,8 @@ permissions-capabilities-block =
     .label = احجب
 permissions-capabilities-prompt =
     .label = اسأل دائمًا
+permissions-capabilities-listitem-allow =
+    .value = اسمح
 
 ## Invalid Hostname Dialog
 
@@ -85,10 +87,6 @@ permissions-exceptions-addons-desc = يمكنك تحديد أي مواقع يس�
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = مواقع الوِب المسموح لها - التشغيل التلقائي
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = يمكنك تحديد المواقع المسموح لها تشغيل عناصر الوسائط تلقائيا. اكتب عنوان الموقع الذي تريد السماح له ثم انقر ”اسمح“.
 permissions-exceptions-autoplay-media-window2 =
     .title = الاستثناءات - التشغيل التلقائي
     .style = { permissions-window.style }
