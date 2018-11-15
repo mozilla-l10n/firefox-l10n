@@ -4,6 +4,8 @@
 
 password-not-set =
     .value = (ni nastavljeno)
+failed-pw-change = Glavnega gesla ni bilo mogoče spremeniti.
+incorrect-pw = Vneseno glavno geslo je napačno. Poskusite znova.
 pw-change-ok = Glavno geslo je spremenjeno. { pw-empty-warning }
 pw-empty-warning = Shranjena gesla, podatki obrazcev in podobno ne bodo zaščiteni.
 pw-erased-ok = Zbrisali ste svoje glavno geslo. { pw-empty-warning }

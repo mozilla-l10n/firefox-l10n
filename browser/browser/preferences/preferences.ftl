@@ -859,6 +859,11 @@ certs-view =
 certs-devices =
     .label = Varnostne naprave …
     .accesskey = V
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name }u zmanjkuje prostora. Vsebina spletnih strani morda ne bo prikazana pravilno. Shranjene podatke lahko izbrišete v Možnosti > Zasebnost in varnost > Piškotki in podatki strani.
+       *[other] { -brand-short-name }u zmanjkuje prostora. Vsebina spletnih strani morda ne bo prikazana pravilno. Shranjene podatke lahko izbrišete v Nastavitve > Zasebnost in varnost > Piškotki in podatki strani.
+    }
 
 ## The following strings are used in the Download section of settings
 
