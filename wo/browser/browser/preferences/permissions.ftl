@@ -22,6 +22,12 @@ permissions-capabilities-allow =
     .label = May
 permissions-capabilities-block =
     .label = Boloke
+permissions-capabilities-listitem-allow =
+    .value = May
+permissions-capabilities-listitem-block =
+    .value = Boloke
+permissions-capabilities-listitem-allow-session =
+    .value = May ci sesiyoŋ bi
 
 ## Invalid Hostname Dialog
 
@@ -44,6 +50,9 @@ permissions-exceptions-popup-desc = Mën nga wone dalub web yi ñu may ñu ubbi 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Mën nga wone dalub web yi ñu may ñu samp ay modili mottali. Roofal màkaanu dal bi nga bëgg may te nga cuq ci may.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 

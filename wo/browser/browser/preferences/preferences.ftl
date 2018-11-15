@@ -25,6 +25,17 @@ close-button =
 ## Browser Restart Dialog
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -32,8 +43,6 @@ close-button =
 
 startup-header = Tàmbali
 is-default = { -brand-short-name } mooy leegi sa joowukaay ñakk ndigal
-startup-blank-page =
-    .label = Wane xët bu wëyëŋ
 show-tabs-in-taskbar =
     .label = Wone seenub koñ yi ci banqaasu sas bu windows
     .accesskey = n
@@ -125,9 +134,6 @@ use-current-pages =
 choose-bookmark =
     .label = Mandarga xët...
     .accesskey = M
-restore-default =
-    .label = Delloosi tabbinu ñakk ndigal
-    .accesskey = D
 
 ## Search Section
 
@@ -184,9 +190,6 @@ history-dontremember-description = { -brand-short-name } dina jëfandikoo parame
 history-private-browsing-permanent =
     .label = Saa su nekk jëfandikoo anamu joowum biir
     .accesskey = j
-history-remember-option =
-    .label = Dencal jaar jaaru njoow mi ak yeb yi
-    .accesskey = D
 history-remember-search-option =
     .label = Denc jaar jaaru wut yi ak formileer yi
     .accesskey = f
@@ -199,15 +202,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-always-option =
-    .label = Saa su ne
-sitedata-accept-third-party-never-option =
-    .label = Mukk
 sitedata-cookies-exceptions =
     .label = Seppi yi…
     .accesskey = S
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -237,3 +239,9 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Sarsifikaa
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Biro
+downloads-folder-name = Yeb yi
+choose-download-folder-title = Tànn wayndare yeb:
