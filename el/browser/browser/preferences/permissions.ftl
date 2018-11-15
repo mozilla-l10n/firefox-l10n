@@ -42,10 +42,14 @@ permissions-capabilities-block =
     .label = Φραγή
 permissions-capabilities-prompt =
     .label = Πάντα ερώτηση
+permissions-capabilities-listitem-allow =
+    .value = Αποδοχή
 permissions-capabilities-listitem-block =
     .value = Φραγή
 permissions-capabilities-listitem-allow-first-party =
     .value = Να επιτρέπεται μόνο στους άμεσα εμπλεκόμενους
+permissions-capabilities-listitem-allow-session =
+    .value = Αποδοχή για τη συνεδρία
 
 ## Invalid Hostname Dialog
 
