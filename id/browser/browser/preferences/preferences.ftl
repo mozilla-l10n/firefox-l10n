@@ -834,6 +834,7 @@ certs-view =
 certs-devices =
     .label = Peranti Keamanan…
     .accesskey = P
+space-alert-under-5gb-message = { -brand-short-name } kehabisan ruang disk. Konten situs barangkali tidak dapat ditampilkan dengan tepat. Kunjungi “Pelajari Lebih Lanjut” untuk mengoptimalkan penggunaan disk Anda untuk pengalaman penjelajahan yang lebih baik.
 
 ## The following strings are used in the Download section of settings
 
