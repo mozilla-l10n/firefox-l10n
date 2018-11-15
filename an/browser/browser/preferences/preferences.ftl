@@ -754,6 +754,11 @@ space-alert-over-5gb-pref-button =
             [windows] U
            *[other] U
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } se ye quedando sin espacio de disco. Los contenius web puede que no s'amuestren correctament. Puetz borrar los datos almagazenaus en Opcions > Privacidat & Seguranza > Cookies y datos d'o puesto.
+       *[other] { -brand-short-name } se ye quedando sin espacio de disco. Los contenius web puede que no s'amuestren correctament. Puetz borrar los datos almagazenaus en Preferencias > Privacidat & Seguranza > Cookies y datos d'o puesto.
+    }
 space-alert-under-5gb-ok-button =
     .label = Entendiu
     .accesskey = d
