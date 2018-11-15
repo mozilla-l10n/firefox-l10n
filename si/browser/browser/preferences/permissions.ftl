@@ -28,6 +28,12 @@ permissions-capabilities-allow =
     .label = අනුමත කරන්න
 permissions-capabilities-block =
     .label = අවහිර කරන්න
+permissions-capabilities-listitem-allow =
+    .value = අනුමත කරන්න
+permissions-capabilities-listitem-block =
+    .value = අවහිර කරන්න
+permissions-capabilities-listitem-allow-session =
+    .value = සැසිය සඳහා අනුමතයි
 
 ## Invalid Hostname Dialog
 
@@ -50,6 +56,9 @@ permissions-exceptions-popup-desc = උපත්තන කවුළු විව
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = ඇඩෝන ස්ථාපනයට අවසර ඇති වෙබ් අඩවි ඔබට නිර්ණය කල හැක. ඔබට කළමනාකරණය කිරීමට අවශ්‍ය ඒවායේ නිවැරදි ලිපිනය ඇතුළත් කර අවහිර කරන්න හෝ  අනුමත කරන්න ක්ලික් කරන්න.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 

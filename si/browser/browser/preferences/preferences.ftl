@@ -518,3 +518,9 @@ certs-view =
 certs-devices =
     .label = ආරක්ෂක උපාංග…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = මුලිකතිරය
+downloads-folder-name = බාගැනිම්
+choose-download-folder-title = බාගත විමේ බහලුම තේරීම:
