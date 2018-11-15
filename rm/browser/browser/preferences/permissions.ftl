@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Bloccar
 permissions-capabilities-prompt =
     .label = Adina dumandar
+permissions-capabilities-listitem-allow =
+    .value = Permetter
+permissions-capabilities-listitem-block =
+    .value = Bloccar
+permissions-capabilities-listitem-allow-first-party =
+    .value = Mo permetter per la domena principala
+permissions-capabilities-listitem-allow-session =
+    .value = Permetter per questa sesida
 
 ## Invalid Hostname Dialog
 
