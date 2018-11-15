@@ -6,6 +6,7 @@ password-not-set =
     .value = (niet ingesteld)
 failed-pw-change = Kan hoofdwachtwoord niet wijzigen.
 incorrect-pw = U hebt niet het juiste huidige hoofdwachtwoord ingevoerd. Probeer het opnieuw.
+pw-change-ok = Hoofdwachtwoord met succes gewijzigd.
 pw-empty-warning = Uw opgeslagen web- en e-mailwachtwoorden, formuliergegevens en privésleutels zullen niet worden beschermd.
 pw-erased-ok = U hebt uw hoofdwachtwoord verwijderd. { pw-empty-warning }
 pw-not-wanted = Waarschuwing! U hebt besloten geen hoofdwachtwoord te gebruiken. { pw-empty-warning }
