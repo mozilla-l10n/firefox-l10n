@@ -42,6 +42,10 @@ permissions-capabilities-block =
     .label = Engelle
 permissions-capabilities-prompt =
     .label = Her zaman sor
+permissions-capabilities-listitem-allow =
+    .value = İzin ver
+permissions-capabilities-listitem-block =
+    .value = Engelle
 
 ## Invalid Hostname Dialog
 
