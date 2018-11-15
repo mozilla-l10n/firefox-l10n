@@ -44,6 +44,8 @@ permissions-capabilities-prompt =
     .label = Πάντα ερώτηση
 permissions-capabilities-listitem-block =
     .value = Φραγή
+permissions-capabilities-listitem-allow-first-party =
+    .value = Να επιτρέπεται μόνο στους άμεσα εμπλεκόμενους
 
 ## Invalid Hostname Dialog
 
