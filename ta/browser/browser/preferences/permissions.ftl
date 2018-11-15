@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = அனுமதி
 permissions-capabilities-listitem-block =
     .value = தடு
+permissions-capabilities-listitem-allow-first-party =
+    .value = முதல் தரப்பினரை மட்டும் அனுமதிக்கவும்
 permissions-capabilities-listitem-allow-session =
     .value = அமர்வுக்கு அனுமதி
 
