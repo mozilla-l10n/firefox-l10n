@@ -84,9 +84,6 @@ permissions-exceptions-addons-desc = ഏതൊക്കെ വെബ്‌ സ�
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = അനുവദിച്ച വെബ്സൈറ്റുകൾ - ഓട്ടോപ്ലെ
-    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 

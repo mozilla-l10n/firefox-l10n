@@ -623,3 +623,7 @@ certs-view =
 certs-devices =
     .label = സുരക്ഷാ ഉപകരണങ്ങള്‍…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+downloads-folder-name = ഡൌണ്‍ലോടുകള്‍
