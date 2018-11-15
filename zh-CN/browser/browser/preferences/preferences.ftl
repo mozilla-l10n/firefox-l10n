@@ -856,6 +856,29 @@ certs-view =
 certs-devices =
     .label = 安全设备…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = 详细了解
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] 打开选项
+           *[other] 打开首选项
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } 运行所需的磁盘空间不足。网站内容可能无法正常显示。您可以在 选项 > 隐私与安全 > Cookie 和网站数据 中清除已存储的数据。
+       *[other] { -brand-short-name } 运行所需的磁盘空间不足。网站内容可能无法正常显示。您可以在 首选项 > 隐私与安全 > Cookie 和网站数据 中清除已存储的数据。
+    }
+space-alert-under-5gb-ok-button =
+    .label = 我知道了
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } 运行所需的磁盘空间不足。网站内容可能无法正常显示。点击“详细了解”了解如何优化您的磁盘空间，从而获得更好的浏览体验。
 
 ## The following strings are used in the Download section of settings
 
