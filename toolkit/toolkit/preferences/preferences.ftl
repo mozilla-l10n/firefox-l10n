@@ -8,6 +8,7 @@ failed-pw-change = Methu newid y Prif Gyfrinair.
 incorrect-pw = Wedi rhoi cyfrinair anghywir. Ceisiwch eto.
 pw-change-ok = Newidiwyd y Prif Gyfrinair yn llwyddiannus. { pw-empty-warning }
 pw-empty-warning = Ni fydd eich cyfrineiriau gwe ac e-bost, data ffurflen, nag eich allweddi preifat yn cael eu hamddiffyn.
+pw-erased-ok = Rydych wedi dileu eich Prif Gyfrinair.  { pw-empty-warning }
 pw-not-wanted = Rhybudd! Rydych wedi penderfynu peidio defnyddio Prif Gyfrinair.
 pw-change2empty-in-fips-mode = Rydych ym modd FIPS. Mae FIPS angen Prif Gyfrinair nad yw'n wag.
 pw-change-success-title = Llwyddo i Newid eich Cyfrinair
