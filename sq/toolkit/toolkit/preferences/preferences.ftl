@@ -6,6 +6,7 @@ password-not-set =
     .value = (i pacaktuar)
 failed-pw-change = S’arrihet të ndryshohet Fjalëkalimi i Përgjithshëm.
 incorrect-pw = Nuk dhatë Fjalëkalimin e saktë të Përgjithshëm të tanishëm. Ju lutemi, riprovoni.
+pw-change-ok = Fjalëkalimi i Përgjithshëm u ndryshua me sukses.
 pw-empty-warning = Fjalëkalimet tuaj të ruajtur për web dhe email, të dhëna formularësh, dhe kyçe private nuk do të mbrohen më.
 pw-erased-ok = Keni fshirë Fjalëkalimin tuaj të Përgjithshëm. { pw-empty-warning }
 pw-not-wanted = Kujdes! Keni vendosur të mos përdorni Fjalëkalim të Përgjithshëm. { pw-empty-warning }
