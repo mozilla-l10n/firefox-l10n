@@ -44,6 +44,8 @@ permissions-capabilities-prompt =
     .label = Galdetu beti
 permissions-capabilities-listitem-block =
     .value = Blokeatu
+permissions-capabilities-listitem-allow-first-party =
+    .value = Debekatu hirugarrenenak
 
 ## Invalid Hostname Dialog
 

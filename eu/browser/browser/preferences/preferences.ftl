@@ -846,4 +846,6 @@ certs-devices =
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Mahaigaina
 downloads-folder-name = Deskargak
+choose-download-folder-title = Aukeratu deskarga-karpeta:
