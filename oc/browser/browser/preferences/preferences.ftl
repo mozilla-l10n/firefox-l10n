@@ -797,3 +797,8 @@ certs-view =
 certs-devices =
     .label = Periferics de seguretat…
     .accesskey = P
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Burèu
+downloads-folder-name = Telecargaments

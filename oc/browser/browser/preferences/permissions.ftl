@@ -42,6 +42,10 @@ permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
     .label = Totjorn demandar
+permissions-capabilities-listitem-allow =
+    .value = Autorizar
+permissions-capabilities-listitem-block =
+    .value = Blocar
 
 ## Invalid Hostname Dialog
 
@@ -85,10 +89,6 @@ permissions-exceptions-addons-desc = Podètz indicar los sites web qu'autorizatz
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Sites autorizats - Auto lectura
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Podètz especificar quines sites pòdon legir autocament los mèdias son. Picatz l’adreça exacta del site que volètz autorizar puèi clicatz Autorizar.
 permissions-exceptions-autoplay-media-window2 =
     .title = Excepcions - Lectura automatica
     .style = { permissions-window.style }
