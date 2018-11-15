@@ -42,6 +42,8 @@ permissions-capabilities-block =
     .label = Sekat
 permissions-capabilities-prompt =
     .label = Sentiasa Tanya
+permissions-capabilities-listitem-block =
+    .value = Sekat
 
 ## Invalid Hostname Dialog
 
