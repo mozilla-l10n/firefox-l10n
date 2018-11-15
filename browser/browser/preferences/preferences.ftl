@@ -856,6 +856,29 @@ certs-view =
 certs-devices =
     .label = Drošības ierīces…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Uzzināt vairāk
+    .accesskey = U
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Atvērt iestatījumus
+           *[other] Atvērt iestatījumus
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] R
+           *[other] t
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } beidzas brīvā vieta. Mājas lapu dati var neattēloties korekti. Saglabātos datus varat notīrīt Iestatījumi > Privātums un drošība > Sīkdatnes un kešatmiņa.
+       *[other] { -brand-short-name } beidzas brīvā vieta. Mājas lapu dati var neattēloties korekti. Saglabātos datus varat notīrīt Iestatījumi > Privātums un drošība > Sīkdatnes un kešatmiņa.
+    }
+space-alert-under-5gb-ok-button =
+    .label = Labi, sapratu
+    .accesskey = L
+space-alert-under-5gb-message = { -brand-short-name } nepietiek vietas diskā. Lapu saturs var tikt nekorekti attēlots. Apmeklējiet “Uzzināt vairāk”, lai optimizētu diska izmantošanu.
 
 ## The following strings are used in the Download section of settings
 
