@@ -48,6 +48,8 @@ permissions-capabilities-listitem-block =
     .value = Blocar
 permissions-capabilities-listitem-allow-first-party =
     .value = Domeni principal sol
+permissions-capabilities-listitem-allow-session =
+    .value = Autorizar pendent la session
 
 ## Invalid Hostname Dialog
 
