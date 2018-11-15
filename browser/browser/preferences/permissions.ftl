@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Atļaut
 permissions-capabilities-listitem-block =
     .value = Bloķēt
+permissions-capabilities-listitem-allow-first-party =
+    .value = Atļaut tikai pirmajam avotam
 permissions-capabilities-listitem-allow-session =
     .value = Atļaut uz šo sesiju
 
