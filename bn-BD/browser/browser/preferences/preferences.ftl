@@ -841,9 +841,15 @@ space-alert-over-5gb-pref-button =
             [windows] O
            *[other] O
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } এ যথেষ্ট পরিমাণে ডিস্ক স্পেস নাই। ওয়েবসাইট কন্টেন্ট ঠিকভাবে নাও দেখাতে পারে। সংরক্ষিত সাইট ডাটা পরিষ্কার করতে অপশন> গোপনীয়তা ও নিরাপত্তা> কুকি ও সাইট ডাটা যান।
+       *[other] { -brand-short-name } এ যথেষ্ট পরিমাণে ডিস্ক স্পেস নাই। ওয়েবসাইট কন্টেন্ট ঠিকভাবে নাও দেখাতে পারে। সংরক্ষিত সাইট ডাটা পরিষ্কার করতে পছন্দ > গোপনীয়তা ও নিরাপত্তা> কুকি ও সাইট ডাটা যান।
+    }
 space-alert-under-5gb-ok-button =
     .label = ঠিক আছে, বুঝেছি
     .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } এ যথেষ্ট পরিমাণে ডিস্ক স্পেস নাই। ওয়েবসাইট কন্টেন্ট ঠিকভাবে নাও দেখাতে পারে। আরও ভাল ব্রাউজিং অভিজ্ঞতা পেতে ডিস্ক ব্যবহার অপটিমাইজ করুন কিভাবে করবেন জানতে  “আরও জানুন” এ ক্লিক করুন।
 
 ## The following strings are used in the Download section of settings
 
