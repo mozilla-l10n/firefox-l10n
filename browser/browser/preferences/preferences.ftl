@@ -861,7 +861,7 @@ certs-devices =
     .label = Säkerhetsenheter…
     .accesskey = e
 space-alert-learn-more-button =
-    .label = Läs mer
+    .label = Lär dig mer
     .accesskey = L
 space-alert-over-5gb-pref-button =
     .label =
@@ -881,13 +881,13 @@ space-alert-over-5gb-message =
     }
 space-alert-under-5gb-ok-button =
     .label = Ok, jag förstår
-    .accesskey = k
+    .accesskey = K
 space-alert-under-5gb-message = { -brand-short-name } håller på att få slut på diskutrymme. Webbplatsens innehåll kanske inte visas korrekt. Besök “Läs mer” för att optimera din diskanvändning för en bättre webbupplevelse.
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skrivbord
-downloads-folder-name = Hämtade filer
+downloads-folder-name = Filhämtningar
 choose-download-folder-title = Välj mapp för hämtade filer:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
