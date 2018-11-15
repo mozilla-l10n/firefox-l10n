@@ -4,6 +4,7 @@
 
 password-not-set =
     .value = (nezadané)
+failed-pw-change = Nebolo možné zmeniť hlavné heslo.
 incorrect-pw = Aktuálne hlavné heslo nebolo zadané správne. Skúste to znova.
 pw-change-ok = Hlavné heslo bolo úspešne zmenené. { pw-empty-warning }
 pw-empty-warning = Uložené heslá pre webové stránky, e-mail, údaje formulárov a súkromné kľúče nebudú chránené.
