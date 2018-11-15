@@ -26,6 +26,17 @@ close-button =
 feature-disable-requires-restart = { -brand-short-name } e tswanetse go simolola sešwa go thibela go dira ga kokoanyo ya dirweboleta.
 should-restart-title = Simolola { -brand-short-name } sešwa
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -39,8 +50,6 @@ separate-profile-mode =
 use-firefox-sync = Tlhababotlhale: Se se dirisa diporofaele tse di kgaoganeng. Dirisa thulaganyo ka tsamaiso go aba tshedimosetso fa gare ga tsone.
 is-default = { -brand-short-name } ga jaana ke sebatli sebatli sa gago sa thulaganyetsoruri
 is-not-default = { -brand-short-name } ga se sebatli sa gago sa thulaganyetsoruri
-startup-blank-page =
-    .label = Bontsha tsebe e lolea
 tabs-group-header = Ditab
 show-tabs-in-taskbar =
     .label = Supa diponopele tsa thebe mo Baratiro ya di Window
@@ -123,9 +132,6 @@ use-current-pages =
 choose-bookmark =
     .label = Dirisa Letshwaotsebe…
     .accesskey = L
-restore-default =
-    .label = Busetsa ko Thulaganyetsoruri
-    .accesskey = B
 
 ## Search Section
 
@@ -169,10 +175,6 @@ history-header = Motlhala wa tsedifitileng
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = Go tsweng mo go tse di etetsweng
-sitedata-accept-third-party-never-option =
-    .label = O seka
 
 ## Privacy Section - Address Bar
 
@@ -182,6 +184,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Dithebe tse di butsweng
     .accesskey = D
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
@@ -220,3 +225,8 @@ permissions-block-popups-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Ditifikeiti
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Tesekopo
+choose-download-folder-title = Tlhopha setsholadifaele sa Kopololo:
