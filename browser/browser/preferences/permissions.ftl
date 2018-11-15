@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Cho phép
 permissions-capabilities-listitem-block =
     .value = Chặn
+permissions-capabilities-listitem-allow-first-party =
+    .value = Chỉ chấp nhận bên thứ nhất
 permissions-capabilities-listitem-allow-session =
     .value = Cho phép theo Phiên
 
