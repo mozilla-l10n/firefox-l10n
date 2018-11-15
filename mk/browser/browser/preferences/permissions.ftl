@@ -36,6 +36,12 @@ permissions-capabilities-allow =
     .label = Дозволи
 permissions-capabilities-block =
     .label = Блокирај
+permissions-capabilities-listitem-allow =
+    .value = Дозволи
+permissions-capabilities-listitem-block =
+    .value = Блокирај
+permissions-capabilities-listitem-allow-session =
+    .value = Дозволи привремено
 
 ## Invalid Hostname Dialog
 
