@@ -46,6 +46,10 @@ permissions-capabilities-listitem-allow =
     .value = ခွင့်ပြုပါ
 permissions-capabilities-listitem-block =
     .value = ပိတ်ဆို့ပါ
+permissions-capabilities-listitem-allow-first-party =
+    .value = ပါဝင်သူကိုသာ ခွင့်ပြုပါ
+permissions-capabilities-listitem-allow-session =
+    .value = ယခုအသုံးပြုကာလအတွက် ခွင့်ပြုပါ
 
 ## Invalid Hostname Dialog
 
