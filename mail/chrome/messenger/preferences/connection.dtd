@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL pentru determinarea DNS prin HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Folosește setările implicite">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "I">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Folosește adresa URL implicită pentru a rezolva DNS prin HTTPS">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Personalizat">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Introdu adresa URL preferată pentru a rezolva DNS prin HTTPS">
