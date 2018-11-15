@@ -248,4 +248,5 @@ certs-header = Izitifiketi
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Okukuskrini
+downloads-folder-name = Okwami Ukwaziswa Okuthathwe Kwafakwa
 choose-download-folder-title = Khetha Ifolda Ozothatha Ukwaziswa Ukufake Kuyo:
