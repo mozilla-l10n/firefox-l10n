@@ -802,3 +802,4 @@ certs-devices =
 
 desktop-folder-name = Burèu
 downloads-folder-name = Telecargaments
+choose-download-folder-title = Causissètz lo dorsièr de telecargament :
