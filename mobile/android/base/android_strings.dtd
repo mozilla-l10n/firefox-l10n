@@ -27,12 +27,6 @@
 <!ENTITY firstrun_button_next "തുടരുക">
 
 <!ENTITY firstrun_tabqueue_title "കണ്ണികള്‍">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "ടാബ് ക്യൂ ഓണാക്കുക">
-<!ENTITY firstrun_tabqueue_subtext_off "മറ്റ് ആപ്ലിക്കേഷനുകളിൽ നിന്ന് ടാപ്പു ചെയ്യുമ്പോള്‍ &brandShortName; ൽ പിന്നീടത്തേക്കായി ലിങ്കുകൾ സംരക്ഷിക്കുക.">
-
-<!ENTITY firstrun_tabqueue_message_on "വിജയിച്ചു!">
-<!ENTITY firstrun_tabqueue_subtext_on "&settings; ല്‍ &pref_category_general; നിന്നും നിങ്ങള്‍ക്ക് ഇത് എല്ലായിപ്പോഴുംനിറുത്തുവാന്‍ സാധിക്കും.">
 
 <!ENTITY firstrun_readerview_title "ലേഖനങ്ങള്‍">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -69,7 +63,6 @@
 <!ENTITY  crash_restart_label "&brandShortName; വീണ്ടും ആരംഭിയ്ക്കുക">
 
 <!ENTITY url_bar_default_text2 "തിരയുകയോ വിലാസം നല്‍കുകയോ ചെയ്യൂ">
-
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -215,7 +208,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ടാബുകൾ പുനഃസ്ഥാപിക്കല്‍, ഡാറ്റാ സേവർ, ഡവലപ്പർ ഉപകരണങ്ങൾ">
 <!ENTITY pref_category_notifications "അറിയിപ്പുകള്‍">
-<!ENTITY pref_category_notifications_summary "പുതിയ സവിശേഷതകള്‍, വെബ്സൈറ്റ്പുതുക്കലുകള്‍">
 <!ENTITY pref_category_notifications_summary2 "പുതിയ സവിശേഷതകൾ, കുറുക്കുവഴികൾ">
 <!ENTITY pref_developer_remotedebugging_usb "യു എസ് ബി വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
 <!ENTITY pref_developer_remotedebugging_wifi "വൈ-ഫൈ വഴിയുള്ള വിദൂര ഡിബഗ്ഗിംഗ്">
@@ -299,6 +291,10 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "&brandShortName; ഉപയോഗിക്കുന്നതിനെ പറ്റിയും &vendorShortName; ഉൽപ്പനങ്ങളെ പറ്റിയും കൂടുതൽ അറിയുക">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "പരീക്ഷണാത്മക സവിശേഷതകൾ">
@@ -371,9 +367,8 @@
 <!ENTITY pref_use_system_font_size_summary "സിസ്റ്റത്തിലെ ഫോണ്ടിന്റെ വലുപ്പത്തിനനുസരിച്ച് വെബ് ഉള്ളടക്കം ക്രമീകരിക്കുക">
 
 <!ENTITY pref_media_autoplay_enabled "ഓട്ടോപ്ലേ അനുവദിക്കുക">
-<!ENTITY pref_media_autoplay_enabled_summary "വെബ്സൈറ്റുകള്‍ ചലച്ചിത്രങ്ങളോ മറ്റു മീഡിയാ ഉള്ളടക്കങ്ങളോ തനിയെ പ്രവര്‍ത്തിപ്പിക്കുന്നുണ്ടെങ്കില്‍ നിയന്ത്രിക്കുക">
-<!ENTITY pref_media_autoplay_allow "ഓട്ടോ പ്ലെ അനുവദിക്കുക">
-<!ENTITY pref_media_autoplay_block "ഓട്ടോ പ്ലെ അനുവദിക്കാതിരിക്കുക">
+<!ENTITY pref_media_autoplay_allow "ഓട്ടോ പ്ലേ അനുവദിക്കുക">
+<!ENTITY pref_media_autoplay_block "ഓട്ടോ പ്ലേ അനുവദിക്കാതിരിക്കുക">
 <!ENTITY pref_zoom_force_enabled "ഇപ്പോഴും സൂം പ്രവര്‍ത്തനസജ്ജമാക്കുക">
 <!ENTITY pref_zoom_force_enabled_summary "ഏതു പേജും സൂം ചെയ്യുന്നതിനായി നിർബന്ധമായും നിഷ്‌ഫലമാക്കുക">
 <!ENTITY pref_voice_input "ശബ്ദ ഇന്‍പുട്ട്">
@@ -502,7 +497,7 @@
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "ഡിവൈസിലേക്കു് അയക്കുന്നു">
-<!ENTITY media_play "പ്ലെ ചെയ്യുക">
+<!ENTITY media_play "പ്ലേ ചെയ്യുക">
 <!ENTITY media_pause "തല്‍ക്കാലത്തേക്കു് നിര്‍ത്തിയിരിയ്ക്കുന്നു">
 <!ENTITY media_stop "നിര്‍ത്തുക">
 
@@ -836,9 +831,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "&brandShortName; തുറക്കാൻ കഴിയുന്നില്ല. ദയവായി വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്ത് വീണ്ടും ശ്രമിക്കുക.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; ഇനി പുതുക്കില്ല">
-<!ENTITY eol_notification_summary "കൂടുതലറിയാൻ തട്ടുക">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ഏറ്റവും പുതിയതാണു്">
@@ -905,5 +897,11 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
 <!ENTITY mls_notification_channel "&vendorShortName; പ്രദേശ സേവനങ്ങള്‍">
 <!ENTITY download_notification_channel "ഡൌണ്‍ലോഡുകള്‍">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
