@@ -700,6 +700,9 @@ certs-view =
 certs-devices =
     .label = سلامتی آلات
     .accesskey = D
+space-alert-learn-more-button =
+    .label = مزید سیکھیں
+    .accesskey = م
 
 ## The following strings are used in the Download section of settings
 
