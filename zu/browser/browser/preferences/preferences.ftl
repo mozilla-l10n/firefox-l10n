@@ -28,6 +28,17 @@ feature-enable-requires-restart = I-{ -brand-short-name } kufanele iqale kabusha
 feature-disable-requires-restart = I-{ -brand-short-name } kufanele iqale kabusha ukuze ikhubaze lesi sici.
 should-restart-title = Qala kabusha i-{ -brand-short-name }
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -35,8 +46,6 @@ should-restart-title = Qala kabusha i-{ -brand-short-name }
 
 startup-header = Qala
 is-default = I-{ -brand-short-name } okwamanje isibukisi sakhona sakho
-startup-blank-page =
-    .label = Bonisa ikhasi elinganalutho
 tabs-group-header = Amathebhu
 show-tabs-in-taskbar =
     .label = Bonisa ukubukwa ngaphambili kwamathebhu kubha yemisebenzi ye-Windows
@@ -129,9 +138,6 @@ use-current-pages =
 choose-bookmark =
     .label = Sebenzisa ukuphawula nokubekisa…
     .accesskey = u
-restore-default =
-    .label = Buyisela kokwakhona
-    .accesskey = B
 
 ## Search Section
 
@@ -189,9 +195,6 @@ history-dontremember-description = I-{ -brand-short-name } izosebenzisa izimiso 
 history-private-browsing-permanent =
     .label = Sebenzisa njalo indlela yangasese yokudlulisa amehlo
     .accesskey = n
-history-remember-option =
-    .label = Khumbula umlando wami wokupheqa nokulanda
-    .accesskey = b
 history-remember-search-option =
     .label = Khumbula ukusesha nohlobo lomlando
     .accesskey = n
@@ -204,15 +207,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = Kusuka kokuvakashelwe
-sitedata-accept-third-party-never-option =
-    .label = Ungalokothi
 sitedata-cookies-exceptions =
     .label = Okuhlukile…
     .accesskey = O
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -242,3 +244,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Izitifiketi
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Okukuskrini
+choose-download-folder-title = Khetha Ifolda Ozothatha Ukwaziswa Ukufake Kuyo:
