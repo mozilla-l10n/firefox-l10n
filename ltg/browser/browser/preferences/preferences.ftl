@@ -321,7 +321,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Teikla storpnīkserveris
 network-proxy-connection-description = Konfigurej, kai { -brand-short-name } pīzaslādz pi interneta.
 network-proxy-connection-learn-more = Vaira
 network-proxy-connection-settings =
@@ -560,9 +559,6 @@ history-dontremember-description = { -brand-short-name } izmantuots taidus pat �
 history-private-browsing-permanent =
     .label = Vīnmār izmantuot privatuos puorlūkuošonys režymu
     .accesskey = z
-history-remember-option =
-    .label = Atguoduot munu puorlūkuošonys i lejupīluožu viesturi
-    .accesskey = A
 history-remember-browser-option =
     .label = Atgōdōt munu porlyukōšonys i lejupīlōžu viesturi
     .accesskey = g
@@ -588,26 +584,12 @@ sitedata-total-size-calculating = Aprieķina lopys datu un cache izmāru…
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tovys saglobōtōs seikdatnes un kešatmiņa itymā strāčī aizjem { $value } { $unit } vītys.
 sitedata-learn-more = Uzzynojit vairuok
-sitedata-accept-cookies-option =
-    .label = Pījimt seikdatnes un kešatmiņu nu lopom (īsokams)
-    .accesskey = P
-sitedata-block-cookies-option =
-    .label = Aizlīgt cookies un lopys datus (var samaitōt lopys īcarātū darbeibu)
-    .accesskey = i
 sitedata-keep-until = Globoj leidz
     .accesskey = l
 sitedata-keep-until-expire =
     .label = Beidzās tū dereigums
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ir aiztaiseits
-sitedata-accept-third-party-desc = Atļaut trešu pušu cookies un lopys datus
-    .accesskey = t
-sitedata-accept-third-party-always-option =
-    .label = Vīnmār
-sitedata-accept-third-party-visited-option =
-    .label = Tikai nu lopom, kurys asmu apmekliejs
-sitedata-accept-third-party-never-option =
-    .label = Nikod
 sitedata-allow-cookies-option =
     .label = Pījimt seikdatnes un lopu datus
     .accesskey = P
@@ -624,10 +606,6 @@ sitedata-block-trackers-option =
     .label = Trešū pušu pādziņi
 sitedata-block-unvisited-option =
     .label = Seikdatnes nu naapmaklātom lopom
-sitedata-block-all-third-parties-option =
-    .label = Vysas trešū pušu seikdatnes
-sitedata-block-always-option =
-    .label = Vysas seikdatnes (var samaitōt lopu darbeibu)
 sitedata-clear =
     .label = Dzēst datus…
     .accesskey = z
@@ -670,26 +648,6 @@ content-blocking-toggle-label-on = Īsl.
 content-blocking-toggle-label-off = Izsl.
     .accesskey = I
 content-blocking-category-label = Izavielej, kū bloķēt
-# "Slow" in this instance means "slow to load on the network".
-# FastBlock is a feature that blocks requests to tracking sites if they
-# have not finished loading after a certain threshold of seconds.
-content-blocking-fastblock-label = Lānī izsekōšonys elementi
-    .accesskey = L
-content-blocking-fastblock-description = Bloķej tū trešū pušu saturu, kurais īzalōdej ilgōk kai 5 sek.
-content-blocking-fastblock-option-enabled =
-    .label = Vysod bloķēt
-content-blocking-fastblock-option-disabled =
-    .label = Nikod nabloķēt
-content-blocking-tracking-protection-label = Pāddzini (Trackers)
-    .accesskey = P
-content-blocking-tracking-protection-description = Bloķej vysus zynomūs pāddziņus (Īvāroj: Var byut lopys, kuras var naīzalōdēt)
-content-blocking-tracking-protection-option-enabled =
-    .label = Vysod bloķēt
-content-blocking-tracking-protection-option-pbm =
-    .label = Bloķēt viņ privātujūs lūgūs
-content-blocking-tracking-protection-option-disabled =
-    .label = Nikod nabloķēt
-content-blocking-tracking-protection-change-blocklist = Maineit bbloķiešonys sarokstu
 
 ## Privacy Section - Tracking
 
@@ -705,10 +663,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nikod
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Use Tracking Protection in Private Browsing to block known trackers
-    .accesskey = v
 tracking-exceptions =
     .label = Izjāmumi…
     .accesskey = I
@@ -831,3 +785,6 @@ certs-view =
 certs-devices =
     .label = Drūseibys īrīces…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
