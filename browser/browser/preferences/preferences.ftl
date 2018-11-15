@@ -877,6 +877,11 @@ space-alert-over-5gb-pref-button =
             [windows] v
            *[other] v
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] „{ -brand-short-name }“ tuoj pritrūks vietos diske. Svetainių turinys gali būti atvaizduojamas netinkamai. Galite išvalyti saugomus duomenis per „Nuostatos“ > „Privatumas ir saugumas“ > „Slapukai ir svetainių duomenys“.
+       *[other] „{ -brand-short-name }“ tuoj pritrūks vietos diske. Svetainių turinys gali būti atvaizduojamas netinkamai. Galite išvalyti saugomus duomenis per „Nuostatos“ > „Privatumas ir saugumas“ > „Slapukai ir svetainių duomenys“.
+    }
 space-alert-under-5gb-ok-button =
     .label = Gerai, supratau
     .accesskey = G
