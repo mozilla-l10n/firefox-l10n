@@ -468,6 +468,24 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Bevestig huidige geldigheid van sertifikate deur OCSP-bedieners te vra
     .accesskey = B
+space-alert-learn-more-button =
+    .label = Meer inligting
+    .accesskey = M
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Open opsies
+           *[other] Open voorkeure
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-under-5gb-ok-button =
+    .label = Reg so
+    .accesskey = R
+space-alert-under-5gb-message = { -brand-short-name } se hardeskyfplek raak op. Webwerwe vertoon dalk nie reg nie. Besoek gerus “Meer inligting” vir optimale skyfgebruik en 'n beter blaai-ervaring.
 
 ## The following strings are used in the Download section of settings
 
