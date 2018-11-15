@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = தடு
 permissions-capabilities-prompt =
     .label = எப்போதும் கேள்
+permissions-capabilities-listitem-allow =
+    .value = அனுமதி
+permissions-capabilities-listitem-block =
+    .value = தடு
+permissions-capabilities-listitem-allow-session =
+    .value = அமர்வுக்கு அனுமதி
 
 ## Invalid Hostname Dialog
 

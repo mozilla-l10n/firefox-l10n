@@ -748,3 +748,6 @@ certs-devices =
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = பணிமேடை
+downloads-folder-name = பதிவிறக்கங்கள்
+choose-download-folder-title = பதிவிறக்க அடைவை தேர்ந்தெடு:
