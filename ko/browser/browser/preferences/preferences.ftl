@@ -845,6 +845,24 @@ certs-view =
 certs-devices =
     .label = 보안 기기…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = 더 알아보기
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] 옵션 열기
+           *[other] 설정 열기
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-under-5gb-ok-button =
+    .label = 알겠습니다
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } 디스크 용량이 부족합니다. 웹사이트 내용이 제대로 표시되지 않을 수 있습니다. 더 나은 인터넷 경험을 위해 디스크 용량을 최적화하는 방법을 알아보려면 “더 알아보기”를 방문하세요.
 
 ## The following strings are used in the Download section of settings
 
