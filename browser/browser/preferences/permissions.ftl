@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Block
 permissions-capabilities-prompt =
     .label = Always Ask
+permissions-capabilities-listitem-allow =
+    .value = Allow
+permissions-capabilities-listitem-block =
+    .value = Block
+permissions-capabilities-listitem-allow-session =
+    .value = Allow for Session
 
 ## Invalid Hostname Dialog
 
