@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Alles markearje
     .accesskey = A
     .tooltiptext = Alle oerienkomsten fan de tekst markearje
+findbar-highlight-all2 =
+    .label = Alles markearje
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = Alle foarkommen fan de tekst markearje
 findbar-case-sensitive =
     .label = Haadlettergefoelich
     .accesskey = H
