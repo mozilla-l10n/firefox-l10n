@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = Ünvan
     .accesskey = U
     .tooltiptext = HTTPS üzərindən DNS-i sorğulamaq üçün ünvan
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = İlkin halı işlət ({ $url })
+    .accesskey = U
+    .tooltiptext = HTTPS üzərindən DNS almaq üçün ilkin ünvanı işlət
+connection-dns-over-https-url-custom =
+    .label = Fərdi
+    .accesskey = C
+    .tooltiptext = HTTPS üzərindən DNS almaq üçün fərdi ünvanınızı daxil edin

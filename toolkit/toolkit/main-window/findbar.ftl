@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Hamısını işıqlandır
     .accesskey = l
     .tooltiptext = Mətndə uyğun gələn bütün ifadələri işıqlandır
+findbar-highlight-all2 =
+    .label = Hamısını işıqlandır
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = İfadənin olduğu hər yeri işıqlandır
 findbar-case-sensitive =
     .label = Reqistri nəzərə al
     .accesskey = n
