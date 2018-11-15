@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Engedélyezés
 permissions-capabilities-listitem-block =
     .value = Tiltás
+permissions-capabilities-listitem-allow-first-party =
+    .value = Csak első fél engedélyezése
 permissions-capabilities-listitem-allow-session =
     .value = Engedélyezés a munkamenetben
 

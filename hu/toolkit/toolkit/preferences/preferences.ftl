@@ -5,8 +5,10 @@
 password-not-set =
     .value = (nincs beállítva)
 failed-pw-change = Nem sikerült megváltoztatni a mesterjelszót!
+incorrect-pw = A megadott mesterjelszó nem helyes. Próbálja újra.
 pw-change-ok = A mesterjelszó megváltoztatása sikerült. { pw-empty-warning }
 pw-empty-warning = A weboldalakhoz, űrlapokhoz és az e-mailhez tárolt jelszavakat nem védi semmi.
+pw-erased-ok = Törölte a mesterjelszót. { pw-empty-warning }
 pw-not-wanted = Vigyázat! Úgy döntött, hogy nem használ mesterjelszót.
 pw-change2empty-in-fips-mode = Jelenleg FIPS-módban van. A FIPS-hez kötelező nem üres mesterjelszót megadni.
 pw-change-success-title = Sikeres jelszóváltoztatás
