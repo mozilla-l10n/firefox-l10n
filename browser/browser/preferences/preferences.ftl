@@ -860,6 +860,12 @@ certs-view =
 certs-devices =
     .label = Périphériques de sécurité…
     .accesskey = P
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Bureau
+downloads-folder-name = Téléchargements
+choose-download-folder-title = Choisir le dossier de téléchargement :
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
