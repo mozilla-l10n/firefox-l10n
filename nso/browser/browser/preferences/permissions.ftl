@@ -22,6 +22,10 @@ permissions-capabilities-allow =
     .label = Dumelela
 permissions-capabilities-block =
     .label = Thibela
+permissions-capabilities-listitem-allow =
+    .value = Dumelela
+permissions-capabilities-listitem-block =
+    .value = Thibela
 
 ## Invalid Hostname Dialog
 
@@ -44,6 +48,9 @@ permissions-exceptions-popup-desc = O ka laetša gore ke diwepesaete dife tšeo 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = O ka laetša gore ke diwepesaete dife tšeo di dumeletšwego go tsenya tshedimošo ya khomphutha. Tlanya ka go nepa aterese ya saete yeo o nyakago go e dumelela gomme o kgotle Dumelela.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 

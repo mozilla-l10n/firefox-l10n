@@ -29,6 +29,17 @@ feature-enable-requires-restart = { -brand-short-name } e swanetše go thongwa k
 feature-disable-requires-restart = { -brand-short-name } e swanetše go thongwa ka leswa go šitiša sebopego se.
 should-restart-title = Thoma { -brand-short-name } ka leswa
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -36,8 +47,6 @@ should-restart-title = Thoma { -brand-short-name } ka leswa
 
 startup-header = Thoma
 is-default = { -brand-short-name } gona bjale ke praosara ya gago ya tirelwa
-startup-blank-page =
-    .label = Laetša letlakala le se nago selo
 tabs-group-header = Dithepe
 show-tabs-in-taskbar =
     .label = Laetša ditebelelopele tša thepo go thasekepaa ya Windows
@@ -130,9 +139,6 @@ use-current-pages =
 choose-bookmark =
     .label = Diriša pukutshwayo...
     .accesskey = p
-restore-default =
-    .label = Bušetša go tirelwa
-    .accesskey = B
 
 ## Search Section
 
@@ -190,9 +196,6 @@ history-dontremember-description = { -brand-short-name } e tla diriša dipeakany
 history-private-browsing-permanent =
     .label = Ka mehla diriša mokgwa wa go praosa wa praebete
     .accesskey = p
-history-remember-option =
-    .label = Gopola go praosa ga ka le histori ya go laolla
-    .accesskey = o
 history-remember-search-option =
     .label = Gopola histori ya nyako le foromo
     .accesskey = f
@@ -205,15 +208,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = Go tšwa go tše etetšwego
-sitedata-accept-third-party-never-option =
-    .label = Le gatee
 sitedata-cookies-exceptions =
     .label = Tše sa akaretšwego…
     .accesskey = T
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -243,3 +245,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Ditifikeiti
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Tesekethopo
