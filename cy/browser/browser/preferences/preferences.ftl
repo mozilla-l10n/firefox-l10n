@@ -876,6 +876,7 @@ certs-devices =
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Bwrdd Gwaith
+downloads-folder-name = Llwythi
 choose-download-folder-title = Dewis Ffolder Llwytho i Lawr:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
