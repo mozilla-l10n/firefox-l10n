@@ -4,6 +4,7 @@
 
 password-not-set =
     .value = (não definida)
+pw-erased-ok = Você excluiu sua senha mestra.  { pw-empty-warning }
 pw-change2empty-in-fips-mode = Você está no momento no modo FIPS. O FIPS necessita de uma senha mestra não vazia.
 pw-remove-button =
     .label = Remover
