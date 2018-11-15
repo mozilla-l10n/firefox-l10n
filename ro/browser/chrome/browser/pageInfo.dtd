@@ -64,7 +64,7 @@
 <!ENTITY  securityView.identity.verifier "Verificat de:">
 <!ENTITY  securityView.identity.validity "Expiră:">
 
-<!ENTITY  securityView.privacy.header                   "Intimitate și istoric">
+<!ENTITY  securityView.privacy.header                   "Confidențialitate și istoric">
 <!ENTITY  securityView.privacy.history                  "Am vizitat acest site web înainte de azi?">
 <!ENTITY  securityView.privacy.siteData                 "Acest site web stochează informații pe calculatorul meu?">
 <!ENTITY  securityView.privacy.clearSiteData            "Șterge cookie-urile și datele site-urilor">

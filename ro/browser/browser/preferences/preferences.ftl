@@ -45,7 +45,7 @@ category-home =
 pane-search-title = Căutare
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = Intimitate și securitate
+pane-privacy-title = Confidențialitate și securitate
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 # The word "account" can be translated, do not translate or transliterate "Firefox".
