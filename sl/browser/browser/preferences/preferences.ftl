@@ -859,11 +859,29 @@ certs-view =
 certs-devices =
     .label = Varnostne naprave …
     .accesskey = V
+space-alert-learn-more-button =
+    .label = Več o tem
+    .accesskey = t
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Odpri možnosti
+           *[other] Odpri nastavitve
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
 space-alert-over-5gb-message =
     { PLATFORM() ->
         [windows] { -brand-short-name }u zmanjkuje prostora. Vsebina spletnih strani morda ne bo prikazana pravilno. Shranjene podatke lahko izbrišete v Možnosti > Zasebnost in varnost > Piškotki in podatki strani.
        *[other] { -brand-short-name }u zmanjkuje prostora. Vsebina spletnih strani morda ne bo prikazana pravilno. Shranjene podatke lahko izbrišete v Nastavitve > Zasebnost in varnost > Piškotki in podatki strani.
     }
+space-alert-under-5gb-ok-button =
+    .label = V redu, razumem
+    .accesskey = V
+space-alert-under-5gb-message = Brskalniku { -brand-short-name } zmanjkuje prostora na disku. Strani se morda ne bodo prikazovale pravilno. Obiščite "Več o tem" za optimizacijo uporabe prostora na disku in boljšo izkušnjo brskanja po spletu.
 
 ## The following strings are used in the Download section of settings
 
