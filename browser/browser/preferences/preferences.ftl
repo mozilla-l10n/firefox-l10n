@@ -841,6 +841,24 @@ certs-view =
 certs-devices =
     .label = Безбедносни уређаји…
     .accesskey = Б
+space-alert-learn-more-button =
+    .label = Сазнајте више
+    .accesskey = С
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Отвори поставке
+           *[other] Отвори поставке
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] П
+           *[other] П
+        }
+space-alert-under-5gb-ok-button =
+    .label = У реду, разумем
+    .accesskey = р
+space-alert-under-5gb-message = { -brand-short-name } остаје без места на диску. Садржај веб сајта можда неће бити правилно приказан. Посетите “Сазнајте више” да оптимизујете коришћење диска за боље искуство прегледања.
 
 ## The following strings are used in the Download section of settings
 
