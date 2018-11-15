@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = l
 confirm-messenger-language-change-description = Bu değişiklikleri uygulamak için { -brand-short-name } yeniden başlatılmalıdır
 confirm-messenger-language-change-button = Uygula ve yeniden başlat
+update-pref-write-failure-title = Yazma Hatası
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Tercih kaydedilemiyor. Dosyaya yazılamadı: { $path }

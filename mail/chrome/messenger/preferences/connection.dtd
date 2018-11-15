@@ -50,3 +50,7 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "HTTPS üzerinden DNS çözümleme adresi">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Varsayılanı kullan">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Özel">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "Ö">
