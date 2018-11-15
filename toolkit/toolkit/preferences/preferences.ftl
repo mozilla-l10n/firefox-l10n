@@ -4,5 +4,6 @@
 
 password-not-set =
     .value = (निश्चित नाही)
+pw-change-ok = मास्टर पासवर्ड यशस्वीरित्या बदलविले. { pw-empty-warning }
 pw-remove-button =
     .label = काढुन टाका
