@@ -324,7 +324,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Διακομιστής μεσολάβησης δικτύου
 network-settings-title = Ρυθμίσεις δικτύου
 network-proxy-connection-description = Ρυθμίστε τον τρόπο σύνδεσης του { -brand-short-name } στο διαδίκτυο.
 network-proxy-connection-learn-more = Μάθετε περισσότερα
@@ -590,26 +589,12 @@ sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδ
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Τα αποθηκευμένα cookies, δεδομένα ιστοσελίδων και η προσωρινή μνήμη, αυτή τη στιγμή, καταλαμβάνουν { $value } { $unit } χώρου στο δίσκο.
 sitedata-learn-more = Μάθετε περισσότερα
-sitedata-accept-cookies-option =
-    .label = Αποδοχή cookies και δεδομένων ιστοσελίδων από ιστοσελίδες (συνίσταται)
-    .accesskey = Α
-sitedata-block-cookies-option =
-    .label = Αποκλεισμός cookies και δεδομένων ιστοσελίδων (πιθανή δυσλειτουργία ιστοσελίδων)
-    .accesskey = Α
 sitedata-keep-until = Διατήρηση μέχρι
     .accesskey = μ
 sitedata-keep-until-expire =
     .label = να λήξουν
 sitedata-keep-until-closed =
     .label = να κλείσει το { -brand-short-name }
-sitedata-accept-third-party-desc = Αποδοχή cookies και δεδομένα ιστοσελίδων τρίτων
-    .accesskey = ν
-sitedata-accept-third-party-always-option =
-    .label = Πάντα
-sitedata-accept-third-party-visited-option =
-    .label = Από επισκέψεις
-sitedata-accept-third-party-never-option =
-    .label = Ποτέ
 sitedata-allow-cookies-option =
     .label = Αποδοχή cookies και δεδομένων ιστοσελίδων
     .accesskey = Α
@@ -716,10 +701,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Ποτέ
     .accesskey = π
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Χρήση της προστασίας από καταγραφή στην ιδιωτική περιήγηση για φραγή γνωστών ιχνηλατών
-    .accesskey = δ
 tracking-exceptions =
     .label = Εξαιρέσεις…
     .accesskey = ξ
@@ -842,3 +823,9 @@ certs-view =
 certs-devices =
     .label = Συσκευές ασφαλείας…
     .accesskey = Σ
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Επιφάνεια εργασίας
+downloads-folder-name = Ληφθέντα αρχεία
+choose-download-folder-title = Επιλογή φακέλου λήψης αρχείων:
