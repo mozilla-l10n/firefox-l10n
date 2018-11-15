@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
     .label = Preguntar-me-lo siempre
+permissions-capabilities-listitem-allow =
+    .value = Permitir
+permissions-capabilities-listitem-block =
+    .value = Blocar
+permissions-capabilities-listitem-allow-first-party =
+    .value = Permitir solo que a primera parte
+permissions-capabilities-listitem-allow-session =
+    .value = Permitir ta ista sesión
 
 ## Invalid Hostname Dialog
 
@@ -85,10 +93,6 @@ permissions-exceptions-addons-desc = Puede especificar qué puestos web pueden i
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Webs permitidas - Autorreproducción
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Puede especificar qué puestos web se permite que reproduzan elementos multimedia automaticament. Escriba l'adreza exacta d'o puesto que quiere autorizar y dimpués faga clic en Permitir.
 
 ## Site Permissions - Notifications
 
