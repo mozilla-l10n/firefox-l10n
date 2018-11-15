@@ -44,6 +44,12 @@ permissions-capabilities-prompt =
     .label = Peny jwijwi
 permissions-capabilities-listitem-allow =
     .value = Ye
+permissions-capabilities-listitem-block =
+    .value = Geng
+permissions-capabilities-listitem-allow-first-party =
+    .value = Ye dul mukwongo keken
+permissions-capabilities-listitem-allow-session =
+    .value = Ye pi kare
 
 ## Invalid Hostname Dialog
 

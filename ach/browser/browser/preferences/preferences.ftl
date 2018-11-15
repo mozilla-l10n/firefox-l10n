@@ -736,3 +736,27 @@ certs-view =
 certs-devices =
     .label = Nyonyo me ber bedo…
     .accesskey = N
+space-alert-learn-more-button =
+    .label = Nong ngec mapol
+    .accesskey = N
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Yab gin ayera
+           *[other] Yab ter
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Y
+           *[other] Y
+        }
+space-alert-under-5gb-ok-button =
+    .label = AYA, Aniang
+    .accesskey = A
+space-alert-under-5gb-message = { -brand-short-name } odong ki kabedo me disk manok. Jami me kakube mogo pe bi nyute maber. Lim “Nong ngec mapol” me yubo tic ki disk mamegi ma opore pi yeny maber loyo.
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Wang kompiuta
+downloads-folder-name = Gam
+choose-download-folder-title = Yer boc me gam:
