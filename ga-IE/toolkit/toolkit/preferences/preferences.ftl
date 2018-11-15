@@ -7,6 +7,7 @@ password-not-set =
 failed-pw-change = Níorbh fhéidir an Príomhfhocal Faire a athrú.
 pw-change-ok = D'éirigh le hathrú an Phríomhfhocail Faire. { pw-empty-warning }
 pw-empty-warning = Ní bheidh cosaint ag na focail faire Ghréasáin agus ríomhphoist, sonraí foirme, ná ag na heochracha príobháideacha atá agat.
+pw-erased-ok = Tá do Phríomhfhocal Faire scriosta agat.  { pw-empty-warning }
 pw-not-wanted = Rabhadh! Tá sé beartaithe agat gan Príomhfhocal Faire a úsáid.
 pw-change2empty-in-fips-mode = Tá tú i mód FIPS faoi láthair. Tá Príomhfhocal Faire neamhfholamh ag teastáil ó FIPS.
 pw-change-success-title = D'éirigh le hathrú an fhocail faire
