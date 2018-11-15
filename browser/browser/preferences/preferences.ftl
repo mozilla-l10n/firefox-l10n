@@ -867,6 +867,11 @@ space-alert-over-5gb-pref-button =
             [windows] M
            *[other] M
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] Elĉerpiĝas la diska spaco por { -brand-short-name }. Enhavo de retejoj povas aperi malĝuste. Vi povas viŝi konservitajn retejajn datumojn en Elektebloj > Privateco kaj sekureco > Kuketoj kaj retejaj datumoj.
+       *[other] Elĉerpiĝas la diska spaco por { -brand-short-name }. Enhavo de retejoj povas aperi malĝuste. Vi povas viŝi konservitajn retejajn datumojn en Preferoj > Privateco kaj sekureco > Kuketoj kaj retejaj datumoj.
+    }
 space-alert-under-5gb-ok-button =
     .label = En ordo, mi komprenis
     .accesskey = o
