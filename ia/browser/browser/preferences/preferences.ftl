@@ -860,6 +860,30 @@ certs-view =
 certs-devices =
     .label = Dispositivos de securitate…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Saper plus
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Aperir le optiones
+           *[other] Aperir le preferentias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] A
+        }
+space-alert-under-5gb-ok-button =
+    .label = De accordo
+    .accesskey = D
+space-alert-under-5gb-message = { -brand-short-name } non ha plus spatio de disco bastante. Le contentos del sito web pote non ser monstrate correctemente. Visita “Apprende plus” pro optimisar le uso de tu disco a fin de un melior experientia de navigation.
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Scriptorio
+downloads-folder-name = Discargamentos
+choose-download-folder-title = Eliger le dossier de discarga:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
