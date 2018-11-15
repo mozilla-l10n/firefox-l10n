@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Sewḥel
 permissions-capabilities-prompt =
     .label = Sutur yal tikelt
+permissions-capabilities-listitem-allow =
+    .value = Sireg
+permissions-capabilities-listitem-block =
+    .value = Sewḥel
+permissions-capabilities-listitem-allow-first-party =
+    .value = Taɣult tagejdant kan
+permissions-capabilities-listitem-allow-session =
+    .value = Sireg i tɣimit
 
 ## Invalid Hostname Dialog
 

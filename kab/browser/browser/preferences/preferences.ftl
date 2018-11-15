@@ -860,6 +860,19 @@ certs-view =
 certs-devices =
     .label = Ibenkan n tɣellist…
     .accesskey = B
+space-alert-learn-more-button =
+    .label = Issin ugar
+    .accesskey = g
+space-alert-under-5gb-ok-button =
+    .label = IH awi-t-id
+    .accesskey = H
+space-alert-under-5gb-message = Amkan n udebṣi iteddu ad yaweḍ ar { -brand-short-name }. Igburen n usmel web ur d-ttbanen ara akken iwata.  Ddu ar "Issin ugar" akken ad tseggmeḍ aseqdec n udebṣi-ik akken tarmit n tunigin ad tuɣal tfaz.
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Tanarit
+downloads-folder-name = Isidar
+choose-download-folder-title = Fren akaram i usnifel:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
