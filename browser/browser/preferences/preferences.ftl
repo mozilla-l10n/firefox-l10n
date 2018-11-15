@@ -853,6 +853,30 @@ certs-view =
 certs-devices =
     .label = Sekurecaj aparatoj…
     .accesskey = S
+space-alert-learn-more-button =
+    .label = Pli da informo
+    .accesskey = P
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Malfermi elekteblojn
+           *[other] Malfermi preferojn
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] M
+           *[other] M
+        }
+space-alert-under-5gb-ok-button =
+    .label = En ordo, mi komprenis
+    .accesskey = o
+space-alert-under-5gb-message = Elĉerpiĝas la diska spaco por { -brand-short-name }. Enhavo de retejoj povas aperi malĝuste. Vizitu “Pli da informo” por optimumigi la uzon de diska spaco, por pli bona retuma sperto.
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Labortablo
+downloads-folder-name = Elŝutoj
+choose-download-folder-title = Elekti dosierujon por elŝutoj:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =

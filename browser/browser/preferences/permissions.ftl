@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Bloki
 permissions-capabilities-prompt =
     .label = Ĉiam demandi
+permissions-capabilities-listitem-allow =
+    .value = Permesi
+permissions-capabilities-listitem-block =
+    .value = Bloki
+permissions-capabilities-listitem-allow-first-party =
+    .value = Permesi nur rektajn
+permissions-capabilities-listitem-allow-session =
+    .value = Permesi dum la seanco
 
 ## Invalid Hostname Dialog
 
