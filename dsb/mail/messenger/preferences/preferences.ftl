@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = l
 confirm-messenger-language-change-description = Startujśo { -brand-short-name } znowego, aby toś te změny nałožył
 confirm-messenger-language-change-button = Nałožyś a znowego startowaś
+update-pref-write-failure-title = Pisańska zmólka
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Nastajenje njedajo se składowaś. Njejo było móžno do dataje pisaś: { $path }
