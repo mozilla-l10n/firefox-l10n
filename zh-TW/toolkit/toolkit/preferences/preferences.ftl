@@ -6,6 +6,7 @@ password-not-set =
     .value = (未設定)
 failed-pw-change = 無法變更主控密碼。
 pw-change-ok = 已成功變更主控密碼。 { pw-empty-warning }
+pw-not-wanted = 注意！您決定不再使用主控密碼。
 pw-change-success-title = 已成功變更密碼
 pw-change-failed-title = 密碼變更失敗
 pw-remove-button =
