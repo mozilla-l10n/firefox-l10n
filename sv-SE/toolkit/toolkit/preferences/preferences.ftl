@@ -8,6 +8,7 @@ failed-pw-change = Kan inte ändra huvudlösenordet.
 incorrect-pw = Du angav inte det korrekta nuvarande huvudlösenordet. Försök igen.
 pw-change-ok = Huvudlösenordet har ändrats. { pw-empty-warning }
 pw-empty-warning = Dina sparade webblösenord, formulärdata och privata nycklar kommer inte att skyddas.
+pw-erased-ok = Du har tagit bort huvudlösenordet.  { pw-empty-warning }
 pw-not-wanted = Varning! Du har valt att inte använda något huvudlösenord.
 pw-change2empty-in-fips-mode = Du är för närvarande i FIPS-läge. FIPS kräver ett huvudlösenord.
 pw-change-success-title = Lösenordet har ändrats
