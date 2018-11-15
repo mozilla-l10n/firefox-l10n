@@ -22,6 +22,12 @@ permissions-capabilities-allow =
     .label = Tendelani
 permissions-capabilities-block =
     .label = Thivhelani
+permissions-capabilities-listitem-allow =
+    .value = Tendelani
+permissions-capabilities-listitem-block =
+    .value = Thivhelani
+permissions-capabilities-listitem-allow-session =
+    .value = Tendelani u itela Sesheni
 
 ## Invalid Hostname Dialog
 
@@ -44,6 +50,9 @@ permissions-exceptions-popup-desc = Ni nga bula uri ndi webusaithi dzifhio dzo t
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
