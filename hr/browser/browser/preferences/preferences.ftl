@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Upozorava vas pri zatvaranju više kartica
     .accesskey = v
+warn-on-quit-close-multiple-tabs =
+    .label = Upozorava vas kada izlazite i zatvarate više kartica
+    .accesskey = r
 warn-on-open-many-tabs =
     .label = Upozorava vas kod višestrukog otvaranja kartica koje može usporiti { -brand-short-name }
     .accesskey = u
@@ -291,6 +294,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Automatski ažuriraj pretraživače
     .accesskey = e
+update-pref-write-failure-title = Greška prilikom zapisivanja
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Nije moguće spremiti postavke. Nije bilo moguće pisati u datoteku: { $path }
 
 ## General Section - Performance
 
