@@ -516,3 +516,4 @@ certs-devices =
 
 desktop-folder-name = Escritoriu
 downloads-folder-name = Descargues
+choose-download-folder-title = Escoyer carpeta de descarga:
