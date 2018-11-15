@@ -16,25 +16,23 @@ close-button =
 ## Browser Restart Dialog
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Startup
-startup-blank-page =
-    .label = Show a blank page
-# This string has a special case for '1' and [other] (default). If necessary for
-# your language, you can add {$tabCount} to your translations and use the
-# standard CLDR forms, or only use the form for [other] if both strings should
-# be identical.
-use-current-pages =
-    .label =
-        { $tabCount ->
-            [1] Use Current Page
-           *[other] Use Current Pages
-        }
-    .accesskey = C
-restore-default =
-    .label = Restore to Default
-    .accesskey = R
 
 ## General Section - Language & Appearance
 
@@ -85,3 +83,73 @@ browsing-use-cursor-navigation =
 network-proxy-connection-settings =
     .label = Settings...
     .accesskey = e
+
+## Home Section
+
+
+## Home Section - Home Page Customization
+
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Use Current Page
+           *[other] Use Current Pages
+        }
+    .accesskey = C
+
+## Search Section
+
+
+## Containers Section
+
+
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+
+## Privacy Section
+
+
+## Privacy Section - Forms
+
+
+## Privacy Section - History
+
+
+## Privacy Section - Site Data
+
+
+## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
+
+
+## Privacy Section - Tracking
+
+
+## Privacy Section - Permissions
+
+
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
+## Privacy Section - Certificates
+
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Desikithopo
+choose-download-folder-title = Hlawula Folidara yo Panga:
