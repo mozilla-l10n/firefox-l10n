@@ -867,6 +867,11 @@ space-alert-over-5gb-pref-button =
             [windows] O
            *[other] U
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } ina ŋakkiraa boowal mbeɗu. Loowdi lowre geese ndii waawaa feeñirde no feewi. Aɗa waawi momtude keɓe daɗndaaɗe nder Cuɓe> Sirlu e Kisal> Kuukiiji e keɓe lowre.
+       *[other] { -brand-short-name } ina ŋakkiraa boowal mbeɗu. Loowdi lowre geese ndii waawaa feeñirde no feewi. Aɗa waawi momtude keɓe daɗndaaɗe nder Ɓurɗine> Sirlu e Kisal> Kuukiiji e keɓe lowre.
+    }
 space-alert-under-5gb-ok-button =
     .label = OK, Heɓ ɗum
     .accesskey = K
