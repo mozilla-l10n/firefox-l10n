@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = G
 confirm-messenger-language-change-description = Ailgychwyn { -brand-short-name } i osod y newidiadau hyn
 confirm-messenger-language-change-button = Gosod ac Ailgychwyn
+update-pref-write-failure-title = Methiant ysgrifennu
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Methu cadw'r dewis. Methu ysgrifennu at ffeil: { $path }

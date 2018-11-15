@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL ar gyfer datrys DNS dros HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Defnyddio'r rhagosodedig">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "D">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Defnyddiwch yr URL rhagosodedig ar gyfer datrys DNS dros HTTPS">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Cyfaddas">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "C">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Rhowch eich URL dewisol ar gyfer datrys DNS dros HTTPS">
