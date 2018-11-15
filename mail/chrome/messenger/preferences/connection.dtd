@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL foar omsetten DNS oer HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Standert brûke">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "b">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Brûk de standert URL om DNS oer HTTPS te krijen">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Oanpast">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Fier om DNS oer HTTPS te krijen de URL fan jo foarkar yn">
