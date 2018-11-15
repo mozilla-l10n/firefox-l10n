@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Permite
 permissions-capabilities-listitem-block =
     .value = Blochează
+permissions-capabilities-listitem-allow-first-party =
+    .value = Permite numai prima parte
 permissions-capabilities-listitem-allow-session =
     .value = Permite pentru sesiune
 

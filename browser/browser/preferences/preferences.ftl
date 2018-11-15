@@ -877,6 +877,11 @@ space-alert-over-5gb-pref-button =
             [windows] o
            *[other] O
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } rămâne fără spațiu pe disc. Este posibil ca conținutul site-ului web să nu fie afișat corespunzător. Poți șterge datele stocate în Opțiuni > Avansat > Cookie-uri și date ale site-urilor.
+       *[other] { -brand-short-name } rămâne fără spațiu pe disc. Este posibil ca conținutul site-ului web să nu fie afișat corespunzător. Poți șterge datele stocate în Preferințe > Avansat > Cookie-uri și date ale site-urilor.
+    }
 space-alert-under-5gb-ok-button =
     .label = Ok, am înțeles
     .accesskey = k
