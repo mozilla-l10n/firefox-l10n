@@ -27,14 +27,23 @@ close-button =
 
 should-restart-title = { -brand-short-name }-г шинээр ачаал
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
 ## General Section
 
 startup-header = Эхлэл
-startup-blank-page =
-    .label = Хоосон хуудас харуул
 tabs-group-header = Самбар
 show-tabs-in-taskbar =
     .label = Виндовсийн табыг харуулах
@@ -115,9 +124,6 @@ use-current-pages =
            *[other] Одоогийн хуудаснуудыг хэрэглэ
         }
     .accesskey = д
-restore-default =
-    .label = Анхны горимд сэргээ
-    .accesskey = с
 
 ## Search Section
 
@@ -168,21 +174,17 @@ history-dontremember-description = { -brand-short-name } хувийн зорчи
 history-private-browsing-permanent =
     .label = Дандаа ашиглах & хувийн ачааллах загвар
     .accesskey = p
-history-remember-option =
-    .label = Үзсэн болон татаж авсан мэдээллийг санах
-    .accesskey = b
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = зорчсоноос
-sitedata-accept-third-party-never-option =
-    .label = хэзээ ч үгүй
 sitedata-cookies-exceptions =
     .label = Зөвшөөрөгдсөн хуудас…
     .accesskey = ш
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -212,3 +214,9 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Гэрчилгээ
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Ар дэвсгэр
+downloads-folder-name = Татаж авалтууд
+choose-download-folder-title = Татаж авалтын санг сонго:

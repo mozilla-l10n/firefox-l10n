@@ -22,6 +22,10 @@ permissions-capabilities-allow =
     .label = Зөвшөөр
 permissions-capabilities-block =
     .label = Хорих
+permissions-capabilities-listitem-allow =
+    .value = Зөвшөөр
+permissions-capabilities-listitem-allow-session =
+    .value = Тухайн хэсэгт зөвшөөр
 
 ## Invalid Hostname Dialog
 
@@ -41,6 +45,9 @@ permissions-invalid-uri-label = Зөв компьютерийн нэр оруу�
 
 
 ## Exceptions - Add-ons
+
+
+## Exceptions - Autoplay Media
 
 
 ## Site Permissions - Notifications
