@@ -41,6 +41,17 @@ should-restart-title = Qalisa kwakhona { -brand-short-name }
 should-restart-ok = Phinda uqale i{ -brand-short-name } ngoku
 restart-later = Qalisa ngokutsha Kamva
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = IZiphumo zoKhangelo
@@ -66,15 +77,6 @@ always-check-default =
     .accesskey = o
 is-default = I-{ -brand-short-name } kungokunje iyibhrawuza yakho esisiseko
 is-not-default = I-{ -brand-short-name } ayiyobhrawuza yakho esisiseko
-startup-page = Xa i-{ -brand-short-name } iqalisa
-    .accesskey = i
-startup-user-homepage =
-    .label = Bonisa iphepha lakho lokuqala
-startup-blank-page =
-    .label = Bonisa ikhasi elingenanto
-startup-prev-session =
-    .label = Bonisa iifestile neethebhu zakho ukususela ukugqibela kwam
-home-page-header = Bonisa iphepha lakho lokuqala
 tabs-group-header = Izilungelelanisi zemigca
 ctrl-tab-recently-used-order =
     .label = Imijikelo yeCtrl+Tab kwiithebhu kulungelelwano olusandul' ukusetyenziswa
@@ -182,7 +184,6 @@ applications-action-column =
     .accesskey = I
 play-drm-content-learn-more = Funda okungakumbi
 update-application-title = I-{ -brand-short-name } iZihlaziyi
-update-application-info = Uhlobo { $version } <a>Yintoni entsha</a>
 update-application-version = Uhlobo { $version } <a data-l10n-name="learn-more">Yintoni entsha</a>
 update-history =
     .label = Bonisa iMbali yoHlaziyo…
@@ -215,7 +216,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Inkqubo yesiqulatho nomlinganiselo
     .accesskey = l
 performance-limit-content-process-enabled-desc = Iinkqubo ezongezelelekileyo zesiqulatho zinokuphucula ukusebenza xa usebenzisa iithebhu ezininzi, kodwa iya kusebenzisa imemori engakumbi.
-performance-limit-content-process-disabled-desc = Ukuphucula inani leenkqubo zeziqulatho kunokwenzeka kuphela ngeenkqubo ezininzi ze-{ -brand-short-name }. <a>Funda indlela yokuhlola ukuba zivuliwe iinkqubo ezininzi</a>
 performance-limit-content-process-blocked-desc = Ukuphucula inani leenkqubo zeziqulatho kunokwenzeka kuphela ngeenkqubo ezininzi ze-{ -brand-short-name }. <a data-l10n-name="learn-more">Funda indlela yokuhlola ukuba zivuliwe iinkqubo ezininzi</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -265,9 +265,6 @@ use-current-pages =
     .accesskey = S
 choose-bookmark =
     .label = Sebenzisa iBhukhmakhi…
-    .accesskey = B
-restore-default =
-    .label = Buyisela kwiZiseko
     .accesskey = B
 
 ## Search Section
@@ -394,9 +391,6 @@ history-dontremember-description = i-{ -brand-short-name } iya kusebenzisa iiset
 history-private-browsing-permanent =
     .label = Soloko usebenzisa imo yokubhrawuza yangasese
     .accesskey = o
-history-remember-option =
-    .label = Khumbula imbali yokubhrawuza nokukhuphela kwam
-    .accesskey = K
 history-remember-search-option =
     .label = Khumbula imbali yokukhangela neyefom
     .accesskey = a
@@ -410,12 +404,6 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Funda okungakumbi
-sitedata-accept-third-party-always-option =
-    .label = Qho
-sitedata-accept-third-party-visited-option =
-    .label = Isuka kwetyelelweyo
-sitedata-accept-third-party-never-option =
-    .label = Ungaze
 sitedata-cookies-exceptions =
     .label = Izinxaxhi…
     .accesskey = z
@@ -430,6 +418,9 @@ addressbar-locbar-openpage-option =
     .accesskey = V
 addressbar-suggestions-settings = Tshintsha iipreferensi zamacebiso enjini yokukhangela
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 tracking-header = Ukhuseleko Lokutreka
@@ -442,10 +433,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Ungaze
     .accesskey = U
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Sebenzisa uKhuseleko lokuTreka ukuBhrawza kwaBucala ukuze ubhloke abatreki abaziwayo
-    .accesskey = v
 tracking-exceptions =
     .label = Ezikhethekileyo…
     .accesskey = z
@@ -500,3 +487,6 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Buza iiseva zomphenduli ze-OCSP ukuqinisekisa ukugqibelela kwangoku kwezatifikethi
     .accesskey = B
+
+## The following strings are used in the Download section of settings
+
