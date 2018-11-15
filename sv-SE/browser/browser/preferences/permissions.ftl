@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Blockera
 permissions-capabilities-prompt =
     .label = Fråga alltid
+permissions-capabilities-listitem-allow =
+    .value = Tillåt
+permissions-capabilities-listitem-block =
+    .value = Blockera
+permissions-capabilities-listitem-allow-session =
+    .value = Tillåt för sessionen
 
 ## Invalid Hostname Dialog
 
