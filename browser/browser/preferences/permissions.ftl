@@ -85,10 +85,6 @@ permissions-exceptions-addons-desc = באפשרותך לציין לאלו אתר
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = אתרים מורשים - ניגון אוטומטי
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = באפשרותך לציין לאלו אתרים מותר לנגן באופן אוטומטי רכיבי מדיה. הקלד את הכתובת המדויקת של האתר שברצונך להרשות ואז לחץ על הרשה.
 permissions-exceptions-autoplay-media-window2 =
     .title = חריגות - ניגון אוטומטי
     .style = { permissions-window.style }
