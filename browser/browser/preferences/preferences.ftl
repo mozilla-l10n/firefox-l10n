@@ -843,3 +843,7 @@ certs-view =
 certs-devices =
     .label = Aparati de Seguessa…
     .accesskey = S
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Desktop
