@@ -9,14 +9,19 @@ about-performance-title = Amsefrak n twuri
 
 column-name = Isem
 column-type = Tawsit
+column-energy-impact = Gellu n tezmert
 
 ## Special values for the Name column
 
 ghost-windows = Iccaren imedlen melmi kan
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Seld usali: { $title }
 
 ## Values for the Type column
 
 type-tab = Iccer
+type-subframe = Akatar n ddaw
 type-tracker = Aneḍfar
 type-addon = Azegrir
 type-browser = Iminig

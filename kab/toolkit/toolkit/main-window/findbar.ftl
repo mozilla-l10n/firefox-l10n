@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Sebṛureq i meṛṛa
     .accesskey = b
     .tooltiptext = Err izirig ɣef temsedriwin n twinest
+findbar-highlight-all2 =
+    .label = Sebṛureq i meṛṛa
+    .accesskey =
+        { PLATFORM() ->
+            [macos] I
+           *[other] a
+        }
+    .tooltiptext = Sebṛureq akk timeḍriwin n tefyirt
 findbar-case-sensitive =
     .label = Qadeṛ amasal n isekkilen
     .accesskey = Q

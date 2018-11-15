@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL i tifrat n DNS deg HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Seqdec amezwer ($url)
+    .accesskey = S
+    .tooltiptext = Seqdec URL amezwer i tifrat n DNS s HTTPS
+connection-dns-over-https-url-custom =
+    .label = Sagen
+    .accesskey = S
+    .tooltiptext = Sekcem URL i tebɣiḍ i tifrat n DNS s HTTPS
