@@ -852,6 +852,11 @@ space-alert-over-5gb-pref-button =
             [windows] A
            *[other] A
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } se está quedando sin espacio en el disco. Puede que los contenidos del sitio web no se muestren adecuadamente. Puede limpiar los datos almacenados en Opciones > Privacidad y seguridad > Cookies y datos del sitio.
+       *[other] { -brand-short-name } necesita espacio en el disco. Puede que los contenidos del sitio web no se muestren adecuadamente. Puede limpiar los datos almacenados en Preferencias > Privacidad y seguridad > Cookies y datos del sitio.
+    }
 space-alert-under-5gb-ok-button =
     .label = De acuerdo, entendido
     .accesskey = u
