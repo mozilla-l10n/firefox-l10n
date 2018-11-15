@@ -249,3 +249,5 @@ certs-header = Sertîfîka
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Sermase
+downloads-folder-name = Jêbarkirî
+choose-download-folder-title = Peldanka jêbarkirinê hilbijêre:

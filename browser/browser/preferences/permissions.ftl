@@ -26,6 +26,8 @@ permissions-capabilities-listitem-allow =
     .value = Destûrê bide
 permissions-capabilities-listitem-block =
     .value = Asteng Bike
+permissions-capabilities-listitem-allow-first-party =
+    .value = Destûrê bide partiya pêşî tenê
 permissions-capabilities-listitem-allow-session =
     .value = Ji bo daniştinê destûrê bidê
 
