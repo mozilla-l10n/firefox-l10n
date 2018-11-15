@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = ਪਾਬੰਦੀ
 permissions-capabilities-prompt =
     .label = ਹਮੇਸ਼ਾਂ ਪੁੱਛੋ
+permissions-capabilities-listitem-allow =
+    .value = ਮਨਜ਼ੂਰ
+permissions-capabilities-listitem-block =
+    .value = ਪਾਬੰਦੀ
+permissions-capabilities-listitem-allow-session =
+    .value = ਸ਼ੈਸ਼ਨ ਲਈ ਸਵੀਕਾਰ
 
 ## Invalid Hostname Dialog
 
