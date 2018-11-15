@@ -228,7 +228,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy de rede
 network-settings-title = Axustes de rede
 network-proxy-connection-description = Configura cómo { -brand-short-name } se coneute a internet.
 network-proxy-connection-learn-more = Deprendi más
@@ -404,12 +403,6 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Deprendi más
-sitedata-accept-third-party-always-option =
-    .label = Siempre
-sitedata-accept-third-party-visited-option =
-    .label = De los visitaos
-sitedata-accept-third-party-never-option =
-    .label = Enxamás
 sitedata-cookies-exceptions =
     .label = Esceiciones…
     .accesskey = E
@@ -518,3 +511,8 @@ certs-view =
 certs-devices =
     .label = Preseos de seguridá…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Escritoriu
+downloads-folder-name = Descargues

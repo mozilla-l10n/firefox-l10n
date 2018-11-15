@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Bloquiar
 permissions-capabilities-prompt =
     .label = Entrugar siempre
+permissions-capabilities-listitem-allow =
+    .value = Permitir
+permissions-capabilities-listitem-block =
+    .value = Bloquiar
+permissions-capabilities-listitem-allow-session =
+    .value = Permitir pa la sesión
 
 ## Invalid Hostname Dialog
 
@@ -78,7 +84,6 @@ permissions-exceptions-addons-desc = Pues especificar dende qué sitios web ta p
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-desc = Pues especificar los sitios web que tienen permisu pa reproducir automáticamente elementos multimedia. Teclexa la direición exauta del sitiu web que quies permitir y darréu fai clic en Permitir.
 
 ## Site Permissions - Notifications
 
