@@ -860,6 +860,24 @@ certs-view =
 certs-devices =
     .label = Turvallisuuslaitteet…
     .accesskey = T
+space-alert-learn-more-button =
+    .label = Lue lisää
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Avaa asetukset
+           *[other] Avaa asetukset
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] A
+        }
+space-alert-under-5gb-ok-button =
+    .label = OK, selvä
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name }ilta loppuu kohta levytila. Sivustojen sisällöt eivät ehkä näy oikein. Voit lukea levyn käytön optimoimisesta selaamisen sujuvoittamiseksi painamalla ”Lue lisää”.
 
 ## The following strings are used in the Download section of settings
 
