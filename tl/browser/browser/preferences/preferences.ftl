@@ -685,6 +685,17 @@ certs-devices =
 space-alert-learn-more-button =
     .label = Matuto ng Higit pa
     .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Buksan ang Pagpipilian
+           *[other] Buksan ang Mga Ibig
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
 space-alert-under-5gb-ok-button =
     .label = OK, Nakuha ko ito
     .accesskey = K
