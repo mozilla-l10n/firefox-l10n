@@ -155,6 +155,9 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 
@@ -179,3 +182,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Sertipiko
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Eskritorio
+downloads-folder-name = Downloads

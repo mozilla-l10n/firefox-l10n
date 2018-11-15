@@ -24,6 +24,10 @@ permissions-capabilities-block =
     .label = Lapdan
 permissions-capabilities-prompt =
     .label = Kanayon a Saludsuden
+permissions-capabilities-listitem-allow =
+    .value = Palubosan
+permissions-capabilities-listitem-block =
+    .value = Lapdan
 
 ## Invalid Hostname Dialog
 
