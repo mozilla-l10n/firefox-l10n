@@ -543,7 +543,27 @@ certs-view =
 certs-devices =
     .label = Gléasanna Slándála…
     .accesskey = d
+space-alert-learn-more-button =
+    .label = Tuilleadh Eolais
+    .accesskey = T
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Oscail na Roghanna
+           *[other] Oscail na Sainroghanna
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-under-5gb-ok-button =
+    .label = OK, Tuigim
+    .accesskey = K
+space-alert-under-5gb-message = Níl mórán spáis fágtha ar an diosca ag { -brand-short-name }. Seans nach dtaispeánfar ábhar mar is ceart sa bhrabhsálaí. Cliceáil “Tuilleadh Eolais” le foghlaim conas an úsáid is fearr a bhaint as an diosca.
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Deasc
+downloads-folder-name = Downloads
+choose-download-folder-title = Roghnaigh Fillteán Íoslódála:
