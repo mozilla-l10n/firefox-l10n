@@ -28,6 +28,17 @@ feature-enable-requires-restart = ଏହି ବିଶେଷତାକୁ ସକ�
 feature-disable-requires-restart = ଏହି ବିଶେଷତାକୁ ନିଷ୍କ୍ରିୟ କରିବା ପାଇଁ { -brand-short-name } କୁ ନିଶ୍ଚିତ ଭାବରେ ପୁନଃଚାଳନ କରିବାକୁ ହେବ।
 should-restart-title = { -brand-short-name } କୁ ପୁନଃଚାଳନ କରନ୍ତୁ
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -41,8 +52,6 @@ separate-profile-mode =
 use-firefox-sync = ସୂଚନା: ଏହା ପୃଥକ ରୂପରେଖାକୁ ବ୍ୟବହାର କରିଥାଏ। ତଥ୍ଯକୁ ସେଗୁଡ଼ିକ ମଧ୍ଯରେ ସହଭାଗ କରିବା ପାଇଁ ସନ୍ତୁଳନକୁ ବ୍ୟବହାର କରନ୍ତୁ।
 is-default = { -brand-short-name } ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ପୂର୍ବନିର୍ଦ୍ଧାରିତ ବ୍ରାଉଜର ଅଟେ
 is-not-default = { -brand-short-name } ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ପୂର୍ବନିର୍ଦ୍ଧାରିତ ବ୍ରାଉଜର ଅଟେ
-startup-blank-page =
-    .label = ଗୋଟିଏ ଖାଲି ପୃଷ୍ଠା ଦର୍ଶାନ୍ତୁ
 tabs-group-header = ଟ୍ଯାବଗୁଡ଼ିକ
 show-tabs-in-taskbar =
     .label = ୱିଣ୍ଡୋ କାର୍ଯ୍ୟପଟିରେ ଟ୍ୟାବ ପ୍ରାକଦର୍ଶନକୁ ଦର୍ଶାନ୍ତୁ
@@ -142,9 +151,6 @@ use-current-pages =
 choose-bookmark =
     .label = ଚିହ୍ନିତ ସ୍ଥାନ ବ୍ୟବହାର କରନ୍ତୁ…
     .accesskey = B
-restore-default =
-    .label = ପୂର୍ବନିର୍ଦ୍ଧାରିତରେ ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ
-    .accesskey = R
 
 ## Search Section
 
@@ -204,9 +210,6 @@ history-dontremember-description = { -brand-short-name } ବ୍ୟକ୍ତି�
 history-private-browsing-permanent =
     .label = ସର୍ବଦା ବ୍ଯକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ପଦ୍ଧତିକୁ ବ୍ୟବହାର କରନ୍ତୁ
     .accesskey = p
-history-remember-option =
-    .label = ମୋର ବ୍ରାଉଜର ଏବଂ  ଆହରଣ ପୁରୁଣା ତଥ୍ୟକୁ ମନେରଖନ୍ତୁ
-    .accesskey = b
 history-remember-search-option =
     .label = ସନ୍ଧାନ ଏବଂ ଫର୍ମ ପୁରୁମା ତଥ୍ୟକୁ ମନେ ରଖନ୍ତୁ
     .accesskey = f
@@ -219,15 +222,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = ପରିଦର୍ଶନ କରିଥିବା ପୃଷ୍ଠାରୁ
-sitedata-accept-third-party-never-option =
-    .label = କଦାପି ନୁହଁ
 sitedata-cookies-exceptions =
     .label = ବ୍ୟତିକ୍ରମ…
     .accesskey = E
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -260,3 +262,9 @@ certs-header = ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ
 certs-enable-ocsp =
     .label = OCSP ଉତ୍ତର ପ୍ରଦାନକାରୀ ସର୍ଭରଗୁଡ଼ିକୁ ପ୍ରଚଳିକ ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ ବୈଧତାକୁ ନିଶ୍ଚିତ କରିବା ପାଇଁ ପଚାରନ୍ତୁ
     .accesskey = Q
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = ଡେସ୍କଟପ
+downloads-folder-name = ଆହରଣ
+choose-download-folder-title = ଆହରଣକୃତ ଫୋଲଡରକୁ ଚୟନ କରନ୍ତୁ:
