@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Блокирај
 permissions-capabilities-prompt =
     .label = Увек питај
+permissions-capabilities-listitem-allow =
+    .value = Дозволи
+permissions-capabilities-listitem-block =
+    .value = Блокирај
+permissions-capabilities-listitem-allow-session =
+    .value = Дозволи за ову сесију
 
 ## Invalid Hostname Dialog
 
@@ -85,10 +91,6 @@ permissions-exceptions-addons-desc = Можете да одредите који
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Дозвољени веб сајтови - Аутоматска репродукција
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Можете да одредите којим веб сајтовима је дозвољено да аутоматски пуштају медије. Укуцајте тачну адресу сајта којем желите да дозволите и притисните на Дозволи.
 permissions-exceptions-autoplay-media-window2 =
     .title = Изузеци - Аутоматска репродукција
     .style = { permissions-window.style }

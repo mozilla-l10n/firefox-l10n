@@ -329,7 +329,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Мрежни прокси
 network-settings-title = Поставке мреже
 network-proxy-connection-description = Подесите начин на који се { -brand-short-name } повезује на интернет.
 network-proxy-connection-learn-more = Сазнајте више
@@ -594,26 +593,12 @@ sitedata-total-size-calculating = Рачунам податке сајта и к
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ваши складиштени колачићи, подаци сајта и кеш тренутно заузимају { $value } { $unit } простора.
 sitedata-learn-more = Сазнајте више
-sitedata-accept-cookies-option =
-    .label = Прихватај колачиће и податке сајта (препоручено)
-    .accesskey = П
-sitedata-block-cookies-option =
-    .label = Блокирај колачиће и податке сајта (може срушити веб сајт)
-    .accesskey = Б
 sitedata-keep-until = Чувај док
     .accesskey = д
 sitedata-keep-until-expire =
     .label = не истекну
 sitedata-keep-until-closed =
     .label = се { -brand-short-name } не затвори
-sitedata-accept-third-party-desc = Прихватај колачиће и податке од трећих лица
-    .accesskey = е
-sitedata-accept-third-party-always-option =
-    .label = Увек
-sitedata-accept-third-party-visited-option =
-    .label = Од посећених
-sitedata-accept-third-party-never-option =
-    .label = Никад
 sitedata-allow-cookies-option =
     .label = Прихватај колачиће и податке сајта
     .accesskey = П
@@ -734,10 +719,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Никада
     .accesskey = Н
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Користите заштиту од праћења у приватном режиму да блокирате познате трагаче
-    .accesskey = в
 tracking-exceptions =
     .label = Изузеци…
     .accesskey = И
@@ -860,3 +841,7 @@ certs-view =
 certs-devices =
     .label = Безбедносни уређаји…
     .accesskey = Б
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Радна површина
