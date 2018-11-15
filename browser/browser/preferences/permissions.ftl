@@ -10,6 +10,12 @@ permissions-capabilities-allow =
     .label = Vumela
 permissions-capabilities-block =
     .label = Vimba
+permissions-capabilities-listitem-allow =
+    .value = Vumela
+permissions-capabilities-listitem-block =
+    .value = Vimba
+permissions-capabilities-listitem-allow-session =
+    .value = Vumela iseshini
 
 ## Invalid Hostname Dialog
 
@@ -29,6 +35,9 @@ permissions-invalid-uri-label = Uyacelwa faka libito lalovakashelwe lelisemtsetf
 
 
 ## Exceptions - Add-ons
+
+
+## Exceptions - Autoplay Media
 
 
 ## Site Permissions - Notifications
