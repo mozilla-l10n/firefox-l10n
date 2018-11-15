@@ -853,6 +853,30 @@ certs-view =
 certs-devices =
     .label = Masiŋon Kisal…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Jokku taro
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Uddit cuɓtorɗe
+           *[other] Uddit Cuɓe
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] U
+        }
+space-alert-under-5gb-ok-button =
+    .label = OK, Heɓ ɗum
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } ina ŋakkiraa boowal mbeɗu. Loowdi lowre ndee waawaa hollireede no feewiri. Yillo "Ɓeydude Humpito" ngam ittinde kuutoragol mbeɗu maa ngam humpito moƴƴo banngagol.
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Biro
+downloads-folder-name = Gaawte
+choose-download-folder-title = Suɓo Runngere Gaawte:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
