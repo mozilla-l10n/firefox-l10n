@@ -838,6 +838,27 @@ certs-view =
 certs-devices =
     .label = Dispositivos de seguridad…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Saber más
+    .accesskey = S
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Abrir opciones
+           *[other] Abrir preferencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] A
+        }
+space-alert-under-5gb-ok-button =
+    .label = De acuerdo, entendido
+    .accesskey = u
+space-alert-under-5gb-message = { -brand-short-name } se está quedando sin espacio en disco. Los contenidos del sitio web pueden no mostrarse correctamente. Visite "Saber más" para optimizar su uso de disco para mejorar la experiencia de navegación.
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Escritorio
+downloads-folder-name = Descargas
+choose-download-folder-title = Elegir carpeta de descarga:
