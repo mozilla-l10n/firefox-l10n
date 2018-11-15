@@ -860,6 +860,29 @@ certs-view =
 certs-devices =
     .label = Beveiligingsapparaten…
     .accesskey = B
+space-alert-learn-more-button =
+    .label = Meer info
+    .accesskey = M
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opties openen
+           *[other] Voorkeuren openen
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] o
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } heeft bijna geen schijfruimte meer. Inhoud van websites wordt mogelijk niet goed weergegeven. U kunt opgeslagen gegevens wissen in Opties > Privacy & Beveiliging > Cookies en websitegegevens.
+       *[other] { -brand-short-name } heeft bijna geen schijfruimte meer. Inhoud van websites wordt mogelijk niet goed weergegeven. U kunt opgeslagen gegevens wissen in Voorkeuren > Privacy & Beveiliging > Cookies en websitegegevens.
+    }
+space-alert-under-5gb-ok-button =
+    .label = OK, begrepen
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } heeft bijna geen schijfruimte meer. Inhoud van websites wordt mogelijk niet goed weergegeven. Bezoek ‘Meer info’ om uw schijfgebruik te optimaliseren voor betere prestaties.
 
 ## The following strings are used in the Download section of settings
 
