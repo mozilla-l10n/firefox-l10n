@@ -860,6 +860,10 @@ certs-view =
 certs-devices =
     .label = Dispositivos de segurança…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Ambiente de trabalho
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
