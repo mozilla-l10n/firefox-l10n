@@ -19,6 +19,14 @@ permissions-capabilities-allow =
     .label = हगार
 permissions-capabilities-block =
     .label = ब्लक खालाम
+permissions-capabilities-listitem-allow =
+    .value = हगार
+permissions-capabilities-listitem-block =
+    .value = ब्लक खालाम
+permissions-capabilities-listitem-allow-first-party =
+    .value = गिबि बाहागोखौल' गनायथि हो
+permissions-capabilities-listitem-allow-session =
+    .value = जथुमानि थाखाय गनायथि हो
 
 ## Invalid Hostname Dialog
 
@@ -41,6 +49,9 @@ permissions-exceptions-popup-desc = पप-आप उइन्ड'खौ खे�
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = add-ons खौ इनष्टल खालामनो मबे वेबसाइटखौ गनायथि होनांगौ बेखौ नोंथाङा थि खालामनो हायो। नोंथाङा गनायथि होनो लुबैनाय साइटनि थंखौ एखेयै टाइप खालाम आरो बेनि उनाव गनायथि हो-खौ क्लिक खालाम।
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 

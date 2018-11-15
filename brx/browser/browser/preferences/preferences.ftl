@@ -29,6 +29,17 @@ feature-enable-requires-restart = बे आखुथायखौ हाहो�
 feature-disable-requires-restart = बे आखुथायखौ लोरबां खालामनो { -brand-short-name } खौ फिन जागायनांगोन।
 should-restart-title = { -brand-short-name } फिन जागाय
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -42,8 +53,6 @@ separate-profile-mode =
 use-firefox-sync = इंगित: बेयो आलादा प्रफाइलखौ बाहायो। बेफोरनि गेजेराव डाटाखौ शेयार खालामनो सिन्कखौ बाहाय
 is-default = { -brand-short-name } आ दासान्दि नोंथांनि डिफल्ट ब्राउजार
 is-not-default = { -brand-short-name } आ नोंथांनि डिफल्ट ब्राउजार नङा
-startup-blank-page =
-    .label = लांदां फेजखौ दिन्थि
 tabs-group-header = टेब
 show-tabs-in-taskbar =
     .label = टेब गिबिनुथाइखौ उइन्ड' टास्कबाराव दिन्थि (k)
@@ -139,9 +148,6 @@ use-current-pages =
 choose-bookmark =
     .label = बुकमाकॅखौ... बाहाय
     .accesskey = ब
-restore-default =
-    .label = असेयाव दोनफिन
-    .accesskey = द
 
 ## Search Section
 
@@ -214,9 +220,6 @@ history-dontremember-description = { -brand-short-name } आ एखे सेट
 history-private-browsing-permanent =
     .label = अरायबो निजि ब्राउजिं म'डखौ बाहाय (p)
     .accesskey = p
-history-remember-option =
-    .label = आंनि ब्राउस खालामनाय आरो दावनल'द खालामनाय जारिमिनखौ जेब्लाबो गोसोयाव ला
-    .accesskey = b
 history-remember-search-option =
     .label = नागेरनाय आरो फरमनि जारिमिनखौ गोसोयाव लाखि
     .accesskey = फ
@@ -229,10 +232,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = थांखानाय निफ्राय
-sitedata-accept-third-party-never-option =
-    .label = माब्लाबाबो नङा
 sitedata-cookies-exceptions =
     .label = Exceptions…
     .accesskey = E
@@ -245,6 +244,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = टेबखौ खेव
     .accesskey = O
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
@@ -276,3 +278,9 @@ certs-header = चार्टिफिकेटफोर
 certs-enable-ocsp =
     .label = सार्टिफिकेटनि दानि बाहायथायखौ रोखा खालामनो सोंलु OCSP फिन होग्रा सार्भार
     .accesskey = Q
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = डेस्कटप
+downloads-folder-name = दावनल'दफोर
+choose-download-folder-title = डाउनल'ड फल्डारखौ बासिख:{ " " }
