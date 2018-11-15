@@ -827,3 +827,8 @@ certs-view =
 certs-devices =
     .label = নিরাপত্তা ডিভাইস…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = ডেস্কটপ
+downloads-folder-name = ডাউনলোড
