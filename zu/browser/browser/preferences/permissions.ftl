@@ -26,6 +26,8 @@ permissions-capabilities-listitem-allow =
     .value = Vumela
 permissions-capabilities-listitem-block =
     .value = Vimbela
+permissions-capabilities-listitem-allow-first-party =
+    .value = Vumela inhlangano yokuqala kuphela
 permissions-capabilities-listitem-allow-session =
     .value = Vumela Kule Nkathi
 
