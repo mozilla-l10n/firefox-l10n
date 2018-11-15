@@ -863,6 +863,24 @@ certs-view =
 certs-devices =
     .label = Saugumo priemonės…
     .accesskey = S
+space-alert-learn-more-button =
+    .label = Sužinoti daugiau
+    .accesskey = u
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Atverti nuostatas
+           *[other] Atverti nuostatas
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] v
+           *[other] v
+        }
+space-alert-under-5gb-ok-button =
+    .label = Gerai, supratau
+    .accesskey = G
+space-alert-under-5gb-message = „{ -brand-short-name }“ tuoj pritrūks vietos diske. Svetainių turinys gali būti atvaizduojamas netinkamai. Spustelėkite „Sužinoti daugiau“, norėdami optimizuoti savo disko naudojimą efektyvesniam naršymui.
 
 ## The following strings are used in the Download section of settings
 
