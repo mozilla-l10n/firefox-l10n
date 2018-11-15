@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = باز داشتن
 permissions-capabilities-prompt =
     .label = همیشه پرسیده شود
+permissions-capabilities-listitem-allow =
+    .value = اجازه دادن
+permissions-capabilities-listitem-block =
+    .value = باز داشتن
+permissions-capabilities-listitem-allow-session =
+    .value = اجازه دادن برای نشست
 
 ## Invalid Hostname Dialog
 
@@ -85,10 +91,6 @@ permissions-exceptions-addons-desc = شما می‌توانید مشخص کنی�
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = سایت‌های مجاز - پخش خودکار
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = می‌توانید مشخص کنید که چه پایگاه‌هایی می‌توانند به صورت خودکار رسانه‌های مختلف را اجرا کنند. آدرس دقیق سایت را وارد کنید و سپس کلید «اجازه دادن» را بزنید.
 permissions-exceptions-autoplay-media-window2 =
     .title = استثناها - پخش خودکار
     .style = { permissions-window.style }
