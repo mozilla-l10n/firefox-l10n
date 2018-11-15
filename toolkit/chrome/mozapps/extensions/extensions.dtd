@@ -87,6 +87,7 @@
 <!ENTITY cmd.preferencesUnix.label            "Voorkeuren">
 <!ENTITY cmd.preferencesUnix.accesskey        "V">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Inschakelen">
 <!ENTITY cmd.enableAddon.accesskey            "I">
 <!ENTITY cmd.disableAddon.label               "Uitschakelen">
@@ -167,6 +168,8 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Pauzeren">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Annuleren">
 
 <!ENTITY addon.homepage                       "Homepage">
