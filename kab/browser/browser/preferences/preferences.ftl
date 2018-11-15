@@ -863,6 +863,11 @@ certs-devices =
 space-alert-learn-more-button =
     .label = Issin ugar
     .accesskey = g
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } iteddu ad iεeddi i tallunt n udebṣi. Igburen n usmel web ur d-ttbanen ara akken iwata. Tzemreḍ ad tsefḍeḍ isefka n usmel deg Iγewwaṛen-> Talqayt -> Isefka n usmel.
+       *[other] { -brand-short-name } iteddu ad iεeddi i tallunt n udebṣi. Igburen n usmel web ur d-ttbanen ara akken iwata. Tzemreḍ ad tsefḍeḍ isefka n usmel deg Ismenyifen-> Talqayt -> Isefka n usmel.
+    }
 space-alert-under-5gb-ok-button =
     .label = IH awi-t-id
     .accesskey = H
