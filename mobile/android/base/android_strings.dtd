@@ -898,11 +898,17 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel2 "Preglednik">
 <!ENTITY mls_notification_channel "&vendorShortName; lokacijska usluga">
 <!ENTITY download_notification_channel "Preuzimanja">
 <!ENTITY media_notification_channel "Reproduciranje medija">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; push obavijesti">
+<!ENTITY media_notification_channel2 "Zvuk i video">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; savjeti i trikovi">
 <!ENTITY updater_notification_channel "Ažuriranja aplikacija">
 <!ENTITY synced_tabs_notification_channel "Sinkronizirane kartice">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
