@@ -283,4 +283,4 @@ certs-enable-ocsp =
 
 desktop-folder-name = डेस्कटप
 downloads-folder-name = दावनल'दफोर
-choose-download-folder-title = डाउनल'ड फल्डारखौ बासिख:{ " " }
+choose-download-folder-title = डाउनल'ड फल्डारखौ बासिख:
