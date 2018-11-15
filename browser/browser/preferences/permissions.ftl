@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = ಅನುಮತಿಸು
 permissions-capabilities-listitem-block =
     .value = ನಿರ್ಬಂಧಿಸು
+permissions-capabilities-listitem-allow-first-party =
+    .value = ಮೊದಲ ಪಾರ್ಟಿಯನ್ನು ಮಾತ್ರ ಅನುಮತಿಸು
 permissions-capabilities-listitem-allow-session =
     .value = ಅಧಿವೇಶನಕ್ಕೆ ಅನುಮತಿಸು
 
