@@ -826,6 +826,11 @@ certs-view =
 certs-devices =
     .label = セキュリティデバイス...
     .accesskey = D
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } を実行するためのディスク領域が足りません。ウェブサイトが正しく表示されない可能性があります。[オプション] > [プライバシーとセキュリティ] > [Cookie とサイトデータ] から、保存されたデータを削除してください。
+       *[other] { -brand-short-name } を実行するためのディスク領域が足りません。ウェブサイトが正しく表示されない可能性があります。[設定] > [プライバシーとセキュリティ] > [Cookie とサイトデータ] から、保存されたデータを削除してください。
+    }
 
 ## The following strings are used in the Download section of settings
 
