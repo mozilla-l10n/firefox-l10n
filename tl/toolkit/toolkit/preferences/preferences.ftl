@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-not-set =
+    .value = (not set)
 failed-pw-change = Hindi mapalitan ang Master Password.
 incorrect-pw = Hindi mo naipasok ang tamang kasalukuyang Master Password. Maaaring subukan muli.
 pw-change-ok = Matagumpay na napalitan ang Master Password. { pw-empty-warning }
