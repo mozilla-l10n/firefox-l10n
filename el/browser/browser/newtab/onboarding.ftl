@@ -20,3 +20,5 @@ onboarding-private-browsing-title = Ιδιωτική περιήγηση
 onboarding-screenshots-title = Στιγμιότυπα
 onboarding-addons-title = Πρόσθετα
 onboarding-ghostery-title = Ghostery
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Συγχρονισμός
