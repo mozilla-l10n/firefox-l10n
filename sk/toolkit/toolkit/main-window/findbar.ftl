@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Zvýrazniť všetky výskyty
     .accesskey = v
     .tooltiptext = Zvýrazní všetky výskyty hľadaného reťazca
+findbar-highlight-all2 =
+    .label = Zvýrazniť všetky výskyty
+    .accesskey =
+        { PLATFORM() ->
+            [macos] r
+           *[other] a
+        }
+    .tooltiptext = Zvýrazní všetky výskyty hľadaného reťazca
 findbar-case-sensitive =
     .label = Rozlišovať veľkosť písmen
     .accesskey = R
