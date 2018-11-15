@@ -781,3 +781,5 @@ space-alert-under-5gb-ok-button =
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = డెస్కుటాప్
+downloads-folder-name = దింపుకోళ్ళు
+choose-download-folder-title = దింపుకోళ్ళ సంచయాన్ని తెరువు:
