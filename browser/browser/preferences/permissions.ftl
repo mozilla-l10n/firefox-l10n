@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Povolit
 permissions-capabilities-listitem-block =
     .value = Blokovat
+permissions-capabilities-listitem-allow-first-party =
+    .value = Zakázat pro servery třetích stran
 permissions-capabilities-listitem-allow-session =
     .value = Povolit pro relaci
 
