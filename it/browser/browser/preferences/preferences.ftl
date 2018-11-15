@@ -851,6 +851,29 @@ certs-view =
 certs-devices =
     .label = Dispositivi di sicurezza…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Ulteriori informazioni
+    .accesskey = U
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Apri opzioni
+           *[other] Apri preferenze
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] A
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi. Il contenuto dei siti web potrebbe non essere visualizzato correttamente. È possibile eliminare i dati salvati dai siti web in Opzioni > Privacy e sicurezza > Cookie e dati dei siti web.
+       *[other] Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi. Il contenuto dei siti web potrebbe non essere visualizzato correttamente. È possibile eliminare i dati salvati dai siti web in Preferenze > Privacy e sicurezza > Cookie e dati dei siti web.
+    }
+space-alert-under-5gb-ok-button =
+    .label = OK, ricevuto
+    .accesskey = K
+space-alert-under-5gb-message = Lo spazio a disposizione di { -brand-short-name } sta per esaurirsi. Il contenuto dei siti web potrebbe non essere visualizzato correttamente. Visita il link “Ulteriori informazioni” per scoprire come ottimizzare l’utilizzo dello spazio su disco e migliorare l’esperienza di navigazione.
 
 ## The following strings are used in the Download section of settings
 
