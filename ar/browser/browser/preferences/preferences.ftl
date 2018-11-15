@@ -876,6 +876,11 @@ space-alert-over-5gb-pref-button =
             [windows] ف
            *[other] ف
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] مساحة القرص قاربت على النفاذ من { -brand-short-name }. قد لا يُعرض محتوى المواقع كما ينبغي. يمكنك مسح البيانات المحفوظة من ”الخيارات ← الخصوصية والأمان ← بيانات المواقع“.
+       *[other] مساحة القرص قاربت على النفاذ من { -brand-short-name }. قد لا يُعرض محتوى المواقع كما ينبغي. يمكنك مسح البيانات المحفوظة من ”التفضيلات ← الخصوصية والأمان ← بيانات المواقع“.
+    }
 space-alert-under-5gb-ok-button =
     .label = حسنًا، فهمت
     .accesskey = ح
