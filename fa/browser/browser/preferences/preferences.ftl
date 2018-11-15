@@ -800,6 +800,24 @@ certs-view =
 certs-devices =
     .label = امنیت دستگاه‌ها…
     .accesskey = د
+space-alert-learn-more-button =
+    .label = بیشتر بدانید
+    .accesskey = ب
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] بازکردن گزینه‌ها
+           *[other] بازکردن ترجیحات
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ب
+           *[other] ب
+        }
+space-alert-under-5gb-ok-button =
+    .label = باشه،‌ متوجه شدم
+    .accesskey = ب
+space-alert-under-5gb-message = فضای ذخیره سازی { -brand-short-name } تمام شده است. ممکن است محتواهای سایت‌ها خوب نمایش داده نشود.“اطلاعات بیشتر” رابرای بهبود سازی فضای ذخیره سازی خود در جهت کسب تجربه بهتری از مرورگر مشاهده کنید.
 
 ## The following strings are used in the Download section of settings
 
