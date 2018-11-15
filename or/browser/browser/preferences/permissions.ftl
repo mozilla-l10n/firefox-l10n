@@ -19,6 +19,12 @@ permissions-capabilities-allow =
     .label = ଅନୁମତି ଦିଅନ୍ତୁ
 permissions-capabilities-block =
     .label = Block
+permissions-capabilities-listitem-allow =
+    .value = ଅନୁମତି ଦିଅନ୍ତୁ
+permissions-capabilities-listitem-block =
+    .value = Block
+permissions-capabilities-listitem-allow-session =
+    .value = ଅଧିବେଶନ ପାଇଁ ଅନୁମତି ଦିଅନ୍ତୁ
 
 ## Invalid Hostname Dialog
 
@@ -41,6 +47,9 @@ permissions-exceptions-popup-desc = କେଉଁ ୱେବ ସାଇଟଗୁଡ
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = କେଉଁ ୱେବ ସାଇଟଗୁଡ଼ିକ ଏଡ-ଅନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରିବାକୁ ଅନୁମତିପ୍ରାପ୍ତ ତାହା ଆପଣ ଉଲ୍ଲେଖ କରିପାରିବେ. ଆପଣ ଅନୁମତି ଦେବାକୁ ଚାହୁଁଥିବା ସାଇଟର ସଠିକ ଠିକଣା ଟାଇପ କରନ୍ତୁ ଏବଂ ତାପରେ ଅନୁମତିଦିଅନ୍ତୁକୁ ଦବାନ୍ତୁ.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
