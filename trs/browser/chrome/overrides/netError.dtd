@@ -124,6 +124,8 @@ was trying to connect. -->
 
 <!ENTITY certerror.sts.introPara "&brandShortName; nari'ij 'ngo sa yi'ì hia ni nu gan'an ne' ñaan ngà'<span class='hostname'/> dadin sitiò nan ni ni'ñan 'ngo koneksiûn tna'uej rayi'ît.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; nari'ij 'ngo sa yi'ìi ni nu gan'an riña <span class='hostname'/>. Hua a'nan' riña sîtio asi si horât nitaj si nùn hue'ê.">
+<!ENTITY certerror.expiredCert.secondPara2 "Si guruhuaj ni ngà gisîj si diû sertifikâdo, yi'ì dan na'ue ga'nïn riña &brandShortName; guendâ gi'iaj sun hue'ej. Si gatut hiuj nan ruhuât nïn, ga'ue gi'iaj tu nej si nuguan' hua rayi'ît, si da'nga' huìt, si korreôt asi da'nga' araj sunt ngà nakaj nu sà' san'anj an riña.">
 
 
 
