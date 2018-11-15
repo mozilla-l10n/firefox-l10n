@@ -827,6 +827,23 @@ certs-view =
 certs-devices =
     .label = নিরাপত্তা ডিভাইস…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = আরও জানুন
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] অপশন খুলুন
+           *[other] পছন্দসমূহ খুলুন
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-under-5gb-ok-button =
+    .label = ঠিক আছে, বুঝেছি
+    .accesskey = K
 
 ## The following strings are used in the Download section of settings
 
