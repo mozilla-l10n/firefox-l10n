@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Amlygu Popeth
     .accesskey = A
     .tooltiptext = Amlygu pob enghraifft o'r ymadrodd
+findbar-highlight-all2 =
+    .label = Amlygu Popeth
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = Amlygu pob enghraifft o'r ymadrodd
 findbar-case-sensitive =
     .label = Cydweddu Maint
     .accesskey = C
