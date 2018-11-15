@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Blokěrowaś
 permissions-capabilities-prompt =
     .label = Pśecej se pšašaś
+permissions-capabilities-listitem-allow =
+    .value = Dowóliś
+permissions-capabilities-listitem-block =
+    .value = Blokěrowaś
+permissions-capabilities-listitem-allow-first-party =
+    .value = Jano zawołany bok dowóliś
+permissions-capabilities-listitem-allow-session =
+    .value = Za pósejźenje dowóliś
 
 ## Invalid Hostname Dialog
 
