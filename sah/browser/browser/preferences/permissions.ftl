@@ -19,6 +19,12 @@ permissions-capabilities-allow =
     .label = Көҥүллүүргэ
 permissions-capabilities-block =
     .label = Бүөлээ
+permissions-capabilities-listitem-allow =
+    .value = Көҥүллүүргэ
+permissions-capabilities-listitem-block =
+    .value = Бүөлээ
+permissions-capabilities-listitem-allow-session =
+    .value = Сиэссийэҕэ көҥүллүүргэ
 
 ## Invalid Hostname Dialog
 
@@ -41,6 +47,9 @@ permissions-exceptions-popup-desc = Ойон тахсар түннүктэри �
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Ханнык ситим-сир эбиискэ туруоруон сөбүн ыйыаххын сөп. Аадырыһын киллэр уонна "Көҥүллүүргэ" тимэҕи баттаа.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 

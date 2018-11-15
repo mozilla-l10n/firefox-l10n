@@ -29,6 +29,17 @@ feature-enable-requires-restart = Бу эбээһинэһи холбуурга {
 feature-disable-requires-restart = Араарарга маны { -brand-short-name } хос ыыт.
 should-restart-title = Маны { -brand-short-name } хат ыыт
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -36,8 +47,6 @@ should-restart-title = Маны { -brand-short-name } хат ыыт
 
 startup-header = Саҥаттан
 is-default = Билигин куруук холбонор браузер - { -brand-short-name }
-startup-blank-page =
-    .label = Кураанах сирэйи көрдөр
 tabs-group-header = Кыбытыктар
 show-tabs-in-taskbar =
     .label = Кыбытыктар эскиистэрин Windows садаачатын панелыгар көрдөрөр буол
@@ -131,9 +140,6 @@ use-current-pages =
 choose-bookmark =
     .label = Бэлиэни тутун...
     .accesskey = т
-restore-default =
-    .label = Саҥаттан
-    .accesskey = С
 
 ## Search Section
 
@@ -190,9 +196,6 @@ history-dontremember-description = { -brand-short-name } бүөмнээн көр
 history-private-browsing-permanent =
     .label = Бүөмнээн көрүү эрэсиимигэр куруук үлэлииргэ
     .accesskey = ү
-history-remember-option =
-    .label = Көрүү уонна хачайдааһын устуоруйатын долоҕойго уган ис
-    .accesskey = ү
 history-remember-search-option =
     .label = Көрдөөбүппүн уонна формалары толорбуппун долоҕойугар өйдөөн хааллын
     .accesskey = д
@@ -205,13 +208,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-never-option =
-    .label = Аны хаһан да
 sitedata-cookies-exceptions =
     .label = Туорааһыннар…
     .accesskey = Т
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -241,3 +245,9 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Сэртипикээттэр
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Үлэлиир сирэй (рабочий стол)
+downloads-folder-name = Хачайдааһыннар
+choose-download-folder-title = Хачайдааһыннар паапкаларын тал:
