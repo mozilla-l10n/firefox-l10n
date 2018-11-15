@@ -8,6 +8,7 @@ failed-pw-change = Alikwazanga kuguquleka Igama Lokugqithisa Elingumalathindlela
 incorrect-pw = Akulingenisanga Igama Lokugqithisa Elingumalathindlela elichanekileyo langoku. Nceda zama kwakhona.
 pw-change-ok = Igama Lokugqithisa Elingumalathindlela liguqulwe ngempumelelo. { pw-empty-warning }
 pw-empty-warning = Uthungelwano lwakho olulondoloziweyo ngokunjalo namagama okugqithisa emeyile, iinkcukacha zeefom, namaqhosha abucala awasayi kukhuseleka.
+pw-erased-ok = Uyicimile ipasiwedi yakho. { pw-empty-warning }
 pw-not-wanted = Isilumkiso! Wenze isigqibo sokungasebenzisi Igama Lokugqithisa Elingumalathindlela.
 pw-change2empty-in-fips-mode = Okwangoku ukwimo yokusebenza ye-FIPS. I-FIPS ifuna Igama Lokugqithisa Elingumalathindlela elingekho ze.
 pw-change-success-title = Ukuguqulwa Kwegama Lokugqithisa Kuphumelele

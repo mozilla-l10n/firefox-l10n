@@ -487,8 +487,27 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Buza iiseva zomphenduli ze-OCSP ukuqinisekisa ukugqibelela kwangoku kwezatifikethi
     .accesskey = B
+space-alert-learn-more-button =
+    .label = Funda Okungakumbi
+    .accesskey = F
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Vula Ukhetho
+           *[other] Vula iiPriferensi
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] V
+           *[other] V
+        }
+space-alert-under-5gb-ok-button =
+    .label = Kulungile. Ndiyifumene
+    .accesskey = l
+space-alert-under-5gb-message = I-{ -brand-short-name } iphelelwa yindawo kwidiski. Iziqulatho zewebhsayithi zinokungabonisi kakuhle. Tyelela ethi “Funda Okungakumbi” ukuze u-optimayize ukusebenzisa kwakho idiski ukuze ubhrawze kakuhle.
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Idesktophu
+downloads-folder-name = Okukhutshelweyo
 choose-download-folder-title = Khetha iFolda yokuKhutshelwayo:
