@@ -48,6 +48,8 @@ permissions-capabilities-listitem-block =
     .value = छेक्नुहोस्
 permissions-capabilities-listitem-allow-first-party =
     .value = पहिलो पार्टीलाई मात्र अनुमति दिनुहोस्
+permissions-capabilities-listitem-allow-session =
+    .value = सेसनलाई अनुमति दिनुहोस्
 
 ## Invalid Hostname Dialog
 
