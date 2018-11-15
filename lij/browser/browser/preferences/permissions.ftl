@@ -42,6 +42,8 @@ permissions-capabilities-block =
     .label = Blòcco
 permissions-capabilities-prompt =
     .label = Domanda de longo
+permissions-capabilities-listitem-block =
+    .value = Blòcco
 
 ## Invalid Hostname Dialog
 
@@ -85,10 +87,6 @@ permissions-exceptions-addons-desc = Ti ti peu dî quæ sciti peuan arvî ò ins
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Sciti permissi - Aoto-xeuo
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Ti peu specificâ quæ sciti peuan xoâ in aotomatico elementi media. Scrivi ben l'indirisso do scito che ti ghe veu dâ o permisso e sciacca Permetti.
 permissions-exceptions-autoplay-media-window2 =
     .title = Eceçioin - Aoto-riproduçion
     .style = { permissions-window.style }
