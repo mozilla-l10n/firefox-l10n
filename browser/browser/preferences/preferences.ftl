@@ -844,6 +844,12 @@ certs-view =
 certs-devices =
     .label = સુરક્ષા ઉપકરણો…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = ડેસ્કટોપ
+downloads-folder-name = ડાઉનલોડ
+choose-download-folder-title = ડાઉનલોડ ફોલ્ડર પસંદ કરો:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
