@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = ទប់ស្កាត់
 permissions-capabilities-prompt =
     .label = សួរ​ជានិច្ច
+permissions-capabilities-listitem-allow =
+    .value = អនុញ្ញាត
+permissions-capabilities-listitem-block =
+    .value = ទប់ស្កាត់
+permissions-capabilities-listitem-allow-session =
+    .value = អនុញ្ញាត​សម្រាប់​សម័យ
 
 ## Invalid Hostname Dialog
 

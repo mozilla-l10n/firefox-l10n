@@ -420,12 +420,6 @@ history-clear-button =
 
 sitedata-header = ខូឃី និងទិន្នន័យ​គេហទំព័រ
 sitedata-learn-more = ស្វែងយល់​បន្ថែម
-sitedata-accept-third-party-always-option =
-    .label = ជានិច្ច
-sitedata-accept-third-party-visited-option =
-    .label = ពី​អ្វី​ដែល​ទស្សនា
-sitedata-accept-third-party-never-option =
-    .label = កុំ
 sitedata-clear =
     .label = សម្អាតទិន្នន័យ...
     .accesskey = l
@@ -531,3 +525,8 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = ម៉ាស៊ីន​មេ​កម្មវិធី​ឆ្លើយតប OCSP ត្រូវ​បញ្ជាក់​ភាព​ត្រឹមត្រូវ​នៃ​វិញ្ញាបនបត្រ​បច្ចុប្បន្ន
     .accesskey = Q
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = ផ្ទៃតុ
+choose-download-folder-title = ជ្រើស​ថត​ទាញ​យក ៖
