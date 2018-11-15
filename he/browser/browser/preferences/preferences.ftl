@@ -838,6 +838,7 @@ certs-view =
 certs-devices =
     .label = התקני אבטחה…
     .accesskey = א
+space-alert-under-5gb-message = ל־{ -brand-short-name } אוזל שטח הדיסק. יתכן שנתוני אתרים לא יוצגו כשורה. ניתן לבקר בקישור של “מידע נוסף” כדי לייעל את אופן השימוש בדיסק לחוויית גלישה טובה יותר.
 
 ## The following strings are used in the Download section of settings
 
