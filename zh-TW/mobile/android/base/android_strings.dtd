@@ -296,6 +296,13 @@
      Will be used in the context "<Turn on> ... to enable this feature" -->
 <!ENTITY pref_feature_tips_notification_enabling_hint "打開">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "（要開啟此選項，必須先開啟&pref_feature_tips_notification_enabling_path;）">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "實驗功能">
@@ -898,13 +905,16 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "網頁瀏覽器">
 <!ENTITY mls_notification_channel "&vendorShortName; Location Service">
 <!ENTITY download_notification_channel "下載項目">
 <!ENTITY media_notification_channel "媒體播放">
-<!ENTITY media_notification_channel2 "聲音與影片">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; 推送通知">
+<!ENTITY media_notification_channel2 "聲音與影片">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; 使用秘訣">
 <!ENTITY updater_notification_channel "應用程式更新">
 <!ENTITY synced_tabs_notification_channel "已同步的分頁">
