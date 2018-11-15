@@ -24,6 +24,17 @@ focus-search =
 ## Browser Restart Dialog
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -89,10 +100,11 @@ history-header = Cronologia
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Leghe àteru
-sitedata-accept-third-party-never-option =
-    .label = Mai
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -116,3 +128,7 @@ security-header = Seguresa
 
 ## Privacy Section - Certificates
 
+
+## The following strings are used in the Download section of settings
+
+downloads-folder-name = Iscarrigamentos

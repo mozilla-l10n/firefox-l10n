@@ -6,6 +6,10 @@ permissions-capabilities-allow =
     .label = Permite
 permissions-capabilities-block =
     .label = Bloca
+permissions-capabilities-listitem-allow =
+    .value = Permite
+permissions-capabilities-listitem-block =
+    .value = Bloca
 
 ## Invalid Hostname Dialog
 
@@ -23,6 +27,9 @@ permissions-capabilities-block =
 
 
 ## Exceptions - Add-ons
+
+
+## Exceptions - Autoplay Media
 
 
 ## Site Permissions - Notifications
