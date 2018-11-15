@@ -662,7 +662,26 @@ certs-view =
 certs-devices =
     .label = ອຸປະກອນຄວາມປອດໄພ…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = ຮຽນຮູ້ເພີ່ມເຕີມ
+    .accesskey = ຮ
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] ເປີດຕົວເລືອກ
+           *[other] ເປີດການຕັ້ງຄ່າ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ປ
+           *[other] ປ
+        }
+space-alert-under-5gb-ok-button =
+    .label = ຕົກລົງ, ເຂົ້າໃຈແລ້ວ
+    .accesskey = ຕ
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = ເດສກ໌ທັອບ
 downloads-folder-name = ດາວໂຫລດ
+choose-download-folder-title = ເລືອກໂຟນເດີດາວໂຫລດ:

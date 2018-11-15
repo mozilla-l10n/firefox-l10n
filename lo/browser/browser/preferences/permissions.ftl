@@ -44,6 +44,12 @@ permissions-capabilities-prompt =
     .label = ຖາມທຸກຄັ້ງ
 permissions-capabilities-listitem-allow =
     .value = ອະນຸຍາດ
+permissions-capabilities-listitem-block =
+    .value = ບັອກ
+permissions-capabilities-listitem-allow-first-party =
+    .value = ອະນຸຍາດຈາກບຸກຄົນທີ່ຫນຶ່ງເທົ່ານັ້ນ
+permissions-capabilities-listitem-allow-session =
+    .value = ອະນຸຍາດສຳລັບເຊສຊັນນີ້
 
 ## Invalid Hostname Dialog
 
