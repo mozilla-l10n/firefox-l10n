@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL per resolver DNS via HTTPS">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Utilisar il standard">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Utilisar l'URL predefinì per resolver DNS via HTTPS">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Persunalisà">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "s">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Endatescha tes URL preferì per resolver DNS via HTTPS">
