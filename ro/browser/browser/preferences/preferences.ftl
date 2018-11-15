@@ -863,10 +863,28 @@ certs-view =
 certs-devices =
     .label = Dispozitive de securitate…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Află mai multe
+    .accesskey = l
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Deschide opțiunile
+           *[other] Deschide preferințele
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
+           *[other] O
+        }
+space-alert-under-5gb-ok-button =
+    .label = Ok, am înțeles
+    .accesskey = k
 
 ## The following strings are used in the Download section of settings
 
 downloads-folder-name = Descărcări
+choose-download-folder-title = Alege dosarul de descărcare:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
