@@ -842,3 +842,8 @@ certs-view =
 certs-devices =
     .label = Устройства по безопасността…
     .accesskey = у
+
+## The following strings are used in the Download section of settings
+
+downloads-folder-name = Изтегляния
+choose-download-folder-title = Избиране на папка за изтегляне:
