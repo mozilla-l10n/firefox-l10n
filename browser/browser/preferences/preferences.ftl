@@ -261,9 +261,6 @@ history-dontremember-description = { -brand-short-name } ќе ги корист�
 history-private-browsing-permanent =
     .label = Секогаш користи режим за приватно прелистување
     .accesskey = п
-history-remember-option =
-    .label = Запамти ја мојата сурферска историја и преземања
-    .accesskey = п
 history-remember-search-option =
     .label = Памети ги пребарувањата и формуларите
     .accesskey = ф
@@ -276,12 +273,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-always-option =
-    .label = Секогаш
-sitedata-accept-third-party-visited-option =
-    .label = Од посетени
-sitedata-accept-third-party-never-option =
-    .label = Никогаш
 sitedata-cookies-exceptions =
     .label = Исклучоци…
     .accesskey = И
@@ -328,3 +319,9 @@ security-block-downloads =
 ## Privacy Section - Certificates
 
 certs-header = Сертификати
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Работна површина
+downloads-folder-name = Преземања
+choose-download-folder-title = Изберете папка за преземања:
