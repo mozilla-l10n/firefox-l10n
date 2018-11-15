@@ -860,6 +860,24 @@ certs-view =
 certs-devices =
     .label = Dispositivos de segurança…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Saber mais
+    .accesskey = S
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Abrir opções
+           *[other] Abrir preferências
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] A
+           *[other] A
+        }
+space-alert-under-5gb-ok-button =
+    .label = OK, entendi
+    .accesskey = K
+space-alert-under-5gb-message = O { -brand-short-name } está a ficar sem espaço em disco. Os conteúdos de websites podem não ser mostrados devidamente. Visite “Saber mais” para otimizar a utilização do seu disco para melhor experiência de navegação.
 
 ## The following strings are used in the Download section of settings
 
