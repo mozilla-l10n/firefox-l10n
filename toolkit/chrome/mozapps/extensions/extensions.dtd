@@ -44,7 +44,9 @@
 <!ENTITY view.recentUpdates.label             "Actualizaciones recientes">
 <!ENTITY view.availableUpdates.label          "Actualizaciones disponibles">
 
+<!ENTITY helpButton.label                      "Soporte para complementos">
 <!ENTITY preferencesWin.label                  "Opciones de &brandShortName;">
+<!ENTITY preferencesUnix.label                 "Preferencias de &brandShortName;">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "Buscar actualizaciones">
