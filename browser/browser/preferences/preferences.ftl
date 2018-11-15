@@ -877,6 +877,11 @@ space-alert-over-5gb-pref-button =
             [windows] O
            *[other] O
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } ostaje bez dovoljno diskovnog prostora. Sadržaj web stranica se možda neće ispravno prikazati. Možete očistiti pohranjene podatke u Mogućnosti > Privatnost i sigurnost > Kolačići i podaci stranica.
+       *[other] { -brand-short-name } ostaje bez dovoljno diskovnog prostora. Sadržaj web stranica se možda neće ispravno prikazati. Možete očistiti pohranjene podatke u Mogućnosti > Privatnost i sigurnost > Kolačići i podaci stranica.
+    }
 space-alert-under-5gb-ok-button =
     .label = U redu, razumijem
     .accesskey = U
