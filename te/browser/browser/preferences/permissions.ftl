@@ -84,9 +84,6 @@ permissions-exceptions-addons-desc = పొడిగింతలను స్థ
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = అనుమతించిన వెబ్‌సైట్లు - ఆటోప్లే
-    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
