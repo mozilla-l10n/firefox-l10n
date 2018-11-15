@@ -844,3 +844,9 @@ certs-view =
 certs-devices =
     .label = Tryggingseiningar…
     .accesskey = T
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Skrivebord
+downloads-folder-name = Nedlastingar
+choose-download-folder-title = Vel nedlastingsmappe:
