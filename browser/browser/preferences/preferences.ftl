@@ -848,6 +848,12 @@ certs-view =
 certs-devices =
     .label = 安全性裝置…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = 桌面
+downloads-folder-name = 下載
+choose-download-folder-title = 選取下載目錄:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
