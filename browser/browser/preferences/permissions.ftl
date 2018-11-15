@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Falo
 permissions-capabilities-prompt =
     .label = Naamno Sahaa Kala
+permissions-capabilities-listitem-allow =
+    .value = Yamir
+permissions-capabilities-listitem-block =
+    .value = Falo
+permissions-capabilities-listitem-allow-first-party =
+    .value = Yamir heftinaaɓe tan
+permissions-capabilities-listitem-allow-session =
+    .value = Yamir e Naatol
 
 ## Invalid Hostname Dialog
 

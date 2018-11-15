@@ -8,6 +8,7 @@ failed-pw-change = Horiima waylude Finnde Baabaare.
 incorrect-pw = A naatnaani Finnde Baabaare moƴƴere wonaande ndee. Tiiɗno fuɗɗito.
 pw-change-ok = Finnde Baabaare waylaama e moƴƴol. { pw-empty-warning }
 pw-empty-warning = Finndeeji maa geese e iimeel mooftaaɗi, keɓe porme, e kele suturo cuuretaake.
+pw-erased-ok = A momtii Finnde Baabaare maa.  { pw-empty-warning }
 pw-not-wanted = Reentino! A suɓiima waasde huutoraade Finnde Baabaare.
 pw-change2empty-in-fips-mode = Ngon-ɗaa ɗoo ko e mbayka FIPS. Mbayka FIPS ena naamnii Finnde Baabaare nde ɓolɗaani.
 pw-change-success-title = Baylugol Finnde Moƴƴii
