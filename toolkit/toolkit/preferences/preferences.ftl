@@ -1,0 +1,13 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+password-not-set =
+    .value = (అమరి లేదు)
+failed-pw-change = ముఖ్య సంకేతపదం మార్చడం కుదరదు.
+incorrect-pw = మీరు ఖచ్చితమైన ప్రస్తుత సంకేతపదాన్ని ప్రవేశపెట్టలేదు. దయచేసి మరలా ప్రయత్నించండి.
+pw-change-ok = ముఖ్య సంకేతపదం సమర్ధవంతంగా మార్చబడింది. { pw-empty-warning }
+pw-empty-warning = మీరు నిల్వవుంచిన వెబ్ మరియు ఇమెయిల్ సంకేతపదాలు,ఫారము డాటా, మరియు వ్యక్తిగత కీలు ఇకరక్షించబడవు.
+pw-not-wanted = హెచ్చరిక! మీరు ముఖ్య సంకేతపదాన్ని వాడకూడదని నిర్ధారించుకున్నారు.
+pw-remove-button =
+    .label = తీసివేయి
