@@ -23,6 +23,8 @@ permissions-capabilities-listitem-allow =
     .value = আজ্ঞা দিয়ক
 permissions-capabilities-listitem-block =
     .value = ৰোধ কৰক
+permissions-capabilities-listitem-allow-first-party =
+    .value = কেৱল প্ৰথম দলক অনুমতি দিয়ক
 permissions-capabilities-listitem-allow-session =
     .value = অধিবেশনৰ বাবে আজ্ঞা দিয়ক
 
