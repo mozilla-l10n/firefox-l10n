@@ -785,6 +785,24 @@ certs-view =
 certs-devices =
     .label = Drūseibys īrīces…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Uzzynojit vairuok
+    .accesskey = U
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Attaiseit īstatiejumus
+           *[other] Attaiseit īstatiejumus
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] R
+           *[other] t
+        }
+space-alert-under-5gb-ok-button =
+    .label = OK, Got it
+    .accesskey = L
+space-alert-under-5gb-message = { -brand-short-name } is running out of disk space. Website contents may not display properly. Visit “Learn More” to optimize your disk usage for better browsing experience.
 
 ## The following strings are used in the Download section of settings
 
