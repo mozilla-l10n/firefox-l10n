@@ -844,6 +844,29 @@ certs-view =
 certs-devices =
     .label = Tryggingseiningar…
     .accesskey = T
+space-alert-learn-more-button =
+    .label = Les meir
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Opne innstillingar
+           *[other] Opne innstillingar
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] n
+           *[other] p
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } er i ferd med å gå tom for plass på disken. Det kan hende at innhaldet på nettstaden ikkje vert vist skikkeleg. Du kan tøme lagra data i Innstillingar > Personern og sikkerheit > Infokapslar og nettstedsdata.
+       *[other] { -brand-short-name } er i ferd med å gå tom for plass på disken. Det kan hende at innhaldet på nettstaden ikkje vert vist skikkeleg. Du kan tøme lagra data i Innstillingar > Personern og sikkerheit > Infokapslar og nettstaddata.
+    }
+space-alert-under-5gb-ok-button =
+    .label = OK, eg forstår det
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } er i ferd med å gå tom for diskplass. Det kan vere at nettinnhaldet på sida ikkje vert vist korrekt. Gå til «Les meir» for å optimere diskbruken din for ei betre nettlesaroppleving.
 
 ## The following strings are used in the Download section of settings
 
