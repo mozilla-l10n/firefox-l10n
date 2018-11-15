@@ -860,6 +860,24 @@ certs-view =
 certs-devices =
     .label = Adatvédelmi eszközök…
     .accesskey = e
+space-alert-learn-more-button =
+    .label = További tudnivalók
+    .accesskey = T
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Beállítások megnyitása
+           *[other] Beállítások megnyitása
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] m
+           *[other] m
+        }
+space-alert-under-5gb-ok-button =
+    .label = Rendben, értem
+    .accesskey = R
+space-alert-under-5gb-message = A { -brand-short-name } kezd kifogyni a lemezhelyből. A weboldalak tartalma nem feltétlenül jelenik meg helyesen. A lemezhasználat optimalizálásával a böngészés simábbá tehető, olvassa el a „További tudnivalókat”.
 
 ## The following strings are used in the Download section of settings
 
