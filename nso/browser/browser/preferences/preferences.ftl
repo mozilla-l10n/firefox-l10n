@@ -249,3 +249,5 @@ certs-header = Ditifikeiti
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Tesekethopo
+downloads-folder-name = Ditaollo
+choose-download-folder-title = Kgetha foltara ya go laolla:
