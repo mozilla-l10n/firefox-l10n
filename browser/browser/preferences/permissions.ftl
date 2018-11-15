@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = اجازه دادن
 permissions-capabilities-listitem-block =
     .value = باز داشتن
+permissions-capabilities-listitem-allow-first-party =
+    .value = فقط شخص اول را اجازه بده
 permissions-capabilities-listitem-allow-session =
     .value = اجازه دادن برای نشست
 
