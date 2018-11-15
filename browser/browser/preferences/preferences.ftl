@@ -735,6 +735,11 @@ space-alert-over-5gb-pref-button =
             [windows] O
            *[other] O
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } er verða búið með diskaplássið. Hugsanlega birtist innihald vefsvæði ekki rétt. Þú getur hreinsað vistuð gögn í Valkostir > Friðhelgi og Öruggi > Smákökur og gögn vefsvæðis.
+       *[other] { -brand-short-name } er verða búið með diskaplássið. Hugsanlega birtist innihald vefsvæðis ekki rétt. Þú getur hreinsað vistuð gögn í Valkostir > Friðhelgi og Öruggi > Smákökur og gögn vefsvæðis.
+    }
 space-alert-under-5gb-ok-button =
     .label = Í lagi, ég skil
     .accesskey = l
