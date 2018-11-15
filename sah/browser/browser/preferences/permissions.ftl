@@ -23,6 +23,8 @@ permissions-capabilities-listitem-allow =
     .value = Көҥүллүүргэ
 permissions-capabilities-listitem-block =
     .value = Бүөлээ
+permissions-capabilities-listitem-allow-first-party =
+    .value = Туора ситим-сирдэртэн куукаларын ылыма
 permissions-capabilities-listitem-allow-session =
     .value = Сиэссийэҕэ көҥүллүүргэ
 

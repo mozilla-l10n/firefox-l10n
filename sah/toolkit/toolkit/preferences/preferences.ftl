@@ -4,3 +4,5 @@
 
 pw-change2empty-in-fips-mode = Эн FIPS эрэсиимигэр холбонон олороҕун. Маннык эрэсиимҥэ маастар киирии тылы туоруорар ирдэнэр.
 pw-change-failed-title = Киирии тыл уларыйбата
+pw-remove-button =
+    .label = Сот
