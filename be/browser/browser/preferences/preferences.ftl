@@ -863,6 +863,24 @@ certs-view =
 certs-devices =
     .label = Прылады бяспекі…
     .accesskey = б
+space-alert-learn-more-button =
+    .label = Падрабязней
+    .accesskey = П
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Адкрыць налады
+           *[other] Адкрыць налады
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] А
+           *[other] А
+        }
+space-alert-under-5gb-ok-button =
+    .label = OK, зразумела
+    .accesskey = K
+space-alert-under-5gb-message = У { -brand-short-name } сканчаецца месца на дыску. Змесціва вэб-сайтаў можа адлюстроўвацца няправільна. Клікніце “Падрабязней”, каб аптымізаваць выкарыстанне вашага дыска для паляпшэння вэб-сёрфінгу.
 
 ## The following strings are used in the Download section of settings
 
