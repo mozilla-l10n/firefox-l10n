@@ -326,7 +326,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Proxy de red
 network-settings-title = Configuración de red
 network-proxy-connection-description = Configurar cómo se conecta { -brand-short-name } a Internet.
 network-proxy-connection-learn-more = Saber más
@@ -591,26 +590,12 @@ sitedata-total-size-calculating = Calculando el tamaño de los datos del sitio y
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Sus cookies, datos del sitio y caché almacenados ocupan actualmente un { $value } { $unit } del espacio en disco.
 sitedata-learn-more = Saber más
-sitedata-accept-cookies-option =
-    .label = Aceptar cookies y datos de los sitios web (recomendado)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = Bloquear cookies y datos del sitio (puede que algunos sitios no funcionen)
-    .accesskey = B
 sitedata-keep-until = Mantener hasta que
     .accesskey = q
 sitedata-keep-until-expire =
     .label = Caduquen
 sitedata-keep-until-closed =
     .label = cierre { -brand-short-name }
-sitedata-accept-third-party-desc = Aceptar cookies de terceros y datos del sitio
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = Siempre
-sitedata-accept-third-party-visited-option =
-    .label = De los visitados
-sitedata-accept-third-party-never-option =
-    .label = Nunca
 sitedata-allow-cookies-option =
     .label = Aceptar cookies y datos del sitio
     .accesskey = A
@@ -731,10 +716,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nunca
     .accesskey = u
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Usar protección contra rastreo en la navegación privada para bloquear los rastreadores conocidos
-    .accesskey = d
 tracking-exceptions =
     .label = Excepciones…
     .accesskey = x
@@ -857,3 +838,6 @@ certs-view =
 certs-devices =
     .label = Dispositivos de seguridad…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
