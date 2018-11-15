@@ -754,6 +754,10 @@ space-alert-over-5gb-pref-button =
             [windows] O
            *[other] O
         }
+space-alert-under-5gb-ok-button =
+    .label = OK, được rồi
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } đang hết dung lượng đĩa. Nội dung trang web có thể không hiển thị chính xác. Truy cập “Tìm hiểu thêm” để tối ưu hóa việc sử dụng đĩa của bạn để có trải nghiệm duyệt web tốt hơn.
 
 ## The following strings are used in the Download section of settings
 
