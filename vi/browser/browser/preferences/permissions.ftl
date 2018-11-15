@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Chặn
 permissions-capabilities-prompt =
     .label = Luôn luôn hỏi
+permissions-capabilities-listitem-allow =
+    .value = Cho phép
+permissions-capabilities-listitem-block =
+    .value = Chặn
+permissions-capabilities-listitem-allow-session =
+    .value = Cho phép theo Phiên
 
 ## Invalid Hostname Dialog
 

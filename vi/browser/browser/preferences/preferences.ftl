@@ -297,7 +297,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Mạng lưới proxy
 network-settings-title = Cài đặt mạng
 network-proxy-connection-description = Cấu hình phương thức { -brand-short-name } kết nối internet.
 network-proxy-connection-learn-more = Tìm hiểu thêm
@@ -554,12 +553,6 @@ sitedata-keep-until = Giữ cho đến khi
     .accesskey = u
 sitedata-keep-until-closed =
     .label = { -brand-short-name } đã đóng
-sitedata-accept-third-party-always-option =
-    .label = Luôn luôn
-sitedata-accept-third-party-visited-option =
-    .label = Từ các trang đã truy cập
-sitedata-accept-third-party-never-option =
-    .label = Không bao giờ
 sitedata-clear =
     .label = Xóa dữ liệu...
     .accesskey = l
@@ -635,10 +628,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Không bao giờ
     .accesskey = K
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Sử dụng trình chống theo dõi ở chế độ duyệt web riêng tư để chặn các trình theo dõi đã được nhận biết
-    .accesskey = v
 tracking-exceptions =
     .label = Ngoại lệ…
     .accesskey = g
@@ -751,3 +740,7 @@ certs-view =
 certs-devices =
     .label = Thiết bị bảo mật…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+choose-download-folder-title = Chọn Thư mục Tải xuống:
