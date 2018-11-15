@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Ceadaich
 permissions-capabilities-listitem-block =
     .value = Cuir bacadh air
+permissions-capabilities-listitem-allow-first-party =
+    .value = Na ceadaich ach feadhainn o chiad phàrtaidh
 permissions-capabilities-listitem-allow-session =
     .value = Ceadaich fad an t-seisein
 
