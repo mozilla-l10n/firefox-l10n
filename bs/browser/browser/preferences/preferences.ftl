@@ -17,14 +17,6 @@ pref-page =
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
-# Notice: The value of the `.style` attribute is a CSS string, and the `width`
-# is the name of the CSS property. It is intended only to adjust the element's width.
-# Do not translate.
-search-input =
-    .style = width: 15.4em
-# This is used to determine the width of the search field in about:preferences,
-# in order to make the entire placeholder string visible
-#
 # Please keep the placeholder string short to avoid truncation.
 #
 # Notice: The value of the `.style` attribute is a CSS string, and the `width`
@@ -133,20 +125,11 @@ is-not-default = { -brand-short-name } trenutno nije vaš glavni browser
 set-as-my-default-browser =
     .label = Učini glavnim…
     .accesskey = G
-startup-page = Kada se { -brand-short-name } pokrene
-    .accesskey = s
-startup-user-homepage =
-    .label = Prikazati vašu početnu stranicu
-startup-blank-page =
-    .label = Prikaži praznu stranicu
-startup-prev-session =
-    .label = Prikazati vaše prozore i tabove od zadnjeg puta
 startup-restore-previous-session =
     .label = Vrati prethodnu sesiju
     .accesskey = s
 disable-extension =
     .label = Onemogući ekstenziju
-home-page-header = Početna stranica
 tabs-group-header = Tabovi
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab prolazi kroz tabove u redosljedu nedavnog korištenja
@@ -269,7 +252,6 @@ play-drm-content =
 play-drm-content-learn-more = Saznajte više
 update-application-title = { -brand-short-name } nadogradnje
 update-application-description = Nadograđuj { -brand-short-name } radi najboljih performansi, stabilnosti i sigurnosti.
-update-application-info = Verzija { $version } <a>Šta je novo</a>
 update-application-version = Verzija { $version } <a data-l10n-name="learn-more">Šta je novo</a>
 update-history =
     .label = Prikaži historijat nadogradnji…
@@ -305,7 +287,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Limit procesa sadržaja
     .accesskey = L
 performance-limit-content-process-enabled-desc = Dodatni procesi sadržaja mogu unaprijediti performanse kada koristite više tabova, ali će koristiti više memorije.
-performance-limit-content-process-disabled-desc = Promjena broja procesa sadržaja je moguća samo sa multiprocesnim { -brand-short-name }om. <a>Saznajte kako provjeriti da li su multiprocesi omogućeni</a>
 performance-limit-content-process-blocked-desc = Promjena broja procesa sadržaja je moguća samo sa multiprocesnim { -brand-short-name }om. <a data-l10n-name="learn-more">Saznajte kako provjeriti da li su multiprocesi omogućeni</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -333,7 +314,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Mrežni proxy
 network-proxy-connection-description = Konfigurišite kako se { -brand-short-name } konektuje na internet.
 network-proxy-connection-learn-more = Saznajte više
 network-proxy-connection-settings =
@@ -365,9 +345,6 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
-restore-default =
-    .label = Vrati na izvorne vrijednosti
-    .accesskey = r
 
 ## Search Section
 
@@ -564,9 +541,6 @@ history-dontremember-description = { -brand-short-name } će koristiti iste post
 history-private-browsing-permanent =
     .label = Uvijek koristi režim privatnog surfanja
     .accesskey = p
-history-remember-option =
-    .label = Pamti moju historiju surfanja i preuzimanja
-    .accesskey = b
 history-remember-search-option =
     .label = Pamti historiju formi i pretrage
     .accesskey = f
@@ -588,22 +562,8 @@ sitedata-total-size-calculating = Računam veličinu podataka web stranica i ke�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Vaši pohranjeni kolačići, podaci o stranicama i keš trenutno zauzimaju { $value } { $unit } prostora na disku.
 sitedata-learn-more = Saznajte više
-sitedata-accept-cookies-option =
-    .label = Prihvataj kolačiće i podatke stranice od web strancia (preporučeno)
-    .accesskey = a
-sitedata-block-cookies-option =
-    .label = Blokiraj kolačiće i podatke stranice (može narušiti rad web stranica)
-    .accesskey = B
 sitedata-keep-until = Čuvaj do
     .accesskey = u
-sitedata-accept-third-party-desc = Prihvataj kolačiće i podatke stranice trećih lica
-    .accesskey = h
-sitedata-accept-third-party-always-option =
-    .label = Uvijek
-sitedata-accept-third-party-visited-option =
-    .label = Od posjećenih
-sitedata-accept-third-party-never-option =
-    .label = Nikad
 sitedata-clear =
     .label = Obriši podatke…
     .accesskey = i
@@ -629,6 +589,9 @@ addressbar-locbar-openpage-option =
     .accesskey = O
 addressbar-suggestions-settings = Promijenite postavke prijedloga pretraživača
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 tracking-header = Zaštita od praćenja
@@ -643,10 +606,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Nikad
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Koristi Zaštitu od praćenja u Privatnom režimu radi blokiranja poznatih pratilaca
-    .accesskey = v
 tracking-exceptions =
     .label = Izuzeci…
     .accesskey = I
@@ -755,3 +714,9 @@ certs-view =
 certs-devices =
     .label = Sigurnosni uređaji…
     .accesskey = U
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Desktop
+downloads-folder-name = Preuzimanja
+choose-download-folder-title = Izaberite direktorij za preuzimanja:

@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Blokiraj
 permissions-capabilities-prompt =
     .label = Uvijek pitaj
+permissions-capabilities-listitem-allow =
+    .value = Dozvoli
+permissions-capabilities-listitem-block =
+    .value = Blokiraj
+permissions-capabilities-listitem-allow-first-party =
+    .value = Dozvoli samo prvo lice
+permissions-capabilities-listitem-allow-session =
+    .value = Dozvoli za sesiju
 
 ## Invalid Hostname Dialog
 
@@ -79,6 +87,9 @@ permissions-exceptions-addons-window =
     .title = Dozvoljene web stranice - Instalacija add-ona
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Možete odrediti kojim web stranicama je dozvoljeno da instaliraju add-one. Unesite tačnu adresu stranice i zatim kliknite na Dozvoli.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
