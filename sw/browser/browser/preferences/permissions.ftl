@@ -19,6 +19,12 @@ permissions-capabilities-allow =
     .label = Ruhusu
 permissions-capabilities-block =
     .label = Zuia
+permissions-capabilities-listitem-allow =
+    .value = Ruhusu
+permissions-capabilities-listitem-block =
+    .value = Zuia
+permissions-capabilities-listitem-allow-session =
+    .value = Ruhusu Kipindi
 
 ## Invalid Hostname Dialog
 
@@ -41,6 +47,9 @@ permissions-exceptions-popup-desc = Unaweza kubainisha ni wavuti gani zinaruhusi
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Unaweza kubainisha ni wavuti gani zinaruhusiwa kusakinisha programu jalizi. Andika anwani sahihi ya tovuti unayotaka kuruhusu na kisha bofya Ruhusu.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 

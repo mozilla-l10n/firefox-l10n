@@ -28,6 +28,17 @@ feature-enable-requires-restart = { -brand-short-name } lazima ianze upya ili iw
 feature-disable-requires-restart = { -brand-short-name } lazima ianze upya ili ilemaze kipengele hiki.
 should-restart-title = Washa upya { -brand-short-name }
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -35,8 +46,6 @@ should-restart-title = Washa upya { -brand-short-name }
 
 startup-header = Uwashaji
 is-default = { -brand-short-name } kwa sasa ni kivinjari chako msingi
-startup-blank-page =
-    .label = Onyesha ukurasa wazi
 tabs-group-header = Vichupo
 show-tabs-in-taskbar =
     .label = Onyesha vihakiki vya kichupo katika mwambaa wa kazi wa Windows
@@ -129,9 +138,6 @@ use-current-pages =
 choose-bookmark =
     .label = Tumia Alamisho…
     .accesskey = A
-restore-default =
-    .label = Rudisha kwa Chaguo Msingi
-    .accesskey = R
 
 ## Search Section
 
@@ -189,9 +195,6 @@ history-dontremember-description = { -brand-short-name } itatumia mipangilio saw
 history-private-browsing-permanent =
     .label = Kila mara tumia hali ya kuvinjari ya faragha
     .accesskey = h
-history-remember-option =
-    .label = Kumbuka kuvinjari kwangu na historia ya upakuaji
-    .accesskey = k
 history-remember-search-option =
     .label = Kumbuka historia ya utafutaji na fomu
     .accesskey = f
@@ -204,15 +207,14 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = Kutoka kulikotembelewa
-sitedata-accept-third-party-never-option =
-    .label = Kamwe
 sitedata-cookies-exceptions =
     .label = Mambo ya pekee…
     .accesskey = M
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -242,3 +244,9 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Vyeti
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Eneo kazi
+downloads-folder-name = Hupakua
+choose-download-folder-title = Chagua Kabrasha ya Kupakua:
