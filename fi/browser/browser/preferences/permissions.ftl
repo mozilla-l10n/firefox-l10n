@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Estä
 permissions-capabilities-prompt =
     .label = Kysy aina
+permissions-capabilities-listitem-allow =
+    .value = Salli
+permissions-capabilities-listitem-block =
+    .value = Estä
+permissions-capabilities-listitem-allow-session =
+    .value = Salli istunnon ajaksi
 
 ## Invalid Hostname Dialog
 
