@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Дозволити
 permissions-capabilities-listitem-block =
     .value = Блокувати
+permissions-capabilities-listitem-allow-first-party =
+    .value = Дозволити лише з перших рук
 permissions-capabilities-listitem-allow-session =
     .value = Дозволити на сеанс
 
