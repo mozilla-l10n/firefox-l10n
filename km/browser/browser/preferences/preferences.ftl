@@ -529,4 +529,5 @@ certs-enable-ocsp =
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ផ្ទៃតុ
+downloads-folder-name = ទាញ​យក
 choose-download-folder-title = ជ្រើស​ថត​ទាញ​យក ៖
