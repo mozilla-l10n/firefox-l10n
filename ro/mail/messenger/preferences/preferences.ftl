@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = I
 confirm-messenger-language-change-description = Repornește { -brand-short-name } pentru a efectua aceste modificări
 confirm-messenger-language-change-button = Aplică și repornește
+update-pref-write-failure-title = Eșec la scriere
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Imposibil de salvat preferința. Nu s-a putut scrie în fișierul: { $path }
