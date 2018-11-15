@@ -44,6 +44,8 @@ permissions-capabilities-prompt =
     .label = اسأل دائمًا
 permissions-capabilities-listitem-allow =
     .value = اسمح
+permissions-capabilities-listitem-allow-first-party =
+    .value = اسمح للموقع الأصلي فقط
 permissions-capabilities-listitem-allow-session =
     .value = اسمح لهذه الجلسة
 
