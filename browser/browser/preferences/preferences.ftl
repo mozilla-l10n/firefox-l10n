@@ -866,6 +866,24 @@ certs-view =
 certs-devices =
     .label = Uidheaman tèarainteachd...
     .accesskey = n
+space-alert-learn-more-button =
+    .label = Barrachd fiosrachaidh
+    .accesskey = B
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Fosgail na roghainnean
+           *[other] Fosgail na roghainnean
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] o
+           *[other] o
+        }
+space-alert-under-5gb-ok-button =
+    .label = Ceart, tha mi agaibh
+    .accesskey = b
+space-alert-under-5gb-message = Tha an t-àite a’ fàs gann air { -brand-short-name }. Dh’fhaoidte nach dèid an t-susbaint aig làraichean-lìn a shealltainn mar bu chòir. Tadhail air “Barrachd fiosrachaidh” airson feabhas a thoirt air an dòigh air an dèid an diosg agad a chleachdadh airson brabhsadh nas fhearr.
 
 ## The following strings are used in the Download section of settings
 
