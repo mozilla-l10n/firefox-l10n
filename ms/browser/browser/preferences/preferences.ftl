@@ -848,10 +848,34 @@ certs-view =
 certs-devices =
     .label = Peranti Keselamatan…
     .accesskey = P
+space-alert-learn-more-button =
+    .label = Ketahui Selanjutnya
+    .accesskey = K
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Buka Pilihan
+           *[other] Buka Keutamaan
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] B
+           *[other] B
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } sedang kehabisan ruang cakera. Kandungan laman web mungkin tidak dipaparkan dengan betul. Anda boleh mengosongkan data laman yang disimpan dalam Pilihan > Privasi & Keselamatan > Kuki dan Data Laman.
+       *[other] { -brand-short-name } sedang kehabisan ruang cakera. Kandungan laman web mungkin tidak dipaparkan dengan betul. Anda boleh mengosongkan data laman yang disimpan dalam Keutamaan > Privasi & Keselamatan > Kuki dan Data Laman.
+    }
+space-alert-under-5gb-ok-button =
+    .label = OK, Faham
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } sedang kehabisan ruang cakera. Kandungan laman web mungkin tidak dipaparkan dengan betul. Lawati "Selanjutnya" untuk mengoptimumkan penggunaan cakera anda untuk pengalaman melayar yang lebih baik.
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
+downloads-folder-name = Muat turun
 choose-download-folder-title = Pilih Folder Muat turun:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
