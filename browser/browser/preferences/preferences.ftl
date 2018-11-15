@@ -859,6 +859,12 @@ certs-view =
 certs-devices =
     .label = Varnostne naprave …
     .accesskey = V
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Namizje
+downloads-folder-name = Prenosi
+choose-download-folder-title = Izbira mape za prenose
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
