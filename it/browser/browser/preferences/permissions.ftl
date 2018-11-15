@@ -42,6 +42,8 @@ permissions-capabilities-block =
     .label = Blocca
 permissions-capabilities-prompt =
     .label = Chiedi sempre
+permissions-capabilities-listitem-block =
+    .value = Blocca
 
 ## Invalid Hostname Dialog
 
