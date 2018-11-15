@@ -32,6 +32,8 @@ permissions-capabilities-listitem-allow =
     .value = Ceadaigh
 permissions-capabilities-listitem-block =
     .value = Coisc
+permissions-capabilities-listitem-allow-first-party =
+    .value = Ón chéad pháirtí amháin
 permissions-capabilities-listitem-allow-session =
     .value = Ceadaigh don Seisiún
 
