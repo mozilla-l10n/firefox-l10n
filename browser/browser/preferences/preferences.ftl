@@ -863,6 +863,10 @@ certs-view =
 certs-devices =
     .label = Dispozitive de securitate…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+downloads-folder-name = Descărcări
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
