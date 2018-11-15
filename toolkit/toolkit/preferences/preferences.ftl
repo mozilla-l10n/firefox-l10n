@@ -8,6 +8,7 @@ failed-pw-change = Unable to change Master Password.
 incorrect-pw = You did not enter the correct current Master Password. Please try again.
 pw-change-ok = Master Password successfully changed. { pw-empty-warning }
 pw-empty-warning = Your stored web and email passwords, form data, and private keys will not be protected.
+pw-erased-ok = You have deleted your Master Password.  { pw-empty-warning }
 pw-not-wanted = Warning! You have decided not to use a Master Password.
 pw-change2empty-in-fips-mode = You are currently in FIPS mode. FIPS requires a non-empty Master Password.
 pw-change-success-title = Password Change Succeeded
