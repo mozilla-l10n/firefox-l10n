@@ -703,6 +703,20 @@ certs-devices =
 space-alert-learn-more-button =
     .label = مزید سیکھیں
     .accesskey = م
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] اختیارات کھولیں
+           *[other] ترجیحات کھولیں
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-under-5gb-ok-button =
+    .label = ٹھیک ہے مجھے سمجھ آگئی ہے
+    .accesskey = K
 
 ## The following strings are used in the Download section of settings
 
