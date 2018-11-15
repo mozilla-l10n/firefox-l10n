@@ -860,6 +860,9 @@ certs-view =
 certs-devices =
     .label = Säkerhetsenheter…
     .accesskey = e
+space-alert-learn-more-button =
+    .label = Läs mer
+    .accesskey = L
 space-alert-over-5gb-pref-button =
     .label =
         { PLATFORM() ->
