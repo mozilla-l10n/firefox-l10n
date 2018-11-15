@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Блокировать
 permissions-capabilities-prompt =
     .label = Всегда спрашивать
+permissions-capabilities-listitem-allow =
+    .value = Разрешить
+permissions-capabilities-listitem-block =
+    .value = Блокировать
+permissions-capabilities-listitem-allow-first-party =
+    .value = Не принимать куки со сторонних сайтов
+permissions-capabilities-listitem-allow-session =
+    .value = Разрешить на сессию
 
 ## Invalid Hostname Dialog
 

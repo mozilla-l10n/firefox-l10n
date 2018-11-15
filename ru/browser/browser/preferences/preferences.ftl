@@ -863,6 +863,30 @@ certs-view =
 certs-devices =
     .label = Устройства защиты…
     .accesskey = т
+space-alert-learn-more-button =
+    .label = Подробнее
+    .accesskey = о
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Открыть настройки
+           *[other] Открыть настройки
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ы
+           *[other] ы
+        }
+space-alert-under-5gb-ok-button =
+    .label = OK, понятно
+    .accesskey = я
+space-alert-under-5gb-message = У { -brand-short-name } заканчивается место на диске. Содержимое веб-сайтов может отображаться неправильно. Щёлкните «Подробнее», чтобы оптимизировать использование вашего диска для улучшения веб-сёрфинга.
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Рабочий стол
+downloads-folder-name = Загрузки
+choose-download-folder-title = Выберите папку для загрузок:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
