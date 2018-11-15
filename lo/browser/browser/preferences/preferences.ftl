@@ -676,9 +676,15 @@ space-alert-over-5gb-pref-button =
             [windows] ປ
            *[other] ປ
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] ພື້ນທີ່ຂອງດີດ { -brand-short-name } ກຳລັງຈະເຕັມ. ເນື້ອຫາເວັບໄຊອາດຈະສະແດງບໍ່ຖືກຕ້ອງ. ທ່ານສາມາດລ້າງຂໍ້ມູນທີ່ຖືກຈັດເກັບໃນ ຕົວເລືອກ > ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມປອດໄພ > ຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊ.
+       *[other] ພື້ນທີ່ຂອງດີດ { -brand-short-name } ກຳລັງຈະເຕັມ. ເນື້ອຫາເວັບໄຊອາດຈະສະແດງບໍ່ຖືກຕ້ອງ. ທ່ານສາມາດລ້າງຂໍ້ມູນທີ່ຖືກຈັດເກັບໃນ ຄ່າກຳນົດ > ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມປອດໄພ > ຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊ.
+    }
 space-alert-under-5gb-ok-button =
     .label = ຕົກລົງ, ເຂົ້າໃຈແລ້ວ
     .accesskey = ຕ
+space-alert-under-5gb-message = ພື້ນທີດີດຂອງ { -brand-short-name } ກຳລັງຈະເຕັມ. ເນື້ອຫາເວັບໄຊອາດສະແດງຜົນບໍ່ຖືກຕ້ອງ. ຢ້ຽມຢາມ “ຮຽນຮູ້ເພີ່ມເຕີມ” ເພື່ອເພີ່ມປະສິດທິພາບການໃຊ້ງານດີດຂອງທ່ານສຳລັບປະສົບການທ່ອງເວັບທີ່ດີຂຶ້ນ
 
 ## The following strings are used in the Download section of settings
 
