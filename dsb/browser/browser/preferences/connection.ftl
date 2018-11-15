@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL za rozpušćanje DNS pśez HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Standard wužywaś ({ $url })
+    .accesskey = S
+    .tooltiptext = Standardny URL za rozpušćowaje DNS pśez HTTPS wužywaś
+connection-dns-over-https-url-custom =
+    .label = Swójski
+    .accesskey = S
+    .tooltiptext = Zapodajće preferowany URL za rozpušćenje DNS přez HTTPS
