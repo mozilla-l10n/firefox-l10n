@@ -42,6 +42,10 @@ permissions-capabilities-block =
     .label = Blokkearje
 permissions-capabilities-prompt =
     .label = Altyd freegje
+permissions-capabilities-listitem-allow =
+    .value = Tastean
+permissions-capabilities-listitem-block =
+    .value = Blokkearje
 
 ## Invalid Hostname Dialog
 
