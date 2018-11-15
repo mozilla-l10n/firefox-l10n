@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = ნებართვა
 permissions-capabilities-listitem-block =
     .value = აკრძალვა
+permissions-capabilities-listitem-allow-first-party =
+    .value = მხოლოდ პირველი ნაწილის დაშვება
 permissions-capabilities-listitem-allow-session =
     .value = ნებართვა ამ სეანსზე
 
