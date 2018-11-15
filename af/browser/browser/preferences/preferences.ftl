@@ -40,6 +40,17 @@ should-restart-title = Herbegin { -brand-short-name }
 should-restart-ok = Herbegin { -brand-short-name } nou
 restart-later = Herbegin later
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Soekresultate
@@ -65,15 +76,6 @@ always-check-default =
     .accesskey = K
 is-default = { -brand-short-name } is tans die verstekblaaier
 is-not-default = { -brand-short-name } is nie die verstekblaaier nie
-startup-page = Wanneer { -brand-short-name } begin
-    .accesskey = b
-startup-user-homepage =
-    .label = Wys my tuisblad
-startup-blank-page =
-    .label = Wys 'n leë bladsy
-startup-prev-session =
-    .label = Wys die vensters en oortjies van laas keer
-home-page-header = Wys my tuisblad
 tabs-group-header = Oortjies
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab besoek oortjies in die volgorde wat hulle onlangs gebruik is
@@ -181,7 +183,6 @@ applications-action-column =
     .accesskey = A
 play-drm-content-learn-more = Meer inligting
 update-application-title = { -brand-short-name }-bywerkings
-update-application-info = Weergawe { $version } <a>Wat’s nuut?</a>
 update-application-version = Weergawe { $version } <a data-l10n-name="learn-more">Wat’s nuut?</a>
 update-application-use-service =
     .label = Gebruik 'n agtergronddiens om bywerkings te installeer
@@ -249,9 +250,6 @@ use-current-pages =
 choose-bookmark =
     .label = Gebruik boekmerk…
     .accesskey = b
-restore-default =
-    .label = Stel terug na verstek
-    .accesskey = S
 
 ## Search Section
 
@@ -377,9 +375,6 @@ history-dontremember-description = { -brand-short-name } gebruik dieselfde inste
 history-private-browsing-permanent =
     .label = Gebruik altyd privaatblaai-modus
     .accesskey = p
-history-remember-option =
-    .label = Onthou my blaai- en aflaaigeskiedenis
-    .accesskey = b
 history-remember-search-option =
     .label = Onthou soek- en vormgeskiedenis
     .accesskey = v
@@ -393,12 +388,6 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Meer inligting
-sitedata-accept-third-party-always-option =
-    .label = Altyd
-sitedata-accept-third-party-visited-option =
-    .label = Sedert besoek
-sitedata-accept-third-party-never-option =
-    .label = Nooit
 sitedata-cookies-exceptions =
     .label = Uitsonderings…
     .accesskey = U
@@ -412,6 +401,9 @@ addressbar-locbar-openpage-option =
     .label = Oop oortjies
     .accesskey = O
 addressbar-suggestions-settings = &Verander voorkeure vir voorstelle vanaf soekenjins
+
+## Privacy Section - Content Blocking
+
 
 ## Privacy Section - Tracking
 
@@ -476,3 +468,9 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = Bevestig huidige geldigheid van sertifikate deur OCSP-bedieners te vra
     .accesskey = B
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Werkskerm
+downloads-folder-name = Aflaaie
+choose-download-folder-title = Kies aflaaivouer:
