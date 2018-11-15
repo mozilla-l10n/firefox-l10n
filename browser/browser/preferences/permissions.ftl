@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Tillat
 permissions-capabilities-listitem-block =
     .value = Blokker
+permissions-capabilities-listitem-allow-first-party =
+    .value = Tillat bare fra egen kilde
 permissions-capabilities-listitem-allow-session =
     .value = Tillat for programøkten
 
