@@ -25,6 +25,8 @@ permissions-capabilities-allow =
     .label = Laat toe
 permissions-capabilities-block =
     .label = Blokkeer
+permissions-capabilities-listitem-block =
+    .value = Blokkeer
 
 ## Invalid Hostname Dialog
 
@@ -53,6 +55,9 @@ permissions-exceptions-saved-logins-window =
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = U kan spesifiseer watter webwerwe toegelaat word om byvoegings te installeer. Tik die presiese webadres van die werf wat u wil toelaat en klik dan Laat toe.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
