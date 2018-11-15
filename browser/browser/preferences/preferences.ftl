@@ -845,3 +845,5 @@ certs-devices =
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Радна површина
+downloads-folder-name = Преузимања
+choose-download-folder-title = Изаберите фасциклу за преузимања:

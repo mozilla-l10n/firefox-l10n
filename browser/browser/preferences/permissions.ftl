@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Дозволи
 permissions-capabilities-listitem-block =
     .value = Блокирај
+permissions-capabilities-listitem-allow-first-party =
+    .value = Дозволи само првим лицима
 permissions-capabilities-listitem-allow-session =
     .value = Дозволи за ову сесију
 
