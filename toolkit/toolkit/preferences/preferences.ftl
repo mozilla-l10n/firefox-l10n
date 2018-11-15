@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-not-set =
+    .value = (sego ya beakanywa)
 failed-pw-change = Palelwa ke go fetola Lentšuphetišo la Motheo.
 incorrect-pw = Ga se wa lokela Lentšuphetišo la Motheo la maleba la bjale. Ka kgopelo leka gape.
 pw-change-ok = Lentšuphetišo la Motheo le fetotšwe ka katlego. { pw-empty-warning }
