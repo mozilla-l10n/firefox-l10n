@@ -847,3 +847,5 @@ certs-devices =
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
+downloads-folder-name = Descaregamenti
+choose-download-folder-title = Çerni a cartella de descaregamento:
