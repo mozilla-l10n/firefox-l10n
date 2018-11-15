@@ -8,6 +8,7 @@ failed-pw-change = No fue posible cambiar la contraseña maestra.
 incorrect-pw = No introdujo la actual contraseña maestra correctamente. Vuelva a intentarlo.
 pw-change-ok = Contraseña maestra cambiada satisfactoriamente. { pw-empty-warning }
 pw-empty-warning = Sus claves privadas, datos de formularios y contraseñas de correo electrónico que tiene guardados no serán protegidos.
+pw-erased-ok = Ha eliminado su contraseña maestra.  { pw-empty-warning }
 pw-not-wanted = ¡Atención! Ha decidido no utilizar una contraseña maestra.
 pw-change2empty-in-fips-mode = En este momento está en modo FIPS. FIPS requiere una contraseña maestra no vacía.
 pw-change-success-title = Cambio de contraseña correcto
