@@ -326,7 +326,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = מתווך רשת
 network-settings-title = הגדרות רשת
 network-proxy-connection-description = הגדרת אופן החיבור של { -brand-short-name } לאינטרנט.
 network-proxy-connection-learn-more = מידע נוסף
@@ -591,26 +590,12 @@ sitedata-total-size-calculating = חישוב גודל נתוני אתרים ומ
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = העוגיות, נתוני האתרים והמטמון השמורים שלך משתמשים כרגע ב־{ $value } { $unit } משטח הדיסק.
 sitedata-learn-more = מידע נוסף
-sitedata-accept-cookies-option =
-    .label = קבלת עוגיות ונתוני אתרים מאתרי אינטרנט (מומלץ)
-    .accesskey = ק
-sitedata-block-cookies-option =
-    .label = חסימת עוגיות ונתוני אתרים (עשוי לגרום לשיבוש באתרי אינטרנט)
-    .accesskey = ח
 sitedata-keep-until = שמירה עד ש:
     .accesskey = מ
 sitedata-keep-until-expire =
     .label = פג תוקפם
 sitedata-keep-until-closed =
     .label = ‏{ -brand-short-name } ייסגר
-sitedata-accept-third-party-desc = קבלת עוגיות ונתוני אתרים מצד שלישי
-    .accesskey = ש
-sitedata-accept-third-party-always-option =
-    .label = תמיד
-sitedata-accept-third-party-visited-option =
-    .label = מאתרים בהם ביקרנו בעבר
-sitedata-accept-third-party-never-option =
-    .label = לעולם לא
 sitedata-allow-cookies-option =
     .label = קבלת עוגיות ונתוני אתרים
     .accesskey = ק
@@ -731,10 +716,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = לעולם לא
     .accesskey = ל
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = שימוש בהגנת מעקב בגלישה פרטית לחסימת רכיבי מעקב ידועים
-    .accesskey = ט
 tracking-exceptions =
     .label = חריגות…
     .accesskey = ח
@@ -857,3 +838,6 @@ certs-view =
 certs-devices =
     .label = התקני אבטחה…
     .accesskey = א
+
+## The following strings are used in the Download section of settings
+
