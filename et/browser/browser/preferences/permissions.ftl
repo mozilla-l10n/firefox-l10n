@@ -44,6 +44,10 @@ permissions-capabilities-prompt =
     .label = Alati küsitakse
 permissions-capabilities-listitem-allow =
     .value = Lubatud
+permissions-capabilities-listitem-block =
+    .value = Blokitud
+permissions-capabilities-listitem-allow-first-party =
+    .value = Lubatud sama domeeni piires
 permissions-capabilities-listitem-allow-session =
     .value = Lubatud seansi jooksul
 

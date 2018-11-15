@@ -4,6 +4,7 @@
 
 password-not-set =
     .value = (määramata)
+failed-pw-change = Ülemparooli pole võimalik muuta.
 incorrect-pw = Sa ei sisestanud praegu kehtivat õiget ülemparooli. Palun proovi uuesti.
 pw-change-ok = Ülemparooli muutmine õnnestus. { pw-empty-warning }
 pw-empty-warning = Sinu salvestatud veebilehtede ja e-posti paroole, vormide andmeid ja privaatvõtmeid ei kaitsta enam.

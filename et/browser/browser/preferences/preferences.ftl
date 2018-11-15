@@ -860,6 +860,29 @@ certs-view =
 certs-devices =
     .label = Turvaseadmed…
     .accesskey = T
+space-alert-learn-more-button =
+    .label = Rohkem teavet
+    .accesskey = R
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Ava sätted
+           *[other] Ava eelistused
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] v
+           *[other] v
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name }il saab salvestuspind otsa. Saidi sisu võidakse kuvada ebakorrektselt. Saidi salvestatud andmeid on võimalik kustutada, avades Sätted > Privaatsus ja turvalisus > Küpsised ja saidi andmed.
+       *[other] { -brand-short-name }il saab salvestuspind otsa. Saidi sisu võidakse kuvada ebakorrektselt. Saidi salvestatud andmeid on võimalik kustutada, avades Eelistused > Privaatsus ja turvalisus > Küpsised ja saidi andmed.
+    }
+space-alert-under-5gb-ok-button =
+    .label = Olgu, sain aru
+    .accesskey = O
+space-alert-under-5gb-message = { -brand-short-name }il saab salvestuspind otsa. Saidi sisu võidakse kuvada ebakorrektselt. Vaata “Rohkem teavet”, et optimeerida oma salvestuspinna kasutust parema kogemuse saamiseks.
 
 ## The following strings are used in the Download section of settings
 
