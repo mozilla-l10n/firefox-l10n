@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Wšě wuzběhnyć
     .accesskey = z
     .tooltiptext = Wšě wustupowanja frazy wuzběhnyć
+findbar-highlight-all2 =
+    .label = Wšě wuzběhnyć
+    .accesskey =
+        { PLATFORM() ->
+            [macos] z
+           *[other] b
+        }
+    .tooltiptext = Wšě wustupowanja frazy wuzběhnyć
 findbar-case-sensitive =
     .label = Na wulkopisanje dźiwać
     .accesskey = u
