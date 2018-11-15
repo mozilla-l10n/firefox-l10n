@@ -46,6 +46,10 @@ permissions-capabilities-listitem-allow =
     .value = Payagan
 permissions-capabilities-listitem-block =
     .value = Harangin
+permissions-capabilities-listitem-allow-first-party =
+    .value = Pahintulutan ang unang partido lamang
+permissions-capabilities-listitem-allow-session =
+    .value = Payagan ang Session
 
 ## Invalid Hostname Dialog
 

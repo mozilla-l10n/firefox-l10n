@@ -682,8 +682,16 @@ certs-view =
 certs-devices =
     .label = Mga device na pang-seguridad…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Matuto ng Higit pa
+    .accesskey = L
+space-alert-under-5gb-ok-button =
+    .label = OK, Nakuha ko ito
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } ay tumatakbo sa labas ng puwang sa disk. Maaaring hindi maipakita nang wasto ang mga nilalaman ng website. Bisitahin ang "Matuto nang Higit Pa" upang i-optimize ang iyong paggamit ng disk para sa mas mahusay na karanasan sa pagba-browse.
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Desktop
 downloads-folder-name = Mga Download
 choose-download-folder-title = Pumili ng Download Folder:
