@@ -874,6 +874,11 @@ space-alert-over-5gb-pref-button =
             [windows] O
            *[other] A
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] La capacitad da memorisar da { -brand-short-name } è prest exausta. Il cuntegn da websites na vegn eventualmain betg visualisà endretg. Ti pos stizzar datas memorisadas en Preferenzas > Protecziun da datas & segirezza > Cookies e datas da websites.
+       *[other] La capacitad da memorisar da { -brand-short-name } è prest exausta. Il cuntegn da websites na vegn eventualmain betg visualisà endretg. Ti pos stizzar datas memorisadas en Preferenzas > Protecziun da datas & segirezza > Cookies e datas da websites.
+    }
 space-alert-under-5gb-ok-button =
     .label = OK, chapì
     .accesskey = K
