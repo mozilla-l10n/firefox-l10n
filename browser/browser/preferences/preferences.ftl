@@ -862,6 +862,24 @@ certs-view =
 certs-devices =
     .label = أجهزة الأمن…
     .accesskey = ج
+space-alert-learn-more-button =
+    .label = اطّلع على المزيد
+    .accesskey = ط
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] افتح الخيارات
+           *[other] افتح التفضيلات
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] ف
+           *[other] ف
+        }
+space-alert-under-5gb-ok-button =
+    .label = حسنًا، فهمت
+    .accesskey = ح
+space-alert-under-5gb-message = مساحة القرص قاربت على النفاذ من { -brand-short-name }. قد لا يُعرض محتوى المواقع كما ينبغي. اذهب إلى ”اطّلع على المزيد“ لتحسين استخدام القرص لتصفح أحسن.
 
 ## The following strings are used in the Download section of settings
 
