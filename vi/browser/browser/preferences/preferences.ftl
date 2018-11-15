@@ -740,6 +740,20 @@ certs-view =
 certs-devices =
     .label = Thiết bị bảo mật…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Tìm hiểu thêm
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Mở tùy chọn
+           *[other] Mở tùy chỉnh
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
 
 ## The following strings are used in the Download section of settings
 
