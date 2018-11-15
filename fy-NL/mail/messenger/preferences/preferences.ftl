@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = A
 confirm-messenger-language-change-description = Start { -brand-short-name } opnij om de fernijing ta te passen
 confirm-messenger-language-change-button = Tapasse en opnij starte
+update-pref-write-failure-title = Skriuwflater
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Net ynb steat foarkar te bewarjen. Koe net skriuwe nei: { $path }
