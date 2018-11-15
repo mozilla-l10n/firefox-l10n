@@ -90,3 +90,4 @@
 <!ENTITY blockedByPolicy.title "Asebter iwḥel">
 
 <!ENTITY networkProtocolError.title "Tuccḍa deg uneggaf n uẓeṭṭa">
+<!ENTITY networkProtocolError.longDesc "<p>Asebtar i tebɣiḍ ad twaliḍ ur yezmir ara ad d-yettwasken acku tella tuccḍa deg uneggaf n uẓeṭṭa.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef wugur-agi.</li></ul>">
