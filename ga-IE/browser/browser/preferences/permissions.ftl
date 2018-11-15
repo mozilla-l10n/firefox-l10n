@@ -28,6 +28,12 @@ permissions-capabilities-allow =
     .label = Ceadaigh
 permissions-capabilities-block =
     .label = Coisc
+permissions-capabilities-listitem-allow =
+    .value = Ceadaigh
+permissions-capabilities-listitem-block =
+    .value = Coisc
+permissions-capabilities-listitem-allow-session =
+    .value = Ceadaigh don Seisiún
 
 ## Invalid Hostname Dialog
 
@@ -56,6 +62,9 @@ permissions-exceptions-saved-logins-window =
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Is féidir na suímh a bhfuil cead acu breiseáin a shuiteáil a shonrú. Clóscríobh seoladh cruinn an tsuímh a theastaíonn uait a cheadú agus ansin cliceáil Ceadaigh.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 

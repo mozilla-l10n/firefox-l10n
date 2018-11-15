@@ -41,6 +41,17 @@ should-restart-title = Atosaigh { -brand-short-name }
 should-restart-ok = Atosaigh { -brand-short-name } anois
 restart-later = Atosaigh Ar Ball
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Torthaí an Chuardaigh
@@ -69,15 +80,6 @@ is-not-default = Ní hé { -brand-short-name } do bhrabhsálaí réamhshocraithe
 set-as-my-default-browser =
     .label = Úsáid mar Réamhshocrú…
     .accesskey = d
-startup-page = Agus { -brand-short-name } á thosú
-    .accesskey = u
-startup-user-homepage =
-    .label = Taispeáin mo leathanach baile
-startup-blank-page =
-    .label = Taispeáin leathanach folamh
-startup-prev-session =
-    .label = Taispeáin mo chuid fuinneog agus cluaisíní ón seisiún roimhe seo
-home-page-header = Leathanach baile
 tabs-group-header = Cluaisíní
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab le dul trí na cluaisíní san ord ar bhain tú úsáid astu le déanaí
@@ -203,7 +205,6 @@ play-drm-content =
 play-drm-content-learn-more = Tuilleadh eolais
 update-application-title = Nuashonruithe { -brand-short-name }
 update-application-description = Coinnigh { -brand-short-name } cothrom le dáta chun an fheidhmíocht, an chobhsaíocht, agus an tslándáil is fearr a dheimhniú.
-update-application-info = Leagan { $version } <a>Is geal gach nua</a>
 update-application-version = Leagan { $version } <a data-l10n-name="learn-more">Is geal gach nua</a>
 update-history =
     .label = Taispeáin Stair na Nuashonruithe…
@@ -239,7 +240,6 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Teorainn próiseála ábhair
     .accesskey = T
 performance-limit-content-process-enabled-desc = Beidh an brabhsálaí níos freagraí agus tuilleadh próiseas ábhair ar siúl má úsáidtear cluaisíní iomadúla, cé go n-úsáideann sé níos mó cuimhne.
-performance-limit-content-process-disabled-desc = Ní féidir mionathrú a dhéanamh ar an líon próisis ábhair ach le hilphróiseáil { -brand-short-name } amháin. <a>Foghlaim conas seiceáil má tá an ilphróiseáil cumasaithe.</a>
 performance-limit-content-process-blocked-desc = Ní féidir mionathrú a dhéanamh ar an líon próisis ábhair ach le hilphróiseáil { -brand-short-name } amháin. <a data-l10n-name="learn-more">Foghlaim conas seiceáil má tá an ilphróiseáil cumasaithe.</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -267,7 +267,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = Seachfhreastalaí Líonra
 network-proxy-connection-settings =
     .label = Socruithe…
     .accesskey = e
@@ -291,9 +290,6 @@ use-current-pages =
 choose-bookmark =
     .label = Úsáid Leabharmharc…
     .accesskey = L
-restore-default =
-    .label = Cuir na réamhshocruithe ar ais
-    .accesskey = a
 
 ## Search Section
 
@@ -433,9 +429,6 @@ history-dontremember-description = Úsáidfidh { -brand-short-name } na socruith
 history-private-browsing-permanent =
     .label = Bain úsáid as Brabhsáil Phríobháideach i gcónaí
     .accesskey = P
-history-remember-option =
-    .label = Meabhraigh mo stair bhrabhsála agus íoslódála
-    .accesskey = b
 history-remember-search-option =
     .label = Meabhraigh an stair chuardaigh agus fhoirme
     .accesskey = f
@@ -449,12 +442,6 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Tuilleadh eolais
-sitedata-accept-third-party-always-option =
-    .label = I gCónaí
-sitedata-accept-third-party-visited-option =
-    .label = Ó shuímh fheicthe
-sitedata-accept-third-party-never-option =
-    .label = Riamh
 sitedata-cookies-exceptions =
     .label = Eisceachtaí…
     .accesskey = E
@@ -474,6 +461,9 @@ addressbar-locbar-openpage-option =
     .accesskey = o
 addressbar-suggestions-settings = Roghanna a bhaineann le moltaí cuardaigh
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 tracking-header = Cosaint ar Lorgaireacht
@@ -486,10 +476,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = Choíche
     .accesskey = C
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = Úsáid Cosaint ar Lorgaireacht i mBrabhsáil Phríobháideach chun cosc a chur ar lorgairí aitheanta
-    .accesskey = b
 tracking-exceptions =
     .label = Eisceachtaí…
     .accesskey = E
@@ -557,3 +543,7 @@ certs-view =
 certs-devices =
     .label = Gléasanna Slándála…
     .accesskey = d
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Deasc
