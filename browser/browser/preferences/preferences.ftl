@@ -826,11 +826,32 @@ certs-view =
 certs-devices =
     .label = セキュリティデバイス...
     .accesskey = D
+space-alert-learn-more-button =
+    .label = 詳細情報
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] オプションを開く
+           *[other] 設定を開く
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
 space-alert-over-5gb-message =
     { PLATFORM() ->
         [windows] { -brand-short-name } を実行するためのディスク領域が足りません。ウェブサイトが正しく表示されない可能性があります。“オプション” > “プライバシーとセキュリティ” > “Cookie とサイトデータ” から、保存されたデータを削除してください。
        *[other] { -brand-short-name } を実行するためのディスク領域が足りません。ウェブサイトが正しく表示されない可能性があります。“設定” > “プライバシーとセキュリティ” > “Cookie とサイトデータ” から、保存されたデータを削除してください。
     }
+space-alert-under-5gb-ok-button =
+    .label = OK
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } を実行するためのディスク領域が足りません。ウェブサイトが正しく表示されない可能性があります。快適なブラウジングのために、“詳細情報” のリンク先を読み、ディスク使用量を最適化してください。
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = デスクトップ
+downloads-folder-name = ダウンロード
+choose-download-folder-title = ダウンロードフォルダーを選択:
