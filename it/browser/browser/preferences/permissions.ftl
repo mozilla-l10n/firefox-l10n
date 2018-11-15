@@ -44,6 +44,8 @@ permissions-capabilities-prompt =
     .label = Chiedi sempre
 permissions-capabilities-listitem-block =
     .value = Blocca
+permissions-capabilities-listitem-allow-first-party =
+    .value = Consenti solo se generati dal sito
 
 ## Invalid Hostname Dialog
 
