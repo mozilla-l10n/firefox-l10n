@@ -866,6 +866,24 @@ certs-view =
 certs-devices =
     .label = Trevnadoù diogelroez…
     .accesskey = T
+space-alert-learn-more-button =
+    .label = Gouzout hiroc'h
+    .accesskey = G
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Digeriñ an dibarzhioù
+           *[other] Digeriñ ar Gwellvezioù
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] D
+           *[other] D
+        }
+space-alert-under-5gb-ok-button =
+    .label = Mat, komprenet 'm eus.
+    .accesskey = M
+space-alert-under-5gb-message = Ne chom ket kalz a blas war ar gantenn evit { -brand-short-name }. Gallout a ra al lec'hiennoù skrammañ en un doare dizereat. Gweladennit "Gouzout hiroc'h" evit gwellekaat hoc'h arver kantenn ha kaout un arnod merdeiñ gwelloc'h.
 
 ## The following strings are used in the Download section of settings
 
