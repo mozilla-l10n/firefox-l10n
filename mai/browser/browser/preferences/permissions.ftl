@@ -28,6 +28,8 @@ permissions-capabilities-allow =
     .label = अनुमति दिअ
 permissions-capabilities-block =
     .label = रोकू
+permissions-capabilities-listitem-block =
+    .value = रोकू
 
 ## Invalid Hostname Dialog
 
@@ -50,6 +52,9 @@ permissions-exceptions-popup-desc = कओनसँ वेबसाइटक प
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = कओनसँ वेबसाइट सहयुक्तिक संस्थापन करत ई अहाँक हाथमे अछि. जकरा अहाँ ई अनुमति देब चाहैत छी हुनकर सही वेब पता लिखू आओर 'अनुमति दिअ' पर क्लिक करू .
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
