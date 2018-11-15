@@ -824,6 +824,9 @@ space-alert-over-5gb-pref-button =
             [windows] O
            *[other] O
         }
+space-alert-under-5gb-ok-button =
+    .label = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
+    .accesskey = K
 
 ## The following strings are used in the Download section of settings
 
