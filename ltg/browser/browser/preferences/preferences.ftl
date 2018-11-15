@@ -788,3 +788,6 @@ certs-devices =
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Dorbviersma
+downloads-folder-name = Lejupīluodes
+choose-download-folder-title = Izavielit lejupīluožu mapi:

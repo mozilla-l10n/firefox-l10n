@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Blokeit
 permissions-capabilities-prompt =
     .label = Vīnmār vaicuot
+permissions-capabilities-listitem-allow =
+    .value = Atļaut
+permissions-capabilities-listitem-block =
+    .value = Blokeit
+permissions-capabilities-listitem-allow-first-party =
+    .value = Atļaut tikai pyrmajam olūtam
+permissions-capabilities-listitem-allow-session =
+    .value = Atļaut iz itū seseju
 
 ## Invalid Hostname Dialog
 
