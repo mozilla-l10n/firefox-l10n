@@ -22,6 +22,12 @@ permissions-capabilities-allow =
     .label = Vumela
 permissions-capabilities-block =
     .label = Vala
+permissions-capabilities-listitem-allow =
+    .value = Vumela
+permissions-capabilities-listitem-block =
+    .value = Vala
+permissions-capabilities-listitem-allow-session =
+    .value = Vumela
 
 ## Invalid Hostname Dialog
 
@@ -44,6 +50,9 @@ permissions-exceptions-popup-desc = Unganqophisa bona ngiziphi iindawo ze web ez
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
