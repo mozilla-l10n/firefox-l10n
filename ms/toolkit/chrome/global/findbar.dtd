@@ -10,7 +10,7 @@
 <!ENTITY findCloseButton.tooltip "Tutup Bar Carian">
 <!ENTITY highlightAll.label "Serlahkan Semua">
 <!ENTITY highlightAll.accesskey "a">
-<!ENTITY highlightAll.tooltiptext "Serlahkan semua frasa berkenaan">
+<!ENTITY highlightAll.tooltiptext "Serlahkan semua frasa kejadian">
 <!ENTITY caseSensitive.label "Huruf Sepadan">
 <!ENTITY caseSensitive.accesskey "p">
 <!ENTITY caseSensitive.tooltiptext "Cari dengan sensitiviti klausa">

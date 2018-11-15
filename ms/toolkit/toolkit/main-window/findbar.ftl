@@ -14,15 +14,15 @@ findbar-find-button-close =
 findbar-highlight-all =
     .label = Serlahkan Semua
     .accesskey = a
-    .tooltiptext = Serlahkan semua frasa berkenaan
+    .tooltiptext = Serlahkan semua frasa kejadian
 findbar-highlight-all2 =
-    .label = Serlah Semua
+    .label = Serlahkan Semua
     .accesskey =
         { PLATFORM() ->
             [macos] l
            *[other] a
         }
-    .tooltiptext = Serlah semua frasa kejadian
+    .tooltiptext = Serlahkan semua frasa kejadian
 findbar-case-sensitive =
     .label = Huruf Sepadan
     .accesskey = p
