@@ -747,3 +747,9 @@ certs-view =
 certs-devices =
     .label = Dispositivos de seguranza...
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Escritorio
+downloads-folder-name = Descargas
+choose-download-folder-title = Escolla o cartafol de descarga:
