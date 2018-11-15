@@ -5,6 +5,7 @@
 password-not-set =
     .value = (gan socrú)
 failed-pw-change = Níorbh fhéidir an Príomhfhocal Faire a athrú.
+incorrect-pw = Níor thug tú an Príomhfhocal Faire ceart. Déan iarracht eile.
 pw-change-ok = D'éirigh le hathrú an Phríomhfhocail Faire. { pw-empty-warning }
 pw-empty-warning = Ní bheidh cosaint ag na focail faire Ghréasáin agus ríomhphoist, sonraí foirme, ná ag na heochracha príobháideacha atá agat.
 pw-erased-ok = Tá do Phríomhfhocal Faire scriosta agat.  { pw-empty-warning }
