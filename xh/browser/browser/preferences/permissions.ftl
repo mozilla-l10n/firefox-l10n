@@ -32,6 +32,8 @@ permissions-capabilities-listitem-allow =
     .value = Vumela
 permissions-capabilities-listitem-block =
     .value = Nqanda
+permissions-capabilities-listitem-allow-session =
+    .value = Vumela iSeshoni
 
 ## Invalid Hostname Dialog
 

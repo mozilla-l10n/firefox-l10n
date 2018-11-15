@@ -490,3 +490,5 @@ certs-enable-ocsp =
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Idesktophu
+choose-download-folder-title = Khetha iFolda yokuKhutshelwayo:
