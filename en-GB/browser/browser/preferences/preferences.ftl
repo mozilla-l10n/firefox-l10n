@@ -717,6 +717,24 @@ certs-view =
 certs-devices =
     .label = Security Devices…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Learn More
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Open Options
+           *[other] Open Preferences
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-under-5gb-ok-button =
+    .label = OK, Got it
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } is running out of disc space. Web site contents may not display properly. Visit “Learn More” to optimise your disc usage for better browsing experience.
 
 ## The following strings are used in the Download section of settings
 
