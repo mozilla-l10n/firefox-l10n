@@ -17,6 +17,17 @@ close-button =
 ## Browser Restart Dialog
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
+
 ## Preferences UI Search Results
 
 
@@ -59,6 +70,12 @@ browsing-use-smooth-scrolling =
 ## Containers Section
 
 
+## Sync Section - Signed out
+
+
+## Sync Section - Signed in
+
+
 ## Privacy Section
 
 
@@ -73,6 +90,9 @@ history-header = Umlandvo
 
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
 
 
 ## Privacy Section - Tracking
@@ -93,3 +113,8 @@ history-header = Umlandvo
 ## Privacy Section - Certificates
 
 certs-header = Titifiketi
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Busokhompyutha
+choose-download-folder-title = Khetsa ifolda yekulayisha:
