@@ -315,7 +315,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = வலைப்பின்னல் பதிலாள்
 network-proxy-connection-description = { -brand-short-name } எவ்வாறு இணையத்துடன் இணைய வேண்டும் என்பதைக் கட்டமை.
 network-proxy-connection-learn-more = மேலும் அறிய
 network-proxy-connection-settings =
@@ -579,26 +578,12 @@ sitedata-total-size-calculating = தள தரவு மற்றும் இ�
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = நீங்கள் சேமித்த நினைவிகள், தள தரவு மற்றும் இடையகத்தின் தற்போதைய பயனளவு வன்தட்டில் { $value }{ $unit } அளவு பயன்படுத்தியுள்ளது.
 sitedata-learn-more = மேலும் அறிய
-sitedata-accept-cookies-option =
-    .label = வலைத்தளங்களிலிருந்து நினைவி மற்றும் தள தரவை ஏற்றுக்கொள்ளுங்கள் (பரிந்துரைக்கப்பட்டது)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = தளதரவு மற்றும் நினைவிகளை முடக்குகிறது (சில வலைத்தளங்கள் உடையலாம்)
-    .accesskey = B
 sitedata-keep-until = அதுவரையில் வைத்திரு
     .accesskey = u
 sitedata-keep-until-expire =
     .label = அவை காலாவதியாகிறது
 sitedata-keep-until-closed =
     .label = { -brand-short-name } மூடப்பட்டது
-sitedata-accept-third-party-desc = எல்லா நினைவிகளையும் தள தரவையும் துடை
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = எப்போதும்
-sitedata-accept-third-party-visited-option =
-    .label = பார்வையிட்டதிலிருந்து
-sitedata-accept-third-party-never-option =
-    .label = ஒரு போதும் இல்லை
 sitedata-clear =
     .label = தரவினை அழி
     .accesskey = l
@@ -641,10 +626,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = ஒருபோதுமில்லை
     .accesskey = N
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = அறியப்பட்ட தடமறிவான்களை முடக்க தனிப்பட்ட உலாவலில் தடமறியல் பாதுகாப்பைப் பயன்படுத்தவும்
-    .accesskey = v
 tracking-exceptions =
     .label = விதிவிலக்குகள்…
     .accesskey = x
@@ -764,3 +745,6 @@ certs-view =
 certs-devices =
     .label = பாதுகாப்பு சாதனங்கள்…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
