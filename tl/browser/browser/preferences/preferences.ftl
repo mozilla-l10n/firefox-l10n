@@ -682,3 +682,8 @@ certs-view =
 certs-devices =
     .label = Mga device na pang-seguridad…
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
+downloads-folder-name = Mga Download
+choose-download-folder-title = Pumili ng Download Folder:

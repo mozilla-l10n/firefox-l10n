@@ -42,6 +42,10 @@ permissions-capabilities-block =
     .label = Harangin
 permissions-capabilities-prompt =
     .label = Palaging Magtanong
+permissions-capabilities-listitem-allow =
+    .value = Payagan
+permissions-capabilities-listitem-block =
+    .value = Harangin
 
 ## Invalid Hostname Dialog
 
@@ -85,9 +89,6 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = Pinapayagang mga Website - Autoplay
-    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
