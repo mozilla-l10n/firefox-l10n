@@ -799,6 +799,11 @@ space-alert-over-5gb-pref-button =
             [windows] R
            *[other] t
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } napīteik vītys diskā. Lopu saturs var tikt nakorekti attālōts. Tu vari dzēst saglobōtū lopu datus Īstatiejumi > Privātums un drūšeiba > Seikdatnes un lopu dati.
+       *[other] { -brand-short-name } napīteik vītys diskā. Lopu saturs var tikt nakorekti attālōts. Tu vari dzēst saglobōtū lopu datus Īstatiejumi > Privātums un drūšeiba > Seikdatnes un lopu dati.
+    }
 space-alert-under-5gb-ok-button =
     .label = OK, Got it
     .accesskey = L
