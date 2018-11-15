@@ -8,12 +8,18 @@ about-performance-title = Διαχείριση εργασιών
 ## Column headers
 
 column-type = Τύπος
+column-energy-impact = Αντίκτυπο ενέργειας
 
 ## Special values for the Name column
 
+ghost-windows = Καρτέλες που έκλεισαν πρόσφατα
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Προφορτωμένη: { $title }
 
 ## Values for the Type column
 
+type-tab = Καρτέλα
 
 ## Values for the Energy Impact column
 ##
