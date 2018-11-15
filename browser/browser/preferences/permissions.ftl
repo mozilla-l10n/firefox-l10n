@@ -42,8 +42,14 @@ permissions-capabilities-block =
     .label = Արգելել
 permissions-capabilities-prompt =
     .label = Միշտ հարցնել
+permissions-capabilities-listitem-allow =
+    .value = Թույլատրել
 permissions-capabilities-listitem-block =
     .value = Արգելել
+permissions-capabilities-listitem-allow-first-party =
+    .value = Թույլատրել միայն առաջին մասը
+permissions-capabilities-listitem-allow-session =
+    .value = Թույլատրել աշխատաշրջանում
 
 ## Invalid Hostname Dialog
 
