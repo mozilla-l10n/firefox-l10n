@@ -22,6 +22,12 @@ permissions-capabilities-allow =
     .label = Permet
 permissions-capabilities-block =
     .label = Bloche
+permissions-capabilities-listitem-allow =
+    .value = Permet
+permissions-capabilities-listitem-block =
+    .value = Bloche
+permissions-capabilities-listitem-allow-session =
+    .value = Permet par cheste session
 
 ## Invalid Hostname Dialog
 
@@ -44,6 +50,9 @@ permissions-exceptions-popup-desc = Tu puedis specificâ cuâi che a son i sîts
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-desc = Tu puedis specificâ cuâi che a son i sîts che a puedin instalâ lis zontis. Inserìs la direzion dal sît che tu vuelis dâi il permès e cjalcje su Permet.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 

@@ -6,7 +6,7 @@ pref-page =
     .title =
         { PLATFORM() ->
             [windows] Opzions
-           *[other] Preferencis 
+           *[other] Preferencis
         }
 pane-general-title = Gjenerâl
 category-general =
@@ -44,8 +44,6 @@ should-restart-title = Torne a inviâ { -brand-short-name }
 ## General Section
 
 startup-header = Inizi
-startup-blank-page =
-    .label = Mostre une pagjine blancje
 tabs-group-header = Lengutis
 
 ## General Section - Language & Appearance
@@ -133,9 +131,6 @@ use-current-pages =
            *[other] Dopre lis pagjinis corintis
         }
     .accesskey = c
-restore-default =
-    .label = Torne a lis pagjinis predeterminadis
-    .accesskey = T
 
 ## Search Section
 
@@ -209,6 +204,9 @@ addressbar-locbar-openpage-option =
     .label = Vierç lengutis
     .accesskey = O
 
+## Privacy Section - Content Blocking
+
+
 ## Privacy Section - Tracking
 
 
@@ -236,3 +234,9 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = Certificâts
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Scritori
+downloads-folder-name = Discjamadis
+choose-download-folder-title = Sielç une cartele pes discjamadis:
