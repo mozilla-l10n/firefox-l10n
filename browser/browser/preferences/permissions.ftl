@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = തടയുക
 permissions-capabilities-prompt =
     .label = എപ്പോഴും ചോദിക്കുക
+permissions-capabilities-listitem-allow =
+    .value = അനുവദിക്കുക{ " " }
+permissions-capabilities-listitem-block =
+    .value = തടയുക{ " " }
+permissions-capabilities-listitem-allow-session =
+    .value = ഈ സെഷന്‌ അനുവദിക്കുക
 
 ## Invalid Hostname Dialog
 
