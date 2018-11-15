@@ -860,6 +860,30 @@ certs-view =
 certs-devices =
     .label = Apparats da segirezza…
     .accesskey = p
+space-alert-learn-more-button =
+    .label = Ulteriuras infurmaziuns
+    .accesskey = U
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Avrir las preferenzas
+           *[other] Avrir las preferenzas
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] A
+        }
+space-alert-under-5gb-ok-button =
+    .label = OK, chapì
+    .accesskey = K
+space-alert-under-5gb-message = La memoria da { -brand-short-name } è prest plaina. Il cuntegn da websites na vegn forsa betg pli visualisà correctamain. Clicca sin «Ulteriuras infurmaziuns» per optimar l'utilisaziun da la memoria e per meglierar la prestaziun durant navigar.
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Desktop
+downloads-folder-name = Telechargiadas
+choose-download-folder-title = Tscherner l'ordinatur per telechargiar:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
