@@ -850,6 +850,35 @@ certs-view =
 certs-devices =
     .label = Pajisje Sigurie…
     .accesskey = P
+space-alert-learn-more-button =
+    .label = Mësoni Më Tepër
+    .accesskey = M
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Hap Mundësitë
+           *[other] Hap Parapëlqimet
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] H
+           *[other] H
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] Po mbaron hapësira e diskut për { -brand-short-name }-in. Lënda e sajtit mund të mos shfaqet si duhet. Të dhëna të depozituara mund të hiqni qafe që nga Mundësi > Privatësi & Siguri > Cookies dhe Të dhëna Sajtesh.
+       *[other] Po mbaron hapësira e diskut për { -brand-short-name }-in. Lënda e sajtit mund të mos shfaqet si duhet. Të dhëna të depozituara mund të hiqni qafe që nga Parapëlqime > Privatësi & Siguri > Cookies dhe Të dhëna Sajtesh.
+    }
+space-alert-under-5gb-ok-button =
+    .label = OK, e mora vesh
+    .accesskey = O
+space-alert-under-5gb-message = Po mbaron hapësira e diskut për { -brand-short-name }. Lënda e sajtit mund të mos shfaqet si duhet. Vizitoni “Mësoni Më Tepër” që të optimizoni përdorimin tuaj të diskut oër shfletim më të mirë.
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Desktop
+downloads-folder-name = Shkarkime
+choose-download-folder-title = Zgjidhni Dosje Shkarkimesh:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =

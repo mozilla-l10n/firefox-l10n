@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Bllokoje
 permissions-capabilities-prompt =
     .label = Pyet Përherë
+permissions-capabilities-listitem-allow =
+    .value = Lejoje
+permissions-capabilities-listitem-block =
+    .value = Bllokoje
+permissions-capabilities-listitem-allow-first-party =
+    .value = Lejoje vetëm për palën e parë
+permissions-capabilities-listitem-allow-session =
+    .value = Lejoje për Sesionin
 
 ## Invalid Hostname Dialog
 
