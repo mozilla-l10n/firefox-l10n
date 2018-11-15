@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Leisti
 permissions-capabilities-listitem-block =
     .value = Neleisti
+permissions-capabilities-listitem-allow-first-party =
+    .value = Leisti tik pirmajam asmeniui
 permissions-capabilities-listitem-allow-session =
     .value = Leisti vienam seansui
 
