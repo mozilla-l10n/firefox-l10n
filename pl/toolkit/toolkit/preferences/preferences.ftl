@@ -8,6 +8,7 @@ failed-pw-change = Nie można zmienić hasła głównego.
 incorrect-pw = Nie podano właściwego hasła głównego. Proszę spróbować ponownie.
 pw-change-ok = Hasło główne zostało zmienione.
 pw-erased-ok = Usunięto hasło główne. { pw-empty-warning }
+pw-not-wanted = Uwaga! Hasło główne nie będzie używane. { pw-empty-warning }
 pw-change-success-title = Hasło zostało zmienione
 pw-change-failed-title = Nie udało się zmienić hasła
 pw-remove-button =
