@@ -860,11 +860,29 @@ certs-view =
 certs-devices =
     .label = Dispositivos de seguridad…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Aprender más
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Abrir opciones
+           *[other] Abrir preferencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
 space-alert-over-5gb-message =
     { PLATFORM() ->
         [windows] { -brand-short-name } se está quedando sin espacio en el disco. Puede que los contenidos del sitio web no se muestren adecuadamente. Puedes limpiar los datos almacenados en Opciones > Privacidad y seguridad > Cookies y datos del sitio.
        *[other] { -brand-short-name } necesita espacio en el disco. Puede que los contenidos del sitio web no se muestren adecuadamente. Puedes limpiar los datos almacenados en Preferencias > Privacidad y seguridad > Cookies y datos del sitio.
     }
+space-alert-under-5gb-ok-button =
+    .label = Perfecto, entendido
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } se está quedando sin espacio en el disco. Tal vez los contenidos web no se muestren correctamente. Visita "Aprende más" para optimizar el utilizo del disco y mejorar la navegación.
 
 ## The following strings are used in the Download section of settings
 
