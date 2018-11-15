@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = 차단
 permissions-capabilities-prompt =
     .label = 항상 물어보기
+permissions-capabilities-listitem-allow =
+    .value = 허가
+permissions-capabilities-listitem-block =
+    .value = 차단
+permissions-capabilities-listitem-allow-first-party =
+    .value = 자신의 것만 허용
+permissions-capabilities-listitem-allow-session =
+    .value = 세션 허가
 
 ## Invalid Hostname Dialog
 
