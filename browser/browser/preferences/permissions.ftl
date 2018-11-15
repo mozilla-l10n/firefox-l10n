@@ -42,10 +42,14 @@ permissions-capabilities-block =
     .label = Blokeatu
 permissions-capabilities-prompt =
     .label = Galdetu beti
+permissions-capabilities-listitem-allow =
+    .value = Baimendu
 permissions-capabilities-listitem-block =
     .value = Blokeatu
 permissions-capabilities-listitem-allow-first-party =
     .value = Debekatu hirugarrenenak
+permissions-capabilities-listitem-allow-session =
+    .value = Baimendu saiorako
 
 ## Invalid Hostname Dialog
 
