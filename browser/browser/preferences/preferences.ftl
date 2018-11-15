@@ -888,6 +888,7 @@ space-alert-under-5gb-ok-button =
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Desktop
 downloads-folder-name = Descărcări
 choose-download-folder-title = Alege dosarul de descărcare:
 # Variables:
