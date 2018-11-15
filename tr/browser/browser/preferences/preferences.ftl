@@ -860,6 +860,29 @@ certs-view =
 certs-devices =
     .label = Güvenlik aygıtları…
     .accesskey = ü
+space-alert-learn-more-button =
+    .label = Daha fazla bilgi al
+    .accesskey = D
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Seçenekleri aç
+           *[other] Tercihleri aç
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] S
+           *[other] e
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } tarafından kulllanılabilen disk alanı azaldı. Site içerikleri düzgün görüntülenemeyebilir. Depolanan verileri Seçenekler > Gizlilik ve Güvenlik > Site verileri kısmından temizleyebilirsiniz.
+       *[other] { -brand-short-name } tarafından kulllanılabilen disk alanı azaldı. Site içerikleri düzgün görüntülenemeyebilir. Depolanan verileri Tercihler > Gizlilik ve Güvenlik > Site verileri kısmından temizleyebilirsiniz.
+    }
+space-alert-under-5gb-ok-button =
+    .label = Anladım
+    .accesskey = A
+space-alert-under-5gb-message = { -brand-short-name } tarafından kulllanılabilen disk alanı azaldı. Site içerikleri düzgün görüntülenemeyebilir. Daha iyi bir gezinti deneyimi içi disk kullanımınızı iyileştirmek isterseniz “Daha fazla bilgi al” sayfasını ziyaret edin.
 
 ## The following strings are used in the Download section of settings
 
