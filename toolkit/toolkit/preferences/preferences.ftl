@@ -2,10 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+password-not-set =
+    .value = (ไม่ได้ตั้ง)
 failed-pw-change = ไม่สามารถเปลี่ยนรหัสผ่านหลักได้
+incorrect-pw = คุณป้อนรหัสผ่านหลักปัจจุบันไม่ถูกต้อง โปรดลองอีกครั้ง
 pw-change-ok = เปลี่ยนรหัสผ่านหลักสำเร็จแล้ว { pw-empty-warning }
 pw-erased-ok = คุณได้ลบรหัสผ่านหลักของคุณแล้ว { pw-empty-warning }
 pw-not-wanted = คำเตือน! คุณได้ตัดสินใจที่จะไม่ใช้รหัสผ่านหลัก
+pw-change2empty-in-fips-mode = คุณกำลังอยู่ในโหมด FIPS ซึ่ง FIPS จำเป็นต้องมีรหัสผ่านหลักที่ไม่ว่างเปล่า
 pw-change-success-title = เปลี่ยนรหัสผ่านสำเร็จ
 pw-remove-button =
     .label = เอาออก
