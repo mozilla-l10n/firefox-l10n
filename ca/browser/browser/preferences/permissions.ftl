@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Permet
 permissions-capabilities-listitem-block =
     .value = Bloca
+permissions-capabilities-listitem-allow-session =
+    .value = Permet durant la sessió
 
 ## Invalid Hostname Dialog
 
