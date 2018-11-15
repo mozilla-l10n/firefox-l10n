@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL untuk menyelesaikan semula DNS mengatasi HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Guna piawai ({ $url })
+    .accesskey = G
+    .tooltiptext = Guna URL piawai untuk menyelesaikan DNS ke atas HTTPS
+connection-dns-over-https-url-custom =
+    .label = Penyesuaian
+    .accesskey = P
+    .tooltiptext = Masukkan URL keutamaan untuk menyelesaikan DNS ke atas HTTPS
