@@ -626,4 +626,6 @@ certs-devices =
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = ഡെസ്ക്ടോപ്പ്‌
 downloads-folder-name = ഡൌണ്‍ലോടുകള്‍
+choose-download-folder-title = ഡൌണ്‍ലോഡ്‌ ഫോള്‍ഡര്‍ തെരഞ്ഞെടുക്കുക
