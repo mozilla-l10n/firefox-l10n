@@ -321,6 +321,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Αναζήτηση κειμένου κατά την έναρξη πληκτρολόγησης
     .accesskey = ν
+browsing-cfr-recommendations-learn-more = Μάθετε περισσότερα
 
 ## General Section - Proxy
 

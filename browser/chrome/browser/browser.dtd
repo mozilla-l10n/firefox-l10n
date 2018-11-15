@@ -28,7 +28,14 @@
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Αντιγραφή καρτέλας">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "Α">
+<!ENTITY  closeTabOptions.label              "Κλείσιμο επιλογών καρτέλας">
+<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -126,6 +133,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "κ">
 <!ENTITY printCmd.commandkey "p">
 
+
 <!ENTITY goOfflineCmd.label "Εργασία χωρίς σύνδεση">
 <!ENTITY goOfflineCmd.accesskey "χ">
 
@@ -140,6 +148,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "Α">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "Κ">
+
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
+toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
+<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
+toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.selectAllTabs.label "Επιλογή όλων των καρτελών">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "Ε">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Αναίρεση κλεισίματος καρτέλας">
@@ -586,9 +607,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Ανανέωση πλαισίου">
 <!ENTITY reloadFrameCmd.accesskey     "ν">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Προβολή πηγαίου κώδικα επιλογής">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Προβολή πηγαίου κώδικα MathML">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "ε">
 <!ENTITY viewPageSourceCmd.label      "Προβολή πηγαίου κώδικα">
 <!ENTITY viewPageSourceCmd.accesskey  "Π">
@@ -805,7 +823,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
 <!ENTITY editBookmark.done.label                     "Προσθήκη">
-
 <!ENTITY editBookmark.showForNewBookmarks.label       "Εμφάνιση επεξεργαστή κατά την αποθήκευση">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey   "Ε">
 
@@ -956,9 +973,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Θα μοιραστεί ο ήχος από την καρτέλα.">
 <!ENTITY getUserMedia.allWindowsShared.message "Θα μοιραστούν όλα τα ορατά παράθυρα της οθόνη σας.">
 
-<!ENTITY trackingProtection.on "Προστασία από καταγραφή: ΕΝΕΡΓΗ">
-<!ENTITY trackingProtection.off "Προστασία από καταγραφή: ΑΝΕΝΕΡΓΗ">
-
 <!ENTITY contentBlocking.title "Φραγή περιεχομένου">
 <!ENTITY contentBlocking.detected "Ανιχνεύτηκε περιεχόμενο με δυνατότητα φραγής σε αυτή την ιστοσελίδα.">
 <!ENTITY contentBlocking.notDetected "Δεν ανιχνεύτηκε περιεχόμενο με δυνατότητα φραγής σε αυτή τη σελίδα.">
@@ -973,6 +987,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.fastBlock.blocked.label "Γίνεται φραγή">
+<!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in (imaginary) sentence
+     "Firefox is blocking Slow-Loading Trackers"-->
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -987,6 +1005,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Trackers [are] Blocked"-->
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Γίνεται φραγή">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Trackers"-->
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1000,6 +1022,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a positive thing. It forms the end of the (imaginary) sentence
      "Third-Party Cookies [are] Blocked"-->
 <!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Σε φραγή">
+<!-- LOCALIZATION NOTE (contentBlocking.tranckingProtection.blocking.label):
+     This label signals that this type of content blocking is turned
+     ON, so this is a positive thing. It forms the verb in the (imaginary) sentence
+     "Firefox is blocking Third-Party Cookies"-->
 <!-- LOCALIZATION NOTE (contentBlocking.3rdPartyCookies.add.label):
      This is displayed as a link to preferences, where the user can add
      this specific type of content blocking. When this text is shown
@@ -1017,32 +1043,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Προστασία από καταγραφή">
 <!ENTITY trackingProtection.tooltip "Άνοιγμα προτιμήσεων προστασίας από καταγραφή">
-<!ENTITY trackingProtection.detectedBlocked4 "Το &brandShortName; αποκλείει μέρη της σελίδας αυτής που ενδέχεται να καταγράφουν τη δραστηριότητα περιήγησής σας.">
-<!ENTITY trackingProtection.detectedNotBlocked5 "Το &brandShortName; έχει ανιχνεύσει στοιχεία που ενδέχεται να καταγράφουν τη δραστηριότητα περιήγησής σας.">
-<!ENTITY trackingProtection.detectedException "Το &brandShortName; έχει ανιχνεύσει στοιχεία που ενδέχεται να καταγράφουν τη δραστηριότητα περιήγησής σας. Έχετε απενεργοποιήσει την προστασία για αυτή την ιστοσελίδα.">
-<!ENTITY trackingProtection.notDetected5 "Δεν ανιχνεύθηκαν στοιχεία καταγραφής σε αυτή τη σελίδα.">
-<!ENTITY trackingProtection.notDetectedException "Δεν ανιχνεύθηκαν στοιχεία καταγραφής σε αυτή τη σελίδα. Έχετε απενεργοποιήσει την προστασία για αυτή την ιστοσελίδα.">
-
-<!ENTITY trackingProtection.reloadRequired2 "Έχετε ενεργοποιήσει την προστασία από παρακολούθηση. Φορτώστε εκ νέου τη σελίδα για αποκλεισμό όλων των ιχνηλατών.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock3.label "Απενεργοποίηση για την ιστοσελίδα">
-<!ENTITY trackingProtection.unblock3.accesskey "Α">
 <!ENTITY trackingProtection.unblock4.label "Απενεργοποίηση φραγής για την ιστοσελίδα">
 <!ENTITY trackingProtection.unblock4.accesskey "Α">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate3.label, trackingProtection.unblockPrivate3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate3.label "Απενεργοποίηση για αυτή τη συνεδρία">
-<!ENTITY trackingProtection.unblockPrivate3.accesskey "Α">
-<!ENTITY trackingProtection.block4.label "Ενεργοποίηση για την ιστοσελίδα">
-<!ENTITY trackingProtection.block4.accesskey "Ε">
 <!ENTITY trackingProtection.unblockPrivate4.label "Προσωρινή απενεργοποίηση φραγής">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "Π">
 <!ENTITY trackingProtection.block5.label "Ενεργοποίηση φραγής για την ιστοσελίδα">
 <!ENTITY trackingProtection.block5.accesskey "Ε">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.reload2.label "Ανανέωση σελίδας">
 <!ENTITY trackingProtection.reload2.accesskey "Α">
 
@@ -1148,7 +1168,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Συγχρονισμός συσκευών…">
 
 <!ENTITY pageAction.shareUrl.label "Κοινή χρήση">
-
 <!ENTITY pageAction.shareMore.label "Περισσότερα…">
 
 <!ENTITY libraryButton.tooltip "Προβολή ιστορικού, σελιδοδεικτών και πολλών άλλων">
