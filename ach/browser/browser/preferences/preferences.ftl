@@ -750,6 +750,11 @@ space-alert-over-5gb-pref-button =
             [windows] Y
            *[other] Y
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } odong ki kabedo me disk manok. Jami me kakube mogo pe bi nyute maber. Itwero jwayo data me kakube ma kigwoko i Ter > Mung ki Ber bedo > Angija ki Data me Kakube.
+       *[other] { -brand-short-name } odong ki kabedo me disk manok. Jami me kakube mogo pe bi nyute maber. Itwero jwayo data me kakube ma kigwoko i Ter > Mung ki Ber bedo > Angija ki Data me Kakube.
+    }
 space-alert-under-5gb-ok-button =
     .label = AYA, Aniang
     .accesskey = A
