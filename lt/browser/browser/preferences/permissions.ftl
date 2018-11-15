@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Neleisti
 permissions-capabilities-prompt =
     .label = Visada klausti
+permissions-capabilities-listitem-allow =
+    .value = Leisti
+permissions-capabilities-listitem-block =
+    .value = Neleisti
+permissions-capabilities-listitem-allow-session =
+    .value = Leisti vienam seansui
 
 ## Invalid Hostname Dialog
 
