@@ -26,6 +26,8 @@ permissions-capabilities-listitem-allow =
     .value = Dumelela
 permissions-capabilities-listitem-block =
     .value = Thibela
+permissions-capabilities-listitem-allow-first-party =
+    .value = Dumelela leloko la pele feela
 permissions-capabilities-listitem-allow-session =
     .value = Dumelela nako
 
