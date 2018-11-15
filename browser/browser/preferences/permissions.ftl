@@ -42,6 +42,8 @@ permissions-capabilities-block =
     .label = నిరోధించు
 permissions-capabilities-prompt =
     .label = ఎల్లప్పుడూ అడుగు
+permissions-capabilities-listitem-allow-first-party =
+    .value = మొదటి పార్టీ మాత్రమే అనుమతించు
 
 ## Invalid Hostname Dialog
 
