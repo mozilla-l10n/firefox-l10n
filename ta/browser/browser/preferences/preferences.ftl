@@ -745,6 +745,24 @@ certs-view =
 certs-devices =
     .label = பாதுகாப்பு சாதனங்கள்…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = மேலும் அறிய
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] விருப்பங்களைத் திற
+           *[other] முன்னுரிமைகளைத் திற
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-under-5gb-ok-button =
+    .label = சரி, கிடைத்துவிட்டது
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } வட்டில் காலி இடமில்லை. இணையத்தள உள்ளடக்கங்கள் சரியாகத் தோன்றாது. “மேலும் அறிய” தொடுப்பு மூலம் உங்கள் வட்டின் பயனளவை மேம்படுத்தி உலாவல் அனுபதித்தைக் கூட்டுங்கள்.
 
 ## The following strings are used in the Download section of settings
 
