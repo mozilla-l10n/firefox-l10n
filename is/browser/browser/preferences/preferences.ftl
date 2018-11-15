@@ -721,3 +721,9 @@ certs-view =
 certs-devices =
     .label = Öryggistæki…
     .accesskey = y
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Skjáborð
+downloads-folder-name = Niðurhal
+choose-download-folder-title = Veldu niðurhals möppu:

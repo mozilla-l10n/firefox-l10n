@@ -42,6 +42,10 @@ permissions-capabilities-block =
     .label = Loka á
 permissions-capabilities-prompt =
     .label = Spyrja alltaf
+permissions-capabilities-listitem-allow =
+    .value = Leyfa
+permissions-capabilities-listitem-block =
+    .value = Loka á
 
 ## Invalid Hostname Dialog
 
@@ -82,6 +86,9 @@ permissions-exceptions-addons-window =
     .title = Leyfð vefsvæði - Uppsetning á viðbótum
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = Þú getur skilgreint hvaða vefsvæði hafa leyfi til að setja inn viðbætur. Sláðu inn nákvæma vefslóð fyrir vefsvæðið og smelltu svo á Leyfa.
+
+## Exceptions - Autoplay Media
+
 
 ## Site Permissions - Notifications
 
