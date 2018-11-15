@@ -860,10 +860,35 @@ certs-view =
 certs-devices =
     .label = Nej sa dugumi...
     .accesskey = N
+space-alert-learn-more-button =
+    .label = Gahuin chrūn doj
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Na'nïnt sa ga'ue Nagi'át
+           *[other] Na'nï' preferensia
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } da'ui gani'ninj riña disko. Gahuin ni si gurui' hue'e nej sa ma riña sitio web. Ruguñu'unj na'nïn't nej sa ma riña preferensia > sa huìi > cookies ni dato sitio.
+       *[other] { -brand-short-name } da'ui gani'ninj riña disko. Gahuin ni si gurus' hue'e nej sa ma riña sitio web. Ruguñu'unj na'nïn't nej sa ma riña preferensia > sa huìi > cookies ni dato sitio.
+    }
+space-alert-under-5gb-ok-button =
+    .label = Garaj, da'ngà rua aj
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } doj sîna' hua ni'nïnj riña disko. Gahuin ni si gurui' hue'ê sa ma riña sitio na. Huij riña "Gahuin chrūn doj" da' nagi'îat si diskot ni gache nut.
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Eskritorio
 downloads-folder-name = Nadunínj
+choose-download-folder-title = Ganahui dane' gima sa' sa naduninjt
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =

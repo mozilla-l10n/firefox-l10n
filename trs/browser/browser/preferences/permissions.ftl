@@ -42,6 +42,14 @@ permissions-capabilities-block =
     .label = Si ga'nïn'
 permissions-capabilities-prompt =
     .label = Gachinj na'anj yitïnj
+permissions-capabilities-listitem-allow =
+    .value = Ga'nïn'
+permissions-capabilities-listitem-block =
+    .value = Garun'
+permissions-capabilities-listitem-allow-first-party =
+    .value = Ga'nïn' ma sa asinìin
+permissions-capabilities-listitem-allow-session =
+    .value = Ga'nïn' riña sesiôn na
 
 ## Invalid Hostname Dialog
 
