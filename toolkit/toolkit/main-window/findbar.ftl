@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Relevar tut
     .accesskey = t
     .tooltiptext = Relevar il term dapertut nua ch'el cumpara
+findbar-highlight-all2 =
+    .label = Relevar tut
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = Relevar l'expressiun dapertut nua ch'ella cumpara
 findbar-case-sensitive =
     .label = Resguardar maiusclas/minusclas
     .accesskey = r
