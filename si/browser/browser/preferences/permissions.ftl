@@ -32,6 +32,8 @@ permissions-capabilities-listitem-allow =
     .value = අනුමත කරන්න
 permissions-capabilities-listitem-block =
     .value = අවහිර කරන්න
+permissions-capabilities-listitem-allow-first-party =
+    .value = ප්‍රථම පාර්ශවය පමණක් අවසර ලැබේ
 permissions-capabilities-listitem-allow-session =
     .value = සැසිය සඳහා අනුමතයි
 
