@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = প্রতিরোধ করা হবে
 permissions-capabilities-prompt =
     .label = সর্বদা জিজ্ঞাসা কর
+permissions-capabilities-listitem-allow =
+    .value = অনুমোদন করা হবে
+permissions-capabilities-listitem-block =
+    .value = প্রতিরোধ করা হবে
+permissions-capabilities-listitem-allow-session =
+    .value = সেশনের জন্য অনুমোদন করা হবে
 
 ## Invalid Hostname Dialog
 
