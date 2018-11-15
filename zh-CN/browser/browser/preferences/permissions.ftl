@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = 阻止
 permissions-capabilities-prompt =
     .label = 总是询问
+permissions-capabilities-listitem-allow =
+    .value = 允许
+permissions-capabilities-listitem-block =
+    .value = 阻止
+permissions-capabilities-listitem-allow-first-party =
+    .value = 只允许第一方
 
 ## Invalid Hostname Dialog
 
