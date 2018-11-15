@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = अनुमति दें
 permissions-capabilities-listitem-block =
     .value = रोकें
+permissions-capabilities-listitem-allow-first-party =
+    .value = केवल प्रथम पक्ष स्वीकारें
 permissions-capabilities-listitem-allow-session =
     .value = सत्र के लिये अनुमति दें
 
