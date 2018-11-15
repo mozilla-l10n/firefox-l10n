@@ -860,6 +860,12 @@ certs-view =
 certs-devices =
     .label = Turvaseadmed…
     .accesskey = T
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Töölaud
+downloads-folder-name = Allalaadimised
+choose-download-folder-title = Vali allalaadimiste kaust:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =

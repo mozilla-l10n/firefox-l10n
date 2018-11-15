@@ -42,6 +42,10 @@ permissions-capabilities-block =
     .label = Blokitud
 permissions-capabilities-prompt =
     .label = Alati küsitakse
+permissions-capabilities-listitem-allow =
+    .value = Lubatud
+permissions-capabilities-listitem-allow-session =
+    .value = Lubatud seansi jooksul
 
 ## Invalid Hostname Dialog
 
