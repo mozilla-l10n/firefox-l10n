@@ -5,6 +5,7 @@
 password-not-set =
     .value = (no definida)
 failed-pw-change = No es pot canviar la contrasenya mestra.
+incorrect-pw = No heu introduït la contrasenya mestra actual correctament. Torneu-ho a provar.
 pw-empty-warning = Les vostres contrasenyes de web i de correu electrònic, les dades dels formularis i les claus privades emmagatzemades no es protegiran.
 pw-not-wanted = Avís! Heu decidit no utilitzar una contrasenya mestra.
 pw-change2empty-in-fips-mode = Us trobeu en mode FIPS. El FIPS requereix una contrasenya mestra que no sigui buida.
