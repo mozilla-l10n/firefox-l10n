@@ -743,4 +743,6 @@ certs-devices =
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Bàn làm việc
+downloads-folder-name = Trang tải xuống
 choose-download-folder-title = Chọn Thư mục Tải xuống:
