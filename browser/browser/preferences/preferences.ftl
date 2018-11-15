@@ -730,7 +730,27 @@ certs-view =
 certs-devices =
     .label = Անվտանգության սարքեր...
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Իմանալ ավելին
+    .accesskey = Ի
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Բացել ընտրանքները
+           *[other] Բացել նախապատվությունները
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] Բ
+           *[other] Բ
+        }
+space-alert-under-5gb-ok-button =
+    .label = Լավ, հասկացա
+    .accesskey = ա
+space-alert-under-5gb-message = { -brand-short-name }-ում տեղ չկա: Կայքի բովանդակությունը, հնարավոր է, նորմալ չի ցուցադրվի: Այցելեք «Իմանալ ավելին»՝ լավարկելու համար հիշասարքի օգտագործումը՝ դիտարկումների ավելի լավ փորձառության համար:
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Աշխատասեղան
+downloads-folder-name = Ներբեռնումներ
+choose-download-folder-title = Ընտրել ներբեռնումների թղթապանակը.
