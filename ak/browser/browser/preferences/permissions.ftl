@@ -26,6 +26,8 @@ permissions-capabilities-listitem-allow =
     .value = Ma kwan
 permissions-capabilities-listitem-block =
     .value = Blɔk
+permissions-capabilities-listitem-allow-first-party =
+    .value = Ma nkanfo nkoaa ho kwan
 permissions-capabilities-listitem-allow-session =
     .value = Ma sɛhyen ho kwan
 
