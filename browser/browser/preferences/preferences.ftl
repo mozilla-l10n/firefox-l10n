@@ -864,6 +864,8 @@ certs-devices =
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = İşçi masası
+downloads-folder-name = Endirmələr
+choose-download-folder-title = Endirmə qovluğunu seçin:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
