@@ -42,6 +42,10 @@ permissions-capabilities-block =
     .label = ပိတ်ဆို့ပါ
 permissions-capabilities-prompt =
     .label = အမြဲမေးပါ
+permissions-capabilities-listitem-allow =
+    .value = ခွင့်ပြုပါ
+permissions-capabilities-listitem-block =
+    .value = ပိတ်ဆို့ပါ
 
 ## Invalid Hostname Dialog
 
@@ -84,9 +88,6 @@ permissions-exceptions-addons-desc = သင်သည်မည်သည့်၀�
 
 ## Exceptions - Autoplay Media
 
-permissions-exceptions-autoplay-media-window =
-    .title = ခွင့်ပြုထားသော ဝဘ်ဆိုက်များ - အလိုအလျောက်ဖွင့်
-    .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 

@@ -306,7 +306,6 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
-network-proxy-title = ကွန်ယက်ကြားခံဆာဗာ
 network-settings-title = ကွန်ယက် အပြင်အဆင်များ
 network-proxy-connection-learn-more = ပိုမိုလေ့လာရန်
 network-proxy-connection-settings =
@@ -565,26 +564,12 @@ history-clear-button =
 sitedata-header = ကွတ်ကီးနှင့် ဆိုက်အချက်အလက်များ
 sitedata-total-size-calculating = ဆိုက်အချက်အလက်နှင့် ယာယီအချက်အလက် cache သုံးစွဲမှုပမာဏကို တွက်ချက်နေသည်...
 sitedata-learn-more = ပိုမိုလေ့လာရန်
-sitedata-accept-cookies-option =
-    .label = ကွတ်ကီးများနှင့် ဝဘ်ဆိုက်များ၏ ဆိုက်အချက်အလက်ကို သိမ်းရန် လက်ခံပါ (အကြံပြုထားသည်)
-    .accesskey = A
-sitedata-block-cookies-option =
-    .label = ကွတ်ကီးနှင့်ဆိုက်ဒေတာများကိုတားဆီးမည် (ဝဘ်ဆိုက်များ ကောင်းစွာ ဆောင်ရွက်နိုင်မည်မဟုတ်)
-    .accesskey = B
 sitedata-keep-until = ထိုအချိန်ထိ သိမ်းထားပါ
     .accesskey = u
 sitedata-keep-until-expire =
     .label = သက်တမ်းစေ့လျှင်
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ကို ပိတ်သည်
-sitedata-accept-third-party-desc = ကွတ်ကီးများနှင့် ဝဘ်ဆိုက် အချက်အလက်များကို လက်ခံပါ
-    .accesskey = y
-sitedata-accept-third-party-always-option =
-    .label = အမြဲတမ်း
-sitedata-accept-third-party-visited-option =
-    .label = ကြည့်ရှုထားသည့် နေ့မှစ၍
-sitedata-accept-third-party-never-option =
-    .label = ဘယ်တော့မှ
 sitedata-allow-cookies-option =
     .label = ကွတ်ကီးများနှင့် ဆိုက်အချက်အလက်ကို လက်ခံရန်
     .accesskey = A
@@ -640,10 +625,6 @@ tracking-mode-private =
 tracking-mode-never =
     .label = ဘယ်တော့မှ
     .accesskey = n
-# This string is displayed if privacy.trackingprotection.ui.enabled is set to false.
-# This currently happens on the release and beta channel.
-tracking-pbm-label = ခြေရာခံသူများကို တားဆီးရန် ကိုယ်ရေးရှာဖွေမှုဆိုင်ရာတွင် ခြေရာခံကာကွယ်မှုအသုံးပြုပါ
-    .accesskey = v
 tracking-exceptions =
     .label = ခြွင်းချက်များ…
     .accesskey = x
@@ -749,3 +730,6 @@ certs-view =
 certs-devices =
     .label = လုံခြုံရေး ကိရိယာများ...
     .accesskey = D
+
+## The following strings are used in the Download section of settings
+
