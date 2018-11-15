@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Dopusti
 permissions-capabilities-listitem-block =
     .value = Blokiraj
+permissions-capabilities-listitem-allow-first-party =
+    .value = Dopusti samo od prve strane
 permissions-capabilities-listitem-allow-session =
     .value = Dopusti za sesiju
 
