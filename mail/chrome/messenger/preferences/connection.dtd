@@ -50,3 +50,7 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL a HTTPS feletti DNS feloldásához">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Alapértelmezés használata">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "A">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Egyéni">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "E">
