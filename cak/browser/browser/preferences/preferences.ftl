@@ -856,6 +856,11 @@ space-alert-over-5gb-pref-button =
             [windows] K
            *[other] K
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } majun chik rupam nikanaj kan pa rujolom. Rik'in jub'a' man ütz ta yek'ut pe ri rupam Ajk'amaya'l ruxaq. Yatikïr ye'ayüj el ri taq tzij eyakon pa Taq Cha'oj > Ichinanem & Jikomal > Taq Kaxlanwey chuqa' Rutzij Ruxaq K'amaya'l.
+       *[other] { -brand-short-name } majun chik rupam nikanaj kan pa rujolom. Rik'in jub'a' man ütz ta yek'ut pe ri rupam Ajk'amaya'l ruxaq. Yatikïr ye'ayüj el ri taq tzij eyakon pa Taq Ajowab'äl > Ichinanem & Jikomal > Taq Kaxlanwey chuqa' Rutzij Ruxaq K'amaya'l.
+    }
 space-alert-under-5gb-ok-button =
     .label = ÜTZ, Wetaman chik
     .accesskey = T
@@ -864,4 +869,5 @@ space-alert-under-5gb-message = { -brand-short-name } tajin majun rupam nikanaj 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Kematz'ib'ab'äl
+downloads-folder-name = Taq qasanïk
 choose-download-folder-title = Ticha' yakwuj, ri xkeruyäk taq qasanïk:
