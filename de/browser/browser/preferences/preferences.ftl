@@ -844,3 +844,9 @@ certs-view =
 certs-devices =
     .label = Kryptographie-Module…
     .accesskey = K
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Desktop
+downloads-folder-name = Downloads
+choose-download-folder-title = Download-Ordner wählen:
