@@ -853,3 +853,8 @@ certs-view =
 certs-devices =
     .label = Bezpečnostné zariadenia…
     .accesskey = d
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = Pracovná plocha
+choose-download-folder-title = Vyberte priečinok pre prevzaté súbory:
