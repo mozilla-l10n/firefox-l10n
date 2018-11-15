@@ -647,8 +647,27 @@ certs-view =
 certs-devices =
     .label = सुरक्षा उपकरणहरू…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = अझै जान्नुहोस्
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] विकल्पहरू खोल्नुहोस्
+           *[other] प्राथमिकताहरू खोल्नुहोस्
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-under-5gb-ok-button =
+    .label = ठीक छ, थाहा पाएँ
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } लाई डिस्क स्पेसको कमि भईरहेको छ । वेबसाइट सामग्रीहरू ठीक नदेखिन सक्छन् । अझै राम्रो ब्राउजिङ्ग अनुभवको लागि डिस्क उपयोग अनुकूलन गर्न “अझै जान्नुहोस्” मा जानुहोस् ।
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = डेस्कटप
+downloads-folder-name = Downloads
 choose-download-folder-title = डाउनलोड फोल्डर रोज्नुहोस्:
