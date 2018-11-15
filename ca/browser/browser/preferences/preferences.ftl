@@ -842,6 +842,24 @@ certs-view =
 certs-devices =
     .label = Dispositius de seguretat…
     .accesskey = D
+space-alert-learn-more-button =
+    .label = Més informació
+    .accesskey = M
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Obre les opcions
+           *[other] Obre les preferències
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-under-5gb-ok-button =
+    .label = Entesos
+    .accesskey = n
+space-alert-under-5gb-message = El { -brand-short-name } s'està quedant sense espai de disc. És possible que el contingut dels llocs web no es mostri correctament. Vegeu «Més informació» per optimitzar l'ús de disc i millorar l'experiència de navegació.
 
 ## The following strings are used in the Download section of settings
 
