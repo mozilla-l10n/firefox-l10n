@@ -861,13 +861,13 @@ certs-devices =
     .label = Säkerhetsenheter…
     .accesskey = e
 space-alert-learn-more-button =
-    .label = Lär dig mer
+    .label = Läs mer
     .accesskey = L
 space-alert-over-5gb-pref-button =
     .label =
         { PLATFORM() ->
-            [windows] Öppna inställningarna
-           *[other] Öppna inställningarna
+            [windows] Öppna inställningar
+           *[other] Öppna inställningar
         }
     .accesskey =
         { PLATFORM() ->
@@ -881,7 +881,7 @@ space-alert-over-5gb-message =
     }
 space-alert-under-5gb-ok-button =
     .label = Ok, jag förstår
-    .accesskey = K
+    .accesskey = k
 space-alert-under-5gb-message = { -brand-short-name } håller på att få slut på diskutrymme. Webbplatsens innehåll kanske inte visas korrekt. Besök “Läs mer” för att optimera din diskanvändning för en bättre webbupplevelse.
 
 ## The following strings are used in the Download section of settings

@@ -47,9 +47,9 @@ permissions-capabilities-listitem-allow =
 permissions-capabilities-listitem-block =
     .value = Blockera
 permissions-capabilities-listitem-allow-first-party =
-    .value = Tillåt endast första part
+    .value = Tillåt endast första parten
 permissions-capabilities-listitem-allow-session =
-    .value = Tillåt för sessionen
+    .value = Tillåten för session
 
 ## Invalid Hostname Dialog
 
