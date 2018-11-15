@@ -6,6 +6,7 @@ password-not-set =
     .value = (לא נקבע)
 failed-pw-change = אין אפשרות לשנות את הססמה הראשית.
 incorrect-pw = לא הכנסת את הססמה הראשית הנוכחית הנכונה. אנא נסה שוב.
+pw-change-ok = הססמה הראשית שונתה בהצלחה.
 pw-empty-warning = ססמאות הדוא״ל והאתרים, נתוני הטפסים והמפתחות הפרטיים שלך המאוכסנים לא יהיו מוגנים.
 pw-erased-ok = הססמה הראשית שלך נמחקה. { pw-empty-warning }
 pw-not-wanted = אזהרה! בחרת שלא להשתמש בססמה ראשית. { pw-empty-warning }
