@@ -19,3 +19,5 @@ onboarding-start-browsing-button-label = Mulai Seumeulop
 onboarding-private-browsing-title = Seumeulop Rasia
 onboarding-screenshots-title = Deuneurop layeue
 onboarding-addons-title = Peungaya
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Peusa
