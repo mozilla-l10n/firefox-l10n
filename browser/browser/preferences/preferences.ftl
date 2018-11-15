@@ -525,6 +525,24 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = ម៉ាស៊ីន​មេ​កម្មវិធី​ឆ្លើយតប OCSP ត្រូវ​បញ្ជាក់​ភាព​ត្រឹមត្រូវ​នៃ​វិញ្ញាបនបត្រ​បច្ចុប្បន្ន
     .accesskey = Q
+space-alert-learn-more-button =
+    .label = ស្វែងយល់​បន្ថែម
+    .accesskey = L
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] បើក​ជម្រើស
+           *[other] បើក​ចំណូលចិត្ត
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-under-5gb-ok-button =
+    .label = យល់​ហើយ
+    .accesskey = K
+space-alert-under-5gb-message = { -brand-short-name } កំពុង​អស់​ទំហំ​ផ្ទុក​ទំនេរ។ មាតិកា​គេហទំព័រ​​អាច​មិន​បង្ហាញ​បាន​ត្រឹមត្រូវ។ ចូល​មើល “ស្វែងយល់​បន្ថែម” ដើម្បី​ធ្វើ​ឲ្យ​ការ​ប្រើប្រាស់​ថាស​របស់​អ្នកប្រសើរ​ឡើង​សម្រាប់​បទពិសោធន៍​រកមើល​​ប្រសើរ​ជាង​មុន។
 
 ## The following strings are used in the Download section of settings
 
