@@ -797,6 +797,23 @@ certs-view =
 certs-devices =
     .label = Periferics de seguretat…
     .accesskey = P
+space-alert-learn-more-button =
+    .label = Ne saber mai
+    .accesskey = S
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Dobrir las opcions
+           *[other] Dobrir las preferéncias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] D
+        }
+space-alert-under-5gb-ok-button =
+    .label = Òc, plan comprés
+    .accesskey = O
 
 ## The following strings are used in the Download section of settings
 
