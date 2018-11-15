@@ -46,6 +46,8 @@ permissions-capabilities-listitem-allow =
     .value = Caniatáu
 permissions-capabilities-listitem-block =
     .value = Rhwystro
+permissions-capabilities-listitem-allow-first-party =
+    .value = Caniatáu'r parti cyntaf yn unig
 permissions-capabilities-listitem-allow-session =
     .value = Caniatáu ar gyfer y Sesiwn
 
