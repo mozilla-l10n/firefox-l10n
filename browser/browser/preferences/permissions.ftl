@@ -44,6 +44,8 @@ permissions-capabilities-prompt =
     .label = ఎల్లప్పుడూ అడుగు
 permissions-capabilities-listitem-allow-first-party =
     .value = మొదటి పార్టీ మాత్రమే అనుమతించు
+permissions-capabilities-listitem-allow-session =
+    .value = సెషనుకి అనుమతించు
 
 ## Invalid Hostname Dialog
 
