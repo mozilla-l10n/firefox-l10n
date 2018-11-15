@@ -826,3 +826,7 @@ certs-view =
 certs-devices =
     .label = อุปกรณ์ความปลอดภัย…
     .accesskey = ค
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = เดสก์ท็อป
