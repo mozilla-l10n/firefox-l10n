@@ -6,6 +6,7 @@ password-not-set =
     .value = (no definida)
 failed-pw-change = No es pot canviar la contrasenya mestra.
 incorrect-pw = No heu introduït la contrasenya mestra actual correctament. Torneu-ho a provar.
+pw-change-ok = La contrasenya mestra s'ha canviat correctament.
 pw-empty-warning = Les vostres contrasenyes de web i de correu electrònic, les dades dels formularis i les claus privades emmagatzemades no es protegiran.
 pw-erased-ok = Heu suprimit la vostra contrasenya mestra. { pw-empty-warning }
 pw-not-wanted = Avís! Heu decidit no utilitzar una contrasenya mestra. { pw-empty-warning }
