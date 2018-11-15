@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Bloker
 permissions-capabilities-prompt =
     .label = Spørg altid
+permissions-capabilities-listitem-allow =
+    .value = Tillad
+permissions-capabilities-listitem-block =
+    .value = Bloker
+permissions-capabilities-listitem-allow-session =
+    .value = Tillad for session
 
 ## Invalid Hostname Dialog
 
@@ -54,7 +60,6 @@ permissions-exceptions-tracking-protection-window =
     .title = Undtagelser - beskyttelse mod sporing
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Du har deaktiveret beskyttelse mod sporing på disse websteder.
-
 permissions-exceptions-content-blocking-window =
     .title = Undtagelser - blokering af indhold
     .style = { permissions-window.style }
@@ -89,11 +94,6 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = Du kan angive hvilke websteder der må installere tilføjelser. Indtast den præcise adresse på det websted, du vil tillade at installere tilføjelser og klik derefter på Tillad.
 
 ## Exceptions - Autoplay Media
-
-permissions-exceptions-autoplay-media-window =
-    .title = Tilladte websteder - automatisk afspilning
-    .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc = Du kan angive, hvilke websteder der har lov til automatisk at afspille medie-elementer. Indtast adressen på det websted, du vil give tilladelse, og klik så på Tillad.
 
 permissions-exceptions-autoplay-media-window2 =
     .title = Undtagelser - automatisk afspilning
