@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Cuir bacadh air
 permissions-capabilities-prompt =
     .label = Faighnich dhìom an-còmhnaidh
+permissions-capabilities-listitem-allow =
+    .value = Ceadaich
+permissions-capabilities-listitem-block =
+    .value = Cuir bacadh air
+permissions-capabilities-listitem-allow-session =
+    .value = Ceadaich fad an t-seisein
 
 ## Invalid Hostname Dialog
 
