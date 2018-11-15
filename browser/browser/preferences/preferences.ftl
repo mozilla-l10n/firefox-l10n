@@ -256,10 +256,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = भ्रमण कएलसँ
-sitedata-accept-third-party-never-option =
-    .label = कखनो नहि
 sitedata-cookies-exceptions =
     .label = अपवाद...
     .accesskey = E
@@ -307,3 +303,9 @@ certs-header = प्रमाणपत्र
 certs-enable-ocsp =
     .label = OCSP रेस्पांडर सर्वर कए प्रश्न करू जाहि स प्रमाणपत्रक मोजुदा वैधताक पुष्टि भए सकय (Q)
     .accesskey = Q
+
+## The following strings are used in the Download section of settings
+
+desktop-folder-name = डेस्कटाप
+downloads-folder-name = डाउनलोड
+choose-download-folder-title = डाउनलोड फोल्डर चुनू:
