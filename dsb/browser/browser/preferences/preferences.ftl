@@ -866,6 +866,24 @@ certs-view =
 certs-devices =
     .label = Wěstotne rědy…
     .accesskey = t
+space-alert-learn-more-button =
+    .label = Dalšne informacije
+    .accesskey = D
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Nastajenja wócyniś
+           *[other] Nastajenja wócyniś
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] N
+           *[other] N
+        }
+space-alert-under-5gb-ok-button =
+    .label = W pórěźe, som zrozměł
+    .accesskey = z
+space-alert-under-5gb-message = { -brand-short-name } njama wěcej dosć składowańskego ruma. Wopśimjeśe websedła se snaź korektnje njezwobraznijo. Móžośo na “Dalšne informacije” kliknuś, aby swój składowe wužyśe za lěpše pśeglědowańske dožywjenje opiměrował.
 
 ## The following strings are used in the Download section of settings
 
