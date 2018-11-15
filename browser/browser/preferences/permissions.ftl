@@ -44,6 +44,12 @@ permissions-capabilities-prompt =
     .label = ถามเสมอ
 permissions-capabilities-listitem-allow =
     .value = อนุญาต
+permissions-capabilities-listitem-block =
+    .value = ปิดกั้น
+permissions-capabilities-listitem-allow-first-party =
+    .value = อนุญาตจากบุคคลที่หนึ่งเท่านั้น
+permissions-capabilities-listitem-allow-session =
+    .value = อนุญาตในวาระ
 
 ## Invalid Hostname Dialog
 
