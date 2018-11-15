@@ -42,6 +42,10 @@ permissions-capabilities-block =
     .label = Забраняване
 permissions-capabilities-prompt =
     .label = Винаги да пита
+permissions-capabilities-listitem-allow =
+    .value = Разрешаване
+permissions-capabilities-listitem-allow-session =
+    .value = Разрешаване за сесията
 
 ## Invalid Hostname Dialog
 
