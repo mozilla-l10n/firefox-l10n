@@ -874,6 +874,11 @@ space-alert-over-5gb-pref-button =
             [windows] O
            *[other] A
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } es fluente foras de spatio de disco. Le contentos del sito web non pote monstrar se correctemente. Tu pote clarar datos immagazinate in Optiones > Confidentialitate & Securitate > Cookies e Datos de sito.
+       *[other] { -brand-short-name } es fluente foras de spatio de disco. Le contentos del sito web non pote monstrar se correctemente. Tu pote clarar datos immagazinate in Preferentias > Confidentialitate & Securitate > Cookies e Datos de sito.
+    }
 space-alert-under-5gb-ok-button =
     .label = De accordo
     .accesskey = D
