@@ -872,6 +872,24 @@ certs-view =
 certs-devices =
     .label = Dyfeisiau Diogelwch…
     .accesskey = y
+space-alert-learn-more-button =
+    .label = Dysgu Rhagor
+    .accesskey = D
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Dewisiadau Agor
+           *[other] Dewisiadau Agored
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] g
+           *[other] A
+        }
+space-alert-under-5gb-ok-button =
+    .label = Iawn
+    .accesskey = I
+space-alert-under-5gb-message = Mae { -brand-short-name } yn brin o le ar ddisg. Efallai na fydd cynnwys gwefan yn cael ei ddangos yn iawn. Ewch i “Learn More” i wella'r defnydd o'r disg ar gyfer gwell profiad pori.
 
 ## The following strings are used in the Download section of settings
 
