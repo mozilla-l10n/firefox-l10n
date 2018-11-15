@@ -42,6 +42,12 @@ permissions-capabilities-block =
     .label = Blokker
 permissions-capabilities-prompt =
     .label = Spør alltid
+permissions-capabilities-listitem-allow =
+    .value = Tillat
+permissions-capabilities-listitem-block =
+    .value = Blokker
+permissions-capabilities-listitem-allow-session =
+    .value = Tillat for programøkten
 
 ## Invalid Hostname Dialog
 
