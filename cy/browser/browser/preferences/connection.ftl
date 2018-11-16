@@ -73,6 +73,12 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL ar gyfer datrys DNS dros HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Defnyddiwch y rhagosodedig ({ $url })
+    .accesskey = D
+    .tooltiptext = Defnyddiwch yr URL rhagosodedig ar gyfer datrys DNS dros HTTPS
 connection-dns-over-https-url-custom =
     .label = Cyfaddas
     .accesskey = C
