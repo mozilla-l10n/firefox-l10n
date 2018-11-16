@@ -88,3 +88,6 @@
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ena huutoroo teknolojii kiiɗtuɗo kadi beeɓɗo janngol. Ena weeɓana janyano saaktude humpito ngo cikkataa ena hisi. Maa jiiloowo oo feewnita sarworde ndee hade maa waawde yillaade lowre ndee.</p><p>Dokkol juumre: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Hello Daaƴaango">
+
+<!ENTITY networkProtocolError.title "Juumre portokol laylaytol">
+<!ENTITY networkProtocolError.longDesc "<p>Hello ngo njiloto-ɗaa ɗisde ngoo waawaa ɗiseede sibu juumre kewii nder portokol laylaytol hee.</p><ul><li>Jokkondir e joom lowre ndee ngam humpitde ɗum ndee saɗre.</li></ul>">
