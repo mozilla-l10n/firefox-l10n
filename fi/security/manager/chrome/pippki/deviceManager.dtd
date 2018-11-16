@@ -8,7 +8,7 @@
      to make window contents fit. -->
 <!ENTITY devmgr.style2                          "width: 67em; height: 32em;">
 
-<!ENTITY devmgr.devlist.label                   "Turvallisuusmoduulit ja laitteet">
+<!ENTITY devmgr.devlist.label                   "Turvallisuusmoduulit ja -laitteet">
 <!ENTITY devmgr.details.title                   "Yksityiskohdat">
 <!ENTITY devmgr.details.title2                  "Arvo">
 
