@@ -12,7 +12,6 @@
 <!ENTITY aboutTelemetry.optionGroupToday "Ass-a">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Iḍelli">
 <!ENTITY aboutTelemetry.optionGroupOlder "Iqbuṛen">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "   Payload">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -24,6 +23,8 @@
 <!ENTITY aboutTelemetry.firefoxDataDoc "<a>Tisemlit n isefka Firefox</a> tegber imniren γef amek ad nseqdec s ifecka n isefka.">
 <!ENTITY aboutTelemetry.telemetryClientDoc "<a>Tisemlit n umsaγ tilisγelt</a>tegber tabadut yef tiktiwin, API tisemlit akked isefka ittwamlen.">
 <!ENTITY aboutTelemetry.telemetryDashboard "<a>Tafelwit n tilisγelt</a> ad k-tsireg akken ad twaliḍ isefka ittwaznen i Mozilla s ttawil n tilispyelt.">
+
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "<a>Amawal n usenqed</a> ittmuddu-d talqayt akked uglam i isenqaden id-telqeḍ tilisɣelt.">
 
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Ldi deg umeskan JSON">
 
@@ -37,9 +38,7 @@
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Imazrudlifen s wawalen n tsura">
 <!ENTITY aboutTelemetry.eventsSection "  Tidyanin">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Iktazalen iḥerfiyen">
-<!ENTITY aboutTelemetry.telemetryLogSection "  Aɣmis n tilisɣelt">
 <!ENTITY aboutTelemetry.slowSqlSection "  Tuţriwin SQL tiẓayanin">
-<!ENTITY aboutTelemetry.chromeHangsSection "  Asewḥel n iminig">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Aglam leqqayen n izegrar">
 <!ENTITY aboutTelemetry.capturedStacksSection "   Tinebdanin ittwaṭfen">
 <!ENTITY aboutTelemetry.lateWritesSection "Tira tineggura">
