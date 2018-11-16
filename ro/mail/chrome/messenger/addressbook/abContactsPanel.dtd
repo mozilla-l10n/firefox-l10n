@@ -9,10 +9,10 @@
 <!ENTITY abPropertiesMenu.accesskey         "i">
 <!ENTITY contactPropertiesMenu.label        "Proprietățile contactului">
 <!ENTITY contactPropertiesMenu.accesskey    "i">
-<!ENTITY mailingListPropertiesMenu.label    "Proprietățile listei de e-mail">
+<!ENTITY mailingListPropertiesMenu.label    "Proprietățile listei de adrese">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
-<!ENTITY abContextMenuButton.tooltip        "Arată meniul contextual pentru agenda de contacte">
+<!ENTITY abContextMenuButton.tooltip        "Afișează meniul contextual pentru agenda de contacte">
 <!ENTITY addressbookPicker.label            "Agendă de contacte:">
 <!ENTITY addressbookPicker.accesskey        "A">
 <!ENTITY searchContacts.label               "Căutare în contacte:">

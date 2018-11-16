@@ -13,7 +13,7 @@
 <!ENTITY locationEditField.label "Locație imagine:">
 <!ENTITY locationEditField.accessKey "L">
 <!ENTITY locationEditField.tooltip "Tastează numele fișierului sau locația imaginii">
-<!ENTITY locationEditField.shortenedDataURI "Datele URI prescurtate (copierea va plasa întregul URI în clipboard)">
+<!ENTITY locationEditField.shortenedDataURI "Date URI prescurtate (copierea va plasa întregul URI în clipboard)">
 <!ENTITY title.label "Indiciu:">
 <!ENTITY title.accessKey "d">
 <!ENTITY title.tooltip "Atributul HTML „title”, care se afișează ca indicație rapidă (tooltip)">
