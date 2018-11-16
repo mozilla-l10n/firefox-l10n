@@ -292,9 +292,11 @@
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference
      Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "Tɨɨn">
 
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference. -->
 
