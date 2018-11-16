@@ -50,3 +50,5 @@
 <!ENTITY  dnsOverHttpsUrl.label         "Adresa URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "URL pre DNS cez HTTPS">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Vlastná">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
