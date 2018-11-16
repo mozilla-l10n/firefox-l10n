@@ -104,7 +104,7 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.title "Conexiunea nu este securizată">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește tehnologie de securitate învechită și vulnerabilă la atac. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai a fi în siguranță. Administratorul site-ului web va trebui să repare serverul înainte de a putea vizita site-ul.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește tehnologie de securitate depășită și vulnerabilă la atacuri. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai în siguranță. Administratorul site-ului web va trebui să repare mai întâi serverul înainte să poți intra pe site.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagină blocată">
 
