@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "برو عقب">
 <!ENTITY returnToPreviousPage1.label "بازگشت (توصیه شده)">
 <!ENTITY advanced.label "پیشرفته">
-
 <!ENTITY continue2.label "بیشتر…">
 <!ENTITY moreInformation.label "اطلاعات بیشتر">
+
+<!ENTITY viewCertificate.label "نمایش گواهی">
 
 <!-- Specific error messages -->
 
@@ -89,10 +90,12 @@
 
 <!ENTITY certerror.longpagetitle1 "اتصال شما امن نیست">
 <!ENTITY certerror.longpagetitle2 "هشدار: خطر امنیتی نهفته در پیش است">
+<!ENTITY certerror.sts.longpagetitle  "متصل نشد: مشکل امنیتی بالقوه">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "مالک <span class='hostname'/> سایت خود را به گونه‌ای نادرست پیکربندی کرده‌ است.  جهت محافظت از دزدیده شدن اطلاعات شما، &brandShortName; به این سایت متصل نشده است.">
+
 
 
 
@@ -111,7 +114,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "افزودن استثنا…">
-
 <!ENTITY securityOverride.exceptionButton1Label "پذیرش خطر و ادامه">
 
 <!ENTITY errorReporting.automatic2 "خطاهایی مانند این را گزارش کنید تا به موزیلا برای شناسایی و مسدود کردن سایت‌های مخرب کمک کنید.">
@@ -147,3 +149,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "به نظر می‌رسد تنظیمات امنیتی شبکه شما ممکن است باعث این شده باشند. آیا می‌خواهید که تنظیمات پیش‌فرض دوباره تنظیم شوند؟">
 <!ENTITY prefReset.label "بازگردانی تنظیمات پیش‌فرض">
+
+<!ENTITY networkProtocolError.title "خطای پروتکل شبکه">

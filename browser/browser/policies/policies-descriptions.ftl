@@ -19,4 +19,5 @@ policy-DisableAppUpdate = جلوگیری از به روز رسانی مرورگ�
 policy-DisableBuiltinPDFViewer = غیرفعال کردن PDF.js، نمایشگر داخلی PDF در { -brand-short-name }.
 policy-DisableDeveloperTools = دسترسی به ابزارهای توسعه‌دهندگان را مسدود کنید.
 policy-DisableFormHistory = جستجو وتاریخچه فرم را به خاطر نسپار.
+policy-DNSOverHTTPS = پیکربندی DNS بر روی HTTPS.
 policy-Proxy = پیکربندی تنظیمات پروکسی
