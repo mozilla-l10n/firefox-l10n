@@ -17,24 +17,24 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Niciun cont configurat încă">
-<!ENTITY accountManager.noAccount.description "Dă clic pe butonul &accountManager.newAccount.label; pentru a lăsa &brandShortName; să te ghideze prin procesul configurării unui cont.">
+<!ENTITY accountManager.noAccount.description "Dă click pe butonul &accountManager.newAccount.label; pentru a-l lăsa pe &brandShortName; să te ghideze prin procesul configurării unui cont.">
 <!ENTITY account.autoSignOn.label     "Autentificare la pornire">
 <!ENTITY account.autoSignOn.accesskey "S">
-<!ENTITY account.connect.label        "Conectează">
+<!ENTITY account.connect.label        "Conectare">
 <!ENTITY account.connect.accesskey    "o">
-<!ENTITY account.disconnect.label     "Deconectează">
+<!ENTITY account.disconnect.label     "Deconectare">
 <!ENTITY account.disconnect.accesskey "i">
 <!ENTITY account.delete.label         "Șterge">
 <!ENTITY account.delete.accesskey     "D">
 <!ENTITY account.edit.label           "Proprietăți">
 <!ENTITY account.edit.accesskey       "P">
-<!ENTITY account.moveup.label         "Mută în sus">
-<!ENTITY account.movedown.label       "Mută în jos">
+<!ENTITY account.moveup.label         "Mutare în sus">
+<!ENTITY account.movedown.label       "Mutare în jos">
 <!ENTITY account.cancelReconnection.label         "Anulează reconectarea">
 <!ENTITY account.cancelReconnection.accesskey     "A">
-<!ENTITY account.copyDebugLog.label     "Copiază jurnalul de depanare">
+<!ENTITY account.copyDebugLog.label     "Copiază diagnosticarea">
 <!ENTITY account.copyDebugLog.accesskey "C">
-<!ENTITY account.showDebugLog.label     "Afișează jurnalul de depanare">
+<!ENTITY account.showDebugLog.label     "Arată diagnosticarea">
 <!ENTITY account.showDebugLog.accesskey "H">
 <!ENTITY account.connecting           "Se conectează…">
 <!ENTITY account.disconnecting        "Se deconectează…">
