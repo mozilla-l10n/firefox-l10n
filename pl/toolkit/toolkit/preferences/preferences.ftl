@@ -18,6 +18,7 @@ pw-remove-button =
 set-password =
     .title = Zmień hasło główne
 set-password-new-password = Wprowadź nowe hasło:
+set-password-reenter-password = Wprowadź hasło ponownie:
 set-password-meter = Miernik jakości hasła
 set-password-meter-loading = Wczytywanie
 master-password-warning = Hasło główne należy zapamiętać. Jeśli je zapomnisz, stracisz dostęp do wszystkich informacji nim chronionych.
