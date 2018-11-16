@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL pentru rezolvarea DNS prin HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Folosește URL-ul implicit ({ $url })
+    .accesskey = U
+    .tooltiptext = Folosește URL-ul implicit pentru a rezolva DNS prin HTTPS
+connection-dns-over-https-url-custom =
+    .label = Personalizat
+    .accesskey = C
+    .tooltiptext = Introdu URL-ul preferat pentru a rezolva DNS prin HTTPS
