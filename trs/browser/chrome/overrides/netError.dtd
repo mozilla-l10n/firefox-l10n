@@ -136,8 +136,16 @@ was trying to connect. -->
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Sa hua a'nan' nan ni riña sîtio 'iaj si guruhuaj, ni nitaj nùhuin si ga'ue gi'iô' da nahuin man. Natà' na'anj riña sû' nikaj ñun'unj sitiô dan rayi'î sa hua dan.</p>">
 
+<!ENTITY sharedLongDesc "<ul>
+  <li>Hua chruj riña sitiô nan asi giyichin' man si 'iaj sun man 'ngo diû. narì' nukuaj ñû
+    akuan' nïn.</li>
+  <li>Sisi na'ue nayi'nïn ngà' si 'ngo pâjina, ni'iaj si hua
+    koneksiûn.</li>
+  <li>Sisi hua rán rayi'î si aga't 'iaj proxi, ni'iaj sisi
+    nan &brandShortName; ga'nïn gatut riña Web.</li> </ul>">
 
 <!ENTITY cspBlocked.title "'Ngo narán aga' na riña sitiô na yi'ì sa mà riñaj">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; Nu ga'nïn da' nayi'nïn página na dadin' hua sa ma riñaj ni ga'ue si sa yi'ìi huin nej ma.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Gire'ej dadin' sa nun riñan hua a'nan'">
 
