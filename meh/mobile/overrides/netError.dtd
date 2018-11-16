@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>Ni´i ka̱a̱ kumi noo´o jee ntu taji sá´á xeen noo´o. Iin ñɨvɨ sa̱naan xituvi información yɨ´ɨ va´a. Ñɨvɨ nani administrador nuu web ya´a nejika kune´yá naa íyo ya´a a kuvi sukuan saa kuvi kivɨ noo´o.</p><p>Código sá´á error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "Ntivɨ protocolo de red">
+<!ENTITY networkProtocolError.longDesc "<p>Nuu kuvinu kivunɨ, ntu tuvi jííe íyo iin ntivɨ protocolo red.</p><ul><li>Ka´an nuu ñɨvu kumi web ya´a saa kunidaja tixin ya´a.</li></ul>">
