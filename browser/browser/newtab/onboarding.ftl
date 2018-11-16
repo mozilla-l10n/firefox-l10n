@@ -7,6 +7,8 @@
 
 onboarding-button-label-try-now = ఇప్పుడే ప్రయత్నించండి
 onboarding-button-label-get-started = మొదలుపెట్టండి
+onboarding-welcome-header = { -brand-short-name }కు స్వాగతం
+onboarding-start-browsing-button-label = విహరించడం మొదలుపెట్టండి
 
 ## These strings belong to the individual onboarding messages.
 

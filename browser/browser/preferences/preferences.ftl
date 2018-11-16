@@ -632,6 +632,7 @@ content-blocking-tracking-protection-option-always =
 content-blocking-tracking-protection-option-private =
     .label = అంతరంగిక కిటికీలలో మాత్రమే
     .accesskey = p
+content-blocking-tracking-protection-change-block-list = నిరోధపు జాబితాను మార్చు
 content-blocking-third-party-cookies-label =
     .label = మూడవ-పక్ష కుకీలు
     .accesskey = C
