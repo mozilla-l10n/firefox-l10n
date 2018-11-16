@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Utilizează un cont de mail existent">
+<!ENTITY autoconfigWizard2.title         "Configurează un cont de e-mail existent">
 <!ENTITY name.label                      "Numele tău:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.placeholder                "Prenume Nume">
@@ -10,8 +10,8 @@
 <!ENTITY email.label                     "Adresa de e-mail:">
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
-<!ENTITY email2.placeholder              "tu@example.com">
-<!ENTITY email.text                      "Adresa de e-mail existentă">
+<!ENTITY email2.placeholder              "tu@exemplu.com">
+<!ENTITY email.text                      "Adresa ta de e-mail">
 <!ENTITY password.label                  "Parola:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Parolă">
@@ -55,7 +55,7 @@
 <!ENTITY half-manual-test.accesskey      "T">
 <!ENTITY manual-edit.label               "Configurează manual">
 <!ENTITY manual-edit.accesskey           "m">
-<!ENTITY open-provisioner.label          "Obține o nouă adresă de e-mail…">
+<!ENTITY open-provisioner.label          "Obține o adresă de e-mail nouă…">
 <!ENTITY open-provisioner.accesskey      "O">
 
 

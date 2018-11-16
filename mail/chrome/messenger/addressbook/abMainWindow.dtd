@@ -83,7 +83,7 @@
 <!ENTITY abPropertiesMenu.accesskey                     "i">
 <!ENTITY contactPropertiesMenu.label                    "Proprietățile contactului">
 <!ENTITY contactPropertiesMenu.accesskey                "i">
-<!ENTITY mailingListPropertiesMenu.label                "Proprietățile listei de e-mail">
+<!ENTITY mailingListPropertiesMenu.label                "Proprietățile listei de adrese">
 <!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
@@ -169,7 +169,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editPropertiesButton.tooltip                   "Editează elementul selectat">
 <!ENTITY editAbPropertiesButton.tooltip                 "Editează proprietățile agendei de contacte selectată">
 <!ENTITY editContactPropertiesButton.tooltip            "Editează contactul selectat">
-<!ENTITY editMailingListPropertiesButton.tooltip        "Editează lista de mail selectată">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Editează lista de adrese selectată">
 <!ENTITY newmsgButton.tooltip                           "Trimite un mesaj e-mail">
 <!ENTITY newIM.tooltip                                  "Trimite un mesaj instantaneu sau conversează prin chat">
 <!ENTITY deleteButton2.tooltip                          "Șterge elementul selectat">
