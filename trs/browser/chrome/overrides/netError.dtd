@@ -148,6 +148,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; Nu ga'nïn da' nayi'nïn página na dadin' hua sa ma riñaj ni ga'ue si sa yi'ìi huin nej ma.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Gire'ej dadin' sa nun riñan hua a'nan'">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Pajinâ ruhuât ni'iajt ni na'ue guruguì'ij dadin' nari'ij 'ngo sa a'ui' riña nej dâto.</p><ul><li>Gi'iaj 'ngo sununj un ni natà' na'anj riña nej duguî' 'nïnj ra'a sitiô nan da' nahui man.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Nitaj ama na'nìn' na ma...">
@@ -167,6 +168,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; nu gi'iaj konektando ngà <span id='wrongSystemTime_URL'/> dadin' nitaj si hua hue'ê hora 'na' riña si aga't yi'î dan na'ue ga hue'ê koneksiûn.</p> <p>Si aga't hua yugui guendâ <span id='wrongSystemTime_systemDate'/>, ngà da'ui gaj dàj rû' hua <span id='wrongSystemTime_actualDate'/>. Da' nahuin sa hua a'nan' nan ni nachru hue'ê diû ni hôra riña man.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; nu gi'iaj konektando ngà <span id='wrongSystemTimeWithoutReference_URL'/> dadin' nitaj si hua hue'ê hora 'na' riña si aga't yi'î dan na'ue ga hue'ê koneksiûn.</p> <p>Si aga't hua yugui guendâ <span id='wrongSystemTimeWithoutReference_systemDate'/>. Da' nahuin sa hua a'nan' nan ni nachru hue'ê diû ni hôra riña man.</p>">
 
 <!ENTITY certerror.pagetitle1  "Konexiôn nitaj si gua yitinj">
 <!ENTITY certerror.pagetitle2  "Gadadut: Nū 'ngò yi'ì nukuaj">
