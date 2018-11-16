@@ -20,4 +20,4 @@
 <!ENTITY editContactPanelDone.label "Terminat">
 <!ENTITY editContactPanelDone.accesskey "D">
 
-<!ENTITY contactMoveDisabledWarning.description "Nu poți schimba agenda de contacte fiindcă contactul e într-o listă de discuții prin e-mail.">
+<!ENTITY contactMoveDisabledWarning.description "Nu poți schimba agenda de contacte deoarece contactul este pe o listă de adrese.">
