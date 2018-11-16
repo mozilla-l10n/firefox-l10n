@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Upozorniť pri zatváraní viacerých kariet
     .accesskey = o
+warn-on-quit-close-multiple-tabs =
+    .label = Upozorniť pri ukončovaní prehliadača a zatváraní viacerých kariet
+    .accesskey = p
 warn-on-open-many-tabs =
     .label = Upozorniť, ak by otvorenie viacerých kariet spôsobilo spomalenie aplikácie { -brand-short-name }
     .accesskey = U
@@ -291,6 +294,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Automaticky aktualizovať vyhľadávacie moduly
     .accesskey = e
+update-pref-write-failure-title = Chyba pri zápise
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Nepodarilo sa nám uložiť nastavenie. Nebolo možné zapísať údaje do súboru { $path }
 
 ## General Section - Performance
 
@@ -608,6 +615,9 @@ sitedata-keep-until-expire =
     .label = vypršania platnosti
 sitedata-keep-until-closed =
     .label = ukončenia aplikácie { -brand-short-name }
+sitedata-delete-on-close =
+    .label = Odstrániť cookies a údaje stránok pri zatvorení aplikácie { -brand-short-name }
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Ukladať cookies a údaje stránok
     .accesskey = U
@@ -882,3 +892,7 @@ space-alert-under-5gb-message = Aplikácii { -brand-short-name } dochádza miest
 desktop-folder-name = Pracovná plocha
 downloads-folder-name = Prevzaté súbory
 choose-download-folder-title = Vyberte priečinok pre prevzaté súbory:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Uložiť súbory na { $service-name }
