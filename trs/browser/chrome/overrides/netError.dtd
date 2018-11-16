@@ -126,8 +126,11 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; nari'ij 'ngo sa yi'ìi ni nu gan'an riña <span class='hostname'/>. Hua a'nan' riña sîtio asi si horât nitaj si nùn hue'ê.">
 <!ENTITY certerror.expiredCert.secondPara2 "Si guruhuaj ni ngà gisîj si diû sertifikâdo, yi'ì dan na'ue ga'nïn riña &brandShortName; guendâ gi'iaj sun hue'ej. Si gatut hiuj nan ruhuât nïn, ga'ue gi'iaj tu nej si nuguan' hua rayi'ît, si da'nga' huìt, si korreôt asi da'nga' araj sunt ngà nakaj nu sà' san'anj an riña.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Si guruhuaj ni ngà gisîj si diû si sertifikadô web, yi'ì dan na'ue ga'nïn riña &brandShortName; gi'iaj konektandoj da' dugumij sò'.">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Nùhuin si ga'ue gi'iát.">
 
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Sitiô web 'iaj danj hua sa hua nan, nitaj nùhuin si ga'ue gi'iát da' nagi'iát man.</p><p>Sisi hua 'ngo antivirus arja sunt, da'uît ga'mint ngà sa nikaj ñu'unj da' ga'ue ruguñun'unj nej si sò'. Ga'ue natà' rayi'î sa hua nan riña duguî' nikaj ñu'unj sitiô nan.</p>">
 
 
 
