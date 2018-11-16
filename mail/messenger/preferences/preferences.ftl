@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = a
 confirm-messenger-language-change-description = Ak chcete použiť tieto zmeny, reštartujte { -brand-short-name }
 confirm-messenger-language-change-button = Použiť a reštartovať
+update-pref-write-failure-title = Chyba pri zápise
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Nepodarilo sa nám uložiť nastavenie. Nebolo možné zapísať údaje do súboru { $path }

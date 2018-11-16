@@ -22,6 +22,8 @@
 <!ENTITY size.accesskey                       "e">
 <!ENTITY fontSize.label                       "Veľkosť:">
 <!ENTITY fontSize.accesskey                   "s">
+<!ENTITY useReaderDefaults.label              "Použiť predvolené farby">
+<!ENTITY useReaderDefaults.accesskey          "d">
 <!ENTITY fontColor.label                      "Farba textu:">
 <!ENTITY fontColor.accesskey                  "F">
 <!ENTITY bgColor.label                        "Farba pozadia:">
