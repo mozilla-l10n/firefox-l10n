@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Reentin am so tabbe keewɗe ine uddidee
     .accesskey = k
+warn-on-quit-close-multiple-tabs =
+    .label = Tintinde ma so a yaltii a uddii tabbe keewɗe
+    .accesskey = t
 warn-on-open-many-tabs =
     .label = Reentin am so udditgol tabbe keewɗe ena keɓori leeltinde { -brand-short-name }
     .accesskey = d
@@ -288,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Kesɗitingol ajaaja jiylorɗe
     .accesskey = l
+update-pref-write-failure-title = Gallugol binndol
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Daɗndugol cuɓaaɗe aaɓnotaako. Binndol aaɓnotaako nder fiilde:{ $path }
 
 ## General Section - Performance
 
