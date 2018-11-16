@@ -10,4 +10,5 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-DisablePrivateBrowsing = అంతరంగిక విహరణను అచేతనించు.
 policy-DisableTelemetry = టెలిమెట్రీని ఆపివేయి.
