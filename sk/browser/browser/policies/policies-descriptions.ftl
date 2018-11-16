@@ -17,6 +17,7 @@ policy-BlockAboutProfiles = Zablokuje prístup na stránku about:profiles.
 policy-BlockAboutSupport = Zablokuje prístup na stránku about:support.
 policy-Cookies = Povolí alebo zakáže webovým stránkam nastavovať cookies.
 policy-DisableAppUpdate = Zabráni aktualizáciám prehliadača.
+policy-DisableBuiltinPDFViewer = Zablokuje PDF prehliadač PDF.js zabudovaný v aplikácii { -brand-short-name }.
 policy-DisableDeveloperTools = Zablokuje prístup k vývojárskym nástrojom
 policy-DisableFirefoxAccounts = Vypne funkcie súvisiace s účtom { -fxaccount-brand-name }, vrátane synchronizácie.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -40,3 +41,6 @@ policy-InstallAddonsPermission = Povolí určitým webovým stránkam inštalova
 policy-Permissions = Nastaví povolenia pre kameru, mikrofón, polohu a upozornenia.
 policy-PopupBlocking = Povolí určitým webovým stránkam zobrazovať v predvolenom nastavení vyskakovacie okná.
 policy-Proxy = Nakonfiguruje nastavenia proxy.
+# “format” refers to the format used for the value of this policy. See also:
+# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+policy-WebsiteFilter = Zablokuje prístup na určité webové stránky. Ďalšie informácie o formáte nájdete v dokumentácii.

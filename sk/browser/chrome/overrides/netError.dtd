@@ -10,9 +10,10 @@
 <!ENTITY returnToPreviousPage.label "Prejsť naspäť">
 <!ENTITY returnToPreviousPage1.label "Prejsť naspäť (odporúča sa)">
 <!ENTITY advanced.label "Rozšírené">
-
 <!ENTITY continue2.label "Viac…">
 <!ENTITY moreInformation.label "Ďalšie informácie">
+
+<!ENTITY viewCertificate.label "Zobraziť certifikát">
 
 <!-- Specific error messages -->
 
@@ -151,10 +152,11 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Vlastník stránky <span class='hostname'/> nakonfiguroval svoju stránku nesprávne.  Kvôli ochrane vašich údajov pred odcudzením blokuje &brandShortName; pripojenie k tejto webovej stránke.">
-
 <!ENTITY certerror.introPara2 "Aplikácia &brandShortName; rozpoznala potenciálne bezpečnostné riziko a stránku <span class='hostname'/> nenačítala. Ak sa napriek tomu rozhodnete danú stránku navštíviť, útočníci sa môžu pokúsiť odcudziť vaše informácie, ako napríklad heslá, e-mailové adresy alebo údaje o platobných kartách.">
 
 <!ENTITY certerror.expiredCert.secondPara "Tento problém je pravdepodobne spôsobený chybným nastavením času na vašom počítači, ktoré bráni aplikácii &brandShortName; v nadviazaní zabezpečeného spojenia.">
+
+
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Čo s tým môžete urobiť?">
 
@@ -188,7 +190,6 @@ was trying to connect. -->
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Pridať výnimku…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Rozumiem riziku a chcem pokračovať">
 
 <!ENTITY errorReporting.automatic2 "Hlásiť chyby ako je táto a pomôcť tým organizácii Mozilla identifikovať a blokovať škodlivé stránky">
@@ -228,3 +229,6 @@ Výsledkom toho je, že pre tento certifikát nie je možné pridať výnimku.">
 
 <!ENTITY prefReset.longDesc "Zdá sa, že príčinou môžu byť vaše nastavenia zabezpečenia internetu. Chceli by ste obnoviť predvolené nastavenia?">
 <!ENTITY prefReset.label "Obnoviť predvolené nastavenia">
+
+<!ENTITY networkProtocolError.title "Chyba sieťového protokolu">
+<!ENTITY networkProtocolError.longDesc "<p>Stránka, ktorú sa pokúšate navštíviť nemôže byť zobrazená, pretože bola zistená chyba v sieťovom protokole.</p><ul><li>Kontaktujte, prosím, vlastníkov stránky a informujte ich o tomto probléme.</li></ul>">
