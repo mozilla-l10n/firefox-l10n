@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Limbi
-    .style = width: 32em
 webpage-languages-window =
     .title = Setări privind limba pe paginile web
     .style = width: 40em
@@ -45,7 +42,7 @@ browser-languages-window =
     .title = Setări de limbă { -brand-short-name }
     .style = width: 40em
 browser-languages-description = { -brand-short-name } va afișa limba implicită pe prima poziție și pe cele alternative, dacă este necesar, în ordinea în care apar.
-browser-languages-search = Caută limbi...
+browser-languages-search = Caută mai multe limbi...
 browser-languages-searching =
     .label = Se caută limbi...
 browser-languages-downloading =
