@@ -296,6 +296,13 @@
      Will be used in the context "<Turn on> ... to enable this feature" -->
 <!ENTITY pref_feature_tips_notification_enabling_hint "Aç">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(Bu seçimi aktivləşdirmək üçün &pref_feature_tips_notification_enabling_path; aktiv olmalıdır.)">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eksperimental özəlliklər">
@@ -898,13 +905,16 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Səyyah">
 <!ENTITY mls_notification_channel "&vendorShortName; Mövqe Xidməti">
 <!ENTITY download_notification_channel "Endirmələr">
 <!ENTITY media_notification_channel "Media oynatma">
-<!ENTITY media_notification_channel2 "Səs və video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; Push bildirişlər">
+<!ENTITY media_notification_channel2 "Səs və video">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; məsləhətlər və qısa həllər">
 <!ENTITY updater_notification_channel "Tətbiq yeniləmələri">
 <!ENTITY synced_tabs_notification_channel "Sinxronlaşdırılmış vərəqlər">
