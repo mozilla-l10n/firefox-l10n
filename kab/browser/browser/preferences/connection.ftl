@@ -76,7 +76,7 @@ connection-dns-over-https-url = URL
 # Variables:
 #   $url (String) - URL for the DNS over HTTPS provider
 connection-dns-over-https-url-default =
-    .label = Seqdec amezwer ($url)
+    .label = Seqdec amezwer ({ $url })
     .accesskey = S
     .tooltiptext = Seqdec URL amezwer i tifrat n DNS s HTTPS
 connection-dns-over-https-url-custom =
