@@ -132,7 +132,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Sitiô web 'iaj danj hua sa hua nan, nitaj nùhuin si ga'ue gi'iát da' nagi'iát man.</p><p>Sisi hua 'ngo antivirus arja sunt, da'uît ga'mint ngà sa nikaj ñu'unj da' ga'ue ruguñun'unj nej si sò'. Ga'ue natà' rayi'î sa hua nan riña duguî' nikaj ñu'unj sitiô nan.</p>">
 
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Si relô si agô' 'iaj sun guendâ <span id='wrongSystemTime_systemDate2'/>. Da'uît natsíj ni'iajt sisi nu hue'ê gui, ni hora riña si aga't, da' ga'ue nagi'iaj nakàt sa nu riñanj <span class='hostname'/>.</p><p>Sisi hua hue'ê diû ngà si relôt ni riña sîtio hua a'nan', ni nitaj nùhuin si gi'iô' da' ga'ue nahuin sa gahui a'nan' nan.</p>">
 
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Sa hua a'nan' nan ni riña sîtio 'iaj si guruhuaj, ni nitaj nùhuin si ga'ue gi'iô' da nahuin man. Natà' na'anj riña sû' nikaj ñun'unj sitiô dan rayi'î sa hua dan.</p>">
 
 
 <!ENTITY cspBlocked.title "'Ngo narán aga' na riña sitiô na yi'ì sa mà riñaj">
