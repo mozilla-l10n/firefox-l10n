@@ -606,6 +606,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Ngoại trừ…
     .accesskey = N
+# This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
+# in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
+# Cookies and Site Data section.
+sitedata-warning-your-settings-prevent-changes = Cài đặt chặn nội dung của bạn đang ngăn các thay đổi về cài đặt cookie và dữ liệu trang web.
 
 ## Privacy Section - Address Bar
 
@@ -628,6 +632,10 @@ content-blocking-learn-more = Tìm hiểu thêm
 content-blocking-restore-defaults =
     .label = Khôi phục về mặc định
     .accesskey = R
+content-blocking-toggle-on =
+    .tooltiptext = Tắt chặn nội dung
+content-blocking-toggle-off =
+    .tooltiptext = Bật chặn nội dung
 content-blocking-toggle-label-on = BẬT
     .accesskey = O
 content-blocking-toggle-label-off = TẮT
@@ -637,6 +645,9 @@ content-blocking-toggle-label-off = TẮT
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Trình truy dấu tác nhân tải chậm
+    .accesskey = T
+content-blocking-tracking-protection-trackers-label =
+    .label = Trình theo dõi
     .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Tất cả các trình theo dõi đã phát hiện
