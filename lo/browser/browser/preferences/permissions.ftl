@@ -62,6 +62,10 @@ permissions-exceptions-tracking-protection-window =
     .title = ຂໍ້ຍົກເວັ້ນ - ການປ້ອງກັນການຕິດຕາມ
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = ທ່ານໄດ້ປິດໃຊ້ງານການປ້ອງກັນການຕິດຕາມໃນເວັບໄຊເຫຼົ່ານີ້.
+permissions-exceptions-content-blocking-window =
+    .title = ຂໍ້ຍົກເວັ້ນ - ຕົວບັອກເນື້ອຫາ
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = ທ່ານໄດ້ປິດຕົວບັອກເນື້ອຫາໃນເວັບໄຊທເຫລົ່ານີ້
 
 ## Exceptions - Cookies
 

@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL ສຳລັບ resolving DNS over HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = ນຳໃຊ້ຄ່າເລີ່ມຕົ້ນ ({ $url })
+    .accesskey = U
+    .tooltiptext = ນຳໃຊ້ URL ຄ່າເລີມຕົ້ນສຳລັບການ resolve DNS ຜ່ານທາງ HTTPS
+connection-dns-over-https-url-custom =
+    .label = ປັບແຕ່ງ
+    .accesskey = C
+    .tooltiptext = ປ້ອນ URL ທີ່ທ່ານມັກສຳລັບການ resolve DNS ຜ່ານທາງ HTTPS

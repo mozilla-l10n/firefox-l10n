@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = ພາສາ
-    .style = width: 30em
 webpage-languages-window =
     .title = ການຕັ້ງຄ່າພາສາໜ້າເວັບ
     .style = width: 40em
@@ -45,3 +42,13 @@ browser-languages-window =
     .title = { -brand-short-name } ຕັ້ງຄ່າພາສາ
     .style = width: 40em
 browser-languages-description = { -brand-short-name } ຈະສະແດງພາສາທໍາອິດເປັນຄ່າເລີ່ມຕົ້ນຂອງທ່ານແລະຈະສະແດງພາສາອື່ນໆຖ້າຕ້ອງການໃນຄໍາສັ່ງທີ່ປາກົດ.
+browser-languages-search = ຊອກຫາພາສາອື່ນຕືມອີກ...
+browser-languages-searching =
+    .label = ກຳລັງຊອກຫາພາສາ...
+browser-languages-downloading =
+    .label = ກຳຫລັງດາວໂຫລດ…
+browser-languages-select-language =
+    .label = ເລືອກພາສາທີ່ຈະເພີ່ມ...
+    .placeholder = ເລືອກພາສາທີ່ຈະເພີ່ມ...
+browser-languages-installed-label = ພາສາທີ່ໄດ້ຕິດຕັ້ງແລ້ວ
+browser-languages-available-label = ພາສາທີ່ມີຢູ່

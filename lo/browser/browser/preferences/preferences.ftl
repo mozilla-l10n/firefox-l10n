@@ -60,6 +60,8 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } ຕ້ອງໄດ້ລີສະຕາດເພື່ອເປີດໃຊ້ feature ນີ້.
+feature-disable-requires-restart = { -brand-short-name } ຕ້ອງໄດ້ລີສະຕາດເພື່ອປິດໃຊ້ feature ນີ້.
 should-restart-title = ເລີ່ມເຮັດວຽກ { -brand-short-name } ໃຫມ່
 should-restart-ok = ເລີ່ມເຮັດວຽກ { -brand-short-name } ໃຫມ່ດຽວນີ້
 cancel-no-restart-button = ຍົກເລີກ
