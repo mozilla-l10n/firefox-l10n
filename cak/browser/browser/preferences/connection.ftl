@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL richin nisol DNS chuwäch HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Tokisäx ri k'o wi ({ $url })
+    .accesskey = T
+    .tooltiptext = Tawokisaj ri URL k'o wi richin nisol DNS rik'in HTTPS
+connection-dns-over-https-url-custom =
+    .label = Ichinan
+    .accesskey = I
+    .tooltiptext = Tatz'ib'aj ri ajowanel URL richin nisol DNS chi rij HTTPS
