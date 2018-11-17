@@ -22,12 +22,20 @@
 <!ENTITY account.autoSignOn.accesskey "p">
 <!ENTITY account.connect.label        "Sambungkan">
 <!ENTITY account.connect.accesskey    "o">
+<!ENTITY account.disconnect.label     "Putus">
+<!ENTITY account.disconnect.accesskey "i">
 <!ENTITY account.delete.label         "Hapus">
+<!ENTITY account.delete.accesskey     "S">
+<!ENTITY account.edit.label           "Keterangan">
+<!ENTITY account.edit.accesskey       "P">
 <!ENTITY account.moveup.label         "Geser ke atas">
 <!ENTITY account.movedown.label       "Geser ke bawah">
 <!ENTITY account.cancelReconnection.label         "Batalkan koneksi ulang">
+<!ENTITY account.cancelReconnection.accesskey     "A">
 <!ENTITY account.copyDebugLog.label     "Salin Log Debug">
+<!ENTITY account.copyDebugLog.accesskey "e">
 <!ENTITY account.showDebugLog.label     "Tampilkan Log Debug">
+<!ENTITY account.showDebugLog.accesskey "H">
 <!ENTITY account.connecting           "Menyambungkan…">
 <!ENTITY account.disconnecting        "Memutus…">
 <!ENTITY account.disconnected         "Tidak Terhubung">
