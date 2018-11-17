@@ -175,6 +175,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle2  "Gadadut: Nū 'ngò yi'ì nukuaj">
 <!ENTITY certerror.sts.pagetitle  "Nu ga'ue gida'aj: Siruaj ni hua ahī ma">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Sîtio arâj sun HTTP ûta dugumij sa aché nuu (HSTS) guendâ diganj &brandShortName; sisi ga nïn gaché nun' riñanj. sa huaa, si ga'ue gachrun' escepción riña sertifikadô nan.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> hua 'ngo sa dugumin ma gu'naj ma HTTP Strict Transport Security (HSTS), sa gata ruaj huin si &brandShortName; man 'nga na gi'iaj sunj. Si ga'ue ahuin si gataj gà gatut riña sitio na.">
 <!ENTITY certerror.copyToClipboard.label "Guyun' nej nuguan'">
 
 <!ENTITY inadequateSecurityError.title "Nitaj si gua hue'e si conexion re'">
