@@ -349,8 +349,16 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = បង្ហាញការណែនាំ​ស្វែងរកនៅក្នុងលទ្ធផលរបារអាសយដ្ឋាន
     .accesskey = I
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = បង្ហាញការណែនាំ​ស្វែងរកមុនប្រវត្តិការរុករកនៅក្នុងលទ្ធផល​លើ​របារអាសយដ្ឋាន
 search-suggestions-cant-show = សំណើ​ស្វែងរក​នឹង​​មិន​បង្ហាញ​នៅ​ក្នុង​លទ្ធផល​របារ​ទីតាំង​​ទេ ព្រោះ​អ្នក​បាន​កំណត់​រចនាសម្ព័ន្ធ { -brand-short-name } មិន​ដែល​ឲ្យ​ចងចាំ​ប្រវត្តិ។
 search-one-click-header = ម៉ាស៊ីន​ស្វែងរក​ចុច​តែ​ម្ដង
+search-one-click-desc = ជ្រើសរើស​ម៉ាស៊ីន​ស្វែងរក​ជំនួស​ដែល​បង្ហាញ​នៅ​ខាងក្រោម​របារអាសយដ្ឋាន និង​របារស្វែងរក​នៅ​ពេល​អ្នក​ចាប់ផ្តើម​បញ្ចូល​ពាក្យគន្លឹះ។
 search-choose-engine-column =
     .label = ម៉ាស៊ីន​ស្វែងរក
 search-choose-keyword-column =
@@ -361,6 +369,7 @@ search-restore-default =
 search-remove-engine =
     .label = យក​ចេញ...
     .accesskey = ញ
+search-find-more-link = រកម៉ាស៊ីនស្វែងរកបន្ថែម
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = ពាក្យ​គន្លឹះ​ស្ទួន
@@ -386,6 +395,11 @@ containers-remove-button =
 sync-signedout-caption = យក​បណ្ដាញ​របស់​អ្នក​ជាមួយ​អ្នក
 sync-signedout-description = ធ្វើ​សម​កាល​កម្ម​ចំណាំ​ ប្រវត្តិ ផ្ទាំង ពាក្យ​សម្ងាត់​ កម្មវិធី​ផ្នែក​បន្ថែម​ និង​ចំណូល​ចិត្ត​របស់​អ្នក​ ចំពោះ​គ្រប់​ឧបករណ៍​របស់​អ្នក។​
 sync-signedout-account-title = ភ្ជាប់​ជាមួយ​ { -fxaccount-brand-name }
+sync-signedout-account-create = មិនទាន់មានគណនី​មែនទេ? ចាប់ផ្តើម
+    .accesskey = c
+sync-signedout-account-signin =
+    .label = ចូល…
+    .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
