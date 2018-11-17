@@ -19,7 +19,7 @@
 <!ENTITY restorepage.close.access2   "N">
 
 <!ENTITY restorepage.restoreHeader  "ស្ដារ">
-<!ENTITY restorepage.listHeader     "បង្អួច និង​ផ្ទាំង">
+<!ENTITY restorepage.listHeader     "វីនដូ និង​ផ្ទាំង">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "បង្អួច &#37;S">
 
