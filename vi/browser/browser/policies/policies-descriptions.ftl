@@ -26,4 +26,5 @@ policy-DisableFeedbackCommands = Tắt các lệnh để gửi phản hồi từ
 policy-DisableFirefoxAccounts = Vô hiệu { -fxaccount-brand-name } dựa trên các dịch vụ, bao gồm cả Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Vô hiệu hóa tính năng chụp màn hình Firefox.
+policy-DisableFirefoxStudies = Chặn { -brand-short-name } chạy các nghiên cứu.
 policy-DisablePrivateBrowsing = Vô hiệu hóa Duyệt web riêng tư.
