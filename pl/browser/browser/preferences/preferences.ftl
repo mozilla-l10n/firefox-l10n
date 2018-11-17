@@ -702,3 +702,6 @@ space-alert-under-5gb-message=Zaczyna brakować miejsca na dysku dla programu { 
 desktop-folder-name=Pulpit
 downloads-folder-name=Pobrane
 choose-download-folder-title=Wybór folderu dla pobieranych plików
+
+save-files-to-cloud-storage=
+  .label=Wysyłanie plików do usługi „{ $service-name }”
