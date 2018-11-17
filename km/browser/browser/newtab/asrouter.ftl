@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = កុំ​ទាន់អាល
     .accesskey = ម
 cfr-doorhanger-extension-ok-button = បន្ថែម​ឥឡូវ
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = គ្រប់គ្រង​ការកំណត់​ការណែនាំ
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = កុំ​បង្ហាញ​ខ្ញុំ​អនុសាសន៍​នេះ
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = ស្វែងយល់​បន្ថែម
 # This string is used on a new line below the add-on name
 # Variables:

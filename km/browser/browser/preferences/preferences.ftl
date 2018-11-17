@@ -121,6 +121,9 @@ is-not-default = { -brand-short-name } វា​មិន​មែន​ជា�
 set-as-my-default-browser =
     .label = ដាក់​ជា​លំនាំ​ដើម
     .accesskey = D
+startup-restore-previous-session =
+    .label = ស្ដារ​សម័យ​មុន
+    .accesskey = s
 disable-extension =
     .label = បិទ​ផ្នែក​បន្ថែម
 tabs-group-header = ផ្ទាំង
@@ -132,6 +135,9 @@ open-new-link-as-tabs =
     .accesskey = w
 warn-on-close-multiple-tabs =
     .label = ព្រមាន​អ្នក​ពេល​បិទ​ផ្ទាំង​ច្រើន
+    .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = ព្រមាន​អ្នក​ពេល​ចាកចេញ និង​​បិទ​ផ្ទាំង​ច្រើន
     .accesskey = m
 warn-on-open-many-tabs =
     .label = ព្រមាន​អ្នក​ពេល​បើក​ផ្ទាំង​ច្រើន អាច​ធ្វើឲ្យ { -brand-short-name } យឺត
@@ -179,6 +185,7 @@ choose-language-description = ជ្រើស​ភាសា​ដែល​អ�
 choose-button =
     .label = ជ្រើស…
     .accesskey = ស
+confirm-browser-language-change-button = អនុវត្ត​និង​ចាប់ផ្តើម​ឡើង​វិញ
 translate-web-pages =
     .label = ​បកប្រែ​មាតិកា​បណ្ដាញ
     .accesskey = T
@@ -442,11 +449,14 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = រក្សា​ទុក
     .accesskey = v
+sync-mobilepromo-single = តភ្ជាប់ឧបករណ៍ផ្សេងទៀត
+sync-mobilepromo-multi = គ្រប់គ្រងឧបករណ៍
 sync-tos-link = លក្ខខ័ណ្ឌ​សេវាកម្ម
 sync-fxa-privacy-notice = គោលនយោបាយ​ឯកជន
 
 ## Privacy Section
 
+privacy-header = ឯកជនភាព​កម្មវិធី​រុករក​តាម​អ៊ីនធឺណិត
 
 ## Privacy Section - Forms
 
@@ -504,7 +514,12 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = ខូឃី និងទិន្នន័យ​គេហទំព័រ
+sitedata-total-size-calculating = កំពុងគណនាទិន្នន័យតំបន់បណ្តាញ និងទំហំឃ្លាំងសម្ងាត់…
 sitedata-learn-more = ស្វែងយល់​បន្ថែម
+sitedata-keep-until = រក្សាទុករហូតដល់
+    .accesskey = u
+sitedata-keep-until-closed =
+    .label = { -brand-short-name } ត្រូវបានបិទ
 sitedata-clear =
     .label = សម្អាតទិន្នន័យ...
     .accesskey = l
@@ -518,6 +533,10 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Address Bar
 
 addressbar-header = របារអាសយដ្ឋាន
+addressbar-suggest = នៅពេលប្រើប្រាស់​របារអាសយដ្ឋាន ណែនាំ
+addressbar-locbar-history-option =
+    .label = ប្រវត្តិការរុករក
+    .accesskey = h
 addressbar-locbar-bookmarks-option =
     .label = ចំណាំ
     .accesskey = k

@@ -11,6 +11,9 @@
 ## in the documentation section in about:policies.
 
 policy-Cookies = អនុញ្ញាត ឬបដិសេធវេបសាយដើម្បីកំណត់ខូគី។
+policy-DisableForgetButton = រារាំង​ការ​ចូល​ប្រើ​ប៊ូតុង​រំលង។
+policy-DisableFormHistory = មិន​ចងចាំ​ប្រវត្តិ​ស្វែងរក និង​សំណុំ​បែបបទ
+policy-DisableMasterPasswordCreation = ប្រសិន​បើ​ពិត​ពាក្យ​សម្ងាត់​មេ​មិន​អាច​បង្កើត​បានទេ។
 policy-DisablePrivateBrowsing = បិទដំណើររុករកឯកជន។
 policy-DisplayMenuBar = បង្ហាញរបារម៉ឺនុយតាមលំនាំដើម។
 policy-InstallAddonsPermission = អនុញ្ញាតគេហទំព័រជាក់លាក់ដើម្បីដំឡើងកម្មវិធីបន្ថែម។
