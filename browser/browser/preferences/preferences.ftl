@@ -322,6 +322,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Tìm kiếm văn bản khi bạn bắt đầu nhập
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Đề xuất tiện ích mở rộng khi duyệt
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = Xem thêm
 
 ## General Section - Proxy
@@ -524,6 +527,7 @@ privacy-header = Duyệt web riêng tư
 ## Privacy Section - Forms
 
 forms-header = Biểu mẫu & Mật khẩu
+logins-header = Đăng nhập & Mật khẩu
 forms-exceptions =
     .label = Ngoại trừ…
     .accesskey = r
