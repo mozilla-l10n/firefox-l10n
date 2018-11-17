@@ -96,6 +96,9 @@ extension-controlled-privacy-containers = Phần mở rộng, <img data-l10n-nam
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = Một phần mở rộng, <img data-l10n-name="icon"/> { $name }, đang kiểm soát việc chống theo dõi.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = Phần mở rộng, <img data-l10n-name="icon"/> { $name }, đang kiểm soát cài đặt này.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Một phần mở rộng, <img data-l10n-name="icon"/> { $name }, đang kiểm soát cách { -brand-short-name } kết nối internet.
@@ -135,6 +138,9 @@ is-not-default = { -brand-short-name } không phải là trình duyệt mặc đ
 set-as-my-default-browser =
     .label = Đặt làm mặc định…
     .accesskey = D
+startup-restore-previous-session =
+    .label = Khôi phục phiên làm việc trước
+    .accesskey = s
 disable-extension =
     .label = Tắt phần mở rộng
 tabs-group-header = Thẻ
@@ -146,6 +152,9 @@ open-new-link-as-tabs =
     .accesskey = w
 warn-on-close-multiple-tabs =
     .label = Cảnh báo bạn khi đóng nhiều thẻ một lúc
+    .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Cảnh báo khi bạn đóng nhiều thẻ cùng lúc
     .accesskey = m
 warn-on-open-many-tabs =
     .label = Cảnh báo bạn khi mở nhiều thẻ có thể làm chậm { -brand-short-name }
@@ -193,6 +202,10 @@ choose-language-description = Chọn ngôn ngữ ưu tiên bạn muốn để hi
 choose-button =
     .label = Chọn…
     .accesskey = C
+choose-browser-language-description = Chọn ngôn ngữ được sử dụng để hiển thị bảng chọn, tin nhắn và thông báo từ { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Đặt giải pháp thay thế…
+    .accesskey = I
 confirm-browser-language-change-description = Khởi động lại { -brand-short-name } để áp dụng các thay đổi này
 confirm-browser-language-change-button = Áp dụng và Khởi động lại
 translate-web-pages =
@@ -266,6 +279,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Tự động cập nhật công cụ tìm kiếm
     .accesskey = e
+update-pref-write-failure-title = Lỗi ghi
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Không thể lưu tùy chọn. Không thể ghi vào tệp: { $path }
 
 ## General Section - Performance
 
@@ -305,6 +322,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Tìm kiếm văn bản khi bạn bắt đầu nhập
     .accesskey = x
+browsing-cfr-recommendations-learn-more = Xem thêm
 
 ## General Section - Proxy
 
