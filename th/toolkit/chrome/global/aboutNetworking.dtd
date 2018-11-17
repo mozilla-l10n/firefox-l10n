@@ -39,7 +39,7 @@
 <!ENTITY aboutNetworking.startLogging          "เริ่มการบันทึก">
 <!ENTITY aboutNetworking.stopLogging           "หยุดการบันทึกล็อก">
 <!ENTITY aboutNetworking.dnsLookup             "DNS Lookup">
-<!ENTITY aboutNetworking.dnsLookupButton       "วิเคราะห์">
+<!ENTITY aboutNetworking.dnsLookupButton       "แปลงที่อยู่">
 <!ENTITY aboutNetworking.dnsDomain             "โดเมน">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
 <!ENTITY aboutNetworking.rcwn                  "สถิติ RCWN">

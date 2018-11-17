@@ -70,3 +70,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = เปิดใช้งาน DNS ผ่าน HTTPS
     .accesskey = ป
+connection-dns-over-https-url = URL
+    .accesskey = U
+    .tooltiptext = URL สำหรับแปลงที่อยู่ DNS ผ่าน HTTPS
