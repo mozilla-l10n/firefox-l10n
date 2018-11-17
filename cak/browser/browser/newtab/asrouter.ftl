@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Wakami Mani
     .accesskey = M
 cfr-doorhanger-extension-ok-button = Titz'aqatisäx Wakami
     .accesskey = T
+cfr-doorhanger-extension-manage-settings-button = Kenuk'samajïx taq Kinuk'ulem Chilab'enïk
+    .accesskey = K
+cfr-doorhanger-extension-never-show-recommendation = Man Tik'ut re Chilab'enïk re'
+    .accesskey = T
 cfr-doorhanger-extension-learn-more-link = Tetamäx ch'aqa' chik
 # This string is used on a new line below the add-on name
 # Variables:
