@@ -6,3 +6,6 @@
 active-policies-tab = Kích hoạt
 errors-tab = Lỗi
 documentation-tab = Tài liệu
+policy-name = Tên của chính sách
+policy-value = Giá trị của chính sách
+policy-errors = Lỗi chính sách

@@ -336,6 +336,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Cửa sổ và thẻ mới
+home-new-windows-tabs-description2 = Chọn những gì bạn thấy khi bạn mở trang chủ, cửa sổ mới và các thẻ mới.
 
 ## Home Section - Home Page Customization
 
