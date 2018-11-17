@@ -8,13 +8,7 @@
 <!ENTITY certmgr.tab.others2                  "လူထု">
 <!ENTITY certmgr.tab.websites3                "ဆာဗာများ">
 <!ENTITY certmgr.tab.ca                       "အာဏာပိုင်များ">
-<!ENTITY certmgr.tab.orphan2                  "အခြားအရာများ">
 
-<!ENTITY certmgr.mine                         "သင်ဖေါ်ထုတ်ထားတဲ့ ဒီအဖွဲ့အစည်းများဆီမှ လက်မှတ်များကို သင်ရရှိတယ် -">
-<!ENTITY certmgr.others                       "ဒီလူများကို ဖေါ်ထုတ်ထားတဲ့ ဖိုင်ဆီက လက်မှတ်များကို သင်ရရှိတယ် -">
-<!ENTITY certmgr.websites2                    "ဒီဆာဗားများကို ဖေါ်ထုတ်ထားတဲ့ ဖိုင်ဆီက လက်မှတ်များကို သင်ရရှိတယ် -">
-<!ENTITY certmgr.cas                          "ဒီလက်မှတ်ရ အာဏာပိုင်များကို ဖေါ်ထုတ်ထားတဲ့ ဖိုင်ဆီက လက်မှတ်များကို သင်ရရှိတယ် -">
-<!ENTITY certmgr.orphans                      "အခြား မျိုးကွဲများ တခုခုနဲ့ မကိုက်ညီတဲ့ ဖိုင်ဆီက လက်မှတ်များကို သင်ရရှိတယ် -">
 
 <!ENTITY certmgr.detail.general_tab.title     "Gအထွေထွေ">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -36,9 +30,8 @@
 
 <!ENTITY certmgr.editcacert.title             "CA လက်မှတ် စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ">
 <!ENTITY certmgr.editcert.edittrust           "စိတ်ချမှု အပြင်အဆင်များကို တည်းဖြတ်ပါ -">
-<!ENTITY certmgr.editcert.trustssl            "ယခုအသိအမှတ်ပြုလက်မှတ်သည် ဝတ်ဆိုဒ်များကို အတည်ပြုနိုင်သှ်">
+<!ENTITY certmgr.editcert.trustssl            "ယခုလက်မှတ်သည် ဝဘ်ဆိုက်များကို အတည်ပြုနိုင်သည်။">
 <!ENTITY certmgr.editcert.trustemail          "ဒီလက်မှတ်က အီးမေးလ် သုံးစွသူများကို ဖေါ်ထုတ်နိုင်တယ်။">
-<!ENTITY certmgr.editcert.trustobjsign        "ဒီလက်မှတ်က ကွန်ရက် စာမျက်နှာများကို ဖေါ်ထုတ်နိုင်တယ်။">
 
 <!ENTITY certmgr.deletecert.title             "လက်မှတ်ကို ဖျက်ရန်">
 
