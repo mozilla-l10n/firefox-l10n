@@ -27,3 +27,4 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Katok pa k'amaya'l aninäq, na'owinäq rub'anikil o yalan ütz kik'in taq tz'aqat achi'el Ghostery, ri nuya' q'ij chawe richin ye'aq'ät ri itzel taq rutzijol.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Tixim
+onboarding-fxa-text = Tatz'ib'aj awi' richin nik'oje' jun { -fxaccount-brand-name } chuqa' ke'axima' ri taq ayaketal, ewan taq tzij chuqa' jaqäl taq ruwi' akuchi' nawokisaj { -brand-short-name }.

@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Tiq'at okem pa ri about:profiles ruxaq.
 policy-BlockAboutSupport = Tiq'at okem pa ri about:support ruxaq.
 policy-Bookmarks = Ketz'uk taq yaketal pa ri Rukatz'ik yaketal. pa ri Ruk'utsamaj yaketal o pa jun kiyakwuj.
 policy-Certificates = Ye'okisäx o man ye'okisäx ta iqitzijib'äl etz'aqatisan pa cholajil. Re na'ojil re' xa xe pa ri Windows wakami.
+policy-CertificatesDescription = Ketz'aqatisäx taq iqitzijib'äl o ke'okisäx tz'aqatisan taq iqitzijib'äl.
 policy-Cookies = Niya' o man niya' ta q'ij chi ke ri ajk'amaya'l taq ruxaq richin nikijikib'a' taq kaxlanwäy.
 policy-DisableAppUpdate = Man tiya' q'ij richin nuk'ëx ri' ri okik'amaya'l.
 policy-DisableBuiltinPDFViewer = Tichup PDF.js, ri tz'etöy PDF pa { -brand-short-name }.
@@ -42,6 +43,7 @@ policy-DisableSystemAddonUpdate = Tichajïx chi ri okik'amaya'l keruyaka' chuqa'
 policy-DisableTelemetry = Tichup Telemetry.
 policy-DisplayBookmarksToolbar = Tik'ut ri Rukajtz'ik Samajib'äl achi'el k'o wi.
 policy-DisplayMenuBar = Tik'ut ri Rukajtz'ik K'utsamaj achi'el k'o wi.
+policy-DNSOverHTTPS = Tib'an runuk'ulem DNS chi rij HTTPS.
 policy-DontCheckDefaultBrowser = Tichup ri tojtob'äl okik'amaya'l k'o wi pa rutikirisaxik.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Titzij o tichup ri Kiq'atik Rupam chuqa' ticha' toq niq'at.
@@ -62,9 +64,12 @@ policy-OverridePostUpdatePage = Nayüj ri ruxaq "K'ak'a' taq tzijol" chi rij ri 
 policy-Permissions = Tib'an kinuk'ulem ya'oj taq q'ij kichin elesäy wachib'äl, q'asäy ch'ab'äl, k'ojlib'äl chuqa' taq rutzijol.
 policy-PopupBlocking = Tiya' q'ij chi jujun taq ajk'amaya'l ruxaq kekik'utu' elenel taq tzuwäch achi'el e k'o wi.
 policy-Proxy = Tib'an runuk'ulem ri proxi.
+policy-RequestedLocales = Tijikib'äx rucholajem k'utun taq rutzalq'omanem chokoy, cholajin chi ajowanïk.
 policy-SanitizeOnShutdown = Keyuj ronojel ri taq rutzij okem pa k'amaya'l toq nichup.
 policy-SearchBar = Tib'an runuk'ulem ri k'ojlib'äl k'o wi pa ri rukajtz'ik kanob'äl. Ri okisanel k'a nitikïr nrichinaj.
 policy-SearchEngines = Tib'an runuk'ulem ri kanob'äl. Re na'ojil re' xa xe okel pa ri ruwäch Extended Support Release (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Keyak PKCS #11 taq juperaj.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Tiq'at ri tz'etoj rik'in ajk'amaya'l ruxaq. Tatz'eta' ri ruwujil richin nawetamaj ch'aqa' chik rutzijoxik rub'anikil.
