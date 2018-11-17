@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "စာမျက်နှာ ဖွင့်လှစ်မှု အမှား">
 <!ENTITY retry.label "ထပ်ကြိုးစားပါ">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "ချိတ်ဆက်ဖို့ မအောင်မြင်ဘူး">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
@@ -80,9 +80,9 @@
 
 <!ENTITY nssBadCert.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>ဒါဟာ ဆာဗာ၏အပြင်အဆင် ပြဿနာ သို့မဟုတ် တစုံတယောက်က ဆာဗာကို အယောင်ဆောင်ဖို့ ကြိုးစားတာ​ ဖြစ်နိုင်သည်။ </li> <li>အရင်တုန်းက ဒီဆာဗာကို အောင်အောင် မြင်မြင် သင်ချိတ်ဆက်ခဲ့ဖူးလျှင်၊ ယာယီအမှား ဖြစ်နိုင်သည်၊ ထို့ကြောင့် နောင်တွင် ထပ်မံဆောင်ရွက်ကြည့်ပါ။</li> </ul>">
+
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-
 <!ENTITY sharedLongDesc3 "<ul> <li>ယခုဝက်ဆိုက်သည် လောလောဆယ် အလုပ်မလုပ် သို့ အရမ်းအလုပ်များနေခြင်း ကြောင့်ဖြစ်လိမ့်မည်။</li> <li>ခဏကြာလျှင် ပြန်ကြိုးစားပါ။ အလုပ်မလုပ်သေးပါက ဒေတာသို့ ဝိုင်ဖိုင် ချိတ်ဆက်မှုကို စစ်ဆေးပါ<button id='wifi'>ဝိုင်ဖိုင်ဖွင့်မည်</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "Content Security Policy အရပိတ်ပင်ထားသည်။">
@@ -94,11 +94,11 @@
 <!ENTITY securityOverride.linkText "သို့မဟုတ်ပါက သင်ခြွင်းချက်တစ်ခုထားနိုင်သည်">
 <!ENTITY securityOverride.getMeOutOfHereButton "ဒီနေရာမှ ကျွန်ပ်ကကို ဆွဲထုတ်ပါ။">
 <!ENTITY securityOverride.exceptionButtonLabel "ချွင်းချက် ထည့်သွင်းပါ...">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
@@ -119,3 +119,5 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>သည် အိုဟောင်းပြီး တိုက်ခိုက်ရန်လွယ်ကူသည့် လုံခြုံရေးနည်းပညာကို အသုံးပြုထားသည်။ တိုက်ခိုက်သူသည် သင်လုံခြုံသည်ဟုထင်သည့် အချက်အလက်များကို လွယ်ကူစွာ ဖော်ထုတ်နိုင်ပါလိမ့်မည်။ သင်လာရောက်မလည်ပတ်မီ ဝဘ်ဆိုဒ်စီမံခန့်ခွဲသူသည် ဆာဗာကို အရင်ဆုံး ပြုပြင်ဖြေရှင်းရန် လိုအပ်သည်။</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "ချိတ်ဆက်ခြင်း ပရိုတိုကော ပြသာနာ">
