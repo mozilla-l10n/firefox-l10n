@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "Trình báo lỗi">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "Định danh Báo cáo">
 <!ENTITY aboutSupport.crashes.sendDate "Đã gửi">
 <!ENTITY aboutSupport.crashes.allReports "Tất cả các báo cáo lỗi">
@@ -21,18 +21,17 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Phiên bản">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareTitle "Phần mềm bảo mật">
+<!ENTITY aboutSupport.securitySoftwareType "Loại">
+<!ENTITY aboutSupport.securitySoftwareName "Tên">
+<!ENTITY aboutSupport.securitySoftwareAntivirus "Trình chống vi-rút">
+<!ENTITY aboutSupport.securitySoftwareAntiSpyware "Trình chống phần mềm do thám">
+<!ENTITY aboutSupport.securitySoftwareFirewall "Tường lửa">
 
+<!ENTITY aboutSupport.featuresTitle "Tính năng &brandShortName;">
 <!ENTITY aboutSupport.featureName "Tên">
 <!ENTITY aboutSupport.featureVersion "Phiên bản">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "Các tính năng thử nghiệm">
-<!ENTITY aboutSupport.experimentName "Tên">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Mô tả">
-<!ENTITY aboutSupport.experimentActive "Đã bật">
-<!ENTITY aboutSupport.experimentEndDate "Ngày kết thúc">
-<!ENTITY aboutSupport.experimentHomepage "Trang chủ">
 
 <!ENTITY aboutSupport.appBasicsTitle "Cơ bản về ứng dụng">
 <!ENTITY aboutSupport.appBasicsName "Tên">
@@ -54,13 +53,17 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Phần bổ trợ Đã kích hoạt">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Cấu hình Bản xây dựng">
 <!ENTITY aboutSupport.appBasicsUserAgent "Chuỗi đại diện Người dùng">
+<!ENTITY aboutSupport.appBasicsOS "Hệ điều hành">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Sử dụng Bộ nhớ">
+<!ENTITY aboutSupport.appBasicsPerformance "Hiệu suất">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Các service worker đã đăng ký">
 
+<!ENTITY aboutSupport.appBasicsProfiles "Tiểu sử">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Các cửa sổ đa tiến trình">
+
 
 
 
@@ -116,7 +119,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "Các thiết bị đầu ra">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "Thiết bị đầu vào">
 <!ENTITY aboutSupport.mediaDeviceName "Tên">
 <!ENTITY aboutSupport.mediaDeviceGroup "Nhóm">
+<!ENTITY aboutSupport.mediaDeviceVendor "Nhà cung cấp">
+<!ENTITY aboutSupport.mediaDeviceState "Tình trạng">
+<!ENTITY aboutSupport.mediaDevicePreferred "Ưu tiên">
+<!ENTITY aboutSupport.mediaDeviceFormat "Định dạng">
 <!ENTITY aboutSupport.mediaDeviceChannels "Kênh">
+<!ENTITY aboutSupport.mediaDeviceRate "Tỉ lệ">
 
+<!ENTITY aboutSupport.intlAppTitle "Cài đặt ứng dụng">
