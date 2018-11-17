@@ -95,9 +95,19 @@ permissions-exceptions-addons-desc = អ្នក​អាច​បញ្ជា�
 permissions-site-notification-window =
     .title = ការកំណត់ - ការអនុញ្ញាតការជូនដំណឹង
     .style = { permissions-window.style }
+permissions-site-notification-desc = តំបន់បណ្ដាញខាងក្រោមនេះបានស្នើសុំផ្ញើការជូនដំណឹងដល់អ្នក ។ អ្នកអាចបញ្ជាក់តំបន់បណ្ដាញណាដែលត្រូវបានអនុញ្ញាតឲ្យផ្ញើការជូនដំណឹងដល់អ្នក ។ អ្នកក៏អាចរារាំងសំណើថ្មីដែលស្នើសុំអនុញ្ញាតការជូនដំណឹង ។
+permissions-site-notification-disable-label =
+    .label = ទប់ស្កាត់សំណើថ្មីដែលស្នើសុំឲ្យអនុញ្ញាតការជូនដំណឹង
+permissions-site-notification-disable-desc = វា​នឹងរារាំងតំបន់បណ្ដាញ​ទាំងឡាយ​ដែលមិនមានក្នុងបញ្ជីខាងលើនេះមិនឲ្យស្នើសុំការអនុញ្ញាតដើម្បីផ្ញើការជូនដំណឹង។ ការទប់ស្កាត់​ការជូនដំណឹងអាចធ្វើឲ្យ​មុខងារ​របស់​តំបន់បណ្ដាញមួយចំនួនមិនអាចប្រើបាន។
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = ការកំណត់ - ការអនុញ្ញាតទីតាំង
+    .style = { permissions-window.style }
+permissions-site-location-desc = គេហទំព័រ​ខាងក្រោមនេះបានស្នើសុំដើម្បីចូលប្រើទីតាំងរបស់អ្នក។ អ្នកអាចបញ្ជាក់​គេហទំព័រ​ណាដែលត្រូវបានអនុញ្ញាតឲ្យចូលប្រើទីតាំងរបស់អ្នក។ អ្នកក៏អាចរារាំងសំណើថ្មីដែលស្នើសុំដើម្បីចូលប្រើទីតាំងរបស់អ្នក។
+permissions-site-location-disable-label =
+    .label = ទប់ស្កាត់សំណើថ្មីដែលស្នើសុំឲ្យចូលប្រើទីតាំងរបស់អ្នក
 
 ## Site Permissions - Camera
 
