@@ -21,7 +21,7 @@
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 <!ENTITY canvasDebuggerUI.emptyNotice1    "คลิกที่">
-<!ENTITY canvasDebuggerUI.emptyNotice2    "ปุ่มเพื่อบันทึกสแตกการเรียกของเฟรมภาพเคลื่อนไหว">
+<!ENTITY canvasDebuggerUI.emptyNotice2    "ปุ่มเพื่ออัดบันทึกสแตกการเรียกของเฟรมภาพเคลื่อนไหว">
 
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
