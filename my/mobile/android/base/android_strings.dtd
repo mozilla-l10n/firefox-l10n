@@ -190,7 +190,7 @@
 <!ENTITY pref_category_vendor_summary2 "&brandShortName; အကြောင်း၊ အမေးများဆုံးပြဿနာများ၊ တုံ့ပြန်ချက်">
 <!ENTITY pref_category_datareporting "ဒေတာ အမျိုးအစား">
 <!ENTITY pref_category_logins "ဝင်ရောက်မှုများ">
-<!ENTITY pref_learn_more "ဆက်လေ့လာပါ">
+<!ENTITY pref_learn_more "ပိုမိုသိရှိရန်">
 <!ENTITY pref_category_installed_search_engines "တပ်ဆင်ထားသော ရှာဖွေရေးဝန်ဆောင်မှုများ">
 <!ENTITY pref_category_add_search_providers "ရှာဖွေရေးဝန်ဆောင်မှု ထပ်ထည့်ပါ">
 <!ENTITY pref_category_search_restore_defaults "ရှာဖွေရေး အင်ဂျင် ပြန်တပ်ပြီး">
@@ -201,7 +201,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "အကြံပြုချက်။ ။မည်သည့် ဝဘ်ဆိုဒ်ကိုမဆို သင်၏ ရှာဖွေမှုဝန်ဆောင်သူအဖြစ် သုံးရန် ရှာဖွေဖောင်အား လက်ဖြင့်ထိပြီး &formatI; အိုင်ကွန်ကို နှိပ်ပါ။">
+<!ENTITY pref_search_hint2 "အကြံပြုချက်။ ။ ရှာဖွေရေး လိပ်စာဘားတန်းထဲတွင် ကြာကြာဖိထားပြီး &formatI; အိုင်ကွန်တွင် ထိခြင်းအားဖြင့် မည်သည့်ဝဘ်ဆိုက်ကိုမဆို သင်၏ ရှာဖွေရေးဝန်ဆောင်မှုများ စာရင်းထဲသို့ ထည့်နိုင်သည်။">
 <!ENTITY pref_category_advanced "အဆင့်မြင့်">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -215,8 +215,8 @@
 <!ENTITY pref_remember_signons2 "ဝင်ရောက်မှုများကို မှတ်ထားပါ">
 <!ENTITY pref_manage_logins "ဝင်ရောက်မှုများကို စီမံရန်">
 
-<!ENTITY pref_category_home "ပင်မ">
-<!ENTITY pref_category_home_summary "သင်၏ပင်မမျက်နှာစာကို ပြင်ပါ">
+<!ENTITY pref_category_home "မူလ">
+<!ENTITY pref_category_home_summary "သင်၏ အဖွင့်စာမျက်နှာကို စိတ်ကြိုက်ပြုပြင်ပါ">
 <!ENTITY pref_category_home_panels "အကွက်များ">
 <!ENTITY pref_category_home_add_ons "အတ်အွန်များ">
 <!ENTITY pref_home_updates2 "အကြောင်းအရာ ပြုပြင်မွမ်းမံချက်များ">
@@ -298,8 +298,10 @@
 
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
 <!-- Localization note (pref_feature_tips_notification_enabling_hint):
      Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(ယခုအပြင်အဆင်ကို လုပ်ဆောင်စေရန်၊ &pref_feature_tips_notification_enabling_path; ကို ဖွင့်ထားပြီး ဖြစ်ရမည်။)">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -511,7 +513,7 @@
 <!ENTITY contextmenu_open_private_tab "တစ်ကိုယ်ရေသုံးတပ်ဗ်ဖွင့်">
 <!ENTITY contextmenu_remove "ဖယ်ရှားပါ">
 <!ENTITY contextmenu_add_page_shortcut "စာမျက်နှာအမြန်ဖွင့်ခလုတ် ထည့်ပါ">
-<!ENTITY contextmenu_set_as_homepage "ပင်မစာမျက်နှာအဖြစ် သတ်မှတ်ပါ">
+<!ENTITY contextmenu_set_as_homepage "အဖွင့်စာမျက်နှာအဖြစ် သတ်မှတ်ပါ">
 <!ENTITY contextmenu_share "မျှ​ဝေရန်">
 <!ENTITY contextmenu_pasteandgo "ကူးထားပြီးနောက်သွားမည်။">
 <!ENTITY contextmenu_paste "ပွားပါ">
@@ -520,8 +522,8 @@
 <!ENTITY contextmenu_subscribe "ဒီစာမျက်နှာမှာ စာရင်းသွင်းပါ">
 <!ENTITY contextmenu_site_settings "ဝဘ်ဆိုက်ဆိုင်ရာအပြင်အဆင်များကို ပြင်ရန်">
 <!ENTITY contextmenu_top_sites_edit "တည်းဖြတ်">
-<!ENTITY contextmenu_top_sites_pin "ဆိုဒ်ကို တွယ်ချိတ်ပါ">
-<!ENTITY contextmenu_top_sites_unpin "ဆိုဒ်ကို တွယ်ချိတ်မှုကနေ ဖြုတ်ပါ">
+<!ENTITY contextmenu_top_sites_pin "ဝဘ်ဆိုက်ကို ဘရောင်ဇာတွင် တွယ်ချိတ်ပါ">
+<!ENTITY contextmenu_top_sites_unpin "ဝဘ်ဆိုက်ကို တွယ်ချိတ်ထားခြင်းမှ ဖြုတ်ပါ">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
@@ -862,7 +864,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_bookmarked "စာမှတ်ထားသော">
+<!ENTITY activity_stream_highlight_label_bookmarked "မှတ်ထားသည်">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "ကြည့်ရှုထားသော">
@@ -905,12 +907,15 @@ Picture-in-picture mini window -->
 <!ENTITY default_notification_channel "&brandShortName;">
 
 <!-- Notification channels names -->
+<!ENTITY default_notification_channel2 "ဘရောက်ဇာ">
 <!ENTITY mls_notification_channel "&vendorShortName; Location Service">
 <!ENTITY download_notification_channel "ဆွဲယူထားသည့်ဖိုင်များ">
 <!ENTITY media_notification_channel "မီဒီယာဖွင့်ခြင်း">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; တွန်းပို့အသိပေးချက်များ">
+<!ENTITY media_notification_channel2 "အသံနှင့်ဗီဒီယို">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; အကြံပေးချက်များနှင့်လှည့်ကွက်">
 <!ENTITY updater_notification_channel "အက်ပ်နောက်ဆုံးရမွမ်းမံချက်">
 <!ENTITY synced_tabs_notification_channel "တစ်ပြေးညီပြုလုပ်ထားသော တပ်ဗ်များ">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
