@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Soillsich na h-uile
     .accesskey = l
     .tooltiptext = Soillsich gach làthair na h-abairt seo
+findbar-highlight-all2 =
+    .label = Soillsich na h-uile
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = Soillsich gach ionstans dhen abairt
 findbar-case-sensitive =
     .label = Aire do litrichean mòra is beaga
     .accesskey = c
