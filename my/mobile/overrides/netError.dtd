@@ -121,3 +121,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>သည် အိုဟောင်းပြီး တိုက်ခိုက်ရန်လွယ်ကူသည့် လုံခြုံရေးနည်းပညာကို အသုံးပြုထားသည်။ တိုက်ခိုက်သူသည် သင်လုံခြုံသည်ဟုထင်သည့် အချက်အလက်များကို လွယ်ကူစွာ ဖော်ထုတ်နိုင်ပါလိမ့်မည်။ သင်လာရောက်မလည်ပတ်မီ ဝဘ်ဆိုဒ်စီမံခန့်ခွဲသူသည် ဆာဗာကို အရင်ဆုံး ပြုပြင်ဖြေရှင်းရန် လိုအပ်သည်။</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY networkProtocolError.title "ချိတ်ဆက်ခြင်း ပရိုတိုကော ပြသာနာ">
+<!ENTITY networkProtocolError.longDesc "<p>ချိတ်ဆက်မှုပရိုတိုကော တွင် ပြသာနာ တစ်ခုရှိသောကြောင့် ယခု ဝတ်ဘ်စာမျက်နှာအားဖွင့်မရပါ</p><ul><li>ကျေးဇူးပြုပြီး ဆိုက်ထိန်းသိမ်းသူများအား ပြသာနာတင်ပြပေးပါ</li></ul>">
