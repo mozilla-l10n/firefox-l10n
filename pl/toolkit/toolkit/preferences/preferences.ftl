@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 password-not-set=
-    .value=(nie ustawione)
+    .value=(nieustawione)
 failed-pw-change=Nie można zmienić hasła głównego.
 incorrect-pw=Nie podano właściwego hasła głównego. Proszę spróbować ponownie.
 pw-change-ok=Hasło główne zostało zmienione.
