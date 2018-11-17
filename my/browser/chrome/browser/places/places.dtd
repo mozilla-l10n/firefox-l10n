@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "ဖွဲ့စည်းပါ">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "သင်၏ဝတ်စာမျက်နှာအမှတ်များကိုစုစည်းပါ။">
+<!ENTITY organize.tooltip      "စာမှတ်များကို စုစည်းပါ">
 
 <!ENTITY file.close.label               "ပိတ်ပါ ">
 <!ENTITY file.close.accesskey           "C">
@@ -88,7 +88,7 @@
 
 <!ENTITY maintenance.label      "တင်သွင်းပြီး အရန်သင့် သိမ်းဆည်းပါ">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "သင်၏မှတ်သားဝတ်စာမျက်နှာများအားတင်သွင်းပြီးသိမ်ဆည်းထားမည်။">
+<!ENTITY maintenance.tooltip    "သင့်စာမှတ်များကို တင်သွင်းပြီး သိမ်းဆည်းပါ">
 
 <!ENTITY backButton.tooltip  "ပြန်ဆုတ်ပါ">
 
