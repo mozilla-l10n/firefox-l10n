@@ -653,7 +653,7 @@
 <!ENTITY home_unpinned_site "ဖြုတ်ထားသော ဆိုက်">
 
 <!ENTITY remote_tabs_panel_moved_title "တပ်ဗ်တွေဘယ်မှာလဲ?">
-<!ENTITY remote_tabs_panel_moved_desc "သင်၏ အခြားဖုန်းမှ တပ်ဗ်များကို လွယ်လွယ်ကူကူ သုံးစွဲနိုင်ရန် သင့်ပင်မစာမျက်နှာရှိ ရင်ပြင်တစ်ခုပေါ်သို့ ပို့ပေးလိုက်သည်။">
+<!ENTITY remote_tabs_panel_moved_desc "သင်၏ အခြားဖုန်းမှ တပ်ဗ်များကို အလွယ်တကူ အသုံးပြုနိုင်ရန် အဖွင့်စာမျက်နှာရှိ Panel ပေါ်သို့ ပို့ပေးထားသည်။">
 <!ENTITY remote_tabs_panel_moved_link "ရင်ပြင်အသစ်သို့ ပို့ပေးပါ">
 
 <!ENTITY pin_site_dialog_hint "ရှာဖွေရေးစာလုံး ထည့်ပါ">
