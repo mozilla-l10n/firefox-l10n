@@ -78,9 +78,13 @@ permissions-exceptions-popup-desc = អ្នក​អាច​បញ្ជា�
 permissions-exceptions-saved-logins-window =
     .title = ការ​លើកលែង - ការ​ចូល​បាន​រក្សាទុក
     .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = ការចូលសម្រាប់គេហទំព័រខាងក្រោមនឹងមិនត្រូវបានរក្សាទុកទេ
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = តំបន់បណ្ដាញដែលបានអនុញ្ញាត - ការដំឡើងកម្មវិធីបន្ថែម
+    .style = { permissions-window.style }
 permissions-exceptions-addons-desc = អ្នក​អាច​បញ្ជាក់​តំបន់បណ្ដាញ​ណាមួយ​ដែល​អនុញ្ញាត​ឲ្យ​ដំឡើង​កម្មវិធី​បន្ថែម ។ វាយ​អាសយដ្ឋាន​ជាក់លាក់​របស់​តំបន់បណ្ដាញ​ដែល​អ្នក​ចង់​អនុញ្ញាត បន្ទាប់មក ចុច​អនុញ្ញាត ។
 
 ## Exceptions - Autoplay Media
@@ -88,6 +92,9 @@ permissions-exceptions-addons-desc = អ្នក​អាច​បញ្ជា�
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = ការកំណត់ - ការអនុញ្ញាតការជូនដំណឹង
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
