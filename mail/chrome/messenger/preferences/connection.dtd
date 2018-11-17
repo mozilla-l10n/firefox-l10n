@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "An URL airson DNS air HTTPS fhuasgladh">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Cleachd aʼ bhun-roghainn">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Cleachd an URL bunaiteach airson DNS air HTTPS fhuasgladh">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Gnàthaichte">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Cuir a-steach an URL as fhearr leat airson DNS air HTTPS fhuasgladh">
