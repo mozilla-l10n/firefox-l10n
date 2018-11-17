@@ -62,6 +62,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Taq man relik ta - Chajinïk chuwäch Ojqanïk
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Xe'achüp ri Chajinïk chuwäch Ojqanïk pa re taq ruxaq ajk'amaya'l re'.
+permissions-exceptions-content-blocking-window =
+    .title = Taq man relik ta - Kiq'atik Rupam
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Xachüp ri ruq'atik Rupam pa re ajk'amaya'l ruxaq re'.
 
 ## Exceptions - Cookies
 

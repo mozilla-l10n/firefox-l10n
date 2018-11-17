@@ -53,6 +53,7 @@ pane-sync-title = Rub'i' rutaqoya'l Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Ruto'ik { -brand-short-name } Temeb'äl
+addons-button-label = Taq k'amal & taq Wachinel
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,9 @@ extension-controlled-homepage-override = Jun k'amal, <img data-l10n-name="icon"/
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Jun k'amal, <img data-l10n-name="icon"/> { $name }, ruchajin ri ruxaq K'ak'a' Ruwi'.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Jun k'amal, <img data-l10n-name="icon"/> { $name }, nuchajij re nuk'ulem re'.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Jun k'amal, <img data-l10n-name="icon"/> { $name }, xujäl ri kanob'äl ruk'amon pe.
@@ -149,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Taya' pe rutzijol we xketz'apitäj jalajöj taq ruwi'
     .accesskey = j
+warn-on-quit-close-multiple-tabs =
+    .label = Tiya' rutzijol toq nel o yetz'apïx k'ïy taq ruwi'
+    .accesskey = k
 warn-on-open-many-tabs =
     .label = Taya' pe rutzijol we { -brand-short-name } yalan eqal xtisamäj toq xkerujäq k'ïy taq ruwi'
     .accesskey = e
@@ -284,6 +291,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = Pa yonil k'exoj chuqa' ruk'wayöl kanob'äl
     .accesskey = x
+update-pref-write-failure-title = Rusachoj Tz'ib'anïk
 
 ## General Section - Performance
 
