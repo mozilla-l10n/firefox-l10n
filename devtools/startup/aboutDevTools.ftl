@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 head-title = เกี่ยวกับเครื่องมือนักพัฒนา
+enable-inspect-element-title = เปิดใช้งานเครื่องมือนักพัฒนา Firefox เพื่อใช้การตรวจสอบองค์ประกอบ
 enable-learn-more-link = เรียนรู้เพิ่มเติมเกี่ยวกับเครื่องมือนักพัฒนา
 enable-enable-button = เปิดใช้งานเครื่องมือนักพัฒนา
 enable-close-button = ปิดแท็บนี้

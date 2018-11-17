@@ -1116,7 +1116,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "การดำเนินการจะ:">
+<!ENTITY panicButton.view.mainActionDesc          "การดำเนินการต่อจะ:">
 <!ENTITY panicButton.view.deleteCookies           "ลบ<html:strong>คุกกี้</html:strong>ล่าสุด">
 <!ENTITY panicButton.view.deleteHistory           "ลบ<html:strong>ประวัติ</html:strong>ล่าสุด">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "ปิด<html:strong>แท็บ</html:strong>และ<html:strong>หน้าต่าง</html:strong>ทั้งหมด">
