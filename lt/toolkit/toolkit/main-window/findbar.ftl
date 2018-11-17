@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Viską paryškinti
     .accesskey = V
     .tooltiptext = Paryškinti visus radinius
+findbar-highlight-all2 =
+    .label = Viską paryškinti
+    .accesskey =
+        { PLATFORM() ->
+            [macos] l
+           *[other] a
+        }
+    .tooltiptext = Paryškinti visus radinius
 findbar-case-sensitive =
     .label = Skirti raidžių registrą
     .accesskey = k
