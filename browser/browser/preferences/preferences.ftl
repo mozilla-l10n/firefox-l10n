@@ -556,6 +556,7 @@ content-blocking-restore-defaults =
 
 tracking-header = ការពារ​ការ​តាមដាន
 tracking-desc = ការការពារការតាមដាន​នឹងទប់ស្កាត់កម្មវិធីតាមដានលើអ៊ីនធឺណិត​ដែលប្រមូលទិន្នន័យការរុករករបស់អ្នក​នៅ​លើ​គេហទំព័រ​​ច្រើន។ <a data-l10n-name="learn-more">ស្វែងយល់បន្ថែមអំពីការការពារការតាមដាន និងឯកជនភាព​របស់អ្នក</a>
+tracking-mode-label = ប្រើការការពារការតាមដាន ដើម្បីទប់ស្កាត់កម្មវិធីតាមដានដែលស្គាល់
 tracking-mode-always =
     .label = ជានិច្ច
     .accesskey = y
@@ -568,15 +569,22 @@ tracking-mode-never =
 tracking-exceptions =
     .label = ករណី​លើកលែង…
     .accesskey = x
+tracking-change-block-list =
+    .label = ផ្លាស់ប្ដូរបញ្ជីទប់ស្កាត់…
+    .accesskey = C
 
 ## Privacy Section - Permissions
 
+permissions-header = ការ​អនុញ្ញាត
+permissions-location = ទីតាំង
 permissions-location-settings =
     .label = ការកំណត់...
     .accesskey = t
+permissions-camera = កាមេរ៉ា
 permissions-camera-settings =
     .label = ការ​កំណត់...
     .accesskey = t
+permissions-microphone = មីក្រូហ្វូន
 permissions-microphone-settings =
     .label = ការកំណត់...
     .accesskey = t
@@ -584,6 +592,15 @@ permissions-notification = ការ​ជូនដំណឹង
 permissions-notification-settings =
     .label = ការកំណត់...
     .accesskey = t
+permissions-notification-link = ស្វែងយល់​បន្ថែម
+permissions-notification-pause =
+    .label = ផ្អាកការជូនដំណឹងរហូតដល់ { -brand-short-name } ចាប់ផ្តើមឡើងវិញ
+    .accesskey = n
+permissions-block-autoplay-media-exceptions =
+    .label = ករណីលើកលែង…
+    .accesskey = E
+autoplay-option-ask =
+    .label = សួរជានិច្ច
 permissions-block-popups =
     .label = ទប់ស្កាត់​​បង្អួច​លេច​ឡើង
     .accesskey = ទ
@@ -596,13 +613,24 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = ករណី​លើកលែង…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = រារាំងសេវាកម្មភាពងាយស្រួលចូល​ប្រើ​មិនឲ្យចូលប្រើកម្មវិធីរុករក​អ៊ីនធឺណិត​របស់អ្នក
+    .accesskey = a
+permissions-a11y-privacy-link = ស្វែងយល់​បន្ថែម
 
 ## Privacy Section - Data Collection
 
+collection-header = ការប្រមូល និងការប្រើប្រាស់ទិន្នន័យ { -brand-short-name }
+collection-description = យើងខិតខំផ្តល់ជូនអ្នកនូវជម្រើស និងប្រមូលតែ​អ្វីដែលយើងត្រូវការ ដើម្បីផ្តល់ និងកែលម្អ { -brand-short-name } សម្រាប់មនុស្សគ្រប់គ្នា​​ប៉ុណ្ណោះ។ យើងតែងតែសុំការអនុញ្ញាត មុនពេលទទួលបានព័ត៌មានផ្ទាល់ខ្លួន។
+collection-privacy-notice = ការជូនដំណឹង​អំពី​ឯកជនភាព
+collection-health-report =
+    .label = អនុញ្ញាតឲ្យ { -brand-short-name } ផ្ញើទិន្នន័យបច្ចេកទេស និងអន្តរកម្មទៅ { -vendor-short-name }
+    .accesskey = r
 collection-health-report-link = ស្វែងយល់​​បន្ថែម
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ការ​រាយការណ៍​ទិន្នន័យ​ត្រូវ​បាន​បិទ​សម្រាប់​ការ​កំណត់​រចនាសម្ព័ន្ធ​កំណែ​នេះ
+collection-browser-errors-link = ស្វែងយល់​បន្ថែម
 collection-backlogged-crash-reports-link = ស្វែងយល់​​បន្ថែម
 
 ## Privacy Section - Security
@@ -611,9 +639,11 @@ collection-backlogged-crash-reports-link = ស្វែងយល់​​បន�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = សុវត្ថិភាព
+security-browsing-protection = ការការពារខ្លឹមសារ និងផ្នែកទន់ដែលមានភាពគ្រោះថ្នាក់
 security-enable-safe-browsing =
     .label = ទប់ស្កាត់​មាតិកា​ដែល​មាន​ភាព​គ្រោះថ្នាក់​និង​ការ​បញ្ឆោត
     .accesskey = B
+security-enable-safe-browsing-link = ស្វែងយល់​បន្ថែម
 security-block-downloads =
     .label = ទប់ស្កាត់​ការ​ទាញយក​ដែល​គ្រោះថ្នាក់
     .accesskey = d
@@ -634,6 +664,12 @@ certs-select-ask-option =
 certs-enable-ocsp =
     .label = ម៉ាស៊ីន​មេ​កម្មវិធី​ឆ្លើយតប OCSP ត្រូវ​បញ្ជាក់​ភាព​ត្រឹមត្រូវ​នៃ​វិញ្ញាបនបត្រ​បច្ចុប្បន្ន
     .accesskey = Q
+certs-view =
+    .label = មើល​វិញ្ញាបនបត្រ…
+    .accesskey = C
+certs-devices =
+    .label = ឧបករណ៍​សុវត្ថិភាព…
+    .accesskey = D
 space-alert-learn-more-button =
     .label = ស្វែងយល់​បន្ថែម
     .accesskey = L
