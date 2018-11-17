@@ -399,7 +399,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.label     "Jendela Mode Pribadi Baru">
 <!ENTITY newPrivateWindow.accesskey "u">
 
-<!ENTITY editMenu.label         "Ubah">
+<!ENTITY editMenu.label         "Edit">
 <!ENTITY editMenu.accesskey       "E">
 <!ENTITY undoCmd.label            "Urungkan">
 <!ENTITY undoCmd.key            "Z">
