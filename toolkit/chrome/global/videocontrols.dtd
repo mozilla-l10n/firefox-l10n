@@ -11,6 +11,10 @@
 <!ENTITY castingButton.castingLabel "ฉายขึ้นหน้าจอ">
 <!ENTITY closedCaption.off "ปิด">
 
+<!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
+     accessibility software to clarify what the slider is for. -->
+<!ENTITY volumeScrubber.label "แถบเลื่อนระดับเสียง">
+
 <!ENTITY stats.media "สื่อ">
 <!ENTITY stats.size "ขนาด">
 <!ENTITY stats.activity "กิจกรรม">
@@ -47,3 +51,4 @@ unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
 <!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
+
