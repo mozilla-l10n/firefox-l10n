@@ -610,6 +610,7 @@ autoplay-option-allow =
     .label = Payagan ang Autoplay
 autoplay-option-dont =
     .label = Huwag mag Autoplay
+permissions-autoplay-link = Alamin pa
 permissions-block-popups =
     .label = Harangin ang mga pop-up windows
     .accesskey = H
