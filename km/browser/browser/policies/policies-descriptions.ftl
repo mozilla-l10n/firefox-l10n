@@ -17,3 +17,4 @@ policy-DisableMasterPasswordCreation = ប្រសិន​បើ​ពិត�
 policy-DisablePrivateBrowsing = បិទដំណើររុករកឯកជន។
 policy-DisplayMenuBar = បង្ហាញរបារម៉ឺនុយតាមលំនាំដើម។
 policy-InstallAddonsPermission = អនុញ្ញាតគេហទំព័រជាក់លាក់ដើម្បីដំឡើងកម្មវិធីបន្ថែម។
+policy-Proxy = កំណត់​ការកំណត់​ប្រូកស៊ី។
