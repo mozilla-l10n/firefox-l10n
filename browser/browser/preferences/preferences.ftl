@@ -551,6 +551,7 @@ addressbar-suggestions-settings = ប្ដូរ​ចំណូលចិត្�
 ## Privacy Section - Tracking
 
 tracking-header = ការពារ​ការ​តាមដាន
+tracking-desc = ការការពារការតាមដាន​នឹងទប់ស្កាត់កម្មវិធីតាមដានលើអ៊ីនធឺណិត​ដែលប្រមូលទិន្នន័យការរុករករបស់អ្នក​នៅ​លើ​គេហទំព័រ​​ច្រើន។ <a data-l10n-name="learn-more">ស្វែងយល់បន្ថែមអំពីការការពារការតាមដាន និងឯកជនភាព​របស់អ្នក</a>
 tracking-mode-always =
     .label = ជានិច្ច
     .accesskey = y
