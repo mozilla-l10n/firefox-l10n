@@ -528,6 +528,9 @@ privacy-header = Duyệt web riêng tư
 
 forms-header = Biểu mẫu & Mật khẩu
 logins-header = Đăng nhập & Mật khẩu
+forms-ask-to-save-logins =
+    .label = Hỏi để lưu lại thông tin đăng nhập và mật khẩu cho trang web
+    .accesskey = H
 forms-exceptions =
     .label = Ngoại trừ…
     .accesskey = r
@@ -561,10 +564,14 @@ history-remember-option-never =
     .label = Không bao giờ ghi nhớ lược sử
 history-remember-option-custom =
     .label = Sử dụng thiết lập tùy biến cho lược sử
+history-remember-description = { -brand-short-name } sẽ ghi nhớ lịch sử duyệt web, tải xuống, biểu mẫu và tìm kiếm của bạn.
 history-dontremember-description = { -brand-short-name } sẽ dùng thiết lập giống như chế độ duyệt web riêng tư, và sẽ không ghi nhớ lược sử khi bạn duyệt Web.
 history-private-browsing-permanent =
     .label = Luôn luôn dùng chế độ duyệt web riêng tư
     .accesskey = y
+history-remember-browser-option =
+    .label = Ghi nhớ lịch sử truy cập và tải xuống của tôi
+    .accesskey = G
 history-remember-search-option =
     .label = Ghi nhớ lược sử biểu mẫu và tìm kiếm
     .accesskey = b
@@ -582,11 +589,30 @@ history-clear-button =
 
 sitedata-header = Cookie và dữ liệu trang
 sitedata-total-size-calculating = Đang tính toán kích thước cache và dữ liệu trang…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Cookie, dữ liệu trang và bộ nhớ đệm của bạn hiện đang sử dụng { $value } { $unit } dung lượng đĩa.
 sitedata-learn-more = Tìm hiểu thêm
 sitedata-keep-until = Giữ cho đến khi
     .accesskey = u
+sitedata-keep-until-expire =
+    .label = chúng hết hạn
 sitedata-keep-until-closed =
     .label = { -brand-short-name } đã đóng
+sitedata-delete-on-close =
+    .label = Xóa cookie và dữ liệu trang web khi { -brand-short-name } bị đóng
+    .accesskey = c
+sitedata-allow-cookies-option =
+    .label = Cho phép cookie và dữ liệu trang
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = Chặn cookie và dữ liệu trang
+    .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Loại bị chặn
+    .accesskey = T
 sitedata-block-trackers-option-recommended =
     .label = Trình theo dõi bên thứ ba (khuyến nghị)
 sitedata-block-trackers-option =
@@ -642,18 +668,21 @@ content-blocking-toggle-label-on = BẬT
     .accesskey = O
 content-blocking-toggle-label-off = TẮT
     .accesskey = O
+content-blocking-category-label = Chọn thứ cần chặn
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
 content-blocking-fastblock-slow-loading-trackers-label =
     .label = Trình truy dấu tác nhân tải chậm
     .accesskey = T
+content-blocking-fastblock-new-description = Chỉ chặn các trình theo dõi làm chậm việc tải trang.
 content-blocking-tracking-protection-trackers-label =
     .label = Trình theo dõi
     .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Tất cả các trình theo dõi đã phát hiện
     .accesskey = T
+content-blocking-tracking-protection-new-description = Chặn tất cả các trình theo dõi đã biết. (Có thể ngăn việc tải của một số trang.)
 content-blocking-tracking-protection-option-always =
     .label = Luôn luôn
     .accesskey = A
@@ -664,12 +693,24 @@ content-blocking-tracking-protection-change-block-list = Thay đổi danh sách 
 content-blocking-third-party-cookies-label =
     .label = Cookie của bên thứ ba
     .accesskey = C
+content-blocking-reject-trackers-description = Chặn tất cả cookie của bên thứ ba hoặc chỉ những cookie do trình theo dõi đặt.
+# This is a warning message shown next to a yellow warning icon when the Third-Party Cookies subsection
+# of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
+# or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
+# the UI.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Cài đặt của bạn trong Cookie và Dữ liệu trang đang ngăn các thay đổi cài đặt cookie của bên thứ ba.
+content-blocking-change-cookie-settings =
+    .label = Thay đổi thiết lập cookie
+    .accesskey = T
 content-blocking-reject-trackers-block-trackers-option-recommended =
     .label = Trình theo dõi (đề nghị)
     .accesskey = k
 content-blocking-reject-trackers-block-trackers-option =
     .label = Trình theo dõi
     .accesskey = k
+content-blocking-reject-trackers-all-third-parties-option =
+    .label = Tất cả cookie của bên thứ ba (có thể khiến trang web bị gián đoạn)
+    .accesskey = A
 
 ## Privacy Section - Tracking
 
