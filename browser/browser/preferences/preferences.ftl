@@ -6,6 +6,8 @@ do-not-track-description = Gửi tín hiệu “Không theo dõi” tới trang 
 do-not-track-learn-more = Tìm hiểu thêm
 do-not-track-option-default =
     .label = Chỉ khi dùng trình chống theo dõi
+do-not-track-option-default-content-blocking =
+    .label = Chỉ khi { -brand-short-name } được đặt sang chế độ chặn trình phát hiện theo dõi
 do-not-track-option-always =
     .label = Luôn luôn
 pref-page =
@@ -29,6 +31,11 @@ search-input-box =
             [windows] Tìm trong phần tùy chọn
            *[other] Tìm trong phần tùy chỉnh
         }
+policies-notice =
+    { PLATFORM() ->
+        [windows] Tổ chức của bạn đã vô hiệu hóa khả năng thay đổi một số tùy chọn.
+       *[other] Tổ chức của bạn đã vô hiệu hóa khả năng thay đổi một số tùy chọn.
+    }
 pane-general-title = Tổng quát
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,6 +53,7 @@ pane-sync-title = Tài khoản Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = Hỗ trợ { -brand-short-name }
+addons-button-label = Tiện ích mở rộng & Chủ đề
 focus-search =
     .key = f
 close-button =
@@ -76,6 +84,9 @@ extension-controlled-homepage-override = Một phần mở rông, <img data-l10n
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Một phần mở rông, <img data-l10n-name="icon"/> { $name }, đang kiểm soát phần thẻ mới của bạn.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Phần mở rộng, <img data-l10n-name="icon"/> { $name }, đang kiểm soát cài đặt này.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Phần mở rộng, <img data-l10n-name="icon"/> { $name }, đã cài đặt công cụ tìm kiếm mặc định của bạn.

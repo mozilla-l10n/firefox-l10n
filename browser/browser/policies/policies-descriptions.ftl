@@ -13,6 +13,9 @@
 policy-BlockAboutConfig = Chặn truy cập vào trang about:config.
 policy-BlockAboutProfiles = Chặn truy cập vào trang about:profiles.
 policy-BlockAboutSupport = Chặn truy cập vào trang about:support.
+policy-CertificatesDescription = Thêm chứng chỉ hoặc sử dụng chứng chỉ có sẵn.
+policy-Cookies = Cho phép hoặc từ chối các trang web lưu cookie.
+policy-DisableBuiltinPDFViewer = Vô hiệu PDF.js, trình xem PDF tích hợp trong { -brand-short-name }.
 policy-DisableDeveloperTools = Chặn truy cập đến công cụ nhà phát triển.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Vô hiệu hóa Firefox Screenshots.
