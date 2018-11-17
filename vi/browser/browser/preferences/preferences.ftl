@@ -628,6 +628,8 @@ addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Chặn nội dung
+content-blocking-desc = Chặn nội dung của bên thứ ba, như quảng cáo hoặc mã, có thể làm chậm quá trình duyệt web của bạn và theo dõi bạn trên web. Tùy chỉnh cài đặt của bạn để cân bằng tốt nhất sự bảo vệ và hiệu suất.
 content-blocking-learn-more = Tìm hiểu thêm
 content-blocking-restore-defaults =
     .label = Khôi phục về mặc định
@@ -713,6 +715,10 @@ permissions-notification-link = Tìm hiểu thêm
 permissions-notification-pause =
     .label = Tạm dừng thông báo cho đến khi { -brand-short-name } khởi động lại
     .accesskey = n
+permissions-block-autoplay-media =
+    .label = Chặn các trang web tự động phát nội dung có âm thanh
+    .accesskey = C
+permissions-block-autoplay-media-menu = Đối với các trang web tự động phát âm thanh
 permissions-block-autoplay-media-exceptions =
     .label = Ngoại trừ...
     .accesskey = E
@@ -749,6 +755,9 @@ collection-health-report =
     .label = Cho phép { -brand-short-name } gửi dữ liệu kỹ thuật và tương tác tới { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Tìm hiểu thêm
+collection-studies =
+    .label = Cho phép { -brand-short-name } cài đặt và chạy các nghiên cứu
+collection-studies-link = Xem nghiên cứu { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Dữ liệu báo cáo bị vô hiệu hóa với cấu hình này
@@ -756,6 +765,9 @@ collection-browser-errors =
     .label = Cho phép { -brand-short-name } gửi báo cáo lỗi trình duyệt (bao gồm thông báo lỗi) cho { -vendor-short-name }
     .accesskey = b
 collection-browser-errors-link = Tìm hiểu thêm
+collection-backlogged-crash-reports =
+    .label = Cho phép { -brand-short-name } thay bạn gửi các báo cáo sự cố còn tồn đọng
+    .accesskey = c
 collection-backlogged-crash-reports-link = Tìm hiểu thêm
 
 ## Privacy Section - Security
@@ -809,6 +821,11 @@ space-alert-over-5gb-pref-button =
             [windows] O
            *[other] O
         }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } sắp hết dung lượng đĩa. Nội dung trang web có thể không hiển thị chính xác. Bạn có thể xóa dữ liệu được lưu trữ trong Tùy chọn > Riêng tư & Bảo mật > Cookie và Dữ liệu trang.
+       *[other] { -brand-short-name } sắp hết dung lượng đĩa. Nội dung trang web có thể không hiển thị chính xác. Bạn có thể xóa dữ liệu được lưu trữ trong Tùy chọn > Riêng tư & Bảo mật > Cookie và Dữ liệu trang.
+    }
 space-alert-under-5gb-ok-button =
     .label = OK, được rồi
     .accesskey = K
@@ -819,3 +836,7 @@ space-alert-under-5gb-message = { -brand-short-name } đang hết dung lượng 
 desktop-folder-name = Bàn làm việc
 downloads-folder-name = Trang tải xuống
 choose-download-folder-title = Chọn Thư mục Tải xuống:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Lưu tệp vào { $service-name }

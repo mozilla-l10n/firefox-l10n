@@ -10,6 +10,8 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-Authentication = Cấu hình các phương thức xác thực tích hợp sẵn cho các trang web có hỗ trợ.
+policy-BlockAboutAddons = Chặn quyền truy cập vào trình quản lý tiện ích (about: addons).
 policy-BlockAboutConfig = Chặn truy cập vào trang about:config.
 policy-BlockAboutProfiles = Chặn truy cập vào trang about:profiles.
 policy-BlockAboutSupport = Chặn truy cập vào trang about:support.
