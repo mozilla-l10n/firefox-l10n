@@ -459,6 +459,7 @@ history-clear-on-close-settings=
 history-clear-button=
   .label=Wyczyść historię…
   .accesskey=W
+
 sitedata-header=Ciasteczka i dane stron
 sitedata-total-size-calculating=Obliczanie rozmiaru danych i pamięci podręcznej stron…
 sitedata-total-size=Przechowywane ciasteczka, dane i pamięć podręczna stron zajmują { $value } { $unit } na dysku.
@@ -469,6 +470,9 @@ sitedata-keep-until-expire=
   .label=do ich wygaśnięcia
 sitedata-keep-until-closed=
   .label=do zamknięcia programu
+sitedata-delete-on-close=
+  .label=Usuwanie ciasteczek i danych stron podczas zamykania programu
+  .accesskey=U
 sitedata-allow-cookies-option=
   .label=Akceptowanie ciasteczek i danych stron
   .accesskey=A
