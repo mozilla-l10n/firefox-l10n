@@ -5,6 +5,7 @@
 sync-disconnect-dialog =
     .title = ตัดการเชื่อมต่อ { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
+sync-disconnect-heading = คุณต้องการเอาข้อมูลเบราว์เซอร์ในคอมพิวเตอร์นี้ออกด้วยหรือไม่? ข้อมูล { -sync-brand-name } ของคุณจะยังคงอยู่ในบัญชีของคุณ
 sync-disconnect-remove-sync-caption = เอาข้อมูล { -sync-brand-name } ออก
 sync-disconnect-remove-sync-data = ที่คั่นหน้า, ประวัติ, รหัสผ่าน ฯลฯ
 sync-disconnect-remove-other-caption = เอาข้อมูลส่วนตัวอื่น ๆ ออก
