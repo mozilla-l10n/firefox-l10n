@@ -27,4 +27,7 @@ policy-DisableFirefoxAccounts = Vô hiệu { -fxaccount-brand-name } dựa trên
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Vô hiệu hóa tính năng chụp màn hình Firefox.
 policy-DisableFirefoxStudies = Chặn { -brand-short-name } chạy các nghiên cứu.
+policy-DisableFormHistory = Không lưu lịch sử tìm kiếm và biểu mẫu.
+policy-DisableMasterPasswordCreation = Nếu đúng, không thể tạo mật khẩu chính.
+policy-DisablePocket = Tắt tính năng lưu trang web vào Pocket.
 policy-DisablePrivateBrowsing = Vô hiệu hóa Duyệt web riêng tư.
