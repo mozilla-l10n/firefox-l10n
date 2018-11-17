@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = Không phải bây giờ
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Thêm vào ngay
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Quản lý các thiết lập được đề xuất
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = Không hiển thị cho tôi đề xuất này
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = Tìm hiểu thêm
 # This string is used on a new line below the add-on name
 # Variables:
