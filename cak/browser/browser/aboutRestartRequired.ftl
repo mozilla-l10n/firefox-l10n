@@ -4,4 +4,5 @@
 
 restart-required-title = K'o chi Nitikirisäx
 restart-required-header = Takuyu'. Xa xe k'o chi niqab'än jun ko'öl wachinäq richin yojsamäj chik el.
+restart-required-intro = K'ab'a' tiqayäk jun k'exoj pa ruka'n b'ey. Tapitz'a' Titikirisäx chik { -brand-short-name } richin nak'isib'ej rokisaxik.
 restart-button-label = Titikirisäx chik { -brand-short-name }
