@@ -24,6 +24,7 @@ list-empty-button =
 install-addon-from-file =
     .label = Pasang Pengaya dari Berkas…
     .accesskey = B
+help-button = Dukungan Pengaya
 tools-menu =
     .tooltiptext = Alat untuk semua pengaya
 show-unsigned-extensions-button =
