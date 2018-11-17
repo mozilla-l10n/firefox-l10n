@@ -14,11 +14,18 @@
 <!ENTITY accountManager.close.label          "Tutup">
 <!ENTITY accountManager.close.accesskey      "u">
 <!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "t">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Belum ada akun yang disiapkan">
 <!ENTITY accountManager.noAccount.description "Klik pada tombol &accountManager.newAccount.label; agar &brandShortName; memandu Anda melalui proses menatanya.">
 <!ENTITY account.autoSignOn.label     "Masuk saat mulai">
+<!ENTITY account.autoSignOn.accesskey "p">
+<!ENTITY account.connect.label        "Sambungkan">
+<!ENTITY account.connect.accesskey    "o">
 <!ENTITY account.delete.label         "Hapus">
+<!ENTITY account.moveup.label         "Geser ke atas">
+<!ENTITY account.movedown.label       "Geser ke bawah">
+<!ENTITY account.cancelReconnection.label         "Batalkan koneksi ulang">
 <!ENTITY account.copyDebugLog.label     "Salin Log Debug">
 <!ENTITY account.showDebugLog.label     "Tampilkan Log Debug">
 <!ENTITY account.connecting           "Menyambungkan…">

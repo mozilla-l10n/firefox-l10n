@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
 <!-- File menu items -->
-
-
 <!ENTITY saveCmd.key "s">
-<!-- Edit menu items -->
 
+<!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Tempel tanpa Format">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
@@ -23,13 +23,12 @@
 <!ENTITY checkSpellingCmd2.label "Periksa Ejaan">
 <!ENTITY checkSpellingCmd2.accesskey "e">
 <!ENTITY checkSpellingCmd2.key "k">
-<!-- Insert menu items -->
 
+<!-- Insert menu items -->
 <!ENTITY insertMenu.label "Sisipkan">
 <!ENTITY insertMenu.accesskey "i">
 <!ENTITY insertLinkCmd2.label "Tautan…">
 <!ENTITY insertLinkCmd2.accesskey "T">
-
 <!ENTITY insertAnchorCmd.label "Penanda Bernama…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Gambar…">
@@ -46,14 +45,14 @@
 <!ENTITY insertCharsCmd.accesskey "K">
 <!ENTITY insertBreakAllCmd.label "Pindah Baris di Bawah Gambar">
 <!ENTITY insertBreakAllCmd.accesskey "i">
-<!-- Used just in context popup. -->
 
+<!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Buat Tautan…">
 <!ENTITY createLinkCmd.accesskey "t">
 <!ENTITY editLinkCmd.label "Sunting Tautan di Composer">
 <!ENTITY editLinkCmd.accesskey "S">
-<!-- Font Face SubMenu -->
 
+<!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Pilih Huruf">
 <!ENTITY fontfaceMenu.label "Font">
 <!ENTITY fontfaceMenu.accesskey "F">
@@ -68,36 +67,22 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!-- Font Size SubMenu -->
 
+<!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Pilih ukuran huruf">
 <!ENTITY decreaseFontSize.label "Lebih Kecil">
 <!ENTITY decreaseFontSize.accesskey "K">
 <!ENTITY decrementFontSize.key "&lt;">
-<!-- < is above this key on many keyboards -->
-<!ENTITY decrementFontSize.key2 ","> 
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Lebih Besar">
 <!ENTITY increaseFontSize.accesskey "b">
 <!ENTITY incrementFontSize.key "&gt;">
-<!-- > is above this key on many keyboards -->
-<!ENTITY incrementFontSize.key2 "."> 
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Ukuran">
 <!ENTITY fontSizeMenu.accesskey "U">
 
-
-
-
-
-
-
-
-
-
-
-
 <!-- Font Style SubMenu -->
-
 <!ENTITY fontStyleMenu.label "Gaya Teks">
 <!ENTITY fontStyleMenu.accesskey "s">
 <!ENTITY styleBoldCmd.label "Tebal">
@@ -140,7 +125,6 @@
 <!ENTITY tableOrCellColor.accesskey "B">
 
 <!ENTITY formatRemoveStyles.key "y">
-
 <!ENTITY formatRemoveNamedAnchors.label "Hapus Penanda Bernama">
 <!ENTITY formatRemoveNamedAnchors.accesskey "H">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
@@ -165,8 +149,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "A">
 <!ENTITY paragraphPreformatCmd.label "Preformat">
 <!ENTITY paragraphPreformatCmd.accesskey "f">
-<!-- List menu items -->
 
+<!-- List menu items -->
 <!ENTITY formatlistMenu.label "Daftar">
 <!ENTITY formatlistMenu.accesskey "D">
 <!ENTITY noneCmd.label "Tidak ada">
@@ -189,8 +173,8 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Properti Canggih">
 <!ENTITY advancedPropertiesCmd.accesskey "C">
-<!-- Align menu items -->
 
+<!-- Align menu items -->
 <!ENTITY alignMenu.label "Rata">
 <!ENTITY alignMenu.accesskey "a">
 <!ENTITY alignLeft.label "Kiri">
@@ -205,8 +189,8 @@
 <!ENTITY alignJustify.label "Kiri-Kanan">
 <!ENTITY alignJustify.accesskey "n">
 <!ENTITY alignJustify.tooltip "Rata Kiri-Kanan">
-<!-- Layer toolbar items -->
 
+<!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Layer">
 <!ENTITY layerSendToBack.tooltip "Pindahkan ke Belakang">
 <!ENTITY layerBringToFront.tooltip "Pindahkan ke Depan">
@@ -216,16 +200,16 @@
 <!ENTITY increaseIndent.key "=">
 <!ENTITY decreaseIndent.label "Kurangi Indentasi">
 <!ENTITY decreaseIndent.accesskey "u">
-<!ENTITY decreaseIndent.key "-">
+<!ENTITY decreaseIndent.key "[">
 
 <!ENTITY colorsAndBackground.label "Warna dan Latar Belakang Laman…">
 <!ENTITY colorsAndBackground.accesskey "W">
-<!-- Table Menu -->
 
+<!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabel">
 <!ENTITY tableMenu.accesskey "b">
-<!-- Select Submenu -->
 
+<!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Pilih">
 <!ENTITY tableSelectMenu.accesskey "P">
 
@@ -235,8 +219,8 @@
 <!ENTITY tableInsertMenu2.accesskey "S">
 <!ENTITY tableDeleteMenu2.label "Hapus Tabel">
 <!ENTITY tableDeleteMenu2.accesskey "H">
-<!-- Insert SubMenu -->
 
+<!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Sisip">
 <!ENTITY tableInsertMenu.accesskey "i">
 <!ENTITY tableTable.label "Tabel">
@@ -269,12 +253,12 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Hapus">
 <!ENTITY tableDeleteMenu.accesskey "H">
+
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-
 <!ENTITY tableJoinCells.label "j">
 <!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Pisahkan Sel">
@@ -283,8 +267,8 @@
 <!ENTITY convertToTable.accesskey "o">
 <!ENTITY tableProperties.label "Properti Tabel…">
 <!ENTITY tableProperties.accesskey "o">
-<!-- Toolbar-only items -->
 
+<!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Bilah Menu">
 <!ENTITY formatToolbar.tooltip "Bilah Format">
 <!ENTITY cutToolbarCmd.tooltip "Potong">
@@ -310,6 +294,7 @@
 <!ENTITY BackgroundColorButton.tooltip "Pilih warna untuk latar belakang">
 <!ENTITY throbber.tooltip "Buka laman untuk &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Pilih warna penyorot teks">
+
 <!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Ukuran huruf lebih kecil">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Ukuran huruf lebih besar">
@@ -326,16 +311,16 @@
 <!ENTITY alignCenterButton.tooltip "Buat teks rata tengah">
 <!ENTITY alignRightButton.tooltip "Buat teks rata kanan pada margin kanan">
 <!ENTITY alignJustifyButton.tooltip "Buat teks rata pada margin kiri dan kanan">
-<!-- Structure Toolbar Context Menu items -->
 
+<!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Pilih">
 <!ENTITY structSelect.accesskey     "P">
 <!ENTITY structRemoveTag.label      "Hapus tag">
 <!ENTITY structRemoveTag.accesskey  "H">
 <!ENTITY structChangeTag.label      "Ubah tag">
 <!ENTITY structChangeTag.accesskey  "U">
-<!-- TOC manipulation -->
 
+<!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Sisipkan">
 <!ENTITY insertTOC.accesskey      "S">
 <!ENTITY updateTOC.label          "Perbarui">
