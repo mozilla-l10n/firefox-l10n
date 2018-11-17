@@ -14,9 +14,27 @@ pref-page =
             [windows] ជម្រើស
            *[other] ចំណូលចិត្ត
         }
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 15.4em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] រកនៅក្នុងជម្រើស
+           *[other] រកនៅក្នុងចំណូលចិត្ត
+        }
 pane-general-title = ទូទៅ
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = ទំព័រដើម
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = ស្វែងរក
 category-search =
     .tooltiptext = { pane-search-title }
@@ -52,9 +70,27 @@ restart-later = ចាប់ផ្ដើម​ឡើងវិញ​នៅ​ព�
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } កំពុងគ្រប់គ្រងទំព័រដើមរបស់អ្នក។
+# This string is shown to notify the user that their new tab page
+# is being controlled by an extension.
+extension-controlled-new-tab-url = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } កំពុងគ្រប់គ្រងទំព័រផ្ទាំងថ្មីរបស់អ្នក។
+# This string is shown to notify the user that the default search engine
+# is being controlled by an extension.
+extension-controlled-default-search = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } បានកំណត់ម៉ាស៊ីនស្វែងរកលំនាំដើមរបស់អ្នក។
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlled-privacy-containers = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } ត្រូវការផ្ទាំងឧបករណ៍ផ្ទុក។
 # This string is shown to notify the user that their tracking protection preferences
 # are being controlled by an extension.
 extension-controlled-websites-tracking-protection-mode = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } កំពុងគ្រប់គ្រងការការពារការតាមដាន។
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlled-websites-content-blocking-all-trackers = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } កំពុងគ្រប់គ្រងការកំណត់នេះ។
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlled-proxy-config = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> កំពុងគ្រប់គ្រងរបៀបដែល { -brand-short-name } តភ្ជាប់ទៅអ៊ីនធឺណិត។
 
 ## Preferences UI Search Results
 
@@ -65,6 +101,7 @@ search-results-empty-message =
         [windows] សុំទោស! មិន​មាន​លទ្ធផល​នៅ​ក្នុង​ជម្រើស​សម្រាប់ “<span data-l10n-name="query"></span>” ទេ។
        *[other] សុំទោស! មិន​មាន​លទ្ធផល​នៅ​ក្នុង​ចំណូលចិត្ត​សម្រាប់ “<span data-l10n-name="query"></span>” ទេ។
     }
+search-results-help-link = ត្រូវការជំនួយទេ? មើល<a data-l10n-name="url">ផ្នែកជំនួយរបស់ { -brand-short-name }</a>
 
 ## General Section
 
@@ -73,7 +110,7 @@ startup-header = ចាប់ផ្ដើម​ឡើង
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = អនុញ្ញាត​ឲ្យ { -brand-short-name } និង Firefox ដំណើរការ​ក្នុង​ពេល​ដូចគ្នា
-use-firefox-sync = ព័ត៌មាន​ជំនួយ៖ វា​ប្រើ​បវត្តិរូប​ដាច់ដោយឡែក។ ប្រើ​ការ​ធ្វើ​សមកាលកម្ម​ដើម្បី​ចែករំលែក​ទិន្នន័យ​រវាង​ពួកគេ។
+use-firefox-sync = ព័ត៌មាន​ជំនួយ៖ វា​ប្រើ​ប្រាស់​​កម្រង​ព័ត៌មាន​​ដោយឡែក។ ប្រើប្រាស់ { -sync-brand-short-name } ដើម្បី​ចែករំលែក​ទិន្នន័យ​រវាង​​កម្រងព័ត៌មាន​ទាំងនេះ។
 get-started-not-logged-in = ចូល { -sync-brand-short-name } ...
 get-started-configured = បើក​ចំណូលចិត្ត { -sync-brand-short-name }
 always-check-default =
@@ -90,6 +127,9 @@ tabs-group-header = ផ្ទាំង
 ctrl-tab-recently-used-order =
     .label = ប៊ូតុង​ Ctrl+Tab មាន​មុខងារ​ចូល​មើល​ផ្ទាំង​ដែល​បើក​ថ្មីៗ​ម្ដង​មួយ​ៗ
     .accesskey = T
+open-new-link-as-tabs =
+    .label = បើក​តំណ​ក្នុង​ផ្ទាំង​ជំនួយ​ឲ្យ​វីនដូ​ថ្មី
+    .accesskey = w
 warn-on-close-multiple-tabs =
     .label = ព្រមាន​អ្នក​ពេល​បិទ​ផ្ទាំង​ច្រើន
     .accesskey = m
@@ -122,6 +162,7 @@ containers-remove-cancel-button = កុំ​លុប​ប្រអប់​�
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = ភាសា និង​ការបង្ហាញ
 fonts-and-colors-header = ពុម្ព​អក្សរ & ពណ៌
 default-font = ពុម្ព​អក្សរ​លំនាំដើម
     .accesskey = D
@@ -153,6 +194,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = ឯកសារ និងកម្មវិធី
 download-header = ទាញ​យក
 download-save-to =
     .label = រក្សា​ទុក​ឯកសារ​ទៅ
@@ -181,6 +223,7 @@ applications-type-column =
 applications-action-column =
     .label = អំពើ
     .accesskey = ព
+drm-content-header = ខ្លឹមសារ​ការគ្រប់គ្រងសិទ្ធិឌីជីថល (DRM)
 play-drm-content-learn-more = ស្វែងយល់​​បន្ថែម
 update-application-title = បច្ចុប្បន្នភាព { -brand-short-name }
 update-application-version = កំណែ { $version } <a data-l10n-name="learn-more">អ្វី​ដែល​ថ្មី</a>
