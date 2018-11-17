@@ -291,6 +291,18 @@
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບການນຳໃຊ້ &brandShortName; ແລະ ຜະລິດຕະພັນ &vendorShortName; ອື່ນໆ">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "ເປີດ">
+
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(ເພື່ອເປີດນຳໃຊ້ຕົວເລືອກນີ້ &pref_feature_tips_notification_enabling_path; ຕ້ອງໄດ້ຖືກເປີດໃຊ້ງານກ່ອນ)">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "ຄຸນລັກສະນະການທົດລອງ">
@@ -363,7 +375,6 @@
 <!ENTITY pref_use_system_font_size_summary "ຂະຫນາດເນື້ອຫາຂອງເວັບໃຫ້ອີງໃສ່ຂະຫນາດຟັອນຂອງລະບົບ">
 
 <!ENTITY pref_media_autoplay_enabled "ອະນຸຍາດໃຫ້ເປີດແບບອັດຕະໂນມັດ">
-<!ENTITY pref_media_autoplay_enabled_summary "ຄວບຄຸມດູແລເວັບທີ່ສາມາດເປີດວິດີໂອ ແລະ ສື່ເນື້ອຫາອື່ນໆແບບອັດຕະໂນມັດ">
 <!ENTITY pref_media_autoplay_allow "ອະນຸຍາດຫຼິ້ນອັດຕະໂນມັດ">
 <!ENTITY pref_media_autoplay_block "ປິດກັ້ນການຫຼິ້ນອັດຕະໂນມັດ">
 <!ENTITY pref_zoom_force_enabled "ເປີດໃຊ້ງານຊູມຕະລອດເວລາ">
@@ -830,9 +841,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "ບໍ່ສາມາດເປີດ &brandShortName;. ກະລຸນາຕິດຕັ້ງໃຫມ່ ແລະ ລອງເປິດເບິງອີກເທື່ອຫນຶ່ງ.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; ຈະບໍ່ມີການອັບເດດອີກຕໍ່ໄປ">
-<!ENTITY eol_notification_summary "ແຕະເພື່ອຮຽນຮູ້ເພີ່ມເຕີມ">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; ແມ່ນລຸ້ນລ່າສຸດແລ້ວ">
@@ -899,10 +907,19 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel2 "ບຣາວເຊີ">
 <!ENTITY mls_notification_channel "ບໍລິການຕຳແໜ່ງທີ່ຕັ້ງຂອງ &vendorShortName;">
 <!ENTITY download_notification_channel "ດາວໂຫຼດ">
 <!ENTITY media_notification_channel "ການຫຼິ້ນສື່">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; ການແຈ້ງເຕືອນ">
+<!ENTITY media_notification_channel2 "ສຽງ ແລະ ວິດີໂອ">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel2 "ເຄັດລັບ ແລະ ເທັກນິກຂອງ &vendorShortName;">
 <!ENTITY updater_notification_channel "ອັບເດດແອັບ">
 <!ENTITY synced_tabs_notification_channel "ຊີ້ງແຖບ">
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
+<!ENTITY site_notifications_channel "ການແຈ້ງເຕືອນໃນເວັບໄຊທ">
