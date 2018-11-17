@@ -125,3 +125,4 @@ permissions-site-camera-disable-desc = វា​នឹងរារាំងគ�
 permissions-site-microphone-window =
     .title = ការកំណត់ - ការអនុញ្ញាតមីក្រូហ្វូន
     .style = { permissions-window.style }
+permissions-site-microphone-desc = គេហទំព័រ​ខាងក្រោមនេះបានស្នើសុំដើម្បីចូលប្រើមីក្រូហ្វូនរបស់អ្នក។ អ្នកអាចបញ្ជាក់​គេហទំព័រ​ណាដែលត្រូវបានអនុញ្ញាតឲ្យចូលប្រើមីក្រូហ្វូនរបស់អ្នក។ អ្នកក៏អាចរារាំងសំណើថ្មីដែលស្នើសុំដើម្បីចូលប្រើមីក្រូហ្វូនរបស់អ្នក។
