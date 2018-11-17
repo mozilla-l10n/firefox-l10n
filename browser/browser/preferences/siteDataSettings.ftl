@@ -5,11 +5,15 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = គ្រប់គ្រងខូឃី និងទិន្នន័យ​គេហទំព័រ
 site-data-search-textbox =
     .placeholder = ស្វែងរក​វេបសាយ
     .accesskey = S
 site-data-column-host =
     .label = វេបសាយ
+site-data-column-cookies =
+    .label = ខូឃី
 site-data-column-storage =
     .label = កន្លែង​ផ្ទុក
 site-data-column-last-used =
@@ -39,3 +43,6 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = លុប
+site-data-removing-header = ការលុបចេញខូឃី និងទិន្នន័យគេហទំព័រ
+site-data-removing-desc = ការលុបខូឃី និងទិន្នន័យ​គេហទំព័រ​អាចចុះឈ្មោះអ្នកចេញពី​គេហទំព័រ។ តើអ្នកប្រាកដថាអ្នកចង់ធ្វើការផ្លាស់ប្តូរទេ?
+site-data-removing-table = ខូឃី និងទិន្នន័យ​គេហទំព័រ​សម្រាប់តំបន់បណ្ដាញខាងក្រោមនឹងត្រូវបានលុបចោល
