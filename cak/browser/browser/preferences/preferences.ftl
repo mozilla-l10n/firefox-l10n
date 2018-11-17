@@ -612,6 +612,9 @@ sitedata-keep-until-expire =
     .label = Tik'o iq'ij
 sitedata-keep-until-closed =
     .label = { -brand-short-name } tz'apäl
+sitedata-delete-on-close =
+    .label = Keyuj taq kuki chuqa' taq rutzij ruxaq toq nitz'apïx { -brand-short-name }
+    .accesskey = k
 sitedata-allow-cookies-option =
     .label = Kek'ulutäj taq rukaxlanway chuqa' taq rutzij k'amaya'l
     .accesskey = K
@@ -886,3 +889,7 @@ space-alert-under-5gb-message = { -brand-short-name } tajin majun rupam nikanaj 
 desktop-folder-name = Kematz'ib'ab'äl
 downloads-folder-name = Taq qasanïk
 choose-download-folder-title = Ticha' yakwuj, ri xkeruyäk taq qasanïk:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Keyak taq yakb'äl pa { $service-name }
