@@ -379,6 +379,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "นักพัฒนาเว็บ">
 <!ENTITY webDeveloperMenu.accesskey   "พ">
 
+<!ENTITY devtoolsRecordExecution.label "บันทึกการดำเนินการ">
+<!ENTITY devtoolsSaveRecording.label "บันทึกการบันทึก">
+<!ENTITY devtoolsReplayExecution.label "เล่นการดำเนินการใหม่">
 
 <!ENTITY inspectContextMenu.label     "ตรวจสอบองค์ประกอบ">
 <!ENTITY inspectContextMenu.accesskey "อ">
