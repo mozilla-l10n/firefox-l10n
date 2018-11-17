@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL để phân giải DNS qua HTTPS
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Sử dụng ({ $url }) mặc định
+    .accesskey = U
+    .tooltiptext = Sử dụng URL mặc định để phân giải DNS qua HTTPS
+connection-dns-over-https-url-custom =
+    .label = Tùy chỉnh
+    .accesskey = C
+    .tooltiptext = Nhập URL ưa thích của bạn để phân giải DNS qua HTTPS
