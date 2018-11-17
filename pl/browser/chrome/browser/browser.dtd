@@ -783,6 +783,8 @@
 <!ENTITY trackingProtection.unblock3.accesskey "W">
 <!ENTITY trackingProtection.unblock4.label "Wyłącz dla tej witryny">
 <!ENTITY trackingProtection.unblock4.accesskey "W">
+<!ENTITY trackingProtection.unblock5.label "Wyłącz dla tej witryny">
+<!ENTITY trackingProtection.unblock5.accesskey "W">
 <!ENTITY trackingProtection.unblockPrivate.label "Wyłącz ochronę w tym oknie prywatnym">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "W">
 <!ENTITY trackingProtection.unblockPrivate2.label "Tymczasowo wyłącz dla tej witryny">
@@ -791,6 +793,8 @@
 <!ENTITY trackingProtection.unblockPrivate3.accesskey "T">
 <!ENTITY trackingProtection.unblockPrivate4.label "Tymczasowo wyłącz dla tej witryny">
 <!ENTITY trackingProtection.unblockPrivate4.accesskey "T">
+<!ENTITY trackingProtection.unblockPrivate5.label "Tymczasowo wyłącz dla tej witryny">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
 <!ENTITY trackingProtection.block2.label "Włącz ochronę dla tej witryny">
 <!ENTITY trackingProtection.block2.accesskey "W">
 <!ENTITY trackingProtection.block3.label "Włącz ochronę przed śledzeniem">
@@ -799,6 +803,8 @@
 <!ENTITY trackingProtection.block4.accesskey "W">
 <!ENTITY trackingProtection.block5.label "Włącz dla tej witryny">
 <!ENTITY trackingProtection.block5.accesskey "W">
+<!ENTITY trackingProtection.block6.label "Włącz dla tej witryny">
+<!ENTITY trackingProtection.block6.accesskey "W">
 <!ENTITY trackingProtection.reload.label "Odśwież tę stronę">
 <!ENTITY trackingProtection.reload.accesskey "O">
 <!ENTITY trackingProtection.reload2.label "Odśwież stronę">
