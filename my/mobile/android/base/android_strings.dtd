@@ -296,6 +296,11 @@
      Will be used in the context "<Turn on> ... to enable this feature" -->
 <!ENTITY pref_feature_tips_notification_enabling_hint "ဖွင့်ပါ">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "စမ်းသပ်နေဆဲ လုပ်ဆောင်ချက်များ">
@@ -581,7 +586,7 @@
 <!ENTITY masterpassword_create_title "ပင်မ စကားဝှက်ကို ပြောင်းလဲပါ">
 <!ENTITY masterpassword_remove_title "ပင်ရင်း စကားဝှက်ကို ဖယ်ရှားပါ">
 <!ENTITY masterpassword_password "စကားဝှက်">
-<!ENTITY masterpassword_confirm "ပတ်စ်ဝတ်အားအတည်ပြုပါ">
+<!ENTITY masterpassword_confirm "စကားဝှက်ကို အတည်ပြုပါ">
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "မဆောင်ရွက်ပါ">
@@ -615,10 +620,10 @@
 <!ENTITY home_closed_tabs_number "&formatD; တပ်ဗ်များ">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "စာအမှတ် ၁ခု">
-<!ENTITY home_most_recent_empty "သင်လတ်တလော လေ့လာခဲ့သော ဝတ်ဆိုဒ်များ">
+<!ENTITY home_most_recent_empty "လတ်တလော ကြည့်ရှုထားသည့် ဝဘ်ဆိုက်များကို ယခုနေရာတွင် ပြပါမည်။">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1; အားသုံးပြီး တစ်ကိုယ်ရေသုံး တပ်ဗ်&formatS2; တစ်ခုဖွင့်ပါ">
+<!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1; သီးသန့်တပ်ဗ်အသစ် &formatS2; ကို အသုံးပြုခြင်းသည် သင့်ကြည့်ရှုမှုမှတ်တမ်းကို သိမ်းမည် မဟုတ်ပါ။">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -898,11 +903,14 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
 <!ENTITY mls_notification_channel "&vendorShortName; Location Service">
 <!ENTITY download_notification_channel "ဆွဲယူထားသည့်ဖိုင်များ">
 <!ENTITY media_notification_channel "မီဒီယာဖွင့်ခြင်း">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; တွန်းပို့အသိပေးချက်များ">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY updater_notification_channel "အက်ပ်နောက်ဆုံးရမွမ်းမံချက်">
 <!ENTITY synced_tabs_notification_channel "တစ်ပြေးညီပြုလုပ်ထားသော တပ်ဗ်များ">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
