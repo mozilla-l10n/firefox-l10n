@@ -18,8 +18,8 @@
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "กำลังดาวน์โหลดใบรับรอง">
 <!ENTITY downloadCert.message1 "คุณได้รับคำขอให้เชื่อถือผู้ออกใบรับรอง (CA) ใหม่">
-<!ENTITY downloadCert.trustSSL "เชื่อมั่น CA แห่งนี้สำหรับการระบุเว็บไซต์">
-<!ENTITY downloadCert.trustEmail "เชื่อมั่น CA แห่งนี้สำหรับการระบุผู้ใช้อีเมล">
+<!ENTITY downloadCert.trustSSL "เชื่อถือ CA นี้เพื่อระบุเว็บไซต์">
+<!ENTITY downloadCert.trustEmail "เชื่อถือ CA นี้เพื่อระบุผู้ใช้อีเมล">
 <!ENTITY downloadCert.message3 "ก่อนที่จะเชื่อมั่น CA แห่งนี้ไม่ว่าเพื่อวัตถุประสงค์ใดก็ตาม คุณควรตรวจสอบใบรับรองตลอดจนนโยบายและขั้นตอนการรับรองของ CA แห่งนั้นเสียก่อน (ถ้ามี)">
 <!ENTITY downloadCert.viewCert.label "ดู">
 <!ENTITY downloadCert.viewCert.text "ตรวจสอบใบรับรอง CA">
