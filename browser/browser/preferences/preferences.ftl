@@ -292,20 +292,33 @@ browsing-search-on-start-typing =
 
 ## General Section - Proxy
 
+network-proxy-connection-description = កំណត់រចនាសម្ព័ន្ធរបៀបដែល { -brand-short-name } តភ្ជាប់ទៅអ៊ីនធឺណិត
+network-proxy-connection-learn-more = ស្វែងយល់​បន្ថែម
 network-proxy-connection-settings =
     .label = ការ​កំណត់…
     .accesskey = e
 
 ## Home Section
 
+home-new-windows-tabs-header = វីនដូ និងផ្ទាំងថ្មី
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = ទំព័រដើម និងវីនដូថ្មី
+home-newtabs-mode-label = ផ្ទាំងថ្មី
 home-restore-defaults =
     .label = ស្ដារ​លំនាំ​ដើម
     .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = ទំព័រដើម Firefox (លំនាំដើម)
+home-mode-choice-custom =
+    .label = URL ផ្ទាល់ខ្លួន…
 home-mode-choice-blank =
     .label = ទំព័រទទេ
+home-homepage-custom-url =
+    .placeholder = ដាក់​ចូល URL…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -324,10 +337,18 @@ choose-bookmark =
 ## Search Section
 
 search-bar-header = របារស្វែងរក
+search-bar-hidden =
+    .label = ប្រើប្រាស់​របាអាសយដ្ឋានសម្រាប់ការស្វែងរក និងរុករក
+search-bar-shown =
+    .label = បញ្ចូល​របារស្វែងរកនៅក្នុងរបារឧបករណ៍
 search-engine-default-header = ម៉ាស៊ីន​ស្វែងរក​លំនាំដើម
+search-engine-default-desc = ជ្រើសរើសម៉ាស៊ីនស្វែងរកលំនាំដើម ដើម្បីប្រើប្រាស់​នៅក្នុងរបារអាសយដ្ឋាន និងរបារស្វែងរក។
 search-suggestions-option =
     .label = បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក
     .accesskey = រ
+search-show-suggestions-url-bar-option =
+    .label = បង្ហាញការណែនាំ​ស្វែងរកនៅក្នុងលទ្ធផលរបារអាសយដ្ឋាន
+    .accesskey = I
 search-suggestions-cant-show = សំណើ​ស្វែងរក​នឹង​​មិន​បង្ហាញ​នៅ​ក្នុង​លទ្ធផល​របារ​ទីតាំង​​ទេ ព្រោះ​អ្នក​បាន​កំណត់​រចនាសម្ព័ន្ធ { -brand-short-name } មិន​ដែល​ឲ្យ​ចងចាំ​ប្រវត្តិ។
 search-one-click-header = ម៉ាស៊ីន​ស្វែងរក​ចុច​តែ​ម្ដង
 search-choose-engine-column =
