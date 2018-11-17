@@ -547,6 +547,10 @@ addressbar-suggestions-settings = ប្ដូរ​ចំណូលចិត្�
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = ស្វែងយល់​បន្ថែម
+content-blocking-restore-defaults =
+    .label = ស្ដារ​លំនាំ​ដើម
+    .accesskey = R
 
 ## Privacy Section - Tracking
 
