@@ -119,3 +119,6 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ການນຳໃຊ້ເທັກໂນໂລຢີທີ່ຫລ້າສະໄຫມ ແລະ ມີຊ່ອງໂວໃຫ້ແກ່ການໂຈມຕີ. ຜູ້ບຸກລຸກສາມາດເປີດເຜີຍຂໍ້ມູນທີ່ທ່ານຄິດວ່າປອດໄພໄດ້ຢ່າງງ່າຍດາຍ. ຜູ້ດູແລເວັບໄຊທ໌ຈະຕ້ອງແກ້ໄຂເຄື່ອງແມ່ຂາຍກ່ອນທີ່ທ່ານຈະສາມາດເຂົ້າໄປເບິງເວັບໄຊທ໌ໄດ້.</p><p> ລະຫັດຂໍ້ຜິດພາດ:NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+<!ENTITY networkProtocolError.title "ໂປໂຕຄໍເນັດເວີກມີຂໍ້ຜິດພາດ">
+<!ENTITY networkProtocolError.longDesc "<p>ບໍ່ສາມາດສະແດງຫນ້າເວັບທີ່ທ່ານກຳລັງເຂົ້າໄປເບິງໄດ້ ເພາະວ່າໄດ້ພົບມີຂໍ້ພິດພາບໃນໂປໂຕຄໍຂອງເນັດເວີກ.</p><ul><li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທເພື່ອແຈ້ງກ່ຽວກັບບັນຫານີ້.</li></ul>">
