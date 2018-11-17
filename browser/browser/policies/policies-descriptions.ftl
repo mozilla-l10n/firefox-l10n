@@ -41,3 +41,10 @@ policy-DisableSetAsDesktopBackground = Vô hiệu hóa lệnh Đặt nhiều ả
 policy-DisableTelemetry = Tắt Telemetry.
 policy-DisplayBookmarksToolbar = Hiển thị mặc định Thanh công cụ Bookmarks.
 policy-FlashPlugin = Cho phép hoặc từ chối việc sử dụng phần bổ trợ Flash.
+policy-HardwareAcceleration = Nếu false, hãy tắt chế độ tăng tốc phần cứng.
+# “lock” means that the user won’t be able to change this setting
+policy-Homepage = Đặt và tùy chọn khóa trang chủ.
+policy-InstallAddonsPermission = Cho phép một số website cài đặt tiện ích.
+policy-Proxy = Cài đặt cấu hình proxy.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Cài đặt các mô-đun PKCS # 11.
