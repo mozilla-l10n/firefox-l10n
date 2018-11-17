@@ -292,6 +292,9 @@ update-enable-search-update =
     .label = Pa yonil k'exoj chuqa' ruk'wayöl kanob'äl
     .accesskey = x
 update-pref-write-failure-title = Rusachoj Tz'ib'anïk
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Man xyake' ta ri ajowab'äl. Man xtz'ib'äx ta chi re ri yakb'äl: { $path }
 
 ## General Section - Performance
 
@@ -331,6 +334,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Tikanöx taq rucholajem tzij toq tajin yatz'ib'an
     .accesskey = t
+browsing-cfr-recommendations =
+    .label = Kechilab'ëx taq k'amal toq nib'an okem pa k'amaya'l
+    .accesskey = K
 browsing-cfr-recommendations-learn-more = Tetamäx Ch'aqa' chik
 
 ## General Section - Proxy
@@ -533,6 +539,7 @@ privacy-header = Richinanem Okik'amaya'l
 ## Privacy Section - Forms
 
 forms-header = Nojwuj & Ewan taq Tzij
+logins-header = Kitikirisanïk Molojri'ïl & Ewan taq Tzij
 forms-ask-to-save-logins =
     .label = Tik'utüx chi rij ri kiyakik kitikirib'al taq molojri'ïl chuqa' ri ewan taq kitzij taq ruxaq ajk'amaya'l
     .accesskey = r
