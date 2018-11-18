@@ -556,6 +556,10 @@ content-blocking-learn-more = ស្វែងយល់​បន្ថែម
 content-blocking-restore-defaults =
     .label = ស្ដារ​លំនាំ​ដើម
     .accesskey = R
+content-blocking-toggle-label-on = បើក
+    .accesskey = O
+content-blocking-toggle-label-off = បិទ
+    .accesskey = O
 
 ## Privacy Section - Tracking
 
