@@ -5,3 +5,4 @@
 restart-required-title = ຕ້ອງເລີ່ມເຮັດວຽກໃຫມ່
 restart-required-header = ຂໍອະໄພ. ພວກເຮົາຈຳເປັນຕ້ອງເຮັດສິ່ງນ້ອຍໆອີກຫນຶ່ງຢ່າງເພື່ອດຳເນີນການຕໍ່.
 restart-required-intro = ພວກເຮົາຫາກໍຕິດຕັ້ງການອັບເດດໃນ background. ກົດລີສະຕາດ { -brand-short-name } ເພື່ອນໍາໃຊ້ມັນ.
+restart-button-label = ເລີ່ມການເຮັດວຽກ { -brand-short-name } ໃໝ່

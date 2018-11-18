@@ -60,3 +60,6 @@
 <!ENTITY inadequateSecurityError.title "ການເຊື່ອມຕໍ່ຂອງທ່ານບໍ່ປອດໄພ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+<!ENTITY blockedByPolicy.title "ໜ້າທີ່ຖືກປິດກັ້ນ">
+

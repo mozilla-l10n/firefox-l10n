@@ -53,6 +53,7 @@ pane-sync-title = ບັນຊີ Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = ການສະຫນັບສະຫນູນ { -brand-short-name }
+addons-button-label = ສ່ວນເສີມ ແລະ ຊຸກຕົກແຕ່ງ
 focus-search =
     .key = f
 close-button =
