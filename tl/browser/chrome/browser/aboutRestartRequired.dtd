@@ -4,5 +4,6 @@
 
 <!ENTITY restartRequired.title "Kailangang i-Restart">
 
+<!ENTITY restartRequired.header "Paumahin. May kailangan muna kaming gawin bago magpatuloy.">
 
 <!ENTITY restartButton.label "i-Restart ang &brandShortName;">
