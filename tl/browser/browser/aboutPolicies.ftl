@@ -7,3 +7,6 @@ about-policies-title = Mga Polisiya Pang-enterprise
 active-policies-tab = Aktibo
 errors-tab = Mga Mali
 documentation-tab = Dokumentasyon
+policy-name = Titulo ng Polisiya
+policy-value = Halaga ng Polisiya
+policy-errors = Mga Mali sa Polisiya

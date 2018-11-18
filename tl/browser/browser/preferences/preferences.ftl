@@ -559,6 +559,9 @@ content-blocking-toggle-label-off = OFF
 content-blocking-tracking-protection-option-always =
     .label = Palagi
     .accesskey = P
+content-blocking-tracking-protection-option-private =
+    .label = Sa pribadong window lamang
+    .accesskey = p
 
 ## Privacy Section - Tracking
 
