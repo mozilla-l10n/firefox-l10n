@@ -178,3 +178,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Titzolïx ri runuk'ulem kan k'o wi">
 
 <!ENTITY networkProtocolError.title "Rusachoj Rub'eyal Nisamäj K'amb'ey">
+<!ENTITY networkProtocolError.longDesc "<p>Man tikirel ta nik'ut ri ruxaq nawajo' natz'ët ruma xilitäj jun sachoj chi rij rub'eyal nisamäj k'amab'ey.</p><ul><li>Katzijon rik'in ri rajaw ajk'amaya'l ruxaq richin naya' rutzijol re k'ayewal re'.</li></ul>">
