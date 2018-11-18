@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = ลองเลยตอนนี้
+onboarding-button-label-get-started = เริ่มต้นใช้งาน
 onboarding-welcome-header = ยินดีต้อนรับสู่ { -brand-short-name }
 onboarding-start-browsing-button-label = เริ่มการท่องเว็บ
 
