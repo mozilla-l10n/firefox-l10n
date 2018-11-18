@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = ဘာသာစကားများ
-    .style = width: 30em
 webpage-languages-window =
     .title = ဝဘ်စာမျက်နှာ ဘာသာစကား အပြင်အဆင်များ
     .style = width: 40em
@@ -45,3 +42,4 @@ browser-languages-window =
     .title = { -brand-short-name } ဘာသာစကား အပြင်အဆင်များ
     .style = width: 40em
 browser-languages-description = { -brand-short-name } သည် ပထမဦးစွာ ရွေးချယ်ထားသော ဘာသာစကားဖြင့် မူသေအနေနှင့် ပြသပါမည်။ ထိုဘာသာဖြင့် မပြသနိုင်ပါက နောက်ရွေးချယ်ထားသော ဘာသာစကားဖြင့် ပြသပါမည်။
+browser-languages-search = အခြားဘာသာစကားများကို ရှာဖွေပါ...
