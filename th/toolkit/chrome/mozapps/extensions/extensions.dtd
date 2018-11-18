@@ -87,6 +87,7 @@
 <!ENTITY cmd.preferencesUnix.label            "ค่ากำหนด">
 <!ENTITY cmd.preferencesUnix.accesskey        "ค">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "เปิดใช้งาน">
 <!ENTITY cmd.enableAddon.accesskey            "ป">
 <!ENTITY cmd.disableAddon.label               "ปิดใช้งาน">
@@ -95,6 +96,7 @@
 <!ENTITY cmd.enableTheme.accesskey            "ช">
 <!ENTITY cmd.disableTheme.label               "เลิกใช้ชุดตกแต่ง">
 <!ENTITY cmd.disableTheme.accesskey           "ช">
+
 <!ENTITY cmd.askToActivate.label              "ถามเพื่อเปิดใช้งาน">
 <!ENTITY cmd.askToActivate.tooltip            "ถามเพื่อใช้ส่วนเสริมนี้ในแต่ละครั้ง">
 <!ENTITY cmd.alwaysActivate.label             "เปิดใช้งานเสมอ">
@@ -104,6 +106,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "เปลี่ยนเมื่อส่วนเสริมนี้ทำงาน">
 <!ENTITY cmd.installAddon.label               "ติดตั้ง">
 <!ENTITY cmd.installAddon.accesskey           "ต">
+
 <!ENTITY cmd.uninstallAddon.label             "เอาออก">
 <!ENTITY cmd.uninstallAddon.accesskey         "อ">
 <!ENTITY cmd.showPreferencesWin.label         "ตัวเลือก">
@@ -162,9 +165,12 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "หยุดชั่วคราว">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "ยกเลิก">
 
 <!ENTITY addon.homepage                       "หน้าแรก">
+
 <!ENTITY addon.details.label                  "เพิ่มเติม">
 <!ENTITY addon.details.tooltip                "แสดงรายละเอียดเพิ่มเติมเกี่ยวกับส่วนเสริมนี้">
 <!ENTITY addon.unknownDate                    "ไม่ทราบ">
@@ -186,6 +192,7 @@
 <!ENTITY addon.undoRemove.label               "เลิกทำ">
 <!ENTITY addon.undoRemove.tooltip             "ติดตั้งส่วนเสริมนี้ต่อไป">
 <!ENTITY addon.restartNow.label               "เริ่มการทำงานใหม่ตอนนี้">
+
 <!ENTITY addon.install.label                  "ติดตั้ง">
 <!ENTITY addon.install.tooltip                "ติดตั้งส่วนเสริมนี้">
 <!ENTITY addon.updateNow.label                "อัปเดตตอนนี้">
@@ -228,4 +235,5 @@
 
 <!ENTITY legacyWarning.showLegacy "แสดงส่วนขยายแบบเก่า">
 <!ENTITY legacyExtensions.title "ส่วนขยายแบบเก่า">
+<!ENTITY legacyExtensions.description "ส่วนขยายเหล่านี้ไม่เป็นไปตามมาตรฐาน &brandShortName; ปัจจุบัน ดังนั้นจึงถูกปิดใช้งาน">
 <!ENTITY legacyExtensions.learnMore "เรียนรู้เกี่ยวกับการเปลี่ยนแปลงของส่วนเสริม">
