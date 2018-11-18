@@ -5,8 +5,8 @@
 <!ENTITY autoconfigWizard2.title         "Configurează un cont de e-mail existent">
 <!ENTITY name.label                      "Numele tău:">
 <!ENTITY name.accesskey                  "N">
-<!ENTITY name.placeholder                "Prenume Nume">
-<!ENTITY name.text                       "Numele tău așa cum este afișat altora">
+<!ENTITY name.placeholder                "Prenume Nume de familie">
+<!ENTITY name.text                       "Numele tău, așa cum îl văd ceilalți">
 <!ENTITY email.label                     "Adresa de e-mail:">
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
@@ -20,12 +20,12 @@
 <!ENTITY rememberPassword.accesskey      "M">
 
 <!ENTITY imapLong.label                  "IMAP (dosare la distanță)">
-<!ENTITY pop3Long.label                  "POP3 (stochează mesajele pe calculatorul propriu)">
+<!ENTITY pop3Long.label                  "POP3 (păstrați mesajele pe calculator)">
 
 <!ENTITY incoming.label                  "Primire:">
 <!ENTITY outgoing.label                  "Trimitere:">
 <!ENTITY username.label                  "Nume de utilizator:">
-<!ENTITY hostname.label                  "Numele serverului">
+<!ENTITY hostname.label                  "Numele serverului-gazdă">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Autentificare">
@@ -51,9 +51,9 @@
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY half-manual-test.label          "Testează din nou configurația">
+<!ENTITY half-manual-test.label          "Testează din nou">
 <!ENTITY half-manual-test.accesskey      "T">
-<!ENTITY manual-edit.label               "Configurează manual">
+<!ENTITY manual-edit.label               "Configurare manuală">
 <!ENTITY manual-edit.accesskey           "m">
 <!ENTITY open-provisioner.label          "Obține o adresă de e-mail nouă…">
 <!ENTITY open-provisioner.accesskey      "O">
@@ -80,9 +80,9 @@
 <!ENTITY changeSettings.label            "Schimbă setările">
 <!ENTITY changeSettings.accesskey        "S">
 
-<!ENTITY contactYourProvider.description "&brandShortName; îți poate permite accesarea contului de e-mail folosind configurația furnizată. Totuși, ar trebui să contactezi administratorul sau furnizorul de e-mail în legătură cu aceste conexiuni improprii. Vezi întrebările adresate frecvent privind Thunderbird pentru mai multe informații.">
+<!ENTITY contactYourProvider.description "&brandShortName; poate permite accesarea contului de e-mail folosind configurațiile furnizate. Totuși, trebuie să contactezi administratorul sau furnizorul de e-mail pentru conexiuni necorespunzătoare. Vezi întrebări adresate frecvent în Thunderbird FAQ pentru mai multe informații.">
 
-<!ENTITY insecureServer.tooltip.title    "Avertisment! Acesta este un server nesecurizat.">
+<!ENTITY insecureServer.tooltip.title    "Avertisment! Server nesecurizat.">
 <!ENTITY insecureServer.tooltip.details  "Clic pe cerc pentru mai multe detalii.">
 
 <!ENTITY insecureUnencrypted.description "Adresa ta de e-mail și datele de autentificare sunt trimise fără a fi criptate, ca urmare parola ta și mesajul tău pot fi citite de alte persoane. &brandShortName; îți va permite să îți citești mesajele, dar ar trebui să contactezi furnizorul de e-mail în legătură cu configurarea serverului pentru o conexiune securizată.">
