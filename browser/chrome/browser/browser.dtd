@@ -927,6 +927,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "យក​រូបរាង​ច្រើនទៀត">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.overflowList.title2 "ម៉ឺនុយ Overflow">
+<!ENTITY customizeMode.overflowList.description "អូស​ទម្លាក់​ធាតុ​នៅ​ត្រង់​នេះ ដើម្បីឲ្យពួកគេអាចចូលប្រើបាន ប៉ុន្តែ​មិន​នៅ​ក្នុង​របារឧបករណ៍របស់អ្នកទេ…">
 <!ENTITY customizeMode.uidensity "ដង់ស៊ីតេ">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -948,6 +949,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 <!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ប្រើ​ការ​ប៉ះ​សម្រាប់​របៀប​ថេប្លេត">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "លាក់​ដោយ​ស្វ័យប្រវត្តិ">
 
 <!ENTITY getUserMedia.selectCamera.label "ម៉ាស៊ីន​ថត​ដែល​ត្រូវ​ចែករំលែក៖">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -956,12 +958,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "អូឌីយ៉ូ​ពី​ផ្ទាំង​នឹង​ត្រូវ​បាន​ចែករំលែក។">
 <!ENTITY getUserMedia.allWindowsShared.message "បង្អួច​ទាំងអស់​​ដែល​អាច​មើល​ឃើញ​នៅ​លើ​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​ចែករំលែក។">
 
+<!ENTITY contentBlocking.title "ទប់ស្កាត់​មាតិកា">
+<!ENTITY contentBlocking.disabled.label "បាន​បិទ">
 
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "បាន​ទប់ស្កាត់">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
@@ -1081,6 +1086,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "ទាញ​យក​ច្បាប់​ចម្លង &brandShorterName; ថ្មី">
 
+<!ENTITY updateRestart.message2 "បន្ទាប់ពីចាប់ផ្តើមឡើងវិញ &brandShorterName; នឹងស្តារផ្ទាំង ដែលបើកទាំងអស់របស់អ្នក ដែលមិននៅក្នុង​មុខងារ​រុករក​ឯកជន។">
 <!ENTITY updateRestart.header.message2 "ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព &brandShorterName;។">
 <!ENTITY updateRestart.acceptButton.label "ចាប់ផ្ដើម និង​ស្ដារ">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
@@ -1088,21 +1094,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព &brandShorterName;">
 
+<!ENTITY newTabControlled.header.message "ផ្ទាំងថ្មីរបស់អ្នកត្រូវបានប្តូរ។">
+<!ENTITY newTabControlled.keepButton.label "រក្សា​ការ​ផ្លាស់ប្ដូរ">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
 
 
 <!ENTITY tabHideControlled.disableButton.label "បិទ​ផ្នែក​បន្ថែម">
 
 <!ENTITY pageActionButton.tooltip "ទំព័រ​សកម្មភាព">
+<!ENTITY pageAction.addToUrlbar.label "បញ្ចូល​ទៅក្នុង​របារអាសយដ្ឋាន">
+<!ENTITY pageAction.removeFromUrlbar.label "លុបចេញពីរបារអាសយដ្ឋាន">
+<!ENTITY pageAction.allowInUrlbar.label "បង្ហាញក្នុងរបារអាសយដ្ឋាន">
+<!ENTITY pageAction.disallowInUrlbar.label "កុំបង្ហាញក្នុងរបារអាសយដ្ឋាន">
+<!ENTITY pageAction.manageExtension.label "គ្រប់គ្រងផ្នែកបន្ថែម…">
 
+<!ENTITY pageAction.sendTabToDevice.label "ផ្ញើ​ផ្ទាំង​ទៅ​ឧបករណ៍">
 
 <!ENTITY sendToDevice.syncNotReady.label "កំពុង​ធ្វើ​សមកាលកម្ម​ឧបករណ៍…">
 
 
+<!ENTITY libraryButton.tooltip "មើលប្រវត្តិ ចំណាំដែលបានរក្សាទុក និងច្រើនទៀត">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "បានបើក​មុខងារ​ភាពងាយស្រួលចូលប្រើ">
 
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
