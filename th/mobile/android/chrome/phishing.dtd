@@ -11,7 +11,7 @@
 <!ENTITY safeb.blocked.malwarePage.title "หน้ารุกรานตามการรายงาน!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "หน้าเว็บนี้ที่ <span id='malware_sitename'/> ถูกรายงานว่าเป็นหน้ารุกรานและถูกปิดกั้นตามค่ากำหนดความปลอดภัยของคุณ">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>หน้ารุกรานจะพยายามติดตั้งโปรแกรมซึ่งขโมยข้อมูลส่วนตัว ใช้คอมพิวเตอร์ของคุณเพื่อโจมตีผู้อื่น หรือสร้างความเสียหายให้กับระบบของคุณ</p><p>บางหน้ารุกรานจงใจแจกจ่ายซอฟต์แวร์ที่เป็นอันตราย แต่หลายแห่งก็ถูกบุกรุกโดยที่เจ้าของไม่ทราบหรือไม่ได้อนุญาต</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>หน้ารุกรานจะพยายามติดตั้งโปรแกรมที่ขโมยข้อมูลส่วนตัว ใช้คอมพิวเตอร์ของคุณเพื่อโจมตีผู้อื่น หรือสร้างความเสียหายให้กับระบบของคุณ</p><p>หน้ารุกรานบางส่วนจงใจแจกจ่ายซอฟต์แวร์ที่เป็นอันตราย แต่หลายแห่งก็ถูกบุกรุกโดยที่เจ้าของไม่ทราบหรือไม่ได้อนุญาต</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "ไซต์หลอกลวง!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
