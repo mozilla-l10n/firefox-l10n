@@ -20,7 +20,7 @@
 <!ENTITY previewCmd.label "Vizualizează pagina">
 <!ENTITY previewCmd.accesskey "w">
 <!ENTITY sendPageCmd.label "Trimite pagina…">
-<!ENTITY sendPageCmd.accesskey "T">
+<!ENTITY sendPageCmd.accesskey "t">
 
 <!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Bară de redactare">
@@ -46,7 +46,7 @@
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Mod de editare normal">
 <!ENTITY NormalMode.accesskey "n">
-<!ENTITY NormalMode.tooltip "Afișează bordurile tabelelor și ancorele cu nume">
+<!ENTITY NormalMode.tooltip "Afișează bordurile tabelelor și ancorele denumite">
 <!ENTITY AllTagsModeTab.label "Etichete HTML">
 <!ENTITY AllTagsMode.label "Etichete HTML">
 <!ENTITY AllTagsMode.accesskey "E">
@@ -64,4 +64,4 @@
 <!ENTITY PreviewModeTab.label "Previzualizează">
 <!ENTITY PreviewMode.label "Previzualizează">
 <!ENTITY PreviewMode.accesskey "P">
-<!ENTITY PreviewMode.tooltip "Afișează vizual (WYSIWYG, ca în browser)">
+<!ENTITY PreviewMode.tooltip "Afișează ca WYSIWYG (ca în browser)">
