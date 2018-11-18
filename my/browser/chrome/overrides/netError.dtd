@@ -8,8 +8,12 @@
 <!ENTITY loadError.label "စာမျက်နှာ ဖွင့်လှစ်မှု အမှား">
 <!ENTITY retry.label "ထပ်ကြိုးစားပါ">
 <!ENTITY returnToPreviousPage.label "နောက်သို့ သွားရန်">
+<!ENTITY returnToPreviousPage1.label "ပြန်သွားပါ (အကြံပြုချက်အရ)">
 <!ENTITY advanced.label "အဆင့်မြင့်">
+<!ENTITY continue2.label "ပို၍…">
+<!ENTITY moreInformation.label "နောက်ထပ်အချက်အလက်များ">
 
+<!ENTITY viewCertificate.label "အထောက်အထားများကို ကြည့်ရန်">
 
 <!-- Specific error messages -->
 
@@ -48,7 +52,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "ကွန်ယက်သို့ လက်မှတ်ထိုးဝင်ရန် စာမျက်နှာကို ဖွင့်ပါ">
 
+<!ENTITY malformedURI.pageTitle "မမှန်ကန်သောURL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "ဟမ်။ ဒီလိပ်စာက မှန်ကန်မယ်မထင်ဘူး။">
 
 <!ENTITY netInterrupt.title "ချိတ်ဆက်မှု ပြတ်တောက်သွားခဲ့သည်">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -129,6 +135,8 @@
 </ul>">
 
 <!ENTITY certerror.longpagetitle1 "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
+<!ENTITY certerror.longpagetitle2 "သတိပေးချက်: လုံခြုံရေးအန္တရာယ်">
+<!ENTITY certerror.sts.longpagetitle  "လုံခြုံရေးပြဿနာကြောင့် မချိတ်ဆက်ခဲ့ပါ။">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
