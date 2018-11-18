@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = HTTPS арқылы DNS шешу URL сілтемесі
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Бастапқысын қолдану ({ $url })
+    .accesskey = ы
+    .tooltiptext = HTTPS арқылы DNS шешу үшін бастапқы URL қолдану
+connection-dns-over-https-url-custom =
+    .label = Таңдауыңызша
+    .accesskey = т
+    .tooltiptext = HTTPS арқылы DNS шешу үшін таңдауыңызша URL енгізіңіз

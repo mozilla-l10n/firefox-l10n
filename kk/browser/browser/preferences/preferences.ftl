@@ -288,6 +288,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Іздеу жүйелерін автожаңарту
     .accesskey = а
+update-pref-write-failure-title = Жазу қатесі
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Баптауды сақтау мүмкін емес. Файлға жазу қатесі: { $path }
 
 ## General Section - Performance
 
@@ -605,6 +609,9 @@ sitedata-keep-until-expire =
     .label = олардың мерзімі аяқталады
 sitedata-keep-until-closed =
     .label = { -brand-short-name } жабылған
+sitedata-delete-on-close =
+    .label = { -brand-short-name } жабылған кезде cookies және сайттар деректерін өшіру
+    .accesskey = ш
 sitedata-allow-cookies-option =
     .label = Cookies және сайт деректерін қабылдау
     .accesskey = а
@@ -879,3 +886,7 @@ space-alert-under-5gb-message = { -brand-short-name } үшін бос орын �
 desktop-folder-name = Жұмыс үстелі
 downloads-folder-name = Жүктемелер
 choose-download-folder-title = Жүктемелер сақталатын буманы таңдаңыз:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Файлдарды { $service-name } қызметіне сақтау
