@@ -392,7 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fișier">
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "Filă de container nouă">
+<!ENTITY newUserContext.label             "Filă container nouă">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "Gestionează containerele">
 <!ENTITY manageUserContext.accesskey      "O">
@@ -617,7 +617,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Deschide cadrul într-o fereastră nouă">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "Deschide linkul într-o filă de container nouă">
+<!ENTITY openLinkCmdInContainerTab.label "Deschide linkul într-o filă container nouă">
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Afișează doar acest cadru">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
@@ -909,7 +909,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Deschide preferințele &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activează sincronizarea filelor pentru a vedea o listă de file de celelalte dispozitive ale tale.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Pornește sincronizarea filelor pentru a vedea o listă cu file de pe celelalte dispozitive.">
 <!ENTITY syncedTabs.sidebar.searchPlaceholder  "Caută în filele sincronizate">
 <!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Conectează alt dispozitiv">
 
