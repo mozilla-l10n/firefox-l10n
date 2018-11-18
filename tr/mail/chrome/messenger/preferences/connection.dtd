@@ -52,5 +52,7 @@
 <!ENTITY  dnsOverHttpsUrl.tooltip       "HTTPS üzerinden DNS çözümleme adresi">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "Varsayılanı kullan">
 <!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "DNS’i HTTPS üzerinden çözümlemek için varsayılan adresi kullan">
 <!ENTITY  dnsOverHttpsUrlCustom.label      "Özel">
 <!ENTITY  dnsOverHttpsUrlCustom.accesskey  "Ö">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "DNS’i HTTPS üzerinden çözümlemek için tercih ettiğiniz adresi girin">
