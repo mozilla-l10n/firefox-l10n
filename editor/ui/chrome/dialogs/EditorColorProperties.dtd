@@ -7,10 +7,10 @@
 <!ENTITY pageColors.label "Culori pagină">
 <!ENTITY defaultColorsRadio.label "Culorile implicite ale cititorului (Nu seta nici o culoare)">
 <!ENTITY defaultColorsRadio.accessKey "C">
-<!ENTITY defaultColorsRadio.tooltip "Folosește setările de culori din browserul celui care vede sau citește">
+<!ENTITY defaultColorsRadio.tooltip "Folosește numai setările de culori din browser">
 <!ENTITY customColorsRadio.label "Folosește culori personale:">
 <!ENTITY customColorsRadio.accessKey "p">
-<!ENTITY customColorsRadio.tooltip "Aceste setări de culori înlocuiesc setările implicite ale browserului">
+<!ENTITY customColorsRadio.tooltip "Aceste setări de culori le înlocuiesc pe cele ale browserului">
 
 <!ENTITY normalText.label "Text normal">
 <!ENTITY normalText.accessKey "n">

@@ -12,11 +12,11 @@
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Locație imagine:">
 <!ENTITY locationEditField.accessKey "L">
-<!ENTITY locationEditField.tooltip "Tastează numele fișierului sau locația imaginii">
+<!ENTITY locationEditField.tooltip "Tastează numele fișierului de imagine sau locația imaginii">
 <!ENTITY locationEditField.shortenedDataURI "Date URI prescurtate (copierea va plasa întregul URI în clipboard)">
 <!ENTITY title.label "Indiciu:">
 <!ENTITY title.accessKey "d">
-<!ENTITY title.tooltip "Atributul HTML „title”, care se afișează ca indicație rapidă (tooltip)">
+<!ENTITY title.tooltip "Atribut HTML „title”, care este afișat ca pont de utilizare a uneltelor">
 <!ENTITY altText.label "Text alternativ:">
 <!ENTITY altText.accessKey "a">
 <!ENTITY altTextEditField.tooltip "Tastează textul de afișat în locul imaginii">
@@ -33,7 +33,7 @@
 <!ENTITY actualSizeRadio.tooltip "Înapoi la dimensiunea reală a imaginii">
 <!ENTITY customSizeRadio.label "Dimensiune personalizată">
 <!ENTITY customSizeRadio.accessKey "p">
-<!ENTITY customSizeRadio.tooltip "Modifică dimensiunea imaginii așa cum va fi afișată pe pagină">
+<!ENTITY customSizeRadio.tooltip "Modifică mărimea imaginii, așa cum va fi afișată pe pagină">
 <!ENTITY heightEditField.label "Înălțime:">
 <!ENTITY heightEditField.accessKey "n">
 <!ENTITY widthEditField.label "Lățime:">
@@ -69,7 +69,7 @@
 <!ENTITY showImageLinkBorder.accessKey "A">
 <!ENTITY LinkAdvancedEditButton.label "Editare avansată a linkului…">
 <!ENTITY LinkAdvancedEditButton.accessKey "l">
-<!ENTITY LinkAdvancedEditButton.tooltip "Adăugă sau modifică atribute HTML, stiluri, precum și cod JavaScript">
+<!ENTITY LinkAdvancedEditButton.tooltip "Adaugă sau modifică atribute HTML, atribute de stiluri și cod JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "formular">

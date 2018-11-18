@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY WindowTitle.label              "Editor avansat de proprietăți">
+<!ENTITY WindowTitle.label              "Editor proprietăți avansate">
 <!ENTITY AttName.label                  "Atribut: ">
 <!ENTITY AttValue.label                 "Valoare: ">
 <!ENTITY PropertyName.label             "Proprietate: ">
@@ -11,8 +11,8 @@
 <!ENTITY tree.propertyHeader.label      "Proprietate">
 <!ENTITY tree.valueHeader.label         "Valoare">
 <!ENTITY tabHTML.label                  "Atribute HTML">
-<!ENTITY tabCSS.label                   "Stil inline">
+<!ENTITY tabCSS.label                   "Stil în linie">
 <!ENTITY tabJSE.label                   "Evenimente JavaScript">
 
-<!ENTITY editAttribute.label    "Clic pe un element de mai sus pentru a-i edita valoarea">
-<!ENTITY removeAttribute.label  "Șterge">
+<!ENTITY editAttribute.label    "Dă clic pe un element de mai sus pentru a-i edita valoarea">
+<!ENTITY removeAttribute.label  "Elimină">

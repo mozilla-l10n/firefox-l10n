@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Smiley Menu items -->
-<!ENTITY insertSmiley.label "Zâmbăreț">
+<!ENTITY insertSmiley.label "Emoticon">
 <!ENTITY insertSmiley.accesskey "Z">
 
 <!ENTITY smiley1Cmd.label "Zâmbitor">
