@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Administrador de complementos
+search-header =
+    .placeholder = Buscar en addons.mozilla.org
+    .searchbuttonlabel = Buscar
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,11 @@ list-empty-button =
 install-addon-from-file =
     .label = Instalar complemento desde archivo…
     .accesskey = I
+preferences =
+    { PLATFORM() ->
+        [windows] Opciones de { -brand-short-name }
+       *[other] Preferencias de { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Herramientas para todos los complementos
 show-unsigned-extensions-button =

@@ -323,6 +323,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Buscar texto cuando comience a escribir
     .accesskey = x
+browsing-cfr-recommendations-learn-more = Saber más
 
 ## General Section - Proxy
 
