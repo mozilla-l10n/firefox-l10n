@@ -131,12 +131,17 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Crash Guard Disabled Features">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
 
+<!ENTITY aboutSupport.mediaOutputDevicesTitle "ອຸປະກອນອອກ">
+<!ENTITY aboutSupport.mediaInputDevicesTitle "ອຸປະກອນເຂົ້າ">
 <!ENTITY aboutSupport.mediaDeviceName "ຊື່">
 <!ENTITY aboutSupport.mediaDeviceGroup "ກຸ່ມ">
 <!ENTITY aboutSupport.mediaDeviceVendor "ຜູ້ຂາຍ">
 <!ENTITY aboutSupport.mediaDeviceState "ສະຖານະ">
 <!ENTITY aboutSupport.mediaDevicePreferred "ທີ່ຕ້ອງການ">
 <!ENTITY aboutSupport.mediaDeviceFormat "ຮູບແບບ">
+<!ENTITY aboutSupport.mediaDeviceChannels "ຊ່ອງ">
 <!ENTITY aboutSupport.mediaDeviceRate "ອັດຕາ">
+<!ENTITY aboutSupport.mediaDeviceLatency "ການຍືດເວລາ">
 
+<!ENTITY aboutSupport.intlAppTitle "ການຕັ້ງຄ່າແອັບພິເຄຊັ່ນ">
 <!ENTITY aboutSupport.intlOSTitle "ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ">
