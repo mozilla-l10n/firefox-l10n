@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY firstrun_panel_title_welcome "សូម​ស្វាគមន៍">
-
-<!ENTITY firstrun_urlbar_message "សូម​ស្វាគមន៍​មកកាន់ &brandShortName;!">
-<!ENTITY firstrun_urlbar_subtext "រក​ឃើញ​លឿន​ជាង​មុន​ដោយ​ប្រើ​ផ្លូវកាត់​ការ​ផ្ដល់​យោបល់​ស្វែងរក​ដែល​មាន​ប្រយោជន៍">
 <!ENTITY firstrun_bookmarks_title "ប្រវត្តិ">
 <!ENTITY firstrun_bookmarks_message "ចំណូលចិត្ត​របស់​អ្នក ខាងមុខ និង​កណ្ដាល">
 <!ENTITY firstrun_bookmarks_subtext "ទទួលបាន​លទ្ធផល​ពី​ការ​ចំណាំ​និង​ប្រវត្តិ​ស្វែងរក​របស់​អ្នក នៅ​ពេល​អ្នក​ស្វែងរក​អ្វី​មួយ។">
@@ -13,8 +10,6 @@
 <!ENTITY firstrun_data_message "ប្រើ​ទិន្នន័យ​តិច, សន្សំ​បាន​ច្រើន">
 <!ENTITY firstrun_data_subtext2 "បិទ​រូបភាព​នៅ​គ្រប់​វេបសាយ​ដែល​អ្នក​ចូល​មើល ដើម្បី​សន្សំសំចៃ​ទិន្នន័យ​របស់​អ្នក។">
 <!ENTITY firstrun_sync_title "ធ្វើ​សមកាលកម្ម">
-<!ENTITY firstrun_sync_message "&brandShortName;, តែងតែ​នៅ​ក្បែរ​អ្នក​ជានិច្ច">
-<!ENTITY firstrun_sync_subtext "ធ្វើ​សមកាលកម្ម​ផ្ទាំង ពាក្យ​សម្ងាត់ និងផ្សេងៗ​ទៀត​ នៅ​គ្រប់​កន្លែង​ដែល​អ្នក​ប្រើ។">
 <!ENTITY firstrun_signin_message "ឲ្យ​តែ​មាន​អ៊ិនធឺណិត​អាច​ប្រើ​បាន​ភ្លាម">
 <!ENTITY firstrun_signin_button "ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម">
 <!ENTITY  onboard_start_button_browser "ចាប់​ផ្ដើម​រុករក">
@@ -22,12 +17,6 @@
 <!ENTITY firstrun_button_next "បន្ទាប់">
 
 <!ENTITY firstrun_tabqueue_title "តំណ">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "បើកដំណើរ​ការផ្ទាំងជា​ជួរ">
-<!ENTITY firstrun_tabqueue_subtext_off "រក្សា​តំណ​សម្រាប់​ពេល​ក្រោយ​នៅ​ក្នុង &brandShortName; នៅ​ពេល​អ្នក​ចង់​ចុច​វា​នៅ​ក្នុង​កម្មវិធី​ផ្សេង​ទៀត។">
-
-<!ENTITY firstrun_tabqueue_message_on "ជោគជ័យ!">
-<!ENTITY firstrun_tabqueue_subtext_on "អ្នក​អាចបិទ​មុខងារ​នេះ​បាន​គ្រប់​ពេល នៅ​ក្នុង &settings; រួច &pref_category_general;។">
 
 <!ENTITY firstrun_readerview_title "អត្ថបទ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -64,6 +53,14 @@
 <!ENTITY  crash_restart_label "ចាប់ផ្ដើម &brandShortName; ឡើងវិញ">
 
 <!ENTITY url_bar_default_text2 "ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន">
+<!-- Localization note (url_bar_qrcode_text2) : This text will be
+     heard by non-visual users when the focus is on the QR Code
+     icon in the url bar. -->
+<!ENTITY url_bar_qrcode_text2 "ប្រើ​កម្មវិធី QR Reader របស់​អ្នក​ដើម្បី​ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន">
+<!-- Localization note (url_bar_mic_text2) : This text will be
+     heard by non-visual users when the focus is on the Microphone
+     icon in the url bar. -->
+<!ENTITY url_bar_mic_text2 "ប្រើ​មីក្រូហ្វូន​របស់​អ្នក​ដើម្បី​ស្វែង​រក ឬ​បញ្ចូល​អាសយដ្ឋាន">
 
 <!ENTITY bookmark "ចំណាំ">
 <!ENTITY bookmark_remove "លុប​ចំណាំ​ចេញ">
@@ -86,6 +83,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "ធាតុ &formatD;">
 <!ENTITY bookmark_folder_one_item "ធាតុ 1">
+<!ENTITY bookmark_folder_updated "បាន​ធ្វើ​បច្ចុប្បន្នភាព​ថតឯកសារ">
 
 <!ENTITY reader_saved_offline "បាន​រក្សា​ទុក​សម្រាប់​ពេល​គ្មាន​អ៊ីនធឺណិត">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -197,9 +195,7 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ស្ដារ​ផ្ទាំង, ការ​សំចៃ​ទិន្នន័យ, ឧបករណ៍​អ្នក​អភិវឌ្ឍ">
 <!ENTITY pref_category_notifications "ការ​ជូន​ដំណឹង">
-<!ENTITY pref_category_notifications_summary "មុខងារ​ថ្មី, បច្ចុប្បន្នភាព​វេបសាយ">
-<!ENTITY pref_content_notifications "បច្ចុប្បន្នភាព​វេបសាយ">
-<!ENTITY pref_content_notifications_summary2 "រកមើល​មាតិកា​ថ្មីៗ​ពី​វេបសាយ​ដែល​ស្គាល់">
+<!ENTITY pref_category_notifications_summary2 "មុខងារ​​ថ្មី, គន្លឹះ​ផលិតផល">
 <!ENTITY pref_developer_remotedebugging_usb "បញ្ជា​​កែ​កំហុស​ពី​ចម្ងាយ​តាមរយៈ​យូអេសប៊ី">
 <!ENTITY pref_developer_remotedebugging_wifi "បញ្ជា​​​កែ​កំហុស​ពី​ចម្ងាយ​តាមរយៈ​វ៉ាយហ្វាយ">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ការ​​កែ​កំហុស​តាម​វ៉ាយហ្វាយ​ទាមទារ​ឧបករណ៍​របស់​អ្នក​​ដំឡើង​កម្មវិធី​អាន​កូដ QR ។">
@@ -264,7 +260,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "ទាញ​យក​ពុម្ពអក្សរ​វេបសាយ​ពេល​កំពុង​ផ្ទុក​ទំព័រ">
 
 <!ENTITY pref_tracking_protection_title2 "ការ​ការពារ​ការ​តាមដាន">
-<!ENTITY pref_tracking_protection_summary3 "បាន​បើក​ដំណើរការ​ក្នុងការ​រុក​រក​ជា​ឯកជន">
 <!ENTITY pref_donottrack_title "កុំ​តាមដាន">
 <!ENTITY pref_donottrack_summary "&brandShortName; នឹង​ប្រាប់​តំបន់បណ្ដាញ​ថា​អ្នក​មិន​ចង់​ឲ្យ​តាមដាន​ទេ">
 
@@ -275,6 +270,25 @@
 <!ENTITY pref_whats_new_notification "អ្វី​ដែល​ថ្មី​នៅ​ &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "ស្វែង​យល់​អំពី​មុខងារ​ថ្មីៗ​បន្ទាប់​ពី​ធ្វើ​បច្ចុប្បន្នភាព">
 
+<!-- Localization note (pref_feature_tips_notification): Title of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification"-->
+<!ENTITY pref_feature_tips_notification "ផលិតផល ​និង​មុខងារ​​គន្លឹះ">
+<!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
+     Similar to the already existing "pref_whats_new_notification_summary"-->
+<!ENTITY pref_feature_tips_notification_summary "ស្វែងយល់​បន្ថែម​អំពី​ការ​ប្រើប្រាស់ &brandShortName; និង​ផលិតផល &vendorShortName; ផ្សេង​ទៀត">
+
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference
+     Will be used in the context "<Turn on> ... to enable this feature" -->
+<!ENTITY pref_feature_tips_notification_enabling_hint "បើក">
+
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(ដើម្បី​បើក​ជម្រើស​នេះ, &pref_feature_tips_notification_enabling_path; ត្រូវ​តែ​ត្រូវ​បាន​បើក​ជា​មុន​សិន​។ )">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "មុខងារ​ដកពិសោធន៍">
@@ -282,15 +296,13 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "ផ្ទាំង​ផ្ទាល់​ខ្លួន">
-<!ENTITY pref_custom_tabs_summary3 "អនុញ្ញាត​កម្មវិធី​ឲ្យ​បើក​វេបសាយ​ដោយ​ប្រើ​កំណែ &brandShortName; ដែល​បាន​កែប្រែ។">
+<!ENTITY pref_custom_tabs2 "ផ្ទាំង​ផ្ទាល់​ខ្លួន">
+
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "ការ​ផ្សាយ​សកម្មភាព">
-<!ENTITY pref_activity_stream_summary "ព័ត៌មាន​ប្រវត្តិ​ដែល​សម្បូរ​បែប និង​ទំព័រដើម​តាម​ការ​ចង់បាន នឹង​រឹតតែ​ធ្វើ​ឲ្យ​អ្នក​កាន់​តែ​ងាយ​ស្រួល​ស្វែង​រក​អ្វី​ដែល​អ្នក​ចង់​បាន​នៅ​ក្នុង &brandShortName;។">
+<!ENTITY pref_pwa_summary "អនុញ្ញាត​ឱ្យ​បន្ថែម​កម្មវិធី​គេហទំព័រ​ទៅ​អេក្រង់​ដើម​">
 
 <!ENTITY tracking_protection_prompt_title "ឥឡូវ​ដោយ​​​ប្រើ​ការ​ទប់ស្កាត់​ការ​តាមដាន">
 <!ENTITY tracking_protection_prompt_text "បិទ​ធាតុ​តាមដាន​ដែល​សកម្ម​ ដូច្នេះ​អ្នក​មិន​ត្រូវ​បារម្ភ​ទេ។">
@@ -324,23 +336,6 @@
      has been queued but we are missing the system permission to show an overlay. -->
 <!ENTITY tab_queue_notification_settings "ដើម្បី «បើក​តំណ​ច្រើន» សូម​បើក​ដំណើរការ «ទាញ​មក​ប្រើ​លើ​កម្មវិធី​ផ្សេងៗ» សម្រាប់ &brandShortName;">
 
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "វេបសាយ &formatD; បាន​ធ្វើ​បច្ចុប្បន្នភាព">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "ការ​កំណត់">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "អាន​ឥឡូវ">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "បាន​ធ្វើ​បច្ចុប្បន្នភាព​នៅ">
-
 <!ENTITY pref_char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
 <!ENTITY pref_char_encoding_on "បង្ហាញ​ម៉ឺនុយ">
 <!ENTITY pref_char_encoding_off "កុំ​បង្ហាញ​ម៉ឺនុយ">
@@ -349,12 +344,8 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "សម្អាត​ឥឡូវ​">
 <!ENTITY pref_clear_on_exit_title3 "សម្អាត​ទិន្នន័យ​ឯកជន​នៅ​ពេល​បិទ">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; នឹង​សម្អាត​ទិន្នន័យ​របស់​អ្នក​ដោយ​ស្វ័យ​ប្រវត្តិ នៅ​ពេលណា​​ដែល​អ្នក​ជ្រើស \u0022ចេញ\u0022 ពី​ម៉ឺនុយ​មេ">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; នឹង​សម្អាត​ទិន្នន័យ​របស់​អ្នក​ដោយ​ស្វ័យ​ប្រវត្តិ នៅ​ពេលណា​​ដែល​អ្នក​ជ្រើស \&quot;ចេញ\&quot; ពី​ម៉ឺនុយ​មេ">
 <!ENTITY pref_clear_on_exit_dialog_title "ជ្រើស​ទិន្នន័យ​ណា​មួយ​ដើម្បី​សម្អាត">
-<!ENTITY pref_plugins "កម្មវិធី​ជំនួយ">
-<!ENTITY pref_plugins_enabled "បាន​បើក">
-<!ENTITY pref_plugins_tap_to_play2 "ប៉ះ​ដើម្បី​លេង">
-<!ENTITY pref_plugins_disabled "បាន​បិទ">
 <!ENTITY pref_restore_tabs "ស្ដារ​ផ្ទាំង">
 <!ENTITY pref_restore_always "ស្ដារ​ជានិច្ច">
 <!ENTITY pref_restore_quit "កុំ​ស្ដារ​បន្ទាប់ពី​បិទ &brandShortName;">
@@ -363,7 +354,6 @@
      Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "អនុញ្ញាត​ការ​ចាក់​ស្វ័យប្រវត្តិ">
-<!ENTITY pref_media_autoplay_enabled_summary "គ្រប់គ្រង​ថា​តើ​តំបន់បណ្ដាញ​អាច​ចាក់​វីដេអូ និង​មាតិកា​មេឌៀ​ផ្សេងទៀត​បាន​ដោយ​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_zoom_force_enabled "បើក​ការ​ពង្រីក​ជានិច្ច">
 <!ENTITY pref_zoom_force_enabled_summary "បង្ខំ​បដិសេធ ដូច្នេះ​អ្នក​អាច​ពង្រីក​ទំព័រ​ណាមួយ​ក៏​បាន">
 <!ENTITY pref_voice_input "ការ​បញ្ចូល​ជា​សំឡេង">
@@ -372,6 +362,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "អនុញ្ញាត​ប្រដាប់​ស្កេន QR នៅ​ក្នុង​របារ URL">
 
 <!ENTITY pref_use_master_password "ប្រើ​ពាក្យ​សម្ងាត់​មេ ">
+<!ENTITY pref_sync_default_title "គណនី Firefox">
 <!ENTITY pref_sync2 "ចូល">
 <!ENTITY pref_sync_summary2 "ធ្វើ​សមកាលកម្ម​ផ្ទាំង​, ចំណាំ, ការ​ចូល, ប្រវត្តិ​របស់​អ្នក">
 <!ENTITY pref_search_suggestions "បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក">
@@ -401,6 +392,8 @@
 <!ENTITY pref_dialog_set_default "កំណត់​ជា​លំនាំដើម">
 <!ENTITY pref_dialog_default "លំនាំ​ដើម">
 <!ENTITY pref_dialog_remove "លុបចេញ">
+<!ENTITY pref_dialog_activitystream_header_content "មាតិកា​បន្ថែម">
+<!ENTITY pref_dialog_activitystream_visited "បាន​ទស្សនា">
 
 <!ENTITY pref_search_last_toast "អ្នក​មិន​អាច​លុប ឬ​បិទ​ម៉ាស៊ីន​ស្វែងរក​ចុងក្រោយ​របស់​អ្នក​បាន​ទេ។">
 
@@ -427,7 +420,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "របាយការណ៍​សុខភាព​របស់ &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "ចែករំលែក​ទិន្នន័យ​ជាមួយ &vendorShortName; អំពី​សុខភាព​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក និង​ជួយ​អ្នក​ឲ្យ​យល់​ពី​ដំណើរការ​របស់​វា">
-<!ENTITY datareporting_abouthr_title "មើល​របាយការណ៍​សុខភាព​របស់​ខ្ញុំ">
 <!ENTITY datareporting_telemetry_title "ទូរមាត្រ​វិធី">
 <!ENTITY datareporting_telemetry_summary "ចែករំលែក​ដំណើរការ, ការ​ប្រើប្រាស់, ផ្នែក​រឹង និង​ការ​ប្ដូរ​ទិន្នន័យ​តាម​តម្រូវ​ការ​អំពី​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​ជាមួយ &vendorShortName; ដើម្បី​ជួយ​ពួក​យើង​ក្នុង​ការ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; ដាក់​ស្នើ​របាយការណ៍​គាំង​ដើម្បី​ជួយ &vendorShortName; ធ្វើឲ្យ​កម្មវិធី​អ៊ីនធឺណិត​របស់​មាន​ស្ថិរភាព និង​សុវត្ថិភាព​ខ្ពស់">
@@ -436,6 +428,10 @@
 <!ENTITY datareporting_crashreporter_title_short "កម្មវិធី​របាយការណ៍​គាំង">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; សេវាកម្ម​ទីតាំង">
 <!ENTITY datareporting_wifi_geolocation_summary4 "ជំនួយ &vendorShortName; ដាន​ផែនទី​ពិភពលោក! ចែករំលែក​ទីតាំង​​ប្រហែល​តាម​វ៉ាយហ្វាយ និង​ទិន្នន័យ​ទូរសព្ទ​នៃ​ឧបករណ៍​របស់​អ្នក​ដើម្បី​ធ្វើ​ឲ្យ​ប្រសើរ​សេវាកម្ម​ទីតាំង​ភូមិសាស្ត្រ​របស់​​យើង។">
+<!-- Localization note (datareporting_notification_title ) : This will be the title
+     of the notification shown whenever the user has enabled data reporting and the stumbler
+     service is running. -->
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -459,6 +455,7 @@
 <!ENTITY share_image_failed "មិន​អាច​ចែករំលែក​រូបភាព​នេះ">
 <!ENTITY save_as_pdf "រក្សាទុក​ជា PDF">
 <!ENTITY print "បោះពុម្ព">
+<!ENTITY view_page_source "មើល​កូដ​ទំព័រ">
 <!ENTITY find_in_page "ស្វែងរក​ក្នុង​ទំព័រ">
 <!ENTITY desktop_mode "ស្នើ​ទម្រង់​កុំព្យូទ័រ">
 <!ENTITY page "ទំព័រ">
@@ -490,7 +487,7 @@
 <!ENTITY contextmenu_open_new_tab "បើក​ក្នុង​ផ្ទាំង​ថ្មី">
 <!ENTITY contextmenu_open_private_tab "បើក​ក្នុង​ផ្ទាំង​ឯកជន">
 <!ENTITY contextmenu_remove "លុបចេញ">
-<!ENTITY contextmenu_add_to_launcher "បន្ថែម​ទៅ​អេក្រង់​ផ្ទះ">
+<!ENTITY contextmenu_add_page_shortcut "បន្ថែម​ផ្លូវកាត់​ទំព័រ">
 <!ENTITY contextmenu_share "ចែករំលែក">
 <!ENTITY contextmenu_pasteandgo "បិទ​ភ្ជាប់ រួច​ទៅ">
 <!ENTITY contextmenu_paste "បិទភ្ជាប់">
@@ -501,7 +498,13 @@
 <!ENTITY contextmenu_top_sites_edit "កែសម្រួល">
 <!ENTITY contextmenu_top_sites_pin "ខ្ទាស់​តំបន់​បណ្ដាញ">
 <!ENTITY contextmenu_top_sites_unpin "មិន​ខ្ទាស់​តំបន់​បណ្ដាញ">
+<!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
+     pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
+     just "Pin Site" or "Unpin Site" would mean. -->
 <!ENTITY contextmenu_add_search_engine "បន្ថែម​ម៉ាស៊ីន​ស្វែងរក">
+
+<!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
+     after the user pins/unpins the currently displayed page from top sites. -->
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -530,11 +533,12 @@
 <!ENTITY pref_compact_tabs_summary2 "រៀបចំ​ផ្ទាំង​ជា​ពីរ​ជួរឈរ​ក្នុង​របៀប​បញ្ឈរ">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
-     any page is removed frome about:home. This includes pages that are in history,
+     any page is removed from about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "បាន​យក​ទំព័រ​ចេញ">
 
 <!ENTITY bookmark_edit_title "កែសម្រួល​ចំណាំ">
+<!ENTITY bookmark_edit_folder_title "កែសម្រួល​ថត">
 <!ENTITY bookmark_edit_name "ឈ្មោះ">
 <!ENTITY bookmark_edit_location "ទីតាំង">
 <!ENTITY bookmark_edit_keyword "ពាក្យ​គន្លឹះ">
@@ -610,6 +614,9 @@
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "មិន​លាក់​ឧបករណ៍">
+
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
 
 <!ENTITY remote_tabs_panel_moved_title "តើ​ផ្ទាំង​របស់​ខ្ញុំ​ទៅណា?">
 <!ENTITY remote_tabs_panel_moved_desc "យើង​បាន​ផ្លាស់ទី​ផ្ទាំង​របស់​អ្នក​ពី​ឧបករណ៍​ផ្សេង ទៅ​ក្នុង​ផ្ទាំង​នៅ​លើ​គេហទំព័រ​របស់​អ្នក​ដែល​អាច​ងាយស្រួល​ចូល​ប្រើ​នៅ​រាល់​ពេល​បើក​ផ្ទាំង​ថ្មី។">
@@ -737,7 +744,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "បាន​ធ្វើ​សមកាលកម្ម​ចុង​ក្រោយ៖ &formatS;">
-<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Localization note: Used when the sync has not happened yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "បាន​ធ្វើ​សមកាលកម្ម​ចុងក្រោយ៖ កុំ">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
@@ -795,15 +802,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "សូមទោស! &brandShortName; នឹង​មិន​ដំណើរការ​នៅ​លើ​ឧបករណ៍​នេះ​ទេ (&formatS1;, &formatS2;)។ សូម​ទាញ​យក​កំណែ​ដែល​ត្រឹមត្រូវ។">
 
-<!ENTITY eol_notification_title2 "&brandShortName; នឹង​លែង​ធ្វើ​បច្ចុប្បន្នកម្ម">
-<!ENTITY eol_notification_summary "ចុច​ដើម្បី​ស្វែងយល់​បន្ថែម">
+<!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; មាន​បច្ចុប្បន្នភាព">
 <!ENTITY whatsnew_notification_summary "ស្វែងយល់​អ្វី​ថ្មីៗ​នៅ​ក្នុង​កំណែ​នេះ">
 
-<!ENTITY promotion_add_to_homescreen "បន្ថែម​ទៅ​អេក្រង់​មុខ">
+<!ENTITY promotion_add_page_shortcut "បន្ថែម​ផ្លូវកាត់​ទំព័រ">
 
 <!ENTITY helper_first_offline_bookmark_title "អាន​ពេល​គ្មាន​អ៊ីនធឺណិត">
 <!ENTITY helper_first_offline_bookmark_message "ស្វែងរក​ទិដ្ឋភាព​អាន​របស់​អ្នក​នៅ​ក្នុង​ចំណាំ ទោះ​បី​គ្មាន​អ៊ីនធឺណិត">
@@ -814,7 +820,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "បន្ថែម​ទៅ​ចំណាំ">
 
 <!ENTITY activity_stream_topsites "វេបសាយ​ល្បីៗ">
+<!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_highlights "រំលេច">
+
+<!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -822,12 +831,29 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "បាន​ទស្សនា">
+<!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
+<!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
 
-<!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
+<!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "បំភ្លេច">
 <!ENTITY activity_stream_delete_history "លុបចេញ​ពី​ប្រវត្តិ">
 
-<!ENTITY activity_stream_welcome_title "ស្វាគមន៍​មកកាន់​រំលេច​របស់​អ្នក">
-<!ENTITY activity_stream_welcome_content1 "ឥឡូវនេះ &brandShortName; បង្កើត​រំលេច​នៃ​អ្វី​ដែល​អ្នក​បាន​រក​មើល​នៅ​លើ​បណ្ដាញ ដូច្នេះ​អ្នក​អាច​ត្រឡប់​ទៅកាន់​អត្ថបទ វីដេអូ ចំណាំ និង​ទំព័រ​ផ្សេងទៀត​បាន​យ៉ាង​ងាយ។">
+
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_confirm): The plus sign here is part of UI design -->
+
+<!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
+displayed when there are more than 3 actions available for a page.
+See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+
+<!-- Used by accessibility services to identify the play/pause buttons shown in the
+Picture-in-picture mini window -->
+
+<!-- Notification channels names -->
+
+<!-- Notification channels names -->
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
+web sites through the HTML Notifications API. -->
