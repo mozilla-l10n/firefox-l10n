@@ -4,9 +4,9 @@
 
 <!ENTITY aboutSupport.appBasicsAppBuildID "ID-ul de compilare al aplicației">
 
-<!ENTITY aboutSupport.accountsTitle "Conturi de corespondență și discuții">
-<!ENTITY aboutSupport.showPrivateData.mainText "Include numele conturilor">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(posibil informații de identificare)">
+<!ENTITY aboutSupport.accountsTitle "Conturi de e-mail și de știri">
+<!ENTITY aboutSupport.showPrivateData.mainText "Include denumirile conturilor">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(informații posibile de identificare)">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Nume">
 <!ENTITY aboutSupport.accountsIncomingServer "Server de primire a mesajelor">
