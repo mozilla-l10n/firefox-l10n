@@ -51,4 +51,8 @@
 <!ENTITY  dnsOverHttpsUrl.accesskey     "R">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "Spletni naslov za razreševanje DNS preko HTTPS">
 <!ENTITY  dnsOverHttpsUrlDefault.label     "Uporabi privzeto">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "v">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Uporabljaj privzeti URL za razreševanje DNS preko HTTPS">
 <!ENTITY  dnsOverHttpsUrlCustom.label      "Po meri">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "m">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Vnesite želeni URL za razreševanje DNS preko HTTPS">
