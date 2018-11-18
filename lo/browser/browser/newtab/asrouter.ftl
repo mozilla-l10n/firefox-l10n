@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = ຍັງເທື່ອ
     .accesskey = N
 cfr-doorhanger-extension-ok-button = ເພີ່ມຕອນນີ້
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = ຈັດການການຕັ້ງຄ່າຄໍາແນະນໍາ
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = ບໍ່ສະແດງໃຫ້ເຫັນຄໍາແນະນໍານີ້
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = ຮຽນຮູ້ເພີມຕື່ມ
 # This string is used on a new line below the add-on name
 # Variables:

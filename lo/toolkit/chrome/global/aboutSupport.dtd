@@ -9,7 +9,7 @@
 
 <!ENTITY aboutSupport.crashes.title "ລາຍງານຂໍ້ຜິດພາດ">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
-This is likely the same like id.heading in crashes.dtd. -->
+This is likely the same like id.heading in aboutcrashes.ftl. -->
 <!ENTITY aboutSupport.crashes.id "ລາຍງານ ID">
 <!ENTITY aboutSupport.crashes.sendDate "ສົ່ງຂໍ້ມູນແລ້ວ">
 <!ENTITY aboutSupport.crashes.allReports "ລາຍງານຂໍ້ຜິດພາດທັງຫມົດ">
@@ -21,20 +21,13 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "ລູ້ນ​">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.securitySoftwareType "ປະເພດ">
+<!ENTITY aboutSupport.securitySoftwareName "ຊື່">
 
 <!ENTITY aboutSupport.featuresTitle "ຄູນລັກສະນະຂອງ &brandShortName;">
 <!ENTITY aboutSupport.featureName "ຊື່">
 <!ENTITY aboutSupport.featureVersion "ເວີຊັນ">
 <!ENTITY aboutSupport.featureId "ID">
-
-<!ENTITY aboutSupport.experimentsTitle "ຄຸນລັກສະນະການທົດລອງ">
-<!ENTITY aboutSupport.experimentName "ຊື່">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "ຄຳອະທິບາຍ">
-<!ENTITY aboutSupport.experimentActive "ເຮັດວຽກ">
-<!ENTITY aboutSupport.experimentEndDate "ມື້ສິ້ນສຸດ">
-<!ENTITY aboutSupport.experimentHomepage "ຫນ້າຫລັກ">
-<!ENTITY aboutSupport.experimentBranch "ສາ​ຂາ">
 
 <!ENTITY aboutSupport.appBasicsTitle "ແອັບພຣິເຄຊັນພື້ນຖານ">
 <!ENTITY aboutSupport.appBasicsName "ຊື່​">
@@ -138,4 +131,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Crash Guard Disabled Features">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Workarounds">
 
+<!ENTITY aboutSupport.mediaDeviceName "ຊື່">
+<!ENTITY aboutSupport.mediaDeviceGroup "ກຸ່ມ">
+<!ENTITY aboutSupport.mediaDeviceVendor "ຜູ້ຂາຍ">
+<!ENTITY aboutSupport.mediaDeviceState "ສະຖານະ">
+<!ENTITY aboutSupport.mediaDevicePreferred "ທີ່ຕ້ອງການ">
+<!ENTITY aboutSupport.mediaDeviceFormat "ຮູບແບບ">
+<!ENTITY aboutSupport.mediaDeviceRate "ອັດຕາ">
 
+<!ENTITY aboutSupport.intlOSTitle "ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ">
