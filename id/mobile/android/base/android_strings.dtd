@@ -296,6 +296,13 @@
      Will be used in the context "<Turn on> ... to enable this feature" -->
 <!ENTITY pref_feature_tips_notification_enabling_hint "Aktifkan">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(Untuk mengaktifkan pilihan ini, &pref_feature_tips_notification_enabling_path; harus sudah diaktifkan.)">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "Fitur eksperimental">
@@ -898,13 +905,16 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Peramban">
 <!ENTITY mls_notification_channel "Layanan Lokasi &vendorShortName;">
 <!ENTITY download_notification_channel "Unduhan">
 <!ENTITY media_notification_channel "Pemutaran media">
-<!ENTITY media_notification_channel2 "Suara dan video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "Notifikasi &brandShortName;">
+<!ENTITY media_notification_channel2 "Suara dan video">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "Kiat dan trik &vendorShortName;">
 <!ENTITY updater_notification_channel "Pembaruan aplikasi">
 <!ENTITY synced_tabs_notification_channel "Tab tersinkron">
