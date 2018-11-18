@@ -91,3 +91,6 @@
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> folosește o tehnologie de securitate depășită și vulnerabilă la atacuri. Un atacator ar putea dezvălui cu ușurință informații pe care le credeai în siguranță. Administratorul site-ului web va trebui să repare mai întâi serverul ca să poți intra pe site.</p><p>Codul erorii: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Pagină blocată">
+
+<!ENTITY networkProtocolError.title "Eroare legată de protocolul de rețea">
+<!ENTITY networkProtocolError.longDesc "<p>Pagina pe care încerci să o vezi nu poate fi afișată, deoarece a fost detectată o eroare în protocolul de rețea.</p><ul><li>Te rugăm să contactezi proprietarii site-ului pentru a-i informa despre această problemă.</li></ul>">
