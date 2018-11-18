@@ -7,6 +7,7 @@
 
 onboarding-button-label-try-now = Subukan Ngayon
 onboarding-welcome-header = Maligayang pagdating sa { -brand-short-name }
+onboarding-start-browsing-button-label = Mag-simulang mag-browse
 
 ## These strings belong to the individual onboarding messages.
 

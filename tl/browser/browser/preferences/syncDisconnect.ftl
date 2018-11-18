@@ -4,6 +4,9 @@
 
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Disconnecting...
+sync-disconnect-cancel =
+    .label = Kanselahin
+    .accesskey = K
 
 ## Disconnect confirm Button
 ##

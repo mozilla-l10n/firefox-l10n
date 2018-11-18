@@ -20,9 +20,9 @@
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "I-reload ang Tab">
-<!ENTITY  reloadTab.accesskey                "E">
+<!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "I-reload ang Lahat ng mga Tabs">
-<!ENTITY  reloadAllTabs.accesskey            "L">
+<!ENTITY  reloadAllTabs.accesskey            "A">
 <!ENTITY  selectAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
@@ -356,7 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Bagong Window">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "n">
+<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Bagong Private Window">
 <!ENTITY newPrivateWindow.accesskey "W">
 
@@ -367,7 +367,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.accesskey          "U">
 <!ENTITY redoCmd.label            "Ulitin">
 <!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "U">
+<!ENTITY redoCmd.accesskey          "R">
 <!ENTITY cutCmd.label           "I-cut">
 <!ENTITY cutCmd.key             "X">
 <!ENTITY cutCmd.accesskey         "t">
@@ -589,19 +589,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameInfoCmd.label       "Ipakita ang Impormasyon ng Frame">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "I-load ang Imahe muli">
-<!ENTITY reloadImageCmd.accesskey     "l">
+<!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Tingnan ang Imahe">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "Ipakita ang imahe at impormasyon">
-<!ENTITY viewImageInfoCmd.accesskey   "i">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "Ipakita ang mga Paglalarawan">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "Tingnan ang Video">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Ipakita ang Background Image">
-<!ENTITY viewBGImageCmd.accesskey     "k">
+<!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Gawing Background sa Desktop…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "s">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "I-bookmark ang Page na ito">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "I-bookmark ang Link na Ito">
@@ -612,14 +612,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "I-email ang Link…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "I-Save ang Page Bilang…">
-<!ENTITY savePageCmd.accesskey        "a">
+<!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "M">
+<!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "I-Save ang Frame Bilang…">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "I-print ang Frame…">
-<!ENTITY printFrameCmd.accesskey      "p">
+<!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "I-save ang Link Bilang…">
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "I-save ang Larawan Bilang...">
@@ -657,7 +657,7 @@ Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Eto ang Frame">
-<!ENTITY thisFrameMenu.accesskey          "t">
+<!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
@@ -674,7 +674,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "I-unmute">
 <!ENTITY mediaUnmute.accesskey       "m">
-<!ENTITY mediaPlaybackRate2.label     "I-play ang Bilis">
+<!ENTITY mediaPlaybackRate2.label     "Bilis ng Pag-play">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Pabagalin ng(0.5 x)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
