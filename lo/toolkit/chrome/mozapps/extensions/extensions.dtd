@@ -3,9 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY addons.windowTitle                   "ຕົວຈັດການກັບ Add-ons">
 
-<!ENTITY search.placeholder                   "ຄົ້ນຫາທຸກ Add-ons">
+<!ENTITY search.placeholder2                  "ຄົ້ນຫາໃນ addons.mozilla.org">
+
+<!ENTITY search.placeholder3                  "ຄົ້ນຫາ addons.mozilla.org">
 <!ENTITY search.buttonlabel                   "ຄົ້ນຫາ">
-<!-- LOCALIZATION NOTE (search.commandKey):
+<!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
@@ -14,15 +16,11 @@
 <!ENTITY listEmpty.availableUpdates.label     "ບໍ່ພົບການອັບເດດ">
 <!ENTITY listEmpty.recentUpdates.label        "ທ່ານບໍ່ໄດ້ອັບເດດ Add-ons ຈັກອັນເລີຍ">
 <!ENTITY listEmpty.findUpdates.label          "ກວດເບິງການອັບເດດ">
-<!ENTITY listEmpty.search.label               "ບໍ່ສາມາດຊອກຫາ Add-ons ທີ່ກົງກັນໄດ້">
 <!ENTITY listEmpty.button.label               "ຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບ Add-ons ນີ້">
 <!ENTITY installAddonFromFile.label           "ຕິດຕັ້ງ Add-ons ຈາກໄຟລ໌…">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "ເຄື່ອງມືສຳລັບທຸກ Add-ons">
 
-
-<!ENTITY cmd.back.tooltip                     "ກັບກັບໄປໜ້າກ່ອນໜ້ານີ້">
-<!ENTITY cmd.forward.tooltip                  "ໄປໜ້າຖັດໄປ">
 
 
 <!ENTITY showUnsignedExtensions.button.label  "ບໍ່ສາມາດຢືນຢັນບາງ extension ໄດ້">
@@ -36,8 +34,11 @@
 <!ENTITY warning.updatesecurity.enable.label       "ເປີດໃຊ້ງານ">
 
 <!-- categories / views -->
-<!ENTITY view.search.label                    "ຄົ້ນຫາ">
+<!ENTITY view.discover.label                  "ຮັບ Add-ons">
+<!ENTITY view.recentUpdates.label             "ການອັບເດດຫຼ້າສຸດ">
 <!ENTITY view.availableUpdates.label          "ອັບເດດທີ່ມີຢູ່">
+
+<!ENTITY helpButton.label                      "ການສະຫນັບສະຫນູນ Add-ons">
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "ກວດສອບການອັບເດດ">
@@ -57,6 +58,7 @@
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "ກຳລັງອັບເດດ add-ons">
+<!ENTITY updates.noneFound.label              "ບໍ່ພົບການອັບເດດ">
 <!ENTITY updates.manualUpdatesFound.label     "ເບິ່ງການອັບເດດທີ່ມີຢູ່">
 <!ENTITY updates.updateSelected.label         "ຕິດຕັ້ງການອັບເດດ">
 
@@ -66,9 +68,8 @@
 <!ENTITY cmd.findUpdates.accesskey            "F">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "ກ່ຽວກັບ">
-<!ENTITY cmd.about.accesskey                  "A">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "ເປີດໃຊ້ງານ">
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "ປິດໃຊ້ງານ">
@@ -76,8 +77,10 @@
 <!ENTITY cmd.enableTheme.label                "ໃຊ້ຊຸດປັບແຕ່ງ">
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.accesskey           "W">
+
 <!ENTITY cmd.installAddon.label               "ການຕິດຕັ້ງ">
 <!ENTITY cmd.installAddon.accesskey           "I">
+
 <!ENTITY cmd.uninstallAddon.label             "ລຶບ">
 <!ENTITY cmd.uninstallAddon.accesskey         "ລ">
 <!ENTITY cmd.showPreferencesWin.label         "ຕັ້ງຄ່າ">
@@ -92,7 +95,6 @@
 <!ENTITY detail.lastupdated.label             "ອັດເດດຫຼ້າສຸດ">
 <!ENTITY detail.creator.label                 "ນັກພັດທະນາ">
 <!ENTITY detail.homepage.label                "ຫນ້າທຳອິດ">
-<!ENTITY detail.numberOfDownloads.label       "ດາວໂຫລດ">
 
 
 <!ENTITY detail.updateType                    "ອັບເດດອັດຕະໂນມັດ">
@@ -115,16 +117,10 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "ຢຸດ">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "ຍົກເລີກ">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "ຊື່">
-<!ENTITY sort.name.tooltip                    "ລຽງລຳດັບຕາມຊື່">
-<!ENTITY sort.dateUpdated.label               "ອັດເດດຫຼ້າສຸດ">
-<!ENTITY sort.price.label                     "ລາຄາ">
-
-<!ENTITY search.filter2.label                 "ຄົ້ນຫາ:">
 
 <!ENTITY addon.unknownDate                    "ບໍ່ຮູ້ຈັກ">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
@@ -142,6 +138,7 @@
 <!ENTITY addon.undoAction.tooltip             "ຍົກເລີກການກະທຳນີ້">
 <!ENTITY addon.undoRemove.label               "ເອົາກັບຄືນ">
 <!ENTITY addon.restartNow.label               "ເລີ່ມລະບົບໃໝ່ດຽວນີ້">
+
 <!ENTITY addon.install.label                  "ຕິດຕັ້ງ">
 <!ENTITY addon.install.tooltip                "ຕິດຕັ້ງ add-on ນີ້">
 <!ENTITY addon.updateNow.label                "ອັບເດດຕອນນີ້ເລີຍ">
@@ -154,15 +151,6 @@
 <!ENTITY eula.height                          "400px">
 
 <!ENTITY settings.path.button.label           "ຊອກຫາ…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.learnmore "ຮຽນຮູ້ເພີ່ມເຕີມ">
-<!ENTITY experiment.info.learnmore.accesskey "​L​​">
-<!ENTITY experiment.info.changetelemetry "ການຕັ້ງຄ່າ Telemetry">
 
 <!ENTITY setting.learnmore "ຮຽນຮູ້ເພີ່ມເຕີມ...​">
 

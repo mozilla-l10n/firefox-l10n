@@ -10,3 +10,5 @@
 
 <!ENTITY defaultButton.label "ຕົກລົງ!">
 <!ENTITY defaultButton.accesskey "O">
+
+<!ENTITY moreActionsButton.accessibleLabel "ຕົວເລືອກເພີ່ມເຕີມ">
