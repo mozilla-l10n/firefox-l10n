@@ -33,6 +33,7 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTabs.label                "Mga Tabs na Kasingtulad">
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTabs.accesskey            "D">
@@ -44,9 +45,11 @@ left instead of right. -->
 <!ENTITY  closeOtherTabs.label               "Isara ang Ibang Tabs">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
+<!ENTITY  closeSelectedTabs.label            "Isara ang mga napiling tab">
 <!ENTITY  closeSelectedTabs.accesskey        "S">
 
 <!ENTITY  closeTabs.accesskey                "S">
+<!ENTITY  pinSelectedTabs.label              "I-pin ang mga Tab">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
@@ -88,12 +91,17 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
 These two items have the same accesskey but will never be visible at the same time. -->
+<!ENTITY  moveTabOptions.label               "Ilipat ang Tab">
 <!ENTITY  moveTabOptions.accesskey           "v">
+<!ENTITY  moveSelectedTabOptions.label       "Ilipat ang mga Tab">
 <!ENTITY  moveSelectedTabOptions.accesskey   "v">
+<!ENTITY  moveToStart.label                  "Ilipat sa Simula">
 <!ENTITY  moveToStart.accesskey              "S">
+<!ENTITY  moveToEnd.label                    "Ilipat sa Huli">
 <!ENTITY  moveToEnd.accesskey                "E">
 <!ENTITY  moveToNewWindow.label              "Pumunta sa Bagong Window">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  reopenInContainer.label            "Muling buksan sa Lalagyan">
 <!ENTITY  reopenInContainer.accesskey        "e">
 <!ENTITY  bookmarkAllTabs.label              "I-Bookmark ang Lahat ng mga Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
@@ -104,6 +112,7 @@ These items have the same accesskey but will never be visible at the same time. 
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "Isara ang Tab">
 <!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  hiddenTabs.label                   "Mga Tinagong Tab">
 
 <!ENTITY  listAllTabs.label      "Ilista ang lahat ng mga tabs">
 
@@ -125,6 +134,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
+<!ENTITY taskManagerCmd.label "Task Manager">
 
 <!ENTITY goOfflineCmd.label "Gumawa kahit walang Internet">
 <!ENTITY goOfflineCmd.accesskey "G">
@@ -141,22 +151,27 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "I-bookmark ang lahat na mga Tab…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 
+<!ENTITY toolbarContextMenu.reloadSelectedTab.label "I-Reload ang napiling Tab">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
+<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "I-Reload ang mga napiling Tab">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
 toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "I-Bookmark ang napiling Tab…">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
+<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "I-Bookmark ang mga napiling Tab...">
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.selectAllTabs.label "Piliin ang lahat ng mga Tab">
 <!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Ibalik ang Nakasarang Tab">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
@@ -272,6 +287,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Buksan ang panel ng mensahe">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Buksan ang panel ng kahilingan ng lokasyon">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Buksan ang panel ng autoplay">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Buksan ang add-on intallation message panel">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Pamahalaan ang pahintulot sa pagkuha ng cavas">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Buksan ang offline storage message panel">
@@ -309,6 +325,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Home">
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName; Home Page">
 
 <!ENTITY bookmarksButton.label          "Mga bookmark">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -853,6 +870,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Karagdagang Impormasyon">
 
+<!ENTITY identity.clearSiteData "Burahin ang mga Cookies at Site Data…">
 
 <!ENTITY identity.permissions "Pahintulot">
 <!ENTITY identity.permissionsEmpty "Hindi mo ipinagkaloob ang site na ito anumang espesyal na pahintulot.">
