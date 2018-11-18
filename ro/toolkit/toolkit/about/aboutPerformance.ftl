@@ -18,6 +18,7 @@ ghost-windows = File închise recent
 ## Values for the Type column
 
 type-tab = Filă
+type-subframe = Subcadru
 type-tracker = Urmăritor
 type-addon = Supliment
 type-browser = Browser
@@ -40,3 +41,13 @@ close-tab =
     .title = Închide fila
 show-addon =
     .title = Afișează în managerul de suplimente
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        Expedieri de la încărcare: { $totalDispatches } ({ $totalDuration } ms)
+        Expedieri din ultimele câteva secunde: { $dispatchesSincePrevious } ({ $durationSincePrevious } ms)
