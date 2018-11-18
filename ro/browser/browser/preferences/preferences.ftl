@@ -176,14 +176,14 @@ containers-disable-alert-title = Închizi toate filele container?
 containers-disable-alert-desc =
     { $tabCount ->
         [one] Dacă dezactivezi filele container acum, { $tabCount } filă container se va închide. Sigur vrei să dezactivezi filele container?
-        [few] Dacă dezactivezi filele container acum, { $tabCount } file container se va închide. Sigur vrei să dezactivezi filele container?
-       *[other] Dacă dezactivezi filele container acum, { $tabCount } de file container se va închide. Sigur vrei să dezactivezi filele container?
+        [few] Dacă dezactivezi filele container acum, { $tabCount } file container se vor închide. Sigur vrei să dezactivezi filele container?
+       *[other] Dacă dezactivezi filele container acum, { $tabCount } de file container se vor închide. Sigur vrei să dezactivezi filele container?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] Închide { $tabCount } container de file
-        [few] Închide { $tabCount } containere de file
-       *[other] Închide { $tabCount } de containere de file
+        [one] Închide { $tabCount } filă container
+        [few] Închide { $tabCount } file container
+       *[other] Închide { $tabCount } de file container
     }
 containers-disable-alert-cancel-button = Păstrează activat
 containers-remove-alert-title = Elimini acest container?
@@ -191,9 +191,9 @@ containers-remove-alert-title = Elimini acest container?
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Dacă elimini acest container acum, { $count } container de file va fi închis. Sigur vrei să elimini acest container?
-        [few] Dacă elimini acest container acum, { $count } containere de file vor fi închise. Sigur vrei să elimini acest container?
-       *[other] Dacă elimini acest container acum, { $count } de containere de file vor fi închise. Sigur vrei să elimini acest container?
+        [one] Dacă elimini acest container acum, { $count } filă container va fi închisă. Sigur vrei să elimini acest container?
+        [few] Dacă elimini acest container acum, { $count } file container vor fi închise. Sigur vrei să elimini acest container?
+       *[other] Dacă elimini acest container acum, { $count } de file container vor fi închise. Sigur vrei să elimini acest container?
     }
 containers-remove-ok-button = Elimină acest container
 containers-remove-cancel-button = Nu elimina acest container
@@ -409,7 +409,7 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Afișează sugestiile de căutare înaintea istoricului de navigare în rezultatele din bara de adrese
+    .label = Afișează sugestiile de căutare înaintea istoricului de navigare în rezultatele din bara de adresă
 search-suggestions-cant-show = Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat { -brand-short-name } ca să nu țină minte niciodată istoricul.
 search-one-click-header = Motoare de căutare la un clic distanță
 search-one-click-desc = Alege motoarele de căutare alternative care apar sub bara de adresă și bara de căutare atunci când începi să introduci un cuvânt cheie.
