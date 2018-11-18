@@ -73,12 +73,6 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL, skirtas DNS per HTTPS išrišimui
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Naudoti numatytąjį
-    .accesskey = N
-    .tooltiptext = DNS išrišimui per HTTPS naudoti numatytąjį URL
 connection-dns-over-https-url-custom =
     .label = Pasirinktinis
     .accesskey = P
