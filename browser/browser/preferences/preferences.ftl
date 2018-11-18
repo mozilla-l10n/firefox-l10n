@@ -296,9 +296,11 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = ស្វែងរក​​អក្សរ នៅ​ពេល​អ្នក​ចាប់ផ្ដើម​វាយ
     .accesskey = x
+browsing-cfr-recommendations-learn-more = ស្វែងយល់​បន្ថែម
 
 ## General Section - Proxy
 
+network-settings-title = ការកំណត់​បណ្ដាញ
 network-proxy-connection-description = កំណត់រចនាសម្ព័ន្ធរបៀបដែល { -brand-short-name } តភ្ជាប់ទៅអ៊ីនធឺណិត
 network-proxy-connection-learn-more = ស្វែងយល់​បន្ថែម
 network-proxy-connection-settings =

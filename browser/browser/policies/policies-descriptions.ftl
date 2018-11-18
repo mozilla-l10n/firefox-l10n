@@ -11,10 +11,14 @@
 ## in the documentation section in about:policies.
 
 policy-Cookies = អនុញ្ញាត ឬបដិសេធវេបសាយដើម្បីកំណត់ខូគី។
+policy-DisableAppUpdate = បង្ការ​កម្មវិធី​រុករក​ពី​ការ​ធ្វើ​បច្ចុប្បន្នភាព។
+policy-DisableDeveloperTools = ទប់ស្កាត់​ការ​ចូល​ទៅ​ឧបករណ៍​អភិវឌ្ឍន៍។
 policy-DisableForgetButton = រារាំង​ការ​ចូល​ប្រើ​ប៊ូតុង​រំលង។
 policy-DisableFormHistory = មិន​ចងចាំ​ប្រវត្តិ​ស្វែងរក និង​សំណុំ​បែបបទ
 policy-DisableMasterPasswordCreation = ប្រសិន​បើ​ពិត​ពាក្យ​សម្ងាត់​មេ​មិន​អាច​បង្កើត​បានទេ។
 policy-DisablePrivateBrowsing = បិទដំណើររុករកឯកជន។
 policy-DisplayMenuBar = បង្ហាញរបារម៉ឺនុយតាមលំនាំដើម។
+policy-DNSOverHTTPS = កំណត់​រចនាសម្ព័ន្ធ DNS នៅ​លើ HTTPS ។
 policy-InstallAddonsPermission = អនុញ្ញាតគេហទំព័រជាក់លាក់ដើម្បីដំឡើងកម្មវិធីបន្ថែម។
 policy-Proxy = កំណត់​ការកំណត់​ប្រូកស៊ី។
+policy-SanitizeOnShutdown = សម្អាត​ទិន្នន័យ​រុករក​ទាំងអស់​នៅ​ពេល​បិទ។
