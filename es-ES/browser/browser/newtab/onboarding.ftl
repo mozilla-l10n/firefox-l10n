@@ -25,3 +25,5 @@ onboarding-addons-title = Complementos
 onboarding-addons-text = Añada aún más funciones que hagan que { -brand-short-name } trabaje más duro para usted. Compare precios, sepa qué tiempo hará mañana o exprese su personalidad con un tema personalizado.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Navegue más rápido, de manera más inteligente o segura, con extensiones como Ghostery, que le permite bloquear anuncios molestos.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sincronizar
