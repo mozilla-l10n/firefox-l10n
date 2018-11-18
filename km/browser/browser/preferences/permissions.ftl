@@ -62,9 +62,15 @@ permissions-exceptions-tracking-protection-window =
     .title = ករណី​​លើកលែង - ការ​ការពារ​ការ​តាមដាន
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = អ្នកបានបិទការការពារការតាមដាននៅលើ​គេហទំព័រ​ទាំងនេះ។
+permissions-exceptions-content-blocking-window =
+    .title = ករណី​លើកលែង - ទប់ស្កាត់​មាតិកា
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = ករណី​លើកលែង - ខូឃី និង​ទិន្នន័យ​គេហទំព័រ
+    .style = { permissions-window.style }
 
 ## Exceptions - Pop-ups
 
