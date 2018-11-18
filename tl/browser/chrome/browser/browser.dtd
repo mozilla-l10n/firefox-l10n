@@ -1130,6 +1130,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Disable Extension">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "I-access ang Iyong Mga Nakatagong Tab">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
 <!ENTITY tabHideControlled.disableButton.label "Disable Extension">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">

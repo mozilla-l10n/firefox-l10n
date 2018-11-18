@@ -10,6 +10,9 @@
 ### This file contains the entities needed for the 'edit' menu
 ### It's currently only used for the Browser Console and Developer Toolbox
 
+editmenu-undo =
+    .label = i-Undo
+    .accesskey = U
 editmenu-redo =
     .label = Gawin muli
     .accesskey = G
