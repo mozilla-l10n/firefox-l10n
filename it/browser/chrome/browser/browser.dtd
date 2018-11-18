@@ -689,6 +689,7 @@
 <!ENTITY contentBlocking.fastBlock.add.label "Attiva blocco…">
 <!ENTITY contentBlocking.trackingProtection2.label "Tutti gli elementi traccianti rilevati">
 <!ENTITY contentBlocking.trackingProtection3.label "Elementi traccianti">
+<!ENTITY contentBlocking.trackingProtection.allowed.label "Consentiti">
 <!ENTITY contentBlocking.trackingProtection.blocked.label "Bloccati">
 <!ENTITY contentBlocking.trackingProtection.blocking.label "Bloccati">
 <!ENTITY contentBlocking.trackingProtection.add.label "Attiva blocco…">
@@ -697,6 +698,10 @@
 <!ENTITY contentBlocking.3rdPartyCookies.blocked.label "Bloccati">
 <!ENTITY contentBlocking.3rdPartyCookies.blocking.label "Bloccati">
 <!ENTITY contentBlocking.3rdPartyCookies.add.label "Attiva blocco…">
+<!ENTITY contentBlocking.manageSettings.label "Gestisci blocco contenuti">
+<!ENTITY contentBlocking.manageSettings.accesskey "G">
+<!ENTITY contentBlocking.trackersView.label "Elementi traccianti">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Per bloccare tutti gli elementi traccianti, impostare il blocco contenuti su “Restrittivo”.">
 <!ENTITY contentBlocking.openBreakageReportView2.label "Segnala un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Segnalazione problema">
 <!ENTITY contentBlocking.breakageReportView2.description "Il blocco contenuti può causare problemi in alcuni siti. Segnalando eventuali anomalie contribuisci a migliorare &brandShortName; per tutti gli utenti. Questa operazione invierà l’indirizzo (URL) a Mozilla, insieme a informazioni relative alle attuali impostazioni del browser.">
