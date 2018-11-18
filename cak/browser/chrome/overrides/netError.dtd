@@ -105,6 +105,9 @@ was trying to connect. -->
 
 <!ENTITY certerror.sts.introPara "&brandShortName; xrïl jun itzilanel ruk'ayewal jikomal chuqa' man xb'e ta pa <span class='hostname'/> ruma re ajk'amaya'l ruxaq re' narajo' jun jikïl okem.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; xrïl jun k'ayewal chuqa' man nisamäj ta chik pa <span class='hostname'/>. Itzel b'anon runuk'ulem ri ajk'amaya'l ruxaq o ri ruramaj akematz'ib' man ruk'wan ta ütz ri ramaj.">
+<!ENTITY certerror.expiredCert.secondPara2 "Rik'in jub'a' ri rijiqitzijib'al ajk'amaya'l ruxaq xik'o yan ruq'ijul, nuq'ät &brandShortName; richin ütz nok. We natz'ët re ruxaq re', ri ojqanela' yetikïr nikitojtob'ej nikeleq'aj ri awetamab'al achi'el ewan taq atzij, kib'i' ataqoya'l o rub'anikil at'impwäq.">
+<!ENTITY certerror.expiredCert.sts.secondPara "Rik'in jub'a' ri riqitzijib'al ajk'amaya'l ruxaq xk'is ruq'ijul, ri man nuya' taq q'ij chi ri &brandShortName; ütz nok.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "¿Achike yatikïr nab'än chi rij?">
 
