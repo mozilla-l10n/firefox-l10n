@@ -167,7 +167,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Organization">
 <!ENTITY Company.accesskey                              "z">
-<!ENTITY NickName.label                                 "Nickname">
+<!ENTITY NickName.label                                 "ឈ្មោះ​ហៅ​ក្រៅ​">
 <!ENTITY NickName.accesskey                             "i">
 <!ENTITY SecondEmail.label                              "Additional Email">
 <!ENTITY SecondEmail.accesskey                          "l">
