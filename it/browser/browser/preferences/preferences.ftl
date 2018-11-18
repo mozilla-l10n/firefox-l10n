@@ -642,7 +642,7 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Eccezioni…
     .accesskey = z
-sitedata-warning-your-settings-prevent-changes = Le impostazioni in Blocco contenuti impediscono modifiche alla sezione Cookie e dati dei siti web.
+sitedata-warning-your-settings-prevent-changes = Le impostazioni in blocco contenuti impediscono modifiche alla sezione Cookie e dati dei siti web.
 
 ## Privacy Section - Address Bar
 
