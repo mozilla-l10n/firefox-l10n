@@ -16,6 +16,7 @@ onboarding-start-browsing-button-label = Mag-simulang mag-browse
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-private-browsing-title = Pribadong pag-browse
 onboarding-screenshots-title = Mga screenshot
 onboarding-addons-title = Mga Add-on
 onboarding-ghostery-title = Ghostery

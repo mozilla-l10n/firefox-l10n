@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+webpage-languages-window =
+    .title = Mga Setting ng Lingwahe sa Webpage
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Ang mga pahina ng web ay minsang inaalok ng higit sa isang wika. Pumili ng mga wika na ipapakita ng mga pahina ng web na ito, ayon sa kagustuhan
@@ -35,3 +38,6 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-window =
+    .title = { -brand-short-name } Mga Setting sa Lingwahe
+    .style = width: 40em

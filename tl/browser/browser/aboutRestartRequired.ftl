@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Kailangan i-Restart
+restart-button-label = I-restart ang { -brand-short-name }

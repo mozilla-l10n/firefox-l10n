@@ -15,4 +15,5 @@ policy-BlockAboutProfiles = Bawal i-access ang about:profiles page.
 policy-BlockAboutSupport = Bawal i-access ang about:support page.
 policy-DisablePocket = Huwag paganahin ang tampok upang i-save ang mga webpage sa Pocket.
 policy-DisablePrivateBrowsing = Huwag paganahin ang Pribadong Pagba-browse.
+policy-DisableTelemetry = I-off ang Telemetry
 policy-Proxy = Ayusin ang proxy settings.
