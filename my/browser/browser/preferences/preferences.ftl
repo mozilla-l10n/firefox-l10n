@@ -265,6 +265,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = ရှာဖွေရေး ယန္တရားများကို အလိုအလျောက် မွမ်းမံပါ
     .accesskey = e
+update-pref-write-failure-title = ပျက်စီးဆုံးရှုံးမှုကို ရေးပါ
 
 ## General Section - Performance
 
@@ -303,10 +304,15 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = စာစရိုက်သည်နှင့် စရှာပါ
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = သင့်ရှာဖွေမှုတွင် တိုးချဲ့မှုများကို အကြံပေးပါ
+    .accesskey = R
+browsing-cfr-recommendations-learn-more = ပိုမိုလေ့လာရန်
 
 ## General Section - Proxy
 
 network-settings-title = ကွန်ယက် အပြင်အဆင်များ
+network-proxy-connection-description = အင်တာနက်နှင့် { -brand-short-name } ချိတ်ဆက်ပုံကို ပြုပြင်ပါ
 network-proxy-connection-learn-more = ပိုမိုလေ့လာရန်
 network-proxy-connection-settings =
     .label = အပြင်အဆင်များ...
@@ -502,6 +508,7 @@ privacy-header = ဘရောင်ဇာ ကိုယ်ရေးကာကွ�
 ## Privacy Section - Forms
 
 forms-header = ဖောင်များ & စကားဝှက်များ
+logins-header = အကောင့်ဝင်ရောက်မှုနှင့်စကားဝှက်များ
 forms-ask-to-save-logins =
     .label = ဆိုက်များအတွက် ဝင်ရောက်မှုများနှင့် စကားဝှက်များကို မှတ်ရန် မေးပါ
     .accesskey = r
@@ -576,6 +583,10 @@ sitedata-allow-cookies-option =
 sitedata-disallow-cookies-option =
     .label = ကွတ်ကီးများနှင့် ဆိုက်အချက်အလက်ကို မသိမ်းရန်
     .accesskey = B
+sitedata-block-trackers-option-recommended =
+    .label = third-party ခြေရာခံ (အကြံပြုထားသည်)
+sitedata-block-trackers-option =
+    .label = third-party ခြေရာခံ
 sitedata-clear =
     .label = အချက်အလက်ကို ရှင်းပါ...
     .accesskey = l
