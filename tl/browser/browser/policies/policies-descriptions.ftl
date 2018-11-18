@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = Set custom app update URL.
 policy-BlockAboutConfig = Bawal i-access ang about:config page.
 policy-BlockAboutProfiles = Bawal i-access ang about:profiles page.
 policy-BlockAboutSupport = Bawal i-access ang about:support page.
