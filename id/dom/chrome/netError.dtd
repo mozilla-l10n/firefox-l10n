@@ -90,4 +90,4 @@
 <!ENTITY blockedByPolicy.title "Laman Diblokir">
 
 <!ENTITY networkProtocolError.title "Protokol Jaringan Bermasalah">
-<!ENTITY networkProtocolError.longDesc "<p>Halaman yang Anda coba untuk lihat tidak dapat ditampilkan karena terdeteksi sebuah permasalahan dalam protokol jaringan.</p><ul><li>Silahkan menghubungi pemilik situs web untuk memberitahu mereka tentang masalah ini.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Laman yang ingin dibuka tidak dapat ditampilkan karena terdeteksi masalah protokol jaringan.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
