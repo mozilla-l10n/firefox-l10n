@@ -8,3 +8,7 @@ manage-messenger-languages-button =
     .accesskey = ы
 confirm-messenger-language-change-description = Бұл өзгерістерді іске асыру үшін, { -brand-short-name } қайта іске қосыңыз
 confirm-messenger-language-change-button = Іске асыру және қайта қосу
+update-pref-write-failure-title = Жазу қатесі
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Баптауды сақтау мүмкін емес. Файлға жазу мүмкін емес: { $path }

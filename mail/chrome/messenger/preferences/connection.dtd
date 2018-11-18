@@ -50,3 +50,9 @@
 <!ENTITY  dnsOverHttpsUrl.label         "URL сілтемесі">
 <!ENTITY  dnsOverHttpsUrl.accesskey     "с">
 <!ENTITY  dnsOverHttpsUrl.tooltip       "HTTPS арқылы DNS шешу үшін URL сілтемесі">
+<!ENTITY  dnsOverHttpsUrlDefault.label     "Бастапқысын қолдану">
+<!ENTITY  dnsOverHttpsUrlDefault.accesskey "ы">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "HTTPS арқылы DNS шешу үшін бастапқы URL қолдану">
+<!ENTITY  dnsOverHttpsUrlCustom.label      "Таңдауыңызша">
+<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "т">
+<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "HTTPS арқылы DNS шешу үшін таңдамалы URL енгізіңіз">
