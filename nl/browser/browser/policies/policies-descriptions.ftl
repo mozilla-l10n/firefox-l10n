@@ -83,8 +83,7 @@ policy-EnableTrackingProtection = Inhoudsblokkering inschakelen of uitschakelen 
 
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
-# English or translate them as verbs. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#extensions-machine-only
+# English or translate them as verbs.
 policy-Extensions = Extensies installeren, verwijderen of vergrendelen. De optie voor installeren gebruikt URL’s of paden als parameters. De opties voor verwijderen en vergrendelen gebruiken extensie-ID’s.
 
 policy-FlashPlugin = Gebruik van de Flash-plug-in toestaan of weigeren.
@@ -121,6 +120,5 @@ policy-SearchEngines = Instellingen voor zoekmachines configureren. Deze beleids
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = PKCS #11-modules installeren.
 
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Het bezoeken van websites blokkeren. Zie de documentatie voor meer informatie over de notatie.
