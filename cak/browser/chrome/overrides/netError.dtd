@@ -159,6 +159,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Man ütz ta chi okem">
 <!ENTITY certerror.pagetitle2  "Rutzijol K'ayewal: Nimaläj Ruk'ayewal Jikomal Petenäq">
+<!ENTITY certerror.sts.pagetitle  "Man Xok Ta: Jikïl jun Ruk'ayewal Jikomal">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Re ruxaq k'amaya'l re' kan nrokisaj Nïm Ruchajinïk Ruk'wayöl HTTP (HSTS) richin nuya' retal chi &brandShortName; xa xe tokrik'in rija' pa ütz rub'anikil. Rin nib'e'el chi man nitikïr ta nutz'aqtisaj jun man relik ta chi re reruwujil b'i'aj re'.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span>k'o jun runa'ojil jikomal b'ina'am HTTP Jikïl Ruk'waxik Jikomal (HSTS), ri nuq'ajuj chi ri &brandShortName; xa xe nitikïr nok pa ütz jikomal. Man yatikïr ta natz'aqatisaj jun man relik ta richin natz'ët re ruxaq re'.">
 <!ENTITY certerror.copyToClipboard.label "Tiwachib'ëx ri rucholajem tzij pa molwuj">
@@ -176,3 +177,4 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Achi'el ta chi ja ri runuk'ulem rujikomal k'amab'ey, ri nib'ano re re'. ¿La nawajo' chi nitzolïx ri runuk'ulem kan k'o wi?">
 <!ENTITY prefReset.label "Titzolïx ri runuk'ulem kan k'o wi">
 
+<!ENTITY networkProtocolError.title "Rusachoj Rub'eyal Nisamäj K'amb'ey">
