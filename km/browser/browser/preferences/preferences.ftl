@@ -88,9 +88,6 @@ extension-controlled-websites-tracking-protection-mode = ផ្នែកបន�
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> { $name } កំពុងគ្រប់គ្រងការកំណត់នេះ។
-# This string is shown to notify the user that their proxy configuration preferences
-# are being controlled by an extension.
-extension-controlled-proxy-config = ផ្នែកបន្ថែម <img data-l10n-name="icon"/> កំពុងគ្រប់គ្រងរបៀបដែល { -brand-short-name } តភ្ជាប់ទៅអ៊ីនធឺណិត។
 
 ## Preferences UI Search Results
 
