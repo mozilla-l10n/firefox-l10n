@@ -41,6 +41,7 @@
 <!ENTITY runtimeMenu_showSettings_label "Mga Setting ng Device">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
+
 <!ENTITY viewMenu_label "Tingnan">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_zoomin_label "Zoom In">
@@ -79,6 +80,7 @@
 <!ENTITY details_description "Paglalarawan">
 <!ENTITY details_location "Lokasyon">
 <!ENTITY details_manifestURL "App ID">
+<!ENTITY details_removeProject_button "Alisin ang Proyekto">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Bagong App">

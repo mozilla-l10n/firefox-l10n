@@ -41,3 +41,5 @@ languages-active-code-format =
 browser-languages-window =
     .title = { -brand-short-name } Mga Setting sa Lingwahe
     .style = width: 40em
+browser-languages-downloading =
+    .label = Nagda-download...

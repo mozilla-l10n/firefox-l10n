@@ -6,6 +6,7 @@
 ## UI strings for the simplified onboarding modal
 
 onboarding-button-label-try-now = Subukan Ngayon
+onboarding-button-label-get-started = Magsimula
 onboarding-welcome-header = Maligayang pagdating sa { -brand-short-name }
 onboarding-start-browsing-button-label = Mag-simulang mag-browse
 
@@ -20,5 +21,6 @@ onboarding-private-browsing-title = Pribadong pag-browse
 onboarding-screenshots-title = Mga screenshot
 onboarding-addons-title = Mga Add-on
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Mag-browse nang mas mabilis, mas wais, o mas ligtas na may extensyon tulad ng Ghostery, na nahaharang ang mga nakakainis na patalastas.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync

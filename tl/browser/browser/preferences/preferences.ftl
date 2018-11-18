@@ -303,6 +303,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Maghahanap ng text kapag nag umpisang mag-type
     .accesskey = x
+browsing-cfr-recommendations-learn-more = Alamin pa
 
 ## General Section - Proxy
 
@@ -433,6 +434,9 @@ sync-manage-account = Pamahalaan ang account
     .accesskey = o
 sync-signedin-unverified = { $email } ay hindi napatunayan.
 sync-signedin-login-failure = Mangyaring mag-sign in upang makipagkonek muli { $email }
+sync-remove-account =
+    .label = Alisin ang Account
+    .accesskey = A
 sync-sign-in =
     .label = Mag sign in
     .accesskey = g
@@ -552,6 +556,7 @@ addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga suhesti
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = Alamin pa
 content-blocking-toggle-label-on = ON
     .accesskey = O
 content-blocking-toggle-label-off = OFF
