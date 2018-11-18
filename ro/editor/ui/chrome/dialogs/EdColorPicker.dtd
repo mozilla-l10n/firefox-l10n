@@ -14,7 +14,7 @@
 <!ENTITY setColorExample.label "(ex.: „#0000ff” sau „blue”):">
 <!ENTITY default.label "Implicit">
 <!ENTITY default.accessKey "I">
-<!ENTITY palette.label "Paleta:">
+<!ENTITY palette.label "Paletă:">
 <!ENTITY standardPalette.label "Standard">
 <!ENTITY webPalette.label "Toate culorile web">
 <!ENTITY background.label "Fundal pentru:">

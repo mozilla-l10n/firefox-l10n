@@ -5,7 +5,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "Despre drepturile tale">
 <!ENTITY rights.intro-header     "Despre drepturile tale">
-<!ENTITY rights.intro "&brandFullName; este un program liber și cu sursa deschisă, construit de o comunitate de mii de oameni din lumea întreagă. Sunt câteva lucruri pe care ar trebui să le știți:">
+<!ENTITY rights.intro "&brandFullName; este un program liber și cu sursa deschisă, construit de o comunitate de mii de oameni din lumea întreagă. Câteva lucruri bine de știut:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -17,23 +17,23 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; este disponibil sub termenii ">
 <!ENTITY rights.intro-point1b "Licenței Publice Mozilla">
-<!ENTITY rights.intro-point1c ". Acest lucru înseamnă că poți folosi, copia și distribui &brandShortName; altora. Ești, de asemenea, binevenit să modifici codul sursă al &brandShortName;, cum dorești, pentru a răspunde nevoilor tale. Licența publică Mozilla îți oferă și dreptul de a distribui versiunile modificate de tine.">
+<!ENTITY rights.intro-point1c ". Înseamnă că poți folosi, copia și distribui &brandShortName;. De asemenea, ești binevenit să modifici cum dorești codul sursă &brandShortName; pentru a răspunde nevoilor tale. Licența publică Mozilla îți oferă și dreptul de a distribui versiunile pe care le-ai modificat.">
 
-<!ENTITY rights.intro-point2a "Mozilla nu îți oferă drepturi asupra logourilor și mărcilor comerciale Mozilla și Thunderbird. Informații adiționale privind mărcile comerciale pot fi găsite ">
+<!ENTITY rights.intro-point2a "Mozilla nu îți acordă niciun drept asupra logourilor și mărcilor comerciale Mozilla și Thunderbird. Pentru informații adiționale privind mărcile comerciale vezi ">
 <!ENTITY rights.intro-point2b "aici">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights.intro-point3a "Politica privind confidențialitatea datelor când folosești produsele &vendorShortName; poate fi găsită ">
+<!ENTITY rights.intro-point3a "Politicile de confidențialitate aferente produselor &vendorShortName; se găsesc ">
 <!ENTITY rights.intro-point3b "aici">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "Orice politică aplicabilă confidențialității datelor în timp ce folosești acest produs ar trebui listată aici.">
+<!ENTITY rights.intro-point3-unbranded "Aici trebuie listate orice politici de confidențialitate aplicabile acestui produs.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; oferă și servicii opționale, cum ar fi actualizarea suplimentelor; cu toate astea, nu putem garanta 100&#037; acuratețea sau lipsa erorilor din aceste suplimente. Poți găsi mai multe detalii și informații despre cum să dezactivezi aceste servicii în ">
-<!ENTITY rights.intro-point4b "Termenii de utilizare a serviciului">
+<!ENTITY rights.intro-point4a "&brandShortName; oferă și servicii opționale, cum ar fi serviciul de actualizare a suplimentelor; cu toate astea, nu le putem garanta 100&#037; acuratețea sau lipsa erorilor. Pentru detalii suplimentare, inclusiv informații despre dezactivarea serviciilor, vezi ">
+<!ENTITY rights.intro-point4b "termenii de utilizare a serviciilor">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->

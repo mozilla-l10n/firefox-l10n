@@ -12,5 +12,5 @@
 <!ENTITY succeeded.label       "Reușit">
 <!ENTITY failed.label          "Eșuat">
 
-<!ENTITY keepOpen              "Păstrează deschisă fereastra după terminarea publicării.">
+<!ENTITY keepOpen              "Ține deschisă fereastra după finalizarea publicării.">
 <!ENTITY closeButton.label     "Închide">
