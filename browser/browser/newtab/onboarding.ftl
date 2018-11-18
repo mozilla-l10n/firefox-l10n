@@ -27,3 +27,4 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Мазаңызды алатын жарнаманы бұғаттай алатын Ghostery сияқты кеңейтулермен жылдам, ақылды және қауіпсіз түрде шолыңыз.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Синхрондау
+onboarding-fxa-text = { -fxaccount-brand-name } тіркелгісін жасап, өзіңіз { -brand-short-name } қолданатын әр жерде бетбелгілер, парольдер және ашық беттерді синхрондаңыз.
