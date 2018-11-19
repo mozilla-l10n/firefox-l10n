@@ -16,5 +16,5 @@
 <!ENTITY AlignCenter.label "Centru">
 <!ENTITY AlignRight.label "Dreapta">
 
-<!ENTITY RemoveFieldSet.label "Elimină set câmpuri">
+<!ENTITY RemoveFieldSet.label "Elimină setul de câmpuri">
 <!ENTITY RemoveFieldSet.accesskey "E">

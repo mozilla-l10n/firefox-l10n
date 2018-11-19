@@ -5,12 +5,12 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Culori și fundal pagină">
 <!ENTITY pageColors.label "Culori pagină">
-<!ENTITY defaultColorsRadio.label "Culorile implicite ale cititorului (Nu seta nici o culoare)">
+<!ENTITY defaultColorsRadio.label "Culorile implicite ale cititorului (Nu seta culori pe pagină)">
 <!ENTITY defaultColorsRadio.accessKey "C">
-<!ENTITY defaultColorsRadio.tooltip "Folosește numai setările de culori din browser">
-<!ENTITY customColorsRadio.label "Folosește culori personale:">
+<!ENTITY defaultColorsRadio.tooltip "Folosește numai setările de culori din browserul vizualizatorului (cititorului)">
+<!ENTITY customColorsRadio.label "Folosește culori personalizate:">
 <!ENTITY customColorsRadio.accessKey "p">
-<!ENTITY customColorsRadio.tooltip "Aceste setări de culori le înlocuiesc pe cele ale browserului">
+<!ENTITY customColorsRadio.tooltip "Aceste setări de culori le înlocuiesc pe cele din browserul cititorului">
 
 <!ENTITY normalText.label "Text normal">
 <!ENTITY normalText.accessKey "n">
@@ -23,7 +23,7 @@
 <!ENTITY background.label "Fundal:">
 <!ENTITY background.accessKey "F">
 <!ENTITY colon.character ":">
-<!ENTITY backgroundImage.label "Imagine fundal:">
+<!ENTITY backgroundImage.label "Imagine de fundal:">
 <!ENTITY backgroundImage.accessKey "I">
-<!ENTITY backgroundImage.tooltip "Folosește o imagine ca fundal pentru pagină">
+<!ENTITY backgroundImage.tooltip "Folosește un fișier de imagine ca fundal al paginii">
 <!ENTITY backgroundImage.shortenedDataURI "Date URI prescurtate (copierea va plasa întregul URI în clipboard)">
