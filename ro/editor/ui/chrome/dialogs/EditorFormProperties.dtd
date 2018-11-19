@@ -8,7 +8,7 @@
 
 <!ENTITY FormName.label "Nume formular:">
 <!ENTITY FormName.accesskey "N">
-<!ENTITY FormAction.label "URL-ul acțiunii:">
+<!ENTITY FormAction.label "URL acțiune:">
 <!ENTITY FormAction.accesskey "a">
 <!ENTITY FormMethod.label "Metodă:">
 <!ENTITY FormMethod.accesskey "M">

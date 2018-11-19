@@ -4,7 +4,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Proprietățile liniei orizontale">
+<!ENTITY windowTitle.label "Proprietăți linie orizontală">
 
 <!ENTITY dimensionsBox.label "Dimensiuni">
 <!ENTITY heightEditField.label "Înălțime:">
@@ -24,4 +24,4 @@
 <!ENTITY threeDShading.accessKey "U">
 <!ENTITY saveSettings.label "Folosește ca implicit">
 <!ENTITY saveSettings.accessKey "i">
-<!ENTITY saveSettings.tooltip "Salvează aceste setări pentru utilizare la inserarea de linii orizontale noi">
+<!ENTITY saveSettings.tooltip "Salvează aceste setări pentru inserarea de linii orizontale noi">
