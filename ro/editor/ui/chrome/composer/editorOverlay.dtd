@@ -310,7 +310,7 @@
 <!ENTITY HighlightColorButton.tooltip "Alege culoarea de evidențiere pentru text">
 
 <!-- Editor toolbar -->
-<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Definește mărimea fontului">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Setează mărimea fontului">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Font mai mic">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Font mai mare">
 <!ENTITY boldToolbarCmd.tooltip "Aldin">
@@ -320,7 +320,7 @@
 <!ENTITY numberListToolbarCmd.tooltip "Aplică sau elimină listă numerotată">
 <!ENTITY outdentToolbarCmd.tooltip "Micșorează indentarea textului (mută la stânga)">
 <!ENTITY indentToolbarCmd.tooltip "Mărește indentarea textului (mută la dreapta)">
-<!ENTITY AlignPopupButton.tooltip "Alege aliniamentul textului">
+<!ENTITY AlignPopupButton.tooltip "Alege alinierea textului">
 <!ENTITY InsertPopupButton.tooltip "Inserează un link, o ancoră, o imagine, o linie orizontală sau un tabel">
 <!ENTITY alignLeftButton.tooltip "Aliniază textul la marginea din stânga">
 <!ENTITY alignCenterButton.tooltip "Centrează textul">
