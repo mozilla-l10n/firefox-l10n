@@ -28,9 +28,16 @@
 <!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!ENTITY  duplicateTab.label                 "Podvoji zavihek">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  duplicateTab.accesskey             "o">
 <!ENTITY  closeTabOptions.label              "Možnosti zapiranja zavihkov">
 <!ENTITY  closeTabOptions.accesskey          "ž">
+<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
+a tab (i.e. it is a verb, not adjective). -->
+<!ENTITY  duplicateTabs.label                "Podvoji zavihke">
+<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
+These items have the same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -1075,11 +1082,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock5.label "Izklopi zavračanje za to stran">
+<!ENTITY trackingProtection.unblock5.accesskey "o">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate5.label "Začasno izklopi zavračanje">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "o">
 <!ENTITY trackingProtection.block6.label "Vklopi zavračanje za to stran">
+<!ENTITY trackingProtection.block6.accesskey "o">
 <!ENTITY trackingProtection.reload2.label "Ponovno naloži stran">
 <!ENTITY trackingProtection.reload2.accesskey "n">
 

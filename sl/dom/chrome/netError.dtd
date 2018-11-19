@@ -101,3 +101,4 @@
 <!ENTITY blockedByPolicy.title "Zavrnjena stran">
 
 <!ENTITY networkProtocolError.title "Napaka omrežnega protokola">
+<!ENTITY networkProtocolError.longDesc "<p>Strani, ki si jo poskušate ogledati, ni mogoče prikazati, ker je bila zaznana napaka omrežnega protokola.</p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul>">
