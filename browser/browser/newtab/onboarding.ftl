@@ -27,3 +27,4 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Brskajte hitreje, pametneje in varneje z razširitvami, kot je Ghostery, orodje za zavračanje nadležnih oglasov.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinhronizacija
+onboarding-fxa-text = Ustvarite { -fxaccount-brand-name } ter sinhronizirajte svoje zaznamke, gesla in odprte zavihke povsod, kjer uporabljate { -brand-short-name }.

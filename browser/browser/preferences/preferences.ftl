@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Opozori ob zapiranju več zavihkov hkrati
     .accesskey = z
+warn-on-quit-close-multiple-tabs =
+    .label = Opozori ob zapiranju več zavihkov hkrati
+    .accesskey = z
 warn-on-open-many-tabs =
     .label = Opozori, ko lahko odpiranje veliko zavihkov hkrati upočasni { -brand-short-name }
     .accesskey = v
@@ -294,6 +297,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Samodejno posodabljaj iskalnike
     .accesskey = i
+update-pref-write-failure-title = Napaka pri pisanju
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Nastavitve ni bilo mogoče shraniti. Ni bilo mogoče pisati v datoteko: { $path }
 
 ## General Section - Performance
 
