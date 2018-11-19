@@ -62,6 +62,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Ережеден тыс - Бақылаудан қорғаныс
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Бұл вебсайттарда бақылаудан қорғанысты сөндіргенсіз.
+permissions-exceptions-content-blocking-window =
+    .title = Ережеден тыс - Құраманы бұғаттау
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Бұл веб-сайттар үшін құраманы бұғаттауды сөндіргенсіз.
 
 ## Exceptions - Cookies
 
