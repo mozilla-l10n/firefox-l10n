@@ -112,7 +112,7 @@
 <!ENTITY  event.menu.edit.select.all.accesskey            "e">
 
 <!ENTITY  event.menu.view.label                           "Görünüm">
-<!ENTITY  event.menu.view.accesskey                       "G">
+<!ENTITY  event.menu.view.accesskey                       "n">
 <!ENTITY  event.menu.view.toolbars.label                  "Araç çubukları">
 <!ENTITY  event.menu.view.toolbars.accesskey              "A">
 <!ENTITY  event.menu.view.toolbars.event.label            "Etkinlik araç çubuğu">
@@ -215,7 +215,7 @@
 <!ENTITY task.from.accesskey                              "B">
 <!ENTITY event.to.label                                   "Bitiş:" >
 <!ENTITY event.to.accesskey                               "t">
-<!ENTITY task.to.label                                    "Son tarih:" >
+<!ENTITY task.to.label                                    "Bitiş tarihi:" >
 <!ENTITY task.to.accesskey                                "S">
 <!ENTITY task.status.label                                "Durum:" >
 <!ENTITY task.status.accesskey                            "D">
@@ -423,3 +423,4 @@
 <!ENTITY summary.dialog.decline.tooltiptext     "Daveti reddet">
 <!ENTITY summary.dialog.dontsend.label          "Yanıt gönderme">
 <!ENTITY summary.dialog.send.label              "Şimdi yanıt gönder">
+<!ENTITY summary.dialog.send.tooltiptext        "Organizatöre yanıt gönder  ve pencereyi kapat">
