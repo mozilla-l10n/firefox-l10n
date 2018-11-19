@@ -12,7 +12,7 @@
 <!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Bară de redactare">
 <!ENTITY previewToolbarCmd.label "Răsfoiește">
-<!ENTITY previewToolbarCmd.tooltip "Încarcă această pagină în browser">
+<!ENTITY previewToolbarCmd.tooltip "Încarcă pagina în browser">
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Exportă ca text…">

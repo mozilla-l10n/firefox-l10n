@@ -48,12 +48,12 @@
 <!ENTITY removeImageMapButton.accessKey "E">
 
 <!-- These are the options for image alignment -->
-<!ENTITY alignment.label "Aliniază textul cu imaginea">
-<!ENTITY bottomPopup.value "Jos">
-<!ENTITY topPopup.value "Sus">
+<!ENTITY alignment.label "Aliniază textul la imagine">
+<!ENTITY bottomPopup.value "În partea de jos">
+<!ENTITY topPopup.value "În partea de sus">
 <!ENTITY centerPopup.value "La centru">
-<!ENTITY wrapRightPopup.value "Înfășurare la dreapta">
-<!ENTITY wrapLeftPopup.value "Înfășurare la stânga">
+<!ENTITY wrapRightPopup.value "Încadrare la dreapta">
+<!ENTITY wrapLeftPopup.value "Încadrare la stânga">
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Spațiere">
@@ -72,7 +72,7 @@
 <!ENTITY LinkAdvancedEditButton.tooltip "Adaugă sau modifică atribute HTML, atribute de stiluri și cod JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
-<!ENTITY imageInputTab.label "formular">
+<!ENTITY imageInputTab.label "Formular">
 <!ENTITY imageLocationTab.label "Locație">
 <!ENTITY imageDimensionsTab.label "Dimensiuni">
 <!ENTITY imageAppearanceTab.label "Aspect">

@@ -54,10 +54,10 @@
 <!ENTITY cellStyle.accessKey              "S">
 <!ENTITY cellNormal.label                 "Normală">
 <!ENTITY cellHeader.label                 "Antet">
-<!ENTITY cellTextWrap.label               "Înfășurare text:">
+<!ENTITY cellTextWrap.label               "Încadrare text:">
 <!ENTITY cellTextWrap.accessKey           "t">
-<!ENTITY cellWrap.label                   "Înfășoară">
-<!ENTITY cellNoWrap.label                 "Nu înfășura">
+<!ENTITY cellWrap.label                   "Încadrează">
+<!ENTITY cellNoWrap.label                 "Nu încadra">
 <!ENTITY cellAlignTop.label               "Sus">
 <!ENTITY cellAlignMiddle.label            "Mijloc">
 <!ENTITY cellAlignBottom.label            "Jos">

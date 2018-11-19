@@ -11,7 +11,7 @@
 <!ENTITY replaceField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Corelează litere mari și mici">
 <!ENTITY caseSensitiveCheckbox.accesskey "M">
-<!ENTITY wrapCheckbox.label "Împrejur">
+<!ENTITY wrapCheckbox.label "Încadrare de jur-împrejur">
 <!ENTITY wrapCheckbox.accesskey "p">
 <!ENTITY backwardsCheckbox.label "Caută înapoi">
 <!ENTITY backwardsCheckbox.accesskey "a">
