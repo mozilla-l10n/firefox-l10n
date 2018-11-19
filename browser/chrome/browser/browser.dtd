@@ -277,7 +277,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backCmd.label                "Undur">
 <!ENTITY backCmd.accesskey            "U">
 <!ENTITY backButton.tooltip           "Undur satu halaman">
-<!ENTITY forwardCmd.label             "Maju">
+<!ENTITY forwardCmd.label             "Seterusnya">
 <!ENTITY forwardCmd.accesskey         "M">
 <!ENTITY forwardButton.tooltip        "Maju satu halaman">
 <!ENTITY backForwardButtonMenu.tooltip "Klik-kanan atau tarik turun untuk papar sejarah">
