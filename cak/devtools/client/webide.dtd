@@ -36,12 +36,13 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "C">
 <!ENTITY runtimeMenu_showDetails_label "Retamab'al ri ruk'ojlem b'anatajnäq">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Jolomaj">
-<!ENTITY runtimeMenu_showMonitor_accesskey "J">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Taq rajowaxïk okisaxel">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "o">
 <!ENTITY runtimeMenu_showSettings_label "Runuk'ulem okisaxel">
 <!ENTITY runtimeMenu_showSettings_accesskey "R">
+
+<!ENTITY runtimeMenu_showPerformancePanel_label "Rub'eyal nisamäj">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "r">
 
 <!ENTITY viewMenu_label "Titz'et">
 <!ENTITY viewMenu_accesskey "T">
@@ -146,10 +147,6 @@
 <!ENTITY devicesetting_newname "Rub'i' k'ak'a' nuk'ulem">
 <!ENTITY devicesetting_newtext "Tinuk'ub'ëx retal">
 <!ENTITY devicesetting_addnew "Titz'aqatisäx k'ak'a' nuk'ulem">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "Jolomaj">
-<!ENTITY monitor_help "Tob'äl">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
