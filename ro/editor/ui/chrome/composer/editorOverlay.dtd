@@ -209,10 +209,10 @@
 <!ENTITY layerSendToBack.tooltip "Trimite în fundal">
 <!ENTITY layerBringToFront.tooltip "Adu în prim-plan">
 
-<!ENTITY increaseIndent.label "Crește indentarea">
+<!ENTITY increaseIndent.label "Mărește indentarea">
 <!ENTITY increaseIndent.accesskey "C">
 <!ENTITY increaseIndent.key "]">
-<!ENTITY decreaseIndent.label "Scade indentarea">
+<!ENTITY decreaseIndent.label "Micșorează indentarea">
 <!ENTITY decreaseIndent.accesskey "S">
 <!ENTITY decreaseIndent.key "[">
 
@@ -289,7 +289,7 @@
 <!ENTITY copyToolbarCmd.tooltip "Copiază">
 <!ENTITY pasteToolbarCmd.tooltip "Lipește">
 <!ENTITY printToolbarCmd.label "Tipărește">
-<!ENTITY printToolbarCmd.tooltip "Tipărește această pagină">
+<!ENTITY printToolbarCmd.tooltip "Tipărește pagina">
 <!ENTITY findToolbarCmd.label "Caută">
 <!ENTITY findToolbarCmd.tooltip "Caută text în pagină">
 <!ENTITY spellToolbarCmd.label "Ortografie">
