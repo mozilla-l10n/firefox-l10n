@@ -408,7 +408,7 @@
 
 <!ENTITY pref_default_browser "Nastavi kot privzeti brskalnik">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Obišičite Mozillino podporo">
-<!ENTITY pref_about_firefox "O &brandShortName;u">
+<!ENTITY pref_about_firefox "O aplikaciji &brandShortName;">
 <!ENTITY pref_vendor_faqs "Pogosta vprašanja">
 <!ENTITY pref_vendor_feedback "Sporočite nam svoje mnenje">
 
@@ -552,7 +552,7 @@
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Celozaslonsko brskanje">
-<!ENTITY pref_scroll_title_bar_summary2 "Med pomikanjem po strani navzdol skrij &brandShortName;ovo orodno vrstico">
+<!ENTITY pref_scroll_title_bar_summary2 "Med pomikanjem po strani navzdol skrij orodno vrstico aplikacije &brandShortName;">
 
 <!ENTITY pref_tab_queue_title3 "Čakalna vrsta zavihkov">
 <!ENTITY pref_tab_queue_summary4 "Shranite povezave, dokler naslednjič odprete &brandShortName;">
