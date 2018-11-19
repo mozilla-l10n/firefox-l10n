@@ -13,7 +13,7 @@
 <!ENTITY SelectMultiple.accesskey "m">
 <!ENTITY SelectDisabled.label "Dezactivat">
 <!ENTITY SelectDisabled.accesskey "D">
-<!ENTITY SelectTabIndex.label "Index tab:">
+<!ENTITY SelectTabIndex.label "Index file:">
 <!ENTITY SelectTabIndex.accesskey "t">
 
 <!ENTITY OptGroup.label "Grup opțiuni">

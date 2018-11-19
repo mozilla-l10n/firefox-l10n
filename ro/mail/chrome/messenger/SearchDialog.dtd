@@ -69,7 +69,7 @@
 <!ENTITY tagsColumn2.tooltip "Sortează după etichete">
 <!ENTITY accountColumn2.tooltip "Sortează după cont">
 <!ENTITY statusColumn2.tooltip "Sortează după stare">
-<!ENTITY sizeColumn2.tooltip "Sortează după dimensiune">
+<!ENTITY sizeColumn2.tooltip "Sortează după mărime">
 <!ENTITY junkStatusColumn2.tooltip "Sortează după nesolicitate">
 <!ENTITY unreadColumn2.tooltip "Numărul de mesaje necitite din conversație">
 <!ENTITY totalColumn2.tooltip "Numărul total de mesaje din conversație">

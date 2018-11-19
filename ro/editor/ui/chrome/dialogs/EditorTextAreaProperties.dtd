@@ -16,14 +16,14 @@
 <!ENTITY TextAreaReadOnly.accessKey "o">
 <!ENTITY TextAreaDisabled.label "Inactiv">
 <!ENTITY TextAreaDisabled.accessKey "I">
-<!ENTITY TextAreaTabIndex.label "Index tab:">
+<!ENTITY TextAreaTabIndex.label "Index file:">
 <!ENTITY TextAreaTabIndex.accessKey "I">
 <!ENTITY TextAreaAccessKey.label "Tastă acces:">
 <!ENTITY TextAreaAccessKey.accessKey "s">
 <!ENTITY InitialText.label "Text inițial:">
 <!ENTITY InitialText.accessKey "T">
 
-<!ENTITY TextAreaWrap.label "Mod înfășurare:">
+<!ENTITY TextAreaWrap.label "Mod încadrare:">
 <!ENTITY TextAreaWrap.accessKey "f">
 <!ENTITY WrapDefault.value "Implicit">
 <!ENTITY WrapOff.value "Fără">

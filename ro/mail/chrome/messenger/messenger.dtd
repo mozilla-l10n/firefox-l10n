@@ -647,7 +647,7 @@
 <!ENTITY folderNameColumn.label "Nume">
 <!ENTITY folderUnreadColumn.label "Necitite">
 <!ENTITY folderTotalColumn.label "Total">
-<!ENTITY folderSizeColumn.label "Dimensiune">
+<!ENTITY folderSizeColumn.label "Mărime">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Obține mesajele">
@@ -718,7 +718,7 @@
 <!ENTITY tagsColumn.label "Etichetă">
 <!ENTITY accountColumn.label "Cont">
 <!ENTITY statusColumn.label "Stare">
-<!ENTITY sizeColumn.label "Dimensiune">
+<!ENTITY sizeColumn.label "Mărime">
 <!ENTITY junkStatusColumn.label "Mesaj nesolicitat">
 <!ENTITY unreadColumn.label "Necitite">
 <!ENTITY totalColumn.label "Total">
@@ -741,7 +741,7 @@
 <!ENTITY tagsColumn2.tooltip "Sortează după etichete">
 <!ENTITY accountColumn2.tooltip "Sortează după cont">
 <!ENTITY statusColumn2.tooltip "Sortează după stare">
-<!ENTITY sizeColumn2.tooltip "Sortează după dimensiune">
+<!ENTITY sizeColumn2.tooltip "Sortează după mărime">
 <!ENTITY junkStatusColumn2.tooltip "Sortează după nesolicitate">
 <!ENTITY unreadColumn2.tooltip "Numărul de mesaje necitite din conversație">
 <!ENTITY totalColumn2.tooltip "Numărul total de mesaje din conversație">
