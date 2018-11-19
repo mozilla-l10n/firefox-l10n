@@ -27,3 +27,4 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Böngésszen gyorsabban, okosabban vagy biztonságosabban az olyan kiegészítőkkel mint a Ghostery, amelyekkel blokkolhatja az idegesítő reklámokat.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Szinkronizálás
+onboarding-fxa-text = Regisztráljon egy { -fxaccount-brand-name }ot, és szinkronizálja a könyvjelzőit, jelszavait és nyitott lapjait bárhol, ahol { -brand-short-name }ot használ.
