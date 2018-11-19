@@ -45,7 +45,7 @@
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "Undur">
 <!ENTITY backButton.tooltip           "Undur satu halaman">
-<!ENTITY forwardButton.label          "Maju">
+<!ENTITY forwardButton.label          "Seterusnya">
 <!ENTITY forwardButton.tooltip        "Maju satu halaman">
 <!ENTITY reloadButton.label           "Muat semula">
 <!ENTITY reloadButton.tooltip         "Muat semula halaman semasa">
