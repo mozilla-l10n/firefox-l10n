@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Przywracanie sesji
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = Wystąpił problem z przywróceniem stron
+restore-page-problem-desc = Wystąpił problem z przywróceniem stron otwartych w poprzedniej sesji przeglądania. Wybierz „Przywróć sesję”, aby spróbować ponownie.
+restore-page-try-this = Problem nadal występuje? Czasami powodem takiej sytuacji jest pojedyncza karta. Odznacz na liście kart te, których nie potrzeba przywracać i wybierz „Przywróć”.
+restore-page-hide-tabs = Ukryj karty
+restore-page-show-tabs = Pokaż karty
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
@@ -11,6 +18,21 @@ restore-page-tab-title = Przywracanie sesji
 restore-page-window-label = Okno { $windowNumber }
 restore-page-restore-header =
     .label = Przywróć
+restore-page-list-header =
+    .label = Okna i karty
+restore-page-try-again-button =
+    .label = Przywróć sesję
+    .accesskey = P
+restore-page-close-button =
+    .label = Rozpocznij nową sesję
+    .accesskey = R
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Sukces!
+welcome-back-page-title = Sukces!
+welcome-back-restore-button =
+    .label = Dalej
+    .accesskey = D
+welcome-back-restore-all-label = Przywróć wszystkie okna i karty
+welcome-back-restore-some-label = Przywróć wybrane okna i karty
