@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Ehechakuaa embotykuévo heta tendayke
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Ehecha esẽ ha eikévo heta tendayképe
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Emomarandúrõ eiketaha heta tendayképe ikatu omombegue down { -brand-short-name }
     .accesskey = d
@@ -288,6 +291,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = Jehekaha mongu'eha ñembohekopyahu ijeheguíva
     .accesskey = e
+update-pref-write-failure-title = Ojavy jehai
 
 ## General Section - Performance
 

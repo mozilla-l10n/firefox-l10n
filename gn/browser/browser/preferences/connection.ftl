@@ -73,3 +73,13 @@ connection-dns-over-https =
 connection-dns-over-https-url = URL
     .accesskey = U
     .tooltiptext = URL eipuru DNS HTTPS rangue
+# Variables:
+#   $url (String) - URL for the DNS over HTTPS provider
+connection-dns-over-https-url-default =
+    .label = Eipuru ypykuegua ({ $url })
+    .accesskey = U
+    .tooltiptext = Eipuru URL ypykuegua emoĩporã hag̃ua DNS HTTPS ári
+connection-dns-over-https-url-custom =
+    .label = Momba'epyre
+    .accesskey = C
+    .tooltiptext = Ingresa tu URL preferida para resolver DNS sobre HTTPS
