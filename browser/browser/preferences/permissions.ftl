@@ -62,6 +62,10 @@ permissions-exceptions-tracking-protection-window =
     .title = Pengecualian - Perlindungan Pelacakan
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = Anda telah menonaktifkan Perlindungan Pelacakan di situs web ini.
+permissions-exceptions-content-blocking-window =
+    .title = Pengecualian - Pemblokiran Konten
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Anda telah menonaktifkan pemblokiran konten di situs berikut.
 
 ## Exceptions - Cookies
 
