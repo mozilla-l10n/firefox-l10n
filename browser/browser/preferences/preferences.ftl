@@ -642,6 +642,9 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Eccezioni…
     .accesskey = z
+sitedata-cookies-permissions =
+    .label = Gestisci permessi…
+    .accesskey = G
 sitedata-warning-your-settings-prevent-changes = Le impostazioni in blocco contenuti impediscono modifiche alla sezione Cookie e dati dei siti web.
 
 ## Privacy Section - Address Bar
@@ -663,10 +666,20 @@ addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerime
 
 content-blocking-header = Blocco contenuti
 content-blocking-desc = Blocca contenuti di terze parti, come pubblicità o codice, in grado di rallentare la navigazione e tracciare i tuoi spostamenti sul Web. Personalizza le impostazioni per ottenere il perfetto equilibrio tra protezione e velocità.
+content-blocking-description = Blocca i contenuti di terze parti che ti seguono attraverso il Web. Controlla quanto della tua attività online viene archiviato e condiviso tra siti web.
 content-blocking-learn-more = Ulteriori informazioni
 content-blocking-restore-defaults =
     .label = Ripristina predefiniti
     .accesskey = R
+content-blocking-setting-standard =
+    .label = Normale
+    .accesskey = N
+content-blocking-setting-strict =
+    .label = Restrittivo
+    .accesskey = R
+content-blocking-setting-custom =
+    .label = Personalizzato
+    .accesskey = P
 content-blocking-toggle-on =
     .tooltiptext = Disattiva il blocco contenuti
 content-blocking-toggle-off =
@@ -675,7 +688,18 @@ content-blocking-toggle-label-on = ATTIVO
     .accesskey = A
 content-blocking-toggle-label-off = DISATTIVATO
     .accesskey = D
+
 content-blocking-category-label = Scegli che cosa bloccare
+content-blocking-standard-desc = Il perfetto equilibrio tra protezione e prestazioni. Consenti alcuni elementi traccianti in modo da garantire il corretto funzionamento dei siti.
+content-blocking-strict-desc = Blocca tutti gli elementi traccianti rilevati da { -brand-short-name }. Alcuni siti potrebbero non funzionare correttamente.
+content-blocking-custom-desc = Scegli che cosa bloccare.
+content-blocking-private-trackers = Elementi traccianti conosciuti in finestre anonime
+content-blocking-third-party-cookies = Cookie traccianti di terze parti
+content-blocking-all-windows-trackers = Elementi traccianti conosciuti in qualunque finestra
+content-blocking-all-third-party-cookies = Tutti i cookie di terze parti
+content-blocking-warning-title = Attenzione
+content-blocking-warning-desc = Il blocco di cookie ed elementi traccianti potrebbe impedire il corretto funzionamento di alcuni siti. È semplice disattivare il blocco per i siti che ritieni affidabili.
+content-blocking-learn-how = Scopri come
 # "Slow" in this instance means "slow to load on the network".
 # FastBlock is a feature that blocks requests to tracking sites if they
 # have not finished loading after a certain threshold of seconds.
@@ -699,6 +723,9 @@ content-blocking-tracking-protection-option-private =
 content-blocking-tracking-protection-change-block-list = Cambia elenco per blocco contenuti
 content-blocking-third-party-cookies-label =
     .label = Cookie di terze parti
+    .accesskey = C
+content-blocking-cookies-label =
+    .label = Cookie
     .accesskey = C
 content-blocking-reject-trackers-description = Blocca tutti i cookie di terze parti o solo quelli impostati da elementi traccianti.
 content-blocking-reject-trackers-warning-your-settings-prevent-changes = Le impostazioni in Cookie e dati dei siti web impediscono modifiche alla sezione Cookie di terze parti.
@@ -732,6 +759,9 @@ tracking-mode-never =
 tracking-exceptions =
     .label = Eccezioni…
     .accesskey = E
+tracking-manage-exceptions =
+    .label = Gestisci eccezioni…
+    .accesskey = G
 tracking-change-block-list =
     .label = Seleziona elenco…
     .accesskey = l
