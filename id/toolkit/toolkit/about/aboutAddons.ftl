@@ -25,6 +25,11 @@ install-addon-from-file =
     .label = Pasang Pengaya dari Berkas…
     .accesskey = B
 help-button = Dukungan Pengaya
+preferences =
+    { PLATFORM() ->
+        [windows] Opsi { -brand-short-name }
+       *[other] Preferensi { -brand-short-name }
+    }
 tools-menu =
     .tooltiptext = Alat untuk semua pengaya
 show-unsigned-extensions-button =

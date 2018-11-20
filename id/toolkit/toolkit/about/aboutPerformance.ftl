@@ -14,10 +14,14 @@ column-energy-impact = Dampak Energi
 ## Special values for the Name column
 
 ghost-windows = Tab yang baru saja ditutup
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Pramuat: { $title }
 
 ## Values for the Type column
 
 type-tab = Tab
+type-subframe = Subframe
 type-tracker = Pelacak
 type-addon = Pengaya
 type-browser = Peramban
