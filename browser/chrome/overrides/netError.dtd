@@ -92,6 +92,7 @@
 
 <!ENTITY certerror.longpagetitle1 "اتّصالك غير آمن">
 <!ENTITY certerror.longpagetitle2 "تحذير: أمامك خطر أمني محتمل">
+<!ENTITY certerror.sts.longpagetitle  "لم يجري الاتصال: مشكلة أمنية محتملة">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -100,7 +101,11 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "أغلب الظن أن سبب هذه المشكلة هو أن ساعة الحاسوب ليست صحيحة، ما يمنع &brandShortName; من الاتصال كما ينبغي.">
 
+<!ENTITY certerror.sts.introPara "اكتشف &brandShortName; خطرا أمنيا محتملا ولم يُتابع نحو <span class='hostname'/> لأن هذا الموقع يطلب اتّصال آمن.">
 
+<!ENTITY certerror.expiredCert.introPara "اكتشف &brandShortName; مشكلة ولم يُتابع نحو <span class='hostname'/>. إمّا أن الموقع لم يُضبط كما ينبغي أو أن ساعة الحاسوب لديك مضبوطة على وقت خطأ.">
+<!ENTITY certerror.expiredCert.secondPara2 "أغلب الظن هو أن شهادة الموقع قد انقضت، ما يمنع &brandShortName; من الاتصال بطريقة آمنة. إن أردت زيارة الموقع، فيمكن أن يحاول المهاجمون سرقة المعلومات مثل كلمات السر أو عناوين البريد أو تفاصيل البطاقات الائتمانية.">
+<!ENTITY certerror.expiredCert.sts.secondPara "أغلب الظن هو أن شهادة الموقع قد انقضت، ما يمنع &brandShortName; من الاتصال بطريقة آمنة.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "إليك ما تستطيع فعله حيال هذا">
 
@@ -149,6 +154,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "اتصال غير آمن">
 <!ENTITY certerror.pagetitle2  "تحذير: أمامك خطر أمني محتمل">
+<!ENTITY certerror.sts.pagetitle  "لم يجري الاتصال: مشكلة أمنية محتملة">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "يستخدم هذا الموقع سياسة النقل الصارمة (HSTS) تفرض على &brandShortName; ألا يتصل به إلا بأمان. بناء على هذا فقد تعذّر إضافة استثناء لهذه الشهادة.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "يستخدم الموقع <span class='hostname'></span> سياسة النقل الصارمة (HSTS)، ما يعني بأن &brandShortName; لا يستطيع الاتصال به إلا بأمان. لا يمكنك إضافة استثناء لزيارة هذا الموقع.">
 <!ENTITY certerror.copyToClipboard.label "انسخ النص إلى الحافظة">
@@ -166,3 +172,5 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "يبدو أن إعدادات أمان الشبكة قد تكون السبب وراء هذا. أتريد استعادة الإعدادات المبدئية؟">
 <!ENTITY prefReset.label "استرجع الإعدادات الأصلية">
 
+<!ENTITY networkProtocolError.title "عُطل في بروتوكول الشبكة">
+<!ENTITY networkProtocolError.longDesc "<p>تعذر عرض الصفحة التي تريد مشاهدتها لاكتشاف عُطل في بروتوكول الشبكة.</p><ul><li>من فضلك تواصل مع مالكي الموقع لإبلاغهم بهذه المشكلة.</li></ul>">
