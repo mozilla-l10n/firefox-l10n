@@ -95,6 +95,7 @@
 
 <!ENTITY certerror.longpagetitle1 "તમારું જોડાણ સુરક્ષિત નથી">
 <!ENTITY certerror.longpagetitle2 "ચેતવણી: આગળ સંભવિત સુરક્ષા જોખમ">
+<!ENTITY certerror.sts.longpagetitle  "કનેક્ટ કર્યું નહોતું: સંભવિત સુરક્ષા સમસ્યા">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -147,6 +148,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "અસુરક્ષિત જોડાણ">
 <!ENTITY certerror.pagetitle2  "ચેતવણી: આગળ સંભવિત સુરક્ષા જોખમ">
+<!ENTITY certerror.sts.pagetitle  "કનેક્ટ કર્યું નહોતું: સંભવિત સુરક્ષા સમસ્યા">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "આ સાઇટ HTTP નો ઉપયોગ કરે છે તે સ્પષ્ટ કરવા માટે સખત પરિવહન સુરક્ષા (HSTS) અને &brandShortName; માત્ર સુરક્ષિત રીતે જોડાણ                          કરી શકે છે. તે સુરક્ષિત રીતે પરિણામે, આ માટે અપવાદ ઉમેરવા શક્ય નથી પ્રમાણપત્ર.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> પાસે HTTP સખત પરિવહન સુરક્ષા (HSTS) નામની સુરક્ષા નીતિ છે,એટલે brandShortName; ફક્ત તેને સુરક્ષિત રીતે જોડાઈ શકે છે. તમે આ સાઇટની મુલાકાત લેવા માટે અપવાદ ઉમેરી શકતા નથી.">
 <!ENTITY certerror.copyToClipboard.label "ક્લિપબોર્ડમાં લખાણની નકલ કરો">

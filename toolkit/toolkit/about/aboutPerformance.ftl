@@ -9,9 +9,14 @@ about-performance-title = કાર્ય વ્યવસ્થાપક
 
 column-name = નામ
 column-type = પ્રકાર
+column-energy-impact = ઊર્જા અસર
 
 ## Special values for the Name column
 
+ghost-windows = છેલ્લે બધ થયેલ ટૅબ્સ
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = પહેલેથી લોડ કરેલું: { $title }
 
 ## Values for the Type column
 

@@ -4,6 +4,9 @@
 
 addons-window =
     .title = ઍડ-ઓન સંચાલક
+search-header =
+    .placeholder = addons.mozilla.org શોધો
+    .searchbuttonlabel = શોધો
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,7 @@ list-empty-button =
 install-addon-from-file =
     .label = ફાઇલમાંથી ઍડ-ઓનને સ્થાપિત કરો…
     .accesskey = I
+help-button = ઍડ-ઓન્સ આધાર
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } વિકલ્પો
