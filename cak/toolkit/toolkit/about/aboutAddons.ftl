@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Kinuk'samajel taq tz'aqat
+search-header =
+    .placeholder = Tikanöx addons.mozilla.org
+    .searchbuttonlabel = Tikanöx
 search-header-shortcut =
     .key = f
 loading-label =
@@ -21,6 +24,12 @@ list-empty-button =
 install-addon-from-file =
     .label = Tiyak ri tz'aqat rik'in ri yakb'äl…
     .accesskey = T
+help-button = Kitob'al Tz'aqat
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } Taq Cha'oj
+       *[other] { -brand-short-name } Taq Ajowab'äl
+    }
 tools-menu =
     .tooltiptext = Taq kisamajib'al konojel ri taq tz'aqat
 show-unsigned-extensions-button =
