@@ -300,6 +300,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = حدّث محركات البحث تلقائيًا
     .accesskey = ك
+update-pref-write-failure-title = فشلت الكتابة
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = تعذّر حفظ التفضيلات. تعذّرت الكتابة في الملف: { $path }
