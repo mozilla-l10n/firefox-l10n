@@ -296,6 +296,13 @@
      Will be used in the context "<Turn on> ... to enable this feature" -->
 <!ENTITY pref_feature_tips_notification_enabling_hint "ચાલુ કરો">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; > &pref_category_datareporting; > &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(આ વિકલ્પને સક્રીય કરવા માટે, અને pref_feature_tips_notification_enabling_path; પહેલાથી જ સક્રીય હોવું આવશ્યક છે.)">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "પ્રાયોગિક સુવિધાઓ">
@@ -898,13 +905,16 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "બ્રાઉઝર">
 <!ENTITY mls_notification_channel "&vendorShortName; સ્થાન સેવા">
 <!ENTITY download_notification_channel "ડાઉનલોડ">
 <!ENTITY media_notification_channel "મીડિયા પ્લેબેક">
-<!ENTITY media_notification_channel2 "ધ્વનિ અને વિડિઓ">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel "&brandShortName; પુશ સૂચનાઓ">
+<!ENTITY media_notification_channel2 "ધ્વનિ અને વિડિઓ">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; ટિપ્પણીઓ અને યુક્તિઓ">
 <!ENTITY updater_notification_channel "એપ્લિકેશન સુધારાઓ">
 <!ENTITY synced_tabs_notification_channel "સમન્વય કરેલી ટૅબ્સ">
