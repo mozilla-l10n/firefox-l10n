@@ -31,6 +31,7 @@ restore-page-close-button =
 
 welcome-back-tab-title = Sukces!
 welcome-back-page-title = Sukces!
+welcome-back-page-info = Program { -brand-short-name } jest gotowy do używania.
 welcome-back-restore-button =
     .label = Dalej
     .accesskey = D
