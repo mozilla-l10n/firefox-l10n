@@ -12,7 +12,6 @@
 <!ENTITY aboutTelemetry.optionGroupToday "Wakami">
 <!ENTITY aboutTelemetry.optionGroupYesterday "Iwir">
 <!ENTITY aboutTelemetry.optionGroupOlder "Nimalaxel">
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Rupam">
 <!-- LOCALIZATION NOTE(aboutTelemetry.previousPing, aboutTelemetry.nextPing):
 	These strings are displayed when selecting Archived pings, and they’re
 	used to move to the next or previous ping. -->
@@ -30,6 +29,8 @@ Ri <a>Firefox Telemetry winäq wujib'äl</a> k'o taq kitzijol tzij chupam, API w
 <!ENTITY aboutTelemetry.telemetryDashboard "
 Ri <a>Telemetry dashboards</a> nuya' q'ij chawe ye'atz'ët ri taq tzij yeruk'ül ri Mozilla ruma Telemetry.">
 
+<!ENTITY aboutTelemetry.telemetryProbeDictionary "Ri <a>Probe Dictionary</a> nuya' b'anikil chuqa' taq kitzijoxkil ojqanela' emolon ruma ri Telemetry.">
+
 <!ENTITY aboutTelemetry.showInFirefoxJsonViewer "Tijaq pa JSON tz'etonel">
 
 <!ENTITY aboutTelemetry.homeSection "Tikirib'äl">
@@ -42,9 +43,7 @@ Ri <a>Telemetry dashboards</a> nuya' q'ij chawe ye'atz'ët ri taq tzij yeruk'ül
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Taq ruk'u'x Tem K'ulwäch">
 <!ENTITY aboutTelemetry.eventsSection "  Taq molojri'ïl">
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Relik taq etab'äl">
-<!ENTITY aboutTelemetry.telemetryLogSection "  Etataqonel tokisäx">
 <!ENTITY aboutTelemetry.slowSqlSection "  Taq b'ab' SQL ajeqal">
-<!ENTITY aboutTelemetry.chromeHangsSection "  Ri okem pa k'amaya'l nutzeqeb'a' ri'">
 <!ENTITY aboutTelemetry.addonDetailsSection "  Kib'anikil tz'aqat">
 <!ENTITY aboutTelemetry.capturedStacksSection "  Chapon tzub'aj">
 <!ENTITY aboutTelemetry.lateWritesSection "  Yaloj taq tz'ib'anïk">
