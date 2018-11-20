@@ -43,6 +43,7 @@
 <!ENTITY view.recentUpdates.label             "Versi Baru">
 <!ENTITY view.availableUpdates.label          "Versi Baru yang Tersedia">
 
+<!ENTITY preferencesWin.label                  "Opsi &brandShortName;">
 <!ENTITY preferencesUnix.label                 "Pengaturan &brandShortName;">
 
 <!-- addon updates -->
@@ -84,6 +85,7 @@
 <!ENTITY cmd.preferencesUnix.label            "Pengaturan">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Aktifkan">
 <!ENTITY cmd.enableAddon.accesskey            "A">
 <!ENTITY cmd.disableAddon.label               "Matikan">
@@ -161,6 +163,8 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "Tunda">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Batalkan">
 
 <!ENTITY addon.homepage                       "Beranda">
