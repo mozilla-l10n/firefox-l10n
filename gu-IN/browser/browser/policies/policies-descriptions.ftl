@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = about:profiles પાનાંના ઍક્સે
 policy-BlockAboutSupport = about:support પાનાંના ઍક્સેસને અવરોધિત કરો.
 policy-Bookmarks = બુકમાર્ક્સ ટૂલબારમાં બુકમાર્ક્સ બનાવો, બુકમાર્ક્સ મેનૂ, અથવા તેમના અંદરના કોઈ વિશિષ્ટ ફોલ્ડર બનાવો.
 policy-Certificates = આંતરિક પ્રમાણપત્રોનો ઉપયોગ કરવો કે નહીં. આ નીતિ ફક્ત આ જ સમયે વિન્ડોઝ છે.
+policy-CertificatesDescription = પ્રમાણપત્રો ઉમેરો અથવા બિલ્ટ-ઇન પ્રમાણપત્રોનો ઉપયોગ કરો.
 policy-Cookies = કૂકીઝને સેટ કરવા માટે વેબસાઇટ્સને મંજૂરી આપો અથવા નકારો.
 policy-DisableAppUpdate = બ્રાઉઝરને અપડેટ થતાં અટકાવો.
 policy-DisableBuiltinPDFViewer = PDF-js , આંતરિક PDF દર્શકને { -brand-short-name } માં નિષ્ક્રિય કરો.
@@ -42,6 +43,7 @@ policy-DisableSystemAddonUpdate = બ્રાઉઝરને સિસ્ટમ
 policy-DisableTelemetry = ટેલિમેટ્રી બંધ કરો.
 policy-DisplayBookmarksToolbar = મૂળભૂત રીતે બુકમાર્કસ ટૂલબાર દર્શાવો.
 policy-DisplayMenuBar = મૂળભૂત રીતે મેનુ બાર દર્શાવો.
+policy-DNSOverHTTPS = HTTPS પર DNS ને ગોઠવો.
 policy-DontCheckDefaultBrowser = શરુઆત પર મૂળભૂત બ્રાઉઝર માટે તપાસ નિષ્ક્રિય કરો.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = સામગ્રી અવરોયધ સક્રિય અથવા નિષ્ક્રિય કરો અને વૈકલ્પિક રીતે તેને લૉક કરો.
@@ -65,6 +67,8 @@ policy-Proxy = પ્રોક્સી સેટિંગ્સ ગોઠવો
 policy-SanitizeOnShutdown = બંધ કરતી વખતે બધી શોધ માહિતી સાફ કરો.
 policy-SearchBar = શોધ પટ્ટીનું મૂળભૂત સ્થાન સેટ કરો. વપરાશકર્તાને હજુ તેને કસ્ટમાઇઝ કરવાની મંજૂરી છે.
 policy-SearchEngines = શોધ એન્જિન સેટિંગ્સ ગોઠવો. આ નીતિ વિસ્તૃત સપોર્ટ રીલીઝ (ESR) આવૃત્તિ પર જ ઉપલબ્ધ છે.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = PKCS # 11 મોડ્યુલ્સ ઇન્સ્ટોલ કરો.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = વેબસાઇટ્સની મુલાકાત લેવાથી અવરોધિત કરો. રુપરેખા પર વધુ વિગતો માટે દસ્તાવેજીકરણ જુઓ.

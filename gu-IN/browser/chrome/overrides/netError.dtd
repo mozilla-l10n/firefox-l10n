@@ -164,3 +164,4 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "એવું લાગી રહ્યું છે કે તમારાં નેટવર્કની સુરક્ષા વ્યવસ્થા ને કારણે આમ થઇ રહ્યુ છે. શું આપ મૂળભૂત વ્યવસ્થા પાછી લાવવાં ઈચ્છો છો?">
 <!ENTITY prefReset.label "મૂળભુત સેટિંગ પાછા લાવો">
 
+<!ENTITY networkProtocolError.title "નેટવર્ક પ્રોટોકોલ ભૂલ">

@@ -65,6 +65,7 @@ permissions-exceptions-tracking-protection-desc = તમે આ વેબસા�
 permissions-exceptions-content-blocking-window =
     .title = અપવાદો - સામગ્રી અવરોધિત
     .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = તમે આ સાઇટ માટે સામગ્રી અવરોધને નિષ્ક્રીય કર્યું છે.
 
 ## Exceptions - Cookies
 
