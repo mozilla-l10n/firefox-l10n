@@ -84,6 +84,9 @@ extension-controlled-homepage-override = يتحكم أحد الامتدادات 
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = يتحكم أحد الامتدادات (<img data-l10n-name="icon"/> { $name }) في صفحة اللسان الجديد.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = يتحكّم الامتداد <img data-l10n-name="icon"/> { $name } بهذا الإعداد.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = ضبط أحد الامتدادات (<img data-l10n-name="icon"/> { $name }) محرك البحث المبدئي.
@@ -339,6 +342,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = ابحث عن النص مع بداية الكتابة
     .accesskey = ح
+browsing-cfr-recommendations =
+    .label = امتدادات موصى بها وأنت تتصفّح
+    .accesskey = ص
 browsing-cfr-recommendations-learn-more = اطّلع على المزيد
 
 ## General Section - Proxy
@@ -891,3 +897,7 @@ space-alert-under-5gb-message = مساحة القرص قاربت على النف
 desktop-folder-name = سطح المكتب
 downloads-folder-name = التّنزيلات
 choose-download-folder-title = اختر مجلّد التّنزيلات:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = احفظ الملفات في { $service-name }

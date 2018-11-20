@@ -62,6 +62,10 @@ permissions-exceptions-tracking-protection-window =
     .title = الاستثنائات – الحماية من التعقّب
     .style = { permissions-window.style }
 permissions-exceptions-tracking-protection-desc = لقد عُطلت حماية التعقب على مواقع الوِب هذه.
+permissions-exceptions-content-blocking-window =
+    .title = الاستثناءات - حجب المحتوى
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = عطّلت حجب المحتوى في هذه المواقع.
 
 ## Exceptions - Cookies
 
