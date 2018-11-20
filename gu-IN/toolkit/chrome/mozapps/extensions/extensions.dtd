@@ -5,6 +5,7 @@
 
 <!ENTITY search.placeholder2                  "addons.mozilla.org પર શોધો">
 
+<!ENTITY search.placeholder3                  "addons.mozilla.org શોધો">
 <!ENTITY search.buttonlabel                   "શોધો">
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
@@ -86,6 +87,7 @@
 <!ENTITY cmd.preferencesUnix.label            "પસંદગીઓ">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 
+<!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "સક્રિય">
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "નિષ્ક્રિય">
@@ -163,6 +165,8 @@
 
 <!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "અટકાવો">
+
+<!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "રદ કરો">
 
 <!ENTITY addon.homepage                       "મુખ્યપાનુ">
