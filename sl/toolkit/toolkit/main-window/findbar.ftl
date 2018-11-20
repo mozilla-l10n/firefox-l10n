@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Označi vse
     .accesskey = v
     .tooltiptext = Označi vse ponovitve iskanega
+findbar-highlight-all2 =
+    .label = Označi vse
+    .accesskey =
+        { PLATFORM() ->
+            [macos] v
+           *[other] v
+        }
+    .tooltiptext = Označi vse ponovitve iskanega
 findbar-case-sensitive =
     .label = Razlikuj velike/male črke
     .accesskey = r
