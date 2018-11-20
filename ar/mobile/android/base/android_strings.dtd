@@ -296,6 +296,13 @@
      Will be used in the context "<Turn on> ... to enable this feature" -->
 <!ENTITY pref_feature_tips_notification_enabling_hint "شغّل">
 
+<!-- Localization note (pref_feature_tips_notification_enabling_path):
+     Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
+<!ENTITY pref_feature_tips_notification_enabling_path "&pref_category_privacy_short; ‏> &pref_category_datareporting; ‏> &datareporting_fhr_title;">
+<!-- Localization note (pref_feature_tips_notification_enabling_hint):
+     Describe the action the user should do to enable this preference. -->
+<!ENTITY pref_feature_tips_notification_enabling_hint2 "(لتفعيل هذا الخيار، لا بد أن يكون &pref_feature_tips_notification_enabling_path; مفعّلا.)">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 <!ENTITY pref_category_experimental "المزايا التجريبية">
@@ -898,10 +905,17 @@ Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel "&brandShortName;">
+
+<!-- Notification channels names -->
+<!ENTITY default_notification_channel2 "المتصفح">
 <!ENTITY mls_notification_channel "خدمات التموضع من &vendorShortName;">
 <!ENTITY download_notification_channel "التنزيلات">
 <!ENTITY media_notification_channel "تشغيل الوسائط">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel "تنبيهات الدفع لِ‍ &brandShortName;">
+<!ENTITY media_notification_channel2 "الصوت والڤديو">
+<!-- These push notifications come without a specific channel and/or name from Leanplum -->
+<!ENTITY leanplum_default_notifications_channel2 "فوائد وخُدع لِ‍‍ &vendorShortName;">
 <!ENTITY updater_notification_channel "تحديثات التطبيق">
 <!ENTITY synced_tabs_notification_channel "الألسنة المُزامنة">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
