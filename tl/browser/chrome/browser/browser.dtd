@@ -991,6 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      ON and is successfully blocking malicious/slow content, so this is
      a positive thing. It forms the end of the (imaginary) sentence
      "Slow-Loading Trackers [are] Blocked"-->
+<!ENTITY contentBlocking.fastBlock.blocked.label "Naharang">
 <!-- LOCALIZATION NOTE (contentBlocking.fastBlock.blocking.label):
      This label signals that this type of content blocking is turned
      ON, so this is a positive thing. It forms the verb in (imaginary) sentence
