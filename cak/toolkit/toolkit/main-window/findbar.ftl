@@ -15,6 +15,14 @@ findbar-highlight-all =
     .label = Tiya'retal ronojel
     .accesskey = r
     .tooltiptext = Tiya' ketal konojel ri taq pajtzij xe'ilitäj
+findbar-highlight-all2 =
+    .label = Tiya' retal ronojel
+    .accesskey =
+        { PLATFORM() ->
+            [macos] I
+           *[other] a
+        }
+    .tooltiptext = Tiya' ketal ronojel ri taq q'aptzij xkewachin pe
 findbar-case-sensitive =
     .label = Na'onel chi ke taq nimatz'ib'
     .accesskey = n
