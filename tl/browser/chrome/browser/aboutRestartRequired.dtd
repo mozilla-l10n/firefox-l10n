@@ -5,5 +5,9 @@
 <!ENTITY restartRequired.title "Kailangang i-Restart">
 
 <!ENTITY restartRequired.header "Paumahin. May kailangan muna kaming gawin bago magpatuloy.">
+<!ENTITY restartRequired.description "
+<p>May na-install na update.I-click ang Restart &brandShortName; para makumpleto ito..</p>
+<p>Maibabalik ang lahat ng iyong mga page, windows, at mga tab pagkatapos para matuloy mo ang iyong mga gawain. </p>
+">
 
 <!ENTITY restartButton.label "i-Restart ang &brandShortName;">

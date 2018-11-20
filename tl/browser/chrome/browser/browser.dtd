@@ -379,6 +379,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Web Developer">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY devtoolsRecordExecution.label "Record Execution">
+<!ENTITY devtoolsSaveRecording.label "Save Recording">
 
 <!ENTITY inspectContextMenu.label     "Inspect Element">
 <!ENTITY inspectContextMenu.accesskey "I">
@@ -389,6 +391,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "Bagong Lalagyanan ng Tab">
 <!ENTITY newUserContext.accesskey         "B">
+<!ENTITY manageUserContext.label          "Manage Containers">
 <!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "Bagong Window">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -983,6 +986,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Lahat ng nakikitang window sa iyong screen ay ibabahagi.">
 
 <!ENTITY contentBlocking.title "Content Blocking">
+<!ENTITY contentBlocking.detected "May natuklasang nilalaman na maaring harangin sa pahinang ito.">
+<!ENTITY contentBlocking.notDetected "Walang natuklasang nilalaman na maaring harangin sa pahinang ito.">
 <!ENTITY contentBlocking.disabled.label "Di magamit">
 
 <!ENTITY contentBlocking.fastBlock.label "Mga mabagal mag load na Tracker">
@@ -1142,6 +1147,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
 <!ENTITY tabHideControlled.header.message "I-access ang Iyong Mga Nakatagong Tab">
+<!ENTITY tabHideControlled.keepButton.label "Panatiling nakatago ang mga Tab">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
 <!ENTITY tabHideControlled.disableButton.label "Disable Extension">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
