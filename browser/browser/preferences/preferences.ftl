@@ -53,6 +53,7 @@ pane-sync-title = Cuenta Firefox
 category-sync =
     .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } Asistencia
+addons-button-label = Extensiones y temas
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,9 @@ extension-controlled-homepage-override = Una extensión, <img data-l10n-name="ic
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = Una extensión, <img data-l10n-name="icon"/> { $name }, controla su página de nueva pestaña.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlled-web-notifications = Una extensión, <img data-l10n-name="icon"/> { $name }, está controlando esta configuración.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Una exensión, <img data-l10n-name="icon"/> { $name }, ha establecido su buscador predeterminado.
@@ -149,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Advertirle al cerrar múltiples pestañas
     .accesskey = A
+warn-on-quit-close-multiple-tabs =
+    .label = Advertir al salir y cerrar múltiples pestañas
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Advertirle cuando al abrir múltiples pestañas se pueda ralentizar { -brand-short-name }
     .accesskey = v
@@ -284,6 +291,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Actualizar automáticamente los buscadores
     .accesskey = A
+update-pref-write-failure-title = Error de escritura
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = No se puede guardar la preferencia. No se ha podido escribir al archivo: { $path }
 
 ## General Section - Performance
 
@@ -323,6 +334,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Buscar texto cuando comience a escribir
     .accesskey = x
+browsing-cfr-recommendations =
+    .label = Recomendar extensiones mientras se navega
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = Saber más
 
 ## General Section - Proxy
@@ -525,6 +539,7 @@ privacy-header = Privacidad del navegador
 ## Privacy Section - Forms
 
 forms-header = Formularios y contraseñas
+logins-header = Usuarios y contraseñas
 forms-ask-to-save-logins =
     .label = Preguntar para guardar contraseñas e inicios de sesión de sitios web
     .accesskey = r
@@ -597,6 +612,9 @@ sitedata-keep-until-expire =
     .label = Caduquen
 sitedata-keep-until-closed =
     .label = cierre { -brand-short-name }
+sitedata-delete-on-close =
+    .label = Eliminar cookies y datos del sitio cuando cierre { -brand-short-name }
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Aceptar cookies y datos del sitio
     .accesskey = A
@@ -670,6 +688,9 @@ content-blocking-fastblock-slow-loading-trackers-label =
     .label = Rastreadores de carga lenta
     .accesskey = S
 content-blocking-fastblock-new-description = Bloquear solo los rastreadores que impiden cargar rápidamente las páginas.
+content-blocking-tracking-protection-trackers-label =
+    .label = Rastreadores
+    .accesskey = T
 content-blocking-tracking-protection-all-detected-trackers-label =
     .label = Todos los rastreadores detectados
     .accesskey = T
@@ -868,3 +889,7 @@ space-alert-under-5gb-message = { -brand-short-name } se está quedando sin espa
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Elegir carpeta de descarga:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Guardar archivos en { $service-name }

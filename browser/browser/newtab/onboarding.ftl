@@ -27,3 +27,4 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Navegue más rápido, de manera más inteligente o segura, con extensiones como Ghostery, que le permite bloquear anuncios molestos.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sincronizar
+onboarding-fxa-text = Regístrese para tener una { -fxaccount-brand-name } y sincronice sus marcadores, contraseñas y pestañas abiertas allá donde utilice { -brand-short-name }

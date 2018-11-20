@@ -18,6 +18,7 @@ policy-BlockAboutProfiles = Bloquear el acceso a la página about:profiles.
 policy-BlockAboutSupport = Bloquear el acceso a la página about:support.
 policy-Bookmarks = Crear marcadores en la barra de herramientas de marcadores, en el menú de marcadores o en una carpeta específica dentro de los mismos.
 policy-Certificates = Usar o no los certificados incluidos de serie. Esta política es solo para Windows en este momento.
+policy-CertificatesDescription = Añada certificados o use los certificados incluidos de serie.
 policy-Cookies = Permitir o denegar a los sitios web establecer cookies.
 policy-DisableAppUpdate = Evitar que el navegador se actualice.
 policy-DisableBuiltinPDFViewer = Desactivar PDF.js, el visor de PDF integrado en { -brand-short-name }.
@@ -66,6 +67,8 @@ policy-Proxy = Configurar los ajustes del proxy.
 policy-SanitizeOnShutdown = Limpiar todos los datos de navegación al cerrar.
 policy-SearchBar = Establecer la ubicación predeterminada de la barra de búsqueda. El usuario todavía puede personalizarla.
 policy-SearchEngines = Configurar los ajustes del motor de búsqueda. Esta política solo está disponible en la versión Extended Support Release (ESR).
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instalar módulos PKCS #11.
 # “format” refers to the format used for the value of this policy. See also:
 # https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
 policy-WebsiteFilter = Bloquear sitios web para que no sean visitados. Consulte la documentación para obtener más detalles sobre el formato.
