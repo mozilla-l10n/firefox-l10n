@@ -97,6 +97,7 @@
 
 <!ENTITY certerror.longpagetitle1 "Sambungan Anda tidak aman">
 <!ENTITY certerror.longpagetitle2 "Peringatan: Potensi Risiko Keamanan Menghadang">
+<!ENTITY certerror.sts.longpagetitle  "Tidak Tersambung: Potensi Masalah Keamanan">
 <!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -105,6 +106,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.secondPara "Masalah ini mungkin disebabkan karena jam komputer Anda diatur ke waktu yang salah, yang dapat mencegah &brandShortName; untuk tersambung secara aman.">
 
+<!ENTITY certerror.sts.introPara "&brandShortName; mendeteksi potensi ancaman keamanan dan tidak dapat melanjutkan ke <span class='hostname'/> karena situs ini memerlukan sambungan aman.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Apa yang bisa Anda lakukan mengenai masalah ini?">

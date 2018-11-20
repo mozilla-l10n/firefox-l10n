@@ -153,6 +153,9 @@ open-new-link-as-tabs =
 warn-on-close-multiple-tabs =
     .label = Ingatkan ketika menutup banyak tab sekaligus
     .accesskey = m
+warn-on-quit-close-multiple-tabs =
+    .label = Ingatkan ketika keluar dan menutup banyak tab
+    .accesskey = m
 warn-on-open-many-tabs =
     .label = Ingatkan bahwa ketika membuka banyak tab mungkin akan memperlambat { -brand-short-name }
     .accesskey = l
@@ -276,6 +279,10 @@ update-application-use-service =
 update-enable-search-update =
     .label = Mutakhirkan mesin pencari secara otomatis
     .accesskey = m
+update-pref-write-failure-title = Kegagalan Penulisan
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Gagal menyimpan preferensi. Tidak dapat menulis ke file: { $path }
 
 ## General Section - Performance
 
@@ -315,6 +322,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Cari teks saat Anda mulai mengetik
     .accesskey = k
+browsing-cfr-recommendations =
+    .label = Sarankan ekstensi seiring penjelajahan Anda
+    .accesskey = r
 browsing-cfr-recommendations-learn-more = Pelajari lebih lanjut
 
 ## General Section - Proxy
@@ -590,6 +600,9 @@ sitedata-keep-until-expire =
     .label = Kedaluwarsa
 sitedata-keep-until-closed =
     .label = { -brand-short-name } ditutup
+sitedata-delete-on-close =
+    .label = Hapus kuki dan data situs ketika { -brand-short-name } ditutup
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = Terima kuki dan data situs
     .accesskey = T
