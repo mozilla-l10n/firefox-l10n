@@ -425,14 +425,14 @@ containers-add-button =
     .label = Tambahkan Kontainer Baru
     .accesskey = T
 containers-preferences-button =
-    .label = Preferensi
+    .label = Pengaturan
 containers-remove-button =
     .label = Hapus
 
 ## Sync Section - Signed out
 
 sync-signedout-caption = Bawalah Web bersama Anda
-sync-signedout-description = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan preferensi di berbagai peranti Anda.
+sync-signedout-description = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan pengaturan di berbagai peranti Anda.
 sync-signedout-account-title = Sambungkan dengan { -fxaccount-brand-name }
 sync-signedout-account-create = Tidak punya akun? Buatlah
     .accesskey = B
@@ -635,7 +635,7 @@ sitedata-cookies-exceptions =
 # This is a warning message shown next to a yellow warning icon when the Cookies and Site Data subsection
 # in Preferences has been disabled due to Content Blocking being disabled. It is displayed next to the
 # Cookies and Site Data section.
-sitedata-warning-your-settings-prevent-changes = Setelan Anda di Pemblokiran Konten mencegah perubahan atas setelan Kuki dan Data Situs.
+sitedata-warning-your-settings-prevent-changes = Setelan Anda di Pemblokiran Konten mencegah perubahan atas pengaturan Kuki dan Data Situs.
 
 ## Privacy Section - Address Bar
 
@@ -650,7 +650,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Tab terbuka
     .accesskey = T
-addressbar-suggestions-settings = Ubah preferensi untuk saran mesin pencari
+addressbar-suggestions-settings = Ubah pengaturan untuk saran mesin pencari
 
 ## Privacy Section - Content Blocking
 
@@ -698,7 +698,7 @@ content-blocking-reject-trackers-description = Blokir semua kuki pihak ketiga at
 # of the Content Blocking UI in Preferences has been disabled due to the either the "All cookies" option
 # or the "Cookies from unvisited websites" option being selected in the Cookies and Site Data section of
 # the UI.
-content-blocking-reject-trackers-warning-your-settings-prevent-changes = Setelan Anda di Kuki dan Data Situs mencegah perubahan pada setelan Kuki Pihak Ketiga.
+content-blocking-reject-trackers-warning-your-settings-prevent-changes = Pengaturan Anda di Kuki dan Data Situs mencegah perubahan pada setelan Kuki Pihak Ketiga.
 content-blocking-change-cookie-settings =
     .label = Ubah Setelan Kuki
     .accesskey = U
@@ -854,7 +854,7 @@ space-alert-learn-more-button =
 space-alert-over-5gb-pref-button =
     .label =
         { PLATFORM() ->
-            [windows] Buka Opsi
+            [windows] Buka Pengaturan
            *[other] Buka Pengaturan
         }
     .accesskey =
@@ -864,8 +864,8 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] { -brand-short-name } kehabisan ruang diska. Konten situs web mungkin tidak dapat tampil secara tepat. Anda dapat membersihkan data tersimpan dalam Pengaturan > Privasi & Keamanan > Kuki dan Data Situs.
-       *[other] { -brand-short-name } kehabisan ruang diska. Konten situs web mungkin tidak dapat tampil secara tepat. Anda dapat membersihkan data tersimpan dalam Pengaturan > Privasi & Keamanan > Kuki dan Data Situs.
+        [windows] { -brand-short-name } kehabisan ruang disk. Konten situs web mungkin tidak dapat tampil secara tepat. Anda dapat membersihkan data tersimpan dalam Pengaturan > Privasi & Keamanan > Kuki dan Data Situs.
+       *[other] { -brand-short-name } kehabisan ruang disk. Konten situs web mungkin tidak dapat tampil secara tepat. Anda dapat membersihkan data tersimpan dalam Pengaturan > Privasi & Keamanan > Kuki dan Data Situs.
     }
 space-alert-under-5gb-ok-button =
     .label = Oke, Beres
