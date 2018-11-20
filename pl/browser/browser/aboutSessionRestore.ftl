@@ -36,3 +36,4 @@ welcome-back-restore-button =
     .accesskey = D
 welcome-back-restore-all-label = Przywróć wszystkie okna i karty
 welcome-back-restore-some-label = Przywróć wybrane okna i karty
+welcome-back-page-info-link = Dodatki i modyfikacje programu zostały usunięte, a ustawienia przeglądarki zostały przywrócone do domyślnych. Dostępne są również <a data-l10n-name="link-more">inne możliwości</a> jeśli nie rozwiąże to problemu.
