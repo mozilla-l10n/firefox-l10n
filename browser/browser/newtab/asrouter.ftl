@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = ليس الآن
     .accesskey = ل
 cfr-doorhanger-extension-ok-button = أضِف الآن
     .accesskey = ض
+cfr-doorhanger-extension-manage-settings-button = أدِر إعدادات التوصيات
+    .accesskey = د
+cfr-doorhanger-extension-never-show-recommendation = لا تعرض لي هذه التوصية
+    .accesskey = ت
 cfr-doorhanger-extension-learn-more-link = اطّلع على المزيد
 # This string is used on a new line below the add-on name
 # Variables:
