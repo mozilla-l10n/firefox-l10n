@@ -8,6 +8,7 @@
 <!ENTITY loadError.label "Problema ng pagkarga ng pahina">
 <!ENTITY retry.label "Ulitin">
 <!ENTITY returnToPreviousPage.label "Bumalik">
+<!ENTITY returnToPreviousPage1.label "Bumalik (Recommended)">
 <!ENTITY advanced.label "Naka-usad">
 <!ENTITY continue2.label "Marami pa…">
 <!ENTITY moreInformation.label "Kadagdagang Impormasyon">
@@ -115,6 +116,7 @@ was trying to connect. -->
 
 <!ENTITY blockedByPolicy.title "Naka-block na Pahina">
 
+<!ENTITY clockSkewError.title "Mali ang oras ng iyong computer">
 
 <!ENTITY prefReset.longDesc "Mukhang ang iyong mga setting ng seguridad sa network ay maaaring magdulot nito. Nais mo bang maibalik ang mga default na setting?">
 <!ENTITY prefReset.label "Ibalik ang default settings">
