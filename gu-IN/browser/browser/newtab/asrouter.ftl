@@ -9,6 +9,10 @@ cfr-doorhanger-extension-cancel-button = હમણાં નહિ
     .accesskey = N
 cfr-doorhanger-extension-ok-button = હમણાંજ ઉમેરો
     .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = ભલામણ સેટિંગ્સ મેનેજ કરો
+    .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = મને આ ભલામણ બતાવશો નહીં
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = વધુ શીખો
 # This string is used on a new line below the add-on name
 # Variables:
