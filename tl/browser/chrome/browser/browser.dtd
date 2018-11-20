@@ -1009,6 +1009,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the type of content blocking is currently not enabled. -->
 <!ENTITY contentBlocking.fastBlock.add.label "Harangan…">
 
+<!ENTITY contentBlocking.trackingProtection2.label "Natuklasang mga Sumusubaybay">
 <!-- LOCALIZATION NOTE (contentBlocking.trackingProtection.blocked.label):
      This label signals that this type of content blocking is turned
      ON and is successfully blocking tracker content, so this is
@@ -1171,6 +1172,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.syncNotReady.label "Nag-sysync ng Devices…">
 
 <!ENTITY pageAction.shareUrl.label "Share">
+<!ENTITY pageAction.shareMore.label "Karagdagang detalye…">
 
 <!ENTITY libraryButton.tooltip "Tingnan ang kasaysayan, naka-save na mga bookmark, at higit pa">
 
